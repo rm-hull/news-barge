@@ -11,6 +11,27 @@ image: https://techcrunch.com/wp-content/uploads/2025/03/EthanThornton5.jpg?resi
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- Huntington Beach
+- Silicon Valley
+people:
+- Ethan Thornton
+- Mach
+- Shaun Maguire
+- Stephanie Zhan
+organisations:
+- Bedrock Capital
+- Crusoe
+- Exquadrum
+- Infinite Capital
+- MIT
+- Mach Energetics
+- Mach Industries
+- Mach Propulsion
+- Ribbit Capital
+- Sequoia
+- U.S. Army
 ---
 
 Defense tech startup Mach Industries has raised a fresh $600 million in capital in a Series C extension round that has doubled its valuation to $3.7 billion, the company announced on Thursday. It announced the original Series C in June, which was $300 million at a $1.8 billion valuation. Investors in both tranches include Ribbit Capital, Infinite Capital, Bedrock Capital, and Sequoia.

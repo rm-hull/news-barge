@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Bramham Park
+- LIAM RUSSELL
+- Newcastle
+- North East
+- UK
+- Yorkshire
+people:
+- Finn Keogh
+- Holly Humberstone
+- LIAM RUSSELL
+- Sam Fender
+organisations:
+- KEO
+- Leeds Festival
 ---
 
 *(Image: LIAM RUSSELL)*

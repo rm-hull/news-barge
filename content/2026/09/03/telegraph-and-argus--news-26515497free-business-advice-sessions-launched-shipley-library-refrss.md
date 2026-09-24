@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+people: []
+organisations:
+- Invest
+- Shipley Library’s Enterprise Hub
 ---
 
 *(Image: T&A)*

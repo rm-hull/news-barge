@@ -10,6 +10,18 @@ description: Microsoft is pulling apps it recently forced you to install
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF-2000-80.jpg
+locations: []
+people:
+- Copilot
+- Craig Hale
+organisations:
+- Admins
+- Craig’s
+- Google News
+- Microsoft
+- People and Files
+- TechRadar Pro
+- Windows Search Box
 ---
 
 ![Windows 11 on a laptop](https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF.jpg)

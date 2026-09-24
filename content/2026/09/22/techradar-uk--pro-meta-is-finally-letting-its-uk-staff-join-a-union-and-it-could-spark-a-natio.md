@@ -12,6 +12,24 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/QjbKdMt7whnQrYoGM6Mqvm-2560-80.jpg
+locations:
+- UK
+people:
+- Benedict Collins
+- Margaret Thatcher
+- Mike Clancy
+organisations:
+- AI
+- APT
+- BUCSIS
+- Bill
+- Google News
+- Meta Platforms, Inc
+- Prospect
+- Right of Access
+- TechRadar Pro
+- UK Department for Business & Trade
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![In this photo illustration, the Meta Platforms, Inc. logo is displayed on a smartphone screen.](https://cdn.mos.cms.futurecdn.net/QjbKdMt7whnQrYoGM6Mqvm.jpg)

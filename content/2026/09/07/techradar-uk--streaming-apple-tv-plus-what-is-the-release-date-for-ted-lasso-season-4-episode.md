@@ -12,6 +12,32 @@ image: https://cdn.mos.cms.futurecdn.net/8mnGGgexpLzr2pCNCbNBG4-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North and South America
+- SGT
+- Singapore
+- UK
+- US
+people:
+- Keeley
+- Rebecca
+- Roy
+- Ted Lasso
+- Tom
+organisations:
+- Apple TV
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![Ted smiling while sitting down in Ted Lasso season 4 episode 6](https://cdn.mos.cms.futurecdn.net/8mnGGgexpLzr2pCNCbNBG4.jpg) 

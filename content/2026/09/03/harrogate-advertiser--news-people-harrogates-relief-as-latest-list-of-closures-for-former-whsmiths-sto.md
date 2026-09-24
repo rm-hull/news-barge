@@ -13,6 +13,34 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Cambridge Street
+- Clevedon
+- Harrogate
+- Helston
+- Kenilworth
+- London
+- Oxford Street
+- Southend-on-Sea
+- UK
+- Victoria Shopping Centre
+- York
+people: []
+organisations:
+- '## Harrogate'
+- A R News Ltd
+- Cambridge
+- Cardigan
+- High Court
+- Modella Capital
+- Post Office
+- Redhill
+- Swindon
+- TG Jones
+- WH Smith
+- WHSmith's
+- WHSmiths
+- Wells
 ---
 
 # Harrogate's relief as latest list of closures for former WHSmiths stores in UK is revealed

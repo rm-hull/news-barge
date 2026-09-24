@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Arizona
+- Bright Angel Campground
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- Flagstaff
+- Grand Canyon
+- North Kaibab Trail
+- North Kaibab Trailhead
+- North Rim
+- Phantom Ranch
+- Phantom Ranch Canteen
+people:
+- Justin Johndrow
+organisations:
+- Associated Press
+- National Park Service
+- National Weather Service
 ---
 
 One person died and about 15 people were missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on Saturday afternoon, according to the National Park Service.

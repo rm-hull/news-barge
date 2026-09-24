@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- London
+- Putney Bridge
+- Tube
+people:
+- Matt Knowles
+- Oliver Salbris
+organisations:
+- CCTV
+- Met Police
+- Metropolitan Police
+- Putney Safer Neighbourhood Team
 ---
 
 A man arrested in connection with the notorious “Putney pusher” case has been released under investigation, the Metropolitan Police have said.

@@ -10,6 +10,16 @@ description: If you can live without auto-duplex, this inexpensive ink tank is a
 image: https://cdn.mos.cms.futurecdn.net/xrMFfivfzZWvnWNWxBkLsG-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Jim Hill
+people:
+- Jim
+organisations:
+- AirPrint
+- Chromebook
+- HP Smart
+- Smart Tank
+- TechRadar Pro
 ---
 
 ### TechRadar Verdict

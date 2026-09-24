@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- North York Moors
+- Sutton Bank National Park Centre
+- Thirsk
+people:
+- Carly Frame
+- Jackie Crozier
+organisations:
+- Little Bird Made
+- Little Bird Markets
+- Sutton Bank
+- Wild Spore
 ---
 
 Artisan stalls and handmade treasures return to the moors this weekend as an artisan market makes its latest stop in Thirsk.

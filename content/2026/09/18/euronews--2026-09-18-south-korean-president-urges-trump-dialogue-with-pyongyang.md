@@ -12,6 +12,36 @@ image: https://images.euronews.com/articles/stories/09/91/84/28/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Blue House
+- Indo-Pacific
+- Islamic Republic of Iran
+- Japan
+- Middle East
+- North Korea
+- Pyongyang
+- Russia
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+- Western Pacific
+- White House
+people:
+- '## Iran Lee'
+- '## Kim'
+- '## Trump'
+- Donald Trump
+- Kim Jong-un
+- Kim Yo Jong
+- Lee Jae Myung
+organisations:
+- DPRK
+- KCNA
+- Truth Social
+- US Pacific Command
 ---
 
 ## Trump announced in August that he intended to meet with North Korean leader Kim Jong-un later this year as he once again touted the pair's relationship. Pyongyang has offered little response.

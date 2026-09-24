@@ -10,6 +10,32 @@ image: https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- US
+people:
+- Claude Code
+- Marc Benioff
+organisations:
+- AI Credits
+- API
+- Anthropic
+- CTO
+- Claude
+- Codifiedstrategy
+- Future plc
+- GC
+- GitHub Copilot
+- Goldman Sachs
+- IT
+- KPMG
+- Meta
+- Microsoft
+- OpenAI
+- Salesforce
+- TechRadar Pro
+- TechRadarPro
+- The Information
+- Uber
 ---
 
 ![Big letters AI in pink in front of pink and blue strands of light suggesting a digital explosion](https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL.jpg) 

@@ -11,6 +11,52 @@ image: https://static.independent.co.uk/2026/09/02/11/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- China
+- Gulf
+- Iran
+- Jordan
+- Larak Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United Arab Emirates
+- United States
+- Washington
+- White House
+people:
+- Alex Plitsas
+- Barbara Leaf
+- Donald Trump
+- JD Vance
+- Jennifer Rauchet
+- Joe Biden
+- Marco Rubio
+- Olivia Wales
+- Pete Hegseth
+- Scott Bessent
+organisations:
+- Air Force
+- Army
+- Atlantic Council
+- Congress
+- House of Representatives
+- Iranian Red Crescent Society
+- Nation of Iran
+- Navy
+- Pentagon
+- Republican Party
+- Reuters
+- Reuters/Ipsos
+- Senate
+- State Department
+- Treasury
+- Trump
+- Truth Social
+- Washington Post
 ---
 
 Senior advisers to President Donald Trump are attempting to prevent the military conflict with Iran from worsening ahead of November's midterm elections to curb potential Republican losses at the polls, according to four individuals knowledgeable about the discussions. However, this strategy is already facing severe pressure as exchange strikes between the United States and Iran persist.

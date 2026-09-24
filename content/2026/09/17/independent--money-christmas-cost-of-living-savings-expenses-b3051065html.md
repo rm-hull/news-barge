@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Kara Gammell
+organisations:
+- Food and Drink Federation
+- Google
+- MoneySuperMarket
 ---
 
 The cost of Christmas for an average family in the UK is set to hit a massive £1,681 – up more than £100 on two years ago, new research suggests.

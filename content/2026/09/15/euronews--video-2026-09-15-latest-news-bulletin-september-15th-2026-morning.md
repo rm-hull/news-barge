@@ -12,6 +12,36 @@ image: https://images.euronews.com/articles/stories/09/91/33/10/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Beijing.
+- Ellipse
+- Europe
+- France
+- Gatwick Airport
+- Greenland
+- Hyderabad
+- Iran
+- Kozani
+- Middle East
+- Nuuk
+- Paris
+- Poland
+- Vilnius
+- Warsaw
+- White House
+people:
+- Andris Kulbergs
+- Donald Trump
+- Liam Gallagher
+- Noel
+organisations:
+- Arizona Game and Fish Department
+- Euronews
+- Le Butter Shop
+- Lithuania Brigade
+- Oasis
+- Riga Castle
+- Vatican Library
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

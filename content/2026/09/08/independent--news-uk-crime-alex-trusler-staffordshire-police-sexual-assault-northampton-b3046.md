@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/09/08/15/01M20AM1MA2QF357KM7CK7CTYS
 categories:
 - News & Politics
 - UK
+locations:
+- Burntwood
+people:
+- '![Trusler'
+- Alex Trusler
+- Caroline Marsh
+- Chris Pembridge
+- Mark Karpinski
+- Rebecca Crane
+organisations:
+- Anti-Corruption Unit
+- College of Policing
+- Northampton Crown Court
+- Staffordshire Police
+- Stafforshire Police
 ---
 
 A police constable who carried out "lecherous and predatory" sexual assaults against three colleagues has avoided an immediate custodial sentence.

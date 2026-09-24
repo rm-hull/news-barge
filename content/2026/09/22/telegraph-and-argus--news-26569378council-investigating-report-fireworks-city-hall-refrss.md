@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20791160.jpg?type=og-image
+locations:
+- Bradford
+- City Hall
+- Norfolk Gardens
+people: []
+organisations:
+- BRADFORD Council
+- Bradford Council
+- City Hall
+- T&A
+- Telegraph & Argus
 ---
 
 BRADFORD Council is investigating a report that fireworks were set off outside City Hall as part of a wedding this past weekend.

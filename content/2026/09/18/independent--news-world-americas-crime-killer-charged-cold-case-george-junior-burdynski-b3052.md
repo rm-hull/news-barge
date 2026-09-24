@@ -13,6 +13,28 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Brentwood
+- Burdynski
+- Maryland
+- Prince George County
+- Prince George's County
+- Virginia
+- Washington, D.C.
+people:
+- DJ Windsor
+- George 'Junior' Burdynski
+- George Burdynski Sr.
+- George Nader
+- George “Junior” Burdynski
+- James Kowalski
+- Joseph Lynch
+- Nicole Visbal
+organisations:
+- FBI
+- George’s County Police
+- NBC 4
+- NBC News
 ---
 
 A suspect has been arrested in connection with the cold case disappearance and murder of 10-year-old George “Junior” Burdynski more than 30 years ago.

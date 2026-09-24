@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Palantir
+- UK
+- US
+people:
+- David Shoebridge
+- Gabrielle Josling
+- Peter Thiel
+- Tom Sulston
+organisations:
+- ACIC
+- AI
+- Australian Criminal Intelligence Commission
+- Coles
+- Digital Rights Watch
+- FFC
+- FoI
+- Fraud Fusion Centre
+- Fraud Fusion Taskforce
+- Greens
+- Guardian Australia
+- NDIA and Services Australia
+- NDIS
+- National Disability Insurance Agency
+- Palantir
 ---
 
 Personal information of national disability insurance scheme participants may have ended up in controversial software company Palantir’s analytics platform as part of a massive multi-agency sharing program investigating fraud, Guardian Australia can reveal.

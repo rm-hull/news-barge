@@ -13,6 +13,20 @@ image: https://cdn.mos.cms.futurecdn.net/AMsur7sY75ejvEhKJXGyd4-2048-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Nyrius Phoenix Home
+- Phoenix Home
+people:
+- Carrie Marshall
+organisations:
+- Dolby Atmos
+- Google News
+- LG
+- Nyrius Phoenix Home
+- Phoenix Home
+- Samsung
+- USB-C
+- Unquiet Mind
 ---
 
 ![Image of the Nyrius Phoenix Home wireless HDMI in use in a neutrally decorated room](https://cdn.mos.cms.futurecdn.net/AMsur7sY75ejvEhKJXGyd4.png) 

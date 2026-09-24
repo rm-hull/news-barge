@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Cagnes-sur-Mer
+- Cannes
+- France
+- French Riviera
+- Nice
+- Paris
+people:
+- Bryan Masson
+- James Ratcliffe
+- Madame Colonna Romano
+- Pierre-Auguste Renoir
+- Young Woman
+organisations:
+- AP
+- Art Loss Register
+- Ici Azur
+- Louvre Museum
+- Renoir Museum
+- The Associated Press
 ---
 
 Thieves stole four valuable Renoir paintings on Tuesday from a small museum on the French Riviera, but abandoned two of them as they fled, the local mayor said. Police are searching for the perpetrators.

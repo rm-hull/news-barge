@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Canada
+- Hollywood
+- U.S.
+- United States
+people:
+- Donald Trump
+- George Clooney
+- Jennie Carignan
+- Mark Carney
+- Pete Hegseth
+organisations:
+- CBC News
+- Canadian Armed Forces
+- Hegseth
+- Pentagon
+- Vernon Cadets
 ---
 
 Hollywood star George Clooney, an outspoken Democrat, condemned Defense Secretary Pete Hegseth for being “cruel” after Hegseth posted a photo of two members of the Canadian cadet program, seemingly to mock their physical appearance.

@@ -13,6 +13,17 @@ categories:
 - UK
 - Technology & Software
 - True Crime
+locations:
+- Albany
+- Georgia Walmart
+people:
+- Lol
+organisations:
+- APD
+- Albany Police Department
+- Facebook
+- Georgia Walmart
+- The Independent
 ---
 
 A man who seemingly thought he lucked out after finding $30 on the ground at a Georgia Walmart instead became the subject of a police manhunt after pocketing the cash.

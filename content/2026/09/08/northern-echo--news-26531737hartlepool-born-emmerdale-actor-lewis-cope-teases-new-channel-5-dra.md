@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Cork
+- Ireland
+- North East
+- Northumberland
+- Shetland
+people:
+- Amy Nuttall
+- Carol Crottie
+- Denise Welch
+- Douglas Henshall
+- Downton Abbey
+- Graham Norton
+- Helen Williams
+- Jenny Walser
+- Kaden
+- Kevin Whately
+- Lewis Cope
+- Morse
+- Ms Walser
+- Robert Barrie
+- Sally
+- Shane Zaza
+organisations:
+- Channel 5
+- Emmerdale
+- Happy Valley
+- Heartstopper
+- Loose Women
 ---
 
 *(Image: Helen Williams/ Channel 5)*

@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/vjVvzwiYFa64Xg3JENnT4b-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations: []
+people:
+- Karen Freeman
+organisations:
+- '### Terra Kaffe Aero'
+- Amazon
+- AppAdvice
+- Apple
+- Baristina Milk Frother
+- CNET
+- Cold Foam
+- Google News
+- Hot Froth
+- Hot Milk
+- LED
+- Macworld
+- Matte Black
+- Stainless Steel
+- TechRadar
+- Terra Kaffe
+- Terra Kaffe Aero
+- Terra Kaffe Auto
+- Tom’s Guide
+- WatchAware
+- iMore
 ---
 
 ### TechRadar Verdict

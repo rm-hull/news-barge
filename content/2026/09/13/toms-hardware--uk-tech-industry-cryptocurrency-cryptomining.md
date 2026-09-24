@@ -13,6 +13,21 @@ categories:
 - Hardware
 - Science
 - Personal Finance & Investing
+locations:
+- AI
+- CKpool
+- Iran
+- U.S.
+people:
+- Bitmain
+organisations:
+- BTC
+- Bitfarm
+- GPU
+- Get Tom's Hardware
+- Pearl
+- Slush
+- Washington Bitcoin
 ---
 
 ![GPU mining](https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-320-80.jpg)

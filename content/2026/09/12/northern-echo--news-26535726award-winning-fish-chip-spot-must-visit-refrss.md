@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Sports
 - Food & Cooking
+locations:
+- Darlington
+- North East
+- Trenchers New Quay Road
+- UK
+- US
+- United States
+- Whitby
+- Yorkshire
+people:
+- Trenchers
+organisations:
+- Chip Restaurant
+- Trenchers
+- Trenchers!
+- Tripadvisor
+- Whitby Abbey
 ---
 
 *(Image: Tripadvisor)*

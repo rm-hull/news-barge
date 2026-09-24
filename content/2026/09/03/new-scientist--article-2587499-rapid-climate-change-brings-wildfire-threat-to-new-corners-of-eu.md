@@ -13,6 +13,53 @@ categories:
 - Science
 - Technology & Software
 - Travel
+locations:
+- Atlantic
+- Belgium
+- Black Forest
+- California
+- Cheshire
+- Cotignac
+- Cyprus
+- England
+- Europe
+- France
+- Germany
+- Gironde
+- Greece
+- Ireland
+- Italy
+- London
+- Los Angeles
+- Netherlands
+- Portugal
+- Spain
+- Staffordshire
+- Turkey
+- UC San Diego
+- UK
+- US
+- Wales
+people:
+- Alexander Held
+- Di Giuseppe
+- Francesca Di Giuseppe
+- Maik Billing
+- Neal Driscoll
+- Raul Cordero Carrasco
+- Wopke Hoekstra
+organisations:
+- AI
+- Earth Fire Alliance
+- European Centre
+- European Commission
+- European Forest Institute
+- European Union
+- Google
+- LinkedIn
+- Potsdam Institute for Climate Research
+- SpaceX
+- University of Groningen
 ---
 
 ![wildfire on July 21, 2026 in Cotignac, France](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310528974.jpg?w=840)

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Alexios Mantzarlis
+- Nicky Baker
+organisations:
+- ASA
+- Animcha Ltd
+- Facebook
+- Grok
+- Instagram
+- Meta
+- Nexaipic
+- Rusto AI
+- The Advertising Standards Authority
 ---
 
 ![A man, whose face has been cut off in the picture, holding a phone with both hands while resting his arms on a wooden table. There are out-of-focus plants in the background. He's wearing a dark green t shirt.](https://ichef.bbci.co.uk/ace/standard/860/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg)

@@ -14,6 +14,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- English Channel
+- Europe
+- UK
+people:
+- Andy Burnham
+- Boris Johnson
+- Keir Starmer
+- Margaret Thatcher
+organisations:
+- Brexit
+- EU
+- European Union
+- Logistics UK
 ---
 
 The repercussions of both manmade and natural disasters can last for years, decades, even centuries – and, it must be said, the same goes for Britain’s departure from the European Union.

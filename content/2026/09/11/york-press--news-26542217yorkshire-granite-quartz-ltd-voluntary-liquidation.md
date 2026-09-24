@@ -13,6 +13,21 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '**York'
+- Kirkgate
+- Knaresborough
+- North Yorkshire
+people:
+- Ian Graham
+organisations:
+- Companies House
+- Ellis Breese Business Recovery and Insolvency Ltd
+- FK Building Ltd of Harrogate
+- HMRC
+- Quartz Ltd
+- Selby
+- Yorkshire Granite
 ---
 
 *(Image: Staff)*

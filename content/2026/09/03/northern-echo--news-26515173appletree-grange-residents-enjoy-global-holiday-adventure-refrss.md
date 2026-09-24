@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Australia
+- Birtley
+- Bishop Auckland
+- Chester-le-Street
+- Cornwall
+- County Durham
+- Darlington
+- France
+- Greece
+- Italy
+- Mexico
+- Tunisia
+people: []
+organisations:
+- Alex Hall Music
+- Appletree Grange
+- Appletree Grange Care Home
+- Barchester Healthcare
 ---
 
 A care home has taken residents on a round-the-world adventure without leaving their doorstep.

@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Black Caribbean
+- Britain
+- England
+people:
+- Bridget Phillipson
+organisations:
+- Cabinet Office
+- Department for Education
+- Office for Equality and Opportunity
+- SCM
+- SMC
+- Social Mobility Commission
+- Star Academies
+- State of the Nation
+- Sutton Trust
 ---
 
 The government is putting class at the heart of its equalities agenda by creating a new unit that will make tackling white working-class inequality a priority.

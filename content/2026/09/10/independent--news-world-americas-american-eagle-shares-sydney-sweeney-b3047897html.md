@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Sydney
+- Wall Street
+people:
+- Coco Gauff
+- Craig Brommers
+- Jenna Ortega
+- Sydney Sweeney
+- Taylor Swift
+- Travis Kelce
+organisations:
+- Abercrombie
+- Aerie
+- American Eagle
+- American Eagle Outfitters
+- Gen Z
+- Great Jeans
+- Kelce
+- Morgan Stanley
+- NFL
+- Sydney Sweeney
+- Tru Kolors
 ---
 
 American Eagle Outfitters shares tumbled more than 11% in premarket trading on Thursday after a stagnant quarterly gross-margin forecast overshadowed a second-quarter revenue beat, driven by persistent weakness in its main brand—a year on from launching its controversial "Great Jeans" campaign featuring Sydney Sweeney.

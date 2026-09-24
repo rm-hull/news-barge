@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thenorthernecho.co.uk/resources/images/21488929.jpg?type=og-image
+locations:
+- A689
+- Bishop Auckland
+- County Durham Boy
+- East End
+- East End Bridge
+- Stanhope Fire Station
+- Wolsingham Park
+- Wolsingham Person
+people:
+- PAUL WILLIS
+organisations:
+- County Durham
+- Darlington Fire and Rescue
+- GNAAS
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
+- RVI
 ---
 
 One person was taken to hospital after a two-vehicle crash near Bishop Auckland today.

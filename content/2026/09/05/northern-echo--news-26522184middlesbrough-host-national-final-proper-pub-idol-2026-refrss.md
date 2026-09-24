@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Music
 - Sports
+locations:
+- Beehive
+- Bird
+- Crown Colliery
+- Darlington
+- Felling
+- Middlesborough
+- Middlesbrough
+- North East
+- North Shields
+- Rosies Tavern
+- Royal George Tavern
+- Shildon
+- Spring Gardens
+- Stockton
+- Sunderland
+- Turks Head
+- UK
+- Washington
+people:
+- Boldon Colliery
+organisations:
+- Blue Bell
+- Miners Arms
+- PUBS
+- Prosecco
+- Stag Inn
+- Take!
+- VK
 ---
 
 *(Image: Proper Pubs)*

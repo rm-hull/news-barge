@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- UK
+- USA
+people:
+- '## Clancy'
+- '## Lindsay Clancy'
+- Callan
+- God
+- Gregory Saathoff
+- Jennifer Sprague
+- Jennifer Tufts
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Mom
+- Patrick Clancy
+- Paul Zeizel
+- Paula Musgrove
+- Susan Clancy
+- William Sullivan
+organisations:
+- '## Defense'
+- 988 Suicide and Crisis Lifeline
+- FBI’s Behavioral Analysis Unit
+- Massachusetts Supreme Judicial Court
+- Plymouth County District Attorney
+- Samaritans
 ---
 
 A mistrial has been declared in Lindsay Clancy’s murder trial despite a last-minute attempt by her defense attorney to halt the ruling.

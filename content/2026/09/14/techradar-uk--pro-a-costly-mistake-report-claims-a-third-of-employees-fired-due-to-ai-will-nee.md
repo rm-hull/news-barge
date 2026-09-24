@@ -13,6 +13,24 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- AI
+- Christian Cawley
+- Tori Paulman
+organisations:
+- '**Gartner'
+- AI
+- CIOs
+- Computer Weekly
+- ComputerActive
+- Gartner
+- Google News
+- IT
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
+- VP
 ---
 
 ![Angry man ripping out his hair in front of his laptop](https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB.jpg) 

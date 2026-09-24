@@ -13,6 +13,56 @@ categories:
 - Arts & Culture
 - History
 image: https://i.guim.co.uk/img/media/20e3b8c528d3073cbdccd820b1357afe3a76fb89/293_0_5605_4484/master/5605.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e718d133003b0b429bfda9a3815c0196
+locations:
+- Bandra West
+- Dastkar
+- Delhi
+- Europe
+- France
+- Humayunpur
+- India
+- Italy
+- Karnataka
+- Lower Parel
+- Lucknow
+- Maharashtra
+- Mumbai
+- Seoul
+- West Bengal
+people:
+- Ashneer Grover
+- Bahaish Kapoor
+- Chanakya
+- Dior
+- Fendi
+- Hrithik Roshan
+- Kalhath
+- Karishma Swali
+- Lorenzo Bertelli
+- Mohammed Amine Dadda
+- Payal Khandwala
+- Phyllida Jay
+- Prada
+- Ralph Lauren
+- Rokibuz Zaman
+- Samarth Kasliwal
+- Scroll
+- Sharon Stone
+organisations:
+- BharatPe
+- Chanakya International
+- Chanakya School of Craft
+- Dior
+- EU
+- Financial Times
+- Gateway of India
+- Gem Palace
+- How India
+- Jongno
+- Kalhath Institute
+- Prada
+- Swali
+- UPI
 ---
 
 The zardozi embroidery on a Dior dress, the T-strap leather sandals at a Prada show, the mirror-work technique used on a Fendi bag – for decades, the skill of Indian artisans has been an invisible force behind some of the world’s most coveted fashion.

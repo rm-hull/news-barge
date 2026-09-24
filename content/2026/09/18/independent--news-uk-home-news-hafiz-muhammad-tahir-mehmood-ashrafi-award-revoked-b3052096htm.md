@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Britain
+- Canterbury
+- Lambeth Palace
+- Pakistan
+people:
+- God
+- Hafiz Muhammad Tahir Mehmood Ashrafi
+- Imam Ashrafi
+- Osama bin Laden
+- Salman Rushdie
+- Sarah Mullally
+- Stephen Evans
+- bin Laden
+organisations:
+- Anglican Communion
+- Church of England
+- NSS
+- National Secular Society
+- Pakistan Ulema Council
 ---
 
 The Archbishop of Canterbury has withdrawn an award given to a Muslim cleric who praised Osama bin Laden.

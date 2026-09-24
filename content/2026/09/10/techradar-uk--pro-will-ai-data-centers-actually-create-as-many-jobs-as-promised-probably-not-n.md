@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Craig Hale
+- Verdant
+organisations:
+- Craig’s
+- Google News
+- TechRadar Pro
+- Verdant
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c.jpg) 

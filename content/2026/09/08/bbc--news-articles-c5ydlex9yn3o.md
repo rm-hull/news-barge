@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Canada
+- East Jerusalem
+- France
+- Ganim
+- Gaza Strip
+- Israel
+- Jordan Valley
+- Jordan.
+- London
+- Ramallah
+- Spain
+- State of Palestine
+- UK
+- US
+- United States
+- Washington
+- West Bank
+- al-Mughayyir
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Ed Miliband
+- Ehud Olmert
+- George HW Bush
+- Gideon Saar
+- God
+- Husam Zomlot
+- James Baker
+- Mike Huckabee
+- Yitzhak Shamir
+organisations:
+- International Court of Justice
+- International Gaza Support Centre
+- Palestinian Authority
 ---
 
 Watch: There is ethnic cleansing in areas of the West Bank, says Miliband

@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- U.S.
+people: []
+organisations:
+- Creator Revenue Sharing Program
+- Elon Musk
+- FDIC-insured Cross River Bank
+- Stripe
+- X Money
 ---
 
 Elon Musk’s social network X on Wednesday said that starting today, all of its U.S. creator payouts will be handled through X Money, the app’s payments service.

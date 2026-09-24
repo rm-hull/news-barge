@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/KPkcVSMyiTsPZ9QjHvoDtX-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Christian Cawley
+- Raghu Kulkarni
+organisations:
+- Computer Weekly
+- ComputerActive
+- FSD
+- Google News
+- IDrive Autonomy
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![Uber Wayve Vehicle](https://cdn.mos.cms.futurecdn.net/KPkcVSMyiTsPZ9QjHvoDtX.jpg) 

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin
+- Czech Republic
+- Germany
+- Leipzig
+- Magdeburg
+- Poland
+- Querfurt
+- Saxony-Anhalt
+- Thuringia
+people:
+- Alice Weidel
+- Friedrich Merz
+- Lars Klingbeil
+- Ollie
+- Sven Schulze
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- BBC
+- BSW
+- CDU
+- SPD
 ---
 
 ![Top candidate of the far-right Alternative for Germany (AfD), Ulrich Siegmund, with party co leaders Alice Weidel and Tino Chrupalla, reacts after polls closed, on the day of the Saxony-Anhalt state elections](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg)

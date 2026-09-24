@@ -13,6 +13,19 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21483309.jpg?type=og-image
+locations:
+- Bell Farm Avenue
+- Hull Road
+- Huntington Road
+- Islamic Centre
+- St Nicks’ Nature Reserve
+- York Mosque
+people:
+- David Harrison
+- Harry Bayman
+- Ian Peart
+- Sarah Tyrer
+organisations: []
 ---
 
 *(Image: David Harrison)*

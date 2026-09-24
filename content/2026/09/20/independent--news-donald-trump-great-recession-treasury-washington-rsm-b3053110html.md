@@ -16,6 +16,29 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/17/19/Federal_Reserve_Warsh_7557_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Jackson Hole
+- U.S.
+- Wyoming
+people:
+- Donald Trump
+- Elizabeth Pancotti
+- Joe Brusuelas
+- Kevin Warsh
+organisations:
+- AI
+- Alphabet
+- Bank of America
+- Facebook
+- Fed
+- Federal Reserve
+- Google
+- Groundwork Collaborative
+- Meta
+- RSM
+- Treasury
+- Truth Social
 ---
 
 President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say.

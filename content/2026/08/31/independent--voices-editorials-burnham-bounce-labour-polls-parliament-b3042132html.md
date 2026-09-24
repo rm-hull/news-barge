@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/08/31/13/2026-08-27T102124Z_1703089
 categories:
 - News & Politics
 - UK
+locations:
+- Restore Britain
+- Westminster
+people:
+- Andy Burnham
+- John Curtice
+- Keir Starmer
+- Kemi Badenoch
+- Nigel Farage
+- Zack Polanski
+organisations:
+- House of Commons
+- Labour
+- Reform UK
 ---
 
 Bad news – and some less bad news – for Britain’s new-ish prime minister. First, the bad news: the high priest of psephology, Professor Sir John Curtice, believes the “Burnham bounce” lasted only two weeks; polling numbers, albeit somewhat disparate, corroborate his conclusion, and the mere fact that Andy Burnham isn’t Sir Keir Starmer has not been enough to propel Labour into a commanding lead over their current nearest rivals Reform UK – even after a challenging summer for Nigel Farage.

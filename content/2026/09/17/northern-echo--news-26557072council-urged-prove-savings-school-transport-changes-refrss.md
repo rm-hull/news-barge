@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Hall
+- North Yorkshire
+- Northallerton
+people:
+- Felicity Cunliffe-Lister
+- Howard Emmett
+- Jo Foster
+- Mike Jordan
+- Peter Lacey
+- Rachel Joyce
+organisations:
+- Liberal Democrat
+- North Yorkshire Council
+- PIR
+- Reform
+- STAG
+- School Transport Action Group
 ---
 
 North Yorkshire Council has been called on to show evidence of cost savings resulting from its controversial home-to-school transport changes as Reform say they will cancel the policy if they get chance.

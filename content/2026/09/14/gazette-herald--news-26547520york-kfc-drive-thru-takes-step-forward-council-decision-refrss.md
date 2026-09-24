@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Monks Cross
+- Monks Cross Drive
+- Monks Cross Shopping Park
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- KFC
+- Lidl
+- Lionacre
+- Marsdens Catering of Sheffield Ltd
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

@@ -11,6 +11,18 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Aaron Perris
+- John Ternus
+- Mark Gurman
+- Siri HomePods
+- Tim Cook
+organisations:
+- AirPods
+- Amazon Echo
+- Bloomberg’s Apple
+- Samsung
 ---
 
 It’s finally happening — this week, we are (probably) about to see Apple’s first foldable iPhone, more than five years after Samsung launched its first foldable phone.

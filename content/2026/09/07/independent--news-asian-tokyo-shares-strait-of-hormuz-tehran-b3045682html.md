@@ -14,6 +14,34 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Tehran
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Linh Tran
+- Stephen Innes
+- Yuri Kageyama
+organisations:
+- AI
+- BOJ
+- Bank of Japan
+- Fed
+- Federal Reserve
+- SK Hynix
+- Samsung Electronics
+- Shanghai Composite
+- Treasury
+- XS.com
 ---
 
 Asian shares were trading mixed on Monday, with benchmarks in Tokyo and Seoul leading gains thanks to buying of computer chipmakers' stocks.

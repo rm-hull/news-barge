@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckinghamshire
+- Dove Stone
+- East Sussex
+- England
+- England.
+- Greater Manchester
+- Isle of Wight
+- Midlands
+- Northern Ireland
+- Prestwick
+- Saddleworth
+- Scotland
+- South Ayrshire
+- UK
+- Wales
+people: []
+organisations:
+- Dove Stone Reservoir
+- EA
+- Environment Agency
+- Environment Agency.
+- National Drought Group
 ---
 
 ![Commuters walking in the rain with umbrellas up](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/58f6/live/4182cae0-aab1-11f1-bdcc-b5edf6495ed5.png)

@@ -15,6 +15,11 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Society & Culture
+locations: []
+people:
+- Cansel Kiziltepe
+organisations:
+- Senator for Social Affairs
 ---
 
 © dpa

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Big Bend National Park
+- Humane Borders
+- New Mexico
+- Texas
+- U.S.
+- White House
+people:
+- Brad Jones
+- Donald Trump
+- Joe Biden
+organisations:
+- Arizona Daily Star.
+- Border Patrol
+- Congress
+- Humane Borders
+- Immigration and Customs Enforcement
+- Pima County Office of the Medical Examiner
+- Supreme Court
+- The Independent
+- UC Davis Global Migration Center
 ---
 
 The remains of 19 dead migrants, including children, were found in the Arizona desert near the U.S.-Mexico border last month, a two-year record, according to data from the Pima County Office of the Medical Examiner and the advocacy group Humane Borders.

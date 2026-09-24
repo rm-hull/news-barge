@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg
+locations:
+- Dnieper River
+- Kyiv
+- Right Banks
+- Romankiv
+- Russia
+- US
+- Ukraine
+people:
+- Daria
+- Donald Trump
+- Iryna
+- Janet Ball
+- Nadia Tsybina
+- Natalia Bushkovska
+- Olha Vlasova
+- Serhiy
+- Vitali Klitschko
+- Volodymyr Zelensky
+organisations:
+- BBC Verify
+- BBC World Service
+- Daria
+- Epstein
+- Kyiv
+- Left
+- Olha
+- Plan C
+- State Emergency Service
 ---
 
 ![Daria is pictured by the window of an apartment building, with blurred views of the city behind her](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg)

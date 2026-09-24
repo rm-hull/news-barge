@@ -11,6 +11,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/10/01M31FHBT0AKV8Y9F61925BREY.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Belfast
+- England
+- Midlands
+- Northern Ireland
+- UK
+- Yorkshire
+people:
+- Annette Barnes
+organisations:
+- Leeds BS
+- Leeds Building Society
 ---
 
 The UK high street and consumers alike have been given a boost with the news that a major lender has committed to keeping all branches open for at least five years.

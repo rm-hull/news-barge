@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Fell Close
+- Scalby
+- Scarborough Magistrates Court
+- Seamer Street
+- St Johns Road
+- Whitby Youth Hostel
+people:
+- Brian Martin
+- Jacob Hodgson
+- James Arron-Cameron
+- Jamie Clements
+- Joshua Ratcliffe-Tunnah
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

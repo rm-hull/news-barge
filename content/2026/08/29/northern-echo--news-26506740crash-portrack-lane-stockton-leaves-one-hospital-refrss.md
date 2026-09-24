@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- North Tees
+- Portrack Lane
+- Stockton
+- University Hospital
+people: []
+organisations:
+- Asda
+- Cleveland Police
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

@@ -10,6 +10,24 @@ image: https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- UK
+- ZeroTier
+people: []
+organisations:
+- CIO
+- CISO
+- CISOs
+- CTO
+- Future plc
+- Google
+- IBM
+- NIST
+- National Cyber Security Centre
+- PKC
+- PQC
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Quantum computing](https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E.jpg) 

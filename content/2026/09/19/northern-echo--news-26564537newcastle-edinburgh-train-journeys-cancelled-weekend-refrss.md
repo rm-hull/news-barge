@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21475961.jpg?type=og-image&xType=0&yType=13
+locations:
+- Alnmouth
+- Ashington
+- Berwick
+- Berwick-upon-Tweed
+- Carlisle
+- Chathill
+- Cramlington
+- Darlington
+- Dunbar
+- East Coast Main Line
+- East Linton
+- Edinburgh
+- London King's Cross
+- Manchester Airport
+- Middlesbrough Riverside Stadium
+- Morpeth
+- National Rail
+- Newcastle
+- North East
+- Northumberland Park
+- Reston
+- Tyne and Wear Metro
+people: []
+organisations:
+- CrossCountry
+- LNER
+- London North Eastern Railway
+- Lumo
+- NORTHERN ECHO
+- National Rail
+- Northern
+- ScotRail
+- TransPennine Express
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/08/29/16/APTOPIX_Israel_Palestinian
 categories:
 - News & Politics
 - UK
+locations:
+- Al-Aqsa Martyrs
+- Deir al-Balah
+- Gaza City
+- Iran
+- Israel
+- Middle East
+- Shifa
+- U.S.
+- United States
+people:
+- Ayatollah Mojtaba Khamenei
+- Hossein Taeb
+- Mohsen Rezaei
+organisations:
+- Al-Aqsa Martyrs
+- Basij
+- Hamas
+- Revolutionary Guard
+- Supreme National Security Council
+- U.N.
 ---
 
 Israeli strikes and fire have killed three Palestinians in Gaza. And Iran’s leadership now centers on military generals and clerics who are long entrenched in the ruling theocracy.

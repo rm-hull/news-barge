@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- New York City
+- Oxford United
+- Pennsylvania
+- Pentagon
+- Shanksville
+- Twin Towers
+- US
+- Washington DC
+people: []
+organisations:
+- Campus Clothing
+- Headington
+- Oxford United
+- US Capitol Building
+- United Airlines
+- World Trade Center
 ---
 
 ![Female model wearing a yellow and blue shirt with "United 93" on the back](https://ichef.bbci.co.uk/ace/standard/975/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg)

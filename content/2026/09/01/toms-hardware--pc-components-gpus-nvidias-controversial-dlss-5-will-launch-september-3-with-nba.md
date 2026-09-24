@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Jensen Huang
+- Stephen Warwick
+- Tom
+organisations:
+- 2K
+- Apple
+- DLSS 5
+- GPU
+- GeForce Now
+- Get Tom's Hardware
+- Google News
+- NBA
+- Nvidia
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY.jpg) 

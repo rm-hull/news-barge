@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Horsforth
+- Leeds North West
+- North West
+- Otley
+- River Café
+- Wharfebank Mills
+people:
+- Global Scarves
+- Julie Milner
+- Katie White
+- Ms White
+organisations:
+- British Cycling
+- Business Brew
+- Leeds North West Labour
+- River Cafe
 ---
 
 *(Image: submitted)*

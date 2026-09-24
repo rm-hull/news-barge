@@ -12,6 +12,41 @@ categories:
 - Technology & Software
 - Science
 - Society & Culture
+locations:
+- AI
+- UK
+- US
+- xAI
+people:
+- AI
+- Alex Sobel
+- Alexandra Freeman
+- Bernie Sanders
+- Connor Leahy
+- Darren Jones
+- Elon Musk
+- Greg Casar
+- Jaan Tallinn
+- Jess Asato
+- Kanishka Narayan
+- Keir Starmer
+- Tim Clement-Jones
+- Viscount Camrose
+organisations:
+- AI Security Institute
+- Ada Lovelace Institute
+- Anthropic
+- Conjecture
+- ControlAI
+- DeepMind
+- House of Representatives
+- Labour
+- Organization for Economic Cooperation and Development
+- Senate
+- Skype
+- Trump Administration
+- United Nations
+- WIRED
 ---
 
 A leading British politician has urged the United Nations to intervene in “the unsafe development of super intelligence” after an Anthropic team leader posted: “We really do earnestly believe AI could kill all humans!”

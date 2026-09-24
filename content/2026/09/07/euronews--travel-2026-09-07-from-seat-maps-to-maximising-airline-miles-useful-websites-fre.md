@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Germany
+- Honolulu
+- London City
+- Queenstown
+- UK
+people:
+- Tripit
+organisations:
+- AeroLOPA
+- Google Flights
+- LOPA
+- Meilen Junkies
+- MilesFeed
+- PointsBuzz
+- Ryanair
+- Skyscanner
 ---
 
 ## If you want to make sure your window seat actually has a window, or you’re looking to save cash by earning more miles, here are the sites you need to bookmark.

@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Emmerdale
+- Home Farm
+- ITV
+- Ian West
+people:
+- Amanda Barrie
+- Baby Tate
+- Cain
+- Caleb
+- Claire King
+- DS Ramsden
+- Dawn
+- Elliot
+- Ian West
+- Jamie
+- Jimmy King
+- Joe
+- Kim
+- Mark Bruce
+- Nick Miles
+- Nicola King
+- Nicola Wheeler
+- Olivia Bromley
+- Patsy Kensit
+- Robert
+- Ruby
+- Sadie King
+- Steph Beacham
+- Thea Ramsden
+organisations:
+- Charity
+- Chelsea Edge
+- DC Thea Ramsden
+- Dingles!
+- IT’S
+- NICU
+- PA Wire
 ---
 
 IT’S been quite the week in Emmerdale.

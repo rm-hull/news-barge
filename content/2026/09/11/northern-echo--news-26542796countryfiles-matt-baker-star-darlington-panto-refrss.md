@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington Hippodrome
+- Durham
+- North East
+people:
+- Belle
+- Greggs
+- Jack
+- Jamie Jones
+- Josh Benson
+- Liv Newcomb
+- Matt Baker
+- Mrs Potty
+- Neisha-Yen Jones
+- Silly Billy
+organisations:
+- Blue Peter
+- Crossroads Pantomimes
+- Darlington Hippodrome
+- Northern Echo
+- The One Show
 ---
 
 A County Durham-born television star will take centre stage in Darlington Hippodrome's this Christmas pantomime.

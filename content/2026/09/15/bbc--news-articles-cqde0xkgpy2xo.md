@@ -11,6 +11,38 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2baf/live/eb2ecd
 categories:
 - UK
 - News & Politics
+locations:
+- Aberbargoed
+- Barnet
+- Blackwood
+- Caerphilly
+- Cardiff Bay
+- Casnewydd Islwyn
+- London
+- Senedd
+- Wales
+people:
+- Casnewydd Islwyn
+- Chris Evans
+- Dan Thomas
+- Jane Dodds
+- Ken Skates
+- Marc Jones
+- Mims Davies
+- Nathan Gill
+- Nigel Farage
+- Sarah Cooper-Lesadd
+organisations:
+- Conservatives to Reform
+- Gwent Police
+- Plaid Cymru
+- Plaid Cymru Senedd
+- Press Association
+- Reform UK
+- Reform Wales
+- State for Wales
+- Welsh Labour
+- Welsh Liberal Democrat
 ---
 
 ![Dan Thomas looking off to the left hand side of the camera, with a blue background behind him. He is wearing a suit and white shirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2baf/live/eb2ecdb0-b127-11f1-a540-61c3f7fc4e6c.jpg)

@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/16/12/Congress__673_.jpg?width=1
 categories:
 - News & Politics
 - UK
+locations:
+- Barbados
+- Memorial Sloan Kettering Monmouth
+people:
+- Casey Means
+- Chris Klomp
+- Donald Trump
+- Janette Nesheiwat
+- Nicole Saphier
+- Robert F. Kennedy Jr.
+- Timothy Westlake
+organisations:
+- Coca-Cola
+- DropRx
+- Empower MD LLC
+- FDA
+- Fox News
+- Fox News Channel
+- Health and Human Services Department
+- Hershey Co.
+- Mayo Clinic
+- Philip Morris
+- Ross University School of Medicine
+- Saphier
+- Senate
+- Substance Abuse and Mental Health Services Administration
+- The Associated Press
+- Trump
+- Yum Brands
 ---
 
 Dr. Nicole Saphier, President Donald Trump's third nominee to serve as surgeon general, will face lawmakers at her confirmation hearing Wednesday in the latest attempt to fill the post known as the nation's doctor.

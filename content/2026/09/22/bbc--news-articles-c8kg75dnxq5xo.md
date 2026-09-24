@@ -13,6 +13,26 @@ categories:
 - True Crime
 - Law & Justice
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/229c/live/6dc62400-b68a-11f1-97fb-8d66d3951490.png
+locations:
+- Hemsby
+- Norfolk
+- Parliament Square
+- Strasbourg
+- UK
+people:
+- Ayomindy Bile
+- Connor Barrett
+- Jesse Quaye
+- Simon Creighton
+organisations:
+- Court of Appeal
+- ECHR
+- European Convention on Human Rights
+- European Court of Human Rights
+- High Court
+- Parliament
+- Supreme Court
+- UK Supreme Court
 ---
 
 ![Jesse Quaye and Ayomindy Bile: Sentenced to a minimum of 15 years](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/229c/live/6dc62400-b68a-11f1-97fb-8d66d3951490.png)

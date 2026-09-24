@@ -10,6 +10,26 @@ image: https://cdn.mos.cms.futurecdn.net/tFUwFA9LyqJL3gfxSvmf5P-1564-80.png
 categories:
 - Technology & Software
 - Careers & Productivity
+locations:
+- Backrooms
+- Hollywood
+people:
+- Chiwetel Ejiofor
+- Kane Parsons
+- Lucy Buglass
+- Mary Kline
+- Renate Reinsve
+- Trevor Henderson
+organisations:
+- '2026'
+- A24
+- Dread Central
+- Google News
+- Lucy Goes
+- Rotten Tomatoes
+- TechRadar
+- The Simpsons
+- Warner Bros
 ---
 
 ![Chiwetel Ejiofor in Backrooms, where he's in an empty yellow room. He is touching a wall and looks scared.](https://cdn.mos.cms.futurecdn.net/tFUwFA9LyqJL3gfxSvmf5P.png) 

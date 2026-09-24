@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Middlesbrough
+- Saltburn
+- Station Street
+- Teesside
+- The Nook
+people:
+- Becky Lewis
+organisations:
+- Cleveland Police
+- Saltburn
+- The Nook
 ---
 
 A Saltburn play café is offering Teesside emergency service workers free sessions with their young children.

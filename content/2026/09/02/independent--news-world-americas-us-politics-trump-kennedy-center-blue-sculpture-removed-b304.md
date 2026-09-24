@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kennedy Center
+- U.S.
+- United States
+people:
+- Christopher R. Cooper
+- Donald J Trump Plaza’
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump-dominated
+- Joel Shapiro
+- John F. Kennedy
+- John F.”
+- Joyce Beatty
+- Roy Lichtenstein
+organisations:
+- '![Workers'
+- Congress
+- Department of Justice
+- Donald Trump-dominated
+- Ellen Phelan Foundation
+- Hands Off the Arts
+- Hirshhorn Museum
+- Instagram
+- Joel Shapiro
+- Kennedy Center
+- Kennedy Center board
+- National Park Service
+- Portland Art Museum
+- The John F. Kennedy Memorial Center for the Performing Arts
+- The Trump Kennedy Center Fund
+- Trump Kennedy Center Fund
 ---
 
 A towering stick-man sculpture on the Kennedy Center’s grounds is being removed as the venue’s Donald Trump-dominated board begins a massive renovation project at the president’s direction.

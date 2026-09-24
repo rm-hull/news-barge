@@ -18,6 +18,25 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- America
+- Mar-a-Lago
+- Rose Garden
+- White House
+people:
+- Adam Schiff
+- Alex Brandon
+- Donald H. Rumsfeld
+- Donald Trump
+- Hillary Clinton
+- James Comey
+- Joe Biden
+- Lisa Cook
+- Robert Jackson
+- William Cooper
+organisations:
+- The Trial
+- Trump
 ---
 
 # Weaponising justice jeopardises American democracy - William Cooper

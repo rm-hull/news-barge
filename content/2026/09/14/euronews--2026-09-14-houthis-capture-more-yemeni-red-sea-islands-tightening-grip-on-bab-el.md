@@ -14,6 +14,52 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Abha
+- Aden
+- Arabian Peninsula
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Dhubab
+- Djibouti
+- Gaza
+- Greater
+- Indian Ocean
+- Iran
+- Iraq
+- Khamis Mushait
+- Lebanon
+- Lesser Hanish
+- Mediterranean Sea
+- Mokha
+- Perim Island
+- Persian Gulf
+- Red Sea
+- Riyadh
+- Saada
+- Sana'a
+- Saudi Arabia
+- Strait of Hormuz
+- Taiz
+- Tehran
+- UAE
+- US
+- Yemen
+people:
+- Ansar Allah
+- Khanzad Shah
+- Rashad al-Alimi
+- Sultan al-Arada
+organisations:
+- Axis of Resistance
+- Hamas
+- Hezbollah
+- Human Rights Ministry
+- IRGC
+- Islamic Relief
+- SABA
+- Saudi Civil Defence
+- UN
 ---
 
 ## The Hanish archipelago fell after hundreds of government-allied forces withdrew, adding to Houthi control of Mokha and Perim Island. More than 80,000 people have been displaced in two weeks of fighting, as the internationally recognised government vows to regroup.

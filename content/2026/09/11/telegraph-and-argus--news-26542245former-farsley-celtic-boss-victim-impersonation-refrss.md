@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Gainsborough Trinity
+- Guiseley
+- York City
+people:
+- Matt Boles
+- Russ Wilcox
+organisations:
+- Farsley Celtic
+- Football League
+- Gainsborough Trinity FC
+- Gainsborough Trinity Football Club
+- Hull
+- Northampton
+- Northern Premier League
+- Scunthorpe
+- The Football Association
 ---
 
 *(Image: PA)*

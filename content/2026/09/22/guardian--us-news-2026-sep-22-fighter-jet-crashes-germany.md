@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/c88f64fceaf69d5970ae2afdb8604cb1258ddfaa/108_0_784_627/master/784.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8fbb3e5797c6afacb3a75560f71ddc8
+locations:
+- Germany
+- Ramstein
+- Spangdahlem
+- US
+people: []
+organisations:
+- US aAir Force
 ---
 
 ⁠An F-16 fighter jet assigned to the US air ⁠base Spangdahlem ⁠in ​western Germany crashed on Tuesday, the US military said, ⁠adding that one pilot had ejected safely and was receiving ⁠medical treatment.

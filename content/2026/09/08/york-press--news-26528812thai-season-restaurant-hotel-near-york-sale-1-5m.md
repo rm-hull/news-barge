@@ -14,6 +14,23 @@ categories:
 - Travel
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- '## Landmark'
+- A1079 Hull Road
+- Beverley
+- Bishopthorpe Road
+- Market Weighton
+- Pocklington
+- Shambles Market
+- Thailand
+- Wilberfoss
+- York
+people: []
+organisations:
+- Christie & Co
+- Thai Season Hotel
+- Thai Season Restaurant & Hotel
+- Wilberfoss
 ---
 
 ## Landmark hotel and restaurant near York on the market for £1.5million

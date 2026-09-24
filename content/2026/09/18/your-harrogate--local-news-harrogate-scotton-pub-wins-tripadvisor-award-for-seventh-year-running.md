@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6aacdf1830090751d66.jpg
+locations:
+- Knaresborough
+- Main Street
+- Scotton
+people:
+- Adam
+- Danielle Vear
+- Guy Fawkes
+organisations:
+- Guy Fawkes Arms
+- Tripadvisor
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacdf1830090751d66.jpg)

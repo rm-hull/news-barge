@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Chapel and Harriet Room
+- York Cemetery
+people:
+- Jane Duke
+- Jen Dring
+- Roger Goldthorpe
+organisations:
+- York Open Studios
+- York Printmakers
 ---
 
 A printmaking fair is bringing together a community of artists and their unique journeys.

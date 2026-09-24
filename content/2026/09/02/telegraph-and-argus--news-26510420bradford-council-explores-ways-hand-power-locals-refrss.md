@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- UK
+people:
+- Stephen Place
+organisations:
+- Bradford Council
 ---
 
 *(Image: Reform UK)*

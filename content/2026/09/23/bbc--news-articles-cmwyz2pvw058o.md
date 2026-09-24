@@ -13,6 +13,40 @@ categories:
 - History
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a212/live/beefe070-b5ac-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Dundee
+- England
+- Estonia
+- Europe
+- Europe.
+- Glasgow
+- North Ayrshire
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Alex Cole-Hamilton
+- Catriona Matheson
+- Jackie Baillie
+- Kayleigh Kinross-O'Neill
+- Kirsten Horsburgh
+- Maree Todd
+- Miles Briggs
+organisations:
+- BBC Radio Scotland Breakfast
+- EUDA
+- European Union Drugs Agency
+- NRS
+- National Records of Scotland
+- Nitazenes
+- SNP
+- Scottish Drugs Forum
+- Scottish Green
+- Scottish Labour
+- Scottish Liberal Democrat
+- Stirling University
+- Thistle
 ---
 
 ![Needles littering the pavement in a lane in Glasgow](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a212/live/beefe070-b5ac-11f1-8d1d-a985658d9d3a.jpg)

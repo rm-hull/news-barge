@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Beirut
+- NSW
+- New South Wales
+- The Hague
+people:
+- Ashlyn Nassif
+- David Chandler
+- David Elliott
+- Elliot
+- Fabian Gleeson SC
+- Jean Nassif
+- Peggy Dwyer SC
+organisations:
+- Icac
+- NSW Independent Commission Against Corruption
+- NSW Liberal
+- NSW Liberals
+- Westpac
 ---
 
 Fugitive property developer Jean Nassif has declared he is “not corrupt”, claimed his daughter was forced to plead guilty to fraud and threatened to take the New South Wales government to The Hague in an explosive appearance at the state’s corruption watchdog.

@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - History
+locations:
+- Canada
+- France
+- Germany
+- London
+- Netherlands
+- New York
+- Ottawa
+- US
+- United States
+- Zeist
+people:
+- John Plassard
+- Laurent Schwartz
+- Olaf Sleijpen
+organisations:
+- ARD
+- Bundesbank
+- Cite Gestion Private Bank
+- DNB
+- De Nederlandsche Bank
+- National Gold Counter
+- New York Fed
 ---
 
 The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.

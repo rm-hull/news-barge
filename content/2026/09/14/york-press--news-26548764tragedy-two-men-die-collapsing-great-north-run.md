@@ -13,6 +13,12 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- North East
+people: []
+organisations:
+- GNR
+- The Great Run Company
 ---
 
 *(Image: GNR)*

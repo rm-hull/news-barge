@@ -13,6 +13,29 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- '## Major York'
+- Kings Manor
+- North Yorkshire
+people:
+- Brendan Paddison
+- Chloe Wilcox
+- Dave Callan
+- Paul Revell
+- Rebecca Biggins
+- Richard Harpin
+organisations:
+- )* York
+- AI
+- Business Clinic
+- City of York Council
+- Homeserve and Growth Partner
+- Law Clinic
+- ONTO Coaching
+- Pic
+- York Business School
+- York Business School’s Business Clinic and Law Clinic
+- York St John University
 ---
 
 ## Major York business event to tackle range of issues facing employers today

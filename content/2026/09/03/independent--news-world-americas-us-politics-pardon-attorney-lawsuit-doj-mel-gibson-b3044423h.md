@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/03/20/2209074826..?trim=3,0,3,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Hollywood
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Biden
+- Liz Oyer
+- Mel Gibson
+- Todd Blanche
+- Trump
+organisations:
+- DOJ
+- Justice Department
+- Merit Systems Protection Board
+- PBS
+- The Independent
+- Trump
 ---
 
 The former U.S. pardon attorney has sued the Justice Department, alleging she was wrongly fired last year in the face of pressure from the Trump administration after she refused to recommend that actor Mel Gibson have his gun rights reinstated.

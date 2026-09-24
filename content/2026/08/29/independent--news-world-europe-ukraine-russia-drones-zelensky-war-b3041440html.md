@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bucha
+- Kremlin
+- Kyiv
+- Kyiv-area
+- Moscow
+- Russia
+- U.S.
+- Ukraine
+- United States
+- Warsaw
+people:
+- Donald Trump
+- Donald Tusk
+- John Ratcliffe
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Zelenskiy
+organisations:
+- CIA
+- Kyiv
+- NATO
+- Telegram
+- Wall Street Journal
 ---
 
 Ukrainian President Volodymyr Zelensky said on Friday that he has ordered his military to increase its long-range drone strikes against Russia to 1,000 per day, up from around 300 currently.

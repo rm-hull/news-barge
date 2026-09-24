@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Self-Improvement
 - Careers & Productivity
+locations:
+- Scotland
+- UK
+- Wales
+people:
+- Lucinda Frostick
+- Mark Lewis
+- Sherrie Hewson
+organisations:
+- Remember A Charity
 ---
 
 *(Image: Mark Lewis)*

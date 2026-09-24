@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/iTv7HkjWKNMZRpjndYqmDV-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Jeff Adams
+- Lara Croft
+- Michał Kuk
+organisations:
+- Crystal Dynamics
+- Demi Williams
+- Flying Wild Hog
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
+- Wild Hog
 ---
 
 ![A screenshot of Lara Croft engaging with a water and gear puzzle in Tomb Raider: Legacy of Atlantis](https://cdn.mos.cms.futurecdn.net/iTv7HkjWKNMZRpjndYqmDV.jpg) 

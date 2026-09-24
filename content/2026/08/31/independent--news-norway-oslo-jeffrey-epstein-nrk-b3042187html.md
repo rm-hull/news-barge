@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Norway
+- Oslo
+- Red Salon
+people:
+- Haakon VIII
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- Mette-Marit
+organisations:
+- NRK
 ---
 
 The coffin of late King Harald V of Norway traveled through the royal palace to its chapel on Monday, with Queen Mette-Marit joining the procession in her first official appearance since assuming the title.

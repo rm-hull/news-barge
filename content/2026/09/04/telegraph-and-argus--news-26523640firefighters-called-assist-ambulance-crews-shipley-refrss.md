@@ -12,6 +12,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- A657
+- Shipley
+- Wycliffe Gardens
+people: []
+organisations:
+- West Yorkshire Fire and Rescue
+- West Yorkshire Fire and Rescue Service
+- Yorkshire Ambulance Service
 ---
 
 *(Image: T&A)*

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- France
+- Paris
+- U.S.
+people:
+- Givenchy
+- Kim Kardashian
+- Mohand Ouidja
+- Simone Bretter
+organisations:
+- AP
+- Hôtel de Pourtalès
+- The Associated Press
 ---
 
 A Paris court on Tuesday awarded 1 euro ($1.15) to Kim Kardashian for having been the victim of an armed robbery in the French capital in 2016, the amount of compensation she had asked for, according to a lawyer involved in the case.

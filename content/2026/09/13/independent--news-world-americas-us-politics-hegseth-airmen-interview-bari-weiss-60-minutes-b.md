@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/13/16/2294709087..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- U.S.
+people:
+- Bari Weiss
+- Bravo
+- Cain
+- Dan Caine
+- Pete Hegseth
+- Sean Parnell
+- Trump
+organisations:
+- Alpha
+- CBS News
+- CNN
+- Department
+- Independent
+- Joint Chiefs of Staff
+- Joint Force
+- Pentagon
 ---
 
 U.S. Defense Secretary Pete Hegseth reportedly pressured the two crew members of the F-15 shot down over Iran to appear on Bari Weiss's *60 Minutes*, ignoring opposition to the interviews by military officials. 

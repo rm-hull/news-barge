@@ -13,6 +13,23 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '## Yorkshire'
+- Humber
+- North Yorkshire
+- South Yorkshire
+- UK
+- West Yorkshire
+- York
+people:
+- Mat Hunter
+- Rak Kalidas
+organisations:
+- Design Council
+- East Yorkshire
+- Hull
+- Humber
+- Levy
 ---
 
 ## Yorkshire design economy grows by more than half to reach £7.7bn

@@ -12,6 +12,68 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Brussels
+- Canada
+- China
+- Davos
+- Denmark
+- Europe
+- Finland
+- France
+- Germany
+- Greenland
+- Israel
+- Italy
+- Liverpool
+- North America
+- Ottawa
+- Poland
+- Russia
+- Spain
+- Strasbourg
+- Sweden
+- U.S.
+- UK
+- UK-Canada
+- US
+- United States
+- Washington
+people:
+- Alexander Stubb
+- Andy Burnham
+- Donald Trump
+- Emmanuel Macron
+- Giorgia Meloni
+- Mark Camilleri
+- Mark Carney
+- Mark Leonard
+- Paolo Gentiloni
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- BBC
+- Bank of England
+- CETA
+- CEUTIA
+- Canada EU Trade and Investment Association
+- Canadian-EU
+- Comprehensive Economic and Trade Agreement
+- EU Commission
+- European Commission
+- European Council of Foreign Relations
+- European Parliament
+- European Union
+- G7
+- Nato
+- SAFE
+- Saab
+- Security Action for Europe
+- State of the Union
+- Trump
+- Truth Social
+- World Economic Forum
 ---
 
 ![File image of Canadian Prime Minister Mark Carney embracing European Commission President Ursula von der Leyen](https://ichef.bbci.co.uk/ace/standard/699/cpsprodpb/e7a9/live/c11ca250-b108-11f1-a451-6b1ff10ed362.jpg)

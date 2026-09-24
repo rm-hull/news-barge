@@ -13,6 +13,17 @@ categories:
 - York
 - Careers & Productivity
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk3ODc2NzNmLTUwYWEtNGI3MS1iM2RiLWZhYWY5Y2RhNTJjNDphMDI0NmNlOC1jN2VkLTQxY2MtYjQ1Zi02YmI4Y2I3NDNjOTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Doncaster
+- Ireland
+- J Hardy
+- Warmsworth
+people:
+- Richard Ponter
+organisations:
+- RSPCA
+- The Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # Proposals to restrict fireworks will make very little difference - Yorkshire Post Letters

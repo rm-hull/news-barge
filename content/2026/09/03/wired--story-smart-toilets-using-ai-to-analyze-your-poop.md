@@ -12,6 +12,25 @@ image: https://media.wired.com/photos/6a9883d13546f162bf781bd5/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- New York
+people:
+- Crohn
+- Daniel Freedberg
+- Gianluca Ianiro
+- Hendry Parsons
+- Lauren Hendry Parsons
+- Nora Tophof
+- Scott Hickle
+- Throne
+organisations:
+- AI
+- American Gastroenterological Association
+- Catholic University of Rome
+- Kohler Health
+- Mozilla Foundation
+- Throne
+- Tophof
 ---
 
 It was only a matter of time before wellness trackers—already out there trying to optimize our heart rate, sleep, stress, steps, blood sugar, and menstruation—came for perhaps the most private biosignal of all: our poop.

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Queensland
+- Western Australia
+people:
+- Andrew Hastie
+- Ann Widdecombe
+- Anthony Albanese
+- Blair
+- Jacinta Allan
+- Jim Chalmers
+- John Howard
+- Matt Canavan
+- Pauline Hanson
+- Peter Dutton
+organisations:
+- Albanese
+- Coalition
+- Newspoll
+- One Nation
+- Queensland Labor
 ---
 
 At the height of her 1998 re-election fight, Pauline Hanson was challenged to give her honest assessment of John Howard.

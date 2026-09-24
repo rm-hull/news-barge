@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Amundsen Avenue
+- Bradford
+- West Mercia
+- West Yorkshire
+- Wrose
+people:
+- Alan Weekes
+- Dominika Marcinkowska
+- Kasey Fitton
+- Sophie McKone
+organisations:
+- Bradford Crown
+- Bradford District Police
+- Bradford District Safeguarding Team
+- Bradford Safeguarding Unit
+- Fitton
+- Kaseyfitton23
+- Lancashire Police
+- Snapchat
 ---
 
 *(Image: West Yorkshire Police)*

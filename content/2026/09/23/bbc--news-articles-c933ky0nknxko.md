@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce25/live/08123a00-b78d-11f1-9871-9f85ee3099c6.jpg
+locations:
+- Downing Street
+- England
+- Hampden Park
+- Hill Dickinson Stadium
+- New York
+- Scotland
+people:
+- Andy Burnham
+- Leon Brittan
+- Margaret Thatcher
+- Tom Greatrex
+organisations:
+- Charlton Athletic
+- Department for Digital, Culture, Media and Sport
+- Everton
+- FSA
+- Football Supporters' Association
+- Houses of Parliament.
+- Oasis
+- UK Football Policing Unit
+- UKFPU
+- United Nations
+- WSL
+- Women's Super League
+- Wrexham
 ---
 
 ![A football fan holds his pint of beer beneath a sign instructing that no alcohol should be taken beyond this point so he can continue to watch the match. The fan has his back to the camera and is wearing a dark-coloured jacket.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ce25/live/08123a00-b78d-11f1-9871-9f85ee3099c6.jpg)

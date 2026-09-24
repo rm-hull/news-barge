@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Bishopthorpe Road
+- Easy Street
+- YORK
+people:
+- Amy Twiddle
+- CharKnots
+- Jade
+- Jagoda
+- Juicehaus
+- Leonardo Morey
+organisations:
+- )* Juicehaus
+- Bailey House Ceramics
+- Circular Interiors
+- Kaye + Clay
+- Melanie Hill Designs
 ---
 
 A YORK interior designer has opened up a brand-new studio and shop.

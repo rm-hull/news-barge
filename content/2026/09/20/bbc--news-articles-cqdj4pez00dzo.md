@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg
+locations:
+- Arlington Memorial Bridge
+- Arlington National Cemetery
+- Capitals
+- Lincoln Memorial
+- Potomac River
+- US
+- Washington DC
+- Washington Monument
+- White House
+people:
+- Donald Trump
+organisations:
+- Department of Defence
+- Lincoln Memorial Reflecting Pool
+- Oval Office
+- Trump
+- Washington DC
+- White House Rose Garden
 ---
 
 A look at the design plans for Trump's triumphal arch as proposed in April

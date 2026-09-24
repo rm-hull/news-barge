@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/grYa5tA9ZMMqQBjDKcmREf-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Dallas
+- Floor ONE Station
+- Smart Refresh Station
+- Texas
+- Tineco Floor ONE Station
+- Tineco Floor One Station
+- US
+people:
+- Alex Temblador
+- Tineco
+organisations:
+- Amazon
+- Battery
+- Casa Rosada
+- Dirt Level
+- Dry Vacuum
+- Gardeningetc.
+- Homes & Gardens
+- LED
+- Outside
+- Real Homes
+- S9 Scientist Pro
+- TechRadar
+- Tineco Floor One Station
+- TripSavvy
+- Walmart
+- Wet Dry Vacuum
+- Wet Dry Vacuum Cleaner
 ---
 
 ### TechRadar Verdict

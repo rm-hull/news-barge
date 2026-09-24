@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Falkland Islands
+- Falklands
+- North Falkland Basin
+- Sea Lion
+- UK
+- US
+people:
+- Donald Trump
+- Javier Milei
+- Navitas
+organisations:
+- Falkland Islands’
+- Navitas
+- Rockhopper
+- Sea Lion
+- UK Overseas Territory
 ---
 
 A British-based oil exploration company has said it does not expect threats by the Argentinian government to have a “material effect” on its offshore oil project near the Falkland Islands.

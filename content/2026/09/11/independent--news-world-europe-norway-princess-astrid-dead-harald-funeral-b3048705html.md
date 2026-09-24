@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Akershus
+- Belgium
+- Britain
+- Denmark
+- Europe
+- Japan
+- Jordan
+- Luxembourg
+- Monaco
+- Netherlands
+- Norway
+- Oslo Cathedral
+- Royal House
+- Spain
+- Sweden
+- U.K.
+- Ukraine
+people:
+- Akishino
+- Charles III
+- Felipe VI
+- Haakon VIII
+- Harald V
+- Masud Gharahkhani
+- Mette-Marit
+- Princess Astrid
+- Sonja
+- Victoria
+- Volodymyr Zelenskyy
+- William
+organisations:
+- N.K.S
+- Norwegian Women's Sanitary Association
 ---
 
 Norway's Princess Astrid, the older sister of the late King Harald, died on Friday at the age of 94,  just days after the European King’s funeral.

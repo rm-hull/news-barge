@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations: []
+people:
+- Gary Fielding
+- Karl Battersby
+- Nic Harne
+- Richard Flinton
+- Richard Webb
+- Stuart Carlton
+organisations:
+- North Yorkshire Council
 ---
 
 North Yorkshire Council’s retiring chief executive received a total pay package worth almost £245,000 during the last financial year, new figures show.

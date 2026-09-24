@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- England
+- Middlesbrough
+- Riverside Stadium
+- South Bank
+- Teesside
+people:
+- Matthew Blades
+- Stuart Boulton
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Middlesbrough FC
+- Middlesbrough Football Club
+- PC Blades
+- PC Clough
+- West Brom
 ---
 
 Middlesbrough Football Club are inviting supporters to join a tribute to two Cleveland Police officers who tragically lost their lives in the A66 crash last weekend.

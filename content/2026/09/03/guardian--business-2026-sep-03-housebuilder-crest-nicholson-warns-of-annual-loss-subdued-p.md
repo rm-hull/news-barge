@@ -14,6 +14,13 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Real Estate
+locations:
+- Iran
+- UK
+people:
+- Martyn Clark
+organisations:
+- Crest Nicholson
 ---
 
 The British housebuilder Crest Nicholson has warned of a surprise loss this year as it bemoaned difficult trading in a “subdued” property market.

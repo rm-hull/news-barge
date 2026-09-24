@@ -14,6 +14,24 @@ categories:
 - UK
 - Careers & Productivity
 - Self-Improvement
+locations:
+- Central Valley
+- Keene
+- Southern California
+people:
+- César Chavez
+- Dolores Huerta
+- James DeSimone
+- Jane Doe
+organisations:
+- AP
+- Associated Press
+- César Chavez Foundation
+- Kern County Superior Court
+- New York Times
+- UFW Foundation
+- United Farm Workers
+- United Farm Workers Foundation
 ---
 
 One of the organizers who said she was sexually abused by Latino labor leader César Chavez decades ago has sued nonprofits tied to him.

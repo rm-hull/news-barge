@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Flick Williams
+- Flooded York
+- Park & Ride
+- Park & Rides
+- York’s Park & Ride
+people:
+- Andy Burnham
+- Cllr Kate Ravilious
+- Flick Willams
+- Flick Williams
+- Ms Williams
+- Tom Gordon
+organisations:
+- City of York Council
+- Council Labour transport
+- Government
+- Knaresborough
+- LDRS
+- Liberal Democrat Harrogate
+- Local Democracy Reporting Service
+- Park & Ride
+- Park & Rides
+- York and North Yorkshire Combined Authority
 ---
 
 ## Disabled people face fares at some York stops despite free travel extension

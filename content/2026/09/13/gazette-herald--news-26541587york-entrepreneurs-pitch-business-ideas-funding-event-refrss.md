@@ -14,6 +14,28 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Creative Centre
+- North Yorkshire
+- Ripon
+- York St John
+people:
+- Andrew Bishop
+- Charlotte Watkins
+- Henry Rigg
+- Sam Smith
+organisations:
+- Business Growth Manager
+- Growth Hub
+- Innovation Supper
+- North Yorkshire Growth Hub
+- Northminster Business Park
+- Pic
+- Secerna LLP
+- The Firestarter
+- University of St John
+- York St John
+- York St John University
 ---
 
 *(Image: Pic supplied)*

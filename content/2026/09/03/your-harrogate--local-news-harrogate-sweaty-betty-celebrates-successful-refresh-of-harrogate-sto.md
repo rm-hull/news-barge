@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Harrogate
+people:
+- Charlotte Robinson
+- Emily Diamond
+- Robyn McIntyre
+organisations:
+- Sweaty Betty
 ---
 
 ![](https://mmo.aiircdn.com/409/6a996ad4589431f24ff.jpg) 

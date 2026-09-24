@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Britain
+- Canada
+- China
+- Hong Kong
+- Iran
+- New York
+- North Korea
+- U.S.
+people:
+- Donald Trump
+- Meng Wanzhou
+organisations:
+- HSBC
+- Huawei Technologies
+- Skycom
 ---
 
 Huawei Technologies, a leading Chinese tech company, faces a criminal racketeering trial in New York over charges that it stole technology, plotted to steal U.S. trade secrets and committed wire and bank fraud, among other crimes.

@@ -15,6 +15,24 @@ categories:
 - Arts & Culture
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Iceland
+- UK
+people: []
+organisations:
+- Aldi
+- Asda
+- Cadbury
+- Clubcard
+- Dairy Milk Buttons Smash Baubles
+- McVitie
+- McVitie’s
+- Morrisions
+- Morrisons
+- Ocado
+- Pladis
+- Tesco
+- The Christmas Penguin
 ---
 
 *(Image: McVities)*

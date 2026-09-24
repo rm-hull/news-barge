@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/02/14/24/Screenshot-2026-09-02-a
 categories:
 - News & Politics
 - UK
+locations:
+- Texas
+people:
+- Donald Trump
+- Heidi Cruz
+- John F. Kennedy
+- Little Marco
+- Lyin Ted
+- Lyin’ Ted
+- Lyin’ Ted’
+- Marco Rubio
+- Sean Hannity
+- Ted Cruz
+- Texas Ted.’
+organisations:
+- Fox News
+- Senate
 ---
 
 Texas Sen. Ted Cruz actually praised President Donald Trump for calling him“Lyin’ Ted” and slapping him with other derogatory nicknames during the 2016 presidential campaign, saying it was “political genius.”

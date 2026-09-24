@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- James Street
+- Leeds
+- Skipton
+- Ukraine
+people:
+- Ebru Evrim Roberts
+organisations:
+- Chico
+- Ebru Evrim Ltd
+- Evrimotion
+- FK Building Ltd of Harrogate
+- Harrogate Ltd
+- North Yorkshire Pilates
+- Red Kite Recruitment Group
+- The Press
 ---
 
 The entrepreneur behind a highly regarded North Yorkshire Pilates company has recalled how she fought to save the business and deal with many other challenges.

@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - Family & Parenting
 image: https://mmo.aiircdn.com/409/6aacf1c6befb5868af2.jpg
+locations:
+- Boston Spa
+- East Yorkshire
+- Martin House
+- North
+- West
+people:
+- Charlotte Walker
+organisations:
+- Martin House Children’s Hospice
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacf1c6befb5868af2.jpg)

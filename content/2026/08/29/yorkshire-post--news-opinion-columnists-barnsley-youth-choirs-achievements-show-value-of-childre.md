@@ -16,6 +16,16 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Edinburgh Fringe
+- Great Britain
+people:
+- Christa Ackroyd
+- Jonathan Gawthorpe.
+- Mat Wright
+- Pythagoras
+organisations:
+- Barnsley Youth Choir
 ---
 
 # Barnsley Youth Choir's achievements show value of children learning music: Christa Ackroyd

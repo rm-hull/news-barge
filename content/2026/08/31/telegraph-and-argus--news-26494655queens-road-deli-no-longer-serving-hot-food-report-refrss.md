@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- BRADFORD
+- Keighley
+people: []
+organisations:
+- Hooria Kly LTD
+- Queen's Road Deli
+- Queen’s Road Deli
 ---
 
 *(Image: Google Maps / Street View)*

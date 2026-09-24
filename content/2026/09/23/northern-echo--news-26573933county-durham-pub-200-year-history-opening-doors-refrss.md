@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21490242.jpg?type=og-image&xType=0&yType=12
+locations:
+- County Durham
+- Darlington Railway
+- Heighington Station
+- Locomotion
+- North East
+- Northumberland
+- Stockton
+- Stuart Boulton
+- Yorkshire
+people:
+- Amanda Owen
+organisations:
+- Locomotion
+- Weird Dough
 ---
 
 A pub is set to reopen for just one day as part of a railway heritage celebration.

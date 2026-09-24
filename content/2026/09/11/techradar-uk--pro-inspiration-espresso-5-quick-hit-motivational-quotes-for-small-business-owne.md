@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- '## Reid Hoffman'
+- Bill Gates
+- Larry Page
+- Mark Twain
+- Owain Williams
+- Reid Hoffman
+- Winston Churchill
+organisations:
+- BA
+- CRM
+- Digital Doughnut
+- Google
+- MarketingProfs
+- Microsoft Office
+- NealSchaffer.com
+- Owain
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![man at a modern desk drinkign espresso](https://cdn.mos.cms.futurecdn.net/eyTNN3UGq5gnXyTRD44zRc.jpg) 

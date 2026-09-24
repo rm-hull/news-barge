@@ -14,6 +14,22 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Britain
+people:
+- Andy Burnham
+- Helen Whately
+- Stephen Timms
+organisations:
+- DWP
+- Department for Work and Pensions
+- Labour
+- PIP
+- Pip
+- Timms Review
+- UC
+- Universal Credit
+- Universal Credit Health
 ---
 
 The number of people claiming the Personal Independence Payment (Pip) has hit a record high of 4.1 million, official figures show.

@@ -13,6 +13,33 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Cow Dyke
+- Cow Dyke Farm
+- HG3 2AL
+- Harrogate
+- Malham Drive
+- Miller Homes
+- North Yorkshire
+- Parish Boundary
+- Skipton Road
+- UK
+- Washburn Valley
+- West-East
+people:
+- Blackthorn
+- Elder
+- Graeme Oliver
+- Jay
+organisations:
+- Apple
+- Ecology Officer
+- Harrogate
+- Hawthorn
+- House Sparrows
+- Knaresborough Area Planning Committee
+- North Yorkshire Council
+- RSPB Red List
 ---
 
 # New housing development in Harrogate 'sacrifices' ancient hedgerow claims angry resident

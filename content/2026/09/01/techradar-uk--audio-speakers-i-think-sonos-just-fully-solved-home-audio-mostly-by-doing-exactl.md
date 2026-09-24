@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Sonos Arc
+people:
+- 27Voice
+- Claude
+- Kong
+- Lance Ulanoff
+- Sonos
+- Tom Conrad
+organisations:
+- 4K TV
+- ANC
+- Ace Ultra
+- BBC
+- Beam Ultra
+- CNBC
+- CNN
+- Fabric
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Sonos Ace Ultra
+- Sony
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![Sonos Beam Ultra, Sonos Ace Ultra, Tom Conrad](https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG.jpg) 

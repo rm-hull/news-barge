@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- New York
+people:
+- Nala
+- Zoe Ziegfeld
+organisations:
+- Metropolitan Opera Bookmark Bookmark
+- Snakes
 ---
 
 Photos show snakes auditioning for a role at New York’s Metropolitan Opera

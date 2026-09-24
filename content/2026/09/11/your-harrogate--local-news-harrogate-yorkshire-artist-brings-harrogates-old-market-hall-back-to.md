@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://mmo.aiircdn.com/409/6aa3b44f0fd1fd073db.jpg
+locations:
+- Castlegate
+- Harrogate
+- Knaresborough
+- Leeds
+- Luna Park
+- Majestyk
+- Scarborough
+- Whitby Abbey
+people:
+- Claire Baxter
+organisations:
+- Bygone Yorkshire
+- Claire Baxter Gallery
+- Harrogate
+- Old Market Hall
+- Saltaire
+- Teddy Boys
+- Teddy Boys and Mods to Punks
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3b44f0fd1fd073db.jpg)

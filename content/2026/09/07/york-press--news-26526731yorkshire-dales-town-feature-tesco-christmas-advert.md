@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- England
+- Hardraw Force Waterfall
+- Hawes
+- Leeming Bar
+- North Yorkshire
+- Redmire
+- Upper Wensleydale
+- Wensleydale Creamery
+- Wensleydale Railway
+- Yorkshire Dales
+people:
+- Hawes
+- Stuart Lunn
+organisations:
+- Crown
+- Dales Countryside Museum
+- Heart Of Hawes Holiday Cottage
+- Jono Read
+- North News & Pictures Ltd
+- Tesco
+- Yorkshire Wensleydale
 ---
 
 *(Image: Getty)*

@@ -12,6 +12,14 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Chen Yueh-Han
+organisations:
+- AAR
+- AI
+- Anthropic
+- Automated Alignment Researcher
 ---
 
 Training AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given us an early look at what it might look like in practice.

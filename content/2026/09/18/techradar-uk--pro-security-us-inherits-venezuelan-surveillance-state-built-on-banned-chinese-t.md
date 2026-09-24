@@ -10,6 +10,30 @@ description: Venezuela's surveillance network is built on Chinese tech, and the 
 image: https://cdn.mos.cms.futurecdn.net/MH2rn9ZWxNjT4G8scjDexk-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Beijing
+- Caracas
+- China
+- US
+- United States
+- Venezuela
+- Western Hemisphere
+- Xinjiang
+people:
+- Benedict Collins
+- Delcy Rodríguez
+- Marco Rubio
+- Nicolás Maduro
+organisations:
+- APT
+- ASPI
+- Australian Strategic Policy Institute
+- BUCSIS
+- Chinese AI
+- Cyber Command
+- Google News
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Woman hands and flag of Venezuela on computer, laptop keyboard](https://cdn.mos.cms.futurecdn.net/MH2rn9ZWxNjT4G8scjDexk.jpg) 

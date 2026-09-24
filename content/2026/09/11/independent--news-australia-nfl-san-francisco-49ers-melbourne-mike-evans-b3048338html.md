@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- California
+- Los Angeles
+- Melbourne Cricket Ground
+- Miami
+- San Francisco
+- U.S.
+people:
+- Brock Purdy
+- Deebo Samuel
+- Demarcus Robinson
+- Jaylen Watson
+- Kyren Williams
+- Matthew Stafford
+- Mike Evans
+- Myles Garrett
+- Puka Nacua
+- Williams' TD
+organisations:
+- AP NFL
+- Evans'
+- Los Angeles Rams
+- New York Giants
+- Niners
+- Rams'
+- San Francisco
+- San Francisco 49ers
+- Stafford
 ---
 
 Mike Evans, Demarcus Robinson and Deebo Samuel caught touchdown passes from Brock Purdy, and the San Francisco 49ers routed the Los Angeles Rams 27-7 Friday in the first NFL regular-season game in Australia.

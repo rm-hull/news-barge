@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Halifax
+- Ovenden Way
+- White Knuckle
+people:
+- Boy
+- Ovenden Way
+organisations:
+- West Yorkshire Police
 ---
 
 # Boy, 15, left fighting for his life after Halifax motorbike crash as man arrested

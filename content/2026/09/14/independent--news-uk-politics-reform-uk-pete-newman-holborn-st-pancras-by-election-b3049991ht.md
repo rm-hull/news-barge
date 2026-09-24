@@ -13,6 +13,32 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Camden
+- Holborn
+- St Pancras
+- West Hampstead
+- Westminster
+people:
+- Ewan Cameron
+- Keir Starmer
+- Patrick Stillman
+- Pete Newman
+- Sagal Abdi-Wali
+- Zack Polanski
+organisations:
+- Camden Council
+- Camden Lib Dems
+- Conservative Party
+- Green Party
+- Labour
+- Lib Dems
+- Liberal Democrat
+- Liberal Democrats
+- Met
+- Metropolitan Police
+- Reform UK
+- Tories
 ---
 
 Reform UK has chosen a former Metropolitan Police detective to stand in the Holborn and St Pancras by-election, the party has announced.

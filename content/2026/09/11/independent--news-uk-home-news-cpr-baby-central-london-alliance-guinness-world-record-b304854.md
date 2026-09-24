@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Covid
+- King’s College Hospital
+- London
+people:
+- Baby Beatrix
+- Duncan
+- Imogen Tinkler
+- Ms Tinkler
+- Tony Matharu
+organisations:
+- Blue Orchid Hospitality
+- CLA
+- CPR
+- Central London Alliance
+- Ms Tinkler
+- Tower Suites
 ---
 
 Imogen Tinkler struggles to remember exactly what happened after her eight-week-old daughter went limp in her arms.

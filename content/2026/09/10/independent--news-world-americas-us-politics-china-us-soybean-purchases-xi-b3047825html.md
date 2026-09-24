@@ -12,6 +12,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- Brazil
+- China
+- Jiangsu
+- Nantong
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- Xi Jinping
+organisations:
+- COFCO
+- Reuters
+- Sinograin
+- U.S. Department of Agriculture
 ---
 
 China has procured approximately 1 million metric tons of U.S. soybeans this week, four traders told Reuters, as the world's top oilseed buyer steps up purchases ahead of Chinese President Xi Jinping's visit to Washington later this month.

@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A66
+- CLEVELAND
+- Middlesbrough
+- Riverside Stadium
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Clough
+- Passat
+- Theo Rae
+- Tom Clough
+organisations:
+- Armed Response Vehicle
+- Cleveland Police
+- Cleveland Police Federation
+- Darlington FC
+- Eastleigh
+- Hartlepool United
+- Macclesfield
+- Middlesbrough FC
+- PC Blades
+- PC Clough
+- West Bromwich Albion
 ---
 
 Runners taking part in the Middlesbrough 10K paid an emotional tribute to two Cleveland Police officers killed in the devastating A66 crash.

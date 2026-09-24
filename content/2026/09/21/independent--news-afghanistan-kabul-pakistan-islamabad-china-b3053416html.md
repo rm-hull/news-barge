@@ -13,6 +13,31 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/21/09/Afghanistan_Pakistan_45797.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Barmal
+- China
+- Hangu
+- Islamabad
+- Kabul
+- Khyber Pakhtunkhwa
+- Kohat
+- Kunar Province
+- Nurgal
+- Paktika
+- Peshawar
+- Rakhah
+- Tehrik-e-Taliban Pakistan
+- Tor Kundi
+people:
+- Hamdullah Fitrat
+- Noor Ahmad
+- Pathan
+- Riaz Khan
+- Zabiullah Mujahid
+organisations:
+- Information Ministry
+- TTP
 ---
 
 Pakistani jet fighters carried out airstrikes Monday on what security officials described as suspected militant hideouts in eastern Afghanistan and claimed 28 of them were killed.

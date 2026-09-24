@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Grangetown Zooming
+- Portrack
+- Roseworth
+- Stockton
+- Teesside
+- Tilery
+people:
+- Jamie Bell
+- Manhunt
+organisations:
+- Cleveland Police
+- Jaguar
 ---
 
 *(Image: NEWSQUEST)*

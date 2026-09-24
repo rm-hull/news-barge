@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Medusa Halo
+- Strix
+- Threadripper Halo Station
+- Turin
+people:
+- Epyc
+- Tom
+organisations:
+- AMD Threadripper Halo Station
+- Ebay
+- Epyc
+- Get Tom's Hardware
+- Google News
+- HBM3E
+- IFA
+- MI350P
+- OEM
+- TSMC N3
+- Threadripper Pro
+- Tom’s Hardware
 ---
 
 ![AMD Threadripper Halo Station at IFA 2026.](https://cdn.mos.cms.futurecdn.net/EHns78bnX5ekkg6HfvzEXa.png) 

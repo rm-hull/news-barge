@@ -13,6 +13,31 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/20/12/2026-09-20T013014Z_1603719322_RC2FMNARGNJZ_RTRMADP_3_USA-TRUMP-GREENLAND.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Copenhagen
+- Danish) Kingdom
+- Denmark
+- Europe
+- Greenland
+- North Atlantic
+- Nuuk
+- US
+- United States
+- United States of America
+- Washington
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Lars Lokke Rasmussen
+- Marianne Hansen
+- Mikkel Vedby Rasmussen
+organisations:
+- NATO
+- Reuters
+- Trump
+- Truth Social
+- UN General Assembly
+- University of Copenhagen
 ---
 
 Denmark stated its sovereignty over Greenland would not be compromised by a developing deal with the Trump administration permitting a significant expansion of the US military presence on the Arctic island.

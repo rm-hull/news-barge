@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Rotherham
+- UK
+people:
+- Andrew
+- John Pickles
+- Les Hemstock
+organisations:
+- Doncaster DJ
+- Jive Bunny
+- Let’s Party
+- Mastermix
+- The Mastermixers
+- The Music Factory Entertainment Group
 ---
 
 *(Image: Freelance)*

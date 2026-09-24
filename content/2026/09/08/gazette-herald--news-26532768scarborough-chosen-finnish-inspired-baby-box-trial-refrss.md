@@ -13,6 +13,36 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Finland
+- Kela
+- Newcastle
+- North Yorkshire
+- Northeast of England
+- Old Station
+- Richmond
+- Scarborough
+- Scotland
+- Selby
+- York
+people:
+- Anneli Miettinen
+- Anniina Kuokka
+- Anttoni Numminen
+- David Skaith
+- Ms Miettinen
+organisations:
+- Children’s Foundation
+- Cradle to Career’
+- Kela
+- LDRS Key
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough South Bay
+- Skaith
+- Social Insurance Institution of Finland
+- York and North Yorkshire Combined Authority
+- governmental Social Insurance Institution of Finland
 ---
 
 A Nordic-inspired maternity support package could be introduced in a North Yorkshire town by the county’s elected mayor.

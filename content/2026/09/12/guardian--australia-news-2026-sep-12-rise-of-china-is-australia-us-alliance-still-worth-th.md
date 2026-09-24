@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Afghanistan
+- America
+- Asia
+- Australia
+- East China Sea
+- HMAS Stirling
+- Iran
+- Iraq
+- Perth
+- Taiwan
+- US
+- United States
+- Vietnam
+people:
+- Barack Obama
+- David Vine
+- Elbridge Colby
+- Kevin Rudd
+- Richard Marles
+- Van Jackson
+organisations:
+- Base Nation
+- Guardian
+- National Press Club
+- Office of the Secretary of Defense
+- Pentagon
+- Pine Gap
+- The United States of War
+- US’
+- Victoria University of Wellington
 ---
 
 “Physical security matters,” said Kevin Rudd, at his axiomatic best before the National Press Club this week.

@@ -11,6 +11,25 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c987/live/235897
 categories:
 - UK
 - News & Politics
+locations:
+- Riksdag
+- Sweden
+people:
+- Magdalena Andersson
+- Riksdag
+- Ulf Kristersson
+organisations:
+- Christian Democrats
+- Instagram
+- Liberals
+- Riksdag
+- SD
+- Sweden Democrats
+- Swedish Election Authority
+- The Centre Party
+- The Green Party
+- The Left Party
+- Ulf Kristersson
 ---
 
 ![Ulf Kristersson, who has short brown hair and round glasses, poses for the cameras in a TV studio before a debate ahead of the election](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c987/live/23589710-b28c-11f1-8096-b33a1297275a.jpg)

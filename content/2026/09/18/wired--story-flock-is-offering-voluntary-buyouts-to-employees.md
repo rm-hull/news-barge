@@ -11,6 +11,15 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aade6510dbdc43ec89970ee/191:100/w_1280,c_limit/2265184841
+locations:
+- US
+people:
+- Flock
+- Garrett Langley
+- Reddit
+organisations:
+- Flock Safety
+- WIRED
 ---
 
 Flock Safety announced a voluntary employee separation program on Friday, offering a “generous” severance package to those who want to leave amid growing backlash against the surveillance technology company, according to an internal email shared with WIRED.

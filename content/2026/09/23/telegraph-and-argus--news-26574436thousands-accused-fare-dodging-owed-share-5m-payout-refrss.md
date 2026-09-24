@@ -14,6 +14,24 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489738.jpg?type=og-image
+locations:
+- Avanti West Coast
+- Govia
+- Great Western Railway
+- Greater Anglia
+- Merseyrail
+people:
+- Paul Goldspring
+- Penelope Gibbs
+organisations:
+- Arriva Rail Northern
+- C2C
+- Magistrates Association
+- Ministry of Justice
+- MoJ
+- Northern, Transpennine
+- SJP
+- Transform Justice
 ---
 
 *(Image: Getty Images)*

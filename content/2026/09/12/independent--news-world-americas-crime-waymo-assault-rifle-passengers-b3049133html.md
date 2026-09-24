@@ -12,6 +12,25 @@ categories:
 - UK
 - Technology & Software
 - Automotive
+locations:
+- 40th Avenue
+- Denver
+- Outer Richmond
+- San Diego
+- San Francisco
+- Tampa
+people:
+- Allison Maxie
+- Jeanine Luna
+- Waymo
+organisations:
+- Google
+- Independent
+- Juvenile Justice Center
+- SFPD
+- San Mateo Police Department
+- San Matteo Police Department
+- Waymo
 ---
 
 Two minors were arrested last week in San Francisco after a Waymo allegedly detected they were carrying a gun and alerted the police.

@@ -14,6 +14,18 @@ categories:
 - Comedy & Entertainment
 - Lifestyle & Fashion
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk1NTIwNzY2LWM3YjUtNDNkOC1iZDExLTA4MTFmMjY2N2E2ZjplZjUyMTMxMS02NTE2LTRmZGItODIxYy00ZTA2MzRkY2ZkYmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Border Collie
+- Harrogate
+people:
+- Clare Wainwright
+- Janet Thackwray
+- Marcus Lee
+- Obi
+- Peggy
+- Ruby
+organisations:
+- Nita Strudwick
 ---
 
 We asked you to send in your photos of your four-legged friends, and you didn't disappoint – we received more than 100 pictures

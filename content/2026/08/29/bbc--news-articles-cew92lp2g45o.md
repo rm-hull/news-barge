@@ -13,6 +13,62 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- America
+- Britain
+- Cardiff
+- Cologne
+- Edinburgh
+- Gamescom
+- Germany
+- Japan
+- Koelnmesse
+- Newcastle
+- Peru
+- Scotland
+- Silent Hill Townfall
+- Silent Hill Townfall Silent Hill
+- St Amelia
+- St. Amelia
+- UK
+people:
+- Anastasia Sopikova
+- Ashley Farkas
+- Atlantis Lara Croft
+- Blake
+- Dandelion
+- Doug Cockle
+- Ellen Ripley
+- Geralt
+- Jakub Rokosz
+- Jeff Adams
+- Jon McKellan
+- Laura Cress
+- Michał Kuk
+- Ralph Fulton
+- Witcher
+organisations:
+- Albion
+- BBC
+- Creative Assembly
+- Crystal Dynamics
+- Flying Wild Hog
+- Fool
+- GDQ
+- Gamers
+- Gamescom
+- Horsham-based Creative Assembly
+- Konami
+- Leamington Spa-based Playground Games
+- Project Art
+- Projekt Red
+- Scottish Scotland
+- Screen Burn
+- Sega
+- Silent Hill
+- The Witcher
+- Weyland-Yutani
+- Xbox
 ---
 
 Watch: BBC's Laura Cress on the floor at Gamescom in Cologne

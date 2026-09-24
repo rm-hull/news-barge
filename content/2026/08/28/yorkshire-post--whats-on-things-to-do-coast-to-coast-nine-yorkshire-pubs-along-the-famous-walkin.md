@@ -14,6 +14,50 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Black Swan
+- Blakey Ridge
+- CA17 4NG
+- Coast to Coast
+- Egton
+- Glaisdale
+- High Blakey
+- Irish Sea
+- Kirkbymoorside
+- Lake District
+- Muker
+- National Parks
+- North Sea
+- North York Moors
+- Ravenstonedale
+- Richmond
+- Robin Hood’s Bay
+- St Bees
+- Swaledale
+- Tony Johnson
+- Whitby
+- Yorkshire
+people:
+- Alfred Wainwright
+organisations:
+- 4SJ
+- 7LQ
+- Arncliffe Arms
+- Arncliffe Terrace
+- Bay Hotel
+- Coast to Coast National Trail
+- Egton Bridge
+- Farmer's Arms
+- Goathland
+- Google
+- Horseshoe Hotel
+- Kirkby Stephen
+- Mallyan Spout Hotel
+- Robin Hood
+- The Dock
+- The Kings Head Hotel
+- YO22 5AN
+- Yorkshire Dales
 ---
 
 # Coast to Coast: Nine Yorkshire pubs along the famous walking route with beer gardens and outdoor seating

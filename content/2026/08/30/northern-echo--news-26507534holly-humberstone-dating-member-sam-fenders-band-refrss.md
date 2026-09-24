@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bramham Park
+- County Durham
+- Newcastle
+- North East
+people:
+- Adam Kennedy
+- Holly Humberstone
+- Joe
+- Sam Fender
+- Scarlett
+- White Noise
+organisations:
+- BRITs Rising Star
+- Leeds
+- NX Newcastle
+- Red Chevy
+- The Gallery
 ---
 
 *(Image: Adam Kennedy)*

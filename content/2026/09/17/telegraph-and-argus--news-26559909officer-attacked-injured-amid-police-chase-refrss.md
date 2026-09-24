@@ -12,6 +12,19 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Crosland Moor
+- Greater Manchester
+- Greater Manchester Police
+- Halifax
+- Huddersfield
+- King Cross Road
+- West Yorkshire
+people: []
+organisations:
+- '## Full'
+- Greater Manchester Police
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

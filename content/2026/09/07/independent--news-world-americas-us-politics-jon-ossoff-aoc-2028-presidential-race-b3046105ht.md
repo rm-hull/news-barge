@@ -13,6 +13,44 @@ image: https://static.independent.co.uk/2026/09/07/16/2285603531..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Atlanta
+- California
+- Capitol Hill
+- D.C.
+- Georgia
+- Nashville
+- New York
+- Puerto Rico
+- Qatar
+- South Carolina
+- Tennessee
+- Texas
+- Washington
+- White House
+people:
+- Alexandria Ocasio-Cortez
+- Barack Obama
+- Coinbase
+- Davis Ingle
+- Donald Trump
+- Emir
+- Gavin Newsom
+- James Talarico
+- Jon Jackoff
+- Jon Ossoff
+- Kamala Harris
+- Karoline Leavitt
+- Natalie Harp
+- Pee-Wee Herman –
+- Scott Jennings
+- Steven Cheung
+organisations:
+- CNN
+- Capitol
+- Democratic Party
+- National Urban League
+- Supreme Court
 ---
 
 Georgia Sen. Jon Ossoff has surged level with New York Rep. Alexandria Ocasio-Cortez in the race to find the Democratic Party’s next presidential nominee, according to Coinbase’s live prediction odds.

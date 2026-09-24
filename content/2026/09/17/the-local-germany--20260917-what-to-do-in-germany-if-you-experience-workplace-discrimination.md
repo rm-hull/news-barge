@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Society & Culture
 - Careers & Productivity
+locations:
+- Saarland Germany
+people: []
+organisations:
+- AGG
+- Anti-Discrimination Association of Germany
+- Civil Society
+- advd
 ---
 
 If you work in Germany, the latest anti-discrimination figures are worth paying attention to.

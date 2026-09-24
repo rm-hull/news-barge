@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab12864df29604136e308dd/191:100/w_1280,c_limit/Aperture-(4x3).gif
+locations:
+- US
+people: []
+organisations:
+- Apple
+- European Union
+- PIRG
+- iFixit
 ---
 
 iFixit, the company known for completely tearing apart just about every product and device it can, has fully disassembled a brand new iPhone 18 Pro. The goal is to understand how all the parts fit together and find ways to fix anything that might break.

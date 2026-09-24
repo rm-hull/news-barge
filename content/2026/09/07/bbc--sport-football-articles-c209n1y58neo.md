@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgrade
+- Bosnia-Herzegovina
+- Sarajevo
+- Serbia
+- Srebrenica
+- Yugoslavia
+people:
+- Ratko Mladic
+- Ratko Mladić
+- Slobodan Milosevic
+organisations:
+- FC Viktoria Plzen
+- Partizan Belgrade
+- Red Star
+- Red Star Belgrade
+- Uefa
+- United Nations
 ---
 
 ![A tifo of Ratko Mladic](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f501/live/5c60b870-aaae-11f1-9eba-7de947fa7cd1.jpg)

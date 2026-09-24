@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AP Nepal
+- China
+- China-Nepal
+- Gyirong County
+- Gyirong Port
+- Kathmandu
+- Nepal-Tibet
+- Nuwakot
+- Purepu Tsangpo river
+- Tibet
+- Trishuli
+- Xinhua
+- Xizang Autonomous Region
+people:
+- Arun Sankar
+- Balen
+- Balendra Shah
+- Channi Anand
+- Jigme Dorje
+- Swarnim Wagle
+organisations:
+- AP
+- Athit Perawongmetha
+- CCTV
+- China Anneng
+- Nepali Army
+- Red Cross
+- Reuters Residents
+- UN Children’s Fund
+- Water Resources Ministry
+- Xinhua
 ---
 
 With the death toll rising to well over 600, Indian school children hold placards as they offer special prayers for the victims of flash floods in Nepal and Tibet. Photograph: Channi Anand/AP

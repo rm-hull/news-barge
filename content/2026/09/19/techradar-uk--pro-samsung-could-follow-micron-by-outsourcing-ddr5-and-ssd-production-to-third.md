@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/aiqvaUzNarqchvJcvcFpPS-1920-80.png
+locations:
+- Cheonan
+- India
+- Noida
+- Onyang
+- Philippines
+- Thai Nguyen Province
+- Vietnam
+people: []
+organisations:
+- Dreamtech
+- Efosa
+- Google News
+- HBM
+- Hanyang Digitech
+- Micron
+- SFA Semicon
+- Samsung Electronics
+- SanDisk
+- TechRadar Pro
 ---
 
 ![Samsung HBM](https://cdn.mos.cms.futurecdn.net/aiqvaUzNarqchvJcvcFpPS.png)

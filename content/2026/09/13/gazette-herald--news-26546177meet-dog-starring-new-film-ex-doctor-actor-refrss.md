@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Chile
+- North Yorkshire Moors Railway
+- Pickering
+- York
+people:
+- Amaya
+- David C Thorp
+- Mark
+- Mateo
+- Pepita
+- Pepito
+- Peter Purves
+organisations:
+- Beagle
+- Blue Peter
+- PicturePoint Films
+- Press
+- Santa Express
+- Yorkshire Christmas
+- Yorkshire Dales and Moors
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Britain
+- Canterbury
+- Lambeth Palace
+- Pakistan
+people:
+- Hafiz Muhammad Tahir Mehmood Ashrafi
+- Imam Ashrafi
+- Osama bin Laden
+- Saifullah
+- Salman Rushdie
+- Sarah Mullally
+- Stephen Evans
+- bin Laden
+organisations:
+- Anglican Communion
+- Church of England
+- NSS
+- National Secular Society
+- Pakistan Ulema Council
+- Press Association
 ---
 
 The Archbishop of Canterbury’s office has rescinded an honor given to a Muslim cleric who previously pledged to award an honorary title to Osama bin Laden.

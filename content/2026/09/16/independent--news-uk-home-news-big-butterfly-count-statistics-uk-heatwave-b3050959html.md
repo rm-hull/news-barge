@@ -13,6 +13,14 @@ categories:
 - UK
 - Technology & Software
 - Music
+locations:
+- Britain
+- UK
+- sub-Saharan Africa
+people:
+- Richard Fox
+organisations:
+- Butterfly Conservation
 ---
 
 Record heatwaves have delivered the second-best butterfly season in 16 years across the UK, according to the latest Big Butterfly Count results.

@@ -15,6 +15,24 @@ categories:
 - Arts & Culture
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/17255060.jpg?type=og-image&yType=86
+locations:
+- Haworth
+people:
+- Anne
+- Branwell Brontë
+- Emily
+- Lydia Robinson
+- Maebh O’Regan
+- Martin Greenwood
+- Rose Gant
+- William Weightman
+organisations:
+- British National Portrait Gallery
+- Bronte Birthplace.
+- Brontë Birthplace
+- Brontë Parsonage
+- Brontë Parsonage Museum
+- Thorp Green Hall
 ---
 
 *(Image: Martin Greenwood)*

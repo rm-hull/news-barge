@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Gaza
+- Iran
+- Israel
+- Middle East
+- Russia
+- U.S.
+- Ukraine
+- United States
+- Western Sahara
+people:
+- António Guterres
+- Donald Trump
+- Edith M. Lederer
+- Hamas’
+organisations:
+- AI
+- General Assembly
+- International Monetary Fund
+- Security Council
+- The Associated Press
+- Trump
+- U.N
+- U.N.
+- UNGA
+- United Nations
+- United Nations.
+- United Nations’
+- World Bank
 ---
 
 The world is deeply divided and the U.N.’s most powerful body is paralyzed when it comes to ending conflicts. But there’s a way forward. So says the United Nations’ top official.

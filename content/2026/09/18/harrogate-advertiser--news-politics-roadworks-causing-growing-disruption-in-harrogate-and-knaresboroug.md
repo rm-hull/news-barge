@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFkZjZhZDI4LTY5YjYtNDNiMi1hOGYwLTA5ZWUwNzI4MmQ5ODphN2E3YWZkMS0yNDliLTQ5MDQtOWVmMy00YmM0MGU4NjA3NjU=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+locations:
+- Coppice Valley
+- Duchy
+- Harrogate
+- Knaresborough
+- North Yorkshire
+- York
+people:
+- Chris Aldred
+- Monika Slater
+- Peter Lacey
+organisations:
+- Bilton Grange and New Park division
+- Great Yorkshire Show
+- Harrogate Convention Centre
+- High Harrogate
+- Kingsley division
+- Knaresborough Bed Race
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 # Roadworks causing growing disruption in Harrogate and Knaresborough, North Yorkshire Council admits

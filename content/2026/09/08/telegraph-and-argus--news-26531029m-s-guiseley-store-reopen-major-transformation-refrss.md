@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Guiseley
+- Hull
+- UK
+- Yorkshire
+people:
+- Serita Thomas
+organisations:
+- Anlaby
+- Guiseley Retail Park
+- M&S Guiseley
+- M&S’ Select Farm
+- Paws & Pals
 ---
 
 *(Image: Supplied)*

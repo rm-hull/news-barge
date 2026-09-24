@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Halifax
+- Ovenden Road
+people: []
+organisations:
+- Calderdale Council
+- Delights Ltd
+- Food Standards Agency
+- Local Democracy Reporting Service
+- Noors Slice
+- TAKEAWAY
 ---
 
 A TAKEAWAY needs improvement where its food hygiene is concerned, according to a council inspection.

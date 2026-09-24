@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Acklam Road
+- CLEVELAND
+- Marton
+- Matusiak
+- Normanby Medical Centre
+- Normanby Road
+- Ormesby
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- Stockton West
+- Teesside
+- Teesville
+- UK
+people:
+- Alec Brown
+- Jakub Matusiak
+- John Wrintmore
+- Lucy Powell
+- Matt Vickers
+- Matthew Blades
+- Pc Matthew Blades
+- Pc Tom Clough
+- Richard Townshend
+- Tom Clough.
+organisations:
+- A66
+- Archway Academy Teesville
+- Catholic Primary School
+- Cleveland Borough Council
+- Cleveland Police
+- Home Office
+- Mackenzie Thorpe School
+- North News & Pictures Ltd
+- Outwood Academy Normanby
+- PA Wire
+- South Bank Primary School
+- St Peter’s
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

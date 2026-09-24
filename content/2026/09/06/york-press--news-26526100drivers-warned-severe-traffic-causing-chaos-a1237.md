@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1237
+- Hopgrove Roundabout
+- Monks Cross
+- Monks Cross Shopping Centre
+- Outer Ring Road
+- York Outer Ring Road Drivers
+people: []
+organisations:
+- Monks Cross
+- Vanguard
 ---
 
 ## 'Absolute chaos' - severe traffic along part of York Outer Ring Road

@@ -11,6 +11,23 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aac758c7e684437a1d8cee6/191:100/w_1280,c_limit/BepiColombo_Cruise_configuration_1280.jpg
+locations:
+- Earth
+- Mercury
+- Venus
+people:
+- Einstein
+organisations:
+- BepiColombo
+- ESA
+- European Space Agency
+- JAXA
+- Japan Aerospace Exploration Agency
+- MPO
+- Mercury Planetary Orbiter
+- Mio
+- NASA
+- Sun
 ---
 
 BepiColombo has been on a bit of an Odyssey. The space probe—named after an acclaimed Italian scientist who developed the “gravity assist” trick that enables interplanetary journeys today—was originally scheduled to arrive at Mercury last year. However, after a malfunction with the propulsion, the probe was forced to change course so it could reach Mercury at reduced power. As a result, the arrival date was pushed back by nearly a year, and now after eight years in space, BepiColombo is beginning its descent to low orbit around Mercury.

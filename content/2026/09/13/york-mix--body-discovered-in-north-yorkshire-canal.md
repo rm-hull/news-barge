@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- '#### Ripon canal'
+- Boroughbridge Road
+- North Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 An investigation has been launched after a body was discovered in Ripon canal.

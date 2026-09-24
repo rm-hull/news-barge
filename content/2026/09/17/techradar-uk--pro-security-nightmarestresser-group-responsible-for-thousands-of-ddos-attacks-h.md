@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/sbNPJUhCyuLprR43BrwCoK-2309-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- District of Alaska
+- Sarajevo
+- US
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- DoJ
+- FBI
+- Google News
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![DDoS inscribed on a digital background made up of numbers](https://cdn.mos.cms.futurecdn.net/sbNPJUhCyuLprR43BrwCoK.jpg) 

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Allwyn
+- Richmond
+- Richmond-upon-Thames
+- UK
+people:
+- Toby Moxham
+organisations:
+- Allwyn
+- National Lottery
 ---
 
 A search is underway to trace a mystery lottery player in Richmond-upon-Thames who has won £1 million but is yet to claim their prize.

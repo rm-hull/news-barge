@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brazil
+- City Ground
+- Emirates Stadium
+people:
+- Edu
+- Evangelos Marinakis
+- George Syrianos
+- Lina Souloukou
+- Mikel Arteta
+- Nuno Espirito Santo
+- Theodore Giannikos
+organisations:
+- Arsenal
+- City Ground.
+- Edu
+- Forestafter
+- Gunners
+- Marinakis
+- Nottingham Forest
+- Olympiacos
+- Rio Ave
 ---
 
 ![Edu at the City Ground](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg)

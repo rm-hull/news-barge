@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Germany
+- Inland
+- Karlsruhe
+- Kaub
+- Koblenz
+- Rhine
+- Rotterdam
+people:
+- Carsten Brzeski
+- Carsten Schneider
+organisations:
+- ING
+- WSV
 ---
 
 Water levels on Germany’s river Rhine have risen sharply following recent rainfall, the national inland navigation agency said on Monday, though shipping hurdles remain despite vessels carrying increased cargo.

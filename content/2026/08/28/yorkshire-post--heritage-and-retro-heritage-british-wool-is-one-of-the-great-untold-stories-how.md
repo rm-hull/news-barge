@@ -15,6 +15,46 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Chatsworth House
+- Clapham
+- Dalesbred
+- Delph
+- England
+- Glencroft’s Clapdale
+- Harrogate
+- Hawkshead
+- Lake District
+- Norfolk
+- Saddleworth Moor
+- Scotland
+- Yorkshire Dales
+people:
+- Anne Lawler
+- Becki Dakin
+- Dee McGilvray
+- Edward Sexton
+- Glencroft
+- Harris Tweed
+- Helen Rodgers
+- Jennifer Thoburn
+- Justina Sexton
+- Mallalieus
+- Richard
+- Ruth
+- Stephanie Smith
+organisations:
+- British Wool
+- CLÒ-FOLD
+- Clapdale Wool
+- Glencroft HQ
+- Great Yorkshire Show
+- How Yorkshire Dales
+- Merino Wool
+- The Barn
+- Yorkshire Dales
+- Yorkshire Post
+- Yorkshire Post Fashion
 ---
 
 # 'British wool is one of the great untold stories': How Yorkshire Dales brand Glencroft is making fashionable connections

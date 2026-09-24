@@ -11,6 +11,31 @@ description: The games industry is in a precarious situation due to the RAM cris
 image: https://cdn.mos.cms.futurecdn.net/ETEpHnWN47pJPF8J3Gze6V-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- GameRant
+people:
+- Isaiah Williams
+- Michal Nowakowski
+organisations:
+- Birmingham City University
+- CD Projekt Red's
+- CDPR
+- Ciri
+- Corsair
+- Game Business
+- Google News
+- IGN
+- Isaiah
+- Micron —
+- PC Guide
+- PS5
+- Projekt Red
+- RAM
+- SK Hynix
+- Samsung
+- Sony
+- TechRadar
+- The Game Business
 ---
 
 ![Ciri in the Witcher 4, alongside Sony's PS5 and Corsair's Vengeance RAM kit](https://cdn.mos.cms.futurecdn.net/ETEpHnWN47pJPF8J3Gze6V.jpg) 

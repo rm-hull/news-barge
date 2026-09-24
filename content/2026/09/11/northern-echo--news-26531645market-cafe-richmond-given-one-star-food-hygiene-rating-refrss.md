@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- North Yorkshire
+- Teesside
+people: []
+organisations:
+- '## Cakes'
+- Freedom of Information
+- Market Cafe
+- North Yorkshire Council
+- Northern Echo
+- Richmond Market Hall
+- Richmond Market Hall Inspectors
+- Teesside Indian
 ---
 
 *(Image: NORTHERN ECHO)*

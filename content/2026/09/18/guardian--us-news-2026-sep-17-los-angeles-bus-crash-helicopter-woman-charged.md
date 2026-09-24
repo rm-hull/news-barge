@@ -15,6 +15,34 @@ categories:
 - Automotive
 - True Crime
 - Technology & Software
+locations:
+- Burbank
+- California
+- Los Angeles
+- Orange
+- US
+people:
+- Bailee Lynn Rios
+- Cindy
+- Daniel Castillo
+- Edy Gutierrez Mejia
+- Eliana Moreno
+- Fabian Salazar
+- Gage Weida
+- George Marciniw
+- Jeff Guzzetti
+- Jeffrey Weida
+- Johaunna
+- Nathan Hochman
+- Stephanie Wiggins
+organisations:
+- Angel City Air
+- CBS LA
+- Chapman University
+- NBC4
+- NTSB
+- National Transportation Safety Board
+- Telemundo
 ---
 
 A California woman was allegedly driving under the influence when she sped down the wrong side of the road, ran a red light and plowed her SUV into a Los Angeles metro bus on Tuesday, killing two passengers, prosecutors say, in a tragedy compounded when a news helicopter covering the crash plummeted from the sky, killing three.

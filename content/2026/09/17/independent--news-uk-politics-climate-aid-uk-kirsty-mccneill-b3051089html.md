@@ -13,6 +13,40 @@ image: https://static.independent.co.uk/2025/06/12/10/4a8a6de827e94779d642fe61e2
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Midlothian
+- Scotland
+- Turkey
+- UK
+people:
+- Andy Burnham
+- Baroness Chapman
+- Baroness Jenny Chapman
+- Ed Miliband
+- Gordon Brown
+- Keir Starmer
+- Kirsty McNeill
+- Lucy Gordon
+- Ms Greenhill
+- Ms McNeill
+- Romilly Greenhill
+- Yvette Cooper
+organisations:
+- Bond
+- Commonwealth and Development Office
+- FCDO
+- GNI
+- IDC
+- International Development Committee
+- Labour
+- NEF
+- New Economics Foundation
+- Save the Children
+- The Independent
+- UN General Assembly
+- Unicef UK
+- World Bank
 ---
 
 “Saving and changing lives” is set to the “new focus” of UK aid, the government’s new minister for development has said this week, as she outlined her ambition for a more “values-led” approach to UK development that emphasises moral purpose.

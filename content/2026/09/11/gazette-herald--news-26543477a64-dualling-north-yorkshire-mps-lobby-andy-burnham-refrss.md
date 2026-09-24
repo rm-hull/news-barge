@@ -13,6 +13,38 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Barton Hill
+- Bridlington
+- Filey
+- Frank Dwyer
+- Harrogate
+- Hopgrove Roundabout
+- Malton
+- North Yorkshire
+- Scarborough
+- Selby
+- The York
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Boris Johnson
+- David Skaith
+- James Manning
+- Julian Smith
+- Kevin Hollinrake
+- PA Wire
+- Tom Gordon
+organisations:
+- A64
+- Government
+- Labour
+- North Yorkshire Council
+- Number 10 North team
+- Pic
+- Road Investment Strategy
+- Treasury
 ---
 
 FOUR North Yorkshire MPs have called on new Prime Minister Andy Burnham to make the long-awaited dualling of the A64 a priority for his government.

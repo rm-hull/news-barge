@@ -13,6 +13,23 @@ categories:
 - True Crime
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/16/15/26/nicholas-brandram-new.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Chiswick
+- Putney Bridge
+people:
+- Alexia Hicks
+- Dan Knowles
+- Nicholas Brandram
+- Nick
+- Sophie Voelcker
+organisations:
+- BBC Radio 4
+- CCTV
+- IOPC
+- Independent Office for Police Conduct
+- Met
+- Metropolitan Police
+- Sunday Times
 ---
 
 The family of the man who died while under suspicion of being the so-called “Putney pusher” have accused the Metropolitan Police of trying to “rewrite history” over their investigation.

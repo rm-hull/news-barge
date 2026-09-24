@@ -12,6 +12,46 @@ image: https://static.independent.co.uk/2026/09/04/11/2283167703..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Boryspil
+- Europe
+- Finland
+- Iran
+- Kstovo
+- Kyiv Oblast
+- Leningrad
+- MI5’
+- Moscow
+- Nizhny Novgorod
+- Novatek-Ust-Luga
+- Russia
+- US
+- USA
+- Ukraine
+- 'Zelensky ##'
+people:
+- '## Trump'
+- '## Zelensky'
+- Donald Trump
+- Jared Kushner
+- Joe Biden
+- Kyiv
+- Steve Witkoff
+- Volodymyr Zelensky
+organisations:
+- '## Kyiv'
+- Allies
+- Border Guard
+- Coca-Cola
+- General Staff
+- ICYMI
+- Kyiv Independent
+- Lukoil
+- NORSI
+- Nato
+- Reuters Ukraine
+- Trump
+- US Army
 ---
 
 Donald Trump has claimed the US has “an idea for peace” as he sends his special envoy Steve Witkoff for talks with both Moscow and Kyiv.

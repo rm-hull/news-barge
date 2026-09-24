@@ -12,6 +12,26 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21476169.jpg?type=og-image
+locations:
+- Strictly
+people:
+- Anton Du Beke
+- Claudia Winkleman
+- Ellie Taylor
+- Emma Willis
+- Helen Thomas
+- Janette Manrara
+- Johannes Radebe
+- Josh Widdecombe
+- Ms Taylor
+- Tess Daly
+organisations:
+- BBC Radio 2
+- BBC Two
+- Fleur East
+- Radio 2
+- Strictly
+- The Express
 ---
 
 *(Image: PA)*

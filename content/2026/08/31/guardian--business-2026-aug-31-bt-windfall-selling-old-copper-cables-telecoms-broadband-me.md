@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Cambridgeshire
+- County Tyrone
+- Hai Duong
+- New Forest
+- Northern Ireland
+- St Neots
+- Truong Phu
+- UK
+people:
+- Abby Chicken
+- Howeer
+- Mike McTighe
+organisations:
+- AI
+- BT
+- Copper
+- EMR
+- Openreach
+- S&P Global
 ---
 
 BT is on track for an estimated £2bn-plus windfall over the next decade from selling off old copper cabling, as it cashes in on soaring prices amid the AI market frenzy and switches the UK’s network to full-fibre broadband.

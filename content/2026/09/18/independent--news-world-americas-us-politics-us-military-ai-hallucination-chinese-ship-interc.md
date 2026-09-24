@@ -15,6 +15,26 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/18/22/16/GettyImages-1689942634.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- China
+- Hawaii
+- Iran
+- Middle East
+- U.S.
+- United States
+people:
+- AI
+- Donald Trump
+- Pete Hegseth
+organisations:
+- AI
+- CNN
+- Department of Defense
+- GenAI.mil
+- Pentagon
+- The Independent
+- U.S. Special Operations Command Pacific
 ---
 
 A significant miscalculation driven by artificial intelligence reportedly almost pushed the U.S. military to intercept a Chinese vessel in the Middle East this spring, amid the ongoing conflict with Iran.

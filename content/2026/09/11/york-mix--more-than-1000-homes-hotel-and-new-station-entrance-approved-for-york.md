@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- North Yorkshire**
+- York Central
+- York Station
+people:
+- Angela Rayner
+- Claire Douglas
+- David Skaith
+organisations:
+- Arlington Real Estate
+- Central Hall
+- City of York Council
+- City of York Council**
+- Government Property Agency
+- McLaren Regeneration
+- National Railway Museum**
 ---
 
 A massive project decades in the making has taken a huge step forward as the first phase of plans for a brand-new city quarter in York received planning permission.

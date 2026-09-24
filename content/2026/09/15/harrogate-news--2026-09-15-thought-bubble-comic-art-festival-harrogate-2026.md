@@ -12,6 +12,31 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Harrogate
+- Leeds
+- North Yorkshire
+- UK
+people:
+- Adrian Tchaikovsky
+- Charlie Adlard**
+- Darryl Cunningham
+- Jeffrey Brown**
+- Kristyna Baczynski
+- Lisa Wood
+- Nabil Homsi
+- Simon Bisley
+organisations:
+- '## Ticket Infrastructure and Central Access Gateways Organisers'
+- Barnardo’s
+- Darth Vader
+- Diamond Comics UK
+- Everyman Harrogate
+- Harrogate Convention Centre
+- Harrogate Informer
+- Martha Julian
+- New York Times
+- Tula Lotay
 ---
 
 **HARROGATE** — Regional cultural leads and international publishing houses have descended on the district following the official program launch for the UK’s premier independent graphic art celebration.

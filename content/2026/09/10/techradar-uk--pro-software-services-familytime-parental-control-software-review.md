@@ -10,6 +10,25 @@ description: An affordable, feature-packed parental control app with a refreshin
 image: https://cdn.mos.cms.futurecdn.net/EExNhwE5PAJhumDnKkPEJJ-1741-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Bark
+- Krishi
+organisations:
+- Bark
+- Facebook Messenger
+- FamilyTime Junior
+- FamilyTime Premium
+- Krishi
+- Mac
+- Snapchat
+- TechRadar Pro
+- Techopedia
+- The Tech Report
+- Time Bank
+- Tom's Guide
+- Viber
+- WhatsApp
 ---
 
 ### TechRadar Verdict

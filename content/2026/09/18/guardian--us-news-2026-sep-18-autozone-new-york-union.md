@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- New York
+- US
+- White Plains
+people:
+- David Valencia
+- Nathan DuCongé
+- Phil Daniele
+organisations:
+- AutoZone
+- DuCongé
+- Emergency Workplace Organizing Committee
+- Facebook
+- LaborLab
+- National Labor Relations Board
+- Teamsters
+- United Auto Workers
+- United Auto Workers Local 259
+- Valencia
 ---
 
 Workers at an AutoZone in White Plains, New York, are seeking to become the first store at the US’s largest auto parts retailer to win a union election, set to begin 25 September, despite a heavy-handed union opposition campaign from the company.

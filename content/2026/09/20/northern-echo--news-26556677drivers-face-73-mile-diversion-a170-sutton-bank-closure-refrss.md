@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/18636995.jpg?type=og-image&xType=0&yType=45
+locations:
+- Bondgate
+- Cote Lane
+- County Durham
+- Great North Run
+- Helmsley
+- Linkfoot Lane
+- Malton Road
+- New Road
+- North East
+- North Lane
+- North York Moors
+- North Yorkshire
+- Ring Road
+- Scarborough
+- Shipton Road
+- Sinnington Cliff Road
+- Sutton Bank
+- Sutton Bank National Park Centre
+- Sutton Road
+- Thirsk
+- Vale of York
+- Wrelton
+- York Road
+people: []
+organisations:
+- A170
+- HGV
+- North York Moors National Park
+- North Yorkshire Council
+- PA MEDIA
+- Sutton Bank
 ---
 
 *(Image: PA MEDIA)*

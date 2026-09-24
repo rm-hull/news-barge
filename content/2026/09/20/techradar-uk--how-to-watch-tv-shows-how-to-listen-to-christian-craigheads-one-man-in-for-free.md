@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/wkP7mBuyGDzMr4z4YBmMQj-1910-80.jpg
+locations:
+- Afghanistan
+- DusitD2
+- Europe
+- Iraq
+- Nairobi
+- UK
+- US
+- United States
+people:
+- Christian Craighead
+- Tom Bailey
+organisations:
+- Amazon
+- Audible
+- British Army
+- Elle Deco
+- Future Publishing
+- Gallantry Cross
+- Men's Health
+- Nord
+- NordVPN**
+- Obi-One Nairobi
+- Parachute Regiment
+- Pathfinder Platoon
+- SAS
+- The Daily Telegraph
+- The Mail
+- The Sun
+- The Sunday Times
 ---
 
 ![One Man audiobook narrated by Christian Craighead himself and runs for 5 hours 26 minutes. ](https://cdn.mos.cms.futurecdn.net/wkP7mBuyGDzMr4z4YBmMQj.jpg)

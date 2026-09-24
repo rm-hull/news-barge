@@ -12,6 +12,57 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c832/live/05d61e00-b45e-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Amex Stadium
+- Amsterdam Arena
+- Arsenal
+- Brighton
+- England
+- Europe
+- Falmer
+- Gillingham
+- Goldstone Ground
+- Old Trafford
+- Sussex
+- Toad's Hole Valley
+- Tromso
+- Withdean Stadium
+people:
+- Bill Archer
+- Charalampos Kostoulas
+- Chema Andres'
+- David Davies
+- Dick Knight
+- Fabian Hurzeler
+- Gary Bailey
+- Goldstone
+- Gordon Smith
+- Harry
+- John Prescott
+- Mike Cave
+- Pascal Gross
+- Paul Samrah
+- Peter Jones
+- Ray
+- Roberto de Zerbi
+- Steve Ovett
+- Tony Bloom
+organisations:
+- Ajax
+- Arsenal
+- BBC Sport
+- Brighton & Hove Albion
+- Conference League
+- De Zerbi
+- Europa League
+- Football Association
+- Football League
+- Goldstone Ground
+- Manchester United
+- Premier League
+- Seagulls
+- Southern League
+- Sussex
 ---
 
 Highlights: Brilliant Brighton batter Arsenal in shock first defeat as champions

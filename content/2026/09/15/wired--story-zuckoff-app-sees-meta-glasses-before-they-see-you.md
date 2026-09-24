@@ -11,6 +11,23 @@ image: https://media.wired.com/photos/6aa967ea2d07a4d487b8f97e/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- California
+people:
+- Andrew Bosworth
+- Pawel Szydlowski
+- ZuckOff
+organisations:
+- Apple’s App Store
+- BBC
+- Google Play Store
+- Instagram
+- LED
+- Oakley Meta
+- Ray-Ban Meta
+- Snap Spectacles
+- Szydlowski
+- ZuckOff
 ---
 
 The free mobile app ZuckOff, built by 30-year-old Polish developer Pawel Szydlowski, uses a Bluetooth detection system to tell you whether there is a pair of smart glasses in the room with you.

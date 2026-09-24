@@ -15,6 +15,15 @@ categories:
 - York
 - Food & Cooking
 - Travel
+locations:
+- Italy
+- North East
+- Saltburn
+- Saltburn-by-the-Sea
+people:
+- Alessi
+organisations:
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

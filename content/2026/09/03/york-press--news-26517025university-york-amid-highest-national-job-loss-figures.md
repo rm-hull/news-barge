@@ -15,6 +15,21 @@ categories:
 - Careers & Productivity
 - Education & Learning
 - Business & Entrepreneurship
+locations:
+- UK
+- Universities’
+- York
+people: []
+organisations:
+- Instagram
+- Leeds Beckett
+- Post Office
+- Sunday Times
+- The Times
+- UCU
+- UNIVERSITY of York
+- University of Huddersfield
+- University of York
 ---
 
 *(Image: Supplied)*

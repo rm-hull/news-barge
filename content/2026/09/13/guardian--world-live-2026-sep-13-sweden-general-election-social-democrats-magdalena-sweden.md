@@ -12,6 +12,62 @@ image: https://i.guim.co.uk/img/media/39480f47abbeee736896ae6263a6046f37b0eb99/2
 categories:
 - UK
 - News & Politics
+locations:
+- Armenia
+- Europe
+- Nacka
+- Rosengård
+- Stockholm
+- Strangnas
+- Sweden
+- TT
+- UK
+- Valprognos
+- Waterfront center
+people:
+- Abba
+- Benny Andersson
+- Bilan Osman
+- Christine Olsson
+- Denis Balibouse
+- Jakub Krupa
+- Jimmie Åkesson
+- Joel Lindhe
+- Johan Nilsson
+- Magdalena Andersson
+- Mamma Mia
+- Mamma Mia’
+- Moderaterna
+- Munir Niazi
+- Nicholas Aylott
+- Richard Friberg
+- Stefan Jerrevang
+- Stefan Jerrevång
+- Ulf Kristersson
+organisations:
+- AFP
+- Ashifa Kassam
+- Centre Party
+- EPA
+- Green Party
+- Guardian
+- KD
+- Left Party
+- Miranda Bryant Nordic
+- Moderate Party
+- PM Kristersson
+- Reuters
+- SVT
+- Shutterstock Sweden
+- Social Democratic Party
+- Sweden Democrats
+- Sweden Democrats Social Democrats
+- Södertörn University
+- TT News Agency
+- TT/Shutterstock Exit
+- TT/Shutterstock Social Democrats
+- TV4
+- ZUMA Press Wire
 ---
 
 Sweden election: exit polls project centre-left government and bad night for the far-right – live

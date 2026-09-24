@@ -13,6 +13,43 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Berlin-Brandenburg
+- Bonn
+- Europe
+- Finland
+- Germany
+- Halle Airport
+- Ka.
+- Kabelsketal
+- Leipzig
+- Lithuania
+- Moscow
+- Russia
+- Russian House
+- Saxony-Anhalt
+- Schkeuditz
+- Serbia
+- St Petersburg
+- Turkey
+people:
+- Alexander Dobrindt
+- Andrei Ka
+- Andrei Ka.
+- Johann Wadephul
+- Oleg Le
+- Oleg Le.
+organisations:
+- '## Drone'
+- Antonov
+- CCTV
+- CDU
+- CSU
+- Euronews Berlin
+- Foreign Office
+- GRU
+- Welt
 ---
 
 **Euronews Berlin**

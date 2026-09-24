@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Malton
+- NHS
+- North Yorkshire
+- Pocklington
+- UK
+- York
+people:
+- Belle Richardson
+- David Skaith
+- Jason
+- Ms Richardson
+- Simon Goon
+organisations:
+- BBC’s One Show
+- Business Innovation Fund
+- Incredible Plant Company
+- SealStop
+- UMi
+- West Offices
 ---
 
 *(Image: Supplied)*

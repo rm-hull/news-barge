@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Earth
+- Ecuador
+- Galapagos Islands
+- Galápagos Islands
+- Pacific Ocean
+- Scalesia
+people:
+- Charles Darwin
+- Franklin Ormaza
+- Gustavo Jiménez
+- Heinke Jager
+- Washington Tapia
+organisations:
+- AP
+- Biodiversa Ecuador
+- Charles Darwin Foundation
+- ESPOL
+- El Nino
+- Faculty of Maritime Engineering and Marine Sciences of the Higher Polytechnic School
+  of the Coast
+- NOAA
+- Natural World Heritage Site
+- U.S. National Oceanic and Atmospheric Administration
 ---
 
 The prediction that this season’s El Nino phenomenon will be stronger than normal has alarmed the Ecuadorian scientific community, which has warned of its impact on the flora and fauna of the Galapagos Islands, home to the highest concentration of species not found elsewhere on Earth.

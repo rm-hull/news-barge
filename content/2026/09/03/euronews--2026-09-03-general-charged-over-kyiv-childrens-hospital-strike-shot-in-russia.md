@@ -14,6 +14,42 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Balzi Rossi
+- Bucha
+- Engels
+- Engels-2
+- Kramatorsk
+- Kyiv
+- Moscow
+- Okhmatdyt
+- Probuzhdeniye
+- Russia
+- Sapphire
+- Saratov
+- Sevastopol
+- Slobozhanshchyna
+- St Petersburg
+- Ukraine
+people:
+- Aleksandr Chaiko
+- Aleksandr Lutovinov
+- Bashar al-Assad
+- Nikolai Varpakhovich
+- Robert Shagiev
+- Sergei Sechkov
+organisations:
+- 22nd Heavy Bomber Aviation Division
+- 49th Combined Arms Army
+- ASTRA Telegram
+- Air Force
+- Health Ministry
+- Probuzhdeniye
+- Reuters
+- Russian Aerospace Forces
+- Security Service
+- Varpakhovich
+- Zaporizhzhia
 ---
 
 ## Major General Nikolai Varpakhovich, commander of a heavy bomber division and charged in absentia by Ukraine over the 2024 Okhmatdyt children's hospital strike, was shot twice by a motorbike gunman near Engels airbase and airlifted to Moscow in serious condition.

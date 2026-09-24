@@ -16,6 +16,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Relationships & Dating
+locations:
+- Darlington
+- Leeds
+- Newton Aycliffe
+- North East
+- Nottingham
+- Stocks Green
+people:
+- Amanda Rippon
+- Calum McNicholas
+- Martin Towers
+- Newton Aycliffe
+- Sean Hutchinson
+organisations:
+- Durham Crown Court
+- Probation Service
+- Snapchat
 ---
 
 *(Image: The Northern Echo)*

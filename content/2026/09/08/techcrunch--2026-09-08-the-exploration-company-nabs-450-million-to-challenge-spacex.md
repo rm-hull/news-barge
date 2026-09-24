@@ -12,6 +12,42 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Atlantic
+- Earth
+- Europe
+- France
+- Germany
+- Italy
+- Luxembourg
+- Norway
+- Paris
+- Spain
+- U.S.
+people:
+- Alex Ferrara
+- Hélène Huby
+- Macron
+- Ursula von der Leyen
+organisations:
+- Airbus
+- ArianeGroup
+- Ars Technica
+- Atomico
+- Bessemer Venture Partners
+- European Commission
+- European Space Agency
+- International Space Station
+- Isar Aerospace
+- NASA
+- Scaleup Europe Fund
+- Series C
+- SpaceX
+- Starship
+- Stoke Space
+- TEC
+- The Exploration Company
+- VCs
 ---
 
 The queue to send objects into orbit is growing, but space infrastructure isn’t keeping up with demand. As the realization sinks in that Elon Musk’s SpaceX can’t be the sole answer, other companies are raising their hand — and money.

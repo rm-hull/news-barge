@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Louisville
+- Miami
+- Muhammad Ali International Airport
+- Puerto Rico
+- San Juan
+people:
+- Jennifer Homendy
+- Mary Schiavo
+- Ray Jadallah
+- Steve Arroyo
+organisations:
+- 21 Air
+- Amazon
+- FAA
+- Federal Aviation Administration
+- FlightAware
+- Flightradar24
+- Miami International Airport
+- Miami-Dade Fire Rescue
+- National Transportation Safety Board
+- Orlando International Airport
+- Prime Air
+- Transportation Department
+- UPS
 ---
 
 Federal authorities investigating the fatal crash of an Amazon cargo plane at Miami International Airport are expected to center their inquiry on a critical phase of the landing: whether the plane made contact with the runway too late to come to a safe halt before plowing off the tarmac and into surrounding vehicles, killing at least five people.

@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford Interchange
+- Bramley
+- Halifax
+- Leeds
+- Low Moor
+- Manchester
+- Northern Rail
+people: []
+organisations:
+- Bradford Interchange
+- Chester
+- Network Rail
 ---
 
 Rail services serving Bradford Interchange are beginning to return to normal this afternoon after a vehicle crashed into a railway bridge in Bramley.

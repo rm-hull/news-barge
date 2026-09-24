@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- America
+- Brig
+- Germany
+- Russia
+- South Korea
+- U.S.
+- Ukraine
+- United States
+people:
+- Adam Telle
+- Anthony Miller
+- Christopher LaNeve
+- Dan Driscoll
+- Pete Hegseth
+- Randy George
+- Terry Tillis
+- Trump
+organisations:
+- 173rd Airborne Brigade
+- Associated Press
+- Saber Junction
+- U.S. Army
+- U.S. Army Corps of Engineers
+- US Army
+- Unmanned Systems Forces
 ---
 
 A lone American soldier stood on a dusty road in Germany, fussing with a controller. Moments later, a drone, with wings that stretched almost as wide as his arms, whirred to life and shot into the sky.

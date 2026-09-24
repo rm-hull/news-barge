@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Beijing
+- India
+- Japan
+- People’s Republic of China
+- Taiwan Strait
+- UK
+- US
+people:
+- Chen Binhua
+- Chiang Kai-shek
+- Lai Ching-te
+- Mao Ning
+organisations:
+- EU
+- Foreign Ministry
+- Lai Ching-te
+- PRC
+- State Council
+- Taiwan Affairs Office
+- Taiwan Democratic Progressive Party
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 **Euronews**

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Litchfield
+- Manchester
+- New Hampshire
+people:
+- Audriana Mekula
+- David Meehan
+- Hell
+- Jeffrey Buskey
+- Thomas Velardi
+- Will Delker
+organisations:
+- Associated Press
+- Sununu Youth Services Center
+- YDC
+- Youth Development Center
 ---
 
 A New Hampshire judge declared a mistrial Tuesday in the case of a former youth detention center worker charged with repeatedly raping a teenage boy after his accuser briefly testified about allegations involving other staff.

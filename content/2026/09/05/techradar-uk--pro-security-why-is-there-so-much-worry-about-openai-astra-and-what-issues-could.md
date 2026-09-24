@@ -10,6 +10,29 @@ description: As OpenAI unveils GPT-6 Astra, cybersecurity experts question wheth
 image: https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg
 categories:
 - Technology & Software
+locations:
+- OpenAI
+people:
+- Benedict Collins
+- Field CISO
+- Jakub Pachocki
+- James Blake
+- Kristin Lowery
+- Oleksandr Yaremchuk
+- Patricia Titus
+- Raghu Nandakumara
+organisations:
+- APT
+- Anthropic
+- BUCSIS
+- Frontier AI
+- Google News
+- Illumio
+- Manifold Security
+- OpenAI Astra
+- Optiv
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![OpenAI GPT-6 Astra](https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36.jpg) 

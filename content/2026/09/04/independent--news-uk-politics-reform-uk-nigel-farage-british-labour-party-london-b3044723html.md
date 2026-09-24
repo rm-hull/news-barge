@@ -13,6 +13,32 @@ image: https://static.independent.co.uk/2026/09/04/11/Britain_Reform_Party_Confe
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- England
+- London
+- U.K.
+- U.S.
+people:
+- Andy Burnham
+- Dan Jukes
+- James Orr
+- Keir Starmer
+- Nigel Farage
+organisations:
+- Brexit Party
+- Cambridge University
+- Centre for Climate Reporting
+- Channel 4
+- Electoral Commission
+- European Union
+- House of Commons
+- LBC
+- Labour Party
+- Met Police
+- Metropolitan Police
+- Reform UK
+- Verbatim
 ---
 
 Anti-immigration party Reform UK suspended two senior officials on Friday after they were filmed appearing to discuss accepting funds from a foreign donor in potential breach of British electoral law.

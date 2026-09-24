@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21477005.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- BBC
+- Disney+
+- Netflix
+- TV Licensing
 ---
 
 As the price of a TV licence is rising each year, many people are opting not to have one.

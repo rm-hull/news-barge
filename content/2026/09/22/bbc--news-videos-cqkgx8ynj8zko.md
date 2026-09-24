@@ -13,6 +13,19 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25f4/live/f7bcd0d0-b6d2-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Iran
+- New York
+- UK
+- US
+people:
+- Andy Burnham
+- António Guterres
+- Donald Trump
+organisations:
+- UN
+- UNGA
+- United Nations General Assembly
 ---
 
 # Watch: Threats, deals and passionate speeches at UNGA event

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Health & Fitness
+locations: []
+people:
+- Opan
+- Samantha Edmonds
+- Shirley Bowen
+- Tanya Buchanan
+organisations:
+- Ageing Australia
+- Commonwealth Ombudsman
+- Dementia Australia
+- Department of Health, Disability and Ageing
+- FoI
+- Guardian Australia
+- IAT
+- Older Persons Advocacy Network
+- Opan
 ---
 
 People with dementia were warned not to apply for home support because of fears their care would be downgraded by the government’s aged care algorithm.

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- A1
+- County Durham
+people:
+- Andrew Ward
+organisations:
+- A1
+- Delta Capital Property Investment and Lewis & Partners
+- Eggerton Limited
+- Tursdale Business Park
+- Ward Group Investments
+- Ward Group Investments’
 ---
 
 *(Image: Suppled)*

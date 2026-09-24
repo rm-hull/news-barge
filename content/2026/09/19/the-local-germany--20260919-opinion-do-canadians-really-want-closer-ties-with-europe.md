@@ -14,6 +14,22 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8KZ4GB__v1__HighRes__FranceEuCanadaParliament1.jpg@webp
+locations:
+- Canada
+- Europe
+- Sweden
+- US
+- United States
+people:
+- Donald Trump
+- Mark Carney
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Union
+- State of the Union
 ---
 
 There has been a lot of fanfare (or, if if you're in the US, some minor uproar) this past week over Canada and the European Union flirting, very publicly, with one another.

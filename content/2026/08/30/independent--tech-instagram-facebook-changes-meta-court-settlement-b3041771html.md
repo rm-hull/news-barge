@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Facebook
+- Instagram
+- Meta
+- Snapchat
+- YouTube
 ---
 
 Meta is about to make dramatic changes to Instagram and Facebook as part of a historic legal settlement.

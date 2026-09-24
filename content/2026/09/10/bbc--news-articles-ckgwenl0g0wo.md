@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Music
+locations:
+- Amsterdam
+- Atlanta
+- Chicago
+- Dallas
+- Europe
+- France
+- Germany
+- Ireland
+- Italy
+- LA
+- London
+- Los Angeles
+- Madison Square Garden
+- New York
+- Phoenix
+- Spain
+- UK
+- US
+- Wembley Stadium
+people:
+- Harry Styles
+- Kylie Minogue
+- Styles'
+organisations:
+- BBC
+- Live Trust
+- One Direction
+- Rolling Stone
 ---
 
 ![Harry Styles on stage in Wembley](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/abef/live/87cccb20-ad15-11f1-826f-933990eae6f0.jpg)

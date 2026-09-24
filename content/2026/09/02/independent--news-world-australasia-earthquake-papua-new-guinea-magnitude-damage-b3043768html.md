@@ -11,6 +11,11 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Papua New Guinea
+people: []
+organisations:
+- GFZ German Research Centre for Geosciences
 ---
 
 An earthquake with a preliminary magnitude of 5.7 has struck Papua New Guinea, according to reports.

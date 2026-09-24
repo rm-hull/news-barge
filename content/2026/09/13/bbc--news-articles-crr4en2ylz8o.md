@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Alaska
+- Donbas
+- Downing Street
+- Europe
+- Iran
+- Kramatorsk
+- Kyiv
+- Moscow
+- Northern Ireland
+- Odesa
+- Russia
+- Slovyansk
+- UK
+- US
+- Ukraine
+people:
+- Donald Trump
+- Jonathan Powell
+- Oleksandr Kravchenko
+- Vladimir Putin
+organisations:
+- CIA
+- EU
+- European Court of Auditors
+- Nato
+- United Kingdom
 ---
 
 ![National Security Adviser of the United Kingdom Jonathan Powell is pictured outside 10 Downing Street in October 2025.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6aea/live/e1c6da50-af0c-11f1-b7ba-f9c30afb9e4d.jpg)

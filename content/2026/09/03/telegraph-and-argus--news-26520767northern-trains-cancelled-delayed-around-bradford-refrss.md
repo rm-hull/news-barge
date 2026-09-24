@@ -14,6 +14,32 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Baildon
+- Ben Rhydding
+- Bingley
+- Bradford Forster Square
+- Burley-in-Wharfedale
+- Cononley
+- Crossflatts
+- Frizinghall
+- Guiseley
+- Ilkley
+- Keighley
+- Leeds
+- Menston
+- Northern
+- Saltaire
+- Shipley
+- Silsden
+- Skipton
+- Steeton
+people:
+- Mike Simmonds
+organisations:
+- National Rail and Northern
+- Network Rail
+- Shipley
 ---
 
 *(Image: Mike Simmonds)*

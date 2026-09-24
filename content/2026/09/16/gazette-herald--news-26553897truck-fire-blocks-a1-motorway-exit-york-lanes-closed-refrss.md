@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- M
+people: []
+organisations:
+- Facebook
 ---
 
 ## Our live feed has now finished.

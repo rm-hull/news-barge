@@ -11,6 +11,32 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312424732.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- AI
+- China
+- Europe
+- Hollywood
+- UK
+- US
+people:
+- AI
+- Adrian Hopgood
+- Clement Delangue
+- Dario Amodei
+- Donald Trump
+- Jacob Coxon
+- Martin Rees
+- Rishi Sunak
+organisations:
+- AI
+- Anthropic
+- Coxon
+- Hugging Face
+- New Scientist
+- OpenAI
+- Royal Society
+- Sky News
+- University of Portsmouth
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312424732.jpg?w=840)

@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- A1079 Hull Road
+- Derwent CP
+- Eastfield House
+- Newton
+- Pocklington Provincial Ward
+- Wilberfoss
+- YOUR
+people: []
+organisations:
+- East Riding of Yorkshire Council
+- Highways Customer Care
+- Public Notice Portal
+- Wilberfoss CP
 ---
 
 *(Image: Supplied)*

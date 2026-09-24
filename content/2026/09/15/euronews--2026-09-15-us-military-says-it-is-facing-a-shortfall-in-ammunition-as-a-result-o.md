@@ -11,6 +11,24 @@ image: https://images.euronews.com/articles/stories/09/91/36/53/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Bahrain
+- Iran
+- Iraq
+- Jordan
+- Kuwait
+- Oman
+- Qatar
+- Saudi Arabia
+- US
+- United Arab Emirates
+people:
+- Trump
+organisations:
+- Congress
+- Pentagon
+- Truth Social
+- US Defence Department
 ---
 
 ## President Trump has continued to brush off the concerns, insisting the US has "virtually unlimited" stock just a few weeks ago.

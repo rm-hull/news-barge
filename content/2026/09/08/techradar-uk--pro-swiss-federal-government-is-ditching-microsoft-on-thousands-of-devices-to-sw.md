@@ -10,6 +10,19 @@ description: Switzerland plans to migrate 3,000 devices to open source software
 image: https://cdn.mos.cms.futurecdn.net/iwQ9AuuGtL2PEi6GDdbdVc-2121-80.jpg
 categories:
 - Technology & Software
+locations:
+- France
+- Geneva
+- Germany
+- Switzerland
+- US
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- Microsoft
+- TechRadar Pro
 ---
 
 ![Swiss flag with view of Geneva city, Switzerland](https://cdn.mos.cms.futurecdn.net/iwQ9AuuGtL2PEi6GDdbdVc.jpg) 

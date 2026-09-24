@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Michigan
+- Texas
+- White House
+people:
+- Abdul El-Sayed
+- Donald Trump
+- Mike Rogers
+organisations:
+- AdImpact
+- CNN
+- CNN’s
+- Congress
+- Focaldata
+- GOP
+- House
+- Politico
+- Senate
+- The Financial Times
+- The Independent
 ---
 
 Donald Trump is being left out of TV ads for Republican candidates competing in this November’s midterms, according to new analysis, as the president’s popularity remains at an all time low.

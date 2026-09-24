@@ -12,6 +12,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Calder Quarry
+- Calderdale
+- Elland
+- West Yorkshire Magistrates’ Court
+people:
+- Ben Hocking
+organisations:
+- Calderdale Council
+- EA
+- Environment Agency
+- Yorkshire Area Environment Manager
 ---
 
 Access to a former Calderdale quarry where waste has been illegally dumped has been blocked by the Environment Agency.

@@ -14,6 +14,47 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- England
+- North Yorkshire
+- Northallerton
+- Richmond
+- Scarborough
+- Wales
+- Whitby
+- York Central
+people:
+- Alec Shelbrooke
+- Alison Hume
+- Bill
+- Hoc Rachael Maskell
+- Julian Smith
+- Keir Mather
+- Kevin Hollinrake
+- Knaresborough Tom Gordon
+- Lauren Edwards
+- Luke Charters
+- Rachael Maskell
+- Rishi Sunak
+- Selby
+- Tom Gordon
+organisations:
+- BILL
+- Conservative
+- Harrogate
+- House of Commons
+- Knaresborough
+- Labour
+- Liberal Democrat
+- Liberal Democrats
+- Malton
+- Ripon
+- Skipton
+- Thirsk
+- Wetherby and Easingwold
+- Whitby
+- York Central
+- York Outer
 ---
 
 A BILL to permit assisted dying in England and Wales has been voted down in the House of Commons – this is how North Yorkshire MPs voted on the measure.

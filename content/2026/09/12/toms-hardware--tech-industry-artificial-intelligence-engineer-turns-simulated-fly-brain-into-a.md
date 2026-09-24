@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations: []
+people:
+- Bruno Ferreira
+- Stonkfly
+- Tom
+organisations:
+- Coinbase
+- Google News
+- PC
+- Stonk
+- Tom's Hardware
 ---
 
 ![Stonkfly](https://cdn.mos.cms.futurecdn.net/YHRx7mjKbZv6KL3aDChhCS.png) 

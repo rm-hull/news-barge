@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Los Angeles
+- Los Angeles' Chatsworth
+- Southern California
+- US
+people:
+- Bailee Lynn Rios
+- Cindy Rios
+- Daniel Castillo
+- Edy Gutierrez Mejia
+- Eliana Moreno
+- Fabian Salazar
+- Gage Weida
+- George Marciniw
+- Jeff Guzzetti
+- Johaunna Castillo
+- Nathan Hochman
+organisations:
+- Angel City Air
+- Burbank High School
+- NBC4
+- NTSB
+- National Transportation Safety Board
+- SUV
+- Telemundo
 ---
 
 An SUV driver accused of being high on drugs when she plowed into a Los Angeles city bus has been charged with murdering two passengers in a crash that preceded a second tragedy when a news helicopter covering the scene went down, killing three more people.

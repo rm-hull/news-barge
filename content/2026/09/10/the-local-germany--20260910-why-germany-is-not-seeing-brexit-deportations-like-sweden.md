@@ -14,6 +14,29 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Brexit
+- Frankfurt
+- Germany
+- Sweden
+people:
+- Brexit
+- David Milstead
+- Joyce Thomas
+- Matt Bristow
+organisations:
+- AfD
+- Alternative for Germany
+- Brexit
+- Bristow
+- EU
+- Eurostat
+- Interior Ministry
+- Stockholm University
+- The Local
+- The Local Sweden
+- UK Foreign Office
+- WA
 ---
 
 While British nationals living in the EU before the Brexit cut-off date were assured they would retain their residency rights under the Withdrawal Agreement (WA), the reality has been very different in some countries.

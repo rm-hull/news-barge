@@ -13,6 +13,30 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Blackpool Mecca
+- London
+- Manchester
+- Northern Soul
+- Soho
+- Tunstall
+- Twisted Wheel
+- York
+people:
+- Darrell Smith
+- Jack Dee
+- Krays
+- Ronnie Scott
+- Shawn Pearce
+organisations:
+- A York Theatre Royal
+- All Stars
+- HMV
+- Northern Soul Orchestra
+- Scarborough
+- Soul Brothers Syndicate
+- Wigan Casino
+- York Theatre Royal
 ---
 
 ## Legendary comedian Jack Dee to perform one-night-only York show in 2027

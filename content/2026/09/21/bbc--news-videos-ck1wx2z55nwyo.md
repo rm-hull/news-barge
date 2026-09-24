@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16e7/live/1b8f2f80-b5b6-11f1-b1d1-571ed4d7ff2c.jpg
+locations: []
+people:
+- Catherine Burns
+- Peter Fonagy
+- Wes Streeting
+organisations:
+- BBC
 ---
 
 # 'Other generations just buried it' - Youths share their mental health concerns

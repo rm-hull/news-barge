@@ -12,6 +12,28 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/11/2026-09-19T114800Z_1100229945_RC28MNAOL58F_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN.JPG?trim=0,269,0,269&width=1200&height=800&crop=1200:800
+locations:
+- Bab al-Mandab
+- Britain
+- Iran
+- Middle East
+- New York
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- UK
+- Ukraine
+- Yemen
+people:
+- Andy Burnham
+- Luke Pollard
+organisations:
+- BBC
+- RAF Voyager
+- Sky News
+- UK Sky Sabre
+- UN General Assembly
 ---
 
 Providing British military support to Saudi Arabia should help contain additional surges in fuel costs, according to a defence minister.

@@ -13,6 +13,18 @@ categories:
 - Technology & Software
 - History
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313418678.jpg
+locations:
+- AACWGT Greenland
+- Africa
+- Asia
+- Atlantic
+- Europe
+- Gulf of Mexico
+- Ilulissat Kangerlua Glacier Jakobshavn Icefjord
+- North America
+people: []
+organisations:
+- AMOC
 ---
 
 ![AACWGT Greenland Ilulissat Melting water streams from iceberg calved from Ilulissat Kangerlua Glacier Jakobshavn Icefjord floating on c](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313418678.jpg?w=840)

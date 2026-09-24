@@ -12,6 +12,21 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2024/11/08/18/iStock-1055083194.jpg?width=1200&height=800&crop=1200:800
+locations:
+- London
+- Nottingham Crown Court
+people:
+- Denis Barry
+- Jerome Gibson
+- Justice Edis
+- Justice Lavender
+- Justice Linden
+- Lucky Thandi
+organisations:
+- AI
+- Court of Appeal
+- Crown Prosecution Service
+- Microsoft Copilot
 ---
 
 AI was used by a police officer to create a personal victim statement to “make a judge or reader weep” and for it to achieve the “highest sentence”, the Court of Appeal has heard.

@@ -14,6 +14,34 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Camp David
+- Iran
+- Strait of Hormuz
+- Tehran
+- U.S.
+people:
+- Adolf Hitler
+- Benjamin Netanyahu
+- Dan Caine
+- Donald Trump
+- JD Vance
+- Jim Ratcliffe
+- Marc Thiessen
+- Marco Rubio
+- Osama Bin Laden
+- Pete Hegseth
+- Tulsi Gabbard
+- Vladimir Lenin
+organisations:
+- CIA
+- Defense
+- Lincoln Memorial Reflecting Pool
+- New York Times
+- Reuters / Ipsos
+- The Washington Post
+- Truth Social Thursday
+- Wall Street Journal
 ---
 
 President Donald Trump has lashed out at leakers in his own administration after a series of behind-the-scenes reports on the Iran war.

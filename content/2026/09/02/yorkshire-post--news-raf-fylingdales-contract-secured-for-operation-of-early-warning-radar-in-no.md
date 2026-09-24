@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Low Earth Orbit
+- North Yorkshire
+- UK
+- US
+people:
+- Anthony Kirby
+organisations:
+- Early Warning Radar
+- Ministry of Defence
+- RAF Fylingdales
+- Royal Air Force
+- SSPAR
+- Serco
+- Solid State Phased Array Radar
+- UK Space Command
+- US Missile Defenceground-based
+- US Space Force
+- Upgraded Early Warning Radar
 ---
 
 # RAF Fylingdales: Contract secured for operation of Early Warning Radar in North Yorkshire

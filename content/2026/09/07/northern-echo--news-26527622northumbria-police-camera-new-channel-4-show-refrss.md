@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Newcastle
+- North East
+- UK
+people: []
+organisations:
+- BBC
+- Candour Productions
+- Channel 4
+- City Safe
+- Geordie Coppers
+- NE1 Street Rangers
+- Newcastle City Council
+- Newcastle’s City Safe
+- Northumbria Police
+- Street Rangers
 ---
 
 *(Image: Channel 4)*

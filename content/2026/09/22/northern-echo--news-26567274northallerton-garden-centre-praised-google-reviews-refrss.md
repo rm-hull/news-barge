@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21480624.jpg?type=og-image
+locations:
+- Darlington Road
+- Dementia UK
+- Northallerton
+people: []
+organisations:
+- British Heart Foundation
+- Garden Centre
+- Google
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -12,6 +12,18 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Bishop Auckland
+- Burnopfield
+- County Durham
+- Darlington
+- Lintz Hall Farm
+people:
+- Christiano Crawford
+organisations:
+- La Flamo
+- Newcastle
+- Reaction Fireworks
 ---
 
 *(Image: @maxcooper_photography)*

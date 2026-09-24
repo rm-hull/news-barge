@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Middlesbrough
+- Oxford Street
+- South Bank
+- Teesside Magistrates' Court
+people:
+- SARAH CALDECOTT
+- Stephen Gibson
+organisations:
+- Cleveland Police
+- Redcar CID
 ---
 
 *(Image: SARAH CALDECOTT)*

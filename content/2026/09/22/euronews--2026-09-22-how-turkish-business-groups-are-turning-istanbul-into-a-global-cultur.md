@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/88/80/88/1200x675_cmsv2_7965335d-8c48-50f9-b0b2-ce694d0004a2-9888088.jpg
+locations:
+- Renzo Piano
+- Spain
+- Türkiye
+- İstanbul
+people:
+- Franck Mereyde
+- Koç
+- Yoko Ono
+organisations:
+- Akbank
+- MUSAC
+- Renzo Piano
+- Sabancı Museum
+- Türkiye
+- Yoko Ono
+- İstanbul Modern
 ---
 
 ## From Sabancı's Yoko Ono exhibition to İstanbul Modern's Renzo Piano building, Turkish conglomerates are investing heavily in culture to boost the city's global appeal.

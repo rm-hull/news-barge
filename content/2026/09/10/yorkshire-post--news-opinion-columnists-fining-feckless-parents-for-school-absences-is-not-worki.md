@@ -15,6 +15,23 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- England
+- Hartlepool
+people:
+- David Jones
+- Jayne Dowle
+- Jonathan Brash
+- Stuart Nolan
+organisations:
+- Department for Education
+- Facebook
+- Fight School Fines
+- Labour
+- Law Society
+- Middlesbrough
+- PA Wire
+- Sunday Times
 ---
 
 # Fining feckless parents for school absences is not working - Jayne Dowle

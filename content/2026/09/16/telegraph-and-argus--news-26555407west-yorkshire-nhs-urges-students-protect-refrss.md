@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- West Yorkshire
+people:
+- Sohail Abbas
+organisations:
+- NHS West Yorkshire Integrated Care Board
 ---
 
 *(Image: Supplied)*

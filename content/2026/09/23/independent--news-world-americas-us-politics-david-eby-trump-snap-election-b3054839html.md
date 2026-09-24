@@ -10,6 +10,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/08/26/11/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- British Columbia
+- Canada
+- Crab Park
+- United States
+- Vancouver
+- Washington
+people:
+- David Eby
+- Donald Trump
+- Jack Daniels
+- Kerry-Lynne Findlay
+- Lorne Doerkson
+organisations:
+- BC Conservative Party
+- British Columbia Conservatives
+- Eby
+- New Democratic Party
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

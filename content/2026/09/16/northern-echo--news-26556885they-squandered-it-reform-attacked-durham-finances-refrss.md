@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Hall
+people:
+- Amanda Hopgood
+- Andrew Husband
+- CHRIS BOOTH
+- Darren Grimes
+- Luke Akehurst
+- Lyndsey Fox
+- Nicole Brown
+- Paul Sexton
+organisations:
+- County Durham
+- DURHAM COUNTY COUNCIL
+- Durham County Council
+- Former Reform
+- Labour
+- Liberal Democrat
+- NORTHERN ECHO
+- North Durham
+- Reform UK
 ---
 
 Opposition politicians have accused Reform UK of helping create Durham County Council's financial problems.

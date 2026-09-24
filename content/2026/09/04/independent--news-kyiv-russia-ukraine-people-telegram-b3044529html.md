@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Kyiv
+- Podil
+- Russia
+- Ukraine
+people:
+- Evhen Mytsyk
+- Iryna Baranova
+- Ivan Datsiv
+- Tetyana Shevchenko
+- Volodymyr Bovsunovskyi
+organisations:
+- IT
+- Kyiv
+- Telegram
 ---
 
 For much of the war, Russian drone and missile attacks in Kyiv followed a particular rhythm. They almost always came at night.

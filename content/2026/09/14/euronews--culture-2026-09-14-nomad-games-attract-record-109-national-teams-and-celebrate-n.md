@@ -14,6 +14,14 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Bishkek Arena
+- Kyrchyn
+- Kyrgyz Republic
+- Kyrgyzstan
+people: []
+organisations:
+- Shanghai Cooperation Organisation
 ---
 
 ## 6th World Nomad Games were held in the Kyrgyz Republic. 109 teams from all continents took part. They competed in 42 disciplines. Scientific and cultural events and an ethno-village completed the programme of the games aimed at preserving and promoting nomadic culture, tradition & history worldwide.

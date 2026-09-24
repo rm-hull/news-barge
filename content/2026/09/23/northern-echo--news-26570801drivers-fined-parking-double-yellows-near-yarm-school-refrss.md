@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21486533.jpg?type=og-image&xType=0&yType=0
+locations:
+- Brittains Garage
+- Conyers
+- Crossways
+- Darlington
+- Green Lane
+- North East
+- Yarm
+people:
+- Cllr Coulson
+- JOHN COULSON
+- John Coulson
+organisations:
+- Conyers School
+- Stockton Borough Council
+- THE NORTHERN ECHO
 ---
 
 Drivers have been slammed for parking on new double yellow lines near a school that were brought in due to safety concerns.

@@ -12,6 +12,55 @@ categories:
 - Harrogate
 - Travel
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f565/live/18bb5330-b33e-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- A19
+- Black Swan Bridge
+- Coast to Coast
+- Cumbria
+- Cumbrian Way
+- Harrogate
+- Hutton Rudby
+- Ingleby Arncliffe
+- M6
+- National Trail
+- Natural England
+- North Yorkshire
+- North Yorkshire.
+- North of England
+- Norwich
+- Richmond
+- Robin Hood
+- Robin Hood's Bay
+- St Bees
+- UK
+- Wall
+- Wigton
+people:
+- Alfred Wainwright
+- David Hugill
+- David Nicholls'
+- David Skaith
+- Hadrian
+- Jane Redfern
+- Joe Willis
+- Keith Newton
+- Mike
+- Sandra Hodson
+- William Ainslie
+organisations:
+- A1
+- A19
+- BBC
+- Blesma
+- Discovery Travel Holidays
+- Labour
+- Local Democracy Reporting Service
+- Natural England
+- North Yorkshire Council
+- Osmotherley
+- Richmond Area Committee
+- William Ainslie
+- York
 ---
 
 ![Vehicles driving in front of a petrol station at the side of a dual carriageway. A road sign reads "Ingleby Arncliffe".](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/ac09/live/068974b0-b33b-11f1-910c-69bc1dc40919.jpg)

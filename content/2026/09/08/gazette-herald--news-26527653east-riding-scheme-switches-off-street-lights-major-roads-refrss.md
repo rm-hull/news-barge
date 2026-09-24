@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- A164
+- East Riding
+people:
+- Paul West
+organisations:
+- Department for Transport
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

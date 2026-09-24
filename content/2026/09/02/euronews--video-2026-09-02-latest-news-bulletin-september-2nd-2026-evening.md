@@ -12,6 +12,47 @@ image: https://images.euronews.com/articles/stories/09/89/90/61/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgium
+- Bishkek
+- Brussels
+- Caracas
+- Ceuta
+- Chaptal
+- Europe
+- France
+- Germany
+- Hanover.
+- Kathmandu
+- Kherson
+- Kyrgyzstan
+- Leipzig Airport
+- Mende
+- Morocco
+- Nepal
+- New York
+- Queens
+- Ravenswood Generating Station
+- Ukraine
+- Venezuela
+people:
+- Delcy Rodríguez
+- Emmanuel Macron
+- Joerg Sarb
+- Kaja Kalas
+- Klaus Michael Kuehne
+- Mark Rutte
+- Pedro Sanchez
+- Ursula von der Leyen
+organisations:
+- EU
+- Euronews
+- European Commission
+- Kuehne
+- Loukas Gaouto
+- NATO
+- Nagel
+- Naima Gerasopoulou
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

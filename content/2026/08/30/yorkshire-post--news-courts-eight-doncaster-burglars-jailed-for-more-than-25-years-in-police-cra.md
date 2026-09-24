@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bawtry Road
+- Bentley
+- Bessacarr
+- Cardigan Road
+- Davis Road
+- Doncaster
+- Instoneville
+- Maple Road
+- Mexborough
+- Sheffield Crown Court
+people:
+- Andrew Stewart
+- Ben MacManus
+- Daniel Finigan
+- Lee MacManus
+- Mackenzie-dean Wilson
+- Michael Scott
+- Milner
+- Peter Coulthread
+- Russell Riley
+organisations:
+- CCTV
+- Operation Castle
+- Sheffield Crown Court
+- South Yorkshire Police
 ---
 
 # Eight Doncaster burglars jailed for more than 25 years in police crackdown

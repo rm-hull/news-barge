@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bierley Lane
+- Bradford
+people: []
+organisations:
+- '## FULL'
+- Bradford CID
+- Crimestoppers
+- LiveChat
+- Newsquest
+- West Yorkshire Police
+- West Yorkshire Police A
 ---
 
 *(Image: Newsquest)*

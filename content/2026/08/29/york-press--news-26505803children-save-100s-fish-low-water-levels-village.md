@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Sinnington
+people:
+- John Scoble
+- Sean McGinty
+- Verity Healey
+organisations:
+- Environment Agency
+- Sinnington Angling Club
 ---
 
 ## Children's effort saves hundreds of fish from 'near tragedy'

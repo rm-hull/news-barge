@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Australia
+- Flushing Meadows
+- Manhattan
+- Melbourne Park
+- New York
+- US
+people:
+- Alex Michelsen
+- Alexander Blockx
+- Alexander Zverev
+- Andrew Abdo
+- Andy Murray
+- Aryna Sabalenka
+- Ben Shelton
+- Carlos Alcaraz
+- Emma Navarro
+- Frances Tiafoe
+- Jessica Pegula
+- Karen Khachanov
+- Linda Noskova
+- Martina Navratilova
+- Matt Little
+- Novak-Rafa
+- Sofia Kenin
+- Thanasi Kokkinakis
+- Venus Williams
+organisations:
+- ATP
+- Alcaraz
+- BBC Sport
+- WTA
 ---
 
 ![Ben Shelton celebrates after beating Carlos Alcaraz in the 2026 US Open quarter-finals](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/27cc/live/8aabe6e0-ad70-11f1-9c69-71d92e5d6487.jpg)

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Alligator Alcatraz
+- Florida Everglades
+- Miami
+people:
+- Alligator Alcatraz
+- Donald Trump
+- Krish O’Mara Vignarajah
+organisations:
+- Alligator Alcatraz
+- Department of Homeland Security
+- Florida Division of Emergency Management
+- Global Refuge
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- The Independent
 ---
 
 Detainees at a state-run immigration detention center in the middle of the Florida Everglades were held inside phonebooth-sized cages to “reflect on their behavior choices” and “manage their emotions,” according to policy documents uncovered by a federal watchdog.

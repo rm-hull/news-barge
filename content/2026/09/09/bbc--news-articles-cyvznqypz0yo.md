@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Asia
+- Colombia
+- Gulf of Oman
+- Iran
+- Israel
+- Jordan
+- Kharg Island
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- The Gulf
+- US
+- Yemen
+people:
+- Centcom
+- Marco Rubio
+- Peter Hoskins
+- Tim Hawkins
+organisations:
+- Centcom
+- IRGC
+- Jordanian Armed Forces
+- Reuters
+- Revolutionary Guards
+- Revolutionary Guards Corps
+- US Central Command
+- US Navy
 ---
 
 Watch: Missile interceptions seen in Jordan's night sky

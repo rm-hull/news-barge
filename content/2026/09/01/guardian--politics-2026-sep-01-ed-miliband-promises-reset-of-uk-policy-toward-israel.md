@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- East Jerusalem
+- France
+- Gaza
+- Germany
+- Israel
+- Italy
+- London
+- Ma’ale Adumim
+- Nottinghamshire
+- Palestine
+- Rushcliffe
+- UK
+- West Bank
+people:
+- Ed Miliband
+- Friedrich Merz
+- Gideon Sa’ar
+- James Naish
+- Ma’ale Adumum
+- Stephen Doughty
+organisations:
+- Commons
+- European Union
+- Foreign Office
+- Labour
 ---
 
 Ed Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to stop British companies helping build settlements in the West Bank.

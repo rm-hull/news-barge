@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- '![York'
+- Duncombe Place
+- York Minster
+people:
+- Coun Ayre
+- Coun Claire Douglas
+- Coun Douglas
+- Coun Kate Ravilious
+- Coun Nigel Ayre
+- Coun Ravilious
+organisations:
+- ATTRO
+- ATTROs
+- Anti-Terror Traffic Regulation Orders
+- Blue Badge
+- Deangate
+- Labour
+- Liberal Democrat
+- North Yorkshire Police
+- York Council
 ---
 
 # Anti-terror traffic bans in York 'sensitive and difficult' as powers approved

@@ -11,6 +11,15 @@ image: https://static.independent.co.uk/2026/09/16/13/01M2N373Z6YBQ77HAHMZFNYSVQ
 categories:
 - News & Politics
 - UK
+locations:
+- Brantham
+- Merriam Close
+- Suffolk
+people:
+- Bluey
+- Noah Woods
+- Tom Pearse
+organisations: []
 ---
 
 Suffolk police have urged people to check gardens, outbuildings, and home CCTV devices in the hunt for missing 3-year-old Noah Woods.

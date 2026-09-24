@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Arts & Culture
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- Cockfield
+- Consett
+- County Durham
+- Market Place
+- STUART BOULTON
+- Teesside
+people:
+- Helen Goddard
+- STUART BOULTON
+- Sara Davies
+- Tracey Bowes
+organisations:
+- Barnard Castle
+- Bowes Occasions
+- Darlington Market
+- Decorating Centre Online
+- Dragon's Den
+- Mind Your Business
+- Pokémon
+- STUART BOULTON
 ---
 
 *(Image: STUART BOULTON)*

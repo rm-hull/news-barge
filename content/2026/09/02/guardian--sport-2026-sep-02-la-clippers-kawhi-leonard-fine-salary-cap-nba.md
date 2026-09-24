@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- New York
+people:
+- Adam Silver
+- Dennis Robertson
+- Forbes
+- Gillian Zucker
+- Kawhi Leonard
+- Lawrence Frank
+- Pablo Torre
+- Steve Ballmer
+organisations:
+- Aspiration Partners
+- Ballmer
+- Boingo Wireless
+- Daktronics
+- KL2 Aspire
+- KL2 Aspire, LLC
+- Lockton Insurance
+- Los Angeles Clippers
+- Microsoft
+- NBA
+- San Antonio Spurs
+- Toronto Raptors
+- Wachtell Lipton
+- Western Conference
 ---
 
 The NBA has handed down one of the biggest punishments in the history of the league to the Los Angeles Clippers after finding that the franchise circumvented salary cap rules when it courted Kawhi Leonard as a free agent.

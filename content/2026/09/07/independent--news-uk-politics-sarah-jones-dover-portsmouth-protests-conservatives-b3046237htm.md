@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Fareham
+- France
+- Hampshire
+- Isle of Wight
+- Kent
+- London
+- Manston
+- Port of Dover
+- Portsmouth
+- Unite the Kingdom
+- Waterlooville
+people:
+- Chris Philp
+- Daniel Thomas
+- Danny Tommo
+- Max Wilkinson
+- Ms Jones
+- Nigel Brookes
+- Nigel Farage
+- Sarah Jones
+- Spencer Wragg
+- Suella Braverman
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- Commons
+- ECHR
+- European Convention on Human Rights
+- Government
+- Hampshire Police Federation
+- Isle of Wight Constabulary
+- Kent Police
+- Patriot Platform
+- Reform UK
 ---
 
 Policing minister Sarah Jones has blamed the Conservatives for "the frustration we see in our communities today" following a weekend of anti-migrant demonstrations in Dover and Portsmouth.

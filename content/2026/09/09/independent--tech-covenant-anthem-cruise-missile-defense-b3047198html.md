@@ -15,6 +15,31 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Dallas
+- Germany
+- Iran
+- Israel
+- Philippines
+- Saxony
+- U.S.
+people:
+- Abby Denburg
+- Michael Kaufman
+organisations:
+- 8VC
+- Aleph
+- Andreessen Horowitz
+- Covenant
+- Founders Fund
+- JASSM-ER
+- Lightspeed
+- Lockheed Martin
+- Lux
+- Raytheon
+- Tomahawk
+- U.S. Army
 ---
 
 Silicon Valley-backed defense startup Covenant unveiled a long-range, heavy-payload cruise missile on Wednesday designed for rapid, low-cost mass production, mounting a direct challenge to established U.S. weapons manufacturers.

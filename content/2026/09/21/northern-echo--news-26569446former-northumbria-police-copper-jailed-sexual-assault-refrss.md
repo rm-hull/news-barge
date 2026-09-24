@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/20045846.jpg?type=og-image&xType=0&yType=120
+locations:
+- Teesside Crown Court
+people:
+- Chris Booth
+- Daniel Hedley
+- Emily Barry
+- James Yearsley
+- PC Hedley
+organisations:
+- Crown Prosecution Service
+- Durham Constabulary
+- Durham University
+- IOPC
+- Independent Office for Police Conduct
+- Northumbria Police
+- Northumbria Police’s Professional Standards Department
 ---
 
 *(Image: Chris Booth)*

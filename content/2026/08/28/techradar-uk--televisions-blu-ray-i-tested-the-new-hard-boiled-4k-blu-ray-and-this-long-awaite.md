@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- Hollywood
+- Hong Kong
+- UK
+people:
+- Hard Boiled
+- James Davidson
+- John Woo
+- Tequila
+organisations:
+- AV
+- Ah Long
+- Arrow Video
+- Arrow Video —
+- G6
+- Google News
+- LG
+- OLED
+- PS5
+- QLED
+- Samsung
+- Silver Salt Restoration
+- TechRadar
+- Tequila
 ---
 
 ![Hard Boiled 4K Blu-ray on LG G6, showing 4K menu screen, with case stood on Samsung soundbar in front of TV](https://cdn.mos.cms.futurecdn.net/AfPnxCnFLMNhgdD9n8ST3b.jpg) 

@@ -14,6 +14,42 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/22/07/Tropical_Weather_132_2.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlanta
+- Atlantic
+- Central America
+- Colima
+- El Niño
+- Guerrero
+- Jalisco
+- Lowell
+- Lázaro Cárdenas
+- Mexico
+- Michoacan
+- Michoacán
+- Oaxaca
+- Pacific Ocean
+- Pacific) Basin
+- Patricia
+- Polo
+- U.S.
+- Zihuatanejo
+people:
+- Claudia Sheinbaum
+- Concepción López Villegas
+- Genevieve
+- Kristen L. Corbosiero
+- López Villegas
+- Philip Klotzbach
+- \_\_\_ Brooks
+organisations:
+- Colorado State University
+- Department of Atmospheric Science
+- El Niño
+- NHC
+- National Hurricane Center
+- Polo
+- University at Albany’s Department of Atmospheric & Environmental Sciences
 ---
 
 Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico’s southwestern coast as a Category 5 storm.

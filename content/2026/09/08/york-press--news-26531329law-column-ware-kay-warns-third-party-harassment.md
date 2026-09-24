@@ -13,6 +13,13 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- York
+people:
+- Jessica Gowar
+organisations:
+- Equality and Human Rights Commission
+- Head of Employment
 ---
 
 *(Image: Ware & Kay)*

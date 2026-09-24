@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/kmxG3xPY2zgARQU2e6CYcX-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Ai
+- Buildzoid
+- Kunal Khullar
+- Tom
+organisations:
+- ATX48VO
+- CEM
+- GPU
+- Google News
+- Meta
+- NVidia
+- PCB
+- PCI-SIG
+- PSU
+- Reddit
+- TDP
+- Thermal Grizzly
+- Tom’s Hardware
 ---
 
 ![Damaged PCIe 8-pin connectors on a Thermal Grizzly WireView adapter](https://cdn.mos.cms.futurecdn.net/kmxG3xPY2zgARQU2e6CYcX.jpg) 

@@ -10,6 +10,30 @@ image: https://static.independent.co.uk/2026/08/31/15/45/789347589_1862216598405
 categories:
 - News & Politics
 - UK
+locations:
+- Callington
+- Cornwall
+- Gulls Rocks
+- Holy Well
+- Holywell Bay
+- Holywell Beach
+- Holywell Cave
+- Kelsey Head
+- Newquay
+- Poldark
+- St Cuthbert's Cave
+people:
+- Carter
+- Chris Barnard
+- Drake Carne
+- Morwenna
+- Ross Poldark
+organisations:
+- BBC
+- Holywell
+- National Trust
+- Newquay Coastguard
+- Poldark
 ---
 
 Visitors to a beach made famous by the BBC series Poldark have been urged to stay well away from a cliff fall which has destroyed a beachside cave in Cornwall.

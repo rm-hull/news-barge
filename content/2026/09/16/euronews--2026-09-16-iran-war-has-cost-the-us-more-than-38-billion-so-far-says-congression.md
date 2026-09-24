@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Red Sea
+- Strait of Hormuz
+- US
+- White House
+people:
+- Brendan Boyle
+- Donald Trump
+- Pete Hegseth
+organisations:
+- CBO
+- Congress
+- Congressional Budget Office
+- Defence Department
+- House Budget committee
+- Pentagon
+- US Department of Defence
 ---
 
 ## The nonpartisan Congressional Budget Office reports that up to $3 billion more is being spent on the war each month, depending on the intensity of fighting.

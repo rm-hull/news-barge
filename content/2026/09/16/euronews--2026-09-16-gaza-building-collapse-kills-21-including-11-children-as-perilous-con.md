@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Gaza City
+- Gaza Strip
+- Israel
+- Tal al-Hawa
+people:
+- Aboud Majdalawi
+- Mohannad Al-Mashharawi
+organisations:
+- Hamas
+- Health Ministry
+- UN
 ---
 
 ## At least 21 people, including 11 children, have died and dozens more are missing after an apartment building collapsed in Gaza from damage sustained in earlier Israeli strikes.

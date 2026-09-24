@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Harpenden
+- Hertfordshire
+- PinPep
+- UK
+people:
+- Britt Allcroft
+- Corrie
+- David Parry
+- Doug Peters
+- Gordon
+- Harry Sparkes
+- Henry Golding
+- James
+- Peter Fonda
+- Pierce Brosnan
+- Ringo Starr
+- Ted Wu
+- Thomas the
+- Wilbert Awdry
+organisations:
+- All Engines Go
+- BBC
+- CGI
+- Cineworld
+- Mattel
+- PA Media Assignments
+- Tank Engine
+- Thomas & Friends
+- Thomas & Friends Railway Stories
+- Thomas the Tank Engine
 ---
 
 *(Image: Doug Peters/PinPep/Mattel/PA)*

@@ -12,6 +12,34 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Devon
+- Kirkbymoorside Town
+- North Yorkshire
+people:
+- Phil Woodward
+organisations:
+- Bandamonim
+- Bandamonium Barbarians
+- Bandamonium Yorkshire
+- Cropton
+- District Excelsior Band
+- Geneva Instruments
+- Helmsley Brewing Co.
+- House Inn Rosedale
+- Kirkbymoorside Bandtastics
+- Kirkbymoorside Town Brass Band
+- London Metropolitan Brass Band
+- Stape Silver Band
+- Swinton and District Excelsior Band
+- Tees Components Brass
+- Tees Valley Components
+- Tewit Community Band
+- The New Inn
+- The Royal Oak Gillamoor
+- The Sun Inn Pickering
+- Town Council
+- White Swan Kirkbymoorside
 ---
 
 A North Yorkshire town came alive to the sound of brass at the weekend.

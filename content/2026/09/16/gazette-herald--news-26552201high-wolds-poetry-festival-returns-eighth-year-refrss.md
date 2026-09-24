@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bishop Burton Village Hall
+- Stamford Bridge
+- UK
+- Yorkshire Wolds
+people:
+- Nick Coultish
+- Sarah Mills
+organisations:
+- Bayeux Tapestry
+- East Riding of Yorkshire Council
+- East Riding of Yorkshire Council and Arts Council England
 ---
 
 A POETRY festival is set to return with a packed day of readings, reflection and creativity.

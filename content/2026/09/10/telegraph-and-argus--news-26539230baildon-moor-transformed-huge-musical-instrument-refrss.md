@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Baildon Moor
+- Baildon Moor Trig Point
+- Bracken Hall Countryside Centre
+- Bradford 2025
+- Copenhagen
+- Helsinki
+- Marseille
+- UK
+people:
+- Jane Earnshaw
+- Pierre Sauvageot
+organisations:
+- Bracken Hall Countryside Centre and Museum
+- Bradford Culture Company
+- Bradford Pennine Gateway National Nature Reserve
+- Harmonic Fields
+- UK City of Culture
 ---
 
 *(Image: T&A)*

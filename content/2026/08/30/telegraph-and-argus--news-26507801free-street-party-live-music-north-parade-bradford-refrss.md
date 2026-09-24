@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+people:
+- Austin Haddock
+- David Jared
+- James Brunskill
+organisations:
+- Boar and Fable
+- Boki
+- Bradford
+- Harvana Lounge
+- L&G Bar
+- Natural Rhythm
+- North Parade Street Party
+- Richard Harris Experience
+- Rubber Kazoo
+- Rumshackalack
+- T&A
+- The Fourth Act
 ---
 
 *(Image: T&A)*

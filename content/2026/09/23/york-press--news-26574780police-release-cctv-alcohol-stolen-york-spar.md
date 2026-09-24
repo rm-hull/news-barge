@@ -12,6 +12,16 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21491333.jpg?type=og-image
+locations:
+- Brockfield Park Drive
+- Huntington
+- Spar
+- York
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -14,6 +14,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Ireland
+- Leeds
+- UK
+people:
+- Elizabeth George
+- Gender
+- Simon Wolfson
+organisations:
+- Leigh Day
+- Next
 ---
 
 The UK retailer Next has overturned a 2024 court ruling forcing it to pay its shop staff the same higher basic pay rates as its warehouse workers under equal pay rules.

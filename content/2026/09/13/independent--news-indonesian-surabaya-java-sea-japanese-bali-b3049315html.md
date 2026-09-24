@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bali
+- Banjarmasin
+- Borneo Island
+- East Java
+- Indonesia
+- Jakarta
+- Java Sea
+- Philippines
+- Pontianak
+- South Kalimantan
+- Surabaya
+- Trisakti
+people:
+- Andi Jatmiko
+- Edna Tarigan
+- Fadlan Syam
+- I Putu Sudayana
+organisations:
+- Associated Press
+- Banjarmasin Search and Rescue Office
+- Virgo Transport 8
+- ___ Karmini
 ---
 
 Indonesian rescuers say about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday. At least 107 people were rescued and the bodies of six passengers were recovered as the search operation expanded in waters around the vessel’s last known position.

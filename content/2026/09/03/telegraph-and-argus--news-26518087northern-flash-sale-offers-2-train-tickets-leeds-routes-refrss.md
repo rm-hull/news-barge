@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bradford
+- Ilkley
+- Leeds
+- North of England
+- Northern
+- Skipton
+- UK
+people: []
+organisations:
+- Leeds
+- Northern
+- Settle & Carlisle
 ---
 
 *(Image: Northern)*

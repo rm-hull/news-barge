@@ -15,6 +15,10 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Kyiv
+people: []
+organisations: []
 ---
 
 Round-the-clock Russian attacks disrupt daily life and exhaust Kyiv residents, in photos

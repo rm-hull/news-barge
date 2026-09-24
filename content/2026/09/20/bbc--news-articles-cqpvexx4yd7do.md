@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - Books & Literature
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fff/live/15dc8ad0-b47e-11f1-bc1f-3f186ca4140c.png
+locations:
+- Brussels
+- Buckingham Palace
+- Europe
+- Germany
+- Great Britain
+- Princess of Wales
+- UK
+people:
+- '!["Careless'
+- '!["Wayne'
+- Andrew Mountbatten-Windsor
+- Andy Burnham
+- Charles III
+- Christian Brueckner
+- Diana
+- Earl Spencer
+- Jeffrey Epstein
+- Kemi Badenoch
+- King
+- Maddie
+- Madeline McCann
+- Neil "Razor" Ruddock
+- Nkechi Simms
+- Vijay Rangarajan
+- Vladimir Putin
+- Wayne Rooney
+organisations:
+- Ben Kinsella Trust
+- Daily Mail
+- Daily Star
+- EU
+- Electoral Commission
+- Observer
+- Reform UK
+- Royal Family
+- Sun
+- Sunday Express
+- Sunday Telegraph
+- Sunday Times.
+- The Independent
+- The Sunday Express
+- The Sunday Telegraph
+- The Sunday Times
+- UK Border Force
+- YouGov
 ---
 
 !["It's not every day you get gaslit by the King" reads the headline on the front page of the Mail on Sunday.](https://ichef.bbci.co.uk/ace/standard/595/cpsprodpb/c171/live/87199900-b46e-11f1-a430-4d16ee157c41.jpg)

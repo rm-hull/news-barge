@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Beverley
+- East Yorkshire
+- Fossgate
+- Grade II
+- Nat West
+- UK
+- YOUR
+people: []
+organisations:
+- Cosy Club York
+- East Riding of Yorkshire Council
+- Loungers UK
+- Loungers UK Limited
+- Public Notice Portal
+- The Cosy Clubs
+- The Lounge
+- The Lounges
+- Vallado Lounge
+- Vangarde Leisure Park York
 ---
 
 *(Image: East Riding of Yorkshire Council planning)*

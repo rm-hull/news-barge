@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Caracas
+- Gulf
+- Houston
+- Iran
+- Middle East
+- Orinoco River Belt
+- South America
+- US
+- US-Venezuela
+- United States
+- Venezuela
+- Washington
+- Western Hemisphere
+- White House
+people:
+- Delcy Rodriguez
+- Delcy Rodríguez
+- Donald Trump
+- Doug Burgum
+- Elliott Abrams
+- Hugo Chávez
+- Luis Pacheco
+- Marco Rubio
+- María Corina Machado
+- Nabep
+- Nicolás Maduro
+- Rafael Ramírez
+- Ricardo Hausmann
+organisations:
+- BBC Mundo
+- Baker Institute
+- Chevron
+- ExxonMobil
+- Fox Business
+- Nabep
+- North American Blue Energy Partners
+- PDVSA
+- PSUV
+- Rice University
 ---
 
 ![Collage image of President Donald Trump wit blue suit and light blue tie, and Venezuela vice president Delcy Rodriguez](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ec4/live/35678a40-ea1b-11f0-a258-11bf68011d10.jpg)

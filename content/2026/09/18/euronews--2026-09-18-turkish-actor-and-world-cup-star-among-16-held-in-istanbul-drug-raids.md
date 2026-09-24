@@ -14,6 +14,36 @@ categories:
 - Europe
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Bakırköy
+- Istanbul
+people:
+- Afra Saraçoğlu
+- Aleyna Tilki
+- Anıl Durmuş
+- Aras Bulut İynemli
+- Aydan Osmanlı
+- Danla Bilic
+- Fatih Aksoy
+- Hande Demir
+- Hasan Şaş
+- Mabel Matiz
+- Melis Sezen
+- Melisa Şenolsun
+- Mirgün Cabas
+- Nilperi Şahinkaya
+- Onur Tuna
+- Sefo
+- Serenay Sarıkaya
+- Sıla Gençoğlu
+- Yağız Sabuncuoğlu
+- Yeliz Yeşilçimen
+- YouTuber Melis İşiten
+- İlyas Yalçıntaş
+- İrem Sak
+organisations:
+- Galatasaray
+- Netflix Turkey
 ---
 
 ## Istanbul police detained Galatasaray veteran Hasan Şaş and Netflix actor Aras Bulut İynemli alongside a rapper, a sports journalist and influencers in the fourth such celebrity drug operation since late 2025. Prosecutors said the investigation covers use, facilitation and supply of narcotics.

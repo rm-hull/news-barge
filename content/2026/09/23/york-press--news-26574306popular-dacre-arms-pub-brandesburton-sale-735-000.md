@@ -11,6 +11,24 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21490696.jpg?type=og-image
+locations:
+- Brandesburton
+- Dacre Arms
+- Driffield
+- East Yorkshire
+- North Yorkshire
+- Sam Smiths Brewery
+- Sandsend
+people: []
+organisations:
+- A165
+- Barry Crux & Co
+- Barry Crux and Co
+- Dacre Arms
+- Google Reviews
+- Sleights
+- The Dacre Arms
+- Tripadvisor
 ---
 
 ## Popular East Yorkshire village pub on the market for £735,000 freehold

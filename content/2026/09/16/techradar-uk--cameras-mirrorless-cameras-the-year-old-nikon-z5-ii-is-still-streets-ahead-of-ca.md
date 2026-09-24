@@ -11,6 +11,26 @@ description: We pit the Canon EOS R8 Mark II against the Nikon Z5 II across seve
 image: https://cdn.mos.cms.futurecdn.net/k57mK8vararxChXbsoGar4-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Kenya
+- Nairobi
+- UK
+- US
+people:
+- Canon EOS
+- Tim
+- Timothy Coleman
+organisations:
+- 10EV
+- Amateur Photographer
+- Canon EOS
+- Google News
+- Nikon
+- Nikon's
+- TechRadar
+- USB-C
+- Z5 II
 ---
 
 ![Canon EOS R8 Mark II (left) Nikon Z5 II (right)](https://cdn.mos.cms.futurecdn.net/k57mK8vararxChXbsoGar4.jpg) 

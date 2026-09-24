@@ -11,6 +11,19 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/01/88/1200x675_cmsv2_ced7e102-5411-5e29-95bd-6bbeddb9b3a1-9920188.jpg
+locations:
+- Caribbean Sea
+- Central and South America
+- Pacific
+- US
+- Western Hemisphere
+people:
+- Donald Trump
+organisations:
+- Joint Task Force Western Hemisphere
+- SOUTHCOM
+- Shield of the Americas
+- US Southern Command
 ---
 
 ## The US has moved to clamp down on drug-smuggling routes under US President Donald Trump, who has pledged to "wage war" against drug cartels.

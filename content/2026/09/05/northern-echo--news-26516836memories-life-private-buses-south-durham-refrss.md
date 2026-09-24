@@ -13,6 +13,110 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arthur Street
+- Barnard Castle
+- Barney
+- Belah
+- Bishop Auckland
+- Bishop Auckland station
+- Bondgate
+- Brighton
+- Bristol
+- British Rail
+- Darlington
+- Deepdale
+- Durham
+- Frosterley
+- Galgate
+- High Etherley
+- Horn Hall
+- Kartoon Cafe
+- Kent
+- Lakes
+- Maidstone
+- Middlesbrough
+- Newton Cap
+- Pennines
+- Redmires Quarry
+- Richmond
+- Scarborough
+- Scottish Borders
+- Shrewsbury
+- Skygarth
+- Stainmore
+- Stanhope
+- Station House
+- Station Road
+- Stephensons'
+- Stephensons’
+- Sunderland
+- Temple Sowerby
+- United
+- Whitby Way
+- Whorlton
+- Witton Park
+- Wolsingham
+people:
+- Albert Hull
+- Arthur Sianti
+- Barney
+- Billy Robinson
+- Bishop
+- Burrell
+- CAROL VIVIAN’S
+- Carol Vivian
+- Dale Daniel
+- Dobson Baldwin
+- Ernie Brown
+- Foden
+- Geoff Webb
+- Heather Bell
+- John Askwith
+- Maude
+- Mum
+- Percival
+- Richard Beeching
+- Rick Peart
+- SARAH NAVIN
+- Sarah Navin
+- Stephensons
+- Thomas Wren Barlow
+- Tony Hull
+- Whessoe
+organisations:
+- AEC
+- Bede College
+- British Grenadiers
+- Carlisle
+- DDS
+- Darlington FC
+- Durham District Services
+- GNE
+- JW Armstrong Trust
+- Keswick
+- LKT991
+- LNER
+- London & North Eastern Railway
+- London Transport
+- Maidstone & District Motor Services
+- Northern General
+- OK
+- OMO
+- One Man Operated
+- PETER HOLMES
+- PSV
+- Plaxtons
+- RT
+- Sentinel Waggon Works
+- Sentinels
+- Silver Jubilee
+- Stephensons’
+- The Northern Echo
+- Three Horse Shoes
+- Tow Law
+- United
+- Weardale Motor Services
 ---
 
 CAROL VIVIAN’S father, Rick Peart, was a United driver who featured in the Echo in the 1970s when he and his conductor, Arthur Sianti, gained a reputation as a vaudeville double act on the buses.

@@ -16,6 +16,28 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- America
+- Bradford
+- Cotswolds
+- Huddersfield
+- New Jersey
+- Skelmanthorpe
+- West Yorkshire
+people:
+- Bruce Kenneth
+- 'Bruce Kenneth ##'
+- Matt Tiller
+- Osbourne
+- Sarah Moore
+- Tony Johnson
+- Tony Johnson.
+organisations:
+- BBC
+- CNC
+- EJ
+- Friel Kean Films
+- Hyll Hotel
 ---
 
 # "I was born with one hand but it has never stopped me following my dreams," TV furniture maker Bruce Kenneth

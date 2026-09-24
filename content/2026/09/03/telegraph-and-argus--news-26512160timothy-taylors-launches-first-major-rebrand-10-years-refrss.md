@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Keighley
+- UK
+people:
+- Andrew Carter
+- TIMOTHY Taylor
+- Timothy Taylor
+organisations:
+- Landlord
+- Timothy Taylor
 ---
 
 *(Image: Timothy Taylor's)*

@@ -13,6 +13,16 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/18/21/2290411051..?trim=68,0,68,0&width=1200&height=800&crop=1200:800
+locations:
+- Ocean Beach
+- Pacific Grove
+- San Francisco
+people:
+- Sue Pemberton
+organisations:
+- ABC
+- California Academy of Sciences
+- Marine Mammal Stranding Network
 ---
 
 Police are investigating after a sea lion was found beheaded on San Francisco’s Ocean Beach, according to local reports.

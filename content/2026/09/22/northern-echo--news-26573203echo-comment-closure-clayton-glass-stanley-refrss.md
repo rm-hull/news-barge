@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21477422.jpg?type=og-image&xType=0&yType=170
+locations:
+- Clayton Glass
+- France
+- Iran
+- Ireland
+- NORTHERN ECHO
+- Russia
+- Scotland
+- Stanley
+- Ukraine
+people:
+- Clayton Glass
+- Donald Trump
+- James Lumb
+- SARAH CALDECOTT
+organisations:
+- Clayton Glass
 ---
 
 *(Image: SARAH CALDECOTT/NORTHERN ECHO)*

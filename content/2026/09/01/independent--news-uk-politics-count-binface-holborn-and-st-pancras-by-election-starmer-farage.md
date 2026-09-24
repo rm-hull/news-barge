@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Clacton
+- Clacton-on-Sea
+- Downing Street
+- Holborn
+- London
+- Makerfield
+- St Pancras
+- Washington DC
+people:
+- Andy Burnham
+- Count Binface
+- Holborn
+- John Healey
+- Jon Harvey
+- Keir Starmer
+- Kevin Hollinrake
+- Nigel Farage
+- Zack Polanski
+organisations:
+- '![Starmer'
+- Camden New Journal
+- Conservative Party
+- Green Party
+- House of Commons
+- London Assembly
+- Reform UK
+- Sky News
+- Tories
 ---
 
 Count Binface has hinted he could run in a by-election in Holborn and St Pancras after Sir Keir Starmer announced he will step down as MP.

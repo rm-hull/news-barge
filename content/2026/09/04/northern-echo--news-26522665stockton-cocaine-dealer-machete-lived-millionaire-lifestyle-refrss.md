@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Cleveland
+- Stockton
+- Swinton Road
+people:
+- Andrew Savage
+- Aycliffe
+- DC Maloney
+- Gary Wood
+- Machete
+- Man
+- Marco Giuliani
+- Shaun Dryden
+organisations:
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 A drug dealer who lived the millionaire lifestyle has been locked up after one of his drug runners was arrested by police.

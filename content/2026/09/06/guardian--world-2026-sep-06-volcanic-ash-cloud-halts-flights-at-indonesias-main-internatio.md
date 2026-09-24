@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anak Krakatau
+- Bali
+- Banten
+- Doha
+- Indonesia
+- Jakarta
+- Java
+- Kuala Lumpur
+- Mount Krakatau
+- Singapore
+- Soekarno-Hatta
+- Sumatra
+- Sydney
+people:
+- Anak Krakatau
+- Lt Gen Suharyanto
+organisations:
+- Agence France-Presse
+- Angkasa Pura
+- BMKG
+- BNPB
+- Kompas
+- Qantas
+- Singapore Airlines
 ---
 
 Indonesia halted operations at eight airports on Sunday, including from its main international hub, affecting hundreds of flights as a result of an ash cloud from the Anak Krakatau volcano.

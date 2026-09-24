@@ -14,6 +14,56 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Australia
+- Caribbean Sea
+- Dallas
+- Ecuador
+- Hawaii
+- India
+- Iran
+- Kauai
+- Los Tiguerones
+- New York.
+- North Korea
+- Philippines
+- Quito
+- Quito.
+- Scotland
+- South Sumatra.
+- US
+- Washington
+people:
+- Anita Chaudhuri
+- Bernie Sanders
+- Chris Stein
+- Corey Kinnan
+- Donald Trump
+- Instagram
+- Jacob Coxon
+- Jason Burke
+- John Ternus
+- Ken Martin
+- Lowell
+- Marco Rubio
+- Michael Cohen
+- Stormy Daniels
+- Ted Cruz
+- Tim Cook
+organisations:
+- Anthropic
+- Apple
+- Congress
+- Democratic National Committee
+- Empire State Building
+- House
+- OpenAI
+- Senate
+- State of the Humanitarian System
+- Trump
+- UN
+- US Southern Command
+- World Trade Center
 ---
 
 Good morning. Donald Trump has pledged to pay every adult citizen in the US $5,000 if Republicans retain the House and Senate in the midterm elections. The outlandish proposal, which would cost over $1tn, immediately raised ethical concerns.

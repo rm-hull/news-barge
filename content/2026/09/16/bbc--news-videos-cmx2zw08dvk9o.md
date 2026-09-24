@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- US
+people:
+- Samira Hussain
+organisations:
+- BBC
+- Federal Reserve
 ---
 
 # Watch: Why has the Federal Reserve raised interest rates?

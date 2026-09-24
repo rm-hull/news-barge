@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Careers & Productivity
+locations:
+- Bangladesh
+- Bradford
+- Thornbury
+people:
+- Ali Md
+organisations:
+- LA Rickshaw
 ---
 
 *(Image: T&A)*

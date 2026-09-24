@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Birmingham
+- Great Britain
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Dan Jukes
+- James Orr
+- Keir Starmer
+- Mr Farage
+- Nigel Farage
+- Rupert Lowe
+- Stefan Rousseau
+organisations:
+- Bill
+- Channel 4and
+- Government
+- House of Lords
+- Labour
+- Lib Dems
+- Metropolitan Police
+- Reform UK
+- Spotlight on Corruption
+- Verbatim
+- YouGov
 ---
 
 Nigel Farage‘s popularity has reached a record low, a new poll has shown, weeks after Reform’s annual party conference was overshadowed by allegations surrounding donations to the party.

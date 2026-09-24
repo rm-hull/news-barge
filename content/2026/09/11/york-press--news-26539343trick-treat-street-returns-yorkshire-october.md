@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Castle Farm
+- North Cave
+- Treat Street
+- Trick
+- William’s Den
+- Yorkshire
+people:
+- Tor Carver
+- William’s Den
+organisations: []
 ---
 
 ## Halloween adventure returns to William's Den near North Cave this autumn

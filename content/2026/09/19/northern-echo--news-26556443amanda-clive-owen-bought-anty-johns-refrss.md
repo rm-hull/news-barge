@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21464333.jpg?type=og-image&xType=0&yType=36
+locations:
+- Britain
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Swaledale
+- Yorkshire Dales
+- Yorkshire Dales’
+people:
+- Amanda Owen
+- Annas
+- Anty John
+- Anty John’s
+- Clementine
+- Clive Owen
+- Clive Who
+- Edith
+- Miles
+- Nancy
+- Owens
+- Raven
+- Ravenseat
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Channel 4
+- More4
+- Ravenseat
 ---
 
 *(Image: CHANNEL 4)*

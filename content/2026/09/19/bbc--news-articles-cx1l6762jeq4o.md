@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6132/live/ba962470-b355-11f1-bc1f-3f186ca4140c.png
+locations:
+- Asmara
+- Ela-Ero
+- Eritrea
+- Ethiopia
+- Karshelli
+- Netherlands
+- UK
+- US
+people:
+- Abba
+- Aster Fissehatsion
+- Aster Yohannes
+- Bill Clinton
+- Dolly Parton
+- Hanna Petros Solomon
+- Hillary Unbeknown
+- Ibrahim Sherifo
+- Isaias Afewerki
+- Mahmoud Ahmed Sherifo
+- Petros Solomon
+- Whitney Houston
+organisations:
+- Asmara International Airport
+- BBC News Africa
+- EPLF
+- Eritrean People's Liberation Front
+- G-15
+- PFDJ
+- People's Front for Democracy and Justice
+- UN
 ---
 
 ![Aster Yohannes and Petros Solomon smiling and dressed in white](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6132/live/ba962470-b355-11f1-bc1f-3f186ca4140c.png)

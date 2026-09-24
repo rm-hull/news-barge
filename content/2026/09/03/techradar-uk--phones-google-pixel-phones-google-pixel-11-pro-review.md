@@ -10,6 +10,37 @@ description: The Google Pixel 11 Pro brings small tweaks, familiar tricks, and a
 image: https://cdn.mos.cms.futurecdn.net/SJoPECM63zxmdnDeYQrpX4-1442-80.jpg
 categories:
 - Technology & Software
+locations:
+- Canyon
+- Colorado
+- Fog
+- USB-C
+people:
+- HiLight
+- Jason Cipriani
+- Rambler
+- Reddit
+organisations:
+- 11 Pro
+- AI
+- Apple
+- CNET
+- CNN Underscored
+- Canyon
+- Gemini
+- Google Clips
+- HiLight Studio
+- IGN
+- Olive
+- Pixel 11 Pro
+- Pixels
+- Proactive Assistance
+- Razr
+- Samsung Galaxy
+- TechRadar
+- Tom’s Guide
+- XL
+- ZDNet
 ---
 
 ### TechRadar Verdict

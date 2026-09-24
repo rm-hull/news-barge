@@ -12,6 +12,82 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/ad30cd9a9ac468c51c219489a1111e07e818a37d/165_10_799_639/master/799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c9e2339d7e13b1eb5d526730fe259bae
+locations:
+- Antarctica
+- Canberra
+- City of Joondalup
+- Devonport
+- Gaza
+- Hillcrest
+- Iluka
+- Israel
+- Kangaroo Island
+- Marmion
+- North Page Island
+- Perth
+- Queensland
+- Sorrento
+- South America
+- South Australia
+- South Page Island
+- State of Palestine
+- Tasmania
+- WA
+people:
+- Achol Arok
+- Andrew Messenger
+- Anthony Heraghty
+- Asic
+- Darren England
+- David Abuoi
+- David Crisafulli
+- Elizabeth Herfort
+- Ethan James
+- Hilary Wardaugh
+- Ivan Milat
+- Jack Gough
+- Jackie Jarvis
+- Jim Chalmers
+- Keren Rowland
+- Maree Norton
+- Marisa Paterson
+- Megan Louise Mulquiney
+- Penny Wong
+- Rosemary Gamble
+- Sarah Court
+- Tom McIlroy
+- Tony Burke
+- Troy Hugh Forsyth
+- Varsen Aghabekian
+organisations:
+- AAP Chalmers
+- AAP Flowers
+- ACT
+- AI
+- ANU
+- Asic
+- BCF
+- Bureau of Meteorology
+- Department of Primary Industries
+- Gamble
+- Hamas
+- IGR
+- Labor
+- Liberals
+- Macpac The Australian Securities and Investments Commission
+- One Nation
+- PA
+- Palestinian Authority
+- Parks SA
+- Rebel
+- Species Council
+- Super Retail Group
+- Super Retal Group
+- Supercheap Auto
+- Taz-Zorb
+- The Sydney Morning Herald
+- The WA
+- Treasury
 ---
 
 Australia news live: ACT offers $500,000 reward for unsolved murders including possible Ivan Milat victim; Crisafulli says plans to reduce visas are ‘nuts’

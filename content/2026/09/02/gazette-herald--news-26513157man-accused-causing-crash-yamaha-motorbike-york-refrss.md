@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Burdyke Avenue
+- Clifton
+- Gipton Square
+- Leeds
+- York
+people:
+- Kaylon Bruce
+organisations:
+- Yamaha MT
+- York Crown Court
 ---
 
 *(Image: Supplied)*

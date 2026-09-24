@@ -13,6 +13,21 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21061679.jpg?type=og-image&yType=102
+locations:
+- Afghanistan
+- North Yorkshire
+- UK
+people: []
+organisations:
+- Afghan Resettlement Programme
+- Corporate and Partnerships Overview and Scrutiny Committee
+- Home Office
+- Ministry of Defence
+- MoD
+- North Yorkshire Council
+- Refugee Council
+- UK Resettlement Scheme
+- UKRS
 ---
 
 *(Image: PA)*

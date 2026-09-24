@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations: []
+people:
+- Joana Sadovskaja
+- Joanna
+- Nicholas Auckland
+organisations:
+- Lovesofas
+- Trade Radiators
 ---
 
 *(Image: Getty Images)*

@@ -14,6 +14,11 @@ categories:
 - Technology & Software
 - Science
 image: https://images.euronews.com/articles/stories/09/88/22/42/1200x675_cmsv2_5c34eef8-d1f0-5fb9-ab1b-84241115a50f-9882242.jpg
+locations:
+- Qatar
+people:
+- Mowasalat
+organisations: []
 ---
 
 **Euronews**

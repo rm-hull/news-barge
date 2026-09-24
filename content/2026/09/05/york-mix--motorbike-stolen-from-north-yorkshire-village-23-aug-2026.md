@@ -12,6 +12,14 @@ categories:
 - York
 - Automotive
 - Travel
+locations:
+- Cowstail Lane
+- Tockwith
+- York
+people: []
+organisations:
+- '#### Cowstail Lane'
+- North Yorkshire Police
 ---
 
 Police investigating a theft have issued this image.

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Ireland
+people:
+- Graham Doyle
+organisations:
+- DPC
+- Data Protection Commission
+- HSE
+- Health Service Executive
 ---
 
 Ireland's health service operator has been fined €645,000 by the country's data regulator after medical records were found in "profound disarray" in areas including a turf shed and a disused bathroom that, in some cases, were contaminated by animal droppings.

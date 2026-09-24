@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21477005.jpg?type=og-image
+locations:
+- North East
+people:
+- Amanda Owen
+- Miles
+- Reuben
+organisations:
+- BBC
+- Disney+
+- Netflix
+- Pension Credit
+- TV Licensing
 ---
 
 As the price of a TV licence is rising each year, many people are opting not to have one.

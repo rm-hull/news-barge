@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Nàdarra Spa
+- Skipton
+- UK
+- Yorkshire Dales
+people:
+- Yasmin
+organisations:
+- Blossom Kitchen
+- Coniston Hotel
+- Nàdarra Spa
+- Spaseekers.com
+- Tripadvisor
+- Yorkshire Dales
 ---
 
 *(Image: Tripadvisor)*

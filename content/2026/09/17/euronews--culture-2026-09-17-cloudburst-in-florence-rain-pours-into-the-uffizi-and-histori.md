@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Florence
+- Florence**
+- Italy.
+- Palazzo Pitti
+- Palazzo Pitti**
+- Uffizi Gallery
+people:
+- Caravaggio
+- Maffeo Barberini
+- Silvia Barlacchi
+organisations:
+- Cisl
+- Corriere della Sera
+- Modern Art Gallery
+- Uffizi Gallery
 ---
 
 ## At the Uffizi Gallery, water leaked under the skylight of a room holding seven 17th-century paintings including Caravaggio's Bacchus. Rain entered Palazzo Pitti, closing rooms in the Modern Art Gallery.

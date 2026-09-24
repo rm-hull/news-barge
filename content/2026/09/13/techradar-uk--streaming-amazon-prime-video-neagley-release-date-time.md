@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/T9Z5qTgpJe2uoUXGfgzugG-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- Chicago
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- George Cooper Sr.
+- Maria Sten
+- Neagley
+- Reacher
+organisations:
+- Amazon TV Originals
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Neagley talks on the phone while looking up at something](https://cdn.mos.cms.futurecdn.net/T9Z5qTgpJe2uoUXGfgzugG.jpg) 

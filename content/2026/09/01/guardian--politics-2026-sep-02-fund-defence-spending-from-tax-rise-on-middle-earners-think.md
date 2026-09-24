@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Downing Street
+- UK
+people:
+- Andy Burnham
+- James Smith
+- John Healey
+- Keir Starmer
+- Rachel Reeves
+organisations:
+- G7
+- Labour
+- OECD
+- Organisation for Economic Cooperation and Development
+- Resolution Foundation
+- Starmer
 ---
 
 The chancellor, John Healey, must be prepared to raise taxes for middle earners if he wants to fund significantly higher defence spending, the Resolution Foundation thinktank has said.

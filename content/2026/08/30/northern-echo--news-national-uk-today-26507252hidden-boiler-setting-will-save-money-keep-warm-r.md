@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Heatable
+people:
+- Patrick Garner
+organisations:
+- Gas Safe
 ---
 
 *(Image: Getty Images)*

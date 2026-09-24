@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Keighley
+- Leeds General Infirmary
+- Sand Street
+people:
+- Pedestrian
+organisations:
+- West Yorkshire Police
 ---
 
 # Pedestrian, 68, left fighting for his life after crash as driver arrested

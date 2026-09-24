@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/MYTYuWEYLXanF2R8rtssWV-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Singapore
+people:
+- Owain Williams
+- Stan Marchand
+organisations:
+- AI
+- BA
+- CRM
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain Williams
+- Rocapine
+- TechRadar Pro
+- Vibe
+- Website Builder Expert
 ---
 
 ![headshot of Rocapine CEO/Founder, Stan Marchand on a purple background](https://cdn.mos.cms.futurecdn.net/MYTYuWEYLXanF2R8rtssWV.jpg) 

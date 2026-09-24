@@ -11,6 +11,107 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Britain
+- Canada
+- Caribbean
+- England
+- Evian-les-Bains
+- France
+- Hormuz
+- Iran
+- Israel
+- LA
+- Lake America
+- Lake Ontario
+- Long Island
+- Los Angeles
+- Mid-Hudson
+- Middle East
+- Minnesota
+- New York
+- New York City
+- Pacific
+- Patagonia
+- Quitobaquito Springs
+- Reagan Airport
+- Republic
+- Tohono O’odham Nation
+- UK
+- US
+- US-Canada
+- United States
+- Utah
+people:
+- Adam Smith
+- Bennie G Thompson
+- Benny Johnson
+- Deborah Boardman
+- DemocratAdelita Grijalva
+- Donald Trump
+- Framers
+- Gregory W Meeks
+- Harry
+- Ilhan Omar
+- JD Vance
+- Jackson Tammariello
+- James Comer
+- Jamie Raskin
+- Jim Himes
+- Joe Biden
+- Karen Bass
+- Karen Bass Nithya Raman
+- Kathy Hochul
+- King Charles
+- Mark Carney
+- Markwayne Mullin
+- Meghan Markle
+- Mike Marinella
+- Nithya Raman
+- Pete Hegseth
+- Prince Charles
+- Richard Blumenthal
+- Ryan Gellert
+- Spencer Pratt
+organisations:
+- Apple Maps
+- Bears Ears
+- C101
+- Coast Guard
+- Congress
+- Constitution
+- DCA
+- DSA LA
+- Democratic Socialists of America
+- Department of Homeland Security
+- Duchess of Sussex
+- FEMA
+- G7
+- GOP
+- Google Maps
+- Guardian
+- Lake Ontario
+- Los Angeles Times
+- MAGA Supreme Court
+- National Republican Congressional Committee
+- Patagonia
+- Pentagon
+- Reuters
+- Shutterstock
+- Supreme Court
+- The White House
+- TheDMVLive
+- Tohono O’odham Nation
+- Trump Administration
+- UN
+- US Department of Justice
+- US Postal Service
+- US Supreme Court
+- USPS
+- United States Coast Guard
+- Western State Carpenters
+- ZUMA Press Wire
 ---
 
 Donald Trump speaks with Mark Carney at a working lunch with leaders of G7 and the Middle East on 16 June 2026 in Evian-les-Bains, France. Photograph: Getty Images

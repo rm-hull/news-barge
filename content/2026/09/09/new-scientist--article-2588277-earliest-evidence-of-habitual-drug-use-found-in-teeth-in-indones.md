@@ -12,6 +12,19 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311297665.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Asia
+- Australia
+- Brisbane
+- Indonesia
+- Israel
+- Maros-Pangkep
+- Peru
+- Sulawesi
+people:
+- Adam Brumm
+organisations:
+- Griffith University
 ---
 
 ![Skull of an early hunter-gatherer from Sulawesi, an island in Indonesia, with extreme dental wear, probably caused by betel nut-sucking](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311297665.jpg?w=840)

@@ -12,6 +12,12 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Leyburn
+- Yorkshire Dales
+people:
+- ANDY FUTERS
+organisations: []
 ---
 
 *(Image: ANDY FUTERS)*

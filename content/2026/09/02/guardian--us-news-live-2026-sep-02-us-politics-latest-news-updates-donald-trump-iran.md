@@ -12,6 +12,74 @@ image: https://i.guim.co.uk/img/media/ccb0588a9147125b34c2a8c0dd822f297b6072e4/3
 categories:
 - UK
 - News & Politics
+locations:
+- Abraham Lincoln
+- Afghanistan
+- America
+- Bahrain
+- Hormuz
+- Iran
+- Iraq
+- Jordan
+- Kurdistan
+- Kuwait
+- Massachusetts
+- Middle East
+- New Hampshire
+- New York
+- Teamsters’
+- Texas
+- UAE
+- US House
+people:
+- Ayanna Pressley
+- Biden
+- Chris Pappas
+- Chuck Edwards
+- Darren Soto
+- Don Davis
+- Donald Trump
+- Ed Markey
+- Gabe Vasquez
+- Gluesenkamp Perez
+- Hakeem Jeffries
+- Harris
+- Henry Cuellar
+- Hung Cao
+- Jared Golden
+- John Palmer
+- John Phelan
+- Katherine Clark
+- Kathy Castor
+- Kathy Hochul
+- Marie Gluesenkamp Perez
+- Michael Sainato
+- Pete Aguilar
+- Scott Brown
+- Sean O’Brien
+- Sen Ed Markey
+- Seth Moulton
+- Vicente Gonzalez Jr
+organisations:
+- ASAP
+- Committee on Caucus Rules
+- Commonwealth
+- Congress
+- Democratic Socialists of America
+- Department of Homeland Security
+- House Democratic Caucus
+- LGBTQ
+- Marine Corps
+- Navy
+- Our Revolution
+- O’Brien’s
+- RNC
+- Revolutionary Guards
+- Seal
+- Teamsters
+- Trump
+- US House of Representative
+- US Senate
 ---
 
 Trump nominates loyalist Hung Cao to be permanent navy secretary amid increased attacks on Iran

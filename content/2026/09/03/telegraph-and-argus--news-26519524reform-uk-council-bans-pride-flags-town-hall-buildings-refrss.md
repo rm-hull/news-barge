@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Kirklees
+- Palestine
+- Reform UK
+- Ukraine
+people:
+- Andrew Cooper
+- Cllr Cooper
+- Cllr Sarah Wood
+- Cllr Wood
+- Sarah Wood
+organisations:
+- COUNCIL
+- Civic Flag
+- Council’s
+- Flag of St George
+- Green Party
+- Kirklees Council
+- Pride
+- Reform UK
+- Union Flag
 ---
 
 A COUNCIL opposition leader has bit back at Reform UK’s policy of banning Pride flags on town hall buildings.

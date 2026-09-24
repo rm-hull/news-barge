@@ -11,6 +11,33 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/9ZzpzkMqppsvbVMaZSHmmU-450-80.jpg
+locations:
+- Antarctica
+- Ben Stockton
+- Brandon Hill
+- Perth
+- U.S.
+- US
+people: []
+organisations:
+- Brandon Hill
+- Brandon Hill Published
+- CashBy Aaron Klotz Published
+- DealsGrab
+- Drake Passage
+- FCC
+- Jowi Morales
+- Jowi Morales Published
+- Luke James Published
+- Murex Robotics
+- Network SwitchesHigh
+- NetworkingMeta
+- NetworkingNational
+- Starlink
+- TP-Link
+- Wi-Fi RoutersAsus
+- Wi-Fi RoutersElon Musk
+- Wi-Fi RoutersTP-Link
 ---
 
 # Networking

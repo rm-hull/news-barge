@@ -14,6 +14,68 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Afghanistan
+- Armenia
+- Azerbaijan
+- Belarus
+- Bishkek
+- Black Sea
+- Central Asia
+- China
+- Egypt
+- Eurasia
+- Europe
+- India
+- Indian Ocean
+- Iran
+- Israel
+- Kazakhstan
+- Kyrgyzstan
+- Middle East
+- Moscow
+- Pakistan
+- Qatar
+- Russia
+- Saudi Arabia
+- South Caucasus
+- Soviet Union
+- Tajikistan
+- Tashkent
+- Trans-Afghan Corridor
+- Turkey
+- US
+- Ukraine
+- United States
+- Uzbekistan
+- Vietnam
+- West
+- Yerevan
+people:
+- Antonio Guterres
+- Faure Gnassingbe
+- Ilham Aliyev
+- Kassym-Jomart Tokayev
+- Masoud Pezeshkian
+- Narendra Modi
+- Nikol Pashinyan
+- Recep Tayyip Erdoğan
+- Sadyr Japarov
+- Shavkat Mirziyoyev
+- Thongloun Sisoulith
+- Ukhnaagiin Khurelsukh
+- Vladimir Putin
+- Vo Thi Anh Xuan
+- Xi Jinping
+organisations:
+- EU
+- Investment Fund
+- Lao
+- SCO Development Fund
+- Shanghai Cooperation Organisation
+- TRIPP
+- Trump Route for International Peace and Prosperity
+- UN
 ---
 
 ## Heads of 21 global and rising powers gather in Bishkek for the SCO summit as wars strain the global order. China and Russia have previously used the SCO to project their influence and their stand against the West, but the middle powers are now there to seek new economic and political momentum.

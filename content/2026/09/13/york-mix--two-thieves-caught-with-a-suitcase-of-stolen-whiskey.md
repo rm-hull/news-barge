@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Northallerton
+people:
+- Jack Daniels
+organisations:
+- North Yorkshire Police
 ---
 
 Police caught two thieves after they robbed a store of whiskey.

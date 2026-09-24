@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/33/43/1200x675_cmsv2_de1dbdac-ae21-5664-9326-a8140c23e229-9923343.jpg
+locations:
+- Chiba
+- Japan
+- Kanagawa
+- Pacific
+- Tokyo
+people:
+- Dujuan
+organisations: []
 ---
 
 Footage from Japan shows flooded streets and rescue efforts after Typhoon Dujuan brought torrential rain to the Tokyo region, leaving at least four people dead and six missing.

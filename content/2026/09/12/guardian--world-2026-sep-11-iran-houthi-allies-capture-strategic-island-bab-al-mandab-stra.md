@@ -12,6 +12,58 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Abqaiq
+- Asia
+- Bab al-Mandab
+- Bahrain
+- Djibouti
+- East-West
+- Egypt
+- Europe
+- Gulf of Aden
+- Hodeidah
+- Hormuz
+- Iran
+- Iraq
+- Mayun
+- Mocha
+- Oman
+- Pakistan
+- Perim
+- Qatar
+- Red Sea
+- Riyadh
+- Salalah
+- Saudi Arabia
+- Somalia
+- Suez
+- Taiz
+- Tehran
+- Turkey
+- UK
+- US
+- United Arab Emirates
+- Washington
+- Yanbu
+- Yemen
+people:
+- Amr al-Bidh
+- Donald Trump
+- Maj Gen
+- Mocha
+- Rashad al-Alimi
+- Tareq Saleh
+- Tawakkol Karman
+organisations:
+- GCC
+- Gulf Cooperation Council
+- Human Rights Watch
+- National Resistance Forces
+- STC
+- Saudi Press Agency
+- Southern Transitional Council
+- UN
 ---
 
 Yemen’s rampant Houthi forces have captured the strategic island of Perim in the Bab al-Mandab strait, expanding their control of the narrow waterway, one of the world’s vital shipping routes.

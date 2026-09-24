@@ -13,6 +13,20 @@ categories:
 - UK
 - Sports
 - Health & Fitness
+locations:
+- California
+- Lake Shasta
+- Redding
+people:
+- Geordan White
+organisations:
+- Cal Fire
+- Coast Guard
+- KRCR
+- Shasta County Sheriff's Office
+- Shasta County Sheriff’s Office
+- Sheriff’s Office
+- U.S. Forest Service
 ---
 
 A 60-year-old man from Redding, California, died after he leapt into Lake Shasta to try to save a dog that jumped off a moving boat.

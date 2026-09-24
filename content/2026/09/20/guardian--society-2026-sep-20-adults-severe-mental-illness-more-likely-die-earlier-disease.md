@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://i.guim.co.uk/img/media/2f0972bd12e050c8f88b80f35216f75c55d2eb42/623_0_3737_2989/master/3737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=640d5ee6bc0ade04827784a9eedda82c
+locations:
+- England
+people:
+- Mark Winstanley
+- Subodh Dave
+organisations:
+- Department of Health and Social Care
+- NHS
+- Rethink Mental Illness
+- Royal College of Psychiatrists
 ---
 
 Adults with severe mental illness are nearly five times more likely than their peers to die from serious physical diseases before the age of 75, according to research.

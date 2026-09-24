@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Central America
+- Cincinnati
+- Lockland
+- Mauritania
+- Mexico
+- Ohio
+- Pular
+- U.S.
+- United States
+people:
+- Khalidou Sy
+- Samba Diallo
+- Vincent Wilson
+organisations:
+- AP
+- Immigration and Customs Enforcement
+- The Associated Press
 ---
 
 An old building in Lockland, Ohio, bustles every Friday afternoon, the sound of hammering old bicycle tires mixing with laughter and conversation that switches from English to the West African language Pular.

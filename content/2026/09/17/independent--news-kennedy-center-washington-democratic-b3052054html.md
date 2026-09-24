@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kennedy Center
+people:
+- Matt Floca
+organisations:
+- Kennedy Center
 ---
 
 A top official at the Kennedy Center said Thursday that he closed the iconic performing arts center temporarily due to “acute risks to public safety resulting from continued structural deterioration" of the aging building.

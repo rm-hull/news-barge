@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations: []
+people:
+- Luke Hutchinson
+organisations:
+- Altrincham
+- Bolton Wanderers
+- Harrogate Town
+- Tamworth
 ---
 
 ![Bolton goalkeeper Luke Hutchinson warms up before a match](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/227b/live/4d0ff250-aad6-11f1-aa35-df10e5ff32f4.jpg)

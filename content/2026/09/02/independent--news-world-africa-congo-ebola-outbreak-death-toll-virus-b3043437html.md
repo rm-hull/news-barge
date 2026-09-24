@@ -14,6 +14,22 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bundibugyo
+- Congo
+- Ebola
+- Kisangani
+- North Kivu
+- Tshopo
+- West Africa
+people: []
+organisations:
+- Africa Centers for Disease Control and Prevention
+- Ervebo
+- Ministry of Health
+- US Centers for Disease Control
+- WHO
+- World Health Organization
 ---
 
 More than 3,000 people have died in Congo’s Ebola outbreak from over 6,100 confirmed infections, according to fresh government statistics released on Wednesday.

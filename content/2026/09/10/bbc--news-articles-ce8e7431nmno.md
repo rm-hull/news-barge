@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Amanda Doyle
+- Andy Burnham
+- Henry Gregg
+- Rob Music
+organisations:
+- A&E
+- Migraine Trust
+- NHS England
+- National Pharmacy Association
 ---
 
 ![Young woman holds her head as if she has a bad headache while standing in a pharmacy in front of a pharmacist wearing a white coat](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ba4b/live/066b5630-ac68-11f1-80f0-9795d1a5edbc.jpg)

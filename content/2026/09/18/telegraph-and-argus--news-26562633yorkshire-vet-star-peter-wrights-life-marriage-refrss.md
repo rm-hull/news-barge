@@ -14,6 +14,36 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Huddersfield
+- Kirkbymoorside
+- Leeds
+- North Yorkshire
+- Skeldale Veterinary Centre
+- Thirsk
+- West Yorkshire
+people:
+- Alf Wright
+- Andrew
+- David Melleney
+- Emily
+- James Herriot
+- Julian Norton
+- Lin Early
+- Matt Smith
+- Medivet
+- Peter Wright
+- Rohin Aojula
+- Shone Searson
+organisations:
+- All Creatures Great
+- Channel 5
+- Donaldson’s Hospital
+- Grace Lane Vets
+- Small
+- The Express
+- The Yorkshire Vet
+- Yorkshire Vet
 ---
 
 *(Image: YouTube/Channel 5)*

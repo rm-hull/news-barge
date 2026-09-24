@@ -11,6 +11,52 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/13/03/GettyImages-2295969458.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- '## IRAN'
+- Afghanistan
+- China
+- DC
+- Dallas
+- Iran
+- Minnesota
+- National Mall
+- Rose Garden
+- Russia
+- Tehran
+- Turkey
+- U.S.
+- UKRAINE
+- US
+- US-Mexico
+- Ukraine
+- United States of America
+- Washington
+- White House
+- White House Rose Garden
+- White House South Lawn
+people:
+- Barack Obama
+- Charlie Black
+- Donald Trump
+- Ducklo
+- Joe Biden
+- Meghan Hays
+- Melania Trump
+- Olivia Wales
+- Ryan Williams
+- TRUMP
+organisations:
+- Air Force One
+- Biden Administration
+- Congress
+- Justice Department
+- NATO
+- Oval Office
+- Reflecting Pool
+- Reuters
+- T.J
+- Trump
+- Truth Social
 ---
 
 US President Donald Trump has invoked Joe Biden’s name nearly 900 times this year, according to a *Reuters* analysis, keeping his predecessor at the heart of political debate as Republicans fight to maintain their slim majority in Congress ahead of November's midterm elections.

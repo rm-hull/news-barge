@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Hilda Place
+- Saltburn
+- Windsor Road
+people:
+- Amelia Anderson
+organisations:
+- Northern Echo
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

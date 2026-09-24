@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- Manchester
+- North Yorkshire
+- Richmond
+- Richmondshire
+- Ryedale
+- Selby
+people:
+- Richard Foster
+organisations:
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 ![Recycling bins in North Yorkshire, new in 2026. One has a red lid and one has a blue lid. An operator in orange hi vis and black gloves is wheeling one of the bins towards a bush of white flowers next to a red brick wall.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/084f/live/f48b9090-a6d8-11f1-acae-21b536d72e0e.png)

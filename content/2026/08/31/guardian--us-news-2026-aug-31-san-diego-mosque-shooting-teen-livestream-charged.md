@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Christchurch
+- Forsyth
+- Islamic Center
+- New Zealand
+- North Carolina
+- San Diego
+- Winston-Salem
+people:
+- Amin Abdullah
+- Cain Clark
+- Caleb Vazquez
+- Jim O’Neill
+organisations: []
 ---
 
 A 17-year-old North Carolina girl who recorded a livestream of a shooting that killed three people at a San Diego mosque and disseminated the attackers’ white-supremacist writings has been charged with murder by aiding and abetting, a district attorney said on Monday.

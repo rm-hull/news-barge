@@ -13,6 +13,35 @@ image: https://images.euronews.com/articles/stories/09/90/39/49/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- China
+- Iran
+- Iran-South Korea
+- Khasab
+- Middle East
+- Persian Gulf
+- Russia
+- Sea of Oman
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- '** Baghaei'
+- Esmail Baghaei
+- Mohammad Bagher Ghalibaf
+- Mohammadi
+- Mohsen Rezaei
+- Rafael Grossi
+organisations:
+- Board of Governors
+- Foreign Ministry
+- IAEA
+- IRGC Navy
+- International Maritime Organisation
+- Supreme National Security Council
+- UN Security Council
 ---
 
 ## IAEA chief Grossi told the Board of Governors that Tehran had provided no information on declared nuclear materials and inspectors had no on-site access, as Iran's parliament speaker threatened US energy assets with retaliatory strikes and the IRGC warned vessels off the southern Hormuz corridor.

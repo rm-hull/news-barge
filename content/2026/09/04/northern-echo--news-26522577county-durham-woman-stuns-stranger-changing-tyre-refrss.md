@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington Hippodrome Historic Darlington
+- Home Consett
+- Morrisons
+people:
+- Elaine Robertson
+- Kim Hellberg Another
+organisations:
+- Edinburgh Fringe
+- Instagram
+- Middlesbrough
+- Morrisons
 ---
 
 A County Durham woman has clapped back at a man who watched her change a tyre in a supermarket car park.

@@ -14,6 +14,53 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations:
+- Chile
+- Easter Island
+- Gaza
+- Hollywood
+- Hong Kong
+- Korea
+- Missouri
+- Venice
+people:
+- Bucking Fastard
+- Bunker
+- Burning
+- Cho Yeo-jeong
+- Chris Hansen
+- Colin Farrell
+- Daniel Blumberg
+- Frances McDormand
+- Hind Rajab
+- Hirokazu Koreeda
+- Javier Bardem
+- Jeon Do-yeon
+- Jim Jarmusch
+- John Malkovich
+- Johnnie To
+- Joker
+- Kaouther Ben Hania
+- Kate Mara
+- Lee Chang-dong
+- Martin McDonagh
+- May El Toukhy
+- Mother Sister Brother
+- Penélope Cruz
+- Rachel Szor
+- Robert Pattinson
+- Rooney
+- Sam Rockwell
+- Shahrbanoo Sadat
+- Sul Kyung-gu
+- Werner Herzog
+- Xavier Giannoli
+- Yuval Abraham
+- Zo In-sung
+organisations:
+- CIA
+- Golden Lion
+- NAZA
 ---
 
 The 83rd Venice Film Festival ends Saturday with the presentation of jury awards including the Golden Lion for best film.

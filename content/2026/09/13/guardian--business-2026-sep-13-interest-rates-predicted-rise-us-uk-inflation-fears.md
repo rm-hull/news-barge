@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Hormuz
+- Japan
+- Middle East
+- Red Sea
+- Texas
+- Tokyo
+- UK
+- US
+people:
+- Andrew Bailey
+- Christine Lagarde
+- Donald Trump
+- Kevin Warsh
+- Scott Bessent
+- Thomas Pugh
+organisations:
+- Bank of England
+- Bank of Japan
+- BoJ
+- European Central Bank
+- Fed Board
+- Federal Reserve
+- MPC
+- RSM
+- Southern Methodist University
+- Truth Social
+- US Federal Reserve
+- US Treasury
 ---
 
 Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.

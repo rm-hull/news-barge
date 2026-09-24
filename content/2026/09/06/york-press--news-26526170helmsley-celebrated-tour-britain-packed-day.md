@@ -13,6 +13,16 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Britain
+- Helmsley
+- North Yorkshire
+people:
+- Carolyn Frank
+- George Jabbour
+- Helmsley
+organisations:
+- Helmsley Project Representative
 ---
 
 ## 'Helmsley did us proud once again' as Tour of Britain comes to town

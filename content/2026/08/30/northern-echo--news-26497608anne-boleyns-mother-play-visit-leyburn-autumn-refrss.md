@@ -15,6 +15,21 @@ categories:
 - History
 - Arts & Culture
 - Travel
+locations:
+- Darlington
+- Hastings
+- Leyburn Arts Centre
+people:
+- Anne Boleyn
+- Elizabeth Boleyn
+- Heather Leech
+- Henry VIII
+- Keith Leech
+- Mother
+organisations:
+- EastEnders
+- Gleowit Productions
+- Yorkshire Dales
 ---
 
 *(Image: Keith Leech)*

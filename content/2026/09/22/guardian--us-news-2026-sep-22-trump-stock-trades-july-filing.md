@@ -13,6 +13,31 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/9b64630cc98199352666ee89c6872ec50ca1f4da/833_82_2938_2350/master/2938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cd252ea9caef1e2f93668cd4bb27069
+locations:
+- Iran
+- US
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+- JD Vance
+- Natalie Harp
+organisations:
+- Amazon
+- Bloomberg
+- Congress
+- Costco
+- Economist and YouGov
+- Guardian
+- House of Representatives
+- Intuit
+- Microsoft
+- Nvidia
+- Oracle
+- Salesforce
+- Schwab
+- Senate
+- Trump
 ---
 
 Donald Trump made over a thousand stock sales and purchases worth between $79m and $270m in July, according to a Guardian analysis of his latest financial disclosure released Tuesday.

@@ -15,6 +15,19 @@ categories:
 - Automotive
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- UK
+people:
+- Amanda Owen
+- Graham Conway
+- Mike Smith
+- Regis Le Bris
+organisations:
+- Conway
+- Our Yorkshire Farm
+- Platinum Motor Group
+- Select Car Leasing
+- Sunderland
 ---
 
 *(Image: Getty)*

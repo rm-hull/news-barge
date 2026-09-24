@@ -13,6 +13,41 @@ categories:
 - Business & Entrepreneurship
 - Comedy & Entertainment
 image: https://images.euronews.com/articles/stories/09/90/73/53/1200x675_cmsv2_cad937a4-581a-547b-9941-10b038d69885-9907353.jpg
+locations:
+- Europe
+- France
+- Germany
+- Italy
+- Japan
+- Korea
+- Mexico
+- Munich
+- UK
+- US
+- Vietnam
+people:
+- Angela Barnes
+- Ashton Kutcher
+- Cristina Kenz
+- Gareth Wilson
+- Maciej Witucki
+- Mila Kunis
+- Subhra Bhattacharjee
+organisations:
+- Air Up
+- Burger King
+- BusinessEurope
+- Capgemini
+- Danone
+- Euronews Business
+- FSC
+- Forest Stewardship Council
+- IPO
+- Kraft Heinz
+- PepsiCo
+- PepsiCo**
+- The Big Question.
+- Tiktok
 ---
 
 ## ‘We don't see anyone as competitors’: Meet the viral brand who count Ashton Kutcher and PepsiCo among their investors

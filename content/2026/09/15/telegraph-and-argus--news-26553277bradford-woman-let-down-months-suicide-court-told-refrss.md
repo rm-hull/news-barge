@@ -15,6 +15,38 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- Bierley
+- Bradford
+- Catterick Garrison
+- Chichester Harbour
+- Gunner Beck
+- North Yorkshire
+- Royal Artillery
+- Thorney Island
+people:
+- Cpl Tudor
+- Drew Tudor
+- Gunner Beck
+- Gunner Jaysley Beck
+- James Hook
+- Jaysley Beck
+- Mae King
+- Major Hook
+- Major King
+- Michael Webber
+- Paul Patterson
+- Richard Lupton
+- Samantha Shepherd
+organisations:
+- 14 Regiment Royal Artillery
+- CET
+- Corps Engagement Team
+- Lance
+- Major Hook
+- Military Court Centre
+- RMP
+- Royal Military Police
 ---
 
 *(Image: Family handout/PA)*

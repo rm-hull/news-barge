@@ -11,6 +11,33 @@ description: Saber Interactive doubles down on its enthusiasm for AI in game dev
 image: https://cdn.mos.cms.futurecdn.net/MDxBDbHvd76HX3N7sCxQka-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Atlantis
+- Bullfrog
+- Lionhead
+people:
+- Alyx Vance
+- Demis Hassibis
+- Eurogamer
+- Gordon Freeman
+- Grace Ashcroft
+- Lara Croft
+- Lewis Maddison
+- Magnus Carlsen
+- Matthew Karch
+- Saber
+- Stella Sacco
+- Tim Willits
+organisations:
+- AI
+- Carlsen
+- DeepMind
+- Hassibis
+- PR
+- RAM
+- Saber Interactive
+- Sony
+- TechRadar Pro
 ---
 
 ![Triptych of Grace Ashcroft in Resident Evil: Requiem, Gordon Freeman and Alyx Vance in Half-Life 2, and Lara Croft in Tomb Raider: Legacy of Atlantis](https://cdn.mos.cms.futurecdn.net/MDxBDbHvd76HX3N7sCxQka.jpg) 

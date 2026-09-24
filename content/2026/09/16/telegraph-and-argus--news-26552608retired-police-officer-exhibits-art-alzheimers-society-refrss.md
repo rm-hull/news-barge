@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Australia
+- Bradford
+- Queensland
+- Wilsden
+people:
+- David *(Image
+- David Hemsley
+- David’s
+- Dementia
+- Forget Me
+- Judi Dench
+- Thanos Dimou
+organisations:
+- Alzheimer’s Society
+- BA
+- Bradford City Police
+- Bradford College
+- Chapel Grange Special
+- Ling Bob
+- Rhodesway School
+- West Yorkshire Police
 ---
 
 A FORMER police officer who did an art degree after retiring is exhibiting paintings to raise funds for the Alzheimer’s Society.

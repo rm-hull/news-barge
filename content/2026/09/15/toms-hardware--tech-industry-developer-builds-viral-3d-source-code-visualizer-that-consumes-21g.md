@@ -13,6 +13,18 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Jurassic Park
+people:
+- Bruno Ferreira
+- Rik Arends
+- Tom
+organisations:
+- Chromium
+- Google News
+- Makepad
+- PC
+- Tom's Hardware
 ---
 
 ![Rust code](https://cdn.mos.cms.futurecdn.net/6sXhZsyDZFqzFQmRwMjbx.jpg) 

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations: []
+people:
+- Steve Webb
+- Yui Mok
+organisations:
+- Bank of England
+- Government
+- HMRC
+- LCP
+- Office for Budget Responsibility
+- State Pension
+- State Second Pension
 ---
 
 *(Image: Yui Mok)*

@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Heathrow Airport
+- London
+- PA
+- Steve Parsons
+people:
+- Andy Burnham
+- Sarah Dennehy
+- Starmer
+organisations:
+- Government
+- Greens
+- Labour
+- Totnes
+- Yorkshire Post Letters
 ---
 
 # Has Andy Burnham taken leave of his senses over Heathrow Airport expansion? - Yorkshire Post Letters

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Great North Run
+- Newcastle
+- Newton Aycliffe
+- North East
+people:
+- David Stabler
+- Ken Deeks
+- Sunny Smiles
+organisations:
+- Action for Children
+- Great North Run
+- NCH
+- RNLI
+- Sunday School
 ---
 
 *(Image: Supplied)*

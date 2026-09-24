@@ -11,6 +11,48 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/15/download..?trim=280,0,175,0&width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- Baja California
+- Central America
+- Colima
+- El Nino
+- Guerrero
+- Jalisco
+- Lowell
+- Lázaro Cárdenas
+- Manzanillo
+- Mexico
+- Mexico.
+- Miami
+- Michoacan
+- Michoacán
+- Oaxaca
+- Odalys
+- Pacific
+- Pacific) Basin
+- Patricia
+- Polo
+- U.S.
+- Zihuatanejo
+people:
+- Claudia Sheinbaum
+- Concepción López Villegas
+- Genevieve
+- Kristen L. Corbosiero
+- López Villegas
+- Philip Klotzbach
+- Polo
+organisations:
+- Colorado State University
+- Department of Atmospheric Science
+- El Nino
+- NHC
+- National Guard
+- Polo
+- U.S. National Hurricane Center
+- US National Hurricane Center
+- University at Albany’s Department of Atmospheric & Environmental Sciences
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

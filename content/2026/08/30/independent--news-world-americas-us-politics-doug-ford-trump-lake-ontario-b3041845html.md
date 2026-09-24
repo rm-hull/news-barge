@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/08/30/18/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Canadian Province of Ontario
+- Gaza
+- Great Lakes
+- Iran
+- Lake America
+- Lake Ontario
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Jamieson Greer
+- Mark Carney
+- Rob Ford
+- Trey Gowdy
+organisations:
+- ABC
+- Ford
+- Fox News
+- Google Maps
+- HAMES
+- Hamas
 ---
 
 Ontario Premier Doug Ford hit back at Donald Trump again on Sunday but seemed to regret the personal nature of their dispute after the two traded insults over Trump’s attempt to rename Lake Ontario.

@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- A64
+- Bramham Park
+- Wattlesyke
+- York
+people: []
+organisations:
+- A1
+- A1M
+- AA
+- Boston Spa
 ---
 
 There was a crash on the A1M this morning.

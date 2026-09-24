@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/8cdf4473d95ddb0196f5f64f2810b01dc78903c0/717_164_4724_3779/master/4724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09a5fa39b0f5cbfebdbd1584a752a889
+locations: []
+people:
+- Justice Falk
+- Justice Phillips
+- Richard Clayton KC
+- Suleman Patel
+organisations:
+- General Optical Council
+- Legal Futures
 ---
 
 A judge was wrong to hear a case from his bed via video link while recovering from surgery, the court of appeal has said.

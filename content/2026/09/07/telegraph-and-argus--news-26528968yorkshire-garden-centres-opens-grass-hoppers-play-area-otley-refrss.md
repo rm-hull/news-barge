@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Martin House
+- Otley Garden Centre
+- Otley Town
+- Tong and Tingley
+- West Yorkshire
+- Wharfedale
+people:
+- Jo Allen
+- Lizzie Philpott
+- Mark Farnsworth
+- Martin House
+- Mick Bradley
+organisations:
+- Bringing Grass Hoppers
+- Grass Hoppers
+- Grass Hoppers Otley
+- Martin House Children’s Hospice
+- Otley Garden Centre
+- Yorkshire Garden Centres
+- Yorkshire Garden Centres’
 ---
 
 *(Image: submitted)*

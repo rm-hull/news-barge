@@ -14,6 +14,25 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Israel
+- Palestine
+- Qusra
+- Ramallah
+- UK
+- West Bank
+- al-Mughayyir
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Ed Miliband
+organisations:
+- Foreign Office
+- Government
+- House
+- ICJ
+- International Court of Justice
+- WAFA
 ---
 
 Two Palestinian teenagers have been killed in an attack by Israeli settler militants and army troops on their village in the occupied West Bank, local officials and the Palestinian health ministry said, amid an uptick in violence by Jewish settlers in the territory.

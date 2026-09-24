@@ -11,6 +11,20 @@ description: A new watchOS 27 leak suggests Apple will let you log reps and sets
 image: https://cdn.mos.cms.futurecdn.net/JRSXNFTr9N77NE9WNUxfCG-2255-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+organisations:
+- Apple Watch
+- Apple Watches
+- Creative Bloq
+- Google News
+- MacFormat
+- Shine
+- SmartGym
+- Surprise
+- TechRadar
+- iMore
 ---
 
 ![Apple Watch Ultra 2 using traditional strength training](https://cdn.mos.cms.futurecdn.net/JRSXNFTr9N77NE9WNUxfCG.jpg) 

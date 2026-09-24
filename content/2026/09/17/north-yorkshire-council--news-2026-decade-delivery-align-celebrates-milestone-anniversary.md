@@ -15,6 +15,34 @@ categories:
 - Harrogate
 - Government
 - Business & Entrepreneurship
+locations:
+- Bewerley Park
+- Catterick
+- Durham
+- Nidderdale National Landscape
+- North Yorkshire
+- North of England
+- Northallerton
+- Otley
+- Penrith
+- Selby
+- Stone Cross
+- The Summit Indoor Adventure Centre
+- Whitby Old Town Hall
+people:
+- Align
+- Cameron Storey
+- Ellen Campbell
+- Nic Harne
+- Ron Walton
+organisations:
+- AI
+- Align
+- Chartered Building Surveyor
+- North Yorkshire Council
+- North Yorkshire Council-owned
+- RICS
+- Royal Institution of Chartered Surveyors
 ---
 
 ![Whitby Old Town Hall](https://www.northyorks.gov.uk/sites/default/files/2026-09/Align.jpg) 

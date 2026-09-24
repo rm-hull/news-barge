@@ -16,6 +16,40 @@ categories:
 - Sports
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21064214.jpg?type=og-image
+locations:
+- Atlantic
+- Broadway
+- Buckingham Palace
+- Chicago
+- Scarborough
+- WEST End
+- West End
+- Yorkshire
+people:
+- Alfie Boe
+- Cuffe
+- Elphaba
+- Glinda
+- Jean Valjean
+- Joseph
+- Julian Murray
+- Kerry Ellis
+- Louise Dearman
+- Rachel Tucker
+- Taylor
+organisations:
+- '![]()Gravity'
+- Les Misérables
+- Miss Saigon
+- OAT
+- Oliver!
+- Queen’s Diamond Jubilee
+- Royal College of Music
+- Royal Opera House
+- Scarborough Open Air Theatre
+- Sunset Boulevard
+- The Great Gatsby
+- West End
 ---
 
 WEST End and Broadway stars will light up the Yorkshire coast for a night of musical theatre magic.

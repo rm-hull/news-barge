@@ -13,6 +13,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Malton
+- Norton Road
+- Railway Street
+- Water Lane
+people:
+- Cllr Keane Duncan
+- Keane Duncan
+organisations:
+- NORTH Yorkshire Council
 ---
 
 *(Image: Cllr Keane Duncan)*

@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Alaska
+- Florida
+- Michigan
+- Milwaukee County
+- Pennsylvania
+- Rhode Island
+- Texas
+- Wisconsin
+people:
+- Angie Nixon
+- Cayce Myers
+- Dan McKee
+- David Crowley
+- Donald Trump
+- Flock
+- Helena Foulkes
+- James Talarico
+- Josh Chavez
+- Josh Shapiro
+- Michael Soyfer
+- Mitchell Davis III
+- MoMo Zhou
+- Ron DeSantis'
+- Stacy Garrity
+- Tom Barrett
+- Tom Tiffany
+- William Lawrence
+organisations:
+- Big Tech
+- FLORIDA
+- Flock Safety
+- Institute for Justice
+- National Organization of Black Law Enforcement Executives
+- Senate
+- Virginia Tech
 ---
 
 Candidates from both parties are increasingly targeting Flock cameras, an AI-powered network of scanners that records license plates and vehicle information for police to search and share.

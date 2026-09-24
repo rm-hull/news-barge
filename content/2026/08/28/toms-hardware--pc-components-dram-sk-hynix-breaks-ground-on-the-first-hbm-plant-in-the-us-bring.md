@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- America
+- Indiana
+- South Korea
+- Taiwan
+- U.S.
+- USA
+- United States
+- West Lafayette
+people:
+- Anton Shilov
+- Kwak Noh-Jung
+- Tom
+organisations:
+- DRAM
+- Google News
+- HBM
+- Purdue University
+- SK hynix
+- Tom’s Hardware
 ---
 
 ![SK hynix](https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn.jpg) 

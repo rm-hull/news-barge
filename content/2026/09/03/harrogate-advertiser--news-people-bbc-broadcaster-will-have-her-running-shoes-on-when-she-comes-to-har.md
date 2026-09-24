@@ -13,6 +13,17 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- Marathon des Sables
+people:
+- Sophie Raworth
+organisations:
+- BBC 1
+- BBC News
+- Crown Hotel
+- Harrogate International Festivals
+- Yorkshire Life Literary Lunch
 ---
 
 # BBC broadcaster will have her running shoes on when she comes to Harrogate for Raworths Harrogate Literature Festival

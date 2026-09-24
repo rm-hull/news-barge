@@ -13,6 +13,21 @@ image: https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e-1024-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+people:
+- Claude Shannon
+- Keumars Afifi-Sabet
+organisations:
+- AGI
+- AI
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- Omni Magazine
+- QOTD
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Claude Shannon at work](https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e.jpg) 

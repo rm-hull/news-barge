@@ -11,6 +11,53 @@ image: https://cdn.mos.cms.futurecdn.net/bFZLDKwk8RoWGAvRz2ej7G-981-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Budapest
+- Canada
+- Kenya
+- National Athletics Centre
+- Scotland
+- UK
+- US
+people:
+- Aatif Sulleyman
+- Amy Hunt
+- Audrey Werro
+- Cam Myers
+- Cole Hocker
+- Eleanor Patterson
+- Emmanuel Wanyonyi
+- Femke Broeders-Bol
+- Gabby Thomas
+- Jakob Ingebrigtsen
+- Josh Kerr
+- Keely Hodgkinson
+- Kenny Bednarek
+- Melissa Jefferson-Wooden
+- Mondo Duplantis
+- Norton
+organisations:
+- Aatif
+- BBC One
+- BBC Two
+- BBC iPlayer
+- BBC iPlayer**
+- CBC Gem
+- CBC**
+- Diamond League
+- Facebook
+- Future Publishing
+- Gizmodo
+- Instagram
+- Newsweek
+- Norton VPN
+- Peacock
+- TechRadar
+- The Independent
+- Trusted Reviews
+- WorldAthletics
+- YouTube
 ---
 
 ![Josh Kerr, wearing sunglasses and the Scotland vest, holds his arms out in celebration at winning the mile at the Commonwealth Games 2026.](https://cdn.mos.cms.futurecdn.net/bFZLDKwk8RoWGAvRz2ej7G.jpg) 

@@ -11,6 +11,49 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/99ebc3
 categories:
 - UK
 - News & Politics
+locations:
+- Atlantic
+- Bavi
+- Botswana
+- Brazil
+- Central America
+- Central Kalimantan
+- China
+- Ecuador
+- El Niño
+- Great Barrier Reef
+- Indian Ocean
+- Indonesia
+- La Niña
+- Maysak
+- Noul
+- Pacific Ocean
+- Panama Canal
+- Peru
+- South America
+- South Australia
+- South East Asia
+- Southern Africa
+- Southern Australia
+- Tasmania
+- US
+- United States
+people:
+- Alistair Hobday
+- António Guterres
+- Celeste Saulo
+- Darwin Romy
+- Miguel Aréstegui
+- Prof Celeste Saulo
+organisations:
+- BBC News Indonesia
+- El Niño
+- El Niño.
+- Practical Action
+- UN
+- USNS Comfort
+- WMO
+- World Meteorological Organization
 ---
 
 ![An aerial shot showing boats moving through brown floodwaters in a street. To the right are some trees and telephone wires, to the left is a corrugated iron building and some machinery.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b726/live/54120bc0-a6bb-11f1-ae1e-219da1d6451a.jpg)

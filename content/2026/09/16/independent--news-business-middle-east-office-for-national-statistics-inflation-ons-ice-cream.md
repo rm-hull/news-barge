@@ -13,6 +13,14 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- UK
+people: []
+organisations:
+- Margarine
+- ONS
+- Office for National Statistics
 ---
 
 Household staples such as pasta, margarine and tea all contributed to last month’s jump in inflation, along with a rise in the cost of fuel and long-haul air fares.

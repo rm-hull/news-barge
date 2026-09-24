@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- East Yorkshire
+- Finest’
+- Kathyrn Avenue
+- North
+- The Leveson Centre
+- York
+people:
+- Andy Knowles
+- Dame Judi
+- David Charles
+- Gaynor Faye
+- Judi Dench
+- Sean Bean
+organisations:
+- Finest
+- PHOTOBOOK of Yorkshire
+- York Against Cancer
 ---
 
 A PHOTOBOOK of Yorkshire celebrities is raising funds for a cancer charity, and includes images of its patron, a York-born icon of stage and screen.

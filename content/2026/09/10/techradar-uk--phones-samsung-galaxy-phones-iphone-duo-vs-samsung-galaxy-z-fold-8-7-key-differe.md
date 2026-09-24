@@ -10,6 +10,28 @@ description: We compare the iPhone Duo to its closest competitor, the Samsung Ga
 image: https://cdn.mos.cms.futurecdn.net/n5x3nWonFq2o2NXmPo8Xzf-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- London
+people:
+- Richard Priday
+organisations:
+- Apple Pencil USB-C
+- Apple's
+- Creative Bloq
+- Duo
+- Galaxy Z Fold
+- Google News
+- Gorilla Glass
+- Gorilla Glass Ceramic
+- Lavender
+- MagSafe
+- Samsung Galaxy
+- Snapdragon
+- Star White
+- The Register
+- Tom’s Guide
+- University of Sheffield
+- WIRED
 ---
 
 ![The iPhone Duo alongside the Samsung Galaxy Z Fold 8](https://cdn.mos.cms.futurecdn.net/n5x3nWonFq2o2NXmPo8Xzf.jpg) 

@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Argentina
+- Atlantic Ocean
+- Britain
+- Chile
+- England
+- Falkland
+- Falklands
+- Iran
+- Israel
+- Las Malvinas
+- Santiago
+- Sea Lion
+- Tierra del Fuego
+- UK
+- US
+- Western Hemisphere
+people:
+- Javier Milei
+- Sarah Rogers
+- Trump
+organisations:
+- BBC News
+- GB News
+- Navitas Petroleum –
+- Rockhopper Exploration
 ---
 
 ![Argentina's President Javier Milei delivers a speech at the opening ceremony of the 5th Regional Meeting of the Madrid Forum, in Santiago, Chile, September 3](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg)

@@ -14,6 +14,22 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/00/Extreme_Weather_Texas_Floods_9713_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Camp Mystic
+- Eastlands
+- Guadalupe River
+- Texas
+people:
+- Brad Beckworth
+- Brant Johnston
+- Christina Yarnell
+- Cile Steward
+- Edward Eastland
+- Richard Eastland
+organisations:
+- Camp Mystic
+- Eastland
+- Texas Rangers
 ---
 
 Camp Mystic faces a criminal investigation that could include manslaughter or negligent homicide charges in the deaths of 27 girls amid devastating flooding in Texas last year, court documents show.

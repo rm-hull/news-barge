@@ -13,6 +13,17 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Front Street
+- Pelton
+people:
+- LOUISE
+- Louise
+- Luke Akehurst
+organisations:
+- Durham Police
+- Facebook
 ---
 
 *(Image: LOUISE)*

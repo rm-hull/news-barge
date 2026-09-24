@@ -13,6 +13,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Peter Andrews
+organisations:
+- Bank of England
+- Consumer Voice
+- Courmacs Legal
+- Credit Agricole
+- FCA
+- Financial Conduct Authority
+- Mercedes-Benz
+- Upper Tribunal
+- Volkswagen
 ---
 
 The UK’s financial watchdog prioritised making its £9.1 billion motor finance compensation scheme cheaper for lenders over protecting drivers, a consumer rights group has claimed.

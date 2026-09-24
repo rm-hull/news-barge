@@ -12,6 +12,13 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21477005.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- BBC
+- Disney+
+- Netflix
+- TV Licensing
 ---
 
 ## Do you need to declare if you do not need a TV licence - your rights explained

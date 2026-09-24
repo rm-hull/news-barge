@@ -12,6 +12,21 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Europe
+- Royal Albert Hall
+- Tickemaster
+- UK
+people:
+- Cuffe
+- Jack Savoretti
+- James Morrison
+- Julian Murray
+- KT Tunstall
+- Taylor
+organisations:
+- Scarborough OAT
+- Scarborough Open Air Theatre
 ---
 
 The first headliners of Scarborough’s summer 2027 season has been announced – and it’s two of the UK’s most beloved singer-songwriters.

@@ -14,6 +14,24 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Baja California
+- Big Island
+- Hawaii
+- Honolulu
+- Kauai
+- Lihue
+- Mexico
+- Niihau
+- Southern California
+- U.S.
+people:
+- Lori Benkert
+- Lowell
+- Marie
+organisations:
+- Kauai Emergency Management Agency
+- National Hurricane Center
 ---
 
 A tropical storm warning has been activated for two islands in Hawaii as Hurricane Lowell, a major Category 3 storm, heads towards the area.

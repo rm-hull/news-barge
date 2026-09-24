@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- US
+people:
+- '**Huang'
+- Greg Brockman
+- Jensen Huang
+- Loki
+- Tony Stark
+organisations:
+- AGI
+- AI
+- ASI
+- Astra
+- GPT-6
+- Google News
+- Hamish
+- Marvel
+- Nvidia
+- OpenAI
+- TechRadar
 ---
 
 ![Nvidia CEO Jensen Huang holding the RTX Spark chip](https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj.jpg) 

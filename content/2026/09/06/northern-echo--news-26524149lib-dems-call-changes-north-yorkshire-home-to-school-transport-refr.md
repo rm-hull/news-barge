@@ -13,6 +13,26 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Hall
+- Furness
+- North Yorkshire
+- St Francis Xavier School
+- Westmorland
+people:
+- Andrew Murday
+- Carl Les
+- Cllr Les
+- Cllr Murday
+organisations:
+- Lib Dems
+- Local Democracy Reporting Service
+- NEWSQUEST
+- North Yorkshire Council
+- Outwood Academy Ripon
+- PIR
+- Richmond School
+- Ripon Grammar School
 ---
 
 *(Image: NEWSQUEST)*

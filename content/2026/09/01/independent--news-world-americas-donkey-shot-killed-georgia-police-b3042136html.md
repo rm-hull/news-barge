@@ -13,6 +13,24 @@ categories:
 - UK
 - Pets & Animals
 - Family & Parenting
+locations:
+- Atlanta
+- Cedartown
+- Georgia
+- Israel
+people:
+- '![HeeHaw'
+- Hannah Israel
+- HeeHaw
+- HeeHaw’
+organisations:
+- Cedartown Police Department
+- Facebook
+- GoFundMe
+- Polk County Police Department
+- Polk County Sheriff's Office
+- Taser
+- WSB-TV Atlanta
 ---
 
 A Georgia family demands answers after they say cops shot and killed their beloved pet donkey during a search for a missing person over the weekend.

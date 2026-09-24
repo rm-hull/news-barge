@@ -13,6 +13,17 @@ categories:
 - UK
 - Health & Fitness
 - Technology & Software
+locations:
+- UK
+people:
+- Gail
+- Lucas Seuren
+organisations:
+- AI
+- BMJ Digital Health
+- Self and Society
+- University of Edinburgh
+- University of Edinburgh’s Centre for Biomedicine
 ---
 
 Artificial intelligence tools used by doctors to generate clinical notes are failing to record "potentially vital information" conveyed through non-verbal cues like facial expressions and gestures, a study suggests.

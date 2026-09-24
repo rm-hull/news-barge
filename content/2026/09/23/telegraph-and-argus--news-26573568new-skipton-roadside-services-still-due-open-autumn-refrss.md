@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489696.jpg?type=og-image&xType=0&yType=39
+locations:
+- A59
+- A65
+- Gargrave Road
+- Morley
+- Preston
+- Skipton
+- YOUR
+people: []
+organisations:
+- Brookfield Holdings
+- North Yorkshire Weather Updates
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

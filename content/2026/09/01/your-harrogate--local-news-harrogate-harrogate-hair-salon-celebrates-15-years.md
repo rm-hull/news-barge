@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Leeds Road
+- London
+- Milan
+- UK
+- Yorkshire
+people:
+- Joseph Ferraro
+- Joseph Ferraro Hair
+organisations:
+- Authentic Beauty Concept
+- ITV’s X Factor
+- Paris Fashion Weeks
 ---
 
 ![](https://mmo.aiircdn.com/409/6a967e3d65b9c53b4a8.jpg) 

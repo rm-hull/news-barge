@@ -12,6 +12,34 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/22/20/2295972313..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Gulf of America
+- Gulf of Mexico
+- U.S.A.
+- United States of America
+- White House
+- White House-controlled
+people:
+- Donald Trump
+- Nora Benavidez
+- Robert Garcia
+- Steven Cheung
+organisations:
+- ABC
+- Associated Press
+- CBS
+- CNN
+- FAKE NEWS
+- First Amendment
+- Fox News
+- Free Press
+- House Oversight Committee
+- MS NOW
+- NBC
+- National Security
+- Politico
+- Trump
+- White House Correspondents’ Association
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

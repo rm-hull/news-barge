@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/SXsaCfHwBUekn8Ynq7jLPf-1920-80.jpg
+locations:
+- UK
+people:
+- Loïc Gounon
+- Mario
+- Rayman
+organisations:
+- Dash
+- Edge
+- Google News
+- Nintendo Switch
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- PS5
+- SFX
+- TechRadar
+- UbiArt Framework
 ---
 
 ![A Rayman Legends Retold screenshot.](https://cdn.mos.cms.futurecdn.net/SXsaCfHwBUekn8Ynq7jLPf.jpg)

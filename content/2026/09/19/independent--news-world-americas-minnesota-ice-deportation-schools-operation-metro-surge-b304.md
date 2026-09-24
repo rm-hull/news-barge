@@ -15,6 +15,52 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/18/5/19/GettyImages-2254528527.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Byron
+- Columbia Heights
+- Fridley
+- Minneapolis
+- Minnesota
+- Powderhorn Park
+- St. Paul
+- Stillwater
+- Twin Cities
+- U.S.
+people:
+- Alex Pretti
+- Alli Kildahl
+- Brenda Lewis
+- Liam Conejo Ramos
+- Mandi Jung
+- Monica Byron
+- Renee Good
+- Spiderman
+- Stacy Bartlett
+organisations:
+- '![Border Patrol'
+- American Federation of Teachers
+- Battle Creek Middle School
+- DHS
+- Department of Homeland Security
+- Education Minnesota
+- Fridley Public Schools
+- Human Rights Watch
+- ICE
+- Immigration and Customs Enforcement
+- Immigration and Customs Enforcement and Customs and Border Protection
+- MCA
+- MPR News
+- Metro Surge
+- Minnesota Comprehensive Assessments
+- Minnesota Department of Education
+- National Education Association
+- Roosevelt High School
+- Sahan Journal
+- The Independent
+- Trump Administration
+- US Customs and Border Protection
+- Valley View Elementary
 ---
 
 “Operation Metro Surge” — the Trump administration’s deployment of thousands of immigration agents to Minnesota last winter — left two citizens dead, more than 4,000 people arrested and communities roiled with protests. The city’s education system, one teacher said, became “hunting grounds” which saw agents “follow brown children home.”

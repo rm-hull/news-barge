@@ -12,6 +12,24 @@ description: I didn't expect 3D and micro-LED to be a perfect pair, but in retro
 image: https://cdn.mos.cms.futurecdn.net/tQg58pwyS2smDyXviVUrJX-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+people:
+- Hisense
+- Matt Bolton
+organisations:
+- Creative Bloq
+- Dolby Vision
+- Edge
+- Google News
+- HDR
+- Hisense
+- Home Tech
+- IFA
+- Matt
+- PC Gamer
+- T3
+- TechRadar
 ---
 
 ![A micro-LED 3D TV with a display of sunflowers on the screen](https://cdn.mos.cms.futurecdn.net/tQg58pwyS2smDyXviVUrJX.jpg) 

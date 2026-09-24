@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Bhote Koshi
+- Nepal
+- Nuwakot
+- Rasuwa
+- Rasuwagadhi Hydro Plant
+- Tibet
+- Trishuli 3A Hydropower Project
+- Trishuli Centre
+- Trishuli River
+- Triushuli
+- Upper Trishuli 3A
+people:
+- Amhsu Kiran Shahi
+- Durga Gurung
+- God
+- Jeevanlal Adhikari
+- Jhappad Bhujel
+- Laxmi Adhikari
+- Raja Ram Basnet
+organisations:
+- Guardian
+- Reuters
+- UN Development Programme
 ---
 
 Nepal authorities have said they are “confident” that dozens of workers in Nepal’s Rasuwagadhi hydropower plant are still alive, more than a week after deadly flash floods left them trapped in an underground chamber.

@@ -12,6 +12,90 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+locations:
+- Bewerley Park
+- Bordeaux
+- Cold Bath Road
+- Easingwold
+- Harrogate’s Masonic Hall
+- Humber
+- Knaresborough
+- Lister House
+- Lotherton Hall.
+- Newby Hall
+- North Yorkshire
+- Oliveta Harrogate
+- Pateley Bridge
+- Provincial Grand Master of Yorkshire West Riding
+- Ripon
+- Royal Hall
+- Tees, Esk
+- Tentergate Road
+- The Earl of Harewood KC
+- Thorp Arch
+- Viaduct Terrace
+- Wetherby
+- WiSE Owl Café
+- William & Victoria
+people:
+- David Coulthard
+- David Rowley
+- Hugh Bonneville
+- John Harris
+- Jonathan Moseley
+- Josh
+- Kirsty Henshaw
+- Liz Charnley
+- Melani Darcy
+- Mika Häkkinen
+- Miss Bramley
+- Paddy Kidd
+- Peter Lewis
+- Phil Webb
+- Rachel Tunnicliffe
+- Rob George
+- Roksana Matwijiszyn
+- Sharon Canavar
+- Simon Grafton
+- Tim North
+- Tom Gordon
+- William Dutton
+organisations:
+- Belindas Boutique
+- Brain Tumour Charity
+- Breakfast Club
+- Cuore Chamber Orchestra
+- EU
+- Formula One
+- Harrogate Convention Centre
+- Harrogate International Festivals
+- Harrogate Rugby Club
+- Harrogate Stray
+- Harrogate and District NHS Foundation Trust
+- Kirsty's
+- Knaresborough
+- Les Parkes
+- Lullaby Lane Children
+- Morrisons Daily
+- National Trust
+- Nidderdale Show
+- North Yorkshire Council
+- RHS Glow
+- RHS Harlow Carr
+- Range Rover
+- Raworths
+- Red Wall Theatre
+- Right Honourable
+- Ripon
+- St Aidan's Church of England High School
+- Station Parade
+- The Pavilions of Harrogate
+- UNESCO-listed Fountains Abbey
+- Wear Valleys NHS Foundation Trust
+- YCC
+- Yorkshire Children’s Charity’s
+- Zero Carbon Harrogate
+- Zoopla
 ---
 
 ![Knaresborough’s first junior parkrun launches Sunday](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=5:4,smart&trim=&quality=70&width=616)

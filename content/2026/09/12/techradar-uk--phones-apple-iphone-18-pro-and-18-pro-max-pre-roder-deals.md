@@ -10,6 +10,26 @@ description: For both the US and UK!
 image: https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X-1913-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Alex Whitelock
+organisations:
+- 18 Pro
+- AT&T
+- Alex
+- Apple Watch
+- Carphone Warehouse
+- Future PLC
+- GamesRadar
+- PSA
+- T&Cs
+- T-Mobile
+- TechRadar
+- Verizon
+- Vodafone
+- myPlan
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X.jpg) 

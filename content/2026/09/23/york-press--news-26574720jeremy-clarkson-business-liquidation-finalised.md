@@ -13,6 +13,24 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21044663.jpg?type=og-image&xType=0&yType=21
+locations:
+- York Richard Hammond
+people:
+- Andy Wilman
+- Child
+- Clarkson
+- Greggs
+- James May
+- Jeremy Clarkson-owned
+- Richard Hammond
+- Sons
+- W Chump
+organisations:
+- Amazon
+- Chump and Sons Limited
+- Companies House
+- LBC
+- Yorkshire
 ---
 
 *(Image: Prime Video)*

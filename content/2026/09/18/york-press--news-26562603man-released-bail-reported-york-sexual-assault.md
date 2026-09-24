@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Church Lane
+- North Yorkshire
+- Spurriergate
+- York
+people:
+- Kevin Glenton
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: Kevin Glenton)*

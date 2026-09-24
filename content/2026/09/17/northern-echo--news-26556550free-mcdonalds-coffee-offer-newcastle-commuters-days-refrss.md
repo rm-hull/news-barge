@@ -14,6 +14,14 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Darlington
+- Newcastle Central Station
+- North East
+people: []
+organisations:
+- McDonald’s
+- Teesside McDonald's
 ---
 
 McDonald's will hand out hundreds of free coffees to North East commuters next week as it launches its revamped McCafé range.

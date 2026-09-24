@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acomb
+- City Screen York
+- The Carlton Tavern
+people:
+- SASH
+- Sharon McDonagh
+organisations:
+- Acomb Fest
+- BOXXHEAD
+- Board Meeting
+- City Screen
+- HazardOne
+- Lady Mkei
+- Lincoln Lightfoot
+- Liskbot
+- Nicolas Dixon
+- Paint Jam
+- RARE Collective
+- SASH
+- SOLA of RARE Collective
+- Safe and Sound Homes
+- Sola Art of Street
+- The Board Meeting
+- Victoria Hill
 ---
 
 York artists are coming together for a fundraising day of street art, workshops and family fun – and to continue the legacy of Acombfest!

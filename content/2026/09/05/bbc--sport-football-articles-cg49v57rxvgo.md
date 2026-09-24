@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brighton
+- Cameroon
+- Ipswich
+people:
+- Alexander Isak
+- Andrey Santos
+- Benjamin Sesko
+- Bradley Barcola
+- Carlos Baleba
+- Florian Wirtz
+- Glazer
+- Luke Shaw
+- Michael Carrick
+- Omar Berrada
+- Paul Pogba
+- Shea Lacey
+- Youri Tielemans
+organisations:
+- Aston Villa
+- Brighton Has United
+- Chelsea
+- Fans Forum
+- Glazers
+- Ipswich
+- Liverpool
+- Manchester City
+- Manchester United
+- Manchester Unitedbelieve
+- Swiss Ramble
+- Tottenham
 ---
 
 ![Manchester United head coach Michael Carrick](https://ichef.bbci.co.uk/ace/standard/926/cpsprodpb/2c82/live/af1eb410-a90d-11f1-aed2-8d6da8d75094.jpg)

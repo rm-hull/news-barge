@@ -12,6 +12,63 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/J8Yr5fWxBPvYLbWsMzFEJ7-1920-80.jpg
+locations:
+- Australia
+- Belgium
+- Canada
+- France
+- Germany
+- Italy
+- Kigali
+- Montreal
+- Portugal
+- Rwanda
+- Spain
+- Switzerland
+- U23
+- UK
+- US
+- USA
+- canada
+- uk
+people:
+- Adam Marshall
+- Magdeleine Vallieres
+- Marlen Reusser
+- Mathieu van der Poel
+- NordVPN
+- Remco Evenepoel
+- Stan
+- Tadej Pogačar
+- Tom Pidcock
+- Wout Van Aert
+organisations:
+- Amazon Fire TV
+- Apple TV
+- BBC Two
+- BBC iPlayer
+- CBC Gem
+- CBC Gem in Canada
+- CBC Sports
+- CBC Sports**
+- Facebook
+- FloBikes
+- Future Publishing
+- ITT
+- MoreGet NordVPN
+- NordVPN**
+- RTBF Auvio
+- RTP
+- Roku
+- Sporza
+- Stan Sport
+- TNT Sports
+- Team Belgium
+- TechRadar
+- Tom's Guide
+- U23
+- UCI
+- ZDF
 ---
 
 ![Remco Evenepoel of Team Belgium competes during the UCI Cycling World Championships.](https://cdn.mos.cms.futurecdn.net/J8Yr5fWxBPvYLbWsMzFEJ7.jpg)

@@ -12,6 +12,17 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/15/72a5208c00ba226981b7fa0e1d163b14Y29udGVudHNlYXJjaGFwaSwxNzkwMjYwNTY2-2.6565654.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- London
+- PA
+people:
+- Michael O’Leary
+organisations:
+- IATA
+- International Air Transport Association
+- Ryanair
+- Yui Mok
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

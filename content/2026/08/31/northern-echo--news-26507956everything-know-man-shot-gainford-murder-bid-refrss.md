@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- County Durham
+- Darlington
+- Gainford
+people:
+- Jenny
+organisations:
+- CSI
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- NORTHERN ECHO
+- Newcastle
+- North East Ambulance Service
+- Sky Sports News
 ---
 
 A man has been left in a critical condition after being shot on a 'quiet' County Durham street in an "drive-by murder bid".

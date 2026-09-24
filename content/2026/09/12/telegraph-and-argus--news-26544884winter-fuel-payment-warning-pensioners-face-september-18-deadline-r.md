@@ -12,6 +12,16 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+people: []
+organisations:
+- Government
+- HMRC
+- National Insurance
+- Pot Noodle
+- State Pension
+- Winter Fuel Payment Centre
 ---
 
 *(Image: Getty Images)*

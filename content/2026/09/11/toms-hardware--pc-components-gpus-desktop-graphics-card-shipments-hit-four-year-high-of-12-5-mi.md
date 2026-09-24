@@ -14,6 +14,22 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Video Gaming
+locations:
+- Iran
+people:
+- Anton Shilov
+- Jon Peddie
+organisations:
+- AIB
+- AMD
+- Get Tom's Hardware
+- Google News
+- Intel
+- JPR
+- Jon Peddie Research
+- Nvidia
+- PC
+- Tom’s Hardware
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS.png) 

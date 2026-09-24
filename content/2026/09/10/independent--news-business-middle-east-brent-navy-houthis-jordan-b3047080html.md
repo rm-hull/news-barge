@@ -13,6 +13,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Jordan
+- Middle East
+- Saudi Arabia
+- UK
+- US
+people:
+- Richard Hunter
+- Susannah Streeter
+organisations:
+- AA
+- Interactive Investor
+- Navy
+- Wealth Club
 ---
 
 Oil prices have risen above 100 dollars a barrel for the first time since July after the latest round of strikes in the Iran war.

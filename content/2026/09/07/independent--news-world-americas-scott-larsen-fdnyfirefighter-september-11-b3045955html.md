@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Afghanistan
+- Iraq
+- Lower Manhattan
+- Maine
+- New York
+- New York City
+- North Tower
+- Pennsylvania
+- Portland International Jetport
+- Queens
+- U.S.
+- Woodside
+people:
+- Abdul Aziz al Omari
+- Driven
+- George W. Bush
+- Michael Tuohey
+- Mohammad Atta
+- Scott Larsen
+organisations:
+- American Airlines
+- Department of Homeland Security
+- FDNY
+- International Association of Firefighters
+- New York City Fire Department
+- Pentagon
+- World Trade Center
 ---
 
 When the World Trade Center towers fell on September 11, 2001, Scott Larsen was just four years old. His father, a New York City firefighter who shared his name, lost his life in the disaster.

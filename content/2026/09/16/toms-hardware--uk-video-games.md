@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Bruno Ferreira
+- Jack Tretton
+- Mark Tyson
+organisations:
+- Aaron Klotz Published
+- Andrew E. Freedman Published
+- Bruno Ferreira
+- Cloud GamingMicrosoft
+- Cloud GamingNvidia
+- Hassam Nasir
+- Jeffrey Kampman
+- Kallax
+- Minecraft
+- Nintendo SwitchBy
+- NintendoNintendo of America
+- NintendoYou
+- Nvidia
+- PC GamingIKEA
+- PC GamingMicrosoft
+- PC GamingSteam
+- PlayStationSony
+- Retro GamingCommodore
+- Shane Downing Published
+- Sony
+- Zak Killian
 ---
 
 # Video Games

@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Film & TV
+locations:
+- California
+- Los Angeles
+people:
+- Brett Goldstein
+- Dakota Fanning
+- Selena Gomez
+- Zendaya
+organisations: []
 ---
 
 # Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet

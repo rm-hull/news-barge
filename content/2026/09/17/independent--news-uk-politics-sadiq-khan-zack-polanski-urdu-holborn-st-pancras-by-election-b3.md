@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- City Hall
+- England
+- Holborn
+- London
+- Pakistan
+- St Pancras
+- UK
+people:
+- Katie Lam
+- Keir Starmer
+- Mr Polanski
+- Naz Shah
+- Sadiq Khan
+- Zack Polanski
+organisations:
+- '![Green'
+- Commons
+- Green
+- Greens
+- Labour
+- London Assembly
 ---
 
 London mayor Sadiq Khan has mocked Zack Polanski by speaking to him in Urdu in a nod to the Green leader’s recent, much commented on, by-election campaign video.

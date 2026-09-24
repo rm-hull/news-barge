@@ -11,6 +11,45 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b17
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- China
+- DC
+- RUSSIA
+- U.S.
+- US
+- Washington
+- White House
+people:
+- AI
+- Bernie Sanders
+- Dario Amodei
+- Donald Trump
+- Evan Hubinger
+- Jack Clark
+- Jacob Coxon
+- Mustafa Suleyman
+- Sam Altman
+- Steve Bannon
+- Xin Qiang
+organisations:
+- AI and Data Centers
+- American Studies
+- Amodei
+- Anthropic
+- BBC Clark
+- BBC's Newsnight
+- CNBC
+- Elon Musk of xAI
+- Fudan University
+- Global Times
+- Microsoft AI
+- OpenAI
+- Oval Office
+- Pro-Human Assembly
+- Radical Left Dumocrats
+- Sanders
+- Trump
 ---
 
 Watch: "Great" or "alarming" - Should AI be reined in?

@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- North Yorkshire
+- Scarborough
+- YOUR
+people:
+- Chris Clark
+- Chris Head
+- William Stuart
+organisations:
+- Area Committee
+- C3
+- HMO
+- HMOs
+- Houses in Multiple Occupation
+- Labour
+- Newsquest
+- North Yorkshire Council
+- Public Notice Portal
+- Reform
+- Scarborough Borough Council
+- Scarborough Town Council
+- Scarborough and Whitby Area Committee
 ---
 
 ### What is the Public Notice Portal?

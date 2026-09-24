@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- England
+- Lothian
+- Moray
+- Scotland
+- Wales
+people:
+- Amy
+- Christopher Malcolm
+- John Swinney
+- Stacy Hunter
+- Stanley
+- Vikki Solomon
+organisations:
+- BBC
+- Police Scotland
+- Rape Crisis Scotland
 ---
 
 ![A selfie of two people standing in front of snow-covered trees. The person on the left has their face blurred. The man on the right is smiling, and wearing a beige hoodie under a black North Face puffer jacket.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ea88/live/a79787c0-ad0a-11f1-b1d1-571ed4d7ff2c.jpg)

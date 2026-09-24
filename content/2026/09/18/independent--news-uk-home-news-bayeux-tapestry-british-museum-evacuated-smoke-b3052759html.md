@@ -12,6 +12,19 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/18/22/2294483926..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- France
+- Normandy
+- UK
+people:
+- George Osborne
+organisations:
+- Bayeux Tapestry
+- British Museum
+- Fire Brigade
+- London Fire Brigade
+- The Telegraph
+- Tory
 ---
 
 Bayeux Tapestry ticket-holders were evacuated from the British Museum on Friday evening following fears of a fire in one of the galleries.

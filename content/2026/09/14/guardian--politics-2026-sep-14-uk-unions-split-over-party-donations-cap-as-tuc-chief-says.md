@@ -12,6 +12,38 @@ image: https://i.guim.co.uk/img/media/6afa04a8c5e56ce30376a4b83238efb82686c45c/1
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Hong Kong
+- Thailand
+- UK
+people:
+- Ben Delo
+- Boris Johnson
+- Brighton Nowak
+- Christopher Harborne
+- Elon Musk
+- Gary Smith
+- Joanne Thomas
+- Mike Clancy
+- Nigel Farage
+- Paul Nowak
+- Richard Tice
+- Sharon Graham
+organisations:
+- Delo
+- GB News
+- GMB
+- Guardian
+- Harborne
+- House of Lords
+- Labour
+- Prospect
+- Reform UK
+- TUC
+- Trades Union Congress
+- Unite
+- Usdaw
 ---
 
 The head of Britain’s trade union movement, Paul Nowak, has said the government must act to “stop the super-rich corrupting our politics”, as union leaders met on Monday to discuss possible support for a domestic cap on donations.

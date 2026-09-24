@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21252198.jpg?type=og-image
+locations:
+- UK
+people:
+- Martin Lewis
+organisations:
+- Money Saving Expert
+- Sainsbury's
+- Waitrose
 ---
 
 *(Image: PA)*

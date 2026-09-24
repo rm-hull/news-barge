@@ -12,6 +12,18 @@ image: https://i.guim.co.uk/img/media/389761cb3ebb7e134908d52c0c1d2e3aaa30ed0f/3
 categories:
 - UK
 - News & Politics
+locations:
+- Canada
+- Europe
+- US
+- Washington
+people:
+- Donald Trump
+- Jon Henley **–**
+- Lucy Hough
+- Mark Carney
+organisations:
+- EU
 ---
 
 # Taking on Trump? Canada and EU forge closer ties – The Latest

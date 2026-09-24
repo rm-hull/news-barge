@@ -11,6 +11,28 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/13/39/derek-ridgewell.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Clapham
+- Inner London Crown Court
+- Tooting
+people:
+- Christopher Poulter
+- DS Ridgewell
+- Dame Vera Baird KC
+- Derek Ridgewell
+- Hickman
+- Jenny Wiltshire
+- Justice Edis
+- Justice Lavender
+- Justice Linden
+- Kevin Biggs
+- Rose
+- Stephen Simmons
+organisations:
+- British Transport Police
+- CCRC
+- Court of Appeal
+- Criminal Cases Review Commission
 ---
 
 Two men who were wrongfully arrested by a corrupt police officer have had theft convictions quashed after 50 years.

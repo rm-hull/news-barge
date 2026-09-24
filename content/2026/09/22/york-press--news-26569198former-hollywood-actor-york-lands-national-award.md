@@ -12,6 +12,19 @@ categories:
 - York
 - Film & TV
 image: https://www.yorkpress.co.uk/resources/images/21483228.jpg?type=og-image&xType=0&yType=0
+locations:
+- Hollywood
+- London
+people:
+- Dominic Colenso
+- Virgil Tracy
+organisations:
+- Discover
+- Drill
+- Practical Inspiration Publishing
+- Thunderbirds
+- Yorkshire
+- YouTube
 ---
 
 *(Image: Supplied)*

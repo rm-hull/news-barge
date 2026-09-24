@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Craven
+- Ilkley
+- The LA
+people:
+- Charlie Aky
+organisations:
+- Ales
+- The Swan Inn
+- UGC
 ---
 
 *(Image: UGC)*

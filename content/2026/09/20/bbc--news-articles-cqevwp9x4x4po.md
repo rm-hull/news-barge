@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05b7/live/52103b30-b507-11f1-91cc-c5691e33b858.jpg
+locations:
+- Black Rock
+- Brighton & Hove Coroner's Court
+- Greenford
+- London
+- Madeira Drive
+people:
+- Adam Hays
+- Christina Walters
+- Jane Adetoro
+- Joseph
+- Rebecca Walters
+- Rebecca Walters.
+organisations:
+- BBC Radio Sussex
+- BBC Sussex
+- Sussex Police
 ---
 
 ![The three sisters, seen as teenagers, and their father sit together at a restaurant table, from left to right, Jane Adetoro, Joseph, Christina Walters and Rebecca Walters.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/05b7/live/52103b30-b507-11f1-91cc-c5691e33b858.jpg)

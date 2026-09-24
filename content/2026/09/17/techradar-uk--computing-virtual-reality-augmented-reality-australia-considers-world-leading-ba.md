@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/mo4iTniTE2n7XnEur3iDbd-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Australia
+- England
+- New York
+- Wales
+people:
+- Alex Blake
+- Katy Gallagher
+organisations:
+- Albanese
+- Apple
+- Creative Bloq
+- Google News
+- ICE
+- Instagram
+- MacFormat
+- Meta
+- TechRadar
+- US Immigration and Customs Enforcement
+- University of Sydney
+- iMore
 ---
 
 ![A person wearing the new Meta Ray-Ban Blayzer glasses](https://cdn.mos.cms.futurecdn.net/mo4iTniTE2n7XnEur3iDbd.jpg) 

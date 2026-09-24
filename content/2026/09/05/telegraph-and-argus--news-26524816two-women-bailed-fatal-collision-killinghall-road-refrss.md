@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford Moor Park
+- Killinghall Road
+people: []
+organisations:
+- Major Collision Enquiry Team
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

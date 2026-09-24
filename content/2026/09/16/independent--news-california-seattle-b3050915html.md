@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- California
+- Rancho Cucamonga
+- Seattle
+- U.S.
+- Wasco
+people:
+- Drew Raney
+- Jae Hong
+- Lisa Weyer
+- Lori Dunn
+organisations:
+- AP
+- All Kids Bike
+- Associated Press’
+- PE
+- Seattle Public Schools
+- Strider Education Foundation
+- Terra Vista
+- Terra Vista Elementary School
 ---
 
 For generations, kids have learned how to ride a bike — a quintessential childhood milestone — in driveways, on sidewalks and in neighborhood streets. Now, they're learning in school gyms and playgrounds.

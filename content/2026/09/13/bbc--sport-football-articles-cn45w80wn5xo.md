@@ -13,6 +13,51 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Carrick
+- City
+- Crystal Palace
+- Ipswich
+- Ipswich.
+- Manchester
+- USA
+- United
+- Vitality Stadium
+people:
+- '![Screengrab'
+- Bruno Fernandes
+- Bryan Mbeumo
+- Enzo Maresca
+- Erling Haaland
+- How Carrick
+- Iliman Ndiaye
+- Kobbie Mainoo
+- Luke Shaw
+- Matheus Cunha
+- Michael Carrick
+- Noussair Mazraoui
+- Opta
+- Patrick Dorgu
+- Pep Guardiola
+- Rayan Cherki
+- Screengrab
+- Youri Tielemans
+organisations:
+- AC Milan
+- Arsenal
+- Bournemouth
+- Carrick
+- Chelsea
+- Coventry
+- Ipswich
+- Manchester City
+- Manchester United
+- Maresca
+- Paris Saint-Germain
+- Paris St-Germain
+- Pep Guardiola
+- Premier League
+- Sky Sports
 ---
 
 ![A stylistic compilation of Manchester City manager Enzo Maresca and Manchester United boss Michael Carrick in the foreground and Erling Haaland and Bruno Fernandes in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9ccb/live/718bc0c0-ae35-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Farndale
+- UK
+people:
+- Kevin Hollinrake
+- Richard Bailey
+organisations:
+- Conservative Party
+- Defra
+- Malton
+- NFU
+- Opinium Research
+- Peak District Moorland Group
+- Peakland Environmental Farmers
+- Thirsk
+- Yorkshire Dales Moorland Group
 ---
 
 # Call to put wildlife prevention on equal footing

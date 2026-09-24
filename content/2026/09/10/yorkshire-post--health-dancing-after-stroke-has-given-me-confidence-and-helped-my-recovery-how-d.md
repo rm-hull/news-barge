@@ -15,6 +15,17 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- NHS
+- Sheffield
+people:
+- Janet Pepler
+- Tracey Barnes
+organisations:
+- Dancing for Health CIC
+- Dancing for Health’s Stepping Forward
+- Salvation Army Citadel
+- Stepping Forward
 ---
 
 # 'Dancing after stroke has given me confidence and helped my recovery' - How Dancing for Health programme is changing lives in Sheffield

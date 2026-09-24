@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/12956218.jpg?type=og-image&xType=0&yType=19
+locations:
+- PA
+people: []
+organisations:
+- DVLA
+- Waitrose
 ---
 
 *(Image: PA)*

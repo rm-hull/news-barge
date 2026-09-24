@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Ellerbeck Way
+- Stokesley Business Park
+people:
+- Cheri Higgins
+organisations:
+- Cleveland Police
+- Rosedene Nurseries
+- Rosedene Stokesley Forest School
 ---
 
 *(Image: Supplied)*

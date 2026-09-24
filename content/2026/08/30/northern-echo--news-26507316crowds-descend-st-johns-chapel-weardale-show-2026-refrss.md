@@ -12,6 +12,21 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Darlington
+- Durham Dales
+- St John’s Chapel
+people:
+- Jason Arnup
+- Nicola Galvin
+organisations:
+- NORTHERN ECHO
+- Walworth Birds of Prey
+- Weardale Agricultural Society
+- Weardale Railway Santa Express Flying Scotsman
+- Weardale Show
+- Wensleydale Show
 ---
 
 Crowds descended on St John’s Chapel in County Durham on Saturday as the Weardale Show returned for its 156th year.

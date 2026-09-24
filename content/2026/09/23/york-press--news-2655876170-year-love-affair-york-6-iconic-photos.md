@@ -13,6 +13,50 @@ categories:
 - Travel
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21467662.jpg?type=og-image
+locations:
+- Arrive York
+- England
+- Holgate Windmill
+- Hollywood
+- Minster
+- Miss Lake
+- North Eastern Railway
+- Northallerton
+- Pavement
+- Petergate
+- Rotherham
+- Rowntree Wharf
+- Scarborough
+- Shambles
+- York Station
+people:
+- Baloo
+- George Andrews et al
+- George Waud
+- Maxine Gordon
+- Rowntree
+- Tangmere
+- Thomas Prosser
+- Walk
+- Walter Penty
+- William Thackray
+- York
+organisations:
+- '**York St John University'
+- Castle Museum
+- Herringthorpe Junior
+- Holgate Windmill
+- NQ
+- Preservation Society
+- Rowntree's Wharf
+- St Leonard
+- Teacher Training College
+- The Press
+- Visit Railway Museum
+- York Library
+- York Press
+- York St John University
+- York Station
 ---
 
 ## 'My 70-year love affair with York – in 6 iconic photos'

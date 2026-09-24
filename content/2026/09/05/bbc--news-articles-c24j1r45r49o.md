@@ -14,6 +14,34 @@ categories:
 - Careers & Productivity
 - Self-Improvement
 - Family & Parenting
+locations:
+- Danni
+- Jordan
+- London
+- Portsmouth
+- Stockport
+- UK
+- US
+people:
+- Afua Williams
+- Ana Catalano Weeks
+- Anita Cleare
+- Leah Ruppaner
+- Mums
+- Natalie Heptinstall
+- Natasha Wallace
+- Sam Berry
+- Sophia
+- Stacie Matthias
+- Zach Watson
+organisations:
+- Afua Williams
+- BBC News
+- Parent Switch
+- Reddit
+- The Work
+- University of Bath
+- University of Melbourne
 ---
 
 ![A woman holds a calendar and is writing things down, while a small child peers at the calendar](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3208/live/d6a01a10-a6c9-11f1-b109-879e35c24276.jpg)

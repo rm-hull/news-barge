@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A66
+- Acklam
+- Hartlepool
+- Middlesbrough
+- Teesside Crematorium
+people:
+- Cole Worthy
+- John Wrintmore
+- Pc Matthew Blades
+- Pc Tom Clough
+organisations:
+- Cleveland Police
+- Teesside Crematorium
 ---
 
 A 39-year-old man has been arrested at the funeral held for one of the five young men who were killed in a head-on collision with police on the A66, which also killed two armed officers.

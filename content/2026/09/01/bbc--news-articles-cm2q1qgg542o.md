@@ -11,6 +11,29 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3261/live/b6217a
 categories:
 - UK
 - News & Politics
+locations:
+- Argentina
+- Atlantic Ocean
+- Britain
+- Falkland Islands
+- Falklands
+- Iran
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Keir Starmer
+organisations:
+- BBC
+- Houses of Parliament.
+- Nato
+- Pentagon
+- Politics Essential
+- Reuters
+- The Daily Telegraph
+- The Times
 ---
 
 ![Donald Trump is wearing a blue jacket, blue tie and a white shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg)

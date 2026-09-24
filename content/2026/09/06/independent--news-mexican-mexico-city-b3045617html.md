@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Hidalgo
+- Huejutla
+- Mexico City
+- Mexico State
+- Nuestra Señora de la Luz
+- Temascalcingo
+people: []
+organisations:
+- Mexico State Attorney General’s Office
 ---
 
 Pyrotechnic material exploded during the festival for a patron saint in a town in Mexico State, collapsing a wall, killing at least 10 people and injuring another 64, Mexican authorities said.

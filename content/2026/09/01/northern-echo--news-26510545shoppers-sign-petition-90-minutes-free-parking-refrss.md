@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- UK
+people:
+- Jackson Szabo
+- Jeff Banks
+organisations:
+- Getty
+- JD Wetherspoon
+- Spring & Autumn Fair
+- Vinted
+- Voice of Retail
+- Warehouse
 ---
 
 *(Image: Getty)*

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Britain
+- Europe
+- Folkestone
+- France
+- Greece
+- Port of Dover
+- Schengen Area
+- Spain
+- UK
+people: []
+organisations:
+- EES
+- EU
+- Eurostar
+- Eurotunnel Le Shuttle
+- St Pancras International
 ---
 
 *(Image: Getty)*

@@ -14,6 +14,22 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- Knaresborough
+- North Bar
+people:
+- Lou Haigh
+- Simon Cotton
+- Tom Gordon
+organisations:
+- Burnham Government
+- HRH Group
+- Lib Dem
+- NICS
+- NMW
+- The Fat Badger
+- The Yorkshire Hotel
 ---
 
 Tom Gordon, the Liberal Democrat MP for Harrogate and Knaresborough, has hit the ground running in Parliament this week, raising local concerns with the First Secretary of State following his roundtable local hospitality representatives from across the local area.

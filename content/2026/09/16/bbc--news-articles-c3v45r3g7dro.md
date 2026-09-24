@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BBC South East
+- Brighton
+- Canterbury
+- Cobham
+- England
+- Kent
+- London
+- South East
+- Surrey
+- Sussex
+- Wales
+- Wingham
+people:
+- Andrew Gibson
+- Chris Thoday
+- James
+- Lisa Carlson
+- Lisa Perretta
+- Nick Strickland
+- Olivia Carroll
+- Paige Mengers
+- Paul Stoner
+organisations:
+- BBC Radio Surrey
+- BBC South East
+- BBC Surrey
+- BCRP
+- Brighton and Hove Business Crime Reduction Partnership
+- CCTV
+- Canterbury Bid
+- Canterbury Business Improvement District
+- City Watch
+- Elmbridge
+- Gibson's Farm Shop
+- Home Office
+- Hove Business Crime Reduction Partnership
+- Kent Police
+- Sussex Police
 ---
 
 ![Paige is standing in front of a clothing rack on her shopfloor at her store in Surrey. She is wearing a cream jacket and black glasses.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4a1e/live/a69b8900-aaf0-11f1-8a1d-abc218f78e81.jpg)

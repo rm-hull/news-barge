@@ -11,6 +11,28 @@ description: The family-focused AI assistant wants access to the details of your
 image: https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847
 categories:
 - Technology & Software
+locations:
+- Lindy
+- Reclaim.ai
+- Town
+people:
+- Bill Lennon
+- Ollie
+organisations:
+- AI House
+- Cognition
+- Fambot
+- Folk
+- Groundwork
+- Khosla Ventures
+- Ohai
+- Ollie
+- Plaid
+- Poke
+- Saner.ai
+- TechCrunch
+- Terms of Service
+- Tomo
 ---
 
 For an AI assistant to become truly useful, it first has to know a lot about you. Ollie, a personal assistant for everyday life, is betting that doesn’t mean you have to hand over all your data and sacrifice your privacy in the process.

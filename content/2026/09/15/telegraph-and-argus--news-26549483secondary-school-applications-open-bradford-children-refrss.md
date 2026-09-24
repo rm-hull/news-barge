@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- Bradford
+people:
+- Sally Birch
+organisations:
+- Bradford Council
+- Newsquest
 ---
 
 *(Image: Newsquest)*

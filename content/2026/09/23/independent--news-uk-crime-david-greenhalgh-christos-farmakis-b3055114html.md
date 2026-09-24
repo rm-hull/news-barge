@@ -12,6 +12,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/06/11/19/01KTVMXVC4MJ9F3TDESAGC545V.jpg?trim=1207,0,1207,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Croydon
+- Greece
+- Libya
+- North Macedonia
+- South Sudan
+- Southwark Crown Court
+- UK
+people:
+- Christos Farmakis
+- David Greenhalgh
+- Edmund Burge KC
+- Edwige Hill
+- James Hines KC
+- Sally-Ann Hales KC
+organisations:
+- Airservices
+- GLE
+- Greater London Enterprise
+- HMRC
+- HMRC’s Fraud Investigation Service
+- UK Government
+- UK Trade & Investment
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Kanye West
+- New York City
+- Restore
+- UK
+- US
+- White House
+people:
+- Breitbart
+- Dan Wootton
+- Donald Trump
+- Laura Loomer
+- Mike Graham
+- Milo Yiannopoulos
+- Nigel Farage
+- Raheem Kassam
+- Rupert Lowe
+- Stephen Yaxley-Lennon
+- Steve Bannon
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- Breitbart News
+- CPAC
+- Conservative Political Action Conference
+- Daily Telegraph
+- Department of Homeland Security
+- GB News
+- GBN
+- Guardian
+- Maga
+- Reform UK
+- TalkTV
+- Trump
 ---
 
 As he arrives back in the UK after being deported from the US by the Trump administration, the far-right provocateur Milo Yiannopoulos may be wondering what lies ahead for him in his native country.

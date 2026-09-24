@@ -14,6 +14,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/13764897.jpg?type=og-image
+locations:
+- Chelwood Drive
+- Gibraltar
+- Harrogate
+- Leeds
+- Singh
+- Spain
+- York
+people:
+- Ian Sharp
+- Sean Morris
+- Sukhdev Singh
+organisations:
+- Harrogate Borough Council
+- Leeds Magistrates’ Court
+- North Yorkshire Police
+- North Yorkshire Police’s Economic Crime Unit
+- The Press
+- York Crown Court
 ---
 
 A LYING former accountant has been jailed for an additional five years after failing to pay a confiscation order linked to a fraud conviction that saw him gain over a million pounds from a vulnerable victim.

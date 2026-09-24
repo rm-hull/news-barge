@@ -13,6 +13,15 @@ categories:
 - Home, Garden & DIY
 - Society & Culture
 image: https://mmo.aiircdn.com/409/6aa7d4d5b8635f45d80.jpg
+locations:
+- North Yorkshire
+- UK
+people:
+- Carl Les
+- Cllr Les
+- Deo
+organisations:
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa7d4d5b8635f45d80.jpg)

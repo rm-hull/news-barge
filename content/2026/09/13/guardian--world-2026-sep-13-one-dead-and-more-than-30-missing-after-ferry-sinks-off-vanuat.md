@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ambae
+- Luganville
+- New Caledonia
+- Santo
+- Vanuatu
+people:
+- Jotham Napat
+- Matai Seremaiah
+organisations:
+- Agence France-Presse
+- French Armed Forces
+- MV Matui
+- Maritime Rescue Coordination Centre
+- Reuters
 ---
 
 One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says.

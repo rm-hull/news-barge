@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Chicago
+- Grafton
+- Massachusetts
+- Middlesex County Superior Court
+- Nashua River
+- New Hampshire
+- Pepperell
+- South Side
+people:
+- Al Somma
+- Andrew MacLean
+organisations:
+- Boston.com
+- Pepperell
+- The Independent
+- WGNTV
 ---
 
 The odor of “dead fish” emanating from a Massachusetts property is so intense that the town has resorted to legal action, according to a new report.

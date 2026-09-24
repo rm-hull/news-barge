@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Darlington
+- Lightwater Valley
+- North East
+- North Yorkshire
+- Ripon
+- Teesside
+- UK
+people:
+- James Mellors
+organisations:
+- Mellors Group
+- West End
 ---
 
 *(Image: Lightwater Valley)*

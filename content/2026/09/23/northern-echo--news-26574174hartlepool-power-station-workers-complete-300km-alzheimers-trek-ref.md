@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21490421.jpg?type=og-image&xType=0&yType=39
+locations:
+- Bay
+- Coast-to-Coast
+- Cumbria
+- Hartlepool
+- North Yorkshire
+- Robin Hood
+- St Bees
+- UK
+people:
+- Alzheimer
+- Jack Coombs
+- Matty Secker
+organisations:
+- Alzheimer’s Society
+- EDF
 ---
 
 *(Image: Provided)*

@@ -13,6 +13,28 @@ categories:
 - York
 - Food & Cooking
 - Travel
+locations:
+- A CITY
+- Gillygate
+- UK
+- York
+- Yorkshire
+people:
+- Chris Pragnell
+- Haydn Lewis
+- Ian Pragnell
+- Ian Pragnell.
+- Lucie Wake
+- Martin Gore
+organisations:
+- Bistro
+- Café No 8
+- Good Food Guide
+- Harden’s
+- Newsquest
+- Olive
+- SquareMeal
+- The Good Food Guide
 ---
 
 ## 'Local gem' York bistro named one of UK’s best informal fine-dining restaurants

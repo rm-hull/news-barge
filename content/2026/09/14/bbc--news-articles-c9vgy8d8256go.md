@@ -11,6 +11,32 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba72/live/d553bf
 categories:
 - UK
 - News & Politics
+locations:
+- Gaza
+- Italy
+- State of Israel
+- UK
+- West Bank
+people:
+- Avigdor Lieberman
+- Brig-Gen Effie Defrin
+- Miki Zohar
+- Naftali Bennett
+- Odeh Hathaleen
+- Rachel Szor
+- Shlomi Elkabetz
+- Yuval Abraham
+organisations:
+- Associated Press
+- Guardian
+- Hamas
+- Hind Rajab
+- IDF
+- Interior Ministry
+- Israel Defense Forces
+- N12
+- Naza
+- UN
 ---
 
 ![Directors Yuval Abraham and Rachel Szor hold the Special Jury Award for their documentary film, Naza, during the closing ceremony of the 83rd Venice International Film Festival, Italy (12 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg)

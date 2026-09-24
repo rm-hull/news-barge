@@ -11,6 +11,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/9ydusJngspE6Lvc3RSYuFo-970-80.jpg
+locations:
+- UK
+people:
+- Mike Moore
+- Oscar Rodriguez
+organisations:
+- Adobe
+- B2B
+- B2C
+- Company Page Admins
+- Google News
+- ITProPortal
+- LinkedIn
+- Peerspot
+- TechRadar Pro
+- Truecaller
+- VP of Trust Product
 ---
 
 ![Business software](https://cdn.mos.cms.futurecdn.net/9ydusJngspE6Lvc3RSYuFo.jpg)

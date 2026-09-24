@@ -12,6 +12,51 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/03/07/1200x675_cmsv2_8bfb0390-527d-5d0c-b2e9-1d293db2b860-9920307.jpg
+locations:
+- America
+- Atlantic
+- Australia
+- Brussels
+- Canada
+- Carney
+- China
+- Davos
+- Ettersberg
+- Europe
+- France
+- New Zealand
+- Ottawa
+- Russia
+- Strasbourg
+- US
+- USA
+people:
+- Christine Lagarde
+- Donald Trump
+- Goethe
+- Maria Tadeo
+- Mario Draghi
+- Mark Carney
+- Nur der verdient sich Freiheit wie das Leben
+- Putin
+- Roberta Metsola
+- Ursula von der Leyen
+- Vincenzo Genovese
+- Von der Leyen
+- Xi
+- von der Leyen
+organisations:
+- BFF
+- CETA
+- Canada-EU
+- Commissioners
+- EU
+- Euronews
+- Euronews’
+- European Commission
+- European Parliament
+- NATO
+- State of the Union
 ---
 
 ## Each week, Euronews’ chief Europe editor Maria Tadeo debriefs the ins and outs of continental politics. This week, reporting from Strasbourg, she examines the EU’s pitch for associate membership for Canada.

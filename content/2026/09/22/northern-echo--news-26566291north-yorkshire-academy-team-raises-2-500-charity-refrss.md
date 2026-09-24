@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21479024.jpg?type=og-image
+locations:
+- Auckland
+- County Durham
+- Darlington
+people:
+- Codey Austin
+- Jade Franklin
+- Lois Best
+- Lucy Mulryan
+- Lucy Wilson
+- Simon Whitehead
+- Zain
+organisations:
+- If U Care Share Foundation
+- King James I Academy
+- Macmillan Cancer Support
+- St Teresa’s Hospice
+- Teenage Cancer Trust
 ---
 
 Staff and a sixth-form student from a County Durham academy raised more than £2,500 for charity by tackling the Great North Run.

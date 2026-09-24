@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Dublin
+- Europe
+- Ireland
+- UK
+people:
+- Heidi Alexander
+- Michael O’Leary
+- O’Leary’s
+- Simon Harris
+organisations:
+- Aer Lingus
+- BA
+- Dublin Rape Crisis Centre
+- Fine Gael
+- LBC
+- Lufthansa
+- Press Association
+- Rape Crisis England
+- Ryanair
+- Transport Secretary
+- Wales
 ---
 
 The boss of Ryanair’s comparison of other airlines to “rapists” will have lost his company the confidence of women who have been subject to sexual assault, the Transport Secretary has said.

@@ -12,6 +12,42 @@ image: https://images.euronews.com/articles/stories/09/89/46/72/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Aarau
+- Budapest
+- Devighat
+- Europe
+- Iceland
+- Joint Base Andrews
+- Kazakhstan
+- Keystone
+- Kyiv
+- Liberty Bridge
+- Md.
+- Nepal
+- New Tashkent
+- Nuwakot
+- Oslo
+- Paris
+- Reykjavik City Hall
+- Royal Palace
+- Schachen
+- Switzerland
+- US
+- Ukraine
+- Uzbekistan
+- Venezuela
+people:
+- Céline Dion
+- Donald Trump
+- Harald V
+- Michael Buholzer
+organisations:
+- Air Force One
+- EU
+- Euronews
+- Royal Monceau
+- Vibeke Andersen
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

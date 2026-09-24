@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Newcastle
+- North East
+people:
+- Dan Tucker
+- Gulfareen Chohdry
+- Runner
+- Sergio Petrucci MBE
+- Zain
+organisations:
+- Children's Heart Unit
+- Freeman Hospital
+- Mini Great North Run
+- Red Sky
+- Red Sky Foundation
+- Thorp Academy
+- Zain
 ---
 
 *(Image: Supplied)*

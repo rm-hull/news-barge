@@ -12,6 +12,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford Live
+- Liverpool
+- Odeon
+- UK
+people:
+- Bingo
+- Henry
+- John Johnson
+- Jonny Bongo
+organisations:
+- BONGO'S Bingo
+- Bongo’s Bingo
+- Bradford
 ---
 
 *(Image: John Johnson)*

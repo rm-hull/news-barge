@@ -12,6 +12,31 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/20/17/2295686292..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Aden
+- Asia
+- Bab el-Mandeb Strait
+- Gulf
+- Iran
+- Islamic Republic
+- Middle East
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- Washington
+- Yanbu
+- Yemen
+people:
+- Mohammad Baqer Qalibaf
+organisations:
+- Reuters
+- State Department
+- US Department of Defense
+- US State Department
 ---
 
 Iran issued a warning on Sunday against any major new offensive by the U.S. and its partners, saying it had intelligence that such an offensive move was being organized, heightening anxiety across a region already unsettled after recent drone and missile strikes on Saudi Arabia.

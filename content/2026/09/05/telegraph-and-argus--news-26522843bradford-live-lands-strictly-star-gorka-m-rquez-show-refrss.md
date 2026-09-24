@@ -12,6 +12,31 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Blackpool
+- Bradford Live
+- Spain
+people:
+- Alexandra Burke
+- Elton John
+- GORKA Márquez
+- Gemma Atkinson
+- Gorka Márquez
+- Helen Skelton
+- Mariah Carey
+- Michael Bublé
+- Slade
+- Stuart Glover
+- Tom Madge
+- Whitney Houston
+organisations:
+- FIREDANCE
+- Feliz Navidad
+- ShowPlanr
+- Spice Girls
+- The Professionals
+- Xmas Dolls
+- the Stars
 ---
 
 *(Image: Supplied)*

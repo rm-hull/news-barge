@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Australia
+- UK
+people:
+- Emily McGrath
+- Juliet Bouverie
+organisations:
+- British Heart Foundation
+- British Journal of Sports Medicine
+- Monash University
+- Stroke Association
 ---
 
 Walking at a quicker pace could offer identical health benefits to longer, more leisurely strolls, according to a new study.

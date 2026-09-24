@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - Sports
 - Film & TV
+locations: []
+people:
+- Matthew Rhys
+organisations: []
 ---
 
 # Superstars and broken records: 2026 Emmy highlights

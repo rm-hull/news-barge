@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Holywell Heights
+- PA
+- Sheffield
+- Wincobank
+people:
+- Emma Knight
+organisations:
+- South Yorkshire Police
 ---
 
 *(Image: PA)*

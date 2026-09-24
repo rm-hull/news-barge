@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Massachusetts
+people:
+- Elyse Hershon
+- Heather Cucolo
+- Jennifer Sprague
+- Lindsay Clancy
+organisations:
+- BBC
+- New York Law School
 ---
 
 ![Lindsay Clancy in court](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg)

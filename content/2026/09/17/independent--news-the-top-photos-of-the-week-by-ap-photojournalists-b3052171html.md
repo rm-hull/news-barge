@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations: []
+people:
+- Anita Baca
+organisations:
+- The Associated Press
 ---
 
 Sept. 11 - 17, 2026 This photo gallery, curated by photo editor Anita Baca, highlights some of the most compelling images worldwide published by The Associated Press in the past week.

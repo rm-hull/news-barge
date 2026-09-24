@@ -15,6 +15,19 @@ categories:
 - Business & Entrepreneurship
 - Self-Improvement
 image: https://static.independent.co.uk/2026/03/22/16/11/0P4A1924-2.jpeg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+- sub-Saharan Africa
+people:
+- Courtenay Howe
+- Kirsty McNeill
+organisations:
+- Global Fund
+- Global Fund to Fight AIDS, Tuberculosis and Malaria
+- ODA
+- STOPAIDS
+- The Independent
+- UNAIDS
 ---
 
 It’s not about one country having all the answers and another having all the questions,” Kirsty McNeill, the minister for international development and Africa, said this week, describing the UK’s approach to partnerships, “but instead, bringing together different strengths to achieve far more than either of us could alone.”

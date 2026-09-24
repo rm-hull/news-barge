@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Education & Learning
+locations:
+- UK
+people:
+- AI
+- Craig Hale
+organisations:
+- '## AI'
+- Craig’s
+- Google News
+- New YouGov
+- TechRadar Pro
 ---
 
 ![Teacher using a smartphone at his desk with blackboard behind](https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44.jpg) 

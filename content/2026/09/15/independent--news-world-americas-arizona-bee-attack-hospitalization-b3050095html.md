@@ -13,6 +13,22 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations:
+- Arizona
+- California
+- Chandler
+- Lookout Mountain
+- Ocotillo
+- Phoenix
+- Santa Clara
+- U.S.
+people: []
+organisations:
+- ABC15 Arizona
+- Chandler Fire Department
+- Facebook
+- Intel
+- Phoenix Fire Department
 ---
 
 Three people have been hospitalized as a massive swarm of bees invaded an Intel manufacturing campus in Arizona and terrorized employees.

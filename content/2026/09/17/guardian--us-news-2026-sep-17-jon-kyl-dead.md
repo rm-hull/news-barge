@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/ad309bdaff1a93653eb3d99e2899e4d2433b197e/7
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- US House
+people:
+- Anthony Kennedy
+- Brett Kavanaugh
+- Donald Trump
+- Doug Ducey
+- John McCain
+- John Thune
+- Jon Kyl
+- Katie Hobbs
+- Martha McSally
+organisations:
+- Congress
+- Senate
 ---
 
 Jon Kyl, a Republican former US senator from Arizona who shepherded conservative supreme court justice Brett Kavanaugh through his confirmation hearing, died on Thursday at 84, his family announced.

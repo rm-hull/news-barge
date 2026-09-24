@@ -13,6 +13,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Oswaldkirk
+- Ryedale
+- The Terrace
+people:
+- George Jabbour
+- Mike Aherne
+- Oswaldkirk
+organisations:
+- North Yorkshire Council
+- Yorkshire Water
 ---
 
 *(Image: Freelancer)*

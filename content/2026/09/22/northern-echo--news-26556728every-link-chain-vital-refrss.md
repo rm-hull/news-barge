@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21464659.jpg?type=og-image&yType=81
+locations:
+- Cummins’
+- Darlington
+- North East
+- UK
+- Yarm Road
+people:
+- Cummins
+- Nick Horn
+organisations:
+- Cummins Darlington
+- Cummins’
+- Darlington Campus
 ---
 
 Brought to you by

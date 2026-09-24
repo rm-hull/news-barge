@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Dallas
+- Iran
+- White House
+people:
+- Biden
+- Robert F. Kennedy Jr.
+- Trump
+organisations:
+- DHS
+- Department of Health and Human Services
+- GOP
+- HHS
+- RFK Jr.’s
+- Trump
 ---
 
 Health Secretary Robert F. Kennedy Jr. spread a conspiracy theory blaming the Biden administration for creating a “child trafficking ring” during his primetime speech Thursday evening at the Republican convention in Dallas.

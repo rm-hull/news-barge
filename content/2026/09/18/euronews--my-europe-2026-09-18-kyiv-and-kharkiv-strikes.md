@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- Balakliia
+- Kharkiv
+- Kursk
+- Kyiv
+- Odesa
+- Russia
+- Ukraine
+people:
+- Rafael Grossis
+- Vitali Klitschko
+- Vitalii Karabanov
+organisations:
+- Balakliia
+- IAEA
+- International Atomic Energy Agency
+- Kursk Nuclear Power Plant
+- Telegram
 ---
 
 ## The International Atomic Energy Agency said it has been informed of the strike on the Kursk nuclear power plant and said it was not on fire despite being operational at the time

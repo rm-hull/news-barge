@@ -13,6 +13,32 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/19/18/Congo_Ebola_Burial_Teams_77424.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bas-Uele
+- Bundibugyo Ebola
+- Bunia
+- Congo
+- Guinea
+- Haut-Uele
+- Ituri
+- Kisangani
+- Liberia
+- Maj
+- Mongbwalu
+- North Kivu
+- Sierra Leone
+- Tshopo
+- West Africa Ebola
+- Zaire
+people:
+- Ervebo
+- Gaby Kasongo Mulumba
+- Jean Paul Uzele
+- Jeannot Elua
+organisations:
+- Ervebo
+- The Associated Press
+- World Health Organization
 ---
 
 Congo on Saturday began vaccinating healthcare staff against Ebola in Bunia, the epicenter of the fastest-growing outbreak of the disease in history as they are “particularly exposed and deeply involved in the response,” the provincial governor said.

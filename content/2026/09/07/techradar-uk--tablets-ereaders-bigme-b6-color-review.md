@@ -10,6 +10,58 @@ description: This Kindle Colorsoft alternative beats Amazon's offering on value,
 image: https://cdn.mos.cms.futurecdn.net/bhpUjB384FaJRPjsdzrx4k-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Australia
+- Colorsoft
+- JoyBuy
+- London
+- Newegg
+- UK
+- US
+people:
+- Bigme
+- Dashiell Wood
+- Libby
+organisations:
+- AI
+- AZW3
+- AliExpress
+- Amazon Kindle
+- Amazon Kindle Colorsoft
+- Android
+- BMP
+- Bigme
+- BigmeGPT
+- CBZ
+- Dash
+- EPUB
+- EPUB3
+- Edge
+- FlePub
+- GIF
+- Google Play Books
+- Google Play Store
+- HTML
+- Instagram
+- Internet Archive
+- JPEG
+- Kaleido
+- Kobo Books
+- Kobo Clara Color
+- Kobo-maker Rakuten
+- MOBI
+- Official PlayStation Magazine UK
+- PC Gamer
+- PDF
+- PLAY
+- PNG
+- RTF
+- SFX
+- TIFF
+- TXT
+- TechRadar
+- WPS
 ---
 
 ### TechRadar Verdict

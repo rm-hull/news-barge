@@ -14,6 +14,38 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Afghanistan
+- America
+- Arizona
+- California
+- Connecticut
+- Fairfield
+- Middle Eastern
+- New York City
+- Pearl Harbor
+- Pennsylvania
+- U.S.
+- United States
+- Washington, D.C.
+people:
+- Amy Sodaro
+- Ariel Jacobs
+- Balbir Singh Sodhi
+- Daniel Aldrich
+- Gabi
+- Gabriel
+- Jayesh Rathod
+- Jenna McPartland
+- Vida Lashgari
+organisations:
+- Borough of Manhattan Community College
+- Department of Homeland Security
+- Georgetown Law
+- Immigration and Customs Enforcement
+- Northeastern University
+- Transportation Security Administration
+- World Trade Center
 ---
 
 When the planes crashed and the buildings fell on that sunny September morning 25 years ago, the shock waves of dismay and grief went far past downtown New York City, rural western Pennsylvania and just outside Washington, D.C.

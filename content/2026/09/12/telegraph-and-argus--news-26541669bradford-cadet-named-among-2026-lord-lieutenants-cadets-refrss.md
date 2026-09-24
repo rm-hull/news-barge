@@ -14,6 +14,28 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Bradford
+- Huddersfield Army Reserve Centre
+- West Yorkshire
+people:
+- Adeeba Malik CBE
+- Ethan Bowles
+- Rachel Stones
+- Shreya Patel
+organisations:
+- 44F
+- Air Cadets
+- Armed Forces
+- Bradford Grammar School CCF
+- Cadet Flight
+- Humber
+- Lord-Lieutenant’s Cadets
+- Odsal Detachment
+- Reserve Forces and Cadets Association for Yorkshire
+- Reserve and Cadet Forces
+- Squadron
+- Yorkshire ACF, D Company
 ---
 
 *(Image: Supplied)*

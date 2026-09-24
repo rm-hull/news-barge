@@ -16,6 +16,18 @@ categories:
 - History
 - Arts & Culture
 - Society & Culture
+locations:
+- Black Squares Bridge
+- Castle Eden Walkway
+- Crawford’s Bridge
+- YOUR
+people:
+- Nigel Cooke
+- Stephen Psallidas
+organisations:
+- Google Maps
+- Public Notice Portal
+- Stockton Borough Council
 ---
 
 *(Image: Stockton Borough Council)*

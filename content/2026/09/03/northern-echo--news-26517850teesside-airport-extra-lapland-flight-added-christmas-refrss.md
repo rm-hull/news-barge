@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alicante
+- Finnish Lapland
+- Newcastle
+- North East
+- Swedish Lapland
+- Teesside Airport
+people:
+- Father Christmas
+- Santa
+organisations:
+- Bank Holiday Seats
+- Cadbury
+- Teesside Airport
+- Teesside Airports
+- Transun
 ---
 
 A magical day trip to Lapland from a North East airport has proved so popular that an extra festive-season flight has been added.

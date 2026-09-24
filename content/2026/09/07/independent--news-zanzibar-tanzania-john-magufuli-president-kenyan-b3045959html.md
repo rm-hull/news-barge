@@ -13,6 +13,18 @@ categories:
 - UK
 - Health & Fitness
 - Society & Culture
+locations:
+- Burundi
+- Tanzania
+- Zanzibar
+people:
+- Deogratius Ndejembi
+- Evariste Ndayishimiye
+- Hafidh Ameir Hassan
+- John Magufuli
+- Samia Suluhu Hassan
+- William Ruto
+organisations: []
 ---
 
 The husband of Tanzania’s President Samia Suluhu Hassan died Monday while undergoing treatment in a hospital in Zanzibar, the country’s vice president said.

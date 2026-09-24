@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- California
+- MGM Grand
+- Seattle
+people:
+- Casey Rain
+- Duane “Keffe D” Davis
+- Julian Wilson
+- Kelly Wilson
+- Orlando Anderson
+- Revenge
+- Tupac Shakur
+organisations: []
 ---
 
 A criminal conviction this week in the murder of Tupac Shakur, the first since the rapper was gunned down in 1996, sent shockwaves through his sea of fans who have waited three decades for answers.

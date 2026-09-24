@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - True Crime
 - Law & Justice
+locations:
+- Countess of Chester Hospital
+- Hereford
+- Liverpool Town Hall
+people:
+- Baby A
+- Baby B
+- Baby C
+- Baby E
+- Baby F
+- Baby J
+- Dad
+- Justice Thirlwall
+- Lucy Letby
+organisations:
+- CCRC
+- Criminal Cases Review Commission
+- Lady Justice Thirlwall
+- OSCE
+- Thirlwall Inquiry
 ---
 
 ![Image shows Lucy Letby, wearing a blue hooded top, being led in handcuffs from her house, in footage captured on a police body camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8230/live/82d26b60-b0ea-11f1-b1d1-571ed4d7ff2c.jpg)

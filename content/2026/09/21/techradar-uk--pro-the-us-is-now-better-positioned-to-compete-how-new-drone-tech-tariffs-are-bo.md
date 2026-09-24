@@ -11,6 +11,43 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC-2560-80.jpg
+locations:
+- China
+- Europe
+- Japan
+- Lantronix
+- Liechtenstein
+- Minnesota
+- Plymouth
+- Republic of Korea
+- Switzerland
+- Taiwan
+- U.S.
+- UK
+- US
+- Ukraine
+- United Kingdom
+people:
+- Benedict Collins
+- Saleel Awsare
+- Trump
+organisations:
+- APT
+- BUCSIS
+- Blue UAS
+- DJI
+- EU
+- European Union
+- Google News
+- Lantronix
+- Latronix
+- McDonalds
+- NDAA
+- SOM
+- TechRadar Pro
+- US Commerce Department
+- University of Buckingham Centre for Security and Intelligence Studies
+- Unmanned Autonomous Vehicles
 ---
 
 ![A military drone in flight observing positions](https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC.jpg)

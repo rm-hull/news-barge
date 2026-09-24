@@ -13,6 +13,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Nevada
+- New Jersey
+- States
+people:
+- Dani Lever
+- Donald Trump
+- Kalshi
+organisations:
+- Barron’s
+- Commodity Futures Trading Commission
+- Kalshi Spokesperson
+- Lever
+- NPR
+- Ninth Circuit Court of Appeals
+- Polymarket
+- Supreme Court
+- The Independent
+- Third Circuit Court of Appeals
+- Trump
 ---
 
 Kalshi won’t let users bet whether the Supreme Court will hear a case that could upend the prediction market’s regulatory future, a spokesperson for the companyclaims.

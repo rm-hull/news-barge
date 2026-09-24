@@ -13,6 +13,66 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Aysgarth Falls
+- Beechwood Shepherd
+- Bolton Abbey
+- Bolton Castle
+- Brimham Rocks
+- Buttercrambe Moor Wood
+- Castle Howard
+- Catgill Farm
+- Dent
+- Dentdale Pods
+- Dovecote Barn
+- Galtres Treehouse
+- Hawes
+- Hepworth
+- Holme Valley
+- Holmfirth
+- Howardian Hills
+- Lake District
+- Leyburn
+- Masham
+- North York Moors
+- North Yorkshire
+- Old Harrow
+- Ripon
+- River Ure
+- Riverdale
+- Rowan
+- Sutton Park
+- Sutton Park Estate
+- Sutton-on-the-Forest
+- The Dreamery
+- The Dreamery Hideaway
+- The Plough
+- Uppargate Farm
+- Uppergate Farm
+- Wensleydale Creamery
+- West Tanfield
+- West Yorkshire
+- Yorkshire Dales
+- Yorkshire Dales’
+- britain
+- england
+- yorkshire
+people:
+- Klavs
+organisations:
+- Bluebell Shepherd
+- Bolton Abbey
+- Dentdale
+- Dreamery Gardens
+- Fountains Abbey
+- Highland Cow
+- Riverdale
+- The Butcher’s Arms
+- The Devonshire Arms
+- The Wensleydale Experience
+- The Woodland Kitchen
+- Yorkshire Dales National Park
+- Yorkshire Wolds
 ---
 
 *(Image: Canopy & Stars)*

@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- Norton
+- Vine Street
+people: []
+organisations: []
 ---
 
 ## Emergency services at scene of property fire in North Yorkshire

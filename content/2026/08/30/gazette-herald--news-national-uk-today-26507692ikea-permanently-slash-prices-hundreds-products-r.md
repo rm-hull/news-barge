@@ -14,6 +14,27 @@ categories:
 - York
 - Shopping & Deals
 - Business & Entrepreneurship
+locations:
+- Australia
+- Austria
+- Canada
+- Denmark
+- Germany
+- Hong Kong
+- Japan
+- Kuwait
+- Netherlands
+- Norway
+- Singapore
+- Sweden
+- Switzerland
+- UK
+- Warrington
+people:
+- Ingvar Kamprad
+organisations:
+- IKEA IKEA
+- KALLAX
 ---
 
 *(Image: IKEA)*

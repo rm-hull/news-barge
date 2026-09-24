@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Creator Economy & Marketing
+locations:
+- Chicago
+- Lake America
+- Lake Ontario
+- Munich
+- St. Louis
+people:
+- Instagram
+- Jeff Roberson
+- Kiichiro Sato
+organisations:
+- Google
+- Shorts
+- TikTok
+- YouTube
 ---
 
 ## YouTube's new "exposure-based model" counts a view from the first frame, across shorts, long-form videos, podcasts and livestreams, inflating creators' headline numbers without changing how much they actually get paid.

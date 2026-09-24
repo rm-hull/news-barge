@@ -13,6 +13,59 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Belarus
+- Dnipro
+- Dnipropetrovsk
+- Estonia
+- Europe
+- Germany
+- Leipzig Airport
+- Moscow
+- Podolsk
+- Russia
+- Saxony-Anhalt
+- Schkeuditz
+- Tallinn
+- US
+- Ukraine
+- United States
+people:
+- Alexander Throm
+- Axel Schmidt
+- Dan Sabbaghin Kyiv
+- Friedrich Merz
+- Ints Kalniņš
+- Kersti Kaljulaid
+- Mark Rutte
+- Matthew Whitaker
+- Oleksandr Hanzha
+- Pjotr Sauer Volodymyr Zelenskyy
+- Reuters Madise
+- Ursula von der Leyen
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- lawyerÜlle Madise
+- von der Leyen
+- Ülle Madise
+organisations:
+- AFP
+- AP
+- AfD
+- Alar Karis
+- Alliance
+- Allies
+- EU
+- European Commission
+- European Union
+- International Civil Aviation Organization
+- Kyiv
+- NDR
+- Nato
+- Reuters A
+- Süddeutsche Zeitung
+- WDR
+- Wildberries'
 ---
 
 A police officer in protective clothing walks next to an explosive-disarming robot at Leipzig airport in Schkeuditz, Germany, 5 August, 2026. Photograph: Axel Schmidt/Reuters

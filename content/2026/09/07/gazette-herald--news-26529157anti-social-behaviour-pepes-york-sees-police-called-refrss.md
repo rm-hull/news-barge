@@ -15,6 +15,14 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- North Yorkshire
+- Pepe’s
+- Piccadilly
+- York
+people: []
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

@@ -14,6 +14,45 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+- America
+- Arizona
+- Boise
+- Idaho
+- Indiana
+- Mount Pleasant
+- New York
+- Ohio One
+- South Korea
+- Taylor
+- Texas
+- U.S.
+- United States
+- Washington
+- West Lafayette
+- Wisconsin
+people:
+- Jon Taylor
+- Tom
+organisations:
+- AI
+- Arizona State University
+- CNBC
+- Get Tom's Hardware
+- Google News
+- HBM
+- Intel
+- Jowi Morales
+- McKinsey
+- Micron R&D
+- Ohio One
+- Purdue University
+- SEMI Foundation
+- SK hynix
+- SK hynix —
+- Samsung
+- TSMC Arizona Fab
 ---
 
 ![TSMC Arizona Fab 21 entrance](https://cdn.mos.cms.futurecdn.net/ouCnDodNxZsDysigzb7rsd.png) 

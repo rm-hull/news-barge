@@ -12,6 +12,28 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/18/48/Joachim-Lanham.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- East Country Club Road
+- Kansas City
+- Los Angeles
+- Missouri
+- New York
+- Norway
+- Salina
+- US
+- Wesley Medical Center
+- Wichita
+people:
+- Joachim Lanham
+- Michael
+- Scott Trembley
+organisations:
+- Instagram
+- Salina Regional Health Center
+- Saline County Attorney’s Office
+- Saline County Sheriff’s Office
+- Wichita Eagle
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

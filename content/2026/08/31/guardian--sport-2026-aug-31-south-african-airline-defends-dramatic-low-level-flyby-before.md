@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Cape Town
+- Cape Town Stadium
+- DHL Stadium
+- Johannesburg
+- New Zealand
+- South Africa
+people:
+- Chris Martinus
+- Keith Tonkin
+organisations:
+- Air Traffic Navigation Services
+- Aircraft Owners and Pilots Association South Africa
+- Airlink
+- Embraer
+- Flightradar24
+- Instagram
+- South African Civil Aviation Authority
 ---
 
 A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of around 56,000 people, but also sparked a major debate over safety risks.

@@ -14,6 +14,74 @@ categories:
 - News & Politics
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- Aberdeenshire
+- Bedfordshire
+- Cornwall
+- Cwmbran
+- Denbighshire
+- Devon
+- Essex
+- French Connection
+- Gateway
+- Gwynedd
+- Hampshire
+- Ireland
+- Kent
+- Lanarkshire
+- Lancashire
+- Leicestershire
+- Merseyside
+- Merthyr Tydfil
+- Mid Glamorgan
+- Nelson
+- Norfolk
+- Pantruthyn Farm
+- Pentrebach House
+- Ridgacre
+- Staffordshire
+- Suffolk
+- Swinging Bridge
+- The Bishopsgate
+- The Callywith
+- The Harbour
+- The Ormonde
+- The Showground
+- UK
+- West Midlands
+- Willow Farm
+- Yorkshire
+people:
+- Dominic Paul
+- John Milne
+- Lee Burn
+organisations:
+- 261 Whitbread
+- Ashbridge Inn
+- Balkerne Gate
+- Barley Twist
+- Barum Gate
+- Beefeater
+- Bowling Green
+- Brewers Fayre
+- Derby Lodge
+- Google Maps
+- Horse & Jockey
+- Langton Inn
+- Marine Court
+- Mill Of Mundurno
+- Morfa
+- Newsquest
+- Parc Britannia
+- Premier Inn
+- Queensway Inns
+- Red Lion
+- Smugglers Retreat
+- Stanhope Arms
+- Table Table
+- The Colliers
+- Trevithick Inn
+- Whitbread’s
 ---
 
 *(Image: Google Maps)*

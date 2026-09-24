@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- California
+- Florida
+- Minnesota
+- Tampa
+- U.S.
+people:
+- Donald Trump
+- Gregory W Kehoe
+- JD Vance
+- Kylie Leia Perez
+- Natalie Monroe
+- Nick Shirley
+- Ron Loecker
+- Thomas P. Barber
+organisations:
+- IRS
+- Instagram
+- Internal Revenue Service
+- National Fraud Enforcement Division
+- OnlyFans
+- Task Force
+- U.S. Attorney’s Office for the Middle District of Florida
+- U.S. Department of Justice
 ---
 
 An OnlyFans star who made millions from her content has been sentenced to a year in prison for filing a false tax return and non-payment of taxes.

@@ -17,6 +17,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Bay
+- Old Coastguard Station
+- Ravenscar
+- Robin Hood
+- Yorkshire
+people:
+- Brnedan Paddison
+- God
+organisations:
+- Dean of York Business School
+- National Trust
+- The Yorkshire Post
+- York St John University
 ---
 
 # Yorkshire tourism tax: are we worth it?

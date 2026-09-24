@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/WDffuQhncCk9VdDuCyomBg-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- CA
+- San Mateo
+people:
+- Elegoo Centauri
+organisations:
+- CORE One
+- Othisis
+- Prusa Research
+- Prusa Research XL
+- Tom's Hardware
 ---
 
 # 3D Printing

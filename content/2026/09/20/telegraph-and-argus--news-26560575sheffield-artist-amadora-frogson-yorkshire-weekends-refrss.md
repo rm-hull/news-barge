@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21191498.jpg?type=og-image&yType=210
+locations:
+- Abbeydale Road
+- Kelham Island
+- North Town
+- Peak District
+- Sheffield
+- South Yorkshire
+people:
+- Amadora Frogson
+organisations:
+- Domo
+- Sheffield Children’s Hospital Charity
+- YEA
 ---
 
 *(Image: Supplied)*

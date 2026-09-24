@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/R9z662sA3cqsW9oVrPfcsA-2000-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Garmin Connect
+people:
+- Alex Blake
+- Garmin Cirqa
+organisations:
+- Apple
+- CIRQA
+- Creative Bloq
+- Garmin Cirqa
+- Garmin Connect
+- Garmin Express
+- Garmin Fenix
+- Google News
+- Mac
+- MacFormat
+- TechRadar
+- iMore
 ---
 
 ![Garmin Cirqa](https://cdn.mos.cms.futurecdn.net/R9z662sA3cqsW9oVrPfcsA.jpg) 

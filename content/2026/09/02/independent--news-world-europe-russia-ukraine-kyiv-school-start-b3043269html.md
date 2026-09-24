@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Kharkiv
+- Kherson
+- Kyiv
+- Mykolaiv
+- Obolon
+- Russia
+- Sumy
+- Ukraine
+- War
+people:
+- Andrii Butenko
+- Anna Putsova
+- Darii
+- Oksana Herasymchuk
+- Yevhen Poliakov
+- Yevhen Yurko
+organisations:
+- Kyiv
+- Lyceum Obolon
 ---
 
 Balloons drifted over a schoolyard in Kyiv’s Obolon district on Tuesday, hours after Russian ballistic missiles shook the Ukrainian capital overnight.

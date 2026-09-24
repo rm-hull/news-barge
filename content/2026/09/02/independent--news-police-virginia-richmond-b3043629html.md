@@ -10,6 +10,18 @@ image: https://static.independent.co.uk/2026/09/02/17/Virginia_School_Emergency_
 categories:
 - News & Politics
 - UK
+locations:
+- Richmond
+- Virginia
+- Waynesboro
+people:
+- Abigail Spanberger
+- Ryan Barber
+organisations:
+- Augusta County Sheriff’s Office
+- Virginia School Emergency
+- WHSV-TV
+- Westwood Elementary School
 ---
 
 Virginia elementary school evacuated as police respond to emergency

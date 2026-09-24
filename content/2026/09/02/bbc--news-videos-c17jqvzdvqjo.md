@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- London
+- Sussex
+- UK
+people:
+- Duchess
+- Harry
+- Hugh Bonneville
+- Maya Jama
+- Meghan
+- Noor Nanji
+- Theo James
+organisations:
+- BBC
+- Duchess of Sussex
+- Netflix
+- The Gentlemen
 ---
 
 # Stars of The Gentlemen react to Meghan rumours

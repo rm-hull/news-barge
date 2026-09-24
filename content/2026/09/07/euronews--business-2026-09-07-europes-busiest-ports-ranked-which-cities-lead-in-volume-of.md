@@ -13,6 +13,56 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '## Sea'
+- Algeciras
+- Amsterdam
+- Antwerp-Bruges
+- Baltic Sea
+- Barcelona
+- Belgium
+- Black Sea
+- Bremerhaven
+- Canada.
+- Constanta
+- Dunkerque
+- Europe
+- France
+- Gdansk
+- Germany
+- Greece
+- Göteborg
+- Hamburg
+- Iceland
+- Iran
+- Italy
+- Marseille
+- Mediterranean Sea
+- Netherlands
+- Norway
+- Piraeus
+- Poland
+- Portugal
+- Romania
+- Rotterdam
+- Spain
+- Sweden
+- Trieste
+- Turkey
+- Valencia
+people:
+- Maroš Šefčovič
+organisations:
+- EFTA
+- EU Blue Economy Observatory
+- Euronews
+- European Commission
+- Eurostat
+- Genova
+- HAROPA
+- Le Havre
+- Rouen
+- Zeeland Seaports
 ---
 
 ## Sea shipping keeps Europe fed, fuelled and supplied — and this year, the Iran war's disruptions to shipping routes have thrust it into the headlines. Euronews looked at the busiest ports in Europe by volume of goods transported.

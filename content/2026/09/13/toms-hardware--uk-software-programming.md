@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Bruno Ferreira
+organisations:
+- Luke James
+- Mark Tyson Published
+- PlayCanvas
+- ProgrammingDeveloper
+- Unity
+- Zak Killian
 ---
 
 ## Latest about Programming

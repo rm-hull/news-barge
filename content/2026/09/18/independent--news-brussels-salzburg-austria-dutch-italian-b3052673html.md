@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Austria
+- Brussels’ La Monnaie
+- France
+- La Monnaie
+- Mortier
+- Opera
+- Province of Salzburg
+people:
+- Alexander Pereira
+- Andrea Breth
+- Au monde
+- Barrie Kosky
+- Barrie Kosky Karoline Edtstadler
+- De Caluwe
+- Fanny
+- Gerard Mortier
+- Giuseppe Verdi
+- Helga Rabl-Stadler
+- Herbert van Karajan
+- Jean-Pierre Ponnelle
+- Jürgen Flimm
+- Karin Bergmann
+- Kristina Hammer
+- La Traviata
+- Macbeth Underworld
+- Markus Hinterhäuser
+- Mikael Karlsson
+- Pascal Dusapin
+- Penthesilea
+- Peter Ruzicka
+- Peter de Caluwe
+- Philippe Boesmans’
+- Pierre Audi
+- Richard Strauss’ “Der Rosenkavalier
+- Sophie de Lint
+- Wolfgang Amadeus Mozart’s “Le Nozze di Figaro
+- de Caluwe
+organisations:
+- Aix-en-Provence Festival
+- Dutch National Opera
+- Hinterhäuser
+- La Monnaie
+- New York’s Park Avenue Armory
+- The Associated Press
 ---
 
 Peter de Caluwe will become artistic director of the Salzburg Festival in October 2027, assuming one of the arts world's most influential jobs after an innovative tenure at Brussels’ La Monnaie known for world premieres and provocative programming.

@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Ouse Bridge
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- York Rescue Boat
 ---
 
 ## Emergency services close York bridge after incident

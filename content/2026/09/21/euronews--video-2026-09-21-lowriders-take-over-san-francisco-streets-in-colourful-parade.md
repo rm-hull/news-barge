@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/13/13/1200x675_cmsv2_95d4bb72-16ba-5240-ab16-2c3de47d64ec-9921313.jpg
+locations:
+- California
+- King of the Street
+- Mission Street
+- San Francisco
+people: []
+organisations: []
 ---
 
 Thousands of people lined Mission Street in San Francisco, California, for the 'King of the Street' lowrider parade. Video opens with cars hopping and cruising with a wheel lifted off the ground.

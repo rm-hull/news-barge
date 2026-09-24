@@ -13,6 +13,19 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/08/South_Korea_Border_Explosion_95875.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Demilitarized Zone
+- Koreas
+- North Korea
+- Seoul
+- South Korea
+- Washington
+people:
+- Kim Jong Un
+organisations:
+- DMZ
+- Defense Ministry
+- MDL
 ---
 
 An explosion near South Korea's heavily fortified border with North Korea injured three South Korean military officers on Monday, South Korea's Defense Ministry said.

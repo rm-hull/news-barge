@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Darlington
+- Eastbourne
+- Gateshead
+- North East
+- South Tyneside
+- Sunderland
+people:
+- Cllr Nicholson
+- Kevin Nicholson
+- May
+- Michael Walker
+- Nigel Farage
+- Stuart Boulton
+organisations:
+- '** County Durham'
+- Conservative Party
+- Darlington Borough Council
+- Durham County Council
+- LGBT
+- Reform UK
+- Reform UK Darlington
+- Reform UK Treasury
+- The Northern Echo
 ---
 
 An independent councillor in Darlington is set to fight May's election as a member of Reform UK.

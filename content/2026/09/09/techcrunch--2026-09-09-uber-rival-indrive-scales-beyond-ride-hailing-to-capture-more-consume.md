@@ -12,6 +12,28 @@ image: https://techcrunch.com/wp-content/uploads/2023/11/81752CC3-0EA6-4B02-A8FB
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Brazil
+- Colombia
+- Indonesia
+- Latin America
+- Mexico
+- Mountain View
+- Peru
+people:
+- Alexander Kurchin
+- Andries Smit
+- Max Silin
+- Raphael Zennou
+- Valentin Laykov
+organisations:
+- Delivery Hero
+- Google
+- Ride Media
+- TechCrunch
+- Uber
+- Zennou
+- inDrive
 ---
 
 Known for letting riders and drivers negotiate fares, inDrive spent the past year adding businesses such as advertising and groceries to its core ride-hailing service. Now the Uber rival is scaling those bets, installing new leaders as its ads, delivery, and financial-services businesses show early signs of traction across its largely emerging-market user base.

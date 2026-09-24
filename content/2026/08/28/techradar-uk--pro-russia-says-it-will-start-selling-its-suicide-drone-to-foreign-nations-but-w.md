@@ -10,6 +10,18 @@ description: A Russian loitering munition can fly for six hours and carry more t
 image: https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Moscow
+- Russia
+people:
+- Alexander Mikheev
+organisations:
+- Almaz-Antey
+- Efosa
+- Google News
+- Ministry of Defence
+- Rosoboronexport
+- TechRadar Pro
 ---
 
 ![Russian Garpia-A1E loitering munition](https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb.jpg) 

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Halifax
+- Park Lane
+- Siddal
+- YOUR
+people: []
+organisations:
+- Calderdale Council
+- Newett Homes
+- Newett Homes’
+- Public Notice Portal
+- Siddal Cricket Club
 ---
 
 ### What is the Public Notice Portal?

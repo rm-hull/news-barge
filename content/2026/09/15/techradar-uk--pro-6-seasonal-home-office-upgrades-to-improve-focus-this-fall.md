@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Home, Garden & DIY
+locations: []
+people:
+- Owain Williams
+organisations:
+- BA
+- CRM
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![A selection of luxurious desk items on a dark wood desk](https://cdn.mos.cms.futurecdn.net/4K5GpNgS9pPEnCjarNy6Vj.jpg) 

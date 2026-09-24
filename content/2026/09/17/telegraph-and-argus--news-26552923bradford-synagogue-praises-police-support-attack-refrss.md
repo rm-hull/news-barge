@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bradford
+- Heaton Park Hebrew Congregation Synagogue
+- Heaton Park Synagogue
+- Manchester
+- UK
+- Yom Kippur
+people:
+- Ms Cree
+- Suzie Cree
+organisations:
+- Board of Trustees
+- Bradford Synagogue
+- Community Security Trust
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,24 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/20/10/Koreas_Tensions_828_5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- China
+- Japan
+- North Korea
+- Pyongyang
+- Russia
+- South Korea
+- U.S.
+- Washington
+- Wonsan
+people:
+- Donald Trump
+- Kim Jong Un
+- Kim Yo Jong
+organisations:
+- Joint Chiefs of Staff
+- KCNA
+- Korean Central News Agency
 ---
 
 North Korea said Tuesday its latest missile tests involved a new weapons system of “great significance,” with photos indicating it launched a missile previously described as hypersonic.

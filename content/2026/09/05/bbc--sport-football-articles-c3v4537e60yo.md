@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- City Ground
+people:
+- '** Williams'''
+- Craig Pawson
+- Forest
+- Harry Maguire
+- Neco Williams'
+- Oliver Glasner
+- Peter Bankes
+- Sandro] Tonali
+- Williams
+organisations:
+- Ipswich
+- Nottingham Forest
+- Premier League
+- Sky Sports
+- Spurs
+- Tottenham
+- VAR
 ---
 
 Forest and Spurs still looking for first win after 0-0 draw

@@ -15,6 +15,13 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20414605.jpg?type=og-image
+locations: []
+people:
+- Luke Bosdet
+organisations:
+- AA
+- CMA
+- Treasury
 ---
 
 *(Image: Getty Images/iStockphoto)*

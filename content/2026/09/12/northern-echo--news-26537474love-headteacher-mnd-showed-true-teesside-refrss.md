@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Hartburn Primary
+- Mrs Park's Park
+- Mrs Park’s Park
+- North East
+- South Bank
+- Stockton
+- Teesside
+people:
+- AI
+- Bob Mortimer
+- Claire Park
+- Hayley
+- Julie Small
+- Martin
+- Matthew
+- Olli
+- Peter Barron
+organisations:
+- A66
+- Friends of Hartburn Primary
+- Friends of Hartburn Primary School
+- Hartburn Primary School
+- MND
+- Motor Neurone Disease Association
+- PETER BARRON
+- Prince Regent Street Trust
+- Regent Street Trust
+- Stockton Men's Shed
 ---
 
 *How the heartwarming response to a headteacher’s MND diagnosis showed the real community spirit of Teesside.**PETER BARRON** reports*

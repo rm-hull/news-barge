@@ -12,6 +12,32 @@ image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- U.S.
+people: []
+organisations:
+- Accenture Gemini Enterprise Business Group
+- Alphabet
+- Amazon
+- Anthropic
+- CVC Capital Partners
+- Capgemini
+- Cognizant
+- Deloitte
+- FDE
+- FDEs
+- Gemini Enterprise
+- Google Cloud
+- Google’s AI
+- Meta
+- Microsoft
+- OpenAI
+- Oracle
+- Ramp
+- SAP
+- ServiceNow
+- The Deployment Co
+- The Wall Street Journal
 ---
 
 Google Cloud and Accenture are working together on a joint unit dedicated to sending engineers into enterprises to help them better adopt Google’s AI tools and services.

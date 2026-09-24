@@ -11,6 +11,42 @@ image: https://static.independent.co.uk/2026/09/10/18/2026-09-10T155040Z_2103353
 categories:
 - News & Politics
 - UK
+locations:
+- Alberta
+- Astrakhan
+- Black and Caspian
+- Bryansk
+- Calgary
+- Canada
+- Crimea
+- Dagestan
+- Kyiv
+- Moldova
+- Moscow
+- Norway
+- Romania
+- Russia
+- Siberia
+- Sochi
+- Ukraine
+- United States
+- Voronezh
+- Washington
+- Yamalo-Nenets
+- Zelensky
+people:
+- Alexander Gusev
+- Andrii Sybiha
+- Donald Trump
+- Mark Carney
+- Tymur Tkachenko
+- Volodymyr Zelensky
+organisations:
+- European Union
+- General Staff
+- Kyiv
+- Ministry of Defense
+- NATO
 ---
 
 Ukrainian President Volodymyr Zelensky traveled to Canada on Thursday for bilateral talks with Prime Minister Mark Carney, marking his most recent international journey aimed at securing ongoing assistance in resisting Russia's invasion.

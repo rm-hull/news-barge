@@ -13,6 +13,33 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Afghanistan
+- Atlantic
+- Britain
+- Greater Manchester
+- Iran
+- Iraq
+- London
+- New York
+- Pennsylvania
+- UK
+- US
+- United Kingdom
+- United States
+- United States of America
+- Washington DC
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Tony Blair
+- Warren Stephens
+organisations:
+- Nato
+- Pentagon
+- United Airlines
+- World Trade Centre
 ---
 
 Andy Burnham has expressed the UK’s unity with the US on the 25th anniversary of the 9/11 attacks that shocked the world, warning that terror "still knocks at the door of democracy".

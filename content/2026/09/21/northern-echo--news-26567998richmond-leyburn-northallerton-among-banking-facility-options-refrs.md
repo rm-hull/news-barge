@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21481318.jpg?type=og-image
+locations:
+- Catterick Garrison
+- Hawes
+- Hexham
+- Leyburn
+- North Yorkshire
+- Northallerton
+- Richmond
+- Stokesley Methodist Church
+- UK
+- Yorks
+people:
+- Hipswell
+- Kevin Foster
+- Rishi Sunak
+- Yvonne Peacock
+organisations:
+- Colburn
+- Community and Enterprise Building
+- Conservative
+- MP
+- Newcastle Building Society
+- North Yorkshire Council
+- Traveller
+- Upper Dales
+- Upper Dales Community Office
+- York and North Yorkshire Combined Authority
 ---
 
 New banking facilities could be opened in Leyburn, Catterick Garrison, Richmond and Northallerton as part of efforts to improve access to community services.

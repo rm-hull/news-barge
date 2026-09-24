@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Film & TV
 image: https://i.guim.co.uk/img/media/3217c70dd80e8e0928ff7dbbc7f51aea99287ee0/440_298_2004_1603/master/2004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e152918f6c52e5333f0b7df53c0e0f87
+locations:
+- Australia
+- Hollywood
+- New South Wales
+- Sydney
+people:
+- Amanda Ghost
+- Camp Sugar
+- Charlotte MacInnes
+- Dauid Sibtain SC
+- Elisabeth Peden
+- Gregor Cameron
+- Rebel Wilson
+- Vince Holden
+organisations:
+- AI Film
+- AI Film Production Limited
+- Camp Sugar
+- Deb –
+- Ghost
+- Instagram
+- Pitch Perfect and Bridesmaids
+- Queen of the Desert
+- The Deb
+- The Deb’s
 ---
 
 Hollywood star Rebel Wilson had a “last chance” phone call with her film’s co-producers over a dispute about up-front costs and her $1m fee, a judge has heard.

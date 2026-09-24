@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Dallas
+- Michigan
+- New York City
+people:
+- Abdul El-Sayed
+- Charlie Kirk
+- Gary Peters
+- JD Vance
+- James Talarico
+- Kaitlan Collins
+- Mike Rogers
+- Ted Cruz
+- Zohran Mamdani
+organisations:
+- American Airlines
+- CNN
+- Texas Senate
+- The Source
 ---
 
 On the night Republicans gathered to mourn the killing of Charlie Kirk and warn against the dangers of violent rhetoric, a crowd at the party’s irregular midterm convention in Dallas repeatedly called for a sitting Senate candidate to be shot, while the Republican senator at the podium never denounced or even noted the outbursts.

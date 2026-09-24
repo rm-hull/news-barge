@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Austria
+- Belgium
+- Birmingham
+- Brussels
+- England
+- Europe
+- France
+- IS
+- Liverpool
+- London
+- Rotterdam
+- Syria
+- UK
+- Vienna
+people:
+- Abu Adam
+- Abu Ahmed
+- Frank
+- Gerald Tatzgern
+- Quentin Mugg
+- Vincent Guerra
+organisations:
+- BBC
+- BK
+- Criminal Intelligence Service
+- EBU
+- EU
+- European Broadcasting Union
+- Europol
+- Great Traders of Europe
+- HMRC
+- Hawala
+- IS
+- Islamic State
+- ORF
+- Revenue and Customs
+- Sent Dortmund
+- Traders of Greater Europe
+- Vincent Guerra
+- WhatsApp
 ---
 
 ![A composite image showing a stylised rendition of a phone with WhatsApp-style text message bubbles in grey and green, with one displaying currency symbols. On the right-hand side is an image of an IS militant with his face covered with a balaclava and carrying an assault rifle, with an image of war-torn Syria behind him.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png)

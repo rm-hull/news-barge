@@ -13,6 +13,19 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Blackhall Colliery
+- Brandon
+- Leaholme Terrace
+people:
+- Charlie Thompson
+- Conor Kirkup
+- Michael Forrest
+- Richard Clews
+organisations:
+- Durham Crown Court
+- NSPCC
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

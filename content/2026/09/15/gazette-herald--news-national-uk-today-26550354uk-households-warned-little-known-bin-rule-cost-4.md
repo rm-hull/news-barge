@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- UK
+people: []
+organisations:
+- Wheeldon Brothers
 ---
 
 *(Image: Getty)*

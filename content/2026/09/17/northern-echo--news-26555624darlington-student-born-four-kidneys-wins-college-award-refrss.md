@@ -15,6 +15,55 @@ categories:
 - News & Politics
 - Health & Fitness
 - Education & Learning
+locations:
+- Armenia
+- Aycliffe
+- Darlington Hippodrome
+- England
+- Iran
+- Middleton St George
+people:
+- Alina Radkovska
+- Amie Dent
+- Bobby Johnson
+- Caitlyn Cottam
+- Charley Heseltine
+- David Gartland
+- Elijah Porter
+- Ethan Ramsey
+- George Burns
+- Honey Hibbins
+- Isaac Chapman
+- Jack Widdowson
+- Jacob Riley
+- Jake Simpson
+- Jessica King
+- Leila Najafi
+- Leona Milne
+- Lillie Mosley
+- Madelung
+- Matthew Sinclair
+- Mohammad
+- Nathanael Hall
+- Oliver McNight
+- Rachel Byrom
+- Samuel Clarke
+- Spencer Mawby
+- Tyler Brookes
+- Zaki Ullah Amarkhil
+organisations:
+- BSc
+- Beaumont Hill Academy
+- Darlington College
+- Darlington Other
+- Early Years Student
+- Education Village Academy Trust
+- Google Classroom
+- Honey Hibbins
+- NCFE
+- Outstanding Art Student
+- Outstanding Automotive Student
+- Outstanding Plumbing Student
 ---
 
 *(Image: Supplied)*

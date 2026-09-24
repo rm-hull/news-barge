@@ -11,6 +11,40 @@ description: F-35 pilots each get a $400,000 helmet connected to six infrared ca
 image: https://cdn.mos.cms.futurecdn.net/6xscKM986e4DwpWQuLqctW-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- India
+- US
+- West Bengal
+people:
+- Bob Hess
+- Mark Welsh III
+- Ritoban Mukherjee
+organisations:
+- AI
+- Air Force
+- Air Force Times
+- BAE Systems
+- Collins Aerospace
+- Collins Elbit
+- Collins Elbit Vision Systems
+- Creative Bloq
+- DAS
+- Elbit America
+- Elbit Systems of America
+- Gizmodo
+- Google News
+- HMDS
+- IT Pro
+- Lockheed Martin
+- Northrop Grumman
+- Pentagon
+- Quartz
+- Ritoban Mukherjee
+- TechRadar Pro
+- Tom's Guide
+- US Air Force
+- US Air Force.
+- United States Air Force
 ---
 
 ![F-35 fighter jets in flight](https://cdn.mos.cms.futurecdn.net/6xscKM986e4DwpWQuLqctW.jpg) 

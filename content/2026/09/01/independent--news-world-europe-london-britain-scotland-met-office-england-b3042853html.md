@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/08/13/17/Britain_Extreme_Weather_He
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- England
+- London
+- Norfolk
+- Scotland
+people:
+- Amy Doherty
+- Katie White
+organisations:
+- All of Wales
+- Met Office
+- National Climate Information Center
+- Northern Ireland
+- U.K. Health Security Agency
 ---
 
 Britain's sweltering summer of successive heatwaves was the hottest on record, the national weather service said Tuesday.

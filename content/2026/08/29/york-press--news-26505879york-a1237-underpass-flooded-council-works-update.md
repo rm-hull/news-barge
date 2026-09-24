@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- A1237
+- Knapton
+- Moor Lane Bridleway
+- Rufforth
+- Rural West York
+- York Community Woodland
+people:
+- Anne Hook
+- Cllr Emilie Knight
+- Cllr Hook
+- Cllr Ravilious
+- Emilie Knight
+- Kate Ravilious
+organisations:
+- '## Flooded York'
+- City of York Council
+- Labour Transport
+- Liberal Democrat
+- Liberal Democrat Rural West York
+- York Community Woodland
+- York Liberal Democrats
 ---
 
 ## Flooded York underpass users 'walk the plank' amid fears it could become 'impassable'

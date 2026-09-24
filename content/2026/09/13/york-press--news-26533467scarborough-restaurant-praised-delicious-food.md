@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Landmark
+- Scarborough
+- The View
+- York
+- Yorkshire
+people:
+- Steven Chandler
+organisations:
+- Delmont Hotel
+- Michelin Guide
+- The View
+- Tripadvisor
+- Yorkshire
 ---
 
 *(Image: Tripadvisor)*

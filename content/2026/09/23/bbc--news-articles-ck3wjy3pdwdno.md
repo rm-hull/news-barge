@@ -11,6 +11,38 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg
+locations:
+- Britain
+- British Indian Ocean Territory
+- Chagos Islands
+- China
+- Diego Garcia
+- Diego Garcia.
+- Indian Ocean
+- Mauritius
+- New York
+- UK
+- US
+- United States
+people:
+- Andy Burnham
+- Boris Johnson
+- Donald Trump
+- God
+- Keir Starmer
+- Kemi Badenoch
+- Navin Ramgoolam
+- Nigel Farage
+- Wes Streeting
+organisations:
+- BBC Breakfast
+- BBC Radio 4
+- Houses of Parliament.
+- ICJ
+- International Court of Justice
+- Reform UK
+- UN General Assembly
+- United Nations General Assembly
 ---
 
 ![A bird's eye view of the Chagos Islands – officially known as the British Indian Ocean Territory – in the Indian Ocean, with white clouds in the sky. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg)

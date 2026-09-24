@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Ayrshire
+- Brighton
+- Britain
+- Haxby Road
+- Ireland
+- Rob
+- Taste Trail
+- UK
+- York
+people:
+- Emma Keller
+- Felix
+- Rob Pope
+organisations:
+- KitKat
+- KitKat—
+- Nestlé UK
+- Taste Trail
+- The Felix Project
 ---
 
 *(Image: PA / Supplied)*

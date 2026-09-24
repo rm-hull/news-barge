@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+- Taipei
+- Taiwan Strait
+- White House
+people:
+- Hui He
+- Nichol Eftimiades
+- Tom
+organisations:
+- FBI
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- MJIB
+- Ministry of Justice Investigation Bureau
+- Omdia
+- OnePlus
+- Oppo
+- SMIC
+- Semiconductor Manufacturing International Corporation
+- TSMC
+- Taiwan Semiconductor Manufacturing Corporation
+- U.S. Department of Defense
+- Xiaomi
 ---
 
 ![the flags of Taiwan and China on semiconductor prints](https://cdn.mos.cms.futurecdn.net/UT7m8qPkTNnATrTXAKokZi.png) 

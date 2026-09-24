@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arizona
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Cottonwood Campground
+- Flagstaff
+- Grand Canyon
+- Grand Canyon National Park
+- North Rim
+- Oklahoma
+- Phantom Ranch
+- South Rim
+- Southwest
+- Sumaruk
+- Tulsa
+- United States
+people:
+- Drew Harrell
+- Mike Sumaruk
+- Parth Desai
+- Tom Monroe
+organisations:
+- National Park Service
+- Red Cross
+- Sumaruk
+- The Associated Press
+- University of New Mexico Hospital
 ---
 
 Late-afternoon cloud cover builds with predictable regularity across the desert, accompanied by swirling winds and darkening skies before the downpour begins.

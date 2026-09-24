@@ -11,6 +11,24 @@ image: https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- ChatGPT
+- Christopher
+- Don Dickner
+- Mark Monaghan
+- Ophir Samson
+- Riley
+organisations:
+- AI
+- ChatGPT Voice
+- Everforth Apex
+- Everforth Apex Systems
+- Greenhouse
+- IQor
+- IT
+- Ribbon
+- WIRED
 ---
 
 Christopher has become accustomed to jumping through the endless hoops of the modern job hunt. Like many government contractors, his work has dried up in the DOGE era. Over the past six months, he has applied to roughly 700 jobs; in the vast majority of cases, he’s heard nothing back.

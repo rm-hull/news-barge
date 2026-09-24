@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/20599374.jpg?type=og-image
+locations:
+- '![]()County Durham'
+- Bishop Auckland
+- Middleton St George
+- Newton Aycliffe Magistrates’ Court
+- Shildon
+people:
+- Jade Houston
+- Lloyd Ames
+- Man
+- Sam Brewster
+- Thomas Reay
+organisations:
+- Darlington Magistrates’
+- Durham County Council
+- Goosepool Hotel
+- Morrisons and B&M
+- Newsquest
+- Probation Service
 ---
 
 *(Image: Getty Images)*

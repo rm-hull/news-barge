@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Alne
+- Children's Cancer Hospital
+- Downing Street
+- Leeds
+- North Yorkshire
+- Popular York
+people:
+- Anthony Nolan
+- Bec
+- Becca
+- Bonnie
+- Charlotte
+- Covid
+- Dylan
+- Matthew
+- Michelle
+- Rebecca Alton
+- Simon
+organisations:
+- AstraZeneca
+- Bemorefab
+- Blood Cancer
+- Candlelighters
+- York St John University
 ---
 
 THE family of a North Yorkshire woman who passed away in her 20s has spoken about their ‘amazing’ daughter ahead of the publication of her book.

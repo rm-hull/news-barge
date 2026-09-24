@@ -13,6 +13,52 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/19/14/34/Screenshot-2026-09-19-154745.png?trim=0,14,0,14&width=1200&height=800&crop=1200:800
+locations:
+- Algarve
+- Chisinau
+- Iran
+- Kharkiv
+- Kremlin
+- Kyiv
+- Lviv
+- Moldova
+- Moscow
+- Portugal
+- Quarteira
+- Russia
+- Transdniestria Region
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Christian Wigand
+- Kyiv
+- Oleh Syniehubov
+- Pavlo Sadokha
+- Putin
+- Sergei Ryabkov
+- Shahed
+- Violeta Artemchuk
+- Volodymyr Fesenko
+- Volodymyr Zelensky
+organisations:
+- '## Investigation'
+- '## Kyiv'
+- Donbas SOS
+- European Commission
+- European Union
+- KAB
+- Kharkiv Regional Military Administration
+- Kyiv-based Penta Center
+- Odesa
+- RIA
+- Russian Armed Forces
+- Security Service
+- Shahed
+- State ⁠Duma
+- The Associated Press
+- The New York Times
 ---
 
 Kyiv has launched a new advanced interceptor drone capable of shooting down Russia’s damaging jet-powered Shahed drones, Volodymyr Zelensky said.

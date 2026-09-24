@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations: []
+people:
+- Emilis Strimaitis
+- Hostinger
+- Owain Williams
+organisations:
+- AI Builder
+- BA
+- CRM
+- Digital Doughnut
+- Gartner
+- Google News
+- Head of Product Innovation
+- Hostinger Agent
+- Kodee
+- MarketingProfs
+- NealSchaffer.com
+- Owain
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![Hostinger AI agent](https://cdn.mos.cms.futurecdn.net/Fj7os7h67zv73ZDn55nX5i.png) 

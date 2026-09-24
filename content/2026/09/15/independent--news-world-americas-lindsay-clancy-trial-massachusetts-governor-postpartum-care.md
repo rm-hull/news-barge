@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Beth Israel Deaconess Medical Center
+- Boston
+- Massachusetts
+- U.S.
+people:
+- Lindsay Clancy
+- Maura Healey
+organisations:
+- Massachusetts Child Psychiatry Access Program for Moms
+- Massachusetts Department of Public Health
 ---
 
 The governor of Massachusetts has proposed new measures to help struggling parents after the Lindsay Clancy trial sparked renewed concern about postpartum care.

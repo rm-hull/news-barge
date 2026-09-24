@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caffè Nero
+- HMP Wayland
+- Heathrow Airport
+- Isleworth Crown Court
+- Johannesburg
+- Norfolk
+- South Africa
+people:
+- Anton Clarke-Butcher
+- Denzel Eduardo
+- Kwame Inyundo
+- Omoneke Whyte
+- Tyrone Richards
+organisations:
+- British Airways
+- HMP Wormwood Scrubs
+- Terminal 3
 ---
 
 Four men have been jailed following an incident of violent disruption involving tear gas at a Heathrow Airport car park, which left victims vomiting blood and forced a hours-long terminal closure.

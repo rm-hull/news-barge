@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/c07b6557450672c341c5f2c93ab73eae917227e3/232_0_2914_2333/master/2914.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54ba265d8578ea85af7cf6b2692c8065
+locations:
+- Chad
+- El Salvador
+- Florida
+- Guatemala
+- Haiti
+- Jamaica
+- Miami
+- Mongolia
+- Port-au-Prince
+- Sri Lanka
+- US
+people:
+- Brett Skiles
+- Jason Reding Quinones
+- Jovenel Moïse
+organisations:
+- CTU
+- FBI
+- Gang Suppression Force
+- UN
 ---
 
 Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials.

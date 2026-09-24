@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Batley
+- Huddersfield
+- Scholes
+- Spen NPT
+- West Yorkshire
+people: []
+organisations:
+- NPT
+- Spen Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

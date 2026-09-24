@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Holyrood Palace
+- North East
+- North Tees
+- Stockton
+- University Hospital
+- University Hospital of Hartlepool
+- University Hospitals Tees
+people:
+- James Mackey
+- Laurence Herdman
+- Tracey Anyinsah
+organisations:
+- Durham
+- King's Garden Party
+- King’s Garden Party
+- NHS England
+- University Hospital of Hartlepool
 ---
 
 *(Image: Supplied)*

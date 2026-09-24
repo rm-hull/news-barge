@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiMGE5YmI5LWQ3MDItNDk0ZC05MTBlLWFiOWIwZTZiNTgzNzpmZjkwNWEyYS1lNjZhLTRmZmUtYjkwZC01YjZlNTJjODM2MDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Knaresborough
+- Tees, Esk
+people:
+- John Potter
+- Tom Gordon
+organisations:
+- Court of Appeal
+- Criminal Division
+- 'Government ## Harrogate'
+- House of Commons
+- Knaresborough
+- Liberal Democrat
+- TEWV
+- Wear Valleys NHS Foundation Trust
 ---
 
 # Harrogate MP welcomes long-awaited appointment of chair to TEWV public inquiry by Government

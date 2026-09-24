@@ -12,6 +12,34 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/07/19/15/39/Burnham-Trump-split.png?trim=0,108,0,142&width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Britain
+- Downing Street
+- Dublin
+- Falkland Islands
+- Falklands
+- Manchester
+- Middle East
+- New York
+- North Sea
+- Northern Ireland
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Bridget Phillipson
+- Donald Trump
+- Javier Milei
+- Keir Starmer
+- Micheál Martin
+- Mr Trump
+- Ms Phillipson
+organisations:
+- Labour
+- Sky News
+- UN
 ---
 
 A government minister has dismissed Andy Burnham’s previous comments about Donald Trump as “politics” ahead of the prime minister’s expected meeting with the US president.

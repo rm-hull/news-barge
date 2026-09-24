@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/09/13/02/India_BRICS_21517.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Beijing
+- Brazil
+- China
+- Europe
+- Hong Kong
+- India
+- Ladakh
+- New Delhi
+- Russia
+- South Africa
+- U.S.
+- United States
+people:
+- Chan Ho-him
+- Narendra Modi
+- Xi Jinping
+- Zheng Liu
+organisations:
+- Associated Press
+- BRICS
+- Belt and Road Initiative
+- Global South
+- Shanghai Cooperation Organization
+- Xinhua News Agency
 ---
 
 Indian Prime Minister Narendra Modi and Chinese President Xi Jinping met Saturday on the sidelines of the BRICS summit in New Delhi, the latest effort by the rival neighbors to repair ties strained by a deadly border clash six years ago.

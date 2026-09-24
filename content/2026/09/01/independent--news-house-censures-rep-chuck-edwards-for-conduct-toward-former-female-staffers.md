@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Capitol Hill
+- D-Calif.
+- North Carolina
+- R-N.C.
+people:
+- Chuck Edwards
+- Edwards’
+- Eric Swalwell
+- Jimmy Gomez
+- Leger Fernandez
+- Mark DeSaulnier
+- Michael Guest
+- Teresa Leger Fernandez
+- Tony Gonzales
+organisations:
+- Congress
+- Ethics Committee
+- House Ethics Committee
 ---
 
 The House voted Tuesday to censure Rep. Chuck Edwards, R-N.C., following a House Ethics Committee investigation that concluded he engaged in persistent unprofessional and inappropriate conduct toward two young female staffers in his office.

@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Britain
+- East End
+- France
+- Oxbridge
+- Oxford
+people:
+- Asif Kpadia
+- Bruce
+- Jackie
+- Lynn
+- Michael Apted
+- Neil
+- Nick
+- Paul
+- Sue
+- Suzy
+- Symon
+- Tony
+organisations:
+- Granada Television
 ---
 
 *(Image: Multistory Media)*

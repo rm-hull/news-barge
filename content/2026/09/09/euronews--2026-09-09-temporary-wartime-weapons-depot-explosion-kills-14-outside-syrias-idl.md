@@ -14,6 +14,25 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Binnish
+- Burj al-Nimra
+- Idlib
+- Kafr Takharim
+- Sarmada
+- Syria
+- UK
+people:
+- Ahmad Faour
+- Simon Jackson
+- Walid Aslan
+- al-Assad
+organisations:
+- Civil Defence
+- HALO Trust
+- Health Ministry
+- Idlib
+- Syrian Red Crescent
 ---
 
 ## The blast at a temporary storage site for wartime munitions near the town of Sarmada left 11 others injured, with rescue teams still searching for survivors. A person is killed or wounded by unexploded ordnance every six hours in Syria today, according to humanitarian workers.

@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Sports
 - Travel
+locations:
+- A1036 Tadcaster Road
+- A64
+- Askham Fields
+- Buckles Inn
+- Dylan Connell
+- York
+people: []
+organisations:
+- A64
+- City of York Council
 ---
 
 *(Image: Dylan Connell)*

@@ -15,6 +15,17 @@ categories:
 - UK
 - Food & Cooking
 - Health & Fitness
+locations:
+- America
+people:
+- Donald Trump
+- Robert F. Kennedy Jr.
+organisations:
+- Massachusetts Institute of Technology
+- SNAP
+- Stanford University
+- Trump
+- University of Chicago
 ---
 
 Soda sales have fizzled out after several states banned food stamp recipients from buying pop.

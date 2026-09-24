@@ -15,6 +15,17 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- South Africa
+people:
+- Danny Jordaan
+- Jennifer Ferguson
+- Sandile Zungu
+organisations:
+- FIFA
+- SAFA
+- South African Football Association
+- U.S. Department of Justice
 ---
 
 The head organizer of the 2010 World Cup was re-elected president of South Africa's soccer federation on Saturday despite facing criminal charges over alleged fraud while in office.

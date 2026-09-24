@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Clacton
+- UK
+people:
+- Christopher Harborne
+- Nigel Farage
+organisations:
+- BBC
+- Reform UK
 ---
 
 ![Nigel Farage](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/8e2b/live/f05a8120-a6c4-11f1-ae1e-219da1d6451a.jpg)

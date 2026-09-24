@@ -13,6 +13,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- UK
+- USA
+people:
+- Alison McGovern
+- Lucy Rigby
+- Martin Lewis
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Barclays
+- FCA
+- Financial Conduct Authority
+- HSBC
+- Lloyds
+- Money and Mental Health
+- Money and Mental Health Policy Institute
+- Monzo
+- Nationwide Building Society
+- Samaritans
+- State for Mental Health
+- Treasury
 ---
 
 Martin Lewis’s charity has launched a new project aimed at transforming the support banks and building societies provide to customers who may be feeling suicidal.

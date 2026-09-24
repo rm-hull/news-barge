@@ -13,6 +13,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- Strait of Hormuz
+- UK
+- Ukraine
+people:
+- Liam Daly
+- Trump
+organisations:
+- Bank of England
+- CEBR
+- Centre for Economics and Business Research
+- ECIU
+- Energy and Climate Intelligence Unit
+- Ofgem
 ---
 
 The US-Iran war is set to deal a severe financial blow to UK families, cutting into average household spending power by £2,400 over the next two years.

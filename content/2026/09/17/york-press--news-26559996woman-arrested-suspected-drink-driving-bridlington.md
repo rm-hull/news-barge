@@ -13,6 +13,12 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Bridlington
+- Wayside Crescent
+people: []
+organisations:
+- Humberside Police
 ---
 
 *(Image: Submitted)*

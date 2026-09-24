@@ -15,6 +15,12 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Graham Conway
+organisations:
+- Parking Charge Notices
+- Select Car Leasing
 ---
 
 *(Image: Getty Images)*

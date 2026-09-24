@@ -13,6 +13,23 @@ description: Meta has updated its Meta Glasses to stop a surreptitious recording
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/GFvtY3vYjhx32RJ5TrD5D9-1567-80.jpg
+locations:
+- Germany
+- Hamburg
+- UK
+- US
+people:
+- Carrie Marshall
+organisations:
+- EU
+- European Union
+- Freedom of Information
+- French e-Enfance association
+- Google News
+- LED
+- Meta Glasses
+- Ray-Ban Meta Wayfarer
+- Unquiet Mind
 ---
 
 ![A man wearing the Ray-Ban Meta smart glasses](https://cdn.mos.cms.futurecdn.net/GFvtY3vYjhx32RJ5TrD5D9.jpg)

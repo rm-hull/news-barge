@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Beverley
+- Catton Village Hall
+- Green Hammerton Village Hall
+- North Yorkshire
+- Poppleton
+- Skirlaugh Village Hall
+- Stillingfleet
+people:
+- Biddy
+- Buff
+- Kate Bramley
+- Sarah
+organisations:
+- '## Wartime'
+- All Saints Hall
+- Badapple Theatre
+- Badapple Theatre Company
+- Land Girls
+- Yorkshire Land Girl
+- Yorkshire Land Girls
 ---
 
 ## Wartime comedy launches Yorkshire tour with sold-out village hall show

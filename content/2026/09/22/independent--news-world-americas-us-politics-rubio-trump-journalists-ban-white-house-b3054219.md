@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/12/2295939352..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Islamic Republic
+- Midtown New York
+- New York City
+- U.S.
+- United States’
+- Washington
+- White House
+people:
+- Akayla Gardner
+- Bryan Boughton
+- Dasha Burns
+- Dylan Johnson
+- Kaitlan Collins
+- Marco Rubio
+- Sean Curran
+- Steven Cheung
+- Susie Wiles
+- Trump
+organisations:
+- ABC
+- Big Apple
+- CBS
+- CNN
+- Fox News
+- MS NOW
+- NBC
+- POLITICO
+- Secret Service
+- The Kimberly Hotel
+- UNGA
+- United Nations General Assembly
 ---
 
 Secretary of State Marco Rubio was spotted mingling with journalists from several news organizations banned from the White House by President Trump just days earlier.

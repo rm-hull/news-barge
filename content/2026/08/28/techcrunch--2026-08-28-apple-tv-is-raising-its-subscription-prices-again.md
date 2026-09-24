@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- Apple TV
+- Music
+- Netflix
+- Peacock
+- iCloud
 ---
 
 For the fourth time in four years, Apple TV is hiking its subscription prices.

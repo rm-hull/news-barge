@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- County Durham
+- DH1 4UQ
+- Gateshead
+- Halifax Durham
+- High Street East
+- Jackson Street
+- King Street
+- North East
+- North Road
+- North Tyneside
+- Redcar
+- South Shields
+- South Tyneside
+- Wallsend
+people: []
+organisations:
+- '### Lloyds South Shields'
+- 8PJ
+- Bank of Scotland
+- Banking Hubs
+- Halifax
+- Jackson House
+- Lloyds Bank Durham City Centre
+- Lloyds Banking Group
+- Middlesbrough
+- Royal Chambers
 ---
 
 A number of Lloyds Banking Group branches across the North East will permanently close this autumn as the banking giant continues to reduce its high street presence.

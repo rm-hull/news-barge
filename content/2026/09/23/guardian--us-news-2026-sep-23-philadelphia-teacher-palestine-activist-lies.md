@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/b0389f03eb66100f411b0fba906afc2e68d5c537/0_0_1310_1048/master/1310.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f9caa21afc52d56ba00c7e54a7bd4c4
+locations:
+- Baltimore
+- Israel
+- Palestine
+- Philadelphia
+- Philly
+- Rwanda
+- US
+- West Bank
+people:
+- Hannah Gann
+organisations:
+- 10th Grade Teacher & Philadelphia
+- Guardian
+- Instagram
+- PEFP
+- PPC
+- Peace Corps
+- Philadelphia Inquirer
+- Philadelphia’s Workshop School
+- Philly Educators for Palestine
+- Philly Palestine Coalition
+- RJOC
+- Racial Justice Organizing Committee
+- Rethinking Schools
+- The Workshop School
+- University of Pennsylvania
 ---
 
 A Philadelphia teacher is facing criticism from her fellow colleagues and activists after it was revealed that she fabricated being both Palestinian and Black.

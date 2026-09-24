@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- East Yorkshire
+- Hornsea
+- North East
+- RAF Waddington
+- UK
+people: []
+organisations:
+- Red Arrows
+- Red Arrows’
+- Yorkshire
 ---
 
 # Incredible footage shows Red Arrows flying over Yorkshire

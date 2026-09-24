@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- China
+- England
+- PD Ports' Tees Dock
+- Teesport
+- UK
+people:
+- Catherine Zhu
+- Paul Foreman
+organisations:
+- A19
+- A66
+- Chery Automotive
+- Lepas
+- Omoda & Jaecoo & Chery UK
+- PD Ports
+- Teesport
 ---
 
 A MAJOR shipment of 5,000 vehicles has arrived at Teesport.

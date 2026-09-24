@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bay Area
+- Clark County
+- Creekmur
+- East-West
+- Las Vegas
+- New York
+- Oakland
+people:
+- Binu Palal
+- Charlamagne tha
+- Christopher Wallace
+- Chuck Creekmur
+- Compton
+- Dave “Davey D” Cook
+- Davis’
+- Death Row
+- Duane “Keffe D” Davis
+- God
+- Keffe D
+- Marion “Suge” Knight
+- Mike Tyson
+- Mob Piru
+- Orlando “Baby Lane” Anderson
+- Sekyiwa “Set” Shakur
+- Steve Wolfson
+- Tupac Shakur
+organisations:
+- AllHipHop
+- Death Row Records
+- The Breakfast Club
 ---
 
 For nearly 30 years, the story of Tupac Shakur’s killing existed somewhere between an unsolved murder and hip-hop mythology.

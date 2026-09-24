@@ -12,6 +12,31 @@ categories:
 - York
 - Arts & Culture
 - Society & Culture
+locations:
+- Brontë Parsonage
+- Charlotte
+- Haworth
+- Monkgate
+- Yorkshire
+people:
+- Anne Brontë
+- Brecht
+- Charlotte Brontë
+- Claire Morley
+- Emily
+- Jess Murray
+- Jon Cook
+- Lara Stafford
+- Maggie Smales
+- Millie Rhodes
+- Natalie Roe
+- Nick Patrick Jones
+- Pamela Gourley
+- Sarah Gordon
+organisations:
+- The National Theatre
+- YSCP
+- Yorkshire
 ---
 
 These are the Brontë sisters like you’ve never seen them before…

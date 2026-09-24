@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Anton Shilov
+organisations:
+- AGC
+- ASML
+- ASML-TSMC
+- DUV
+- GlobalFoundries
+- High-NA EUV
+- Hoya
+- IBM
+- Intel
+- Micron
+- New York State
+- SK hynix
+- Samsung
+- TSMC
+- Tom’s Hardware
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW.jpg) 

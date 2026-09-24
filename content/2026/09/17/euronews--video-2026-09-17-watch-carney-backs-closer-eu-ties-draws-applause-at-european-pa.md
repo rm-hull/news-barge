@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Brussels
+- Canada
+- Strasbourg
+people:
+- Carney
+- Trump
+- Ursula von der Leyen
+organisations:
+- Canada-EU
+- EU
+- European Commission
+- European Parliament
 ---
 
 Addressing the European Parliament in Strasbourg on 17 September, Carney backed European Commission President Ursula von der Leyen’s proposal to explore making Canada the EU’s first associate member, describing it as part of a broader effort to strengthen their sovereignty and resilience.

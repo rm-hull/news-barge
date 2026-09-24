@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Paris
+- Poland
+- Suresnes
+people:
+- Andy"**,**"
+- Catherine Ringer
+- Fred Chichin
+- Les Rita Mitsouko
+- Marcia Baïla"**
+- Rita Mitsouko
+- Ryan Clark
+- Sam Ringer
+organisations:
+- AFP
+- Agence France-Presse
+- Demon Hunter
+- Highland Festival Grounds
+- Les Rita Mitsouko
 ---
 
 ## The iconic singer of the French duo Rita Mitsouko has died from a sudden, aggressive form of cancer.

@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- China
+- Devighat
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- Pacific
+- Trishuli River
+people:
+- Anne Ruston
+- Bill Gates
+- Chris Bowen
+- Jim Chalmers
+- Josh Taylor
+- Julian Hill
+- Martin Farrer
+- Melissa Donnelly
+- Nick Visser
+- Pauline Hanson
+- Rajesh Kumar Singh
+- Sally
+organisations:
+- AAP
+- ABC
+- ABC’s News Breakfast
+- ACTU
+- AFP
+- AI
+- Australian Council of Trade Unions
+- Coalition
+- Labor
+- One Nation
+- RN Breakfast
+- Radio National
+- The Albanese
+- Unicef
 ---
 
 A drone view shows houses damaged by flash floods surrounded by sludge, mud and debris along the swollen Trishuli River in Devighat, Nepal. Photograph: Rajesh Kumar Singh/AP

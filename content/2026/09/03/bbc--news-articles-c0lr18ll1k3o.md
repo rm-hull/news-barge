@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- BBC
+- Dudley
+- UK
+- West Midlands
+people:
+- Bones
+- Flesh
+- Mocha
+- Naya Thorn
+- Paris Baby
+- RuPaul
+organisations:
+- BBC Newsbeat
+- BBC iPlayer.
+- Drag Race UK
+- Flesh
+- Generation Ru
+- Mocha
+- Naya Thorn
+- Paris Baby
 ---
 
 ![Mocha wears a fushia pink off-the-shoulder dress with matching pink gloves and has a large brunette wig on. She has dramatic eye makeup. She is standing in front of a poster board which has her face on it.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a925/live/ed86e030-a6ef-11f1-9e4c-79c1c0e340c6.jpg)

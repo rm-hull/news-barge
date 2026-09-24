@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Arts & Culture
 - Books & Literature
+locations:
+- Renaissance Italy
+people:
+- Alice Feeney
+- Howard Coutts
+- Jane Whittaker
+- Maggie O’Farrell
+- Matt Haig
+- Rachel Whitworth
+- Tracy Chevalier
+organisations:
+- A66
+- Bowes Book Club
+- Fashion and Textiles
+- Fine Art and Design
+- Medici
+- Rock Paper Scissors
+- The Bowes Museum
+- The Lady
+- The Midnight Library
 ---
 
 *(Image: Supplied)*

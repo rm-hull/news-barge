@@ -10,6 +10,26 @@ description: Liquid Network is still disrupted, but users can breathe a sigh of 
 image: https://cdn.mos.cms.futurecdn.net/UweTPZX99rMmYJQoBvPT44-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Samson Mow
+- Sead
+- SideSwap
+organisations:
+- Al Jazeera Balkans
+- BTC
+- Bitcoin
+- Blockstream
+- Coindesk
+- Google News
+- L-BTC
+- Liquid Federation
+- Liquid Network
+- Membership
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Bitcoin](https://cdn.mos.cms.futurecdn.net/UweTPZX99rMmYJQoBvPT44.jpg) 

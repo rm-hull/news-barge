@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brenda Road
+- CLEVELAND
+- Hartlepool
+- North East
+- Teesbay Retail Park
+people: []
+organisations:
+- Cleveland Fire Brigade
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

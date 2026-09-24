@@ -10,6 +10,31 @@ description: Poland is getting local production of Anduril's new cruise missile 
 image: https://cdn.mos.cms.futurecdn.net/DkEpEiNqjTjUozkaz4WNcB-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Anduril
+- Europe
+- Kielce
+- Poland
+- Thunder
+- United States
+- Warsaw
+people:
+- Brian Moran
+- Morgan
+organisations:
+- Anduril
+- Apache
+- Barracuda
+- Efosa
+- Fury
+- Google News
+- MSPO
+- NATO
+- PGZ
+- TechRadar Pro
+- Thunder
+- U.S. Air Force
+- Via Defense News
 ---
 
 ![Barracuda cruise missile](https://cdn.mos.cms.futurecdn.net/DkEpEiNqjTjUozkaz4WNcB.png) 

@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bramham Park
+- Charli XCX
+- Henry Redcliffe
+people:
+- 'Dave ## Revellers'
+- Florence
+- Kasabian
+- Matthew Eachus
+- RAYE
+- Sombr
+organisations:
+- AIR Hubs
+- Chase & Status
+- Florence & The Machine
+- Fontaines D.C.
+- Lost Property
+- The Warehouse
 ---
 
 # Leeds Festival '26: Crowds build for final night with headliners RAYE and Dave

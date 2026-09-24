@@ -12,6 +12,41 @@ categories:
 - Science
 - Self-Improvement
 image: https://media.wired.com/photos/6aa859724ea2a5a4d9e48c6f/191:100/w_1280,c_limit/Security_The%20WIRED%20Guide%20to%20Using%20AI%20While%20Protecting%20Your%20Privacy%20v3.jpg
+locations:
+- AI
+people:
+- Claude
+- Confer
+- Matt Green
+- Moxie Marlinspike
+- Yen
+organisations:
+- Anthropic
+- Apple Intelligence
+- Apple Intelligence AI
+- Claude and ChatGPT
+- Duck.ai
+- DuckDuckGo
+- Gemini
+- Google
+- Johns Hopkins University
+- Johns Hopkins’ Green
+- Marlinspike
+- Meta AI
+- Meta’s AI
+- Muse
+- Nvidia
+- OpenAI
+- PCC
+- Private Cloud Compute
+- Proton Drive
+- Proton Mail
+- Siri
+- TEE
+- Venice.ai
+- Venice.ai’s
+- WIRED
+- ZDR
 ---
 
 If the tech industry sought to create a method of seducing users into sending their deepest, most sensitive secrets to a server in a faraway data center, it would be hard-pressed to create a better honeypot than an AI chatbot.

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/f2dff6f23fafc35ca4173d34e4e52c5fbef8b30a/2374_1135_3600_2879/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f567741320e8a9d9a1bcc94cf7e24e5
+locations:
+- Malieveld
+- The Hague
+people:
+- David van Weel
+- Rob Jetten
+organisations:
+- D66
+- NOS
+- We Are the People
 ---
 
 Dutch riot police dispersed several hundred far-right protesters in The Hague on Saturday after violence erupted and local authorities banned a planned march in the city against immigration and asylum policies.

@@ -13,6 +13,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Gulf
+- Iran
+- Iraq
+- Middle East
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- UK
+- US
+people:
+- Richard Hunter
+organisations:
+- IEA
+- Interactive Investor
+- International Energy Agency
 ---
 
 Oil and gas prices have climbed higher after Saudi Arabia shut down a vital oil pipeline in response to a series of drone attacks.

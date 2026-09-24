@@ -16,6 +16,43 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/05/19/07/18151046-b314d9c2-a23f-4ef0-a4ec-93738dd54934.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Britain
+- Broxtowe
+- Central London
+- East Midlands
+- East Renfrewshire
+- Europe
+- France
+- Newcastle-Under-Lyme
+- Paris
+- Rotheram
+- Scotland
+- South Yorkshire
+- UK
+- West End
+- West Midlands
+- Westminster
+- Whitehall
+people:
+- AI
+- Carl-Benedikt Frey
+- Elena Simperl
+- Jacob Coxon
+- Prof Simperl
+organisations:
+- Anthropic
+- City Hall
+- IPPR
+- Institute for Public Policy Research
+- KCL
+- King's Institute for AI
+- King’s College London
+- Office for National Statistics
+- Oxford Internet Institute
+- The Independent
+- Uber
 ---
 
 Central London was at a standstill.

@@ -13,6 +13,26 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Catterick Garrison
+- Harrogate
+- Hawes
+- Helmsley
+- North Yorkshire
+- Richmond
+- Ripon
+- Scarborough
+- Skipton
+- Stokesley
+- Whitby
+- York
+people:
+- Craven
+- David Skaith
+- Julian
+organisations:
+- SKIPTON'S MP
+- Skipton Market
 ---
 
 SKIPTON'S MP is urging Craven people to have their say on the future of transport over the next more than 20 years.

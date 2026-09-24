@@ -14,6 +14,30 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Britain
+- Downing Street
+- Middle East
+- PA
+- Rotherham
+- South Yorkshire
+- Surrey
+- UK
+- Ukraine
+- Woking
+people:
+- Andy Burnham
+- John Healey
+- Jonathan Reynolds
+- Louise Haigh
+- Mr Burnham
+- Nick Collins
+- Stefan Rousseau
+organisations:
+- McLaren Automotive
+- McLaren Composites Technology Centre
+- McLaren F1
+- McLaren’s Technology Centre
 ---
 
 Luxury carmaker McLaren has announced plans to invest £500 million in the UK and to create 1,000 new jobs, a move hailed by the Prime Minister as “doubling down on Britain”.

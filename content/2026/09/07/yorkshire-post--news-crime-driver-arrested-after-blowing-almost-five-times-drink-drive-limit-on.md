@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley
+- Lairgate
+- Yorkshire
+people: []
+organisations:
+- Humberside Police
 ---
 
 # Driver arrested after blowing almost five times drink-drive limit on roadside

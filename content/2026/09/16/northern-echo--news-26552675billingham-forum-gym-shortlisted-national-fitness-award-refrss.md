@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Billingham
+- North East
+- Stockton
+- Stockton-on-Tees
+people:
+- Leon Jones
+- Nigel Cooke
+organisations:
+- Billingham Forum
+- IB Leisure
+- ICC Birmingham
+- Stockton Council
+- Tees Active
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,17 @@ image: https://static.independent.co.uk/2026/09/17/10/31/Dan-Jeffries-Frome-Comm
 categories:
 - News & Politics
 - UK
+locations:
+- Somerset
+people:
+- Ann-Marie Ramsey
+- Dan Jeffries
+- Natalie Morris
+organisations:
+- Department for Education
+- Frome Community College
+- ITV West Country
+- The Independent
 ---
 
 A school’s new headteacher has sparked fury among parents after he suspended 25 pupils in the first week back at school for reasons including “zipping their bag too loudly” and “nervously laughing”.

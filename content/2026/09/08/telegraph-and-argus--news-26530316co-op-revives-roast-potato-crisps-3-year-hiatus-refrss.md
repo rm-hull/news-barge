@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- UK
+people:
+- Natalie Dawe
+organisations:
+- Co-op
+- McDonald's
+- McVitie's
+- Roast Potato Crisps
 ---
 
 *(Image: Co-op)*

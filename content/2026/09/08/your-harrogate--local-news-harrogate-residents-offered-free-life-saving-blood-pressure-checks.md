@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Active North Yorkshire
+- North Yorkshire
+people:
+- Michael Harrison
+organisations:
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fccfe156a7a93bab.jpg) 

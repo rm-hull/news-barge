@@ -13,6 +13,46 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/02/Trump_Xi_Beijing_Agreements_13663.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Beijing
+- China
+- Hong Kong
+- Las Vegas
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Alvin Graylin
+- Chan Ho-him
+- Craig Allen
+- Donald Trump
+- Ja Ian Chong
+- Joe Schuele
+- Kelly Ortberg
+- Kurt Tong
+- Luke Lindberg
+- Rio Yamat
+- Sara Schuman
+- Xi Jinping
+- \_\_\_ Tang
+organisations:
+- AI
+- AP
+- Asia Society Policy Institute
+- Board of Investment
+- Board of Investment An
+- Board of Trade
+- Boeing
+- Chinese Commerce Ministry
+- National University of Singapore
+- The Asia Group
+- U.S. Congress
+- U.S. Department of Agriculture
+- U.S. Meat Export Federation
+- Washington-based Center for a New American Security
+- World Economic Forum
 ---
 
 The U.S. and China have made uneven progress in fulfilling the trade commitments announced after their two leaders met in Beijing in May.

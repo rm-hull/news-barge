@@ -14,6 +14,17 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Germany
+- Mitte
+people: []
+organisations:
+- CDU
+- EU
+- Green Party
+- LEA
+- Left Party
 ---
 
 Following a wave of support for anti-immigrant parties in recent state elections, the next Berlin elections – held on Sunday, September 20th – feel especially consequential for foreigners.

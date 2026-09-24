@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- A66
+- Atlee Road
+- County Durham
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- Riverside Stadium
+- South Bank
+- Steele Crescent
+people:
+- Cole Worthy
+- Jakub Matusiak
+- King
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Natalie McDonald
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Police
+- Middlesbrough FC
+- Mirror
+- West Bromwich Albion
 ---
 
 Tributes have been paid by football supporters to two Cleveland Police constables killed in a head-on collision on the A66, as officers maintain their investigation into a spate of local incidents.

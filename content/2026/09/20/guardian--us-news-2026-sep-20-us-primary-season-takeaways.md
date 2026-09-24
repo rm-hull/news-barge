@@ -12,6 +12,97 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/7f95a66731b6f17781f6152b14c7dd57492b2102/725_0_4417_3533/master/4417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f6c1bc428e05bec20e662933306adec
+locations:
+- California
+- Colorado
+- Florida
+- Gaza
+- Hawaii
+- Iran
+- Israel
+- Kentucky
+- Louisiana
+- Maine
+- Maryland
+- Massachusetts
+- Michigan
+- Middle Eastern
+- Missouri
+- New York
+- North Carolina
+- Philadelphia
+- Tennessee
+- Texas
+- US
+- United States
+- Washington
+people:
+- Abdul El-Sayed
+- Adrian Boafo
+- Adriano Espaillat
+- Aisha Wahab
+- Al Green
+- Andy Ogles
+- Bill Cassidy
+- Brad Lander
+- Chris Rabb
+- Chuck Edwards
+- Claire Valdez
+- Cori Bush
+- Cory Mills
+- Dan Crenshaw
+- Dan Goldman
+- Darializa Avila Chevalier
+- Diana DeGette
+- Donald Trump
+- Donovan McKinney
+- Ed Case
+- Ed Gallrein
+- Ed Markey
+- Eric Swalwell
+- Graham Platner
+- Haley Stevens
+- James Talarico
+- Jarrett Keohokalole
+- John Cornyn
+- John Hickenlooper
+- John Larson
+- Julie Gonzales
+- Julie Johnson
+- Ken Paxton
+- Luke Bronin
+- Marie Gluesenkamp Perez
+- Matt Bennett
+- Max Miller
+- Melat Kiros
+- Nydia Velazquez
+- Rogers
+- Seth Moulton
+- Shri Thanedar
+- Steny Hoyer
+- Susan Collins
+- Thomas Massie
+- Tom Barrett
+- Wesley Bell
+- William Lawrence
+organisations:
+- Aipac
+- American Israel Public Affairs Committee
+- Blue Dogs
+- Congress
+- Congressional Hispanic Caucus
+- Cook Political Report
+- DSA
+- Democratic Socialists of America
+- GOP
+- House
+- New Democrat Coalition
+- Pacs
+- Pew Research Center
+- Senate
+- Third Way
+- USA Today
+- United Democracy Project Super Pac
 ---
 
 Primary season has official concluded in the United States, with Democrats leading the polls among voters amid widespread economic anxieties, a war with Iran and Donald Trump’s mass deportation agenda continuing into the end of the year.

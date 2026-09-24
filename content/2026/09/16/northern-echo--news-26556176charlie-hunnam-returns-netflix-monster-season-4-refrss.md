@@ -15,6 +15,50 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- America
+- County Durham
+- New England
+- Newcastle upon Tyne
+- North East
+- Ravenseat Farm
+- Tyneside
+- US
+people:
+- '### Charlie'
+- Abby Borden
+- Amanda
+- Andrew Borden
+- Billie Lourd
+- Bridget Sullivan
+- Charlie Hunnam
+- Charlie Hunnam Portraying Ed Gein
+- Clive Owen
+- Denise Welch
+- Ed Gein
+- Ella Beatty
+- Emma Borden
+- Erik Menendez
+- Jeffrey Dahmer
+- Jessica Barden
+- Lizzie Borden
+- Lyle
+- Nance O’Neil
+- Rebecca Hall
+- Vicky Krieps
+organisations:
+- BBC One TV
+- Byker Grove
+- Chilli Pad
+- County Durham
+- Hunnam
+- JD Sports
+- Lad Bible
+- Netflix
+- Pacific Rim
+- Rebel Moon
+- Sons of Anarchy
+- The Gentlemen
 ---
 
 North East-born actor Charlie Hunnam returns to Netflix’s hit Monster anthology as The Lizzie Borden Story airs this week.

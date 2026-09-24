@@ -15,6 +15,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Doncaster Racecourse
+- Leesa Smickersgill
+- YORKSHIRE
+people:
+- Jonathan Gawthorpe
+- Karen Lawther
+- Louise Scralett
+organisations:
+- Yorkshire
 ---
 
 The popular occasion, billed as “Yorkshire’s biggest social event of the year”, forms part of the prestigious festival, which is celebrating its 250th anniversary in 2026.

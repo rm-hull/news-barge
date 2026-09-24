@@ -11,6 +11,35 @@ description: The week's biggest tech news stories from Netflix, Meta, Nokia and 
 image: https://cdn.mos.cms.futurecdn.net/Z25io8bySrbCf4Q288TnQY-2000-80.png
 categories:
 - Technology & Software
+locations:
+- French Alps
+- Gamescom
+- US
+- USB-C
+people:
+- John Ternus
+organisations:
+- Apple
+- Apple's
+- DLC
+- Fenix 9
+- GTA
+- Gamescom
+- Garmin Fenix
+- Google News
+- HMD
+- Hamish
+- IKEA
+- Instagram
+- Mac
+- Meta Smart Glasses
+- Netflix
+- Nokia
+- RAM
+- Snap
+- TechRadar
+- TikTok
+- YouTube
 ---
 
 ![The GTA 6 Extended Look, new Nokia phone, and Apple's invite.](https://cdn.mos.cms.futurecdn.net/Z25io8bySrbCf4Q288TnQY.png) 

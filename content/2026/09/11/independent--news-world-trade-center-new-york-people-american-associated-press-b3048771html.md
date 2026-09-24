@@ -14,6 +14,13 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- United States
+people:
+- Howie Rumberg
+organisations:
+- Associated Press
+- World Trade Center
 ---
 
 I stood amid the rubble of the World Trade Center, passing buckets of debris down a line of volunteers and first responders. It was hours after the Sept. 11, 2001, attacks. A little white object poking out of the gray ash caught my attention.

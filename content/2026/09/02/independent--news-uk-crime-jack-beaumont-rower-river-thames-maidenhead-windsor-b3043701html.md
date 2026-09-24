@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Maidenhead Rowing Club
+- River Thames
+- Tokyo
+- Windsor
+people:
+- Jack Beaumont
+- Laura Al-Owaied
+organisations:
+- Maidenhead Rowing Club
+- Thames Valley Police
+- The Times
 ---
 
 An Olympic rower has recalled the “frightening” moment he feared a motorboat rider was going to “ram” him on the River Thames.

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/34/15/1200x675_cmsv2_550bfdb0-18d5-5996-9861-f8372f7a0797-9923415.jpg
+locations:
+- Adriatic coast
+- China
+- Croatia
+- Denmark
+- Europe
+- Finland
+- France
+- Germany
+- Hong Kong
+- Italy
+- Netherlands
+- Norway
+- Spain
+- Thailand
+- US
+- Ukraine
+- United Kingdom
+people: []
+organisations: []
 ---
 
 Ancient Roman Pula on Croatia’s Adriatic coast is being transformed by contemporary light art as the Visualia Light Festival brings installations to 16 locations across the historic city.

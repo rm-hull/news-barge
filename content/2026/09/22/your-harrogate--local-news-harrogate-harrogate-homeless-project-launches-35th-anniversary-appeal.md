@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6ab23b8bf40d2f72153.jpg
+locations: []
+people:
+- Richard Cooper
+organisations:
+- 35 Years of Hope’
+- HHP Santa Dash
+- Harrogate Homeless Project
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab23b8bf40d2f72153.jpg)

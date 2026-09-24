@@ -13,6 +13,22 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Pocklington Arts Centre
+- UK
+people:
+- Carl Jones
+- Catherine Young
+- Dan Evans
+- Frankie Boyle
+- Milton Jones
+- Steve Gribbin
+organisations:
+- Liverpool
+- Pocklington Arts Centre
+- Radio 4
+- The Scotsman
+- The Times
 ---
 
 *(Image: Pocklington Arts Centre)*

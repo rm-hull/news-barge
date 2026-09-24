@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bangkok
+- Chonburi
+- Iran
+- Lincoln
+- Middle East
+- Pattaya Beach
+- Singapore
+- Thailand
+- U.S.
+- US
+- Walking Street
+people:
+- Abraham Lincoln
+- Anek Srathongyoo
+- Bualuang Ponok
+- Donald Trump
+- Frank E. Petersen Jr.
+- George Washington
+- Poramet Ngampichet
+- Somkiet Noree
+organisations:
+- U.S. Navy
+- U.S.S
 ---
 
 Thousands of American service members are about to descend on eastern Thailand, as the USS Abraham Lincoln makes a port call near the city of Pattaya, famous for its beaches and nightlife.

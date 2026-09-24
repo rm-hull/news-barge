@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- East Coast
+- Maine
+- Pine Point Beach
+- Scarborough
+- US
+- Wells Beach
+people:
+- Greg Wilfert
+- James Sulikowski
+- Matthew Davis
+- Steven Spielberg
+- Walter Golet
+organisations:
+- Coastal Oregon Marine Experiment Station
+- Maine’s Department of Natural Resources
+- Oregon State University
+- University of Maine School of Marine Science
+- WFSB
+- WIRED
 ---
 
 Lifeguard Greg Wilfert was swimming off the coast of Scarborough, Maine, in August when he was yanked underwater by a force tugging on his rescue buoy. Wilfert, a lifeguard of 55 years, told local news outlet WFSB that he first thought he’d gotten caught on a boat propeller, but the real culprit was a great white shark.

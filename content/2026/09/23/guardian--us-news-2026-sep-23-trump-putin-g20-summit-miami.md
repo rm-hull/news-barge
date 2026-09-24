@@ -11,6 +11,39 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/bb389f3273f929675026c5a8bea6eeac70622bd8/248_0_2278_1822/master/2278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6ea862072a179255107a7916b090f69
+locations:
+- China
+- Europe
+- India
+- Kremlin
+- Kyiv
+- Miami
+- New York
+- Russia
+- US
+- Ukraine
+- United Kingdom
+- United States
+people:
+- Anton Siluanov
+- Charlotte Higgins
+- Kyiv
+- Marco Rubio
+- Sergei Lavrov
+- Shahed
+- Trump
+- Vitali Klitschko
+- Vladimir Putin
+- Zelenskyy
+organisations:
+- Congress
+- Deutsche Welle
+- European Union
+- G20
+- House
+- Kyiv
+- Trump
+- United Nations
 ---
 
 The United States has invited Vladimir Putin to take part in the meeting of the G20 scheduled in Miami in December in what would be the first major summit with the Russian leader present since he launched his invasion of Ukraine in 2022.

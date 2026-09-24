@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Crowdcube
+- Darlington
+- NHS
+people:
+- Aulden Dunipace
+organisations:
+- A66
+- Chestnut Biopolymers
+- Darlington Market
 ---
 
 *(Image: Chestnut Biopolymers)*

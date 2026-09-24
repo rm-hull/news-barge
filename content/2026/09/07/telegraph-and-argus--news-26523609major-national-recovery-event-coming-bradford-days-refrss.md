@@ -14,6 +14,32 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Live
+- Centenary Square
+- Guru Gobind Singh Gurdwara
+- Jinnah
+- Leeds Road
+- Recovery Village
+- Saltaire
+- UK
+people:
+- Anne Marie Ward
+- Craig Blundred
+- Dame Carol Black
+- Dave Memery
+organisations:
+- Bradford Council
+- Bradford’s Combating Alcohol and Drugs Partnership
+- Bradford’s Lived Experience Recovery Organisation
+- CADP
+- Create Strength Group
+- FAVOR UK
+- Faces & Voices of Recovery UK
+- LERO
+- Public Health
+- Recovery Village
+- UK Recovery Walk
 ---
 
 *(Image: Supplied)*

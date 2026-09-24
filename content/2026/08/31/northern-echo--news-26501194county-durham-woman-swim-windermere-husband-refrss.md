@@ -14,6 +14,38 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Coniston Water
+- Consett
+- County Durham NHS
+- County Durham for Tees
+- Darlington
+- Ellerton Water
+- Esk
+- Hyde Park
+- London
+- Montenegro
+- Newton Aycliffe
+- North East
+- Sleekburn
+- Stanhope Quarry
+- Swim Serpentine
+- Ullswater
+- UltraSwim
+- Weardale Adventure
+- Windermere
+people:
+- Christine Murphy
+- James Murphy
+organisations:
+- Alzheimer’s Society
+- Annfield
+- British Heart Foundation
+- Consett Swimming Club
+- Imperial College
+- Lake District
+- Triple Crown
+- Wear Valleys NHS Foundation Trust
 ---
 
 A County Durham NHS manager is preparing to take on an 11-mile swim across Windermere just weeks after celebrating her 60th birthday.

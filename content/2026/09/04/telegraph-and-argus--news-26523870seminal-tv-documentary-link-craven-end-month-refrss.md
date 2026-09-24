@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Littondale
+- Skipton
+- UK
+- USA
+people:
+- Nick Hitchon
+organisations:
+- Craven
+- ITV1
+- ITVX
 ---
 
 *(Image: Submitted)*

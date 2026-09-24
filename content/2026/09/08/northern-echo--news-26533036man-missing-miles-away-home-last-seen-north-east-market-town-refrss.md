@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Cleveland
+- Manchester
+- North Tees
+- Norton Road
+- Stockton High Street
+- Stockton-on-Tees
+people:
+- Ryan Morris
+organisations:
+- Cleveland Police
+- University Hospital
 ---
 
 *(Image: Cleveland Police)*

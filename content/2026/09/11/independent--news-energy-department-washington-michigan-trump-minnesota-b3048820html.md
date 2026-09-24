@@ -12,6 +12,26 @@ image: https://static.independent.co.uk/2026/09/11/17/Trump_Coal_Plant_77_26.jpg
 categories:
 - News & Politics
 - UK
+locations:
+- Campbell
+- Illinois
+- Michigan
+- Midwest
+- Minnesota
+- U.S.
+people:
+- Campbell
+- Chris Wright
+- Cornelia Pillard
+- Ted Kelly
+- Trump
+organisations:
+- Appeals Court
+- District of Columbia Circuit
+- Energy Department
+- Environmental Defense Fund
+- Trump
+- U.S. Court of Appeals
 ---
 
 In a defeat for the Trump administration, a federal court on Friday ruled that the Energy Department exceeded its authority when it forced a Michigan coal-fired power to stay open past its scheduled retirement date last year.

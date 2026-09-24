@@ -11,6 +11,28 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Channel Islands
+- England
+- London
+- Normandy
+- North Yorkshire
+- North Yorkshire Rievaulx Abbey
+- Rievaulx Abbey
+- UK
+people:
+- Charles Alfred Stothard
+- Harold Godwinson
+- Iona Keen
+- Nicholas Cullinan OBE
+- William
+organisations:
+- Bayeux Around Britain
+- British Museum
+- English Heritage
+- Rievaulx Abbey
+- Society of Antiquaries
+- WorldQuant
 ---
 
 ## Rare Victorian casts of the Bayeux Tapestry to go on display in North Yorkshire

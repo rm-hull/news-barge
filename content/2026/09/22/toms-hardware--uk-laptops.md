@@ -11,6 +11,37 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/w44EMAP6JdaBhy7qKSGX2T-450-80.jpg
+locations:
+- Aurora
+- Wildcat Lake
+people:
+- Andrew E. Freedman
+organisations:
+- Alienware
+- Andrew E. Freedman
+- Andrew E. Freedman Published
+- Apple
+- Asus Zenbook Duo
+- Brandon Hill
+- Brandon Hill Published
+- Charles Jefferies Published
+- Dell Deals
+- IdeaPad Vibe
+- Kunal Khullar Published
+- LaptopsLenovo
+- Lenovo IdeaPad Vibe
+- Lenovo Yoga
+- MacBook Air
+- MacbooksAMD
+- MacbooksApple
+- MacbooksIngenious
+- MacbooksRAM
+- Mark Tyson Published
+- Samsung Galaxy Book6
+- Ultrabooks
+- UltraportablesApple
+- UltraportablesChina
+- UltraportablesLenovo
 ---
 
 # Laptops

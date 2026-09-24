@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Abergavenny
+- Herefordshire
+- North Yorkshire
+- Wales
+people:
+- James May.
+- Jeremy Clarkson
+- Richard Hammond
+organisations:
+- Harrogate College of Art and Technology
+- Land Rovers
+- Ripon Grammar School
+- The Smallest Cog
+- Top Gear
 ---
 
 TV presenter Richard Hammond has revealed he kept cars from his time on Top Gear and The Grand Tour.

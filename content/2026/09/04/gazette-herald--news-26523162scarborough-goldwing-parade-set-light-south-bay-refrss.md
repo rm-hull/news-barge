@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Eastborough
+- Foreshore Road
+- Globe Street
+- Marine Drive
+- North Yorkshire
+- Peasholm Gap
+- Royal Albert Drive
+- Sandside
+- Scarborough Pier
+- South Bay
+- Spa Bridge
+people:
+- Danielle Scott
+- Simon Myers
+organisations:
+- North Yorkshire Council
+- Scarborough
+- Yorkshire Air Ambulance
 ---
 
 A dazzling parade of illuminated motorbikes is set to light up the North Yorkshire coast next week.

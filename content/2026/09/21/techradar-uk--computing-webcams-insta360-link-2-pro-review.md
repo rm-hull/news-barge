@@ -12,6 +12,21 @@ description: Insta360's new Link 2 Pro webcam is a powerhouse peripheral for con
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/QkvsJjf93seLNAxGCuvSi7-2560-80.jpg
+locations:
+- Australia
+- UK
+- US
+people:
+- Christian Guyton
+- Lucy
+organisations:
+- Canon
+- DJI
+- Insta360
+- Maximum PC
+- Obsbot
+- PC-building
+- TechRadar
 ---
 
 ### TechRadar Verdict

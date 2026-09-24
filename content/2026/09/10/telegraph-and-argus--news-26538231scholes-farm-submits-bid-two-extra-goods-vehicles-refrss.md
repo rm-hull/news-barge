@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Whitechapel Road
+people:
+- Scholes
+organisations:
+- Chairbarrow Farm
+- FARM
+- Newsquest
 ---
 
 *(Image: Newsquest)*

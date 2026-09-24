@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A1
+- A1M
+- Burtree Gate
+- Burtree Interchange
+- County Durham
+- Darlington Memorial Hospital
+- Junction 57
+- Junction 58
+- M
+- M) Southbound
+- Merrybent
+- Newton Aycliffe Fire Stations
+- Spennymoor
+- Stapleton
+- UGC
+people: []
+organisations:
+- A1
+- County Durham
+- Darlington Fire and Rescue Service
+- Durham Police
+- GNAAS
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- HART
+- Hazardous Area Response Team
+- National Highways
+- North East Ambulance Service
 ---
 
 *(Image: CONTRIBUTOR)*

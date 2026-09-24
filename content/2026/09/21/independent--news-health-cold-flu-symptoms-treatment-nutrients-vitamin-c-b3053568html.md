@@ -13,6 +13,23 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2025/09/24/14/22/iStock-1252813726.jpeg?trim=0,151,0,151&width=1200&height=800&crop=1200:800
+locations:
+- Covid
+people:
+- Leyla Hanbeck
+- Linus Pauling
+- Paul Hunter
+organisations:
+- American Journal of Lifestyle Medicine
+- Australian National University
+- Cochrane
+- Independent Pharmacies Association
+- Lancet
+- NHS
+- NICE
+- National Institute for Health and Care Excellence
+- University of East Anglia
+- University of Helsinki
 ---
 
 It’s the season of coughs and sneezes, but will daily vitamins help fight off the symptoms of flu, the common cold – and even Covid.

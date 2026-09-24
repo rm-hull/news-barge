@@ -13,6 +13,13 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- York
+people:
+- Lucy Steels-Walshaw
+organisations:
+- Adult Social Care
+- City of York Council
 ---
 
 *(Image: City of York Council)*

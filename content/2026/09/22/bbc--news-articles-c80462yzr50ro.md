@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfb3/live/31b610b0-b68f-11f1-99b0-21d40bed432b.jpg
+locations:
+- Bath
+- Gower Peninsula
+- King's College Hospital
+- London
+- Newport
+- Royal United Hospital
+- UK
+- Wales
+people:
+- '![Riley'
+- Chris
+- Emma Lewandowicz
+- Kate Lubas
+- Lydia La Polla
+- Riley Lubas
+- Will Mackintosh
+organisations:
+- King's College ICU
+- NHS
+- Office for National Statistics
+- RCGP Cymru Wales
+- Riley
+- Royal College of General Practitioners Cymru Wales
+- University of Bath
 ---
 
 ![Riley smiles at the camera, with his hands crossed on a wooden table in front of him. A birthday cake with candles in can be seen on the table.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/cfb3/live/31b610b0-b68f-11f1-99b0-21d40bed432b.jpg)

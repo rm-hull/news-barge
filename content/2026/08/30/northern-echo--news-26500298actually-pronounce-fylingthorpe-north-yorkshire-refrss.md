@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Fylingdales
+- Fylingthorpe
+- Hollywood
+- Mewker
+- North York Moors
+- North Yorkshire
+- Quiet County Durham
+- RAF
+- Robin Hood
+- Robin Hood's Bay
+- Thorpe Hall
+- Whitby Abbey
+people:
+- Denise Welch
+- Tom Hardy
+- William de Percy
+organisations:
+- Chop Gate
+- Chop-Yat
+- Fyling Hall
+- Fylingthorpe
+- Loose Women
+- Muker
+- Northern Echo
 ---
 
 *(Image: GOOGLE)*

@@ -14,6 +14,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/18/Trump_Offshore_Wind_231_9.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Connecticut
+- Delaware
+- East and West
+- Maine
+- Massachusetts
+- New Jersey
+- New York
+- New York City
+- Rhode Island
+- U.S.
+- Vermont
+people:
+- Donald Trump
+- Letitia James
+- Rob Bonta
+- \_\_\_ McDermott
+organisations:
+- Bluepoint Wind
+- General Assembly
+- Invenergy
+- Trump
+- U.N.
 ---
 
 Democratic attorneys general from California and New York sued the Trump administration Tuesday over its plans to buy back offshore wind leases as President Donald Trump seeks to discourage the expansion of wind energy in favor of fossil fuels.

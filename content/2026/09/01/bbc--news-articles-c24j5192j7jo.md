@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Music
 - True Crime
+locations:
+- America
+- East Coast
+- Las Vegas
+- Nevada
+- West Coast
+people:
+- Binu Palal
+- Carli Kierny
+- Christopher Wallace
+- Davis'
+- Duane "Keffe D" Davis
+- Duane Davis
+- Marion "Suge" Knight
+- Michael Sanft
+- Notorious B.I.G.
+- Orlando Anderson
+- Tupac Shakur
+organisations:
+- Bloods and Crips
+- Cadillac
+- Clark County District Court
+- Regional Justice Center
+- South Side Compton Crips
+- South Side Crips
 ---
 
 Watch: What it was like inside court for Tupac Shakur’s murder trial verdict

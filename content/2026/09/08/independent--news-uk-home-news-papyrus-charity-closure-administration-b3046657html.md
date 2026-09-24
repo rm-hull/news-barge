@@ -12,6 +12,26 @@ categories:
 - UK
 - Health & Fitness
 - Self-Improvement
+locations:
+- UK
+- USA
+people:
+- Andy Airey
+- Charles Turner
+- Dads Walking
+- Emma Mifsud
+- Mike Palmer
+- Papyrus
+- Simon Gunning
+- Tim Owen
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Board
+- CALM
+- Campaign Against Living Miserably
+- Opus Restructuring & Insolvency
+- Papyrus
+- Samaritans
 ---
 
 The youth suicide prevention charity Papyrus has collapsed into administration.

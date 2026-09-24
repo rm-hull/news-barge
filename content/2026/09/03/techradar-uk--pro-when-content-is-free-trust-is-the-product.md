@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- O’Reilly
+people:
+- Andrew Odewahn
+- Dave Hickey
+- Jasmine Sun
+organisations:
+- AI
+- CTO
+- Future plc
+- Google
+- LLM
+- PageRank
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

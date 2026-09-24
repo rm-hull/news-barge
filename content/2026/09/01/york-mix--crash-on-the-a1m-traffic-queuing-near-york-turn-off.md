@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Tadcaster
+- York
+people: []
+organisations:
+- '#### Crash location Police'
+- A1M
+- AA
+- Boston Spa
+- Wattlesyke
 ---
 
 A crash on the A1M is causing slow traffic this morning (Tuesday).

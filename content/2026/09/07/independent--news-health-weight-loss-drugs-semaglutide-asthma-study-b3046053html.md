@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Barcelona
+- Spain
+- UK
+people:
+- Alexander Mathioudakis
+- Chloe Bloom
+- Prof Bloom
+- Samantha Walker
+organisations:
+- Airway Pharmacology and Treatment
+- Asthma
+- European Respiratory Society
+- European Respiratory Society Congress
+- Imperial College London
+- Lung UK
+- National Heart and Lung Institute
+- Semaglutide
 ---
 
 Patients with asthma using the weight loss and diabetes drug semaglutide may experience fewer attacks, a new study suggests.

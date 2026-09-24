@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Travel
 - Home, Garden & DIY
+locations:
+- Harrogate
+- High Birstwith
+- North Yorkshire
+- Reynard Crag Holiday Park
+people:
+- Andy Burnham
+organisations:
+- Reynard Crag
 ---
 
 Plans have been submitted to expand a North Yorkshire holiday park to meet growing demand for more spacious and private rural holiday accommodation.

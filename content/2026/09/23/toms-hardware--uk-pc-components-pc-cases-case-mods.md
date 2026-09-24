@@ -12,6 +12,16 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/rqNPxisBCHvtJVFXGZqfnD-320-80.jpg
+locations: []
+people: []
+organisations:
+- Apple
+- Get Tom's Hardware
+- MrYeester
+- Museum
+- PC
+- RGB
+- Zack Freedman
 ---
 
 ![Two photos of the Aftershock PC Cherry Bloom PC.](https://cdn.mos.cms.futurecdn.net/rqNPxisBCHvtJVFXGZqfnD-320-80.jpg)

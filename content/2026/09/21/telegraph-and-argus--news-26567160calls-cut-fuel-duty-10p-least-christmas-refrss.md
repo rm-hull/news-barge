@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/20414605.jpg?type=og-image
+locations:
+- America
+- Brighton Pier
+- Iran
+- UK
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Elon Musk
+- John Healey
+- Nigel Farage
+- Zack Polanski
+organisations:
+- Green Party
+- Reform UK
+- Treasury
+- iStockphoto
 ---
 
 *(Image: Getty Images/iStockphoto)*

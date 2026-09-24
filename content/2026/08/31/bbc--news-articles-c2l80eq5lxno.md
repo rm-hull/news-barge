@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Canada
+- Erie
+- Great Lake
+- Great Lakes
+- Huron
+- Lake America
+- Lake Ontario
+- Lake of America
+- Michigan
+- New York
+- Toronto
+- US
+people:
+- '** Burgum'
+- Donald Trump
+- Doug Burgum
+- Doug Ford
+- George Stephanopoulos
+- Maria
+organisations:
+- American TV
+- Apple App Store
+- BBC
+- Fox Business' Mornings
+- GNIS
+- Google
+- Hydro One
+- Hydro Ottawa
+- Liquor Board of Ontario
+- MapQuest
+- Oval Office
 ---
 
 ![President Donald Trump pictured from his side profile in the Oval Office, with a sign behind him that reads 'Making the Great Lakes Even Greater' and that shows a map of the Great Lakes, with Lake Ontario being labled as LAKE AMERICA.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg)

@@ -11,6 +11,36 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/86ec1271f4feeaa83e696c9ba648c6b304809281/513_0_3484_2788/master/3484.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=304f79685d3dd8e5adde5e60f95b1f62
+locations:
+- Chechnya
+- Donbas
+- Kharkiv
+- Kramatorsk
+- Kremlin
+- Kyiv
+- Lyman
+- Moscow
+- Sloviansk
+- Ukraine
+- United Russia
+- Zaporizhzhia
+- Zaporizhzhia.
+people:
+- Boris Nadezhdin
+- Dmitry Peskov
+- Ella Pamfilova
+- Kaja Kallas
+- Ramzan Kadyrov
+- Vladimir Putin
+- Vladimir Yakushev
+- Volodymyr Zelenskyy
+- Yabloko
+organisations:
+- Duma
+- EU
+- LDPR
+- New People
+- Zaporizhzhia National University
 ---
 
 Russia’s new parliament will include 49 deputies who have taken part in the war against Ukraine, officials have said after a landslide victory by the ruling United Russia party in widely criticised elections.

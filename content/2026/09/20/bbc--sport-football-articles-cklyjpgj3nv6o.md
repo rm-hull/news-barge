@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/340c/live/c082ab20-b50c-11f1-91cc-c5691e33b858.jpg
+locations:
+- Anfield
+- Bournemouth
+- France
+- Liverpool
+- San Sebastian
+people:
+- '## Iraola'
+- Alexander Isak
+- Alisson Becker
+- Andoni Iraola
+- Araujo
+- Bradley Barcola
+- Cody Gakpo
+- Evanilson
+- Fagan Iraola
+- Florian Wirtz
+- Jeremy Jacquet
+- Joe Fagan
+- Kerkez
+- Milos
+- Ronald
+- Van Dijk
+- Virgil [van Dijk
+- Zinedine Zidane
+organisations:
+- Bournemouth
+- Chelsea
+- Cherries
+- Europa League
+- Fulham
+- Liverpool
+- Premier League
+- Rennes
 ---
 
 ![Jeremy Jacquet and Alisson Becker](https://ichef.bbci.co.uk/ace/standard/991/cpsprodpb/340c/live/c082ab20-b50c-11f1-91cc-c5691e33b858.jpg)

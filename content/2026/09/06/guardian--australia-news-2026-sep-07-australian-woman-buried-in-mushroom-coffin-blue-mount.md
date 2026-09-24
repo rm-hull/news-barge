@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Australia
+- Blue Mountains
+- Europe
+- New South Wales
+- Springwood Cemetery
+- Sydney
+- US
+people:
+- Bob Hendrikx
+- Carolyn
+- David
+- Hannah Gould
+organisations:
+- Loop Biotech
+- PlanetMark
+- University of Melbourne
 ---
 
 A woman has been buried in a coffin made from mushrooms in New South Wales in an eco-friendly first for Australia.

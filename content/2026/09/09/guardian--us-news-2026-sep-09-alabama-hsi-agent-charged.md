@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/ed93a4c0f89a793e8a4eeb5351c7bd76a62555c5/2
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- Baldwin
+people:
+- John Barber
+- Kent Blacklidge
+- Steve Marshall
+organisations:
+- Associated Press
+- DHS
+- Department of Homeland Security
+- HSI
+- Homeland Security Investigations
+- ICE
+- Immigration and Customs Enforcement
+- Trump
 ---
 
 A federal law enforcement agent tasked with “trying to provide justice in cases involving kids” has been charged with child rape in Alabama, state authorities said on Tuesday.

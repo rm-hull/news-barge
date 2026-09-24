@@ -13,6 +13,34 @@ image: https://static.independent.co.uk/2025/02/13/13/08/LeroyDouglas.jpeg?trim=
 categories:
 - News & Politics
 - UK
+locations:
+- Cardiff
+- Wiltshire
+people:
+- Abdullahi Suleman
+- Alex Norris
+- Alice Jill Edwards
+- Andrew Harper
+- Andy Burnham
+- Josh Mcrae
+- Joshua Mcrae
+- Karen Todner
+- Leroy Douglas
+- Muin Boase
+- PC Harper
+- Shaun Lloyd
+- Wayne Williams
+organisations:
+- BBC
+- Great James Street Chambers
+- HMP Erlestoke
+- High Court
+- IPP Committee in Action
+- IPP Solidarity Movement
+- Imprisonment for Public Protection
+- The Independent
+- UN Working Group
+- United Nations
 ---
 
 Twenty years since Leroy Douglas targeted a friend behind Cardiff railway station and stole his mobile phone, he is weeks away from finally being free.

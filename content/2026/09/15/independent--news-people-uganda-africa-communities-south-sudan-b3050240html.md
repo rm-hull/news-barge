@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Kapoeta
+- Kenya
+- Lobillia
+- Lohobohobo
+- Nabutsilili
+- Nairobi
+- Namatsokha
+- South Sudan
+- Uganda
+- sub-Saharan Africa
+people:
+- Albino Lobillia
+- David Nabutsilili
+- God
+- Inzu ya Masaaba
+- Isaac Watenga
+- Joris Gasper
+- Joseph Weyusya
+- Kilindon Simiyu
+- Madelina Tito
+- Matthew Oromo
+- Namatsokha
+- Paul Boyi
+- Solomon Oture
+- Yoweri Museveni
+- ___ Falzetta
+organisations:
+- AP
+- Associated Press
+- International Journal of Environment and Climate Change
+- Lilly Endowment Inc
+- REACH Initiative
+- The Associated Press
+- The Conversation US
 ---
 
 The farmers who paid David Nabutsilili money to summon rain were angry when they received so much of it that their vegetable gardens were left flooded. They chased him up and down the hills, stopping when he fell upon a rock and broke a femur. That was his punishment.

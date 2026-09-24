@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Headlam
+- Will Wright
+organisations:
+- CVA
+- Headlam Group
+- Interpath
 ---
 
 Flooring firm Headlam has cut 154 jobs after tumbling into administration.

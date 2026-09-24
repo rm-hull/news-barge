@@ -13,6 +13,80 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- CA
+- Canada
+- Crystal Palace
+- Etihad Stadium
+- London
+- Man City
+- Man City XI
+- Manchester
+- Pakistan
+- Selhurst Park
+- UK
+- US
+- United Kingdom
+- canada
+- uk
+people:
+- Anderson
+- Cherki
+- Dias
+- Donnarumma
+- Enzo Maresca
+- Erling Haaland
+- Foden Semenyo
+- Greg Lea
+- Ismaila Sarr
+- Jean-Philippe Mateta
+- Josko Gvardiol
+- Khusanov
+- Marc Guehi
+- O'Reilly
+- Pierre Sage
+- Wilfried Zaha
+organisations:
+- ABC
+- AU
+- Blue Plan
+- Bournemouth
+- Crystal Palace
+- DirecTV Stream**
+- ESPN
+- Eagles
+- England
+- Everton
+- FourFourTwo
+- Fox
+- Fubo
+- Fubo**
+- Future Publishing
+- Guardian
+- Instagram
+- Man City
+- Manchester City
+- NBC
+- NBCSN
+- NOW Sports
+- Peacock
+- Port Vale
+- Premier League
+- PremierLeague
+- Sky Sports
+- Sky Sports Main Event
+- Sky Sports Premier League
+- Sling TV
+- Sling TV**
+- Stan Sport
+- Super Rugby
+- TechRadar
+- The Set Pieces
+- TikTok
+- USA Network
+- Whitehorse Manor
+- YouTube TV
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth at Etihad Stadium in Manchester, United Kingdom, on August 23, 2026.](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

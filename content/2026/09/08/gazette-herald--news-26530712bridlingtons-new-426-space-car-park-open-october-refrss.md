@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Beck Hill
+- Bridlington
+- Gypsey Race
+- Hilderthorpe Road
+- Manor Street
+- Yorkshire
+people:
+- Anne Handley
+organisations:
+- Carey Jones Chapman Tolcher
+- East Riding of Yorkshire Council
+- Henry Boot Construction
 ---
 
 *(Image: East Riding of Yorkshire Council)*

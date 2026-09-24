@@ -11,6 +11,43 @@ image: https://static.independent.co.uk/2026/09/07/11/2026-09-07T100030Z_1391584
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- America
+- Canada
+- Gaza
+- Georgia
+- Iowa
+- Iran
+- Maine
+- Michigan
+- North Carolina
+- Ohio
+- Rose Garden
+- Texas
+- White House
+people:
+- Abdul El-Sayed
+- Donald Trump
+- Franklin D. Roosevelt
+- Jesse Ferguson
+- Jessica Taylor
+- Kyle Kondik
+- Mike Johnson
+organisations:
+- Center for Politics
+- Congress
+- Cook Political Report
+- GOP
+- House
+- Ipsos
+- PAC
+- PACs
+- Reuters
+- Senate
+- Supreme Court
+- Trump
+- University of Virginia
 ---
 
 President Donald Trump's sagging approval ratings are threatening Republicans' grip on Congress as the midterm campaign enters its final two-month sprint.

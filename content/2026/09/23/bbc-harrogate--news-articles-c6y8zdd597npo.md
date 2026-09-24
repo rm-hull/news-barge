@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Food & Cooking
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e35/live/e2e66a50-b73f-11f1-aa9c-3d062fa3aea7.png
+locations:
+- Brotherton
+- Knottingley
+- Old Great North Road
+people: []
+organisations:
+- North Yorkshire Police
+- Thaal Indian Restaurant
 ---
 
 ![A fire-damaged building, with most of its roof missing. The facade of the building is white. The chimney is intact but the fire damage to what remains of the roof is visible.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/0e35/live/e2e66a50-b73f-11f1-aa9c-3d062fa3aea7.png)

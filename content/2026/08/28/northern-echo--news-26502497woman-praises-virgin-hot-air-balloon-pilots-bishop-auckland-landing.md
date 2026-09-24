@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Bishop Auckland
+- Bishops Park
+- Consett
+- Marsh Way
+people:
+- HOLLIE SMITH
+- Hollie Smith
+- NAOMI MARTIN
+- Naomi Martin
+- RACHELL SCOTT
+- Sharon Boyle
+organisations:
+- RACHEL SCOTT
+- Virgin Balloon Flights
 ---
 
 A woman on a hot air balloon which landed in the middle of a Bishop Auckland housing estate has spoken of her momentary panic as the balloon started heading towards the homes.

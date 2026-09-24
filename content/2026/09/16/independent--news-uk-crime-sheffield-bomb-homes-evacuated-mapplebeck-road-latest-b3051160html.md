@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Beechwood Road
+- Entwhistle Road
+- Greenwood Road
+- Griffiths Road
+- Hawthorne Road
+- High Green
+- Mapplebeck Road
+- School Road
+- Sheffield
+- Worrall Road
+people:
+- Ian Proffitt
+organisations:
+- Sheffield City Council
+- South Yorkshire Police
 ---
 
 Dozens of homes have been evacuated and several roads closed as a bomb squad searches a house in Sheffield as part of an investigation into potential explosive substances.

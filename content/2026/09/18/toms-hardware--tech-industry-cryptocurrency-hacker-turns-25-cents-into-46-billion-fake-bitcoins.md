@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations: []
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- BTC
+- BTCB
+- Coinbase
+- DeFi
+- ETH
+- Ethereum
+- Get Tom's Hardware
+- Google News
+- LP
+- PC
+- RBTC
+- Solana
+- Symbiosis
+- Symbiosis'
+- Tom's Hardware
+- Uniswap
 ---
 
 ![Bitcoin drop](https://cdn.mos.cms.futurecdn.net/gHmhFGMn3m34gQvLf5YwE5.jpg) 

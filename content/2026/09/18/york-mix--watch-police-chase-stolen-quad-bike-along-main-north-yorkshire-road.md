@@ -11,6 +11,16 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-yorkshire-police-quad-bike-stolen-a171-police-video-ii.webp
+locations:
+- Cleveland
+- North Yorkshire
+- Scaling Dam
+- Whitby
+people:
+- Alex Langley
+organisations:
+- North Yorkshire Police
+- Specialist Operations team
 ---
 
 Footage of an extraordinary police chase of a suspect on a stolen quad bike has been released by police.

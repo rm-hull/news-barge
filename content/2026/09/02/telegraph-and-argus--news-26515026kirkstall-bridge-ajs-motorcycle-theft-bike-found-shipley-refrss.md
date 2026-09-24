@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Andover
+- Central Avenue
+- Hampshire
+- Kirkstall Bridge Shopping Park
+- Shipley
+- UK
+- Wolverhampton
+people:
+- Cadwell
+organisations:
+- A. J. Stevens & Co.
+- AJS
+- PCSO
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

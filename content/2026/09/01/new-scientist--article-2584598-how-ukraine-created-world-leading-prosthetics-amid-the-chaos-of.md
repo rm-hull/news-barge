@@ -13,6 +13,53 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Afghanistan
+- Europe
+- Greater London
+- Iraq
+- Kill Zone
+- Kyiv
+- Lviv
+- New York
+- Queen Mary's Hospital
+- Roehampton
+- Russia
+- Soviet Union
+- Superhumans Center
+- UK
+- US
+- Ukraine
+- ukraine
+people:
+- Alex Dickinson
+- Antonina Kumka
+- B Marshall
+- Dima Gazda
+- Esper Hands
+- Gadza
+- Masha Efrosynina
+- Oleksandr Budko
+- Ottobock
+- Syla
+- Volodymr
+- Yakov Gradinar
+organisations:
+- Daily Herald Archive
+- Esper
+- Gradinar
+- Gradinar’s Protez Foundation
+- Hanga and Co
+- Kyiv-based Allbionics
+- Ministry of Health
+- Ministry of Social Policy
+- New Scientist
+- Ottobock
+- Prosthetics Foundation
+- Protez Foundation
+- Protez Hub
+- University of Southampton
+- Össur
 ---
 
 ![Esper Hand retopology](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308183988.jpg?w=840)

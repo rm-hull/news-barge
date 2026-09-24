@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ceuta
+- Ceuta.
+- Elche
+- Morocco
+- North Africa
+- Santiago Bernabeu
+- Spain
+- Strait of Gibraltar
+people:
+- Carlos Espi
+- Ibrahima Konate
+- Kylian Mbappe
+- Martinez Valero
+- Vinicius Junior
+organisations:
+- Barcelona
+- Elche
+- Inter Milan
+- La Liga
+- Real Madrid
 ---
 
 ![Real Madrid have won six out of seven matches in all competitions this season](https://ichef.bbci.co.uk/ace/standard/951/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg)

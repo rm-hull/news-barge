@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aycliffe
+- Ellerton Lake
+- North Yorkshire
+- Sale Water Park
+- Teesside
+people:
+- Liz Byrne
+organisations:
+- Broadacres Community and Sustainability Fund
+- Broadacres Housing Association
+- Community and Sustainability Fund
+- Richmond Dales
+- Richmond Dales Amateur Swimming Club
 ---
 
 A North Yorkshire swimming club has found a way to tackle rising pool hire costs and continue offering sessions throughout the summer.

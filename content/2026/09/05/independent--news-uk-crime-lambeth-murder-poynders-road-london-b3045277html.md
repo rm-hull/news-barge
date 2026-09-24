@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Lambeth
+- Poynders Road
+- South London
+people:
+- Alison Foxwell
+organisations:
+- London Fire Brigade
+- Metropolitan Police
 ---
 
 Police have started a murder probe following the death of a man in South London.

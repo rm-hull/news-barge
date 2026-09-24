@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- England
+- Kop
+people:
+- Alexis Mac Allister
+- Andoni Iraola
+- Diego Simeone
+- Dominik Szoboszlai
+- Jan Oblak
+- Mac Allister
+- Marcos Llorente
+- Paul Robinson
+- Richard Hughes
+- Stephen Warnock
+- Steven Gerrard
+organisations:
+- Anfield
+- Atletico Madrid
+- BBC Radio 5 Live
+- Liverpool
+- Premier League
+- TNT Sports
+- Tottenham
 ---
 
 Highlights: Liverpool come from behind to beat Atletico Madrid

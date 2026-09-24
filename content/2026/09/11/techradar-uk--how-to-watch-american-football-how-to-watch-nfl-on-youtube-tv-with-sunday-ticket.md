@@ -9,6 +9,39 @@ description: Keeping up with the NFL doesn't have to cost an arm and a leg
 image: https://cdn.mos.cms.futurecdn.net/W4CB388mDWRFAtfd3WxHGF-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- California
+- Canada
+- China
+- Europe
+- Inglewood
+- Madrid
+- Munich
+- Paris
+- SoFi Stadium
+- UK
+- US
+- United States
+people:
+- IPVanish**
+- Jakob Barnes
+organisations:
+- CBS
+- DAZN
+- FOX
+- FourFourTwo
+- Future Publishing
+- Golf Monthly
+- IPVanish
+- NFL London
+- New England Patriots
+- Seattle Seahawks
+- Sky Sports
+- Sunday Ticket
+- Sunday Ticket NFL
+- Tom's Guide
+- YouTube TV
 ---
 
 ![Promotional image for the NFL Sunday Ticket on YouTube](https://cdn.mos.cms.futurecdn.net/W4CB388mDWRFAtfd3WxHGF.jpg) 

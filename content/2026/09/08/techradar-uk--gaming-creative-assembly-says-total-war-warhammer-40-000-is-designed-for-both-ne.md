@@ -14,6 +14,21 @@ image: https://cdn.mos.cms.futurecdn.net/JniBMxBrYyWXuf7EL5maJV-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Dave Petry
+- Joy Dey
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- Space Marines
+- TechRadar Gaming
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/JniBMxBrYyWXuf7EL5maJV.jpg) 

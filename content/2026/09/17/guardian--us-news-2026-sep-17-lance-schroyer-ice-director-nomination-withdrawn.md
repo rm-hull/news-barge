@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Minnesota
+- Oklahoma
+- US
+- United States
+- White House
+people:
+- Alex Pretti
+- David Venturella
+- Donald Trump
+- Lance Schroyer
+- Markwayne Mullin
+- Rand Paul
+- Renee Good
+- Todd Lyons
+- Tom Homan
+organisations:
+- DHS
+- Department of Homeland Security
+- Guardian
+- ICE
+- Immigration and Customs Enforcement
+- Politico
+- Senate
+- Trump
 ---
 
 The White House has withdrawn the nomination of Lance Schroyer, a former Oklahoma state trooper, to head Immigration and Customs Enforcement, less than three months after announcing his role.

@@ -14,6 +14,39 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/09/2293369500..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Brussels
+- Copenhagen
+- Denmark
+- Greenland
+- Louisiana
+- Nuuk
+- U.S.
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Donald Trump
+- Donald Trump Jr.
+- JD Vance
+- Jeff Landry
+- Jens-Frederik Nielsen
+- Marco Rubio
+- Mark Rutte
+- Mette Frederiksen
+- Múte Bourup Egede
+- Nicolás Maduro
+- Peace
+- Ursula von der Leyen
+organisations:
+- Demokraatit
+- European Commission
+- European Union
+- Foreign Ministry
+- NATO
+- Trump
+- U.S. Pituffik Space Base
 ---
 
 Public awareness of President Donald Trump’s ambition to acquire Greenland, a semiautonomous region of NATO ally Denmark, first emerged in 2019.

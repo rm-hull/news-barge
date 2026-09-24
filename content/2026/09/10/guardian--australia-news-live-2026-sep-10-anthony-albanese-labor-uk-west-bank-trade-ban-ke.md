@@ -12,6 +12,100 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- Glen Alpine
+- India
+- Iran
+- Marrickville
+- Melbourne
+- Merrylands
+- NSW
+- Punchbowl
+- Queensland
+- Sydney
+- Victoria
+- Western Australia
+people:
+- Adam Morton
+- Adam Morton Back
+- Andrew Hastie
+- Angie Bell
+- Angus Taylor
+- Anthony Albanese
+- Asanka Ratnayake
+- Basem Abdo
+- Ben Carroll
+- Ben Roberts-Smith
+- Benita Kolovos
+- Canavan Jumping
+- Chris Bowen
+- Chris Minns
+- David Pocock
+- Grant Taylor
+- Hanson Jacqui Lambie
+- Howard
+- Jacqui Lambie
+- Jim Chalmers
+- Jim Chalmers’
+- Jordon Steele-John
+- Kevin Hogan
+- Larissa Waters
+- Lidia Thorpe
+- Louise Miller-Frost
+- Madeleine King
+- Malinauskas
+- Matt Canavan
+- Melissa Donnelly
+- Mick Tsikas
+- Milton Dick
+- Nick McKim
+- Nicole Yade
+- Pauline Hanson
+- Peter Malinauskas’
+- Rebecca Fawcett
+- Sarah Basford Canales
+- Sarah Henderson
+- SarahHenderson
+- Sophie Scamps
+- Steph Hodgins-May
+- Susan Templeman
+- Sussan Ley
+- Tanya Plibersek
+- Tim Wilson
+- Vanessa Bleyer
+organisations:
+- AAP NSW
+- ABC
+- AI
+- Albanese
+- Australian Council of Trade Unions’
+- CPSU
+- Coalition
+- Commonwealth Bank
+- Community and Public Sector Union
+- Crowded House
+- Getty Images
+- Great Koala
+- Greens
+- Labor
+- Liberal
+- Lukas Coch/AAP
+- Minns
+- Nationals
+- New South Wales
+- News24
+- One Nation
+- PM
+- Parliament House
+- Pub Choir
+- Reserve Bank
+- SAS
+- Senate
+- Special Air Services
+- Special Forces
+- WAGEC
+- Women and Girls’
 ---
 
 New head announced for the main public-sector union

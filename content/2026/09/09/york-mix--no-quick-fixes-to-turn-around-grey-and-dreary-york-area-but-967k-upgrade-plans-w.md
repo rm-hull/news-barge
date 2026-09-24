@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Guildhall
+- Long Lane Close
+- Walmgate
+- Willow House
+- York
+people:
+- Ben Ffrench
+- Cllr Merrett
+- Dave Merrett
+organisations:
+- City of York Council
+- Green Party
+- Labour
+- Local Transport Grant
+- Walmgate
+- York and North Yorkshire Combined Authority
 ---
 
 There are no quick fixes to turn around a grey and dreary part of York, an activist has said ahead of planned improvements worth almost £1m.

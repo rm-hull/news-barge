@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Alder Hey
+- Alder Hey Children's Hospital
+- Countess of Chester Hospital
+- Liverpool
+- London
+- UK
+people:
+- '## Denial Letby'
+- Lucy Letby
+- Mark Deakin
+- Nick Johnson KC
+organisations:
+- CCRC
+- Countess of Chester
+- Criminal Cases Review Commission
+- Letby
+- Letby's
+- Thirlwall
 ---
 
 ![Dr Mark Deakin, who is bald, has glasses, and is wearing a red and white check shirt.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/c1b3/live/f57c3780-a6eb-11f1-9e4c-79c1c0e340c6.jpg)

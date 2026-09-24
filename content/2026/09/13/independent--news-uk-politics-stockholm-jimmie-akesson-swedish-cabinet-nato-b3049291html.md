@@ -12,6 +12,26 @@ image: https://static.independent.co.uk/2026/09/13/07/Sweden_Election_89624.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Florence
+- Italy
+- Sweden
+people:
+- Jimmie Åkesson
+- Magdalena Andersson
+- Ulf Kristersson
+- Zeth Isaksson
+organisations:
+- Alternative for Germany
+- Cabinet
+- European Union
+- European University Institute
+- NATO
+- Riksdag
+- Stockholm University
+- Sweden Democrats
+- Swedish Election Authority
 ---
 
 Voters in Sweden will head to the polls on Sunday for an election that will determine whether a conservative leader remains in charge and a hard-right party wins ministerial jobs for the first time, or whether the center-left returns to power.

@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Armley
+- North
+- Seacroft
+- West Yorkshire
+- Westminster
+people:
+- Alison Lowe
+- Baroness Lowe
+organisations:
+- House of Lords
+- Medieval Studies
+- Policing and Crime
+- UGC
 ---
 
 West Yorkshire's Deputy Mayor for Policing and Crime Alison Lowe has been sworn into the House of Lords as Baroness Lowe of Armley.

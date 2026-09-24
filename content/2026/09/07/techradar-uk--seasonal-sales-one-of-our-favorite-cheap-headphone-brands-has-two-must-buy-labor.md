@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/iq57Stz7fWEF5jHWqMrjiB-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+people:
+- Tom Bedford
+organisations:
+- Amazon
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Samsung
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![On the left, the Earfun Air Pro 4, and on the right, the Earfun Wave Pro.](https://cdn.mos.cms.futurecdn.net/iq57Stz7fWEF5jHWqMrjiB.jpg) 

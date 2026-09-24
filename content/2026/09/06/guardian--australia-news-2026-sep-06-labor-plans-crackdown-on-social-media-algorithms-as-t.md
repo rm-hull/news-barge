@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- New York
+people:
+- Angus Taylor
+- Anika Wells
+- Anthony Albanese
+- Chanel Contos
+- Jonno Duniam
+- Pauline Hanson
+organisations:
+- ABC TV
+- Coalition
+- Greens
+- Labor
+- Liberal
+- News24
+- One Nation
+- Senate
+- United Nations
 ---
 
 Labor’s plan to crack down on social media algorithms faces significant opposition in federal parliament, with the opposition leader, Angus Taylor, warning against efforts by the government to “censor” free speech online.

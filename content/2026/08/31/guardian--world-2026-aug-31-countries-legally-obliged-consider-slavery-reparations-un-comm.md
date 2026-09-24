@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Liberia
+- States
+people:
+- Pela Boker Wilson
+organisations:
+- CERD
+- EU
+- Reuters
+- UN
 ---
 
 A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other measures to address the enduring legacy of racial discrimination.

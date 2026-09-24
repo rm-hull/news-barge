@@ -13,6 +13,26 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21486155.jpg?type=og-image
+locations:
+- Bar Walls
+- Bootham
+- Fields
+- Flaxton
+- Kevin Glenton
+- London
+- St Mary’s Abbey
+- York Minster
+people:
+- Kevin Glenton
+- Sam Parkin
+organisations:
+- Christchurch College Oxford
+- Last Leaf Furniture
+- Last Leaf Showroom
+- Lotte Inch Gallery
+- Ripon Cathedral
+- St Martin
+- The Blue House Bookshop
 ---
 
 A handcrafted 'teaser' in the window of an empty York shop close to the Bar Walls reveals the detail of a new opening.

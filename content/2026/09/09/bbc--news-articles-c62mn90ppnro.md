@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- California
+- California.
+- Clara Shortridge Foltz Criminal Justice Center
+- Hollywood Hills
+- Los Angeles
+- Los Angeles Superior Court
+- Tesla
+- US
+people:
+- '** D4vd'
+- Celeste Rivas Hernandez
+- David Anthony Burke
+- Jesus Rivas
+- Mercedes Martinez
+- Nathan J Hochman
+- Nathan J. Hochman
+- Rivas Hernandez
+- Walid Kandeel
+organisations:
+- BBC
+- Los Angeles Times
+- Mogul Vision
+- Tesla
 ---
 
 ![A portrait of the late Celeste Rivas Hernandez is shown during a press briefing by Los Angeles County District Attorney Nathan J Hochman (out of frame) on 20 April 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ba73/live/c09843a0-abc4-11f1-a601-7d96c5d5b6ea.jpg)

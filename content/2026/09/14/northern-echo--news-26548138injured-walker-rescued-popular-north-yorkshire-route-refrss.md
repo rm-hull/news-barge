@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Foxton Bridge
+- Great Ayton
+- Middleton-on-Leven
+- North Yorkshire
+people: []
+organisations:
+- Cleveland Mountain Rescue
+- Cleveland Mountain Rescue Team
+- Land Rover
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Cleveland Mountain Rescue)*

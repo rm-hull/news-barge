@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Allergy UK
+- Food Standards Agency
+- NHS
+- Tesco Finest Caesar & Smoked Bacon Coleslaw
+- Waitrose & Partners
 ---
 
 Two major supermarkets are recalling food products that have been labelled incorrectly and pose a potential allergy risk.

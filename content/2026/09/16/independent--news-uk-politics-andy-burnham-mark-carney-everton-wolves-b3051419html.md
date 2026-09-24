@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Britain
+- Brussels
+- Canada
+- England
+- Europe
+- Hill-Dickinson Stadium
+- Liverpool
+- Merseyside
+- Ottawa
+- Strasbourg
+- UK
+people:
+- '![Burnham'
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Mark Carney
+- Nick Boles
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- Bank of England
+- Brexit
+- EU
+- European Commission
+- European Union
+- Everton
+- Labour
+- NATO
+- State of the Union
+- Tory
+- Wolverhampton Wanderers
 ---
 
 British Prime Minister Andy Burnham is hosting his Canadian counterpart Mark Carney at Everton’s Carabao Cup tie against this evening.

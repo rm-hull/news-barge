@@ -14,6 +14,24 @@ categories:
 - Science
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/18/23/Africa_Laboratory_Scientists_13646.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- Bundibugyo
+- Cape Verde
+- Congo
+- Guinea
+- Liberia
+- Lome
+- Sierra Leone
+- Togo
+- West Africa
+people:
+- Arthur Bodurie Calvin Garber
+- Kossi Kabo
+organisations:
+- Africa Centers for Disease Control and Prevention
+- Association of Medical Biologists of Togo
+- Sierra Leone Association of Medical Laboratory Scientists
 ---
 
 West African laboratory scientists called on governments Friday to strengthen capacity to detect disease outbreaks to avoid another major outbreak, saying health systems across the region are becoming weaker.

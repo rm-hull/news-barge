@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Halifax
+people:
+- Calderdale
+- Coun Ashley Evans
+- Coun Evans
+- Coun Evans’
+- Kate Dearden
+organisations:
+- Calderdale Council
+- Government
+- Lib Dem
+- Warley
 ---
 
 Not only should a council respond to Government consultation over restricting sale of excessively loud fireworks, it should promote it to local organisations who may have an interest in it.

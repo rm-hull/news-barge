@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Guildhall
+- Long Lane
+- Long Lane Close
+- Walmgate
+- Willow House
+- York
+- York.
+people:
+- Ben Ffrench
+- Cllr Merrett
+- Dave Merrett
+- Rachel Melly
+- Tony Clarke
+organisations:
+- City of York Council
+- Green Party
+- Labour Guildhall
+- Local Transport Grant
+- Walmgate
+- York and North Yorkshire Combined Authority
 ---
 
 # 'No quick fixes' for 'grey and dreary' York area as almost £1m improvement plans backed

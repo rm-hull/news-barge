@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- UK
+- York
+people: []
+organisations:
+- York Business School
+- York St John University
 ---
 
 In association with

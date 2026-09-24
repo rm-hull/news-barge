@@ -14,6 +14,27 @@ categories:
 - UK
 - Technology & Software
 - Arts & Culture
+locations:
+- Indianapolis
+people:
+- AI
+- Chris Roberts
+- Chris Vaccaro
+- Dan Axelrod
+- Eric Deggans
+- God
+- Minimize Harm
+organisations:
+- AI
+- Code of Ethics
+- Gannett
+- NPR
+- Pew
+- SPJ Ethics Committee
+- SPT
+- Society of Professional Journalists
+- University of Alabama
+- Washington and Lee University
 ---
 
 Walk into a corner of a newsroom somewhere and you can often find it affixed to a bulletin board, perhaps peeking out from behind the coffee pot: the Society of Professional Journalists’s Code of Ethics. It’s less than a thousand words, fitting neatly on a poster.

@@ -10,6 +10,17 @@ description: I've been using these writing tablets for years, and it's still the
 image: https://cdn.mos.cms.futurecdn.net/T82jymE2z74GWnZHp2zzA9-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Oxford
+- US
+people:
+- Steve Clark
+organisations:
+- Amazon
+- Paper Pure
+- Steve
+- TechRadar Pro
 ---
 
 ![reMarkable Paper Pro Move tablet in front of a library of books, showing various writing screens and comparing the size to a Moleskine notebook](https://cdn.mos.cms.futurecdn.net/T82jymE2z74GWnZHp2zzA9.jpg) 

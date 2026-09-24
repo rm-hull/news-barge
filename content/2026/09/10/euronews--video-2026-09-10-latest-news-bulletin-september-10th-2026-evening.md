@@ -12,6 +12,33 @@ image: https://images.euronews.com/articles/stories/09/90/91/04/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- Alberta
+- Calgary
+- Calif
+- Calif.
+- Europe
+- Frankfurt
+- Germany
+- Malibu
+- Palawan
+- Philippines
+- USA
+- Ukraine
+people:
+- Alicia García-Herrero
+- Christophe Hansen
+- Dan Jørgensen
+- Giorgos Mazonakis
+- Nicolas Cage
+- Olena Zelenska
+- Volodymyr Zelenskyy
+organisations:
+- EU
+- Elina Valtonen
+- Euronews
+- European Central Bank
+- Philippine Coast Guard
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

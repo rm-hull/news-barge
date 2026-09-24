@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bolton
+- CLEVELAND
+- Charterhouse Street
+- County Durham
+- Hartlepool
+- London
+- Maxwell Road
+- Middlesbrough
+- Park Lane
+- Teesside Crown Court
+- Teesside Magistrates’ Court
+- Trillo Avenue
+- West Drayton
+people:
+- Armando Marku
+- Daniel Nerim Kadiu
+- Dorian Pirija
+- Eugert Merizaj
+- Hemewand Ali Hussain
+- Lyndsey Dale
+- Noza Saffari
+- Qazim Marku
+- Sajmir Dodoveci
+organisations:
+- Cleveland Police
+- Hartlepool
 ---
 
 *(Image: CLEVELAND POLICE)*

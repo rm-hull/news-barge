@@ -13,6 +13,23 @@ categories:
 - Lifestyle & Fashion
 - Travel
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/0a36/live/5251c2e0-b358-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Atlantic
+- Durham
+- East Yorkshire
+- Eastern Scotland
+- England
+- Leconfield
+- Northern Ireland
+- Southern
+- UK
+- UK.
+- Wales
+- mid-Atlantic
+people: []
+organisations:
+- BBC Weather
+- Scotland
 ---
 
 ![Woman carries child, wearing pink wellington boots, on her shoulders past ferns in the sunshine.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0a36/live/5251c2e0-b358-11f1-b1d1-571ed4d7ff2c.jpg)

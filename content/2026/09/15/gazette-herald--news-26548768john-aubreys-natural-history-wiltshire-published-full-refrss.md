@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Chippenham Museum
+- Wiltshire
+people:
+- Christopher Wren
+- John Aubrey
+- Louise Ryland-Epton
+- Robert Hooke
+- Robert Plot
+organisations:
+- Aubrey
+- Hobnob Press
+- Natural History of Oxfordshire
+- Natural History of Wiltshire
+- Royal Society
 ---
 
 A 17th-century manuscript never before published in full is finally being published in full.

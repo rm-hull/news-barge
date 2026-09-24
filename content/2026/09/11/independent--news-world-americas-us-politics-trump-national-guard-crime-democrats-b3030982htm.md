@@ -15,6 +15,51 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Chicago
+- Taiwan
+- Washington
+- Washington, D.C.
+- Windy City
+people:
+- Bill
+- Chandler Hall
+- Donald Trump
+- George Soros
+- Hillary Clinton
+- John Podesta
+- Laura Ingraham
+- Melinda
+- Tom Homan
+organisations:
+- Apple
+- Bank of America
+- C-SPAN
+- CAP
+- Center for American Lack of Progress
+- Center for American Progress
+- Citigroup
+- Embassy of Japan
+- Embassy of the United Arab Emirates
+- Fake Organization
+- Fox News
+- French] Gates
+- Goldman Sachs
+- Google
+- Korea Foundation
+- Liars
+- NBC Universal
+- National Guard
+- National Guard to Cities
+- Oval Office
+- T-Mobile
+- TRUMP
+- Taipei Economic and Cultural Representative Office
+- Toyota
+- Truth Social
+- Visa
+- Walmart
+- WellsFargo
 ---
 
 President Donald Trump has lashed out at everyone from Apple and Google to T-Mobile, Toyota and Walmart for supporting a left-leaning think-tank behind an unfavorable new report on crime in American cities.

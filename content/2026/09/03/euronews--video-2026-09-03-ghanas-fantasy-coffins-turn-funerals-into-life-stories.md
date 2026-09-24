@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Arts & Culture
 - Technology & Software
+locations:
+- Accra
+- Ga
+- Ghana
+- Ghaniana
+people: []
+organisations: []
 ---
 
 Ghaniana coffin makers craft elaborate wooden caskets shaped like shoes, guitars and microphones, turning funerals into a final reflection of the deceased's life.

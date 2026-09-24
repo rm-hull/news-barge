@@ -14,6 +14,32 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- North America
+- U.S.
+- UL
+people:
+- Hassam Nasir
+- Jaun Jose Guerrero
+- Lucas
+- Lucas'
+- Reddit
+- Tom
+- UL
+organisations:
+- ASUS
+- Asus Accessories
+- Asus ROG Delta II KJP
+- Diehard Asus
+- EAs
+- Get Tom's Hardware
+- Google News
+- Lucas
+- OP
+- PayPal
+- RMA
+- ROG Delta
+- Ultima Online
 ---
 
 ![Asus ROG Delta II KJP gaming headset](https://cdn.mos.cms.futurecdn.net/faFwi2WakHkP45Nbq4hbhT.webp) 

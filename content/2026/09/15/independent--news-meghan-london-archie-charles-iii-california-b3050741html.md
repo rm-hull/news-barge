@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Britain
+- California
+- England
+- London
+- U.K.
+people:
+- Archie
+- Harry
+- King Charles III
+- Lilibet
+- Meghan
+organisations:
+- Netflix
+- Spotify
 ---
 
 Prince Harry and his wife, Meghan, have moved their two children to a new school over security concerns, a spokesperson said Tuesday, just weeks after the family returned to the U.K. to make a fresh start.

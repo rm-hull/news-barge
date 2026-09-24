@@ -11,6 +11,23 @@ description: Solid-state cooling is real and shipping, but its limitations might
 image: https://cdn.mos.cms.futurecdn.net/wftnJHPVgPMNuUH8pmCH8c-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rahim Amir
+organisations:
+- Frore Systems
+- Google News
+- Intel
+- Lenovo Innovation World
+- MacBook Air
+- Mini Slim
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- Tom's Hardware
+- Wildcat Lake
 ---
 
 ![Lenovo's Project AeroBlade Proof of Concept Laptop](https://cdn.mos.cms.futurecdn.net/wftnJHPVgPMNuUH8pmCH8c.jpg) 

@@ -14,6 +14,27 @@ categories:
 - Business & Entrepreneurship
 - Sports
 - Technology & Software
+locations:
+- Dnipro
+- Kyiv
+- Russia
+- US
+- USA
+- Ukraine
+people:
+- Diana
+- God
+- Ihor
+- John Ratcliffe
+- Sophia
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yurii Ihnat
+organisations:
+- BBC Verify
+- Drahomanov Ukrainian State University
+- Ukrainian Air Force
+- app Kyiv
 ---
 
 Watch: Kyiv residents on living under daily attacks by Russia

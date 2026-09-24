@@ -11,6 +11,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a5b/live/71d0d4
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- D.C.
+- E1
+- East Jerusalem
+- Gaza
+- Israel
+- Jordan.
+- Middle East
+- U.S.
+- UK
+- Washington
+- West Bank
+- West Bank.
+people:
+- Andy Burnham
+- Ed Miliband
+- Gideon Saar
+organisations:
+- Board of Peace
+- Hamas
+- Palestinian Authority
+- U.S. Institute of Peace
+- Ynet
 ---
 
 ![Israeli Foreign Minister Gideon Saar attends the inaugural Board of Peace meeting at the U.S. Institute of Peace in Washington, D.C., U.S., February 19, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9a5b/live/71d0d490-a628-11f1-b384-1f35d0eeee9d.jpg)

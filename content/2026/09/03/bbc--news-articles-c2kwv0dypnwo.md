@@ -12,6 +12,52 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Acklam Road
+- County Durham
+- Haswell
+- Mackenzie Thorpe Centre
+- Marton
+- Middlesbrough
+- Normanby Road
+- Ormesby
+- South Bank
+- St John's Church
+- St Margaret Clitherow
+- Teesville
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- John Wrintmore
+- Laura Trott
+- Lucy Powell
+- Makai Saddington
+- Mark Robinson
+- Matthew Blades
+- Michael Robert Cahill
+- PC Clough
+- Tammy Cooper
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Archway Academy
+- BBC
+- Catholic Primary School
+- Cleveland Council
+- Cleveland Police
+- Department of Education
+- DofE
+- Independent Office for Police Conduct
+- Local Authority
+- Lucozade
+- Middlesbrough Cleveland Police
+- Outwood Academy Normanby
+- PC Blades
+- Passat
+- Redcar & Cleveland Borough Council
+- SEND
+- South Bank Primary School
 ---
 
 ![Five young men in their late teens and early 20s. They all have similar haircuts, with a fringe and faded back and sides. Four of them are gesturing with their fingers. Three of them extend their thumb, index, and pinky fingers - leaving their middle and ring finger tucked down. One points with his index and middle finger whilst holding a Lucozade bottle. They are all dressed in casual clothing.](https://ichef.bbci.co.uk/ace/standard/956/cpsprodpb/2410/live/0cbb6520-a786-11f1-b2d5-535b3b3d379f.jpg)

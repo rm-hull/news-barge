@@ -11,6 +11,20 @@ image: https://media.wired.com/photos/6aa18e19e013fa80cb9a0366/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Earth
+- Tycho
+people:
+- Ghonhee Lee
+- Shawn Domagal-Goldman
+- Swift
+organisations:
+- Burst Alert Telescope
+- International Space Station
+- Katalyst Space
+- LINK
+- NASA
+- Neil Gehrels Swift Observatory
 ---
 
 NASA has carried out some notable rescue missions over the past few years, including bringing home the astronauts stranded on the International Space Station last year. More recently, the agency sent up a probe in hopes of saving the Neil Gehrels Swift Observatory, a satellite first launched in 2004 that began falling out of our planet’s orbit.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Jarrow
+- Salem Street
+- YOUR
+people:
+- Geraldine Kilgour
+- Shirley Ford
+organisations:
+- Aidan Ryan Property Ltd
+- HMO
+- Public Notice Portal
+- South Tyneside Council
 ---
 
 *(Image: Google Maps)*

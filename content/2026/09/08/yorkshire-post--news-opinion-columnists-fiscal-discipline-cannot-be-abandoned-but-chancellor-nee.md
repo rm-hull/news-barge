@@ -15,6 +15,16 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Britain
+people:
+- John Healey
+- Keir Starmer
+- Kwasi Kwarteng
+organisations:
+- Budget
+- Government
+- Treasury
 ---
 
 # Fiscal discipline cannot be abandoned but Chancellor needs to pull a rabbit out of the hat at his first Budget

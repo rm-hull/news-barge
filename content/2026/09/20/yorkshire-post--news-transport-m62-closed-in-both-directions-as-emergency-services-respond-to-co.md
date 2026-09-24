@@ -14,6 +14,11 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/20/14/02/www-motorwaycameras-co-uk-35079704.jpeg?trim=20,8,32,14&crop=&width=1200&auto=webp&quality=75
+locations:
+- M62
+- West Yorkshire
+people: []
+organisations: []
 ---
 
 # M62 closed in both directions as emergency services respond to concern for safety

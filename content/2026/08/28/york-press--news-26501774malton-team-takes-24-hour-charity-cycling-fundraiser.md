@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Malton
+people:
+- Chris Bilsborrow
+- Daisy Bloom
+- Glyn Barker
+- Jennie Johnson
+- Jess Bardet
+- Justyna Hannon
+- Lynda Fairclough
+organisations:
+- Macmillan
+- Malton Community Sports Centre
 ---
 
 ## Seven cyclists take on gruelling 24-hour fundraiser at Malton sports centre

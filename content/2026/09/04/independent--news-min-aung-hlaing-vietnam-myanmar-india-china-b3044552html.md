@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/04/07/Myanmar_Vietnam_88384.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Belarus
+- China
+- Hanoi
+- India
+- Kazakhstan
+- Laos
+- Myanmar
+- Mytel
+- Naypyitaw
+- Russia
+- Thailand
+- Vietnam
+people:
+- Aung San Suu Kyi
+- Le Hoai Trung
+- Min Aung Hlaing
+- Suu Kyi
+- To Lam
+organisations:
+- ASEAN
+- Association of Southeast Asian Nations
+- Cabinet
+- MRTV
+- Viettel
 ---
 
 The leader of Myanmar’s military-backed government is visiting Vietnam for talks with its leaders in his latest effort to normalize relations with the Association of Southeast Asian Nations and attract foreign investment.

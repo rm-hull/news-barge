@@ -13,6 +13,23 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Black Swan
+- Byland
+- Marygate
+- Oldstead
+- Roots York
+- The Abbey Inn
+people:
+- Kate Dearden
+- Robert Glover
+- Tommy Banks
+organisations:
+- Acas
+- Fair Work Agency
+- Roots York Restaurant Ltd
+- The Abbey Inn
+- The Mount Dental Practice
 ---
 
 Two York businesses have today been named by the government for failing to pay their staff the minimum wage.

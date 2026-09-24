@@ -12,6 +12,80 @@ image: https://i.guim.co.uk/img/media/962293bc8456ad1840997b1e1b92676b83b79a6d/5
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Camden
+- Downing Street
+- East
+- England
+- Essex
+- Gaza
+- Guardian
+- Hampshire
+- Hoborn
+- Holborn
+- Israel
+- Kent
+- London
+- Norfolk
+- North West Cambridgeshire
+- Peterborough
+- Sherwood Forest
+- St Pancras
+- Suffolk
+- UK
+- US
+- Wales
+- West Surrey
+- West Sussex
+people:
+- Alex Daniel
+- Andy Burnham
+- Andy Hall
+- Angela Rayner
+- Anneliese Midgley
+- Chris Osuh Chris Osuh
+- Donald Trump
+- Ed Miliband
+- Emma Reynolds
+- Florence Eshalomi
+- Hamish Falconer
+- Hamza Chowdhury
+- Jonathan Reynolds
+- Keir Starmer
+- Lorna Russell
+- Lucy Powell
+- Maroš Šefčovič
+- Michelle Welsh
+- Mike Huckabee
+- Mohamed Abdisamad
+- Peter Walker
+- Rishi Sunak
+- Rob Davies
+- Sam Carling
+- Sarah Jones
+- Yvette Cooper
+- Zack Polanski
+organisations:
+- Cambridgeshire
+- Care Quality Commission
+- Commons
+- EU
+- Green
+- Greens
+- Holborn
+- Home Office
+- House
+- JLR
+- Jaguar Land Rover
+- Labour
+- MHCLG
+- Ministry of Housing, Communities and Local Government
+- PA
+- Portsmouth
+- Press Association
+- The Guardian
+- Treasury
 ---
 
 Polanski faces challenge to be Greens' candidate for Holborn and St Pancras, as most Greens on local council back rival

@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- North East
+- Stockton
+- Teesside
+people:
+- Connor Bradshaw
+- Jim Clark
+- Mitch Baldwin
+organisations:
+- Cleveland Police
+- Naturewatch Foundation
+- Teesside Magistrates' Court
 ---
 
 *(Image: Cleveland Police)*

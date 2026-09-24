@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bab el-Mandeb
+- Ghana
+- Gulf of Aden
+- Iran
+- Khasab
+- Mokha
+- Oman
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- US
+- White House
+- Yemen
+people:
+- '![Khasab'
+- '## Trump'
+- Amin al-Mohammdi
+- Donald Trump
+- Ed Markey
+- Hans Grundberg
+- JD Vance
+- Jenifer Neidhart de Ortiz
+- Marco Rubio
+- Mocha
+- Mohamed Salem
+- Mohammed Abdulsalam
+- Mohsen Rezaei
+organisations:
+- AP
+- Board of Governors
+- Congress
+- Fox News
+- Houthi
+- International Atomic Energy Agency
+- NPT
+- Reuters
+- Revolutionary Guard Corps
+- UN Security Council
+- UN Security council
+- United Kingdom Maritime Trade Operations
+- Wall Street Journal
 ---
 
 Iran-backed Houthi militants have captured Yemen's strategic port city of Mokha, raising fears it could bring them closer to targeting shipping through a critical waterway to the Red Sea.

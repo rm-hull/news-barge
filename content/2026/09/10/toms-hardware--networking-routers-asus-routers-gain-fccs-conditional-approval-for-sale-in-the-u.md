@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/2DKYashZMVpNXMqTy2ueQo-1694-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Mount Pleasant
+- NC
+- U.S.
+- Wisconsin
+people:
+- Brandon Hill
+organisations:
+- Amazon Eero
+- AnandTech
+- Asus
+- Asus'
+- CES
+- DailyTech
+- Department of War
+- FCC
+- Federal Communications Commission
+- Hot Hardware
+- Leo
+- Mac
+- Netgear
+- PC
+- TP-Link
+- Tom's Hardware
 ---
 
 ![Asus ROG Rapture GT-BN98 Pro](https://cdn.mos.cms.futurecdn.net/2DKYashZMVpNXMqTy2ueQo.jpg) 

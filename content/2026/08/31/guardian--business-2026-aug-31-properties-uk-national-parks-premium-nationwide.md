@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Chilterns
+- England
+- Mickleham
+- New Forest
+- Shere
+- South Downs
+- Surrey Hills
+- UK
+- Wales
+- Westhumble
+people: []
+organisations:
+- Peak District
 ---
 
 Housebuyers are paying a premium of almost a quarter to own a property located within a UK national park, with the New Forest the most expensive national park to live in, according to Britain’s biggest building society.

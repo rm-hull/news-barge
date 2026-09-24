@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bridgeport
+- Connecticut
+- Interstate 95
+- New Haven
+- New Jersey
+- New York
+- Norwalk
+- Paterson
+- Westchester County
+- Westport
+- White Plains
+people:
+- Andre Sayegh
+- Ned Lamont
+- Paterson
+organisations:
+- Amtrak
+- Facebook
+- Metro-North
+- National Weather Service
+- Tweed New Haven Airport
 ---
 
 Flash flooding brought on by heavy rains prompted road closures, water rescues and commuter rail problems across the tristate area Sunday.

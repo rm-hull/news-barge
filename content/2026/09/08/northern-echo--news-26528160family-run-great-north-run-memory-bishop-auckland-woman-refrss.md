@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Durham Cathedral
+- St Cuthbert’s Hospice
+- The Manor House
+people:
+- Donna Goundry
+- Donna thorburn
+- Joel *(Image
+- Mum Jean
+- Paul
+- Pitbull
+- Shannon Hauxwell
+organisations:
+- County Durham
+- Hospice Donna
+- St Cuthbert
 ---
 
 Family and friends of a Bishop Auckland woman described as “one in a million” will run the Great North Run in her memory.

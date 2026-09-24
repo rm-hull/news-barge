@@ -15,6 +15,36 @@ categories:
 - Travel
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21462584.jpg?type=og-image
+locations:
+- Coasteering
+- London
+- Manchester
+- My Delhi
+- National Glass Centre
+- New North East
+- Newcastle
+- Portsmouth
+- Roker Pier
+- Seaburn
+- Silksworth
+- Sunderland
+- UK
+- Winter Gardens
+people:
+- Bede
+- Lowry
+organisations:
+- Café Floriana
+- Culture House
+- Fausto Coffee
+- Nissan Automotive Factory
+- Nottingham
+- Pop Recs
+- Sunderland Museum
+- Teesside Bests
+- The Times
+- University of Sunderland
+- Wild Fire
 ---
 
 *(Image: Getty)*

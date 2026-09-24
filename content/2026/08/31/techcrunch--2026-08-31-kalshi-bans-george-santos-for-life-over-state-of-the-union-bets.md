@@ -10,6 +10,21 @@ description: The disciplinary action comes two months after the Commodity Future
 image: https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1824575665.jpg?resize=1200,800
 categories:
 - Sports
+locations:
+- California
+- Maine
+people:
+- Ben Midgley
+- George Santos
+- Kalshi
+- Laurie Buckhout
+- Stephen Cloobeck
+- Trump
+organisations:
+- CFTC
+- Santos
+- State of the Union
+- WSJ
 ---
 
 Kalshi has banned former Republican Rep. George Santos from its platform for life, the first time the prediction market company has taken such an action.

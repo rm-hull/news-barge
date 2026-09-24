@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- China
+- Fujian
+- Gaoping
+- Hunan
+- Jiangxi
+- Suichuan County
+- Tanghu
+- Zhejiang
+- Zuo'an
+people:
+- Saudel
+organisations:
+- CCTV
+- Xinhua News Agency
 ---
 
 Searchers in southeastern China have found another body from rain-triggered landslides last weekend in Jiangxi province, raising the death toll to 16, state media said Thursday.

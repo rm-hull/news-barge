@@ -16,6 +16,19 @@ categories:
 - Harrogate
 - York
 - Science
+locations: []
+people:
+- Angela Eagle
+- James Hardisty
+- Roadmap
+organisations:
+- APHA
+- Animal Health and Welfare Pathway
+- El Niño
+- Farming Improvement Partnership Board
+- Farming and Food Partnership Board
+- Land Use Framework
+- National Farmers' Union
 ---
 
 # British farmers shouldn’t have to shoulder the risks of changing climate - Angela Eagle

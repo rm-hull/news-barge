@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+- U.S.
+people:
+- Kimi K3
+- Tom
+organisations:
+- American AI
+- Apple
+- Astra
+- Balatro
+- C4ADS
+- Get Tom's Hardware
+- Google
+- Huawei
+- Mozilla
+- Nvidia
+- Open Weight
+- OpenAI
+- State of Open Source AI
+- Western Frontier
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

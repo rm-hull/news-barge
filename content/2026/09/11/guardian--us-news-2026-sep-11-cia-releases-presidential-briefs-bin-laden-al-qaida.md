@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Afghanistan
+- New York
+- US Capitol
+- United States
+- Washington
+- White House
+people:
+- Bill Clinton
+- Bin Laden
+- Bin Ladin
+- Bin Ladin-related
+- Briefers
+- George W Bush
+- John Ratcliffe
+- Osama bin Laden
+organisations:
+- Bin Ladin
+- CIA
+- FBI
+- National Archives
+- National Counterterrorism Center
 ---
 
 Several dozen presidential briefing documents declassified on Friday, the 25th anniversary of the September 11 attacks, detail intelligence that government officials had gathered about Osama bin Laden and al-Qaida leading up to the hijackings that killed nearly 3,000 people and upended American national security.

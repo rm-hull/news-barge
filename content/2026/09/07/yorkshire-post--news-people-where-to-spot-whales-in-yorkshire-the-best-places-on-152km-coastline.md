@@ -14,6 +14,33 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- '## Yorkshire'
+- Bempton Cliffs
+- Ellen Leach
+- England
+- Filey Brigg
+- Flamborough Head Circular Trail
+- North York Moors National Park
+- RSPB Bempton Cliffs
+- Shorewatch
+- Staithes
+- UK
+- Whitby
+people:
+- Robin Petch
+- Susanna O'Neill
+organisations:
+- Bartlett NAB
+- Flamborough Head** Flamborough Head
+- RSPB Bempton Cliffs
+- Real Staithes
+- SSSI
+- Sea Watch Foundation
+- WDC
+- Whale and Dolphin Conservation
+- Whitby Coastal Cruises
+- Yorkshire Coast Nature
 ---
 
 # Where to spot whales in Yorkshire: The best places on 152km coastline to spot during prime time

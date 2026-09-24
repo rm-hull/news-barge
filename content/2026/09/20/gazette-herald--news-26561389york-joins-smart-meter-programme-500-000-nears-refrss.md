@@ -13,6 +13,20 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21471795.jpg?type=og-image
+locations:
+- )* York
+- Barnsley
+- Doncaster
+- Northallerton
+- Rotherham
+- Sheffield
+- Wakefield
+people:
+- James Wilson
+organisations:
+- MGroup
+- Netmore
+- Yorkshire Water
 ---
 
 *(Image: Supplied)*

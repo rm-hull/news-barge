@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Brazil
+- Caribbean
+- Latin America
+- Sao Paulo
+- Sen
+- U.S.
+people:
+- Alexandre de Moraes
+- Andrei Rodrigues
+- André Mendonca
+- Daniel Vorcaro
+- Donald Trump
+- Edson Fachin
+- Flávio Bolsonaro
+- Flávio Dino
+- Jair Bolsonaro
+- Leandro Almada
+- Luiz Inácio Lula da Silva
+- Mário Frias
+organisations:
+- Banco Master
+- Dark Horse
+- First Command of the Capital
+- PCC
+- Supreme Court
 ---
 
 A Brazilian Supreme Court justice on Sunday unsealed an investigation into the production of a film about former President Jair Bolsonaro, pointing in his decision to suspicions the movie’s financing had ties to a criminal network.

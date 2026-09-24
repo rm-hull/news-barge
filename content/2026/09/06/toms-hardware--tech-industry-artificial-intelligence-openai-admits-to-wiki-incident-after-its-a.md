@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- AI
+- Europe
+- U.S.
+people:
+- Anton Shilov
+- Isaac Asimov
+- Tom
+organisations:
+- DseWiki
+- First Law
+- Get Tom's Hardware
+- Google News
+- Hugging Face
+- Open AI
+- OpenAI
+- Reuters
+- Tom’s Hardware
 ---
 
 ![OpenAI](https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT.jpg) 

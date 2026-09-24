@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/16851298.jpg?type=og-image&xType=0&yType=73
+locations:
+- Hollyhurst Avenue
+- Middlesbrough
+- North East
+- Saltersgill
+- Thornaby
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Newsquest
+- North East Ambulance Service
 ---
 
 *(Image: Newsquest)*

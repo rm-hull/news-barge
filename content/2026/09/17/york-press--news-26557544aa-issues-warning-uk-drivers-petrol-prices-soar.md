@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- England
+- Northern Ireland
+- Scotland
+- UK
+- Ukraine
+- Wales
+people:
+- Luke Bosdet
+organisations:
+- AA
+- Costco
+- Fuel Finder
+- Getty
+- Irene Miller
+- Oil Market Journal
 ---
 
 *(Image: Irene Miller/Getty)*

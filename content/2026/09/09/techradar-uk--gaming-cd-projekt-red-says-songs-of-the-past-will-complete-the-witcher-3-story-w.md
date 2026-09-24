@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/KFxWG8qRM6NSjtJMotYqf-1920-80.png
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Dandelion
+- Despoina Anetaki
+- Fool
+- Geralt
+- Jakub Rokosz
+- Letten
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- Oxenfurt
+- Projekt Red
+- TechRadar Gaming
+- The Witcher
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/KFxWG8qRM6NSjtJMotYqf.png) 

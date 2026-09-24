@@ -15,6 +15,39 @@ categories:
 - Society & Culture
 - Law & Justice
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Abu Barokat
+- Cairo
+- Egypt
+- Indonesia
+- Jakarta
+- Lombok
+- UK
+- West Nusa Tenggara
+- Yusron
+- Ziadatur
+people:
+- Ahmad Abah Sumar
+- Ahmad Imanuddin Sumar
+- Ayu Masruroh
+- Hurmiati
+- Joko Jumadi
+- Mahima Eka
+- Moch Subchi Azal Tsani
+- Sukma Rohana
+- Wanda Hamidah
+- Yusron Azzahidi
+- Zia
+- Ziadatur Rahmah
+organisations:
+- BBC Action Line
+- BBC World Service
+- NWDI
+- Nahdlatul Wathan Diniyah Islamiyah
+- National Commission on Violence Against Women
+- Yusron
+- Zia
+- iPlayer
 ---
 
 ![Zia and Yusron smile at the camera - Zia is wearing a dusky pink hijab and has sunglasses on her head, Yusron is wearing an open neck white shirt ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg)

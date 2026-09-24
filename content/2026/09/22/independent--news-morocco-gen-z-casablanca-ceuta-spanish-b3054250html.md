@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/13/Morocco_Elections_57811.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Casablanca
+- Ceuta
+- Israel
+- Marrakech
+- Middle East
+- Morocco
+- North Africa
+- U.K.
+- U.S.
+people:
+- Abdelilah Benkirane
+- Ayoub Belaidi
+- Ayoub Lasli
+- Faouzi Lakjaa
+- Fatima-Zahra Mansouri
+- Hamish Kinnear
+- Nizar Baraka
+organisations:
+- Istiqlal Party
+- PAM
+- PI
+- PJD
+- PPS
+- RNI
+- The Associated Press
 ---
 
 More jobs. Higher wages. Less inequality. Better housing, schools, hospitals and infrastructure.

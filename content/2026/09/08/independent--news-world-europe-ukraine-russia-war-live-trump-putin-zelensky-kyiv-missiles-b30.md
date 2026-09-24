@@ -13,6 +13,55 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- America
+- Berlin
+- Bryansk
+- Europe
+- Germany
+- Gotland
+- Hungary
+- Iran
+- Japan
+- Kremlin
+- Kursk
+- Kyiv
+- Lublin
+- Middle East
+- Moscow
+- Nord Stream
+- Russia
+- Saxony-Anhalt
+- Soviet Union
+- St Petersburg
+- Sumy
+- Switzerland
+- Turkey
+- UAE
+- US
+- Ukraine Poland
+people:
+- Adolf Hitler
+- Anita Orban
+- Dmitry Peskov
+- Donald Trump
+- Friedrich Merz
+- Jared Kushner
+- Kirill Dmitriev
+- 'Kushner ## Zelensky'
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- AfD
+- Alternative for Germany
+- European Union
+- Gazprom
+- Kyiv
+- NATO
+- Nato
+- Russian Direct Investment Fund
+- Vienna Convention
 ---
 
 Russia has reportedly held secret war games in which their soldiers defeated Nato and seized a key Swedish island, according to a report.

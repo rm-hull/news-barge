@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Avon and Somerset
+- Coop
+- England
+- Hill Court
+- Paulton
+- Somerset.
+- Wales
+people:
+- Andy Burnham
+- Hayley Bush
+- Mrs Bush
+- Vauxhall Combo
+organisations:
+- British Retail Consortium
+- CCTV
+- Co-op
+- Coop
+- Greggs
+- The Hub
 ---
 
 A mother-of-two who saw a shoplifter stealing from a supermarket has told of the horrific moment she was dragged under the wheel of a car as she tried to stop the offender escaping.

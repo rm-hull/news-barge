@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- East Durham Garden Centre
+people:
+- Anna Worboyes
+- Monty Don
+- Newton Aycliffe
+organisations:
+- British Garden Centres
+- Darlington
+- Family Card
+- Gardeners' World
+- New Family Card
 ---
 
 *(Image: TRIPADVISOR)*

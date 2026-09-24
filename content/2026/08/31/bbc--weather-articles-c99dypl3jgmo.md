@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Coningsby
+- Earth
+- England
+- Europe
+- Kew Gardens
+- Lincolnshire
+- Lingwood
+- London
+- Norfolk
+- Northern Ireland
+- Sheffield
+- Stourbridge
+- Trafalgar Square
+- UK
+- Wales
+- West Midlands
+people: []
+organisations:
+- Met Office
+- Scotland
+- Wales
 ---
 
 ![A woman uses an umbrella to shelter from the sun, surrounded by several other people, in a sun-drenched Trafalgar Square in London](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg)

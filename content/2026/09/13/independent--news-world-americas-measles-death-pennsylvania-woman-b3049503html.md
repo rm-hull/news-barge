@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/08/21/13/58/GettyImages-2260061420.
 categories:
 - News & Politics
 - UK
+locations:
+- Jefferson County
+- Lancaster County
+- Mexico
+- Pennsylvania
+- U.S.
+people:
+- Greg Furlong
+- Stephen Diamantoni
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Jefferson County Coroner’s Office
+- PA Department of Health
+- The Independent
 ---
 
 A 40-year-old woman has become the third person to die from measles complications in Pennsylvania — amid a 35-year high in infections in the U.S.

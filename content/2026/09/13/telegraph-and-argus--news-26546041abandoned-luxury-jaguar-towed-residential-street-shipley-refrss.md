@@ -13,6 +13,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Shipley
+- West Yorkshire
+people: []
+organisations:
+- '## Police'
+- ASB
+- Jaguar
+- Range Rover
+- Shipley PCSO
+- Team 1
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

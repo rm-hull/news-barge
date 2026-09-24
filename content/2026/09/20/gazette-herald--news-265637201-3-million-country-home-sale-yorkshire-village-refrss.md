@@ -14,6 +14,19 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21474871.jpg?type=og-image
+locations:
+- Bishop Barns
+- Bishop Wilton
+- Carter Jonas
+- Pocklington
+- Prestigious’ North Yorkshire
+- Vale of York
+- Yorkshire Wolds
+- Zoopla
+people:
+- Carter Jonas
+organisations:
+- Yorkshire
 ---
 
 An “extraordinary” country home has hit the market in “one of Yorkshire’s most celebrated and sought-after villages” – for £1.395 million.

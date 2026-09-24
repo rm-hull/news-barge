@@ -13,6 +13,59 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- UK
+- US
+people:
+- Adam Scott
+- Amanda
+- Amita Rao
+- Anton (Owen Thiele
+- Bellarie
+- Box
+- Crystle Stewart
+- Daniela
+- Dessens
+- Eva Longoria
+- Fernando Lindez
+- Gabriel García Márquez
+- Issa
+- Jack Innanen
+- Jason
+- Jennifer Connelly
+- Joel Edgerton
+- Julián
+- Kimmie
+- Lucy Buglass
+- Maia Reficco
+- Mallory
+- Paul Baker
+- Pete
+- Robert DeNiro
+- Ry
+- Simon Pegg
+- Siân Brooke
+- Taylor Polidore Williams
+- Tom Power
+- Tyler Perry
+organisations:
+- Amazon
+- Apple TV
+- Disney Plus
+- FBI
+- GCHQ
+- Google News
+- Macondo
+- Malware Department
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Peacock
+- Star Wars
+- TechRadar
+- Whisper Man
+- andDisney
 ---
 
 ![Pete, Tom, and Amanda staring at something off-camera in Netflix movie The Whisper Man](https://cdn.mos.cms.futurecdn.net/LW2EUhsGBATa5fCPATgzof.jpg) 

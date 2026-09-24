@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Asia
+- Bab al-Mandeb Strait
+- Europe
+- Iran
+- Middle East
+- Strait of Hormuz
+- UK
+- US
+- United States
+- Yemen
+people: []
+organisations:
+- IEA
+- International Energy Agency
 ---
 
 The global oil demand outlook has been slashed once again by the International Energy Agency (IEA) as it warned the ongoing Iran war would not see supplies return to normal until 2027.

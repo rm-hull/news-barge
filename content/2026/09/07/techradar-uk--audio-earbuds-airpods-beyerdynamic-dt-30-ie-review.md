@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/z9eTkUmwMKZCXZehM4WcAX-2518-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Harry Padoan
+- Lewis Taylor
+- Ned Doheny
+- Sennheiser
+organisations:
+- Activo Scoop
+- Astell & Kern A
+- Beyerdynamic
+- IEM
+- IEMs
+- Meze Audio
+- Meze Audio Alba
+- Shure SE215
+- TechRadar
 ---
 
 ### TechRadar Verdict

@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- Canfield Fair
+- Dr Acton
+- Mahoning
+- Michigan
+- Ohio
+- US
+people:
+- Abdul El-Sayad
+- Addie Bullock
+- Amy Acton
+- Chris Anderson
+- Connie Luck
+- Donald Trump
+- Jerry Greene
+- Patrick Havas
+- Vivek Ramaswamy
+organisations:
+- 21 News
+- Acton
+- Havas
+- NBC
+- Senate
 ---
 
 Amy Acton, Democratic candidate for Ohio governor, was the target of an attack on Sunday during a campaign stop at the Canfield Fair, campaign officials said. Several people were injured when the armed assailant lunged at Acton.

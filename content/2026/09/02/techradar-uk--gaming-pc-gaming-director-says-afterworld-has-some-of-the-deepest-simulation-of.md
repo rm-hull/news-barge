@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Video Gaming
+locations:
+- North America
+- Stockholm
+- Sweden
+- UK
+people:
+- Dan Lind
+- Dashiell Wood
+organisations:
+- Dash
+- Edge
+- Google News
+- HQ
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Paradox Interactive
+- SFX
+- TechRadar
 ---
 
 ![Upcoming strategy game Afterworld.](https://cdn.mos.cms.futurecdn.net/LCBzAQCfXpaFRAywqkUHi6.jpg) 

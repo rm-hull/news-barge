@@ -14,6 +14,34 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Al-Jalaa
+- Gaza City
+- Hamama
+- Khan Younis
+- Maghazi
+- Rafah
+- Strip
+- Tel al-Hawa
+people:
+- Abbas Al-Souri
+- Abdel Fattah Abu Al-Eesh
+- Abu Zekri
+- Barq
+- Jamil Al-Yazji
+- Khan Younis
+- Mohammed Abu Amra
+- Mohammed Nashbat
+- Raed Adel Mohammed Alyan
+- Tareq Abu Zekri
+organisations:
+- Barq
+- Euronews
+- European Union
+- Hamama
+- Strip
+- United Nations
+- World Bank
 ---
 
 **Mohammed Nashbat** with

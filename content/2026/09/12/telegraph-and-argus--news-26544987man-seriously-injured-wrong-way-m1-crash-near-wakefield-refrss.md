@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Dacia Sandero
+- Junction 41
+- M1
+- Wakefield
+people:
+- Dacia
+organisations:
+- Crimestoppers
+- Kia Proceed
+- Pixabay)* Police
+- West Yorkshire Police
+- West Yorkshire Police’s Roads Policing Unit
 ---
 
 *(Image: Pixabay)*

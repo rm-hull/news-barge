@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Chicago
+- Children's Hospital
+- Farmington
+- Indiana
+- Nashville
+- New Mexico
+- Philadelphia
+- Rockville
+- U.S.
+- United States
+- Vanderbilt Children’s Hospital
+people:
+- Amanda Furr
+- Biden
+- Brad Scoggins
+- Donald Trump
+- Grace Davis Jamison
+- Nia Heard-Garris
+- Robert F. Kennedy Jr.
+- Sarah Coggins
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Congressional
+- Heard-Garris
+- Lurie Children’s Hospital
+- Reuters
+- San Juan Health Partners' Pediatrics
+- Truveta
+- U.S. Department of Health and Human Services
+- University of Pennsylvania
+- Zarminali Pediatrics
 ---
 
 The percentage of parents and caregivers in the United States opting out of a standard vitamin K shot for infants at birth has accelerated sharply this year, according to a data analysis, placing more newborns at risk of life-threatening bleeding episodes.

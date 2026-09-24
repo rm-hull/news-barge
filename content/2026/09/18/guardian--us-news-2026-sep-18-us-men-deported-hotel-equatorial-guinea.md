@@ -14,6 +14,30 @@ categories:
 - Sports
 - Society & Culture
 image: https://i.guim.co.uk/img/media/e4d359b6b7b34834fb07e876f213a9cb1886da5a/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75df2752d57564181870c14d87a8637a
+locations:
+- Brazil
+- Cuba
+- Egypt
+- Equatorial Guinea
+- Eritrea
+- Ethiopia
+- Hotel Bamy
+- Malabo
+- Phoenix
+- US
+people:
+- Ahmed Soliman
+- Bella Mosselmans
+- Samson Birhane
+- Trump
+organisations:
+- African Commission
+- Global Strategic Litigation Council
+- Guardian
+- Immigration and Customs Enforcement
+- Reuters
+- US Department of Homeland Security
+- United Nations
 ---
 
 Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers.

@@ -10,6 +10,29 @@ image: https://cdn.mos.cms.futurecdn.net/hxoKTQnziCWgojWmpRY8fW-960-80.jpg
 categories:
 - Technology & Software
 - Self-Improvement
+locations: []
+people:
+- Dan Sung
+- John Toshack
+- Les Howard
+organisations:
+- AI
+- BBC
+- Dan
+- FourFourTwo
+- How to Watch
+- IPVanish
+- Independent
+- Kaspersky
+- MSN Tech
+- Metro
+- Observer
+- Pocket-lint
+- QR
+- T3
+- Tech Digest
+- VPN
+- Wareable
 ---
 
 ![QR Code scanned via phone](https://cdn.mos.cms.futurecdn.net/hxoKTQnziCWgojWmpRY8fW.jpg) 

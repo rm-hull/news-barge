@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Britain
+- England
+- Hill Dickinson Stadium
+- Liverpool
+- Wales
+- York City
+people:
+- Alan Shearer
+- Carl Frampton
+- Dame Kelly Holmes
+- Dame Laura Kenny
+- Dion Dublin
+- Gary Speed
+- George Russell
+- Jill Scott
+- Kane
+- King
+- Rocky Clark
+- William
+organisations:
+- British Cycling
+- Everton
+- F1
+- Football Association
+- Premier League
+- Prince of Wales
+- Team GB
 ---
 
 England legend Alan Shearer is in an emotional plea for help as part of a new campaign by Prince William.

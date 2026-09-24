@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Brazil
+- Caribbean
+- Latin America
+- Manaus
+- Sen
+people:
+- André Mendonca
+- Daniel Vorcaro
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Luiz Edson Fachin
+- Luiz Inácio Lula da Silva
+organisations:
+- Banco Master
+- Central Bank
+- Supreme Court
 ---
 
 Brazilian presidential candidate Sen. Flávio Bolsonaro is under a Supreme Court investigation for receiving millions of dollars from a disgraced banker to finance a movie about his father, former President Jair Bolsonaro.

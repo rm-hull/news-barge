@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Brooklyn’s Eastern Parkway
+- Caribbean
+people: []
+organisations:
+- AP
+- Caribbean Culture Fills Brooklyn’s Eastern Parkway
 ---
 
 Caribbean Culture Fills Brooklyn’s Eastern Parkway, in photos

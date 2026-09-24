@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Africa
+- Brazil
+- Caribbean
+- Enfield
+- Europe
+- Ghana
+- J'ouvert
+- London
+- Notting Hill
+- Notting Hill Carnival
+- Paddington
+- Paris
+- Rio de Janeiro
+- St Vincent
+- Trinidad
+- UK
+people:
+- Alex
+- Asher
+- Betty
+- Christina Bedau
+- Daniel
+- Dave
+- Hazel
+- Heather
+- Jay
+- Mum
+- Rachel
+- Tiana
+- Triny-Savannah
+- Twinsy
+organisations:
+- BBC London
+- BBC Radio London
+- Betty
+- Carnival
+- Heather
+- St Vincent
+- Sweet Hand Cuisine
+- Tiana
 ---
 
 ![A child with headdress smiles from the parade](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/9df5/live/48d2b160-a481-11f1-b109-879e35c24276.png)

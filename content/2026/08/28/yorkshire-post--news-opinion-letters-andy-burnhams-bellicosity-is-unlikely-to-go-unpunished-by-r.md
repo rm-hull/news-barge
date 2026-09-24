@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bentley
+- Berwickshire
+- Kiev
+- Kyiv
+- Lauder
+- Oxton
+- Russia
+- UK
+- Ukraine
+- William Loneskie
+people:
+- Andy Burnham
+- Henry Nicholls
+- Marshall Bomber Harris
+- Starmer
+- Zel Boy
+organisations:
+- British Storm Shadow
+- RAF
+- Yorkshire Post Letters
 ---
 
 # Andy Burnham’s bellicosity is unlikely to go unpunished by Russia - Yorkshire Post Letters

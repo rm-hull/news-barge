@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- SteamDB
+people:
+- Gabe Newell
+- Mike Harrington
+- Valve
+organisations:
+- Ada Lovelace
+- Blackwell
+- DLSS-G
+- Get Tom's Hardware
+- Microsoft
+- NVIDIA
+- Nvidia
+- Valve
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/bVqPHLV7CFqmsPwKnUs5aU-320-80.jpg)

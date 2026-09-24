@@ -13,6 +13,44 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Arctic Yamal
+- Asia
+- Belgium
+- Brussels
+- Dynagas
+- Europe
+- Finland
+- France
+- Greece
+- Kremlin
+- Middle East
+- Moscow
+- Netherlands
+- Northern Sea Route
+- Rovaniemi
+- Russia
+- Scotland
+- Siberia
+- Spain
+- Strait of Hormuz
+- Urgewald
+- Yamal LNG
+people:
+- Alexander Kirk
+- Charles Costerrouse
+- Putin
+- Sebastian Rötters
+organisations:
+- Arc7
+- Costerrouse
+- Dynagas
+- EU
+- Euronews
+- Kpler
+- NGO Urgewald
+- Seapeak
+- Yamal LNG
 ---
 
 ## Two European companies dominate the Arctic shipping network: Scotland's Seapeak and the Greek-linked shipping firm Dynagas. Together, vessels tied to these two European companies managed 72% of all Yamal LNG exports.

@@ -13,6 +13,12 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1OGMzNzAzLWZjOWItNDc0Yi04YmFmLTcxMzlmYzZkMzlhNjoyZjNlNWJlMS0yMmYyLTQ0NTgtODdhOC0wYjgxNmU2NGViM2Q=.jpg?crop=3:2,smart&trim=&width=620&auto=webp&quality=75
+locations:
+- Sheffield
+people: []
+organisations:
+- '## Police'
+- South Yorkshire Police
 ---
 
 # Police warning after bogus tradespeople target the elderly and vulnerable

@@ -13,6 +13,16 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Japan
+- Middle East
+- UK
+people:
+- Andy Burnham
+- John Healey
+- Oliver Faizallah
+organisations:
+- Raymond James
 ---
 
 Long-term borrowing costs for the UK government have surged to their highest levels in 28 years, placing additional pressure on Andy Burnham’s team ahead of next month’s Budget.

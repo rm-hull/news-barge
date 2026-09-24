@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations: []
+people:
+- Anne Hegerty
+- Bradley Walsh
+- Declan Donnelly
+- God
+- Mark Labbett
+- Paul Sinha
+organisations:
+- Bradford
+- Daily Mail
+- ITV
+- ITVX
+- M&S
+- The Beast
+- The Chase
+- The Chase Around The World
+- The Chasers
+- The Governess
 ---
 
 *(Image: ITV)*

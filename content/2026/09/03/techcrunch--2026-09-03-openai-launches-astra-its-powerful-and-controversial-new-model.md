@@ -11,6 +11,15 @@ image: https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Greg Brockman
+- Jakub Pachocki
+organisations:
+- AGI
+- Astra
+- Microsoft
+- OpenAI
 ---
 
 OpenAI released Astra on Thursday, its latest AI model and — according to the company — its most powerful and capable one yet.

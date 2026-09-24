@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Crewe
+- Millfield Lane
+- Nether Poppleton
+- York
+people: []
+organisations:
+- City of York Council
+- Hope Centre Church
+- Manor CE Academy
+- RCCG Hope Centre Church
+- Redeemed Christian Church of God
+- Saville Group
 ---
 
 A York office building could be converted into a place of worship under new plans.

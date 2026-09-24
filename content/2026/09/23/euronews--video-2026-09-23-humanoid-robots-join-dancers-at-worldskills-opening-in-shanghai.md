@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/44/10/1200x675_cmsv2_5d83d1a2-4989-5d1e-a3ff-eab4d43378b0-9924410.jpg
+locations:
+- China
+- Shanghai
+people: []
+organisations:
+- National Exhibition and Convention Center
 ---
 
 The 48th edition of the WorldSkills Competition has opened in Shanghai.

@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Travel
 - Careers & Productivity
+locations:
+- Australia
+- Brisbane
+- Fiji
+- Pacific Islands
+- Palau
+- Solomon Islands
+- Solomons
+- Tuvalu
+- Vanuatu
+people:
+- Anthony Albanese
+- Jotham Napat
+- La’auli Leuatea Schmidt
+- Manasseh Maelanga
+- Matthew Wale
+- Oliver Nobetau
+- Sitiveni Rabuka
+organisations:
+- ABC
+- Guardian Australia
+- Lowy Institute
+- One Nation
+- PALM
+- PIF
+- Pacific Australia Labour Mobility Scheme
+- Pacific Islands Forum
+- Queensland Labor
 ---
 
 Several leaders have pulled out of a the Pacific Islands Forum leaders’ meeting in Palau at the eleventh hour.

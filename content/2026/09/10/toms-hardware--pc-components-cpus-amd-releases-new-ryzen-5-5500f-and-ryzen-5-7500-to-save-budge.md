@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- AM4
+- U.S.
+people:
+- Tom
+organisations:
+- AMD
+- Get Tom's Hardware
+- Google News
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![AMD Ryzen 5 CPU](https://cdn.mos.cms.futurecdn.net/J47XMamtM6eBicNBMKV3cK.jpg) 

@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Afghanistan
+- Bosnia
+- Chiswick
+- Denmark
+- Greece
+- Iraq
+- London
+- Putney Bridge
+- West End
+people:
+- Dan Knowles
+- Katherine
+- Nicholas Bandram
+- Nicholas Brandram
+- Nick
+- Putney
+- Victoria
+organisations:
+- Brandram
+- British Army
+- CCTV
+- Met Police
+- Metropolitan Police
 ---
 
 When a woman was shoved into the path of a bus on Putney Bridge almost a decade ago, it prompted public outrage which only intensified when grainy footage of the notorious offence went viral.

@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg
+locations: []
+people: []
+organisations:
+- BenQ
+- M6 Mac Mini
+- Mac Studio
+- MacBook Air
+- Magic Mouse
 ---
 
 Ports remain the same. Two forward-facing USB-C 3 ports (up to 10 gigabytes per second), as well as a headphone jack and a power indicator light. On the back, there are three Thunderbolt 4 ports, HDMI 2.1, an Ethernet jack, and the power adapter port. Using the available USB-C ports and HDMI on the back, you can connect up to two 5K 120-Hz external displays (such as the Studio Display XDR or BenQ 5K MA270S) or three 4K displays.

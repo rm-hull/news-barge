@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Brontë Country
+- Canada
+- Germany
+- Hepworth Gallery
+- Italy
+- Netherlands
+- UK
+- United States
+- West Yorkshire
+- Westminster
+people:
+- Tracy Brabin
+organisations:
+- Brabin
+- Bradford College
+- Foundation Strategic Authorities
+- Newsquest
 ---
 
 West Yorkshire Mayor Tracy Brabin has backed plans to give regional leaders the power to introduce a levy on overnight visitors after discussing the proposal with fellow UK mayors at Number 10.

@@ -12,6 +12,55 @@ image: https://static.independent.co.uk/2026/09/07/01/9bfc35a5737a9d13196fdc1ac5
 categories:
 - News & Politics
 - UK
+locations:
+- Burnham
+- China
+- County of Buckingham
+- Desborough
+- Dover
+- Eastney Point
+- Hampshire
+- Holborn
+- Isle of Wight
+- Kent
+- London
+- Portsmouth
+- St Pancras
+- UK
+- Unite the Kingdom
+- West Midlands
+people:
+- '## Farage'
+- Alex Ross
+- Anneliese Midgley
+- Bailiff
+- Daniel Thomas
+- Danny Thomas
+- Danny Tommo
+- Keir Rodney Starmer
+- Keir Starmer
+- Lee Anderson
+- Nigel Brookes
+- Nigel Farage
+- Pat McFadden
+- Steward
+- Sue Dewey
+- Tommo Zia Yusuf
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- '## Holborn'
+- Border Force
+- Chiltern Hundreds of Stoke
+- Clerk of the Crown
+- Jaguar Land Rover
+- Kent Police
+- Patriot Platform
+- Portsmouth
+- Press Association
+- Reform UK
+- Volkswagen
+- Work and Pensions
 ---
 
 Police are hunting to identify offenders after police were injured and cars were damaged in anti-migration protests.

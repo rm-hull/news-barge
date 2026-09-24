@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cambridge
+- London
+- North West of England
+- Trafalgar Square
+people:
+- Afzal
+- Deborah Prentice
+- Jason Arday
+- Laura Kuenssberg
+- Laura Kussenberg
+- Nathan Cofnas
+- Nazir Afzal*,*
+organisations:
+- BBC
+- University Council
+- University of Cambridge
+- University of Manchester
 ---
 
 ![Jason Arday photographed on the panel of BBC show Sunday with Laura Kussenberg](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7f23/live/9f896f50-a88f-11f1-96fc-dd627484b0e6.jpg)

@@ -13,6 +13,18 @@ categories:
 - UK
 - Arts & Culture
 - Self-Improvement
+locations:
+- Chicago
+- Rome
+- St. Peter’s Square
+- United States
+- United States of America
+people:
+- Leo XIV
+- Lord
+- Robert Prevost
+organisations:
+- Vatican News
 ---
 
 Marking the 25th anniversary of the 11 September terrorist attacks in his native country, Pope Leo XIV, history's first American pope, called for a renewed commitment to peace on Sunday.

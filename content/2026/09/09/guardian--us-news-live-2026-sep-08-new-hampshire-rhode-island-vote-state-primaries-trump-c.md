@@ -12,6 +12,93 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alabama
+- Asia
+- Canada
+- Colombia
+- Hormuz
+- Iran
+- Jackson
+- Jefferson City
+- Los Angeles
+- Massachusetts
+- Mississippi
+- Missouri
+- Nevada
+- New America
+- New Hampshire
+- New Mexico
+- New York
+- New York City
+- New Zealand
+- Samoa
+- Smithsonian
+- Texas
+- UK
+- US House
+- United States
+- West Bank
+- White House
+people:
+- Alex Padilla
+- Brandon Gill
+- Brett Kavanaugh
+- Catherine Cortez Masto
+- Catherine Hanaway
+- Chris Pappas
+- Chuck Hatfield
+- David A Lieb
+- Donald Trump
+- Jeanne Shaheen
+- John E Sununu
+- Josh Hawley
+- Kamala Harris
+- Karen Bass
+- Karishma Manzur
+- LAist
+- Lonnie Bunch III
+- Lonnie G Bunch III
+- Marco Rubio
+- Michelle Lujan Grisham
+- Mike Kehoe
+- Nikki Haley
+- Robert Garcia
+- Scott Brown
+- Steve Perry
+- Terri Sewell
+- Tim Hawkins
+- Zohran Mamdani
+organisations:
+- Capitol
+- Centcom
+- Congress
+- Cornell University
+- District of Columbia
+- Guardian
+- House
+- ICE
+- IRGC
+- IRS
+- IRS’
+- Immigration and Customs Enforcement
+- Internal Revenue Service
+- Islamic Revolutionary Guard Corps
+- Justice
+- KFI
+- Los Angeles Homeless Services Authority Commission
+- Missouri Supreme Court
+- New HampshireRepublican Senate
+- New York Times
+- People Not Politicians
+- Shrai Popat
+- Smithsonian Institution
+- The Associated Press
+- Trump
+- US Central Command
+- US Navy
+- US Senate
+- US Supreme Court
 ---
 
 Protestor Steve Perry holds a sign in opposition to Missouri’s congressional redistricting plan on 2 September outside the state Capitol, in Jefferson City. Photograph: David A Lieb/AP

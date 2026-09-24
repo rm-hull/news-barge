@@ -12,6 +12,38 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/hW5aaHGSZ8knsq7z638W8h-1920-80.jpg
+locations:
+- Calderdale
+- UK
+- Virgin River
+- Wakestead
+- West Yorkshire
+people:
+- Catherine Cawood
+- DI Emma Clare
+- Douglas Booth
+- George Cooper Sr.
+- James Norton
+- Lisa Farrand
+- Michelle Keegan
+- Nicola
+- Sally Wainwright
+- Sarah Lancashire
+- Schindler
+- Tommy Lee Royce
+organisations:
+- A-List
+- BBC iPlayer
+- Google News
+- Hallmark
+- Happy Valley
+- ITV
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Michelle Keegan and Douglas Booth next to the What Stars Watch franchise badge](https://cdn.mos.cms.futurecdn.net/hW5aaHGSZ8knsq7z638W8h.jpg)

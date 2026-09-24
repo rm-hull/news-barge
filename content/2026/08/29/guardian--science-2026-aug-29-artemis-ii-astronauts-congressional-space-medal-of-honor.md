@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- China
+- Earth
+- Florida
+- Houston’s Johnson Space Center
+- Mars
+- Oval Office
+- US
+people:
+- Alan Shepard
+- Artemis
+- Bob Behnken
+- Christina Koch
+- Cmdr Reid Wiseman
+- Donald Trump
+- Doug Hurley
+- Frank Borman
+- Harrison Schmitt
+- Jared Isaacman
+- Jeremy Hansen
+- Jimmy Carter
+- Joe Biden
+- John Glenn
+- Matthew Anderson
+- Neil Armstrong
+- Victor Glover
+organisations:
+- Apollo 11
+- Apollo 17
+- Apollo 8
+- Artemis II
+- Artemis IV
+- International Space Station
+- Kennedy Space Center
+- Nasa
 ---
 
 The Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday.

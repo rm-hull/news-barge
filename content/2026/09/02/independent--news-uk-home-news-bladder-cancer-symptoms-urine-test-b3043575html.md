@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- England
+- GALEAS Bladder
+- NHS
+- UK
+- Wales
+people:
+- Lee Silcock
+- Richard Bryan
+organisations:
+- Bladder Cancer Research Centre
+- Cancer Research
+- European Urology Oncology
+- GALEAS Bladder
+- NHS
+- Nonacus
+- University of Birmingham
 ---
 
 An at-home urine test can detect more than nine in 10 bladder cancer cases, a study has revealed.

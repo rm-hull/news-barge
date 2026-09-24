@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Greencroft Parkway
+- Kawasaki
+- Stanley
+people: []
+organisations:
+- A693
+- Durham Constabulary
+- Durham Police
+- Serious Collision Investigation Unit
 ---
 
 *(Image: GNAAS)*

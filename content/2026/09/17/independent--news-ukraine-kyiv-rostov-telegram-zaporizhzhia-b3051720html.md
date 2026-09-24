@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Chornomorsk
+- Kyiv
+- Odesa
+- Rostov
+- Russia
+- U.S.
+- Ukraine
+- Yaroslavl
+- Zaporizhzhia
+people:
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- Foreign Intelligence Service
+- Kyiv City Military Administration
+- Security Service
+- State Emergency Service
+- Telegram
+- Yaroslavl Oil Refinery
 ---
 
 A Russian barrage of missiles and drones targeting Ukraine's capital and the surrounding region injured at least 19 people overnight and into Thursday morning, authorities said.

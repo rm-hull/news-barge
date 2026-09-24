@@ -15,6 +15,35 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- England
+- Europe
+- Toronto
+- U.S.
+- United States
+- Washington
+- Yorkville
+people:
+- Donald Trump
+- John Graham
+- Jon Gray
+- Larry Fink
+- Mark Carney
+- Stephen Harper
+organisations:
+- BlackRock
+- Blackstone
+- Bloomberg L.P.
+- Brookfield Asset Management
+- CPP Investments
+- Canada Investment Summit
+- Canada Pension Plan
+- EU
+- European Parliament
+- Goldman Sachs
+- Trump
 ---
 
 U.S. President Donald Trump wants factories and investment moving south to the United States. Canadian Prime Minister Mark Carney is betting he can make billions flow north.

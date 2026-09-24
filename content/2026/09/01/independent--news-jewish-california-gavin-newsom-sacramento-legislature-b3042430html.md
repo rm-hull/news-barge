@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- California
+- Gaza
+- Israel
+people:
+- David Bocarsly
+- Gavin Newsom
+- Henry Stern
+- Marc Dollinger
+- Sydney Levy
+organisations:
+- Assembly
+- Hamas
+- Jewish California
+- Jewish Voice for Peace
+- Legislature
+- San Francisco State University
 ---
 
 California would allow Jews to voluntarily identify their Jewish heritage on state forms under a bill the state Assembly passed Monday.

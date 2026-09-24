@@ -11,6 +11,30 @@ image: https://media.wired.com/photos/6a982ebefa116206d0ee4c52/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- TikTok
+people:
+- Aaron Zelin
+- Adam Hadley
+- Moustafa Ayad
+- Slop Jihad
+- SpongeBob
+- Squidward
+organisations:
+- Alt Jihad
+- ISD
+- ISIS
+- Instagram
+- Institute of Strategic Dialogue
+- Islamic State
+- News Harvest
+- Organisation for Economic Co-operation and Development
+- Slop Jihad
+- Tech Against Terrorism
+- TikTok
+- WIRED
+- Washington Institute for Near East Policy
+- al-Naba
 ---
 
 Over a decade ago, the Islamic State released a disturbing video that depicted its members lowering men locked in a cage into a swimming pool and drowning them. Today, that video has been reproduced as a SpongeBob SquarePants cartoon depicting fish in orange jumpsuits inside the cage, as SpongeBob lowers the cage into the water while Squidward films the scene.

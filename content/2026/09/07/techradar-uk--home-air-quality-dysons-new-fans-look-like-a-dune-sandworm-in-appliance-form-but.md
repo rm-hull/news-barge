@@ -10,6 +10,20 @@ image: https://cdn.mos.cms.futurecdn.net/p9GPcGZ4Z2UCZ2HyvimXXL-2560-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Australia
+- Berlin
+- HushJet
+- UK
+- US
+people:
+- Dyson HushJet
+- Ruth Hamilton
+organisations:
+- Dyson's IFA
+- Google News
+- Ruth
+- TechRadar
 ---
 
 ![Dyson HushJet fans on display at IFA](https://cdn.mos.cms.futurecdn.net/p9GPcGZ4Z2UCZ2HyvimXXL.jpg) 

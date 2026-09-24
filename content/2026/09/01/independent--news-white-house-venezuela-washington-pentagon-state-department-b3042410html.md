@@ -12,6 +12,18 @@ image: https://static.independent.co.uk/2026/09/01/01/Venezuela_US_Trump_Oil_712
 categories:
 - News & Politics
 - UK
+locations:
+- U.S.
+- Venezuela
+- White House
+people: []
+organisations:
+- NABEP
+- North American Blue Energy Partners
+- Pentagon
+- State Department
+- The Associated Press
+- Venezuela US Trump Oil
 ---
 
 White House working with North American Blue Energy Partners on Venezuela oil deal

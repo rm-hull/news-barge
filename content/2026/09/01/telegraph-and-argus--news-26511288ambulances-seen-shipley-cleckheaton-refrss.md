@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Cleckheaton
+- Cragg Road
+- Muffit Lane
+- Shipley
+people: []
+organisations:
+- Yorkshire Ambulance Service
 ---
 
 AMBULANCE resources were visible in the Bradford district on Friday.

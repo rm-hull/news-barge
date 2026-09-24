@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Bulgaria
+- Europe
+- Romania
+- Strasbourg
+people:
+- Tsvetelina Penkova
+- Veerle Dossche
+- Virgil-Daniel Popescu
+organisations:
+- ACER
+- Council
+- EPP
+- EU
+- Euronews
+- European Commission
+- European Court of Auditors
+- European Parliament
+- European Union
+- Greens
+- NGO Climate Action Now Europe
+- REPowerEU
+- S&D
+- Socialists
 ---
 
 ## The European Commission’s renewable push comes as the EU co-legislators, the European Parliament and the Council, are working to tackle one of the biggest bottlenecks to new clean-power projects — the electrical grids.

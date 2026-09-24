@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21491856.jpg?type=og-image&xType=0&yType=114
+locations:
+- County Durham
+- Juliette
+- Le Petit Chateau
+- Le Petit Château
+- Northumberland National Park
+- Otternburn
+- Ravenseat Fairytale Northumberland
+- The William de Percy
+people:
+- Amanda Owen
+- Le Petit Chateau
+- Miles
+- Nicholas Georgiou
+- Reuben
+- William de Percy
+organisations:
+- Kristos Kabiotis Photography
+- Le Petit Château
 ---
 
 An award-winning wedding venue is winning praise for its beautiful setting and "fabulous food".

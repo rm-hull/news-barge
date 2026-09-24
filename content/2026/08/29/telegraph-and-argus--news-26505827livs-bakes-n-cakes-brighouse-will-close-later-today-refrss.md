@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Brighouse Store
+- Commercial Street
+people:
+- Liv Dennison
+- Liv’s Bakes n Cakes
+- Miss Dennison
+organisations:
+- Liv
+- Liv's
+- Liv’s Bakes n Cakes
 ---
 
 *(Image: Liv's Bakes n Cakes)*

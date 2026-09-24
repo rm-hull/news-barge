@@ -15,6 +15,23 @@ categories:
 - York
 - History
 - Sports
+locations:
+- 1st Avenue
+- Baghdad
+- Belle Vue Hospital
+- Kabul
+- London
+- Madrid
+- New York
+- US
+people:
+- Andrew Vine
+- Bruce Rollinson
+- Elizabeth II
+- John Woodcock
+organisations:
+- E29th
+- Yorkshire Post
 ---
 
 # The world was never the same after 9/11 but tyranny did not win that day

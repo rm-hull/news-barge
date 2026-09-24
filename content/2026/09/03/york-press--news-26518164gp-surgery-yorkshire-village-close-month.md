@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Boroughbridge
+- Harrogate District Hospital
+- Helperby
+- North Yorkshire
+- PA
+- York Hospital
+people:
+- Andy Burnham
+- Jil Coles
+- Lynne Cameron
+organisations:
+- BBC
+- Google
+- Helperby Branch Surgery
+- NHS
+- York
 ---
 
 *(Image: Lynne Cameron/PA Wire)*

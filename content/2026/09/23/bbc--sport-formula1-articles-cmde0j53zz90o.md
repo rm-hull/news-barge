@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6054/live/922c8bc0-b722-11f1-8d21-19ad84e0e822.jpg
+locations:
+- Australia
+- Britain
+- Japan
+- Melbourne
+- Silverstone Verstappen
+people:
+- Daniel Ricciardo
+- Isack Hadjar
+- Laurent Mekies
+- Max Verstappen
+organisations:
+- Isack Hadjar
+- Racing Bulls
+- Red Bull
+- Verstappen
 ---
 
 ![Isack Hadjar wearing a Red Bull polo shirt](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6054/live/922c8bc0-b722-11f1-8d21-19ad84e0e822.jpg)

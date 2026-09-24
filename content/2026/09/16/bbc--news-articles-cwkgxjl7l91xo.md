@@ -12,6 +12,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7fb/live/9e1fb1
 categories:
 - UK
 - News & Politics
+locations:
+- Islamabad
+- Pakistan
+- Rawalpindi
+people:
+- Abdul Ghafoor
+- Hivsa Walid
+- Razia Noreen
+organisations:
+- BBC News
+- CCTV
+- Hospital
+- MCH
+- Maternal and Child Health Ward
+- Mother and Child Health
+- PIMS
+- Pakistan Institute of Medical Sciences
 ---
 
 ![Security personnel and police officers are seen outside the Maternal and Child Health Ward at the Pakistan Institute of Medical Sciences (PIMS) in Islamabad, Pakistan, on August 26, 2026.](https://ichef.bbci.co.uk/ace/standard/983/cpsprodpb/b7fb/live/9e1fb150-b1ff-11f1-a4a7-291ff3d1006b.jpg)

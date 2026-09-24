@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- AI
+- Seoul
+people:
+- Anton Shilov
+- Harrison Kim
+- Jalapeño
+- Tom
+organisations:
+- AI
+- AMD
+- ASIC
+- Broadcom
+- Get Tom's Hardware
+- Google News
+- Jalapeño
+- Nvidia
+- OpenAI Korea
+- Reuters
+- SK
+- Samsung Electronics
+- Samsung Foundry
+- Stargate
+- TSMC
+- Tesla
+- Tom’s Hardware
 ---
 
 ![OpenAI's Jalapeno ASIC.](https://cdn.mos.cms.futurecdn.net/fG6k3NRNFC6buLLATBY3Z7.jpg) 

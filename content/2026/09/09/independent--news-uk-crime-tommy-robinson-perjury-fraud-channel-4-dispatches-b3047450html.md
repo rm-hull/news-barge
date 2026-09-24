@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Telford
+- UK
+people:
+- Jamal Hijazi
+- Jenna Lennon
+- Kate
+- Lauren Southern
+- Matt Shea
+- Max Hill
+- Max Hill KC
+- Peter Lynch
+- Stephen Lennon
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Bitcoin
+- Channel 4 Dispatches
+- HMRC
+- High Court
+- Lennon Consultancy Limited
+- Metro Bank
 ---
 
 Right-wing activist Tommy Robinson faces allegations of lying under oath regarding his personal finances, while fundraising drives conducted in his name may constitute fraud, a Channel 4 Dispatches investigation has alleged.

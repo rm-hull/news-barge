@@ -12,6 +12,13 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21475079.jpg?type=og-image
+locations: []
+people:
+- Hinch
+- Martin Lewis
+organisations:
+- Mrs Hinch Cleaning Tips
+- TIA
 ---
 
 ## Mrs Hinch fans' cheap alternative to 'demon appliance' to dry clothes in winter

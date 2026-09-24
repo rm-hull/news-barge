@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## York'
+- Holy Trinity Church
+- Museum Gardens
+- York Museum Gardens
+- York Railway Station
+people:
+- Carl Alsop
+- Mary Anne Fisher
+organisations:
+- Barley Hall
+- Clifford’s Tower
+- Merchant Adventurers’ Hall
+- Museum Gardens
+- York BID
+- York Castle Museum
+- York Museums Trust
 ---
 
 ## York's popular ghost trail returns with 70 sculptures across the city

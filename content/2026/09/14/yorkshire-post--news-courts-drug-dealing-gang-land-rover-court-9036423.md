@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- '## A Yorkshire'
+- Barnsley
+- Cudworth
+- Land Rover Discovery
+- Royston Road
+- Swaithdale
+- Toone
+- Worsborough Dale
+- Yews Lane
+people:
+- Charles Thomas
+- Codey Smith
+- Cody Smith
+- Dale Toone
+- Peter Byrne
+- Ross Kirk
+- Worsborough Dale
+organisations:
+- BMW
+- Cemetery and Cross
+- Land and Rover
+- Sheffield Crown Court
+- Skoda
 ---
 
 # Drug dealing gang using codenames Land and Rover foiled selling crack to undercover police officer

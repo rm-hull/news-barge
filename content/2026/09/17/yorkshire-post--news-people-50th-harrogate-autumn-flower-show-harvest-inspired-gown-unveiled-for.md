@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Boroughbridge
+- Clitheroe Ann Rycroft
+- Newby Hall
+- West Sussex
+people:
+- Ann Rycroft
+- Anna Cartmell Done
+- Anna Cartmell-Done
+- David Groves
+- Jonathan Moseley
+- Jonathan Moseley Anna Cartmell Done
+- Jonathan’s
+- Sandra Holland
+- Tony Johnson
+organisations:
+- Chrysanthemum Northern Group Society
+- Holden Clough Nurseries
 ---
 
 Created by renowned floral designer Jonathan Moseley, the beautiful gown was revealed on Thursday September 17, with model Anna Cartmell-Done showcasing the finished creation within the historic surroundings of Newby Hall.

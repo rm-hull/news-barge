@@ -14,6 +14,52 @@ categories:
 - News & Politics
 - Sports
 - Lifestyle & Fashion
+locations:
+- Anfield
+- Brazil
+- Hull City
+- Konstantinos Tzolakis
+- Manchester City
+- Newcastle
+- Nottingham Forest
+people:
+- Ajayi
+- Anthony Elanga
+- Bruno Fernandes
+- Carlo Ancelotti
+- Cole Palmer
+- Erling Haaland
+- Fantastic
+- James McAtee
+- James Tarkowski
+- Joao Pedro
+- Jose Mourinho
+- Matthias Jaissle
+- Morgan Rogers
+- Nordi Mukiele
+- Rayan Cherki
+- Troy Deeney
+- Tzolakis
+- Very Jose
+- Xabi Alonso
+- Yoane Wissa
+organisations:
+- BBC
+- Bournemouth
+- Chelsea
+- Elanga
+- Everton
+- Fulham
+- Hull
+- Manchester City
+- Manchester United
+- Newcastle
+- Porto
+- Premier League
+- Semi Ajayi
+- Sunderland
+- Wissa
+- Woltemade
 ---
 
 ![Troy Deeney banner](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4013/live/4bb795a0-5990-11ef-8f0f-0577398c3339.jpg)

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Cockfield
+- DURHAM CONSTABULARY)*
+- Ferryhill
+- Middlesbrough
+- Newton Aycliffe
+- Raby Road
+- The King's Head
+people: []
+organisations:
+- Durham Police
 ---
 
 *(Image: DURHAM CONSTABULARY)*

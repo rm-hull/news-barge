@@ -12,6 +12,28 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- England
+- Harrogate
+- WESTMINSTER
+- Wales
+people:
+- Freddie Van Mierlo
+- Gordon Vows
+- Lauren Edwards
+- Tom Gordon
+- Vikki Slade
+organisations:
+- Bill Committee
+- Dignitas
+- End of Life
+- Harrogate
+- House of Commons.The
+- Knaresborough
+- Labour
+- Liberal Democrat
+- Parliament Green
+- Terminally Ill Adults
 ---
 
 **WESTMINSTER**— A fresh legislative bid to legalise assisted dying in England and Wales has failed to become law this afternoon, following a historic and highly charged free vote in the House of Commons.The

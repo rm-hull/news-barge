@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Cavendish Street
+- Keighley
+- Lawkholme Lane
+- West Yorkshire
+people: []
+organisations:
+- BMW
+- Bradford CID
 ---
 
 # Hunt for BMW driver who assaulted man and then drove car at him in Keighley

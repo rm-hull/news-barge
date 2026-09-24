@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Scotland
+- Sheffield
+people:
+- Charmian Owston
+- Ms Owston
+organisations:
+- Sheffield Women's Aid
+- Sheffield Women’s Aid
 ---
 
 # 'I came here and my life changed' - Survivor says refuge helped her understand extent of domestic abuse

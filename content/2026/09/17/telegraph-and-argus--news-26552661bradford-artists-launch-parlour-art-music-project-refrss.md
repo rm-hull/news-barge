@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Ashley Lane
+- Bradford
+- Lamigo Bay
+- London
+- Lower Ground
+- Merchants Quay
+- Saltaire
+- Scotland
+- Scottish Highlands
+- Shipley
+- uk
+people:
+- Ben Holden
+- Chris Fleming-Wall
+- Jamie Lockhart
+- Parlour
+- Tom Goodall
+organisations:
+- BandCamp
+- Bradford
+- Greenmount Studios
+- HOHM Studios
+- Parlour
+- THERE’S
+- This Et Al
 ---
 
 THERE’S a chance to find out about a new art and music project at a special ‘open studio’ event this weekend.

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://www.thenorthernecho.co.uk/resources/images/21478592.jpg?type=og-image&xType=0&yType=107
+locations:
+- Britain
+- New County Durham
+- North East
+- Northumberland
+- Ripon Racecourse
+- UK
+people:
+- Stuart Boulton
+organisations:
+- Challenge Certificates
+- Crufts
+- Young Kennel Club
 ---
 
 The Darlington Championship Dog Show returned to Ripon Racecourse this weekend, bringing together hundreds of dogs, owners and handlers from across the country.

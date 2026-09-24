@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- A66
+- Acklam
+- Hartlepool
+- Middlesbrough
+- Owen Humphreys
+- PA
+- Teesside Crematorium
+people:
+- Cole Worthy
+- John Wrintmore
+- Pc Matthew Blades
+- Pc Tom Clough
+organisations:
+- Cleveland Police
+- Teesside Crematorium
 ---
 
 # Man arrested at funeral of teenager killed in A66 crash

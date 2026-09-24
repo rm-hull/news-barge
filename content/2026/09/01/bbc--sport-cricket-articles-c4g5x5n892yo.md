@@ -14,6 +14,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Clarence House
+- Edgbaston
+- England
+- Pakistan
+people:
+- Aamir Jamal
+- Abdullah Fazal
+- Ali Usman
+- Arafat Minhas
+- Ashley Noffke
+- Babar Azam
+- Charles
+- Imam-ul-Haq
+- Imran Khan
+- Khurram Shahzad
+- Mike Hesson
+- Mohammad Imran
+- Mohammed Imran Jr
+- Muhammad Awais Jafar
+- Muhammad Rizwan
+- Ramiz Raja
+- Razaullah
+- Said Baig
+- Saim Ayub
+- Salman Ali Agha
+- Sarfaraz Ahmed
+- Shahid Afridi
+- Shahid Afridi.
+- Umar Gul
+organisations:
+- BBC Radio 5 Live
+- PCB
+- Pakistan Cricket Board
+- Sky
 ---
 
 ![Former Pakistan captain Shahid Afridi](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/6e86/live/15697fe0-a5e7-11f1-a019-f3ea5e194221.jpg)

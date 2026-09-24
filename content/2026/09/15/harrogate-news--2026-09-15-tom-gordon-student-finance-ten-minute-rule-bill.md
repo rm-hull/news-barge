@@ -12,6 +12,36 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- England
+- Harrogate
+- Knaresborough
+- WESTMINSTER
+people:
+- Alex Sobel
+- Ann Davies
+- Cat Eccles
+- Cat Smith
+- Christine Jardine
+- Danny Chambers
+- Layla Moran
+- Liz Jarvis
+- Lord Shaffaq Mohammed
+- Ruth Cadbury
+- Siân Berry
+- Tom Gordon
+- Vikki Slade
+organisations:
+- Government
+- Green Party
+- House of Commons
+- House of Lords
+- Labour
+- Lib Dem
+- Liberal Democrat
+- Liberal Democrats
+- Plaid Cymru
+- Treasury Select Committee
 ---
 
 **WESTMINSTER**— Tom Gordon, Liberal Democrat MP for Harrogate and Knaresborough, presented a 10-Minute Rule Bill to review and fix student finance today.The Bill, co-sponsored by MPs from the Liberal Democrats, Labour, the Green Party, and Plaid Cymru, calls on the Chancellor to specifically review loan terms and conditions alongside repayment thresholds.

@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- England
+- Harrogate
+people:
+- Andy Burnham
+- Tom Gordon
+organisations:
+- Disability Action Yorkshire
+- Harrogate
+- House of Commons
+- Knaresborough
+- Liberal Democrat
 ---
 
 ![](https://mmo.aiircdn.com/409/6a991466268598112d3.jpg) 

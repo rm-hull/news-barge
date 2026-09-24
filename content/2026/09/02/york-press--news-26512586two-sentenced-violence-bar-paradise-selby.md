@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Bar Paradise
+- Barlby
+- Northfield
+- Riverside Avenue
+- Selby
+people:
+- Brogan Riley
+- Jack Collinson
+- Luke Williamson
+- Rachael Landin
+- Sean Morris
+organisations:
+- Bar Paradise
+- Google Street View
+- Recorder of York
+- York Crown Court
 ---
 
 *(Image: Google Street View)*

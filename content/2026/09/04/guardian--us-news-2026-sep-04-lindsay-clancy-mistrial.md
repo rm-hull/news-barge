@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - True Crime
 - Law & Justice
+locations:
+- Duxbury
+- Massachusetts
+- Plymouth
+- US
+people:
+- Callan
+- Cora
+- Dalila Argaez Wendlandt
+- Dana Goldblatt
+- Dawson
+- Jennifer Sprague
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+- Phillip Resnick
+- William Sullivan
+organisations: []
 ---
 
 The judge in the trial of Lindsay Clancy, the Massachusetts mother accused of killing her three young children, has declared a mistrial after the jury could not reach a unanimous verdict and remained deadlocked after a week of deliberations.

@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Damascus
+- Dubai
+- Gulf
+- Iran
+- Strait of Hormuz
+- Syria
+- UAE
+- West
+people:
+- Ahmed al-Sharaa
+- Al-Sharaa
+- Euronews'
+- Trump
+organisations:
+- Arab Media Summit
+- Euronews’ Forum
 ---
 
 ## Answering Euronews' question at the Arab Media Summit in Dubai, Syria's president said he hoped the situation "remains stable" but admitted "nobody can predict" what happens next, while urging Arab countries to work together.

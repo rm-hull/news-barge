@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Hennepin
+- McAllen
+- Mexico
+- Minneapolis
+- Minnesota
+- St Paul
+- Texas
+- US
+people:
+- Christian Castro
+- Daniel Gerdts
+- Donald Trump
+- Greg Abbott
+- Julio Cesar Sosa-Celis
+- Mary Moriarty
+- Rolando Cantu
+- Tim Walz
+organisations:
+- DHS
+- Department of Homeland Security
+- District Court
+- ICE
+- Immigrations and Customs Enforcement
+- Minnesota Bureau of Criminal Apprehension
+- Reuters
+- Texas Rangers
 ---
 
 A federal immigration officer wanted on assault charges for shooting and wounding a Venezuelan man in Minneapolis was arrested there on Wednesday, eight months after a confrontation that became a flashpoint over Donald Trump’s deportation sweeps.

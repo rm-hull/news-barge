@@ -11,6 +11,36 @@ image: https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Beijing
+- China
+- U.S.
+- US
+- Washington
+people:
+- Claude
+- Dario Amodei
+- Elon Musk
+- Kimi K3
+- Sam Altman
+- Tom
+organisations:
+- American AI
+- Amodei
+- Anthropic
+- China Daily
+- Chinese AI
+- Communist Party of China
+- Cyberspace Administration of China
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- Kimi K3
+- Nvidia
+- OpenAI
+- SpaceXAI
+- Standardization Administration of China
+- US AI
 ---
 
 ![the Chinese flag on a chip](https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6.png) 

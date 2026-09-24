@@ -14,6 +14,20 @@ categories:
 - York
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bingley Pool
+- Girlington
+- Squire Lane
+people:
+- Geoff Winnard
+- Jeremy Thackray
+organisations:
+- '![Bingley Pool'
+- Bingley Pool
+- Bingley West
+- Bradford Council
+- Friends of Bingley Pool
+- Reform
 ---
 
 # Bingley Pool: Campaign to reopen swimming pool continues with plea

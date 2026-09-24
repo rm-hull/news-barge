@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Brian Moynihan
+organisations:
+- Bank of America
+- Business Group
+- CNBC
+- Cigna
+- Marsh
+- PepsiCo Plans
+- Reuters
+- Starbucks
+- The Independent
 ---
 
 Some 30 million Americans take GLP-1 medications like Ozempic and Mounjaro, shelling out hundreds of dollars in monthly fees even with health insurance.

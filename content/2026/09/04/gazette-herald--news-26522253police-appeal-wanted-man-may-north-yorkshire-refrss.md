@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Easingwold
+- Hambleton
+- Husthwaite
+- Malton
+- North Yorkshire
+- North Yorkshire Police
+- Thirsk
+people:
+- Thomas Carter
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

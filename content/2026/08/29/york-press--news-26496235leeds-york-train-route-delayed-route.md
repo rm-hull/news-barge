@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Huddersfield
+- Leeds
+- London Kings Cross
+- Manchester Piccadilly
+- Network Rail
+- North
+- Pennines
+- Transpennine
+- West Yorkshire
+- York
+- York-Leeds
+people:
+- Dylan Connell
+- James Richardson
+organisations:
+- Freedom of Information Act
+- London Kings Cross
+- Manchester Piccadilly
+- Network Rail
+- Newsquest
+- TRU
+- Transpennine Route Upgrade
+- York-London Kings Cross
 ---
 
 ## New data shows the most delayed route for York train passengers

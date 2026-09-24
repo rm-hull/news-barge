@@ -14,6 +14,48 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Cannes
+- Oxfordshire
+- Tokyo
+- Toronto
+- UK
+people:
+- Alexander Trocchi
+- Bad Timing
+- Ben Wheatley
+- Bernardo Bertolucci
+- Christian Bale
+- David Cronenberg
+- David Mackenzie
+- Dennis Hopper
+- Dirk Bogarde
+- Gerald Thomas
+- Jeremy Thomas
+- Jerzy Skolimowski
+- Jim Jarmusch
+- Jimmy Cliff
+- Jonathan Glazer
+- Lawrence
+- Mad Dog Morgan
+- Mark Cousins
+- Matteo Garrone
+- Merry Christmas
+- Nagisa Oshima
+- Naked Lunch
+- Nicolas Roeg
+- Ralph
+- Takashi Miike
+- Terry Gilliam
+- Young Adam
+organisations:
+- Ballard
+- Bertolucci
+- British Film Institute
+- JG Ballard’s Crash
+- Little Buddha
+- The Sheltering Sky
+- The Shout
 ---
 
 Jeremy Thomas, the distinguished British producer of films including Sexy Beast, High-Rise and the multi-Oscar-winning The Last Emperor, has died aged 77.

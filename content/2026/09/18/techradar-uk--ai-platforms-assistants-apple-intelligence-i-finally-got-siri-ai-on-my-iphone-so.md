@@ -11,6 +11,32 @@ description: I’ve waited years for Apple to fix Siri, and now I’ve started u
 image: https://cdn.mos.cms.futurecdn.net/o2L6HLk4Fqnq6wehjXWJY6-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Gemini
+people:
+- Graham Barlow
+- Hey Siri
+- Siri AI
+organisations:
+- Amazon
+- Apple Mail
+- Apple’s Mail
+- BBC One Breakfast
+- BBC TV
+- ChatGPT Voice
+- Computeractive
+- Gmail
+- Google News
+- Hubris
+- Mac
+- MacFormat
+- PC Pro
+- Radio 4
+- Siri AI
+- TechRadar
+- The HU
+- iMore
+- iOS
 ---
 
 ![Split screen image of Siri AI and ChatGPT Voice Mode.](https://cdn.mos.cms.futurecdn.net/o2L6HLk4Fqnq6wehjXWJY6.jpg) 

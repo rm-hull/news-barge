@@ -13,6 +13,11 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/23/09/Skid_Row_Talent_Show_37_33.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Skid Row
+people: []
+organisations:
+- AP
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

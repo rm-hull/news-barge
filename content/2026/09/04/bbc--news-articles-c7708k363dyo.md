@@ -13,6 +13,57 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Croydon
+- England
+- Essex
+- London
+- North Lincolnshire
+- Somerset
+- The Fold
+- UK
+people:
+- Angela Rayner
+- Clarion
+- Dandara
+- Darryl
+- Elissa
+- Jess
+- John Cooper
+- Johnnie
+- Kris Bramwell
+- Luke Weaver
+- Mphango Simwaka
+- Nigel Cates
+- Sellah
+organisations:
+- BBC Your Voice
+- BSR
+- Building Safety Regulator
+- Clarion
+- Conservative
+- Darryl's
+- Elissa
+- End of Defects
+- Grenfell Tower
+- Home Builders Federation
+- Housing Ombudsman
+- Housing Ombudsman The Housing Ombudsman
+- Housing, Communities and Local Government Committee
+- Jess
+- Johnnie's
+- L&G
+- Legal & General (L&G
+- London Fire Brigade
+- Mould
+- NHOS
+- New Home Quality Control
+- New Homes Ombudsman Service
+- Sage Homes
+- Stamp Duty
+- Stonebridge Homes
+- The Fold
+- Tilia Homes
 ---
 
 ![Elissa and Johnnie stand in front of a modern brick house with red‑tiled roofing and solar panels. Elissa wears a light blue shirt, the Johnnie a black shirt with safety glasses tucked into the pocket. The house has white‑framed windows, a light‑coloured door, and a clear blue sky overhead.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4de9/live/0a604730-a7bf-11f1-b109-879e35c24276.png)

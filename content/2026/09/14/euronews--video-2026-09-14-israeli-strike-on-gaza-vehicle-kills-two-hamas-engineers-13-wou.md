@@ -13,6 +13,15 @@ image: https://images.euronews.com/articles/stories/09/91/26/59/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Al-Shifa Hospital
+- Gaza Strip
+people:
+- Abd al-Rahim Ahmad Khalil Khawa
+- Hassan Ali Abu Nada
+organisations:
+- Hamas
+- Israel Defense Forces
 ---
 
 Images from the scene showed the vehicle engulfed in flames as people nearby tried to put out the fire. Civil defence teams later inspected the burned-out wreckage, while ambulances took the casualties to Al-Shifa Hospital. Medical staff received the dead and wounded at the hospital.

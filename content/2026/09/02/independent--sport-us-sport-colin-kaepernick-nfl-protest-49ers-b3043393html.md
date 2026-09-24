@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- San Francisco
+people:
+- Colin Kaepernick
+- Eric Reid
+organisations:
+- Black and Brown
+- NBC News
+- NFL Network
+- San Francisco 49ers
+- then-49ers
 ---
 
 Ten years after his protest against racial injustice made headlines across the sports world and beyond, former San Francisco 49ers quarterback Colin Kaepernick says his personal mission continues, but his affection for the NFL is long gone.

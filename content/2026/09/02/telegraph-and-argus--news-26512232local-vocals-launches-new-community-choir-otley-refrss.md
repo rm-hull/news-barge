@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Clifton Village Hall
+- North of England
+- Otley
+people:
+- Laura Bennett-Gornall
+organisations:
+- LIPA
+- Local Vocals
 ---
 
 *(Image: Supplied)*

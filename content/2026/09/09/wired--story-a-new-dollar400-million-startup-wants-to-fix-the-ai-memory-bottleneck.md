@@ -12,6 +12,41 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Burlington
+- California
+- GlobalFoundries’
+- San Jose
+- Singapore
+- US
+- Vermont
+people:
+- Austin Lyons
+- Bill Gates
+- Debo Olaosebikan
+- Ed Kaste
+- Kepler
+- Sasi Manipatruni
+- Srini Ananth
+organisations:
+- AMD Ventures
+- Baillie Gifford
+- Bloomberg
+- Creative Strategies
+- DRAM
+- EUV
+- Gates Frontier
+- GlobalFoundries
+- GlobalFoundries’ CMOS
+- HBM
+- Intel Capital
+- Kepler Computing
+- Micron
+- Olaosebikan
+- SK Hynix
+- Scale Kepler Computing
+- Substrate
+- US Department of Commerce
 ---
 
 An ambitious chip startup that has spent more than seven years quietly trying to redesign the architecture for computer memory has just come out of stealth mode and believes its new approach can help ease the global memory-chip shortage—provided it can produce its technology at scale.

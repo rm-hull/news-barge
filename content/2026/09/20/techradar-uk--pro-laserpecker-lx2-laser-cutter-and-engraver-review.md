@@ -11,6 +11,24 @@ description: With my 40W diode and 2W IR heads, I tested the LaserPecker LX2 ful
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/tJMxCmWFGXZBnHaGtxRz-1200-80.jpg
+locations:
+- Beta
+- UK
+- US
+people:
+- Alastair
+organisations:
+- 2W IR
+- Air Assist
+- Beta
+- Future
+- LX2
+- LaserPecker Design Space
+- LightBurn
+- Mac
+- TechRadar LaserPecker
+- TechRadar Pro
+- USB-C
 ---
 
 ### TechRadar Verdict

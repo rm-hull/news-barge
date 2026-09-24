@@ -12,6 +12,27 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/19/11/2295389467..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dundee
+- Edinburgh
+- Holyrood
+- Manchester
+- North East
+- Scotland
+people:
+- Anas Sarwar
+- Andy Burnham
+- Jenny Marra
+- Joe Fagan
+- Keir Starmer
+- Michael Marra
+organisations:
+- Dundee University
+- House of Lords
+- North East Scotland
+- Scottish Labour
+- Scottish Labour Party
+- Scottish Parliament
 ---
 
 Labour MSP Michael Marra has been elected as his party’s new Scottish leader, succeeding Anas Sarwar who quit Holyrood to join Andy Burnham’s government.

@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Farsley
+- Leeds
+- YOUR
+people: []
+organisations:
+- Farsley Cricket Club
+- Public Notice Portal
+- Sport England
 ---
 
 *(Image: Google)*

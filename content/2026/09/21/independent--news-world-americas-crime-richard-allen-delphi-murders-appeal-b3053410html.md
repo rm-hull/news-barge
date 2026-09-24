@@ -13,6 +13,22 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2024/10/14/20/Richard-Allen-2024-mug.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Delphi
+- Indiana
+people:
+- Abby Williams
+- Abigail “Abby” Williams
+- Libby German
+- Liberty “Libby
+- Liberty “Libby” German
+- Mark Leeman
+- Odin
+- Richard Allen
+- Stacy Uliana
+- Todd Rokita
+organisations:
+- Indiana Court of Appeals
 ---
 
 Richard Allen, the man serving 130 years in prison for killing two teenage girls in Delphi, Indiana, is seeking to have his convictions overturned, arguing that he confessed while suffering a psychological crisis and was wrongly prevented from presenting an alternative theory about the killings.

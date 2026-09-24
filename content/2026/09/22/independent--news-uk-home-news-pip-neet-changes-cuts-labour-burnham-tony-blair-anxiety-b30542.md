@@ -14,6 +14,30 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/11/00/8da74636134f740e5bd5e7289a981fedY29udGVudHNlYXJjaGFwaSwxNzg5MTQ4NzMw-2.71618799.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Europe
+- Netherlands
+- UK
+people:
+- Abdi Mohamed
+- Alan Milburn
+- Andy Burnham
+- Covid
+- Ryan Wain
+- Stephen Timms
+- Tony Blair
+organisations:
+- Action for Children and Trussell
+- Labour
+- Milburn Reviews
+- Personal Independence Payment
+- Pip
+- Scope
+- TBI
+- Timms
+- Tony Blair Institute for Global Change
+- Universal Credit
 ---
 
 Young people with “non-work-limiting” health conditions like anxiety and depression should stop receiving cash benefits, Sir Tony Blair’s research unit has suggested.

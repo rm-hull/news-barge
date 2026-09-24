@@ -13,6 +13,30 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/21493841.jpg?type=og-image
+locations:
+- Britain
+- Esplanade Gardens
+- Scarborough
+- South Bay
+people:
+- Anttoni James Numminen
+- Carl Les
+- Claire Wynne-Riley
+- Ms Wynne-Riley
+- Nic Harne
+- Rich Maw
+- Thomas Murray
+organisations:
+- LDRS
+- Local Democracy Reporting Service
+- NYC
+- North Yorkshire Council
+- Scarborough Spa
+- Scarborough Spa Cliff Lift
+- Scarborough Town Council
+- Scarborough'S Spa Cliff Lift
+- Spa Cliff Lift
+- Victorian Spa Cliff Lift
 ---
 
 ## ‘We’ve been forgotten about,’ say staff at Britain's oldest cliff lift after closure

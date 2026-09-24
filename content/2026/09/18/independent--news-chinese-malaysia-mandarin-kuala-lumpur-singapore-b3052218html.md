@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Beijing
+- Greater China
+- Kuala Lumpur
+- Malaysia
+- Muar
+- Naihe Bridge
+- Singapore
+people:
+- Goh Khuay Par
+- Ling Tek Soon
+- Mei Hua
+- Syawalludin Zain
+- ___ Hernández
+organisations:
+- AP
+- Associated Press
+- Bridge of Helplessness
+- Department of Statistics
+- Goh’s
+- Lilly Endowment Inc
+- The Conversation US
+- University of Malaya’s Institute of China Studies
 ---
 
 It’s been 52 years since Goh Khuay Par carved his first Mei Hua coffin.

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - History
 - True Crime
+locations:
+- Drenica
+- Kosovo
+- Pristina
+- Rambouillet
+- Serbia
+- Switzerland
+- The Hague
+- US
+people:
+- Charles Smith
+- Glauk Konjufca
+- Hashim Thaçi
+- Jakup Krasniqi
+- Kadri Veseli
+- Madeleine Albright
+- Rexhep Selimi
+- Snake
+- Thaci
+organisations:
+- KLA
+- KLA’
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
+- Nato
+- PDK
 ---
 
 Hashim Thaçi, the former president of Kosovo, has been sentenced to 25 years in prison by a tribunal in The Hague for war crimes, including dozens of murders, committed during his time as a senior commander of the Kosovo Liberation Army during the country’s war for independence from Serbia in the late 1990s.

@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Rust
+people:
+- Luke James
+- Rust
+- Sebastiaan Neuteboom
+- Tom
+organisations:
+- AMD
+- Cloudflare
+- FL2
+- Get Tom's Hardware
+- Google News
+- NAPTR
+- RAM
+- ReplyKaiserTom
 ---
 
 ![Cloudflare logo](https://cdn.mos.cms.futurecdn.net/QVUrvD86z3UYAMVohMuQcD.jpg) 

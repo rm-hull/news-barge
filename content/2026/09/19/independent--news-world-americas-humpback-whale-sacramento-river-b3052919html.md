@@ -12,6 +12,28 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/17/6/41/A-young-adult-Humpback-Whale-breaches-into-the-air-during-a-migratory-frolic.jpeg?trim=115,0,116,0&width=1200&height=800&crop=1200:800
+locations:
+- Baja California
+- California River
+- Earth
+- Pacific Ocean
+- Rio Vista
+- Sacramento River
+- Sacramento River Delta
+- Sacramento-San Joaquin Delta
+- San Francisco Bay
+- Sausalito
+people:
+- Dawn
+- Denny Glover
+- Humphrey
+- Kathi George
+organisations:
+- California Department of Fish and Wildlife
+- Delta
+- Marine Mammal Center
+- National Oceanic and Atmospheric Administration
+- The Marine Mammal Center
 ---
 
 When Denny Glover went fishing with buddies on the Sacramento River, he was hoping for a solid catch, but he certainly was not expecting to encounter a fully grown humpback whale.

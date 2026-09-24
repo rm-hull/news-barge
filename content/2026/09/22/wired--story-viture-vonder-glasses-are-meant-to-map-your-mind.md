@@ -11,6 +11,22 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/191:100/w_1280,c_limit/VONDER_Oslo+Smoke+Ruby.png
+locations:
+- Beijing
+- California
+people:
+- Claude
+- David Jiang
+- Viture
+- Vonder AI
+organisations:
+- AI
+- Even Realities
+- Google’s Gemini
+- Meta Connect
+- Ray-Ban Meta
+- Viture
+- Xreal
 ---
 
 David Jiang, cofounder and CEO of smart glasses company Viture, tells me about how he used to yell at his kid.

@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- York
+people: []
+organisations:
+- )* York Disability Week
+- York Disability Week
+- York Human Rights City
+- York Human Rights City Network
 ---
 
 *(Image: Supplied)*

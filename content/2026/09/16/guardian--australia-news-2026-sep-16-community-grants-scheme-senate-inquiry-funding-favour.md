@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Anthony Albanese
+- Bacchus Marsh
+- Bendigo West
+- Eureka
+- Hawke
+- Indi
+- Queensland
+- Tasmania
+- Victoria
+- Western Australia
+people:
+- Albanese
+- Ben Carroll
+- Catherine King
+- Helen Haines
+- James Paterson
+- Steph Hodgins-May
+organisations:
+- Albanese
+- Australian Labor Party
+- Centre for Public Integrity
+- Coalition
+- Federal Labor
+- Fix Victoria
+- Greens
+- Guardian Australia
+- MLCIP
+- Major and Local Community Infrastructure
+- Major and Local Community Infrastructure program
+- NSW Labor
+- NSW’s Lake Macquarie
+- New South Wales
+- Senate
 ---
 
 Federal Labor seats have received over 90% of funds already awarded in the first five months of a controversial multi-million dollar grants program, adding to concerns over the scheme’s selection process.

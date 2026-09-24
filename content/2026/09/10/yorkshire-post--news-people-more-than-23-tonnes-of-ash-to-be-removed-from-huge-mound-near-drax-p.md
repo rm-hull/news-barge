@@ -14,6 +14,22 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Barlow Ash Mound
+- Drax Power Station
+- North Yorkshire
+- Selby
+people:
+- Barlow
+- Coun Crane
+- Coun Thall
+- Mark Crane
+- Tim Thrall
+organisations:
+- Bank Holidays
+- Barlow Parish Council
+- Drax Power Ltd
+- North Yorkshire Council
 ---
 
 # More than 23 tonnes of ash to be removed from huge mound near Drax Power Station

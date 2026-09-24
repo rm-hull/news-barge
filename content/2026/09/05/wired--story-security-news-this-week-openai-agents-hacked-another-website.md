@@ -13,6 +13,53 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Canada
+- ChatGPT
+- Europe
+- Germany
+- Memphis
+- Mexico
+- Minnesota
+- Serbia
+- Syria
+- US
+people:
+- Brian Krebs
+- Claude
+- Javan Rasnake
+- Mike Yeagley
+- Pat Harrigan
+- Ron Wyden
+organisations:
+- AI
+- Air Force
+- App Store
+- Apple
+- Army, Navy
+- Astra
+- Bayerischer Rundfunk
+- Citizen Lab
+- Defense Department
+- FBI
+- Flock Safety
+- Grok
+- Homeland Security Investigations
+- Immigration and Customs Enforcement
+- Kreb
+- NSO Group
+- Netzpolitik.org
+- Nexus
+- OpenAI
+- Pegasus
+- Pentagon
+- REI
+- Reuters
+- Share Foundation
+- US Special Operations Command
+- University of Toronto
+- WIRED
+- xAI
 ---
 
 After reporting last week that the surveillance company Flock Safety is building an AI search tool for law enforcement, WIRED reconstructed Flock’s latest search tool from code that the company sends to a police officer’s browser and uncovered key details about how the tool works.

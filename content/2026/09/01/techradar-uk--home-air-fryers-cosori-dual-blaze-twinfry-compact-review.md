@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- Australia
+- Dry
+- Reheat
+- UK
+- US
+people:
+- Cosori
+- John McCann
+organisations:
+- Air Fry
+- Al Jazeera
+- BBC News
+- BBC Radio 4
+- BBC World News
+- Bake
+- Cosori Dual Blaze Twinfry Compact
+- Grill
+- HQs
+- LBC
+- Litre Flexi Drawer
+- Marks & Spencer
+- Ninja Double Stack XL
+- RRP
+- Roast
+- Sky News
+- Steam Air Fryer
+- Steam Air Fryer Philips
+- Twinfry Compact
 ---
 
 ### TechRadar Verdict

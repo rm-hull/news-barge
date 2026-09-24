@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Haiti
+- Kenscoff
+- Port-au-Prince
+people:
+- Evens Sanon
+- Kenscoff
+organisations:
+- Armed Conflict Location
+- Associated Press
+- National Human Rights Defense Network
+- National Police
+- U.N.
 ---
 
 A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs.

@@ -12,6 +12,52 @@ image: https://cdn.mos.cms.futurecdn.net/Xk8qKKqUdW4UVRLZSVJKrT-1600-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Silicon Valley
+- UK
+- US
+people:
+- Andrew Garfield
+- Chris O'Dowd
+- Cooper Hoffman
+- Damon Albarn
+- Eduardo Savarin
+- Geoffrey Hinton
+- Greg Brockman
+- Ike Barinholtz
+- Ilya Sutskever
+- Jason Schwartzman
+- Luca Guadagnino
+- Mark Rylance
+- Mira Murati
+- Monica Barbaro
+- Sam Altman
+- Simon Rich
+- Tom
+- Yura Borisov
+organisations:
+- AI
+- Anora
+- Blur
+- Bridge of Spies
+- ChatGPT
+- Disney Plus
+- Elon Musk
+- Facebook
+- Google News
+- Gorillaz
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Neon
+- Netflix
+- OpenAI
+- Star Wars
+- TBC
+- TechRadar
+- The Grand Budapest Hotel
+- The Long Walk
+- The Studio
 ---
 
 ![Andrew Garfield's Sam Altman with a sinister smile in Neon's OpenAI movie Artificial](https://cdn.mos.cms.futurecdn.net/Xk8qKKqUdW4UVRLZSVJKrT.jpg) 

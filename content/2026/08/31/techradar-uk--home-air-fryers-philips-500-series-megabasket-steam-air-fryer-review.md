@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/wM8kQn8zDBqREGWSDkWgQX-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations:
+- Australia
+- Steam
+- Streamfry
+- UK
+- US
+people:
+- John McCann
+organisations:
+- '### Philips'
+- Al Jazeera
+- BBC News
+- BBC Radio 4
+- BBC World News
+- HQs
+- LBC
+- Litre Flexi Drawer
+- Sky News
+- Steam Air Fryer
 ---
 
 ### TechRadar Verdict

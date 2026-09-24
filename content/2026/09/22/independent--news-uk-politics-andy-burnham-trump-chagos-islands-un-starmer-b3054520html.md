@@ -12,6 +12,37 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/19/2296058021..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Argentina
+- Britain
+- Chagos Islands
+- Diego Garcia
+- England
+- Falkland Islands
+- Falklands
+- Greater Manchester
+- Indian Ocean
+- Kremlin
+- Makerfield
+- Mauritius
+- New York
+- North Sea
+- UK
+- US
+- United States
+people:
+- Andy Burnham
+- Donald Trump
+organisations:
+- AI
+- BBC
+- Makerfield
+- Nato
+- Rolls-Royce
+- Trump
+- United Nations
+- United Nations General Assembly
 ---
 
 Andy Burnham is set to review the Chagos Islands deal after it was branded “terrible” and “ridiculous” by Donald Trump.

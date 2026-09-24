@@ -13,6 +13,25 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- Edinburgh
+- England
+- Europe
+- Iran
+- London
+people:
+- Alistair Handyside
+- Andy Burnham
+- James Murray
+- John Healey
+- Richard Fuller
+organisations:
+- Labour
+- Professional Association of Self-Caterers
+- The Telegraph
+- Treasury
 ---
 
 The government has reportedly drawn up plans for a tax raid on holiday cottages ahead of Andy Burnham’s first Budget.

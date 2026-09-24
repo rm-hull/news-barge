@@ -11,6 +11,9 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab330547e5544c7a3b97e1f/191:100/w_1280,c_limit/Review--SmartLabels-QR-Code-Organizing-System.jpg
+locations: []
+people: []
+organisations: []
 ---
 
 A key ingredient to feeling organized is having a space that’s organized. That logic also helps explain the ubiquity of the junk drawer. It’s simply not realistic to have a dedicated spot for every item you own, so assigning a single destination where you can house all the leftover stuff makes sense. That is, until you can’t find your utility scissors or flashlight or stamps or favorite highlighter or double-sided tape when you need any of those things.

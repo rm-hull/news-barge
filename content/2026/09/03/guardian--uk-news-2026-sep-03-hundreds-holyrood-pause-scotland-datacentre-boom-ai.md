@@ -11,6 +11,40 @@ image: https://i.guim.co.uk/img/media/e2a0d1349bc80c7d01a895dc55a30dfa0af25360/8
 categories:
 - UK
 - News & Politics
+locations:
+- Arthur’s Seat
+- Auchtertool
+- Britain
+- Dubar
+- Edinburgh
+- Edinburgh.
+- England
+- Fife
+- Glasgow
+- Greenock
+- Holyrood
+- Lammermuir
+- Lanarkshire
+- London
+- Scotland
+- UK
+- US
+people:
+- Erin Brockovich
+- Hannah Mary Goodlad
+- John Swinney
+- Kat Jones
+- Kathleen White
+- Keir Starmer
+- Ross Greer
+organisations:
+- AI
+- Aberdeen
+- Ayrshire
+- Guardian
+- NGO Action to Protect Rural Scotland
+- Reform UK
+- Scottish Greens
 ---
 
 Kat Jones may be the closest thing Scotland has to Erin Brockovich in 2026. Standing in the shadow of Arthur’s Seat outside Holyrood, the 52-year-old is revving up the crowd of protesters around her. “Who is here from Lammermuir? Ayrshire? What about Aberdeen?” she calls to the crowd.

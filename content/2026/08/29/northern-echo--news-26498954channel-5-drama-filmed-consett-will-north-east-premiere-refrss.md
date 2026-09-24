@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- BBC
+- Consett
+- County Durham
+- Hexham
+- Newcastle
+- North East
+- Northumberland
+- Shetland
+- Stocksfield
+people:
+- Amy Nuttall
+- Auf Wiedersehen
+- Carol Crottie
+- Denise Welch
+- Douglas Henshall
+- Graham Norton
+- JOHN BAGNALL
+- Jenny Walser
+- Kaden
+- Kevin Whately
+- Lewis Cope
+- Moira Crottie
+- Robert Barrie
+- Sally
+- Silent Dave
+organisations:
+- '## Consett'
+- BBC Studios
+- Channel 5
+- Darlington
+- Forever Home
+- McDonald's
+- New County Durham Farmfoods
+- North East Production Fund
+- North East Screen
+- Pet
+- Tyneside Cinema
 ---
 
 *(Image: JOHN BAGNALL)*

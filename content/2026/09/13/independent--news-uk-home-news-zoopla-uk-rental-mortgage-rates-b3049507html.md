@@ -14,6 +14,13 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Real Estate
+locations:
+- London
+- UK
+people:
+- Richard Donnell
+organisations:
+- Zoopla
 ---
 
 Elevated mortgage rates are placing renewed strain on the UK rental sector, with annual price growth expected to reach 4 per cent to 5 per cent by the end of the year, according to Zoopla.

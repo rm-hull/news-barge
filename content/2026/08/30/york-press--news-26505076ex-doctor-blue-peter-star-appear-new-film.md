@@ -13,6 +13,27 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- North Yorkshire
+- North Yorkshire Moors Railway
+- Pickering
+- York
+people:
+- Bob Browning
+- Dan Coll
+- Daniel Coll
+- Dave Thorp
+- Dylan Connell
+- Father Christmas
+- Peter Purves
+organisations:
+- Blue Peter
+- North Yorkshire Moors Railway
+- Picture Point Films
+- Repton
+- Santa Express
+- Southern Railway Schools Class
+- York Theatre Royal
 ---
 
 *(Image: Supplied)*

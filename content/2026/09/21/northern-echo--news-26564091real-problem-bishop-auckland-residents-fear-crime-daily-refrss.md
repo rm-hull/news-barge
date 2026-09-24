@@ -15,6 +15,45 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21473242.jpg?type=og-image
+locations:
+- Bishop Auckland
+- County Durham
+- Haswell
+- Newgate Street
+- SARAH CALDECOTT
+- THE NORTHERN ECHO
+- Teesside
+- UK
+people:
+- Claire Stokeld
+- Emily Blackmore
+- Graham Wood
+- Joy Allen
+- Lynn Morgan
+- Mark Edwards
+- Matthew Blades
+- Sam Rushworth
+- Sarah Caldecott
+- Stuart Boulton
+- Tom Clough
+organisations:
+- Auckland Community Action Group
+- BACAG
+- Bishop Auckland
+- Bishop Auckland Community Action Group
+- CCTV
+- Clean and Green Team
+- Cleveland Police
+- Community Action
+- Durham County Council
+- Durham Police
+- Future High Streets Fund
+- Ms Blackmore
+- Our Neighbourhood Wardens
+- PACT
+- Police and Communities Together
+- Property Reuse Fund
+- Town of Culture
 ---
 
 Newgate Street is supposed to be the heart of Bishop Auckland’s future.

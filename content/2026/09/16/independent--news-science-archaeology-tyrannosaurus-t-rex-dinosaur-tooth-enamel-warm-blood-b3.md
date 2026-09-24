@@ -13,6 +13,26 @@ categories:
 - UK
 - Science
 - History
+locations:
+- Alberta
+- Carter County
+- Dakotas
+- Los Angeles County
+- Montana
+- New Mexico
+- North America
+- Saskatchewan
+- T. rex
+- Texas
+- Wyoming
+people:
+- Aradhna Tripati
+- Robert Eagle
+- Thomas
+organisations:
+- Eagle
+- Natural History Museum
+- UCLA
 ---
 
 Chemical evidence embedded within Tyrannosaurus rex teeth indicates that the formidable predator was warm-blooded, maintaining an internal body temperature comparable to that of a human. Researchers noted that the discovery should fundamentally reshape public understanding of the famous dinosaur.

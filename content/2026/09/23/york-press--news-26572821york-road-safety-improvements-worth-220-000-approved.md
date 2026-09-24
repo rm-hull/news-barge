@@ -12,6 +12,23 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/16611573.jpg?type=og-image
+locations:
+- Derwenthorpe
+- Osbaldwick
+- Outgang Lane
+- Restore Britain
+- York
+people:
+- Betty Elizabeth Smith
+- Cllr Ravilious
+- Kate Ravilious
+- Keyline
+- Mark Warters
+organisations:
+- City of York Council
+- Google Street View
+- Labour Transport Executive
+- Osbaldwick
 ---
 
 ## Efforts to avoid 'tragedies' after elderly woman killed on York road backed

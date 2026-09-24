@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Skip Smarty
+- Wayne Williams
+organisations:
+- EU
+- PC
+- SIM
+- Smarty
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Smarty SIM deal](https://cdn.mos.cms.futurecdn.net/U8HQeyRKHrTftk9KNKAtpE.jpg) 

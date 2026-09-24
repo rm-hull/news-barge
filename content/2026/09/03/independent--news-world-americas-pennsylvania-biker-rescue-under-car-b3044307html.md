@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- 11th Street
+- Lincoln Avenue
+- Pennsylvania
+- Prospect Park
+people:
+- Amelia Cannon
+- Beetle
+- Christine Vollmer
+- Dave Madonna
+- Karl Wise
+organisations:
+- ABC 6
+- Chicago
+- FedEx
+- Madonna
+- Nolet Home Care Agency
+- OK
+- Prospect Park Police Department
+- The Independent
 ---
 
 A group of Good Samaritans in Pennsylvania rushed to free a woman trapped beneath a classic Volkswagen Beetle after her e-bike collided with the car, with the dramatic rescue captured on video.

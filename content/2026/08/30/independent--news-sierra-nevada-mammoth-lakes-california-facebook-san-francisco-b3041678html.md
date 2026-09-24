@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- California
+- Mammoth Lakes
+- San Francisco
+- Sierra Nevada
+people:
+- Mitchell Quiring
+- Rob Martin
+organisations:
+- Facebook
+- Mono County Sheriff Search and Rescue Team
+- Mono County Sheriff's Office
 ---
 
 Volunteers carried out a more than 15-hour operation to rescue a man who got off route in the Sierra Nevada and was stranded on a small ledge, the Mono County Sheriff Search and Rescue Team said.

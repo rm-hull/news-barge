@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Rastrick
+- Thornton Road Recreation Ground
+- YOUR
+people: []
+organisations:
+- Calderdale Council
+- Public Notice Portal
+- Thornton Recreation Ground
+- Together Housing
 ---
 
 ### What is the Public Notice Portal?

@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Castle Walk
+- England
+- Norman Conquest
+- North Yorkshire
+- Richmond Castle
+- River Swale
+people: []
+organisations:
+- Northern Echo
 ---
 
 *(Image: Solstice Heritage)*

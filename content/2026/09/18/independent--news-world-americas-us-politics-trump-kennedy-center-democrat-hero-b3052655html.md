@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- D.C.
+- Kennedy Center
+- Ohio
+- Potomac River
+- U.S.
+- Washington
+people:
+- Christopher Cooper
+- Donald Trump
+- John F. Kennedy
+- Joyce Beatty
+- Kerry Kennedy
+- Robert F. Kennedy
+- Uncle Jack
+- “@RepBeatty
+organisations:
+- Congress
+- Kennedy Center
+- Pew Research Center
+- Trump
+- Truth Social
+- U.S. Supreme Court
 ---
 
 John F. Kennedy’s niece praised a Democratic lawmaker as a “national hero” for challenging President Donald Trump’s proposed changes to the Kennedy Center in Washington, D.C.

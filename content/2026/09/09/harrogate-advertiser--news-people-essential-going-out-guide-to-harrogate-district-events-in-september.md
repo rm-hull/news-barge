@@ -14,6 +14,94 @@ categories:
 - Harrogate
 - Travel
 - News & Politics
+locations:
+- Bishop Monkton Village Hall
+- Brafferton
+- Brazil
+- Cheltenham Mount
+- Frazer Theatre
+- Harrogate
+- Kirkby Malzeard
+- Knaresborough
+- Markenfield Hall
+- RC Church Parish Hall
+- Ripon
+- Royal Hall
+- Sharow
+- Spain
+- St Andrew’s Church
+- St Johns Church
+- St John’s Church
+- St Nicholas Church
+- St Peter’s Church
+- St. Joseph
+- Wath
+- Wesley Centre
+- West Tanfield
+- Wetherby
+people:
+- Bob Dylan
+- David Almond
+- David Broad
+- David Coulthard
+- Frederick Knott
+- Frida
+- Harp
+- Johan Lofving
+- John Godber
+- Lee Mead
+- Lucinda Taylor
+- Lucine Musaelian
+- Michael Morpurgo
+- Mika Häkkinen
+- Missa Sancti Nicolai
+- Nathan Giorgetti
+- Neil Young
+- Phil Collins
+- Sorry
+- Thomas James Butler
+- Tina Turner
+- Yu-Wei Hu
+organisations:
+- Badapple Theatre
+- Blind Monkeys
+- Blues Bar
+- Carnival Band
+- Danny Bryant Band
+- Dirty Ruby
+- FRSA
+- Formula One
+- Frazer Theatre
+- Georgette & Iain
+- Grewelthorpe Village Hall
+- Harrogate Convention Centre
+- Harrogate Film Society
+- Harrogate Theatre
+- Haydn St. Nicholas Mass
+- Intesa
+- Kosmos Ensemble
+- Land Girls
+- Lempen Puppet Theatre
+- Mambo Jambo
+- Max & Veronica
+- North Stainley Village Hall
+- Odeon
+- Phantoms
+- RedHouse Gallery
+- Ripley Live
+- Ripley Town Hall
+- Ripon BID
+- Ripon Library
+- Royal Hall
+- Samwaies Hall
+- Spofforth Village Hall
+- The Band
+- The Bilton Club
+- The Golden Princess
+- The Less Than Average Height Band
+- The Secret Agent
+- Vocalis
+- West End
 ---
 
 # Essential going out guide to Harrogate district events in September and October 2026

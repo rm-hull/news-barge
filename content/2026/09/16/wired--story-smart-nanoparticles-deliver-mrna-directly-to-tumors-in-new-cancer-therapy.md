@@ -12,6 +12,12 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations: []
+people:
+- Chunxia Zhao
+organisations:
+- University of Adelaide
+- mRNA
 ---
 
 Our immune systems don’t just fight bacteria and viruses invading the body. They are responsible for keeping our own tissues in check, taking out cancerous cells before they have a chance to grow. Once a tumor forms, however, it can create an environment that declaws cancer-fighting immune cells—in some cases even reprogramming them to suppress other parts of the immune system.

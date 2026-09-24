@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Centenary Crescent
+- Norton
+- Teesside Crown Court
+- Thornaby
+- Vale Drive
+people:
+- Aiden Matthews
+- Deb Fenny
+- Declan Moor
+- Lee Bradshaw
+- Max Cashman
+organisations:
+- Cleveland Police
+- Homicide and Major Enquiry Team
 ---
 
 # Man punched in alleyway died from brain injuries days after going home

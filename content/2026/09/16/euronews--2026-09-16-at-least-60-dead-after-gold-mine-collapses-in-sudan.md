@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Al-Zaraa
+- El-Nahud
+- Sudan
+- West Kordofan
+people:
+- Khair al-Sayyed Jabara
+organisations:
+- AFP
+- Rapid Support Forces
+- Sudanese Armed Forces
 ---
 
 ## The Al-Zaraa mine is near El-Nahud in Sudan’s West Kordofan region. The mine began to collapse on Tuesday after tunnels were dug very close together

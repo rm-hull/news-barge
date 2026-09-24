@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Acomb
+- North Yorkshire
+- Stillingfleet
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

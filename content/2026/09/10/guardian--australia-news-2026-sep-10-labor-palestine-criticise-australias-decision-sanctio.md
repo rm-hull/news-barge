@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Adelaide
+- Australia
+- Canada
+- France
+- Gaza
+- Israel
+- Norway
+- Palestine
+- Russia
+- Sydney
+- UK
+- United Kingdom
+- West Bank
+people:
+- Andy Burnham
+- Ed Husic
+- Ed Miliband
+- Emmanuel Macron
+- Mark Carney
+- Mehreen Faruqi
+- Netanyahu
+- Penny Wong
+- Zomi Frankcom
+organisations:
+- Albanese
+- Greens
+- Guardian Australia
+- Israel Defense Forces’
+- Labor Friends of Palestine
+- Senate
 ---
 
 Ed Husic has urged the Albanese government to take concrete action against illegal Israeli settlements in the West Bank, warning Palestine cannot be “sticky-taped” back together with “yet another statement”.

@@ -10,6 +10,16 @@ description: Looking for a smartwatch that does something different?
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/n3rnsukRuEbCzdWgofYxFV-2560-80.jpg
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- Casio F-B100W
+- Google News
+- Huawei Watch D3
+- Jaye band
+- Ruth
+- TechRadar
 ---
 
 ![The Huawei Watch D3, Casio F-B100W and Garmin Instinct Crossover](https://cdn.mos.cms.futurecdn.net/n3rnsukRuEbCzdWgofYxFV.jpg)

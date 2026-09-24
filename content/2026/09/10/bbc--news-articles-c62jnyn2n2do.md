@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations:
+- UK
+- US
+people:
+- Ama Johal
+- Anna-Louise Dearden
+- Clare Simon
+- Meg Warren
+organisations:
+- Aerox Health
+- Anna-Louise Dearden
+- BSSAA
+- British Snoring and Sleep Apnoea Association
+- REM
+- Sleep Foundation
 ---
 
 ![A woman with dark hair lies in bed with her head on a white pillow and a white duvet covering her body. Her eyes are closed and she is lying on her side while holding another white pillow over one side of her head as if to block out noise.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/37a4/live/1a65b1f0-a9f5-11f1-921b-6365210e1c9d.jpg)

@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- East Parade
+- Keighley
+people: []
+organisations:
+- Bradford Council
+- NANDO'S
+- Nandos
+- Newsquest
 ---
 
 *(Image: Newsquest)*

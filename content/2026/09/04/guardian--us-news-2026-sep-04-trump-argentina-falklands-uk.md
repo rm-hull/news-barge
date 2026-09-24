@@ -14,6 +14,51 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Africa
+- Argentina
+- Atlantic
+- Britain
+- Cape Town
+- China
+- Falkland Islands
+- Falklands
+- Germany
+- Gulf
+- Hormuz
+- Iran
+- Italy
+- Malvinas
+- Oman
+- Russia
+- Seoul
+- South Korea
+- Spain
+- UK
+- US
+- Washington
+- Westminster
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Friedrich Merz
+- Giorgia Meloni
+- Harold Macmillan
+- Javier Milei
+- John Healey
+- Keir Starmer
+- Margaret Thatcher
+- Ronald Reagan
+- Trump-style
+organisations:
+- CPAC
+- Conservative Political Action Conference
+- GB News
+- Labour
+- Nato
+- Trump
+- Vengeance
 ---
 
 Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.

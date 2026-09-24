@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/c6c1ad0d45c1dd7e0d6be690938bf7a113a5d4b2/595_0_4623_3701/master/4623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ed7243cf50d1fb21e6a47461937153a
+locations:
+- America
+- Colorado
+- Florida
+- Miami-area
+- Nevada
+- Texas
+- US House
+- White House
+people:
+- Donald Trump
+- Eliott Rodriguez
+- María Elvira Salazar
+- Stephen Miller
+- Steve Scalise
+- Tom Homan
+organisations:
+- ABC News
+- CBS News
+- Congress
+- Face the Nation
+- House
 ---
 
 María Elvira Salazar, the Republican congresswoman who has accused the president of going too far on immigration enforcement, doubled down on her criticism of the administration on Sunday, warning Donald Trump that some of his advisers were “compromising his legacy”.

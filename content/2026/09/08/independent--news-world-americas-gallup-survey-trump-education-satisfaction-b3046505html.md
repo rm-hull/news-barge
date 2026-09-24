@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- US
+- United States
+people:
+- Donald Trump
+- Jack Schneider
+- Sarah Reckhow
+- Walton
+- Zach Hrynowski
+organisations:
+- Center for Education Policy
+- Department of Education
+- Gallup
+- Michigan State University
+- The Associated Press.
+- Trump
+- University of Massachusetts Amherst
+- Walton Family Foundation
 ---
 
 Public approval of the quality of K-12 education in the United States has fallen to an unprecedented low, driven by a growing political divide and widespread concerns that schools are failing to prepare children for college and future careers.

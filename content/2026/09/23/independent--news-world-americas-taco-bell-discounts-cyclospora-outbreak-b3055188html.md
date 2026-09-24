@@ -13,6 +13,19 @@ categories:
 - UK
 - Food & Cooking
 image: https://static.independent.co.uk/2026/08/07/14/2286104065..?trim=0,125,0,125&width=1200&height=800&crop=1200:800
+locations:
+- Taylor Farms
+- U.S.
+people:
+- Ranjith Roy
+organisations:
+- Barclays'
+- Brands
+- Centers for Disease Control and Prevention
+- Enchirito
+- Placer.ai
+- Taco Bell
+- Yum!
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

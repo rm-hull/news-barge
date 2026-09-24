@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Bradford Magistrates
+- Bradford Magistrates' Court
+- Kirklees District
+people:
+- Kevin BRACEWELL
+- Kevin Bracewell
+organisations:
+- ASB
+- CBO
+- CPN
+- Community Protection Notice
+- Criminal Behaviour Order
+- Kirklees Anti-Social Behaviour Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

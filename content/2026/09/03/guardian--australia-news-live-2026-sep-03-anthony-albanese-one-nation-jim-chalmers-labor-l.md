@@ -13,6 +13,109 @@ categories:
 - News & Politics
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Adelaide
+- Arlington
+- Arno Bay
+- Balmain West
+- Bays West
+- Beachport
+- Eyre Peninsula
+- Fleurieu Peninsula
+- Greenwich
+- Hydro Tasmania
+- Indo-Pacific
+- Inner West
+- Iran
+- Israel
+- Leawood Gardens
+- Limestone
+- Manly
+- Minns
+- NSW
+- Nepal
+- Nepal-Tibet
+- New South Wales
+- Novar Gardens
+- Pacific
+- Palau
+- Parramatta River
+- Pirrama Park
+- Pyrmont
+- Rozelle Bay
+- South Australia
+- Sydney Fish Market
+- Taronga Zoo
+- Trishuli River
+- Tungatinah
+- US
+- US-Australia
+- United States
+- Vanuatu
+- Virginia
+- Wall Street
+- Walsh Bay
+- Washington Australia
+- Washington DC
+- Yorke Peninsula
+people:
+- Akash Venkatraman
+- Alex Greenwich
+- Angus Taylor
+- Charlotte Graham-McLay
+- Donald Trump
+- EPA Taylor
+- Eileen Hoggett
+- Gavin Friend
+- Jeremy Rockliff,said
+- Jessica Hromas
+- Jim Chalmers
+- John Graham,said
+- John Sams
+- Mal Lanyon
+- Mark Schiefelbein
+- Matt Canavan
+- Matt Lowe
+- Penny Wong
+- Pete Hegseth
+- Philippa Scott
+- Ralph Regenvanu
+- Richard Marles
+- Shawn Thew
+organisations:
+- AAP
+- ABC
+- Albanese
+- All Ordinaries
+- Australian Bureau of Statistics
+- Bangarra Dance Company
+- Children Australia
+- Climate Council
+- Department of Police, Fire and Emergency Management
+- Department of Police, Fire and Emergency Management Major Sydney
+- EAA
+- EVs
+- Emergency Action Alliance
+- Greenwich
+- KPMG
+- Lendlease
+- Lukas Coch/AAP
+- NAB
+- NSW Labor government
+- Nationals
+- Oxfam Australia
+- Pacific Islands Forum
+- Patrick Commins Financial
+- Patrick Commins Treasury
+- Pentagon
+- Plan International Australia
+- RBA
+- Sydney Dance Company
+- Sydney Fish Market
+- Sydney Theatre Company
+- The Guardian Markets
+- The NSW
+- Transport NSW
 ---
 
 Government releases draft law on 30% minimum tax on discretionary trusts

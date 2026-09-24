@@ -14,6 +14,32 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488413.jpg?type=og-image
+locations:
+- Afghanistan
+- Azad Kashmir
+- Bradford
+- Burundi
+- Egypt
+- Jordan
+- Lebanon
+- Leeds Road
+- Malawi
+- Pakistan
+- Sindh
+- The Willowfield
+- UK
+- Yemen
+people:
+- God
+- Hasaan Zeb
+- Hassan Zeb
+- Mohammed Azeem
+- Nazim Ali
+organisations:
+- 92 Legrams Lane
+- Arome Owner
+- Mother Hubbard's
+- Nazim Ali Foundation
 ---
 
 *(Image: Supplied)*

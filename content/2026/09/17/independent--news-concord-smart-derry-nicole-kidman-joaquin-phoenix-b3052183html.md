@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Derry
+- New Hampshire
+- U.S.
+people:
+- Gregory Smart
+- James Kennedy
+- Joaquin Phoenix
+- Joyce Maynard
+- Nicole Kidman
+- Pamela Smart
+- William Flynn
+organisations:
+- Merrimack County Superior Court
 ---
 
 A New Hampshire judge on Thursday dismissed the latest petition for a new trial from Pamela Smart, who is serving life in prison for orchestrating the murder of her husband by her teenage student more than three decades ago.

@@ -12,6 +12,29 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/08/42/1200x675_cmsv2_75bae0d2-d576-51d7-a7df-51bbd294d144-9920842.jpg
+locations:
+- Africa
+- Cameroon
+- Eswatini
+- Latin America
+- Mexico
+- Pacific
+- Palau
+- US
+- United States
+- Washington
+people:
+- Christian Jove Ehrhardt
+- Donald Trump
+organisations:
+- AFP
+- Forbidden Stories
+- IOM
+- International Organisation for Migration
+- Office of Remigration
+- State Department
+- UN Refugee Agency
+- UNHCR
 ---
 
 ## Since US President Donald Trump took office in January 2025, Washington has been signing deals with developing countries to take migrants who cannot legally be sent home.

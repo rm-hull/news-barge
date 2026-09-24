@@ -13,6 +13,39 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/02/01/04/Photo_Highlights_of_January_44765.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arctic Circle
+- Canada
+- China
+- Europe
+- Greenland
+- Iran
+- Israel
+- Nazi Germany
+- North America
+- North Atlantic
+- Pituffik Space Base
+- Russia
+- U.S. Denmark
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Imran Bayoumi
+- Jens-Frederik Nielsen
+- Marco Rubio
+- Mette Frederiksen
+- Nicolás Maduro
+organisations:
+- Atlantic Council
+- Defense of Greenland Treaty
+- NATO
+- Scowcroft Center for Strategy and Security
+- State Department
+- Trump
+- United Nations General Assembly
+- non-NATO
 ---
 
 U.S., Denmark and Greenland officials spent several months quietly negotiating an agreement to expand the U.S. military footprint in Greenland after President Donald Trump threatened to forcibly seize the island from the NATO ally.

@@ -13,6 +13,18 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/30/9/32/York-Mosque.png?trim=0,107,0,71&crop=&width=1200&auto=webp&quality=75
+locations:
+- Bellfarm Avenue
+- Bull Lane
+- Islamic Centre
+- York Mosque
+people:
+- Ian Peart
+- Sarah Tyrer
+organisations:
+- '![York Mosque'
+- North Yorkshire Police
+- York Magistrates’ Court
 ---
 
 # Man arrested after shots fired near mosque was shooting rabbits, court accepts

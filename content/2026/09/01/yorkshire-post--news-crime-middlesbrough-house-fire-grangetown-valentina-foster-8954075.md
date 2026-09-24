@@ -15,6 +15,23 @@ categories:
 - Arts & Culture
 - Society & Culture
 - Family & Parenting
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+people:
+- Jaden Wright
+- Katie Nicholson
+- Katie Smith
+- Natalie McDonald
+- Owen Humphreys
+- Valentina Foster
+organisations:
+- CPS North East
+- Cleveland Police
+- Northumbria Police
+- Teesside Crown Court
+- Teesside Magistrates’ Court
 ---
 
 # Tributes paid to 'beloved daughter', seven, who died in Middlesbrough house fire

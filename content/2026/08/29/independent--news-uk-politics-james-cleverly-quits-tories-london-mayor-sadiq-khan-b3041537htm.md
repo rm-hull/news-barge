@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Braintree
+- Britain
+- City Hall
+- London
+people:
+- Andy Burnham
+- James Cleverly
+- Keir Starmer
+- Kemi Badenoch
+- Ms Badenoch
+- Sadiq Khan
+- Sadiq “
+organisations:
+- Braintree MP
+- City Hall
+- Conservative Party
+- Kemi Badenoch
+- Labour
+- London Assembly
+- The Sunday Times
+- Tories
+- Tory
 ---
 
 Sir James Cleverly is quitting the shadow cabinet to run for London mayor.

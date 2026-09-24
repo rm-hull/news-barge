@@ -14,6 +14,26 @@ categories:
 - UK
 - Travel
 - Sports
+locations:
+- Anak Krakatau
+- Banjarmasin
+- Borneo
+- East Java
+- Indonesia
+- Jakarta
+- Japan
+- Java Sea
+- Masalembo
+- South Kalimantan
+- Surabaya
+people:
+- Galih Nurna Putra
+- Niniek Karmini
+- Yudhi Bramantyo
+organisations:
+- Banjarmasin Naval Base
+- National Search and Rescue Agency
+- Virgo Transport 8
 ---
 
 Rescue teams in Indonesia on Friday recovered three bodies from a capsized ferry while preparing to salvage the wreckage of the accident Sunday, bringing the confirmed death toll to nine with 126 people still missing, officials said.

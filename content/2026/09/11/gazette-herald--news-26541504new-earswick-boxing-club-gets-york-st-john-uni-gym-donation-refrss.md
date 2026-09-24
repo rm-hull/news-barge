@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- New Earswick Sports Ground
+- York
+people:
+- Adam Stead
+- Charlie Malarkey
+- Jamie Warters
+organisations:
+- ADS Scaffolding
+- New Ways Boxing Club
+- Salvation Army
+- York St John
+- York St John University
 ---
 
 *(Image: Supplied)*

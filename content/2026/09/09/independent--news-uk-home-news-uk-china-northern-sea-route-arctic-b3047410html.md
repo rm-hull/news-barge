@@ -13,6 +13,44 @@ categories:
 - UK
 - Travel
 - Business & Entrepreneurship
+locations:
+- Asia
+- Bering Sea
+- Britain
+- Busan
+- Cape of Good Hope
+- China
+- England
+- Europe
+- Felixstowe
+- Gdansk
+- Germany
+- Hamburg
+- Hungary
+- Iran
+- Kamchatka
+- Middle East
+- Netherlands
+- Ningbo Zhoushan Port
+- North Sea Route
+- Northern Sea Route
+- Norway
+- Poland
+- Rotterdam
+- Russia
+- South Korea
+- Suez Canal
+- Teesport
+- U.S.
+people:
+- Lee Jae Myung
+organisations:
+- Arctic Express
+- Centre for High North Logistics
+- Dubai Tower
+- EVE Energy
+- MV Dubai Tower
+- PanStar Acro
 ---
 
 A container ship has arrived in Britain following a landmark voyage from China via the Arctic, as part of plans for more vessels to use the route as a shorter and potentially safer alternative to the Suez Canal.

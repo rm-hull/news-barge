@@ -12,6 +12,70 @@ image: https://i.guim.co.uk/img/media/f6287da7fd9bd90a7b12e08e76992e99d8a890bc/0
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- China
+- Council Bluffs
+- Idaho
+- Iowa
+- Iran
+- Kennedy Center
+- Mexico
+- Middle East
+- Minnesota
+- North Carolina
+- Rio Grande River
+- Saudi Arabia
+- South Dakota
+- Texas
+- US
+- Virginia
+- Washington
+- Wisconsin
+people:
+- Aaron David Miller
+- Alexandra Villarreal
+- Ashley Hinson
+- Donald Trump
+- George Chidi
+- George Zornick
+- Go Nakamura
+- JD Vance
+- Jonathan Ernst
+- Richard Blumenthal
+- Sam Levine
+- Stephen Farnsworth
+- Zach Lahn
+organisations:
+- Congress
+- Defense Intelligence Agency
+- Department of Homeland Security
+- Department of State
+- Donald J. Trump United States Institute of Peace
+- EO
+- Guardian US
+- HHS
+- Health and Human Services
+- House
+- Kennedy Center
+- Nam Y Huh
+- New York Times
+- ORR
+- Pentagon
+- Postal Service
+- Reuters
+- Senate
+- Social Security Administration
+- Truth Social
+- UN
+- US Border Patrol
+- US Institute of Peace
+- US Postal Service
+- USIP
+- USPS
+- University of Mary Washington
+- Virginia Mercury
+- Wall Street Journal
 ---
 
 Early voting begins in midterms as cost of living and Iran war loom large

@@ -11,6 +11,14 @@ image: https://i.guim.co.uk/img/media/554d2a6beb218a5c025d3d1f3e9bcea631762520/2
 categories:
 - UK
 - News & Politics
+locations:
+- Morehead Road
+- NSW
+- New South Wales
+- Redfern Street
+- Sydney
+people: []
+organisations: []
 ---
 
 A teenage boy will face court today after a “near-complete amputation” of a boy’s hand during an alleged assault in Sydney on Wednesday night.

@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21474252.jpg?type=og-image
+locations:
+- Halifax
+people: []
+organisations:
+- Eureka!
+- National Children's Museum
+- Yorkshire
 ---
 
 *(Image: Supplied)*

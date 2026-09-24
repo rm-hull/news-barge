@@ -14,6 +14,35 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Barleyhill Road
+- Fink Hill
+- Garforth
+- Golden Acre
+- Golden Acre Park
+- Guiseley
+- Horsforth
+- Leeds Civic Hall
+- Marsh Street
+- Middleton
+- Netherfield Road
+- Otley Chevin
+- Otley chevin
+- Rothwell
+- Roundhay
+- Temple Newsam
+- West Yorkshire
+- Wetherby
+- Wilderness and Station Gardens
+people:
+- James Gibson
+- Otley
+- Sandy Lay
+organisations:
+- Google
+- Labour
+- Leeds City Council
+- Otley
 ---
 
 *(Image: Google)*

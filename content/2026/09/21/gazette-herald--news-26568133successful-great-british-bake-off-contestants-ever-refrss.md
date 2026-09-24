@@ -14,6 +14,41 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21480954.jpg?type=og-image
+locations:
+- Berkshire
+- Bishop’s Stortford
+- Grade I
+- Welford Park
+- Welford Park House
+people:
+- '### John Whaite John Whaite'
+- '### Kim-Joy Hewlett Kim-Joy Hewlett'
+- '### Liam Charles Liam Charles'
+- '### Nadiya Hussain Nadiya Hussain'
+- Covid
+- Elizabeth II
+- Johannes Radebe
+- Kim Joy
+- Liam Bakes
+- Lorraine
+- Nigella Lawson
+- Ruby Tandoh Ruby Tandoh
+- Tom Allen
+organisations:
+- Art Review
+- BBC
+- British Food Adventure
+- Channel 4
+- Down Hall Hotel
+- Eater
+- ITV
+- Magic Bakery
+- RA Magazine
+- Ruff Puff Bakehouse
+- The Baffler
+- The Guardian
+- The New Yorker
+- Vittles
 ---
 
 *(Image: Patch Dolan/Channel 4)*

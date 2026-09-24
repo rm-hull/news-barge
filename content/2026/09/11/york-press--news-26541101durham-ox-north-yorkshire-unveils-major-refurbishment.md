@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Crayke
+- Durham Ox
+- Easingwold
+- North Yorkshire
+- The Durham Ox
+- UK
+people:
+- Alexandra King
+- Michael Ibbotson
+- Mike Ibbotson
+- Sasha
+organisations:
+- Durham Ox
+- Ibbotson
+- Lloyds
+- Michelin Guide
+- Pic
+- The Durham Ox
+- VisitEngland
 ---
 
 ## Top North Yorkshire pub unveils refurbishment backed by £580,000 loan

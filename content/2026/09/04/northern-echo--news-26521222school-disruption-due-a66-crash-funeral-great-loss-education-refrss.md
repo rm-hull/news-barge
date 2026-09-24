@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- Middlesbrough
+- PA
+- Redcar
+- South Bank
+people:
+- Alec Brown
+organisations:
+- A66
+- Cleveland Council
 ---
 
 *(Image: PA)*

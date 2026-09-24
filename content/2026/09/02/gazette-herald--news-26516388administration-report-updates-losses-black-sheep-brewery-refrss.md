@@ -15,6 +15,35 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+people:
+- Charlene Lyons
+- Paul Theakston
+organisations:
+- '**__Breal Group'
+- Black Sheep
+- Black Sheep Brewery
+- Breal Capital
+- British Drinks Company
+- Companies House
+- FRP Advisory
+- Great British Drinks Company
+- HMRC
+- Keystone Brewing Group
+- Keystone Group
+- Masham
+- Masham-based Black Sheep Brewery
+- Masham__**
+- Masham’s Theakston
+- Paramount Retail Group
+- Pic
+- Purity Brewing Co.
+- Saltaire Brewery
+- Secure Trust Bank
+- Statement of Affairs
+- T&R Theakston
+- The Keystone Group
 ---
 
 HMRC and other creditors look set to go empty handed following the administration of a well-known North Yorkshire brewery for the second time in less than four years.

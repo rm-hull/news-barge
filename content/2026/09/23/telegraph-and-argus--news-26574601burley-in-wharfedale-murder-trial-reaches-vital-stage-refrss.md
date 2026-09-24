@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+locations:
+- Burley-in-Wharfedale
+- Derry Hill
+- Main Street
+- Menston
+people:
+- John Robinson
+- Mason Jones
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

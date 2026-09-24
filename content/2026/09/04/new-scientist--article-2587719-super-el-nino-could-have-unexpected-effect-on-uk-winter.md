@@ -11,6 +11,31 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310672430.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Amazon
+- Australia
+- East Africa
+- El Niño
+- England
+- Europe
+- Indonesia
+- North Atlantic
+- Norway
+- Pacific Ocean
+- South America
+- South Sumatra
+- UK
+- US
+people:
+- Adam Scaife
+- Thomas Toniazzo
+organisations:
+- El Niño
+- El Niños
+- Met Office
+- NORCE Research
+- WMO
+- World Meteorological Organisation
 ---
 
 ![Storm Eowyn batters southern England in January 2025](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310672430.jpg?w=840)

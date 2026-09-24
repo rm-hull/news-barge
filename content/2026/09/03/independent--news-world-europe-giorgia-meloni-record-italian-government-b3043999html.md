@@ -12,6 +12,35 @@ image: https://static.independent.co.uk/2026/09/03/11/2026-08-31T073359Z_3493712
 categories:
 - News & Politics
 - UK
+locations:
+- Brussels
+- Europe
+- Iran
+- Italy
+- Luiss
+- Rome
+- Spain
+- US
+- West
+people:
+- Donald Trump
+- Giorgia Meloni
+- Leo
+- Pope
+- Roberto D'Alimonte
+- Silvio Berlusconi
+- Trump Whisperer’
+organisations:
+- Brothers of Italy
+- Forza Italia
+- G7
+- LGBT
+- League
+- Meloni's Brothers
+- Reuters
+- Senate
+- Trump
+- Vox
 ---
 
 After a whirlwind of 68 governments in the past 80 years, Italy has finally settled on stability in the form of Giorgia Meloni.

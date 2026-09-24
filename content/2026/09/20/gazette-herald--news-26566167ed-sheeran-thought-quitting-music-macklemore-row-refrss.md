@@ -14,6 +14,40 @@ categories:
 - Arts & Culture
 - Music
 image: https://www.gazetteherald.co.uk/resources/images/21477268.jpg?type=og-image
+locations:
+- Auckland
+- Canada
+- Gaza
+- Gillette Stadium
+- Israel
+- Lincoln Financial Field
+- Mexico City
+- New Zealand
+- North
+- PA
+- Palestine
+- Pennsylvania
+- Philadelphia
+- Scranton
+- South America
+- US
+- West Bank
+people:
+- Aaron Rowe
+- Dwayne Smith
+- Ed Sheeran
+- Ellie Taylor
+- Emma Willis
+- Finneas
+- James Webber IV
+- Kassandra Rivera
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- BBC Radio 2
+- Beoga
+- Instagram
 ---
 
 *(Image: PA)*

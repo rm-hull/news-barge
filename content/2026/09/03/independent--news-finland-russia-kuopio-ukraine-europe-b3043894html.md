@@ -15,6 +15,35 @@ categories:
 - History
 - Sports
 - Society & Culture
+locations:
+- Arctic Circle
+- Baltic Sea
+- Europe
+- Finland
+- Kuopio
+- Moscow
+- Odesa
+- Russia
+- Soviet Union
+- Sweden
+- Ukraine
+people:
+- Aili Toivanen
+- Amanda Hill
+- Asko Muhonen
+- Dmytro Untila
+- Juha Räsänen
+- Jyry Pietikainen
+- Pirkko Naukkarinen
+- Risto Mönkkönen
+- Vladimir Putin
+- Vuokko Lahtinen
+organisations:
+- AP
+- European Union
+- Finnish Security and Intelligence Service
+- NATO
+- Savon Voima
 ---
 
 In a civil defense shelter hewn into rock, behind doors designed to withstand a nuclear or biological attack, two Finnish conscripts wearing hazmat suits and breathing masks are measuring radiation levels as they take part in an exercise to turn a cave into a place of safety for thousands of people.

@@ -14,6 +14,23 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hollywood
+- Iran
+- Islamic Republic
+people:
+- Ali Khamenei
+- Ayatollah Ali Khamenei
+- Christopher Nolan
+- Farideddin Haddad Adel
+- Gholam-Ali Haddad-Adel
+- Haddad Adel
+- Mohammad Khatami
+- Mojtaba Khamenei
+- Tayyebeh Mahrouzadeh
+- Zahra Haddad-Adel
+organisations:
+- Assembly of Experts
 ---
 
 **Euronews Persian**

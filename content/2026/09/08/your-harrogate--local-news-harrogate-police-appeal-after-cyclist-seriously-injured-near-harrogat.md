@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - News & Politics
 - True Crime
+locations:
+- B6161 Leathley Lane
+- Harrogate
+- Otley
+people: []
+organisations:
+- Conor Taylor.
+- Conor.Taylor
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg) 

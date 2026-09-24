@@ -11,6 +11,32 @@ image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
 categories:
 - Technology & Software
 - Relationships & Dating
+locations:
+- :** CLEVELAND
+- GARFIELD
+- MADISON
+- North London
+- U.S.
+people:
+- Elton John
+- Fred
+- GRANT
+- Johnny
+- KEWPIE
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+- Wordle
+organisations:
+- '### Yesterday'
+- Channel 5
+- NYT Connections
+- New York Times
+- Pop Detective
+- TEAL
+- WATERBIRDS
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg) 

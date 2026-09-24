@@ -15,6 +15,29 @@ categories:
 - Arts & Culture
 - Society & Culture
 - History
+locations:
+- Amsterdam
+- Charlotte
+- Coppergate
+- Hollywood
+- Tang Hall
+- Victoria
+- York
+people:
+- Beal
+- Charlotte
+- Freda
+- Greta Chaplin
+- Jean
+- Joan Holbrooke
+- Juliet Darling
+- Kate Mara
+- Rooney Mara
+- Victoria
+organisations:
+- All Saints School
+- The Press
+- York
 ---
 
 TWIN sisters from York have spoken of their special connection with the city’s renowned identical twins Freda and Greta.

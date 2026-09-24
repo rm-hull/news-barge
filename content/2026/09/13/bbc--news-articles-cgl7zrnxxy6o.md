@@ -12,6 +12,72 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asia
+- Beijing
+- Cameroon
+- China
+- Colombia
+- Donbas
+- Egypt
+- Israel
+- Japan
+- Kenya
+- Korean Peninsula
+- Kursk Region
+- Kyiv
+- Moscow
+- North Korea
+- Pyongyang
+- Russia
+- Russian Federation
+- Seoul
+- South Korea
+- US
+- Ukraine
+- Voronezh
+people:
+- Andrey Belousov
+- Baek Pyeong-gang
+- Emma Barnett
+- John Simpson
+- Joseon
+- Kim Il Sung
+- Kim Jong Il
+- Kim Jong Un
+- Kim Young-mi
+- Kyiv
+- Lee Kang-eun
+- Lim Soo-ho
+- Quentin Sommerville
+- Sultan
+- Valery Gerasimov
+- Vladimir Putin
+- Volodymyr Zelensky
+- Xi Jinping
+- Yang Uk
+organisations:
+- 95th Air Assault Brigade
+- 9th Party Congress of the Korean Workers' Party
+- Asan Institute for Policy Studies
+- BBC Korea
+- Center for Foreign Policy and National Security
+- General Staff
+- Group of Forces
+- HUR
+- Institute for National Security Strategy
+- KPA
+- Kim Jong Un
+- Korean People's Army
+- MBC
+- Main Intelligence Directorate of Ukraine
+- Memorial Museum
+- Ministry of Defense
+- Museum of Foreign Military Operations
+- Russian Armed Forces
+- South Korean National Intelligence Service
+- Storm Corps
+- Zelensky
 ---
 
 ![Quentin Sommerville](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a39d/live/54478230-ab72-11f1-b109-879e35c24276.png)

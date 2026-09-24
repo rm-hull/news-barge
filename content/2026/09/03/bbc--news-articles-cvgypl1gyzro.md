@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Film & TV
 - Music
+locations:
+- Disneyland
+- Grand Ole Opry House
+- Hollywood Boulevard
+- Los Angeles
+- Nashville
+- Tennessee
+people:
+- Ana Martinez
+- Carl Dean
+- Dolly Parton
+- Jada Star
+- Jolene
+organisations:
+- Dollywood
+- Dream Maker
+- Hollywood Chamber of Commerce
+- Hollywood Historic Trust
+- Hollywood Walk of Fame
+- Instagram
+- Parton
+- The Hollywood Historic Trust
 ---
 
 ![A star on the pavement with Dolly Parton's name, and two bunches of red flowers and a photo laid on it](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg)

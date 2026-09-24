@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Al Kharj
+- Bahrain
+- Camp Arifjan
+- Camp Buehring
+- Iran
+- Iraq
+- Jordan
+- Kuwait
+- Middle East
+- Missouri
+- Oman
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- U.S.
+- US
+- United Arab Emirates
+- White House
+people:
+- Donald Trump
+- Fred Wellman
+- Pete Hegseth
+- Sina Azodi
+organisations:
+- AAA
+- AP-NORC
+- Air Force
+- Airborne Warning and Control System
+- Boeing
+- CBS News
+- Congress
+- Congressional Budget Office
+- Failed Nation
+- George Washington University
+- HRANA
+- NBC News
+- Navy
+- Pentagon
+- Prince Sultan Air Force Base
+- The Independent
+- Trump
+- Truth Social
+- US Army
 ---
 
 Active-duty U.S. service members have leaked photos to CBS News that depict damage to American military infrastructure in the Middle East during the Iran war.

@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Deir ez-Zor
+- Israel
+- North Korea
+- Syria
+- US
+people:
+- Assad
+- Bashar al-Assad
+- Logan Mintz
+- Rafael Grossi
+organisations:
+- Agence France-Press
+- Associated Press
+- IAEA
+- International Atomic Energy Agency
+- Nuclear Threat Initiative
+- UN
 ---
 
 A nearly complete nuclear reactor built secretly during the rule of the toppled Syrian leader Bashar al-Assad would have been able to produce fissile material for possible use in nuclear weapons, the chief of the UN nuclear watchdog has revealed.

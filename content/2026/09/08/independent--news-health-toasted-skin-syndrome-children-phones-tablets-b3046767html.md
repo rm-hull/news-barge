@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations: []
+people:
+- Mara Znagoveanu
+organisations:
+- BMJ Case Reports
+- EAI
+- University Hospitals of Leicester NHS Trust
 ---
 
 Medical professionals have warned of a rise in children suffering skin reactions from resting electronic devices against bare skin.

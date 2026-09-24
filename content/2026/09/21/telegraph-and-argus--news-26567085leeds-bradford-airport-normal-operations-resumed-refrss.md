@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432860.jpg?type=og-image
+locations:
+- Palma
+- Perpignan
+- UGC
+- UK
+- Yeadon
+people: []
+organisations:
+- LBA
+- Leeds Bradford Airport
+- NATS
+- YORKSHIRE'S
 ---
 
 *(Image: UGC)*

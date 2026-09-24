@@ -13,6 +13,27 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Britain
+people:
+- Aaron Chown
+- Bernardine Evaristo
+- Charlotte Thomson
+- Dame Judi
+- David Attenborough
+- Judi Dench
+- Judi?
+- Lynsey Atkin
+- Marie Curie
+- Tim Berners-Lee
+- Vivienne Westwood
+organisations:
+- Baby Teeth
+- Judi Dench FRSA
+- PA Wire
+- RSA
+- RSA’s Fellowship
+- Royal Society of Arts
 ---
 
 ## 'A thrill and an honour' - creative boss on working with York-born icon of the arts

@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- County Armagh
+- Northern Ireland
+people:
+- Cathy Mason
+- Connie Rogers
+- Niamh Murray
+- Nick Mathison
+- Paul Givan
+organisations:
+- Alliance
+- BBC Radio Ulster
+- Craigavon Integrated College
+- Department of Education
+- Education Committee
+- Evening Extra
+- Secondary Students' Union of Northern Ireland
+- Sinn Féin
 ---
 
 ![Connie is in her school uniform. Her auburn hair is tied back. She's standing against a wall.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/40f6/live/fbcb7b60-adf7-11f1-ad53-0d91a06f3150.jpg)

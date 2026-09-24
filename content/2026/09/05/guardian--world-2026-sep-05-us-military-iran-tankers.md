@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Gulf of Oman
+- Iran
+- Jask
+- Kharg Island
+- Minab
+- US
+people:
+- Adm Brad Cooper
+- JD Vance
+- Tasnim
+organisations:
+- Associated Press
+- Islamic Revolutionary Guards Corps
+- Pentagon
+- Revolutionary Guards
+- US Central Command
 ---
 
 The US military said Saturday it struck three Iranian oil tankers after US navy warships came under missile attack, further escalating tensions in the region and warning it would “if necessary, destroy Iran’s limited and exposed oil fleet”.

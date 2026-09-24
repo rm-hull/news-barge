@@ -11,6 +11,15 @@ categories:
 - York
 - Food & Cooking
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/05/coffee-shop-cafe-cup-canva.webp
+locations:
+- Haxby
+- York
+people: []
+organisations:
+- 99 Seats Ltd
+- City of York Council
+- North Yorkshire Police
+- Ryedale Court
 ---
 
 Plans for a new café and restaurant in York have sparked fears over potential public nuisance.

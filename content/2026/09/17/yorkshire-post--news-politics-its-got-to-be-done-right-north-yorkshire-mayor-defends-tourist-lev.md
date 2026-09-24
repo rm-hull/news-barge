@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Helmsley
+- North Yorkshire
+- Scarborough
+- York
+people:
+- Angela Rayner
+- Coun Janet Jefferson
+- Coun Jefferson
+- David Skaith
+organisations:
+- Castle Division
+- Government
+- Hospitality Association York
+- Labour
+- North Yorkshire Combined Authority
+- North Yorkshire Independent
+- Overview and Scrutiny Committee
+- Policy Lab
 ---
 
 # 'It's got to be done right' - North Yorkshire mayor defends tourist levy plans amid fears for hospitality

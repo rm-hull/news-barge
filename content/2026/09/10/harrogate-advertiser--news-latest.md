@@ -12,6 +12,105 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Abbey
+- Baldersby Park
+- Bedale
+- Cambridge Crescent
+- Crawford
+- Easingwold
+- Great North Run
+- Great Yorkshire Events Centre
+- Harrogate
+- High Birstwith
+- Kettlesing
+- Knaresborough Road
+- Malham Drive
+- Middle East
+- North Yorkshire
+- Pakistan
+- Pannal
+- Raglan Street
+- Reynard Crag Holiday Park
+- Ripon
+- Saint Michael's Hospice
+- Smithy Close
+- Thirkhill Drive
+- Thirsk
+- UK
+- US
+- Wetherby
+- York
+- Zoopla
+people:
+- Alec Shelbrooke
+- Amy Winehouse
+- Andy Burnham
+- Anne Smith
+- Becky Farnell
+- Bon Cooper
+- Coun Viv Poskitt
+- David Skaith
+- Graeme Oliver
+- Grantley
+- James Gawthorpe
+- James Kelly
+- John Godber
+- Julian Smith
+- Kevin Hollinrake
+- Lynn Cummings
+- Max Partington
+- Neil Allan
+- Nigel Hull
+- Shahban Aziz
+- Simon Crawford
+- Steve Gill
+- Tom Gordon
+- Victoria Kirkman
+- Victoria Lickley
+organisations:
+- 5b Kirkgate
+- Arville Textiles
+- Brackenfield School
+- Brierley Homes
+- Department for Business, Innovation, Science and Trade
+- Department for Education
+- Harrogate BID
+- Harrogate Civic Society
+- Harrogate Theatre
+- Jane Marriott CMG OBE
+- Jespers
+- Jommy Puledda
+- Knaresborough
+- Le Creuset
+- Lib Dem
+- Little Ferns Pre-School
+- Masham
+- Newton Solicitors
+- North Rigton CE Primary School
+- North Yorkshire
+- North Yorkshire Council
+- Ofsted
+- Pakistan Bilateral Trade Relations
+- Pannal
+- Project Officer
+- RAF Linton-on-Ouse
+- Red Kite Teacher Training
+- Ripley Church of England Primary Schools
+- Ripon Gazette
+- Savills
+- Spread Eagle
+- Textile Centre of Excellence
+- The Crown Inn
+- The Den
+- The Federation of Beckwithshaw
+- Valley Primary Academy
+- Veronica Bird OBE
+- West Yorkshire Combined Authority
+- Wetherby
+- Yorkshire Cancer Research
+- Yorkshire Water
+- Zoopla
 ---
 
 ![Parents and carers across the Harrogate district being urged to apply online for their children's secondary school places ahead of the application deadline at the end of October](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1NTk1YjEwLWU2ZWEtNDA4Zi1hY2FmLTdmODcxYWVmMTVhZDoxMzJlMjQ3OS1iODU3LTRkNjMtYTNiMy1iMmVlMjViMDA5ZmE=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

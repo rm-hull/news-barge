@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argyll
+- Australia
+- Bute
+- Canada
+- Easdale
+- Inner Hebrides
+- Ireland
+- Kentucky
+- New Zealand
+- Scotland
+- Sheffield
+- Slate Islands
+- USA
+- Wales
+people:
+- Covid
+- Dougie Isaacs
+- Jonathan Jennings
+- Kyle Mathews
+- Lucy Wood
+- Luisa Hendry
+organisations:
+- Old Tossers
+- Skim of Destiny
+- Toss Master
 ---
 
 ![A man in a green pullover with 161 pinned to it is seen having just released a stone in the contest](https://ichef.bbci.co.uk/ace/standard/846/cpsprodpb/05b5/live/ae916440-a875-11f1-a291-b542ee92de7c.jpg)

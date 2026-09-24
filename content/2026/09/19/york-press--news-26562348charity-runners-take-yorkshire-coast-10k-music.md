@@ -12,6 +12,17 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21475047.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- Yorkshire Coast 10K
+people:
+- Andrea Hayes
+- Cathy Grant
+organisations:
+- '## North Yorkshire'
+- Music Builds Minds
+- Richard Shephard Music Foundation
 ---
 
 ## North Yorkshire charity seeks runners to help transform lives through music

@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg
+locations:
+- AI
+people:
+- Alex Shi
+- Liao Xiangzhong
+organisations:
+- AI
+- Central Academy of Fine Arts
+- Communication University of China
+- Efosa
+- Google News
+- TechRadar Pro
 ---
 
 ![AI brain coming out of laptop screen](https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9.jpg)

@@ -13,6 +13,31 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Middle East
+- Mumbai
+- South Korea
+- Taiwan
+- U.S.
+people:
+- Donald Trump
+- Ng Jing Wen
+- Scott Bessent
+- Stan Choe
+- Yuri Kageyama
+organisations:
+- Fed
+- Federal Reserve
+- Mizuho Bank
+- S&P
+- Sensex
+- Shanghai Composite
+- Taiex
+- U.S. Treasury
 ---
 
 Asian shares were mixed in cautious trading early Wednesday as investors watched for what might happen on interest rates and the war with Iran pushed oil prices higher.

@@ -14,6 +14,20 @@ categories:
 - UK
 - True Crime
 - Film & TV
+locations:
+- Adelaide
+- Snowtown
+- South Australia
+people:
+- Frances Nelson
+- James Vlassakis
+- John Bunting
+- Kyam Maher
+- Mark Haydon
+- Robert Wagner
+organisations:
+- Snowtown
+- South Australia Court of Appeal
 ---
 
 An Australian court ruled Tuesday that one of three serial killers convicted over the murders of 11 people in one of the country's most notorious criminal cases can be released from prison, rejecting a state government's bid to block his parole.

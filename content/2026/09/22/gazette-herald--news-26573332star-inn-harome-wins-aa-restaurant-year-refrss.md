@@ -14,6 +14,24 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/20791325.jpg?type=og-image
+locations:
+- England
+- Grosvenor House
+- Harome
+- Helmsley
+- Lendal Bridge
+- London
+- North Yorkshire
+- The Star Inn The City
+- UK
+- York
+people:
+- Andrew Pern
+organisations:
+- AA Hospitality
+- Harome
+- Star Inn
+- The Star Inn
 ---
 
 *(Image: Contributed)*

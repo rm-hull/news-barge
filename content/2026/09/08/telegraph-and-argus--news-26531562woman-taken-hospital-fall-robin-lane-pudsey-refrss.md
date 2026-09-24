@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Lowtown
+- Pudsey
+- Robin Lane
+people:
+- Simon Seary
+organisations:
+- Facebook
+- Yorkshire Ambulance Service
 ---
 
 A councillor has raised concerns about loose paving, after a woman was taken to hospital following a fall in Pudsey on Monday morning.

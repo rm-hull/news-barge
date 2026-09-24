@@ -14,6 +14,34 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/19/22/LSU_Mississippi_Football_52526.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Kiffin
+- Mississippi
+- Oxford
+- Tennessee
+- The Grove
+- Vaught-Hemingway Stadium
+people:
+- Jessica Perkins
+- Lane Kiffin
+- Matt Garrett
+- Ole Miss
+- Pete Golding
+- Sam Leavitt
+- Sean Tindell
+organisations:
+- AP
+- ESPN
+- LSU
+- Mississippi Department of Public Safety
+- No. 7
+- No. 8
+- Ole Miss
+- Oxford
+- Southeastern Conference
+- The Grove
+- Tigers
+- Volunteers
 ---
 
 Only one year ago, Mississippi fans hailed Lane Kiffin as the coach that helped them beat border-state rival LSU.

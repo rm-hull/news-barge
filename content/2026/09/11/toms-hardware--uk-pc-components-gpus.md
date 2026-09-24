@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Germany
+people:
+- Tom
+organisations:
+- AMD
+- GDDR6X
+- GPU
+- Get Tom's Hardware
+- Jon Peddie Research
+- Newegg
+- Nvidia
+- PAX West
+- TecLab
 ---
 
 No tech has seen more innovation in the last decade than graphics cards, thanks to powerhouse rivals AMD and Nvidia advancing the state of the art with ray-tracing, FSR and DLSS, 3D chip stacking and more. What does it all mean? Tom's Hardware is the industry standard for GPU news, reviews, and insights.

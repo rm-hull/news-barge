@@ -12,6 +12,43 @@ image: https://static.independent.co.uk/2026/09/11/18/754597..?trim=437,0,742,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- Ft
+- Mar-a-Lago
+- Pierce
+- Russia
+- U.S.
+- Washington
+- White House
+people:
+- Aileen Cannon
+- Christopher-James DeLorenz
+- D.C. Cannon
+- DiGenova
+- Dick Durbin
+- Donald Trump
+- Jason Reding Quiñones
+- Joe diGenova
+- John Brennan
+- Joseph diGenova
+- Kash Patel
+- Mar-a-Lago
+- Maria Medetis Long
+- Mike Davis
+- Todd Blanche
+organisations:
+- Associated Press
+- CIA
+- Congress
+- Department of Justice
+- Director’s Advisory Team
+- FBI
+- Mar-a-Lago
+- Senate Committee on the Judiciary
+- Southern District of Florida
+- The Independent.
+- The New York Post
 ---
 
 A longtime ally to Donald Trump who was tapped to lead a sprawling conspiracy investigation into the president’s political enemies abruptly resigned Thursday after the case failed to produce any indictments over the last year.

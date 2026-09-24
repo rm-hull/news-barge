@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- British Empire
+- England
+- Ghana
+- Jamaica
+- London
+- Royal Holloway
+- U.K.
+- Wales
+- West Africa
+people:
+- Andrew Holness
+- Charles III
+- Craig Prescott
+- James Kariuki
+- Olivia Grange
+- Zong
+organisations:
+- Commonwealth
+- Empire
+- Judicial Committee
+- Privy Council
+- The Associated Press
+- U.K. Prescott
+- U.K. Supreme Court
+- U.K.’s
+- U.N
+- United Nations General Assembly
+- University of London
+- Zong
 ---
 
 Jamaica is taking its campaign for Britain to pay reparations for the ravages of the trans-Atlantic slave trade to King Charles III.

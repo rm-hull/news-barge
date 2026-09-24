@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Houston
+- Iran
+- New York
+- Paris
+- U.S.
+people:
+- Barack Obama
+- Chris Wright
+- Donald Trump
+- Doug Burgum
+- Joe Biden
+- Lee Zeldin
+- Vickie Patton
+organisations:
+- AP
+- Associated Press
+- Environmental Defense Fund
+- Environmental Protection Agency
+- New York Times
+- Trump EPA
+- United Nations
 ---
 
 The Environmental Protection Agency is expected to repeal rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas, an action that Administrator Lee Zeldin has said would remove billions of dollars in costs for the industry and help “unleash” American energy.

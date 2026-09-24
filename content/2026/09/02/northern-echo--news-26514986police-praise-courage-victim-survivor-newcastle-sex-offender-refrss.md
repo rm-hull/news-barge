@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Bentinck Villas
+- Newcastle
+- Northumbria Police
+- Northumbria Police)*
+people:
+- Frankie Nielsen
+- Kerry Kane
+organisations:
+- Crimestoppers
+- Newcastle Crown Court
+- Northumbria Police
+- SHPO
+- Safeguarding Department
+- Sex Offenders’ Register
 ---
 
 *(Image: Northumbria Police)*

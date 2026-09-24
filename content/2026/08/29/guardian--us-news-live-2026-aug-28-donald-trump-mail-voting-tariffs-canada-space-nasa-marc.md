@@ -12,6 +12,182 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Abbottabad
+- Afghanistan
+- Alaska
+- America
+- Ames
+- Arizona
+- Arlington Memorial Bridge
+- Arlington National Cemetery
+- Caracas
+- Chicago
+- D.C.
+- East Room
+- Eastern Pacific
+- Ecuador
+- Egypt
+- Florida
+- Iowa
+- Iran
+- Iraq
+- Jefferson
+- Kenner
+- Libya
+- Lincoln Memorial
+- Los Choneros
+- Louisiana
+- Mar-Lago
+- Michigan
+- Middle East
+- New Hampshire
+- New York
+- New York City
+- Pakistan
+- Pennsylvania
+- Potomac River
+- Quantico
+- Tehran
+- Tennessee
+- Texas
+- Turning Point USA
+- U.S.
+- UAE
+- US
+- United Kingdom
+- United States
+- Venezuela
+- Washington DC
+- Washington Monument
+- White House
+- Wisconsin
+people:
+- Abdul El-Sayed
+- Alvin K Hellerstein
+- Angela Paxton
+- Azi Paybarah
+- Barack Obama
+- Bill O’Reilly
+- Bin Laden
+- Breitbart
+- Bush
+- Charlie Kirk
+- Delcy Rodríguez
+- Donald Trump
+- DonaldTrump
+- Edward Helmore
+- Glenn Beck
+- Greg Wischer
+- Hasan Piker
+- Hillary Clinton
+- J Scott Applewhite
+- James Talarico
+- Jeanine Pirro
+- Jennifer
+- Jeremy Barr
+- Joe Biden
+- John Cornyn
+- Jon Elswick
+- Jonathan Ernst
+- Josh Turek
+- Kanye West
+- Karoline Leavitt
+- Ken Paxton
+- Kevin Warsh
+- Laura Belin
+- Leon Panetta
+- Maga
+- Marco Rubio
+- Marjorie Taylor Greene
+- Mark Kelly
+- Marsha Blackburn
+- Mike Rogers
+- Mike Rogers'
+- Milo Yiannopoulos
+- Muammar Gaddafi
+- Nick Fuentes
+- Osama bin Laden
+- Patrick McMullan
+- Pete Hegseth
+- Rob Sand
+- Ron DeSantis
+- Scott Bessentconfirmed
+- Scott Jennings
+- ScottJenningsdescribed
+- Sean Parnell
+- Steve Bannon
+- Sylvain Gaboury
+- Trump’
+- Ye
+- Zach Nunn
+- bin Laden
+organisations:
+- Arch
+- Associated Press
+- Banque Misr
+- Banque Misr UAE
+- Bleeding Heartland
+- CBP
+- CIA
+- CNN
+- Capitale
+- Capitol
+- Central Bank of Egypt
+- Chevron
+- Council on Foreign Relations
+- DHS
+- Department of Homeland Security
+- Department of the Treasury
+- Egypts
+- FBI
+- Fed
+- Federal Reserve
+- Fox News
+- Getty Images
+- Government of Ecuador
+- Guardian
+- House
+- ICE
+- Immigration Judge
+- International Space Station
+- KHOI
+- Keely Aouga
+- Keely Aouga Defense
+- Louis Armstrong New Orleans International Airport
+- MAGA
+- MSY
+- Maga Inc
+- Marine Corps Base Quantico
+- Michigan Senate
+- NBC News
+- NHLs
+- National Historic Landmarks
+- National Park Service
+- New York Times
+- Pentagon
+- Reflecting Pool
+- Reuters National Park Service
+- Rogers’
+- Straight Arrow News
+- Substack
+- Texas Senate
+- Texas Tribune
+- Trump
+- Truth Social
+- Turning Point
+- Turning Point USA
+- Twitch
+- U.S. Army
+- US Commission on Fine Arts
+- US Southern Command
+- University of Michigan
+- Wall Street Journal
+- War Department
+- Washington Post
+- YouTube
+- al-Qaida
+- interior department
 ---
 
 Donald Trump holds models of an arch monument during a ballroom dinner in the East Room at the White House in Washington DC on 15 October 2025. Photograph: Jonathan Ernst/Reuters

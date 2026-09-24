@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6442/live/ed562f60-b6aa-11f1-ba3d-1d5c8a47f823.jpg
+locations:
+- Buckingham Palace
+- Earl
+- Wales
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Harry
+- King
+- Piers Morgan
+- William
+organisations:
+- BBC News
+- Daily Mirror
+- King's Trust
+- Mirror Group
+- Penguin
+- Sunday Mirror
+- Swan Song
+- The Sun
+- The Telegraph
+- YouTube
 ---
 
 **Piers Morgan has called for Earl Spencer's book about Princess Diana to be pulled from the shelves over a factual error.**

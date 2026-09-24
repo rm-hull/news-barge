@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Baxtergate
+- Halifax
+- North Yorkshire
+- Whitby Town Centre
+people: []
+organisations:
+- AGC
+- Baxtergate
+- Luxury Leisure
+- NYC
+- North Yorkshire Council
+- The Institute of Lighting Professionals
 ---
 
 A 24-hour adult gaming centre has submitted new plans for illuminated lighting after its previous proposal in a North Yorkshire town was blocked.

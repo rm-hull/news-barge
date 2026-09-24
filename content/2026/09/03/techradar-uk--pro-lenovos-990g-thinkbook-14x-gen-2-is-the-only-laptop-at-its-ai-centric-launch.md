@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/mzXddSuzWyY7FevoQJBSA4-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Rahim Amir
+organisations:
+- Copilot
+- Google News
+- IFA
+- Innovation World
+- Intel
+- Lenovo
+- PC
+- PCs
+- Qualcomm
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![The Lenovo ThinkBook 14x Gen 2 in a Celestial White trim](https://cdn.mos.cms.futurecdn.net/mzXddSuzWyY7FevoQJBSA4.jpg) 

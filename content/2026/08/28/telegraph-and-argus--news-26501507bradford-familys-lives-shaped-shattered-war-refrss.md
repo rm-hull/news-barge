@@ -14,6 +14,76 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Bradford
+- Bradford.’
+- China
+- Croxton Park
+- Darley Street
+- Driffield
+- France
+- Gallipoli
+- Guernsey
+- Manchester
+- Manningham
+- Mudros
+- Prince of Wales’s Own
+- Schwaben Redoubt
+- Shanghai
+- Shipley
+- Somme
+- St Peter’s
+- Suez Canal
+- Thiepval Memorial
+- Thiepval Ridge
+- West Yorks
+- York
+people:
+- Brian Russell
+- Charles B Symes
+- Charles Betts
+- Charles Betts Symes
+- Florence May
+- H Symes
+- Hanson
+- Henry Symes
+- Henry Symes'
+- Herbert McKell
+- James Stanley
+- Jane Elizabeth
+- Kathleen M Gilyard
+- Lancaster Reg.
+- Lydia Hannah Angel
+- Nellie Walker
+- Sharon Knott
+- Thomas Banks
+- York
+organisations:
+- 11th Battalion
+- 6th Battalion
+- BA
+- Bradford Corporation
+- Bradford Daily Argus
+- Bradford Pals
+- Britannic
+- Education Committee
+- Hanson Academy
+- Hanson Academy Museum
+- Hanson Girls’ School
+- Hanson School
+- Hanson Secondary School
+- Lancaster Regiment
+- Leeds Intelligencer
+- Leeds Intelligener Charles
+- Northumberland Fusiliers
+- RAF Aerodrome
+- RMS
+- Royal Naval Volunteer Reserve
+- Shanghai Race Club
+- Shanghai Race Club War Memorial
+- St Patrick
+- West Yorkshire Regiment
+- Yorkshire Evening Post
 ---
 
 WHILE volunteering at the Hanson Academy Museum, one surname surfaced again and again: Symes.

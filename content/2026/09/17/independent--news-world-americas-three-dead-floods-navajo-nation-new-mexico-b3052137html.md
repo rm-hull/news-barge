@@ -11,6 +11,37 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arizona
+- Bright Angel Creek
+- Chinle
+- Colorado
+- Four Corners
+- Granbury
+- Grand Canyon
+- Mexican Springs
+- Navajo Nation
+- Navajo Route 30
+- New Mexico
+- Newcomb
+- Texas
+- U.S. Highway 191
+- Utah
+- Wyoming
+people:
+- Brent Rosenkranz
+- Buu Nygren
+- John Giusti
+- Shawna Ann Claw
+- Timothy Allen Smith
+organisations:
+- ABC15
+- Chinle Council
+- National Weather Service
+- Navajo Division of Transportation
+- Navajo Nation
+- Navajo Times
+- Navajo Tribal Police
 ---
 
 Three people have died after they were swept away in floodwaters on the Navajo Nation early Wednesday morning.

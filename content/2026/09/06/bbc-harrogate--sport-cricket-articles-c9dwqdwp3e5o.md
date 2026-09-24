@@ -12,6 +12,45 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Chelmsford
+- Faringrdon
+- Preston
+- Southampton
+- The Blaze
+- Trent Bridge.
+people:
+- Amanda-Jade Wellington
+- Bess Heath
+- Bryony Smith
+- Emma Jones
+- Georgia Adams
+- Grace Ballinger
+- Hollie Armitage
+- Jess Jonassen
+- Kate Cross
+- Kirstie Gordon
+- Lucy Higham
+- Phoebe Franklin
+- Priyanaz Chatterji
+- Sarah Bryce
+- Sophie Luff
+- Sophie Morris
+- Sune Luus
+- Tammy Beaumont
+organisations:
+- Chelmsford:** Essex
+- Durham
+- Lancashire
+- Somerset
+- Southampton:** Hampshire
+- Surrey
+- T20 Blast
+- Taunton
+- The Blaze
+- The Oval
+- Warwickshire
+- Yorkshire
 ---
 
 ![Emma Jones of The Blaze](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/39ee/live/0de28ef0-aa16-11f1-bbe8-51444f709166.jpg)

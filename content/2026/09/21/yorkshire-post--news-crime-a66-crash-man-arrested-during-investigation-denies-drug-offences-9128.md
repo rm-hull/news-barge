@@ -13,6 +13,20 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ3YzAyZjQ2LTJkMjAtNDliNi1hMWEzLWUxOGNjMmE1ZDEyYTo4ZDJiZGMyZS1iYTY2LTQ0YTItYTUwYi1mNjMzNTJmYzE3OGY=.jpg?crop=3:2,smart&trim=&width=1173&auto=webp&quality=75
+locations:
+- Micklow Close
+- Middlesbrough
+- Redcar
+people:
+- Cameron George
+- Francis Laird
+- Matthew Blades
+- Pc Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Recorder of Middlesbrough
+- Teesside Crown Court
 ---
 
 # A66 crash: Man arrested during investigation denies drug offences

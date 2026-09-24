@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Health & Fitness
 - Society & Culture
+locations:
+- Britannia Place
+- Dormanstown
+- Redcar
+people: []
+organisations:
+- Cleveland Police
+- Great North Air Ambulance Service
+- North East Ambulance Service
 ---
 
 *(Image: GNAAS)*

@@ -13,6 +13,29 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21482915.jpg?type=og-image
+locations:
+- Dewsbury
+- Doncaster
+- Harlington Road
+- Hawthorn House
+- Headingley Stadium
+- Heworth House
+- Leeds
+- Milewood
+- Whitby
+- York
+- Yorkshire
+people:
+- Juliette Booth
+- Martyn Heginbotham
+- Milewood
+organisations:
+- Booth FM
+- Booth Facilities Management Ltd
+- Leeds Rhinos
+- Leeds Rhinos Foundation
+- Milewood
+- Wigan Warriors
 ---
 
 *(Image: Supplied)*

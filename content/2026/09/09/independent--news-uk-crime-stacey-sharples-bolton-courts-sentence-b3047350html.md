@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/09/09/13/47/Stacey-Sharples.png?tri
 categories:
 - News & Politics
 - UK
+locations:
+- Bolton Crown Court
+- Cheshire
+- Farnworth
+- Greater Manchester
+- HMP Styal
+- London
+people:
+- Hunter Gray
+- Julia Faure Walker
+- Justice Hill
+- Justice Linden
+- Justice Popplewell
+- Stacey Sharples
+organisations:
+- Bolton Crown Court
+- Court of Appeal
+- Facebook
+- Sharples
 ---
 
 A serial liar who falsely accused 10 men of raping her has had her prison sentence increased by two-and-a-half years after the Court of Appeal ruled her original term was “unduly lenient”.

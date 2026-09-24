@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Amazon
+- Brazil
+- Mato Grosso
+- Peixoto de Azevedo
+- Sao Paulo
+people:
+- Raoni Metuktire
+organisations:
+- Raoni Institute
 ---
 
 Renowned Indigenous Chief Raoni Metuktire is receiving palliative care at home in the Brazilian heartland after being diagnosed with cancer at age 94, his institute said Monday.

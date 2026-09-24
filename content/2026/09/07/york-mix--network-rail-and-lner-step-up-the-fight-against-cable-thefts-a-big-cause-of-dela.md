@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- East Coast
+- East Coast Main Line
+- London King’s Cross
+- Network Rail
+- Scotland
+- York
+people:
+- Chris Gostling
+- John Grainger
+organisations:
+- British Transport Police
+- East Coast Partnership
+- LNER
+- London North Eastern Railway
+- Network Rail
+- Vital
 ---
 
 £110,000 pounds is being spent to tackle cable theft, vandalism and trespass on the East Coast Main Line through proactive security patrols.

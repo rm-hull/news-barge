@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Europe
+- Kawangware
+- Lang'ata Road
+- Nairobi
+- US
+people:
+- Geoffrey Kioi
+- Jackson Okoth
+- Mohammed Nyale
+organisations:
+- Kenya National Bureau of Statistics
+- Okoth
 ---
 
 As the traffic signals turn red at a congested junction in the Kenyan capital, a young performer dressed in leopard print steps into the road to tumble through the air. He is joined by five identically dressed companions who together execute a series of acrobatic maneuvers.

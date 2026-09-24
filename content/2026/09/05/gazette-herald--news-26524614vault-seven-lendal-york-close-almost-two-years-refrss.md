@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Harrogate
+- Lendal
+- Wetherby
+- York
+people:
+- Alice Kavanagh
+- Betsy Vaca
+- Carter Towler
+- Jack Wolfskin
+- Sammy Clews
+- York
+organisations:
+- Leeds
+- Lendal
+- Newsquest
+- The Old Bank
+- The Old Post Office
+- The Press
+- Vault Seven
 ---
 
 A well-loved York vintage shop is preparing to close its doors after nearly two years.

@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Born
+- Croke Park
+- Europe
+- Helsinki
+- London
+- Old Trafford
+- Pogba
+- Stockholm
+- Uruguay
+people:
+- Alex Ferguson
+- Darren Fletcher
+- David Gaskell
+- JJ Gabriel
+- Jason Wilcox
+- Jose Maria Gimenez
+- Manuel Ugarte
+- Max Dowman
+- Michael Carrick
+- Mino Raiola
+- Omar Berrada
+- Paul Pogba
+- Ruben Amorim
+- Tynan Thompson
+organisations:
+- Arsenal
+- Atletico Madrid
+- Brighton
+- Fifa
+- JJ Gabriel
+- Juventus
+- Leeds
+- Manchester United
+- Manchester United.
+- Premier League
+- Sabah FK
+- Tottenham
+- Uefa
+- Under-18
+- Wrexham
 ---
 
 ![Manchester United forward JJ Gabriel](https://ichef.bbci.co.uk/ace/standard/700/cpsprodpb/e77e/live/42b9fe20-b10e-11f1-9065-997784e11373.jpg)

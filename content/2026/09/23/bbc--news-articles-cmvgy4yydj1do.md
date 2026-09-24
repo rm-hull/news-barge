@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72dc/live/a69e7b20-b765-11f1-8e7f-6f99c81f3136.jpg
+locations:
+- Britain
+- London
+- US
+people:
+- Ed O'Brien
+- Fudge
+- Lauren Laverne
+- Michael Kiwanuka
+- Miguel
+- Neil Young
+organisations:
+- BBC Radio 6
+- Instagram
+- Kiwanuka
+- Mojo Magazine
+- NHS
 ---
 
 ![Michael Kiwanuka in a light brown jacket and orange shirt, holding a guitar and standing in front of a microphone](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/72dc/live/a69e7b20-b765-11f1-8e7f-6f99c81f3136.jpg)

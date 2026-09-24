@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- China
+- Huddersfield
+- Nepal
+- Tesco Great Horton Road
+people:
+- Aneela Ahmed
+- Sameera
+organisations:
+- Bradford West Rotary Club
+- Rotary Club
+- Rotary Club of Adventurers
+- Shipley
+- UGC
+- Ukraine Humanitarian Aid
 ---
 
 *(Image: UGC)*

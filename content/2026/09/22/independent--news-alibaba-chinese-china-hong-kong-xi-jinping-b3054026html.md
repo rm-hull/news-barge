@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/08/China_Alibaba_AI_64858.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Beijing
+- China
+- Hangzhou
+- U.S.
+- United States
+- Washington
+people:
+- Dario Amodei
+- Donald Trump
+- Eddie Wu
+- Xi Jinping
+organisations:
+- Alibaba
+- Anthropic
+- Huawei
+- Kimi K3
+- Moonshot
+- Nvidia
+- SpaceX
+- U.S. AI
+- Zhenwu
 ---
 
 China’s Alibaba unveiled new artificial intelligence chip technologies and plans for more powerful models on Tuesday, including what it said was China's most powerful AI chip, days ahead of a meeting between Chinese and U.S. leaders at which competition to lead on AI technology is expected to be a major theme.

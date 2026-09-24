@@ -14,6 +14,20 @@ categories:
 - York
 - Arts & Culture
 - Books & Literature
+locations:
+- Britain
+- York
+people:
+- Ali Smith
+- Caleb Klaces
+- Colm Tóibín
+- Emily Berry
+- Hilary Mantel
+- Jess Chandler
+- Klaces’
+organisations:
+- Hawthornden Foundation
+- Prototype
 ---
 
 *(Image: Supplied)*

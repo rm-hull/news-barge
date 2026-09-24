@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- AI
+- America
+- BBC
+- China
+- U.S.A.
+- US
+- Vermont
+- Washington
+people:
+- AI Trump
+- Bernie Sanders
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Elon Musk
+- Jacob Coxon
+- Jeff Bezos
+- Laura Kuenssberg
+- Marc Cieslak
+- Mark Zuckerberg
+- Matt Calkins
+- Mike Johnson
+- Sam Altman
+- Steve Bannon
+- Tim Cook
+- Trump Trump
+organisations:
+- '## Tech'
+- AI
+- Amazon
+- Amodei
+- Anthropic
+- Appian
+- Apple
+- BBC Where
+- CBS News
+- Congress
+- Council of Advisors on Science and Technology
+- Facebook
+- House
+- ING
+- Intel
+- OpenAI
+- Pentagon
+- Republican Party
+- Trump
+- US Steel
 ---
 
 Why is Donald Trump so opposed to regulating AI?

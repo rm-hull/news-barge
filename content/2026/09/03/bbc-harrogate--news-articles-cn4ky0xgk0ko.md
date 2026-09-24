@@ -12,6 +12,24 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Boroughbridge
+- Brafferton
+- Healthwatch North Yorkshire
+- Helperby
+- North Yorkshire
+people:
+- Ashley Green
+- Jil Cole
+- Mark Darwin
+- Nigel Denison
+organisations:
+- BBC
+- Brafferton
+- Church Lane Surgery
+- Helperby Branch Surgery
+- Helperby Parish Council
+- Jil Cole
 ---
 
 ![A dark brown wooden door with white signage.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/eb78/live/3b684400-a705-11f1-a215-852845290abe.jpg)

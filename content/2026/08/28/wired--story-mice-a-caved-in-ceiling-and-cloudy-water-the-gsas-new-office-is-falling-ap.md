@@ -12,6 +12,25 @@ image: https://media.wired.com/photos/6a91b05ee53c7743d5ea6694/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- DC
+- F Street
+- Theodore Roosevelt Federal Building
+- Washington
+people:
+- Ed Forst
+- Musk
+organisations:
+- DOGE
+- Department of Government Efficiency
+- Elon Musk
+- GSA
+- General Services Administration
+- OPM
+- Office of Personnel Management
+- Trump
+- WIRED
 ---
 
 About 1,600 federal employees who work at the General Services Administration have been forced to relocate from their office on F Street in Washington, DC, to the Theodore Roosevelt Federal Building, roughly two blocks away. Workers say the new building, which also houses staff from the Office of Personnel Management has mice, a caved-in bathroom ceiling, and drinking water that needs to be run for five to 10 seconds before it is clear.

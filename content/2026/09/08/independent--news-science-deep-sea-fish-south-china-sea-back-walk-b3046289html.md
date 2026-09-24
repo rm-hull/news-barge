@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Guangdong
+- South China Sea
+- US
+people:
+- Albert Günther
+- Han Tian
+organisations:
+- Ocean-Land-Atmosphere Research
+- Sun Yat-sen University
 ---
 
 One of the few deep-sea fish known to trot on the ocean floor can also walk backwards, scientists say, calling it a “paradigm-shifting revelation”.

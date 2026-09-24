@@ -13,6 +13,19 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Cyprus
+- Iceland
+- Ireland
+- Liechtenstein
+- Norway
+- Schengen
+- Switzerland
+people: []
+organisations:
+- Commission
+- EU
+- Member State
 ---
 
 EU rules on short-stay visas apply to non-EU citizens who need a visa (61 countries or territories are exempt) to visit the Schengen area for up to 90 days in any 180-day period for tourism, work, training, family, or other reasons.

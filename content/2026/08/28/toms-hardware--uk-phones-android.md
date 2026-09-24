@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- U.S.
+people: []
+organisations:
+- Get Tom's Hardware
+- Google
+- Hongmeng
+- Huawei
+- SSH
+- Samsung
+- Western Digital
 ---
 
 ![Android smartphone](https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-320-80.jpg)

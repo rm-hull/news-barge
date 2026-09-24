@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Berlin
+- Bradford
+- Calderdale
+- West Yorkshire
+people:
+- Laura Riach
+- Lisa Capewell
+organisations:
+- 24-Hour Therapy Dash
+- Bradford Hospitals Charity
+- Bradford Teaching Hospitals
+- Bradford Teaching Hospitals NHS Foundation Trust
+- Bradford team
+- Huddersfield NHS Foundation Trust
+- Leeds Teaching Hospitals NHS Trust
+- Mid Yorkshire Teaching NHS Trust
+- My Fitness Junction
+- Therapy Dash
 ---
 
 MORE than 200 NHS staff are gearing up for a 24-hour challenge of running, rowing, and cycling for charity.

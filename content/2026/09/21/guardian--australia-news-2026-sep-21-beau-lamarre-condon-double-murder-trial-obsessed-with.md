@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/b302b0f5fea9a0bf280d7dd5a7c4c992b40d2639/205_0_3097_2480/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5c674a4715e79e705135918fce5aef6
+locations:
+- Baird’s Paddington
+- Bungonia
+- King Street
+- Sydney
+people:
+- Beau Lamarre-Condon
+- Brett Hatfield
+- Davies’
+- Jesse Baird
+- Jesse Baird.
+- Luke Davies
+organisations:
+- Lamarre-Condon
 ---
 
 A former police officer allegedly developed an “infatuation and obsession” with one of his victims, and disguised himself as an Uber Eats rider before shooting two men, a court has heard.

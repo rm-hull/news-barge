@@ -12,6 +12,38 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/07/16/11/2284784484..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Britain
+- DR Congo
+- Ebola
+- Manchester
+- UK
+- US
+people:
+- Andy Burnham
+- David Miliband
+- Donald Trump
+- Ed
+- Geordie Greig
+- Gordon Brown
+- Harold Wilson
+- John Healey
+- Keir Starmer
+- Milband
+- Nye Bevan
+- Tony Blair
+- Yeah
+organisations:
+- Geordie Greig
+- IRC
+- International Rescue Committee
+- Labour Party
+- NHS
+- The Independent
+- Tory
+- Treasury
+- Trump
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

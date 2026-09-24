@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Christchurch
+- Loch
+- New Zealand
+- Queenstown
+- South Island
+- Sydney
+people:
+- Liza-Jayne Loch
+organisations:
+- AAP
+- FlightAware
+- Qantas
 ---
 
 Liza-Jayne Loch was returning home from a business trip to New Zealand when her Qantas flight ran into trouble.

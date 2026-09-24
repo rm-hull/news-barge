@@ -12,6 +12,26 @@ image: https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Devon
+people:
+- Aleksander Mądry
+- Claude Code
+- Devon
+- Olivia Dean
+- Sam Fender
+- Shaanan Cohney
+organisations:
+- Abliteration AI
+- Astra
+- Codex
+- CyberStrike
+- Devon
+- MIT
+- OpenAI
+- Tufts University
+- Wi-Fi
+- Wiim
 ---
 
 As the author of a newsletter about artificial intelligence, I consider it my duty to experience the bleeding edge of this technology firsthand. This week, that meant embracing some agentic mayhem.

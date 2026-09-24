@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - UK
 - Religion & Spirituality
+locations:
+- Minnesota
+- Northern Arapaho
+- Wind River
+- Wind River Reservation
+people:
+- Big Wind Carpenter
+- DJ Gardner
+- God
+- Jenea Mandan
+- Jessica Shoemaker
+- Jesus
+- Keenan Groesbeck
+- Lucas'
+- Mary Rose Goggles
+- Michael McNally
+- Sarah Lucas
+- Tearany Black
+organisations:
+- American Indian Movement
+- Arapaho
+- Associated Press
+- Carleton College
+- Eastern Shoshone Tribes
+- Foundations for Nations
+- Foundations for Nations Church
+- Foundations for Nations’
+- Global Indigenous Reporting Network
+- Liberty Counsel
+- Lucas'
+- Nations'
+- The Associated Press
+- University of Nebraska College of Law
 ---
 
 Every Sunday morning on the Wind River Reservation, congregants gather at Foundations for Nations Church to pray while protesters outside do the same.

@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Automotive
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Econ Engineering
+- Lease and Hire of Specialist Vehicles Framework
+- NY Highways
+- NY Highways’
+- North Yorkshire Council
+- YPO Purchase
 ---
 
 ![](https://mmo.aiircdn.com/409/6a982fb8ad5315406f9.jpg) 

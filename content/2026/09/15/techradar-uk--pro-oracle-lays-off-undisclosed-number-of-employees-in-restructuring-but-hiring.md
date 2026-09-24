@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- Amanda Goodall
+- Craig Hale
+- Mike Sicilia
+organisations:
+- AI
+- AWS
+- Craig’s
+- Google News
+- ML
+- Microsoft
+- Oracle
+- TechRadar Pro
 ---
 
 ![Oracle](https://cdn.mos.cms.futurecdn.net/d1435f2e8502b951cabe11c5a1c09bd9.jpg) 

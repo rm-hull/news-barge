@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Diana Memorial Fountain
+- Hyde Park
+- London
+- Princess of Wales
+- Royal Parks
+people:
+- Diana
+- Elizabeth
+- Ewan Somerville.
+organisations:
+- BBC London
+- BBC Radio London
+- Provisional Met Office
+- Royal Parks
 ---
 
 ![A wide, curving granite water channel of the Diana Memorial Fountain sitting empty and dry in Hyde Park, with dry leaves scattered in the basin and trees in the background.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8a4c/live/1db64540-a7c0-11f1-b5cf-8556ae508a51.jpg)

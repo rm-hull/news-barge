@@ -11,6 +11,25 @@ description: Britain’s toothless AI oversight system has reached its expiratio
 image: https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B-2121-80.jpg
 categories:
 - Technology & Software
+locations:
+- Britain
+- New York City
+- UK
+- Westminster Bridge
+- Whitehall
+people:
+- AI
+- Alex Sobel
+- Eric Hal Schwartz
+organisations:
+- AI Security Institute
+- Google Gemini
+- Google News
+- Houses of Parliament
+- Joint Committee on Human Rights
+- OpenAI
+- TechRadar
+- Voicebot.ai
 ---
 
 ![The Houses of Parliament and Westminster Bridge](https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B.jpg) 

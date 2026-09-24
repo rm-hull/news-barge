@@ -15,6 +15,23 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21492723.jpg?type=og-image&xType=0&yType=162
+locations:
+- Gateshead High Street
+- Hilton Gateshead
+- North East
+- River Tyne
+- St. Mary’s Heritage Centre
+- Vue Gateshead
+people:
+- Catarina De Cézanne
+- Neil Jackson
+- Steve Wraith
+organisations:
+- A New Breed of Cinema
+- ANBOC Ltd
+- FilmFreeway
+- GIFF
+- Gateway Studio CIO
 ---
 
 *(Image: Stock Image)*

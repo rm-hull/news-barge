@@ -13,6 +13,70 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Antofagasta
+- China
+- Frankfurt
+- Fresnillo
+- Japan
+- London
+- Middle East
+- New York
+- Paris
+- Saudi Arabia
+- UK
+- US
+- USA.
+- Wall Street
+- Weir
+people:
+- AI
+- Dario Amodei
+- Donald Trump
+- James Moberly
+- Kathleen Brooks
+- Kevin Warsh
+- Mario Arreguin
+- Michael Feroli
+- Rodrigo Sandova
+- Russ Mould
+- Sam Altman
+organisations:
+- AI
+- AJ Bell
+- Advanced Micro Devices
+- Alliance News
+- Alumasc
+- Anthropic
+- AstraZeneca
+- Bank of England
+- Barratt Redrow
+- Berenberg
+- ChatGPT
+- Crowdstrike
+- Federal Reserve
+- Fresnillo
+- GSK
+- GlobalData
+- Goldman Sachs
+- Halma
+- Intel
+- JPMorgan
+- Keir Group
+- London Stock Exchange Group
+- Monetary Policy Committee
+- Nvidia
+- OpenAI
+- Palo Alto
+- Persimmon
+- Princes Group
+- Relx
+- Sage Group
+- Smith & Nephew
+- Taylor Wimpey
+- Treasury
+- Truth Social
+- XTB
 ---
 
 Stock prices in London closed mixed on Monday, with Middle East tensions, AI slowdown fears and caution ahead of a flurry of central bank meetings keeping investors on their toes.

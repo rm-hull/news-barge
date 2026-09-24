@@ -15,6 +15,40 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bradford
+- Europe
+- France
+- Great Ormond Street Hospital
+- Japan
+- Middle East
+- North America
+- Yorkshire
+people:
+- Beverley Craig
+- Carter
+- Charles
+- Parker
+- Peter Ackroyd
+- Peter Pan
+- Phyllis
+- Robert Ackroyd
+- Robert Peter Ackroyd
+- Sykes
+organisations:
+- Australian Wool Innovation
+- Bradford Technical College
+- Bradford Textile Society
+- Campaign for Wool
+- Courtaulds
+- Institute of Linguists
+- International Wool Textile Organisation
+- MBE
+- National Wool Textile Export Corporation
+- Strategy Committee for Premiere Vision
+- Wendy Wools
+- Woodhouse Grove School
+- Woolmark
 ---
 
 # Peter Ackroyd obituary: The tireless Yorkshire wool campaigner with an outstanding international career

@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Furmark
+people:
+- Bruno Ferreira
+- Lowell K. Wood IV
+- Tom
+organisations:
+- GitHub
+- Google News
+- PC
+- PCPartPicker
+- TechFuelHQ
+- Tom's Hardware
+- Wood
 ---
 
 ![Coil inductors](https://cdn.mos.cms.futurecdn.net/jfMhZbyQuMUX5QF7o426Bb.jpg) 

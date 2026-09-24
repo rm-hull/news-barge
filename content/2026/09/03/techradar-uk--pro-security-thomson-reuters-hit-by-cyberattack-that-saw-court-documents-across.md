@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Alabama
+- Bosnia and Herzegovina
+- Canada
+- Kentucky
+- Montana
+- Nevada
+- New Hampshire
+- North Dakota
+- Ohio
+- Ontario
+- Pennsylvania
+- Sarajevo
+- South Carolina
+- Tennessee
+- U.S. Virgin Islands
+- US Virgin Islands
+- Wyoming
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- C-Track
+- Google News
+- IT
+- Ministry of the Attorney General
+- Represent Communications
+- TechRadar Pro
+- Thomson Reuters
+- US Virgin Islands
 ---
 
 ![Back view of hooded internet criminal hacking laptop in the dark, stealing credit card details](https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668.jpg) 

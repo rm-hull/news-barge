@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- Israel
+- San Antonio
+people:
+- Andrew Kolvet
+- Candace Owens
+- Charlie Kirk
+- Donald Trump
+- Erica Kirk
+- Erika Kirk
+- JFK
+- Jared Holt
+- Jeffrey Epstein
+- Joan Donovan
+- Joseph Uscinski
+- Renée DiResta
+- Turning Point
+- Tyler Robinson
+organisations:
+- American Conspiracy Theories
+- Boston University
+- Georgetown University
+- Network Contagion Research Institute
+- Open Measures
+- Turning Point
+- University of Miami
+- WIRED
 ---
 
 In the days after the assassination of conservative activist and Turning Point cofounder Charlie Kirk, the online reaction was a mess. Graphic videos of the shooting were everywhere within minutes of his death, far-right figures called for violence and vengeance, and right-wing lawmakers and influencers called for the cancellation—and worse—of anyone celebrating. Then, the conspiracy theories began.

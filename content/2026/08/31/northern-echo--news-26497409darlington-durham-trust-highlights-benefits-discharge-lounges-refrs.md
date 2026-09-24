@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- County Durham NHS
+- Darlington Memorial Hospital
+- North Durham
+- North Tees
+- University Hospital
+people:
+- Julie Form
+organisations:
+- CDDFT
+- County Durham
+- Darlington NHS Foundation Trust
+- NHS Trust
+- Our Discharge Lounges
 ---
 
 *(Image: Supplied)*

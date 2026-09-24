@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Film & TV
 image: https://images.euronews.com/articles/stories/09/92/22/71/1200x675_cmsv2_706a9f30-5cc5-5167-9b10-79cd4d4b9e90-9922271.jpg
+locations:
+- Mount Rushmore
+- New York
+- South Lawn
+- US
+- Washington
+- White House
+people:
+- Bryan Boughton
+- Donald Trump
+- JD Vance
+organisations:
+- ABC
+- AFP
+- CBS
+- CNN
+- Fox
+- MS NOW
+- NBC
+- Politico
+- The AP
+- The New York Times
+- Trump TV
+- United Nations General Assembly
+- Washington Post
 ---
 
 ## In a rare move, the top five US broadcasters said on Monday that they were halting "pool" coverage of the White House, where a broadcaster films on behalf of all television outlets for the day, in solidarity with CNN.

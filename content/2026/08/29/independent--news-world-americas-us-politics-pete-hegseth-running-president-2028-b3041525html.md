@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Iowa
+- Iran
+- Latin America
+- White House
+- Yemen
+people:
+- JD Vance
+- Marco Rubio
+- Marco?'
+- Matt Schlapp
+- Pete Hegseth
+- Sean Parnell
+- Trump
+- Zach Nunn
+organisations:
+- American Conservative Union
+- Axios
+- Conservative Political Action Conference
+- Fox News
+- Hegseth
+- Iowa State Fair
+- Mediaite
+- NBC News
+- POTUS
+- Pentagon
+- Reuters
+- The Independent
+- Trump
+- War Department
 ---
 
 Defense Secretary Pete Hegseth has been mulling a 2028 presidential bid, according to a new report.

@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- Knaresborough Viaduct
+- Leeds
+- Network Rail
+- North Yorkshire
+- River Nidd
+- Viaduct Terrace
+- York
+people:
+- Hannah Gostlow
+- Matt Walker
+organisations:
+- Knaresborough Town Council
+- Liberal Democrat
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 ![A large stone bridge support stands on the left beside a calm river, with a row of houses and greenery along the opposite bank. A small rowing boat carrying two people is on the water near the riverside, while temporary orange barriers are visible on the embankment above. Trees and hillside homes rise in the background under bright sunshine.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/59ef/live/000b5540-b359-11f1-b949-71f91f81d1ab.jpg)

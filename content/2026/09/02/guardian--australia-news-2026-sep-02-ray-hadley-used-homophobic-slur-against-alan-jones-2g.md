@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Downing Centre
+- Rookwood
+- Sydney
+people:
+- Alan Jones
+- Gabrielle Bashir
+- Glenn Walsh
+- Hadley’
+- Ray Hadley
+organisations:
+- 2GB CCTV
+- Sydney Morning Herald
 ---
 
 Broadcaster Ray Hadley has told a Sydney court he used a homophobic slur and derogatory names when talking about his colleague Alan Jones, after 2GB withdrew a secret offer of a $4m contract to take over Jones’s coveted breakfast slot.

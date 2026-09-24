@@ -15,6 +15,12 @@ categories:
 - Film & TV
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Hollywood
+people:
+- Danny Boyle
+- George Clooney
+organisations: []
 ---
 
 George Clooney honored as Venice Film Festival opens, in photos

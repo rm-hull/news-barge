@@ -13,6 +13,22 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY1M2MwZDYzLTU1YzAtNDU0NC05YmY5LWE1NzQzNGJkYmFiYzowNWZkY2E5ZC0wYTU5LTQ3MDQtODhjZC00ZDFkMjE2YzA4ZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- New York
+- UK
+- US
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Jacquelyn Martin
+- Keir Starmer
+- King
+organisations:
+- Oval Office
+- Royal Family
+- UN General Assembly
 ---
 
 # Andy Burnham’s first international test awaits when he meets Donald Trump

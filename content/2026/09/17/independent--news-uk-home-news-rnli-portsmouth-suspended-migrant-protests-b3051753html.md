@@ -11,6 +11,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Eastney
+- Ireland
+- Poole Old Lifeboat Museum
+- Portsmouth Lifeboat Station
+- UK
+people:
+- Adam McCaig
+- Peter Sparkes
+organisations:
+- Eastney RNLI
+- The Independent
 ---
 
 The RNLI has temporarily closed its Portsmouth station following anti-migrant protests in the city.

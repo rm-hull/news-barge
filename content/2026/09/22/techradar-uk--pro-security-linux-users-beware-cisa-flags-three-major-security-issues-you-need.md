@@ -10,6 +10,28 @@ description: Two flaws have available mitigations, too
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd-1920-80.jpg
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- ARP
+- Al Jazeera Balkans
+- CISA
+- CVE-2026-53266
+- DirtyAH6
+- FCEB
+- Federal Civilian Executive Branch
+- Google News
+- PPPoEject
+- Red Hat
+- Represent Communications
+- SNAT
+- TLS
+- TUNderflow
+- TechRadar Pro
+- US Cybersecurity and Infrastructure Security Agency
 ---
 
 ![Linux penguin logo on wood](https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd.jpg)

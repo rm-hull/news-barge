@@ -12,6 +12,20 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310678184.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- China
+- France
+- Norway
+- UK
+- US
+people:
+- Karen Filbee-Dexter
+- Pamela Walsh
+organisations:
+- Kelp Blue
+- Queen’s University Belfast
+- UN
+- University of Western Australia
 ---
 
 ![Kelp farmers harvest fresh kelp in China](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310678184.jpg?w=840)

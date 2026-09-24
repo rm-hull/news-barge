@@ -14,6 +14,23 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- B6265
+- Dairy Lane
+- Darley
+- Harrogate Magistrates' Court
+- Pateley Bridge
+- West Yorkshire
+people:
+- Bailey Chadwick
+- Joseph Henry Stott
+- Phil Morris
+organisations:
+- CPS
+- Crown Prosecution Service
+- Harrogate Magistrates' Court
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

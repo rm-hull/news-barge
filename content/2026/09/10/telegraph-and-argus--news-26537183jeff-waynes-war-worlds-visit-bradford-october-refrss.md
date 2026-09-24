@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Bradford Live
+- England
+- UK
+- West End
+people:
+- Jeff Wayne
+- Julie Covington
+- Kilimanjaro
+- Richard Burton
+organisations:
+- Bradford Live
+- West End
 ---
 
 *(Image: Bradford Live)*

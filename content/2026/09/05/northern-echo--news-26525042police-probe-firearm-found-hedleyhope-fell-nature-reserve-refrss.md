@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Outdoors & Nature
+locations:
+- County Durham
+- Hedleyhope Fell Nature Reserve
+- Tow Law
+people: []
+organisations:
+- Durham Constabulary
+- Durham Police
+- Hedleyhope Fell Nature Reserve
 ---
 
 *(Image: GOOGLE)*

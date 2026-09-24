@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brexit
+- Sweden
+- Sweden.
+- UK
+people:
+- Brexit
+- Håkan Svenneling
+- Johan Forssell
+- Joyce Thomas
+organisations:
+- BBC
+- EU Member States
+- Eurostat
+- Guardian
+- Migrationsverket
+- The Left Party
+- UK Foreign, Commonwealth & Development Office
+- Vänsterpartiet
 ---
 
 ![Joyce Thomas wears a blue jumper in a photo taken inside her home in Sweden.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6a79/live/19bda140-ab99-11f1-b26f-1588b95519ec.jpg)

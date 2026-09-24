@@ -15,6 +15,48 @@ image: https://cdn.mos.cms.futurecdn.net/JDT7HRuXaj2wJdyx9Ea3h6-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Arc Ultra
+- ChatGPT
+- Claude
+- Grok
+- Sonos
+- TikTok
+people:
+- Claude] Fable
+- Fox
+- Matt Bolton
+- Patrick
+- Siri
+- Spence
+- Ted Lasso
+- Tom Conrad
+- Tom Conrad:** Yeah
+organisations:
+- AI
+- API
+- Ace Ultra
+- App Intent
+- Apple
+- Arc
+- Beam Ultra
+- Cocteau Twins
+- Creative Bloq
+- Dolby Atmos
+- Dolby Vision
+- Edge
+- Fabric
+- Hermes
+- Home Tech
+- MCP
+- Matt
+- PC Gamer
+- Peloton
+- Sonos
+- Sonos'
+- T3
+- TechRadar
+- WWDC
 ---
 
 ![A headshot of Sonos CEO Tom Conrad on the left, on the right is a close-up of the Sonos logo on a pair of Sonos Ace headphones](https://cdn.mos.cms.futurecdn.net/JDT7HRuXaj2wJdyx9Ea3h6.jpg) 

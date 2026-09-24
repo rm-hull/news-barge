@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Darlington
+- King’s Church
+- North Yorkshire
+- UK
+- YOUR
+people:
+- Caroline Todd
+- Dawn Cussons
+- Taylor Wimpey
+organisations:
+- Harrogate District Foodbank
+- King’s Church Foodbank
+- Public Notice Portal
+- Public Notice Portal A
+- Taylor Wimpey North Yorkshire
 ---
 
 *(Image: Taylor Wimpey)*

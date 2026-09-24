@@ -13,6 +13,24 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- County Durham
+- Darlington
+- UK
+- US
+people:
+- Annabel Lee-Ellis
+- David Carbon
+organisations:
+- Amazon Prime
+- Civil Aviation Authority
+- Darlington
+- HMRC
+- PA Wire
+- Pot Noodle
+- Press Association
+- Prime Air
 ---
 
 ## Your next Amazon delivery could look very different as drone trials expand

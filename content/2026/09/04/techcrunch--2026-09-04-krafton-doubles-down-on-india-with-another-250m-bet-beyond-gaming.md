@@ -12,6 +12,33 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Beijing
+- India
+- New Delhi
+- South Korea
+people:
+- Chang Byung-gyu
+- Krafton
+- Narendra Modi
+organisations:
+- AI
+- BGMI
+- Battlegrounds Mobile India
+- KIGI Academy
+- Krafton
+- Krafton’s
+- Kuku FM
+- Loco
+- Mirae Asset
+- Nautilus Mobile
+- Naver
+- Nodwin Gaming
+- One Impression
+- PUBG Mobile
+- Pratilipi
+- Real Cricket
+- TechCrunch
 ---
 
 Krafton, the South Korean gaming company behind titles including PUBG and Battlegrounds Mobile India (BGMI), plans to invest another $250 million in India over the next three to four years as it pushes beyond gaming into AI, robotics, and deep tech.

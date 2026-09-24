@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bramall Lane
+- City How Ndiaye
+- Etihad Stadium
+- France
+- London
+- Merseyside
+- Senegal
+- Sheffield
+- toManchester Cityhas
+people:
+- '## Ndiaye'
+- Allan Elias
+- Ayyoub Bouaddi
+- Beto
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Geronimo Rulli
+- Iliman Ndiaye
+- Jack Grealish
+- James Garner
+- Jeremy Monga
+- Kiernan Dewsbury-Hall
+- Pierce Charles
+- Richarlison
+- Savio
+- Skiliman
+organisations:
+- Al-Hilal
+- Blades
+- Boreham Wood
+- Chelsea
+- Etihad
+- Everton
+- Hyde United
+- Iliman Ndiaye
+- Leicester City
+- Manchester City
+- Marseille
+- Ndiaye?
+- Premier League
+- Sheffield United
+- Spurs
+- Toffees
+- Tottenham
+- then-Premier League
 ---
 
 ![Iliman Ndiaye poses with Manchester City shirt after signing from Everton in a deal worth up to £65m](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/cc07/live/3b7bd6a0-a642-11f1-8c8e-6718c6924ee7.jpg)

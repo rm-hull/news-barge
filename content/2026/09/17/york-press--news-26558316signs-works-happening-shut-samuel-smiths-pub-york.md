@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - History
+locations:
+- A YORK
+- Alma Terrace
+- Fishergate
+- High Petergate
+- Simon Walton
+- York Minster
+people:
+- Brewery
+- Samuel Smith
+organisations:
+- The Press
+- The York Arms
+- Wellington Inn
+- York Arms
 ---
 
 *(Image: Simon Walton)*

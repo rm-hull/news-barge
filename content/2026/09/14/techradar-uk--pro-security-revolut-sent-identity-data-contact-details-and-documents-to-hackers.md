@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/Ji9MEgBv83riosWJLaNZGB-900-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Revolut
+- Sarajevo
+people:
+- Muhammad Yahya Patel
+- Revolut
+- Sead
+organisations:
+- Al Jazeera Balkans
+- BTC
+- Coin Bureau
+- Google News
+- Huntress
+- Represent Communications
+- Reuters
+- Revolut
+- TechCrunch
+- TechRadar Pro
+- Telegram
+- vCISO & Cybersecurity
 ---
 
 ![An outstretched hand holds a smartphone displaying the Revolut app](https://cdn.mos.cms.futurecdn.net/Ji9MEgBv83riosWJLaNZGB.jpg) 

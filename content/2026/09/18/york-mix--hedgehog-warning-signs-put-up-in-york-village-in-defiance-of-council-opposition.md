@@ -11,6 +11,25 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-councillor-christian-vassie-hedgehog-sign.webp
+locations:
+- Main Street
+- UK
+- Wheldrake
+- York
+people:
+- Christian Vassie
+- Cllr Vassie
+- Dave Atkinson
+- Gary Taylor
+organisations:
+- City of York Council
+- Department for Transport
+- Government
+- IUCN
+- Liberal Democrat
+- Red List of British Mammals
+- The International Union for Conservation of Nature’s
+- Wheldrake
 ---
 
 A councillor has defied opposition to the installation of signs warning drivers about hedgehogs on a York village’s roads by putting them up himself.

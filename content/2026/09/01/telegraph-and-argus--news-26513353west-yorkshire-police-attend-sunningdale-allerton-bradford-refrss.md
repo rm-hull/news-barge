@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Allerton
+- Bradford
+- Charlotte Ball
+- PA
+- Sunningdale
+- West Yorkshire
+people: []
+organisations: []
 ---
 
 *(Image: PA/Charlotte Ball)*

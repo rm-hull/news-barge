@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- OpenAI
+- US
+people:
+- Abigail Bradshaw
+- Andrew Hastie
+- Anthony Albanese
+- Chris Crozier
+- David Shoebridge
+- Jeff Bleich
+- Jenna Priestly
+organisations:
+- Anthropic
+- Australian Signals Directorate
+- Google
+- Greens
+- Labor
+- Microsoft Copilot
+- Office of AI
+- OpenAI
 ---
 
 When a man with a terminal illness wrote to his local MP Andrew Hastie, telling him he planned on ending his own life with voluntary assisted dying, Microsoft Copilot suggested Hastie reply with “congratulations!”, “great to hear from you” or “that is wonderful news!”.

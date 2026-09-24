@@ -12,6 +12,79 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Hampton
+- Hilton York
+- The Grand
+- The Milner York
+people:
+- Adrian Salamon
+- Andrew Wiggins
+- Andrew Woodhouse
+- Benjamin Henry
+- Brogan Newton
+- Catherine Gent
+- Charlotte Hansell
+- Chris Burton
+- Chris Nixon
+- Dan Atkins
+- Danny Finney
+- Fiona McCartney
+- Helen Curzon
+- Hilton York Margaret Rus
+- James Robson
+- Jason Curran
+- Julianne Tetreault
+- Margaret Rus
+- Radisson York Valentina Semeraro
+- Sora
+- Steve Varley
+- Stuart Clarke
+- Valentina Semeraro
+- York Marzena Ciachla
+- YorkMix Margaret Rus
+organisations:
+- Beata Piotrkowska
+- Betton Wines Hotel Team
+- City Cruises
+- Dean Court York Phoebe Pollard
+- Delta
+- Elmbank Hotel
+- HAY
+- HOD
+- Hilton York
+- Hilton York Piccadilly Bhawana Rai
+- Hilton York Poppy Frear
+- Hospitality Association York
+- Hotel Indigo
+- Hotel Indigo Owen Wren
+- Hotel Indigo Rekha Mamgain
+- Jobcentre Plus
+- Malmaison York Jobish Monachan Jaya
+- Malmaison York Mersim Asani
+- Marriott York
+- Middlethorpe Hall
+- Middletons Hotel
+- Middletons Hotel Ethan Storey
+- Middletons Hotel People Team
+- Middletons Hotel Poppy Frear
+- Middletons Hotel Valentina Semeraro
+- Milner York Brogan Newton
+- Novotel York Centre
+- People’s Choice
+- Radisson York Brogan Newton
+- Sparkle
+- Springboard
+- The Grand
+- The Milner York
+- The Milner York Eva Plaveniece
+- The Milner York Spa Team
+- The Queens Hotel
+- York College Alfie Malloy
+- York Distillery Edina Illes
+- York Sofiia Hordiienko
+- York St John University Aung Ko John
+- Yorkshire
 ---
 
 The York Hospitality Awards are back for 2026 – and you can have your say in your hospitality hero!

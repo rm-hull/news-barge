@@ -12,6 +12,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- Arizona
+- Bluffton
+- Florida
+- Goodyear
+- Lake Deaton Park
+- Orlando
+- South Carolina
+- Sunshine State
+- Tampa
+- The Villages
+- Wildwood
+people:
+- Jason McHugh
+- Wildwood
+organisations:
+- MoneyLion
+- U.S. Census Bureau
+- WESH
+- Wildwood
+- Zillow
 ---
 
 One American town is becoming a true retiree haven, and — no surprise — it's located in Florida.

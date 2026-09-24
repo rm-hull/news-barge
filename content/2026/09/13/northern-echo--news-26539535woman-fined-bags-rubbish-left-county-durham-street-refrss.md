@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bishop Auckland
+- Bridge Street
+- County Durham
+- NORTHERN ECHO
+- North East
+- Peterlee Magistrates’ Court
+- UK
+people:
+- Lauren Anne Watson
+organisations:
+- Cadbury
+- Durham County Council
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -11,6 +11,40 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/kXqL9dvgxPWw9eFAVHw3tZ-1920-80.jpg
+locations:
+- Australia
+- British Isles
+- Canada
+- States
+- UK
+- US
+people:
+- :** Lee
+- Abigail Cruttenden
+- Anna
+- Banksy
+- Ella
+- Frankie Goes
+- Hugh Dennis
+- Jakob Barnes
+- Lee Mack
+- Lucy
+- Nigel Planer
+- Sally Bretton
+- Toby
+organisations:
+- BBC One
+- BBC iPlayer
+- BBC iPlayer**
+- BritBox
+- FourFourTwo
+- Future Publishing
+- Golf Monthly
+- NordVPN
+- Pluto TV
+- TechRadar
+- Tom's Guide
+- UK TV
 ---
 
 ![Lee Mack and Sally Bretton in promotional image for Not Going Out](https://cdn.mos.cms.futurecdn.net/kXqL9dvgxPWw9eFAVHw3tZ.jpg)

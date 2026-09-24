@@ -14,6 +14,36 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/14/17/Engagement-overlays-2026-09-21T154840-799.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Holborn
+- Ireland
+- Liverpool
+- Manchester
+- Oxford
+- Portsmouth
+- St Pancras
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- John Curtice
+- John Rentoul
+- Kemi Badenoch
+- Mark Carney
+- Mark Rutte
+- Micheál Martin
+- Nigel Farage
+- Tony Blair
+- Volodymyr Zelenskyy
+- Zack Polanski
+organisations:
+- All Access
+- Budget
+- Everton
+- Greens
+- Ipsos
+- Labour
+- Reform UK
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

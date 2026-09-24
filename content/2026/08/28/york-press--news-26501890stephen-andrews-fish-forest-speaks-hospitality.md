@@ -13,6 +13,29 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Driffield
+- Fish and Forest
+- Grape Lane
+- NQ
+- TOP York
+- UK
+people:
+- Janice Robinson
+- Redmond Nichols Butler
+- Sam
+- Stephen Andrews
+- Ted Hustler
+organisations:
+- Fish & Forest
+- Fish and Forest Ltd
+- Frango Eduardo Ltd
+- House
+- Michelin-listed Fish and Forest
+- Muddy Bears Ltd
+- Pic
+- TV’s Masterchef
+- The Press
 ---
 
 ## 'It's brutal!' - top York chef speaks on liquidation and restructure of restaurant

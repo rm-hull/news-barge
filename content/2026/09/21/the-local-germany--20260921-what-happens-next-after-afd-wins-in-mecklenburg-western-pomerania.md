@@ -13,6 +13,33 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260920__C8U78C2__v1__HighRes__GermanyPoliticsElectionStatesMecklenburgWestern.jpg@webp
+locations:
+- Berlin
+- Federal Republic
+- Germany
+- Greifswald
+- Mecklenburg-Western Pomerania
+- Neubrandenburg
+- Rostock
+- Schwerin
+- Wismar
+people:
+- Groß Luckow
+- Manuela Schwesig
+- Merz
+organisations:
+- AfD
+- Alternative for Germany
+- BSW
+- CDU
+- Die Linke*)
+- FDP
+- Greens
+- Left Party
+- MV
+- SPD
+- Sahra Wagenknecht Alliance
+- The Left
 ---
 
 Sunday's state election in Mecklenburg-Western Pomerania (MV) delivered one of the most striking results seen in German regional politics for years.

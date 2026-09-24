@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/20777781.jpg?type=og-image
+locations:
+- Durham Beloved Hartlepool
+- Durham Road
+- Spennymoor
+people:
+- Charlie Hunnam
+- Kyle V Food
+organisations:
+- Chinese Buffet & Bar
+- Fortune Inn
+- Kyle V Food
+- Summer Places Chinese Buffet & Bar
 ---
 
 A Chinese restaurant in Spennymoor has reopened under new owners after closing over a poor food hygiene rating.

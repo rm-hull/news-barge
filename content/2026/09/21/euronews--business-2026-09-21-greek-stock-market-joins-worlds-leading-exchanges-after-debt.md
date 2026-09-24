@@ -11,6 +11,45 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/09/91/480x270_cmsv2_f98d9b62-4cfa-5ad1-b38c-72d5183033a3-9920991.jpg
+locations:
+- Athens
+- Europe
+- Greece
+- Paris'
+- Philadelphia
+- Temple University Hospital
+people:
+- Christine Weick
+- Jesus
+- Keyshla Rivera
+- Klaus Zellmer
+- Kyriakos Pierakakis
+- Yianos Kontopoulos
+organisations:
+- Alpha Bank
+- Athens Exchange Group
+- Athens Stock Exchange
+- Baa3
+- Euro2day
+- Eurobank
+- Euronext Athens
+- FTSE Russell
+- FTSE Russell’s
+- FTSE’s
+- GEK Terna
+- Jumbo
+- Metlen —
+- Moody’s
+- Motor Oil
+- National Bank of Greece
+- New York International Auto Show
+- PPC
+- Piraeus Bank
+- Piraeus Securities
+- Porsche Cars North America
+- STOXX
+- Scope Ratings
+- TotalEnergies
 ---
 
 ## The Greek stock market joined FTSE Russell’s developed-market group on Monday, potentially attracting more international investment, while recent credit rating upgrades reflect the country’s improving public finances.

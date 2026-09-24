@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Bradford Crown Court
+- Keighley
+- Lancashire
+- North Yorkshire
+- West Yorkshire Police
+people:
+- '![Iqbal'
+- Helen Chapman
+- Iyaz Iqbal
+organisations:
+- Bradford Crown Court
+- Operation Phoenix
 ---
 
 # Bradford drug dealer jailed after £15,000 of heroin and crack cocaine found in vehicle

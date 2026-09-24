@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bergheim
+- Berlin
+- Brandenburg
+- Cologne
+- Dormagen
+- Dusseldorf
+- Ganderkesee
+- Germany
+- Goerlitz
+- Halle Airport
+- Leipzig
+- Mitte
+- Moscow
+- Niederrhein
+- North Rhine-Westphalia
+- Russia
+- Saxony
+- Ukraine
+- Wesel
+- West
+- Western Europe
+people:
+- Alexander Dobrindt
+- Herbert Reul
+- Natia Seskuria
+- Putin
+organisations:
+- Bild am Sonntag
+- NATO
+- RUSI
+- Royal United Services Institute
+- The Independent
 ---
 
 Police are investigating a fire and an apparent break-in at power substations across Germany, further escalating security concerns over a series of sabotage attacks on the power grid.

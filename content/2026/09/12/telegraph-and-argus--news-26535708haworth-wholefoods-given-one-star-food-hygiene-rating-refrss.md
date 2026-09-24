@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - Health & Fitness
 - Food & Cooking
+locations:
+- Bradford
+- Haworth
+- Main Street
+people: []
+organisations:
+- Google Maps
+- Haworth Wholefoods
+- T&A
 ---
 
 *(Image: Google Maps)*

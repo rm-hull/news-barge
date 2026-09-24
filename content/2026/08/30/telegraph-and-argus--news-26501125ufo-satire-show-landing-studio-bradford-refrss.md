@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Bradford
+- UK
+people:
+- Ms Holt
+- Rosie Holt
+organisations:
+- Bradford Theatres'
+- King's Hall
+- The Studio
 ---
 
 *(Image: Submit)*

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- County Durham
+- Hartlepool
+- Kesteven Road
+- North East
+- Peterlee Magistrates’ Court
+- Spennymoor
+- Station Town
+people:
+- Logan Carroll
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

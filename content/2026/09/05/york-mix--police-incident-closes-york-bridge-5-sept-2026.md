@@ -12,6 +12,13 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- North Street
+- Ouse Bridge
+- Skeldergate
+- York Rescue Boat
+people: []
+organisations: []
 ---
 
 A police incident has closed a York bridge tonight (Saturday).

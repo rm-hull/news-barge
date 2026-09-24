@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Bradford
+- Shipley
+- UK
+people:
+- Baani Kaur
+- Reuben Singh
+organisations:
+- CALL-HANDLING
+- CallCare
+- Google Street View
+- Isher Capital
+- Shipley
+- Your Business Voice
+- iCXperience
 ---
 
 *(Image: Google Street View)*

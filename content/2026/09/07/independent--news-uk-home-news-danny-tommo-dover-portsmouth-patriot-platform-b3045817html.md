@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Dover
+- Essex
+- France
+- Hampshire
+- Leicester
+- London
+- Normandy
+- North West’
+- Portsmouth
+- UK
+people:
+- Dan Wootton
+- Daniel Thomas
+- Danny Tommo
+- God
+- Mr Thomas
+- Ryan Bridge
+- Stephen Yaxley-Lennon
+- Thomas’
+- Tommy Robinson
+- William Mousley QC
+organisations:
+- Black Country
+- Coventry Patriots
+- EDL
+- English Channel
+- Patriot Platform
+- Portsmouth Crown Court
+- Raise the Colours
+- Royal Hussars
+- Staffordshire Patriots
+- Swindon Patriots
+- The Telegraph
+- Ukip
+- ex-English Defence League
 ---
 
 “Something is about to go down and it’s about to send a f***ing shockwave,” said Danny Tommo, real name Daniel Thomas, in a firm rallying call to dozens of white men assembled in a housing estate park.

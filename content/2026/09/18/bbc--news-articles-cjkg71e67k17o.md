@@ -14,6 +14,39 @@ categories:
 - Society & Culture
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33a2/live/be22b180-b3a0-11f1-a430-4d16ee157c41.jpg
+locations:
+- Amnesty
+- Clayville
+- Dawn Park
+- Ekurhuleni
+- Gabon
+- Johannesburg
+- Kempton Park
+- KwaThema
+- Morocco
+- Olifantsfontein
+- South Africa
+people:
+- Cyril Ramaphosa
+- Dineo Motapane
+- Itumeleng Kekana
+- Lebogang Ramofoko
+- Lerato Mzizi
+- Lumka Maqhubela
+- Nokuzola Sisisi Tolashe
+- Nokwanda Matshikiza
+- Shenilla Mohamed
+- Themba Kekana
+- Thembi Mabena
+- Thulisile Sibande
+organisations:
+- Amnesty International
+- BBC News Africa
+- Femicide
+- G20
+- Girl2Woman Foundation
+- Human Rights Commission
+- Social Development
 ---
 
 'We are dying': Aunt of murdered woman pleads for action on femicide

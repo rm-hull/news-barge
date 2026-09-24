@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469713.jpg?type=og-image
+locations:
+- Chatsworth House
+- Hotel St George
+- Kenwood Hall
+- Kenwood Hall Hotel
+- Kenwood Road
+- Peak District
+- Sheffield
+- Spa
+people:
+- Alison
+- George Wostenholm
+- Molly
+- Ruth
+organisations:
+- Kenwood Hall Hotel
+- Kenwood Ltd
+- Mercure Sheffield Kenwood Hall Hotel
+- Spa
+- Vine Hotel Group
 ---
 
 THEY had me at ‘hot stones’. Invited to a spa package break at Kenwood Hall, I browsed the treatment options and decided that heated volcanic rocks would be just the thing to de-stress with.

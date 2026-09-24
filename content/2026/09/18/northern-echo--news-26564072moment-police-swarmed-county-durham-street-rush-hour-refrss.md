@@ -13,6 +13,18 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Albert Road
+- Consett
+- County Durham
+- Front Street
+- Joshua Nichol
+- Medomsley Road
+- Subway
+people:
+- Joshua Nichol
+organisations:
+- Durham Police
 ---
 
 Police cordoned off a County Durham high street on Friday afternoon with officers seen sweeping the road as part of an "ongoing investigation".

@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Britain
+people:
+- Will Tullett
+organisations:
+- Commons
+- University of York
 ---
 
 Children need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their wellbeing and help them understand the world around them.

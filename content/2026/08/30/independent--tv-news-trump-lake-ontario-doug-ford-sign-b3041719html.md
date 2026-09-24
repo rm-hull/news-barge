@@ -19,6 +19,63 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Arsenal
+- Buckingham Palace
+- Canada
+- Clacton
+- Dublin
+- England
+- Iran
+- Israel
+- Italy
+- Lake America
+- Lake Ontario
+- London
+- Maldives
+- Man City
+- Man United
+- Mauritius
+- Nepal
+- New York
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- Carlos Baleba
+- Count Binface
+- David Miliband
+- Donald Trump
+- Doug Ford
+- Ed Gamble
+- Elizabeth Davies
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Zelensky
+organisations:
+- Arsenal
+- Count Binface
+- Farage
+- Lake Ontario’
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Trump
 ---
 
 ## Showing now | News

@@ -12,6 +12,19 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Australia
+- France
+- Hartlepool
+- US
+people:
+- Matthew Blades’
+- PC Blades
+- Tom Clough
+organisations:
+- Cleveland Police
+- PC Blades’
+- Police Federation
 ---
 
 *(Image: Unknown)*

@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- HMP Millsike
+- UK
+- York
+- York.
+people:
+- Mitie
+- Pariser
+- Paul Newton
+- Rebecca Major
+- Sarah Mallander
+organisations:
+- Government
+- HM Prison and Probation Service
+- HMP Full Sutton
+- HMP Millsike
+- Heathrow Immigration Removal Centre
+- IMB
+- Independent Monitoring Board
+- Ministry of Justice
+- Mitie Care & Custody”
+- MoJ
 ---
 
 # HMP Millsike: super prison's opening was 'unsafe' and empty cells continue over 'chronic shortage of staff'

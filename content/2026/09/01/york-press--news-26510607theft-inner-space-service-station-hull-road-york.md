@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Hull Road
+- Inner Space Service Station
+- York
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

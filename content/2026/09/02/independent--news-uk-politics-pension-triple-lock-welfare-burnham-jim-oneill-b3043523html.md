@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Downing Street
+- Greater Manchester
+- Iran
+- UK
+people:
+- Andy Burnham
+- Jim O’Neill
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Lord O’Neill
+- Mr Burnham
+- Zubir Ahmed
+organisations:
+- BBC’s Politics Live
+- Budget
+- Labour
+- PMQs
+- Reform
+- Times Radio
+- Tory
+- Treasury
 ---
 
 Andy Burnham has been urged to reduce spending on the pensions triple lock or welfare as the fallout from the Iran war continues to hit the economy.

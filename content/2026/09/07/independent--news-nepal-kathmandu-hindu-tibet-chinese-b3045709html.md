@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- Bhotekhoshi
+- China
+- India
+- Kathmandu
+- Nepal
+- South Korea
+- Tibet
+- United States
+people: []
+organisations: []
 ---
 
 Nepal held a day of mourning Monday to remember people who died in the Aug. 26 floods with government offices lowering flags and family members concluding mourning rituals.

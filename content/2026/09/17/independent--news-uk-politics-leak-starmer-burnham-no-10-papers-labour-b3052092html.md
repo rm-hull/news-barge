@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Downing Street
+- Greater Manchester
+- North Sea
+- Rosebank
+- UK
+people:
+- Andrew Bowie
+- Andy Burnham
+- John McTernan
+- Keir Starmer
+- Rachel Millward
+- Robert Jenrick
+- Tony Blair
+organisations:
+- AI
+- Commons
+- Green
+- Jackdaw
+- Labour
+- Sky News
+- Starmer
+- TikTok
+- Treasury
 ---
 
 Leaked Downing Street papers reveal the strategy drawn up to save Keir Starmer’s premiership – and show that a number of the ideas proposed have been adopted by his successor Andy Burnham.

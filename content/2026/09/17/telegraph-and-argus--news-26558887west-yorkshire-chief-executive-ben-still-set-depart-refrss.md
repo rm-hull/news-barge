@@ -12,6 +12,25 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Essex
+- London
+- Thames Freeport
+- UK
+- West Yorkshire
+people:
+- Ben Still
+- Ruth Kelly
+- Tracy Brabin
+organisations:
+- )* WEST Yorkshire
+- Combined Authority
+- Mayoral Combined Authority
+- Mayoral Strategic Authorities
+- Thames Freeport
+- WYCA
+- Weaver Network
+- West Yorkshire Combined Authority
 ---
 
 *(Image: Supplied)*

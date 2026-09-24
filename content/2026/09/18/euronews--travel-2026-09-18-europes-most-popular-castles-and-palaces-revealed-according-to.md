@@ -13,6 +13,68 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Alhambra
+- Austria
+- Bavaria
+- Bavarian Alps
+- Buckingham Palace
+- Budapest
+- Castile
+- England
+- Esterházy Palace
+- Europe
+- France
+- Germany
+- Golden Lane
+- Granada
+- Kraków
+- London
+- Nasrid Palaces
+- Neuschwanstein Castle
+- Old Royal Palace
+- Palace of Versailles
+- Poland
+- Prague Castle
+- Romania
+- Royal Palace of Madrid
+- Schwangau
+- Schönbrunn Palace
+- Spain
+- St Vitus Cathedral
+- Transylvania
+- Vienna
+- Wawel Castle
+people:
+- Anne Boleyn
+- Bran Castle
+- Edward V
+- Gasparini
+- Louis XIV
+- Ludwig II
+- Swan King”
+- Yeoman Warders
+organisations:
+- Buckingham Palace
+- Buda Castle
+- Changing of the Guard
+- Crown Jewels
+- Czechia
+- Duke of York
+- European Travel Commission
+- Google
+- Hall of Mirrors
+- Neuschwanstein Castle
+- Palace of Charles V
+- Palace of Versailles
+- Prague Castle
+- Schönbrunn Palace
+- TUI Musement
+- Tower of London
+- Tripadvisor
+- United Kingdom
+- Wawel Castle
+- World Heritage Site
 ---
 
 ## From Prague Castle to Dracula’s fortress in Romania, these are the European palaces and castles attracting the most attention from travellers in 2026.

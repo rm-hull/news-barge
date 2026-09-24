@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Bradford
+- Manchester
+- Saxton Avenue
+- West Yorkshire
+people:
+- Chantel Markham
+organisations:
+- Bradford Council-run
+- Saxton Avenue Children's Home
+- The Acres
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

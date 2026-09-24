@@ -13,6 +13,29 @@ categories:
 - Home, Garden & DIY
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407888.jpg?type=og-image
+locations:
+- Lake Windermere
+- Langdale Chase
+- Lister Farmhouse
+- Malham Cove
+- Thwaites
+- Yorkshire
+people:
+- Jane Goff
+- Janet’s Foss
+- Mick Horan
+- Rick Bailey
+organisations:
+- Goff Associates
+- Gordale Scar
+- Lister Arms
+- Lister Barn
+- Malham Tarn
+- The Buck
+- The Lister Arms
+- Thwaites
+- Yorkshire Dales
+- Yorkshire Dales’
 ---
 
 *(Image: Submitted)*

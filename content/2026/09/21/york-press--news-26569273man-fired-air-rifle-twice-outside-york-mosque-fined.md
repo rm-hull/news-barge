@@ -12,6 +12,13 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21483309.jpg?type=og-image
+locations:
+- David Harrison
+- York Mosque
+people:
+- Ian Peart
+organisations:
+- The Herald
 ---
 
 Ian Peart fired an air rifle outside York Mosque (Image: David Harrison)

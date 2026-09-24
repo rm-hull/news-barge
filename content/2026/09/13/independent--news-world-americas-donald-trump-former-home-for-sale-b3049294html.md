@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- DC
+- Jamaica Estates
+- Manhattan
+- New York
+- Oval Office
+- Queens
+- Washington
+- White House
+people:
+- Donald Trump
+- Fred Trump
+- Tommy Lin
+organisations:
+- Airbnb
+- New York Post
+- Oval Office
+- Trump Birth Home LLC
+- Trump Tower
+- Zillow
 ---
 
 The former childhood home of Donald Trump has sold for nearly $2 million after a renovation project on the mold-ridden cat den.

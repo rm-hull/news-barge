@@ -11,6 +11,77 @@ image: https://cdn.mos.cms.futurecdn.net/SZnn5yQJGm5qDnY6dTjnK5-932-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Anfield
+- Australia
+- CA
+- Canada
+- Glastonbury
+- Ireland
+- Liverpool
+- Merseyside
+- Portman Road
+- UK
+- US
+- USA
+- canada
+people:
+- :** Alisson
+- Alexander Isak
+- 'Alvarez ## Watch Liverpool'
+- Andoni Iraola
+- Andy Murray
+- Atleti
+- Baena
+- Barrios
+- Bradley Barcola
+- Colchonero
+- Diego Simeone
+- G. Simeone
+- Hancko
+- Isak **Atletico Madrid XI:** Oblak
+- Jacquet
+- Julian Alvarez
+- Kang-in
+- Kerkez
+- Koke
+- Llorente
+- Mac Allister
+- Ngumoha
+- Pubill
+- Radiohead
+- Romero
+- Ronald Araujo
+- Szoboszlai
+- Van Dijk
+- Wirtz
+organisations:
+- '## Liverpool'
+- AU
+- Athletic Bilbao
+- Atletico Madrid
+- Barcelona
+- DAZN
+- FourFourTwo
+- Future Publishing
+- Ipswich
+- Iraola
+- La Liga
+- Liverpool XI
+- Newcastle
+- Nottingham Forest
+- PSG
+- Paramount
+- Premier League
+- RTE Player
+- Reds
+- Stan Sport
+- TNT Sports
+- TechRadar
+- UCL
+- UseNordVPNto
+- Virgin Media
+- Walmart
 ---
 
 ![Alexander Isak, wearing the red of Liverpool, looks ahead at the ball during a match.](https://cdn.mos.cms.futurecdn.net/SZnn5yQJGm5qDnY6dTjnK5.jpg) 

@@ -15,6 +15,19 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Ballymahon
+- County Offaly
+- Europe
+- Ireland
+- Screggan
+- Tullamore
+people: []
+organisations:
+- EU
+- Mercy Secondary School
+- Porsche
+- Ronald McDonald House Charities Ireland
 ---
 
 The 95th edition took place at Screggan, near Tullamore in County Offaly, from **15 to 17 September**, drawing more than** 350 competitors**and** tens of thousands of visitors** from Ireland and across the EU.

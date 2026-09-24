@@ -10,6 +10,24 @@ image: https://static.independent.co.uk/2026/06/20/03/Grand_Canyon-Hikers_Dead_7
 categories:
 - News & Politics
 - UK
+locations:
+- Bright Angel Canyon
+- Bright Angel Creek
+- Bright Angel Creek Basin
+- Canyon-Hikers
+- Dragon Bravo Fire
+- Grand Canyon
+- Grand Canyon National Park
+- Grand Canyon Village
+- North Kaibab Trail
+- Phantom Ranch
+people: []
+organisations:
+- American Red Cross
+- Grand Canyon High School
+- NPS
+- National Park Service
+- National Weather Service
 ---
 
 Dozens of people were evacuated over the weekend from Grand Canyon National Park after flash floods inundated parts of the park.

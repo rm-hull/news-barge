@@ -14,6 +14,34 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Church Fenton
+- Helmsley
+- Lake District
+- North Yorkshire.
+- Pignut
+- Rafters
+- Scawton
+- Sheffield
+- The Hare
+- The Rattle Owl
+- UK
+- York
+people:
+- Dan
+- Daniel Conlon
+- Gordon Ramsay
+- Laura Reid
+- Laurissa
+- Tom Heywood
+organisations:
+- Capital City College
+- Le Cordon Bleu Cookery School
+- Michelin Guide
+- Pignut & The Hare
+- Rafters Restaurant
+- Sheffield College
+- Yorkshire
 ---
 
 # 'I enjoy the role restaurants play in people's lives': Tom Heywood of Pignut & The Hare and Daniel Conlon of Rafters reach final of Chef of the Year competition

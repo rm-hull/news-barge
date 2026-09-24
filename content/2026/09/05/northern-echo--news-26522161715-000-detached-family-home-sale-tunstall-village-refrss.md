@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- InSinkErator
+- ROBIN JESSOP LTD
+- Ricksholme
+- Tunstall
+people: []
+organisations:
+- Robin Jessop Ltd
 ---
 
 BUILT just two years ago, Ricksholme is a substantial detached family home with a handsome stone facade behind which lies a wealth of spacious and versatile accommodation that combines high-quality craftsmanship and stylish finishes.

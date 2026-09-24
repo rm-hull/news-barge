@@ -13,6 +13,21 @@ categories:
 - Science
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- California
+- China
+- Santa Clara
+- US
+- Washington
+people:
+- Donald Trump
+- Jensen Huang
+organisations:
+- AI
+- Bloomberg Law
+- Business Insider
+- Hugging Face
+- Nvidia PAC
 ---
 
 President Donald Trump interrupted Nvidia’s all-hands staff meeting on Thursday morning when he called CEO Jensen Huang midway through, three sources who witnessed the interaction tell WIRED.

@@ -14,6 +14,25 @@ categories:
 - Hardware
 - Video Gaming
 - Business & Entrepreneurship
+locations:
+- Amazon
+people:
+- Louis Huang
+- Mark Tyson
+- Tom
+- Tom’s Hardware
+organisations:
+- Adruview
+- Arduboy
+- Babson College
+- C64U
+- Commodore
+- Get Tom's Hardware
+- Google News
+- Kickstarter
+- Microsoft
+- Seeed Studio
+- Tom's Hardware
 ---
 
 ![Arduview transparent handheld game console](https://cdn.mos.cms.futurecdn.net/X7eyARPbW4bJH4csiTPsXQ.jpg) 

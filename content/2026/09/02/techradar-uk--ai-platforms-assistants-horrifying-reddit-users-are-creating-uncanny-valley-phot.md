@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/rxKBKeVyJtg4W64aeDxhRF-1537-80.png
 categories:
 - Technology & Software
 - Self-Improvement
+locations: []
+people:
+- David Lynch
+- Reddit
+organisations:
+- Becca
+- Bonnier Books
+- ChatGPT
+- Google News
+- Inverse
+- New Scientist
+- Reddit
+- TechRadar
+- The Guardian
+- VR
+- Wired
 ---
 
 ![An image created with ChatGPT with the prompt make an image that gives off uncanny valley](https://cdn.mos.cms.futurecdn.net/rxKBKeVyJtg4W64aeDxhRF.png) 

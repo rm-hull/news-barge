@@ -13,6 +13,33 @@ image: https://static.independent.co.uk/2026/09/14/00/Iran_US_AEA_96_34.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Austria
+- Britain
+- France
+- Germany
+- Iran
+- Israel
+- Middle East
+- Tehran
+- U.S.
+- United States
+- Vienna
+- West
+people:
+- Mohammad Eslami
+organisations:
+- AP
+- Associated Press
+- Atomic Energy Organization
+- Eslami
+- General Conference
+- IAEA
+- IRNA
+- International Atomic Energy Agency
+- U.N
+- U.N.
+- United Nations
 ---
 
 The head of Iran’s Atomic Energy Organization is not expected to attend the annual gathering of the U.N. nuclear watchdog’s member nations in Vienna for the first time in years because he is banned from international travel, an official briefed on the matter said.

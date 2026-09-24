@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Food & Cooking
+locations:
+- Fodder Café
+- Great Yorkshire Showground
+- Harrogate
+- UK
+people:
+- Leesa Collinge
+- Vanessa Pitt
+organisations:
+- Coffee Brothers
+- Fodder Manager
+- Rant & Ramble
+- Romi Foxx
 ---
 
 ![](https://mmo.aiircdn.com/409/6a91395850ed94d8cbf.jpg) 

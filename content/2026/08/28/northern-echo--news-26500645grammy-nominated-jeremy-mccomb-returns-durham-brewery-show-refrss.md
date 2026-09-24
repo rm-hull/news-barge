@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Britain
+- County Durham
+- Manchester
+- Nashville
+- Newton Aycliffe
+- North East
+- UK
+people:
+- Gary Quinn
+- Gulen Smith
+- Jeremy McComb
+- Scarlett Moffatt
+organisations:
+- French Connection
+- Steam Machine Brewing Company
+- Ticketpass
 ---
 
 A Grammy-nominated Nashville singer-songwriter will return to County Durham very soon.

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Puerto Rico
+- San Juan
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Jennifer Homendy
+- Julio C. Pineda
+- Ridoel Averhoff Diaz
+- Rolando Aleman Leon
+- Roosevelt Sebastian Perdomo Torres
+- Yoel Rodriguez Naranjo
+organisations:
+- 21 Air
+- CBS News Miami
+- Miami International Airport
+- NTSB
+- National Transportation Safety Board
 ---
 
 One of the pilots of the Amazon cargo plane that overshot a runway at Miami International Airport warned they were going too fast for landing, the National Transportation Safety Board has said.

@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Dario Amodei
+- Jacob Coxon
+- Kai Chen
+- OpenAI
+- Sam Altman
+- Trump
+organisations:
+- AI
+- Anthropic
+- Artifactory
+- Astra
+- OpenAI
+- WIRED
 ---
 
 OpenAI announced a new framework on Wednesday for how it publicly discloses AI misalignment incidents, which the company says it hopes will help inform similar standards across the industry. The company is also releasing new information about several examples of AI model misalignment it identified in the past year.

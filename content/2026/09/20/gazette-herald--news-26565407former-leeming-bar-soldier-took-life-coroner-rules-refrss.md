@@ -15,6 +15,21 @@ categories:
 - Health & Fitness
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21467448.jpg?type=og-image&xType=0&yType=0
+locations:
+- Afghanistan
+- Darlington Memorial Hospital
+- Iraq
+- Leeming Bar
+- Northallerton Coroner's Court
+people:
+- Caitlin
+- Gill Kane
+- Rufus Barraclough
+- Scott James McNeice
+organisations:
+- Armed Forces Para Snowsports Team
+- Army Nursing Corps
+- Team UK
 ---
 
 An Afghanistan and Iraq veteran and medal-winning para-athlete took his own life after struggling with his mental health, an inquest heard.

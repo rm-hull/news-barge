@@ -12,6 +12,33 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21483626.jpg?type=og-image
+locations:
+- '## York'
+- 29 States
+- A York
+- Clifford's Tower
+- Huddersfield
+- India
+- North of England
+- Pusa
+- Wetherby
+- Yorkshire
+people:
+- Jaswant Mehra
+- Yasmin Mahmood
+organisations:
+- 29 States
+- Bengal Lounge
+- Bombay Spice
+- Browns Sheffield
+- Holiday Inn
+- Institute of Hotel Management
+- North Yorkshire
+- Radisson Blu Leeds
+- Taj Hotels
+- The Indian Kitchen
+- The Ivy York
+- Zizzi
 ---
 
 ## York restaurant named best in Yorkshire at Northern England Curry Awards

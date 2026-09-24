@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations: []
+people: []
+organisations:
+- CIJ
+- CSJ
+- Centre for Social Justice
+- Generation Z
+- Merlin Strategy
+- Office for National Statistics
 ---
 
 Generation Z employees are more likely to pull a sickie compared to workers aged over 55, a new poll has suggested.

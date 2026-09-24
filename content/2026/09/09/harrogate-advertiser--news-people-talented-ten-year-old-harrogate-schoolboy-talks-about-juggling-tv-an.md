@@ -15,6 +15,35 @@ categories:
 - Harrogate
 - Film & TV
 - Arts & Culture
+locations:
+- Birmingham
+- Cardiff
+- Harrogate
+- London Underground
+- New York
+- Shipley
+- Tube
+people:
+- Andy Serkis
+- Bon Cooper
+- Christian Stevens
+- Ed
+- God
+- Jack Thorne
+- Kevin Spacey
+- Lord of the Rings
+- Mischief
+organisations:
+- Articulate Agency
+- BBC TV
+- Bon’s CV
+- Brackenfield School
+- Buffalo Film Fest
+- Harrogate Advertiser
+- Lord of The Flies
+- Tesco Club Card
+- The Tenth Planet
+- multi-BAFTA
 ---
 
 # Talented ten-year-old Harrogate schoolboy talks about juggling TV and film roles with schoolwork

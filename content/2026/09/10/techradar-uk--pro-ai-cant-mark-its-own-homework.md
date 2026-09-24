@@ -9,6 +9,16 @@ description: Independent visual assurance prevents AI-generated software blind s
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people: []
+organisations:
+- AI
+- Future plc
+- QA
+- T-Plan
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Beanlands Parade
+- Cromwheel
+- Ilkley
+- River Wharfe
+people: []
+organisations:
+- Bradford Council
+- Environment Agency
 ---
 
 *(Image: Supplied)*

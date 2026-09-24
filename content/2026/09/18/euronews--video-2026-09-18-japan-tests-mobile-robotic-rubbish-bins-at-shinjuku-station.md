@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- East Japan Railway
+- Japan Railway
+- Shinjuku Station
+people:
+- Shinjukuma
+organisations: []
 ---
 
 **Three automated bins** are being trialled at**Shinjuku Station**, where more than** 2.7 million passengers**pass through the wider complex each day. Standing just over one metre tall and moving at a cautious** 20 centimetres per second**, the machines can stop quickly around passengers. The trial began on** 8 September**and runs until** 20 November** on weekdays between 10:00 and 17:00 on the first basement-level paid concourse.

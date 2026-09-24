@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Goodramgate
+- Isla
+- UK
+- York
+people:
+- Dom
+- Dom&Ink
+- Isla Coole
+- Juno Dawson
+- York
+organisations:
+- '***YorkMix***'
+- CGB
+- Colliergate
+- Criminally Good Books
+- Goodramgate
+- HGB
+- Isla
+- Merchant Adventurers’ Hall
+- YCT
 ---
 
 More details have been revealed about York’s upcoming new horror book shop – and they’re spine-tingling thrilling.

@@ -14,6 +14,15 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Kovpakivskyi
+- Odesa
+- Russia
+- Sumy
+- Zarichnyi
+people: []
+organisations:
+- State Emergency Service
 ---
 
 In Odesa, a drone attack after midday killed one man and set garages ablaze, damaging nearby homes and cars. A second strike later hit a 19-storey apartment building, injuring three people, including a child. Footage from the State Emergency Service showed firefighters tackling burning debris and working around damaged buildings.

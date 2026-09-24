@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people:
+- Lori Chavez-DeRemer
+organisations:
+- Labor
+- Office of Inspector General
 ---
 
 Internal watchdog report: Former Labor Secretary oversaw hostile work environment, misused funds

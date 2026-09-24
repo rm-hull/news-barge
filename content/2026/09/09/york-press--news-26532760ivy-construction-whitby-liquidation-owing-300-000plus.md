@@ -13,6 +13,19 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Central
+people:
+- Jason Paul Draper
+organisations:
+- Begbies Traynor
+- Companies House
+- HMRC
+- Ivy Construction Limited of Armandene
+- LLP
+- PAYE
+- Stainsacre Lane
+- Whitby
 ---
 
 *(Image: PA)*

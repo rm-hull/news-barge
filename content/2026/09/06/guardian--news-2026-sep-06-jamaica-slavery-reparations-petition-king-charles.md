@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Americas
+- Antigua
+- Barbados
+- Britain
+- Brixton
+- Caribbean
+- Grenadines
+- Jamaica
+- London
+- St Vincent
+- UK
+people:
+- Bob Marley
+- Charles
+- Keir Starmer
+- Melissa
+- Olivia Grange
+- Ralph Gonsalves
+organisations:
+- British Museum
+- Caribbean Community Reparations Commission
+- Commonwealth
+- Guardian
+- National Council on Reparations
+- UN
 ---
 
 A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said.

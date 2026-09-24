@@ -15,6 +15,24 @@ categories:
 - History
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/23/14/08/GettyImages-2228649239.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- D.C.
+- East Wing
+- Sharpie
+- White House
+people:
+- Donald Trump
+- James McCrery II
+organisations:
+- Commission of Fine Arts
+- Executive Residence
+- General Services Administration
+- National Park Service
+- People’s House
+- Supreme Court
+- The Independent
+- The Washington Post.
+- Trump
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

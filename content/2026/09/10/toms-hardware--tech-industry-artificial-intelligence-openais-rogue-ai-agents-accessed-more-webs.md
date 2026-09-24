@@ -15,6 +15,31 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Austin
+- California
+- Iowa
+- Massachusetts
+- San Fransisco
+- Virginia
+people:
+- Andrew Yoon
+- Anton Shilov
+- Kenneth Russell DeGraff
+- Tom
+organisations:
+- AGI
+- AI
+- CivAI
+- DseWiki
+- Google News
+- Microsoft Azure
+- OpenAI
+- Reuters
+- Sydney Von Arx
+- Tom’s Hardware
+- University of Toronto
+- Vanderbilt University
 ---
 
 ![OpenAI](https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT.jpg) 

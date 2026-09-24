@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg
+locations:
+- New England
+- New York
+- US
+people:
+- Greg Abel
+- Howard Buffett
+- Warren Buffett
+organisations:
+- Apple
+- BNSF
+- Berkshire Hathaway
+- Coca-Cola
+- Dairy Queen
+- GEICO
 ---
 
 ![Warren Buffett listens as his son Howard Buffett speaks during an interview in New York on 22 October 2013. ](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg)

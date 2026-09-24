@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hereford Justice Centre
+- Hereford Magistrates' Court
+- Herefordshire
+- London
+people:
+- Digings JP
+- Gordon Ramsay
+- Sadiq Khan
+- Sadiq Khan.
+organisations:
+- BBC London
+- BBC Radio London
+- DVLA
+- Labour
+- Micra
+- Single Justice Procedure
+- Transport for London
 ---
 
 ![Mayor of London Sir Sadiq Khan.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d4e4/live/fbfb6a50-a77b-11f1-b2d5-535b3b3d379f.jpg)

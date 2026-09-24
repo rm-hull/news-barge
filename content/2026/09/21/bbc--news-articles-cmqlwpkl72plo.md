@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0c3/live/1750b4f0-b5d6-11f1-a190-17e7f3a0cd42.jpg
+locations:
+- A61
+- Athersley
+- Barnsley
+- Gresford Close
+- Leeds Magistrates' Court
+- Newmillerdam
+- Staincross
+- Wakefield
+- Woolley Grange
+people:
+- Christopher Cockell
+- Clare Storr
+- Graham
+- Janine Barton
+- Janine Barton **A
+- Kirsty Wordsworth
+- Lillie
+- Ms Morgan
+- Phil Marr
+- Rubie
+- Shane Roller
+- Shannen Morgan
+organisations:
+- A61 Marr
+- Athersley North Primary School
+- BMW
+- Major Collision Enquiry Team
+- Wakefield Coroner's Court
+- West Yorkshire Police
 ---
 
 ![A three-image collage shows two adults posing together indoors, two children standing beside a swimming pool at a holiday resort, and a close-up outdoor selfie of two adults wearing sunglasses. The centre image features a poolside setting with palm trees, sun loungers and hotel buildings in the background.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d0c3/live/1750b4f0-b5d6-11f1-a190-17e7f3a0cd42.jpg)

@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Australia
+- Cyprus
+- Deir al-Balah
+- Gaza Strip
+- Israel
+- Palestine
+- Poland
+- Rafah
+- UK
+- US
+- United Arab Emirates
+- WCK
+people:
+- Damian Soból
+- Jacob Flickinger
+- James Henderson
+- James Kirby
+- John Chapman
+- Lalzawmi Frankcom
+- Nochi Mendel
+- Saifeddin Issam Ayad Abutaha
+organisations:
+- Guardian
+- Hamas
+- IDF
+- Israel Defense Forces’
+- Nahal
+- Southern Command
+- UAV
+- WCK
+- World Central Kitchen
 ---
 
 On the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Gaza’s Mediterranean shore overseeing the unloading of a barge full of desperately needed food on a makeshift jetty made of sand and rubble.

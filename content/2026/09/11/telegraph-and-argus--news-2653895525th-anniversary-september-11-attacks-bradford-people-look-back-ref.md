@@ -15,6 +15,49 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- America
+- Bradford
+- Deer Park
+- Denholme
+- Empire State Building
+- Fifth Avenue
+- Ground Zero
+- Keighley
+- Long Island
+- Lower Manhattan
+- New York
+- New York City
+- Pennsylvania
+- Queens County
+- Silsden
+- South Carolina
+- Staten Island
+- Twin Towers
+- Washington
+- World Trade Center
+people:
+- Andrew
+- Anna Pratt
+- Diane Duguid
+- George
+- God
+- Judge
+- Martin Heminway
+- Michael Quain
+- Sean Adair
+- Vicki Garwood
+organisations:
+- American Red Cross
+- Fire Departments
+- Ground Zero
+- New York Police Department
+- News
+- Pentagon
+- REUTERS
+- T&A
+- Telegraph &Argus
+- World Trade Center
 ---
 
 IT was 25 years ago today that terrorist attacks devastated America and changed the world forever.

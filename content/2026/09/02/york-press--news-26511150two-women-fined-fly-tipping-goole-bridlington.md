@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Beverley Magistrates' Court
+- Bridlington
+- Carter Street
+- East Yorkshire
+- Goole
+- Jefferson Street
+- Little Beck Road
+- Woldgate
+people:
+- Carl Skelton
+- Elizabeth Walker
+- Sophie Smith
+organisations:
+- CCTV
+- East Riding of Yorkshire Council
 ---
 
 ## Two women fined after household waste found fly-tipped in East Yorkshire

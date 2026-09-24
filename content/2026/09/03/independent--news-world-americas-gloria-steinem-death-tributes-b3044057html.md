@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Cambridge
+- Los Angeles
+- Massachusetts
+- New York
+- New York City
+- Ohio
+- Toledo
+- U.S.
+- United States
+people:
+- Barack Obama
+- Bella Abzug
+- Betty Friedan
+- Candice Bergen
+- Carolyn Heilbrun
+- Christian Bale
+- David Bale
+- Eleanor McGovern
+- Gloria Steinem
+- Hugh Hefner
+- Julie Taymor
+- Kirstie Alley
+- Leo
+- Marilyn Monroe
+- Ruth
+- Sarah Jessica Parker
+- Shirley Chisholm
+- Shirley MacLaine
+- Wade
+organisations:
+- Associated Press
+- Coalition of Labor Union Women
+- De Beers
+- HBO
+- Harvard University
+- Instagram
+- National Women's Political Caucus
+- New York Magazine
+- New York Times
+- Smith College
+- The Associated Press
+- The Independent
+- The New Yorker
+- Voters for Choice
+- Women's Media Center
 ---
 
 Gloria Steinem, the journalist and women’s activist who became an icon of the modern feminist movement, died Wednesday at 92 years old, her foundation announced in an Instagram post Thursday.

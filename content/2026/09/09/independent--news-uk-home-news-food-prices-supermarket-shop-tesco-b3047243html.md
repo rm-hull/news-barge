@@ -15,6 +15,18 @@ categories:
 - Food & Cooking
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Middle East
+- UK
+people:
+- Karen Betts
+organisations:
+- Defra
+- Department for Environment, Food and Rural Affairs
+- FDF
+- Food and Drink Federation
+- Office for National Statistics
 ---
 
 Shoppers have been warned that food prices could soar over the next few months due to pressures from global conflict and extreme weather.

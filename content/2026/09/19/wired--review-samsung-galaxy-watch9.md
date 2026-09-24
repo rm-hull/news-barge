@@ -12,6 +12,15 @@ categories:
 - Science
 - Health & Fitness
 image: https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/191:100/w_1280,c_limit/Review--Samsung-Galaxy-Watch9.jpg
+locations: []
+people: []
+organisations:
+- AI
+- Galaxy Watch
+- Gemini
+- Google Pixel Watch
+- Qualcomm
+- Samsung
 ---
 
 This past summer, Samsung launched the Galaxy Watch9 alongside the Galaxy Watch Ultra2, its more rugged, shock-resistant smartwatch for outdoor adventures.

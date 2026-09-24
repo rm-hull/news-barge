@@ -12,6 +12,52 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Chelsea
+- City
+- Etihad Stadium
+- London
+- Nottingham Forest
+people:
+- Alexander Isak
+- Allan Elias
+- Ayoub Bouaddi
+- Bernardo Silva
+- Bradley Barcola
+- Eden Hazard
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Fernandez.
+- Enzo Maresca
+- Geronimo Rulli
+- Iliman Ndiaye
+- Jeremy Monga
+- Liam Delap
+- Morgan Rogers
+- Nico Gonzalez
+- Nicolas Jackson
+- Omar Marmoush
+- Rodri
+- Savio
+- Tijjani Reijnders
+- Xabi Alonso
+organisations:
+- Al-Qadsiah
+- Aston Villa
+- Barcelona
+- Benfica
+- Brighton
+- Everton
+- Fulham Chelsea
+- Lille
+- Liverpool
+- Luton
+- Manchester City
+- Newcastle
+- Premier League
+- Real Madrid
+- Tottenham
 ---
 
 ![Enzo Fernandez smiles and is wearing a blue Chelsea shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/34d0/live/85adcc00-a620-11f1-bb6f-e5db02d232fa.jpg)

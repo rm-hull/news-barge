@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Germany
+- UK
+- US
+people:
+- Malwareremains
+- Marijus Briedis
+- Rene Millman
+organisations:
+- CTO
+- Computer Weekly
+- Financial Times
+- Google News
+- IT Pro
+- MFA
+- Microsoft**
+- No Trace
+- NordVPN
+- The Guardian
 ---
 
 ![Big letters AI in pink in front of pink and blue strands of light suggesting a digital explosion](https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL.jpg) 

@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Road
+- Cleckheaton
+- Jalwa
+- Spen Valley
+- The Monal
+people:
+- Andrew Pinnock
+- Cllr Kath Pinnock
+- Kath Pinnock
+- Kim Leadbeater
+- Michael Howard
+- Micheal Howard
+- Pip Harvey
+organisations:
+- Kirklees Council
+- Labour
+- PSO
+- The Monal
+- West Yorkshire Police
 ---
 
 An action plan has been drawn up to address concerns relating to noise, traffic and disruption at a luxury wedding venue.

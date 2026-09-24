@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A66
+- Britain
+- Carlisle
+- Darlington
+- Great North Road
+- Italy
+- Lake District
+- Leeming-to-Barton
+- M
+- M6
+- Newcastle
+- North Yorkshire
+- North of England
+- Pennines
+- Penrith
+- Richmond
+- Scotch Corner
+- Scotch Corner Hotel
+- Scotland
+- Stuart Boulton
+- York
+people: []
+organisations:
+- A1
+- A1(M) Government
+- A66
+- RAF
+- Three Tuns
 ---
 
 It is one of the most recognisable road junctions in the North of England, but Scotch Corner once looked dramatically different from the huge interchange drivers know today.

@@ -13,6 +13,35 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/19fed6911e40c4502ee3aad0f72477dd5125b6ed/484_0_6097_4878/master/6097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1f0552f56d67c1b136120d4f3abd7c7
+locations:
+- Britain
+- Devon
+- Edinburgh
+- England
+- Georgia
+- Holyrood
+- London
+- Michigan
+- New York City
+- Ohio
+- Somerset
+- UK
+- US
+- United States
+people:
+- AI
+- George Osborne
+- Verity Harding
+organisations:
+- AI
+- Anthropic
+- Bennett School for Public Policy
+- Cambridge University
+- ChatGPT
+- Green
+- OpenAI
+- Tory
+- UN
 ---
 
 Datacentre nimbys are holding Britain back, George Osborne has said in reaction to nationwide protests about the giant water- and energy-guzzling structures.

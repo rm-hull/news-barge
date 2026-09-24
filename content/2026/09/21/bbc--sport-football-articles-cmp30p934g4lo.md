@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1fec/live/dc269d40-b508-11f1-91cc-c5691e33b858.jpg
+locations:
+- Canada
+- New Zealand
+- Salt
+- Southampton
+people:
+- Bev Priestman
+- Boro
+- Kieran Scott
+- Marcelo Bielsa
+- Parsons Parsons
+- Phil Parsons
+- Roman Abramovich
+- Tonda Eckert
+- Will Salt
+organisations:
+- BBC Sport
+- Chelsea
+- Derby
+- EFL
+- FA
+- Fifa
+- Football Association
+- Ipswich Town
+- Leeds United
+- Middlesbrough
+- Oxford United
+- Portsmouth
+- Premier League
+- Southampton
+- Wrexham
 ---
 
 I've asked for forgiveness and apologised publicly - Eckert

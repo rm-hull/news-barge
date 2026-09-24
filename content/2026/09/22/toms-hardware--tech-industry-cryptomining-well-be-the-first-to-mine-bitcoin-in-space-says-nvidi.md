@@ -14,6 +14,22 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/W3SKPLA3ecU7CeuHMBdoXQ-1920-80.jpg
+locations:
+- Earth
+people:
+- Johnson
+- Mark Tyson
+- Philip Johnston
+- Tom
+organisations:
+- 1BTC
+- ASICs
+- Bitcoin
+- GPU
+- Google News
+- Nvidia
+- Starcloud
+- Tom's Hardware
 ---
 
 ![Starcloud](https://cdn.mos.cms.futurecdn.net/W3SKPLA3ecU7CeuHMBdoXQ.jpg)

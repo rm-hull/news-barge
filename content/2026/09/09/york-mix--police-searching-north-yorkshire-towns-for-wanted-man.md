@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Boroughbridge
+- Knaresborough
+- Minskip
+people:
+- Ethan Anderson
+organisations:
+- North Yorkshire Police
+- Ripon
 ---
 
 This man is wanted by North Yorkshire Police.

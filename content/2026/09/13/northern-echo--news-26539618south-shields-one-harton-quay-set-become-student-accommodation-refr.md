@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Barrington Street
+- Harton Quay
+- King Street
+- One Harton Quay
+- South Shields
+- Westoe
+people:
+- Craig Muldoon
+- Dave Royal
+- Lindsey Whiterod CBE
+organisations:
+- Build
+- Castle
+- Department for Education
+- Google Maps
+- Harton Quay
+- Local Regeneration Fund
+- North East Mayoral Strategic Authority
+- South Shields Marine School
+- South Tyneside College
+- South Tyneside Council
+- Tyne Coast College
+- UK Government
 ---
 
 A landmark riverside building is set for a new lease of life as part of a major redevelopment.

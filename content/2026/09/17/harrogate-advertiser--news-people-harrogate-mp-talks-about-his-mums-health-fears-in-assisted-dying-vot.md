@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM4YmVhN2ExLThiMTAtNGNhMS05Y2Q1LWU5MjEyNjcxZTJiNjozN2JlODBmZS03ZDcwLTQzODEtODhkZS05ZDljNmUwY2Y4NDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Dying
+- England
+- Harrogate
+- Knaresborough
+- Wales
+people:
+- Lauren Edwards
+- Tom Gordon
+organisations:
+- Bill Committee
+- End of Life
+- Harrogate
+- House of Commons
+- House of Lords
+- Labour
+- Lib Dem
+- Terminally Ill Adults
 ---
 
 # Harrogate MP talks about his mum's health fears in Assisted Dying vote in House of Commons

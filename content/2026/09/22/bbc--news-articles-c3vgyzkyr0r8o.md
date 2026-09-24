@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9adc/live/f876f5c0-b5e5-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Britain
+- Cairngorm
+- Cairngorms
+- River Spey
+- Scotland
+- Strath
+- Sully
+- UK
+people:
+- Estelle Morgan
+- Helen Senn
+- Louise Hughes
+- Martin Gaywood
+organisations:
+- Estelle Morgan
+- RZSS
+- Royal Zoological Society of Scotland
+- Saving Wildcats
+- Scottish Land and Estates
+- Scottish Wildcat Conservation Action Plan
 ---
 
 Inside Scotland's wildcat HQ

@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Billingham
+- Darlington
+- Germany
+- Newcastle
+- North East
+- North Tees General Hospital
+- Spennymoor
+- St Michael's
+- Teesside
+- Wynyard Hall
+people:
+- Bob Mortimer
+- Eve
+- Geoff Shenton
+- Joan *(Image
+- Karen Stephenson
+- Mark
+- Mum
+- Olli Spiller
+- PETER BARRON
+- Peter Barron
+- Sarah
+- Young Hurworth
+- brotherm George
+organisations:
+- Anthony Nolan
+- Bede Sixth Form College
+- David Lloyd Health Club
+- Royal Victory Infirmary
+- Spa
+- St Michael's Catholic Academy
+- Stockton Borough Council
 ---
 
 *A North East teenager has used the power of laughter to help him pass his toughest test.**PETER BARRON** reports* 

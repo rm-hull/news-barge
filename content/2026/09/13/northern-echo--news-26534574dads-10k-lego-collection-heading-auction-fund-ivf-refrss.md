@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+- Greater Manchester
+- Stockport
+- Thornaby
+- UK
+people:
+- James Smith
+- Jessica
+organisations:
+- IVF
+- LEGO
+- SWNS
+- USS Enterprise
+- Vectis Auctions
 ---
 
 A dad is selling a £10,000 LEGO collection through a Thornaby auction house to help fund IVF treatment as he and his wife hope to have a second child.

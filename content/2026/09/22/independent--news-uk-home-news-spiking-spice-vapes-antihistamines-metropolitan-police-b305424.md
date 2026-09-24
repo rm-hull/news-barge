@@ -12,6 +12,17 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/13/01K6YMA5VKE0B5CB8B95P39V9N.jpg?trim=47,0,47,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- London
+- PA
+people:
+- Chao Xu
+- Dan Thompson
+- Zhenhao Zou
+organisations:
+- CCTV
+- Metropolitan Police
 ---
 
 Antihistamines and vapes laced are increasingly being weaponised by predators to spike victims, the Metropolitan Police has warned.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- County Durham McDonald's
+- Newcastle
+- UK
+- Utilita Arena
+people:
+- Big Stacks
+- Jordan McCann
+organisations:
+- GOOGLE
+- Northumbria Police
 ---
 
 *(Image: GOOGLE)*

@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Kop
+- Liverpool
+- Newcastle.
+people:
+- 5Araujo
+- 5Dominguez
+- 5Gravenberch
+- 5Hudson-Odoi
+- 5Jair Cunha
+- 5Ngumoha
+- 5Nyoni
+- 5Subs
+- 6Netz
+- 6Nikola Milenkovic
+- 7Neco Williams
+- Abbott
+- Aina
+- Alexander Isak
+- Alisson
+- Cody Gakpo
+- Dan Ndoye
+- Delap
+- Diomande
+- Dominik Szoboszlai
+- Elliot Anderson
+- Endo
+- Florian Wirtz
+- Frimpong
+- Ibrahim Sangare
+- Igor Jesus
+- Jacquet
+- Kerkez
+- Kostas Tsimikas
+- Koumas
+- Mac Allister
+- Mamardashvili
+- Matz Sels
+- McAtee
+- McConnell
+- Morgan Gibbs-White
+- Schlager
+- Steven Gerrard
+- Unafraid
+- Victor Munoz
+- Wood
+- Yates
+- van Dijk
+organisations:
+- 5Subs
+- Anfield
+- BBC Sport
+- Liverpool
+- Manchester City
+- Nottingham Forest
 ---
 
 ![Morgan Gibbs-White](https://ichef.bbci.co.uk/ace/standard/983/cpsprodpb/9324/live/09c7f330-a3ab-11f1-af36-fffc938dca63.jpg)

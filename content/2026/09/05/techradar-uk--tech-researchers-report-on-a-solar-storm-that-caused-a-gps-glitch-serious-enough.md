@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Earth
+- England
+- Stockport
+- Sun
+- US
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- PC Explorer
+- Sun
+- The Hardware Handbook
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

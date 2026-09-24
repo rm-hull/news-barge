@@ -15,6 +15,30 @@ categories:
 - Society & Culture
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/05/Sexual_Misconduct_Weinstein_32185.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bellevue Hospital
+- California
+- Finland
+- Hollywood
+- Los Angeles
+- Manhattan
+- New York
+- New York City
+- Rikers Island
+- Sweden
+people:
+- Gloria Allred
+- Harvey Weinstein
+- Jessica Mann
+- Juda Engelmayer
+- Kaja Sokola
+- Mimi Haleyi
+- Miriam Haley
+organisations:
+- Associated Press
+- COVID-19
+- The Hollywood Reporter
+- Weinstein
 ---
 
 The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho’s #MeToo reckoning.

@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Pets & Animals
 - Arts & Culture
+locations:
+- Andes
+- Belgium
+- Bolivia
+- Bolivian Yungas
+- Brazil
+- Central America
+- China
+- Colombia
+- Costa Rica
+- Davis
+- Ecuador
+- Europe
+- La Paz
+- North Africa
+- Peru
+- Porto Alegre
+- South America
+- Venezuela
+people:
+- Eduardo Eizirik
+- Jonas Lescroart
+- L. tilcayo
+- Leslie Lyons
+organisations:
+- PUCRS
+- Pontifical Catholic University of Rio Grande do Sul
+- University of Antwerp
+- University of California
 ---
 
 ![Leopardus tilcayo](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312819149.jpg?w=840)

@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/KW83KpayHsV8NkFHurgpwn-2048-80.png
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Australia
+- US
+people:
+- Carrie Marshall
+- James Kitto
+organisations:
+- EMEA
+- Google News
+- SVP
+- Shark
+- SharkNinja
+- Transformer
+- Unquiet Mind
 ---
 
 ![Shark PowerDetect Transformer being used as a stick vacuum in a neutrally decorated room](https://cdn.mos.cms.futurecdn.net/KW83KpayHsV8NkFHurgpwn.png) 

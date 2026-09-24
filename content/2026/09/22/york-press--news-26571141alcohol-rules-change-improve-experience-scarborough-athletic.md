@@ -12,6 +12,30 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21133390.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people:
+- Courtesy Numminen
+organisations:
+- LDRS A
+- Licensing Authority
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- North Yorkshire Police
+- Numminen
+- SAFC Pitch
+- Scarborough Athletic
+- Scarborough Athletic FC
+- Scarborough Athletic Fan Zone
+- Scarborough Athletic Football Club
+- Scarborough Athletic Repaired FC Pitch
+- Scarborough Sports Village
+- Town Hall
+- Victory Bar
 ---
 
 ## Football club’s bid to change alcohol rules to ‘improve matchday experience’

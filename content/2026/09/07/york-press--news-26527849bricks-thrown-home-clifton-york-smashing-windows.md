@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Clifton
+- Kingsway North
+- North Yorkshire
+- York
+people:
+- Rob Gooch
+organisations:
+- Crimestoppers
+- Newsquest
 ---
 
 *(Image: Newsquest)*

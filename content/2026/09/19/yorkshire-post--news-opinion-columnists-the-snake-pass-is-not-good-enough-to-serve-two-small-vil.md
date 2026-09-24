@@ -17,6 +17,21 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYwNjA1YTNkLTkzZTItNDdjOS1hZTAzLTE5YzViMDcwZThhNzo3ODdkNzRlOS0xZTU4LTQ4N2MtOWE2YS04MWNhYmEyNDIzYmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Greater Manchester
+- North
+- Pennines
+- Sheffield
+- Snake Pass
+- Steel City
+- Western Europe
+people:
+- Andy Burnham
+organisations:
+- Northern Powerhouse Rail
+- Treasury
+- Whitehall
 ---
 
 # The Snake Pass is not good enough to serve two small villages nevermind major cities like Sheffield and Manchester

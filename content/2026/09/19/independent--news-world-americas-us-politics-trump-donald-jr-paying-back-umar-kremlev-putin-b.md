@@ -13,6 +13,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/0/58/GettyImages-2294832844.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bahamas
+- White House
+- White House Rose Garden
+people:
+- '![Kremlev'
+- '![Trump'
+- Bettina Anderson
+- Don
+- Donald Trump
+- Donald Trump Jr.
+- ProPublica Kremlev
+- Robert Garcia
+- Susie Wiles
+- Todd Blanche
+- Trump Jr.
+- Umar Kremlev
+- Vladimir Putin
+organisations:
+- Department of Defense
+- Donald Trump Jr.’s
+- House Oversight Committee
+- Instagram
+- International Boxing Association
+- Oval Office
+- ProPublica
 ---
 
 President Donald Trump has claimed that his eldest son is paying back Russian oligarch Umar Kremlev for his lavish Bahamas wedding party.

@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- UK
+people:
+- Joe Giddens
+- Stewart Wilks
+organisations:
+- Government
+- HMRC
+- State Pension
+- State Pension Triple Lock
 ---
 
 *(Image: Joe Giddens)*

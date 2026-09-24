@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- America
+- Newport
+- US
+people:
+- '## Gloria Steinem'
+- Gloria Steinem
+organisations: []
 ---
 
 ## Gloria Steinem, the feminist trailblazer, writer and activist who helped define the modern women’s movement in the US, has died at 92. Here are some of her most memorable quotes.

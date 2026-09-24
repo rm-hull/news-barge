@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/o5qzeQtrqmk4vfz5tKpgi7-1600-80.jpg
+locations:
+- Flock
+people:
+- Alex Blake
+- Flock
+organisations:
+- 404 Media
+- Apple
+- Creative Bloq
+- Denial of Secrets
+- Flock
+- Google News
+- MacFormat
+- TechRadar
+- Wired
+- iMore
 ---
 
 ![Flock license plate reader](https://cdn.mos.cms.futurecdn.net/o5qzeQtrqmk4vfz5tKpgi7.jpg)

@@ -14,6 +14,20 @@ categories:
 - York
 - Home, Garden & DIY
 - Real Estate
+locations:
+- Bronte Country
+- Jew Lane
+- Oxenhope
+- Rochdale
+- Wadsworth Mill
+- Yorkshire
+people:
+- George Emmott
+organisations:
+- Bradford Council
+- Ltd
+- National Planning Policy Framework
+- Pawsons
 ---
 
 # Plan revealed to demolish Yorkshire village mill and build homes in its place

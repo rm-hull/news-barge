@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- East Kilbride
+- Glasgow Sheriff Court
+people:
+- '![Smith'
+- Bobby Lee Smith
+- Fraser Gibson
+organisations:
+- Chromebook
+- Connecting Scotland Project
+- Crown Office
+- Glasgow City HSCP
+- Glasgow City Health and Social Care Partnership
+- Glasgow Sheriff Court
+- NHS
+- Procurator Fiscal for Glasgow
+- Restart Mental Health Services, Children Services and Parenting Services
+- Strathkelvin
 ---
 
 A council manager stole iPads and laptops earmarked to help vulnerable people during the Covid-19 pandemic.

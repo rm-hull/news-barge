@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Ann Arbor
+- Chicago
+- Gaza
+- Illinois
+- Israel
+- Michigan
+- New Brunswick
+- New Jersey
+- New York
+- Palestine
+- Rutgers
+- Rutgers’
+- Southern California
+- Texas
+- U.S.
+- Yale
+people:
+- Adam Hamawy
+- Jaye Starr
+- Joshua Salaam
+- Kaiser Aslam
+- Omer Bajwa
+- Saarah Abdul-Maajid
+- Trump
+- Zohran Mamdani
+organisations:
+- AP
+- American Islamic College
+- Association of Muslim Chaplains
+- Bayan Islamic Graduate School
+- CILRU
+- Center for Islamic Life
+- Center for Islamic Life at Rutgers University
+- Duke University
+- Hamas
+- Hartford International University for Religion and Peace
+- Hartford Seminary
+- Ivy League Schools
+- RNS
+- Religion News Service
+- Rutgers University
+- Rutgers’ Center for Islamic Life
+- The Associated Press
+- U.S. Army
+- University of Michigan
 ---
 
 Saarah Abdul-Maajid chose to study at Rutgers University, in large part because she knew it had a Muslim chaplain and a Muslim center on campus where she would feel supported and valued.

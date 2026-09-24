@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Shopping & Deals
+locations:
+- Bishop Auckland
+- Carlisle
+- County Durham
+- Dalston Road
+- Darlington
+- Newgate Street
+people: []
+organisations:
+- 5NP
+- Hedgehog Bakery
+- LOCALLY House
 ---
 
 A Bishop Auckland bakery has been shortlisted for a North East award.

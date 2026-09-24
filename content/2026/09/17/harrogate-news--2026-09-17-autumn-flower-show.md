@@ -13,6 +13,20 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Newby Hall
+- Ripon
+people:
+- Anna Cartmell-Done
+- Jonathan Moseley
+- Nick Smith
+organisations:
+- Incredible Edible Pavilion
+- Jonathan’s Grain & Grandeur
+- NEHS
+- Newby Hall & Gardens
+- North of England Horticultural Society
 ---
 
 **RIPON**— The Harrogate Autumn Flower Show officially opens tomorrow at Newby Hall & Gardens, marking a major milestone as the flagship horticultural event celebrates its 50th anniversary milestone.

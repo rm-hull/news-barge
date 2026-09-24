@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/21019113.jpg?type=og-image
+locations:
+- Blackburn
+- Blackpool
+- Burnley
+- Clayton-le-Moors
+- Colne
+- Keighley
+- Lothersdale
+- M65
+- Preston Crown Court
+- Tidswell
+people:
+- Anthony Moss
+- Daniel Harman
+- Emma Fisher
+- Frank Tidswell
+- Ms Fisher
+- Ms Lewis
+- Nelson
+- Seren Lewis
+organisations:
+- Bradford Crown Court
+- M65
+- Preston Crown Court
+- Whitebirk Roundabout
 ---
 
 *(Image: Anthony Moss)*

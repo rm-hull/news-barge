@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21458828.jpg?type=og-image&xType=0&yType=30
+locations:
+- Aysgarth Falls
+- Bainbridge
+- Boroughbridge
+- Every River Ure
+- Jervaulx
+- Leyburn
+- Lunds
+- Masham
+- Middleham
+- North Yorkshire
+- River Ure
+- Ulshaw Bridge
+- Worton
+people:
+- Fergus  Henderson
+- Mike Grace
+- Neil Stanton
+- Richard Loukota
+organisations:
+- Bactiquick
+- Environment Agency
+- Redmire Force
+- SUP
+- Stop Ure Pollution
+- Yorkshire Dales River Trust
+- Yorkshire Water
 ---
 
 *(Image: STOP URE POLLUTION)*

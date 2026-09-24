@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Beverley
+- Lawrence Street
+- St Lawrence Parish Church
+- St Lawrence's
+- York
+people:
+- Karl Smith
+- Sam Smith
+organisations:
+- Ruby Mild
+- Rudgate
+- Sunbeam's Parachuting Hedgehog
+- York CAMRA
 ---
 
 *(Image: Supplied)*

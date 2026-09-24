@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- US
+- United States
+people:
+- Claude
+- Ernest Hemingway
+- Evan Brown
+- Graham James
+- Joan Didion
+- Kadrey
+- Mary Rasenberger
+- Pamela Samuelson
+- Sidney H. Stein
+organisations:
+- AI
+- Anthropic
+- Author’s Guild—
+- Berkeley Center For Law & Technology
+- Department of Justice
+- LLMs
+- Meta
+- Microsoft
+- Neal & McDevitt
+- New York Times
+- OpenAI
+- Sony
+- The New York Times’
+- Trump Administration
+- Universal Music Group
+- WIRED
+- Warner Music
 ---
 
 The Trump Administration just took OpenAI’s side in the artificial intelligence company’s legal battle with the New York Times.

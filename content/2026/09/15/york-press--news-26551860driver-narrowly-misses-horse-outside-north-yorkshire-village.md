@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Bulmer
+- North Yorkshire
+- Sheriff Hutton
+people:
+- David Easterby
+- Michael
+- Mick
+organisations:
+- Google Street View
+- North Yorkshire Police
+- The Press
 ---
 
 ## The moment driver narrowly misses hitting horse on country road

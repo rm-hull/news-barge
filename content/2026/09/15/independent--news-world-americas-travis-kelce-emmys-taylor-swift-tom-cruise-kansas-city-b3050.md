@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Arrowhead Stadium
+- Los Angeles
+- Madison Square Garden
+people:
+- Adam Sandler
+- Bradley Cooper
+- Chris Rock
+- David Blitzer
+- Ethan Hawke
+- Gigi Hadid
+- Hugh Grant
+- Jason Kelce
+- Karlie Kloss
+- Mariska Hargitay
+- Patrick Mahomes
+- Steven Spielberg
+- Stevie Nicks
+- Taylor Swift
+- Tom Brady
+- Tom Cruise
+- Travis Kelce
+- Zoë Kravitz
+organisations:
+- Bears
+- Cleveland Guardians
+- Denver Broncos
+- ESPN
+- Eagles
+- Kansas City Chiefs
+- NFL
+- Peacock Theater
 ---
 
 Pop superstar Taylor Swift was back at Arrowhead Stadium on Monday night, and sitting alongside Tom Cruise, to watch new husband Travis Kelce and his Kansas City Chiefs open the NFL season against the Denver Broncos.

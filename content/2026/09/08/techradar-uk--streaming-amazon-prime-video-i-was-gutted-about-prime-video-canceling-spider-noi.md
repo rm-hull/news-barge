@@ -10,6 +10,27 @@ image: https://cdn.mos.cms.futurecdn.net/FGT7yjKHe4bM4U7BWejund-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Hollywood
+- Spider-Noir
+people:
+- Ben Reilly
+- Ben Reilly aka
+- Lucy Buglass
+- Nic Cage
+- Nicolas Cage
+- Spider-Man
+- Spider-Noir
+organisations:
+- Disney
+- Google News
+- Lucy Goes
+- Marvel
+- Prime Video
+- Rockstar
+- Rotten Tomatoes
+- TechRadar
+- The Simpsons
 ---
 
 ![Nic Cage's Ben Reilly/The Spider squatting on a beam at night in Spider-Noir](https://cdn.mos.cms.futurecdn.net/FGT7yjKHe4bM4U7BWejund.jpg) 

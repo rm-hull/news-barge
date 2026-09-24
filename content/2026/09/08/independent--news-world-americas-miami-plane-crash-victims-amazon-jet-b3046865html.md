@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Amazon
+- Miami International Airport
+- Miami-Dade County
+- North Carolina
+- Puerto Rico
+- US
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Jennifer Homendy
+- Julio C. Pineda
+- Rolando Aleman Leon
+- Rosie Cordero-Stutz
+- Yoel Rodriguez Naranjo
+organisations:
+- 21 Air
+- Amazon
+- Federal Aviation Administration
+- Flightradar24
+- Miami International Airport
+- NTSB
+- National Transportation Safety Board
+- Professional Ocean Service Corp.
 ---
 
 All five people who died when an Amazon cargo jet ran off the runway at Miami International Airport were inside a shuttle van used by an aircraft cleaning crew, authorities say.

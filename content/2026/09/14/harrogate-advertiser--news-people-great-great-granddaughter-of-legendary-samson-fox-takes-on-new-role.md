@@ -14,6 +14,28 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Harrogate
+- Kursaal
+- Rose Gardens
+- Royal Hall
+people:
+- Edward Fox
+- Elgar
+- Fanny Waterman
+- Freddie
+- Joanna David
+- Lucy Fox
+- Russell Davidson
+- Samson Fox
+organisations:
+- Cuore Chamber Orchestra
+- Harrogate’s Royal Hall
+- London’s Royal College of Music
+- Royal Hall
+- Royal Hall Restoration Trust
+- The Beatles
+- Viscountess Gormanston
 ---
 
 # Great-great granddaughter of legendary Samson Fox takes on new role at Harrogate's Royal Hall Restoration Trust

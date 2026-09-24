@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- York
+people:
+- Cllr Kent
+- Ian Hoult
+- Jenny Kent
+organisations:
+- City of York Council
+- Labour
 ---
 
 Timescales for proposals to ditch recycling boxes for wheelie bins in York have been set out along with more details about the scheme.

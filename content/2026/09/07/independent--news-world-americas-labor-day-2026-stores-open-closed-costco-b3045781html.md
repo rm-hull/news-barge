@@ -13,6 +13,18 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Iran
+- New York City
+- U.S.
+people:
+- Grover Cleveland
+organisations:
+- '## Retailers Warehouse'
+- AAA
+- Central Labor Union
+- Costco
+- Knights of Labor
 ---
 
 The origins of Labor Day, which falls on Monday, date back to the late 19th century, when activists first sought to establish a day that would pay tribute to workers.

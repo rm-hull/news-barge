@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- America
+- Dallas
+- United States
+- White House
+people:
+- Barack Obama
+- Bill Maher
+- Donald Trump
+organisations:
+- HBO
+- Trump
+- UFC
 ---
 
 Comedian Bill Maher mocked President Donald Trump’s bizarre version of the Pledge of Allegiance, which he had supporters recite during the Republican midterm convention in Dallas on Thursday.

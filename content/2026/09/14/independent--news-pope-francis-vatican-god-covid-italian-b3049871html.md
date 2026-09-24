@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Vatican City
+people:
+- Francis
+- Francis’
+- God
+- JR
+- John Prevost
+- Leo XIV
+organisations:
+- AP
+- Associated Press
+- Francis’
+- Lilly Endowment Inc
+- Mediaset
+- The Conversation US
+- Vatican Apostolic Library
+- Vatican City State
+- Vatican Museums
 ---
 
 Pope Leo XIV celebrated his 71st birthday on Monday but it was Vatican employees who got the gift.

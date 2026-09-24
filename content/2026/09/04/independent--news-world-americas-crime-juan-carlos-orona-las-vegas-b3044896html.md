@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Las Vegas
+- Nevada
+people:
+- Henry
+- Juan Carlos Orona
+- Nohani Flores-Osuna
+- Robert Price
+organisations:
+- Clark County Coroner’s Office
+- KLAS
+- Las Vegas Metropolitan Police Department
+- Metropolitan Police Department
+- Southeast Area Command
+- The Independent
 ---
 
 A Nevada man killed his girlfriend and two children after finding out that she cheated on him with an ex, police say.

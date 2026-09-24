@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/09/11/20/2294071728..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Atlantic
+- Co Clare
+- Deerfield
+- Doonbeg
+- Dublin Airport
+- Ireland
+- New York
+- Phoenix Park
+- Shannon Airport
+- US
+- Uachtaráin
+- United States
+- Áras
+people:
+- Catherine Connolly
+- Donald Trump
+- Eric Trump
+- Justin Kelly
+- Micheál Martin
+- Simon Harris
+- Tánaiste
+organisations:
+- Air Force One
+- An Garda Síochána
+- Farmleigh Estate
+- Irish Government
+- Oval Office
+- Trump International Doonbeg
+- UN General Assembly
 ---
 
 US President Donald Trump is scheduled to touch down in Ireland on Saturday morning, arriving amid what has been described as one of the largest security operations ever implemented by the Irish police service (An Garda Síochána).

@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- HARRINGTON BROWN
+- Murray Park
+- Stanley
+people: []
+organisations:
+- Harrington Brown
 ---
 
 SITUATED on Murray Park in Stanley, this impressive home offers a combination of contemporary styling, practical features and generous living space that makes it particularly well suited to modern family life.

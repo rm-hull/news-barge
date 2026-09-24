@@ -16,6 +16,14 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Edinburgh
+- Whitehall
+people:
+- Angela Rayner
+- Gary Oakley
+organisations: []
 ---
 
 # Tourism tax must not be allowed to damage regional economies

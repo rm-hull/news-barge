@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Massachusetts
+- Pittsburgh
+- Roanoke
+- South Wellfleet
+- Tinker Creek
+- Virginia
+people:
+- Annie Dillard
+- Barack Obama
+- Cody
+- Gary Clevidence
+- Henry David Thoreau
+- Meta Ann Doak
+- Pilgrim
+- Richard Dillard
+- Rob McQuilkin
+- Robert Richardson
+organisations:
+- Hollins College
+- Wesleyan University
 ---
 
 Annie Dillard, the Pulitzer-Prize winning author and essayist renowned for her poetic explorations of nature, love, spirituality and the art of writing in the “Pilgrim at Tinker Creek,” “The Maytrees” and numerous other works, has died. She was 81.

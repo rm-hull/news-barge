@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Hormozgan
+- Iran
+- Israel
+- Minab
+- Shajareh Tayyebeh
+- U.S.
+- United States
+people:
+- Mohammad Ashouri Taziani
+organisations:
+- AP
+- Associated Press
+- Pentagon
+- Trump
 ---
 
 This will never be a school again.

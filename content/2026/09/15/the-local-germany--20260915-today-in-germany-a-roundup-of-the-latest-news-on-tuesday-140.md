@@ -13,6 +13,45 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Brussels
+- Budapest
+- Europe
+- Frankfurt
+- Germany
+- Hungary
+- Middle East
+- Poland
+- Strait of Hormuz
+- Tornado
+- US
+- Ukraine
+- United States
+- Warsaw
+- Washington
+people:
+- Anita Orban
+- Boris Pistorius
+- Johann Wadephul
+- Manuela Schwesig
+- Pete Hegseth
+- Péter Magyar
+- Steffen Bilger
+- Viktor Orbán
+organisations:
+- ADAC
+- AFP
+- Bundeswehr
+- DAK-Gesundheit
+- DPA
+- EU
+- European Union
+- Kyiv
+- Mecklenburg-Western Pomerania
+- Pentagon
+- SPD
+- Wadephul
 ---
 
 **Tuesday's top story: Nearly half of German school pupils suffer from sleep problems**

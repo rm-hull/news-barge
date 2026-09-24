@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Jefferson
+- Lancaster
+- Mifflin
+- Pennsylvania
+- Pittsburgh
+- US
+people:
+- Jason Stiver
+- Robert F Kennedy Jr
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Lancaster County Coroner
+- WTAE
 ---
 
 A coroner in Pennsylvania announced the death of a 40-year-old woman associated with the state’s ongoing measles outbreak. The death appears to mark the third in the US state’s ongoing outbreak.

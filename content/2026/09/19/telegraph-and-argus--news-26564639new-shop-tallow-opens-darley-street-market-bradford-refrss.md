@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Shopping & Deals
 image: https://www.thetelegraphandargus.co.uk/resources/images/21476068.jpg?type=og-image
+locations:
+- Bradford
+people:
+- Nuzhat Rashid
+organisations:
+- Bradford Markets
+- Darley Street Market
+- Instagram
+- Skincare
+- TALLOWÉ
 ---
 
 *(Image: Bradford Markets)*

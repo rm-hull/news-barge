@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Catterick Garrison
+- Gough Road
+- Low Row
+- North Yorkshire
+- Plumer Road
+- Richmondshire
+- Whitaside
+people:
+- Cllr Foster
+- Colburn
+- Hipswell
+- Kevin Foster
+organisations:
+- North Cowton Parish Council
+- North Yorkshire Council
 ---
 
 A request for busy roads in Catterick Garrison to receive a higher level of winter gritting has been rejected by North Yorkshire Council.

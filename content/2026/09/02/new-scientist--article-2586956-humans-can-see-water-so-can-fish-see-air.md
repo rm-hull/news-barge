@@ -12,6 +12,12 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Sutton Coldfield
+- UK
+- West Midlands
+people: []
+organisations: []
 ---
 
 ![D73X1R An colorful adult midnight snapper swims over the reef](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_300175225.jpg?w=840)

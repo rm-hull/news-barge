@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- Aachen Hall
+- Halifax
+- Skircoat Moor Road
+people: []
+organisations:
+- CSS
+- Calderdale Council
+- Care Quality Commission
+- Community Support Services
+- Environmental Health
+- Food Standards Agency
 ---
 
 Anyone looking at recent food hygiene standards will see a community organisation has received a zero stars rating – but it doesn’t tell the whole story.

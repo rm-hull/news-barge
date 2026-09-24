@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- NORTH Yorkshire
+- Ramshill Road
+- Scarborough
+people: []
+organisations:
+- All Supermarket York Ltd
+- Google Maps
+- Highway Authority
+- North Yorkshire Council
+- Scarborough Town Council
 ---
 
 A NORTH Yorkshire shop’s ‘unfortunate’ retrospective renovation works have been approved despite residents’ objections.

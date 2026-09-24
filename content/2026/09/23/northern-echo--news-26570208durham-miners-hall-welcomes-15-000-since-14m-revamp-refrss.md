@@ -14,6 +14,27 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/20035061.jpg?type=og-image
+locations:
+- Coalfield
+- Durham Miners’ Hall
+- England
+- North Road
+- Redhills
+people:
+- Andrew McIntyre
+- Eliza Carthy
+- Helen Featherstone
+- Redhills
+organisations:
+- Coalfield Commonwealth
+- Durham Miners’ Association
+- Durham Miners’ Association New Hall and Offices
+- Grade II
+- Miners Hall
+- Miners’ Hall
+- National Lottery
+- National Lottery Heritage Fund
+- Redhills Assembly
 ---
 
 Thousands of people have visited historic Durham Miners’ Hall since its £14 million restoration, as Redhills prepares for its next chapter.

@@ -13,6 +13,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Caribbean
+people:
+- Dhara Vyas
+- Emily Whitford
+organisations:
+- ?** Energy UK
+- Citizens Advice
+- DRS
+- Disability Poverty Campaign Group
+- Disability Rights UK
+- End Fuel Poverty Coalition
+- Energy UK
+- Ofgem
+- StepChange
+- Warm Home Discount
 ---
 
 Energy debt has reached a record £6bn, according to Energy UK, with more than three million customers now in debt or arrears.

@@ -13,6 +13,41 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Alabama
+- Alaska
+- Arkansas
+- DC
+- Dallas
+- Delaware
+- Florida
+- Michigan
+- Mississippi
+- Missouri
+- New Hampshire
+- Ohio
+- South Carolina
+- Texas
+- U.S.
+- Washington
+- White House
+- Wisconsin
+people:
+- Barack Obama
+- Donald Trump
+- Joe Biden
+organisations:
+- ACA
+- Axios
+- Congress
+- DOGE
+- East Room of the White House
+- GOP
+- Gallup
+- Great Health Care Plan
+- KFF
+- Senate
+- Trump
 ---
 
 President Donald Trump announced that some Americans will be receiving $500 Obamacare refunds — just one day after he vowed to send every adult citizen $5,000 if the Republicans maintain control of Congress in the midterms.

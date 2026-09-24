@@ -12,6 +12,52 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bahrain
+- Bandar Abbas
+- Bishkek
+- Camp Titin
+- Chabahar
+- China
+- Erbil
+- Gulf of Aqaba
+- Hormuz
+- Iraq
+- Islamic Republic of Iran
+- Israel
+- Jordan
+- Kuhestak
+- Kuwait
+- Larak Island
+- Lebanon
+- Persian Gulf
+- Qeshm Island
+- Russia
+- Saudi Arabia
+- Tehran
+- US
+- Washington
+people:
+- Donald Trump
+- Esmaeil Baghaei
+- Masoud Pezeshkian
+- Mohammad Baqer QalibafIran
+- Scott Bessent
+- Tim Hawkins
+organisations:
+- Agence France-Presse
+- Fars
+- IRGC
+- IRIB
+- Iranian Red Crescent
+- MOU
+- Nour News
+- Reuters
+- Revolutionary Guards
+- Shanghai Cooperation Organisation
+- Tasnim
+- US CentCom
+- US Marine Corps
 ---
 
 The US has launched new airstrikes on Iranian targets, prompting counter strikes by Tehran targeting American interests in Bahrain, Kuwait, Jordan and Iraq, fuelling concerns about a wider renewal of hostilities.

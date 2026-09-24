@@ -10,6 +10,17 @@ description: ChatGPT’s new Stickers feature made my dog a fun emoji option
 image: https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5-1920-80.png
 categories:
 - Technology & Software
+locations:
+- New York City
+people:
+- ChatGPT
+- Eric Hal Schwartz
+organisations:
+- ChatGPT
+- Google Gemini
+- Google News
+- TechRadar
+- Voicebot.ai
 ---
 
 ![ChatGPT Stickers](https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5.png) 

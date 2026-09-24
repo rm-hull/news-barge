@@ -12,6 +12,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/16/01M31Y85FFC273PD2ZCPW2P6QK.jpg?trim=0,65,0,65&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Scotland
+- UK
+people:
+- Bobbie Upton
+- Mark Franks
+organisations:
+- Government
+- IFS
+- Institute for Fiscal Studies
+- LSE
+- Nuffield Foundation
 ---
 
 Energy bills for British households could be reduced if the Government encouraged the widespread adoption of flexible, time-varying tariffs, a major new report has suggested.

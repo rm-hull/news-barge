@@ -12,6 +12,16 @@ image: https://cdn.mos.cms.futurecdn.net/chLrh2VfSisKGzyVjAjaXF-1488-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- Google News
+- Nvidia
+- PC
+- SRhonyra
+- Tom's Hardware
 ---
 
 ![Low Profile RTX 3060 12 GB](https://cdn.mos.cms.futurecdn.net/chLrh2VfSisKGzyVjAjaXF.png) 

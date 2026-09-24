@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZjMWM5NjgzLTE4YjQtNDBiMy05MzVkLTFkNTUzMTc1NjJkZDozNTgzNzZmNy0yZmVmLTRlNGItYjIyZi0wNzA5MTM4Y2Y5MDU=.jpg?crop=3:2,smart&trim=&width=973&auto=webp&quality=75
+locations:
+- Harrogate
+- King Edward's Drive
+- North Yorkshire
+people: []
+organisations:
+- CCTV
+- Morrisons Daily
+- North Yorkshire Police
+- Police Community Support Officer
 ---
 
 # Man arrested after shop worker threatened with knife during robbery at Harrogate store

@@ -12,6 +12,16 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- BRADFORD
+- Leeds Road
+- Shipley
+people:
+- Shipley
+organisations:
+- Newsquest
+- Shipley' Staff
+- Travellers Rest
 ---
 
 *(Image: Newsquest)*

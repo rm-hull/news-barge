@@ -10,6 +10,22 @@ description: Zoox is expanding to this critical ride-hailing destination a few w
 image: https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900
 categories:
 - Technology & Software
+locations:
+- Clark County
+- Houston
+- Las Vegas
+- San Diego
+people: []
+organisations:
+- Harry Reid International Airport
+- Hyundai
+- Lyft
+- Motional
+- Nevada Transportation Authority
+- Tesla
+- Uber
+- Waymo
+- Zoox
 ---
 
 Zoox isn’t wasting any time now that it’s allowed to operate and charge for rides in its custom-built robotaxi.

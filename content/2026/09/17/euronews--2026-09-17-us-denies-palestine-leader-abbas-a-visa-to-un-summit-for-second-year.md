@@ -12,6 +12,38 @@ image: https://images.euronews.com/articles/stories/09/91/69/67/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Australia
+- Belgium
+- Canada
+- France
+- Israel
+- Luxembourg
+- Malta
+- New York
+- Palestine
+- Portugal
+- Spain
+- US
+- United Kingdom
+- United States
+- Washington
+people:
+- Mahmoud Abbas
+- Pedro Sánchez
+organisations:
+- General Assembly
+- PA
+- PLO
+- Palestinian Authority
+- Palestinian Mission
+- State Department
+- State of Palestine
+- Times of Israel
+- UN General Assembly
+- UN Security Council
+- US State Department
+- United Nations
 ---
 
 ## The Palestinian Authority has condemned a US decision to deny visas to President Mahmoud Abbas and dozens of officials ahead of next week's UN General Assembly, marking the second consecutive year Washington has blocked his attendance.

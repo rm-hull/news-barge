@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Australia
+- BBC
+- Sydney
+people:
+- Cesci Burgoyne
+- Faye Bate
+- Kelly McNulty
+- Sarah Mackay
+organisations:
+- BBC
+- Google
+- Instagram
+- Leeds Beckett University
+- TikTok
 ---
 
 ![Sarah Mackay is pictured doing hip thrusts with a barbell in the gym.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/e98f/live/0907ac30-a6e7-11f1-9e4c-79c1c0e340c6.png)

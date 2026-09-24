@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Chile
+- Denmark
+- Gaza
+- Hollywood
+- South Korea
+- Ukraine
+- Venice
+people:
+- AI
+- Adrien Brody
+- Alex Gibney
+- Ben Affleck
+- Brendan Fraser
+- Bunker
+- Casey Affleck
+- Chris Hansen
+- Danny Boyle
+- Donald Trump
+- Dwayne Johnson
+- Ellen Burstyn
+- Elon Musk
+- Exile
+- Gallagher
+- George Clooney
+- Ink
+- John Malkovich
+- Julia Loktev
+- Larry Lamb
+- Lee Chang-dong
+- Maggie Gyllenhaal
+- Marilyn Monroe
+- Renzo Rosso
+- Robert Pattinson
+- Rupert Murdoch
+- Susan Sarandon
+- Tony
+organisations:
+- CIA
+- Diesel
+- Musk
+- NAZA
+- The Associated Press
+- The Sun
 ---
 
 The Venice Film Festival was lighter on blockbuster Hollywood fare this year, but that might have been a good thing in the end: There were more important things to talk about.

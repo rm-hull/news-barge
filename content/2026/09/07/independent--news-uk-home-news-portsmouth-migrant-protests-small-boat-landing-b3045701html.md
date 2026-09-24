@@ -11,6 +11,59 @@ image: https://static.independent.co.uk/2026/09/06/21/01M1W6EASBNAT7CGEHCXWV5C85
 categories:
 - News & Politics
 - UK
+locations:
+- Baie de Seine
+- Caen
+- Calais
+- Dover Priory
+- Dunkirk
+- Eastney Beach
+- Eastney Marina
+- HM
+- Hampshire
+- Hayling Ferry
+- Isle of Wight
+- Isle of Wight East
+- Kent
+- Manston
+- North Sea
+- Port of Dover
+- Portsmouth
+- Strait of Dover
+- UK
+- United Kingdom
+people:
+- Christine Martin
+- Daniel Thomas
+- Donna Jones
+- Emma Reynolds
+- Joe Robertson
+- Jonathan Reynolds
+- Nigel Farage
+- Robert Jenrick
+- Tommy Robinson
+organisations:
+- Border Force
+- Border Security Command
+- Eastney Cruising Association
+- Government
+- HM Coastguard
+- HM Coastguard Rescue Teams
+- Hampshire Police
+- Home Office
+- Isle of Wight Constabulary
+- Kent Police
+- Maritime & Coastguard Agency
+- Maritime and Coastguard Agency
+- Metropolitan Police Service
+- PCC
+- Portsmouth City Council
+- Portsmouth’s
+- RNLI
+- Reform UK
+- Sky News
+- South Central Ambulance Service
+- Treasury
 ---
 
 Hundreds of demonstrators descended on Portsmouth after migrants heading towards the Hampshire coast on a small boat were intercepted and brought ashore.

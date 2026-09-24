@@ -13,6 +13,25 @@ categories:
 - York
 - Arts & Culture
 - History
+locations:
+- Goathland
+- Grosmont
+- Hogsmeade Station
+- North Yorkshire Moors Railway
+- Pickering Station
+people:
+- Armstrong Oilers
+- Rhiannon Hope
+organisations:
+- Armstrong Oilers
+- Channel 4
+- MPD
+- Motive Power Depot
+- NYMR
+- National Trust
+- North Yorkshire Moors Railway
+- Postcode Lottery
+- Steam Train Diaries
 ---
 
 *(Image: NYMR)*

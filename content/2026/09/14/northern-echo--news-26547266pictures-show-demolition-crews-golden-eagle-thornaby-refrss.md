@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Golden Eagle
+- Great North Run Construction
+- North East
+- PETER REIMANN
+- Thornaby Pavilion
+- Trenchard Avenue
+- YOUR
+people:
+- Ann Ming
+organisations:
+- Golden Eagle
+- LCP Proudreed
+- Public Notice Portal
+- Stockton Borough Council
 ---
 
 ### What is the Public Notice Portal?

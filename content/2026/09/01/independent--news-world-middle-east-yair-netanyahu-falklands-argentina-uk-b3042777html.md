@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Argentina
+- Britain
+- England
+- Falkland Islands
+- Falklands Islands
+- Gaza
+- Germany
+- Iran
+- Israel
+- Isreal
+- Jerusalem
+- Malvinas
+- South America
+- South Atlantic
+- Spain
+- State of Palestine
+- UK
+- US
+- United Kingdom
+- West Falkland
+people:
+- Alex Armstrong
+- Benjamin Netanyahu
+- Conor Burns
+- Donald Trump
+- John Strong
+- Keir Starmer
+- Konstantin Kisin
+- Leopoldo Galtieri
+- Rupert Lowe
+- Tommy Robinson
+- Yair Netanyahu
+organisations:
+- GB News
+- Labour
+- Nato
+- Pentagon
+- Restore Britain
+- The Telegraph
+- Tory
+- Trump
 ---
 
 Benjamin Netanyahu’s son is facing a growing backlash after declaring his support for Argentina’s claim to the Falkland Islands and lashing out at Britain over its “hypocrisy and hostility towards Israel”.

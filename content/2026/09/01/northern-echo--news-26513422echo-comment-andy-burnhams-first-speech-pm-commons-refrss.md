@@ -12,6 +12,17 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Britain
+- UK
+people:
+- Andy Burnham
+- Keir Starmer
+- Kemi Badenoch
+organisations:
+- House of Commons
+- Labour Party
+- Reform
 ---
 
 *(Image: House of Commons/UK Parliament)*

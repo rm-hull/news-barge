@@ -13,6 +13,25 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Aberdeen
+- North Yorkshire
+- Salter Road
+- Scarborough
+- Scotland
+- South of England
+- St Albans
+- UK
+people:
+- Dale
+organisations:
+- Calibre Power
+- Dale Power Solutions
+- Dale Power Solutions Limited
+- Eastfield Industrial Estate
+- National Westminster Bank Plc
+- Natwest
+- UPS
 ---
 
 *(Image: Dale Power Solutions)*

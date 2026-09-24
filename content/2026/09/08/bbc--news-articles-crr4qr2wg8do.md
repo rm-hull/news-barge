@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Copehill Down
+- Europe
+- Finland
+- Salisbury Plain
+- UK
+people:
+- Louise Sandher-Jones
+- Richard Knighton
+organisations:
+- 16 Air Assault Brigade
+- British Army
+- British Royal Air Force
+- House of Lords
+- Houses of Parliament.
+- JATF
+- Joint Airborne Task Force
+- Ministry of Defence
+- MoD
+- Nato
+- Navy
+- RAF Brize Norton.
+- Royal Air Force
 ---
 
 ![Soldiers from 16 Air Assault Brigade are seen after parachuting from a British Royal Air Force A400M transport aircraft onto Salisbury Plain at Copehill Down training facility in March 2026 as part of Joint Airborne Task Force (JATF) training launched from RAF Brize Norton.](https://ichef.bbci.co.uk/ace/standard/908/cpsprodpb/4e4b/live/1c7c0520-ab71-11f1-9712-a14d469bace4.jpg)

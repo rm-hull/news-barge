@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Alington House
+- County Durham
+- DH1 3ET
+- North Bailey
+- USA
+people:
+- Bobby Robson
+- Jackie Robson
+organisations:
+- County Durham
+- Durham Lions
+- Durham Lions Club
+- Learning for Life
+- Lions Clubs
+- Lions Clubs International
+- North East Air Ambulance Service
+- Northumbria Blood Bikes
+- St Cuthbert's Hospice
+- Willow Burn Hospice
 ---
 
 *(Image: Supplied)*

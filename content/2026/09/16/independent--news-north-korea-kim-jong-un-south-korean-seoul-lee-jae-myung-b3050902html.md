@@ -15,6 +15,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- Japan
+- Kaesong
+- Moscow
+- North Korea
+- Pyongyang
+- Russia
+- Seoul
+- South Korea
+- U.S.
+- Ukraine
+- United States
+- Washington
+people:
+- Donald Trump
+- Kim Jong Un
+- Lee Jae Myung
+- Moon Jae-in
+- Vladimir Putin
+- Yoon Suk Yeol
+organisations:
+- Pentagon
+- Seoul Central District Court
+- Unification Ministry
 ---
 
 A South Korean court has ruled that North Korea should pay the South 44.6 billion won ($32.5 million) for blowing up a joint liaison office between the countries in 2020 as their relations deteriorated following the collapse of nuclear negotiations between Pyongyang and Washington.

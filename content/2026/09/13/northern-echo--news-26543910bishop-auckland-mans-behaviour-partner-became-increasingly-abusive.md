@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Durham Crown Court
+- Hind
+- Newton Aycliffe
+- Northbridge Park
+- St Helen Auckland
+people:
+- Emily Jo Willis
+- Ian Hind
+- Man
+- Miss Willis
+- Ralf Xhepa
+- Richard Clews
+organisations:
+- Durham Crown Court
+- Durham Police
+- Hind
+- Probation Service
 ---
 
 *(Image: PUBLIC)*

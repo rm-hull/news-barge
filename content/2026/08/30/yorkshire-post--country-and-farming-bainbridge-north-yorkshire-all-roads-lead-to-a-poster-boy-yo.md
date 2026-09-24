@@ -16,6 +16,47 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A684
+- Aire
+- Askrigg
+- Back Syke
+- Bainbridge
+- Brough Hill
+- Brough-by-Bainbridge
+- Cravenholme
+- England
+- Howda hill
+- Malham Tarn
+- Manor Farmhouse
+- Newkin
+- North Yorkshire
+- Old Hall
+- Pennines
+- River Bain
+- River Bain Hydro
+- River Ure
+- Scott Hill
+- Semerwater
+- Stainmore
+- Sycamore Hall
+- Upper Dales
+- Upper Wensleydale
+- West Burton
+- Yorebridge House
+- Yorkshire Dales
+- Yorkshire Dales.
+people:
+- Cuchlaine King
+- William
+organisations:
+- Hornblower Court
+- Methodist Chapel
+- Pork Pie Appreciation Society
+- Rose and Crown Hotel
+- Sixth Cohort of the Nervians
+- The Upper Dales Community Land Trust
+- Yorkshire Dales National Park Authority
 ---
 
 # Bainbridge, North Yorkshire: All roads lead to a ‘poster boy’ Yorkshire Dales village

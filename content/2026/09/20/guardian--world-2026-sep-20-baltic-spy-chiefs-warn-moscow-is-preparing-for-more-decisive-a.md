@@ -11,6 +11,51 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/90ff8d30e65886f845cc2a83c36901d0e7929bc8/557_0_6682_5344/master/6682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20698105207459d4a699838cdf26a753
+locations:
+- Capitol Hill
+- Czech Republic
+- Estonia
+- Europe
+- Kremlin
+- Kyiv
+- Kyiv.
+- Latvia
+- Leipzig
+- Moscow
+- New York
+- Paris
+- Poland
+- Prague
+- Riga
+- Russia
+- Russian Federation
+- Sweden
+- US
+- Ukraine
+people:
+- Adm Viktor Liina
+- Dmitry Peskov
+- Donald Trump
+- Donald Tusk
+- Emmanuel Macron
+- Jared Kushner
+- John Ratcliffe
+- Jonatan Vseviov
+- Michal Koudelka
+- Normunds Mežviets
+- Steve Witkoff
+- Thomas Nilsson
+- Vladimir Putin
+organisations:
+- BIS
+- CIA
+- Guardian
+- Mežviets
+- Nato
+- Security Information Service
+- Trump
+- UN
+- VDD
 ---
 
 European intelligence officials have raised the possibility of an imminent Russian test of Nato, with one saying a potential attack could come in a matter of “months, not years”.

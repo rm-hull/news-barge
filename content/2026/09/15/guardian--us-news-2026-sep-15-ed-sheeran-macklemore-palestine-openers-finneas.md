@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Australia
+- Boston
+- Gaza
+- Gillette Stadium
+- Israel
+- MetLife Stadium
+- New Jersey
+- North America
+- Palestine
+- US
+- West Bank
+people:
+- Aaron Rowe
+- Ed Sheeran
+- Finneas
+- Instagram
+- Kehlani
+- Lukas Forchhammer
+- Lukas Graham
+- Macklemore
+- Rachel
+- Robert Kraft
+organisations:
+- Beoga
+- Cornell University
+- Instagram
+- Israeli American Council
+- New England Patriots
+- Youtube
 ---
 
 All four supporting acts for upcoming dates of Ed Sheeran’s Loop tour have withdrawn in solidarity with fellow opening act Macklemore, as backlash grows to his removal from the tour over onstage comments in support of Palestine.

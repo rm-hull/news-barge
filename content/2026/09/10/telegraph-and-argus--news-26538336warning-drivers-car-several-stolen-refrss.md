@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Batley
+- Cleckheaton
+- Faraday
+- Liversedge
+- Mirfield
+people: []
+organisations:
+- Focus
+- Ford Puma
+- Kuga
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

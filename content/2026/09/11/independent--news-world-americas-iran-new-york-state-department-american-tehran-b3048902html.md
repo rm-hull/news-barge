@@ -12,6 +12,37 @@ image: https://static.independent.co.uk/2026/09/11/21/Iran_War_American_Detainee
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Diamond District
+- Evin
+- Great Neck Estates
+- Iran
+- Islamic Republic
+- Israel
+- Long Island
+- Manhattan
+- New York
+- Tehran
+- U.S.
+- US
+- Washington, D.C.
+people:
+- Kamran Hekmati
+- Kieran Ramsey
+- May. Hekmati
+- Philip Marcelo
+- Reza Valizadeh
+- Ryan Fayhee
+- Shohreh Nowfar
+- Thomas Suozzi
+organisations:
+- CBS
+- Committee to Protect Journalists
+- Global Reach
+- Radio Farda
+- Radio Free Europe
+- State Department
 ---
 
 An Iranian American jeweler from New York has been released from prison in Iran, but he is prohibited from leaving the country, according to his family and federal officials.

@@ -13,6 +13,18 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2023/08/18/10/newFile-4.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Asklepieion Hospital
+- Athens
+- Greece
+- Voula
+- Vouliagmeni
+people: []
+organisations:
+- ERT
+- In.gr
+- Kathimerini
+- TA NEA
 ---
 
 An 82-year-old man has died after a brawl over a sun bed on a beach in Greece, according to reports.

@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin
+- East Germany
+- Magdeburg Cathedral
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Alice Weidel
+- Franziska Hoppermann
+- Friedrich Merz
+- Gerhard Feige
+- Sven Schulze
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- ARD
+- AfD
+- Alternative für Deutschland
+- BSW
+- Bundestag
+- CDU
+- German Economic Institute
+- Greens
+- Left
+- SPD
 ---
 
 The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has surged to a resounding victory in a crucial state election in Germany, but fell just short of winning a majority in its quest to form the country’s first far-right state government since the second world war.

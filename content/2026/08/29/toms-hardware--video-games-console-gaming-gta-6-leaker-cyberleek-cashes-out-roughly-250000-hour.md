@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- KuCoin
+- Seychelles
+- U.S.
+people:
+- Cyberleek
+- Lucia
+- Luke James
+- Solana
+- Tom
+organisations:
+- CCE.Cash
+- CoinDesk
+- Cyberleek
+- DMCA
+- Department of Justice
+- Discord
+- GTA VI
+- GTAForums’
+- Get Tom's Hardware
+- Google News
+- Grand Theft Auto VI
+- KuCoin
+- Microsoft
+- Netflix
+- PC Gamer
+- Rockstar
+- Take-Two
 ---
 
 ![GTA VI gameplay screenshot (police car chase)](https://cdn.mos.cms.futurecdn.net/Naa9i5RiWd85B2GTsqkKzK.jpg) 

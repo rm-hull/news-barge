@@ -14,6 +14,36 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Atlantic
+- Black Brook
+- Deepcar
+- Earth
+- Great Yorkshire Rivers
+- Greetland
+- Halifax
+- North Yorkshire
+- Richmond
+- River Don
+- Scotch Corner
+- Sheffield
+- Skeeby Beck
+- Staindale
+- Staithes
+- Stocksbridge
+- Swale
+people:
+- Fish
+- Sarah Lonsdale
+- Skeeby Beck
+organisations:
+- Belfast University
+- EA
+- The Rivers Trust and Environment Agency
+- Wild Trout Trust
+- YDRT
+- Yorkshire Dales Rivers Trust
+- Yorkshire Water
 ---
 
 # Breaking down the barriers for fish in Yorkshire's rivers

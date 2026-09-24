@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Moorgate
+- Rotherham
+- Stafford Drive
+people:
+- Drew Tarmey
+- Paul Thorp
+- Safina Hussain
+organisations:
+- Rotherham Council
 ---
 
 # Councillor: “Life’s too short” for bitter row over Rotherham house extension

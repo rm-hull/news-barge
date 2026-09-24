@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- LISA
+people:
+- Brian Byrnes
+- Martin Lewis
+- Miatsf
+organisations:
+- Claudia Nass
+- First Time Buyer ISA
+- Government
+- Lifetime ISA
+- Moneybox LISA
+- Personal Finance
+- Starbucks
+- State Pension
+- Stocks & Shares
+- Stocks & Shares ISA
+- Treasury
 ---
 
 *(Image: Claudia Nass)*

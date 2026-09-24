@@ -14,6 +14,15 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Benagéber
+- Europe
+- Spain
+- Tuéjar
+people: []
+organisations:
+- Emergency Military Unit
+- UME
 ---
 
 The fire broke out shortly after 3.30pm and had burned around 690 hectares by Wednesday morning, with flames spreading along a 17-kilometre perimeter. Fire engines, helicopters and aircraft were deployed as crews worked to contain the blaze in dense and difficult-to-reach vegetation.

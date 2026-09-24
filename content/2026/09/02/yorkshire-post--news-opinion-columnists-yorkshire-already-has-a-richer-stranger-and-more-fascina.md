@@ -18,6 +18,33 @@ categories:
 - Film & TV
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Abbey
+- Barnsdale Forest
+- Clifton.
+- Doncaster
+- England
+- Hollywood
+- Kirklees Hall
+- Kirklees Priory
+- Scotland
+- St Mary
+- York
+- Yorkshire
+people:
+- Eileen Power
+- Grave’
+- Henry VIII
+- Hugh Jackman
+- John Leland
+- Kirklees
+- Michael Carter
+- Reiner le Fleming
+- Robin Hood
+organisations:
+- Robin Hood
+- Virgin Mary
+- Yorkshire
 ---
 
 # Yorkshire already has a richer, stranger and more fascinating version of the Robin Hood story - Michael Carter

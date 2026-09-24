@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- CRAVEN
+- Catterick Garrison
+- Colburn
+- Hawes Market Place
+- North Yorkshire
+- UK
+people:
+- Carl Les
+- Deo
+organisations:
+- Les
+- New Recycling Service Roadshow
+- North Yorkshire Council
 ---
 
 CRAVEN residents are being urged to recycle more and recycle better.

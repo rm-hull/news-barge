@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21484407.jpg?type=og-image
+locations:
+- Darlington
+- Durham
+- North East
+- South Africa
+- Sunderland
+- Zambia
+- Zimbabwe
+people:
+- Alex King
+- Clinton Leeks
+- Clinton Leeks OBE
+- Clive Roberts
+- Duncan Maw
+- Freemasons
+- Keith Blundy
+- Norman Jackson
+- Phil Twizell
+- Phil Twizzell
+organisations:
+- Duncan Maw
+- Durham Freemasons
+- Durham Freemasons Charity
+- Durham Freemasons’
+- Durham Freemasons’ Charity
+- Durham University
+- Freemasonry
+- Freemasons’ Charity
+- HMRC
+- Masonic
+- Master of Universities Lodge
+- Norman Jackson Fund
+- Spennymoor Trust Fund
+- Universities Lodge
 ---
 
 *(Image: Keith Blundy)*

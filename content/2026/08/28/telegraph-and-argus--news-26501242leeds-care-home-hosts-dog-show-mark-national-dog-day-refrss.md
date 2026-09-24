@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Pets & Animals
+locations:
+- Leeds
+- The Manor House Roundhay
+people:
+- Sharna Neal
+organisations:
+- Anchor
+- Dogs Trust Leeds
+- Manor House Roundhay
+- Paws & Applause
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Blackwellgate
+- Darlington
+people:
+- God
+- Jasper
+- Ruth Middleton
+- Ruth’s
+organisations:
+- Blackwellgate
+- Darlington Indoor Market
+- Darlington Market
+- Indoor Market
+- Tasty Treats
 ---
 
 A Darlington pet boutique named in memory of a much-loved beagle is going from “strength to strength” after moving into its own town centre shop.

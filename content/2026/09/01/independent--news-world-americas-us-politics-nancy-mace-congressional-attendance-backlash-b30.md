@@ -13,6 +13,24 @@ image: https://static.independent.co.uk/2026/09/01/23/2275355550..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- South Carolina
+- U.S.
+people:
+- Carter Phillips
+- Holly Walker
+- Jenny Honeycutt
+- Nancy Lacore
+- Nancy Mace
+organisations:
+- 1st Congressional District
+- Community Note
+- House Clerk
+- House of Representatives
+- Politico
+- The Independent
+- YouTube
 ---
 
 U.S. Rep. Nancy Mace claims she works for her constituents seven days a week, but her actual attendance record on Capitol Hill says otherwise.

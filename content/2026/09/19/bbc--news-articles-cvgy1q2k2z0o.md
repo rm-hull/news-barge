@@ -14,6 +14,83 @@ categories:
 - Arts & Culture
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Alexandru Sturdza
+- Crusader Cathedral
+- Damascus
+- Europe
+- Gaza City
+- Geneva
+- Golestan Palace
+- Great Omari Mosque
+- Iran
+- Iraq
+- Isfahan
+- Isis
+- Israel
+- Khartoum
+- Kingdom of Kush
+- Lebanon
+- Mali
+- Meroe Pyramids
+- Mosul
+- Mykolaiv
+- Naqsh-e Jahan Square
+- Odesa
+- Palmyra
+- Russia
+- Seventh Century
+- Sudan
+- Syria
+- Tehran
+- The Hague
+- Timbuktu
+- US
+- Ukraine
+- Yemen
+people:
+- Ahmad al-Faqi al-Mahdi
+- Ahmed al-Faqi al-Mahdi
+- Al-Asaad
+- Alexandra Fiebig
+- Bijan Rouhani
+- Emma Barnett
+- Emma Cunliffe
+- Hryhoriy Skovoroda
+- Hryhorri Skovoroda
+- Isis
+- Joe Biden
+- John Simpson
+- Khaled al-Asaad
+- Mohammed Jasim Mohammed al-Hamdani
+- Now Dayyeh
+- Palmyra
+- Tareq Abu Dayyeh
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Aliph Foundation
+- Blue Shield International
+- Central Library
+- Endangered Archaeology in the Middle East and North Africa
+- Hague Convention
+- Hamas
+- Hryhoriy Skovoroda National Literary Memorial Museum
+- ICC
+- International Criminal Court
+- Isis
+- Kyiv
+- Ministry of Culture
+- Mosul University
+- Mosul University Central Library
+- National Syrian Museum
+- Odesa
+- RSF
+- Red Cross
+- US Justice Department
+- Unesco
+- University of Mosul
+- World Heritage Site
 ---
 
 **August was a brutal month for Ukraine. Russian aerial attacks increased significantly, launching thousands of drones. Kyiv was intensely bombarded, as were the southern cities of Mykolaiv and Odesa. Amid the destruction and loss of life, Odesa reported damage to six Unesco-protected sites, including the salmon-pink 19th Century Alexandru Sturdza House.**

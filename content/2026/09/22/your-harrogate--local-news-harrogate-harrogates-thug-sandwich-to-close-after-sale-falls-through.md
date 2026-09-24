@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/67d3d855a4a45.jpg
+locations:
+- Albert Street
+people:
+- Daniel Bell
+- Thug Sandwich
+organisations:
+- Harrogate
+- Thug Sandwich
 ---
 
 ![](https://mmo.aiircdn.com/409/67d3d855a4a45.jpg)

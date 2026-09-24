@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Multnomah
+- Oregon
+- Portland
+people:
+- Ashley Real
+- Bridget Webster
+- Charity Perry
+- Elizabeth “Libby” Gibson
+- Jesse Calhoun
+- Joanna Speaks
+- Kristin Smith
+- Libby
+- Melissa Marrero
+- Nathan Vasquez
+organisations:
+- District Attorney’s Office
 ---
 
 An Oregon man accused of killing five women has been indicted in connection with the death of a sixth woman, officials announced this week.

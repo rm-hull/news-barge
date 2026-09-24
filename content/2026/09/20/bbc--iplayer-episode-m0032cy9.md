@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0pbbv7v.jpg
+locations:
+- Earth
+- Johannesburg2:02
+- MoscowAt
+- US
+- Ukraine
+people:
+- Diana
+- Jeffrey Epstein.58
+organisations:
+- CNN
+- Kill Switch'Jack Clark
+- MS NOW
+- OrbitThe US
+- White HouseTrump
 ---
 
 # Princess Diana: My Sister’s Story

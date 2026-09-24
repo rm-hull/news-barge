@@ -15,6 +15,13 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- NHS
+people:
+- Ian Carr
+organisations:
+- Mid Yorkshire Teaching NHS Trust
+- Patchwork Health
 ---
 
 *(Image: NHS)*

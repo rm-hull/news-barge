@@ -11,6 +11,29 @@ description: JBL's new Cove line of indoor speakers swap out its cheap-and-cheer
 image: https://cdn.mos.cms.futurecdn.net/iiQ9QyCo5EhCpRLWAZBKaJ-1556-80.png
 categories:
 - Technology & Software
+locations:
+- M1
+people:
+- Alexa
+- Tom Bedford
+organisations:
+- AirPlay 2
+- Android Police
+- BGR
+- Cove P1
+- Digital Trends
+- GamesRadar
+- Google Cast
+- Google News
+- JBL
+- Qobuz Connect
+- Roon Ready
+- Spotify Connect
+- TechAdvisor
+- TechRadar
+- Tidal Connect
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![JBL's new Cove speaker on a kitchen counter](https://cdn.mos.cms.futurecdn.net/iiQ9QyCo5EhCpRLWAZBKaJ.png) 

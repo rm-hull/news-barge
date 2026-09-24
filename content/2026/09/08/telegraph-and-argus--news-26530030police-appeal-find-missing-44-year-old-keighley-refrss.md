@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Keighley
+people:
+- Gareth
+organisations:
+- Adidas
+- West Yorkshire Police
+- West Yorkshire Police)* Police
+- West Yorkshire Police** A
 ---
 
 *(Image: West Yorkshire Police)*

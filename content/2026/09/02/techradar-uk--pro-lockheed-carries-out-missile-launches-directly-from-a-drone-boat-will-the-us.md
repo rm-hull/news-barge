@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/bFN23MznAqSXFFMSyVPdjJ-1920-80.png
 categories:
 - Technology & Software
 - Sports
+locations:
+- Hawaii
+- Ukraine
+people:
+- Rahim Amir
+organisations:
+- '**Saildrone'
+- ARES
+- Fleet Experimentation Program
+- Google News
+- JAGM
+- Lockheed Martin
+- Naval News
+- PC
+- PCs
+- RGB
+- RIMPAC
+- SFF
+- Saildrone Surveyor
+- Surveyor Unmanned Surface Vehicle
+- TechRadar Pro
+- The USV Ranger
+- Theodore Roosevelt
+- US Navy
 ---
 
 ![Arleigh Burke-class guided-missile destroyers fire standard missile 2 (SM-2)](https://cdn.mos.cms.futurecdn.net/bFN23MznAqSXFFMSyVPdjJ.png) 

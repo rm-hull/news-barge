@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- England
+- Humber
+- NHS Dorset
+- North Yorkshire
+- Shropshire
+- Telford
+- West Yorkshire
+- Wrekin
+people:
+- Sally Gainsbury
+- Tim Lane
+- Victoria Tzortziou Brown
+organisations:
+- BMJ
+- Birmingham
+- British Medical Journal
+- Dorset
+- GP
+- ICBs
+- NHS Hereford
+- Nuffield Trust
+- RCS
+- Royal College of GPs
+- Royal College of Surgeons
+- Royal College of Surgeons of England
+- Shropshire
+- Somerset
+- West Yorkshire
+- Worcestershire
 ---
 
 NHS health boards across England are deliberately delaying patient care by enforcing minimum wait times for treatment, an investigation has found.

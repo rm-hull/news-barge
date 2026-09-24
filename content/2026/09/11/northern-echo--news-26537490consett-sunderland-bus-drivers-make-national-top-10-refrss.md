@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Blackpool
+- Consett
+- Darlington
+- Go North East
+- Sunderland
+people:
+- Ben Gilligan
+- Dawid Zochowski
+- Kevin Shanks
+- Mr Haughton
+organisations:
+- Armed Forces
+- Elite Bus Driver Training Academy
+- Go North East
+- ROSCO
+- Road Operators’ Safety Council
 ---
 
 *(Image: Go North East)*

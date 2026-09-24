@@ -14,6 +14,17 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- Doncaster Road
+- Mexborough
+- Pastures Road
+people: []
+organisations:
+- BMW
+- CCTV
+- Crimestoppers
+- South Yorkshire Police
+- Suzuki
 ---
 
 # Motorcyclist dies after crash with BMW as driver arrested in Doncaster

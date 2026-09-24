@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- North America
+- US
+people:
+- Alix Pickles
+- Jared Kushner
+- Lindsay Clancy
+- Marianna Spring
+- Matt Chorley
+- Nik Sindle
+- Philip Bull
+- Purvee Pattni
+- Putin
+- Sam Bonham
+- Sarah Smith
+- Sumi Somaskanda
+- Trump
+- Zelensky
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Sounds
+- Newscast
+- SS
+- Trump
+- US Election Unspun
+- US Supreme Court
 ---
 
 ## Episode details

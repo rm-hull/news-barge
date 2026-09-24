@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Bayeux
+- Fulford
+- Stamford Bridge
+- York
+people: []
+organisations:
+- British Museum
+- Visitor Experience Team
+- Yorkshire Museum
 ---
 
 The Bayeux Tapestry excitement is extending into York – as the Yorkshire Museum prepares to launch a fun weekend programme of events to celebrate the display of the tapestry at the British Museum.

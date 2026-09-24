@@ -13,6 +13,22 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bingley Pool
+- Bradford
+- Covid
+- Girlington
+- Squire Lane
+people:
+- Geoff Winnard
+- Jeremy Thackray
+organisations:
+- Bingley Pool
+- Bingley West
+- Bradford Council
+- Bradford Council’s Reform UK-led
+- Friends of Bingley Pool
+- Local Democracy Reporting Service
 ---
 
 *(Image: Local Democracy Reporting Service)*

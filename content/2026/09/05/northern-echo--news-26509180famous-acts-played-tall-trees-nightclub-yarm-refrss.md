@@ -13,6 +13,62 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Glasgow
+- Green Lane
+- Hollywood
+- Liverpool
+- London
+- Manchester
+- North East
+- North Yorkshire
+- Northallerton
+- Quiet County Durham
+- Tall Trees
+- Teesside
+- UK
+- Yarm
+people:
+- Aly & Fila
+- Audrey Gallagher
+- Boy George
+- Carl Cox
+- Cheryl Tweedy
+- Chesney Hawkes
+- DJ Mag
+- Dave Pearce
+- Dubfire
+- Girls Aloud
+- Goodgreef
+- John Digweed
+- John Major
+- Jordan Suckley
+- Joris Voorn
+- Kutski
+- Lisa Lashes
+- Nic Fanciulli
+- Orjan Nilsen
+- Paul Bleasdale
+- Paul Oakenfold
+- Paul Taylor
+- Pete Tong
+- Rob Tissera
+- Showtek
+- Tall Trees
+- Tom Hardy
+organisations:
+- BBC Radio 1
+- Black Dyke Band
+- Club Amadeus
+- Club M
+- Cream
+- Goodgreef Winter White Party
+- Radio 1
+- Tall Trees
+- The Arches
+- The Rivals
+- Yarm Tall Trees
 ---
 
 Tall Trees in Yarm was once one of the biggest names in North East nightlife, attracting thousands of clubbers as well as an extraordinary list of famous performers.

@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- D.C
+- D.C.
+- Ghana
+- Lebanon
+- New Jersey
+- Nigeria
+- Peru
+- U.S.
+- Washington
+people:
+- Bob Menendez
+- David Szakonyi
+- Donald Trump
+- Joe Biden
+organisations:
+- Congress
+- Department of Justice
+- Gallup
+- George Washington University
+- Organization for Economic Co-operation and Development
+- The Washington Post
+- Trump
 ---
 
 Nearly 90 percent of U.S. citizens now believe government corruption is widespread in Washington, D.C., according to a new poll.

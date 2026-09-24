@@ -13,6 +13,15 @@ categories:
 - York
 - Travel
 - Personal Finance & Investing
+locations:
+- Tesco York
+people: []
+organisations:
+- Asda Express York
+- Morrisons York
+- Sainsbury's Monks Cross
+- Tesco York Extra
+- Tesco York Tadcaster Road Extra
 ---
 
 *(Image: Archive)*

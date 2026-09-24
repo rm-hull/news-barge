@@ -12,6 +12,42 @@ image: https://cdn.mos.cms.futurecdn.net/YWzvZ9LHMRskehLVGL9QoB-1600-80.jpg
 categories:
 - Technology & Software
 - Society & Culture
+locations:
+- Artemis II
+- Dartmouth
+- Earth
+- Yale
+people:
+- Eric R. Fossum
+- Eugene F. Lally
+- Gosh
+- IEEE
+organisations:
+- AI
+- AT&T Bell Labs
+- CMOS QIS
+- Co-Pilot
+- Columbia University
+- DHTML
+- Désiré
+- Electron Devices
+- Gigajot
+- Google News
+- Hasselblad
+- IEDM
+- IEEE
+- ISSCC
+- International Electron Devices Meeting
+- International Image Sensor Workshop
+- International Solid-State Circuits Conference
+- JPL
+- Jet Propulsion Lab
+- NASA
+- PIS
+- Quanta Image Sensor
+- SPAD QIS
+- TechRadar Pro
+- Xerox PARC
 ---
 
 ![NASA's Mars Curiosity Rover Taking A Selfie On Mars](https://cdn.mos.cms.futurecdn.net/YWzvZ9LHMRskehLVGL9QoB.jpg) 

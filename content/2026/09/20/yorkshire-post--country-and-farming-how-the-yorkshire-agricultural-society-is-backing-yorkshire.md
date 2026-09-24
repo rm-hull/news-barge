@@ -13,6 +13,27 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIzYjgwOWI1LTk4NDctNDI2ZC1hOWM5LWIyMTI3YjllMTI1YjowYzVmOWUzNi0zMWQ3LTQ1ZGUtOTg4OS0zY2UwMjQyM2IyMGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Great Yorkshire Events Centre
+- YAS
+people:
+- Alan Thornton
+- Graham Thompson
+- Grandpa Buxton
+- McClarrons
+organisations:
+- Carr House Farm
+- Dog’s Snout
+- Fodder
+- Fruit Works Co-operative
+- Great Yorkshire Food Hall
+- Harrogate Caravan Park
+- Le Creuset Factory
+- Pavilions of Harrogate
+- Yorkshire Agricultural Society
+- Yorkshire Beauty
+- Yorkshire Post Rural Awards
+- Yorkshire Rural Support Network
 ---
 
 # How the Yorkshire Agricultural Society is backing Yorkshire farming all year round - Graham Thompson

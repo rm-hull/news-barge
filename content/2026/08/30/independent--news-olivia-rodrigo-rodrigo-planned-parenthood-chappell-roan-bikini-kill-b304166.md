@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- California
+- Irvine
+- Orange County
+- Tucson
+people:
+- Ai-jen Poo
+- Alanis Morissette
+- Angela Doyinsola Aina
+- Bikini Kill
+- Caren Spruch
+- Chappell Roan
+- Doechii
+- Donald Trump
+- Gen Z
+- Grace Slevin
+- Jennifer Fahy
+- John Mellencamp
+- Melinda French Gates
+- Melissa Shaw
+- Neil Young
+- Olivia Rodrigo
+- Santigold
+- Sarah McLachlan
+- Taylor Swift
+- Uma Iyer
+- Willie Nelson
+organisations:
+- AP
+- Arts and Entertainment
+- Bikini Kill
+- Black Mamas Matter Alliance
+- Daisy Chain
+- Daisy Chain Fields
+- Farm Aid
+- Lilly Endowment Inc
+- National Domestic Workers Alliance
+- National Women's Law Center
+- Pivotal Ventures
+- Planned Parenthood
+- The Conversation US
 ---
 
 Evoking the same do-it-yourself pop-rock feminism of her '90s musical influences, Olivia Rodrigo raised $20 million for women's well-being with a benefit show that activated her young audience.

@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://images.euronews.com/articles/stories/09/92/33/39/1200x675_cmsv2_74bcdad7-ee88-5fd1-ae8b-27b6e10cf818-9923339.jpg
+locations:
+- Andorra
+- Bab-el-Mandeb
+- Bahrain
+- Balkans
+- Bosnia and Herzegovina
+- Brazil
+- Denmark
+- Djibouti
+- Eritrea
+- Europe
+- Finland
+- France
+- Greece
+- Gulf
+- Hormuz
+- Iran
+- Italy
+- Kuwait
+- Netherlands
+- North Macedonia
+- Saudi Arabia
+- Turkey
+- US
+- Ukraine
+- Yemen
+people: []
+organisations:
+- EU
+- Euronews Business
+- Europe in Motion
+- European Central Bank
+- IEA
+- International Energy Agency
+- London Stock Exchange Group
 ---
 
 ## The global oil crisis sent petrol and diesel peaking over €2.4/L and €2.5/L, but figures adjusted for the cost of living give a better indication of which countries are feeling the pinch the worst.

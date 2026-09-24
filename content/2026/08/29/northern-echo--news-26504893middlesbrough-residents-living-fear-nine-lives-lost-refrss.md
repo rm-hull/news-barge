@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- England
+- Grangetown
+- Hadfield Court
+- Linthorpe Road
+- Middlesbrough
+- Redcar
+- Ruskin Avenue
+- Steele Crescent
+- Teesside
+people:
+- Anna Turley
+- Billy
+- Brenda Hickson
+- Ionela
+- Jenna Coates
+- Jon McAdam
+- Marjorie Bell
+- Natalie McDonald
+- STUART BOULTON
+- Shaaz
+- Stuart Boulton
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Durham Police
+- Johns News
+- Middlesbrough
+- North News & Pictures Ltd
+- Not Just Vape
+- STUART BOULTON
+- The Northern Echo
 ---
 
 Middlesbrough residents and businesses say they are 'living in fear' as a spate of violent incidents continue to grip the town, claiming the lives of nine.

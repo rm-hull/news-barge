@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- San Francisco
+- Silicon Valley
+- Washington
+people:
+- AI
+- Chris Lehane
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Jack Clark
+- Jensen Huang
+- Mark Zuckerberg
+- Patrick Hillman
+- Sam Altman
+- Yann LeCun
+organisations:
+- AI
+- Anthropic
+- BBC
+- DeepMind Demis Hassabis
+- Google Deepmind
+- Grok
+- Logical Intelligence
+- Meta
+- Nvidia
+- OpenAI
+- Salesforce
+- X
 ---
 
 Why is Donald Trump so opposed to regulating AI?

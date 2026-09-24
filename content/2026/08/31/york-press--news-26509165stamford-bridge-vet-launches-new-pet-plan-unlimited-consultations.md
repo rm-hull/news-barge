@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Stamford Bridge
+people:
+- Lizzie McLennan Green
+organisations:
+- Battle Flatts Veterinary Centre
+- CVS Vets
+- Healthy Pet Club Advanced
+- Nico Russell
+- RSPCA
+- Stamford Bridge
+- YouGov
 ---
 
 *(Image: Nico Russell)*

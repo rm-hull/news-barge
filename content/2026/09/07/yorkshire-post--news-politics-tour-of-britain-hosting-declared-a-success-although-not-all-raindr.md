@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Leyburn
+- North Yorkshire
+- Wensleydale Railway
+- Yorkshire Dales
+people:
+- Coun Alison Littlewood Laws
+- Coun Littlewood Laws
+- Leyburn
+organisations:
+- '## Leyburn Town Council'
+- British Cycling
+- Coun Littlewood Laws
+- ITVX
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Police
+- York
+- Yorkshire Dales
 ---
 
 # Tour of Britain hosting declared a success although not “all raindrops and kittens”

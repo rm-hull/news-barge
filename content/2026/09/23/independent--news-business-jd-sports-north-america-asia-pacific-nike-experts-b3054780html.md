@@ -12,6 +12,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/09/c57a9889b9320d61ae43a4c229fc546dY29udGVudHNlYXJjaGFwaSwxNzkwMjM2NzM4-2.78681675.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Asia Pacific
+- North America
+- UK
+- US
+people:
+- Regis Schultz
+- Victoria Scholar
+organisations:
+- Interactive Investor
+- JD Sports
+- JD Sports Fashion
+- JD Sports’
+- Nike
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -12,6 +12,18 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/12/Turkey_School_Shooting_1_744.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Kahramanmaras
+- Manisa
+- Sanliurfa
+- Turgutlu
+- Turkey
+people:
+- Akin Gurlek
+organisations:
+- Cumhuriyet
+- HaberTurk
+- Justice
 ---
 
 An attacker opened fire near a high school in western Turkey on Tuesday and wounded at least 11 people, officials said. The suspected shooter was arrested.

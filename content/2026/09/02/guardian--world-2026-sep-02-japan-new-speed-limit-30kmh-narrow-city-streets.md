@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Japan
+people:
+- Yoshinobu Kusunoki
+organisations:
+- Mainichi Shimbun
 ---
 
 Drivers on residential roads in Japan have been forced to take their foot off the accelerator, after the speed limit was slashed from 60km/h (37mph) to 30km/h in an attempt to reduce deaths and injuries among pedestrians on narrow urban streets.

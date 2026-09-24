@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Lincoln Center
+- New York
+- Paris
+- Upper East Side
+people:
+- Alexander Calder
+- Calvin Klein
+- Carmen Herrera
+- Carolyn Bessette-Kennedy
+- Celine
+- Ellsworth Kelly
+- Georgia O’Keeffe
+- Jil Sander
+- Matisse
+- Michael Kors
+- Ryan Murphy
+- Tory Burch
+- Veronica Leoni
+organisations:
+- Fish Tail
+- Lobster Trap
+- Love Story
+- Museum of Modern Art
+- O’Keeffe’s
+- Whitney Museum
 ---
 
 Calvin Klein has taken a highbrow turn in the two years since Veronica Leoni took charge. The Italian designer, a philosophy graduate who was schooled in the chic design studios of Jil Sander and Celine, has shifted away from jeans, boxer shorts and logos, stripping the brand to its minimalist bones: slip dresses and simple coats, slim skirts and crisp T-shirts.

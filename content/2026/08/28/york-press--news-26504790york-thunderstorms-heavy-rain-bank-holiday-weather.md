@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- England
+- North Yorkshire
+- Wales
+- York
+people:
+- Chris Booth
+organisations:
+- Met Office
 ---
 
 *(Image: Chris Booth)*

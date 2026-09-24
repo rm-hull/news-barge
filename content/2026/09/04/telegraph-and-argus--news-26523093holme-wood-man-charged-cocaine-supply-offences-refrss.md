@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - True Crime
 - Business & Entrepreneurship
+locations:
+- Bradford Magistrates' Court
+- Holme Wood
+- Holme Wood West Yorkshire
+- St Margarets Avenue
+people:
+- Anthony Tidswell
+organisations:
+- '## Team'
+- Bradford Crown Court
+- Holme Wood Community Partnership
+- Newsquest
+- Operation Sweetgill
 ---
 
 *(Image: Newsquest)*

@@ -14,6 +14,21 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Elon Musk
+- Hugues Meyrath
+- Mark Tyson
+- Tom
+organisations:
+- Google News
+- HPE
+- IBM
+- LTO Program Technology Provider Companies
+- Quantum Corp.
+- TPCs
+- TPPCs
+- Tom's Hardware
 ---
 
 ![LTO-10 40TB announcements](https://cdn.mos.cms.futurecdn.net/m9nvZqmoiRM8EdYGJMuUrn.jpg) 

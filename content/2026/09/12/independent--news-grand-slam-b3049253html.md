@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Flushing Meadows
+people: []
+organisations: []
 ---
 
 The US Open comes to a close at Flushing Meadows with singles and doubles finals, as players compete for titles at the year’s final Grand Slam tournament.

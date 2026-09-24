@@ -10,6 +10,21 @@ description: A 21-year-old Linus Torvalds introduced Linux on Usenet, having no 
 image: https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Minix
+- Torvalds
+- Torvalds'
+organisations:
+- Efosa
+- Google News
+- Linus Torvalds
+- Linux Torvalds
+- Open Hub
+- TOP500
+- TechRadar Pro
+- Torvalds'
+- Usenet
 ---
 
 ![Linux penguin logo on wood](https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd.jpg) 

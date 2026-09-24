@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- America
+- BBC
+- Covent Garden
+- England.
+- Floral Street
+- France.
+- Heathrow VIP
+- Japan
+- London
+- Nottingham
+- Paris
+- Switzerland
+- Tuscany
+people:
+- Chris Froome
+- Colin Paterson
+- David Bowie
+- George Best
+- Paul McCartney
+- Paul Smith
+- Pauline Denyer
+- Pauline Smith
+- Sir Paul Smith
+- Smithy
+- Sue Lawley
+organisations:
+- BBC News
+- Desert Island Discs
+- Hammersmith Apollo
+- London HQ
+- Manchester United
+- Paul Smith
+- Rolls Royce
+- The Hurlingham Club
 ---
 
 ![British fashion designer Paul Smith is pictured in a replica of his design studio as he launches an exhibition entitled "Hello, My Name is Paul Smith" at the Design Museum in London, on November 14, 2013](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03fb/live/4c340780-aaa5-11f1-aed2-8d6da8d75094.jpg)

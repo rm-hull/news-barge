@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bonita Springs
+- Florida State Prison
+- Fort Myers
+- Starke
+- U.S.
+people:
+- Curtis Wilkie Beasley
+- Daniel Owen Conahan Jr.
+- Harold Gene Lucas
+- Jill Piper
+- Richard Byrd Jr.
+- Ron DeSantis
+- Terri Rice
+organisations:
+- Department of Corrections
+- Florida Supreme Court
+- Piper’s
+- U.S. Supreme Court
 ---
 
 A Florida man who murdered a 16-year-old girl after she rebuffed his romantic interests and injured two of her companions is scheduled for execution on Tuesday, marking the first of three lethal injections set to occur in the state this month.

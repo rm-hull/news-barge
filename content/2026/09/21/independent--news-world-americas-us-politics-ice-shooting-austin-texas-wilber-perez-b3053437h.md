@@ -12,6 +12,55 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/20/22/2026-09-20T212040Z_140994522_RC23NNASCPBD_RTRMADP_3_TEXAS-SHOOTING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Anderson Square
+- Biddeford
+- Houston
+- Maine
+- Minneapolis
+- Minnesota
+- North Austin
+- Texas
+- U.S. 183
+- US
+- United States
+- Venezuela
+people:
+- Alex Pretti
+- Biden
+- David Brouilette
+- Donald Trump
+- Durán Guerrero
+- Garces Perez
+- Greg Casar
+- Johan Sebastián Durán Guerrero
+- Kate Lincoln-Goldfinch
+- Kirk Watson
+- Kristi Noem
+- Lisa Davis
+- Lorenzo Salgado Araujo
+- Markwayne Mullin
+- Renee Good
+- Wilber Rafael Garces Perez
+- Wilbur
+organisations:
+- Army
+- Austin Police
+- CBS
+- Department of Homeland Security
+- Fox News
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Maine National Guard
+- NPR
+- Texas Department of Public Safety
+- Texas Rangers
+- The Associated Press
+- The Independent
+- US Immigration and Customs Enforcement
+- then-Homeland Security
 ---
 
 An Immigration and Customs Enforcement (ICE) agent shot and wounded a man working as a DoorDash driver on Sunday, city officials said, in the latest instance of government violence allegedly tied to President Donald Trump's mass deportation campaign.

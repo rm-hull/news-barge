@@ -13,6 +13,38 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Aluminium Bahrain
+- Beijing
+- China
+- Indonesia
+- Iran
+- Jakarta
+- Middle East
+- Southeast Asia
+- Sulawesi
+people:
+- Andy Farida
+- Binbin Mariana
+- Edna Tarigan
+- Muhammad Al Amin
+- Putra Adhiguna
+- Syahdiva Moezbar
+- Xi Jinping
+organisations:
+- AP
+- Associated Press’
+- CREA
+- Centre for Research on Energy and Clean Air
+- Emirates Global Aluminium
+- Energy Shift Institute
+- Fastmarkets
+- Indonesian Forum for Environment
+- Jakarta-based Energy Shift Institute
+- Market Forces
+- Qatar Aluminium Ltd
+- WALHI
+- World Economic Forum
 ---
 
 Resource-rich Indonesia is expanding its production of aluminum as the Iran war disrupts supplies, relying on its abundant coal reserves to power new smelters that run contrary to efforts to curb carbon emissions that cause climate change.

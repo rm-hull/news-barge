@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Georgia
+- Maine
+- Massachusetts
+- Montpelier
+- New England
+- North Carolina
+- Northeast
+- Ohio
+- Portland
+- Tennessee
+- U.S.
+- Vermont
+people:
+- Emily Powell
+- Gus Goodwin
+- Joseph Ferris
+- Kathleen Knight
+- Leila Wilson
+- ___ Whittle
+organisations:
+- Appalachian Trail Conservancy
+- Forest Service
+- The Nature Conservancy
+- The Nature Conservancy Vermont
+- U.S. Forest Service
 ---
 
 The very disease that has decimated millions of American elms in the U.S. is now being used to bring the iconic trees back.

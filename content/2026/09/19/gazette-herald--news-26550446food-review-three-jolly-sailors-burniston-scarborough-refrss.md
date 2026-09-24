@@ -13,6 +13,40 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21455781.jpg?type=og-image
+locations:
+- A165
+- Bryherstones Country Inn
+- Burniston
+- Cloughton
+- Coastal Road
+- Eastborough
+- High Street
+- Oak Wheel Pub
+- Park
+- Queen of East Coast
+- Scarborough
+- St Helens
+- Westborough
+- Wetherby Whaler
+- Whitby
+- Wykeham
+people:
+- Dad
+- Darren Greenwood
+- Mother Hubbard
+- Timothy Taylor
+organisations:
+- Downe Arms Hotel
+- Fish and Chip Café
+- Google
+- Guinness
+- Lifeboat Fish Bar
+- Lunch Club
+- Scarborough
+- The Press
+- Three Jolly Sailors
+- TripAdvisor
+- Yorkshire Pudding
 ---
 
 Can you get a good pub meal in Scarborough?

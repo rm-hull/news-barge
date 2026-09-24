@@ -11,6 +11,37 @@ description: Waymo will begin inviting riders on a rolling basis and slowly ramp
 image: https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?resize=1200,900
 categories:
 - Technology & Software
+locations:
+- Atlanta
+- Austin
+- Bay Area
+- California
+- Clark County
+- Dallas
+- Denver
+- Houston
+- Las Vegas
+- London
+- Los Angeles
+- Miami
+- Munich
+- Nashville
+- Ojai
+- Orlando
+- Phoenix
+- San Antonio
+- San Diego
+- San Francisco
+- Tampa
+- U.S.
+- United States
+people: []
+organisations:
+- Nevada Transportation Authority
+- Tesla
+- Uber
+- Waymo
+- Waymo’s
 ---
 
 Waymo has started to offer its robotaxi service to the public in Denver, San Diego, and Tampa, extending the Alphabet-owned company’s commercial operations to 14 U.S. cities.

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - True Crime
 - Technology & Software
+locations:
+- Los Angeles
+- US
+people:
+- Branden Silverman
+organisations:
+- Federal Aviation Administration
+- Los Angeles Fire Department
+- MTA
+- National Transportation Safety Board
+- SUV
 ---
 
 ## The crash occurred near the scene of a separate deadly bus accident, though the connection between the two incidents, if any, was not immediately clear.

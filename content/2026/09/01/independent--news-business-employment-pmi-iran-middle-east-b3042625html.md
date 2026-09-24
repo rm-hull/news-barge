@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Matt Swannell
+- Rob Dobson
+organisations:
+- Item Club
+- S&P Global Market Intelligence
 ---
 
 Growth in the UK’s manufacturing industry has slipped to a five-month low as smaller firms came under more pressure – but hiring activity picked up at the fastest pace in two years, new figures show.

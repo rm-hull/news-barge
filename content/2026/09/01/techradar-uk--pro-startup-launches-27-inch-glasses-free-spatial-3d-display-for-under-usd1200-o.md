@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/2YLaCUJfLjWyBbuh4URDeX-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- '## Tencent'
+- 3D Playground LITE
+- AMD
+- Depth Transformer
+- Efosa
+- Google News
+- Lenovo
+- Portval VR
+- ReShade
+- Spatial Gateway
+- TechRadar Pro
+- ViewX Control Tray
 ---
 
 ![ViewX glasses-free spatial 3D display](https://cdn.mos.cms.futurecdn.net/2YLaCUJfLjWyBbuh4URDeX.jpg) 

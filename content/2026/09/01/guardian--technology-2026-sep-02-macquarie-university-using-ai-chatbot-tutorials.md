@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- AI
+- Australia
+- Macquarie
+- Netherlands
+- New Zealand
+- Sydney
+people:
+- Alison Barnes
+- Macquarie
+- Meena Jha
+- Neena Chatbot
+- Peter Chen
+organisations:
+- AI
+- CQU
+- Central Queensland University
+- Macquarie University
+- NTEU
+- University of Melbourne
+- University of Sydney
+- Virtual Peer
 ---
 
 An Australian university has swapped in-person classes with an AI chatbot, online quizzes and optional online tutorials in two subjects as institutions give the technology more teaching responsibilities.

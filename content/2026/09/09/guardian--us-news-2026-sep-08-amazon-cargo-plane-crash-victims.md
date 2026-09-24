@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Florida
+- Miami
+- Miami-Dade
+- Puerto Rico
+- San Juan
+people:
+- Carlos Acosta Fajardo
+- Hard
+- Javierkys Reyes Quevedo
+- Jennifer Homendy
+- Julio C Pineda
+- Robert Clifford
+- Rolando Aleman Leon
+- Rosie Cordero-Stutz
+- Yoel Rodriguez Narajo
+organisations:
+- 21 Air
+- 21 Air llc
+- Amazon
+- Guardian
+- NTSB
+- National Transportation Safety Board
+- Professional Ocean Service Corporation
+- Reuters
 ---
 
 Officials in Florida on Tuesday said evidence collected from Saturday’s Amazon cargo plane crash at Miami international airport suggests the pilots considered aborting the flight’s landing before it crashed and killed five people on the ground.

@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/qThfUsameWz6NgjcXnJHxN-1904-80.jpg
+locations:
+- Amazfit T-Rex
+- Cardiff
+- US
+people:
+- Amazfit
+- Matt Evans
+- Sara Webster Wylie
+organisations:
+- AMOLED
+- Amazfit
+- Garmin
+- Google News
+- Men's Health
+- Power Glass
+- Runner's World
+- Solar
+- TechRadar
 ---
 
 ![Amazfit T-Rex Dual Solar](https://cdn.mos.cms.futurecdn.net/qThfUsameWz6NgjcXnJHxN.jpg)

@@ -13,6 +13,71 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Alpharetta
+- Atlanta
+- California
+- DC
+- Florida
+- Genesee County
+- Georgia
+- Illinois
+- Indiana
+- Kentucky
+- Michigan
+- Minnesota
+- Missouri
+- Ohio
+- Palo Alto
+- Reynoldsburg
+- St. Petersburg
+- United States
+- Washington
+- Whitley County
+people:
+- Caroline Bush
+- Chris Shook
+- David Hart
+- Ed Shikada
+- Flock
+- Jason Hiott
+- Jess Montejano
+- Natalie Ciresi Chaudoin
+- Paris Lewbel
+- Trent Lindgren
+organisations:
+- '## Mixed Company Alpharetta'
+- 53 Flock
+- ALPR
+- Alabama Drug Enforcement Task Force
+- Alpharetta Police
+- Alpharetta Police Department
+- Audit Assistance
+- Beltrami County Sheriff’s Office
+- Bibb County Sheriff’s Department
+- Dallas Police Department
+- Flock Safety
+- Florida’s Fish and Wildlife Commission
+- General Services Administration
+- HIDTA
+- High Intensity Drug Trafficking Area
+- Immigration and Customs Enforcement
+- Louisville Regional Airport Authority
+- Metro Police Authority
+- Morehouse College
+- Muckrock
+- NCRIC
+- NCRIC’s Flock
+- Nationwide Lookup
+- Northern California Regional Intelligence Center
+- Office of Inspector General
+- Palo Alto Police Department
+- Region G
+- Reynoldsburg Police Department
+- Savannah Police Department
+- University of North Texas’ Denton
+- WIRED
+- YouTube
 ---
 
 Alpharetta, a prosperous suburb of Atlanta, Georgia, is home to about 67,000 people, served by about 120 local police officers. It also hosts several dozen cameras sold by Flock Safety, the increasingly controversial surveillance company that collects license plate data and other information and makes it searchable by police.

@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Greengates
+- New Line
+- UK
+people: []
+organisations:
+- NIC Central Premium Snus & Vapes
+- Snü
+- Telegraph & Argus
+- Trading Standards
+- UK Government
+- West Yorkshire Trading Standards
 ---
 
 Questions have been raised over how a new Bradford retailer can advertise 'Premium Snus & Vapes' despite snus being banned in the UK for more than three decades.

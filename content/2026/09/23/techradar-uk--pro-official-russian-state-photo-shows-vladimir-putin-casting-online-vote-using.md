@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/uTtN23DTiqxJT2TXhbVmXo-1024-80.jpg
+locations:
+- Australia
+- Canada
+- New Zealand
+- Norway
+- US
+- Ukraine
+- United Kingdom
+- United Russia
+people:
+- Christian Cawley
+- Valdimir Putin
+- Vladimir Putin
+organisations:
+- Aquarius
+- Computer Weekly
+- ComputerActive
+- Dell
+- Google News
+- Linux Format
+- Matter Alpha
+- PC
+- State Duma
+- TechRadar Pro
+- UN
 ---
 
 ![Valdimir Putin](https://cdn.mos.cms.futurecdn.net/uTtN23DTiqxJT2TXhbVmXo.jpg)

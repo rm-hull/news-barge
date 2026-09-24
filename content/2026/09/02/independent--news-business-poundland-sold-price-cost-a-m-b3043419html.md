@@ -12,6 +12,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people: []
+organisations:
+- A&M
+- Alvarez & Marsal (A&M
+- Cambridgeshire Police
+- Gordon Brothers
+- Hobbycraft
+- LK Bennett
+- Mike Egerton
+- Modella
+- Poundland
+- Radley
+- Rural Crime Action Team
+- Sky News
+- TG Jones
 ---
 
 Poundland’s owner has put the discount retailer up for sale, with hopes of securing a deal within weeks.

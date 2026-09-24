@@ -13,6 +13,28 @@ categories:
 - Local
 - Harrogate
 - Film & TV
+locations:
+- Brighton
+- Grand Hotel
+- Yorkshire
+people:
+- Benjamin Cain
+- Frederick Knott
+- Jack Stokes
+- John Godber
+- Lee Bainbridge
+- Michael Morpurgo
+- Philip Stokes
+- Thatcher
+organisations:
+- Brighton
+- Eastbourne Productions
+- Harrogate Theatre
+- Hitchcock
+- IRA
+- Leeds
+- Phil & Ben Productions
+- The Highwayman
 ---
 
 # New season at Harrogate Theatre kicks off with powerful production by acclaimed Leeds playwright Philip Stokes

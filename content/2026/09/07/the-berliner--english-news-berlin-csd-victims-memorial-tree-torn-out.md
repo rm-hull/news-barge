@@ -14,6 +14,14 @@ categories:
 - Germany
 - News & Politics
 - History
+locations:
+- Berlin
+- Tiergarten
+people:
+- Werner Graf
+organisations:
+- CSD
+- Green Party
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0863463983h-scaled.jpg)

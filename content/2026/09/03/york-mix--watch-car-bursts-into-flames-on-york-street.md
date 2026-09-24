@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - History
+locations:
+- '**Navigation Road'
+- York
+people: []
+organisations:
+- Acomb
+- BMW
+- Both York
+- North Yorkshire Fire & Rescue Service
 ---
 
 A car burst into flames on a York street last night (Wednesday).

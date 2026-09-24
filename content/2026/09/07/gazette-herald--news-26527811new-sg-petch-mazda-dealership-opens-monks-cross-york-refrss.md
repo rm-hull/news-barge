@@ -12,6 +12,29 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Durham
+- Layerthorpe
+- Middlesborough
+- Middlesbrough
+- North Yorkshire
+- SG Petch
+- UK
+- York
+people:
+- Jeremy Thomson
+- Steve Petch
+organisations:
+- '**York Mazda'
+- Kia UK National Dealer Conference
+- Mazda Motors UK
+- Mazda6e
+- Monks Cross
+- Pic
+- SG Petch
+- SG Petch Mazda York
+- Vertu Mazda
 ---
 
 *(Image: Pic supplied)*

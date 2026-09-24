@@ -13,6 +13,15 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Japan
+- Lower Saxony
+people: []
+organisations:
+- HTS
+- Proxima Fusion
+- Veir
 ---
 
 Proxima Fusion is betting on a critical ingredient for its fusion reactors: superconducting tape.

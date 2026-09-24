@@ -17,6 +17,68 @@ image: https://cdn.jwplayer.com/v2/media/Uvdkj93y/poster.jpg?width=720
 categories:
 - News & Politics
 - UK
+locations:
+- Buckingham Palace
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- Claire Coutinho
+- Cleo
+- Count Binface
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Farage
+- Harriet Harman
+- Harry Styles
+- Helen
+- Joanne McNally
+- Kemi Badenoch
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Mikel Arteta
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Burnham’s
+- Chelsea
+- Count Binface
+- De Zerbi
+- ELITE
+- Labour
+- Liverpool
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | In The Room

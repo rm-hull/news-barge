@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Dallas
+- Florida
+- Iran
+- Milwaukee
+- North Carolina
+- Texas
+- US
+- White House
+- White House Lawn
+people:
+- Bo Nickal
+- Byron Donalds
+- Donald Trump
+- Gaethje
+- JD Vance
+- James Talarico
+- John Cornyn
+- Justin “The Highlight
+- Ken Paxton
+- Mehmet Oz
+- Roy Cooper
+- Scott Bessent
+organisations:
+- GOP
+- Guardian
+- House
+- RNC
+- Senate
+- UFC
 ---
 
 Donald Trump said every adult citizen in the US will receive a dividend of $5,000 if Republicans retain the House and Senate in the midterm elections, while delivering a historically long convention speech in Dallas in which the president assailed Democrats as radical communists and defended his unpopular war in Iran.

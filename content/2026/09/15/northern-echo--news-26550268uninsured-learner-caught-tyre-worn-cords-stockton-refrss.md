@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- County Durham
+- Darlington
+- Newtown
+- Stockton
+- Teesside
+- Wrensfield
+people:
+- Guy
+- Slurring
+organisations:
+- Cleveland Police
+- Crimestoppers
 ---
 
 A learner driver was caught behind the wheel of an uninsured car with a tyre worn down to the cords during a police stop in Teesside.

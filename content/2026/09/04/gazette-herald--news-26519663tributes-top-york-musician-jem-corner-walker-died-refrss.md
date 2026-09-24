@@ -13,6 +13,59 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Barbican Road
+- Born
+- Copmanthorpe
+- Ireland
+- Nigeria
+- York Crematorium
+people:
+- Alfie
+- Andrew
+- Archie
+- Charlotte
+- Dad
+- Eddie
+- Emily He
+- Heather Small
+- Jem Corner-Walker
+- Jeremy Alan Corner-Walker
+- Jess
+- Jessica
+- John Fletcher
+- Kevin Bacon
+- Olly Murs
+- Parkinson
+- Patrick
+- Rick Witter
+- Riley
+- Rob Parker
+- Susan
+- Teddy
+- Tom Hume
+- Toned F
+- Toned F. Photo
+organisations:
+- Bad Habit
+- Bishopthorpe Spots and Social Club
+- Blue
+- Bogus Brothers
+- Casabooboo Buzz
+- Facebook
+- Fibbers
+- Girls Aloud
+- JSS Audio
+- Motel
+- NFU Mutual
+- PA
+- Schools Battle Of The Bands
+- Shed Seven
+- The Goosehorns
+- The Press
+- Toned F, Wofflers
+- York Bands Of The Past
+- York Bands of the Past
 ---
 
 *Tributes paid to York musician Jem Corner-Walker who has died aged 72*

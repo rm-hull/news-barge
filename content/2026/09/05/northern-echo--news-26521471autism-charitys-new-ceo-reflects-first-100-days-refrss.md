@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Burnhope
+- County Durham
+- Jersey
+- New Warlands Farm
+- North East
+- North Shields
+- Northumberland
+- Saint Helena
+- South Atlantic
+- Sunderland
+- Teesside
+people:
+- Bob Mortimer
+- John Phillipson
+- Olli
+- PETER BARRON
+- Paul McGinnety
+- Peter Barron
+organisations:
+- Cleveland Borough Council
+- Durham Wasps
+- Employment Futures
+- Greggs
+- How County Durham
+- Local Services
+- NEAS
+- North East Autism Society
+- Redcar
 ---
 
 *Paul McGinnety talks to**PETER BARRON** about is first 100 days as the new Chief Executive of the North East Autism Society*

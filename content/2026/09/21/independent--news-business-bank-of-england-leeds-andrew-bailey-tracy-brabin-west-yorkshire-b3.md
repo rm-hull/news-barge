@@ -14,6 +14,38 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/15/2f9681a7f542d9c3dcc9bdafdde16406Y29udGVudHNlYXJjaGFwaSwxNzkwMDg1MjA2-2.85880964.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Belfast
+- Birmingham
+- Bond Court
+- Bristol
+- Britain
+- Capitol House
+- Cardiff
+- Fareham
+- Glasgow
+- Leeds
+- London
+- Manchester
+- Moorgate
+- Newcastle
+- Northern Square Mile
+- Nottingham
+- PA
+- Threadneedle Street
+- UK
+- West Yorkshire
+- Yorkshire House
+people:
+- Andrew Bailey
+- Henry Nicholls
+- Thomas Bischoff
+- Tracy Brabin
+organisations:
+- Bank of England
+- Leeds
+- The Bank
+- Threadneedle Street HQ
 ---
 
 The Bank of England is set to open a new office in Leeds as it continues to beef up its presence in the city.

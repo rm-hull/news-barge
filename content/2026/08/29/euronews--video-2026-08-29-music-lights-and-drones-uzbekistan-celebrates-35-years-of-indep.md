@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Technology & Software
 - Music
+locations:
+- New Tashkent
+- Uzbekistan
+people:
+- Alessandro Safina
+- José Carreras
+- Sarah Brightman
+organisations: []
 ---
 
 Uzbekistan marked 35 years of independence with a large-scale celebration in New Tashkent on 28 August 2026.

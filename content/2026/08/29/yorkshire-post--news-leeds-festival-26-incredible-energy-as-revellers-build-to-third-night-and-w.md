@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bramham Park
+- Charli XCX
+- Florence
+- Fontaines D.C
+people:
+- Dave
+- Kasabian
+- RAYE
+- Sombr
+organisations:
+- AIR Hubs
+- Declan McKenna
+- Georgina Hurdsfield
+- Leeds Festival
+- Lost Property
+- Pepsi MAX
+- Skepta
+- The Grid
+- The Warehouse
 ---
 
 # Leeds Festival '26: Incredible energy as revellers build to third night and with some 417 items now in Lost Property

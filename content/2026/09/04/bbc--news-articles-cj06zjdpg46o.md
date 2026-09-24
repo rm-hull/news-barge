@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Loch Ness
+- River Deben
+- Shire Hall
+- Suffolk
+- Waldringfield
+- Walton-on-the-Naze
+- Woodbridge
+people:
+- Liz Masding
+- Mike Markham-Lee
+organisations:
+- Masding
 ---
 
 ![Liz Masding and Mike Markham-Lee are sitting on the long black and white dragon boat. There are multiple rowers holding oars on the boat.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/32c0/live/195c6c60-a791-11f1-b64a-71b1e45ff5c7.jpg)

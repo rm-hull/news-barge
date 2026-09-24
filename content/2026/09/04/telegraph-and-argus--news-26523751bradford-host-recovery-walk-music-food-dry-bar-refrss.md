@@ -12,6 +12,12 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations: []
+people: []
+organisations:
+- Bradford Council
+- Bradford and Faces & Voices of Recovery UK
+- Create Strength Group
 ---
 
 *(Image: T&A)*

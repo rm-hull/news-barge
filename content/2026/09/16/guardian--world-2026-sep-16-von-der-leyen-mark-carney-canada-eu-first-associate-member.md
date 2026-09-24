@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Canada
+- Davos
+- Europe
+- France
+- Iceland
+- Italy
+- Norway
+- Poland
+- Strasbourg
+- Switzerland
+- UK
+- US
+- Ukraine
+- White House
+people:
+- Brexit
+- Caney
+- Donald Trump
+- Javier Moreno Sánchez
+- Mark Carney
+- Martin Leng
+- Roberta Metsola
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- Brussels Institute for Geopolitics
+- EU
+- European Commission
+- European Defence Agency
 ---
 
 Canada has been invited to become the first “associate member” of the EU by the European Commission president, Ursula von der Leyen.

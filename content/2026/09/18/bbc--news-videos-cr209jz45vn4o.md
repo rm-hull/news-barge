@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- China
+people:
+- Ning Xu
+organisations:
+- Nikon
+- Tsinghua University
 ---
 
 # See tiny organisms on show in microscopic video competition

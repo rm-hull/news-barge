@@ -16,6 +16,28 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Doncaster Sheffield Airport
+- Gateway East
+- South Yorkshire
+people:
+- Oliver Coppard
+- Peel
+- Ros Jones
+organisations:
+- BBC Local Democracy Reporter Scheme
+- CDC
+- City of Doncaster Council
+- Civil Aviation Authority
+- Doncaster Ros Jones
+- Doncaster Sheffield Airport
+- Doncaster Sheffield Airport.
+- James Hardisty
+- Peel
+- Programme Management Office
+- SYMCA
+- South Yorkshire Mayoral Combined Authority
+- The Yorkshire Post
 ---
 
 # 'Well worth waiting for': Doncaster Sheffield Airport update promise given by Ros Jones as she addresses public frustrations

@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Guantánamo Bay
+- Iran
+- New Jersey
+- New York
+- New York City
+- Pennsylvania
+- Saudi Arabia
+- US Capitol
+- Washington DC
+- World Trade Center
+people:
+- Brooks Koepka
+- George B Daniels
+- Osama bin Laden
+- Terry Strada
+- Tom Strada
+organisations:
+- ABC News
+- Families United
+- LIV Golf
+- PGA
+- Pentagon
+- Public Investment Fund
+- World Trade Center
 ---
 
 The leader of one group of 9/11 victims’ families says it has “taken way too long” to hold Saudi Arabia accountable for its alleged support of the terrorists who carried out the September 11, 2001 terrorist attacks, whose 25th anniversary was observed across the US on Friday.

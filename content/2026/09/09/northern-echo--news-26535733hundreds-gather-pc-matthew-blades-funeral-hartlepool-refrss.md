@@ -12,6 +12,40 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- CLEVELAND
+- Carmel
+- Cleveland
+- Hartlepool
+- Hutton Avenue
+- Redcar
+- South Bank
+- St Joseph
+- St Joseph's Church
+people:
+- Anna Turley
+- Dad
+- Matt
+- Matthew Blades
+- Matthew Blades'
+- Matty
+- PC Blades
+- PC Blades'
+- Pc Blades
+- Tom Clough
+- Tracey
+organisations:
+- A66
+- Cleveland Police
+- Dad-of-two PC Blades
+- Middlesbrough FC
+- PC Blades
+- PCs Blades
+- Redcar
+- Roman Catholic Church
+- Union Jack
+- VW
+- West Brom
 ---
 
 Hundreds of people stood shoulder to shoulder to say goodbye to an officer killed in the line of duty on the A66.

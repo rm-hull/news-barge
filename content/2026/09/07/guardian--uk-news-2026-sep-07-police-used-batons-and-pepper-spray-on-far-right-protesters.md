@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Dover
+- Eastney Ferry Landing
+- England
+- Hampshire
+- Isle of Wight
+- Kent
+- Normandy
+- Portsmouth
+- UK
+- Whitehall
+people:
+- Daniel Thomas
+- Danny Tommo
+- Donna Jones
+- Max Wilkinson
+- Mike Tapp
+- Nick Lowles
+- Nigel Brookes
+- Nigel Farage
+- Sarah Jones
+- Spencer Wragg
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- BBC
+- English Channel
+- Facebook
+- Hampshire
+- Home Office
+- Hope Not Hate
+- House of Commons
+- Labour
+- Lib Dem
+- Liberal Democrat Home Office
+- Patriot Platform
+- Portsmouth Patriots
+- Reform UK
 ---
 
 Batons and synthetic pepper spray were used to repel hundreds of masked, black-clad vigilantes in Portsmouth on Sunday, it has emerged, as the policing minister said officers had been injured as they repelled organised “aggression”.

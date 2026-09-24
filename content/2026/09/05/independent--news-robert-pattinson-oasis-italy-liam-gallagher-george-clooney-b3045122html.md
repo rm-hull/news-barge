@@ -13,6 +13,32 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations:
+- Hollywood
+- Lido
+- Texas
+- U.S.
+people:
+- Ajon Singh
+- Bill Conradt
+- Chris Hansen
+- David Osit
+- Denis Leary
+- Dylan Southern
+- George Clooney
+- John Malkovich
+- Lance Oppenheim
+- Liam Gallagher
+- Luke Dittrich
+- Noel
+- Robert Pattinson
+- Will Lovelace
+organisations:
+- Disney
+- Gallaghers
+- NDA
+- Oasis
+- Paramount
 ---
 
 The worlds of rock and movie stardom are colliding at the Venice Film Festival, as both Robert Pattinson and Oasis frontmen Noel and Liam Gallagher arrive on the Lido for world premieres on Saturday.

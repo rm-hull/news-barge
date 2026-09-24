@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- England
+- Ireland
+- Leicester
+- Worcester
+people:
+- '## Wong'
+- ):** Bouchier
+- ):** Hunter
+- Alice Capsey
+- Amy Hunter
+- Charlotte Edwards'
+- Dani Gibson
+- Edwards
+- Freya Kemp
+- Gaby Lewis
+- Issy Wong
+- Jodi Grewcock
+- Kia McCartney
+- Lauren Bell
+- Lauren Filer
+- Mady Villiers
+- Maia Bouchier
+- Orla Prendergast
+- Rebecca Stokell
+- Sophia Dunkley
+- Sophie Ecclestone
+organisations:
+- DerbyIreland
+- England
+- Ireland
+- The OurCoop County Ground
 ---
 
 England power to easy victory and claim series win over Ireland

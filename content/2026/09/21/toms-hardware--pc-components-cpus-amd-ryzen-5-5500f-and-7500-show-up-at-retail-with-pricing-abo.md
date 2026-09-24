@@ -14,6 +14,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/J47XMamtM6eBicNBMKV3cK-1920-80.jpg
+locations:
+- Amazon
+- U.S.
+people:
+- Cezanne
+- Tom
+- Vermeer
+organisations:
+- AMD
+- Amazon
+- CPUs
+- Get Tom's Hardware
+- Google News
+- Intel
+- Micro Center
+- Newegg
+- RAM
+- Tom’s Hardware
 ---
 
 ![AMD Ryzen 5 CPU](https://cdn.mos.cms.futurecdn.net/J47XMamtM6eBicNBMKV3cK.jpg)

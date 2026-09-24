@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '## Wales'
+- England
+- Scotland
+- UK
+people:
+- Anna Taylor
+- John Swinney
+- Lucy Powell
+- Nick Harrison
+organisations:
+- '## Scotland'
+- DWP State Pension
+- Food Foundation
+- Free Breakfast Clubs
+- Government
+- HMRC
+- Sutton Trust
+- The Food Foundation
+- The School Food Project
+- Universal Credit
+- Wales
 ---
 
 *(Image: Getty Images)*

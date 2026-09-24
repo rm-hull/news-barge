@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Augsburg
+- Bavaria
+- Germany
+- Munich
+people: []
+organisations: []
 ---
 
 German train station closed after blast and discovery of a suspicious object

@@ -11,6 +11,22 @@ description: Alienware expands its QD-OLED lineup with two new monitors, and one
 image: https://cdn.mos.cms.futurecdn.net/QCcSaoU4uRQ5RSJtpdmAE8-2000-80.png
 categories:
 - Technology & Software
+locations:
+- GameRant
+people:
+- Isaiah Williams
+organisations:
+- AW3226Q
+- Alienware
+- Birmingham City University
+- Dolby Vision
+- Google News
+- Isaiah
+- LG
+- OLED
+- PC Guide
+- TechRadar
+- Wccftech
 ---
 
 ![Render of Alienware AW3226K QD-OLED monitor](https://cdn.mos.cms.futurecdn.net/QCcSaoU4uRQ5RSJtpdmAE8.png) 

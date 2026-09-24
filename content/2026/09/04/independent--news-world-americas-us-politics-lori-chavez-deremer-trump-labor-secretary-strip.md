@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- America
+- Las Vegas
+- Oregon
+- White House
+people:
+- Anthony D’Esposito
+- Donald Trump
+- Keith Sonderling
+- Lori Chavez-DeRemer
+- Steven Cheung
+organisations:
+- American Workers First
+- Department of Labor
+- Log Cabin Republicans
+- Senate
+- The Independent
 ---
 
 Donald Trump’s former labor secretary reportedly instructed a member of her security detail to drop banknotes on a stripper, had an “inappropriate relationship” with a bodyguard and maintained a workplace that more than three dozen witnesses described as “toxic, intimidating and humiliating.”

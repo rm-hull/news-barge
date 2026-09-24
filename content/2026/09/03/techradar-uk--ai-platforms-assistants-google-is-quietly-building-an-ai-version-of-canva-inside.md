@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+people:
+- Graham Barlow
+organisations:
+- Adobe Express
+- BBC One Breakfast
+- BBC TV
+- Canva
+- Computeractive
+- Gemini
+- Google AI Pro
+- Google Docs
+- Google News
+- Google Pics
+- Google Workspace
+- Mac
+- MacFormat
+- Nano Banana
+- PC Pro
+- Radio 4
+- TechRadar
+- Ultra
+- iMore
 ---
 
 ![Google Pics](https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee.jpg) 

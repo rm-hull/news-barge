@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bangkok
+- Israel
+- Koh Samui
+- Nahariya
+- Thailand
+people:
+- Alona Fisher-Kamm
+- Anutin Charnvirakul
+- Chabad
+- David Rising
+- Natalie Melzer
+- Rami Teplitskiy
+- Sihasak Phuangketkeow
+- Sondhi Limthongkul
+- Thaksin Shinawatra
+organisations:
+- Facebook
+- Ministry of Tourism and Sports
+- The Associated Press
+- The Jerusalem Post
 ---
 
 Hundreds of people demonstrated outside Israel's embassy in Bangkok on Thursday to demand foreigners show more respect for Thailand's laws and culture as public discontent over bad behavior by visitors has increasingly focused on Israeli tourists.

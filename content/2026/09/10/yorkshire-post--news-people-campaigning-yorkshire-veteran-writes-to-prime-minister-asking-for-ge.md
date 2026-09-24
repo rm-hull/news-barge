@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Afghanistan
+- Downing Street
+- East Yorkshire
+- Hull
+- Humber
+- UK
+people:
+- Andy Burnham
+- Craig Gadd
+- Lord Dannatt
+- Lorraine Kelly CBE
+- Richard Dannatt
+- Ross Kemp
+organisations:
+- Armed Forces
+- Armed Forces Covenant
+- British Army
+- Government
+- Help for Heroes
+- Hull
+- No. 10
+- UK Armed Forces
+- Yorkshire
 ---
 
 # Campaigning Yorkshire veteran writes to Prime Minister asking for 'generational shift'

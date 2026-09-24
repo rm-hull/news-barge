@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Jalen Brunson
+- Mariska Hargitay
+organisations:
+- NBA
+- NBC
+- New York
+- New York Knicks
+- SVU
+- San Antonio Spurs
 ---
 
 New York Knicks star Jalen Brunson to make an appearance on 'Law & Order: SVU' this fall

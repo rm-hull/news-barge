@@ -12,6 +12,56 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Brisbane
+- Gyirong
+- Himalayan Glacier
+- India
+- Kathmandu
+- Lake Manasarovar
+- Mount Kailash
+- NSW
+- Nepal
+- Nepal-Tibet
+- Rasuwa
+- Sydney
+- Tibet
+- Tibet-Nepal
+- West Pennant Hills Cherrybrook
+people:
+- Aarush
+- Amrit Bhusal
+- Ashwin
+- Bharat Mangwani
+- Chandrasekaran Muralitharan
+- Chitra Venkatraman
+- Jen
+- Karan Bhardwaj
+- Kushagra Tiwari
+- Lakshmi Iyer
+- Narayan PanthiNarayan Panthi
+- Nava Pandey
+- Rishab
+- Rudhra Iyer
+- Sagar Pandey
+- Shylaja Muralitharan
+- Sreedharan
+- Sumi Adhikari
+- Vaishnavi
+- Venkatraman Balakrishnan
+organisations:
+- ADF
+- Australia Bharatha Brahmin Samaj
+- Guardian Australia
+- Himalayan Glacier Adventures
+- Isha Foundation
+- Isha FoundationA
+- Kailash Journeys
+- Kathmandu Holiday Tours
+- Red Cross
+- Royal Australian Air Force
+- University of Newcastle
+- WPHCCC
 ---
 
 An 11-year-old child, an ADF member and many other pilgrims and trekkers have been named among the Australians missing after deadly flash floods and landslides tore through valleys on the Nepal-Tibet border.

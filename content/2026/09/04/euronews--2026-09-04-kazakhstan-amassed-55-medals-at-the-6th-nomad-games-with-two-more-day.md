@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Almaty
+- Americas
+- Australia
+- Central Asia
+- Eastern Kazakhstan
+- Europe
+- Kyrchyn Gorge
+- Kyrgyzstan
+people:
+- Alysh
+- Ayash Kabdolaeva
+- Dias Akhmetov
+- Sapar Bolat
+organisations:
+- Alysh
+- Euronews
 ---
 
 ## With less than two days to go Kazakhstan stands a good chance to become the overall winner of the 6th Nomad Games held in Kyrgyzstan. With 55 medals won the largest country of Central Asia is well ahead of the other teams.

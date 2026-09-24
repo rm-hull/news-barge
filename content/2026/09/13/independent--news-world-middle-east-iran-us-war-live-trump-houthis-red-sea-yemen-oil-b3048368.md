@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Al-Tawwal
+- Arabian Peninsula
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Baghdad
+- Bahrain
+- East-West
+- Eastern Province
+- India
+- Iran
+- Iraq
+- Ireland
+- Jazan
+- Medina
+- Middle East
+- New Delhi
+- Oman
+- Perim
+- Persian Gulf
+- Qeshm County
+- Qeshm Island
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Washington
+- White House
+- Yemen
+people:
+- '## Trump'
+- Alaa Ali Salem
+- Donald Trump
+- Ebrahim Azizi
+- Eric Trump
+- Hans Grundberg
+- Masoud Pezeshkian
+- Mohammed bin Salman
+organisations:
+- Associated Press
+- Foreign Ministry
+- India Today
+- India Today TV
+- Reuters
+- Saudi Civil Defence
+- Tasnim
+- UKMTO
+- UN
 ---
 
 A crew member was killed after an Iranian commercial ship was attacked near the Strait of Hormuz early on Sunday, Iranian media reported.

@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- North York Moors National Park
+- North Yorkshire
+- St Helens
+- Wykeham
+people:
+- David Steele
+- Lord Downe
+- Simon Roe
+organisations:
+- AA’s England
+- Dawnay Estate
+- Macmillan Cancer Support
+- St Helens
 ---
 
 ## Award-winning caravan park appeals for memories as it celebrates 50 years

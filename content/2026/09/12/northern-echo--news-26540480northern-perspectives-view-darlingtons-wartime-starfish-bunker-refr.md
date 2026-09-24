@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- Eryholme
+- Great Burdon
+- Haughton
+- Haughton-le-Skerne
+- Northern Spire
+- Teesdale
+people:
+- Eryholme
+organisations:
+- Eryholme
+- Middlesbrough
+- Northern Perspectives
+- Starfish
 ---
 
 THIS is Starfish 48a, a fascinating wartime relic, on the eastern edge of Darlington. Now a Grade II listed building, this bunker was designed to be staffed by 14 men, billeted in Haughton-le-Skerne, who were pyrotechnics experts.

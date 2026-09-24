@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Middle East
+- North Sea
+- UK
+people:
+- Castlelake
+- Richard Hunter
+organisations:
+- Apollo
+- Castlelake
+- Coral
+- EasyJet
+- EayJet
+- Entain
+- Interactive Investor
+- Israeli Delek Group
+- Ithaca Energy
+- Ladbrokes
+- London Stock Exchange
+- Persimmon
+- Rosebank
 ---
 
 EasyJet has rejoined the FTSE 100, but its return could be short-lived after the company agreed to be bought by a private equity firm in a £5.7 billion deal.

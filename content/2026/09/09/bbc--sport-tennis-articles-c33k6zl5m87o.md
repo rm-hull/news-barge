@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Flushing Meadows
+- New York
+people:
+- Alex Michelsen
+- Ben Shelton
+- Carlos Alcaraz
+- Frances Tiafoe
+- Jan-Lennard Struff
+- Ryan Harrison
+- Taylor Fritz
+organisations:
+- Sky Sports
 ---
 
 ![Frances Tiafoe consoles Alex Michelsen](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/91af/live/25f87ff0-abe1-11f1-a291-b542ee92de7c.jpg)

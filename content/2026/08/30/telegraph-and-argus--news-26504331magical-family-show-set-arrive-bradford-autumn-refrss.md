@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Bradford Arts Centre
+- North
+people:
+- Diya
+- Ri Ri
+- Rushi Munshi
+organisations:
+- Dance Academy
 ---
 
 *(Image: T&A)*

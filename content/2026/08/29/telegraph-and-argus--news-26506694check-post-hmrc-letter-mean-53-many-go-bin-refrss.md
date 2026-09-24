@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- UK
+people:
+- Steve Webb
+organisations:
+- Bradford
+- DWP State Pension
+- HMRC
+- LCP
+- M&S
+- Relief At Source
+- St Michael
+- iStockphoto
 ---
 
 *(Image: Getty Images/iStockphoto)*

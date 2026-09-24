@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- East Yorkshire
+- Selby Town Hall
+- UK
+people:
+- Gerardo Villar y Los Aguirre
+- Lisa Cherry-Downes
+- Martin
+- Martín Alvarado
+organisations:
+- L Tango Promotions
+- National Academy of Tango
 ---
 
 Argentinian tango is taking centre stage in Selby this weekend.

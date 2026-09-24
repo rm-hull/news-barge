@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- Friedrichshain
+- Heinrich-Hertz-Gymnasium
+people: []
+organisations: []
 ---
 
 © dpa

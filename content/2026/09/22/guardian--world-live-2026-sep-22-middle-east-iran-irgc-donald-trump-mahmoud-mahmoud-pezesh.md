@@ -13,6 +13,107 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/e00d5233867122762952c873775398cd28e09749/342_0_3048_2438/master/3048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=06133e99a1bf85103e637ad52ecf0de4
+locations:
+- Aden
+- Al-Batin
+- Al-Hazm
+- Al-Jawf
+- Asia
+- Bab al-Mandab Strait
+- Bab el-Mandeb
+- Baku
+- Canada
+- Europe
+- France
+- Gaza
+- Germany
+- Gulf States
+- Iraq
+- Islamic Republic
+- Islamic Republic of Iran Broadcasting
+- Israel
+- Istanbul
+- Italy
+- Japan
+- Kremlin
+- Lebanon
+- Marib
+- Mehrabad
+- Middle East
+- Minab
+- Musandam
+- Najaf
+- New York
+- Oman
+- Palestine
+- Red Sea
+- Republic of Azerbaijan
+- Saada
+- Sanaa
+- Saudi Arabia
+- Shajarah Tayyebeh
+- Strait of Hormuz
+- Suez
+- Taiz
+- Tehran
+- Turkey
+- UK
+- US
+- Washington
+- West
+- Yemen
+people:
+- Abbas Araghchi
+- Abdelkader al-Murtada
+- Abedin Taherkenareh
+- Andy Burnham
+- Angela Weiss
+- AntónioGuterres
+- Donald Trump
+- Evan Vucci
+- Hossein Mohebbi
+- Luiz Inácio Lula Da Silva
+- Marco Rubio
+- Masoud Pezeshkian
+- Massoud Pezeshkian
+- Mohammed Ghalibaf
+- Mohammed bin Salman
+- Mojtaba Khamenei
+- Patrick Wintour
+- Pippa Crerar
+- Scott Bessent
+- Vladimir Putin
+organisations:
+- 81st General Assembly
+- AFP
+- EPA
+- Fox News
+- G7
+- General Assembly
+- Getty Images Iran
+- Group of Seven
+- Hamas
+- Houthi
+- IRGC
+- IRNA
+- International Maritime Organisation
+- Iran Air
+- Islamic Revolutionary Guards Corps
+- Isreal
+- Kyodo
+- NBC News
+- New York Times
+- Pentagon
+- Reuters The Houthis
+- Revolutionary Guard Corps
+- Saba
+- Supreme National Security Council
+- Telegram
+- UN General Assembly
+- United Nations
+- United Nations Headquarters
+- Xinhua/Shutterstock He
+- theAFP
 ---
 
 Iran ready to reopen strait of Hormuz if US eases military pressure and lifts blockade, official says

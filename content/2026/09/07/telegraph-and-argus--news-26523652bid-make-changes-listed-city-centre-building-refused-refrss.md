@@ -16,6 +16,16 @@ categories:
 - Business & Entrepreneurship
 - Arts & Culture
 - Personal Finance & Investing
+locations:
+- Bridge House
+- Grade II
+- Sunbridge Road
+- YOUR
+people: []
+organisations:
+- BRADFORD
+- Khan Solicitors
+- Public Notice Portal
 ---
 
 *(Image: T&A)*

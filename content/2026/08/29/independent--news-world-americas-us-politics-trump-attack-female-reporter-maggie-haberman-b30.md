@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/08/29/15/00/Trump-Haberman.jpeg?tri
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- New York
+- White House
+people:
+- Donald Trump
+- Jake Tapper
+- Jeffrey Epstein
+- Kaitlan Collins
+- Karoline Leavitt
+- Maggie Haberman
+- Maggot Hagerman
+- Natalie Harp
+- Quiet
+- Ron Filipkowski
+organisations:
+- Air Force One
+- Bloomberg
+- CNN
+- Epstein
+- Fake News,” Trump
+- Maggot Hagerman
+- MeidasTouch
+- PHONY
+- Politico
+- The Failing New York Times
+- The New York Post
+- The New York Times
+- Truth Social
 ---
 
 President Donald Trump faced backlash over his latest attack on a female reporter, whom he called “unattractive,” a “stalker” and derisively nicknamed after insect larvae.

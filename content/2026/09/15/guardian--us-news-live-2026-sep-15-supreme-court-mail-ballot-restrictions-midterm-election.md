@@ -12,6 +12,43 @@ image: https://i.guim.co.uk/img/media/e48b61b98a1bf6d559e4aa6edc955c2766a7b38d/5
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- Arizona
+- California
+- Capitol Hill
+- Kentucky
+- North Carolina
+- U.S.A.
+- US
+- Utah
+- Virginia
+- Washington
+- Wisconsin
+people:
+- Adrian Fontes
+- Barack Obama
+- David Smith Donald Trump
+- Deidre Henderson
+- Don Beyer
+- Donald Trump
+- Gavin Newsom
+- Joe Biden
+- Kamala Harris
+- Kash Patel
+- Kennedy
+- Mitch McConnell
+- Steve Hobbs
+organisations:
+- AI
+- Board
+- CNN
+- FBI
+- Senate Judiciary Committee
+- Trump
+- US Congress
+- University of Maryland’s Program for Public Consultation
+- Washington’s John F Kennedy Center for the Performing Arts
 ---
 
 Lawmakers have given their support to the supreme court’s rejection of Donald Trump’s bid to restrict mail ballots for the midterm elections.

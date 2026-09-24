@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- California
+- Palm Desert
+- The Enclave
+people:
+- Molly Smith
+- Vicky Kim
+organisations:
+- KESQ
+- Riverside County District Attorney’s Office
+- Riverside County Sheriff’s Office
+- SFGate
 ---
 
 A woman has been accused of beating her husband to death with a flagpole in a luxury California gated community.

@@ -13,6 +13,64 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- England
+- Man Utd
+- Rashford
+- West Ham
+people:
+- 5Bryan Mbeumo
+- 5Kasey McAteer
+- 6Abdoul Ouattara
+- 6Benjamin Sesko
+- 6Darnell Furlong
+- 6Jacob Greaves
+- 6Luke Shaw
+- 6Noussair Mazraoui
+- 6Patrick Dorgu
+- 6Sasa Lukic
+- 6Youri Tielemans
+- 7Abdul Fatawu
+- 7Andrey Santos
+- 7Exequiel Palacios
+- 7Harry Maguire
+- 7Julio Ensico
+- 7Matheus Cunha:** Began
+- 8Dara O'Shea
+- 8Diogo Dalot
+- 8Lisandro Martinez
+- 8Marcelino Nunez:** Busy
+- :** Tried
+- Chuba Akpom
+- Clarke
+- Cunha
+- Darlow
+- Davis
+- Diop:** Lot
+- Egeli
+- Emersonn
+- Enciso
+- Fernandes
+- Heaven
+- Kipre
+- Kjell Scherpen
+- Lacey
+- Leny Yoro
+- Maeda
+- Mainoo
+- Man Utd
+- Mbeumo.
+- Nunez
+- Rashford
+- Senne Lammens
+- Skinned Shaw
+- Stood
+- Walton
+- Zirkzee
+organisations:
+- BBC Sport
+- Ipswich
+- Manchester United
 ---
 
 Fernandes hat-trick helps Man Utd recover to beat Ipswich

@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Scarborough
+people:
+- Nathan Cammish
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

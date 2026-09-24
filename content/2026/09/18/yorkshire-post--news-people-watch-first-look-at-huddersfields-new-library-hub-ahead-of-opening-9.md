@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Huddersfield
+- Queen Street
+- Queensgate Square
+- Yorkshire
+people:
+- Coun John Hardie
+- Coun Pip Harvey
+- David Shepherd
+- Fritz Steller
+organisations:
+- Capital Plan
+- Cultural Heart
+- Greenhead College
+- Growth and Regeneration
+- Huddersfield Town Hall
+- Kirklees Council
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- Our Cultural Heart
+- Reform Cabinet
+- Regeneration, Highways and Transport
 ---
 
 # WATCH: First look at Huddersfield’s new library hub ahead of opening

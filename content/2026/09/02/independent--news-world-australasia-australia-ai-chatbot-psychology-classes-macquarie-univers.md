@@ -12,6 +12,18 @@ categories:
 - UK
 - Technology & Software
 - Education & Learning
+locations:
+- Australia
+- Netherlands
+- New Zealand
+people:
+- Alison Barnes
+- Macquarie
+organisations:
+- AI
+- Macquarie University
+- University of Sydney
+- Virtual Peer
 ---
 
 An Australian university has introduced an AI chatbot into the weekly teaching of two compulsory psychology subjects, in a move that academics fear could be “damaging”.

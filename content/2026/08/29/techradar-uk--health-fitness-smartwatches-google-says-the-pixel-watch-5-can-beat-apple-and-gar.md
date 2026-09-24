@@ -10,6 +10,42 @@ description: Can Google's claims of Garmin and Apple-beating GPS really hold wat
 image: https://cdn.mos.cms.futurecdn.net/AHGDsas7eLKEShqFsjdbhG-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Bank Street Canary Wharf
+- Canary Wharf
+- DLR
+- Heron Quays
+- Isle of Dogs
+- London Marathon
+- Poplar
+- Trafalgar Way
+people:
+- Garmin
+- Michael Sawh
+organisations:
+- AI
+- Apple Watch
+- BBC Science Focus
+- Billingsgate Market
+- GPS
+- GQ
+- Garmin Fenix
+- Google Health
+- Google Maps
+- Google News
+- Google Pixel Watch 5
+- Men's Fitness
+- Metro and Stuff
+- Pixel Watch
+- Pixel Watches
+- Suunto
+- TCX
+- Tech
+- The Run Testers
+- Wareable
+- Wired UK
+- YouTube
 ---
 
 ![Google Pixel Watch 5 GPS test](https://cdn.mos.cms.futurecdn.net/AHGDsas7eLKEShqFsjdbhG.jpg) 

@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Bar
+people:
+- Lou Haigh
+- Tom Gordon
+organisations:
+- Harrogate
+- Knaresborough
+- Lib Dem
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99307da2ff2842aa8.jpg) 

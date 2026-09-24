@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Norway
+- Oslo
+- Royal Palace
+people:
+- Haakon VIII
+- Harald V
+- King
+- Mette-Marit
+organisations: []
 ---
 
 # Norway's new king takes oath as mourners pay respects to his late father

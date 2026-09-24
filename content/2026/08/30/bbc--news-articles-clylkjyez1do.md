@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Arizona
+- Bright Angel
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- Glacier Point
+- Grand Canyon
+- Grand Canyon Lodge
+- Grand Canyon National Park
+- Gulf of California
+- New Mexico
+- Pacific
+- Phantom Ranch
+- South Rim
+- US
+- Utah
+- Yosemite National Park
+people:
+- Nikki Baggs
+organisations:
+- BBC
+- CBS News
+- Facebook
+- Half Dome
+- NPS
+- National Park Service
+- National Weather Service
+- Nikki Baggs
 ---
 
 Hikers airlifted to safety after flash floods hit Grand Canyon trail

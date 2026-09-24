@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Kirtland
+- New Mexico
+- U.S.
+people:
+- Blessed
+- God
+- Mikey Weinstein
+- Pete Hegseth
+- Petey,” Weinstein
+organisations:
+- Air Force
+- Air Force Instruction
+- DeptofWar
+- Hegseth’s X
+- Kirtland Air Force Base
+- MRFF
+- Military Religious Freedom Foundation
+- Pentagon
+- The Independent
 ---
 
 Defense Secretary Pete Hegseth has promised to protect military members who deliver religious greetings at New Mexico’s Kirtland Air Force Base.

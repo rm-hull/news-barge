@@ -15,6 +15,15 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/06/16/8/36/3_2-icon-(1).png?trim=28,0,28,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Europe
+- UK
+people:
+- David Maddox
+- Millie Cooke
+organisations:
+- The Independent
 ---
 
 Brexit may be over – but the debate about Britain's future in Europe is not.

@@ -13,6 +13,15 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/21472228.jpg?type=og-image
+locations:
+- Healthwatch York
+- PA
+people:
+- Hannah McKay
+- Siân Balsom
+organisations:
+- GP
+- Healthwatch York
 ---
 
 *(Image: Hannah McKay/PA Wire)*

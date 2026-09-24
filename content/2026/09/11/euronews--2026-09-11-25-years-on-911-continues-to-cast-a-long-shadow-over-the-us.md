@@ -14,6 +14,63 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Arlington
+- Belarus
+- Belgium
+- Britain
+- Egypt
+- France
+- Germany
+- Ground Zero
+- Guantánamo Bay
+- Ireland
+- Italy
+- Kabul
+- Lebanon
+- Lithuania
+- Memorial
+- Moldova
+- Montenegro
+- Netherlands
+- New York
+- North Tower
+- Pakistan
+- Pennsylvania
+- Poland
+- Portugal
+- Romania
+- Russia
+- Serbia
+- Shanksville
+- Spain
+- Sweden
+- Switzerland
+- US
+- Ukraine
+- United Arab Emirates
+- Washington
+people:
+- Ayman al-Zawahiri
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- FR Yugoslavia
+- George W. Bush
+- JD Vance
+- Joe Biden
+- Katrina
+- Khalid
+- Mohammed
+- Osama bin Laden
+organisations:
+- American Airlines
+- CIA
+- Cantor Fitzgerald
+- Ipsos
+- Pentagon
+- United Kingdom
+- World Trade Center
 ---
 
 ## Alongside the thousands of Americans killed on 9/11, dozens of Europeans lost their lives that day — and 25 years on, some of the people accused of being behind the attacks have still not faced justice.

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Kirk
+- Provo
+- Tyler Robinson
+- Utah
+people:
+- Charlie Kirk
+- Donald Trump
+- Erika Kirk
+- Kathryn Kirk
+- Robert
+- Tony Graf
+- Tyler Robinson
+organisations:
+- Fourth District Courthouse
+- Turning Point USA
+- Utah Valley University
 ---
 
 A Utah judge is expected to decide Tuesday whether the man accused of killing conservative activist Charlie Kirk will face trial on an aggravated murder charge that could make him eligible for the death penalty.

@@ -12,6 +12,30 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.j
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Cambridge
+- New Mexico
+- U.S.
+people:
+- Kyle Grillot
+- Mark Zuckerberg
+- Meta
+organisations:
+- AI
+- API
+- Apple
+- Bloomberg
+- Claude Cowork
+- Congress
+- FTC
+- Facebook
+- Gemini Spark
+- Instinct
+- Meta Muse
+- Meta Platforms Inc.
+- Muse Spark
+- SMS
+- Sentinel
 ---
 
 Less than two weeks after Meta agreed to a massive $18 billion multistate settlement in a lawsuit over social media’s consumer harms, the company announced its biggest bet on consumer AI to date — and one that requires significantly more trust than social media ever did. On Tuesday, the company introduced Muse, its new personal AI agent that helps consumers with everyday tasks and projects for users in the U.S.

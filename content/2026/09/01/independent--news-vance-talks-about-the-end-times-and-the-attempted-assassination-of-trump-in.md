@@ -15,6 +15,21 @@ categories:
 - UK
 - History
 - True Crime
+locations:
+- Butler
+- Gettysburg
+- Pennsylvania
+- White House
+people:
+- AI
+- Bryce Crawford
+- Donald Trump
+- Francis
+- God
+- JD Vance
+- Jesus
+organisations:
+- AI
 ---
 
 Vice President JD Vance said in a podcast released Tuesday that if a 2024 assassination attempt had killed Donald Trump, he would have always wondered if it was part of a conspiracy and might not have accepted even another Republican as the next president.

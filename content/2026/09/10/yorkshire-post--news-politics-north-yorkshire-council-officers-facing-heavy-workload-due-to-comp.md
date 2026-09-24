@@ -15,6 +15,15 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- County Hall
+- North Yorkshire
+- Somerset
+people: []
+organisations:
+- '## Council'
+- Independent Persons
+- North Yorkshire Council
 ---
 
 # North Yorkshire Council officers facing 'heavy workload' due to complaints about councillors

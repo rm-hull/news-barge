@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New America
+- New Mexico
+- State of New Mexico
+- U.S.
+- White House
+people:
+- Ben Ray Luján
+- Donald Trump
+- Gabe Vasquez
+- Martin Heinrich
+- Melanie Stansbury
+- Teresa Leger Fernández
+- Tim Cook
+organisations:
+- Apple Maps
+- Google Maps
+- The Independent
+- Trump
+- then-Apple
 ---
 
 Lawmakers from New Mexico have urged Apple and Google not to rename the state on their mapping apps after President Donald Trump suggested restyling it as “New America.”

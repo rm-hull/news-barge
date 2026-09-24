@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Adare Manor
+- Alexander Stadium
+- Australia
+- Birmingham
+- Britain
+- County Limerick
+- Edgbaston
+- England
+- Europe
+- Ireland
+- Italy
+- Kia Oval
+- London
+- Lord's
+- Nottingham
+- Silverstone
+- Southampton
+- Trent Bridge
+- UK
+- United States
+- Wimbledon
+people:
+- Amy Hunt
+- Michael Vaughan
+organisations:
+- Australia
+- BBC Sport
+- ECB
+- Edgbaston Cricket Ground
+- Edgbaston Stadium
+- England and Wales Cricket Board
+- Formula One
+- Pakistan
+- Warwickshire
 ---
 
 ![A general view of Edgbaston cricket ground](https://ichef.bbci.co.uk/ace/standard/986/cpsprodpb/e4f0/live/ea428800-a75a-11f1-9e2e-5b393fbc8b79.jpg)

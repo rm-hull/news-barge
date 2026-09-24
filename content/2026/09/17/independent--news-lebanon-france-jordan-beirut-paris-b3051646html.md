@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- France
+- Iran
+- Israel
+- Italy
+- Jordan
+- Lebanon
+- Paris
+- Saudi Arabia
+- United Kingdom
+- United States
+people:
+- Joseph Aoun
+- Nawaf Salam
+organisations:
+- Hezbollah
+- U.N.
+- UNIFIL
 ---
 
 The heads of state of Lebanon, France and Jordan will meet Thursday in Paris as part of an effort to drum up support for the struggling Lebanese military.

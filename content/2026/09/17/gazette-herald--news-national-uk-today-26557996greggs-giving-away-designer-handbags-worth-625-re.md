@@ -13,6 +13,38 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bond Street
+- Catford
+- Edinburgh
+- Leeds
+- London
+- Manchester
+- Rushey Green
+- Shandwick Place
+- St Mary’s Gate
+- UK
+people:
+- Amy Heather
+- Christian Dior
+- Givenchy
+- Greggs
+- Loewe
+- Louis Vuitton
+- Miu Miu
+- Zoe Harris
+organisations:
+- Burberry
+- Celine
+- Chloé
+- Christian Dior
+- Greggs
+- Gucci
+- Jacquemus
+- Jam Press
+- Just Eat
+- Mulberry
+- Prada
 ---
 
 *(Image: Jam Press/Greggs)*

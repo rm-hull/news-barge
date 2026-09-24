@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Wiltshire
+people:
+- Chris Windle
+- Julian Smith
+- Mark Walsh
+- Tim Smith
+organisations:
+- Kilnsey Show and Sports
+- Skipton
+- Yorkshire Dales
 ---
 
 Thousands turned out for a much-loved country show despite a burst of rain — but organisers had to add an extra race after one attraction proved far more popular than expected.

@@ -12,6 +12,16 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Bilton
+- Harrogate
+- King Edward’s Drive
+people: []
+organisations:
+- CCTV
+- Morrisons Daily
+- North Yorkshire Police
+- Police Community Support Officer
 ---
 
 A man wearing a balaclava threatened to stab a shop worker during a robbery in Harrogate last night (Tuesday).

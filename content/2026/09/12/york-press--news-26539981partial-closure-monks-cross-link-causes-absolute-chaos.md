@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Huntington
+- Monk Cross Link
+- Monks Cross
+- Monks Cross Garden Village
+- Monks Cross Link
+- Monks Cross Village Gardens
+- Outer Ring Road
+- YOUR
+- York Outer Ring Road
+people:
+- Gillian Chapman
+- Gridlock
+- Katie Atkinson
+organisations:
+- Bellway
+- City of York Council
+- Monks Cross
+- Monks Cross Village Gardens
+- Network Monitoring
+- Planning Inspectorate
+- Public Notice Portal
+- Redrow Homes
+- Redrow Homes’
+- The Press
 ---
 
 ## Partial closure of road near York Outer Ring Road in place until November

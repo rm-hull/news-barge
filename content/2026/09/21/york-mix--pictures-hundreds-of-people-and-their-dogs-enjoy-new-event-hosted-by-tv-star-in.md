@@ -13,6 +13,16 @@ categories:
 - Pets & Animals
 - Comedy & Entertainment
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-dog-show-museum-gardens-sept-2026-8.webp
+locations:
+- Museum Gardens
+- York Dog Park
+people:
+- Amanda Owen
+- Chloe
+- Hunter
+organisations:
+- York Museums Trust
+- Yorkshire Shepherdess
 ---
 
 Hundreds of dogs and their owners headed to the Museum Gardens for a new event yesterday (Sunday).

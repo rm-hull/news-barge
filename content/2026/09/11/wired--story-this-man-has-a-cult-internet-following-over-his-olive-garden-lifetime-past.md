@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Science
 - Lifestyle & Fashion
+locations:
+- Eastern Seaboard
+- Italy
+- Maine
+- Olive Garden
+- South Portland
+- Wisconsin
+people:
+- Braden Sinclair
+- Breadsticks’
+organisations:
+- Little League
+- Olive Garden
+- Sinclair
 ---
 
 Everyone knows that when you’re at Olive Garden, you’re family.

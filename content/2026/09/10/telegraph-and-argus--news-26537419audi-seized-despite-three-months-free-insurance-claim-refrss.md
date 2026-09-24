@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Automotive
+locations:
+- Bradford West
+- Duckworth Lane
+- West Yorkshire Police
+people: []
+organisations:
+- Audi
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

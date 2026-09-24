@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/19/APTOPIX_UN_General_Assembly_Ukraine_21964.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Russia
+- Ukraine
+- West
+people:
+- Patient Zero’
+- Peace
+- Sergey Lavrov
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- General Assembly
+- Security Council
+- U.N
+- U.N.
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -10,6 +10,25 @@ image: https://static.independent.co.uk/2026/09/09/10/482f4d1a1a7a92e0480dd1fbfe
 categories:
 - News & Politics
 - UK
+locations:
+- Church Langley Way
+- Essex
+- Harlow
+- Surrey
+- Tadworth
+people:
+- Alfie Moon
+- Christopher Maynard
+- Raj Chada
+- Shane Richie
+- Shane Roche
+- Vladimir Silea
+organisations:
+- Colchester Magistrates’ Court
+- EastEnders
+- Hodge Jones & Allen
+- Hyundai
+- Tesco
 ---
 
 *EastEnders* star Shane Richie will go on trial after he pleaded not guilty to drink-driving following an arrest at a petrol station in Essex.

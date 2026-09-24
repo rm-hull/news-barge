@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgord Region
+- Dnipro
+- Dnipropetrovsk
+- Donetsk
+- Europe.
+- Kryvyi Rih
+- Kyiv
+- Mariupol
+- Moscow
+- Novy Oskol
+- Pavlohrad
+- Russia
+- Sochi
+- Sumy
+- US
+- Ukraine
+- Zaporizhzhia
+people:
+- Donald Trump
+- Ivan Vyhivskyi
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- State Emergency Service of Ukraine
 ---
 
 ![Two firefighters direct a hose at billowing smoke in front of them. A burned-out car is on fire in the foreground.](https://ichef.bbci.co.uk/ace/standard/557/cpsprodpb/adf5/live/0371abe0-ad31-11f1-9bc8-3509bd1a4ead.png)

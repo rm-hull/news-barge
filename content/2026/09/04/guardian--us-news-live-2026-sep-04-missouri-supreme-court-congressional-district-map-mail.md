@@ -12,6 +12,62 @@ image: https://i.guim.co.uk/img/media/1b64d780d138f983eb00807f780354fab89e93b6/1
 categories:
 - UK
 - News & Politics
+locations:
+- Arlington National Cemetery
+- Europe
+- Israel
+- Joplin
+- Kremlin
+- Los Angeles
+- Maryland
+- Missouri House
+- Moscow
+- PA
+- Pennsylvania
+- Russia
+- U.S.
+- US
+- Ukraine
+- Washington
+- York
+people:
+- Catherine Hanaway
+- Chuck Schumer
+- Dan Driscoll
+- Dmitry Peskov
+- Don Beyer
+- Donald Trump
+- Doug Burgum
+- Emanuel Cleaver
+- Jared Kushner
+- Joe Biden
+- John Fetterman
+- Karen Bass
+- Louise Secker
+- Mike Kehoe
+- Pete Hegseth
+- Richard von Glahn
+- Robert Garcia
+- Steve Witkoff
+- Thomas Ross
+- Vladimir Putin
+- Walter
+organisations:
+- AP
+- CS
+- FBI
+- Federal Bureau of Investigation
+- Fox News
+- Homeless Services Authority
+- House
+- NATO
+- People Not Politicians
+- Senate
+- Tass
+- Trump
+- Truth Social
+- USPS
+- Wall Street Journal
 ---
 
 The Missouri supreme court blocked a Republican-drawn new congressional map from being used in November’s midterm elections, a blow to the party’s odds for maintaining its narrow US House majority.

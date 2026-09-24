@@ -13,6 +13,25 @@ categories:
 - York
 - History
 - Business & Entrepreneurship
+locations:
+- Clifford's Tower
+- Clifford’s Tower
+- Museum Gardens
+- York river
+people:
+- Bloodaxe
+- Clifford
+- Miss K Lola
+- Tim Mudd
+- Truetime
+organisations:
+- Clifford's Tower
+- English Heritage
+- Guide73
+- Infinity
+- MAXINE GORDON
+- National Railway Museum
+- The Press
 ---
 
 ## Division grows over how to stop damage to historic city landmark

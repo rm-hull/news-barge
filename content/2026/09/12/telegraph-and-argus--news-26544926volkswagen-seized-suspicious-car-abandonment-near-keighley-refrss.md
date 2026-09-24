@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Oakworth
+people:
+- Passat
+organisations:
+- '## Police'
+- Keighley Neighbourhood Policing Team
+- Volkswagen
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

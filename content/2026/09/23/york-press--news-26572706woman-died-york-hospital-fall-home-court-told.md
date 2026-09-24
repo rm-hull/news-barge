@@ -13,6 +13,19 @@ categories:
 - True Crime
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21488233.jpg?type=og-image
+locations:
+- Edinburgh
+- Leeds General Infirmary
+- Northallerton Coroners’ Court
+- York Hospital
+people:
+- Ms Middleton
+- Ms Wells
+- Ms Wells’
+- Norma Jean Wells
+- Sarah Middleton
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

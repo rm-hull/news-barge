@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bishop Auckland
+- County Durham
+- Weardale Drive
+- Wensleydale Square
+- Woodhouse Estate
+people:
+- Man
+organisations:
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

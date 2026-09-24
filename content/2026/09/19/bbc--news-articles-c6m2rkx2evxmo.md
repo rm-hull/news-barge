@@ -13,6 +13,62 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96d4/live/31ff20a0-b46b-11f1-9dd6-3102a0e415e4.jpg
+locations:
+- Canada
+- England
+- Italy
+- South Africa
+- UK
+- Ukraine
+people:
+- Aleksandra Isaeva
+- Alexis Warr
+- Aljaž Škorjanec One
+- Amy Dowden
+- Anton Du Beke
+- Bethany Antonia
+- Cach Mercer
+- Carlos Gu
+- Carlos Gu * TV
+- Chris Appleton
+- Claudia Winkleman
+- Craig Revel Horwood
+- Cristian Priori
+- Dani Dyer
+- Delta Goodrem
+- Dianne Buswell
+- Emma Willis
+- Graeme Hall
+- Jaime Winstone
+- Johannes Radebe
+- John Nellis
+- Josh Widdicombe
+- Jowita Przystał
+- Julian Caillon
+- Kai Widdrington
+- Karen Carney
+- Katya Jones
+- Lacey Turner
+- Lauren Oakley
+- Lawrence Robb
+- Lethabo Monametsi
+- Maddie Ingoldsby
+- Mark Karmalita
+- Melanie Walters
+- Motsi Mabuse
+- Nancy Xu
+- Nicola Adams
+- Nikita Kuzmin
+- Sarah Storey
+- Shaun Wright-Phillips
+- Shirley Ballas
+- Tabby Stoecker
+- Tess Daly
+- Vito Coppola
+- Will Best
+- YouTuber John Nellis
+organisations:
+- Strictly
 ---
 
 ![Left to right: Johannes Radebe, Emma Willis and Josh Widdicombe sit in a line on a sofa. ](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/96d4/live/31ff20a0-b46b-11f1-9dd6-3102a0e415e4.jpg)

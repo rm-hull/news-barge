@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- China
+- U.S.
+- Wall Street
+- White House
+people:
+- Aidan Gomez
+- Dario Amodei
+- Donald Trump
+- Elham Tabassi
+- Nick Reese
+- Sam Altman
+- Sandra Wachter
+- Zahra Timsah
+organisations:
+- Anthropic
+- Brookings Institution
+- Chinese AI
+- Cohere
+- Department of Homeland Security
+- Elon Musk
+- Emerging Technology Initiative
+- New York University
+- OpenAI
+- Oxford Internet Institute
+- SpaceXAI
+- The Trump
+- i-GENTIC AI
 ---
 
 The leading AI industry voices rarely agree — so when they do, it’s no wonder it captures attention.

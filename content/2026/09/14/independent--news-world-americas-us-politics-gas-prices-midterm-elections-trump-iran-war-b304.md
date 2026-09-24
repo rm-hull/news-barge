@@ -11,6 +11,37 @@ image: https://static.independent.co.uk/2026/09/10/20/2293564613..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Middle East
+- U.S.
+- West Virginia
+people:
+- Brad Lockerbie
+- Donald Trump
+- Jim Justice
+- Kathy Bostjancic
+- Rich Meagher
+organisations:
+- AAA
+- AP
+- Brown University
+- East Carolina University
+- GOP
+- House
+- Iran War Energy Cost Tracker
+- Labor Department
+- MS
+- Nationwide
+- Politico
+- Randolph-Macon College
+- Senate
+- TV
+- The Associated Press
+- Trump
+- WITN
+- WRIC
+- YouGov
 ---
 
 The recent surge in gas prices has experts saying the issue could drive the results of November's midterm elections — signaling trouble for Republicans as President Donald Trump admits relief won't likely come before then.

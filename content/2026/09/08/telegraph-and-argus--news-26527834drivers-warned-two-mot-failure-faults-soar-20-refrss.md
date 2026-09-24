@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations: []
+people: []
+organisations:
+- DVSA
+- Rev Monkey UK
 ---
 
 *(Image: Getty Images)*

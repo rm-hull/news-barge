@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Middlesbrough
+- Normanby Road
+- St John’s
+people:
+- Cole Worthy
+- Jacob
+- Jakub Matusiak
+- Makai Saddington
+- Mark Robinson
+- Matthew Blades
+- Michael Cahill
+- Ms Cooper
+- Pc Tom Clough
+- Tammy Cooper
+- Theo Rae
+organisations:
+- A66
+- Outwood Academy
+- South Bank Primary School
 ---
 
 # Schools to close early over expected ‘traffic disruption’ for A66 crash funeral

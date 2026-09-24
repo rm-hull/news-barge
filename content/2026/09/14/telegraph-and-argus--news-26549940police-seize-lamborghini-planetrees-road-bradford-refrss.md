@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bowling Back Lane
+- Bradford
+- Leeds Road
+- Planetrees Road
+- West Yorkshire
+- West Yorkshire Police
+people: []
+organisations:
+- Bradford East NPT
+- Bradford East Neighbourhood Policing Team
+- Lamborghini
 ---
 
 A Lamborghini hire ended abruptly after police seized the supercar on a Bradford road.

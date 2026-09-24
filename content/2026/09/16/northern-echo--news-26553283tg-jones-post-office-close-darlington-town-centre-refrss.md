@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Cornmill Shopping Centre
+- Darlington
+- Haughton-Le-Skerne
+- High Street
+- Richmond
+- Skerne Park
+- Teesside Park
+- YOUR
+- Yarm Road
+people:
+- Alex Willson
+- Tom Smith KC
+organisations:
+- Darlington Post Office
+- High Court
+- Post Office
+- Public Notice Portal
+- TG Jones
+- WHSmith
 ---
 
 *(Image: THE NORTHERN ECHO)*

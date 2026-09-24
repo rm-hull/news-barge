@@ -11,6 +11,13 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- US
+people: []
+organisations:
+- Cleveland Clinic
+- Shanghai Jiao Tong University
 ---
 
 A single dose of an experimental jab has been found to cut “bad” cholesterol levels by half within six months of treatment in a small Chinese gene-editing trial, a new study reveals.

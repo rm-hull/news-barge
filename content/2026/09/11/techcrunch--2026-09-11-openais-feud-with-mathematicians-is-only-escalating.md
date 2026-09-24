@@ -11,6 +11,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-backgr
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Tristan Buckmaster
+organisations:
+- AI
+- Anthropic
+- CalTech
+- Codex
+- NYU
+- OpenAI
 ---
 
 Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Each signatory has been awarded the Fields Medal, considered the most prestigious prize in mathematics.

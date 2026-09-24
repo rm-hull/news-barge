@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Layerthorpe
+- York
+people: []
+organisations:
+- North Yorkshire Council
+- North Yorkshire Fire & Rescue
 ---
 
 *(Image: North Yorkshire Council)*

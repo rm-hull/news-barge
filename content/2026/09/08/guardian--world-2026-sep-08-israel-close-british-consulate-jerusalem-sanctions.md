@@ -11,6 +11,47 @@ image: https://i.guim.co.uk/img/media/78ec353b9ef83cae8bcea567c643971a96806ddf/5
 categories:
 - UK
 - News & Politics
+locations:
+- Argentina
+- Britain
+- Canada
+- East Jerusalem
+- Falkland Islands
+- France
+- Gaza
+- Islas Malvinas
+- Israel
+- Palestinian West Bank
+- Sheikh Jarrah
+- South Atlantic
+- Tel Aviv
+- UK
+- US
+- United Jerusalem
+- Washington
+- West Bank
+people:
+- Benjamin Netanyahu
+- Carla Denyer
+- Diane Abbott
+- Ed Miliband
+- Ellie Chowns
+- Gideon Sa’ar
+- Hannah Spencer
+- Isaac Herzog
+- Itamar Ben-Gvir
+- Jeremy Corbyn
+- John McDonnell
+- Marco Rubio
+- Mike Huckabee
+- Naz Shah
+- Richard Burgon
+- Siân Berry
+- Zarah Sultana
+organisations:
+- Labour
+- Sa’ar
+- Your Party
 ---
 
 Israel has ordered the closure of the British consulate in occupied East Jerusalem in response to sweeping UK sanctions on goods from illegal settlements.

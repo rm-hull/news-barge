@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Christchurch
+- Dover
+- Leicester
+- Manchester
+- New Zealand
+- Pakistan
+- Stafford
+- UK
+people:
+- Anders Breivik
+- Daniel Oscroft
+- Ivan Jennings
+- Lockhart KC
+- Oliver Renton
+organisations:
+- Patriotic Alternative
+- Telegram
 ---
 
 A rightwing extremist who discussed poisoning Jews and Muslims and called for the killing of migrants and minority communities has been jailed.

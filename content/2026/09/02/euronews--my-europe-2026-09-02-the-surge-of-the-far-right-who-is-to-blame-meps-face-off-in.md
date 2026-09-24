@@ -13,6 +13,35 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Europe
+- Germany
+- Israel
+- Saxony-Anhalt
+- Ukraine
+people:
+- Amaia Echevarria
+- Friedrich Merz
+- Hildegard Bentele
+- Jean-Marc Germain
+- Lionel Jospin
+- Luis Albertos Altarejos
+- Stefan Grobe
+- Vassilis Glynos
+organisations:
+- AfD
+- CDU
+- Christian Democrats
+- Committee on Development
+- Committee on Industry, Research and Energy
+- EPP
+- EU
+- European Parliament
+- European People’s Party
+- Germain
+- S&D
+- Socialists & Democrats
+- Socialists & Democrats Group
 ---
 
 ## All eyes are on the election in the small east German state of Saxony-Anhalt. A potential absolute majority for the far-right there could shake up German politics and rattle Europe. The beginning of a new crisis?

@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/0decf4c8c30eb7a60669a859ea336cf50a916f0e/6
 categories:
 - UK
 - News & Politics
+locations:
+- Gaza
+- Israel
+- Lebanon
+- US
+- United States
+people:
+- Biden
+- Robert Mackey
+- Trevor Ball
+- Trump
+organisations:
+- Congress
+- Hamas
+- Hezbollah
+- The New York Times
+- Trump
+- Washington Post
 ---
 
 The Trump administration is planning to deliver powerful 2,000lb bombs to Israel as part of an upcoming arms deal, weapons that prompted such concerns about the possibility of mass casualties in Gaza that the Biden administration paused their delivery two years ago.

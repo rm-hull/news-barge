@@ -10,6 +10,17 @@ image: https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Linus Torvalds
+organisations:
+- 2MB RAM
+- Get Tom's Hardware
+- IBM
+- Jag
+- Linux RADV Radeon Vulkan
+- Tom & Jerry
+- Xinuos
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-320-80.jpg)

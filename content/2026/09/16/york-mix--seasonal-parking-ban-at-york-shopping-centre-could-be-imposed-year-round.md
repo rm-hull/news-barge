@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- A19 Fulford Interchange
+- Designer Outlet York
+- Fulford Court
+- Naburn Lane
+- St Nicholas Avenue
+- St Nicolas Avenue
+people: []
+organisations:
+- City of York Council
+- Designer Outlet
+- Yorkshire Water
 ---
 
 A seasonal parking ban in place during a major York shopping centre’s annual event could be enforced year-round under council plans.

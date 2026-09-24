@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/02/10/2291455323..?trim=136,0,13
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Europe
+- Kazakhstan
+- Kyiv
+- Latin America
+- Middle East
+- Moscow
+- Qatar
+- Russia
+- St Petersburg
+- Ukraine
+people:
+- Katia Glod
+- Kyiv
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Air China
+- Azerbaijan Airlines
+- Emirates
+- Etihad Airways
+- Flydubai
+- NEST
+- Nato
+- New Eurasia Strategies Centre
+- Turkish Airlines
 ---
 
 Volodymyr Zelensky has issued a stark threat to airlines and businesses using Russian airspace, saying it will be “effectively closing” as Ukraine escalates its drone campaign.

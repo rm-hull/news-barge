@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Darlington
+- England
+- Holy Trinity Church
+- Market Place
+- North Yorkshire
+- North Yorkshire Moors Railway Inside
+- St Cuthbert's
+- St Cuthbert’s
+- St Cuthbert’s Church Centre
+- Woodlands Road
+people:
+- Darlington
+- Stuart Boulton
+organisations:
+- BBC’s The Repair Shop
+- Cockerton Prize Silver Band
+- Northern Lights
+- Northern Lights Stained Glass
+- Parish Communion
+- Soul Samba
+- St Cuthbert
+- St Cuthbert’s Church
+- St Cuthbert’s Listening Project
 ---
 
 *(Image: Stuart Boulton)*

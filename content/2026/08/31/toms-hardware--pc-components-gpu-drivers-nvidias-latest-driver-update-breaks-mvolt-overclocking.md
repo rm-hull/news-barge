@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Blackwell
+- Hassam Nasir
+- Tom
+organisations:
+- 3DMark
+- Core
+- GPU
+- Google News
+- MSI Afterburner
+- Nvidia
+- PCB
+- XBAR
 ---
 
 ![Nvidia GeForce RTX 5090](https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU.jpg) 

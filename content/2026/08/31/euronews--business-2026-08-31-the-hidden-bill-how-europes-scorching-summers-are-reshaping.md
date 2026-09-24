@@ -13,6 +13,50 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Austria
+- Brussels
+- Danube
+- Eemshaven
+- France
+- Gelsenkirchen
+- Germany
+- Greece
+- Hungary
+- Italy
+- Loire
+- Navarre
+- Netherlands
+- Po
+- Portugal
+- Rhine
+- Scholven
+- Spain
+- UK
+- Washington
+people:
+- Bruegel
+- Kevin Warsh
+- Monique Barbut
+- Tomas Dvorak
+organisations:
+- Asemfo
+- BP
+- Bruegel
+- Copernicus European Drought Observatory
+- ECB
+- EEA
+- EU
+- Euronews
+- European Commission
+- European Environment Agency
+- Federal Reserve
+- Federal Reserve Board
+- INSEE
+- Joint Research Centre
+- Oxford Economics
+- Triodos Bank
+- UN
 ---
 
 ## Another summer of record heat, drought and wildfires is leaving European governments with a bill that will land months later in the form of emergency relief, farm compensation, infrastructure repairs, unpaid taxes and food inflation.

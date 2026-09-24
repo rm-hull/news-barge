@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Chapel Allerton
+- Headingley
+- Market Court
+- Otley
+people:
+- Helen Charlton
+- Otley
+organisations:
+- Market Court
+- Merienda Coffee
+- Ms Charlton
+- Otley
+- Otley's Market Court
 ---
 
 A NEW cafe is already exceeding its owner's expectations just weeks after opening.

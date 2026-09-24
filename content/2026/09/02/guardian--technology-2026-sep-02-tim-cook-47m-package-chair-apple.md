@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations: []
+people:
+- Donald Trump
+- John Ternus
+- Steve Jobs
+- Tim Cook
+organisations:
+- AI
+- Apple
+- Ternus
 ---
 
 Tim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a remuneration package that nears the level set for his successor as chief executive.

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Brighton
+- Camden
+- Denton
+- England
+- Gorton
+- Greater Manchester
+- Hackney
+- Holborn
+- King's Cross
+- London
+- St Pancras
+- Wales
+people:
+- Hamza Chowdhury
+- Keir Starmer
+- Lorna Russell
+- Zack Polanski
+organisations:
+- Camden Green
+- Green party
+- Greens
+- Guardian
+- Instagram
+- Labour
 ---
 
 Zack Polanski is facing unexpected opposition from his own party in his attempt to fight the Holborn and St Pancras byelection for the Greens, with a local councillor saying he is also seeking the nomination, and that the seat does not need “a politician you’ll only see on a leaflet”.

@@ -13,6 +13,29 @@ categories:
 - York
 - Careers & Productivity
 image: https://www.yorkpress.co.uk/resources/images/21489825.jpg?type=og-image
+locations:
+- Britain
+- China
+- Europe
+- Hull
+- Humberside
+- Humberside’
+- Iran
+- Saltend
+- Strait of Hormuz
+- UK
+- US
+people:
+- Jim Ratcliffe
+- Michael Shanks
+organisations:
+- British Industrial Competitiveness Scheme
+- Department for Business and Trade
+- Government
+- Ineos
+- Ineos/PA
+- Press Association
+- Saltend Chemicals Park
 ---
 
 *(Image: Ineos/PA)*

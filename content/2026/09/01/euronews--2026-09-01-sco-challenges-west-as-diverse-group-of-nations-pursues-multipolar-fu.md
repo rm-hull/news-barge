@@ -14,6 +14,59 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Ala-Archa
+- Azerbaijan
+- Belarus
+- Bishkek
+- Caspian
+- Central Asia
+- China
+- Dushanbe
+- Eurasia
+- India
+- Iran
+- Islamabad
+- Israel
+- Kazakhstan
+- Kremlin
+- Kyrgyzstan
+- Middle East
+- Moscow
+- Pakistan
+- Russia
+- South Caucasus
+- Tajikistan
+- Tashkent
+- Turkey
+- US
+- Ukraine
+- Uzbekistan
+- West
+people:
+- Abbas Araghchi
+- Emomali Rahmon
+- Gandhi
+- Ilham Aliyev
+- Jeenbek Kulubaev
+- Kassym-Jomart Tokayev
+- Masoud Pezeshkian
+- Narendra Modi
+- Nikol Pashinyan
+- Recep Tayyip Erdoğan
+- Shavkat Mirziyoyev
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- African Union
+- G7
+- NATO
+- SCO
+- Shanghai Cooperation Organisation
+- TRIPP
+- Trump Route for International Peace and Prosperity
+- UN
+- Universal Centre for Countering Security Challenges
 ---
 
 ## The summit of the Shanghai Cooperation Organisation, which represents almost half of the world’s population, ended with an aim to signal the rise of a global powerhouse challenging the West. Yet the SCO's diversity also revealed significant disagreements and divergent interests.

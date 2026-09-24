@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Court of Monza
+- Refund4Freedom
+people:
+- Mark Tyson
+- Mirko Buratti
+- Tom
+organisations:
+- AGCM
+- Acer
+- Asus
+- Autorità Garante della Concorrenza e del Mercato
+- Dell
+- Free Software Foundation Europe
+- Google News
+- HP
+- Italian Linux Society
+- Lenovo
+- PC
+- Refund4Freedom
+- Tom's Hardware
 ---
 
 ![Refund4Freedom site for Windows OS refunds](https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb.jpg) 

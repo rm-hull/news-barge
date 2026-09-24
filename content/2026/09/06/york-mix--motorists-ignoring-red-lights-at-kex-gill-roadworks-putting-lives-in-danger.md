@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Harrogate
+- Kex Gill
+- Skipton
+people:
+- Carl Les
+- Cllr Les
+organisations:
+- North Yorkshire Council
+- YorkMix Radio
 ---
 
 The new stretch of the A59 at Kex Gill between Harrogate and Skipton is open but roadworks remain in place with traffic lights and that has caused some pretty long queues this week.

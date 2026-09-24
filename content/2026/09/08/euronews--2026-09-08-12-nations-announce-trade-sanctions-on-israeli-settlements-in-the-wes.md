@@ -14,6 +14,45 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Canada
+- Denmark
+- East Jerusalem
+- Finland
+- France
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Norway
+- Paris
+- Poland
+- Portugal
+- Spain
+- Sweden
+- UK
+- West Bank
+- Westminster
+people:
+- Andy Burnham
+- Diane Abbott
+- Ed Miliband
+- Emmanuel Macron
+- Gideon Sa'ar
+- Jean-Noël Barrot
+- Jeremy Corbyn
+- Mark Carney
+- Zarah Sultana
+organisations:
+- Coventry South
+- Government of Israel
+- Hackney North
+- Hamas
+- Labour
+- Office of the United Nations High Commissioner for Human Rights
+- Stoke Newington
+- West Bank The West Bank
+- Your Party
 ---
 
 ## British Foreign Secretary Ed Miliband accused "settler terrorists" of "ethnic cleansing" in areas of the West Bank and said the UK was bringing in an "import ban on goods from illegal settlements." Israel closed the British consulate in Jerusalem in response.

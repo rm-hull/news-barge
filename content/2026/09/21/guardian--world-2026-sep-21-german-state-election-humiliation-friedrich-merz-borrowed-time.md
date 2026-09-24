@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/527a1afbe885f1057e4e1b6adea74b5cf07f4cd2/451_0_3164_2531/master/3164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5b2b588889d5774e518a5d8411009d7
+locations:
+- Berlin
+- Mecklenburg-Western Pomerania
+- New York
+- Saxony-Anhalt
+people:
+- Friedrich Merz
+- Holger Schmieding
+organisations:
+- AfD
+- Alternative für Deutschland
+- Berenberg
+- CDU
+- Christian Democratic Union
+- Linke
+- Social Democrats
+- UN
 ---
 
 Friedrich Merz called it a “disaster”, and that was even before the full scale of the catastrophe for himself and his conservative Christian Democratic Union (CDU) came into view after Sunday’s state elections.

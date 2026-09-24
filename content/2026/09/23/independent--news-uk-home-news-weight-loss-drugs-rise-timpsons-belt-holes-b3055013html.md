@@ -14,6 +14,21 @@ categories:
 - Health & Fitness
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/12/7e2259e04d8b0abd6fe3c3cb3537de22Y29udGVudHNlYXJjaGFwaSwxNzkwMjQ5MDgx-2.78997291.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Mounjaro
+- Timpson
+- UK
+people:
+- James Timpson
+- Keir Starmer
+- Olivier Picard
+organisations:
+- Alex Timpson Trust
+- Mounjaro
+- NHS
+- National Pharmacy Association
+- Ozempic
+- Wegovy
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

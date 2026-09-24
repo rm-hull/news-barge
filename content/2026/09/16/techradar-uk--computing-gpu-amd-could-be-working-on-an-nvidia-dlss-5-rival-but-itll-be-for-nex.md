@@ -12,6 +12,27 @@ description: The reaction to DLSS 5 is changing already, and no doubt AMD is wat
 image: https://cdn.mos.cms.futurecdn.net/TV2LAbyqdZGeqpRGVnXNEa-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Kepler
+- VideoCardz
+organisations:
+- AI
+- AMD
+- Anandtech
+- DLSS
+- Darren
+- FSR
+- GPU
+- GPUs
+- Google News
+- Hachette UK
+- Kepler L2
+- Nvidia
+- RAM
+- RDNA
+- Sapphire
+- Team Red
 ---
 
 ![An AMD Radeon RX 9070 XT made by Sapphire on a table with its retail packaging](https://cdn.mos.cms.futurecdn.net/TV2LAbyqdZGeqpRGVnXNEa.jpg) 

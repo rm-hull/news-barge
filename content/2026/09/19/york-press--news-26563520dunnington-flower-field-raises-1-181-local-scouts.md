@@ -12,6 +12,18 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21471336.jpg?type=og-image
+locations:
+- Church Balk
+- Dunnington Flower Field
+people:
+- Roger Sturmey
+organisations:
+- Beavers
+- Beavers, Cubs
+- Board of Trustees
+- Dunnington Flower Field
+- Dunnington Scouts
+- Scout Group
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Denbighshire
+- Gladstone
+- Ruthin
+- UK
+- Wales
+- Westminster
+- Worcestershire
+people:
+- Anne Roberts
+- David Murray
+- Gabriel Goodman
+- John Lennon
+- Julian
+- Ruthin
+- Sanderson Weatherall
+organisations:
+- BBC
+- FRP Advisory
+- Galaxy Global Education
+- Ruthin School
+- Sanderson Weatherall
+- Sanderson and Weatherall
 ---
 
 A 742-year-old school that educated John Lennon’s son is up for sale for £5 million after it closed due to financial pressures.

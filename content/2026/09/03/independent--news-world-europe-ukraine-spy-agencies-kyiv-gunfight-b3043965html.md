@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/03/8/10/ukraine-friendly-fire-20
 categories:
 - News & Politics
 - UK
+locations:
+- Kyiv
+- Ukraine
+people:
+- Denys Kireyev
+- Oleh Khramov
+- Stepan Kaplunov
+- Volodymyr Zelensky
+organisations:
+- GUR
+- HUR
+- RVC
+- Russian Volunteer Corps
+- SBU
+- State Bureau of Investigation
+- State Security Service
 ---
 
 President Volodymyr Zelensky has condemned Ukraine’s domestic and military intelligence agencies over a “disgraceful” shootout that erupted between agents in the streets of Kyiv on Wednesday.

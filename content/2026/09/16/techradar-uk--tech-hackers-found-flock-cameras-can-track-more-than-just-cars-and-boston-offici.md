@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Boston
+people:
+- Flock
+organisations:
+- ALPR
+- Apple
+- Automatic License Plate Recognition
+- Axon
+- EFF
+- Electronic Frontier Foundation
+- Flock
+- Google News
+- Hamish
+- Motorola
+- TechRadar
 ---
 
 ![A flock camera in front of a blue sky](https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f.jpg) 

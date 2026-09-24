@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Hull
+people:
+- Hull
+- Jan Baldwin
+- John Stanley Twyman
+- John Twyman
+organisations:
+- Hull Crown Court
+- Humberside Police
+- Protecting Vulnerable People Unit
 ---
 
 # Hull rapist jailed after years of brutal physical and mental abuse

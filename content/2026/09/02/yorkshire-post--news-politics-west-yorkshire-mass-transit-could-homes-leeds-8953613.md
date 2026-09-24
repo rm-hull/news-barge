@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- '## Leeds'
+- Armley
+- Bradford
+- Elland Road
+- Europe
+- France
+- Japan
+- Network Rail
+- Sheffield
+- Tees Valley
+- UK
+- West Yorkshire
+people:
+- Andy Burnham
+- Angela Rayner
+- Anthony Breach
+- Tracy Brabin
+organisations:
+- Centre for Cities
+- G7
+- Leeds South Bank
+- National Planning Policy Framework
+- Weaver Network
 ---
 
 # West Yorkshire mass transit could add tens of thousands of homes to Leeds, report finds

@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Food & Cooking
 image: https://mmo.aiircdn.com/409/6aa9052b54e5bd910bf.jpg
+locations:
+- Knaresborough
+people:
+- Fleurets
+- Samuel Smith
+organisations:
+- Briggate
+- Fleurets
+- Wellington Inn
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa9052b54e5bd910bf.jpg)

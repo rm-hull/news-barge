@@ -15,6 +15,17 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Pawtucket
+- Rhode Island
+people:
+- Jowi Morales
+- Noel Pichardo
+- Tom
+organisations:
+- Flock
+- Google News
+- Jowi Morales
 ---
 
 ![a Flock camera with a street in the background](https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN.png) 

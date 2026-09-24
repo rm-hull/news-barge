@@ -16,6 +16,18 @@ categories:
 - History
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Leeds
+- Lower Kirkgate
+- 'Lower Kirkgate ##'
+people:
+- Martin Hamilton
+organisations:
+- Geo Houlton
+- Leeds City Council
+- Leeds Civic Trust
+- Local Democracy Reporting Service
+- Sons
 ---
 
 # Leeds City Council awards £680,000 contract for urgent maintenance on Lower Kirkgate

@@ -12,6 +12,46 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/68febe6e69b5bbe32feff1b6830bc9e14ac94e61/1021_481_5052_4044/master/5052.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=983392966511eba450ad62899bed7dce
+locations:
+- Chagos Islands
+- China
+- Finland
+- Gaza
+- Greater Manchester
+- Hong Kong
+- Iran
+- Israel
+- London
+- Mauritius
+- Middle East
+- Moscow
+- New York
+- Norway
+- Russia
+- Tehran
+- UK
+- US
+- Ukraine
+- United States
+- West Bank
+- White House
+people:
+- AI
+- Andy Burnham
+- António Guterres
+- Diego Garcia
+- Donald Trump
+- Ed Miliband
+- Jimmy Lai
+- Jonathan Powell
+- Keir Starmer
+- Volodymyr Zelenskyy
+- Xi Jinping
+organisations:
+- AI
+- G20
+- Hamas
+- UN
 ---
 
 Donald Trump has asserted his relationship with the UK is “more up” with Andy Burnham than under Keir Starmer despite tensions between the two countries on a range of thorny issues including regulation of artificial intelligence, the Chagos islands and the war in Iran.

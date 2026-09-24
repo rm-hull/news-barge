@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/599d2cbd889aa5ae4e5c0d46970d12751bd96053/462_235_1375_1100/master/1375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b7255b27b9b716e709e6df49decf5b7
+locations:
+- Atlantic
+- Guerrero
+- Mexico
+- Miami
+- Pacific Ocean
+- Polo
+- Zihuatanejo
+people:
+- Brian McNoldy
+- Paul Pastelok
+organisations:
+- AccuWeather
+- El Niño
+- National Hurricane Center
+- University of Miami
 ---
 
 A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours, fueled by stronger than usual El Niño weather patterns in the Pacific Ocean.

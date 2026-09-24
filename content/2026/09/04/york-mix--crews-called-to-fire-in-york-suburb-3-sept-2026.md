@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - History
+locations:
+- '#### Crossfield Crescent'
+- Crossfield Crescent
+- York
+people: []
+organisations:
+- Acomb
+- Both York
+- North Yorkshire Fire & Rescue Service
 ---
 
 Fire crews were called to an incident in a York suburb last night (Thursday).

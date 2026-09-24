@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Forest City
+- Iran
+- Israel
+- Kansas City
+- Missouri
+- Strait of Hormuz
+- U.S.
+people:
+- Donald Trump
+- Jason Kurtz
+- Paul Mitchell
+organisations:
+- AAA
+- Trump
+- University of Wisconsin-Madison
 ---
 
 American farmers harvesting two of the country's most vital crops, corn and soybeans, are confronting unprecedented diesel costs to operate their tractors, combines, and heavy machinery.

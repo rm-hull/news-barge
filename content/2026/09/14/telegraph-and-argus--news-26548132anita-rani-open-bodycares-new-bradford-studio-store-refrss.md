@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Derby
+- Leicester
+- Sheffield
+- The Broadway
+- UK
+people:
+- Anita Rani
+- Charles Denton
+- Ian Ward
+organisations:
+- BBC
+- Bodycare Derby
+- Bradford
+- Creator Studio
+- Piercing Studio
+- Shaun Fellows
+- Shine Pix
+- The Broadway
 ---
 
 *(Image: File picture)*

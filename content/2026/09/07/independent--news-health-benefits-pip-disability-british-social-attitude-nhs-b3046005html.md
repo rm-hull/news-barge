@@ -13,6 +13,35 @@ categories:
 - UK
 - Society & Culture
 - Health & Fitness
+locations:
+- New Labour
+- UK
+people:
+- Andy Burnham
+- Bea Taylor
+- Danielle Jefferies
+- Robert de Vries
+- Stephen Timms
+- Tony
+organisations:
+- BSA
+- British Social Attitudes
+- Conservative Party
+- GP
+- Government
+- Green Parties
+- King’s Fund
+- Liberal Democrats
+- Milburn Reviews
+- NHS
+- NatCen
+- National Centre for Social Research
+- New Labour
+- Nuffield Trust
+- Reform UK
+- The King’s Fund
+- Timms
+- University of Kent
 ---
 
 Almost half of people think the government should spend more on disabled people, meaning proposals to cut disability benefits are likely to be “politically risky” for any major party, a new survey suggests.

@@ -12,6 +12,40 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12b0/live/358020
 categories:
 - UK
 - News & Politics
+locations:
+- Boston
+- Chhatrapati Sambhajinagar
+- Dipke
+- Hingoli
+- India
+- Jantar Mantar
+- Maharashtra
+- New Delhi
+- US
+people:
+- Abhijeet Dipke
+- Adnan Bhat
+- BR Ambedkar
+- Dharmendra Pradhan
+- Narendra Modi
+- Prem Boominathan
+- Sonam Wangchuk
+- Surya Kant
+- Yogita Limaye
+organisations:
+- AAP
+- Aam Aadmi Party
+- BBC
+- BJP
+- Bharatiya Janata Party
+- Boston University
+- CJP
+- Cockroach Janta Party
+- Dipke
+- Ministry of Electronics and Information Technology
+- NSA
+- State
+- The Indian Express
 ---
 
 The BBC's Yogita Limaye speaks to Abhijeet Dipke as he visits a school in rural India

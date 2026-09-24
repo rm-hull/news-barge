@@ -12,6 +12,18 @@ image: https://static.independent.co.uk/2026/09/10/20/27/Gatwick-Airport-passeng
 categories:
 - News & Politics
 - UK
+locations:
+- Aberdeen
+- Gatwick Airport
+- UK
+people:
+- Heidi Alexander
+- Joy Matashi
+- Kurtis Toy
+organisations:
+- National Air Traffic Services
+- Nats
+- TikTok
 ---
 
 As chaos engulfed airports across the UK this week, one “hero” passenger stepped in to help dozens of customers at Gatwick.

@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Barnsley Road
+- Cudworth
+- Stocks Lane
+- Yorkshire
+people:
+- Jonathan Round
+- Liam McGuire
+organisations:
+- Sheffield Crown Court
+- The Star Hotel
 ---
 
 # Family name man, 52, who died after Yorkshire pub altercation

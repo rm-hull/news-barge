@@ -13,6 +13,31 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Abraham Lincoln
+- Athens
+- Greece
+- Gulf of Thailand
+- Iran
+- Israel
+- Jordan
+- Lebanon
+- Middle East
+- Pattaya
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- United Arab Emirates
+- United States
+people:
+- Constantine Tassoulas
+- Joseph Aoun
+- Kyriakos Mitsotakis
+- Masoud Pezeshkian
+organisations:
+- Defense Ministry
+- U.S. Navy
 ---
 
 An Iranian drone was intercepted early Monday over United Arab Emirates territorial waters, the Defense Ministry said. The attack followed an exchange of fire between Iran and the United States on the weekend, which was the first significant military action in the war for more than a month.

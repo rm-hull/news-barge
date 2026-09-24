@@ -11,6 +11,25 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- US
+people:
+- Sead
+- ShinyHunters
+- Troy Hunt
+organisations:
+- Al Jazeera Balkans
+- Carhartt
+- Carhartt’s Databricks
+- Google News
+- HaveIBeenPwned?*
+- Represent Communications
+- Salesforce
+- ShinyHunters
+- Snowflake
+- TechRadar Pro
 ---
 
 ![A hooded figure in front of a laptop. Digital symbols obscure his face and appear to be pouring out of his head](https://cdn.mos.cms.futurecdn.net/mdjvPqJZZunuCQDrfEuBFM.jpg) 

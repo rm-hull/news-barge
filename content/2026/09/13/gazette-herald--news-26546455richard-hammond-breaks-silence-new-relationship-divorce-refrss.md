@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Relationships & Dating
+locations:
+- Gloucestershire
+- Oxford
+- Ross-on-Wye
+- Switzerland
+- Waitrose
+- Wales
+people:
+- Izzy
+- Kiki Glen
+- Love
+- Mindy
+- Ms Glen
+- Richard Hammond
+- Willow
+organisations:
+- Harrogate College of Art and Technology
+- Hartpury University
+- Headington Rye School
+- Ripon Grammar School
+- The Times
+- Top Gear
 ---
 
 Richard Hammond has broken his silence on his new relationship with an Oxford school governor following his shock divorce.

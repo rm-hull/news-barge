@@ -15,6 +15,12 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- York
+people: []
+organisations:
+- Newsquest)* Police
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

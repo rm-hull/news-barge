@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+people: []
+organisations:
+- AA
+- Allianz
+- EQT
+- London Stock Exchange
+- Sky News
+- The Financial Times
+- TowerBrook
+- Warburg Pincus
 ---
 
 The German-based financial services company Allianz is considering a £5bn takeover swoop for AA, the breakdown recovery group, Sky News has reported.

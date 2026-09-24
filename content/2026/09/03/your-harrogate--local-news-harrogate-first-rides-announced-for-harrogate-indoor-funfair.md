@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Miami
+- Yorkshire Event Centre
+people: []
+organisations:
+- Harrogate Indoor Funfair
+- Indoor Funfair
+- Tornado Twist
+- Waltzer, Frogs
 ---
 
 ![](https://mmo.aiircdn.com/409/6a996e2f9ba66453114.jpg) 

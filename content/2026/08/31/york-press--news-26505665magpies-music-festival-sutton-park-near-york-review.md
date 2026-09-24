@@ -13,6 +13,22 @@ categories:
 - Local
 - York
 - Music
+locations:
+- North Yorkshire
+- Sutton Park
+- York
+people:
+- Beard
+- Blair Dunlop
+- Esme Mai
+- Esme Mai Blair Dunlop
+- Esme Mai Tarran
+- GARETH JOHN
+- Magpies
+- Ophelia
+organisations:
+- Indigo Girls
+- The Magpies
 ---
 
 ## Inside the sold-out festival near York where music makes it 'a most treasured event'

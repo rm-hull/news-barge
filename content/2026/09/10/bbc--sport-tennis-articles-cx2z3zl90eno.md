@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Cincinnati
+- New York
+- Washington
+people:
+- Annabel Croft
+- Aryna Sabalenka
+- Coco Gauff
+- Elena Rybakina
+- Jessica Pegula
+- Russell Fuller
+- Serena Williams
+organisations:
+- BBC Radio 5 Live
+- Jessica Pegula
 ---
 
 ![Split image of Aryna Sabalenka, Jessica Pegula, Coco Gauff, Elena Rybakina](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7b09/live/4d41f9e0-acba-11f1-bc1f-3f186ca4140c.png)

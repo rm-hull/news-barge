@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- County Durham
+- Dales Bike Centre
+- Fremington Edge
+- Gunnerside
+- Keld
+- Parks Barn
+- Reeth
+- Saltburn
+- Swale Trail
+- Swaledale
+- The Yorkshire
+- Yorkshire Dales Cycle Way
+people:
+- Brenda Price
+- Stuart
+organisations:
+- Cakery
+- Dales Bike Centre
+- Dales Bike Centre Cafe
+- Google
+- Yorkshire Dales
 ---
 
 *(Image: TRIPADVISOR)*

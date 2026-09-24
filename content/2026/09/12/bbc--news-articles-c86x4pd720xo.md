@@ -11,6 +11,41 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dae6/live/c63cac
 categories:
 - UK
 - News & Politics
+locations:
+- Los Angeles
+- Portsmouth
+- UK
+- US
+people:
+- Alan Carr
+- Amandaland
+- Drag
+- Fenton Bailey
+- Graham Norton
+- Juno Dawson
+- Kate Butch
+- Loverman
+- Michelle Visage
+- Randy Barbato
+- Ross Mathews Bailey
+- RuPaul Charles
+- Scott Bryan
+- Vivienne
+organisations:
+- All Stars
+- BBC News
+- BBC Three
+- Barb Audiences
+- Blankety Blank
+- Drag Race
+- Drag Race UK
+- Emmy
+- GLAAD
+- LGBTQ
+- Queer History of Modern Television
+- Smoggie Queens
+- The BBC
+- WOW
 ---
 
 ![Four people, Michelle Visage, RuPaul, Graham Norton and Alan Carr, stand on a brightly lit runway in the foreground. The central figure wears a fitted black gown with long black gloves and stands in front of a circular golden backdrop. To the left, one person wears a short black-and-white striped dress with spiral designs on the chest. To the right, one person wears a black suit jacket with floral embroidery, and another wears a shiny red suit with floral embellishments. The stage features a reflective floor, a purple geometric wall pattern, and illuminated steps leading to the backdrop.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/75c8/live/d8f50ec0-ade9-11f1-bc1f-3f186ca4140c.jpg)

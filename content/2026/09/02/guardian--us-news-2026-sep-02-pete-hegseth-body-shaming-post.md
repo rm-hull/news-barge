@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Arizona
+- British Columbia
+- Canada
+- Iran
+- Lake Ontario
+- US
+- Vernon Cadet Training Centre
+- Virginia
+- Washington
+people:
+- Adam Kinzinger
+- Dan Driscoll
+- Danny O’Regan
+- David Eby
+- Donald Trump
+- Jacob Bliss
+- Mark Carney
+- Pete Hegseth
+- Ruben Gallego
+organisations:
+- Army Cadet League of Canada
+- Associated Press
+- Instagram
+- Nato
+- Pentagon
+- The X
+- Trump
 ---
 
 A social media post by Pete Hegseth, the US secretary of defense, body-shaming female members of a Canadian youth development program remained online on Wednesday despite a furious backlash on both sides of the border.

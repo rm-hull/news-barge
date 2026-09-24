@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Cow Shed
+- Matt Hillier
+- Runswick Bay
+people:
+- Matt Hillier
+organisations:
+- Blenkin & Co
+- The Cow Shed
 ---
 
 CONVERTED from a detached agricultural building in 2022 – almost certainly from where it inherited its name – The Cow Shed is today a contemporary and appealing barn conversion set in large gardens.

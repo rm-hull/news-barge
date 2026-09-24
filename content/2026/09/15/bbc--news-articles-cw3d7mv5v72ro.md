@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- America
+- Brighton
+- Britain
+- Harborne
+- UK
+- UK.
+people:
+- Baroness Taylor
+- Ben Delo
+- Christopher Harborne
+- Jonathan Reynolds
+- Lisa Smart
+- Nigel Farage
+- Sharon Graham
+- Trump
+organisations:
+- BBC Radio 4
+- Conservative Party
+- Delo
+- Green Party
+- Harborne
+- House of Lords
+- Houses of Parliament.
+- Labour
+- Liberal Democrat Cabinet Office
+- Liberal Democrats
+- Reform UK
+- Stevenage
+- Trades Union Congress
+- Unite
 ---
 
 ![Nigel Farage is wearing a blue suit, white shirt and a tie. He has short grey hair. A Union flag can be seen in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/74e4/live/1ab5c060-8f5f-11f1-b2ab-0dd01740f9f6.jpg)

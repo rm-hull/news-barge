@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- 57th Street
+- White House
+people:
+- Bari Weiss
+- Cecilia Vega
+- Draggan Mihailovich
+- Guy Campanile
+- Matthew Polevoy
+- Scott Pelley
+- Sharyn Alfonsi
+- Tanya Simon
+- Thomas Jefferson
+organisations:
+- 60 Minutes
+- CBS News
+- Campanile
+- Facebook
+- Guardian
 ---
 
 The former managing editor at 60 Minutes, who was fired in May with several other top correspondents, has spoken out about the ouster, saying he and his colleagues, were dismissed because they “would not compromise our principles or reputations by jamming unverifiable notions or White House talking points into our reporting”.

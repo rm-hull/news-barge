@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Courtyard
+- Leeds
+- UK
+- Ukraine
+- Yorkshire
+people:
+- Beata Kurkul
+- Bernadeta Bagaslauskaite
+- Ian Walker
+- Vaisnoras
+organisations:
+- Bradford Council
+- Corn Exchange
+- Darley Street Market
+- Leeds Ukrainian Community Association Charity
 ---
 
 *(Image: Supplied)*

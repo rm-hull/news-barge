@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Keighley
+- Oxenhope
+- Silsden
+people: []
+organisations:
+- Keighley Neighbourhood Policing Team
+- NPT
+- West Yorkshire Police
 ---
 
 POLICE are appealing for information after a rise in nuisance and illegal motorbike activity in three Bradford district towns.

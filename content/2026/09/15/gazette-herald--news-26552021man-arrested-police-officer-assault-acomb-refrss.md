@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Acomb
+- Green Lane
+- North Yorkshire
+- York
+people: []
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- North Yorkshire
+- Ryedale
+- Scarborough
+- York
+people:
+- Lewis Clarke
+- Martin Dennison
+organisations:
+- North Yorkshire Police
+- Ryedale Neighbourhood Policing Team
 ---
 
 *(Image: Lewis Clarke)*

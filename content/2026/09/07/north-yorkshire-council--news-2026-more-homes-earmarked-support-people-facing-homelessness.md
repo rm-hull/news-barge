@@ -15,6 +15,14 @@ categories:
 - Harrogate
 - Government
 - Personal Finance & Investing
+locations:
+- England
+- Harrogate
+- North Yorkshire
+people:
+- Cllr Simon Myers
+organisations:
+- Government
 ---
 
 ![A view of Harrogate](https://www.northyorks.gov.uk/sites/default/files/2026-09/Harrogate1.jpg) 

@@ -15,6 +15,39 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- '### County Durham County Durham'
+- '### Hexham'
+- Allentown
+- Ballytoor
+- Consett
+- County Cork
+- County Durham
+- Hexham Bridge
+- North East
+- Northumberland
+- Stocksfield
+- Tynedale Terrace
+people:
+- Amy Nuttall
+- Carol Crottie
+- Denise Welch
+- Douglas Henshall
+- Graham Norton
+- Helen Williams
+- Kevin Whately
+- Robert
+- Samantha Bond
+organisations:
+- Broomley Grange
+- Channel 5
+- County Durham
+- Forever Home
+- Hexham Rowing Club
+- North East Production Fund
+- North East Screen
+- Northern Echo
+- Tyne Green
 ---
 
 *(Image: Broomley Grange)*

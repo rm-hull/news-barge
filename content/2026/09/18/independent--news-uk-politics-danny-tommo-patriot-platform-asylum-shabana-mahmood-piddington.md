@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Birmingham
+- Crowborough
+- Dover
+- Ireland
+- Oxfordshire
+- Piddington
+- Portsmouth
+- Scotland
+- Wethersfield
+people:
+- Dan Wootton
+- Daniel Thomas
+- Danny Thomas
+- Danny Tommo
+- Mr Thomas
+- Piddington
+- Shabana Mahmood
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- GB News
+- The Patriot Platform
 ---
 
 Shabana Mahmood has branded anti-migrant activist Daniel Thomas a “far-right and outright racist” and warned he will feel “the full force of the law” if he or his organisation commits any crimes near asylum sites.

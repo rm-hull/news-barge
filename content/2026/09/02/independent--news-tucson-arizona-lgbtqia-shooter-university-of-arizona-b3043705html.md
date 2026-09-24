@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Arizona
+- Tucson Queerstory
+- Venture-N
+people:
+- Cameron Davis Capara
+- Ousman Ceesay
+- Tucson Queerstory
+- Vincent Anthony Siqueiros
+organisations:
+- LGBTQIA
+- Tucson Police Department
+- University of Arizona
+- Venture-N
 ---
 
 Police in Arizona have confirmed that a shooting at a Tucson gay bar that left three people dead, including the shooter, was a hate crime.

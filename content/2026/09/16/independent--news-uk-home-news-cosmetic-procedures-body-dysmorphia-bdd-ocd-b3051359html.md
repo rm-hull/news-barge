@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations: []
+people:
+- Eric Power
+organisations:
+- Centre for Guidelines
+- National Institute for Health and Care Excellence
+- Nice
+- OCD
 ---
 
 Health officials have advised that people seeking cosmetic procedures ought to be screened for body dysmorphic disorder (BDD).

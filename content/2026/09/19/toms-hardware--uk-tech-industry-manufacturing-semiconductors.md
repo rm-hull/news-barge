@@ -12,6 +12,28 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-320-80.png
+locations:
+- HQ
+- Taipei
+- Taiwan
+- Tokyo
+- U.S.
+people: []
+organisations:
+- ASML
+- Get Tom's Hardware
+- HBM
+- Intel
+- LPP
+- Micron Building
+- Nvidia
+- Pacific Quartz
+- PieceMakers
+- Premium Anjinomoto
+- SK
+- Samsung
+- TSMC Arizona Fab
+- Tera-Fab
 ---
 
 ![TeraFab](https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-320-80.png)

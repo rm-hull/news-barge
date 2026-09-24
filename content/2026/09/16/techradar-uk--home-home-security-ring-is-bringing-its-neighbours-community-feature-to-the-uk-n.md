@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/kgdWe35BWgcKNSJPXURpc5-2000-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- London
+- Neighbours
+- UK
+- US
+people:
+- Dave Ward
+- Rachel Casey
+- Ring
+organisations:
+- '## Search Party for Dogs Ring'
+- Dogs Trust
+- Facebook
+- Google News
+- Neighbours and Search Parties
+- Neighbours and Search Party
+- PC Format
+- PC Plus
+- Ring Neighbours
+- SCA
+- Search Party
+- Search Party for Dogs
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Person holding phone showing Ring Neighbours app](https://cdn.mos.cms.futurecdn.net/kgdWe35BWgcKNSJPXURpc5.png) 

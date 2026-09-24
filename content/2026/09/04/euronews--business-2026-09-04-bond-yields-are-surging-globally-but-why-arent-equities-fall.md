@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Frankfurt
+- Germany
+- Jackson Hole
+- Japan
+- Sherman
+- Texas
+- U.S.
+- UK
+- US
+people:
+- '### Kevin Warsh'
+- Ed Yardeni
+- Jeffrey McWhorter
+- Jensen Huang
+- JohnWilliams
+- Kevin Warsh
+- Williams
+organisations:
+- AI
+- Bond Vigilantes
+- CNBC
+- Christine Lagarde
+- ECB
+- Earnings Insight
+- European Central Bank
+- FactSet
+- Federal Reserve
+- New York Fed
+- Nvidia
+- US Treasury
+- Yardeni Research
 ---
 
 ## Higher bond yields are alarming investors, but strong growth and record earnings may help equity markets absorb the rising borrowing costs.

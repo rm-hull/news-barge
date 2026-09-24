@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Jerry Sandusky
+- Joe Paterno
+- R.R.
+organisations:
+- Hall of Fame
+- Penn State
+- Pennsylvania Office of Attorney
+- The Second Mile
 ---
 
 Lawyers for former Penn State assistant football coach Jerry Sandusky asked Thursday to cancel a court date for a hearing over a claim that an accuser wants to recant allegations that Sandusky sexually abused him years ago.

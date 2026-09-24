@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Gaza City
+- Israel
+- Jerusalem
+people:
+- Ahmad Arafat
+- Alam Zakout
+- Shaina Low
+- Um Mohammad Adas
+organisations:
+- COGAT
+- Gaza Health Ministry
+- Hamas
+- Health Ministry
+- Norwegian Refugee Council
+- Office for the Coordination of Humanitarian Affairs
+- Palestinian Ministry of Public Works
+- U.N.
+- United Nations
+- World Bank
+- ___ Metz
 ---
 
 The deadly collapse of a multistory building in Gaza has drawn new attention to the hardships facing Palestinians there nearly a year after a ceasefire between Israel and Hamas promised to kickstart reconstruction.

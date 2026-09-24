@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Harrogate
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e5e3ec5ff4e8ce1e.jpg) 

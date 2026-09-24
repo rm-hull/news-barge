@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- NHS
+people:
+- '![Kim'
+- Dad-to-be Reece
+- Emma Tracey
+- Kim
+- Reece Finnegan-Knight
+- Sean Randall
+- Sophy
+organisations:
+- BBC
+- Guide Dogs
+- RNIB
+- Royal National Institute of Blind People
 ---
 
 ![BBC reporter Emma Tracey is pictured holding a baby wrapped in a light blue sling while standing beside a large tree and wooden fence. Sunlight filters through surrounding greenery, with water and blurred trees visible in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a14a/live/91a3b900-ade8-11f1-9a5c-a7a4083eb832.jpg)

@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1079
+- A19
+- A64
+- Flaxton
+- Fulford
+- Haydn Lewis
+- Heslington
+- Hull
+- Selby
+- York
+people: []
+organisations:
+- A64
 ---
 
 ## 'Severe delays' ease after crash on major road in York

@@ -14,6 +14,52 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Australia
+- Darlington
+- England
+- India
+- Middleton Hall
+- Middleton St George
+- North East
+- North Yorkshire
+- Northallerton Coroner's Court
+- US
+- York
+people:
+- Alan Mcllmoyle
+- Anna Forbes
+- Bill Gates
+- Gary Pallister
+- Goff White
+- Gordon McQueen
+- Hayley McQueen
+- Head Safe
+- Hilary Maddren
+- Hughie Mcllmoyle
+- John Stiles
+- Jon Heath
+- Judith Gates
+- Nobby Stiles
+- Stuart Boulton
+- Tina White
+- Willie Maddren
+- Willie Stewart
+organisations:
+- Boro
+- CTE
+- Department for Education
+- Head Safe
+- Head Safe Football
+- Head Safe Guardian
+- Middlesbrough
+- Middleton Hall
+- Middleton St George
+- NEWSQUEST
+- NORTHERN ECHO
+- Stuart Boulton
+- Victoria Cross
 ---
 
 Former players and footballers’ families have united to demand government action on heading in professional and grassroots football, warning: “The time for action is now, not just shock and condolences”.

@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Cape Verde
+- Farsley
+- Leeds
+- Melia Dunas
+people:
+- Judith Weelands
+- Mrs Weelands
+- Ms Weelands'
+organisations:
+- ABTA
+- TUI UK&I
 ---
 
 A woman who has spent the past 16 weeks protesting outside a TUI store over a holiday she describes as the "worst holiday" of her life says she will continue her campaign despite the travel firm investigating her complaint, offering compensation and having its decision upheld by ABTA.

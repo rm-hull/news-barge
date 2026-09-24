@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Atlanta
+- Interstate 20
+- Windsor Street
+people:
+- Dorothy
+organisations:
+- Atlanta Fire Rescue
+- Fox 5
+- Grady EMS
 ---
 
 Wild viral footage shows a car stuck under an Atlanta highway overpass — with its driver’s feet dangling 20 feet in the air.

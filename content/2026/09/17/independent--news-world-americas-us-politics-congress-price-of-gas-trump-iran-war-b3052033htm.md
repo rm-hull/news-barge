@@ -14,6 +14,51 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Allegheny County
+- Beaver County
+- Chicago
+- D-Mass.
+- D-Penn.
+- Florida
+- Georgia
+- Illinois
+- Iran
+- Long Island
+- North Carolina
+- Oregon
+- Pennsylvania
+- R-S.C.
+- Saudi Arabia
+- Sen
+- South Carolina
+- Strait of Hormuz
+- United States
+- Yemen
+people:
+- Aaron Bean
+- Andrew Clyde
+- Chris DeLuzio
+- Chris Deluzio
+- Darline Graham
+- Donald Trump
+- Jim McGovern
+- Lindsey Graham
+- Maxine Dexter
+- Mike Johnson
+- Nancy Mace
+- Nick LaLota
+- Ralph Norman
+- Scott Olson
+organisations:
+- AAA
+- Congress
+- House Freedom Caucus
+- House of Representatives
+- R-NC
+- R-SC
+- Senate
+- The Independent
 ---
 
 President Donald Trump has said that rising gas prices are a small price to pay for the war in Iran. But members of Congress in both parties are warning that this could become a crisis for Republicans in the midterm election.

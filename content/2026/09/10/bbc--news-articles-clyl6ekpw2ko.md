@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Bedfordshire
+- Northamptonshire
+- Toddington Mills
+- Tove Valley Shire Horses
+- Towcester
+people:
+- Brett Masters
+- Hannah Masters
+- Hugo
+- Lisa Masters
+- Sampson
+- Thomas Cleaver
+organisations:
+- Guinness World Records
+- Northamptonshire
 ---
 
 ![Lisa Masters, in a barn, holding her arms up, to the head of a horse, who is sideways on, with reins around his head. She is wearing black leggings, has on boots, a blue top and blue gilet. She has long dark hair tied back and is smiling. The barn is full of hay.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1221/live/8844d5d0-ac5b-11f1-be57-03729df1d736.jpg)

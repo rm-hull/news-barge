@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Argentine Republic
+- Atlantic Ocean
+- Buenos Aires
+- Falkland Islands
+- Falkland Islands.
+- Falklands
+- Las Malvinas
+- North Falkland Basin
+- Sea Lion
+- Tel Aviv
+- UK
+people:
+- Javier Milei
+organisations:
+- Buenos Aires Stock Exchange
+- Navitas Petroleum
+- Project
+- Rockhopper
+- Sea Lion
 ---
 
 ![Argentine President speaks during a ceremony commemorating the 172nd anniversary of the Buenos Aires Stock Exchange in Buenos Aires, Argentina, July 16, 2026. He is wearing a dark suit with a black tie and a light blue shirt. He stands at a lectern and to his left there is an Argentine flag.](https://ichef.bbci.co.uk/ace/standard/970/cpsprodpb/f822/live/55e4d820-ab6a-11f1-9712-a14d469bace4.jpg)

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Cheapside
+- Spennymoor Library
+people:
+- Alan Boddy
+- Karen Allison
+organisations:
+- A66
+- All Together for Spennymoor Board
+- Darlington Market
+- Durham County Council
+- Livin
+- Lloyds Bank
+- Post Office
+- Spennymoor Post Office
 ---
 
 A post office has relocated to a new town centre location to improve access and support regeneration plans.

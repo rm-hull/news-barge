@@ -14,6 +14,20 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21477976.jpg?type=og-image
+locations:
+- Britain
+people:
+- Alesha Dixon
+- Amanda Holden
+- John Torode
+- Simon Cowell
+- Tim Markland
+organisations:
+- Blackpool
+- Fremantle
+- KSI
+- PA Wire
+- The Sun
 ---
 
 *(Image: Tim Markland/PA Wire)*

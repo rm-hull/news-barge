@@ -14,6 +14,33 @@ categories:
 - Sports
 - Video Gaming
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8156/live/fe89adb0-b45d-11f1-b213-1db858c3e27c.jpg
+locations:
+- Glasgow
+- Scotland
+- South Korea
+people:
+- '## McInnes'
+- Benjamin] Nygren
+- Cal
+- Callum McGregor
+- Derek McInnes'
+- Hogh
+- James Forrest
+- Martin O'Neill
+- Martin O'Neill's
+- Mika] Baur
+- Naderi
+- Scott Brown
+- Sebastian Tounekti
+- Yang Hyun-jun
+organisations:
+- BBC Scotland
+- Celtic Park
+- Ferencvaros
+- Ibrox
+- Rangers
+- Sportsound
+- YouTube
 ---
 
 ![Celtic and Rangers players in a scuffle](https://ichef.bbci.co.uk/ace/standard/917/cpsprodpb/8156/live/fe89adb0-b45d-11f1-b213-1db858c3e27c.jpg)

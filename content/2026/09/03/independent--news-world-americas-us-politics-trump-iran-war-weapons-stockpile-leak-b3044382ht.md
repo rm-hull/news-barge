@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/03/10/8/36/U-S--Navys-Arleigh-Burke
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Beijing
+- China
+- Europe
+- Germany
+- Iran
+- Japan
+- Middle East
+- Soufan Center
+- South Korea
+- Taiwan Strait
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Pete Hegseth
+organisations:
+- Army
+- Camp David
+- PRC
+- Pentagon
+- Reuters
+- SCUM
+- The Wall Street Journal
+- Trump
+- Truth Social
 ---
 
 President Trump has denied persistent reports that the Iran war has dangerously depleted the U.S. weapons stockpile, blasting the media for what he claimed was false reporting on the state of the American arsenal.

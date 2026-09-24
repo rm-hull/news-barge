@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - Travel
 - Home, Garden & DIY
+locations:
+- Harrogate
+- High Birstwith
+- North Yorkshire
+people: []
+organisations:
+- Reynard Crag
+- Reynard Crag Holiday Park
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa4140a0d9d8b16ca0.jpg) 

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Crow’s Nest
+- Cwmbran
+- Gwent Coroner’s Court
+- PA
+- Robert Ormerod
+- South Wales
+people:
+- Caroline Saunders
+- Llanelli
+- Phillip Ormerod
+- Robert Ormerod
+organisations:
+- Gwent Police
+- Press Association
 ---
 
 A 102-year-old man with dementia who died after he was allegedly assaulted in a pub “deteriorated” after suffering a fractured hip, an inquest opening has heard.

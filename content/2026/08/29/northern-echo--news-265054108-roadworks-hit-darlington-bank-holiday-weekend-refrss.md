@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '## Auckland Avenue Construction'
+- '## Neasham Road'
+- A67 Coniscliffe Road
+- A68 West Auckland Road
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- Aycliffe
+- B6280 Coniscliffe Road
+- B6444 St Andrews Way
+- 'Bank Holiday ## Faverdale Construction'
+- Beamish Museum
+- Beechwood Avenue
+- Bracken Road
+- Brinkburn Road
+- Burma Road
+- Cockfield
+- Darlington
+- Edinburgh Drive
+- Hollyhurst Road
+- M
+- Neasham Road
+- Newcastle
+- Southend Avenue
+- St Alban’s Green
+- Teesdale Avenue
+- Winchester Way
+people: []
+organisations:
+- '## Beechwood Avenue Telecoms'
+- '## St Alban'
+- A68 Woodland Road Telecoms
+- Edinburgh Drive Gas
+- Teesside Airports
 ---
 
 *(Image: GOOGLE)*

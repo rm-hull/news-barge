@@ -11,6 +11,10 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- York
+people: []
+organisations: []
 ---
 
 Last week (27 August) Police issued an appeal to help find a 39-year-old from York.

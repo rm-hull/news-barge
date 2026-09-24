@@ -11,6 +11,27 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/The-Apple-Throwing-Championships-and-World-Jam-Festival-and-Awards-is-being-held-at-Newby-Hall-on-Sunday-27-September.-Pic-Helen-Tabor.webp
+locations:
+- Adam
+- Australia
+- Brazil
+- Europe
+- Newby Hall
+- Ripon
+- River Ure
+- UK
+- Workington
+people:
+- Andrew Pern
+- Lawrence Wright
+- Lucas Robinson
+- Newby
+- Stuart Gill
+- Yulin Luo
+organisations:
+- Harrogate Spa Town Ukes
+- Newby Hall
+- Northern Fruit Group
 ---
 
 Newby Hall is preparing to close its 2026 season – but not before ending with its popular Apple Day celebrations.

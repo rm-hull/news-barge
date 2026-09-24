@@ -14,6 +14,47 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- David R. Montgomery
+- Drake
+- Merritt Turetsky
+- Milky Way
+- US
+people:
+- Buckle
+- Carlo Rovelli
+- Darian Leader
+- David R. Montgomery
+- Frank Drake
+- Graham Farmelo
+- Hannah Fry
+- Harriet Rix
+- Helen Scales
+- James Webb
+- Jillian Scudder
+- Jim Al-Khalili
+- Joshua Howgego
+- Karmela Padavic-Callaghan
+- Kudos
+- Lily Fossett
+- Maggie Aderin
+- Merritt Turetsky
+- Patricia Nilsson
+- Sarah Wild
+- Sarah Wild Insider
+- Seven Rasmussen
+- Sherry Turkle
+- Simon Carnell
+- Stephen Ellcock
+- Stephen Hawking
+- Stephen Moss
+- Uta Frith
+- Xand van Tulleken
+organisations:
+- El Niño
+- JWST
+- James Webb Space Telescope
+- MIT
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI310654417.jpg?w=840)

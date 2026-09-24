@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- Jackdaw
+- London
+- North Sea
+- Rosebank
+- UK
+people:
+- Ami McCarthy
+- Andy Burnham
+- Dale Vince
+- Kemi Badenoch
+organisations:
+- Commons Energy Security and Net Zero Committee
+- Conservatives and Reform UK
+- Department for Energy Security And Net Zero
+- Department for Energy Security and Net Zero
+- Government
+- Greenpeace UK
+- Labour
+- Met Office
+- Reform UK
+- Rosebank
 ---
 
 Andy Burnham has asserted his firm intention to achieve net zero by 2050 while unveiling nearly £30 million in funding for community-led renewable energy schemes.

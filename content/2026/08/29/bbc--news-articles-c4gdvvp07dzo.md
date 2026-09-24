@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Asia
+- Cantoast
+- Hong Kong
+- London
+- Malaysia
+- Pophams
+- Thailand
+- UK
+people:
+- '![Cook'
+- Crystelle Pereira
+- Lisa Harris
+- Natalie TJ
+- Ollie Gold
+- Shokofeh Hejazi
+- Supreedha Iyer
+organisations:
+- Cook
+- Harris & Hayes
+- Snowflake
 ---
 
 ![Images of pastries](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/94b6/live/9e1644b0-a257-11f1-aed2-8d6da8d75094.jpg)

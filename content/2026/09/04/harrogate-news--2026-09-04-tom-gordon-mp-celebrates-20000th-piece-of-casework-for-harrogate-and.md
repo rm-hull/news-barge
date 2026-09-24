@@ -13,6 +13,20 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- Knaresborough
+- London
+- Westminster
+people:
+- Chris Howden
+- Tom Gordon
+organisations:
+- DVLA
+- Department for Work and Pensions
+- NHS
+- North Yorkshire Council
+- Parliament for Harrogate
 ---
 
 *Constituency office marks major milestone supporting local residents just over two years since the General Election.*

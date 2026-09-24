@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bahrain
+- Hormozgan
+- Hormuz
+- Iran
+- Kuhestak
+- Kuwait
+- Middle East
+- UAE
+- US
+people:
+- Ahmad Nafisi
+- Ali Mollahi
+- Amir-Ali Karimi
+- Donald Trump
+- Ebrahim Zolfaghari
+- Mohammad Baqer Ghalibaf
+- Mohammad Mollahi
+- Shields
+- Tim Hawkins
+- Trevor Ball
+organisations:
+- AI
+- Boeing
+- CCTV
+- Centcom
+- Fars
+- Iranian Revolutionary Guards Corps
+- Mehr News
+- Slam-Er
+- Standoff Land Attack Missile-Expanded Response
+- US Central Command
 ---
 
 Iran has accused the US of a “war crime” after a missile blast killed at least five people and injured 68 who were attending a wedding at a private home in a coastal city of southern Iran, as the fresh exchange of strikes prompted fears of a wider renewal of hostilities.

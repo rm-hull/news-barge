@@ -15,6 +15,45 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Arabian Peninsula
+- Bab el-Mandab
+- Bab el-Mandeb
+- Chatham House
+- East-West
+- France
+- Gaza
+- Gulf
+- Iran
+- Iraq
+- Middle East
+- Mocha
+- Perim Island
+- Red Sea
+- Riyadh
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- United States
+- Washington
+- Yemen
+people:
+- Donald Trump
+- Edmund Fitton-Brown
+- Fawaz Gerges
+- Lindsay Newman
+- Mohammed bin Salman
+organisations:
+- CNN
+- Foundation for Defense of Democracies
+- Hamas
+- Hezbollah
+- Reuters
+- The Independent
+- al-Mokha
 ---
 
 Yemen’s Houthi rebels have forced a lightning offensive to the Red Sea coast, assuming control over another vital waterway in the region and threatening to expand the frozen US-Israeli conflict with Iran to the east.

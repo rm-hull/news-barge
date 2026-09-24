@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- East Cleveland
+- England
+- Middlesbrough
+- South Bank
+- Thornaby East
+- Wales
+people:
+- Andy Burnham
+- Andy McDonald
+- Chris Philp
+- Luke Myer
+- Matt Storey
+- Matthew Blades
+- PC Blades
+- PC Clough
+- Shabana Mahmood
+- Tom Clough
+organisations:
+- A66
+- BBC Sounds
+- Cleveland Police
+- Commons
+- Labour Police and Crime Commissioner
+- Middlesbrough South
+- PCC
+- Volkswagen
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades, left, has stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

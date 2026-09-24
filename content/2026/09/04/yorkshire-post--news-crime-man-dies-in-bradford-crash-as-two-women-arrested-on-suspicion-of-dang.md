@@ -14,6 +14,13 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bradford
+- Killinghall Road
+people:
+- Paul Conroy
+organisations:
+- Major Collision Enquiry Team
 ---
 
 # Man dies in Bradford crash as two women arrested on suspicion of dangerous driving

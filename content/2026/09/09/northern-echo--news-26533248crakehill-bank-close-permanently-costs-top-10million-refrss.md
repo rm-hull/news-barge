@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- Crakehill Bank
+- DURHAM COUNTY
+- Darlington station
+- Hamsterley
+- North Yorkshire
+- Witton-le-Wear
+people:
+- Tim McGuinness
+organisations:
+- C31
+- Crakehill Bank
+- DURHAM COUNTY COUNCIL
+- Durham County Council
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

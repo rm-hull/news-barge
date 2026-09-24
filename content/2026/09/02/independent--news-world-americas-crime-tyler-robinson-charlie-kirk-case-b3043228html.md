@@ -13,6 +13,29 @@ categories:
 - UK
 - True Crime
 - Sports
+locations:
+- Provo
+- U.S.
+- Utah County
+people:
+- Chad Grunander
+- Charlie Kirk
+- Donald Trump
+- Erika Kirk
+- Francisco Kjolseth
+- Kathryn Kirk
+- Robert
+- Ryan McBride
+- Staci Visser
+- Tony Graf
+- Tyler James Robinson
+- Tyler Robinson
+organisations:
+- 4th District Court
+- REUTERS
+- Turning Point USA
+- Utah County Attorney's Office
+- Utah Valley University
 ---
 
 The murder case against Tyler Robinson, accused of killing Charlie Kirk last year is headed for trial.

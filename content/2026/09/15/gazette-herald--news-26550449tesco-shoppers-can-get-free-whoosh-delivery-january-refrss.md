@@ -14,6 +14,15 @@ categories:
 - York
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Francesca Jones
+organisations:
+- Anytime Delivery Saver
+- HMRC
+- Head of Whoosh
+- Tesco
 ---
 
 *(Image: Tesco)*

@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - History
+locations:
+- England
+- Hail
+- North Yorkshire
+- Scotland
+- Wales
+- York
+people: []
+organisations:
+- Met Office
 ---
 
 There is a warning to drivers in York and across North Yorkshire today (Sunday, August 30) as the Met Office has issued a yellow warning for heavy showers and thunderstorms.

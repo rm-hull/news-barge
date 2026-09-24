@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Washington
+people:
+- Chris Piehota
+- Daniel Brunner
+- Daniel Meyer
+- Eric Holder
+organisations:
+- '## Justice Department'
+- CIA
+- FBI
+- Justice Department
+- NSA
+- US Government
 ---
 
 The FBI is abandoning a strict hiring ban on job applicants who have engaged in sexual encounters with prostitutes, choosing instead to evaluate at least some past cases through a more holistic review, according to people familiar with the matter.

@@ -13,6 +13,18 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Apple Intelligence
+- Apple Watch
+- Apple Watches
+- Cycle Tracking
+- OS
+- Ultra 4
+- WWDC
+- Walkie-Talkie
+- Workout Buddy
 ---
 
 Apple has unveiled the Apple Watch Series 12 and Ultra 4 today during its September hardware event.

@@ -14,6 +14,47 @@ categories:
 - UK
 - Sports
 - Business & Entrepreneurship
+locations:
+- AmCham Myanmar
+- Bangkok
+- Burma
+- Cambodia
+- Malaysia
+- Naypyitaw
+- Phnom Penh
+- Thailand
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Adam Castillo
+- Amanda Castillo
+- Casey Barnett
+- Eric Tucker
+- Mickey Bergman
+- Munimul Islam
+- Myat Phyu The
+organisations:
+- AGS Myanmar
+- AP
+- AmCham Myanmar
+- American Chamber of Commerce
+- Burma Economic Forum
+- CamEd Business School
+- Global Reach
+- MAGA
+- MRTV
+- Marine Corps
+- Mercury LLC
+- Mercury Public Affairs
+- Misfit Technologies
+- Misfit Technologies’
+- Tatmadaw
+- The Associated Press
+- Trump Administration
+- U.S. Marine
+- Yangon International Airport
 ---
 
 Myanmar’s military-backed government has deported Adam Castillo, a U.S. businessman and former president of the American Chamber of Commerce in Myanmar, after three months in jail on what supporters say were trumped-up charges, state media reported Wednesday.

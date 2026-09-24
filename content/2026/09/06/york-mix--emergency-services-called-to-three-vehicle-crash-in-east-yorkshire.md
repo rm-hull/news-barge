@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Goole
+- Ilkeston Avenue
+people: []
+organisations:
+- Humberside Fire & Rescue Service
 ---
 
 Emergency services were called to a three-vehicle crash last night (Saturday).

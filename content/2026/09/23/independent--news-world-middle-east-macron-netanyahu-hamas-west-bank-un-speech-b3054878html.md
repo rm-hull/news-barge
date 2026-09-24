@@ -13,6 +13,31 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/08/WmOBrMnGlZa2.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- France
+- Gaza
+- Israel
+- Judea
+- New York
+- Palestine
+- Samaria
+- West Bank
+- White House
+people:
+- Anna Kelly
+- Benjamin Netanyahu
+- Emmanuel Macron
+- Gadi Eisenkot
+- Netanel Shukrun
+- Trump
+- Yashar
+organisations:
+- Hamas
+- Knesset
+- Macron
+- The Times of Israel
+- UN General Assembly
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -14,6 +14,18 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1NTEyMDE1LTlmZjktNGRjMC1hYTc5LTU0MmI1ODEzOTU4MDozMGQ5ODAwZC1kYjFlLTQwZmQtOGNkMS1iMWI3MDU5OTFhMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Fir Tree Farm
+- Holly Farm
+- Park Farm
+- UK
+people:
+- Rosie Salt-Crockford
+organisations:
+- CLA
+- Country Land and Business Association
+- Farm Business Tenancy
+- Park Farm Limited
 ---
 
 # How communication can help bridge the divide between farmers and landlords

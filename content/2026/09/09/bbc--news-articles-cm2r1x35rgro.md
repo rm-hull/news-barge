@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Duke and Duchess of Sussex
+- England
+- Everton
+- Liverpool
+- Norway
+- Oslo
+- UK
+people:
+- Alan Shearer
+- Alan Shearer.
+- Carl Frampton
+- Gabby Logan
+- Gary Speed
+- George
+- Harald
+- Harry Kane
+- Jake Mills
+- Jill Scott
+- Kelly Holmes
+- Mark Bullingham
+- Prince William
+organisations:
+- Chasing the Stigma
+- Eton College
+- Everton
+- Football Association
+- National Suicide Prevention Network
+- On Your Side
+- Premier League
+- Prince of Wales
+- Royal Foundation
+- Royal Watch
+- Sport
+- Team GB
 ---
 
 ![A composite image of Harry Kane, Prince William and Alan Shearer](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2843/live/401ec8f0-ac70-11f1-bc1f-3f186ca4140c.jpg)

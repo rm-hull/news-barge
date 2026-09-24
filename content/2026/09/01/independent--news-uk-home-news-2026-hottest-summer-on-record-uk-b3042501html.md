@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Africa
+- Australia
+- El Niño
+- England
+- Europe
+- Kew Gardens
+- Lincolnshire
+- North West
+- Northern Ireland
+- Pacific
+- Scotland
+- South
+- UK
+- Wales
+people:
+- Amy Doherty
+organisations:
+- Met Office
 ---
 
 The Met Office has confirmed the UK has provisionally experienced its hottest summer since records began nearly 150 years ago.

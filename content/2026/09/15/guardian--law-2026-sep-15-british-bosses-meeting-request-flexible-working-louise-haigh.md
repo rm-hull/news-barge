@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Brighton
+- Britain
+people:
+- Andy Burnham
+- Keir Starmer
+- Louise Haigh
+organisations:
+- P&O Ferries
+- TUC
 ---
 
 Company bosses will have to sit down with workers who request flexible working and justify their reasons for any refusals under new rights announced by Louise Haigh on Tuesday.

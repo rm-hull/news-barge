@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Chilime Hydropower
+- Kathmandu
+- Nepal
+- Nepal-China
+- Trishuli River
+people:
+- Indra Bahadur
+- Usha Khatri
+organisations:
+- National Disaster Risk Reduction and Management Authority
+- Tribhuvan University Teaching
 ---
 
 Rescuers in Nepal have recovered four bodies from the tunnel of a hydropower plant as search operations continued for those still missing three weeks after the devastating flash flood last month that killed hundreds and left thousands missing.

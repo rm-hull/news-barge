@@ -11,6 +11,28 @@ image: https://images.euronews.com/articles/stories/09/91/22/83/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Algeria
+- Canada
+- France
+- Morocco
+- Spain
+- Turkey
+- US
+- United States
+- Venezuela
+people:
+- '## Mehdi Hijaouy'
+- Hugo Carvajal
+- Jesús Alonso
+- José Luis Calama
+- Mehdi Hijaouy
+- Pedro Sánchez
+organisations:
+- ABC
+- Audiencia Nacional
+- Pegasus
+- The Objective
 ---
 
 ## Mehdi Hijaouy was reportedly forced into exile following a conflict with some of his intelligence colleagues in Morocco.

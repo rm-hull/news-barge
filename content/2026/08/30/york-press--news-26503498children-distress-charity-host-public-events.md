@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Distress
+- Hull
+- Kirkbymoorside
+- Romania
+- UK
+- Yorkshire
+people:
+- Tracy Russell
+organisations:
+- Distress
+- Kirkbymoorside
 ---
 
 *(Image: Freelancer)*

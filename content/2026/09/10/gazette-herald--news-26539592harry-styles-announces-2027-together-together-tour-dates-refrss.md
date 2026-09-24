@@ -13,6 +13,46 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- America
+- Amsterdam
+- Australia
+- Berlin
+- Brazil
+- Chicago
+- Croke Park
+- Dallas
+- Dublin
+- Europe
+- LA
+- London
+- Madison Square Garden
+- Madrid
+- Mexico City
+- New York City
+- Paris
+- Rome
+- UK
+- Wembley Stadium
+people:
+- Baby Rose
+- Doug Peters
+- Harry Styles
+- Harry Styles'
+- Liam Payne
+- Louis Tomlinson
+- Niall Horan
+- Zayn Malik
+organisations:
+- '## Harry Styles'
+- Amex Presale
+- Harry Styles' Wembley
+- ITV
+- Jet2
+- One Direction
+- PA Wire
+- Primark
+- Together
 ---
 
 *(Image: Doug Peters/PA Wire)*

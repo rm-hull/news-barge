@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- America
+- Manhattan
+- United States
+people:
+- F. Scott Fitzgerald
+- Gerald Howard
+- Gerald Nicosia
+- Herman Melville
+- Hillel Italie
+- Jack Kerouac
+- Joan Haverty
+- Moby-Dick
+- Sterling Lord
+- Zach Bryan
+organisations:
+- The Associated Press
+- Viking
 ---
 
 In the spring of 1951, the muse landed so hard in the caffeinated mind of Jack Kerouac that within three weeks he had hurried out a full-length, single-spaced manuscript — a draft for “On the Road” that he taped together into a scroll some 120 feet long.

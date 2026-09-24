@@ -13,6 +13,43 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Africa
+- Algeria
+- China
+- Dadong
+- Democratic Republic of Congo
+- Estonia
+- France
+- Georgia
+- Greenland
+- Latin America
+- Lithuania
+- Mercator
+- Moldova
+- New York
+- Paris
+- Rennes
+- Russia
+- Serbia
+- Shanxi
+- Sorbonne
+- South-East Asia
+- Togo
+- Ukraine
+- United States
+people:
+- Eckert
+- Grégory
+- Jean-Noël Barrot
+organisations:
+- African Union
+- Eckert IV
+- Euronews
+- Google Maps
+- Mercator
+- UN
+- United Nations General Assembly
 ---
 
 ## France is redrawing its world map: deeming the Mercator projection misleading, the foreign ministry will drop it in favour of a map that better reflects actual continental sizes, especially Africa.

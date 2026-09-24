@@ -14,6 +14,46 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Berkshire
+- Brandesburton
+- Crayke.
+- Dovecote Barns
+- England
+- Grand Barn
+- Hawes
+- Humble Bee Farm
+- Keighley
+- Kirkby Moorside
+- Monket Cottage
+- Newbury
+- Old Oxford
+- Pic
+- Ruston Parvaon Parva
+- Scarborough
+- Skirlaugh
+- Swallows Nest
+- The Durham Ox
+- The Post Barn
+- The Sands
+- Tony Johnson
+- Turnstone Cottage
+- Upwood Park
+- West End Farm
+- Whitby
+- Willow Pastures Country Park
+- York
+- Yorkshire
+people:
+- Andrew Stokes
+organisations:
+- Green View Cottage
+- Kepwick Apartment 3
+- ROSE
+- Recognition Of Service Excellence
+- The Cart Shed
+- VisitEngland
+- VisitEngland’s Quality Scheme
 ---
 
 # VisitEngland’s 2026 ROSE Awards: 11 Yorkshire hotels, B&Bs and holiday parks win hospitality award

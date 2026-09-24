@@ -13,6 +13,21 @@ categories:
 - York
 - History
 - Society & Culture
+locations:
+- Goodramgate
+- Pisa
+- Shambles
+- York
+people:
+- Harry Potter
+- Rowling
+- Shambles
+organisations:
+- Diagon Alley
+- Hogwarts
+- J.K
+- Leaning Tower
+- The Press
 ---
 
 ## Forget Pisa: York's own leaning landmark has been turning heads for centuries

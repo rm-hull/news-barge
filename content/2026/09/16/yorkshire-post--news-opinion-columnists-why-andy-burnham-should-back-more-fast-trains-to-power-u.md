@@ -19,6 +19,65 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Britain
+- Derby
+- Doncaster
+- East Coast Main Line
+- East Midlands Railway
+- Edinburgh
+- Grand Central
+- Grantham
+- Halifax
+- Hartlepool
+- Hull
+- King’s Cross
+- London Euston
+- London King’s Cross
+- London St Pancras
+- Makerfield
+- Manchester
+- Newcastle
+- Newton le Willows
+- North East
+- North-South
+- Pontefract
+- Rochdale
+- Salford
+- Selby
+- Sheffield
+- South Yorkshire
+- Sunderland
+- Tony Lodge
+- Wakefield
+- West Coast Main Line
+- Whitehall
+- York
+people:
+- Andy Burnham
+- Joe Giddens
+- Louise Haigh
+- Tony Blair
+- Tony Lodge
+organisations:
+- ARUP
+- Avanti
+- Centre for Policy Studies
+- Commons
+- EMR
+- East Midlands Railway
+- HS2
+- Hull Trains
+- LNER
+- LUMO
+- Labour
+- Rail
+- Rochdale
+- Salford MediaCity
+- Sheffield
+- Whitehall
+- Yorkshire
 ---
 
 # Why Andy Burnham should back more fast trains to power up the North - Tony Lodge

@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/zAhjHx3rycLfqgSSHFgosM-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California.
+- Oakland
+- Ronald V. Dellums Federal Building
+people:
+- Elon Musk
+- Joe Rogan
+- Keumars Afifi-Sabet
+organisations:
+- Elon Musk
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- QOTD
+- Tech Radar
+- TechRadar Pro
+- Tesla
 ---
 
 ![Elon Musk arrives to court at the Ronald V. Dellums Federal Building on April 30, 2026 in Oakland, California.](https://cdn.mos.cms.futurecdn.net/zAhjHx3rycLfqgSSHFgosM.jpg) 

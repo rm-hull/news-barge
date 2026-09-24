@@ -14,6 +14,37 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/13/AI_Safety_US_China_What_to_Know_69918.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- China
+- Iran
+- Tainan
+- Taiwan
+- U.S.
+- US
+- United States
+- Washington Xi
+- White House
+people:
+- Cai Qi
+- Chiao Fu-chun
+- Donald Trump
+- Maj.
+- Peng Liyuan
+- Wang Yi
+- Xi Jinping
+organisations:
+- AI
+- Communist Party
+- Congress
+- Defense Ministry
+- Joint Base Andrews
+- Politburo Standing Committee
+- Secret Service
+- Treasury Department
+- Trump
+- U.S. Secret Service
+- Xinhua
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

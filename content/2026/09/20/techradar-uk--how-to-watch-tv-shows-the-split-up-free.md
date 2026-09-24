@@ -10,6 +10,39 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/j7BcQJXPxanwKG9oXiwCt6-1920-80.jpg
+locations:
+- Australia
+- BBC
+- Blighty
+- Canada
+- Manchester
+- UK
+- US
+people:
+- Abi Morgan
+- Aria
+- Arian Nik
+- Aysha Kala
+- Danny Ashok
+- Dhruv
+- Jameela Jamil
+- Jane Horrocks
+- Lenny Henry
+- Maya
+- Neal
+- Nicola Walker
+- Ritu Arya
+- Sanjeev Bhaskar
+- Stephen Mangan
+- Tom Wardley
+organisations:
+- BBC iPlayer
+- Film Studies
+- Future Publishing
+- Kishan Law
+- TBC
+- TechRadar
+- University of South Wales
 ---
 
 ![Sanjeev Bhaskar as Dhruv, Ritu Arya as Aria, Aysha Kala as Maya and Arian Nik as Kav in The Split Up](https://cdn.mos.cms.futurecdn.net/j7BcQJXPxanwKG9oXiwCt6.jpg)

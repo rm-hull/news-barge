@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Bath
+- Blossom Street
+- Brayton
+- North Yorkshire
+- Queen Street
+- Queen Street Bridge
+- Vine Street
+- York Railway Station
+people:
+- Andy D'Agorne
+- Peter Rickaby
+- Ravilious
+organisations:
+- NRM
+- National Railway Museum
+- York Cycle Campaign
+- York Green Party
 ---
 
 ## Blocked cycle lane to York Railway Station called 'dangerous shambles'

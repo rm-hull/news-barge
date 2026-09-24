@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/20/2026-09-23T100028Z_1123825779_RC2PONAHOS66_RTRMADP_3_USA-TRUMP-MEDIA.JPG?trim=80,0,80,0&width=1200&height=800&crop=1200:800
+locations:
+- Dallas
+- Iran
+- U.S.
+- United States
+- United States of America
+- Washington, D.C.
+- White House
+people:
+- Boutrous Jr.
+- Cancer
+- Donald Trump
+- Jim Acosta
+- Theodore Boutrous Jr.
+- Timothy Kelly
+- Xi Jinping
+organisations:
+- ABC
+- CBS
+- CNN
+- Department of Justice
+- FAKE NEWS
+- FBI
+- Fake News
+- Fox News
+- Free Press
+- Joint Base Andrews
+- Justice Department
+- MS NOW
+- MSNOW
+- Media Outlets
+- NBC
+- National Security
+- Politico
+- Trump Administration
+- Truth Social
+- United States of America
+- White House Press Office
+- then-CNN
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

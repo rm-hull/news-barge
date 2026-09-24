@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- East Baton Rouge Parish
+- Georgia
+- LSU
+- Louisiana
+- Mississippi
+- Ole Miss
+- Utah
+people:
+- Blake Cotton
+- Chris Carr
+- Dae'Quan Wright
+- Greg Sankey
+- Lane Kiffin
+- Liz Murrill
+- Wade Rousse
+- William Jorden
+- Zxavian Harris
+organisations:
+- AP
+- Clemson
+- Cleveland Browns
+- Denver Broncos
+- LSU
+- NBA
+- NCAA
+- NFL
+- New Orleans Saints
+- Power Four
+- SEC
+- Southeastern Conference
 ---
 
 Southeastern Conference Commissioner Greg Sankey arrived early Thursday in a courtroom not far from LSU that is the focus of college football as several dozen athletes seek a ruling that could clear the way for them to play this fall — even after they turned pro.

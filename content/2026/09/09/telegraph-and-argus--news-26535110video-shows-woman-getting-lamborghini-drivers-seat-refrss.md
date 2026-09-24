@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- CPS
+- Calderdale
+- M62
+- Ripponden
+- Stott Hall Farm
+people:
+- Christopher Dunn
+- Humaira Batool
+- Mohammed Shaan Hussain
+- Richard Dawson
+organisations:
+- HMP Leeds
+- Lamborghini
+- Leeds Crown Court
+- SWNS
+- West Yorkshire Police
 ---
 
 *(Image: CPS / West Yorkshire Police / SWNS)*

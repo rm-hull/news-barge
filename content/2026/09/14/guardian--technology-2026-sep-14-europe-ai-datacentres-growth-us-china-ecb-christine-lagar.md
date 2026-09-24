@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Europe
+- France
+- Greenland
+- UK
+- US
+- Vienna
+people:
+- Christine Lagarde
+- Donald Trump
+organisations:
+- AI
+- ECB
+- EU
+- European Central Bank
+- Reuters
 ---
 
 Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank.

@@ -13,6 +13,67 @@ categories:
 - News & Politics
 - Travel
 - Music
+locations:
+- Aviva Stadium
+- California
+- Dublin
+- England.
+- Etihad Stadium
+- Europe
+- Glastonbury
+- Ireland
+- Manchester City
+- New York City
+- Oasis
+- Pasadena
+- Pilton
+- Somerset
+- Times Square
+- UK
+- US
+- Worthy Farm
+people:
+- Adele
+- Bad Bunny
+- Bruce Springsteen
+- Chappell Roan
+- Charli XCX
+- Eavis
+- Ed Sheeran
+- Emily Eavis.
+- Fred Again
+- Gallaghers
+- Harry Styles
+- Jimmy
+- Justin Bieber
+- Katie Razzall
+- Kendrick Lamar
+- Lady Gaga
+- Lewis Capaldi
+- Liam Gallagher
+- Little Simz
+- Madonna
+- Miley Cyrus
+- Neil Young
+- Noel Gallagher
+- Olivia Rodrigo
+- Raye
+- Rihanna
+- Robbie Williams
+- Rod Stewart
+- Sabrina Carpenter
+- Sam Fender
+- Taylor Swift
+organisations:
+- BBC Radio 4
+- Eminem
+- Florence
+- Glastonbury
+- Machine
+- Oasis
+- Pulp
+- Radiohead
+- The 1975
 ---
 
 ![Liam Gallagher of Oasis performs on the Pyramid Stage during the 2004 Glastonbury Festival held at Worthy Farm, in Pilton, Somerset on June 25, 2004 near Glastonbury, England.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d1cf/live/4db6f0f0-b34b-11f1-b1d1-571ed4d7ff2c.jpg)

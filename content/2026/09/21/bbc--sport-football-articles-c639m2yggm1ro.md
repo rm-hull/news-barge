@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg
+locations:
+- Caribbean
+- Central America
+- Europe
+- North America
+- US
+people:
+- Debbie Hewitt
+- Gianni Infantino
+organisations:
+- BBC Sport
+- Concacaf
+- FFE
+- Fifa Forward Enterprise
+- Football Association
+- Infantino
+- Uefa
 ---
 
 ![Head and shoulder view of Gianni Infantino looking to his right, as he wears dart jacket and tie and a white shirt](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg)

@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/835f1627017e829fbc658d42ccd4973731271e17/332_0_3315_2652/master/3315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25060deb9c2b3b6ae20d810f2e6a289c
+locations:
+- China
+- Denmark
+- Europe
+- Greenland
+- Gulf
+- Hormuz
+- Iran
+- Israel
+- Moscow
+- New York
+- Russia
+- Tehran
+- US
+- Ukraine
+- Venezuela
+people:
+- Delcy Rodríguez
+- Donald Trump
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+- Nicolás Maduro
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv
+- Nato
+- UN
 ---
 
 Donald Trump has called on nations to unite to isolate Tehran and bring down global energy prices, as he gave a bellicose defence of his administration’s foreign policy and decision to strike Iran.

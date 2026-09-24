@@ -12,6 +12,55 @@ image: https://cdn.mos.cms.futurecdn.net/uZZBTjJKjFMyKzXixhxs4V-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Virgin River
+people:
+- Aisha Rumors
+- Amir
+- Amra Mallassi
+- Bella
+- Benedetta Porcaroli
+- Benjamin Clementine
+- Bobby Glass
+- Daniel Ings
+- Eddie Horniman
+- Eddie and Stan
+- Freddy Horniman
+- Gabrielle
+- Geoff Seacombe
+- George Cooper Sr.
+- Giancarlo Esposito
+- Guy Ritchie
+- Harry Goodwins
+- Jack Glass
+- Jasmine Blackborow
+- Jimmy Chang
+- Joely Richardson
+- Kaya Scodelario
+- Lady Sabrina
+- Marco
+- Maya Jama
+- Meghan Markle
+- Michael Vu
+- Ray Winstone
+- Ruby Sear
+- Sergio Castellitto
+- Stanley Johnston
+- Susie Glass
+- Theo James
+- Vinnie Jones
+organisations:
+- Charly
+- Google News
+- Hallmark
+- Jasmine
+- Nanny
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- The Gentlemen
+- Yahoo!
 ---
 
 ![Theo James looks over his shoulder in a convertible](https://cdn.mos.cms.futurecdn.net/uZZBTjJKjFMyKzXixhxs4V.jpg) 

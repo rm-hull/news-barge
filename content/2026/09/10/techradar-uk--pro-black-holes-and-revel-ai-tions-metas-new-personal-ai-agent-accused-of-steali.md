@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/JdvwWrduZrJqhrqFkyodqB-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Ancient Greece
+- Britain
+- UK
+people:
+- Mark Zuckerberg
+- Mike Moore
+- Museband
+organisations:
+- American Threads
+- B2B
+- B2C
+- Engadget
+- Google News
+- ITProPortal
+- Meta Instagram
+- Muse
+- TechRadar Pro
+- The Independent
 ---
 
 ![Muse on stage](https://cdn.mos.cms.futurecdn.net/JdvwWrduZrJqhrqFkyodqB.jpg) 

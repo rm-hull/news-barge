@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people:
+- Donald Trump
+- Mike Johnson
+- Rosa DeLauro
+- Tom Cole
+organisations:
+- Border Patrol
+- Department of Homeland Security
+- House Appropriations Committee
+- Senate
+- Trump
 ---
 
 The House passed a short-term measure Tuesday to fund the federal government into early December, a move designed to avoid a chaotic shutdown as lawmakers campaign for reelection.

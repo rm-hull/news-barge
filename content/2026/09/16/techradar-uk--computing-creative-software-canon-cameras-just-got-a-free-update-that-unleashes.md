@@ -12,6 +12,19 @@ description: Canon has released Dual Pixel 3D software, which leverages 'depth a
 image: https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B.gif
 categories:
 - Technology & Software
+locations:
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- EOS R8 Mark II
+- Google News
+- TechRadar
+- YouTube
 ---
 
 ![Canon's Dual Pixel 3D software render of a stack of pancakes topped with blueberries, kiwi and syrup](https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B.gif)

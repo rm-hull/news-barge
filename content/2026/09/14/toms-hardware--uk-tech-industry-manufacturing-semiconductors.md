@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- HQ
+- Taiwan
+- Tokyo
+people: []
+organisations:
+- ASML
+- BelGaN ![](
+- Get Tom's Hardware
+- High-NA
+- Intel
+- Micron Building
+- Pacific Quartz
+- Premium Anjinomoto
+- SK Hynix Inc.
+- Samsung
+- TSMC
 ---
 
 ![Micron Building](https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh-320-80.jpg)

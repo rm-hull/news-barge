@@ -13,6 +13,21 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/9/53/Monae-Johnson.webp?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Pierre
+- South Dakota
+people:
+- Donald Trump
+- Heather Baxter
+- Jim Eschenbaum
+- Joe Biden
+- Monae Johnson
+- Terrence Davis
+organisations:
+- Congress
+- Postal Service
+- South Dakota Republican Party
+- South Dakota War College
 ---
 
 South Dakota’s Republican secretary of state has broken ranks with her party to endorse the Democratic candidate for the office, saying "the integrity, stability, and professionalism of this office is at stake."

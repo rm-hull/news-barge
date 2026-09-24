@@ -13,6 +13,13 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21070352.jpg?type=og-image
+locations:
+- East Yorkshire
+- Market Weighton
+people: []
+organisations:
+- Humberside Police
+- Newsquest
 ---
 
 *(Image: Newsquest)*

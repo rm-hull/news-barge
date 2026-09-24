@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Science
 - Education & Learning
+locations:
+- Bristol Temple Quarter
+- Clifton
+- Sloane Robinson
+- St Philip’s Marsh
+- TQEC
+- Temple Meads
+- Temple Meads’
+- UK
+- West of England
+people:
+- Andy Burnham
+- David Cameron
+- Helen Godwin
+- Hugh Sloane
+- Judith Squires
+- Martin Booth
+organisations:
+- Bristol Old Vic
+- Bristol Rooms
+- Bristol Royal Mail
+- Bristol Temple Meads
+- Bristol Temple Quarter
+- Bristol University
+- Guardian
+- Labour
+- Royal Mail
+- Sloane Robinson
+- Story Exchange
+- TQEC
+- Temple Quarter Enterprise Campus
+- University of Bristol
+- WECA
+- West of England Combined Authority
 ---
 
 Not so long ago, the first impression for visitors arriving by train to Bristol’s main railway station was a derelict building described by David Cameron as looking like the entrance to a war zone.

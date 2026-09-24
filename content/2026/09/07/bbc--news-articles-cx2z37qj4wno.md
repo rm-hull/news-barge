@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+- China.
+- Chongqing
+- Iran
+- US
+- West
+people:
+- Xi Jinping
+organisations:
+- Agricultural Bank of China
+- China Export & Credit Insurance Corporation
+- Global Times
+- ICBC
+- Industrial and Commercial Bank of China
+- Xinhua
 ---
 
 ![People sit and rest in front of a closed ICBC credit card service centre, shielding themselves from the sun with umbrellas, on 19 April, 2025 in Chongqing, China.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg)

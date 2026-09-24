@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- Enfield
+- London
+- Wood Green Crown Court
+people:
+- Alexander Agbamu
+- Andy Day
+- Darren Conway
+- John Dodd KC
+- Tracy Easton
+organisations:
+- CPS London South
+- Met Police
+- Metropolitan Police
 ---
 
 A man has pleaded guilty to encouraging another man to sexually assault the man’s sleeping wife as part of an online forum which shared abuse images.

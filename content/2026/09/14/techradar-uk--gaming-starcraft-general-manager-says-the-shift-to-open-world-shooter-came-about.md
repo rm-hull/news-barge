@@ -13,6 +13,21 @@ image: https://cdn.mos.cms.futurecdn.net/G5xUXWMDmH7tKyiwfURRr3-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Anaheim
+people:
+- Dan Hay
+- Holt
+- Rob
+organisations:
+- GamesRadar+
+- Google News
+- Hardware
+- StarCraft
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![A still from the StarCraft reveal teaser trailer showing the trooper Holt firing his weapon into oncoming enemies](https://cdn.mos.cms.futurecdn.net/G5xUXWMDmH7tKyiwfURRr3.jpg) 

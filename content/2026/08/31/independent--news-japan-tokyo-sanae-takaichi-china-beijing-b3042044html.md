@@ -16,6 +16,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+- Japan
+- U.S.
+- Ukraine
+people:
+- Sanae Takaichi
+organisations:
+- AI
+- Defense Ministry
+- Deterrence
+- IHI Corp
+- Kawasaki Heavy Industries
+- Mitsubishi Heavy Industries
 ---
 
 Japan plans to use drones, artificial intelligence and new methods of warfare as it adapts its defense strategies to suit changing times, according to details of an 8.9 trillion yen ($55.6 billion) budget request for the coming fiscal year disclosed by the Defense Ministry on Monday.

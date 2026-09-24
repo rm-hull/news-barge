@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+people:
+- Adam Harris
+- Dion Sanderson
+- Evans
+- Jordan Banks
+- Kevin Ley
+organisations:
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- Derby County
+- EcoJet Airlines
+- European Cargo
+- Facebook
+- House
+- InPost
+- Instagram
+- Kennedy News
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Quiz
+- Raleigh
+- S&W Partners
+- Superdrug
+- TG Jones
+- The Gazette
+- VV Season
+- Wayfairer Travel Limited
+- Whitbread
+- Yodel
+- Zenith Aviation Limited
 ---
 
 A men’s clothing brand popular with sports and music stars has gone into liquidation.

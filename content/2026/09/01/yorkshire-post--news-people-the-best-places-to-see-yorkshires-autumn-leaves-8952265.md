@@ -12,6 +12,34 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Adderside Rigg
+- Bolton Abbey
+- Bolton Abbey Estate
+- Bolton Priory
+- Bootham Bar
+- Castle Howard Arboretum
+- Dalby Forest
+- Fountains Abbey
+- Golden Acre Park
+- Lakeside
+- Leeds
+- North York Moors National Park
+- Ripon
+- River Skell
+- River Wharfe
+- Studley Royal Water Garden
+- West Bretton
+- Wildfowl Lake
+- York Minster
+- Yorkshire Sculpture Park
+people:
+- Bruce Rollinson
+- Strid Wood
+organisations:
+- Bolton Abbey Estate
+- Monk Bar
+- Yorkshire
 ---
 
 # The best places to see Yorkshire's autumn leaves

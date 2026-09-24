@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/18/02/PEN_America_3_977.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Atlantic
+- Gaza
+- Israel
+- U.S.
+- West Bank
+people:
+- Clarisse Rosaz Shariyf
+- Dinaw Mengestu
+- Phil Klay
+- Summer Lopez
+- Suzanne Nossel
+organisations:
+- Instagram
+- New York Times
+- PEN America
 ---
 
 Prize-winning author Phil Klay has been named the new president of PEN America, taking on the role as the literary and free expression organization continues to be torn by disagreements stemming from the Israel-Hamas war.

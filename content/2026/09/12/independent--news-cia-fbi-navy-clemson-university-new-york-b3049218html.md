@@ -14,6 +14,19 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- New York
+- South Carolina
+- U.S.
+people:
+- David J. Rush
+organisations:
+- CIA
+- Clemson University
+- FBI
+- Navy
+- Rensselaer Polytechnic Institute
+- U.S. Attorney's Office
 ---
 
 A former CIA official found with $40 million of gold bars in his home has reached a tentative plea agreement after being charged with theft for fraudulently inflating his salary, according to court records.

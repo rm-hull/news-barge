@@ -12,6 +12,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/11/21/iStock-1187134200-f062e0bb.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+- Forest of Dean
+- Gloucestershire
+- Herefordshire
+- River Wye
+- Royal Lodge Hotel
+- Symonds Yat East
+- Symonds Yat Rock
+- Symonds Yat West
+- Wye Rapids House
+- Wye Valley
+people: []
+organisations:
+- Christie & Co
+- Saracens Head Inn
+- Symonds Yat East
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

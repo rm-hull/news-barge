@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Iceland
+- John Willetts Fireplace
+- North East
+- Oxford Road
+- Spennymoor
+- Teesside
+people:
+- Dean Ranyard
+- Steve Coulthard
+organisations:
+- Festival Walk Shopping Precinct
+- Google Maps
+- Home Bargains
+- Lloyds Bank
+- Morrisons Daily
+- Post Office
+- Siesta Coffee
+- TJ Morris Limited
 ---
 
 A bigger and better Home Bargains store will open its doors in the North East this weekend following months of expansion work.

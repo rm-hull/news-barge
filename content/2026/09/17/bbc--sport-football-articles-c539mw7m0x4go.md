@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Bournemouth
+- Brazil
+- Dorset
+- Europe
+- San Sebastian
+- Vitality Stadium
+people:
+- Adam Smith
+- Alex Scott
+- Andoni Iraola
+- Charlie Daniels
+- Djordje Petrovic
+- Eddie Howe
+- Marco Rose
+- Mikel Oyarzabal
+- Rayan
+- Reginald Pickett
+organisations:
+- Anoeta Stadium.
+- Atletico Madrid
+- BBC Radio Solent
+- BBC Sounds
+- Cherries
+- Football League
+- Ipswich
+- Liverpool
+- Premier League
+- Real Sociedad
+- Smith Bournemouth
+- TNT Sports
 ---
 
 ![Adam Smith leads Bournemouth players celebrations after win at Real Sociedad](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/65dc/live/7e80fcf0-b2ea-11f1-999f-09ef8284f0de.jpg)

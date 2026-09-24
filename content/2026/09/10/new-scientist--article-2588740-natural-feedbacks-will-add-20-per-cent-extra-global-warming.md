@@ -11,6 +11,27 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311669823.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Bordeaux
+- Cotignac
+- Europe
+- France
+- Madrid
+- Massachusetts
+- Nepal
+- Norway
+- Pacific Ocean
+- Paris
+- Spain
+- Tibet
+- UK
+people:
+- Christina Schädel
+- Tim Lenton
+organisations:
+- UN
+- University of Exeter
+- Woodwell Climate Research Center
 ---
 
 ![Wetlands in northern Norway](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311669823.jpg?w=840)

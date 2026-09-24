@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21458051.jpg?type=og-image
+locations:
+- Betsy's Boat
+- County Durham
+- Crook
+- Holywood Bishop Auckland
+- North Pennines
+- Northumberland
+- The Dairy Barge
+- UK
+- Weardale
+people: []
+organisations:
+- Betsy's Barge
+- Betsy's Boat
 ---
 
 A converted boat offers a one-of-a-kind escape in the heart of County Durham.

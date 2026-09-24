@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley Minster
+- Butt Farm
+- East Riding
+- East Yorkshire
+- Lairgate
+- Molescroft
+- Syntan
+people:
+- Beverley
+- Nick Coultish
+organisations:
+- Beverley Civic Society
+- Beverley Friary
+- Beverley Savings Bank
+- East Riding of Yorkshire Council
+- Norwood House
+- Priest’s Room
+- St Mary’s
 ---
 
 *(Image: East Riding of Yorkshire Council)*

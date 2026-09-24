@@ -12,6 +12,20 @@ image: https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/3
 categories:
 - UK
 - News & Politics
+locations:
+- Gaza
+- Israel
+- West Bank
+people:
+- Itamar Ben-Gvir
+- Miki Zohar
+- Rachel Szor
+- Yuval Abraham
+organisations:
+- Agence France-Presse
+- Guardian
+- Hamas
+- NAZA
 ---
 
 Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA, a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”.

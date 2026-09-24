@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- High Street
+- North
+- Stockton Waterfront
+- Teesside
+people:
+- Claire Meek
+- Cllr Evans
+- Jimmy Beck
+- John Walker
+- Lisa Evans
+- Mike McGrother
+- Stockton
+- Stuart Boulton
+organisations:
+- Citizen Space
+- Family Action
+- KU Bar
+- KU Promotions
+- Stockton Borough Council
+- Stockton Borough Council Town of Culture
+- Stockton Community Collective
+- Stockton Council
+- Stockton-on-Tees Borough Council
+- Sun Inn
+- Teesside
+- The Beatles
+- The Rolling Stones
+- Town of Culture
+- UK Town of Culture
 ---
 
 A campaign to showcase the very best of Teesside is under way, with residents urged to back a bid that could secure a historic Town of Culture title.

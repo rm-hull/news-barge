@@ -11,6 +11,57 @@ image: https://cdn.mos.cms.futurecdn.net/FfrYDbGEjd6cXYUpAcLrR4-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Amazon
+- Australia
+- Canada
+- Chicago
+- Scottish Highlands
+- U.K.
+- UK
+- US
+- USA
+people:
+- Brian Fraser
+- Brian McCardie
+- Castle Leoch
+- Colum MacKenzie
+- Conor MacNeill
+- Davina Porter
+- Dougal MacKenzie
+- Ellen MacKenzie
+- Harriet Slater
+- Henry Beauchamp
+- Hermione Corfield
+- Isaac Grant
+- Jamie Roy
+- Jeremy Irvine
+- Julia Moriston
+- Krishi
+- Lord Lovat
+- Matthew B. Roberts
+- Murtagh Fitzgibbons Fraser
+- Ned Gowan
+- Rory Alexander
+- Sam Retford
+- Sara Vickers
+- Simon Fraser
+- Séamus McLean Ross
+- Tony Curran
+organisations:
+- Fubo**,** Hulu
+- Future Publishing
+- Krishi
+- MGM
+- NordVPN**
+- STARZ
+- STARZ**
+- Sling TV
+- Starz
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
 ---
 
 ![Outlander: Blood of My Blood season 2](https://cdn.mos.cms.futurecdn.net/FfrYDbGEjd6cXYUpAcLrR4.jpg) 

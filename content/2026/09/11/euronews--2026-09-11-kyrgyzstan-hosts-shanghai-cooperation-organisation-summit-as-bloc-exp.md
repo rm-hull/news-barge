@@ -12,6 +12,21 @@ categories:
 - Europe
 - News & Politics
 - Careers & Productivity
+locations:
+- Bishkek
+- China
+- India
+- Kyrgyzstan
+- Pakistan
+- Russia
+people:
+- António Guterres
+- Sadyr Japarov
+organisations:
+- Council of Heads of State
+- SCO
+- Shanghai Cooperation Organisation
+- United Nations
 ---
 
 ## World leaders gathered in Bishkek for the Shanghai Cooperation Organisation’s 25th anniversary summit, as Kyrgyzstan concluded its year as chair.

@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A66
+- Middlesbrough
+- Teesside Crematorium
+- Teesside Magistrates’ Court
+- UK
+people:
+- Cole Worthy
+- Gye Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Michael Robert Cahill
+- Mr Worthy
+- Pc Matthew Blades
+- Theo Rae
+organisations:
+- Cleveland Police
+- Teesside Crematorium
+- Teesside Magistrates’ Court
 ---
 
 A 39-year-old man has been charged with assault after disorder broke out at a funeral held for one of the young men killed in a head-on collision with police on the A66.

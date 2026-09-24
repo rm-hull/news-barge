@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Asheville
+- Britain
+- Iran
+- Middle East
+- North Carolina
+- UK
+people:
+- Francois-Philippe Champagne
+- John Healey
+- Keir Starmer
+- Kristalina Georgieva
+- Mark Carney
+- Rachel Reeves
+- Scott Bessent
+organisations:
+- Budget
+- Cabinet
+- G7
+- International Monetary Fund
+- National Institute of Economic and Social Research
+- Nato
+- Niesr
+- ONS
+- Office for National Statistics
+- US Treasury
 ---
 
 The UK’s new Chancellor called on his international counterparts to “step up” co-operation in response to a “number of challenges” including the Middle East crisis, energy prices, cost of living and growth, as he arrived at his first G20 summit.

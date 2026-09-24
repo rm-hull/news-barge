@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/09/01/10/12/Screenshot-2026-09-01-a
 categories:
 - News & Politics
 - UK
+locations:
+- Cameron Parish Line
+- Chambers County
+- Gulf Coast
+- Harris County
+- High Island
+- Houston
+- Port Arthur
+- Southwest Louisiana
+- Space City
+- Texas Gulf Coast
+- Upper Texas
+- Vermilion
+people:
+- Greg Abbott
+- Keith Stephens
+- Pablo Vegas
+organisations:
+- AccuWeather
+- Electric Reliability Council of Texas
+- Houston’s CenterPoint Energy
+- NHC
+- NWS
+- National Hurricane Center
 ---
 
 Texas and Louisiana are bracing for Tropical Storm Edouard, which is expected to make landfall Tuesday.

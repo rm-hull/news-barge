@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Society & Culture
 - Personal Finance & Investing
+locations:
+- Florida
+- Miami
+- Romania
+- UK
+- US
+people:
+- Andrew Tate
+- Lauren Louis
+- Ron DeSantis
+- Tates
+- Tates'
+- Tristan Tate
+organisations:
+- BBC
+- CBS News
+- CPS
+- Crown Prosecution Service
+- Tates
 ---
 
 ![Andrew and Tristan Tate in court in Miami, Florida, on 27 August 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f6e5/live/c21b78e0-a25b-11f1-b109-879e35c24276.jpg)

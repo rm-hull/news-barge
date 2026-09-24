@@ -12,6 +12,19 @@ description: Rebellion has revealed the influences behind Alien Deathstorm and e
 image: https://cdn.mos.cms.futurecdn.net/aC7yPqg6rBmEF8mGEXa2RM-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Ben Fisher
+- Martin Willingham
+organisations:
+- Alien Deathstorm
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![Alien Deathstorm](https://cdn.mos.cms.futurecdn.net/aC7yPqg6rBmEF8mGEXa2RM.jpg) 

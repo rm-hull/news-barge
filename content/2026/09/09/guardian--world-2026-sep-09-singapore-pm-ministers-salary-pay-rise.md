@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Singapore
+- UK
+- US
+people:
+- Lawrence Wong
+organisations:
+- G7
+- People’s Action Party
 ---
 
 Singapore’s prime minister has been given a $1m pay rise as the affluent city-state announced a dramatic one-off salary boost for government ministers.

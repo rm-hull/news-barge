@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Austria
+- Italy
+- Linate
+- Milan
+- Monza
+people:
+- Charles Leclerc
+organisations:
+- F1
+- Ferrari
 ---
 
 ![Ferrari's Charles Leclerc arrives at the Monza paddock on media day for the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7f73/live/7737f280-a77a-11f1-b109-879e35c24276.jpg)

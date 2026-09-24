@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21483604.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Bishop Auckland Bus Station
+- County Durham
+- Saddler Street
+people:
+- Rachael Smith
+organisations:
+- Durham County Council
+- Future High Streets Fund
 ---
 
 A pothole has appeared at Bishop Auckland's new £11.8m bus station just months after it opened.

@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Denmark
+- Finland
+- Greenland
+- Rovaniemi
+- Russia
+- Santa Claus
+- Strait of Hormuz
+- Svalbard
+- U.S.
+- Ukraine
+- United States
+people:
+- Donald Trump
+- Friedrich Merz
+- Mette Frederiksen
+- Petteri Orpo
+- Ursula von der Leyen
+- Vladimir Putin
+organisations:
+- Centres for European Policy Network
+- EU
+- European Commission
+- European Union
 ---
 
 European leaders were meeting Monday to discuss growing competition in the Arctic, where global warming is opening new shipping routes, governments are vying for vast natural resources and a Russian military buildup is heightening security concerns.

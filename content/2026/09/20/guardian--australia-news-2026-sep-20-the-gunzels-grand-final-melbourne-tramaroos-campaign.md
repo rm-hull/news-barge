@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/688df0bf5ed39191fbabec57919e60e5035cfdb3/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d3d09fc72d930a064e17a445e60c016
+locations:
+- Adelaide
+- Australia
+- Canberra
+- Czech Republic
+- Gold Coast
+- Kew
+- London
+- Melbourne
+- Prague
+- Southbank
+- Sydney
+- Warsaw
+people:
+- Claudia Barrientos
+- Daniel Bowen
+- Ivan Cavanagh
+- Tramaroos
+- Vendula Tmejová
+- Zdeněk Rychtář
+organisations:
+- Odense
+- Public Transport Users Association
+- Yarra Trams
 ---
 
 It’s the grand final for gunzels. But despite having one of the largest tram networks in the world, Melbourne’s Tramaroos finished second last at this year’s European TramDriver Championship, just ahead of London.

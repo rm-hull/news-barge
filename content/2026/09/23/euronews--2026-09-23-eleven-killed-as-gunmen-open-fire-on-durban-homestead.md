@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/41/51/1200x675_cmsv2_257b2587-7137-53c9-9119-bafab0690090-9924151.jpg
+locations:
+- Durban
+- KwaZulu-Natal
+- South Africa
+people:
+- Cyril Ramaphosa
+- Thamsanqa Ntuli
+organisations:
+- AFP
+- eNCA
 ---
 
 ## The attackers forced the victims into a single room before opening fire, leaving only two survivors and a community in shock.

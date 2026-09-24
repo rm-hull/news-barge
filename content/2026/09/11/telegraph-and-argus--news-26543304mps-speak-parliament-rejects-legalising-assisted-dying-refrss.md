@@ -14,6 +14,46 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford East
+- Canterbury
+- England
+- PA
+- Switzerland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Anna Dixon
+- Bill Batley
+- Imran Hussain
+- Keighley
+- Kim Leadbeater
+- Lauren Edwards
+- Leadbetter
+- Marie Curie
+- Ms Edwards
+- Naz Shah
+- Richard Moth
+- Robbie Moore
+- Sarah Mullally
+- Shipley
+organisations:
+- '##'
+- Bill
+- Bradford West
+- Catholic Church
+- End of Life
+- Government
+- Hospice UK
+- House of Commons
+- Ilkley
+- Lords
+- NHS
+- Royal College of Psychiatrists
+- Spen Labour
+- St Christopher’s Hospice
+- Terminally Ill Adults
 ---
 
 *(Image: PA)*

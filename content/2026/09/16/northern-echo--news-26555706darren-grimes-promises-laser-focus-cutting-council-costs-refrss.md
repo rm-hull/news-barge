@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Salvus House
+people:
+- Cllr Grimes
+- Darren Grimes
+- Stuart Boulton
+organisations:
+- County Durham
+- Durham County Council
+- Former Reform
+- NORTHERN ECHO
+- Reform UK
 ---
 
 *(Image: NORTHERN ECHO)*

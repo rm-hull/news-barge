@@ -14,6 +14,27 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/22/Dengue_46_89.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Hillsborough County
+- Key West
+- Puerto Rico
+- Tampa
+- Texas-Mexico
+- U.S.
+- United States
+people:
+- Chris Wilkerson
+- Michael von Fricken
+- Paolo Pecora
+organisations:
+- AP Fund for Journalism
+- Centers for Disease Control and Prevention
+- Florida Department of Health
+- Hillsborough County Mosquito Management Services
+- Tampa Bay Times
+- University of Florida
+- World Health Organization
 ---
 
 Florida is experiencing one of its worst surges of dengue fever in decades, and the toll now includes a death.

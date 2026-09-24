@@ -12,6 +12,50 @@ image: https://static.independent.co.uk/2026/09/11/13/Poland_Tusk_47318.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Belarus
+- Bratislava
+- Danube River
+- England
+- Estonia
+- Europe
+- Giurgiulesti
+- Hungary
+- Ireland
+- Kyiv
+- Latvia
+- Leamington Spa
+- Lithuania
+- Mirnoe
+- Moldova
+- Moscow
+- Poland
+- Romania
+- Russia
+- Slovakia
+- Starokozache
+- U.S.
+- Ukraine
+- Virginia
+- Vulcanesti
+- Warsaw
+people:
+- Donald Trump
+- Donald Tusk
+- Jim Ratcliffe
+- Maia Sandu
+- Thomas DiNanno
+- Tomasz Siemoniak
+- Volodymyr Zelenskyy
+- William Cappelletti Jr.
+- ——— McGrath
+organisations:
+- CIA
+- Department of Defense
+- Department of State
+- European Union
+- NATO
+- Shahed
 ---
 
 Two incidents along Ukraine's borders with Poland and Moldova this week are a preview of potential intensified Russian provocations at Ukraine's border crossing points with Europe, Polish Prime Minister Donald Tusk said.

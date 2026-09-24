@@ -13,6 +13,26 @@ categories:
 - Society & Culture
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/16/2296045439..?trim=183,1562,1712,1281&width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Iran
+- Islamic Republic
+- Israel
+- Minab
+- New York
+- U.S.
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Yoav Gallant
+organisations:
+- General Assembly
+- Hamas
+- ICC
+- International Criminal Court
+- UN
+- United Nations General Assembly
+- Wall Street Journal
 ---
 
 President Donald Trump has called the International Criminal Court an “evil group of people” and has called on all of its members to resign.

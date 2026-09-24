@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Downtown Minneapolis
+- Loring Park
+- Minnesota
+people:
+- Anthony Strong
+- Garrett Parten
+- Jacob Frey
+- Kash Patel
+- Lisa Demuth
+- Tim Walz
+organisations:
+- Bureau of Alcohol, Tobacco, Firearms and Explosives
+- FBI
+- Minnesota House
+- Minnesota Star Tribune
+- Minnesota State Patrol
 ---
 
 Two people were killed and six wounded, including three police officers, in a shooting in a downtown Minneapolis apartment building.

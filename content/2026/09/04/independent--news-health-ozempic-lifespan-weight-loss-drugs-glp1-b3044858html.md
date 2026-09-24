@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berkeley
+people:
+- Danica Chen
+- Rafael de Cabo
+organisations:
+- Eli Lilly
+- Food and Drug Administration
+- National Institute on Aging
+- University of California
 ---
 
 Weight loss drugs, already taken by millions of Americans, may help people live longer, according to a new study on mice.

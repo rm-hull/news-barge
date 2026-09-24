@@ -16,6 +16,12 @@ categories:
 - York
 - Education & Learning
 - Family & Parenting
+locations: []
+people:
+- David Jones
+- Ismail Mulla
+organisations:
+- PA Wire
 ---
 
 # What parental attitudes towards school uniforms tell us about how they view education - Ismail Mulla

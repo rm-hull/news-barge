@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Headingley
+- Yorkshire
+people:
+- Charlie Parry
+- Daniel Matson
+organisations:
+- Chasing Glory
+- PA)* YORKSHIRE County Cricket Club
+- UrbanChain
+- Yorkshire County Cricket Club
 ---
 
 *(Image: PA)*

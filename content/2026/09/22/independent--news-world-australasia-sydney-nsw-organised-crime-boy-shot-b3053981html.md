@@ -13,6 +13,21 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/07/13/10/2232549604..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Blacktown Local Court
+- Hills District
+- New South Wales
+- Norwest
+- Riverstone
+- Sydney
+people:
+- Chris Minns
+- Isaac Bechara
+- Naomi Moore
+organisations:
+- Australian Broadcasting Corporation
+- NSW Police
 ---
 
 An 18-year-old man has been charged after an 11-year-old boy was shot in the face and neck in Sydney, Australia.

@@ -12,6 +12,28 @@ image: https://images.euronews.com/articles/stories/09/90/14/00/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Brussels
+- Danube
+- Europe
+- Hungary
+- Madrid
+- Rhine
+- Romania
+- Spain
+people:
+- Sara Aagesen
+- Wopke Hoekstra
+organisations:
+- Climate Action
+- EU Irish Presidency
+- Ecological Transition
+- Euronews
+- European Climate Adaptation Fund
+- European Commission
+- European Competitiveness Fund
+- European Council
+- European Parliament
 ---
 
 ## Spain wants Brussels to make climate resilience a binding, funded EU policy and is willing to consider new EU-level charges – including on oil and gas profits – to fund it.

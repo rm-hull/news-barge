@@ -13,6 +13,11 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/20996660.jpg?type=og-image
+locations:
+- Ryedale
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: WYP)*

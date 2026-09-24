@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20579609.jpg?type=og-image&xType=0&yType=277
+locations:
+- Bradford
+- England
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+- Ciara Bergman
+organisations:
+- Bradford Crown Court
+- Courts and Tribunals Bill
+- Crown Court
+- Newsquest
+- Rape Crisis England & Wales
+- Rape Justice Taskforce
 ---
 
 *(Image: Newsquest)*

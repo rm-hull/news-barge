@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- BBC
+- London
+- US
+people:
+- Antonia
+- Cobra Kai
+- Dianne Wiest
+- Gillian Owens
+- Joey King
+- Kylie
+- Kylie. She
+- Lee Pace
+- Maisie Williams
+- Nicole Kidman
+- Sally
+- Sandra Bullock
+- Solly McLeod
+- Stockard Channing
+- Xolo Maridueña
+organisations:
+- BBC Newsbeat
+- Guardian
+- Guardians of the Galaxy
+- House of the Dragon
+- Kissing Booth
+- The Hollywood Reporter
 ---
 
 ![Joey King and Maisie Williams attend the Practical Magic 2 European Premiere in London. Joey wears a cream dress with a lace overlay and flower details and her red hair is worn down in waves. Maisie wears a red dress and her brunette hair in an updo.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/bcdf/live/d9d20260-ac56-11f1-9e64-05835b0b18f8.jpg)

@@ -14,6 +14,22 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+- Wilberfoss
+- Willow Farm
+- York
+people:
+- Jonathan Cooper
+- Sam
+organisations:
+- Coopers Marquees
+- Fence Hire
+- MARQUEE
+- MUTA
+- Mobaloo
+- The Orangery’
+- Yorkshire Furniture & Events
 ---
 
 *(Image: Supplied)*

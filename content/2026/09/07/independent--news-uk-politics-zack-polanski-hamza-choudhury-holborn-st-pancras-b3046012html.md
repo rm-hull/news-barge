@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Covent Garden
+- Gaza
+- Holborn
+- Israel
+- London Borough of Camden
+- St Pancras
+people:
+- Andrew Feinstein
+- Andy Burnham
+- Frank Dobson
+- Green
+- Hamza Chowdhury
+- Keir Starmer
+- Zack Polanski
+organisations:
+- '![Green Party'
+- Camden New Journal
+- Green Party
+- Greens
+- Hamas
+- Holborn
+- Labour
+- Liberal Democrats
+- Reform
 ---
 
 Green Party leader Zack Polanski will face an internal challenge to become his party’s candidate in the by-election caused by Sir Keir Starmer leaving Parliament.

@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Admiral Taverns
+- Apperley Bridge
+- Grade II
+- Knaresborough
+- Low Bridge
+- Mother Shipton Inn
+people:
+- Matthew Chapman
+- Mother Shipton
+- Ursula Sontheil
+organisations:
+- Admiral Taverns
+- Mother Shipton Inn
+- The Stansfield Arms
+- Yorkshire
 ---
 
 # True community Knaresborough pub opens up again under new ownership

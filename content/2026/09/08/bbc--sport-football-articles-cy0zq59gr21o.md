@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- City
+- Morocco
+- Portugal
+people:
+- Ayyoub Bouaddi
+- Enzo Maresca
+- Erling Haaland
+- Pat Nevin
+- Rodri
+organisations:
+- BBC Radio 5 Live
+- BBC Sport
+- Chelsea
+- Coventry
+- Lille
+- Manchester City
+- Porto
+- Real Madrid
+- Scotland
 ---
 
 ![Ayyoub Bouaddi](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/74ba/live/5401f370-abcf-11f1-897e-d7c2bae07186.jpg)

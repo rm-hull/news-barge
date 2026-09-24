@@ -15,6 +15,53 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Abbey Road
+- Almscliffe Crag
+- Barnsley
+- Boston Spa
+- Cold Bath Road
+- Cornwall
+- Doncaster
+- England
+- Half Moon
+- Harewood House
+- Harrogate
+- High Street
+- Knaresborough
+- Leeds
+- Minster
+- Nidd Gorge
+- North Rigton
+- Pranzo
+- Ripley
+- Scarcroft
+- Weetons
+- Wembley
+- West Park
+- Wetherby
+- York
+- Yorkshire
+people:
+- Amanda
+- Joe Root
+- Jonny Bairstow
+- Nigel Martyn
+- Sean Bean
+- Sharpe
+organisations:
+- Bristol Rovers
+- Da Carlo
+- Duke of Wellington
+- Hull KR
+- LUTV
+- Leeds Rhinos
+- Leeds United
+- Roman Walls
+- Scarcroft CC
+- Sheffield United
+- Vikings
+- Yorkshire
 ---
 
 # 'Took the mickey' - Former Leeds United goalkeeper Nigel Martyn on the Yorkshire legend who scored a hat trick against him

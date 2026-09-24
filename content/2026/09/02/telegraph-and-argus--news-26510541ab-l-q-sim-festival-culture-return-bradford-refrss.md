@@ -12,6 +12,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Emm Lane
+- Mustafa Mount
+people:
+- Muhammad
+- Mustafa Mount
+- Souq Uthman
+organisations:
+- Greensville Trust
+- University of Bradford School of Management
 ---
 
 A festival celebrating Islamic heritage and culture is returning to Bradford.

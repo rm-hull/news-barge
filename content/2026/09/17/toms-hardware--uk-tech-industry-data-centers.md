@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Argentina
+- California
+- China
+- Denver Water
+- El Reno
+- Iran
+- New York
+- Oklahoma
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+- Virginia
+people: []
+organisations:
+- Amazon
+- Bitcoin
+- Get Tom's Hardware
 ---
 
 ![a data center in Virginia](https://cdn.mos.cms.futurecdn.net/qdpwyk7M9YSzwdiLj4qhtZ-320-80.png)

@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Manchester Airport
+- Middlesbrough
+- North Yorkshire
+- Northallerton
+- Redcar Central
+- Saltburn
+- Thirsk
+- York
+people:
+- Kevin Glenton
+organisations:
+- National Rail
+- Northern
+- TransPennine Express
 ---
 
 *(Image: Kevin Glenton)*

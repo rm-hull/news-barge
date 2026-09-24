@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Bishopthorpe Road
+- York Racecourse
+people:
+- Ben Williams
+- Ernest Wilson
+- Jack Wheatley
+- Matt Leivers
+organisations:
+- '**Old Liquor Store**'
+- The Chocolate Works
+- The Old Liquor Store
+- Yorkshire Oompah
 ---
 
 A well-known York restaurant is up for sale.

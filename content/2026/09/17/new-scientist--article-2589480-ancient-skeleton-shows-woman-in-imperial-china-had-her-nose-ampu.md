@@ -13,6 +13,24 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Central Asia
+- China
+- Henan
+- Issyk-Kul Lake
+- Kyrgyzstan
+people:
+- David Shaye
+- Fei Yan
+- Kublai Khan
+- Qian Wang
+- Yawei Zhou
+organisations:
+- CT
+- Harvard University
+- Sanmenxia Institute of Cultural Relics and Archaeology
+- Texas A&M University
+- Zhengzhou University
 ---
 
 ![Skull showing nasal amputation](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426152.jpg?w=840)

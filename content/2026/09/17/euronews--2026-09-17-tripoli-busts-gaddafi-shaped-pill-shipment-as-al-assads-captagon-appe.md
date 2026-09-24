@@ -14,6 +14,37 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Benghazi
+- Europe
+- Latakia
+- Lebanon
+- Libya
+- Middle Eastern
+- Qalamoun Mountains
+- Syria
+- Tripoli
+- UK
+- US
+people:
+- Ahmed al-Sharaa
+- Bashar al-Assad
+- Maher
+- Marshal Khalifa Haftar
+- Muammar Gaddafi
+- Rada
+organisations:
+- Criminal Investigation Agency
+- Deterrence Apparatus for Combating Terrorism and Organised Crime
+- Hezbollah
+- LANA
+- LNA
+- NATO
+- New Lines Institute
+- Renault Master
+- UN
+- UNODC
+- United Nations
 ---
 
 ## Tripoli intercepted 100,000 tablets bearing the late Libyan leader's image shipped via Europe in a Renault Master van, while Benghazi's investigators separately seized captagon tablets assessed to have originated in Syria, where the al-Assad regime once industrialised the billion-dollar trade.

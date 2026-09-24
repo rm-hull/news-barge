@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Settle
+- Skipton
+people:
+- James Herriot-style
+- Peter O'Hagan
+organisations:
+- Acorn Business Park
+- BD23 2UE
+- Bentham Pet Rescue
+- Cave Rescue Organisation
+- Dale Head Veterinary Group
+- Enterprise Way
+- Friends of Sled Dog Rescue
+- Skipton
+- Telegraph & Argus
+- Unit 2
 ---
 
 A long-established independent veterinary group has expanded into Skipton with the opening of a new practice at Acorn Business Park.

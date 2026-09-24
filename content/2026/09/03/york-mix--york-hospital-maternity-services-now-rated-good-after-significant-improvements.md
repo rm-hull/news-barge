@@ -12,6 +12,18 @@ categories:
 - York
 - Health & Fitness
 - Family & Parenting
+locations:
+- Scarborough Hospital
+- York Hospital
+people:
+- Joe Hague
+organisations:
+- CQC
+- Care Quality Commission
+- Maternity and Neonatal Voices Partnership
+- Sascha Wells-Munro**
+- Scarborough Teaching Hospitals NHS Foundation Trust
+- York
 ---
 
 Maternity services at York and Scarborough hospitals have been rated ‘good’ by the Care Quality Commission (CQC) following inspections which found significant improvements in the care provided to women and babies.

@@ -13,6 +13,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/46cb4ac53a5a6af1a1880354059399e501a65197/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5923e467476f60617a156a668ef89ef
+locations:
+- Australia
+people:
+- Choice
+organisations:
+- Aldi
+- Choice
+- Coles
+- IGA
+- Reserve Bank
+- Woolworths
 ---
 
 Groceries have become more expensive at all four of Australia’s major supermarket chains, with the average price of a basket of essentials increasing by 7% between March and June, new analysis has found.

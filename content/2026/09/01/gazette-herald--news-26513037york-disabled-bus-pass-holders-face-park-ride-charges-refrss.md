@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Flooded York
+- Park & Ride
+- Park & Rides
+- York’s Park & Ride
+people:
+- Andy Burnham
+- Cllr Kate Ravilious
+- Flick Williams
+- Ms Williams
+- Tom Gordon
+organisations:
+- City of York Council
+- Council Labour transport
+- Government
+- Knaresborough
+- LDRS
+- Liberal Democrat Harrogate
+- Local Democracy Reporting Service
+- Park & Ride
+- Park & Rides
+- York and North Yorkshire Combined Authority
 ---
 
 DISABLED people boarding buses at some York stops face having to pay fares despite a pledge to make travel free all day.

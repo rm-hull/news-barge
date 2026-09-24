@@ -12,6 +12,18 @@ image: https://i.guim.co.uk/img/media/c77b4097e6bc6d537ce69033d8082f733485c8ae/2
 categories:
 - UK
 - News & Politics
+locations: []
+people:
+- Angus Taylor
+- Anthony Albanese
+- Jacqui Lambie
+- John Armfield
+- Matt Keogh
+organisations:
+- Coalition
+- Fair Care for Veterans
+- Labor
+- Senate
 ---
 
 Labor has backed down on plans to impose a $5,000 cap on health services for defence veterans, caving to growing political pressure after weeks of criticism.

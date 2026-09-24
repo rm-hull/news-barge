@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- America
+- BBC
+- Broadway
+- Chicago
+- New York
+- TikTok
+- US
+people:
+- Abigail Barlow
+- Dylan Mulvaney
+- Megan Thee Stallion
+- Mickey-Jo Boucher
+- Miya Chahal.
+- Reece Weaver
+- Roxie Hart
+- Samantha Milo
+- Sealy Sikes
+- Tammy Pack
+- Zidler
+organisations:
+- Ambassador Theatre
+- BBC Newsbeat
+- Chicago
+- DCC
+- Dallas Cowboys
+- Dallas Cowboys Cheerleaders
+- Netflix
+- The Musical
 ---
 
 ![Reece wears a bright red dress and has long brunette hair which sits past her shoulders. She stands in front of a Chicago The Musical sign](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/23ab/live/f8ccd0a0-aba2-11f1-8e72-a346833ed029.jpg)

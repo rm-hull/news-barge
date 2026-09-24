@@ -13,6 +13,19 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- Gadolinium
+- Netherlands
+- Nigeria
+- UK
+- US
+people:
+- AI
+- Karen Noble
+organisations:
+- AI
+- Brain Tumour Research
+- UCL
 ---
 
 Brain tumour patients could be spared contrast dye injections during MRI scans with the help of artificial intelligence (AI).

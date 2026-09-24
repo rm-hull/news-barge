@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- DURHAM
+- Darlington
+- Longfield Road
+people: []
+organisations:
+- Durham Police
+- Facebook
+- North East TG Jones
 ---
 
 *(Image: DURHAM POLICE)*

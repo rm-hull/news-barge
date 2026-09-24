@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Coach Road
+- Harrogate
+- North Park Road
+people:
+- Emily Williams
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police issue appeal after two men chase e-bike rider through Harrogate streets

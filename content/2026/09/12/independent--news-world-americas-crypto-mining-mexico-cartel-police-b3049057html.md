@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Brazil
+- Central Mexico
+- Puebla
+- Sierra Norte
+- Southeast Asia
+- Thailand
+- Tlaola
+- U.S.
+people:
+- Caio Motta
+- David Saucedo
+- Samuel Leon
+organisations:
+- Chainalysis
+- Iberoamericana University
+- Reuters
+- University of Cambridge
 ---
 
 Nestled in the lush green mountains of Central Mexico, next to a sparsely traveled gravel road, few people had reason to wander close enough to hear the loud, mechanical whirring of a clandestine cryptocurrency farm.

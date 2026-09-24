@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/10/16/2293357732..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Australia
+- Dallas
+- Iran
+- Saudi Arabia
+- Texas
+- United States
+people:
+- Carolyn Bourdeaux
+- Donald Trump
+- Elon Musk
+- Hakeem Jeffries
+organisations:
+- Concord Action
+- Congress
+- House of Representatives
+- Jeffries’
+- Los Angeles Rams
+- NFL
+- Netflix
+- New England Patriots
+- New York Democrat
+- San Francisco 49ers
+- Seattle Seahawks
+- Senate
+- Trump
+- YouGov
 ---
 
 Hakeem Jeffries has one question after President Donald Trump offered to pay every American $5,000 if Republicans hold the House and Senate: Are you ready for some payback?

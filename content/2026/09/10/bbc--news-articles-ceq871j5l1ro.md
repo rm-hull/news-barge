@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Chippenham
+- Snapchat
+- Southampton
+- Wiltshire
+people:
+- Bethany Adams
+- Bronwen James
+- James'
+organisations:
+- Bitterne Park School
+- Hardenhuish School
+- NSPCC
+- Wiltshire Council
+- Winchester Crown Court
 ---
 
 ![Bronwen James walking into court wearing a brown jacket over black clothing and sunglasses with died long brown hair](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/2d54/live/599b9310-ad21-11f1-826f-933990eae6f0.jpg)

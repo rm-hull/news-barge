@@ -14,6 +14,28 @@ categories:
 - York
 - History
 - Society & Culture
+locations:
+- Britain
+- Humber
+- North East
+- North West
+- Scotland
+- South East of England
+- South West
+- Yorkshire
+people:
+- Dawn Loynes
+- Peter Gibson
+organisations:
+- Fighting With Pride
+- Financial Recognition Scheme
+- Government
+- LGBT
+- LGBTQ
+- Ministry of Defence
+- NHS
+- Royal Navy
+- Yorkshire
 ---
 
 *(Image: Pixabay)*

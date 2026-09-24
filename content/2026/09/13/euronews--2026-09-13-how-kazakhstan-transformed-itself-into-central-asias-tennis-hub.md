@@ -14,6 +14,50 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Almaty
+- Astana
+- Bordighera
+- Central Asia
+- Doskarayev
+- Germany
+- Japan
+- Karaganda
+- Kazakhstan Kazakhstan
+- Kazakhstan Tennis Federation
+- New York
+- Northern California
+- Shymkent
+- Spain
+- Tennis Federation
+- Thailand
+people:
+- Akhmadi Makhanov
+- Alexander Bublik
+- Amir Omarkhanov
+- Anna Danilina
+- Aryna Sabalenka
+- Bulat Utemuratov
+- Daniel Tazabekov
+- Dias Doskarayev
+- Elena Rybakina
+- Eva Korysheva
+- Jannik Sinner
+- Kassym-Jomart Tokayev
+- Novak Djokovic
+- Riccardo Piatti
+- Yulia Putintseva
+- Zangar Nurlanuly
+organisations:
+- ATP
+- Gorin Tennis Academy
+- ITF
+- KTF
+- Kazakhstan’s Tennis Federation
+- No. 1
+- Sergio Bruguera Academy
+- Team Qazaqstan
+- Tennis Europe
 ---
 
 ## Since 2007, Kazakhstan has invested more than $200 million in tennis, expanding tennis infrastructure nationwide and developing professional academies. Today, nearly 45,000 people play the sport and the country has produced its first world No. 1, Elena Rybakina.

@@ -11,6 +11,41 @@ image: https://static.independent.co.uk/2026/09/08/07/2292536003..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- British Overseas Territories
+- Buenos Aires
+- China
+- England
+- Falkland Islands
+- Falklands Islands
+- Great Britain
+- Hong Kong
+- Land of Israel
+- Malvinas Islands
+- Palestine
+- Sea Lion Field
+- State of Israel
+- UK
+- West Bank
+people:
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Ed Miliband
+- Gideon Tadmor
+- Itamar Ben-Gvir
+- Javier Milei
+- Leopoldo Galtieri
+- Rupert Lowe
+- Yair Netanyahu
+organisations:
+- Amnesty International
+- Human Rights Watch
+- LSEG
+- Navitas Petroleum
+- Restore Britain
+- Sea Lion
+- UN
 ---
 
 Israeli ministers have called for sanctions on Britain for its “occupation” of the Falkland Islands amid furious backlash over the government’s plan to sanction Israeli settlements in the occupied West Bank.

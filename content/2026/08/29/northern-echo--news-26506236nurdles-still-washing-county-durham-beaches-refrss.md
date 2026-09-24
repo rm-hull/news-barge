@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- County Durham
+- Crimdon
+- DURHAM COUNTY
+- North East
+- North Sea
+- Nurldes
+- Port of Tyne
+- River Tyne
+- Seaham Hall
+- Seaham Hall Beach
+- Seaham Marina
+- Slope
+people:
+- Kim McGuinness
+organisations:
+- Durham County Council
+- Environment Agency
 ---
 
 Nurdles are continuing to wash up on County Durham beaches more than a month after one billion plastic pellets are believed to have spilt into the River Tyne following a crash between two vessels.

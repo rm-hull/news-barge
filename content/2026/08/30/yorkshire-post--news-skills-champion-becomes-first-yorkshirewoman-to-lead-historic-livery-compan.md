@@ -15,6 +15,35 @@ categories:
 - York
 - Business & Entrepreneurship
 - History
+locations:
+- Bolton Abbey
+- Burnsall
+- City of London
+- Halifax
+- Haworth
+- Mansion House
+- River Wharfe
+- Square Mile
+- St Paul's Cathedral
+- Thames
+- West Yorkshire
+- Yorkshire Dales
+people:
+- Elizabeth Bonfield
+- Kevin Parkin
+- Master
+- Ms Bonfield
+- Richard Cook
+- Susan Langley
+- William Craven
+organisations:
+- Alias Wire Workers
+- BMPCA
+- Calderdale Industrial Museum
+- Castings Technology
+- Formula 1
+- Industry Apprentice Council
+- Tin Plate Workers
 ---
 
 # Skills champion becomes first Yorkshirewoman to lead historic livery company

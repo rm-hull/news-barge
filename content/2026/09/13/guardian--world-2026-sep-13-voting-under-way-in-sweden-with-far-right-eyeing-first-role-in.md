@@ -11,6 +11,37 @@ image: https://i.guim.co.uk/img/media/ac057a10bd99664cc4d41efe583008dfed92c1d8/5
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Nacka
+- Stockholm
+- Sweden Sweden
+- UK
+people:
+- Abba
+- Benny Andersson
+- Donald Trump
+- Fredrik Furtenbach
+- Gustav Gellerbrant
+- Jimmie Åkesson
+- Magdalena Andersson
+- Mamma Mia
+- Ulf Kristersson
+organisations:
+- Centre party
+- Christian Democrats
+- Expo
+- Green
+- Left
+- Liberals
+- Moderates
+- Radio Sweden
+- SD
+- SVT
+- Social Democrats
+- Social Democrats’
+- Sweden Democrats
+- Tidö
 ---
 
 Voting is under way in Sweden in a high-stakes election that could lead to the far-right Sweden Democrats (SD) entering government for the first time.

@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Belvedere Road
+- Cayton Bay
+- Esplanade Crescent
+- Holbeck Road
+- Marine Drive
+- NYC
+- North Yorkshire
+- Royal Albert Drive
+- Sandsend
+- Scarborough
+- Sea Cliff Road
+- South Cliff
+- Whitby
+people:
+- Cllr Malcolm Taylor
+- Rich Maw
+organisations:
+- Crown Copyright
+- Experimental Traffic Regulation Order
+- Holbeck Road Campervan ETRO
+- NYC Expanded Motohome ETRO
+- Newsquest
+- North Yorkshire Council
+- Nyc Parking Survey
+- Ramshill division
+- Weaponness
 ---
 
 AN overnight ban on the parking of campervans on the North Yorkshire coast has been expanded following a ‘displacement of problems’.

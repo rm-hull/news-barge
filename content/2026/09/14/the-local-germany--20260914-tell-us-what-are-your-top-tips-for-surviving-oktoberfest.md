@@ -16,6 +16,11 @@ categories:
 - News & Politics
 - Travel
 - Society & Culture
+locations:
+- Munich
+- Schottenhamel
+people: []
+organisations: []
 ---
 
 Oktoberfest 2026 is set to kick off at midday on Saturday when the Mayor of Munich taps the first keg in the Schottenhamel tent with the famous cry *O'zapft is!* (The keg is tapped!)

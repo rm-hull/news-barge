@@ -15,6 +15,15 @@ categories:
 - Family & Parenting
 - Society & Culture
 - Education & Learning
+locations:
+- UK
+people:
+- Giovanna Fletcher
+organisations:
+- Back to School
+- Childline
+- Matalan
+- NSPCC Helpline
 ---
 
 *(Image: PA)*

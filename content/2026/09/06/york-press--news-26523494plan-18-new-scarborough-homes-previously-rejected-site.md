@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Carr House
+- East Of Station Road
+- Green Lane
+- North Of Green Lane
+- North Yorkshire
+- Scarborough
+- Snainton
+- Station Road
+people: []
+organisations:
+- Bishop Burton College
+- Mulgrave Developments Ltd
+- North Yorkshire Council
 ---
 
 ## Plan for 18 new homes at site of previously rejected proposals

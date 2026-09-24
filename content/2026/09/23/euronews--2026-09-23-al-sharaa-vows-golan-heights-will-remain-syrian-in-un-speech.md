@@ -12,6 +12,28 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/50/35/1200x675_cmsv2_4a49e073-f72a-5abe-8e14-4539bd7174ca-9925035.jpg
+locations:
+- Colombia
+- Golan Heights
+- Golan Heights**—**
+- Israel
+- Jersey City Heights
+- New Jersey
+- New York
+- Syria
+- US
+people:
+- Abu Mohammad al-Jolani
+- Ahmed al-Sharaa
+- Al-Sharaa
+- Antonio Guterres
+- Bashar al-Assad
+- Brett McGurk
+- Donald Trump
+- Golan
+organisations:
+- Atlantic Council
+- UN General Assembly
 ---
 
 ## At an Atlantic Council panel the day before, the Syrian president said he openly told Trump he had no right to recognise Israeli sovereignty over the Golan, quipping that the US president should give New Jersey to Israel instead.

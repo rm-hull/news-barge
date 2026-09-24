@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Elad
+- Israel
+people:
+- David Ben-Gurion
+- Elad
+- Shimon Heimlich
+organisations:
+- Supreme Court
 ---
 
 Ultra-Orthodox Jewish men in Elad welcomed the release of fellow yeshiva student Shimon Heimlich from military prison, according to a report published this week.

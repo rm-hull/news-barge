@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- East Cleveland
+- Marton Interchange
+- Middlesbrough
+- Stokesley Road
+- UK
+people:
+- Steven Garrigan
+organisations:
+- Esh Construction
+- Middlesbrough Council
 ---
 
 Major works at a key Middlesbrough junction are due to be completed this weekend after months of disruption for drivers.

@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Argentina
+- Brazil
+- Britain
+- Canada
+- Europe
+- Ireland
+- Kyiv
+- Russia
+- UK
+- USA
+- Ukraine
+- Wales
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Kwasi Kwarteng
+- Laura Kuenssberg
+- Nathan Gill
+- Nigel Farage
+- Tom Tugendhat
+- Vladimir Putin
+organisations:
+- BBC
+- Defending Democracy Task Force
+- Freedom
+- Independent
+- Labour Party
+- National Crime Agency
+- Reform UK
+- Southbank Investment Research
+- Stack BTC
+- Tory
 ---
 
 Labour have said that the “questions keep piling up” for Nigel Farage after footage emerged of him admitting he knew Russians used cryptocurrency to cheat Ukraine war sanctions, but invested in the sector anyway.

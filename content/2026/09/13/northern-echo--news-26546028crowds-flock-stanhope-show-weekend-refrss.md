@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- Stanhope
+- Unthank Park
+- Weardale
+people: []
+organisations:
+- Denes Inside Amazon
+- Prime Air
+- Stanhope
 ---
 
 Crowds have flocked to Stanhope show this weekend, enjoying livestock competitions, rural crafts, and agricultural displays.

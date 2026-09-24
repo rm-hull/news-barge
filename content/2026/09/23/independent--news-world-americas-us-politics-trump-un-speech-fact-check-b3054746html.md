@@ -14,6 +14,38 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/22/UN_General_Assembly_Trump_63963.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- Iran
+- Manhattan
+- Middle East
+- Pacific Ocean
+- Russia
+- U.S.
+- US
+- United States
+- Venezuela
+- Western Pacific
+- White House
+people:
+- '## Trump'
+- Biden
+- Dessa Bergen-Cico
+- Donald Trump
+- Nicolas Maduro
+organisations:
+- AP
+- Center for Strategic and International Studies
+- Customs and Border Protection
+- Daniel Patrick Moynihan United States Courthouse
+- NATO
+- OPEC
+- Syracuse University
+- The Associated Press
+- Trump
+- Truth Social
+- UN
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

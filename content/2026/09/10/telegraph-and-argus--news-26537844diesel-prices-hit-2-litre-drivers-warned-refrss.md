@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Europe
+- Hormuz
+- Iran
+- Persian Gulf
+- UK
+people:
+- Brent
+- Howard Cox
+- Saul Turner
+organisations:
+- Diesel
+- FairFuelUK
+- Forecourt Eye
+- HMRC
+- IEA
+- Irene Miller
+- National Scrap Car
 ---
 
 *(Image: Irene Miller)*

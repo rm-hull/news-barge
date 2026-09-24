@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Canada
+- Ceuta
+- Europe
+- France
+- Israel
+- Kremlin
+- Leipzig
+- Norway
+- Russia
+- Strasbourg
+- UK
+- Ukraine
+- West Bank
+people:
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- Nato
 ---
 
 The EU will move forward with plans for an under 13s social media ban, the head of the European Commission has confirmed.

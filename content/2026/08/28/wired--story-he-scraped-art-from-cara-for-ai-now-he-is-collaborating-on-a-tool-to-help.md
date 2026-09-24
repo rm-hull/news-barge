@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- Cara
+- North America
+people:
+- AI
+- Cara
+- Heft
+- Jingna Zhang
+- Reddit
+organisations:
+- AI
+- Academic Torrents
+- Big Tech
+- Cara
+- GoFundMe
+- Google
+- Instagram
+- LAION
+- MandarinDawnPoppy994
+- Meta
+- WIRED
 ---
 
 Since early 2023, photographer Jingna Zhang and a small crew of volunteers have worked tirelessly to maintain an image-sharing social media and portfolio app called Cara. So far, it has attracted about 1.5 million artists. What drew them to the platform? A shared opposition to the unauthorized use of their work to train AI models and a desire to publicize their art while avoiding exploitation by Big Tech.

@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Caerphilly
+- Clacton
+- Count Binface
+- Denton
+- Gorton
+- Makerfield
+people:
+- Ben Delo
+- Christopher Harborne
+- Green
+- Luke Tryl
+- Nigel Farage
+organisations:
+- Conservative/Reform
+- Greens
+- Labour
+- Liberal Democrat and Green
+- Liberal Democrats
+- More in Common
+- Reform UK
+- Tory
 ---
 
 A third of British voters are now prepared to vote tactically at the next general election as fear of a Reform UK government continues to fuel British politics.

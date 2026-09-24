@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Australia
+- Borneo Island
+- Brunei
+- Canada
+- Central Kalimantan
+- Indonesia
+- Jakarta
+- Japan
+- Malaysia
+- Palembang
+- Philippines
+- Russia
+- Sarawak
+- Singapore
+- South Sumatra
+- Southeast Asia
+- The Earth
+- Ukraine
+- United States
+- West Kalimantan
+people:
+- Arshad Malik
+- Ratu Dewa
+organisations:
+- Forestry Ministry
+- Satellite Environment Ministry
+- Save the Children
+- ___ Karmini
 ---
 
 Schools in the capital of Indonesia’s South Sumatra province switched to remote learning Wednesday as worsening haze from forest and peatland fires pushed air pollution to unhealthy levels, adding to disruptions that have already affected more than 1.4 million students across the country, officials said.

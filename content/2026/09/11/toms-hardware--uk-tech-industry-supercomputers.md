@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Aurora
+- China
+- Dojo3
+- Las Vegas
+- United States
+people: []
+organisations:
+- AI5
+- AMD
+- El Capitan
+- Elon Musk
+- Frontier
+- Get Tom's Hardware
+- LineShine
+- Tesla Dojo
+- U.S. DoE
+- Vera Rubin
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/BZeKHbXtMSgJcRKR9H6zR-320-80.png)

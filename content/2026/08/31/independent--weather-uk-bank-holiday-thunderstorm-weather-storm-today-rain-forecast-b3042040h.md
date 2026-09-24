@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- England
+- London
+- North Sea
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Kathryn Chalk
+- Ms Chalk
+organisations:
+- Met Office
 ---
 
 The weather is set to brighten up on bank holiday Monday, with sunny and dry interludes forecast for much of the UK.

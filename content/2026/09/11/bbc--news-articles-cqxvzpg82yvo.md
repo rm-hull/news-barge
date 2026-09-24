@@ -11,6 +11,25 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d808/live/0f1e24
 categories:
 - UK
 - News & Politics
+locations:
+- Camden
+- Holborn
+- London
+- St Pancras
+people:
+- Andy Burnham
+- Green
+- Hamza Chowdhury
+- Hannah Spencer
+- Keir Starmer
+- Sagal Abdi-Wali
+- Zack Polanski
+organisations:
+- Camden Council
+- Camden Green Party
+- Green Party
+- Greens
+- Labour
 ---
 
 ![Zack Polanski is wearing a dark coloured jacket and green shirt. He has stubble and short, dark hair. He is stood in front of two microphones and a red background.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/d808/live/0f1e2400-7172-11f1-a417-dfae8167aae6.png)

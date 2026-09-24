@@ -12,6 +12,12 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Selby
+- West Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 Police have thwarted an attempt to steal fuel in Selby.

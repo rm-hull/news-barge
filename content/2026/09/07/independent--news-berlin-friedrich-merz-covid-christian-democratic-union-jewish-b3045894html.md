@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Born
+- East Germany
+- Magdeburg
+- Potsdam
+- Saxony-Anhalt
+- Tangermuende
+- U.S.
+people:
+- Friedrich Merz
+- Simson
+- Sven Schulze
+- Ulrich Siegmund
+- Wolfgang Merkel
+organisations:
+- AfD
+- Christian Democratic Union
+- Identitarian Movement
+- WBZ Berlin Social Science Center
 ---
 
 Ulrich Siegmund, a charismatic 35-year-old who gave the far-right Alternative for Germany a friendly face and combined promises of a better future with a touch of nostalgia, has led the party to its strongest showing yet.

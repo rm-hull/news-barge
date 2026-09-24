@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Butler
+- Pennsylvania
+- West Palm Beach
+- White House
+people:
+- Barack Obama
+- Bernie Sanders
+- Butler
+- Donald Trump
+- Nathan Tranquilli
+organisations:
+- Department of Homeland Security
+- Diplomatic Security Service
+- Government Accountability Office
+- Secret Service
+- U.S. Secret Service
 ---
 
 The U.S. Secret Service dealt with several drone-related incidents without adjusting its protection policies or documenting why it didn't, according to a government report released Thursday. That information may have helped illustrate the emerging threat of civilian drone use before one was used in the 2024 assassination attempt on then-candidate Donald Trump in Butler, Pennsylvania.

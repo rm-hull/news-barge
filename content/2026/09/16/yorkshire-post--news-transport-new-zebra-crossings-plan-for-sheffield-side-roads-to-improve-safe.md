@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Sheffield
+- South Yorkshire
+people:
+- Coun Alexi Dimond
+- Coun Ian Horner
+- Coun Stuart Wallace
+- Nicola Marshall
+- Sam Fleming
+organisations:
+- Committee
+- SYMCA
+- Sheffield City Council
+- South Yorkshire Mayoral Combined Authority
 ---
 
 # New zebra crossings plan for Sheffield side roads to improve safety for pedestrians

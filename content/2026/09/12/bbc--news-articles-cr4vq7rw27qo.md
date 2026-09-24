@@ -11,6 +11,24 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f32/live/228da5
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Wales
+people:
+- Dame Meg Hillier
+- Lucy Powell
+- Nick Hillman
+- Oliver Gardner
+- Tom Gordon
+organisations:
+- BBC
+- Department for Education
+- DfE
+- Financial Conduct Authority
+- Higher Education Policy Institute
+- Rethink Repayment
+- Student Loans Company
+- Treasury Committee
 ---
 
 ![A teenaged girl who has long blonde curly hair and is wearing a light blue hoodie sits at a glass table, looking at an open laptop. One hand rests on the forehead while the other is near the keyboard. Papers lie beside the computer. She is in a living room with sofas, a staircase and a fireplace.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4f32/live/228da520-adda-11f1-8b98-35ffe039e825.jpg)

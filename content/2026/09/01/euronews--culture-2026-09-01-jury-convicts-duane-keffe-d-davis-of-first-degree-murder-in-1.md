@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Las Vegas
+- Los Angeles.
+- Paris
+people:
+- Binu Palal
+- Carolyn Bessette
+- Davis'
+- Davis’
+- Duane “Keffe D” Davis
+- God
+- John F. Kennedy Jr
+- John Galliano
+- Marc DiGiacomo
+- Marion “Suge” Knight
+- Michael Sanft
+- Naomi Watts
+- Sekyiwa “Set” Shakur
+- Tupac Shakur
+- “Suge” Knight
+organisations:
+- Blackie Books'
+- Cadillac
+- Death Row Records
+- Paramount Studios
 ---
 
 ## The verdict lays to rest decades of speculation and conspiracy from avid hip-hop fans around the world in the high-profile killing that went unresolved for close to 30 years. Davis is expected to appeal the conviction.

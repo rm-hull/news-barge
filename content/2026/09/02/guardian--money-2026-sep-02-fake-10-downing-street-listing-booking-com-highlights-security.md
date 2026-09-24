@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Downing Street
+- London
+- UK
+- Which?
+people:
+- Larry
+- Rory Boland
+organisations:
+- A Booking.com
+- Booking.com’s
+- Consumers Association
+- Houses of Parliament
+- Ofcom
+- Which?
 ---
 
 Successive politicians have clawed their way past colleagues over the years to call the residence home. Yet in an offer that probably seemed too good to be true, the property site Booking.com has been accused of “systemic security failures” after it was able to set up and accept payment for a fake listing for 10 Downing Street.

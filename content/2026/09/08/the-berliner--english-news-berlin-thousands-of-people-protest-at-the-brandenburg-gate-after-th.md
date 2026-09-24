@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Berlin
+- Germany
+- Old Market Square
+- Potsdam
+- Saxony-Anhalt
+people:
+- Luisa Neubauer
+organisations:
+- AfD
+- Brandenburger Tor
+- Die Grünen
+- Die Linke
+- Office for the Protection of the Constitution
+- Potsdam!
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866193416h-scaled.jpg)

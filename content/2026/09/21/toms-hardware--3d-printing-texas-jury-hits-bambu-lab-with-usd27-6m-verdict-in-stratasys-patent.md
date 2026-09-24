@@ -12,6 +12,53 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/AgMP3PC4wicXB7jMd8ipB4-1999-80.jpg
+locations:
+- Austin
+- Bambu
+- Eden Prairie
+- Europe
+- Germany
+- MN
+- New York
+- TX
+- U.S.
+- US
+- United States
+- Western Texas
+people:
+- Alan Albright
+- Denise Bertacchi
+- Scott Crump
+- Stratasys
+- Stratasys’
+- Tom
+- Tom’s Hardware
+organisations:
+- A1
+- Arevo, Inc
+- Bambu Lab
+- Denise Bertacchi
+- Eastern District
+- Eastern District of Texas
+- European Unified Patent Court
+- Get Tom's Hardware
+- Google News
+- INDX
+- P1S
+- P2S
+- Print Shop
+- Prusa Research
+- Reply Stratasys
+- Stratasys, Inc
+- Stratasys, Inc.
+- Stratasys’
+- The Hague Local Division
+- Tom's Hardware
+- Tom’s Hardware US
+- U.S. District Court
+- UPC
+- US5121329
+- X1
 ---
 
 ![Prime towers have been a part of the Bambu Lab multicolor experience since 2022.](https://cdn.mos.cms.futurecdn.net/AgMP3PC4wicXB7jMd8ipB4.jpg)

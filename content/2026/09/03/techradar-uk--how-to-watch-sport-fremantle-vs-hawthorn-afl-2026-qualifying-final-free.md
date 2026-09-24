@@ -11,6 +11,46 @@ image: https://cdn.mos.cms.futurecdn.net/UhZoR8pBumNEBNU46sYd5Q-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- Fremantle
+- Optus Stadium
+- Perth
+- UK
+- US
+- uk
+people:
+- Aatif Sulleyman
+- Brennan Cox
+- Heath Chapman
+- Jack Ginnivan
+- Jack Gunston
+- Justin Longmuir
+- Jye Amiss
+- Murphy Reid
+- Sam Mitchell
+- Sam Switkowski
+organisations:
+- 7Plus
+- AFL
+- Aatif
+- Dockers
+- FS2
+- Fremantle
+- Freos
+- Future Publishing
+- Gizmodo
+- Hawks
+- Hawthorn
+- Newsweek
+- Optus Stadium
+- TNT Sports
+- TSN
+- TechRadar
+- The Independent
+- Trusted Reviews
+- Virgin Media
 ---
 
 ![Jack Gunston catching the ball during Fremantle vs Hawthorn game in Round 9 of the 2026 AFL season](https://cdn.mos.cms.futurecdn.net/UhZoR8pBumNEBNU46sYd5Q.jpg) 

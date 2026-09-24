@@ -13,6 +13,17 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations: []
+people:
+- Andy Burnham
+- Rowan Ferguson
+organisations:
+- Big Tech
+- Molly Rose Foundation
+- ONS
+- Ofcom
+- Office for National Statistics
+- The Independent
 ---
 
 Almost half of children have been exposed to more than a small amount of harmful content online, a new survey has revealed.

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Los Angeles.
+- US
+people:
+- Black
+- Bree
+- Carla Alexander
+- Carla Jeffery
+- Carlon
+- Chandler Kinney
+- Katrina
+- Larry David
+- Milo Manheim
+- Willa
+- Zed
+organisations:
+- Alexanders Talent
+- Alexanders Talent Management
+- Disney
+- El Capitan Theatre
+- Instagram
 ---
 
 ![Carla Jeffery grinning in glasses and a red blouse, posing for photos at the world premiere of Disney's Zombies 4: Dawn Of The Vampires at El Capitan Theatre on 8 July, 2025 in Los Angeles.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg)

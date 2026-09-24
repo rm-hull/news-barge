@@ -16,6 +16,14 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA3N2FjZTJiLWE5ZjItNDNiZi04N2YzLTlmODY3MzBmODhjZDoxMGUzZGFmZi0wYWIxLTQxMmYtYjY0My00ZjQzZjM1NTgzYzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations: []
+people:
+- Emma
+- James Hardisty
+- Rob Sturdy
+organisations:
+- Country Post
+- Yorkshire Post
 ---
 
 # The Yorkshire Post proudly stands with tenant farmers, it’s time the Government does too

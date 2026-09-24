@@ -14,6 +14,42 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- MXFP4
+- Mount Pleasant
+- U.S.
+- Wisconsin
+people:
+- Claude Fable
+- Claude Opus
+- Kimi K3
+- Mozilla
+- Raffi Krikorian
+- Shane Downing
+organisations:
+- Ars Technica
+- Artificial Analysis
+- Astra
+- CISA
+- Epoch AI
+- FBI
+- GPU
+- Get Tom's Hardware
+- K3
+- Linux Foundation
+- METR
+- Microsoft
+- Moonshot
+- Mozilla
+- NSA
+- Open Source Initiative
+- OpenRouter
+- Opus
+- Shane Downing
+- SlashData
+- Tom’s Hardware
+- Tom’s Hardware US
+- Z.ai’s
 ---
 
 ![Z.ai](https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk.jpg) 

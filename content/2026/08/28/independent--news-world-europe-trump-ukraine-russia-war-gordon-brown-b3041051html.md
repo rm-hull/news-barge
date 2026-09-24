@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Britain
+- Europe
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Donald Trump
+- Gordon Brown
+- Vladimir Putin
+organisations:
+- Government
+- Kyiv
+- Labour
 ---
 
 Ukraine is facing its "worst winter" since the conflict with Russia began, Gordon Brown has warned, urging Britain and allies to press Donald Trump to bolster support for the nation.

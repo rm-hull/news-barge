@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/06ca4826a4e96a1a7518bee5de37403f2a0de64e/318_0_2040_1632/master/2040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b522315cf3f2823077c8a360dbda45ff
+locations:
+- Aberbargoed
+- Bangor Conwy Môn
+- Gwent
+- London
+- Neath
+- Port Talbot
+- Russia
+- Senedd
+- Wales
+people:
+- Dan Thomas
+- Helen Jenner
+- Nathan Gill
+- Nigel Farage
+- Richard Tice
+- Sarah Cooper-Lesadd
+organisations:
+- Brexit
+- Bro Morgannwg
+- Labour
+- MEP
+- Plaid Cymru
+- Reform UK
+- Senedd
+- Tory
+- Ukip
 ---
 
 Nigel Farage dismissed the loss of Reform UK’s leader in Wales last week as a “bump in the road”, as the party unveiled a replacement.

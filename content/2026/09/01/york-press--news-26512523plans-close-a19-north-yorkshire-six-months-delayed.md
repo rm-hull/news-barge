@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '**York'
+- Brayton
+- Chapel Haddlesey
+- Eggborough
+- North Yorkshire
+- Roall Lane
+- Wand Lane
+people:
+- Allan McVeigh
+organisations:
+- A19
+- A64
+- Google Maps
+- North Yorkshire Council
+- Power On
+- The Press
 ---
 
 *(Image: Google Maps)*

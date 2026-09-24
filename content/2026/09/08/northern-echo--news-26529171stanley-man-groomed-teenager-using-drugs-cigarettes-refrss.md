@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Oxford Street
+- Stanley
+people:
+- Annelise Haugstad
+- Mark Faulds
+- Miss Haugstad
+organisations:
+- Newsquest
+- Teesside Crown Court
 ---
 
 *(Image: Newsquest)*

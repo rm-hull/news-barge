@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- England
+- Greater Manchester
+- Wales
+people:
+- Andy Burnham
+- Simon Williams
+- Stephen Barnes
+organisations:
+- Brake
+- Department for Transport
+- DfT
+- Getty)* Police
+- Government
+- National Police Chiefs’ Council
+- RAC
+- Royal Society for the Prevention of Accidents, Road Safety Great Britain
 ---
 
 *(Image: Stephen Barnes/Getty)*

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- England
+- Ireland
+- New York
+- United Kingdom
+- United States
+- Vegas
+people:
+- Anthony Joshua
+- Eddie Hearn
+- Frank Warren
+- Mariusz Wach
+- Mike Tyson
+- Tyson Fury
+organisations:
+- AJ
+- Fury
+- Joshua
+- Queensbury
+- Sky Sports News
 ---
 
 ![Tyson Fury (left) and Anthony Joshua (right)](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/92e9/live/234c74f0-a70e-11f1-adb7-ad73f5f76a76.png)

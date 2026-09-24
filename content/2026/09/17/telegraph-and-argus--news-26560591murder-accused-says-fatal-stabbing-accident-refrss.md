@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford Crown Court
+- Burley-in-Wharfedale
+- Bury
+- Derry Hill
+- Iron Row
+- Main Street
+- Menston
+- Miss Ramsay
+people:
+- Annabel Ramsay
+- John Robinson
+- Katto
+- Mason Jones
+- Miss Ramsay
+- Nicole Clements
+- Will Clarke
+organisations:
+- Bradford Golf Club
+- CCTV
 ---
 
 A man accused of fatally stabbing a stranger told police the incident was an accident.

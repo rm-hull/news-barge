@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Leeds Road
+- West Yorkshire
+people: []
+organisations:
+- Volkswagen
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

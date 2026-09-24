@@ -13,6 +13,74 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- Brazil
+- CA
+- Cameroon
+- Canada
+- Hill Dickinson Stadium
+- Man City
+- Man Utd
+- Manchester
+- Old Trafford
+- PT
+- Portugal
+- Sun
+- UK
+- US
+- United Kingdom
+- canada
+- uk
+people:
+- Ainsley Maitland-Niles
+- Beto
+- Bruno Fernandes
+- Carlos Baleba
+- David Moyes
+- Folarin Balogun
+- Iliman Ndiaye
+- Jack Grealish
+- James Roberts
+- Man Utd
+- Mason Mount
+- Nathan Patterson
+organisations:
+- AU
+- Bournemouth
+- Bramley-Moore Dock
+- Brighton
+- CazéTV
+- Crystal Palace
+- DirecTV
+- EPL
+- Everton
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Hull
+- Hulu Live TV
+- Ipswich Town
+- Man Utd
+- Man Utd onSky Sports
+- Manchester United
+- Merseyside
+- NBC Universal
+- NordVPN
+- NordVPN**
+- Oxford Mail
+- Oxford United
+- Premier League
+- Sky Sports
+- Sky TV
+- Sling Blue
+- Sportin Australia.
+- Stan Sport
+- Talismanic
+- Toffees
+- Tractor Boys
+- USA Network
+- YouTube TV
 ---
 
 ![Bruno Fernandes of Manchester United celebrates after scoring a penalty to make it 3-1 in the Premier League match against Ipswich Town at Old Trafford on August 30, 2026 in Manchester, United Kingdom](https://cdn.mos.cms.futurecdn.net/tDAwpGuhDiehgy99EpbvX4.jpg) 

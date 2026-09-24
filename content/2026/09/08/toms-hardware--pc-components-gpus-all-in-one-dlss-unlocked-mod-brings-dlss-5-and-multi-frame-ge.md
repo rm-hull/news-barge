@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- AMD
+- Ampere
+- DLSS 5
+- DLSS MFG
+- DLSS Unlocked
+- DLSSG
+- DLSSNR
+- FSR
+- FSR3
+- GPU
+- Google News
+- NVIDIA
+- Nvidia
+- ReShade
+- Swapper
 ---
 
 ![DLSS 5 in NBA 2K27](https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif)

@@ -16,6 +16,46 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Beltex
+- Bluefaced Leicester
+- England
+- Hawes
+- Leyburn
+- Low Oxnop Farm
+- Middleton
+- Muker Show
+- Porters’
+- Summer Lodge Farm
+- Swale
+- Teesdale
+- Texel
+- Upper Swaledale
+- Wensleydale
+- Yorkshire
+people:
+- Carol
+- Christopher
+- God
+- Greg
+- Hawes
+- Helen Guy
+- John Whitell Porter
+- Ken Whitehaed
+- Kirkby Stephen
+- Mark Rukin
+- Middleton
+- Muker Show
+- Mum
+- Steven Porter
+- Steven’s
+- Swaledales
+- Will
+organisations:
+- Hawes Mart
+- Muker Show
+- Swaledale Sheep Breeders Association
+- Yorkshire Federation of Show Societies
 ---
 
 # Summer Lodge Farm, Swaledale: Muker Show's a gem, but the competition is fierce

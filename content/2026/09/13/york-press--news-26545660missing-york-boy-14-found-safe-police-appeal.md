@@ -13,6 +13,13 @@ categories:
 - York
 - True Crime
 - Society & Culture
+locations:
+- Holgate
+- Manchester
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

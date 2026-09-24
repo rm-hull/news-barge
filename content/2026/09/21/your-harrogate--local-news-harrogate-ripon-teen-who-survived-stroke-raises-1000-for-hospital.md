@@ -13,6 +13,20 @@ categories:
 - Health & Fitness
 - Education & Learning
 image: https://mmo.aiircdn.com/409/6ab0e37d2069a057527.jpg
+locations:
+- Catterick
+- Coast to Coast Walk
+- Great North Children’s Hospital
+- James Cook University Hospital
+- Newcastle
+people:
+- Rachel
+- Robin
+- Samina O’Brien
+- Tom Davies
+organisations:
+- Richmond Dales Amateur Swimming Club
+- Ripon Grammar School
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab0e37d2069a057527.jpg)

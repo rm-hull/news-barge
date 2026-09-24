@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- Asia
+- Europe
+- US
+people:
+- Dario Amodei
+- Donald Trump
+- Marc Cieslak
+organisations:
+- Anthropic
+- BBC AI
 ---
 
 # BBC AI correspondent answers: What is AI? Can it be stopped?

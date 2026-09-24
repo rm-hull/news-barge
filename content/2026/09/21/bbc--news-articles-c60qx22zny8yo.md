@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Travel
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45d6/live/4976c9b0-b5d1-11f1-8c16-65d8f060d73f.jpg
+locations:
+- Amble
+- Coquet Island
+- Northumberland
+- River Thames
+people: []
+organisations:
+- BBC Sounds
+- BDMLR
+- British Divers Marine Life Rescue
+- RSPB
+- Radio Newcastle
 ---
 
 ![Three small, black whales on their sides in the shallows of the sea. There is water all around them, with sand and seaweed visible underneath.](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/45d6/live/4976c9b0-b5d1-11f1-8c16-65d8f060d73f.jpg)

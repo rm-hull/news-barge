@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Coney Street
+- Davygate
+- Guildhall
+- Ireland
+- Lush
+- St Martin’s Church
+- St Martin’s Yard
+- UK
+- York
+people: []
+organisations:
+- )* Space NK
+- :** Space NK
+- Beverley
+- City of York Council
+- Harrogate
+- Helmsley Group
+- JD Sports
+- Leeds
+- Space NK
+- St Martins Yard
+- TAG Heuer
 ---
 
 A high street brand has revealed its opening date in York city centre.

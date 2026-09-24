@@ -13,6 +13,24 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/21/14/Tropical_Weather_58526.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlantic Ocean
+- Azores
+- Baja California
+- Colima
+- Fay
+- Guerrero
+- Jalisco
+- Manzanillo
+- Mexico
+- Michoacán
+- Odalys
+- Pacific Ocean
+- Polo
+- Zihuatanejo
+people: []
+organisations:
+- National Hurricane Center
 ---
 
 Tropical Storm Polo will rapidly intensify in the Pacific Ocean and become a major hurricane later this week, forecasters said Monday.

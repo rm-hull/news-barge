@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- Gulf
+- Hormuz
+- Iran
+- Middle East
+- Saudi Arabia
+- Tehran
+- UK
+- US
+people:
+- Andrew Bailey
+- Giovanni Staunovo
+organisations:
+- AA
+- BP
+- Bank of England
+- British Gas
+- Centrica
+- Federal Reserve
+- Shell
+- UBS Global Wealth Management
 ---
 
 The price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.

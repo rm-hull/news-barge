@@ -11,6 +11,17 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bowling Back Lane
+- Bradford
+- Dealburn Road
+- Dowley Gap
+- Keighley
+- Midland Road
+people: []
+organisations:
+- Bradford Council
+- Household Waste Recycling Centres
 ---
 
 *(Image: Bradford Council)*

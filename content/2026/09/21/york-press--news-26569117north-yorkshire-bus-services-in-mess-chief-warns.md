@@ -12,6 +12,21 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/20218327.jpg?type=og-image
+locations:
+- North Yorkshire
+- Richmond
+- Ripon
+- Rougier Street
+- York
+people:
+- Carl Les
+- David Skaith
+organisations:
+- LDRS
+- Labour
+- Local Transport Plan
+- North Yorkshire Council
+- York and North Yorkshire Combined Authority
 ---
 
 ## Bus services in North Yorkshire are 'in a mess'

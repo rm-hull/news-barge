@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Banga
+- Philippines
+- South Cotabato
+people:
+- Reynaldo Tamayo
+organisations:
+- Banga National High School
+- Philippine National Police
 ---
 
 A shooting at a high school in the southern Philippines on Friday left two 14-year-old students and the teenage gunman dead and wounded at least 10 people, local government and police officials said.

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Buffalo
+- Chicago
+- Dunkirk
+- Fredonia
+- New York
+people:
+- Biden
+- Donald Trump
+- Erica Galante-Johnson
+- Joshua Klainberg
+- Kathryn Pilgrim
+- Patrick Schwer
+- Rob Hayes
+organisations:
+- AP
+- Associated Press
+- Associated Press’
+- EPA
+- EPIC
+- Environmental Advocates of New York
+- Environmental Policy Innovation Center
+- New York League of Conservation Voters
+- Pilgrim
+- Trump
+- U.S. Environmental Protection Agency
 ---
 
 Kathryn Pilgrim knew the century-old Victorian she bought in Dunkirk, New York, came with old plumbing. She replaced pipes she suspected of containing lead and later installed a kitchen filter designed to remove heavy metals.

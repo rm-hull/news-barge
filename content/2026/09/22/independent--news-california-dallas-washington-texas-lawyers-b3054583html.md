@@ -14,6 +14,25 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/25/23/Surrogate_Medical_Treatment_21989.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- California
+- Dallas
+- Texas
+people:
+- Elena Kagan
+- Gabriel
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+- \_\_\_ Wilder
+organisations:
+- CDC
+- Report for America Statehouse News Initiative
+- Supreme Court
+- The Associated Press
+- U.S. Supreme Court
 ---
 
 The U.S. Supreme Court on Tuesday declined to intervene in a custody dispute over a 5-week-old child who was born in Texas after a surrogate refused a California couple's wishes to have an abortion.

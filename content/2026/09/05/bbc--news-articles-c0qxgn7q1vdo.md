@@ -11,6 +11,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f9f/live/940c2c
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- Clacton
+- London
+- Port of Dover
+- Singapore
+- UK
+- US
+people:
+- Dan Jukes
+- James Orr
+- Jordan Bardella
+- Laura Kuenssberg
+- Nigel Farage
+organisations:
+- BBC
+- Channel 4
+- Channel 4 News
+- Labour
+- Liberal Democrats
+- Metropolitan Police
+- Reform UK
+- Sky News
+- Verbatim Investigations
 ---
 
 Watch: The Reform UK leader says he "frankly wasn’t even listening" during a conversation about foreign money being donated to his party

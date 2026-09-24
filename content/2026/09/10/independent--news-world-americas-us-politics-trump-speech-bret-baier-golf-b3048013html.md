@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/10/13/34/Screenshot-2026-09-10-a
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Bedminster
+- Dallas
+- Gulf of Mexico
+- Lake Ontario
+- New Jersey
+people:
+- Bret Baier
+- David Remnick
+- Donald J Trump
+- Donald Trump
+- Michael Solakiewicz
+- Sean Hannity
+organisations:
+- American Patriots
+- Congress
+- DePauw University
+- Fox News
+- MAGA
+- Trump National Golf Club
+- Trump National Golf Club Bedminster
 ---
 
 Fox News anchor Bret Baier praised President Donald Trump’s speech at the Republican midterm convention on Wednesday — just days after the two played golf together.

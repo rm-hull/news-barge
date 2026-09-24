@@ -13,6 +13,59 @@ categories:
 - News & Politics
 - Sports
 - Technology & Software
+locations:
+- Barcelona
+- Brighton
+- Cameroon
+- England
+- Europe
+- France
+- Lille
+- London
+- Manchester City
+- Newcastle
+- Savio
+- West Ham
+people:
+- Anthony Gordon
+- Ayyoub Bouaddi
+- Bradley Barcola
+- Bruno Guimaraes'
+- Carlos Baleba
+- Elliot Anderson
+- Iliman Ndiaye
+- Mateus Fernandes
+- Morgan Rogers
+- Paul Macdonald
+- Sandro Tonali
+- Savio
+- Yan Diomande
+organisations:
+- AC Milan
+- Arsenal
+- Aston Villa
+- BBC Sport
+- Barcelona
+- Chelsea
+- Everton
+- FootballTransfers.com
+- Guimaraes
+- Ipswich Town
+- Juventus
+- Ligue
+- Liverpool
+- Manchester City
+- Manchester United
+- Morgan Rogers
+- Newcastle
+- Nottingham Forest
+- PSG
+- Paris St-Germain
+- Premier League
+- Real Madrid
+- Spurs
+- Tonali
+- Tottenham
 ---
 
 ![Elliot Anderson, Morgan Rogers and Sandro Tonali](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2a0b/live/391a0f20-a611-11f1-a291-b542ee92de7c.png)

@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- '#### Store'
+- Baxtergate
+- Juliet
+- Juliette
+- New Quay Road
+- Whitby
+people: []
+organisations:
+- Barclays Bank
+- Baxtergate
+- North Yorkshire Council
+- Post Office
+- Whitby Civic Society
+- Whitby Town Council and North Yorkshire Council
+- Yorkshire Trading Company
 ---
 
 A bargain shop in Whitby has revised its expansion plans in the town after a series of objections from local groups and council planners.

@@ -13,6 +13,42 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- AI
+- China
+- Georgia
+- Sen
+- Silicon Valley
+- U.S.
+- U.S.A.
+- Vermont
+people:
+- AI
+- Barack Obama
+- Bernie Sanders
+- Carlo Rovelli
+- Dario Amodei
+- Donald Trump
+- Evan Hubinger
+- Jacob Coxon
+- Joe Rogan
+- Jon Ossoff
+- Leakers
+- Mike Johnson
+- Sam Altman
+- Steve Bannon
+- Todd Blanche
+- Treasonists
+organisations:
+- AI
+- Amodei
+- Anthropic
+- Elon Musk
+- House
+- MAGA
+- OpenAI
+- Truth Social
+- United Nations
 ---
 
 Podcaster Joe Rogan has offered his own take on the debate over artificial intelligence, saying he looks forward to the technology replacing humans in government and bringing an end to all wars.

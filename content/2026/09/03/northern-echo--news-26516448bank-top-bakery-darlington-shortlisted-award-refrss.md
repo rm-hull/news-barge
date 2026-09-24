@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bishop Auckland
+- Carlisle
+- Dalston Road
+- Darlington
+- Middlesbrough
+- Victoria Road
+people:
+- Billy Lees
+- Colin Jepson
+- Paul Hope
+- Tracey
+- William Lees
+organisations:
+- 5NP
+- Bank Top Bakery
+- Darlington Picture
+- LOCALLY House
+- The Northern Echo
 ---
 
 A Darlington bakery says it cannot keep up with demand for its school cake and custard slices as customers flock in for traditional favourites.

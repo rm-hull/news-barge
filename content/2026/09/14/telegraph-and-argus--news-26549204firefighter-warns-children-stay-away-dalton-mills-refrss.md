@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Bradford
+- Dalton Lane
+- Dalton Mills
+- Grade II
+- Keighley
+- West Yorkshire
+people:
+- '### Dalton Mills'
+- Benjy Bush
+- Dalton Mills
+- Mike Simmonds
+organisations:
+- Crown Estate
+- Dalton Mills
+- Telegraph & Argus
+- West Yorkshire Fire and Rescue Service
 ---
 
 A top firefighter is pleading with parents to keep "curious children" away from from a "very unstable" disused mill after repeated fires at the historic site.

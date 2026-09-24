@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Music
 - Sports
+locations:
+- UK
+- US
+people:
+- Anthonia Edwards
+- Danny Jones
+- Destiny
+- Elizabeth II
+- Jessie J
+- Kelly Rowland
+- Kylie Minogue
+- Leanne Mitchell
+- McFly
+- Olly Murs
+- Rita Ora
+- Ruti Olajugbagbe
+- Tom Fletcher
+- Tom Jones
+- Will.i.am
+organisations:
+- Destiny's Child
+- Green Green Grass of Home
+- ITV
+- Press Association
+- The Voice
 ---
 
 ![Sir Tom Jones in a blue suit stood in front of a red backdrop with the words The Voice UK on it.](https://ichef.bbci.co.uk/ace/standard/846/cpsprodpb/1159/live/d60f7e30-ab7c-11f1-8e51-e5fcf5842a15.jpg)

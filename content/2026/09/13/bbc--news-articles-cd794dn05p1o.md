@@ -12,6 +12,53 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- China
+- England
+- Kremlin
+- Kyiv
+- Poland
+- UK
+- US
+- Ukraine
+people:
+- '!["Boris'
+- '!["Labour'
+- '!["Souness'
+- Al
+- Andy Burnham
+- Boris Johnson
+- Céline Dion
+- Donald Trump
+- Elon Musk
+- Nigel Farage
+- Sam Altman
+- Sharon Graham
+- Vlad
+- Vladimir] Putin
+organisations:
+- '!["Reform'
+- '!["Trump'
+- Conservative Party
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Financial Times
+- Financial Times.
+- Guardian
+- House of Lords
+- Joint Committee on Human Rights
+- Labour
+- Metro
+- Open AI
+- Reform
+- Sun
+- Tesla
+- Unite
 ---
 
 !["No ice cream and compulsory lentils in school meal shake-up," reads the headline on the front page of the Daily Telegraph.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a7c2/live/348aa550-afbc-11f1-bc1f-3f186ca4140c.jpg)

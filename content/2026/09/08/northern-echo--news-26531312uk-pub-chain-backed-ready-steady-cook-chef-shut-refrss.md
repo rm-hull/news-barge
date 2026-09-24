@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Ireland
+- UK
+people:
+- Ainsley Harriott
+- Brian Turner
+- Deborah Cutler
+- Fern Britton
+- Whitbread
+organisations:
+- 89 Brewers Fayre
+- BBC 2
+- Beefeater
+- Beefeaters
+- Brewers Fayre
+- Marketing Week
+- Oxford South Milton Interchange
+- Premier Inn
+- Whitbread
+- Wikimedia Commons
+- Wikimedia UK
 ---
 
 *(Image: Wikimedia Commons)*

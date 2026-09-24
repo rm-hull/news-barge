@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Gateshead
+- York
+people:
+- Askham Bryan
+- Claire Pullan
+- Yvette Foulds-Davis
+organisations:
+- Askham Bryan College
+- Askham Bryan College’s Foundation Degree
+- Clearing
+- FdSc
+- RCVS Register of Veterinary Nurses
+- RVNs
+- Registered Veterinary Nurses
+- Royal College of Veterinary Surgeons
+- Veterinary Nursing
 ---
 
 A veterinary nursing degree has secured full accreditation from the Royal College of Veterinary Surgeons (RCVS).

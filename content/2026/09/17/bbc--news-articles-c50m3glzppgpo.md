@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Canada
+- England
+- England.
+- Hill Dickson Stadium
+- Liverpool
+- UK
+- United Kingdom
+people:
+- Alison McGovern
+- Alzheimer
+- Andy Burnham
+- Baroness Casey
+- Baroness Louise Casey
+- Mark Carney
+- Mike Richards
+- Roy
+- Wes Streeting
+organisations:
+- Alzheimer's Society
+- BBC
+- Everton
+- King's Trust
+- NHS
+- National Health Service
+- Wolverhampton Wanderers
 ---
 
 ![Britain's Prime Minister Andy Burnham attends a meeting with Canada's Prime Minister Mark Carney (not pictured) ahead of the Everton v Wolverhampton Wanderers English League Cup football match at Hill Dickson Stadium in Liverpool, Britain, 16 September 2026.

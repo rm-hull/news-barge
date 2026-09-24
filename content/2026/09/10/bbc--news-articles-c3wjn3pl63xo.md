@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Health & Fitness
+locations:
+- AI
+- Britain
+- UK
+people:
+- Alastair Denniston
+- Henrietta Hughes
+- Lawrence Tallon
+- Prof Hughes
+- Rene Haas
+organisations:
+- AI
+- Arm
+- BBC
+- GP
+- GPs
+- MHRA
+- Medicines and Healthcare Products Regulatory Agency
+- NHS
+- University of Edinburgh
 ---
 
 ![A woman in a doctor's office. The doctor is wearing a stethoscope and talking to the patient.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg)

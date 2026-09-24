@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Holborn
+- London
+- St Pancras
+people:
+- Andy Burnham
+- Keir Starmer
+- Nigel Farage
+- Zach Polanski
+organisations:
+- Green Party
+- Labour
 ---
 
 *(Image: PA MEDIA)*

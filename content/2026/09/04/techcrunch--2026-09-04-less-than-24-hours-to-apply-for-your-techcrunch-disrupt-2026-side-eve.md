@@ -12,6 +12,14 @@ image: https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bay Area
+- San Francisco
+- Silicon Valley
+people: []
+organisations:
+- Disrupt
+- TechCrunch
 ---
 
 The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026. Applications close tonight at midnight PT.

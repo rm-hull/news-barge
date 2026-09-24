@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Nashville
+people:
+- Caleb Followill
+- Jared Followill
+- Matthew Followill
+- Nathan Followill
+organisations:
+- Kings of Leon
 ---
 
 Kings of Leon return this fall with a new album that's a bit of a left turn, sonic-wise. And for that, you can thank a game of tag that went, well, sideways.

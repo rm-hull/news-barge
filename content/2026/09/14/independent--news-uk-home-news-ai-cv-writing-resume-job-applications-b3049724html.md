@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people:
+- Peter Duris
+organisations:
+- AI
+- CV
+- CVs
+- Kickresume
 ---
 
 Jobseekers are increasingly using artificial intelligence to apply for jobs – but leaving AI in charge of your applications could be a hindrance to securing new roles, new research suggests.

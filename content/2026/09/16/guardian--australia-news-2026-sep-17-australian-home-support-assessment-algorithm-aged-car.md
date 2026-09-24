@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people:
+- Anne Ruston
+- Greg Pugh
+- Mark Butler
+- Rachel Blackwood
+- Sam Rae
+organisations:
+- Aged Care Needs Assessment Organisations
+- Coalition
+- FoI
+- Guardian Australia
+- House
+- IAT
+- Labor
+- Senate
+- State and Territory Governments
 ---
 
 Senior department of health officials were in turmoil before the rollout of an algorithm to determine funding packages for older Australians, after discovering legislation had been drafted so rigidly that the tool could not legally be overridden by aged care assessors.

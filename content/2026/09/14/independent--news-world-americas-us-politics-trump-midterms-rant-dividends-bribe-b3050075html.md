@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/14/11/ab254c8c8b113147e7ae09eb0b
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Louisiana
+- Texas
+people:
+- Donald Trump
+- Dumocrats’
+- Mike Johnson
+organisations:
+- CNN
+- Congress
+- House
+- Military Patriots
+- People of our Country
+- Senate
+- State of the Union
+- Treasury Departmentpegs
+- Trump
+- Truth Social
 ---
 
 President Donald Trump on Monday complained that Democrats’ efforts to win a majority in Congress in the November midterm elections are blocking his plan to reward voters for electing Republicans with $5,000 payments to every American adult.

@@ -14,6 +14,34 @@ categories:
 - Technology & Software
 - Comedy & Entertainment
 - Film & TV
+locations: []
+people:
+- DankChains
+- Digger Rockwell
+- Ganesh
+- God
+- I'mma Duck
+- Jason Pargin
+- John Dies
+- Larry Matovina
+- Luvkaters
+- Regelgorilla
+- Riz Ahmed
+- Slavin
+- Tanner
+- Tom Cruise
+organisations:
+- '2026'
+- Cruise
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
+- Warner Bros
 ---
 
 ![Tom Cruise's Digger Rockwell and Riz Ahmed's Ganesh looking down into the camera in Digger](https://cdn.mos.cms.futurecdn.net/tgr8gky2wzrRagRMG7TAK7.jpg) 

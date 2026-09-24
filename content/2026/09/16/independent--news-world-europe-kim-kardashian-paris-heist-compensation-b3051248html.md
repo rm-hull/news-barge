@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- France
+- Hôtel de Pourtalès
+- Paris
+- US
+people:
+- Givenchy
+- Kim Kardashian
+- Mohand Ouidja
+- Simone Bretter
+organisations:
+- AP
+- The Associated Press.
 ---
 
 Kim Kardashian was awarded symbolic compensation of 1 euro ($1.15) by a Paris court on Tuesday following her 2016 armed robbery in the French capital, matching the precise amount she had requested, according to a lawyer involved in the ongoing legal proceedings.

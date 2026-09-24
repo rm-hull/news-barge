@@ -11,6 +11,14 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/04/york-fire-engine-close-up.webp
+locations:
+- North Duffield**
+- North Yorkshire
+- Selby
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Police have been called in after a fire at a North Yorkshire nature reserve today (Sunday).

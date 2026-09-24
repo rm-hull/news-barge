@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/6c7796db29848443195be6b429eb1ed4d6b778e9/604_0_6042_4836/master/6042.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8df254fdbc7cef5504825fb269d90f64
+locations:
+- Blackpool
+- Brent
+- England
+- Great Yarmouth
+- Hampshire
+- Leicester
+- London
+- Mansfield
+- Newham
+- Runnymede
+- Stoke-on-Trent
+- Surrey Heath
+- Warwick
+- Wokingham
+people:
+- Peter Fonagy
+- Sally Gainsbury
+organisations:
+- GPs
+- Nuffield Trust
+- University College London
 ---
 
 Some of the most affluent areas of England have had the sharpest rises in the proportion of young people claiming disability benefits for ADHD and autism since the pandemic, according to new research.

@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- County Durham
+- Easington Lane
+- Shotton Colliery
+people:
+- Anthony Beamson
+organisations:
+- A182
+- A66
+- Volkswagen
 ---
 
 *(Image: PA MEDIA)*

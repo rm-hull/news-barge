@@ -11,6 +11,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Macworld New York
+- Wall Street
+people:
+- John Ternus
+- Steve Jobs
+- Tim Cook
+- Walt Mossberg
+organisations:
+- AI
+- Apple
+- Compaq
+- Gateway
+- Jobs
+- Mac
+- PC
+- Ternus
+- iPod
 ---
 
 Apple CEO John Ternus wants you to know that the iPhone isn’t going anywhere.

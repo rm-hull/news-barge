@@ -12,6 +12,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Britain
+- Downing Street
+- Iran
+- London
+- UK
+- Westminster
+people:
+- Andy Burnham
+- John Healey
+- Julia Lopez
+- Rachel Reeves
+- Suren Thiru
+organisations:
+- BAE
+- HSBC
+- Institute of Chartered Accountants England
+- Labour
+- Morrisons
+- Octopus Energy
+- Revolut
+- Rolls-Royce
+- Shell
+- Starling Bank
+- Wales
 ---
 
 Andy Burnham is set to call for a “culture shift” on Monday when he meets business leaders at Downing Street to pledge backing for entrepreneurs.

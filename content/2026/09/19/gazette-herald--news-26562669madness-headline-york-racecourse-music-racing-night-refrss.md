@@ -13,6 +13,18 @@ categories:
 - York
 - Music
 image: https://www.gazetteherald.co.uk/resources/images/21473474.jpg?type=og-image
+locations:
+- Knavesmire
+- Our House
+- UK
+- US
+- York Racecourse
+people:
+- Baggy Trousers
+- James Brennan
+organisations:
+- Madness
+- York Racecourse
 ---
 
 Legendary ska-pop band Madness will headline an evening of live racing and music at York Racecourse, it has been announced.

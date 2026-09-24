@@ -11,6 +11,40 @@ image: https://static.independent.co.uk/2026/09/17/13/16/Screenshot-2026-09-17-a
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Arizona
+- Dallas
+- Iran
+- Israel
+- Michigan
+- Minab
+- New Jersey
+- Texas
+- U.S.
+- US
+- United States
+people:
+- Abdul El-Sayed
+- Alex Thompson
+- David Duke
+- Dems
+- Donald Trump
+- Hakeem Jeffries
+- Hasan Piker
+- Katie Britt
+- Nick Fuentes
+- Tom Bonier
+organisations:
+- Axios
+- Democratic Party
+- Hamas
+- House
+- Newsweek
+- Pentagon
+- Senate
+- U.N.
+- al-Qaeda
 ---
 
 Far-left streamer Hasan Piker said the United States is “pound for pound” worse than al-Qaeda, the Islamist terrorist network that carried out the 9/11 attacks.

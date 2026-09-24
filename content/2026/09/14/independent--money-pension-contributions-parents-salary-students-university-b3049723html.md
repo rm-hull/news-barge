@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- England
+- St. James’s Place
+people:
+- Alexandra Loydon
+- Fred Powell
+organisations:
+- Child Trust Funds
+- Head of Current Accounts at Nationwide
+- Nationwide Building Society
+- PensionBee
 ---
 
 Four in five parents of university-going students have made some sort of financial sacrifice to help their children attend, new research has shown.

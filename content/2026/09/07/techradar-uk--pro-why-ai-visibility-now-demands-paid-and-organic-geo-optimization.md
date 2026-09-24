@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Amazon
+people:
+- Andy Jassy
+organisations:
+- ACO
+- AEO
+- AI
+- Alexa for Shopping
+- Amazon
+- Azoma
+- Future plc
+- GEO
+- Google
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A small business owner calculating income and return on investment in percentage using a calculator from a home office.](https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d.jpg) 

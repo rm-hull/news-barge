@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21470708.jpg?type=og-image
+locations:
+- Castle Bryher
+- County Durham
+- Crossgate Moor
+- Heighington
+- Rushyford
+- Ryan James
+people: []
+organisations:
+- Ryan James Estate Agents
 ---
 
 *(Image: Ryan James Estate Agents)*

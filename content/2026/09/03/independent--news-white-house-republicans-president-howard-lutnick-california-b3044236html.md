@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Boston
+- California
+- Dallas
+- Florida
+- Gulf of Mexico
+- Iran
+- Lafayette Park
+- Los Angeles
+- Rose Garden
+- Santa Barbara
+- Texas
+- U.S.
+- US
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Ashley Etienne
+- Delcy Rodríguez
+- Donald Trump
+- Hakeem Jeffries
+- Howard Lutnick
+- Indira Talwani
+- Jeffrey Epstein
+- Leon Black
+- Nancy Pelosi
+- Nicolás Maduro
+- Susan Estrich
+organisations:
+- Black
+- CNBC
+- California Coastal Commission
+- Commerce
+- Congress
+- East Wing
+- Executive Mansion
+- House Oversight Committee
+- Labor Department
+- National Capital Planning Commission
+- Postal Service
+- Trump
+- U.S. Commission of Fine Arts
+- U.S. District Court
+- U.S. Postal Service
+- US Postal Service
 ---
 
 President Donald Trump urged Republican lawmakers facing tough reelection campaigns to run on his record in the White House despite his sagging popularity, and he pledged to campaign in all of the roughly three dozen contests that are likely to determine control of Congress.

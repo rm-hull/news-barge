@@ -13,6 +13,21 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/06/09/23/01KTQ2YBR9G0TQ1Q98NGNZ4J1P.jpg?trim=45,0,46,0&width=1200&height=800&crop=1200:800
+locations:
+- Cambridge Magistrates’ Court
+- Chigwell
+- England
+- Essex
+- Switzerland
+people:
+- Aaryan Aggarwal
+- Grace Court
+- Jess Carter
+- Nigel Dewale
+organisations:
+- Chelmsford Magistrates’ Court
+- England
+- Sweden
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- U.S.
+- U.S.A.
+- United States
+people:
+- Beth Hammack
+- Dallas' Lorie Logan
+- Donald Trump
+- Kevin Warsh
+- Minneapolis' Neel Kashkari
+organisations:
+- Bureau of Labor Statistics
+- Cleveland
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
+- Fitch
+- Moody's
+- S&P
+- Supreme Court
+- Trump
+- Truth Social
+- U.S. Treasury
 ---
 
 President Donald Trump threatened to halt trade with every country that runs a surplus with the United States unless the Federal Reserve cuts interest rates, tying together two things that are not connected by any mechanism of American economic policy.

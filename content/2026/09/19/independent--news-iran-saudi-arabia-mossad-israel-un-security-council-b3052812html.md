@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/19/08/Mideast_Wars_Yemen_3_833.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Isfahan
+- Israel
+- Middle East
+- Riyadh
+- Saudi Arabia
+- U.S.
+- Yemen
+people:
+- Hossein Pedram
+organisations:
+- Mossad
+- U.N.
+- UN Security Council
 ---
 
 Saudi Arabia warned of a “hostile aerial threat” and issued a string of emergency alerts across the kingdom, including in its capital, late Friday and early Saturday.

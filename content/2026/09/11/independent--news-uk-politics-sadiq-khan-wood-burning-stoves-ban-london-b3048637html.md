@@ -12,6 +12,19 @@ image: https://static.independent.co.uk/2026/09/04/12/01M1P2XAZAEHJDDTMBA12DVDK5
 categories:
 - News & Politics
 - UK
+locations:
+- London
+people:
+- James Cleverly
+- Lord Khan
+- Sadiq Khan
+organisations:
+- Defra
+- Department for Environment, Food and Rural Affairs
+- The Telegraph
+- UCL
+- Ulez
+- University College London
 ---
 
 Sadiq Khan is pushing to ban wood-burning stoves in parts of London as he ramps up clean air efforts in the capital, according to reports.

@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Church Street
+- Commercial Street
+- Hull
+- Malton
+- Mill Street
+- North Yorkshire
+- Norton
+- Peasey Hill
+- St Nicholas Street
+- T-junction
+- Welham Road
+- Wold Street
+- Wood Street
+people:
+- Mike Williams
+organisations:
+- BP Petrol Station
+- Gazette & Herald
+- Lidl
+- Malton
 ---
 
 *(Image: Freelancer)*

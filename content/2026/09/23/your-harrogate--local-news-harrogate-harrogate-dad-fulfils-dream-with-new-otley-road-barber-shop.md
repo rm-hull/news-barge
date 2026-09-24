@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 image: https://mmo.aiircdn.com/409/6ab3925273c268caf8c.jpg
+locations:
+- Harrogate
+- Otley Road
+people:
+- Vadim Sagin
+organisations:
+- The Old House Barber
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab3925273c268caf8c.jpg)

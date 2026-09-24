@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Australia
+- Bondi Beach
+- ROI
+- Sydney
+- UK
+- Waverley
+people:
+- Jonathan
+- Matt Dee
+- Rachel Bridger Dee
+- Trent Maxwell
+organisations:
+- Bondi Rescue
+- Instagram
+- Samaritans
+- Suicide Prevention Australia
 ---
 
 Matt Dee, a former lifeguard on Bondi Rescue, has passed away.

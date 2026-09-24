@@ -12,6 +12,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford Moor Park
+- Gazz Hall
+- Killinghall Road
+people: []
+organisations:
+- Gazz Hall
+- MCET
+- Major Collision Enquiry Team
+- Newsquest
+- T&A
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Gazz Hall)*

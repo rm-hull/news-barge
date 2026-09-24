@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- County Durham
+- Darlington
+- London
+- Newcastle
+- North East
+- North Tyneside
+- Teesside
+people:
+- Harvey McWillams
+- Harvey McWilliams
+- Luke
+- Michael McWilliams
+organisations:
+- Arthur Wharton Foundation
+- Charity of the Year
+- Harvey McWilliams Foundation
+- Sunderland
+- University of Exeter
 ---
 
 *(Image: FAMILY)*

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Coventry
+- UK
+- West Midlands
+- West Midlands'
+people:
+- John Healey
+- Jonathan Reynolds
+- Laura Kuenssberg
+- Richard Parker
+- Sharon Graham
+- Simon Jack
+organisations:
+- BBC
+- JLR
+- Jaguar Land Rover
+- Times
+- Unite
 ---
 
 ![A silver Land Rover Defender parked on a road](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ded7/live/5b81c800-a9db-11f1-803f-7f2a9199ddc4.jpg)

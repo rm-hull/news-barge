@@ -13,6 +13,34 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/11/Transgender_Health_What_to_Know__6625.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Mount Sinai
+- New York
+- Ohio
+- Texas Children's Hospital
+- U.S.
+people:
+- Donald Trump
+- Eliel Cruz
+- Todd Blanche
+organisations:
+- '## Hospitals'
+- 9th U.S. Circuit Court of Appeals
+- American Academy of Pediatrics
+- American Medical Association
+- Cleveland Clinic
+- Connecticut Children’s Hospital
+- Department of Justice
+- Gender Liberati
+- Gender Liberation Movement
+- Justice Department
+- MAGA
+- Mount Sinai Health System
+- NYU Langone
+- New York University Langone Hospitals
+- Trump
+- UPMC
+- University of Pittsburgh Medical Centers
 ---
 
 According to Department of Justice settlements, at least six major healthcare facilities have agreed to refuse gender-affirming surgery and hormones for young transgender patients. Under the pacts, institutions will instead remit funds to the federal government for patients seeking to reverse transition procedures.

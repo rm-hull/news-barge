@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Britain
+- Hollywood
+- Junction Goole
+people:
+- David Westhead
+- Graham Whitehead
+- Ms Channing
+- Samuel Beckett
+- Stockard Channing
+organisations:
+- Grease
+- Head of Arts & Culture
+- Junction Goole
+- The West Wing
 ---
 
 A world-class theatre production directed by Hollywood star Stockard Channing is coming to Goole this autumn.

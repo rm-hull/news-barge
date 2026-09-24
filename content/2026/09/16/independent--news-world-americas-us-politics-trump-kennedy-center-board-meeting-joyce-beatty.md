@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/08/27/11/2281284410..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Kennedy Center
+- White House
+people:
+- Christopher R. Cooper
+- Donald J. Trump
+- Donald Trump
+- Joyce Beatty
+- Kennedy
+- Liz Huston
+organisations:
+- Congress
+- Department of Justice
+- Justice Department
+- Kennedy Center
+- MSNOW
+- The Independent
+- The John F. Kennedy Center for the Performing Arts
+- Truth Social
 ---
 
 The congresswoman leading a legal battle against Donald Trump’s attempts to rename the Kennedy Center after himself said the president flew into a “tantrum" and repeatedly insulted her during a board meeting on the venue’s closure.

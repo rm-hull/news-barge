@@ -11,6 +11,36 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/ALFIE-BOE-CREDIT-XRayBurmiston.webp
+locations:
+- Australia
+- Britain
+- Broadway
+- Chicago
+- China
+- Covent Garden
+- New York
+- North Yorkshire
+- Royal Opera House
+- Sunset Boulevard
+- West End
+people:
+- Alfie Boe
+- Cuffe
+- Jean Valjean
+- Julian Murray
+- Kerry Ellis
+- Louise Dearman
+- Rachel Tucker
+- Taylor
+organisations:
+- '***Gravity***'
+- Les Misérables
+- Radio City Music Hall
+- Royal College of Music
+- Scarborough OAT
+- Scarborough Open Air Theatre
+- Ticketmaster
+- West End
 ---
 
 Join West End and Broadway star Alfie Boe for a dazzling night on the North Yorkshire coast.

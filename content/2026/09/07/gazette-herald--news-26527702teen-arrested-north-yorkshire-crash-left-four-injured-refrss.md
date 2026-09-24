@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- B1249 Main Street
+- Foxholes
+- North Yorkshire
+- Ryedale
+- Scarborough
+- Seat Leon
+people:
+- Jamie Broadbent
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 A driver has been arrested following a serious crash that left multiple people injured.

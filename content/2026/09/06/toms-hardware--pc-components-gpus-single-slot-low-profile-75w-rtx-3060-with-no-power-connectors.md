@@ -13,6 +13,19 @@ image: https://cdn.mos.cms.futurecdn.net/Cw3EjojmcM2CtTBQDSUqRC-1280-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- BiliBili
+- China
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- AMD
+- GPU
+- Google News
+- Nvidia
+- PCB
+- TDP
 ---
 
 ![A 75W RTX 3060 with no power connectors](https://cdn.mos.cms.futurecdn.net/Cw3EjojmcM2CtTBQDSUqRC.jpg) 

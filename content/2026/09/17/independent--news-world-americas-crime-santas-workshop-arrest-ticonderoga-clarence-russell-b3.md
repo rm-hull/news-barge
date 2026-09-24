@@ -11,6 +11,28 @@ image: https://static.the-independent.com/2026/09/17/18/10/Clarence-Russell.jpeg
 categories:
 - News & Politics
 - UK
+locations:
+- Franklin County
+- New York
+- Santa Claus
+- Ticonderoga Town Court
+- Wilmington park
+people:
+- Clarence Russell
+- Eric Arthurs
+- Kourtney
+- Paul Smiths
+- Santa Claus
+organisations:
+- Adirondack Daily Enterprise
+- Albany
+- CBS
+- Facebook
+- Santa Claus
+- Santa’s Workshop
+- The Independent
+- Ticonderoga Police
+- Ticonderoga Police Department
 ---
 
 A 75-year-old man who portrayed Santa Claus at a Christmas-themed amusement park faces multiple felony charges following allegations that he attempted to arrange sexual encounters with children over the internet.

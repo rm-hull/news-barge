@@ -12,6 +12,23 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
+locations:
+- China
+- U.S.
+people:
+- Jensen Huang
+- Kash Patel
+- Tom
+- Trump
+organisations:
+- AI Force
+- Alibaba
+- FBI
+- Get Tom's Hardware
+- Huawei
+- Nvidia
+- OpenAI
+- Robocurve
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png)

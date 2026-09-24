@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- St. Louis
+people:
+- Keisha Holliday
+- Marvin McGee
+- Torrey Holliday
+organisations:
+- FOX 2
+- St. Louis Housing Authority
+- The Independent
 ---
 
 A St. Louis resident who uses a wheelchair faces immediate eviction following a lobby shooting that police classified as an act of self-defense against an armed intruder.

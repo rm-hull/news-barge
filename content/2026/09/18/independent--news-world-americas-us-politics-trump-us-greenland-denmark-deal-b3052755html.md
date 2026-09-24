@@ -12,6 +12,30 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/21/19/GettyImages-2256771743.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Arctic
+- China
+- France
+- Germany
+- Greenland
+- Russia
+- The Kingdom of Denmark
+- U.S.
+- United Kingdom
+- United States
+- United States of America
+- White House
+people:
+- Donald Trump
+organisations:
+- Air Force One
+- Allies
+- American People
+- Greenland
+- NATO
+- Trump
+- Truth Social
+- UN Charter
 ---
 
 President Donald Trump has announced an agreement with Greenland, in which the U.S. will take permanent control of the Arctic island’s security.

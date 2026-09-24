@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Holborn
+- Manor of Northstead
+- North Yorkshire
+- PA
+- Scarborough
+- St Pancras
+- UK
+people:
+- Anttoni James Numminen
+- Bailiff
+- Bailiffs
+- Keir Starmer
+- Mulgrave
+- Nigel Farage
+- Steward
+organisations:
+- Bailiffs
+- Camden New Journal
+- Chiltern Hundreds
+- Crown Steward
+- Exchequer
+- House of Commons
+- Manor of Northstead
+- Reform UK
+- The Press
+- The Steward
+- Three Hundreds of Chiltern”
+- Veruccajunction
 ---
 
 ## Decision on Keir Starmer’s appointment to job in North Yorkshire

@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- North Carolina
+- United States
+people:
+- Donald Trump
+- FAUCI
+- James Comey
+- Kash Patel
+- Tyler Breuch
+organisations:
+- Alpha News
+- CBS News
+- DOJ
+- Department of Justice
+- FBI
+- ICE
+- Instagram
+- Justice Department
+- Merriam-Webster
+- Minnesota Star Tribune
+- Minnesota State Fair
+- The Independent
+- Trump
 ---
 
 A piece of art protesting President Donald Trump using the numbers “8647” was removed from the Minnesota State Fair after the artist allegedly received death threats.

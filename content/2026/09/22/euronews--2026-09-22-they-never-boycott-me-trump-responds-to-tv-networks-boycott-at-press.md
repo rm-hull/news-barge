@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://images.euronews.com/articles/stories/09/92/26/74/1200x675_cmsv2_4432dbd3-eff5-5601-83aa-84c09b8c0c90-9922674.jpg
+locations:
+- Gracie Mansion
+- New York
+- US
+- White House
+people:
+- Donald Trump
+- Zohran Mamdani
+organisations: []
 ---
 
 US President Donald Trump and New York Mayor Zohran Mamdani spoke to reporters after their meeting at Gracie Mansion in New York.

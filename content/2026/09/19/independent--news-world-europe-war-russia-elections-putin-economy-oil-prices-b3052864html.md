@@ -12,6 +12,44 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/18/05/Russia_Election_Economy_44513.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Kremlin
+- Moscow
+- Mulino
+- Nizhny Tagil
+- Red Square
+- Russia
+- Soviet Union
+- St. Petersburg
+- US
+- Udmurtia
+- Ukraine
+- Urals
+- Uralvagonzavod
+- Volga River
+people:
+- Alexander Vertukhin
+- Andrei Belousov
+- Andrei Klepach
+- Chris Weafer
+- Dmitry Kirillin
+- Dmitry Peskov
+- Janis Kluge
+- Torbjörn Becker
+- Vladimir Putin
+- Yunus-Bek Yevkurov
+organisations:
+- Centre for Strategic & International Studies
+- German Institute for International and Security Affairs
+- Kupol
+- Levada Centre
+- Lukoil
+- Macro-Advisory Ltd
+- Ozon
+- Stockholm School of Economics
+- VEB.RF
+- Wildberries
 ---
 
 Mounting defence expenditure is widening Russia’s budget deficit and increasing strain across its wartime economy, as business and consumer sentiment weakens and economic growth slows.

@@ -11,6 +11,24 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/add8/live/9297cc
 categories:
 - UK
 - News & Politics
+locations:
+- Bude
+- Cornwall
+- Cotswold
+- Daylesford Estate
+- Daylesford House
+- Gloucestershire
+- Palestine
+- Southwark Crown Court
+- Westminster Cathedral
+people:
+- Boris Johnson
+- Carrie Johnson
+- Christiaan Moll
+- Johnsons
+- Tim Speers
+organisations:
+- Palestine Action
 ---
 
 ![Boris Johnson standing next to his wife Carrie with his arm around her. He is wearing a black suit, white shirt and blue tie. Carrie is wearing a lace wedding dress with intricate detailing down the middle and on the sleeves. She is also wearing a white rose flower crown and smiling at her husband. They are standing on an outdoor staircase surrounded by foliage and flowers.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/add8/live/9297cc10-ccea-11ef-94cb-5f844ceb9e30.jpg)

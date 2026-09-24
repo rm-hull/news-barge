@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- A20
+- Jubilee Way
+- Limekiln
+- Port of Dover
+- UK
+- Walmer
+- York Street
+people:
+- Chris Vinson
+- Mike Tapp
+organisations:
+- A2
+- A20
+- A256
+- DFDS
+- Dover District Council
+- Dover and Deal
+- Facebook
+- Kent Police
+- Labour
+- M20
+- National Highways
+- P&O Ferries
+- Patriot Platform
+- Southeastern
+- The Telegraph
 ---
 
 Officers are currently “engaging” with protesters clad in balaclavas blocking access to the Port of Dover, Kent Police has said.

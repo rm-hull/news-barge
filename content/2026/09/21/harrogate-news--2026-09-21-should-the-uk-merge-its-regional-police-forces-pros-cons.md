@@ -14,6 +14,27 @@ categories:
 - History
 - Sports
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Harrogate-Police-Station.webp
+locations:
+- England
+- Humber
+- North Yorkshire Police
+- UK
+- Wales
+people: []
+organisations:
+- Association of Police and Crime Commissioners
+- Council Tax
+- Democratic Oversight Public
+- Home Office
+- Humberside Police
+- Police Federation
+- Police and Crime Commissioner
+- Police and Crime Commissioners
+- ROCU
+- South Yorkshire Police
+- The Cons
+- West Yorkshire Police
+- Yorkshire Strategic Force
 ---
 
 The question of whether to combine smaller regional police forces into larger “super forces” remains one of the most contentious debates in modern UK public policy. Currently, policing across England and Wales is fractured into 43 distinct geographic forces, a structural layout dating back to the Police Act of 1964. As the nature of crime shifts toward borderless digital environments and complex cross-border networks, proposals for widespread force consolidations continue to face intense scrutiny.

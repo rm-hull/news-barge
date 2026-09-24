@@ -14,6 +14,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Midtown
+- Missouri
+- St. Louis
+people:
+- David Lambiaso
+- Elyse Schaeffer
+- Kerry McCullen
+organisations:
+- Eco-Socialist Green Party of Eastern Missouri
+- KSDK
+- Lambiaso
+- Missouri Coalition for the Environment
+- St. Louis Board of Adjustment
+- St. Louis City Counselor’s Office
+- St. Louis Post-Dispatch
+- TerraWatt
+- The Independent
 ---
 
 The developer of a proposed $3.1 billion data center in St. Louis, Missouri, has sued a board that handles city zoning after the five-member panel required the company to supply renewable energy on-site.

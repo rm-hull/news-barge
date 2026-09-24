@@ -14,6 +14,23 @@ categories:
 - Technology & Software
 - Video Gaming
 - Business & Entrepreneurship
+locations:
+- New Zealand
+- Roblox
+- Serbia
+- Singapore
+- U.S.
+people:
+- David Baszucki
+organisations:
+- Airwallex
+- Build
+- RDC
+- Roblox Card
+- Roblox Developer Conference
+- Roblox Roblox
+- Roblox Studio
+- Roblox Wallet
 ---
 
 At its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-creation tools, expanded NPC (non-player character) capabilities, and the ability to make games available across platforms, including the web. The company is also launching a dedicated Roblox Card and Roblox Wallet for creators.

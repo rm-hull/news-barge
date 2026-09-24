@@ -16,6 +16,19 @@ categories:
 - Society & Culture
 - Technology & Software
 - News & Politics
+locations:
+- Eyre Street
+- Sheffield
+people:
+- Coun Johnson
+- Douglas Johnson
+- Liz Sharp
+organisations:
+- Greens
+- Lowcock
+- Sheffield Council
+- Street Tree Partnership
+- University of Sheffield,said
 ---
 
 # 'Damaging' Sheffield trees saved from felling amid concerns over street shade

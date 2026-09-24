@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/03/13/2291623947..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Israel
+- Michigan
+- New York City
+- U.S.
+- Washington
+people:
+- Abdul El-Sayed
+- D.C. Carlson
+- Donald Trump
+- Elissa Slotkin
+- Haley Stevens
+- Jesse Watters
+- Mike Rogers
+- Rogers’
+- Saagar Enjeti
+- Tucker Carlson
+- Zohran Mamdani
+organisations:
+- AIPAC
+- America First
+- American Israel Public Affairs Committee
+- Enjeti
+- Fox News
+- House Intelligence Committee
+- Senate
 ---
 
 Tucker Carlson has unexpectedly praised Michigan Democratic Senate candidate Abdul El-Sayed, calling his platform “literally Trumpian” and saying he would not vote for his GOP rival Mike Rogers “at gunpoint.”

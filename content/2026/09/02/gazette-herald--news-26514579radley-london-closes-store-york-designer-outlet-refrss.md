@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Café Valeria Sicilian
+- Designer Outlet York
+- Radley London
+- UK
+people:
+- Kouzina
+- Paloma Faith
+- Paul Tyler
+- Pippa Middleton
+- Polo Ralph Lauren
+- Tuck
+organisations:
+- '**York McArthurGlen Designer Outlet Fraser Group'
+- Cauldron
+- Designer Outlet York
+- FTI Consulting
+- Gordon Brothers
+- LK Bennett
+- Le Creuset
+- Poundland
+- Radley London
+- Savante
+- Western Entrance
+- York Designer Outlet
 ---
 
 A luxury retailer of handbags loved by celebrities including Pippa Middleton and Paloma Faith has closed its branch at the York Designer Outlet.

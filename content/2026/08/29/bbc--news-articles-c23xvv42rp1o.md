@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cardiff
+- England
+- NHS
+- St David's Hospital
+- Wales
+people:
+- Helen
+- Huw Morgan
+organisations:
+- CAVUHB
+- Cardiff
+- NHS Wales Joint Commissioning Committee
+- NWJCC
+- St David's Hospital
+- Vale University Health Board
+- Welsh Gender Service
 ---
 
 ![St David's Hospital building exterior](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fd7d/live/a29b9ab0-a394-11f1-aed2-8d6da8d75094.png)

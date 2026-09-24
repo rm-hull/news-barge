@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/yqUDvUuEyqbGb9vPDZphgN-1440-80.jpg
 categories:
 - Technology & Software
 - Society & Culture
+locations:
+- US
+people:
+- Craig Hale
+- Hecht
+- Satya Nadella
+organisations:
+- AI
+- Applied Science Brent Hecht
+- Bing
+- Center for Investigative Reporting
+- ChatGPT
+- Copilot
+- Craig’s
+- Daily News
+- Google News
+- LLMs
+- Microsoft
+- New York Times
+- OpenAI
+- TechRadar Pro
+- The New York Times
+- Trump
+- US Government
 ---
 
 ![Agentisk AI](https://cdn.mos.cms.futurecdn.net/yqUDvUuEyqbGb9vPDZphgN.jpg) 

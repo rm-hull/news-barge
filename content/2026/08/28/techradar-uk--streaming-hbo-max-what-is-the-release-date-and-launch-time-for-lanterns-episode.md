@@ -13,6 +13,40 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Americas
+- Australia
+- Canada
+- India
+- New Zealand
+- North and South America
+- SGT
+- Singapore
+- UK
+- US
+people:
+- Aaron Pierre
+- Hal Jordan
+- John Stewart
+- Kyle Chandler
+- Lanterns
+- Tom
+organisations:
+- Aaron Pierre-fronted TV
+- DC Universe
+- DCU
+- Disney Plus
+- Google News
+- HBO Max
+- Kyle Chandler
+- Lanterns
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Sky Atlantic
+- Star Wars
+- TechRadar
 ---
 
 ![Aaron Pierre's John Stewart looking at an off-camera Hal Jordan in Lanterns episode 3](https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS.png) 

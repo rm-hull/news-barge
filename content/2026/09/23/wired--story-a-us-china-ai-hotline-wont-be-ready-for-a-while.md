@@ -12,6 +12,38 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/191:100/w_1280,c_limit/politics_us_china_ai_talk.jpg
+locations:
+- Bessent
+- China
+- Moscow
+- Shenzhen
+- US
+- Washington
+- White House
+people:
+- David Sacks
+- Donald Trump
+- Fannie Mae
+- Hank Paulson
+- He Lifeng
+- Howard Lutnick
+- Hugo Lowell
+- Michael Kratsios
+- Scott Bessent
+- Sean Cairncross
+- Wang Qishan
+- Xi Jinping
+organisations:
+- AI Force
+- Center for AI Standards and Innovation
+- Freddie Mac
+- Huawei
+- Inner Loop
+- Nvidia
+- OpenAI
+- Treasury
+- Trump
+- White House AI
 ---
 
 As US president Donald Trump and Chinese president Xi Jinping prepare to meet in Washington for a state dinner at the White House on Thursday, AI has become a top priority. Tech executives from OpenAI and Nvidia have confirmed their attendance at the dinner, as a number of key agenda items are on the table.

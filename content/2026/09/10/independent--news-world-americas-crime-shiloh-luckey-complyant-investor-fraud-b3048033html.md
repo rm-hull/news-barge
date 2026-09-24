@@ -14,6 +14,27 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Anguilla
+- California
+- Caribbean
+- Centre Stage
+- Enercare Centre
+- Florida
+- Fort Lauderdale
+- Inglewood
+- Los Angeles
+- Sunshine State
+- Tesla
+- Toronto
+people:
+- Shiloh Luckey
+organisations:
+- CPA
+- ComplYant App Inc
+- Luckey
+- Tesla
+- U.S. Attorney’s Office
 ---
 
 Federal authorities have arrested a 42-year-old California woman accused of orchestrating a $13.3 million investor fraud scheme involving her startup company, using the illicit proceeds to fund personal luxuries that included a Tesla, an Inglewood home, Super Bowl tickets and a destination wedding.

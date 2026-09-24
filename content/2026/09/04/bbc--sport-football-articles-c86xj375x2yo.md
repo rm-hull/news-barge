@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bellingham
+- Bernabeu
+- England
+people:
+- Jose Mourinho
+- Jude Bellingham
+- Kylian Mbappe
+- Thomas Tuchel
+- Vinicius Jr
+organisations:
+- Chelsea
+- England
+- Jude Bellingham
+- La Liga
+- Malaga
+- Manchester United
+- Real Madrid
+- Real Madrid Bellingham
+- Real Madrid TV
+- Tottenham
 ---
 
 ![Jude Bellingham](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/27e1/live/334893c0-a83a-11f1-b3a7-d5de760fef6e.jpg)

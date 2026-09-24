@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/PrUApkV6FpbonbmaehLSEE-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Matt Bolton
+organisations:
+- Apple TV
+- Creative Bloq
+- Dolby Atmos
+- Dolby Vision
+- Edge
+- Google News
+- Home Tech
+- Matt
+- PC Gamer
+- Sonos Beam Ultra
+- T3
+- TechRadar
 ---
 
 ![The Sonos Beam Ultra on a wooden table](https://cdn.mos.cms.futurecdn.net/PrUApkV6FpbonbmaehLSEE.jpg) 

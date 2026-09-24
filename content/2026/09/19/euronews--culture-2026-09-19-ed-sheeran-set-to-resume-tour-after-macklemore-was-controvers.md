@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Music
 image: https://images.euronews.com/articles/stories/09/91/97/27/1200x675_cmsv2_63b409a2-ed80-54db-a233-2ecceac35df0-9919727.jpg
+locations:
+- Free Palestine
+- Gaza
+- Lincoln Financial Field
+- New Jersey
+- Philadelphia
+- South America
+- US
+people:
+- Aaron Rowe
+- Billie Eilish
+- Ed Sheeran
+- Finneas
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Beoga
+- Kraft
+- New England Patriots
+- Pollstar
 ---
 
 ## Backlash against Sheeran started after he announced that the opening act of his US-leg of the tour, Macklemore, was dropped from the lineup after the American Rapper said “Free Palestine” on-stage at one of the events. Sheeran said the tour promoter was ultimately responsible for the decision.

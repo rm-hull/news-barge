@@ -14,6 +14,41 @@ categories:
 - York
 - Food & Cooking
 - Health & Fitness
+locations:
+- DL7 8PP
+- Fleece
+- High Street
+- North Yorkshire
+- Princes Gate Shopping Park
+- Richmond Road
+- Scott Road
+- Selby Leisure Village
+- St Georges Road
+- YO8 4BL
+people:
+- Denise Thompson
+- Julie Pie
+organisations:
+- Balcony Sports Bar Ltd
+- Brothers Takeaway
+- Chain Lane
+- Cocoa House Limited
+- Copt Hewick Hall
+- Cross Lane
+- DL9 3BA
+- Dog House Sourdough
+- FSA
+- Food Standards Agency
+- HG2 9BP
+- HG4 5DE
+- HG5 0DH
+- Joiners Shop
+- Jumpin Fun
+- Matteo
+- Savoy Cinemas Catterick
+- The County Ground
+- The Shambles Market Place
+- Yorkshire Dessert Table
 ---
 
 *(Image: FSA)*

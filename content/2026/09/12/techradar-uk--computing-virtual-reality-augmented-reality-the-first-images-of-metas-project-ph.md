@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/MA6U4Hhkfsp3yZqDE9bAhh-1920-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Engadget
+- Gizmodo
+- Google News
+- Meta Connect
+- PC Explorer
+- Project Phoenix
+- The Hardware Handbook
+- UploadVR
 ---
 
 ![Meta Quest 3S hands on](https://cdn.mos.cms.futurecdn.net/MA6U4Hhkfsp3yZqDE9bAhh.jpg) 

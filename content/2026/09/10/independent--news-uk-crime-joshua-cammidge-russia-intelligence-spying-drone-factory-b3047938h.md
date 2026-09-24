@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Europe
+- Galsworthy Close
+- London
+- Russia
+- Salisbury
+- Swindon
+- UK
+- Ukraine
+- Westminster Magistrates’ Court
+people:
+- Dan Jarvis
+- Joshua Cammidge
+- Sergei Skripal
+organisations:
+- Counter Terrorism Policing London
+- GRU Volunteer Corps
+- Google Maps
+- Government
+- Metropolitan Police
+- National Security (State Threats
+- Old Bailey
+- Wiltshire Police
 ---
 
 A British national was prepared to sabotage a drone factory in the UK on behalf of Russia’s intelligence services, a court has heard.

@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21483288.jpg?type=og-image
+locations:
+- Bloom
+- Bus
+- County Durham
+- Metro
+- North East
+- Northumberland
+- Northumbria
+- Tanfield Railway
+- Tyne and Wear
+- Weardale Railway
+people:
+- Angela Pickering
+- Geoff Sharp
+organisations:
+- Bishop Auckland
+- Heritage Railway Association
+- Hopetown Darlington
+- RHS Britain
+- Railway Stations
+- Stanley Town Council
+- Tanfield Railway
+- Tanfield Railway Trust
 ---
 
 *(Image: Supplied)*

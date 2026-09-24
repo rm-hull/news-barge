@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Birmingham
+- Brantham Leisure Centre
+- Decoy Pond
+- East Bergholt
+- Essex
+- Hampshire
+- Kelvedon
+- Manningtree
+- Merriam Close
+- River Stour
+- Suffolk
+people:
+- Jessica Gammons
+- Michael Crowley
+- Noah Woods
+- Noah Woods.
+- Tom Pearse
+organisations:
+- CCTV
+- Environment Agency
+- Fire and Rescue Service
+- HM Coastguard
+- Hazardous Area Response Team
+- Metropolitan Police
+- SULSAR
+- Suffolk HART
+- Suffolk Lowland Search and Rescue
+- Suffolk Police
+- Supt Pearse
 ---
 
 ![Noah, a three-year-old boy who has ginger hair. He is pictured sitting on a bed with a grey headboard and is looking directly at the camera and smiling.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/e4d0/live/8a926280-b1f1-11f1-a430-4d16ee157c41.jpg)

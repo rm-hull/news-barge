@@ -14,6 +14,23 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- A66
+- Cleveland
+- England
+people:
+- Luke Myer
+- Matt Storey
+- Matt Storey.
+- Shabana Mahmood
+organisations:
+- Cleveland Police
+- Home Office
+- House of Commons
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- PCC
 ---
 
 # 600 extra police officers ‘come to help’ in Cleveland

@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/16260693.jpg?type=og-image&xType=0&yType=67
+locations:
+- A1
+- County Durham
+- Exhibition Square
+- Gateshead
+- METROCENTRE
+- Metrocentre
+- North East
+- Russell Way
+people:
+- Ernest Jones
+- KEVIN GIBSON
+- Kevin Gibson
+- Samuel
+organisations:
+- A1
+- Boots
+- British Sign Language
+- Chiquito
+- Feeding Families
+- Footasylum
+- Hotel Chocolat
+- JD Sports
+- Kevin Gibson Photography
+- Maki & Ramen
+- Marks & Spencer
+- Metro Retail Park
+- Metrocentre Job Fair
+- Namco Funscape
+- Newcastle United Foundation
+- Next
+- North Yorkshire Army
+- ODEON
+- Pizza Express
+- Pizza Hut
+- Primark
+- Smyths Toys Superstores
+- TK Maxx
+- Thaikhun
+- Wingstop
+- YO!
+- Zara, H&M
 ---
 
 From a weekend shopping trip to dinner and a trip to the cinema, the Metrocentre has been a familiar destination for generations of North East families.

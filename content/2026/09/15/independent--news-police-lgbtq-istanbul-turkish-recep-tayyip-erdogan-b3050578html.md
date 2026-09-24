@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/09/15/15/Turkey_LGBTQ%2B_348_1.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Caglayan
+- Istanbul
+- Mediterranean
+- Strasbourg
+- Turkey
+people:
+- Akin Gurlek
+- Banu Aslan
+- Michael O’Flaherty
+- Pride
+- Recep Tayyip Erdogan
+organisations:
+- Council of Europe
+- Human Rights
+- Istanbul Pride
+- Justice
+- LGBTQ
+- The Associated Press
 ---
 
 Police on Tuesday detained dozens of demonstrators who staged a protest outside a courthouse in Istanbul to demand the release of LGBTQ+ activists taken into custody during a sweeping crackdown days earlier.

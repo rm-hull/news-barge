@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- BradfordHAZ
+- Courtyard
+people:
+- Andrew Judson
+- Lisa Kinch
+organisations:
+- Bradford Council
+- Bradford Heritage Action Zone
+- Darley Street Market
+- HAZ
+- Historic England
+- Womersley’s Ltd
 ---
 
 *(Image: Other)*

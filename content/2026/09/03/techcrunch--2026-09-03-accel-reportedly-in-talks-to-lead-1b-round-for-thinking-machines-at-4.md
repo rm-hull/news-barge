@@ -13,6 +13,25 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- OpenAI
+people:
+- Andreessen Horowitz
+- Lilian Weng
+- Luke Metz
+- Mira Murati
+organisations:
+- AI
+- Accel and Thinking Machines
+- Conviction Partners
+- GV
+- Inkling
+- Lightspeed
+- Machines’
+- Nvidia
+- OpenAI
+- The Information
+- Thinking Machines
 ---
 
 Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday. Existing backer Accel is in talks to lead the fundraise, according to our source and The Information’s reporting.

@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Billingham
+- Grange Avenue
+- London
+- North East
+- Northern Echo
+- Teesside
+people:
+- Ann Ming
+- Billy Dunlop
+- Charlie
+- Dame Sheridan Smith
+- David Blunkett
+- Jack Straw
+- Julie Hogg
+- Lee
+- Maureen Harvey
+- Shabana Mahmood
+- Sheridan Smith
+- Stephen Lawrence
+- Tracie Andrews
+organisations:
+- ITV
+- Justice for Julie
+- North News and Pictures
+- Royal Television Society North East
+- THE NORTHERN ECHO
+- The Northern Echo
+- The Old Bailey
+- White Paper
 ---
 
 *(Image: THE NORTHERN ECHO)*

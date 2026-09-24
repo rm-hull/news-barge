@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Britain
+- West Yorkshire
+people:
+- Danny
+- Jack
+organisations:
+- Idle Lions
+- Idle Lions Under 8s
+- Octopus Energy
 ---
 
 *(Image: Supplied)*

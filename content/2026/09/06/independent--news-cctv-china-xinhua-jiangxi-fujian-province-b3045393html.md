@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- China
+- Fujian Province
+- Huating Town
+- Jiangxi
+- Putian
+- Saudel
+- Suichuan County
+- Zhejiang Province
+people:
+- Saudel
+organisations:
+- CCTV
+- Xinhua
 ---
 
 A mudslide killed two people and left 10 missing in eastern China, damaging a dozen houses following days of torrential rain brought by tropical cyclone Saudel, state media said Sunday.

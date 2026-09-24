@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Market Place
+- Wetherby Conservation Area
+- YOUR
+people: []
+organisations:
+- Leeds City Council
+- Ormerod Sutton Architects
+- Public Notice Portal
+- Wetherby Town Council
 ---
 
 *(Image: Google)*

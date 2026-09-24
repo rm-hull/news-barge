@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Downing Street
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Jim O’Neill
+- John Healey
+- Jonathan Cribb
+- Keir Starmer
+- Rachel Reeves
+- Robert Jenrick
+- Trump
+organisations:
+- BBC Radio 4’s Today
+- Financial Times
+- Institute for Fiscal Studies
+- Labour
+- Reform UK
+- Times Radio
+- Treasury
 ---
 
 The chancellor has indicated that the UK will face a tough budget next month due to Trump’s war in the Middle East.

@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Gulf
+- Hormuz
+- Iran
+- Israel
+- Jordan
+- Larak
+- Lebanon
+- Tehran
+- US
+- Washington
+people:
+- Donald Trump
+organisations:
+- Fars
+- Islamic Revolutionary Guard Corps
+- Reuters
+- Tasnim
 ---
 
 US forces have struck two Iranian launchers on Iran’s Larak island on Sunday, a US official said, marking the first known American strikes since late July.

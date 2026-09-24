@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- London
+- Oxford
+- Oxfordshire
+- Principality of Piddington
+- UK
+- United Kingdom
+people:
+- Andy Burnham
+- Tim McNally
+organisations: []
 ---
 
 ## Residents of Piddington, an Oxfordshire village, have voted for symbolic independence from the UK in protest against plans to house more than 1,000 migrants at a nearby former military base.

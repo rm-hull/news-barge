@@ -14,6 +14,13 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+people: []
+organisations:
+- BRADFORD Council
+- Bradford Council
+- Shipley Area Committee
 ---
 
 *(Image: T&A)*

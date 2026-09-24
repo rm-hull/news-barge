@@ -11,6 +11,41 @@ image: https://static.independent.co.uk/2026/08/28/21/2288706972..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Austin
+- Butler
+- Iran
+- Michigan
+- Pennsylvania
+- Texas
+- White House
+people:
+- Abdul El-Sayed
+- Beth Reingold
+- Donald Trump
+- Franklin Roosevelt
+- James Brown
+- James Talarico
+- Jeb Bush
+- Joe Biden
+- John F. Kennedy
+- Joshua Blank
+- Ken Paxton
+- Little Marco
+- Marco Rubio
+- Mark Talarico
+- Mike Rogers
+- Ronald Reagan
+- Ted Cruz
+organisations:
+- AP VoteCast
+- Emory University
+- Fox News
+- Lever News
+- Low Energy Jeb
+- Senate
+- Texas Political Project
+- University of Texas
 ---
 
 While major policy disputes over inflation, health care, taxes, tariffs, immigration, and the war in Iran dominate headline debates this midterm election cycle, an underlying cultural question is quietly shaping key congressional battles: what defines a real man?

@@ -12,6 +12,68 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/PUqrkWMhrDqSoV5yxRGy23-2560-80.jpg
+locations:
+- Afghanistan
+- Aichi
+- Australia
+- Bangladesh
+- Canada
+- China
+- Hong Kong
+- India
+- Japan
+- Kano
+- Korogi Athletic Park
+- Malaysia
+- Nagoya
+- Nepal
+- Nisshin
+- Oman
+- Pakistan
+- Sano
+- Santo
+- Singapore
+- South Korea
+- Sri Lanka
+- TBA
+- Tochigi Prefecture
+- UK
+- US
+- USA
+- Vietnam
+- West Indies
+people:
+- Aichi-Nagoya
+- Jasprit Bumrah
+- Krishi
+- Litton Das
+- Shreyas Iyer
+organisations:
+- AsianGames
+- AsianGames2026AichiNagoya
+- CCTV5
+- Dakshin Flex
+- Facebook
+- Future Publishing
+- ICC
+- India
+- Instagram
+- KBS
+- Krishi
+- MBC
+- MeWatch
+- ODI
+- RTM
+- SBS
+- Sling TV
+- Sony LIV
+- Sony Sports Network
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- VTV
+- Willow TV
 ---
 
 ![ndia&#039;s Shreyas Iyer bats during the T20 cricket match between Japan and India at the Sano International Cricket Ground in Sano, Tochigi Prefecture ](https://cdn.mos.cms.futurecdn.net/PUqrkWMhrDqSoV5yxRGy23.jpg)

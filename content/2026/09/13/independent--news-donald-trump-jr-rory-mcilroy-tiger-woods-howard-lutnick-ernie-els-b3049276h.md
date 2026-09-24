@@ -11,6 +11,61 @@ image: https://static.independent.co.uk/2026/09/13/05/Trump_Ireland_17_29.jpg?wi
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol
+- Doonbeg
+- Florida
+- Jacksonville
+- Joint Base Andrews
+- Jupiter Island
+- Maryland
+- New York
+- Northern Ireland
+- South Africa
+- United Kingdom
+- United States
+- Virginia
+- Washington
+- White House
+- Woods’
+people:
+- ',” Trump'
+- Annika Sorenstam Sorenstam
+- Bryson DeChambeau Trump
+- Camilla
+- Charles III
+- Cyril Ramaphosa
+- Donald Trump
+- Donald Trump Jr
+- Doug Ferguson
+- Ernie Els
+- Gary Player
+- Howard Lutnick
+- Jack Nicklaus
+- Kai Trump
+- Lindsey Graham
+- Retief Goosen
+- Rory McIlroy
+- Rory McIlroy,Tiger Woods,Bryson DeChambeau
+- Rory,” Trump
+- Scottie Scheffler
+- Shane Lowry
+- Tiger Woods
+- Trey Gowdy
+- Vanessa Trump
+- Woods’
+organisations:
+- AP Golf
+- Air Force One
+- Commerce
+- Council on Sports, Fitness and Nutrition
+- Fox News
+- Fox News Channel
+- LPGA
+- Oval Office
+- The Five
+- Trump
+- Trump’s
 ---
 
 It's no secret that President Donald Trump loves the game of golf. He likes to watch, play, include pros in his foursomes and even design courses. He also isn't shy about his friendships with the pros.

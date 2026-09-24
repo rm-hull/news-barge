@@ -13,6 +13,14 @@ categories:
 - Technology & Software
 - Health & Fitness
 - Self-Improvement
+locations: []
+people:
+- James Clear
+- Paul Hatton
+organisations:
+- Apple Watch
+- GO Club
+- Google News
 ---
 
 ![GO Club](https://cdn.mos.cms.futurecdn.net/nzndfJksYvx2Yz6S5ZLUyj.jpg) 

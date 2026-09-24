@@ -12,6 +12,41 @@ categories:
 - Science
 - Arts & Culture
 image: https://media.wired.com/photos/6ab1c8ecddc1b60d84e9c3e3/191:100/w_1280,c_limit/Ai-Version-of-My-Boss-Business.jpg
+locations:
+- Alabama
+- New England
+- New York
+people:
+- Bob Sternfels
+- Brian Barrett
+- Brian Bot
+- Chip
+- Dhruv Amin
+- Julie Bedard
+- Sarah Franklin
+- Slack
+- Sophie Bot
+- Sophie Bot I
+- Sophie Kleeman
+organisations:
+- AI
+- Anything
+- BCG
+- Big Tech
+- Boston Consulting Group
+- Brian’s
+- Business Insider
+- Condé Nast
+- Delos
+- Gemini Notebook
+- Gizmodo
+- Lattice
+- McKinsey & Company
+- San Jose Sharks
+- Stable
+- UCB
+- Upright Citizens Brigade
+- WIRED
 ---
 
 When I decided to create artificial intelligence clones of my editors, my intentions were pure: I just wanted them to think I was good at my job.

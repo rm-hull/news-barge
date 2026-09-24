@@ -13,6 +13,42 @@ image: https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- White House
+people:
+- Altman
+- Dario Amodei
+- Demis Hassabis
+- Hugging Face
+- Jacob Coxon
+- Jensen Huang
+- Lance Ulanoff
+organisations:
+- AI
+- Amazon
+- Amodei
+- Anthropic
+- BBC
+- CCP
+- CNBC
+- CNN
+- Coxon
+- Democratic Coordination
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Meta
+- Nvidia
+- OpenAI
+- Oxon
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![Dario Amodei, Anthropic CEO](https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR.jpg) 

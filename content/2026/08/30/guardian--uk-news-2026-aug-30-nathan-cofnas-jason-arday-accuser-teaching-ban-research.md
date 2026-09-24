@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Belgium
+- Ghent
+- US
+people:
+- Bill White
+- De Sutter
+- Donald Trump
+- Ghent
+- Jason Arday
+- Maga
+- Nathan Cofnas
+- Peter Thiel
+- Petra De Sutter
+organisations:
+- Ghent University
+- Guardian
+- Palantir
+- Trump
+- University of Cambridge
 ---
 
 Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent University campus for three months but has been allowed to continue his research position.

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Boston
+- Massachusetts
+people:
+- Brad Bailey
+- Karen Read
+- Lindsay Clancy
+- William Sullivan
+organisations: []
 ---
 
 Jurors in the murder trial of Lindsay Clancy are set to resume deliberations Wednesday, a day after telling the judge they couldn't agree on whether she was criminally responsible for killing her three children.

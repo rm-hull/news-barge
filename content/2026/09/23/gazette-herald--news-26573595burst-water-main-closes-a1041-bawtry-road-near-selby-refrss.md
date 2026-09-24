@@ -14,6 +14,13 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/20833093.jpg?type=og-image
+locations:
+- A1041 Bawtry Road
+- Chester Court Road
+- North Yorkshire
+- Thief Lane
+people: []
+organisations: []
 ---
 
 *(Image: Newsquest)*

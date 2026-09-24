@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473777.jpg?type=og-image
+locations:
+- Belgium
+- Bradford
+- Europe
+- Undercliffe Cemetery
+people:
+- '![]()Graham'
+- '## Graham'
+- Bradford
+- Craig Magson
+- Graham Swain
+- Harold Vivian Atchison
+- Henry Pullen
+- John Bokalo
+- Joseph Bentley
+- Ralph Graham Atchison
+- Riaz Ahmed
+organisations:
+- '## Graves'
+- Bradford Through the Lens
+- Rawson Market
+- Undercliffe Cemetery
 ---
 
 *(Image: T&A)*

@@ -11,6 +11,35 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1012/live/d74ee600-b4d2-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Berlin
+- France
+- Germany
+- Great Britain
+- Italy
+- Mecklenburg-Vorpommerm
+- Mecklenburg-Vorpommern
+- Neubrandenburg
+- New York
+- Saxony-Anhalt
+- The Left
+- Ukraine
+people:
+- Die Linke
+- Friedrich Merz
+- Friedrich Merz.
+- Manuela Schwesig
+- Martin Rohloff
+- Reinhart
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
+- Christian Democratic Union
+- EU
+- SPD
+- Tagesschau
 ---
 
 ![A close-up shot of a woman placing her paper vote into a black ballot box. Only her hand is visible, and the sleeve of her jumper which is purple with multicoloured flowers. A man with white hair and a beard is sat behind the desk on which the ballot box sits, and watches her deposit the vote. Behind him are the EU, German and Berlin flags.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1012/live/d74ee600-b4d2-11f1-b1d1-571ed4d7ff2c.jpg)

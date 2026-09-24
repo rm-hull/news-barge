@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Hartlepool
+- Newcastle
+- Parkinson's UK
+- South Bank
+- South Shields
+- St Joseph's Church
+people:
+- Conan
+- DARAGH BURKE
+- Daragh Burke
+- Matthew Blades
+- Matthew Blades Matthew
+- PC Blades
+- Parkinson
+- Tom Clough
+organisations:
+- A66
+- PC Blades
+- Union Jack
+- VW
 ---
 
 *(Image: DARAGH BURKE)*

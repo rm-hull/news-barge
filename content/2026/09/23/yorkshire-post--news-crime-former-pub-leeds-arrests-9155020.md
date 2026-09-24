@@ -13,6 +13,16 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/22/13/2026_09_22_12_45_25_881_ASH_1624CFAB3B464F4AB040B22E691F7CBB.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Brotherton
+- Great North Road
+- Leeds
+- North Yorkshire
+- Selby
+- Thaal
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # Boys aged 12 and 15 arrested after fire at former restaurant in Yorkshire

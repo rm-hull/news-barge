@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Blacker Lane
+- Calder Grove
+- Horbury
+- Leeds Crown Court
+- Leeds General Infirmary
+- Wakefield
+people:
+- Dave Higgens
+- James Judge
+- Lee Ellis
+- Oliver Longstaff
+- Rob Fones
+- Tom Bayliss KC
+organisations: []
 ---
 
 # Man whose dog fatally bit person after argument on footpath denies manslaughter

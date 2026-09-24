@@ -11,6 +11,38 @@ description: AI comes with great risks which need to be managed, China's Ministe
 image: https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Bosnia and Herzegovina
+- China
+- Sarajevo
+- US
+- United States
+- Washington
+people:
+- Chen Yixin
+- Donald Trump
+- Scott Bessent
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- Artificial Intelligence
+- Bloomberg
+- Breitbart News
+- China Cyberspace
+- Cyberspace Administration of China
+- Google News
+- Huawei
+- OpenClaw
+- Represent Communications
+- South China Morning Post
+- State Security
+- TechRadar Pro
+- TikTok
+- US Treasury
+- United States’
+- ZTE
 ---
 
 ![Robotic hand interacting with a digital display showing various military equipment, defense systems, drones and cybersecurity elements and data visualization in a dark environment.](https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj.jpg) 

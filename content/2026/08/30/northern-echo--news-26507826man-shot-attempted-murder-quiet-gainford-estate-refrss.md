@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- County Durham
+- Darlington
+- Gainford
+people: []
+organisations:
+- CSI
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- NORTHERN ECHO
+- North East Ambulance Service
 ---
 
 A man is in a critical condition after a drive-by shooting on a quiet County Durham estate, with two arrested for "attempted murder".

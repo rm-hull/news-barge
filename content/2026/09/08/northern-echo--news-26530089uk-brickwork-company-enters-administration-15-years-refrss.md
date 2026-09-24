@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Berkeley Homes’ One Tower Bridge
+- Bracknell
+- Brentford Football Stadium
+- Colindale Gardens
+- Kew Bridge
+- Leeds
+- London
+- North East
+- South East
+- Staines
+- UK
+- Wandsworth
+people:
+- Alan Coleman
+- Billy Sutcliffe
+- Evans
+- James McGrail
+- Marco Piacquadio
+organisations:
+- ACS Stainless Steel Fixings
+- Aldi, M&S
+- Bodycare
+- Claire's
+- Construction Enquirer
+- FTS Recovery
+- Harlequin Brickwork
+- High Court
+- InPost
+- LK Bennett
+- Leading Labels
+- Newsquest
+- Quiz
+- Santander
+- Superdrug
+- Yodel
 ---
 
 *(Image: Getty Images)*

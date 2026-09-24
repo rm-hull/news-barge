@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21475845.jpg?type=og-image
+locations:
+- Britain
+people:
+- Bad Wolf
+- Russell T Davies
+- Russell T Davies'
+organisations:
+- BBC Studios
+- Bad Wolf
+- Lara Cornell
+- TARDIS
+- The BBC
 ---
 
 *(Image: BBC Studios/Bad Wolf/Lara Cornell)*

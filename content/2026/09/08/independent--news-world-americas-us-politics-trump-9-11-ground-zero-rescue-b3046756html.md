@@ -13,6 +13,24 @@ categories:
 - UK
 - Sports
 - History
+locations:
+- America
+- Ellipse
+- Ground Zero
+- New Hampshire
+- New York
+- U.S.
+- United States Steel Building
+- White House
+people:
+- Donald Trump
+- Fellas
+- JD Vance
+organisations:
+- American Airlines
+- Pentagon
+- U.S. Steel
+- World Trade Center
 ---
 
 President Donald Trump used a White House address marking the upcoming 25th anniversary of the September 11, 2001 terror attacks to tout his administration's economic record and brag about his own presence in the aftermath of the deadliest of that day’s attacks.

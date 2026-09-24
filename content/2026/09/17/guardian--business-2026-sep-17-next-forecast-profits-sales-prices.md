@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Europe
+- UK
+- US
+people:
+- Aarin Chiekrie
+- John Healey
+organisations:
+- AI
+- Gap
+- Hargreaves Lansdown
+- Joules
+- Next
+- Reiss
+- Victoria’s Secret
 ---
 
 Next has thanked warmer weather for an “unexpected” boost in sales, leading the clothing retailer to raise its profit forecasts for the fourth time this year.

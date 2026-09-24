@@ -12,6 +12,13 @@ categories:
 - York
 - Automotive
 - Travel
+locations:
+- Ford Transit
+- Long Mann Hills Road
+- North Yorkshire
+- Selby
+people: []
+organisations: []
 ---
 
 North Yorkshire Police are appealing for any witnesses to a stolen Ford Transit van from the Selby area.

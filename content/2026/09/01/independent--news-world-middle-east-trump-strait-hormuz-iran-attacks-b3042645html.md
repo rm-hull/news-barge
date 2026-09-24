@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bandar Abbas
+- Iran
+- Islamic Republic
+- Jordan
+- Kharg Island
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- US
+- USA
+- Washington
+people:
+- Donald Trump
+- Hamid Bovard
+- Marco Rubio
+- Masoud Pezeshkian
+- Nournews
+- Scott Bessent
+organisations:
+- Air Force
+- Axios
+- Fox News
+- Oval Office
+- Pentagon
+- Reuters
+- Revolutionary Guards Navy
+- Tasnim
+- Truth Social
 ---
 
 Donald Trump is considering a new wave of strikes against Iran amid growing concern that Tehran has rebuilt its military capacity, as both sides traded direct fire for the first time in a month.

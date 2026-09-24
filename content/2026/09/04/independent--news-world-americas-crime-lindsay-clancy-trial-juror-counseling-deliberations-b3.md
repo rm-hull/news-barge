@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+- Boston
+- Duxbury
+- Massachusetts
+- Massachusetts'
+- Pennsylvania
+- Philadelphia
+- Texas
+- West Chester
+people:
+- Lindsay Clancy
+- Marc Ocasio
+- Pamela Wood
+- Patrick Martin
+organisations:
+- West Chester University
 ---
 
 The Lindsay Clancy case has ended in mistrial but for the jury, it could be the start of the emotional fallout.

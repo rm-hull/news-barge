@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Edward Killiwick
+- Elizabeth
+- England
+- Essex
+- Great Western Railway
+- Heathrow Airport
+- London Paddington station
+- Midlands
+- North Kensington
+- Piccadilly
+- Reading
+- Scrubs Lane
+- Suffolk
+- Trafalgar Square
+- UK
+people:
+- Thomas Woldbye
+organisations:
+- Heathrow Express
+- London Fire Brigade
+- Met Office
+- National Rail
+- Network Rail Western
 ---
 
 ![Crowds fill the concourse of London Paddington station with the departure boards blank showing no services.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/de80/live/5ff9eda0-a962-11f1-b109-879e35c24276.jpg)

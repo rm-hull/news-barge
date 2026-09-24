@@ -14,6 +14,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21367435.jpg?type=og-image
+locations:
+- Cundalls Malton
+- Fangfoss
+- Full Sutton
+- Gowthorpe Lane
+- Holland
+- The Airfield Garden Centre
+- York
+people:
+- Cundalls
+organisations:
+- Airfield Nurseries
+- Cundalls
+- Fangfoss
 ---
 
 A garden centre near York has gone on the market for £495,000.

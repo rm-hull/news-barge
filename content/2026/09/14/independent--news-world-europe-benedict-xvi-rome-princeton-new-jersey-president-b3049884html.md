@@ -11,6 +11,65 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Asia
+- Cyprus
+- Eastern Europe
+- Israel
+- Lebanon
+- Middle East
+- New Jersey
+- New York
+- Newark
+- Pacific
+- Poland
+- Princeton
+- Rome
+- USSR
+- United States
+- Uruguay
+- Vatican
+- Wimbledon
+people:
+- Andrew Dampf
+- Anwar Sadat
+- Benedict XVI
+- Catherine Simpson Bueker
+- Daniela Petroff
+- David
+- Debbie
+- Francis
+- Jimmy Breslin
+- John Paul
+- John Paul II
+- Josef Stalin
+- Julie Pace
+- Leonard P. Simpson
+- Leonard Simpson
+- Louis D. Boccardi
+- Michael
+- Natasha
+- Nicole Winfield
+- Philip Pullella
+- Selma Randell
+- Svetlana Alliluyeva
+- Victor L. Simpson
+organisations:
+- AP
+- Brooklyn Tech
+- Dwight School
+- Foreign Desk
+- General Desk
+- Hackensack
+- Hobart College
+- Reuters
+- Roma
+- Solidarity
+- Sports Illustrated
+- The Associated Press
+- The Franklin School
+- U.S. Army
+- United Press International
 ---
 
 Victor L. Simpson, the longtime Rome bureau chief for The Associated Press whose four decades as a foreign correspondent spanned five popes, wars and violence that touched him personally, has died. He was 84.

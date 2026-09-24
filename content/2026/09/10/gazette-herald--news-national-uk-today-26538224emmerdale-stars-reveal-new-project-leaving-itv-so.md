@@ -13,6 +13,34 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Coronation Street
+- Emmerdale
+- Panem
+people:
+- Billy Mayhew
+- Bruce Springsteen
+- Caesar Flickerman
+- Corriedale
+- Daniel Brocklebank
+- David Metcalfe
+- Haymitch Abernathy
+- Instagram
+- Katniss
+- Leyla Cavanagh
+- Matthew Wolfenden
+- Neil McDermott
+- Roxy Shahidi
+organisations:
+- '## Emmerdale'
+- Celebrity Side Hustles
+- Coronation Street
+- EastEnders
+- ITV
+- Instagram
+- The Hunger Games
+- Troubadour Canary Wharf Theatre
+- United Agents'
 ---
 
 *(Image: ITV)*

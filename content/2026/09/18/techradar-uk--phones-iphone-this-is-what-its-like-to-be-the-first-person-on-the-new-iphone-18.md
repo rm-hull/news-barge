@@ -13,6 +13,33 @@ image: https://cdn.mos.cms.futurecdn.net/SV4oCxtcJTTeVgA9KRCoHY-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Fifth Avenue
+- New Jersey
+people:
+- Harry Sung
+- John Ternus
+- Lance Ulanoff
+- Tim Cook
+organisations:
+- AirPods
+- Apple Stores
+- Apple Watches
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Retail Deirdre O'Brien
+- Ternus
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![John Ternus as iPhone 18 Pro Max Apple Store Launch](https://cdn.mos.cms.futurecdn.net/SV4oCxtcJTTeVgA9KRCoHY.jpg) 

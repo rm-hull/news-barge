@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/APBPWUnJNeAwVTRechfGSJ-1999-80.jpg
+locations:
+- Kotaku
+people:
+- Andrew E. Freedman
+- Tom
+organisations:
+- Get Tom's Hardware
+- Google News
+- Ink Canvas
+- Laptop Mag
+- Logitech
+- Microsoft Office
+- Microsoft Store
+- NPU
+- PCMag and Complex
+- Qualcomm
+- Surface Pro
+- Surfaces
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/APBPWUnJNeAwVTRechfGSJ.jpg)

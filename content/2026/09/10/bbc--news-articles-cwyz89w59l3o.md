@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Donbas
+- Donetsk
+- Kostyantynivka
+- Kramatorsk
+- Kyiv
+- London
+- Luhansk
+- Moscow
+- Russia
+- Slovyansk
+- US
+- Ukraine
+people:
+- Andriy Biletsky
+- Denys Prokopenko
+- Jared Kushner
+- John Auckland Abbey
+- Kostyantynivka
+- Kostyantynivka-Slovyansk
+- Pavlo Dyachenko
+- Putin
+- Steve Witkoff
+- Viktor Makurin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- Donbas
+- Kramatorsk
 ---
 
 ![Two middle-aged women stare into the distance amid the rubble from a Russian attack](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/fd8d/live/b5d72f90-ad30-11f1-b1d1-571ed4d7ff2c.jpg)

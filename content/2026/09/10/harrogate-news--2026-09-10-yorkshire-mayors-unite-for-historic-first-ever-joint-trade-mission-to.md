@@ -13,6 +13,40 @@ categories:
 - Harrogate
 - History
 - Business & Entrepreneurship
+locations:
+- Great North
+- Hyderabad
+- India
+- Leeds
+- Mumbai
+- New Delhi
+- North Yorkshire
+- North of England
+- South Yorkshire
+- UK
+- West Yorkshire
+- York
+people:
+- David Skaith
+- God
+- Grant Thornton
+- Jonathan Reynolds
+- Oliver Coppard
+- Periasamy Kumaran
+- Tracy Brabin
+- Vishakha Yaduvanshi
+organisations:
+- Agrisound
+- Air TV
+- Anglo American
+- Biorenewables Development Centre
+- Mediale
+- Peel X
+- UNESCO City of Media Arts
+- University of York—
+- Viridian FX
+- White Rose
+- Yorkshire
 ---
 
 **Mayor David Skaith will lead a delegation of North Yorkshire businesses** to India this October in a historic, first-ever joint trade mission alongside the mayors of South and West Yorkshire. The “White Rose” collective aims to secure new jobs, exports, and major investment for the region by showcasing its unique economic strengths on the international stage.

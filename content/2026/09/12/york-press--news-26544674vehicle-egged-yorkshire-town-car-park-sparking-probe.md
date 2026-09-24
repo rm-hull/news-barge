@@ -14,6 +14,14 @@ categories:
 - Automotive
 - True Crime
 - News & Politics
+locations:
+- North Yorkshire
+- Pavilion Square
+- Scarborough
+people: []
+organisations:
+- Crimestoppers
+- Pixabay)* Police
 ---
 
 *(Image: Pixabay)*

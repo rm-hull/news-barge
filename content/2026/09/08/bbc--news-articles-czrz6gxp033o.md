@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e811/live/4fb37d
 categories:
 - UK
 - News & Politics
+locations:
+- Massachusetts
+- Plymouth County
+people:
+- Callan
+- Cora
+- Dawson
+- Donald Trump
+- Kevin Reddington
+- Lindsay Clancy
+- Tim Cruz
+organisations:
+- ABC
+- BBC
+- Good Morning America
+- Ione Wells
+- Lindsay Clancy
 ---
 
 ![Lindsay Clancy's lawyer sits in court during trial in Plymouth, Massachusetts](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e811/live/4fb37d80-aba6-11f1-8e72-a346833ed029.jpg)

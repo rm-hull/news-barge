@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/04/11/362e117c13b806cde6a43c5ff8
 categories:
 - News & Politics
 - UK
+locations:
+- UK
+- US
+people:
+- Alex Brandon
+- Andrew Bailey
+- Donald Trump
+- Jerome Powell
+- Lisa Cook
+- Nigel Farage
+organisations:
+- Bank of England
+- Fed
+- Federal Reserve
+- London School of Economics Trium Anniversary Conference
+- Reform UK
 ---
 
 The boss of the Bank of England has defended the independence of the world’s central banks including from the threat of populism.

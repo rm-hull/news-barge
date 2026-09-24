@@ -11,6 +11,18 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2022/12/christmas-tree-festival-york-minster-9.jpg
+locations:
+- Cathedral
+- Chapter House
+- York
+people:
+- Canon Maggie McClean
+- Dean
+- Minster
+- Tchaikovsky
+organisations:
+- York Minster
+- YouTube
 ---
 
 York Minster has announced its programme of seasonal events, services and music for Advent and Christmas 2026.

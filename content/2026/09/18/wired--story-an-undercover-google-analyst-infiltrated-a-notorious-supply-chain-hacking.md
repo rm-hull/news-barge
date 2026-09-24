@@ -13,6 +13,48 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Australia
+- TeamPCP
+- US
+people:
+- Austin Larsen
+- Brian Krebs
+- Louis Michael Gaebler
+- Mandiant
+- Michael Fletcher
+- Ruben Ian Thomson
+- ShinyHunters
+- TeamPCP
+organisations:
+- AFP
+- Amazon Web Services
+- Australian Federal Police
+- BreachForums
+- CanisterWorm
+- Checkmarx
+- Cyber Disruption Unit
+- European Commission
+- FBI
+- Github
+- Gmail
+- Google Drive
+- Google Threat Intelligence Group
+- LABScon
+- Mandiant
+- Mercor
+- Microsoft Office
+- Mistral AI
+- OpenAI
+- Opsec Google
+- PayPal
+- SentinelOne
+- ShinyHunters
+- TanStack
+- TeamPCP Mole Late
+- Telstra
+- Thomson’s
+- WIRED
 ---
 
 Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree unlike any other in history. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a *Dune*-themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies.

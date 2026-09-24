@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Auckland
+- County Durham
+- Darlington
+- UK
+people:
+- Archie
+- Charlotte Iveson
+- David *(Image
+- David’s
+- Ivo’
+- Kerry Reeves-Kneip
+- Ms Iveson
+- Runner
+- Scarlett Moffatt
+organisations:
+- Sarcoma UK
+- Sarcoma UK Support Line
 ---
 
 *(Image: Supplied)*

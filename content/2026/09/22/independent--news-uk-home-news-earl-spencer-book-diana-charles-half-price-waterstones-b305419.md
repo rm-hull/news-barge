@@ -12,6 +12,25 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/22/11/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Atlanta
+- Charing Cross
+- Covent Garden
+- Europe
+- Foyles
+- London
+- Princess of Wales
+- Trafalgar Square
+- United States
+people:
+- Charles Spencer
+- Diana
+- Earl Spencer
+- Jordan Pettitt
+- Mary Scheible
+organisations:
+- Press Association
+- Waterstones Piccadilly
 ---
 
 Bookshops across central London saw a quiet reception on Tuesday for the launch of Earl Spencer’s memoir about his late sister Diana, Princess of Wales, with the £28 hardback marked at half price.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21470373.jpg?type=og-image
+locations:
+- Darlington Hippodrome
+- Darlington West End
+people:
+- Belle
+- Beyoncé
+- Bruno Mars
+- Justin Timberlake
+- Liv Newcomb
+- Matt Baker
+- Neisha-Yen Jones
+- Ollie Llewelyn-Williams
+- Sarah Caldecott
+- Sebastian
+- Tina Turner
+organisations:
+- Darlington Darlington Hippodrome
+- The Northern Echo
 ---
 
 The stars at the heart of Darlington’s Beauty and the Beast have promised a familiar story with some unexpected twists when the tale arrives at the Hippodrome this Christmas.

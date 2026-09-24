@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bolton Road
+- Bradford
+- Hastings Terrace
+- Lister Lane
+- Shipley
+- View Croft Road
+people:
+- Ahmed Nadim
+- Charles Blatchford
+- Haseeb Mahmood
+- Little Horton
+- Nadim Bashir
+- Nathan Davis
+- Yasar Akhtar
+- Yousaf Akhtar
+organisations:
+- Bradford Crown Court
+- Super Whippy
+- Super Whippy Limited
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

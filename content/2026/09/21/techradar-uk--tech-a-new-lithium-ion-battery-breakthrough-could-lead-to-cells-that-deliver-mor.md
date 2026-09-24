@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/6T2yjYGcikE59SossJVgaQ-1920-80.jpg
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+- Shin Seok-min
+organisations:
+- Gizmodo
+- Google News
+- KRICT
+- Korea Research Institute of Chemical Technology
+- PC Explorer
+- The Hardware Handbook
+- The Korea Times
 ---
 
 ![Team members from KRICT, and an illustration of a powerful battery](https://cdn.mos.cms.futurecdn.net/6T2yjYGcikE59SossJVgaQ.jpg)

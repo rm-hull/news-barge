@@ -12,6 +12,80 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Bogs Lane
+- Boroughbridge
+- Brighton ’84
+- Cowstail Lane
+- Forest Lane
+- Harrogate District Hospital
+- Knaresborough
+- Malham Drive
+- Mayfield Grove
+- Minskip
+- North Yorkshire
+- Pateley Bridge
+- Raglan Street
+- Ripon
+- Skipton
+- Spain
+- Starbeck High Street
+- UK
+- US
+- Woodlands Ward
+- York
+- Zoopla
+people:
+- Bon Cooper
+- Carla Gutierrez
+- David Skaith
+- Ethan Anderson
+- Fiona Fox
+- Francis Rossi
+- Graeme Oliver
+- Greg Kubas
+- Jack Stokes
+- James Savage-Hanford
+- Jamie Nicholson-Ruther
+- John Godber
+- Jommy Puledda
+- Joseph Haydn
+- Lee Bainbridge
+- Maria
+- Missa Sancti Nicolai
+- Philip Stokes
+- Tom Gordon
+- Victoria Lickley
+organisations:
+- 5b Kirkgate
+- Brackenfield School
+- Brierley Homes
+- British Gas
+- Harrogate Advertiser
+- Harrogate BID
+- Harrogate District Hospital
+- Harrogate Model Railway Group
+- Harrogate Neighbours
+- Harrogate Theatre
+- Harrogate’s Royal Hall
+- KMA
+- Knaresborough Library
+- Knaresborough Railway Gala
+- Leeds
+- Meraki Artisan Baker
+- North Yorkshire Council
+- Ofsted
+- OpenTable
+- Red Kite Teacher Training
+- Ripon Gazette
+- Savills
+- Spread Eagle
+- Squinting Cat
+- Studley Royal Cricket Club
+- Taylors of Harrogate
+- The Den
+- Veronica Bird OBE
+- Westmoreland Coffee House
 ---
 
 ![Wednesday, September 16: The Highwayman by John Godber at Harrogate Theatre. Also 7.30pm. Part of HT Drama series. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU4M2JkNzZiLWJkYWMtNGRjZi1hMmVmLTQwNjY5MTRkNzFjMDpiZDc4ZTJiMy0wYzYwLTRlNzktODI3Ni1jMzVmYTg3YWM2OTQ=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

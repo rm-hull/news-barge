@@ -18,6 +18,65 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Los Angeles
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- David Miliband
+- De Zerbi
+- Donald Trump
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Jensen Huang
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Mikel Arteta
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Zelensky
+organisations:
+- AI
+- Burnham
+- Chelsea
+- De Zerbi
+- ELITE
+- GMB
+- Labour
+- Liverpool
+- MI6
+- NYFW
+- Nvidia
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

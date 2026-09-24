@@ -12,6 +12,38 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- East Jerusalem
+- Middle East
+- Sea
+- State of Israel
+- UK
+- West Bank
+people:
+- Adrian Ramsay
+- Benjamin Netanyahu
+- Carla Denyer
+- Diane Abbott
+- Ed Miliband
+- Ellie Chowns
+- Fahad Ansari
+- Gideon Saar
+- Hannah Spencer
+- Jeremy Corbyn
+- John McDonnell
+- Ms Shah
+- Naz Shah
+- Richard Burgon
+- Sian Berry
+- Zarah Sultana
+organisations:
+- Bradford West
+- Bradford West Labour
+- Foreign Ministry
+- Green Party
+- Leeds East
+- Riverway
+- UK Government
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Gordon Ramsay
+- Herefordshire
+- London
+- TfL
+people:
+- Sadiq Khan
+organisations:
+- City Hall
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Micra
+- PA Media
+- Transport for London
 ---
 
 Sadiq Khan’s office has revealed he was the victim of a scam that led to him being fined for failing to tax a car that did not belong to him.

@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Iran
+people:
+- Agnès Callamard
+- Ahmad Vahidi
+- Ali Khamenei
+- Mahsa Amini
+- Majid Mirahmadi
+- Mohammad Bagheri
+organisations:
+- Amnesty International
+- Guardian
+- Islamic Revolutionary Guard Corps
 ---
 
 Iranian security forces “coordinated” the killing, torture and sexual abuse of hundreds of people who took part in the women-led nationwide protests in September 2022, according to leaked state documents and interviews.

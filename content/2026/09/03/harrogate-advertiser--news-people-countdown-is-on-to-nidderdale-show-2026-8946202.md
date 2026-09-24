@@ -11,6 +11,15 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Bewerley Park
+- Pateley Bridge
+- Suffolk
+- UK
+people:
+- Paddy Garth
+- Tony Johnson.
+organisations: []
 ---
 
 # Countdown is on to Nidderdale Show 2026

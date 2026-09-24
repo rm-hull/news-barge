@@ -11,6 +11,49 @@ description: September means new 4K Blu-rays, and I've picked my top 5 discs I'm
 image: https://cdn.mos.cms.futurecdn.net/sRMj5pFTVbn3QCtZ2W623T-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Broadway
+- Hamilton
+- Hollywood
+- UK
+- US
+people:
+- '## Hamilton'
+- '**Hamilton'
+- Alexander Hamilton
+- Brendan Gleeson
+- Christopher Eccleston
+- Criterion
+- Din Djarin
+- James Davidson
+- Jason Momoa
+- Jeremy Allen White
+- Jim (Cillian Murphy
+- Kara Zor-El (Superman
+- Krypto
+- Lin-Manuel Miranda
+- Milly Alcock
+- Naomie Harris
+- Pedro Pascal
+- Rotta The Hutt
+- Supergirl
+organisations:
+- AV
+- Blu-ray Bounty
+- Dead Poet’s Society
+- Dolby Atmos
+- Dolby Vision
+- Google News
+- Hamilton
+- Mandalorian & Grogu
+- Misery
+- OLED
+- PS5
+- QLED
+- Sony Pictures Home Entertainment
+- TechRadar
+- The Killing Fields
+- Warner Bros
 ---
 
 ![September 2026 most anticipated 4K Blu-ray hero](https://cdn.mos.cms.futurecdn.net/sRMj5pFTVbn3QCtZ2W623T.jpg) 

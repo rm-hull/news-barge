@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/11/2/44/GettyImages-2294067004.j
 categories:
 - News & Politics
 - UK
+locations:
+- Cincinnati
+- Dallas
+- Mexico
+- United States of America
+- White House
+people:
+- Garrett Haake
+- JD Vance
+- Rick Megumbar
+organisations:
+- CBS News Texas
+- Dallas Against Trump Coalition
+- NBC News
+- NBC News’
+- Politico
 ---
 
 Vice President JD Vance has offered to buy a protester who interrupted his speech at the Republican midterm convention a plane ticket to Mexico.

@@ -11,6 +11,23 @@ categories:
 - Technology & Software
 - Self-Improvement
 image: https://cdn.mos.cms.futurecdn.net/toJsHzqsNXvBcnSCEFy6VL-2560-80.jpg
+locations: []
+people:
+- Chris Linnell
+- Christian Cawley
+- Rudolf Flesch
+organisations:
+- Bridewell
+- Computer Weekly
+- ComputerActive
+- Google News
+- Kimi K
+- LLM
+- Linux Format
+- Matter Alpha
+- Meta
+- Muse Spark
+- TechRadar Pro
 ---
 
 ![A woman sitting at a table with various objects on it, including a MacBook, a mug, a book, an opened notebook, and holding her head with her hands as if in frustration](https://cdn.mos.cms.futurecdn.net/toJsHzqsNXvBcnSCEFy6VL.jpg)

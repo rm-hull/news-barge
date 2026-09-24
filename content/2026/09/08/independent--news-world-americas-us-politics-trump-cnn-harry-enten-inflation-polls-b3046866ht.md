@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/09/08/20/39/CNN-inflation.png?trim=
 categories:
 - News & Politics
 - UK
+locations:
+- South Carolina
+- U.S.
+- White House
+people:
+- '!)” Trump'
+- Abraham Lincoln
+- Darline Graham
+- Donald J. Trump
+- Donald Trump
+- George Washington
+- Harry Enten
+- Joe Biden
+- John Berman
+- Kamala Harris
+- Lindsey Graham
+organisations:
+- CNN
+- Enten
+- GOP
+- Kalshi
+- Reuters/Ipsos
+- Senate
+- Trump
+- Truth Social
 ---
 
 Donald Trump’s favorite CNN journalist, Harry Enten, revealed his “historically awful” polling numbers on inflation Tuesday, noting that the president’s approval rating is “lower than the Titanic.”

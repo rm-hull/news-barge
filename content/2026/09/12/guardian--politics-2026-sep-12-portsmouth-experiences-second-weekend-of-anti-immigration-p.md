@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- All Saints Church
+- Commercial Road
+- Dover
+- Eastney
+- France
+- Glasgow
+- Glasgow.
+- Guildhall Square
+- Hampshire
+- Isle of Wight
+- Paulsgrove
+- People's Palace
+- People’s Palace
+- Portsmouth
+- Portsmouth.
+- Scotland
+- Southampton
+- St George
+- UK
+people:
+- Alison Thewliss
+- Audrey Dempsey
+- Del Leon Somerville
+- Donna Jones
+- Iris Duane
+- Roz Foyer
+- Shabana Mahmood
+- Stevie Dolan
+- Thomas Kerr
+- Tony Rowlinson
+organisations:
+- Border Force
+- Glasgow Green
+- Hampshire
+- Home Office
+- Pink Ladies
+- Portsmouth
+- RNLI
+- Reform UK
+- SUTR
+- Scottish Trades Union Congress
 ---
 
 Two men and a teenage boy have been arrested in Portsmouth at a far-right protest against immigration.

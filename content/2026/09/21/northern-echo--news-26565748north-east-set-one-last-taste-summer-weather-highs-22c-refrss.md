@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/20968070.jpg?type=og-image
+locations:
+- Aaron Chown
+- County Durham
+- Darlington
+- Gateshead
+- North East
+- North Yorkshire
+- PA
+- Richmond
+- Teesside
+- UK
+people:
+- Austen
+- Boelo
+- Chloe
+organisations:
+- Austen
+- Greggs
+- Met Office
+- Middlesbrough
 ---
 
 *(Image: Aaron Chown/PA Wire)*

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- British Columbia
+people:
+- Jake Horton
+- Krystal Campos
+- Sally Nicholls
+organisations:
+- BBC Verify
 ---
 
 # Satellite images show how Canadian 'island' vanished before turning up 20 miles away

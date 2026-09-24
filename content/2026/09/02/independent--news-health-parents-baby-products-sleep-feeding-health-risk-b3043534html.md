@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations: []
+people:
+- Moses
+- Rebecca Guy
+organisations:
+- RoSPA
+- Royal Society for the Prevention of Accidents
 ---
 
 Parents are being urged to exercise caution before purchasing "must have" feeding products and sleep aids, with experts warning that they could put infants at risk.

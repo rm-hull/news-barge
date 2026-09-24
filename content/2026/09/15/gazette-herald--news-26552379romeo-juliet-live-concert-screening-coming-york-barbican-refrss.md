@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Birmingham
+- Edinburgh
+- Glasgow
+- London
+- Manchester
+- UK
+- York
+people:
+- Baz Luhrmann
+- Claire Danes
+- Floris Douwes
+- Leonardo DiCaprio
+organisations:
+- Communion One
+- Disney Concerts
+- GEA Live
+- Romeo + Juliet
+- The Cardigans
+- William Shakespeare
+- York Barbican
 ---
 
 A popular York venue is set to host a special screening of Baz Luhrmann's acclaimed Romeo + Juliet as part of a global tour marking the film's 30th anniversary.

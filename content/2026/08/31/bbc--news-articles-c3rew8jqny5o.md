@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Cape Town
+- DHL Stadium
+- Ellis Park
+- Hollywood
+- Johannesburg
+- New Zealand
+- South Africa
+- South Africa-New Zealand
+people:
+- Gayton McKenzie
+- Nelson Mandela
+organisations:
+- Airlink
+- BBC News Africa
+- Flightradar24
+- South African Airways
 ---
 
 Watch: Moment two planes fly less than 50 feet above stadium

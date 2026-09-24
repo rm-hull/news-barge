@@ -11,6 +11,27 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/91/98/46/1200x675_cmsv2_9e5a74fb-0acf-5517-8095-4c38b1799b2e-9919846.jpg
+locations:
+- Balakliia
+- Donetsk
+- Kharkiv Oblast
+- Kherson
+- Kramatorsk
+- Kursk
+- Lypkuvativka
+- Poland
+- Russia
+- Slatyne
+- Sumy Oblast
+- Ukraine
+- Velykyi Burluk
+people:
+- Oleh Syniehubov
+organisations:
+- Armed Forces Operational Command
+- Kherson Regional State Administration
+- Sumy Regional Military Administration
+- Telegram
 ---
 
 ## The Ukrainian air force reported that Russian forces had fired two “Zircon” missiles as well as 174 drones at Ukraine overnight.

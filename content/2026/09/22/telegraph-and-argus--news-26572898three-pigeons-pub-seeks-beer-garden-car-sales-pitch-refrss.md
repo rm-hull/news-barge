@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489346.jpg?type=og-image
+locations:
+- Halifax
+- Ossett
+- The Shay
+- YOUR
+people:
+- Harry Kilner
+- Sami Foster
+organisations:
+- CAMRA
+- Calderdale Council
+- FC Halifax Town
+- Halifax’s Webster’s Brewery
+- Public Notice Portal
+- Salt Pubs and Bars
+- Tripadvisor
 ---
 
 *(Image: Harry Kilner)*

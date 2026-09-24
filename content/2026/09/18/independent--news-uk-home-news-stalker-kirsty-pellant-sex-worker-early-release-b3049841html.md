@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Canterbury
+people:
+- Jonathan Bates
+- Kirsty Pellant
+- Ms Pellant
+- Simon Carr
+organisations:
+- LinkedIn
 ---
 
 A woman whose life was “blown apart” by a secret online stalker has said she fears she may “lose her life again” when he is let out of prison next month as part of the early release scheme.

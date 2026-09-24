@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg
+locations:
+- Bear Island
+- China
+- Denmark
+- Greenland
+- Kingdom
+- North Atlantic
+- Pituffik
+- Russia
+- US
+- United States
+- White House
+people:
+- Danes
+- Donald Trump
+- Jens-Frederik Nielsen
+- Marco Rubio
+- Mette Frederiksen
+organisations:
+- BBC
+- Fox News
+- Greenland Government
+- Nato
+- Truth Social
+- United Nations General Assembly
 ---
 
 ![People hold a flag on the shoreline of Bear Island with boats in the background](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg)

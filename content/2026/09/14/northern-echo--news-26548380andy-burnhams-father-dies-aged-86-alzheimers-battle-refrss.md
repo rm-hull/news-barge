@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Downing Street
+- England
+- UK
+people:
+- Alzheimer
+- Andy Burnham
+- Peter Byrne
+- Roy
+organisations:
+- PA Wire
+- The Times
 ---
 
 *(Image: Peter Byrne/PA Wire)*

@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Helmsley
+- North Yorkshire
+- Scarborough
+- York
+- York’
+people:
+- Angela Rayner
+- Cllr Jefferson
+- David Skaith
+- Janet Jefferson
+organisations:
+- Castle Division
+- Combined Authority
+- Government
+- Hospitality Association York
+- Labour
+- North Yorkshire Combined Authority
+- North Yorkshire Independent
+- Overview and Scrutiny Committee
+- Policy Lab
 ---
 
 THE implementation of charges on overnight stays for visitors will have to be done right but details on how they would work are currently lacking, North Yorkshire's mayor has said.

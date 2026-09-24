@@ -15,6 +15,25 @@ categories:
 - York
 - Personal Finance & Investing
 - Travel
+locations:
+- '![York'
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- The York
+people:
+- Coun Ayre
+- Coun Nigel Ayre
+- David Skaith
+- Keir Starmer
+organisations:
+- Labour York
+- Liberal Democrat
+- North Yorkshire Policy Lab
+- York Council
+- York Council.
 ---
 
 # 'Every penny raised in York should be spent here' - Call as £1-a-night tourist tax floated

@@ -12,6 +12,61 @@ image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Bournemouth
+- CA
+- Canada
+- London
+- Man City
+- Man City.
+- Man Utd
+- Old Trafford
+- UK
+- US
+- USA
+- canada
+people:
+- Benjamin Sesko
+- Enzo Maresca
+- Erling Haaland
+- Greg Lea
+- Man Utd
+- Michael Carrick
+- Peacock
+- Pep Guardiola
+- Sabah
+- Wilfried Zaha
+organisations:
+- AU
+- Arsenal
+- Coventry
+- Crystal Palace
+- ESPN
+- Everton
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Guardian
+- Hull
+- Ipswich
+- Man City
+- Man Utd
+- Manchester City
+- Peacock Premium
+- Port Vale
+- Porto
+- Premier League
+- Red Devils
+- Sky Go
+- Sky Sports
+- Sky Sportsis
+- Sky TV
+- Stan Sport
+- The Set Pieces
+- United
+- UseNordVPNto
+- Whitehorse Manor
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

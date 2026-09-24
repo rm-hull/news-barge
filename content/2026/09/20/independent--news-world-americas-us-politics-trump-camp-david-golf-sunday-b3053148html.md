@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/20/15/2295584234..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Camp David
+- D.C.
+- Maryland
+- Middle East
+- Oman
+- Riyadh
+- Saudi Arabia
+- Sterling
+- Strait of Hormuz
+- U.S.
+- Virginia
+- White House
+- Yemen
+people:
+- Bryson DeChambeau
+- Donald Trump
+- Gary Player
+- Mikayla Demaiter
+organisations:
+- Independent
+- State Department
+- Sterling
 ---
 
 Donald Trump flew home to D.C. late Saturday evening, cutting short his trip to Camp David as the State Department warned Americans abroad that the conflict between Saudi forces and Yemen’s Houthi rebels was rapidly escalating.

@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21156352.jpg?type=og-image
+locations:
+- Broadway Shopping Centre
+- The Broadway Bradford
+people: []
+organisations:
+- Newsquest
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

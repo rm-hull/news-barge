@@ -12,6 +12,61 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Arizona
+- Asia
+- Atlanta
+- Berkeley
+- California
+- China
+- East West
+- GA
+- Georgia
+- Houston
+- North America
+- North Carolina
+- Richardson
+- Scottsdale
+- Smyrna
+- Taiwan
+- Texas
+- Thailand
+- U.S.
+- US
+- USA
+- United States
+- WeWork-style
+- Wisconsin
+people:
+- Caroline Haskins
+- Cris van Pelt
+- Flock
+- Garrett Langley
+- Lynn Hughes
+- Matthew Guariglia
+- Paris Lewbel
+- van Pelt
+organisations:
+- Alibaba
+- Alpha
+- Axon
+- Congress
+- DJI
+- East West
+- East West Manufacturing
+- Electronic Frontier Foundation
+- Flock Safety
+- ImportGenius
+- ImportGenius’
+- Langley
+- LinkedIn
+- Motorola Solutions
+- OSHA
+- Plexus
+- Primax Electronics
+- US Occupational Safety and Health Administration
+- US-Made Drone Flock
+- WIRED
 ---
 
 Flock CEO Garrett Langley has said the company made its first license plate cameras in his Atlanta home, permanently scratching his dining table with drill marks. A decade later, where the company assembles its signature—and fiercely debated—product has become more of a mystery.

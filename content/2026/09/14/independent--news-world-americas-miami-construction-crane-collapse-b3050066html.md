@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Brickell
+- Miami
+people:
+- Robert Hevia
+organisations:
+- Miami Fire
 ---
 
 Four people sustained injuries on Monday morning when a heavy construction crane toppled onto a moving vehicle in an upscale Miami neighborhood, setting it on fire, according to city officials.

@@ -12,6 +12,15 @@ image: https://static.independent.co.uk/2026/09/03/20/APTOPIX_Venezuela_US_Oil_8
 categories:
 - News & Politics
 - UK
+locations:
+- Buenos Aires
+- Caribbean
+- Latin America
+- U.S.
+- US-Venezuela
+- Venezuela
+people: []
+organisations: []
 ---
 
 US-Venezuela oil deal and other top photos from Latin America and the Caribbean

@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- DC.
+- Europe
+- UK
+- Washington
+people:
+- Martín Nanni
+- Mike Moore
+organisations:
+- AI Pods
+- B2B
+- B2C
+- EMEA
+- FA
+- FIFA ID
+- FIFA.com
+- Glob.AI
+- Globant
+- Google News
+- ITProPortal
+- John F. Kennedy Center for the Performing Arts
+- TechRadar Pro
 ---
 
 ![Man watching football](https://cdn.mos.cms.futurecdn.net/QnGsBLoE5AuxmbpJLJ5xT7.jpg) 

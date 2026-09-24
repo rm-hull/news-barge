@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Tanzania
+- UK
+people:
+- Ed Miliband
+- Keir Starmer
+- Kirsty McNeill
+- Martin Fitchet
+organisations:
+- Drugs for Neglected Diseases
+- King’s College London
+- MMV
+- Medicines for Malaria Venture
+- TB Alliance
+- The Independent
+- University of Dundee
+- World Mosquito Programme
 ---
 
 The UK is to continue backing world-leading research into vaccines, medicines and other tools to tackle global health challenges, with a significant portion of the aid budget being ringfenced for such work despite the UK’s programme of aid cuts.

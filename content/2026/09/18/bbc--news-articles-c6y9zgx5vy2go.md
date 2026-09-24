@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Amsterdam
+- Ghana
+- Kano
+- London
+- Sway
+- UK
+- US
+people:
+- '![Sway'
+- Akon
+- Ammar-Joseph
+- Baby Blue
+- Childish Gambino
+- Derek Andrew Safo
+- Dizzee Rascal
+- Ed Sheeran
+- God
+- Harvey Nicks
+- Hodgkin
+- Jalil
+- Kardinal Offishall
+- Kash Ahmad
+- Lethal Bizzle
+- Mark Ronson
+- Megaman
+- Mike Skinner
+- Queen-Imara
+- Queen-Inaya
+- Remi Burgz
+- Sway DaSafo
+organisations:
+- 50 Cent
+- Arctic Monkeys
+- BBC News
+- BBC Radio 1Xtra
+- Black Box
+- Dcypha
+- Guardian
+- HMP
+- HMV
+- Instagram
+- KSI
+- Mitchell Brothers
+- Muse
+- Solid Crew
+- The Streets
+- Tiggs Da Author
 ---
 
 ![Sway wearing a blue cap and white shirt with his hands clasped in front of him](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/774b/live/fd00ea80-b34f-11f1-b949-71f91f81d1ab.jpg)

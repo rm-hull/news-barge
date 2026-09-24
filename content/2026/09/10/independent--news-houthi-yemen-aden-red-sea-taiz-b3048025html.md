@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bab el-Mandeb
+- Gaza
+- Gulf of Aden
+- Hodeida
+- Indian Ocean
+- Iran
+- Israel
+- Jawf
+- Marib
+- Mokha
+- Red Sea
+- Taiz
+- Tehran
+- Yemen
+- al-Shaqira
+people:
+- Abdel Kader al-Sharabi
+- Ahmed al-Mawazi
+- Amin al-Mohammdi
+- Mohamed Salem
+- Mokha
+organisations:
+- AP
+- Al-Masirah TV
+- The Associated Press
 ---
 
 Iranian-backed Houthi rebels have entered Yemen's strategic Red Sea port city of Mokha, several residents said Thursday, which could bring them closer to targeting shipping through a critical waterway to the Red Sea.

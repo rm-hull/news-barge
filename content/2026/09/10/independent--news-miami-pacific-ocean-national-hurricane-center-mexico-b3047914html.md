@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Baja California
+- Hawaiian Islands
+- Mexico
+- Norbert
+- Pacific Ocean
+people: []
+organisations:
+- National Hurricane Center
+- Tropical Storm Norbert
 ---
 
 Tropical Storm Norbert forms in the Pacific Ocean and isn't threatening land

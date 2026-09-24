@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/RVMYdSZZgtfRR7nSKV6UsV-2560-80.jpg
+locations:
+- Amazon
+- Hawaii
+- M5
+people:
+- Brett Ostrum
+- Matt Hanson
+- Panos Panay
+organisations:
+- Apple
+- Core Tech
+- Google News
+- M5
+- MacBook Air
+- Matt
+- Microsoft
+- OLED
+- PC Plus
+- Panay
+- Qualcomm Hexagon NPU
+- Snapdragon X2 Plus
+- Surface Devices
+- Surface Laptop
+- TechRadar
 ---
 
 ![Surface Pro 12-inch (2026) and Surface Laptop (2026)](https://cdn.mos.cms.futurecdn.net/RVMYdSZZgtfRR7nSKV6UsV.jpg)

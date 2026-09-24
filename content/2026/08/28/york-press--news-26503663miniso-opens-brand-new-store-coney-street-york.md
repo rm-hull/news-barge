@@ -13,6 +13,35 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Acomb
+- China
+- Coney Street
+- Kevin Glenton
+- PenPen
+- UK
+- York
+people:
+- Bethany Richardson
+- Cailan Hobson
+- Charlie
+- Emmie Rudland
+- Kevin Glenton
+- Lilly
+- Meila
+- Miniso
+- Nicholas Wallis
+- Quinn Holmes
+- Vivian Leadley
+organisations:
+- CUSTOMERS
+- Disney
+- Hello Kitty
+- Kevin Glenton
+- Luxe Company
+- MINISO
+- Miniso
+- Star Wars
 ---
 
 ## FIRST LOOK: Excitement builds as customers queue outside York store's grand opening

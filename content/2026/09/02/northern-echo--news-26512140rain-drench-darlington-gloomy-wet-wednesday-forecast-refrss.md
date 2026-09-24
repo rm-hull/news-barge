@@ -14,6 +14,14 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Darlington
+- UK
+people: []
+organisations:
+- Hartlepool
+- Met Office
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

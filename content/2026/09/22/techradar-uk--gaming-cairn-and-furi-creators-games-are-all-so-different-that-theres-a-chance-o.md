@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/QsLNvfF4spuR8uuCT4TTbP-1920-80.jpg
+locations:
+- Cairn.
+- Gamescom
+- Mt. Kami
+people:
+- Aava
+- Emeric Thoa
+- James Pickard
+- Marco
+organisations:
+- Black Friday
+- Eurogamer
+- Game Bakers'
+- Google News
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
+- The Game Bakers
 ---
 
 ![Marco climbing up a rock face in a screenshot from Cairn.](https://cdn.mos.cms.futurecdn.net/QsLNvfF4spuR8uuCT4TTbP.jpg)

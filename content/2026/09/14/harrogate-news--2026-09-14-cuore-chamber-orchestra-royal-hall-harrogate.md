@@ -12,6 +12,37 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Britain
+- Harrogate
+- Ireland
+- Leeds
+- Milan
+- North Yorkshire
+- Ripon Road
+- Royal Hall
+- United Kingdom
+- West Park Centre
+people:
+- Christopher Barnes
+- Edvard Grieg
+- Frederic Bager
+- Haydn
+- Jennifer Pike
+- Michael Berkeley
+- Michael Berkeley:** Meditations’
+- William Dutton
+- William Dutton**—
+- Wolfgang Amadeus Mozart
+organisations:
+- BBC Radio
+- Cuore Chamber Orchestra
+- Harrogate Informer
+- Howard Assembly Room
+- Italian Conducting Academy
+- Royal Hall
+- Violin
+- Yorkshire
 ---
 
 **HARROGATE** — The highly acclaimed Cuore Chamber Orchestra has confirmed its return to its resident home venue this autumn, launching a high-profile second season following a celebrated inaugural year.

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44dd/live/92c2eec0-b5b6-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Broadmoor
+- HMP Belmarsh
+- Old Bailey
+- Southport
+- Westminster Magistrates' Court
+people:
+- Alice da Silva Aguiar
+- Axel Rudakubana
+- Bebe King
+- Catherine Pattinson
+- Elsie Dot Stancombe
+organisations:
+- Axel Rudakubana
 ---
 
 ![A court sketch of Axel Rudakubana sitting on a video link in court](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c161/live/386c9360-b5af-11f1-a430-4d16ee157c41.jpg)

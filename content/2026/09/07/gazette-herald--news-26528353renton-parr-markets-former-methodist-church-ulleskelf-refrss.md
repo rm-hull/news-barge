@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Church Fenton Lane
+- Dunkirk
+- Leeds
+- Methodist
+- North Yorkshire
+- Scarborough
+- Selby
+- Selby'**
+- Tadcaster
+- Ulleskelf
+- York
+people: []
+organisations:
+- A64
+- Renton & Parr
 ---
 
 A former church in a North Yorkshire village is up for sale.

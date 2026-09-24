@@ -11,6 +11,69 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/42ce5126cc55b9e2669510ad9da560fcce4be171/1069_364_3627_2902/master/3627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb870f9529e17cba06d46a2d893ba000
+locations:
+- Bahamas
+- Cuba
+- Florida
+- Germany
+- Greenland
+- Greenville
+- Hormuz
+- Indonesia.
+- Iran
+- London
+- Massachusetts.
+- Mississippi
+- Nashville
+- New York
+- New York City
+- South Carolina
+- Switzerland
+- Sydney
+- Tehran
+- UK
+- US
+- Utah
+- White House
+people:
+- ?** Trump
+- Amanda Zuckerman Klarsfeld
+- Black
+- Braden Eric Peters
+- Brian Hickerson
+- Byron Donalds
+- Clavicular
+- Donald Trump
+- Donald Trump Jr
+- Ella Langley
+- Gianni Infantino
+- Hayden Panettiere
+- JD Vance
+- John Curtis
+- Mariah Carey
+- María Elvira Salazar
+- Matt Hughes
+- Nolan Wells
+- Nolan Wells.
+- Sammy Gecsoyler
+- Steve Witkoff
+- Trump Jr
+- Umar Kremlev.
+- Zach
+organisations:
+- AI
+- CNN
+- Choosin’ Texas
+- DoorDash
+- El Niño
+- El Niños
+- Fifa
+- MS Now
+- Politico
+- Qantas
+- Senate
+- Trump
+- UN
 ---
 
 Good morning. Donald Trump has used the platform of the UN general assembly in New York to threaten to “annihilate the Islamic republic” of Iran, “and do it quickly”. He called on countries to unite to isolate Tehran and bring down global energy prices.

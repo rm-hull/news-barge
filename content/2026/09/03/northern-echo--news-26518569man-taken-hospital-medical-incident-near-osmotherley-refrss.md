@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- CLEVELAND
+- Dale Head
+- Land Rovers
+- North East
+- North Yorkshire
+- Osmotherley
+- Ravenseat Farm
+- Square Corner
+- Yorkshire Dales
+people:
+- Amanda Owen
+organisations:
+- Cleveland Mountain Rescue
+- Cleveland Mountain Rescue Team
+- Land Rovers
+- North Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: CLEVELAND MOUNTAIN RESCUE TEAM)*

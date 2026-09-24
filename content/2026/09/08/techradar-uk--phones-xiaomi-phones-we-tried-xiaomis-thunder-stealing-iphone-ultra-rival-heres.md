@@ -11,6 +11,24 @@ description: The Xiaomi 18 Fold is the latest in a growing line of shorter, wide
 image: https://cdn.mos.cms.futurecdn.net/Kh7NnqJvPXLKN353oGFsVE-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- Xiaomi
+people:
+- Axel
+- Ruth Hamilton
+organisations:
+- Apple
+- Axel Metz
+- China-only Huawei Pura X Max
+- Esquire
+- Galaxy Z Fold
+- Google News
+- RAM
+- Samsung
+- TechRadar
+- University of Warwick
+- Xiaomi
 ---
 
 ![The Xiaomi 18 Fold being held in the hand](https://cdn.mos.cms.futurecdn.net/Kh7NnqJvPXLKN353oGFsVE.jpg) 

@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Newcastle Civic Centre
+- North East
+- North Tyneside
+- Tyne
+people:
+- Angus McBob
+- Beatrix Potter
+- Natalie Radcliffe
+- Peter Rabbit
+- Ruby Rabbit
+- Steph Edusei
+organisations:
+- Bunny Bank
+- Emma Bridgewater Ltd
+- Newcastle City Council
+- North Standard
+- North Tyneside Council
+- Northumbrian Water
+- St Oswald
+- St Oswald’s Hospice
+- Wild in Art
 ---
 
 *(Image: St Oswald’s Hospice)*

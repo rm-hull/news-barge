@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Atlantic
+- Doonbeg
+- Dubai
+- Europe
+- Florida
+- Ireland
+- Lahinch
+- Portmarnock
+- Royal Portrush
+- South Africa
+people:
+- Bernhard Langer
+- Donald Trump
+- Joaquin Niemann
+- Jon Rahm
+- Patrick Reed
+- Rory McIlroy
+- Shane Lowry
+- Yurav Premlall
+organisations:
+- Cognizant
+- Trump International Ireland
 ---
 
 Shane Lowry gave his home crowd and President Donald Trump plenty to cheer Sunday when he turned a four-shot lead into a runaway at Doonbeg, closing with a 7-under 63 to break the Irish Open record with an 11-shot victory.

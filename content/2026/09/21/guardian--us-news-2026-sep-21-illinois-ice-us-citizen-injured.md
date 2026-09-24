@@ -13,6 +13,29 @@ categories:
 - True Crime
 - Society & Culture
 image: https://i.guim.co.uk/img/media/c344f08a04b77b121309b67791f40b4c8053a76e/420_424_1164_932/master/1164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a08719a4fd0e393f9488a968c0e4e91a
+locations:
+- Austin
+- Chicago
+- Evanston
+- Houston
+- Illinois
+- Minneapolis
+- Texas
+- US
+people:
+- Alex Pretti
+- Austin
+- Donald Trump
+- Kirk Watson
+- Lorenzo Salgado Araujo
+- Renee Good
+organisations:
+- DHS
+- Deportation Data Project
+- ICE
+- Immigration and Customs Enforcement
+- Trump
+- US Department of Homeland Security
 ---
 
 Authorities in Illinois are investigating a case on Sunday in which a US citizen was detained by federal immigration agents before ending up at a hospital with injuries.

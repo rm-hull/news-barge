@@ -11,6 +11,15 @@ description: After half a decade, a new Windows 11 update finally lets you move 
 image: https://cdn.mos.cms.futurecdn.net/nFyn4dtH5kRPgwdWzh6QJn-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Redditor
+organisations:
+- Bleeping Computer
+- Google News
+- Hachette UK
+- Microsoft Store
+- Settings
 ---
 
 ![Windows 11 working on a laptop PC, showing the taskbar](https://cdn.mos.cms.futurecdn.net/nFyn4dtH5kRPgwdWzh6QJn.jpg) 

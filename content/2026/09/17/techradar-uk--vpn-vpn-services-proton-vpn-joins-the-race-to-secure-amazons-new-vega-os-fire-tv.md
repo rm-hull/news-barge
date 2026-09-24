@@ -10,6 +10,28 @@ description: The Swiss-based provider has just dropped a dedicated app for Amazo
 image: https://cdn.mos.cms.futurecdn.net/sEfyxXKf6ReEmH3nwypnr6-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Africa
+- Asia
+- Switzerland
+people:
+- Rene Millman
+organisations:
+- Amazon Fire TV Sticks
+- Computer Weekly
+- ExpressVPN
+- Financial Times
+- Google News
+- IPVanish
+- IT Pro
+- No Trace
+- NordVPN
+- Proton VPN
+- Surfshark
+- The Guardian
+- Vega OS
+- Vega OS Amazon
+- Vega OS VPN ecosystem Proton
 ---
 
 ![Amazon Fire TV Stick HD (2026)](https://cdn.mos.cms.futurecdn.net/sEfyxXKf6ReEmH3nwypnr6.jpg) 

@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Baptist Place
+- Bradford
+- City Village
+- Infirmary Fields
+- Oastler Centre
+- Oastler Market
+- St Thomas Road
+- St Thomas’s Road
+- Westgate Bus Hotspot
+- White Abbey Road
+people:
+- Andrew Judson
+organisations:
+- Bradford Council
+- Economy, Regeneration and Planning
+- Reform Led Executive
+- West Yorkshire Combined Authority
 ---
 
 A NINE-month scheme to ease congestion on a major route into Bradford city centre will begin on Monday.

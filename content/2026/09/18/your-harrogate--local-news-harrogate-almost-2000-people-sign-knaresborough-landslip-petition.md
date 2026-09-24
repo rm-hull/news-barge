@@ -14,6 +14,21 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg
+locations:
+- Harrogate
+- Knaresborough
+- Network Rail
+- North Yorkshire
+- River Nidd
+- Viaduct Terrace
+people:
+- Cllr Gostlow
+- Hannah Gostlow
+- Matt Walker
+organisations:
+- Knaresborough Town Council
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg)

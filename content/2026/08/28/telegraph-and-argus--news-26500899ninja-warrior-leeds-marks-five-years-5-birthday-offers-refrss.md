@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people:
+- Alan Milner
+- Stephen Wilson
+organisations:
+- Instagram
+- NINJA Warrior UK Leeds
+- Ninja Warrior UK Leeds
+- Oxygen Activeplay
+- Spider Wall
 ---
 
 *(Image: Alan Milner)*

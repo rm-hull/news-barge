@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Downing Street
+- Liverpool
+- London
+- Tooting
+- Whitehall
+people:
+- Antonia Romeo
+- Brian Leveson
+- Charles
+- Chipping Norton
+- Chris Wormald
+- Christopher
+- Keir Starmer
+- Liz Truss
+- Lord Cameron
+- Lord Case
+- Lord Khan
+- Lord Leveson
+- Lord McCobb
+- Lord McTague
+- Lord Neri
+- Lord O’Donnell
+- Lord Wormald
+- Nick Clegg
+- Sadiq Khan
+- Tom Scholar
+organisations:
+- Cabinet Office
+- Department for Communities and Local Government
+- Department for Education
+- Department for Health and Social Care
+- Department of Education and Science
+- House of Lords
+- Keir Starmer
+- Labour
+- The Guardian
+- The Times
+- Treasury
 ---
 
 Sir Chris Wormald, the former head of the civil service, has officially taken his seat in the House of Lords.

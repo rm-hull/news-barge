@@ -15,6 +15,53 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/21474530.jpg?type=og-image
+locations:
+- North East
+- North Yorkshire
+- Old London Town
+- Richmond
+- Wensleydale Whey
+people:
+- Adrian Bramley
+- Brenda Hale
+- Charlie Baker
+- Daniel Foxx
+- Flanders
+- Gilbert
+- Gregan Davis
+- Hindpal Singh Bhui
+- Ian Hodgson
+- Jake Thackray
+- Jean Anouilh
+- Jo Mawhinney
+- John Godber
+- Marriott Edgar
+- Ms Mawhinney
+- Oscar Wilde
+- Ronnie Barker
+- Spike Milligan
+- Sullivan
+- Swann
+- Terry Deary
+- Tom Lehrer
+organisations:
+- 10CCLO
+- 10cc
+- Abigail’s Party
+- Darlington Hippodrome
+- Dot Productions
+- Electric Light Orchestra
+- Georgian Theatre Royal
+- HM Inspectorate of Prisons
+- Horrible Histories
+- Mikron Theatre Company
+- Our Star Theatre
+- Richmond Amateur Dramatic Society
+- The Cavern
+- The Highwayman
+- The Pirates of Penzance
+- UK Supreme Court
+- West Yorkshire Savoyards
 ---
 
 *(Image: Ian Hodgson)*

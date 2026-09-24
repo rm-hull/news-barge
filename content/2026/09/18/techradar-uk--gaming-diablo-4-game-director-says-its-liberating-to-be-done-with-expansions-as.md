@@ -14,6 +14,18 @@ image: https://cdn.mos.cms.futurecdn.net/KqinH94xSBYjRSednwJ7wk-2000-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Brent Gibson
+- Mephisto
+organisations:
+- BlizzCon
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![Diablo 4](https://cdn.mos.cms.futurecdn.net/KqinH94xSBYjRSednwJ7wk.jpg) 

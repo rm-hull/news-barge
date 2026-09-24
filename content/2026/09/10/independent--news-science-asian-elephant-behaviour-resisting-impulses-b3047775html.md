@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- Koh Samui
+- Samui Elephant Haven
+- Thailand
+people: []
+organisations:
+- National Elephant Institute
 ---
 
 Asian elephants can inhibit their impulses to tackle problems more effectively, researchers say, putting them in a select group of animals with such ability.

@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Asenby
+- Bay
+- County Durham
+- Fylingthorpe
+- Hunmanby
+- Muker
+- North Yorkshire
+- Rievaulx
+- Ripon
+- River Swale
+- Robin Hood
+- Selby
+- Thirsk
+- Whitby
+people:
+- Asenby
+- Bobby Robson
+organisations:
+- Yorkshire
 ---
 
 *(Image: GOOGLE)*

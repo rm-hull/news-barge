@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Al-Mughayyir
+- East Jerusalem
+- Israel
+- Judea
+- Maale Adumim
+- Ramallah
+- Salim
+- Samaria
+- UK
+- West Bank
+- West Bank.
+- al-Mughayyir
+people:
+- Abu Naem
+- Aws al-Naasan
+- Bassam al Assaf
+- Bassam al-Assaf
+- Benjamin Netanyahu
+- God
+- Hadi al-Naasan
+- Haroon Bishara
+- Jihad
+- Salim
+- Sami Abu Rahma
+- Waheed Abu
+- Waheed Abu Naem
+organisations:
+- Finance Ministry
+- Peace Now
+- UN Commission of Inquiry
+- al-Mughayyir
 ---
 
 Fears for children's safety in West Bank school as settler attacks rise

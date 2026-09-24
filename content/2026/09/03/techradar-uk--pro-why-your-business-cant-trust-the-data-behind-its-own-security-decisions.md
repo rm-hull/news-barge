@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Andrew Lintell
+organisations:
+- CPS
+- Claroty You
+- EMEA
+- Future plc
+- HVAC
+- OEM
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Phishing, E-Mail, Network Security, Computer Hacker, Cloud Computing Cyber Security 3d Illustration](https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX.jpg) 

@@ -15,6 +15,48 @@ categories:
 - Society & Culture
 - News & Politics
 - History
+locations:
+- America
+- Chicago
+- Clifford’s Tower
+- Ground Zero
+- Heworth
+- Kent Street
+- New York
+- New York City
+- North Yorkshire
+- Old York
+- Pennsylvania
+- South Tower
+- Twin Towers
+- UK
+- USA
+- Walmgate
+- York Minster
+people:
+- Alice Kavanagh
+- Allanson
+- Barlow
+- Firefighters Metcalfe
+- Hugh Bayley
+- John Bibby
+- Lawrence Rainey
+- Norman Denton
+- Osama bin Laden
+- Patrick Sison
+- Paul Berriff
+organisations:
+- Al-Qaeda
+- American Airlines
+- Gannett
+- New **__York City__** Fire Department
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire Fire and Rescue Service
+- Pentagon
+- Press Association
+- The Evening Press
+- The Press
+- World Trade Centre
 ---
 
 A routine morning in York was shattered by news that would change the world.

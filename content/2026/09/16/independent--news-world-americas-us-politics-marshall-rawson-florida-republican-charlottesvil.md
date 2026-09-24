@@ -14,6 +14,27 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Charlottesville
+- North Florida
+- Virginia
+people:
+- Heather Heyer
+- James Alex Fields Jr.
+- Marshall Rawson
+- Megan
+- Merrillee Malwitz-Jipson
+- Robert E. Lee
+organisations:
+- Confederate
+- Facebook
+- Federal Activist
+- Fields
+- Florida House District
+- Florida House of Representatives
+- League of the South
+- Talking Points Memo
+- The Independent
 ---
 
 A Republican running for a seat in the Florida House of Representatives marched with neo-Nazis in the infamous “Unite the Right” rally in Charlottesville, Virginia, in 2017, according to a new report.

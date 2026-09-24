@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Los Angeles
+- Minneapolis
+- Phoenix
+- Seattle
+people:
+- Bill Peterson
+- Chris Miller
+- Garrett Parten
+- Hallie Golden
+- Josh Kelety
+- Julius Bailey
+- Mark Vancleave
+- Safiyah Riddle
+organisations:
+- Associated Press
+- Interim Police
+- Minnesota Bureau of Criminal Apprehension
 ---
 
 Investigators on Thursday were scouring the scene of the downtown Minneapolis shooting that left three people dead, including the suspect, and five others injured.

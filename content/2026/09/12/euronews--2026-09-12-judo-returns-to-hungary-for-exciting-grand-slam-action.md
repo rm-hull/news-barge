@@ -13,6 +13,42 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Budapest
+- Bulgaria
+- Japan
+- Papp Laszlo Arena
+- Poland
+- Spain
+people:
+- Alejandro BLANCO
+- Ashpiz
+- Ayumi LEIVA SANCHEZ
+- Barbara TWAROWSKA
+- Boyan YOTOV
+- Filomena FORTES
+- Funakubo
+- Giliazova
+- Haruka FUNAKUBO
+- Ippon
+- Izhak ASHPIZ
+- Kristina DUDINA
+- LEIVA SANCHEZ
+- Laszlo TOTH
+- Leiva Sanchez
+- Mustapha BERRAF
+- Petra SÖRLING
+- Sabina GILIAZOVA
+- Ura-nage
+- Yotov
+- yuko
+organisations:
+- FUNAKUBO
+- GILIAZOVA
+- IOC
+- International Judo Federation
+- Papp Lazlo Arena
+- YOTOV
 ---
 
 **Euronews** with

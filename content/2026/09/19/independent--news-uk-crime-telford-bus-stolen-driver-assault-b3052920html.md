@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Automotive
 image: https://static.independent.co.uk/2026/09/19/15/50/parkway-telford.png?trim=0,161,0,160&width=1200&height=800&crop=1200:800
+locations:
+- Court Street
+- High Street
+- Madeley
+- Park Way
+- Telford
+- West Mercia
+people:
+- Taigh Lannie
+organisations:
+- TelfordCID
 ---
 
 A bus was stolen and ploughed into several vehicles after its driver was allegedly assaulted and thrown out of the vehicle.

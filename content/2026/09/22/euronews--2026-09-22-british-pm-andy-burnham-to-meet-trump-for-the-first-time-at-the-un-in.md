@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/14/83/1200x675_cmsv2_d3926349-4860-56a9-a96c-b650fb08258f-9921483.jpg
+locations:
+- Argentina
+- Britain
+- Chatham House
+- Denmark
+- Downing Street
+- Falkland Islands
+- Gaza
+- Greater Manchester
+- Greenland
+- Iran
+- Middle East
+- New York
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+- Washington
+- West Bank
+people:
+- Andy Burnham
+- Donald Trump
+- Olivia O'Sullivan
+organisations:
+- UN General Assembly
 ---
 
 ## Previously, as the mayor of Greater Manchester, Andy Burnham had said Trump was not welcome in the city and that he would refuse to meet him.

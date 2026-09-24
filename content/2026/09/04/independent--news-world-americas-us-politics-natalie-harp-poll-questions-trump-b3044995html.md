@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Georgia
+- Iran
+- Qatar
+- Turkey
+- White House
+people:
+- Donald Trump
+- Emir
+- Jon Ossoff
+- Jonathan Swan
+- Kush Desai
+- Maggie Haberman
+- Natalie Harp
+organisations:
+- Air Force One
+- Cabinet
+- Daily Mail
+- Fake News Media
+- JL Partners
+- NATO
+- New York Times
+- The Independent
+- Trump
 ---
 
 Americans have questions about Natalie Harp, President Donald Trump’s famously ultra-loyal White House aide.

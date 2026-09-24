@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Duxbury
+- Massachusetts
+- Northern New England
+- Plymouth County
+- United States of America
+people:
+- Callan
+- Cora
+- Dawson
+- Donald J Trump
+- Edward Paltzik
+- Lindsay Clancy
+- Michael P Desronvil
+- Patrick Clancy
+- Ray Marcel
+- Roni Carlson
+- William Sullivan
+organisations:
+- NBC Boston
+- NewsNation
+- Paltzik
+- The New York Post
 ---
 
 The lone holdout juror in the Lindsay Clancy trial, who refused to accept the defendant’s not guilty by reason of insanity plea, has insisted he never wavered in his opinion on the case.

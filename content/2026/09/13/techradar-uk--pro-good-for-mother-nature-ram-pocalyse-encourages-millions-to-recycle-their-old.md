@@ -10,6 +10,18 @@ description: Your old phone could be worth more now as rising memory prices tran
 image: https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Apple
+- B-Stock
+- Efosa
+- Google News
+- S22 Ultra
+- S23 Ultra
+- S24 Ultra
+- Samsung
+- TechRadar Pro
 ---
 
 ![Smartphones](https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG.jpg) 

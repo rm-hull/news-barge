@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Bradford
+- Britain
+- Chester
+- Coronation Street
+- Leeds
+- Little Horton Lane
+- Morley
+- West End
+people:
+- Alan
+- Aunt Anna Rose
+- Bradford
+- Elsie Tanner
+- Harry Hanson
+- JEAN
+- Jean Kitson
+- Jean Steps Out
+- Pat Phoenix
+- Patricia Pilkington
+- Peter Marsh
+- Sybil Thorndike
+organisations:
+- Bradford Cathedral
+- Bradford The
+- Court Players’
+- National Science and Media Museum
+- Prince’s Theatre
+- Theatre Royal
 ---
 
 FOR a post-war generation of Bradfordians, a night at the theatre was woven into the fabric of local life. Long before television had found its way into every household, people could see a different show each week, performed by a cast of regular players – from comedy and thrillers to farces and North Country family dramas. It was called Rep – short for repertory – and the Prince’s Theatre on Little Horton Lane could boast one of the most successful companies in a nationwide network run by a larger-than-life impresario named Harry Hanson. They were called the Court Players.

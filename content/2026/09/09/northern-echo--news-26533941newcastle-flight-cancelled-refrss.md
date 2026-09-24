@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Newcastle
+- North East
+- PA
+- UK
+people:
+- Ed Miliband
+- Martin Rolfe
+organisations:
+- BA
+- British Airways
+- NATS
+- National Air Traffic Service
+- Newcastle Airport
+- Newcastle He
+- TUI TUI
+- easyJet
 ---
 
 *(Image: PA)*

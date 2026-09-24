@@ -14,6 +14,23 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Joe Burton
+- Peter Lee
+organisations:
+- Brave1
+- Clearview AI
+- Kyiv
+- Lancaster University
+- Palantir
+- Scale AI
+- University of Portsmouth
 ---
 
 ![Ukrainian servicemen prepare a drone for launch](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310541908.jpg?w=840)

@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Argentina
+- Britain
+- Chagos Islands
+- Falkland Islands
+- Falklands
+- Iran
+- Mauritius
+- Tierra del Fuego
+- UK
+- US
+- Washington
+- Western Hemisphere
+people:
+- Donald Trump
+- Ed Miliband
+- Emily Thornberry
+- Javier Milei
+- Kemi Badenoch
+- Lord West
+- Navitas
+- Sarah Rogers
+- Wes Streeting
+organisations:
+- Commons’
+- Falkland Islanders
+- IMF
+- Labour
+- Rockhopper
+- Royal Navy
+- UK Overseas Territory
+- US State Department
 ---
 
 Defence secretary Wes Streeting has insisted Britain’s commitment to the Falkland Islands is “absolute and unshakeable” after the Argentinian president threatened sanctions on oil companies in the area in a dramatic escalation of tensions.

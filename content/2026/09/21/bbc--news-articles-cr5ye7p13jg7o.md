@@ -13,6 +13,36 @@ categories:
 - Technology & Software
 - Science
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg
+locations:
+- Beijing
+- California
+- China
+- Los Angeles
+- New York
+- San Francisco
+- UK
+- US
+- Washington
+people:
+- AI
+- Charles
+- Dario Amodei
+- Donald Trump
+- He Lifeng
+- Jacob Coxon
+- Jensen Huang
+- King
+- Sam Altman
+- Scott Bessent
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- BBC
+- CBS News
+- Nvidia Corp.
+- OpenAI
+- US Treasury
 ---
 
 ![Jensen Huang, chief executive officer of Nvidia Corp., speaks during the 2026 Dreamforce conference in San Francisco, California, US, on Tuesday, 15 September, 2026. ](https://ichef.bbci.co.uk/ace/standard/776/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg)

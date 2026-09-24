@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford City
+- Bradford West
+- Greater Manchester
+- Heron House
+- London
+- Midland Road
+- North of England
+- United Kingdom
+- Valley Parade
+- West Yorkshire
+- Westminster
+- Whitehall
+people:
+- Andy Burnham
+- Angela Eagle
+- Burnham’s
+- Naz Shah
+organisations:
+- Bradford West
+- Environment Agency
+- National Crime Agency and Environment Agency
+- PA Agency
+- Scott Heppell
 ---
 
 *This week's MP column is written by Bradford West MP Naz Shah*

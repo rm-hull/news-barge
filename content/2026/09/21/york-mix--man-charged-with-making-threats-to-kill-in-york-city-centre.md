@@ -11,6 +11,15 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/three-police-officers-york-nyp.webp
+locations:
+- North Yorkshire
+- York
+people:
+- Jack Milner
+organisations:
+- York BID
+- York BID Street Rangers
+- York Magistrates Court
 ---
 
 A man was due in court today charged with making threats to kill in York city centre.

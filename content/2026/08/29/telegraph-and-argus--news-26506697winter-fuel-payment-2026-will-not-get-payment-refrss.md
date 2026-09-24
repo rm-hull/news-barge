@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- HMRC
+- State Pension
+- Wales
 ---
 
 *(Image: Getty Images/iStockphoto)*

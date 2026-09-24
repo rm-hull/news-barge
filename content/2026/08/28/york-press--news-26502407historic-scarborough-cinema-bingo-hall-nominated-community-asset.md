@@ -13,6 +13,32 @@ categories:
 - York
 - Arts & Culture
 - History
+locations:
+- Abermarle Crescent
+- Capitol Plaza
+- Hull
+- Mecca Bingo
+- North Yorkshire
+- Scarborough
+- Sheffield
+- UK
+- York
+people:
+- George Wakely
+- Scarborough
+organisations:
+- Capitol Plaza
+- Capitol Theatre Trust
+- Futurist Theatre
+- Mecca AN
+- Mecca Bingo
+- Newsquest
+- North Yorkshire Council
+- Open-Air Theatre
+- Scarborough
+- Stephen Joseph Theatre
+- The Spa
+- Trustees
 ---
 
 ## Historic North Yorkshire cinema and bingo hall nominated as community asset

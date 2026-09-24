@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Nepal
+- Rasuwa
+- Trishuli 3A
+- Trishuli Valley
+people:
+- Kabir Maharjan
+- Sanjay Sah
+organisations: []
 ---
 
 Nepal Army handout images show the rescue of two hydropower workers who survived for nine days inside a tunnel buried by mud and debris after devastating floods swept through the country’s Trishuli Valley.

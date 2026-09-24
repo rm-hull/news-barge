@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Downing Centre
+- Paris
+- Sydney
+people:
+- Alan Jones
+- Gabrielle Bashir
+- Glenn Walsh
+organisations: []
 ---
 
 An alleged victim of Alan Jones has told a Sydney court that an unwanted kiss from the former shock jock more than a decade ago is seared in his memory and he wished it never happened.

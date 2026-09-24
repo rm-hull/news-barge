@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/14/Wine_Grape_Glut_99634.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Australia
+- California
+- Canada
+- Central Valley
+- China
+- Europe
+- Lodi
+- Napa
+- San Joaquin Valley
+- Sonoma Valley
+- U.S.
+people:
+- Bill Berryhill
+- Jeff Bitter
+- Kyle Collins
+- Rob McMillan
+organisations:
+- Allied Grape Growers
+- Berryhill Family Vineyards
+- First Citizens Bank
+- International Organization of Vine and Wine
+- Silicon Valley Bank
+- State of the Wine Industry Report
 ---
 
 It's harvest time in California wine country, but many growers are struggling to sell their grapes as changing drinking habits have caused demand to plunge. The decline is forcing some growers to tear out vineyards that their families have grown for generations.

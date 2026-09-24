@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 image: https://mmo.aiircdn.com/409/6ab377dc60fcac4ce6d.jpg
+locations:
+- Harrogate
+- Learning Centre
+- Sunley Room
+- Wolfson Room
+people:
+- Sarah Mullan
+organisations:
+- Garden Detectives
+- Monster Hair Planting
+- Public Programming Manager
+- RHS Garden Harlow Carr
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab377dc60fcac4ce6d.jpg)

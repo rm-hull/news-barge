@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- England
+- London
+people:
+- Katie Razzall
+organisations:
+- BBC
+- British Museum
 ---
 
 # Watch: Is the Bayeux Tapestry exhibition worth the hype?

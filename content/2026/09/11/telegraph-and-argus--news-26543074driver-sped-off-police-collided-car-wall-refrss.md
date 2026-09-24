@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- HMP Leeds
+- Halifax Road
+- Huddersfield
+- Ladstone Towers
+- Sowerby Bridge
+- Todmorden
+people:
+- Haden Walsh
+- Stephen Earl
+organisations:
+- B&M
+- Bradford Crown Court
+- CCTV
+- Google Street View
+- Morrisons
 ---
 
 *(Image: Google Street View)*

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Atlantic
+- Eddystone Lighthouse
+- English Channel
+- Falmouth
+- France
+- Plymouth
+- The Maranello
+- The Stradale
+- Truro Hospital
+people: []
+organisations:
+- French Navy
+- HM Coastguard
+- MCA
+- Maranello
+- Maritime and Coastguard Agency
+- RNLI
+- Stradale
 ---
 
 A search for two missing crew members has been officially concluded after a French fishing boat sank in the English Channel, though three other people were safely rescued.

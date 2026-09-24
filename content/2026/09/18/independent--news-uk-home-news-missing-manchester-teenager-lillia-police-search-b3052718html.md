@@ -12,6 +12,24 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/18/18/57/Screenshot-2026-09-18-at-19-51-20.png?trim=0,4,0,116&width=1200&height=800&crop=1200:800
+locations:
+- Bolton
+- Greater Manchester
+- Market Street
+- Piccadilly Gardens
+- Trafford Centre
+people:
+- Helen Critchley
+- Lill
+- Lillia
+organisations:
+- CCTV
+- Crimestoppers
+- GMP
+- Greater Manchester Police
+- Major Incident Public Portal
+- McDonald’s
+- Nike
 ---
 
 Detectives searching for a missing teenager who vanished from her family home a week ago have released fresh CCTV footage capturing her in central Manchester.

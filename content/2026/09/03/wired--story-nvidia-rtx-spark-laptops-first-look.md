@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Berlin
+people: []
+organisations:
+- AI
+- AMD Developer Kit
+- Acer
+- Apple
+- Asus ProArt P16
+- CPU
+- GPU
+- IFA
+- Lenovo
+- M5 Ultra Mac Studio
+- M6 Mac
+- Microsoft Surface Laptop Ultra
+- Nvidia
+- OLED
+- OpenClaw
+- PC
+- RAM
+- RTX
 ---
 
 Three months ago, Nvidia took the wraps off its RTX Spark “superchip” and a handful of future laptops that would use it. It felt like a consequential moment in the history of the PC, despite all the questions that remained.

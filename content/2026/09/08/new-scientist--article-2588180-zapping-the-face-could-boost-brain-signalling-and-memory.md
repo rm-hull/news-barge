@@ -12,6 +12,16 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Belgium
+- New York
+people:
+- Myles McLaughlin
+- Nelson Dellis
+- Siyar Bahadir
+organisations:
+- Leuven Brain Institute
+- The Feinstein Institutes
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311177986.jpg?w=840)

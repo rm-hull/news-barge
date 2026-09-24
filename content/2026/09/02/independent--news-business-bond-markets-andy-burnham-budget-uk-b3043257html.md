@@ -14,6 +14,37 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Burnham-Healey
+- Downing Street
+- Iran
+- Strait of Hormuz
+- UK
+- US
+people:
+- Andy Burnham
+- Bonds
+- Daniel Mahoney
+- John Healey
+- Jonathan Raymond
+- Kristalina Georgieva
+- Ray Dalio
+- Russ Mould
+- Scott Bessent
+organisations:
+- AJ Bell
+- Bank of England
+- Bank of Japan
+- European Central Bank
+- Federal Reserve
+- G7
+- Government
+- Handelsbanken
+- International Monetary Fund
+- PM
+- Quilter Cheviot
+- The Independent
 ---
 
 Bonds are back in the headlines after hitting their highest level since the global financial crisis, with 10-year returns now standing at 5.29 per cent.

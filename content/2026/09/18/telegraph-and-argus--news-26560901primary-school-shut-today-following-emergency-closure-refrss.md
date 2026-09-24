@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- BRADFORD
+- Baildon
+- Coverdale Way
+- Ryan Street
+- West Bowling
+people: []
+organisations:
+- '### Yorkshire Water'
+- Baildon Church of England Primary School
+- Bradford Council
+- Google Maps
+- Newby Primary
+- Newby Primary School
+- Yorkshire Water
 ---
 
 *(Image: Google Maps)*

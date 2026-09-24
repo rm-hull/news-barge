@@ -15,6 +15,19 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Darlington
+- North East
+- Washington
+people:
+- Nicky Middleton
+organisations:
+- Angela Carrington BA
+- CPP
+- Oasis Sales and Lettings
+- The One Stop Property Shop North East
+- YTS
+- Youth Training Scheme
 ---
 
 *(Image: Angela Carrington BA(Hons)CPP)*

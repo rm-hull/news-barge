@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Alexander Drive
+- Durham Crown Court
+- Hetton-le-Hole
+- Market Crescent
+- Peterlee Police Station
+- Wingate
+people:
+- Alexander Strother
+- Luke Wilson
+- Martin Scarborough
+- Richard Clews
+organisations:
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

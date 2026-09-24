@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Bradford
+- Leeds Road
+people: []
+organisations:
+- Al Halal Foods
+- RTC
+- T&A
+- Telegraph & Argus
+- West Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Telegraph & Argus)*

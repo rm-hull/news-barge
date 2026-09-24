@@ -10,6 +10,28 @@ categories:
 - Technology & Software
 - Education & Learning
 image: https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg
+locations:
+- DELTA
+- EXILE
+- LIMBO
+- North London
+- Quordle
+people:
+- '## Quordle'
+- Elton John
+- Fred
+- HIPPO
+- Johnny
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+organisations:
+- Channel 5
+- NYT Strands
+- Pop Detective
+- TITAN
 ---
 
 ![Quordle on a smartphone held in a hand](https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL.jpg)

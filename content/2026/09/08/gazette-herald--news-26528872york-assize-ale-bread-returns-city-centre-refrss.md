@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Parliament Street
+- Sheriff of York
+- St Helen’s Square
+- St Sampson’s Centre
+- Town Crier
+- York Mansion House
+people:
+- Geoff Cossins
+organisations:
+- Eventbrite
+- Goodramgate
+- Lord Mayor’s Charity Fund
+- Shared York
+- Sheriff of York
+- YO1 Radio
+- York Cares
+- York Food and Drink Festival Marquee
 ---
 
 The Assize of Ale and Bread tradition will return to York on Saturday, September 26, 2026.

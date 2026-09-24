@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/08/26/21/686c8bacd345648909648bb2a7
 categories:
 - News & Politics
 - UK
+locations:
+- Berkshire
+- Sulhamstead
+people:
+- Abdullahi Suleman
+- Aileen O’Connor
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Debbie Adlam
+- Jessie Cole
+- Leroy Douglas
+- PC Harper
+- Paul Williams
+- Shaun Anton Lloyd
+- Thomas White
+- Wayne Williams
+organisations:
+- BBC Breakfast
+- Bottom
+- IPP
+- Imprisonment for Public Protection
+- Justice
+- Thames Valley Police Federation
+- The Independent
 ---
 
 PC Andrew Harper’s killers will remain in prison after the prime minister announced changes to the early release scheme that will keep anyone convicted of unlawful killing behind bars.

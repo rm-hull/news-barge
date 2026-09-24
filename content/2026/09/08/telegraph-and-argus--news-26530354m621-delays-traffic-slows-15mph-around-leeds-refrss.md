@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Elland Road
+- Gildersome
+- Junction 27
+- Leeds
+people: []
+organisations:
+- Inrix
+- Junction 2
+- M62
+- West Yorkshire Police
 ---
 
 *(Image: Motorway Cameras)*

@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Far Labs’
+people:
+- Ilman Shazhaev
+- John Federico
+- Luke James
+- Salad
+- Tom
+organisations:
+- AI
+- AWS
+- Abu Dhabi-based Far Labs
+- Ethereum
+- Evolving Edge
+- Far Labs
+- Get Tom's Hardware
+- Google News
+- IEEE Spectrum
+- NopeReply
+- Pearl
+- Salad
 ---
 
 ![Nvidia GeForce RTX 4090](https://cdn.mos.cms.futurecdn.net/ZnmibWeDaW8opTxR9rVBfE.jpg) 

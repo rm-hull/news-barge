@@ -12,6 +12,35 @@ image: https://static.independent.co.uk/2026/08/28/15/55/burnham-eu.jpeg?trim=0,
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Downing Street
+- England
+- Europe
+- Greater Manchester
+- Liverpool
+- London
+- South East
+- UK
+people:
+- Andy Burnham
+- Anthony Seldon
+- Baroness Thatcher
+- Brexit
+- David Maddox
+- Margaret Thatcher
+- Millie Cooke
+- Naomi Smith
+organisations:
+- Brexit
+- EU
+- European Union
+- House of Commons
+- Labour
+- Makerfield MP
+- Reform
+- The Independent
+- YouGov
 ---
 
 The majority of Britons agree with Andy Burnham that the country took a wrong turn by leaving the European Union, but they are split over his belief that Margaret Thatcher’s premiership set the country on the wrong path.

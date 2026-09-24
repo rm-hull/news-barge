@@ -12,6 +12,40 @@ image: https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Jowi Morales
+- Redmond
+- Tom
+organisations:
+- AI
+- AutoCad
+- AzureCLI
+- Core Utils
+- Git
+- GitHub CLI
+- GitHub Copilot
+- Google News
+- Intelligent Terminal
+- Jowi Morales
+- Lightroom
+- MXC
+- Micro Center
+- Microsoft Execution Containers
+- NVM
+- Node
+- OEM
+- Oh My Posh
+- Photoshop
+- PowerShell 7
+- PowerToys
+- Project Zenith
+- Python
+- RAM
+- Team Red’s
+- Ubuntu
+- WinAppCLI
+- Windows Dev Skills
 ---
 
 ![AMD Ryzen AI Halo](https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3.jpg) 

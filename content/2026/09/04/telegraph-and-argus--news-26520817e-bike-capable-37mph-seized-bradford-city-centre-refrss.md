@@ -12,6 +12,17 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford City
+- City Park
+- Norfolk Gardens
+- West Yorkshire
+- West Yorkshire Police
+people:
+- Rider
+organisations:
+- West Yorkshire Police
+- West Yorkshire Police** A
 ---
 
 A rider has been reported for driving offences after police seized an e-bike capable of reaching 37mph in Bradford city centre.

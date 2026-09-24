@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Silverstone
+- Twickenham
+- UK
+- Wembley
+people:
+- Andrea Donà
+- Andy Burnham
+organisations:
+- AI
+- BT
+- EE
+- EU
+- G7
+- O2
+- Openreach
+- Opensignal
+- VodafoneThree
+- Which?
 ---
 
 The UK risks becoming a laggard in the global AI race as crucial telecoms upgrades to harness the technology fall behind rival nations, according to senior industry executives.

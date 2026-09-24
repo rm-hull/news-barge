@@ -11,6 +11,43 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/waAsQQw5hho4rvzqPTtagY-1920-80.jpg
+locations:
+- Chicago
+- Los Angeles
+- Mother's Rest
+- US
+- Virgin River
+people:
+- '![Reacher'
+- Alan Ritchson
+- Christopher Rodriguez-Marquette
+- George Cooper Sr.
+- Jack Reacher
+- Jacob Merrick
+- Keever
+- Kevin Corrigan
+- Kevin Weisman
+- Lee Child
+- Maria Sten
+- Michelle Chang
+- Neagley
+- Peter Friedlander
+- Russell Plum
+- Shaun Docherty
+- Sydelle Noel
+- Tamara Green
+organisations:
+- Amazon MGM Studios
+- FBI
+- Global Television
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Reacher puts his hands behind his head](https://cdn.mos.cms.futurecdn.net/waAsQQw5hho4rvzqPTtagY.jpg)

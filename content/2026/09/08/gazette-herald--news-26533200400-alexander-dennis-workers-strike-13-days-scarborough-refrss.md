@@ -14,6 +14,25 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Europe
+- Larbert
+- Liverpool
+- North Yorkshire
+- Scarborough
+- Scotland
+- UK
+people:
+- Alexander Dennis
+- Alexander Dennis’
+- Dan Stephens
+- Sharon Graham
+organisations:
+- Alexander Dennis Facility
+- LDRS
+- Liverpool City Region Combined Authority
+- Local Democracy Reporting Service
+- Unite
 ---
 
 Hundreds of staff at a major North Yorkshire manufacturing business are expected to continue strike action in a months-long dispute over pay.

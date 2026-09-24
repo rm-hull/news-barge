@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '## Cordon'
+- A MAIN
+- A1036 Tower Street
+- Fishergate Gyratory
+- Kevin Glenton
+- Lead Mill Lane
+- Paragon Street
+- Piccadilly
+- The Postern Gate
+- Tower Street
+- Walmgate Bar
+- York
+people:
+- Kevin Glenton
+organisations:
+- City of York Council
+- The Press
 ---
 
 ## Cordon in place and route closed after storm damages road in York

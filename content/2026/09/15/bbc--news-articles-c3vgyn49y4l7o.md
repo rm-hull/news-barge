@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Free Palestine
+- Gaza
+- Gilette Stadium
+- Israel
+- Las Vegas
+- Massachusetts
+- MetLife Stadium
+- Nevada
+- New Jersey
+- US
+- West Bank
+people:
+- Benjamin Haggerty
+- Ed Sheeran
+- Hamas
+- Macklemore
+- Pink
+- Robert Kraft
+organisations:
+- '## Hind''s Hall'
+- Columbia University
+- Hind's Hall
+- Instagram
+- Israeli American Council
+- Macklemore
+- Messina Touring Group
+- Rolling Stone
+- StopAntisemitism
+- UN
 ---
 
 ![Singer/songwriter Ed Sheeran (L) and rapper Macklemore perform during the 2014 iHeartRadio Music Festival at the MGM Grand Garden Arena on September 20, 2014 in Las Vegas, Nevada. Sheeran is wearing a checked shirt and holding a guitar. Macklemore is wearing a black jacket.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fec9/live/093de4c0-b066-11f1-b9fd-8be7457ad079.jpg)

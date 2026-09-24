@@ -12,6 +12,55 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/sQCPYP35BKwboBFnxkuMyA-1600-80.jpg
+locations:
+- DC
+- Jordan
+- Rushville
+people:
+- Aleena
+- Amie MacKenzie
+- Blake Lively
+- Carl Ferris
+- Carol Ferris
+- Carol Ferris'
+- Gil Kane
+- Green
+- Hal Jordan
+- John Broome
+- John Stewart
+- Kyle Chandler
+- Lars Ulrich Thomsen
+- Leonardo DiCaprio
+- Ryan Reynolds
+- Sinestro
+- Star Sapphire
+- Tom
+- Violet
+- Zamarons
+organisations:
+- DC Comics
+- DCU
+- Disney Plus
+- Ferris Aircraft
+- Google News
+- Green Lantern Corps
+- Guardians of the Universe
+- HBO
+- Hal's
+- Lantern Corps
+- Lanterns
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Peacock
+- Sinestro
+- Star Sapphire
+- Star Sapphire Corps
+- Star Wars
+- TechRadar
+- Violet Lantern Corps
+- Yellow Lantern Corps
 ---
 
 ![Kyle Chandler&#039;s Hal Jordan standing outside of a prison in Lanterns on HBO Max](https://cdn.mos.cms.futurecdn.net/sQCPYP35BKwboBFnxkuMyA.jpg)

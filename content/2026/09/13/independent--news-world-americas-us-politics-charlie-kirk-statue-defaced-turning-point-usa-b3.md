@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arizona
+- Phoenix
+- Turning Point USA
+- Utah
+people:
+- Charlie Kirk
+- Erika Kirk
+- God
+- Jesus
+- Tyler Bowyer
+organisations:
+- Fox News
+- Point USA
+- Salt Lake Tribune
+- Turning Point
+- Turning Point USA
+- Utah Valley University
 ---
 
 A newly unveiled statue of conservative podcaster and organizer Charlie Kirk was defaced outside Turning Point USA’s headquarters in Phoenix, Arizona, on Sunday.

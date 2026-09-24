@@ -13,6 +13,19 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZhNDNmYzEzLWM5Y2QtNDU0Zi1hNWFmLTI3NTViNDlhNzM4NjpjNGMxZGIwOC1kOWNmLTRhZTctYmJkYS1jYTFkMDU0NDVmMmE=.png?crop=3:2,smart&trim=&width=544&auto=webp&quality=75
+locations:
+- North Yorkshire
+- Scalby Road
+- Scarborough RUFC
+people:
+- Newby
+organisations:
+- North Yorkshire Council
+- RUFC
+- Scalby Town Council
+- Scarborough Rugby Union Football Club
+- Yorkare Homes
+- Yorkare Homes Ltd
 ---
 
 # 75-bed North Yorkshire care home approved despite concerns over GP services

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Harlem
+- Manhattan
+- Melrose
+- Morrisania
+- New York City
+- South Bronx
+- Upper East Side
+- Yankee Stadium
+people: []
+organisations:
+- Health Department
+- New York City Department of Health
+- U.S. Centers for Disease Control and Prevention
+- Yankees
 ---
 
 Bacteria that cause potentially fatal Legionnaires' disease have been detected in a cooling tower at Yankee Stadium, one of 10 Bronx structures testing positive amid a cluster of cases that has resulted in one death, New York City health officials said.

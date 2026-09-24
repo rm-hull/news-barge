@@ -15,6 +15,22 @@ categories:
 - Travel
 - Outdoors & Nature
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQzNDM3OGQzLTkwOTUtNDBiYS1iMDRmLWJkYmJhYmNlOTczMzpkOTVjNDA1YS0xMWRjLTQ4MDEtYTgwMS03ZDFiZTI1ZDQzZDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Earth
+- North York Moors National Park
+- Sun
+- UK
+- Yorkshire
+people:
+- Emily Brunsden
+organisations:
+- Earth
+- Hubble Space Telescope
+- NASA
+- Northern Lights
+- Sun
+- University of York
+- Yorkshire Dales National Park
 ---
 
 # "I'm an astrophysicist - here's why autumn is the best time for spotting Northern Lights in the UK"

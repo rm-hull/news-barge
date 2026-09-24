@@ -15,6 +15,13 @@ categories:
 - Automotive
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21478710.jpg?type=og-image
+locations:
+- Newgate Street
+- Princes Street
+people:
+- Lucy Wilson
+organisations:
+- Northern Echo
 ---
 
 * Good afternoon, welcome to this Northern Echo live breaking news blog. Drivers are being asked to avoid Newgate Street, as it is currently closed at the junction with Princes Street following a crash between a car and a motorbike.

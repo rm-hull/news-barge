@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bradford
+people:
+- Tony Haines
+organisations:
+- Bradford Business Fair
+- Liverpool BA
+- Mercure Bradford Bankfield Hotel
 ---
 
 *(Image: Supplied)*

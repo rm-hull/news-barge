@@ -11,6 +11,27 @@ description: China appears to be building a 670ft mothership for 148ft robot sub
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/X5DPDeFcG3TSkqdJMgSU3U-970-80.jpg
+locations:
+- Beijing
+- Hudong-Zhonghua
+- Pacific
+- Shanghai
+- South China Sea
+- US
+people:
+- H I Sutton
+- Rahim Amir
+organisations:
+- Defence Security Asia
+- Google News
+- KAROTASU
+- Naval News
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- US Navy
 ---
 
 ![China](https://cdn.mos.cms.futurecdn.net/X5DPDeFcG3TSkqdJMgSU3U.jpg)

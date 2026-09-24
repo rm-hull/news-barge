@@ -13,6 +13,27 @@ image: https://images.euronews.com/articles/stories/09/89/71/36/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Ceuta
+- Europe
+- Iberian Peninsula
+- Israel
+- Morocco
+- Russia
+- Spain
+people:
+- Pedro Sánchez
+organisations:
+- Cadena Ser
+- DANA
+- EU
+- El Trampolín
+- Euronews'
+- Europa Press
+- NGOs
+- Red Cross
+- Spanish Red Cross
+- The Cube
 ---
 
 ## A series of social media posts has attacked the Red Cross for how it handled the Ceuta crisis, with some claiming it has helped to transport Moroccan men to the Spanish mainland, and others alleging it chose to help migrants over Spaniards. The Cube investigates.

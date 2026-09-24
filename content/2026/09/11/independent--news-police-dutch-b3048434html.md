@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Graubuenden
+- Susch
+- Switzerland
+- Zernez
+people: []
+organisations: []
 ---
 
 Police say 5 dead, 40 injured in tour bus crash in eastern Switzerland

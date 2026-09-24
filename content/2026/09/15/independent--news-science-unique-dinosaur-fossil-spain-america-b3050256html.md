@@ -13,6 +13,26 @@ categories:
 - UK
 - Science
 - History
+locations:
+- Dinópolis
+- Europe
+- La Tejería
+- Losillasauru
+- Morrison Formation
+- Museo Aragonés de Paleontología
+- North America
+- Spain
+- Teruel
+- Turiasaurus
+- US
+- proto-Atlantic Ocean
+- proto-North Atlantic Ocean
+people:
+- Alberto Cobos
+- Sergio Sánchez Fenollosa
+- Sánchez Fenollosa
+organisations:
+- El Castellar
 ---
 
 A complete fossil of the iconic Diplodocus has been discovered in Europe for the first time, upending our understanding of dinosaur distribution during the Late Jurassic period.

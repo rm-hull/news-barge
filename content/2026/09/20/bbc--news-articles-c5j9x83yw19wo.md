@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0234/live/a1921420-b2a1-11f1-bd7d-0f16235ccc4c.jpg
+locations:
+- Drouot
+- Paris
+- Saint-Tropez
+- St Tropez
+people:
+- Brigitte Bardot
+- Cecile Dupuis
+- Frank Guillou
+- Nicolas-Jacques Charrier
+- Repetto
+organisations:
+- Guerlain
+- Le Creuset
+- Millon
+- Olivetti
+- Peugeot
 ---
 
 ![A black and white photograph of Bardot on the set of the 1962 film A Very Private Affair. She has a black headband in her backcombed blonde hair and wears her signature cat-eye eyeliner with a black leotard, black tights and ballet flat shoes. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0234/live/a1921420-b2a1-11f1-bd7d-0f16235ccc4c.jpg)

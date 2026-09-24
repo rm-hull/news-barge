@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/08/31/22/2026-08-31T202720Z_1117310
 categories:
 - News & Politics
 - UK
+locations:
+- Washington
+- White House
+people:
+- Alison Hoagland
+- John Roberts
+- Roberts’
+- Trump
+organisations:
+- Congress
+- D.C
+- East Wing
+- National Trust
+- National Trust for Historic Preservation
+- Secret Service
+- Supreme Court
+- U.S. Court of Appeals
 ---
 
 A 5-4 conservative majority on the Supreme Court ruled Monday that construction on a new $400 million White House ballroom can proceed, reversing lower court orders that had temporarily halted aboveground work on the project.

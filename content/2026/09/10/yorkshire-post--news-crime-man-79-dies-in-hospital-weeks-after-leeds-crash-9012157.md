@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Bellbrooke Avenue
+- Harehills
+- Leeds
+people:
+- Man
+organisations:
+- Foundry Approach
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 # Man, 79, dies in hospital weeks after Leeds crash

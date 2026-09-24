@@ -13,6 +13,43 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Anglophone Cameroon
+- Bangladesh
+- Egypt
+- Gaza
+- Guinea
+- Iran
+- Myanmar
+- Nigeria
+- Senegal
+- Silicon Valley
+- Togo
+- Zambia
+people:
+- Anthonio
+- Antonio
+- Chiara Castro
+- Hosni Mubarak
+- TechRadar
+organisations:
+- Access Now
+- African Commission on Human and Peoples' Rights
+- Chiara
+- ECOWAS Community Court of Justice
+- Felicia Anthonio
+- Google News
+- Green Movement
+- ICC
+- International Criminal Court
+- KeepItOn
+- No Trace
+- STOP
+- TechRadar
+- UN
+- United Nations Human Rights Council
+- VPN
+- VPNs
 ---
 
 ![Acess Now's KeepItOn 10th anniversary graphic](https://cdn.mos.cms.futurecdn.net/YFudZPq8gUgWQjZPDDcKfR.png) 

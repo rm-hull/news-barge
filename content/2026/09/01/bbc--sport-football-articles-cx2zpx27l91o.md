@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations: []
+people:
+- Anthony Gordon
+- Ethan Nwaneri
+- Fabio Vieira
+- Gabriel Jesus
+- Julian Alvarez
+- Kai Havertz
+- Mikel Arteta
+- Rodri
+- Viktor Gyokeres
+organisations:
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- BBC Sport
+- Barcelona
+- Borussia Dortmund
+- Gunners
+- Hamburger SV
+- La Liga
+- Manchester City
+- Napoli
+- Newcastle
 ---
 
 Barcelona 'surprised' they could sign Gabriel Jesus

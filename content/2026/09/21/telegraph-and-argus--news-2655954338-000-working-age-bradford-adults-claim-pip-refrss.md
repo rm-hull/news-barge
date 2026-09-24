@@ -15,6 +15,29 @@ categories:
 - Society & Culture
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/18681969.jpg?type=og-image
+locations:
+- Bradford South
+people:
+- Gareth Fuller
+- Judith Cummins
+- Ms Cummins
+- Naz Shah
+- Shipley
+organisations:
+- Bradford East
+- Bradford South
+- Bradford West
+- Government
+- Keighley & Ilkley
+- Labour
+- Ms Cummins
+- Newsquest
+- PA Wire
+- PIP
+- Press Association of Department for Work and Pensions
+- The Timms Review
+- Timms Review
+- Timms Review of PiP
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

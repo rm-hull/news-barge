@@ -12,6 +12,42 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/21/48/1200x675_cmsv2_e198f448-26c5-50ad-a6c4-8c6d30ca566d-9922148.jpg
+locations:
+- Australia
+- Britain
+- Canada
+- Crimea
+- Donetsk
+- Kherson
+- Kremlin
+- Kyiv
+- Luhansk
+- Moscow
+- New Zealand
+- Norway
+- Novgorod
+- Ukraine
+- United Russia
+- Zaporizhzhia
+people:
+- Alexei Navalny
+- Dmitry Peskov
+- Ella Pamfilova
+- Kaja Kallas
+- Kyiv
+- Vladimir Putin
+- Yabloko
+organisations:
+- Central Election Commission
+- Communist Party
+- EU
+- European Union
+- Kyiv
+- LDPR
+- New People
+- State Duma
+- UN Charter
+- United Russia
 ---
 
 ## Five Western nations and Kyiv condemned the voting in occupied Ukraine as illegal, while a Ukrainian drone strike on Moscow on the final day of polling killed two people.

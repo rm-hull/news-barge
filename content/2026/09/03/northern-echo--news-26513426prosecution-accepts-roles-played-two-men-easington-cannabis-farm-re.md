@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Bede Street
+- County Durham
+- Durham Crown Court
+- Durham Prison
+- Easington Colliery
+people:
+- Haong Le
+- Paul Cleasby
+- Richard Clews
+- Tay Phan
+organisations:
+- Crown
+- Durham Constabulary
 ---
 
 Two men caught tending a large, potentially lucrative cannabis farm, will be sentenced for their part in the operation, next week.

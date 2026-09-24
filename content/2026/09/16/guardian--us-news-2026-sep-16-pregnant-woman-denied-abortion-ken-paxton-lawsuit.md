@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Bexar
+- San Antonio
+- Texas
+- Texas’
+people:
+- Ken Paxton
+- Roe
+- Stephen Brint Carlton
+- Tierra Walker
+- Wade
+organisations:
+- ABC7
+- CBS News
+- Senate
+- Texas Medical Board
+- University of Texas
+- University of Texas Health Science Center
 ---
 
 A wrongful death lawsuit filed on Tuesday accuses Ken Paxton, the Texas attorney general, doctors and state health officials of contributing to the death of a pregnant San Antonio woman whose family says she was denied an abortion that could have saved her life.

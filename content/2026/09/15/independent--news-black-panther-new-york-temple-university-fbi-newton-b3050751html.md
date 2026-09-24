@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- San Francisco County
+people:
+- Bobby Seale
+- Bobby,” Seale
+- Bobby’
+- D.L
+- Huey P. Newton
+- Hughley
+- J. Edgar Hoover
+- Stephen Shames
+organisations:
+- Black Panther
+- Blackstone Publishing
+- FBI
+- Panthers
+- Temple University
+- then-FBI
 ---
 
 As Black Panther co—founder Bobby Seale nears his 90th birthday, he is set to reissue his 1970 jailhouse memoir “Seize the Time” and follow it up with a new book, “I, Bobby.”

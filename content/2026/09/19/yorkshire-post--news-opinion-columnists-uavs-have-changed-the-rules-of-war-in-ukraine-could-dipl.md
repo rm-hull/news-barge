@@ -17,6 +17,36 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3ZTM2NWIyLWQ0NDItNDViYi05YTQxLTdlMjllNjQ1NDU4MTo3NzFjYjA3ZC0xM2UwLTQzNzMtYTQ2My0xZWQ3ODMyZTllYTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Kiev
+- Kremlin
+- Lancaster
+- Moscow
+- Poland
+- Red Square
+- Russia
+- US
+- Ukraine
+- Yahodyn
+people:
+- Boris Johnson
+- Carl Bildt
+- Kostin
+- Napoleon
+- Oleksandr Poklad
+- Patrick Mercer
+- Petraeus
+- Yahodyn
+- Zelensky
+organisations:
+- CIA
+- GUR
+- HUMINT
+- SBU
+- UAV
+- UAVs
+- Ukrzaliznytsia Railway Company Press Office
 ---
 
 # UAVs have changed the rules of war in Ukraine, could diplomatic traffic be the next target? - Patrick Mercer

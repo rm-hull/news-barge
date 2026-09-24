@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/09/17/16/46/MixCollage-17-Sep-2026-
 categories:
 - News & Politics
 - UK
+locations:
+- AMERICA
+- Anne Arundel County
+- Capitol
+- City of Chicago
+- Denver
+- District
+- Maryland
+- United States
+- Washington, D.C.
+people:
+- '![Milstein'
+- Larry Snelling
+- Mike Milstein
+- Neither
+- Trump
+organisations:
+- ACLU
+- Bureau of Internal Affairs
+- CPD
+- Chicago Police Department
+- City of Chicago
+- Colorado State Capitol
+- First Amendment
+- Internal Affairs
+- International Chiefs of Police
+- Office of Community Policing
+- Office of Equity and Engagement
+- Office of Professional Standards
+- Office of Victim Services
+- PD
+- The Independent
+- Trump
 ---
 
 A high-ranking civilian employee with the Chicago Police Department is suing the city after he was suspended for 14 days without pay for a pair of posts he made to his personal Facebook account while attending a “No Kings” protest last year.

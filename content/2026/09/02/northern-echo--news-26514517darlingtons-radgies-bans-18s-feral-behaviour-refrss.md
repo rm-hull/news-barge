@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Blackwellgate
+- Darlington
+- Radgies
+people:
+- Radgies
+organisations:
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

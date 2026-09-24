@@ -13,6 +13,30 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/afb0829ecd95ef46e37ed05d0c7bbdfd112f5631/637_288_3123_2500/master/3123.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ef4d777426532c1a3f28591de5894c6
+locations:
+- Britain
+- Downing Street
+- Germany
+- Norway
+- Saudi Arabia
+- Sunderland
+- UK
+- Wales
+people:
+- Andy Burnham
+- John Healey
+- Rachel Reeves
+organisations:
+- Greenpeace
+- KfW
+- Labour
+- Manchester Good Growth Fund
+- NWF
+- New Economics Foundation
+- Sizewell C
+- TUC
+- Treasury
+- WWF
 ---
 
 Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy.

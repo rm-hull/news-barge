@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21488730.jpg?type=og-image
+locations:
+- Art
+- North Yorkshire
+- Richmond
+- The Station
+- Thirsk
+- UK
+people:
+- Amanda Owen
+- Edith
+- Kate Swann
+- Katrina Palmer
+- Ms Palmer
+- Ravenseat
+- Rhyme
+organisations:
+- Book Fair
+- PYA
+- Promoting Yorkshire Authors
+- Rhyme
 ---
 
 *(Image: Supplied)*

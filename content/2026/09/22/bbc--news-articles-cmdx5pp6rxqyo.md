@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - Science
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ded1/live/b43b5230-b5e9-11f1-aff1-eb6baa3fda4f.png
+locations:
+- Canterbury
+- Faversham
+- Kent
+- UK
+people:
+- Charlene Rodrigues
+- Juliette Kenny
+organisations:
+- BBC
+- Club Chemistry
+- JCVI
+- Joint Committee on Vaccination and Immunisation
+- NHS
+- Pathogen Genomics
+- Queen Elizabeth's Grammar School
+- UK Health Security Agency
+- UKHSA
+- University of Kent
+- University of Oxford
 ---
 
 ![A teenager is getting her meningitis vaccine](https://ichef.bbci.co.uk/ace/standard/848/cpsprodpb/ded1/live/b43b5230-b5e9-11f1-aff1-eb6baa3fda4f.png)

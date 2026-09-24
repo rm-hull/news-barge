@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Barnsley
+- Bradford
+- Goldthorpe
+- Manningham
+people:
+- Carey Taylor
+- Ripaljeet Kaur
+organisations:
+- NHS Charities Together
+- YAS Charity
+- Yorkshire Ambulance Service
+- Yorkshire Ambulance Service Charity
 ---
 
 *(Image: Freelance)*

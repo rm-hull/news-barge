@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Bishop Auckland
+- Canada
+- County Durham
+- County Durham Toronto
+- North East
+- Ontario
+- Quebec
+- River Wear
+- Washington
+people:
+- Stobart
+organisations:
+- GOOGLE
+- W.C
 ---
 
 *(Image: GOOGLE)*

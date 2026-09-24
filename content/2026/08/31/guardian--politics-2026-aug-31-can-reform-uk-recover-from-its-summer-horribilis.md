@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Clacton
+- Dover
+- England
+- Essex
+- Kent
+- Norfolk
+- Restore Britain
+- Thetford
+- UK
+people:
+- Ben Wallace
+- Christopher Harborne
+- Count Binface
+- Giles Dilnot
+- Nigel Farage
+- Robert Jenrick
+- Rupert Lowe
+- Tim Montgomerie
+- Zia Yusuf
+organisations:
+- BBC
+- Birmingham NEC
+- ConservativeHome
+- Greens
+- Guardian
+- Ipsos
+- Kent
+- Labour
+- More in Common
+- Reform UK
+- Restore
 ---
 
 Senior Reform UK figures like to boast that the summer time – and parliament’s longest recess – is when the party makes hay.

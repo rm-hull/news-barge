@@ -13,6 +13,47 @@ image: https://cdn.mos.cms.futurecdn.net/VgK9YcsDZ3cM2Cn9cGAGLi-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- England
+- Hollywood
+- Massachusetts
+- North Weald
+- Paddington
+- UK
+- US
+- Virgin River
+people:
+- Antonia
+- Aunt Franny
+- Aunt Jet
+- Aunts
+- Dianne Wiest
+- George Cooper Sr.
+- Gillian
+- God
+- Ian Wright
+- Jasmine
+- Joey King
+- Katy Wix
+- Kylie
+- Lee Pace
+- Maisie Williams
+- Michael Caine
+- Nicole Kidman
+- Owens
+- Sally Owens'
+- Sandra Bullock
+- Stockard Channing
+organisations:
+- '#### Pros'
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ### TechRadar Verdict

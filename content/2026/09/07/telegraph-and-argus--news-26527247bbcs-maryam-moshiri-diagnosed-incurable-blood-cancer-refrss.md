@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Rome
+people:
+- Francis’
+- Instagram
+- Maryam Moshiri
+organisations:
+- BBC News
+- Blood Cancer UK
+- Moshiri
+- The Times
 ---
 
 *(Image: PA)*

@@ -12,6 +12,23 @@ description: Acer has shown off off its first RTX Spark-powered mini PC at IFA 2
 image: https://cdn.mos.cms.futurecdn.net/963RGrroenvqoeK6QeuKP5-2000-80.png
 categories:
 - Technology & Software
+locations:
+- AI
+people:
+- Matt Hanson
+organisations:
+- AI Overviews
+- Acer
+- Apple
+- Core Tech
+- Google News
+- Mac
+- Matt
+- Nvidia
+- PC Plus
+- RTX Spark
+- SFF
+- TechRadar
 ---
 
 ![RTX Spark PC from Acer on Question Mark background](https://cdn.mos.cms.futurecdn.net/963RGrroenvqoeK6QeuKP5.png) 

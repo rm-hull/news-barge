@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Brazil
+- Canada
+- Colombia
+- Cuba
+- Darien Gap
+- De La Cruz
+- Guyana
+- Havana
+- Kentucky
+- Las Minas
+- Mexico
+- Miami
+- Nebraska
+- Panama
+- South Florida
+- Suriname
+- Texas
+- U.S.
+- US De La Cruz
+- United States
+- United States.’
+people:
+- De La Cruz
+- Liexer De La Cruz
+- Zeus
+organisations:
+- De La Cruz
+- ReliefWeb
+- Trump
 ---
 
 When Liexer De La Cruz walked into a federal courtroom in Miami on Jan. 9, he expected a routine immigration hearing. Instead, he was forced to make a life-changing decision in a matter of seconds: voluntarily return to Cuba or remain in the United States while facing the constant threat of deportation.

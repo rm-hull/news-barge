@@ -12,6 +12,17 @@ categories:
 - Personal Finance & Investing
 - Health & Fitness
 image: https://cdn.mos.cms.futurecdn.net/bxspVtCGPhPSzTN4xMkkNR-2560-80.jpg
+locations: []
+people:
+- Paul Hatton
+organisations:
+- ABPM
+- Apple Watches
+- D2
+- D3
+- Huawei Health
+- NFC
+- TechRadar
 ---
 
 ### TechRadar Verdict

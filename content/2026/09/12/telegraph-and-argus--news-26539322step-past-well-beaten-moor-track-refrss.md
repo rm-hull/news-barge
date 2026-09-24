@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Aire Valley
+- Bradford
+- Britain
+- Calf Rocks
+- Dick’s’
+- Ilkley Crag
+- Ilkley Moor
+- Mik Bullock
+- Rombald’s Moor
+- Simon’s Seat
+- Wharfedale
+- White Wells
+- Yorkshire Dales
+people:
+- Charles Darwin
+- Dick Hudson
+- Dick Hudsons
+- Ilkley
+- Richard ‘Dick’ Hudson
+- Rombald
+organisations:
+- Bettys
+- Twelve Apostles
 ---
 
 FOR generations of Bradfordians and Aire Valley folk, no hiking route has captured the imagination quite like the traditional ramble from Dick Hudson’s to Ilkley.

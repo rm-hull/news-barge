@@ -13,6 +13,22 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Aarhus
+- Davygate
+- Denmark
+- Europe
+- Flora
+- Italy
+- Puglia
+- York
+people:
+- Flora
+- Kevin Glenton
+- Rory Macbeth
+organisations:
+- ARoS Museum of Contemporary Art
+- Ghost Art School
 ---
 
 ## Artist on detail of 'living sculpture' of busker in York and its role in art school

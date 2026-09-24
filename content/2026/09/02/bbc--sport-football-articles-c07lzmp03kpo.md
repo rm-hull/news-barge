@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aston Villa
+- Crystal Palace
+- England
+- Finland
+- London
+people:
+- '## Johnstone'
+- Joe Hart
+- Joel van den Berg
+- Jordan Lotomba
+- Kasper Schmeichel
+- Kieran Tierney
+- Landon Emenalo
+- Martin O'Neill
+- Sam Johnstone
+- Shumaira Mheuka
+- Van den Berg
+- Viljami Sinisalo
+organisations:
+- Aberdeen
+- Celtic Park
+- Chelsea
+- Feyenoord
+- Liverpool
+- Manchester United
+- PSV Eindhoven
+- West Bromwich Albion
+- Wolverhampton Wanderers
+- Wolves
 ---
 
 ![Celtic signings](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f80e/live/0cb24000-a71b-11f1-aed2-8d6da8d75094.jpg)

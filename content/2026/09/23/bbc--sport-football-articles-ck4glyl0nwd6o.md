@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a59/live/5d7b8060-b769-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Al-Nassr
+- England
+- Italy
+- Lisbon
+- Portugal
+- Spain
+- Wales
+people:
+- Craig Bellamy
+- Cristiano Ronaldo
+- Fabio Silva
+- Francisco Conceicao
+- Jesus
+- Joao Neves
+- Jorge Jesus'
+- Nuno Mendes
+- Renato Veiga
+organisations:
+- 5 Live
+- Al-Nassr
+- BBC One Wales
+- BBC Radio Wales
+- BBC Sounds
+- BBC Sport
+- BBC iPlayer
+- BST Estádio José Alvalade
+- Juventus
+- Lisbon Live
+- Manchester United
+- Nations League
+- Radio Cymru
+- Real Madrid
+- Sporting
 ---
 
 ![Portugal forward Cristiano Ronaldo during an Al-Nassr training session](https://ichef.bbci.co.uk/ace/standard/724/cpsprodpb/9a59/live/5d7b8060-b769-11f1-a7b2-f3bdba1cd194.jpg)

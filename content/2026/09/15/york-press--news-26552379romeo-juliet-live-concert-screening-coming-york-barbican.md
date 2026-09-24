@@ -13,6 +13,28 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Birmingham
+- Edinburgh
+- Glasgow
+- London
+- Manchester
+- UK
+- York
+people:
+- Baz Luhrmann
+- Claire Danes
+- Floris Douwes
+- Leonardo DiCaprio
+organisations:
+- 20th Century Studios
+- Communion One
+- Disney Concerts
+- GEA Live
+- Romeo + Juliet
+- The Cardigans
+- William Shakespeare
+- York Barbican
 ---
 
 ## Popular York venue to host Romeo + Juliet concert screening as part of global tour

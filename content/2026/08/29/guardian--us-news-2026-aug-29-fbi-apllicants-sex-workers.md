@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- US
+- Washington
+people:
+- Chris Piehota
+- Daniel Brunner
+- Daniel Meyer
+- Eric Holder
+organisations:
+- CIA
+- FBI
+- NSA
+- Tully Rinckey
 ---
 
 The FBI is dropping a categorical hiring ban on applicants who have had sexual encounters with sex workers and will instead consider in a more holistic manner at least some candidates who have engaged in the practice in the past, according to people familiar with the matter.

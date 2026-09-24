@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Boothtown
+- Calderdale
+- Green
+- Halifax
+- Todmorden West
+people:
+- Coun Dan Sutherland
+- Coun Furlong
+- Jamie Furlong
+organisations:
+- Calderdale Council
+- Calderdale Retrofit Partnership
+- Department for Energy Security
+- Government
+- Green Party
+- Halifax Town Hall
+- Illingworth
+- Labour
+- Mixenden
+- Net Zero
+- Public-i
+- Reform UK
+- Warm Homes Local Grant
+- West Yorkshire Combined Authority
 ---
 
 A councillor is call for a retrofit partnership to be set up to help deal with the problem of better heating tens of thousands of Calderdale’s older homes.

@@ -16,6 +16,17 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- PA
+people:
+- Dario Amodei
+organisations:
+- AI
+- Anthropic
+- Dominic Lipinski
+- JCHR
+- Joint Committee on Human Rights
 ---
 
 # Global aviation has agreed safety standards so why can’t AI?

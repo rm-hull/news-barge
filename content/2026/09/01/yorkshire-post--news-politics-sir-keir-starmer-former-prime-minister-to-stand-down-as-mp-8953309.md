@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Britain
+- Downing Street
+- Holborn
+- London
+- St Pancras
+people:
+- Andy Burnham
+- Frank Dobson
+- Holborn
+- Jeremy Corbyn
+- John Healey
+- Keir Starmer
+- Kevin Hollinrake
+organisations:
+- Conservative Party
+- Government
+- Labour Party
+- Tories
 ---
 
 # Sir Keir Starmer: former prime minister to stand down as MP

@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- Bishop Auckland
+- County Durham
+- Crook
+- DURHAM
+- Gainford
+- Newton Aycliffe
+- North East
+- STUART BOULTON
+- Willington
+- Witton Park
+people:
+- STUART BOULTON
+organisations:
+- CSI
+- Durham Police
+- Echo
+- Jaguar
+- NORTHERN ECHO
+- Newcastle
+- Sky Sports News
 ---
 
 *(Image: STUART BOULTON)*

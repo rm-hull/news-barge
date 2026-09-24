@@ -11,6 +11,35 @@ image: https://i.guim.co.uk/img/media/1a4c54a51283369ceecb00875f544f754d0755f0/4
 categories:
 - UK
 - News & Politics
+locations:
+- Argentina
+- Britain
+- Falkands
+- Falkland Islands
+- Falklands
+- Iran
+- London
+- South Atlantic
+- The Hague
+- UK
+- US
+- Washington
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- John Healey
+- Margaret Thatcher
+- Ronald Reagan
+organisations:
+- Argentinas
+- England
+- Fifa
+- La Libertad Avanza
+- Nato
+- Pentagon
+- Telegraph
 ---
 
 Donald Trump has suggested he is reconsidering US support for Britain’s sovereignty over the Falkland Islands, in a move likely to strain the “special relationship” between Washington and London.

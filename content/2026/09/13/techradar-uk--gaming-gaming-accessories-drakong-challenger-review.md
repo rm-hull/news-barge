@@ -11,6 +11,16 @@ description: The Drakong Challenger may be light on features, light on the scale
 image: https://cdn.mos.cms.futurecdn.net/aJJV4zMTd2eWbqbRMNAYdk-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Turtle Beach Pacific Skyline
+people:
+- Challenger
+- Lewis Maddison
+organisations:
+- Challenger —
+- Microsoft
+- TechRadar Pro
+- Wired
 ---
 
 ### TechRadar Verdict

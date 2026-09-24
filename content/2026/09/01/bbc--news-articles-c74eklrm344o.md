@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 - Travel
+locations:
+- Chevaline
+- France
+- Lake Annecy
+- Le Solitaire du Lac
+- Switzerland
+- UK
+- al-Hillis
+people:
+- Luger
+- Marianne
+- Saad al-Hilli
+organisations: []
 ---
 
 ![Saad al-Hilli smiles in a striped cream and light blue shirt. A busy night time scene is visible behind him.](https://ichef.bbci.co.uk/ace/standard/969/cpsprodpb/e60e/live/059e82e0-a61e-11f1-aed2-8d6da8d75094.jpg)

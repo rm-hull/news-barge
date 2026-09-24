@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Travel
 - Arts & Culture
+locations:
+- A County Durham
+- Auckland Castle
+- Bishop Auckland
+- CAMERA CLUB
+- County Durham
+- Crook
+- Durham Dales
+- Hamsterley Forest
+- Middridge
+- Raby Castle
+- River Wear
+- Roy Davenport
+- St James
+- Teesdale
+- Weardale Way
+- Witton Castle
+- Witton-le-Wear
+people:
+- Witton-le-Wear
+organisations:
+- Church of St Philip
+- River Wear
+- Witton-le-Wear
 ---
 
 *(Image: Roy Davenport/CAMERA CLUB)*

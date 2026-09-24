@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/91/57/69/1200x675_cmsv2_e7246f2a-8f81-547f-9673-f6d4cf6b0b8b-9915769.jpg
+locations:
+- Cais das Colunas
+- Cyclades
+- Egypt
+- Europe
+- France
+- Germany
+- Greece
+- Lisbon
+- London
+- Naxos
+- Nikiforos Mandilaras Square
+- Portugal
+people:
+- Dimitris Kapounis
+- Kapodistrias
+- Stelios Vathrakokoilis
+organisations:
+- AB Vassilopoulos
+- Euronews
+- Galanado Agricultural Cooperative
+- Sklavenitis
+- Union of Agricultural Cooperatives of Naxos
 ---
 
 ## Historic Naxos potatoes hold protected status, but young people on the island no longer want to be farmers.

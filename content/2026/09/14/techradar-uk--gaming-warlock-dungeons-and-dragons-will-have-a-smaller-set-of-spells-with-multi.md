@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/TzTMAAQh5iyR8ZUQLzcS4C-2000-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Dominic Guay
+- Invoke
+- Kaatri
+organisations:
+- Demi Williams
+- Dungeons & Dragons
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- Invoke Studios
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Warlock Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/TzTMAAQh5iyR8ZUQLzcS4C.jpg) 

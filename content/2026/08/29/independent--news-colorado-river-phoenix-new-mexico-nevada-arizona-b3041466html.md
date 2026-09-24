@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arizona
+- California
+- Cave Creek
+- Colorado River
+- Colorado River Indian Tribes
+- Elephant Butte Lake
+- Green Mountain Reservoir
+- Guernsey Reservoir
+- Lake Mead
+- Lake Powell
+- Las Vegas
+- Los Angeles
+- Nebraska
+- Nevada
+- New Mexico
+- North America
+- Phoenix
+- Rockies
+- Southwest
+- Texas
+- U.S. West
+- Utah
+- Wyoming
+- Yuma
+people:
+- Beef
+- David Mocko
+- John Boelts
+- Ray Martinez
+- Robert Morris
+- Tom Buschatzke
+organisations:
+- AP
+- Arizona Department of Water Resources
+- Arizona Farm Bureau
+- Associated Press
+- Bureau of Reclamation
+- El Niño
+- Interior Department
+- U.S. Bureau of Reclamation
+- Walton Family Foundation
+- ___ Pineda
 ---
 
 On the outskirts of Phoenix, a small town with a huge reliance on the Colorado River has capped growth, revived old wells and struck water deals.

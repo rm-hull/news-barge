@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Wyke Community Sports Village
+people:
+- Bernard Marsden
+- Jodie Cottrell
+- Mandy Parker
+organisations:
+- Bradford Council
+- East Bradford Cycling Club
+- National Youth Circuit
+- Wyke Cinema Day
 ---
 
 A cycling club has responded to criticism after the cancellation of a community event.

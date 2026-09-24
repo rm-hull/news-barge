@@ -13,6 +13,25 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Cambridge
+- Cardiff
+- Martin House
+- Thirsk
+people:
+- Michelle Hills
+- Michelle’s
+organisations:
+- All-Party Parliamentary Group for Dying Well
+- Houses of Parliament
+- Martin House Children's Hospice
+- Martin House Children’s Hospice
+- Mirror Books
+- NHS
+- Paediatric Palliative Medicine
+- Paediatric Palliative Medicine Committee
+- Royal College of Paediatrics and Child Health
+- Thirsk
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3ebd98ecd9901ff0.jpg) 

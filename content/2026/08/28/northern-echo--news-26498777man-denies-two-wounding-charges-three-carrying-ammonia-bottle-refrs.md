@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- A689
+- Baff Street
+- Dundas Street
+- Durham Crown Court
+- HMP Doncaster
+- Spennymoor
+- St Andrews Road
+people:
+- Brooklyn Knighton
+- Michael Forrest
+- Richard Clews
+organisations:
+- Durham Crown Court
 ---
 
 *(Image: The Northern Echo)*

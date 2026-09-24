@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/02/10/26/Screenshot-2026-09-02-a
 categories:
 - News & Politics
 - UK
+locations:
+- Brexit
+- Clacton
+- Westminster
+people:
+- Big Ben
+- Christopher Harborne
+- Count Binface
+- Daniel Greenberg
+- Nigel Farage
+organisations:
+- Arms
+- Commons
+- Houses of Parliament
+- Parliamentary Estate
+- Reform UK
 ---
 
 Nigel Farage has broken parliamentary rules on his first day back, after he filmed a video of himself on the roof of the Houses of Parliament.

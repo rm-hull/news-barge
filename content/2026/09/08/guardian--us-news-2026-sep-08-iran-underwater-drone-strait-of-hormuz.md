@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Hormuz
+- Iran
+- US
+people:
+- Tim Hawkins
+- Trump
+organisations:
+- IRGC
+- Islamic Revolutionary Guard Corps
+- US Navy
+- United States Central Command
 ---
 
 Iranian forces claimed to have seized an American underwater drone in the strait of Hormuz that the US military said had “malfunctioned” more than a day earlier.

@@ -16,6 +16,34 @@ categories:
 - York
 - History
 - Society & Culture
+locations:
+- Belgium
+- Beverley
+- English Channel
+- France
+- Fulford
+- Gallipoli
+- Glasgow
+- Harrogate
+- Malton
+- Rotherham
+- Scarborough
+- Selby
+- UK
+- Yorkshire
+people:
+- Elizabeth Smith
+- Tim Lambert
+- Tony Johnson
+- Victor Leethem Chambers
+organisations:
+- CWGC
+- Cameronians
+- Commonwealth War Graves Commission
+- Post Offices
+- Scottish Rifles
+- Stonefall Cemetary
+- Yorkshire Post
 ---
 
 # Yorkshire’s ‘hidden’ war graves and the stories behind those buried close to home

@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20594663.jpg?type=og-image&xType=0&yType=546
+locations:
+- County Durham
+- Geko
+- Ireland
+- North East
+- Seaham Hall
+- UK
+- Zen Garden
+people:
+- Annabella Milbanke
+- Kylie Minogue
+- Lionel Richie
+- Lord Byron
+- Robbie Williams
+- Ross Grieve
+organisations:
+- Geko
+- Harvey’s Bar
+- Michelin Guide
+- Michelin Key
+- Michelin Star
+- One Direction
+- Seaham Hall
+- Seaham Hall Hotel
+- Serenity Spa
 ---
 
 A luxury County Durham hotel has been awarded a prestigious accolade by the Michelin Guide.

@@ -12,6 +12,31 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Cooper King Distillery**
+- England
+- Filey Bay
+- Nidderdale
+- North Yorkshire
+- Stamford Bridge
+- Sutton-on-the-Forest
+- UK
+people:
+- Angela Eagle
+- Jenni Ashwood
+- Morag Garden
+organisations:
+- '**Whittaker’s Distillery**'
+- Defra
+- Department for Environment, Food and Rural Affairs
+- Ellers Farm Distillery
+- English Whisky
+- English Whisky Guild
+- GI
+- HM Revenue and Customs
+- HMRC
+- Harrogate Informer
+- The Spirit of Yorkshire Distillery**
 ---
 
 **HARROGATE** — Distillers across North Yorkshire are celebrating this weekend after English Whisky officially secured protected Geographical Indication (GI) status from the government, marking a historic legal milestone for the fast-growing regional spirits sector.

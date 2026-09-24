@@ -11,6 +11,20 @@ image: https://i.guim.co.uk/img/media/cae5a5ab7180687206a89d407d6306798b2cbf97/7
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Greater Manchester
+- Wales
+people:
+- Andy Burnham
+- David Burton-Sampson
+- Keir Starmer
+- Kim Leadbeater
+- Morgan McSweeney
+organisations:
+- Commons
+- House of Lords
+- Labour
 ---
 
 After two years of impassioned arguments, tearful personal testimonies, noisy protests and ethical dilemmas, the assisted dying bill for England and Wales failed on a knife edge.

@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Travel
 - Arts & Culture
+locations:
+- Aykley Heads
+- County Durham
+- The Light
+people:
+- Karen Allison
+- Mr Haughton
+organisations:
+- Darlington
+- Durham County Council
+- Library
+- The Light
+- The Salon
 ---
 
 *(Image: Supplied)*

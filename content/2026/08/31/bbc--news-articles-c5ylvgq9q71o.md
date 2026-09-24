@@ -13,6 +13,51 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Bhote Koshi
+- Chilime Hydropower Plant
+- China
+- Chitwan
+- Gyirong
+- India
+- Kathmandu.
+- Korea
+- Nepal
+- Nepal-Tibet
+- Nepal.
+- Rasuwa
+- Tibet
+- Tibet-Nepal
+- Tishuli River
+- Trishuli River
+- Trishuli-3A
+- Upper Trishuli-1
+people:
+- Anushila Bhandari
+- Arnold Dix
+- Aurus Bhandari
+- Balendra Shah
+- Binita Dahal
+- Ganesh Aryaal
+- Jiban Khadka
+- Jugal Purohit
+- Milan
+- Priya Kharel
+- Sita Pandey
+organisations:
+- Army
+- BBC Nepali
+- BBC News Nepali
+- BBC Radio 4
+- Chilime Hydro
+- International Tunnelling Association
+- Kantipur
+- Langtand Hydro
+- Rasuwagadhi Hydro
+- Trishuli-3A
+- Trishuli-3B
+- Upper Trishuli-1
 ---
 
 ![People in camouflage clothing and wearing helmets stand at the entry to a tunnel](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg)

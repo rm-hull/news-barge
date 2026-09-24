@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Albania
+- Bingley
+- Borneo
+- Iceland
+- India
+- Peru
+- UK
+- Yorkshire
+- Zagoria Valley
+people:
+- Adele Wilkin
+- Liz Madden
+- Machu Picchu
+- Marie Curie
+- Ms Madden
+- Mum
+organisations:
+- Yorkshire Three Peaks
 ---
 
 *(Image: Adele Wilkin)*

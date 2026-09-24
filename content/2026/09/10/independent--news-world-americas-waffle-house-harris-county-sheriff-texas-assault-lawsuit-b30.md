@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/09/09/16/03/GettyImages-2197814067.
 categories:
 - News & Politics
 - UK
+locations:
+- Harris County
+- Houston
+- Humble
+- Texas
+- Waffle House
+people:
+- Booth
+- John Does
+- Joshua Kesler
+- Keslers
+- Mrs. Kesler
+- Randel Kesler
+organisations:
+- EMS
+- HCA Houston Healthcare Kingwood Emergency Department
+- Halie Booth
+- Harris County Sheriff’s Office
+- Keslers
+- Next Level Urgent Care
+- The Independent
+- Waffle House
 ---
 
 An off-duty police officer and his wife were brutally assaulted outside a Waffle House in suburban Houston after arguing with one of the restaurant’s employees over a parking spot, according to a lawsuit reviewed by *The Independent*.

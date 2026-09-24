@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Greenland
+- Iran
+- Qatar
+- UK
+- Vatican
+people:
+- Caspian
+- Helen Rowntree
+- Iris
+- JD Vance
+- Jonathan
+- Maryam Moshiri
+- Pope
+- Vivienne
+organisations:
+- BBC News
+- Blood Cancer UK
+- Maryam Moshiri
+- NHS
 ---
 
 ![Maryam Moshiri stand in a black coat. The Vatican is in the background](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1897/live/de970710-aa3e-11f1-88c5-8f28a3313a0e.jpg)

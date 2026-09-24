@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- HuggingFace
+- OpenAI
+- Taiwan
+- US
+people:
+- Claude
+- Tom
+organisations:
+- Anthropic
+- Codex
+- Etiido Uko
+- Get Tom's Hardware
+- GitHub
+- Google News
+- HEIF
+- Hackron AI
+- Hacktron
+- OpenAI and Discourse
+- PC
+- SSO
+- Tom's Hardware
 ---
 
 ![generic hack screen](https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH.jpg) 

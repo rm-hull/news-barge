@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Hillcrest Close
+- Oulton Medical Centre
+- YOUR
+people: []
+organisations:
+- Cambridge Green Ltd
+- Leeds City Council
+- Marsh Street Surgery
+- NHS
+- Public Notice Portal
+- Swillington Health Practice
 ---
 
 *(Image: Google)*

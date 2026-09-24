@@ -12,6 +12,21 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Harrogate Town
+people:
+- Luke Hutchinson
+organisations:
+- Altrincham
+- Atherton Collieries
+- Bamber Bridge
+- Bolton Wanderers
+- Crawley Town
+- FA
+- Harrogate Town
+- League One
+- Marine
+- Tamworth
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa11f53625d1a8f361.jpg) 

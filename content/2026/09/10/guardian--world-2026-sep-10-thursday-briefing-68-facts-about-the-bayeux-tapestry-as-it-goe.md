@@ -14,6 +14,116 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Bayeaux
+- Bayeux Cathedral
+- Belfast
+- Bletchley Park
+- Britain
+- British Museum
+- Brussels
+- Canterbury
+- Dallas
+- Edgbaston
+- England
+- Essex
+- France
+- Israel
+- Israeli West Bank
+- Lewis
+- London
+- Louvre
+- Metro
+- Mont-Saint-Michel
+- Normandy
+- One Aldwych
+- Pakistan
+- Paris
+- Portsmouth
+- Reading Museum
+- Rochester
+- Seville
+- Staffordshire
+- Sutton Hoo
+- UK
+- US
+- Ukraine
+- West Bank
+- Westminster Abbey
+- Winchester
+people:
+- '*** Heinrich Himmler'
+- '*** Nicholas Cullinan'
+- Alix Fox
+- Andrew Garfield
+- Andy Burnham
+- Benjamin Netanyahu
+- Boris Johnson
+- Charles
+- Charlie Kirk
+- Charlie Lindlar
+- Claudia Winkleman
+- Darren Cullen
+- David Hockney
+- Didier Rykner
+- Donald Trump
+- Ed Miliband
+- Edgar Ætheling
+- Elena Rybakina
+- Elizabeth II
+- Ella Baron
+- Emilio Gay
+- Emma
+- Emmanuel Macron
+- Ephraim Mirvis
+- Gloria Steinem
+- Haley’s Comet
+- Harold
+- Harry
+- J Oliver Conroy
+- Jesus
+- Jonathan Jones
+- Leonardo da Vinci
+- Lucy Hough
+- Matthew Brennan
+- Micha Frazer-Carroll
+- Michael Lewis
+- Michael Segalov
+- Michael***
+- Naomi Osaka
+- Napoleon
+- Nigel Farage
+- Odo
+- Patrick Wintour
+- Patrick Wintour.
+- Peter Bradhsaw
+- Peter Thiel
+- Philippe Bélavel
+- Robert Ashton
+- Theresa May
+- Tutankhamun
+- William of Poitiers
+- William the Conquerer
+- Zheng Qinwen
+organisations:
+- '** Times'
+- '**Telegraph'
+- British Museum
+- Guardian
+- Hizikia
+- House
+- Labour
+- Macron
+- RNLI
+- Reform UK
+- SS
+- Senate
+- South Kensington Museum
+- The Sun
+- Treasury
+- Turning Point USA
+- Ulster Museum
+- Viking
 ---
 
 Good morning. If you live in the UK, you have probably heard about the Bayeux tapestry exhibition, which opens today, and you probably haven’t got a ticket. The digital queue was nine-hours long when they first went on sale in July, and the exhibition has already broken the British Museum’s record for the number of tickets sold in a single day.

@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/MCtHEJS7EhWnf3JGkroLQh-2560-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- UK
+people: []
+organisations:
+- Corsair
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- Sony
+- SteelSeries
+- TechRadar
 ---
 
 ![The drivers of the PULSE Edge Wireless Headset.](https://cdn.mos.cms.futurecdn.net/MCtHEJS7EhWnf3JGkroLQh.png) 

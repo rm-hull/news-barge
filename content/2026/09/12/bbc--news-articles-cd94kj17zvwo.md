@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bulgaria
+- Estonia
+- Europe
+- Germany
+- Gorni Varpishta
+- Halle Airport
+- Italy
+- Leipzig
+- Moscow
+- Russia
+- Sofia
+- Ukraine
+people:
+- Emilian Gebrev
+- Ivan Demerdzhiev
+organisations:
+- '**'
+- EMCO
+- EU
+- Nato
 ---
 
 ![Fire and smoke rise at an ammunition storage facility near Gorni Varpishta, central Bulgaria. Photo: 12 September 2026.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/4d65/live/7c498bd0-aebe-11f1-a540-61c3f7fc4e6c.jpg)

@@ -12,6 +12,64 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/15/04/GettyImages-2295969458.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bab el-Mandeb
+- Beijing
+- Britain
+- Canada
+- China
+- France
+- Germany
+- Iran
+- Italy
+- Japan
+- Kingdom of Saudi Arabia
+- Middle East
+- Mokha
+- New York
+- Persian Gulf
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- Turkey
+- UK
+- US
+- United States
+- Washington
+- Yemen
+people:
+- '## Hegseth'
+- Adi Imsirovic
+- Bessent
+- Donald Trump
+- Jake Paul
+- Logan Paul
+- Masoud Pezeshkian
+- Pete Hegseth
+- Rashid al-Alimi
+- Ruby Osman
+- Xi Jinping
+organisations:
+- Arpan Rai
+- Defense Department
+- FCDO
+- Foreign Office
+- G7
+- Mokha
+- National POW
+- Oxford University
+- Pentagon
+- Reuters
+- Saba
+- The New York Times
+- Tony Blair Institute for Global Change
+- UK Foreign Office
+- UN General Assembly
+- United Nations General Assembly
+- Wall Street Journal
+- Windward
 ---
 
 The Iran-backed Houthis are pushing to seize strategic heights in Yemen and cut off the Red Sea coast ​from remaining areas held by Saudi-backed forces.

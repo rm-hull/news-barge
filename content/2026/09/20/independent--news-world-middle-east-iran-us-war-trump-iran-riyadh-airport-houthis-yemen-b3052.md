@@ -12,6 +12,62 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/19/15/2026-09-19T000307Z_1543419715_RC2WLNA3UJU3_RTRMADP_3_USA-TRUMP-MIGRATION-VISA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Al-Kharj
+- Bab el-Mandeb
+- Bahrain
+- Baysh
+- Camp David
+- Farasan
+- Iran
+- Islamabad
+- Jordan
+- Kuwait
+- Lebanon
+- Mecca
+- Middle East
+- Mideast
+- New York
+- Oman
+- Pakistan
+- Qatar
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- Tehran
+- Turkey
+- US
+- Washington Monument
+- White House
+- Yanbu
+- Yemen
+people:
+- Afrah al-Zouba
+- Al Jazeera
+- Al-Zouba
+- Camp David
+- Donald Trump
+- Hakan Fidan
+- Mohsen Rezaei
+- Ronald Reagan
+organisations:
+- '## Trump'
+- Al Jazeera
+- Aramco
+- Congress
+- JP Morgan
+- King Khalid International Airport
+- NATO
+- NTV
+- Republican Party
+- Reuters/Ipsos
+- Supreme National Security Council
+- Truth Social
+- UN General Assembly
+- UN Security Council
+- US State Department
 ---
 
 US president Donald Trump has cut short his weekend stay at Camp David and returned to the White House earlier than expected, as tensions escalate across the Middle East.

@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Central City
+- Crittenden county
+- Hinds county
+- Jackson
+- Kentucky
+- Mississippi
+people:
+- André de Gruy
+- Black
+- Christy Spivey
+- God
+- Jackson
+- Jarques Ratliff
+- RaShall Brackney
+- Savior
+- Tasia Fortune
+- Tucker
+- de Gruy
+organisations:
+- Associated Press
+- Fortune
 ---
 
 Mississippi police said on Saturday they were still investigating the death of Tasia Fortune, a Black woman found hanging from a tree last month, a day after a man was arrested in connection with the killing.

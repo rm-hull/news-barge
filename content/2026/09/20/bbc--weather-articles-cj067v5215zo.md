@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e27c/live/15b065b0-b5c6-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Dunbar
+- East Lothian
+- England
+- Scotland
+- Stonehenge
+- Sun
+- UK
+people: []
+organisations:
+- Met Office
+- Royal Museums Greenwich
+- Sun
 ---
 
 ![A row of trees with orange and red coloured autumnal leaves line both sides of a path through a park. There is green grass either side and a woman wearing a black coat walks her golden labrador dog along the path. There is an old fashioned black street lamp in the middle of the path with a glimpse of a cloudy sky.](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/e27c/live/15b065b0-b5c6-11f1-abb5-85e9be42cb76.jpg)

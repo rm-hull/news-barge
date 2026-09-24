@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cyprus’
+- Cyrprus
+- Diana
+- Girne
+- Kyrenia
+- Mersin
+- Nicosia
+- Northern Cyprus
+- Tasucu
+- Turkey
+people:
+- Ali Murat Basceri
+- Allah
+- Murat Senkul
+- Unal Ustel
+organisations:
+- Filo Denizcilik
+- TRT
 ---
 
 At least seven people have died and many remain missing after a ferry carrying nearly 270 passengers capsized off the coast of northern Cyprus on Sunday.

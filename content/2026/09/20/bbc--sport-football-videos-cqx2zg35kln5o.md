@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2542/live/8e96e5a0-b524-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- UK
+people:
+- Olivia Holdt
+organisations:
+- Crystal Palace
+- Spurs
+- Tottenham Hotspur
+- WSL
+- Women's Super League
 ---
 
 # Holdt scores hat-trick as Spurs thrash 10-player Palace

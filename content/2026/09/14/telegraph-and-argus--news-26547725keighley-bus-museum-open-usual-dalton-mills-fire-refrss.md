@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dalton Mills
+- Keighley Bus Museum
+- Mick Berry
+people:
+- Norman Shepherd
+organisations:
+- Keighley Bus Museum
+- Keighley Bus Museums Trust
 ---
 
 *(Image: Mick Berry)*

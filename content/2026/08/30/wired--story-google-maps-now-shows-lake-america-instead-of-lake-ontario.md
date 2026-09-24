@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- US
+people:
+- Donald Trump
+organisations:
+- Apple Maps
+- Bing Maps
+- GNIS
+- Google Maps
+- Lyft
+- MapQuest
+- Microsoft
+- OpenStreetMap
+- Trump
+- US Department of the Interior
+- Uber
 ---
 
 Lake Ontario is no more on Google Maps in the US. Google changed the name of easternmost of the Great Lakes to “Lake America” late Saturday, days after President Donald Trump ordered its rebranding in official government databases.

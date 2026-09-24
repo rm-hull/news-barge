@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Beamish Football Centre
+- Consett
+- County Durham
+- England
+- Spire Hospital
+- Stanley
+- UK
+- Washington
+people:
+- Amir Bhatti
+- Denise Howarth
+- Jo
+- Liz O'Riordan
+- Lynn
+- Mary Aubrey
+- Pam Brown
+- Sharon Barbour
+- Steve Russell
+organisations:
+- Aubrey
+- BBC NE & Cumbria
+- BBC iPlayer
+- BBC's Today
+- CDDFT
+- Care Quality Commission
+- Darlington Foundation Trust
+- Department of Health and Social Care
+- Durham Police
+- NHS England
+- National Crime Agency
+- News Daily
+- RCS
+- Royal College of Surgeons
+- The Harm** BBC
 ---
 
 Watch: Denise (pictured), Pam and other women describe how they were failed

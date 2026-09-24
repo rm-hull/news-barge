@@ -13,6 +13,23 @@ categories:
 - York
 - Sports
 - News & Politics
+locations:
+- Exhibition Square
+- LNER Community Stadium
+- Malton
+- Monks Cross
+- Monks Cross Link
+- Osbaldwick
+- Rawcliffe
+- Stonebow
+- Woodthorpe
+- York City
+- York Railway Station
+people: []
+organisations:
+- City of York Council
+- Pullman
+- Swindon Town
 ---
 
 ## Heavy traffic expected around York shopping park this weekend, council says

@@ -12,6 +12,48 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e3f1/live/1132b1b0-b606-11f1-a9b8-1d52a2930956.jpg
+locations:
+- Canada
+- Czech Republic
+- Gaza
+- Hungary
+- IrelandFootball
+- Israel
+- North Macedonia
+- Prague
+- Qatar
+- Republic of Ireland
+- Serbia
+- South Africa
+people:
+- Alan Dineen
+- Ciara Mageean
+- Colm O'Rourke
+- Eric Donovan
+- Heimir Hallgrimsson
+- Joe Brolly
+- Louise Quinn
+- Michael Darragh Macauley
+- Nicola McCarthy
+- Padraig O'Hora
+- Philly McMahon
+- Rena Buckley
+- Stephen Jones
+- Tony Ward
+- Tyrone McKenna
+- Valerie Mulcahy
+organisations:
+- FAI
+- Football Association of Ireland
+- GAA
+- General Assembly
+- Grenada
+- Hallgrimsson
+- Hamas
+- Irish Sport for Palestine Group
+- Israel FA
+- Uefa
+- United Nations
 ---
 
 ![Heimir Hallgrimsson](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/e3f1/live/1132b1b0-b606-11f1-a9b8-1d52a2930956.jpg)

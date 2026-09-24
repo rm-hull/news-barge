@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cambridgeshire
+- County Durham
+- Crook
+- Frankland Prison
+- Newcastle
+- Old Bailey
+- Royal Victoria Infirmary
+- Soham
+people:
+- Anthony Russell
+- Frankland
+- Holly Wells
+- Ian Huntley
+- Inquest
+- Jeremy Chipperfield
+- Jessica Chapman
+- Maxine Carr
+- Soham
+organisations:
+- Holly and Jessica
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

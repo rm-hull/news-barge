@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Abbeyfield Castle Farm
+- Byker Wall
+- County Durham
+- Devon
+- Dubai
+- Fuller Road
+- Gosforth
+- Grainger Street
+- Marston Moor
+- North East
+- Oxfordshire
+- UK
+- Wye Valley
+- Yorkshire
+people:
+- Chris
+- George
+- Helen Angel
+- Irene Gibson
+- Ruth
+- Sam
+- Tom
+organisations:
+- Abbeyfield Northumbria
+- Historic Newcastle
+- North East Schools Furnishing Company
+- Rolls-Royce
+- The Newcastle Hub and Veterans in Care
+- WAAF
+- Women’s Auxiliary Air Force
+- Yorkshire Life
 ---
 
 A 107-year-old woman from the North East has been left astonished after being showered by love on her special birthday.

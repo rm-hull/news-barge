@@ -13,6 +13,13 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '## Harrogate'
+- The Grove
+- The Stray
+people: []
+organisations:
+- Verity Frearson
 ---
 
 ## Harrogate home near The Stray with parkland views for sale at £800,000

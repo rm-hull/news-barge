@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Dallas
+- Texas
+- United States
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+- Howard Lutnick
+- JD Vance
+- Kamala Harris
+- Mike Johnson
+- Scott Bessent
+organisations:
+- Commerce
+- DOGE
+- Fox News
+- House Financial Services Committee
+- House of Representatives
+- NBC News
+- Senate
+- The Independent
+- Treasury
+- YouGov
 ---
 
 President Donald Trump’s promise to send out a $5,000 check to every American adult if Republicans hang on to the House of Representatives and Senate in November’s midterms is being met with deep skepticism, a new poll has found.

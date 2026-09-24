@@ -13,6 +13,32 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Middle East
+- UK
+- US
+people:
+- Aarin Chiekrie
+- Danni Hewson
+- Liam McBurney
+- Russ Mould
+organisations:
+- ABF
+- AJ Bell
+- Alamy
+- Associated British Foods
+- British Foods
+- CMA
+- Hargreaves Lansdown
+- Hovis
+- Jordans
+- Kingsmill
+- PA
+- Patak’s
+- Primark
+- Silver Spoon
+- Twinings
 ---
 
 Investors in Primark’s owner will be hoping that efforts to renew its position as a budget retailer with a round of price cuts have helped deliver a lift to summer sales.

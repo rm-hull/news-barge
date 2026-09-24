@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/08/29/02/Ecuador_Ex-President_Trial
 categories:
 - News & Politics
 - UK
+locations:
+- Belgium
+- Caribbean
+- Ecuador
+- Latin America
+people:
+- Abdalá Bucaram
+- Jamil Mahuad
+- Jorge Glas
+- Lenín Moreno
+- Rafael Correa
+organisations:
+- Coca Codo Sinclair
+- Correísta
+- Odebrecht
+- Sinohydro
 ---
 
 Former Ecuadorian President Lenín Moreno was sentenced Friday to 5 years in prison after a court found him guilty of accepting bribes from a Chinese company in exchange for helping it secure a contract to build a hydroelectric plant.

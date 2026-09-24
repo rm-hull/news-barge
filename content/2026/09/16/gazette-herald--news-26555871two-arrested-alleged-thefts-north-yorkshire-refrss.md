@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Harrogate
+- Helen.James
+- North Yorkshire
+- northyorkshire.police.uk
+people: []
+organisations:
+- Helen James
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

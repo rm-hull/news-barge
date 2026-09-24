@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg
+locations:
+- AI
+- UK
+people:
+- AI
+- Gregg Aldana
+- Mike Moore
+organisations:
+- All AI
+- Appian
+- B2B
+- B2C
+- Global Solutions Consulting
+- Google News
+- ITProPortal
+- TechRadar Pro
 ---
 
 ![A business woman looking at AI on a transparent screen](https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q.jpg)

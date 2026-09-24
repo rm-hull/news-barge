@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Canada
+- County Clare
+- Doonbeg
+- Downing Street
+- Dublin
+- Europe
+- Gaza
+- Greenland
+- Iran
+- London
+- Northern Ireland
+- Phoenix Park
+- Tehran
+- UK
+- US
+- United Kingdom
+- Washington
+- White House
+people:
+- Andy Burnham
+- Catherine Connolly
+- Colum Eastwood
+- Donald Trump
+- Gavin Robinson
+- Kemi Badenoch
+- Micheál Martin
+organisations:
+- Air Force One
+- DUP
+- Democratic Unionist
+- Garden of Remembrance
+- SDLP
+- Sinn Féin
+- Social Democratic and Labour party
+- Trump
+- United Nations
 ---
 
 Donald Trump has said he would “love” to see a united Ireland and that it “may as well happen now”.

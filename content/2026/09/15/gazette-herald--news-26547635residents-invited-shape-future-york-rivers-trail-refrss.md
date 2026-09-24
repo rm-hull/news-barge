@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Homestead Park
+- Leeman Park
+- Museum Gardens
+- Rowntree Park
+- York rivers
+people:
+- Jenny Kent
+- Mark Henderson
+organisations:
+- City of York Council
 ---
 
 Residents are being invited to help shape the future of a popular York rivers trail after the project reached more than 6,000 people through family-focused channels during its first season.

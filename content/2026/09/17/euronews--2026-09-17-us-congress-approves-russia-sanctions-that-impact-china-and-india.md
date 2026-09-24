@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- India
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Donald Trump
+- Gregory Meeks
+- Svitlana Romanko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- '## Kyiv'
+- Congress
+- House Foreign Affairs Committee
+- Razom We Stand
+- Senate
+- Trump
+- US House of Representatives
 ---
 
 ## US lawmakers have approved sweeping new sanctions targeting Russia's economy and Putin's inner circle, with Trump set to sign a bill that also threatens steep tariffs on major buyers of Russian oil, including China and India.

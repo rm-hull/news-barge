@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people: []
+organisations:
+- '## AI'
+- AI AI
+- Autonomous AI
+- Future plc
+- IAM
+- TechRadar Pro
+- TechRadarPro
+- Teleport
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg) 

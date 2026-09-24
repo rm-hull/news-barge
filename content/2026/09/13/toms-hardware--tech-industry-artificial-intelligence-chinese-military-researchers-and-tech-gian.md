@@ -13,6 +13,36 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+- Syria
+- Taiwan
+- Tien Kung
+- U.S.
+- United States
+- Uyghur Autonomous Region
+- Xinjiang
+people:
+- Anton Shilov
+- Claude
+- Tom
+organisations:
+- Alibaba
+- Anthropic
+- Chinese AI
+- DeepSeek
+- Get Tom's Hardware
+- Google News
+- OEM
+- PLA Academy of Military Sciences
+- PRC
+- People's Liberation Army Navy
+- Telegram
+- Tom’s Hardware
+- U.S. Navy
+- Uyghur Post
+- Xiaomi
+- Zhipu/Z.ai
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

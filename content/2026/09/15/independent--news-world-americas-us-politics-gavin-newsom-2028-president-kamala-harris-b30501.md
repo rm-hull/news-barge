@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- California
+- Montana
+people:
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Gavin Newsom
+- God
+- Good
+- JD Vance
+- Jake Tapper
+- Jennifer Siebel Newsom
+- Joe Biden
+- Jonathan Martin
+- Kamala Harris
+- Marco Rubio
+- Pete Buttigieg
+organisations:
+- Bowling Green State University
+- CNN
+- Politico
+- YouGov
 ---
 
 California Governor Gavin Newsom has revealed that he won’t run for president in 2028 if former Vice President Kamala Harris does.

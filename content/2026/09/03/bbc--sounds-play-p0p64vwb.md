@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- London
+- UK
+people:
+- Adam Fleming
+- Andy Burnham
+- Beth Pritchard
+- Chris Gray
+- Faisal Islam
+- Hannah Montgomery
+- Helen Miller
+- Joe Wilkinson
+- John Healey
+- Miranda Slade
+- Nik Sindle
+- Sam Bonham
+- Shiler Mahmoudi
+- Zoe Kleinman
+organisations:
+- AI
+- BBC Sounds
+- IFS
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

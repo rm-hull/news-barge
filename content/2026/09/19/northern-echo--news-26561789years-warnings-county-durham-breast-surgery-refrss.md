@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21282324.jpg?type=og-image
+locations:
+- '![]()County Durham'
+- Auckland
+- County Durham
+- Darlington Memorial Hospital
+- Durham City
+- North Durham
+- University Hospital
+- University Hospital of North Durham
+people:
+- Chris Booth
+- Rowan Atkinson
+- Steve Russell
+organisations:
+- '![]()Darlington Memorial Hospital The Care Quality Commission'
+- '![]()University Hospital'
+- Aston Martin
+- CQC
+- County Durham
+- Darlington NHS Foundation Trust
+- Durham Police
+- Duty of Candour
+- NHS England
+- NHS Getting It Right First Time
+- Northern Cancer Alliance
+- Northern Echo
+- Royal College
+- Royal College of Surgeons
 ---
 
 *(Image: Chris Booth)*

@@ -13,6 +13,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Emden
+- Hannover
+- Neckarsulm
+- U.S.
+- Zwickau
+people:
+- Daniela Cavallo
+- Oliver Blume
+organisations:
+- Volkswagen
 ---
 
 Volkswagen’s board of directors on Thursday approved a sweeping cost-cutting plan that would cut 50,000 jobs, slim the company's model line by half and end auto production at four German plants.

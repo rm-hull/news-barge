@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3897/live/39f0c9b0-b670-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Cumbria
+- Kendal
+people:
+- Anna-May
+- Emma Young
+- Jo Baker
+organisations:
+- Manchester Metropolitan University
+- Men B
+- Student Minds
+- University of Salford
 ---
 
 ![Anna-May, who has long brown hair and wears glasses, is propped up on lots of cushions on her bed, which has a light grey headboard. She is watching an iPad which she is holding in her hands, wearing tracksuit bottoms and a hoodie. There are bedside lights on tables on either side of her bed.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3897/live/39f0c9b0-b670-11f1-b1d1-571ed4d7ff2c.jpg)

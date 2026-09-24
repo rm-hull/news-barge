@@ -11,6 +11,25 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/11/black-friday-2024-york-designer-outlet-parked-cars.webp
+locations:
+- A19 Fulford Interchange
+- Designer Outlet
+- Fulford Court
+- Heslington
+- McArthur Glen Designer Outlet
+- Naburn Lane
+- St Nicholas Avenue
+- St Nicolas Avenue
+- York
+people:
+- Cllr Ravilious
+- Kate Ravilious
+- Paul Tyler
+organisations:
+- City of York Council
+- Designer Outlet
+- Labour
+- Yorkshire Water
 ---
 
 A decision to make a seasonal parking ban at a major York shopping centre permanent to tackle congestion has prompted a warning that it could make the situation worse.

@@ -14,6 +14,33 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bay
+- China
+- Chinatown
+- Leeds
+- London
+- North Yorkshire
+- Theatre Royal Wakefield
+people:
+- Bob Dylan
+- Eddie
+- Helen Oxenbury
+- Joe
+- John Blow
+- Michael Rosen
+- Michael Rosen.
+- Nice’
+- Quentin Blake
+- Robin Hood
+- Simon Hulme.
+organisations:
+- COVID-19
+- Crossgates Primary School
+- Hot Food
+- Nice
+- Theatre Royal Wakefield
+- YouTube
 ---
 
 # Michael Rosen's Nice! comes to Theatre Royal Wakefield on beloved author's 80th birthday year

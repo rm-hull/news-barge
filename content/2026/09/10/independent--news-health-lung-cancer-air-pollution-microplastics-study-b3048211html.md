@@ -13,6 +13,20 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- Greece
+- U.S.
+people:
+- Ilias Dimeas
+- Keshav Raj Paudel
+- Thejus Jayakrishnan
+organisations:
+- American Cancer Society
+- Dana-Farber Cancer Institute
+- European Respiratory Society
+- United Nations
+- University College Dublin School of Medicine
+- University of Technology Sydney
 ---
 
 Lung cancer patients have been found to have greater amounts of microplastics in their lungs than people without the disease, scientists have discovered.

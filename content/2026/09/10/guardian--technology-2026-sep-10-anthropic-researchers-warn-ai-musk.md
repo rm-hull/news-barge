@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations: []
+people:
+- Anna Wang
+- Bill Ackman
+- Drake Thomas
+- Elon Musk
+- Evan Hubinger
+- Gary Marcus
+- Jacob Coxon
+- Parker Thayer
+- Samuel Marks
+organisations:
+- AI
+- ASI
+- Artificial General Intelligence Safety at Anthropic
+- Capital Research
+- Coxon
+- DeepMind
+- Google
+- Guardian
+- Musk
+- OpenAI
+- Pershing Square
 ---
 
 A day after a former researcher at Anthropic made an apocalyptic declaration about artificial intelligence, more researchers and staff members at the AI startup publicly agreed with him and posted their own dire warnings.

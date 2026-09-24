@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+- Atlantic
+- Canada
+- Earth
+- Eastern Seaboard
+- Europe
+- Florida
+- Great Lakes
+- Inner Banks
+- Nashville
+- North Carolina
+- Northeast
+- Pantheon
+- Pocosin Lakes National Wildlife Refuge
+- Russia
+- Tundra
+- U.S.
+- Virginia
+people:
+- Curtis Richardson
+- Neal Flanagan
+- Sarah Toner
+- Steve Apfelbaum
+- Tripp Wall
+- Vladimir Roosevelt
+organisations:
+- AP
+- Associated Press’
+- Duke University
+- Microsoft
+- North Carolina Forest Service
+- Pantheon Regeneration
+- The Society for Conservation Biology
 ---
 
 The birds are up with the sunrise — warblers, flycatchers, sparrows and towhees calling across the treetops. Deer browse on tender buds emerging from dense shrubs. Black bears scrounge for roots, insects and other edibles.

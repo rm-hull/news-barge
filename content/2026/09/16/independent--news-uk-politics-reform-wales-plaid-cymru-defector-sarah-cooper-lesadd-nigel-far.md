@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Aberbargoed
+- Downing Street
+- Senedd
+- Wales
+people:
+- Dan Thomas
+- Ken Skates
+- Mr Thomas
+- Nigel Farage
+- Plaid
+- Sarah Cooper-Lesadd
+- Thomas’
+organisations:
+- BBC
+- Gwent Police
+- Plaid Cymru
+- Press Association
+- Reform UK
+- Senedd
+- Welsh Labour
 ---
 
 A member of the Senedd who defected from Reform UK to Plaid Cymru following the resignation of the party’s leader in Wales has said Nigel Farage’s party is “falling apart at the seams”.

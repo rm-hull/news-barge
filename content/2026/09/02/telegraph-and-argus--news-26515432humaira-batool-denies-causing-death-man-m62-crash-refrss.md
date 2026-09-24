@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Bradford
+- HMP Leeds
+- M62
+- Ripponden
+- Stott Hall Farm
+- West Yorks Police
+- West Yorkshire
+people:
+- Christopher Dunn
+- Humaira Batool
+- Mohammed Shaan Hussain
+- Ms Batool
+organisations:
+- CCTV
+- Lamborghini
+- Leeds Crown Court
 ---
 
 *(Image: West Yorks Police)*

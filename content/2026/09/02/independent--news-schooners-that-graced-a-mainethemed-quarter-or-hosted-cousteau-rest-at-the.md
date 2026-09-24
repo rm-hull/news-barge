@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Boston Harbor
+- Brooklyn Bridge Park
+- Chesapeake
+- Gowanus Canal
+- Henry Street Basin
+- Maine
+- New York
+- New York City
+- Red Hook
+- Rockland
+people:
+- Alex Pincus
+- Amanda Pleau
+- Brad Vogel
+- Charlie Weidman
+- Jacques Cousteau
+- Steve Bromage
+organisations:
+- Brooklyn Bridge Park Corporation
+- Charlie's Marine Service
+- Coast Guard
+- Crew
+- Gowanus Dredgers
+- Maine Historical Society
+- Maine Maritime Museum
+- National Register of Historic Places
+- Pilot
+- Pincus
+- Victory Chimes
 ---
 
 For more than a century, the Pilot and the Victory Chimes — two historic schooners with towering sails — have between them served the country in wartime, hosted the likes of Jacques Cousteau and graced the Maine state quarter.

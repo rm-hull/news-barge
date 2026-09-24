@@ -12,6 +12,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Valley Road
+people: []
+organisations:
+- Bolton and Undercliffe
+- Bradford Council
+- CCTV
 ---
 
 *(Image: T&A)*

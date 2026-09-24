@@ -13,6 +13,40 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Asia
+- Bab el-Mandeb
+- Cairo
+- Doha
+- East-West
+- Egypt
+- Europe
+- Gulf
+- Iraq
+- Mecca
+- Medina
+- Mediterranean
+- Mokha
+- Qatar
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- US
+- Yanbu
+- Yemen
+people:
+- Abdel Fattah el-Sisi
+- Chris Wright
+- El-Sisi
+- Ibrahim bin Sultan Al Hashmi
+- Mohammed bin Salman
+organisations:
+- '## Bab el-Mandeb'
+- Aramco
+- Argus
+- Euronews’
 ---
 
 ## The pipeline shutdown has put pressure on Saudi oil supplies to Europe as further conflict in the region threatens shipping routes. Riyadh has yet to comment on reports that some refiners face delays until November.

@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bickershaw
+- Bradford
+- Greater Manchester
+- HMP Hindley
+- Harehills
+- Leeds
+- Wigan
+people:
+- Liam Makin
+organisations:
+- MINISTRY of Justice
+- MoJ
+- T&A
+- YOI
+- Young Offender Institution
 ---
 
 THE MINISTRY of Justice has confirmed an investigation is underway after a Bradford man died while in prison in June this year.

@@ -13,6 +13,27 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- England
+- Harrogate
+- Valley Gardens
+- Wakefield
+- Whinney Lane
+people:
+- Anne Smith
+- Jane Blayney
+- John Cawood
+organisations:
+- Friends of Valley Gardens
+- Greene King Pub Partners
+- Harrogate Civic Society
+- Historic England
+- Pannal
+- State for Culture, Media and Sport
+- Sun Pavilion
+- The Squinting Cat
+- The Three Horseshoes
+- Three Horse Shoes
 ---
 
 # Local historian's mission to protect well known Harrogate pub by getting it 'listed' by Historic England

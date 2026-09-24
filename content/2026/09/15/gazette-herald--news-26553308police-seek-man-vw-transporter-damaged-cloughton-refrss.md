@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Cloughton
+- Newlands Road
+- North Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police)* Police
+- VW Transporter
 ---
 
 *(Image: North Yorkshire Police)*

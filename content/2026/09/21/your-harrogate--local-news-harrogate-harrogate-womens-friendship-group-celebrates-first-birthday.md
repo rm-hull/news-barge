@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6ab1378fcc914ad2db2.jpg
+locations:
+- Harrogate
+people:
+- Jane Gregory
+organisations:
+- Coach & Horses
+- HBS
+- Harrogate Bee Social
+- Harrogate Bee Social **
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab1378fcc914ad2db2.jpg)

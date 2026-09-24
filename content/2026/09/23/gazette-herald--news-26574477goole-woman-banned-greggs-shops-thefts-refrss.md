@@ -13,6 +13,28 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21490904.jpg?type=og-image&xType=0&yType=500
+locations:
+- Boyes
+- Goole
+- Greggs
+- North Street
+- Pasture Road
+- Rawcliffe Road
+- Rutland Road
+- Wesley Square
+people:
+- Samantha Curley
+organisations:
+- Boots
+- CBO
+- Criminal Behaviour Order
+- Farm Foods
+- Greggs
+- Hull Crown Court
+- Humberside Police
+- Lidl
+- Neighbourhood Policing Constable England
+- Tesco Express
 ---
 
 *(Image: Humberside Police)*

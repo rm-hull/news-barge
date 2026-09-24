@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU4MWRjMTY4LTliYjAtNGJiOC05M2QxLTRkOTQ4ZDBkZTg0YzplNTAxMzBiOC00YzIxLTQyYzctOTJhYS0xYTIyYWRkNDJjNGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- A61
+- Barnsley Road
+- Leeds
+- Newmillerdam
+- Staincross
+- Wakefield
+- Woolley Grange
+people:
+- Christopher Barton
+- Christopher Cockell
+- Janine Barton
+- Lillie Morgan-Roller
+- Rubie Morgan-Roller
+- Shane Roller
+- Shannen Morgan
+organisations:
+- Major Collision Enquiry Team
 ---
 
 # Wakefield man accused of causing deaths of six people in A61 crash

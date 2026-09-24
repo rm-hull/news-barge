@@ -11,6 +11,15 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/ym-choice-2026-asset.png
+locations:
+- UK
+people: []
+organisations:
+- Milner Hotel
+- P.J Staffing
+- PJ Staffing
+- York Sound Limited
+- Yorkshire
 ---
 
 The YorkMix Choice awards are back for 2026 and once again hundreds of local businesses are asking for your vote to help them reach the shortlist!

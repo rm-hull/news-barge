@@ -13,6 +13,44 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Ahmedabad
+- Baltimore
+- Baps Shri Swaminarayan
+- Eiffel Tower
+- Europe
+- France
+- Huntsville
+- India
+- Kenya
+- London
+- North America
+- Paris
+- Republic
+- Sydney
+- UK
+- US
+people:
+- Aurore Bergé
+- Bochasanwasi Akshar Purushottam Swaminarayan Sanstha
+- Emmanuel Gregoire
+- Krishna
+- Marine Le Pen
+- Narendra Modi
+- Pramukh Swami Maharaj
+- Sete
+- Shastri Yagnapurushdas
+- Yael Braun-Pivet
+organisations:
+- BAPS
+- Baps
+- Bharatiya Janata Party
+- CGT
+- Eiffel Tower
+- General Confederation of Labour
+- National Assembly
+- Sete
+- The Independent
 ---
 
 Employees at France’s Eiffel Tower launched a protest after a Hindu religious delegation visiting the monument over the weekend allegedly requested “limited interactions” with female staff.

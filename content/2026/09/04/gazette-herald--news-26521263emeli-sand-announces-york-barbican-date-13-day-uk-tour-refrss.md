@@ -14,6 +14,20 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- London
+- UK
+- York Barbican
+people:
+- Alicia Keys
+- Emeli Sandé
+- Katy Perry
+- Rihanna
+organisations:
+- Liverpool Philharmonic Hall
+- London Palladium
+- Sandé
+- York Barbican
 ---
 
 Award-winning singer-songwriter Emeli Sandé is set to perform at York Barbican as part of a 13-date UK tour celebrating the 15th anniversary of her debut album.

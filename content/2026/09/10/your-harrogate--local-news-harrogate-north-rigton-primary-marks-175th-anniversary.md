@@ -12,6 +12,12 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Harrogate
+people:
+- Sophia Gardiner
+organisations:
+- North Rigton CE Primary School
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa270a8c59d2d723b0.jpg) 

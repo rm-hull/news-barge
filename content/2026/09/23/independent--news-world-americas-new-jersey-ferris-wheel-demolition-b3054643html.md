@@ -13,6 +13,25 @@ categories:
 - Travel
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/23/1/49/iStock-1421398755.jpg?trim=0,60,0,60&width=1200&height=800&crop=1200:800
+locations:
+- Ferris
+- Gillian’s Wonderland Pier
+- New Jersey
+- Ocean City
+people:
+- Andrew Boylan
+- Eustace Mita
+- Ferris
+- Mary Anne Munning
+- Roy Gillian
+- Stu Newman
+organisations:
+- CBS News Philadelphia
+- Ferris
+- Gillian’s Wonderland Pier
+- Mita
+- Ocean City Council
+- WPVI
 ---
 
 One of the most famous sites in a New Jersey shore town is coming down, taking with it decades of fun childhood memories for locals and tourists.

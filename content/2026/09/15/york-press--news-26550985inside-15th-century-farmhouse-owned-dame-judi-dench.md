@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Frensham Pond
+- Heworth
+- Lendal Bride
+- Newland Corner
+- Outwood
+- River Ouse
+- Surrey
+- York
+people:
+- Dame Judi
+- Ian McKellen
+- Judi Dench
+- Judi Dench Walk
+organisations:
+- Crooksbury Commons
+- Judi Dench
+- Sky Arts
+- The Mount School
 ---
 
 *(Image: Archive)*

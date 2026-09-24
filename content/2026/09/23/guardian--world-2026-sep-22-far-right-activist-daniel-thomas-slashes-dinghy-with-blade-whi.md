@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/40ea61df9051882dbabec2760daa50c7c60df1aa/0_99_2360_1888/master/2360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e482f906b0de151d0422261a77f063d
+locations:
+- Britain
+- Dover
+- England
+- France
+- Gosport
+- Hampshire
+- Haslar
+- Isle of Wight
+- UK
+- United Kingdom
+people:
+- Daniel Thomas
+- Danny Tommo
+- Dave Palmer
+- Donna Jones
+organisations:
+- Border Force
+- Border Security Command
+- Gosport
+- HM Coastguard
+- Hampshire
+- Isle of Wight Constabulary
+- Joint Council for Welfare of Immigrants
+- Patriot Platform
+- RNLI
+- Solent News
 ---
 
 Charities have condemned footage of far-right activist Daniel Thomas using a blade to slash an inflatable dinghy in the Channel while a rescue worker was onboard, in a further escalation of organised anti-immigration protest.

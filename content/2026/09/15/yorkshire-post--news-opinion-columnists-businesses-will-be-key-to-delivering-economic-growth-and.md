@@ -18,6 +18,25 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bradford
+- Great Britain
+- Growth Britain
+people:
+- Grant Thornton
+- John Healey
+- Susan Hinchcliffe
+organisations:
+- AI
+- Betty Laura Zapata
+- Council
+- Government
+- Metro Mayors
+- National Wealth Fund
+- PWC
+- Regeneration for Business in the Community
+- Treasury
+- West Yorkshire Combined Authority
 ---
 
 # Businesses will be key to delivering economic growth and the Chancellor is right to look to change the Green Book - Susan Hinchcliffe

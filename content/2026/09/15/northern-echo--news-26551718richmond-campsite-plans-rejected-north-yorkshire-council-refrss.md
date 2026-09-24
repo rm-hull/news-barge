@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Barn Close Field
+- Easby Abbey
+- Easby Abbey Loop
+- Easby Low Road
+- Historic England
+- Maison Dieu
+- North Yorkshire
+- Richmond
+- Scots Dyke
+- St Nicholas
+- St Nicholas Estate
+- Yorkshire Dales
+people:
+- Nick Green
+organisations:
+- Easby Parish Council
+- North Yorkshire Council
+- Public Rights of Way
+- Richmond Town Council
+- Scots Dyke
 ---
 
 Plans to run a campsite annually on the outskirts of Richmond have been put forward, despite a proposal for a pop-up site this summer being formally rejected.

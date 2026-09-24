@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Queensbury
+- West Yorkshire
+people:
+- Andrew Judson
+organisations:
+- Bradford Council
 ---
 
 *(Image: Bradford Council)*

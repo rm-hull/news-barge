@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Clifton Road
+- County Durham
+- Darlington Memorial Hospital
+- North East
+- Park Place
+people: []
+organisations:
+- NEAS
+- NORTHERN ECHO
+- North East Ambulance Service
 ---
 
 *(Image: NORTHERN ECHO)*

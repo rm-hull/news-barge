@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- UK
+- Whitby
+people:
+- David Wilson Homes
+- Steven Ball
+organisations:
+- Barclays Property Insights
+- Chaloners Green
+- David Wilson Homes
+- David Wilson Homes North East
+- Part Exchange
 ---
 
 *(Image: David Wilson Homes)*

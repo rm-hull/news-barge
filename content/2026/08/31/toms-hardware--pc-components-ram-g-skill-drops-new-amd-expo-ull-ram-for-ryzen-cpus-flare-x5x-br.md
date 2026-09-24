@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/4V8U4jbuXfo7BUf6UMYq9M-2100-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- U.S.
+people:
+- Tom
+organisations:
+- AMD
+- EXPO ULL
+- Flare X5X
+- G.Skill
+- G.Skill's
+- Get Tom's Hardware
+- Google News
+- Intel
+- RAM.btmedic04
+- Ryzen
+- Tom’s Hardware
+- Ultra Low Latency
+- Zhiye Liu
 ---
 
 ![Flare X5X](https://cdn.mos.cms.futurecdn.net/4V8U4jbuXfo7BUf6UMYq9M.jpg) 

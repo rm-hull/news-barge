@@ -11,6 +11,29 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Asia  Australia
+- Europe
+- HM Queen Elizabeth II
+- New Zealand
+- Obelisk
+- Ripon Market Place
+- Town Hall
+- UK.
+- USA
+people:
+- Andrew Williams
+- B.P
+- Duncan Grimmold
+- George Pickles
+- Hornblower
+- Ripon
+- Wakeman
+- Wayne Cobbett
+organisations:
+- Ripon
+- Sigma Antiques
+- YorkMix Radio
 ---
 
 Every night of the year without fail, a horn is blown at the four corners of the Obelisk in Ripon Market Place to set the ‘watch’.

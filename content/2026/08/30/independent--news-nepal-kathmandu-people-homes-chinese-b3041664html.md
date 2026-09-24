@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bhotekoshi River
+- Galchhi
+- Kathmandu
+- Nepal
+- New Delhi
+- Prithivi Highway
+- Tibet
+people:
+- Aijaz Hussain
+- Dharam Raj Uprety
+- Govind Shreshta
+- Sattan Singh Tamang
+- Shristi Kafle
+organisations:
+- Associated Press
+- Associated Press’
+- National Disaster Risk Reduction and Management Authority
+- ___ AP
 ---
 
 Authorities in Nepal are warning of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River.

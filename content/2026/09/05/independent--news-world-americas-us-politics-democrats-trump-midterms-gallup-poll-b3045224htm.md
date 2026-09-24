@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- U.S.
+people:
+- Donald Trump
+- Jeffrey Jones
+organisations:
+- Congress
+- Fox News
+- GOP
+- Gallup
+- George W. Bush
+- House
+- Politico
+- Senate
+- Supreme Court
+- The New York Times
+- Trump
 ---
 
 A growing number of Americans now identify as Democrats, a shift that presents fresh political headwinds for President Donald Trump and the Republican party ahead of the November midterms, according to a new poll.

@@ -13,6 +13,15 @@ categories:
 - Travel
 - Food & Cooking
 image: https://mmo.aiircdn.com/409/6aabd35a8e426d4e480.jpg
+locations:
+- Ripon
+people:
+- Marco
+- Maria
+organisations:
+- Mario's Restaurant
+- Mario’s Restaurant
+- Tripadvisor
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabd35a8e426d4e480.jpg)

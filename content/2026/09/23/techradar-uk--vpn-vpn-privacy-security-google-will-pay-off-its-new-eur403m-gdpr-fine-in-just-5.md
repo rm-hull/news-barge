@@ -11,6 +11,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/h2fEJR2KPmshJMuV2v4SpF-2560-80.jpg
+locations:
+- Africa
+- Asia
+- California
+- Ireland
+- Mountain View
+- Switzerland
+- US
+people:
+- Big Tech
+- Jurgita Miseviciute
+- Rene Millman
+organisations:
+- Alphabet’s
+- Big Tech
+- Computer Weekly
+- DPC
+- Data Protection Commission
+- EU
+- European Union
+- Financial Times
+- Google I
+- Google News
+- IT Pro
+- No Trace
+- Proton
+- The Guardian
+- VPN
 ---
 
 ![Google signage at the Google I/O Developers Conference in Mountain View, California, US, on Tuesday, May 19, 2026.](https://cdn.mos.cms.futurecdn.net/h2fEJR2KPmshJMuV2v4SpF.jpg)

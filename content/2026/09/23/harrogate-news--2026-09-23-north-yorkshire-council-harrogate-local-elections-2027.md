@@ -15,6 +15,37 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Northallerton-council.webp
+locations:
+- Coppice Valley
+- Harrogate
+- Knaresborough
+- North Yorkshire
+- North Yorkshire Metro
+- Ripon
+- UK
+- York
+people:
+- Arnold Warneken
+- Carl Les
+- Cllr Les
+- John Mann
+- Keane Duncan
+- Tom Gordon
+organisations:
+- Battle for North Yorkshire Council Control Voters
+- Conservatives to Reform
+- Green Party
+- Greens
+- Harrogate District Voters Local
+- Harrogate Town Council
+- Harrogate Town Council Re-alignment
+- Knaresborough
+- Lib Dems
+- Liberal Democrats
+- North Yorkshire Council
+- Ouseburn
+- Parish Council Elections
+- Reform UK
 ---
 
 The political landscape across North Yorkshire is heating up as rival groups draw their battle lines ahead of a massive, synchronised local election cycle scheduled for **May 2027**.

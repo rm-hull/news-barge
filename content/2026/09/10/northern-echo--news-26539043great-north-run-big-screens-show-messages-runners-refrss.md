@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Lumo
+- Newcastle
+- North East
+- South Shields
+- Tyne Bridge
+- Whitemare Pool
+people:
+- Andrea Glover
+- Jen Clare
+organisations:
+- Brush Cancer Patient Care
+- Daft
+- Lumo
+- Mini Great North Run
+- RNLI
 ---
 
 *(Image: LUMO | INSTAGRAM)*

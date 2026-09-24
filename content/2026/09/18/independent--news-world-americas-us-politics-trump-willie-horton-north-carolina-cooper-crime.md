@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/09/18/08/2295080822..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Charlotte
+- Gastonia
+- Las Vegas
+- Massachusetts
+- North Carolina
+- US
+people:
+- Andra Gillespie
+- Decarlos Brown Jr.
+- Donald Trump
+- George H.W
+- George H.W. Bush
+- Iryna Zarutska
+- Michael Dukakis
+- Michael Whatley
+- Morgan Jackson
+- Natalie Baldassarre
+- Roy Cooper
+- Willie Horton
+organisations:
+- AP
+- Congress
+- Emory University
+- FBI
+- RNC
+- Republican National Committee
+- Senate
+- The Associated Press
+- Trump
 ---
 
 President Donald Trump has revived one of the most controversial tactics in modern US political history, invoking Willie Horton as he campaigns on crime ahead of the midterms.

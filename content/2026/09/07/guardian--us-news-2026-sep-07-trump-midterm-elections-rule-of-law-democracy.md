@@ -12,6 +12,63 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Connecticut
+- Massachusetts
+- Michigan
+- Oregon
+- US
+- United States
+- Washington
+people:
+- Anna Baldwin
+- Barbara McQuade
+- Donald Trump
+- Ed Martin
+- Harmeet Dhillon
+- Indira Talwani
+- J Michael Luttig
+- James Pearce
+- Joe Biden
+- John Sauer
+- Michael Bromwich
+- Nancy Gertner
+- Nick Brown
+- Norm Eisen
+- Richard Blumenthal
+- Sophia Lin Lakin
+- Stacey Young
+- Tianna Mays
+organisations:
+- ACLU Voting Rights Project
+- American Civil Liberties Union
+- Brennan Center
+- Brennan Center for Justice
+- CLC
+- Campaign Legal Center
+- Congress
+- DDF
+- DHS
+- Daga
+- Democracy Defenders Fund
+- Democracy Forward
+- Democratic Attorneys General Association
+- Department of Homeland Security
+- DoJ
+- Guardian
+- ICE
+- Justice Connection
+- New York Times
+- States United
+- Trump
+- Truth Social
+- US Postal Service
+- USPS
+- University of Michigan
+- WLG
+- Washington Litigation Group
+- rightwing Heritage Foundation
 ---
 
 A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump’s authoritarian executive orders on voting and other presidential actions they see as a “war” on the rule of law in the US.

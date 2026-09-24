@@ -13,6 +13,28 @@ categories:
 - History
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21356991.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- Scarborough'S Spa Cliff Lift
+- South Cliff
+- Spa and Gardens
+people:
+- Alison
+- John
+- Rich
+- Suzanne
+- Wendy
+organisations:
+- Google Maps
+- Historic England
+- North Yorkshire Council
+- Scarborough Spa Cliff Lift
+- Scarborough Spa Cliff Lift Entrance
+- South Cliff Gardens
+- The National Lottery Heritage Fund
+- The Press
+- The Spa
 ---
 
 ## Calls grow to reopen town's historic cliff lift after safety closure

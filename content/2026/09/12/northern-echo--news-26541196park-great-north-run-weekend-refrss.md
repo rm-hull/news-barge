@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A104
+- A183 Coast Road
+- Central Motorway
+- Central Motorway and Tyne Bridge
+- Claremont Road
+- Coast Road
+- Dean Street
+- Gateshead
+- Grainger Town
+- Great North Road
+- Haymarket
+- JustPark
+- Metro
+- Newcastle Central Motorway
+- Newcastle Road
+- Newcastle’s Central Motorway
+- Northumberland Park
+- Pier Head
+- Prince Edward Road
+- South Shields
+- South Shields Interchange
+- South Tyneside
+- South Tyneside.
+- The Leas
+- Tom Banks
+- Town Moor
+- Tyne Bridge
+- Tyne Bridge.
+people: []
+organisations:
+- A1
+- A167
+- Harbour Drive
+- MetroCentre
+- Newcastle
+- Red Arrows
+- Tyneside
 ---
 
 Drivers heading to this year’s Great North Run are being warned that extensive closures will affect Newcastle, Gateshead and South Tyneside on race day.

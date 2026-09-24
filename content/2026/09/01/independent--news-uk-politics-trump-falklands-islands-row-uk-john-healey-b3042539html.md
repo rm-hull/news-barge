@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/01/05/2292889323..?trim=0,2,0,2&
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Britain
+- Downing Street
+- Europe
+- Falkland Islands
+- Falkland islands
+- Falklands
+- Falklands’
+- The Hague
+- UK
+- US
+- United States
+people:
+- Burnham
+- Donald Trump
+- Javier Millei
+- John Healey
+- Keir Starmer
+organisations:
+- Nato
+- The Times
+- United States’
 ---
 
 Downing Street has hit back after Donald Trump suggested he was reviewing the United States’ position on British sovereignty over the Falkland islands.

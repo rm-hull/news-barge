@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Beverley Magistrates' Court
+- Bridlington
+- Carter Street
+- Goole
+- Jefferson Street
+- Little Beck Road
+- Woldgate
+people:
+- Carl Skelton
+- Elizabeth Walker
+- Sophie Smith
+organisations:
+- CCTV
+- East Riding of Yorkshire Council
 ---
 
 Two women have been fined after waste linked to their homes was found dumped in separate fly-tipping incidents.

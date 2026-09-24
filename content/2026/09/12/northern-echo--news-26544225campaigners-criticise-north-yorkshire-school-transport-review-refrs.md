@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- Swaledale
+people:
+- Andy Burnham
+- Rachel Joyce
+organisations:
+- Full Council
+- North Yorkshire Council
+- PIR
+- STAG
+- School Transport Action Group
 ---
 
 Campaigners claim a long-awaited review of North Yorkshire Council’s controversial school transport policy is designed to protect the authority rather than families and rural communities.

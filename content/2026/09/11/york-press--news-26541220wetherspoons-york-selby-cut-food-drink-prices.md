@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Blossom Street
+- Gowthorpe
+- North Yorkshire
+- Piccadilly
+- Selby
+- York
+people:
+- Nicola Hill
+organisations:
+- The Giant Bellflower
+- The Postern Gate
+- The Punch Bowl
+- Wetherspoons
 ---
 
 *(Image: Supplied)*

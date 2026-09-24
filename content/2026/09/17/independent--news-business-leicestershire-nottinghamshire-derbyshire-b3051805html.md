@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Derbyshire
+- Leicestershire
+- Nottinghamshire
+- Stilton
+people:
+- Greggs
+- Mike Egerton
+- Zoe Harris
+organisations:
+- Greggs
+- Steak & Stilton
 ---
 
 A Greggs pastry filled with Stilton cheese has become its second-biggest launch ever, beaten only by its Festive Bake, the retailer said.

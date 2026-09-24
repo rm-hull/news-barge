@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Craig Hale
+- Juniper
+organisations:
+- Anthropic
+- Craig’s
+- Google News
+- Juniper Research
+- OpenAI
+- TechRadar Pro
+- US AI
 ---
 
 ![A person typing on a laptop and using a tablet. Only their upper torso, arms and hands are visible. Text superimposed on the image shows AI](https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML.jpg) 

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Gillian Murray
+organisations:
+- Chemical Engineering
+- Daily Mail University Guide
+- Guardian University Guide
+- KM Images Ltd
+- Kiran Mehta
+- Paramedic Science
+- University of Bradford
 ---
 
 *(Image: University of Bradford/Kiran Mehta@KM Images Ltd)*

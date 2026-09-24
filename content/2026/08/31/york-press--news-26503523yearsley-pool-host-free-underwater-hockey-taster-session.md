@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Yearsley Swimming Pool
+- York
+people:
+- Sam
+organisations:
+- Archbishop Holgate’s School
 ---
 
 ## Free underwater hockey taster session offered at York swimming pool

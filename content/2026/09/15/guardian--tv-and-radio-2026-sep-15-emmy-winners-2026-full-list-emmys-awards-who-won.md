@@ -12,6 +12,157 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amagansett
+people:
+- '** Zendaya'
+- Abbott Elementary
+- Allison Janney
+- Andrew DeYoung
+- Anthony King
+- Bait Jason Bateman
+- Bay Hannah Einbinder
+- Beef Nick Offerman
+- Betty Gilpin
+- Bob’s Burgers Rick
+- Brad Ingelsby
+- Bradley Whitford
+- Brett Goldstein
+- Brittany Allen
+- Carey Mulligan
+- Carlos-Manuel Vesga
+- Carolyn Bessette
+- Carrie Coon
+- Charlie Hunnam
+- Cherry Jones
+- Christopher McDonald
+- Christopher Storer
+- Claire Danes
+- Colman Domingo
+- Connor Storrie
+- Dakota Fanning
+- Dale Dickey
+- Dave Chappelle
+- David Harbour
+- Debora Cahn
+- Ernest Harden Jr
+- Euphoria
+- Gary Oldman
+- Hacks Harrison Ford
+- Hacks Jamie Lee Curtis
+- Hacks Janelle James
+- Hacks Jessica Williams
+- Hacks Kaitlin Olson
+- Hacks Lauren Weedman
+- Hacks Laurie Metcalf
+- Hacks Mary Lou Belli
+- Hamish Linklater
+- Hanelle M Culpepper
+- Hiro Murai
+- Jack Ryan
+- Jason Bateman
+- Jason Segel
+- Jean Smart
+- Jeff Hiller
+- Jen Statsky – Hacks
+- John F Kennedy Jr
+- John Oliver
+- Jonathan Pryce
+- Julianne Nicholson
+- Kate O’Flynn
+- Katherine LaNasa
+- Keri Russell
+- Kirsten Pierre-Geyfman
+- Laurie Metcalf
+- Leslie Bibb
+- Linda Cardellini
+- Lisa Kudrow
+- Louis Charles Melton
+- Louis Richard Gadd
+- Lucia Aniello
+- Margo
+- Mark Ruffalo
+- Martin Short
+- Matthew Rhys
+- Megan Stalter
+- Michael J Fox
+- Michael Patrick King
+- Michael Urie
+- Michelle Pfeiffer
+- Nick Offerman
+- Nikki Glaser
+- Noah Wyle
+- Only Murders
+- Paradise Karolina Wydra
+- Paradise Noah Wyle
+- Pat Show
+- Patrick Ball
+- Paul W Downs
+- Peter Ackerman
+- Pluribus Jeff Kober
+- Pluribus Merritt Wever
+- Quinta Brunson
+- R Scott Gemmill
+- Randall Einhorn
+- Rhea Seehorn
+- Richard Jenkins
+- Riz Ahmed
+- Rob Reiner
+- Rooster
+- Rufus Sewell
+- Salli Richardson Whitfield
+- Salli Richardson-Whitfield
+- Sally Field
+- Sarah Pidgeon
+- Sarah Snook
+- Saul Metzstein
+- Shailene Woodley
+- Shawn Hatosy
+- Slow Horses
+- Stephen Colbert
+- Stephen Root
+- Sterling K Brown
+- Steve Carell
+- Taylor Dearden
+- The Diplomat
+- The Pitt
+- The Pitt Billy Crudup
+- The Pitt Fiona Dourif
+- The Pitt Gerran Howell
+- The Pitt Jack Lowden
+- The Pitt Miriam Shor
+- The Pitt Sepideh Moafi
+- The Pitt Tal Anderson
+- The Pitt Tina Ivlev
+- Tim Robinson
+- Tom Clancy
+- Tom Pelphrey
+- Tyler James Williams
+- Valerie Chu
+- Vince Gilligan
+- Widow
+- Widow’s Bay
+- Will Smith
+- Yahya Abdul-Mateen II
+- Zach Kanin
+organisations:
+- Abbott Elementary
+- DTF St Louis
+- Hacks
+- Katie Dippold
+- Mergers And Acquisitions
+- Pluribus (We Is Us
+- Quinta Brunson
+- Retreat
+- Scars
+- Team Building
+- The Bear
+- The Chair Company
+- The Comeback
+- The Pitt
+- Valerie Does It All
+- Welcome To Widow’s Bay!
+- Widow’s Bay
 ---
 
 ## **Best drama series**

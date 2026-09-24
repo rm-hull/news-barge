@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - True Crime
 - Sports
+locations:
+- Derwentwater Road
+- Grangetown
+- Harwal Road
+- Image
+- James Cook University Hospital
+- Middlesbrough
+- Redcar
+- Wilton Way
+people:
+- Aycliffe
+- Charles Hoe
+- Chris Wood
+- Man
+- Marco Giuliani
+- Michael Flanigan
+- Nicola Barker
+- Rod Hunt
+organisations:
+- CCTV
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 Two violent thugs who were involved in a brutal knife attack were captured on CCTV confronting their victim outside a shop.

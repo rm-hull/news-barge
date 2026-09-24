@@ -14,6 +14,15 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21485533.jpg?type=og-image
+locations:
+- East Riding
+- East Yorkshire
+- Parkland
+people:
+- Alasdair Hutson
+organisations:
+- Burton Constable Foundation
+- Burton Constable Hall
 ---
 
 *(Image: Supplied)*

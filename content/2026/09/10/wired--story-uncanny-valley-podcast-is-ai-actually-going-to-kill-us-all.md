@@ -13,6 +13,59 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- AI
+- Bluesky
+- Brooklyn
+- Cornell
+- DC
+- New York
+- Northeast
+- US
+- Uncanny Valley
+people:
+- AI
+- Adriana Tapia
+- Bluesky
+- Brian Barrett
+- Brian Barrettt
+- Daniel Roman
+- David Gilbert
+- Donald Trump
+- Jacob Coxon
+- John Ternus
+- Kate Osborn
+- Katie Drummond
+- Leah Feiger
+- Matt Giles
+- Obama
+- Pran Bandi
+- Shazam
+- Tori
+- Vittoria Elliott
+- Will Knight
+- Yeah
+- Zoë Schiffer
+- god
+organisations:
+- AGI
+- AI
+- America First Policy Institute
+- Anthropic
+- Apple
+- Census Bureau
+- Claremont Institute
+- Commerce Department
+- Huawei
+- IDC
+- OpenAI
+- Samsung
+- Spotify
+- True Social
+- Trump
+- US Census Bureau
+- WIRED
+- YouTube
 ---
 
 This week on *Uncanny Valley*, an AI researcher’s resignation from Anthropic went viral on social media after he claimed there’s a real chance AI could wipe out humanity within a decade. WIRED’s Will Knight joins Brian Barrett and Leah Feiger to assess whether the doom narrative is overblown or overdue. We also discuss Apple’s debut of its $2,000 foldable iPhone, the iPhone Duo, and the new “always listening” Apple Watch features that have Brian feeling more than a little uneasy. Plus, a WIRED investigation found that the US Census Bureau used faulty data to create a misleading report touted by the Trump administration.

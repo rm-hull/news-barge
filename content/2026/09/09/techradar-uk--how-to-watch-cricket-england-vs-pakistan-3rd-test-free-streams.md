@@ -10,6 +10,87 @@ image: https://cdn.mos.cms.futurecdn.net/ivQaiBpft2cbYFNXveSCn-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Birmingham
+- Edgbaston
+- Get England
+- Headingley
+- India
+- Karachi
+- Lord's
+- Pakistan
+- Tampad
+- U.S.
+- UK
+- US
+- USA
+- onTapmad
+- pakistan
+people:
+- Abdullah Fazal
+- Abdullah Shafique
+- Arafat Minhas
+- Ashley Noffke
+- Azan Awais
+- Babar Azam
+- Ben Duckett
+- Dan Lawrence
+- Emilio Gay
+- Gus Atkinson
+- Harry Brook
+- Imam-ul-Haq
+- Jamie Smith
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Krishi
+- Mike Hesson
+- Mohammad Abbas
+- Mohammad Ali
+- Mohammad Ghazi Ghori
+- Mohammad Imran Jnr
+- Mohammad Rizwan
+- Muhammad Imran
+- Ollie Pope
+- Ollie Robinson
+- Razaullah
+- Saad Baig
+- Saim Ayub
+- Sajid Khan
+- Salman Ali Agha
+- Sam Cook
+- Sarfaraz Ahmed
+- Saud Shakeel
+- Shan Masood
+- Shoaib Bashir
+- Sonny Baker
+- 'Ubaid Shah ## England'
+- Umar Gul
+organisations:
+- AU
+- Dakshin Flex
+- England
+- Future Publishing
+- Kayo Sports
+- Krishi
+- New Zealand
+- NordVPN**
+- PCB
+- PTV Sports
+- Pak
+- Pakistan
+- Seat Unique
+- Sky Sports
+- Sony LIV
+- Sony Sports Network
+- Tapmad
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- Willow TV
 ---
 
 ![Ollie Robinson and Jamie Smith of England appeal for the dismissal of Azan Awais of Pakistan during the fourth day of the second Rothesay Test between England and Pakistan](https://cdn.mos.cms.futurecdn.net/ivQaiBpft2cbYFNXveSCn.jpg) 

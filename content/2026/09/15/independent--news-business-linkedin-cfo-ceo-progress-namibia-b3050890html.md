@@ -13,6 +13,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- Finland
+- Iceland
+- Namibia
+- Norway
+- UK
+people:
+- Sue Duke
+organisations:
+- AI
+- CEO
+- CFO
+- LinkedIn
+- World Economic Forum
+- non-AI
 ---
 
 Women’s representation in the workplace drops sharply as they progress from entry level to senior roles across the UK, new data reveals.

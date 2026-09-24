@@ -16,6 +16,21 @@ categories:
 - Education & Learning
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Anita Rani
+- Mark Stanford
+- Zailie Barratt
+organisations:
+- AI
+- Bradford University
+- Centre for Social Justice
+- House of Commons Library
+- NEET
+- Newsquest
+- Rewiring Education
+- University of Bradford
 ---
 
 The University of Bradford says its focus on employability is helping students move successfully into work and further education.

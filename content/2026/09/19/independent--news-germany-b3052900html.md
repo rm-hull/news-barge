@@ -14,6 +14,10 @@ categories:
 - Travel
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/15/Germany_Oktoberfest_Opening_538_6.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Munich
+people: []
+organisations: []
 ---
 
 Photos of the Bavarian tradition of Oktoberfest in Munich

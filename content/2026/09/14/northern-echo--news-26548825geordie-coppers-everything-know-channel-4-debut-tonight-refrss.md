@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Britain
+- Newcastle
+- North East
+people:
+- Amanda Owen
+- Callum
+- Kevin Keegan
+- PC Siobhan
+organisations:
+- Candour
+- Channel 4
+- City Safe
+- Geordie Coppers
+- McDonald's
+- NE1 Street Rangers
+- Newcastle City Council
+- Northumbria Police
+- St James’ Park
+- Street Ranger
+- The Dunblane Tapes
+- The Essex Millionaire Murder
 ---
 
 A brand-new documentary series following the people who police the North East will hit TV screens tonight.

@@ -12,6 +12,64 @@ image: https://static.independent.co.uk/2026/09/03/21/69d051f1f0a48b7f4e7fee3763
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Birmingham
+- Britain
+- England
+- Falkland Islands
+- Greater Manchester
+- Iran
+- London
+- Miami
+- Middle East
+- South East
+- St Pancras
+- Teesside
+- TikTok
+- UK
+- US
+people:
+- '## Farage'
+- '## Trump'
+- Andy Burnham
+- Donald Trump
+- John Curtice
+- Jordan Bardella
+- Keir Starmer
+- Lisa Nandy
+- Margaret Thatcher
+- Nigel Farage
+- Pill
+- Robert Jenrick
+- TikTok
+- Todd Boehly
+- Zack Polanski
+organisations:
+- '## Company'
+- BBC
+- Bank of England
+- Brexit
+- Channel 4 News
+- Chelsea FC
+- Conservative Party
+- Eldridge Capital Management Services
+- Eldridge Industries
+- Electoral Commission
+- Elridge Capital Management Services
+- European Union
+- GB News
+- Green Party
+- House of Commons
+- LTD
+- Labour
+- London Assembly
+- Reform A
+- Reform UK
+- The Holborn
+- The Independent
+- United States’
+- Verbatim
 ---
 
 Nigel Farage is to announce that he will make Parliament “sit day and night” until all legislation is passed if Reform UK wins the next general election.

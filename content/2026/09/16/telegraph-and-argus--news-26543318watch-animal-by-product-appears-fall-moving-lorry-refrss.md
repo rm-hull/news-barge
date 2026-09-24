@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Pets & Animals
+locations:
+- Bradford
+- England
+- Queensbury
+- Thornton
+- UK
+people: []
+organisations:
+- Ford Hill Newsagents
+- Leo Group
+- Omega Proteins
+- Telegraph & Argus
 ---
 
 *(Image: Local resident)*

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Hong Kong
+people:
+- David Cheung
+- Eric Lai
+- Selina Cheng
+organisations:
+- Dow Jones Publishing
+- Georgetown Center for Asian Law
+- HKJA
+- Hong Kong Journalist Association
+- Reporters Without Borders
+- WSJ
+- Wall Street Journal
+- Wall Street journal
 ---
 
 A Hong Kong court has convicted the publisher of the Wall Street Journal of deterring a reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city.

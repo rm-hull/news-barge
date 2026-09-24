@@ -12,6 +12,40 @@ image: https://cdn.mos.cms.futurecdn.net/cWc9CWu3UHCubh8PtKXmVS-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Bosnia and Herzegovina
+- Sarajevo
+- U.S.
+- US
+people:
+- Claude
+- Sead
+organisations:
+- API
+- Al Jazeera Balkans
+- Alibaba
+- American AI
+- CISA
+- Chinese AI
+- DeepSeek R1
+- FBI
+- Federal Bureau of Investigation
+- GPT
+- Gemini
+- Google News
+- Grok
+- IBM
+- Moonshot AI
+- NSA
+- National Security Agency
+- Represent Communications
+- StepFun
+- TechRadar Pro
+- U.S. Government
+- US AI
+- US Cybersecurity and Infrastructure Security Agency
+- Z.AI
 ---
 
 ![ChatGPT vs Gemini comparison](https://cdn.mos.cms.futurecdn.net/cWc9CWu3UHCubh8PtKXmVS.jpg) 

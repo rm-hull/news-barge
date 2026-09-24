@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- BULLS
+- Egypt
+- Gulf
+- Iran
+- Jordan
+- Kharg Island
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- U.S.
+- USA
+- United Arab Emirates
+people:
+- DJT,” Trump
+- DONALD J.TRUMP Trump
+- Donald Trump
+- Hamid Bovard
+- Scott Bessent
+organisations:
+- Air Force
+- Banque Misr
+- FAKE NEWS
+- Failed Nation
+- Group of 20
+- National Iranian Oil Co
+- Navy
+- Reuters
+- Revolutionary Guards
+- Revolutionary Guards'
+- Trump
+- Truth Social
+- U.S. Central Command
+- U.S. Treasury
 ---
 
 President Donald Trump claimed Iran’s energy hub of Kharg Island has been “blown to smithereens” - alongside a AI video of an explosion.

@@ -12,6 +12,18 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/21/10/2026-09-15T115102Z_1005076276_RC2HENARBFJM_RTRMADP_3_ITALY-POLITICS.JPG?trim=0,183,0,183&width=1200&height=800&crop=1200:800
+locations:
+- Italy
+- Rome
+people:
+- Giorgia Meloni
+organisations:
+- Brothers of Italy
+- European Union
+- Forza Italia
+- Gioventù Nazionale
+- League
+- Meloni's Brothers
 ---
 
 Italian Prime Minister Giorgia Meloni announced plans to introduce a government measure capping the number of foreign students in classrooms and banning burqas and niqabs in schools.

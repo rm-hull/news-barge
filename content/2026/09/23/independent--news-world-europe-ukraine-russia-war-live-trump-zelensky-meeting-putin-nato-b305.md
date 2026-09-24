@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/21/2296069014..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Antigua
+- Azerbaijan
+- Baku
+- Barbuda
+- Black Sea
+- Britain
+- Estonia
+- Europe
+- France
+- Germany
+- Kyiv
+- London
+- Moscow
+- New York
+- New York City
+- Odesa
+- Paris
+- Russia
+- The Kremlin
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Alisher Usmanov
+- Andy Burnham
+- Dmitry Peskov
+- Donald Trump
+- Ilham Aliyev
+- John Stringer
+- Marco Rubio
+- Martin Ryan
+- Oleh Kiper
+- Sergei Lavrov
+- Sergey Lavrov
+- Vladimir Putin
+- Volodymyr Zelensky
+- Zelensky Volodymyr Zelensky
+organisations:
+- Brexit
+- EU
+- National Centre for Information Defence
+- Nato
+- Reuters
+- Telegram
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

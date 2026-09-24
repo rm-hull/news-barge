@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Geneva
+- Iran
+- Israel
+- Lamerd
+- Minab
+- Shajareh Tayyebeh
+- Tehran
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+- Sara Hossain
+organisations:
+- Human Rights Council
+- Independent International Fact-Finding Mission on Iran
+- Pentagon
+- Shajareh Tayyebeh Primary School
+- UN Human Rights Council
+- US Central Command
+- United Nations’
 ---
 
 Human rights experts appointed by the United Nations’ top rights body say they have established "reasonable grounds" to believe the United States committed war crimes during two military strikes in Iran earlier this year, including an attack on an elementary school in the southern city of Minab.

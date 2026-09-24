@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Bellfarm Avenue
+- Heworth
+- York
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- VANDALS
 ---
 
 *(Image: North Yorkshire Police)*

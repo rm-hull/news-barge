@@ -14,6 +14,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21108867.jpg?type=og-image&xType=2
+locations:
+- County Durham
+- Nettlesworth
+- Newton Aycliffe Magistrates’ Court
+- The Green
+people:
+- Jaxon Taylor
+- Man
+- Rebecca Cowie
+- Thomas Reay
+organisations:
+- Darlington Bench
+- NORTHERN ECHO
+- Probation Service
 ---
 
 *(Image: NORTHERN ECHO)*

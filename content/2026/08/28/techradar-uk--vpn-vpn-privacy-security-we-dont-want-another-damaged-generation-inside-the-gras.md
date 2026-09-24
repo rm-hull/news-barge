@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/bdbpu4VJqM2NBuTamDNQBR-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Ireland
+- Italy
+- London
+- Norway
+- Rome
+- UK
+- US
+people:
+- Chiara Castro
+- Guy Holder
+- Liz Hunter
+organisations:
+- Chiara
+- Google News
+- LinkedIn
+- Meta
+- Ministry of Digitalisation
+- No Trace
+- Norwegian Consumer Council
+- Samsung
+- Stop Smart Glasses
+- TechRadar
+- TikTok
+- VPNs
+- Wetherspoons
 ---
 
 ![A Ray-Ban eyewear store in Rome, Italy, on Friday, July 11, 2025](https://cdn.mos.cms.futurecdn.net/bdbpu4VJqM2NBuTamDNQBR.png) 

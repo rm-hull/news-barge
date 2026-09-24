@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Haiti
+- Havana
+- Kenscoff
+- Port-au-Prince
+people:
+- God
+- Jean Calixte Juste
+- Jean Robert Dorlus
+- Marta Hurtado
+- Yvonne Marleus
+organisations:
+- Human Rights Office
+- National Police
+- U.N
+- UNICEF
+- ___ Coto
 ---
 
 Hundreds of people crowded into a church near Haiti’s capital on Sunday for the funeral of four of the 47 people killed in a recent gang attack so brutal that it shook a country that has long struggled with violence.

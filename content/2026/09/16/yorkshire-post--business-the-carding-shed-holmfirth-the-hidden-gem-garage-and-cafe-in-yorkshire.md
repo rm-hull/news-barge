@@ -15,6 +15,21 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Carding Shed
+- Halifax
+- Holmfirth
+- Huddersfield
+- Yorkshire
+people:
+- Ben Kellett
+- Ian Kellett
+- Nicola
+organisations:
+- Carding Shed
+- Jaguar
+- The Carding Shed
+- Yorkshire Tea
 ---
 
 # The Carding Shed, Holmfirth: The hidden gem garage and cafe in Yorkshire located within historic mill

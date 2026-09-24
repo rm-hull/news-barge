@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/19950442.jpg?type=og-image
+locations:
+- Coundon
+- County Durham
+- Lorne Terrace
+people: []
+organisations:
+- Durham Police
+- North East Ambulance Service
 ---
 
 *(Image: NEWSQUEST)*

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- :**County Durham
+- Darlington
+- Little Phoenix
+- The Spital
+- Yarm
+people:
+- Huw Williams
+- Sarah Moon-Gatford
+- Slurring
+organisations:
+- :**County Durham
+- Little Phoenix
+- Little Phoenix Nursery
+- Yarm School
 ---
 
 *(Image: Little Phoenix Nursery)*

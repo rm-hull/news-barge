@@ -13,6 +13,38 @@ categories:
 - Technology & Software
 - Hardware
 - Arts & Culture
+locations:
+- Manhattan
+- Oldest House
+people:
+- Alan Wake II
+- Dylan Faden
+- Hiss
+- Jeff Kampman
+- Jeffrey Kampman
+- Jesse Faden
+- Langston
+- Zoe
+organisations:
+- AMD
+- Blackwell
+- Board
+- DLSS
+- FBC
+- FSR
+- Federal Bureau of Control
+- GPU
+- GeForce
+- Get Tom's Hardware
+- Intel
+- Nvidia
+- RT
+- RTX
+- RX
+- Ray Reconstruction
+- Reply This.Roland Of Gilead
+- Tom's Hardware
+- XeFG
 ---
 
 ![Control Resonant gameplay](https://cdn.mos.cms.futurecdn.net/nQyMuEe3Hdv4Y6dUjEyScS.png) 

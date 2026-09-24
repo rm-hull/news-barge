@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Batman
+- Britain
+- Buckinghamshire
+- Halabi
+- Herts
+- Leighton Buzzard
+- Mentmore Towers
+- UK
+people:
+- Bruce Wayne
+- Christian Bale
+- Christopher Nolan
+- Joseph Paxton
+- Peter Strachan
+- Rothschild
+- Simon Halabi
+- Wayne Manor
+organisations:
+- Batman Begins Mentmore
+- Buckinghamshire Council
+- Crystal Palace
+- Heritage
+- Historic England
+- Mentmore Towers
+- Save Britain
 ---
 
 ![Mentmore Towers - a large, grand stately home with a tiered lawn with steps in front of it. It has several towers with pinnacles at their corners.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cab9/live/739d10c0-9d6f-11f1-bdcc-8926c4a74c43.jpg)

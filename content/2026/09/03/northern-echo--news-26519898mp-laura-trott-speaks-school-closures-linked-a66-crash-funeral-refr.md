@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Archway
+- CLEVELAND
+- Matusiak
+- Normanby Road
+- Outwood Academy
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- St Peter
+- Teesside
+- Teesville
+people:
+- DAVID WOOLFALL
+- Jakub Matusiak
+- Laura Trott
+- Lucy Powell
+- Matthew Blades
+- Ms Trott
+- Pc Tom Clough
+- Tom Clough
+organisations:
+- A66
+- Catholic Primary School
+- Cleveland Council
+- Cleveland Police
+- Cleveland Police Federation
+- Mackenzie Thorpe School
+- North News & Pictures Ltd
+- Nunthorpe
+- Redcar
+- SOCIAL MEDIA
+- South Bank Primary
 ---
 
 The Shadow Education Secretary said children should not be kept out of classrooms after schools announced they would shut early due to a funeral linked to the fatal A66 crash.

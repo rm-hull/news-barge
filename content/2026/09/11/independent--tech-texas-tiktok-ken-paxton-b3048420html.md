@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- California
+- Colorado
+- Kentucky
+- New Jersey
+- Texas
+- US
+- United States
+people:
+- Carolyn Kuhl
+- Cory Liu
+- Joseph VanZandt
+- Ken Paxton
+- TikTok
+organisations:
+- Facebook
+- Google
+- Instagram
+- Los Angeles Superior Court
+- Meta Platforms
+- Snap Inc
+- Snapchat
+- TikTok
+- YouTube
 ---
 
 A Texas court found TikTok in violation of state consumer protection laws after ruling that the social media platform misled the public about its underage content filtering and the effectiveness of its "Restricted Mode" safety settings.

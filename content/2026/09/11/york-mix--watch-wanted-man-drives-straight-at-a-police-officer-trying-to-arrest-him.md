@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Crambeck
+- Malton
+- Scarborough
+- Selkirk
+people:
+- Alfie Thomlinson
+- Harrison Douglas Long
+- Video** Long
+organisations:
+- Scarborough CID
+- York Crown Court
 ---
 
 A wanted man who drove at a police officer in Scarborough has been jailed for 14 months.

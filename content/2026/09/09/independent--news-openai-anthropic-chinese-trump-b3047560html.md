@@ -13,6 +13,14 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations: []
+people:
+- Jacob Coxon
+organisations:
+- AI
+- Anthropic
+- OpenAI
+- Trump
 ---
 
 An Anthropic researcher said he is resigning from the company over concerns the artificial intelligence firm and its competitors are not acting responsibly in AI development, echoing concerns raised inside and outside of the industry about the technology's potential to elude human control.

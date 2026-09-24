@@ -12,6 +12,30 @@ categories:
 - York
 - Sports
 - Film & TV
+locations:
+- Coronation Street
+- UK
+people:
+- Alan Carr
+- Andrew Garfield
+- Baga Chipz
+- Bimini Bon-Boulash
+- Danny Beard
+- Geri Horner
+- Graham Norton
+- Hannah Waddingham
+- La Voix
+- Liz Hurley
+- Michelle Visage
+- RuPaul
+- Tia Kofi
+organisations:
+- BBC Three
+- BBC iPlayer
+- BBC’s
+- RuPaul
+- The Vivienne
+- World of Wonder
 ---
 
 *(Image: Getty Images)*

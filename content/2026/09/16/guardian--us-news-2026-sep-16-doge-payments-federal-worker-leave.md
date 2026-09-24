@@ -14,6 +14,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- US
+people:
+- Douglas Pasternak
+- Elon Musk
+- Patty Murray
+- Trump
+organisations:
+- Cybersecurity and Infrastructure Security Agency
+- Doge
+- GAO
+- Government Accountability Office
+- Guardian
+- Public Citizen
+- Senate
+- Trump Accountability Project
+- Veterans Affairs
 ---
 
 The US government paid federal workers $9.5bn not to work in 2025 as part of the Trump administration’s attempts to shrink the federal workforce.

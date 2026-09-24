@@ -15,6 +15,45 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Bemowo
+- Berlin
+- Europe
+- Germany
+- Hotel Polonia Palace
+- Japan
+- Katowice
+- Kenya
+- Los Angeles
+- Minneapolis
+- N.J.
+- Newark
+- Poland
+- Prudential Center
+- Silesian Stadium
+- United States
+- Warsaw
+people:
+- Ashton Kutcher
+- B. herself
+- Beyoncé
+- Jimek
+- Maï Lucas.
+- Miłosz "MIUOSH" Borycki
+- Mobb Deep
+- Nicki Minaj
+- Radzimir Dębski
+- Snoop Dogg
+organisations:
+- Deutsche Grammophon
+- Euronews
+- LP
+- National Symphony Orchestra
+- National Symphony Orchestra of Polish Radio
+- Nicki Minaj
+- Polish Radio
+- Power of Language
+- Saatchi Gallery
 ---
 
 ## Two loves define Radzimir Dębski, aka Jimek - classical music and hip-hop. The Polish composer, conductor and producer has won praise from Beyoncé, Snoop Dogg and Nicki Minaj alike. Now he's talked to Euronews about his new album, featuring twelve Polish rappers and... a symphony orchestra.

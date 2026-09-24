@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- America
+- Arizona
+- Colorado
+- Four Corners
+- Mid-Atlantic
+- New Jersey
+- New Mexico
+- Pacific Ocean
+- Phoenix
+- South
+- Southwest
+- U.S. El Niño
+- U.S. West
+- Utah
+people:
+- Andrew Dessler
+- Zeke Hausfather
+organisations:
+- Earth
+- Mass General Brigham
+- National Centers for Environmental Information
+- Texas A&M University
+- The Post
+- The Washington Post
+- WCVB
+- Yale University
 ---
 
 This summer was officially the hottest in the 132-year federal record in the contiguous U.S., officials have revealed, following a record-warm July and August.

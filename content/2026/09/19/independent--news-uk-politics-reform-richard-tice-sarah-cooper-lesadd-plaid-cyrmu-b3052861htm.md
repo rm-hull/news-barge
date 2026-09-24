@@ -13,6 +13,26 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/14/15/72776ab980ca3b11ae43482b4acd6caeY29udGVudHNlYXJjaGFwaSwxNzg5NDgwNzIw-2.85737366.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Downing Street
+- Senedd
+- Wales
+people:
+- Dan Thomas
+- Helen Jenner
+- Ms Cooper-Lesadd
+- Nigel Farage
+- Plaid Cymru
+- Richard Tice
+- Sarah Cooper-Lesadd
+- Stefan Rousseau
+organisations:
+- '![Reform UK'
+- BBC Radio Wales
+- Plaid Cymru
+- Reform MS
+- Reform UK
+- Senedd
 ---
 
 A former Reform politician who defected to Plaid Cymru had “lied” to the party about her real views, Richard Tice has claimed.

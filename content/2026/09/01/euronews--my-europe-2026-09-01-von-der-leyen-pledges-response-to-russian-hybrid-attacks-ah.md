@@ -10,6 +10,39 @@ image: null
 categories:
 - Europe
 - News & Politics
+locations:
+- Berlin
+- Bonn
+- Estonia
+- Europe
+- Germany
+- Halle Airport
+- Ireland
+- Latvia
+- Leipzig
+- Romania
+- Russia
+- Russian House
+- Ukraine
+- Wicklow
+people:
+- Alexander Dobrindt
+- Hanno Pevkur
+- Helen McEntee
+- Johann Wadephul
+- Kaja Kallas
+- Mark Rutte
+- Merz
+- Paula Pinho
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- Alliance
+- EU
+- Euronews
+- European Commission
+- Foreign Ministry
+- NATO
 ---
 
 ## As Germany formally blames Russia for a hybrid warfare incident involving an explosive-laden drone at one of its airports, European Commission President Ursula von der Leyen will meet NATO Secretary-General Mark Rutte to discuss a coordinated response.

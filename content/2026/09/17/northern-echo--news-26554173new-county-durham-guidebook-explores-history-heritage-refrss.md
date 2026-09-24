@@ -15,6 +15,27 @@ categories:
 - Arts & Culture
 - History
 - Travel
+locations:
+- Castle
+- County Durham
+- Durham Cathedral
+- Durham Dales
+- North East
+- Northumberland
+- Norwich
+- Teesdale
+- Wakefield
+- Weardale
+people:
+- Dean
+- Margaret Barbour
+- Richard Rutherford Hilton
+- Stephen Platten
+organisations:
+- Northumberland
+- Sacristy Press
+- Shell County Guides
+- Society of Antiquaries
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- HMP Millsike
+- York
+- York.
+people:
+- Millsike
+organisations:
+- Government
+- HMP Millsike
+- IMB
+- Independent Monitoring Board
 ---
 
 # Report into HMP Millsike provides food for thought on prisons crisis

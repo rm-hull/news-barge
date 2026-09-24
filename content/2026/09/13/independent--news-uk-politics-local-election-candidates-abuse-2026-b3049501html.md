@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+people:
+- Alex Burghart
+- Vijay Rangarajan
+organisations:
+- Electoral Commission
+- Green Party
+- Labour and Reform UK
+- Liberal Democrats
 ---
 
 More than half of all candidates standing in this year’s local elections suffered abuse and harassment, triggering growing alarm over the safety of democratic representatives.

@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Huntington
+- Monks Cross
+- Monks Cross Garden Village
+- Monks Cross Link
+- Monks Cross Village Gardens
+- Outer Ring Road
+- YOUR
+- York
+people:
+- Gillian Chapman
+- Gridlock
+- Katie Atkinson
+organisations:
+- Bellway
+- City of York Council
+- Monks Cross
+- Network Monitoring
+- Planning Inspectorate
+- Public Notice Portal
+- Redrow Homes
+- Redrow Homes’
+- The Press
 ---
 
 ### What is the Public Notice Portal?

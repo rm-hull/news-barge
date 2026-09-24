@@ -11,6 +11,20 @@ description: Five new features are rolling out across various Android services, 
 image: https://cdn.mos.cms.futurecdn.net/ycAgU6Md4TjW6QecczYgZn-1937-80.jpg
 categories:
 - Technology & Software
+locations:
+- Find Hub
+people:
+- James
+organisations:
+- AI
+- Apple
+- Clarity Media
+- Find Hub
+- Gemini Live
+- Google Keep
+- Google Messages
+- Google News
+- TechRadar
 ---
 
 ![Motion Assist](https://cdn.mos.cms.futurecdn.net/ycAgU6Md4TjW6QecczYgZn.jpg) 

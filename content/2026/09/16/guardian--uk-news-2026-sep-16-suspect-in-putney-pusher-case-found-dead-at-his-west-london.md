@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Afghanistan
+- Buckingham Palace
+- Canary Wharf
+- Chiswick
+- City
+- Greece
+- Hounslow
+- Hyde Park Corner
+- London
+- Mayfair
+- Metropolitan
+- Putney Bridge
+people:
+- Katherine
+- Met
+- Nicholas Brandram
+- Victoria
+organisations:
+- Citywealth
+- Daily Telegraph
+- HSBC Private Bank
 ---
 
 A senior city banker suspected of pushing a woman into the path of a moving bus in the “Putney pusher” case has been found dead.

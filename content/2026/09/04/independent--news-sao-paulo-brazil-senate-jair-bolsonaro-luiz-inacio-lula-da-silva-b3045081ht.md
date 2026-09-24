@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- Brazil
+- Republic
+people:
+- Alexandre de Moraes
+- Andre Mendonca
+- Andrei Rodrigues
+- Daniel Vorcaro
+- De Moraes
+- Flávio Bolsonaro
+- God
+- Jair Bolsonaro
+- Luiz Edson Fachin
+- Luiz Inácio Lula da Silva
+- Paulo Gonet
+- de Moraes
+organisations:
+- Banco Master
+- Brazilian Supreme Court
+- Senate
+- Supreme Court
 ---
 
 Brazil's Supreme Court plunged further into an institutional crisis on Friday, with two of its best known justices now requesting major sanctions against each other.

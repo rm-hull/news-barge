@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations: []
+people:
+- Tom Gordon
+organisations:
+- Harrogate
+- Knaresborough
+- Liberal Democrat
+- Rethink Repayment
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa298b7aa2bfe9478c.jpg) 

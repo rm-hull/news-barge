@@ -14,6 +14,13 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Harworth
+organisations:
+- Doncaster Sheffield Airport
+- Harworth
+- Peel Group
 ---
 
 More jobs are at risk at property developer Harworth after it disclosed plans to slash costs amid efforts to save about £7.4 million a year.

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Birmingham
+- Cambridge
+- King’s College Hospital
+- Leeds
+- London
+- UK
+people:
+- Annie
+- Garry Jackson
+- Gary
+- Gary’s
+- Harry Jackson
+- King’s
+- Miriam Cortes-Cerisuelo
+- Ms Cortes-Cerisuelo
+- Nigel Heaton
+organisations:
+- Institute of Liver Studies
+- Ms Cerveno
+- NHS
 ---
 
 A father who donated part of his liver and bowel to his six-year-old son in an “extremely rare” transplant has described it as the “greatest privilege” of his life.

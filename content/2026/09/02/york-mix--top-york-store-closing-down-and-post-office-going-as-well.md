@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Colliergate
+- Coney Street
+- Micklegate
+- York
+people: []
+organisations:
+- Lendal
+- Modella
+- Post Office
+- Post Office Ltd
+- Post Office Main
+- TG Jones
+- WH Smith
 ---
 
 A top York store is to shut – and York’s main Post Office will go with it too.

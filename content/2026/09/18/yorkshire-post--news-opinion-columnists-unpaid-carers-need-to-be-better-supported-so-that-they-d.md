@@ -15,6 +15,19 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- England
+- Scotland
+- UK
+people:
+- Andrew Matthews
+- Ismail Mulla
+organisations:
+- Carers UK
+- Department for Business and Trade
+- Government
+- NHS
+- Wales
 ---
 
 # Unpaid carers need to be better supported so that they don’t end up leaving their jobs - Ismail Mulla

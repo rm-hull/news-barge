@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Dowlatabad prison
+- Iran
+- Isfahan
+- Israel
+- Istafan
+- UK
+- US
+- Utah
+people:
+- Marzieh Nourmohammadi
+- Masoud Nourmohammadi
+- Romina Rahimi
+- Taraneh Rahimi
+organisations:
+- IT
+- Islamic Revolutionary Guards Corps
 ---
 
 The twins were 19 and still in high school when they were taken from their beds in the dead of night by masked men later identified as being sent by the Islamic Revolutionary Guards Corps.

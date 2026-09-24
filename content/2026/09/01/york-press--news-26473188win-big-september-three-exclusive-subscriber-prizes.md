@@ -13,6 +13,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Sports
+locations:
+- Darjeeling
+- York
+people: []
+organisations:
+- Fortnum & Mason
+- Newsquest
+- The Fortnum
+- The Press
 ---
 
 *(Image: Newsquest)*

@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Monks Cross
+- Monks Cross Drive
+- Monks Cross Shopping Park
+- York
+people: []
+organisations:
+- City of York Council
+- KFC
+- Lidl
+- Lionacre
+- Marsdens Catering of Sheffield Ltd
 ---
 
 A new drive-thru which is set to open in York has taken a step forward.

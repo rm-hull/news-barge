@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - True Crime
 - Family & Parenting
+locations:
+- Massachusetts
+people:
+- '![Clancy'
+- '** Clancy'
+- '**,** Clancy'
+- Callan
+- Cora
+- Dawson
+- Elyse Hershon
+- Heather Cucolo
+- Lindsay Clancy
+- William Sullivan
+organisations:
+- BBC
+- Clancy
+- New York Law School
 ---
 
 Watch: Judge orders deadlocked Clancy jurors to keep deliberating

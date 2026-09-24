@@ -13,6 +13,46 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Carlisle
+- Clark’s Yard
+- County Durham
+- DL1 3BA
+- DL12 8LY
+- DL14 7EL
+- DL14 7EW
+- DL17 8LA
+- DL3 7QH
+- DL3 7QW Shell
+- Dalston Road
+- Darlington
+- Ferryhill
+- Gregory’s
+- High Row
+- Horsemarket
+- Main Street
+- Newgate Street
+- North York Moors
+- Post House Wynd
+- Thompson Street East
+- Victoria Road
+people:
+- Gavin Foster
+organisations:
+- 5NP
+- Bakerman
+- Hedgehog Bakery
+- LOCALLY House
+- Northern Echo
+- Number Eight Bakehouse
+- Shell’s Village Bakery
+- THE NORTHERN ECHO
+- The Leas Bakery
+- The Northern Echo
+- Thomas the Baker
+- Village Bakery
 ---
 
 The search is on to find Darlington and County Durham's favourite bakery, as The Northern Echo reveals the top ten shortlist for its Best Bakery 2026 competition.

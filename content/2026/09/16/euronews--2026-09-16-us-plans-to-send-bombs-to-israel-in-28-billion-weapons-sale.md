@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Gaza
+- Iran
+- Israel
+- US
+- United States
+- White House
+people:
+- Benjamin Netanyahu
+- Biden
+- Donald Trump
+organisations:
+- Congress
+- Hamas
+- The Washington Post
+- Trump
 ---
 
 ## The same class of bombs raised concerns under the Biden administration because of the risk of large civilian casualties in densely populated Gaza

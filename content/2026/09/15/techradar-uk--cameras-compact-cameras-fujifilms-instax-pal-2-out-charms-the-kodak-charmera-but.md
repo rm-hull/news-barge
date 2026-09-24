@@ -12,6 +12,20 @@ description: Fujifilm has unveiled the Instax Pal 2, only the retro compact came
 image: https://cdn.mos.cms.futurecdn.net/6ktBgFmJmWH2CTvTEe8KU3-2500-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Cameras
+- Canon
+- Google News
+- Instax Link
+- Kodak Charmera
+- TechRadar
 ---
 
 ![Fujifilm Instax Pal 2 compact camera in person's hands at night with neon lights in the background](https://cdn.mos.cms.futurecdn.net/6ktBgFmJmWH2CTvTEe8KU3.jpg) 

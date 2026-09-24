@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Beverley Friary
+- East Yorkshire
+- Minster
+people:
+- Beverley Friary
+- Michael Lee
+organisations:
+- )* Council
+- East Riding of Yorkshire Council
+- Youth Hostel Association
 ---
 
 *(Image: Supplied)*

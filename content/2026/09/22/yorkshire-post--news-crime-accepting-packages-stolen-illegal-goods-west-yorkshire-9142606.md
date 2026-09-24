@@ -15,6 +15,15 @@ categories:
 - True Crime
 - News & Politics
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/22/11/14/AdobeStock_1826905233.jpeg?trim=408,611,0,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- West Yorkshire
+people:
+- Michelle Swift
+organisations:
+- Facebook
+- Instagram
+- SnapChat
+- TikTok
 ---
 
 # Why earning 'easy money' for accepting parcels may alert you to police

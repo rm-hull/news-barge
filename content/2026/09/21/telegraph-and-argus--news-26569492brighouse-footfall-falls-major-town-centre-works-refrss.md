@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386786.jpg?type=og-image
+locations:
+- Brighouse
+- UK
+- West Yorkshire
+people:
+- Ewan Noble
+- Lesley Adams
+organisations:
+- Brighouse BID
+- Calderdale Council
+- Data Works
+- MRI OnLocation
+- Reform UK
+- Town Deal
 ---
 
 Footfall to Brighouse businesses has fallen through spring and summer months – amid major town centre works – compared to the previous year, but is holding its own.

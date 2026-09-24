@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Gateshead
+- North East
+people:
+- Iain Nairn
+organisations:
+- Bail & Stone Ltd
+- Cerberus Receivables Management
+- Clark Mairs LLP
+- Gold Boutique
+- QP Jewellers
+- Roxoa Group Ltd
+- Roxoa Holdings Limited
+- Ruby & Oscar
+- The Advisory Group Ltd
 ---
 
 *(Image: Stock Photo)*

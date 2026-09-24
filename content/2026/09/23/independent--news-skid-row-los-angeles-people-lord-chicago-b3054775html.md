@@ -13,6 +13,27 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/23/09/Skid_Row_Talent_Show_37_33.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Chicago
+- Goodwill
+- LA
+- Lifeway Church
+- Los Angeles
+- Los Angeles’ Skid Row
+- Oregon
+- Skid Row
+- U.S.
+people:
+- Cyndi Lauper
+- Deoujahne Darc
+- Gary Carr
+- Ladelle Handy
+- Lord
+- Rev
+- Skid Row
+organisations:
+- Union Rescue Mission
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

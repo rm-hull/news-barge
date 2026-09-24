@@ -14,6 +14,39 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Britain
+- East Jerusalem
+- Israel
+- Middle East
+- Occupied Palestinian Territories
+- Palestine
+- UK
+- US
+- West Bank
+people:
+- Andy Burnham
+- Dave Meeney
+- Donald Trump
+- Ed Miliband
+- Ephraim Mirvis
+- Gideon Saar
+- Jeremy Corbyn
+- Kemi Badenoch
+- Marco Rubio
+- Mike Huckabee
+- Netanyahu
+- Nigel Farage
+- Rosh Hashana
+- Yachad
+- Zack Polanski
+organisations:
+- Greater Manchester Police
+- Green Party
+- Labour Government
+- Reform UK
+- Sky News
+- Sun
 ---
 
 Andy Burnham has defended his Government’s ban on trade with illegal Israeli settlements in the West Bank, telling MPs that Britain “must stand for something”.

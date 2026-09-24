@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ballard
+people:
+- '** Konsa'
+- Arsenalwill
+- Ashley Williams
+- Dan Ballard
+- Ezri Konsa
+- John Brooks
+- Mikel Arteta
+- Thomas Frank
+organisations:
+- Arsenal
+- Black Cats
+- Gunners
+- Premier League Match Centre
+- Sunderland
+- VAR
 ---
 
 Referee completely wrong to award penalty - Ashley Williams

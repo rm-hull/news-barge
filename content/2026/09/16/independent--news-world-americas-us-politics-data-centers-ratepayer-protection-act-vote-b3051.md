@@ -13,6 +13,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Abilene
+- California
+- Colorado
+- Florida
+- Imperial
+- Sterling
+- Texas
+- U.S.
+- Virginia
+people:
+- Allison Clements
+- Gabe Evans
+- Hakeem Jeffries
+- Kathy Castor
+organisations:
+- Congress
+- Federal Energy Regulatory Commission
+- Food & Water Watch
+- U.S. House of Representatives
 ---
 
 The U.S. House of Representatives could vote as early as Wednesday on cross-party legislation designed to curb rising utility bills linked to the rapid expansion of artificial intelligence data centers.

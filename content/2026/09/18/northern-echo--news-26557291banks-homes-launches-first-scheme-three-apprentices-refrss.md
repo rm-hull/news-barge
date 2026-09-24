@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- North East
+- North Yorkshire
+- Tees Valley
+people:
+- Amy Ward
+- James Rylance
+- Kaci Lonsdale
+- Ms Lonsdale
+- Ms Ward
+- Russ Hall
+organisations:
+- Azets
+- Banks Group
+- Banks Homes
+- Banks Property and Banks Homes
+- County Durham
+- Meadowfield-based Banks Homes
+- New College Durham
+- Northumbria University
+- Sunderland College
 ---
 
 *(Image: Supplied)*

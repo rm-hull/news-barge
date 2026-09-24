@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bermuda
+- Boston
+- Canada
+- England
+- Hull
+- Los Angeles
+- Manhattan
+- New York
+- New York City
+- Queen Elizabeth II
+- United States
+- Yorkshire
+people:
+- Anna
+- Auntie Chris
+- Christine Egan
+- Dean
+- Elizabeth
+- Hey Jon
+- Jonathan Egan
+- Matthew
+- Michael
+- Mr Egan
+- Murphy
+- Stella
+- Yorkshireman
+organisations:
+- Aon
+- Boddington's
+- Hull City
+- Twin Towers
+- World Trade Center
 ---
 
 The week the Twin Towers fell, Jonathan Egan had moved from his New York home to Los Angeles and had started his first week of college. He was only a few days in when he heard a knock on the door from his roommate and the resident director.

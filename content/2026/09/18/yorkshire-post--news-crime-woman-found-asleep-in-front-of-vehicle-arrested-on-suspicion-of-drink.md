@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bridlington
+- Wayside Crescent
+- Yorkshire
+people: []
+organisations: []
 ---
 
 # Woman found asleep in front of vehicle arrested on suspicion of drink driving

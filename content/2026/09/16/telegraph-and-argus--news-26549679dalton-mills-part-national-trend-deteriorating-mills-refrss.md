@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Barkerend Mills
+- Bradford
+- Dalton Mills
+- Drummond Mill
+- Forster Square
+- Keighley
+- Lumb Lane
+- Manningham
+- Victoria Mills
+people:
+- Thomas Ollivier
+organisations:
+- Anna Dyson-Clarke
+- Best Residential Development Yorkshire
+- Bradford
+- Conditioning House
+- Dalton Mills
+- Lister Mills
+- Salts Mill
+- The Victorian Society
 ---
 
 FIRE-ravaged Dalton Mills joins a list of nationally significant mills that are being allowed to deteriorate, according to The Victorian Society.

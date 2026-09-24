@@ -14,6 +14,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/22/Warner_Bros_What_to_Know__6347.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- David Ellison
+- Mike Proulx
+organisations:
+- CBS
+- CNN
+- Forrester
+- Miramax Studios
+- U.S. Paramount
+- Warner Bros
 ---
 
 Movie studio Paramount on Monday agreed to settle an antitrust lawsuit filed by 12 states, the last big obstacle blocking the company's $81 billion acquisition of Warner Bros. Discovery in a deal that would transform the movie industry landscape.

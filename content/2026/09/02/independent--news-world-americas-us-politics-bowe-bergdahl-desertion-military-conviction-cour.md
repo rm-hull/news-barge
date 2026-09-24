@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Afghanistan
+- Hailey
+- Idaho
+- Paktika Province
+- U.S.
+- Washington
+people:
+- Barack Obama
+- Bowe Bergdahl
+- Donald Trump
+- Eugene Fidell
+- Gregory Katsas
+- Jeffrey Nance
+- John McCain
+- Reggie Walton
+- Robert Wilkins
+- Robert ‘Bowe’ Bergdahl
+- Sri Srinivasan
+organisations:
+- District of Columbia Circuit
+- Haqqani
+- Justice Department
+- U.S. Army
+- U.S. Court of Appeals
 ---
 
 An appellate court has ruled that a federal judge lacked the authority to overturn former U.S. Army soldier Bowe Bergdahl's military conviction for deserting his post in Afghanistan prior to being abducted and held captive by Taliban-allied forces for nearly five years.

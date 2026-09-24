@@ -14,6 +14,29 @@ categories:
 - History
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg
+locations:
+- Berlin
+- Germany
+- Mecklenburg Western Pomerania
+- Mecklenburg-Vorpommern
+- Saxony-Anhalt
+- The Left
+people:
+- Burkard Dregger
+- Die Linke
+- Friedrich Merz
+organisations:
+- ARD
+- AfD
+- Alternative for Germany
+- BBC
+- CDU
+- Christian Democratic Union
+- Merz
+- SPD
+- Senate
+- Vorpommern
+- ZDF
 ---
 
 ![German Chancellor Friedrich Merz gives a statement after first exit polls of the Berlin and Mecklenburg Western Pomerania state elections, at the CDU headquarters in Berlin](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg)

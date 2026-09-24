@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Dover
+- Middle East
+- Portsmouth
+- UK
+people:
+- Anna Turley
+- Rob Jones
+organisations:
+- Hampshire Police Federation
+- NCA
+- National Crime Agency
 ---
 
 Heightened law enforcement operations and falling demand among migrants were major drivers behind the decline in small boat arrivals to the UK during the first half of this year, according to a new report.

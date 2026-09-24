@@ -13,6 +13,39 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Darren Greenwood
+- Marton Cum Grafton
+- North Street
+- Shipton-By-Beningbrough
+- Stillington
+- White Bear Inn
+- York
+- Yorkshire
+people:
+- Alun
+- Claire
+- Dad
+- Darren Greenwood
+- Mum
+organisations:
+- Beningbrough
+- Boroughbridge__**
+- Dawnay Arms
+- Fox and Hounds
+- Google
+- Ham Hock
+- Langthorpe
+- Main St
+- Punch Bowl Inn
+- Punch Pubs
+- Shipton
+- Shipton-by-Beninborough
+- Tempura Prawns
+- The Press
+- Tripadvisor
+- Whippet Inn
+- York CAMRA
 ---
 
 We are very fortunate to have so many wonderful venues to drink and dine in, where operators do their best, producing top notch food and service at a good price.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e68a/live/b1d1e440-b752-11f1-97a1-31b436cb8908.jpg
+locations:
+- London
+- Spain
+- Wandsworth
+people:
+- Barre
+- Ben Allen
+- Gaspar Lipszyc
+- Pippa Middleton
+organisations:
+- BBC
+- Barrecore
+- Common Bond
+- House
+- Kobox
+- Reformcore
+- Triyoga
 ---
 
 ![Three women are seen in exercise gear stretching after a barre class on mats](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e68a/live/b1d1e440-b752-11f1-97a1-31b436cb8908.jpg)

@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- England
+- UK
+people:
+- Andy Burnham
+- Carl Cashman
+- Mairi MacRae
+- Matt Downie
+organisations:
+- Citizens Advice
+- Crisis
+- Inclusive Growth Committee
+- LGA
+- MHCLG
+- Ministry for Housing, Communities and Local Government
+- Shelter
 ---
 
 Councils in England spent a record £2.9bn on temporary accommodation in the year to April, new official figures show.

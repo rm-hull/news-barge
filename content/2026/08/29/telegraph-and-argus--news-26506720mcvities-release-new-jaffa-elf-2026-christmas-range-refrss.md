@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Technology & Software
 - Film & TV
+locations:
+- Iceland
+- Jaffa
+- Middle East
+- UK
+people:
+- McVitie
+organisations:
+- '## McVitie'
+- Asda
+- Co-Op
+- Home Bargains
+- Jaffa Cakes
+- Jaffa Cakey
+- Jaffa Elf
+- Jaffa Pole
+- Jaffa Tree
+- Kennedy News
+- Lindt
+- Morrisons
+- Nisa
+- Ocado
+- PA)* McVitie's
+- Poundland
+- Sainsbury’s
+- Spar
+- TJ Morris
+- Tesco
+- Waitrose
+- Walkers
 ---
 
 *(Image: PA)*

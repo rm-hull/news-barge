@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Eboracum Way
+- Heworth Green
+- York
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

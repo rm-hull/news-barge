@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- County Durham
+- Ex County Durham
+- Old Durham Road
+- Sedgefield
+- YOUR
+people: []
+organisations:
+- Durham Constabulary
+- Durham County Council
+- Public Notice Portal
 ---
 
 *(Image: GOOGLE)*

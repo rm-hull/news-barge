@@ -18,6 +18,63 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bushwick
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- NYC
+- New York City
+- Russia
+- Saudi Arabia
+- Staten Island
+- Troutman Street
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Michael Carrick
+- Mikel Arteta
+- Nourah
+- Putin
+- Ra-mel
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+- Zohran Mamdani
+organisations:
+- Burnham
+- Chelsea
+- De Zerbi
+- Department of Transportation
+- ELITE
+- Labour
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

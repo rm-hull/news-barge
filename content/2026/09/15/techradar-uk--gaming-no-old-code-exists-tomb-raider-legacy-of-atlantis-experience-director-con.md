@@ -12,6 +12,24 @@ description: 'Crystal Dynamics has explained why it chose to build Tomb Raider: 
 image: https://cdn.mos.cms.futurecdn.net/VPnn8k6TuzxWvPnVCKj9Rk-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Atlantis
+people:
+- '**Adams'
+- Jeff Adams
+- Lara Croft
+organisations:
+- Crystal Dynamics
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- Lumen
+- NME
+- Nanite
+- TechRadar Gaming
+- UE5
 ---
 
 ![Tomb Raider: Legacy of Atlantis](https://cdn.mos.cms.futurecdn.net/VPnn8k6TuzxWvPnVCKj9Rk.jpg) 

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Europe
+- France
+- London
+- UK
+people:
+- Andy Burnham
+- Emmanuel Macron
+- Shabana Mahmood
+organisations:
+- Home Office
 ---
 
 A new team of 45 officers will be deployed on French beaches in the coming weeks, specifically tasked with stopping “mega dinghy” launches along the coast.

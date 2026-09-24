@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Edgbaston
+- India
+- New Zealand
+- Pakistan
+- Ranchi
+- Robinson
+- South Africa
+- Sri Lanka
+- Stokes' England
+- Trent Bridge
+people:
+- '&**'
+- '**(Shakeel'
+- Abdullah Shafique
+- Azan Awais
+- Ben Duckett
+- Ben Stokes
+- Brendon McCullum
+- Dan Lawrence
+- Gay
+- Gus Atkinson
+- Harry Brook
+- Jamie Smith
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Mohammad Imran
+- Ollie Robinson
+- Razaullah
+- Root
+- Saim Ayub
+- Shan Masood
+organisations:
+- England Smith
+- Root
 ---
 
 England in complete control against Pakistan in dominant day two

@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Los Angeles
+people:
+- Allison Janney
+- Cloris Leachman
+- Hacks
+- Jean Smart
+- Julia Louis-Dreyfus
+- Kate O’Flynn
+- Mariska Hargitay
+- Matthew Rhys
+- Noah Wyle
+- Rhea Seehorn
+- Stephen Root
+- Tom Pelphrey
+- Widow’s Bay
+organisations:
+- Peacock Theater
 ---
 
 Jean Smart of “Hacks” keeps stacking the wins. She won her fifth straight Emmy for lead actress in a comedy series at Monday night's Emmy Awards.

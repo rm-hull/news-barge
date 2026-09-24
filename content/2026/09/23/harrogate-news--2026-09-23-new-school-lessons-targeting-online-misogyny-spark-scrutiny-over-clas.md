@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - Education & Learning
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/school-splash.webp
+locations: []
+people:
+- Harriet Over
+organisations:
+- '** PSHE Association**'
+- Department for Education’s
+- DfE
+- European Research Council
+- University of York
+- University of York Department of Psychology
+- University of York**
 ---
 
 **23 September 2026**— A new nationwide teaching resource launched by the** PSHE Association**and the** University of York** has entered secondary schools this term, triggering an immediate debate on whether the updated curriculum sufficiently addresses anti-male sentiment (misandry) and the potential alienation of young men.

@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Britain
+- Buckingham Palace
+- California
+- Cotswolds
+- Frogmore Cottage
+- Montecito
+- Sandringham
+- UK
+- Windsor
+people:
+- Chamberlain
+- Charles
+- Duchess
+- Harry
+- King
+- Meghan
+- Oprah Winfrey
+organisations:
+- Duke and Duchess of Sussex
+- Home Office
+- Ravec
+- Sussexes
 ---
 
 Prince Harry and Meghan are not working royals, King Charles has confirmed following confusion over their roles since returning to the UK.

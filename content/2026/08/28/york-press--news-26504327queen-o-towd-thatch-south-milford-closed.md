@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- High Street
+- Knaresborough
+- Leeds
+- Marton
+- Mother Shipton Inn
+- North Yorkshire
+- Queen O’ T’Owd Thatch
+- Selby
+- South Milford
+people:
+- Mike Laycock
+organisations:
+- Appletree Country Inn
+- Facebook
+- Google
+- O’ T'owd Thatch
+- Press
+- The Queen O'T'Owd Thatch
+- Tripadvisor
 ---
 
 *(Image: Mike Laycock)*

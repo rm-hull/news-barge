@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Canada
+- Caribbean
+- Central America
+- Greenland
+- Iceland
+- New America
+- New Mexico
+- Nuuk
+- US
+- United States
+- United States of America
+people:
+- Billy Long
+- Claudia Sheinbaum
+- Donald Trump
+- Mette Frederiksen
+- Ursula von der Leyen
+- Þorgerður Katrín Gunnarsdóttir
+organisations:
+- European Commission
+- Ritzau
+- Trump
 ---
 
 ![US President Donald Trump wears a blue suit jacket, white shirt and red cap, embazoned with the phrase MAKE AMERICA GREAT AGAIN in white writing. The sky is a deep blue behind him.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3fd8/live/bab14470-ab7c-11f1-b109-879e35c24276.jpg)

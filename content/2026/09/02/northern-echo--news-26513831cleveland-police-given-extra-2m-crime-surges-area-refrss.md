@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Cleveland
+- England
+- Middlesbrough
+- OWEN HUMPRHIES
+- PA
+- Teesside
+- Thornaby East
+- Wales
+people:
+- Andy Burnham
+- Andy McDonald
+- Chris Philp
+- Matt Storey
+- Matthew Blades
+- Passat
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- SARAH CALDECOTT
+- Shabana Mahmood
+- Tom Clough
+organisations:
+- A66
+- CARMEL COLLEGE
+- Cleveland Police
+- Government
+- House of Commons
+- Labour
+- Police Federation
 ---
 
 Cleveland Police will receive an extra £2 million to tackle serious and organised crime following major incidents in Middlesbrough.

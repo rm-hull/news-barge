@@ -13,6 +13,33 @@ image: https://static.independent.co.uk/2026/09/04/16/2292035279..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Europe
+- Federal Republic
+- Germany
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Friedrich Merz
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- BSW
+- Brookings Institution
+- Bundesrat
+- CDU
+- Christian Democrats
+- EU
+- FDP
+- Free Democrats
+- Greens
+- Left Party
+- SPD
+- Social Democrats
+- The Independent
 ---
 
 The far-right will be vying to seize its first taste of power in Germany since the Second World war on Sunday as voters head to the polls in the eastern state of Saxony-Anhalt.

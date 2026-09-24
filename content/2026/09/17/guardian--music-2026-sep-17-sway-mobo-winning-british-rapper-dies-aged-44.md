@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Ghana
+- Hornsey
+- Kano
+- London
+- UK
+- US
+people:
+- AJ
+- Akala
+- Akon
+- Chamillionaire
+- Derek Safo
+- Donae’o
+- Ed Sheeran
+- Helen
+- Imara
+- Inaya
+- Jalil
+- Lupe Fiasco
+- Mitchell Brothers
+- Riz Ahmed
+- Sway Dasafo
+- Tinchy Stryder
+organisations:
+- Dcypha Productions
+- Flux Pavilion
+- Guardian
+- HMP
+- HMV
+- KSI
+- Kaiser Chiefs’
+- Konvict Music
+- One
+- Phynix Crew
+- Riz MC track Shifty
+- Tiggs Da Author
 ---
 
 The British rapper Sway, who proved inspirational to a generation of Black British musicians thanks to his independence and frank, dextrous storytelling, has died aged 44.

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Abbey Road
+- Hamilton Gardens
+- London
+- St John's Wood
+- Westminster
+people:
+- Catherine Hoskyns
+- Katharine Hoskyns
+- Nicky Hoskyns
+organisations:
+- Katharine
+- The Pots
+- WCC
+- Westminster City Council
 ---
 
 A council has told an 89-year-old grandma she may have to bin the street garden she has lovingly tended for decades after her neighbours complained about "anti-social behaviour".

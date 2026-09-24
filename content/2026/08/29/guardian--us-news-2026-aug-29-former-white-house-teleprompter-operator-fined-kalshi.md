@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/b39b79415bdf547d72acf0ac99fd1bbb210ae2b6/5
 categories:
 - UK
 - News & Politics
+locations:
+- US
+- Venezuela
+- Virginia
+- White House
+people:
+- Donald Trump
+- Gabriel Perez
+- Gannon Ken Van Dyke
+- Kalshi
+- Karoline Leavitt
+- Nicolás Maduro
+- Van Dyke
+organisations:
+- CFTC
+- Commodity Futures Trading Commission
+- Kalshi
+- Polymarket
+- Senate
+- State of the Union
 ---
 
 A White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald Trump’s speeches on an online prediction market has been fined $172,000, according to federal regulators.

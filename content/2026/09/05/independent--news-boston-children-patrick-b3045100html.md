@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Boston
+- Plymouth County
+- U.S.
+people:
+- Dave Collins
+- David Meier
+- Ed White
+- Heather Ellis Cucolo
+- Kevin Reddington
+- Leah Willingham
+- Lindsay Clancy
+- Michael Casey
+- Patrick Clancy
+- Randy Gioia
+- Timothy Cruz
+- William Sullivan
+organisations:
+- Associated Press
+- New York Law School
 ---
 
 The trial to decide if Lindsay Clancy was criminally responsible when she strangled her three children in 2023 ended in a mistrial Friday after jurors were unable to reach a consensus after weeks of conflicting testimony about her post-pregnancy mental health and seven days of deliberations.

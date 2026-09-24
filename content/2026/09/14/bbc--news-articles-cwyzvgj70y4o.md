@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- UK
+people:
+- Alex Sobel
+- Dario Amodei
+- Elon Musk
+- Jacob Coxon
+- Laura Kuenssberg
+- Sam Altman
+organisations:
+- AI Bill
+- BBC News
+- Conservative and Liberal Democrat
+- Houses of Parliament
+- JCHR
+- Joint Committee on Human Rights
+- Labour
+- OpenAI
+- US AI company Anthropic
 ---
 
 ![Facial Recognition Technology Concept As Woman Has Red Grid Projected Onto Eye In Studio](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg)

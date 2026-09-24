@@ -12,6 +12,17 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21475030.jpg?type=og-image
+locations:
+- Blake Street
+- Stonegate Court
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Public Notice Portal
+- Stonegate Court
+- Watson Property Management Ltd
 ---
 
 ## 'Vandalism, break-ins and graffiti' prompt York security plans

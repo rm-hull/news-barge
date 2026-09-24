@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Paris
+people:
+- David Belhassen
+- Lady Beckham
+- Sybille Darricarrère Lunel
+- Victoria Beckham
+organisations:
+- Financial Times
+- NEO Investment Partners
+- Netflix
+- Spice Girl
+- Victoria Beckham
+- Victoria Beckham Holdings
+- Victoria Beckham Holdings Ltd
 ---
 
 ![Victoria Beckham head and shoulders, looking to one side with a hand on the collar of a cream jacket, in front of a display of cream roses](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg)

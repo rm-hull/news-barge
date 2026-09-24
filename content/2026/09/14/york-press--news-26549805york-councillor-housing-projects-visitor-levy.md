@@ -14,6 +14,26 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Haxby Station
+- North Yorkshire
+- Station Gateway
+- York Outer Ring Road
+- York Station
+people:
+- Cllr Lomas
+- David Skaith
+- Katie Lomas
+organisations:
+- CITY of York Council
+- City of York Council
+- LDRS
+- Local Democracy Reporting Service
+- Network Rail
+- North Yorkshire Combined Authority
+- Press
+- Station Gateway
+- York Council
 ---
 
 ## Affordable housing, major projects and visitor levy questions about York answered

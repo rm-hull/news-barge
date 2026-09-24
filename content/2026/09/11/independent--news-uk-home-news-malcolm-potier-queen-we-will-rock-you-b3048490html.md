@@ -14,6 +14,30 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Australia
+- Gigha
+- Italy
+- Long Bay
+- New South Wales
+- UK
+- West End
+people:
+- Ben Elton
+- Dafna Spiro
+- Kirsty O’Donnell
+- Laird
+- Lee Mead
+- Lizzie Loveridge
+- Malcolm Potier
+- Ms Loveridge
+- Ms O’Donnell
+- Ms O’Donnell’s
+- Sam Lubner
+organisations:
+- Facebook
+- London Coliseum
+- Southwark Crown Court
 ---
 
 A former Scottish Laird who once ordered a hitman to kill his ex-partner has been jailed for throttling a woman because she was singing during Queen musical *We Will Rock You.*

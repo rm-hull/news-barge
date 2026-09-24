@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Travel
 - Outdoors & Nature
+locations:
+- Coast to Coast
+- Hadrian’s Wall
+- Housesteads
+- New Forest
+- North Yorkshire
+- Northumberland
+- Peak District
+- Sycamore Gap
+- UK
+people:
+- Hadrian
+- Wall
+organisations:
+- AllTrails
+- Housesteads Roman Fort
+- Love Exploring
 ---
 
 *(Image: Getty)*

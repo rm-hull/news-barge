@@ -12,6 +12,40 @@ image: https://cdn.mos.cms.futurecdn.net/v8ogtCEaBduBfiwEkjoDWQ-1136-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Cambridge
+- India
+- UK
+- US
+people:
+- Axel
+- Devneet Bohidar
+- Sunil Raina
+organisations:
+- AI Image Generator
+- AI Text Assistant
+- ARM
+- Amazon
+- Apple
+- Axel Metz
+- Devneet Bohidar:** Lava
+- Esquire
+- Google News
+- Head of Product
+- Hinduthat
+- Lava Agni
+- Lava Brand
+- Lava International
+- Lava What
+- NFC
+- Near Field Communication
+- RIP OnePlus
+- SBE Ltd
+- Samsung
+- Smartphones
+- TechRadar
+- University of Warwick
 ---
 
 ![The Lava Agni 4N phone on a colored background](https://cdn.mos.cms.futurecdn.net/v8ogtCEaBduBfiwEkjoDWQ.jpg) 

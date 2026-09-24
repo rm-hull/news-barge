@@ -12,6 +12,51 @@ image: https://cdn.mos.cms.futurecdn.net/sb4UNrZUbaibqDXRTgybjF-2000-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Australia
+- Canada
+- China
+- Germany
+- UDP
+- US
+- USA
+people:
+- Bigshrimp
+- Shu Mai
+- Tom
+- VulnCheck
+- Vulncheck
+- Zak Killian
+organisations:
+- Amazon
+- China Mobile
+- Cioswi
+- CroSkylink
+- DARKLANTERN
+- Deep Orange
+- Digineo
+- ENDLESSDOORS
+- Get Tom's Hardware
+- Google News
+- HotHardware
+- KuWFi
+- Lippert Components
+- MAC
+- MoFI Network
+- ODM
+- OEM
+- OneX
+- PC
+- SPEAKINGSTONE
+- Shenzhen Zhibotong Electronics
+- The Tech Report
+- Tom's Hardware
+- UDP
+- VulnCheck
+- Wave WiFi
+- WiFlyer
+- ZBT
+- Zak
 ---
 
 ![Royalty free](https://cdn.mos.cms.futurecdn.net/sb4UNrZUbaibqDXRTgybjF.jpg) 

@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Holborn
+- Manor of Northstead
+- North Yorkshire
+- Scarborough
+- St Pancras
+- UK
+people:
+- Bailiff
+- Keir Starmer
+- Nigel Farage
+- Steward
+organisations:
+- Camden New Journal
+- Chiltern Hundreds
+- Crown Steward
+- Exchequer
+- House Of Commons
+- House of Commons
+- LDRS
+- Local Democracy Reporting Service
+- Reform UK
+- The Steward
+- Treasury
 ---
 
 ## How Keir Starmer could be appointed to a job in North Yorkshire

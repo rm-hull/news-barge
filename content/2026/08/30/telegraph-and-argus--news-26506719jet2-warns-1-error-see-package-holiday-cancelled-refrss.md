@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Malaga
+- UK
+people:
+- George Gale
+- Jet2
+- Karen Cassidy
+- TikTok
+organisations:
+- Jet2
+- Jet2holidays
+- Kennedy News and Media
+- Ryanair
 ---
 
 *(Image: Kennedy News and Media)*

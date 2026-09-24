@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Arts & Culture
 - Travel
+locations:
+- Aysgarth Falls’
+- County Durham
+- Cow Green Reservoir
+- Cumbria
+- Hardcastle Crags
+- Hollywood
+- Howick Bathing House
+- North Yorkshire
+- Northern England
+- Northumberland
+- Pennine Way
+- Quiet County Durham
+- River Tees
+- St Mary’s Lighthouse
+- Tyne and Wear
+- Upper Teesdale
+- Upper Teesdale National Nature Reserve
+- West Yorkshire
+people:
+- Kevin Keegan
+- Tom Hardy
+organisations:
+- Cauldron Snout
+- County Durham
+- High Force
+- Low Force
+- Newcastle FC
+- SIXT
+- Wasdale Emerald Pool
 ---
 
 *(Image: Tripadvisor)*

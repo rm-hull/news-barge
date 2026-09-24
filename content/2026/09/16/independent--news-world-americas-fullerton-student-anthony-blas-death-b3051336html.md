@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Associated Road
+- Fullerton
+- Milton Avenue
+- St. Jude Medical Center
+people:
+- Anthony Joseph Blas
+- Ashlyn Gwynn
+- Eric Carrillo
+- Lauren Turner
+- Ryan O'Neil
+organisations:
+- Cal State Fullerton
+- Fullerton police
+- Orange County Crime Stoppers
+- Titan
+- Titans
 ---
 
 Fullerton police officers have requested assistance from the public in their ongoing investigation into the death of an 18-year-old Cal State Fullerton student who died of suspected alcohol poisoning following a fraternity event.

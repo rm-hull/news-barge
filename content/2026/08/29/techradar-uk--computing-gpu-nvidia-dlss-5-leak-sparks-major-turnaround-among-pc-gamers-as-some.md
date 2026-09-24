@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/WmdEqp2Rrd3xvESLj4yN5P-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- RenoDX
+people:
+- Jesse
+- SpeedLemur
+- VideoCardz
+organisations:
+- DLSS
+- Darren
+- Google News
+- Hachette UK
+- NBA
+- Nvidia
+- PC
+- Reddit
+- Team Green
 ---
 
 ![Happy PC gamer sat at their monitor on a desk](https://cdn.mos.cms.futurecdn.net/WmdEqp2Rrd3xvESLj4yN5P.jpg) 

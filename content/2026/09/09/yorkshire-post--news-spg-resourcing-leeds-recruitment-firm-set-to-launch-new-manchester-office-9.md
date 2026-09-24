@@ -15,6 +15,20 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Dubai
+- Leeds
+- Manchester
+- UAE
+- UK
+- US
+people:
+- Dylan Lancaster
+- Sam Hameed
+organisations:
+- AI
+- Ace Partners
+- SPG Resourcing
 ---
 
 # SPG Resourcing: Leeds recruitment firm set to launch new Manchester office

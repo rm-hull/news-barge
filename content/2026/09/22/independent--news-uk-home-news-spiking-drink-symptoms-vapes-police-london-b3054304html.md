@@ -14,6 +14,24 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/16/01M34MX7GZBJC15C71HCKPQZZM.jpg?trim=0,201,0,201&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Jonathan Brady
+- London
+- PA
+people:
+- DI Reseigh
+- Tony Reseigh
+- Violet Blythe
+- Zhenhao Zou
+organisations:
+- Met
+- Metropolitan Police
+- Ministry of Sound
+- The Independent
+- UAL
+- University of Bath
+- VAWG
 ---
 
 It’s nearly midnight on a Monday, but outside one of south London’s best-loved nightclubs, a queue is only just beginning to form. A stream of tipsy youngsters spills into the freshers’ glow rave at the Ministry of Sound, disappearing into the iconic venue in a cloud of vape smoke and dizzying excitement.

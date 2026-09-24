@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- River Tees
+people: []
+organisations:
+- RBT
+- Redcar Bulk Terminal
 ---
 
 *(Image: PROVIDED)*

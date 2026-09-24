@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Berlin
+people:
+- Adolf Hitler
+- Maurizio Cattelan
+organisations:
+- Neue Nationalgalerie
 ---
 
 A new exhibition by Italian artist Maurizio Cattelan has opened at Berlin's Neue Nationalgalerie, bringing together works that question power, violence and belief.

@@ -10,6 +10,37 @@ description: The American Copyright Protection Act aims to force ISPs, DNS resol
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg
+locations:
+- Capitol Hill
+- Europe
+- France
+- Italy
+- Panama
+- Spain
+- US
+- Utah
+people:
+- Brandon Butler
+- Darrell Issa
+- Laura Tyrylyte
+- Meredith Rose
+- Rene Millman
+organisations:
+- ACPA
+- American Copyright Protection Act
+- British Virgin Islands
+- Computer Weekly
+- Financial Times
+- IT Pro
+- No Trace
+- NordVPN
+- Public Knowledge
+- R-CA
+- TechRadar
+- The Guardian
+- US House of Representatives
+- VPN
+- VPNs
 ---
 
 ![Outline map of US states in glowing blue with exploding streams of binary data illustrating communication, internet and technology](https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf.jpg)

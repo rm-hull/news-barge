@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53e5/live/8a439c80-b6a2-11f1-ba3d-1d5c8a47f823.png
+locations:
+- Bootle
+- Merseyside
+- Merseyside.
+- Sefton
+- Stone Square
+people:
+- Kevin Longshaw
+- Nick Searle
+organisations:
+- BBC Merseyside
+- Merseyside Fire and Rescue Service
+- Merseyside Police
+- North West Ambulance Service
 ---
 
 ![Image shows a number of floral tributes and cuddly toys left along a wall, with a fire engine in the background. ](https://ichef.bbci.co.uk/ace/standard/656/cpsprodpb/53e5/live/8a439c80-b6a2-11f1-ba3d-1d5c8a47f823.png)

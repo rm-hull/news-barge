@@ -12,6 +12,51 @@ image: https://static.independent.co.uk/2026/09/10/03/2293886047..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Charlotte
+- Dallas
+- Massachusetts
+- Michigan
+- New York
+- North Carolina
+- South Carolina
+- Texas
+- U.S.
+- United States
+- United States of America
+- White House
+people:
+- Alfred E. Neuman
+- Darline Graham
+- DeCarlos Brown Jr.
+- Donald Trump
+- God
+- Iryna Zarutska
+- James Talarico
+- Ken Paxton
+- Kevin Hassett
+- Lindsey Graham
+- Michael Dukakis
+- Michael Whatley
+- Roy Cooper
+- Scott Bessent
+- Willie Horton
+organisations:
+- American Airlines Center
+- Austin Presbyterian Theological Seminary
+- Committee for a Responsible Federal Budget
+- Congress
+- House
+- International Emergency Economic Powers Act
+- Master of Arts
+- New York Times
+- Presbyterian Church
+- Republican National Committee
+- Senate
+- Supreme Court
+- Treasury
+- Trump
+- USA
 ---
 
 Forty-three minutes into a speech that would run past an hour and a half, the President of the United States begged an arena full of his own supporters to avoid using the bathroom for the benefit of television cameras that were there to document his remarks.

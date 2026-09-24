@@ -11,6 +11,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/apMew975VRgc48QvTAYAsg-1200-80.jpg
+locations:
+- Iran
+- US
+- United States
+people:
+- Benedict Collins
+- Dario Amodei
+- Heather Adkins
+- Jensen Huang
+- Sam Altman
+- Trump
+organisations:
+- APT
+- Anthropic
+- BUCSIS
+- CNBC
+- Gemini AI
+- Google Gemini
+- Google News
+- Irregular
+- Meta
+- Nvidia
+- OpenAI
+- PAC
+- PACs
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
+- pro-AI
 ---
 
 ![Google Gemini](https://cdn.mos.cms.futurecdn.net/apMew975VRgc48QvTAYAsg.jpg)

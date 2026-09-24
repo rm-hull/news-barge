@@ -13,6 +13,18 @@ categories:
 - UK
 - Society & Culture
 - Arts & Culture
+locations:
+- U.S.
+people:
+- Bill Gates
+- Jeffrey Epstein
+- Melinda French Gates
+organisations:
+- Bill and Melinda Gates Foundation
+- Congressional
+- House Oversight Committee
+- Microsoft
+- The Guardian
 ---
 
 Billionaire philanthropist Melinda French Gates claimed Jeffrey Epstein “could have been stopped” in an interview published after lawmakers questioned her ex-husband, Microsoft co-founder Bill Gates, over his ties to the late sex offender.

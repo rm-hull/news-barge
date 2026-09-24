@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Batley
+- Bradford
+- West Yorkshire
+people: []
+organisations:
+- Ford
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

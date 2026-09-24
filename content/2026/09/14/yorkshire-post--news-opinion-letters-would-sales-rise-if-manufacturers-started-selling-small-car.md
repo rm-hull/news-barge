@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Europe
+people:
+- Nigel Boddy
+organisations:
+- Yorkshire Post Letters
 ---
 
 # Would sales rise if manufacturers started selling small cars again? - Yorkshire Post Letters

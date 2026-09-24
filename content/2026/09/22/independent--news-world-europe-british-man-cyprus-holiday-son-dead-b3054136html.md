@@ -12,6 +12,17 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2025/05/27/9/05/iStock-1251597344.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Chlorakas
+- Cyprus
+- Essex
+- King Evelthon Beach
+- Paphos
+people:
+- Alexandros Alexandrou
+- George Savvides
+organisations:
+- The Sun
 ---
 
 A British father has admitted to causing the death of his son while on holiday in Cyprus.

@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Darlington Mind
+- Hambleton
+- Mount Kilimanjaro
+- North Yorkshire
+- South Durham
+people:
+- Darlington Mind
+- Jemma Gregory
+- Joel Hutchinson
+organisations:
+- Darlington Mind
+- Helvellyn
 ---
 
 A Darlington man has conquered Mount Kilimanjaro after 14 months of preparation to support a mental health charity.

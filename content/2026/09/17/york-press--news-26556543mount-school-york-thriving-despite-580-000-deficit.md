@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Dalton Terrace
+- Holgate Bridge
+- Mount
+- UK
+- York
+people:
+- A S Byatt
+- Alex Griffiths
+- Anna Wilby
+- Duncan Lomax
+- Greg Willmott
+- Judi Dench
+- Mount
+organisations:
+- Duncan Lomax
+- Hampden Bank
+- Mount School
+- Moxie Centre for Art
+- The Press
 ---
 
 *(Image: Duncan Lomax)*

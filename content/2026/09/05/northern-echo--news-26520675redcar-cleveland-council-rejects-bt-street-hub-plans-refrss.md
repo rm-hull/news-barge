@@ -13,6 +13,23 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- BT
+- Eston High Street
+- High Street
+- North East
+- Redcar High Street
+- Teesside
+people: []
+organisations:
+- BT Street Hub
+- Cleveland Council
+- Cleveland Police
+- Local Democracy Reporting Service
+- Miners Arms
+- Neighbourhood Policing Team
+- Overall BT Street Hubs
+- Redcar
 ---
 
 Redcar and Cleveland Council has rejected plans by BT for so-called ‘street hubs’ in Redcar High Street and Eston High Street.

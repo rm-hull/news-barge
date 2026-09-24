@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Europe
+- Kremlin
+- Middle East
+- Moscow
+- Poland
+- Russia
+- US
+- Ukraine
+people:
+- Dmitry Peskov
+- Donald Trump
+- Donald Tusk
+- Emmanuel Macron
+- John Ratcliffe
+- Karol Nawrocki
+- Magdalena Sobkowiak-Czarnecka
+- Sergei Lavrov
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- CBS News
+- CIA
+- Nato
+- Wall Street Journal
 ---
 
 Poland’s prime minister Donald Tusk has insisted that his country will not surrender any territory whatsoever in any future conflict with Russia.

@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- Darlington Back Lane
+- North East
+- North Yorkshire
+- North-east
+- Springwood
+- Stockton
+- YOUR
+people:
+- Eric Telford
+organisations:
+- Action4Care Ltd
+- Public Notice Portal
+- Stockton Council
+- Teldord Planning Associates
 ---
 
 ### What is the Public Notice Portal?

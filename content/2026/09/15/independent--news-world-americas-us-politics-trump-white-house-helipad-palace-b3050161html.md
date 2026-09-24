@@ -13,6 +13,35 @@ image: https://static.independent.co.uk/2026/09/14/22/36/f15da5463d9b0ae4.jpg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- D.C.
+- Main Entrance
+- North Korea
+- Palace
+- Palm Room
+- Reflecting Pool
+- Rose Garden
+- South Lawn
+- Washington
+- White Granite!
+- White House
+people:
+- Donald Trump
+- Power
+organisations:
+- ABC News
+- American Taxpayer
+- Justice Department
+- Lincoln Memorial Reflecting Pool
+- Lockheed Martin
+- National Park Service
+- Oval Office
+- Sikorsky Aircraft
+- Supreme Court
+- The Washington Post
+- Trump
+- Truth Social
 ---
 
 President Donald Trump has boasted about turning the White House into a “palace” as he gushed over his new helipad right in the backyard.

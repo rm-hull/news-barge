@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- America
+- Gaza
+- Israel
+- Italy
+- Lido
+- Palestine
+- US
+- United States
+- Venice
+people:
+- Alberto Barbera
+- Andrea Pallaoro
+- Bernardo Bertolucci
+- Louise
+- Susan Sarandon
+- Thelma
+organisations:
+- Bull Durham
+- Echo Chamber
+- Hamas
+- The Echo Chamber
+- UTA
 ---
 
 The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for Palestinians, despite what she described as a broader shift in public opinion against US support for Israel.

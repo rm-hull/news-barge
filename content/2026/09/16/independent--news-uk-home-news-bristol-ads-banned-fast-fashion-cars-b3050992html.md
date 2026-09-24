@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bristol
+- Broadmead
+- UK
+- United Kingdom
+people:
+- Heather Mack
+organisations:
+- Bristol City Council
+- Strategy and Resources Committee
 ---
 
 Bristol City Council has become the first council in the United Kingdom to ban ads promoting the buying of fast fashion.

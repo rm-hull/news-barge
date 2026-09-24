@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487823.jpg?type=og-image
+locations:
+- London
+people:
+- Anna
+- Lucy Rigby
+- Matteo
+organisations:
+- CTFs
+- Child Trust Fund
+- Child Trust Fund Taskforce
+- Child Trust Funds
+- GOV.UK
+- HM Revenue and Customs
+- HMRC
+- ISAs
+- Individual Savings Accounts
+- National Insurance
 ---
 
 *(Image: T&A)*

@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Camra
+- Castle Eden
+- Durham
+- Green Lane
+- Hill Island
+- Hollow Drift
+- Norwich
+- Nottingham
+- Peterborough
+- Spennymoor
+people:
+- George Samuel
+- Lesley Mavin
+- Paul Dobson
+- Trish Sutcliffe
+organisations:
+- Campaign for Real Ale
+- Consett
+- Derbyshire
+- Durham Camra
+- Fox Cub
+- Full Circle
+- Hopper House
+- Maxim
+- Three Brother
+- Yard of Ale
 ---
 
 Real ale enthusiasts are looking forward to wetting their whistle at a long-running annual regional beer festival next week.

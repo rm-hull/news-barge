@@ -11,6 +11,15 @@ image: https://i.guim.co.uk/img/media/964b147427feba0ecbd6eb2cc4a4aa6a10fa7f48/9
 categories:
 - UK
 - News & Politics
+locations:
+- Missouri
+- US
+people:
+- Brett Kavanaugh
+- Catherine Hanaway
+- Donald Trump
+organisations:
+- Justice
 ---
 
 The US supreme court turned back an emergency appeal by Missouri officials to use a newly drawn congressional map backed by Donald Trump in the November midterm election, letting stand a ruling by the state’s highest state court that blocked the new lines from taking effect.

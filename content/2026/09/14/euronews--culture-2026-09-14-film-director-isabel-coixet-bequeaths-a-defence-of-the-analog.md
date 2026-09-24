@@ -14,6 +14,35 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Cannes
+- England
+- France
+- Italy
+- Madrid
+- Spain
+people:
+- Camarón
+- Cervantes
+- Cristina Andreu
+- Florence Green
+- George Clooney
+- Isabel Coixet
+- La Cabra Mecánica
+- Lucho Gatica
+- Luis García Montero
+- María Jiménez
+- Rodrigo Sorogoyen
+- Sant Adrià del Besós
+- Taylor Russell
+organisations:
+- Association of Women Filmmakers
+- Audiovisual Media
+- Caja de las Letras
+- Coixet
+- Instituto Cervantes
+- Madrid Publishers' Association
+- Order of Arts and Letters
 ---
 
 ## The Catalan director condemns artificial intelligence and global ecocide in a letter read at her tribute, donating 'anachronistic' items to the Caja de las Letras, to be reopened in fifty years.

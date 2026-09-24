@@ -13,6 +13,32 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/158d/live/c37e1410-b6bd-11f1-a430-4d16ee157c41.jpg
+locations:
+- Brighton
+- UK
+people:
+- Davey-sceptic
+- David Cameron
+- Ed Davey.
+- Nigel Farage
+- Sir Ed Davey
+organisations:
+- Brexit-backing Reform UK
+- Conservative Party
+- Conservatives
+- EU
+- European Union
+- Houses of Parliament.
+- Institute for Fiscal Studies
+- Labour
+- Lib Dem
+- Lib Dems
+- Lib Dems'
+- Liberal Democrat
+- OBR
+- Politics Essential
+- Reform UK
+- Single Market
 ---
 
 ![Sir Ed Davey at the Liberal Democrat party conference. He is pictured against a blue and red background, and he is gesturing with his hands as he makes his speech.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6328/live/a586d230-b6b8-11f1-bc1f-3f186ca4140c.jpg)

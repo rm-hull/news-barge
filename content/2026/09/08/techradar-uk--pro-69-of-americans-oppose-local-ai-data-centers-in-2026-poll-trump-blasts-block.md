@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- AI
+- New York
+- Ohio
+- Texas
+- U.S.A.
+people:
+- Dawn Vogel
+- Greg Abbott
+- Jon Husted
+- Kathy Hochul
+- Trump
+organisations:
+- Decision Desk
+- Efosa
+- Embold Research
+- Google News
+- Heatmap Pro
+- SurveyMonkey
+- TechRadar Pro
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

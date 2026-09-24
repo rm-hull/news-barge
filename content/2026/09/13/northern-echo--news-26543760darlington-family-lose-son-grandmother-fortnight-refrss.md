@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Darlington
+- Newcastle
+- Royal Victoria Infirmary
+people:
+- Haughton
+- Max
+- Nan
+- PC Blades
+- Parker Hall
+- Poppy
+- Scarlett
+- Simon Haynes
+- Sinead Hall
+- Vivienne
+organisations:
+- Darlington
+- Devastated County Durham
+- Sinead Hall
 ---
 
 A Darlington family have spoken of their heartbreak after losing their seven-year-old son to a rare terminal illness just weeks after the death of their much-loved grandmother.

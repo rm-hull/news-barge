@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cairo
+- Egypt
+people:
+- Grand Mufti
+- Sarah Khalifa
+organisations:
+- AFP
+- Akhbar Al-Youm
+- Al-Ahram
+- Al-Ahram*
+- Court of Cassation
+- Egyptian Commission for Rights and Freedoms
 ---
 
 Egyptian television presenter Sarah Khalifa has been sentenced to death by hanging, along with 11 other defendants in a major drugs case, according to reports.

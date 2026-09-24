@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Germany
+people:
+- Colin Egglestone
+- Dave Marshall
+- Edmund Davies
+- Elizabeth
+- Harry Nicolls
+- Joe Ogden
+- Jowett
+- Judith Simpson
+- Kim Hopkins
+- Phil Wainman
+organisations:
+- A Bunch of Amateurs
+- Bradford Cine Circle
+- Bradford Move Makers
+- Bradford Movie Makers
+- Cine Club
+- Little Horton
+- Movie Makers
+- Standard 8
+- T&A
+- Wharfedale
+- Yorkshire
 ---
 
 A VETERAN of Bradford Movie Makers, and the much-loved star of an acclaimed film about the historic club, has died, aged 93.

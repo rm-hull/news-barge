@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Hassam Nasir
+- Tom
+- Valve
+organisations:
+- Get Tom's Hardware
+- Google News
+- HUD
+- Hidden Path Entertainment
+- NCF
+- No-Cache File
+- SteamPipe
+- Valve
 ---
 
 ![Steam cover art](https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97.jpg) 

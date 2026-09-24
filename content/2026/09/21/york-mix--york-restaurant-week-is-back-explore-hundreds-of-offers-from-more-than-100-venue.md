@@ -12,6 +12,14 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/yrw26.webp
+locations:
+- York
+people:
+- Eleanor Richardson
+- York
+organisations:
+- York Business Improvement District
+- York Restaurant Week
 ---
 
 York’s biggest celebration of dining out returns next month.

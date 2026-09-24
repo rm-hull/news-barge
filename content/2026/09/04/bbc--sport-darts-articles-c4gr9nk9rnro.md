@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Hungary
+- Prague
+people:
+- Beau Greaves
+- Daryl Gurney
+- Fallon Sherrock
+- Luke Humphries
+- Mensur Suljovic
+- Michael Smith
+- Rob Cross
+organisations:
+- Doncaster
+- Greaves
+- PDC
 ---
 
 ![Beau Greaves celebrating](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d2dd/live/2a655330-a8b0-11f1-969d-b7e832559a75.jpg)

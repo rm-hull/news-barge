@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Dickens Road
+- Fitzjohn Close
+- Furlongs Avenue
+- Glenmore Drive
+- Kingston Drive
+- Leahurst Close
+- Malton
+- North Yorkshire
+- Norton
+- Rosedale Avenue
+people:
+- Cllr Duncan
+- Keane Duncan
+organisations: []
 ---
 
 *(Image: Keane Duncan)*

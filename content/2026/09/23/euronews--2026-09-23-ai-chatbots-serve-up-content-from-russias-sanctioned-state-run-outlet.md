@@ -15,6 +15,42 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/43/66/1200x675_cmsv2_bf7ed425-c9f8-59d9-ab28-8b08f291dcd6-9924366.jpg
+locations:
+- Austria
+- Germany
+- Russia
+- Ukraine
+people:
+- Claude
+- Tom Renier
+- Vincent Berthier
+organisations:
+- '## Reporters Without Borders'
+- AI Act
+- ChatGPT
+- Court of Justice
+- EU
+- Euronews
+- European Commission
+- European Union
+- Gemini
+- Grok
+- Le Chat
+- Meta AI
+- Mistral
+- OpenAI
+- RIA Novosti
+- RSF
+- RT
+- Reporters Without Borders
+- Rossiya 24
+- Rossiya RTR
+- Russia Today
+- Sputnik —
+- Strategic Culture Foundation
+- Telegram
+- VKontakte
+- Vibe
 ---
 
 ## Reporters Without Borders tested six AI chatbots by requesting news from RT, Sputnik, and other EU-sanctioned Russian outlets, and found that three produced full summaries with links and quotes, sometimes after encountering web pages explicitly stating the outlets were under sanctions.

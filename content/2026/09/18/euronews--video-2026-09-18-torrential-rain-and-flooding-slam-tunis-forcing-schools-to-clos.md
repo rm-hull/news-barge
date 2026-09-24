@@ -13,6 +13,13 @@ categories:
 - Europe
 - News & Politics
 - Education & Learning
+locations:
+- Greater Tunis
+- Tunisia
+people: []
+organisations:
+- National Institute of Meteorology
+- Tunis Governorate
 ---
 
 The Tunis Governorate announced **suspension of afternoon classes** across all public and private educational, training, and university institutions, citing warnings from the National Institute of Meteorology and advice from the regional disaster-prevention committee. Between**30 and 50 millimetres of rain** were forecast across Greater Tunis in a short period, overwhelming drainage systems in several neighbourhoods.

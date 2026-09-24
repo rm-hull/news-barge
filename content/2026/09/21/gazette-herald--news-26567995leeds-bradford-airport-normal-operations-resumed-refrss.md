@@ -13,6 +13,19 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21432860.jpg?type=og-image
+locations:
+- Palma
+- Perpignan
+- UGC
+- UK
+- Yeadon
+- York
+people: []
+organisations:
+- LBA
+- Leeds Bradford Airport
+- NATS
+- Yorkshire
 ---
 
 *(Image: UGC)*

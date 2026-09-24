@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Abu Dhabi
+- Cairo
+- Gulf
+- Iran
+- Israel
+- Jerusalem
+- Oman
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- US
+- Washington
+- White House
+people:
+- Anwar Gargash
+- Fatma Khaled
+- Josh Boak
+- Mohsen Rezaei
+- Nabil Fahmy
+- Qassem Basir
+organisations:
+- Arab League
+- Associated Press
+- Kpler
+- Supreme National Security Council
+- U.S. Navy
+- ___ Anna
 ---
 
 Iran state media on Monday said a ballistic missile with improved capabilities was demonstrating a new doctrine: Tehran “will take action against any threat, even before it is carried out.”

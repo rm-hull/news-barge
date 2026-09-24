@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/05/45/1200x675_cmsv2_e948b617-5b99-5b32-8b73-073227f32e88-9920545.jpg
+locations:
+- Berlin
+- Germany
+- Mecklenburg-Western Pomerania
+- New York
+- Saxony-Anhalt
+people:
+- '## Merz'
+- Friedrich Merz
+organisations:
+- ARD Exit
+- AfD
+- Alternative for Germany
+- CDU
+- Christian Democratic Union
+- Left Party
+- UN General Assembly
 ---
 
 ## Merz’s centre-right Christian Democratic Union is projected to fall to 5.5% in Mecklenburg-Western Pomerania. That would be its worst result there since World War II. The CDU is projected to come in second with 20%, behind the Left party at 24.5%, according to the exit poll by public broadcaster ARD

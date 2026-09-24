@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Cleveland
+- England
+- Marton Road
+- Middlesbrough
+- North East
+- Roseberry Park
+- Roseberry Park Hospital
+- Teesside
+- Wales
+people: []
+organisations:
+- Cleveland Police
+- GOOGLE
+- Roseberry Park Hospital
+- Tees, Esk
+- Wear Valleys NHS Foundation Trust
 ---
 
 *(Image: GOOGLE)*

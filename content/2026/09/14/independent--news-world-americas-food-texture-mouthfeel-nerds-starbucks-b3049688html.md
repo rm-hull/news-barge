@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- China
+- Dubai
+- La Habra
+- Los Angeles
+- McCrispy
+- Paris
+- U.S.
+people:
+- Jenny Zegler
+- Patrick Kalotis
+- Shannon Weiner
+- Tana Davila
+organisations:
+- COVID-19
+- Cloetta
+- Dutch Bros Coffee
+- Ferrara
+- Gummi Popz
+- Ingredion
+- McDonald's
+- Mintel
+- Nerds Gummy Clusters
 ---
 
 Texture is becoming nearly as important as taste for consumers, pushing food and drink companies to develop products that are crunchier, gooier, creamier and chewier.

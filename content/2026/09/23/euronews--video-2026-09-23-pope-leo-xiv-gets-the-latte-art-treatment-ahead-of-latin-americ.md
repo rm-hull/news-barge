@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://images.euronews.com/articles/stories/09/92/43/03/1200x675_cmsv2_c0c991c2-54ff-5f95-ac0a-c94e209de226-9924303.jpg
+locations:
+- Argentina
+- Chiclayo
+- Cusco
+- Lima
+- Peru
+- Pucallpa
+- Uruguay
+people:
+- Ariana Mallma
+- Carlos Risco
+- Pope Leo XIV
+organisations: []
 ---
 
 A café in Lima is serving espresso, latte and cappuccino topped with portraits of Pope Leo XIV ahead of his November visit.

@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A67
+- Green Lane
+- Thirsk Road
+- Yarm
+people:
+- John Coulson
+organisations:
+- AA
+- Cleveland Police
+- Stockton Borough Council
 ---
 
 *(Image: GOOGLE)*

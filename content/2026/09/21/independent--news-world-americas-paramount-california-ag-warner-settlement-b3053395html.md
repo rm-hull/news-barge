@@ -14,6 +14,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/08/2026-09-21T022521Z_1039570558_RC26LNAG4MIK_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-SKYDANCE.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Hollywood
+people:
+- David Ellison
+organisations:
+- CNN
+- California AG
+- Miramax
+- Paramount Skydance
+- Reuters
+- Wall Street Journal
+- Warner Bros
 ---
 
 Paramount and California's attorney general have engaged in advanced discussions over potential concessions to settle a major antitrust challenge, according to a *Wall Street Journal* report on Sunday citing sources familiar with the matter.

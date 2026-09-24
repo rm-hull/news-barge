@@ -13,6 +13,33 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Esme Mai
+- Goodramgate
+- London
+- North Yorkshire
+- York
+people:
+- Burnham
+- David Skaith
+- Derek Reed
+- Healey
+- Joanne EllisCharlton StreetYork___**
+- John JonesRusset
+- Mary MortonHob
+- Mick HorsmanMoorland
+- Nigel CummingsCharlton
+- Rachael Maskell
+organisations:
+- CMS
+- Child Maintenance Service
+- Harrogate
+- Let Middlesbrough
+- Malton
+- Panorama
+- Scarborough
+- The Press
+- Whitby et al
 ---
 
 *(Image: Esme Mai)*

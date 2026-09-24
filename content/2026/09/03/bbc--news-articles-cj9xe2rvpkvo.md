@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Paris
+- Rotherham
+- UK
+people:
+- Andrew
+- John Pickles
+- Les Hemstock
+- Steve White
+organisations:
+- BBC Radio Sheffield
+- Doncaster DJ
+- Jive Bunny
+- Mastermix
 ---
 
 ![A black and white picture of pop band 'Jive Bunny and the Mastermixers' posing with someone in a bunny costume in Paris, circa 1985. All three are leaning against the railing of a bridge. The bunny is given a thumbs up gesture.](https://ichef.bbci.co.uk/ace/standard/545/cpsprodpb/8247/live/e924e6c0-a7cd-11f1-809e-25fc74c1ec7d.jpg)

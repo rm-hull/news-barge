@@ -14,6 +14,20 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Deer Park
+- North Yorkshire
+- Ripon
+- Studley Royal
+- Studley Royal Deer Park
+people:
+- Joanne Nicholson
+organisations:
+- Deer Park Pavilion Recovery Fund
+- North Yorkshire Police
+- Studley Royal
+- Studley Royal Cricket Club
+- UNESCO World Heritage Site
 ---
 
 # 'Together, we can do this': Fundraising appeal launched to rebuild beloved Studley Royal Cricket Club pavilion after devastating fire

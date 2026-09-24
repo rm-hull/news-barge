@@ -11,6 +11,15 @@ image: https://static.independent.co.uk/2026/09/01/00/Times_Square_Police_Shooti
 categories:
 - News & Politics
 - UK
+locations:
+- 7th Avenue
+- New York
+- One Times Square
+- Times Square
+people: []
+organisations:
+- NYPD
+- New York Police Department
 ---
 
 A woman brandishing two large knives was shot by police officers in New York’s Times Square on Monday, according to video taken by bystanders.

@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- '## Aberdeen'
+- '## Belfast City Belfast City Airport'
+- Alamy
+- Belfast City Airport
+- Birmingham Airport
+- Birmingham Birmingham Airport
+- Bristol Airport
+- Channel Islands
+- East Midlands
+- East Midlands Airport
+- Edinburgh Airport
+- Glasgow
+- Jersey
+- Liverpool John Lennon Airport
+- London Stansted
+- Manchester Airport
+- PA
+- Stansted Airport
+- UK
+- UK.
+people:
+- Andrew Milligan
+- Chris Radburn
+- John Lennon
+organisations:
+- '## Jersey Jersey Airport'
+- '## London City London City Airport'
+- '## London Gatwick A'
+- '## London Heathrow A'
+- '## Manchester A'
+- AGS Airports
+- Aberdeen International
+- BHX
+- Birmingham Airport
+- Bristol Travellers
+- FlightRadar24
+- Liverpool John Lennon Airport
+- London City Airport
+- London Gatwick
+- London Gatwick Airport
+- London Southend
+- London Southend Airport
+- London Southend London Southend Airport
+- London Stansted Flights
+- Manchester Airport
+- NATS
+- National Air Traffic Services
+- Nats
+- Nats’
+- Southampton AGS Airports
+- UK Civil Aviation Authority
 ---
 
 Airports across the UK are experiencing disruption after an air traffic control “technical issue”.

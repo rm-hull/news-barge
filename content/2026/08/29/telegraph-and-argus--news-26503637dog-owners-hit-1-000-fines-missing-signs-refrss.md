@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations: []
+people:
+- Amanda Roscoe
+organisations:
+- Carrick Signs
+- DOG
+- PSPO
+- Public Spaces Protection Order
 ---
 
 *(Image: Getty Images/iStockphoto)*

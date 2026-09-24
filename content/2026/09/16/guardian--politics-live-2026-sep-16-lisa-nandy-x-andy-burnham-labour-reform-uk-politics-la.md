@@ -12,6 +12,53 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bute House
+- Edinburgh
+- England
+- Feltham A
+- Ireland
+- McLaren Technology Centre
+- Middle East
+- PA
+- Piddington
+- Scotland
+- Surrey
+- UK
+- Werrington
+- Wetherby
+- Woking
+people:
+- Andy Burnham
+- Andy Haldane
+- Ben Delo
+- Ben Quinn
+- Beth Rigby
+- Black
+- Catherine Connolly
+- Christopher Harborne
+- Gemma Abbott
+- John Swinney
+- Lisa Nandy
+- Murdo MacLeod
+- Nick Collins
+- Pava
+- Shabana Mahmood
+- Stefan Rousseau
+organisations:
+- Bank of England
+- Feltham A. Figures
+- Freedom of Information Act
+- Home Office
+- Howard League
+- Howard League for Penal Reform
+- McLaren Group
+- McLaren Technology Centre
+- PA Burnham
+- Reform UK
+- Sky News
+- Sky News Burnham
+- The Guardian Pepper
 ---
 
 Burnham rejects suggestion he's just 'traditional tax and spend socialist', saying he will take 'difficult decisons'

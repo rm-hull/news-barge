@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brierley Homes
+people:
+- Cllr Grogan
+- George Jabbour
+- Kevin Foster
+- Mark Crane
+- Tim Grogan
+- Tony Dodds
+organisations:
+- Brierley Group
+- Brierley Homes
+- Green Party
+- North Yorkshire Council
+- Reform
 ---
 
 Concerned councillors have questioned whether North Yorkshire Council’s loss-making housing company will ever turn its finances around — despite a five-year recovery plan being drawn up.

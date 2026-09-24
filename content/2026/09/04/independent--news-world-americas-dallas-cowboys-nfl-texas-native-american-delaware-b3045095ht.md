@@ -16,6 +16,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Austin
+- Delaware
+- Kituwah
+- San Antonio
+- Texas
+people:
+- Darrel Wilson
+- David Mosley
+- Emmitt Smith
+- Kituwah
+- Walter Payton
+organisations:
+- Dallas Cowboys
+- Eastern Band of Cherokee Indians
+- Kituwah LLC
+- NFL
+- Pro Football Hall of Famer
+- Project Exodus
+- Smith's
+- U.S. Department of Energy
+- Wilson Holdings
+- Wilson Holdings of North America LLC
 ---
 
 NFL career rushing leader Emmitt Smith is being sued by a Native American investment company over claims that the former Dallas Cowboys running back and his business partners misappropriated a $2.5 million loan that was supposed to fund a wind farm project in Texas.

@@ -13,6 +13,22 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Follifoot Park Riding Centre
+- Harrogate
+- Pannal Road
+- Riding Centre
+people:
+- Julie Pedley
+- Lizzie Yates
+- Lucy Longden
+- Morag Bennett
+- Wren
+organisations:
+- Disabled Association
+- FPDRG
+- Follifoot Park Disabled Riders Group
+- Rosie Towers
 ---
 
 # Harrogate charity celebrates 40 years in the saddle

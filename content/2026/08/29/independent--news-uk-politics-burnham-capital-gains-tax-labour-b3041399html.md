@@ -14,6 +14,30 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Leeds
+- Liverpool
+- London
+- Manchester
+- Northern Ireland
+- Northern Powerhouse
+- Sheffield
+- West Midlands
+people:
+- Andy Burnham
+- Cameron
+- Gatley
+- Lord O’Neill
+- May
+organisations:
+- Brexit
+- Budget
+- Cornwall
+- House of Lords
+- Labour
+- Northern Powerhouse
+- The Times
+- Treasury
 ---
 
 A former Conservative Treasury minister has cautioned Andy Burnham against increasing capital gains tax, labelling it a "stupid" decision.

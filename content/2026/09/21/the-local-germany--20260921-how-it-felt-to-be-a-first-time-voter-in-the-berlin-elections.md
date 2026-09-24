@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2021/08/watermarks-logo-214372465.jpg@webp
+locations:
+- Berlin
+- Brandenburg
+- Germany
+- Rote Rathaus
+people:
+- Elif Eralp
+- Kiez
+organisations:
+- A100
+- CDU
+- Deutsche Wohnen
+- Deutsche Wohnen & Co
+- Left Party
 ---
 
 On 23rd February, 2025, I went with my German partner to his local polling station in Berlin to vote in the federal elections. I was teary-eyed and furious.

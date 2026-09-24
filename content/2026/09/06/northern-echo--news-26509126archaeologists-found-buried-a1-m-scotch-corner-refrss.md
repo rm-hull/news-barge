@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- Barton
+- Bowes
+- Britain
+- Brough
+- Carlisle
+- Catterick
+- County Durham
+- Cumbria
+- Darlington
+- Dere Street
+- England
+- Europe
+- Italy
+- Leeming Bar
+- M
+- M6
+- Newcastle
+- North Yorkshire
+- Pennines
+- Pompeii
+- River Swale
+- Roman Empire
+- Scotch Corner
+- Scotch Corner Roman
+- Scotland
+- York
+people:
+- Jonathan Shipley
+organisations:
+- A1
+- A66
+- AD
+- Historic England
+- Northern Archaeological Associates
+- Scotch Corner Archaeologists
 ---
 
 Thousands of drivers pass through Scotch Corner every day, but beneath the roads around one of the North's best-known junctions archaeologists uncovered evidence of another major transport hub dating back almost 2,000 years.

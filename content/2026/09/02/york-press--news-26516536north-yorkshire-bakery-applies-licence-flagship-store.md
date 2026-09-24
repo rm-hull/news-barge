@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Lincolnshire
+- Market Street
+- NORTH Yorkshire
+- North East
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- Westborough
+- YO11 2HG
+people:
+- Alice Coopland
+- Frederick
+organisations:
+- Coopland and Sons
+- Cooplands' Flagship Store
+- Google Maps
+- Ltd
+- Newsquest
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
 ---
 
 ## Popular North Yorkshire bakery applies for new licence at flagship store

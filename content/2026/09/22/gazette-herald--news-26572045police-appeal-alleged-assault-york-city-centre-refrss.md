@@ -15,6 +15,14 @@ categories:
 - True Crime
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21487195.jpg?type=og-image
+locations:
+- North Yorkshire
+- Parliament Street
+- York
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

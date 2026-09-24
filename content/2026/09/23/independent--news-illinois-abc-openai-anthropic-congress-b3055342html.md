@@ -12,6 +12,19 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/27/21/Electric_Bikes_Regulations__6675.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Illinois
+people:
+- Pritzker
+organisations:
+- ABC
+- AI
+- Artificial Intelligence
+- Capitol News Illinois
+- Congress
+- JB Pritzker
+- OpenAI
+- The Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

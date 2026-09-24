@@ -12,6 +12,41 @@ image: https://cdn.mos.cms.futurecdn.net/aoRVmncx78JBSo5VskePxe-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dua Lipa
+- UK
+people:
+- Bass
+- Chris Stassy
+- Dready
+- Harry Padoan
+- Kendrick Lamar
+- Luther
+- Man
+- Marshall
+- Max
+- Mike Somerset
+- Treble
+organisations:
+- Bluetooth
+- Bromley
+- Google News
+- JBL
+- JBL’s PartyBox
+- JBL’s Partybox
+- LED
+- Pink Floyd
+- RCA
+- SZA
+- Sony Product
+- Sony ULT Tower
+- Sony’s Towers
+- TechRadar
+- ULT Tower
+- ULT Tower Max
+- ULT Towers
+- USB-C
+- XLR
 ---
 
 ![Multiple Sony ULT Tower speakers stacked on top of one another](https://cdn.mos.cms.futurecdn.net/aoRVmncx78JBSo5VskePxe.jpg) 

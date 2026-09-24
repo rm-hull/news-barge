@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Davygate
+- Dunnington
+- King's Square
+- London
+- Parliament Street
+- St Helen's Square
+- Stonegate
+- Wakefield
+- York
+people:
+- Ella Fitzgerald
+- Jack Bailey
+- James
+- Kevin Glenton
+- Louis Armstrong
+- Nat King Cole
+organisations:
+- Betty's
+- CAPA
+- Instagram
+- Rose Bruford College
+- The Press
 ---
 
 A teenager busker in York is looking to follow in his opera singing mum's footsteps by building a musical career and has already attracted the attention of a cruise ship booking agent.

@@ -11,6 +11,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Finland
+- San Francisco
+people: []
+organisations:
+- Bloomberg
+- IPO
+- Oura
+- SEC
+- Securities and Exchange Commission
+- TechCrunch
 ---
 
 Oura, the smart ring maker, has filed to go public.

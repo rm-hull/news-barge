@@ -14,6 +14,16 @@ categories:
 - Sports
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21480857.jpg?type=og-image&xType=0&yType=2
+locations:
+- County Durham
+- Crook Man
+people:
+- '** Boy'
+- Andy Reeves
+organisations:
+- Crimestoppers
+- Crook Neighbourhood Police Team
+- Durham Constabulary
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Great North Run
+- Newcastle
+- South Shields
+- YAS
+people:
+- Carey Taylor
+- Julie Armitage
+- Kimberley Swart
+- Lesley Butterworth
+organisations:
+- Patient Experience and Nursing
+- YAS Charity
+- Yorkshire Ambulance Service
+- Yorkshire Ambulance Service Charity
 ---
 
 *(Image: YAS)*

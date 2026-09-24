@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cardiff
+- England
+- Northern Ireland
+- Scotland
+- Senedd
+- UK
+- US
+- Wales
+- Westminster
+people:
+- Andy Burnham
+- Donald Trump
+- John Swinney
+- Laura McAllister
+- Mary Lou McDonald
+- Michelle O’Neill
+- Rhun ap Iorwerth
+- Sinn Féin
+organisations:
+- Cardiff University
+- Plaid Cymru
+- SNP
+- Scottish National party
+- Sinn Féin
 ---
 
 Westminster’s time is coming to an end, the first ministers of Wales, Scotland and Northern Ireland have said at a landmark summit aimed at putting the UK’s Celtic nations on the path to independence referendums.

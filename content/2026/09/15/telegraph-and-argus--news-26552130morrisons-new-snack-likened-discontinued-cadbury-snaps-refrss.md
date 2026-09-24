@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- UK
+people:
+- '"@CadburyUK'
+organisations:
+- '## Morrisons'''
+- '## Rare Cadbury'
+- Aldi
+- Cadbury Snaps
+- Chocolate Curves
+- Chocolate Waves
+- Milk Chocolate
+- Morrisons
+- Nestle
+- Newsfoodsuk
+- Twitter
 ---
 
 Morrisons has launched a new chocolate snack that shoppers are comparing to a Cadbury favourite discontinued 16 years ago.

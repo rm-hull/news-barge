@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Pets & Animals
+locations:
+- Centerra Park
+- Connecticut River
+- Lebanon
+- New Hampshire
+people: []
+organisations:
+- Facebook
+- Lebanon Police
+- New Hampshire Fish and Game Department
+- Police Department
+- U-Haul
 ---
 
 A mysterious wild animal has been terrorizing a neighborhood in New Hampshire after a third attack by the creature was reported in less than two days.

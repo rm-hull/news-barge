@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Aberdeen
+- Milltimber
+- St Nicholas Street
+- Tor-Na-Dee
+- UK
+- Union Square
+people:
+- Frances Blair
+- Grace Barnett
+- Katherine Clarck
+- Katherine Clark
+- May Bremner
+- Pat
+- Sue Jones-Wood
+organisations:
+- M&S
+- Marks & Spencer
+- Tor-Na-Dee
 ---
 
 A 101-year-old Marks & Spencer superfan has made a special trip to her favourite retailer after four years.

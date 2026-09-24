@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - History
+locations:
+- Brook Street
+- Garden Street
+- Gillygate**
+- Groves
+- Lowther Street
+- Townend Street
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- Via
 ---
 
 Police are investigating a vandalism spree in the Groves, York.

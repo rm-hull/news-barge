@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- CLEVELAND
+- Carmel
+- Darlington
+- Hartlepool
+- Hutton Avenue
+- South Bank
+- St Joseph
+people:
+- Matthew Blades
+- Matty
+- Melanie Kane
+- PC Blades
+- Tom Clought
+organisations:
+- Carmel College
+- Cleveland Police
+- PC Blades
+- Roman Catholic Church
+- VW
 ---
 
 *(Image: CLEVELAND POLICE)*

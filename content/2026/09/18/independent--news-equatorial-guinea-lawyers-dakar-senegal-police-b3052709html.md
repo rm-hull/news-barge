@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Africa
+- Bamy Hotel
+- Equatorial Guinea
+- Eritrea
+- La Luna
+- Malabo
+- U.S.
+- United States
+people:
+- Ahmed Soliman
+- Isabella Mosselmans
+- Samson Birhane
+- Teodoro Obiang Nguema Mbasogo
+- Trump
+organisations:
+- Amnesty International
+- Global Litigation Council
+- The Associated Press
+- Trump
+- U.S. State Department
 ---
 
 Two men deported by the United States to Equatorial Guinea were arbitrarily arrested after police covered their heads with a bag, beat them and held them at gunpoint in a hotel-turned-detention center, their lawyers and rights groups said on Friday.

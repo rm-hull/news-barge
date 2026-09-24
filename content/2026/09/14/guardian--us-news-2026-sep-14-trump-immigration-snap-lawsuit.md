@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Chicago
+- Colorado
+- Connecticut
+- Delaware
+- District of Columbia
+- Hawaii
+- Illinois
+- King county
+- Maine
+- Maryland
+- Massachusetts
+- Michigan
+- Minnesota
+- Nevada
+- New Jersey
+- New Mexico
+- New York
+- New York City
+- Oregon
+- Pennsylvania
+- Rhode Island
+- San Francisco
+- Santa Clara
+- Seattle
+- US
+- Vermont
+- Virginia
+- Washington
+- Wisconsin
+people:
+- Joe Biden
+- Letitia James
+- Trump
+- Zohran Mamdani
+organisations:
+- Children’s Health Insurance Program
+- Congress
+- District of Columbia
+- Snap
+- Supplemental Nutrition Assistance Program
+- Trump
 ---
 
 A coalition of 22 states and the District of Columbia sued the Trump administration on Monday over a new policy that would allow individual immigration officers to deny green cards based on use of public benefits.

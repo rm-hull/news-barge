@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Capitol
+- Nashville
+- Tennessee
+people:
+- Alex Apple
+- Bill Lee
+- Dolly Parton
+- Freddie O'Connell
+- Lydia Popovich
+- Stuart McWhorter
+organisations:
+- Apple
+- FAA
+- Metropolitan Nashville Airport Authorities
+- Metropolitan Nashville Airport Authority
+- Nashville International Airport
+- O'Connell
+- The Associated Press
 ---
 
 In Nashville, Tennessee, the Republican-dominated state government and Democrat-controlled city government are engaged in an ugly battle for control of the city's airport.

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- King’s Sandringham
+- Norfolk
+- Royal Lodge
+- Windsor Great Park
+people:
+- Andrew Mountbatten-Windsor
+- Elizabeth
+- George VI
+- Jeffrey Epstein
+- Jordan Pettitt
+- Robin Edwards
+- Sarah Ferguson
+organisations:
+- Crown Estate
+- Curetons
+- Mail
+- National Audit Office
+- Royal Chapel of All Saints
+- Royal Lodge
+- The Independent
+- Treasury
 ---
 
 The Royal Lodge, which was formerly home to Andrew Mountbatten-Windsor, is set to go back up for lease.

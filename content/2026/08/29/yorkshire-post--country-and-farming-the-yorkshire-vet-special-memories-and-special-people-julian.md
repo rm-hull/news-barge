@@ -20,6 +20,26 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Calais
+- Cambridge
+- England
+- Murton Hall
+- Pembroke
+- Washington
+people:
+- Blue
+- David Williams
+- Edward III
+- Jack Russell
+- Jo Cox
+- Julian Norton
+- Mary De St Pol
+organisations:
+- Foreign Office
+- Pembroke College
+- School of Veterinary Medicine
+- Yorkshire Vet
 ---
 
 # The Yorkshire Vet: Special memories and special people - Julian Norton

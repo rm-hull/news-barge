@@ -12,6 +12,37 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- New York City
+- OpenAI
+- US
+people:
+- AI
+- Clément Delangue
+- Greg Brockman
+- Hugging Face
+- Jensen Huang
+- Kevin Durant
+- Richard Socher
+organisations:
+- AI
+- Addition
+- Amazon
+- Anthropic
+- Betaworks
+- Business Insider
+- CNBC Delangue
+- CUDA
+- Coatue
+- Hugging Face
+- Lux Capital
+- Meta
+- NBA
+- Nvidia
+- OpenAI
+- PitchBook
+- Sequoia Ventures
+- The Information
 ---
 
 Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for weeks, the companies made it official Thursday morning.

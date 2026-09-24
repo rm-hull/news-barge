@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Relationships & Dating
+locations:
+- Bournemouth
+- Dorset
+- Egypt
+- PA
+- United Kingdom
+people:
+- Chris Ison
+- Ms A
+- Sean Ell
+- Walid Ahmed
+organisations:
+- Ain Shams University
+- Bournemouth Crown Court
+- FaceTime
+- GP
+- MPTS
+- Medical Practitioners Tribunal Service
 ---
 
 A GP has been struck off after he developed a 'ridiculous paranoia' that his younger girlfriend was having an affair and forced her to check in every 15 minutes by messaging him.

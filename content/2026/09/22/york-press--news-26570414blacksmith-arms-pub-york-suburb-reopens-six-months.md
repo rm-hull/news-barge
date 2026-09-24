@@ -12,6 +12,16 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21485072.jpg?type=og-image
+locations:
+- Huntington
+- North Yorkshire
+- Sam Smith
+- York
+people:
+- Babs
+organisations:
+- Blacksmith Arms
+- Stonegate Taverns
 ---
 
 *(Image: Facebook: The Blacksmith Arms)*

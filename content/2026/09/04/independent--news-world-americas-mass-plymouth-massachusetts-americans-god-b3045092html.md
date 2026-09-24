@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- U.S.
+people:
+- Callan
+- God
+- Gregory Saathoff
+- Jennifer Sprague
+- Jennifer Tufts
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Patrick Clancy
+- Paul Zeizel
+- Paula Musgrove
+- Susan Clancy
+- William Sullivan
+organisations:
+- FBI’s Behavioral Analysis Unit
 ---
 
 A mistrial was declared in the Lindsay Clancy murder trial on Friday after jurors failed to reach a verdict on whether she was criminally responsible for killing her three young children at her Massachusetts home.

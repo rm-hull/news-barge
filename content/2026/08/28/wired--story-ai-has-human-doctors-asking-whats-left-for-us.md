@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- AI
+- Amazon
+- Dr. House
+- Penn
+people:
+- AI
+- Ari
+- Bill Gates
+- Ezekiel Emanuel
+- John Whyte
+- Neal Khosla
+- Rahm
+- Robby
+- Robert Wachter
+- Steven Levy’sBackchannel
+- Vinod Khosla
+organisations:
+- AI
+- AMA
+- American Medical Association
+- ChatGPT
+- Curai Health
+- Department of Medical Ethics and Health Policy
+- Emanuel
+- House
+- Journal of the American Medical Association
+- UCSF
+- VC
+- Vinod Khosla
 ---
 
 Don’t be fooled by the question mark in the title of an article published this month in the Journal of the American Medical Association. When the authors, including medical superstar Ezekiel Emanuel and venture capitalist Vinod Khosla, asked, “Will Autonomous AI Exceed AI-Physicians as the Best Medical Care?” they were being rhetorical. Their answer is an emphatic YES. Many in the medical world are begrudgingly coming to terms with the premise that patients can get the best treatment by a hybrid approach where doctors work in consultation with well-trained bots. But this article’s thesis is that AI *alone* can deliver the best outcomes.

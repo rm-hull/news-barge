@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- UK
+people:
+- Greggs
+organisations:
+- Asda
+- FSA
+- Food Standards Agency
+- Morrisons “Sometimes
+- Tesco
+- Waitrose Customer Care
 ---
 
 *(Image: Getty)*

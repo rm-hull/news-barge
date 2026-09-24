@@ -12,6 +12,57 @@ image: https://static.independent.co.uk/2026/09/05/20/2026-09-05T194829Z_2009750
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- European Russia
+- Ferosplavna
+- Iran
+- Kyiv
+- Middle East
+- Moscow
+- Norway
+- Poland
+- Russian Federation
+- Saratov
+- Soviet Union
+- U.S.
+- US
+- US-Russia
+- Ukraine
+- Volga
+- Washington
+- Zaporizhzhia
+people:
+- Adolf Hitler
+- Alexei Likhachev
+- Dmytro Gordon
+- Donald Trump
+- Jared Kushner
+- Natalie Wilson
+- Rafael Grossi
+- Roman Busargin
+- Ruslan Kravchenko
+- Steve Witkoff
+- Verkhovna Rada
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymry Zelensky
+- Volodymyr Zelensky
+organisations:
+- BBC Verify
+- EU
+- European Union
+- Foreign Ministry
+- IAEA
+- International Atomic Energy Agency
+- Kyiv Military Administration
+- Kyiv Post
+- NABU
+- Nato
+- Rosatom
+- Rosneft
+- SAPO
+- Telegram
 ---
 
 Donald Trump’s peace envoys Steve Witkoff and Jared Kushner have been confronted over their talks with “war criminal” Russian president Vladimir Putin.

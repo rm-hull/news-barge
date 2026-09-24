@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/14/06/2026-09-14T021020Z_1000114
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- Boston
+- North Carolina
+- U.S.
+- United States
+- Washington
+- Washington, D.C.
+- Wisconsin
+people:
+- Barack Obama
+- Carl J. Nichols
+- Donald Trump
+- Indira Talwani
+- Joe Biden
+organisations:
+- Congress
+- Postal Service
+- Supreme Court
+- Trump
+- U.S. District Court
+- U.S. Postal Service
 ---
 
 Efforts by the administration to reshape national voting rules have encountered another major legal hurdle after a federal judge ruled late Sunday that the U.S. Postal Service must not implement President Donald Trump’s executive order restricting mail-in balloting, just as the Supreme Court prepares to consider the matter.

@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Kensington
+- London
+- Westminster Magistrates' Court
+people:
+- Mickey Smith
+- Mike Cagney
+- Noel Clarke
+organisations:
+- BBC News
+- CPS
+- Crown Prosecution Service
+- Metropolitan Police
 ---
 
 ![Noel Clarke](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0bd3/live/d32e72b0-ac4a-11f1-96a2-2f464854ded4.jpg)

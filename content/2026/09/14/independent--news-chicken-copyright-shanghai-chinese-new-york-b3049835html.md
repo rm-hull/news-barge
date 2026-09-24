@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- NY
+- New York
+- Shanghai
+people:
+- Betty Liu
+organisations:
+- Little, Brown and Company
+- Voracious
 ---
 
 Deep-fry (zhà), a well-known technique where the food is fried in a pool of hot oil, which both cooks it and creates a crispy exterior, is used throughout the “Frying” chapter in my cookbook “The Chinese Way.”

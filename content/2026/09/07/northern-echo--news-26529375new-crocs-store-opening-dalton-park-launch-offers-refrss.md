@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Dalton Park
+- North East
+- North Yorkshire
+- Seaham
+- UK
+people:
+- Jibbitz
+organisations:
+- BOSS
+- Badge
+- Burberry
+- C.P. Company
+- Canada Goose
+- Lacoste
+- Moose Knuckles
+- Stone Island
+- Teesside Airport
+- The Crocs
 ---
 
 A major shoe retailer will launch a new store at Dalton Park shopping centre very soon.

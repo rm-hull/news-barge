@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Cape York
+- Great Barrier Reef
+- Queensland
+people:
+- Garrwa
+- Jacinta Nampijinpa Price
+- Lidia Thorpe
+- Malarndirri McCarthy
+- Pauline Hanson
+- Senator Hanson
+organisations:
+- First Nations
+- First Peoples
+- News24
+- One Nation
+- Torres Strait Islander
 ---
 
 Federal parliamentarians from across the political spectrum have joined in condemning resurfaced comments by Pauline Hanson as “nasty” and “derogatory”, after she labelled Indigenous Australians the “most primitive race on Earth”.

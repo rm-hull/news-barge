@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Florida
+- Miami International Airport
+- Puerto Rico
+- San Juan
+- US
+people: []
+organisations:
+- Amazon Prime Air
+- Federal Aviation Administration
+- Miami International Airport
+- Prime Air
 ---
 
 ## There was no immediate word on casualties in the incident involving a Boeing 767 operated by Amazon Prime Air, according to the Federal Aviation Administration and Miami International Airport.

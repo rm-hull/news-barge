@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/9635fdcc3219b058c16a65ef0c5ed078c38b14cd/1
 categories:
 - UK
 - News & Politics
+locations:
+- Dnipropetrovsk
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- Mykolaiv
+- Nikopol
+- Russia
+- US
+- Ukraine
+people:
+- Dmitry Peskov
+- Jared Kushner
+- Kirill Dmitriev
+- Kyiv
+- Oleksandr Hanzha
+- Steve Witkoff
+- Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Axios
+- Nato
+- SBU
+- Security Service
 ---
 
 The US envoys Steve Witkoff and Jared Kushner have arrived in Moscow to try to resuscitate a deal to end Russia’s invasion of Ukraine, as both sides said they would halt airstrikes for the visit.

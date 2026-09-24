@@ -14,6 +14,28 @@ categories:
 - UK
 - Law & Justice
 image: https://static.independent.co.uk/2026/08/31/21/San_Diego_Mosque_Shooting_66_6.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Christchurch
+- Forsyth County
+- Islamic Center
+- New Zealand
+- North Carolina
+- San Diego
+- Seattle
+people:
+- Alan Doorasamy
+- Amin Abdullah
+- Cain Clark
+- Caleb Vazquez
+- Gene Johnson
+- Jim O’Neill
+- Sarah Santiago
+organisations:
+- Doorasamy
+- Forsyth County District Attorney's Office
+- The Associated Press
+- \_\_\_ Associated Press
 ---
 
 The attorney for a North Carolina girl accused of helping two teens who carried out a deadly attack on a San Diego mosque says prosecutors haven’t provided enough information to allow him to defend his client.

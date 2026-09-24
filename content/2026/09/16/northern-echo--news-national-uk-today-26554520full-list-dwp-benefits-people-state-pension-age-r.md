@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Cymraeg
+- England
+- Iceland
+- London
+- Merseyside
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Dave Cawley
+- Martin Lewis
+organisations:
+- ASDA
+- Additional State Pension
+- Council Tax
+- DWP
+- HMRC
+- NHS
+- National Insurance
+- PIP
+- Pension Credit
+- Scotland
+- State Pension
+- State Pension Age
+- TV Licences TV
+- Tesco
+- Universal Credit
+- Waitrose
 ---
 
 *(Image: Getty Images)*

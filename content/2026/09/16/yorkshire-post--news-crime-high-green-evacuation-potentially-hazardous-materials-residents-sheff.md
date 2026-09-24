@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Beechwood Road
+- Entwhistle Road
+- Greenwood Road
+- Griffiths Road
+- Hawthorne Road
+- High Green
+- Mapplebeck Road
+- School Road
+- Sheffield
+- Worrall Road
+- Yorkshire
+people: []
+organisations:
+- SYP
+- Section 4
+- South Yorkshire Police
 ---
 
 # High Green, Sheffield: Residents evacuated from homes over 'potentially hazardous materials'

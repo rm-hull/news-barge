@@ -11,6 +11,31 @@ image: https://i.guim.co.uk/img/media/b37d309fa37fe726bec9660151f209e2b5f30d2a/3
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Idaho
+- Minnesota
+- Montana
+- New Mexico
+- Rocky Mountain
+- US
+- Washington
+- Wyoming
+people:
+- Brooke Rollins
+- Donald Trump
+- Doug Burgum
+- Leia Barnett
+- Michael Robinson
+organisations:
+- Center for Biological Diversity
+- Congress
+- ESA
+- Trump
+- US Fish and Wildlife Service
+- USFWS
+- WildEarth Guardians
+- interior department
 ---
 
 Donald Trump signed an executive order on Friday directing the interior department to consider de-listing gray wolves from the Endangered Species Act and to contemplate whether the agency could make it easier to authorize killing them.

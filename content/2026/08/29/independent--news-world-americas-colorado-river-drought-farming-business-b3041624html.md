@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Calexico
+- California
+- Cave Creek
+- Colorado River
+- Colorado River Indian Tribes
+- Elephant Butte Lake
+- Glen Canyon National Recreation Area
+- Green Mountain Reservoir
+- Guernsey Reservoir
+- Lake Mead
+- Lake Powell
+- Las Vegas
+- Nebraska
+- Nevada
+- New Mexico
+- North America
+- Phoenix
+- Rockies
+- Southwest
+- Texas
+- U.S. West
+- US West
+- Utah
+- Wahweap Marina
+- Wyoming
+- Yuma
+people:
+- Beef
+- David Mocko
+- John Boelts
+- Ray Martinez
+- Robert Morris
+- Tom Brundy
+- Tom Buschatzke
+organisations:
+- Arizona Department of Water Resources
+- Arizona Farm Bureau
+- Bureau of Reclamation
+- El Niño
+- Interior Department
+- U.S. Bureau of Reclamation
 ---
 
 Located on the outskirts of Phoenix, a small town hugely reliant on the Colorado River has restricted development, reopened disused wells and negotiated new water agreements.

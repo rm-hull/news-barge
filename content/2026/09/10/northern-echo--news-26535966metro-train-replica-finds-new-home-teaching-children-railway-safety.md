@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Germany
+- Gosforth Metro
+- Newcastle
+- Tyne
+- UK
+people:
+- Deborah Rodenby
+- Michael Richardson
+- Stadler
+- Steve Thomas
+organisations:
+- Nexus
+- Northumbria Police
+- SafetyWorks!
+- Stadler
+- Tyne and Wear Fire and Rescue Service
 ---
 
 *(Image: Nexus)*

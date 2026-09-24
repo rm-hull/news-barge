@@ -11,6 +11,33 @@ image: https://i.guim.co.uk/img/media/7e94ec1f1b8fe1586a342d6b0ca7904e1a743774/6
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- California
+- Long Beach
+- North Carolina
+- US
+- Wisconsin
+people:
+- Brett Kavanaugh
+- Clarence Thomas
+- Donald Trump
+- Indira Talwani
+- Joe Biden
+- Justice Alito
+- Kristen Clarke
+- Robert Garcia
+- Samantha Tarazi
+- Samuel Alito
+organisations:
+- Congress
+- DHS
+- Department of Homeland Security
+- District of Columbia
+- NAACP
+- Trump
+- USPS
+- Voting Rights Lab
 ---
 
 The supreme court on Monday rejected Donald Trump’s mail ballot restrictions for now, capping a flurry of last-minute legal action with voting in the midterm elections already underway.

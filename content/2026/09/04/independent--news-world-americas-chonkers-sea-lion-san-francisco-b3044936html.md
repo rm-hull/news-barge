@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Alaska
+- Bay Area
+- California
+- Chonkers’
+- Pier 39
+- San Francisco
+- San Francisco Bay
+- San Francisco Bay Area
+- Washington
+people:
+- Chonkers
+- Chonkers’
+- Giancarlo Rulli
+- Pier
+- Sheila Chandor
+- Sue Muzzin
+organisations:
+- Marine Mammal Center
+- Pier 39
+- Reddit
+- The Independent
+- Wall Street Journal
 ---
 
 Chonkers, the massive celebrity sea lion, has some competition, and the lookalike was ready for his close-up in San Francisco this week.

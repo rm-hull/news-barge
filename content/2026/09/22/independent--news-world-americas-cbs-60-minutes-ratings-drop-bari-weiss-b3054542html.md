@@ -12,6 +12,28 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/08/20/00/2253294279..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Israel
+- Texas
+people:
+- Cecilia Vega
+- David Ellison
+- Nick Bilton
+- Norah O’Donnell
+- Patrick Clancy
+- Ross Douthat
+- Scott Pelley
+- Sharyn Alfonsi
+- Weiss
+organisations:
+- 60 Minutes
+- AI
+- Bari Weiss’
+- CBS News
+- New York Times
+- Nielsen
+- Paramount
+- The Independent
 ---
 
 CBS News Editor-in-Chief Bari Weiss’ overhaul of *60 Minutes* continues to face challenges as the revamped show saw a big drop in viewers for its second week.

@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/5f102288b2d396ca87ffa246f9644c6e7310acc6/0
 categories:
 - UK
 - News & Politics
+locations:
+- Metropolitan
+people:
+- Dan Jukes
+- James Orr
+- Jonathan Reynolds
+- Laura Kuenssberg
+- Nigel Farage
+- Robert Jenrick
+organisations:
+- BBC
+- KC
+- Reform UK
+- Scotland Yard
+- Sky News
+- Treasury
 ---
 
 Nigel Farage has acknowledged the overseas donation row engulfing Reform UK “looks bad” for his party but denied it had ever taken foreign money in breach of electoral law.

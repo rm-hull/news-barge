@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Harvard
+- Iran
+people:
+- Adam Posen
+- Donald Trump
+- Jerome Powell
+- Kenneth Rogoff
+- Kevin Warsh
+- Lisa Cook
+- Scott Bessent
+organisations:
+- AI
+- Fed
+- Federal Reserve
+- Freddie Mac
+- Hawkish
+- International Monetary Fund
+- Peterson Institute for International Economics
+- Supreme Court
+- Treasury
+- then-Fed
 ---
 
 Federal Reserve Chair Kevin Warsh renewed his inflation-fighting credentials in a speech Frida y that opened the door to potential rate hikes in the coming months.

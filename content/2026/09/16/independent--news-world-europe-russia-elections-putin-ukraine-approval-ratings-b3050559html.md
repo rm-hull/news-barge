@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2026/09/13/12/2026-09-13T090611Z_1857358
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Kremlin
+- Lough
+- Moscow
+- UK
+- Ukraine
+- United Russia
+- United States
+people:
+- Boris Johnson
+- Donald Trump
+- John Lough
+- Richard Knighton
+- Vladimir Putin
+organisations:
+- Air
+- Communist Party
+- IKAR
+- Institute for the Study of War
+- Kyiv-based Institute for Conflict Studies and Analysis of Russia
+- Liberal Democrat Party of Russia
+- Nato
+- New Eurasian Strategies Centre
+- State Duma
+- Supreme Court
+- VTsIOM
+- Yabloko Party
 ---
 
 Russia is holding its first parliamentary elections this week since its full-scale invasion of Ukraine more than four years ago.

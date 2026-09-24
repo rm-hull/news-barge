@@ -10,6 +10,27 @@ description: Your firmware update for September 12, 2026
 image: https://cdn.mos.cms.futurecdn.net/9uDKjnAHacbb3zzxJ4frjB-2000-80.png
 categories:
 - Technology & Software
+locations:
+- Black
+- Burgundy
+- Glacier
+- Sonos’
+people:
+- Kirby
+- Matt Bolton
+- Matt Evans
+- Siri Recaps
+organisations:
+- Apple
+- DLSS 5
+- Duo
+- Gamers Nexus
+- Google News
+- Hamish
+- LG TVs
+- Nintendo Direct
+- Nvidia
+- TechRadar
 ---
 
 ![Link and Epona next to a Beam Ultra soundbar and iPhone 18 Pro.](https://cdn.mos.cms.futurecdn.net/9uDKjnAHacbb3zzxJ4frjB.png) 

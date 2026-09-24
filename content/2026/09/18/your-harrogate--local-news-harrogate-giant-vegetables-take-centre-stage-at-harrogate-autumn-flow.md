@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg
+locations:
+- Co Durham
+- Newby Hall & Gardens
+- Ripon
+- Seaham
+people:
+- Chris Marriott
+- Graham Haswell
+- Paul Proud
+- Stephen Purvis
+organisations: []
 ---
 
 ![](https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg)

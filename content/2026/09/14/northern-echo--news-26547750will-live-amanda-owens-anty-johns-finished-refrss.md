@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Everyman Northallerton
+- Forth Bridge
+- North East coast
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Stockton Fire
+- Upper Swaledale
+people:
+- Amanda Owen
+- Annas
+- Anthony Clarkson
+- Anty John
+- Clementine
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Owens
+- Raven
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John's
+- Channel 4
+- Farm Next Door
+- Our Farm Next Door
+- Royal Television Society
+- Yorkshire Dales
 ---
 
 Amanda and Clive Owen have spent years bringing a derelict Yorkshire Dales farmhouse back from the brink, but one major question about Anty John's remains unanswered.

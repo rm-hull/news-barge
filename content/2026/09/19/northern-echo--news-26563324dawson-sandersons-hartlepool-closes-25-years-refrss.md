@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21474246.jpg?type=og-image&xType=0&yType=0
+locations:
+- County Durham
+- Dawson
+- Hartlepool
+- North East
+- North of England
+- Sanderson
+- Teesside
+- UK
+people:
+- Dawson
+- Sanderson
+organisations:
+- Dawson & Sanderson
 ---
 
 *(Image: GOOGLE MAPS)*

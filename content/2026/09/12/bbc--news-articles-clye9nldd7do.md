@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+- Victoria and Albert Museum
+people:
+- Ben Delo
+- Christopher Harborne
+organisations:
+- BBC News
+- Conservative Party Summer Party
+- Reform UK
+- Telegraph
 ---
 
 ![Christopher Harborne arrives at the Victoria and Albert Museum during the Conservative Party Summer Party in 2022. He is a middle aged man with short grey hair in a suit and tie](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8bc4/live/92a5b5d0-d114-11f0-a892-01d657345866.jpg)

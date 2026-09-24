@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Piccadilly
+- Popular York
+- Spark York
+people:
+- Gabriel Macarthur
+- Nadia Jefferson-Brown
+- Sarah Pagan
+organisations:
+- Inky Print Designs
+- Raise the Roof Party
+- Spark York
 ---
 
 ## Popular York venue closes for days as major autumn change begins

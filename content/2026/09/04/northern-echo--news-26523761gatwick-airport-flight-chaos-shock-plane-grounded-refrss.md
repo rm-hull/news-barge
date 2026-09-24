@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Lapland
+- London Gatwick Airport
+- New York
+- North East
+- UK
+people:
+- Alice Kavanagh
+organisations:
+- ITV
+- JFK
+- John F Kennedy International Airport
+- London Gatwick Airport
+- Norse Atlantic Airways
+- Santa A London Gatwick
+- The Aviation Herald
+- York Press
 ---
 
 A Darlington woman has spoken of her shock after her Norse Atlantic Airways flight to New York was forced to make an emergency stop on the runway.

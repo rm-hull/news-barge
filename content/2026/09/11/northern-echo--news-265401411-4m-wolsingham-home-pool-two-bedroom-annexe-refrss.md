@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- County Durham
+- Holywood
+- Stanhope
+- Wolsingham
+people: []
+organisations:
+- Weardale Property Agency
 ---
 
 *(Image: Weardale Property Agency, Stanhope)*

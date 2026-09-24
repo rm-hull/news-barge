@@ -13,6 +13,17 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2024/07/15/15/newFile.jpg?width=1200&height=800&crop=1200:800
+locations:
+- East of England
+- West Midlands
+people:
+- Nicola Ranger
+organisations:
+- Department of Health and Social Care
+- England
+- NHS
+- RCN
+- Royal College of Nursing
 ---
 
 Severe nurse shortages are leaving unwell individuals "waiting hours" to receive pain relief while others are "deteriorating needlessly", experts have warned.

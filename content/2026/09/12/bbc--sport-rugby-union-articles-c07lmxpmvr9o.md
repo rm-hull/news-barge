@@ -13,6 +13,88 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Baltimore
+- Baltimore.
+- England
+- Johannesburg
+- Maryland
+- New Zealand
+- South Africa
+- USA
+people:
+- )**Pens:** Feinberg-Mngomezulu
+- :** Karl Dickson
+- :** McKenzie
+- :** Taylor
+- :** Willemse
+- :** de Allende
+- Andrew Jackson
+- B Barrett
+- Beauden Barrett
+- Boks
+- Cameron Hanekom
+- Christophe Ridley
+- Codie Taylor
+- Damian McKenzie
+- Damian de Allende
+- Dave Rennie
+- Eben Etzebeth
+- Esterhuizen
+- Ethan Blackadder
+- Fourie
+- Hanekom**Cons:** Feinberg-Mngomezulu
+- Hooker
+- Ioane
+- Jasper Wiese
+- Josh Moorby
+- Kriel
+- Kurt-Lee Arendse
+- Lakai Aumua
+- Libbok
+- Lienert-Brown
+- Lomax
+- Lord
+- Louw
+- Malcolm Marx
+- Matthew Carley
+- Morne van den Berg
+- Nche
+- New Zealand
+- Newell
+- Nortje
+- Numia
+- PS du Toit
+- Pieter-Steph du Toit
+- Preston
+- Rassie Erasmus
+- Reinach
+- Richie Mo'unga
+- Roigard
+- Sacha Feinberg-Mngomezulu
+- Sam Darry
+- Sititi
+- Siya Kolisi
+- Steenekamp
+- Tuipulotu
+- Vaa'i
+- Van den Berg
+- Wiese Replacements
+- Will Jordan
+- de Allende
+- de Groot
+- de Jager
+- du Toit
+- van den Berg
+organisations:
+- All Blacks
+- Boks'
+- Fourth TestSouth Africa
+- Irish Lions
+- M&T Bank Stadium
+- New Zealand
+- Siya Kolisi
+- Springboks
 ---
 
 ![South Africa captain Siya Kolisi applauds fans in Baltimore after the Springboks' win over New Zealand](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ae03/live/38959ac0-af02-11f1-af5c-49f655b484f8.jpg)

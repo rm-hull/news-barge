@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21488590.jpg?type=og-image
+locations:
+- Catterick Garrison
+- Hipswell Croft
+- Hipswell Road
+- North Yorkshire
+- YOUR
+people:
+- Colburn
+- Hipswell
+- Kevin Foster
+organisations:
+- Green Party
+- Hipswell Church of England Primary School
+- North Yorkshire Council
+- Portal A
+- Public Notice Portal
+- Summerhouse Development Ltd
 ---
 
 *(Image: Google)*

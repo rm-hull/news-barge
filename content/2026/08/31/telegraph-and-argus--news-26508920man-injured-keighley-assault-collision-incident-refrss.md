@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Cavendish Street
+- Keighley
+- Lawkholme Lane
+people: []
+organisations:
+- BMW
+- Bradford CID
+- Crimestoppers
+- UGC
+- West Yorkshire Police
 ---
 
 *(Image: UGC)*

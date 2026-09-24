@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Seacroft
+- YOUR
+- York Road
+people:
+- Aldi Seacroft
+organisations:
+- Aldi
+- CCTV
+- Leeds City Council
+- Public Notice Portal
+- West Yorkshire Police
 ---
 
 *(Image: Google)*

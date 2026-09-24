@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQ2NDBjYmMxLTA0NmYtNGM3NS04OWVhLWUzNjI1ZjEyZDAyYTo3MDE4NzBlMC0zODM2LTRhMWUtYjQ1ZS1lN2M0ZDdkMWU2NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- North Yorkshire
+people:
+- Billy Connolly
+- Simon Myers
+organisations:
+- North Yorkshire Council
 ---
 
 # North Yorkshire libraries thrive as almost two million visits are recorded in a year

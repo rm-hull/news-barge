@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- China
+- Oxfordshire
+- Tokyo
+people:
+- Bad Lieutenant
+- Ben Wheatley
+- Bernardo Bertolucci
+- David Bowie
+- David Cronenberg
+- David Mackenzie
+- Jeremy Thomas
+- Joan Chen
+- Jonathan Glazer
+- Julien Temple
+- Lawrence
+- Nagisa Oshima
+- Nicolas Roeg
+- Peter O'Toole
+- Qing
+- Stephen Frears
+- Takashi Miike
+- Vivian Wu
+organisations:
+- European Film Academy
+- Fast Food Nation
+- JG Ballard
+- Little Buddha
+- Roeg's Bad Timing
+- Stealing Beauty
+- The Dreamers
+- The Great Rock
+- The Sheltering Sky
 ---
 
 ![Jeremy Thomas smiling in orange tinted sunglasses and a shirt at the Cannes Film Festival in 2021](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg)

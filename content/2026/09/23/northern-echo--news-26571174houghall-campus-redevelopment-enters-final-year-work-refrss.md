@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Science
 image: https://www.thenorthernecho.co.uk/resources/images/21486642.jpg?type=og-image
+locations:
+- County Durham
+- Houghall Campus
+- North East
+- UK
+people:
+- Helen McCoy
+- Scott Bullock
+organisations:
+- '![]()Houghall Campus'
+- Department for Education
+- East Durham College
+- Houghall Campus
+- Jefferson Sheard Architects
+- Tilbury Douglas
 ---
 
 *(Image: Supplied)*

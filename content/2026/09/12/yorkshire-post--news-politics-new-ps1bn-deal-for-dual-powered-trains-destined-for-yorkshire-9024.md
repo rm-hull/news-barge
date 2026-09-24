@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Britain
+- Derby
+- Huddersfield
+- Leeds
+- Manchester
+- North of England
+- Transpenine
+- UK
+- York
+- Yorkshire
+people:
+- Andy Burnham
+- Chris Jackson
+- Heidi Alexander
+organisations:
+- Alstom Adessia Stream
+- British Railways
+- Government
+- TransPennine Express
+- Yorkshire
 ---
 
 # New £1bn deal for dual-powered trains destined for Yorkshire

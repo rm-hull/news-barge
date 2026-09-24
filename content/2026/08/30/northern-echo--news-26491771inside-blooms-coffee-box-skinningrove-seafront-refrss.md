@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Blooms
+- Car Park
+- Cleveland Way
+- Darlington
+- East Cleveland
+- North East
+- North Ormesby
+- Skinningrove Beach
+- Stokesley
+- Teesside
+people:
+- Blooms
+organisations:
+- Redcar
 ---
 
 This East Cleveland coffee spot with stunning sea views and sweet treats has attracted thousands of visitors who dub it a 'hidden gem'.

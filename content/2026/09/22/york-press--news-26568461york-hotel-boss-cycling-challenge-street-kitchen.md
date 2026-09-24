@@ -13,6 +13,26 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21482103.jpg?type=og-image
+locations:
+- Bosnia
+- Croatia
+- Dubrovnik
+- King’s Manor
+- Middlethorpe Hall
+- Mostar
+- York
+people:
+- Jayne Venables
+- Lionel Chatard
+organisations:
+- HAY
+- HOPING Street Kitchen
+- HOPING York Street Kitchen
+- Hospitality Association York
+- Lionel’s
+- Middlethorpe Hall Hotel
+- Spa
+- Think Yorkshire Dales meets M&S
 ---
 
 *(Image: Supplied)*

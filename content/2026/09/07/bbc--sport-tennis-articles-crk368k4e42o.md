@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- China
+- New York
+- Osaka
+people:
+- Aryna Sabalenka
+- Elena Rybakina
+- Elene Rybakina
+- Iga Swiatek
+- Louis Armstrong Stadium
+- Naomi Osaka
+- Zheng Qinwen
+organisations:
+- Osaka
 ---
 
 ![Elene Rybakina celebrates beating Naomi Osaka at the US Open](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/00ab/live/06e41e10-ab07-11f1-ae93-9908ac6d5d2d.jpg)

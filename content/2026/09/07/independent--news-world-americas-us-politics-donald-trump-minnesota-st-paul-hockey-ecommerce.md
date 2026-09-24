@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Asia
+- Brantford
+- Canada
+- China
+- Mexico
+- Minnesota
+- Ontario
+- St. Paul
+- Thailand
+- U.S.
+- US
+- Vietnam
+- Washington
+- White House
+people:
+- Bauer
+- Chris Douglas
+- Donald Trump
+- Evan Solomon
+- Graeme Roustan
+- John Merola
+- Kelly Rand
+- Mark Carney
+- Todd Smith
+organisations:
+- B&R Sports
+- CCM
+- HockeySkates DB
+- National Hockey League
+- Roustan Hockey
+- Sports & Fitness Industry Association
+- True Hockey
+- U.S. International Trade Commission
+- USA Hockey
+- University of Michigan-Flint
 ---
 
 In St. Paul, Minnesota, Kelly Rand’s twin teenage sons are going through constant growth spurts, forcing their family to buy replacement hockey equipment almost constantly.

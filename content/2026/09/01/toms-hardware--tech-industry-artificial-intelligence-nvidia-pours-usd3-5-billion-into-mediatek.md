@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Anton Shilov
+- Jensen Huang
+- Tom
+organisations:
+- AWS
+- DGX Spark
+- Get Tom's Hardware
+- Google News
+- HBM
+- MediaTek
+- Meta
+- Microsoft
+- NVLink Fusion
+- Nvidia AI
+- OpenAI
+- Tom’s Hardware
+- XPU
 ---
 
 ![Nvidia, MediaTek](https://cdn.mos.cms.futurecdn.net/7XbSjSphvUtP8gceNGaUGZ.png) 

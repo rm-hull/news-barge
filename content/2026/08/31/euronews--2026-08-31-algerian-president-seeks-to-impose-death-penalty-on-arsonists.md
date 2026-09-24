@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Society & Culture
 - Health & Fitness
+locations:
+- Algeria
+- Béjaïa
+- Jijel
+- Sétif
+- Tizi Ouzou
+people:
+- Abdelmadjid Tebboune
+- Saïd Sayoud
+organisations: []
 ---
 
 ## Algeria declared three days of mourning after wildfires killed 12 people and injured dozens. Authorities said 46 fires remained active, with 54 people hospitalised for burns, including six in critical condition.

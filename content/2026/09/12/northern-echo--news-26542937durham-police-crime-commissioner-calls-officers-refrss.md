@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Cleveland
+- Greater Manchester
+people:
+- Joy Allen
+- Matthew Blades
+- Ms Allen
+- Stephen Watson
+- Tom Clough
+organisations:
+- Durham Police
 ---
 
 *(Image: Supplied)*

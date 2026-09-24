@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/NHvGYFb8onGvLuSYqJXvGL-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Craig Hale
+- Leonie Brinkema
+- Stanley Woodward Jr
+organisations:
+- AdX
+- Craig’s
+- DOJ
+- Department of Justice
+- Google News
+- Reuters
+- TechRadar Pro
 ---
 
 ![Google Ads](https://cdn.mos.cms.futurecdn.net/NHvGYFb8onGvLuSYqJXvGL.jpg) 

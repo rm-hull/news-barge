@@ -12,6 +12,60 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- CA
+- Canada
+- New Zealand
+- Orange
+- Seattle
+- UK
+- US
+- uk
+people:
+- AJ Brown
+- Aatif Sulleyman
+- Drake Maye
+- Kenneth Walker III
+- Klint Kubiak
+- Mike Macdonald
+- Mike Vrabel
+- Will Campbell
+organisations:
+- ABC
+- AU
+- Aatif
+- Blue Plan
+- CBS
+- DAZN
+- ESPN Unlimited
+- Fox
+- Future Publishing
+- Gizmodo
+- Hawks
+- IPVanish
+- Instagram
+- Kayo Sports
+- Kayo Sports**
+- NBC
+- NFL Network
+- NOW Sports
+- New England
+- New England Patriots
+- Newsweek
+- Pats
+- Peacock
+- Seahawks
+- Seattle
+- Sky Sports
+- Sling TV
+- Sling TV Watch Patriots
+- TVNZ
+- The Independent
+- TikTok
+- Trusted Reviews
+- Twitter
+- YouTube
 ---
 
 ![New England Patriots teammates Drake Maye and AJ Brown in conversation](https://cdn.mos.cms.futurecdn.net/vL3TF7FWGb6m9PSUBCMvBM.jpg) 

@@ -15,6 +15,17 @@ categories:
 - Society & Culture
 - Travel
 - News & Politics
+locations:
+- Harrogate
+- Knaresborough Road
+- North Yorkshire
+- The Stray
+- Wetherby Road
+people:
+- Moore
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

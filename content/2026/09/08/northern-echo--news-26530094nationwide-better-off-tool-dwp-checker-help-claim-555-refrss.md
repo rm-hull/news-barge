@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- A1
+- Darlington
+- M
+- Nationwide
+- North East
+- UK
+people:
+- David Parry
+- Kathryn Townsend
+organisations:
+- Head of Customer Vulnerability at Nationwide
+- Nationwide and Action for Children
+- PA Wire
+- Universal Credit
+- Virgin Money
 ---
 
 *(Image: David Parry/PA Wire)*

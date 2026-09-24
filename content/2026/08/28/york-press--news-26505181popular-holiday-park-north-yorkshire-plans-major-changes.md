@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Filey
+- North Yorkshire
+- Primrose Valley
+- Primrose Valley Holiday Park
+- Scarborough
+- YOUR
+people: []
+organisations:
+- Bourne Leisure
+- Google Maps
+- Haven Leisure
+- Highway Authority
+- Newsquest
+- Primrose Valley Holiday Park Entrance
+- Public Notice Portal
 ---
 
 ## Caravan numbers could be cut at this popular North Yorkshire holiday park

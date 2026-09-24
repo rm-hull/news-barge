@@ -14,6 +14,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Elland
+- Fylingthorpe
+- Harrogate
+- Lincoln House
+- Thorpe Lane
+- West Yorkshire
+- Whitby
+people:
+- David John Wiggins
+organisations:
+- CB Business Recovery
+- Companies House
+- Engensia Design Ltd
+- FK Building Ltd of Harrogate
+- HMRC
+- Northern Echo
 ---
 
 *(Image: Northern Echo)*

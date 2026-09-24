@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482238.jpg?type=og-image
+locations:
+- Ireland
+- Leeds Bradford Airport
+- Monty’s Diner
+people:
+- Monty
+- Monty’s Diner
+- Stuart Buchanan
+- Vincent Hodder
+organisations:
+- Kitchen
+- LBA
+- Leeds Bradford Airport
+- Monty’s Diner
+- SSP UK
+- SSP UK & Ireland
+- Tap + Brew Craft Beer Bar
+- UGC
 ---
 
 *(Image: UGC)*

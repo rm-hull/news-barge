@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Britain
+- Carlisle
+- Coventry
+- England
+- London
+- Manchester
+- Rochdale
+- UK
+- Wales
+people:
+- Annie
+- Baroness Casey
+- Baroness Louise Casey
+- Carlene Firmin
+- Christine
+- Connie Muttock
+- Holly
+- Rebecca Riggs
+- Sue Berelowitz
+- Violet She
+- Yvette Cooper
+organisations:
+- '***BBC'
+- BBC Two
+- Centre for Young Lives
+- Children's Commission for England
+- Criminal Injuries Compensation Board
+- Durham University
+- Forgotten Girls
+- Holly
+- Independent Inquiry into Grooming Gangs
+- National Crime Agency
+- National Police Chiefs' Council
+- University of Sheffield
 ---
 
 ‘We were raped and exploited by a drug gang as teenagers’

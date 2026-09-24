@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- US
+people:
+- Mark Tyson
+- Tom
+organisations:
+- Astra
+- Google News
+- Nintendo
+- OpenAI
+- Tom's Hardware
 ---
 
 ![Super Smash Bros Melee on Amazon](https://cdn.mos.cms.futurecdn.net/RzJQVMAATHK7Y42HangAo8.jpg) 

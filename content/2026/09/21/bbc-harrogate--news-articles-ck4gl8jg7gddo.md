@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79ae/live/2c977560-b5a9-11f1-abe6-535e7b14de4c.jpg
+locations:
+- Greater Manchester
+- Larbert
+- Scarborough
+- Scotland
+- UK
+people:
+- Alexander Dennis
+- Andy Burnham
+- Dan Stephens
+organisations:
+- Alexander Dennis
+- Bee Network
+- Liverpool City Region
+- Transport for London
+- Unite
 ---
 
 ![A person in a red top and blue trousers works on the underside of a bus which is in the air, raised up at a factory.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/79ae/live/2c977560-b5a9-11f1-abe6-535e7b14de4c.jpg)

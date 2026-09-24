@@ -11,6 +11,30 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/apple-maps-lake-america
 categories:
 - News & Politics
 - Technology & Software
+locations:
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- North America
+- U.S.
+- United States
+people:
+- Trump
+organisations:
+- Apple Maps
+- ChatGPT
+- GNIS
+- Geographic Names Information System
+- Google Maps
+- Google’s Play Store
+- Interior Department
+- MapQuest
+- No. 1
+- No. 6
+- Trump
 ---
 
 Apple has followed Google’s lead and officially changed the name of Lake Ontario to “Lake America” on its Apple Maps service less than a week after President Trump ordered the change.

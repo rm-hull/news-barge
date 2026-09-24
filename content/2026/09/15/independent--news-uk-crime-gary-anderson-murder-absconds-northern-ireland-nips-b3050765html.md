@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Grafton Street
+- Londonderry
+people:
+- '![Anderson'
+- Gary Anderson
+- Karol Kelly
+- Ms Long
+- Naomi Long
+- Sean Anderson
+- Trevor Clarke
+organisations:
+- Assembly
+- Crimestoppers
+- DUP
+- Justice
+- Northern Ireland Prison Service
+- PSNI
+- Police Service of Northern Ireland
+- Prison Service
 ---
 
 A murderer who absconded while temporarily out of prison had his initial application for compassionate release refused – only for a court to overturn the decision, the Justice minister had said.

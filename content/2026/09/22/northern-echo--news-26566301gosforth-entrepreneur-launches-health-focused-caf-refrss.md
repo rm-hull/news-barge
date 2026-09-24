@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21479068.jpg?type=og-image
+locations:
+- Biscoff
+- Gosforth High Street
+- North East
+- Northumberland Coastal
+people:
+- Kult
+- LAUREN PETERS
+- Mark Graham
+organisations:
+- KULT
+- LAUREN PETERS
+- The Brandling Arms
+- The Gym Group
 ---
 
 A North East entrepreneur has opened a wellness café after leaving his job managing community facilities and school lettings to pursue his passion for coffee, fitness and nutrition.

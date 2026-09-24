@@ -12,6 +12,58 @@ image: https://static.independent.co.uk/2026/09/07/06/2293376208..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Al Jawf
+- Ali Taher
+- Central Corrective Facility
+- Hazm
+- Ilam
+- Iran
+- Iraq
+- Israel
+- Kermanshah
+- Kfar Rumman
+- Kharg Island
+- Lebanon
+- Middle East
+- Mideast
+- Persian Gulf
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- Vienna
+- Washington
+- Yemen
+people:
+- Ahmad Karami
+- Al-Saedi
+- Anees al-Asbahi
+- Donald Trump
+- Kpler
+- Mohsen Rezaei
+- Rafael Grossi
+- Saadoun al-Saedi
+- Yahya Saree
+organisations:
+- Board of Governors
+- Financial Times*/Focaldata
+- Hezbollah
+- Houthi al-Masirah
+- IAEA
+- International Atomic Energy Agency
+- Islamic Revolutionary Guard Corps
+- Kpler
+- Nournews
+- Qassem Basir
+- Supreme National Security Council
+- Trump
+- UN
+- US West Texas Intermediate
+- Yemeni Armed Forces
 ---
 
 Iran has said it will unveil new sanctions for ships trying to pass through the Strait of Hormuz following a weekend of renewed exchanges with the United States, casting fresh doubt on progress towards an end to the six month conflict.

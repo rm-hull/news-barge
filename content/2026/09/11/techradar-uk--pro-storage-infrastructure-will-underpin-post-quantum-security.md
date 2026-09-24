@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- AI
+- EMEAI Field Engineering at WD
+- Future plc
+- NIST
+- PQC
+- TechRadar Pro
+- TechRadarPro
+- Western Digital
 ---
 
 ![Digital representations of phones and cards in slots](https://cdn.mos.cms.futurecdn.net/M6fvPLRyP9CRCBwfYj7mxL.jpg) 

@@ -11,6 +11,21 @@ description: Tan argues that frontier models themselves trained on public human 
 image: https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801
 categories:
 - Technology & Software
+locations:
+- AI
+- Silicon Valley
+- U.S.
+people:
+- Dario Amodei
+- Garry Tan
+organisations:
+- API
+- American AI
+- Anthropic
+- CNBC
+- TechCrunch
+- U.S. AI
+- Y Combinator
 ---
 
 When it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping regulators stay out of it. In fact, he thinks U.S. AI labs should perhaps play the same game.

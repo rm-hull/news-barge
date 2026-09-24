@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Delhi
+- Hostel Daze
+- Satya Niketan
+people:
+- Delhi Rekha Gupta
+organisations:
+- ANI
+- Delhi Police
+- Delhi University
+- NDRF
+- NDTV
+- National Disaster Response Force
+- National Students' Union of India
+- Times of India
 ---
 
 Rescuers race to free people trapped after building collapse in Delhi

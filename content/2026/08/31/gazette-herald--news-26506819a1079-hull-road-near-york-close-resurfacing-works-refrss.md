@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1079 Hull Road
+- Bore Tree Baulk
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Elvington
+- Grimston Bar
+- Grimston Court
+- Hagg Lane
+- Kevin Glenton
+- Kexby Bridge
+- Kingston-upon-Hull
+- River Derwent
+- York Road
+- Yorkshire Wolds
+people:
+- Kevin Glenton
+organisations:
+- A1079
+- City of York Council
+- The Scrap Box
 ---
 
 CLOSURES are planned for a major road outside York while resurfacing work is carried out.

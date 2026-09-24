@@ -14,6 +14,10 @@ categories:
 - Germany
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Senate Chancellery
 ---
 
 © dpa

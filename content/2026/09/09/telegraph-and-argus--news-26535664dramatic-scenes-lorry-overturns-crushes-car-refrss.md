@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Dewsbury
+- Dick Lane
+- Laisterdyke
+- Leeds
+- New Lane
+- Wakefield
+people: []
+organisations:
+- EFR Skips & Waste Recycling
+- Newsquest
+- Telegraph & Argus
 ---
 
 *(Image: Newsquest)*

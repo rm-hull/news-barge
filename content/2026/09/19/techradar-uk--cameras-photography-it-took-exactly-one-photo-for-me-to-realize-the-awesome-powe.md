@@ -11,6 +11,25 @@ description: Here is the tale of my first day with the iPhone 18 Pro Max's new v
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/rMgvAVoqfjHoxgrrXfFHke-2000-80.jpg
+locations: []
+people:
+- Lance Ulanoff
+organisations:
+- Apple
+- BBC
+- CNBC
+- CNN
+- Gertrude Stein
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Portrait Mode
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![iPhone 18 Pro variable shutter test](https://cdn.mos.cms.futurecdn.net/rMgvAVoqfjHoxgrrXfFHke.jpg)

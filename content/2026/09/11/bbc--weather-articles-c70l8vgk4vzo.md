@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- 23C
+- England
+- Lerwick
+- London
+- Midlands
+- Northern Ireland
+- Norwich
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- BBC Weather
 ---
 
 ![A woman in a green and white striped shirt holds an electric fan to her face during a heatwave](https://ichef.bbci.co.uk/ace/standard/957/cpsprodpb/74ae/live/dbca3ce0-adeb-11f1-9a5c-a7a4083eb832.png)

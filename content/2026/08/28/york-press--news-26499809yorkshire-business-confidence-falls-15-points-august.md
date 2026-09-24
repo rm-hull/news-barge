@@ -13,6 +13,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '## Yorkshire'
+- UK
+people:
+- Martyn Kendrick
+organisations:
+- Business Barometer
+- Lloyds
+- Yorkshire
 ---
 
 ## Yorkshire business confidence drops sharply despite firms backing growth

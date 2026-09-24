@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- St George's Hall
+people:
+- Diana
+- George Michael
+- Katie Price
+- Sally Morgan
+organisations:
+- Bradford
 ---
 
 *(Image: Submitted)*

@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Black Bridges
+- Bright Angel Canyon
+- Bright Angel Creek
+- Bright Angel Creek Basin
+- Colorado River
+- Cottonwood Campground
+- Deer Creek Narrows
+- Dragon Bravo Fire
+- Grand Canyon
+- Grand Canyon National Park
+- Grand Canyon Village
+- North Kaibab
+- North Kaibab Trail
+- Phantom Ranch
+- Silver
+- Transcanyon Waterline
+people:
+- Joelle Baird
+organisations:
+- American Red Cross
+- Arizona Department of Public Safety
+- Grand Canyon High School
+- NPS
+- National Park Service
+- National Weather Service
+- Park Service
+- The New York Times
+- The Washington Post
 ---
 
 Fifteen people remained unaccounted for after dozens of people were rescued following a “significant flash food” in the Grand Canyon, according to park officials.

@@ -14,6 +14,22 @@ categories:
 - Lifestyle & Fashion
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21489111.jpg?type=og-image
+locations:
+- A164
+- Bentley Bridge
+- Beverley's Minster Way
+- Dunflat Road
+- Humber Bridge
+- Jock's Lodge
+- Kingston-upon-Hull
+- Lincoln Way
+- Skidby
+- York
+- Yorkshire
+people: []
+organisations:
+- A164
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

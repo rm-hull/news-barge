@@ -14,6 +14,69 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Bradford Road
+- Broomfield Mills
+- Cleckheaton Cheapside
+- Cleckheaton Memorial Park
+- Cleckheaton Spenborough Town Hall Elymas Wadsworth
+- Cleckheaton Town Hall
+- Cleckheaton’s Old Cemetery
+- Cleckheckmondsedge
+- Heaton Street Cleckheaton
+- Horncastle Mills
+- Hudson
+- Lancashire & Yorkshire Railway
+- Manchester
+- Market Street
+- Memorial Park
+- Moorbottom
+- Obadiah Brooke’s
+- Queen Victoria
+- SPEN Valley
+- Spen Valley
+- Valley Road
+- West Riding
+- West Yorkshire
+people:
+- Brookes
+- Cleckheaton
+- Elymas Wadsworth
+- George Anderton George Anderton
+- George Frampton
+- Gillian Cookson
+- H Derwent Wood
+- Joah Phelon
+- Lizzie Jowett
+- Mawson
+- Moore Joah Phelon
+- Obadiah Brooke Obadiah Brooke
+- Richard Moore
+organisations:
+- Barclays Bank
+- British Army
+- British School
+- Building Committee
+- Cleckheaton Cat
+- Local Board
+- Panther Owners Club pantherownersclub.com
+- Panthers
+- Phelon & Moore
+- Phelon and Moore Ltd
+- RAF
+- Redistribution of Seats Act
+- Royal Flying Corps
+- Russian Army
+- Spen Valley
+- Spen Valley Civic Society
+- Spen Valley Parliamentary Division
+- Tannery
+- Technical Institute
+- Victoria Mills
+- Voluntary Aid Detachment
+- West Riding County Council
+- Whitcliffe Mount Secondary School
+- first Mechanics Institute
 ---
 
 SPEN Valley covers an area in the centre of the West Yorkshire conurbation jokingly called Cleckheckmondsedge because of the quirky names of its villages and small towns.

@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- North Yorkshire
+- Tees, Esk
+- York
+people:
+- Emily McIver
+organisations:
+- Tees, Esk and Wear Valleys NHS Foundation Trust
+- Wear Valleys NHS Foundation Trust
+- Wellbeing in Mind team
 ---
 
 *(Image: Tees, Esk and Wear Valleys NHS Foundation Trust)*

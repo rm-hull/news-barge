@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Alberta
+- Calgary
+- Greece
+- NY
+- New York
+- New York City
+people:
+- Maria Koutsogiannis
+organisations:
+- Little, Brown and Company
+- Voracious
 ---
 
 The chapter on main dishes in my cookbook, “Greek Out,” starts with an explanation of what “main dish” means to me.

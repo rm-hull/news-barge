@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hull
+- Ireland
+- Manchester
+- UK
+people:
+- Kevin Sinfield
+- Rob Burrow
+organisations:
+- Leeds Rhinos
+- MND
+- Matthew Merrick Photography
+- Rugby League
 ---
 
 *(Image: Matthew Merrick Photography)*

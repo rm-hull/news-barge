@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Cornwall
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Jeremy Moody
+- Tom Bradshaw
+organisations:
+- CAAV
+- Central Association for Agricultural Valuers
+- Defra
+- Environment Department
+- Keep Britain Growing Loan
+- NFU
+- National Farmers’ Union
 ---
 
 # Farmers call for interest-free loans to protect next year's food production

@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- California
+- Sierra Nevada
+- US
+people: []
+organisations: []
 ---
 
 # Watch: Helicopter hovers feet from cliff face during rescue

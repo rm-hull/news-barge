@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- California
+- Palm Desert
+- Riverside
+- The Enclave
+people:
+- Molly Smith
+- Vicky Kyung Mi Kim
+organisations:
+- KESQ News Channel 3
+- SF Gate
 ---
 
 A 65-year-old California woman has been arrested on suspicion of murder after allegedly fatally wounding her husband with a flagpole, according to SF Gate.

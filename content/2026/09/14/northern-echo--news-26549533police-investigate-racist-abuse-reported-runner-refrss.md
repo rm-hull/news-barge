@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Newcastle
+- North East
+- South Shields
+people:
+- Andy Burnham
+- Emma Kirk-Odunubi
+- Hate
+- Ms Kirk-Odunubi
+- SARAH CALDECOTT
+organisations:
+- Great Run Company
+- Instagram
+- Northumbria Police
 ---
 
 A runner faced the "worst experience" as she was subjected to racial abuse while taking part in the Great North Run over the weekend.

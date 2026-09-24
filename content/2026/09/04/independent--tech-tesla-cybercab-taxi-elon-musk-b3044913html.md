@@ -14,6 +14,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Austin
+- Florida
+- Texas
+people:
+- Elon Musk
+organisations:
+- Cybercab
+- Cybercabs
+- Musk
+- National Highway Traffic Safety Administration
+- Tesla
 ---
 
 Federal regulators have opened an investigation into whether Tesla's new driverless taxis adhere to safety standards, just one day after the company began offering rides in the vehicles.

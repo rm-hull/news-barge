@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Al-Saada
+- Dahab
+- Dahab-Nuweibaa
+- Egypt
+- Ismailia
+- Nuweiba
+- Red Sea
+- South Sinai
+- South Sinai Governorate
+people:
+- Khaled Abdel Ghaffar
+organisations:
+- AFP
+- Health and Population
 ---
 
 Sixteen people were killed and 28 injured in a bus accident in eastern Egypt on Wednesday, local authorities have said.

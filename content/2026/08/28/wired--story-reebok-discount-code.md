@@ -13,6 +13,19 @@ categories:
 - Technology & Software
 - Science
 - Sports
+locations: []
+people:
+- Shaquel O’ Neal
+- Ted Baker
+organisations:
+- Adidas
+- Authentic Brands Group
+- Authentics Membership
+- Back to School
+- Billabong
+- Hunter
+- Reebok Floatzig
+- Reebok basketball
 ---
 
 If you’ve been outside, to the gym, or on a basketball court, there’s a good chance you’ve seen someone wearing Reeboks. The brand has had its fair share of ups and downs, but is riding a wave of increased interest driven by smart business moves like a refocus on sports and lifestyle, alongside a number of high-profile collaborations like the Reebok G-Unit G6 50 Cent.

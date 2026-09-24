@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Ashland Drive
+- Houma
+- Louisiana
+- Terrebonne
+people:
+- Kaegan Jude Solet
+organisations: []
 ---
 
 Police arrested a person of interest after a series of stabbings in Houma, Louisiana, left at least four people dead and another person in critical condition in hospital.

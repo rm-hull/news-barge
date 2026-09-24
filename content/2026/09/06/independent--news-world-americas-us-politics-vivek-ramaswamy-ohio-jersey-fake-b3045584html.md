@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/09/06/18/03/HReMW83boAAIHuq.jpeg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- Buckeyes'
+- Columbus
+- Harvard
+- NY
+- New York City
+- Ohio State
+people:
+- Amy Acton
+- Forbes
+- Vivek Ramaswamy
+organisations:
+- Acton
+- Ball State
+- OSU
+- Ohio State
+- The Independent
+- Walmart
 ---
 
 Ohio governor hopeful Vivek Ramaswamy was mocked online after attending Ohio State’s home opener in what commenters described as a “knockoff” jersey.

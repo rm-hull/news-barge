@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Amazon
+people:
+- Tom
+organisations:
+- Amazon
+- Asus TUF Gaming OC
+- GPU
+- Get Tom's Hardware
+- Google News
+- Joes Tech Shop
+- Micro Center
+- Newegg
+- Nvidia
+- Slava Computers
+- Team Green
+- TheyStoppedit
+- Tom’s Hardware
 ---
 
 ![GeForce RTX graphics card](https://cdn.mos.cms.futurecdn.net/BYTkHA2dMgKEFWWVubRZYM.jpg) 

@@ -12,6 +12,30 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Grandstand and Paddock Enclosure
+- Old Malton
+- Open Yards
+- York Racecourse
+people:
+- Adrian Keatley
+- Beck Edmunds
+- Craig Lidster
+- John Wainwright
+- Mick & David Easterby
+- Mike Sowersby Jack Berry House
+- Ollie Pears
+- Richard & Peter Fahey
+- Sara Ender
+- Suzzanne France
+organisations:
+- ARC
+- Arena Racing Company
+- Injured Jockey’s Fund
+- Racing Welfare
+- Racing Welfare’s Community Engagement Manager
+- York Racecourse
+- YorkMix Family Raceday
 ---
 
 *(Image: Freelancer)*

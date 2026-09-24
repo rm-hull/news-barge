@@ -14,6 +14,31 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21482051.jpg?type=og-image
+locations:
+- Anglesey
+- Britain
+- Europe
+- Hamburg
+- Hartlepool
+- Newcastle
+- North East
+- North Wales
+- UK
+- US
+people:
+- Chris Cholerton
+- Jonathan Reynolds
+- Simon Roddy
+organisations:
+- AI
+- CA Parsons Works
+- Centrica
+- Government
+- Great British Energy-Nuclear
+- Gwyndod
+- Rolls-Royce SMR
+- Siemens Energy
+- X-Energy
 ---
 
 *(Image: Supplied)*

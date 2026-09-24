@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Benidorm Benidorm
+- Bradford
+- Keighley
+people:
+- '### Friends'
+- '### Jamie'
+- Gary Mullen
+- Gaz Mullen
+- Jamie Mullen
+organisations:
+- Suicide
+- Survivors of Bereavement
 ---
 
 A Keighley man will complete a 1,400-mile cycle ride in memory of his brother, who died by suicide.

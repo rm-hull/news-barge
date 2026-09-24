@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bishopton Road
+- Deal Court
+- Fairfield Road
+- Grove Hill
+- Middlesbrough
+people: []
+organisations:
+- Cleveland Police
+- Hazardous Area Response Team
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

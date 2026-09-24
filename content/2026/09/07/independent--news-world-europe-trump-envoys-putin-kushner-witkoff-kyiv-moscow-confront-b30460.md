@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/09/07/16/2293369355..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- France
+- Germany
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- U.S.
+- UK
+- US
+- Ukraine
+people:
+- Dmitry Peskov
+- Dmytro Gordon
+- Donald Trump
+- Jared Kushner
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Kyiv Post
 ---
 
 Donald Trump’s peace envoys Steve Witkoff and Jared Kushner have been confronted over their talks with “war criminal” Russian president Vladimir Putin.

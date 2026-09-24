@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bishop Auckland
+- Darlington
+- Edinburgh
+- Hartlepool
+- Lake District
+- Liverpool
+- Newcastle
+- North East
+- North Yorkshire
+- Northumberland
+- Tees Valley
+- Teesside
+- UK
+- Whitehall
+people:
+- Allen Simpson
+- Angela Rayner
+- Ben Houchen
+- Henri Murison
+- Kim McGuinness
+- Richard Bond
+organisations:
+- BBC Radio 4
+- Finest Retreats
+- Government
+- Labour
+- Liverpool
+- Local Democracy Reporting Service
+- Manchester
+- Metro
+- National Insurance
+- Northern Powerhouse Partnership
+- Treasury
+- UK Hospitality
 ---
 
 Metro mayors in the North East will be given the power to introduce a new tourist tax.

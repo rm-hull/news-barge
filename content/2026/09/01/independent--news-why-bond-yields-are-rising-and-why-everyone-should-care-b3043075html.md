@@ -14,6 +14,32 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+- Asheville
+- Iran
+- Japan
+- Middle East
+- N.C.
+- U.K.
+- U.S.
+- Ukraine
+people:
+- Kevin Warsh
+- Larry Kudlow
+- Robin Brooks
+- Scott Bessent
+organisations:
+- Brookings Institute
+- COVID
+- Congressional Budget Office
+- European Central Bank
+- European Union
+- Federal Reserve
+- Fox Business
+- Macquarie
+- Treasury
+- U.S. Treasurys
 ---
 
 Interest rates on government bonds are rising again around the world, making borrowing more expensive for consumers and businesses and heightening concerns about whether governments are issuing more debt than financial markets can handle.

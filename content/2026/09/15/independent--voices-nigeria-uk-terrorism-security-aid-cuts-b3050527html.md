@@ -13,6 +13,34 @@ image: https://static.independent.co.uk/2026/09/15/14/2294821007..?trim=3,0,3,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Abuja
+- Africa
+- English Channel
+- Europe
+- Libya
+- Nigeria
+- Sahel
+- UK
+people:
+- Jonathan Powell
+- Sarah Champion
+organisations:
+- ActionAid
+- House of Commons’ International Development Committee
+- Integrated Security Fund
+- International Development Committee
+- Labour
+- Mary Dinah Foundation
+- National Security Adviser
+- Rotherham
+- SPRING
+- Search for Common Ground
+- Strengthening Peace and Resilience in Nigeria
+- The Independent
+- UN
+- UNHCR
+- United Nations Refugee Agency
 ---
 
 On a recent __visit__ to Nigeria, Jonathan Powell, the prime minister’s national security adviser, highlighted the country’s crucial role in preventing the Sahel’s slide into even-greater chaos – with all the worrying spill-over effects for the UK’s own security.

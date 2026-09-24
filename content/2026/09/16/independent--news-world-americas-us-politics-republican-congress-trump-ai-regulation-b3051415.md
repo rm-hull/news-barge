@@ -12,6 +12,48 @@ image: https://static.independent.co.uk/2026/09/16/19/2287238020..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- America
+- China
+- D-Calif.
+- D-Mass.
+- I-Vt.
+- Poland
+- Sen
+- Silicon Valley
+- Tennessee
+- U.S.
+- U.S.A.
+- US
+- United States
+- Warsaw
+- Washington
+- Washington, D.C.
+people:
+- AI
+- Bernie Sanders
+- Donald Trump
+- Jacob Coxon
+- Jay Obernolte
+- Lori Trahan
+- Mike Johnson
+- Ro Khanna
+- Steve Bannon
+- Tim Burchett
+- Vega
+organisations:
+- AI
+- Anna Rose Layden
+- Anthropic
+- Congress
+- House of Representatives
+- I-VT
+- NCAA
+- Pro-Human Assembly
+- REUTERS
+- The Independent
+- Trump
 ---
 
 Amid calls to regulate AI and President Donald Trump saying he is all the guardrail America needs, a conservative Republican from Tennessee is bluntly warning that Congress is not up to the task.

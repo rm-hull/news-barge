@@ -11,6 +11,42 @@ image: https://i.guim.co.uk/img/media/203ec0f0d8f7344a81152e6c1123a471e54fd75a/6
 categories:
 - UK
 - News & Politics
+locations:
+- Dallas Fort Worth
+- Iran
+- Texas
+- US
+- Washington
+- White House
+people:
+- Alex Wong
+- Brandon Bell
+- Charlie Kirk
+- Christopher Macchio
+- Donald Trump
+- Evan Vucci
+- JD Vance
+- Jeff Mcwhorter
+- Joe Biden
+- John Brennan
+- John Solomon
+- Joseph diGenova
+- Karoline Leavitt
+- Ken Paxton
+- Robert F Kennedy Jr
+organisations:
+- Air Force One
+- CBS News
+- CIA
+- Congress
+- EPA
+- Getty Images Balloons
+- Getty Images Trump
+- Guardian
+- House
+- JD Vanceurged
+- Reuters
+- US Senate
 ---
 
 Here's a recap of the second, and final, night of the GOP midterm convention

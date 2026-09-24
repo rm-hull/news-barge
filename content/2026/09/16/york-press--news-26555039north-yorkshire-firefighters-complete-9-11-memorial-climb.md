@@ -13,6 +13,38 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Atlanta Brave
+- Georgia
+- North Yorkshire
+- UK
+- USA
+- United States
+people:
+- Ash Davis
+- Daz Smith
+- Dom Wood
+- Jonathan Dyson
+- Josh Beagle
+- Mike Sutcliffe
+- Rik Duckworth
+- Steve Simpson
+- Tim Weller
+- Toni Wooff Pepe
+organisations:
+- Atlanta Braves
+- Blue Light Card Foundation
+- FDNY
+- North Yorkshire
+- North Yorkshire Fire & Rescue
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire Fire & Rescue Service)* Station
+- North Yorkshire Fire and Rescue Service
+- Terry Farrell Firefighters Fund
+- Terry Farrell Firefighters Fund Memorial Stair Climb
+- The Fire Fighters Charity
+- Watch
+- World Trade Center
 ---
 
 *(Image: North Yorkshire Fire & Rescue Service)*

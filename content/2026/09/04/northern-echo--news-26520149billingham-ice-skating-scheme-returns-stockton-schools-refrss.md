@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Stockton
+- Stockton-on-Tees
+people:
+- Leon Jones
+- Louise Wilson
+organisations:
+- A66
+- Billingham Forum Ice Arena
+- Schools Ice Skating Initiative
+- Tees Active
+- Thornaby Academy
 ---
 
 A school ice skating programme in Stockton is returning for a second year.

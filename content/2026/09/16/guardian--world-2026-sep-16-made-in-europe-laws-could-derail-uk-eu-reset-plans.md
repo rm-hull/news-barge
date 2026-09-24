@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Brussels
+- Canada
+- China
+- Europe
+- France
+- Germany
+- Iceland
+- Italy
+- Liverpool
+- London
+- Netherlands
+- New York
+- Norway
+- Poland
+- Switzerland
+- UK
+- US
+people:
+- Alex Burghart
+- Anas Sarwar
+- Andy Burnham
+- Donald Trump
+- Hamish Falconer
+- Keir Starmer
+- Made
+- Mark Carney
+- Maros Sefcovic
+- Ursula von der Leyen
+- Victoria Atkins
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- Everton
+- Labour
+- Policy Exchange
+- Starmer
+- Tory
+- UK-EU
+- UN
 ---
 
 The UK government’s EU reset summit will be delayed again unless the bloc agrees to discuss legislation that could lock British business out of parts of EU industry, government sources have said.

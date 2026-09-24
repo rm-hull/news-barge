@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- America
+- US
+people:
+- Boatright
+- Erin Wolford
+- Palantir
+- Scott Boatwright
+organisations:
+- Chipotle
+- Department of Homeland Security
+- FDA
+- Food and Drug Administration
+- Foundry
+- General Mills
+- ICE
+- Immigration and Customs Enforcement
+- NBC News
+- Palantir
+- Trump
+- Tyson
+- WIRED
+- Wendy’s
 ---
 
 Fast-casual burrito chain Chipotle is working with the data infrastructure giant Palantir.

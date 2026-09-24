@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/09/13/01/FEMA_Staffing_Ruling_45281
 categories:
 - News & Politics
 - UK
+locations:
+- U.S.
+people:
+- Katrina
+- Susan Illston
+organisations:
+- American Federation of Government Employees
+- Congress
+- DHS
+- Department of Homeland Security
+- FEMA Review Council
+- Federal Emergency Management Agency
+- GAO
+- Government Accountability Office
+- Homeland Security
+- The Associated Press
+- Trump
 ---
 
 A federal judge has ruled that a plan by the Trump administration to slash staffing at the federal agency tasked with responding to disasters by 50% was unlawful.

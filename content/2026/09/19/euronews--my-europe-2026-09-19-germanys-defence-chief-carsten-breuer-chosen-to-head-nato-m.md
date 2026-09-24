@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/00/19/1200x675_cmsv2_55d7ed90-f9c7-5331-b659-0d5ebb4e3dd9-9920019.jpg
+locations:
+- Bundeswehr
+- Copenhagen
+- Germany
+- Russia
+- United States
+people:
+- Boris Pistorius
+- Carsten Breuer
+- Giuseppe Cavo Dragone
+- Mark Rutte
+- Olaf Scholz
+organisations:
+- Bundeswehr
+- Federal Chancellery
+- Military Committee
+- NATO
+- SACEUR
+- Supreme Allied Commander Europe
+- Territorial Command
 ---
 
 ## Germany’s defence chief Carsten Breuer was elected as the next chair of NATO’s Military Committee. He will take office in July 2027 for a three-year term, serving as the alliance’s top military adviser.

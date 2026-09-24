@@ -11,6 +11,15 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/04/fire-engine-night-canva.webp
+locations:
+- '#### Peckitt Street'
+- Acomb
+- Easingwold
+- Peckitt Street
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Two fire crews went to reports of the sound of explosions in York last night (Tuesday).

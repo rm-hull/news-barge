@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Chapel and Harriet Room
+- YO10 5AJ
+- York Cemetery
+people:
+- Jane Duke
+- Jen Dring
+- Roger Goldthorpe
+organisations:
+- Instagram
+- York Cemetery
 ---
 
 *York Printmakers Annual Print Fair returns to York Cemetery – here are all the details...*

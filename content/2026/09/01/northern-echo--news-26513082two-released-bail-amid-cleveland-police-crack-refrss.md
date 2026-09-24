@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birchington Avenue
+- Burns Road
+- CLEVELAND POLICE)*
+- County **Durham**
+- Derwentwater Road
+- Grangetown
+- Haswell
+- Middlesbrough
+- South Bank
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- Natalie McDonald
+- Pc Tom Clough
+- Theo Rae
+- Valentina Foster
+- Wayne Fox
+organisations:
+- A66
+- ACC
+- Bank Holiday
+- Cleveland Police
+- Durham Constabulary
 ---
 
 Two people have been released on conditional bail as Cleveland Police continues a crackdown on serious and organised crime in the wake of the fatal A66 crash.

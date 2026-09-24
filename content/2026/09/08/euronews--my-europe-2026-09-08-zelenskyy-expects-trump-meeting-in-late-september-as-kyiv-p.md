@@ -12,6 +12,32 @@ image: https://images.euronews.com/articles/stories/09/90/56/70/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Britain
+- Europe
+- Kyiv
+- Moscow
+- Russia
+- Switzerland
+- Turkey
+- US
+- Ukraine
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Donald Trump
+- God
+- Jared Kushner
+- Kyiv
+- Shaheds’
+- Steve Witkoff
+- Volodymyr Zelenskyy
+organisations:
+- EU
+- Kyiv
+- NATO
+- Trump
 ---
 
 ## Ukraine’s president says he expects to meet Donald Trump later this month as Kyiv presses Washington for urgently needed Patriot interceptors and moves towards a new trilateral negotiating format.

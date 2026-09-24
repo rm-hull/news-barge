@@ -13,6 +13,23 @@ categories:
 - UK
 - Travel
 - Sports
+locations:
+- Andes
+- Chile
+- GoFundMe
+- Hotel Alto Nevados
+- Nevados de Chillán
+- Pinto
+- Route N-55
+- US
+people:
+- Diego Sepúlveda
+- Lauren Beckos
+organisations:
+- FIS
+- International Ski and Snowboard Federation
+- Snow Sports News
+- Ñuble
 ---
 
 A group of US ski racers and their team have lost all of their belongings after a large fire tore through a Chile ski resort hotel days before a major race.

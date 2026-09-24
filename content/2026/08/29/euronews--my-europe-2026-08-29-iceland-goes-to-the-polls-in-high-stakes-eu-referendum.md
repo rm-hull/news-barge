@@ -12,6 +12,17 @@ image: https://images.euronews.com/articles/stories/09/89/26/39/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- Iceland
+- Malta
+- Norway
+- Reykjavik
+- UK
+people: []
+organisations:
+- EU
+- Gallup
+- Maskína
 ---
 
 ## Icelanders vote today on whether to resume EU membership talks in a high-stakes referendum. Polls show the race is too close to call, with a slim Yes lead eroding in the final stretch. Results are expected early on Sunday.

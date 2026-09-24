@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/WDffuQhncCk9VdDuCyomBg-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Hank
+- Mark Tyson
+- Tom
+- Tony Stark
+organisations:
+- Bambu Lab
+- GPT-6 Astra
+- GitHub
+- Google News
+- Meta Quest
+- OpenAI
+- Super Smash Bros Melee
+- Tom's Hardware
+- VR
 ---
 
 ![A futuristic Meta Quest plus 3D printer workflow](https://cdn.mos.cms.futurecdn.net/WDffuQhncCk9VdDuCyomBg.jpg) 

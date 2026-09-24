@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- North Yorkshire
+- Scarborough
+- Spa Bridge
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: Google Maps)*

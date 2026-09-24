@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - News & Politics
+locations:
+- North Yorkshire
+people: []
+organisations:
+- National Insurance
+- North Yorkshire Council
+- Pensions Regulator
 ---
 
 ![](https://mmo.aiircdn.com/409/6a30094c3dfd7358fff.jpg) 

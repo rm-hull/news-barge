@@ -11,6 +11,15 @@ image: https://cdn.mos.cms.futurecdn.net/HgLi7CGYLNVwgbAuuXX7s3-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- CA
+- San Mateo
+people:
+- Elegoo Centauri
+organisations:
+- Get Tom's Hardware
+- Othisis
+- Tom's Hardware
 ---
 
 # 3D Printing

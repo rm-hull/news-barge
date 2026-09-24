@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bacup Road
+- Calderdale
+- Henbury Hill
+- Henbury Hill Farm
+- Lancashire
+- Reaps Moss
+- Rossendale Council
+- Todmorden Road
+- YOUR
+- Yorkshire
+people: []
+organisations:
+- Bacup
+- Calderdale Council
+- Envams
+- Ltd
+- O & G Wind
+- Public Notice Portal
+- Rossendale Council
+- Rossendale –
+- Todmorden
 ---
 
 ### What is the Public Notice Portal?

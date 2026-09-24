@@ -13,6 +13,27 @@ image: https://static.independent.co.uk/2026/08/31/18/2280909079..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- Iran
+- Kharg Island
+- Ohio
+- R-La.
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- Mike Johnson
+organisations:
+- Congress
+- FCC
+- House
+- MAGA Inc
+- Pentagon
+- Senate
+- Trump
+- Truth Social
 ---
 
 If House Speaker Mike Johnson hoped for a relatively calm week back in Washington after the August recess, President Donald Trump disabused him of that notion.

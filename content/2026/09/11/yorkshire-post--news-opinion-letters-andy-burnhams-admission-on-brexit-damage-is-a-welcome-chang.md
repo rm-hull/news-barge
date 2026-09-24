@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Britain
+- Downing Street
+- Europe
+- France
+- Leeds
+- London
+- Roundhay
+people:
+- Andy Burnham
+- António Costa
+- Brexit
+- Emmanuel Macron
+- Keir
+- Peter Packham
+- Stefan Rousseau
+organisations:
+- Boris Johnson’s Trade and Cooperation Agreement
+- Brexit
+- Commons
+- EU
+- European Council
+- Government
+- Labour
+- Single Market and Customs Union
+- Starmer
+- Yorkshire Post Letters
 ---
 
 # Andy Burnham’s admission on Brexit damage is a welcome change - Yorkshire Post Letters

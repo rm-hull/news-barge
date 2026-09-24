@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Africa
+- Czech Republic
+- Earth
+- Eurasia
+- Europe
+- Greenland
+- North America
+- South America
+- South Pole
+- US
+people:
+- Buckminster Fuller
+- Derek H. Alderman
+- Donald Trump
+- Jack Swab
+organisations:
+- African Union
+- Boston Public Schools
+- Department of Geography & Sustainability
+- Independent
+- Lambert
+- Mercator
+- The Conversation
+- UN
+- United Nations
+- University of Tennessee
 ---
 
 *The article was originally published in August 2025 by**The Conversation** and is being republished by the Independent as the**UN votes on adopting the Equal Earth map projection.*

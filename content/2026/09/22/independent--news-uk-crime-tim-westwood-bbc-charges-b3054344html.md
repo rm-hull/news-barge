@@ -11,6 +11,24 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2025/10/09/15/8f7bd73ba59df700f6c2cbdfde9b6840Y29udGVudHNlYXJjaGFwaSwxNzYwMTA2NTA3-2.51161736.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Fulham
+- Gloucestershire
+- Hammersmith
+- London
+- Southwark Crown Court
+- Stroud
+- Wandsworth
+- Westminster Magistrates’ Court
+people:
+- Andy Furphy
+- Catherine P Baccas
+- Tim Westwood
+organisations:
+- BBC Radio 1
+- CPS London
+- Crown Prosecution Service
+- Metropolitan Police
 ---
 
 Former BBC Radio 1 DJ Tim Westwood has been charged with two additional offences dating back to 1991 and 2004.

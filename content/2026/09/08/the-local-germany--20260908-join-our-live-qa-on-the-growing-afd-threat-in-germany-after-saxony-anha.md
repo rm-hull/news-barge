@@ -14,6 +14,40 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Adelaide
+- Australia
+- Berlin
+- Denmark
+- East Germany
+- India
+- Local Germany
+- Romania
+- Russia
+- Saxony-Anhalt
+- UK
+- USA
+people:
+- Alex Lockwood
+- Archie
+- Borcea Catalin Ionut
+- Jeff
+- Joschka Selingera
+- Katja Hoyer
+- Mathias
+- Paul Krantz
+- Rachel Loxton
+- Tom Pugh
+- Ulrich Siegmund
+organisations:
+- AFD
+- AfD
+- BSW
+- CDU
+- EU
+- GFF
+- Gesellschaft für Freiheitsrechte
+- SPD
 ---
 
 We held a live Q&A on Tuesday on the aftermath of the Sunday's critical election in Saxony-Anhalt which saw the extremist, anti-immigration AfD party top the vote.

@@ -12,6 +12,36 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/22/07/France_Child_Abuse_4_213.jpg?width=1200&height=800&crop=1200:800
+locations:
+- France
+- Lille
+- Lourdes
+- Madrid
+- Notre-Dame de Bétharram
+- Paris
+- Spain
+- Vatican
+people:
+- Abbé Pierre
+- Alain Esquerre
+- Alexander Turnbull
+- Arnaud Gallais
+- Bernard Preynat
+- Charles Mercier
+- Emmanuel Macron
+- Jacques Delfosse
+- Jeffrey Schaeffer
+- Leo XIV
+- Marko Rupnik
+organisations:
+- Bétharram
+- Catholic Church
+- EPHE
+- French Bishops’ Conference
+- Independent Commission on Incest and Sexual Violence Against Children
+- Mouv’Enfants
+- \_\_\_ Associated Press
+- École Pratique des Hautes Études
 ---
 
 Pope Leo XIV, during his four-day visit to France beginning Friday, will meet privately with seven survivors of sexual abuse by priests and other Catholic personnel. The outcome will be closely watched by critics who say the church has not done enough to confront the problem.

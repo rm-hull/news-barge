@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- England
+- Ilkley Cow The Ilkley Cow
+- Ilkley Southgate
+- New Brook Street
+- The Ilkley Cow
+people:
+- '## Southgate'
+- Gareth Southgate
+- Ollie Sypniewski
+organisations:
+- Aston Villa
+- Crystal Palace
+- Ilkley Cow
+- Ilkley Golf Club
+- Middlesbrough
+- The Yorkshire Invitational
+- ex-Three Lions
 ---
 
 *(Image: The Ilkley Cow/Facebook)*

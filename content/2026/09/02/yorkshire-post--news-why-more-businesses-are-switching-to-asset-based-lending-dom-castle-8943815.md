@@ -16,6 +16,14 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Dom Castle
+organisations:
+- ABL
+- SME
+- Secure Trust Bank Business Finance
 ---
 
 # Why more businesses are switching to asset-based lending: Dom Castle

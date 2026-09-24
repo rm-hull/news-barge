@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Degrees North
+- Metro
+- Newcastle
+- North East
+- North East England
+- Quayside
+- Swan House
+- Tyne
+people:
+- Andy Warhol
+- Lynne Dickinson
+organisations:
+- NE1
+- Newcastle City Council
+- Newcastle College
+- Nexus
+- Wear Metro
 ---
 
 The Tyne and Wear Metro has been immortalised in a vibrant new public art project which has transformed a busy North East subway into a colourful gallery celebrating a city's creativity and transport heritage.

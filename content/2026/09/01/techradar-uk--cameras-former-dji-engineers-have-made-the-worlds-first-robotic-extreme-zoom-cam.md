@@ -12,6 +12,20 @@ description: Keep your subjects in the frame and focused even at long distances.
 image: https://cdn.mos.cms.futurecdn.net/eisKX3ZnUHS8WKDTuAHEQm-1600-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- RocXZoom
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- Google News
+- Kickstarter
+- PC Explorer
+- The Hardware Handbook
+- ex-DJI
 ---
 
 ![FarseerTech RocXZoom](https://cdn.mos.cms.futurecdn.net/eisKX3ZnUHS8WKDTuAHEQm.jpg) 

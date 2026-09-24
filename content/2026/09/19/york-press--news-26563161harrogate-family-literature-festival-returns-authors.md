@@ -13,6 +13,11 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://www.yorkpress.co.uk/resources/images/21474414.jpg?type=og-image
+locations:
+- North Yorkshire
+people: []
+organisations:
+- The Herald
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

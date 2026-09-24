@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A65 Leeds Road
+- Ben Rhydding
+- Ilkley
+- Wheatley Lane
+- YOUR
+people:
+- Guy Pierson
+- N McGurk
+organisations:
+- Bradford Council
+- EG
+- Ilkley Neighbourhood Development Plan
+- National Planning Policy Framework
+- Public Notice Portal
+- Starbucks
 ---
 
 *(Image: Guy Pierson)*

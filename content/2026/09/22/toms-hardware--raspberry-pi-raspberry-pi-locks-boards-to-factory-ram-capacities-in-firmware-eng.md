@@ -14,6 +14,20 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/FStqSpBaECihHvHVYQqdaW-2560-80.jpg
+locations: []
+people:
+- Jeff Geerling
+- Mark Tyson
+- PhilE
+- RAM MacGyvers
+- Tom
+organisations:
+- AI
+- Google News
+- RAM IC
+- Raspberry Pi
+- Raspberry Pi Engineer & Forum Moderator PhilE
+- Tom's Hardware
 ---
 
 ![Raspberry Pi 500+](https://cdn.mos.cms.futurecdn.net/FStqSpBaECihHvHVYQqdaW.jpg)

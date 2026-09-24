@@ -14,6 +14,31 @@ image: https://static.independent.co.uk/2026/09/16/17/Afghanistan_Attack_Sentenc
 categories:
 - News & Politics
 - UK
+locations:
+- Abbey Gate
+- IS
+- Kabul
+- Missouri
+- Moscow
+- U.S.
+- United States
+- Virginia
+people:
+- Abdul Rahman al-Logari
+- Anthony Trenga
+- Donald Trump
+- Jared Schmitz
+- Mark Schmitz
+- Mohammad Sharifullah
+organisations:
+- Congress
+- FBI
+- Hamid Karzai International Airport
+- IS
+- ISIS-K
+- Islamic State
+- Marine Corps Lance
+- U.S. Central Command
 ---
 
 An Islamic State group member was sentenced Wednesday to 20 years in prison for aiding the terrorist organization that took credit for a suicide bombing that killed 13 U.S. service members and about 160 Afghans at the Kabul airport five years ago during the American military’s chaotic withdrawal from the country.

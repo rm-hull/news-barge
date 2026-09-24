@@ -13,6 +13,24 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Canada
+- Europe
+people:
+- António Costa
+- António Costa.
+- Donald Trump
+- Hans Lucas
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- DER SPIEGEL
+- EU
+- European Commission
+- European Council
+- European Union
+- Europeenne
+- Substack
 ---
 
 ![European Commission President Ursula von der Leyen, Canadian Prime Minister Mark Carney and European Council President António Costa. European Commission President Ursula von der Leyen, Canadian Prime Minister Mark Carney and European Council President António Costa.](https://cdn.prod.www.spiegel.de/images/63be79f3-26db-406e-bb0e-6345bd58e6ab_w960_r1.5_fpx49_fpy48.jpg) 

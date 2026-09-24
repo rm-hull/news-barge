@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Andalusia
+- El Granado
+- Europe
+- Montoro
+- Spain
+people: []
+organisations:
+- AEMET
+- Euronews
+- European Commission
+- State Meteorological Agency
 ---
 
 ## The unseasonably high September temperatures follow a series of extreme summer heatwaves across Europe, which scientists say have been intensified and prolonged by human-driven climate change.

@@ -13,6 +13,113 @@ categories:
 - Sports
 - Film & TV
 - Video Gaming
+locations:
+- Australia
+- Austria
+- Belgium
+- Canada
+- Central America
+- Chigwell Construction Stadium
+- China
+- Croatia
+- Dagenham
+- England
+- Europe
+- Ireland
+- Israel
+- Italy
+- Jamaica
+- Japan
+- MENA
+- Mexico
+- Middle East
+- North Africa
+- Norway
+- Slovenia
+- South East Asia
+- Spain
+- Sub-Saharan Africa
+- Switzerland
+- UK
+- US
+people:
+- Alexia Putellas
+- Beth Mead
+- Bunny' Shaw
+- Charlton
+- Georgia Stanway
+- James Roberts
+- Katie McCabe
+- Khadija
+- Mary Earps
+- Migu
+- Millie Bright
+- Sam Kerr
+- Sonia Bompastor
+- Stan
+organisations:
+- AU
+- Addicks
+- Arsenal
+- Arsenal:** Sky Sports
+- Aston Villa
+- Azam TV
+- BBC TV
+- BBC iPlayer
+- BarclaysWSL
+- Birmingham
+- Birmingham:** Sky Sports
+- Brighton
+- CBS Sports
+- CBS Sports Golazo
+- CBS Sports Golazo Network
+- CBS Sports Network
+- Champions League
+- Charlton
+- Chelsea
+- Crystal Palace
+- Dubai TV
+- EFL
+- Europa League
+- Everton:** Sky Sports
+- FOX
+- FourFourTwo
+- Future Publishing
+- Huya
+- Instagram
+- Leicester
+- Liverpool:** Sky Sports
+- London City Lionesses
+- Manchester City
+- Manchester United
+- Movistar
+- NordVPN
+- Oxford Mail
+- Oxford United
+- PFA
+- Paramount
+- RTL
+- Sky Go
+- Sky Italia
+- Sky Sports
+- Sky Sports WSL YouTube Channel
+- Sky Sports**
+- Sky TV
+- SportKlub
+- Sportsnet
+- Stan Sport
+- Stan Sport**
+- Super League
+- TikTok
+- Tottenham
+- Twitter
+- WSL2
+- Walmart
+- West Ham
+- West Ham United
+- Women's Super League
+- barclayswsl
+- iQiyi
 ---
 
 ![Manchester City celebrate lifting the trophy after the Barclays Women's Super League match against West Ham United at Chigwell Construction Stadium on May 16, 2026 in Dagenham, England](https://cdn.mos.cms.futurecdn.net/M9s4hdBeQpAe9oiumoUFcc.jpg) 

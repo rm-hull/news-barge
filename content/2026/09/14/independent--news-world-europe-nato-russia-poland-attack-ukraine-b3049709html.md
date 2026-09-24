@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/09/14/10/2292899803..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Finland
+- Kyiv
+- Moscow
+- Poland
+- Rovaniemi
+- Russia
+- US
+- Ukraine
+- United States
+people:
+- Boris Johnson
+- Dmitry Peskov
+- John Ratcliffe
+- Kaja Kallas
+- Maria Zakharova
+- Radoslaw Sikorksi
+- Sikorski
+- Vladimir Putin
+organisations:
+- CBS News
+- CIA
+- European Union
+- Institute for the Study of War
+- Nato
+- Yalta European Strategy
 ---
 
 Poland says it would defeat Russia quickly if Moscow attempted an attack on the alliance amid an increasing number of hybrid attacks on Europe.

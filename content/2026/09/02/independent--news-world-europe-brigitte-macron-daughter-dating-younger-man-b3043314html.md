@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Amiens
+- Amsterdam
+- Asia
+- Le Toquet
+- Le Touquet
+- Lille
+people:
+- Antoine Lecomte
+- Aurèle
+- Brigitte Macron
+- Emmanuel Macron
+- Gala
+- Madam’
+- Ms Macron
+- Tiphaine Auzière
+- Élise
+organisations:
+- Brigitte Macron
+- La Tribune Dimanche
+- Le Parisien
+- Le Touquet
+- Mission Kiteboarding
+- The Telegraph
 ---
 
 Brigitte Macron’s daughter has revealed a new relationship with a surf instructor two decades younger, drawing comparisons with her mother’s marriage to the French president Emmanuel Macron.

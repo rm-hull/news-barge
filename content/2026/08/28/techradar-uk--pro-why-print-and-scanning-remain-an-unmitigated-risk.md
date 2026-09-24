@@ -9,6 +9,21 @@ description: Printers and vendors are overlooked security risks with regulatory 
 image: https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Azure
+- Singapore
+- UK
+people: []
+organisations:
+- Bank of China
+- FCA
+- Future plc
+- HP
+- MFA
+- Print Services
+- TechRadar Pro
+- TechRadarPro
+- Tungsten Automation
 ---
 
 ![A pink triangle with a red exclamation mark inside on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL.jpg) 

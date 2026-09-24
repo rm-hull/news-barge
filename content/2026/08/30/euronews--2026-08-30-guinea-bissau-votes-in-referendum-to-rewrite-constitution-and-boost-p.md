@@ -14,6 +14,32 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Cape Verde
+- Chad
+- Guinea-Bissau
+- Official Gazette of the Republic
+- Portugal
+- West Africa
+- Zimbabwe
+people:
+- Bubacar Turé
+- Fernando Dias
+- Horta N'Tam
+- Muniro Conté
+- Paulino Quadé
+- Umaro Sissoco Embaló
+organisations:
+- African Party
+- Associated Press
+- Euronews
+- Guinea-Bissau Human Rights League
+- Independence of Guinea
+- National Guard
+- National People’s Assembly
+- National Transitional Council
+- PAIGC
+- World Bank
 ---
 
 ## Voters in military-ruled Guinea-Bissau, after a coup, vote on Sunday in a referendum to boost presidential powers before elections to restore civilian rule, a process mired in controversy.

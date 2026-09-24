@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Science
 - Food & Cooking
+locations:
+- Earth
+- England
+- Lincolnshire
+- The White House
+people:
+- Chris Rose
+organisations:
+- Le Creuset
+- Paramount
+- Sent Into Space
+- Starfleet
+- eBay
 ---
 
 Logic clearly dictates that the needs of the penne outweigh the needs of the stew, or the bun. While this would have been a gloriously fan-faithful reason for Le Creuset, the French-Belgian maker of colorful cookware for more than a century, to materialize its new limited-edition Star Trek collection, the range is being launched in celebration of 60 years of the cult sci-fi show.

@@ -12,6 +12,50 @@ image: https://static.independent.co.uk/2026/09/11/20/2294075557..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Austin
+- Canada
+- Capitol Hill
+- Dallas
+- Maine
+- Michigan
+- New England
+- North Texas
+- Ohio
+- Pennsylvania
+- Sen
+- White House
+people:
+- Abdul El-Sayed
+- Daddy Trump
+- Donald Trump
+- Dude
+- Eric Garcia
+- Hail Mary
+- Hasan Piker
+- James Talarico
+- John Cornyn
+- John Thune
+- Ken Paxton
+- Mike Rogers
+- Steve Adler
+- Susan Collins
+- Talafreako
+- Tony Fabrizio
+- Troy Jackson
+organisations:
+- AARP
+- CNN
+- Congress
+- Fox News
+- GOP
+- Great White North
+- House
+- SRSS
+- Senate
+- Trafalgar
+- YouGov
 ---
 
 Donald Trump’s latest desperate act has even Republicans scratching their heads.

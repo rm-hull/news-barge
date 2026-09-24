@@ -12,6 +12,55 @@ image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Bournemouth
+- CA
+- Canada
+- Coventry
+- London
+- Man City
+- PT
+- UK
+- US
+- USA
+- canada
+people:
+- Enzo Fernandez
+- Enzo Maresca
+- Erling Haaland
+- Frank Lampard
+- Greg Lea
+- Rayan Cherki
+- Taiwo Awoniyi
+- Wilfried Zaha
+organisations:
+- AU
+- Arsenal
+- Bournemouth
+- Community Shield
+- Coventry
+- Crystal Palace
+- ESPN
+- Etihad
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Guardian
+- Hull
+- Hulu
+- Man City
+- Manchester City
+- Port Vale
+- Premier League
+- Sky Blues
+- Sling**(
+- Stan Sport
+- The Set Pieces
+- USA Network
+- UseNordVPNto
+- Whitehorse Manor
+- YouTube TV
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

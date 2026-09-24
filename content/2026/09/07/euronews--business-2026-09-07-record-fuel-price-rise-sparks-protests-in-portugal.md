@@ -12,6 +12,53 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- '## Hormuz'
+- Almada
+- Austria
+- Denmark
+- Europe
+- France
+- Gelsenkirchen
+- Germany
+- Ireland
+- Italy
+- Lisbon
+- Malta
+- Middle East
+- Poland
+- Portugal
+- Russia
+- Setúbal
+- Sines**
+- Spain
+- Strait of Hormuz
+- Tagus
+- Ukraine
+- United Kingdom
+people:
+- Lina Ferreira
+- Maria da Graça Carvalho
+- Maria da Graça Carvalho**
+organisations:
+- '**Automobile Club of Portugal'
+- ACP
+- AFP
+- BP
+- Dinheiro Vivo
+- ERSE
+- Energy Services Regulatory Authority
+- Environment and Energy
+- European Union
+- Frankfurter Allgemeine
+- GNR
+- Galp
+- ISP
+- Lusa
+- National Republican Guard
+- PS
+- Socialist Party
+- Tax on Petroleum Products
 ---
 
 **Lina Ferreira**

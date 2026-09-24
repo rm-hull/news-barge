@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bingley
+- Bradford
+people:
+- Holly Pennell
+organisations:
+- Bingley Creates
+- Bingley Little Theatre
+- Bingley Music Town
+- Bingley Town Council
+- Northern Indie Collective
 ---
 
 Hundreds of people are expected to flock to a Bradford district town for its annual Christmas market and lights switch-on.

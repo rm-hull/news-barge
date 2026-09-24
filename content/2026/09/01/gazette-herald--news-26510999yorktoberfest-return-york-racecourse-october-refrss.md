@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- '**York'
+- Clocktower Enclosure
+- Popular York
+- York Racecourse
+people:
+- James Cundall
+- Velma Celli
+organisations:
+- Brew York
+- Jamboree Entertainment
+- POPULAR York
+- The Dog Haus
+- Yorktoberfest
 ---
 
 A POPULAR York beer festival is set to return this autumn with a twist.

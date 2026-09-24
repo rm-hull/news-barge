@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Alexander-Arnold
+- Bernabeu
+- Denmark
+- England
+- Liverpool
+- Malta
+people:
+- Arda Guler
+- Bernardo Silva
+- Dani Carvajal
+- Denzel Dumfries
+- Eduardo Camavinga
+- Federico Valverde
+- Gareth Southgate
+- Jose Mourinho
+- Jurgen Klopp
+- Trent Alexander-Arnold
+organisations:
+- BBC One
+- BBC Sport
+- BBC iPlayer
+- Channel 4
+- Dumfries
+- England
+- Fiorentina
+- Inter Milan
+- Liverpool
+- Real Madrid
+- Three Lions
+- Trent Alexander-Arnold
 ---
 
 ![Trent Alexander-Arnold](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/6ace/live/5b112f80-abd6-11f1-a291-b542ee92de7c.jpg)

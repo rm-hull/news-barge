@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Las Vegas
+- Santa Claus
+- US
+- White House
+people:
+- Ayanna Pressley
+- Cory Booker
+- Darrick Hamilton
+- Donald Trump
+- Justin Wolfers
+- Kush Desai
+- Michael Dell
+- Ray Dalio
+- Ted Cruz
+- William Darity
+organisations:
+- Congress
+- New Deal
+- New School
+- Trump Accounts
+- University of Michigan
 ---
 
 Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding for the nation’s public schools. But with midterm elections fast approaching and his approval ratings very low, the US president has repeatedly trumpeted a two-month-old program designed to help the nation’s children. That program, unhumbly named “Trump accounts”, calls for the federal government to give a one-time $1,000 seed deposit to every newborn whose family applies.

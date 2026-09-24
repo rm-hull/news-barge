@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/5d5c55abc04c8baa1a4df361336ba73b12310025/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ccdfd2c5c9e61fcb41bb53b372ca976
+locations:
+- Blue Mountains
+- Bondi
+- NSW
+- New South Wales
+- Sydney
+- Tenterfield
+- Valley Heights
+- Wagga
+- Westmead Children’s
+people:
+- Chris Minns
+- Darren Rodrigo
+- John Nelson
+- Kellie Sloane
+- Peter McKenna
+organisations:
+- ABC TV
+- NSW
 ---
 
 Police have alleged that a mother was behind a stabbing attack on three young children that left one dead and two others fighting for their lives in hospital.

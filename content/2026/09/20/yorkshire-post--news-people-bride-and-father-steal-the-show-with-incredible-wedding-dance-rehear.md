@@ -13,6 +13,21 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/20/14/15/father-and-daug-1604214.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Covid
+- Gran Canaries
+- Halifax
+- London
+- West End
+people:
+- Bride Chloe Moors
+- Chloe Moors
+- Eddy Byrnes
+- Harry Bright
+- Mamma Mia
+- Neil
+organisations:
+- FaceTime
 ---
 
 # Bride and father steal the show with incredible wedding dance rehearsed 150 miles apart

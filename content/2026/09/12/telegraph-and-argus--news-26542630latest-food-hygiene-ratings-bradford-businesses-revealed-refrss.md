@@ -13,6 +13,40 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- 4BT
+- Albert Road
+- Bingley
+- Bradford Road
+- Denholme
+- Eldwick Methodist Church
+- Fagley Road
+- Harrogate Road
+- Idle
+- Otley Road
+- Queens Road
+- Queens Road Garage
+- Queensbury
+- St Clares Community Centre
+- St Stephens Road
+- Westgate
+people: []
+organisations:
+- 3EQ
+- 7DA
+- Afro Basket Groceries Store
+- Asian Corner
+- Biryans
+- Brew & Batter
+- Eldwick Church Cafe
+- FSA
+- Food Standards Agency
+- Queensbury Sports And Social Club
+- Queensbury Support Centre
+- Seema Foods
+- Taco Bell
+- Well Heads
+- White Horse Inn
 ---
 
 *(Image: FSA)*

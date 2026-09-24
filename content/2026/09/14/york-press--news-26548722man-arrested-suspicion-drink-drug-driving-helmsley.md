@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Alyssa.Upton
+- Helmsley
+- North Yorkshire
+people: []
+organisations:
+- Cumbria Police
+- Mitsubishi
+- North Yorkshire Police
+- The Feversham Arms
 ---
 
 *(Image: Cumbria Police)*

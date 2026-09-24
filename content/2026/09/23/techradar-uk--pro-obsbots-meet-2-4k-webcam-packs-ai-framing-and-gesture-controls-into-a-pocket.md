@@ -11,6 +11,17 @@ description: Obsbot's webcam range has always impressed us during tests, so the 
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/4AYNUnvQkitU75XKevon4c-2000-80.jpg
+locations:
+- Amazon
+- UK
+people:
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Isabelle
+organisations:
+- Obsbot
+- TechRadar Pro
+- iMore
 ---
 
 ![OBSBOT Meet 2-4K Webcam deal](https://cdn.mos.cms.futurecdn.net/4AYNUnvQkitU75XKevon4c.jpg)

@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Auckland
+- BRAD WHITMORE
+- Barnard Castle
+- Cairngorms
+- County Durham
+- Crook
+- Dunfermline
+- Edinburgh
+- Loch Ness
+- North East
+- North Pennines
+- Northumberland National Park
+- Perth
+- Stang Lane
+- Teesside
+people:
+- BRAD WHITMORE
+- Brad Whitmore
+- Jack Stead
+- Mind
+organisations: []
 ---
 
 *(Image: BRAD WHITMORE)*

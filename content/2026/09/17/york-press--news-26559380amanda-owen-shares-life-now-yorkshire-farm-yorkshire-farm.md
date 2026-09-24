@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Everyman Northallerton
+- Our Yorkshire Farm
+- Ravenseat
+- Swaledale
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Annas
+- Anty John
+- Clementine
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Raven
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John's
+- Channel 5
+- Clive and Kids
+- More4
+- Yorkshire Shepherdess
 ---
 
 *(Image: CHANNEL4)*

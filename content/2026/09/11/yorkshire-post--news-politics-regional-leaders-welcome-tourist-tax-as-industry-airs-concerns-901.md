@@ -15,6 +15,39 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Amsterdam
+- Brontë Country
+- Canada
+- England
+- Germany
+- Hepworth Gallery
+- Italy
+- Manchester
+- Netherlands
+- North Yorkshire
+- South Yorkshire
+- UK
+- United States
+- Wales
+- West Yorkshire
+- York
+people:
+- Angela Rayner
+- David Skaith
+- Henri Murison
+- Tracy Brabin
+organisations:
+- '## Regional'
+- Butlin
+- Government
+- Labour
+- North Yorkshire
+- Northern Powerhouse Partnership
+- Premier Inn
+- UKHospitality
+- Whitbread
+- Yorkshire Post
 ---
 
 # Regional leaders welcome tourist tax as industry airs concerns

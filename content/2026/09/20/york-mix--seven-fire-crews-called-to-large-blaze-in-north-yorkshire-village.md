@@ -11,6 +11,19 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/06/north-yorkshire-fire-service-engine-tw.webp
+locations:
+- Acomb
+- Boroughbridge
+- Easingwold
+- Harrogate
+- Lower Dunsforth
+- North Yorkshire
+- Ripon
+- Tadcaster
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- Thirsk
 ---
 
 There’s been a large response to a fire in a North Yorkshire village this afternoon (Sunday).

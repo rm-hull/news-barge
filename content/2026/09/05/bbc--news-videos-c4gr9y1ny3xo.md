@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Iran
+- Thailand
+- US
+people:
+- Abraham Lincoln
+- Blanca Estrada
+- Jake Horton
+- Kevin Nguyen
+- Leo Scutt-Ritcher
+organisations:
+- BBC Verify
 ---
 
 # Why did USS Lincoln turn up in Thailand looking so rusty?

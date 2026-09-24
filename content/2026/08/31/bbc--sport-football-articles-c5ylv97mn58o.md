@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- Europe
+- Tyneside
+people:
+- '** Fernandez-Pardo'
+- Eddie Howe
+- Matias Fernandez-Pardo
+- Matthias Jaissle
+organisations:
+- Lille
+- Newcastle United
+- Newcastle Unitedhave
+- Paris St-Germain
 ---
 
 ![Matias Fernandez-Pardo celebrates scoring for Lille](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e80c/live/72b1cf70-a60c-11f1-83fc-0df57e6b3866.jpg)

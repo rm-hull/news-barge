@@ -15,6 +15,38 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Africa
+- Bangui
+- Donetsk
+- France
+- Madrid
+- Moldova
+- Russia
+- US
+- Ukraine
+people:
+- Claude AI
+- Wagner
+organisations:
+- '## Anthropic'
+- AI
+- API
+- Africa Politology
+- African Corps
+- All Eyes On Wagner
+- CAR
+- Claude Code
+- FPV
+- GTG-20006
+- RT
+- Radio Lengo Songo
+- Russian Academy of Sciences
+- Russian House
+- SVR
+- Sputnik Afrique
+- TASS
+- The Company
 ---
 
 ## Anthropic's latest report on the abuse of its AI model found that a Russian-linked hacking group used Claude to automate attacks on more than 20 organisations, including Ukrainian defence ministries and drone suppliers, while separate operators ran pro-Kremlin disinformation in Africa and Moldova.

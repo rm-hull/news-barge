@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- AMERICA
+- Buffalo
+- Canada
+- Great Lakes
+- Highmark Stadium
+- Lake America
+- Lake Ontario
+- Mexico
+- North America
+- Ottawa
+- Peace Bridge
+- Toronto
+- U.S.
+- United States
+- Washington
+people:
+- Auli'i Cravalho
+- Donald Trump
+- Mark Carney
+organisations:
+- Barenaked Ladies
+- Bills'
+- Buffalo Bills
+- Detroit Lions
+- Disney
+- Labatt
+- NFL
+- NHL
+- Sabres
+- Trump
 ---
 
 The Buffalo Bills have offered an apparent gesture of international goodwill ahead of the season opener at their new home stadium near the U.S.-Canada border, coming amid an intensifying trade dispute between the two countries.

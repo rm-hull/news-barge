@@ -12,6 +12,37 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Japan
+people:
+- Andrew Freedman
+- Jeff Kampman
+- Sayem Ahmed
+- Tom
+- Tristan Buckmaster
+organisations:
+- ABF
+- AI
+- AMD
+- ASML
+- Ajinomoto
+- Anthropic
+- Astra
+- Bench
+- DGX Spark
+- Dexerto
+- GPU
+- Gamespot
+- Get Tom's Hardware
+- IFA
+- IGN
+- Intel
+- Mac Mini
+- Nvidia
+- OpenAI
+- Samsung
+- TSMC
+- Tom's Hardware
 ---
 
 ![Tom's Hardware Premium logo on a collage of images.](https://cdn.mos.cms.futurecdn.net/rv3TmHCRKSC88LPgX8EfMM.jpg) 

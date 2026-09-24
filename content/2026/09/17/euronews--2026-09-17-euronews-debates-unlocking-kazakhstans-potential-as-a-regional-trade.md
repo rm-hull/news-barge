@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Aktau
+- Central Asia
+- China-Europe
+- Eurasia
+- Europe
+- Kazakhstan
+- Shenzhen
+people:
+- Alima Issembayeva
+- Ilya Urazakov
+- Meruyert Zholdybayeva
+- Nurzhan Marabayev
+- Tom Vinaimont
+organisations:
+- Euronews
 ---
 
 **Euronews**

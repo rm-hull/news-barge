@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Christian Cawley
+- Sam Altman
+organisations:
+- AI
+- ChatGPT
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- OpenAI
+- TechRadar Pro
 ---
 
 ![OpenAI logo on smartphone, reflected on main screen](https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY.jpg) 

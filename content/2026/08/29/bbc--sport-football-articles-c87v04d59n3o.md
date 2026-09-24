@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Derby
+- Goodison Park
+- Munich
+- Stamford Bridge
+people:
+- 'Carlo ##'
+- Carlo Ancelotti
+- Frank Lampard
+- Frank Lampard.
+- Guus Hiddink
+- Harry Redknapp
+- Jose Mourinho
+- Rafael Benitez
+- Tom Grennan
+organisations:
+- Arsenal
+- Aston Villa
+- BBC Football YouTube
+- BBC One
+- BBC Sport
+- BBC iPlayer
+- Blackburn Rovers
+- Chelsea
+- Coventry City
+- Europa League
+- Everton
+- Hull City
+- Ipswich
+- Premier League
+- Sky Blues
 ---
 
 'Let's be brave about being in the Premier League' - Lampard

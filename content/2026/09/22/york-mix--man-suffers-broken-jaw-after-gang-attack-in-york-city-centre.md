@@ -11,6 +11,12 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-serious-assault-parliament-street-york-23-august-2026.webp
+locations:
+- Parliament Street
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A man was seriously hurt after being set upon by a gang in York city centre.

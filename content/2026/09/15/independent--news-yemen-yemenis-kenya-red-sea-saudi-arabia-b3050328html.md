@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bab el-Mandeb Strait
+- Djibouti
+- Horn of Africa
+- Iran
+- Obock
+- Red Sea
+- Saudi Arabia
+- Yemen
+people:
+- Frantz Celestin
+- Ilyas M. Dawaleh
+organisations:
+- East and Southern Africa
+- IOM
+- International Organization for Migration
+- The Associated Press
+- U.N.
+- Yemen Petroleum Company
 ---
 
 A fuel shortage in Yemen is hampering the movement of people fleeing the country’s escalating fighting and seeking safety across the Red Sea in Djibouti, with the U.N. migration agency warning that more Yemenis are ready to make the crossing by boat.

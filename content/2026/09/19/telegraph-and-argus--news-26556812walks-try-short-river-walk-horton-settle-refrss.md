@@ -14,6 +14,42 @@ categories:
 - Travel
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464758.jpg?type=og-image
+locations:
+- '![]()River Ribble'
+- Carlisle
+- Cragg Hill Farm
+- Dales 30
+- Dry Rigg
+- Feizor
+- Fountain
+- Helwith Bridge
+- Horton
+- Langcliffe
+- Little Stainforth
+- Long Preston
+- Pen-y-Ghent
+- Refresher Navigation Course
+- Ribble Valley
+- Ribble Way
+- River Ribble
+- Settle
+- Stackhouse
+- Stainforth Falls
+- THE River Ribble
+- The Bracken Way
+- The Dales
+- Where2walk
+- Yorkshire Dales
+people:
+- Jonathan
+- Stiles
+organisations:
+- Dales
+- Helwith Bridge Inn
+- Knights Table
+- Knights Templar
+- The Yorkshire
+- Where2walk
 ---
 
 THE River Ribble meanders through some beautiful countryside between Horton and Settle.

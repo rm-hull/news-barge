@@ -15,6 +15,16 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+people:
+- Omar Khan
+organisations:
+- Santander
+- University of Bradford
+- University of Bradford’s BA
+- University of Bradford’s Clearing
+- Young People and Families or Public Health and Population Studies
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,18 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- England
+- Greenwich
+- London
+people:
+- Gerry Gogarty
+- Iyamide Thomas
+- Yann-Elie Asket
+organisations:
+- NHS Blood and Transplant
+- NHSBT
+- Sickle Cell Society
 ---
 
 The NHS is currently able to meet only around half the demand for blood required to treat patients with sickle cell disease, according to health experts.

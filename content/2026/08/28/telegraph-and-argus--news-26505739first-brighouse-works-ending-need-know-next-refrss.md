@@ -14,6 +14,32 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bethel Street
+- Bradford Road
+- Briggate
+- Canal Street
+- Commercial Street
+- Market Street
+- Owler Ings Road
+- Park Street
+- Ship Street
+- Thornton Square
+- Town Hall
+- UK
+- YOUR
+people:
+- Steven Garrigan
+organisations:
+- Bethel Street Car Park
+- Brighouse Town Deal
+- Brighouse Town Deal Board
+- Calderdale Council
+- Calderdale Council’s Reform UK
+- Esh Construction
+- Public Notice Portal
+- Public Notice Portal Brighouse
+- Town Deal
 ---
 
 ### What is the Public Notice Portal?

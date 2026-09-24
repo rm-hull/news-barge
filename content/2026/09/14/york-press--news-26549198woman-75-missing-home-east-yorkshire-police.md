@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- East Yorkshire
+- Market Weighton
+- Seaton Ross
+people: []
+organisations:
+- Humberside Police
 ---
 
 *(Image: PA)*

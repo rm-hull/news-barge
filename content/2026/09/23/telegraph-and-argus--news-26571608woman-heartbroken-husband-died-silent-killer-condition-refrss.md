@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486600.jpg?type=og-image
+locations:
+- Addingham Memorial Hall
+- Bingley
+- Bradford
+- Green Lane
+people:
+- Allan Greenwood
+- Andrew
+- Jan Greenwood
+- Julie
+- Peter
+- Sarah
+organisations:
+- Liver UK
+- UGC
 ---
 
 *(Image: UGC)*

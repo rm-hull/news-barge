@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Atlantic
+- Baja California Peninsula
+- Hawaii
+- Mexico
+- Pacific Ocean
+- Tropical Storm Lowell
+people:
+- Karina
+organisations:
+- El Nino
+- National Hurricane Center
+- National Oceanic and Atmospheric Administration
 ---
 
 Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forecasters said. The cyclone's center was at far out sea and was not threatening land.

@@ -12,6 +12,24 @@ image: https://techcrunch.com/wp-content/uploads/2024/07/Unacademy.jpeg?resize=1
 categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- India
+people:
+- Airlearn
+- Gaurav Munjal
+- Ronnie Screwvala
+organisations:
+- Airlearn
+- Byju’s
+- General Atlantic
+- Graphy
+- PrepLadder
+- Screwvala
+- SoftBank
+- TechCrunch
+- Tiger Global
+- Tracxn
+- Unacademy Group
 ---
 
 Unacademy, once one of India’s most valuable edtech startups, has been acquired by rival upGrad at a valuation of just over $200 million, about 94% less than its 2021 peak valuation.

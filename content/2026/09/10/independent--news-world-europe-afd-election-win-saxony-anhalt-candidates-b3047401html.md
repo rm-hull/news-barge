@@ -13,6 +13,52 @@ image: https://static.independent.co.uk/2026/09/09/14/45/afd.jpeg?trim=0,0,0,0&w
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Donbas
+- Eastern Germany
+- Frankfurt
+- Mar-a-Lago
+- Moscow
+- New York
+- Russia
+- Saxony-Anhalt
+- US
+- Ukraine
+- Washington
+- Werrnigerode
+people:
+- '## Phillipp-Anders Rau Phillipp-Anders Rau'
+- Daniel Wald
+- Donald Trump
+- Evelyn Zupke
+- Frank Ronald Bischoff
+- Frank-Ronald Bischoff
+- Friedrich Merz
+- Hans-Thomas Tillschneider
+- Lannsman
+- Nadine Koppehel
+- Phillipp Anders Rau
+- Sebastian Koch
+- Simon Lansmann
+- Stasi
+- Ulrich Siegmund
+organisations:
+- AFD
+- AfD
+- Alternative für Deutschland
+- Bild
+- Compact
+- Der Spiegel
+- Die Zeit
+- MAGA
+- Magdeburger Volksstimme
+- Ministry for State Security of the GDR
+- Stasi
+- The Independent
+- Trump
+- Victims of the SED Dictatorship
+- völkisch Artgemeinschaft
 ---
 
 After winning a historic state election in Saxony-Anhalt, the Alternative für Deutschland (AfD) stands on the brink of becoming the first far-right party to gain power in Germany since World War Two.

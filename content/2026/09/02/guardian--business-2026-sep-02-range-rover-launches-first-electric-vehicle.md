@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Coventry
+- India
+- Solihull
+- UK
+- Wolverhampton
+people:
+- Donald Trump
+- Martin Limpert
+organisations:
+- JLR
+- Jaguar Land Rover
+- Range Rover
+- Ranger Rover
+- Solihull
+- Tata Motors
 ---
 
 Range Rover has launched its first electric vehicle – a year later than planned – offering a greener option for fans of gargantuan British-made SUVs who are also conscious about the climate crisis.

@@ -11,6 +11,50 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/19/49/GettyImages-2294722142.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Gulf of America
+- Gulf of Mexico
+- Panorama
+- People’s House
+- US
+- White House
+people:
+- '## Trump'
+- Akayla Gardner
+- Alexander Haig
+- Barack Obama
+- Betsy Klein
+- Cheyenne Haslett
+- Colleen Murrell
+- Donald Trump
+- Henry Kissinger
+- J.D. Vance
+- Joe Biden
+- Kenneth Feinberg
+- Richard Nixon
+- Seth Stern
+organisations:
+- ABC
+- AP
+- Air Force One
+- Associated Press
+- BBC
+- CBS
+- CNN
+- Colgate University
+- Congress
+- Dublin City University
+- Fox News
+- Freedom of the Press Foundation
+- MS Now
+- NBC
+- Oval Office
+- Politico
+- The Conversation
+- Treasury Department
+- Trump
+- WHCA
+- White House Correspondents Association
 ---
 
 Donald Trump’s fight with the media has escalated with the news that five major broadcast networks, *ABC, CBS, CNN, Fox News* and*NBC*, have suspended their pool coverage of the White House.

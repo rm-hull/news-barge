@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Broward County Main Jail
+- Broward Health Medical Center
+- Florida
+- Georgia
+people:
+- '![Johnson'
+- Ronald Jeffery Johnson
+organisations:
+- Broward County Sheriff’s Office
+- Broward Health Medical Center
+- Fort Lauderdale Police
+- Fort Lauderdale Police Department
+- The Independent
 ---
 
 A man accused of fighting a police officer in a Florida hospital appears to be covered in blood and bruises in his chilling mugshot.

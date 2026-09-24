@@ -14,6 +14,31 @@ categories:
 - UK
 - Technology & Software
 - Education & Learning
+locations:
+- America
+- Los Angeles
+- New York City
+people:
+- Brad Smith
+- Claude
+- Elizabeth Laird
+- Josh Golin
+- Randi Weingarten
+organisations:
+- AFT
+- AFT’s National Academy for AI
+- AP
+- American Federation of Teachers
+- Anthropic
+- Center for Democracy and Technology
+- ChatGPT
+- Fairplay
+- Gemini
+- Google Classroom
+- Microsoft
+- OpenAI
+- The Associated Press
+- United Federation of Teachers
 ---
 
 Millions of students every day turn to AI chatbots for help with schoolwork, emotional support and personal advice — often unaware of where their conversations and other personal information end up.

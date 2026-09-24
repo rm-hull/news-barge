@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Europe
+- France
+- Germany
+- Norway
+- Russia
+- US
+- Ukraine
+- United States
+people:
+- Marek Opioła
+- Ursula von der Leyen
+organisations:
+- ECA
+- EU
+- European Commission
+- European Union
+- Guardian
+- Nato
 ---
 
 The EU’s ability to respond to a foreign invasion by 2030 remains in doubt due to a continuing reliance on the US and fragmented national defence systems, according to a report from its official auditor.

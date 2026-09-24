@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Falkland Islands
+- Falklands
+- Great Britain
+- Israel
+- Malvinas Islands
+- North Falkland
+- North Falkland Basin
+- UK
+- West Bank
+people:
+- Benjamin Netanyahu
+- Ed Miliband
+- Gideon Tadmor
+- Itamar Ben-Gvir
+- Javier Milei
+- Navitas
+- Pablo Quirno
+organisations:
+- LSEG
+- Milei
+- Navitas Petroleum
+- Rockhopper
+- Sea Lion
+- Tel Aviv-listed Navitas Petroleum
 ---
 
 Argentina's government said on Monday it will file criminal charges against energy company Navitas Petroleum and its executives for operating in the Falkland Islands.

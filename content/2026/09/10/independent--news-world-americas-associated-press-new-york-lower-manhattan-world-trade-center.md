@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Boston
+- Chambers Street
+- Lower Manhattan
+- New York
+- Ohio
+- World Trade Center
+people:
+- Amy Sancetta
+- Barney
+- Karen Matthews
+- Larry Neumeister
+- Richard Drew
+- Robert F. Kennedy
+- __ Willingham
+organisations:
+- AP
+- Associated Press
+- Pentagon
+- World Trade Center
 ---
 
 Karen Matthews was getting her 3-year-old daughter ready for preschool in her Manhattan apartment on Sept. 11, 2001, when she heard a loud boom, unlike anything she’d ever heard before.

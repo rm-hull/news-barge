@@ -15,6 +15,32 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- America
+- Arizona
+- D.C.
+- Georgia
+- Ground Zero
+- New York
+- New York City
+- U.S.
+- US
+- Upper West Side
+- Washington
+- White House
+people:
+- Guiliani
+- Ramzi Kassem
+- Rudy Giuliani
+- Trump
+- Zohran Mamdani
+organisations:
+- 11th Families for Peaceful Tomorrows
+- Citywide Day of Remembrance and Service”
+- Newsmax
+- Pentagon
+- Southern District of New York
+- al-Qaeda
 ---
 
 Former New York City Mayor Rudy Giuliani unleashed a series of anti-Muslim statements on a right-wing media network in recent days as he called for Mayor Zohran Mamdani to skip this week’s 25th anniversary events to mark the September 11 terror attacks.

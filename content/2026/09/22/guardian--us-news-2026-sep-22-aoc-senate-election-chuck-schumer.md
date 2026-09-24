@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/b693ad5a8eb073749d096ecbdd7567e4f1e14992/241_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7f111ddae700a7aa9649b891232cf25
+locations:
+- New York
+- New York City
+- US
+people:
+- Alexandria Ocasio-Cortez
+- Chuck Schumer
+- Latina,” Ocasio-Cortez
+organisations:
+- Data for Progress
+- Federal Election Commission
+- House of Representatives
+- New York Times
+- Ocasio-Cortez
+- Senate
+- Siena University
 ---
 
 Alexandria Ocasio-Cortez, the progressive Democratic congresswoman, has refused to rule out a potential run against the party’s Senate leader Chuck Schumer amid mounting speculation around her political ambitions.

@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - News & Politics
 - Society & Culture
+locations:
+- Stargate
+- Texas
+- US
+people:
+- Craig Hale
+- Gina Hinojosa
+- Greg Abbott
+- Trump
+organisations:
+- AI
+- Craig’s
+- Google News
+- OpenAI
+- Reuters
+- TechRadar Pro
 ---
 
 ![Bloomberg](https://cdn.mos.cms.futurecdn.net/be6mQuQvsgNEvog4VqJA76.png) 

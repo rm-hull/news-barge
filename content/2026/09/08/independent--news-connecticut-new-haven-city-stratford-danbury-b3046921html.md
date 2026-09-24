@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bridgeport
+- Connecticut
+- Danbury
+- Hartford
+- New England
+- New Haven
+- North Haven
+- Shelton
+- Stratford
+- Vernon
+people:
+- Cathryn Vaulman
+- Dan Piper
+- David Owens
+- Josh Morgan
+- Lamont
+- Marc Petruzzi
+organisations:
+- CT Civil Liberties Defense Committee
+- CT Insider
+- Connecticut ALPR
+- Connecticut Police Officers Standards and Training Council
+- Connecticut Public
+- DeFlock
+- Department of Transportation
+- Flock Safety
+- Flock Safety — BusPatrol
+- The Associated Press
+- The Connecticut Mirror
+- YouTube
 ---
 
 City and town leaders across Connecticut have been fielding growing pushback from residents over automated license plate readers, which opponents say raise a range of concerns about privacy.

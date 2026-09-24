@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Berlin
+- Brussels
+- Europe
+- Frankfurt
+- Germany
+- US
+people:
+- Andrea Orcel
+- Bettina Orlopp
+- Lars Klingbeil
+organisations:
+- Commerzbank
+- European Central Bank
+- UniCredit
 ---
 
 Lars Klingbeil was expected to urge UniCredit boss Andrea Orcel to protect jobs in Germany and ensure Commerzbank remains a key lender to the country's small- and medium-sized businesses, Berlin said.

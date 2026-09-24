@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bangkok
+- Pattaya City
+people:
+- Simon Peter Carman
+- Tunchanok Donhomla
+organisations:
+- CCTV
 ---
 
 An Australian man accused of murdering a Thai teenager and putting her body in a suitcase pleaded not guilty on Friday in a hearing in the seaside resort city of Pattaya, a court official said.

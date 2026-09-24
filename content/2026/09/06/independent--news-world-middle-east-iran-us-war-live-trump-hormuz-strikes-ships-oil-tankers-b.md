@@ -14,6 +14,49 @@ categories:
 - UK
 - Sports
 - Business & Entrepreneurship
+locations:
+- Arab Salim
+- Iran
+- Israel
+- Kharg Island
+- Middle East
+- Russia
+- Sanandaj
+- South Lebanon
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UK
+- US
+- Vietnam
+people:
+- Alex Croft
+- Andy Burnham
+- Brad Cooper
+- Donald Trump
+- JD Vance
+- John Healey
+- Rachel Reeves
+- Rachel Scott
+organisations:
+- ABC News
+- Budget
+- Central Command
+- Financial Times
+- Government
+- Hezbollah
+- IRGC
+- IRNA
+- Islamic Revolutionary Guard Corps
+- OPEC
+- Organisation of the Petroleum Exporting Countries
+- Organization of the Petroleum Exporting Countries
+- Oval Office
+- Reuters
+- U.S. Central Command
+- U.S. Navy
+- US Central Command
+- US Navy
 ---
 
 The US and Iran have traded strikes on ships, the latest round of attacks since the conflict flared a week ago after a period of relative calm.

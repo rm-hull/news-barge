@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Baja California
+- Beaumont
+- Concord
+- Connecticut
+- Dallas
+- Edouard
+- Hardin
+- Hartford
+- Hawaii
+- Houston
+- Lowell
+- Marie
+- Mexico
+- New Hampshire
+- New York
+- Pacific Ocean
+- Port Arthur
+- Seattle
+- Texas
+- Texas-Louisiana
+- Tyler
+people:
+- Dave Collins
+- Hallie Golden
+- Julie Walker
+- Karina
+- Kathy McCormack
+- Lowell
+organisations:
+- Associated Press
+- National Hurricane Center
+- National Weather Service
+- ___ Stengle
 ---
 
 The former Tropical Storm Edouard weakened into a depression but dumped heavy rain, flooded roads and knocked down trees Wednesday in parts of Texas as it slowly moved north in the state.

@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Manchester
+- Millennium Bridge
+- Skipton
+- York
+people:
+- Barry Fairbrother
+- Colin Unsworth
+- Dylan Connell
+- John Cossam
+- John O'Groats
+- Sadie Tann
+organisations:
+- Mind
 ---
 
 *(Image: Dylan Connell)*

@@ -10,6 +10,21 @@ description: OAuth consent phishing is a thing
 image: https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- FBI
+- Google News
+- IC3
+- Internet Crime Complaint Center
+- Microsoft
+- Open Authorization
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf.jpg) 

@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Caruana Galizia
+- Europe
+- France
+- Lisbon
+- Malta
+- Malta.
+- Sicily
+- Valletta
+people:
+- Alex Borg
+- Alfred Degiorgio
+- Andrew
+- Caruana Galizia
+- Daphne Caruana Galizia
+- Edwina Grima
+- George
+- Joseph Muscat
+- Keith Arnaud
+- Keith Schembri
+- Konrad Mizzi
+- Matthew Caruana Galizia
+- Melvin Theuma
+- Paul
+- Peter
+- Shami Chakrabarti
+- Vincent Muscat
+- Yorgen Fenech
+- Yorgen Fenech.
+organisations:
+- Council of Europe
+- Daphne Caruana Galizia
+- Daphne Project
+- Electrogas
+- Europol
+- FBI
+- Forbidden Stories
+- Guardian
+- Labour
+- Malta Racing Club
+- Panama Papers
+- Reuters
+- Running Commentary
 ---
 
 The conclusion of the longest-running murder trial in Maltese history has left a country in turmoil, and a grieving family still searching for answers.

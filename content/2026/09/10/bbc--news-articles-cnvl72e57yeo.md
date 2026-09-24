@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cumbria
+- Hartlepool
+- Kirkleatham Walled Gardens
+- Middlesbrough
+- Plantation Road
+- Redcar
+- Sellafield
+- South Bank
+- Walled Gardens
+people:
+- Anna Turley
+- Ben Houchen
+- Cole Robert Worthy
+- Frank
+- Jakub Matusiak
+- Lauren Somerville
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Clough
+- Passat
+- Sarah Jones
+- Theo Rae
+- Tom Clough
+organisations:
+- 11 Explosive Ordnance Disposal and Search Regiment
+- A66
+- BBC Sounds
+- British Army
+- British Transport Police
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- PC Blades
+- PC Clough
+- Royal Logistics Corps
+- Tees Valley
+- Union Flag
 ---
 
 ![Several police officers in black uniforms with white gloves in a line while walking towards the camera. They are all men and most are wearing custodian helmets, but one man is wearing a blue army beret. Each officer has a number of colourful medals on the right breast of their blazers. There is another officer closer to the camera on the left who is out of focus. Many of them are carrying colourful flags. There is a large brick wall behind them.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/ec4b/live/911526f0-ad1f-11f1-826f-933990eae6f0.jpg)

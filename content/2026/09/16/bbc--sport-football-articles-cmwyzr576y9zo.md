@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Fulham
+- Old Trafford
+people:
+- Alex Ferguson
+- Ayden Heaven
+- Bruno Fernandes
+- Diogo Dalot
+- Fabian Hurzeler
+- JJ Gabriel
+- Jamie Redknapp
+- Jason Steele
+- John Pratt
+- Leny Yoro
+- Marcus Rashford
+- Michael Carrick
+- Noussair Mazraoui
+- Ruben Amorim
+- Scot
+- Shea Lacey
+- Youri Tielemans
+organisations:
+- Aberdeen
+- Brighton
+- Ipswich
+- JJ Gabriel
+- Manchester City
+- Manchester United
+- Sabah FK
+- Sky Sports
+- St Mirren
+- Tottenham
 ---
 
 ![Youri Tielemans looks dejected](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/85f8/live/7a7e2120-b220-11f1-b1d1-571ed4d7ff2c.jpg)

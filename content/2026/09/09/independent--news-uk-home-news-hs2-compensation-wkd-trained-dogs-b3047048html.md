@@ -13,6 +13,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brookhouse Farm
+- Europe
+- Hungary
+- Ireland
+- London
+- Staffordshire
+- Stone
+- UK
+people:
+- Covid
+- Ellaria Sand
+- Indira Varma
+- Isabella Tafur
+- Mark Westmoreland-Smith KC
+- Martin Rodger KC
+- Matthew Wiggins
+- Ms Tafur
+- Wiggins'
+- Wiggins’
+organisations:
+- Department for Transport
+- DfT
+- HS2
+- High Speed Rail Bill
+- Royal Court of Justice
+- Upper Tribunal
+- WKD Trained Dogs Ltd
 ---
 
 A celebrity dog whisperer who was forced to shut his exclusive kennels to clear the path for the HS2 rail project has been awarded a government compensation payout exceeding £5m.

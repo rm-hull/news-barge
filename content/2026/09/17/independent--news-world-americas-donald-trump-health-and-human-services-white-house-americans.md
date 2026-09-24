@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- New York
+- Pennsylvania
+- White House
+people:
+- Andrew Wakefield
+- Bobby
+- Donald Trump
+- Josh Shapiro
+- Mary Holland
+- Robert F. Kennedy Jr.
+- Shaughnessy Naughton
+organisations:
+- 314 Action
+- Associated Press
+- Children's Health Defense
+- Children’s Health Defense
+- Department of Health and Human Services
+- HHS
+- Health and Human Services
+- ___ Stobbe
 ---
 
 Health and Human Services Secretary Robert F. Kennedy Jr. gave the keynote address Thursday at a conference of an anti-vaccine activist group he once chaired, telling the hundreds in attendance that they had a friend in President Donald Trump's White House.

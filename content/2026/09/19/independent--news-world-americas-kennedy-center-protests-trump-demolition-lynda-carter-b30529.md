@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/19/02/Trump_Kennedy_Center_617_4.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Duke Ellington
+- East Wing
+- Foggy Bottom
+- Kennedy Center
+- Potomac River
+- Tiananmen Square
+- U.S.
+- Washington
+people:
+- Alina Baciu
+- Bud Wilkinson
+- Chris Raleigh
+- Christopher Cooper
+- Donald Trump
+- Laura Steinberg
+organisations:
+- Duke Ellington School of the Arts
+- East Potomac Golf Links
+- East Wing
+- Hands Off the Arts
+- John F. Kennedy Center for the Performing Arts
+- Kennedy Center
+- Oval Office
+- Trump Kennedy Center
+- U.S. Institute of Peace
+- Washington National Opera
 ---
 
 Thousands gathered outside the John F. Kennedy Center for the Performing Arts on Friday evening to voice opposition to plans proposed by President Donald Trump for the facility, joining a wide network of organizations and individuals alarmed that he could follow through on threats to close and demolish the iconic institution.

@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/10/21/Brazil_Supreme_Court_68691
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- Latin America
+people:
+- Alexandre de Moraes
+- André Mendonca
+- Daniel Vorcaro
+- De Moraes
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Luiz Edson Fachin
+- Luiz Inácio Lula da Silva
+- de Moraes
+organisations:
+- Banco Master
+- Supreme Court
 ---
 
 Brazil's Supreme Court canceled a second consecutive session of deliberations on Thursday, a rare step that highlights its deep institutional and political crisis.

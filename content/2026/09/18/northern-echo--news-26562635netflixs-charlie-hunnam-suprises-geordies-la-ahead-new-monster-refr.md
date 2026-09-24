@@ -14,6 +14,39 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/21473441.jpg?type=og-image&xType=0&yType=68
+locations:
+- Blyth
+- Durham
+- Hollywood
+- Los Angeles
+- Massachusetts
+- Newcastle
+- North East
+- North Shields
+people:
+- Andrew Borden
+- Charlie Hunnam
+- Charlie Hunnam Portraying Ed Gein
+- Ed Gein
+- Geordie Charlie Hunnam
+- Grace
+- King Arthur
+- Lizzie Borden
+- Nathan
+- Ted Lasso
+organisations:
+- Apple TV
+- Byker Grove
+- Chilli Padi
+- Commissioner's Quay
+- Hunnam
+- Netflix
+- Netflix, Inc
+- North Shields
+- Sons of Anarchy
+- Ted Lasso County Durham
+- The Gentlemen
+- TikTok
 ---
 
 Two North East content creators found themselves chatting to TV star and fellow Geordie Charlie Hunnam.

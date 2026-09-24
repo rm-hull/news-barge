@@ -12,6 +12,10 @@ categories:
 - York
 - Personal Finance & Investing
 - Careers & Productivity
+locations: []
+people: []
+organisations:
+- The Herald
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

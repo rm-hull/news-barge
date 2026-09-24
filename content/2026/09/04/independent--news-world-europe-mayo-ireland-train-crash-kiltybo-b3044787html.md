@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- An Garda Síochána
+- Athlone
+- Ballina
+- Ballyhaunis
+- Claremorris
+- Co Mayo
+- Dublin
+- Ireland
+- Kiltybo
+- Mayo University Hospital
+- Meelaghans
+- Midland Regional Hospital Tullamore
+- Portarlington
+- Westport
+people:
+- Darragh O’Brien
+- Iarnród Éireann
+organisations:
+- Forensic Collision Investigators
+- Garda Síochána
+- Gardaí
+- Health and Safety Authority
+- Irish Rail
+- Manulla
 ---
 
 A 12-year-old boy has died after the car he was travelling in was struck by a train at a level crossing in Co Mayo, Ireland.

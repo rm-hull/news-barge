@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brazil
+- China
+- Europe
+- India
+- Iran
+- Middle East
+- Moscow
+- New Delhi
+- Russia
+- South Africa
+- Tehran
+- U.S.
+- Ukraine
+- Washington
+people:
+- Masoud Pezeshkian
+- Narendra Modi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- BRICS
 ---
 
 Leaders of the BRICS nations were meeting in New Delhi on Saturday for a summit focused on trade, investment and global conflicts, as the bloc seeks a bigger role in shaping the global agenda for emerging and developing countries.

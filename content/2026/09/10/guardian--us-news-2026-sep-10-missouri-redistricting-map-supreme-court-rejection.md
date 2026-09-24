@@ -12,6 +12,29 @@ image: https://i.guim.co.uk/img/media/1b64d780d138f983eb00807f780354fab89e93b6/1
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- Georgia
+- Kansas City
+- Missouri
+- New York
+- US
+people:
+- Brent Powell
+- Brett Kavanaugh
+- Catherine Hanaway
+- David F Walbert
+- Denny Hoskins
+- Donald Trump
+- Emanuel Cleaver
+- Mark Gaber
+- Mike Kehoe
+- Stephen Clark
+organisations:
+- Campaign Legal Center
+- Congress
+- House of Representatives
+- US House of Representatives
 ---
 
 The US supreme court again rejected a push backed by Donald Trump to overhaul Missouri’s congressional maps in an effort to hand Republicans an edge in November’s midterm elections.

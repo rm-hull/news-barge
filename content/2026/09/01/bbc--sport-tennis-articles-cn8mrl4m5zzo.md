@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Flushing Meadows
+- Grandstand
+- New York
+- North Carolina
+- Wimbledon
+people:
+- Arthur Fery
+- Dane Sweeny
+- Jacob Fearnley
+- Jan Choinski
+- Lorenzo Musetti.
+- Musetti
+- Toby Samuel
+organisations:
+- ATP
 ---
 
 ![Arthur Fery thanks the crowd as he leaves the court following his defeat at the US Open](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a980/live/7fd87b70-a659-11f1-b9c3-ff4913859afc.jpg)

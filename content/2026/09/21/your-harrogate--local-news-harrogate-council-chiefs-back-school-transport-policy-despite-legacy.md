@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/66a0f3f75831f.jpg
+locations:
+- County Hall
+- North Yorkshire
+- North Yorkshire’
+- Northallerton
+people:
+- Andrew Lee
+- Charlotte Fowler
+- Kate Helme
+- Peter Lacey
+- Peter Wilkinson
+- Simon Myers
+organisations:
+- Appleton Roebuck
+- Church Fenton
+- Liberal Democrat-run Westmorland and Furness Council
+- North Yorkshire Council
+- STAG
+- School Transport Action Group
+- Tockwith
 ---
 
 ![](https://mmo.aiircdn.com/409/66a0f3f75831f.jpg)

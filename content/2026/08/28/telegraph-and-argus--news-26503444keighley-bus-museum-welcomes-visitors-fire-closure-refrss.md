@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Dalton Mills
+- Keighley
+- Mick Berry
+- Worth Valley
+- Worthbridge
+people:
+- Mick Berry
+- Norman Shepherd
+organisations:
+- Board
+- Bus Museum
+- Entry
+- Facebook
+- Keighley Bus Museum
+- Keighley Bus Museum Trust
+- Mick Berry
 ---
 
 A year after embers from a major mill fire forced its closure, Keighley Bus Museum welcomed visitors back for an Open Day celebrating its reopening.

@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Flushing Meadows
+- Hamburg
+- New York
+- North Carolina
+- Peru
+- Winston-Salem
+people:
+- Arthur Fery
+- Cameron Norrie
+- Emma Raducanu
+- Fran Jones
+- Harriet Dart
+- Harry Wendelken
+- Ignacio Buse
+- Jack Draper
+- Jacob Fearnley
+- Jan Choinski
+- Katie Boulter
+- Lorenzo Musetti
+- Toby Samuel
+- Tommy Paul
+organisations:
+- ATP
+- All England Club
+- Winston-Salem
 ---
 
 ![Arthur Fery in action](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/63be/live/b1466d50-a3ef-11f1-863f-8dae62681d3a.jpg)

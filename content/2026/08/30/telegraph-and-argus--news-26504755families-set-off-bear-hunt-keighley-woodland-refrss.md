@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Outdoors & Nature
+locations:
+- Damems Woodland
+- Keighley Town
+people:
+- Elisabeth King
+- Ellen Bailey
+- Martin Crangle
+organisations:
+- Bradford Road Safety Team
 ---
 
 Families set off on a bear hunt through the woods as part of a book-themed adventure day.

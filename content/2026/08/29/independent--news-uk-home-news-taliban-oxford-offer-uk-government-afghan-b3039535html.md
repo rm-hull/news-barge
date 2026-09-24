@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Afghanistan
+- Cameroon
+- Germany
+- Iran
+- Kabul
+- Myanmar
+- Oxford
+- Sudan
+- UK
+people:
+- '**“** I'
+- Aisha Khurram
+- Ms Khurram
+organisations:
+- Bard College Berlin
+- Home Office
+- Kabul University
+- Oxford University
+- The Independent
+- United Nations
+- Universities of Sanctuary
+- University of Oxford
+- University of Sanctuary
 ---
 
 An Afghan human rights activist who was offered a place on a prestigious course at Oxford University has been blocked from entering the UK.

@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21489180.jpg?type=og-image
+locations:
+- Northallerton
+- O2
+- Tall Trees
+- Yarm
+people:
+- MIKE CARR
+- Max
+- Mike Carr
+- Tony Hadley
+organisations:
+- Google
+- The Forum
 ---
 
 A lifelong fan of singer Tony Hadley is turning a devastating brain tumour diagnosis into a fundraising drive, with the vocalist set to perform at a special event in his honour tomorrow.

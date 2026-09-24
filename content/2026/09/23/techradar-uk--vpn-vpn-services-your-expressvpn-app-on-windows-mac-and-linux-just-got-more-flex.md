@@ -11,6 +11,22 @@ description: Version 14.3.1 lands on all three desktop platforms with Advanced P
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/gdAowPVB5WAG8wcwd7H3QW-991-80.jpg
+locations: []
+people:
+- Monica J. White
+organisations:
+- AI
+- Advanced Protection
+- Digital Trends
+- ExpressVPN
+- Google News
+- MCP
+- Monica
+- No Trace
+- SlashGear
+- TechRadar
+- Tom’s Hardware
+- WePC
 ---
 
 ![ExpressVPN app shown on two mac laptops on green hued background](https://cdn.mos.cms.futurecdn.net/gdAowPVB5WAG8wcwd7H3QW.jpg)

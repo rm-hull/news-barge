@@ -16,6 +16,29 @@ categories:
 - Business & Entrepreneurship
 - History
 - Personal Finance & Investing
+locations:
+- Bridlington
+- East Yorkshire
+- Edinburgh
+- England
+- Filey
+- Hull
+- North Yorkshire
+- York
+people:
+- Andy Burnham
+- Angela Rayner
+- Brendan Paddison
+- Danny Lawson
+- David Skaith
+- John Healey
+- Luke Campbell
+organisations:
+- East Yorkshire
+- Hull
+- Labour
+- Policy Lab
+- Reform UK
 ---
 
 # 'Having the power doesn’t mean you have to use it' - Hull and East Yorkshire Mayor Luke Campbell will not introduce tourist taxes

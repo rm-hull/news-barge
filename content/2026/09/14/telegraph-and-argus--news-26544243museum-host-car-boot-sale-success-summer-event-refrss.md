@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Eccleshill
+people: []
+organisations:
+- BRADFORD Industrial Museum
 ---
 
 *(Image: T&A)*

@@ -15,6 +15,18 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- Harrogate
+- Knaresborough Road
+- The Stray
+- Wetherby Road
+- Wetherby Road**
+people:
+- Sarah Moore
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police**
 ---
 
 **North Yorkshire Police** have launched an urgent appeal for information following a sexual assault on**The Stray** in Harrogate over the weekend.

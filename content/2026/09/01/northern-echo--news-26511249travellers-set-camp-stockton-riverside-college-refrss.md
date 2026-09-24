@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- County Durham
+- Darlington
+- North East
+- Showgrounds
+- THE NORTHERN ECHO
+- Teesside
+people:
+- Caravans
+organisations:
+- Cleveland Police
+- Northern Echo
+- Stockton Riverside College
+- THE NORTHERN ECHO
 ---
 
 Travellers have set up camps on the grounds of a North East college, as students return for their first day back.

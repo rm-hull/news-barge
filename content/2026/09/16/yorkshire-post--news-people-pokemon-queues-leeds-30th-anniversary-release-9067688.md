@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Central Road
+- Leeds
+- Travelling Man
+- Yorkshire
+people:
+- Khalid Morton
+- Man
+- Pikachu
+organisations:
+- Pokémon TCG
+- Travelling Man
+- YEP
+- Yorkshire Evening Post
 ---
 
 # Pokémon TCG’s 30th anniversary release: Pictures show huge queues in Yorkshire

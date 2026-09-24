@@ -11,6 +11,38 @@ description: The Geekom A5 2027 Edition keeps the well-liked enclosure and upgra
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/WsMT9hz8MJRKckJseQDF9H-1600-80.jpg
+locations:
+- Amazon
+- Canada
+- Geekom
+- Japan
+- UK
+- US
+- USA
+people:
+- Geekom
+- Mark Pickavance
+organisations:
+- 3D World
+- AMD
+- Amazon
+- Amazon.co.uk
+- Amazon.com
+- BOSGAME P4 Ultra
+- Cinebench
+- EU
+- GMKtec NucBox M5 Ultra
+- GPU
+- Geekom
+- MicroMart
+- OCuLink
+- PC Format
+- Radeon Vega
+- TDP
+- TSMC
+- TechRadar Pro
+- The A5
+- Thunderbolt
 ---
 
 ### TechRadar Verdict

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Flushing Meadows
+- Indian Wells
+- Miami
+people:
+- Arantxa Sanchez Vicario
+- Aryna Sabalenka
+- Coco Gauff
+- Elena Rybakina
+- Serena Williams
+- Stefanie Graf
+organisations:
+- No. 1
+- WTA
 ---
 
 Aryna Sabalenka and Elena Rybakina will finish the Grand Slam season the way it started.

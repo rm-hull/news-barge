@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Corona Park
+- Flushing Meadows
+- Louis Armstrong Stadium
+- New York
+- New York.
+- Uzbekistan
+people:
+- Alexander Zverev
+- Aryna Sabalenka
+- Diana Shnaider
+- Eva Asderaki-Moore
+- Francesca Jones
+- Harriet Dart
+- Kamilla Rakhimova
+- Katie Boulter
+- Novak Djokovic
+- Serena Williams
+- Taylor Townsend
+organisations: []
 ---
 
 ![Aryna Sabalenka celebrates beating Kamilla Rakhimova at the US Open](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cdc6/live/440984e0-a884-11f1-824a-0fc4c5d895ae.jpg)

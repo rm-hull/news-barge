@@ -14,6 +14,24 @@ categories:
 - UK
 - Sports
 - Arts & Culture
+locations:
+- UK
+- US
+people:
+- Alexandra Ridout
+- Bel Trew
+- Donald Trump
+- Monica Ferro
+- Ms Ferro
+organisations:
+- Bel
+- ICA London
+- Kings College London
+- The Independent
+- UN Population Fund
+- UNFPA
+- United States Agency for International Development
+- Women and Children's Health
 ---
 
 *The Independent* is offering 10 pairs of tickets to a special screening at the ICA London of the moving new documentary*Hard Labour: Inside the global crisis killing mothers and babies*.

@@ -10,6 +10,25 @@ description: Flock's searchable network of 130,000 license plate cameras around 
 image: https://techcrunch.com/wp-content/uploads/2026/09/pigeon-flock-2289958923.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- Cambridge
+- Dallas
+- Eugene
+- Evanston
+- Florida
+- Illinois
+- Massachusetts
+- Oregon
+- Texas
+- United States
+people:
+- Greg Abbott
+- Lufkin
+- Ron DeSantis
+organisations:
+- Flock
+- Florida’s Department of Transportation
+- TechCrunch
 ---
 
 The states of Florida and Texas are moving to end their relationship with surveillance giant Flock, as the company faces increasing backlash over privacy concerns and misuse of its tracking technology.

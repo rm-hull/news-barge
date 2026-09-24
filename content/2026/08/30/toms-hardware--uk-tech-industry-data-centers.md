@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+people:
+- Rubin
+organisations:
+- EPA
+- Get Tom's Hardware
+- IntelBrief
+- Microsoft
+- Soufan Center
 ---
 
 ![the blades on the front fan of a jet engine](https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG-320-80.png)

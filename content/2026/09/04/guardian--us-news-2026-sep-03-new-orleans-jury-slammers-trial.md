@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Louisiana
+- New Orleans
+- US
+people:
+- Alforitsh
+- Cornelius Garrison
+- David Courcelle
+- Leon “Chunky” Parker
+- Sean Alfortish
+- Shaune Clarke
+- Stephen Haedicke
+- Wendy Vitter
+organisations:
+- FBI
 ---
 
 A federal jury in New Orleans on Thursday returned a split verdict after more than 30 hours of deliberations in a three-week-long blockbuster fraud and murder trial that garnered headlines far beyond Louisiana.

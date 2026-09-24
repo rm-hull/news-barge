@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Film & TV
+locations:
+- Cagnes-sur-Mer
+- France
+- Gaza Strip
+- Israel
+- Marseille
+people:
+- '## Lior Raz'
+- Avi Issacharoff
+- Bruce Campbell
+- Doron Kavillio
+- Fauda
+- Lior Raz
+organisations:
+- Gaza Health Ministry
+- Hamas
+- Netflix
+- Renoir Museum
+- Tudum
+- United Nations
 ---
 
 ## Lior Raz, one of the show's creators, told Netflix's Tudum site that he hoped viewers would understand "how peace is important, and how we need to think differently and how war is ruining the universe."

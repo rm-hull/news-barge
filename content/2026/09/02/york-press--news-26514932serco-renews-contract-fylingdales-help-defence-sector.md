@@ -13,6 +13,30 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Earth
+- North Yorkshire
+- UK
+- US
+people:
+- Anthony Kirby
+organisations:
+- ESP
+- Early Warning Radar
+- Ministry of Defence
+- MoD
+- RAF Fylingdales
+- Redcar & Cleveland College
+- Royal Air Force
+- SSPAR
+- Serco Group
+- Solid State Phased Array Radar
+- Teesside University
+- UEWR
+- UK Space Command
+- UKSP
+- US Space Force
+- United Kingdom Spacetrack Processor
 ---
 
 *(Image: Freelancer)*

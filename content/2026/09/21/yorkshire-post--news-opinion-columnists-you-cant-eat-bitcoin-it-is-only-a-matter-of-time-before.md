@@ -17,6 +17,18 @@ categories:
 - Personal Finance & Investing
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIwYjBmNjNmLTQwMjItNGIwOC1hYmQxLTMzYWFjYWJmYTIyNTpkZTU0NGI5OS01ZGQ5LTQ0YjgtYjc4MC02MmYzYzkzY2RjNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Aire Valley
+- Covid
+people:
+- Andy Brown
+- Gordon Brown
+- Margaret Thatcher
+organisations:
+- Green Party
+- Jaguar Land Rover
+- Labour
+- NHS
 ---
 
 # You can’t eat Bitcoin, it is only a matter of time before the next financial crash - Andy Brown

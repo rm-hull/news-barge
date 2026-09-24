@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Grangetown
+- Lime Road
+- Middlesbrough
+people:
+- Matthew Blades
+organisations:
+- Cleveland Fire Brigade
+- Stockton Police
+- Teesside Cleveland Police
 ---
 
 *(Image: FIRE SERVICE)*

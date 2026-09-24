@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- DL1
+- Darlington
+people:
+- Will Foxx
+organisations: []
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on the a fire at the DL1 complex in Darlington.

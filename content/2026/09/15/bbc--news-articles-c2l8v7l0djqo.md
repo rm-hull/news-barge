@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- UK
+people:
+- Andrew Griffith
+- Jonathan Cribb
+- Jonathan Reynolds
+- Rachel Reeves
+- Ruth Curtice
+- Steve Webb
+- Torsten Bell
+organisations:
+- BBC
+- Budget
+- HMRC
+- Houses of Parliament.
+- IFS
+- Institute for Fiscal Studies
+- LCP
+- Labour
+- Liberal Democrat
+- ONS
+- Office for National Statistics
+- Resolution Foundation
 ---
 
 ![Elderly couple waiting on a train station platform](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg)

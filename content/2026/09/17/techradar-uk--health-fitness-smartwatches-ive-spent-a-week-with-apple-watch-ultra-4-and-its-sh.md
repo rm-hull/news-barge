@@ -10,6 +10,32 @@ description: Plus, a bigger battery inside
 image: https://cdn.mos.cms.futurecdn.net/MEqHhmQzBWQVD52a7Vuk5j-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Low Power Mode
+- U.S.
+- US
+people:
+- Bruce Springsteen
+- Jacob Krol
+organisations:
+- Apple
+- CNBC
+- CNET
+- CNN Underscored
+- Cupertino
+- Disney
+- Google News
+- HRV
+- Jacob Krol
+- Live Rewind
+- Marvel
+- Mashable
+- Men’s Journal
+- News for TechRadar
+- Samsung
+- Shazam
+- Siri Recap
+- TheStreet
 ---
 
 ![Apple Watch Ultra 4 Review](https://cdn.mos.cms.futurecdn.net/MEqHhmQzBWQVD52a7Vuk5j.jpg) 

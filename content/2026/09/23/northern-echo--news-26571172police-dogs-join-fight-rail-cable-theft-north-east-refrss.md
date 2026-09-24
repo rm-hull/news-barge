@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21486723.jpg?type=og-image
+locations:
+- County Durham
+- Doncaster
+- East Coast Main Line
+- Network Rail
+- North East
+- Weardale Railway
+people:
+- Chloe
+- John Grainger
+organisations:
+- BTP
+- British Transport Police
+- CCTV
+- East Coast Partnership
+- LNER
+- Network Rail
 ---
 
 *(Image: Network Rail)*

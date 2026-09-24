@@ -11,6 +11,22 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/outgang-lane-york-gsv.webp
+locations:
+- '#### Outgang Lane'
+- Derwenthorpe
+- Osbaldwick
+- Outgang Lane
+- Restore Britain
+- York
+people:
+- Betty Elizabeth Smith
+- Cllr Kate Ravilious
+- Cllr Ravilious
+- Keyline
+- Mark Warters
+organisations:
+- City of York Council
+- Labour
 ---
 
 Works planned on a York road where an elderly woman was killed will help avoid future tragedies, the council’s transport lead has said.

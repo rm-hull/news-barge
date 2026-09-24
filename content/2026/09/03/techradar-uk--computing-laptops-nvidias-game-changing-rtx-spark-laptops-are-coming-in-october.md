@@ -12,6 +12,28 @@ description: At IFA 2026, Nvidia announced that laptops from Microsoft, HP, Leno
 image: https://cdn.mos.cms.futurecdn.net/ZrwVmEKuvLeNQhm3PhDeKa-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- Germany
+people:
+- Matt Hanson
+organisations:
+- ARM
+- Apple
+- Core Tech
+- Dell
+- Google News
+- HP
+- IFA
+- Intel
+- Lenovo
+- MFG
+- Matt
+- Microsoft
+- Nvidia
+- PC Plus
+- RTX Spark
+- TechRadar
 ---
 
 ![RTX Spark laptops at IFA 2026](https://cdn.mos.cms.futurecdn.net/ZrwVmEKuvLeNQhm3PhDeKa.jpg) 

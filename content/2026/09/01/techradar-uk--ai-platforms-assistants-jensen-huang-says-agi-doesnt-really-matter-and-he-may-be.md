@@ -9,6 +9,22 @@ description: AI doesn’t need to become superintelligent to become dangerous
 image: https://cdn.mos.cms.futurecdn.net/A8pTq7Zta42Tdh4SiiinsE-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- New York City
+- Silicon Valley
+people:
+- Eric Hal Schwartz
+- Jensen Huang
+organisations:
+- AGI
+- AI
+- Google Gemini
+- Google News
+- Nvidia GTC
+- Skynet
+- TechRadar
+- Voicebot.ai
 ---
 
 ![Nvidia GTC 2025 Jensen Huang keynote](https://cdn.mos.cms.futurecdn.net/A8pTq7Zta42Tdh4SiiinsE.jpg) 

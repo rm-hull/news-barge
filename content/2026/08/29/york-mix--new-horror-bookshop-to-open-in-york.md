@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acomb
+- Coney Street
+- Goodramgate
+- Malton
+- North Yorkshire
+- UK
+- York
+people:
+- Isla
+- Kemps
+organisations:
+- Good Books
+- Isla Coole
+- Isla!
+- Poetry Pharmacy
+- Toppings York
 ---
 
 A brand new bookshop is set to ‘thrill and chill’ in York.

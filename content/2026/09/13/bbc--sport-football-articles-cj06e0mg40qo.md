@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ibrox
+- Rangers'
+people:
+- '## McInnes'
+- Callum McGregor
+- Cameron Carter-Vickers
+- Camilo Duran
+- Dan Neil
+- Derek McInnes
+- Eddie Hearn
+- Emmanuel Fernandez
+- James Penrice
+- Kasper Hogh
+- Kevin Kelsy
+- Lord
+- Martin O'Neill
+- McInnes'
+- Nico Raskin
+- Olwethu Makhanya
+- Ryan Naderi
+- Sam Johnstone
+- Shaun Maloney
+organisations:
+- Aberdeen
+- Celtic
+- Ibrox
+- Old Firm
+- Rangers
 ---
 
 ![Derek McInnes](https://ichef.bbci.co.uk/ace/standard/909/cpsprodpb/a4ef/live/15bc74f0-af76-11f1-aafc-c90fa48bb0ed.jpg)

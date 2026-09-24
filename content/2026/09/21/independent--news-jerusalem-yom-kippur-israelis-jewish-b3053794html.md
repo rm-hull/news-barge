@@ -13,6 +13,11 @@ categories:
 - UK
 - Religion & Spirituality
 image: https://static.independent.co.uk/2026/09/21/18/APTOPIX_Israel_Yom_Kippur__1653.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Jerusalem
+- Yom Kippur
+people: []
+organisations: []
 ---
 
 Photos of car-free Jerusalem and the kapparot ritual before Yom Kippur

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Catterick Garrison
+- Chichester Harbour
+- Military Court Centre
+- North Yorkshire
+- Royal Artillery
+- Thorney Island
+- UK
+- USA
+people:
+- Edward Legard
+- Elizabeth Cook
+- Gunner Beck
+- Gunner Jaysley Beck
+- James Hook
+- Jaysley Beck
+- Mae King
+- Michael Webber
+- Mr Hartley
+- Samantha Shepherd
+organisations:
+- 14 Regiment Royal Artillery
+- 988 Suicide and Crisis Lifeline
+- Air Commodore
+- Army
+- Crown
+- Royal Navy
+- Samaritans
 ---
 
 Army colonel Samantha Shepherd has been found not guilty of failing to properly deal with abuse allegations made by Gunner Jaysley Beck before her death.

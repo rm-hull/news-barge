@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/13/39/11.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Kennedy Center
+- Trump
+- White House
+people:
+- Abraham Lincoln
+- Donald Trump
+organisations:
+- Ford’s Theater
+- MS Now
+- Trump
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

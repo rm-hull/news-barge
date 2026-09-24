@@ -14,6 +14,24 @@ categories:
 - Personal Finance & Investing
 - Music
 - Business & Entrepreneurship
+locations:
+- Iran
+- Israel
+- Kharg Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+people:
+- Daan Struyven
+- Mohsen Rezaei
+organisations:
+- Bloomberg TV
+- Goldman Sachs
+- Islamic Revolutionary Guard Corps
+- Kpler
+- Trump
 ---
 
 Oil prices could surge as high as $120 per barrel if attacks on Middle East shipping do not stop, Goldman Sachs has warned.

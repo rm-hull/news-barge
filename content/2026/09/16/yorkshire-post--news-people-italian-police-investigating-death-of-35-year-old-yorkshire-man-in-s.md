@@ -14,6 +14,19 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Italy
+- Leeds
+- Noto
+- Province of Syracuse
+- Sicily
+- Yorkshire
+people:
+- Benjamin John Braithwaite
+organisations:
+- Carabinieri
+- Commonwealth and Development Office
+- FCDO
 ---
 
 # Italian police investigating death of 35-year-old Yorkshire man in Sicily

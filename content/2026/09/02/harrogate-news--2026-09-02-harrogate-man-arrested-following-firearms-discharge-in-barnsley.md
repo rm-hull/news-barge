@@ -13,6 +13,15 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Barnsley
+- Harrogate
+- North Yorkshire
+- Smithies Lane
+- South Yorkshire
+people:
+- Joanne Chambers
+organisations: []
 ---
 
 A man from Harrogate has been arrested following an overnight firearms discharge in Barnsley.

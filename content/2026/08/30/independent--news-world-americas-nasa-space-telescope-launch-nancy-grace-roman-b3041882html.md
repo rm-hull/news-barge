@@ -14,6 +14,33 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations:
+- Cape Canaveral
+- Earth
+- Florida
+- Kennedy Space Center
+- Lagrange Point
+- Milky Way
+- U.S.
+- US
+- White House
+people:
+- Donald Trump
+- Hubble
+- Jackie Townsend
+- Jared Isaacman
+- Julie McEnery
+- Webb
+organisations:
+- Congress
+- Elon Musk
+- Hubble Space Telescope
+- James Webb Space Telescope
+- NASA
+- NRO
+- Nancy Grace Roman Space Telescope
+- National Reconnaissance Office
+- Trump
 ---
 
 NASA has embarked on an ambitious new endeavour to probe some of the most profound puzzles of space following the launch on Sunday of the US space agency's latest flagship observatory—a repurposed spy satellite designed to capture panoramic views of the cosmos.

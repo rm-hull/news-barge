@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- New York City
+- Saudi Arabia
+- US
+people:
+- Carol Schleif
+- Donald Trump
+- Jerome Powell
+- Kevin Warsh
+- Scott Bessent
+organisations:
+- AI
+- BMO Wealth Management
+- Treasury
+- US Federal Reserve
 ---
 
 ![Lots of people from behind walking down a street in New York City on a sunny day](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/0838/live/ae2bcee0-b12c-11f1-b199-f1c9bc04a179.jpg)

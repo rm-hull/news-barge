@@ -12,6 +12,54 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Austria
+- Gulf
+- Katara Cultural Village
+- Khalifa International Stadium
+- London
+- Lusail Stadium Precinct
+- MENASA
+- Middle East
+- Old Doha Port
+- Portugal
+- Qatar
+- Royal Albert Hall
+people:
+- Angham
+- Hans Zimmer
+- Iga Świątek
+- Jassim bin Mohammed Al Thani
+- John Legend
+- Maria Sharapova
+- Martina Hingis
+- Maya Abu Hajleh
+- Noura Al Sayeh
+- Novak Djokovic
+- Rafael Nadal
+- Roger Federer
+organisations:
+- 974 Stadium Precinct
+- ATP
+- Al Mayassa Theatre
+- DECC
+- DJWE
+- Doha Exhibition and Convention Centre
+- Doha Jewellery
+- Formula 1
+- Katara International Hunting & Falcons
+- Khalifa International Tennis and Squash Complex
+- Lusail International Circuit
+- QIFF
+- QNCC
+- Qatar Airways
+- Qatar Grand Prix Lusail International Circuit
+- Qatar National Convention Centre
+- Qatar National Day Qatar
+- Qatar Tourism and Visit Qatar
+- Souq Waqif
+- Voice of Egypt
+- WTA
 ---
 
 **Maya Abu Hajleh**

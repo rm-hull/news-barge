@@ -13,6 +13,14 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/20657376.jpg?type=og-image
+locations:
+- Heslington Road
+- York
+people:
+- Sohail Saleem
+organisations:
+- Flame N Fry
+- Kickin Chicken
 ---
 
 A NEW family-run restaurant in York is offering 50 per cent off everything during its launch.

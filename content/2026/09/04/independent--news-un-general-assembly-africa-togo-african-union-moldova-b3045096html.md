@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Africa
+- Estonia
+- Georgia
+- Greenland
+- Lithuania
+- Moldova
+- North America
+- Serbia
+- South America
+- Togo
+- U.S.
+- Ukraine
+people:
+- Gerardus Mercator
+- Jean-Noël Barrot
+- Mark Monmonier
+- Robert Dussey
+organisations:
+- African Union
+- Syracuse University
+- U.N.
+- United Nations General Assembly
 ---
 
 The United Nations General Assembly on Friday endorsed a new world map that represents Africa more accurately in its larger size, a culmination of a recent campaign led by African countries and advocacy groups.

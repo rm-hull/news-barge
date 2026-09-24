@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A1
+- Burtree Interchange
+- DURHAM
+- Darlington
+- Junction 57
+- Junction 58
+- M
+- Scotland
+- Yorkshire
+people:
+- Billy
+- William (Billy) Campbell
+- William Campbell
+organisations:
+- A1
+- Durham Constabulary
+- Durham Police
+- North East Debenhams
+- Serious Collisions Investigation Unit
 ---
 
 *(Image: DURHAM POLICE)*

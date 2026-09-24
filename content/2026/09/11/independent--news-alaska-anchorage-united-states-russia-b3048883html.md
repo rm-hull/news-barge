@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- Anchorage
+- Bering Sea
+- Russia
+- St. Lawrence Island
+- United States
+people:
+- Adam White
+organisations:
+- Coast Guard
+- KTUU-TV
+- The Northwest Explorer
+- U.S. Coast Guard
 ---
 
 Bobbing for days atop a capsized skiff in Alaska’s frigid Bering Sea, a 15-year-old boy held on until he was rescued by a fishing vessel this week, the U.S. Coast Guard said.

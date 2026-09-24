@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Earth
+- Ground Zero
+- Islamic Republic of Iran
+- New York
+- New York City
+- Saudi Arabia
+- US
+- USA
+- United States
+- Washington
+people:
+- Donald Trump
+- JD Vance
+- Pete Hegseth
+- Terry Strada
+organisations:
+- Pentagon
+- World Trade Center
 ---
 
 Donald Trump and Pete Hegseth used remarks at the memorial ceremony marking the 25th anniversary of 9/11 to defend the US-Israel war on Iran – and suggest the controversial conflict was part of the legacy of the worst terrorist attack in US history.

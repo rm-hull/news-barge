@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+people:
+- Brian
+- Dawn Bellingham
+- Tom Barker Amos
+organisations:
+- Durham County Council
+- McDonald's
+- New County Durham Farmfoods
+- Reform UK
+- The Northern Echo
 ---
 
 *(Image: Supplied)*

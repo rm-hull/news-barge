@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Asia
+- Beijing
+- China
+- Hong Kong
+- Shanghai
+- United States
+people:
+- Tung Chee-hwa
+- Xi Jinping
+organisations:
+- General Electric
+- Orient Overseas Container Line
+- University of Liverpool
 ---
 
 Hong Kong ’s first post-handover leader, Tung Chee-hwa, who struggled to cope with an Asian financial crisis and growing protests for democracy in the early years under Chinese rule, has died at age 89.

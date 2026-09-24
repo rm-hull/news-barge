@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/08041ea62dcfb568f0c9e5d9d7a877b6b2bbdd98/0_53_4141_3314/master/4141.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01552e3c93199e61be9f317fe6aef5c5
+locations:
+- Amazon
+- Congo
+- Downing Street
+- Kenya
+- New York
+- UK
+- Waveney Valley
+people:
+- Adrian Ramsay
+- Andy Burnham
+- Ed Miliband
+- Keir Starmer
+- Richard Nugee
+organisations:
+- EU
+- Foreign Secretary
+- Freedom of Information Act
+- Global Environment Facility
+- Green Party
+- Guardian
+- JIC
+- UN
 ---
 
 The UK has warned countries around the world that the climate and nature crises and the coming El Niño threaten their national security and defence, presenting foreign ministries with the findings of an explosive report suppressed under Keir Starmer.

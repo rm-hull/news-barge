@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Grapevine
+- North Carolina
+- TX
+people:
+- Angela Cruise
+- Denise Bertacchi
+- John Modi
+- Marc Pendergraft
+- Tom
+organisations:
+- Aaron Pratt
+- Brothers Elias
+- BurnForge__
+- CO2
+- Denise Bertacchi
+- Diode
+- Get Tom's Hardware
+- Google News
+- Isaiah Grey
+- MOPA
+- Maker Studio
+- Next Level Maker Conference
+- Print Shop
+- SE1
+- Smokey Hill Designs
+- Tom’s Hardware US
+- UV
+- X1
+- xTool
 ---
 
 ![xTool](https://cdn.mos.cms.futurecdn.net/HPXbDwcuT5atbASBqEfme5.jpg) 

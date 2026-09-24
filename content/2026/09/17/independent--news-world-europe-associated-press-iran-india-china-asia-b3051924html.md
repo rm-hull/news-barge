@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Asia
+- Brazil
+- China
+- Europe
+- France
+- Gulf
+- India
+- Indonesia
+- Iran
+- Israel
+- Italy
+- Japan
+- Laos
+- London
+- Middle East
+- Princeton
+- Spain
+- Strait of Hormuz
+- The Netherlands
+- U.K.
+- U.S.
+- United Kingdom
+people:
+- Caspian Conran
+- Donald Trump
+- Hannah Pitt
+- Michael Oppenheimer
+- Pauline Heinrichs
+- Rob Jackson
+- Samantha Gross
+organisations:
+- AP
+- Associated Press
+- Associated Press’
+- Baringa
+- Brookings Institution
+- Centre for Research on Energy and Clean Air
+- Clean Investment Monitor
+- Climate TRACE
+- EVs
+- European Union
+- International Energy Agency
+- King’s College London
+- Rhodium Group
+- Stanford University
 ---
 
 Countries are embracing clean power and taking steps to use less energy because of the war against Iran, but it is not yet enough to help address climate change.

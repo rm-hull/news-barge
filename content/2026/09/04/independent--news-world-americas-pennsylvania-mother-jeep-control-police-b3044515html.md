@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Beallsville
+- California
+- North Strabane Township
+- Pennsylvania
+- Washington County
+people:
+- Jeep
+- Karoline Heintz
+- Rachel Moser
+- Royce Moser
+organisations:
+- AirTag
+- EMS
+- PennWest California University
 ---
 
 Authorities released police bodycam footage Thursday showing the discovery of a Pennsylvania college student’s body that led to the arrest of her boyfriend, who said in court documents that a “demon” told him to stab her.

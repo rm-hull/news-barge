@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- A66
+- Grangetown
+- Middlesbrough
+- Teesside Magistrates' Court
+people:
+- Jaden Wright
+- Lisa Kirton
+- Minnie Mouse
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- BBC Sounds
+- Cleveland Police
 ---
 
 ![Valentina Foster is wearing pink glittery Minnie Mouse ears with a bow and a black and white bomber jacket. She has shoulder-length blonde hair and blue eyes and is smiling at the camera. She is standing in front of a building with white columns and ornate windows.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/963c/live/66bc8170-a615-11f1-a291-b542ee92de7c.jpg)

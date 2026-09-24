@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Doncaster
+- Edinburgh
+- Grand Central
+- Leeds
+- London Kings Cross
+- Manchester
+- Newcastle
+- Retford
+- Sheffield
+- York
+people: []
+organisations:
+- CrossCountry
+- Hull Trains
+- LNER
+- London Kings Cross
+- National Rail
+- Newsquest
+- TransPennine Express
 ---
 
 *(Image: Newsquest)*

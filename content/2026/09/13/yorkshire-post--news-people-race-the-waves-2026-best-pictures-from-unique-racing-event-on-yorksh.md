@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bridlington
+- South beach
+- UK
+- Yorkshire
+- Yorkshire.
+people:
+- Annabel Lee-Ellis
+organisations: []
 ---
 
 Race The Waves 2026 saw classic cars and bikes race the waves along Bridlington's South beach in pairs from a flagged start.

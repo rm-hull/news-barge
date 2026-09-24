@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Atlanta
+- Ulta
+- Ulta-mate
+people:
+- Hey Ulta
+- Lisandra Vazquez
+organisations:
+- Flock Camera
+- Flock Safety
+- Instagram
+- The Independent
+- The Washington Post
+- Ulta & I
+- Ulta Beauty
+- UltraViolet
 ---
 
 Ulta Beauty is facing backlash from shoppers over the cosmetics giant allowing Flock Safety surveillance cameras at some of its stores.

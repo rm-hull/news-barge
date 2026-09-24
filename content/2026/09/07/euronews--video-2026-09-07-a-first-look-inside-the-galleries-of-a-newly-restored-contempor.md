@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- New York
+- Uzbekistan
+people:
+- Shavkat Mirziyoyev
+- Wilhelm Heinzelman
+organisations:
+- Centre for Contemporary Arts Tashkent
+- Solomon R. Guggenheim Museum
 ---
 
 A 1912 industrial building designed by architect Wilhelm Heinzelman has been given a very different second life. First used as a tram depot and later as a diesel power station, the site has been restored as the Centre for Contemporary Arts Tashkent, with its industrial character deliberately preserved.

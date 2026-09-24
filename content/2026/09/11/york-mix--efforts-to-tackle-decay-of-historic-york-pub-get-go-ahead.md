@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - History
+locations:
+- Fishergate Bar
+- George Street
+- The Phoenix Inn
+- York
+people:
+- Mark Rogers
+organisations:
+- City of York Council
+- Norton Joinery Ltd
+- Phoenix Inn
+- The Labour In Vain
+- The Phoenix Iron Foundry
 ---
 
 Efforts to tackle the decay of a historic York pub have been given the go ahead.

@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/vnpBJPCcs2siQw5rCEsDzG-2560-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- CloudSEK
+- Crooks
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Arctic Wolf
+- CloudSEK
+- FIDO2/WebAuthn
+- Google News
+- IT
+- MFA Arctic Wolf
+- Microsoft
+- PREY-0058
+- Represent Communications
+- TechRadar Pro
+- Telegram
+- The Hacker News
 ---
 
 ![Microsoft 365](https://cdn.mos.cms.futurecdn.net/vnpBJPCcs2siQw5rCEsDzG.png) 

@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/01/10/2026-08-31T150853Z_2513254
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- Asheville
+- Canada
+- China
+- Iran
+- Moscow
+- North Carolina
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andrzej Domanski
+- Anton Siluanov
+- Donald Trump
+- Erin Browne
+- Lars Klingbeil
+- Scott Bessent
+organisations:
+- European Central Bank
+- Financial Times
+- G20
+- Reuters
+- The Washington Post
+- Trump
+- US Treasury
 ---
 
 Donald Trump is facing a major backlash after inviting Russia’s finance minister to the G20 summit following three years of exile due to Moscow’s war on Ukraine.

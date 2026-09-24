@@ -12,6 +12,68 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Alloy
+- America
+- Appalachians
+- Blue Ridge
+- DC
+- Evernow
+- Jordan
+- Mayo Clinic
+- Midi
+- North Carolina
+- Palo Alto
+- United States
+- Virginia
+- Virginia’s Old Rag Mountain
+- Washington
+people:
+- Alicia Jackson
+- Amy Schumer
+- Biden
+- God*,” Schrenk
+- Heather Hirsch
+- Jen Gunter
+- Joanna Strober
+- Joe Rogan
+- Kathleen Jordan
+- Lisa Schrenk
+- Longevity
+- Mary Jane Minkin
+- Midi
+- Robert F. Kennedy Jr.
+- Stephanie Faubion
+- Trump
+organisations:
+- ARPA-H
+- Advanced Research Projects Agency for Health
+- Alloy
+- BBB National Programs’ National Advertising Division
+- Center for Women’s Health
+- Evernow
+- FDA
+- HRT
+- Health and Human Services
+- Hers
+- Hims
+- IT
+- Instagram
+- Make America Healthy Again
+- Mayo Clinic
+- Menopause Society
+- Midi
+- Ozempic
+- RFK Jr.’s
+- SimilarWeb
+- Trump
+- US Armed Forces
+- US Food and Drug Administration
+- Uber
+- WIRED
+- Weight Watchers
+- Winona
+- Yale School of Medicine
 ---
 
 *Content warning: This story includes references to suicidal ideation.*

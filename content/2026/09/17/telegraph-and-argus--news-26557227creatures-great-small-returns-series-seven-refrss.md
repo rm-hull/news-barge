@@ -14,6 +14,65 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Grassington
+- Skeldale House
+- Yorkshire
+people:
+- Andy Hay
+- Anna Madeley
+- Brian Percival
+- Callum Woodhouse
+- Caolan McCarthy
+- Colin Callender
+- Debbie O’Malley
+- Gaia Wise
+- Granville Bennett
+- Greg Barnett
+- Helen Herriot
+- Imogen Clawson
+- James Herriot
+- Jay Brooks
+- Jennie Paddon
+- Jenny
+- Kellie Smith
+- Lauren Jackson
+- Maartje Horchner
+- Maimie McCoy
+- Maxine Alderton
+- Melissa Gallant
+- Mollie Winnard
+- Mrs Hall
+- Neil Jones
+- Nicholas Ralph
+- Patricia Hodge
+- Paul Testar
+- Pekingese Tricki
+- Pumphrey
+- Rachel Shenton
+- Richard
+- Samuel West
+- Sebastian Cardwell
+- Sharon Moran
+- Siegfried Farnon
+- Susanne Simpson
+- Tony Pitts
+- Tristan Farnon
+- Yvonne Francas
+organisations:
+- ALL Creatures Great
+- All Creatures Great and Small
+- All3Media International
+- BAFTA
+- Channel 5
+- Channel 5 Television
+- MASTERPIECE
+- PBS
+- Playground
+- The Hardacres
+- The Mirror
+- Wolf Hall
+- the Light
 ---
 
 *(Image: Playground Television UK 2/PBS/Channel 5 Television/Jay Brooks)*

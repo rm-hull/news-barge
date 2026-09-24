@@ -13,6 +13,24 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 image: https://www.yorkpress.co.uk/resources/images/21477616.jpg?type=og-image
+locations:
+- BBC
+- England
+people:
+- Amy Dowden
+- Chris Appleton
+- Dani Dyer
+- Delta Goodrem
+- Kim Kardashian
+- Ray Burmiston
+- Shaun Wright-Phillips
+organisations:
+- BBC Creative
+- BBC One
+- Love Island
+- Press Association
+- Strictly
+- iPlayer
 ---
 
 *(Image: BBC/Ray Burmiston/BBC Creative)*

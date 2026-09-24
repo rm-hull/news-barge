@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Travel
+locations:
+- Cumbria
+- England
+- Huelva
+- North Sea
+- Northern Ireland
+- Scotland
+- Spain
+- UK
+- Wales
+people: []
+organisations:
+- Environment Agency
 ---
 
 ![A woman stands with a black umbrella next to a wall in the rain](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/98e4/live/fae34f20-a9e2-11f1-803f-7f2a9199ddc4.jpg)

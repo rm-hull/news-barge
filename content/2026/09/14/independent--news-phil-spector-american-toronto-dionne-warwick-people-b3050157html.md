@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Toronto
+people:
+- Alton Allison
+- Barry Avrich
+- Bruce Springsteen
+- Christmas’
+- Darlene Love
+- Darlene Wright
+- Dionne Warwick
+- God
+- Lana Clarkson
+- Lou Adler
+- Phil Spector
+- Taraji P. Henson
+organisations:
+- TIFF
 ---
 
 It’s cosmic justice that Darlene Love, whose career in music so often went uncredited in her youth, still sings so well at age 85.

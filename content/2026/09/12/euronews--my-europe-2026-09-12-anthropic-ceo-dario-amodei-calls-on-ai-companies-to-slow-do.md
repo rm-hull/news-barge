@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- US
+people:
+- '## Amodei'
+- Claude
+- Daniela
+- Dario Amodei
+- Jacob Coxon
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- ChatGPT –
+- Hugging Face
+- OpenAI –
 ---
 
 ## Amodei's announcement came days after the AI company revealed that its models were being used for cyberattacks, propaganda campaigns and dangerous biological research.

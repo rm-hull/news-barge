@@ -13,6 +13,54 @@ image: https://cdn.mos.cms.futurecdn.net/ueKHYPFkbz4Uixqmo6vCTQ-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- CA
+- China
+- West Hollywood
+people:
+- '## Gone'
+- Alicia Keys
+- Graham Barlow
+- John Ternus
+- John Ternus'
+- Siri
+- Steve Jobs
+- Tim Cook
+organisations:
+- AI
+- AirPods
+- App Store
+- Apple Arcade
+- Apple Card
+- Apple Music
+- Apple News
+- Apple Pay
+- Apple TV
+- Apple Watch
+- AppleCare
+- Apple’s COO
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- Cook-era Apple
+- FBI
+- Fitness
+- Google News
+- Intel
+- Jobs
+- Jobs’
+- M-series
+- Mac
+- MacBook Air
+- MacFormat
+- Mac’s
+- Mail Privacy Protection
+- PC Pro
+- Radio 4
+- TechRadar
+- Tim Cook
+- iCloud
+- iMore
 ---
 
 ![Tim Cook arrives for the Ted Lasso Season 2 Premiere on July 15, 2021 in West Hollywood, CA](https://cdn.mos.cms.futurecdn.net/ueKHYPFkbz4Uixqmo6vCTQ.jpg) 

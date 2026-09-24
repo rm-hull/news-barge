@@ -12,6 +12,26 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Emmerdale
+- Guiseley
+- UK
+people:
+- James Hooton
+- Percy Pig
+- Rachel
+- Sam Dingle
+- Serita Thomas
+organisations:
+- Emmerdale
+- Guiseley M&S Foodhall
+- Guiseley Retail Park
+- ITV
+- M&S Foodhall
+- M&S Guiseley
+- M&S’ Select Farm
+- Marks & Spencer Food Hall
+- UGC
 ---
 
 *(Image: UGC)*

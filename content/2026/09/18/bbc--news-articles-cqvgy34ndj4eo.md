@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5939/live/5d7419c0-b3ad-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Capitol Hill
+- China
+- Crimea
+- India
+- Iran
+- Kyiv
+- New York
+- Russia
+- Turkey
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Donald Trump
+- Lindsey Graham
+- Narendra Modi
+- Paul Wilks
+- Richard Blumenthal
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- CREA
+- Centre for Research on Energy and Clean Air
+- EU
+- European Union
+- House of Representatives
+- Telegram
+- Trump
+- US House of Representatives
+- US House of Representatives'
 ---
 
 ![US President Donald Trump answers questions](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/5939/live/5d7419c0-b3ad-11f1-bc1f-3f186ca4140c.jpg)

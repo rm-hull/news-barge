@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Harrowgate
+- London
+- Salters Lane
+- Teesside
+- UK
+- West End
+people:
+- Gary Ryan
+- Michelle Gill
+- Mick Miller
+- Paul
+- Robin Roefs
+- Waler Gee
+organisations:
+- Adelphi Theatre
+- Durham
+- Goffy Media
+- Harrowgate Club
+- Historic Richmond
+- Royal Family
+- Sunderland
 ---
 
 *(Image: Supplied by Goffy Media)*

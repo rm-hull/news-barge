@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Paris La Défense Arena
+people:
+- Charles de Gaulle
+- Céline Dion
+- Hugh Schofield
+organisations: []
 ---
 
 # 'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris

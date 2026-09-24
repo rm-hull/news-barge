@@ -13,6 +13,38 @@ image: https://i.guim.co.uk/img/media/10a87223050be3fe81412c3b2cf2b9ae6a485659/1
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Lebanon
+- NSW
+- Toplace
+people:
+- Anita Perrottet
+- Charles Perrotet
+- Charles Perrottet
+- Chris Spence
+- Christian Ellis
+- David Chandler
+- David Elliott
+- Dom
+- Dominic Perrottet
+- Eleni Petinos
+- Jean Nassif
+- Jeremy Greenwood
+- Kevin Anderson
+- Peggy Dwyer SC
+- Rob Stokes
+organisations:
+- Beckington
+- Ellis
+- Greenwood
+- Icac
+- Independent Commission Against Corruption
+- JPG Advisory
+- Liberal
+- Macquarie Consulting
+- NSW Liberals
+- Toplace
 ---
 
 The younger brother of Dominic Perrottet has denied asking his brother to appoint a cabinet minister to achieve outcomes for a property developer, a corruption inquiry has heard.

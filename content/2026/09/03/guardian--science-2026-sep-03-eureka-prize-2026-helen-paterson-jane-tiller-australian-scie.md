@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Australia
+- Sydney
+people:
+- Alan Mackay-Sim
+- Georgina Long
+- Helen Paterson
+- Jane Tiller
+- Kim McKay
+- Michelle Simmons
+- Prof Ian Frazer
+- Richard Scolyer
+- Tim Flannery
+- Yansong Shen
+organisations:
+- Bureau of Meteorology
+- CSIRO
+- Eureka
+- Monash University
+- University of New South Wales
+- University of Sydney
+- Women’s Microbiome Innovation Group
 ---
 
 Memory is an imperfect thing: research shows that recollections of single events – a purse being snatched, say – differ to those about repeated or ongoing events, such as incidents of domestic and family violence.

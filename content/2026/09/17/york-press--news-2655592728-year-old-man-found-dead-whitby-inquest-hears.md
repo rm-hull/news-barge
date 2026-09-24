@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - History
+locations:
+- Cross Lane Hospital
+- Glasgow
+- North Yorkshire
+- Northallerton
+- Scarborough
+- Scarbrough
+- Whitby
+people:
+- Bayes'
+- Jonathan Leach
+- Kade Purvis
+- Megan Ahmed
+- Purvis'
+- Zak Bayes
+- Zak Joshua Bayes
+organisations:
+- A27
+- BBC
+- Manchester Marathon
+- Mental Shift
+- North Yorkshire
+- North Yorkshire Police
+- The Mental Shift
+- Whitby Town FC
+- York
 ---
 
 *(Image: Contributed)*

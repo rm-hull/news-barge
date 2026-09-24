@@ -13,6 +13,19 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- '## York'
+- Goodramgate
+- Holy Trinity Church
+- Scarcroft Road
+- St Clement's Church
+- St Clement’s Church
+people:
+- Jill Turner
+organisations:
+- Brunswick Organic Nursery
+- Holy Trinity Church
+- South Bank Singers
 ---
 
 ## York choir invites new singers to join after successful summer concerts

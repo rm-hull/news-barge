@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/9fb6cce46814866be4bc108fa4785b051aa50c5b/1
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- Europe
+- Stockholm
+- Sweden
+- UK
+people:
+- Al Pinkerton
+- Andy Burnham
+- Brexit
+- Caroline Sellers
+- George Mason
+- John Sellers
+- Joyce Thomas
+- Michelle
+- Niels Paarup-Petersen
+organisations:
+- Centre party
+- EU
+- European Commission
+- Left
+- Liberal Democrat
+- Paarup-Petersen
+- SVT
 ---
 
 A leading Swedish opposition party has promised an urgent reprieve for British nationals facing deportation from the country over Brexit administrative issues.

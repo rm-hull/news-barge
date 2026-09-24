@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/e17b0612a5744746012a384b1cea80afef14af1b/394_0_4938_3951/master/4938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea7366c1081d4a05eded3a0bdb4f00d2
+locations:
+- Asia
+- Atlantic
+- Canada
+- Central America
+- Europe
+- France
+- French Caribbean
+- Greenland
+- Iceland
+- Mexico
+- Miquelon
+- North America
+- Ottawa
+- Paris
+- Saint-Pierre
+- US
+- United States of America
+people:
+- Donald Trump
+- Emmanuel Macron
+- Mark Carney
+organisations:
+- EU
+- Macron
+- UN
 ---
 
 The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate change and the erosion of democratic values, after ⁠they met in a ⁠French territory off Canada’s Atlantic coast.

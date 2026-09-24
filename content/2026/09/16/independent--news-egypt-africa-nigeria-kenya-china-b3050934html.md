@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Africa
+- China
+- Egypt
+- Gulf of Suez
+- Katsina
+- Lambar Rimi
+- Middle East
+- Nigeria
+- Ohio
+people:
+- Dola Oluteye
+- Fadhel Kaboub
+organisations:
+- AP
+- Associated Press’
+- Denison University
+- International Energy Agency
+- Japan International Cooperation Agency
+- PATNA Initiative
+- SANY Renewable Energy
+- University College London’s Bartlett School of Environment, Energy and Resources
+- Vergnet
 ---
 
 Egypt is betting that building wind turbines at home can help it build a renewable-energy industry, positioning it as a template for Africa’s push for renewable-energy industrialization.

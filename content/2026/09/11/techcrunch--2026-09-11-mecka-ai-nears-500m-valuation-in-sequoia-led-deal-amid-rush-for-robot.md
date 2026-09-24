@@ -12,6 +12,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Mecka
+people:
+- Duy Nguyen
+- Jason Chong
+- Josh Gao
+- Mogen Cheng
+organisations:
+- Coinbase
+- Fortune
+- Framework Ventures
+- Kindred Ventures
+- Mecka AI
+- Menlo Ventures
+- SV Angel
+- Scale AI
+- Sequoia Capital
+- TechCrunch
+- XDOF
 ---
 
 Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal.

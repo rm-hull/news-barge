@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- California
+- Crissy Field
+- Marine Mammal Center
+- San Francisco
+- Sausalito
+- UC Santa Cruz
+- West Coast
+people:
+- Dan Costa
+- Giancarlo Rulli
+- Justin Hodges
+organisations:
+- CBS San Francisco
+- Marine Mammal Center
 ---
 
 More than double the typical number of sick sea lions have washed ashore in California this year, stretching rescue teams to their limits as a toxic algae outbreak spreads along the West Coast.

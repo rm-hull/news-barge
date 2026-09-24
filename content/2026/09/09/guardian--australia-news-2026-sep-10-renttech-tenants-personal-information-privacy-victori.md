@@ -15,6 +15,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- New South Wales
+- South Australia
+- Victoria
+people:
+- Chandni Gupta
+organisations:
+- Australian Housing and Research Institute
+- CPRC
+- Consumer Policy Research Centre
+- RentTech
+- Victoria’s
 ---
 
 So-called “RentTech” companies may be circumventing new Victorian laws designed to protect tenants’ personal data by asking for information outside the rental application process, a review as found.

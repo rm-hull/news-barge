@@ -11,6 +11,38 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97e4/live/1857ff
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- East Anglia
+- Lower Arncott
+- MoD Bicester
+- Oxfordshire
+- Piddington Village Hall
+- Principality of Sealand
+- UK
+- Upper
+people:
+- Andy Burnham
+- Calum Miller
+- Chris Philp
+- Christina Gower
+- Hari Reed
+- Ian Darby
+- Joe Marshall
+- Lisa Nandy
+- Piddington
+- Susannah Parden
+- Tim Beader
+- Tim McNally
+organisations:
+- Asylum Welcome
+- BBC Breakfast
+- Government
+- Home Office
+- Lib Dem
+- Oxfordshire County Council
+- Urgent Crown Development
+- then-Labour
 ---
 
 Watch: Piddington referendum result is announced

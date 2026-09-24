@@ -15,6 +15,26 @@ categories:
 - Society & Culture
 - Family & Parenting
 - Technology & Software
+locations:
+- California
+- District of Columbia
+- Menlo Park
+- U.S.
+people:
+- Matt Kaufman
+- Roblox
+organisations:
+- AI
+- Apple
+- EFF
+- Electronic Frontier Foundation
+- Google
+- Meta
+- Netflix
+- Persona
+- Roblox
+- TikTok
+- Yoti
 ---
 
 'Of the child safety measures agreed to in Meta's landmark legal settlement, no category contains more detailed requirements than its commitments on age assurance — and for good reason. No matter how well the protections work, they are of little use if Meta can't tell which users are kids.

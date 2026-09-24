@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Caedmon House
+- East Terrace
+- Grade II
+- LANDMARK Whitby
+- The Royal Hotel
+- Whitby’s West Cliff
+people: []
+organisations:
+- 6 East Parade
+- Caedmon House
+- Kirby’s Hotel
+- North Yorkshire Council
+- Royal Hotel
+- The Royal Hotel
 ---
 
 # Listed Whitby hotel painted pink without permission to be redone

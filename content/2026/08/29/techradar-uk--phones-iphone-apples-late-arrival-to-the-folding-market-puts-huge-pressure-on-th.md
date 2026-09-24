@@ -11,6 +11,32 @@ image: https://cdn.mos.cms.futurecdn.net/RuciS2m74uwnBAVgaoHdNc-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Lance Ulanoff
+organisations:
+- Apple
+- BBC
+- CNBC
+- CNN
+- Cupertino
+- Fold
+- Good Morning America
+- Google News
+- Huawei
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Motorola
+- Oppo
+- RAM
+- Samsung Display
+- Samsung Galaxy
+- Today Show
+- Ultra
+- Ziff Davis, Inc
 ---
 
 ![Samsung Galaxy Z Fold 8](https://cdn.mos.cms.futurecdn.net/RuciS2m74uwnBAVgaoHdNc.jpg) 

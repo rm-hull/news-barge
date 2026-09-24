@@ -13,6 +13,41 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Liverpool
+- UK
+- US
+people:
+- Adam Price
+- Evans
+- Hilton
+- Lane Bednash
+organisations:
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- CMB Partners UK Limited
+- Claire's
+- Debenhams
+- EcoJet Airlines
+- European Cargo
+- InPost
+- Joe Black Coffee Roasters
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Nasty Gal
+- Quiz
+- Superdrug
+- TG Jones
+- The Gazette
+- Wayfairer Travel Limited
+- Whitbread
+- Wynsors World of Shoes
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

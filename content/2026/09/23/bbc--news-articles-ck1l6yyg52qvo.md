@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d5e/live/7a241870-b73d-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- East Jerusalem
+- France
+- Gaza Strip
+- Israel
+- Judea
+- Kafr Malik
+- Maale Adumim
+- Middle East
+- Neve Tzuf
+- New York
+- Ramallah
+- Samaria
+- US
+- West Bank
+- Yom Kippur
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Emmanuel Macron
+- Le Hamas
+- Mike Huckabee
+- Netanel Shukrun
+organisations:
+- Hamas
+- Jerusalem Post
+- Palestinian Authority
+- UN General Assembly
+- UN General Assembly.
 ---
 
 ![French President Emmanuel Macron addresses the UN General Assembly in New York (22 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2d5e/live/7a241870-b73d-11f1-b1d1-571ed4d7ff2c.jpg)

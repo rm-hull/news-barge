@@ -11,6 +11,24 @@ description: Sam Altman reflects on “insane mission” of OpenAI, and where th
 image: https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- UK
+people:
+- Marc Benioff
+- Mike Moore
+- Sam Altman
+organisations:
+- AGI
+- AI
+- B2B
+- B2C
+- ChatGPT
+- Google News
+- ITProPortal
+- OpenAI
+- Salesforce
+- TechRadar Pro
 ---
 
 ![OpenAI's Sam Altman speaks about ChatGPT at a developer town hall meeting.](https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM.jpg) 

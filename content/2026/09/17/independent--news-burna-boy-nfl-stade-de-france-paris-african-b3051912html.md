@@ -13,6 +13,41 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Australia
+- Dublin
+- Frankfurt
+- London
+- Madrid
+- Melbourne
+- Mexico City
+- Munich
+- Paris
+- Rio de Janeiro
+- Stade de France
+- São Paulo
+- Toronto
+- United States
+people:
+- Ayra Starr
+- Burna Boy
+- Damini
+- Love
+- Paris
+- Pedro Sampaio
+- Ricky Martin
+- Tim Tubito
+organisations:
+- Burna Boy
+- France Télévisions
+- Jonas Brothers
+- NFL
+- New Orleans Saints
+- Pittsburgh Steelers
+- Stade de France
+- The Associated Press
+- The Warning
+- beIN Sports
 ---
 
 Burna Boy is returning to Stade de France for another historic moment, headlining halftime at the NFL’s first regular-season game in Paris.

@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/DJAqrgKcfD2j5BKJjS5buU-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Texas
+- Virgin River
+people:
+- Brendan Cowell
+- Chloe Jean Lourdes
+- George Cooper Sr.
+- Henry
+- Ian Ridley
+- Patrick Brammall
+- Ryan David Jahn
+- Sarah
+organisations:
+- Apple TV
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Ian looks at a computer screen while wearing a headset](https://cdn.mos.cms.futurecdn.net/DJAqrgKcfD2j5BKJjS5buU.jpg) 

@@ -12,6 +12,65 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Barcelona
+- Europe
+- Jose Mourinho-Real Madrid
+people:
+- Cesc Fabregas
+- Cristiano Ronaldo
+- Donyell Malen
+- Gian Piero Gasperini
+- Guillem Balague
+- Hansi Flick
+- Harry Kane
+- Ismaelo Ganiou
+- Jude Bellingham
+- Julien Laurens
+- Julien Laurens:** I
+- Kaua Elias
+- Khvicha Kvaratskhelia
+- Lamine Yamal**
+- Luis Enrique
+- Martin Odegaard
+- Mikel Arteta
+- Mourinho
+- Nico Paz
+- Sabah
+organisations:
+- Arsenal
+- Aston Villa
+- Atletico
+- BBC One
+- BBC Sport
+- BBC iPlayer
+- Barcelona
+- Bayern Munich
+- Borussia Dortmund
+- Celtic
+- Champions League
+- Como
+- Inter Milan
+- Khvicha Kvaratskhelia
+- LASK
+- Lens
+- Ligue
+- Liverpool
+- Manchester City
+- Manchester United
+- Napoli
+- Opta
+- PSG
+- Paris St-Germain
+- Premier League
+- Real Madrid
+- Roma
+- Sabah**
+- Shakhtar
+- Slovan Bratislava
+- Stuttgart
+- Viking
 ---
 
 ![PSG lift 2025-26 Champions League trophy](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg)

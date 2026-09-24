@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Harrogate
+- James Street
+- Princes Square
+- Princes Street
+- Raglan Street
+- Station Parade
+- Victoria Avenue
+people: []
+organisations:
+- Active Travel Funds
+- North Yorkshire Council
 ---
 
 # Road disruption hits Harrogate town centre area of bistros and estate agents

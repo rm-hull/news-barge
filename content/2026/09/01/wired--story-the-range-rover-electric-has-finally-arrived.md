@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Science
 - Automotive
+locations:
+- Range Rover
+- UK
+- US
+people: []
+organisations:
+- '#### Instagram'
+- Audi
+- EMA
+- Electrified Modular Architecture
+- JLR
+- Porsche
+- Range Rover
+- Range Rover Electric
+- Range Rover GT
+- SUV
+- SV Black
+- WIRED
+- WLTP
 ---
 
 It feels like we have been waiting an age for the Range Rover Electric. First announced back in December 2023, JLR's luxury EV SUV was meant to hit the road in 2024, but extended development testing forced the carmaker to push its arrival back. Now it's finally here—one of WIRED's most anticipated rides—the first fully electric Range Rover.

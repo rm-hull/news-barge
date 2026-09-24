@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Bedern Hall
+people:
+- Bedern Hall
+- Pork Butchers
+- William Wright
+organisations:
+- Bedern Hall
+- Dringhouses
+- Ged Bell Butchers
+- Yorkshire Heart Brewery
 ---
 
 Calling all pork pie lovers as the search for the perfect pork pie is back.

@@ -14,6 +14,39 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Central Hall
+- Coal Drops Square
+- Home England
+- Leeman Road
+- North East
+- North Yorkshire
+- YOUR
+- York Central
+- York Station
+people:
+- Allan Cook
+- Angela Rayner
+- Cllr Claire Douglas
+- Cllr Douglas
+- Craig Bentley
+- David Skaith
+- John Gatley
+- Ms Rayner
+- Stephen Hind
+- Tom Bridges
+organisations:
+- Arlington Real Estate
+- City of York Council
+- Government Hub
+- Labour
+- McLaren Property
+- McLaren Property Group
+- National Railway Museum
+- Network Rail
+- Public Notice Portal
+- York Central
+- York Central Ltd
 ---
 
 ### What is the Public Notice Portal?

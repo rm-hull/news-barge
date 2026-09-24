@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Darlington Binns
+- Linthorpe Road
+- Middlesbrough
+- Newport Road
+- UK
+- YOUR
+people: []
+organisations:
+- BHS
+- Boohoo
+- Debenhams
+- House of Fraser
+- Ideal Home Store
+- King’s Head Hotel
+- Marks and Spencer
+- Newhouses
+- Portfolio Properties
+- Public Notice Portal
+- Sports Direct
+- USC
 ---
 
 ### What is the Public Notice Portal?

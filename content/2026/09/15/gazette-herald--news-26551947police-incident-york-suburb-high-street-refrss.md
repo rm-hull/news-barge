@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Acomb
+- Front Street
+- North Yorkshire
+people: []
+organisations: []
 ---
 
 - North Yorkshire Police officers were seen rushing to an incident in Front Street, Acomb.

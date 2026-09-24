@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Alice Springs
+- Indo-Pacific
+- Iran
+- Learmonth
+- Middle East
+- Pine Gap
+- South Australia
+- US
+- US-Australia
+- United States
+- Western Australia
+people:
+- Christopher Pyne
+- David Shoebridge
+- Edward Snowden
+- Marcus Strom
+- Penny Wong
+- Pete Hegseth
+- Richard Marles
+- Richard Tanter
+organisations:
+- Australian Signals Directorate
+- CIA
+- GPS
+- Greens
+- Guardian
+- Labor Against War
+- Nautilus Institute
+- Pine Gap
+- RAAF Edinburgh
+- Senate
+- US National Reconnaissance Office
+- US National Security Agency
 ---
 
 The US has “led Australia into wars of aggression” for 50 years, internal party campaign group Labor Against War has argued, urging the government to chart a foreign policy independent “from the American war machine”.

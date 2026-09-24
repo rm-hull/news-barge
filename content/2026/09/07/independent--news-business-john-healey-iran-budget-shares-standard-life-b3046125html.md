@@ -13,6 +13,66 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Asia-Pacific
+- Coventry
+- Downing Street
+- Frankfurt
+- Fresnillo
+- Gulf
+- Iran
+- London
+- Middle East
+- New York
+- Paris
+- Russia
+- St James’s Place
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Ukraine
+people:
+- AJ Bell
+- Andy Burnham
+- Dan Coatsworth
+- Donal Meehan
+- John Healey
+- Kropz
+organisations:
+- AAA
+- AI
+- AJ Bell
+- Admiral Group
+- Alliance News
+- Astra
+- B&M European Value Retail
+- BP
+- British Retail Consortium
+- Centrica
+- ChatGPT-maker OpenAI
+- Deutsche Bank
+- Dunelm Group
+- EU
+- Elandsfontein
+- Entain
+- European Central Bank
+- Exxon Mobil
+- Haleon
+- Hollywood Bowl Group
+- IQE
+- InterContinental Hotels Group
+- Kropz
+- NFIB
+- Oxford BioMedica
+- RBC
+- Shell
+- Smiths Group
+- Standard Life
+- Treasury
+- US Federal Reserve
+- US Navy
+- United Oil & Gas
 ---
 
 Stock prices in London closed slightly lower on Monday, as rising oil prices fuelled inflation concerns, while investors also digested UK Chancellor John Healey’s pledge to control public spending ahead of next month’s Budget.

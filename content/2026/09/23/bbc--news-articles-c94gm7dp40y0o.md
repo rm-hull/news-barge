@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7adb/live/a6e48140-b717-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Gaza City
+- Gaza Strip
+- Israel
+- Jabalia
+- Palestine
+- UK
+- US
+- West Bank
+people:
+- God
+- Khan Younis
+- Macklemore
+- Nestor Owomuhangi
+- Zuhair
+organisations:
+- BBC
+- Hamas
+- NGO
+- UN Population Fund
+- UNFPA
+- Women's Affairs Center
 ---
 
 ![A file photo showing a Palestinian woman inspecting her damaged home after an Israeli strike on a nearby mosque, in Gaza City (29 July 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3b86/live/4c3f3fe0-b5ce-11f1-b1d1-571ed4d7ff2c.jpg)

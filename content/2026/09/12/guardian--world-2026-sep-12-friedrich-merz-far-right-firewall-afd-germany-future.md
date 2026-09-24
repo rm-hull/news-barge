@@ -11,6 +11,43 @@ image: https://i.guim.co.uk/img/media/77c897b509cf0697ded118227ba6c384383862e2/5
 categories:
 - UK
 - News & Politics
+locations:
+- Bavaria
+- Berlin
+- China
+- Europe
+- France
+- Frankfurt
+- Germany
+- Italy
+- Mecklenburg-Western Pomerania
+- North Rhine-Westphalia
+- Poland
+- Russia
+- Saxony-Anhalt
+- Spain
+people:
+- Alice Weidel
+- Angela Merkel
+- Bernd Ulrich
+- Friedrich Merz
+- Hendrik Wüst
+- Markus Söder
+- Olaf Scholz
+- Thomas Biebricher
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative für Deutschland
+- BlackRock
+- CDU
+- CDU-CSU
+- Christian Democratic Union party
+- Die Zeit
+- Goethe University
+- Greens
+- Merz
+- Volkswagen
 ---
 
 A cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of Germany’s joyous reunification three decades ago, and a threat to the democratic postwar order.

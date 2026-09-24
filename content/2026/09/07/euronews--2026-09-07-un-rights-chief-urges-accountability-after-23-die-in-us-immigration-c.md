@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Haiti
+- ICE
+- Minnesota
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Volker Türk
+organisations:
+- Associated Press
+- DHS
+- Department of Homeland Security
+- Human Rights Watch and Physicians for Human Rights
+- ICE
+- UN Human Rights Council
+- US Immigration and Customs Enforcement
+- United Nations
 ---
 
 ## A joint report by Human Rights Watch and Physicians for Human Rights in June said that the rate of people dying in ICE custody has reached its highest level in over a decade amid Trump's crackdown.

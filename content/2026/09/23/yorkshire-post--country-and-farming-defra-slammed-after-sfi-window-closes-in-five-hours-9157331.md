@@ -16,6 +16,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY4MDFmNjdlLTQzNjMtNGU3NC1iMDI4LTRjZTFiNzU1MGNlYjo2Y2JlNmExNi1jZjhmLTQ4YWItOTMzMy1jZWQyMWNlMDJiZDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Defra
+- England
+people:
+- Emma Reynolds
+- Robbie Moore
+- Robyn Munt
+organisations:
+- Defra
+- Department for the Environment, Food and Rural Affairs
+- ELM
+- Environmental Land Management
+- Government
+- Labour
+- NFU
+- National Farmers’ Union
+- SFI
 ---
 
 # 'Absolute farce': Government slammed after latest SFI window closes in five hours

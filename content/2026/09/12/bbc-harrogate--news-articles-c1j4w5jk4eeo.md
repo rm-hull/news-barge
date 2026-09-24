@@ -12,6 +12,35 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Ingleborough
+- Ribblehead Viaduct
+- Settle
+- Whernside
+- Yorkshire Dales National Park
+people:
+- Allanna
+- Flo
+- Georgie
+- Ivy
+- Jill Crowson
+- Katie Hawkins
+- Nala
+- Ruth
+organisations:
+- Allanna
+- Austwick Brownies
+- Austwick Brownies and Guides
+- Brownies and Guides
+- Flo
+- Georgie
+- North Yorkshire Council
+- Ruth and Ivy
+- The Brownies
+- YDNPA
+- Yorkshire Dales Millennium Trust
+- Yorkshire Dales National Park Authority
+- Yorkshire Three Peaks
 ---
 
 ![A group of seven girls, mostly wearing Brownie or Guide uniform, holding litter pickers and bin bags. They are standing on a path near the Ribblehead Viaduct, smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0589/live/35189370-aa98-11f1-a291-b542ee92de7c.jpg)

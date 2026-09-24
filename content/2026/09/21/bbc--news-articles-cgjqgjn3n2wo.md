@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9cd/live/8b3a0650-b5e5-11f1-a430-4d16ee157c41.jpg
+locations:
+- Anglesey
+- London
+people:
+- '## Jayda'
+- '## Mia'
+- '## Rob'
+- Claire Thompson
+- Grace
+- Jayda Otuo-Mensah
+- Mia Jones
+- Rob Medhurst
+organisations:
+- Asda & Morrisons
+- Assosia
+- BBC World Service
+- Coventry University
+- Jayda
+- Mia
+- Nottingham Trent University
+- Sainsbury's
+- Tesco
+- The Food Chain
+- TikTok
 ---
 
 ![Mia with light brown hair with a fringe wearing a white t shirt is smiling holding a bowl of chickpea curry.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7566/live/7810a110-b5e5-11f1-bc1f-3f186ca4140c.jpg)

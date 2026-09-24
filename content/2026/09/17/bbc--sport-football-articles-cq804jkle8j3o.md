@@ -12,6 +12,65 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Aston Villa
+- Atlanta
+- Croatia
+- Czech Republic
+- England
+- Kansas City
+- Mexico
+- Palm Beach
+- Saudi Arabia
+- Spain
+- St George's Park
+- United States
+- Wembley
+people:
+- Alex Scott
+- Cole Palmer
+- Dean Henderson
+- Dominic Calvert-Lewin
+- Harry Kane
+- Ivan Toney
+- Jarrad Branthwaite
+- Jess Anderson
+- John Murray
+- John Murray:** Happy
+- John Stones
+- Jordan Henderson
+- Jude Bellingham
+- Kiernan Dewsbury-Hall
+- Lewis Hall
+- Liam Delap
+- Myles Lewis-Skelly
+- Ollie Watkins'
+- Phil Foden
+- Rio Ngumoha
+- Sami Mokbel
+- Sami Mokbel**
+- Thomas Tuchel
+- Trent Alexander-Arnold
+organisations:
+- Al-Ahli
+- Argentina
+- Arsenal
+- Azteca
+- BBC Radio
+- BBC Sport
+- Bournemouth
+- England
+- Everton
+- FA
+- Football Association
+- France
+- Leeds United
+- Liverpool
+- Nations League
+- New Zealand
+- Nottingham Forest
+- Three Lions
 ---
 
 ![Thomas Tuchel in conversation with Jude Bellingham](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/8c87/live/60798e10-b29b-11f1-a430-4d16ee157c41.jpg)

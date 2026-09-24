@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/03/20/Trump_Triumphal_Arch_48587.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- East Potomac Park
+- Kennedy Center
+- Lincoln Memorial
+- Memorial Bridge
+- Military Complex
+- Triumphal Arch
+- Washington
+- White House
+people:
+- Donald Trump
+organisations:
+- House
+- Lincoln Memorial Reflecting Pool
 ---
 
 President Donald Trump said Sunday that the massive arch he wants to build between the Lincoln Memorial and Arlington National Cemetery would become a “top grade military complex” able to host drones and snipers while storing ammunition.

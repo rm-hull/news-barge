@@ -14,6 +14,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/20960255.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Consett Methodist Church
+- John Street
+- Masonic Hall
+- Medomsley Road
+- Middle Street
+- Santa himself
+- Station Road
+- Trafalgar Street
+people:
+- KATHRYN ROONEY
+- Kathryn Rooney
+organisations:
+- Cassie
+- Consett Academy
+- Consett Community Market
+- County Durham
+- Derwentside College
+- Foundation for Good
+- Geordie Bangers
+- Scotch Eggs
 ---
 
 *(Image: CLLR KATHRYN ROONEY)*

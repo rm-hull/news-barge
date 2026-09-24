@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations: []
+people: []
+organisations:
+- Aveda
+- Clinique
+- Color WOW
+- Décolletage Serum
+- ESPA
+- Estée Lauder
+- Estée Lauder Double Wear Primer
+- Floral Street
+- Formula Sleep Cream
+- HMRC
+- ICONIC London
+- ICONIC London Glazing
+- Lip Gloss
+- M&S Sparks
+- Pai Light Work
+- Prai Sculpting Throat
+- Sweed Le Lipstick
+- Ylang Ylang Espresso Eau de Parfum
 ---
 
 Beauty fans have been given a first look at the M&S Beauty Advent Calendar 2026, with a collection of products worth more than £460 available for £75.

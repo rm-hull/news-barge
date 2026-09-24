@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Japan
+- U.S.
+people: []
+organisations:
+- Federal Reserve
 ---
 
 Japan’s central bank on Friday raised the benchmark interest rate to 1.25% from 1.0%, a 31-year-high. 

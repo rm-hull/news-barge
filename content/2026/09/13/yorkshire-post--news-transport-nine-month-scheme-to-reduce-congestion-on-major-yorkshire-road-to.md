@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Baptist Place
+- Bradford
+- City Village
+- Infirmary Fields
+- Oastler Centre
+- Oastler Market
+- St Thomas Road
+- St Thomas’s Road
+- Westgate Bus Hotspot
+- White Abbey Road
+- Yorkshire
+people:
+- Andrew Judson
+organisations:
+- Bradford Council
+- West Yorkshire Combined Authority
 ---
 
 # Nine month scheme to reduce congestion on major Yorkshire road to begin on Monday

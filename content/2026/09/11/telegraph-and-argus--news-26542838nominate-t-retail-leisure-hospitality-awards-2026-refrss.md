@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- The Broadway Bradford
+people: []
+organisations:
+- Bradford
+- Bradford’s
+- Newsquest
+- Telegraph & Argus Retail, Leisure & Hospitality Awards
 ---
 
 *(Image: Newsquest)*

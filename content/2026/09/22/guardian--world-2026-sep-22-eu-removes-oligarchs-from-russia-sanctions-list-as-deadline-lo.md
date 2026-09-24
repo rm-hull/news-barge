@@ -11,6 +11,30 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/fec21ff9823021bcdda79255837000ad9f664613/91_0_3008_2406/master/3008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41ed2ec4661d69f4cc52de8de44244c0
+locations:
+- Azerbaijan
+- Brussels
+- France
+- Grand Duchy
+- Ireland
+- Latvia
+- Luxembourg
+- Moscow
+- Paris
+- Russia
+- Ukraine
+people:
+- Alisher Usmanov
+- Andrii Sybiha
+- Andris Kulbergs
+- Mikhail Fridman
+- Mikhail Fridman.
+- Sergey Lavrov
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Duma
+- EU
 ---
 
 The EU has agreed to remove two Russian billionaires, Alisher Usmanov and Mikhail Fridman, from its sanctions list, while extending restrictions on nearly 3,000 individuals and companies accused of supporting the war on Ukraine for the next three years.

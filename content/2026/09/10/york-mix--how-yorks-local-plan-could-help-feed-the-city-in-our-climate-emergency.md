@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- AI
+- California
+- UK
+- York
+people:
+- Carmona
+- Geoff Beacon
+organisations:
+- Royal Horticultural Society and Horticultural Trades Association
+- Singing Frogs Farm
+- UCL
+- York Local Plan
+- __**Resolution Foundation**__
 ---
 
 **Climate change is going to hit food production. But there is a way York could plan to feed its residents, says climate activist* Geoff Beacon***

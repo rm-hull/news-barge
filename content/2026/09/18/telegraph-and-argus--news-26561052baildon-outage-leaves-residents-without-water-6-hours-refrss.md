@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Baildon
+- Bradford
+- Coverley Way
+people: []
+organisations:
+- Baildon Church of England Primary School
+- Yorkshire Water
 ---
 
 *(Image: T&A Camera Club)*

@@ -13,6 +13,15 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Albert Manifold
+- Amanda Blanc
+- Ian Tyler
+- Meg O’Neill
+organisations:
+- BP
+- Balfour Beatty
 ---
 
 BP has appointed Ian Tyler as the energy giant’s new chairman, after his predecessor was ousted due to concerns over conduct and governance.

@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A6110
+- Filey
+- Leeds
+- Welford Road
+- Wortley
+people:
+- Alan Lloyd
+- Ben
+- Dad
+- Grandad
+- Isabelle
+- Jacob
+- Nicola
+- Nina Roper
+- Reece Manley
+organisations:
+- Kawasaki EX
+- M621
+- MCET
+- Major Collision Enquiry Team
 ---
 
 # Unlicensed motorcyclist jailed after grandfather killed on Leeds road

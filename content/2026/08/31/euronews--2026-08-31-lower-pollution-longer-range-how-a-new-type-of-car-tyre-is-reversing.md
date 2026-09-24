@@ -14,6 +14,22 @@ categories:
 - Science
 - Technology & Software
 - Automotive
+locations:
+- Delhi
+- India
+- London
+- Stuttgart
+- UK
+- United States
+people:
+- Denis Loktev
+- Gunnlaugur Erlendsson
+- William
+organisations:
+- Ashoka University
+- ENSO
+- Erlendsson
+- New Spitalfields Market
 ---
 
 **Denis Loktev**

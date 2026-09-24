@@ -13,6 +13,63 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Arnhem
+- Atlantic
+- Australia
+- Beauvais
+- Blooming York
+- Bootham
+- Bridlington
+- Canada
+- France
+- Germany
+- Howden
+- Hull
+- India
+- Melbourne
+- NQ
+- Piccadilly
+- Portsmouth
+- Reynards
+- River Ouse
+- Selby
+- Shambles
+- Sherburn-in-Elmet
+- Sowerby Park
+- Spark York
+- St Leonard’s Place
+- York’s Spark
+people:
+- Amy Johnson
+- Barnes Wallis
+- Frances Mary Heaton
+- IVAN MARTIN
+- Ivan Martin
+- Nevil Shute
+- Nevil Shute Norway
+organisations:
+- Air Ministry
+- Air Museum
+- Air Museum.
+- Airspeed Ferry
+- Airspeed Ltd.
+- Airspeed Oxford
+- Amy Johnson Museum
+- De Havilland Ltd
+- R38
+- RAF Airspeed Oxford So
+- Reynard’s
+- Royal Navy
+- Spark
+- The Army Flying Museum
+- The Yorkshire Club
+- Theatre Royal
+- Vickers
+- YAYAS Times
+- York Historian
+- Yorkshire Aeronautical Club
+- Yorkshire Architectural and York Archaeological Society.
 ---
 
 ## Before Spark York: Inside the Piccadilly aircraft factory run by a famous author

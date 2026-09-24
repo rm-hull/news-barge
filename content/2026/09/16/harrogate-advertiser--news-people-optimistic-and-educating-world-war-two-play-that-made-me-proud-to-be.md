@@ -13,6 +13,47 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzODM0MzhhLTdmYWItNDNjNy1hZTYzLTAyMTA0MzMxYjJjMjoxM2M5NzA0Yi1mZjYzLTRjNTYtOTdmZS04Y2IwN2JiYWY1YTE=.jpg?crop=3:2,smart&trim=&width=896&auto=webp&quality=75
+locations:
+- Berlin
+- Centre On Gracious Street
+- Harrogate
+- Knaresborough
+- North London
+- Scriven Camp
+- Stockwell Road
+people:
+- Albert
+- Bradley
+- Brecht
+- Cecil
+- Churchill
+- Colin Beveridge
+- Edie
+- Edna Barker
+- George Formby
+- Horace Hooper
+- Jan Williams
+- John Pudney
+- Keith Douglas
+- Knaresborough
+- Lizzie Medwell
+- Marjorie Manley
+- McMurdo
+- Mick Caulfield
+- Mildred
+- Netta
+- Sandra Smallwood
+- Shan Oakes
+- Toby Holbrey
+organisations:
+- ARP
+- Boathouse Dance Club
+- COGS
+- Kitchen
+- Knaresborough
+- Red Wall Theatre
+- WVS
+- Yorkshire
 ---
 
 # 'Optimistic and educating' World War Two play that made me 'proud to be a Knaresborian'

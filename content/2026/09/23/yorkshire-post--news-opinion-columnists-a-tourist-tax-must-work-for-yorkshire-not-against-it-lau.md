@@ -16,6 +16,32 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJhYjIxOTVjLTRiOGUtNGY1NS1iM2E0LTUyYzE2NzM0NjFkYzplY2UyNGJlNC1mMWQ1LTQ3OTctODM2OC0zYzNjMWJiZWYyOWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- East Yorkshire
+- England
+- Flamborough Head
+- Flamborough Lighthouse
+- France
+- Germany
+- Harrogate
+- Leeds
+- North Yorkshire
+- Sheffield
+- Spain
+- UK
+- West Yorkshire
+- Xeinadin
+- York
+people:
+- David Skaith
+- James Hardisty
+- Laura Duggan
+- Tracy Brabin
+organisations:
+- Government
+- Governments’
+- National Insurance
+- North Yorkshire
 ---
 
 # A tourist tax must work for Yorkshire, not against it - Laura Duggan

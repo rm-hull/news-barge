@@ -15,6 +15,18 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+- York
+people: []
+organisations:
+- Leeds Beckett
+- Russell Group
+- Times
+- UCU
+- University and College Union
+- University of Huddersfield
+- University of York
 ---
 
 *(Image: Supplied)*

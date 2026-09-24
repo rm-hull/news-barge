@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Chicago
+- D.C.
+- Illinois
+- Iran
+- Memphis
+- Nazi Germany
+- New Orleans
+- State and City
+- Strait of Hormuz
+- U.S.
+- Windy City
+people:
+- Donald Trump
+- JB Pritzker
+organisations:
+- ATF
+- DEA
+- FBI
+- Federal Government
+- ICE
+- Lincoln Memorial Reflecting Pool
+- National Guard
+- Trump
+- Truth Social
 ---
 
 President Donald Trump has issued another dire warning about the extent of street crime in Chicago, urging Illinois Gov. JB Pritzker to call him and formally request federal military support.

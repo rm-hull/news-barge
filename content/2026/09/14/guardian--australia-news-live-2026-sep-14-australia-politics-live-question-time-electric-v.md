@@ -12,6 +12,104 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Afghanistan
+- Arnhem Land
+- Bahrain
+- Beirut
+- Belarus
+- Canberra
+- Chad
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Kuwait
+- Lebanon
+- Marrickville
+- Middle East
+- Moree
+- Mulka
+- NSW
+- New South Wales
+- Nhulunbuy
+- Northern Territory
+- Palestine
+- Parliament House
+- Russia
+- South Australia
+- South Sudan
+- Strathfield
+- Ukraine
+- United States
+- Venezuela
+- Whyalla
+people:
+- Alicia Payne
+- Andrew Hastie
+- Angie Bell
+- Angus Taylor
+- Anika Wells
+- Anthony Albanese
+- Bill Kelty
+- David Chandler
+- David Elliott
+- Fabian Gleeson
+- Fabian Gleeson SC
+- Jean Nassif
+- Lincoln Fowler
+- Mabo
+- Malarndirri McCarthy
+- Mary Gaurdron
+- Maryanne Albanese
+- Matthew Blackmore
+- McGrathtold
+- Mehreen Faruqi
+- Mick Tsikas
+- Mike Bowers
+- Milton Dick
+- Mulka
+- Pauline Hanson
+- Penry Buckley
+- Phil Buehler
+- Rebekha Sharkie
+- Sam Rae
+- Selena Uibo
+- Tanya Plibersek
+- Tim Wilson
+- Tony Burke
+- Whitlam
+- Yiŋiya Guyula
+- Yolnguman Yiwarr McGrath
+organisations:
+- AAP Ukraine
+- ABC
+- ABS
+- Alamy Australia
+- Aussie Home Loans
+- Country Liberal
+- First Nations
+- Greens
+- Guardian Australia
+- High Court
+- High Court of Australia
+- Independent Commission Against Corruption
+- Lukas Coch/AAP
+- NSW Icac
+- NSW Liberal
+- NSW Liberals
+- NT Labor
+- New South Wales Legal Services Commission
+- News24
+- One Nation
+- Parliament House
+- Reserve Bank
+- Senate
+- The Guardian Coalition
+- Toplace
+- Unicef
+- Wall of Tears
+- Wall of Tears’
 ---
 
 Jean Nassif tells Icac ‘I’m going to speak my heart’

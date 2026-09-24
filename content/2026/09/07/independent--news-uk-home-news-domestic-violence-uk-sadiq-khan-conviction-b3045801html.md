@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Hereford
+- Hull
+- London
+- Sheffield
+people:
+- Lord Khan
+- Sadiq Khan
+- Sarah Sackman
+organisations:
+- DVLA
+- Labour
+- Micra
+- Ministry of Justice
+- MoJ
+- SJP
+- South Shields Magistrates’ Court
+- TV Licensing
+- York Magistrates’ Court
 ---
 
 Mayor of London Sadiq Khan has called on the government to deliver swift reform to save the justice system from "disrepute" after fast-track courts convicted domestic violence victims over unpaid household bills.

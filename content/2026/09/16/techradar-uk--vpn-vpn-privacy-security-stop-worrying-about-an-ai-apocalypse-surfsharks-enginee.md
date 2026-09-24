@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Silicon Valley
+- UK
+people:
+- Karolis Kaciulis
+- Rene Millman
+organisations:
+- AI
+- Computer Weekly
+- Financial Times
+- Google News
+- IT Pro
+- LLMs
+- Lead System Engineer
+- No Trace
+- Starter
+- Surfshark
+- System Engineer
+- TechRadar
+- The Guardian
 ---
 
 ![Hologram of the artificial intelligence robot showing up from binary code](https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk.jpg) 

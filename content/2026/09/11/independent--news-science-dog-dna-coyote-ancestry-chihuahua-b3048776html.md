@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Americas
+- Antarctica
+- Brazil
+- Mexico
+- North America
+- UK
+- US
+people:
+- Jacqueline Boyd
+organisations:
+- Coyotes
+- Nottingham Trent University
+- The Conversation
 ---
 
 It turns out that one of the smallest dog breeds, the chihuahua, is part wild coyote, according to recently published genetic research. The chihuahua breed originated in Mexico but is now a popular canine companion worldwide.

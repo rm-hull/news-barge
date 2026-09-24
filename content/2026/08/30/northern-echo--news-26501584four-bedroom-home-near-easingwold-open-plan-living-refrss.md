@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Easingwold
+- Hovingham Interiors
+- Howardian Hills AONB
+- Jerusalem
+- Lime House
+- Whenby
+- York
+people: []
+organisations:
+- Native Architects
+- Savills
+- The Lime House
+- Yorkshire Handmade Brick Company
 ---
 
 IF YOU’RE looking for a property that truly does stand out from the crowd – in more ways than one – The Lime House is well worth a place at the top of your to view list.

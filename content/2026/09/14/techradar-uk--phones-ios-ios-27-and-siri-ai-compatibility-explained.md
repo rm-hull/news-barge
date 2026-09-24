@@ -11,6 +11,25 @@ description: The device requirements for iOS 27 are simple — but Siri AI compa
 image: https://cdn.mos.cms.futurecdn.net/WfmURBoAmM4p56QeqFjLZd-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+people:
+- Axel
+- Siri AI
+organisations:
+- Apple Intelligence
+- Axel Metz
+- DMA
+- EU
+- Esquire
+- European Union
+- Google News
+- MacBook Air
+- Samsung
+- Siri AI
+- TechRadar
+- University of Warwick
+- iPad Air
 ---
 
 ![The Siri AI bubble displayed on an iPhone 17 Pro screen](https://cdn.mos.cms.futurecdn.net/WfmURBoAmM4p56QeqFjLZd.jpg) 

@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Craig Hale
+organisations:
+- '## Amazon'
+- '**Amazon'
+- Amazon Ads
+- Craig’s
+- FTC
+- Federal Trade Commission
+- Google News
+- TechRadar Pro
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn.jpg) 

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Luton Airport
+- Malaga
+- Newton Aycliffe Magistrates' Court
+- Stanley
+- UK
+people:
+- He
+- Leroy Breton
+organisations:
+- NEWSQUEST
 ---
 
 *(Image: NEWSQUEST)*

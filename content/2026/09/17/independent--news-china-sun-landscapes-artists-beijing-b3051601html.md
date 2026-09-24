@@ -13,6 +13,33 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Bao’en Pagoda
+- Beijing
+- China
+- Jiangxi
+- Jingdezhen
+- Nanjing
+- Qing Dynasty
+people:
+- Chen Qing
+- Huang Qi
+- Kiln God
+- Paola Masi
+- Song
+- Sun Lixin
+- Tong Bin
+- Weng Yanjun
+- Wu Jia
+organisations:
+- AP
+- Associated Press
+- Imperial Kiln Institute
+- Jingdezhen Ceramic University
+- Lilly Endowment Inc
+- Porcelain Capital
+- The Conversation US
+- UNESCO
 ---
 
 Chinese porcelain artist Chen Qing has a vivid memory of her grandfather. It was the only time he wrote down the formula for her family’s distinctive red pigment.

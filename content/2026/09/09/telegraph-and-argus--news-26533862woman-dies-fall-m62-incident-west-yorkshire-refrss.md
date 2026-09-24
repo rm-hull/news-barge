@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- '## Road'
+- Brighouse
+- Denshaw
+- Junction 22
+- Junction 25
+- M62
+- West Yorkshire
+people: []
+organisations:
+- M62
+- National Highways
+- West Yorkshire Police
 ---
 
 *(Image: Motorway Cameras)*

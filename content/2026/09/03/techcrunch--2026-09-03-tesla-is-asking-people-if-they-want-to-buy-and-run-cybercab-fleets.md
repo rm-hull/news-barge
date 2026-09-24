@@ -11,6 +11,28 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Austin
+- Las Vegas
+- London
+- Miami
+- Phoenix
+- Tesla
+- Waymo
+people:
+- Elon Musk
+organisations:
+- Avis
+- Cybercab
+- Hertz
+- Moove
+- Musk
+- New Horizon
+- TechCrunch
+- Tesla Model Y
+- Tesla Network
+- Uber
+- Waymo
 ---
 
 Tesla published a form on Thursday for businesses interested in buying Cybercab fleets or providing infrastructure for its network, the latest sign that the company’s aspirations for its gold-hued autonomous vehicle stretch beyond being a robotaxi operator.

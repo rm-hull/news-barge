@@ -15,6 +15,297 @@ categories:
 - Comedy & Entertainment
 - Music
 - Film & TV
+locations:
+- Chicago
+- Elmo
+- Kansas
+- Los Angeles
+- New York
+- Queens
+- Sesame Street
+- The Hills
+people:
+- ',” “Deadwood'
+- A-ha
+- A. Jay Popoff
+- Adam Lamberg
+- Air Bud
+- Aisha Tyler
+- Alex Clare
+- Alexis Bledel
+- Alison Sweeney
+- All My Children
+- Ally McBeal
+- Amy Davidson
+- Amy Poehler
+- Anastacia
+- Andrew Lincoln
+- Anna Deavere Smith
+- Austin Basis
+- Bailey De Young
+- Barbara Bain
+- Barrett Foa
+- Barry Shabaka Henley
+- Baz Luhrmann
+- BeBe Winans
+- Bell Biv DeVoe
+- Ben Garant
+- Ben Savage
+- Beth Grant
+- Beth Nielsen Chapman
+- Betty Kelley
+- Big Time Rush
+- Bill Medley
+- Billy Eichner
+- Blue Bloods
+- Bob Hearts Abishola
+- Bobbie Cryner
+- Bobby Jones
+- Bobby Lee
+- Boy Meets World
+- Brandon Porter
+- Bull Durham
+- Carolyn McCormick
+- Carter Oosterhouse
+- Castle
+- Chad Duell
+- Cheri Oteri
+- Chicago Hope
+- Christine Estabrook
+- Christopher Rich
+- Chuck Comeau
+- Columbus Short
+- Community,” “Scrubs
+- DJ Kay Gee
+- Dan Cortese
+- Danielle Brooks
+- Danielle Panabaker
+- Danny Nucci
+- Daren Kagasoff
+- Dave Annable
+- Dave Mustaine
+- David Bromberg
+- David Copperfield
+- Denyse Tontz
+- Desperate Housewives
+- Dominic Fumusa
+- Don Was of Was
+- Doug E. Fresh
+- Downton Abbey
+- Dr. Dolittle
+- Earl Klugh
+- Ed Begley Jr.
+- Elvira
+- Emily Rutherfurd
+- Emma Kenney
+- Esperanza Griffin
+- Faith Ford
+- Fat Albert
+- Fiona Apple
+- Flo Rida
+- Frankie Avalon
+- Freda Payne
+- General Hospital
+- George Chakiris
+- Geri Jewell
+- Gilmore Girls
+- Gossip Girl
+- Hacks
+- Hangin’
+- Harold
+- Hector Cervantes
+- Heidi Montag
+- Holly Robinson Peete
+- Ian Harding
+- Jack Frost
+- Jacqueline Bisset
+- Jada Pinkett Smith
+- James Marsden
+- Jane’s Addiction
+- Jason Sudeikis
+- Jayne Brook
+- Jean Smart
+- Jeff Bates
+- Jeff Ross
+- Jennifer Tilly
+- Jeremy Irons
+- Jessica Brown Findlay
+- Jimmy Fallon
+- Jim”)
+- Joan Lunden
+- Joanne Catherall
+- Joe Don Rooney
+- Joey Heatherton
+- John Berry
+- Jon “Bowzer” Bauman
+- Jonathan McReynolds
+- Josh Charles
+- Kate Mansi
+- Katie Lee
+- Katrina Bowden
+- Keke
+- Kelly Keagy
+- Kenney Jones
+- Kerry Livgren
+- Kevin Clash
+- Kevin Hooks
+- Kevin Zegers
+- Kimberly Williams-Paisley
+- Kumar
+- Kyla Pratt
+- Kyle Chandler
+- L.A. Law
+- Lenny Clarke
+- Lili Reinhart
+- Lioness
+- Lit
+- Lita Ford
+- Lizzie McGuire
+- Logan Henderson
+- Lol Creme
+- Los Lobos
+- Louis Mandylor
+- Louise Lombard
+- MADtv
+- Mad Men
+- Maddie
+- Madeline Zima
+- Malik Yoba (“Empire
+- Marc Anthony
+- Marcus Sanders
+- Mario Batali
+- Marisa Ramirez
+- Mark Hall
+- Mark McEwen
+- Mark Olson
+- Mark Romanek
+- Martha
+- Mary Crosby
+- Matthew Settle
+- Megadeth
+- Melissa Leo
+- Michael Mosley
+- Michael Symon
+- Michelle Stafford
+- Mickey Rourke
+- Midnight Sun
+- Mitch Dorge
+- Mitch Holleman
+- Molly Shannon
+- Morten Harket
+- Moulin Rouge
+- Mr. Cooper
+- Murphy Brown
+- Musiq Soulchild
+- Niall Horan
+- Nick Jonas
+- Night Ranger
+- Nile Rodgers
+- Nona Gaye
+- Numb3rs
+- Nurse Jackie
+- Oliver Stone
+- Ozark
+- Patrick Schwarzenegger
+- Paul Feig
+- Paul Williams
+- Peter Cetera
+- Porky
+- Pretty Little Liars
+- Pyros
+- Randy Jones
+- Rapper Eamon
+- Rapper Nas
+- Rascal Flatts
+- Reba
+- Reno
+- Rescue Me
+- Rex Smith
+- Richard Marx
+- Ricky Bell
+- Rita Rudner
+- Riverdale
+- Robert Herjavec
+- Robert Wisdom
+- Roger Howarth
+- Ron Shelton
+- Rosemary Harris
+- Sabrina Bryan
+- Sanaa Lathan
+- Sara Haines
+- Sara Quin
+- Scandal
+- Scott Colomby
+- Sha Na Na
+- Shark Tank
+- Simple Plan
+- Singer Fee Waybill
+- Sirens
+- Sisters
+- Soledad O’Brien
+- Sophina Brown
+- Star Trek
+- Steve Berlin
+- Steve Perkins
+- Strahan
+- Susan Ruttan
+- Sylvia Tyson
+- TV’s “Nashville,” “The Wire
+- TV’s “The Flash
+- Tae Kerr
+- Tamron Hall
+- Tavis Smiley
+- Taylor
+- Ted Lasso
+- Teddy Geiger
+- Tegan
+- Terry McBride
+- The Connors
+- The Dark Knight Rises
+- The Fosters
+- The Good Wife
+- The Marvelous Mrs. Maisel
+- The Nanny
+- The Young
+- Toks Olagundoye
+- Tom Hardy
+- Tommy Lee Jones
+- Transamerica
+- Travis Schuldt
+- Trisha Yearwood
+- Twiggy Lawson
+- Tyler Perry
+- Vandellas
+- Victor Williams
+- VinRock
+- Walter Koenig
+- White Men Can’t Jump
+- Xzibit
+- Zach Filkins
+organisations:
+- 10cc
+- Casting Crowns
+- Hi-Five
+- Human League
+- Jonas Brothers
+- NCIS
+- New Edition
+- News
+- OneRepublic
+- Party of Five
+- Red Hot and Green
+- Righteous Brothers
+- Society of Soul
+- The Cheetah Girls
+- The Cleveland Show
+- The Jayhawks
+- The Kitchen
+- The Matrix
+- The Mindy Project
+- The Notebook
+- The Tubes
+- The West Wing
+- Village People
 ---
 
 Celebrity birthdays for the week of Sept. 13-19:

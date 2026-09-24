@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Bradford
+- Duke Street
+- Loading Bay
+- Lowry
+- Manchester
+- Salford
+- UK
+people:
+- Tom Arber
+organisations:
+- Box of Tricks
+- Britpop
+- City of Culture
+- MANCHESTER’S
 ---
 
 *(Image: Tom Arber)*

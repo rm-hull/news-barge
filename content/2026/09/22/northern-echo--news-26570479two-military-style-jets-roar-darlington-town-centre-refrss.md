@@ -14,6 +14,28 @@ categories:
 - Health & Fitness
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21476450.jpg?type=og-image&yType=147
+locations:
+- Croft
+- Darlington Railway Station
+- Draken’s Teesside Airport
+- North East
+- North Sea
+- Sedgefield
+- Teesside Airport
+- Turkey
+- UK
+people:
+- Draken
+organisations:
+- Draken
+- Honey Badger's
+- Honey Badgers
+- L-159E
+- Ministry of Defence
+- NATO
+- Newcastle Airport
+- RAF
+- Royal Air Force
 ---
 
 Two military-style jets roared over Darlington during a training exercise based at Teesside Airport.

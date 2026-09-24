@@ -14,6 +14,55 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Boulby
+- Bremner
+- Calderdale
+- Charlton
+- Cleveland
+- Cowbar
+- Harrogate
+- Humber
+- Lawrence of Arabia
+- Leeds
+- Lorimer
+- Nidderdale
+- Pateley Bridge
+- Pateley Bridge High Street
+- Port Mulgrave
+- Saltaire
+- Salts Mill
+- Staithes
+- Tees
+- Whitby
+- York
+- Yorkshire
+people:
+- '## Ian Burdall'
+- Ben Myers
+- Charlie
+- David Hockney
+- Elvis
+- Ethel
+- Gary Longbottom
+- Ian Burdall.
+- I’ve
+- Jack Charlton
+- Leonard
+- Peter O’Toole
+- Tony Lambert
+organisations:
+- Aire Vally Disability
+- Caroline Street Club
+- Cod & Lobster
+- Leeds United
+- RADA
+- Ratatouille
+- Saltaire Arts Trail
+- Staithes Festival of Art and Heritage
+- The National Railway Museum
+- Tottenham
+- Yorkshire
 ---
 
 # 'Why you should visit this mill which is a testament to Yorkshire ingenuity'

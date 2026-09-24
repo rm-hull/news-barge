@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A20
+- Britain
+- England
+- Kent
+- Port of Dover
+- UK
+people:
+- Jonathan Reynolds
+- Mike Tapp
+organisations:
+- Dover and Deal
+- EU
+- Labour
+- Met
+- Mirror
+- National Highways
+- Patriot Platform
+- Sky News
 ---
 
 A cabinet minister has condemned the blocking of Dover roads by dozens of masked and black-clad people on Saturday.

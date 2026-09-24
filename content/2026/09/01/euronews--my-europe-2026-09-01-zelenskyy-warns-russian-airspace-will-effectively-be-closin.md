@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Kyiv
+- Moscow
+- Russia
+- St Petersburg
+- Ukraine
+people:
+- Kyiv** Zelenskyy
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv
 ---
 
 ## The Ukrainian president warned airlines, insurers and foreign governments that the growing scale of Kyiv’s drone operations would make Russian airspace increasingly unsafe for aircraft.

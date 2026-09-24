@@ -13,6 +13,21 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI312431714.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Hawking
+- UK
+- US
+people:
+- Charles Seife
+- Eddie Redmayne
+- Frank
+- Graham Farmelo
+- Isabel
+- Jane
+- John Murray
+- Stephen Hawking
+organisations:
+- Bantam
 ---
 
 ![Stephen Hawking](https://www.newscientist.com/wp-content/uploads/2026/09/SEI312431714.jpg?w=840)

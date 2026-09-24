@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Kangson
+- North Korea
+- Pyongyang
+- South Korea
+- US
+- Yongbyon
+people:
+- Ahn Gyu-back
+- Donald Trump
+- Kim Jong-un
+- Rafael Grossi
+organisations:
+- Chosun Daily
+- IAEA
+- International Atomic Energy Agency
+- James Martin Center for Nonproliferation Studies
+- UN
 ---
 
 The International Atomic Energy Agency (IAEA) has voiced “serious concern” over evidence that North Korea has built a facility capable of enriching weapons-grade uranium to bolster its nuclear arsenal.

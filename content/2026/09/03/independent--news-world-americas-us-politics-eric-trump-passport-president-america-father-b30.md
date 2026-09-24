@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Lake America
+- Lake Ontario
+- New York
+- U.S.
+people:
+- Brian Cox
+- Eric Trump
+- Kathy Hochul
+- Logan Roy
+- Prabowo Subianto
+organisations:
+- CNN
+- HBO
+- MapQuest
+- State Department
+- Trump Organization
+- U.S. Mint
+- United States’ Semiquincentennial
 ---
 
 Eric Trump has shown off his new U.S. passport – which features a portrait of his glowering father.

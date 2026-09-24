@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Acadia Grove
+- Church Lane
+- Hawthorn Avenue
+- Haxby
+- North Lane
+- St Mary's Church
+- The Village
+- York
+people: []
+organisations:
+- City of York Council
+- Haxby Sports Bar
+- McDonald's
 ---
 
 PLANS for double yellow lines in a York road have sparked objections.

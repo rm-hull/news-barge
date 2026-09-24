@@ -12,6 +12,16 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- A167
+- Crown Street
+- Darlington Darlington Station
+- Northgate
+people: []
+organisations:
+- Darlington Borough Council
+- Durham Police
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

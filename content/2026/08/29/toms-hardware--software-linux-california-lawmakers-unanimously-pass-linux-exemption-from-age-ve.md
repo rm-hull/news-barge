@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Brazil
+- California
+people:
+- Buffy Wicks
+- Gavin Newsom
+- Luke James
+- Tom
+organisations:
+- AB
+- Arch
+- Assembly
+- Debian
+- ECA
+- Electronic Frontier Foundation
+- GPL
+- Get Tom's Hardware
+- Google News
+- GrapheneOS
+- Linux
+- MIT
+- OS.Bigshrimp
+- PRC
+- Senate
+- SteamOS
+- USAFRet
+- Valve
 ---
 
 ![Age verification](https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE.jpg) 

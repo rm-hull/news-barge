@@ -11,6 +11,20 @@ description: The Google Pixel tablet is no more, Google appears to have pulled i
 image: https://cdn.mos.cms.futurecdn.net/5jSC4sHMtqXWkRhnf8hXMJ-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rowan Davies
+organisations:
+- Amazon
+- Google Home Speaker
+- Google News
+- Google Store
+- Nest Audio
+- Pixel Phone
+- Pixel Tablet
+- Pixel Watch
+- Reddit
+- TechRadar
 ---
 
 ![Google Pixel Tablet with speaker dock](https://cdn.mos.cms.futurecdn.net/5jSC4sHMtqXWkRhnf8hXMJ.jpg) 

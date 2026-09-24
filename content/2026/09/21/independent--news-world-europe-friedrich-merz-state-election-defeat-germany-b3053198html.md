@@ -13,6 +13,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/20/18/2026-09-20T163821Z_615877825_RC24NNATGYLE_RTRMADP_3_GERMANY-ELECTION-BERLIN-MERZ.JPG?trim=0,265,0,265&width=1200&height=800&crop=1200:800
+locations:
+- Berlin
+- Europe
+- Germany
+- Mecklenburg-Western Pomerania
+- New York
+- Saxony-Anhalt
+people:
+- Friedrich Merz
+- Tino Chrupalla
+organisations:
+- ARD
+- AfD
+- CDU
+- Christian Democratic Union
+- Left
+- SPD
+- Social Democrats
+- UN General Assembly
+- ZDF
 ---
 
 German Chancellor Friedrich Merz has suffered a heavy political setback following two state elections on Sunday, including a record defeat for his party, but he has pledged to push ahead with difficult reforms to Europe’s largest economy.

@@ -14,6 +14,20 @@ categories:
 - Lifestyle & Fashion
 - Travel
 - Outdoors & Nature
+locations:
+- Haxby
+- Landing Lane
+- Ms Vollans
+- The Wier
+- YOUR
+- York
+people:
+- Vollans
+organisations:
+- City of York Council)* Plans
+- McDonald's
+- Public Notice Portal
+- York Council
 ---
 
 ### What is the Public Notice Portal?

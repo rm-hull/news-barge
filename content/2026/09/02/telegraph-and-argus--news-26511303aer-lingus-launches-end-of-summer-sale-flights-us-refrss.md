@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Travel
 - Business & Entrepreneurship
+locations:
+- Boston
+- Cancún
+- Dublin
+- Great Britain
+- Ireland
+- Los Angeles
+- New York
+- North America
+- Toronto
+- UK
+people:
+- Susanne Carberry
+organisations:
+- AER Lingus
+- Aer Lingus
+- Aer Lingus Sale
+- US Preclearance
 ---
 
 *(Image: Aer Lingus)*

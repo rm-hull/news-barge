@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Eastney Marina
+- Newcastle
+- Paulsgrove
+- Port of Dover
+- Portsmouth Magistrates Court
+- Tamworth
+people:
+- Del Leon Somerville
+- Lucy Paddick
+organisations:
+- Border Force
+- Britain First
+- Del Leon Somerville
+- Hampshire Police
+- Northumbria Police
+- Portsmouth Crown Court
+- Portsmouth Law Courts
+- South Coast Patriots
+- Staffordshire Police
 ---
 
 ![A row of police officers in high vis and holding shields stood facing crowds.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2512/live/eb698dd0-ade7-11f1-9a5c-a7a4083eb832.jpg)

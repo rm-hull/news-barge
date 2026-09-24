@@ -14,6 +14,38 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Alatau Smart City
+- Almaty
+- Europe
+- Kazakhstan
+- Middle Corridor
+- Middle East
+- South Korea
+people:
+- Han Seongsook
+- Kassym-Jomart Tokayev
+- Lee Jae Myung
+- Sung Kim
+organisations:
+- Astana Motors
+- CJ Logistics
+- Comprehensive Program for Trade, Economic, and Investment Cooperation between Kazakhstan
+- Crude Oil Cooperation
+- Hyundai Engineering
+- Hyundai Motor Company
+- Hyundai Motor Group
+- Hyundai Tucson
+- KAIST
+- KIND
+- Karachaganak
+- Kazakhstan-South Korea Business Roundtable
+- Kia
+- Korea Advanced Institute of Science & Technology
+- Korea Overseas Infrastructure & Urban Development Corporation
+- LX Pantos
+- Lotte
+- Rare Metals Technology Cooperation Center
 ---
 
 ## Kazakhstan called for doubled trade and deeper cooperation in industry, critical minerals, technology, automotive manufacturing and the Middle Corridor.

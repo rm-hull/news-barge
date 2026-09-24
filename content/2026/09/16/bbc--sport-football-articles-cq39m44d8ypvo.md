@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- England
+- London City
+- Spain
+- US
+people:
+- Alexia Putellas
+- Eder Maestre
+- Freya Godfrey
+- Jana Fernandez
+- Mapi Leon
+- Michele Kang
+organisations:
+- Barcelona
+- London City
+- London City Lionesses
+- WSL
+- Women’s Super League
 ---
 
 ![A smiling Jana Fernandez holds a London City shirt](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg)

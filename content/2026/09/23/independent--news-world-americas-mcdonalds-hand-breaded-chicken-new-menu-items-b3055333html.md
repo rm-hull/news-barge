@@ -13,6 +13,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/19/47/GettyImages-2287452726.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Archy
+- Asia
+- Chicago
+- McDonald’s
+- U.S.
+people:
+- Chris Kempczinski
+- Ian Borden
+- McDonald
+- Skye Anderson
+- Tiffanie Boyd
+organisations:
+- ArchIQ
+- Archy
+- Borden
+- Chick-fil-A
+- Google
+- KFC
+- McDonald's
+- McDonald’s USA
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

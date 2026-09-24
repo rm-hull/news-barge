@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Atlantic
+- Australia
+- Bridgehampton
+- California
+- Cape Cod
+- Florida
+- Georgia
+- Gulf of Mexico
+- Hampton Bays
+- Hamptons
+- Long Island
+- Martha’s Vineyard
+- Massachusetts
+- Montauk
+- New England
+- New York
+- North Carolina
+people:
+- Bradley Peterson
+- Frank Quevedo
+- Greg Metzger
+- Peter Benchley
+organisations:
+- Florida Museum of Natural History
+- SOFO Shark
+- SOFO Sharks
+- South Fork Natural History Museum and Nature Center
+- Southampton High School
+- Stony Brook University
 ---
 
 Just off the coast of New York’s Hamptons, marine researcher Greg Metzger reels in a powerful young sand tiger shark. Working alongside a fellow scientist, he secures the female predator's tail to the side of the boat to gather tissue samples and attach electronic tracking equipment.

@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/GQqTnKgcMg4Hx2cYUmjzQo-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Jensen Huang
+- Marc Benioff
+- Mike Moore
+organisations:
+- AI
+- AIforce
+- B2B
+- B2C
+- Benioff
+- Dreamforce
+- Google News
+- ITProPortal
+- Nvidia
+- SaaSpocalypse
+- Salesforce
+- TechRadar Pro
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/GQqTnKgcMg4Hx2cYUmjzQo.jpg) 

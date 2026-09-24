@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Auckland
+- Brinkburn
+- Cocker Beck
+- Darlington
+- Pierremont
+- UK
+people:
+- Andrew White
+- Michael Harvey
+- Pease
+organisations:
+- Darlington Indoor Market
+- Darlington Market
+- Newcastle Airport
 ---
 
 Conspiracy theories, secret tunnels and long-forgotten passageways have all been suggested after an ornate archway was uncovered during works outside Darlington Indoor Market.

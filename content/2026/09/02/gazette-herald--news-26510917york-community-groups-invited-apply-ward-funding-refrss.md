@@ -15,6 +15,15 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- York
+people:
+- Anna Perrett
+organisations:
+- City of York Council
+- Fulford Scout Group
+- Tang Hall Breakfast Club
+- WardGrantApplications
 ---
 
 *(Image: City of York Council)*

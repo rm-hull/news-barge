@@ -13,6 +13,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNex
 categories:
 - Technology & Software
 - Science
+locations:
+- Denver
+- U.S.
+people:
+- Bill Gates
+- Daniel Rothenberg
+- Ferran Alet
+- Samier Merchant
+organisations:
+- AI
+- Brightband
+- ECMWF
+- European Center for Medium-Range Weather Forecasting
+- Gemini
+- Google DeepMind
+- Google Maps
+- Google Research
+- Microsoft
+- Nvidia
+- Operational WeatherBench
+- TechCrunch
+- U.S. National Weather service
+- WindBorne
 ---
 
 Scientists at Google DeepMind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often.

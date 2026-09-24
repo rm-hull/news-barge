@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Downtown Minneapolis
+- Hennepin
+- Loring Park
+- Minnesota
+people:
+- Chris Miller
+- Jacob Frey
+- Julius Bailey
+- Kash Patel
+- Tim Walz
+organisations:
+- FBI
+- The Associated Press
 ---
 
 Two people were killed and the suspect was dead after a shooting at an apartment building in downtown Minneapolis on Wednesday afternoon, officials said.

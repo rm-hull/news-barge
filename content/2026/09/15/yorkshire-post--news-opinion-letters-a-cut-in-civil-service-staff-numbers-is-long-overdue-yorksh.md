@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations:
+- Clark Cross
+- Linlithgow
+- London
+- Parliament Street
+- West Lothian
+- Whitehall
+people: []
+organisations:
+- Taxpayers' Alliance
+- Yorkshire Post Letters
 ---
 
 # A cut in civil service staff numbers is long overdue - Yorkshire Post Letters

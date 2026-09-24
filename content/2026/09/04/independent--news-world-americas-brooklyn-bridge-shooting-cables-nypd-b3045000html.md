@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brooklyn Bridge
+- Manhattan
+- New York
+- New York City
+- One Times Square
+- Queens
+- Times Square
+- UK
+- USA
+people:
+- Gerard Dowling
+- Jessica Tisch
+- Pamela Cisneros
+- Zohran Mamdani
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Emergency Service Unit
+- Emergency Services Unit
+- New York Police Department
+- Samaritans
+- Taser
 ---
 
 A man was fatally shot by police on the the cables of New York City’s Brooklyn Bridge Friday after he ignored orders to drop a knife, cops say.

@@ -13,6 +13,45 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Anty John’s
+- East Road
+- Everyman Northallerton
+- Our Yorkshire Farm
+- Ravenseat
+- Swaledale
+- Treadmills
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Annas
+- Anthony Clarkson
+- Anty John
+- Anty John’s
+- Clementine
+- Clive
+- Edith
+- Mark Robinson
+- Miles
+- Ms Owen
+- Nancy—
+- Owens
+- Raven
+- Ravenseat
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John
+- Channel 4
+- Channel 5
+- Lime Pictures
+- More4
+- Our Farm Next Door
+- Royal Television Society
+- Wise Owl Films
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 *(Image: Channel 4)*

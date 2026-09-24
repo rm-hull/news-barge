@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Blantyre
+- Leicester
+- Malawi
+- US
+people:
+- Mlowoka Noel Kayira
+- Nazil Osman
+- Nusrat Osman
+- Shobi Jiwa
+organisations:
+- Nyasa Times
+- Sun
+- World Bank
 ---
 
 A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abductors were killed.

@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- London
+- Mulberry
+- Paris
+people:
+- Bella Freud
+- Christopher Kane
+- Ian Wright
+- Jamie Carragher
+- Joan Collins
+- Jonathan Anderson
+- Kemi Badenoch
+- Lennon Gallagher
+- Maddy Evans
+- McQueen
+- Phoebe Philo
+- Saint Laurent
+- Zara
+organisations:
+- M&S
+- Marks & Spencer
 ---
 
 Joan Collins declared the coats “very chic”, and has her eye on a graceful ivory evening dress with caped shoulders. Kemi Badenoch plans to snap up the classic black tuxedo jacket. If the British public are as enthusiastic as the celebrity front row, Marks & Spencer’s first ever London fashion week catwalk looks like a hit.

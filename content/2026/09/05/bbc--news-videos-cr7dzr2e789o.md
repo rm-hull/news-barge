@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- America
+- Massachusetts
+people:
+- Ione Wells
+- Lindsay Clancy
+organisations:
+- BBC
 ---
 
 # How the Lindsay Clancy trial gripped America - and ultimately fell apart

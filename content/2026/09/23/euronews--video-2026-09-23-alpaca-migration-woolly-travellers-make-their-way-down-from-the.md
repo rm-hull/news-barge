@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Travel
 image: https://images.euronews.com/articles/stories/09/92/42/15/1200x675_cmsv2_2cf8aa20-f0ab-57d5-94a1-806fc26768b6-9924215.jpg
+locations:
+- Aeschi
+- Bernese Alps
+- Kiental
+- South America
+- Switzerland
+people:
+- Luginbuhl
+organisations: []
 ---
 
 Around 70 alpacas leave their summer pasture in the Bernese Alps and make their way down to Switzerland's Kiental valley.

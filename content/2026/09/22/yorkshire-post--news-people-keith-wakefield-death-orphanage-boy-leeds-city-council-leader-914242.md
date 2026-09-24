@@ -15,6 +15,37 @@ categories:
 - History
 - News & Politics
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/22/9/50/onecms_d8fb3f95-9669-4eb9-bbd0-d3c790022e8d.jpeg?trim=0,16,0,16&crop=&width=1200&auto=webp&quality=75
+locations:
+- Barwick and Kippax
+- Birmingham
+- Halton Moor
+- Leeds
+- Leicester
+- Methley
+- Southampton
+- St Gemma’s Hospice
+- West Yorkshire
+- Whitehall
+people:
+- '## Keith Wakefield'
+- Aileen Mable
+- Coun James Lewis
+- Coun Keith Wakefield
+- Dawn
+- Ed Whiting
+- Jessica
+- Keith Wakefield
+- Keith Wakefield.
+- Michael
+- Ruth
+- Tom Riordan
+organisations:
+- Coalition Government
+- Kippax and Methley
+- Leeds City Council
+- Leeds Council
+- Leicester
+- The Yorkshire Post
 ---
 
 # Keith Wakefield death: the orphanage boy who slept rough and rose to become Leeds City Council leader

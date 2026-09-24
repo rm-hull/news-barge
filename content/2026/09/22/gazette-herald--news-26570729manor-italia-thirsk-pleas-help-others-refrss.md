@@ -13,6 +13,18 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21485464.jpg?type=og-image
+locations:
+- Manor Italia
+- Millgate
+- North Yorkshire
+- Thirsk
+people: []
+organisations:
+- AI
+- Facebook
+- Google
+- Manor Italia
+- Tripadvisor
 ---
 
 *(Image: Street View)*

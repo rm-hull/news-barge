@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- Greg Brockman
+- Jakub Pachocki
+organisations:
+- AGI
+- AI
+- Anthropic
+- ChatGPT Plus
+- DMV
+- Daybreak
+- GPT-6 Astra
+- IPO
+- OpenAI
 ---
 
 OpenAI announced Thursday the launch of its next generation AI model, GPT-6 Astra, which the company claims is state of the art at navigating computers and web browsers, writing software, and solving difficult math problems.

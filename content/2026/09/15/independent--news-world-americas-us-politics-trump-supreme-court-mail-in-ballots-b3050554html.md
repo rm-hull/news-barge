@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- United States
+people:
+- Amy Coney Barrett
+- Brett Kavanaugh
+- Celina Stewart
+- Clarence Thomas
+- Donald Trump
+- Neil Gorsuch
+- Samuel Alito
+organisations:
+- Congress
+- Department of Justice
+- League of Women Voters
+- Radical Left
+- Supreme Court
+- Trump
+- Truth Social
+- U.S. Postal Service
+- United States Supreme Court
 ---
 
 President Donald Trump lashed out at the Supreme Court, including three justices he appointed to the bench, after they rejected his efforts to overhaul mail-in ballot voting just weeks before midterm elections.

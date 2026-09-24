@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Italy
+- Lake Castel Gandolfo
+- Madonna del Lago
+people:
+- Don Biker
+- Robert M. Pirsig
+- Tadeusz Rozmus
+organisations:
+- Harley-Davidsons
+- Vespa
 ---
 
 Robert M. Pirsig's legendary book "Zen and the Art of Motorcycle Mechanics" may well have provided the inspiration for some 200 bikers who gathered by Italy's Lake Castel Gandolfo to have their motorcycles and helmets blessed by Father Tadeusz Rozmus, known as “Don Biker”.

@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Big Sur
+- California
+- Highway 1
+- Los Angeles
+- Monterey
+- Plaskett
+- San Francisco
+people: []
+organisations:
+- Cal Fire
 ---
 
 A fire in California’s Big Sur region doubled in size overnight, forcing the evacuation of nearby residents, in a coastal region where firefighters have battled another blaze for weeks.

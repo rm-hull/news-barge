@@ -15,6 +15,19 @@ categories:
 - Music
 - Arts & Culture
 - Sports
+locations:
+- Carlisle Castle
+- Cathedral
+- HOT Aire
+people:
+- Bradnum
+- Kathryn Harrison
+organisations:
+- Braveheart
+- Carlisle Castle
+- Carlisle Cathedral
+- Concert Band
+- Fresh Aire!
 ---
 
 HOT Aire! Concert Band recently returned from Carlisle, where they entertained an audience at the Cathedral.

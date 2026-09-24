@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Music
 - Sports
+locations:
+- Barbican
+- Broadway
+- Chicago
+- Island of La Grande Jatte
+- London
+- Los Angeles
+- US
+- West End
+people:
+- Ariana Grance
+- Ariana Grande
+- Elliot
+- George
+- Georges Seurat
+- James Lapine
+- Jonathan Bailey
+- Marianne Elliott
+- Sondheim
+organisations:
+- Empire Street Productions
+- Fiyero
+- Glinda
+- Grande
+- People
 ---
 
 ![Jonathan Bailey, wearing a white open-necked shirt, and Ariana Grande in a black top and pearl stud earrings, at a Q&A on the film Wicked: For Good in Los Angeles. They are both laughing.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/90c4/live/cf57afc0-b03d-11f1-b1d1-571ed4d7ff2c.jpg)

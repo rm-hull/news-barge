@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Countess of Chester Hospital
+- Hereford
+- Manchester Crown Court
+- Royal Liverpool Hospital
+- Westbourne Road
+people:
+- Alison Kelly
+- Baby G
+- Child D
+- Child K
+- Child M
+- Child N
+- Child O. Dr Brearey
+- Child Q
+- Dame Vera Baird
+- Ian Harvey
+- Jeremy Hunt
+- Justice Thirlwall
+- Karen Rees
+- Lucy Letby
+- Ms Kelly
+- Stephen Brearey
+organisations:
+- CCRC
+- Cheshire Police
+- Court of Appeal
+- Criminal Cases Review Commission
+- Letby
+- Liverpool Women’s Hospital
+- NHS
+- RCPCH
+- Risk and Patient Safety Office
+- Royal College of Nursing
+- Royal College of Paediatrics and Child Health
+- Thirlwall Report
+- Thirwall Inquiry
 ---
 
 The long-anticipated findings of a public inquiry into how Lucy Letby was able to murder seven babies at a hospital neonatal unit will be published on Tuesday.

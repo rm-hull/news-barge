@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/63262910fa139f9704466a395b56fbc60e896f41/0
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Brisbane
+- East Coast
+- Gina’s
+people:
+- Andrew Hastie
+- Barnaby
+- Garth Hamilton
+- Gina Rinehart
+- Joyce
+- Madeleine King
+- Pauline Hanson
+- Peter Dutton
+- Senex
+- Steph Hodgins-May
+- Tanya Plibersek
+- Tyron Whitten
+organisations:
+- Coalition
+- Greens
+- Guardian
+- Hancock Prospecting
+- Liberal
+- One Nation
+- POSCO
+- Rinehart
+- Rinehart’s Hancock Prospecting
+- Senate
+- Senex
+- The Populist
 ---
 
 One Nation has come under fire for quietly shelving support for a new domestic gas reservation policy in preference for a policy that favours the party’s billionaire patron, Gina Rinehart.

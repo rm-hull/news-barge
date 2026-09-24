@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bingley High Street
+- Bradford District
+- Downing Street
+- Saltaire
+- Shipley Market Square
+- Shipley and Bingley
+- Westminster
+people:
+- Alan Barber
+- Andy Burnham
+- Anna Dixon
+- Anna Watson
+- Kevin Warnes
+- Pav Iqbal
+- Shipley
+- Trina Skjoldan-Iqbal
+organisations:
+- Bingley
+- Bradford Council
+- Brick Banks Café
+- Labour Government
+- Love Apple Cafe
+- Reform UK-led Bradford Council
+- The Baby Bean
 ---
 
 *This week's MP coumn is written by Shipley MP Anna Dixon*

@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Society & Culture
 - Health & Fitness
+locations:
+- Mid Staffordshire NHS Trust
+- NHS England
+- Thirwall
+people:
+- Harold Shipman
+- Jeremy Hunt
+- Justice Thirlwall
+- Lucy Letby
+- Tony Chambers
+- Yvette Cooper
+organisations:
+- CQC
+- Care Quality Commission
+- Countess of Chester
+- Countess of Chester Hospital
+- House of Commons
+- Letby
+- Morecambe Bay NHS Trust
+- NHS England
+- Nursing and Midwifey Council
+- Thirlwall
+- Thirwall
 ---
 
 ![NHS staff](https://ichef.bbci.co.uk/ace/standard/922/cpsprodpb/6cfd/live/0c0070d0-b10e-11f1-9065-997784e11373.png)

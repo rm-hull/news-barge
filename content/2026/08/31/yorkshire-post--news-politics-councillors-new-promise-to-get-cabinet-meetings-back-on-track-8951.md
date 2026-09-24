@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Kirklees
+people:
+- Batley West
+- Coun Amjad
+- Coun Khuram Amjad
+- Coun Sarah Wood
+organisations:
+- Cabinet Members
+- Corporate Governance and Audit Committee
+- Kirklees Council
 ---
 
 # Councillor’s new promise to get Cabinet meetings ‘back on track’

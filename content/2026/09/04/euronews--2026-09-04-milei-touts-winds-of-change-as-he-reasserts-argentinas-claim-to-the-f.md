@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Britain
+- British-Israeli Sea Lion
+- Falkland Islands
+- Falklands
+- Iran
+- Las Malvinas
+- Strait of Hormuz
+- UK
+- US
+- United Kingdom
+- United States
+- Washington
+people:
+- Donald Trump
+- Javier Milei
+- Margaret Thatcher
+- Wes Streeting
+organisations:
+- Falkland Islanders
+- GB News
+- United Nations
 ---
 
 ## US President Donald Trump has cast doubt on US support for the UK in a potential conflict over the territory, pointing to Britain's lack of backing in the Iran war.

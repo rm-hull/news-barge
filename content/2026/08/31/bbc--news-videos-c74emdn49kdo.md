@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Society & Culture
 - Travel
+locations:
+- Borneo
+- Indonesia
+- Ketapang
+- Sumatra
+- West Kalimantan
+people:
+- Karmele Llano Sanchez
+organisations:
+- YIARI
+- Yayasan Inisiasi Alam Rehabilitasi Indonesia
 ---
 
 # Orangutans in danger as wildfires blaze through Borneo

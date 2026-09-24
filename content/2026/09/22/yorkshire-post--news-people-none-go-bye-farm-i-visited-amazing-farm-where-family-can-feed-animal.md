@@ -14,6 +14,11 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3NDZhYmY1LTQxMDMtNGIwZC04MzRiLWRiYWRhNmI5ZTYxMTpiYjAwYjNiNy0yZTdjLTRjNTktYWUzNS05NjE5YTBhZWZlYzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations: []
+people: []
+organisations:
+- Google
+- Leeds Bradford Airport
 ---
 
 # None Go Bye Farm: I visited amazing farm where family can feed animals for £2, the play area is £2 and with a fully-stocked farm shop

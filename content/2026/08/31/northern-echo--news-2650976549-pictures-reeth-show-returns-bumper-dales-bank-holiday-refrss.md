@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Dales
+- Reeth Showground
+- Swaledale
+people: []
+organisations:
+- Bank Holiday
+- Reeth Brass Band
+- Yorkshire Dales’
 ---
 
 The Swaledale community came together on Bank Holiday Monday for the 112th Reeth Agricultural Show, as visitors, farmers and competitors gathered for one of the Yorkshire Dales’ best-loved annual events.

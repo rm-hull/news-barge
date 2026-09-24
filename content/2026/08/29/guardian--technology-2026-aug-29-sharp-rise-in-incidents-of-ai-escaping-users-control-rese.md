@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Silicon Valley
+- UK
+people:
+- Tommy Shaffer-Shane
+organisations:
+- AI Security Institute
+- AISI
+- AIs
+- Anthropic
+- Centre for Long Term Resilience
+- GPT-5.6 Sol –
+- Guardian
+- Loss of Control Observatory
+- Open AI
+- OpenAI
+- OpenClaw
 ---
 
 Incidents of AIs escaping users’ control to lie, ignore instructions and pursue goals in harmful ways have hit a new high, according to research that also suggests the severity of deception and misalignment is worsening.

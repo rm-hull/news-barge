@@ -16,6 +16,25 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- England
+- London
+- UK
+- Yorkshire
+people:
+- Andy Burnham
+- Baroness Casey
+- Baroness Louise Casey
+- Kirsty Wigglesworth
+- Mike Padgham
+- Yvette Cooper
+organisations:
+- Care Quality Commission
+- Government
+- Independent Care Group
+- NHS
+- National Care Service
+- Skills for Care
 ---
 
 # This needs to be the Parliament that finally fixes social care once and for all - Mike Padgham

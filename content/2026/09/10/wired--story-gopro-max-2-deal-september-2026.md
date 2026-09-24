@@ -11,6 +11,11 @@ image: https://media.wired.com/photos/6aa1f780662fbdcd3871fb06/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- DJI Mic
+- GoPro
 ---
 
 360 cameras use two lenses to simultaneously record everything happening around you, then stitch it together with software. That means you never miss that shot, but because there are essentially two cameras in one, they are more expensive than their action-camera cousins. Right now, though, you can grab my top-pick 360 camera, the GoPro Max 2, for 40 percent off ($299).

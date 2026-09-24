@@ -14,6 +14,30 @@ categories:
 - Germany
 - News & Politics
 - History
+locations:
+- Baltic Sea
+- Berlin
+- Buetzow
+- Europe
+- Germany
+- Mecklenburg-Western Pomerania
+- Rostock
+- Saxony-Anhalt
+people:
+- Daniel Prokof
+- Friedrich Merz
+- Gudrun Schumann
+- Jolin Ressel
+- Leif-Erik Holm
+- Manuela Schwesig
+organisations:
+- AFP
+- AfD
+- Bild
+- CDU
+- SPD
+- anti-AfD
+- pro-Donald Trump
 ---
 
 Manuela Schwesig of the centre-left SPD – a cancer survivor with high personal approval ratings and a large social media following – is fighting a battle that is being closely watched, especially in the office of Chancellor Friedrich Merz.

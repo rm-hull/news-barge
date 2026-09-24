@@ -11,6 +11,46 @@ image: https://static.independent.co.uk/2026/09/02/19/APTOPIX_Iran_US_War_89381.
 categories:
 - News & Politics
 - UK
+locations:
+- Beirut
+- Cairo
+- Germany
+- Iran
+- Israel
+- Kuhestak
+- Minab
+- Nuremberg
+- Saudi Arabia
+- Strait of Hormuz
+- U.S.
+- United Arab Emirates
+- Zurich
+people:
+- Ahmad Nafisi
+- Ali Mallahi
+- Amir-Hussein Radjy
+- Fatma Khaled
+- Jenzen-Jones
+- Konstantin Toropin
+- Moein Arjomand
+- Tim Hawkins
+- Trevor Ball
+organisations:
+- AP
+- Armament Research Services
+- Associated Press
+- Balochistan Human Rights Documentation Network
+- Basij
+- Boeing
+- Central Command
+- Fars
+- IRNA
+- Iranian Red Crescent
+- Revolutionary Guard
+- SLAM-ER
+- The Associated Press
+- U.S. Central Command
+- ___ El Deeb
 ---
 
 A U.S. missile hit a home in southern Iran where dozens were gathered to celebrate the wedding of a fisherman’s daughter, according to a rights group and Iranian media.

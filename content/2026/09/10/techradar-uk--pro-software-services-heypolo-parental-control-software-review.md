@@ -10,6 +10,26 @@ description: A privacy-first location tracker that puts control back in your han
 image: https://cdn.mos.cms.futurecdn.net/MwWV8wZhGuDK4jBBeUpz4Y-1727-80.jpg
 categories:
 - Technology & Software
+locations:
+- General Area
+- HeyPolo
+people:
+- HeyPolo
+- Krishi
+organisations:
+- App Store
+- Apple App Store
+- Google Play Store
+- HeyPolo
+- Krishi
+- Life360
+- SOS
+- Surfshark VPN
+- TechRadar Pro
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- iOS App Store
 ---
 
 ### TechRadar Verdict

@@ -16,6 +16,22 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Rotherham
+- South Yorkshire
+- UK
+people:
+- Andy Burnham
+- Nick Collins
+- Stefan Rousseau
+organisations:
+- AMP
+- Advanced Manufacturing Park
+- Government
+- McLaren Composites Technology Centre
+- McLaren Group
+- PA Wire
 ---
 
 # McLaren’s investment in South Yorkshire illustrates the value of industrial clusters to the economy

@@ -12,6 +12,23 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6aaa35741157d8a6eb7.jpg
+locations:
+- Glasgow
+- Harrogate
+- Knaresborough Town
+people:
+- Neil Reaney
+- Pete Egerton
+- Ross McCormack
+organisations:
+- Aston Villa
+- Fulham
+- Giffnock North
+- Harrogate
+- Knaresborough Town
+- Leeds United
+- Rangers
+- Scotland
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa35741157d8a6eb7.jpg)

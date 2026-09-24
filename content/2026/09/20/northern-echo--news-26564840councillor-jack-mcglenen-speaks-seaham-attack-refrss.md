@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21476385.jpg?type=og-image&xType=0&yType=46
+locations:
+- Colling Avenue
+- County Durham
+- Dalton
+- Dawdon
+- Durham County
+- Seaham
+- Sunderland Hospital
+people:
+- Cllr McGlenen
+- Dalton
+- Dawdon
+- Jack McGlenen
+organisations:
+- Durham Constabulary
+- Durham Police
+- NHS
+- PACT
+- Police and Communities Together
+- Reform UK
+- Reform UK Durham County Council
+- SDP
+- Social Democratic Party
+- Sunderland Royal Hospital
 ---
 
 A Durham County councillor has spoken out after being left in hospital after an attack.

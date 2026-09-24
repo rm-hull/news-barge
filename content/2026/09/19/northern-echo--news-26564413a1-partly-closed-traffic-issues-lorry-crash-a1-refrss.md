@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thenorthernecho.co.uk/resources/images/21475816.jpg?type=og-image
+locations:
+- A1 Western Bypass
+- Blaydon
+- Consett Turn Off
+- County Durham
+- Derwenthaugh Road
+- J74
+- Lemington
+- Lorry
+- Newburn Turn Off
+- Newcastle City
+- North East
+- North East A690
+people: []
+organisations:
+- A1
+- AA
+- Inrix
+- National Highways
+- North East Traffic
 ---
 
 *(Image: NORTHERN ECHO)*

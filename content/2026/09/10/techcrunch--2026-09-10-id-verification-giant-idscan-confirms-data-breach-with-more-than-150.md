@@ -12,6 +12,19 @@ image: https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-681253878.j
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Canada
+- U.S.
+- United States
+people:
+- Brian Krebs
+- Pete Hegseth
+organisations:
+- FBI
+- IDScan
+- Krebs’
+- Pentagon
+- TechCrunch
 ---
 
 ID verification service IDScan has confirmed that a data breach involved the theft of driver’s licenses from its systems, a week after a report said the identity document checker had been breached during a year-long hack.

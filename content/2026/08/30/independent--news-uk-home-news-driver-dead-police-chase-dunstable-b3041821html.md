@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bedfordshire
+- Caddington
+- Dunstable
+- High Street South
+- Markyate
+- UK
+people: []
+organisations:
+- Audi
+- Bedfordshire Police
+- IOPC
+- Independent Office for Police Conduct
+- PA Wire
+- Yui Mok
 ---
 
 The data is a snapshot of hate crime offences currently recorded by forces across the UK (Yui Mok/PA) (PA Wire)

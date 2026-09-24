@@ -12,6 +12,11 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Tadcaster
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 *(Image: Submitted)*

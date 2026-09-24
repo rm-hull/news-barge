@@ -13,6 +13,76 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Asia
+- Bhotekoshi
+- Bidur
+- Britain
+- Brussels
+- China
+- Denmark
+- England
+- Himalayas
+- Hormuz
+- Iceland
+- India
+- Iran
+- Jamaica
+- Jordan
+- Kathmandu
+- Lord’s
+- Nepal
+- Pakistan
+- Rasuwa
+- Rotherham
+- Tibet
+- Trishuli
+- UK
+- US
+- United States
+- West Africa
+people:
+- '***Dipo Faloyin'
+- '***Hannah Ellis-Petersen***'
+- '***Milo Yiannopoulos'
+- '***Nepal-Tibet'
+- '***US-Iran'
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Charles
+- Cole Palmer
+- Eliezer Yudkowsky
+- Emanuele Giulianelli
+- Emmanuel Macron
+- Esther Addley
+- Hannah
+- Harry
+- Joe Root
+- John Harris
+- João Pedro
+- Mario Balotelli
+- Michael Safi
+- Milo Yiannopoulos
+- Ollie Robinson
+- Parton
+- Sanjay Patel
+- Sunil Acharya
+- Tom Gauld
+- Zong
+organisations:
+- '** Telegraph'
+- '** Times'
+- AI
+- Big Tech
+- Brighton
+- Cricket Regulator
+- EU
+- Guardian
+- ICE
+- Immigration and Customs Enforcement
+- Northern Superchargers Hundred
+- Yorkshire
 ---
 
 Good morning. Over the weekend, rescue workers in Nepal and Tibet raced to find people who are still trapped in villages affected by catastrophic flash floods. As of this morning, the death toll stands at 903, and more than 4,000 people are missing.

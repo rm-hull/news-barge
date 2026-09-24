@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- England
+- Harborne
+- Hong Kong
+- Thailand
+- UK
+- Wales
+people:
+- Andy Burnham
+- Ben Delo
+- Bridget Phillipson
+- Christopher Harborne
+- Margaret Hodge
+- Nigel Farage
+- Rachel Millward
+- Shaun Bowler
+- Stella Creasy
+organisations:
+- Delo
+- Farage
+- Green party
+- Guardian
+- Harborne
+- Labour
+- Lords
+- Metropolitan police
+- Reform UK
+- Union
+- Wake Up GB
 ---
 
 The cryptocurrency tycoon Christopher Harborne has given £36m to Reform UK, matching a donation from fellow billionaire Ben Delo.

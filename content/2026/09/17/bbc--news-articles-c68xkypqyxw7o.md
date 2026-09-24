@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Amsterdam
+- Australia
+- Brisbane
+- Fitzroy River
+- New Zealand
+- Rockhampton
+- Rocky
+- Rowing Queensland
+- Sydney
+people:
+- Anthea O'Loughlin
+- David Crisafulli
+- Drew Ginn
+- Gina Rinehart
+- Jean-Christophe Rolland
+- Moritz Petri
+- Phillip Moulds
+- Simon Wickham
+- Thomas Konietzko
+- Tom Solesbury
+organisations:
+- BBC Radio
+- Brisbane 2032
+- British Rowing
+- Fitzroy
+- Games' infrastructure authority
+- Hancock Prospecting
+- IOC
+- International Olympic Committee
+- Paddle Worldwide
+- Rowing New Zealand
+- The Rockhampton Grammar School
+- World Rowing
 ---
 
 ![A rowing boat with rowers wearing white and blue row down a wide river with mist rising from the water.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3892/live/bc8899c0-b251-11f1-aeda-b3619ea893bd.jpg)

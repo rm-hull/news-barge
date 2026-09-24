@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Aidan McLaughlin
+- Clément Delangue
+- Dario Amodei
+- Elon Musk
+- Hugging Face
+- Jacob Coxon
+organisations:
+- AI
+- Amodei
+- Anthropic
+- Guardian
+- Hugging Face
+- OpenAI
 ---
 
 The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.

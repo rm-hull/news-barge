@@ -13,6 +13,36 @@ image: https://cdn.mos.cms.futurecdn.net/xjW62VZTykYGSTF3Yrt9Ab-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- Holland
+- Virgin River
+people:
+- Frances Bourgeois
+- Francis Bourgeois
+- Francis' TikToks
+- Francis' TikToks'
+- George Cooper Sr.
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Clarkson's Cotswolds
+- Google News
+- Hallmark
+- Hops & Chops
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- The Farmer's Dog
+- Throttle House
+- TikTok
+- Yahoo!
+- YouTube
 ---
 
 ![James Engelsman, Frances Bourgeois and Thomas Holland](https://cdn.mos.cms.futurecdn.net/xjW62VZTykYGSTF3Yrt9Ab.jpg) 

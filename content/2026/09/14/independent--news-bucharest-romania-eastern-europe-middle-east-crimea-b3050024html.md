@@ -14,6 +14,20 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- Balkan
+- Bucharest
+- Crimea
+- Eastern Europe
+- Middle East
+- Russia
+- Ukraine
+people:
+- Vadim Ghirda
+organisations:
+- AP
+- Associated Press
+- Breaking News Photography
 ---
 
 Vadim Ghirda is a Bucharest, Romania-based Associated Press photographer who has documented major news, conflict and humanitarian stories for more than 35 years.

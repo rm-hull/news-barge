@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Clifton
+- Grade I
+- Lumley Road
+- York
+- Yorkshire
+people: []
+organisations:
+- BURGLARS
+- DeWalt
+- North Yorkshire Police
 ---
 
 *(Image: Google Maps)*

@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Claude Fable
+- Claude Opus
+- Craig Hale
+- Sol
+organisations:
+- Astra
+- Craig’s
+- GPT-5.6 Sol
+- GPT-6
+- Google News
+- OpenAI
+- Power BI
+- ScreenSpot-Pro
+- TechRadar Pro
 ---
 
 ![OpenAI GPT-6 Astra](https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36.jpg) 

@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Beit Lahiya
+- Gaza City
+- Gaza Strip
+- Israel
+- Khan Younis
+- Nasser
+- Tel al-Hawa
+- al-Mawasi
+people:
+- Ayoub
+- Bana
+- Haneen Saleh
+- Iman Shalouf
+- Ismail abu Mashi
+- Khan Younis
+- Lana
+- Momen Ahmed
+- Wathfa abu Mashi
+organisations:
+- Anadolu
+- Guardian
+- Israel Defense Forces
+- MSF
+- Médecins Sans Frontières
+- Palestinian Red Crescent
+- UN
+- Unicef
 ---
 
 A pregnant Palestinian woman died on Saturday from injuries sustained after being shot in the head by Israeli forces south of Khan Younis, according to her family and medical workers, as strikes across Gaza killed at least 10 people in 48 hours.

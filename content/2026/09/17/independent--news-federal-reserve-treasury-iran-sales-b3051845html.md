@@ -16,6 +16,19 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Iran
+- U.S.
+people:
+- Jake Krimmel
+- Lisa Sturtevant
+organisations:
+- Bright MLS
+- Fed
+- Federal Reserve
+- Freddie Mac
+- Realtor.com
+- Treasury
 ---
 
 Home shoppers holding out for relief from rising mortgage rates may be in for a long wait.

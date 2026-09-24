@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- North Yorkshire Moors Railway
+- Pickering
+- York
+people:
+- Dan
+- Daniel Coll
+- Dave Thorp
+- Father Christmas
+- Peter Purves
+organisations:
+- Beagle
+- Blue Peter
+- PicturePoint Films
+- Santa Express
 ---
 
 *(Image: Pixabay)*

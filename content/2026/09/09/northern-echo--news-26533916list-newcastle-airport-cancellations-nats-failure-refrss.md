@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amsterdam
+- Bristol
+- Indonesia
+- London Heathrow
+- Newcastle Airport
+- SARAH CALDECOTT
+- Teesside Airport
+- Tenerife
+- UK
+people:
+- Ed Miliband
+- Martin Rolfe
+organisations:
+- BBC Breakfast
+- British Airways
+- NATS
+- National Air Traffic Service
+- National Air Traffic Services
+- Newcastle Airport
+- TUI
+- Transport Secretary
+- easyJet
 ---
 
 *(Image: SARAH CALDECOTT)*

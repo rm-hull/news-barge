@@ -11,6 +11,56 @@ image: https://static.independent.co.uk/2026/08/12/8/31/Screenshot-2026-08-12-at
 categories:
 - News & Politics
 - UK
+locations:
+- Barnham Camp
+- Best Western Stoke
+- Bicester
+- Britain
+- Crowborough
+- East Sussex
+- Epping
+- Essex
+- Halifax
+- Hertfordshire
+- Norfolk
+- Oxfordshire
+- Piddington
+- RAF
+- Rwanda
+- Staffordshire
+- Suffolk
+- Thetford
+- UK
+- West Yorkshire
+- Wethersfield
+people:
+- Andy Burnham
+- Chris Philp
+- Joe Giddens
+- Jonathan Reynolds
+- Joy Morrissey
+- Mike Nixon
+- Ms Braverman
+- Ms Morrissey
+- Ms Pochin
+- Piddington
+- Sarah Bool
+- Sarah Pochin
+- Suella Braverman
+- Tim McNally
+organisations:
+- BBC Radio 4
+- Bell Hotel
+- Delta Hotel Cheshunt
+- Government
+- Home Office
+- ITV’s Good Morning Britain
+- Piddington Parish Council
+- Piddington council
+- RAF Barnham
+- Reform UK
+- Tory
+- Wool Merchant Hotel
 ---
 
 A quaint village in Oxfordshire will hold a symbolic independence “referendum” on Tuesday - over concerns about a nearby military site being used to house asylum seekers.

@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Eastney Harbour
+- Isle of Wight
+- North Poole
+- Port of Dover
+- Port of Portsmouth
+- Port of Southampton
+people:
+- Lisa Nandy
+- Peter Sparkes
+- Vikki Slade
+organisations:
+- ABP
+- BBC
+- British Ports
+- Commons
+- KHM
+- King’s Harbour Master
+- Liberal Democrat
+- Mid Dorset
+- Portsmouth
+- RNLI
 ---
 
 The RNLI has advised volunteers to consider not wearing its branded clothing in certain public areas as they review security measures, after members were targeted online by the far-right.

@@ -15,6 +15,25 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- China
+- Mount Pleasant
+- U.S.
+- Wisconsin
+people:
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Allbirds
+- FCC
+- GoPro
+- Google News
+- Jowi Morales
+- Microsoft
+- PricewaterhouseCoopers
+- Starman Optical, Inc.
 ---
 
 ![a GoPro Hero13 Black](https://cdn.mos.cms.futurecdn.net/uL6kyfvTkZobmzEhtKSn6F.png) 

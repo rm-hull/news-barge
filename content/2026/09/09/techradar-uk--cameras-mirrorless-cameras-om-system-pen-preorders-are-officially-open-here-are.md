@@ -11,6 +11,26 @@ description: Interested in the new OM System PEN? Here's where to preorder - inc
 image: https://cdn.mos.cms.futurecdn.net/drsJn87JgYmPhjanCv7S97-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Adorama
+- TechRadar
+- UK
+- USA
+people:
+- Alex Whitelock
+organisations:
+- Alex
+- B&H Photo
+- Fujifilm X-E5
+- Future PLC
+- GamesRadar
+- Google News
+- OM System
+- PEN
+- Park Cameras
+- TechRadar
+- Wex Video Photo
+- X-M5
 ---
 
 ![Top half of the OM System PEN camera and it's covered in water droplets](https://cdn.mos.cms.futurecdn.net/drsJn87JgYmPhjanCv7S97.jpg) 

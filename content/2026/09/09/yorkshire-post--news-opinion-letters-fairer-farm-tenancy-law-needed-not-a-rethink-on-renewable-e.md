@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bideford
+- Cathy Slaughter
+- Daniel Leal-Olivas
+- Lincolnshire
+- North Yorkshire
+- PA
+- UK
+- Whitehall
+people:
+- Joe Ward
+organisations:
+- Yorkshire Post Letters
 ---
 
 # Fairer farm tenancy law needed, not a rethink on renewable energy - Yorkshire Post Letters

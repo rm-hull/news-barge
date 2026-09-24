@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/08/03/18/46/Screenshot-2026-08-03-a
 categories:
 - News & Politics
 - UK
+locations:
+- Arlington Cemetery
+- Arlington Memorial Bridge
+- Arlington National Cemetery
+- D.C.
+- DC
+- Lincoln Memorial
+- Memorial Bridge
+- Paris
+- Potomac River
+- Virginia
+- Washington
+- White House
+people:
+- Don Beyer
+- Doug Burgum
+- Nicolas Sansone
+- Trump
+organisations:
+- Avenue of Heroes
+- Capital in the World
+- Congress
+- Interior
+- Justice Department
+- Lincoln Memorial Reflecting Pool
+- National Capital Planning Commission
+- National Trust for Historic Preservation
+- Public Citizen
+- Supreme Court
+- The Washington Post
+- Trump Administration
+- USA Today
 ---
 
 Initial work will begin over the next two weeks on the Trump administration’s controversial 250-foot triumphal arch project, Interior Secretary Doug Burgum announced on Thursday.

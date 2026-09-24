@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- U.S.
+people: []
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Cleveland Clinic
 ---
 
 Nearly three-quarters of Americans are fatigued and some are feeling it more than others, according to a new analysis of federal data.

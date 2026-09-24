@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Family & Parenting
 - Society & Culture
+locations:
+- Coppice Valley
+- Harrogate
+- Little Ferns
+- Little Ferns Pre-School
+people:
+- Hannah McNamara
+- Ian Tucker
+- Viv Poskitt
+organisations:
+- Coppice Valley Primary School
+- Little Ferns
+- Little Ferns Pre-School
+- Red Kite Learning Trust
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3a4ae8ee8dfbc26d.jpg) 

@@ -11,6 +11,29 @@ image: https://i.guim.co.uk/img/media/244d8e106c8da37c2eecebda739864fc423f8d34/5
 categories:
 - UK
 - News & Politics
+locations:
+- Colombia
+- Ecuador
+- El Salvador
+- Latin America
+- Los Tiguerones
+- Peru
+- Quito
+- US
+people:
+- Abelardo De La Espriella
+- Daniel Noboa
+- Donald Trump
+- Gustavo Petro
+- Keiko Fujimori
+- Marco Rubio
+organisations:
+- Congress
+- El Noticiero
+- Petro
+- Shield of the Americas
+- TC Televisión
+- Trump White House
 ---
 
 The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as a terrorist organisation as the Trump administration expands its campaign against narcotics traffickers it says are destabilising Latin America.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/41a1b4e4cc7b8c79ae4996169fb1738e1ec0f6cd/667_0_6673_5338/master/6673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1bfa30185e28a8eace72160e30ba87d
+locations:
+- America
+- Britain
+- Jackdaw
+- Monaco
+- North Sea
+- Old Trafford
+- Rosebank
+- UK
+people:
+- Jim Ratcliffe
+organisations:
+- BBC
+- BBC’s Big Boss Interview
+- Ineos
+- Manchester United
+- Office for Budget Responsibility
+- Sky News
 ---
 
 The co-owner of Manchester United Sir Jim Ratcliffe has described the UK as being a country “on the slide” from the days when it had “the greatest empire in the world”.

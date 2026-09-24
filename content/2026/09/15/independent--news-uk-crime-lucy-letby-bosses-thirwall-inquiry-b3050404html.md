@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Countess of Chester Hospital
+- Coutness of Chester Hospital
+- Liverpool Town Hall
+- Royal Oldham Hospital
+- Salford Royal Hospital
+people:
+- Alison Kelly
+- Ian Harvey
+- Kate Blackwell KC
+- Lucy Letby
+- Ms Kelly
+- Stephen Brearey
+- Tony Chambers
+organisations:
+- Cheshire Constabulary
+- Cheshire Police
+- Letby
+- Northern Care Alliance NHS Foundation Trust
+- Thirwall Inquiry
 ---
 
 Former senior managers at the hospital where Lucy Letby murdered seven babies and attempted to kill a further seven gave evidence at the Thirwall Inquiry, which investigated how they handled the case.

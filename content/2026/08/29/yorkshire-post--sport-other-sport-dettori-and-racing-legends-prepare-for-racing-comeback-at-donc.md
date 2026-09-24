@@ -16,6 +16,45 @@ categories:
 - York
 - Sports
 - Video Gaming
+locations:
+- Bawtry
+- Doncaster
+- Doncaster’s Town Moor
+- Jack Berry House
+- Malton
+- Royal Albert Hall.
+- Royal Ascot
+people:
+- Adam Kirby
+- Adrian Nicholls
+- Andrew Thornton
+- Brendan
+- Frankie Dettori
+- Franny Norton
+- Gary Bardwell
+- Gay Kelleway
+- Jamie Hamblett
+- Jenny Powell
+- Jimmy Quinn
+- Joe Fanning
+- John Gosden-trained Logician
+- Josh Cuthbert
+- Meg Nicholls
+- Richard Patrick
+- Sammy-Jo Bell
+- Shazani
+- Sprowston Boy
+- Tom Scudamore
+organisations:
+- Doncaster
+- IJF
+- ITV
+- Indigo Girl
+- Injured Jockeys Fund
+- Les Eyre
+- St Leger
+- Union J
+- Yorkshire
 ---
 
 # Dettori and racing legends prepare for racing comeback at Doncaster's 250th Leger Festival

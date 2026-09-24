@@ -13,6 +13,33 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- Boston
+- Denver
+- Manhattan
+- New Jersey
+- New York City
+- North Tower
+- Pennsylvania
+- Shanksville
+- South Tower
+- U.S.
+- Washington, D.C.
+- World Trade Center
+people:
+- Mike Johnston
+- Miles Morgan
+organisations:
+- American Airlines
+- City and County of Denver Government
+- Denver International Airport
+- Office of Emergency Management
+- Pentagon
+- United Airlines
+- United Flight
+- United Flight 93
+- United’s Flight Training Center
+- World Trade Center
 ---
 
 Officials in Denver this week warned residents not to fear the sight of U.S. fighter jets alongside a Boeing 777 commercial airliner above the city’s downtown on Friday morning, as the nation recognizes the 25th anniversary of the September 11 terror attacks.

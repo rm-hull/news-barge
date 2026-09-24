@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Cherbourg
+- Dover
+- Downing Street
+- France
+- Hampshire
+- Portsmouth
+- Solent
+- UK
+- Westminster
+people:
+- Andy Burnham
+- Daniel Thomas
+- Danny Tommo
+- Donna Jones
+- Nick Lowles
+- Nigel Farage
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- BBC Radio 4
+- Border Force
+- Hope Not Hate
+- Labour
+- Patriot Platform
+- Portsmouth
+- Reform UK
 ---
 
 Downing Street has condemned the “thuggish and intimidating behaviour” of far-right activists who blocked roads in Portsmouth when a boat carrying asylum seekers arrived in the city, two days after similar scenes in Dover.

@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- London
+- Neet
+- Oxford Street
+- UK
+people:
+- Alan Milburn
+- Helen Dickinson
+- John Lewis
+- Marc Bolland
+- Pat McFadden
+organisations:
+- BRC
+- British Retail Consortium
+- Costa Coffee
+- Curry’s
+- DWP
+- Department for Work and Pensions
+- M&S
+- Neets
+- Tesco
+- Work and Pensions
 ---
 
 Thousands of work experience placements are set to be provided by the UK’s major retail brands as part of a broader government push to tackle youth unemployment.

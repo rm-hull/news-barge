@@ -11,6 +11,16 @@ description: OpenAI previewed the precautions it is taking as it prepares to rel
 image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798
 categories:
 - Technology & Software
+locations:
+- U.S.
+people:
+- Yona Shavit
+organisations:
+- AI
+- Anthropic
+- Astra
+- LLM
+- OpenAI Foundation
 ---
 
 OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release.

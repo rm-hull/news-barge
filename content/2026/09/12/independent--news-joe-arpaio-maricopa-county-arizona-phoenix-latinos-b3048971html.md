@@ -13,6 +13,23 @@ image: https://static.independent.co.uk/2026/09/12/01/Arizona_Sheriff-Racial_Pro
 categories:
 - News & Politics
 - UK
+locations:
+- Maricopa County
+- Phoenix
+- U.S.
+- then-Arizona
+people:
+- Andy Biggs
+- Debbie Lesko
+- Donald Trump
+- Jerry Sheridan
+- Joe Arpaio
+- Kate Brophy McGee
+- Katie Hobbs
+- Murray Snow
+organisations:
+- MCSO
+- U.S. Department of Justice
 ---
 
 A judge who ruled 13 years ago that Hispanics were racially profiled in then-Arizona Sheriff Joe Arpaio’s immigration crackdowns has rejected a bid to end the court’s supervision of the sheriff’s office.

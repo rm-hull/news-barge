@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/18/8/19/Screenshot-2026-09-18-at
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- White House
+people:
+- Hakeem Jeffries
+- Hasan Piker
+- JD Vance
+- Kamala Harris
+- Mike Drucker
+- Philip DeFranco
+- Trump
+- Volodymyr Zelensky
+organisations:
+- Epstein Files
+- House
+- Ipsos
+- LMAO NO
+- Oversight Democrats
+- Trump
+- VP
 ---
 
 Vice President JD Vance’s appeal for voters to give Republicans “another chance” has been widely derided online.

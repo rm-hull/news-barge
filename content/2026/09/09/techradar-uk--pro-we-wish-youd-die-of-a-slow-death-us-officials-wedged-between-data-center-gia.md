@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- AI
+- Box Elder County
+- Iowa
+- Marshall
+- Michigan
+- Northern Virginia
+- Saline Township
+- Salix
+- Texas
+- US
+- United States
+- Utah
+people:
+- Kelly Marion
+- Lee Perry
+- Sid Miller
+organisations:
+- AI
+- Avison Young
+- CNBC
+- Efosa
+- Google News
+- National Association of Home Builders
+- OpenAI
+- Oracle
+- TechRadar Pro
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

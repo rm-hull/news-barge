@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Brig
+- China
+- Djibouti
+- France
+- Horn of Africa
+- Iran
+- Japan
+- Marib
+- Mogadishu
+- Mokha
+- Najran
+- Red Sea
+- Saudi Arabia
+- Sharurah
+- Somalia
+- Strait of Hormuz
+- U.S.
+- Yemen
+- al-Tawwal
+people:
+- Al-Arada
+- Ilyas M. Dawaleh
+- Omar Farouk
+- Sultan al-Arada
+- Yahya Saree
+organisations:
+- International Organization for Migration
+- The Associated Press
 ---
 
 Iran-backed Houthis in Yemen overnight claimed new attacks on neighboring Saudi Arabia, as Yemen's Saudi-backed government described the rebels' swift advance along the Red Sea coast as a “painful” development in a new front in the Iran war.

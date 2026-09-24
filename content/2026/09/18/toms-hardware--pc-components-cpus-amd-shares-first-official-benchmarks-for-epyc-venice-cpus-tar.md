@@ -13,6 +13,34 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb-2048-80.jpg
+locations:
+- Venice
+people:
+- Michael Larabel
+- Tom
+- Vera
+organisations:
+- AMD
+- AWS
+- Diamond Rapids
+- EPYC
+- GCC
+- GNU Compiler Collection
+- Get Tom's Hardware
+- Google News
+- HBM
+- Intel
+- LLVM
+- NGINX
+- Nvidia
+- Phoronix
+- SOP
+- TPC-C
+- TPC-H
+- TPCx-AI
+- Team Red
+- Tom’s Hardware
+- Vera
 ---
 
 ![AMD Venice CPU.](https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb.jpg) 

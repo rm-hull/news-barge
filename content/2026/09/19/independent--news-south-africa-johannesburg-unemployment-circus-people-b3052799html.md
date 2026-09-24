@@ -13,6 +13,28 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/04/South_Africa_Circus_54612.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Alexandra
+- Johannesburg
+- Sandton
+- South Africa
+- africa
+people:
+- Brian Ngobese
+- Cirk
+- Megan Nielsen
+- Michelle Fok
+- Orlando Vargas
+- Zenzele Letsoela
+organisations:
+- Joburg Theatre
+- Jozi Circus School
+- Ngobese
+- Organization for Economic Co-operation and Development
+- Statistics South Africa
+- The Associated Press
+- The Cirk
+- \_\_\_ AP Africa
 ---
 
 Clutching an aerial hoop on a Johannesburg circus stage, a young performer pauses for a split second before launching into the air and gliding, drawing cheers from the crowd below.

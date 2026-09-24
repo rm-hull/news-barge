@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Manchester Airport
+- Manchester Piccadilly
+people:
+- Adam Fairclough
+- Ian Howarth
+organisations:
+- 250ml Aperol Spritz
+- Aperol Spritz
+- Manchester Airport
+- TPE
+- TransPennine Express
 ---
 
 *(Image: Ian Howarth)*

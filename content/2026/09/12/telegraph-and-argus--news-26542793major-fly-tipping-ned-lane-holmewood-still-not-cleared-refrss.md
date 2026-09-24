@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bierley
+- Black Carr Woods
+- Bradford
+- Holme Lane
+- Holme Wood
+- Ned Lane
+people:
+- Bierley
+- Holmewood
+- Matt Edwards
+organisations:
+- BD4
+- Bradford Council
+- CCTV
+- Green Party
+- Telegraph & Argus
 ---
 
 *(Image: Cllr Matt Edwards)*

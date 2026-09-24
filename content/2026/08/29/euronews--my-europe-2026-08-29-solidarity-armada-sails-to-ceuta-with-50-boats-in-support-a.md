@@ -12,6 +12,21 @@ image: https://images.euronews.com/articles/stories/09/89/37/81/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Ceuta
+- Costa del Sol
+- Morocco
+- Spain
+- Strait of Gibraltar
+- Trampolín
+people: []
+organisations:
+- CETI
+- FPAV
+- Foro Ceuta Siglo XXI
+- Provincial Federation of Neighbours' Associations
+- Temporary Stay Centre for Immigrants
+- Yacht Club
 ---
 
 ## The initiative gathers around 120 people from Spanish ports to support the city after late-July migration pressures. After days of clashes, no further mobilisation is expected in the autonomous city this weekend.

@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Athlos
+- Britain
+- East Germany
+- Eastern Bloc
+- England
+- London
+- Munich
+- Seoul
+- Tokyo
+- Turin
+people:
+- Ann Brightwell
+- Ann Packer
+- Audrey Werro
+- Christina Boxer
+- Christina Boxer-Cahill
+- Hildegard Falck
+- Jarmila Kratochvilova
+- Judy Pollock
+- Karoline Lina Radke
+- Keely Hodgkinson
+- Roger Bannister
+organisations:
+- BBC Sport
+- Boxer-Cahill
+- Eastern Bloc
+- European Athletics
+- Zurich Diamond League
 ---
 
 ![Keely Hodgkinson and Audrey Werro cross the finish line](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bbde/live/f3f6d3e0-a847-11f1-b3a7-d5de760fef6e.jpg)

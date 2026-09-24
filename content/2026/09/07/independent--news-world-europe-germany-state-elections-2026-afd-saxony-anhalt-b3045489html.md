@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Europe
+- Germany
+- Magdeburg
+- Moscow
+- Russia
+- Saxony-Anhalt
+- Tangermünde
+- Ukraine
+people:
+- Alice Weidel
+- Friedrich Merz
+- Sepp Muller
+- Simson
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- ARD
+- AfD “
+- Bild
+- CDU
+- CSU
+- Das Erste TV
+- ZDF
 ---
 
 Germany’s beleaguered chancellor said on Monday that the far-right AfD party’s historic election victory over the weekend shows the need for deep reforms in government, while vowing to press with his steady reform agenda.

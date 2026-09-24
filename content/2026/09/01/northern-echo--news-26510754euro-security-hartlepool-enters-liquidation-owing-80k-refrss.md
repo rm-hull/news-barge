@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Hartlepool
+- Hartlepool’s HUB ONE Innovation Centre
+- North East
+people:
+- Jonathan Whitfield
+organisations:
+- ADI Global
+- CCTV
+- Companies House
+- Darlington Poundland
+- Euro Security
+- Euro Security Limited
+- Euro Security Ltd
+- Euro Security and Euro Fire & Security
+- First Gazette
+- HM Revenue and Customs
+- HSBC
 ---
 
 A Hartlepool security company has entered voluntary liquidation after building up debts of more than £80,000.

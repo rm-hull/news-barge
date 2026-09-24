@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Peppermint
+- UK
+people:
+- Benjamin Borseth
+organisations:
+- Aromantic
+- Primark
+- Woodland Trust
 ---
 
 *(Image: Getty Images)*

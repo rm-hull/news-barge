@@ -13,6 +13,22 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/22/18/15/GettyImages-1244623129.jpg?trim=0,168,0,167&width=1200&height=800&crop=1200:800
+locations:
+- Dniester River
+- Europe
+- Middle East
+- Novodnistrovsk
+- Prut
+- Republic of Moldova
+- Romania
+- Ukraine
+people:
+- Gheorghe Hajder
+- Maia Sandu
+- Vasile Tofan
+organisations:
+- Ministry of Environment
+- National Security Council
 ---
 
 Lawmakers in Moldova voted Tuesday to impose a 60-day state of emergency on its energy and water sectors, citing declining water levels in the Dniester River and global conflicts driving up energy costs.

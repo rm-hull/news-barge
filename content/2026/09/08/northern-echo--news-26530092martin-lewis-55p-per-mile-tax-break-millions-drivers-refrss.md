@@ -16,6 +16,19 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- A1
+- Darlington
+- M
+- North East
+people:
+- Martin Lewis
+organisations:
+- BBC Radio 5
+- Government
+- HMRC
+- MoneySavingExpert
+- National Insurance
 ---
 
 *(Image: Getty Images)*

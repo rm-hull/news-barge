@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Foss Islands Road
+- Hope Street
+- Kevin Glenton
+- Margaret Street
+- Pavement
+- Peasholme Green
+- Piccadilly
+- St Denys Road
+- The Stonebow
+- Walmgate
+- York
+people: []
+organisations:
+- City of York Council
+- Walmgate
 ---
 
 *(Image: Kevin Glenton)*

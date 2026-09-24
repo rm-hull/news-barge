@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Iran
+- Israel
+- Jan-Fada
+- Oman
+- Strait of Hormuz
+- Tehran
+- Togo
+- U.S.
+- US
+people:
+- Benjamin Netanyahu
+- Donald) Trump
+- Hassan Hassanzadeh
+- Hossein Taeb
+- Marzieh Afaghi
+- Masoud Pezeshkian
+organisations:
+- Basij
+- Revolutionary Guard
+- Taeb
+- U.K. Maritime Trade Operations center
+- UKMTO
 ---
 
 Hundreds of thousands of Iranians took to the streets of Tehran on Friday in a massive government-organized display of defiance as they pledged their readiness to take up arms in the largest demonstration since the war began in February.

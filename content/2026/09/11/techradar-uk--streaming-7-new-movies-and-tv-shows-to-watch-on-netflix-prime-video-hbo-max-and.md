@@ -12,6 +12,47 @@ image: https://cdn.mos.cms.futurecdn.net/XZfYDQz4yUeGrmRTteBjKf-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Mare
+- New York
+people:
+- Andréa
+- Ashley
+- Camille Cottin
+- Colin
+- Esmeralda
+- Gordon
+- James Gunn
+- Jasmine Valentine
+- Kara Zor-El
+- Kelly Kapoor
+- Lucy Buglass
+- Maxine Peake
+- Milly Alcock
+- Ned
+- Nicole
+- Patrick Brammall
+- Peter Safran
+- Tom Power
+organisations:
+- ASK
+- Apple TV
+- Binge
+- DC Universe
+- DCU
+- Disney Plus
+- Google News
+- HBO Max
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Paramount
+- Peacock
+- Prime Video
+- Star Wars
+- TechRadar
 ---
 
 ![Kara Zor-El looking worried in Supergirl](https://cdn.mos.cms.futurecdn.net/XZfYDQz4yUeGrmRTteBjKf.jpg) 

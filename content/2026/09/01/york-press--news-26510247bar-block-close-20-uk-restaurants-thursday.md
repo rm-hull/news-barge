@@ -13,6 +13,41 @@ categories:
 - York
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- Aldgate
+- Bath
+- Belfast
+- Birmingham
+- Edinburgh
+- Exchange Square
+- Glasgow
+- Hammersmith
+- Ireland
+- Kings Cross
+- London
+- Milton Keynes
+- Newcastle
+- Nottingham
+- Paddington
+- Portsmouth
+- Southwark
+- Sutton
+- UK
+- Waterloo Street
+- Whiteley
+- Wimbledon
+people:
+- Dominic Paul
+organisations:
+- 261 Whitbread
+- Bar + Block
+- Beefeater
+- Brewers Fayre
+- Google Maps
+- Leamington Spa
+- Newsquest
+- Premier Inn
+- Queensway Inns
 ---
 
 *(Image: Google Maps)*

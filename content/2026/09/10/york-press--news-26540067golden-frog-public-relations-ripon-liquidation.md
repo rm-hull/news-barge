@@ -13,6 +13,21 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '**York'
+- Low Mill Road
+- North Yorkshire
+- Phoenix Business Park
+people:
+- Gary Lawson
+organisations:
+- FK Building Ltd of Harrogate
+- Golden Frog
+- Golden Frog Public Relations Ltd
+- HMRC
+- OCD Cleaning Services
+- Selby
+- XL Business Solutions of Cleckheaton
 ---
 
 *(Image: Gary Lawson)*

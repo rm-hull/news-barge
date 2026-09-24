@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Lilycroft Road
+- Manningham Mills
+- Patent Street
+- UGC
+people:
+- Peter Nias
+- Samuel Lister
+organisations: []
 ---
 
 *(Image: UGC)*

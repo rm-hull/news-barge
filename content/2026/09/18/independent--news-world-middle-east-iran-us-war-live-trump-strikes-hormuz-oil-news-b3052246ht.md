@@ -11,6 +11,74 @@ image: https://static.independent.co.uk/2026/09/18/05/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Aden
+- Bab el-Mandeb Strait
+- Bahrain
+- Beijing
+- Britain
+- China
+- France
+- Gaza City
+- Geneva
+- Germany
+- Gulf
+- Iran
+- Israel
+- Kuwait
+- Lamerd
+- Middle East
+- Minab
+- New York
+- Oman
+- Pakistan
+- Qatar
+- Red Sea
+- Riyadh
+- Russia
+- Saudi Arabia
+- Seoul
+- Somalia
+- South Korea
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- Washington
+- Yemen
+people:
+- '## Trump'
+- Abbas Araqchi
+- Babak Zanjani
+- Cho Hyun
+- Donald Trump
+- Jennifer Locetta
+- Marco Rubio
+- Tim Hawkins
+- Zaher al-Wahidi
+organisations:
+- Al Jazeera
+- Axios
+- BitBank
+- Centcom
+- Gaza Health Ministry
+- Hamas
+- Hormuz Safe Marine Services Authority
+- ICYMI A
+- Islamic Revolutionary Guard Corps
+- Lockheed Martin
+- Pratt & Whitney
+- Reuters
+- Security Council
+- Treasury
+- UKMTO A
+- UN General Assembly
+- UN Human Rights Council
+- US Air Force
+- US Central Command
+- US Navy
+- United Kingdom Maritime Trade Operations
+- United Nations Security Council
 ---
 
 Donald Trump has said he faces a “big decision” on how to proceed with the Iran war, in his first remarks since a UN report said two US strikes in February may have amounted to war crimes.

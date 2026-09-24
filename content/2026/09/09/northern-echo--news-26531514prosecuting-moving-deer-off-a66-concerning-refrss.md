@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A66
+- Barnard Castle
+- County Durham
+- Holmedale Benefice
+- Peterlee Magistrates' Court
+- Richmond
+- UK
+- Yorkshire Dales
+people:
+- Guy Carpenter
+organisations:
+- Durham Police
+- TaxPayers' Alliance
+- Wetheriggs Animal Sanctuary
 ---
 
 *“The process feels like it has been the punishment. It does not feel as if it is in the public interest.”*

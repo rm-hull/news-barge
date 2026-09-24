@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/gEvAresLKwVto6KR5tZRGo-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Costa Del Sol
+- Square Enix
+- Wutai
+people:
+- Barret
+- Barrett
+- Cid
+- James Pickard
+- Knight
+- Vincent
+- Yuffie
+organisations:
+- AI
+- Black Friday
+- Eurogamer
+- Google News
+- MAI
+- PS5
+- Red XIII
+- Square Enix
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![Screenshot from Final Fantasy 7 Revelation](https://cdn.mos.cms.futurecdn.net/gEvAresLKwVto6KR5tZRGo.jpg) 

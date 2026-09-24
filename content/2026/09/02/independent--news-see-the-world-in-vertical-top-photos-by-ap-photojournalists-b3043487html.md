@@ -11,6 +11,10 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations: []
+people: []
+organisations:
+- The Associated Press
 ---
 
 Aug. 26 - Sept. 1, 2026

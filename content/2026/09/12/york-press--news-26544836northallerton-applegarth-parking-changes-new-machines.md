@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Applegarth Short Stay Car Park
+- High Street
+- North Yorkshire
+- Northallerton Drivers
+- Northallerton One
+- Stuart Boulton
+- Upwell Road
+- York
+people: []
+organisations:
+- Applegarth
+- North Yorkshire Council
+- Northallerton Workers
+- The Northern Echo
 ---
 
 ## Drivers' concerns as ticketless parking machines installed in North Yorkshire town

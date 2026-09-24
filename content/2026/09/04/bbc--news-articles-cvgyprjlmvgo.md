@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Falmouth Community Fire Station
+- Macedonia
+people:
+- Emma Seager
+- Jon Walker
+- Sweetie
+organisations:
+- BBC Cornwall
+- Falmouth Community Firefighters
+- Sweetie
 ---
 
 ![A firefighter is climbing down a ladder holding an orangey brown coloured dog with two firefighters in high vis yellow tops on the ground.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/22a3/live/fa0a66a0-a6f5-11f1-97e2-55b9ef1865bd.jpg)

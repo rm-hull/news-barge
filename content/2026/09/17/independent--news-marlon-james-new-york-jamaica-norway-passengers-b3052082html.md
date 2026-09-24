@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Jamaica
+- Manhattan
+- Norway
+people:
+- Alexander Maksik
+- Camonghne Felix
+- Chanel Miller
+- Colin Asher
+- Dèy
+- Edwidge Danticat
+- Karl Ove Knausgaard
+- Kiss
+- Louise Erdrich
+- Marlon James'
+- Martin Aitken
+- Perri Klass
+- Ping Lu
+- Python
+- Richie Hofmann
+- Salman Rushdie
+- Valeria Luiselli
+- Victoria Chang
+organisations:
+- American Letters
+- American Literary Community
+- Layli Long Soldier
+- National Book Foundation
 ---
 
 Marlon James' “The Disappearers,” his deeply personal novel about the persecution and perseverance of gay men in Jamaica in the 1980s, is among the nominees on the long lists for the National Book Awards.

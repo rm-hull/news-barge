@@ -13,6 +13,20 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Luis Muñoz Marín International Airport
+- Puerto Rico
+- San Juan
+- US
+people: []
+organisations:
+- Amazon
+- FAA
+- Federal Aviation Administration
+- Miami International Airport
+- Miami-Dade Fire Rescue
+- Prime Air Flight 7598
 ---
 
 An Amazon cargo plane overran the runway at Miami International Airport on Sunday, hitting several vehicles and catching fire.

@@ -10,6 +10,21 @@ description: Jio is betting it can turn an aging computer into an AI-ready PC fo
 image: https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- India
+people:
+- Ambani
+- Bharath Shenoy
+- Jio
+- Prabhu Ram
+organisations:
+- CyberMedia Research
+- IDC
+- JioPC
+- Mukesh Ambani
+- Reliance Jio
+- Shenoy
+- TechCrunch
 ---
 
 Mukesh Ambani’s Reliance Jio is opening its cloud PC service to any internet user in India, positioning it as a way to turn aging computers into AI-ready machines without hardware upgrades.

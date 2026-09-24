@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Holywell Heights
+- Robey Street
+- Sheffield Magistrates' Court
+- Sheffield.
+- Wincobank
+people:
+- Andrea Skopova
+- Nina Horvathova
+- Peter Horvath
+- Tom Woodward
+organisations:
+- Baby S
+- Sheffield Crown Court
 ---
 
 ![Two police officers stand guard outside the entrance to a house. Visible in the photo is some police tape and a bouquet of flowers.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/de1b/live/b3bb1cd0-a61e-11f1-bb6f-e5db02d232fa.jpg)

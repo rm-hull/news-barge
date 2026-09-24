@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Manchester Road
+- Norway
+- Scotland
+- UK
+people:
+- Saima Khan
+- Sami
+organisations:
+- '## International'
+- T&A
+- Telegraph & Argus
 ---
 
 *(Image: Saima Khan)*

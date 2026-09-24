@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Barmpton Lane
+- Bishop Auckland
+- Darlington
+- Echo
+people:
+- Blairs
+- Christine Hanlon
+- Darlington
+- JJ Blair
+- Ms Hanlon
+- Robin Blair
+- SARAH CALDECOTT
+- Sons
+organisations:
+- Darlington Borough Council
+- Darlington Indoor Market
+- Darlington Market
+- Market Asset Management
+- Northern Echo
 ---
 
 A greengrocer who has spent three decades at one of Darlington Market’s best-known stalls says its closure will be a “huge loss” for the town, warning older shoppers will lose a vital place to buy fresh produce.

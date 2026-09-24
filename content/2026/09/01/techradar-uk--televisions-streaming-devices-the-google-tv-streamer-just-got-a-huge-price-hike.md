@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/LHTtPgpY5Rn5t6fyT5P9SR-2000-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- US
+people:
+- Carrie Marshall
+organisations:
+- Amazon
+- Apple TV
+- Fire TV
+- Google Nest
+- Google News
+- Google TV Streamer
+- Onn
+- Roku
+- Unquiet Mind
 ---
 
 ![The Google TV Streamer interface with two Google Home Speakers connected on either side](https://cdn.mos.cms.futurecdn.net/LHTtPgpY5Rn5t6fyT5P9SR.jpg) 

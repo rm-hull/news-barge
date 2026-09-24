@@ -12,6 +12,30 @@ image: https://images.euronews.com/articles/stories/09/90/46/90/1200x675_cmsv2_0
 categories:
 - Europe
 - News & Politics
+locations:
+- Devighat
+- Europe
+- France
+- Lisbon
+- Mexico City
+- Netherlands
+- Nivelle
+- Palestine
+- Saint Pee
+- The Hague
+- Trishuli river
+people:
+- Christophe Hansen
+- Kaja Kallas
+- Sarah Khalifa
+- Susan Sarandon
+organisations:
+- Amazon
+- Euronews
+- International Court of Justice
+- MIA
+- Miami International Airport
+- U.S. Immigration and Customs Enforcement
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

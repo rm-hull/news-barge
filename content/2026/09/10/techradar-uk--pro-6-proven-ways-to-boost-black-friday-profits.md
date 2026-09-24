@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/Yuq9Sga85QDNm8jWj8rAPU-1376-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Black
+people:
+- Owain Williams
+organisations:
+- Amazon
+- BA
+- BFCM
+- CRM
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![a woman selling luxurious candles from home](https://cdn.mos.cms.futurecdn.net/Yuq9Sga85QDNm8jWj8rAPU.jpg) 

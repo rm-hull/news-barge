@@ -11,6 +11,14 @@ description: We've tested dozens of e-ink tablets — here are our top picks for
 image: https://cdn.mos.cms.futurecdn.net/FMZdBEgeN5R32MKttbwgon-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- Google News
+- Kobo Libra Colour
+- Ruth
+- TechRadar
 ---
 
 ![Three different writing tablets, being tested](https://cdn.mos.cms.futurecdn.net/FMZdBEgeN5R32MKttbwgon.jpg) 

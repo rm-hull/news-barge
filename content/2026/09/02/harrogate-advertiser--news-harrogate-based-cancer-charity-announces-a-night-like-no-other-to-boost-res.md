@@ -13,6 +13,50 @@ categories:
 - Local
 - Harrogate
 - Science
+locations:
+- Castle Howard
+- Charlotte
+- Great Hall
+- Ilkley
+- Long Gallery
+- North East
+- UK
+- Yorkshire
+- Yorkshire.
+people:
+- Amy Hacker
+- Andrew Pern
+- Briony 'Bee
+- Briony Harford
+- Cancer
+- Castle Howard
+- Charlotte Lloyd-Webber
+- Hon Nicholas
+- Hon Nicholas Howard
+- Jane Nordli
+- Joe Rooke
+- Nick
+- Rosie Hepplewhite
+- Victoria Howard
+organisations:
+- '![Yorkshire Cancer Research'
+- '## Yorkshire Cancer Research'
+- AEH Advisory
+- Antiques Road Trip
+- Bonhams
+- Briony
+- CLW Event Design
+- Castle Howard
+- Event Designer
+- Harome
+- Howards
+- Join Yorkshire Cancer Research
+- Star Inn
+- The Travelling Auctioneers
+- Yorkshire Cancer Research
+- Yorkshire Cancer Research Gala Dinner
+- Yorkshire Cancer Research Ilkley Local Volunteer Group
+- Yorkshire Cancer Research Trustee
 ---
 
 # Harrogate-based cancer charity announces A Night Like No Other to boost research

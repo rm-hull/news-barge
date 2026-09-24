@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bernabeu
+- England
+- La Liga
+- Monaco
+- Paris
+- Spain
+people:
+- Harry Kane
+- Kylian Mbappe
+- Lamine Yamal
+- Rodri
+organisations:
+- Barcelona
+- Bayern Munich
+- France
+- Kylian Mbappe
+- La Liga
+- Ligue
+- Manchester City
+- PSG
+- Real Madrid
 ---
 
 ![Kylian Mbappe](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b5ea/live/f9220eb0-aab4-11f1-bdcc-b5edf6495ed5.jpg)

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483668.jpg?type=og-image
+locations:
+- Methodist Church
+- Otley Common
+- Walkergate
+people:
+- Freddie Ziegler
+- Otley
+organisations:
+- Otley Beer Festival
+- Otley Common
+- Otley RUFC
+- Otley Rugby Club
+- UGC
 ---
 
 *(Image: UGC)*

@@ -13,6 +13,21 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Yorkshire
+people:
+- Paul Evans
+organisations:
+- CCTV
+- Harrogate BID
+- Harrogate Bus Company
+- Harrogate Council
+- Harrogate ShopSafe Alert
+- Kel Pizzuti
+- Pub Watch
+- ShopSafe Alert
+- Transdev Head of Operations
 ---
 
 # Harrogate ShopSafe Alert app will boost businesses' efforts to stop anti-social behaviour

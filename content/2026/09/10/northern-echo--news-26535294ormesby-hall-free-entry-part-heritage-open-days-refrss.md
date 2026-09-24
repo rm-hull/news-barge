@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- Middlesbrough
+- Ormesby Hall
+- Park to Park Heritage Walk
+- Stewart Park
+people:
+- Leanne Allan
+- Pennyman
+organisations:
+- A66
+- Esme Mai
+- Middlesbrough
+- National Trust
+- Ormesby Hall
 ---
 
 *(Image: @National Trust Images/Esme Mai)*

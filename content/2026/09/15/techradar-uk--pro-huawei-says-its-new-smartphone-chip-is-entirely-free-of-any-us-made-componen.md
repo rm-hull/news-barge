@@ -9,6 +9,40 @@ description: Huawei declared its phones America-free in 2019
 image: https://cdn.mos.cms.futurecdn.net/NbsqfmYTY28UkRJGm9vRhj-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- Shanghai
+- US
+people:
+- John Suffolk
+- Rahim Amir
+- Richard Yu
+organisations:
+- AI
+- ASML
+- Applied Materials
+- Bloomberg
+- Da Vinci NPU
+- Fomalhaut Techno Solutions
+- Google News
+- He Tingbo
+- Huawei
+- IEEE ISCAS
+- Kirin
+- Lam Research
+- Maleoon GPU
+- PC
+- PCs
+- RGB
+- SFF
+- SMIC
+- SemiAnalysis
+- SoC
+- South China Morning Post
+- TSMC
+- TechRadar Pro
+- UBS
+- Wall Street Journal
 ---
 
 ![A slide announcing the Kirin 9050 Pro SoC](https://cdn.mos.cms.futurecdn.net/NbsqfmYTY28UkRJGm9vRhj.jpg) 

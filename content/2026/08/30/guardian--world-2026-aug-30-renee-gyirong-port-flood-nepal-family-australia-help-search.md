@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Travel
 - Family & Parenting
+locations:
+- Gyirong Port
+- Mt Kailash
+- Nepal
+- Sunshine Coast
+- Tibet-Nepal
+people:
+- Clair Spry
+- Emily Boyd
+- God
+- Lily
+- Michael Keats
+- Mike
+- Renee
+- Ruby
+- Shaun
+organisations:
+- GoFundMe
+- Instagram
 ---
 
 Clair Spry says her sister would hate the attention. She would want it focused on the Nepali people, who have been displaced or are in need of aid. She would want it to be on the impact of the climate crisis, especially on the world’s most economically vulnerable populations.

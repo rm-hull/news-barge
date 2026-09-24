@@ -14,6 +14,17 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Africa
+- Gobi
+- Mongolia
+- Ulaanbaatar
+people: []
+organisations:
+- Development Banks of Asia
+- Green
+- UN Convention to Combat Desertification
+- World Bank Group
 ---
 
 ## Member states of the UN Convention to Combat Desertification met in Ulaanbaatar to find solutions and funds for reversing the process of land degradation that already affects 40% of soil on the planet. It ended in the 1.3 billion dollar pledge for Green projects.

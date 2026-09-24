@@ -13,6 +13,25 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21481211.jpg?type=og-image
+locations:
+- Rural West York
+- Westfield ward
+- Wheldrake ward
+people:
+- Andrew Waller
+- Anne Hook
+- Christian Vassie
+- Cllr Hook
+- Cllr Kent
+- Cllr Waller
+- Dave Merrett
+- Jenny Kent
+- Richard Atkinson
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat
+- Neighbourhood Caretakers
 ---
 
 ## 'Inaction' on removing asbestos dumped in York village raised in fly-tipping call

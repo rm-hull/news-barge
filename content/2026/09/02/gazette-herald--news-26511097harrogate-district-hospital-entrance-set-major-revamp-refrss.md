@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate District Hospital
+- Ireland
+- YOUR
+people:
+- Jonathan Coulter
+- Jonathan Houlston
+organisations:
+- Café Bistro
+- Compass Group UK
+- Costa Coffee and M&S Food
+- District NHS Foundation Trust
+- Harrogate and District NHS Foundation Trust
+- Noviniti
+- One Retail
+- Public Notice Portal
+- WH Smiths
 ---
 
 ### What is the Public Notice Portal?

@@ -13,6 +13,23 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Ankara
+- Aydin
+- Istanbul
+- Izmir
+- Mersin
+- Turkey
+people:
+- Akin Gurlek
+- Tayyip Erdogan
+organisations:
+- Decade of Family and Population
+- Justice
+- Kaos GL
+- LGBTI
+- LGBTQ
+- Turkish Human Rights Association
 ---
 
 Authorities in Turkey have detained 26 people and searched the offices of six LGBTQ+ associations in a series of raids. prosecutors said.

@@ -12,6 +12,88 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Alamy Greater
+- Andrews
+- Australia
+- Coffs Harbour
+- Corindi
+- Gippsland
+- Hutton
+- Lorne
+- Malaysia
+- Mallorca
+- Massachusetts General Hospital
+- Melbourne
+- Mornington Peninsula
+- NSW
+- Nepal
+- New South Wales
+- Port Kembla
+- Port Phillip Bay
+- Queensland
+- Spain
+- Sydney
+- Thailand
+- Tibet
+- Tinder
+- Torquay
+- US
+- Victoria
+- Warriewood
+- Western Port Bay
+- Wilma
+- Yucatan
+people:
+- Adam Walton
+- Amr Alfiky
+- Angie Liaw
+- Brett Pointing
+- Cameron Bell
+- Chee Kit “Max” Chong
+- Dan Purdie
+- Daniel Billings
+- Danielle Connor
+- Darren England
+- David Crisafulli
+- James Todd
+- Kate Flock
+- Lukas Coch
+- Matt Canavan
+- Molly Ticehurst
+- Nick Kyrgios
+- Peter Cahill
+- Richard Bassed
+- Steve Gollschewski
+- Tanya Plibersek
+- Tara Moriarty
+- Tim Andrews
+- Wilma
+organisations:
+- AAP Prue Car
+- APM
+- Australian Education Union
+- Australia’s Bureau of Meteorology
+- Big Tech
+- Bureau of Meteorology
+- Centre for Policy Development
+- El Niño
+- Facebook
+- Guardian
+- Instagram
+- Kyrgios
+- Labor
+- Lukas Coch/AAP
+- Mallorca
+- Monash University
+- NSW
+- Nationals
+- One Nation
+- PA Kidney
+- Parliament House
+- QAS
+- Queensland Police Service
+- Reuters
 ---
 
 Big tech ‘making money’ from harming children, Plibersek says

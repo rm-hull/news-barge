@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Wales
+people:
+- Keir Starmer
+- Pip
+- Stephen Timms
+organisations:
+- DWP
+- Department for Work and Pensions
+- Labour
+- Pip
+- Scope
+- Timms
 ---
 
 ![Close up shot of a person looking at bills and receipts on a table next to a calculator in their kitchen. They are wearing a blue jumper and the kitchen sink is in the background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/1b5c/live/a4776670-b104-11f1-a451-6b1ff10ed362.jpg)

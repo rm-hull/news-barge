@@ -13,6 +13,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- UK
+people:
+- Daddy
+- Janaya Walker
+- Jess Asato
+- Nicky Baker
+organisations:
+- AI
+- ASA
+- Advertising Standards Agency
+- App Store
+- Apple
+- EVAW
+- Elon Musk
+- End Violence Against Women Coalition
+- Facebook
+- Instagram
+- Joint Committee on Human Rights
+- Labour
+- Meta
+- The Independent
+- Whatsapp
+- xAI
 ---
 
 The UK’s advertising watchdog has banned a series of adverts for “nudify” AI apps which appeared on Meta platforms over sex abuse concerns.

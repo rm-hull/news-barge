@@ -13,6 +13,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Boroughbridge
+- Harrogate
+- Knaresborough
+- Minskip
+- North Yorkshire
+- Ripon
+- Skipton
+people:
+- Ethan Anderson
+organisations:
+- North Yorkshire Police
+- Ripon
 ---
 
 # North Yorkshire Police launch appeal to help find wanted man who could be in Harrogate district

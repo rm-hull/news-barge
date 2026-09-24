@@ -11,6 +11,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Cotswolds Kitchen
+- Montpellier Terrace
+- Prue Leith
+people:
+- '"** Dame Prue Leith'
+- Dame Prue
+- Dame Prue Leith
+- Gyles Brandreth
+- Kathy Lette
+- Prue Leith
+organisations:
+- Bake Off
+- Cheltenham
+- Gloucestershire
+- Sunday Times Forum
+- The Times
 ---
 
 ![Dame Prue Leith smiles as she poses with her hand on her hip in front of a bright orange background. She is wearing very colourful glasses and a very colourful floral blouse, along with an oversized orange chain necklace. She has short grey hair.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1960/live/dce16010-a786-11f1-b2d5-535b3b3d379f.jpg)

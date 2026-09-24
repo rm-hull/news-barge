@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Cleveland
+- Hartlepool
+- Middlesbrough
+- New Darlington
+- Redcar
+- Stockton-on-Tees
+- Tees Valley
+- Teesside
+- UK
+people:
+- Ben Houchen
+- Ceinen Stark
+- Lisa Evans
+- Tom Banks
+organisations:
+- Alice House Hospice
+- Axiom Events
+- Hightech
+- Stockton-on-Tees Borough Council
+- TVCA
+- Tees Active
+- Tees Valley Combined Authority
+- Youth Guarantee Trailblazer
 ---
 
 Hundreds of young people across Tees Valley who are not in education, employment or training are being offered a fresh opportunity to get their careers back on track as a successful support programme returns for a second year.

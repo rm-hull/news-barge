@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Ali Raffat
+- Steve Draper
+- Zoe Hands
+organisations:
+- Arriva
+- First Bus
+- First Bus Franchising
+- Go-Ahead
+- M&A
 ---
 
 TWO new directors have joined First Bus as it expands its presence in the UK’s growing franchised bus market.

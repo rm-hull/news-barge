@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Africa
+- Amazon
+- Asia
+- Belem
+- Brazil
+- Bukavu
+- Cauca
+- Colombia
+- Democratic Republic of Congo
+- Ecuador
+- France
+- Guatemala
+- Honduras
+- India
+- Indonesia
+- Latin America
+- Mato Grosso
+- Mexico
+- Nicaragua
+- Pacific
+- Para
+- Peru
+- Philippines
+- Rondonia
+- Sul
+- Tanzania
+- Turkey
+people:
+- Astrid Torres
+- Fiston Wilondja Mazambi
+- Segundo Ispón
+- Vicente Fernandes Vilhalva
+organisations:
+- AP
+- Associated Press’
+- Global Witness
+- Guarani Kaiowa Indigenous
+- Indigenous Guard
+- Kakataibo Indigenous Guard
+- M23
+- Ministry of Indigenous Peoples
+- Somos Defensores
+- The Associated Press
 ---
 
 At least 124 land and environmental defenders were killed around the world last year, with Latin America accounting for 85% of the deaths as conflicts over land and natural resources continued to put Indigenous people and small-scale farmers at risk, according to a report released Wednesday.

@@ -13,6 +13,35 @@ categories:
 - UK
 - Video Gaming
 - Sports
+locations:
+- Afghanistan
+- Bangladesh
+- China
+- Costa Serena
+- Hangzhou
+- Hong Kong
+- India
+- Indonesia
+- Jakarta
+- Japan
+- Nagoya
+- New Delhi
+- North Korea
+- Osaka
+- Pacific
+- Paris
+- Singapore
+- South Korea
+- Taiwan
+- Tokyo
+- Uzbekistan
+- Yemen
+people:
+- Imroze Ahmed
+- Yu Zidi
+organisations:
+- Nagoya
+- Olympic Council of Asia
 ---
 
 The Asian Games open Saturday in Nagoya, Japan, and are often identified as the second most important multisports event after the Summer Olympic Games.

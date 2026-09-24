@@ -15,6 +15,13 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Iran
+people:
+- Donald Trump
+organisations:
+- FactSet
+- Labor Department
 ---
 
 The number of people applying for unemployment benefits dropped sharply last week, another sign that layoffs remain rare and most Americans enjoy job security.

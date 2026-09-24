@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- California
+- Louisiana
+- New Orleans
+- US
+- United Kingdom
+- White House
+people:
+- Donald Trump
+- Kanye West
+- Milo Yiannopoulos
+- Piers Morgan
+- Ye
+organisations:
+- Breitbart News
+- DHS
+- Department of Homeland Security
+- Guardian
+- ICE
+- Immigration and Customs Enforcement
+- Piers Morgan
+- Piers Morgan Uncensored
 ---
 
 Milo Yiannopoulos, the British far-right commentator who was arrested last week by Immigration and Customs Enforcement (ICE) officers in Louisiana and deported to the United Kingdom, has broken his silence about the experience, saying that “for the first time I know what it feels like to be really, really terrified”.

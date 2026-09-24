@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Grattan
+- Ingleby Road
+- Outer Ring Road
+- Westfield House
+- YOUR
+people:
+- Anwar Bashir
+organisations:
+- Bradford Council
+- Bradford Planning Panel
+- Chacha Plaza
+- Chacha’s Plaza
+- Local Planning Authority
+- Public Notice Portal
 ---
 
 *(Image: T&A)*

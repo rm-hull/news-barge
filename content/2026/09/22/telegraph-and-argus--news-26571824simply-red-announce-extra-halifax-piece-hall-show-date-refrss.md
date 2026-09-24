@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466293.jpg?type=og-image&yType=136
+locations:
+- Britain
+- Europe
+- Latin America
+- North America
+- UK
+people:
+- Alfie Boe
+- Jack Savoretti
+- James Morrison
+- Mick Hucknall
+- Ronan Keating
+organisations:
+- Cuffe & Taylor
+- Kaiser Chiefs
+- Piece Hall
+- Simply Red
+- Soul II Soul
+- Stars
+- The Piece Hall
+- Ticketmaster
 ---
 
 *(Image: Press Release)*

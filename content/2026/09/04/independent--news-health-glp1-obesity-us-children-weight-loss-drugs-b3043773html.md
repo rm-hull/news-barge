@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- U.S.
+people:
+- Allan Massie
+- Babak Orandi
+- Rachel Pessah-Pollack
+organisations:
+- CBS Mornings
+- FDA
+- NYU Grossman School of Medicine
+- NYU Langone
+- NYU Langone Health
+- Novo Nordisk’s Saxenda
+- U.S. Food and Drug Administration
+- University of Minnesota
 ---
 
 American kids under-12 are now taking GLP-1 drugs to fight obesity at 300 times the rate of seven years ago, according to major new study released today.

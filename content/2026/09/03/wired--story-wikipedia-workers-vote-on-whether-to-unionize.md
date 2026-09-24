@@ -13,6 +13,30 @@ categories:
 - Science
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Chile
+- France
+- UK
+- US
+people:
+- Aly Marino
+- Bernadette Meehan
+- Biden
+- Lauren de Lench
+- Littler Mendelson
+- Nico Aramayo
+- de Lench
+organisations:
+- '## Growing Pains Wikimedia'
+- AI
+- AI—
+- CWA
+- Commons
+- Communications Workers of America
+- US National Labor Relations Board
+- WIRED
+- Wikimedia Foundation
+- Wikipedia
 ---
 
 More than 200 staffers at the Wikimedia Foundation, the nonprofit behind the encyclopedia Wikipedia, have voted 158-14 to join the Communications Workers of America labor union. The US National Labor Relations Board counted ballots on Thursday.

@@ -13,6 +13,31 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Amsterdam
+- Barcelona
+- Edinburgh
+- Europe
+- France
+- Germany
+- Harrogate
+- Italy
+- Manchester
+- North Yorkshire
+- Paris
+- Spain
+- UK
+- York
+people:
+- David Skaith
+- Martin Mann
+organisations:
+- Airbnb
+- Harrogate BID
+- Harrogate District Chamber of Commerce
+- North Yorkshire
+- Visitors Levy
+- York
 ---
 
 # 'Real concern' in Harrogate's hospitality sector over plans for new tourist tax in North Yorkshire

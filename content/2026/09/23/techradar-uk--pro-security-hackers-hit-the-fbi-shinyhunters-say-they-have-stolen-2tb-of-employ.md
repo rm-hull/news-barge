@@ -10,6 +10,39 @@ description: ShinyHunters are looking to improve their standing in the public ey
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/Ri2dNNTvgmKGsMuhNDCavZ-2560-80.jpg
+locations:
+- Bosnia and Herzegovina
+- GovCloud
+- Harvard
+- Sarajevo
+people:
+- Denis Calderone
+- Sead
+- ShinyHunters
+organisations:
+- AWS
+- Al Jazeera Balkans
+- Bureau
+- CTO
+- Criminal Justice Information Services
+- FBI
+- Google News
+- Instructure
+- MIT
+- MedLink
+- Oracle PeopleSoft
+- Oxford
+- PSA
+- Represent Communications
+- SH
+- SSH
+- ShinyHunters
+- ShinyHunters’
+- Suzu Labs
+- TechRadar Pro
+- The Register
+- Tor
+- US House Committee on Homeland Security
 ---
 
 ![Dark web monitoring](https://cdn.mos.cms.futurecdn.net/Ri2dNNTvgmKGsMuhNDCavZ.jpg)

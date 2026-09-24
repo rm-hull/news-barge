@@ -11,6 +11,38 @@ image: https://i.guim.co.uk/img/media/ff725ec7f61e438e050626297ee2b37008c2f8e9/8
 categories:
 - UK
 - News & Politics
+locations:
+- Beaches-East York
+- British Columbia
+- Canada
+- Chicoutimi-Le Fjord
+- Europe
+- Lake America
+- Lake Ontario
+- North Vancouver-Capilano
+- Quebec
+- Toronto
+- US
+- US-Canada
+- United States
+- White House
+people:
+- Braeden Caley
+- Daniel Béland
+- Daniel Gobeil
+- Donald Trump
+- Hedy Fry
+- Mark Carney
+- Pierre Poilievre
+- Scott Bessent
+organisations:
+- CBC
+- Canadian Press
+- House of Commons
+- Liberal
+- McGill University
+- Trump
+- US Treasury
 ---
 
 Canada’s ruling Liberal party has swept three special elections, a result that showed voters backing the prime minister, Mark Carney, after his face-off with Donald Trump.

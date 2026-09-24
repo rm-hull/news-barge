@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- '#### Alness Drive'
+- Acomb Wood Drive
+- Alness Drive
+- Moor Lane
+- Woodthorpe
+- York
+people: []
+organisations:
+- City of York Council
 ---
 
 Concerns about speeding in a residential York street have prompted plans to tackle the issue.

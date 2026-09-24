@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Asia
+- China
+- Hangzhou
+- Nagoya
+- Paris
+people:
+- Ichiro Hirosawa
+organisations: []
 ---
 
 Athletes who've arrived early for the Asian Games were unharmed by extensive flooding that hit the central Japanese city of Nagoya, Mayor Ichiro Hirosawa said Wednesday.

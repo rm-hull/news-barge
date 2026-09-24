@@ -10,6 +10,33 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?r
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Slack
+people:
+- Claude
+- Deepti Pradeep
+- Slackbot
+organisations:
+- AI chatbot
+- Acrobat
+- Adobe Express
+- Agentic AI
+- Anthropic
+- Canva
+- ChatGPT
+- Creative Cloud
+- Figma
+- Firefly
+- Gemini
+- InDesign
+- Lightroom
+- MCP
+- Photoshop
+- Premiere
+- Slack Business
+- Slackbot
+- Stock
+- TechCrunch
 ---
 
 Customers can now use Adobe’s apps like Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock, Lightroom, and others directly with Slack’s AI chatbot, Slackbot, Adobe announced on Monday. In addition, more than 70 Adobe tools will become available in Slack through the Adobe for Slack MCP app.

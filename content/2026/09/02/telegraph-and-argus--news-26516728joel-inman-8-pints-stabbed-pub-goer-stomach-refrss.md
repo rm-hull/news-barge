@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Cavendish Hotel
+- Cavendish Street
+- Keighley
+people:
+- '## Stomach'
+- Ahmed Nadim
+- Joel Inman
+- Miss Barker
+- Stephen Uttley
+- Victoria Barker
+organisations:
+- A&E
+- Bradford Crown Court
+- Parole Board
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

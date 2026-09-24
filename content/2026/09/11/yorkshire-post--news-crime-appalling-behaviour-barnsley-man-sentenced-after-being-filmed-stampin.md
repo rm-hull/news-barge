@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Barnsley Magistrates Court
+- Cawthorne Woods
+- Greenside Avenue
+- South Yorkshire
+- Staincross
+people:
+- Keith Hogben
+- Mallard
+- Owen Raynor
+organisations:
+- Barnsley
+- RSPCA
+- Snapchat
 ---
 
 # ‘Appalling behaviour’: Barnsley man sentenced after being filmed stamping on ducks

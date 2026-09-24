@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Bridlington
+- Coastliner
+- Filey
+- National Rail
+- Scarborough
+- York
+people: []
+organisations:
+- National Rail
+- Northern and TransPennine Express
+- Scarborough
+- TransPennine**
+- York Pullman
 ---
 
 The line between York and Scarborough is blocked this afternoon (Monday).

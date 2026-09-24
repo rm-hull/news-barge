@@ -12,6 +12,18 @@ image: https://static.the-independent.com/2026/09/12/21/53/Screenshot-2026-09-12
 categories:
 - News & Politics
 - UK
+locations:
+- Cuba
+- Doral
+- Miami
+- Miami-Dade County
+- Turner Guilford Knight Correctional Center
+people:
+- Cesar Valdes
+- Magdaleno Medina
+organisations:
+- Smith & Wesson
+- The Miami Herald
 ---
 
 A Miami drug bust at a house filled with cocaine, marijuana, and guns ended with two senior citizens facing charges for drug dealing.

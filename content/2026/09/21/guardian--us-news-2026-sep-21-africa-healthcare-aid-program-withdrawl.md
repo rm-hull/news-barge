@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://i.guim.co.uk/img/media/63ea0238588856f02ee6eb9c01d9cff32fba4bec/234_0_6828_5464/master/6828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=adfb7518bb3930260e624b6220426818
+locations:
+- Brazil
+- Ghana
+- Global South
+- Nigeria
+- South Africa
+- US
+people:
+- Donald Trump
+- John Dramani Mahama
+- Naveen Rao
+organisations:
+- Accra Reset
+- Department of Health and Human Services
+- Global South
+- Guardian
+- HHS
+- Rockefeller Foundation
+- Sovereign Health Agenda
+- Trump
+- US Agency for International Development
+- US Emergency Plan for Aids Relief
+- USAID
+- United States’
+- World Health Assembly
 ---
 
 The United States’ withdrawal from key aid programs has put has put healthcare in Africa and the Global South “under growing strain” a new report warns.

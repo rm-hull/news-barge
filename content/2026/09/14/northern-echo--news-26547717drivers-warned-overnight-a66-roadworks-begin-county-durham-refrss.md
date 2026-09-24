@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Barnard Castle
+- County Durham
+- Rokeby
+- Smallways
+people: []
+organisations:
+- A66
+- National Highways
+- PA MEDIA
 ---
 
 *(Image: PA MEDIA)*

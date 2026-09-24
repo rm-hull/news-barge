@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- NORTHERN ECHO
+- Newcastle
+- Teesside
+- UGC
+people:
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+organisations:
+- NORTHERN ECHO
+- RVI
+- STUART BOULTON & SOCIAL MEDIA
 ---
 
 *(Image: STUART BOULTON & SOCIAL MEDIA)*

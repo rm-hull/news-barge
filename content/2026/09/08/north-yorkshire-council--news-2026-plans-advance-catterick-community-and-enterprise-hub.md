@@ -15,6 +15,24 @@ categories:
 - Harrogate
 - Government
 - Business & Entrepreneurship
+locations:
+- Catterick Garrison
+- Coronation Park
+people:
+- Cllr Crane
+- Mark Crane
+organisations:
+- Army
+- Catterick Community and Enterprise Hub
+- Community and Enterprise Building
+- DIO
+- Defence Infrastructure Organisation
+- Government
+- HIVE
+- Levelling Up Fund
+- Local Regeneration Fund
+- Ministry of Defence
+- MoD
 ---
 
 ![Catterick Community and Enterprise Hub](https://www.northyorks.gov.uk/sites/default/files/2026-09/2CattRegen.jpg) 

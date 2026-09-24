@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Fountayne Street
+- Haxby Road
+- Walpole Street
+- York
+people: []
+organisations:
+- Yorkshire Water
 ---
 
 Roadworks are continuing on Haxby Road in York this morning (Tuesday).

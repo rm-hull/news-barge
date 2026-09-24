@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Athens
+- Attica Zoological Park
+- Europe
+- Greece
+- Spata
+- Sumatra
+- Sweden
+people:
+- Argos
+- Arsenoi Psaroudaki
+- Theodora Tongas
+- Theodoros Babilis
+- Toba
+organisations:
+- United Nations
 ---
 
 The world’s most endangered tigers have started a family in Greece, offering hope for a predator that is rapidly vanishing from the wild.

@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Groves
+- Park Grove
+- York
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

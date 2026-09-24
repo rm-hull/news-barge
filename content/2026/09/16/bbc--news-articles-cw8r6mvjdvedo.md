@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Japan
+- Mount Fuji
+- Saitama
+- Shizuoka
+- Yamanashi
+people:
+- Kotaro Nagasaki
+organisations:
+- Mount Fuji
+- Yamanashi
 ---
 
 ![The snow-capped summit of Mount Fuji in Japan with the head of a man in the foreground](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1676/live/f786d6b0-b182-11f1-aa3a-41a86a30db69.jpg)

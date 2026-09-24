@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bordeaux
+- Burgundy
+- Burgundy-Beaujolais
+- Champagne
+- France
+- Jura
+- Languedoc-Roussillon
+- Savoie
+- US
+people:
+- Cécile Mathiaud
+- Donald Trump
+organisations:
+- Agreste
 ---
 
 French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry.

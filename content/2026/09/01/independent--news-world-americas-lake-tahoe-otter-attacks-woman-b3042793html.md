@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Hidden Beach
+- Lake Tahoe
+- Nevada
+- Pyramid Lake
+- Reno
+- Truckee River
+people:
+- Kenzie Marigott
+- Lynnette Bellin
+organisations:
+- KCRA
+- Nevada Department of Wildlife
 ---
 
 A Nevada woman needed 38 stitches after being attacked by an otter while swimming in Lake Tahoe — with the vicious assault so intense it felt like her attacker “was a human.”

@@ -14,6 +14,40 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Asia
+- Barrow Station
+- Coppernob
+- Edwardian Britain
+- Europe
+- Furness Railway
+- Great Hall
+- Japan
+- North Shed
+- Osaka
+- Queen Adelaide
+- Shinkansen Bullet Train
+- Surbiton
+- Tokyo
+- Vauxhall
+- York
+people:
+- Andrew McLean
+- Anthony Coulls
+- George Parker
+- King
+- Rob Scargill
+- William Pearson
+organisations:
+- British Railways
+- Coppernob
+- Evening Star
+- NRM credit Science Museum Group
+- National Collection
+- National Railway Museum
+- Science Museum Group
+- Shinkansen
+- York National Railway Museum
 ---
 
 *York National Railway Museum launches adopt-an-object scheme*

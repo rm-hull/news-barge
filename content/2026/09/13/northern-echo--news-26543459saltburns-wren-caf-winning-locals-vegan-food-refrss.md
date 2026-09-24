@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Coast to Coast
+- Earthbeat Centre
+- East Cleveland
+- Iconic coastal Yorkshire
+- Marske Mill Lane
+- North Yorkshire
+- Saltburn
+- The Earthbeat Centre
+- The Wren
+people:
+- Wren
+organisations:
+- Saltburn School
+- The Wren
+- Wren Cafe
+- Wren Cafe & Bakehouse
+- Wren Café & Bakehouse
 ---
 
 A small café in a former school building on the edge of Saltburn is winning over locals.

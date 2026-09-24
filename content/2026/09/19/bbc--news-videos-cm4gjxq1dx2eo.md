@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/623e/live/bb9fcf60-b41d-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Cape Town
+- Centurion
+- Johannesburg
+- Kempton Park
+- South Africa
+people:
+- Elizabeth Moselakgomo
+- Nonhle Mpohlo
+organisations: []
 ---
 
 # 'Enough is enough': Women protest after string of murders near Johannesburg

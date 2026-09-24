@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Athens
+- Cyprus
+- Greece
+- Isin*,*
+- Kyrenia
+- Kyrenia.
+- Taşucu
+- Turkey
+people:
+- Ayten Biçer
+- Hayri Biçer
+- Stelios Haji-Ioannou
+- Tufan Erhürman
+- Ünal Üstel
+organisations:
+- Filo Jet
+- Guardian
+- TCG Isin
+- easyJet
 ---
 
 A deep-sea search and rescue vessel is on its way to Cyprus as Turkey joins efforts to retrieve the 20 people still missing after a passenger ferry capsized off the island’s northern coast.

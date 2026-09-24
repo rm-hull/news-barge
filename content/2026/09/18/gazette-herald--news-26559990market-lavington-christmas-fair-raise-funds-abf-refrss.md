@@ -14,6 +14,12 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- ABF
+- Army Benevolent Fund
+- Lavington Community Hall
 ---
 
 *(Image: Getty Images/iStockphoto)*

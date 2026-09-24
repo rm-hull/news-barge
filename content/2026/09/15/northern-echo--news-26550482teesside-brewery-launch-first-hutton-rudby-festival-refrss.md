@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Hutton Rudby
+- Hutton Rudby Village Hall
+- North East
+- Stockton
+- Teesside
+people:
+- Beth Wright
+- Brothers
+organisations:
+- Brothers Brewing Co.
+- Brothers Brewing Company
+- Darlington Market
+- Durham
+- Georgian Theatre
+- Glastonbeery
+- Great North Air Ambulance Service
+- Hutton Rudby
+- Three Brothers Brewing Company
 ---
 
 A Teesside brewery known for charity beer festivals is heading to a new location this autumn to raise money for a lifesaving North East cause.

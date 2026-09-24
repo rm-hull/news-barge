@@ -14,6 +14,16 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Lichtenberg
+- M17
+- M5
+- M6
+- Marzahn-Hellersdorf
+- S-Bahn
+people: []
+organisations: []
 ---
 
 © dpa

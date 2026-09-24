@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Africa
+- Leeds
+- Norfolk
+- Saham Toney
+people:
+- Christian Williams
+- Mohamed Mahdi
+- Nicole Jeffery
+organisations:
+- BOTB Pass
+- Mercedes
 ---
 
 *(Image: Supplied)*

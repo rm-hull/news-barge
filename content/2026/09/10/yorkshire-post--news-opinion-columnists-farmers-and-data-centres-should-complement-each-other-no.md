@@ -15,6 +15,19 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- America
+- Britain
+- Havering
+- Kent
+- Leeds
+- UK
+people:
+- Ben Pluke
+organisations:
+- National Infrastructure’
+- Raft Energy
+- Raft Energy.
 ---
 
 # Farmers and data centres should complement each other, not compete for resources - Ben Pluke

@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Science
 - Personal Finance & Investing
+locations:
+- Alaska
+- Chicago
+- Hawaii
+- Puerto Rico
+people: []
+organisations:
+- ABT Discounts ABT
+- ABT Electronics
+- Asus
+- Canon
+- HP
+- Hisense
+- KitchenAid
+- LG
+- Roku
+- Samsung TVs
+- Sony
+- WIRED
 ---
 
 ABT Electronics is known for selling electronics like Canon cameras, Sony headphones, and Samsung TVs. It’s in the name, after all. But in addition to electronics, the giant retailer also offers furniture, mattresses, exercise equipment, appliances, and more. With only a single location—a warehouse in the suburbs of Chicago—it might not be feasible to shop in-store. Luckily, you can check out the massive selection online and save some cash with an ABT promo code or ABT coupon.

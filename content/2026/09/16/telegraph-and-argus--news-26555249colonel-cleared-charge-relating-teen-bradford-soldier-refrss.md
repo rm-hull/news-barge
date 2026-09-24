@@ -15,6 +15,33 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - True Crime
+locations:
+- Bradford
+- Catterick Garrison
+- Chichester Harbour
+- Gunner Beck
+- North Yorkshire
+- Royal Artillery
+- Thorney Island
+people:
+- Bierley
+- Col Shepherd
+- Drew Tudor
+- Edward Legard
+- Gunner Beck
+- Gunner Jaysley Beck
+- James Hook
+- Mae King
+- Maj Hook
+- Michael Webber
+- Paul Patterson
+- Samantha Shepherd
+organisations:
+- Air Commodore
+- Army
+- Crown
+- Military Court Centre
+- Royal Navy
 ---
 
 A senior Army officer has been cleared by a court martial of failing to deal properly with allegations made by a teenage Bradford soldier who took her own life five months later.

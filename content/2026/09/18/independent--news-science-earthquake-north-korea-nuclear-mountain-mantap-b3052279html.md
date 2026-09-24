@@ -14,6 +14,22 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- China
+- Civilian Control Zone
+- Demilitarized Zone
+- Imjingak park
+- Mount Mantap
+- North Korea
+- Paju Imjingak Peace Gondola
+- Pyongyang
+- South Korea
+people: []
+organisations:
+- ALOS-2
+- DMZ
+- Mantap
+- US Geological Survey
 ---
 
 Scientists have observed a strange increase in seismic activity at North Korea’s Mount Mantap, where Pyongyang conducted underground nuclear tests between 2006 and 2017.

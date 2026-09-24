@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- Boleyn Ground
+- Bolton
+- Bowen
+- London Stadium
+- Newcastle
+- Norway
+- Wales
+- West Ham
+people:
+- '** Skipper'
+- Amanda Staveley
+- Arne Engels
+- Crysencio Summerville
+- Daniel Kretinsky
+- David Moyes
+- David Sullivan
+- Edvin Austbo
+- Jarrod Bowen
+- Karim Virani
+- Karren Brady
+- Mateus Fernandes
+- Nils Koppen
+- Nuno
+- Scot
+- Simon Lane
+- Terry Brown
+- Tripp Smith
+- Vanessa Gold
+organisations:
+- BBC Panorama and Times
+- Celtic
+- EFL
+- Hammers
+- Newcastle
+- Portsmouth
+- Royal Mail
+- Viking
+- Watford
+- West Ham
 ---
 
 ![West Ham captain Jarrod Bowen](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/54c2/live/4c0f5910-abc4-11f1-b109-879e35c24276.jpg)

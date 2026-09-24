@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Former York
+people:
+- Cllr Andrew Hollyer
+- Cllr Hollyer
+- Cllr Kilbane
+- Frank Dwyer
+- Jenny Layfield
+- Ms Layfield
+- Pete Kilbane
+organisations:
+- City of York Council
+- Explore York
+- Labour
+- Liberal
 ---
 
 CUTS worth £600,000 to the contract to run York’s libraries have been shelved.

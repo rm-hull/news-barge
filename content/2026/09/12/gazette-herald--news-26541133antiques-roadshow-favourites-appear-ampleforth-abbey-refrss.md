@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Ampleforth Abbey
+- North Yorkshire
+people:
+- Brett Payne
+- Ms Rumfitt
+- Sarah Leighton
+- Steven Moore
+- Susan Rumfitt
+organisations:
+- Acquire Ampleforth
+- BBC
 ---
 
 Antiques Roadshow favourites will be sharing their expertise in a series of talks in North Yorkshire next weekend.

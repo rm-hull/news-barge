@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479538.jpg?type=og-image
+locations:
+- Baildon
+- Beckett Park
+- Blackpool
+- Bradford
+- Keighley
+- Nessfield
+people:
+- Alexander
+- Caspar
+- Eliza
+- Elsie
+- Hannah
+- Karen Jones
+- Les Hall
+- Nico
+- Norma Hall
+- Philip Jones
+- Rupert
+- Sebastian
+- Tristan
+organisations:
+- Baildon C of E
+- Eldwick First School
+- Harlow Carr
+- MBE
+- Northern Horticultural Society
+- RHS
+- West Lane Secondary School
 ---
 
 *(Image: Karen Jones)*

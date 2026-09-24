@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- China
+- Scunthorpe
+- UK
+people:
+- Clive Betts
+- Jingye
+- Jonathan Reynolds
+organisations:
+- British Steel
+- Department for Business and Trade
+- Labour
+- Yorkshire-based Speciality Steel UK
 ---
 
 Labour has been urged to lay out a credible plan for the future of British Steel, as the government spending watchdog warned of the “startling” costs of keeping the struggling manufacturer in business with no end in sight.

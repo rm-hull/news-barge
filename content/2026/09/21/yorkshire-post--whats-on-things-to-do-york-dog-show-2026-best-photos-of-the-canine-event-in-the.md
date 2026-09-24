@@ -14,6 +14,13 @@ categories:
 - York
 - Comedy & Entertainment
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ0NzUyM2E4LWJlYmUtNGFkZC04N2UzLTZhOTcxMzk5ZGIwZTo5NmM0OTY0Ni03YzAxLTQ0Y2QtYjU5NC00ZmYzYjJmZDFiMWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations: []
+people:
+- Amanda Owen
+organisations:
+- Fanciest Female
+- Handsomest Dog
+- York Museum Gardens
 ---
 
 York Museum Gardens hosted the biggest dog show in the city on September 20, 2026, with Amanda Owen as a judge.

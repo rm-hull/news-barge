@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Downing Street
+- NHS
+- UK
+people:
+- Andy Burnham
+- Brian Langstaff
+- Glenn Wilkinson
+organisations:
+- Contaminated Blood Campaign
+- Government
+- Hepatitis C Trust
+- IBCA
+- Infected Blood Compensation Authority
+- Infected Blood Inquiry
 ---
 
 Infected blood scandal victims are urging the Prime Minister to "resolve injustices" within the compensation scheme.

@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- A York
+- Las Iguanas
+- Las Iguanas’ York
+- London
+- Swinegate
+- UK
+- York Outer Ring Road
+people:
+- Justice Meade
+- Maxine Gordon
+- Ryan Perkins
+organisations:
+- Banana Tree
+- Bella Italia
+- Big Table
+- Frankie & Benny’s
+- High Court
+- Iguanas Holdings
+- Iguanas Holdings Limited
+- Iguanas Holdings'
+- La Tasca
+- Las Iguanas
+- Newsquest
+- Press
+- The Big Table Group
 ---
 
 *(Image: Newsquest)*

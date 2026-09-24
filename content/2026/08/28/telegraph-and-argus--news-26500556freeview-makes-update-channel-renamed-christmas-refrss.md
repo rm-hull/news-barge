@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Film & TV
 - Technology & Software
+locations: []
+people: []
+organisations:
+- 20th Century MCR
+- Freeview
+- ITV
+- Sky
+- iStockphoto
 ---
 
 *(Image: Getty Images/iStockphoto)*

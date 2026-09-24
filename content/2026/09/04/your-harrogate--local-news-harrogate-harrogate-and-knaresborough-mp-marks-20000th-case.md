@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Harrogate
+- Knaresborough
+people:
+- Chris Howden
+- Tom Gordon
+organisations:
+- DVLA
+- Department for Work and Pensions
+- Harrogate
+- Knaresborough
+- NHS
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9ab5ee3ece03b72d7.jpg) 

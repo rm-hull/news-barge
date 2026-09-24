@@ -12,6 +12,17 @@ categories:
 - York
 - Travel
 - Automotive
+locations:
+- '#### Crash'
+- A171 Whitby
+- Helwath Beck
+- North Yorkshire
+- Scarborough
+people:
+- Sadly
+organisations:
+- North Yorkshire Police
+- Volvo
 ---
 
 A man has died in a crash on a road near the North Yorkshire coast.

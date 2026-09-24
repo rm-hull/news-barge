@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- Parliament Street
+- York
+people:
+- David Skaith
+organisations:
+- Labour
+- North Yorks
+- The Press
+- York Liberal Democrats
+- York St John University
 ---
 
 *(Image: Supplied)*

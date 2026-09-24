@@ -12,6 +12,21 @@ image: https://i.guim.co.uk/img/media/23e0642a95fa00b2db1c1086e56a5c793e0ff2b0/5
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Melbourne
+- Sydney
+people:
+- Alan Gamlen
+- Bran Black
+- Tony Burke
+organisations:
+- ANU
+- Business Council
+- Coalition
+- Labor
+- National Press Club
+- One Nation
 ---
 
 Tony Burke has promised to make Labor’s existing migration policy work better rather than announcing a dramatic cut in numbers, arguing that populist promises to slash net overseas migration will “trash Australian services and trash the Australian economy”.

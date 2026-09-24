@@ -9,6 +9,17 @@ description: A handy overview of DJI's excellent microphone lineup
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/BmV3KftjAX6E6WeDsJeK83-2560-80.jpg
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- DJI
+- Google News
+- Mic 2
+- Mic 3
+- Mic Mini
+- Ruth
+- TechRadar
 ---
 
 ![DJI Mics ](https://cdn.mos.cms.futurecdn.net/BmV3KftjAX6E6WeDsJeK83.jpg)

@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Lakeview
+- Michigan
+people:
+- Andy Amsdill
+- Bryan Shishakly
+- Karl D Paulson
+organisations:
+- CBS News
+- US National Institutes of Health
+- WXYZ Detroit
 ---
 
 A Michigan high school is facing scrutiny after parents raised concerns over a gym class policy requiring female students to disclose information about their menstrual cycles if they want to make up swimming days missed because of their periods.

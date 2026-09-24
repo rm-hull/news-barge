@@ -15,6 +15,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/23/2296442686..?width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- TikTok
+- Washington, D.C.
+- West Palm Beach
+- White House
+people:
+- Alex Bruesewitz
+- Anna DiCenzo
+- Anna Weisheimer
+- Derek Utley
+- Donald Trump
+- Michael Seifert
+organisations:
+- Florida-based X Strategies
+- Politico
+- Team Trump
+- The Independent
+- Tower Strategies
+- Trump War Room
+- U.S. District Court
+- Utley
+- West Palm Beach
+- X Strategies
 ---
 
 A company that runs some of President Donald Trump's social media accounts is suing its co-founder for allegedly embezzling at least $5 million — including at least $3 million he's accused of blowing on slot machines.

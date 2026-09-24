@@ -14,6 +14,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/91/96/81/1200x675_cmsv2_0a99bed1-2bbd-5a3c-b4b0-26cc591551f9-9919681.jpg
+locations:
+- Bolivia
+- Iran
+people:
+- Christian Morales
+- Evo Morales
+- Rodrigo Paz
+organisations:
+- '## La Paz'
+- Bolivian Workers’ Central
+- Christian Democratic Party
+- Congress
+- IMF
+- Inter-American Development Bank
+- International Monetary Fund
+- Movement Toward Socialism
+- Senate
+- Trump
+- World Bank
 ---
 
 ## La Paz hopes the deal, awaiting final authorisation by the IMF’s executive board, will open other lines of finances from different institutions, like the World Bank, as the country works to restore its struggling credit status.

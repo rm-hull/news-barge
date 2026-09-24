@@ -15,6 +15,14 @@ categories:
 - York
 - Lifestyle & Fashion
 - Family & Parenting
+locations: []
+people:
+- Andy Smith
+- Grandparents Sue
+- Peaches
+- Richard Ponter
+organisations:
+- Scarborough Castle
 ---
 
 The circus skills station has given people chance to learn some new tricks, other attractions have included puppet antics and a tin can alley at the fairground – along with a chance to kick back in a deck chair with a delicious ice cream.

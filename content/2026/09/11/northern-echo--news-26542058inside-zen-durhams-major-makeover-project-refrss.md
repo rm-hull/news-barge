@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Court Lane
+- Rabbit Hole Durham
+- UK
+- Zen Durham
+people:
+- Zak
+- Zen Durham
+organisations:
+- Darlington
+- Durham
+- Instagram
+- Zen Group
 ---
 
 A major restaurant makeover is underway, with new features and a refreshed look to transform the dining experience.

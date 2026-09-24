@@ -11,6 +11,51 @@ image: https://cdn.mos.cms.futurecdn.net/WCL3w4vb5tsG7m4G2jkXsW-1024-80.webp
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Andover
+- California
+- Effluvia
+- Fallujah
+- Massachusetts
+- Miami
+- Rockstar
+- San Andreas
+- Seattle
+- US
+- Vice City
+- Washington
+- York
+people:
+- Brian Heder
+- Carl ‘CJ’ Johnson
+- Cliff Richard
+- Depeche Mode
+- Jason Duval
+- Jason’s Yang
+- Keyser Söze
+- Leonida
+- Lucia Caminos
+- Marsellus Wallace
+- Michael Corleone
+- Michael De Santa
+- Mike York
+- Niko Belic
+- Niko Bellic
+- Tommy Vercetti
+- Toni Cipriani
+- Tony Montana
+- Tony Soprano
+- Zeke’s Gadgets
+organisations:
+- GTA
+- Google News
+- Grand Theft Auto 6
+- LOD
+- Level of Detail
+- Netflix
+- Projekt Red
+- Rockstar New England
+- York Street Gaming
 ---
 
 ![Imagery of Grand Theft Auto 6.](https://cdn.mos.cms.futurecdn.net/WCL3w4vb5tsG7m4G2jkXsW.webp) 

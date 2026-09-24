@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Dover
+- Harcourt Drive
+- Harrogate
+- John Riseley
+- Kent
+people:
+- Andy Burnham
+- Gareth Fuller
+organisations:
+- Border Security Command
+- Yorkshire Post Letters
 ---
 
 # Britain is going to have to be selective with migrants - Yorkshire Post Letters

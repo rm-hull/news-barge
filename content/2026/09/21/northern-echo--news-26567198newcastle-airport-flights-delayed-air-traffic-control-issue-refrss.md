@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21480147.jpg?type=og-image&xType=0&yType=81
+locations:
+- England
+- NATS’ Prestwick
+- North East
+- Scotland
+- UK
+people:
+- Heidi Alexander
+organisations:
+- NATS
+- National Air Traffic Services
+- Nats
+- Newcastle Airport
+- Newcastle List
+- Teesside Airport
 ---
 
 *(Image: PA)*

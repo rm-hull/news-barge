@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/15/12/2294684165..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Gothenburg
+- Malmo
+- Stockholm
+- Sweden
+people:
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- Centre Party
+- Christian Democrats
+- Green Party
+- Left Party
+- Liberal Party
+- Moderate Party
+- SVT
+- Sager House
+- Social Democratic Party
+- Sweden Democrats
 ---
 
 Sweden’s left-leaning bloc has crept ahead of the ruling right-wing coalition in a neck-and-neck general election.

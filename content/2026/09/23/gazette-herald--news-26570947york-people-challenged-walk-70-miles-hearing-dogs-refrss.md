@@ -13,6 +13,20 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21480189.jpg?type=og-image
+locations:
+- '![]()York'
+- Bielby
+- Heslington East
+- Hob Moor
+- Ouse
+- Rowntree Park
+- York
+people:
+- Gina Evans
+organisations:
+- Bielby
+- Hearing Dogs for Deaf People
+- The Great British Dog Walk
 ---
 
 *(Image: Supplied)*

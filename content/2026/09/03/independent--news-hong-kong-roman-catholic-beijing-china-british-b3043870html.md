@@ -14,6 +14,18 @@ image: https://static.independent.co.uk/2026/09/03/05/Hong_Kong-Activists-Appeal
 categories:
 - News & Politics
 - UK
+locations:
+- Beijing
+- China
+- Hong Kong
+people:
+- Cyd Ho
+- Denise Ho
+- Hui Po Keung
+- Joseph Zen
+- Margaret Ng
+organisations:
+- 612 Humanitarian Relief Fund
 ---
 
 A Hong Kong court on Thursday dismissed appeals brought by a 94-year-old Roman Catholic cardinal and four others over their convictions for failing to register a now-defunct fund that aimed to help people arrested during anti-government protests in 2019.

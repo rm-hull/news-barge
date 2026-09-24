@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Alamosa County
+- Colorado
+- Denver
+people:
+- Amanda Hopkins
+- Anne Kelly
+- Barry Morphew
+- Suzanne Morphew
+organisations:
+- Boulder County Jail
+- Denver International Airport
 ---
 
 A man in Colorado who had been free on $3 million bond in his wife's alleged killing was arrested Friday after prosecutors said he got in a hit-and-run crash with two other vehicles in Denver.

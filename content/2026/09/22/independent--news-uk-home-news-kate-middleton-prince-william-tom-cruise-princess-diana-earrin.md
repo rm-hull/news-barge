@@ -15,6 +15,43 @@ categories:
 - Comedy & Entertainment
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/22/23/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Hollywood
+- Ian West
+- Leicester Square
+- London
+- PA
+- Princess of Wales
+- UK
+people:
+- Alejandro G Inarritu
+- Alejandro G. Inarritu
+- Catherine
+- Cruz
+- David Beckham
+- Diana
+- Earl Spencer
+- Emma D’Arcy
+- Hannah Waddingham
+- Jenny Packham
+- Jesse Plemons
+- Jodie Turner-Smith
+- Kate
+- Michael Stuhlbarg
+- Mr Cruise
+- Nick Beresford-Cleary
+- Prince William
+- Riz Ahmed
+- Romeo
+- Salma Hayek
+- Sandra Huller
+- Sophie Wilde
+- Ted Lasso
+- Tom Cruise
+organisations:
+- Bafta
+- Odeon Luxe
+- Princess of Wales
 ---
 
 The Princess of Wales wore a set of earrings which belonged to Princess Diana as she and Prince William attended the world premiere of Tom Cruise’s new film.

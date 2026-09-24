@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Auckland
+- New South Wales
+- New Zealand
+- Park],” Hudson
+- St James station
+- Sydney
+- Wagga Wagga
+- Western Australia
+people:
+- Bikram Lama
+- Mark Hudson
+- Timothy Verhoef
+- Vinnie
+- Wilks
+organisations:
+- Centrelink
+- Guardian Australia
+- Homes NSW
+- The Homes NSW
 ---
 
 The New South Wales government paid for a homeless man in Wagga Wagga to be sent back to New Zealand instead of offering him temporary accommodation, in an attempt to move on residents living in an encampment by a river.

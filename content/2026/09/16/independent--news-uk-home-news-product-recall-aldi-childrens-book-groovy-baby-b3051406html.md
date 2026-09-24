@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Waitrose
+people: []
+organisations:
+- Aldi
+- MBI
+- Office for Product Safety and Standards
+- TK Maxx
+- Waitrose
 ---
 
 A children’s book has been urgently recalled from stores including Aldi and TK Maxx as it poses a risk of choking small children.

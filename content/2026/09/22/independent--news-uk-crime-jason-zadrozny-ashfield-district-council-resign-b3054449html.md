@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2023/08/18/11/49f88ecb840ec79ef0e4a377ecd05481Y29udGVudHNlYXJjaGFwaSwxNjkyNDM1Mzkz-2.73070505.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Covid
+- Newark
+- PA
+people:
+- David Herbert KC
+- James Varley KC
+- Jason Zadrozny
+- Lee Anderson
+- Robert Jenrick
+- Tony Brewer
+organisations:
+- Ashfield District Council
+- Ashfield Heritage Society
+- Ashfield Independent Group
+- Ashfield Independents
+- Classic Cinema Club
+- Joe Giddens
+- Liberal Democrats
+- Northampton Crown Court
+- Nottinghamshire County Council
+- Reform UK
 ---
 
 A disgraced council leader who was convicted of tax evasion and fraud after scamming a local authority out of thousands of pounds has resigned.

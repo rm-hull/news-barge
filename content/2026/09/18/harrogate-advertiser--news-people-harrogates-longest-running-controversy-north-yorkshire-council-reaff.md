@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQyYjFkNWRhLTI5NjEtNDUxOS04ODllLWU0Y2IyMGRmY2JjMjo1OGUzZDMxNi1mZmNmLTQzZjItOTVlOS01MWZiODI3MDc4ZTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate station
+- James Street
+- One Arch
+- Station Parade
+- Station Square
+people:
+- Coun Keane Duncan
+- Coun Malcolm Taylor
+- David Waddington
+- Garry Sadler-Simpson
+- Steven Baines
+organisations:
+- Get Away
+- Harrogate Advertiser
+- Harrogate Congestion Study Public Engagement
+- Harrogate District Cycle Action
+- Harrogate Gateway
+- Harrogate Station Gateway
+- High Court
+- Highways and Transport
+- Hornbeam Park Developments
+- Mainline Taxis
+- North Yorkshire Council
+- North Yorkshire County Council
+- Station Gateway
+- The Court of Appeal
+- Tory
+- Transforming Cities Fund
+- West Yorkshire Combined Authority
 ---
 
 # Harrogate's longest-running controversy: North Yorkshire Council reaffirms its commitment to Gateway project

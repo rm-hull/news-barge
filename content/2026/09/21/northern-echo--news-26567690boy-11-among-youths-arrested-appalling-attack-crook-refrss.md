@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21480857.jpg?type=og-image&xType=0&yType=0
+locations:
+- Crook
+people:
+- Andy Reeves
+organisations:
+- Crimestoppers
+- Crook Neighbourhood Police Team
+- Durham Constabulary
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -10,6 +10,17 @@ image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Derek Thompson
+organisations:
+- AI
+- EMEA
+- Future plc
+- SaaS
+- TechRadar Pro
+- TechRadarPro
+- Workato
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

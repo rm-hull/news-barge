@@ -14,6 +14,91 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Afghanistan
+- America
+- Baghdad
+- Briarcliff Manor
+- Brooklyn
+- Connecticut
+- Dallas
+- Ellipse
+- Fairfield
+- Ground Zero
+- Honolulu
+- Iran
+- Iraq
+- Ireland
+- Langley
+- Manhattan
+- Middle East
+- Milford
+- Mount Washington
+- Nebraska
+- New Hampshire
+- New York
+- New York City
+- Omaha
+- Pennsylvania
+- Pentagon
+- Philippines
+- Soviet Union
+- St Mary’s
+- Tribeca
+- UK
+- US
+- United States
+- Virginia
+- Washington DC
+- White House
+people:
+- Amy Sweeney
+- Anna Sweeney Rossman
+- Ari
+- Ariel Jacobs
+- Bin Laden
+- Brian Clark
+- Casey Kloepfer
+- Catherine Connolly
+- Charlie Kirk
+- Donald Trump
+- Elizabeth Zorko
+- Gabriel
+- George W Bush
+- God
+- Islam
+- JD Vance
+- Jenna Jacobs McPartland
+- Jennifer Jasensky
+- Joe Biden
+- Madeline Amy Sweeney
+- Melania
+- Micheál Martin
+- Oprah Winfrey
+- Osama bin Laden
+- Phil Buehler
+- Ronald Kloepfer
+- Stanley Praimnath
+organisations:
+- AP
+- American Airlines
+- CIA
+- Central Intelligence Agency
+- Congress
+- Gaya Gupta
+- George W Bush
+- Guardian
+- Human Rights Watch
+- JD Vanceurged
+- Mississippi State University
+- Most Holy Trinity
+- New York Police Department
+- New York Times
+- Pentagon
+- Qur’an
+- US Bureau of Labor Statistics
+- World Trade Center
+- al-Qaida
 ---
 
 It is the 25th anniversary of 9/11, as Americans come together to remember and commemorate the devastating effects of the attacks, which claimed the lives of 2,977 victims.

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21474952.jpg?type=og-image&xType=0&yType=401
+locations:
+- Albert Road
+- Brackenfield Road
+- Busy
+- Consett
+- Darlington
+- Durham Crown Court
+- Framwellgate Moor
+- Front Street
+- Medomsley Road
+- Newton Aycliffe Magistrates’ Court
+- North East
+people:
+- David Railton
+- Gary Atkinson
+- Joshua Nichol
+organisations:
+- Audi
+- Mitsubishi
 ---
 
 A man has appeared in court charged with attempted murder after shots were fired during a car-ramming in Consett.

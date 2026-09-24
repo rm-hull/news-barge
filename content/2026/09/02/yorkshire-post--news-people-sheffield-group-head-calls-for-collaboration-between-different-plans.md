@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Carver Fields
+- Chantreyland
+- Crosspool
+- Friends of Graves Park
+- Graves Park
+- Hagg Lane
+- Norton Nurseries
+- Sheffield
+people:
+- Julia Armstrong
+- Rene Meijer
+organisations:
+- Food Works
+- Food Works Sheffield
+- Friends of Graves Park
+- Norton Nurseries
+- Sheffield City Council
 ---
 
 # Sheffield group head calls for collaboration between different plans for old park nurseries

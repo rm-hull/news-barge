@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- US
+- US-Venezuela
+- Venezuela
+people:
+- Donald Trump
+- Tom Bateman
+organisations:
+- BBC
 ---
 
 # Watch: Why is the US-Venezuela oil deal so controversial?

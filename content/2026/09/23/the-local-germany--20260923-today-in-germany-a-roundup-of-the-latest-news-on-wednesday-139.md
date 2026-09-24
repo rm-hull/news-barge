@@ -13,6 +13,60 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8JZ3V7__v1__MidRes__FblGerEurNationsKloppPresserSquad.jpg@webp
+locations:
+- Amsterdam
+- Augsburg
+- Berlin
+- Bräurosl
+- Bundeswehr
+- Europe
+- Germany
+- Greece
+- Halle Airport
+- Leipzig
+- Leizen
+- Lower Saxony
+- Mecklenburg-Western Pomerania
+- Mecklenburgische Seenplatte
+- Merseyside
+- Munich
+- Netherlands
+- Oktoberfest
+- Rhineland-Palatinate
+- Russia
+- Thuringia
+- US
+- Wunstorf
+people:
+- Friedrich Merz
+- Jurgen Klopp
+- Mario Voigt
+- Nina Warken
+- Sina Scherer
+organisations:
+- 52nd Fighter Wing
+- AFP
+- AfD
+- Anfield
+- Bundestag
+- CDU
+- CDU/CSU
+- DHL
+- DPA
+- FLINTA
+- Forsa Trendbarometer
+- Liverpool
+- NATO
+- NDR
+- RTL
+- SPD
+- Spangdahlem Air Base
+- Süddeutsche Zeitung
+- The Local
+- US Air Force
+- US Army
+- Union
+- WDR
 ---
 
 **Today's top story:CDU mulls reforms after dismal elections**

@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/525e/live/a067fd90-b737-11f1-a430-4d16ee157c41.png
+locations:
+- Dover
+- England
+- English Channel
+- France
+- Normandy
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+organisations:
+- Abeille Liberté
+- Hampshire
+- Isle of Wight Constabulary
+- RNLI
+- Stand Up To Racism
 ---
 
 ![Anti-migrant campaigner leaning out of a boat appearing to hold a knife and to be shouting ](https://ichef.bbci.co.uk/ace/standard/541/cpsprodpb/525e/live/a067fd90-b737-11f1-a430-4d16ee157c41.png)

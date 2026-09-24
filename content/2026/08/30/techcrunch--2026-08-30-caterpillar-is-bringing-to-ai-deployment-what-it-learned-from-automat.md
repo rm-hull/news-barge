@@ -12,6 +12,18 @@ image: https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth
 categories:
 - Technology & Software
 - Careers & Productivity
+locations:
+- AI
+- Las Vegas
+people:
+- Jaime Mineart
+- Joe Creed
+organisations:
+- CTO
+- Cat AI Assistant
+- Caterpillar
+- Mineart
+- TechCrunch
 ---
 
 Nearly every company that’s trying to deploy artificial intelligence runs into the same problem: it’s hard to integrate the tech into everyday operations. Industrial heavyweight Caterpillar has spent decades dealing with a version of that problem in the physical world, and now it’s using its experience to deploy AI.

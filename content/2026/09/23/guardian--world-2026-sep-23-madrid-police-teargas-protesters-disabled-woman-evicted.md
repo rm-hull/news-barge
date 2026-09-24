@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/6c92410ff003d45d9dfb4a30e527443e167a5f38/377_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6493d65e722da42642399a79f06b107e
+locations:
+- Barcelona
+- Madrid
+- Maricarmen
+- Retiro
+- Spain
+people:
+- Aldo Reverte
+- Ana Belén
+- Beatriz Duro
+- Carlos Bardem
+- Isabel Díaz Ayuso
+- Maricarmen
+organisations:
+- Confederation of Tenants’ Unions
+- Urbagestión SL
 ---
 
 There were violent scenes in Madrid on Wednesday as riot police fought with protesters trying to prevent the eviction of an 87-year-old disabled woman from her apartment in the Retiro district.

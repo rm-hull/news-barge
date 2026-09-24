@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Beckfoot Thornton
+- Bradford
+- Leaventhorpe Lane
+people:
+- Beckfoot Thornton
+- Shirley Watson
+organisations:
+- '## Staff'
+- Beckfoot Thornton
+- Beckfoot Trust
+- Board
+- Delta Academies Trust
+- Department for Education
+- Newsquest
+- Ofsted
+- Telegraph & Argus
 ---
 
 *(Image: Newsquest)*

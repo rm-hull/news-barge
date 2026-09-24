@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- New York
+- US
+- United States
+people:
+- Colin Wright
+- Craig Konnoth
+- Daniel Aaron
+- Gideon Meyerowitz-Katz
+- Trump
+organisations:
+- American Academy of Pediatrics
+- American Psychiatric Association
+- American Psychological Association
+- Department of Justice
+- Guardian
+- HHS
+- ICE
+- Manhattan Institute
+- New England Journal of Medicine
+- SJ Quinney College of Law
+- US Department of Health and Human Services
+- US Immigration and Customs Enforcement
+- University of Sydney
+- University of Utah
+- University of Virginia School of Law
+- World Professional Association for Transgender Health
 ---
 
 The US Department of Health and Human Services (HHS) recently released a report linking “gender ideology” to leftwing authoritarianism and political violence – a study scientists say was poorly conducted and “nakedly political”, likely leading to greater politicization of science and health.

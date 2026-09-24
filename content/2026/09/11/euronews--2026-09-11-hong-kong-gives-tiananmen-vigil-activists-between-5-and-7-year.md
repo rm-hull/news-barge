@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Beijing
+- Hong Kong
+- Macau
+- Tiananmen Square
+- Victoria Park
+people:
+- Albert Ho
+- Alex Lee
+- Chow Hang-tung
+- Lee Cheuk-yan
+organisations:
+- Hong Kong Alliance
+- UN
+- United Nations
+- University of
 ---
 
 ## Three Hong Kong Tiananmen vigil activists were jailed for five to seven years under the national security law. Their convictions have drawn condemnation from the UN, human rights groups and foreign governments.

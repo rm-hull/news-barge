@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Nikkei Asia
+people:
+- James
+organisations:
+- AI
+- Apple
+- Clarity Media
+- Google News
+- Samsung
+- TechRadar
 ---
 
 ![iPhone Ultra concept image on a yellow background](https://cdn.mos.cms.futurecdn.net/cjBVoD5obDco9JwYAuGPva.jpg) 

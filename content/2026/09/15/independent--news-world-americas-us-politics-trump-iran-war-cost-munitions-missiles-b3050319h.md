@@ -14,6 +14,49 @@ categories:
 - UK
 - Business & Entrepreneurship
 - History
+locations:
+- Bahrain
+- Camp David
+- China
+- Gulf
+- Iran
+- Iraq
+- Jordan
+- Kuwait
+- Maryland
+- Middle East
+- Oman
+- Qatar
+- Saudi Arabia
+- Tehran
+- U.A.E.
+- U.S.
+- UAE
+- United States
+people:
+- Donald Trump
+- Mark Cancian
+- Pete Hegseth
+- Platte B Moring III
+organisations:
+- CBS News
+- CNBC
+- Center for Strategic and International Studies
+- Congress
+- Department of Defense
+- F-15E
+- F-35A
+- Patriots
+- Pentagon
+- Reuters
+- Standard Missile Systems
+- THAAD Systems
+- The Independent
+- Tomahawks
+- Trump
+- Truth Social
+- U.S. Air Force
+- U.S. Army
 ---
 
 President Donald Trump’s “Operation Epic Fury” assault on Iran cost $33.4 billion in its first four months and has resulted in a munitions shortfall, according to a report by the Department of Defense’s inspector general.

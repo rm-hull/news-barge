@@ -12,6 +12,13 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Halifax
+- Keighley Road
+people: []
+organisations:
+- '### Full'
+- West Yorkshire Police
 ---
 
 *(Image: Archive)*

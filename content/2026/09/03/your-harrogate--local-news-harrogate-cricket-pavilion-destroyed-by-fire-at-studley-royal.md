@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Deer Park
+- Nidderdale
+- Studley Royal
+people: []
+organisations:
+- Studley Royal Cricket Club
 ---
 
 ![](https://mmo.aiircdn.com/409/6a994e4b195d53061c7.jpg) 

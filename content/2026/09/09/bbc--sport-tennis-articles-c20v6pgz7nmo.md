@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Flushing Meadows
+- New York
+- Spain
+people:
+- '## Shelton'
+- Alex Michelsen
+- Alexander Zverev
+- Andy Roddick
+- Ben Shelton
+- Carlos Alcaraz
+- Frances Tiafoe
+- Jannik Sinner
+- Novak Djokovic
+- Roger Federer
+- Tommy Paul
+organisations:
+- New York
 ---
 
 Shelton reaches semis after beating Alcaraz in five-set epic

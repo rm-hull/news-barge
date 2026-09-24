@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Britain
+- Clacton
+- Common
+- Europe
+- uk
+people:
+- '## Farage'
+- Andy Burnham
+- Ann Widdecombe
+- Anna Isaac
+- Baroness Harriet Harman
+- Christopher Harborne
+- David Maddox
+- Isabel Oaskeshott
+- Joe Giddens
+- Jordan Bardella
+- Lee Anderson
+- Matt Goodwin
+- Michael Crick
+- Mr Farage
+- Ms Oakeshott
+- Nigel Farage
+- Peter Geoghegan
+- Richard Tice
+- Ruper Lowe
+- Sarah Pochin
+- Zia Yusuf
+organisations:
+- '## Reform'
+- BBC
+- Beleaguered Reform
+- Boris Johnson Partygate
+- Clacton
+- Commons’
+- Crypto
+- Democracy for Sale
+- Guardian’s City
+- Labour
+- Privileges Committee
+- Reform UK
+- Sky News
+- Talk TV
+- The Guardian
+- Tories
+- YouGov
 ---
 
 Nigel Farage will try to shake off ongoing scrutiny about funding both he and Reform UK have received as the party’s conference begins.

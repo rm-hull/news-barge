@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/a6CZy6pnatTYhPmL2ToANn-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Kotaku
+people:
+- Andrew E. Freedman
+- Tom
+organisations:
+- AMD Ryzen AI Developer Center
+- Google News
+- IFA
+- Laptop Mag
+- Lenovo
+- Nvidia
+- OEM
+- PCMag and Complex
+- RAM
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![ThinkCentre X Ultra](https://cdn.mos.cms.futurecdn.net/a6CZy6pnatTYhPmL2ToANn.jpg) 

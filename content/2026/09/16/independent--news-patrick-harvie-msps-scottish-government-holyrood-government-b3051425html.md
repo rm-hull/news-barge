@@ -13,6 +13,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Holyrood
+- PA
+- Scotland
+people:
+- Hannah Mary Goodlad
+- Jane Barlow
+- Kat Jones
+- Patrick Harvie
+organisations:
+- Action to Protect Rural Scotland
+- Environmental Rights Centre for Scotland
+- Friends of the Earth Scotland
+- Green MSP
+- Greens
+- Holyrood
+- Labour
+- Ms Goodland
+- Scottish Government
+- Stop Climate Chaos Scotland
 ---
 
 New guidance to assist planning decisions on new data centres will be issued by the Scottish Government before Christmas, MSPs have been promised.

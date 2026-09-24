@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/10/18/16/GettyImages-2176767213.
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Orem
+- UCCU Center
+- Utah County
+people:
+- Charlie Kirk
+- Collin Grannis
+- Glenn Beck
+- Jon Anderson
+- Michael Knowles
+- Sharon Turner
+- Turning Point
+organisations:
+- Democratic Society
+- Grannis
+- Students for a Democratic Society
+- The Independent
+- The Independent.
+- The New York Times
+- Turning Point
+- Turning Point USA
+- UCCU Center
+- UVU
+- Utah Valley University
 ---
 
 Charlie Kirk's image still haunts many students at Utah Valley University one year after the right-wing political activist’s assassination on their college campus.

@@ -14,6 +14,12 @@ categories:
 - Harrogate
 - Family & Parenting
 - Society & Culture
+locations:
+- Harrogate
+- Kings Road
+people: []
+organisations:
+- Kimberley Hotel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a967989da21d1b853e.jpg) 

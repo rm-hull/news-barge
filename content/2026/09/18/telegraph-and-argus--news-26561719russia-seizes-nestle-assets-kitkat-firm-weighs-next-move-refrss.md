@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Europe
+- Kremlin
+- Russia
+- Ukraine
+- York
+people:
+- Chris North
+- Vladimir Putin
+organisations:
+- AB InBev
+- Auchan
+- Budweiser
+- Cadbury
+- Carlsberg
+- Cheerios
+- Danone
+- KitKat
+- KitKats
+- Mondelez
+- Nescafe
+- Nestle
+- PepsiCo
+- Rowntree
+- Stella Artois
 ---
 
 *(Image: Chris North)*

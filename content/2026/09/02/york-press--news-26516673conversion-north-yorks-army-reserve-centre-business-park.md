@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - History
+locations:
+- Coldyhill Lane
+- Newby
+- North Yorkshire
+- Scarborough
+- Territorial Army Reserve Centre
+people: []
+organisations:
+- Highway Authority
+- Ministry of Defence
+- MoD
+- Newby and Scalby Town Council
+- North Yorkshire Council
+- Territorial Army Reserve Centre
+- Territorial Army Reserve Centre On Coldyhill Lane
 ---
 
 ## Green light for conversion of former Army Centre into business park

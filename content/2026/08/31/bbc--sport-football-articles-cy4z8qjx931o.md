@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arsenal
+- Aston Villa
+- Europe
+- Villa Park
+people:
+- '## Arteta'
+- Alex Ferguson
+- Arsene Wenger
+- Bruno Guimaraes
+- Bukayo Saka
+- Christos Tzolis
+- David Raya
+- Ezri Konsa
+- Gabriel Magalhaes
+- Julian Alvarez
+- Jurgen Klopp
+- Mark Hughes
+- Mikel Arteta
+- Pep Guardiola
+- Piero Hincapie
+- Thierry Henry
+- Villa
+- Vinicius Jr
+- William Saliba
+organisations:
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- Chelsea
+- Club Brugge
+- Gunners
+- Juventus
+- Liverpool
+- Manchester City
+- Manchester United
+- Newcastle United
+- PFA
+- Premier League
+- Real Madrid
+- Sky Sports
 ---
 
 ![Mikel Arteta](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a05a/live/a516d880-a584-11f1-9384-01fa380f65bb.jpg)

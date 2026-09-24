@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Basarnas
+- Borneo
+- Indonesia
+- Java
+- Mount Anak Krakatoa
+people:
+- I Putu Sudayana
+organisations:
+- Search and Rescue Agency
 ---
 
 ## A rescue official said emergency crews faced waves of up to 2.5 metres as they fought to reach the ferry amid "extremely risky" conditions.

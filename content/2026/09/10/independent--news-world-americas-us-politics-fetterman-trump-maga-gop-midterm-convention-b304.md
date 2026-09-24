@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/10/00/2293866466..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- America
+- Dallas
+- Maine
+- New York
+- Pennsylvania
+- Pittsburgh
+- Steel Valley
+- Texas
+- U.S.
+people:
+- Chris Deluzio
+- Crystal Ball
+- Dave McCormick
+- Donald Trump
+- Joe Biden
+- John Fetterman
+- Nick Field
+- Sabato
+organisations:
+- BlueSky
+- House
+- MAGA-fied Republican Party
+- Senate
+- Steel Way of Life
+- Team PA
+- The Independent
+- Wall Street Journal
 ---
 
 Democratic Sen. John Fetterman was a surprise virtual guest at Wednesday’s Republican convention in Dallas, Texas.

@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Bay Area
+- San Francisco
+people:
+- Daniel Lurie
+organisations:
+- Lurie
+- Zumper
 ---
 
 San Francisco’s mayor, Daniel Lurie, declared a rent emergency on Thursday, proposing reforms aimed at curbing evictions and preventing rent spikes as the city grapples with soaring apartment prices.

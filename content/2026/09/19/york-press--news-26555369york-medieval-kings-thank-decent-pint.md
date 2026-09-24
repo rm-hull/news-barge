@@ -12,6 +12,13 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21462746.jpg?type=og-image
+locations:
+- YAYAS
+- York
+people: []
+organisations:
+- PA Wire
+- Why York
 ---
 
 ## If you enjoy a decent pint in York, here's who you have to thank

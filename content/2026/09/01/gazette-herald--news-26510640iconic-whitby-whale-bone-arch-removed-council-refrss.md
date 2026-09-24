@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Alaska
+- Barrow
+- North Yorkshire
+- West Cliff
+- Whitby Abbey
+- Whitby’s West Cliff
+people:
+- Bronze
+- Mark Crane
+- Sandra Turner
+- Whitby
+organisations:
+- NYC Feedback
+- North Yorkshire Council
+- Numminen Ldrs Whitby Town
+- Whale Bone Arch
+- Whitby Whale Bone Arch Photos
 ---
 
 ONE of the most recognisable landmarks in a North Yorkshire town has been removed by the council today.

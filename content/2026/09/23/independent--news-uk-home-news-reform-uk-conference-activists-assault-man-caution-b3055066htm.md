@@ -12,6 +12,15 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/15/11/2293538610..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Birmingham
+people:
+- Nigel Farage
+organisations:
+- NEC
+- Reform UK
+- Reform UK National Conference
+- West Midlands Police
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

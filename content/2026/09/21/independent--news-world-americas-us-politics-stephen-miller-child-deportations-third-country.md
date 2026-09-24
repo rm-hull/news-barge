@@ -12,6 +12,55 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/08/17/2026-09-04T100207Z_1127713563_RC29TMAG5APS_RTRMADP_3_USA-TRADE-WACKER-CHEMIE.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Belize
+- Cameroon
+- Central African Republic
+- Costa Rica
+- Dominica
+- Equatorial Guinea
+- Eswatini
+- Ghana
+- Guatemala
+- Honduras
+- Latin America
+- Liberia
+- Panama
+- Paraguay
+- Sierra Leone
+- U.S.
+- White House
+people:
+- Anwen Hughes
+- Christian Ehrhardt
+- Donald Trump
+- Lauren Bis
+- Stephen Miller
+- Trina Realmuto
+organisations:
+- Bis
+- DHS
+- DOJ
+- Department of Health and Human Services
+- Department of Homeland Security
+- Department of Justice
+- Department of State
+- Forbidden Stories
+- Human Rights First
+- Justice Department
+- Mobile Pathways
+- National Immigration Litigation Alliance
+- Office of Refugee Resettlement
+- Office of Remigration
+- State Department
+- Supreme Court
+- The Guardian.
+- The Independent
+- The Washington Post
+- The Washington Post.
+- Trump
+- Wikipedia
 ---
 
 Stephen Miller, the architect of Donald Trump’s anti-immigration agenda, is reportedly leading the administration’s efforts to deport thousands of people to countries that are not their own while trying to send nearly 200,000 children out of the country.

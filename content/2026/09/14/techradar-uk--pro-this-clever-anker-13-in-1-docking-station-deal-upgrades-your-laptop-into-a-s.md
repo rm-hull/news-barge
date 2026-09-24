@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/3tcvfNZPagtMS4w8c9bLSS-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Anker Nano
+- UK
+people:
+- Anker
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Isabelle
+organisations:
+- HDMI
+- TechRadar Pro
+- USB-C
+- iMore
 ---
 
 ![Nano Laptop Docking Station deal](https://cdn.mos.cms.futurecdn.net/3tcvfNZPagtMS4w8c9bLSS.jpg) 

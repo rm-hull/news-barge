@@ -14,6 +14,77 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21440934.jpg?type=og-image
+locations:
+- Australia
+- CLEVELAND
+- Consett
+- County Durham
+- Darlington
+- Dinnington
+- Essex
+- Leicester
+- Liverpool
+- London
+- Manchester
+- New Orleans
+- Newcastle
+- North East
+- Oxford
+- Paisley
+- Redcar
+- UK
+people:
+- '### Alex Lee'
+- '### Anthony Hutton'
+- '### Charlie Drummond'
+- '### Jay McKray'
+- '### Jennifer Clark'
+- '### Jonny Regan'
+- '### Lewis Flanagan'
+- '### Liam McGough'
+- '### Michelle Bass'
+- '### Simone Reed'
+- '### Zoe Birkett'
+- AJ Odudu
+- Alex Lee
+- Ali Bromley
+- Alison Hammond
+- Anthony Hutton
+- Big Brother
+- Charlie Drummond
+- Dale Howard
+- Denise Welch
+- GK Barry
+- Geordie Dutch
+- Jade Goody
+- Jay McKray
+- Jennifer Clark
+- Jonny Regan
+- Jordan Sangha
+- Kate Lawler
+- Katie Price
+- Lewis Flanagan
+- Liam McGough
+- Louise Cliffe
+- Marry
+- Michelle Bass
+- Simone Reed
+- Stuart Wilson
+- Teessider Simone Reed
+- Zoe Birkett
+organisations:
+- BBC Three
+- Channel 5
+- County Durham
+- GBH
+- Geordie Coppers
+- ITV
+- Newcastle
+- PA)* County Durham
+- Scunthorpe
+- Sunderland
+- The X Factor
+- Will Best
 ---
 
 Big Brother is back on ITV2 and ITVX, with North East fans tuning in for diary-room confessions, explosive rows and surprise evictions.

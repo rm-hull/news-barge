@@ -12,6 +12,17 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Grandstand
+- Paddock
+- UK
+- United States
+- York Racecourse
+people: []
+organisations:
+- Baggy Trousers
+- Camp Bestival
+- House of Fun
 ---
 
 *(Image: Freelance)*

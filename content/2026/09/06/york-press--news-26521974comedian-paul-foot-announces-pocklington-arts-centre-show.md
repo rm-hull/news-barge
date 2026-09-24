@@ -13,6 +13,16 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Pocklington Arts Centre
+- Rapunzel
+people:
+- Chortle
+- Paul Foot
+organisations:
+- Hope & Social
+- PAC Comedy Club
+- Plosive Live
 ---
 
 *(Image: Pocklington Arts Centre)*

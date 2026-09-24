@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Scarborough
+- York
+people:
+- Connor Shannon
+organisations:
+- York Crown Court
+- York Magistrates Court
 ---
 
 *(Image: LDRS)*

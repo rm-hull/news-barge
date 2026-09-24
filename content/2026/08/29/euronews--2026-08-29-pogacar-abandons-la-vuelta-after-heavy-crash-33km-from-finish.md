@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- Monaco
+- Puçol
+- Spain
+- Xeraco
+people:
+- Enric Mas
+- Joxean Fernández 'Matxín
+- Pogačar
+- Tadej Pogačarhas
+organisations:
+- UAE Team Emirates
+- Valencian Community
 ---
 
 ## The Slovenian cyclist, who was leading the race, suffered a heavy crash and had to be taken to hospital by ambulance.

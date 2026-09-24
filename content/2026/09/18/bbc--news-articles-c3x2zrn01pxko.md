@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- China
+- DC
+- DC.
+- Gulf
+- Illinois
+- Israel
+- National Mall
+- Oval
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- US
+- Washington
+- White House
+- Yemen
+people:
+- Donald Trump
+- Jamal Khashoggi
+- Joe Biden
+- Mohammed bin Salman
+- Raja Krishnamoorthi
+- bin Salman
+organisations:
+- BBC
+- CBS News
+- Chinese Communist Party
+- Congress
+- F-35A
+- Jerusalem Post
+- Lockheed Martin
+- Oval Office
+- Sareen Habeshian
+- US Air Force
 ---
 
 ![President Donald Trump (R) meets with Crown Prince and Prime Minister Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on November 18, 2025 in Washington, DC.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/27ea/live/7d7d4cc0-b2e3-11f1-a845-59f886d45f54.jpg)

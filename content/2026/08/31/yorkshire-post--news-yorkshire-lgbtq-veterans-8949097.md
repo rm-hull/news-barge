@@ -15,6 +15,27 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Catterick Garrison
+- Fylingdales
+- Humber
+- North East
+- North Yorkshire
+- RAF Leeming
+people:
+- Dawn Loynes
+- Peter Gibson
+- Peter Gibson.
+- Pride
+organisations:
+- British Army
+- Darlington
+- Dawn Loynes
+- Government
+- Pride
+- RAF
+- Royal Navy
+- Yorkshire
 ---
 
 # Yorkshire LGBTQ+ veterans urged to come forward for financial redress over Army 'gay ban'

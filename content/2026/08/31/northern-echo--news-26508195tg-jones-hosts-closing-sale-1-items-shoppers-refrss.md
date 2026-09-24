@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Basildon
+- County Durham
+- Essex
+- Maldon
+- Southend
+- UK
+people:
+- Alex Willson
+- Tom Smith KC
+organisations:
+- High Court
+- Modella Capital
+- Stroud
+- TG Jones
+- TG Jones’
+- WH Smith
 ---
 
 *(Image: Getty)*

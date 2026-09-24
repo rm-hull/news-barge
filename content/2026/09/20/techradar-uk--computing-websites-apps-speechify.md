@@ -10,6 +10,13 @@ description: 'Homescreen Heroes: Speechify can read out documents, images, websi
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/gmphvjNGc9CpcvhY4Cx2EM-1920-80.jpg
+locations: []
+people:
+- Paul Hatton
+organisations:
+- Amazon
+- Google News
+- Speechify Library
 ---
 
 ![Speechify](https://cdn.mos.cms.futurecdn.net/gmphvjNGc9CpcvhY4Cx2EM.jpg)

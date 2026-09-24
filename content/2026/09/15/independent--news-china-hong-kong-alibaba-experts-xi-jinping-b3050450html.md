@@ -14,6 +14,45 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- AI
+- Beijing
+- China
+- Silicon Valley
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Chen Yixin
+- Claude Fable
+- Donald Trump
+- Kimi K3
+- Lizzi C. Lee
+- Samm Sacks
+- Scott Bessent
+- Xi Jinping
+- ___ Castillo
+organisations:
+- Alibaba
+- Anthropic
+- Asia Society Policy Institute
+- Center for China Analysis
+- Chinese AI
+- DeepSeek
+- FBI
+- Future of Global Affairs
+- Johns Hopkins School of Advanced International Studies’ Institute for America
+- Meta
+- Moonshot AI
+- National Security Agency and Cybersecurity and Infrastructure Security Agency
+- No. 3
+- OpenAI
+- OpenAI’s GPT
+- SpaceXAI
+- Stanford Institute for Human-Centered Artificial Intelligence
+- U.S. Treasury
+- Z.ai
 ---
 
 As the rapid development of artificial intelligence triggers a renewed debate about its risks, the United States and China keep racing to develop increasingly powerful models even as they express their own concerns.

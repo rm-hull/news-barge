@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Cumbria
+- Darlington Memorial Hospital
+- Durham City
+- North Durham
+- North East
+people:
+- Amir Bhatti
+- Denise Howarth
+- Denise Howarth She
+- Mary Aubrey
+- Rachel O’Connor
+- Steve Russell
+- Steve Russell He
+organisations:
+- BBC One
+- Care Quality Commission
+- Darlington NHS Foundation Trust
+- Department of Health and Social Care
+- Durham Police
+- Harm
+- Hudgell Solicitors
+- Hudgell Solicitors’
+- NHS England
+- National Crime Agency
+- Royal College of Surgeons
+- University Hospital
+- iPlayer
 ---
 
 Twenty women have undergone unnecessary mastectomies, and more than 300 patients have been harmed while under the care of an NHS trust's breast cancer services.

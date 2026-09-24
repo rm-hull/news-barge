@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Airedale Hospital
+- Skipton Hospital
+- St Luke’s Hospital
+people:
+- Mansoor Ali
+organisations:
+- BRI
+- Bradford Royal Infirmary
 ---
 
 *(Image: Supplied)*

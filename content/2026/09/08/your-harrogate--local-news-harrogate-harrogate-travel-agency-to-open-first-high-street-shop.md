@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- Harrogate
+people:
+- Colin Ord
+- Jake Todhunter
+organisations:
+- Advantage Travel Partnership
+- Harrogate
+- There Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fc95592c4327a737.jpg) 

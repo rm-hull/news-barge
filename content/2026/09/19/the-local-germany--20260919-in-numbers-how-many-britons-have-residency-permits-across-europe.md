@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260620__B7Q76JA__v1__MidRes__BritainEuProtestBrexit.jpg@webp
+locations:
+- Austria
+- Brexit
+- Bulgaria
+- Denmark
+- Europe
+- France
+- Germany
+- Italy
+- Netherlands
+- Norway
+- Poland
+- Portugal
+- Spain
+- Sweden
+- Switzerland
+- The Local
+- UK
+people:
+- Brexit
+organisations:
+- EU
+- European Economic Area
+- European Union
+- Eurostat
+- The Local
 ---
 
 Almost 920,000 British citizens had a residence permit in EU countries at the end of 2025, data by the EU statistical office, Eurostat, has revealed.

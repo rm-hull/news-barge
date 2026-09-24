@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Pacific Australia
+people:
+- Andrew McKellar
+- Donald Trump
+- Kon Karapanagiotidis
+- Matt Canavan
+- Mehreen Faruqi
+- Mike Guerin
+- Pauline Hanson
+- Tony Burke
+- Wes Lambert
+organisations:
+- Asylum Seeker Resource Centre
+- Australian Chamber of Commerce and Industry
+- Australian Restaurant and Cafe Association
+- Coalition
+- Greens
+- Guardian Australia
+- Labor
+- Minerals Council of Australia
+- National Farmers Federation
+- National Press Club
+- Nationals
+- One Nation
 ---
 
 The farming lobby’s claim that immigration rule changes will increase food prices for households is wrong, Tony Burke has said, describing moves to speed up processing of backpacker visas as a positive step for agriculture.

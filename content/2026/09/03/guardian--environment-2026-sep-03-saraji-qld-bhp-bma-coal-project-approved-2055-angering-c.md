@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Brigalow
+- Fitzroy River
+- Pacific
+- Palau
+- Queensland
+- Saraji
+people:
+- Anthony Albanese
+- Ben McLeod
+- Coral Rowston
+- Simon Bradshaw
+organisations:
+- Albanese
+- BHP Mitsubishi Alliance
+- BMA
+- Climate Council
+- EPA
+- Environmental Advocacy Central Queensland
+- Greenpeace Australia Pacific
+- Guardian Australia
+- International Energy Agency
+- National Environmental Protection Agency
+- Pacific Islands Forum
+- Saraji
 ---
 
 Australia’s new national agency for environmental protection has approved its first coal project, allowing a Queensland open-cut mine to keep digging until 2055 while clearing threatened woodland and koala habitat.

@@ -11,6 +11,17 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309759983.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Cambrian
+- Canada
+- China
+- Yu’anshan Formation
+people:
+- Joe Moysiuk
+- Stephen Pates
+organisations:
+- Manitoba Museum
+- University College London
 ---
 
 ![Radiodont arthropod Amplectobelua symbrachiata,](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309759983.jpg?w=840)

@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/iGGsae75XgC3HjRLUGMA78-1340-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Browse
+- Monica J. White
+organisations:
+- CyberGhost
+- Deloitte
+- Digital Trends
+- Google News
+- Internet Access
+- Kape
+- Monica
+- No Trace
+- SlashGear
+- TechRadar
+- Tom’s Hardware
+- WePC
 ---
 
 ![CyberGhost iOS app](https://cdn.mos.cms.futurecdn.net/iGGsae75XgC3HjRLUGMA78.png) 

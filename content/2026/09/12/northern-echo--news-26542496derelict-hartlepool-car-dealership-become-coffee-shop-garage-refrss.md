@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Brenda Road
+- Evans Halshaw
+- Hartlepool
+- Park View West
+- Usworth Road
+- YOUR
+people: []
+organisations:
+- Hartlepool Borough Council
+- Public Notice Portal
 ---
 
 *(Image: Google Maps)*

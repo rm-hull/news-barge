@@ -13,6 +13,24 @@ categories:
 - York
 - News & Politics
 - Health & Fitness
+locations:
+- Harrogate
+- Huby
+- North Kirklees
+- North Yorkshire
+- Wakefield
+- York
+people:
+- Christina Dobson
+- Emily Lunn
+- Jackie Buxton
+- Jonathan Pow
+- Stuart Griffiths
+organisations:
+- GTR
+- RURALLY
+- University of York
+- Yorkshire Cancer Research
 ---
 
 *(Image: Jonathan Pow/[jp@jonathanpow.com](mailto:jp@jonathanpow.com))*

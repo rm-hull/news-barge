@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Europe
+- Germany
+- Greece
+- Iran
+- Memmingen
+- Munich
+- Thessaloniki
+- US
+people:
+- Ljubisa Karović
+- Svetlana Grković
+organisations:
+- Ryanair
+- Wizz Air
 ---
 
 Ryanair has warned that air fares in Europe will jump next year if the oil price remains high and that some airlines could go bust.

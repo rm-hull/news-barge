@@ -12,6 +12,19 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/20833093.jpg?type=og-image
+locations:
+- Common Lane
+- Common Road
+- Dauby Lane
+- Hagg Lane
+- Hull Road
+- Kexby Bridge Loop
+- York
+people: []
+organisations:
+- A1079
+- City of York Council
+- Newsquest
 ---
 
 *(Image: Newsquest)*

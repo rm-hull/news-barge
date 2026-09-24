@@ -13,6 +13,70 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/7da587456da82b49b28feeba32cf7a08dfcea74b/30_193_3285_2628/master/3285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ee3f086f3e43b5773db8936a30b9f3a
+locations:
+- Austin
+- Burbank
+- California
+- California.
+- Camp East Montana
+- Dana Point
+- Gaza
+- Hollywood
+- Iran
+- Israel
+- LA
+- New York
+- Palestine
+- Red Sea
+- Russia
+- Saudi Arabia
+- Texas
+- UK
+- US
+- Ukraine
+- Vermont
+- White House
+- Yemen
+- Yosemite
+people:
+- Chris Rock
+- Donald Trump
+- Flora Willson
+- Garcés Pérez
+- Kevin Reddington
+- Lauren Boebert
+- Lindsay Clancy
+- Michael Desronvil
+- Mohammed bin Salman
+- Nimesh Patel
+- Radheyan Simonpillai
+- Robert Tait
+- Steve Reich
+- Steve Reich.
+- Veronica Escobar
+- Volodymyr Zelenskyy
+- Wilber Rafael Garcés Pérez
+organisations:
+- Black Tesla
+- British Colonies Enslavement Registers
+- CNN
+- El Niño
+- Elon Musk
+- Guardian
+- House
+- ICE
+- Kyiv
+- MS Now
+- Netflix
+- Paramount
+- Pentagon
+- Politico
+- SpaceX
+- Stanford University
+- UN
+- US Immigration and Customs Enforcement
+- WBD
+- Warner Bros Discovery
 ---
 
 Good morning. The row over media access to the presidency has deepened, with major US television news outlets agreeing to suspend their video coverage of Donald Trump after the administration banned journalists from several outlets from entering the White House grounds.

@@ -11,6 +11,35 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5309/live/fded5d
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Kabul
+- Kandahar
+- Kenya
+- New York
+- Pennsylvania
+- Persian Gulf
+- Sudan
+- Tanzania
+- US
+- Virginia
+- Washington
+- White House
+people:
+- Bill Clinton
+- Bin Laden
+- George W Bush
+- John Ratlcliffe
+- Mullah Omar
+- Osama Bin Laden
+organisations:
+- CIA
+- Commission
+- Daily Briefs
+- Generations of C.I.A.
+- Pentagon
+- World Trade Center
+- al-Qaeda
 ---
 
 ![Floor at CIA lobby in Virginia](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5309/live/fded5d10-ae0f-11f1-b502-e5cdfe1c097c.jpg)

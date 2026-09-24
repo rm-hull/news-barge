@@ -13,6 +13,17 @@ categories:
 - York
 - Lifestyle & Fashion
 - Arts & Culture
+locations:
+- York Dog Park
+people:
+- Amanda Owen
+organisations:
+- '## York Museum Gardens'
+- York Art Gallery
+- York Dog Park
+- York Museum Gardens
+- Yorkshire Museum
+- Yorkshire Shepherdess
 ---
 
 ## York Museum Gardens to host first-ever city centre dog show

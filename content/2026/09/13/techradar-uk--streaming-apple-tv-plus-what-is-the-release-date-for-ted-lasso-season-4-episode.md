@@ -12,6 +12,34 @@ image: https://cdn.mos.cms.futurecdn.net/PY5gQY9kogy4paXUrE92QM-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North America
+- North and South America
+- SGT
+- Singapore
+- UK
+- US
+people:
+- Keeley
+- Rebecca
+- Ted Lasso
+- Tom
+- Zelda
+organisations:
+- AFC Richmond
+- Apple TV
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![Keeley and Ted looking surprised in Ted Lasso season 4 episode 7](https://cdn.mos.cms.futurecdn.net/PY5gQY9kogy4paXUrE92QM.jpg) 

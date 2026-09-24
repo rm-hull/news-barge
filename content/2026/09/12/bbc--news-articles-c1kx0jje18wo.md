@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Music
 - Technology & Software
+locations:
+- Atlanta
+- Chicago
+- Los Angeles
+- US
+people:
+- Bill Essayli
+- David "Browneyez" Lindsey
+- Deandre "OTF Dede" Wilson
+- Drake
+- Drew Findling
+- Durk Devontay Banks
+- J Cole
+- Kacey "OTF Jam" Hester
+- Kavon "OTF Vonnie" Grant
+- Keith "Flacka" Jones
+- Lil Durk
+- Quando Rondo
+- Saviay'a Robinson
+- Tyquian Bowman
+- Von
+organisations:
+- BBC
+- CBS News
+- Durk Banks
+- Lil Durk
+- OTF
 ---
 
 ![Lil Durk wearing sunglasses and a multi-coloured suit, and holding up the gold gramophone-shaped Grammy Award](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg)

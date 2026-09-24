@@ -14,6 +14,16 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Britain
+- Helmsley
+- North Yorkshire
+people:
+- Carolyn Frank
+- George Jabbour
+- Helmsley
+organisations:
+- Helmsley Project Representative
 ---
 
 “Helmsley did us proud once again” was the overriding message as the town celebrated the visit of the Tour of Britain with a packed schedule of events.

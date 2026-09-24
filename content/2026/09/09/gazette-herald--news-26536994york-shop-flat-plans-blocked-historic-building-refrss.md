@@ -13,6 +13,19 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Empty York
+- Goodramgate
+- Vahe Bar
+- YOUR
+people:
+- Vahe Nersessian
+- Vahe Nesserian
+organisations:
+- City of York Council
+- Kokos International Bar
+- Public Notice Portal
+- Vahe Bar
 ---
 
 ### What is the Public Notice Portal?

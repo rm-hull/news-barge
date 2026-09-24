@@ -14,6 +14,25 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Minneapolis
+- New York
+people:
+- Alex Pretti
+- Christina Fleming
+- Donald Trump
+- Markwayne Mullin
+- Renée Good
+organisations:
+- Customs and Border Protection
+- DHS
+- Department of Homeland Security
+- Fozon Capital
+- ICE
+- ICU
+- Immigration and Customs Enforcement
+- Senate
+- Trump Administration
 ---
 
 Department of Homeland Security Secretary Markwayne Mullin has accused Democrats of using rhetoric to unfairly demonize Immigration and Customs Enforcement and undermine President Donald Trump’s immigration agenda.

@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bazley’s Lane
+- Church Street
+- Lakeside Way
+- North Yorkshire
+- North of England
+- Norton
+- Park Road
+- Railway Club
+- Springfield Garth
+- St Nicholas Street
+- The Avenue
+- Welham Road
+people:
+- Cllr Duncan
+- Cllr Keane Duncan
+- Norton
+- Stewart Whitehead
+organisations:
+- NGN
+- NGN’s Customer Care Team
+- Newsquest
+- North Yorkshire Council
+- Northern Gas Networks
+- Site Manager
 ---
 
 ## Plans to fully close main road in North Yorkshire town scrapped

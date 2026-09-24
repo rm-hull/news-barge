@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Delhi
+- Dumbarton
+- India
+- Jalandhar
+- Punjab
+- Scotland
+- UK
+people:
+- Alistair Burt
+- Chris Esdaile
+- Dan Dolan
+- Gurpreet Johal
+- Gurpreet Singh Johal
+- Jagtar Singh Johal
+- Redress
+organisations:
+- Khalistan Liberation Force
+- Reprieve
 ---
 
 Jagtar Singh Johal, a British Sikh man who was arrested in India in 2017 in connection with alleged terrorism offences, has been granted bail by a Delhi court.

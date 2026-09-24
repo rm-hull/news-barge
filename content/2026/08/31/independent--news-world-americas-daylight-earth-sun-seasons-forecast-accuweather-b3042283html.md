@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bangor
+- Boston
+- California
+- Charleston
+- Earth
+- Eureka
+- Florida
+- Great Lakes
+- Gulf of Mexico
+- Los Angeles
+- Maine
+- Massachusetts
+- Naples
+- New York City
+- North Carolina
+- Oregon
+- Portland
+- Raleigh
+- San Diego
+- Seattle
+- South Carolina
+- Texas
+- U.S.
+- United States
+- Washington
+people: []
+organisations:
+- AccuWeather
+- Blue Marble
+- NASA
+- The Farmer’s Almanac
 ---
 
 Daylight is dwindling across the United States as the season shifts from summer to fall.

@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Galaxy Robot Park
+- Seoul
+- South Korea
+people: []
+organisations: []
 ---
 
 # Could robots be the future of theme parks?

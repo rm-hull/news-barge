@@ -13,6 +13,32 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310246769.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Aotearoa
+- NZ
+- New Zealand
+- Ohakune
+- Scotland
+- US
+people:
+- Adam Kucharski
+- Andy Maloney
+- Brenda Solon
+- Claude Shannon
+- Edward Wood
+- Emily Kucharski
+- Feedback
+- Janet Dowle
+- Kirsten Cameron
+- Marlin E. Plank
+- Paul Wood
+- Roz Birch
+- Simon Bird
+organisations:
+- Blackpool Tower
+- Google Search
+- London Eye
+- Twitter
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310246769.jpg?w=840)

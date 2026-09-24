@@ -14,6 +14,13 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Whitby West Cliff
+people:
+- John Woodhead
+- Mark Crane
+organisations:
+- North Yorkshire Council
 ---
 
 Years of exposure to the weather on the coast has led to significant deterioration in the arch’s condition, meaning the bones now need to be replaced.

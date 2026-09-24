@@ -14,6 +14,52 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- City
+- Europe
+- France
+- London
+- Munich
+- Nyon
+- Switzerland
+- Warsaw
+people:
+- Alessia Russo
+- Alexia Putellas
+- Andree Jeglertz
+- Hacken
+- Mapi Leon
+- Ona Batlle
+- Renee Slegers'
+- Salma Paralluelo
+- Sonia Bompastor
+organisations:
+- Arsenal
+- Austria Wien
+- Austria Wien Away
+- BK Hacken
+- Barca
+- Barcelona
+- Bayern Munich
+- Bayern Munich.
+- Benfica
+- Blues
+- Chelsea
+- Gunners'
+- HB Koge
+- HB Koge Away
+- Inter Milan
+- Lyon
+- Manchester City
+- OH Leuven
+- PSG
+- Paris FC
+- Paris St-Germain
+- Real Madrid
+- Roma
+- Uefa
+- WSL
 ---
 
 ![Arsenal striker Alessia Russo celebrates scoring against Lyon](https://ichef.bbci.co.uk/ace/standard/615/cpsprodpb/0d77/live/f5a0f4e0-a85c-11f1-ae45-e9984fc27c77.jpg)

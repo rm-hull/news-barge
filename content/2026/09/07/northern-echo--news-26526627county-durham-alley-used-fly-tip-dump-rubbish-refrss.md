@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bishop Auckland
+- County Durham
+- County Durham Picturesque County Durham
+- DURHAM COUNTY
+- South Moor
+- William Street
+people: []
+organisations:
+- Durham County Council
+- Durham County Council Neighbourhood Wardens
+- Neighbourhood Warden Service
+- Neighbourhood Wardens
+- River Wear
 ---
 
 A County Durham alleyway has been used as a dumping ground for fly-tipping and waste, as wardens working for the council have warned that they will catch those responsible.

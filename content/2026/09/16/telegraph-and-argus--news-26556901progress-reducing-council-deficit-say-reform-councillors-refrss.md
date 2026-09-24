@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people:
+- Coun Dan Sutherland
+- Coun Mike Payne
+- Coun Payne
+- Coun Sutherland
+organisations:
+- Cabinet
+- Calderdale Council
+- Children and Young People’s Services
+- Corporate Services, Assets and Resources
+- Illingworth
+- Labour
+- Mixenden
+- Reform UK
+- Sowerby Bridge
 ---
 
 A council facing a projected £5.4 million overspend by the end of this council year is nonetheless making progress to reduce costs, says a senior councillor.

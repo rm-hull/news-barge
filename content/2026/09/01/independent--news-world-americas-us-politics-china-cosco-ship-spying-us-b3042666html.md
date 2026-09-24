@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/01/11/01KMQNRP0HEY6Q4YG842G0KSGG
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Beijing
+- China
+- Europe
+- North America
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Isaac Kardon
+- Liu Chang
+- Xi Jinping
+organisations:
+- COSCO
+- Johns Hopkins School of Advanced International Studies
+- PLA
+- Pentagon
+- People's Liberation Army
+- Reuters
+- Trump
+- U.S. Naval War College
 ---
 
 Two senior Trump administration officials have stated that Chinese state-owned shipping giant COSCO uses hidden onboard equipment to intercept military communications off the coastlines of targeted nations, including the United States.

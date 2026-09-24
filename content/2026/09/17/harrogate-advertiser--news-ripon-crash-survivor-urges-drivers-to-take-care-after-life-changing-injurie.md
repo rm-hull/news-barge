@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/15/58/Josh-sitting-in-a-wheelchair-in-hospital-for-the-first-time.jpeg?trim=163,0,617,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Marston Lane
+- STEPS Rehabilitation Centre
+- Sheffield
+- Silverstone
+- Stoke Mandeville Hospital
+- York
+people:
+- Irwin Mitchell
+- Josh
+- Joshua Kay-Shaw
+- Lucy Nickson
+organisations:
+- Day One Trauma Support
 ---
 
 # Ripon crash survivor urges drivers to take care after life-changing injuries

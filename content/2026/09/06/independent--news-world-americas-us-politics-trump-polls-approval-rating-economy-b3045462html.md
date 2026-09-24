@@ -13,6 +13,20 @@ categories:
 - UK
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Hormuz Strait
+- Iran
+- US
+people:
+- Donald Trump
+organisations:
+- Financial Times
+- Focaldata
+- Gallup
+- House
+- Oval Office
+- Senate
+- Trump
 ---
 
 Donald Trump’s approval rating has dropped to a record low in a major poll, presenting a headache for Republicans in the lead up to the midterm elections.

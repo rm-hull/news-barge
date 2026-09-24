@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Acklam Road
+- Cargo Fleet Lane
+- Ladgate Lane
+- Middlesbrough
+- Ormesby Road
+- South Bank
+- St Bede’s Chapel
+- Teesside Crematorium
+people:
+- Cole Robert Worthy
+- Cole Worthy
+- Jakub Matusiak
+- John Wrintmore
+- Lucy Powell
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Acklam Grange
+- Acklam Whin Primary School
+- BBC Radio 4
+- Cleveland Police
+- Green Lane School
+- Home Office
+- Newham Bridge Primary School
+- Outwood Academy
 ---
 
 Police have issued a warning ahead of another A66 crash victim’s funeral today.

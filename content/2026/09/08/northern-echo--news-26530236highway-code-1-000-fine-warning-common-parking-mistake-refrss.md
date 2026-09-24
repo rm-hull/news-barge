@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- County Durham
+- UK
+people:
+- Mo Rafique
+organisations:
+- Blue Badge
+- Highway Code
+- Motor Guards UK
+- RAC
 ---
 
 *(Image: Getty Images)*

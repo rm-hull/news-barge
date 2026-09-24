@@ -14,6 +14,41 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/20/2292110750..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Iowa
+- Iran
+- Iran.
+- R-Iowa
+- Washington
+people:
+- Ann Selzer
+- Ashley Hinson
+- Barack Obama
+- Donald Trump
+- Joe Biden
+- Joni Ernst
+- Josh Turek
+- Kamala Harris
+- Kim Reynolds
+- Lindsay James
+- Mariannette Miller-Meeks
+- Mike Johnson
+- Rob Sand
+- Tom Harkin
+- Zach Lahn
+- Zach Nunn
+organisations:
+- AAA
+- Hawkeye State
+- House of Representatives
+- Marist University
+- NBC News
+- Politico
+- Sand
+- Senate
+- Turek
+- YouGov
 ---
 
 On Monday, Rep. Ashley Hinson, President Donald Trump’s endorsed nominee in Iowa’s Senate race, made a public break from the president, calling for an end to the Iran War.

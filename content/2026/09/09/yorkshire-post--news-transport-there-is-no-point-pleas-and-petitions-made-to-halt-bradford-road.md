@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- A652 Bradford Road
+- Bradford Road
+- Dewsbury
+- Rink Street
+- Victoria Road
+people:
+- Coun Hardie
+- Coun John Hardie
+- Coun Zaman
+- Habiban Zaman
+- Sharon McNulty
+organisations:
+- Batley East
+- Bradford Road Transport Corridor
+- Grilled
+- Kirklees Council
+- Kirklees Independents
+- Kirklees Independents Group
+- Labour
+- Reform UK Cabinet
 ---
 
 # 'There is no point' - Pleas and petitions made to halt Bradford Road Transport Corridor revamp

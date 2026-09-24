@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Abha
+- Bab al-Mandeb
+- Britain
+- Gaza
+- Iran
+- Israel
+- Jazan
+- Lebanon
+- Middle East
+- Najran
+- Saudi Arabia
+- Strait of Hormuz
+- U.K.
+- U.S.
+- UK
+- United Kingdom
+- West Bank
+- Yemen
+people:
+- Al-Malki
+- Benjamin Netanyahu
+- Ed Miliband
+- Khamis Mushait
+- Pat McFadden
+- Turki al-Malki
+organisations:
+- House of Commons
+- Saudi Energy Ministry
+- Work and Pensions
 ---
 
 Houthi attacks on Saudi Arabia have ignited fires at several oil facilities and wounded dozens of people, raising the stakes in renewed fighting between a U.S. ally and an Iranian proxy just days after deadly clashes in Iran, Lebanon and Gaza.

@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Birmingham
+- City of London
+- England
+- Isles of Scilly
+- North Yorkshire
+- Northern Ireland
+- Rutland
+- UK
+- Wales
+people:
+- Gareth Fuller
+- Rachel Reeves
+organisations:
+- Cornwall
+- DWP
+- Department for Work and Pensions
+- Government
+- HMRC
+- House of Commons
+- National Insurance
+- PA Wire
+- State Pension
+- Winter Fuel Payment Centre
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

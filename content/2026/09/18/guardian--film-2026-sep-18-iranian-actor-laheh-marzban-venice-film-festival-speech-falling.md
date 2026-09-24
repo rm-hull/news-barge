@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Falling House
+- Gaza
+- Iran
+- Israel
+- Lido
+- Minab
+- Qu’ran
+- Turkey
+- US
+- Venice
+people:
+- Benjamin Netanyahu
+- Ensi
+- Farhad Aslani
+- Laleh Marzban
+- Mohsen Gharaei
+- Rachel Szor
+- Rashid
+- Yuval Abraham
+- Zahra Chekhmaghi
+- Zhila Sadeghi
+organisations:
+- Islamic Republic of Iran Broadcasting
+- NAZA
+- SNN
+- Student News Network
+- Supreme Council of the Cultural Revolution
+- TV IRIB
 ---
 
 An Iranian actress who won the best newcomer award at the Venice film festival has come under severe attack from the country’s authorities and state media after highlighting the plight of women in Iran in her acceptance speech.

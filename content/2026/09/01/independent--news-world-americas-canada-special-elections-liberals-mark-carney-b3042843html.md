@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Beaches-East York
+- British Columbia
+- Canada
+- Chicoutimi-Le Fjord
+- Europe
+- Lake America
+- Lake Ontario
+- North Vancouver-Capilano
+- Quebec
+- Toronto
+- U.S.
+- United States
+- White House
+people:
+- Braeden Caley
+- Daniel Béland
+- Daniel Gobeil
+- Donald Trump
+- Hedy Fry
+- Mark Carney
+- Nelson Wiseman
+- Pierre Poilievre
+- Scott Bessent
+organisations:
+- Canadian Broadcasting Corp
+- House of Commons
+- Lake America’
+- Liberal Party
+- McGill University
+- Trump
+- U.S. Treasury
+- University of Toronto
 ---
 
 Canada’s governing Liberals have secured victories in three special elections on Monday, providing a significant boost to Prime Minister Mark Carney amidst an intensifying trade dispute with U.S. President Donald Trump.

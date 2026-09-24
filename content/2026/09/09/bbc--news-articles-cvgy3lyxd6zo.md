@@ -11,6 +11,44 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A66
+- America
+- Australia
+- Cleveland
+- Darlington
+- France
+- Hartlepool
+- High Level Bridge
+- Hutton Avenue
+- Middlesbrough
+- Mitchell Street
+- Mulgrave Road
+- Newcastle
+- South Bank
+- South Road
+- St Paul's Road
+- Town Hall
+people:
+- '," Somerville'
+- Cole Worthy
+- Jakub Matusiak
+- Lauren Somerville
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- PC Blades
+- PC Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- BBC Sounds
+- Carmel College
+- Cleveland Police
+- Cleveland Police Federation
+- IOPC
+- Independent Office for Police Conduct
+- PC Blades
 ---
 
 ![Matthew Blades smiling into the camera. His head and shoulders are visible and he has light brown short hair which is longer on the top. He has short, dark stubble around his mouth and is smiling with his death. He is wearing a white shirt which is open at the top. He is sitting in a garden in front of the High Level Bridge in Newcastle which is a tall, brown structure with arches along the side of it. There are lots of green plants and grass but on the left there is a brown shipping container. There are black fairy lights strung up above the garden and the sky above is blue.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/7fe1/live/01e5c160-ab94-11f1-aa04-efbf6a882854.jpg)

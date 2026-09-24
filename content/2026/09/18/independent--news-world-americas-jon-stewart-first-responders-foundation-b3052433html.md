@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- New York
+- Stewart
+- Times Square
+- U.S.
+people:
+- Jillian Crane
+- Jon Stewart
+- Mark Twain
+- X-Men
+organisations:
+- 11th Victim Compensation Fund
+- AP
+- Associated Press
+- Congressional
+- First Responders Children’s Foundation
+- Kennedy Center for the Performing Arts
+- Lilly Endowment Inc
+- Roll Call of Heroes
+- The Associated Press
+- The Conversation US
 ---
 
 Jon Stewart’s advocacy for first responders and their families was never a calculated plan; it grew organically from a desire to support those who serve. The award-winning host of "The Daily Show" explained that his motivation stemmed from wanting to feel useful to people who dedicate their lives to helping others.

@@ -15,6 +15,22 @@ categories:
 - Relationships & Dating
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/19573516.jpg?type=og-image&xType=0&yType=203
+locations:
+- Harrogate Magistrates Court
+- Harrogate Police Station
+- North Yorkshire
+- Skipton Magistrates Court
+- Spencers Holt
+- Wales
+people:
+- Adam Longden
+- Category A. Longden
+- Ellie
+organisations:
+- Crown Court
+- Newsquest
+- North Wales
+- Punishers North Wales
 ---
 
 *(Image: Newsquest)*

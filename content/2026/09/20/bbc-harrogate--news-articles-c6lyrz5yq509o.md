@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6af1/live/f5261250-b34e-11f1-b949-71f91f81d1ab.jpg
+locations:
+- Durham
+- Middlesbrough
+- Noonans Mayfair
+- North Yorkshire
+- Northallerton Coroner's Court
+- St Margaret of Antioch
+people:
+- Andrew Riley
+- Christ
+- Elizabeth I
+- Laura Smith
+organisations:
+- Finds Liaison Officer
+- St Margaret
 ---
 
 ![Two gold rings are pictured against a black background. The ring on the left is engraved with inscriptions and red and white droplets. The ring on the left is engraved with various patterns.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6af1/live/f5261250-b34e-11f1-b949-71f91f81d1ab.jpg)

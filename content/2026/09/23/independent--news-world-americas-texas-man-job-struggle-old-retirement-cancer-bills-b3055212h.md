@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/23/15/56/Screenshot-2026-09-23-at-11-44-20-AM.png?trim=115,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dallas
+- Texas
+- The Colony
+people:
+- Donald Johnson
+- Erin Howell
+- Josephine
+organisations:
+- GoFundMe
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

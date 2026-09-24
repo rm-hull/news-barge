@@ -14,6 +14,32 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Adessia Stream
+- Britain
+- Derby
+- Hull
+- Leeds
+- Litchurch Lane
+- Liverpool Lime Street
+- Manchester Airport
+- North
+- Pennines
+- Saltburn
+- Scarborough
+- UK
+- York
+- Yorkshire
+people:
+- Andy Burnham
+- Heidi Alexander
+organisations:
+- Alstom
+- British Railways
+- Government
+- Manchester Piccadilly
+- Rock Rail
+- TransPennine Express
 ---
 
 # Journey times between Manchester and Yorkshire to be cut by up to 15 minutes, says PM

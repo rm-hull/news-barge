@@ -11,6 +11,22 @@ description: Here’s everything you need to know about Live Rewind, Apple’s c
 image: https://cdn.mos.cms.futurecdn.net/pQgtyLWmytpSru3K9u6wu4-1472-80.jpg
 categories:
 - Technology & Software
+locations:
+- Secure Enclave
+people:
+- Alex Blake
+- Siri
+organisations:
+- Apple Watch
+- Creative Bloq
+- Digital Crown
+- Google News
+- Live Rewind
+- MacFormat
+- Secure Enclave
+- Siri Recap
+- TechRadar
+- iMore
 ---
 
 ![The Live Rewind feature on an Apple Watch.](https://cdn.mos.cms.futurecdn.net/pQgtyLWmytpSru3K9u6wu4.jpg) 

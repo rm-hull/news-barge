@@ -15,6 +15,34 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- D-Texas
+- Maryland
+- R-Mo.
+- U.S.
+- Vermont
+- Washington
+people:
+- Bernie Sanders
+- Chris Van Hollen
+- Chuck Schumer
+- Greg Casar
+- Jacob Coxon
+- Josh Hawley
+- Mary Clare Jalonick
+- Nate Evans
+- Sam Altman
+- Van Hollen
+organisations:
+- AI
+- Anthropic
+- Associated Press
+- Congress
+- House
+- Hugging Face
+- OpenAI
+- Senate
 ---
 
 Lawmakers worried about the existential risk posed by new artificial intelligence products demanded information from OpenAI on Thursday with separate queries that underscored growing concerns in Washington about the technology's potential to elude human control.

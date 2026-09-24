@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Great Yorkshire Events Centre
+- Harrogate
+- UK
+people: []
+organisations:
+- Le Creuset
+- Table Sale
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9aa536a514210e27c.jpg) 

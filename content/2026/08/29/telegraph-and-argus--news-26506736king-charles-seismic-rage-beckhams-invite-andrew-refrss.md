@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Buckingham Palace
+- Prince Andrew
+- Scotland
+people:
+- Alison Boshoff
+- Andrew
+- Beckhams
+- Brand Beckham
+- Charles
+- David Beckham
+- Dickie Arbiter
+- Elizabeth II
+- Elsa
+- Eugenie
+- Harper
+- Instagram
+- King
+- Kisses
+- Sarah Ferguson
+- Victoria Beckham
+- William
+organisations: []
 ---
 
 *(Image: PA)*

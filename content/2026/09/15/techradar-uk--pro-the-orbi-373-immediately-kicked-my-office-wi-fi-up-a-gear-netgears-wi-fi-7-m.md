@@ -11,6 +11,24 @@ description: Our review called it an "affordable and easy-to-use mesh Wi-Fi syst
 image: https://cdn.mos.cms.futurecdn.net/i879x3TX2W7j6pT9ctprhf-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+- US
+people:
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Cliff
+- Isabelle
+organisations:
+- Amazon
+- CamelCamelCamel
+- Gigabit Ethernet
+- Netgear
+- Steam
+- TechRadar Pro
+- Wi-Fi
+- iMore
 ---
 
 ![Netgear Orbi 373 with one router and two satellites on a wooden table](https://cdn.mos.cms.futurecdn.net/i879x3TX2W7j6pT9ctprhf.jpg) 

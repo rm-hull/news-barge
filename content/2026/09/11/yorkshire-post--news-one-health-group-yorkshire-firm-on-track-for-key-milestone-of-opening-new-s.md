@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Scunthorpe
+- Sheffield
+people:
+- Adam Binns
+- Derek Bickerstaff
+organisations:
+- AIM
+- NHS
+- One Health
+- One Health Group
+- One Health Group.
+- One Helath
+- Sheffield Teaching Hospital
+- Yorkshire
+- Yorkshire-based One Health Group
 ---
 
 # One Health Group: Yorkshire firm on track for ‘key milestone’ of opening new surgical hub next year

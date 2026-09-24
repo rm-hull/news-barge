@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Altadena
+- Eaton
+- Germany
+- LA
+- Los Angeles
+- Mann
+- Pacific Palisades
+- Palisades Village
+- Poland
+- San Gabriel
+- United States
+- Villa Aurora
+people:
+- Bertolt Brecht
+- Christine Rank
+- Claudia Gordon
+- Danijel Skrelja
+- Donald Trump
+- Hitler
+- Lion Feuchtwanger
+- Marta
+- Rick Caruso
+- Thomas Mann
+- Wende
+organisations:
+- Department of Angels
+- Trump
+- Villa Aurora
+- Wende Museum
 ---
 
 A hillside villa that served as a cultural hub for German writers and artists fleeing the Nazis and narrowly escaped destruction in last year’s Los Angeles wildfires reopened its doors to the public this weekend, marking the latest milestone in the city’s slow recovery from one of the darkest chapters in its history.

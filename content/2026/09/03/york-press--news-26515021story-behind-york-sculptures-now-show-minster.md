@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Leveson Centre
+- UK
+- Visit York
+- York Minster
+people:
+- Alex Dyett
+- Lauren Frost
+- Ms Frost
+- Sue Clayton
+organisations:
+- Make It York
+- Norse Sky
+- TG Jones and York main Post Office
+- The Potions Cauldron
+- Visit York
+- York and Scarborough Hospitals Charity and York Against Cancer
+- “York Dungeon
 ---
 
 ## The story behind the sculptures across York now on show in Minster

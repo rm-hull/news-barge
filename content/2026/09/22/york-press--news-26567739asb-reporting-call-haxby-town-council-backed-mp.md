@@ -14,6 +14,31 @@ categories:
 - Society & Culture
 - True Crime
 image: https://www.yorkpress.co.uk/resources/images/21481700.jpg?type=og-image
+locations:
+- Haxby
+- North Yorkshire
+- York
+people:
+- '![]()Haxby'
+- Andrew Hollyer
+- Haxby
+- Ian Cuthbertson
+- Jo Coles
+- Luke Charters
+- Richard Watson
+organisations:
+- '![]()York Outer'
+- ASB
+- Channel Four
+- Government
+- Haxby Town Council
+- Newsquest
+- North Yorkshire Police
+- The Press
+- Town Council
+- Wigginton Liberal Democrat
+- York Liberal Democrats
+- York Outer
 ---
 
 ## Police 'need an accurate picture' of anti-social behaviour in York town

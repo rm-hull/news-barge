@@ -11,6 +11,48 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/18/20/22/741827969_1751164166302860_355959024625611157_n.jpeg?trim=39,0,40,0&width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- Boston
+- Boulder
+- California
+- Carolinas
+- Charleston
+- Colorado
+- Dakotas
+- East Coast
+- Four Corners
+- Grand Canyon National Park
+- Great Lakes
+- Idaho
+- Intermountain West
+- Iowa
+- Michigan
+- Mid-Atlantic
+- Minnesota
+- Montana
+- Navajo Nation
+- Nebraska
+- New Mexico
+- New York
+- North Carolina
+- Northeast
+- Pacific
+- Raleigh
+- Rockies
+- South Carolina
+- Southwest
+- Texas
+- Upper Midwest
+- Virginia
+- Wakefield
+- Washington, D.C.
+people:
+- Ben Noll
+organisations:
+- El Niño
+- National Weather Service
+- The Washington Post
 ---
 
 Flooding rain is expected to threaten hundreds of millions of people across large parts of the country over the weekend and into next week.

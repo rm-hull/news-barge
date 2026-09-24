@@ -12,6 +12,17 @@ image: https://cdn.mos.cms.futurecdn.net/V5pfo38Pg8bWmiNwNZR57Z-2526-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Cardiff
+- UK
+- US
+people:
+- Matt Evans
+- Suri
+organisations:
+- Men's Health
+- Runner's World
+- TechRadar
 ---
 
 ### TechRadar Verdict

@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Keighley Town
+people:
+- Andrea Walker
+- Elisabeth King
+organisations: []
 ---
 
 *(Image: Elisabeth King)*

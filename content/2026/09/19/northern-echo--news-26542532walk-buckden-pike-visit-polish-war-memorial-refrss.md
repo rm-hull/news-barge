@@ -15,6 +15,28 @@ categories:
 - Travel
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21440512.jpg?type=og-image
+locations:
+- Buck Inn
+- Buckden Gill
+- Buckden Pike
+- Cray
+- Dales 30 Mountains
+- Howgills
+- Jonathan Smith
+- Long Preston
+- Mallerstang
+- Starbotton
+- The Bracken Way
+- Wharfedale
+- Yorkshire Dales
+people:
+- Jo
+- Jonathan Smith
+- Stiles
+organisations:
+- The Dales
+- The Yorkshire
+- Where2walk
 ---
 
 The head of Wharfedale is surrounded by four of the Dales 30 Mountains (all over 2,000ft high). The one to the east is Buckden Pike, the most enjoyable of the four. Add in the Polish War Memorial on the summit ridge for an excellent day out.

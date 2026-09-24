@@ -14,6 +14,42 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- BER
+- Berlin
+- Germany
+- Mecklenburg Western Pomerania
+- Saxony-Anhalt
+- Thuringia
+people:
+- BerlinWait
+- Die Linke
+- Elif Eralp
+- Green
+- Kai Wegner
+- Meck-Pomm
+- Stefan Evers
+- Werner Graf
+organisations:
+- AfD
+- Alternative for Germany
+- BSW
+- BVV
+- Bild
+- CDU
+- Christian Democratic Union
+- EU
+- Expropriate Deutsche Wohnen & Co.
+- FDP
+- Greens
+- House of Representatives
+- INSA
+- Instagram
+- SPD
+- Social Democrats
+- Tempelhofer Feld
+- The Left
+- The Left party
 ---
 
 September is a busy month for elections in Germany this year. Just a couple of weeks after the explosive vote in Saxony-Anhalt that saw the far-right Alternative for Germany (AfD) score over 40 percent of the vote, another key date is coming up.

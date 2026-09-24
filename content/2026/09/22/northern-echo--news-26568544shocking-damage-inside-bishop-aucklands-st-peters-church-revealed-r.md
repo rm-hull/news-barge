@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21482288.jpg?type=og-image
+locations:
+- Bishop Auckland
+- County Durham
+- England
+- Ferryhill Historic County Durham
+- Grade II-listed
+- Newgate Street
+- Princes Street
+- St Peter's Church
+- St Peter’s Church
+people:
+- Bishop
+- Elgar
+- Joy Allen
+- Owen Cleugh
+- SARAH CALDECOTT
+- Sam Rushworth
+- Stan Laurel
+organisations:
+- '![]()St Peter''s'
+- Darlington Fire and Rescue Service
+- Durham County Council
+- Durham Police
+- Labour
+- NORTHERN ECHO
+- Northern Echo
+- PACT
+- Reform UK
+- St Peter's
+- The Brow Lounge
 ---
 
 *(Image: SARAH CALDECOTT)*

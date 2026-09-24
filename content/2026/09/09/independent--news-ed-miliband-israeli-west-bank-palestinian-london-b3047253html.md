@@ -13,6 +13,36 @@ categories:
 - UK
 - Business & Entrepreneurship
 - History
+locations:
+- Belgium
+- Britain
+- Canada
+- Denmark
+- Finland
+- France
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Jerusalem
+- Mideast
+- Norway
+- Poland
+- Portugal
+- Spain
+- Sweden
+- The Netherlands
+- U.K.
+- West Bank
+people:
+- Benjamin Netanyahu
+- Ed Miliband
+- Ephraim Mirvis
+- Gideon Saar
+- Sa’ar
+organisations:
+- Palestinian Authority
+- Sky News
 ---
 
 British Foreign Secretary Ed Miliband said Wednesday he was disappointed with Israel’s response to the government's decision to ban trade with Israeli settlements in the occupied West Bank, and rejected criticism from the U.K.'s chief rabbi.

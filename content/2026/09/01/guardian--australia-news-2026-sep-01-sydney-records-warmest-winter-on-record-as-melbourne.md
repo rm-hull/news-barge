@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Asia
+- Beetaloo Basin
+- Canberra
+- Europe
+- Melbourne
+- NSW
+- New South Wales
+- North America
+- Northern Territory
+- Observatory Hill
+- Pacific Ocean
+- SA
+- South Australia
+- Sydney
+- Tasman
+- Tasmania
+- Victoria
+people:
+- Lia Finocchiaro
+- Madeleine King
+- Sarah Perkins-Kirkpatrick
+- Simon Grainger
+organisations:
+- Australian National University
+- BoM
+- Bureau of Meteorology
+- El Niño
+- Northern Territory
+- SA
 ---
 
 Australia’s two biggest cities had their hottest and equal hottest winters on record, with three eastern states also breaking temperature records.

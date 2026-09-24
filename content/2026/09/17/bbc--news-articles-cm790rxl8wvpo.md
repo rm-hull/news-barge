@@ -14,6 +14,24 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Arts & Culture
+locations:
+- France
+- Oldham
+- Pyrenees
+- Spain
+- Toulouse
+people:
+- '** Batty'
+- Alex Batty
+- Daniel Carolan
+- Melanie
+- Susan Caruana
+organisations:
+- BBC Breakfast
+- BBC Breakfast Carolan
+- BBC Manchester
+- BBC Radio Manchester
+- SUEZ UK
 ---
 
 ![Alex Batty has short brown hair and is wearing glasses, and an orange high vis jacket.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/62c8/live/2c105740-b1c8-11f1-8493-1910d79d53eb.jpg)

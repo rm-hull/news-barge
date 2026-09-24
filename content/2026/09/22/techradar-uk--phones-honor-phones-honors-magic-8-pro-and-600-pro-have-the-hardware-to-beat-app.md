@@ -10,6 +10,27 @@ description: Design choices overshadowing some great value handsets
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/5GqzjCNRDPPZND3aBpAtaN-1920-80.jpg
+locations:
+- Australia
+- China
+- US
+people:
+- Honor
+- Nico Arboleda
+organisations:
+- 600 Pro
+- App Library
+- Apple
+- Apple’s Dynamic Island
+- Honor Magic
+- Honor V Purse
+- Magic Capsule
+- MagicOS
+- Nico
+- Nothing
+- Robot Phone
+- TechRadar Australia
+- iOS Control Center
 ---
 
 ![Honor phones compared to iPhones](https://cdn.mos.cms.futurecdn.net/5GqzjCNRDPPZND3aBpAtaN.jpg)

@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Esplanade
+- Harrogate
+- Leeds
+- Montpellier Hill
+- Oak Beck
+- Sheffield
+- York
+people:
+- Athif Khan
+organisations:
+- Burke
+- Harrogate
+- Montpellier Area
+- The Stray
+- Ward
+- Wider Funding Authority
+- Yorkshire Water
+- Yorkshire Water Project Manager
 ---
 
 **HARROGATE**— Infrastructure engineering teams are scheduled to arrive on The Stray next week to begin extensive ground surveys ahead of planned modifications to Harrogate’s wastewater network.

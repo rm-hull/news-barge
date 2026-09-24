@@ -13,6 +13,20 @@ categories:
 - York
 - Music
 image: https://www.gazetteherald.co.uk/resources/images/21001817.jpg?type=og-image
+locations:
+- Bilton-in-Ainsty
+- Charlotte
+- Wetherby
+- York
+- Yorkshire
+people:
+- Drew Colson
+- Emily
+- Maria
+organisations:
+- )* Drew
+- Clear Evening Sky
+- Colson of York
 ---
 
 *(Image: Supplied)*

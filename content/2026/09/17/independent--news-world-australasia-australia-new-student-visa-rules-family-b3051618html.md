@@ -13,6 +13,22 @@ categories:
 - UK
 - Society & Culture
 - Education & Learning
+locations:
+- Australia
+- Melbourne
+- Pacific
+- Southeast Asia
+- UK
+- US
+people:
+- Donald Trump
+- Pauline Hanson
+- Tony Burke
+organisations:
+- Covid-19
+- ICE
+- Labour
+- One Nation
 ---
 
 Australia has banned foreign students from bringing their families along under stricter rules aimed at curbing immigration.

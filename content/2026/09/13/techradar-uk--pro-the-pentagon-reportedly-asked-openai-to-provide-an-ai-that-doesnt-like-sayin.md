@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Heidy Khlaaf
+- Nate Evans
+- Trevor Tiedeman
+organisations:
+- '**OpenAI'
+- AI Now Institute
+- Department of Defense
+- Efosa
+- FOIA
+- Freedom of Information Act
+- Google News
+- OpenAI
+- Pentagon
+- TechRadar Pro
+- The Intercept
 ---
 
 ![OpenAI logos](https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi.jpg) 

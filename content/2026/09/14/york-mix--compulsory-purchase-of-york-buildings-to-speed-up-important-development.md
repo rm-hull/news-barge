@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Long Lane Close
+- Walmgate
+- Willow House
+- York
+people:
+- Cllr Ayre
+- Cllr Merrett
+- Cllr Nigel Ayre
+- Dave Merrett
+- Walmgate
+organisations:
+- CPO
+- City of York Council
+- Labour Housing Executive
+- Liberal Democrat
+- Local Transport Grant
+- Neighbourhood Improvement Plan
+- York and North Yorkshire Combined Authority
 ---
 
 Moves to avoid potential delays to a York housing development have been approved.

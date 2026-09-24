@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/icTDJkicnHjEHzC6cRgsTA-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Ernest Doku
+- James
+organisations:
+- AI
+- Android TV
+- BBC
+- Channel 4
+- Clarity Media
+- Dolby Atmos
+- Dolby Vision
+- Google News
+- Google Play Store
+- HBO
+- Netflix Standard
+- RAM
+- Sky Ultimate TV
+- SuperMobile
+- TechRadar
+- Uswitch
+- Vodafone Box Office
+- Vodafone TV
 ---
 
 ![The Vodafone TV box and remote being held in the hand](https://cdn.mos.cms.futurecdn.net/icTDJkicnHjEHzC6cRgsTA.jpg) 

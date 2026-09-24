@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- High Street
+- Queen O’ T’Owd Thatch
+- South Milford
+people:
+- Donna
+- Mike Laycock
+organisations:
+- Facebook
+- Queen O' T'Owd Thatch
+- South Milford__** Yesterday
 ---
 
 *(Image: Mike Laycock)*

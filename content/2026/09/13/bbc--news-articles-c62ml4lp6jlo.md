@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Britain
+- California
+- Cotswolds
+- Duchess
+- Duke
+- Instagram
+- Labrador
+- London
+- Palace
+- UK
+- US
+people:
+- Archie
+- Chamberlain
+- Duchess
+- King Charles III
+- Lilibet
+- Meghan
+- Mia
+- Prince Harry
+- Pula,with
+organisations:
+- Duchess of Sussex
+- Instagram
+- Sussexes
 ---
 
 ![Composite image of Harry and Meghan walking along a country path. He has his back to the camera as she turns to face it. They are holding hands. On the right hand side, Lilibet rides a bike with a red seat on the back carrying a doll, while Archie runs ahead of her.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ad3a/live/07912460-af90-11f1-a540-61c3f7fc4e6c.jpg)

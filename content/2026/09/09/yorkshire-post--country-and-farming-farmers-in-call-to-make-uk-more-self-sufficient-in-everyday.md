@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Britain
+- Canada
+- Iran
+- New Zealand
+- UK
+- US
+people:
+- Tom Bradshaw
+- Tom Bradshaw.
+organisations:
+- EU
+- Government
+- NFU
+- National Farmers’ Union
+- OECD
+- Organisation for Economic Co-operation and Development
 ---
 
 # Farmers in call to make UK more self-sufficient in everyday foods

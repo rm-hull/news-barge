@@ -12,6 +12,35 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/26/19/16/Geoff-and-Linda-Kitchen-1.jpeg?trim=53,0,53,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Avon Coroners’ Court
+- Bangkok
+- Bristol
+- Indonesia
+- Myanmar
+- Singapore
+- Thornbury
+- UK
+people:
+- Andrew Dawood
+- Bradley Richards
+- Bryan Matthews
+- Edward Stafford
+- Geoff Kitchen
+- Geoffrey Kitchen
+- Hannah Fullerton
+- Jack Jenkins
+- Linda
+- Michael Rainey
+- Ms Kitchen
+- Pauline
+- Peter Harrowing
+- Sheffield
+organisations:
+- Singapore Airlines
+- Singapore Transport Safety Investigation Bureau
+- Thornbury Musical Theatre Group
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Hormuz
+- Iran
+- Kuhestak
+- Minab
+- Sirik
+- Tehran
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- JD Vance
+- Ro Khanna
+organisations:
+- Centcom
+- IRGC
+- International Red Cross
+- Iranian Red Crescent
+- Islamic Revolutionary Guard Corps
+- Pentagon
+- Red Crescent
+- Red Crescent Movement
+- Revolutionary Guard
+- US Central Comman
 ---
 
 The US vice-president, JD Vance, said “sometimes things happen” when asked on Thursday whether an American strike was responsible for killing four people, including a child, at a wedding celebration in southern Iran this week.

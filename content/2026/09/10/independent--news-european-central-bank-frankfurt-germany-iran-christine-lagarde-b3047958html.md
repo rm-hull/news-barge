@@ -14,6 +14,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Frankfurt
+- Iran
+- Middle East
+- Strait of Hormuz
+- U.S.
+people:
+- Christine Lagarde
+- Kevin Warsh
+organisations:
+- ECB
+- EU
+- European Central Bank
+- Fed
+- Federal Reserve
 ---
 
 The European Central Bank raised interest rates Thursday to cool inflation that is being fed by high oil prices from the Iran war. The decision was supported by a stronger-than-expected economy that suggests businesses can weather the higher borrowing costs.

@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Arizona
+- Bright Angel Campground
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- Flagstaff
+- Grand Canyon
+- Grand Canyon National Park
+- Grand Canyon Village
+- North Kaibab Trail
+- North Rim
+- Phantom Ranch
+people:
+- Darren McCollum
+- God
+- Heaven
+- Jack Schmidt
+organisations:
+- Arizona Department of Public Safety
+- Centre for Colorado River Studies
+- National Park Service
+- National Weather Service
+- Utah State University
 ---
 
 ## Popular tourist spots, including the Bright Angel Campground, the North Kaibab Trail and Phantom Ranch, home to a historic canteen and dormitories, remained closed on Sunday.

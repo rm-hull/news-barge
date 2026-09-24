@@ -11,6 +11,21 @@ description: Qualcomm's upcoming Snapdragon chipset allows for powerful on-devic
 image: https://cdn.mos.cms.futurecdn.net/byCr8DA85bFgd9X55ZBj5T-974-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- Adreno Matrix Cores
+- CPU
+- Clarity Media
+- GPU
+- Google News
+- Honor
+- NPU
+- Qualcomm
+- RAM
+- TechRadar
 ---
 
 ![Qualcomm Snapdragon](https://cdn.mos.cms.futurecdn.net/byCr8DA85bFgd9X55ZBj5T.jpg) 

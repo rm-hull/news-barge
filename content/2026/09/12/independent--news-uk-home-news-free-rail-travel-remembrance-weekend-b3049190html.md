@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/05/27/13/2245249847..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- Cenotaph
+- London
+- US
+people:
+- Calvin Bailey
+- Mikki Brett
+- Stuart Brett
+organisations:
+- Department for Transport
+- Government
+- Ministry of Defence
+- National Rail
+- RAF
+- Royal Navy
+- Weapons Engineering
 ---
 
 Free rail transport will be provided over Remembrance weekend to the bereaved relatives of armed forces personnel killed in service, under a new Ministry of Defence initiative.

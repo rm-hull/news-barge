@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- NHS
+- North Durham
+- Stanley
+people:
+- Catriona Dunbar
+- Kelly Angus
+- Paul Dunbar
+organisations:
+- Darlington NHS Foundation Trust
+- Durham Police
+- Hudgell Solicitors
+- University Hospital
 ---
 
 A County Durham breast cancer patient has said an NHS apology cannot make up for years of “continued torment” after the trust admitted her care fell below expected standards.

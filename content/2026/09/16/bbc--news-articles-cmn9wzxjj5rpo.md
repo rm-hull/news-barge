@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Broughton
+- Cineworld
+- Flintshire
+- Wales
+- Wrexham Maelor Hospital
+people:
+- Alfie
+- Baby Elsie Lamb
+- Broughton Molly
+- Cineworld Broughton
+- Elsie Lamb
+- Hagrid
+- Harry Potter
+- Leah Prytherch
+- Michelle McClean
+- Molly Connah
+- Scott
+organisations:
+- Cineworld
+- Hogwarts
+- Philosopher's Stone
+- Starbucks
 ---
 
 ![A baby in a red baby grow](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/58f2/live/f5e7a2e0-b104-11f1-bc1f-3f186ca4140c.jpg)

@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Pets & Animals
+locations:
+- Adramytteion
+- Aegean
+- North Africa
+- North Hall
+- Roman Egypt
+- Turkey
+people:
+- Hüseyin Murat Özgen
+organisations:
+- Adramytteion
+- Journal of Mosaic Research
+- Live Science
 ---
 
 Unique mosaic engravings unearthed at the ruins of a Roman-era villa in Turkey could be memorialising its rich owner’s beloved pet dog “Ocean” and cat “Emerald”, archaeologists say.

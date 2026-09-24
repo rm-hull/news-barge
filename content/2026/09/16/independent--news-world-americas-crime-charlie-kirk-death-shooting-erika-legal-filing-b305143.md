@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Losee Center
+- Sorenson Center
+- Utah
+people:
+- '![Kirk'
+- Astrid Tuminez
+- Charlie Kirk
+- D. Loren Washburn
+- Jeffrey Long
+- Trump
+- Tyler Robinson
+organisations:
+- Associated Press
+- Point USA
+- TPUSA
+- The Independent
+- Turning Point USA
+- UVU Parties
+- Utah Attorney General’s Office
+- Utah Valley University
 ---
 
 The family of Charlie Kirk has filed a notice that they intend to sue Utah Valley University, claiming that a “series of stunning failures and reckless decisions” led to the conservative activist’s assassination during an event on campus last year.

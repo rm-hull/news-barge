@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Mandy Johns
+- Marloes Sands
+- Milford Haven
+- Pembrokeshire
+- Yorkshire
+people: []
+organisations:
+- '## Body'
+- HM Coastguard
+- Newsquest
+- RNLI
+- The Press
 ---
 
 ## Body found in search for teenager from Yorkshire swept out to sea

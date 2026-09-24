@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21473253.jpg?type=og-image&xType=0&yType=31
+locations:
+- Bournmoor
+- Chester-le-Street
+- Grasmere Terrace
+- North Durham
+- University Hospital
+people:
+- Brandon Turnbull’
+- Brandon William Turnbull
+- Caoimhe Bicknell
+- Charlie Thompson
+- Miss Bicknell
+- Tom Mitchell
+organisations:
+- A&E
+- Durham Constabulary
+- Durham Crown Court
+- Mazda
+- Mercedes
 ---
 
 *(Image: Durham Constabulary)*

@@ -15,6 +15,35 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Charles de Galle Airport
+- Coventry
+- Europe
+- France
+- Hungary
+- Luton
+- Paris
+- Rotherham
+- UK
+- VIETNAM
+- Vietnam
+- Wigan
+people:
+- Lia Chen Trong
+- Lia-Chien Trong
+- Quang Van Nguyen
+- Sara-Jayne Moore
+- Sy Trai Ho
+- Van Huy Nguyen
+- Vinh Van Nguyen
+organisations:
+- Facebook Messenger
+- Leamington Spa
+- Leeds
+- Liverpool
+- NCA
+- National Crime Agency
+- Rugby
 ---
 
 # Smuggling gang who referred to migrants as 'chickens' jailed for almost 40 years

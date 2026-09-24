@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg
+locations: []
+people:
+- Mikel Arteta
+organisations:
+- Arsenal
+- BBC Sport
+- Gunners
 ---
 
 ![Mikel Arteta pictured on the touchline looking into the distance](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg)

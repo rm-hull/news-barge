@@ -14,6 +14,23 @@ categories:
 - York
 - Personal Finance & Investing
 - News & Politics
+locations:
+- England
+- Filey
+- North Yorkshire
+people:
+- Carl Les
+- Chris Hall
+organisations:
+- Government
+- LDRS
+- Local Democracy Reporting Service
+- Malton Area Committee
+- North Yorkshire Council
+- SHOUT
+- Second Homeowners Opposed to Unfair Taxation
+- Second Homes Council Tax Housing Fund
+- Thirsk
 ---
 
 A petition demanding the suspension of a 100 per cent council tax premium on second homes in North Yorkshire will be debated by councillors.

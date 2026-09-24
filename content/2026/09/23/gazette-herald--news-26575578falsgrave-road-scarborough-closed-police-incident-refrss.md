@@ -13,6 +13,18 @@ categories:
 - Travel
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21492498.jpg?type=og-image&xType=0&yType=649
+locations:
+- Falsgrave Road
+- North Yorkshire
+- North Yorkshire Police
+- Roscoe Street
+- Scarborough
+- Seamer Road
+- Victoria Road
+- York
+people: []
+organisations:
+- Sainsbury's
 ---
 
 *(Image: North Yorkshire Police)*

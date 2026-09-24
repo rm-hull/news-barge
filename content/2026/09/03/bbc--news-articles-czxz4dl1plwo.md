@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Birmingham
+- Clacton
+- London
+- New York
+- UK
+people:
+- Allister Heath
+- Jordan Bardella
+- Liz Truss
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+organisations:
+- Birmingham NEC
+- Houses of Parliament.
+- Labour
+- Reform UK
 ---
 
 ![Robert Jenrick](https://ichef.bbci.co.uk/ace/standard/888/cpsprodpb/740c/live/5eadba50-a7bc-11f1-b5cf-8556ae508a51.png)

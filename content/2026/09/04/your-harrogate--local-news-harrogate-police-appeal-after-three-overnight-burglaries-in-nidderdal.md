@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - News & Politics
 - True Crime
+locations:
+- Dacre Banks
+- Nidderdale
+- North Yorkshire
+- Pateley Bridge
+- Summerbridge
+people:
+- DS Barker
+- Tom Barker
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9a68a271a249d99d5.jpg) 

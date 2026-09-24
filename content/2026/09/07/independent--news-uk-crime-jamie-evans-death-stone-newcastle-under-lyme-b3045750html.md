@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Newcastle-under-Lyme
+- Orme Road
+- Stone
+people:
+- Jamie Evans
+organisations:
+- Norton-in-Hales Cricket Club
+- Staffordshire Police
 ---
 
 A man who was found with a fatal stab wound following a car crash has been described by his family as “a wonderful son, loving brother and doting uncle”.

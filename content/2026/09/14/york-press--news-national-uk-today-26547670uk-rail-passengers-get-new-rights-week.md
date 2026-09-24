@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Avanti West Coast
+- East Midlands Railway
+- Great British Railways
+people:
+- Alex Robertson
+- James Manning
+- Lord Hendy
+organisations:
+- Chiltern Railways
+- CrossCountry
+- Department for Transport
+- GWR
+- Hitachi
+- National Rail
+- PA Wire
+- Transport Focus
+- Watchdog
 ---
 
 *(Image: James Manning/PA Wire)*

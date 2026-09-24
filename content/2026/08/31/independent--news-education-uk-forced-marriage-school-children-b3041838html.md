@@ -12,6 +12,20 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- Derby
+- England
+- UK
+- Wales
+people:
+- Dame Jasvinder
+- Jasvinder Sanghera
+organisations:
+- Department for Education
+- FMU
+- Freedom of Information
+- Home Office
+- Press Association
 ---
 
 At least 100 children aged 12 or younger have been referred to the government’s forced marriage unit over the last five years, figures show, alongside warnings from a campaigner that "there will be missing children" when schools re-open after the summer holidays.

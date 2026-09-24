@@ -13,6 +13,35 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Brussels
+- Crimea
+- Dublin
+- East-West
+- Gaza
+- Iran
+- Iraq
+- Ireland
+- Middle East
+- Moscow
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- US
+- Ukraine
+- United Kingdom
+- West Bank
+people:
+- Donald Trump
+- Kaja Kallas
+- Simon Harris
+- Tánaiste
+organisations:
+- '## World'
+- EU Council
+- Economic and Finance Council
+- Euronews
+- European Commission
 ---
 
 ## The Irish Finance Minister hit back against claims made by the US that Ukraine is causing the global energy crisis, saying de-escalation in the Middle East is the only solution.

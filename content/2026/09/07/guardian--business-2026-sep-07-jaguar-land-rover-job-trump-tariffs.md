@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Britain
+- Coventry
+- Europe
+- Manufacturing Technology Centre
+- Merseyside
+- Solihull
+- UK
+- US
+- Warwickshire
+- West Midlands
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Jonathan Reynolds
+- Liam Byrne
+- PB Balaji
+- Richard Parker
+- Sharon Graham
+- Stellantis
+organisations:
+- BYD
+- Chery
+- Commons
+- Defender
+- Guardian
+- JLR
+- Jaecoo
+- Jaguar Land Rover
+- Omoda
+- Range Rover
+- Society of Motor Manufacturers and Traders
+- Tata
+- Trump
+- Unite
+- Volkswagen
 ---
 
 Jaguar Land Rover has announced thousands of job cuts in a “body blow for workers” as it grapples with tough trading conditions, Donald Trump’s tariff wars and the fallout from a cyber-attack.

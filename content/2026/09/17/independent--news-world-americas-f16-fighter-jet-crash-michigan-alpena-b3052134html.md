@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Alpena
+- Detroit
+- Joint Base
+- Mich.
+- Michigan
+- San Antonio-Lackland
+- Southern California
+- Texas
+- Traverse City
+people:
+- Derek Gutierrez
+- Fred Sobeck
+- Wendy Sobeck
+organisations:
+- 149th Fighter Wing
+- Air Force
+- Air Force Safety Center
+- Co Rd 633
+- Grand Traverse County Emergency Management
+- Jefferson Pl
+- National Guard
+- Thunderbirds
 ---
 
 A pilot ejected before a Texas-based F-16 fighter jet crashed and burst into flames in Michigan Thursday during a training exercise.

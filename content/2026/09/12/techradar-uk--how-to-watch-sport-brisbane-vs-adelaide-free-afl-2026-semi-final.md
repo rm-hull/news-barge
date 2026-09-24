@@ -12,6 +12,49 @@ image: https://cdn.mos.cms.futurecdn.net/pqa2z87q6pBmZD8WH6zuNa-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Abu Dhabi
+- Adelaide
+- Australia
+- Brisbane
+- Canada
+- London
+- UK
+- US
+- uk
+people:
+- Adrian Back
+- Chris Fagan
+- Izak Rankine
+- Matthew Nicks
+- Zac Bailey
+organisations:
+- 7Plus
+- AFL
+- Adelaide
+- Brisbane Lions
+- Cats
+- Essendon Bombers
+- FS2
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Geelong
+- NBA
+- Newsweek
+- Red Bull
+- SCG
+- Swans
+- Sydney
+- TNT Sports
+- TSN
+- TechRadar
+- The Crows
+- The Gabba.
+- Virgin Media
+- Western Bulldogs
+- World Soccer Magazine
+- Yahoo
 ---
 
 ![Zac Bailey of the Lions celebrates with team-mates after kicking a goal during the round 18 AFL match between Brisbane Lions and Essendon Bombers at The Gabba.](https://cdn.mos.cms.futurecdn.net/pqa2z87q6pBmZD8WH6zuNa.jpg) 

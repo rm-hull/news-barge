@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/07/02/17/06/GettyImages-2230065133.
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Britain
+- London
+- South America
+- South Asia
+- UK
+people:
+- Jolyon Medlock
+- Yasser Qureshi
+organisations:
+- LSHTM
+- London School of Hygiene and Tropical Medicine
+- NHS England
+- UK Health Security Agency
+- UKHSA
 ---
 
 Mosquito numbers across Britain could rise in autumn following a month of mild, humid weather and rainfall, experts say.

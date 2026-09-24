@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- New York
+- Osaka
+people:
+- Allen Iverson
+- Colm Dillane
+- Elena Rybakina
+- KidSuper
+- Law Roach
+- Monse
+- Naomi Osaka
+- Thom Browne
+- Zendaya
+organisations:
+- KidSuper
+- NBA
+- New York Knicks'
+- Nike
+- Philadelphia 76ers
 ---
 
 Naomi Osaka may not have gone out of the U.S. Open with much of a bang. But she surely went out with a burst — of color, and a bit of swag.

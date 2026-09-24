@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Dacre Banks
+- North Yorkshire
+- Pateley Bridge
+- Summerbridge
+people:
+- DS Barker
+- Tom Barker
+organisations:
+- Crimestoppers
 ---
 
 *(Image: Pixabay)*

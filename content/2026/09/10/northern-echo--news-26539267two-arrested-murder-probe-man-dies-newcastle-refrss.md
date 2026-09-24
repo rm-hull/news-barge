@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brunswick Village
+- Drysdale Crescent
+- NORTHUMBRIA
+- North East
+people:
+- Barry McAtominey
+organisations:
+- Major Investigation Team
+- Northumbria Police
+- Post Office Man
 ---
 
 *(Image: NORTHUMBRIA POLICE)*

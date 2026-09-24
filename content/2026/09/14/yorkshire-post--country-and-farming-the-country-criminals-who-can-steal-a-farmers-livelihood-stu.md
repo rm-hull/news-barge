@@ -15,6 +15,34 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Brompton-on-Swale
+- Harrogate
+- Hawes
+- Leeds
+- North Yorkshire
+- Plompton
+- Richmond
+- Ripley
+- South Milford
+- South Yorkshire
+- York
+- Yorkshire Dales
+people:
+- Kilvinder Vigurs
+- Nikki Shimwell
+- Stuart Minting
+organisations:
+- Head of Crime and Operational Support
+- Kilvinder Vigurs
+- Moorcock Show
+- NRCN
+- National Rural Crime Network
+- North Yorkshire Police
+- North Yorkshire’s Rural Task Force
+- Policing and Crime
+- RTF
+- Ruswarp Livestock Auction Mart
 ---
 
 # The country criminals who can steal a farmer’s livelihood - Stuart Minting

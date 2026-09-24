@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21481270.jpg?type=og-image
+locations:
+- A66
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Lancaster Road
+- Middlesbrough
+- Redcar
+- South Bank
+people:
+- Cole Robert Worthy
+- Daryll Tomlinson
+- Jakub Matusiak
+- Makai Saddington
+- Mark Hall
+- Matthew Blades
+- Michael Robert Cahill
+- Theo Rae
+- Tom Clough
+organisations:
+- '![]()Cleveland Police'
+- A66
+- Cleveland Police
+- National Crime Agency
+- North East Regional Organised Crime Unit
 ---
 
 A series of early morning raids targeting suspected members of organised crime groups have been carried out in the wake of a fatal crash resulting in the death of two police officers.

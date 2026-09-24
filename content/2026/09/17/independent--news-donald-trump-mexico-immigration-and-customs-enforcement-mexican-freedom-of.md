@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Africa
+- Cincinnati
+- Dallas
+- Karnes County
+- Mexico
+- Salt Lake City
+- Texas
+- U.S.
+- United States
+people:
+- Donald Trump
+organisations:
+- AP
+- CBP One
+- FOIA
+- Freedom of Information Act
+- Immigration and Customs Enforcement
+- The Associated Press
+- U.S. Border Patrol
+- U.S. Customs and Border Protection
 ---
 
 Newly obtained data on the unprecedented surge of border crossings over the past decade is shedding light on who entered the U.S. and where they went. Here is some information on the crossings, the data on 4.5 million migrants, and how The Associated Press obtained and analyzed it.

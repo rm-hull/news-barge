@@ -10,6 +10,29 @@ description: Bambu Lab enters the dedicated laser market with a powerful 55W CO2
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/iiNmMH6utMyEAeS87p5edD-1200-80.jpg
+locations:
+- Bambu Lab
+- UK
+- US
+people:
+- Alastair
+organisations:
+- Air Assist
+- Bambu Lab
+- Bambu Suite
+- BirdsEye Camera
+- Creality
+- E1 Pro Air Purifier
+- Fill
+- Future
+- Glowforge
+- LaserPecker LX2
+- Line
+- R1
+- Riser Base
+- TechRadar Pro
+- Vision Encoder
+- xTool
 ---
 
 ### TechRadar Verdict

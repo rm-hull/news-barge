@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Avamet
+- Barcelona
+- Catalonia
+- Moncada
+- Olivella
+- Spain
+- Valencia
+people: []
+organisations:
+- AEMET
 ---
 
 Flooded streets, submerged cars and disrupted transport were reported across parts of Valencia and Catalonia on 17 September as torrential rain swept through eastern Spain.

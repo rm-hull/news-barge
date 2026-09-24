@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- '## Community centre'
+- Bradford
+- Community Centre
+- Glenroyd Avenue
+- Low Moor
+- Norman Lodge
+- Reform UK
+- Sedbergh Youth
+- YOUR
+people:
+- Cllr Reed
+- Ian Reed
+- Lucy O'Farrell
+organisations:
+- '## Council'
+- '## Residents'
+- Bradford Council
+- Bradford Council-operated
+- Forestry Commission
+- Public Notice Portal
+- Sedbergh Youth & Community Centre
+- Telegraph & Argus
+- Wyke
 ---
 
 ### What is the Public Notice Portal?

@@ -14,6 +14,26 @@ categories:
 - York
 - Business & Entrepreneurship
 - Travel
+locations:
+- Cyprus
+- Egypt
+- Greece
+- Las Vegas
+- New York
+- Turkey
+- UK
+people:
+- Ellie Crabbe
+organisations:
+- ABTA
+- Ascend Airways
+- Barnes Worldwide Travel
+- Barnes Worldwide Travel Ltd
+- EcoJet Airlines
+- European Cargo
+- PA Wire
+- Wayfairer Travel Limited
+- Zenith Aviation Limited
 ---
 
 *(Image: Ellie Crabbe/PA Wire)*

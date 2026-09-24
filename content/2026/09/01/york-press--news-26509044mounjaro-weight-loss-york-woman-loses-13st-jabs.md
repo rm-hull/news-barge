@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '## York'
+- Boston
+- Mounjaro
+- SWNS A YORK
+- Salem
+- USA
+people:
+- Krispy Kreme
+- Krispy Kreme Rebecca Miller
+- Mounjaro
+- Rebecca Miller
+organisations:
+- Krispy Kreme
+- Rebecca Miller
+- SWNS Rebecca
 ---
 
 ## York woman loses 13 stone on Mounjaro after giving up Krispy Kreme

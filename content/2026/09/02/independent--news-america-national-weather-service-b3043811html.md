@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Chicago River
+- DuSable Lake Shore Drive
+- Grand Avenue
+people:
+- Erica Schroeder
+organisations:
+- Chicago Department of Transportation
+- Chicago Fire Department
+- National Weather Service
+- Report for America Statehouse News Initiative
+- The Associated Press
+- ___ Mayes-Osterman
 ---
 
 A major bridge in downtown Chicago remained stuck in the raised position for more than four hours Wednesday after dangerous heat caused its components to expand.

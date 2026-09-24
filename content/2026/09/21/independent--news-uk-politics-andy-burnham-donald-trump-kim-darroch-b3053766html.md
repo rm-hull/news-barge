@@ -15,6 +15,38 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/08/27/20/2291727849..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Argentina
+- Britain
+- China
+- Denmark
+- Falklands
+- Florida
+- Greenland
+- Israel
+- Manchester
+- North Sea
+- Northern Ireland
+- PA
+- Spain
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- Lord Darroch
+- Lord Kim Darroch
+- Malcolm Rifkind
+- Niall Carson
+- Starmer
+- Xi Jinping
+organisations:
+- G20
+- Labour
+- The Independent
+- Trump
+- United Nations
 ---
 
 Andy Burnham has been reminded that “personal chemistry” is essential for him to make a success of his first meeting with Donald Trump.

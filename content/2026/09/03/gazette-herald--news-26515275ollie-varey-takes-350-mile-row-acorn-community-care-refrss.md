@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Malton
+- Norton
+people:
+- Ollie Varey
+organisations:
+- Acorn Community Care
+- English Channel
+- Rowing
 ---
 
 *(Image: Ollie Varey)*

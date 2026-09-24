@@ -12,6 +12,19 @@ description: Anker has released speakers and earphones designed to help you fall
 image: https://cdn.mos.cms.futurecdn.net/ifBZ8HpKNR4G6D6YZ4aVCj-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+- Anker
+organisations:
+- Anker SleepLab
+- Apple
+- Creative Bloq
+- Google News
+- IFA
+- MacFormat
+- TechRadar
+- iMore
 ---
 
 ![The Anker Sleep 4 earbuds on a table next to the Anker SleepLab speaker on a bedside table](https://cdn.mos.cms.futurecdn.net/ifBZ8HpKNR4G6D6YZ4aVCj.jpg) 

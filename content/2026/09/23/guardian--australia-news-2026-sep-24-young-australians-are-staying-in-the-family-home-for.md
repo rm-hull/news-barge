@@ -14,6 +14,22 @@ categories:
 - Personal Finance & Investing
 - Society & Culture
 image: https://i.guim.co.uk/img/media/186e2d7aa5b01d9417790fda5c506186508a85be/254_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b26ebaf130ec56ae5dc42e4fab2463f
+locations:
+- Adelaide
+- Australia
+- Brisbane
+- Covid-19
+- Sydney
+people:
+- Inga Lass
+- Kyle Peyton
+- Patrick Commins
+organisations:
+- Guardian Australia
+- Melbourne Institute of Applied Economic and Social Research
+- RBA
+- Reserve Bank
+- The Hilda
 ---
 
 Every year, thousands of Australians answer a series of questions as part of the long-running Hilda survey.

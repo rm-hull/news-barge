@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fa70/live/684e0b70-b44e-11f1-ba76-4da528bd99e6.jpg
+locations:
+- Bolton
+- Brighton
+people:
+- Alan Shearer
+- Curtis Davies
+- David Raya
+- Fabian Hurzeler
+- Mikel Arteta
+organisations:
+- Arsenal
+- BBC Radio 5 Live
+- 'Brighton ##'
+- Gunners
+- Newcastle
+- Premier League
+- Seagulls
 ---
 
 Highlights: Brilliant Brighton batter Arsenal in shock first defeat as champions

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Andrew Mullinger
+- James Meekings
+- Ken Stannard
+- Lisa Jacobs
+- Mr Desai
+- Ms Jacobs
+- Samir Desai
+organisations:
+- Funding Circle
 ---
 
 Small business lender Funding Circle has revealed plans for its boss of more than four years to step down by next September as it upped its annual profit outlook.

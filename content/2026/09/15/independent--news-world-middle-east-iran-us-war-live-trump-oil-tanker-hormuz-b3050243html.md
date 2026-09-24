@@ -11,6 +11,64 @@ image: https://static.independent.co.uk/2026/09/15/08/2284105153..?trim=0,0,0,1&
 categories:
 - News & Politics
 - UK
+locations:
+- Bab el-Mandeb Strait
+- Bahrain
+- Beijing
+- Cairo
+- China
+- Egypt
+- France
+- Iran
+- Iraq
+- Jeddah
+- Jordan
+- Kuwait
+- Kyrgyzstan
+- Mecca
+- Middle East
+- Moscow
+- New York
+- Oman
+- Qatar
+- Red Sea
+- Riyadh
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- Tehran
+- U.S.
+- U.S.A.
+- UAE
+- US
+- Ukraine
+- United States
+- United States of America
+- Washington
+- Yemen
+people:
+- Abbas Araghchi
+- Abdel Fattah al-Sisi
+- Donald Trump
+- Mohammed bin Salman
+- Scott Bessent
+- Wang Yi
+organisations:
+- Al-Araby Al-Jadeed
+- Congress
+- Countries of the World
+- Defense Department
+- Defense and State departments
+- Pentagon
+- Reuters
+- Treasury
+- U.S. Agency for International Development
+- UKMTO A
+- UN Security Council
+- US Air Force
+- United Kingdom Maritime Trade Operations
+- VTB Bank
 ---
 
 The US military is facing a weapons shortage after dozens of aircraft have been destroyed in its war on Iran, the Pentagon has said, as the cost of the war hit $33.4 billion (£24.8bn).

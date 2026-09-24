@@ -11,6 +11,30 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Adessia Stream
+- Britain
+- Derby
+- Hull
+- Litchurch Lane
+- Liverpool Lime Street
+- Manchester Airport
+- North
+- Pennines
+- Saltburn
+- Scarborough
+- UK
+- York
+people:
+- Andy Burnham
+- Heidi Alexander
+organisations:
+- Alstom
+- British Railways
+- Government
+- Manchester Piccadilly
+- Rock Rail
+- TransPennine Express
 ---
 
 A £1 billion investment into 29 new battery-electric trains will “bring faster, more reliable journeys to the North”, Andy Burnham has said.

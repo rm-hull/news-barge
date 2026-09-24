@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/01/14/2187869220..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations: []
+people:
+- Anderson Cooper
+- Bari Weiss
+- Cecilia Vega
+- David Ellison
+- Donald Trump
+- Kamala Harris
+- Nick Bilton
+- Scott Pelley
+- Sharyn Alfonsi
+- Tanya Simon
+organisations:
+- CBS News
+- Paramount
+- Trump
+- Weiss
 ---
 
 When CBS’s venerable newsmagazine "60 Minutes" launched its 59th season on Sunday night, it made no direct mention of the turmoil and staff departures unfolding behind the scenes in recent months.

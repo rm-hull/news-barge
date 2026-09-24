@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/09/17/12/2295089139..?trim=2,0,2,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Grand Foyer
+- Joint Base Andrews
+- Kennedy Center
+- Maryland
+- North Carolina
+- Ohio
+- Washington, D.C.
+people:
+- Brendan Smialowski
+- Christoper Cooper
+- Christopher Cooper
+- Donald Trump
+- Getty
+- John F Kennedy
+- Joyce Beatty
+- Michael Whatley
+- Roma Daravi
+organisations:
+- 35th
+- AFP
+- Air Force One
+- Congress
+- DOJ
+- Department of Justice
+- Kennedy Center
+- Kennedy Center Dem
+- Real America’s Voice
+- Senate
+- Trump
 ---
 
 President Donald Trump has been photographed perusing a booklet apparently outlining the demolition of the Kennedy Center, just a day after the performing arts venue’s board voted to close it for repairs.

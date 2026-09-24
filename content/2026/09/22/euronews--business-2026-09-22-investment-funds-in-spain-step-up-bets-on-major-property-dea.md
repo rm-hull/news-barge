@@ -15,6 +15,53 @@ categories:
 - Business & Entrepreneurship
 - Real Estate
 image: https://images.euronews.com/articles/stories/09/91/74/28/1200x675_cmsv2_29968e66-9c32-5b4d-830d-5dd35275cc17-9917428.jpg
+locations:
+- Barcelona
+- City of Madrid
+- Europe
+- L'Hospitalet de Llobregat
+- Los Cerros
+- Spain
+- US
+- Valdebebas
+- Vicálvaro
+people:
+- Alejandro Ibáñez Maltés
+- Patrizia
+organisations:
+- '** Oaktree**'
+- Ares Management
+- Aurora Homes
+- Azora**
+- BBVA Research
+- Bank of Spain
+- BeCorp
+- Blackstone
+- Blackstone**
+- Brookfield
+- C&W
+- CBRE IM
+- CIS
+- CaixaBank
+- Cerberus
+- Comunidad de Madrid
+- Culmia
+- Culmia**
+- Cushman & Wakefield
+- DWS
+- European Central Bank
+- Fidere
+- General Council of Notaries
+- Generalitat Valenciana
+- Grupo Ferrocarril
+- INE
+- MEAG**
+- National Statistics Institute
+- Oxford Economics
+- Plan Vive
+- Renta Corporación
+- SOCIMI
+- Santander
 ---
 
 ## The lack of transparency over property ownership makes it hard to track the share held by big landlords and new players, or to get a real-time picture of the market.

@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/6aac06396dbc58f5160.jpg
+locations:
+- Knaresborough
+- Range Rover
+- Tentergate Road
+people: []
+organisations:
+- Fiona.Marshall
+- North Yorkshire Police
+- northyorkshire.police.uk
 ---
 
 ![](https://mmo.aiircdn.com/409/6aac06396dbc58f5160.jpg)

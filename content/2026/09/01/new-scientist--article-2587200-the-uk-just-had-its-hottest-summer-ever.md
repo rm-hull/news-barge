@@ -12,6 +12,19 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310251909.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- England
+- Kew Gardens
+- London
+- Norfolk
+- UK
+people:
+- Amy Doherty
+- Mark McCarthy
+- Ruth Fuller
+organisations:
+- Met Office
+- World Wildlife Fund
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310251909.jpg?w=840)

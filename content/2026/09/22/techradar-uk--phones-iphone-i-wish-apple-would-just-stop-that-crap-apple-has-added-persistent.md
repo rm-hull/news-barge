@@ -11,6 +11,23 @@ description: iOS users are complaining that Apple is placing ‘ads’ for its o
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/sMMYYw2WasgE4m4saLhZ9M-2560-80.jpg
+locations: []
+people:
+- Alex Blake
+organisations:
+- Apple Maps
+- Apple Music
+- Apple TV
+- AppleCare
+- Creative Bloq
+- Google News
+- MacFormat
+- Microsoft
+- Reddit
+- TechRadar
+- iCloud
+- iMore
+- iPhone
 ---
 
 ![A man looking frustrated at his mobile phone](https://cdn.mos.cms.futurecdn.net/sMMYYw2WasgE4m4saLhZ9M.jpg)

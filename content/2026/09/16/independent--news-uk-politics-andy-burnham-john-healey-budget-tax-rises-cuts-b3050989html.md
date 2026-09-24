@@ -14,6 +14,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Jack Taylor
+- John Healey
+- Neil Shearing
+- Rachel Reeves
+- Ruth Curtice
+organisations:
+- Bank of England
+- Capital Economics
+- ONS
+- Office for Budget Responsibility
+- Office for National Statistics
+- Resolution Foundation
+- The Times
 ---
 
 Andy Burnham will need to find as much as £10bn in tax rises or spending cuts in his first budget as the impact of the war in Iran bites on Britain’s economy, it is claimed.

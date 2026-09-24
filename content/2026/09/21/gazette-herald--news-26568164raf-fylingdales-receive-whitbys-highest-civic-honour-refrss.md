@@ -13,6 +13,30 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21481617.jpg?type=og-image
+locations:
+- Freedom of the Town of Whitby
+- North York Moors
+- North Yorkshire
+- RAF Station
+- Scarborough Cliff Lift
+- UK
+- United Kingdom
+people:
+- Alison Hume
+- Toby Steward
+organisations:
+- Corps of Royal Electrical and Mechanical Engineers
+- Freedom of the Town
+- Google Maps
+- Newsquest
+- RAF Fylingdales
+- REME
+- Raf Fylingdales
+- Royal Air Force
+- UK’s Space Command
+- US Governments
+- Whitby Town Council
+- Wing
 ---
 
 An RAF base which began operations in the 1960s in North Yorkshire will receive the ‘highest honour’ from a local council at a special meeting this week.

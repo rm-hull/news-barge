@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/SLBsDP3URxp7hQv67AsQ6X-1920-80.jpg
+locations:
+- Agave
+- Australia
+- Black
+- Sand
+- UK
+- US
+people:
+- Brylho
+- Elio
+- Godzilla
+- Harry Padoan
+- Jansons
+- Sonos
+organisations:
+- ANC
+- Ace Ultra
+- Bose
+- Bowers & Wilkins
+- Bowers & Wilkins Px7 S3
+- Dolby Atmos
+- EQ
+- Headphone Linking
+- LDAC
+- Sonos Beam Ultra
+- Sony WH-1000XM6
+- TV Audio Swap
+- TechRadar
 ---
 
 ### TechRadar Verdict

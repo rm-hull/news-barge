@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Film & TV
 - Music
+locations:
+- County Durham
+- Darlington
+- North East
+- UK
+people:
+- Agatha Christie
+- Al Murray
+- Brian McFadden
+- Chris Ramsey
+- Derek Jacobi
+- Gareth Gates
+- Giovanni Pernice
+- Harry Enfield
+- Henry VIII
+- Jane Austen
+- Kai Widdrington
+- Keith Duffy
+- Khaled Hosseini
+- Matt Terry
+- Miriam Margolyes
+- Omid Djalili
+- Seann Walsh
+organisations:
+- Countryfile TV
+- Darlington Hippodrome
 ---
 
 *(Image: Supplied)*

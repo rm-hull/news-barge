@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Huntington
+- The Old Village
+- York
+people:
+- Ana Mattless
+- Babs
+- Don
+organisations:
+- Blacksmiths Arms
+- Facebook
+- Stonegate Group
 ---
 
 A York pub closed since March is preparing to reopen.

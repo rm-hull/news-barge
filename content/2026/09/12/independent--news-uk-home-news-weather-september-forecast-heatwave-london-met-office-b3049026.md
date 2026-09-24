@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- 21C
+- 22C
+- Cardiff
+- England
+- Kew Gardens
+- London
+- Manchester
+- Midlands
+- North Atlantic
+- Northern Ireland
+- Plymouth
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 Summer-like temperatures are set to return early next week following a rainy start to September, with temperatures set to soar to 25C.

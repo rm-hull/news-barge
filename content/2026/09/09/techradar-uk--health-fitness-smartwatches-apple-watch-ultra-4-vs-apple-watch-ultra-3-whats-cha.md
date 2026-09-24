@@ -11,6 +11,23 @@ description: We've compared the specs, features and prices of Apple's latest Ult
 image: https://cdn.mos.cms.futurecdn.net/CDCmiReKGE8kxiCqradbrC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cardiff
+people:
+- Matt Evans
+- Siri Recap
+organisations:
+- Apple Intelligence-forward
+- Apple Watch
+- Apple Watches
+- Garmin
+- Google News
+- Men's Health
+- Runner's World
+- Siri AI
+- TechRadar
+- Whoop Age
+- Whoop's
 ---
 
 ![Apple Watch Ultra 4 vs Apple Watch Ultra 3 on-wrist](https://cdn.mos.cms.futurecdn.net/CDCmiReKGE8kxiCqradbrC.jpg) 

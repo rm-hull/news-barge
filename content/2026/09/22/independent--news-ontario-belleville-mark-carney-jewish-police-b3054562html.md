@@ -13,6 +13,23 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/21/Canada_Shooting_68918.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Belleville
+- Canada
+- Jacob Synagogue
+- Ontario
+- Quinte West
+- Sons of Jacob
+- Yom Kippur
+people:
+- Mark Carney
+- Sean Ward
+- Yom Kippur
+organisations:
+- Canadian Armed Forces
+- Department of National Defense
+- SIU
+- Special Investigations Unit
 ---
 
 A 29-year-old man suspected of opening fire on a police officer stationed outside an Ontario synagogue during Yom Kippur has died from his injuries, the province’s police watchdog said Tuesday.

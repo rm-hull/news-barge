@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Cushendall
+- Glenarm
+- Larne Coastguard
+- Oban
+- Portugal
+- Red Bay
+- Red Bay RNLI
+- Scotland
+people:
+- Coxswain Paddy McLaughlin
+- Paddy McLaughlin
+organisations:
+- Belfast Coastguard
+- Force
+- Mayday
+- Red Bay RNLI
+- Red Bay RNLI Coxswain
 ---
 
 Six sailors have been rescued by the RNLI after a dramatic seven-hour overnight rescue in gale-force conditions off the coast of Cushendall.

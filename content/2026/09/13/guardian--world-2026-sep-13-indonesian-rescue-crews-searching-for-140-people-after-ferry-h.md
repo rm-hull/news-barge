@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Banjarmasin
+- Borneo
+- East Java
+- Indonesia
+- Java Sea
+- South Kalimantan
+- Surabaya
+people:
+- I Putu Sudayana
+organisations:
+- Virgo Transport 8
 ---
 
 Indonesian rescuers were searching on Sunday for 140 people from a passenger ship that was earlier reported missing in the Java Sea after 103 others were evacuated, one of whom died, a search and rescue agency official said.

@@ -11,6 +11,13 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- South Essex
+people:
+- Agboola Obanubi
+organisations:
+- JCIO
+- Judicial Conduct Investigations Office
 ---
 
 A magistrate has been disciplined after he took a knife in his bag to court.

@@ -13,6 +13,15 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- Great Britain
+- UK
+people: []
+organisations:
+- Argos
+- City Plumbing
+- Green2Go
+- Lidl
 ---
 
 # Best UK plug-in solar kits as prices start from £349.99

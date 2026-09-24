@@ -13,6 +13,21 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations:
+- Bengaluru
+- Denmark
+- India
+- West Bengal
+people:
+- Andreas Laustsen
+- Kartik Sunagar
+organisations:
+- IISc
+- Indian Institute of Science
+- Naja kaouthia
+- Naja naja
+- Technical University of Denmark
+- Western Ghats of India
 ---
 
 Scientists from India and Denmark have developed an antivenom cocktail that offers broad protection against venom from diverse cobra species, a game-changer that could prevent thousands of deaths worldwide.

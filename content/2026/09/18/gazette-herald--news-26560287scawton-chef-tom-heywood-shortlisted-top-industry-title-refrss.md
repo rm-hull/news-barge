@@ -14,6 +14,24 @@ categories:
 - York
 - Sports
 - Food & Cooking
+locations:
+- Scawton
+- UK
+people:
+- David Mulcahy
+- Mark Birchall
+- Tom Heywood
+- Tony Johnstone-Burt
+organisations:
+- Cookery and Food Association
+- Craft Guild of Chefs
+- DL
+- Duchess of Edinburgh KCVO CD
+- KCVO, CB
+- Le Cordon Bleu London
+- Moor Hall
+- OBE
+- Pignut & The Hare
 ---
 
 *(Image: Freelancer)*

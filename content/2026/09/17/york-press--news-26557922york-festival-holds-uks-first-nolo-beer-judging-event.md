@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Kings Square
+- St Lawrence Church
+- Victoria
+- York
+people:
+- Andy Mee
+- Darren Greenwood
+- Kaan Cetin
+- Nadine Waehning
+- Paul [Crossman
+- Sam Armstrong
+- Victoria Wells
+organisations:
+- '## York CAMRA'
+- Duke of York
+- Pubs
+- School for Business and Society
+- Slip Inn
+- Sustainable Management
+- The Alcohol Free Drinks Company
+- The NoLo
+- The Swan
+- University of York
+- Victoria Wells
+- York CAMRA
+- York Camra
+- York St John
+- York University
 ---
 
 ## York CAMRA makes UK-first move with award for best NoLo beer

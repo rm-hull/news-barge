@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- South America
+- UK
+people:
+- Fiona Osgun
+- Keren Papier
+- MTPak Coffee
+organisations:
+- Cancer Research UK
+- International Journal of Cancer
+- Oxford University
 ---
 
 ![A woman reaches her hand out to pick up a steaming hot mug which is shiny and green-coloured](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/779f/live/b37430c0-aaa8-11f1-9eba-7de947fa7cd1.jpg)

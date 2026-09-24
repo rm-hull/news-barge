@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478364.jpg?type=og-image
+locations:
+- M62
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 A MOTORWAY has reopened after a woman was injured when she fell from a bridge.

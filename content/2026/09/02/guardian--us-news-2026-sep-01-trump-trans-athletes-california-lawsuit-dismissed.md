@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Society & Culture
 - Sports
+locations:
+- California
+- Idaho
+- US
+- West Virginia
+people:
+- Cynthia Valenzuela
+- Donald Trump
+- Trevor Norcross
+organisations:
+- California Interscholastic Federation
+- Court
+- Department of Justice
+- DoJ
+- Rainbow Families Action
+- Trump
 ---
 
 A federal judge has dismissed the Trump administration’s lawsuit challenging California’s policy of allowing transgender youth to play on sports teams that match their gender, a major loss for Donald Trump and the Department of Justice (DoJ).

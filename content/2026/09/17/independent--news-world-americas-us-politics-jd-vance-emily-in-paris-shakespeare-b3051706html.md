@@ -14,6 +14,26 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 - Arts & Culture
+locations:
+- America
+- Paris
+- Shakespeare
+- U.S.
+people:
+- Brian Moylan
+- Darren Star
+- Emily
+- Gabriel
+- JD Vance
+- Lily Collins
+- Lucas Bravo
+- Shakespeare
+organisations:
+- Instagram
+- MS
+- Netflix
+- The Daily Telegraph
+- TikTok
 ---
 
 Vice President JD Vance has revealed he is a fan of the Netflix romantic comedy series *Emily in Paris*, offering a “meta analysis” of its meaning and calling showrunner Darren Star “the Shakespeare of our time.”

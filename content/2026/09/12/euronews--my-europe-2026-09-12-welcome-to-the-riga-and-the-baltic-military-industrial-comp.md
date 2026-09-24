@@ -14,6 +14,74 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Australia
+- Baltics
+- Belgium
+- Brussels
+- Canada
+- Chișinău
+- Europe
+- Gaza
+- Israel
+- Latvia
+- Malta
+- Msida
+- Norway
+- Oslo
+- Palestine
+- Republic of Moldova
+- Riga
+- Rigan
+- Russia
+- Soviet Union
+- Svalbard
+- Syria
+- Twin Towers
+- US
+- Ukraine
+- West Bank
+people:
+- '**Vincenzo Genovese**'
+- Andrius Kubilius
+- Angela Skujins
+- Eleonora Vasques**
+- Espen Barth Eide
+- Gael Camba
+- Gideon Sa’ar
+- Glenn Micallef
+- Hadja Lahbib
+- Jorge Liboreiro
+- Jorge**
+- Kyiv
+- Kyrylo Budanov**
+- Luca Bertuzzi
+- Maia Sandu
+- Maria Tadeo**
+- Mario Draghi
+- Peggy Corlin
+- Ursula von der Leyen
+- Valdis Dombrovskis
+- Vincenzo Genovese
+- Von der Leyen
+organisations:
+- 31 North Atlantic Treaty Organisation
+- Draghi
+- EU Commission
+- EU-Ukraine Drone Alliance
+- Economy
+- Equality, Preparedness and Crisis Management
+- Euronews
+- European Commission
+- European Parliament
+- European Union
+- European Union Agency for Asylum
+- Hamas
+- NATO
+- Patriots
+- Reuters
+- Rīga Conference
+- State of the European Union
 ---
 
 ## Good morning. Angela Skujins penning this Friday newsletter from the bitter Baltics, where I’ve just spent the last few days immersed in beetroot soup, battlefield tactics and the scintillating spirit of the rīdzinieki, aka Rigan people.

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Africa
+- Burkina Faso
+- Diori Hamani International Airport
+- France
+- Mali
+- Niamey
+- Niger
+- Plateau
+- Presidential Palace
+- Sahel
+- United States
+people:
+- Bana Wagana Ibrahim
+organisations:
+- AP
+- Associated Press
+- Defense of the Fatherland
+- National Council for the Safeguard of the Homeland
+- Niger-Burkina Faso-Mali
+- Our Defence and Security Forces
+- RTN
 ---
 
 Heavy gunfire and explosions were heard overnight into Saturday morning in Niger’s capital of Niamey, including near the main airport and in an area housing the presidential palace, according to an Associated Press witness and local media.

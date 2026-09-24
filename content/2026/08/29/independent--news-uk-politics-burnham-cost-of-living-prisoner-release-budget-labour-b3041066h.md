@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/08/28/16/6f69bbd8098626e7f3cf78f821
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- England
+- Wales
+- Westminster
+people:
+- Alan Milburn
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Jessie Cole
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Rachel Reeves
+- Stephen Timms
+organisations:
+- Burnham
+- Cornwall Insight
+- IPP
+- Imprisonment for Public Protection
+- Labour Party
+- Ofgem
+- Pip
+- Reform
+- The Independent
 ---
 
 Andy Burnham will return to parliament on Tuesday, no doubt buoyed by an overwhelming public support for the Labour Party since he took office.

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- County Durham
+- Rome
+- UK
+people:
+- Amanda Owen
+- Francis’
+- Instagram
+- Maryam Moshiri
+- Raven
+- Ravenseat
+organisations:
+- BBC News
+- Blood Cancer UK
+- Moshiri
+- PA
+- The Times
 ---
 
 *(Image: PA)*

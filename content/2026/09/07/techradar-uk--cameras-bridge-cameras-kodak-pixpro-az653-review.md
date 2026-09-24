@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/MGtqhXHhd4FiYQYtGH2Kc9-2560-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- UK
+people:
+- Peter Fenech
+organisations:
+- AF
+- AZ653
+- Canon EOS
+- Digital Photographer Magazine
+- EFL
+- EVF
+- Fujifilm X-T5
+- ISO
+- Kodak
+- LCD
+- Sony a7C II
 ---
 
 ### TechRadar Verdict

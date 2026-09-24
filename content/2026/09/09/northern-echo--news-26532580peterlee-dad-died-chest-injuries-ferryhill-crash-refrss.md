@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Automotive
 - True Crime
+locations:
+- A167
+- County Durham
+- Crook Coroners’ Court
+- DURHAM
+- Darlington
+- Ferryhill
+- NORTHERN ECHO
+- Newcastle
+- Newcastle’s Freeman Hospital
+- Peterlee
+- UK
+people:
+- Dylan
+- Jeremy Chipperfield
+- Sam Hoggard
+- Sean Forster
+organisations:
+- A167
+- CFO
+- Yamaha
 ---
 
 *(Image: DURHAM POLICE / NORTHERN ECHO)*

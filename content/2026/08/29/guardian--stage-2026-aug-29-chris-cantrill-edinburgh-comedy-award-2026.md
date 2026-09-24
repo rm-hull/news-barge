@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Bradford
+- Edinburgh
+- Limerick
+- Northumberland
+people:
+- Amy Gledhill
+- Bridget Christie
+- Chris Cantrill
+- Easily Swayed
+- Emma Brünjes
+- Frank Skinner
+- Harry Hill
+- Jonathan Oldfield
+- Lara Ricote
+- Li Jin Hao
+- Liebenspiel
+- Lorna Rose Treen
+- Marty Gleeson
+- Marty Gleeson.
+- Nica Burns
+- Sarah Millican
+- Steve Coogan
+organisations:
+- BBC Radio 4
+- Crybabies
+- Elf Lyons
+- Perrier
 ---
 
 The annual Edinburgh comedy award has been won by the standup Chris Cantrill, two years after his comedy partner Amy Gledhill – in the raucous northern double act The Delightful Sausage – won the same prize.

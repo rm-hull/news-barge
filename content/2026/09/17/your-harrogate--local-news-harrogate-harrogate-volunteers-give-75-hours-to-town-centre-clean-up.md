@@ -12,6 +12,11 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://mmo.aiircdn.com/409/6aab93a012522934f7f.jpg
+locations:
+- Harrogate
+people: []
+organisations:
+- Harrogate BID
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab93a012522934f7f.jpg)

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Durham
+- North East
+- Stockton
+- Sudan
+people:
+- Malcolm Brechin
+- Richard Lowes
+- Sam Whisker
+organisations:
+- A66
+- AI
+- Belmont Business Park
+- Bid King
+- East London University
+- Invent Group
+- MBA
+- NHS
 ---
 
 *(Image: Invent Group)*

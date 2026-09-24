@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Mexico
+- San Diego
+- Tijuana
+- US
+- Águila Alta
+people:
+- Ronald Johnson
+organisations:
+- AeroVironment
+- Armed Forces
+- High Eagle
+- SEDENA
+- Secretariat of National Defense
+- US Army
+- US Department of Defense
+- US Northern Command
+- US-Mexico Bilateral Implementation Group
 ---
 
 Defense agencies of Mexico and the US have announced they are implementing a new collaborative strategy to combat drones used by criminal organizations. The operation, dubbed High Eagle, or Águila Alta, builds on recent tests of anti-drone technologies carried out along the border between the two countries.

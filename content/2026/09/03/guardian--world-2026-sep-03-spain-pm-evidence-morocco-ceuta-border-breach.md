@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Ceuta
+- Denmark
+- Europe
+- Greenland
+- Italy
+- Lampedusa
+- Madrid
+- Melilla
+- Morocco
+- Rabat
+- Spain
+people:
+- Abdellatif Ouahbi
+- Aina Vidal
+- Alberto Núñez Feijóo
+- Jakub Krupa
+- Pedro Sánchez
+- Santiago Abascal
+- Vox
+organisations:
+- EU
+- European Commission
+- People
+- Sumar
+- Vox
 ---
 
 Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, the Spanish prime minister, Pedro Sánchez, has told parliament.

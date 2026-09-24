@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- French Riviera
+- Hollywood
+- Italy
+- Netherlands
+- New York
+- Paris
+- U.S.
+people:
+- Angela Charlton
+- Arthur Brand
+- Bryan Masson
+- Christopher Marinello
+- Coco Reading
+- Cézanne
+- Erin Thompson
+- James Ratcliffe
+- Madame Colonna Romano
+- Madame Pichon
+- Matisse
+- Pierre-Auguste Renoir
+- Young Woman
+organisations:
+- Art Loss Register
+- Art Recovery International
+- Cagnes-sur-Mer
+- James Bond
+- John Jay College of Criminal Justice
+- Louvre Museum
+- Renoir Museum
+- ___ Associated Press
 ---
 
 Two Renoir paintings stolen from a small French museum have yet to be recovered but if the thieves are hoping to cash in on the artwork, they would be hard-pressed to find a buyer.

@@ -14,6 +14,31 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- France
+- Frankfurt
+- Gelsenkirchen
+- Germany
+- Iran
+- Lisbon
+- Saxony-Anhalt
+- Spain
+- Strait of Hormuz
+- US
+people:
+- Christine Lagarde
+- Kevin Warsh
+- Ulrich Siegmund
+organisations:
+- BP
+- Bank of England
+- Bank of Japan
+- ECB
+- EU
+- European Central Bank
+- Fed
+- Federal Reserve
+- ING
 ---
 
 ## The European Central Bank is all but certain to raise interest rates on Thursday, with investors pricing the move at near-total probability, but the decision is more awkward than the numbers suggest as inflation is being driven almost entirely by energy with underlying pressures actually easing.

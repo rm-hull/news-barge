@@ -12,6 +12,29 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/22/15/download.-12.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- New York City
+- Press Area
+- White House
+people:
+- '**°*'
+- Anderson Cooper
+- Donald Trump
+- Dylan Mulvaney
+- Kaitlan Collins
+- Patrick W. Cutler
+organisations:
+- Fake News CNN
+- MS NOW
+- MSDNC
+- SLEAZEBAGS
+- Third Rate ‘Reporter
+- TikTok
+- Trump
+- Truth Social
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

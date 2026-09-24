@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f38d/live/5f35b580-b753-11f1-97a1-31b436cb8908.jpg
+locations:
+- Anglesey
+- Pencarnisiog
+- RAF Valley
+people: []
+organisations:
+- BBC News
+- Coastguard
+- Ministry of Defence
+- North Wales Police
+- RAF T2 Hawk
+- Royal Air Force
+- Wales Air Ambulance
 ---
 
 ![RAF T2 Hawk aircraft plane flying in the air. ](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f38d/live/5f35b580-b753-11f1-97a1-31b436cb8908.jpg)

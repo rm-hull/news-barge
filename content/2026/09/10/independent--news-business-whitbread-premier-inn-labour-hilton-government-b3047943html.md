@@ -13,6 +13,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- England
+- Europe
+- Scotland
+- UK
+- Wales
+people:
+- Hilton
+- Jon Hendry Pickup
+- Keir Starmer
+- Stephen Cassidy
+- Tim McKenzie
+- Whitbread
+organisations:
+- Butlin
+- Butlin’s
+- FSB
+- Federation of Small Businesses
+- Government
+- Hilton UK & Ireland
+- Labour
+- PA
+- Premier Inn
+- Steve Parsons
+- UKHospitality
+- Whitbread
 ---
 
 Plans to give England’s mayors the power to impose tourist taxes will be “hugely damaging” and a “kick in the teeth” for the hospitality industry, hotel and tourism firms have warned.

@@ -14,6 +14,10 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Grand Canyon
+people: []
+organisations: []
 ---
 
 Deadly flash flood forces Grand Canyon evacuations and water restrictions, in photos

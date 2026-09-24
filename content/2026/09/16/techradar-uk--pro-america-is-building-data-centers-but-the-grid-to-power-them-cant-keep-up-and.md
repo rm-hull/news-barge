@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/LfbTUMsW4jbaYYuuxc3CjT-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- America
+- Canada
+- Larderello
+- Saskatchewan
+- Tuscany
+- US
+people:
+- Craig Hale
+- Trump
+organisations:
+- Craig’s
+- Google News
+- Moody's
+- Ratepayer Protection Pledge
+- TechRadar Pro
 ---
 
 ![Industrial geothermal power plant pipelines at sunset in Larderello, Tuscany region. Steam pipes and equipment for renewable energy production with dramatic pink sky.](https://cdn.mos.cms.futurecdn.net/LfbTUMsW4jbaYYuuxc3CjT.jpg) 

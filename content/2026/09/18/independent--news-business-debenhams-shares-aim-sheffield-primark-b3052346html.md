@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Sheffield
+- US
+people:
+- Dan Finley
+- Iain McDonald
+- Michael Stewart
+- Stephen Rothwell
+- Tim Morris
+organisations:
+- Belerion Capital
+- Boohoo Group
+- Debenhams Group
+- Eagle Eye Solutions
+- Nasty Gal
+- Pretty Little Things
+- Primark
+- WSG Brands
 ---
 
 Iain McDonald has returned to Debenhams as the online fashion firm’s chairman as it continues its major turnaround programme.

@@ -11,6 +11,29 @@ image: https://i.guim.co.uk/img/media/b34a6037ec5d54ecd289711958e3558a35c0a8d0/4
 categories:
 - UK
 - News & Politics
+locations:
+- Caracas
+- Hormuz
+- Iran
+- New York
+- US
+- Venezuela
+- Washington
+- White House
+people:
+- Alejandro Betancourt
+- Chris Wright
+- Delcy Rodriguez
+- Donald Trump
+- Hugo Chávez
+- Joseph Gedeon
+- Nicolás Maduro
+- Rodríguez
+organisations:
+- Nabep
+- North American Blue Energy Partners
+- Trump
+- United Socialist party
 ---
 
 Trump administration officials on Tuesday defended a highly contentious deal giving the US control of a significant chunk of Venezuelan oil reserves, arguing that the sweeping agreement would help stabilize and rebuild democracy in the shattered South American country while giving Washington vital access to strategic crude reserves.

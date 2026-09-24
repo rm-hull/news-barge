@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Hardware
 - Film & TV
+locations:
+- Ada
+- Wild West
+people:
+- Ada
+- Blackwell
+- Jeff Kampman
+- Jeffrey Kampman
+- Tom
+organisations:
+- AAA
+- Blackwell
+- DLSS 5
+- DLSS Ray Reconstruction
+- DLSS Super Resolution
+- GPU
+- Get Tom's Hardware
+- GitHub
+- Google News
+- MFG
+- Nvidia
+- PC
+- ROG Strix XG27UCS
+- RTX
+- Ray Reconstruction
+- ReShade
+- Tom's Hardware
 ---
 
 ![Nvidia GeForce RTX 4090](https://cdn.mos.cms.futurecdn.net/Fo7xNWht4SGgq8HghfUkRB.jpg) 

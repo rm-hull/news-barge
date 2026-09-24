@@ -12,6 +12,27 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- Blue Zones
+- Born
+- Britain
+- Costa Rica
+- England
+- Hampshire
+- Nicoya Peninsula
+- Pacific
+- Sardinal
+people:
+- Ethel Caterham
+- Hellen Flores
+- Inah Canabarro Lucas
+- Jorge Vindas
+- Jose Flores
+- King Charles
+organisations:
+- Flores'
+- Guinness World Records
+- Nicoya Peninsula Blue Zone Association
 ---
 
 In the warm town of Sardinal, a 20-minute drive from the Pacific coast of Costa Rica, Jose Flores passes his days in a modest wooden home, taking naps, sharing meals cooked by his granddaughter, and engaging in friendly arm-wrestling matches with her.

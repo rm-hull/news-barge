@@ -10,6 +10,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg
+locations:
+- Merkle
+people:
+- Jason Soroko
+organisations:
+- Apple
+- CA
+- CAs
+- Chrome
+- Cloudflare
+- Future plc
+- Geomys
+- Google Trust Services
+- Google's
+- IETF
+- Let's Encrypt
+- MTC
+- MTCs Google
+- Merkle Tree Certificate
+- Merkle Tree Certificates
+- NIST
+- NSA
+- PKI
+- PQC
+- SVP of Product
+- Sectigo
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Hands on a laptop with overlaid logos representing network security](https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z.jpg)

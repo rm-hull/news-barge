@@ -11,6 +11,10 @@ image: https://media.wired.com/photos/6aa842da07b7d42ae839e279/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- Coreboot
 ---
 
 I have similar feelings about the very large glass trackpad. For things like photo editing, the trackpad's size is great, but I found my palms occasionally clicked the buttons at the bottom of the trackpad when I took a break from typing. It didn't happen often, but I learned to be careful about where I put my palms.

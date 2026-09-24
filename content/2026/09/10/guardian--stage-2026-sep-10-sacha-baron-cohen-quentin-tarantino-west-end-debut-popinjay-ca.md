@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- England
+- Europe
+- Tel Aviv
+- West End
+people:
+- Ali G
+- Baron Cohen
+- Borat
+- Friedman
+- Philippe Gaulier
+- Quentin Tarantino
+- Sacha Baron Cohen
+- Staines
+- Tom Hooper
+organisations:
+- Guardian
+- Sonia Friedman Productions
+- Sony Pictures Entertainment
+- Sunday Times
+- The Popinjay Cavalier
 ---
 
 He will soon be seen resuming his old Staines rudeboy persona in the film 

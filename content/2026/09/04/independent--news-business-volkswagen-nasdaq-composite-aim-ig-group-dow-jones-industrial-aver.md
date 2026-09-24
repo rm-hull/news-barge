@@ -13,6 +13,58 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Frankfurt
+- Germany
+- London
+- New York
+- Paris
+- UK
+- US
+people:
+- Bill Pulte
+- Kevin Warsh
+- Matthew Ryan
+- Nancy Vanden Houten
+- Peel Hunt
+- Pooja Sriram
+organisations:
+- 3i Group
+- Alliance News
+- Ashmore
+- BLS
+- Bank of America
+- Barclays
+- BofA
+- Bureau of Labor Statistics
+- Citi
+- Coca-Cola Europacific Partners
+- Computacenter
+- DNO ASA
+- Ebury
+- Equifax
+- Experian
+- FOMC
+- Fed
+- Federal Housing Finance Agency
+- Federal Open Market Committee
+- Federal Reserve
+- Genel Energy
+- Goldman Sachs
+- IG Group
+- ING
+- Kingfisher
+- Oxford Economics
+- Polar Capital Technology Trust
+- Relx
+- Renishaw
+- Standard Life
+- TransUnion
+- Treasury
+- Twitter
+- UBS
+- Vodafone Group
+- Volkswagen
 ---
 
 European stocks closed little changed on Friday while US equities fell after stronger-than-expected jobs data raised chances of an interest rate hike in September.

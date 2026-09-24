@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Europe
+- TechRadar
+people: []
+organisations:
+- '## Philips Baristina'
+- Bosch Tassimo Finesse Friendly
+- Breville Luxe Brewer Thermal3
+- Google News
+- Luxe Brewer Thermal
+- PC Format
+- PC Plus
+- Philips Baristina
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Split image of three beginner-friendly coffee makers in use](https://cdn.mos.cms.futurecdn.net/TkTrtoQRj6MQwWURkM8rjg.jpg) 

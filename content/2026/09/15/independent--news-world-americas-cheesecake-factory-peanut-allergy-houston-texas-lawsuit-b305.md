@@ -14,6 +14,27 @@ categories:
 - UK
 - Food & Cooking
 - Family & Parenting
+locations:
+- Boise
+- Cheesecake Factory
+- Harris County
+- Houston
+- Idaho
+- Jersey City
+- Milwaukee
+- New Jersey
+- Santa Monica
+- Southern California
+- Texas-area Cheesecake Factory
+- Wisconsin
+people:
+- Caylin Tucker
+- Ghassan Batayneh
+- Spero G. Alex
+organisations:
+- Cheesecake Factory
+- Mayo Clinic
+- The Independent
 ---
 
 A Cheesecake Factory patron with a severe peanut allergy went into anaphylactic shock after taking a bite of a dish she was assured would be peanut-free but came out of the kitchen “smothered in peanut sauce,” according to a lawsuit obtained by *The Independent*.

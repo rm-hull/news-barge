@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Alpamare Water Park
+- Burniston Road
+- Flamingo Land
+- Malton
+- North Bay
+- North Yorkshire
+- Scarborough
+people:
+- Cllr Broadbent
+- Coun Eric Broadbent
+- Eric Broadbent
+- Kerry Metcalfe
+- Ms Metcalfe
+organisations:
+- Alpamare Interior
+- Benchmark Leisure Limited
+- Benchmark Leisure Ltd
+- Courtesy Stripe Leisure Consulting
+- Courtesy Stripe Leisure Consulting North Yorkshire Council
+- Flamingo Land
+- LDRS
+- Local Democracy Reporting Service
+- NYC
+- Newmark
+- North Yorkshire Council
+- Northstead
+- Nyc A
+- Nyc Property
+- Scarborough Borough Council
+- Stripe Leisure
 ---
 
 ## Major North Yorkshire waterpark to be sold after successful bid secured

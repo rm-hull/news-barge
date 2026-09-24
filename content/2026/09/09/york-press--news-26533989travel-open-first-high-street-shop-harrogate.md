@@ -13,6 +13,21 @@ categories:
 - Travel
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Yorkshire
+people:
+- Colin Ord
+- Jake Todhunter
+- Riley Skinner
+organisations:
+- '**Harrogate'
+- Advantage Travel Partnership
+- Harrogate BID
+- Harrogate Brewing Company
+- Pantera Advisory Group
+- Reeves Upholstery House of Harrogate
+- There Travel
 ---
 
 *(Image: Pic supplied)*

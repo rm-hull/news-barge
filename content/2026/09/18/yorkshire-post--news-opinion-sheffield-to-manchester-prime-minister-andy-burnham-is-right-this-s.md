@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Greater Manchester
+- Leeds
+- Manchester Arena
+- North of England
+- Pennines
+- Sheffield
+- South Yorkshire
+people:
+- Andy Burnham
+- Bev Craig
+- Harrison
+- James
+- Mitchinson
+- Oliver Coppard
+- Snake
+- Tony Walsh
+- Woodhead
+organisations:
+- James’
+- Leeds
+- National Newspaper
+- Sheffield
+- The Yorkshire Post
+- United
+- Yorkshire Post
 ---
 
 # Sheffield to Manchester: powerhouse cities that may as well be joined by a horse-and-cart track

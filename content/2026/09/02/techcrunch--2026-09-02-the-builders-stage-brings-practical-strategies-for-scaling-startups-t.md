@@ -12,6 +12,106 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleH
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- Reddit
+- San Francisco
+- Square
+- Uber
+people:
+- '**Elia Wallen'
+- Aaron Jacobson
+- Alexa Von Tobel
+- Alexa von Tobel
+- Atli Thorkelsson
+- Baillie Gifford
+- Ben Broca
+- Carter Reum
+- Chi-Hua Chien
+- David H. Rosmarin
+- Dayna Grayson
+- Filip Kaliszan
+- Grant Lee
+- Gusto
+- Ioana Hreninciuc
+- Jack Withinshaw
+- Jahanvi Sardana
+- Janelle Teng Wade
+- Jas Khaira
+- Josh Reeves
+- Karl Alomar
+- Leah Solivan
+- Linda Tong
+- Lindsey Mignano
+- Maddi Holman
+- Matt Birnbaum
+- Michel Tricot
+- Nell Daly
+- Rahul Vohra
+- Rajeev Dham
+- Rob Toews
+- Robby Stein
+- Ryan Meadows
+- Sandhya Venkatachalam
+- Shailendra Singh
+- Shan Shan
+- Shay Grinfield
+- Stacy Brown-Philpot
+- Tomasz Tunguz
+- Verkada
+- Yuri Sagalov
+- Zach Yadegari
+- Zuzanna Stamirowska
+organisations:
+- AI Giants
+- ARR
+- Airspeeder* Company
+- Anthropic
+- Austin Clements
+- Axiom Partners
+- Bessemer Venture Partners
+- Blackstone N1
+- Cal AI
+- Cherryrock Capital
+- Chi-Hua Chien
+- Construct Capital
+- Daring Ventures
+- Flickr
+- Gamma
+- Goodwater Capital
+- Google
+- Greenfield Partners
+- Greenfield Partners’ Shay Grinfeld
+- Harvard Medical School
+- Jas Khaira
+- Lovable
+- Maria Angelidou-Smith
+- Matt Birnbaum
+- Mignano Law Group
+- Moscone Center
+- New Enterprise Associates
+- OpenAI
+- PMF
+- Peak XV
+- Polsia
+- Precedent.vc
+- Puneet Agarwal
+- Reddit
+- Redpoint Ventures
+- Revenge Capital
+- Runware
+- Sapphire Ventures
+- Series A
+- Slauson and Co
+- Slava Blazer Photography
+- Superhuman Mail
+- Talent Network
+- TechCrunch
+- Theory Ventures
+- True Ventures
+- VCs
+- VP
+- Wylder.co
 ---
 
 The Builders Stage is returning to **TechCrunch Disrupt 2026**, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale successful companies.

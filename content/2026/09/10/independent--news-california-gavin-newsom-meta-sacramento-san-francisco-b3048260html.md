@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- California
+- San Francisco
+people:
+- Gavin Newsom
+- Jim Cullinan
+- Josh Lowenthal
+- Rebecca Bauer-Kahan
+organisations:
+- AI
+- Anthropic
+- Meta
 ---
 
 California Gov. Gavin Newsom signed a sweeping package of laws Thursday aimed at protecting children from the risks of technology, including social media and AI chatbots.

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/20359927.jpg?type=og-image&xType=0&yType=0
+locations:
+- County Durham
+- Hollywood
+- North East
+- Ramside Hall
+- Ravenseat Fairytale Northumberland
+people:
+- Amanda Owen
+- Chris Hemsworth
+- Miles
+- Pemberton
+- Reuben
+organisations:
+- Avengers
+- Cathedral Course
+- Ramside Hall
+- The Pin
+- The Rib Room
 ---
 
 This stunning North East hall offers luxury, leisure and relaxation just minutes from Durham.

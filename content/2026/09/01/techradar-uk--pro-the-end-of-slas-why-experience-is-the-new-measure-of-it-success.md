@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Self-Improvement
+locations: []
+people: []
+organisations:
+- DEXOps
+- Future plc
+- ISO
+- IT department
+- Nexthink DEX
+- SLA
+- TechRadar Pro
+- TechRadarPro
+- XLAs
+- XM
 ---
 
 ![A person using a desktop computer.](https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH.jpg) 

@@ -12,6 +12,14 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/09/22/15/Hayden_Panettiere_14792.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Greenville
+- South Carolina
+people:
+- Brian Hickerson
+- Hayden Panettiere
+- Zach Hickerson
+organisations: []
 ---
 
 Actor Hayden Panettiere died from an accidental overdose of several drugs including fentanyl, a coroner in South Carolina said Tuesday.

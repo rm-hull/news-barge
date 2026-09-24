@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c7/live/e4eb68c0-b373-11f1-a430-4d16ee157c41.jpg
+locations:
+- BBC
+- Bryan
+- Raccoon City
+people:
+- Alastair Ryder
+- Austin Abrams
+- Bryan
+- Chris Redfield
+- Constantin
+- Doug Jamieson
+- Evil
+- Jordan Bassett
+- Looper
+- Milla Jovovich
+- Paul WS Anderson
+- Zach Cregger
+organisations:
+- BBC Newsbeat
+- Capcom
+- Constantin Film
+- NME
+- The Jam Report
+- Zach Cregger
 ---
 
 ![Still from Resident Evil shows Bryan, played by Austin Abrams, desperately pushing against a set of double doors in a hospital hallway. His hands and face are covered in blood, which also matts his hair to his head. A small crowd of zombies can be seen through frosted panes in the doors, their hands pressed against the glass.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/047b/live/991be0e0-b351-11f1-b949-71f91f81d1ab.jpg)

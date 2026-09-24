@@ -14,6 +14,55 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Alverton Green
+- Atlee Road
+- Durham
+- Foxrush Court
+- Hartlepool
+- Kingsley Road
+- Micklow Close
+- Middlesbrough
+- Middlesbrough__
+- North Yorkshire
+- Northumbria
+- OWEN HUMPHRIES
+- PA
+- Redcar
+- Ruskin Avenue
+- STUART BOULTON
+- South Bank
+- Steele Crescent
+- Teesside Coroner's Court
+- Teesside Magistrates' Court
+- Teesside Magistrates’ Court
+people:
+- Cameron George
+- Cole Robert Worthy
+- Cole Worthy
+- Jakub Matusiak
+- Kai Beattie
+- Kai Inico
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Paul Appleton
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- '**__Police'
+- A66
+- CLEVELAND POLICE
+- Cleveland Police
+- Durham Constabulary
+- IOPC
+- Mercedes
+- NORTHERN ECHO
+- North News & Pictures Ltd
+- Teesside Crown Court
+- The Sun
 ---
 
 *(Image: NORTHERN ECHO)*

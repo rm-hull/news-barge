@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Khartoum
+- Omdurman
+- Saudi Arabia
+- Shendi
+- Sudan
+people:
+- Manahel Madany
+- Mohey Eddin Abu-Bark
+- Randa al-Mansour
+- Yassir Abdullah
+organisations:
+- RSF
+- Rapid Support Forces
+- Sudan Doctors' Network
+- The Associated Press
+- U.N.
+- United Nations Development Program
+- World Bank
 ---
 
 For almost a year, Randa al-Mansour, a 31-year-old Sudanese housewife, has relied on solar energy panels installed on the rooftop of her building to survive the recurrent blackouts triggered by the war-torn country’s deteriorating electricity grid.

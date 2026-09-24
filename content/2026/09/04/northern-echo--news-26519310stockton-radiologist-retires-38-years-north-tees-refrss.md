@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- County Durham
+- Leeds
+- Middlesbrough
+- North Tees
+- Stockton
+- Tees Valley
+- Teesside
+people:
+- William Thompson
+organisations:
+- A66
+- NHS Breast Screening Programme
+- NHS university Hospitals Tees
+- North Tees Women’s Cancer Appeal
+- University Hospital
 ---
 
 *(Image: NHS university Hospitals Tees)*

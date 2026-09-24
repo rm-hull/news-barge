@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- Italy
+- Rome
+- Rwanda
+- Sudan
+- United States of Europe
+- Vatican
+- Yugoslavia
+people:
+- Caterina Borelli
+- Emma Bonino
+- Flavia D’Andrea Matteo
+- Michelangelo
+- Riccarda Meloni
+- Riccardo Magi
+- Silvio Berlusconi
+organisations:
+- EU
+- Europa
+- European Commission Humanitarian Office
+- Hands Off Cain
+- Radical Party
 ---
 
 Hundreds of people queued outside Rome’s city hall on Sunday to pay their last respects to Emma Bonino, the prominent Italian politician and human rights campaigner who died on Friday, aged 78.

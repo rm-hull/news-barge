@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Travel
 - Personal Finance & Investing
+locations:
+- US
+- United Arab Emirates
+people:
+- Domininkas Virbickas
+- Silvia Iacovcich
+organisations:
+- Google News
+- No Trace
+- NordVPN
+- NordVPn
+- PriceMice
+- Silvia Iacovcich
+- TechRadar
+- VPN
 ---
 
 ![NordVPN's PriceMice extension, promo image](https://cdn.mos.cms.futurecdn.net/GJRUc5qMm6i88YE4zGcTgT.png) 

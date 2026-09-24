@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Health & Fitness
 - Pets & Animals
+locations:
+- Britain Teesside
+- Carlisle
+- Edinburgh
+- Glamis Castle
+- Hearing Dogs
+- Lake Windermere
+- Newcastle
+- Newton Aycliffe
+- North East
+- Pen Llŷn
+- The Lap
+- The Wall
+- Warwickshire
+people:
+- Gryffin
+- Karen
+- Michelle Mlatilik
+- Vimmie
+organisations:
+- CAD
+- Elf
+- MichelleMlatilikE
+- Slimming World
 ---
 
 A Newton Aycliffe woman completed the Great North Run to raise money for the charity whose hearing dogs have transformed her aunt’s life.

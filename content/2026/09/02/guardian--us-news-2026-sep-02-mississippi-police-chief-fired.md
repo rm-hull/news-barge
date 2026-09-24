@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- City
+- Mississippi
+- Senatobia
+people:
+- Angelica Maze
+- Ben Crump
+- Black
+- Harold Vanderford
+- Kohen Wiley
+- Lynn Fitch
+- Sean Tindell
+- Senatobia
+- Sgt Foster
+- Sgt Hunter Foster
+organisations:
+- Black
+- MBI
+- Senatobia Board of Aldermen
+- Walmart
 ---
 
 Late Tuesday, the city of Senatobia, Mississippi fired its police chief, Harold Vanderford, after it was reported that Vanderford regularly used racist slurs against Black people in his text messages. The town, which is about 40% Black, made national news earlier this year after a white officer fatally shot and killed Kohen Wiley, a one-year-old Black baby, while responding to a shoplifting call at Walmart. Officers fired into a vehicle, shooting the driver and killing the toddler, who was being held in his mother’s arms.

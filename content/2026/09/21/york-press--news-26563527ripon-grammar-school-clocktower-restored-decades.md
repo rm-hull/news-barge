@@ -13,6 +13,18 @@ categories:
 - History
 - Education & Learning
 image: https://www.yorkpress.co.uk/resources/images/21474810.jpg?type=og-image
+locations:
+- North Yorkshire
+people:
+- Big Ben
+- Edmund Beckett
+- Jonathan Webb
+- Lord Grimthorpe
+- Matthew Buller
+organisations:
+- RGS
+- Ripon Grammar School
+- W Potts & Sons of Leeds
 ---
 
 *(Image: Supplied)*

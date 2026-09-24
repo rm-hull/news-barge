@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Hinds County
+- Jackson
+- Mississippi
+people:
+- Christy Spivey
+- Jacque Ratliff
+- RaShall Brackney
+- Raliff
+- Tasia Fortune
+organisations:
+- Jackson Police
+- NAACP
+- WAPT
 ---
 
 Police in Jackson, Mississippi, arrested a man on Friday in connection with the killing of Tasia Fortune, a 29-year-old Black woman found hanging from a tree outside an abandoned home in the area last month.

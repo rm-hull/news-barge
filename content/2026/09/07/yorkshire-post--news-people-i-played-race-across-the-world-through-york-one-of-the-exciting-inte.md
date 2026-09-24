@@ -15,6 +15,30 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Dean’s Park
+- Harrogate
+- London
+- Loughborough
+- UK
+- York
+- Yorkshire
+people:
+- Laura Reid
+- Tom Rymer
+organisations:
+- All3Media International
+- BBC
+- CityDays
+- Facebook
+- Google
+- Studio Lambert
+- The Shambles
+- The Yorkshire Post
+- Unilever
+- WhatsApp
+- York Minster
+- Yorkshire Post
 ---
 
 # I played Race Across the World through York, one of the exciting interactive adventure games designed by CityDays founder Tom Rymer

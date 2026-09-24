@@ -13,6 +13,23 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Deighton
+- Harrogate
+- Murton
+- North Yorkshire
+- StephensonsRural
+- The Barn
+- Welham Hall
+- York Auction Centre
+people:
+- Kirk Deighton
+organisations:
+- Crab Manor Hotel
+- Phranakhon Thai Tapas
+- Savills
+- Stephensons Rural
+- StephensonsRural
 ---
 
 ## Smallholding near York on the market for £995,000

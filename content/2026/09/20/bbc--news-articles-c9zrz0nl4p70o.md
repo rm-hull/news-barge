@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6ba/live/6ff872c0-b368-11f1-8f19-bd786ea30d0b.jpg
+locations:
+- East Java
+- Indonesia
+- Shiddiqiyyah
+people:
+- Ayu Masuroh
+- Bechi
+- Eid
+- Ira Puspitasari
+- Joko Widodo
+- Kiai Muchtar Mu'thi
+- Moch Subchi Azal Tsani
+- Nun Sayuti
+- Nyai Shofwatul Ummah
+- Prabowo Subianto
+- Shiddiqiyyah
+organisations:
+- BBC Eye
+- Bechi
+- Ira
+- Komnas Perempuan
+- Ministry of Immigration and Corrections
+- National Commission on Violence against Women
+- Shiddiqiyyah Islamic
 ---
 
 Watch: BBC tracks down abusive teacher secretly released early

@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Sports
 - Society & Culture
+locations:
+- Iran
+- Israel
+- Lamerd
+- Mashhad
+- Minab
+- Tehran
+- US
+- United States
+people:
+- Anita Ghasemi
+- Behrouz Mansouri
+- Lamerd
+- Mansoureh Heydari
+- Pete Hegseth
+organisations:
+- BBC News Persian of the 9
+- Defence
+- Hrana
+- Human Rights Activists News Agency
+- IRGC
+- Independent International Fact-Finding Mission on Iran
+- Islamic Revolutionary Guard Corps
+- PrSM
+- Precision Strike Missiles
+- Shajareh Tayyebeh Primary School
+- UN Human Rights Council
 ---
 
 ![File photo showing photos of children killed in the strike on Shajareh Tayyebeh Primary School in Minab, southern Iran (27 August 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg)

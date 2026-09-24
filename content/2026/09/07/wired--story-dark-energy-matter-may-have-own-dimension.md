@@ -11,6 +11,41 @@ image: https://media.wired.com/photos/6a99589b075950c219e95201/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Dallas
+- France
+- Harvard
+- Irvine
+- Pennsylvania
+- Princeton
+people:
+- Alek Bedroya
+- Cumrun Vafa
+- David Andriot
+- David Wu
+- Elsa Teixeira
+- Georges Obied
+- Justin Khoury
+- Marc Kamionkowski
+- Mark Trodden
+- Meng-Xiang Lin
+- Michael Kesden
+- Tim Tait
+organisations:
+- '**Simons Foundation'
+- CNRS
+- DESI
+- Dark Energy Spectroscopic Instrument
+- French National Center for Scientific Research
+- Harvard University
+- Johns Hopkins University
+- Quanta Magazine
+- University of California
+- University of Chicago
+- University of Montpellier
+- University of Pennsylvania
+- University of Texas
+- Vafa
 ---
 
 *The original version of**this story** appeared in**Quanta Magazine.*

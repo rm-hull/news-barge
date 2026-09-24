@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354601.jpg?type=og-image
+locations:
+- Bradford
+people:
+- Chelsea Phillips
+- Matt Rice
+- Mike Simmonds
+organisations:
+- ACORN
+- Octopus Energy
+- Severn Trent Water
+- United Utilities
+- Welsh Water
+- Yorkshire Water
 ---
 
 *(Image: Mike Simmonds)*

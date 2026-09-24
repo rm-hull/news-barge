@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Gulf
+- Iran
+- Jordan
+- Middle East
+- Saudi Arabia
+- UK
+- US
+people:
+- Richard Hunter
+- Simon Williams
+organisations:
+- Interactive Investor
+- Navy
+- RAC
+- Treasury
 ---
 
 The cost of filling a family car with fuel has risen by almost £5 since the start of September, according to the RAC.

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- County Durham
+- Durham Crown Court
+- Oxford Street
+- Stanley
+- Teesside Crown Court
+people:
+- Mark Faulds
+- Nathan Adams
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

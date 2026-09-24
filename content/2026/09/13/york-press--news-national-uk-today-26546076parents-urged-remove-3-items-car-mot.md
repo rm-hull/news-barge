@@ -13,6 +13,14 @@ categories:
 - York
 - Automotive
 - Self-Improvement
+locations:
+- UK
+people:
+- James Harding
+organisations:
+- '### Teddies'
+- Blackcircles
+- MOT
 ---
 
 *(Image: Getty Images)*

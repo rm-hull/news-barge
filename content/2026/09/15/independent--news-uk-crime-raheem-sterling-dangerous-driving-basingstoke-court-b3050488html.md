@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Basingstoke Magistrates’ Court
+- Berkshire
+- England
+- M3
+- Manchester City
+- Minley
+- Stamford Bridge
+people:
+- Gareth Southgate
+- Raheem Sterling
+organisations:
+- Arsenal
+- Chelsea
+- Feyenoord
+- Hampshire
+- Isle of Wight Constabulary
+- Liverpool
+- Manchester City
+- Premier League
+- QPR
 ---
 
 Raheem Sterling has arrived at court ahead of his first appearance accused of dangerous driving.

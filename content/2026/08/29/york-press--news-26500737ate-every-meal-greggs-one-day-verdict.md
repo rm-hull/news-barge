@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Foss Islands Road
+- Greggs
+- Greggs'
+- Newcastle
+- Pavement
+- Scotland
+- St Sampson's Square
+- The York
+- Walmgate
+people:
+- Andy Burnham
+- Greggs
+- MAXINE GORDON
+- Maxine
+organisations:
+- Greggs
+- Instagram
+- NQ
+- Primark
+- The Press
 ---
 
 ## I ate breakfast, lunch, and tea at Greggs and one item stole the show

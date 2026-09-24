@@ -11,6 +11,26 @@ description: Before you buy the iPhone 18 Pro or iPhone Duo for a lower price ov
 image: https://cdn.mos.cms.futurecdn.net/9jtZqsffXkkJxVCgy42peQ-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Louisiana
+- Oregon
+- PT
+- UK
+- US
+people:
+- Axel
+organisations:
+- Apple Store
+- ApplePriceHunt
+- Authorized Distributors
+- Axel Metz
+- EE eSIM
+- Esquire
+- Google News
+- TechRadar
+- University of Warwick
+- iPhone Air
 ---
 
 ![The iPhone 18 Pro alongside the iPhone Duo on a yellow background](https://cdn.mos.cms.futurecdn.net/9jtZqsffXkkJxVCgy42peQ.jpg) 

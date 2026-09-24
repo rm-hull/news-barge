@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- California
+people:
+- BeenVerified
+- Ben Winters
+- Elina van Kempen
+- Greg Hammond
+- Mayu Tobin-Miyaji
+organisations:
+- AI
+- BeenVerified
+- Block
+- CCPA
+- Cash App
+- Consumer Federation of America
+- Electronic Privacy Information Center
+- Help Center
+- McDonald’s
+- UC Irvine
+- WIRED
+- Your Crunchbase
 ---
 
 I filed a request with McDonald’s earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detailed my app interactions in granular detail and predicted I would never stop eating there.

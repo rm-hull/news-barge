@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Chatham House
+- Georgia
+- Iran
+- Texas
+- US
+- White House
+people:
+- Bernd Debusmann Jr
+- Davis Ingle
+- Donald Trump
+- Elon Musk
+- Erica York
+- JD Vance
+- Joan Mahoney
+- Joe Biden
+- Laurel Rapp
+- Robert Moran
+- Sarah Smith
+organisations:
+- BBC North America
+- Bipartisan Policy Center
+- Congress
+- Fox News
+- Senate
+- Supreme Court
+- Trump
+- US and North America
+- University of Southampton
+- Washington DC-based Tax Foundation
 ---
 
 ![US President Donald Trump speaks on the first day of the Midterm Republican National Convention in Texas](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg)

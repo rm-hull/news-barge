@@ -11,6 +11,15 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/13/Huddersfield_-_Yorkshire_Building_Society_branch_1789734425_c6bacc76-c978d3e2c71e8ee3.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Oxford Street
+- Yorkshire
+people:
+- Lowen Denning
+organisations:
+- 'Harrogate ## Yorkshire Building Society'
+- Yorkshire Building Society
 ---
 
 # Building society to hold digital support days in Harrogate

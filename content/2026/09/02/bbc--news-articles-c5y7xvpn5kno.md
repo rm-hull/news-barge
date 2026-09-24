@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Florida
+- Florida.
+- Martin County
+- Palm Beach Gardens
+- SoFi Center
+people:
+- John Budensiek
+- Tiger Woods
+- Woods'
+organisations:
+- BBC
+- Los Angeles Golf Club
+- Woods'
 ---
 
 Police release bodycam footage of Tiger Woods arrest after a Florida crash in March

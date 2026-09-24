@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6aad9a65289841154fbf8f24/191:100/w_1280,c_limit/Trump-MAGA-Data-Centers-Column-Science.jpg
+locations:
+- AI
+- Bezzy
+- China
+- Iran
+- Pennsylvania
+- Texas
+- The Verge
+- US
+- Virginia
+- White House
+- Wisconsin
+people:
+- AI
+- Abigail Spanberger
+- Bezzy
+- Boone Ashworth
+- David Crowley
+- David Sacks
+- Donald Trump
+- Epstein
+- Hugo Lowell
+- Joe Allen
+- Joe Lonsdale
+- MAGA
+- McCann Sanders
+- Molly McCann Sanders
+- Molly Taft
+- Natalie Fertig
+- Phyllis Schlafly
+- Sanders’
+- Steve Bannon
+- Tom Tiffany
+- Tony Fabrizio
+organisations:
+- Amazon
+- Data Center Alley
+- Eagle Forum Education & Legal Defense Fund
+- GOP
+- Interior Department
+- National Republican Senatorial Committee
+- New York Times
+- Palantir
+- Reuters
+- The New York Times
+- Truth Social
+- Washington Sun
+- White House AI
 ---
 
 *Welcome back to Power Play! Each week, senior writer Molly Taft tackles a topic around this midterm season’s biggest issue: data centers. If you’ve got a question or thought for the column, feel free to shoot Molly an email at [email protected] or reach them securely on Signal at mollytaft.76.*

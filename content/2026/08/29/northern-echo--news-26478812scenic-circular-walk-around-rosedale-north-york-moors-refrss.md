@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Blakey Ridge
+- Cleveland
+- Dale Head Farm
+- Farndale
+- Jonathan Smith
+- Knott Road
+- Moorlands
+- North Dale
+- North York
+- Pennine Way Dales
+- Reeth
+- Rosedale Abbey
+- Teesside
+- The Dales
+- Thorgill
+- Yorkshire Dales
+people:
+- Jonathan Smith
+organisations:
+- Abbey Tea Room
+- Dales
+- House Inn
+- Long Preston
+- Milburn Arms
+- Rosedale
+- The Yorkshire
+- Yorkshire Klondyke
 ---
 
 *(Image: Jonathan Smith)*

@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- California
+- Dallas
+- Midpeninsula Regional Open Space District
+- North America
+- Pacific
+- San Francisco Bay Area
+- San Mateo County
+- Santa Cruz Mountains
+people:
+- Brigid Lynch
+- Chrissy Garcia
+- Ron Tykoski
+- Ryan McCauley
+organisations:
+- Balance Hydrologics
+- Doerr School of Sustainability
+- Midpeninsula Regional Open Space District
+- Perot Museum of Nature and Science
+- Stanford University
 ---
 
 Brigid Lynch was working along a wooded creek in a mountainous part of the San Francisco Bay Area when something that didn't look like the rocks she'd been studying caught her eye. It turned out to be the fossilized tooth of a Pacific mastodon.

@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Mayfield Grove
+- Meraki Artisan Baker
+people: []
+organisations:
+- Bakeri Baltzersens
+- Decoris
+- Meraki Artisan Baker
+- The Secret Bakery
 ---
 
 # Artisan bakery to launch in Harrogate with pledge to offer customers 'best coffee you'll have ever tasted'

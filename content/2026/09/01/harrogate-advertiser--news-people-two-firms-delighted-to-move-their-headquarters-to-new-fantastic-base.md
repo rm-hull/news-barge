@@ -12,6 +12,31 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- A59
+- Grimbald Crag Road
+- Harrogate Southern Bypass
+- 'Knaresborough ## Knaresborough'
+- North Yorkshire
+- St James Business Park
+- St James Retail Park
+- St James' Business Park
+- St James’s Business Park
+- St James’s Park
+- UK
+people:
+- Alex Duke
+- Andrew Ledgeway
+- Paul Curson
+organisations:
+- AfPP
+- Andway Plus
+- Boots
+- Gaunts Ltd
+- M&S Foodhall
+- St James Business Park
+- The Association for Perioperative Practice
+- West and North Yorkshire
 ---
 
 # Two firms 'delighted' to move their headquarters to new fantastic base at Knaresborough

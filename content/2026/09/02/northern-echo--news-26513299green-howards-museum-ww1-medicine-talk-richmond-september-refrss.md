@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Green Howards Museum
+- North Yorkshire
+- Passchendaele
+- Richmond
+people:
+- Andrew Volans
+- Volans’
+organisations:
+- Cleveland Police
+- Emergency Medicine
 ---
 
 *(Image: Supplied)*

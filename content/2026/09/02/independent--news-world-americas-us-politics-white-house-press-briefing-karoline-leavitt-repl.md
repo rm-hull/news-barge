@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/09/01/23/07/GettyImages-2264014698.
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Oval Office
+- Washington, D.C.
+- White House
+people:
+- Anna Kelly
+- Donald Trump
+- JD Vance
+- Karoline Leavitt
+- Marco Rubio
+- Mitch McConnell
+- Scott Jennings
+- Steven Cheung
+- Susie Wiles
+organisations:
+- Air Force One
+- CNN
+- MAGA Inc.
+- PAC
+- The Independent
+- Trump
+- White House Communications
 ---
 
 The White House has planned its first press briefing in weeks, but it’s anyone’s guess who will be behind the podium after press secretary Karoline Leavitt left her post last week.

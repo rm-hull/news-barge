@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- California
+people:
+- Aaron Cutler
+- Bill Clinton
+- Bill Gates
+- Ghislaine Maxwell
+- James Comer
+- Jeffrey Epstein
+- Leon Black
+- R-Ky.
+- Robert Garcia
+- Susan Estrich
+organisations:
+- '## Epstein'
+- Apollo Global Management
+- Black
+- Congress
+- Department of Justice
+- House
+- Justice Department
+- Office of Congressional Conduct
+- Oversight Committee
 ---
 
 The House agreed to hold billionaire Leon Black in contempt of Congress Wednesday and referred the matter to the Department of Justice after he defied the Oversight Committee's subpoenas in its investigation into disgraced financier Jeffrey Epstein.

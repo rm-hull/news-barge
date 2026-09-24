@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Alpine
+- Azerbaijan
+- Baku
+- Europe
+- Madrid
+- Madring
+- Turns Five
+- Turns One
+people:
+- Arvid Lindblad
+- Aston Martin
+- Bulls' Arvid Lindblad
+- Charles Leclerc
+- Franco Colapinto
+- George Russell
+- Kimi Antonelli
+- Lance Stroll
+- Lando Norris
+- Lewis Hamilton
+- Liam Lawson
+- Max Verstappen
+- Nico Hulkenberg
+- Norris'
+- Oscar Piastri
+organisations:
+- Alpine
+- Audi
+- Ferrari
+- Formula 1
+- McLaren
+- Mclaren
+- Mercedes
+- Racing Bulls
+- Red Bull
+- VSC
 ---
 
 ![Kimi Antonelli raises his hand in celebration after winning the Spanish Grand Prix. An image of the Italian flag on a screen can be seen behind him](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b2ac/live/923150e0-af86-11f1-913a-7151f234deb3.jpg)

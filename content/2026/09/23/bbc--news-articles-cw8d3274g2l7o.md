@@ -13,6 +13,66 @@ categories:
 - Arts & Culture
 - Careers & Productivity
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/23e1/live/47067500-b6d9-11f1-a430-4d16ee157c41.jpg
+locations:
+- America
+- Chagos Island
+- Chagos Islands
+- Diego Garcia
+- Gulf
+- Indian Ocean
+- Mauritius
+- New York City
+- Pacific
+- Princess of Wales
+- UK
+- UK-US
+- US
+- White House
+people:
+- '!["Burn'
+- '!["Burnham'
+- '!["Knifed'
+- '!["Trump'
+- Andy Burnham
+- Barack Obama
+- Charlie Mayfield
+- Diana
+- Donald Trump
+- Earl Spencer
+- Gerard Butler
+- John Lewis
+- Piers Morgan
+- Todd Boehly
+- Tom Cruise
+organisations:
+- '!["Trump'
+- AI
+- Boehly
+- Burnham
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegrah
+- Daily Telegraph
+- Durham University
+- El Niño
+- Financial Times
+- Financial Times.
+- Guardian
+- Independent
+- Labour
+- Lukoil
+- Metro
+- Mirror Group
+- The Daily Mirror
+- The Independent.
+- The Sun
+- The Times
+- Trump
+- UN General Assembly
+- United Nations General Assembly
+- White House and Gulf
 ---
 
 !["Burn to be mild," reads the headline on the front page of the Daily Star.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/c7a1/live/282a1fc0-b6d3-11f1-bc1f-3f186ca4140c.jpg)

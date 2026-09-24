@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Durham
+- Newcastle Civic Centre
+- North East
+people:
+- Birju Bartoli
+- Deborah Walton
+- Kay Carrick
+- Mr Haughton
+- Ms Walton
+organisations:
+- Beamish Museum
+- Chamber’s Women’s Leadership and Social Equity Forum
+- Darlington
+- Moonrise 24hr Recruitment
+- New College Durham
+- Newcastle International Airport
+- North East Chamber of Commerce
+- Northumbria NHS
+- PD Ports
+- Palintest
+- Ramside Hall Hotel
+- The Experience Effect
+- Workplace Equity
 ---
 
 *(Image: Supplied)*

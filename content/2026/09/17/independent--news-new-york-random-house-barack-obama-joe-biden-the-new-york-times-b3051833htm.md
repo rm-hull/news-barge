@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- Cambridge
+- England
+- Idaho
+- Random House
+people:
+- Barack Obama
+- Bill Gates
+- Joe Biden
+- Sisters
+- Tara Westover
+organisations:
+- Brigham Young University
+- Brothers and Sisters
+- National Book Critics Circle
+- The New York Times'
+- Trinity College
+- “'Brothers
 ---
 
 Nearly 10 years after the publication of the million-selling “Educated,” Tara Westover is returning with a second memoir in which she reflects on the fallout from her celebrated and controversial debut.

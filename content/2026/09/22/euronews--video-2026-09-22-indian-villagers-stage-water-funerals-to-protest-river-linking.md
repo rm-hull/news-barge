@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/31/23/1200x675_cmsv2_91b4f176-1e02-5d7b-b93f-f60809f91ab2-9923123.jpg
+locations:
+- Ken-Betwa River Link Project
+- Madhya Pradesh
+people: []
+organisations: []
 ---
 
 Indian farmers and tribal villagers staged symbolic “water funerals” in Madhya Pradesh to protest the Ken-Betwa River Link Project.

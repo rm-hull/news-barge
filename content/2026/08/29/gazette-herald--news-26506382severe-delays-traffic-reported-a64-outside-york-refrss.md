@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1079
+- A19
+- Flaxton
+- Fulford
+- Hull
+- Selby
+- York
+people: []
+organisations:
+- A64
 ---
 
 A major road in York is running normally after a crash caused severe delays earlier today (Saturday, August 29).

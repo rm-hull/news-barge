@@ -15,6 +15,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- California
+people:
+- Courtni Pugh
+- Dave Regan
+- Tia Orr
+organisations:
+- Democratic Party
+- Los Angeles Times
+- SEIU California
+- SEIU International Union
+- SEIU United Healthcare Workers West
+- SEIU-UHW
+- The Associated Press
 ---
 
 The California labor leader behind a proposal to tax billionaires has been accused of harassing and intimidating several women who work for an affiliated union.

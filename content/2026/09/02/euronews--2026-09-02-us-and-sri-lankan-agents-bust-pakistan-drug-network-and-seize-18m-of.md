@@ -13,6 +13,20 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Afghanistan
+- Colombo
+- India
+- Pakistan
+- Sri Lanka
+- US
+- United States
+people:
+- Ananda Wijepala
+- Ashoka Dharmasena
+organisations:
+- Sri Lanka Police Narcotics Bureau
+- US Drug Enforcement Administration
 ---
 
 ## Sri Lanka's Public Security Minister Ananda Wijepala told parliament that most of the illegal drugs originated in Afghanistan and Pakistan and were being smuggled into the island by sea.

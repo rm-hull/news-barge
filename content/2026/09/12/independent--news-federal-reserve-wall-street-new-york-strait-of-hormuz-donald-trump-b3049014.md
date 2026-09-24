@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Strait of Hormuz
+- U.S.
+- Wall Street
+people:
+- Donald Trump
+organisations:
+- Fed
+- Federal Reserve
 ---
 
 The Federal Reserve and its interest rate policy will be the main focus for Wall Street this week.

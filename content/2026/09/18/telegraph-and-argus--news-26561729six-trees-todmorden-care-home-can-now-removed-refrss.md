@@ -12,6 +12,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Burnley Road
+- Calderdale
+- Todmorden
+- YOUR
+people: []
+organisations:
+- Associated Wellbeing Limited
+- Calderdale Council
+- JCA Limited
+- Pennine Lodge Care Home
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

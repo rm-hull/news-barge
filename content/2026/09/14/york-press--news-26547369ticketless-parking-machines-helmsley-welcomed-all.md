@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Helmsley
+- Market Place
+- NORTH Yorkshire
+people:
+- Cllr Jabbour
+- George Jabbour
+- Helmsley
+organisations:
+- North Yorkshire Council
 ---
 
 *(Image: Freelancer)*

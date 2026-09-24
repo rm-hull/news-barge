@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Cattal Level Crossing
+- Harrogate
+- Hessay
+- Long Marston
+- Main
+- North Yorkshire
+- Prince Rupert Drive
+- Tockwith
+- York
+people:
+- Georgina Fishwick
+- Peter Avery
+organisations:
+- UGC
 ---
 
 *(Image: UGC)*

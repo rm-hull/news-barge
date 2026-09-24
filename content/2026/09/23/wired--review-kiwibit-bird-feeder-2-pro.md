@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab3636d56b93c0e50ac0cc6/191:100/w_1280,c_limit/Review--Kiwibit-Bird-Feeder-2-Pro.jpg
+locations:
+- Washington
+people:
+- Kiwibit
+organisations:
+- AI ID
+- Beako
+- Birdbuddy
+- Birdfy
+- Feeder
+- Kiwibit
+- PDAF
+- Pro
 ---
 
 Every bird enthusiast has probably heard of Birdfy and Birdbuddy smart bird feeders, but a handful of competitors have quietly been refining their models over multiple generations—to the point where they’re starting to outpace the OGs in engineering, features, and design. Kiwibit is one of them.

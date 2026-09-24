@@ -14,6 +14,15 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21467416.jpg?type=og-image
+locations:
+- North East
+- Tees Valley
+people:
+- Ben Houchen
+- Will Hughes
+organisations:
+- Sawdust CIC
+- Tees Valley Combined Authority
 ---
 
 A popular North Easdt programme is seeking more firms to boost their productivity, improve efficiency and unlock growth through digital technology.

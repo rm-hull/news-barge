@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/20958350.jpg?type=og-image
+locations:
+- Auckland
+- County Durham
+- Easington Colliery
+- Essington Way
+- Little Thorpe
+- Peterlee
+- Sunderland Royal Hospital
+people: []
+organisations:
+- GNAAS
+- Great North Air Ambulance Service
+- North East Ambulance Service
+- Wickes
 ---
 
 *(Image: GNAAS)*

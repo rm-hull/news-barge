@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- North East
+- Porto
+- Sunderland
+- UK
+people:
+- Amy Elise Mercer
+- Dayann Methalie
+- Frederico Cardoso
+- Humphry Davy
+- Lamproom
+- Ms Mercer
+organisations:
+- Lamproom Digital
+- SEO
+- Silverbean
+- Sunderland
 ---
 
 *(Image: Supplied)*

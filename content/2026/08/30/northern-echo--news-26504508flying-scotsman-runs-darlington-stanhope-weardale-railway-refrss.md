@@ -14,6 +14,41 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- County Durham
+- Durham Dales
+- Edinburgh
+- Hopetown Darlington
+- London King’s Cross
+- Newcastle
+- North East
+- North Road
+- Shildon
+- Stanhope
+- Stockton and Darlington Railway
+- Storybook’ County Durham
+- UK
+- United States
+- Weardale Railway
+- Weardale Railway Santa Express Weardale Railway
+- York
+people:
+- Claire Gibbons
+- STEPHEN BOTTRILL
+organisations:
+- CHRIS BOOTH
+- Flying Scotsman
+- Fox & Edwards
+- Fox & Edwards Events
+- NEWSQUEST
+- National Railway Museum
+- Newcastle
+- Northern Steam
+- Sunderland
+- Titans of Steam Gala
+- Tornado
+- Weardale Railway
 ---
 
 *(Image: STEPHEN BOTTRILL)*

@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Ireland
+- Kentish Town
+- London
+- Palestine
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- DJ Provai
+- Florence Welch
+- Idles’ Mark Bowen
+- Kneecap
+- Liam Og O hAnnaidh
+- Lola Young
+- Messy
+- Mo Chara
+- Moglai Bap
+- Mozey
+- Paul Goldspring
+- Vivienne Westwood
+- fBenjamin Netanyahu
+organisations:
+- CPS
+- Chase & Status
+- Crown Prosecution Service
+- FENIAN
+- Florence
+- Hezbollah
+- High Court
+- Kneecap
+- O2 Forum
+- The Machine
 ---
 
 Irish hip-hop group Kneecap delivered another politically charged performance during their headline slot at Reading Festival, shouting "fBenjamin Netanyahu" and "Andy Burnham is a w**" to the crowd.

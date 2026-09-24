@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Adygea
+- Belgorod
+- Boryspil
+- Bucha
+- Dagestan
+- Dnipropetrovsk
+- Krasnodar
+- Kyiv
+- Moscow
+- Myla
+- Obolonskyi
+- Odesa
+- Rostov
+- Russia
+- Stavropol
+- Sumy
+- Ukraine
+- Zaphorizhzhia
+- Zaporizhzhia
+people:
+- Dan Johnson
+- Tymur Tkachenko
+- Vitaliy Klitschko
+- Volodymyr Zelensky
+organisations:
+- Kyiv
+- Ministry of Defence
+- Ozon
+- Wildberries
 ---
 
 Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike

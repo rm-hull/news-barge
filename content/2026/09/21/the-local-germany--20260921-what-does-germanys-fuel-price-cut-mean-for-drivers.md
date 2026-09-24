@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/03/watermarks-logo-AFP__20260313__A36F7ZY__v1__MidRes__GermanyIranIsraelUsWarEconomyEnergyPetrol.jpg@webp
+locations:
+- Belgium
+- Berlin
+- Germany
+- Iran
+- Israel
+- Luxembourg
+- Middle East
+- US
+people:
+- Andreas Audretsch
+- Clemens Fuest
+organisations:
+- Bild
+- CDU
+- EU
+- Greenpeace
+- Greens
+- Ifo Institute
+- RND
+- SPD
 ---
 
 **What's going on?**

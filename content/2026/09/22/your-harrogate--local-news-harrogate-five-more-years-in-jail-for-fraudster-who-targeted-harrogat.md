@@ -13,6 +13,19 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://mmo.aiircdn.com/409/6ab237b32a3ec823b55.jpg
+locations:
+- Chelwood Drive
+- Gibraltar
+- Harrogate
+- Leeds Magistrates’ Court
+- Spain
+people:
+- Ian Sharp
+- Sukhdev Singh
+organisations:
+- North Yorkshire Police
+- North Yorkshire Police’s Economic Crime Unit
+- York Crown Court
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab237b32a3ec823b55.jpg)

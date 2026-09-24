@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+people:
+- Amanda Hopgood
+- Andrew Husband
+- Cllr Hopgood
+- Darren Grimes
+- Stuart Boulton
+organisations:
+- County Durham Liberal Democrat
+- County Durham Liberal Democrats
+- DURHAM COUNTY COUNCIL
+- Durham County Council
+- Durham Reform UK
+- Lib Dem
+- Lib Dems
+- Liberal Democrat Party
+- Quarter One
+- Reform UK
+- The Liberal Democrats
 ---
 
 Council leaders have been urged to explain how communities will be affected by any proposed spending changes at an upcoming budget.

@@ -11,6 +11,17 @@ description: Ideal for small business and online crafting stores, this giant Any
 image: https://cdn.mos.cms.futurecdn.net/3cx2BMFJ6FE9KQgCoByqV7-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Wayne Williams
+organisations:
+- ACE
+- Anycubic
+- Kobra
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Anycubic Kobra 3 Max V2 Combo 3D printer](https://cdn.mos.cms.futurecdn.net/3cx2BMFJ6FE9KQgCoByqV7.jpg) 

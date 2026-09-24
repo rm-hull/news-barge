@@ -14,6 +14,23 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- B6265
+- Bailey
+- Glasshouses
+- Nidderdale
+- North Yorkshire Police
+- Pateley Bridge
+people:
+- Bailey Chadwick
+- DI Cowling
+- Jill Cowling
+- Joseph Henry Stott
+organisations:
+- Harrogate Magistrates' Court
+- Lupton Bank
+- North Yorkshire Police
+- Serious Collision Investigation Unit
 ---
 
 # 'A part of me died with him': Heartbroken Pateley Bridge mum speaks out after driver sentenced over Bailey Chadwick's death

@@ -12,6 +12,18 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/12/22121841-361a9fa2-829e-42c2-ae61-e81ed90d1acc.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Martin Coleman
+- Rob Williams
+- Sue Davies
+organisations:
+- British Veterinary Association
+- CMA
+- Competition and Markets Authority
+- Government
+- Inquiry Group
 ---
 
 Vet practices will soon be legally required to make their prices clear to pet owners under the biggest reforms of the sector in a generation.

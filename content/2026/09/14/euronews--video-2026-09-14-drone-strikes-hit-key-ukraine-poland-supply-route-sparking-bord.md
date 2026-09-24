@@ -14,6 +14,23 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Kyiv-Warsaw
+- Moscow
+- Poland
+- Ukraine
+- Yahodyn
+- Yahodyn-Dorohusk
+people:
+- Andrii Sybiha
+- Putin
+- Valentyna Chernysh
+organisations:
+- EU
+- NATO
+- Suspilne
+- Ukrzaliznytsia
+- Volyn Customs Service
 ---
 
 Falling drone debris set fire to a petrol station and several trucks near the Yahodyn border crossing in western Ukraine, according to Valentyna Chernysh, a spokesperson for the Volyn Customs Service. She told Ukrainian public broadcaster Suspilne that the checkpoint itself was not hit and remained intact. No one was injured.

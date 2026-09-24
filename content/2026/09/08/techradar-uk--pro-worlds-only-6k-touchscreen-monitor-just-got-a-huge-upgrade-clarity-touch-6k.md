@@ -10,6 +10,25 @@ description: Alogic's new 6K monitor with a hidden webcam will set you back near
 image: https://cdn.mos.cms.futurecdn.net/4qCHPk7kJVUMBw9Z79Y7Qc-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Australia
+- Berlin
+- Canada
+- U.K.
+- U.S
+- UK
+- United Kingdom
+- United States
+- United States of America
+people:
+- Ritesh Kumar
+organisations:
+- Alogic
+- EU
+- Efosa
+- European Union
+- Google News
+- TechRadar Pro
 ---
 
 ![Alogic Clarity 6K Monitor](https://cdn.mos.cms.futurecdn.net/4qCHPk7kJVUMBw9Z79Y7Qc.png) 

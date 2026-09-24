@@ -15,6 +15,292 @@ categories:
 - UK
 - Comedy & Entertainment
 - Music
+locations:
+- America
+- Atlanta
+- BR549
+- Bastille
+- Boston
+- Hawaii
+- Little House
+- O-Town
+- S.H.I.E.L.D.
+- The O.C.
+- Us
+people:
+- Adam-12
+- Ahna O’Reilly
+- Aida Turturro
+- Aldis Hodge
+- Alfonso Ribeiro
+- Allbut Sirico
+- Andrea Bocelli
+- Angus Macfadyen
+- Ani DiFranco
+- Anne Robinson
+- Anson Williams
+- Ant Clemons
+- Anthony Mackie
+- Ashley Eckstein
+- Autumn Reeser
+- Avatar
+- Ben Platt
+- Ben Shenkman
+- Ben Shepherd
+- Benjamin Button
+- Betsy Brantley
+- Bill Murray
+- Billy Porter
+- Blindspot
+- Bohemian Rhapsody
+- Bonnie Hunt
+- Brandon Victor Dixon
+- Braveheart
+- Bridgette Wilson-Sampras
+- Bruce Springsteen
+- Bryan Ferry
+- Bulworth
+- Captain America
+- Carlene Carter
+- Catherine Oxenberg
+- Catherine Zeta-Jones
+- Cedric Dent
+- Cesar Rosas
+- Charlie Weber
+- Cheryl Hines
+- Cheryl Tiegs
+- Chi McBride
+- Choice
+- Chris Owen
+- Christina Milian
+- Chuck Panozzo
+- Cindy Herron
+- Clea DuVall
+- Colin Friels
+- Concrete Blonde
+- Crystle Stewart
+- Curb Your Enthusiasm
+- Cush Jumbo
+- Dan Bucatinsky
+- Daniella Alonso
+- Dave Coulier
+- Dave Hernandez
+- David Coverdale
+- David Frizzell
+- David James Elliott
+- David Lim
+- Debbi Morgan
+- Debby Boone
+- Deep Impact
+- Deep Purple
+- Descendants
+- Dharma
+- Don Felder
+- Don Herron
+- Donald Glover
+- Dynasty
+- Emmy Clarke
+- En Vogue
+- Entourage
+- Enuka Okuma
+- Erik-Michael Estrada
+- Ethan Coen
+- Faith Hill
+- Falling Skies
+- Fannie Flagg
+- Felicity
+- For Better
+- Full House
+- Gary Cole
+- General Hospital
+- George C. Wolfe
+- Gordon Clapp
+- Greg”)
+- Grey Damon
+- Gunnar
+- Hal Sparks
+- Happy Days
+- Harriet Walter
+- Harry Potter
+- Heather Locklear
+- Heroes Reborn
+- Ian Bohen
+- JAG
+- Jack Lawless
+- James Hillier
+- James Keane
+- James Lesure
+- Jason Alexander
+- Jason Derulo
+- Jason Flemyng
+- Jermaine Dupri
+- Jerry Bruckheimer
+- Jiggs
+- Jillian Barberie
+- Jim Caviezel
+- Jimmy Sturr
+- Joan Jett
+- Jody Davis
+- Joel David Moore
+- Joey”)
+- Johnette Napolitano
+- Jon Bernthal
+- Jonas Brothers
+- Jordan Gavaris
+- Joseph Mazzello
+- Josh Taylor
+- Juan DeVevo of Casting Crowns
+- Julio Iglesias
+- June Forester
+- Jurassic Park
+- Katie Lowes
+- Keely Shaye Smith
+- Kent McCord
+- Kevin Sorbo
+- Kip Pardue
+- Kristen Johnston
+- Kyle Sullivan
+- Las Vegas
+- Law
+- Lee Norris
+- Legacy
+- Leon Taylor
+- Lifehouse
+- Linda Hamilton
+- LisaRaye
+- Los Lobos
+- Lou Grant
+- Luke Wilson
+- Lynn Herring
+- Maggie Grace
+- Major Crimes
+- Malachi Kirby
+- Malcolm
+- Maria Doyle Kennedy
+- Mark Hamill
+- Marty Cintron
+- Marty Mitchell
+- Mary Kay Place
+- Matthew Nelson
+- Melanie Paxson
+- Melissa Sue Anderson
+- Michael Douglas
+- Michael Graziadei
+- Mimi Kennedy
+- Mireille Enos
+- Monk
+- Moon Bloodgood
+- Mr. Belvedere
+- Mulan
+- Murder
+- NYPD Blue
+- Nancy Travis
+- Newsboys
+- Nia Vardalos
+- Nicholas Payton
+- Nick Cave
+- Nicole Richie
+- Nikolas Brino
+- No Mercy
+- Numb3rs
+- One Tree Hill
+- Orphan Black
+- Paul Le Mat
+- Paul Petersen
+- Paulo Costanzo
+- Pennywise
+- Peter White
+- Pitch Perfect
+- Pose
+- Power
+- Pretty Little Liars
+- Queer
+- Randy Bradbury
+- Rapper Mystikal
+- Rapper Wale
+- Rick Woolstenhulme
+- Ricki Lake
+- Ricochet
+- Rob Benedict
+- Rob Morrow
+- Rob Stone
+- Robbie Jones
+- Robert Walden
+- Rookie Blue”)
+- Rosalind Chao
+- Royal Pains
+- Royal Pains,” “Angels
+- Ryan Guzman
+- S.W.A.T.
+- Sam Bettens
+- Scandal
+- Scott Baio
+- Seinfeld
+- Serena Scott Thomas
+- Shari Belafonte
+- Shawn Crahan
+- Shawn Stockman
+- She-Hulk
+- Silicon Valley
+- Singer Phyllis
+- Skylar Astin
+- Slipknot
+- So Raven
+- Sofia
+- Sophia Loren
+- Spencer Treat Clark
+- Star Trek
+- Stephen King
+- Straight Outta Compton
+- Supernatural
+- T.I.
+- Tate Donovan
+- Tatiana Maslany
+- Teen Wolf
+- Teyonah Parris
+- The Closer
+- The Crown
+- The Donna Reed Show
+- The Help
+- The O.C.
+- The Sopranos
+- The Walking Dead,” “Daredevil
+- The Young
+- The-Dream
+- Tom Felton
+- Toni Basil
+- Tony Denison
+- Tracey Thorn
+- Tricia O’Kelley
+- Tudors
+- Tyler Stewart
+- Ukweli Roach
+- Unsolved Mysteries
+- Whitesnake
+- Will Farquarson
+- Will Smith
+- World War Z”)
+- Yellowstone
+- Young Sheldon
+- Yung Joc
+- Zach Woods
+- Zoe Perry
+organisations:
+- American Pie
+- Barenaked Ladies
+- Big Rube of Society of Soul
+- Childish Gambino
+- Coen Brothers
+- DNCE
+- Soundgarden
+- Station
+- Styx
+- The Angels
+- The Eagles
+- The Forester Sisters
+- The Shins
+- The Simple Life
+- The Ventures
 ---
 
 Celebrity birthdays for the week of Sept. 20-26:

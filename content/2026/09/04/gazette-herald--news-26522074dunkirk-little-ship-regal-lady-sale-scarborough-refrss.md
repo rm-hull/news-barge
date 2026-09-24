@@ -14,6 +14,24 @@ categories:
 - York
 - Personal Finance & Investing
 - History
+locations:
+- Dunkirk
+- North Yorkshire
+- Scarborough
+people:
+- Ernest Wilson
+- Michael Peel
+- Regal Lady
+organisations:
+- Allied
+- Association of Dunkirk Little Ships
+- BTG Eddisons
+- Heck
+- National Historic Ship
+- Operation Dynamo
+- Regal Lady
+- Royal Navy
+- Scarborough
 ---
 
 A Second World War vessel that helped rescue more than 1,200 Allied soldiers from Dunkirk has gone up for sale as a North Yorkshire hospitality business and visitor attraction.

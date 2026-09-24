@@ -13,6 +13,19 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/17/05/UK-weather-September.png?trim=0,152,0,48&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+- London
+- Northern Ireland
+- Scotland
+- South East
+- UK
+- Wales
+people:
+- Dan Holley
+organisations:
+- Met Office
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

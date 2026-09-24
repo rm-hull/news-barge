@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- North East
+- North Shields Waste Transfer Station
+- North Tyneside
+people:
+- Paul Russell
+- Willie Samuel
+organisations:
+- North Tyneside Council
+- Suez
+- Tyne and Wear Fire and Rescue Service
 ---
 
 *(Image: North Tyneside Council)*

@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Health & Fitness
+locations:
+- Kotaku
+people:
+- Andrew E. Freedman
+- Tom
+organisations:
+- AI
+- CUDA
+- Get Tom's Hardware
+- Google News
+- Grace CPUs
+- Hermes
+- IFA
+- Laptop Mag
+- Lenovo Yoga
+- Nvidia
+- OpenClaw
+- PCMag and Complex
+- RTX Spark
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![Lenovo RTX Spark Systems](https://cdn.mos.cms.futurecdn.net/N7XeY9THig9x2BNMkaLqB7.jpg) 

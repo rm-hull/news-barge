@@ -11,6 +11,84 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/dvE8uTuuHfnW2YJyKBzPQg-450-80.png
+locations:
+- Brandon Hill
+- Bruno Ferreira
+- Foxconn
+- PrintersLos Angeles
+- Taipei
+people:
+- Jensen Huang
+- Mark Tyson
+- Matt Keith
+- Sarah Jacobsson
+- Stephen Warwick
+organisations:
+- Aaron Klotz Published
+- Amazon
+- Ben Stockton
+- Brandon Hill
+- Camo Studio
+- Christopher Harper Published
+- ConnectorsJapanese
+- Crown
+- DK07
+- DealsFlexispot
+- DesksErgo Desk
+- DesksI
+- DesksLian Li
+- Ergo Desk
+- GamepadsCommodore
+- GamepadsEnthusiast
+- GamepadsNew
+- GamepadsSteam Controller
+- GamepadsThrustmaster
+- GamepadsValve
+- Gaming ChairsSecretlab
+- Gaming ChairsToyota
+- Gaming HeadsetsCorsair
+- Gaming MiceLogitech
+- Hassam Nasir Published
+- Hon Hai
+- HubsPhysical
+- HubsThe Best Thunderbolt
+- HubsThis
+- Joe Shields Published
+- Jowi Morales
+- Jowi Morales Published
+- KeyboardsOpenAI
+- Keychron
+- Lexmark
+- Logitech G
+- Luke James
+- Luke James Published
+- Mac Studio
+- Mandalorian Titan Evo
+- Mark Tyson Published
+- Matt Safford Published
+- Mechanical KeyboardsKeychron
+- MicrophonesHyperX
+- Nape Pro
+- PrintersAustralian
+- PrintersBrother
+- PrintersHP
+- PrintersMicrosoft
+- PrintersXerox
+- Puck CAD
+- Pulsar Feinmann
+- QuadCast
+- Razer BlackShark
+- Razer Kiyo
+- Razer Naga
+- Roshan Ashraf Shaikh
+- Sarah Jacobsson Purewal Published
+- Steam Controller
+- Valve
+- WebcamsHow
+- WebcamsRazer Kiyo
+- WebcamsThe
+- XLR
+- Xerox
 ---
 
 # Peripherals

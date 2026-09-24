@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/7530f869f7d182849afc94dc45dfa162890fce03/306_0_4246_3397/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36972d03b106ff54b864a154fcffbc3c
+locations:
+- Australia
+- Christchurch
+- Curl Curl
+- Dee Why
+- New Zealand
+- Sydney
+people:
+- Clarke Gayford
+- Jacinda Ardern
+- Neve
+organisations:
+- Christchurch Call
+- Eva Corlett
+- Guardian
+- Harvard University
+- Labour
+- Prince William’s Earthshot
+- Raine & Horne Northern Beaches
+- Sydney Morning Herald
 ---
 
 Jacinda Ardern and her husband, Clarke Gayford, have bought a $5.3m home in Sydney’s northern beaches, according to a source with knowledge of the sale.

@@ -12,6 +12,22 @@ description: Lenovo's Project Swan rolls a 14-inch laptop out to 17 inches sidew
 image: https://cdn.mos.cms.futurecdn.net/5S8WKzLAtBk3chG6vTSzX5-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rahim Amir
+organisations:
+- Google News
+- Innovation World
+- Intel
+- Lenovo
+- PC
+- PCs
+- Project Swan
+- RGB
+- Rollable
+- SFF
+- TechRadar Pro
+- ThinkBook
 ---
 
 ![A render of Lenovo's Project Swan concept](https://cdn.mos.cms.futurecdn.net/5S8WKzLAtBk3chG6vTSzX5.jpg) 

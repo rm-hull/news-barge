@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20560971.jpg?type=og-image
+locations:
+- Athens
+- Blue Lagoon
+- Europe
+- Fuerteventura
+- Geysir
+- Golden Circle
+- Gullfoss
+- Hallgrímskirkja
+- Iceland
+- Krakow
+- Newcastle Airport
+- North East
+- Reykjavik
+- Seljalandsfoss
+- Sky Lagoon
+- Skógafoss
+- Þingvellir National Park
+people: []
+organisations:
+- '![]()EasyJet'
+- AEGEAN Jet2
+- Harpa Concert Hall
+- Newcastle EasyJet
 ---
 
 North East travellers looking for a winter getaway can now fly direct from Newcastle to Iceland's capital for as little as £22.

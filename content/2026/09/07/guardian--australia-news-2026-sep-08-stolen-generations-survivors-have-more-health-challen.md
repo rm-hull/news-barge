@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+people:
+- Martin Edvardsson
+organisations:
+- AIHW
+- Australian Institute of Health and Welfare
+- First Nations
+- Healing Foundation
+- Stolen Generation
 ---
 
 The tens of thousands of Indigenous Australians and their descendents who were forcibly removed under government assimilation policies have far greater physical and health challenges when compared to the wider Indigenous and non-Indigenous populations, according to a new report.

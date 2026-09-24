@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Belarus
+- Britain
+- Canada
+- Denmark
+- Europe
+- Germany
+- Lithuania
+- Norway
+- Poland
+- Russia
+- Ukraine
+people:
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Security Council
+- European Union
+- NATO
 ---
 
 The European Union needs a NATO-like mechanism to better respond to drone incidents, acts of sabotage and cyberattacks across Europe, many of them blamed on Russia, European Commission President Ursula von der Leyen said Wednesday.

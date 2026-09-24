@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Cambodia
+- Phnom Penh
+- Preah Vihear
+- Singapore
+- Thailand
+people:
+- Prak Sokhonn
+- Sihasak Phuangketkeow
+- Sopheng Cheang
+organisations:
+- Commission
+- International Court of Justice
+- U.N.
+- UNCLOS
 ---
 
 Thailand and Cambodia ’s foreign ministers exchanged opening statements in Singapore on Tuesday at the first meeting to settle a sea border dispute under a U.N. agreement on maritime law for compulsory conciliation.

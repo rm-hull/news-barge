@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A1
+- Bishop Auckland
+- Cockfield
+- County Durham
+- County Durham Newton Aycliffe
+- Darlington
+- Front Street
+- M
+- NORTHERN ECHO
+- Prospect Square
+people: []
+organisations:
+- County Durham
+- Crimestoppers
+- Darlington Fire and Rescue Service
+- Durham Police
+- NORTHERN ECHO
 ---
 
 A car was totally burnt out after an arson attack in a quiet County Durham village.

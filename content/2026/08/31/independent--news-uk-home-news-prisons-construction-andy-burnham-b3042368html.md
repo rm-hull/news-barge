@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/08/11/16/2289162664..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Lancashire
+- Thames Valley
+people:
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Jason Hogg
+- Jessie Cole
+- Pc Harper
+organisations:
+- Government
+- IPP
+- IPPs
+- Justice Secretary
 ---
 
 A £110 million investment is being fast-tracked by the Government to accelerate the construction of hundreds of additional prison places, the Justice Secretary is set to announce.

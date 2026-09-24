@@ -12,6 +12,13 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+- US
+people:
+- John Boumphrey
+organisations:
+- Amazon UK
 ---
 
 Amazon has announced a pay increase of up to 5.6 per cent for thousands of frontline staff across the UK.

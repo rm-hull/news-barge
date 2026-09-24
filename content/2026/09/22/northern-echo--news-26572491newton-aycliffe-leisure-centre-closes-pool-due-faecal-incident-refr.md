@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21487851.jpg?type=og-image&xType=0&yType=185
+locations:
+- Newton Aycliffe
+- Newton Aycliffe Leisure Centre
+people: []
+organisations: []
 ---
 
 *(Image: GOOGLE MAPS)*

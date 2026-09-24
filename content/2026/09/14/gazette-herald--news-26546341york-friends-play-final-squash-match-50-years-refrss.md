@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- RI
+people:
+- Bev Miller
+- John Bridge
+- Pete Watson
+- Trevor Elliott
+organisations:
+- Railway Institute
+- York Railway Institute
 ---
 
 *(Image: Bev Miller)*

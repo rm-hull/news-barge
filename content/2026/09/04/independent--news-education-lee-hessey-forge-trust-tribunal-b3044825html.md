@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Buckingham Palace
+- England
+people:
+- Bongo Bongo
+- Lee Hessey
+- Tourette
+organisations:
+- Nottinghamshire
+- Ofsted
+- TRA
+- Teacher Regulation Agency
+- The Forge Academy Trust
 ---
 
 A school trust chief who sent racist messages to colleagues and called parents ‘low life’ has been banned from teaching.

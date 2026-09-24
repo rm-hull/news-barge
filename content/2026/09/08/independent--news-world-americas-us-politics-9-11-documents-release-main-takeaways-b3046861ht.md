@@ -14,6 +14,49 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Airy
+- City Hall
+- D.C.
+- Ground Zero
+- John St.
+- Manhattan
+- New Jersey
+- New York
+- New York City
+- Rector Street
+- Twin Towers
+- Washington
+people:
+- Christine Todd Whitman
+- Eric Adams’
+- Ester Fuchs
+- George W. Bush
+- Giulani
+- Jerry Nadler
+- Michael Bloomberg
+- Michael Cardozo
+- Michelle Goldsen
+- Robert Harding
+- Rudy Giuliani
+- Zohran Mamdani
+organisations:
+- 911 Health Watch
+- Bloomberg
+- City Hall
+- Congress
+- Department of Health and federal Agency for Toxic Substances and Disease Registry
+- EPA
+- Environmental Protection Agency
+- FEMA
+- Federal
+- Freedom of Information Law
+- Law Department
+- The Guardian
+- Whitman
+- World Trade Center
+- World Trade Center Health Program
+- then-City Hall
 ---
 
 More than 170,000 pages of newly released records, never before shown to the public, reveal that New York City officials knew of potential dangers from exposure to Ground Zero toxins in the aftermath of the September 11, 2001 terror attacks — despite repeated assurances to the public that the air was safe to breathe.

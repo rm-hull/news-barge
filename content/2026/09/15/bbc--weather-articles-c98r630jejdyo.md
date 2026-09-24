@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- England
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people: []
+organisations: []
 ---
 
 ![Group of people standing on a pier looking out to sea. Many are wearing coats, and it also looks quite breezy](https://ichef.bbci.co.uk/ace/standard/914/cpsprodpb/53e2/live/ff5d9010-b09a-11f1-9e7d-cb2f675dfcb0.jpg)

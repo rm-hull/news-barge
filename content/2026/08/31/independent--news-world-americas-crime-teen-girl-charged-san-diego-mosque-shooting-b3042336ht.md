@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Forsyth County
+- Islamic Center
+- Mosque
+- North Carolina
+- San Diego
+- Winston-Salem
+people:
+- Amin Abdullah
+- Cain Clark
+- Caleb Vazquez
+- Jim O’Neill
+- Mansour Kaziha
+- Nadir Awad
+- O'Neill
+- Scott Wahl
+- Taha Hassane
+organisations:
+- The Associated Press
 ---
 
 A 17-year-old girl who recorded a livestream of a shooting that killed three people at a San Diego mosque and disseminated the attackers’ hate-filled writings has been charged with murder by aiding and abetting, according to a North Carolina district attorney.

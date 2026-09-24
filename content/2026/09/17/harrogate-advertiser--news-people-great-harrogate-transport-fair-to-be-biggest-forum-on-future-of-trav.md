@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ5ODhiOTY1LWY2NGUtNDM1Ny1iNDE3LTIwMWYwZDQ1ZGRiODo3MmNjNjk0Zi00MmZhLTQ1NzktODEyYy0yMjZjNTA2ZTE0N2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Knaresborough
+- North Yorkshire
+- West Park Centre
+people:
+- Sunita Soundur
+organisations:
+- Combined Authority
+- Disability Action Yorkshire
+- Forward York
+- Forwards Yorkshire
+- Harrogate Bus Company
+- Harrogate Transport Fair
+- Local Transport Plan
+- North Yorkshire Combined Authority
+- The Great Harrogate Transport Fair
+- York and North Yorkshire Combined Authority
+- York and North Yorkshire Local Transport Plan
+- Zero Carbon Harrogate
 ---
 
 # Great Harrogate Transport Fair to be biggest forum on future of travel in the town for years

@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Big Church
+- East Sussex
+- Eastbourne
+- Steyning
+- West Sussex
+people:
+- Richard McDonagh
+organisations:
+- DCS
+- Health and Safety Executive
+- Instagram
 ---
 
 A 41-year-old man has died and at least six other people have been injured after a large sign fell at a Christian festival in West Sussex, police have said.

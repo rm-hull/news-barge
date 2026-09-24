@@ -11,6 +11,59 @@ image: https://static.independent.co.uk/2026/09/02/02/Egypt_China_72119.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Bangkok
+- Beijing
+- Bishkek
+- Brazil
+- Cairo
+- China
+- Egypt
+- Gaza
+- Giza
+- Grand Egyptian Museum
+- Gulf
+- India
+- Iran
+- Islamic Republic
+- Israel
+- Kyrgyzstan
+- Middle East
+- Mideast Xi
+- Nile Delta
+- Pakistan
+- Riyadh
+- Russia
+- Saudi Arabia
+- South Africa
+- Strait of Hormuz
+- Suez Canal
+- Taiwan
+- Tehran
+- U.S.
+- United States
+people:
+- Abdel Fattah el-Sissi
+- Amr Hamzawy
+- El-Sissi
+- Huizhong Wu
+- Kathryn Selfe
+- Mahmoud Abbas
+- Muhammad Zulfikar Rakhmat
+- Noha el-Hennawy
+- Xi Jinping
+organisations:
+- BRICS
+- Carnegie Middle East Program
+- G7
+- Hamas
+- Jakarta’s Center of Economic and Law Studies
+- Palestinian Authority
+- Rafale
+- Shanghai Cooperation Organization
+- United States’
+- Xi
 ---
 
 On the surface, Chinese President Xi Jinping’s visit to Egypt this week is a run-of-the-mill opportunity for two countries to strengthen economic and diplomatic ties.

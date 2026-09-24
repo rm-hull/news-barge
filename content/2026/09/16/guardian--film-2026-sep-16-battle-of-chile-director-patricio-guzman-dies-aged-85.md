@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Chile
+- London
+- Madrid
+- Paris
+people:
+- Augusto Pinochet
+- Carmen Bueno
+- Chris Marker
+- Jorge Müller
+- Leonardo Henrichsen
+- Patricio Guzmán
+- Salvador Allende
+organisations:
+- Emol
+- Guardian
 ---
 
 Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85. According to Chilean news outlet Emol, Guzmán died on Tuesday in Paris after a cardiorespiratory arrest.

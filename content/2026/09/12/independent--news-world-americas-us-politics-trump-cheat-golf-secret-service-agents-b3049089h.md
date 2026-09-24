@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Dublin
+- Georgia
+- Ireland
+- Scotland
+- South Carolina
+- Trump Turnberry
+- U.S.
+- UK
+- Winged Foot
+people:
+- Does Trump
+- Donald Trump
+- Golf
+- Lindsey Graham
+- Oscar De La Hoya
+- Rick Reilly
+organisations:
+- Secret Service
+- The New York Times
 ---
 
 President Donald Trump said the Secret Service agents assigned to protect him make it impossible for him to cheat at golf.

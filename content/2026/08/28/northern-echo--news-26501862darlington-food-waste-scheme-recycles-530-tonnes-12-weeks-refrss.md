@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bio Capital
+- Darlington
+- New North East
+- Newton Aycliffe
+- North Yorkshire
+- Warrens Emerald
+people:
+- Libby McCollom
+organisations:
+- Darlington Borough Council
+- YouTube
 ---
 
 *(Image: Darlington Borough Council)*

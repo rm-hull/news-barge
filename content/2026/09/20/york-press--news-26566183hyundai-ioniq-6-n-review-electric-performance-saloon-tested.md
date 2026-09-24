@@ -13,6 +13,15 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21478817.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- Android Auto
+- Apple CarPlay
+- Bose
+- Hyundai IONIQ
+- Hyundai Ioniq
+- Hyundai’s N division
 ---
 
 ## Hyundai Ioniq 6 N: why this electric saloon drives like a true performance machine

@@ -14,6 +14,39 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d178/live/30a2f140-b395-11f1-bf60-ad6e22c4842e.jpg
+locations:
+- America
+- Britain
+- Denmark
+- Esbjerg
+- Europe
+- Forties
+- Jackdaw
+- Monaco
+- North Sea
+- Rosebank
+- UK
+- US
+people:
+- Adam Bell
+- Andy Burnham
+- Chris Rokos
+- Jim Ratcliffe
+- Lakshmi Mittal
+organisations:
+- BBC
+- Brexit
+- CCS
+- Cornwall Insight
+- DESNZ
+- Department for Energy Security
+- EU
+- Ineos
+- LNG
+- Manchester United
+- Net Zero
+- Rosebank
+- Stonehaven
 ---
 
 Sir Jim Ratcliffe says the UK economy is "on the slide"

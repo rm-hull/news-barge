@@ -12,6 +12,23 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://static.independent.co.uk/2026/05/05/11/ccb10478b113204bed91f19d8af9521fY29udGVudHNlYXJjaGFwaSwxNzc4MDYyMjI1-2.79358273.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Monaco
+- UK
+people:
+- Jim Ratcliffe
+organisations:
+- BBC ‘Big Boss’
+- Brighton
+- Glazers
+- MUMSC
+- Manchester City
+- Manchester United
+- Manchester United Football Club
+- Manchester United Muslim Supporters’ Club
+- Muslim Supporters’ Club
+- Premier League
 ---
 
 Manchester United’s Muslim Supporters’ Club has urged owner Sir Jim Ratcliffe to step down, following fresh controversy regarding his stance on immigration amidst the team’s ongoing struggles on the pitch.

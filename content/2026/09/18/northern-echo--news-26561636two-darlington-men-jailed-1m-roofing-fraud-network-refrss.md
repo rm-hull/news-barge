@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bishop Auckland
+- Chaucer Road
+- DURHAM
+- Darlington
+- HMP Northumberland
+- Image
+- Kingsbury Mews
+- Lincolnshire
+- NHS
+- New Marske
+- North East
+- Teesside Crown Court
+- Yorkshire
+people:
+- Lord Bichard
+- Michael Mather
+- Tyler McBride
+organisations:
+- City of York Council
+- National Trading Standards
+- National Trading Standards Yorkshire and Humber Regional Investigation Team
+- Trading Standards
 ---
 
 Two Darlington men have been jailed for their part in a criminal operation that pressurised homeowners into paying vastly inflated prices for unnecessary or poor-quality roofing and building work.

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cornwall
+- Devon
+- England
+- UK
+people:
+- Emma Hardy
+- Philip Duffy
+organisations:
+- Canal & River Trust
+- El Niño
+- Environment Agency
+- Met Office
+- National Drought Group
 ---
 
 Torrential rain over the next seven months would be needed in order to bring much of the country out of drought, the Environment Agency has warned.

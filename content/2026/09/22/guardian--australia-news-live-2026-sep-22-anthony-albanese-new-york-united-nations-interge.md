@@ -13,6 +13,86 @@ categories:
 - True Crime
 - Technology & Software
 image: https://i.guim.co.uk/img/media/1ceb0a72c9379ac44245748d403ceaf88c4d95ac/204_0_2040_1632/master/2040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bc3bce3f143042ae096bcd7cffc8fe63
+locations:
+- Australia Street
+- Australian Capital Territory
+- Bangladesh
+- Brisbane
+- Coogee
+- Dubbo
+- Europe
+- Fitzroy River
+- Goodna
+- India
+- Ipswich
+- Kimberley
+- Kingaroy
+- Maryborough
+- NSW
+- New South Wales
+- Newtown
+- Parramatta
+- Queensland Queensland
+- Redbank Plains
+- Scott Close
+- South Australia
+- Sri Lanka
+- Stretton Drive
+- Sydney
+- Teelah
+- US
+- Victoria
+- Wall Street
+- Western Australia
+- Wollongong
+people:
+- Andrew Bragg
+- Angus Taylor
+- Chris Bowen
+- Chris Minns
+- Dan Peled
+- Hannah Tonkin
+- Hilary Wardhaugh
+- Kellie Sloane
+- Leah Stewart
+- Lisa Maree Williams
+- Michael Daley
+- Naomi Moore
+- Penry Buckley
+- Peter McKenna
+- Sarah Hanson-Young
+- Stephen Jay
+- Yasmin Catley
+organisations:
+- AAP Greens
+- AAP Solar
+- ABC News
+- ABC NewsRadio
+- AFL
+- AFP
+- AI
+- ASX
+- All Ordinaries
+- BBC
+- Bianca De Marchi
+- Coalition
+- Facebook
+- Getty Images
+- Getty Images Police
+- IOC
+- Instagram
+- Labor
+- Liberal
+- Lukas Coch/AAP
+- NSW Women’s Safety Commissioner
+- RN Breakfast
+- Senate
+- TGA
+- Telstra
+- Therapeutic Goods Administration
+- University of Sydney-led
+- Victoria Police
+- World Rowing and Paddle Worldwide
 ---
 
 Supt Naomi Moore said officers found the boy with the injury on arrival. He was treated at the scene and taken to hospital, where he remains in critical condition. Moore said there were a number of people in the unit at the time, and officers have spoken to some of them and are looking to speak to others.

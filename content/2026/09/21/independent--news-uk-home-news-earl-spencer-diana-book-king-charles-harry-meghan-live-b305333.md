@@ -13,6 +13,30 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/23/01M2TQV0J49SK2MWDCYMMJT1B8.jpg?trim=196,0,196,0&width=1200&height=800&crop=1200:800
+locations:
+- Buckingham Palace
+- London
+- Norfolk
+- Princess of Wales
+- UK
+people:
+- Andrew Mountbatten-Windsor
+- Charles
+- Diana Earl Spencer
+- Earl Spencer
+- King
+- Martin Bashir
+- Meghan Markle
+- Prince Harry
+- Sussexes
+- WellChild
+- William
+organisations:
+- BBC
+- Duchess of Sussex
+- The Mail
+- WellChid
+- WellChild Nurse
 ---
 
 Earl Spencer has confessed he felt “eternal regret” for failing to stop Martin Bashir’s controversial interview with Princess Diana.

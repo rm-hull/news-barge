@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Beverley Magistrates’ Court
+- Bridlington
+- Carter Street
+- East Riding
+- Goole
+- Jefferson Street
+- Little Beck Road
+- Woldgate
+people:
+- Carl Skelton
+- Elizabeth Walker
+- Sophie Smith
+organisations:
+- CCTV
+- East Riding Council
+- East Riding of Yorkshire Council
 ---
 
 # Women prosecuted after rubbish found fly-tipped in the East Riding

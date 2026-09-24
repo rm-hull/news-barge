@@ -12,6 +12,11 @@ categories:
 - Technology & Software
 - Science
 - Comedy & Entertainment
+locations: []
+people: []
+organisations:
+- Instagram
+- YouGov
 ---
 
 A specific cadence for contemporary group chats eludes me. The rapid-fire tempo of texts combined with custom stickers, often based on inside jokes, leaves me behind. My digital fate: the silent lurker. As I let the notifications wash over me, I am a ghostlike figure haunting the group chat, a silent watcher who rarely responds without a specific invocation.

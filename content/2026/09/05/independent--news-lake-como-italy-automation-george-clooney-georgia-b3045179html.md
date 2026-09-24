@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Alps
+- California
+- Georgia
+- Italy
+- James Bond
+- Lake Como
+- Paris
+- U.S.
+people:
+- George Clooney
+- Greg Lynn
+- Matteo Boddi
+- Moto Guzzi
+- Roland Rampnoux
+- Timothy Bennett
+organisations:
+- Casino Royale
+- Moto Guzzi
+- Piaggio Group
+- Vespa-maker Piaggio
 ---
 
 After extensive renovation by the Italian motorcycle manufacturer Moto Guzzi, aficionados this year had fresh reasons for a pilgrimage to the lakeside spot where their beloved two-cylinder bikes are hand-built.

@@ -10,6 +10,13 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311202305.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- California
+- Indonesia
+- Sulawesi
+- Tibet
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311202305.jpg?w=840)

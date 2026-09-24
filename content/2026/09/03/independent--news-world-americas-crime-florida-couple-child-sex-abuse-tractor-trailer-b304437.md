@@ -14,6 +14,20 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- Atlanta
+- Florida
+- Jacksonville
+- Miami
+people:
+- Epps'
+- Jae Williams
+- James Uthmeier
+- Keysha Monique Epps
+- Tamra Marshon Stewart
+organisations:
+- The New York Times
+- Uthmeier
 ---
 
 A couple has been accused of abusing four children in their care and holding them in the cab of a tractor-trailer, described by prosecutors as a “rolling prison,” for six years

@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Middlesbrough
+- Redcar
+- South Bank
+people:
+- Alec Brown
+organisations:
+- A66
+- Cleveland Council
+- North News & Pictures Ltd
 ---
 
 *(Image: North News & Pictures Ltd)*

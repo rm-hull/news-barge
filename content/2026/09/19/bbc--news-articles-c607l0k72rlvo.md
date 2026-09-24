@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg
+locations:
+- US
+- White House
+people:
+- Claude
+- Heather Adkins
+- Jensen Huang
+- Joe Tidy
+- Mustafa Suleyman
+- Sam Altman
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- BBC
+- CBS News
+- Gemini
+- Google
+- Nvidia
+- OpenAI
+- Security Engineering
+- UN Security Council
+- Wall Street Journal
 ---
 
 ![A close-up shot of the Gemini application on a black screen. The icon is a white square with a four-point star in Google's colours, under which the word 'Gemini' is printed.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg)

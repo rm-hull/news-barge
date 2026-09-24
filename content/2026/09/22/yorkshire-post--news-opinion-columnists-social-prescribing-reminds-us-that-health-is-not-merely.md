@@ -16,6 +16,17 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQxNDVjMjZlLTBmMTAtNDNlZS04MTUwLWJjMjIxYTkyYTM0MTozYjMwN2VlZS00ZjViLTRjOGYtOThmYS1jNjliZWFkOWEwNDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- New Zealand
+- Singapore
+people:
+- Jerome Flynn
+- Matt Bromley
+- Robson Green
+organisations:
+- Building Equity in Education
+- Dramatic Recovery
+- Soldier Soldier
 ---
 
 # Social prescribing reminds us that health is not merely the absence of illness - Matt Bromley

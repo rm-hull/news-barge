@@ -14,6 +14,105 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- Albania
+- Belarus
+- Belgrade
+- Britain
+- Brussels
+- Ceuta
+- China
+- Davos
+- Europe
+- France
+- Hill Dickinson Stadium
+- Kosovo Specialist Chambers
+- Liverpool
+- Malieveld
+- Middle East
+- Minsk
+- Pristina
+- Republic of Kosovo
+- Serbia
+- Strasbourg Canada
+- The Hague
+- UK
+- US
+- Ukraine
+- United States
+- Washington
+- Yugoslavia
+people:
+- Alexander Lukashenko
+- Ana MilosavljevicandOliver Holmeswrite
+- Andrzej Poczobut
+- Andy Burnham
+- Arben Llapashtica
+- Behajdin Allaqi
+- Donald Trump
+- Esther Major
+- Hashim Thaci
+- Hashim Thaçi
+- HashimThaçi
+- Jakup Krasniqi
+- Jennifer Rankin
+- John Coale
+- Jordan Bardella
+- Kadri Veseli
+- Keir Starmer
+- Lisa O’Carroll
+- Marine Le Pen
+- Mark Carney
+- Mark Rutte
+- Ratko Mladić
+- Rexhep Selemi
+- Selimi
+- Ursula von der Leyen
+- Von der Leyen
+- Well
+- Yves Herman
+- von der Leyen
+organisations:
+- ANP
+- ANP/Shutterstock Unrest
+- Amnesty International
+- Bank of England
+- Canadian Press
+- EPA
+- EU
+- European Commission
+- European Parliament
+- European Union
+- Everton
+- FARK
+- FRY
+- Florion Goga
+- FormerKosovo Liberation Army
+- General Staff
+- Janis Laizans
+- KLA
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
+- LDK
+- NR
+- National Rally
+- Nato
+- Political Directorate
+- Rassemblement National
+- Reuters Burnham
+- Reuters It
+- Reuters Reuters
+- SOTEU
+- Shutterstock He
+- Shutterstock Separately
+- State of the European Union
+- State of the Union
+- The Trial Panel
+- Trial Panel
+- Trump
+- UCK“
+- Valdrin Xhemaj
+- Wolverhampton Wanderers
 ---
 
 Former Kosovo president Thaçi sentenced to 25 years in prison

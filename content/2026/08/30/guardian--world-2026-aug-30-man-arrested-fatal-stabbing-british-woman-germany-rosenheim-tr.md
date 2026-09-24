@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Fürstenfeldbruck
+- Germany
+- Rosenheim
+people: []
+organisations: []
 ---
 
 A man has been detained in Germany on suspicion of the fatal stabbing of a 31-year-old British woman in Rosenheim early on Sunday morning, local authorities said.

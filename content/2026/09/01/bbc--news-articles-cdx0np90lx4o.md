@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brooklyn
+- East Coast
+- East Coast-West Coast
+- Las Vegas
+- Los Angeles
+- New York
+- New York City
+- The Coliseum
+- US
+- West Coast
+people:
+- B.I.G. AKA Biggie Smalls
+- Biggie Smalls
+- Binu Palal
+- Christopher Wallace
+- Davis'
+- Duane "Keffe D" Davis
+- Duane Davis
+- Elpidio Orozco
+- Michael Sanft
+- Neama Rahmani
+- Notorious B.I.G.
+- Orlando Anderson
+- Sekyiwa Shakur
+- Shaun Kent
+- Tupac Shakur
+organisations:
+- BBC
+- BMW
+- Chevrolet
+- Davis'
+- LAPD
+- Los Angeles Police Department
+- Robbery-Homicide Division
 ---
 
 Watch: What it was like inside court for Tupac Shakur’s murder trial verdict

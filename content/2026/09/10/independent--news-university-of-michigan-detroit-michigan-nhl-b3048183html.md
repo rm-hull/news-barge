@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Detroit
+- Michigan
+people:
+- Michael Pitt
+- Paul Corliss
+- Red Berenson
+organisations:
+- Michigan Men’s Ice Hockey
+- NHL
+- University of Michigan
 ---
 
 More than a dozen former hockey players are suing the University of Michigan, alleging their coach and other staff were aware of sexual hazing that included the forced shaving of their genitals and other abuse by teammates decades ago.

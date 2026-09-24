@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Sports
+locations: []
+people:
+- Dan Mateescu
+- Renan Maniero
+- Tom
+organisations:
+- 2K27
+- AMD
+- Blackwell GPUs
+- Control
+- Cyberpunk
+- DLSS 5
+- GPU
+- Get Tom's Hardware
+- Google News
+- NBA
+- Nvidia
+- PC
+- RenoDX
+- VideoCardz
+- YouTube
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/aRSiWBgcRxFsTpt9SXgjRd.jpg) 

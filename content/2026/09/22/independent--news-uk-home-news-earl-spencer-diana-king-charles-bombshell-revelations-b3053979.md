@@ -12,6 +12,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/23/ac900374615d37b6fab39e7f4bc40bbaY29udGVudHNlYXJjaGFwaSwxNzkwMTE2ODQz-2.85896603.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Balmoral
+- Buckingham Palace
+- Paris
+- Wales
+- Wiltshire
+people:
+- '## Diana'
+- Camilla Parker-Bowles
+- Charles’
+- Earl Spencer
+- Elizabeth
+- Harry
+- King
+- Laura Kuenssberg
+- Paul Costelloe
+- Prince Charles
+- Robert Fellowes
+- William
+organisations:
+- BBC
+- Duke of Edinburgh
+- NHS
+- Royal Train
+- Royal Train Scandal’
+- Westminster Abbey
 ---
 
 In his highly anticipated memoir, *Swan Song: Diana, My Sister**,* Earl Spencer has made bombshell allegations about King Charles’ conduct around his ex-wife Princess Diana up to and following her death.

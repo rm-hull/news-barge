@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Indonesia
+- Karo
+- Mount Sinabung
+- North Sumatra
+- Pacific Basin
+- Pacific “Ring of Fire
+people:
+- Lana Saria
+organisations:
+- Geological Agency
 ---
 
 Mount Sinabung on Indonesia erupted Monday, spewing a column of black ash and smoke 3,500 meters (11,482 feet) from the top of the mountain into the sky over Sumatra island.

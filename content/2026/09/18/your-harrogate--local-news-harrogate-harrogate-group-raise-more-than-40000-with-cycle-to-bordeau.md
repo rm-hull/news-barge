@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - Travel
 image: https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg
+locations:
+- Bordeaux
+- France
+- Harrogate
+- London
+- Yorkshire
+people:
+- David Rowley
+- Paddy Kidd
+- Phil Webb
+- Rob George
+- Simon Grafton
+- Tim North
+organisations:
+- Brain Tumour Charity
+- Yorkshire
 ---
 
 ![](https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg)

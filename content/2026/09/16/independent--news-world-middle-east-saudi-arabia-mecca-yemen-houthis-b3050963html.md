@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bab el-Mandeb
+- Britain
+- East-West Pipeline
+- Grand Mosque
+- Gulf
+- Iran
+- Iraq
+- Jeddah
+- London
+- Mecca
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- US
+- Washington
+- Yemen
+people:
+- Andy Burnham
+- Donald Trump
+- Hazem al-Assad
+- Mohammed al-Farah
+- Mohammed bin Salman
+- Riyah
+organisations:
+- Bloomberg
+- Houthis
+- Reuters
 ---
 
 Saudi Arabia says its air defences destroyed an incoming Houthi drone south of Mecca before it entered prohibited airspace over the holy city.

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Hartlepool
+- Hutton Avenue
+- Mitchell Street
+- Mulgrave Road
+- South Road
+- St Joseph’s Church
+- St Paul’s Road
+people: []
+organisations:
+- Hartlepool Borough Council
 ---
 
 *(Image: GOOGLE MAPS)*

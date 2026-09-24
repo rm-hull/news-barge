@@ -12,6 +12,9 @@ categories:
 - Science
 - Technology & Software
 - Food & Cooking
+locations: []
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_305158229_80c589.jpg?w=840)

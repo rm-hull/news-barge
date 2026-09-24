@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/c3WrJMcfqqatjiW9w8iTwD-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- GitHub
+- Omarchy
+people:
+- HAL
+- Justin Schroeder
+- Mark Tyson
+- Tim Sweeney
+- Tom
+organisations:
+- Claude Code
+- GPU
+- Google News
+- Intel Mac
+- MIT
+- MacBook
+- OS
+- Omarchy
+- Tom's Hardware
 ---
 
 ![Omarchy - agentic Linux](https://cdn.mos.cms.futurecdn.net/c3WrJMcfqqatjiW9w8iTwD.jpg) 

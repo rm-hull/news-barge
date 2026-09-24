@@ -13,6 +13,16 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- David Ross
+- Ms Godley
+- Tikki Godley
+organisations:
+- Jigsaw
+- Macy’s
+- Nordstrom
 ---
 
 Fashion firm Jigsaw has revealed a continued recovery in sales as strong demand for dresses helped it shrug off pressures on the high street.

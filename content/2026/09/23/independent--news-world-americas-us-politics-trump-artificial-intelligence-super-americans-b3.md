@@ -12,6 +12,47 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/15/37/GettyImages-2281424431.jpg?trim=5,0,46,0&width=1200&height=800&crop=1200:800
+locations:
+- Columbia
+- Evian
+- France
+- Georgia
+- Louisiana
+- OpenAI
+- Russia
+- U.S.
+- Union City
+- White House
+people:
+- AI
+- Claude Opus
+- Daniel Schiff
+- Dario Amodei
+- Donald Trump
+- John Kennedy
+- Kristian Hammond
+- Rand Paul
+- Sam Altman
+- Vishal Misra
+organisations:
+- Anthropic
+- Columbia University
+- Congress
+- G7
+- GRAIL
+- Governance & Responsible AI Lab
+- Hammond
+- Northwestern University
+- OpenAI
+- Program for Public Consultation
+- Purdue University
+- Salesforce
+- School of Engineering and Applied Science
+- Skynet
+- The Independent
+- Trump
+- Truth Social
+- University of Maryland
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

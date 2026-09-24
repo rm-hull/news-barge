@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- London
+- UK
+- Westminster
+people:
+- Andy Burnham
+- David Cameron
+- Keir Starmer
+- Kemi Badenoch
+- Liz Truss
+organisations:
+- Badenoch
+- Brexit
+- House of Commons
+- House of Commons.
+- Houses of Parliament.
+- Labour
+- Politics Essential
+- Tory
 ---
 
 ![Andy Burnham is wearing a dark coloured suit jacket, white shirt, blue tie and glasses. He has short, black hair. He is stood up and is speaking. Behind him are MPs sat on the green benches of the House of Commons.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b987/live/fc2b1900-a6cf-11f1-aed2-8d6da8d75094.jpg)

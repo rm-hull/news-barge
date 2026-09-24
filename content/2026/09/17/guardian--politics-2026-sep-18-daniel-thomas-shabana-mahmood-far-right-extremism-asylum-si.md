@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birmingham
+- Crowborough
+- Dover
+- Downing Street
+- England
+- Hampshire
+- Ireland
+- Oxfordshire
+- Piddington
+- Portsmouth
+- Scotland
+- UK
+- Wales
+- Wethersfield
+people:
+- Dan Wootton
+- Daniel Thomas
+- Danny Thomas
+- Danny Tommo
+- Joe Marshall
+- Lorraine Jones Burrell
+- Lynne Baird
+- Pooja Kanda
+- Shabana Mahmood
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Acocks Green
+- Amelia Gentleman
+- CCTV
+- Guardian
+- Home Office
+- Labour
+- Liberal Democrats
+- Ministry of Justice
+- MoD Bicester
+- Patriot Platform
+- Piddington
+- Reform UK
+- Restore
+- YouTube
 ---
 
 Shabana Mahmood has described the anti-asylum activist Daniel Thomas as “a far-right and outright racist” who will feel “the full force of the law” if his organisation commits crimes near contested asylum sites such as Piddington.

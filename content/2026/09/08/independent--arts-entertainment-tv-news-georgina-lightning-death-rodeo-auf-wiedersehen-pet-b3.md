@@ -14,6 +14,27 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Alberta
+- Enoch Cree Nation
+- United States
+- West Germany
+people:
+- Crystle
+- Georgina Lightning
+- Jennifer Lawrence
+- Jessica Matten
+- Lainie Proudfoot
+- Lily Gladstone
+- Tim Healy
+- sons’ Kohkum
+organisations:
+- Enoch Cree Nation
+- Facebook
+- Lightning
+- TAP
+- Texas Ranger.
+- Tribal Alliance Productions
 ---
 
 Tributes have been paid to actor and filmmaker Georgina Lightning, who has been remembered as a "role model" following her death at the age of 63.

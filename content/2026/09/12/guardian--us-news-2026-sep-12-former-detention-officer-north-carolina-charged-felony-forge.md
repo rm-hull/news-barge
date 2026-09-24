@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Guilford
+- North Carolina
+- US
+people:
+- Claudio Nepornuceno
+- Danny H Rogers
+- Michael Diehl
+- Trump
+organisations:
+- GCSO Detention
+- ICE
+- Immigration and Customs Enforcement
+- Magistrate’s Office
+- Nepornuceno
 ---
 
 A former Guilford county detention officer in North Carolina faces forgery charges in connection to 20 alleged forged Immigration and Customs Enforcement (ICE) detainment documents, according to a Guilford county sheriff’s office (GCSO) news release.

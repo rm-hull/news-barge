@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Baie de Seine
+- Calais
+- Dunkirk
+- Eastney Beach
+- Eastney Point
+- Hampshire
+- Isle of Wight
+- Kent
+- Manston
+- Normandy
+- North Sea
+- Portsmouth
+- Strait of Dover
+- UK
+people:
+- Daniel Thomas
+- Donna Jones
+- Emma Reynolds
+- Tommy Robinson
+organisations:
+- Government
+- Hampshire
+- Home Office
+- PCC
+- RNLI
+- Sky News
+- Treasury
 ---
 
 Hundreds of far-right demonstrators descended on Portsmouth on the weekend after a huge dinghy carrying 140 migrants reached the UK from Normandy.

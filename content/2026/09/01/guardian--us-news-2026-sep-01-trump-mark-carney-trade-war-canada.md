@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- Quebec
+- US
+- US-Canada
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Jamieson Greer
+- Mark Carney
+organisations:
+- Politico
+- Trump
 ---
 
 Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being serious” amid escalating trade tensions between the US and Canada.

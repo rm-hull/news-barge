@@ -11,6 +11,153 @@ image: https://i.guim.co.uk/img/media/29808c05037a985e07552a90cedde646c78e55ec/4
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Arlington
+- Canada
+- Covid
+- D.C
+- DC
+- Europe
+- Florida
+- France
+- Iran
+- Kennedy Center
+- Kentucky
+- Latvia
+- Mexico
+- Miami-area
+- Ohio
+- Oklahoma
+- Pennsylvania
+- Rockland
+- South Carolina
+- Stronger Maine
+- Texas
+- Trump
+- U.S.
+- US
+- Ukraine
+- United Russia
+- United States
+- Virginia
+- Washington D.C.
+- Washington, D.C.
+- White House
+- White House Rose Garden
+- Wisconsin
+- Woolwich
+people:
+- Aaron Fritschner
+- Alex Brandon
+- Alex Ovechkin
+- Alexander Ovechkin
+- Andrew Leyden
+- Andrew Wakefield
+- Andy O’Brien
+- Appellants
+- Baiba Braže
+- Bobby
+- Brian Johnson
+- Carney
+- Chris Stein
+- Christopher Cooper
+- Claudia Sheinbaum
+- DavidSteiner
+- Doge
+- Don Beyer
+- Donald Trump
+- Donald Trump Jr
+- Doug Burgum
+- Eliott Rodriguez
+- Jim Lo Scalzo
+- Joe Wilson
+- John F. Kennedy
+- John McCain
+- Jon Kyl
+- Jonathan Ernst
+- Joyce Beatty
+- Kevin Lamarque
+- Kristi Noem
+- Lance Schroyer
+- Lincoln
+- Marco Rubio
+- Markwayne Mullin
+- Mary Holland
+- María Elvira Salazar
+- Matt Floca
+- Melody Schreiber
+- Michael Kane
+- Mitch] McConnell
+- RFK Jr
+- Rand Paul
+- Reagan
+- Robert F. Kennedy Jr
+- Robert F. Kennedy Jr.
+- Ron Johnson
+- Sergey Lavrov
+- Steiner
+- Susan Collins
+- Thomas Massie
+- Umar Kremlev
+- Vladimir Putin
+organisations:
+- Air Force One
+- Associated Press
+- Bangor Daily News
+- Border Patrol
+- CBP
+- CHD
+- Capital One
+- Children’s Health Defense
+- Consumer Financial Protection Bureau
+- Customs and Border Protection
+- D.C. Children’s Health Defense
+- DHS
+- Department of Homeland Security
+- Department of the Interior
+- Donald J. Trump US Institute of Peace
+- EPA
+- EU
+- Elon Musk
+- European Commission
+- Facebook Stronger Maine
+- Federal Election Commission
+- Guardian
+- HHS
+- Health and Human Services
+- Homeland Security
+- House of Representatives
+- ICE
+- Immigration and Customs Enforcement
+- Kennedy Center
+- MSNOW
+- Maine PAC
+- Mare Cressey
+- Meduza
+- NBC News
+- NHL
+- Politico
+- RBC
+- RFK Jr.
+- Reuters
+- Senate
+- Shutterstock The US Institute of Peace
+- Shutterstock United States Institute of Peace
+- State Department
+- Stronger America
+- US Congress
+- US Department of Health and Human Services
+- US Department of the Interior
+- US Doge
+- US Fish and Wildlife Service
+- US Institute of Peace
+- US Postal Service
+- USIP
+- United States Institute of Peace
+- Washington Capitals
+- Waste Management, Inc
+- ZUMA Press Wire
 ---
 
 The US Institute of Peace building near the State Department was renamed the Donald J. Trump US Institute of Peace on 3 December 2025 in Washington, DC. Photograph: Andrew Leyden/ZUMA Press Wire/Shutterstock

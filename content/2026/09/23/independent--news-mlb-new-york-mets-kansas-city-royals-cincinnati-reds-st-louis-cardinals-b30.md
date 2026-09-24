@@ -13,6 +13,92 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/18/Worst_Playoff_Teams_Baseball_493_7.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AL West
+- Colorado
+- Metrodome
+- Minnesota
+- St. Louis
+people:
+- Adam Wainwright
+- Albert Pujols
+- Bert Blyleven
+- Braxton Garrett
+- Brian Dozier
+- Bud Harrelson
+- Byron Buxton
+- Carlos Beltrán
+- Chris Carpenter
+- Cy Young
+- Dan Quisenberry
+- Dante Bichette
+- Elly De La Cruz
+- Ervin Santana
+- Eury Pérez
+- Frank Viola
+- Gary Gaetti
+- George Brett
+- Hunter Greene
+- Jake Peavy
+- Jesús Luzardo
+- Joe Mauer
+- Joe Niekro
+- Jorge Soler
+- Kent Hrbek
+- Kirby Puckett
+- Luis Arraez
+- Pete Rose
+- Sandy Alcantara
+- Scott Rolen
+- Steve Carlton
+- Tom Brunansky
+- Tom Seaver
+- Tony La Russa
+- Trevor Hoffman-led
+- Tug McGraw
+- Willie Hernández
+- Yadier Molina
+organisations:
+- AL Central
+- AL West
+- ALCS
+- American League
+- Arizona
+- Athletics
+- Atlanta
+- Beat Detroit
+- Chicago White Sox
+- Cincinnati
+- Cleveland Guardians
+- Colorado Rockies
+- Diamondbacks
+- Houston Astros
+- Kansas City
+- Kansas City Royals
+- Los Angeles Dodgers
+- MLB
+- Miami Marlins
+- Milwaukee
+- Minnesota Twins
+- NL
+- NLCS
+- NLDS
+- NLWCS
+- New York
+- New York Mets
+- New York Yankees
+- No. 2
+- Oakland
+- Padres
+- Philadelphia
+- Phillies
+- Reds
+- Reds'
+- San Diego
+- St. Louis
+- St. Louis Cardinals
+- Texas Rangers
+- Tigers
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

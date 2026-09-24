@@ -13,6 +13,16 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg
+locations:
+- UK
+people:
+- Myrtle Lloyd
+organisations:
+- HM Revenue and Customs
+- HMRC
+- Money Helper
+- NI
+- National Insurance
 ---
 
 ![Woman looking at a phone sits at a desk with a laptop in front of her and a man and boy in the background.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg)

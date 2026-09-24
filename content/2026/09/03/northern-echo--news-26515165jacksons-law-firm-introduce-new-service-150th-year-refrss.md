@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Charlotte
+- Darlington
+- Newcastle
+- Teesside
+- UK
+people:
+- Charlotte Barugh
+- Christopher Owens
+- Jacksons
+- Ms Barugh
+- Richard Flounders
+- Samantha Higgins
+organisations:
+- Bournemouth University
+- CILEX
+- CIPPM
+- Centre for Intellectual Property Policy and Management
+- Charlotte
+- Intellectual Property Regulation Board
+- Jacksons
+- Merit
+- Ms Barugh
 ---
 
 *(Image: Christopher Owens)*

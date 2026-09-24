@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21484306.jpg?type=og-image
+locations:
+- County Durham
+- England
+- Great Britain
+- NHS
+- North East
+- South Tyneside
+- UK
+people:
+- Ailsa Rutter OBE
+- Amanda Healy
+- Judith Hedgley
+- Ruth Sharrock
+- Sue Mountain
+organisations:
+- Association of Directors of Public Health North East Network
+- Durham County Council
+- Fresh and Balance
+- Middlesbrough Council
+- NHS North East and North Cumbria Integrated Care Board
+- North Cumbria NHS Integrated Care Board
+- North East
+- North East Public Protection Partnership
+- UK Government
 ---
 
 *(Image: Supplied)*

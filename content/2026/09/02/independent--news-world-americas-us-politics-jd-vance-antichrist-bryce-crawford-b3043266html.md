@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/09/02/7/03/Vance.png?trim=0,194,0,2
 categories:
 - News & Politics
 - UK
+locations:
+- Heaven
+- Ohio
+- Rome
+- United States of America
+people:
+- Bryce Crawford
+- Donald Trump
+- God
+- JD Vance
+- Jesus
+- Peter Thiel
+organisations:
+- Palantir
 ---
 
 JD Vance has said that the Antichrist may be “walking among us”, in an interview about his Roman Catholic faith.

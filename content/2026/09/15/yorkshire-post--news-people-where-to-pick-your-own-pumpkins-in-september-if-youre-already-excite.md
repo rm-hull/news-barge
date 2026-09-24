@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Shopping & Deals
+locations:
+- Gate Helmsley
+- Harrogate
+- Horsforth
+- Kemps Farm
+- Pontefract
+- Sessay
+- Thirsk
+people:
+- Farmer Copleys
+- Spilman
+organisations:
+- Balloon Tree
+- Balloon Tree Farm Shop
+- Farmer Copleys
+- Gate Helmsley
+- Yorkshire PYO
 ---
 
 # Where to pick your own pumpkins in September – if you're already excited for Halloween

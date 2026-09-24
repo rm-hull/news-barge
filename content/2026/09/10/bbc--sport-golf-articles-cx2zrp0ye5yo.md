@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bernardus Golf
+- Denmark
+- Europe
+- Finca Cortesin
+- France
+- Germany
+- Ireland
+- Netherlands
+- Netherlands.
+- Robert Trent Jones Golf Club
+- US
+- United States
+- Virginia
+people:
+- Alison Lee
+- Allisen Corpuz
+- Andrea Lee
+- Angela Stanford
+- Anna Nordqvist
+- Celine Boutier
+- Charley Hull
+- Esther Henseleit
+- Jennifer Kupcho
+- Lauren Coughlin
+- Leona Maguire
+- Lindy Duncan
+- Linn Grant
+- Lottie Woad
+- Maja Stark
+- Nanna Koerstz Madsen
+- Nelly Korda
+- Rose Zhang
+organisations:
+- Bernardus Golf Club
+- Hull
 ---
 
 ![Charley Hull tees off](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3496/live/307f3cc0-ad2b-11f1-980e-4fc6f1211def.jpg)

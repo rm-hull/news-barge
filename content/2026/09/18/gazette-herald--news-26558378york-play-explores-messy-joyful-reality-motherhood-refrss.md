@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Jersey Arts Centre
+- York
+people:
+- Elli Mackenzie
+- Harry Booth
+- Motherhood
+organisations:
+- Joseph Rowntree Theatre
+- Oddsocks Productions
 ---
 
 *(Image: Harry Booth)*

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Africa
+- China
+- Europe
+- Ghana
+- Greenland
+- India
+- Japan
+- Lomé
+- Mexico
+- Togo
+- United States
+people:
+- Arno Peters
+- Gerardus Mercator
+- JJ Enoch
+- Robert Dussey
+organisations:
+- African Union
+- Google Maps
+- JS Held
+- Mercator
+- Peters
+- UN
+- Unesco
 ---
 
 The UN general assembly will vote on Friday on a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.

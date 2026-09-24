@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- Born
+- Bradford
+- Bristol
+- Exeter
+people:
+- Salma Chopdat
+organisations:
+- Bradford Teaching Hospitals
+- CycleTrack
+- Wellcome Leap
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Armenia
+- Belarus
+- Central Asia
+- Eurasia
+- Europe
+- India
+- Iran
+- Kazakhstan
+- Kyrgyzstan
+- New Delhi
+- North-South Corridor
+- Russia
+people:
+- Andrey Slepnev
+- Kassym-Jomart Tokayev
+- Manarbek Kabaziyev
+- Piyush Goyal
+organisations:
+- BRICS Framework for Cooperation on Logistics and Supply Chains
+- Commerce and Industry
+- EAEU
+- Eurasian Economic Commission
+- Eurasian Economic Union
+- Foreign Policy Research Institute
+- Ministry of Foreign Affairs
+- TITR
+- Trans-Caspian International Transport Route
 ---
 
 ## The free trade area agreement between India and the Eurasian Economic Union (EAEU) is crucial for the growth of trade in the region and improvement of on-land transport corridors, which will prove to be favourable for Europe as well.

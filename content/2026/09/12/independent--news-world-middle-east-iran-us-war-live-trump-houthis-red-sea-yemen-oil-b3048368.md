@@ -14,6 +14,53 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Arabian Peninsula
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Baghdad
+- Bishkek
+- Dhubab
+- Gaza
+- Gulf of Aden
+- Hejaz Region
+- India
+- Iran
+- Iraq
+- Khark Island
+- Lebanon
+- Maysan
+- Medina
+- Middle East
+- Mokha
+- New Delhi
+- Perim
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Shalamcheh
+- Strait of Hormuz
+- The East-West
+- US
+- Ukraine
+- Washington
+- Yemen
+people:
+- Claude
+- Donald Trump
+- Hazam al-Assad
+- Masoud Pezeshkian
+- Narendra Modi
+- narendramodi
+organisations:
+- AI
+- Anthropic
+- Bab el-Mandeb
+- Houthis’
+- International Energy Agency
+- Modi
+- Republican Party
+- Reuters
 ---
 
 Satellite imagery showed smoke in the area of a crucial oil pipeline in Saudi Arabia, raising fears of another heavy attack by the Houthis on energy infrastructure.

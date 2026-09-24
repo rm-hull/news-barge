@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Law & Justice
+locations:
+- Armley
+- Leeds
+people:
+- Daniel Howsam
+organisations:
+- Leeds Domestic Abuse Team
+- West Yorkshire Police
 ---
 
 *(Image: W Yorks Police)*

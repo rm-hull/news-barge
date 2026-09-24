@@ -15,6 +15,11 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Berlin
+people: []
+organisations:
+- Senate
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0856224967h-scaled.jpg)

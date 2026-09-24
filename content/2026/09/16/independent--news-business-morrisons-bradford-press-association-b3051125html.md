@@ -13,6 +13,14 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- UK
+people:
+- Rami Baitieh
+organisations:
+- Morrisons Daily
+- Morrisons’
+- Myton
 ---
 
 Morrisons has revealed its strongest sales growth for more than a year as the supermarket group’s turnaround gathers pace.

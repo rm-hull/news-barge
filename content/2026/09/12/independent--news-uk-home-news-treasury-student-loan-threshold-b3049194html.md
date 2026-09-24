@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Iran
+- UK
+people:
+- Dame Meg
+- Dame Meg Hillier
+- Meg Hillier
+- Philip Augar
+- Rachel Reeves
+- Richard Townshend
+organisations:
+- Augar
+- Commons Treasury Committee
+- Government
+- PA
+- Treasury Committee
 ---
 
 The Treasury has refused to rule out unfreezing the earnings threshold for university graduates, stating that all elements of the student finance system remain under review.

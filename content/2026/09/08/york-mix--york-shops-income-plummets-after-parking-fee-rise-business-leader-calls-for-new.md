@@ -12,6 +12,29 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bishopthorpe Road
+- Heworth
+- Micklegate
+- Monk Bar Car Park
+- York
+people:
+- Andrew Lowson
+- Cleggs
+- Kate Ravilious
+- Mark Jones
+organisations:
+- ARUP
+- BID Board
+- Business Improvement District
+- City of York Council
+- Cleggs
+- Goodramgate**
+- Park & Ride
+- Place Scrutiny Committee
+- The Groves It
+- York BID
+- York BID’s Board
 ---
 
 A business leader has urged York council to outline its plans for a car parking strategy, saying higher fees are discouraging residents from shopping local.

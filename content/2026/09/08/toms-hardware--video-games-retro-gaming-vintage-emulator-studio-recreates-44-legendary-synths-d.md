@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Hardware
 - Music
+locations: []
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- AU
+- Akai
+- Autodafe
+- Dre
+- Get Tom's Hardware
+- Google News
+- INXS
+- Intel
+- M-series
+- MAME
+- New Order
+- Oberheim DMX
+- PC
+- Prophet-5's
+- The Police
+- Tom's Hardware
+- VES
 ---
 
 ![Akai MPC3000 synth/sampler](https://cdn.mos.cms.futurecdn.net/8nEQ8yniz5uzW626DusaiZ.jpg) 

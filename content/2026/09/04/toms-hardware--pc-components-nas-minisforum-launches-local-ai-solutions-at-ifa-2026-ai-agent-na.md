@@ -13,6 +13,28 @@ image: https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Berlin
+- Germany
+people:
+- Jowi Morales
+- Tom
+organisations:
+- AI Agent NAS N5 Max-P495
+- AMD
+- APU
+- Gemma
+- Google News
+- Hermes Agent
+- IFA
+- Jowi Morales
+- Mac Studio
+- Mini-PC
+- Minisforum
+- NPU
+- OpenAI
+- OpenClaw
+- Qwen
 ---
 
 ![Minisforum NAS N5 Max-P495 and MS-S1 Pax-P495](https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY.png) 

@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- Harborne
+- Oxford
+- Thailand
+- UK
+- US
+- Westminster
+people:
+- Ali Mosawi
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Gary Lubner
+- Henry Angest
+- Kemi Badenoch
+- Lord Sainsbury
+- Michael Gove
+- Nigel Farage
+- Rupert Lowe
+- Sasan Ghandehari
+- Simon Galbraith
+organisations:
+- Autoglass
+- BitMEX
+- Cade Hill Investments
+- Conservative
+- Delo
+- Electoral Commission
+- Flowidea
+- Guardian
+- Labour
+- Reform UK
+- Telegraph
 ---
 
 Reform UK has been given a further £4m from the British crypto billionaire Ben Delo, with the party saying it is confident the formerly Hong Kong-based businessman will not be caught by the new overseas donor cap.

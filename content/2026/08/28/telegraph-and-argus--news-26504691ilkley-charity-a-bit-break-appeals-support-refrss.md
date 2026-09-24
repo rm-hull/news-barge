@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Ireland
+- Lake District
+people:
+- Ange
+- Angela Sturgeon
+- Danny
+- Laura
+- Paula Hunt
+organisations:
+- ABOAB
+- Ilkley
 ---
 
 *(Image: submitted)*

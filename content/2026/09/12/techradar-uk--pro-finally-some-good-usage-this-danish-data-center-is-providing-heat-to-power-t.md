@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
 categories:
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- Denmark
+- Odense
+- Ramboll
+- Thailand
+- United States
+people:
+- Jan Strømvig
+- Lauren Edelman
+- Meta
+organisations:
+- Efosa
+- Fjernvarme Fyn
+- Google News
+- Meta
+- Odense
+- Ramboll
+- TechRadar Pro
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

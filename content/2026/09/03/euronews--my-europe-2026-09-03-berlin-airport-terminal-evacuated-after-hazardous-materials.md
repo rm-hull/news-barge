@@ -11,6 +11,16 @@ image: https://images.euronews.com/articles/stories/09/90/07/10/1200x675_cmsv2_3
 categories:
 - Europe
 - News & Politics
+locations:
+- Berlin
+- Dahme-Spreewald
+people:
+- Johanna Urbancik
+organisations:
+- BER
+- Berlin Brandenburg Airport
+- Tagesspiegel
+- Terminal 1
 ---
 
 **Johanna Urbancik**

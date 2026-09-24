@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Grand Teton
+- Lake Mead
+- Louisiana
+- Mid-Atlantic
+- Nevada
+- North Carolina
+- South
+- U.S.
+- Wyoming
+- Yellowstone
+people:
+- Zack Moore
+organisations:
+- Centers for Disease Control and Prevention
+- Department of Health and Human Services
+- U.S. Centers for Disease Control and Prevention
 ---
 
 A North Carolina teenager is critically ill after being infected with a rare brain-eating amoeba commonly found in ponds, lakes and rivers.

@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/Zg8dfjpbk7w2ub6riq34hW-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dynamic Island
+- US
+people:
+- James
+organisations:
+- AI
+- Apple
+- CAD
+- Clarity Media
+- Google News
+- Instant Digital
+- Leaker Digital Chat Station
+- Samsung
+- TechRadar
 ---
 
 ![Apple iPhone 17 Pro Max HANDS ON](https://cdn.mos.cms.futurecdn.net/Zg8dfjpbk7w2ub6riq34hW.jpg) 

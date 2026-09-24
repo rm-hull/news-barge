@@ -10,6 +10,26 @@ description: You don't have to choose one system or the other...
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/k7rZtfba4HRRMKjq8yCmaf-1920-80.jpg
+locations:
+- Hue Bridge
+- Philips Hue
+- Philips Hue Bridge
+- Simrishamn
+people:
+- K1uppy
+- Redditor
+- Ruth Hamilton
+organisations:
+- CES
+- Google News
+- IKEA
+- PC Format
+- PC Plus
+- Philips Hue
+- Reddit
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Split image of Philips Hue light strip and IKEA Varmblixt smart lamp](https://cdn.mos.cms.futurecdn.net/k7rZtfba4HRRMKjq8yCmaf.jpg)

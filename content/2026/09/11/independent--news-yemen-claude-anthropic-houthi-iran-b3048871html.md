@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bab al-Mandeb Strait
+- Cairo
+- Gaza
+- Iran
+- Israel
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- U.S.
+- Ukraine
+- Washington
+- Yemen
+people:
+- Adam Baron
+- Claude
+- Fatma Khaled
+- Hazam al-Assad
+- Trevor Ball
+organisations:
+- AI
+- Anthropic
+- Armament Research Services
+- Claude Code
+- Houthis’
+- New America
+- U.N.
 ---
 
 Anthropic says Claude users in northern Yemen, territory controlled by Iran-backed Houthi rebels, tried to use the AI model to develop advanced missiles.

@@ -12,6 +12,35 @@ image: https://static.independent.co.uk/2026/09/09/14/Philanthropy_Americares_5_
 categories:
 - News & Politics
 - UK
+locations:
+- Albany
+- Asia
+- Congo
+- Connecticut
+- Gaza
+- Latin America
+- Middle East
+- Nepal
+- North Africa
+- Tanzania
+- U.S.
+- sub-Saharan Africa
+people:
+- Christine Squires
+- Donald Trump
+- Jeff Bezos'
+- Susan Appe
+organisations:
+- AP
+- Americares
+- Americares'
+- Child Nutrition Fund
+- Gates Foundation
+- Lilly Endowment Inc
+- The Conversation US
+- U.S. Agency for International Development
+- UNICEF
+- USAID
 ---
 
 A major American aid group is promising to deliver more medicines in high-need areas around the world after receiving its largest ever donation.

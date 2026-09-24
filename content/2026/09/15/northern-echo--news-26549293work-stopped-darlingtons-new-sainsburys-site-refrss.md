@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Carmel Road South
+- Coniscliffe Road
+- Darlington
+- Durham
+- Elm Ridge Garden Centre
+- YOUR
+people:
+- Peter Reimann
+organisations:
+- Darlington Borough Council
+- McDonald’s
+- Northern Echo
+- Public Notice Portal
+- Sainsbury's Local
+- The Pease
+- Ward Estates
 ---
 
 ### What is the Public Notice Portal?

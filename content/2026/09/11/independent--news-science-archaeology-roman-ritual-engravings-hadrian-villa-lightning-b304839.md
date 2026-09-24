@@ -13,6 +13,20 @@ categories:
 - UK
 - Science
 - History
+locations:
+- Italy
+- Tivoli
+- Villa
+people:
+- Alberto Samonà
+- Alessandro Giuli
+- Fabio Giorgio Cavallero
+- Hadrian
+- Villa Adriana
+organisations:
+- University of Urbino
+- Villa Adriana
+- Villa d'Este Institute
 ---
 
 Archaeologists have unearthed a marble slab at Emperor Hadrian’s Villa in Tivoli, Italy, bearing engravings revering the Roman god of lightning.

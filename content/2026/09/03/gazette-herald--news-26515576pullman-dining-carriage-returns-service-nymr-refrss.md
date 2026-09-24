@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Grosmont Station
+- North York Moors
+- North Yorkshire Moors Railway
+- Pickering Station
+- Pullman
+people:
+- Laura Strangeway
+organisations:
+- Autumn Pullman
+- LNER
+- London and North Eastern Railway
+- NYMR
+- South Yorkshire Area Group
 ---
 
 A historic dining carriage has returned to service after a decade-long restoration.

@@ -12,6 +12,64 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Born
+- California
+- India
+- London
+- New York
+- New York City
+- Ohio
+- Toledo
+- UK
+- US
+people:
+- Al Goldstein
+- Barack Obama
+- Betty Friedan
+- Bill Clinton
+- Bunny
+- Christian Bale
+- David Bale
+- Frank Thomas
+- Gloria Allred
+- Gloria Steinem
+- Harry Reasoner
+- Hugh Hefner
+- Jane Fonda Steinem
+- Jesse Jackson
+- John Sharpe
+- Leo Steinem
+- Marie
+- Marilyn Monroe
+- Maurine Rothschild
+- Maurine Rothschild Bale
+- Mike Nichols
+- Monica Lewinsky
+- Napoleon
+- Playboy
+- Rachel Cooke
+- Rafer Johnson
+- Richard Nixon
+- Robert F Kennedy
+- Ruth
+- Susan Sarandon
+- Susanne
+organisations:
+- BBC
+- Congress
+- Ford Foundation
+- Gloria Steinem
+- National Press Club
+- National Women's Political Caucus
+- New York Magazine
+- New York Times
+- News
+- Playboy Bunny
+- Screw
+- Senate
+- The Guardian
 ---
 
 ![Gloria Steinem lying on a couch in a brown shirt dress surrounded by colourful cushions](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/0e6b/live/bb61f2c0-a78a-11f1-a291-b542ee92de7c.jpg)

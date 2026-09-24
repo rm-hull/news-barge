@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Calderdale
+- Halifax
+- Salterhebble
+- Savile Park Moor
+- Ward
+people:
+- Ann Kingstone
+- Coun Dave Mendes da Costa
+- Coun Hawkaluk
+- Coun Kingstone
+- Coun Paul Hawkaluk
+organisations:
+- Calderdale Council
+- Community Safety and Enforcement
+- Lab
+- Police
+- Reform UK
+- Skircoat Green
+- Southowram
+- Wainhouse
 ---
 
 LONGER-TERM measures to reduce travellers’ access to a famous piece of Calderdale open space are being considered, says a council.

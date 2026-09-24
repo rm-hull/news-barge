@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China
+- Japan
+- Jeju
+- North Korea
+- Russia
+- South Korea
+- U.S.
+- Wonsan
+people:
+- Donald Trump
+- Kang Kon
+- Kim Jong Un
+- Kim Yo Jong
+organisations:
+- Choe Hyon
+- Foreign Ministry
+- Freedom Edge
+- Pentagon
 ---
 
 North Korean leader Kim Jong Un commissioned his second naval destroyer and called for building a more reliable nuclear deterrent, state media reported Monday, as the U.S., South Korea and Japan began a trilateral military exercise he views as a security threat.

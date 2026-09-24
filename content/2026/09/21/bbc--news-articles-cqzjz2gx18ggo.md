@@ -13,6 +13,23 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg
+locations:
+- Saltburn
+people:
+- Cate Titterton
+- Clive Di Giorgio
+- Louis
+- Louis'
+- Martin Coleman
+- Rob Williams
+- Vet Cate Titterton
+organisations:
+- BBC Your Voice
+- British Veterinary Association
+- CMA
+- Cate Titterton
+- Competition and Markets Authority
+- Royal College of Veterinary Surgeons'
 ---
 
 ![

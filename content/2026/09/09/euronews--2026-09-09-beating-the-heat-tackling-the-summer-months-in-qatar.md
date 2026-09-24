@@ -14,6 +14,12 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Gulf
+- Qatar
+people: []
+organisations:
+- Qatar in Motion
 ---
 
 **Euronews**

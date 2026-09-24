@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- America
+- China
+- Dreamforce
+- Los Angeles
+- San Francisco
+- Silicon Valley
+- US
+people:
+- AI
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Jacob Coxon
+- Jensen Huang
+- Sam Altman
+organisations:
+- AI
+- Amodei
+- Anthropic
+- IPO
+- Nvidia
+- OpenAI
+- Salesforce
+- xAI
 ---
 
 Anthropic’s CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development, while Nvidia’s CEO argued against such deceleration.

@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- America
+- Bletchley Park
+- Britain
+- China
+- UK
+- US
+people:
+- AI
+- Alexander Voicu
+- Dario Amodei
+- Donald Trump
+- Ed Zitron
+- Elon Musk
+- Jacob Coxon
+- Parker Thayer
+- Sam Altman
+- Sasha Luccioni
+- Wendy Hall
+organisations:
+- Anthropic
+- BBC
+- Capital Research Centre
+- EZ Primary Research
+- METR
+- NHS
+- OpenAI
+- Sustainable AI
+- Synthesia
+- UK AI
+- UN
 ---
 
 ![Amodei](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg)

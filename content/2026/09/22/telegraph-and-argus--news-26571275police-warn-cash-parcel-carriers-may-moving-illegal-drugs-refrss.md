@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486226.jpg?type=og-image
+locations: []
+people:
+- Michelle Swift
+organisations:
+- Facebook
+- GULLIBLE
+- Instagram
+- Snapchat
+- TikTok
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

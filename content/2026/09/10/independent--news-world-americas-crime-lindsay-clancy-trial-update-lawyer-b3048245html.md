@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- Plymouth County
+- UK
+- USA
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- Donald Trump
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+- Timothy Cruz
+- William Sullivan
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Samaritans
 ---
 
 Lindsay Clancy’s defense attorney has asked a judge to acquit her, arguing she shouldn’t be tried a second time for killing her three young children because prosecutors don’t have enough evidence.

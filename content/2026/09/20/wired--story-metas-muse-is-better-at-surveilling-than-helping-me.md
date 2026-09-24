@@ -13,6 +13,33 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/191:100/w_1280,c_limit/091626-Meta%20Muse.jpg
+locations:
+- San Francisco
+- Silicon Valley
+people:
+- Alexandr Wang
+- Calli Schroeder
+- Emil Vazquez
+- Margaret Mitchell
+- Muse
+- Rory Mir
+- Tarek Sheasha
+organisations:
+- AI
+- Axios
+- ChatGPT Agent
+- Electronic Frontier Foundation
+- Electronic Privacy Information Center
+- Facebook Marketplace
+- Hugging Face
+- Instagram
+- Kahnfections
+- Meta Superintelligence Labs
+- Muse
+- Sensor Tower
+- Stripe
+- WIRED
+- WhatsApp
 ---
 
 I saw Meta’s latest app, Muse, cross-promoted on another Meta-owned platform, Instagram, and decided to download the AI assistant.

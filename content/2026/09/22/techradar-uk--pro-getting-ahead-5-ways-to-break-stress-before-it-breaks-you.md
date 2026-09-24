@@ -12,6 +12,18 @@ categories:
 - Health & Fitness
 - Self-Improvement
 image: https://cdn.mos.cms.futurecdn.net/nKQTr6znQKVirervbiEDkL-2560-80.jpg
+locations: []
+people:
+- Michael Kirton
+organisations:
+- Future plc
+- Health and Safety Executive
+- KAI
+- Kirton's Adaption-Innovation
+- Kirton’s Adaption-Innovation
+- TechRadar Pro
+- TechRadarPro
+- University of Florida
 ---
 
 ![An office worker in front of a computer holding his hand in one hand and looking unhappy](https://cdn.mos.cms.futurecdn.net/nKQTr6znQKVirervbiEDkL.jpg)

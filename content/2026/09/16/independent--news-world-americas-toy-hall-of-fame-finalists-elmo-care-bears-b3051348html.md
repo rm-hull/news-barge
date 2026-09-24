@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Video Gaming
+locations:
+- New York
+- Rochester
+people:
+- Michelle Parnett-Dwyer
+- Tickle Me Elmo
+organisations:
+- American Girl Doll
+- Baby Nancy
+- Cabbage Patch Kids
+- Duncan Yo-Yo
+- Dungeons & Dragons
+- Easy-Bake Oven
+- Erector Set
+- Fisher-Price Corn Popper
+- Fisher-Price Little People
+- Frisbee
+- G.I. Joe
+- Hot Wheels
+- Mahjong
+- National Toy Hall of Fame
+- Polly Pocket
+- Potato Head
+- Star Wars
+- Strong’s National Toy Hall of Fame
+- The Game of Life
+- Tonka Trucks
+- Uno
 ---
 
 A selection of childhood staples, ranging from Tickle Me Elmo to the humble playground slide, are among the finalists for this year's National Toy Hall of Fame.

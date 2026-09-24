@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Science
 - History
+locations: []
+people:
+- Christina Koch
+- Jessica Meir
+- Sophie Adenot
+organisations:
+- Canadarm2
+- International Space Station
+- Nasa
 ---
 
 # Watch: Astronauts set out on rare all-female spacewalk

@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Newcastle
+- South Shields
+people:
+- Couch
+- Ms Cross
+- Sandra Cross
+organisations:
+- Armed Forces
+- Royal Navy
+- Royal Navy Petty Officer
+- SSAFA
 ---
 
 ## From Couch to 5K to Great North Run in under a year for Royal Navy officer

@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b57/live/2bd615
 categories:
 - UK
 - News & Politics
+locations:
+- Burscough
+- West Lancashire
+- Wigan Wallgate-Southport
+people: []
+organisations:
+- BTP
+- British Transport Police
+- Northern
+- Southport
+- Wigan Wallgate
 ---
 
 ![Image shows a train stopped on a railway line, with fields on either side. An official in a hi-vis jacket can be seen standing in front of it.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0b57/live/2bd615b0-a3d8-11f1-a291-b542ee92de7c.jpg)

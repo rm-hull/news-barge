@@ -14,6 +14,15 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/20718710.jpg?type=og-image
+locations:
+- Acomb
+- Grange Lane
+- Monkgate
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

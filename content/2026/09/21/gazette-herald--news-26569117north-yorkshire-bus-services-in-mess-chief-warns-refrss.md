@@ -13,6 +13,20 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/20218327.jpg?type=og-image
+locations:
+- North Yorkshire
+- Richmond
+- Ripon
+- York
+people:
+- Carl Les
+- David Skaith
+organisations:
+- LDRS
+- Labour
+- Local Transport Plan
+- North Yorkshire Council
+- York and North Yorkshire Combined Authority
 ---
 
 North Yorkshire’s bus services are "in a mess” after years of underinvestment, the region’s mayor has bemoaned.

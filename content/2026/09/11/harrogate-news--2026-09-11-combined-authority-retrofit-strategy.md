@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Honeysuckle House
+- North Yorkshire
+- York
+people:
+- David Skaith**
+organisations:
+- '## Workforce Development'
+- City of York Council
+- Combined Authority
+- Federation of Master Builders
+- Net Zero Fund
+- York and North Yorkshire Housing Partnership
 ---
 
 **HARROGATE**— A new infrastructure policy blueprint addressing building energy efficiency and greenhouse gas targets across York and North Yorkshire has been formally adopted by cabinet members today.

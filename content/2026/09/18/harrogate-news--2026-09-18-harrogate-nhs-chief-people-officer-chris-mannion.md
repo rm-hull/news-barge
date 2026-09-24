@@ -14,6 +14,34 @@ categories:
 - Harrogate
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- Angela Wilkinson
+- Chris Mannion
+- Jonathan Coulter
+- Julia Nixon
+organisations:
+- BSc in Psychology
+- CIPD
+- Chartered Institute of Personnel and Development
+- Executive Board
+- HARROGATE**— Harrogate and District NHS Foundation Trust
+- HDFT
+- HPMA
+- Harrogate and District NHS Foundation Trust
+- Healthcare People Management Association
+- MA in Human Resource Management
+- Mannion
+- Mid Yorkshire Teaching NHS Trust
+- NHS Graduate Management Training Scheme
+- NHS Leadership Academy
+- Nye Bevan Programme
+- People Officer.Mannion
+- People and Culture
+- Remuneration Committee
+- VSM
+- Very Senior Manager
+- Workforce and Organisational Development
 ---
 
 **HARROGATE**— Harrogate and District NHS Foundation Trust (HDFT) has formally expanded its executive leadership team with the appointment of Chris Mannion as its new Chief People Officer.Mannion joined the local healthcare provider earlier this month, transitioning directly from his previous post as Deputy Director of Workforce and Organisational Development at Mid Yorkshire Teaching NHS Trust, a position he had maintained since 2019.

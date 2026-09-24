@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Balkans
+- Belgrade
+- Bosnia and Herzegovina
+- Croatia
+- Dayton
+- Europe
+- Greater Serbia
+- Nazi Germany
+- Netherlands
+- Ohio
+- Sarajevo
+- Slovenia
+- Srebrenica
+- Yugoslavia
+people:
+- Aleksandar Vučić
+- Butcher
+- Gen Ratko Mladić
+- Marta Kos
+- Ratko Mladic
+- Ratko Mladić
+organisations:
+- Agence France-Presse
+- EU
+- European Union
+- ICTY
+- UN
 ---
 
 Thousands of mourners have gathered in Belgrade for the funeral of Ratko Mladić, a Serbian general convicted of orchestrating the worst massacre in Europe since the second world war, and whose hero’s return home has raised international alarm.

@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+people:
+- Ms A
+organisations:
+- College of Policing
+- Durham Police
+- Ex-Durham
+- Standards of Professional Behaviour
 ---
 
 *(Image: POLICE)*

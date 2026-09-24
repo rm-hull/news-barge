@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Brasília
+- Brazil
+- Latin America
+- US
+- White House
+people:
+- Adm Almir Garnier Santos
+- Baptista Júnior
+- Braga Netto
+- Carlos de Almeida Baptista Júnior
+- Donald Trump
+- Flávio Bolsonaro
+- Freire Gomes
+- Jair Bolsonaro
+- Joe Biden
+- Juliano da Silva Cortinhas
+- Lt Brig Carlos de Almeida Baptista Júnior
+- Luiz Inácio Lula da Silva
+- Marco Antônio Freire Gomes
+- Paulo Sérgio Nogueira de Oliveira
+- Walter Souza Braga Netto
+organisations:
+- Guardian
+- University of Brasília
 ---
 
 The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he summoned the heads of the armed forces to a meeting.

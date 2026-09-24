@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- Bingley
+- Granary Wharf
+- Leeds
+- Yorkshire
+people:
+- Kerry Magson
+- Tom Walton
+organisations:
+- DWS
+- Don Whitley Scientific
+- Head of Partnerships, Service Delivery
+- Leeds
+- The Principle Trust
+- The Principle Trust Children’s Charity
 ---
 
 *(Image: Supplied)*

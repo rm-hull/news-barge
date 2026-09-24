@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- A170
+- North Yorkshire
+- Sutton Bank
+people: []
+organisations:
+- North Yorkshire Council Weather Camera
 ---
 
 *(Image: North Yorkshire Council Weather Camera)*

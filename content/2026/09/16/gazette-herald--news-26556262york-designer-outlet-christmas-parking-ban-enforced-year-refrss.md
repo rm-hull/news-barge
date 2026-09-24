@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- A19 Fulford Interchange
+- Fulford Court
+- McArthur Glen Designer Outlet
+- McArthurGlen Designer Outlet York
+- Naburn Lane
+- St Nicholas Avenue
+- St Nicolas Avenue
+people: []
+organisations:
+- City of York Council
+- Designer Outlet
+- McArthur Glen Designer Outlet
+- Yorkshire Water
 ---
 
 A SEASONAL parking ban in place during a major York shopping centre's annual event could be enforced year-round under council plans.

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Avalon
+- Bakersfield
+- California
+- Catalina Island
+- Catalina Island Conservancy
+- Channel Islands
+- Los Angeles
+- Santa Catalina Island
+people:
+- Anna L Jacobsen
+- Barton
+- Catalina
+- Gavin Newsom
+- Janice Hahn
+- Max Moritz
+organisations:
+- California State University
+- Pepe Barton
 ---
 
 Locals and tourists have long fawned over Catalina Island’s mule deer population. For nearly a century, the ungulates have roamed the land’s waterfronts and woodlands, so comfortable around humans that it is not uncommon to spot deer roaming downtown Avalon.

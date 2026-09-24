@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- College End House
+- College Road
+- Low Bradley
+- Skipton
+- YOUR
+people: []
+organisations:
+- North Yorkshire Council
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

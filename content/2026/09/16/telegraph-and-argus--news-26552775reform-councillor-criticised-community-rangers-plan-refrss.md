@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Safer Streets
+- UK
+people:
+- Alun Griffiths
+- Cllr Hawarun Hussain
+- Cllr Imran Khan
+- Cllr Reed
+- Ian Reed
+- Rebecca Paulson
+organisations:
+- AI
+- ASB
+- Bradford Council
+- Conservative Group
+- Green Group
+- Labour Group
+- Liberal Democrats Group
+- NSS
+- Neighbourhood Police Team
+- Nottingham
+- Nottinghamshire Safer Streets
+- Reform UK
+- T&A
+- Wyke
 ---
 
 *(Image: T&A)*

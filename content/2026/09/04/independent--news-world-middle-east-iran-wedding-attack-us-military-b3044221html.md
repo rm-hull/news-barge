@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Iran
+- Kuhestak
+- Kuhistik
+- Sirik County
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Martyr Amir-Mohammad Karimi
+- Tim Hawkins
+organisations:
+- BBC Verify
+- Hormozgan Province Red Crescent Society
+- IRC
+- IRGC
+- International Criminal Court
+- Iranian Red Crescent
+- Islamic Revolutionary Guard Corps
+- Mehr
+- US Central Command
 ---
 
 At least five people were killed in a suspected US attack that hit a wedding in Iran after Tehran and Washington exchanged the heaviest strikes between them since July.

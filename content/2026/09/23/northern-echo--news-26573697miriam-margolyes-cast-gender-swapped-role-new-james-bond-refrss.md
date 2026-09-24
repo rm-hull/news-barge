@@ -14,6 +14,36 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21431170.jpg?type=og-image
+locations:
+- Oxford
+- PA
+- Scotland
+- SilverFin
+people:
+- '''** Margolyes'
+- Barnaby Edwards
+- Charles
+- Charlie Higson
+- Christopher Nathan
+- Cleek MacSawney
+- Ed Sheeran
+- George Hellebore
+- Harry Marcus
+- Isaac Rouse
+- James Bond
+- Jeremy Clarkson
+- Lord Hellebore
+- Michael Merriot
+- Miriam Margolyes
+- Red Kelly
+- Robert Valentine
+- SilverFin
+- Steve Ullathorne
+organisations:
+- Harry Potter
+- IFPL
+- SilverFin
+- The Crown
 ---
 
 *(Image: Steve Ullathorne / PA)*

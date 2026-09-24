@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Cher
+- Dodger Stadium
+- Hollywood
+- London
+- Los Angeles
+- Mackie
+- New York
+- New York City
+- New York City.
+- U.S.
+- USA
+people:
+- Arthur B. Krim
+- Beyoncé
+- Bob Mackie
+- Cecil Stoughton
+- Charo
+- Cher
+- Diana Ross
+- Don Ameche
+- Elton John
+- John F Kennedy
+- John F. Kennedy
+- Madonna
+- Marilyn Monroe
+- Mathilde Krim
+- Miley Cyrus
+- Sabrina Carpenter
+- Steven E. Smith
+- Tina Turner
+organisations:
+- Annual Kennedy Center Honors
+- Beyoncé
+- Cher
+- Guru of Glitter
+- Mackie's
+- Madonna
+- Rajah of Rhinestones
+- Sabrina Carpenter
+- Sultan of Sequins
+- The Metropolitan Museum
+- The Metropolitan Museum of Art
+- White House Photographs
+- Zendaya
 ---
 
 **Iconic fashion designer Bob Mackie, who has died aged 87, spent his career styling the biggest stars in his signature bedazzled, feathered and beaded couture.**

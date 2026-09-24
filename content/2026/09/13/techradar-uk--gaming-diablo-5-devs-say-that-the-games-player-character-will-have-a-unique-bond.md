@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/R9zeqNihsPLSwkAscEWZQC-1668-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Diablo
+- Heir
+- Jennifer Hepler
+- Rob
+organisations:
+- Diablo
+- GamesRadar+
+- Google News
+- Hardware
+- Heir of Westmarch
+- Lord of Terror
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![Key art for the Heir of Westmarch in Diablo 5](https://cdn.mos.cms.futurecdn.net/R9zeqNihsPLSwkAscEWZQC.jpg) 

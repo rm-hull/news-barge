@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/5b7b2c0b76de4f45911fde0e78448880dab94231/166_0_2490_1992/master/2490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c4570ff1e6e7c505727d4c2a7c832398
+locations:
+- Amsterdam
+- China
+- Europe
+- Finland
+- Indo-Pacific
+- Iran
+- Middle East
+- Netherlands Australia
+- New York
+- Pacific
+- Russia
+- US
+- Ukraine
+- United Kingdom
+- United States
+people:
+- Alexander Stubb
+- Anthony Albanese
+- Cynthia Erivo
+- Donald Trump
+- Hollie Adams
+- Michele Bullock
+- Mick Tsikas
+- Richard Marles
+- Rob Jetten
+- Sam Altman
+- Stefano Domenicali
+- Volodymyr Zelenskyy
+organisations:
+- AAP Albanese
+- Atlantic Council
+- Australian Associated Press
+- Australian Defence Force
+- Australian Signals Directorate
+- EPA Australia
+- Formula One
+- Getty
+- Malaysia Airlines
+- OECD
+- Open AI
+- OpenAI
+- Organisation for Economic Co-operation and Development
+- Qantas
+- RBA
+- Reserve Bank
+- Reuters
+- Services Australia
+- Transport Workers’ Union
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 The OECD says Australia will struggle to bring underlying inflation back below 3% in 2027. The Reserve Bank, pictured, is expected to deliver another interest rate hike on Tuesday. Photograph: chameleonseye/Getty Images

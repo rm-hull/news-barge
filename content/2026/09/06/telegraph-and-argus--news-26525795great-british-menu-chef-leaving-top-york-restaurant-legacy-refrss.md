@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Grand York Ahmed
+- Legacy
+- London
+- Swinton Park
+- The Grand
+- Yorebridge House
+- Yorkshire
+people:
+- Ahmed Abdalla
+- Kevin Bonello
+organisations:
+- BBC
+- Legacy
+- Michelin Guide
+- North East
+- Pic
+- Skosh
+- The Grand
+- The Rise
+- The Telegraph
+- Yorkshire
 ---
 
 Great British Menu chef Ahmed Abdalla is to leave one of Yorkshire's best fine-dining restaurants to pursue ambitions of opening a venue of his own.

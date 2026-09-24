@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bavaria
+- Black Forest
+- North East
+- Sedgefield
+people:
+- Hardwick
+- Helen Attley
+- Schwarzwalder Kirschtorte
+organisations:
+- A66
+- Hardwick Hall
+- Hardwick Hall Hotel
 ---
 
 *(Image: Supplied)*

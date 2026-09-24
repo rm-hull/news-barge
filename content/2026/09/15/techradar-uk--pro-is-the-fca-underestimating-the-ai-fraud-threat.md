@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- FCA
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- Trend Micro
+- UK & Ireland
 ---
 
 ![A pink triangle with a red exclamation mark inside on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL.jpg) 

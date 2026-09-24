@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chester-le-Street
+- Consett
+- Crookhall
+- Holly Gardens
+- Main Street
+- Strangford Avenue
+- Taylor Street
+- Wales
+people:
+- Brandon Wales
+- Cameron Clifford
+- David Callan
+- James Chappell
+- Kieren Smith
+- Kieren Smith Clifford
+- Liam O’Brien
+- Nathan Adams
+organisations:
+- Durham Police
+- Teesside Crown Court
 ---
 
 A police call handler with a drug addiction kept his dealers “onside” by passing on confidential information.

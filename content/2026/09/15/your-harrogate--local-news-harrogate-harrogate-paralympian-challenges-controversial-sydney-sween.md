@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://mmo.aiircdn.com/409/6aa8e460f13d39b9c71.jpg
+locations:
+- Great Britain
+- Paris
+people:
+- Ellie Simmonds
+- Lottie McGuinness
+- Sydney Sweeney
+organisations:
+- CNN
+- Novig
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa8e460f13d39b9c71.jpg)

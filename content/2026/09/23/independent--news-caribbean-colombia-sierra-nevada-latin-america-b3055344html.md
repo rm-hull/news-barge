@@ -14,6 +14,30 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/21/Colombia_Security_798_2.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Caribbean
+- Colombia
+- La Guajira
+- Latin America
+- Magdalena
+- Santa Marta
+- Sierra Nevada
+- apnews.com
+- hub
+people:
+- Abelardo de la Espriella
+- Antonio Ochoa
+- Cesar
+- Cholo
+- De la Espriella
+- Gustavo Petro
+- José Pérez Villanueva
+- Magdalena Gov
+- María Margarita Guerra
+- Orlando Andrade
+- de la Espriella
+organisations:
+- Sierra Nevada Self-Defense Forces
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

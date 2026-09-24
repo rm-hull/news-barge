@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- HMP Kirklevington Grange
+- Kirklevington Grange
+- North East
+- Yarm
+- Yorkshire
+people:
+- Andy Burnham
+- Catherine McKinnell
+- Echo
+- Kelly Pearce
+- Mark Wood
+organisations:
+- Cleveland Police
+- Government
+- HMP Kirklevington Grange
+- Home Office
+- Northern Echo
+- RDC
+- Reds10
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

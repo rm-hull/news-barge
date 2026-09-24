@@ -12,6 +12,60 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bidur
+- Nepal
+- Nuwakot
+- Pacific
+- Queensland
+- Sydney
+- Trishuli River
+- US
+- Washington Australia
+- Washington DC
+people:
+- Achol Arok Jim Chalmers
+- Hollie Adams
+- Jane Hume
+- Jim Chalmers
+- Lukas Coch
+- Luke Herdegen
+- Malarndirri McCarthy
+- Mark Schiefelbein
+- Mick Tsikas
+- Paul Keating
+- Pete Hegseth
+- Rajesh Kumar Singh
+- Richard Marles
+- Richard Wainwright
+- Tim Wilson
+organisations:
+- AAP Australia
+- AAP Hume
+- AAP Marles
+- ABC
+- AI
+- AP Shadow
+- Albanese
+- Channel Nine’s Today
+- Coalition
+- Commonwealth Bank
+- Fire and Rescue New South Wales
+- First Nations
+- Indigenous Australians
+- Jumbunna Institute
+- Labor
+- Liberals and Nationals
+- Lukas Coch/AAP
+- National Disaster Risk Reduction and Management Agency
+- One Nation
+- One Nation WA
+- Pentagon
+- RAAF
+- Reuters
+- Sitthixay Ditthavong
+- Torres Strait Islander
+- Treasury
 ---
 
 Treasurer Jim Chalmers has pointed to several factors unrelated to recent tax changes that would contribute to a dip in house prices, such as interest rates. Photograph: Hollie Adams/Reuters

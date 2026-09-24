@@ -13,6 +13,33 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/19/12/Asian_Games_Opening_Ceremony_52_25.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Asia
+- Bangladesh
+- China
+- Hangzhou
+- India
+- Japan
+- Kurash
+- Nagoya City Stadium
+- North Korea
+- Palestine
+- Paris
+- South Korea
+- Taipei
+- Taiwan
+- Tokyo
+- Uzbekistan
+people:
+- Joaan bin Hamad Al Thani
+- Kirsty Coventry
+- Lee Yang
+- Masako
+- Naruhito
+organisations:
+- Kabaddi
+- Olympic Council of Asia
 ---
 
 The opening ceremony of the Asian Games on Saturday marked the official start of the 16-day event — but in name only.

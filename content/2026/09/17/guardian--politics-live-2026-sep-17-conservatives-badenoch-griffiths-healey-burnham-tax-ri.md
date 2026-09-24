@@ -12,6 +12,44 @@ image: https://i.guim.co.uk/img/media/56d3df0a2245dbb5a3364f62599237e169d48524/1
 categories:
 - UK
 - News & Politics
+locations:
+- City of London
+- Denton
+- England
+- Gorton
+- Holborn
+- Pakistan
+- St Pancras
+- UK
+people:
+- Andy Burnham
+- Kemi Badenoch
+- Kumail Jaffer
+- Nomia Iqbal
+- Olivia Utley
+- Owen Winter
+- Owen Winter Griffith
+- Paul Novak
+- Paul Nowak
+- Peter Walker
+- Rob Powell
+- Sadiq Khan
+- Zack Polanski
+organisations:
+- Bank of England
+- GB News
+- Guardian
+- Labour
+- MHCLG Andy Burnham
+- Ministry of Housing, Communities and Local Government
+- NICs
+- Owen Winter Council
+- Press Association
+- Reform UK
+- Sky News
+- St Pancras
+- TUC
+- Tory
 ---
 
 Polanski is a member of the London assembly and today Sadiq Khan, the Labour mayor, was appearing before the assembly to take questions. As Polanski asked him a question about data centres, Khan, whose parents came to the UK from Pakistan, mocked him by replying in Urdu. Kumail Jaffer, a local democracy reporter, has the video here.

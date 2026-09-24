@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Holborn
+- St Pancras
+- UK
+people:
+- Adam Fleming
+- Andy Burnham
+- Chris Gray
+- Hannah Montgomery
+- Jack Maclaren
+- Keir Starmer
+- Sam Bonham
+- Shiler Mahmoudi
+organisations:
+- BBC Sounds
+- House of Commons
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - UK
 - Religion & Spirituality
+locations:
+- America
+- Earth
+- Faribault
+- Fuller Farms
+- Haslett-Marroquin
+- Kansas
+- Kentucky
+- Midwest
+- Minnesota
+- Missouri
+- Oglala Sioux Tribe
+- Pine Ridge Indian Reservation
+- Salina
+- Salvatierra Farms
+- South Dakota
+- Tree Range Farms'
+- U.S.
+- Wisconsin
+people:
+- Bron Taylor
+- Gail Fuller
+- God
+- Josh Payne
+- Julie Schwab
+- Laudato Si
+- Lynette
+- Nick Hernandez
+- Reginaldo Haslett-Marroquin
+- Rob Myers
+- Wendell Berry
+- Wil Crombie
+organisations:
+- AP
+- Associated Press
+- Catholic Church
+- Catholic Dominican Sisters of Sinsinawa
+- Fields of Sinsinawa
+- Haslett-Marroquin
+- Lilly Endowment Inc
+- Makoce Agriculture Development
+- Organic Compound
+- Salvatierra Farms
+- The Center for Regenerative Agriculture
+- The Conversation US
+- Tree Range Farms
+- University of Florida
 ---
 
 The towering maple trees and native hazelnut bushes on Salvatierra Farms break up the surrounding corn and soybean fields that sprawl across southern Minnesota.

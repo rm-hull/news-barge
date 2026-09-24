@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+locations:
+- Beulah Street
+- UK
+people:
+- Emma Astin
+- Haroon Ashiq
+organisations:
+- SENDCo
+- Specsavers Harrogate
+- Willow Tree Primary
+- Willow Tree Primary School
 ---
 
 **HARROGATE**— A class of primary school children from the district have taken part in a dedicated educational screening visit to their local opticians, following classroom observations regarding potential vision difficulties.

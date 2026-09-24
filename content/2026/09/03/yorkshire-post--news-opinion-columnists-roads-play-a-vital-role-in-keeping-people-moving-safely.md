@@ -16,6 +16,36 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Aiskew
+- Bedale
+- Catterick Garrison
+- Dales
+- Harrogate
+- Ilkley
+- Kex Gill
+- M62
+- Nepal
+- North Yorkshire
+- Otley
+- Pennine
+- Settle
+- Sutton Bank
+- UK
+- West Yorkshire
+- White Bear Corner
+people:
+- Bruce Rollinson
+- Carl Les
+- Coun Carl Les
+- James Herriot
+organisations:
+- A66
+- M62
+- MCA
+- North Yorkshire Council
+- North Yorkshire Council.
+- North Yorkshire County Council
 ---
 
 # Roads play a vital role in keeping people moving safely across the region - Carl Les

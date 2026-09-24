@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/09/16/22/2295057973..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- East Wing
+- Kennedy Center
+- White House
+people:
+- Christopher R. Cooper
+- Donald Trump
+- Jamie Raskin
+- John F. Kennedy
+- Joyce Beatty
+- Laura Bligh
+- Maria Shriver
+- Norm Eisen
+- Roma Daravi
+organisations:
+- Associated Press
+- Congressional
+- Court
+- Department of Justice
+- East Wing
+- Hands Off the Arts
+- Kennedy Center
+- The Independent
+- Trump
 ---
 
 One day after Donald Trump announced the immediate closure of the Kennedy Center, construction crews erected metal fencing around the building and barred workers from entering without hard hats.

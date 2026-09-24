@@ -13,6 +13,32 @@ categories:
 - York
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- Barbican Road
+- Chorley
+- Lancashire
+- York
+people:
+- Anderson Brookes
+- Kheng Chooi Koay
+organisations:
+- Brighton Argus
+- City of York Council
+- Civil Penalty Referral Notice
+- Companies House
+- Google
+- HMRC
+- Home Office
+- Home Office Civil Penalty Compliance Team
+- NQ
+- Press
+- Regency Online Shopping of Leeds
+- Sky Blue Chinese Restaurant
+- Sky Blue Restaurant
+- Sky Blue York Ltd
+- Sky Blue York Ltd.
+- TripAdvisor
+- __** Companies House
 ---
 
 ## Well-known York restaurant in liquidation owing Home Office £90,000

@@ -15,6 +15,32 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVmYzg2M2E5LTQ1MDAtNDY1Ni1iOTMxLWMyYjMyYTVhZjNmZjpmYmM4YzQ1Yy01OTVjLTQzYjMtYTRiNy1kYjY3MGM1OGYwYWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Cable Street
+- Dover
+- East End
+- Eastern Europe
+- England
+- Holbeck Moor
+- Leeds
+- Leylands
+- London
+- Nazi Germany
+- Poland
+- Russia
+- Yorkshire
+people:
+- Hitler
+- Jon Trickett
+- Oswald Mosley
+- Sir Oswald Mosley
+organisations:
+- Blackshirts
+- British Union of Fascists
+- Cable Street
+- Leeds Watch Committee
+- Yorkshire
 ---
 
 # 90 years on, the Battle of Holbeck Moor in Leeds remains a powerful reminder of what can happen when a community refuses to surrender to hatred - Jon Trickett

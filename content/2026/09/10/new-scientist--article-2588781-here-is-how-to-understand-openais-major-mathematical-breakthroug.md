@@ -11,6 +11,33 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311681995.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Diego Córdoba
+- Navier-Stokes
+- OpenAI
+- Spain
+people:
+- Córdoba
+- Diego
+- John Evans
+- Luis Martínez-Zoroa
+- Steven Brunton
+- Thomas Hou
+- Tristan Buckmaster
+- Zaher Hani
+organisations:
+- AI
+- Anthropic
+- CUNEF University
+- California Institute of Technology
+- Euler
+- Levent Alpöge
+- New York University
+- OpenAI
+- Spanish National Research Council
+- University of Colorado Boulder
+- University of Michigan
+- University of Washington
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311681995.jpg?w=840)

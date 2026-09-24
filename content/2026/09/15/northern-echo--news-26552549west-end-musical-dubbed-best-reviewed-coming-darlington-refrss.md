@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- County Durham
+- Darlington Hippodrome
+- London
+- Nazi Germany
+- UK
+- West End
+people:
+- Adolf Hitler
+- Noël Coward
+- Noël Fielding
+organisations:
+- Countryfile TV
+- Darlington Hippodrome
+- Operation Mincemeat
 ---
 
 One of the West End's biggest recent hits is coming to Darlington next year.

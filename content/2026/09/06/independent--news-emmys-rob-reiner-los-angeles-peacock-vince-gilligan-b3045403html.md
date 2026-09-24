@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Hulu
+- Los Angeles
+people:
+- Becca King
+- Charles Melton
+- Dakota Fanning
+- Hacks
+- Jason Bateman
+- Jeff Hiller
+- Karolina Wydra
+- Laurie Metcalf
+- Leslie Bibb
+- Mariska Hargitay
+- Mel King
+- Michael J. Fox
+- Michele Singer Reiner
+- Noah Wyle
+- Pluribus
+- Rhee Seahorn
+- Rob Reiner
+- Tal Anderson
+- Taylor Dearden
+- The Pitt
+- Vince Gilligan
+- Widow’s Bay
+organisations:
+- Apple TV
+- FXX
+- HBO Max
+- NBC
+- Peacock Theater
+- Pluribus
+- Television Academy
+- The Pitt
 ---
 
 Top nominees “The Pitt,” “Hacks,” “Pluribus” and “Widow’s Bay” will have chances to stock up on Emmys Sunday at an early ceremony eight days before the main awards show and telecast.

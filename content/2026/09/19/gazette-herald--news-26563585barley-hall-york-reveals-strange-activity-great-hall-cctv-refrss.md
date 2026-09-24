@@ -15,6 +15,24 @@ categories:
 - History
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/11697283.jpg?type=og-image
+locations:
+- Barley Hall
+- Coffee Yard
+- Great Hall
+- Medieval England
+- Snawsell
+- Stonegate
+- York
+people:
+- Richard Jones
+organisations:
+- Barley Hall
+- CCTV
+- Great Hall
+- Instagram
+- The Press
+- York Archaeological Trust
+- York Archaeology
 ---
 
 *(Image: Supplied)*

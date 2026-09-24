@@ -9,6 +9,18 @@ description: Processes and tools have admin costs requiring reevaluation and tra
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Pipedrive
+people: []
+organisations:
+- AI ROI
+- CIO
+- CIOs
+- COO
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- Treat AI
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

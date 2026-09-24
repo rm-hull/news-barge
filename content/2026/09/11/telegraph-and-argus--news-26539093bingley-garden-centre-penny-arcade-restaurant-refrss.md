@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Bingley
+- Old Penny Arcade
+- Penny Arcade
+- The Potting Shed
+- Woodbank Garden Centre
+people: []
+organisations:
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

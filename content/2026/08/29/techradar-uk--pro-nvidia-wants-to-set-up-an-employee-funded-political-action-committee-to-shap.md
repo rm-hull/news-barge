@@ -11,6 +11,37 @@ image: https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U-1920-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- AI
+- Texas
+- US
+- United States
+people:
+- Benedict Collins
+- Donald Trump
+- Elon Musk
+- Greg Abbott
+- Jensen Huang
+organisations:
+- AI GPUs
+- APT
+- Amazon
+- BUCSIS
+- Broadcom
+- Google News
+- Inaugural Committee Fund
+- MAGA
+- Meta
+- Milken Institute
+- NVPAC
+- Nvidia
+- PAC
+- PACs
+- Political Action Committees
+- Reuters
+- TechRadar Pro
+- Trump
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Nvidia CEO Jensen Huang talking at Milken Institute event](https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U.jpg) 

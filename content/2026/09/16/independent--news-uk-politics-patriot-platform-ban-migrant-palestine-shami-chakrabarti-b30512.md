@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Dover
+- Portsmouth
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+- Jonathan Brady
+- Ms Chakrabarti
+- Shami Chakrabarti
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Home Office
+- Labour
+- Liberty
+- Palestine Action
+- Palestine Action and Patriot Platform
+- Patriot Platform’
+- Supreme Court
+- The Independent
 ---
 
 The former boss of civil rights group Liberty has urged the government to consider banning the ‘Patriot Platform’ group behind anti-migrant protests that saw masked and hooded men descend on Dover and Portsmouth.

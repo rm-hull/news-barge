@@ -15,6 +15,35 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- A66
+- County Durham
+- Grangetown
+- Haswell
+- Middlesbrough
+- South Bank
+people:
+- Andy McDonald
+- Cole Worthy
+- Jakub Matusiak
+- Kai Inico
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Mr Cahill
+- Natalie McDonald
+- Owen Humphreys
+- Theo Rae
+- Tom Clough
+- Tom Wilkinson
+- Valentina Foster
+organisations:
+- A66
+- BBC Radio 4
+- Cleveland Police
+- Labour
+- Middlesbrough
+- Thornaby East
 ---
 
 # A66 crash: multiple cars torched at vigil to one of victims as police continue to make arrests

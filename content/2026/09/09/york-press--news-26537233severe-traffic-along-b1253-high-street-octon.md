@@ -13,6 +13,12 @@ categories:
 - York
 - Automotive
 - Travel
+locations:
+- B1253 High Street
+- East Yorkshire
+- Octon
+people: []
+organisations: []
 ---
 
 *(Image: Provided)*

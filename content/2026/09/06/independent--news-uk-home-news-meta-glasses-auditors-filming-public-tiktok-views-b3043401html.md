@@ -14,6 +14,25 @@ categories:
 - UK
 - Technology & Software
 - Society & Culture
+locations:
+- Newcastle
+people:
+- Chara Bakalis
+- Mark Mitchell
+- Mr Mitchell
+- Prof Bakalis
+organisations:
+- GMP
+- Greater Manchester Police
+- Liberal Democrats
+- Meta
+- NCC
+- Newcastle city council
+- Northumbria Police
+- Oxford Brookes University
+- Prof Bakalis
+- The Independent
+- TikTok
 ---
 
 On a cold morning in Newcastle city centre, a woman is sat in a woolly hat and coat, blanket over her lap, playing the accordion. A man walks past and offers her a £20 note before quickly snatching it away when she goes to take it. He then swears at her before walking away.

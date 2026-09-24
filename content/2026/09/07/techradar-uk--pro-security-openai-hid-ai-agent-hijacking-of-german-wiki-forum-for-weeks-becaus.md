@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Ashley Knowles
+- Benedict Collins
+- Hugging Face
+organisations:
+- AI
+- APT
+- Astra
+- BUCSIS
+- Black Hills Information Security
+- Google News
+- OpenAI
+- Reuters
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![OpenAI logos](https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi.jpg) 

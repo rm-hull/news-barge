@@ -13,6 +13,26 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/ba119700ce352a0bd0fd64235bce54ca38be8db7/1440_10_3555_2846/master/3555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a66f91dca4e9c9499e408d4370f6da6d
+locations:
+- Britain
+- Downing Street
+- East Yorkshire
+- England
+- Greater Lincolnshire
+- Greater Manchester
+- Hull
+- London
+- West Midlands
+- Whitehall
+people:
+- Aditi Sriram
+- Andy Burnham
+- Jim O’Neill
+organisations:
+- Cabinet Office
+- IPPR North
+- Treasury
+- Whitehall
 ---
 
 England’s mayors should face much greater official scrutiny to avoid Andy Burnham’s devolution agenda being “derailed by one bad decision”, a thinktank has said.

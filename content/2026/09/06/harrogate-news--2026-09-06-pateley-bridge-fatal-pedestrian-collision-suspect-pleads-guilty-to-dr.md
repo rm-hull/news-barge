@@ -13,6 +13,21 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Glasshouses
+- Harrogate Magistrates’ Court
+- Lupton Bank**
+- Pateley Bridge
+- Yorkshire Dales
+people:
+- Bailey Chadwick
+- Bailey Chadwick**
+- Jill Cowling**
+- Joseph Henry Stott**
+- Stott
+organisations:
+- North Yorkshire Police
+- Serious Collision Investigation Unit
 ---
 
 **Joseph Henry Stott**, the driver of a car which tragically collided with** 19-year-old Bailey Chadwick** as he walked home from work near Pateley Bridge in the Yorkshire Dales, has admitted he had been drinking alcohol before he got behind the wheel.

@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bishop Auckland
+- Greenfields Road
+- Station Road
+- Tindale
+- West Auckland
+people: []
+organisations:
+- Durham Constabulary
+- Durham County Council
+- Facebook
+- Northern Echo
+- Tesco
 ---
 
 *(Image: NORTHERN ECHO)*

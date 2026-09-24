@@ -12,6 +12,113 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Al-Ahli
+- Al-Hilal
+- Al-Nassr
+- Al-Qadsiah
+- Algeria
+- Argentina
+- Arsenal
+- Barcelona
+- Bosnia-Herzegovina
+- Bournemouth
+- Brazil
+- Cape Verde
+- Colo-Colo
+- Colombia
+- Ecuador
+- England
+- France
+- Georgia
+- Germany
+- Ivory Coast
+- London
+- Man City
+- Mexico
+- Morocco
+- Norway
+- Paris St-Germain
+- Portugal
+- Russia
+- Senegal
+- Spain
+- Switzerland
+people:
+- Achraf Hakimi
+- Ayyoub Bouaddi
+- Bruno Fernandes
+- David Raya
+- Dayot Upamecano
+- Declan Rice
+- Edouard Mendy
+- Eli Junior Kroupi
+- Emiliano Martínez
+- Erling Haaland
+- Fabian Ruiz
+- Ferran Torres
+- Gabriel
+- Gregor Kobel
+- Harry Kane
+- Ibrahim Maza
+- Joan Garcia
+- Joao Neves
+- Johan Manzambi
+- Jude Bellingham
+- Julian Quinones
+- Kerim Alajbegovic
+- Khvicha Kvaratskhelia
+- Kylian Mbappe
+- Lamine Yamal
+- Lautaro Martinez
+- Lennart Karl
+- Lionel Messi
+- Luis Diaz
+- Luis Enrique
+- Luis de la Fuente
+- Marc Cucurella
+- Matvey Safonov
+- Michael Olise
+- Mikel Arteta
+- Nuno Mendes
+- Ousmane Dembele
+- Pau Cubarsi
+- Rodri
+- Sadio Mane
+- Stanley Matthews
+- Thibaut Courtois
+- Unai Emery
+- Unai Simon
+- Vincent Kompany
+- Vinicius Jr
+- Vitinha
+- Vozinha
+- Warren Zaire-Emery
+- William Saliba
+- Willian Pacho
+- Yan Diomande
+- Yassine Bounou
+organisations:
+- Argentina
+- Arsenal
+- Aston Villa
+- Athletic Bilbao
+- Bayer Leverkusen
+- Bayern Munich
+- Bodo/Glimt
+- Borussia Dortmund
+- Cape Verde
+- Chelsea
+- Flamengo
+- France Football
+- Inter Miami
+- Inter Milan
+- Manchester City
+- Manchester United
+- Marquinhos
+- Paris St-Germain
+- Real Madrid
+- Vozinha
 ---
 
 ![Harry Kane](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg)

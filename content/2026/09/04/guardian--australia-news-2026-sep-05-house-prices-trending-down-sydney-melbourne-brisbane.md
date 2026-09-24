@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Brisbane
+- Darwin
+- Perth
+- Sydney
+people: []
+organisations:
+- AMP
+- Cotality
 ---
 
 Australia’s property market is facing a rare price correction, as rising interest rates and less favourable tax settings for investors accelerate a downturn.

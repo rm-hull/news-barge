@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Washington
+people:
+- Anton Shilov
+- Bruce Andrews
+- Obama
+- Tom
+organisations:
+- AI
+- Bloomberg
+- Congress
+- End Citizens United
+- Federal Election Commission
+- Get Tom's Hardware
+- Google News
+- House
+- Intel
+- Nvidia
+- PAC
+- PACs
+- Political Action Committee
+- Senate
+- Tom’s Hardware
+- Trump Vance Inaugural Committee
+- U.S. Commerce Department
 ---
 
 ![Nvidia logo](https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j.jpg) 

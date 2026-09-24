@@ -12,6 +12,21 @@ description: 'Alien: Isolation 2''s custom audio and lighting tech has enabled C
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/aViE6RwLKngPbN3nW4E7zG-2000-80.jpg
+locations: []
+people:
+- Archie Whitehead
+- Laura Mouther
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
+- UE5
 ---
 
 ![Alien: Isolation 2](https://cdn.mos.cms.futurecdn.net/aViE6RwLKngPbN3nW4E7zG.jpg)

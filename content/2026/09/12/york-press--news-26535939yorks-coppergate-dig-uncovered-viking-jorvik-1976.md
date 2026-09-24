@@ -14,6 +14,30 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- '## City-centre'
+- Britain
+- Coppergate
+- Craven
+- Denmark
+- Jorvik Viking Centre
+- Petergate
+- Viking-age York
+people:
+- Gareth Henry
+- Margrethe
+- Peter Addyman
+- Prince Charles
+- Richard Hall
+organisations:
+- Coppergate Dig
+- JORVIK Viking Centre
+- Jorvik Viking Centre
+- Picture York Archaeological Trust
+- Viking Jorvik
+- York Archaeological Trust
+- York Archaeology
+- York Helmet
 ---
 
 ## City-centre building site unearthed York's lost Viking city - and stunned the world

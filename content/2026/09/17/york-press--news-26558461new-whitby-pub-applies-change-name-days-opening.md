@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Grape Lane
+- Patrick Pool
+- Valhalla York
+- Whitby
+people:
+- Matthew Beddingham
+- Vincent Roberts
+organisations:
+- '## New Whitby'
+- Democracy Reporting Service
+- House Of Memento Mori Logo
+- House of Memento Mori
+- Newsquest
+- VIKING-THEMED
+- Valhalla York
+- Valhalla York Ltd
 ---
 
 ## New Whitby pub applies to change name days before opening

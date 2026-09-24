@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Colburn
+- Darlington
+- New Durham
+- North Yorkshire
+- Northallerton
+- Richmond
+- UK
+people:
+- Martin Perks
+- Rishi
+- Sunak
+organisations:
+- 9 North East
+- Asda
+- Invent Group
+- Next
+- Ocado
+- Rishi Sunak
+- Royal Mail
+- The Vehicle Group
+- Vehicle Group
 ---
 
 *(Image: Supplied)*

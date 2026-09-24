@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c1a/live/ced12ff0-b546-11f1-b1d1-571ed4d7ff2c.png
+locations:
+- Britain
+- England
+- Moscow
+- Piddington
+- Poland
+- Russia
+- Stoke
+- Thailand
+- UK
+- Ukraine
+- Wales
+people:
+- '!["Kemi'
+- Andros Townsend
+- Andy Burnham
+- Bridget Philipson
+- Donald Tusk
+- Earl Spencer
+- Ed Sheeran
+- Erin Brockovich
+- Friedrich Merz
+- John Healey
+- Kemi Badenoch
+- Prince William
+organisations:
+- '!["Big Tech'
+- '!["Labour'
+- BBC
+- Budget
+- Capital Gains Tax
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Star
+- Daily Telegraph.
+- Duke of Sussex
+- FT
+- Financial Times
+- Financial Times.
+- Guardian
+- Labour
+- Metro
+- Nato
+- The Daily Telegraph
+- The Mail
 ---
 
 !["European spy chiefs brace for Russia to test Nato pact" reads the headline on the front page of the Guardian ](https://ichef.bbci.co.uk/ace/standard/785/cpsprodpb/0bac/live/f03dbd10-b538-11f1-bc1f-3f186ca4140c.jpg)

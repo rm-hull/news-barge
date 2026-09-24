@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Covid
+- Dnipropetrovsk
+- Donetsk
+- Kherson
+- Lviv
+- Mariupol
+- Mezhova
+- Myrnohrad
+- Russia
+- Ukraine
+- Zaporizhzhia
+people:
+- Donald Trump
+- Maksym Zabelia
+- Okana
+- Oksana Brovko
+- Vhoru
+- Vladimir Putin
+- Yevhen Khrypun
+organisations:
+- AIRPPU
+- Association of Independent Regional Press Publishers of Ukraine
+- Brovko
+- Internews International
+- Kremenchuk Telegraph
+- Kyiv
+- Media Congress
+- Mezhivskyi Meridian
+- OpenAI
+- Regional Media Support Hub
+- UNESCO
+- World Association of News Publishers
 ---
 
 In the weeks leading up to Vladimir Putin’s invasion of Ukraine, the headlines in a Kyiv newspaper looked much like they would anywhere else.

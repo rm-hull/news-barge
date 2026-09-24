@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Cardiff
+- Israel
+- Port of Dover
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Arthur Laffer
+- Ed Miliband
+- Liam Gallagher
+- Mike Tapp
+- Noel Gallagher
+- Robert Jenrick
+- Tom Tugendhat
+organisations:
+- Kent Police
+- Labour
+- NHS
+- Reform UK
+- Sun
+- Sunday Express
+- Sunday Mirror
+- Sunday Telegraph
+- Sunday Times
+- The Sunday Express
+- The Sunday Mirror
+- The Sunday Telegraph
+- The Sunday Times
 ---
 
 ![The headline on the front page of the Sunday Telegraph reads: “PM's Israel sanctions are 'risk to UK security'”.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/c6be/live/51eb98c0-a96d-11f1-aed2-8d6da8d75094.jpg)

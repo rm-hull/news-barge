@@ -12,6 +12,27 @@ categories:
 - Science
 - Technology & Software
 - Education & Learning
+locations:
+- Dindefelo
+- Germany
+- Senegal
+- Spain
+- UK
+- Uganda
+people:
+- Adriana Hernandez-Aguilar
+- Andreu Sánchez-Megías
+- Andrew Whiten
+- Elliot Howard-Spink
+- Fotti
+- Féré
+- Saïsaï
+- Soukki
+organisations:
+- Jane Goodall Institute
+- Max Planck Institute of Animal Behavior
+- University of Barcelona
+- University of St Andrews
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312570747.jpg?w=840)

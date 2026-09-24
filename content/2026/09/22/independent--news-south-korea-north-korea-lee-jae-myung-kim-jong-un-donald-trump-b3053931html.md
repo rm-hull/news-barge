@@ -14,6 +14,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/01/South_Korea_Politics_49275.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gulf of Aden
+- Iran
+- Korean Peninsula
+- Koreas
+- New York
+- North Korea
+- Pyongyang
+- Seoul
+- South Korea
+- Trump-Kim
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Kim Jong Un
+- Lee Jae Myung
+organisations:
+- AI
+- General Assembly
+- The Associated Press
+- U.N.
+- UN
+- US Trump
 ---
 
 South Korea's liberal President Lee Jae Myung says he’ll underscore the need for a practical, step-by-step denuclearization of North Korea during this week’s U.N. General Assembly, adding that both Seoul and Washington are willing to reengage with Pyongyang.

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21492944.jpg?type=og-image
+locations:
+- Low Ousegate
+- Ouse Bridge
+- York
+people: []
+organisations:
+- DM
+- The Press
 ---
 
 ## Our live feed has now finished.

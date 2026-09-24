@@ -12,6 +12,109 @@ categories:
 - Technology & Software
 - Film & TV
 - Sports
+locations:
+- Allianz Stadium
+- Australia
+- Belarus
+- Canada
+- CommBank Stadium
+- Cuba
+- Glastonbury
+- Iran
+- New Zealand
+- North Korea
+- Pacific Islands
+- Russia
+- Sydney
+- UK
+- US
+- USA
+- canada
+people:
+- Adam Elliott
+- Alex Johnston
+- Andy Murray
+- Bradman Best
+- Brandon Smith
+- Braydon Trindall
+- Cameron Murray
+- Campbell Graham
+- Cody Fletcher
+- Cody Hopwood
+- Cody Walker
+- Dane Gagai
+- David Fifta
+- Dominic Young
+- Elijah Salesa-Leaumoana
+- Fletcher Hunt
+- Fletcher Sharpe
+- Francis Manuleleua
+- Greg Marzhew
+- Griffin Neame
+- Harrison Graham
+- Isaah Yeo
+- Jack Wighton
+- Jamie Humphreys
+- Jayden Sullivan
+- Jeremiah Nanai
+- Jermaine McEwen
+- Jye Gray
+- Kalyn Ponga
+- Keaon Koloamatangi
+- Kyle McCarthy
+- Lachlan Crouch
+- Lachland Hubner
+- Latrell Mitchell
+- Latrell Siegwalt
+- Liam Le Blanc
+- Mat Croker
+- Matt Dufty
+- Pasami Saulo
+- Peter Mamouzelos
+- Phoenix Crossland
+- Radiohead
+- Sam Walker
+- Sandon Smith
+- Sean Keppie
+- Talanoa Penitani
+- Tallis Duncan
+- Tevita Tatola
+- Thomas Cant
+- Toby Winter
+- Tyson Frizell
+- Zac Laybutt
+organisations:
+- Cowboys
+- Cronulla-Sutherland
+- Diesel Hagan We
+- Dolphins
+- FS2
+- FourFourTwo
+- Fox League
+- Fox One
+- Foxtel
+- Fubo**
+- Future Publishing
+- Knights
+- NRL
+- New Zealand Warriors
+- North Queensland
+- OTT
+- Panthers
+- Penrith
+- Premier League
+- Rabbitohs
+- Roosters
+- Sharks
+- Sky Sport
+- Sky Sport NZ**
+- Sky Sports
+- Sky Sports Action
+- Sky Sports**
+- South Sydney
+- Sportsnet
+- TechRadar
+- Wahs Nation
 ---
 
 ![Cody Fletcher of the Rabbitohs slides in for a try.](https://cdn.mos.cms.futurecdn.net/rbfF4tYqKu3K6BEipBBd6K.jpg) 

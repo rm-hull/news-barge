@@ -13,6 +13,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Huntriss Row
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people: []
+organisations:
+- Bethany Lerigo
+- Emma’s Coffee Lounge
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
 ---
 
 ONE of the oldest coffee lounges in a North Yorkshire town has applied for a new licence from the council.

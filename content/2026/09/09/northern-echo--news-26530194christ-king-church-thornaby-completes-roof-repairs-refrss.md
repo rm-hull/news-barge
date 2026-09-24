@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Barnard Castle
+- Christ the King Church
+- Darlington station
+- Thornaby
+- YOUR
+people:
+- Angela Haymonds
+- Christ
+- Pat O’Neill
+organisations:
+- Dragon's Den
+- Enovert Community Trust
+- King Church
+- King School
+- Landfill Communities Fund
+- Public Notice Portal
+- St Patrick’s College
 ---
 
 *(Image: Supplied)*

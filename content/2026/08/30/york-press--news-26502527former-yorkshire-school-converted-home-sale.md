@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Methodist
+- Tockwith
+- Yorkshire
+- Zoopla
+- designed’ York
+people:
+- Carter Jonas
+organisations:
+- Carter Jonas
 ---
 
 ## Former school converted into home hits the market in Yorkshire village – look inside

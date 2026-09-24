@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Landing Lane
+- Moor Lane
+- RSPCA’s York
+people:
+- Albie
+- Marie Sandall
+- Mollie Masters
+organisations:
+- Harrogate & District Branch
+- RSPCA
 ---
 
 A spaniel abandoned in a York was in a ‘truly shocking’ state, the RSPCA has said.

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- Chinaza Eke
+- Elijah Amoako
+- Lizzie Crowley
+- Oliver Walker
+- Sarisha Ganesan
+organisations:
+- Chartered Institute of Personnel and Development
+- Loughborough University
+- University of Liverpool
+- University of Warwick
 ---
 
 ![A four-way split pic using headshots of case studies Sarisha Ganesan, Oliver Walker, Chinaza Eke and Elijah Amoako](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg)

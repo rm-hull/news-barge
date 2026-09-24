@@ -13,6 +13,34 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Braygate Street
+- Broughton
+- Commercial Street
+- Common Lane
+- Helmsley
+- High Street Farm
+- Kirkbymoorside
+- Main Street
+- New Road
+- Norton
+- Paddock Close
+- Thornton Le Clay
+- Village Farm
+- Warthill
+- Welburn
+- Weymouth Pine
+- Wood View
+- Woodhouse Farm
+- YOUR
+people: []
+organisations:
+- Aldi
+- Mouse Cottage
+- North Yorkshire Council
+- Public Notice Portal
+- Recreation Club
+- Ryegate
 ---
 
 *(Image: Newsquest)*

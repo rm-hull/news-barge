@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+- Arizona
+- Florida
+- Iowa
+- Iran
+- Michigan
+- Rose Garden
+- Texas
+- Washington
+people:
+- Donald Trump
+- Drew Johns
+- Elijah Crane
+- Eric Flores
+- James Talarico
+- Joe Mitchell
+- John Kennedy
+- Jon Shiner
+- Ken Paxton
+- Louisiana Sen
+- Melania Trump
+- Mike Beltran
+- Mike Bouchard
+- Mike Marinella
+- Nick Begich
+- Pac
+- Ralph Alvarado
+- Suzan DelBene
+organisations:
+- 14th Congressional District
+- America First
+- American First
+- Congress
+- Financial Times*/Focaldata
+- Fox News
+- GOP House
+- House Republicans’
+- House of Representatives
+- Kentucky House
+- Lone Star State
+- MAGA Inc
+- NBC News
+- Politico
+- Senate
+- The Washington Examiner
+- The Washington Post
+- Trump
 ---
 
 A number of Republican candidates facing tight races in November’s midterm elections have dropped mentions of President Donald Trump from their campaign websites, according to reports.

@@ -11,6 +11,40 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aab266a1bcc9d144a552a68/191:100/w_1280,c_limit/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg
+locations:
+- AI
+- America
+- China
+- US
+people:
+- AI
+- Claude
+- Connor Leahy
+- Dario Amodei
+- Demis Hassabis
+- Geoffrey Irving
+- Rayan Krishnan
+- Raymond Douglas
+- Sam Altman
+- Toby Ord
+- Trump
+- Xi
+organisations:
+- Anthropic
+- Control AI
+- Elon Musk of SpaceXAI
+- FBI
+- Google DeepMind
+- Google DeepMind—
+- NSA
+- Nvidia
+- OpenAI
+- Oxford University
+- RAND
+- RSI
+- UK AI Security Institute
+- University of Toronto
+- Vals AI
 ---
 
 Many AI researchers seem to firmly believe that the technology they are developing could someday prove very dangerous. What’s less clear—even among AI’s technical elite—is precisely how to keep these mercurial algorithms in check.

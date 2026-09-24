@@ -12,6 +12,28 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- New York
+- US
+- Wall Street
+people:
+- Ben Barringer
+- Dario Amodei
+- Donald Trump
+- Musk
+- Sam Altman
+organisations:
+- AI
+- Amodei
+- Anthropic
+- Elon Musk
+- IPO
+- Intel
+- Micron Technology
+- Nvidia
+- OpenAI
+- Quilter Cheviot
+- SpaceX
 ---
 
 Global technology stocks have slumped after warnings from artificial intelligence (AI) bosses sparked fears that the pace of the technology’s development could slow.

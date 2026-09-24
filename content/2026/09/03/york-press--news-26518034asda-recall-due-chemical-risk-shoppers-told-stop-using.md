@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations: []
+people:
+- Chris Radburn
+organisations:
+- ASDA
+- Asda Customer Relations
+- Ladies Handbags
+- OPSS
+- Office for Product Safety and Standards
+- PA Wire
 ---
 
 *(Image: Chris Radburn/PA Wire)*

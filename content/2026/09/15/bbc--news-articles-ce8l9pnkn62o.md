@@ -13,6 +13,103 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- California
+- Los Angeles
+- Los Angeles.
+- USA
+people:
+- Allison Janney
+- Andrew DeYoung
+- Anthony King
+- Ayo Edebiri
+- Billy Crudup
+- Brad Ingelsby
+- Carlos-Manuel Vesga
+- Carolyn Bessette
+- Carrie Coon
+- Charlie Hunnam
+- Christopher Storer
+- Claire Danes
+- Colman Domingo
+- Dale Dickey
+- Debora Cahn
+- Fiona Dourif
+- Gary Oldman
+- Gerran Howell
+- Hanelle M. Culpepper
+- Hannah Einbinder
+- Hiro Murai
+- Jack Lowden
+- Janelle James
+- Jason Bateman
+- Jason Segel
+- Jean Smart
+- Jessica Williams
+- Jimmy Kimmel
+- John F Kennedy Jr
+- John Oliver
+- Julianne Nicholson
+- Karolina Wydra
+- Kate O'Flynn
+- Katherine LaNasa
+- Katie Dippold
+- Keri Russell
+- Kirsten Pierre-Geyfman
+- Lisa Kudrow
+- Lucia Aniello
+- Margo
+- Mark Ruffalo
+- Martin Short
+- Mary Lou Belli
+- Matthew Rhys
+- Megan Stalter
+- Michael Patrick King
+- Michael Urie
+- Michelle Pfeiffer
+- Nick Offerman
+- Noah Wyle
+- Pat Show
+- Patrick Ball
+- Paul W Downs
+- R. Scott Gemmill
+- Randall Einhorn
+- Rhea Seehorn
+- Riz Ahmed
+- RuPaul
+- Rufus Sewell
+- Salli Richardson Whitfield
+- Sarah Pidgeon
+- Sarah Snook
+- Saul Metzstein
+- Sepideh Moafi
+- Shawn Hatosy
+- Stephen Colbert
+- Stephen Root
+- Steve Carell
+- Taylor Dearden
+- Tim Robinson
+- Tom Pelphrey
+- Tyler James Williams
+- Valerie Chu
+- Vince Gilligan
+- Widow
+- Yahya Abdul-Mateen II
+- Zendaya
+organisations:
+- Abbott Elementary
+- DTF St Louis
+- Hacks
+- Harrison Ford
+- Peacock Theater
+- Pluribus
+- Quinta Brunson
+- Sally Field
+- The Bear
+- The Chair Company
+- The Ms
+- The Pitt
+- Widow's Bay
 ---
 
 ![Kate O'Flynn accepts the Outstanding Supporting Actress in a Comedy Series Award for 'Widow's Bay' during the 78th annual Emmy Awards ceremony held at the Peacock Theater in Los Angeles, California, USA, 14 September 2026](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/02f2/live/2ca28070-b09c-11f1-9e7d-cb2f675dfcb0.jpg)

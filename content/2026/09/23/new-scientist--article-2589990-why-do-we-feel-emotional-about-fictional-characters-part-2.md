@@ -14,6 +14,16 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_306065072.jpg
+locations:
+- Greece
+- Holden
+- Massachusetts
+- US
+people:
+- Achilles
+- Prometheus
+- Socrates
+organisations: []
 ---
 
 ![B0729K Television and cartoon characters, depicted in the form of toy dolls, making up a window display.. Image shot 03/2008. Exact date unknown.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_306065072.jpg?w=840)

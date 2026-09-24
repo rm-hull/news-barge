@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Manhattan
+- New York
+- UK
+people:
+- Amy
+- Daniel Weiner
+- Darren Indyke
+- Hillary Nappi
+- Jane Doe
+- Jeffrey Epstein
+- Richard Kahn
+organisations:
+- Childline
+- Epstein
+- NSPCC
+- Napac
+- National Association for People Abused in Childhood
+- National Center for Missing and Exploited Children
 ---
 
 Two women whose images as girls were found in Jeffrey Epstein’s collection of child sexual abuse material have filed a class action lawsuit seeking damages from the late sex offender's estate.

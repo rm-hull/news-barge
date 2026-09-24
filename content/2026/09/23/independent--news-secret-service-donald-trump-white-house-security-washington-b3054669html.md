@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/05/Trump_White_House_42658.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- Butler
+- El Paso
+- Iraq
+- Middle East
+- Pennsylvania
+- Reagan Washington National Airport
+- Rose Garden
+- Skydio
+- Syria
+- Texas
+- U.S.
+- White House
+people:
+- Donald Trump
+- Dustin Talbott
+- Edward Lengel
+- Javed Ali
+- Matt Sloane
+- Paul Eckloff
+- Skydio
+organisations:
+- AI
+- Customs and Border Protection
+- FAA
+- National Security Council
+- Secret Service
+- Secret Service’s Aviation and Airspace Security Division
+- SkyfireAI
+- Supreme Court
+- Treasury Department
+- Trump
+- U.S. Air Force
+- U.S. Secret Service
+- U.S. Supreme Court
+- University of Michigan
+- White House Historical Association
+- White House Military Office
 ---
 
 President Donald Trump's AI-fueled vision for a drone port he intends to install atop the new White House ballroom includes missile-bearing unmanned aerial vehicles and gun-toting troops, ostensibly to protect the 18-acre complex and the nation’s capital.

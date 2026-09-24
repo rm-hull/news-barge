@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488644.jpg?type=og-image
+locations:
+- Baker Viaduct
+- Bradley
+- Deighton Station
+- Dewsbury
+- England
+- Gledholt Tunnel
+- Gledholt Tunnels
+- Huddersfield Station
+- Leeds Road
+- Mirfield
+- Morley
+- Ravensthorpe
+- Sarah Bell
+- West Yorkshire
+- Whitacre Street
+people:
+- Alfred Stanistreet Jee
+- J J Lee
+organisations:
+- TRU
+- Telegraph & Argus
 ---
 
 Fresh tracks are being laid through a pair of historic railway tunnels in West Yorkshire as part of a huge railway upgrade.

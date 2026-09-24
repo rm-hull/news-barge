@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- California
+- Napa County
+people:
+- Alan Jazeel Martinez
+- Allison Haley
+- Diadur
+- Erika Garcia Chavez
+- Katie Gross
+- Luis Fajardo Melgoza
+- Monica Flores
+organisations:
+- CBS News
+- Napa County District Attorney’s Office
+- Napa County Superior Court
+- Vintage High School
 ---
 
 A California drug dealer was found not guilty of murder and involuntary manslaughter Thursday in the fentanyl-related death of a 17-year-old girl who died just two weeks before high school graduation.

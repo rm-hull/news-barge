@@ -16,6 +16,26 @@ categories:
 - Arts & Culture
 - History
 - Business & Entrepreneurship
+locations:
+- County Palatine of Durham
+- Court Lane
+- London
+- North East
+- The Court
+- YOUR
+people:
+- Arnab Basu MBE DL
+- Imad Ali
+- Richard Nellis
+- Terry Haley
+organisations:
+- Court Inn
+- Durham
+- High Sheriff
+- Public Notice Portal
+- The Court
+- The Court Inn
+- The Sanctuary Knocker
 ---
 
 ### What is the Public Notice Portal?

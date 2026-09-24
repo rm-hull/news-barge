@@ -15,6 +15,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Australia
+- Bradford
+- UK
+people:
+- Chris Chidley
+- Driver Hire
+organisations:
+- Driver Hire
+- Driver Hire Australia
+- LOGISTICS
+- SPS Group
 ---
 
 *(Image: Supplied)*

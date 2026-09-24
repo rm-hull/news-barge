@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Explore York
+people:
+- Andrew Hollyer
+- Cllr Widdowson
+- Pete Kilbane
+- enny Layfield
+organisations:
+- City of York Council
+- Explore York
+- Explore York J**
+- Labour
+- Labour-run City of York Council
+- Lib Dem-Green
+- Lib Dems
+- Liberal Democrats’
+- York Liberal Democrat Party
 ---
 
 A contentious council plan to force York’s library service into £600,000 worth of cuts has been dropped.

@@ -12,6 +12,27 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- A64
+- Askham Bryan
+- Askham Bryan College
+- Mill Lane
+- UK
+- YOUR
+- York
+people: []
+organisations:
+- )* Plans
+- A64
+- Askham Bryan College
+- Askham Bryan Wildlife & Conservation Park
+- City of York Council
+- Cornerstone
+- O2
+- Public Notice Portal
+- Virgin Media
+- Virgin Media-O2
+- York Council
 ---
 
 ### What is the Public Notice Portal?

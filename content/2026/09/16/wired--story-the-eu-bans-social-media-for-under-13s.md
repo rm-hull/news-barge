@@ -12,6 +12,28 @@ image: https://media.wired.com/photos/6aa9bdf63aba230bcb567601/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Australia
+- Europe
+- France
+- UK
+people:
+- Arnav Joshi
+- Joanna Conway
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- AI
+- Ashurst Perkins Coie
+- Big Tech
+- Commission
+- EU
+- European Parliament
+- European Union
+- Norton Rose Fulbright
+- State of the Union
+- WIRED
 ---
 
 The European Union has announced it will restrict children’s access to social media across member states in a bid to free them from what President of the Commission Ursula von der Leyen described as the “capture [of] their attention, their focus, their minds” by the platforms.

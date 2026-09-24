@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- London
+- UK
+people:
+- Brenda
+- Ken Theobold
+- Martin Kaiser
+organisations:
+- ICR
+- Institute of Cancer Research
+- Lancet Oncology
+- PA Wire
+- The Institute of Cancer Research
+- The Royal Marsden
+- The Royal Marsden NHS Foundation Trust
+- University of Leeds
 ---
 
 *(Image: The Institute of Cancer Research/PA Wire)*

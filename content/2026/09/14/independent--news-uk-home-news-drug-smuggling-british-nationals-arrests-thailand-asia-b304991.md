@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/14/15/2263046313..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Cambodia
+- Denpasar
+- Georgia
+- Laos
+- Malaysia
+- Thailand
+- UK
+people:
+- Bella May Culley
+- Stephen Doughty
+- Thomas Parker
+organisations:
+- Foreign Office
+- Government
 ---
 
 The number of British nationals detained overseas on drug trafficking charges has surged more than fourfold over three years, official figures show, alongside a Government warning that penalties include life imprisonment and the death sentence.

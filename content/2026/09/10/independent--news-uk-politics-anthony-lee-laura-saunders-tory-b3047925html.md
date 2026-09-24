@@ -10,6 +10,25 @@ image: https://static.independent.co.uk/2024/06/20/11/tony%20lee%20laura%20saund
 categories:
 - News & Politics
 - UK
+locations:
+- Southwark Crown Court
+people:
+- Amy Hind
+- Anthony Hind
+- Anthony Lee
+- Craig Williams
+- Laura Lee
+- Laura Saunders
+- Rishi Sunak
+- Sanders
+organisations:
+- Bristol North-West
+- Cardiff North
+- Conservative Party
+- Conservative Party HQ
+- Montgomeryshire
+- Parliamentary
+- Tory
 ---
 
 The Conservative Party’s former director of campaigning and his Parliamentary candidate wife have admitted cheating at gambling on the date of the 2024 general election.

@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alaska
+- Bering Sea
+- Northwest Explorer
+- St Lawrence Island
+people:
+- Darren Toolie-Noongwook
+- Parker
+- R Adm Bob Little
+organisations:
+- NBC News
+- Samaritan
 ---
 
 A teenaged boy was rescued having clung to a capsized fishing vessel in the Bering Sea for days after the boat overturned and his older brother and cousin drowned.

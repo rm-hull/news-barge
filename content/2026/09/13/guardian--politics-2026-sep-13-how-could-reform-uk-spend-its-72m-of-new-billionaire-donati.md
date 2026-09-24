@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- Great Britain
+- Harborne
+- Scotland
+- Wales
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Ferraris
+- Nigel Farage
+- Theo Bertram
+organisations:
+- Ferrari
+- Labour
+- Reform UK
+- Social Market Foundation
+- TikTok
 ---
 
 Nigel Farage once said he could spend his £5m gift from Christopher Harborne on Ferraris if he wanted to, given its unconditional nature.

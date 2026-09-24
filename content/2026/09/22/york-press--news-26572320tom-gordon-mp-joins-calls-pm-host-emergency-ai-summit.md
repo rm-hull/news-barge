@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21487745.jpg?type=og-image
+locations:
+- China
+- North Yorkshire
+- UK
+- US
+people:
+- King
+- Kirsty Wigglesworth
+- Lisa Smart
+- Sarah Olney
+- Stark
+- Tom Gordon
+- Victoria Collins
+organisations:
+- AI Security Institute
+- Anthropic
+- Harrogate
+- Joint Committee on Human Rights
+- Knaresborough
+- Lib Dem
+- Liberal Democrat
+- OpenAI
+- Whitehall
+- xAI
 ---
 
 ## 'Stark' warnings prompt North Yorkshire MP to urge emergency AI summit

@@ -13,6 +13,34 @@ categories:
 - Society & Culture
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473785.jpg?type=og-image
+locations:
+- Bradford
+- Buckingham Palace
+- Downing Street
+- Jubilee Gardens
+- King’s Cross
+- London
+- Manningham
+- Palace of Westminster
+- St James’s Park
+- Thames
+- The Mall
+- Trafalgar Square
+- UK
+people:
+- Mathew Atkinson
+organisations:
+- Atlas Community Primary School
+- Green Lane Primary School
+- House of Commons
+- House of Lords
+- Houses of Parliament
+- Lilycroft Primary School
+- Margaret McMillan Primary School
+- Miriam Lord Primary School
+- Priestley Academy Trust
+- UK Parliament Education Centre
+- Westbourne Primary School
 ---
 
 A GROUP of young pupils have taken a front-row seat in British democracy.

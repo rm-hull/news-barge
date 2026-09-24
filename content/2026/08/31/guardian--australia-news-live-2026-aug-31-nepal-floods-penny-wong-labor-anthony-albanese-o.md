@@ -12,6 +12,53 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Auburn
+- Australia
+- Canberra
+- China
+- New South Wales
+- Pacific Ocean
+- Palau
+- Paris
+- Queensland
+- Sydney NSW
+- United States-Iran
+people:
+- Anthony Albanese
+- Ben Carroll
+- Brent Mickelberg
+- Caitlin Cassidy
+- Fagan
+- Fuk Israel
+- Jim Chalmers
+- Joel Carrett
+- Luca Ittimani
+- Michael Daley
+- Michelle Rowland
+- Mohommed Farhat
+- Pauline Hanson
+- Rowland Luca Ittimani Michelle Rowland
+- Sue Higginson
+- Vuk Valcic
+- Wesley Morgan
+organisations:
+- 2026 News and Young Australians Report
+- AAP
+- Coalition
+- Corrections Victoria
+- Greens
+- IHRA
+- International Holocaust Remembrance Alliance
+- Labor
+- Minns
+- NSW
+- One Nation
+- One Nation One Nation
+- Ray-Ban Meta AI
+- Shutterstock Rowland
+- The New South Wales
+- Zuma Press Wire
 ---
 
 NSW will not appeal ruling that found anti-Israel vandalism was not antisemitic

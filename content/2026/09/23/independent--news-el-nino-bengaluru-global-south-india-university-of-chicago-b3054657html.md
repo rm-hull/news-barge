@@ -13,6 +13,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/04/Climate_Heat_Deaths_El_Nino_45969.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Brazil
+- Cambodia
+- India
+- Indonesia
+- Iran
+- Latin America
+- Philippines
+- Sahara Desert
+- Sahel
+- South and Southeast Asia
+- Thailand
+- Vietnam
+people:
+- Abhiyant Tiwari
+- Michael Greenstone
+organisations:
+- AP
+- Associated Press’
+- Climate Impact Lab
+- El Nino
+- Global South
+- NRDC India
+- University of Chicago-based Climate Impact Lab
 ---
 
 This year's powerful El Nino and the record global heat it's driving, along with severe droughts, wildfires and shrinking water supplies, could lead to nearly half a million more deaths worldwide by the end of February, according to a research report released Wednesday.

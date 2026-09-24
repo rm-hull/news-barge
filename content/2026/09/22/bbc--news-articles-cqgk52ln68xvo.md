@@ -13,6 +13,20 @@ categories:
 - Family & Parenting
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a19/live/caec1e30-b5a1-11f1-abe6-535e7b14de4c.jpg
+locations:
+- Alder Hey Hospital
+- Cheshire
+- Liverpool
+- Merseyside
+- UK
+people:
+- Rachel Isba
+organisations:
+- Advisory Council on the Misuse of Drugs
+- BBC
+- British Association of Urological Surgeons
+- Ketamine
+- NHS
 ---
 
 ![A teenage girl sits on the toilet, holding toilet paper in her hands](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7a19/live/caec1e30-b5a1-11f1-abe6-535e7b14de4c.jpg)

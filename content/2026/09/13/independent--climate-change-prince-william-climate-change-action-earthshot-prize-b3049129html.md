@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Britain
+- New York
+people:
+- King Charles
+- Prince William
+organisations:
+- Prince of Wales
 ---
 
 Prince William has issued a dramatic plea for action to tackle climate change to be sped up before it is too late.

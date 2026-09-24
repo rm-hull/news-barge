@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- America
+- Ground Zero
+- Manhattan
+- New Jersey
+- New York
+- New York City
+people:
+- Barack Obama
+- Bill Clinton
+- Bill Hochul
+- George Pataki
+- George W. Bush
+- Hasan Piker
+- Howard Lutnick
+- JD Vance
+- Jill Biden
+- Joe Biden
+- Kathy Hochul
+- Laura Bush
+- Michael Bloomberg
+- Michelle Obama
+- Mikie Sherrill
+- Rudy Giuliani
+- Tony Carbonetti
+- Zohran Mamdani
+organisations:
+- City & State
+- Independent
+- Newsmax
+- World Trade Center
 ---
 
 Former New York City Mayor Rudy Giuliani disclosed what he told Mayor Zohran Mamdani during their viral face-to-face exchange at Friday’s ceremony marking the 25th anniversary of the September 11, 2001, terror attacks.

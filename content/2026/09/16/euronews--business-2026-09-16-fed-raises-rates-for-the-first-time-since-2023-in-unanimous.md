@@ -13,6 +13,30 @@ image: https://images.euronews.com/articles/stories/09/91/55/94/1200x675_cmsv2_c
 categories:
 - Europe
 - News & Politics
+locations:
+- Grand Palais
+- Iran
+- Jackson Hole
+- Madrid
+- New York
+- Paris
+- Spain
+- US
+- White House
+people:
+- Donald Trump
+- Emmanuel Macron
+- Jerome Powell
+- Kevin Warsh
+organisations:
+- CME
+- Congress
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
+- Michael Gallucchi Traders
+- New York Stock Exchange
+- US Justice Department
 ---
 
 ## The Federal Reserve has raised its benchmark interest rate by a quarter point to a range of 3.75% to 4%, its first increase since July 2023, in a unanimous 12-0 vote that puts Chair Kevin Warsh directly at odds with the US president who appointed him.

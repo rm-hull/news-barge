@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Argentina
+- Atlantic
+- Britain
+- Falkland Islands
+- Falklands
+- Hormuz
+- Iran
+- Malvinas
+- Sea Lion
+- UK
+- US
+people:
+- Donald Trump
+- Ed Miliband
+- Javier Milei
+- Lucy Powell
+- Wes Streeting
+organisations:
+- Falkland Islanders
+- GB News
+- Navitas
+- Rockhopper
 ---
 
 British ministers have hit back after the Argentinian president said “winds of change” favourable to his country’s claim to the Falklands were “blowing around the world”.

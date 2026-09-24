@@ -13,6 +13,26 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- England
+- Harrogate
+people:
+- Paul Evans
+organisations:
+- Apex Radio Systems
+- Association of Convenience Stores
+- British Retail Consortium
+- Eboracum
+- Harrogate BID
+- Harrogate Business Improvement District
+- LinkedIn
+- NBCC
+- National Business Crime Centre
+- North Yorkshire Police
+- Sainsbury's
+- ShopSafe
+- Smoke Screen
+- The Crown Hotel
 ---
 
 # Harrogate is to host national event on tackling alarming levels of violence, abuse and theft in England

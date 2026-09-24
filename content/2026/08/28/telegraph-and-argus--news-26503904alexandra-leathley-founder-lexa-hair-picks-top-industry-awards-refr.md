@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- AO Arena
+- BURLEY-in-Wharfedale
+- Britain
+- Burley-in-Wharfedale
+- Manchester
+- UK
+- Yorkshire
+people:
+- Alexandra Leathley
+- Fin
+- Lexa Hair
+organisations:
+- AO Arena
+- British Salons
+- Lexa Hair
+- No. 39
+- No. 53
 ---
 
 *(Image: submitted)*

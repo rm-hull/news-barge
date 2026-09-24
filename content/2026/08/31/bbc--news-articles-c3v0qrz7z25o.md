@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- Guangdong
+- HK
+- Hong Kong
+- Iran
+- London
+- Shein.
+- Singapore
+- UK
+- US
+- Wall Street
+people:
+- '![Shein'
+- Ashley Dudarenok
+- Charu Chanana
+- Jason Hsu
+- Leigh Gui
+- Louise Deglise-Favre
+- Poppy Bao
+- Shein Hauls
+- Temu
+- Xu Yangtian
+organisations:
+- Asos
+- BBC
+- Boohoo
+- ChoZan
+- Deglise-Favre
+- EU
+- European Union
+- GlobalData
+- Hong Kong Stock Exchange
+- IPO
+- Rayliant Global Advisors
+- Saxo
+- Shein
+- Temu-owner PDD
 ---
 
 ![Shein's founder, Xu Yangtian (right), stands on a stage next to financial director Poppy Bao during the company's listing ceremony. Behind them is a blue screen showing Shein's shares down by 8.36%.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg)

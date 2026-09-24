@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/09/03/09/2282409655..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Lafayette Park
+- Lafayette Square
+- Sherman Park
+- Washington
+- White House
+people:
+- Donald Trump
+- Doug Burgum
+- Ed Forst
+- James Comer
+- Mark Paoletta
+- Pete Hegseth
+- Rand Paul
+- Will Scharf
+organisations:
+- East Wing
+- Executive Mansion
+- National Capital Planning Commission
+- Secret Service
+- Trump
+- U.S. Commission of Fine Arts
+- White House Visitor Screening Facility
 ---
 
 A federal advisory panel is scheduled to review the latest additions to President Donald Trump's extensive redesign of Washington on Thursday, after previously approving major projects proposed by the administration.

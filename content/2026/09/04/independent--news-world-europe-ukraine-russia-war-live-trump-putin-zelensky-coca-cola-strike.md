@@ -12,6 +12,47 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- '## WHO'
+- Bergheim
+- Brovary
+- Bryansk
+- Dar es Salaam
+- Dormagen
+- Duesseldorf
+- Finland
+- Germany
+- Halle
+- Kremlin
+- Kyiv Oblast
+- Leipzig
+- Moscow
+- Russia
+- US
+- Ukraine
+- Washington
+people:
+- '## Kushner'
+- Christian Lindmeier
+- Dmitry Peskov
+- Donald Trump
+- Jared Kushner
+- Steve Witkoff
+- Volodymyr Zelensky
+- Yegor Kovalchuk
+organisations:
+- '## Air Tanzania'
+- A World Health Organization
+- Air Tanzania
+- Bild
+- Border Guard
+- Facebook
+- Kyiv Independent
+- Reuters
+- TASS
+- Tass
+- Telegram
+- WHO
 ---
 
 Donald Trump’s special envoy Steve Witkoff is reportedly “too scared” to travel to Kyiv for peace talks throwing planned negotiations into doubt, according to a report in the Kyiv Independent.

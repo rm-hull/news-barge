@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21297485.jpg?type=og-image
+locations:
+- Humber
+- UK
+- Yorkshire
+people:
+- Paulius Cubera
+organisations:
+- Gamble Mind
 ---
 
 *(Image: Pexels)*

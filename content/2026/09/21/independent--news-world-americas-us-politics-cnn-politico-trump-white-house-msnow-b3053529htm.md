@@ -11,6 +11,47 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/20/21/2295205675..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Republic
+- United States
+- United States of America
+- White House
+people:
+- Akayla Gardner
+- Betsy Klein
+- Bryan Boughton
+- Cheyenne Haslett
+- Donald Trump
+- JD Vance
+- Jonathan Greenberger
+- Obama
+- Sean Curran
+- Steven Cheung
+- Susie Wiles
+organisations:
+- ABC
+- CBS
+- CNN
+- DOJ
+- FAKE NEWS
+- Fox News
+- Fox News’ Washington
+- Free Press
+- Gibson Dunn
+- Global
+- MS NOW
+- Media Outlets
+- NBC News’
+- National Security
+- POLITICO
+- Politico
+- Secret Service
+- Supreme Court
+- The Independent
+- The New York Times
+- Trump Administration
+- Truth Social
+- United States of America
 ---
 
 Major television networks banded together to halt their shared coverage of President Donald Trump after he barred CNN, MS NOW and Politico from the White House, a move that triggered a lawsuit.

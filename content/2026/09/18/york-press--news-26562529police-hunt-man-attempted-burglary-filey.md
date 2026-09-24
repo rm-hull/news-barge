@@ -13,6 +13,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Filey
+- North Yorkshire
+- Wooldale Drive
+people:
+- Amy Rogers
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

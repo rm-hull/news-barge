@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/ddb999ca061fc80b5d657c4f1167410f1e451432/136_132_1323_1058/master/1323.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=506f49fc7eeb9c9e9561a384b5cee989
+locations:
+- Eastney
+- Ireland
+- Poole
+- Portsmouth
+- UK
+people:
+- Robin Knox-Johnston
+organisations:
+- Beacon CRM
+- RNLI
+- Royal National Lifeboat Institution
+- Telegraph
 ---
 
 Supporters of the Royal National Lifeboat Institution (RNLI) have been warned that their personal information could have been stolen by hackers amid targeting of the charity by far-right agitators.

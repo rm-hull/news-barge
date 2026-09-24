@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Clifton
+- Lumley Road
+- York
+people: []
+organisations:
+- DeWalt
+- North Yorkshire Police
 ---
 
 Thieves have stolen items from a garage in a York suburb during an early morning burglary.

@@ -15,6 +15,20 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Cleveland
+- Stockton
+- Swinton Road
+- Teesside Crown Court
+- Yorkshire
+people:
+- Andrew Savage
+- Constable Maloney
+- Machete’
+organisations:
+- Cleveland Police
+- Dedicated Drugs Unit
+- Middlesbrough’s Community Action Team
 ---
 
 # Drug boss ‘Machete’ jailed after supplying £1m of cocaine across Yorkshire

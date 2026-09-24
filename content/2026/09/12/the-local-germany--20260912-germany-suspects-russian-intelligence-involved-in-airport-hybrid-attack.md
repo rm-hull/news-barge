@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Bonn
+- Bulgaria
+- Germany
+- Leipzig
+- Moscow
+- Russia
+- Serbia
+- Turkey
+- Ukraine
+people:
+- Andrei Ka
+- Oleg Le
+organisations:
+- AFP
+- BfV
+- GRU
+- Welt Am Sonntag
 ---
 
 According to the Welt Am Sonntag newspaper, the officials believe a Russian called Oleg Le, from the GRU intelligence agency, was the logistics coordinator for the Leipzig airport plot.

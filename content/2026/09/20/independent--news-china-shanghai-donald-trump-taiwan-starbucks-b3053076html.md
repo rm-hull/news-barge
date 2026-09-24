@@ -12,6 +12,60 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/20/10/Trump_Xi_Fast_Food_27_58.jpg?width=1200&height=800&crop=1200:800
+locations:
+- ApertureChina
+- Beijing
+- California
+- Church’s Texas Chicken
+- Detroit
+- Fujian
+- Herald Square
+- Hollywood
+- Hong Kong
+- London
+- Mixue
+- New York
+- Pacific
+- Shanghai
+- Southeast Asia
+- Starbucks' China
+- Taiwan
+- Texas Chicken
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Aaron Allen
+- Chan
+- Donald Trump
+- Fu Ting
+- Jinyi Guo
+- Shaun Rein
+- Sory Park
+- Wallace
+- Xi Jinping
+- Yaling Jiang
+- \_\_\_ Durbin
+organisations:
+- Aaron Allen and Associates
+- ApertureChina
+- Associated Press
+- Burger King
+- China Market Research Group
+- Church
+- Daxue Consulting
+- Heytea
+- KFC
+- Luckin Coffee
+- McDonald's
+- National Restaurant Association
+- Pennsylvania McDonald’s
+- Pizza Hut
+- Starbucks
+- The Associated Press
+- US Mixue
+- Wendy’s
 ---
 
 China and the United States are divided on many issues, from tariffs and technology to Taiwan. But there is one thing tying them together: fast food.

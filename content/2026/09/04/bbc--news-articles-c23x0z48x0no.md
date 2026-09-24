@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- US
+- Ukraine
+people:
+- Dmitry Peskov
+- Donald Trump
+- Jared Kushner
+- Jared Kushnerwill
+- Oleksandr Poklad
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Kyiv
+- SBU
+- Tass
 ---
 
 ![US negotiators Jared Kushner (left) and Steve Witkoff. Photo: April 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg)

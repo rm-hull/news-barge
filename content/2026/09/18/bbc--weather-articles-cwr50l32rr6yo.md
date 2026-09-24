@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Atlantic
+- Bawtry
+- El Niño
+- England
+- North-west Scotland
+- Northern Ireland
+- Pacific Ocean
+- South Yorkshire
+- UK
+- Wales
+people: []
+organisations:
+- BBC Weather
+- BBC Weather Watcher
+- El Niño
+- El Niños
+- Met Office
 ---
 
 ![A woman walks her dogs through parched fields. There is a pond with low water level in the background and some buildings. The woman has short grey hair and  is wearing white shorts and a white blouse and has three small dogs.](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/ba8a/live/2fab1210-b2f8-11f1-870c-cd28519f9c5b.jpg)

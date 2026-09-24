@@ -14,6 +14,39 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Australia
+- Beijing
+- China
+- Davos
+- Iran
+- Kiribati
+- Koror
+- New York
+- New Zealand
+- Pacific Islands
+- Pacific Ocean
+- Palau
+- Philippines
+- Solomon Islands
+- South Pacific Ocean
+- Taipei
+- Taiwan
+- The Pacific
+- U.S.
+- United States
+people:
+- Lin Chia-lung
+- Matthew Wale
+- Oliver Nobetau
+- Solomon Islands
+- Surangel Whipps Jr.
+- Taneti Maamau
+- Winston Peters
+organisations:
+- Compact of Free Association
+- Lowy Institute
+- Pacific Islands Forum Leaders Meeting
 ---
 
 Far from New York or Davos, leaders of some of the world’s least populous states are meeting in a placid tropical archipelago with no traffic lights. The population of the summit host, Palau, was due to swell from 18,000 people to 20,000 as delegates from dozens of countries arrived at the Pacific Islands Forum Leaders Meeting.

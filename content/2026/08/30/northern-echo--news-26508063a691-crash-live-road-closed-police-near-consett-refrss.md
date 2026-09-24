@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Consett
+people:
+- Daniel Hordon
+organisations:
+- Northern Echo
 ---
 
 - Good evening, welcome to this Northern Echo live breaking news blog.

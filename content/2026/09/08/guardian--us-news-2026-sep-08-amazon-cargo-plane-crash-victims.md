@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Florida
+- Miami
+- Miami-Dade
+- Puerto Rico
+- San Juan
+people:
+- Carlos Acosta Fajardo
+- Hard
+- Javierkys Reyes Quevedo
+- Jennifer Homendy
+- Julio C Pineda
+- Robert Clifford
+- Rolando Aleman Leon
+- Rosie Cordero-Stutz
+- Yoel Rodriguez Narajo
+organisations:
+- 21 Air
+- 21 Air llc
+- Amazon
+- Guardian
+- NTSB
+- National Transportation Safety Board
+- Professional Ocean Service Corporation
 ---
 
 Officials in Florida on Tuesday identified the five people killed in Saturday’s Amazon cargo plane crash at Miami international airport – and said two more remained hospitalized in critical condition.

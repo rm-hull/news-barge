@@ -11,6 +11,15 @@ description: The winners are 100% voted by you, so pick your winners in health t
 image: https://cdn.mos.cms.futurecdn.net/J5rTJPjo3gx3omcSh598H7-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- CES
+- Google News
+- MWC
+- Marvel
+- Megazord
+- TechRadar
 ---
 
 ![The TechRadar Readers Choice Awards logo on a patterned background](https://cdn.mos.cms.futurecdn.net/J5rTJPjo3gx3omcSh598H7.jpg) 

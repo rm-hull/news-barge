@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20316018.jpg?type=og-image
+locations:
+- Cavendish Street
+- Keighley
+people:
+- Ilkley
+- Robbie Moore
+- Shabana Mahmood
+organisations:
+- '![]()Keighley'
+- HMRC
+- Home Secretary
+- Keighley Neighbourhood Policing Team
+- National Crime Agency
+- Trading Standards
+- West Yorkshire Trading Standards
 ---
 
 AN MP has called on the Home Secretary to take action against illegal businesses operating in his constituency.

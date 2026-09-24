@@ -11,6 +11,26 @@ description: AI helped Interpol match 126 suspected terrorist fighters from 108,
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/oYMP6fyogfLmoyyK3d39oX-970-80.jpg
+locations:
+- Germany
+- Tunisia
+people:
+- María Carmen Muñoz González
+- Rahim Amir
+organisations:
+- AI
+- DTECH-Light
+- Digit
+- Google News
+- IFRS
+- Interior Ministry
+- International Criminal Police Organization
+- Interpol Facial Recognition System
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![The emblem of the International Criminal Police Organization Interpol on a textured blue background.](https://cdn.mos.cms.futurecdn.net/oYMP6fyogfLmoyyK3d39oX.jpg)

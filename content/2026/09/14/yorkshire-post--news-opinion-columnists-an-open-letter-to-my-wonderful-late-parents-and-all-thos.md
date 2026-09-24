@@ -16,6 +16,15 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- England
+- Ireland
+- Scotland
+- Wales
+people:
+- Christa Ackroyd
+organisations:
+- Church of England
 ---
 
 # An open letter to my wonderful late parents and all those who adopt: Christa Ackroyd

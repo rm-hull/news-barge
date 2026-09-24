@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Monks Cross
+- Monks Cross Drive
+- Monks Cross Shopping Park
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- KFC
+- Lidl
+- Lionacre
+- Marsdens Catering of Sheffield Ltd
+- Public Notice Portal
 ---
 
 ## New drive-thru coming to York takes next steps

@@ -12,6 +12,23 @@ image: https://images.euronews.com/articles/stories/09/91/77/16/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- Athens
+- Morocco
+- Qatar
+people:
+- Antonio Panzeri
+- Dimitris Avramopoulos
+- Eva Kaili
+- Qatargate
+organisations:
+- EU
+- Ethics Committee
+- European Commission
+- European Parliament
+- Fight Impunity
+- NGO Fight Impunity
+- New Democracy
 ---
 
 ## The former EU Commissioner has himself urged that legal proceedings go ahead, denies any wrongdoing and says he wants to cooperate fully with the authorities.

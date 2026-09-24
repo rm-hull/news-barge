@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/ef8zeecGrS3texgTdoSkYe-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- People's Republic of China
+- Taiwan
+- US
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- MJIB
+- Ministry of Justice Investigation Bureau
+- OnePlus
+- Oppo and Semiconductor Manufacturing International Corporation
+- Rest of World
+- SMIC
+- TechRadar Pro
+- Xiaomi
 ---
 
 ![Flag of the People's Republic of China overlaid with a technological network of wires and circuits.](https://cdn.mos.cms.futurecdn.net/ef8zeecGrS3texgTdoSkYe.jpg) 

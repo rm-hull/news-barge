@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Acklam
+- CLEVELAND
+- Hartlepool
+- Middlesbrough
+- Teesside Crematorium
+people:
+- Cole Robert Worthy
+- Cole Worthy
+- Jakub Matusiak
+- John Wrintmore
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- Cleveland Police
+- Teesside Crematorium
+- Tory
 ---
 
 *(Image: SOCIAL MEDIA)*

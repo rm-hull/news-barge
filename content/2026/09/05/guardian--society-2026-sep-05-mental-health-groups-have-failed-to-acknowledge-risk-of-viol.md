@@ -15,6 +15,23 @@ categories:
 - Health & Fitness
 - Society & Culture
 - Self-Improvement
+locations:
+- Nottingham
+- Westminster
+people:
+- Barnaby Webber
+- Emma Webber
+- Grace O’Malley-Kumar
+- Ian Coates
+- Mind –
+- Sarah Hughes
+- Seena Fazel
+- Valdo Calocane
+organisations:
+- Celeste Calocane
+- Guardian
+- Mind
+- University of Oxford
 ---
 
 Mental health organisations have “failed to acknowledge” the risk of violence from a minority of people with severe mental illnesses, the chief executive of Mind has said ahead of the closure of the inquiry into the Nottingham attacks.

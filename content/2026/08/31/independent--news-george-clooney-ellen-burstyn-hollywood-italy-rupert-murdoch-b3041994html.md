@@ -12,6 +12,97 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Cannes
+- Excelsior
+- Giudecca
+- Gritti Palace
+- Hollywood
+- Hong Kong
+- Israel
+- Italy
+- Missouri
+- Piazza San Marco
+- Ponte di Rialto
+- Russia
+- St. Regis
+- Ukraine
+- Venice Biennale
+- Venice Lido
+people:
+- Ahmed Hassouna
+- Ajon Singh
+- Al Mowaten Osama
+- Alberto Barbera
+- Alex Gibney
+- Amal Clooney
+- Birdman
+- Brad Pitt
+- Bucking Fastard
+- Bugonia
+- Bunker
+- Cho Yeo-jeong
+- Chris Hansen
+- Claire Foy
+- DAU
+- Daniel Blumberg
+- Danny Boyle
+- Elizabeth Taylor
+- Ellen Burstyn
+- Exile
+- Florian Zeller
+- Frankenstein
+- George Clooney
+- Guy Pearce
+- Hiwar ma’ albahr
+- Ilya Khrzhanovsky
+- Jack O’Connell
+- Javier Bardem
+- John Malkovich
+- Johnnie To
+- Julia Loktev
+- Kaouther Ben Hania
+- Kate Mara
+- Lance Oppenheim
+- Lee Chang-dong
+- Liam Gallagher
+- Louis Garrel
+- Luchino Visconti
+- Maggie Gyllenhaal
+- Martin McDonagh
+- May el-Toukhy
+- Mother Sister Brother
+- Muayad Alayan
+- Musk
+- Noel
+- Pamela Anderson
+- Penélope Cruz
+- Primetime,” Cruz
+- Rashômon
+- Robert Pattinson
+- Rooney
+- Rupert Murdoch
+- Sam Rockwell
+- Shahrbanoo Sadat
+- Thomas Mann
+- Werner Herzog
+- Xavier Giannoli
+organisations:
+- Academy of Motion Picture Arts and Sciences
+- Aman Venice
+- CIA
+- Embassy of Ukraine
+- Esquire
+- Furies
+- Hotel Cipriani
+- Hotel Danieli
+- Hotel Excelsior
+- La Biennale di Venezia
+- Ministry of Culture
+- Ministry of Foreign Affairs
+- Oasis
+- The Sun
+- Venice4Palestine
 ---
 
 Some of Hollywood’s biggest stars are heading to Venice, Italy, for the 83rd edition of the Venice Film Festival, which kicks off on Wednesday.

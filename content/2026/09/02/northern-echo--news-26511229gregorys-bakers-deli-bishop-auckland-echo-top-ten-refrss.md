@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bishop Auckland
+- Carlisle
+- County Durham
+- Dalston Road
+- Darlington Arena
+- Newgate Street
+people:
+- Claire Brown
+- Debra Quarmby
+- Gregory
+- Julie Downing Picture
+- Karen Kitch
+- Me
+- SARAH CALDECOTT
+- Sarah Hall
+- Sarah Hall Owner
+- Stacey Wright
+organisations:
+- 5NP
+- Gregory's Bakers
+- Gregory's Bakers & Deli
+- LOCALLY House
+- The Northern Echo
 ---
 
 A Bishop Auckland bakery which produces around 150 handmade pies every day has been named among the top 10 in a regional search for the best in the business.

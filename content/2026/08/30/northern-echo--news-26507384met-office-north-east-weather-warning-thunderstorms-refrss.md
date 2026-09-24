@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Darlington
+- Durham
+- England
+- North East
+- Northumberland
+- Pennines
+- Teesside
+- Tyne and Wear
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 *(Image: MET OFFICE)*

@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Mike Davies MBE
+organisations:
+- CHILDREN'S
+- Principle Trust
+- Principle Trust Children’s Charity
+- The Principle Trust
+- The Principle Trust Children’s Charity
+- Yorkshire
 ---
 
 *(Image: Supplied)*

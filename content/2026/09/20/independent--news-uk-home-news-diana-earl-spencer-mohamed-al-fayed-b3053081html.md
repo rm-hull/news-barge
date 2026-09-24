@@ -12,6 +12,22 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2023/09/01/23/DianaAlFayad-1.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Egypt
+people:
+- Charles
+- Charles’
+- Diana
+- Dodi Fayed
+- Earl Spencer
+- King
+- Laura Kuenssberg
+- Mohamed al-Fayed
+organisations:
+- BBC
+- Daily Mail
+- Harrods
+- Metropolitan Police
 ---
 
 Earl Spencer struggled to hold back tears when asked how much he misses Princess Diana in a newly released TV interview.

@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Aykley Heads House
+- Chilli Padi
+- Durham
+- Hollywood
+- Malaysia
+- Malaysian Street
+- Newcastle
+- North East Housed
+- Singapore
+- UK
+people:
+- Charlie Hunnam
+- Chilli Padi
+- KangKung Bulacan
+- Kueh Teow Goreng
+- Roti Canai
+organisations:
+- Chilli Padi
+- Chilli Padi Durham
+- Chilli Prawns
+- Hartlepool
+- TripAdvisor
 ---
 
 Celebrity visits are nothing new for successful restaurants, but not every Durham eatery can count Hollywood actor Charlie Hunnam among its admirers.

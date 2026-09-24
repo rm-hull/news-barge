@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Georgia
+- God’ Ohio
+- Texas
+- US
+- United States
+- Virginia
+people:
+- Benedict Collins
+- Bernie Sanders
+- God
+- Greg Casar
+- Mike DeWine
+- Tristan Rader
+organisations:
+- AI
+- APT
+- Amazon
+- Anthropic
+- BUCSIS
+- God’
+- Google News
+- Meta
+- OpenAI
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![The word “AI” is composed of wooden blocks on a map of the United States with the US flag, reflecting the advancement of artificial intelligence in the American economic and technological landscape](https://cdn.mos.cms.futurecdn.net/5yuJRmkBt72BSEKbEp2yVC.jpg) 

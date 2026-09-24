@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A166 Garrowby Hill
+- Bishop Wilton
+- Fridaythorpe
+- Garrowby Hill
+- York
+- Yorkshire Wolds
+people: []
+organisations:
+- A166
+- Humberside Fire and Rescue Service
+- Newsquest
 ---
 
 *(Image: Newsquest)*

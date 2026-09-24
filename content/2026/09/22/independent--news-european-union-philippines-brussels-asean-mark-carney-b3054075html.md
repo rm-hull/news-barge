@@ -12,6 +12,40 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/09/EU_Philippines_Trade_81892.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Australia
+- Brussels
+- Canada
+- China
+- Davos
+- Indo-Pacific
+- Indonesia
+- Malaysia
+- Middle East
+- Philippines
+- Russia
+- Singapore
+- Strasbourg
+- Switzerland
+- Thailand
+- Ukraine
+- United States
+- Vietnam
+people:
+- Mark Carney
+- Maroš Šefčovič
+- María Cristina Aldeguer-Roque
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- ASEAN
+- EU
+- European Commission
+- European Union
+- State of the European Union
+- Trump
+- World Economic Forum
 ---
 
 The European Union and the Philippines announced a new free trade deal on Tuesday in the latest bilateral agreement struck by Brussels as it seeks to diversify its economy as tensions persist with traditional trading partners including China, Russia and the United States.

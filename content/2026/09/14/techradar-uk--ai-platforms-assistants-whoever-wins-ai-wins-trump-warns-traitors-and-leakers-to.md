@@ -11,6 +11,51 @@ image: https://cdn.mos.cms.futurecdn.net/NhTfPBWmk5HbFmrNn2Dy2h-1920-80.jpeg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- Hugging Face
+- Texas
+- U.S.A.
+- US
+- Vermont
+- White House
+people:
+- AI
+- Bernie Sanders
+- Dario Amodei
+- Donald Trump
+- Evan Greer
+- Fight
+- Jacon Coxon
+- Lance Ulanoff
+- Pete Pachal
+- Sam Altman
+- Ted Cruz
+organisations:
+- AI and Data Centers
+- Anthropic
+- BBC
+- Big Tech
+- CNBC
+- CNN
+- Future
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- OpenAI
+- Pachal
+- Tech Bros
+- The Media Copilot
+- Today Show
+- Trump Administration
+- Truth Social
+- US Congress
+- Ziff Davis, Inc
 ---
 
 ![Donald Trump in red tie](https://cdn.mos.cms.futurecdn.net/NhTfPBWmk5HbFmrNn2Dy2h.jpeg) 

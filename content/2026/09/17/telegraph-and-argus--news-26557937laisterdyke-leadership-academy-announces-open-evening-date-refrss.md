@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- Bradford
+- Laisterdyke
+- Thornbury Road
+- UK
+people: []
+organisations:
+- Laisterdyke Leadership Academy
+- Star Academies
 ---
 
 *(Image: Supplied)*

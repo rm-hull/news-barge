@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bab el-Mandeb Strait
+- Chazabeh
+- East-West
+- Iran
+- Iraq
+- Israel
+- Khuzestan
+- Maysan
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Shalamcheh
+- Strait of Hormuz
+- U.S.
+- United States
+- Yemen
+people:
+- Ali al-Zaidi
+- Valiollah Hayati
+organisations:
+- Foreign Ministry
+- International Energy Agency
+- The Associated Press
+- U.N.
 ---
 
 Iraq’s government was racing Saturday to contain the fallout after local Iran-backed militias were accused of attacking and shuttering a key Saudi pipeline. Iraq's government confirmed the attacks had originated from its territory, pledged to investigate and dismissed a military commander.

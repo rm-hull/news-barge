@@ -11,6 +11,34 @@ image: https://i.guim.co.uk/img/media/8e219044cc26c03a8378fffa7042b4183db9a571/4
 categories:
 - UK
 - News & Politics
+locations:
+- Cambridge City
+- Connersville
+- Creitz Creek
+- Fema
+- First Street
+- Gary
+- Indiana
+- Interstate-70
+- Lewisville
+- Michigan
+- Ohio
+- US
+- Whitewater River
+people:
+- Beth Hall
+- Donald Trump
+- Fema
+- Mike Braun
+- Rick Keasling
+- Tami Hall
+- Tom Saunders
+organisations:
+- Center for Climate and Energy Solutions
+- Federal Emergency Management Agency
+- Fema
+- Trump
+- Vinton House Antiques
 ---
 
 It’s been 10 days since the floodwater receded from Cambridge City’s main street and yet signs of disaster are all around.

@@ -11,6 +11,24 @@ image: https://images.euronews.com/articles/stories/09/91/82/26/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Europe
+- Poland
+- Poznań
+- U.S.
+- US
+- Warsaw
+people:
+- Donald Trump
+- Karol Nawrocki
+- Pete Hegseth
+- Władysław Kosiniak-Kamysz
+organisations:
+- NATO
+- Polish Alliance
+- State Department
+- U.S. Army
+- US Army Garrison
 ---
 
 ## The US currently has around 10,000 rotational forces in Poland as well as 11 installation sites, with the US Army Garrison headquartered in Poznań.

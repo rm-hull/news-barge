@@ -13,6 +13,45 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- England
+- North Yorkshire
+- Northallerton
+- Richmond
+- Scarborough
+- Wales
+- York Central
+people:
+- Alec Shelbrooke
+- Alison Hume
+- Bill
+- Julian Smith
+- Keir Mather
+- Kevin Hollinrake
+- Knaresborough Tom Gordon
+- Lauren Edwards
+- Luke Charters
+- Rachael Maskell
+- Rishi Sunak
+- Selby
+- Tom Gordon
+organisations:
+- Conservative
+- Harrogate
+- House of Commons
+- Knaresborough
+- Labour
+- Liberal Democrat
+- Liberal Democrats
+- Malton
+- Ripon
+- Scarborough
+- Skipton
+- Thirsk
+- Wetherby and Easingwold
+- Whitby
+- York Central
+- York Outer
 ---
 
 # How North Yorkshire MPs voted on defeated assisted dying bill

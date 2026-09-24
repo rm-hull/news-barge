@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnard Street
+- Billingham
+- Coulby Newham
+- Darlington
+- Haughton-le-Skerne
+- Hurworth
+- Italy
+- Middlesbrough
+- North East
+- North Yorkshire
+- Rockliffe Court
+- Stockton
+- Tees Valley
+- UK
+people:
+- Amy Griffiths
+- Charlotte Waistell
+- Damian Rodgers
+- Emma Catterson
+- James Lindley
+- Jamie Hope
+- Jodie Brodie-Myers
+- Kay King
+- Malcolm Thompson
+- Nicola Wilkin
+- Omolade Saibu
+- Paul Bott
+- leftNeville Fill
+organisations:
+- Cleveland Police
+- Dalby View
+- Darlington
+- Do Good Charity
+- Fairfields
+- Guzelian Pictures
+- Lindisfarne Court
+- Middlesbrough
+- SJOG
+- Saint John of God Hospitaller Services
+- St John of God
+- The Do Good Charity
+- The Old Vicarage
 ---
 
 A national social care charity with an 80-year history in Darlington has unveiled a new name as it sets out plans to expand its impact while keeping the town at the heart of its operations.

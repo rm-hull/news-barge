@@ -12,6 +12,16 @@ image: https://cdn.mos.cms.futurecdn.net/UyY64mwuRQdcpdTpk8GkR6-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Spigen
+- US
+people:
+- Ruth Hamilton
+organisations:
+- Apple
+- Google News
+- Ruth
+- TechRadar
 ---
 
 ![Collage of iPhone cases](https://cdn.mos.cms.futurecdn.net/UyY64mwuRQdcpdTpk8GkR6.jpg) 

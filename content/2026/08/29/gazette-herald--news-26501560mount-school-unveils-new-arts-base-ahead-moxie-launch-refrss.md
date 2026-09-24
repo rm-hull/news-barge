@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Dalton Terrace
+- Holgate
+- Mount School
+- The Moxie
+- YORK
+- York
+people:
+- Anna Wilby
+- Chris Haltiner
+- Connie
+- Duncan Lomax
+- Holgate
+- Lucy
+- York
+organisations:
+- MAXINE GORDON
+- Mount School
+- Mount School in York
+- Moxie Centre for Art
+- The Mount
+- The Moxie
+- The Moxie Centre for Art
+- The Press
 ---
 
 *The Mount School in York unveils new arts facilities ahead of cultural hub Moxie opening later this year in Holgate, reports MAXINE GORDON*

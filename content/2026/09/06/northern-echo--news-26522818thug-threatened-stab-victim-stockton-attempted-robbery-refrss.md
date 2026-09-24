@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Stockton’s Riverside
+people:
+- Aycliffe
+- Chris Baker
+- Jenny Haigh
+- Liam Collinson
+- Man
+- Marco Giuliani
+organisations:
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 *(Image: Cleveland Police)*

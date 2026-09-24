@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Hennepin County
+- McAllen
+- Mexico
+- Minneapolis
+- Minnesota
+- St. Paul
+- Texas
+- US
+people:
+- Christian Castro
+- Daniel Gerdts
+- Donald Trump
+- Greg Abbott
+- Julio Cesar Sosa-Celis
+- Mary Moriarty
+- Rolando Cantu
+- Tim Walz
+organisations:
+- DHS
+- Department of Homeland Security
+- ICE
+- Justice Department
+- Minnesota Bureau of Criminal Apprehension
+- Trump
 ---
 
 An ICE agent accused of shooting a Venezuelan man through an apartment door and then lying about what happened has been arrested in Minneapolis, eight months after the incident became a flashpoint in President Donald Trump’s immigration crackdown.

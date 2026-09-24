@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- '#### Newlands Lane'
+- Brearton
+- Farnham
+- Knaresborough
+- Light Valley Solar Scheme
+- Newlands Lane
+- Scotton
+- Selby
+- Upper Poppleton
+- York
+people: []
+organisations:
+- BSR Energy
+- City of York Council
+- Rooftops Not Countryside
 ---
 
 A solar farm covering an area as large as 118 football pitches could be coming to York.

@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- '**York'
+- Escrick Park Estate
+- Heronby
+- North Yorkshire
+- Selby
+- Stillingfleet
+- YOUR
+- York
+people:
+- Beilby Forbes-Adam
+- Generation Limbo’
+- Heronby
+organisations:
+- EIA
+- Environmental Impact Assessment
+- Escrick Park Estate
+- Heronby
+- North Yorkshire Council
+- Public Notice Portal
+- Public Notice Portal Views
+- Selby District Council
 ---
 
 *(Image: Supplied)*

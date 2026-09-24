@@ -12,6 +12,24 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Abbey Church
+- Alban Roe House
+- Ampleforth Abbey
+- Falkland Islands
+- Pateley Bridge
+- Pateley Makers Yard
+- Yorkshire
+people:
+- Alice Clarke
+- Alice Clarke.
+- Joanne Gowan
+- Susan Rumfitt
+organisations:
+- Acquire
+- Ampleforth Abbey
+- BBC’s Antiques Roadshow
+- King Street Workshops
 ---
 
 # Pateley Bridge jewellers in showcase event

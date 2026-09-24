@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Harrogate
+- Leeds
+- Spring Mount
+- York
+people: []
+organisations:
+- Myrings Estate Agents
 ---
 
 A six-bedroom terraced house which has been comprehensively refurbished is now for sale in Harrogate for £875,000.

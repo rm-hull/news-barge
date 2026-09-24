@@ -11,6 +11,17 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/16/55/FALMOUTH.png?trim=307,0,307,0&width=1200&height=800&crop=1200:800
+locations:
+- Falmouth Dock
+- Falmouth Docks
+- Falmouth Town
+- West Cornwall
+people:
+- Ian Thompson
+- Thalia Marrington
+organisations:
+- Cornwall Council
+- GWR
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

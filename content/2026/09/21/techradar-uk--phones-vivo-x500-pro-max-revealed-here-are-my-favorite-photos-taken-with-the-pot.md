@@ -11,6 +11,28 @@ description: Vivo's unveils its flagship X500 series of phones, headed up by the
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/ix8zKzDEUxuVDuUVUTvKcM-1920-80.jpg
+locations:
+- Bund
+- China
+- Haungpu river
+- Kenya
+- Nairobi
+- Shanghai
+- UK
+- US
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Cameras
+- Canon
+- Google News
+- Natural History Museum
+- Oppo
+- TechRadar
+- Vivo
+- Xiaomi
 ---
 
 ![Vivo X500 Pro Max phone in user&#039;s hand, alongside a photo of a female model in a field of hay at golden hour](https://cdn.mos.cms.futurecdn.net/ix8zKzDEUxuVDuUVUTvKcM.jpg)

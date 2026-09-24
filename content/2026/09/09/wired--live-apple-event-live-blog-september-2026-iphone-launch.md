@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Apple Park
+- California
+- Cupertino
+- Silicon Valley
+- UK
+people:
+- Boutayna Chokrane
+- Julian Chokkattu
+- Lauren Goode
+- Michael Calore
+- Reece Rogers
+- Siri AI
+organisations:
+- Air—
+- Apple TV
+- Apple Watches
+- PC
+- Watch Ultra
+- YouTube
 ---
 
 Good morning everyone! Welcome to our live coverage of today's Apple media showcase.

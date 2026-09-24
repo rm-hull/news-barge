@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- '## York'
+- A York
+- Beautiful’ York
+- Churchills
+- Driffield Terrace
+- Mount
+- Roof terrace
+- Yorkshire
+- Zoopla
+people:
+- Churchills
+organisations:
+- Churchills
+- Zoopla
 ---
 
 ## York flat with hidden roof terrace hits the market – have a look inside

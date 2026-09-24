@@ -13,6 +13,39 @@ image: https://images.euronews.com/articles/stories/09/91/12/80/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- County Clare
+- Doonbeg
+- Dublin
+- Falkland
+- Iran
+- Israel
+- Moscow
+- Northern Ireland
+- Phoenix Park
+- Republic of Ireland
+- Russia
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+- United Kingdom
+- Washington
+people:
+- Andy Burnham
+- Catherine Connolly
+- Donald Trump
+- Homer
+- Javier Milei
+- Keir Starmer
+- Michael Longley
+- Micheál Martin
+- Taoiseach MicheálMartin
+- Zelenskyy
+organisations:
+- Euronews
+- Kyiv
+- NATO
 ---
 
 ## US President Donald Trump says Ukraine should stop striking Russian diesel supplies as the impact is harming the global economy. Trump's comments come as he continued his two-day visit to Ireland which blend a bit of high-level meetings with personal leisure.

@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- UK
+people:
+- James Harding
+organisations:
+- Blackcircles.com
+- DVLA
+- Tyre
 ---
 
 *(Image: CBCK/Getty)*

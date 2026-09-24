@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2025/07/28/13/70f10352f8fc8ef972ef467d27
 categories:
 - News & Politics
 - UK
+locations:
+- South Norfolk
+- UK
+people:
+- '![Sutton'
+- Ben Goldsborough
+- Colin Sutton
+- Levi Bellfield
+- Nigel Farage
+organisations:
+- BBC
+- Labour
+- Metropolitan Police
+- Norfolk
+- PCC
+- Police and Crime Commissioner
+- Reform UK
 ---
 
 Reform UK’s inaugural Police and Crime Commissioner (PCC) has defended his plans to embark on a nationwide theatre tour featuring over 100 dates next year.

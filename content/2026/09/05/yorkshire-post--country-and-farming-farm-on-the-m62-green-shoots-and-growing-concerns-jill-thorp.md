@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Devon
+people:
+- Bracken
+- Jill Thorp
+organisations:
+- Future and Natural England
 ---
 
 # Farm on the M62: Green shoots and growing concerns - Jill Thorp

@@ -14,6 +14,28 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- City Hall**
+- Dreamforce
+- Howard Street
+- Mission Bay
+- OpenAI
+- San Francisco
+- US
+people:
+- Daniel Lurie
+- Dario Amodei
+- Hunter Glenn**
+- Jensen Huang
+- Michaël Trazzi
+- Nvidia
+- Sam Altman
+organisations:
+- AI Race
+- AI**
+- Anthropic
+- Board of Supervisors
+- OpenAI
 ---
 
 **Dozens of protesters** marched through San Francisco on 17 September, calling on**AI companies** to *“stop the AI race”*. The demonstration began outside**OpenAI’s headquarters** in Mission Bay before moving to**Anthropic’s offices** at 500 Howard Street, next to the**Dreamforce conference**. The march ended at** City Hall**, where protesters urged Mayor Daniel Lurie and the Board of Supervisors to** declare a local AI state of emergency**.

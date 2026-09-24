@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Brazil
+- Munduruku Indigenous Territory
+- Para
+people:
+- Apib
+- Luiz Inácio Lula da Silva
+organisations:
+- AP
+- Amazon Environmental Research Institute
+- Apib
+- Articulation of Indigenous Peoples of Brazil
+- Associated Press’
+- IPAM
+- Inter-American Court of Human Rights
+- Ministry of Human Rights
+- Munduruku
 ---
 
 Indigenous lands face the greatest threat from the expansion of gold mining in the Brazilian Amazon, according to an analysis released Tuesday by the nonprofit Amazon Environmental Research Institute, known as IPAM.

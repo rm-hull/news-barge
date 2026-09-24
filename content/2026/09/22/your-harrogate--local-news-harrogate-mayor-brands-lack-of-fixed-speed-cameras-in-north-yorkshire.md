@@ -12,6 +12,23 @@ categories:
 - Harrogate
 - Travel
 image: https://mmo.aiircdn.com/409/6ab272d51801d148c68.jpg
+locations:
+- A64
+- England
+- North Yorkshire
+- Richmond
+- Sherburn
+- The York
+people:
+- Cllr Les
+- David Skaith
+organisations:
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Road Safety Partnership
+- Road Safety Partnership
+- West Yorkshire
+- York
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab272d51801d148c68.jpg)

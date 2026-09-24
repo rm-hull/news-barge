@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Beijing
+- China
+- Hong Kong
+- Tiananmen Square
+- U.K.
+- Victoria Park
+people:
+- Albert Ho
+- Chow Hang-tung
+- Jimmy Lai
+- Lee Cheuk-yan
+- Urania Chiu
+organisations:
+- Chinese Communist Party
+- Communist Party
+- Hong Kong Alliance in Support of Patriotic Democratic Movements of China
+- Oxford Brookes University
 ---
 
 A Hong Kong court is set to sentence Friday three activists who for years organized vigils in remembrance of China's 1989 Tiananmen Square crackdown, in a case that is widely seen as a barometer of the city's freedoms as Beijing clamps down on dissent.

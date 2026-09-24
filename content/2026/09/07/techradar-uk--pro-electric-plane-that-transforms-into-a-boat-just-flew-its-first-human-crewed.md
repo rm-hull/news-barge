@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/4yeCjs9etD4eueSMCBxwCL-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Narragansett Bay
+- Rhode Island
+- Seaglider
+- United States
+people:
+- Billy Thalheimer
+- Mike Klinker
+organisations:
+- CTO
+- Efosa
+- Google News
+- REGENT Craft
+- Seaglider
+- TechRadar Pro
+- The Twenty Five
+- United States Coast Guard
+- United States Marine Corps Warfighting Laboratory
+- Viceroy
 ---
 
 ![REGENT Viceroy Seaglider, a boat that flies completes its first test with people onboard](https://cdn.mos.cms.futurecdn.net/4yeCjs9etD4eueSMCBxwCL.jpg) 

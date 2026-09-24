@@ -13,6 +13,36 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Central District of California
+- Colorado
+- D.C.
+- Los Angeles
+- Orange
+- Portland
+- Riverside
+- San Bernardino
+- San Luis Obispo
+- Santa Barbara
+- Southern California
+- U.S.
+- Ventura
+- Washington
+people:
+- Brett Kavanaugh
+- Daniel Mummolo
+- Laura Perry Stone
+- Maame Ewusi-Mensah Frimpong
+- Mayra Joachin
+- Todd Lyons
+organisations:
+- ACLU
+- American Civil Liberties Union of Southern California
+- Eastern District of California
+- Public Counsel
+- U.S. Department of Homeland Security
+- U.S. Immigration and Customs Enforcement
+- U.S. Supreme Court
 ---
 
 A federal judge has issued an order blocking immigration officers from making warrantless arrests in Southern California unless they determine the person is likely to escape.

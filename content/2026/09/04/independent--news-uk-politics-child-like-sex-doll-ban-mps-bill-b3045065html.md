@@ -13,6 +13,24 @@ image: https://static.independent.co.uk/2026/08/17/07/01M076G6F1D8PWH43VS8X36Y54
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Twickenham
+- UK
+- Wales
+people:
+- Abigail Gill
+- Bill
+- Ms Wilson
+- Munira Wilson
+- Rachel de Souza
+organisations:
+- Bill
+- House of Commons
+- House of Lords
+- Liberal Democrat
+- NSPCC
+- Press Association
 ---
 
 Legislation banning child-like sexual abuse dolls has moved closer to becoming law after clearing its initial hurdle in the House of Commons.

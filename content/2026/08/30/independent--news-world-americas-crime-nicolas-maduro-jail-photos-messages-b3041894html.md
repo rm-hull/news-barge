@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Caracas
+- Caribbean
+- Central America
+- New York
+- People of the United States
+- Tren de Aragua
+- U.S.
+- US
+- Venezuela
+people:
+- Alex Woodward
+- Cilia Flores
+- Delcy Rodriguz
+- Donald Trump
+- God
+- Joe Biden
+- Nicolás Maduro
+- So Maduro
+organisations:
+- Strategic National Reserves
+- Trump
+- Truth Social
 ---
 
 Deposed Venezuelan leader Nicolás Maduro said he was “standing firm” in a statement shared on social media Sunday along with photos from the New York prison where he has been held since his capture by American forces.

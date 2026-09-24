@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Atlanta
+- Beethoven
+- Canada
+- Chicago
+- Georgia Aquarium
+- Marineland
+- Oceanogràfic Valencia
+- Ontario
+- San Antonio
+- San Diego
+- SeaWorld
+- Shedd Aquarium
+- Spain
+people:
+- Beethoven
+- Peekachu
+- Rain
+- Shedd
+organisations:
+- Shedd Aquarium
 ---
 
 Two beluga whales, including one recently rescued from a shuttered Canadian theme park, have died at a Chicago aquarium — days after another rescued beluga died at the facility.

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg
+locations:
+- Europe
+- Ryanair
+people:
+- Michael O'Leary
+- O'Leary's
+- Rachel Morrogh
+organisations:
+- BBC
+- British Airways
+- DRCC
+- Dublin Rape Crisis Centre
+- Lufthansa
+- Press Association
+- Ryanair
+- Stansted Airport
 ---
 
 ![Michael O'Leary, who has short, grey hair and wears a black jacket over a pink shirt, sits at a table with his hand resting on his chin. A board with Ryanair logos are on a board behind him.](https://ichef.bbci.co.uk/ace/standard/923/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg)

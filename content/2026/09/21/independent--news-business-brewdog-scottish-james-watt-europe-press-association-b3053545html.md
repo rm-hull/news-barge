@@ -12,6 +12,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/12/dd1d72b707216345dfa5106d8166b383Y29udGVudHNlYXJjaGFwaSwxNzkwMDczNDk3-2.71014287.jpg?width=1200&height=800&crop=1200:800
+locations:
+- BrewDog
+- Ellon
+- Europe
+- Fraserburgh
+- Scotland
+- UK
+- US
+people:
+- Irwin D Simon
+- James Watt
+- Martin Dickie
+- Tilray
+organisations:
+- BrewDog
+- BrewDog”
+- Tilray Brands
 ---
 
 Craft beer giant BrewDog has distanced itself from its previous ownership as part of its first major marketing campaign since being taken over in a rescue deal.

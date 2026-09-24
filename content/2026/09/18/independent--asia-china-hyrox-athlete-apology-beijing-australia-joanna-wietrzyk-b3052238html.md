@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Beijing
+- China
+people:
+- Hyrox
+- Joanna Wietrzyk
+- Moritz Fürste
+organisations:
+- Hyrox
+- Instagram
 ---
 
 An Australian Hyrox athlete who went viral after soiling herself during a race in Beijing - before going on to win - has apologised and forfeited her victory.

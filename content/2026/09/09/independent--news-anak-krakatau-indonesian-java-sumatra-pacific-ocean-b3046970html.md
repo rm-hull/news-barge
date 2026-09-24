@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Anak Krakatau
+- Banten
+- Carita
+- Indonesia
+- Jakarta
+- Java
+- Pacific Ocean
+- Pacific “Ring of Fire
+- Sumatra
+- Sunda Strait
+- Surabaya
+- Turkey
+people:
+- Al Amrad
+- Anak Krakatau
+- Edna Tarigan
+- Fadlan Syam
+organisations:
+- Anadolu Agency
+- Antara
+- Associated Press
+- Search and Rescue Office
 ---
 
 Indonesian rescuers searched for eight people who went missing at sea while heading the island of Anak Krakatau to report on a volcanic eruption, officials said Wednesday.

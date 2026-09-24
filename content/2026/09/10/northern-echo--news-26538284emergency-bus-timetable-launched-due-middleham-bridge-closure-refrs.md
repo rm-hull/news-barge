@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A6108 East Witton Road
+- Barf Bank
+- Cover Bridge
+- Hallwith Road
+- Leyburn
+- Middleham Bridge
+- North Yorkshire
+- Ripon
+- West End Methodist Church
+people: []
+organisations:
+- HGV
+- In Middleham
+- LDRS
+- North Yorkshire Council
 ---
 
 A bus service linking Middleham, Leyburn and Ripon is operating to an emergency timetable following the closure of Middleham Bridge.

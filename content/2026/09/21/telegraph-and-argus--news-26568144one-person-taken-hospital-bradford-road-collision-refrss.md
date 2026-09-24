@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20318582.jpg?type=og-image
+locations:
+- Bradford
+- King's Road
+- King’s Road
+- Swain House Road
+people: []
+organisations:
+- Ambulance Resources Dispatched** Yorkshire Ambulance Service
+- Newsquest
+- Yorkshire Ambulance
 ---
 
 *(Image: Newsquest)*

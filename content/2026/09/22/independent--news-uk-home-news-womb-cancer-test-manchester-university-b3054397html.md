@@ -12,6 +12,15 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2025/03/04/08/03163609-02eb759d-dfbe-4db0-8b35-7fefe4e3300b.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Emma Davidson
+organisations:
+- Lancet Obstetrics, Gynaecology and Women’s Health
+- MFT
+- Manchester University NHS Foundation Trust
+- University of Manchester
 ---
 
 A simple test that looks at cells in urine and vaginal fluid could help rule out womb cancer in women who experience bleeding after menopause.

@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Bradford
+- Bridge Tavern
+- Emsleys Rec
+people:
+- Gaz Stokes
+- Kevin Doherty
+- Kyle Dyche
+- Laidback Fawcett
+- Tom Smith
+organisations:
+- Bradford Sunday
+- Bradford Sunday Leagues
+- Facebook
+- West Bowling AFC
 ---
 
 *(Image: Tom Smith)*

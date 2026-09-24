@@ -12,6 +12,27 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Newlight-co-founders_-C
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Ghana
+- San Francisco Bay Area
+- Singapore
+people:
+- Evyatar Cohen
+- Haran Cohen Hillel
+- Newlight
+- Paul Walker
+- Vin Diesel
+organisations:
+- BIRD Energy
+- CiRi Ventures
+- Fusion VC
+- Israel Ministry of Energy
+- Israeli Navy
+- Lomar Shipping
+- TechCrunch
+- U.S. Department of Energy
+- U.S. Newlight
+- Undeterred Capital
 ---
 
 It’s one of the most iconic scenes in the Fast & Furious film franchise: Paul Walker’s thumb comes off the steering wheel and smashes a small red button, pumping nitrous oxide into the engine of his Mitsubishi Eclipse and giving the car an explosive boost.

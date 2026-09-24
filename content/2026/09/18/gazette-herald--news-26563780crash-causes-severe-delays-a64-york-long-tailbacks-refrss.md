@@ -14,6 +14,13 @@ categories:
 - York
 - Travel
 - Automotive
+locations:
+- A1237 Outer Ring Road
+- A64
+- Askham Bryan
+- Grimston Bar
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

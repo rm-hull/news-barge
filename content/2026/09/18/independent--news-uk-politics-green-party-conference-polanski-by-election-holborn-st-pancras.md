@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/09/14/16/e6c5d59285cf76e4dbde492b0d
 categories:
 - News & Politics
 - UK
+locations:
+- Brighton
+- Denton
+- Gorton
+- Holborn
+- St Pancras
+people:
+- Andy Burnham
+- Hannah Spencer
+- Keir Starmer
+- Sagal Abdi-Wali
+- Zack Polanski
+organisations:
+- Camden Council
+- Green Party
+- Greens
+- Labour
+- Reform
+- St Pancras
+- The Independent
+- The Independent.
 ---
 
 The Green Party weighed up delaying its annual conference to direct resources towards securing a parliamentary seat for leader Zack Polanski, officials have confirmed.

@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Rural England
+- Yorkshire Wolds
+people:
+- Angela Eagle
+- Anne Handley
+organisations:
+- AONB
+- Defra
+- East Riding Council
+- Flamborough
+- Marisa Cashill
+- National Landscape
+- Natural England
+- Yorkshire Wolds
+- Yorkshire Wolds National Landscape
 ---
 
 # Yorkshire Wolds designation as a Natural Landscape to be welcomed

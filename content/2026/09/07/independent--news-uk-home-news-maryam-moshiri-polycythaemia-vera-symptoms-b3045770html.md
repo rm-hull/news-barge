@@ -13,6 +13,16 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Britain
+people:
+- Charles
+- Maryam Moshiri
+- Ms Moshiri
+organisations:
+- BBC News
+- Blood Cancer UK
+- The Times
 ---
 
 BBC News presenter Maryam Moshiri has revealed she is living with blood cancer.

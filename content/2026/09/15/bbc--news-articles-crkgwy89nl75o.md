@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Charing Cross
+- Charing Cross Police Station
+- London
+- Panorama
+people:
+- Cmdr Simon Messinger
+- Martin Borg
+- Mason O'Connor
+- Met
+- O'Connor's
+- PC Lloyd Hunter
+- Phil Neilson
+- Sgt Joe McIlvenny
+organisations:
+- BBC Panorama
+- Charing Cross
+- IOPC
+- Independent Office for Police Conduct
+- Metropolitan Police
+- O'Connor's
 ---
 
 ![The sign outside Charing Cross police station in the dark.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/113c/live/3fbe7290-b128-11f1-bc1f-3f186ca4140c.jpg)

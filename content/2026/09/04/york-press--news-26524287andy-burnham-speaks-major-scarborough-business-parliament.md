@@ -13,6 +13,29 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Larbert
+- North Yorkshire
+- Northern Ireland
+- Scarborough
+- Scotland
+- UK
+people:
+- Alexander Dennis
+- Alison Hume
+- Andy Burnham
+- Anttoni James Numminen
+- Rachel Reeves
+- Whitby
+organisations:
+- Alexander Dennis Facility
+- Alexander Dennis Ltd
+- Government
+- House of Commons
+- Newsquest
+- Scarborough Cricket Club
+- Wrightbus
 ---
 
 PRIME Minister Andy Burnham has spoken about a major North Yorkshire business during a debate in the House of Commons.

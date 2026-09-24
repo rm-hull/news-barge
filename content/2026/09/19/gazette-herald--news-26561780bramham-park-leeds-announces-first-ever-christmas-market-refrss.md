@@ -12,6 +12,15 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/10321197.jpg?type=og-image
+locations:
+- Bramham Park
+people:
+- James Hamilton-Goddard
+organisations:
+- BRAMHAM Park
+- Bramham Park International Horse Trials
+- Leeds Festival
+- Yorkshire Rock Choir
 ---
 
 *(Image: T&A)*

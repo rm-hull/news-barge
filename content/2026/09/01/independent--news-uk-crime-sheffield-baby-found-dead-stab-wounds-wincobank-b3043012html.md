@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Holywell Heights
+- Sheffield
+- Wincobank
+people:
+- Emma Knight
+- Tom Woodward
+organisations:
+- South Yorkshire Police
 ---
 
 A newborn baby who was found dead in a Sheffield property died from stab wounds, police said.

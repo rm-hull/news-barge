@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Geneva
+- Hormozgan
+- Iran
+- Israel
+- Lamerd
+- Minab
+- Shajareh Tayyebeh
+- Tehran
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+organisations:
+- Pentagon
+- UN
+- US Central Command
 ---
 
 A UN fact-finding mission has determined there are reasonable grounds to believe the US was behind military strikes on a school and a sports facility in Iran in February that killed 120 children, and that these constituted war crimes.

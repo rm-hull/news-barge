@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Grand Foyer
+- Kennedy Center
+- White House
+people:
+- Donald J. Trump
+- Donald Trump
+- John F. Kennedy
+- Roma Daravi
+organisations:
+- John F. Kennedy Memorial Center for the Performing Arts
+- The Washington Post
+- Trump
+- Washington Post
 ---
 
 A piece of the Kennedy Center’s ceiling collapsed, sparking renewed calls to allow President Donald Trump’s renovations at the historic performing arts center to go forward.

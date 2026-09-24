@@ -11,6 +11,11 @@ categories:
 - Science
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Greenland
+- Labrador Sea
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312416530_f7803f.jpg?w=840)

@@ -11,6 +11,26 @@ categories:
 - York
 - Comedy & Entertainment
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/RONAN-KEATING.webp
+locations:
+- North Yorkshire
+- UK
+people:
+- Antony Costa
+- Duncan James
+- Germein Sisters
+- Jack Savoretti
+- James Morrison
+- Lee Ryan
+- Ronan Keating
+- Simon Webbe
+- Simply Red
+organisations:
+- Blue
+- Blue’s
+- Germein Sisters
+- No. 1
+- Scarborough Open Air Theatre
+- Ticketmaster
 ---
 
 Pop icon Ronan Keating is bringing his world tour celebrating his 30-year career to the North Yorkshire coast next summer.

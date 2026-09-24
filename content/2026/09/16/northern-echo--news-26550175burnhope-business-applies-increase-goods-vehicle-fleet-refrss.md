@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Burnhope
+- Leeds
+- Quarry Hill
+- Woodland Park Bungalow
+- YOUR
+people:
+- Terri Gibson
+organisations:
+- J W Services
+- LS2 7UE
+- Public Notice Portal
+- Public Notice Portal A County Durham
+- Quarry House
+- The Northern Echo
 ---
 
 *(Image: Supplied)*

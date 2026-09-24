@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bar Walls
+- Brunswick Street
+- South Bank
+- St George
+- York Magistrates' Court
+people:
+- Lee Moran
+- Lindsay Hoyle
+- Man
+- Maskill
+- Maskill’
+- Ms Maskell
+- Rachael Maskell
+- Shawn Cooper
+- Tan Ikram
+- Verity Barnes
+organisations:
+- House of Commons
+- MPs'
+- Newsquest
+- York Magistrates' Court
 ---
 
 *(Image: Newsquest staff)*

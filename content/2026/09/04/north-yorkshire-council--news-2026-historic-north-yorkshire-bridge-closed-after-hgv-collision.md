@@ -15,6 +15,17 @@ categories:
 - Harrogate
 - Government
 - History
+locations:
+- Bedale
+- Leyburn
+- Masham
+- Middleham Bridge
+- North Yorkshire
+people:
+- Cllr Carl Les
+organisations:
+- A1
+- A684
 ---
 
 ![The damaged arch on Middleham Bridge has lost sections of stonework and has also become displaced creating a significant structural risk following a collision involving a heavy goods vehicle.](https://www.northyorks.gov.uk/sites/default/files/2026-09/Bridge%20damage%201a.jpg) 

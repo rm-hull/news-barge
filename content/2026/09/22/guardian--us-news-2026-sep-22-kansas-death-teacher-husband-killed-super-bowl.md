@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/e1844509a6fe0bb6514ea2fb35f64f863e81903d/253_0_2533_2027/master/2533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d263814a361ca543d7207841cdea0a8
+locations:
+- Kansas City
+- Kenner
+- Louisiana
+- Lowman Hill
+- Mexico
+- New Orleans
+- New Orleans’
+- Toluca
+- Topeka
+- US
+people:
+- Adan Manzano
+- Andrew Holmes
+- Ashleigh Boyd
+- Brian Hinck
+- Christian Anderson
+- Danette Colbert
+- Eleanor
+- Mike Kagay
+- Nicole
+- Rickey White
+- Todd W Armstrong
+organisations:
+- KSNT
+- Kansas City Chiefs
+- Telemundo
+- Topeka Capital-Journal
 ---
 
 A Kansas school teacher’s fatal car wreck on Monday reportedly led to a vehicular homicide conviction for the motorist who crashed into her – a verdict delivered just four days after a Louisiana jury found a woman guilty of the drugging death of the educator’s widower while he prepared to cover the 2025 Super Bowl for Telemundo.

@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Chagos Islands
+- Thailand
+- UK
+- US
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Dan Jukes
+- Donald Trump
+- James Orr
+- Laura Kuenssberg
+- Ms Kuenssberg
+- Nigel Farage
+- Robert Jenrick
+- Rycroft
+organisations:
+- BBC’s
+- Channel 4
+- House of Lords
+- Labour
+- Metropolitan Police
+- PA
+- Reform UK
+- Sky News
+- Tory
+- Treasury
+- Will Colebourne
 ---
 
 Angela Rayner has suggested Reform UK could face action over two mega donations to the party under new laws being pushed through parliament.

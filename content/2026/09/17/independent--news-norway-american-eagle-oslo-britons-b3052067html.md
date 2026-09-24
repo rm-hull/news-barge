@@ -14,6 +14,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - True Crime
+locations:
+- Baerum
+- Norway
+- Oslo
+- U.S.
+- U.S.A
+- United States
+people:
+- Jon André Hvoslef-Eide
+organisations:
+- American Eagle
+- Okokrim
+- The Associated Press
+- U.S. Mint
 ---
 
 On a yearslong hunt for thousands of U.S. silver coins squirreled away in Norway, police investigating a money laundering case finally got a lucky break: A tip about a van swerving on a highway outside Oslo last year.

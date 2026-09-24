@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Baudoinia
+- Canada
+- Cork
+- France
+- Ireland
+- Midleton
+- Scotland
+- US
+people:
+- Baudoinia
+- Richard de Grijs
+organisations:
+- Baudoinia
+- Dublin City University
+- EPA
+- EREG
+- EU
+- Irish Environmental Protection Agency
+- Macquarie University
+- The Conversation
+- University College Cork
+- University of Toronto
 ---
 
 Irish whiskey is one of Ireland’s great export success stories. Exports were worth over €930 million in 2025, with the country’s much-loved spirit being sold all over the world.

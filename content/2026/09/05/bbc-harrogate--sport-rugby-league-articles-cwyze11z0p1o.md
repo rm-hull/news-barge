@@ -12,6 +12,55 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- France
+people:
+- '**York Knights'
+- :** Aispuro-Bichet
+- :** Darrelatour
+- :** Field
+- :** Hunter
+- Allen
+- Balmforth
+- Betfred Super LeagueCatalans
+- Bousquet
+- Catalans:** Staines
+- Cody Hunter
+- Da Costa
+- David Noafoaluma
+- Delarose
+- Descalzi
+- Dodd
+- Foster
+- Garcia
+- Guillermo Aispuro-Bichet
+- Hingano
+- Jesse Dee
+- Jones-Bishop
+- Laguerre
+- Leeming
+- Leo Darrelatour
+- Liam Harris
+- Makinson
+- Martin
+- Mata'afa
+- McShane
+- Navarrete
+- Oli Field
+- Paul Vaughan
+- Rogers-Smith
+- Scott Galeano
+- Sexton
+- Sin-bin:** Dee
+- Thompson
+- Va'a
+- Wood
+- York
+organisations:
+- Catalans Dragons
+- Perpignan
+- Stade Gilbert Brutus
+- York City Knights
 ---
 
 ![Liam Harris of York City Knights](https://ichef.bbci.co.uk/ace/standard/610/cpsprodpb/fe5f/live/1e48b7c0-a961-11f1-ad7a-15451c853d29.jpg)

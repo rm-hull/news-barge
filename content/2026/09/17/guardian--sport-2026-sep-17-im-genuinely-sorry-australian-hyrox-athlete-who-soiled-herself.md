@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Beijing
+- China
+- Germany
+people:
+- Furhtermore
+- Joanna Wietrzyk
+organisations:
+- Instagram
 ---
 
 The Australian athlete who caused a storm by winning a Hyrox event in China despite soiling herself during the race has apologised to the “people of China” and rival athletes in a statement online.

@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1036 Tower Street
+- Fishergate Gyratory
+- Kevin Glenton
+- Lead Mill Lane
+- MAIN
+- Paragon Street
+- Piccadilly
+- The Postern Gate
+- Tower Street
+- Walmgate Bar
+- York
+people:
+- Kevin Glenton
+organisations:
+- City of York Council
+- The Press
 ---
 
 A MAIN road in York is closed today as part of its surface has lifted following a storm.

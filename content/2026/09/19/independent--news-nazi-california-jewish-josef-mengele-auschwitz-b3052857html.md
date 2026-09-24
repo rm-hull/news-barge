@@ -14,6 +14,58 @@ categories:
 - History
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/12/Nazi_Looted_Art_Lawsuits_73392.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Auschwitz
+- Berlin
+- California
+- D-Woodland Hills
+- Europe
+- Los Angeles
+- Madrid
+- Memorial
+- Norton Simon Museum
+- Pasadena
+- Soviet Union
+- U.S.
+people:
+- Adam
+- Adolf Hitler
+- Camille Pissarro
+- Cassirer
+- Cranach
+- Daniel Gryczman
+- Dinah Gottliebova Babbitt
+- Donald Trump
+- Elder
+- Eve
+- Gavin Newsom
+- Gottliebova Babbitt
+- Hermann Goring
+- Jacques Goudstikker
+- Jesse Gabriel
+- Joel Greenberg
+- Josef Mengele
+- Lucas Carnach
+- Marei von Saher
+- Noah Farkas
+- Pawel Sawicki
+- Stroganoff
+organisations:
+- AP
+- Art Ashes
+- Auschwitz Memorial
+- California Legislative Jewish Caucus
+- Congress
+- Jewish Federation of
+- Jewish Federation of Greater Los Angeles
+- Lilly Endowment Inc
+- Norton Simon Museum
+- Pasadena Museum of Modern Art
+- Roma
+- The Conversation US
+- Thyssen-Bornemisza National Museum
+- U.S. Supreme Court
+- \_\_\_ Associated Press
 ---
 
 Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their claims to Nazi-looted paintings that still hang on the walls of prominent museums in Los Angeles and Auschwitz.

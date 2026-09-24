@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/k9jj3cUkGbQvHDFzCbBtXE-1908-80.jpg
+locations: []
+people:
+- Tom
+organisations:
+- Disney Plus
+- Disney —
+- Google News
+- House of Mouse
+- Hulu
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Reddit
+- Standard and Premium
+- Star Wars
+- TechRadar
+- anime2you.de
 ---
 
 ![Image of Disney Plus being watched on a TV with a hand holding a remote control](https://cdn.mos.cms.futurecdn.net/k9jj3cUkGbQvHDFzCbBtXE.jpg)

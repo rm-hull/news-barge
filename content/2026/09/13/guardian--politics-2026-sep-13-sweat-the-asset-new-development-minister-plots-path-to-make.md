@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Edinburgh
+- Midlothian
+- UK
+people:
+- Anneliese Dodds
+- Blair
+- Burnham
+- Ed Miliband
+- Gordon Brown
+- Jenny Chapman
+- Kirsty McNeill
+- Rishi Sunak
+- Starmer
+organisations:
+- Commonwealth and Development Office
+- El Niño
+- FCDO
+- G8
+- Labour
+- New Economics Foundation
+- Save the Children
+- Scottish National party
+- UN
+- World Bank
 ---
 
 The development minister, Kirsty McNeill, has declared herself “a huge believer in aid”, as she reaffirmed Labour’s manifesto pledge to return to a target of 0.7% of national income spending.

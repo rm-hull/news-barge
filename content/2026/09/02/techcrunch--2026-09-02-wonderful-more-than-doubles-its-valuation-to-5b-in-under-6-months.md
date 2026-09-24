@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Roey Lalazar
+organisations:
+- 9Yards
+- AI
+- Bessemer Venture Partners
+- CTO
+- FDE
+- IVP
+- Index Ventures
+- Insight Partners
+- Salesforce
+- Vine Ventures
+- Wonderful
 ---
 
 Israeli-Dutch AI startup Wonderful has raised $550 million in a Series C funding round that gives it a price tag of $5 billion, more than doubling the $2 billion valuation the company gained when it last raised funding nearly six months ago.

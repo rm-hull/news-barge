@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - Science
 - True Crime
+locations:
+- AI
+- Chattahoochee
+- Cheyenne
+- Fayetteville
+- Flint River
+- Georgia
+- Lake Seneca
+- Meta
+- New York
+- Oregon
+- Racine
+- The Dalles
+- US
+- USA
+- West Virginia
+- Wisconsin
+- Wyoming
+people:
+- Chris Manganiello
+- Donald Trump
+- Frank Strong
+- Harriet Hageman
+- Mark Zuckerberg
+- Meta
+- Yvonne Taylor
+organisations:
+- AI
+- Chattahoochee Riverkeeper
+- Flint Riverkeeper
+- Goat Systems
+- Google
+- Meta
+- Microsoft
+- National Coalition Against Cryptomining
+- Oregonian
+- Seneca Lake Guardian
+- Truth Social
+- Vulcan Infrastructure and Power
+- Waterkeeper Alliance
 ---
 
 When officials in Wyoming conducted a routine test on the water that was being discharged from a massive under-construction Meta datacenter, it was a shock to find it contained a rare and potentially hazardous bacterium.

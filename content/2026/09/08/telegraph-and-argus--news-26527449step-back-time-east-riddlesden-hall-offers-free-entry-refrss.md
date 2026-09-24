@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- East Riddlesden Hall
+- England
+- Keighley
+people:
+- Amy Gregory
+organisations:
+- Arnhel de)* EAST Riddlesden Hall
+- Collections and House Officer
+- East Riddlesden Hall
+- National Trust Images
 ---
 
 *(Image: ©National Trust Images/Arnhel de)*

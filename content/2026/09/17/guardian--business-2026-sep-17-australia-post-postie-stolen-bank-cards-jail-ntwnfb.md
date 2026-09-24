@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Darling Harbour
+- Sutherland
+- Sydney
+people:
+- Jillian Kiely
+- Mauro Paul Coluzzi
+- Troy Edwards SC
+organisations:
+- Australia Post
+- NSW Police
 ---
 
 An Australia Post worker’s crippling gambling addiction spiralled into purchases of gold jewellery, phones and even online gaming gift cards with stolen bank cards.

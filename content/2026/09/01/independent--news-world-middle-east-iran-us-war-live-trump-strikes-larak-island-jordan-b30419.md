@@ -11,6 +11,61 @@ image: https://static.independent.co.uk/2026/09/01/05/2292889323..?trim=0,2,0,2&
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Islamic Republic
+- Israel
+- Jordan
+- Kharg Island
+- Larak Island
+- Middle East
+- Middle Eastern
+- People’s Republic of China
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+- Venezuela
+- Washington
+- White House
+people:
+- '## Hegseth'
+- '## Trump'
+- '## Vance'
+- Dan Driscoll
+- Donald Trump
+- Erin Burnett
+- Hamid Bovard
+- JD Vance
+- Kurt Schlichter
+- Lucas Tomlinson
+- Masoud Pezeshkian
+- Pete Hegseth
+- Randy Manner
+- Rob Maness
+organisations:
+- Army Air Force
+- CNN
+- Defense Department
+- Fox News
+- Fox News’
+- Hegseth US Army
+- IRGC
+- Islamic Revolutionary Guard Corps
+- National Iranian Oil Co
+- Oval Office
+- PRC
+- Pentagon
+- Reuters
+- Revolutionary Guards Navy
+- Tasnim
+- Trump
+- U.S. Military
+- US Army
+- US Central Command
+- US Navy
+- Washington Post
 ---
 
 Donald Trump has threatened to hit Iran “hard” after the US and Iran exchanged fire for the first time in a month, warning that “there will be a response” following Iranian missile strikes on US military bases.

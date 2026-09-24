@@ -12,6 +12,79 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- AXA Training Centre
+- Anfield
+- Argentina
+- Bournemouth
+- Brazil
+- Europe
+- Middle East
+- Netherlands
+- Saudi Arabia
+- USA
+people:
+- '** Hughes'
+- Alexander Isak
+- Alexis Mac Allister
+- Alisson
+- Andoni Iraola
+- Andy Robertson
+- Arne Slot
+- Barry Hunter
+- Billy Hogan
+- Bradley Barcola
+- Cody Gakpo
+- Craig McKee
+- Curtis Jones'
+- Darwin Nunez
+- David Woodfine
+- Do Liverpool
+- Dominik Szoboszlai
+- Edwards'
+- Enzo Fernandez
+- Faith
+- Florian Wirtz
+- Giorgi Mamardashvili
+- Giovanni Leoni
+- Hugo Ekitike
+- Ifeanyi Ndukwe
+- Jeremy Jacquet
+- Julian Ward
+- Lamine Camara
+- Lucca Brughmans
+- Luis Campos
+- Luis Diaz
+- Mac Allister
+- Mark Burchill
+- Michael Edwards
+- Mike Gordon
+- Mohamed Salah
+- Mor Talla Ndiaye
+- Pedro Marques
+- Richard Hughes
+- Richard Hughes'
+- Rio Ngumoha
+- Ryan Gravenberch
+- Trey Nyoni
+- Van Dijk
+- Victor Munoz
+- Virgil van Dijk
+organisations:
+- Al-Hilal
+- Alisson
+- BBC Sport
+- Benfica
+- FSG
+- Fenway Sports Group
+- Genk
+- Hughes'
+- Inter Milan
+- Juventus
+- Liverpool
+- Manchester City
+- Monaco
+- Paris St-Germain
 ---
 
 ![Barry Hunter, Julian Ward, Michael Edwards, Richard Hughes and David Woodfine pose for a photograph with the Premier League trophy at the end of the 2024-25 season.](https://ichef.bbci.co.uk/ace/standard/872/cpsprodpb/702e/live/a2620e90-aaaf-11f1-9eba-7de947fa7cd1.jpg)

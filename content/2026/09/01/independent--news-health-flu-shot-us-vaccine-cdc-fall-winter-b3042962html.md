@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Arizona Republic
+- Covid
+- Iowa
+- U.S.
+- United States
+people:
+- Michael Dunn
+- Stephen Thacker
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Medical University of South Carolina
+- Moderna
+- National Foundation for Infectious Diseases
+- Trump
+- mFLUSIVA
 ---
 
 With the arrival of fall, it’s time for Americans to think about flu shots.

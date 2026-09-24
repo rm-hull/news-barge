@@ -13,6 +13,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/08/2295043177..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Canada
+- Downing Street
+- Lake America
+- Lake Ontario
+- New York
+- US
+- United Kingdom
+- United States
+people:
+- Andy Burnham
+- Donald Trump
+- Francois-Philippe Champagne
+- Mark Carney
+- Ms von der Leyen
+- Ursula von der Leyen
+organisations:
+- BBC
+- Bank of England
+- EU
+- European Commission
+- European Parliament
+- UN General Assembly
 ---
 
 Britain should "team up" with Canada and the EU economically, the Canadian finance minister has said, arguing closer partnerships are needed in the face of a changing global political landscape.

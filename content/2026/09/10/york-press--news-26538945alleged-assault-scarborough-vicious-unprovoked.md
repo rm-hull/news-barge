@@ -13,6 +13,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- North Yorkshire
+- Scarborough
+- Westborough
+people: []
+organisations:
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -12,6 +12,28 @@ categories:
 - UK
 - Self-Improvement
 image: https://static.independent.co.uk/2026/09/23/9/45/CPR-world-record-event.png?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+locations:
+- London
+- Mansion House
+- St John Ambulance
+- UK
+people:
+- David Johnston
+- Emma Hammett
+- Gary Langley
+- Michael
+- Ms Hammett
+- Ms Perrier
+- Nadia Perrier
+- Richard Salter
+- Susan Langley
+- Tony Matharu
+organisations:
+- BHF
+- CPR
+- Central London Alliance
+- First Aid for Life
+- The Independent
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

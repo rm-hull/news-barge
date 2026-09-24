@@ -12,6 +12,58 @@ categories:
 - Local
 - York
 - History
+locations:
+- Acomb
+- Coney Street
+- Coppergate Centre
+- Fossgate
+- Gillygate
+- Goodramgate
+- High Ousegate
+- King's Square
+- Newgate Market
+- Osbaldwick
+- Track
+- York
+people:
+- Archie Preston
+- Avril Ellwood
+- Blank Reg
+- Carl Leng
+- David Harrison.
+- Hugh Robertson
+- John Grant
+- Katie Jayne Cole
+- Keith Howe
+- Linda Metcalfe
+- Martin Stubbs
+- Martyn Jones
+- Max Bygraves
+- Mike Bristow
+- Paul Ireson
+- Paul Wilkinson
+- Perry Como
+- Tony Kostrzewa
+- York
+organisations:
+- Gillygate
+- Google Street View
+- HMV
+- Heard
+- Leeds
+- MAXINE GORDON
+- Memories
+- Newsquest
+- Red Rhino
+- Riverside Records
+- Scene
+- The Press
+- The Spinners
+- Track Records
+- Track Records'
+- Woods Chemist
+- Woolworths
+- York
 ---
 
 ## Before HMV: the York record shops we have loved and lost

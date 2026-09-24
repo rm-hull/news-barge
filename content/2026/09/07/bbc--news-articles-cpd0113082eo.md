@@ -11,6 +11,42 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/742c/live/a801c5
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Czech Republic
+- France
+- Germany
+- Italy
+- Leipzig
+- Magdeburg
+- Mecklenburg
+- Poland
+- Querfurt
+- Saxony-Anhalt
+- Saxony-Anhalt.
+- Thuringia
+- UK
+- US
+- Western Pomerania
+people:
+- Alice Weidel
+- Beatrix von Storch
+- Donald Trump
+- Donald Tusk
+- Friedrich Merz
+- JD Vance
+- Kirill Dmitriev
+- Sven Schulze
+- Tino Chrupalla
+- Ulrich Siegmund
+- Von Storch
+organisations:
+- AfD
+- Alternative for Germany
+- BBC
+- BSW
+- CDU
+- Truth Social
 ---
 
 ![Ulrich Siegmund, who has greying hair and a short beard and wears a navy suit jacket with a light blue shirt, smiles and waves as he arrives at a press conference on Monday](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg)

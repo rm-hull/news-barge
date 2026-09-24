@@ -14,6 +14,58 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Austria
+- Brazil
+- England
+- Etihad Stadium
+- Hill Dickinson Stadium
+- London
+- Manchester City
+- Marseille
+- Senegal
+people:
+- '## Richarlison'
+- Andrei Ratiu
+- Beto
+- Cody Gakpo
+- De Zerbi
+- Iliman Ndiaye
+- Jack Grealish
+- Jan Paul van Hecke
+- Kenny Tete
+- Kevin Danso
+- Marcos Senesi
+- Mateus Fernandes
+- Micky van de Ven
+- Omar Marmoush
+- Pape Matar Sarr
+- Pape Sarr
+- Roberto de Zerbi
+- Sandro Tonali
+- Thierno Barry
+organisations:
+- Al-Hilal
+- Aston Villa
+- Besiktas
+- Brentford
+- Everton
+- Fulham
+- Juventus
+- Liverpool
+- Manchester City
+- Metz
+- Ndiaye
+- Newcastle
+- Premier League
+- Rayo Vallecano
+- Reds
+- Richarlison
+- Sarr
+- Spurs
+- Sunderland
+- Toffees
+- Tottenham
 ---
 
 ![Richarlison and Iliman Ndiaye](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c386/live/8c089d30-a45b-11f1-a291-b542ee92de7c.png)

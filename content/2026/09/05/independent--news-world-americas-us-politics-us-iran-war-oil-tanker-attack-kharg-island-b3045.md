@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Kharg Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Washington
+people:
+- '## Trump'
+- Brad Cooper
+- Donald Trump
+- Kharg
+- Tasnim
+organisations:
+- Central Command
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Organization of the Petroleum Exporting Countries
+- Tasnim
+- U.S. Central Command
+- U.S. Navy
 ---
 
 The U.S. military says it struck three Iranian oil tankers Saturday, including one off the coast of Kharg Island, near Iran's key oil export hub.

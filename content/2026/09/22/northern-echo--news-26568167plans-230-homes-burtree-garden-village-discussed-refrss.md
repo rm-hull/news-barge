@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21030078.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Burtree Garden Village
+- Darlington
+- High Faverdale Farm
+- Rotary Way
+- YOUR
+people: []
+organisations:
+- A1
+- Burtree Cell CH
+- Darlington Borough Council
+- Esh
+- Public Notice Portal
+- Stuart Boulton)* Committee
 ---
 
 ### What is the Public Notice Portal?

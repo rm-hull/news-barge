@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Darnytskyi
+- Holosiivskyi
+- Kyiv
+- Podilskyi
+- Russia
+- Solomianskyi
+- U.S.
+- Ukraine
+people:
+- Jared Kushner
+- Steve Witkoff
+organisations:
+- Kyiv City Military Administration
+- State Emergency Service
 ---
 
 Two people were killed and at least 10 injured after Russia struck the Ukrainian capital Kyiv with drones and missiles overnight on Tuesday, local authorities said.

@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations: []
+people:
+- Amy Keane
+organisations:
+- Bradford
+- Crown Hotel
+- Google Street View
+- Malt Kiln Inn
+- Sky
+- The Sunday Social
 ---
 
 *(Image: Google Street View)*

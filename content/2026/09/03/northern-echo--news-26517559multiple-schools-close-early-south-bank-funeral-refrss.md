@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Archway
+- CLEVELAND
+- Matusiak
+- Normanby Road
+- Outwood Academy
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- St Peter
+- Teesside
+- Teesville
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Catholic Primary School
+- Cleveland Police
+- Cleveland Police Federation
+- Local Authority
+- Mackenzie Thorpe School
+- Nunthorpe
+- South Bank Primary
 ---
 
 Several schools are to close early due to a funeral linked to the fatal A66 crash that is expected to draw in large crowds to the area.

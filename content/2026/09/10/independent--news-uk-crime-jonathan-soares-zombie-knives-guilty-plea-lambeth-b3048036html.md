@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Chadwell Heath
+- China
+- Inner London Crown Court
+- Lambeth
+- Pakistan
+- Paulet Road
+- Saville Road
+- South Korea
+- UK
+people:
+- Imran Beg
+- Jonathan Soares
+- Rayhan Rahman
+organisations:
+- BBC
+- Metropolitan Police
+- Telegram
 ---
 
 A man who imported illegal zombie knives and sold them online, including to people he knew were school children, has pleaded guilty following a Metropolitan Police investigation.

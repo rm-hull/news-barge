@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33e9/live/88c349d0-572d-11f0-a129-bdd7ff3be6de.jpg
+locations:
+- Britain
+- Scarborough Spa Cliff Lift
+- Spa Cliff Lift
+people:
+- Carl Les
+organisations:
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough Spa Cliff Lift
+- Scarborough Town Council
+- Whitby
 ---
 
 ![A view looking down Scarborough's Spa Cliff Lift. Railway tracks run vertically down a steep cliff with a building at the bottom of the track. An expanse of sandy beach can be seen below.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/33e9/live/88c349d0-572d-11f0-a129-bdd7ff3be6de.jpg)

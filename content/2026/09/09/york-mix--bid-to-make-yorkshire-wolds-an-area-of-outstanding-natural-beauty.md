@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- East Yorkshire
+- Hull
+- Natural England
+- Wolds
+people:
+- Angela Eagle
+- Anne Handley
+- Chris Blacksell
+organisations:
+- AONB
+- AONBs
+- East Riding of Yorkshire Council
+- East Yorkshire Advisory Board
+- Natural England
+- State for the Environment, Food and Rural Affairs
+- Visit Hull
+- Yorkshire Wolds
+- Yorkshire Wolds ‘Area of Outstanding Natural Beauty’
 ---
 
 A new Yorkshire Wolds ‘Area of Outstanding Natural Beauty’ (AONB) could be created after an official organisation submitted a bid to the government.

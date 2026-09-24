@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Ben Birchall
+- Simon Williams
+organisations:
+- PA Wire
+- Reddit
+- Road Ahead Closed
+- The RAC
 ---
 
 *(Image: Ben Birchall/PA Wire)*

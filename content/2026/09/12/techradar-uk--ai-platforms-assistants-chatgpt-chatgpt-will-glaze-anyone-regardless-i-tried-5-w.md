@@ -11,6 +11,25 @@ description: Is AI less sycophantic now? I tried to make ChatGPT flatter, valida
 image: https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- AI
+- ChatGPT
+organisations:
+- AI
+- Becca
+- Bonnier Books
+- ChatGPT
+- Google News
+- Inverse
+- New Scientist
+- OpenAI
+- Reddit
+- Sycophancy
+- TechRadar
+- The Guardian
+- VR
+- Wired
 ---
 
 ![Romantic Relationship with a Sycophantic AI.](https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP.jpg) 

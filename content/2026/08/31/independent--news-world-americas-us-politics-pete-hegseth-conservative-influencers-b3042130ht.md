@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Venezuela
+people:
+- Adam Kinzinger
+- Elon Musk
+- Jennica Pounds
+- Kurt Schlichter
+- Pete Hegseth
+- Rob Maness
+- Thomas Anderson
+- Trump
+organisations:
+- Air Force
+- Army Air Force
+- DataRepublican on X –
+- Defense Department
+- Defense Secretary
+- Pentagon
+- Schlichter
+- The Independent
+- Trump
+- Washington Post
 ---
 
 A handful of high-profile conservative influencers have reportedly been working as undisclosed government employees and using their huge social media followings to praise Defense Secretary Pete Hegseth and defend the Trump administration’s policies.

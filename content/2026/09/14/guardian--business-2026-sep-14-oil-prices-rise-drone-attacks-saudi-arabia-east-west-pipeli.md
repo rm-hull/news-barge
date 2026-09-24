@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Bab al-Mandab
+- Europe
+- Gulf
+- Hormuz
+- Iran
+- Middle East
+- Perim
+- Riyadh
+- Saudi Arabia
+- Tehran
+- Threadneedle Street
+- UK
+- US
+- Yemen
+people:
+- Chris Beauchamp
+- Daniela Hathorn
+organisations:
+- Bank of England
+- Bloomberg
+- Capital.com
+- European Central Bank
+- Fed
+- IG
+- Opec
+- RAC
+- US Federal Reserve
 ---
 
 Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline.

@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5-1193-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Africa
+- Asia
+- Switzerland
+- Vietnam
+people:
+- David Peterson
+- Rene Millman
+- TechRadar
+organisations:
+- Computer Weekly
+- Financial Times
+- Google News
+- ISP
+- IT Pro
+- No Trace
+- Proton VPN
+- Proton VPN Observatory
+- The Guardian
 ---
 
 ![Proton VPN new mobile app interface – promo image](https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5.png) 

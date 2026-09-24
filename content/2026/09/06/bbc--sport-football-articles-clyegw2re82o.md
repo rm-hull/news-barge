@@ -12,6 +12,49 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ecuador
+- Emirates Stadium
+- England
+- France
+- London
+- Manchester City
+- Stamford Bridge
+- Strasbourg
+people:
+- Alex Scott
+- 'Alonso ## Alonso'
+- Ashley Young
+- Chelsea
+- Chelseaended
+- Cole Palmer
+- Eden Hazard
+- Enzo Fernandez
+- Gian Piero Gasperini
+- Joao Pedro
+- Jordan Henderson
+- Lamine Camara
+- Malo Gusto
+- Manu Kone
+- Martin Odegaard
+- Mikel Arteta
+- Moises Caicedo
+- Morgan Rogers
+- Neto
+- Reece James
+- Romeo Lavia
+- Valentin Barco
+- Xabi Alonso
+organisations:
+- Arsenal
+- BBC Sport
+- Blues
+- Bournemouth
+- Brighton
+- Chelsea
+- Monaco
+- Premier League
+- Roma
 ---
 
 Champions Arsenal come from behind to beat Chelsea

@@ -14,6 +14,27 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Black Sea
+- Europe
+- India
+- Kryvyi Rih
+- Kyiv
+- Moldova
+- Moscow
+- Odesa
+- Poland
+- Russia
+- Starokozache
+- Ukraine
+- Warsaw
+- Zaporizhzhia
+people:
+- Donald Tusk
+- Ivan Fedorov
+- Oleh Kiper
+- Vladimir Putin
+organisations: []
 ---
 
 Russian strikes killed three civilians and wounded dozens in Ukraine, local officials said Saturday, after Russian President Vladimir Putin warned that sending European troops into Ukraine would amount to direct conflict with Russia.

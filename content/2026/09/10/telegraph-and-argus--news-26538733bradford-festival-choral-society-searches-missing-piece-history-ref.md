@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Bingley
+- Bradford Midland Station
+- Eye and Ear Hospital
+- Hamburg
+people:
+- Charles Hallé
+- Hermann Averdieck
+- Jane Clark
+- John Sowden
+- Samuel Smith
+- Sara Daniel
+- Will Campbell
+organisations:
+- BFCS
+- BRADFORD Festival Choral Society
+- Bradford Festival Choral Society
+- Bradford Mechanics’ Institute Library
+- Bradford Royal Infirmary
+- Bradford Subscription Concerts
+- Choral Society
+- Price Hall
+- St George's Hall
+- St George’s Hall
+- The Averdieck
+- Verdi’s Requiem
 ---
 
 BRADFORD Festival Choral Society is asking people across the district to search old family albums, scrapbooks and boxes of photographs for missing pieces of the choir’s 170-year history.

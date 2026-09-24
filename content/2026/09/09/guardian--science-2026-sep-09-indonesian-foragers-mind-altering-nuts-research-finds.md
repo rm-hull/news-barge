@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Asia-Pacific
+- Brisbane
+- Spain
+- Sulawesi
+people:
+- Elisa Guerra-Doce
+- Prof Adam Brumm
+organisations:
+- Australian Research Centre for Human Evolution
+- Griffith University
+- University of Valladolid
 ---
 
 What may be the earliest known evidence for human drug taking has been traced to ancient Indonesian foragers who sucked on mind-altering nuts as long as 25,000 years ago.

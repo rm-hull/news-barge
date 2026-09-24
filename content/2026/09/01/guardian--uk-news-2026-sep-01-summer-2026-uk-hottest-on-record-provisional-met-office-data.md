@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- Europe
+- Kew Gardens
+- London
+- Sizewell
+- Stourbridge
+- Suffolk
+- UK
+- West Midlands
+people:
+- Amy Doherty
+- James Pope
+- Mark McCarthy
+organisations:
+- Met Office
+- National Climate Information Centre
+- Northern Ireland
+- Scotland
+- The Met Office
+- Wales
 ---
 
 This year’s summer was the UK’s hottest on record, according to provisional Met Office data, with the season’s mean temperature made 130 times more likely as a result of the climate crisis.

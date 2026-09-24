@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Jubilee Way
+- Kent
+- Port of Dover
+- UK
+- York Street
+- kent
+people:
+- Mike Tapp
+- Paul King
+organisations:
+- A2
+- A20
+- A256
+- DFDS
+- Deal
+- Dover West
+- Facebook
+- Kent Police
+- Labour
+- National Highways
+- P&O Ferries
+- Port of Dover Travel
+- Reform UK
+- Southeastern
 ---
 
 *(Image: Getty)*

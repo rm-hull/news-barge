@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21117994.jpg?type=og-image
+locations:
+- Afghanistan
+- County Durham
+- Durham NHS
+- HMP Holme House
+- Holme House
+- Stockton
+people:
+- )* Rowley
+- Aaron Rowley
+organisations:
+- Northern Echo
+- PPO
+- Prisons and Probation Ombudsman
+- Spectrum Community Health CIC
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

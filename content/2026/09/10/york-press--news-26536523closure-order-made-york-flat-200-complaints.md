@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Cornetto Court
+- East Yorkshire
+- Lawrence Street
+- North Yorkshire
+- York
+people: []
+organisations:
+- Council
+- Facebook
+- North Yorkshire Police
+- TVP Reading
+- York Magistrates Court
+- Yorkshire Housing Association
 ---
 
 *(Image: TVP Reading/ Facebook)*

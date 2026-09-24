@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Fukushima
+- Hamaoka
+- Japan
+- Middle East
+- Nankai Trough
+- Tokyo
+people:
+- Kingo Hayashi
+- Minoru Yasui
+- Sanae Takaichi
+- Satoru Katsuno
+organisations:
+- Chubu Electric
+- Chubu Electric Power Co.
+- No. 3
+- No. 4
+- Nuclear Regulation Authority
+- TEPCO
+- Tokyo Electric Power Company Holdings
 ---
 
 The president of Chubu Electric Power Co., Japan's third-largest utility, said Monday that he and the chairperson are resigning to take responsibility over the company's yearslong manipulation of earthquake safety data for two nuclear reactors and that the operator will withdraw applications to restart them.

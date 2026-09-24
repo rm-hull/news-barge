@@ -14,6 +14,43 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Germany
+- Switzerland
+- Vaudoise Arena
+people:
+- Angelika SZYMANSKA
+- Aurelien BONFERRONI
+- Aurélien Bonferroni
+- Christelle Luisier Brodard
+- Christoph DUBI
+- Daniel CARGNIN
+- Demien Antoine
+- Emilie Moëschler
+- Giovanna SCOCCIMARRO
+- Ingmar DE VOS
+- Kazuhiro Mikami Sensei
+- Manon DEKETER
+- Marius Vizer
+- Miriam BUTKEREIT
+- Mustapha BERRAF
+- Nils STUMP
+- Sergei Aschwanden
+- Sergei Ashchwanden
+- Simon BENHAMOU
+- yuko
+organisations:
+- '## Lausanne'
+- ASOIF
+- CBH Bank
+- Council of State of Vaud
+- Deaf International Judo Federation
+- IJF
+- IOC
+- International Judo Federation
+- Judo Federation
+- Sports and Social Cohesion
+- Swiss Judo Federation
 ---
 
 **Euronews with IJF**

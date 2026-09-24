@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Hong Kong
+- Thailand
+- UK
+people:
+- Delo
+- Harborne
+- Lord David Blunkett
+- Nigel Farage
+- Paul Nowak
+- Philip Rycroft
+- Rayner
+- Robert Jenrick
+- Sharon Graham
+- Stefan Rousseau
+organisations:
+- BBC
+- Government
+- House of Lords
+- Labour Party
+- Reform UK
+- Spotlight on Corruption
+- TUC
+- Times Radio
+- Trades Union Congress
+- Unite
 ---
 
 A Labour peer has urged the government to impose a cap on political donations – including from trade unions – amid concerns over Reform UK’s £72 million donation from crypto-billionaires.

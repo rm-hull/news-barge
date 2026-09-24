@@ -13,6 +13,27 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- East Yorkshire
+- Finest’
+- Kathyrn Avenue
+- North
+- The Leveson Centre
+- York
+people:
+- Andy Knowles
+- Dame Judi
+- Dame Judi Dench
+- David Charles
+- Gaynor Faye
+- Judi Dench
+- Robert Wilson
+- Sean Bean
+organisations:
+- Finest
+- PA Wire
+- York Against Cancer
+- Yorkshire
 ---
 
 ## York-born Oscar-winning actress and charity patron has 'pride of place' in photobook

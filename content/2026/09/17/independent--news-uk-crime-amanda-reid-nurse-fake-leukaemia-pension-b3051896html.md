@@ -13,6 +13,18 @@ categories:
 - UK
 - Health & Fitness
 - Society & Culture
+locations:
+- Dubai
+- Livingston Sheriff Court
+people:
+- Amanda Reid
+- John Millar
+- Munchausen
+organisations:
+- NHS
+- NMC
+- Scottish Pensions Authority
+- Spire Hospital Edinburgh
 ---
 
 A children’s nurse has been struck off after receiving £185,422.95 in pension payments by shaving her head daily to pretend she had terminal leukaemia.

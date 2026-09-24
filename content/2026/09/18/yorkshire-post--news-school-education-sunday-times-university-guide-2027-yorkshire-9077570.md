@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Cambridge
+- Edinburgh
+- England
+- UK
+- Yorkshire
+people: []
+organisations:
+- Durham University
+- How Yorkshire
+- Leeds Arts University
+- Leeds Beckett University
+- Leeds Trinity
+- London School of Economics and Political Science
+- Oxford
+- Sheffield Hallam University
+- Teesside University
+- The Sunday Times Good University Guide
+- The Times
+- University of Bradford
+- University of Huddersfield
+- University of Hull
+- University of Leeds
+- University of Sheffield
+- University of St Andrews
+- University of York
+- York St John University
 ---
 
 # How Yorkshire fared in the 2027 list of UK’s best universities

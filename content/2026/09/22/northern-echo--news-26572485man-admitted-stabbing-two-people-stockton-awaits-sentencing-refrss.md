@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/20045846.jpg?type=og-image&xType=0&yType=120
+locations:
+- Darlington
+- Foundry Lane
+- Stockton
+people:
+- Chris Booth
+- Francis Laird
+- Leo Brown
+- Man
+- Richard Herrmann
+organisations:
+- B&M
+- Morrisons
+- Recorder of Middlesbrough
 ---
 
 *(Image: Chris Booth)*

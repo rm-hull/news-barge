@@ -10,6 +10,20 @@ image: https://cdn.mos.cms.futurecdn.net/Mqx92mEcd3QjGFKUtpnp4C-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Craig Hale
+- Katrin Koenig
+organisations:
+- Amazon Ads
+- Amazon DSP
+- ChatGPT
+- Craig’s
+- Delta Vacations
+- Google News
+- OpenAI
+- TechRadar Pro
 ---
 
 ![Amazon Ads and ChatGPT Ads partnership](https://cdn.mos.cms.futurecdn.net/Mqx92mEcd3QjGFKUtpnp4C.jpg) 

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Canada
+- Maine
+- U.S.
+- United States
+- Washington
+people:
+- Barry Appleton
+- Jonathan Doh
+- Paul Wiseman
+- Susan Collins
+organisations:
+- Center for International Law
+- Distilled Spirits Council of the U.S. Overall
+- New York Law School
+- Villanova University
 ---
 
 The trade war between the U.S. and Canada escalated again this week as the U.S. announced import bans on most alcoholic beverages from Canada, along with other products including whey, molasses and motorcycles.

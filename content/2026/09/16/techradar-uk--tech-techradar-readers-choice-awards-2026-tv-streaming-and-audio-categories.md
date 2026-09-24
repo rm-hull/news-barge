@@ -12,6 +12,15 @@ image: https://cdn.mos.cms.futurecdn.net/3x95CXywki3MNXPGp57xN7-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations: []
+people: []
+organisations:
+- CES
+- Google News
+- MWC
+- Marvel
+- Megazord
+- TechRadar
 ---
 
 ![The TechRadar Readers Choice Awards logo on a patterned background](https://cdn.mos.cms.futurecdn.net/3x95CXywki3MNXPGp57xN7.jpg) 

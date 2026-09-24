@@ -13,6 +13,37 @@ image: https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- America
+- Russia
+- Sen
+- US
+- Ukraine
+people:
+- Angus S. King
+- Benedict Collins
+- Christopher LaNeve
+- Daniel Driscoll
+- General LaNeve
+- Jeanne Shaheen
+- Jr.
+- Michael R. Turner
+- Randy George
+- Thom Tillis
+organisations:
+- 504th Parachute Infantry Regiment
+- APT
+- Armed Forces of Ukraine
+- BUCSIS
+- CASEVAC
+- Department of Defense
+- Google News
+- NATO
+- TechRadar Pro
+- US Army
+- Ukrainian Armed Forces
+- University of Buckingham Centre for Security and Intelligence Studies
+- Unmanned Assault Battalion
 ---
 
 ![Detailed view of the US Army uniform worn by soldiers in a military base. Flag of America on the uniform.](https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW.jpg) 

@@ -14,6 +14,33 @@ categories:
 - Science
 - Technology & Software
 - Society & Culture
+locations:
+- Beijing
+- China
+- Massachusetts
+- U.S.
+- White House
+people:
+- Albert Bourla
+- Debbie Dingell
+- Donald Trump
+- Jake Auchincloss
+- Jason Kelly
+- John Moolenaar
+- Marco Rubio
+- Scott Bessent
+- Xi Jinping
+organisations:
+- Bristol Myers Squibb
+- Department of Health and Human Services
+- Ginkgo Bioworks
+- GlobalData
+- Innovent Biologics
+- Jiangsu Hengrui Pharma
+- Pfizer
+- Reuters
+- Treasury Department
+- Trump
 ---
 
 The Trump administration is considering allowing U.S. pharmaceutical companies to continue striking most licensing deals with Chinese drugmakers despite its broader crackdown on investment in China, according to people briefed on the plans.

@@ -12,6 +12,85 @@ image: https://i.guim.co.uk/img/media/82d8ebcc656259c0366483c26ee43d39d99b85a2/2
 categories:
 - UK
 - News & Politics
+locations:
+- BILDBYRÅN
+- Denmark
+- Dorohusk-Yahodyn
+- Europe
+- Finland
+- France
+- Lapland
+- Norway
+- Poland
+- Poland-Ukraine
+- Rovaniemi
+- Russia
+- Sager House
+- Santa Claus
+- Stockholm
+- Svalbard
+- Sweden
+- UK
+- US
+- Ukraine
+- United States
+- Élysée Palace
+people:
+- Alexander Stubb
+- Amy Hawkinsin Kyiv Catching
+- Andrii Sybiha
+- Antti Häkkänen
+- Boris Johnson
+- Caisa Rasmussen
+- Claudio Bresciani
+- David Petraeus
+- Donald Trump
+- Friedrich Merz
+- Hannes Hervieu
+- Jakub Krupa
+- Jennifer Rankinin Brussels andCharlotte Higgins
+- Jimmie Akesson
+- Kaisa Siren
+- Magdalena Andersson
+- Mark Rutte
+- Miranda Bryant Nordic
+- Morgan Johansson
+- Petteri Orpo
+- Stéphane Lemouton
+- Tidö
+- Tobias Baudin
+- Ulf Kristersson
+- Vladimir Putin
+organisations:
+- AFP
+- CIA
+- Centre Party
+- EPA
+- EU
+- Expressen
+- Getty Images
+- Getty Images Hej
+- Getty Images Sweden
+- Jonas Ekstromer
+- Left Party
+- Macron
+- Moderate Party
+- Nato
+- North Atlantic Treaty Organization
+- Nuclear Planning Group
+- P1
+- Pontus Lundahl
+- Reuters
+- SD
+- SIPA
+- SVT
+- Shutterstock
+- Social Democratic Party
+- Social Democrats
+- Sweden Democrats
+- TT News Agency
+- Ukrainian Railways
+- Ukrainian State Emergency Service
 ---
 
 Sweden's Social Democratic Party leader Magdalena Andersson speaks during their election night party in Stockholm on Sunday Photograph: Jonas Ekstromer/TT News Agency/AFP/Getty Images

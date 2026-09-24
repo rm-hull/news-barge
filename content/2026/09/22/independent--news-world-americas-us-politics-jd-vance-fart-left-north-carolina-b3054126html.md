@@ -12,6 +12,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/10/2295924377..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Greensboro
+- Mexico
+- North Carolina
+- Taiwan
+- United States
+people:
+- Alexandria Ocasio-Cortez
+- Brian Tyler Cohen
+- Cortez
+- JD Vance
+- Jim McGovern
+- Michael Whatley
+- Roy Cooper
+- Tommy Vietor
+- Trump
+organisations:
+- Elon University
+- Munich Security Conference
+- Senate
+- Vance
 ---
 
 Vice President JD Vance branded his political opponents as the “fart left” before quickly backpedalling at a rally.

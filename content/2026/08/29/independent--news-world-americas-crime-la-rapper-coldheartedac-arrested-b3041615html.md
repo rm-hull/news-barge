@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Anaheim
+- California
+- L.A.
+- Los Angeles
+- Oceanside
+- Orange
+- San Diego
+- Westminster
+people:
+- Ada William Obayuwana
+- Albert Tai Vu
+- Cassandra Marie Murrillo
+- ColdheartedAC
+- Floyd Mayweather
+- Murillo
+organisations:
+- AC
+- Department of Justice
+- Instagram
+- Justice Department
+- Murrillo
+- Quartz Hill
+- Range Rover
+- U.S. Treasury
 ---
 
 Coldhearted, indeed.

@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/09/15/10/2196098632..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- U.S.
+- Washington
+people:
+- Bryan Bedford
+- Jennifer Homendy
+organisations:
+- American Airlines
+- Army Black Hawk
+- Congress
+- Congressional
+- FAA
+- Federal Aviation Administration
+- House of Representatives
+- NTSB
+- Reuters
+- Ronald Reagan Washington National Airport
+- Senate
+- U.S. National Transportation Safety Board
+- US Army Black Hawk
+- US Coast Guard
 ---
 
 The Federal Aviation Administration has provided "unacceptable" responses to 11 out of 33 safety recommendations issued after a 2025 mid-air collision near Washington killed 67 people, according to the U.S. National Transportation Safety Board.

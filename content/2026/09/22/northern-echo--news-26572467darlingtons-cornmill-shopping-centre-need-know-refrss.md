@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21489086.jpg?type=og-image
+locations:
+- Cornmill Shopping Centre
+- Darlington Train Station
+- Haughton-Le-Skerne
+- Next
+- Skerne Park
+- Stuart Boulton
+- Waterstones
+- Yarm Road
+people:
+- Blush
+- Bonmarche
+- Footasylum
+- Greggs
+- H Samuel
+organisations:
+- '### Closure of Cornmill'
+- Costa Coffee
+- Darlington Post Office
+- Enquires Coffee
+- Eurochange
+- Greggs
+- HMV
+- JD
+- New Look
+- Pepe's
+- Post Office
+- Primark
+- TG Jones TG Jones
+- Tesco Express
+- The Savoury Cafe
+- Vision Express
+- WHSmith
 ---
 
 From everyday services, plenty of shops and picking up a bite to eat, the Cornmill Shopping Centre has been a familiar destination for generations of Darlington locals and visitors.

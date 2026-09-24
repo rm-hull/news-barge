@@ -11,6 +11,38 @@ image: https://static.independent.co.uk/2026/08/29/15/2288271755..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Cabimas
+- Lake Maracaibo
+- Orinoco Belt
+- U.S.
+- US
+- United States
+- Venezuela
+- Washington
+- Zulia
+people:
+- '## Rubio'
+- David Goldwyn
+- Delcy Rodriguez
+- Donald Trump
+- Hugo Chavez
+- Leonardo Fernandez Viloria
+- Marco Rubio
+- Nicolas Maduro
+- Pete Hegseth
+organisations:
+- American Taxpayer," Trump
+- ConocoPhillips
+- ExxonMobil
+- Goldwyn Global Strategies
+- OPEC
+- Oil Reserves
+- PDVSA
+- REUTERS
+- Reuters
+- Strategic Petroleum Reserve
+- Truth Social
 ---
 
 President Donald Trump has set out an unprecedented plan for the US to take charge of a fifth of Venezuela's extensive oil reserves. The move relies on American firms restoring the OPEC member's struggling energy sector, while providing additional crude to lower US fuel costs.

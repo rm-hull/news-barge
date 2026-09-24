@@ -14,6 +14,40 @@ categories:
 - Germany
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Chicago
+- Germany
+- Italy
+- New England
+- New Hampshire
+- New York
+- Rome
+- US
+- USD
+- Virginia
+people: []
+organisations:
+- ACC
+- Alliant Federal Credit Union
+- American Consumer Council
+- Department of Defense
+- Department of State
+- EU
+- FAO
+- GermanyUnited Nations Federal Credit Union** Founded
+- Navy Federal
+- Navy Federal Credit Union** Navy Federal
+- Revolut
+- SDFCU
+- Service Credit Union
+- State Department
+- State Department Credit Union
+- UN
+- UNFCU
+- US Department of Defense
+- United Airlines Employees' Credit Union
+- United Nations Federal Credit Union
+- Wise
 ---
 
 Accessing US financial services while living abroad is important for US citizens for several reasons – not least of which is the need to pay taxes.

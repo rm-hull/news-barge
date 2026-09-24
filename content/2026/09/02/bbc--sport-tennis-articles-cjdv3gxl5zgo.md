@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Australia
+- Britain
+- Flushing Meadows
+- Louis Armstrong Stadium
+- New York
+- Poland
+- Wimbledon
+people:
+- Alex de Minaur
+- Botic van de Zandschulp
+- Daniela Hantuchova
+- Fran Jones
+- Francesca Jones
+- Iva Jovic
+- Jan Choinski
+- Karolina Muchova.
+- Katie Boulter
+- Magda Linette
+- Magdalena Frech
+- Muchova
+organisations:
+- BBC Radio 5 Live
 ---
 
 ![Katie Boulter](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7f6c/live/06d61040-a715-11f1-8596-77a4bf645971.jpg)

@@ -12,6 +12,46 @@ categories:
 - Technology & Software
 - Science
 - Automotive
+locations:
+- Arizona
+- Austin
+- Dallas
+- Florida
+- London
+- Matte
+- Nashville
+- Nevada
+- San Francisco Bay Area
+- States
+- Texas
+- US
+- Waymo
+people:
+- Ashok Elluswamy
+- D. Alexander
+- Elon Musk
+- J
+- Seth Goldstein
+- Waymo
+organisations:
+- AI
+- AV
+- AVFleetTech
+- Avis
+- Cybercabs
+- FSD
+- Hertz
+- Lyft’s Flexdrive
+- Model Ys
+- Moove
+- Morningstar
+- Musk
+- NHTSA
+- National Highway Traffic Safety Administration
+- Tesla
+- Teslas
+- Warner Bros
+- Waymo
 ---
 
 Matte gold, sloped, and steering-wheel-free, the Tesla Cybercab seems designed to catch the eyes of looky-loos. Now rubberneckers may have more opportunities: Tesla is set to host an event on Thursday at its Austin, Texas, headquarters to debut the Cybercab.

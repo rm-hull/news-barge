@@ -14,6 +14,20 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- State of Berlin
+people:
+- Florian Hauer
+organisations:
+- BSI
+- Berlin Police Internet Helpdesk
+- Berlin Public Prosecutor’s Office
+- Federal Office for Information Security
+- Press and Information Office
+- Rhysida
+- Senate
+- State Criminal Police Office
+- State of Berlin
 ---
 
 © dpa

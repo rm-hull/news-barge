@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Jonathon Ellison
+- Stephanie Peacock
+organisations:
+- GOV.UK One Login
+- NCSC
+- National Resilience
 ---
 
 *(Image: Getty Images)*

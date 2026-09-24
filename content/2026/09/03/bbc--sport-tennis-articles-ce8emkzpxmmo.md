@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Melbourne
+- Miami
+- New York
+- Uzbekistan
+people:
+- Aryna Sabalenka
+- Chris Evert
+- Coco Gauff
+- Elena Rybakina
+- Iatchenko
+- Iva Jovic
+- Kamilla Rakhimova
+- Karolina Muchova
+- Marta Kostyuk
+- Pegula
+- Polina Iatcenko
+- Serena Williams
+- Sofia Kenin
+organisations:
+- Aryna Sabalenka
+- Indian Wells
+- Rybakina
+- WTA
 ---
 
 ![Aryna Sabalenka blows a kiss to the US Open crowd](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/28ee/live/98c7d600-a733-11f1-b2fc-b90b4b6e44c1.jpg)

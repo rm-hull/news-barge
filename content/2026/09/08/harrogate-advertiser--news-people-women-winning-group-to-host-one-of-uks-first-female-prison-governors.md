@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- Harrogate
+- UK
+- Victoria Avenue
+people:
+- Lynne Mee
+- Moors Murderer
+- Myra Hindley
+- Paula Stott
+- Peter Sutcliffe
+- Rose West
+- Veronica Bird
+- Veronica Bird OBE
+organisations:
+- Harrogate Library
+- MS Society
+- North Yorkshire Libraries Eventbrite Or
+- Veronica Bird OBE
+- Women Winning Group
+- Yorkshire Ripper
 ---
 
 # Women Winning Group to host one of UK’s first female prison governors who dealt with Yorkshire Ripper

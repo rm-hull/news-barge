@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Arts & Culture
 - Books & Literature
+locations:
+- Bingley
+- Dalton
+- Dufton
+- Grassington Sanitorium
+- Idle
+- Kirklees
+- London
+- Morpeth
+- Newbiggin
+- Northumberland
+- Sea
+- Seaton Deleval Hall
+- St Davids Ruin
+- TB
+- The Top’
+- Warley
+people:
+- Alice
+- Deleval
+- Delevals
+- Garth Boyd
+- Joe Lampton
+- John Braine
+- Sinclair
+- Susan
+- Warley
+organisations:
+- ARP Warden
+- Ashington Children’s Library
+- Bingley Little Theatre
+- Dalton Librarian
+- Dalton and Kirklees Library
+- RAF
+- Royal Navy
+- Sinclair Folly
 ---
 
 PREVIOUS commentators assumed that because John Braine was Librarian at Bingley, he based his novel Room at the Top on events that primarily happened there.

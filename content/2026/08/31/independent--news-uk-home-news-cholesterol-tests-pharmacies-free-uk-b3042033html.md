@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- England
+- London
+people:
+- Alison McGovern
+- Chris Laing
+- David Webb
+- Rani Khatib
+- Sotiris Antoniou
+organisations:
+- Barts Health NHS Trust
+- Cardiovascular Disease Prevention
+- HEART UK
+- NHS England
+- U.S. Centers for Disease Control and Prevention
+- UCL Partners
+- UCLPartners
 ---
 
 High-street pharmacies in England are to start free seven-minute cholesterol tests.

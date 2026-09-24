@@ -12,6 +12,25 @@ categories:
 - York
 - Film & TV
 image: https://www.yorkpress.co.uk/resources/images/20943707.jpg?type=og-image
+locations:
+- A64
+- England
+- North Yorkshire
+- North Yorkshire The York
+- Richmond
+- Sherburn
+people:
+- Cllr Les
+- David Skaith
+- Kevin Sinfield
+organisations:
+- MND Future
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Road Safety Partnership
+- Road Safety Partnership
+- West Yorkshire
+- York
 ---
 
 ## 'Shameful' lack of fixed speed cameras in North Yorkshire

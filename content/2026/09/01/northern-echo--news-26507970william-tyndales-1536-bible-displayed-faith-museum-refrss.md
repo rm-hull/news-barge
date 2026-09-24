@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- AUCKLAND
+- Bishop Auckland
+- County Durham
+- England
+- Europe
+- London
+- North East
+- St Paul's Cathedral
+people:
+- Cuthbert Tunstall
+- Edison
+- Lydia Prosser
+- William Tyndale
+organisations:
+- AUCKLAND PROJECT
+- Church and State
+- Faith Museum
+- The Auckland Project
+- Tyndale
 ---
 
 *(Image: THE AUCKLAND PROJECT)*

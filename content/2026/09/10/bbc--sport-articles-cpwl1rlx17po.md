@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Ascot
+- Mounjaro
+people:
+- Olivier Rabin
+- Serena Williams
+- Wada
+organisations:
+- BBC Sport
+- Loughborough University
+- Ozempic
+- Ro
+- Semaglutide
+- Tirzepatide
+- Wada
+- World Anti-Doping Agency
 ---
 
 ![A photo of Mounjaro and Ozempic pens inside their boxes.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7147/live/91bb8c00-ad12-11f1-826f-933990eae6f0.jpg)

@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Pets & Animals
+locations:
+- Leeds
+people:
+- Abbie MacGregor
+organisations:
+- Blue Cross
+- Elisabeth Baker
+- Greyhound Board of Great Britain
+- Greyhounds
+- Jordan Pettitt
+- League Against Cruel Sports
+- RSPCA
+- Yorkshire Post Letters
 ---
 
 # What about animal welfare concerns around greyhound racing? - Yorkshire Post Letters

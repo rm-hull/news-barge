@@ -14,6 +14,29 @@ categories:
 - UK
 - Health & Fitness
 - Society & Culture
+locations:
+- Darfur
+- East Sudan
+- Gedaref State
+- U.S.
+- Um Rakuba
+- United States
+people:
+- Ali Almohammed
+- Fabrizio Locuratolo
+- Mesfin Teklu Tessema
+- Mohammed Mahdi
+organisations:
+- AP
+- Doctors Without Borders
+- IRC
+- International Rescue Committee
+- MSF
+- RSF
+- Rapid Support Forces
+- The Associated Press
+- U.N.
+- World Health Organization
 ---
 
 An additional three dozen health facilities serving more than 400,000 people in Sudan are closing this year due to global aid cuts, worsening a dire humanitarian situation in a country torn by more than three years of war, aid groups said Tuesday.

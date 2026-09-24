@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Aylesbury
+- Buckinghamshire
+- England
+- Leighton Buzzard
+- Mentmore Towers
+- Save Britain
+- Wayne Manor
+people:
+- Heritage
+- Joseph Paxton
+- Peter Strachan
+- Simon Halabi
+organisations:
+- BBC
+- Batman
+- Buckinghamshire Council
+- Crystal Palace
+- Heritage
+- Historic England
+- Mentmore Towers
+- Planning
+- Rothschild
+- Save Britain
 ---
 
 The custodians of the Grade I-listed Buckinghamshire mansion used as Wayne Manor in *Batman Begins* have responded to local authority demands for ecological checks, insisting their team is already on the case.

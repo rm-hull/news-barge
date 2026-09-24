@@ -12,6 +12,20 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/18/26/GettyImages-2276710663.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- White House
+- White House South Lawn
+people:
+- Brian Krassenstein
+- Donald Trump
+- Vladimir Putin
+organisations:
+- Apple’s News
+- CNN
+- Constitution
+- MS NOW
+- Politico
+- Trump Administration
 ---
 
 The White House drew widespread criticism for promoting its official app days after President Donald Trump barred three news outlets from the White House.

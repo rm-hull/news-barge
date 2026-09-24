@@ -12,6 +12,25 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/20/11/Chile_Cost_of_Living_42657.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chile
+- Iran
+- Plaza de Armas
+- Santiago
+- U.S.
+people:
+- Antonia Bravo
+- Guillermo Cid
+- Guillermo Holzmann
+- José Antonio Kast
+- Mauricio Aravena
+- Rosanna Costa
+- Tabata Martinich
+organisations:
+- Central Bank
+- Congress
+- Constitutional Court
+- Ministry of Social Development
 ---
 
 Around the Plaza de Armas in central Santiago, lunchtime businesses are serving up the "completo", long considered one of Chile’s most egalitarian dishes.

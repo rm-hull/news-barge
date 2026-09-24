@@ -15,6 +15,34 @@ categories:
 - UK
 - Health & Fitness
 - Family & Parenting
+locations:
+- Cambodia
+- Kenya
+- Nigeria
+- Pakistan
+- Rwanda
+- Sierra Leone
+- South Asia
+- Sub-Saharan Africa
+- sub-Saharan Africa
+people:
+- Feimata Russell
+- Jolah
+- Martin Mwangi
+- Umu Alfa Jaloh
+organisations:
+- Brain Communications
+- British Medical Journal
+- Helen Keller International
+- Independent TV
+- London School of Hygiene and Tropical Medicine
+- MMS
+- Micronutrient Forum
+- Ministry of Health
+- National Micronutrient Officer
+- PPH
+- The Independent
+- World Health Organisation
 ---
 
 Hundreds of thousands of women die from complications related to pregnancy and childbirth every year, with the burden falling overwhelmingly on poorer countries and as hard-won progress has slowed amid cuts to international aid.

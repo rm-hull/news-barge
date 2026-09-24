@@ -13,6 +13,13 @@ categories:
 - Europe
 - News & Politics
 - Music
+locations:
+- Britain
+- Caribbean
+- London
+- Notting Hill
+people: []
+organisations: []
 ---
 
 Notting Hill Carnival returned to west London this weekend for its 60th anniversary, bringing music, colourful costumes and dancing to the streets.

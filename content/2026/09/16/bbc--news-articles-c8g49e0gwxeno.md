@@ -12,6 +12,56 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- America
+- Asia
+- Bahrain
+- Camp Arifjan
+- Camp Beuhring
+- Camp Buehring
+- China
+- Gulf
+- Iran
+- Iraq
+- Israel
+- Jordan
+- Kuwait
+- Kuwait.
+- Massachusetts.
+- Middle East
+- Oman
+- Prince Sultan
+- Qatar
+- Riyadh
+- Russia
+- Saudi Arabia
+- UAE
+- US
+- Ukraine
+- United States
+- White House
+people:
+- Brian Katulis
+- Donald Trump
+- Pete Hegseth
+- Thomas Massie
+- Todd Blanche
+organisations:
+- BBC Verify
+- CBO
+- CBS News
+- CBS News.
+- Centcom
+- Congressional Budget Office
+- Middle East Institute
+- NATO
+- Pentagon
+- Prince Sultan Air Force Base
+- Reuters
+- Senate
+- Trump
+- US Central Command
+- US House of Representatives
 ---
 
 ![An undated photo, obtained by CBS News from active duty service members, shows car reportedly destroyed in an Iranian strike at Camp Buehring, Kuwait.](https://ichef.bbci.co.uk/ace/standard/620/cpsprodpb/4725/live/186ed140-b1c7-11f1-8493-1910d79d53eb.jpg)

@@ -14,6 +14,32 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Bundestag
+- Europe
+- Germany
+- Iran
+- Leipzig
+- Russia
+- Saxony-Anhalt
+- US
+- Washington
+- White House
+people:
+- Alice Weidel
+- Donald Trump
+- Friedrich Merz
+organisations:
+- AFP
+- AfD
+- Alternative for Germany
+- Bundestag
+- CDU
+- Christian Democrats
+- MAGA
+- Trump
+- Truth Social
 ---
 
 German Chancellor Friedrich Merz had harsh words for the Alternative for Germany (AfD) during the general debate in the Bundestag on Wednesday, calling the party "a destructive force" and sharply criticising its policies.

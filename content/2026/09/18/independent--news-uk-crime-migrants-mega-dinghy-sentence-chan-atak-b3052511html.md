@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Canterbury Crown Court
+- English Channel
+- South Sudan
+- UK
+people:
+- Chan Atak
+- Chan Mathok Atak
+- James Harrison
+- Sydney Sopher
+organisations:
+- Atak
+- Care4Calais
+- Home Office
+- The Independent
 ---
 
 A teenager who piloted a boat with a then-record 165 migrants across the English Channel has been jailed for two years and three months.

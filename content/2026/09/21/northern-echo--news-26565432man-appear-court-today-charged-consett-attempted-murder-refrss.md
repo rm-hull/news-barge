@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21477497.jpg?type=og-image&xType=6&yType=0
+locations:
+- Albert Road
+- Brackenfield Road
+- Burnhope
+- Consett
+- County Durham
+- Durham Constabulary
+- Framwellgate Moor
+- Medomsley Road
+- Newton Aycliffe Magistrates’ Court
+- Subway
+people:
+- David Railton
+- Gary Atkinson
+- Joshua Nichol
+organisations:
+- Audi
+- Mitsubishi
+- The Northern Echo
 ---
 
 A man will appear in court today (September 21) charged with attempted murder after shots were allegedly fired after a car crash in County Durham.

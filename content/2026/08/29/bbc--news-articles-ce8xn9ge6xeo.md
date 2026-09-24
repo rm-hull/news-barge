@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8f3/live/83ec89
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Duchess of Kent
+- Home Counties
+- Royal Lodge
+- Sandringham
+- Switzerland
+- UK
+- US
+- Verbier
+- Windsor
+- York
+people:
+- Andrew Mountbatten-Windsor
+- Jeffrey Epstein
+- King
+- Sarah Ferguson
+organisations:
+- Duchess of Sussex
+- Duchess of York
+- Sun
 ---
 
 ![Sarah Ferguson, with her dark red hair half tied up, in a green dress and fuchsia dress and diamond earrings](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg)

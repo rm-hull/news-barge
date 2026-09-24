@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Newton Aycliffe
+- St Cuthberts Way
+people:
+- Olivia Howlett
+organisations: []
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on a crash in Newton Aycliffe near St Cuthberts Way.

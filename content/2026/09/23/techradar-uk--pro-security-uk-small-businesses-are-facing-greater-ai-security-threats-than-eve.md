@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg
+locations:
+- UK
+people:
+- Jake Moore
+- Mike Moore
+organisations:
+- AI
+- B2B
+- B2C
+- ESET
+- Google News
+- ITProPortal
+- SMB Cyber Risk Report
+- SMBs
+- TechRadar Pro
 ---
 
 ![Security](https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC.jpg)

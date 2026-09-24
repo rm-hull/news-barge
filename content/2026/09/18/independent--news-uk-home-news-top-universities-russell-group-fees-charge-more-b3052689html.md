@@ -13,6 +13,15 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/18/18/2283421761..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Libby Hackett
+organisations:
+- Department for Education
+- KPMG
+- Russell Group
+- The Times
 ---
 
 Universities should be allowed to vary their tuition fees based on their reputation and individual courses, the head of the Russell Group has said, as institutions face severe financial shortfalls.

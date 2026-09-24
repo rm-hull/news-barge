@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Esplanade
+- Harrogate
+- Montpellier Hill
+- Oak Beck
+- The Stray
+- Yorkshire
+people:
+- Athif Khan
+- Burke
+- Ward
+organisations:
+- Yorkshire Water
 ---
 
 ![](https://mmo.aiircdn.com/409/662240e6c208c.jpg) 

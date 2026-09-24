@@ -11,6 +11,45 @@ image: https://static.independent.co.uk/2026/08/31/14/40/GettyImages-2291621111.
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- California
+- Europe
+- Iran
+- Latin America
+- Middle East
+- Parnell
+- U.S.
+- United States
+people:
+- Brendan Rascius
+- Craig Whitlock
+- Dan Lamothe
+- Donald Trump
+- Olivia Peterson
+- Pete Hegseth
+- Sean Parnell
+- Ted Lieu
+organisations:
+- Combatant Command
+- Defense Orders Book
+- Department of War
+- First Amendment
+- Joint Chiefs of Staff
+- Joint Staff
+- New York Times
+- New York Times Co.
+- PDS
+- Parnell
+- Pentagon Papers
+- Pete Derangement Syndrome
+- Supreme Court
+- The Independent
+- The Washington Post
+- U.S. European Command
+- U.S. Pacific Command
+- U.S. Southern Command
+- U.S. Supreme Court
 ---
 
 The Pentagon’s spokesman is facing backlash for falsely claiming that it is a “crime” for journalists to publish classified information following a report that some military leaders were critical of extending President Donald Trump’s war in Iran.

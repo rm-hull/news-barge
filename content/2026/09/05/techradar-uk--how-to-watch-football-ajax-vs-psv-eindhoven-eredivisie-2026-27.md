@@ -12,6 +12,61 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Amsterdam
+- Australia
+- CA
+- Canada
+- Johan Cruyff Arena
+- UK
+- US
+- canada
+- uk
+people:
+- Aatif Sulleyman
+- Ivan Perisic
+- Jorthy Mokio
+- Michel
+- Peter Bosz
+- Ricardo Pepi
+- Tolu Arokodare
+organisations:
+- ABC
+- ACCN
+- ACCNX
+- Aatif
+- Ajax
+- CW Sports
+- Disney Channel
+- ESPN Deportes
+- ESPN2
+- ESPNEWS
+- ESPNU
+- Eredivisie
+- Farmers
+- Foxtel
+- Future Publishing
+- Gizmodo
+- Hulu
+- Instagram
+- Kayo Sports**
+- Lancers
+- NFL Network
+- Newsweek
+- NordVPN
+- PSV Eindhoven
+- SECN
+- Sling
+- Sportsnet
+- TBS
+- TNT
+- TechRadar
+- The Independent
+- TikTok
+- Trusted Reviews
+- Wolves
+- YouTube
+- vriendenloterijeredivisie
 ---
 
 ![Jorthy Mokio and Ricardo Pepi during the Ajax v PSV Eindhoven game on May 2, 2026](https://cdn.mos.cms.futurecdn.net/bJFSqV9edtvVHCZV3XLeu.jpg) 

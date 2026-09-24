@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Cheshire
+- Jodrell Bank
+- Lovell Telescope
+- Scotland
+- UK
+people:
+- Andy Burnham
+- Bernard Lovell
+- Brian Cox
+- Brian May
+- Catherine Heymans
+- Dara Ó Briain
+- Elbow
+- Jarvis Cocker
+- Jim Al-Khalili
+- Johnny Marr
+- Judy Spence
+- Sarah Russell
+- Tim Peake
+- Tim Roca
+organisations:
+- Congleton
+- Doves
+- Galaxy
+- Hitchhiker's Guide
+- House of Commons
+- Jodrell Bank
+- Jodrell Bank Centre for Engagement
+- Lovell Telescope
+- Lovell telescope
+- Macclesfield
+- New Order
+- No 10 North
+- The Jodrell Bank
+- UK Research and Innovation
+- UKRI
+- University of Manchester
 ---
 
 ![An aerial view at sunrise of the Lovell telescope at Jodrell Bank. Its huge white dish, taller than a house, is tilted upright on a steel cradle that sits on a circular track. Behind it, flat Cheshire farmland stretches to the horizon under a soft pink sky.](https://ichef.bbci.co.uk/ace/standard/937/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png)

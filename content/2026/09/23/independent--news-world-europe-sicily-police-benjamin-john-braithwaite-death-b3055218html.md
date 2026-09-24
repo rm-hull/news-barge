@@ -13,6 +13,20 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/15/17/55/iStock-2242988126.jpg?trim=0,29,0,29&width=1200&height=800&crop=1200:800
+locations:
+- Canicattini Bagni
+- Italy
+- Noto
+- Syracuse
+people:
+- Benjamin John Braithwaite
+- Paolo Amenta
+organisations:
+- ANCI Sicilia
+- Canicattini Bagni
+- La Repubblica
+- La Sicilia
+- The Times
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

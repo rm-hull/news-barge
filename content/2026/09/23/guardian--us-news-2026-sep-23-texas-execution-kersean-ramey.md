@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/bf352a83a20458579fbe6e29c15f6b3b1608b9df/207_0_2854_2284/master/2854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5f827a45989e3bb05a250e56db387c5
+locations:
+- Edna
+- Houston
+- Huntsville
+- Texas
+- US
+people:
+- Celso Lopez
+- Ker’Sean Ramey
+- LeJames Norman
+- Samuel Roberts
+- Tiffani Peacock
+organisations: []
 ---
 
 A man found guilty of fatally shooting three people during a 2005 attempted robbery at a rural Texas home is scheduled to be executed Wednesday, a week after the other man convicted in the killings was put to death.

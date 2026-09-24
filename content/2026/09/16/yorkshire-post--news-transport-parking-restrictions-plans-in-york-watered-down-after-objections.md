@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Church Lane
+- Church Street
+- Dunnington
+- York
+- York.
+people: []
+organisations:
+- City of York Council
+- Dunnington Parish Council
 ---
 
 # Parking restrictions plans in York watered down after objections

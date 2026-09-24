@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Chicago
+- DarknessMurder
+- New York
+people:
+- '![]() Ben-HurRevenge'
+- Bonnie
+- Butch Cassidy
+- Gene Hackman
+- KidPaul Newman
+- Mario Puzo
+- Michael Caine1h
+- Michael Corleone
+- Michael Corleone3h
+- Robert Redford
+- Steven Spielberg
+- Vito Corleone
+organisations:
+- Charlton Heston
+- UntouchablesSean Connery
 ---
 
 # The Godfather

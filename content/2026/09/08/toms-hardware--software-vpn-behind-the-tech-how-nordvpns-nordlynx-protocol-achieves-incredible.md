@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/9g5HrEH8iLTX7cZCUDnvQm-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- NordLynx
+- NordWhisper
+people:
+- Aurelija Andriekutė
+- Bill Mann
+- NordLynx
+organisations:
+- Get Tom's Hardware
+- ISAE
+- NordLynx
+- NordVPN
+- OpenVPN TCP
+- TechRadar
+- UDP
+- WireGuard
 ---
 
 ![NordVPN](https://cdn.mos.cms.futurecdn.net/9g5HrEH8iLTX7cZCUDnvQm.png) 

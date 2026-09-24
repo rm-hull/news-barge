@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Anthony McDonald
+- Elizabeth Cook
+- Jaden Wright
+- Jaden Wright.
+- Jonathan Carroll
+- Natalie Louise Kirton
+- Natalie McDonald
+- Richard Wright KC
+- Valentina Foster
+organisations:
+- Cleveland Police
 ---
 
 # Woman who died in house fire had ‘beautiful wedding’ nine months earlier

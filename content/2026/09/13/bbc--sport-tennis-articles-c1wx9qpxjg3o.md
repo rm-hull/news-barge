@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- New York
+people:
+- Alexander Zverev
+- Andy Roddick
+- Ben Shelton
+- Carlos Alcaraz
+- Jannik Sinner
+organisations: []
 ---
 
 ![Alexander Zverev celebrates during his US Open win over Ben Shelton](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8dc9/live/7facb320-afb2-11f1-a76f-af3985941b96.jpg)

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Burton Pidsea
+- East Yorkshire
+- Estronwick
+- Fieldend Lane
+people:
+- Fieldend Lane
+organisations:
+- Humberside Police
+- Suzuki
 ---
 
 # Motorcyclist, 38, dies after crashing into fence on East Yorkshire road

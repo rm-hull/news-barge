@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Film & TV
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620288278.jpg@webp
+locations:
+- Germany
+- GermanyWhy
+- Munich
+- Potsdam
+- Teufelsrad
+people:
+- Christian Scharpf
+- Elisabeth Polaczy
+- Martin Hagen
+organisations:
+- Equal Opportunity Office
+- FDP
+- How Munich
+- Meta
+- Oktoberfest
+- Süddeutsche Zeitung
+- The Teufelsrad
+- TikTok
 ---
 
 For many Oktoberfest visitors, the Teufelsrad, or "Devil's Wheel", is a beloved tradition. The spinning ride has entertained crowds for more than a century, challenging participants to stay on a rapidly rotating disc before being flung off.

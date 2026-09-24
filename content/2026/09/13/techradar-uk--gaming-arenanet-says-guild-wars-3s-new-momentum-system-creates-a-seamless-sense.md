@@ -14,6 +14,20 @@ image: https://cdn.mos.cms.futurecdn.net/jHV9Tc8QXcLuLUQtEKgwK9-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations: []
+people:
+- Colin Johanson
+organisations:
+- ArenaNet
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- Guild Wars
+- NME
+- PC
+- TechRadar Gaming
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/jHV9Tc8QXcLuLUQtEKgwK9.jpg) 

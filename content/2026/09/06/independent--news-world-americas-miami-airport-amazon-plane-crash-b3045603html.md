@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Florida
+- Miami-Dade County
+- Puerto Rico
+- San Juan
+people:
+- Daniella Levine Cava
+- Kelly Nantel
+- Sean Duffy
+organisations:
+- Amazon
+- FAA
+- Federal Aviation Administration
+- Luis Muñoz Marín International Airport
+- Miami International
+- Miami International Airport
+- Miami-Dade Fire Rescue
+- National Transportation Safety Board
+- Prime Air
 ---
 
 At least five people have been killed and five more injured after an Amazon cargo plane overshot the runway at Miami International Airport, according to authorities.

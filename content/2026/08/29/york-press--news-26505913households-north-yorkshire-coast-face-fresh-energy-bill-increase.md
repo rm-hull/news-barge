@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Aberdeen Walk
+- North Yorkshire
+- Scarborough
+- UK
+- Whitby
+- York
+people:
+- Alison Hume
+- Andy Burnham
+- Neil Kenward
+organisations:
+- Government
+- Historic North Yorkshire
+- Markets
+- North Yorkshire Council
+- Ofgem
+- Scarborough South Bay
+- UK North Yorkshire Coast and Moors
 ---
 
 ## Households on North Yorkshire coast face fresh energy bill increase

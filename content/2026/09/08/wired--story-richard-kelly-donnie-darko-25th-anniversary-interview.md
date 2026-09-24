@@ -15,6 +15,57 @@ categories:
 - Arts & Culture
 - Film & TV
 - Comedy & Entertainment
+locations:
+- East Village
+- Hollywood
+- Los Angeles
+- New York City
+- Santa Monica
+people:
+- Anne Serling
+- April Ferry
+- Ari Aster
+- Beth Grant
+- Bob Fosse
+- Cecil B. Demented
+- Charlie’s Angels
+- Donnie Darko
+- Drew Barrymore
+- Duran Duran
+- Gretchen
+- Jake Gyllenhaal
+- Jane Schoenbrun
+- Jason Schwartzman
+- John Waters
+- Joseph Middleton
+- Linda McDonough
+- Maggie Gyllenhaal
+- Manish Raval
+- Mary McDonnell
+- Michael Jackson
+- Michael Musto
+- Michelle Morris Gertz
+- Nancy Juvonen
+- Patrick Swayze
+- Pomeroy
+- Powell
+- Pressberger
+- Richard Kelly
+- Rod Serling
+- Sam Raimi
+- Scorsese
+- Seth Rogen
+- Tom Wolfe
+organisations:
+- Aero Theatre
+- Bunnymen
+- Echo
+- Fathom Entertainment
+- Flower Films
+- Joy Division
+- Penny Marshall
+- Two Boots
+- Village Voice
 ---
 
 For a diehard fan of *Donnie Darko*, meeting director and screenwriter Richard Kelly is a thrill in itself. But to first encounter him as a silhouette in a darkened movie theater is to feel almost like a character in one of his films—unmoored by indefinite space and physics, questioning your altered perception.

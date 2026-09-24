@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bingley
+- Bradford
+- England
+- Ilkley
+- Keighley
+people:
+- Sophie Myers
+organisations:
+- Bradford District Care NHS Foundation Trust
+- Canalside Health Care Centre
+- Department of Health and Social Care
+- Falls Prevention
+- Keighley Healthy Living
 ---
 
 *(Image: Freelance)*

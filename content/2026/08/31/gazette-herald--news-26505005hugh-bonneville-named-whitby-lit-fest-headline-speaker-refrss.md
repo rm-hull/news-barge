@@ -15,6 +15,34 @@ categories:
 - Film & TV
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Downton Abbey
+- Eighteen91
+- North Yorkshire
+- Paddington
+- Whitby Pavilion
+people:
+- Ann Cleeves
+- Brown
+- Corinne Bailey Rae
+- Elly Griffiths
+- Greta Scacchi
+- Hairy Biker Si King
+- Hugh Bonneville
+- Jess Kidd
+- Joanne Harris
+- John Boyne
+- Lois Kirtlan
+- Robert Crawley
+- Rory Sparkes
+- Si King
+organisations:
+- Flowergate Hall
+- The Boy
+- UK TV
+- Whitby Library
+- Whitby Lit Fest
+- Whitby Museum
 ---
 
 A MUCH-LOVED UK TV and film actor has been unveiled as a surprise headline guest for a four-day literary festival in a North Yorkshire coastal town.

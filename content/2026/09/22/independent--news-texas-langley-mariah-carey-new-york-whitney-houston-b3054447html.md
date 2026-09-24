@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/17/Music_Ella_Langley__3_62.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Choosin’ Texas
+- Langley
+- Tennessee
+- U.S.
+people:
+- Bad Bunny
+- Barbara Mandrell
+- Charles L. Hughes
+- Charlie Rich
+- Choosin
+- Choosin’ Texas
+- Choosin’ Texas’
+- Claire Heinichen
+- Ella Langley
+- Fish Hunt Golf Drink
+- George Strait
+- Jaime Marconette
+- Kacey Musgraves
+- Lambert
+- Luke Bryan
+- Luminate
+- Mariah Carey
+- Morgan Wallen
+- Nate Sloan
+- Riley Green
+- Ronnie Milsap
+- Shaboozey
+- Taylor Swift
+- Whitney Houston
+organisations:
+- Choosin’ Texas
+- Choosin’ Texas’
+- Country Soul
+- Luminate
+- Rhodes College
+- Spotify —
+- TikTok,” Hughes
+- University of Southern California
+- post-Miranda Lambert
 ---
 
 Ella Langley’s “Choosin’ Texas,” a simmering, midtempo, country-and-then-some heartbreak song released last October, is indisputably 2026’s biggest hit.

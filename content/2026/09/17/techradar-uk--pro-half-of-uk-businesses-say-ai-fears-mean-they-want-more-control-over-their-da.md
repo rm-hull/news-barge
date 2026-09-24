@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Britain
+- Europe
+- UK
+- US
+people:
+- Ben Elms
+- Craig Hale
+- Expereo
+organisations:
+- AI
+- Craig’s
+- Expereo
+- GDPR
+- Google News
+- IDC
+- TechRadar Pro
 ---
 
 ![Stylized image of a data center rack with electric blue lines running across it](https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe.jpg) 

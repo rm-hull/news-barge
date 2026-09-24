@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Heaton
+- Rossefield Road
+- York Crown Court
+people:
+- Ayesha Smart
+- Donal Donnelly
+- Tues
+organisations:
+- Bradford Crown Court
+- Teaching Regulation Agency
 ---
 
 *(Image: T&A)*

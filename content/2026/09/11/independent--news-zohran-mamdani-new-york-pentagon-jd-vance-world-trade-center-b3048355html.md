@@ -12,6 +12,46 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Afghanistan
+- Brooklyn
+- Earth
+- Honolulu
+- Iraq
+- Mount Washington
+- New Hampshire
+- New York
+- New York City Hall
+- Pakistan
+- Pennsylvania
+- Shanksville
+- Times Square
+- U.S.
+- World Trade Center
+people:
+- Casey Kloepfer
+- David Paine
+- Donald Trumpsaid
+- George Pataki
+- Glenn Winuk
+- JD Vance
+- Jay Winuk
+- Khalid
+- Mohammed
+- Osama bin Laden
+- Ronald Kloepfer
+- Rudy Giuliani
+- Trump
+- Zohran Mamdani
+organisations:
+- CIA
+- Congress
+- Department of Homeland Security
+- Mississippi State University
+- National Day of Service and Remembrance
+- New York Police Department
+- Pentagon
+- World Trade Center
 ---
 
 Americans are commemorating the 25th anniversary of 9/11, remembering the shock, the dead and the sweeping consequences of the al-Qaida attacks on symbols of U.S. might and prosperity.

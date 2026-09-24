@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Cheshire
+- England
+- Fairway
+- Huyton
+- Liverpool Crown Court
+- Widnes
+people:
+- Joey Barton
+- Kevin Lynch
+- Mr Lynch
+organisations:
+- Bristol Rovers
+- Burnley
+- Fleetwood Town
+- Manchester City
+- Marseille
+- Newcastle
+- NexGen Academy
+- Prescot Golf Club
+- QPR
+- Rangers
 ---
 
 Former footballer Joey Barton is due to stand trial charged with an assault outside a golf club.

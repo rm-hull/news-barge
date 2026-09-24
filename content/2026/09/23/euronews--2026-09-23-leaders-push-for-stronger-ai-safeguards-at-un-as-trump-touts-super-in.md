@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/39/50/1200x675_cmsv2_5f1c4f79-b488-55c2-b8f0-090a6aa59b90-9923950.jpg
+locations:
+- AI
+- Britain
+- China
+- France
+- London
+- US
+- United States
+- Washington
+people:
+- AI
+- Andy Burnham
+- Antonio Guterres
+- Donald Trump
+- Emmanuel Macron
+- Sam Altman
+organisations:
+- '## AI'
+- General Assembly
+- Group of 20
+- OpenAI
+- Security Council
+- Super Intelligence
+- UN General Assembly
+- UN Security Council
+- United Nations
 ---
 
 ## AI has become a major topic at the UN General Assembly after incidents of the technology falling out of the control of humans and warnings by company insiders drew global alarm and calls for better government supervision of the industry.

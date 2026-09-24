@@ -13,6 +13,26 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Arkendale Livery
+- Boroughbridge
+- Britain
+- Ferrensby
+- Forest
+- HG5 Padel
+- Harrogate
+- New Knaresborough
+- Padel Farm
+- Poplars Farm
+- Sutton
+people:
+- Andy
+- Callum
+- Cummings
+- Ione Cumming
+organisations:
+- HG5
+- Poplars Storage
 ---
 
 # New Knaresborough padel courts already attracting players from nearby villages, Boroughbridge and Harrogate

@@ -14,6 +14,17 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/18/20/Paramount_Sovereign_Funds_9234_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- U.S.
+people: []
+organisations:
+- AP
+- New York
+- Paramount
+- Paramount-Warner
+- Warner Bros
+- Writers Guild of America
 ---
 
 Skydance-owned Paramount reached a settlement Monday with a group of state attorney generals that had sued to challenge the company’s buyout of Warner Bros. Discovery, effectively paving the way for the mega merger to move forward, a person familiar with the matter told the AP.

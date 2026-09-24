@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Central African Republic
+- China
+- Iran
+- Russia
+- Serafim
+- Ukraine
+people:
+- Anton Shilov
+- Claude Code
+- Claude Opus
+- Tom
+organisations:
+- AI
+- Anthropic
+- Claude Code
+- DronDoc
+- Get Tom's Hardware
+- Google News
+- Telegram
+- Tom’s Hardware
 ---
 
 ![Claude on an iPhone screen](https://cdn.mos.cms.futurecdn.net/L3LMrxAsdXV8GhdVLWYvdZ.jpg) 

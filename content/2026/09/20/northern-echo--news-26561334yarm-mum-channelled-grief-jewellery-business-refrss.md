@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thenorthernecho.co.uk/resources/images/21471666.jpg?type=og-image&xType=0&yType=91
+locations:
+- Bishop Auckland
+- Darlington
+- Helmsley
+- North Yorkshire
+- Yarm
+people:
+- Hobbycraft
+- Kate Seow
+- Kate Seow Jewellery
+organisations:
+- Saltbox Gallery
 ---
 
 The sudden death of her mother inspired a Yarm woman to take a chance on her passion and launch a jewellery business.

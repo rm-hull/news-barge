@@ -12,6 +12,33 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Azerbaijan
+- Bratislava
+- Brussels
+- Europe
+- France
+- Hungary
+- Kazakhstan
+- Kyrgyzstan
+- Paris
+- Russia
+- Slovakia
+- Ukraine
+- Uzbekistan
+people:
+- Alisher Usmanov
+- Mikhail Fridman
+- Recep Tayyip Erdoğan
+- Robert Fico
+- Viktor Orbán
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- EU Council
+- Euronews
+- Financial Times
+- Usmanov
 ---
 
 ## Paris seeks to remove Usmanov from the sanctions list in an apparent quid-pro-quo move to secure the release of detained French nationals.

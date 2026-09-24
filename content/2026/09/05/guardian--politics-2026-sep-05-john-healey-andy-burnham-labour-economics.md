@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Cornwall
+- Downing Street
+- England
+- Iran
+- Manchester
+- North Carolina
+- Westminster
+people:
+- Andy Burnham
+- John Healey
+- Keir Starmer
+- Louise Haigh
+- Mandala
+- Nick Williams
+- Rachel Reeves
+- Tan Dhesi
+organisations:
+- Commons
+- G20
+- Labour
+- Mandala Partners
+- Ministry of Defence
+- OBR
+- Office for Budget Responsibility
+- Reform
+- TUC
+- Treasury
 ---
 
 Until now, Andy Burnham has been a lucky prime minister. In office for just over six weeks, no major domestic crisis derailed his plans over the summer, Reform has been on the back foot, and he arrived back at Westminster with his personal approval ratings soaring and optimism undampened.

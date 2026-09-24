@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- '## Care'
+- Barmby Moor
+- Lavender Fields Care Village
+- Pocklington
+- Sycamore Gap
+- York
+people:
+- Chris Mitchell
+- Jill Quinn
+- Linda Johnson
+- Roly Cronshaw
+organisations:
+- Dementia Forward
+- East Riding of Yorkshire Council
+- Lavender Fields Care Village
 ---
 
 ## Care village near York chosen to receive special Sycamore Gap sapling

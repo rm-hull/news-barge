@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- '## North'
+- Aire Valley
+- Dalton Lane
+- Keighley
+- Providence Park
+- Space Test North
+- UK
+- YOUR
+people:
+- Andrew Judson
+organisations:
+- BSC Filters Ltd
+- Bradford Council
+- Bradford Council’s Reform
+- Dover Corporation
+- Executive
+- Keighley Towns Fund
+- Keighley’s Local Regeneration Fund
+- Lead Member for Economy, Planning and Regeneration
+- Local Regeneration Fund
+- MPG Europe
+- Public Notice Portal
+- Public Notice Portal KEIGHLEY
 ---
 
 *(Image: Hayfield Robinson)*

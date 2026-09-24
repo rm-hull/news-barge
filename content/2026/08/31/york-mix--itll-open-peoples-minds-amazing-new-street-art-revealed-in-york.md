@@ -12,6 +12,20 @@ categories:
 - York
 - Arts & Culture
 - Society & Culture
+locations:
+- Bristol
+- Lowther Street
+- The Groves
+- York
+people:
+- Groves
+- Martin
+- Tom Sledmore
+organisations:
+- Door 84 Youth and Community Centre
+- Sled One
+- Vibrant and Sustainable High Streets Fund
+- York and North Yorkshire Mayor
 ---
 
 This is the amazing new street art that has just been created in York.

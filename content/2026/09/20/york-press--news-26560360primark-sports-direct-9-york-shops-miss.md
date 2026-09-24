@@ -12,6 +12,89 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21469732.jpg?type=og-image
+locations:
+- Acomb
+- Barbican
+- Bridge Street
+- Coney Street
+- Coppergate
+- Fossgate
+- Goodramgate
+- Low Petergate
+- Micklegate
+- Ouse Bridge
+- Patrick Pool
+- Stonegate
+- Walmgate Bar
+- York
+- York.
+people:
+- '![]()Huxtable'
+- Adele Mortimer
+- Alex Meehan
+- Andree Gotel
+- Ann Pearson
+- Bibi
+- Brown
+- Bruce Wray
+- Carol Gateley
+- Dan York
+- Dick Sefton
+- Droopy
+- Ernest Roy
+- Gordon Kent-Smith
+- Hey Doris!
+- Huxtables
+- Jean Macnaughton
+- Jean Robinson Powell
+- Keith Tyreman
+- Ken Spellman
+- Kevin Holland
+- Kevin Odonnell
+- Linda Metcalfe
+- Margaret Cawthorne
+- Mary Ann Dearlove
+- Maxine Gordon
+- Rieveley
+- Roland Dobson
+- Sarah Coggles
+- Scotts the
+- Simon Fried
+- Stubbs
+- Tim Bruce
+- Valerie Wynne
+- Wendy Blanchard
+organisations:
+- '![]()Woolworths'
+- BHS
+- Bead Machine
+- Boyes
+- British Home Stores
+- Brown's
+- Bubbles
+- Burdekin
+- C&A
+- Colliergate
+- Coppergate centre Huxtables
+- Danish Kitchen
+- Droopy and Browns
+- Farmers Butchers
+- Hamleys
+- Hunter & Smallpage
+- Leak and Thorp
+- Low Petergate
+- Maxine Gordon
+- Primark
+- Renaissance
+- Sarah Coggles
+- Scotts the butchers
+- The Press
+- Track Records
+- Unit 5
+- Wild Poppy
+- Woollies
+- Woolworths
+- York
 ---
 
 ## Before Primark and Sports Direct – 9 'lost' York shops we want back

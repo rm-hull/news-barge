@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/17507527.jpg?type=og-image
+locations:
+- Bishopthorpe Palace
+- Cattal
+- LNER Community Stadium
+- Market Weighton
+- Old Trafford
+- Shiptonthorpe
+- York Minster
+- York Racecourse
+people:
+- Anne
+- Danny Lawson
+- Fabio De Paola
+- Geoff
+- Irene
+- Kevin Sinfield
+- Lindsey
+- Mike Rogers
+- Rob Burrow
+- Royal
+organisations:
+- Hull KR
+- Leeds Rhinos
+- MND Association
+- PA Media Assignments
+- PA Wire
+- Rugby League
+- University of York
+- York Knights
 ---
 
 *(Image: Danny Lawson/PA Wire)*

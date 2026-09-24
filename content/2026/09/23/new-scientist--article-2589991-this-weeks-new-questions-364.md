@@ -12,6 +12,19 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550844.jpg
+locations:
+- Australia
+- Australia.
+- London
+- Northern Territory
+- Sydney
+- UK
+- Uluru-Kata Tjuta National Park
+people:
+- Mick Liubinskas
+- Robert Morley
+organisations:
+- Uluru
 ---
 
 ![Low angel rear view shot of young woman running upstairs of bridge in art district, city downtown. Hipster runner. Reaching goal. Personal challenge. Personal milestones. Youth culture. Street style. Street culture.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550844.jpg?w=840)

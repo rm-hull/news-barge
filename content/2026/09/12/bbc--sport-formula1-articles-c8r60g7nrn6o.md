@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Madrid
+- Madring
+people:
+- Charles Leclerc
+- Lando Norris
+- Lewis Hamilton
+- Max Verstappen
+- Mercedes' George Russell
+- Mercedes' Kimi Antonelli
+- Norris Norris'
+- Oscar Piastri
+organisations:
+- Ferrari
+- McLaren
+- Red Bull
 ---
 
 ![Lando Norris clenches his left fist in celebration while holding the pole position award at the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/05ff/live/d42b5e60-aebd-11f1-ae38-d350b022f499.jpg)

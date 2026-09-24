@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21464692.jpg?type=og-image&xType=0&yType=36
+locations:
+- Aysgarth Falls
+- Durham
+- North Yorkshire
+- Northumberland
+- River Ure
+- UK
+- Upper Falls
+- Wensleydale
+- Yore Mill
+people: []
+organisations:
+- '![]()Mill Race Teashop'
+- Mill Race
+- Mill Race Teashop
+- TRIPADVISOR
+- Tripadvisor
+- Yorkshire Dales'
 ---
 
 *(Image: TRIPADVISOR)*

@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belfast
+- Cardiff
+- Edinburgh
+- England
+- Europe
+- Northern Ireland
+- Scotland
+- Senedd
+- UK
+- US
+- Wales
+- Westminster
+people:
+- Andy Burnham
+- Ap Iorwerth
+- Donald Trump
+- John Swinney
+- Keir Starmer
+- Mary Lou McDonald
+- Michelle O’Neill
+- Micheál Martin
+- Rhun ap Iorwerth
+organisations:
+- Guardian
+- Plaid Cymru
+- Scottish National party
+- Sinn Féin
 ---
 
 The first ministers of Wales, Scotland and Northern Ireland are to affirm their countries’ right to seek independence from the UK at a summit that is likely to challenge Andy Burnham’s devolution agenda.

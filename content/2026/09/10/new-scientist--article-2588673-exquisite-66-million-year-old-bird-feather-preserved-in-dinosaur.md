@@ -12,6 +12,23 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Chicago
+- Gobi
+- Hell Creek
+- Hell Creek Formation
+- Mongolia
+- Montana
+- Myanmar
+- Seattle
+people:
+- David DeMar
+- Frank Muzio
+- Jingmai O’Connor
+organisations:
+- Field Museum
+- University of Connecticut
+- University of Washington
 ---
 
 ![A feather preserved in dinosaur poo, found in 2016 in north-eastern Montana’s Hell Creek Formation](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg?w=840)

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- England
+- France
+- Hampshire
+- Kent
+- UK
+- Vranken-Pommery
+people:
+- Gabe Cook
+- Gillian Hough
+- Maxime Toubart
+- Perry
+- Tattinger
+- perry
+organisations:
+- Comite Champagne
+- National Origin and Quality Institute
+- The Ciderologist
 ---
 
 The back-to-back record-breaking heatwaves may have made pear cider super-strong this year.

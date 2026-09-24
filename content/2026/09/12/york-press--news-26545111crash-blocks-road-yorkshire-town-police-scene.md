@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- North Yorkshire
+- Scarborough
+- Seamer Moor Hill
+- Seamer Moor Lane
+- Stepney Hill
+people: []
+organisations:
+- A170
+- North Yorkshire Police
 ---
 
 *(Image: Supplied)*

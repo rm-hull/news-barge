@@ -11,6 +11,19 @@ image: https://media.wired.com/photos/6aa848acc21d50d5e8a9dba9/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- San Francisco
+- Silicon Valley
+people:
+- Brian Barrett
+- Katie Drummond
+- Lauren Goode
+- Paulina Borsook
+- Zoë Schiffer
+organisations:
+- KQED
+- The Commons
+- WIRED
 ---
 
 What is the state of women in Silicon Valley?

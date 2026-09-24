@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bridlington
+- Brough
+- Doncaster
+- Halifax
+- Hull
+- Leeds
+- Liverpool Lime Street
+- Manchester Piccadilly
+- North Yorkshire
+- Selby
+- Sheffield
+- York
+people: []
+organisations:
+- East Midlands Railway
+- Hull Trains
+- LNER
+- National Rail
+- Newsquest
+- Northern
+- Sheffield Rail
+- TransPennine Express
 ---
 
 *(Image: Newsquest)*

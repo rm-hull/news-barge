@@ -15,6 +15,32 @@ categories:
 - Society & Culture
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/6361739.jpg?type=og-image
+locations:
+- Bradford Grammar School
+- Britain
+- Fort Copacabana
+- Horsforth
+- Leeds
+- London
+- Tokyo
+- Toulouse
+- Toyko
+- Yorkshire
+people:
+- Alistair Brownlee
+- Freddie
+- Gold
+- Jonny Brownlee
+- Mike Egerton
+organisations:
+- '## Brownlee Foundation'
+- Bingley Harriers
+- Bradford Grammar School
+- Brownlee Fitness
+- Brownlee Foundation
+- McDonald's League
+- Telegraph & Argus
+- Yorkshire Dales
 ---
 
 Olympic triathlete Jonny Brownlee has recalled cycling to school along Bradford's canal paths, running through the district's parks and training with local clubs as he reflected on a career that helped transform the sport.

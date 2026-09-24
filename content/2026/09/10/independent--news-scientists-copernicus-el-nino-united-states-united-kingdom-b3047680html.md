@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Lower 48
+- Northern Hemisphere
+- Pacific
+- Paris
+- South
+- U.S.
+- United Kingdom
+- United States
+people:
+- Andrew Dessler
+- Copernicus
+- Friederike Otto
+- Katharine Hayhoe
+- Samantha Burgess
+- Simon Stiell
+- Zeke Hausfather
+organisations:
+- AP
+- Associated Press’
+- Berkeley Earth
+- Copernicus
+- El Nino
+- Imperial College London
+- NOAA
+- Texas A&M University
+- Texas Tech
+- U.S. National Oceanic and Atmospheric Administration
+- United Nations
 ---
 
 Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Nino, according to the European climate service Copernicus.

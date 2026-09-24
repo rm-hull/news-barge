@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- Arabian Peninsula
+- Gulf of Aden
+- Iran
+- Israel
+- Khasab
+- Middle East
+- Oman
+- Saudi Arabia
+- Somalia
+- South Korea
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Yemen
+people:
+- Lee Jae Myung
+organisations:
+- Associated Press
+- Cheonghae Unit
+- Revolutionary Guard Corps
+- United Kingdom Maritime Trade Operations
 ---
 
 Iran says it has struck an oil tanker trying to transit the Strait of Hormuz. And South Korea says it is considering expanding the operations of a naval operation in the Gulf of Aden off the Arabian Peninsula to protect its ships and oil routes.

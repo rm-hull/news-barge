@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Concordia House
+- Garden Village
+- Glenarm Road
+- Hanzard Drive
+- North East
+- Teesside
+- Wynyard Masterplan
+- Wynyard Park
+- Wynyard Park Local Centre
+people:
+- Josh Woollard
+organisations:
+- Lichfields
+- Stockton Council
+- Wynyard Masterplan
+- Wynyard Park Ltd
 ---
 
 A proposal to turn offices into a pub and hotel at Wynyard Park is being considered by Stockton Council.

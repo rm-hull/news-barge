@@ -14,6 +14,31 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- England
+people:
+- Bill
+- Lewis Wilson
+- Meg Hillier
+- Oliver Gardner
+- Tessa Munt
+- Tom Gordon
+- Will Tennison
+organisations:
+- '## Harrogate'
+- Adam Isaacs
+- Billie Coulson
+- Exchequer
+- Good Growth Foundation
+- Higher Education
+- Knaresborough
+- Lewis Wilson
+- Rethink Repayment
+- RethinkRepayment
+- Sarah Andreson NUS
+- The Liberal Democrat
+- Treasury Select Committee
+- Young Liberals
 ---
 
 # Strong message from Harrogate MP in battle to alleviate loans headache for graduates

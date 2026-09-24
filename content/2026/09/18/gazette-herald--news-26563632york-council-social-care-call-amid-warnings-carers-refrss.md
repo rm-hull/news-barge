@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- England
+- Haxby
+- Westfield
+- Wigginton
+- York
+people:
+- Carol Runciman
+- Chris Steward
+- Cllr Coles
+- Cllr Coles'
+- Cllr Cuthbertson
+- Cllr Jo Coles
+- Cllr Steward
+- Ian Cuthbertson
+- Sharron Smith
+organisations:
+- Dial & Ride
+- Government
+- Labour
+- Liberal
+- UNSUNG
+- York Carers Centre
+- York Council
 ---
 
 UNSUNG heroes who are saving the economy billions are becoming exhausted, isolated and are reaching their breaking point, the head of a York organisation has warned.

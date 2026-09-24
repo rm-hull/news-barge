@@ -12,6 +12,38 @@ image: https://i.guim.co.uk/img/media/9229064ead1d59bcc62f41dabc144462b8947ce9/9
 categories:
 - UK
 - News & Politics
+locations:
+- Florida
+- Pensacola
+people:
+- Alex Kelly
+- Amanda Phalin
+- Anastasios Kamoutsas
+- Edward Meadows
+- Fred Hawkins
+- Jeanette Nunez
+- John Temple
+- Maga Marva
+- Manny Diaz
+- Marva Johnson
+- Mel Ponder
+- Ray Rodrigues
+- Richard Corcoran
+- Rick Scott
+- Ron DeSantis
+- Santa Ono
+- Tommy Gregory
+- William Johnson
+organisations:
+- DEI
+- DeSantis
+- Florida A&M
+- Florida International University
+- Miami Herald
+- New College
+- PEN America
+- UF
+- University of Florida
 ---
 
 In fewer than four months’ time, Ron DeSantis, Florida’s hard-right governor, will be termed out of office, and what critics saw as his relentless eight-year, “anti-woke” assault on higher education in the state will finally be over.

@@ -15,6 +15,27 @@ categories:
 - Technology & Software
 - Automotive
 - Business & Entrepreneurship
+locations:
+- Britain
+- Europe
+- London
+- UK
+- US
+- Wayve
+- Zagreb
+people:
+- Alex Kendall
+- Heide Alexander
+- Sarfraz Maredia
+- Wayve
+organisations:
+- AI Driver
+- Department for Transport and Transport for London
+- Isabel Infantes
+- REUTERS
+- Uber
+- Waymo
+- Wayve
 ---
 
 Uber’s taxis are now driving themselves around London’s streets.

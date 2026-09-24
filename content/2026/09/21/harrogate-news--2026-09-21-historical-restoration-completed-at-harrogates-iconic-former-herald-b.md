@@ -14,6 +14,25 @@ categories:
 - History
 - Arts & Culture
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/HERALD-BUILDINGS_DJIMI5_4934_HR.webp
+locations:
+- Cardale Park
+- Harrogate
+- Montpellier Hill
+- Saynor’s Crescent Hotel
+people:
+- Nina Barker
+organisations:
+- Claybrook Studio
+- Furness Bricks
+- Harrogate Advertiser
+- Harrogate Herald
+- Herald Buildings
+- Herald Buildings**
+- Longwood Joinery
+- Montpellier Parade In
+- Montpellier Quarter
+- Ryan McGinty Interiors
+- Yorkshire Home for Chronic and Incurable Diseases
 ---
 
 A cornerstone of Harrogate’s historic Montpellier Quarter has entered a brand new era following the completion of an extensive exterior and interior restoration campaign. The prominent **Herald Buildings**, which famously housed the headquarters of the* Harrogate Herald*and* Harrogate Advertiser* newspapers for a century until 1990, has been completely revitalised from the outside in.

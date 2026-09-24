@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21478091.jpg?type=og-image&xType=0&yType=51
+locations:
+- Cardiff
+- County Durham
+- Darlington
+- North East
+- Northumberland
+- Ryhope Cliffs
+- Splott Beach
+- Sunderland Docks
+- UK
+people:
+- Hendon
+organisations:
+- Google Maps
+- Hendon Beach
+- Lapland Famille
 ---
 
 *(Image: GOOGLE)*

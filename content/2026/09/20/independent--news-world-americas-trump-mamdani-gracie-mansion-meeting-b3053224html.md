@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/06/08/15/52/GettyImages-2247836301.jpg?trim=0,102,0,101&width=1200&height=800&crop=1200:800
+locations:
+- Gracie Mansion
+- New York City
+- White House
+people:
+- Andrew Cuomo
+- Anna Bahr
+- Donald Trump
+- Gerald Ford
+- Rama Duwaji
+- Zohran Mamdani
+organisations:
+- General Assembly
+- New York Daily News
+- U.N.
 ---
 
 President Donald Trump is set to meet with New York City Mayor Zohran Mamdani during his upcoming visit to the city for the U.N. General Assembly.

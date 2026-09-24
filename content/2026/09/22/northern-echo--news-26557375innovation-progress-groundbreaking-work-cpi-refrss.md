@@ -14,6 +14,35 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21465847.jpg?type=og-image
+locations:
+- Central Park
+- Covid
+- Darlington
+- Glasgow
+- North East
+- STEM Centre
+- UK
+people:
+- Chris BOOTH
+- Mike Hughes
+- Philip Probert
+organisations:
+- Business Central
+- CPI
+- CPI’s Darlington
+- Centre for Process Innovation
+- Covid
+- Darlington College
+- GMP
+- High Value Manufacturing Catapult
+- Innovation Central
+- MMIC
+- National Horizons Centre
+- Northern Endurance Partnership
+- One NorthEast
+- RNA
+- STEM Centre
+- Teesside University
 ---
 
 Brought to you by

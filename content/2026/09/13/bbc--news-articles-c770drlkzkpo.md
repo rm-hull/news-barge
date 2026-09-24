@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Self-Improvement
 - Careers & Productivity
+locations:
+- Northampton
+- TikTok
+people:
+- Bas Verplanken
+- Cami Sophia
+- Chris
+- Xand van Tulleken
+organisations:
+- Cami Sophia
+- University of Bath
 ---
 
 ![A woman with long brown hair smiling, her head is titled to the side and she is wearing a blue v-neck strapless top, she is standing in front of a woodland area.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/fdd5/live/a73cf380-aded-11f1-9a5c-a7a4083eb832.jpg)

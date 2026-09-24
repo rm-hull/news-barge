@@ -11,6 +11,21 @@ categories:
 - York
 - Music
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-racecourse-races-music-showcase.webp
+locations:
+- Camp Bestival
+- Glastonbury
+- Grandstand
+- Paddock
+- UK
+- US
+- York Racecourse
+people:
+- '#### How'
+- Baggy Trousers
+- Laura
+- Tim
+organisations:
+- Madness
 ---
 
 Much-loved band Madness will be headlining Music Showcase Friday at York Racecourse, it was announced today.

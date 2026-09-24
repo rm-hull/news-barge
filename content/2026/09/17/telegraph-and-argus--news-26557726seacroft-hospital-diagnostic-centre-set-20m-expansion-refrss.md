@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Armley
+- Beeston
+- Community Diagnostic Centre
+- Leeds
+- YOUR
+people:
+- Craige Richardson
+organisations:
+- Leeds City Council
+- Leeds Teaching Hospitals NHS Trust
+- Public Notice Portal
+- Seacroft CDC
+- Seacroft Hospital
 ---
 
 ### What is the Public Notice Portal?

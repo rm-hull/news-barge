@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/knaresborough-tech-group.webp
+locations:
+- Gracious Street
+- Knaresborough
+- North Yorkshire
+- Thistle Hill
+- UK
+people:
+- Veronica Manolache
+organisations:
+- Barchester Corporate Portal
+- Barchester Healthcare
+- Gracious Street Methodist Church**
+- Knaresborough Connectors
+- Knaresborough**
+- Right at Home Harrogate
+- Thistle Hill Care Centre
 ---
 
 A collaborative community initiative in **Knaresborough** has successfully relaunched its monthly digital literacy campaign, providing local seniors with hands-on assistance to navigate modern devices and communication platforms.

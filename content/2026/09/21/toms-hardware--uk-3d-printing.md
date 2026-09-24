@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/AgMP3PC4wicXB7jMd8ipB4-320-80.jpg
+locations:
+- Texas
+people:
+- Elegoo Centauri
+organisations:
+- Bambu Lab
+- Bondtech
+- Get Tom's Hardware
+- Othisis
+- Prusa Research
+- Stratasys, Inc
+- Tom's Hardware
+- X1
 ---
 
 # 3D Printing

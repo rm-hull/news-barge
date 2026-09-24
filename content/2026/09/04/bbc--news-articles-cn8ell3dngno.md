@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Asia
+- Bristol
+- Hollywood
+- Japan
+- London
+- Outer Mongolia
+people:
+- Aardman
+- Ali Plumb
+- Chicken Run
+- Dave Sproxton
+- David Sproxton
+- Gromit
+- Jeffrey Katzenberg
+- Morph
+- Nick Park
+- Peter Lord
+- Sean Clarke
+- Shaun the Sheep
+- Steven Spielberg
+- Wallace
+organisations:
+- Aardman Animations
+- BBC Bristol TV
+- BBC West
+- Chicken Run
+- DreamWorks
+- Gromit Wallace
+- MShed Museum
+- Morph
+- National Film and Television School
+- Park
+- Radio 1
+- The Animators
+- Wallace and Gromit
 ---
 
 ![A stopmotion character of Wallace is waving and smiling at the camera with his arm round Gromit. Gromit the dog is giving him some serious side eye](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg)

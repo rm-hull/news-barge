@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Belgium
+- Britain
+- France
+- Hartlepool
+- Headland
+- Heugh Battery
+- Lighthouse Battery
+- North East
+- North Sea
+- Scarborough
+- Somme
+- UK
+- Whitby
+- Ypres
+people:
+- Franz von Hipper
+- Heugh Battery
+- Theophilus ‘Theo’ Jones
+organisations:
+- Hartlepool
+- Imperial German Navy
+- Territorial Force
 ---
 
 *(Image: TripAdvisor)*

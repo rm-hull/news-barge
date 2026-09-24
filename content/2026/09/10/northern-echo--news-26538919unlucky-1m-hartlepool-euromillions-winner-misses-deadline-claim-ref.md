@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Hartlepool
+- North East
+- UK
+people:
+- Andy Carter
+- Yui Mok
+organisations:
+- Allwyn
+- Eden Education Cafe CIC
+- Hartlepool Rugby Football Club
+- Make and Mend Company
+- Millionaire Maker
+- The National Lottery
 ---
 
 *(Image: Yui Mok/PA Wire)*

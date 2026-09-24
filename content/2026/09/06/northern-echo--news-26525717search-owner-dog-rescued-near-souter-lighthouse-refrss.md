@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Durham Dales
+- North East
+- Seaham
+- Souter Lighthouse
+- South Shields
+- Whitburn
+people: []
+organisations:
+- ROBERT WELLS
+- SOUTH SHIELDS
+- SSVLB
+- SUNDERLAND COASTGUARD
+- Seaham Coastguard
+- South Shields Volunteer Life Brigade
+- Sunderland Coastguard Rescue Team
+- Vets for Pets
 ---
 
 A search is underway for the owner of a dog rescued from the foot of a cliff on a North East beach.

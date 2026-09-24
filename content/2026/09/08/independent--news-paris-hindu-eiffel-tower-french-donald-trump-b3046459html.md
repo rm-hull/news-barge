@@ -14,6 +14,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Eiffel Tower
+- Paris
+- U.S.
+people:
+- Bochasanwasi Shri Akshar Purushottam Swaminarayan Sanstha
+- Britney Spears
+- Diane Davoine
+- Donald Trump
+- Emmanuel Grégoire
+organisations:
+- BAPS
+- CGT
+- Eiffel Tower
+- The Associated Press
 ---
 
 The Eiffel Tower reopened Tuesday, a day after one of the world's most-visited landmarks was closed by a strike to protest what a union official called “unacceptable” management instructions limiting the presence of women during a visit by a Hindu delegation on Saturday.

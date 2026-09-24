@@ -15,6 +15,41 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Belarus
+- Bishkek
+- Central and
+- China
+- Eurasia
+- India
+- Iran
+- Kazakhstan
+- Kyrgyzstan
+- Lahore
+- North-South Corridor
+- Pakistan
+- Russia
+- South Asia
+- Tajikistan
+- Uzbekistan
+people:
+- António Guterres’
+- Kassym-Jomart Tokayev
+organisations:
+- AI
+- China-initiated Convention on the Establishment of the International Organization
+  for Mediation
+- China’s Belt and Road Initiative
+- International Water Organization
+- SCO Centre for Water Issues Analysis
+- SCO Council of Heads of State
+- SCO Development Bank
+- SCO Tourism and Cultural Capital
+- Shanghai Cooperation Organisation
+- Shanghai Spirit
+- Trans-Caspian International Transport Route
+- UN General Assembly
+- World Artificial Intelligence Cooperation Organization
 ---
 
 ## The SCO Council of Heads of State met in Bishkek, bringing together leaders of its ten member countries. With SCO trade approaching $1 trillion, Kazakhstan’s President Kassym-Jomart Tokayev proposed new initiatives on security, trade, connectivity and technology.

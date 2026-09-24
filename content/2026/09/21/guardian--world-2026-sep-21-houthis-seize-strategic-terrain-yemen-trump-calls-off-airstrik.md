@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/6600ab64adbc6f85468306778c7e00fdbdc87d82/92_0_4393_3513/master/4393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99ff8bafc611ced3169ba716c8ca14ad
+locations:
+- Aden
+- Al-Wazi’iyah
+- Bab al-Mandab
+- Gulf
+- Hormuz
+- Indian Ocean
+- Iran
+- Ireland
+- Kahboub
+- Middle East
+- Ras al-Ara
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Taiz
+- US
+- Washington
+- Yemen
+people:
+- Donald Trump
+- Mohammed bin Salman
+- Rashad al-Alimi
+organisations:
+- New York Times
+- Pentagon
+- Reuters
+- Trump
+- UN
 ---
 
 Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes on the group at the last minute, reportedly as bombs were being loaded on to aircraft.

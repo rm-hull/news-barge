@@ -13,6 +13,13 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Dan Elton
+organisations:
+- Clariti
+- Ocado Retail
 ---
 
 Office workers are increasingly returning to packed lunches as they seek to protect household budgets from the rising cost of living, a survey has suggested.

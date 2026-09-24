@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Knaresborough Road
+- North Yorkshire
+- Ripon
+people: []
+organisations:
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

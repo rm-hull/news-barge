@@ -11,6 +11,25 @@ categories:
 - Harrogate
 - Education & Learning
 image: https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg
+locations:
+- Bangor
+- Chichester
+- Ripon
+- Truro
+- UK
+- Wales
+people:
+- Ed Spence
+- Ely
+- Lichfield
+- Salisbury
+organisations:
+- Amazon
+- Evri
+- Porta Delivery
+- Ripon
+- Royal Mail
+- UPS
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg)

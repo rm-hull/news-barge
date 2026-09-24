@@ -12,6 +12,22 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2022/04/06/18/8b8380c618757e79b5f4a56f244910c3Y29udGVudHNlYXJjaGFwaSwxNjQ5MzUwMTEw-2.44656035.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Antalya
+- Delta Zulu
+- Istanbul
+- Lisa
+- Liverpool
+- Manchester Airport
+- Rhodes
+- Stansted Airport
+people: []
+organisations:
+- Aviation News UK
+- Inrix
+- Manchester Airport
+- PC7281 İstanbul Sabiha Gökçen
+- Pegasus Airlines
 ---
 
 Manchester Airport is suffering widespread delays due to a “hole in the runway”, according to reports.

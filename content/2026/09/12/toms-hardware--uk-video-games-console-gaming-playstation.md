@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Jack Tretton
+organisations:
+- Get Tom's Hardware
+- PS3
+- PS5
+- PlayStation Store
+- PlayStation’s
+- RPCS3
+- Sony Japan
 ---
 
 ![Jack Tretton proudly announces that the PlayStation 4 supports used games during the system's launch showcase in 2014.](https://cdn.mos.cms.futurecdn.net/iEPZmfxkTcaDCWyzQMRdcZ-320-80.jpg)

@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/mDC76z55tQaYVFSYMAzKMH-1200-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Nova Lake
+- Razor Lake
+people:
+- Tom
+organisations:
+- AMD Zen
+- Apple
+- CPU
+- Extreme Tuning Utility
+- Get Tom's Hardware
+- Hypertune
+- Intel
+- Jaykihn
+- Microarchitecture
+- SDK
+- SoC
+- XTU
 ---
 
 Microprocessors are the beating heart of your computer, and cutting edge technical advances continue to drive the technology forward. From chiplet tech and nanoprocessing to AI chips and more, Tom's Hardware is the industry standard for CPU news and reviews.

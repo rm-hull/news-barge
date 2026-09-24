@@ -13,6 +13,34 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Abraham Lincoln
+- Guam
+- Iran
+- Oman
+- Pattaya
+- San Diego
+- Sin City
+- Thailand
+- U.S.
+- United States
+people:
+- Elizabeth Becker
+- Kadsalin Ketpa
+- Lincoln
+- Poramet Ngampichet
+- Saroch
+organisations:
+- AP
+- Al Jazeera
+- Associated Press
+- Cartoon Network
+- MS NOW
+- Marines
+- McDonald’s
+- Pattaya
+- The New York Times
+- USS Lincoln
 ---
 
 The USS Abraham Lincoln has docked after nearly nine months at sea, allowing sailors to finally hit the town in Pattaya, known as Thailand’s “Sin City.”

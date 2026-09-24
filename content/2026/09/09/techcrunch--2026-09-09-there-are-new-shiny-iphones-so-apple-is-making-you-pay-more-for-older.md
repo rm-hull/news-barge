@@ -12,6 +12,18 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/apple-store-iphone-17.j
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- India
+people:
+- Tim Cook
+organisations:
+- AI
+- Apple
+- Google
+- Mac and iPad
+- Samsung
+- The Wall Street Journal
+- iPhone Air
 ---
 
 Apple on Wednesday unveiled its new iPhone 18 and its first foldable iPhone, the iPhone Duo. But amid all the attention on Apple’s newest and most expensive devices, there’s another change: Apple is raising the price of its existing iPhone models by $100.

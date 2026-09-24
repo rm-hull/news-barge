@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations: []
+people:
+- Luke Larsen
+organisations:
+- 4K QD-OLED
+- Adobe RGB
+- Apple
+- Asus
+- Asus’
+- BenQ
+- Dell
+- Digital Trends
+- HDR
+- Netflix
+- OLED
+- PA279CDV
+- SDR
+- Samsung
+- USB-C
+- WIRED
 ---
 
 I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable video editing to creators who couldn’t previously afford an OLED display.

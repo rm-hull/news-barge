@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg
+locations:
+- Hornbeam Park Avenue
+- Hornbeam Park Estate
+people: []
+organisations:
+- Hornbeam Park Developments Ltd
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg)

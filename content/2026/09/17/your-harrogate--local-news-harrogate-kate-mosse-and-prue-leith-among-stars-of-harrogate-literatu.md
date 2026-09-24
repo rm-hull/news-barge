@@ -13,6 +13,37 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://mmo.aiircdn.com/409/6aabb320b80c7caea9f.jpg
+locations:
+- Harrogate
+people:
+- Agatha Christie
+- Alexander McCall Smith
+- Alison Stankard
+- Ben Okri
+- Dame Prue Leith
+- Heather Morris
+- John Curtice
+- John Sergeant
+- Jonny Hincks
+- Julian Clary
+- Kate Mosse
+- Lord Jonathan Sumption
+- Paul Brand
+- Prue Leith
+- Rachel Tunnicliffe
+- Samira Ahmed
+- Sharon Canavar
+- Sophie Raworth
+- Vaseem Khan
+organisations:
+- Cedar Court Hotel
+- Harrogate International Festivals
+- Harrogate!
+- ITV
+- Raworths Solicitors
+- Supreme Court
+- The Crown Hotel
+- Yorkshire Life Literary Lunch
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabb320b80c7caea9f.jpg)

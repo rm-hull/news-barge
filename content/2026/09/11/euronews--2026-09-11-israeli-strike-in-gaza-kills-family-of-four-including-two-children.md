@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Al-Shifa
+- Beit Lahia
+- Beit Lahia Project
+- Gaza City
+- Gaza Strip
+- Israel
+- Jabalia
+- Khan Yunis
+- United States
+people:
+- Benjamin Netanyahu
+- Muamen Abd al-Rahman Ahmad
+organisations:
+- Hamas
+- IDF
+- United Nations
 ---
 
 ## An Israeli strike killed a family of four in northern Gaza, including two children, hospital officials said on Thursday. The Israeli military said the attack killed a militant.

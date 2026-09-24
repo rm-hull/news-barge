@@ -15,6 +15,41 @@ categories:
 - Arts & Culture
 - Travel
 - Lifestyle & Fashion
+locations:
+- Clifton
+- Dusk
+- Goodramgate
+- High Petergate
+- Khao San Road
+- Low Petergate
+- New Street
+- Stonegate
+- Tanner Row
+- The Stonebow
+- Walmgate
+- York
+people:
+- Bond
+- Charlie
+- Chloe
+- Cleopatra
+- Colliergate
+- Eddie Copley-Farnell
+- Goodramgate
+- York
+organisations:
+- 71 Club
+- Bond's Bistro
+- Cafe Veranda
+- Café Concerto
+- Café Ella
+- Café Luca
+- Flanagan's
+- Little Bettys
+- The Curious Coffee Company
+- The Press
+- York
+- Ziggy’s
 ---
 
 York has lost more than a few places for coffee and cake over the years.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Crook Coroners’ Court
+- Darlington Binns
+- Hartlepool
+- NORTHERN ECHO
+- Newcastle Royal Victoria Infirmary Mortuary
+- Passfield Way
+- Peterlee
+people:
+- Jeremy Chipperfield
+- Sam Cook
+- Victoria Jayne Kipling
+organisations:
+- A66
+- Cleveland Police
+- Durham Police
 ---
 
 A woman died after being found unresponsive on a grass verge in a County Durham town, an inquest has heard.

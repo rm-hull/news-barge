@@ -13,6 +13,22 @@ image: https://static.independent.co.uk/2026/08/26/05/Immigration_ICE_Arrests_78
 categories:
 - News & Politics
 - UK
+locations:
+- Los Angeles
+- Northern Mariana Islands
+- Saipan
+- U.S.
+people:
+- Anthony Torres
+- Donald Trump
+- Lianyong Wei
+organisations:
+- Chinese Consulate General
+- ICE
+- Northern Mariana Islands Department of Public Safety
+- The Associated Press
+- U.S. Border Patrol
+- U.S. Immigration and Customs Enforcement
 ---
 
 The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory.

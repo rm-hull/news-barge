@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Australia
+- Bahrain
+- Hormuz Strait
+- Iran
+- Iraq
+- Jordan
+- Kuhistik
+- Kuwait
+- Middle East
+- Russia
+- Sirik
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- USA
+- United States
+- Washington DC
+- White House
+people:
+- Antonio Guterres
+- Chris Wright
+- Donald Trump
+- Pete Hegseth
+- Richard Marles
+- Stephane Dujarric
+organisations:
+- '## Trump'
+- ABC News
+- Centcom
+- Central Command
+- General Staff
+- Human Rights Activists News Agency
+- Iranian Revolutionary Guard
+- Oval Office
+- Trump Strait’
+- UN Convention on the Law of the Sea
+- US Navy
 ---
 
 President Donald Trump has said that the US is prepared to launch another attack on Iran at “any time”.

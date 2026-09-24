@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Accra
+- Alexandra
+- Dakar
+- Johannesburg
+- Kya Sands
+- Lagos
+- South Africa
+- sub-Saharan Africa
+people:
+- Bryce McCall
+- Carmen Jordaan
+- Devon Steenkamp
+- Linda Makole
+- Nomvula Phaliso
+- Suzan Oelofse
+organisations:
+- AP
+- African Development Bank
+- Associated Press
+- CSIR
+- Cities Alliance
+- Gates Foundation
+- Johannesburg Crisis Alliance
+- National Waste Management Strategy
+- OECD
+- Oelofse
+- Pikitup
+- South Africa’s Council for Scientific and Industrial Research
+- The Associated Press
+- United Cities and Local Governments of Africa
+- United Nations Environment Program
+- Whole Earth Recycling
+- World Bank
 ---
 
 Two men sit on top of a hill at the end of a narrow road in Johannesburg ’s industrial suburb of Kya Sands. But the hill is no natural feature — it is a mountain of illegally dumped trash, piled so high it now swallows the road beyond.

@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Ivegate
+- UK
+people:
+- Mike Simmonds
+organisations:
+- Telegraph & Argus
 ---
 
 *(Image: Mike Simmonds)*

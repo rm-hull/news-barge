@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/AhHmZUWRemw5FvZT2Nfvjm-800-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Berlin
+- OmniGlow
+- Philips Hue Bridge
+people:
+- Govee
+organisations:
+- Google News
+- IFA
+- Nanoleaf
+- PC Format
+- PC Plus
+- Philips Hue
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Philips Hue Play Screen Sync camera](https://cdn.mos.cms.futurecdn.net/AhHmZUWRemw5FvZT2Nfvjm.jpg) 

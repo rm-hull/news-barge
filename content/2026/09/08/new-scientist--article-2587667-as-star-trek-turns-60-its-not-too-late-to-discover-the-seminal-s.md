@@ -14,6 +14,63 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Earth
+people:
+- Alex Kurtzman
+- Amok Time
+- Armin Shimerman
+- Bajoran Kira
+- Bella Shepard
+- Benjamin Sisko
+- Bones McCoy,William Shatner
+- Borg
+- Brooke Palmer
+- Bryan Fuller
+- Carol Kane
+- Chekov
+- Christopher Pike
+- DeForest Kelley
+- Ethan Peck
+- Holly Hunter
+- Jacob Aron
+- James T. Kirk
+- Jean-Luc Picard
+- KATE MULGREW
+- Karmela Padavic-Callaghan
+- Katharine Hepburn-lookalike
+- Kathryn Janeway
+- Kerrice Brooks
+- Leonard Nimoy
+- Matt
+- Matthew Sparkes
+- Michael Burnham
+- Michael Dorn
+- Mitchell
+- Mr. Spock
+- Nichelle Nichols
+- Patrick Stewart
+- Paul Giamatti
+- Pelia
+- ROBERT DUNCAN MCNEILL
+- Rebecca Romijn
+- Robbie Robinson
+- Robert Picardo
+- Rong Fu
+- Sam
+- Uhura
+- Walter Koenig
+organisations:
+- AI
+- Federation
+- Genesis
+- LOS ANGELES
+- Paramount
+- Starfleet Academy
+- Strange New Worlds
+- The Doctor
+- Una
+- Vulcans
 ---
 
 ![LOS ANGELES - NOVEMBER 17: Nichelle Nichols as Uhura, DeForest Kelley as Dr. Bones McCoy,William Shatner as Captain James T. Kirk, Leonard Nimoy as Mr. Spock, unidentified actor and Walter Koenig as Chekov in the STAR TREK episode, "Journey to Babel." Season 2, episode 10 originally broadcast November 17, 1967. (Photo by CBS via Getty Images)](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310344392.jpg?w=840)

@@ -14,6 +14,21 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Honduras
+- Latin America
+- U.S.
+- United States
+people:
+- Carlos Silva
+- Donald Trump
+- Juan Orlando Hernández
+organisations:
+- Corruption Networks
+- Honduran Judiciary
+- Pandora I
+- Supreme Court
+- UFERCO
 ---
 
 A judge in Honduras on Tuesday dismissed the case against former president Juan Orlando Hernández for fraud and money laundering charges, clearing him of any pending charges in the Central American nation.

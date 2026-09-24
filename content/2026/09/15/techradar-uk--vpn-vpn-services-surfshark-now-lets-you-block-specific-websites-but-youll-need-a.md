@@ -11,6 +11,22 @@ description: The new allowed websites list feature lets you punch a hole in a bl
 image: https://cdn.mos.cms.futurecdn.net/cxKVQSj7YyZWaXxVj37ee5-663-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Justas Pukys
+- Monica J. White
+- Surfshark
+organisations:
+- Digital Trends
+- Google News
+- Mac
+- Monica
+- No Trace
+- SlashGear
+- Starter
+- Surfshark
+- Tom’s Hardware
+- WePC
 ---
 
 ![Graphic of Surfshark's web content blocker, promo image of the new allowed website list feature](https://cdn.mos.cms.futurecdn.net/cxKVQSj7YyZWaXxVj37ee5.png) 

@@ -12,6 +12,18 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/17/08/2293647440..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Farmoor Reservoir
+- London
+- Oxford
+- South East
+- Thames Valley
+- Thames Water
+people:
+- Julie Morton
+organisations:
+- Thames Water
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

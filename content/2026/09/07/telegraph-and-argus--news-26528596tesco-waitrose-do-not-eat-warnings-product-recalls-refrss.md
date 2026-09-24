@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- UK
+people:
+- Caesar
+organisations:
+- Norfolk Trading Standards
+- Sainsbury's Pitted Black Olives'
+- Tesco
+- Waitrose
 ---
 
 *(Image: Google Maps)*

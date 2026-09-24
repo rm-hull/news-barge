@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Middleham Bridge
+- North Yorkshire
+- Wensleydale
+- Yorkshire Dales Why Leyburn
+people:
+- Carl Les
+- Cllr Les
+organisations:
+- North Yorkshire Council
 ---
 
 A North Yorkshire bridge has been closed indefinitely after being struck by a heavy goods vehicle just hours before the Tour of Britain cycle race was due to visit the area.

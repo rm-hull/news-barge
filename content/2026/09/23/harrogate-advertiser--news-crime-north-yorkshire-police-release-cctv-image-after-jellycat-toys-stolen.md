@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - True Crime
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRlMjZjNjhmLWQxZDItNDliZC1hNzc1LTM4ODMwNTg4M2IxNTo1OWZmYTRjMi05ZTFiLTRiNzItOWNjOS04MjBiNTVhNDRjMDI=.jpg?crop=3:2,smart&trim=&width=113&auto=webp&quality=75
+locations:
+- Harrogate
+- North Yorkshire
+- RHS Harlow Carr Plant Centre
+people: []
+organisations:
+- CCTV
+- Gift Shop
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police release CCTV image after Jellycat toys stolen from Harrogate garden centre

@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - History
 - True Crime
+locations:
+- Atlanta
+- Cobb
+- Dodge Durango
+- Dunwoody
+- Edna
+- Florida
+- Georgia
+- Houston
+- Huntsville
+- Jackson
+- Mexico
+- Powder Springs
+- Texas
+- US
+- Wisconsin
+people:
+- Celso Lopez
+- Cyndi Williams
+- Humphreys’
+- Ker’Sean Ramey
+- LeJames Norman
+- Lori Brown
+- Samuel Roberts
+- Sonia Sotomayor
+- Stacey Humphreys
+- Tiffani Peacock
+organisations:
+- Humphreys’
 ---
 
 A man convicted in the shooting deaths of three people is set to be executed Wednesday in Texas. Meanwhile, another execution that was scheduled for the same time in Georgia has been halted by a judge.

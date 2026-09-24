@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- China
+- Dubai
+- Ingredion
+- Taiwan
+- U.S.
+people:
+- Brach
+- Ferrara
+- Jenny Zegler
+- Patrick Kalotis
+- Shannon Weiner
+- Tana Davila
+organisations:
+- Cloetta
+- Dutch Bros Coffee
+- Ferrara
+- Gummi Popz
+- Ingredion
+- McDonald’s
+- Mintel
+- Nerds Gummy Clusters
+- Puratos
 ---
 
 Texture is having a crunchy, gooey moment in the food and beverage industry.

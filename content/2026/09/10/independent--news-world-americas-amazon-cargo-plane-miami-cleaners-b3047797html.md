@@ -13,6 +13,34 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Cuba
+- East Coast
+- Miami
+- U.S.
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Jorge Garcia
+- Julio C. Pineda
+- Manny Pastreich
+- Ridoel Averhoff Diaz
+- Rolando Aleman Leon
+- Roosevelt Sebastian Perdomo Torres
+- Soma Priddle
+- Yoel Rodriguez Naranjo
+organisations:
+- 21 Air
+- 32BJ Service Employees International Union
+- AP
+- Amazon
+- Charlotte Douglas International Airport
+- Econoline
+- Miami International Airport
+- Naranjo
+- Professional Ocean Service Corp
+- Professional Ocean Service Corp.
 ---
 
 The five plane cleaners who died when an Amazon cargo aircraft collided with their vehicle at Miami airport were completing an eight-hour shift, lawyers for one victim said Wednesday.

@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - History
+locations:
+- Afghanistan
+- Australia
+- Belgium
+- Canada
+- France
+- Halifax
+- Kandahar
+- New Zealand
+- North Yorkshire
+- Poland
+- RAF Elvington
+- Rtd
+people:
+- Geoff Cossins
+- Johanna Ropner
+- John ‘Geordie’ Lawson
+- RAF Leeming
+- Revd Charles “Taff” Morgan MBE RAF
+organisations:
+- '## Yorkshire Air Museum'
+- Allied Air Forces
+- Allied Nations
+- Battle of Britain Memorial Flight
+- Commonwealth
+- HM The King
+- RAF Leeming
+- Sheriff of York
+- UK Air Staff
+- Yorkshire Air Museum
 ---
 
 ## Yorkshire Air Museum to honour Allied air forces with major memorial event

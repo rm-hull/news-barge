@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bude
+- Cornwall
+- Cotswolds
+- Daylesford Estate
+- Gloucestershire
+- Palestine
+people:
+- Anthony Bamford
+- Boris Johnson
+- Carrie Johnson
+- Christiaan Moll
+- Huda
+- Lord Bamford
+- Rich
+- Sean Middlebrough
+- Tim Speers
+organisations:
+- Conservative Party
+- JCB
+- Palestine Action
+- Southwark Crown Court
+- Speers’
 ---
 
 An alleged activist plotted to spray paint the word “Palestine” on the lawn at a Cotswolds estate the day before it was due to host Boris Johnson’s wedding reception, Southwark Crown Court has heard.

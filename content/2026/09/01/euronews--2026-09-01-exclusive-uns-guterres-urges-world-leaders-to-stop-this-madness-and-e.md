@@ -13,6 +13,41 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Asia
+- Bab el-Mandeb
+- Belarus
+- Bishkek
+- China
+- Gaza
+- India
+- Iran
+- Kazakhstan
+- Kyrgyzstan
+- Middle East
+- Pakistan
+- Russia
+- Strait of Hormuz
+- Tajikistan
+- Turkey
+- Ukraine
+- United States
+- Uzbekistan
+people:
+- António Guterres
+- Masoud Pezeshkian
+- Narendra Modi
+- Recep Tayyip Erdoğan
+- Toby Gregory
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- African Union
+- Euronews
+- European Union
+- SCO
+- Shanghai Cooperation Organisation
+- UN
 ---
 
 **Toby Gregory**

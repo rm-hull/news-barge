@@ -13,6 +13,40 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Bedale
+- England
+- Mayoral
+- North Yorkshire
+- Policing York
+- UK
+- Wales
+- Whitby
+people:
+- Andy Burnham
+- Bernard Hogan-Howe
+- Brian Booth
+- Jo Coles
+- Michelle Skeer
+- Ms Coles
+organisations:
+- Fire and Crime
+- HMICFRS
+- HMICFRS**
+- Inspectorate
+- Jo Coles**
+- Labour
+- Metropolitan Police
+- NYP
+- North Yorkshire Police
+- PEEL
+- Police Federation
+- Police Federation of England and Wales
+- QPM
+- State of Policing
+- Warn of Three Flaws
+- Yorkshire Merge
+- Yorkshire Post
 ---
 
 **HARROGATE**— A complete wall of silence has gone up across North Yorkshire’s law enforcement leadership today, with both North Yorkshire Police (NYP) and the regional mayoral team explicitly refusing to comment on the day-one national release of a highly critical independent watchdog assessment.The

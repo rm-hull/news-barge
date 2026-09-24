@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Kings Road
+- North Ormesby
+- Teesside Magistrates
+people:
+- Heather Goodwill
+organisations:
+- Authentic African Foods
+- HEPO
+- LDRS
+- Local Democracy Reporting Service
+- Middlesbrough Council
+- Teesside Magistrates’ Court
 ---
 
 A North Ormesby shop has been closed for the second time in weeks over concerns about a ‘cockroach infestation’.

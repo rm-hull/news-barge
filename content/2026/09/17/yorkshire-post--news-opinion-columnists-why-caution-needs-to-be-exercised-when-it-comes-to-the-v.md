@@ -17,6 +17,23 @@ categories:
 - York
 - Travel
 - History
+locations:
+- 'Carl Les ##'
+- Dales
+- Moors
+- North Yorkshire
+- Tony Johnson
+- York
+people:
+- Coun Carl Les
+- David Skaith
+- Reeth
+organisations:
+- Combined Authority
+- Government
+- Labour
+- North Yorkshire Council
+- Yorkshire Dales National Park.
 ---
 
 # Why caution needs to be exercised when it comes to the visitor levy in North Yorkshire - Carl Les

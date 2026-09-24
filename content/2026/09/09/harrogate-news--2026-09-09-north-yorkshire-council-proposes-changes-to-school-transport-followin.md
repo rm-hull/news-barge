@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Buttertubs Pass
+- Fleet Moss Road
+- Keld
+- Kidstone Pass—
+- Kirkby Stephen
+- The Stang
+people:
+- Annabel Wilkinson
+organisations:
+- Children and Families Overview and Scrutiny Committee
+- North Yorkshire Council
+- Ombudsman
 ---
 
 **North Yorkshire Council has put forward 24 recommendations** following a review of its Home to School Travel Policy, which was overhauled in September 2024 to shift free transport eligibility from traditional catchment areas to the nearest suitable school with an available place. The service manages travel for about 11,000 pupils at an annual cost exceeding £52 million.

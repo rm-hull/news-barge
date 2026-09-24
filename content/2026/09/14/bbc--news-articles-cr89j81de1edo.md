@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A40
+- Britain
+- Calais
+- Comins
+- Monmouthshire
+- Newport
+- Old Pandy
+- Raglan
+- Romania
+- UK
+people:
+- Ian Boyes
+- Maria
+- Rebecca Comins
+- Rebecca Comins Comins
+- Rebecca Comins'
+- Vasile Barbu
+- Visile Barbu
+organisations: []
 ---
 
 ![Rebecca Comins](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/b6ec/live/4b165340-3ae9-11ef-8c96-dd344d6fff85.png)

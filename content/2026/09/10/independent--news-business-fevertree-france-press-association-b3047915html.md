@@ -13,6 +13,17 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- France
+- Switzerland
+- UK
+- US
+people:
+- Fever-Tree
+- Tim Warrillow
+organisations:
+- Fever-Tree
+- Molson Coors
 ---
 
 Soft drink and mixer maker Fever-Tree has revealed stronger sales for the first half of the year amid a boost from the summer heatwaves in the UK.

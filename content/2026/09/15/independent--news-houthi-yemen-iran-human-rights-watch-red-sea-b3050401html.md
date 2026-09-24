@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bab el-Mandeb Strait
+- Bahrain
+- China
+- Greater
+- Gulf of Aden
+- Iran
+- Lesser Hanish
+- Middle East
+- Mokha
+- Red Sea
+- Strait of Hormuz
+- Taiz
+- U.S.
+- United States
+- Yemen
+people:
+- Abbas Araghchi
+- Al-Asbahi
+- Anees al Asbahi
+- Niku Jafarnia
+- Wang Yi
+organisations:
+- Associated Press
+- Foreign Ministry
+- Health Ministry
+- Houthi
+- Human Rights Watch
 ---
 
 A Houthi official said Tuesday that Saudi warplanes struck Yemen, killing three people, including two children, while Human Rights Watch accused the Houthi rebels of possible war crimes with its attacks on commercial vessels.

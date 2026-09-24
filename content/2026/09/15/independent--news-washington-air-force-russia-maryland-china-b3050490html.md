@@ -13,6 +13,21 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- China
+- Maryland
+- Russia
+- U.S.
+- United States
+- White House
+people:
+- Troy Meink
+organisations:
+- Air Force
+- Air and Space Cyber Conference
+- Joint Force
+- Space Force
+- Trump
 ---
 
 The United States has confirmed for the first time that it has deployed weapons in space.

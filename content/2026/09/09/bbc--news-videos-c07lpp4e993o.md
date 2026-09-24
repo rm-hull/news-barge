@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bangkok
+- Nonthaburi
+- South East Asia
+- Thailand
+people:
+- Jonathan Head
+organisations:
+- BBC
 ---
 
 # Inside Thailand's school shooter drills following recent attacks

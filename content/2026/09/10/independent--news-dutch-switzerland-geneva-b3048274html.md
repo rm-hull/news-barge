@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Graubuenden
+- Susch
+- Switzerland
+- Zernez
+people: []
+organisations:
+- ANVR
+- Blick
 ---
 
 Dutch tour bus overturns in Switzerland, leaving several people dead, police say

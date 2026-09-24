@@ -11,6 +11,17 @@ categories:
 - York
 - Food & Cooking
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/brew-york-pub.webp
+locations:
+- Brew York
+- The York
+people:
+- Andrew Stark
+- Yousef Doubooni
+organisations:
+- Brew York
+- Dark Chapters’
+- The Dark Chapters
+- UnitedByDesign
 ---
 
 Brew York have released three new beers for spooky season – inspired by classic literary horror.

@@ -14,6 +14,30 @@ categories:
 - Travel
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478636.jpg?type=og-image
+locations:
+- Angel Falconry
+- Caroline Street
+- Roberts Park
+- Saltaire
+- South Africa
+people:
+- Aaron Dulay
+- Angel Falconry
+- Baildon
+- David Stalbow
+- Dolly Parton
+- Hawarun Hussain
+- Ian Swailes
+- Indie Andrews
+- Jolene’
+- Matt Stone
+- Ronnie Stone
+organisations:
+- Continental Market
+- Saltaire Festival
+- Shipley College
+- The Cookie Pie Man
+- Trigger Thumb
 ---
 
 Crowds flocked to the final day of the Bradford festival on Sunday.

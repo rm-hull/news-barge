@@ -11,6 +11,42 @@ image: https://media.wired.com/photos/6aa9a839650c7d70ef723d0a/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Capitol Hill
+- China
+- Louisiana
+- New Jersey
+- Silicon Valley
+- US
+- Washington
+- White House
+people:
+- Dario Amodei
+- David Sacks
+- Demis Hassabis
+- Donald Trump
+- Jay Obernolte
+- John Kennedy
+- Josh Gottheimer
+- Lori Trahan
+- Mark Zuckerberg
+- Mike Johnson
+- Ted Lieu
+organisations:
+- Anthropic
+- Commerce Department
+- Congress
+- Google DeepMind
+- House Democrats’ AI
+- House Energy and Commerce Committee
+- Hugo Lowell’sInner Loop
+- Meta
+- Office of Science and Technology Policy
+- OpenAI
+- Senate
+- Treasury Department
+- Truth Social
 ---
 
 For weeks, Washington has been abuzz with talk of needing to push through some sort of AI regulation amid mounting concerns about the risks of highly capable frontier AI models going rogue.

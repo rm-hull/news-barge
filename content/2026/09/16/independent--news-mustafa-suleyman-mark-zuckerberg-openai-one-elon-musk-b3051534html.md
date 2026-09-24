@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- China
+- U.S.
+people:
+- AI
+- Chris Lehane
+- Claude
+- Dario Amodei
+- Demis Hassabis Demis Hassabis
+- Elon Musk Elon Musk
+- Jensen Huang
+- Jensen Huang Nvidia
+- Kelvin Chan
+- Mark Zuckerberg
+- Mark Zuckerberg Meta
+- Mustafa Suleyman
+- Sam Altman
+- Satya Nadella
+organisations:
+- Associated Press
+- Dario Amodei Anthropic
+- Economist
+- Financial Industry Regulatory Authority
+- Google DeepMind
+- Meta
+- Microsoft AI
+- Nadella
+- Sam Altman OpenAI
+- xAI
 ---
 
 Fears about out-of-control artificial intelligence and suggestions to hit the brakes on the technology's development aren't new, but they have recently found new life as warnings about rogue AI systems causing mayhem grow louder.

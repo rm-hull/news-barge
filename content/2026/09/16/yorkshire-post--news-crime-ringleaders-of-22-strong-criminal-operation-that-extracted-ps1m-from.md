@@ -16,6 +16,53 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bickerton
+- Birtley
+- County Durham
+- Gainford
+- Gateshead
+- HMP Dovegate
+- HMP Holme House
+- Hessle
+- Hillfield Close
+- Humberside
+- New Marske
+- Normanby
+- North East
+- North Lincolnshire
+- North Yorkshire
+- Northumberland
+- Richmond Road
+- Scunthorpe
+- Seamer
+- Sheffield
+- Teeside Crown Court
+- Teesside Crown Court
+- West Yorkshire
+people:
+- Allan Smith
+- Andrew Carty
+- Carla Finney
+- Christopher Morley
+- Fred Finney
+- Frederick Finney
+- HHJ Kidd
+- James
+- Jenny Kent
+- Lord Bichard
+- Michael Olssen
+- Shannon Finney
+organisations:
+- Citizens Advice
+- City of York
+- City of York Council
+- Humber Regional Investigation Team
+- National Trading Standards
+- National Trading Standards Yorkshire
+- National Trading Standards Yorkshire and Humber Regional Investigation Team
+- National Trading Standards team
+- Trading Standards
 ---
 
 # Ringleaders of 22-strong criminal operation that extracted £1m from victims jailed

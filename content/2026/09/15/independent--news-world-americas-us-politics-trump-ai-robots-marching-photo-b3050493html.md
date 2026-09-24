@@ -12,6 +12,29 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- RUSSIA
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Dario Amodei
+- Demis Hassabis
+- Donald Trump
+- Elon Musk
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Global Warming Scam
+- Google DeepMind
+- OpenAI
+- The Independent
+- Trump Administration
+- Truth Social
+- U.S. Capitol
+- xAI
 ---
 
 President Donald Trump dismissed warnings Monday that the rise of AI could lead to robots marching on U.S. cities — just a week after sharing an AI-generated image depicting exactly that.

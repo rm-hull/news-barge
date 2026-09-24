@@ -12,6 +12,37 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/48/40/1200x675_cmsv2_3df4656c-1304-551f-99a3-4cf7e3fd7230-9924840.jpg
+locations:
+- Britain
+- Chagos Islands
+- Denmark
+- Diego Garcia
+- Greenland
+- Indian Ocean
+- Mauritius
+- Middle East
+- New York
+- UK
+- US
+- US-UK
+- Ukraine
+- Washington
+people:
+- '**''Ostrich'
+- Andy Burnham
+- Donald Trump
+- Jack Pannell
+- James Cartlidge
+- Keir Starmer
+- Wes Streeting
+organisations:
+- AFP
+- BBC
+- British Foreign Policy Group
+- Conservatives
+- International Court of Justice
+- Times Radio
+- United Nations General Assembly
 ---
 
 ## Britain has suspended its €139 million-a-year lease payments for the Diego Garcia base while ministers try to reshape the agreement into one Washington can accept, with the Conservatives calling for it to be scrapped altogether.

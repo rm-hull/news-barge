@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Brisbane
+- Canterbury-Bankstown
+- City of Yarra
+- Des Renford
+- Randwick
+- Sydney
+people:
+- Bilal El-Hayek
+- Carly Kind
+- Michelle Rowland
+- Tom Sulston
+organisations:
+- '**“** Signage'
+- City of Brisbane
+- Digital Rights Watch
+- Facebook
+- Meta
+- Ray-Ban
+- TikTok
 ---
 
 One of Sydney’s largest councils has joined the City of Brisbane and the City of Yarra to issue a ban on AI smart glasses at public pools as concerns mount over the potential for predators to exploit the new technology.

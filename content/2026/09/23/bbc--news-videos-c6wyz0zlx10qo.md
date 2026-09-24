@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/438c/live/61adf8c0-b764-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Anglesey
+- RAF Valley
+people: []
+organisations:
+- Coastguard
+- North Wales Police
+- RAF
+- Wales Air Ambulance
 ---
 
 # Watch: Pilots eject as RAF jet crashes in Anglesey

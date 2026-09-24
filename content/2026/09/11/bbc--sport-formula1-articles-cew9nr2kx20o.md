@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Baku
+- Jeddah
+- La Monumental corner
+- Madrid
+- Madring
+- Monaco
+- Saudi Arabia
+people:
+- Arvid Lindblad
+- Bulls' Lindblad
+- Charles Leclerc
+- George Russell
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Madring
+- Max Verstappen
+- Oscar Piastri
+- Tasanapol Inthraphuvasak
+organisations:
+- Arvid Lindblad
+- Ferrari
+- La Monumental
+- McLaren
+- Mercedes
+- Monaco
+- Racing Bulls
+- Red Bull
+- Turns Five
 ---
 
 ![Arvid Lindblad's damaged Racing Bulls is removed from the Madring circuit by a rescue vehicle after his crash during second practice for the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4fd8/live/b3bd0ba0-ae00-11f1-9b77-ddcb406ce9c0.jpg)

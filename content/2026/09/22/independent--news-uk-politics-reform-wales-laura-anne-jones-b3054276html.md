@@ -10,6 +10,29 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/13/2274686445..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Cardiff
+- Casnewydd Islwyn
+- Senedd
+- Siambr
+- Wales
+people:
+- Dan Thomas
+- Fynwy Torfaen
+- Helen Jenner
+- Laura Anne Jones
+- Ms Jenner
+- Ms Jones
+- Nigel Farage
+organisations:
+- Conservative Party
+- Facebook
+- Reform UK
+- Reform UK Wales
+- Reform Wales
+- Senedd
+- Tory
+- Welsh Conservatives
 ---
 
 Laura Anne Jones, a Tory defector who was suspended for a racial slur less than a year ago, has been named the deputy leader of Reform UK in Wales.

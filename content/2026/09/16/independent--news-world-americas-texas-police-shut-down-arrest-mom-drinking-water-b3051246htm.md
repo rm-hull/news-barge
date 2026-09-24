@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Dallas
+- Texas
+- Trinidad
+people:
+- Charles Gregory
+- Combs’
+- Dennis Haws
+- Jennifer Combs
+organisations:
+- Facebook
+- Fox 4
+- Henderson County Sheriff’s Office
+- KETK
+- Texas Commission on Law Enforcement
+- Trinidad Police
+- Trinidad Police Department
 ---
 
 A Texas police department that arrested a woman for complaining about contaminated drinking water has been ordered to disband after the state found it “failed to meet minimum standards.”

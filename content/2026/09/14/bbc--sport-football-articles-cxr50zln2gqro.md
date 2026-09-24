@@ -12,6 +12,56 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bournemouth
+- Brighton
+- Elland Road
+- Ipswich Town
+- Manchester City
+- Nottingham Forest
+- Old Trafford
+- Villa
+people:
+- Brian Brobbey
+- Cherki
+- Daniel Farke
+- Daniel Munoz
+- Dominic Calvert-Lewin
+- Enzo Fernandez
+- Enzo Maresca
+- Ezri Konsa
+- Gabriel
+- Gianluigi Donnarumma
+- James Trafford
+- Kevin Schade
+- Leif Davis
+- Lewis Dunk
+- Mikel Arteta
+- Milner
+- Mohamed Belloumi
+- Ndiaye
+- Pascal Gross
+- Tarik Muharemovic
+- Troy Deeney
+- Welbeck
+organisations:
+- Arsenal
+- BBC
+- Brentford
+- Brighton
+- Chelsea
+- Community Shield
+- Coventry
+- Forest
+- Hull City
+- Leeds United
+- Liverpool
+- Manchester City
+- Manchester United
+- Newcastle
+- Palace
+- Premier League
+- Sunderland
 ---
 
 ![Troy Deeney banner](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4013/live/4bb795a0-5990-11ef-8f0f-0577398c3339.jpg)

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6610/live/2acfffe0-a613-11f1-9a0e-e95c171695e2.jpg
+locations:
+- England
+- London
+- Wiltshire Connect
+people:
+- Cat Jones
+- James
+- Martin Smith
+- Silviya Barrett
+organisations:
+- Bus Users UK
+- CPT
+- Campaign for Better Transport
+- Confederation of Passenger Transport
+- DRT
+- Department for Transport
+- Local Government Association
+- Rural Mobility Fund
+- Wiltshire Connect
+- Wiltshire Council
+- pre-Covid
 ---
 
 ![Two green minibuses parked up at an angle next to each other. Both have Wiltshire Connect written across their bonnets.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6610/live/2acfffe0-a613-11f1-9a0e-e95c171695e2.jpg)

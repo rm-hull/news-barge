@@ -14,6 +14,31 @@ categories:
 - Technology & Software
 - Arts & Culture
 - Film & TV
+locations:
+- China
+- Esmeralda
+- Toledo Truth Teller
+- Virgin River
+people:
+- Daniels
+- Esmeralda
+- George Cooper Sr.
+- Greg
+- Impacciatore
+- Koman
+- Michael
+organisations:
+- Esmeralda
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Peacock
+- Radio Times
+- Sabrina Impacciatore
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Esmeralda talks to the cameras while sat behind her desk](https://cdn.mos.cms.futurecdn.net/zePrKJskeEnjqmuryLcorV.jpg) 

@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Crafts & Hobbies
+locations:
+- Bishopthorpe
+- Chantry Lane
+- York
+people: []
+organisations:
+- '#### Chantry Lane A North Yorkshire Fire & Rescue Service'
 ---
 
 Firefighters were called on an unusual rescue mission this morning (Saturday).

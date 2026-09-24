@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Detroit
+- Lockerbie
+- London-to-New York
+- Malta
+- Miami
+- Middle Eastern
+- Paris
+- Scotland
+- U.S.
+- Yemen
+people:
+- Jacobson
+- Jane Garvey
+- Mary Schiavo
+- Richard Reid
+- Umar Farouk Abdulmutallab
+organisations:
+- Air Line Pilots Association
+- American Airlines
+- Commission
+- Congressional
+- FAA
+- George Bush Intercontinental Airport
+- Northwest Airlines
+- Seattle-Tacoma International Airport
+- TSA
+- Trump
 ---
 
 Reaching a gate for a commercial flight at a U.S. airport today typically demands a valid boarding pass, federal government security screening, and careful attention to the contents of carry-on luggage.

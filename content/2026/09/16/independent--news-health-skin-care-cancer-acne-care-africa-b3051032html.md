@@ -13,6 +13,29 @@ categories:
 - UK
 - Health & Fitness
 - Arts & Culture
+locations:
+- Africa
+- Australia
+- Europe
+- Kenya
+- Nairobi
+- Niger
+- Southeast Asia
+- UK
+- US
+people:
+- Esther Freeman
+- Myriam Cohen-Welgryn
+- Noel Mudibo
+organisations:
+- Harvard Medical School
+- ILDS
+- International League of Dermatological Societies
+- JAMA Dermatology
+- L’Oreal Dermatological Beauty
+- The Independent
+- WHO
+- World Health Organization
 ---
 
 People with debilitating skin conditions face a global “crisis” in access to treatment due to a shortage of specialist doctors, a major new study has found.

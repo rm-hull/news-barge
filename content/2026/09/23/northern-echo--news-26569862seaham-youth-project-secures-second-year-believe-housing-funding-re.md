@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21484378.jpg?type=og-image
+locations:
+- Cumbria
+- Deneside
+- Eastlea
+- Laurel Avenue
+- North East
+- Ryton Crescent
+- Seaham Leisure Centre
+- Seaham Youth and Community Centre
+- Strangford Road
+- Teesside County Durham
+people:
+- Anne-Marie Parkin
+- Julie Dower
+organisations:
+- Youth Connect Seaham
 ---
 
 *(Image: believe housing)*

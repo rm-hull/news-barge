@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Bonmarché
+- County Durham
+- Darlington
+- Little Adventure Town
+- Middlesbrough
+- Newgate Street
+- North Yorkshire
+- Teesside Airport
+people:
+- Hannah Jones
+- Tracey Furness
+organisations: []
 ---
 
 A play café in County Durham has opened to a warm welcome from families across the region.

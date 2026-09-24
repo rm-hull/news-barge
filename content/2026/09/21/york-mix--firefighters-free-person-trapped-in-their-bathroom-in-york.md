@@ -11,6 +11,16 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/thief-lane-york-2024-gsv.webp
+locations:
+- '####'
+- Hull Road
+- Thief Lane
+- Thief Lane**
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
 ---
 
 A fire crew took part in a rescue mission in York early this morning (Monday).

@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/20/22/9902912c0ca48eb09b6d9b3e56d0595dY29udGVudHNlYXJjaGFwaSwxNzg5ODI2MzI5-2.85727565.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Jordan
+- UK
+- Whitehall
+people:
+- Andy Burnham
+- John Healey
+- Shevaun Haviland
+organisations:
+- BCC
+- British Chambers of Commerce
+- Budget
+- Government
 ---
 
 Businesses must be “at the heart” of the Prime Minister’s plans for devolution in next month’s Budget, the British Chambers of Commerce has urged.

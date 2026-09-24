@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/748_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=058e05879cdaf3d9e5912e047c3fc8af
+locations:
+- Australia
+people:
+- Chalmers
+- Peter Costello
+organisations:
+- IGR
+- Labor
+- Liberal
+- Treasury
 ---
 
 The intergenerational report lays bare how today’s growing anti-migration rhetoric clashes with a future where we need to attract people from overseas to help grow the economy and pay for our ageing population.

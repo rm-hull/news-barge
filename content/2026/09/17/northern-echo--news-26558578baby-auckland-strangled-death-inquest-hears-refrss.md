@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Baby Auckland
+- Bishop Auckland
+- County Durham
+- Crook Coroners' Court
+- DURHAM
+- Darlington
+- Fore Bondgate
+- TERRY BLACKBURN
+people:
+- Crispin Oliver
+- Louise Mulcahy
+- Mel Sutherland
+- Micol Zupello
+- Peter Moody
+- SARAH CALDECOTT
+organisations:
+- Baby Auckland
+- CSI
+- Durham Constabulary
+- Home Office
+- The Umpire
 ---
 
 A baby whose skeleton was discovered beneath floorboards in Bishop Auckland more than a century after his passing was likely strangled to death, a coroner has concluded.

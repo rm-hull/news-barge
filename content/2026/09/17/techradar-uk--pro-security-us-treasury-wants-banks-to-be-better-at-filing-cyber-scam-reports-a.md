@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Gene Lange
+- Rahim Amir
+organisations:
+- '## FinCEN'
+- '**FinCEN'
+- Bank Secrecy Act
+- Financial Crimes Enforcement Network
+- Google News
+- PC
+- PCs
+- RGB
+- Rapid Response Program
+- SFF
+- TechRadar Pro
+- Terrorism and Financial Intelligence
+- US Treasury
 ---
 
 ![Users display warnings about the use of artificial intelligence (AI), access to malicious software or threats to online hackers. computer cyber security Warning concept or tech scam.](https://cdn.mos.cms.futurecdn.net/VuBMgidwKAh2uEAV7UMikB.jpg) 

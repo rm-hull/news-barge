@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Crazy Kingdom
+- England
+- North East
+- North Yorkshire
+- Northallerton
+- UK
+- Wales
+- Westminster
+- York
+people:
+- Andy Burnham
+- Angela Eagle
+- Emma Reynolds
+- Ms Reynolds
+- Reynolds'
+organisations:
+- Darlington Economic Campus
+- Government
+- HM Treasury
+- High Street Growth Plan
+- National Farmers' Union
+- No.11 North
+- Northallerton Town Investment Plan
+- Simon Walker
+- The Northern Echo
+- Yorkshire Air Ambulance
 ---
 
 A Treasury chief has insisted rural communities will not be left behind by the Government's drive to shift investment and decision-making away from Westminster.

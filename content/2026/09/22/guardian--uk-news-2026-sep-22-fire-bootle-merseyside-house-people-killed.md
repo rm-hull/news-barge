@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/03f89532d04f190b724e5f6834d57fc9f693ebb3/6_521_3374_2701/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c16993b50438063720af66587c288942
+locations:
+- Bootle
+- Merseyside
+- North West
+people:
+- Kevin Longshaw
+- Nick Searle
+organisations:
+- MFRS
 ---
 
 A woman and three children have died after an overnight fire ripped through a semi-detached house on Merseyside.

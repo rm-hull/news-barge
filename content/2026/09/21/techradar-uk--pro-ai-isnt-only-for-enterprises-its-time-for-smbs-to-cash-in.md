@@ -11,6 +11,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg
+locations:
+- AI
+- Europe
+people: []
+organisations:
+- '## AI'
+- Deloitte
+- EMEA
+- Future plc
+- LinkedIn
+- MIPs
+- Managed Intelligence Providers
+- Managed Service Providers
+- OECD
+- Pax8
+- SMB
+- SMBs
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A representative abstraction of artificial intelligence](https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj.jpg)

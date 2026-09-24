@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Los Angeles
+- Van Nuys
+people:
+- Alejandro Luis Garcia
+- Jose Carlos Hoyoz-Munoz
+- Karen Bass
+organisations:
+- LAPD
 ---
 
 A cadre of Los Angeles police officers beat and restrained a handcuffed man in July, minutes before he was found dead in a jail cell, according to newly released body-cam footage.

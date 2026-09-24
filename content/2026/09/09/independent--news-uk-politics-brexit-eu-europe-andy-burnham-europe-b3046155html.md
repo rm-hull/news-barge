@@ -12,6 +12,40 @@ image: https://static.independent.co.uk/2026/09/08/11/2281920381..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Brexit
+- Britain
+- Brussels
+- Europe
+- Greater Manchester
+- UK
+people:
+- Al Pinkerton
+- Andrew Lewin
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Maddox
+- Jake Puddle
+- Keir Starmer
+- Millie Cooke
+- Neil Kinnock
+- Sunder Katwala
+- Tom Brufatto
+- Welwyn Hatfield
+organisations:
+- Brexit
+- British Future
+- British Future think tank
+- EU
+- European Union
+- Ex-Labour
+- Labour
+- Liberal Democrat Europe
+- Number Cruncher Politics
+- The Independent
+- UK-EU
+- Youth Mobility Scheme
 ---
 
 Andy Burnham is facing fresh pressure to scrap Labour’s Brexit ‘red lines’ after a major new poll found voters want Britain to develop closer ties with the European Union.

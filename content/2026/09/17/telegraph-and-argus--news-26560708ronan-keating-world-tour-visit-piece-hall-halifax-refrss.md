@@ -15,6 +15,40 @@ categories:
 - News & Politics
 - History
 - Comedy & Entertainment
+locations:
+- Calderdale
+- Halifax
+- UK
+- West Yorkshire
+people:
+- Antony Costa
+- Duncan James
+- Elton John
+- Jack Savoretti
+- James Morrison
+- Lee Ryan
+- McFly
+- Nicky Chance-Thompson
+- Paul Weller
+- Ronan Keating
+- Simon Webbe
+- Simply Red
+- Tom Jones
+organisations:
+- Blue
+- Boyzone
+- CMAT
+- Garbage
+- Germein Sisters
+- Hollywood Vampires
+- Piece Hall
+- Scarborough Open-Air Theatre
+- Scissor Sisters
+- The Beach Boys
+- The Piece Hall
+- The Piece Hall Charitable Trust
+- Turnstile
+- Yorkshire
 ---
 
 *(Image: Supplied by Piece Hall)*

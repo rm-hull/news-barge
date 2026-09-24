@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- Boroughbridge
+- Knaresborough
+- Minskip
+- North Yorkshire
+- Ripon
+- Skipton
+people:
+- Ethan Anderson
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 North Yorkshire Police have launched an urgent public appeal to locate 26-year-old Ethan Anderson, who is currently wanted on immediate recall to prison. Officers have turned to the community for assistance following extensive, ongoing enquiries to track his whereabouts across the region after he breached the explicit conditions of his release licence.

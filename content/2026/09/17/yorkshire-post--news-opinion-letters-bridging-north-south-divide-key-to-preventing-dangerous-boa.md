@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Dallowgill
+- England
+- Europe
+- Kirkby Malzeard
+- North
+- Portsmouth
+- Ripon
+- South coast
+people:
+- Bryn Glover
+- Jamie Lashmar
+organisations:
+- Global South
+- Home Office
+- Yorkshire Post Letters
 ---
 
 # Bridging North-South divide key to preventing dangerous boat crossings - Yorkshire Post Letters

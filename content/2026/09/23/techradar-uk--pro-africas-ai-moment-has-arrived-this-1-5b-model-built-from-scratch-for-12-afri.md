@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/B7rSuocnva8Sqvm2X4FHq-1920-80.png
+locations:
+- Africa
+people:
+- Gemma
+organisations:
+- AIHub4SD
+- Alibaba
+- CINECA
+- Efosa
+- GPU
+- Google News
+- LLM
+- Lugha-Llama-8B
+- MORENA
+- Meta
+- TechRadar Pro
+- UNDP
+- Vambo AI
 ---
 
 ![Vambo&#039;s AI MORENA, a large language model designed for African languages](https://cdn.mos.cms.futurecdn.net/B7rSuocnva8Sqvm2X4FHq.png)

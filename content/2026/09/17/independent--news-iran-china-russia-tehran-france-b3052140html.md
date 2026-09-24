@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- America
+- Central African Republic
+- China
+- France
+- Germany
+- Iran
+- Israel
+- Mali
+- Moscow
+- North Korea
+- Pakistan
+- Russia
+- Somalia
+- Tehran
+- U.K.
+- U.S.
+- United Kingdom
+- United States
+- Washington
+- Yemen
+people:
+- Antonio Guterres
+- Jennifer Locetta
+- Jerome Bonnafont
+- Vassily Nebenzia
+organisations:
+- Security Council
+- U.N
+- U.N.
+- United Nations
 ---
 
 Russia and China vetoed a United Nations resolution Thursday that would have authorized U.N. experts to keep monitoring sanctions that were reimposed against Iran last year over its nuclear program.

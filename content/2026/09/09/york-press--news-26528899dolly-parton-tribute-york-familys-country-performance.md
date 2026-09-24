@@ -13,6 +13,22 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Haxby Road
+- Joseph Rowntree Theatre
+- Kyrgyzstan
+- York
+people:
+- '## Talented York'
+- Alastair
+- Dolly Parton
+- Molly
+- Ruth McNeil
+- Son Tom
+organisations:
+- British Exploring Society
+- Joseph Rowntree Theatre
+- Night of Country
 ---
 
 ## Talented York family performing on stage for one night in musical spectacular

@@ -11,6 +11,13 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/22/09/2265155520..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Italy
+- Lake Como
+- San Siro
+people: []
+organisations:
+- Como Guardia di Fnanza
 ---
 
 A British man has gone missing after he dived into Italy’s Lake Como to save a father and his teenage son who were struggling in the water.

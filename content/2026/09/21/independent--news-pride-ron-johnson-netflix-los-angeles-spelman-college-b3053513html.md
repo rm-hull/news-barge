@@ -12,6 +12,39 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/09/21/11/TV_-_A_Different_World_92_44.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlanta
+- Hillman
+- Missouri
+people:
+- Amir Rodale
+- Chibuikem Uche
+- Cornell Young IV
+- Debbie Allen
+- Deborah Wayne
+- Dwayne Wayne
+- Felicia Pride
+- Hazel Henry
+- Hillman
+- Kadeem Hardison
+- Kai
+- Kennedi Reece
+- Kojo Achebe
+- LeBron James
+- Maleah Joi Moon
+- Michael Jordan
+- Rashida Duvall
+- Ron Johnson
+- Shaquille Johnson
+- Whitley Gilbert
+organisations:
+- Alijah Kai
+- Clark Atlanta
+- Hillman College
+- Jordan Aaron Hall
+- Netflix
+- Spelman College and Morehouse —
+- VCR
 ---
 
 Netflix’s new “A Different World” arrives with a burden few television comedies have to carry: The original entertained millions while helping some viewers decide where they went to college, what careers to pursue and even how they saw themselves.

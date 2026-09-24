@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bootham Bar
+- Knaresborough Viaduct
+- Majorca
+- Towton
+- York Minster
+people:
+- Isaac Savage
+- Paul 'Mortz' Mortimer
+- Paul Anthony White
+- Paul Greenwood
+- Sandra Michelle Davies
+- Sandra Michelle Hillyer
+organisations:
+- Camera Club
+- Facebook
+- The Press
+- The Press Camera Club
 ---
 
 ## This adorable waving seal stole the show in The Press Camera Club competition

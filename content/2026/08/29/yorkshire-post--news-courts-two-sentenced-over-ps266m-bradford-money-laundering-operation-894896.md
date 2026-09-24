@@ -15,6 +15,53 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Apperley Bridge
+- Bradford
+- Dubai
+- Fowler Oldfield
+- Hall Lane
+- Hatton Garden
+- Lambeth
+- Leeds Crown Court
+- London
+- Rathmell Road
+- Scarcroft
+- Shipley
+- Syke Green
+- Toller Lane
+- Trevor Place
+- UK
+- Waterfront Mews
+- West Yorkshire
+- Westminster
+people:
+- Arjun Babber
+- Baqa Haider
+- Bob Marley Way
+- Daniel Rawson
+- Fowler Oldfield
+- Gary Smith
+- Gregory Frankel
+- Haroon Rashid
+- Nathan Rivers
+- Ramona Senior
+- Samir Jagirdar
+- Shahid Qadar
+organisations:
+- CCTV
+- Crown Prosecution Service
+- Economic Crime Unit
+- Financial Conduct Authority
+- Fowler Oldfield
+- Fowler Oldfield Ltd
+- Humber Regional Organised Crime Unit
+- NatWest
+- Pure Nines
+- Pure Nines Ltd
+- West Yorkshire Police
+- West Yorkshire Police Economic Crime Unit
+- West Yorkshire Police’s Economic Crime Unit
 ---
 
 # Two sentenced over £266m Bradford money laundering operation

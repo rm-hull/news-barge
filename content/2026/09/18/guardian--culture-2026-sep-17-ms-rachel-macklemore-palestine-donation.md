@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Comedy & Entertainment
+locations:
+- Free Palestine
+- Gaza
+- Israel
+- MetLife Stadium
+- New Jersey
+- West Bank
+people:
+- Ed Sheeran
+- Finneas
+- Lukas Graham
+- Macklemore
+- Ms Rachel
+- Pink
+- Rachel Accurso
+- Robert Kraft
+organisations:
+- Gillette Stadium
+- Instagram
+- Kraft
+- Macklemore
+- New England Patriots
+- Palestine Children’s Relief Fund
+- Sheeran
+- YouTube
 ---
 
 YouTube star Ms Rachel has said she is matching rapper Macklemore’s $1m donation to organizations supporting Palestinians, calling on other public figures to follow suit.

@@ -10,6 +10,18 @@ image: https://static.independent.co.uk/2026/04/28/13/2026-04-01T124029Z_1371891
 categories:
 - News & Politics
 - UK
+locations:
+- Riksdag
+- Stockholm
+- Sweden
+people:
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- Centre Party
+- Left Party
+- Sweden Democrats
+- Swedish Election Authority
 ---
 
 Sweden's Prime Minister Ulf Kristersson will resign after the left-leaning opposition won a narrow majority in the country's parliamentary election.

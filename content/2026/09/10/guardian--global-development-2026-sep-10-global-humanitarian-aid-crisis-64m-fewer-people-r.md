@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Al-Khawkhah
+- Hodeidah
+- States
+- US
+- Yemen
+people:
+- Jennifer Doherty
+- Meg Sattler
+- Mohammed Bahashwan
+organisations:
+- Action for Humanity
+- Active Learning Network for Accountability and Performance
+- Alnap
+- DEI
+- Ground Truth Solutions
+- State of the Humanitarian System
+- USAID
 ---
 
 The humanitarian aid system is crumbling as funding shrinks, pressures increase and governments not only fail to protect civilians but are increasingly responsible for endangering them, a new report warned on Thursday as figures revealed 64 million fewer people received aid last year.

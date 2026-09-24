@@ -10,6 +10,32 @@ description: The Google Pixel Watch 5 is the best Android watch you can buy this
 image: https://cdn.mos.cms.futurecdn.net/9eodLRXMQbvTq9Hpc8orMF-2472-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cardiff
+- Isle of Dogs
+people:
+- Gemini
+- Matt Evans
+- Michael Sawh
+organisations:
+- AI
+- Apple
+- Breathing Emergency Detection
+- Garmin Fenix
+- Google Fitbit Air
+- Google Gemini
+- Google Health
+- Google Health Premium
+- Google Maps
+- Google Pixel Watch
+- Google Pixel Watches
+- London Marathon
+- Men's Health
+- Pixel Watch
+- Pixel Watches
+- Runner's World
+- Samsung
+- TechRadar
 ---
 
 ### TechRadar Verdict

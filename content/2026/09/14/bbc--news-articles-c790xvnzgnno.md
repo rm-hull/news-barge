@@ -14,6 +14,33 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- AI
+- America
+- China
+- Ireland
+- London
+- US
+- United States
+people:
+- AI
+- Alan Turing
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Elon Musk
+- Evan Hubinger
+- Jacob Coxon
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- BBC
+- Google
+- OpenAI
+- PauseAI
+- SpaceX
+- Trump
 ---
 
 ![A stock image of a woman looking down at her smartphone, biting her nails nervously](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg)

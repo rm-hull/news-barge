@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Diddly Squat Farm
+- UK
+people:
+- Amy Rylance
+- Chris Hoy
+- David Cameron
+- Jeremy Clarkson
+- Kaleb Cooper
+- Lisa Hogan
+- Lord Cameron
+- Matthew Vincent
+- PA Wire
+organisations:
+- Prostate Cancer UK
 ---
 
 *(Image: Matthew Vincent/PA Wire)*

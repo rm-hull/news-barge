@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Alice Kavanagh
+- Colliergate
+- Goodramgate
+- Grade I
+- Haydn Lewis
+- Holy Trinity
+- UK
+- York
+people:
+- Dom&Ink
+- Isla
+- Juno Dawson
+organisations:
+- CGBs
+- Criminally Good Books
+- Good Books
+- Goodramgate
+- HGB
+- Instagram
+- Isla Coole
+- Merchant Adventurers Hall
 ---
 
 ## Horror bookshop set to open in Grade I listed York building overlooking graveyard

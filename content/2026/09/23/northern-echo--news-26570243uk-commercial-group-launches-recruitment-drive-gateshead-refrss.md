@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21485330.jpg?type=og-image
+locations:
+- Darlington
+- Gateshead
+- NE11 0HZ
+- Newcastle
+- North East
+- Octavian Way
+- Team Valley
+- UK
+people:
+- Tony Earnshaw
+organisations:
+- HVAC
+- Northern Echo
+- UK Commercial Group
 ---
 
 *(Image: Supplied)*

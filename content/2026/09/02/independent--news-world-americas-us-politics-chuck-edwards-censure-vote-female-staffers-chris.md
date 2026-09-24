@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Capitol Hill
+- D-Calif.
+- D-N.M.
+- North Carolina
+- R-N.C.
+people:
+- Chuck Edwards
+- Edwards'
+- Eric Swalwell
+- Jimmy Gomez
+- Mark DeSaulnier
+- Michael Guest
+- Teresa Leger Fernandez
+- Tony Gonzales
+organisations:
+- Ethics Committee
+- House Ethics Committee
+- R-Texas
 ---
 
 In a near-unanimous 413-2 rebuke, the House voted Tuesday to censure Rep. Chuck Edwards (R-N.C.) after a damning ethics probe found he targeted two young female staffers with lavish gifts, intimate notes and unwanted personal advances.

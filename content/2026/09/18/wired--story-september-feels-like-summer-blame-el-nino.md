@@ -11,6 +11,22 @@ image: https://media.wired.com/photos/6aac1b1c1a00b3c7bbe06e95/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Bourbon Street
+- DC
+- Deep South
+- Pacific Ocean
+- Rodeo Drive
+- Salt Lake City
+- Southern California
+- US
+- Upper Midwest
+- Washington
+people: []
+organisations:
+- El Niño
+- El Niños
+- US Climate Prediction Center
 ---
 
 A summer that started early across the US has no intention of quitting, even as the calendar turns to autumn.

@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Ankara
+- Egypt
+- Europe
+- France
+- Germany
+- Italy
+- Leipzig
+- Moscow
+- Poland
+- Russia
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Antonio Tajani
+- Giorgia Meloni
+- Guido Crosetto
+- Mykhailo Fedorov
+- Roberto Vannacci
+- Vladimir Putin
+- Wolfgang Ischinger
+organisations:
+- AfD
+- Alternative für Deutschland
+- E5
+- EU
+- Futuro Nazionale
+- Kyiv
+- MSC
+- Munich Security Conference
+- Nato
 ---
 
 Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness, a conference on the future of European military coordination heard this week.

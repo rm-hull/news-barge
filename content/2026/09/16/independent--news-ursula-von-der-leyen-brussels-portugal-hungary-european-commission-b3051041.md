@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/08/22/07/Europe_Wildfire_Ordnance_8
 categories:
 - News & Politics
 - UK
+locations:
+- Danube
+- Europe
+- Greece
+- Hungary
+- La Garonne
+- Portugal
+- Rhine
+- Strasbourg
+people:
+- Rune Kyndal
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Union
+- State of the European Union
+- World Weather Attribution
 ---
 
 A scorching summer that dried up rivers and killed tens of thousands across the European Union from Portugal to Hungary has shown that the bloc needs to develop new tools to meet a worsening climate, European Commission President Ursula von der Leyen said Wednesday.

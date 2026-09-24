@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Elder Street
+- Elders Street
+- North Yorkshire
+- Queen Street
+- Scarborough Railway Station
+people:
+- Craig Regan
+- Laura Peto
+- Nick Peacock
+- Robert Chinchen
+organisations:
+- CCTV
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

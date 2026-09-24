@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Cropton Court
+- North Yorkshire
+- Northminster Business Park
+- Poppleton Park
+- Ride
+- UK
+- York
+people:
+- George Burgess
+- Paul Mack
+organisations:
+- AES
+- Automotive Equipment Solutions
+- Cropton Court
+- Dolphin Minerals
+- Express Electronics
+- GV&Co
+- Northminster Business Park
+- Northminster Properties
+- PPH Commercial
+- Pic
+- Poppleton
+- Trig Brewery
 ---
 
 *(Image: Pic supplied)*

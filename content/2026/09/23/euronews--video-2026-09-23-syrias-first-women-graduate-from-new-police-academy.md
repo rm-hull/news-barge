@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/49/33/1200x675_cmsv2_e4f0548d-8a6d-57ec-aca9-e7f1d66dac3e-9924933.jpg
+locations:
+- Al-Tal
+- Damascus
+- Syria
+people:
+- May Aklajneh
+organisations:
+- Interior Ministry
 ---
 
 Around 150 women have graduated from Syria's new police academy in Al-Tal, north of Damascus, after six months of training.

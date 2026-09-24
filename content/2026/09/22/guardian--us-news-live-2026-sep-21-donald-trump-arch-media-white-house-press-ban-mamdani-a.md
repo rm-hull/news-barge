@@ -12,6 +12,72 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/391afde06b50619679a3695bb68d5fc07a0b10c4/703_0_4553_3642/master/4553.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f187dab0147040f759167962fa198d4e
+locations:
+- Austin
+- Bluie West One
+- California
+- City Hall
+- Denmark
+- East End Avenue
+- Gracie Mansion
+- Greenland
+- Iran
+- Mestersvig
+- Missouri
+- NEW YORK CITY
+- Narsarsuaq
+- New York
+- New York City
+- Queens
+- Sunnyside Yard
+- Texas
+- US
+- United States
+- White House
+people:
+- Adam Schiff
+- Alex Padilla
+- Charlie Stadtlander
+- Donald Trump
+- Garcés Pérez
+- Jim Acosta
+- Lauren Boebert
+- Perez
+- Ro Khanna
+- Rob Bonta
+- Tim Kelly
+- Trumpis
+- Wilber Garcés Pérez
+- Wilber Rafael Garcés Pérez
+- Zohran Mamdani
+organisations:
+- AP
+- Bing Guan
+- CNN
+- Department of Homeland Security
+- Fake News
+- Gracie Mansion
+- ICE
+- Immigration and Customs Enforcement
+- MS Now
+- National Security
+- New York Times
+- New York Timessaid
+- Politico
+- Reuters
+- Sirius Dog Sled Patrol
+- Sunnyside Yards
+- TPS
+- The Associated Press
+- The New York Times
+- Trump Administration
+- Truth Social
+- UN General Assembly
+- US Citizenship and Immigration Services
+- US House
+- USCIS
+- United Nations
+- Washington Post
 ---
 
 Trump braces for loss in lawsuit brought by media organizations, expects to 'go for appeal'

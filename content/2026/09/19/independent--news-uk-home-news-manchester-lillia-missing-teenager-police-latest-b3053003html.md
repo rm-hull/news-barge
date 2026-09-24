@@ -13,6 +13,22 @@ categories:
 - Lifestyle & Fashion
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/19/12/17b3ce6eb9475977610f799dcee1dfedY29udGVudHNlYXJjaGFwaSwxNzg5OTAxNDc3-2.85903877.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Altrincham
+- Bolton
+- Lillia
+- Manchester Piccadilly
+- Piccadilly Gardens
+- Salford
+- Trafford Centre
+people:
+- Lill
+- Lillia
+organisations:
+- CCTV
+- GMP
+- Greater Manchester Police
+- McDonald's
 ---
 
 A Manchester teenager missing for eight days has been found “safe and well” by police.

@@ -15,6 +15,19 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Blacker Road
+- Huddersfield
+- Manchester Crown Court
+- Ripon Avenue
+- Sufton Street
+people:
+- Jamal Nedd
+- Paul Hutchinson
+- Samreen Akhtar
+- Tabish Ali
+organisations:
+- West Yorkshire Police
 ---
 
 # Barrister caught plotting revenge over Yorkshire shooting as part of gang turf war

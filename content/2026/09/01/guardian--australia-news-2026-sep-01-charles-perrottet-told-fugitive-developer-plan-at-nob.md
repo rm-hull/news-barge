@@ -12,6 +12,43 @@ image: https://i.guim.co.uk/img/media/62abf59f50d9949af5b6cba99f16d656ec4ce030/3
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Baulkham Hills
+- Beckington
+- Castle Hill
+- Crown Casino
+- Cumberland
+- Greenwood
+- Lebanon
+- Melbourne
+- Parra, Hills
+- Toplace
+people:
+- '## Perrottet'
+- Anita Perrottet
+- Beckington
+- Charles Perrottet
+- Christian Ellis
+- David Chandler
+- David Elliott
+- Dominic Perrottet
+- Garthowen
+- Jean Nassif
+- Jeremy Greenwood
+- Peggy Dwyer SC
+- Sharangan Maheswaran
+organisations:
+- Beckington
+- Garthowen
+- Greyhound Racing NSW
+- Icac
+- JPG
+- NSW Liberal
+- NSW Liberals
+- New South Wales Independent Commission Against Corruption
+- Nobu
+- Toplace
 ---
 
 The younger brother of Dominic Perrottet has insisted he never asked a fugitive property developer for money for political outcomes – including at a meeting at fine-dining restaurant Nobu in Crown Casino, an inquiry has heard.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bedale
+- County Durham
+- Crakehall
+- Eastern Europe
+- London
+- Manchester
+- North East
+- North Yorkshire
+- UK
+people:
+- Jake Quickenden
+- Kylie Hammond
+- Ms Hammond
+organisations:
+- AO Arena
+- Ms Hammond
 ---
 
 *(Image: Supplied)*

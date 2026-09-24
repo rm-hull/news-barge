@@ -15,6 +15,30 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Atlee Road
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- Riverside Stadium
+- Steele Crescent
+people:
+- Cole Worthy
+- Jakub Matusiak
+- King
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Natalie McDonald
+- PC Matthew Blades
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Police
+- Middlesbrough FC
+- West Bromwich Albion
 ---
 
 # Middlesbrough fans pay respects to police officers killed in A66 horror crash

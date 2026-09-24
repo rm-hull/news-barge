@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Addingham Conservation Area
+- Addingham Cricket Ground
+- Flood Zone 1
+- Ilkley Road
+- Main Street
+- Wharfedale
+- YOUR
+- Yorkshire
+people: []
+organisations:
+- Addingham
+- Bradford Council
+- Braford Council
+- Chartford Homes
+- Government
+- MAF
+- Public Notice Portal
 ---
 
 *(Image: Google Maps)*

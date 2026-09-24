@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Italy
+- Leeds
+- Noto
+- Province of Syracuse
+- Sicily
+- WEST Yorkshire
+people:
+- Benjamin John Braithwaite
+- Carabinieri
+organisations:
+- Commonwealth and Development Office
+- FCDO
 ---
 
 *(Image: Supplied)*

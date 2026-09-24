@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- England
+- Great Ormond Street
+- Haven House
+- London
+people:
+- Buchan Cooke
+- Dylan
+- Ian Perrin
+- Nick Carroll
+- Rachel de Souza
+- Sarah Buchan Cooke
+- de Souza
+organisations:
+- ICBs
+- NHS Alliance
+- Together for Short Lives
 ---
 
 Seriously ill children are being denied the chance to die at home because the NHS in many parts of England is flouting its legal duty to provide the care needed to make that happen, critics say.

@@ -11,6 +11,17 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Germany
+- Pennsylvania
+people:
+- Alessandro Conigli
+- Colin Morningstar
+- Krishna Kumar
+organisations:
+- Carnegie Mellon University
+- Johannes Gutenberg University Mainz
+- University of Massachusetts Amherst
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg?w=840)

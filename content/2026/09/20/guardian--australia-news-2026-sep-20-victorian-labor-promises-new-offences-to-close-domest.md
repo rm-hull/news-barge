@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/a7c58e17b74f2161e1519d48832a5e3923225435/79_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b3cb0d31d8930688e04a7c369ace0bb
+locations:
+- Carroll
+- Cranbourne
+- Maryborough
+- Melbourne
+- Victoria
+people:
+- Belinda Jones
+- Ben Carroll
+- Liberty Sanger
+- Narelle Simmons
+organisations:
+- Coalition
+- Labor
 ---
 
 Rapists could face life sentences and lawyers would be prevented from asking humiliating questions of victim-survivors under a suite of Victorian Labor pre-election commitments designed to reduce violence against women.

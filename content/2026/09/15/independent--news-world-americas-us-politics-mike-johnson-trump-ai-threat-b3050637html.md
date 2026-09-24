@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- America
+- China
+- Florida
+- I-Vt.
+- Louisiana
+- RUSSIA
+- Sen
+- U.S.A.
+- UKRAINE
+- United States
+- Washington
+people:
+- AI
+- Anna Paulina Luna
+- Bernie Sanders
+- David Sacks
+- Donald Trump
+- Jacob Coxon
+- Mike Johnson
+- Steve Bannon
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- Congress
+- House of Representatives
+- Trump
+- Truth Social
+- University of Massachusetts Amherst
 ---
 
 Asked about President Donald Trump’s rant against regulation of future AI development, House Speaker Mike Johnson on Tuesday insisted the media was overreacting to warnings about artificial intelligence going rogue.

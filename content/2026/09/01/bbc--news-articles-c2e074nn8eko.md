@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Afghanistan
+- China
+- India
+- Iran
+- Islamabad
+- Israel
+- Kabul
+- Khyber Pakhtunkhwa
+- Landi Kotal
+- Nangarhar
+- New York
+- Omari
+- Pakistan
+- Russia
+- Torkham
+- US
+- Zero Point
+people:
+- Amir Khan Muttaqi
+- Charlie Goodlake
+- God
+- Lyse Doucet
+- Nazia
+- Sarwar
+- Zarina
+organisations:
+- BBC
+- Centre for Human Rights in Iran
+- Government of Pakistan
+- Human Rights Watch
+- Refugee Agency
+- UN
+- UNHCR
+- UNICEF
+- Zarina
 ---
 
 Watch: BBC's Lyse Doucet reports on the biggest cross-border movement of people

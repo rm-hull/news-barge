@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Cherwell
+- MoD Bicester
+- Oxfordshire
+- Piddington
+- UK
+- Woodstock
+people:
+- Andy Burnham
+- Calum Miller
+- Calum Turner
+- Lisa Nandy
+- Tim McNally
+organisations:
+- EU
+- Home Office
+- Lib Dem
+- MoD Bicester
+- Piddington Parish Council
+- Sky News
+- then-Labour
 ---
 
 A small Oxfordshire village has voted to become independent from the UK in a symbolic referendum.

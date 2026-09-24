@@ -13,6 +13,15 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- J44 A64
+- Tadcaster
+- York
+people: []
+organisations:
+- AA Traffic
+- Boston Spa
+- Wattle Syke
 ---
 
 *(Image: Newsquest)*

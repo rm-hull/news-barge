@@ -14,6 +14,17 @@ categories:
 - York
 - Film & TV
 - Technology & Software
+locations: []
+people:
+- David Magee
+- Hey Linda
+- Hi James
+organisations:
+- Apple Wallet
+- BBC
+- Cineworld
+- Getty
+- Newsquest
 ---
 
 *(Image: Getty)*

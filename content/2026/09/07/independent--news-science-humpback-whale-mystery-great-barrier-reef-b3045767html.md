@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Great Barrier Reef
+- Marine Park
+- Queensland
+- Whale Heritage Area
+- Whitsunday
+- Whitsundays
+people:
+- Crystal Lacey
+- Ms Lacey
+organisations:
+- UNESCO World Heritage Area
 ---
 
 Australian tourism operators have helped crack the mystery of an enigmatic humpback whale behaviour that has left scientists baffled since it was first observed in 2009.

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Newlands Lane
+- North Yorkshire
+- Upper Poppleton
+- York
+people: []
+organisations:
+- BSR Energy
+- York Council
 ---
 
 # Solar farm size of 118 football pitches planned for North Yorkshire farmland

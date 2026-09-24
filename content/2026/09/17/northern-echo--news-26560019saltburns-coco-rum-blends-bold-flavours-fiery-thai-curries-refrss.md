@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Durham
+- Middlesbrough
+- North East
+- North Yorkshire
+- Saltburn
+people:
+- Charlie Hunnam
+- Coco
+- Rum
+- Tom Yum
+organisations:
+- Coco & Rum
+- Netflix
+- Tees Valley Combined Authority
 ---
 
 Freshly cooked Thai fusion dishes, fiery curries and sizzling seafood specials have made this Saltburn restaurant a favourite among local foodies.

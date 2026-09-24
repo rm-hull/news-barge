@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Darlington STEM
+- North East
+- North Yorkshire
+people: []
+organisations:
+- Met Office
+- NORTHERN ECHO
 ---
 
 Residents across Darlington can look forward to a pleasant weekend as highs of 22C and sunshine are expected.

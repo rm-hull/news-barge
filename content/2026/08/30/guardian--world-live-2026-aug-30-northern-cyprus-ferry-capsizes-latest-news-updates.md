@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Diana
+- Kyrenia
+- Northern Cyprus
+- Turkish Republic of Northern Cyprus
+people:
+- Allah
+- Murat Senkul
+- Unal Ustel
+- Ünal Üstel
+organisations:
+- Akgünler Express
+- Coast Guard
+- Facebook
+- Filo Denizcilik
+- TRT
+- Üstel
 ---
 
 At least seven people reportedly die after ferry capsizes off northern Cyprus

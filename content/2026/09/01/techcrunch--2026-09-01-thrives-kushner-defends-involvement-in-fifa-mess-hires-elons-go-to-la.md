@@ -11,6 +11,42 @@ description: New York's prestigious-yet-secretive venture firm Thrive Capital fi
 image: https://techcrunch.com/wp-content/uploads/2026/09/Josh-Kushner.jpg?resize=1200,817
 categories:
 - Business & Entrepreneurship
+locations:
+- Africa
+- Caribbean
+- New York
+- U.S.
+people:
+- Alec Baldwin
+- Alex Spiro
+- Deel
+- Elon Musk
+- Eric Adams
+- Gianni Infantino
+- Jay-Z
+- Josh Kushner
+- Kevin Lamour
+- Quinn Emanuel
+- Thrive
+organisations:
+- Axios
+- BBC
+- Concacaf
+- FFE
+- FIFA Forward Enterprise
+- Infantino
+- JPMorgan
+- MAs
+- Member Association
+- Musk
+- NYC
+- Rippling
+- TechCrunch
+- Tesla
+- Thrive Capital
+- Twitter
+- UEFA
+- Union of European Football Associations
 ---
 
 New York’s prestigious-yet-secretive venture firm Thrive Capital has been hauled into the center of a messy drama that could result in criminal charges against Gianni Infantino, the controversial president of global soccer organization FIFA.

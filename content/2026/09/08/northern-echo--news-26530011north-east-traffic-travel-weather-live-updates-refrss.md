@@ -15,6 +15,43 @@ categories:
 - News & Politics
 - Travel
 - Technology & Software
+locations:
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- B6279 Freemans Place
+- B6280 Parkgate
+- Bishop Auckland
+- Borough Road
+- Bracken Road
+- Brinkburn Road
+- Corporation Road
+- Darlington
+- Durham
+- Gladstone Street
+- Hollyhurst Road
+- Neasham Road
+- North East
+- Northern Rail
+- Rochester Way
+- Teesside
+- Thornton Street
+- Tyne and Wear Metro
+- Upper Russell Street Eastbound
+- Winchester Way
+people: []
+organisations:
+- A1
+- A19
+- A66
+- AA Traffic Maps
+- Cross Country
+- LNER
+- Met Office
+- Newcastle Airports
+- THE NORTHERN ECHO
+- The Northern Echo
+- TransPennine
 ---
 
 *(Image: THE NORTHERN ECHO)*

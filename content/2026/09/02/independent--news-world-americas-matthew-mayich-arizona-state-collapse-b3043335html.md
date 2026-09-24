@@ -13,6 +13,25 @@ categories:
 - UK
 - Sports
 - Health & Fitness
+locations:
+- Arizona State
+- Ontario
+- Stoney Creek
+- Valley
+people:
+- Graham Rossini
+- Matthew Mayich
+- Rob Carey
+organisations:
+- ASU
+- Arizona State
+- Clarkson University
+- NCAA
+- NHL
+- Ontario Hockey League
+- Ottawa
+- St. Louis Blues
+- The Associated Press
 ---
 
 An Arizona State hockey player and St. Louis Blues draft pick remains hospitalized nearly two weeks after collapsing during an offseason workout, while an attorney representing his family searches for answers.

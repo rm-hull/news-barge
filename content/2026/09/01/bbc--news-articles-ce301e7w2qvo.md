@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Finsbury Park
+- Glastonbury
+- Japan
+- Leicester
+- Leicestershire
+- London
+- Turkey
+- UK
+people:
+- Amy
+- Chris Edwards
+- David Lynch
+- Elton John
+- Ian Matthews
+- Kasabian
+- Led Zeppelin
+- Serge Pizzorno
+- Tim Carter
+- Tom Meighan
+organisations:
+- AI
+- BBC
+- Kasabian
+- Oasis
+- Serge Pizzorno
+- Teenage Cancer Trust
+- The Eagles
 ---
 
 ![Kasabian perform inside Serge Pizzorno's home studio in Leicester](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/03db/live/3655de80-a5ef-11f1-8348-fb0cb1cd9761.jpg)

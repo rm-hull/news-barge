@@ -12,6 +12,28 @@ image: https://i.guim.co.uk/img/media/3696ddb5d1f64cfc4a28611b2f2774c4526e0956/4
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Germany
+- UK
+- US
+people:
+- Bryan Hubbell
+- Lee Zeldin
+- Maggie Coulter
+- Matthew Roling
+- Meredith Hankins
+- Trump
+organisations:
+- Center for Biological Diversity
+- EPA
+- Environmental Protection Agency
+- NRDC
+- Natural Resources Defense Council
+- Northwestern University
+- Resources for the Future
+- Trump
+- United Nations
 ---
 
 In allowing US power plants to emit any amount of planet-heating pollution they wish to, the Trump administration made two striking claims – that this will cut Americans’ electricity bills and that the pollution itself doesn’t really matter anyway. Both claims struggle to stand up to even basic scrutiny.

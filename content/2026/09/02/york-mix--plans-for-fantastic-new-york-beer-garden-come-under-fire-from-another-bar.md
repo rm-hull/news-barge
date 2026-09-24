@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Grade II
+- Patrick Pool
+- St Sampson’s Centre
+- Valhalla
+- York
+people:
+- Valhalla
+- Vincent Roberts
+organisations:
+- City of York Council
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Police
+- Pivni
+- St Sampson’s
+- St Sampson’s Centre
+- Valhalla
 ---
 
 Plans for a new beer garden in the heart of York have been criticised by another bar operator.

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Madrid
+- Madring
+people:
+- Antonio Ibáñez
+- Borja Carabante
+- Jorge Rodrigo
+- María Ángeles Nieto
+organisations:
+- Formula One
+- Formula Three
+- Madring
+- Rodin Motorsport
+- Stop F1 Madrid
 ---
 
 Opponents of Madrid’s newly constructed Formula One circuit have accused the regional authorities of putting profit before people’s wellbeing after tests for the inaugural Spanish Grand Prix at the track later this month yielded noise levels that were almost twice the legal decibel limit.

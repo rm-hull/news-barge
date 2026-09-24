@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Britain
+- Carlisle
+- Halifax
+- Land's End
+- Land’s
+people:
+- Claire Macina
+- Grant McConnell
+- John O’Groats
+- Marie Curie
+- Shaun Casey
+organisations:
+- Marie Curie Yorkshire
 ---
 
 *(Image: Supplied)*

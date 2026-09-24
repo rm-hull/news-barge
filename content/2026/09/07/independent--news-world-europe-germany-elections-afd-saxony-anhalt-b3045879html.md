@@ -10,6 +10,36 @@ image: https://static.independent.co.uk/2026/09/07/11/2293941232..?trim=30,0,31,
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- France
+- Germany
+- Italy
+- Saxony-Anhalt
+- Ukraine
+- United Kingdom
+people:
+- Angela Merkel
+- Friedrich Merz
+- Giorgia Meloni
+- Marine Le Pen
+- Matt Fitzpatrick
+organisations:
+- AfD
+- Alternative for Germany
+- BSW
+- Bündnis Sahra Wagenknecht
+- CDU
+- Christian Democratic Union
+- European Union
+- Flinders University
+- Greens
+- Left Party
+- Nato
+- Reform
+- SPD
+- Social Democratic Party
+- The Conversation
 ---
 
 The far-right Alternative for Germany (AfD) party has sent shock waves across Germany – and the world – by trouncing the opposition in a state election over the weekend. But will the party actually be able to govern?

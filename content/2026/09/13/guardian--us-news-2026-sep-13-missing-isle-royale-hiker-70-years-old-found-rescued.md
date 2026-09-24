@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Berg
+- Detroit
+- Greenstone Ridge
+- Gwinn
+- Isle Royale
+- Lake Superior
+- Marquette
+- Michigan
+- Rock Harbor
+- Upper Peninsula
+people:
+- Craig Berg
+- Evan
+organisations:
+- Facebook
+- Jayhawk
+- Local 4
+- National Park Service
+- TV6
+- US Coast Guard
+- US Coast Guard Air Station Traverse City
 ---
 
 A 70-year-old hiker who had been missing for a week on a Michigan island was rescued on Saturday, according to the US Coast Guard.

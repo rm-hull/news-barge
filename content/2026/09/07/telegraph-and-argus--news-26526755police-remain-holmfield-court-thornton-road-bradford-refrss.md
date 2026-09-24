@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Holmfield Court
+- Thornton Road
+- West Yorkshire
+people:
+- Stephen Griffiths
+organisations:
+- T&A
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

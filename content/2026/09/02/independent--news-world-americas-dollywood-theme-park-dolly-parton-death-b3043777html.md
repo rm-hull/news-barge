@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Great Smoky Mountains
+- Mausoleum
+- Nashville
+- Sevier County
+- Sevierville
+- Tennessee
+- Woodlawn Memorial Park
+people:
+- Carl Dean
+- Dolly Parton
+- Dollywood
+- Lainey Parton
+organisations:
+- Dream Maker
+- Imagination Library
+- Instagram
 ---
 
 Dollywood has shared how it plans to honor "dreamer-in-chief” Dolly Parton after her death at the age of 80.

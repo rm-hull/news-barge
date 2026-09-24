@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Goole Market Hall
+- UK
+people:
+- Luke Jerram
+- Nick Coultish
+- Sean Hill
+organisations:
+- Arts Council England
+- East Riding of Yorkshire Council
+- Goole Market Hall
+- Helios
+- Market Hall
 ---
 
 *(Image: Supplied)*

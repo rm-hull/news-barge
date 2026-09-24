@@ -12,6 +12,38 @@ image: https://images.euronews.com/articles/stories/09/90/84/50/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Alberta
+- Berlin.
+- Calgary
+- Europe
+- King Harald V
+- Norway
+- Oslo Cathedral
+- Sana'a
+- Spain
+- Ukraine
+- Wilmersdorf
+people:
+- Arancha González
+- Christophe Hansen
+- Dan Jørgensen
+- Haakon VIII
+- Harald V
+- Maciej Jakubowski
+- Mette-Marit
+- Olena Zelenska
+- Sonja
+- Volodymyr Zelenskyy
+organisations:
+- Andrea Renda
+- Béla Anda
+- Centre for European Policy Studies
+- EU
+- Elina Valtonen
+- Euronews
+- Oslo Cathedral
+- Tymofiy Mylovanov
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

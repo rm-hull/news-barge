@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Derby
+- England
+- India
+- Lord's
+- Melbourne
+- Pakistan
+- UK
+people:
+- Abbas
+- Brydon Carse
+- David Warner
+- Dukes
+- Jhye Richardson
+- Joe Root
+- Michael Vaughan
+- Sachin Tendulkar
+- Yorkshireman
+organisations:
+- BBC
+- Dukes
+- England
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

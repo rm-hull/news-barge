@@ -13,6 +13,9 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations: []
+people: []
+organisations: []
 ---
 
 While bin collections might seem as simple as just putting the bins out on the correct days, bin collections have gone through a lot of changes this year and you might find it difficult to keep up with.

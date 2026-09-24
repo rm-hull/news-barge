@@ -13,6 +13,57 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Balloch
+- Basildon
+- Boston
+- Bury
+- Carlisle
+- Cleethorpes
+- Clowne
+- Cumbernauld
+- Evesham
+- Hornsea
+- Ipswich
+- Kidderminster
+- Lincoln
+- Norwich
+- Scotland
+- UK
+people:
+- Calvin Klein
+- Evans
+- Jeremy Bleazard
+organisations:
+- '## Leading Labels'
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- EcoJet Airlines
+- European Cargo
+- House
+- InPost
+- Joules
+- LK Bennett
+- Leading Labels
+- Leading Labels'
+- Leadinglabels.co.uk
+- Morrisons
+- Quiz
+- Raleigh
+- Stevenage
+- Superdrug
+- TG Jones
+- The Gazette
+- Whitbread
+- Wrangler
+- XL Business Solutions Limited
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

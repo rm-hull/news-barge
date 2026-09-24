@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Duke Street
+- Houndgate
+- North East UK
+- Skinnergate
+- Vesuvio
+- YOUR
+people:
+- Kendra Fry
+- Les
+- Vesuvio
+organisations:
+- Darlington Bar
+- Facebook
+- Les and Kendra
+- Public Notice Portal
+- Vesuvio
 ---
 
 *(Image: The Northern Echo)*

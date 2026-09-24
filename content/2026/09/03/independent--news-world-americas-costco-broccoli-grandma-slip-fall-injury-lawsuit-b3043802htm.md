@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Long Island
+- Nebraska
+- New York
+- New York City
+- Northern California
+- Outback Steakhouse
+- Queens
+- Virginia
+people:
+- Felicia Romain
+- Roberta DiGangi
+- Tracy J. Renshaw
+organisations:
+- Costco
+- Outback
+- The Cochran Firm
+- The Independent
 ---
 
 A New York grandmother is threatening a lawsuit against Costco after claiming she slipped on a piece of broccoli and badly injured herself while shopping at the discount warehouse club.

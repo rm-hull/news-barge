@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Video Gaming
+locations:
+- Elland Road
+- Ipswich Town
+- Leeds’
+- Portman Road
+people:
+- Mike Richard McCarthy
+organisations:
+- AFC Bournemouth
+- Leeds United
+- Newcastle United
+- PA Wire
+- Premier League
+- Zable
 ---
 
 *(Image: Mike Richard McCarthy /PA Wire)*

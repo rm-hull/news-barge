@@ -15,6 +15,39 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Crow Reservation
+- Fond Du Lac
+- Minnesota
+- Sault Ste
+people:
+- David Adams
+- Donald Trump
+- Grace Bulltail
+- Joe Biden
+- Kayla Jackson
+- Marie Tribe
+- Peter Martin
+- Pretty Places
+- Sarah Deer
+organisations:
+- AP
+- BIA
+- Bureau of Indian Affairs
+- Chickasaw Nation
+- Chippewa Indians
+- FBI
+- Fond Du Lac Police Department
+- Interior Department
+- Kaysera Stops Pretty Places
+- Missing and Murdered Unit
+- OIG
+- Office of Inspector General
+- The Associated Press
+- The Missing and Murdered Unit
+- The Trump
+- U.S. Bureau of Indian Affairs
+- University of Kansas School of Law
 ---
 
 Peter Martin went missing two years ago from the Fond Du Lac reservation in Minnesota. His family hasn't stopped looking, but they say the U.S. Bureau of Indian Affairs investigation into Martin's disappearance has stalled since the agent assigned to the case left the role in early 2025.

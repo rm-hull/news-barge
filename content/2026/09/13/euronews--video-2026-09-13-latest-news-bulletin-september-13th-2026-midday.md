@@ -12,6 +12,34 @@ image: https://images.euronews.com/articles/stories/09/91/17/13/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Europe
+- France
+- Germany
+- Grand Palais
+- Hagenbeck Zoo
+- Hamburg
+- La Flèche
+- Memorial
+- New York City
+- New York.
+- Nuuk
+- Odesa
+- Paris
+- Sana'a
+- Ukraine
+people:
+- Emmanuel Macron
+- Jordan Bardella
+- Laura Joyce-Hubbard
+- Mychal Judge
+- Thomas Pesquet
+- Valdis Dombrovskis
+organisations:
+- American Airlines
+- Euronews
+- French European Space Agency
+- National Rally Marine Le Pen
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

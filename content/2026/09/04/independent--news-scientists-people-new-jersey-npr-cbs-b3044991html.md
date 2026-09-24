@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- New Jersey
+- United States
+people:
+- David Bauder
+- David Bianculli
+- Eugene Polley
+- Robert Adler
+organisations:
+- Fresh Air”
+- Lazy Bone
+- NBC
+- NPR
+- Rowan University
+- The Associated Press
+- Zenith Electronics
+- Zenith’s “Space Command
 ---
 
 If the TV remote hadn’t been invented, channel surfers and couch potatoes would have to argue about something else. Come to think of it, those surfers and potatoes might not even exist.

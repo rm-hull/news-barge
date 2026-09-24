@@ -11,6 +11,54 @@ image: https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-450-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- US
+people:
+- Anton Shilov
+- Joe Shields
+- Mark Tyson
+organisations:
+- AMD
+- Aaron Klotz
+- Albert Thomas
+- Alibaba
+- Andrew E. Freedman
+- Anton Shilov
+- Bruno Ferreira
+- CPUsAMD
+- CPUsApple
+- CXMT
+- CoolingModder
+- Cybenetics Platinum
+- DRAMCXMT
+- DRAMChina
+- Fylladitakis Published
+- GPUsNvidia
+- GPUsWe
+- Hassam Nasir
+- Hassam Nasir Published
+- Hypertune
+- IFA
+- Intel
+- Joe Shields
+- Jowi Morales
+- Kunal Khullar
+- MSI
+- Mark Tyson Published
+- MotherboardsGigabyte
+- NASMinisforum
+- OverclockingGPU
+- OverclockingOverclocker
+- OverclockingYou
+- PC CasesNoctua
+- Pentagon
+- PremiumHow
+- RAMG.Skill
+- SSDsFlea
+- Tom's Hardware
+- WindowsBy Zak Killian
+- Zak Killian
+- cinephilesBy Hassam Nasir Published
 ---
 
 # PC Components

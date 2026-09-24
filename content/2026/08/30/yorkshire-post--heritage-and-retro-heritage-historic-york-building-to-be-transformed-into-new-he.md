@@ -15,6 +15,29 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Clifton
+- Historic York
+- White House
+people:
+- Baron Grimethorpe
+- Big Ben
+- Carter Towler
+- Currer
+- Edmund Beckett
+- Hannah Coleman
+- Harry Archer
+- William Roberts
+organisations:
+- British History Online
+- HM Revenues and Customs
+- HMRC
+- Inland Revenue
+- Luftwaffe
+- Places For People
+- Post Office Telephone Management
+- Savills
+- The White House
 ---
 
 # Historic York building to be transformed into new health club - and it's opening soon

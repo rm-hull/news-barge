@@ -13,6 +13,13 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Harrogate
+- North Yorkshire
+- Summerbridge
+people: []
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

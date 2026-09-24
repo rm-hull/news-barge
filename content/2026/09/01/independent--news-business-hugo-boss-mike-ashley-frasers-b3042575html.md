@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Bristol
+- Edinburgh
+- Knightsbridge London
+- Leeds
+- Manchester
+people:
+- Frasers
+- Harvey Nichols
+- Hugo Boss
+- Michael Murray
+- Mike Ashley
+- Stephan Sturm
+organisations:
+- Frasers Group
+- Frasers’
+- Harvey Nichols —
+- Sports Direct
 ---
 
 Frasers Group, the retail empire majority-owned by billionaire Mike Ashley, has outlined plans to assume majority control over the German fashion house Hugo Boss.

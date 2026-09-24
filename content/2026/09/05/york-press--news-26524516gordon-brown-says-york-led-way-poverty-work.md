@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Gatwick
+- Two York
+- UK
+- United Kingdom
+people:
+- Dylan Connell
+- Gordon Brown
+- Ms Maskell
+- Rachael Maskell
+- Seebohm Rowntree
+- York
+organisations:
+- Labour
+- So York
+- The Press
+- University of York
+- York Central
 ---
 
 *(Image: Dylan Connell)*

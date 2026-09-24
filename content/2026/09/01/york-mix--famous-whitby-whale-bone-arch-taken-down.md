@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Alaska
+- Barrow
+- West Cliff
+- Whitby Abbey
+- Whitby Town
+- Whitby’s West Cliff
+people:
+- Bronze
+- Mark Crane
+- Sandra Turner
+- Whitby
+organisations: []
 ---
 
 One of Whitby’s most recognisable landmarks has been removed today (Tuesday, 1 September), with ethical bronze replicas set to be put in its place to preserve the town’s maritime heritage.

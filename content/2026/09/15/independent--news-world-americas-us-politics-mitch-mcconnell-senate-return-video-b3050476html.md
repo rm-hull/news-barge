@@ -13,6 +13,24 @@ categories:
 - UK
 - Film & TV
 - Technology & Software
+locations:
+- Capitol Hill
+- Kentucky
+- Ohio
+- Washington, D.C.
+people:
+- '![McConnell'
+- Andy Beshear
+- Elaine Chao
+- Joe Biden
+- Laura Loomer
+- Mitch McConnell
+- SenatorMitch McConnell
+organisations:
+- AI
+- Conference
+- Senate
+- TMZ
 ---
 
 Former Senate GOP leader Mitch McConnell’s return to Capitol Hill — his first public appearance in months — sent the Internet into a tizzy as footage showed the senator spacing out in a way commentators deemed akin to a “zombie.”

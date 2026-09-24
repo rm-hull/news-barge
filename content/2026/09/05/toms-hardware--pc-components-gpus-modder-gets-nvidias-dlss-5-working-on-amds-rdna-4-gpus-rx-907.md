@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- AMD
+- DLSS-NR-on-AMD
+- FSR
+- GPU
+- Get Tom's Hardware
+- GitHub
+- Google News
+- NBA
+- Nvidia
+- RTX
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY.jpg) 

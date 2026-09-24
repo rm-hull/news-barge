@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people:
+- Fionnuala Donnelly
+- Joe Giddens
+organisations:
+- AI
+- DWP
+- Department for Work and Pensions
+- ESA
+- Fraud, Error and Recovery) Bill
+- Government
+- Lakeland
+- Public Authorities
+- State Pension
+- Universal Credit
 ---
 
 *(Image: Joe Giddens)*

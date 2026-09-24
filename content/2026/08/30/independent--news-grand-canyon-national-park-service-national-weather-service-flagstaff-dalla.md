@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bright Angel Campground
+- Bright Angel Creek
+- Colorado River
+- Columbia
+- Concord
+- Dallas
+- Flagstaff
+- Grand Canyon
+- Holly Ramer
+- New Hampshire
+- North Kaibab
+- North Rim
+- Phantom Ranch
+- South Carolina
+people:
+- Erica Viola
+- Jack Schmidt
+- Jeffrey Collins
+- Justin Johndrow
+organisations:
+- Arizona Department of Public Safety
+- Center for Colorado River Studies
+- National Park Service
+- National Weather Service
+- Utah State University
+- ___ Stengle
 ---
 
 A major flash flood at the Grand Canyon forced the evacuation of dozens of people and swept large boulders, metal structures and other debris into the Colorado River that runs through it, the National Park Service said.

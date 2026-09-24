@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Billingham
+- Braemar Road
+- Grangetown Cleveland Police
+- Norton
+- Portrack
+- Roseworth
+- Stockton Fire Station
+- Teesside Magistrates' Court
+- The Causeway
+- Tilery
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- Jaguar
+- Manhunt
 ---
 
 *(Image: POLICE)*

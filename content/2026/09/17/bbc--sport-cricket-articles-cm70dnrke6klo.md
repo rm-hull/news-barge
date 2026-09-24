@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brook
+- Cardiff
+- England
+- India
+- Old Trafford
+- Sri Lanka
+people:
+- '## Dawson'
+- ):** Banton
+- Aneurin Donald
+- Archer
+- Brendon McCullum
+- CardiffSri Lanka
+- Dushmantha Chameera
+- Eshan Malinga
+- Harry Brook
+- Jamie Overton
+- Jos Buttler
+- Kamil Mishara
+- Kamindu Mendis
+- Lahiru Udara
+- Liam Dawson
+- Pathum Nissanka
+- Rathnayake
+- Sonny Baker
+- Tilak Varma
+- Tom Banton
+- Wanindu Hasaranga
+organisations:
+- England
 ---
 
 Highlights: England take the series with 6 wicket win and seven overs to spare

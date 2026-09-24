@@ -11,6 +11,23 @@ image: https://i.guim.co.uk/img/media/89bdef85141697cc32398bc845f1a075100327c3/0
 categories:
 - UK
 - News & Politics
+locations:
+- Illinois
+- Indiana
+- Mexico
+- Michigan
+- Ohio
+- Taylor Farms
+- US
+- Washington DC
+people: []
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- FDA
+- Food and Drug Administration
+- Reuters
+- Taylor Farms de Mexico
 ---
 
 The US’s largest recorded multi-state outbreak of sickness caused by the cyclospora parasite has ended, federal health officials announced on Friday.

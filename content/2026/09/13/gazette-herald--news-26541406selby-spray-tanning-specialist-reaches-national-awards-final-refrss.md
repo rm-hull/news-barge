@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- India
+- North Yorkshire
+- Selby
+- UK
+people:
+- Alison Bell
+- Alison Platt
+- Jessica Crane
+- Katie Godfrey
+- Ms Bell
+- Selby
+organisations:
+- Lilly Rose Spray Tanning
+- Ms Bell
+- North Yorkshire
+- Northminster Business Park
+- Pic
 ---
 
 A spray tanning specialist has reached the national finals of a UK beauty award.

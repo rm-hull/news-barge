@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Brighouse
+- Mediterranean
+- Royd Lane
+- Shrub
+people:
+- Howard Blagbrough
+organisations:
+- Business Improvement District
+- Google
+- Telegraph & Argus
+- The Shrub
 ---
 
 GENERAL Manager Howard Blagbrough tells the Telegraph & Argus about The Shrub in Brighouse

@@ -14,6 +14,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Scotland
+people:
+- Andy Wood
+organisations:
+- GOV.UK
+- HMRC
+- PAYE
+- Tax Barrister UK
 ---
 
 *(Image: Getty Images)*

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlanta
+- Colorado
+- Milwaukee
+- Portland
+- Salt Lake City
+- Washington
+people:
+- Brooke Rollins
+- Chad Douglas
+- Chris French
+- Donald Trump
+- Joe Biden
+organisations:
+- Bureau of Land Management
+- Congress
+- Forest Service
+- Forest Service Associate
+- Forest Service Communications
+- The Associated Press
+- U.S. Forest Service
 ---
 
 The U.S. Forest Service is closing 23 research stations across more than a dozen states as President Donald Trump looks to trim expenses and focus resources in Western states, officials said Thursday.

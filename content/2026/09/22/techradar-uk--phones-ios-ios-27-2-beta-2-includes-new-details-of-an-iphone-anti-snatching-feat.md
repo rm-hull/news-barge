@@ -11,6 +11,19 @@ description: iOS 27.2 beta code suggests Apple might soon launch a thief-thwarti
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/chKH23SAZ9kZvLxUkH7ytg-1920-80.jpg
+locations: []
+people:
+- James
+organisations:
+- 9to5Mac
+- AI
+- Apple Music
+- Apple Watch
+- Aston Martin
+- Clarity Media
+- Google News
+- TechRadar
+- aaronp613
 ---
 
 ![A split image. On the left, and man on a bike is grabbing a phone from a woman&#039;s hand. On the right, a photo of iOS 17 on an iPhone 18 Pro.](https://cdn.mos.cms.futurecdn.net/chKH23SAZ9kZvLxUkH7ytg.jpg)

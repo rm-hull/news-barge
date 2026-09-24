@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Aberbeeg
+- Blaenau Gwent
+- Bridgend
+- Cardiff
+- Delhi Street
+- Earth
+- Flintshire
+- St Athan
+- Swansea
+- UK
+- Vale of Glamorgan
+people:
+- Andy Burnham
+- Barry
+- Brian Berry
+- Christian Williams
+- Kate Dearden
+- Lee Lewis
+- Lee Slocombe
+- Lee Slocombe.
+- Shelley Sawkins
+- Sheri Ingram
+- Tom Jones
+organisations:
+- BBC Breakfast
+- Cardiff Crown Court
+- Channel 5
+- Chris Williams Construction
+- Competition and Markets Authority
+- Cowboy Builders
+- Crown Court
+- Federation of Master Builders
+- LSP Developments
+- Mold Crown Court
 ---
 
 ![Sheri Ingram is photographed sat down in the door way of her home, which is in the process of being renovated. She is holding a blue mug which is placed on her right knee. She has long brown hair past her shoulders and is wearing a blue knitted cardigan. Steps inside her home leading upstairs can be seen behind her through the open doorway. There is Edwardian tiles on each side of the doorway, framing the photo. She is looking away from the camera and is not smiling.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/012a/live/4a6058a0-ac08-11f1-afbf-77fe6d25f635.jpg)

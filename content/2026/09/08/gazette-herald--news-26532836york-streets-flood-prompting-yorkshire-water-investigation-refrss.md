@@ -12,6 +12,24 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Fulford Golf Club
+- Heslington Hall
+- Heslington Lane
+- Main Street
+- York
+people:
+- Andrew Mortimer
+- Kate Ravilious
+- Luke Draper
+organisations:
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- Post Office
+- York Council
+- York Liberal Democrats
+- Yorkshire Water
 ---
 
 Flooding in a York village's streets has prompted concerns and an investigation.

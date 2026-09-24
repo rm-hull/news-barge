@@ -15,6 +15,37 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Hollywood
+- Los Angeles
+- Pacific
+people:
+- Hacks
+- Hacks’
+- Harrison Ford
+- Jean Smart
+- Kate O'Flynn
+- Katherine LaNasa
+- Mariska Hargitay
+- Matthew Rhys
+- Noah Wyle
+- Parkinson
+- Rhea Seehorn
+- Widow’s Bay
+- Zendaya
+organisations:
+- Apple TV
+- Associated Press
+- Charlie's Angels
+- HBO Max
+- NBC
+- Peacock Theater
+- Pluribus
+- Special Victims Unit
+- The Pitt
+- The Studio
+- Widow's Bay
+- YouTube
 ---
 
 The 78th Emmy Awards are here. “The Pitt” will look to find its place in the television pantheon and “Widow's Bay” will ride a storm of buzz into the ceremony Monday night at the Peacock Theater in Los Angeles.

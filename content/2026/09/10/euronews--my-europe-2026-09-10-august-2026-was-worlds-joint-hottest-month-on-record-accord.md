@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Danube
+- Po
+- Rhine
+- Rhône
+- Vistula
+- Western Europe
+people:
+- Copernicus
+- Samantha Burgess
+- Simon Stiell
+organisations:
+- Copernicus
+- European Centre for Medium-Range Weather Forecasts
+- Strategic Lead for Climate at ECMWF
+- UN Climate Change
 ---
 
 ## The global average air temperature in August was 1.65°C above the pre-industrial reference value. With prolonged and early heatwaves, Western Europe broke the summer temperature record set in 2003.

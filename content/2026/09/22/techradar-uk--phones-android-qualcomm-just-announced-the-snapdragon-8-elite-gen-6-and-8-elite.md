@@ -11,6 +11,35 @@ description: We dig into how Qualcomm’s two new flagship chipsets differ and w
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/arJHTxMLwsLBeSHLYD3LKV-1920-80.jpg
+locations:
+- Hawaii
+people:
+- Axel
+- Cristiano Amon
+- Ellie Fortin
+- Lekha Motiwala
+- Prakhar Khanna
+organisations:
+- 16MB Oryon Flex Cache
+- APV
+- Adreno Matrix
+- Apple
+- Axel Metz
+- CPU
+- Elite Gen 6
+- Esquire
+- Google News
+- Hexagon NPU
+- Oppo
+- Original Equipment Manufacturers
+- Product Management
+- Qualcomm
+- Samsung Galaxy
+- Snapdragon
+- TSMC
+- TechRadar
+- University of Warwick
+- Xiaomi
 ---
 
 ![The Snapdragon 8 Elite Gen 6 in a case alongside the logo for the Snapdragon 8 Elite Extreme Gen 6](https://cdn.mos.cms.futurecdn.net/arJHTxMLwsLBeSHLYD3LKV.jpg)

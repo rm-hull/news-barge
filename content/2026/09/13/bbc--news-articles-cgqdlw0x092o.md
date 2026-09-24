@@ -11,6 +11,21 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a10/live/afc97b
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Iran
+people:
+- Andy Burnham
+- Angela Rayner
+- Keir Starmer
+- Laura Kuenssberg
+- Steve Reed
+organisations:
+- BBC Verify
+- Brexit
+- EPC
+- Energy Performance Certificates
+- Labour
 ---
 
 Watch: Angela Rayner says target will be difficult to meet but government "taking action" on social housing

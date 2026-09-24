@@ -13,6 +13,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- White House
+people:
+- Kotaku
+organisations:
+- Instagram
+- TechCrunch
+- Tetris Company
+- Tetris —
+- Trump
 ---
 
 A video game posted to the Trump administration’s website — one that closely resembled Tetris — has been taken down after the Tetris Company complained.

@@ -15,6 +15,39 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - True Crime
+locations:
+- Great Horton Road
+- Great Horton Road Shop
+- Jimmys and Great Horton Road Shop
+- Kirklees Magistrates Court
+- Laisteridge Lane
+people:
+- Ceri Lloyd
+- Ian Walker
+- Jimmy
+- Jimmy’s
+- Tony Brown
+organisations:
+- '## Closure Notice'
+- Allerton Off Licence
+- Anti Social Behaviour
+- Bradford City Hall
+- Bradford Council
+- Bradford District Neighbourhood Support Team
+- Closure Notice
+- Great Horton Road Shop
+- JIMMYS OFF LICENSE
+- Jimmy's
+- Licensing Committee
+- Neighbourhood Policing, Anti-Social Behaviour and Licensing Officers
+- Neighbourhoods and Communities
+- Newsquest
+- Premises 3
+- Trading Standards
+- Under Croft
+- University of Bradford
+- West Yorkshire Police
+- West Yorkshire Trading Standards
 ---
 
 *(Image: T&A)*

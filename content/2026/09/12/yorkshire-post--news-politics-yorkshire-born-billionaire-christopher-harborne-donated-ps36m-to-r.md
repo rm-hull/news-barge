@@ -14,6 +14,23 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Hong Kong
+- Thailand
+- UK
+- US
+people:
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Nigel Farage
+organisations:
+- Daily Telegraph
+- Delo
+- Government
+- House of Lords
+- 'Reform ## Reform UK'
+- The Telegraph
 ---
 
 # Yorkshire-born billionaire Christopher Harborne donated £36m to Reform

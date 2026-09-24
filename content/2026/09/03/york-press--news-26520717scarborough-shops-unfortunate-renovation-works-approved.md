@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- NORTH Yorkshire
+- Ramshill Road
+- Scarborough
+people: []
+organisations:
+- All Supermarket York Ltd
+- Google Maps
+- Highway Authority
+- North Yorkshire Council
+- Scarborough Town Council
 ---
 
 ## Shop’s ‘unfortunate’ retrospective repair works approved despite objections

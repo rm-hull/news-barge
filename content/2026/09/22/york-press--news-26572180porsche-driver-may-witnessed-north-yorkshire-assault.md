@@ -14,6 +14,16 @@ categories:
 - True Crime
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21098637.jpg?type=og-image
+locations:
+- Lowmoor Road
+- North Yorkshire
+- Selby
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
+- Porsche
 ---
 
 *(Image: Newsquest)*

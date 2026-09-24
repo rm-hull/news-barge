@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Barnsley
+- Bradford
+- Cannon Hall Farm
+- Huddersfield
+- Penistone
+- Skeldale Veterinary Centre
+- Sowerby Bridge
+- Thirsk
+- UK
+- West Yorkshire
+people:
+- David Melleney
+- James Herriot
+- Julian Norton
+- Matt Smith
+- Paul Stead
+- Peter Wright
+- Shona Searson
+organisations:
+- Channel 5
+- Donaldson’s Hospital
+- Huddersfield
+- The Yorkshire
+- The Yorkshire Vet
 ---
 
 *(Image: YouTube/Channel 5)*

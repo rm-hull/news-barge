@@ -11,6 +11,36 @@ categories:
 - Technology & Software
 - Science
 - Lifestyle & Fashion
+locations:
+- Qobuz
+- Tidal
+- USB-C
+people:
+- Bose
+- Cecilie Manz
+- Marshall
+- Parker Hall
+- Ryan Waniata
+- Simon Cohen
+organisations:
+- AAC
+- AI Karaoke
+- AI Lighting
+- AirTouch
+- Apple
+- Auracast
+- Black Eyed Peas
+- Google Fast Pair
+- JBL
+- Jawbone Jambox
+- Kef Muo
+- Kilburn III
+- LG
+- SBC
+- Sonos’
+- Sony
+- USB-C
+- WIRED
 ---
 
 If you want to bring your music everywhere, the humble Bluetooth speaker is your best bet. You’ll lose some audio quality compared to bookshelf speakers, but these days, Bluetooth speakers sound pretty great, and let you blast the tunes wherever you go—the backyard, the beach, and beyond.

@@ -12,6 +12,23 @@ image: https://images.euronews.com/articles/stories/09/90/72/18/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Carcassonne
+- France
+people:
+- Benjamin Cottet-Emard
+- C.R.
+- Carcassonne
+- Christophe Barthès
+organisations:
+- '## A'
+- AFP
+- Council of State
+- Euronews
+- Lyon Bar
+- Midi Libre
+- Protection and Security Department
+- RN
 ---
 
 ## A newspaper has released a video filmed in 2025 by police during a night patrol. The officer behind most of the extremist comments is a former paratrooper with close ties to the far-right National Rally party.

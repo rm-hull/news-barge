@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Church Lane
+- Spurriergate
+- York
+people: []
+organisations:
+- Bench Mark Designs
+- York Council
 ---
 
 # Shops in 'very poor condition' in York set for revamp

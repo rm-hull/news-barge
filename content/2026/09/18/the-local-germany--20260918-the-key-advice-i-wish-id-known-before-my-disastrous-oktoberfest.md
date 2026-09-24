@@ -14,6 +14,23 @@ categories:
 - Germany
 - News & Politics
 - Education & Learning
+locations:
+- Germany
+- Helles
+- Löwenbräu
+- Marienplatz
+- Munich
+- Neues Rathaus
+- Oktoberfest
+- Ratskeller
+people:
+- K. Munson
+- Kotzhügel
+- Larry Schulz
+organisations:
+- How Munich
+- Oktoberfest
+- The Local
 ---
 
 When The Local recently asked readers to share their top tips for a successful Oktoberfest, the advice was strikingly consistent – reserve early, bring cash, avoid overdoing it and have a plan.

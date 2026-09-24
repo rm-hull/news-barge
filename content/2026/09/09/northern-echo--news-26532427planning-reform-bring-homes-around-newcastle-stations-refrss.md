@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Bishop Auckland
+- Britain
+- England
+- France
+- Glasgow
+- Japan
+- Liverpool City Region
+- London
+- Manchester
+- Network Rail
+- Newcastle
+people:
+- Anthony Breach
+- Steve Rotheram
+organisations:
+- Arena Photo UK
+- Centre for Cities
+- Liverpool
+- Mayoral Development Corporations
+- Mayoral Development Orders
 ---
 
 *(Image: Arena Photo UK)*

@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Hall Lane
+- Shipley
+people: []
+organisations:
+- Newsquest
+- West Yorkshire Fire Service
 ---
 
 *(Image: Newsquest)*

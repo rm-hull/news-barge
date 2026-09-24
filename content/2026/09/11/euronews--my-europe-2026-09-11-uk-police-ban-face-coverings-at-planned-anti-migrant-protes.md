@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Dover
+- England
+- English Channel
+- Portsmouth
+- UK
+people:
+- Paul Bartolomeo
+organisations:
+- BBC
+- Hampshire Police
 ---
 
 ## Small-boat crossings remain a highly contentious political issue in the UK, where tens of thousands of migrants arrive across the Channel each year.

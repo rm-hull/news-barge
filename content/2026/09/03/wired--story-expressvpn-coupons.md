@@ -14,6 +14,12 @@ categories:
 - Science
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- ExpressKeys
+- ExpressVPN
+- VPNs
 ---
 
 ExpressVPN has been through some uncertain times over the past decade, but the current leadership is solid, and it's worth recommending again. In all that time, tumultuous and otherwise, one thing never changed in our testing: ExpressVPN is insanely fast, packed with features, and simple to use. It's our top pick for setting up a router-level VPN, or for anyone who wants to protect multiple devices.

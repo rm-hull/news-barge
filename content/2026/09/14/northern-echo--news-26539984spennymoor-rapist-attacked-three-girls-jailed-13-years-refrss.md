@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington
+- North Yorkshire
+- Snowdrop Close
+- Spennymoor
+people:
+- Annie Richardson
+- Aunt
+- Harrison Strange
+- Man
+- Miss Richardson
+- Peter Sabiston
+- Richard Bennett
+organisations:
+- County Durham
+- Teesside Crown Court
 ---
 
 A County Durham rapist who preyed on three vulnerable girls was branded “entitled” and a “misogynist” as he was caged for 13 years.

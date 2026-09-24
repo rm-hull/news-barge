@@ -13,6 +13,16 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.gazetteherald.co.uk/resources/images/21472870.jpg?type=og-image
+locations:
+- Bishopthorpe Road
+- Southlands Methodist Church
+- York
+people:
+- Jana Busch
+organisations:
+- Stockholm Environment Institute
+- University of York
+- York Community Energy
 ---
 
 *(Image: Supplied)*

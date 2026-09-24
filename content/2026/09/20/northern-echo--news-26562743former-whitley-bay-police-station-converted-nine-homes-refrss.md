@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21474103.jpg?type=og-image
+locations:
+- Gosforth
+- Hexham
+- Laburnum Avenue
+- Morpeth
+- Newcastle
+- North East
+- North Yorkshire
+- The Old Police Station
+- Whitley Bay
+- YOUR
+- Yarm
+people:
+- Angela Carrington
+- Robbie Peel
+- Robert Peel
+organisations:
+- Bluerock Homes
+- Cooke & Co
+- Northumbria Police
+- Northumbria University
+- Public Notice Portal
 ---
 
 *(Image: Angela Carrington)*

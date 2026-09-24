@@ -14,6 +14,27 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Berlin.
+- Berlin’
+- Biesdorf
+- Germany
+- Hermannstrasse
+- Kladow
+- Prenzlauer Berg
+- Sonnenalle
+- Spandau
+- Wannsee
+people:
+- Editor’
+- Graham Pugh
+- Kevin Hiller
+- Sprengelkiez
+- Writer’
+organisations:
+- BerlinRelo
+- Get the Flat
 ---
 
 In a bit more than the five years I lived in Berlin I moved five times.

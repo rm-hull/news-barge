@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+people:
+- Desirae Krawczyk
+- Joe Salisbury
+- Londoner Salisbury
+- Rajeev Ram
+organisations:
+- BBC Sport
+- Instagram
+- Salisbury
 ---
 
 ![British tennis player Joe Salisbury](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f1ab/live/0aa9edf0-b281-11f1-94d0-89db86965db8.jpg)

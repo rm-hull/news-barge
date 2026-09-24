@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Beijing
+- China
+- Kursk
+- Kyiv
+- Moscow
+- New Yalu River Bridge
+- North Korea
+- North Korea-China-Russia
+- Pyongyang
+- Russia
+- Sino-Korean Friendship Bridge
+- South Korea
+- Tumen
+- Ukraine
+- United States
+- Washington
+people:
+- Lim Eul-chul
+- Pak Thae-song
+organisations:
+- KCNA
+- Kyungnam University
+- Truth Hounds
 ---
 
 ## The opening on Monday came as Russia and North Korea have heavily boosted military and economic ties since Moscow launched its full-scale invasion of Ukraine in 2022.

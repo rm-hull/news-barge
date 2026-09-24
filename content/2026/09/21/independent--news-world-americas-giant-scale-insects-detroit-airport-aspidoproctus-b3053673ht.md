@@ -12,6 +12,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/14/18/Screenshot-2026-09-21-at-15-15-46.png?trim=0,0,72,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- America
+- Cameroon
+- Detroit
+- Europe
+- Ghana
+- Illinois
+- U.S.
+people:
+- Fadia Pastilong
+- Marty C. Raybon
+organisations:
+- CBP
+- Detroit Metropolitan Airport
+- U.S. Customs and Border Protection
+- U.S. Department of Agriculture
+- U.S. Port of Entry
+- USDA
 ---
 
 ​Giant scale insects never seen before at a U.S. port of entry were discovered by officials at a Detroit airport.

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bishopsgate
+- London
+- Old Bailey
+- Vauxhall
+people:
+- Abdul Kaleem Shaik
+- Daniel Levy
+- Lynn Tayton KC
+- Michael Holland KC
+- Peter Ratliff
+organisations:
+- CCTV
 ---
 
 A convicted killer has admitted stabbing his friend to death over New Year’s Eve before handing himself in to police and telling them: “It’s happened again.”

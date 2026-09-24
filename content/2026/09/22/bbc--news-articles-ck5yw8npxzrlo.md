@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db7a/live/4b4ac290-b622-11f1-a430-4d16ee157c41.jpg
+locations:
+- Belarus
+- Estonia
+- Europe
+- Kaliningrad
+- Kaunas
+- Latvia
+- Lithuania
+- Moscow
+- Poland
+- Russia
+- UK
+- Ukraine
+- Vilnius
+- Vilnius.
+people:
+- Mindaugas Sinkevičius
+- Robertas Kaunas
+- Wes Streeting
+organisations:
+- BBC
+- NATO
+- Nato
+- Newshour
+- Newsnight
 ---
 
 ‘We will fight back’ if Russia attacks, Lithuanian PM says

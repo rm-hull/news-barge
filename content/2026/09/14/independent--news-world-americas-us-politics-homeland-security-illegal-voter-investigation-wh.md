@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- California
+- Georgia
+- Nevada
+- New Jersey
+- New York
+- New York City
+- Pennsylvania
+- U.S.
+- White House
+people:
+- Alex Padilla
+- Chuck Schumer
+- Donald Trump
+- Markwayne Mullin
+- Mikie Sherrill
+organisations:
+- DHS
+- Democracy Defenders Fund
+- Heritage Foundation
+- Homeland Security
+- Migration Policy Institute
+- NYT
+- Senate
+- The Independent
+- The New York Times
+- Unlawful Voter Initiative
+- Voter Initiative
 ---
 
 Homeland Security investigators may have violated state laws during a rushed voter-fraud investigation that likely flagged American citizens as suspects, according to a report released Monday.

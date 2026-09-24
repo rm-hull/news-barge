@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21475839.jpg?type=og-image
+locations:
+- Avenue Road
+- Bowling Park
+- Bradford
+people: []
+organisations:
+- Newsquest
+- Telegraph & Argus
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Travel
 - Outdoors & Nature
+locations:
+- Cumbria
+- Darlington
+- Hexham Park Run
+- North East
+- Northumberland
+- Tyne Green
+people:
+- Coun Derek Kennedy
+- Coun Kennedy
+organisations:
+- Hexham Town Council
+- Northumberland County Council
+- Northumbria Police
+- Tyne Green
 ---
 
 A popular Northumberland park has been blighted by caravans, campervans and tents pitching up and camping against regulations.

@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Black
+- Oregon
+- Portland
+- Providence St. Vincent Medical Center
+- U.S.
+people:
+- Alzheimer
+- Benjamin Soskis
+- Dan Oseran
+- Erin Hall
+- Parkinson
+- Penny Knight
+- Phil Knight
+- Ray Moreno
+- _____ Maria Di Mento
+organisations:
+- 1803 Fund
+- AP
+- Chronicle of Philanthropy
+- Forbes
+- Knight Campus
+- Knight Cancer Institute
+- Knight Management Center
+- Knight-Hennessy Scholars
+- Knights’
+- Lilly Endowment
+- MBA
+- Nike
+- Oregon Health & Science University
+- Providence Heart Institute
+- Stanford University
+- The Associated Press
+- The Knights
+- University of Oregon
 ---
 
 Oregon billionaires Phil and Penny Knight committed $1.1 billion to the Providence St. Vincent Medical Center and the Providence Heart Institute to build Oregon’s first hospital dedicated to women’s health, the medical center announced Tuesday.

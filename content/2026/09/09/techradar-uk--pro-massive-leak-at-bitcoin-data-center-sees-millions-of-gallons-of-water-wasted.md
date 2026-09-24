@@ -12,6 +12,32 @@ image: https://cdn.mos.cms.futurecdn.net/XV8r57RnnjGhFjmspCnPn-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Bitcoin
+- Canadian County
+- City Hall
+- El Reno
+- Oklahoma
+- Palo Alto
+people:
+- Athlon
+- Ken Brown
+- Rahim Amir
+- Spencer Humphrey
+- Tony Jiang Shi
+organisations:
+- Athlon BT
+- Athlon Blockchain Technology Corporation
+- El Reno
+- Google News
+- KFOR
+- PC
+- PCs
+- RGB
+- SFF
+- Stanford
+- TechRadar Pro
 ---
 
 ![Bitcoin fail](https://cdn.mos.cms.futurecdn.net/XV8r57RnnjGhFjmspCnPn.jpg) 

@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- NBA
+- WebGPU
+people:
+- Shane Downing
+- Tom
+organisations:
+- Cloudflare Workers
+- DLSS 5
+- GPU
+- GeForce NOW
+- Google News
+- MAAN
+- MAAN's X
+- Nvidia
+- Shane Downing
+- Tom’s Hardware US
+- Vulkan
+- WebGPU
+- __*VideoCardz*__
 ---
 
 ![NBA 2K27 gameplay](https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF.jpg) 

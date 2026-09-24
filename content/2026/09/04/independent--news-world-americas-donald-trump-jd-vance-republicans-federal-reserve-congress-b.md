@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Colombia
+- Cuba
+- Ecuador
+- Iran
+- Jordan
+- Kuwait
+- Latin America
+- Mideast
+- Nicaragua
+- North Carolina
+- Oregon
+- Peru
+- South America
+- Tehran
+- U.S. Gulf
+- U.S.A.
+- US
+- Venezuela
+- Wall Street
+- Washington
+- West Bank
+- Western Hemisphere
+- White House
+people:
+- Christopher Waller
+- Donald Trump
+- JD Vance
+- Kevin Warsh
+- Lori Chavez-DeRemer
+- Marco Rubio
+organisations:
+- Congress
+- Fed
+- Federal Reserve
+- Labor
+- Office of Inspector General
+- Postal Service
+- State Department
+- Trump
 ---
 
 Former Labor Secretary Lori Chavez-DeRemer oversaw a “toxic, intimidating and humiliating” work environment and engaged in numerous violations of department policy, according to a new report from the department’s Office of Inspector General.

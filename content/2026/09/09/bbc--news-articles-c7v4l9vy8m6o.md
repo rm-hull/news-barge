@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Europe
+- London
+- Russia
+- Swindon
+- Ukraine
+- Westminster Magistrates' Court
+people:
+- Dan Jarvis
+- Frank Ferguson
+- Joshua Cammidge
+organisations:
+- CPS
+- CTP
+- Counter Terrorism Policing
+- Crown Prosecution Service
+- Crown Prosecution service
+- GRU Volunteer Corps
+- Metropolitan Police
+- Section 18
+- Section 3
+- Special Crime and Counter Terrorism Division
+- Wiltshire Police
 ---
 
 ![A policeman wearing a high-visibility jacket with the word police written on the back](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/32fa/live/68f07c80-ac78-11f1-994b-c7df927931ed.jpg)

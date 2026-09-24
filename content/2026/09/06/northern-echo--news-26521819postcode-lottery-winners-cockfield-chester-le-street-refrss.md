@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bishop Auckland
+- Chester-Le-Street
+- Chester-le-Street
+- Cockfield
+- County Durham
+- Harrogate
+- Middlesbrough
+- Newcastle
+- North East
+- South Shields
+- Stockton
+- Sunderland
+- UK
+- Urpeth
+- Washington
+people: []
+organisations:
+- Dogs Trust
+- Maggie’s
+- NSPCC
+- Postcode Lottery
+- Treasury
 ---
 
 *(Image: Postcode Lottery)*

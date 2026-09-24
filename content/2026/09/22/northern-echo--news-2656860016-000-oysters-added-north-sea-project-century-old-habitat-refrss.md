@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21485604.jpg?type=og-image&xType=0&yType=33
+locations:
+- North East
+- North Sea
+- Oyster Reef Cubes’
+- UK
+people:
+- Ashleigh Tinlin-Mackenzie
+organisations:
+- Defra
+- Environment Agency
+- Flood and Coastal Innovation Programmes
+- Groundwork NE & Cumbria
+- Groundwork North East
+- Project Baseline UK
+- South Tyneside Council
+- Tyne and Wear
+- ZSL
+- Zoological Society of London
 ---
 
 A restored oyster reef off the North East coast is thriving after thousands of shellfish were added this month.

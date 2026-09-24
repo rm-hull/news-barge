@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Sports
+locations: []
+people:
+- Alfie
+- Arya
+- Diesel
+- Jeremy Clarkson
+- Kaleb Cooper
+- Lisa
+- Rex
+- Sansa
+organisations:
+- Amazon TV
+- Clarkson's Farm
+- Diddly Squat
+- Game of Thrones
 ---
 
 *(Image: Prime Video)*

@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Philippines
+- Shipley
+- Sri Lanka
+people:
+- Diyuni Wisidagamage Don
+- Ian Walker
+- Marilou Armada
+organisations:
+- Bradford Council
+- Bradford Markets
+- Marilou Armada
+- Neighbourhoods and Communities
+- Savoury Ceylon
+- Shipley Market
 ---
 
 A TASTE of Sri Lanka and the Philippines has arrived at a local market.

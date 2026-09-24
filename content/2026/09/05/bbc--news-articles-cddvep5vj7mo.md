@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- England
+- Newcastle
+people:
+- Aaron Dale
+- Gemma
+- James
+- Jamie Laing
+- Michael Owen
+- Patricia Britto
+organisations:
+- BBC
+- Love Island
+- Newcastle Dad
+- Raisingboys2men
 ---
 
 ![A young blonde child wearing a yellow t-shirt is hugged by a man wearing a red t-shirt and a woman wearing a beige striped t-shirt.](https://ichef.bbci.co.uk/ace/standard/838/cpsprodpb/2060/live/ce15c1b0-a86d-11f1-bbad-43eaf67b94b6.jpg)

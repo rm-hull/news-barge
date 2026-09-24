@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/1c2dbacb3799105d4e0f77d6315b1d0ae1ca5ae8/1351_102_5986_4789/master/5986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21fb7c2b08c9637520d40d704347c4b6
+locations:
+- Barbados
+- Britain
+- Caribbean
+- Jamaica
+- London
+- UK
+- United Kingdom
+people:
+- Andy Burnham
+- Charles
+- Hilary Beckles
+- Olivia Grange
+- Zong
+organisations:
+- British Museum
+- Caricom Reparations Commission
+- Commonwealth
+- ICJ
+- International Court of Justice
+- Judicial Committee
+- UN
 ---
 
 King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals court for legal advice, Jamaica’s culture minister announced in parliament on Tuesday.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brisbane
+- Cincinnati
+- Flushing Meadows
+- Miami
+- Toronto
+people:
+- Aryna Sabalenka
+- Elena Rybakina
+- Emma Navarro
+- Jessica Pegula
+- Linda Noskova
+- Serena Williams
+- Taylor Townsend
+- Zheng Qinwen
+organisations:
+- Indian Wells
 ---
 
 ![Aryna Sabalenka, wearing an orange sleeveless dress, stands side on and raises a clenched left fist](https://ichef.bbci.co.uk/ace/standard/986/cpsprodpb/6342/live/4c500960-abb5-11f1-bb85-fd7540ffe1df.jpg)

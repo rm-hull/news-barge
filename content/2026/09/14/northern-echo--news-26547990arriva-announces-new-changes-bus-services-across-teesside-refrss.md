@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Travel
 - Education & Learning
+locations:
+- Darlington
+- Dormanstown
+- East Cleveland
+- Guisborough
+- Lingdale
+- Marske Estate
+- Middlesbrough Bus Station
+- New Marske
+- North East
+- Redcar Clock
+- Redcar High Street
+- Rosedale Crescent
+- Stockton
+people: []
+organisations:
+- Arriva
+- Outwood Academy
 ---
 
 *(Image: NEWSQUEST)*

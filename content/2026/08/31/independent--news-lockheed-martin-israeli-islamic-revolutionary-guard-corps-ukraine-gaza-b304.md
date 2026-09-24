@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Airwars'
+- Australia
+- Barzegar
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Lamerd
+- Minab
+- PrSM
+- Shahid Naimi Sports Hall
+- Syria
+- Tal-e Khandagh
+- U.K.
+- U.S.
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Adm
+- Avina Barzegar
+- Brad Cooper
+- Collin Binkley
+- Konstantin Toropin
+- Lamerd
+- Michael Meier
+- Trevor Ball
+- Wes Bryant
+organisations:
+- AP
+- ATACMS
+- Airwars
+- Airwars’
+- Army Tactical Missile System
+- Associated Press
+- Central Command
+- Congress
+- Islamic Revolutionary Guard Corps
+- Lockheed Martin
+- Pentagon
+- PrSM
+- Precision Strike Missile
+- The Associated Press
+- U.S. Army
+- U.S. Central Command
 ---
 
 It has been touted by the manufacturer as the ballistic missile of the future: lethal, long-range, and pinpoint. Lockheed Martin’s Precision Strike Missile has the U.S. military investing billions to update its arsenal.

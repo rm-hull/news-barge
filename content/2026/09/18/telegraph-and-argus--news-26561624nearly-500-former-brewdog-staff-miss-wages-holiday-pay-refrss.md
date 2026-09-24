@@ -15,6 +15,15 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- UK
+- US
+people: []
+organisations:
+- AlixPartners
+- BrewDog PLC
+- HMRC
+- Tilray
 ---
 
 *(Image: Brewdog)*

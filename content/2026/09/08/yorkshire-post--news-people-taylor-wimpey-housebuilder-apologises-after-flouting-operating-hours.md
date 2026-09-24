@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Cat Flatt Lane
+- Marske
+- Redcar
+- Silverdale Gardens
+people:
+- Claire Griffiths
+- Coun Learoyd
+- Stuart Smith
+- Taylor Wimpey
+- Tristan Learoyd
+organisations:
+- Cleveland Council
+- Committee
+- Housebuilder
+- Local Democracy Reporting Service
+- Marske
+- Redcar
+- Taylor Wimpey
 ---
 
 # Taylor Wimpey: Housebuilder apologises after flouting operating hours on new estate

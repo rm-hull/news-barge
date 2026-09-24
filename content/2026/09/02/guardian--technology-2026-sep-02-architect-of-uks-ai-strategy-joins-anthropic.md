@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Asia
+- Asia-Pacific
+- Downing Street
+- Europe
+- India
+- Silicon Valley
+- UK
+- US
+people:
+- Beeban Kidron
+- Chi Onwurah
+- George Osborne
+- Keir Starmer
+- Matt Clifford
+- Nick Clegg
+- Rishi Sunak
+- Tom Brake
+organisations:
+- AI Security Institute
+- Advanced Research and Invention Agency
+- Anthropic –
+- Aria
+- Entrepreneurs First
+- Labour
+- Liberal Democrat
+- Meta
+- Microsoft
+- OpenAI
+- Unlock Democracy
 ---
 
 The architect of the UK government’s AI strategy has joined the US startup Anthropic in a senior role a year after stepping down from his Downing Street post.

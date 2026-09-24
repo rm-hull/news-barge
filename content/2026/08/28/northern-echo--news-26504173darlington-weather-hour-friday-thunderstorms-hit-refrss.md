@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Darlington
+- North East
+- West
+people: []
+organisations:
+- Met Office
 ---
 
 People across Darlington and County Durham are being urged to keep an eye on the skies today after the Met Office issued a yellow thunderstorm warning over the North East.

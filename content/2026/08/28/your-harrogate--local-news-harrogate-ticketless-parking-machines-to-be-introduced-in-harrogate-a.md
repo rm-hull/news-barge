@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - Technology & Software
 - Automotive
+locations:
+- Harrogate
+- Ripon
+people:
+- Jackie Crozier
+organisations:
+- North Yorkshire Council
+- Ripon Spa
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9131df32d911778ee.jpg) 

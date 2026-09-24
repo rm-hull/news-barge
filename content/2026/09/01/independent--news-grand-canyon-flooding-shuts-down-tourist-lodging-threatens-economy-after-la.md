@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arizona
+- Bright Angel Lodge
+- Colorado
+- Fort Collins
+- Grand Canyon
+- Grand Canyon Camper Village
+- Grand Canyon National Park
+- Grand Canyon Plaza Hotel
+- Kansas
+- Las Vegas
+- Maswik Lodge
+- Nevada
+- North Rim
+- Olathe
+- Phantom Ranch
+- Phoenix
+- South Rim
+- Trailer Village
+- Tusayan
+- Western U.S.
+- Yavapai Lodge
+people:
+- Christine Vogt
+- Clarinda Vail
+- Gruver
+- Joan Marquez
+- Megha Budruk
+- Michelle Allen
+- Stephanie Plieness
+- Steven Ayres
+- Ty O'Neil
+organisations:
+- Arizona State University
+- Delaware North
+- El Tovar Hotel
+- National Park Service
+- Xanterra
 ---
 
 Deadly flooding at the Grand Canyon threatens to cause economic damage, with a washed-out pipeline severing the South Rim's water supply and shutting down lodging at the popular tourist vista for an indefinite period.

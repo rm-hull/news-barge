@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Bristol
+- Pocklington
+people:
+- Becki
+- Lexi Medforth
+organisations:
+- '## Brave Yorkshire'
+- Hero Arm
+- NHS
+- Open Bionics
+- Open Bionics Clinic
+- Open Bionics Foundation
 ---
 
 ## Brave Yorkshire teenager who raised £20,000 for bionic arm wins top award

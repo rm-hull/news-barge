@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations: []
+people:
+- Harding
+organisations:
+- Amazon
+- Baylis & Harding
+- Baylis & Harding Oud
+- Cedar & Amber 1L Hand Wash Refill
+- EC
+- Ocado
+- Office for Product Safety & Standards
+- Sainsbury’s
+- Waitrose & Partners
+- Waitrose Customer Care
 ---
 
 *(Image: Getty)*

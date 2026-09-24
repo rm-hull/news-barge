@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Tom
+organisations:
+- AI
+- Hardware
+- Nvidia
+- Premium OpenAI
+- Samsung
+- Valve
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

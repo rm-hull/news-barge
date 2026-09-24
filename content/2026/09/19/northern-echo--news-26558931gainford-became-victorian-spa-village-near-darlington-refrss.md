@@ -14,6 +14,27 @@ categories:
 - Travel
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21467933.jpg?type=og-image
+locations:
+- Barnard Castle
+- Bath
+- Britain
+- County Durham
+- Darlington
+- Gainford railway station
+- Harrogate
+- Northumbria
+- River Tees
+- Spa Boarding House
+- St Cuthbert
+- St Mary's Church
+- Teesdale
+people:
+- Gainford
+organisations:
+- Anglo-Saxon Northumbria
+- Bishop Auckland
+- Darlington
+- Gainford and Langton Parish Council
 ---
 
 *(Image: NORTHERN PERSPECTIVES/CAMERA CLUB)*

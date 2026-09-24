@@ -14,6 +14,41 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Angola
+- Asia
+- Europe
+- Frankfurt
+- Iberia
+- Istanbul
+- Johannesburg
+- Juba
+- Kinshasa
+- Libreville
+- Luanda
+- Lusaka
+- Madrid
+- Quatro de Fevereiro
+people: []
+organisations:
+- ATO
+- AVIC
+- Air France
+- Airlink
+- António Agostinho Neto International Airport
+- Brussels Airlines
+- Compagnie Africaine d'Aviation
+- Ethiopian Airlines
+- Iberia —
+- Lufthansa Group
+- Planning and Quality Vissolela Chivunda
+- Qatar Airways
+- Royal Air Maroc
+- SAA
+- South African Airways
+- TAAG Angola Airlines
+- TAP Air Portugal
+- Turkish Airlines
 ---
 
 ## The Istanbul carrier permanently axed Luanda, along with four other African routes, becoming the latest international airline to exit the Angolan capital since its new airport opened in 2023. The facility was built for 15 million annual passengers but handled fewer than 800,000 in 2025.

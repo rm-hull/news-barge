@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ccc/live/80476360-b67f-11f1-97fb-8d66d3951490.jpg
+locations:
+- County Donegal
+- Creggan
+- Derry
+- Letterkenny
+- Londonderry
+- Maghaberry Prison
+- Northern Ireland
+- Republic of Ireland
+- St Mary's Church
+- UK
+people:
+- Babington
+- Danny Shaw
+- Francesca Kelly
+- Gary Anderson
+- Justice Rooney
+- Karol Kelly
+- Magilligan
+- Naomi Long
+- Sean
+organisations:
+- BBC News NI
+- CTR
+- DSO
+- Departmental Solicitor's Office
+- Justice
+- NIPS
+- Northern Ireland Prison Service
+- Prison Service
 ---
 
 ![Shows a woman with blonde hair and wearing a yellow top](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/0ccc/live/80476360-b67f-11f1-97fb-8d66d3951490.jpg)

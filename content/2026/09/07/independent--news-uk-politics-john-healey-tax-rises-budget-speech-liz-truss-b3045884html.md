@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Coventry
+- Middle East
+- North of England
+- Russia
+- UK
+- US
+- Ukraine
+- Whitehall
+people:
+- Aked
+- John Healey
+organisations:
+- British Business Bank
+- Budget
+- JLR
+- Jaguar Land Rover
 ---
 
 John Healey has refused to rule out further tax rises ahead of the Budget as he delivered his first major speech as chancellor.

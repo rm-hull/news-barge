@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brighton
+- Hebron
+- Iran
+- Israel
+- London
+- Masafer Yatta
+- UK
+- US
+- Umm al-Khair
+- West Bank
+people:
+- '![Joughin'
+- Awdah Hathaleen
+- Belal
+- Finn Joughin
+- Inbar Shaked Vardi
+organisations:
+- BBC
+- Foreign Office
+- Population and Immigration Authority
+- The Independent
 ---
 
 A British citizen who was deported from Israel says he was locked in a shed and held at gunpoint by Israeli settlers after trying to prevent them from entering a Palestinian village.

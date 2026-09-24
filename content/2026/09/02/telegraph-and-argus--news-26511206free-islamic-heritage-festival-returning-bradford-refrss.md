@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Emm Lane
+- Mustafa Mount
+people:
+- Rabiʿ al-Awwal
+- Souq Uthman
+organisations:
+- Abū’l-Qāsim Festival of Culture
+- Fitra Café
 ---
 
 *(Image: Supplied)*

@@ -11,6 +11,30 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e10a40764805913e5df05ca0e83f6d195e7f184c/818_0_5269_4216/master/5269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec147f88b05df07931aba6104a0fcdae
+locations:
+- America
+- Detroit
+- Gaza
+- Georgia
+- Israel
+- Michigan
+- Nevada
+- US
+- United States
+- White House
+people:
+- Abdul El-Sayed
+- Biden-Harris
+- Donald Trump
+- Gary Peters
+- Haley Stevens
+- Joe Biden
+- Kamala Harris
+- Mike Rogers
+organisations:
+- Democrats’
+- Quinnipiac University
+- Senate
 ---
 
 Kamala Harris returned to Michigan on Tuesday to campaign for Abdul El-Sayed, lending her popularity among Black voters to a progressive Senate nominee still working to unite a party fractured by a bruising primary – and the former vice-president’s loss to Donald Trump in the state.

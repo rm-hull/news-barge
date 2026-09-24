@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Afghanistan
+- Hangu
+- Islamabad
+- Kabul
+- Khyber Pakhtunkhwa
+- Kohat
+- Peshawar
+- Tehrik-e-Taliban Pakistan
+people:
+- Bilal Faizi
+- Shehbaz Sharif
+- Zulfiqar Hameed
+- ___ Ahmed
+organisations:
+- TTP
 ---
 
 A powerful bomb exploded Friday at a mosque near a building housing police offices in northwestern Pakistan, killing at least 15 people and wounding 56 others, police and rescue officials said. The attack came as violence has surged in the region with security forces targeting militants.

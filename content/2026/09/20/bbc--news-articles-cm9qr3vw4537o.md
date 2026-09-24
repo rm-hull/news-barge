@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e03/live/e8212b50-b513-11f1-b111-b96575521f6d.jpg
+locations:
+- Isle of Sheppey
+- Kent
+- Leysdown
+- Whitstable
+people:
+- Becky Hill
+- Cliff Roney
+- Dani Dyer
+- Danny Dyer
+- Ed Acteson
+- Nick Mills
+organisations:
+- BBC
+- Defra
+- EastEnders
+- GMB
+- Leysdown
+- SOS Whitstable
+- Southern Water
+- Surfers Against Sewage
+- Swalecliffe Wastewater Treatment Works
+- Water UK
 ---
 
 ![A man, Danny Dyer, and a woman, Dani Dyer, stood next to each other in front of a group of protesters.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8e03/live/e8212b50-b513-11f1-b111-b96575521f6d.jpg)

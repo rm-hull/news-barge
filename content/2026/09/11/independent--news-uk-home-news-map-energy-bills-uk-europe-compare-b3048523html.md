@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- Europe
+- France
+- Germany
+- Great Britain
+- Ireland
+- Middle East
+- Netherlands
+- Scotland
+- Sweden
+- UK
+- Wales
+people:
+- Andy Burnham
+- Nigel Farage
+organisations:
+- Commons
+- Department for Energy Security
+- EU
+- IEA
+- International Energy Agency
+- NAO
+- National Audit Office
+- Ofgem
+- Reform UK
 ---
 
 Household electricity bills in the UK are some of the highest in Europe, data suggests.

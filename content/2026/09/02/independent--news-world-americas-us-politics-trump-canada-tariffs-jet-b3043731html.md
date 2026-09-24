@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- Northern
+- Ontario
+- Ottawa
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+organisations:
+- Bombardier Global Express
+- Citibank
+- Conservative Party
+- Federal Aviation Administration
+- Gulfstream
+- Oval Office
+- Transport Canada
+- Trump
+- Truth Social
+- U.S. Trade Representative
 ---
 
 President Donald Trump said Wednesday that his threat to impose 50 percent tariffs on every aircraft Canada sells into the United States began with a favor for a wealthy friend who was trying to buy a private jet and could not.

@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Arizona
+- Phoenix
+- Utah
+people:
+- Charlie Kirk
+- Donald Trump
+organisations:
+- Turning Point USA
 ---
 
 A newly unveiled statue of the rightwing activist Charlie Kirk was vandalized at the Turning Point USA headquarters in Phoenix, Arizona.

@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Canada
+- Europe
+- US
+- United States
+- Vancouver
+people:
+- Mark Carney
+organisations:
+- EU
+- European Union
 ---
 
 Canadians in Vancouver have reacted to Prime Minister Mark Carney’s proposal to deepen ties between Canada and the European Union.

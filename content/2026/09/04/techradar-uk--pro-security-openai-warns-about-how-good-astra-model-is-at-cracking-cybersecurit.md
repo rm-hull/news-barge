@@ -10,6 +10,23 @@ description: GPT-6 Astra was paused a month ago for triggering safety protocols
 image: https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sam Altman
+- Sead
+organisations:
+- AWS Bedrock
+- Al Jazeera Balkans
+- Astra
+- Daybreak
+- Google News
+- Microsoft Azure
+- OpenAI API
+- Represent Communications
+- TechRadar Pro
+- Verge
 ---
 
 ![OpenAI GPT-6 Astra](https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36.jpg) 

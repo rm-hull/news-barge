@@ -13,6 +13,58 @@ image: https://images.euronews.com/articles/stories/09/90/24/62/1200x675_cmsv2_0
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgrade
+- Bosnia
+- Brussels
+- Croatia
+- Europe
+- Iceland
+- Košutnjak
+- Sarajevo
+- Serbia
+- Slovenia
+- Srebrenica
+- The Hague
+- Uzbekistan
+- Yugoslavia
+people:
+- '## Sparks'
+- Aleksandar Vučić
+- Butcher
+- Darko
+- Marta Kos
+- Michael O’Flaherty
+- Nenad Vujić
+- O'Flaherty
+- Ratko Mladić
+- Roberta Metsola
+- Shavkat Mirziyoyev
+- Slobodan Milošević
+- Ursula von der Leyen
+- Vikingur Reykavik
+organisations:
+- Alley of Distinguished Citizens
+- Alley of the Greats
+- Council of Europe
+- EPP
+- EU
+- Euronews
+- European Commission
+- European Convention on Human Rights
+- European People’s Party
+- FK Borac Banjaluka
+- House of the Serbian Army
+- ICTY
+- International Criminal Tribunal
+- International Residual Mechanism for Criminal Tribunals
+- Justice
+- Red Star
+- Red Star Belgrade
+- SPS
+- Serbian Progressive Party
+- UEFA
+- Viktoria Plzeň
 ---
 
 ## Thousands are expected at Mladić's burial in Belgrade on Monday, which will proceed without serving officials, artillery salutes or ceremonial military presence. Brussels has earlier said any glorification would be "incompatible with the values on which the EU path is built".

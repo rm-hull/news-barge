@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Adessia Stream
+- Britain
+- Derby
+- Litchurch Lane
+- London
+- Manchester
+- UK
+people:
+- Andy Burnham
+- Heidi Alexander
+organisations:
+- Alstom
+- British Railways
+- TransPennine Express
 ---
 
 No 10 has announced the construction of a new fleet of battery-powered trains that will “bring faster, more reliable journeys to the north”.

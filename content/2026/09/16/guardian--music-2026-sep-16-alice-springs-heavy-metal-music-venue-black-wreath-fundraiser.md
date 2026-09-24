@@ -15,6 +15,20 @@ categories:
 - Travel
 - Sports
 - Music
+locations:
+- Alice Springs
+- Australia
+- Black Wreath
+- Earth
+- Melbourne
+people:
+- Alice Springs
+- Pirate
+organisations:
+- Black Wreath
+- First Nations
+- Pirate
+- The Black Wreath
 ---
 
 Alice Springs has a population of 34,000 and exactly one dedicated live music space: a heavy metal venue called the Black Wreath. It has hosted hundreds of bands from around the country over the past decade – despite being 1,500km from the nearest city.

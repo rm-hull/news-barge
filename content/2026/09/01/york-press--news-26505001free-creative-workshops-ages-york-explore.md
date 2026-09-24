@@ -12,6 +12,41 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acomb
+- Clifton
+- North of England
+- Tang Hall
+- York Explore
+people:
+- Dave Fleming
+- Gracie Richmond
+- Kate Valentine
+- Katie Matthews
+- Paul Birch
+- Thomas Mason
+organisations:
+- Archive
+- Arts Council England
+- Clifton Explore
+- Clifton Explore Libraries
+- Creative Cafés
+- Digi Club
+- Digital Drama
+- Explore Labs Digital Making Youth Club
+- Explore York Archives
+- Explore York Libraries
+- Explore York Libraries and Archives
+- HYEN
+- History Misbehaves
+- JORVIK Radio
+- NPO
+- National Lottery
+- National Portfolio Organisation
+- Riding Lights Theatre Company
+- York Explore
+- York Explore Library
+- York Explore Participant
 ---
 
 ## Free creative workshops for all ages launch at York Explore

@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/BMG62ZMAmRWXTtSDCsgsZS-1028-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Amazon
+- Shokz
+- US
+people:
+- Bose
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Bose Ultra
+- Digital Trends
+- GamesRadar
+- Google News
+- OpenDots Air
+- Shokz OpenFit
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- TrueSpatial Audio
+- Ultras
+- WhattoWatch
 ---
 
 ![The Bose Sport Open Earbuds next to their case on a shelf.](https://cdn.mos.cms.futurecdn.net/BMG62ZMAmRWXTtSDCsgsZS.jpg) 

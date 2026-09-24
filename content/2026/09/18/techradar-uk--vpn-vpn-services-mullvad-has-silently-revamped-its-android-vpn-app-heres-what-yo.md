@@ -10,6 +10,20 @@ description: The update brings an interactive server map and a new multi-hop fun
 image: https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH-2498-80.jpg
 categories:
 - Technology & Software
+locations:
+- Mullvad
+people:
+- Mullvad
+- Silvia Iacovcich
+organisations:
+- DAITA
+- GitHub
+- Google News
+- Google Play
+- Mullvad
+- No Trace
+- Silvia Iacovcich
+- VPN
 ---
 
 ![Mullvad VPN app logo on screen](https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH.jpg) 

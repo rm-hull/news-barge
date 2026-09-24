@@ -14,6 +14,51 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://www.thetelegraphandargus.co.uk/resources/images/21467872.jpg?type=og-image
+locations:
+- Britain
+- Harrogate
+- Westminster
+people:
+- Agatha Christie
+- Alexander McCall Smith
+- Alison Stankard
+- Ben Okri
+- Dame Prue Leith
+- David Lascelles
+- Gerard Binks
+- Gottlob Berger
+- Greg Mosse
+- Heather Morris
+- John Curtice
+- John Sergeant
+- Jonny Hincks
+- Julian Clary
+- Kate Mosse
+- Laura Thompson
+- Lord Jonathan Sumption
+- Loukia Drosopoulou
+- Lucy Easthope
+- Paul Brand
+- Rachel Tunnicliffe
+- Samira Ahmed
+- Sharon Canavar
+- Sophie Raworth
+- Susan Brownrigg
+- Vaseem Khan
+- Victoria Tomlinson
+organisations:
+- Agatha Christie
+- Box Office
+- British Library
+- Cedar Court Hotel
+- Harrogate International Festivals
+- Ladies’ Detective Agency
+- POW
+- Raworths Solicitors
+- Supreme Court
+- The Crown Hotel
+- Totes Inappropes
+- Yorkshire Life Literary Lunch
 ---
 
 *(Image: Gerard Binks)*

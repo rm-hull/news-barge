@@ -14,6 +14,27 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Catterick Garrison
+- Coronation Park
+- New Catterick Garrison
+- North Yorkshire
+- Scarborough
+- Shute Road
+- Whitby
+people:
+- Colburn
+- Coun Foster
+- Hipswell
+- Kevin Foster
+- Mark Crane
+organisations:
+- Catterick Community
+- Catterick Community and Enterprise Building
+- Colburn
+- HIVE
+- Ministry of Defence
+- North Yorkshire Council
 ---
 
 # New Catterick Garrison community hub set to cost £233,000 a year to run

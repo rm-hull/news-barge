@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Iraq
+- Michie Stadium
+- New York
+- US
+- West Poin
+- White House
+people:
+- Dan Driscoll
+- David Hodne
+- Donald Trump
+- JD Vance
+- John Phelan
+- Pete Hegseth
+- Randy George
+- Volodymyr Zelensky
+- William Green
+organisations:
+- Air Force
+- BBC
+- Bureau of Alcohol, Tobacco, Firearms and Explosives
+- CBS
+- National Guard
+- Navy
+- Pentagon and Army
+- US Army
+- United States Military Academy
+- Yale Law School
 ---
 
 ![Secretary of the Army Dan Driscoll arrives for the United States Military Academy commencement ceremony in Michie Stadium at West Poin in New York as a service member salutes behind him.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg)

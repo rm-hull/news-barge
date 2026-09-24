@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Russia
+- Ukraine
+- York Central
+- York Minster
+people:
+- )* York
+- Claire Douglas
+- Maryana Mukha
+- Rachael Maskell
+- Rebecca Russell
+organisations:
+- City of York Council
+- York City of Sanctuary
+- York Minster
+- York Ukrainian Society
 ---
 
 ## Ukrainians gather at York Minster to mark 35 years of independence

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Broxtowe
+- Cotswolds
+- East Midlands
+- East Renfrewshire
+- East and West Midlands
+- East of England
+- Newcastle-Under-Lyme
+- PA
+- Rotheram
+- Rotherham
+- Scotland
+- South Yorkshire
+- UK
+- West Midlands
+people:
+- Alan Milburn
+- Andy Burnham
+- Jim Knight
+organisations:
+- Gloucester
+- Horsham
+- IPPR
+- Labour
+- Milburn Review
+- National Insurance
+- Tonbridge
+- Woking
 ---
 
 Young people across the UK face major regional disparities in finding work, new research has found, as the worst areas to be not in education, training or employment (Neet) are revealed.

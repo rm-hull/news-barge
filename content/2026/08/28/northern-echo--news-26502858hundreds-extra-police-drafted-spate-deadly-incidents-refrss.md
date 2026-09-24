@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Birchington Avenue
+- CLEVELAND
+- County Durham
+- Eston
+- Grangetown
+- Haswell
+- Middlesbrough
+- NORTHERN ECHO
+- Peterlee
+- Sedgemoor Road
+- South Bank
+- Steele Crescent
+- Teesside
+- Thornaby East
+people:
+- ASHLEY FERGUSON
+- Alec Brown
+- Andy McDonald
+- Anna Turley
+- Cole Worthy
+- Jakub Matusiak
+- Josh Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- Natalie McDonald
+- OWEN HUMPHRIES
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- BBC Radio 4
+- CARMEL COLLEGE
+- Cleveland Council
+- Cleveland Police
+- Middlesbrough
+- National Crime Agency
+- Redcar
+- TS6
+- Times Radio
 ---
 
 *(Image: NORTHERN ECHO)*

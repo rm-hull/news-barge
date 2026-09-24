@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations: []
+people:
+- Aardman
+- Alice Brown
+- Alice Browne
+- SHAUN the Sheep
+organisations:
+- Aardman
+- Bradford
+- Explainers
+- Kids’ Club
+- Mossy Bottom Laboratory
+- National Science and Media Museum
+- Pictureville Cinema
+- Sky Original
 ---
 
 *(Image: Alice Brown)*

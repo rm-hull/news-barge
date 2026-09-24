@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Beverley
+- Dunnington
+- Giant Bradley Way
+- Holme Road
+- Hull
+- Market Weighton
+- North Cliffe
+- York
+people: []
+organisations:
+- AA Traffic News
 ---
 
 *(Image: Newsquest)*

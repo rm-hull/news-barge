@@ -14,6 +14,42 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/21/2295916492..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- North Carolina
+- White House
+people:
+- Barack Obama
+- Breitbart
+- Bryan Boughton
+- Donald Trump
+- God
+- JD Vance
+- Joe Biden
+- Knight
+- Sean Curran
+- Sherrill
+- Steven Cheung
+- Susie Wiles
+organisations:
+- Breitbart News
+- Circuit Court of Appeals
+- D.C
+- FAKE NEWS
+- Fake News CNN
+- First Amendment
+- Fox News Washington Bureau
+- Joint Base Andrews
+- MS
+- MSNOW
+- National Security
+- Politico
+- Republican White House
+- Secret Service
+- The New York Times
+- Trump White House
+- Truth Social
+- Vance
+- White House Correspondents’ Association
 ---
 
 Vice President JD Vance on Monday defended President Donald Trump’s decision to revoke White House access for CNN, MS NOW and *Politico*, calling the move “totally appropriate” and denying that the administration was targeting press freedom.

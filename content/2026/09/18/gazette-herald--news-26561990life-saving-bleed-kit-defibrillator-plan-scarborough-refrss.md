@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Lord Rosebery Wetherspoon
+- North Yorkshire
+- Scarborough
+- St John’s Ambulance
+- Westborough
+people: []
+organisations:
+- Bleed Cabinet Designs
+- Bleed Kit Cabinet
+- Nationwide Building Society
+- North Yorkshire Council
+- Planning and Licensing Committee
+- St John'S Ambulance Defibrillator
 ---
 
 THE installation of a new defibrillator and bleed kit in a North Yorkshire town has been backed by local councillors.

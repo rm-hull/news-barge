@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Ayutthaya
+- Thailand
+- Wat Phutthaisawan
+people:
+- '** Phra Wachirayan Wi'
+- Anutin Charnvirakul
+- Pattanasak Bupphasuwan
+- Phra Wachirayan
+- Punyavee Rungrueang
+organisations:
+- CCTV
+- Phra Wachirayan
+- The Bangkok Post
+- The Nation
 ---
 
 ![Seized assets, including gold, jewellery, watches and Thai Baht bank notes](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg)

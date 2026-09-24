@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- New Jersey
+- U.S.
+people:
+- Bruce Springsteen
+- Jason Schneiderman
+- Luis Javier Rodriguez
+- Meg Day
+- Nikki Grimes
+- Robert Pinsky
+- Ruth Lilly
+organisations:
+- Graywolf Press
+- Library of Congress
+- Poetry Foundation
 ---
 
 Former U.S. poet laureate Robert Pinsky has received a $100,000 lifetime achievement award and poet-children's author Nikki Grimes has been named the next Young People's Poet Laureate, the Poetry Foundation announced Wednesday.

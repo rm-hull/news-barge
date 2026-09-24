@@ -12,6 +12,27 @@ categories:
 - York
 - Food & Cooking
 - Arts & Culture
+locations:
+- Barley Hall
+- Parliament Street
+- St Leonard
+- St Sampson’s Centre
+- St Sampson’s Square
+- The Chopping Block
+- UK
+- York Mansion House
+people:
+- '**Freya Cox'
+- Claire Syrenne
+- Darren Gurry
+- Florian Poirot
+- Michael Hjort
+- Yahala Mataam
+organisations:
+- Parliament Street
+- St Sampson’s Centre
+- York Cocoa Works
+- Yorkshire
 ---
 
 The York Food & Drink Festival is returning for 10 days of food, drink, demonstrations, tastings, trails and entertainment.

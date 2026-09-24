@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- NHS
+- Sully
+- UK
+- Vale of Glamorgan
+- Wales
+people:
+- Aneurin Bevan
+- Emma Jones
+- Emma Thomas
+- Ffion
+- Janett
+- Michelle Olver
+- Rebeccah Tomlinson
+organisations:
+- BBC Wales
+- GP
+- HRT
+- Menopals Cardiff
+- NHS
+- NICE
+- National Institute for Health and Care Excellence
+- Vale
 ---
 
 ![Different types of HRT are laid out on a table, including tablets, patches, spray and gel. In the centre is a small sachet of testosterone gel.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/250c/live/64760600-a2b6-11f1-9024-715001d09aeb.jpg)

@@ -13,6 +13,32 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Ceuta
+- Gaza
+- Israel
+- Madrid
+- Melilla
+- Morocco
+- North Africa
+- Rabat
+- Russia
+- Schengen
+- Spain
+people:
+- Alberto Núñez Feijóo
+- Fernando Grande-Marlaska
+- Juan Fernando López Aguilar
+- Juan Jesús Vivas
+- Sánchez
+organisations:
+- EU
+- Euronews
+- Euronews’
+- European Commission
+- Frontex
+- Interior Ministry
+- interior ministry
 ---
 
 ## The crisis deepened Wednesday after a leaked report alleging Moroccan forces helped push migrants across the border blindsided the government. Madrid denies having ignored warnings of an imminent breach.

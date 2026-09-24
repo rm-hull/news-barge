@@ -11,6 +11,18 @@ image: https://static.independent.co.uk/2026/09/16/17/52/Jamie-Allen-Northampton
 categories:
 - News & Politics
 - UK
+locations:
+- Duston
+- Northampton Crown Court
+people:
+- Jamie Allen
+organisations:
+- DAIU
+- DC McDaid
+- Domestic Abuse Investigation Unit
+- Northamptonshire Police
+- Response Team
+- West LPA Domestic Abuse Investigation Unit
 ---
 
 A 29-year-old man who threatened to stab an elderly woman after she caught him fly-tipping has been jailed for more than three years.

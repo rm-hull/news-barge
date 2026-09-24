@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Abqaiq
+- Asia
+- Bab al-Mandab
+- Bab al-Mandab Strait
+- Bahrain
+- East-West
+- Europe
+- Gulf
+- Hormuz
+- Iran
+- Iraq
+- Jordan
+- Kingdom of
+- Maysan
+- Medina
+- Middle East
+- Perim
+- Qatar
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- US
+- Yanbu
+- Yemen
+people:
+- Ali al-Zaidi
+- Donald Trump
+organisations:
+- Copernicus Sentinel Data
+- Gulf Cooperation Council
+- Houthis
+- SPA
 ---
 
 Saudi authorities said Friday drones launched from Iraq led to the temporary closure of a crucial oil export route used to bypass the lockdown of the strait of Hormuz.

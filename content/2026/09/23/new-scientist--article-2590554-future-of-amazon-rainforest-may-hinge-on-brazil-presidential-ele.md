@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312679229.jpg
+locations:
+- Amazon
+- Brazil
+- Mato Grosso
+people:
+- Bolsanaro
+- Claudio Angelo
+- Dilma Rousseff
+- Donald Trump
+- Flavio Bolsonaro
+- Flávio Bolsonaro
+- Izabella Teixeira
+- Jair Bolsonaro
+- Luiz Inacio Lula da Silva
+- Luiz Inácio Lula da Silva
+- Philip Fearnside
+organisations:
+- APIB
+- Climate Observatory
+- INPA
+- National Institute for Amazonian Research
+- New Scientist
 ---
 
 ![Towels and caps for sale depicting Brazilian presidential candidates Luiz Inacio Lula da Silva and Flavio Bolsonaro](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312679229.jpg?w=840)

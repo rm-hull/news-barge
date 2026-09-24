@@ -11,6 +11,32 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c1a/live/4d1311
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- England
+- Essex
+- Hampshire
+- Holborn
+- Kent
+- Leicestershire
+- London
+- Norfolk
+- St Pancras
+- Suffolk
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Angela Rayner
+- Keir Starmer
+- Nick Robinson
+- Steve Reed
+organisations:
+- BBC
+- BBC2
+- Houses of Parliament.
+- Labour
+- Reform
 ---
 
 ![Local Government Secretary Angela Rayner speaking on the Political Thinking with Nick Robinson podcast](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/1c1a/live/4d131150-ad20-11f1-826f-933990eae6f0.jpg)

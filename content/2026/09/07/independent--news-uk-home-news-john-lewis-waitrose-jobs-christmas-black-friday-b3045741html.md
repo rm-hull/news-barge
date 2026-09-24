@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- John Lewis
+- London
+- Waitrose
+people:
+- Alec Stanwell
+- Helen Webb
+- Ms Webb
+organisations:
+- AI
+- CV-Library
+- JLP
+- John Lewis
+- John Lewis Partnership
+- Waitrose
 ---
 
 The John Lewis Partnership (JLP) is creating 10,000 seasonal jobs, including 6,000 in Waitrose.

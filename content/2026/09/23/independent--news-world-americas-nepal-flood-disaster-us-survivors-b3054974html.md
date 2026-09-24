@@ -13,6 +13,26 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/11/01/736425635-e3645ac4.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Georgia
+- Mount Everest
+- Mount Kailash
+- Nepal
+- New York
+- South Asia
+- Suwanee
+- Tibet
+- U.S.
+people:
+- God
+- Hemant Parikh
+- Kailash
+- Mita
+organisations:
+- ABC
+- CBS Atlanta
+- CBS News
+- UN General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

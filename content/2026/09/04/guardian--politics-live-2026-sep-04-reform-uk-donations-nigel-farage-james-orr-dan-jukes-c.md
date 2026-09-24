@@ -12,6 +12,77 @@ image: https://i.guim.co.uk/img/media/a3c03b15c4f2b06bd40cfe450f898cb7c659d737/2
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- Britain
+- Clacton
+- Downing Street
+- El Salvador
+- France
+- Gaza
+- London
+- Reform UK
+- Washington
+- Westminster
+people:
+- Andrew Sparrow Nick Vamos
+- Angela Rayner
+- Ann Widdecombe
+- Ben Wallace
+- Dan Jukes
+- Dan] Jukes
+- Diane Abbott
+- Elvis
+- George Galloway
+- Henry Nowak
+- James Orr
+- James] Orr
+- Jason Groves
+- Jeremy Corbyn
+- Jordan Bardella
+- Kemi Badenoch
+- Lammy
+- Lee Anderson
+- Liz Saville Roberts
+- Margaret Thatcher
+- Mark’s
+- Martin Belam
+- Michael Gove
+- Nadine Dorries
+- Nigel Farage
+- Nigel] Farage
+- Oswald
+- PA Zia Yusuf
+- Peter Mandelson
+- Peter Walker
+- Sadiq Khan
+- Stefan Rousseau
+- Stephen Bush
+- Thomas Krych
+- Tim Shipman
+- Zia Yusuf
+organisations:
+- BBC
+- CPS
+- Channel 4
+- Conservative Party
+- Crown Prosecution Service
+- EPA Jordan Bardella
+- Financial Times
+- G&Ts
+- House of Lords
+- Inside Politics
+- LBC
+- Labour Party
+- Mail
+- Peters & Peters
+- Plaid Cymru
+- RN
+- Reform UK
+- Shepherd Neame
+- Telegraph
+- Tolga Akmen
+- Tory
 ---
 
 Here are some more lines from Nigel Farage’s interview with LBC this morning where he gave his response to the undercover report about an apparent Reform UK plot to evade election donations rules. (See 9.07am.)

@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk3NDFhYjkxLTc2ZmItNDIxYy04OTY4LTJjMGMxYWE0Mzg2OTplNWRlYWFmZi1lMjU3LTQ1MmItYTExNy04NGE3ZjMzZDQwODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Afghanistan
+- North Yorkshire
+- UK
+people: []
+organisations:
+- Afghan Resettlement Programme
+- Corporate and Partnerships Overview and Scrutiny Committee
+- Home Office
+- Ministry of Defence
+- MoD
+- North Yorkshire Council
+- Refugee Council
+- UK Resettlement Scheme
+- UKRS
 ---
 
 # Over 500 Afghans resettled in North Yorkshire as 23 households await new homes

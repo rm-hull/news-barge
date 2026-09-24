@@ -12,6 +12,15 @@ categories:
 - Music
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Wharfemede-Productions-the-addams-family.webp
+locations:
+- Italy
+people:
+- Addams
+- Bells
+- Helen ‘Bells’ Spencer
+organisations:
+- Addams Family
+- Wharfemede Productions
 ---
 
 Everyone’s favourite kooky family are being brought to the stage in this devilishly funny musical comedy.

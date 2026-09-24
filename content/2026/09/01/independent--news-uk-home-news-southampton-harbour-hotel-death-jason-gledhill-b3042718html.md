@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Denton
+- Hampshire
+- Manchester
+- Ocean Village
+- Stockport Crematorium
+- The Cypress
+- Winchester Coroners’ Court
+people:
+- Christopher Wilkinson
+- Georgina
+- Jason Gledhill
+- Mr Gledhill
+- Paula
+organisations:
+- Adidas
+- Denton St Lawrence Cricket Club
+- Southampton Harbour Hotel
 ---
 
 A father-of-one died after being electrocuted while working at a five-star hotel, a coroner has found.

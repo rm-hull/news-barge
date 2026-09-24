@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Video Gaming
+locations:
+- Britain
+- Hampshire
+- Hong Kong
+- PA
+- Thailand
+- UK
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Nigel Farage
+- Zia Yusuf
+organisations:
+- BBC
+- Labour Party
+- Reform UK
+- Representation of the People Bill
+- Representation of the People Bill.
+- Royal Navy
+- SmallBoatWatch
+- Will Colebourne
 ---
 
 Reform UK has been accused of trying to “distract” voters from controversy over the party’s financial affairs after it launched a small boats mobile “game”.

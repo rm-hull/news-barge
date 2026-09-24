@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Berlin
+- Brussels
+- China
+- Germany
+- Lower Saxony
+- US
+- Wolfsburg
+people:
+- Daniela Cavallo
+- Klingsbeil
+- Lars Klingbeil
+- Olaf Lies
+organisations:
+- BMW
+- EU
+- IG Metall
+- Mercedes-Benz
+- Seats
+- VW
+- Volkswagen
 ---
 
 During a visit to Volkswagen's headquarters in Wolfsburg, also home to the carmaker's biggest factory, Finance Minister Lars Klingbeil said Germany would press Brussels to take a stronger stance.

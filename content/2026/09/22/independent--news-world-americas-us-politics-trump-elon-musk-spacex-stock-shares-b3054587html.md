@@ -14,6 +14,22 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 image: https://static.independent.co.uk/2026/07/23/20/57/GettyImages-2198395702.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Texas
+- U.S.
+- US
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+organisations:
+- AI
+- Elon Musk-led
+- Office of Government Ethics
+- Reuters
+- Schwab
+- SpaceX
+- Trump
 ---
 
 Recent public financial disclosures reveal that President Donald Trump purchased up to $50,000 in SpaceX stock and later unloaded up to $15,000 worth of the holdings in July, marking his latest transactions involving the Elon Musk-led defense contractor.

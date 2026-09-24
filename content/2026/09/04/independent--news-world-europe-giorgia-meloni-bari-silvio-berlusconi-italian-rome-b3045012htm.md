@@ -13,6 +13,26 @@ image: https://static.independent.co.uk/2026/09/04/19/Italy_Meloni_Record_37_41.
 categories:
 - News & Politics
 - UK
+locations:
+- Alliste
+- Atlantic
+- Bari
+- Brussels
+- Italian Republic
+- Italy
+- Lecce
+- Rome
+- Ukraine
+people:
+- Giorgia Meloni
+- Marco Macrì
+- Silvio Berlusconi
+- Vera Capperucci
+- Zampano
+organisations:
+- Bari
+- Forza Italia
+- LUISS University
 ---
 
 Italy's Premier Giorgia Meloni celebrated a milestone for her government on Friday, telling a rally of supporters in the southern city of Bari to argue that four years of political stability have strengthened Italy at home and abroad.

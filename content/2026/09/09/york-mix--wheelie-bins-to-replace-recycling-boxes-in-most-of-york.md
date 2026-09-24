@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Most York
+- North Yorkshire
+people:
+- Claire Douglas
+- Cllr Ayre
+- Cllr Douglas
+- Cllr Jenny Kent
+- Nigel Ayre
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat Group
 ---
 
 Most York residents are set to see their recycling boxes swapped for bins.

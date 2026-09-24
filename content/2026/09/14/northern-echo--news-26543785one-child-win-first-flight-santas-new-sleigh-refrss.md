@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Darlington
+- Darlington’s
+- North-East
+- Santa
+- Santa’s
+people:
+- Alan Britton
+- Chris Barron
+- James Taylor-Garthwaite
+- Santa
+organisations:
+- Darlington Borough Council
+- Darlington Round Table
+- Polar Express
+- Santa Express
+- The Viking Boat Company
 ---
 
 ONE lucky North-East child will win the memory of a lifetime this Christmas – the chance to ride on Santa’s sleigh when it’s unveiled later this year.

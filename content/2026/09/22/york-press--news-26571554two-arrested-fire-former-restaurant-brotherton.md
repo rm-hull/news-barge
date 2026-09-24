@@ -12,6 +12,15 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21485475.jpg?type=og-image
+locations:
+- Brotherton
+- Great North Road
+- North Yorkshire
+- Selby
+- Thaal Indian
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Weather Updates)*

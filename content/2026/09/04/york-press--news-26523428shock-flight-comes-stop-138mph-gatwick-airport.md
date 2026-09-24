@@ -13,6 +13,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A YORK
+- Birmingham
+- Darlington
+- Gatwick Airport
+- London Stansted
+- New York
+people:
+- Alice Kavanagh
+organisations:
+- ITV
+- JFK
+- John F Kennedy International Airport
+- London Gatwick
+- London Gatwick Airport
+- Newsquest
+- Norse Atlantic Airways
+- The Aviation Herald
+- Z0701
 ---
 
 ## Gatwick Airport chaos - York woman's 'shock' as plane comes to 138mph stop on runway

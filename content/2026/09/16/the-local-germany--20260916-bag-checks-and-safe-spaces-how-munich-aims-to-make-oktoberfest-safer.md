@@ -14,6 +14,15 @@ categories:
 - Germany
 - News & Politics
 - True Crime
+locations:
+- Germany
+- Munich
+- Oktoberfest
+- Wiesn* Ambulance Centre
+people:
+- Christian Scharpf
+- Crowdspotters’
+organisations: []
 ---
 
 Millions of people flock to Oktoberfest – or *Wiesn* as it's also known – in the Bavarian capital of Munich every year. 

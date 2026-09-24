@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg
+locations:
+- Australia
+- Avon Coroners' Court
+- Bangkok
+- Bristol
+- Indonesia
+- London Heathrow
+- Myanmar
+- Singapore
+- South Gloucestershire
+- Thailand
+- Thornbury
+people:
+- '## More'
+- Edward Sheffield
+- Geoff Kitchen
+- Irwin Mitchell
+- Linda
+- Peter Harrowing
+organisations:
+- Avon
+- Bristol Kitchen
+- CPR
+- GP
+- Geoff Kitchen
+- Goh Choon Phong
+- High Court
+- Linda
+- Mayday
+- Singapore Airlines
 ---
 
 ![Linda and Geoff Kitchen smile together. Both wear rectangular glasses, with Geoff in a red T-shirt. They appear to be sitting on a balcony, with buildings and the cloudy sky visible in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg)

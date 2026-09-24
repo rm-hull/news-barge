@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Europe
+- Malta
+people:
+- Caruana Galizia
+- Daphne Caruana Galizia
+- Joseph Muscat
+- Yorgen Fenech
+organisations:
+- European Union
+- Panama Papers
 ---
 
 A jury in Malta on Wednesday acquitted the Maltese businessman accused of being the mastermind of the 2017 car bomb killing of crusading investigative journalist Daphne Caruana Galizia.

@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458286.jpg?type=og-image
+locations:
+- Bradford Arts Centre
+- Leeds
+- London
+- Skipton
+- Spain
+people:
+- Alex Chisholm
+- Ben Crick
+- Count Almaviva
+- Figaro
+- Ian McMillan
+- Kauser Mukhtar
+- Lorne Campbell
+- Mozart
+- Susanna
+organisations:
+- Bradford
+- Marriage of Figaro
+- Wilton's Music Hall
+- Yorkshire
 ---
 
 *(Image: Lorne Campbell)*

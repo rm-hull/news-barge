@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/4ZEnSpa7JtJezKZH6YwC5b-1600-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Paris
+people:
+- Andrew Lunn
+- Greg Kroah-Hartman
+- Jakub Kicinski
+- Tom
+organisations:
+- AI
+- Etiido Uko
+- FreeVxFS
+- Get Tom's Hardware
+- Google News
+- IBM
+- Intel Product Security
+- Kernel Recipes
+- Linus Torvalds
+- Linux
+- PC
+- Phoronix
+- SGI
+- Tom's Hardware
 ---
 
 ![Linux logo in front of clocks](https://cdn.mos.cms.futurecdn.net/4ZEnSpa7JtJezKZH6YwC5b.jpg) 

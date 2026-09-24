@@ -12,6 +12,17 @@ image: https://cdn.mos.cms.futurecdn.net/cgFeTahtvuGr2RSFPUcFX4-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Home Hub
+people:
+- Carrie Marshall
+organisations:
+- Apple
+- Google News
+- MacRumors
+- Sony
+- Unquiet Mind
+- iPad Pro
 ---
 
 ![HomePod 2 on shelf in a home](https://cdn.mos.cms.futurecdn.net/cgFeTahtvuGr2RSFPUcFX4.jpg) 

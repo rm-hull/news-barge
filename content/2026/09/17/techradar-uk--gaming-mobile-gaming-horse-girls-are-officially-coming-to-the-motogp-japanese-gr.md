@@ -10,6 +10,29 @@ description: 'Umamusume: Pretty Derby is coming to a major motorsport event in a
 image: https://cdn.mos.cms.futurecdn.net/gMNTZLBp29ctLGFHCVr8ng-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Grandstand
+- Japan
+- Mobility Resort Motegi
+- UK
+people:
+- Oguri Cap
+- Tomoyo Takayanagi
+organisations:
+- App Store
+- Cygames
+- Dash
+- Edge
+- Google News
+- Google Play Store
+- Moto2
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Pacific Racing Team
+- SFX
+- Steam
+- TechRadar
 ---
 
 ![Umamusume: Pretty Derby is a popular mobile game.](https://cdn.mos.cms.futurecdn.net/gMNTZLBp29ctLGFHCVr8ng.png) 

@@ -14,6 +14,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Botswana
+- Brussels
+- Brussels.
+- Budapest
+- Kenya
+- Sweden
+- Wales
+people:
+- Amy Hunt
+- Armand 'Mondo
+- Cameron Myers
+- Collen Kebinatshipi
+- Duplantis
+- Emmanouil Karalis
+- Emmanuel Wanyonyi
+- Jake Hayward
+- Julian
+- Julien Alfred
+- Julien Alfred Hunt
+- Kayla White
+- Matt Hudson-Smith
+- Noah Lyles
+- Oblique Seville
+- Phanuel Koech
+- Sha'Carri Richardson
+organisations:
+- BBC World Service
+- Diamond League
+- Seville
+- St Lucia
 ---
 
 Alfred wins 200m as Hunt finishes third in Brussels

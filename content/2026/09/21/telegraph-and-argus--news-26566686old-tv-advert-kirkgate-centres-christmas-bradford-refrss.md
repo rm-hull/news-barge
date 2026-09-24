@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479476.jpg?type=og-image
+locations:
+- Bradford
+- City Village
+- Kirkgate Arndale Centre
+- Kirkgate Centre
+- Kirkgate Shopping Centre
+- Santa’s
+people:
+- Emma Clayton
+- Kirkgate
+organisations:
+- Bradford Council
+- Bradford’s
+- John Brunton & Partners
+- Kirkgate Market
+- Lockwood & Mawson
+- St George’s Hall
+- Wool Exchange
 ---
 
 *(Image: T&A)*

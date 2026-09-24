@@ -12,6 +12,14 @@ image: https://static.independent.co.uk/2026/09/08/22/Election_2_26_Redistrictin
 categories:
 - News & Politics
 - UK
+locations:
+- Missouri
+people:
+- Donald Trump
+organisations:
+- Supreme Court
+- The Associated Press
+- US House
 ---
 
 Supreme Court rebuffs Missouri's push to use new US House map backed by Trump in November

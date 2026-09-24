@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21492421.jpg?type=og-image
+locations:
+- Bishopton Road West
+- County Durham
+- North East
+- Stockton
+people:
+- Ms Wilkinson
+organisations:
+- Our Lady & St Bede Catholic Academy
 ---
 
 *(Image: GOOGLE)*

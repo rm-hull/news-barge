@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Yorkshire
+people: []
+organisations:
+- Crowdfunder
+- Sutton-on-the-Forest Primary School
+- Yorkshire
 ---
 
 *(Image: Supplied)*

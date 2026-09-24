@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Bethesda
+- Dwemer
+- KALLAX STORAGEBORN
+people:
+- Aya Key Yah
+- Kallax
+- Mark Tyson
+- Matt Berry
+- Skyrim
+- Tom
+organisations:
+- :**Skyrim
+- Get Tom's Hardware
+- Google News
+- IKEA
+- KFC
+- RPG
+- Skyrim
+- The Elder Scrolls
+- Tom's Hardware
 ---
 
 ![Skyrim Kallax Storageborn companion](https://cdn.mos.cms.futurecdn.net/G73P3irdKu9575Pe64Doem.jpg) 

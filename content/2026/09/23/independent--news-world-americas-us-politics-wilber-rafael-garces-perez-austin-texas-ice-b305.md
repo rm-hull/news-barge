@@ -12,6 +12,31 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/11/2026-09-22T153643Z_921197651_RC2FONAYOWW5_RTRMADP_3_USA-MIGRATION-SHOOTING.JPG?trim=217,0,217,0&width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- Austin
+- Houston
+- Texas
+- U.S.
+people:
+- Donald Trump
+- DoorDash
+- Garcés Pérez
+- Kate Lincoln-Goldfinch
+- Lorenzo Salgado Araujo
+- Salgado Araujo
+- Wilber Rafael Garcés Pérez
+organisations:
+- Austin Police Department
+- CBP
+- DHS
+- Department of Homeland Security
+- Deportation Data Project
+- DoorDash
+- ICE
+- NBC News
+- The Associated Press
+- The Independent
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

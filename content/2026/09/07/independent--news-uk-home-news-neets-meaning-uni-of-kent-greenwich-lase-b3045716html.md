@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Bedford
+- England
+- Greenwich
+- Kent
+- London
+- Medway
+- UK
+people:
+- Jane Harrington
+- Prof Harrington
+organisations:
+- Cranfield University
+- Department for Education
+- Education Committee
+- FE
+- Kent
+- King’s College London
+- LASE
+- London and South East University Group
+- Neets
+- Office for National Statistics
+- Office for Students
+- University of Greenwich
 ---
 
 Tackling the growing Neets crisis will be easier for the universities of Kent and Greenwich following their merger into the UK’s first "super-university", according to the group’s leadership.

@@ -17,6 +17,30 @@ categories:
 - York
 - Education & Learning
 image: https://www.yorkshirepost.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+locations:
+- Britain
+- Halifax
+- Northern
+- Paris
+- Steps
+people:
+- Aitch
+- Andreas Bocelli
+- Cheryl
+- Christa Ackroyd
+- Céline Dion
+- Elvis
+- Jennifer Hudson
+- Leanne Rimes
+- Nonna
+- Tom Jones
+- Tom Jones’
+- Will.I.Am
+organisations:
+- ITV
+- Piece Hall
+- SAGA
+- The Voice
 ---
 
 # ITV's shoddy treatment of Tom Jones shows the foolishness of ageism in action: Christa Ackroyd

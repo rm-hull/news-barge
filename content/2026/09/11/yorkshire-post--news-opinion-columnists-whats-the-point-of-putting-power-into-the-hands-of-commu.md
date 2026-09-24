@@ -17,6 +17,17 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Britain
+- Leeds Bradford Airport
+people:
+- Daxa Manhar Patel
+- Daxa Patel
+organisations:
+- BBC
+- Leeds Bradford Airport
+- Leeds City Council
+- Zoom
 ---
 
 # What’s the point of putting power into the hands of communities if local authorities won’t listen to local people? - Daxa Patel

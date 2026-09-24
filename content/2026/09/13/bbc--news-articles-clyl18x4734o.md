@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- France
+- Iran
+- Japan
+- UK
+- US
+people:
+- Andy Burnham
+- John Healey
+- Julia Lopez
+- Keir Starmer
+organisations:
+- AI
+- BBC
+- BP
+- BT
+- HSBC
+- Labour
+- Morrisons
+- Rolls-Royce
+- Sainsbury's
+- Shell
+- Vodafone
 ---
 
 ![A medium close up of Andy Burnham wearing a blue suit and an open-collar white shirt with trees behind him in soft focus](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg)

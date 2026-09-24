@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Amsterdam
+- Anne Frank House
+- Europe
+- Lapland
+- North East
+- Rijksmuseum
+- Stanstead Airport
+- Teesside Airport
+- UK
+people: []
+organisations:
+- KLM
+- Teesside Airport
+- Van Gogh Museum
 ---
 
 Just over an hour from Teesside sits one of Europe's most popular city break destinations, where visitors can find stunning canal views, independent cafés and renowned museums.

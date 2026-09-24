@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- National Memorial
+- New York
+- Pennsylvania
+- Shanksville
+- Twin Towers
+- US
+people:
+- Donald Trump
+organisations:
+- American Airlines
+- Pentagon
+- United Airlines
+- World Trade Center
 ---
 
 # 'We will never, ever forget' - Americans remember 9/11 on 25th anniversary

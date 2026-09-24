@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '#### Sandy Lane'
+- Forest**
+- Sandy Lane
+- Stockton
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 A village street was flooded last night (Monday).

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Bond Street
+- London
+- Notting Hill
+- Putney Bridge
+people:
+- Alexia Hicks
+- Justin Webb
+- Nicholas Brandram
+- Putney
+- Sophie Voelcker
+organisations:
+- Army
+- BBC London
+- BBC Radio 4
+- BBC Radio London
+- Met
+- Metropolitan Police
+- Nicholas Brandram
 ---
 
 Watch: 'There was no urgency to clear his name' - sisters of 'Putney pusher' suspect

@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Britain
+- Moscow
+- Russia
+- UK
+- Ukraine
+people:
+- Lord Robertson
+- Louise Sandher-Jones
+- Ms Sandher-Jones
+- Port Ellen
+- Richard Knighton
+organisations:
+- Armed Forces
+- Armed Forces Bill
+- Army
+- Defence Staff
+- House of Lords’
+- Ministry of Defence
+- NATO
+- RAF
+- Royal Marines
+- Royal Navy
 ---
 
 *(Image: MoD)*

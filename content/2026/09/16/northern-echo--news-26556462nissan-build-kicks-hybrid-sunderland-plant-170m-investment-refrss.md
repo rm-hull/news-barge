@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Brazil
+- Britain
+- Europe
+- Japan
+- Metro
+- Mexico
+- North East
+- Sunderland
+- Teesport
+- UK
+people:
+- Jonathan Reynolds
+- Kim McGuinness
+- Massimiliano Messina
+- Mike Hawes
+- Paul Butler
+organisations:
+- Nissan
+- North East Automotive Alliance
+- North East HQ
+- PA Wire
+- Society of Motor Manufacturers
+- Sunderland
 ---
 
 *(Image: Nissan/PA Wire)*

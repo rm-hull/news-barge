@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Northern’s
+people:
+- Alex Hornby
+organisations:
+- Northern
 ---
 
 *(Image: Northern)*

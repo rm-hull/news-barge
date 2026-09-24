@@ -13,6 +13,18 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Bridge Street
+- North Yorkshire Police
+- Scarborough
+- Scotland
+- Selkirk
+people:
+- Nicholas Long
+organisations:
+- CCTV
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

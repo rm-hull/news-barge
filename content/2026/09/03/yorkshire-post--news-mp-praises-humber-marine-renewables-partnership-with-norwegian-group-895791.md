@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Grimsby
+- UK
+people:
+- Camilla Carlbom-Flinn
+- Ed Miliband
+- Melanie Onn
+organisations:
+- '##'
+- Cleethorpes
+- House of Commons
+- Humber Marine
+- Humber Marine Renewables
+- Humber Marine and Renewables
+- Memorandum of Understanding
+- Norwegian Offshore Wind
 ---
 
 # MP praises Humber Marine Renewables partnership with Norwegian group

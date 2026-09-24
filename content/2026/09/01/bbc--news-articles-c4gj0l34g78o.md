@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Travel
 - Society & Culture
+locations:
+- Australia
+- Barbican
+- Britain
+- Chicago
+- China
+- Europe
+- Grande
+- London
+- Manchester
+- US
+- Wicked
+people:
+- Ariana Grande
+- Cynthia Erivo
+- George
+- Instagram
+- Jonathan Bailey
+- Kate Solomon
+- Nick Levine
+- Stephen Sondheim
+organisations:
+- BBC
+- Guardian
+- NME
+- O2 Arena
+- Rolling Stone
+- The Telegraph
 ---
 
 ![Ariana Grande sits on the stage, surrounded by flowers, as she sings on her Eternal Sunshine tour](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8517/live/fdadde60-995b-11f1-b2ab-0dd01740f9f6.jpg)

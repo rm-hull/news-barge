@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Beijing
+- China
+- Japan
+- Taiwan
+- Tokyo
+people:
+- Minoru Kihara
+- Sanae Takaichi
+organisations:
+- DCS
+- Denal Silane
+- Shin-Etsu Chemical
+- ___ Yamaguchi
 ---
 
 Japan has protested against Chinese controls that will limit its exports of a key chemical used to make computer chips, saying Tuesday that Tokyo is studying the potential impact on Japanese companies.

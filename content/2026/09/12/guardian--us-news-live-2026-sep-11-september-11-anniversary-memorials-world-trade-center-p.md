@@ -11,6 +11,118 @@ image: https://i.guim.co.uk/img/media/707512c9ed8bcd809bdbecffde64e09a38178b76/0
 categories:
 - UK
 - News & Politics
+locations:
+- Aden
+- America
+- Asia
+- Bab al-Mandab
+- Beverly Hills
+- China
+- Dublin
+- Europe
+- Hormuz
+- India
+- Iran
+- Iraq
+- Ireland
+- Joint Base Andrews
+- Kentucky
+- Mayun
+- Michigan
+- Middle East
+- Mocha
+- Moscow
+- New York
+- New York City
+- Ohio
+- Pennsylvania
+- Perim
+- Phoenix Park
+- Red Sea
+- Russia
+- Saudi Arabia
+- Suez
+- Texas
+- US Capitol
+- Ukraine
+- United Arab Emirates
+- United States
+- Washington DC
+- Yemen
+people:
+- AP Maria Bartiromo
+- Abdul El-Sayed
+- Annie Kelly
+- Barack Obama
+- Ben Rhodes
+- Bill Clinton
+- Bill Galston
+- Bin Laden
+- Cantor Fitzgerald
+- Catherine Connolly
+- Chip Roy
+- DONALD J
+- David Smith
+- Donald Trump
+- Donald Trumplaunched
+- Fox
+- George W Bush
+- JD Vance
+- James Comer
+- Jason Burke
+- Jeb Bush
+- Jeffrey Epstein
+- Jon Husted
+- Jose Luis Magana
+- José Luis Magaña
+- Kylie Cooper
+- Leon Black
+- Lindsey Graham
+- Lucy Nicholson
+- Madeleine Albright
+- Maria Bartiromo
+- Marjorie Taylor Greene
+- Michael Massaroli
+- Michael Massaroli Jr
+- Micheál Martin
+- Mike Rogers
+- Osama Bin Laden
+- Osama bin Laden
+- Pete Hegseth
+- Rudy Giuliani
+- Stephen Woytek
+- Susan Estrich
+- Vladimir Putin
+- Zohran Mamdani
+- bin Laden
+- Áras
+organisations:
+- AI
+- Agence France-Presse
+- Air Force One
+- CIA
+- Central Intelligence Agency
+- Congress
+- Fox News
+- GOP
+- Guardian
+- House Committee on Oversight and Government Reform
+- ICE
+- Military Patriots
+- NBC News
+- Office of the Director of National Intelligence
+- Pentagon
+- People of our Country
+- Politico
+- Reuters House
+- SS
+- Senate
+- TRUMP
+- The Washington Post
+- Trump
+- Washington Post
+- al-Qaida
+- home.US Immigration and Customs Enforcement
 ---
 
 Trump doubles down again on pledge of $5,000 payments to US adult citizens if GOP retains control of Congress

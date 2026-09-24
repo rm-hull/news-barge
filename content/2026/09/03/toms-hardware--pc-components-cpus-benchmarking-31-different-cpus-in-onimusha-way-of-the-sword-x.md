@@ -12,6 +12,36 @@ image: https://cdn.mos.cms.futurecdn.net/fmrviCi7Gfs5zDMV4VbYH6-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Arrow Lake
+- Nova Lake
+- Raptor Lake
+people:
+- Tom
+- V-Cache
+organisations:
+- AL Refresh
+- AMD
+- Alamengda
+- Alder Lake
+- Arrow Lake
+- CPU
+- Capcom
+- GPU
+- Get Tom's Hardware
+- Google News
+- Intel
+- MSI
+- Nvidia GeForce
+- Nvidia GeForce RTX
+- PSU
+- RE Engine
+- Raptor Lake Refresh
+- Ryzen
+- Tom’s Hardware
+- VBS
+- Virtualization-Based Security
+- X3D
 ---
 
 ![Onimusha](https://cdn.mos.cms.futurecdn.net/fmrviCi7Gfs5zDMV4VbYH6.jpg) 

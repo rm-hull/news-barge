@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Africa
+- Australia
+- Bishopthorpe Road
+- El Niño
+- Europe
+- PA
+- Pacific
+- Southbank
+- Strait of Hormuz
+- UK
+- York
+- Yorkshire
+people:
+- Andy Burnham
+- Chris Jaccarini
+- Dame Angela Eagle
+- Gareth Fuller
+- John Gray
+organisations:
+- Clements Hall
+- El Nino
+- El Niño
+- Energy and Climate Intelligence Unit
+- Met Office
+- Planet Southbank
+- UN
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

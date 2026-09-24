@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Japan
+- North Korea
+- South Korea
+- U.S.
+- Wonsan
+people:
+- Kim Song Gi
+organisations:
+- U.S. Pacific Command
 ---
 
 North Korea launched ballistic missiles toward the sea on Saturday, its neighbors said, a day after the U.S., South Korea and Japan ended their trilateral military drill that North Korea views as a security threat.

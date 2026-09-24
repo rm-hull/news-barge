@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Anty John’s
+- Miles
+- Our Yorkshire Farm
+- Ravenseat Farm
+people:
+- Amanda Owen
+- Annas
+- Anty John’s
+- Clementine
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Raven
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John’s
+- Channel 5
+- Clive and Kids
+- Our Farm Next Door
+- Our Yorkshire Farm
+- Raven
+- TV
+- The Yorkshire
+- Yorkshire Shepherdess
 ---
 
 *(Image: CHANNEL 4)*

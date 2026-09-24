@@ -14,6 +14,83 @@ categories:
 - News & Politics
 - Sports
 - Film & TV
+locations:
+- California
+- California.
+- LA
+- Los Angeles
+- St Louis
+- USA
+people:
+- '**Zendaya'
+- Alan Cumming
+- Allison Janney
+- Ayo Edebiri
+- Cailee Spaeny
+- Calista Flockhart
+- Carey Mulligan
+- Carl Clemons-Hopkins
+- Chase Infiniti
+- Colman Domingo
+- Cynthia Nixon
+- Dale
+- Dexter Sol Ansell
+- Dolly Parton
+- Elle Fanning
+- Emmy Rossum
+- Fiona Dourif
+- Florence Pugh
+- Harrison Ford
+- Jeff Hiller
+- Jessica Williams
+- Jodie Plumb
+- Kaley Cuoco
+- Marcus
+- Mariska Hargitay
+- Martin Short
+- Matthew Rhys
+- Megan Stalter
+- Michael J Fox
+- Michelle Pfeiffer
+- Nicole Kidman
+- Noah Wyle
+- Paul W Downs
+- Quinta Brunson
+- Rachel Sennott
+- Rhea Seehorn
+- Richard Gadd
+- Sally Field
+- Sarah Snook
+- Selena Gomez
+- Shailene Woodley
+- Steve Martin
+- Taylor Dearden
+- Tom Pelphrey
+- Tracy Pollan
+- Zendaya
+organisations:
+- Abbott Elementary
+- Beef
+- Cailee Spaeny
+- Calista Flockhart
+- Carl Clemons-Hopkins
+- DTF St Louis
+- Elle Fanning
+- Hacks
+- Mariska Hargitay
+- Odessa A'Zion
+- Peacock Theater
+- Pluribus
+- Quinta Brunson
+- Rachel Sennott
+- Sally Field
+- Sepideh Moafi
+- Shailene Woodley
+- TV Academy
+- The Pitt
+- US TV
+- Widow's Bay
+- Zendaya
 ---
 
 Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet

@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Hardware
 - Music
+locations:
+- Louisiana
+- Memphis
+- North Mississippi
+- Southaven
+- Tennessee
+- Vermilion Parish
+people:
+- Amanda Garcia
+- Elon Musk
+- Jowi Morales
+- Tom
+organisations:
+- AT&T
+- Google News
+- Jowi Morales
+- SELC
+- SpaceX
+- SpaceXAI Memphis
+- Starlink Residential
+- Starlink V5
+- U.S. Census Bureau
+- Xfinity
+- xAI
 ---
 
 ![a Starlink satellite dish and router set up on a building overlooking a city skyline](https://cdn.mos.cms.futurecdn.net/gNtfGAaNBGwriPWDdH4oTZ.png) 

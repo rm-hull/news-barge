@@ -15,6 +15,11 @@ categories:
 - True Crime
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21492426.jpg?type=og-image
+locations:
+- Fourth Avenue
+- York
+people: []
+organisations: []
 ---
 
 * A police incident is taking place in part of York.

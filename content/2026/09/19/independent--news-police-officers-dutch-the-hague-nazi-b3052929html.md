@@ -12,6 +12,15 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/19/16/Netherlands_Protest__6651.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Malieveld
+- The Hague
+people:
+- David van Weel
+- Rob Jetten
+organisations:
+- D66
+- Justice
 ---
 
 Dutch riot police dispersed several hundred far-right protesters in The Hague on Saturday after violence erupted and local authorities banned a planned march in the city against immigration and asylum policies.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Blaenau Gwent
+- Brynna
+- Cardiff
+- Rhondda Cynon Taf
+- Tredegar
+- UK
+people:
+- Brandon
+- Gary Summerfield
+- Karen Davey
+- Karen's
+- Matthew
+organisations:
+- Facebook
+- NHS Blood and Transplant
+- University Hospital of Wales
 ---
 
 ![Gary is bald and wears a burgundy and white checked shirt and sit nexts to Karen who has her hair in a ponytail is wearing a camel coloured jumper.](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/66b0/live/f6d8bbf0-b1fc-11f1-a4a7-291ff3d1006b.jpg)

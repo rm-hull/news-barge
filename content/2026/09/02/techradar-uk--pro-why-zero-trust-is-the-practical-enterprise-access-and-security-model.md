@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- '## Network‑led Zero Trust'
+- Airtel Business
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- Zero Trust
+- Zero Trust Organizations
 ---
 
 ![Cybersecurity ensures data protection on internet. Data encryption, firewall, encrypted network, VPN, secure access and authentication defend against malware, hacking, cyber crime and digital threat](https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF.jpg) 

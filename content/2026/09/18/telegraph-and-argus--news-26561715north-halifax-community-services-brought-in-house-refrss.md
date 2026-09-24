@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- Calderdale
+- Mixenden
+- North Halifax
+- Northowram and Shelf
+- Ovenden
+- Warley
+people:
+- Coun Hunt
+- Coun Peter Hunt
+organisations:
+- Cabinet
+- Calderdale Council
+- Elland
+- Mixenden Activity Centre
+- Neighbourhood Team
+- North Halifax Partnership
+- Public Services
+- Reform UK
 ---
 
 Community services for north Halifax residents will be assured of equal weight with the rest of Calderdale now it is being brought “in-house”, says a senior councillor.

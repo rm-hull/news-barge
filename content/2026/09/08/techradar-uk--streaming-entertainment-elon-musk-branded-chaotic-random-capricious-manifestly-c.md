@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Film & TV
 - Science
+locations:
+- Bleecker Street
+- London
+- Square Mile
+- UK
+- US
+people:
+- '## Musk'
+- Alex Gibney
+- Elon Musk
+- Mark Wilson
+- Trump
+organisations:
+- AP
+- Arena
+- FourFourTwo
+- Google News
+- HBO Max
+- Stuff
+- Stuff.tv
+- TechRadar
+- The Daily Telegraph
+- The Sunday Times
+- Trusted Reviews
 ---
 
 ![The view from a SpaceX rocket above earth next to a photo of Elon Musk laughing](https://cdn.mos.cms.futurecdn.net/BCVVAYrsC2ERpTZSUW6fbm.jpg) 

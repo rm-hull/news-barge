@@ -23,6 +23,66 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Arsenal
+- Brooks Street
+- Buckingham Palace
+- California
+- Clacton
+- Dublin
+- England
+- Europe
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Man City
+- Man United
+- Mauritius
+- Nepal
+- New York City
+- Russia
+- Saudi Arabia
+- Tucson
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- Carlos Baleba
+- Count Binface
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Anheuser-Busch
+- Arsenal
+- Count Binface
+- Farage
+- Instagram
+- MI6
+- Montclair Police Department
+- Pabst Blue Ribbon
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Trump
 ---
 
 ## Showing now | News

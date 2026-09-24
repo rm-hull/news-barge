@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Harrogate
+- Headingley
+- Leeds.
+- PA
+people:
+- Ben Stokes
+- Colin Graves
+- Harry Chattli
+- Joe Root
+- Lord Patel
+- Mike Ashley
+- Mike Egerton
+- Stephen Vaughan
+- Tim Emmott
+organisations:
+- CCC
+- DEI
+- ECB
+- England
+- Hundred
+- Sovereign House
+- Yorkshire County Cricket Club
+- Yorkshire Cricket Club
+- Yorkshire Post Letters
 ---
 
 # Previous leadership at Yorkshire County Cricket Club to blame for a lack of tests at Headingley - Yorkshire Post Letters

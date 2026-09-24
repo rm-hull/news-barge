@@ -13,6 +13,20 @@ categories:
 - Science
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/XwsayHYKLqACQvH5KN4V5P-320-80.jpg
+locations:
+- AI
+- CKpool
+- Iran
+- U.S.
+people:
+- Bitmain
+organisations:
+- BTC
+- Bitcoin
+- GPU
+- Get Tom's Hardware
+- Pearl
+- Slush
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/XwsayHYKLqACQvH5KN4V5P-320-80.jpg)

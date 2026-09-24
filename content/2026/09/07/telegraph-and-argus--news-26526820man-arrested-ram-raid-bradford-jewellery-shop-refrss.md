@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Duckworth Lane
+- Pakistan Jewellers
+people: []
+organisations:
+- Bradford CID
+- Crimestoppers
+- Pakistan Jewellers
+- Telegraph & Argus
+- West Yorkshire Police
+- West Yorkshire Police** A
 ---
 
 *(Image: CCTV - Pakistani Jewellers)*

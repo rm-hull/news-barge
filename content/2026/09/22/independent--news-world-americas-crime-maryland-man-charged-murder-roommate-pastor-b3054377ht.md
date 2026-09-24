@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.the-independent.com/2026/09/22/15/16/Screenshot-2026-09-22-at-16-05-02.png?trim=0,0,64,0&width=1200&height=800&crop=1200:800
+locations:
+- Baltimore
+- Frederick County Adult Detention Center
+- Maryland
+people:
+- Irwin Joseph Dickstein
+- Jacqueline Rottman
+- Michael Roy Bushnell
+- Paula Brooks
+organisations:
+- Dickstein’s
+- District Court
+- Fox 5 DC
+- Frederick Christian Fellowship
+- Frederick County Public Defender’s Office
+- Frederick County State’s Attorney’s Office
+- Frederick Police
+- Frederick Police Department
+- The Frederick News-Post
+- The Independent
 ---
 
 An 87-year-old Maryland man accused of killing his roommate was turned in by a church pastor, according to a report.

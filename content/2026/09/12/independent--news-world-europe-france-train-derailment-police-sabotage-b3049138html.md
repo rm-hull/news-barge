@@ -10,6 +10,25 @@ image: https://static.independent.co.uk/2026/09/12/16/2294356543..?trim=0,2,0,2&
 categories:
 - News & Politics
 - UK
+locations:
+- Adamuz
+- Brétigny-sur-Orge
+- Caen
+- Cléon
+- Eckwersheim
+- France
+- Normandy
+- Paris
+- Rouen University Hospital
+- Seine-Maritime
+- Spain
+- Strasbourg
+people:
+- Sébastien Gallois
+organisations:
+- Associated Press
+- SICOP
+- TGV
 ---
 
 French authorities are investigating whether sabotage caused a train derailment that injured 44 people in Normandy, after a piece of rail was found on the track.

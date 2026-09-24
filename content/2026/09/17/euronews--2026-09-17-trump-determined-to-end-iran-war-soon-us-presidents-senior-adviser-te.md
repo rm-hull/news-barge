@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '## Gulf'
+- Dallas
+- Dubai
+- Egypt
+- Iran
+- Jordan
+- Middle East
+- Middle Eastern
+- Qatar
+- Saudi Arabia
+- Sudan
+- Tehran
+- UAE
+- US
+- Washington
+people:
+- '## Massad Boulos'
+- Donald Trump
+- Massad Boulos
+- Sudan Boulos
+organisations:
+- Euronews
+- UN Security Council
 ---
 
 ## Massad Boulos, senior adviser to the US president on Arab and Middle Eastern affairs, said Donald Trump was working to end the months-long war, pointing out he was a "person who delivers".

@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Britain
+- Port Talbot
+- Solihull
+- UK
+- US
+- Wales
+- West Midlands
+people:
+- Andy Burnham
+- Donald Trump
+- Jonathan Reynolds
+- Keir Starmer
+- Laura Kuenssberg
+- PB Balaji
+- Sharon Graham
+organisations:
+- BBC
+- Guardian
+- JLR
+- Jaecoo
+- Jaguar Land Rover
+- Labour
+- Range Rover
+- Sunday Times
+- Tata Motors
+- Trump
+- Unite
+- Volkswagen
 ---
 
 The government has signalled that it will not invest taxpayers’ money to limit job losses at Jaguar Land Rover (JLR), after it emerged that the UK’s biggest carmaker is planning up to 4,000 redundancies.

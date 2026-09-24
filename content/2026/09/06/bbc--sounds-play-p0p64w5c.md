@@ -11,6 +11,28 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- UK
+people:
+- Andrew Griffith
+- Andy Burnham
+- Ben Andrews
+- Chris Flynn
+- Chris Gray
+- Grace Braddock
+- Henry Zeffman
+- Jesse Fox
+- Joe Pike
+- John Healey
+- Laura Kuenssberg
+- Nigel Farage
+- Sam Bonham
+organisations:
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- Reform UK
+- WhatsApp
 ---
 
 ## Episode details

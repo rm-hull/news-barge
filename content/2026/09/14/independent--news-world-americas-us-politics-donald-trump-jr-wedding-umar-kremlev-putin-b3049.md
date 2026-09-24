@@ -12,6 +12,50 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bahamas
+- China
+- Dubai
+- Iran
+- Kremlin
+- Moscow
+- Russia
+- U.S.
+- Ukraine
+- United States of America
+- White House
+people:
+- Bettina Anderson
+- Clinton
+- Don
+- Donald Trump Jr.
+- Donald Trump Jr.’s
+- Eric Trump
+- Forbes
+- Frank Montoya Jr.
+- Holden Triplett
+- Jared Kushner
+- Paul Manafort
+- Robert Garcia
+- Trump Jr
+- Trump Jr.
+- Trump Jr.’s
+- Umar Kremlev
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Congress
+- FBI
+- Gazprom
+- House Oversight Committee
+- IBA
+- Instagram
+- International Boxing Association
+- National Security Council
+- Order of Friendship
+- ProPublica
+- The Independent
+- Trump Tower
 ---
 
 A Russian oligarch closely tied to Vladimir Putin bankrolled Donald Trump Jr.’s wedding to Bettina Anderson, whose three-day weekend nuptials in the Bahamas cost hundreds of thousands of dollars.

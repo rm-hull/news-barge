@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/9125603baaa69836781c6305419932194dba050a/130_78_1343_1075/master/1343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee07b8206a31e826315761c73d307048
+locations:
+- Brighton Centre
+- Kemi Badenoch
+- Liberal Britain
+people:
+- Carolyn Quinn
+- Cody Butler
+- Ed Davey
+- Gavin Barwell
+- Grant Shapps
+- Josh Bancroft
+- Kemi Badenoch
+organisations:
+- Cannock Chase council
+- Green
+- Labour
+- Lib Dem
+- Lib Dems
+- Lib Dems’
+- Liberal Democrat
+- Liberal Democrats’
+- One Nation Conservative Network
+- One Nation Liberals
+- Reform
+- SNP
+- Tories
+- Tory
 ---
 
 Climbing the party-branded stairs of the Brighton Centre with a Liberal Britain tote bag over his shoulder, Cody Butler looks quite at home at the Liberal Democrats’ annual jamboree.

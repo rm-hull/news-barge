@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21481683.jpg?type=og-image&xType=0&yType=66
+locations:
+- Eastside Gardens
+- Wallsend
+people:
+- Jade Richardson
+- John 'Paddy' Carrol
+- Paddy
+organisations:
+- CQC
+- Durham County Council
+- Eastside Gardens
+- Prestwick Care
 ---
 
 *(Image: Prestwick Care)*

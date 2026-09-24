@@ -14,6 +14,19 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIyMTdjMzQ2LWI2NjEtNGNjZC1iNjRiLThlMWRjYzE0YzlhMTphMTY1M2Y2ZC1lNDc1LTQzMDYtOGIyYy0yYTQ1NzJiYWFjNmM=.png?crop=3:2,smart&trim=&width=1022&auto=webp&quality=75
+locations:
+- A647 Queensbury Road
+- Halifax
+- Howcans Lane
+- Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- Honda Civic
+- MCET
+- Major Collision Enquiry Team
+- Seat Leon
+- West Yorkshire Police
 ---
 
 # A647: Woman dies after crash in Yorkshire involving three vehicles

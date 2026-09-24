@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- YOUR
+people:
+- Andrew Judson
+- Gill Dixon
+organisations:
+- Baildon Neighbourhood Plan
+- Baildon Neighbourhood Plan Working Group
+- Baildon Town Council
+- Bradford Council
+- Keighley Neighbourhood Development Plan
+- Public Notice Portal
+- Town Council
 ---
 
 *(Image: T&A)*

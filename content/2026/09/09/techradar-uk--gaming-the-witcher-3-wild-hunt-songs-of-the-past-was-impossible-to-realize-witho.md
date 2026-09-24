@@ -13,6 +13,22 @@ description: 'According to CD Projekt Red, The Witcher 3: Wild Hunt''s upcoming 
 image: https://cdn.mos.cms.futurecdn.net/DPfsBLNCEVs6xx3xUaapC4-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Letten
+people:
+- Despoina Anetaki
+- Jakub Rokosz
+- Letten
+organisations:
+- Demi Williams
+- Fool's Theory
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- TechRadar Gaming
+- The Witcher
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/DPfsBLNCEVs6xx3xUaapC4.png) 

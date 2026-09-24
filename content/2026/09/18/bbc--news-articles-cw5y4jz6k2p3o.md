@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64e8/live/2fe49140-b08a-11f1-b7c1-3dec1512f22d.jpg
+locations:
+- America
+- Aran Islands
+- Colorado
+- County Clare
+- Ennis
+- Ireland
+- Lisdoonvarna
+- Prosecco
+- Shannon Airport
+- The Matchmaker Bar
+people:
+- Brunette Colorado
+- Chrishell Stause
+- Emma Hernan
+- Ennis
+- Instagram
+- Jason Mangan
+- Jay
+- Jessica Raiola
+- Lisdoonvarna
+- Mary Timby
+- Willie Daly
+organisations:
+- AirBnB
+- Lisdoonvarna
+- Matchmaker Bar
+- Met Through Friends
+- Netflix
+- The Matchmaker
+- TikTok
+- Timby
+- Timby's
 ---
 
 "It was very serendipitous" - Mary and Jason on finding love in Ireland

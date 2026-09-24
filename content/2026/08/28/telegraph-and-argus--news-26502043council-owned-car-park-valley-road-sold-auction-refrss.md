@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Shipley Fire Station
+- Valley Road
+people: []
+organisations:
+- BRADFORD Council-owned
+- BTG Eddisons
+- Bradford Council
+- Government
+- Premier Store
 ---
 
 *(Image: BTG Eddisons)*

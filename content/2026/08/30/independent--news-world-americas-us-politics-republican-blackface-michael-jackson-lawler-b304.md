@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- NY
+- New York
+- Virginia
+people:
+- Cait Conley
+- Justin Trudeau
+- King of Pop
+- Michael Jackson
+- Michael Jackson Jr.
+- Mike Lawler
+- Ralph Norman
+organisations:
+- 17th Congressional District
+- Independent
+- The New York Times
+- U.S. Army
 ---
 
 A Republican lawmaker has revived memories of his blackface scandal with a social media post commemorating Michael Jackson’s birthday.

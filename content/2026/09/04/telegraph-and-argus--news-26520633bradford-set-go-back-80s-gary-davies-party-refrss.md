@@ -12,6 +12,23 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Bradford
+people:
+- Duran Duran
+- Gary Davies
+- Gary fun
+- Whitney
+organisations:
+- ABBA
+- Aha
+- BBC Radio 2
+- Depeche Mode
+- Eurythmics
+- Human League
+- Madonna
+- Soft Cell
+- Wham
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/18835528.jpg?type=og-image&xType=0&yType=39
+locations:
+- Harrogate Police Station
+- Keighley
+- Kildwick
+- Main Street
+- Portland Court
+- Skipton Magistrates Court
+people:
+- Harold Inskip
+- Julian White
+- NYP
+organisations: []
 ---
 
 *(Image: NYP)*

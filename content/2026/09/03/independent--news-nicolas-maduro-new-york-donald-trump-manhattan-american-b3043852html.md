@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brooklyn
+- Caracas
+- Manhattan
+- Miami
+- New York
+- U.S.
+- Venezuela
+people:
+- Alvin K. Hellerstein
+- Cilia Flores
+- Donald Trump
+- Joshua Goodman
+- Nicolás Maduro
+organisations:
+- Associated Press
 ---
 
 Former Venezuelan President Nicolás Maduro and his wife asked a judge on Wednesday to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady of a foreign country.

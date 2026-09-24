@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Free Palestine
+- Gaza
+- Israel
+- Las Vegas
+- MetLife Stadium
+- Nevada.
+- New Jersey
+- US
+- West Bank
+people:
+- Benjamin Haggerty
+- Britney Spears
+- Christina Aguilera
+- Ed Sheeran
+- Macklemore
+- Paris Hilton
+- Pink
+organisations:
+- Hind's Hall
+- Instagram
+- Israeli-American Council
+- Messina Touring Group
+- Pink
+- Rapper Macklemore
+- Rolling Stone
+- StopAntisemitism
+- UN
 ---
 
 ![Close up of Macklemore, who has shaved blonde hair, and is wearing a blue striped shirt.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0833/live/c4a7c1f0-b065-11f1-a540-61c3f7fc4e6c.jpg)

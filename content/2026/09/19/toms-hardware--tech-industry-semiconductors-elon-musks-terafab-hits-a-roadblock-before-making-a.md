@@ -13,6 +13,24 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/YcsuCrWsLfu2BX3ijFziAU-2560-80.jpg
+locations:
+- U.S.
+people:
+- Anton Shilov
+- Elon Musk
+- Tera-Print
+- Tom
+organisations:
+- Google News
+- PCMag
+- SpaceX
+- SpaceXAI
+- Tera-Print
+- Tera-print
+- Terafab
+- Tesla
+- Tom’s Hardware
+- U.S. Department of Defense
 ---
 
 ![Elon Musk](https://cdn.mos.cms.futurecdn.net/YcsuCrWsLfu2BX3ijFziAU.jpg)

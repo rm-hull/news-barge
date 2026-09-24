@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford'**
+- Morrisons' Bradford
+- UK
+people:
+- Alex Paver
+- Imran Hussain
+organisations:
+- '##'
+- Aldi
+- Asda
+- BRADFORD
+- Bradford East
+- Labour
+- Lidl
+- MP
+- Morrisons
+- Morrisons' Bradford
+- Sainsbury’s
+- Tesco
+- Worldpanel
 ---
 
 *(Image: T&A)*

@@ -15,6 +15,27 @@ categories:
 - Personal Finance & Investing
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- The York
+people:
+- Cllr Ayre
+- Cllr Claire Douglas
+- Cllr Douglas
+- Cllr Nigel Ayre
+- David Skaith
+- Keir Starmer
+organisations:
+- Labour City of York Council
+- Labour Council
+- Labour York
+- Newsquest
+- North Yorkshire Policy Lab
+- The Press
 ---
 
 ## 'It's right York sees its fair share'- council leader on £1-a-night 'tourist tax'

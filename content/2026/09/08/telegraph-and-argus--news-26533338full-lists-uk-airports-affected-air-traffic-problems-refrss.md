@@ -14,6 +14,28 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Aberdeen Airport
+- Belfast City Airport
+- Birmingham Airport
+- East Midlands Airport
+- Edinburgh Airport
+- Glasgow Airport
+- Jersey Airport
+- London Gatwick
+- London Heathrow
+- Manchester Airport
+- Southampton Airport
+- Stansted Airport
+- UK
+people: []
+organisations:
+- Flightradar24
+- Heathrow Airport
+- NATS
+- National Air Traffic Services
+- Nats
+- Newsquest
 ---
 
 *(Image: Newsquest)*

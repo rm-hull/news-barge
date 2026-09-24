@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Arbor
+- England
+people:
+- James Weatherill
+- Lily Wielar
+- Pepe Di’Iasio
+- Rachel de Souza
+- Tom Bennett
+organisations:
+- Arbor
+- Association of School and College Leaders
+- Department for Education
+- DfE
+- Education Policy Institute
+- Guardian
 ---
 
 The proportion of secondary school students in England removed from class and placed in “internal exclusion” as a disciplinary measure has almost trebled in three years, according to new data.

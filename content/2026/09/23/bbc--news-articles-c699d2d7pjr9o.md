@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d6c/live/3a788ca0-b586-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- An Garda Síochána
+- Buncrana
+- County Donegal
+- Derry
+- Eastway
+- Foyle
+- Garda North Western Region
+- Londonderry
+- Northern Ireland
+- Republic of Ireland.
+people:
+- Colum Eastwood
+- Donegal Anderson
+- Gareth Lavery
+- Gary Anderson
+- Karol Kelly
+- Karol Kelly **A
+- Naomi Long
+organisations:
+- An Garda Síochána
+- Garda Síochána
+- Justice
+- PSNI
+- Police Service of Northern Ireland
 ---
 
 ![Mugshot of man with short dark hair and a grey sweater](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9d6c/live/3a788ca0-b586-11f1-b1d1-571ed4d7ff2c.jpg)

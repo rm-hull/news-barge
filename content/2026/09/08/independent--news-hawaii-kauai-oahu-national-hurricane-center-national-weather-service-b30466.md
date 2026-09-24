@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Hawaii
+- Kauai
+- Lihue Airport
+- Lowell
+- Niihau
+- Oahu
+people:
+- Josh Green
+- Lala
+organisations:
+- National Hurricane Center
+- National Weather Service
 ---
 
 Damaging winds and heavy rains from Hurricane Lowell were pelting Hawaii's western islands in the overnight hours Tuesday, bringing the threat of floods, mudslides and tornadoes.

@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- America
+- China
+- US
+people:
+- Craig Hale
+organisations:
+- ?** X
+- American AI
+- Axios
+- ChatGPT
+- Craig’s
+- Elon Musk
+- Global Government Affairs
+- Google News
+- OpenAI
+- TechRadar Pro
+- Twitter
+- US AI
+- pro-AI
 ---
 
 ![Twitter social media application change logo to X. Elon Musk CEO of twitter rebranded Twitter to 'X'. Social media application technology concept.](https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP.jpg) 

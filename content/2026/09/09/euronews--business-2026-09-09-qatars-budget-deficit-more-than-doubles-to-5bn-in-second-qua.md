@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bandar Abbas
+- Doha
+- Gulf of Oman
+- Iran
+- Qatar
+- Strait of Hormuz
+people:
+- Majed al-Ansari
+organisations:
+- Edison
+- Kpler
+- Ministry of Finance
+- QatarEnergy
 ---
 
 ## The first-half shortfall has exceeded Qatar’s original full-year forecast. Doha has said cuts to operating spending exclude salaries and capital projects, while European gas buyers face delivery cancellations extending into early November as the Iran war postpones revenue.

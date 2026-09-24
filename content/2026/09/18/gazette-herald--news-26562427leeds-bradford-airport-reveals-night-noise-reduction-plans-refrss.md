@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Leeds Bradford Airport
+- UK
+- Yorkshire
+people:
+- James Mason
+- Steve Heapy
+- Vincent Hodder
+organisations:
+- '## Chamber of commerce'
+- Jet2
+- Leeds Bradford
+- Leeds Bradford Airport
+- PA Media
+- The West and North Yorkshire Chamber of Commerce
 ---
 
 *(Image: PA Media)*

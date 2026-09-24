@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21488055.jpg?type=og-image&xType=0&yType=65
+locations:
+- County Durham
+- Crook Coroners Court
+- Durham Police
+- Farnham
+- Guildford
+- Newcastle Freeman Hospital Mortuary
+- Royal Victoria Infirmary
+- Seaham Beach
+- Spain
+- Surrey
+- Ukraine
+people:
+- Adam Doven
+- Brian Deary
+- Crispin Oliver
+- David Airey
+- Dylan Middlemiss
+- Hugo
+- Louise Dovern
+- Matthew Blades Scarlett Moffatt
+- Sam Hoggard
+organisations:
+- Durham University
+- Freeman Heart Unit
+- PC
+- THE NORTHERN ECHO
 ---
 
 A "bright" student was seen shouting for help before being dragged under the waves while swimming off the County Durham coast, an inquest heard.

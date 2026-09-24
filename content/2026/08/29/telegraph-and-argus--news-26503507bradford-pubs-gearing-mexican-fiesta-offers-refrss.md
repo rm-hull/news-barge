@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- England
+- Humber
+- Wales
+people:
+- Sarah Patton
+organisations:
+- Admiral Taverns
+- BRADFORD
+- Brand Potential
+- Crown Hotel
+- Google Street View
+- Malt Kiln Inn
+- Mexi-CAN
+- Proper Pubs
+- Yorkshire
 ---
 
 *(Image: Google Street View)*

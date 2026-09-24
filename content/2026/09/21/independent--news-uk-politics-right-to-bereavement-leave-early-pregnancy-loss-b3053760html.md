@@ -12,6 +12,17 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/21/16/46/iStock-1477184253.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Great Britain
+- UK
+people:
+- Kate Dearden
+- Paul Nowak
+- Vicki Robinson
+organisations:
+- Department for Business, Innovation, Science and Trade
+- Miscarriage UK
+- TUC
 ---
 
 Employees grieving a loss during early pregnancy or the death of a relative are set to gain statutory time off under expanded rules outlined by the government.

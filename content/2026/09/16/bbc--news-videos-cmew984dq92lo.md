@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Le Freeport
+- Singapore
+people:
+- Vandhna Bhan
+organisations:
+- BBC
 ---
 
 # Handbags, jewels, watches: Inside Singapore's dirty money auction

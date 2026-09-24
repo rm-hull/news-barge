@@ -13,6 +13,37 @@ image: https://cdn.mos.cms.futurecdn.net/Rej3Az65KggnSeCFeLXF9b-1200-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Grodd
+people:
+- Barry Allen
+- Grodd
+- Jimmy Olsen
+- Jimmy Tatro
+- Skyler Gisondo
+- Tom
+organisations:
+- CGI
+- DC Studios
+- DC Universe
+- DCU
+- Daily Planet
+- Disney Plus
+- Google News
+- Gorilla Grodd
+- Gorilla Grodd*'
+- HBO Max TV
+- LMFAO
+- Marvel Cinematic Universe
+- Marvel Studios
+- Metropolis University
+- Moon Knight TV
+- Netflix
+- New Looks
+- Star Wars
+- TPvGG
+- TechRadar
+- The People
 ---
 
 ![A behind-the-scenes image of a man wearing a gorilla costume while shooting DCU TV show The People v Gorilla Grodd](https://cdn.mos.cms.futurecdn.net/Rej3Az65KggnSeCFeLXF9b.jpg) 

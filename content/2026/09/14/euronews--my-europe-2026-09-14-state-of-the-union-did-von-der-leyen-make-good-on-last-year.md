@@ -12,6 +12,60 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Austria
+- Belgium
+- Berlin
+- Brussels
+- China
+- Cyprus
+- Czech Republic
+- Denmark
+- Euroclear
+- Europe
+- Gaza
+- Germany
+- Greece
+- Hungary
+- India
+- Indonesia
+- Iran
+- Ireland
+- Israel
+- Leipzig
+- Mercosur
+- Mexico
+- Middle East
+- Moscow
+- Netherlands
+- Spain
+- Strait of Hormuz
+- Strasbourg
+- US
+- Ukraine
+- West Bank
+- White House
+people:
+- Bart De Wever
+- Donald Trump
+- Mark Carney
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- Association Agreement
+- EU
+- EU-US
+- EU-Ukraine Drone Alliance
+- Euronews
+- European Commission
+- European Drone Defence Initiative
+- European Parliament
+- Kyiv
+- NATO
+- Russian Central Bank
+- State of the Union
 ---
 
 ## Did Ursula von der Leyen deliver on all the promises she made in last year's State of the Union speech? Euronews puts her work to the test.

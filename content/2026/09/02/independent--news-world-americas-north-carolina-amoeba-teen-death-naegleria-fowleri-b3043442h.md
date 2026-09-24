@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Louisiana
+- Mid-Atlantic
+- North Carolina
+- South
+- U.S.
+- United States
+people:
+- Lillian Smart
+organisations:
+- Centers for Disease Control and Prevention
+- The Independent
 ---
 
 A North Carolina teenager infected with a rare brain-eating amoeba died Monday, according to state health officials.

@@ -12,6 +12,41 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/20/60/1200x675_cmsv2_14f72e3b-421a-5763-9ba8-afba104cd7d9-9922060.jpg
+locations:
+- Belgium
+- Berlin
+- Calif.
+- California.
+- Europe
+- Germany
+- Guatemala City
+- Gulf of Mexico.
+- Kremlin
+- London
+- Mountain View
+- Munich
+- New York
+- Norway
+- Pacific
+- Palo Alto
+- Russia
+- U.S.
+- US
+people:
+- Alexander Lukashenko
+- Bill White
+- Cristina Kenz
+- Dmitry Peskov
+- Jamieson Greer
+- Jeff Chiu
+- Scott Bessent
+- Vladimir Putin
+organisations:
+- Euronews
+- Google
+- Melissa & Doug
+- Stanford University
+- U.S. Treasury
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

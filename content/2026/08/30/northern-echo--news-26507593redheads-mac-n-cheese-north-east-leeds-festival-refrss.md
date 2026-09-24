@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bramham Park
+- County Durham
+- Fontaines D.C
+- Leeds
+- Newcastle
+- North East
+people:
+- Charlie Watson
+organisations:
+- Grainger Market
+- Leeds Festival
+- Newcastle
+- Overpass
+- Redheads Mac N Cheese
+- Yorkshire
 ---
 
 A legendary North East food favourite has taken over Leeds Festival – with huge queues forming for a taste of one of Newcastle's most-loved dishes.

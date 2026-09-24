@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Beat the Boat
+- Kings Staith
+- Millennium Bridge
+- River Ouse
+- Terry Avenue
+- Tower Gardens
+- UK York
+people:
+- Carl Wain
+- Christopher Pegg
+organisations:
+- Age UK York
+- Boat
+- City Cruises
+- YOPA
+- York Older People’s Assembly
 ---
 
 A new riverside challenge is coming to the city as part of this year’s 50+ Festival.

@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/46a05a7c5abbdad1de23446537f1ad216e553d86/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d123ef7322a3f54bd5e8161576de6737
+locations:
+- Alaska
+- America
+- Connecticut
+- Covid
+- Hawaii
+- Idaho
+- Maine
+- Massachusetts
+- New Hampshire
+- New Mexico
+- Rhode Island
+- US
+- Vermont
+- Washington
+- Wyoming
+people:
+- Covid
+- Daniel Jernigan
+- Demetre Daskalakis
+- Emily Hilliard
+- Robert F Kennedy Jr
+organisations:
+- CDC
+- Callen-Lorde Community health
+- Covid
+- Guardian
+- HHS
+- National Center for Emerging and Zoonotic Infectious Diseases
+- National Center for Immunization and Respiratory Diseases
+- Trump
+- US Centers for Disease Control and Prevention
+- US Department of Health and Human Services
+- VFC
 ---
 
 The Trump administration is holding back Covid vaccines for all children in at least 11 states and one US territory, and officials have not indicated when or whether the shots will become available.

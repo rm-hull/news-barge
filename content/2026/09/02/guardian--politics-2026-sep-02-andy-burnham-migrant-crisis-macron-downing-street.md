@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Brussels
+- Downing Street
+- France
+- Iran
+- Syria
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Emmanuel Macron
+- Keir Starmer
+- Volodymyr Zelenskyy
+organisations:
+- EU
+- Guardian
+- Macron
 ---
 
 Andy Burnham will begin the process of courting European leaders when he welcomes Emmanuel Macron as the first foreign head of state to visit him in Downing Street.

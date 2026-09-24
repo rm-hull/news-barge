@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Health & Fitness
 - Pets & Animals
+locations:
+- Carlin Howe Farm
+- Teesside
+- UK
+people:
+- Maxi
+organisations:
+- Mates Rescue
+- Maxi
+- Maxi's Mates Rescue
+- Maxi’s Mates Rescue
+- PayPal
+- Tesco
 ---
 
 An animal shelter has launched an urgent fundraising appeal after three dogs in its care were found to have serious medical conditions.

@@ -11,6 +11,28 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/508f/live/c71972
 categories:
 - UK
 - News & Politics
+locations:
+- UK
+- UK.
+- US
+- Uganda
+people:
+- Archie
+- Charles
+- King
+- Lilibet
+- Meghan
+- Prince Harry
+organisations:
+- Duchess of Sussex
+- Executive Committee for the Protection of Royalty and Public Figures
+- HELLO!
+- Home Office
+- Ravec
+- Risk Management Board
+- Royal Household
+- Royal Watch
+- Sussexes'
 ---
 
 ![Prince Harry and Meghan, head and shoulders picture](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/508f/live/c7197250-b072-11f1-9819-95a805e73cfa.jpg)

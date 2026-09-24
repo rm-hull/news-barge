@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Black Sea
+- Black Sea Fleet
+- Darnytskyi
+- Krasnodar
+- Kyiv
+- Moldova
+- Moscow
+- Mykolaiv
+- Novorossiysk
+- Odesa
+- Russia
+- Starokozache
+- Ukraine
+people:
+- Olha Smal
+- Veniamin Kondratyev
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- General Staff
+- Human Rights Monitoring Mission
+- State Emergency Service
+- The Associated Press
+- U.N.
+- United Nations
 ---
 
 Ukrainian President Volodymyr Zelenskyy chided the international community Wednesday for not taking a tougher stance against Russia over its escalating bombardment of civilian areas of Ukraine.

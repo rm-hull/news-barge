@@ -13,6 +13,37 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- Brooklyn
+- Cynwyd Elementary
+- Lower Merion
+- New York
+- Philadelphia
+- Texas
+people:
+- Andrew Liddell
+- Dana Bash
+- Frank Ranelli
+- Julie Liddell
+- Kelly Clancy
+- Linda McMahon
+- Stacy Hawthorne
+- Yair Lev
+organisations:
+- AI
+- CNN
+- Consortium for School Networking
+- Curriculum Associates
+- EdTech Law Center
+- Google
+- IXL
+- Lower Merion School District
+- New York City Public Schools
+- The 74
+- The Associated Press
+- Thomas Jefferson University Hospital
+- U.S. Department of Education
+- Zoom
 ---
 
 Parents pushing back against technology in the classroom have so far directed their anger toward major corporations like Google and Curriculum Associates, the company behind the widely used i-Ready platform.

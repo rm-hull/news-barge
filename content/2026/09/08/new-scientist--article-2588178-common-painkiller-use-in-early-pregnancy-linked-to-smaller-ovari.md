@@ -15,6 +15,26 @@ categories:
 - Technology & Software
 - Family & Parenting
 - Health & Fitness
+locations:
+- Copenhagen
+- Denmark
+- France
+- Hong Kong
+- Japan
+- Norway
+- Rigshospitalet
+- Sweden
+- Taiwan
+people:
+- Brian Lee
+- Dimitrios Siassakos
+- Margit Bistrup Fischer
+- Séverine Mazaud-Guittot
+organisations:
+- Copenhagen University Hospital
+- National Institute of Health and Medical Research
+- University College London
+- University of Pennsylvania
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311333246.jpg?w=840)

@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Cheshire
+- Sheffield
+- Wilmslow
+people:
+- Christopher Brain
+- God
+- Hyde
+- Jekyll
+- Lycra Nuns
+- Robert De Niro
+- Tim Clark
+organisations:
+- Church of England
+- Inner London Crown Court
+- KC
+- NOS
+- Nine O’Clock Service
+- Ponds Forge Rotunda
+- Present Tense
 ---
 
 *(Image: Freelance)*

@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bishopthorpe Road
+- Cleggs
+- East Parade
+- Goodramgate
+- Heworth
+- Micklegate
+- Rowntree Park
+- Some York
+- The Groves
+people:
+- Andrew Lowson
+- Kate Ravilious
+- Mark Jones
+organisations:
+- Arup
+- BID Board
+- City of York Council
+- Kevin Glenton
+- Labour
+- Minster Badge
+- Parking Strategy
+- York Business Improvement District
+- York's Park & Rides
 ---
 
 PARKING charges in York are putting off customers and tourists, a shop has claimed ahead of a decision on whether to cut some fees.

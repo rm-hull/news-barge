@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Anak Krakatau
+- Indonesia
+- Jakarta
+- Mount Anak Krakatau
+- Mount Krakatau
+- Soekarno-Hatta International Airport
+people: []
+organisations:
+- Angkasa Pura
+- Halim Perdanakusuma
+- Soekarno-Hatta International Airport
 ---
 
 ## A volcano erupted in Indonesia on Sunday, prompting the cancellation of all flights at Jakarta’s Soekarno-Hatta International Airport and disrupting other domestic airports.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bedfont Lakes Country Park
+- Fareham
+- Feltham
+- Hampshire
+- London
+- Padstow Walk
+- Southampton
+people:
+- Joanne Sheen
+- Toby Elcock
+organisations:
+- Crimestoppers
+- Isle of Wight Constabulary
+- Metropolitan Police
+- PA
+- Press Association
 ---
 
 Police have confirmed that human remains found in woodland in southwest London following a wildfire are those of a Southampton mother-of-three who went missing nearly seven years ago.

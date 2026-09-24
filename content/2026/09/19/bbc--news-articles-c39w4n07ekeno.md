@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b135/live/c0745dc0-b360-11f1-8f19-bd786ea30d0b.jpg
+locations:
+- Afghanistan
+- Ayrshire
+- China
+- Europe
+- Glenbarr
+- Kintyre
+- Loanhead
+- Midlothian
+- Patna
+- Scotland
+- UK
+- Westminster
+people:
+- Gareth Balmer
+- Jane Connors
+- Lorna Nisbet
+- Niamh Nic Daeid
+- Supt Niven Bull
+- Vicky Gamble
+organisations:
+- BBC News
+- Dundee University
+- EUDA
+- European Union Drugs Agency
+- Leverhulme Research Centre for Forensic Science
+- Nitazenes
+- Police Scotland
+- Taliban
+- Vicky Gamble
 ---
 
 ![Close-up of gloved hands holding a small transparent plastic packet containing a light-coloured powdery substance. The packet is being examined against an out-of-focus laboratory background.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b135/live/c0745dc0-b360-11f1-8f19-bd786ea30d0b.jpg)

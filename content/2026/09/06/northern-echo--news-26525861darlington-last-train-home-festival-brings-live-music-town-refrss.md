@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- County Durham
+- Darlington
+- Teesside
+- The Hullabaloo
+people:
+- Anna Karila
+- Anna Thomas
+- CHRIS BOOTH
+- Callum Pitt
+- Dawn Bailey
+- Devin Gray
+- El Purnell
+- Gavin Webster
+- Katie Grace
+- Labyrinthine Oceans
+- Mag Stage
+- Marti Pellow
+- Maxine Wade
+- Polyvinyl
+- Ray Bradshaw
+- Risco
+- Rob Mullholland
+- Rosie Larada
+- Shakk
+- Silky
+- Wench
+organisations:
+- BBC Introducing
+- Cvrches
+- Darlington Hippodrome
+- Darlington's Tracks
+- Hullabaloo Theatre
+- Lucia & The Best Boys
+- NARC
+- Nano Kind
+- Narc
+- Newcastle's Leazes
+- Northern Hospitality
+- The Callows
+- The Forum
+- The Forum Music Centre
+- The Halls Of Ridiculous
+- The Hippodrome Theatre
+- The Hullabaloo
+- The John Wade Lounge of The Hippodrome Theatre
+- The Last Dinner Party
 ---
 
 Darlington was transformed for a day of live music and comedy as the Last Train Home Festival took over the town's venues.

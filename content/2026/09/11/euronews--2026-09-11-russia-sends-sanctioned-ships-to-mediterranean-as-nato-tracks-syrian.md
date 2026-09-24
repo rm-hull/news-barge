@@ -13,6 +13,39 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Black Sea
+- Britain
+- Damascus
+- Hmeimim
+- Kremlin
+- Mediterranean
+- Moscow
+- Russia
+- Soviet Union
+- Strait of Gibraltar
+- Syria
+- Tartus
+- Ukraine
+people:
+- Admiral Levchenko
+- Bashar al-Assad
+- Skobelev
+organisations:
+- Airwars
+- Akademik Pashin
+- Carabinieri
+- English Channel
+- Euronews
+- Foreign Ministry
+- HMS Duncan
+- HMS Severn —
+- HMS St Albans
+- Islamic State
+- MarineTraffic
+- SANA
+- Sparta
+- Syrian Express
 ---
 
 ## Four Russian ships, including sanctioned cargo and tanker vessels escorted by a destroyer, entered the Mediterranean via Gibraltar on 27 August, ending the first interruption of Russia's naval presence there since 2013.

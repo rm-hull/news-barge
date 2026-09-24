@@ -14,6 +14,57 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Apperley Bridge
+- Bob Marley Way
+- Bradford
+- Dubai
+- Fowler Oldfield
+- Hall Lane
+- Hatton Garden
+- Image
+- Lambeth
+- Leeds Crown Court
+- London
+- Pure Nines
+- Rathmell Road
+- Scarcroft
+- Shipley
+- Syke Green
+- Toller Lane
+- Trevor Place
+- UK
+- Waterfront Mews
+- West Yorkshire
+- Westminster
+people:
+- Arjun Babber
+- Baqa Haider
+- Daniel Rawson
+- Fowler Oldfield
+- Gary Smith
+- Gregory Frankel
+- Haroon Rashid
+- Leeds
+- Nathan Rivers
+- Ramona Senior
+- Samir Jagirdar
+- Shahid Qadar
+organisations:
+- CCTV
+- Crown Prosecution Service
+- Economic Crime Unit
+- Financial Conduct Authority
+- Fowler Oldfield
+- Fowler Oldfield Ltd
+- Humber Regional Organised Crime Unit
+- NatWest
+- Newsquest
+- Pure Nines Ltd
+- Section 330
+- West Yorkshire Police
+- West Yorkshire Police Economic Crime Unit
+- West Yorkshire Police’s Economic Crime Unit
 ---
 
 *(Image: West Yorkshire Police)*

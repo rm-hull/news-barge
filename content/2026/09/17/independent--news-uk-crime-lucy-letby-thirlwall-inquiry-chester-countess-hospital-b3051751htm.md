@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Chester Hospital
+- Countess of Chester Hospital
+- Jacob King
+- Letby
+- PA
+- Policía de Cheshire
+people:
+- Child C
+- Child O.
+- Child P
+- JenniferJones-Key
+- Jones-Key
+- Justice Thirlwall
+- Justice Thirwall
+- Lady Justice Thirlwall
+- Lucy Letby
+- Nicola Lightfoot
+- Peter Byrne
+- Yvette Cooper
+organisations:
+- CCTV
+- NHS
+- Thirlwall Inquiry
 ---
 
 Lucy Letby was heard telling a colleague “you’ll never guess what just happened” after she murdered a premature baby at the Countess of Chester Hospital, the inquiry into the deaths has revealed.

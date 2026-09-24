@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Buttertubs Pass
+- Fleet Moss Road
+- Keld
+- Kidstone Pass
+- North Yorkshire
+- The Stang
+people:
+- Annabel Wilkinson
+- Jo Foster
+- Rachel Joyce
+organisations:
+- Kirkby Stephen
+- North Yorkshire Council
+- PIR
+- School Transport Action Group
 ---
 
 ![Two children look out the front of a bus.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9521/live/e4750910-ab98-11f1-aa04-efbf6a882854.jpg)

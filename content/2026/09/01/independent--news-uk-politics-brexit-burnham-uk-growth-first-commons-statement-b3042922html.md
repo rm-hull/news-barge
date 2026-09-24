@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Downing Street
+- Europe
+- Manchester
+- Nepal
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Maddox
+- Ed Davey
+- John Major
+- Keir Starmer
+- Kemi Badenoch
+- Margaret Thatcher
+- Mike Galsworthy
+- Millie Cooke
+- Naomi Smith
+- Sir Ed Davey
+- Vladimir Putin
+organisations:
+- Brexit
+- Commons
+- EU
+- European Movement UK
+- Labour
+- Lib Dem
+- Pro-EU
+- The Independent
+- Tory
 ---
 
 Andy Burnham has lashed out at the legacy of Brexit, saying it “ushered in a decade of low growth” which the UK is still paying for, as he made his first statement as prime minister to the Commons.

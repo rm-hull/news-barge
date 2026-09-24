@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21476178.jpg?type=og-image
+locations:
+- County Durham
+- DURHAM
+- Darlington
+- Northumbria
+- Parkside
+- Skerne Park
+- York
+people:
+- Keira
+- Nevaeh
+organisations:
+- County Durham
+- Durham Police
+- Sunderland
 ---
 
 *(Image: DURHAM POLICE)*

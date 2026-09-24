@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Chicago
+- Illinois
+- Indiana
+- School City of Hammond
+- Stanley
+people:
+- Binoy
+- Danielle
+- Owala
+- Stanley
+organisations:
+- Stanley
+- Yeti
 ---
 
 A public school district in Indiana has banned Stanley cups and other metal water bottles out of fear that they can be used as weapons.

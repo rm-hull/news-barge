@@ -11,6 +11,41 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- A327
+- Arsenal
+- Basingstoke Magistrates’ Court
+- Berkshire
+- England
+- France
+- Italy
+- London
+- M25
+- M3
+- Manchester City
+- Minley Road
+- Stamford Bridge
+- Wembley
+people:
+- '![Sterling'
+- Christopher Jennings
+- Fiona Jennings
+- Gareth Southgate
+- Jason Bartfeld KC
+- Kirsty Allman
+- Raheem Sterling
+- Simon Jones
+organisations:
+- Arsenal
+- Chelsea
+- Feyenoord
+- Hampshire
+- Isle of Wight Constabulary
+- Lamborghini
+- Liverpool
+- M25
+- QPR
+- Three Lions
 ---
 
 Raheem Sterling has pleaded guilty to dangerously driving a Lamborghini on the motorway earlier this year.

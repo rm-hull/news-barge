@@ -15,6 +15,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- California
+- District of Columbia
+- Illinois
+- Iowa
+- Michigan
+- Mississippi
+- New York
+- North Carolina
+- Texas
+people:
+- Donald Trump
+- Grant Witness
+- Kelly Rader
+- Norm Eisen
+- Scott Delaney
+organisations:
+- Grant Witness
+- Kennedy Center
+- Lost Funds
+- States United
+- States United Democracy Center
+- Trump
 ---
 
 The Trump administration has cut or frozen up to $177 billion in federal grants since the president took office for his second term, according to a tracking tool released Wednesday by a pro-democracy nonprofit and a group of researchers and scientists.

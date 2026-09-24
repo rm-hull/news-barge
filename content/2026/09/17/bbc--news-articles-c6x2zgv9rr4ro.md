@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Outdoors & Nature
+locations:
+- Argentina
+- Bolivia
+- Brazil
+- Central America
+- Central and South America
+- Costa Rica
+- La Paz
+- Rio Grande do Sul
+- Scotland
+- Universidad
+- Yungas
+people:
+- Andrew Kitchener
+- Caroline Sartor
+- Eduardo Eizirik
+- Paola Nogales-Ascarrunz
+- de San Andres
+organisations:
+- National Museums
+- Pontifical Catholic University
+- Tigrino Tiger
+- University of Oxford
+- Wildlife Conservation Research Unit
 ---
 
 ![A small cat with amber eyes peers at the camera. The cat has a black nose, a striped forehead and triangular ears. Its coat is grey-brown and it has spots like a leopard.  The wire netting of an enclosure and tropical foliage are visible behind.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f924/live/5c6733f0-b2b8-11f1-ad9d-efc12ace03e0.jpg)

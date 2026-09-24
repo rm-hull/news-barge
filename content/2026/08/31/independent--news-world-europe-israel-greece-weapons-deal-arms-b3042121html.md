@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Greece
+- Iran
+- Israel
+- Mediterranean
+- Turkey
+- United Kingdom
+people:
+- Ioannis Bouras
+- Israel Katz
+- Nikolaos Dendias
+- Nikos Dendias
+- Rafael
+organisations:
+- David Sling
+- Defense Ministry
+- Drone Dome
+- Elbit
+- GDDIA
+- General Directorate for Defence Investments and Armaments
+- Hezbollah
+- NATO
+- National Defence
+- SPYDER
+- Stockholm International Peace Research Institute
 ---
 
 Israel has signed a multi-billion-dollar weapons deal with Greece, marking the largest between the two Mediterranean countries.

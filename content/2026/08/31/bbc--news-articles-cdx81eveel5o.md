@@ -12,6 +12,56 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cd1/live/7b5d0a
 categories:
 - UK
 - News & Politics
+locations:
+- Amethi.
+- Cambridge
+- India
+- Italy
+- Moscow
+- New Delhi
+- New Delhi.
+- Palam Airport
+- Russia
+- Shakti Sthal
+- U.S.
+- UK
+- US
+- Uttar Pradesh
+- White House
+- Yamuna River
+people:
+- Alfred A Knopf
+- Indira Gandhi
+- Jawaharlal Nehru
+- Manmohan Singh
+- Nancy Reagan
+- Narendra Modi
+- Natwar Singh
+- Neerja Chowdhury
+- Nehru-Gandhi
+- Ottavio Quattrocchi
+- Priyanka
+- Rahul Gandhi
+- Rajiv Gandhi
+- Rasheed Kidwai
+- Ronald Reagan
+- Sonia Gandhi
+- Sonia Maino
+- Sushma Swaraj
+- William Collins
+organisations:
+- BJP
+- Belonging
+- Bharatiya Janata Party
+- Bofors
+- Congress Party
+- Dialog of Civilizations
+- India Today
+- Libération
+- Lok Sabha
+- Penguin Random House India
+- The Yellow Oval Room
+- World Public Forum
 ---
 
 ![Sonia Gandhi, the president of India's ruling Congress party, delivers a speech, attending the meeting with Russia's participants of "Dialog of Civilizations" World Public Forum in Moscow, 14 June 2005.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9dd8/live/28f7bac0-a4d1-11f1-9430-fd7879458310.jpg)

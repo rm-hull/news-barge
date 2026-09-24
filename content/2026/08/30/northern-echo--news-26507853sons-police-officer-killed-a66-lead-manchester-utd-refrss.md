@@ -14,6 +14,50 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Hartlepool
+- Middlesbrough
+- Old Trafford
+- PA
+- Riverside Stadium
+- South Bank
+- Victoria Park
+people:
+- Bruno Fernandes
+- Cole Robert Worthy
+- Jakub Matusiak
+- MARK FLETCHER
+- Makai Saddington
+- Man U
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- Owen Humphreys
+- PC Blades
+- PC Clough
+- Passat
+- Sarah
+- Senne Lammens
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Darlington FC
+- Eastleigh
+- Hartlepool United
+- Ipswich
+- Macclesfield
+- Man U
+- Manchester United
+- Middlesbrough
+- PA Photo
+- PC Blades
+- PC Blades'
+- Red Devils
+- Reds
+- VW
+- West Bromwich Albion
 ---
 
 The sons of a police officer killed in the head-on A66 smash led out Manchester United at Old Trafford, as tributes have continued to be paid across the weekend.

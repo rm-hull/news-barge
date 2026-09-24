@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Sonos
+- Sonos’
+people:
+- Alexa
+- Brandon Holley
+- Sid Patel
+- Sonos
+organisations:
+- '## Sonos Beam Ultra Sonos'
+- '## Sonos Fabric Sonos'
+- Amazon
+- App Sonos
+- Beam Ultra
+- Google Home
+- HDMI eARC
+- Reddit
+- Sonos Custom Agents
+- Sonos Fabric
+- WIRED
 ---
 
 Sonos has a new app. Stop me if you’ve heard this one before.

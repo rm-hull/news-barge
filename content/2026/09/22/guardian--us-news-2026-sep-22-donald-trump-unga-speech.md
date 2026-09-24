@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/b60b2766fdb26e598fb612318c23f6eb1d00909a/382_598_3523_2819/master/3523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12f898035b20a02aa5476202c1951f17
+locations:
+- Cuba
+- Denmark
+- Greenland
+- Henceforth
+- Iran
+- Islamic Republic
+- Latin America
+- New York
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Delcy Rodríguez
+- Donald Trump
+- Marco Rubio
+- Mark Rutte
+- Mohammad Reza Pahlavi
+- Nicolás Maduro
+- Nikita Khrushchev
+- Shah
+organisations:
+- Nato
+- UN
+- United Nations
 ---
 
 Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of former Soviet leader Nikita Khrushchev by openly contemplating the annihilation of a fellow UN member state.

@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- A66
+- Birchington Avenue
+- CLEVELAND
+- Grangetown
+- James Cook University Hospital
+- NORTHERN ECHO
+- Royal Victoria Infirmary
+- Teesside Crown Court
+people:
+- Also
+- Anthony McDonald
+- Jaden Wright
+- Jonathan Carroll
+- Man
+- Matthew Blades
+- Natalie Louise
+- Natalie Louise Kirton
+- Natalie Louise McDonald
+- Natalie McDonald
+- Richard Wright KC
+- Tom Clough
+- Valentia Foster
+- Valentina Foster
+organisations:
+- North News & Pictures Ltd
 ---
 
 *(Image: NORTHERN ECHO/ CLEVELAND POLICE)*

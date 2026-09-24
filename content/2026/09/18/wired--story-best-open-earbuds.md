@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Aeroclip
+- Shokz
+people:
+- Adrienne So
+- Ryan Waniata
+- Shokz
+organisations:
+- Apple AirPods Pro 3
+- Best Wireless Earbuds
+- Bose
+- Google
+- Samsung Galaxy Buds4 Pro
+- Shokz OpenDots Air
+- Shokz OpenFit Air
+- Suunto Spark
 ---
 
 Open earbuds are the big new thing in headphone land. Unlike in-ear variants, open earbuds are like tiny speakers that rest on the ear and let outside sound in naturally, so you can fully hear the world around you. Some use a hook style that wraps around the back of your ear, while others are clip-ons that look more like statement-piece earrings. Style aside, they are excellent for anyone who finds traditional earbuds uncomfortable or wants full environmental awareness for activities like running, biking, or even just doing chores around the house.

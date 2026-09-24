@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Dene Close
+- Hensall
+- North Yorkshire
+- Wand Lane
+people:
+- Kevin Glenton
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: Kevin Glenton)*

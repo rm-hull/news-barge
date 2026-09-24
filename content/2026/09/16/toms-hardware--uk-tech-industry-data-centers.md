@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Argentina
+- California
+- China
+- Denver Water
+- El Reno
+- Iran
+- Oklahoma
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+people: []
+organisations:
+- Amazon
+- Bitcoin
+- Get Tom's Hardware
 ---
 
 ![Amazon - AWS logo](https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-320-80.jpg)

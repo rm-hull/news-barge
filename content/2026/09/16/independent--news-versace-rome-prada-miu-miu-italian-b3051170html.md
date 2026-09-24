@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Versace
+people:
+- Dario Vitale
+- Giorgio Armani
+- Leo Dell’Orco
+- Miu Miu
+- Silvana Armani
+- Versace
+organisations:
+- Armani Hotels
+- Casa
+- Emporio Armani
+- Giorgio Armani Accessories
+- Miu Miu
+- Prada
+- Versace
 ---
 
 The Armani fashion group on Wednesday named Dario Vitale creative director of Emporio Armani and Giorgio Armani Accessories, a first step in the group's creative reorganization a year after the death of founder Giorgio Armani.

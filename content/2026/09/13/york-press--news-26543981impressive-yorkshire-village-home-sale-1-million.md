@@ -13,6 +13,17 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- '**York'
+- Fangfoss
+- Manor House Farm
+- North Yorkshire
+- Sauna
+- Stamford Bridge
+people: []
+organisations:
+- AGA
+- RM English
 ---
 
 ## Inside ‘impressive’ home for sale in ‘sought-after’ Yorkshire village for almost £1m

@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Dallas
+- Iran
+- Strait of Hormuz
+- Texas
+- US
+- United States
+people:
+- '## Trump'
+- Donald Trump
+- JD Vance
+organisations:
+- Congress
+- House
+- Senate
+- Supreme Court
+- Trump
 ---
 
 ## President Donald Trump, at Wednesday's Republican midterm convention, promised $5,000 to every American adult if Republicans retain control of Congress in November, while defending US war in Iran and antagonising Democrats.

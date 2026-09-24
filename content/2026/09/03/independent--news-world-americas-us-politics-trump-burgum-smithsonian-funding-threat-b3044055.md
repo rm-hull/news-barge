@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlantic
+- Smithsonian
+- U.S.
+- White House
+people:
+- Donald Trump
+- Doug Burgum
+- Lonnie Bunch
+- Vince Haley
+organisations:
+- National Museum of American History
+- National Zoo
+- Smithsonian Institution
+- White House Domestic Policy Council
 ---
 
 In the latest escalation of its campaign against the Smithsonian, President Donald Trump's administration has threatened to cut federal agency support for the landmark cultural institution.

@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Las Vegas
+- Mandalay Bay
+people:
+- '** Benn'
+- Carl Froch
+- Chris Algieri
+- Chris Eubank Jr
+- Chris van Heerden
+- Conor Benn
+- God
+- Nigel Benn
+- Ryan Garcia
+- Satan
+organisations:
+- BBC Sport
+- Meta Apex
+- T-Mobile Arena
+- UFC
+- WBC
 ---
 
 Behind the scenes with Conor Benn

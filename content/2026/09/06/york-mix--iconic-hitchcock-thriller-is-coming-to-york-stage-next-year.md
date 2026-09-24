@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Grand Opera House York
+- UK
+people:
+- Alfred Hitchcock
+- Charles Bruno
+- Craig Warner
+- David Gilbery
+- Guy Haines
+- Patricia Highsmith
+- Roxana Silbert
+organisations:
+- Bill Kenwright Ltd
+- Grand Opera House York
 ---
 
 A major national tour of Craig Warner’s stage adaptation of *Strangers on a Train* is coming to York next year.

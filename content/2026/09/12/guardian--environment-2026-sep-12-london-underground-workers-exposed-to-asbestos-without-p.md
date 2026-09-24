@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- LeighDay
+- London Underground
+- Northern Line
+- Steeds’
+people:
+- Catriona Ratcliffe
+- Micky Steeds
+- Rob Donnan
+organisations:
+- Confront Power
+- Guardian
+- LU
+- Steeds’
+- TfL
+- Transport for London
 ---
 
 Hundreds of London Underground workers could have been exposed to asbestos for almost 20 years without protection required under safety regulations, according to documents seen by the Guardian.

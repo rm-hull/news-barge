@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- Wales
+people:
+- Andy Burnham
+- Cathal McNaughton
+- Jonathan Reynolds
+organisations:
+- COWBUY
+- PA Wire
 ---
 
 *(Image: Cathal McNaughton/PA Wire)*

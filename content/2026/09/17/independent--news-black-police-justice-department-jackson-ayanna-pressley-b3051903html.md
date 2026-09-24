@@ -14,6 +14,64 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Alabama
+- Black Mississippi
+- Cobb County
+- Colbert County
+- Detroit
+- Florence
+- Georgia
+- Gulf Coast
+- Hall
+- Jackson
+- Kentucky
+- Marion
+- Massachusetts
+- North Carolina
+- Roanoke Rapids
+- St. Louis
+- U.S. South
+- US
+- Washington
+people:
+- Ayanna Pressley
+- Black
+- Blacks
+- Brad Franklin
+- Christy Spivey
+- Demetrius Eugene Fleming
+- Dennoriss Richardson
+- Emmett Till
+- Jackson
+- Jarques Ratliff
+- Jim Crow
+- Karlos Hill
+- Kyle Bassinga
+- Lawrence Wiggins
+- Leigh Richardson
+- Lisa Cupid
+- Matthew Brown
+- Nolan Xavier Wells
+- Sean Joe
+- Tasia Fortune
+- Trent Thompson
+- Trey Reed
+- __ Williams
+- ____ Fortune
+organisations:
+- ABC News
+- African and African American Studies
+- Associated Press
+- Cobb County Commission
+- Congress
+- Delta State University
+- Equal Justice Initiative
+- Justice Department
+- The Associated Press
+- The Impact of Lynching on Black Culture and Memory
+- University of Oklahoma
+- Washington University
 ---
 
 The death of a Black Mississippi woman found hanging from a tree has stirred distressing memories of the grim history of lynchings across the U.S. South.

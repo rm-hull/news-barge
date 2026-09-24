@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/35BFzKzoKEL3DVg4G2hTNX-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Hassam Nasir
+- Tom
+- YouTuber TecLab
+organisations:
+- GPU
+- Google News
+- Nvidia
+- PCB
+- PSU
+- TecLab
 ---
 
 ![Soldering power wires directly to the PCB of an RTX 5090](https://cdn.mos.cms.futurecdn.net/35BFzKzoKEL3DVg4G2hTNX.png) 

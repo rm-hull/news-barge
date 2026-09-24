@@ -15,6 +15,38 @@ categories:
 - Arts & Culture
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21467816.jpg?type=og-image&xType=0&yType=36
+locations:
+- Battle of Flodden
+- Berwick-upon-Tweed
+- Bishop Auckland
+- CAMERA CLUB
+- County Durham
+- Darlington
+- Durham Cathedral
+- England
+- Norham Castle
+- Norhamshire
+- North Durham
+- Northumberland
+- Northumbria
+- River Tweed
+- Scotland
+- St Cuthbert
+- The County Durham
+- YVONNE MILNE
+people:
+- Edward I
+- James IV
+- Norham
+- Ranulph Flambard
+- YVONNE MILNE
+organisations:
+- Bishops of Durham
+- Durham University
+- English Heritage
+- Norham
+- Palatinate of Durham
+- St Cuthbert's Church
 ---
 
 *(Image: YVONNE MILNE/CAMERA CLUB)*

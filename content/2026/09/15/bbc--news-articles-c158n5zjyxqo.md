@@ -13,6 +13,28 @@ categories:
 - Family & Parenting
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e1/live/f1dd0af0-aa10-11f1-b312-33b04a9c7d4d.jpg
+locations:
+- England
+- Meon Vale
+- Rainbow Garden
+- Stratford Hospital
+- Stratford-upon-Avon
+- Wales
+- Warwick Hospital
+people:
+- Bella
+- Bettina Powell
+- Holly Hawkesford
+- Jasper
+- Lucy
+- Naomi
+- Penny
+- Richard Ganjavi
+- Teri Albrighton
+organisations:
+- Holly Hawkesford
+- Jasper's Rainbow
+- Office for National Statistics.
 ---
 
 ![Richard Ganjavi in a purple shirt and smiling, with his daughter Penny on his lap. She's wearing a pink headband. ](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/91e1/live/f1dd0af0-aa10-11f1-b312-33b04a9c7d4d.jpg)

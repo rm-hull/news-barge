@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Old Trafford
+- Riverside Stadium
+- South Bank
+- Teesside
+people:
+- Bruno Fernandes
+- Cole Worthy
+- Jakub Matusiak
+- King
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Cahill
+- PC Blades’
+- Pc Matthew Blades
+- Sarah
+- Senne Lammens
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Ipswich
+- Manchester United
+- Middlesbrough FC
+- Mirror
+- Premier League
+- Red
+- Reds
+- West Bromwich Albion
 ---
 
 The two sons of a police officer killed in a head-on collision in Teesside walked out with Manchester United at Old Trafford on Sunday.

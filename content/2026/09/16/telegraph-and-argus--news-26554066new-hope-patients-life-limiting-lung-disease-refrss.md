@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations: []
+people:
+- Md Talat Nasim
+organisations:
+- University of Bradford
 ---
 
 *(Image: University of Bradford)*

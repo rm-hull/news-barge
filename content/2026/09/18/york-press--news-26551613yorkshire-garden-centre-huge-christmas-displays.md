@@ -13,6 +13,16 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- '## Yorkshire'
+- Boroughbridge
+- Hardwick’s Garden Centre
+- Scarborough
+- UK
+people:
+- Hardwick
+organisations:
+- Hardwick’s Garden Centre
 ---
 
 ## Yorkshire garden centre with huge Christmas displays and 'locally sourced' plants

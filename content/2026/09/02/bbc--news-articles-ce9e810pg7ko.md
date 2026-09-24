@@ -12,6 +12,62 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Belgium
+- Bergheim
+- Berlin
+- Bonn
+- Brandenburg
+- Brussels
+- Cologne
+- Europe
+- Europe-Ukraine
+- France
+- Germany
+- Halle
+- Ireland
+- Jänschwalde
+- Kremlin
+- Leipzig
+- Lithuania
+- Lublin
+- Moscow
+- Netherlands
+- North Rhine-Westphalia
+- Poland
+- Russia
+- Russian House
+- Skarżysko-Kamienna
+- Spain
+- Sweden
+- US
+- Ukraine
+- Warsaw
+- Wicklow
+people:
+- Alexander Grushko
+- Arson
+- Bernd Finke
+- Donald Tusk
+- Herbert Reul
+- Jean-Noël Barrot
+- Johann Wadephul
+- Kaja Kallas
+- Kestutis Budrys
+- Mark Rutte
+- Ursula von der Leyen
+- Vladimir Putin
+- Von der Leyen
+- von der Leyen
+organisations:
+- Alliance
+- EU
+- European Commission
+- European Union
+- Kyiv
+- NATO
+- Nato
+- Russian House of Science and Culture
 ---
 
 ![European Commission President Ursula von der Leyen (R)and NATO Secretary General Mark Rutte arrive for a press statement at EU headquarters on September 2, 2026](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg)

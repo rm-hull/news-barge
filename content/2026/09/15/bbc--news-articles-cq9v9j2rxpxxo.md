@@ -13,6 +13,66 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- California.
+- Crypto.com Arena
+- Hollywood
+- JW
+- Los Angeles
+- Marriott
+- New England
+- Peacock Theater
+- US
+- Widow's Bay
+people:
+- Allison Janney
+- Andrew Rannells
+- Arlan Ruf
+- Dale Dickey
+- David Harbour
+- Hiro Murai
+- Jalen Brunson
+- Jason Bateman
+- Jean Smart
+- Jeff Hiller
+- Joan Jett
+- Joy Sunday.
+- Kate O'Flynn
+- Katie Dippold
+- Keri Russell
+- Kevin Carroll
+- Kingston Rumi Southwick
+- Linda Cardellini
+- Mariska Hargitay
+- Matthew Rhys
+- Megan Stalter
+- Neil Casey
+- Olivia Benson
+- Patricia
+- Paul W Downs
+- Richard Jenkins
+- Selena Gomez
+- Stephen Root
+- Taylor Swift
+- Tom Loftis
+- Zendaya
+organisations:
+- Apple TV
+- Blackheart
+- DTF St Louis
+- HBO
+- Joy Sunday DTF St Louis
+- LA Lakers
+- LA Live
+- Law & Order SVU
+- NBA
+- New York Knicks
+- Peacock Theater
+- Peacock Theatre
+- St Louis
+- The BBC
+- The Pitt
+- Widow's Bay
 ---
 
 Watch: Highlights from the 2026 Emmy Awards, a star-studded and record-breaking night

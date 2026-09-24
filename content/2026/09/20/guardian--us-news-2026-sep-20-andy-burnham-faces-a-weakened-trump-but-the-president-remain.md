@@ -13,6 +13,32 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e5556797146a0a7e41a4e3408dc6ab5
+locations:
+- Argentina
+- Downing Street
+- Falklands
+- Greater Manchester
+- Iran
+- Ireland
+- Makerfield
+- New York
+- North Sea
+- UK
+- US
+- Ukraine
+- West Bank
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Mark Carney
+- Zohran Mamdani
+organisations:
+- Nato
+- Oval Office
+- Trump
+- UN
 ---
 
 No international relationship has more power to determine the success of Andy Burnham’s premiership. So you might imagine the stakes for the prime minister’s first face-to-face meeting with Donald Trump on Tuesday would be high.

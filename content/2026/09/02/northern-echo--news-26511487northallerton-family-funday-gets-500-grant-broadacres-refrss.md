@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Darlington
+- Grangetown
+- Northallerton
+people:
+- Phil Craig
+organisations:
+- Broadacres Community and Sustainability Fund
+- Cleveland Police
+- Northallerton Carnival
+- Northallerton Family Funday
 ---
 
 *(Image: Northallerton Family Funday)*

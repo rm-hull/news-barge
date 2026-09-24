@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Ambae
+- Australia
+- New Zealand
+- Pacific Ocean
+- Santo
+- Vanuatu
+people:
+- Jotham Napat
+organisations:
+- Facebook
+- MV Matui
+- RNZ
+- Tui Shipping Agency
+- Vanuatu Maritime Safety Authority
 ---
 
 Emergency teams were searching for more than 30 people after an inter-island ferry sank in Vanuatu, leaving at least one person dead.

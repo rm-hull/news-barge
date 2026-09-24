@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Hartlepool
+- Inverness Road
+people:
+- Andrew Dallas
+- Rachel Butt
+- Rod Hunt
+- Stephen Young
+organisations:
+- Hartlepool
+- Teesside Crown Court
 ---
 
 A brazen burglar who broke into a house in broad-daylight was caught munching on a tomato by the homeowner.

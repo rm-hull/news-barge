@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Asia
+- Europe
+- Iran
+- Israel
+- Latin America
+- Middle East
+- Strait of Hormuz
+- U.S.
+- US
+people:
+- Donald Trump
+- Pete Hegseth
+- Sean Parnell
+organisations:
+- CBS News
+- Combatant Command
+- Congress
+- Defense Orders Book
+- Department of War
+- Joint Chiefs of Staff
+- Joint Staff
+- NBC News
+- Naval
+- Pentagon
+- The Washington Post
+- U.S. European Command
+- U.S. Pacific Command
+- U.S. Southern Command
 ---
 
 A recent Pentagon assessment warned Defense Secretary Pete Hegseth that maintaining the current level of military operations against Iran could leave the U.S. less able to respond to threats elsewhere and protect the homeland, according to a new report.

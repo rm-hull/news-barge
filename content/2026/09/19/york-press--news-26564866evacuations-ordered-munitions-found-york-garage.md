@@ -13,6 +13,15 @@ categories:
 - True Crime
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21306486.jpg?type=og-image
+locations:
+- Acomb Road
+- Holgate
+- Windmill Rise
+- York
+people:
+- PAUL WILLIS
+organisations:
+- Army
 ---
 
 *(Image: PAUL WILLIS)*

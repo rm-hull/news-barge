@@ -13,6 +13,32 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- London
+people:
+- Ben Fitzmaurice
+- Douglas Hodge
+- Elizabeth Day
+- James Manning
+- Joanna Scanlan
+- Lindsay Duncan
+- Lucy
+- Luke Evans
+- Lydia Leonard
+- Martin Gilmour
+- Ms Day
+- Sarah Solemani
+- Tom Cullen
+organisations:
+- Emmerdale
+- Gogglebox
+- ITV
+- ITV1
+- ITVX
+- PA Wire
+- STV
+- The Party
+- Yui Mok
 ---
 
 *(Image: James Manning/PA Wire)*

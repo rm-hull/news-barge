@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Shipley
+people:
+- Millie Downey
+organisations:
+- Cavendish Primary School
+- Shipley College
+- University of Huddersfield
 ---
 
 *(Image: Supplied)*

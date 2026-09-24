@@ -10,6 +10,23 @@ description: Gemini's in-app 'Live' tools are finally here
 image: https://cdn.mos.cms.futurecdn.net/D9TpwduLya8x7faU2gXUwm-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Craig Hale
+- Yulie Kwon Kim
+organisations:
+- Craig’s
+- Docs Live
+- Gemini Audio
+- Gmail
+- Google AI Plus
+- Google Docs
+- Google Drive
+- Google News
+- Google Workspace Product
+- Keep Live
+- TechRadar Pro
+- Ultra
 ---
 
 ![A laptop showing Gemini, surrounded by floating Gmail, Drive, Photos, NotebookLM and Flow icons.](https://cdn.mos.cms.futurecdn.net/D9TpwduLya8x7faU2gXUwm.jpg) 

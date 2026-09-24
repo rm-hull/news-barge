@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Barrington Way
+- Butterknowle
+- Darlington
+- Middleton St George
+- North East bridge Arson
+- Teesside Crown Court
+- Thorntree Gardens
+- Yarm Road
+people:
+- Carla Scown
+- Fiona
+- Gabriel Horsley-Ling
+- Pair
+organisations:
+- Crown Court
+- HGV
 ---
 
 A motorcyclist has admitted causing the death of his pillion passenger in a horror crash.

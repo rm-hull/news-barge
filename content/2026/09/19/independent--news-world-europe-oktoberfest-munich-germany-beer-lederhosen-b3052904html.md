@@ -14,6 +14,13 @@ categories:
 - History
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/15/2296063414..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Germany
+- Munich
+- Theresienwiese
+people:
+- Dominik Krause
+organisations: []
 ---
 
 Munich's Oktoberfest kicked off Saturday with the city's mayor tapping the first keg of beer and opening the 191st edition of the world's largest folk festival.

@@ -14,6 +14,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- '## A County Durham'
+- Britain
+- County Durham
+- Dales
+- Darlington
+- Easington
+- Hippodrome
+- North East
+- Northumberland
+people:
+- Bean
+- Matt Baker
+- Rowan Atkinson
+organisations:
+- BBC One
+- Blue Peter
+- Countryfile
+- County Durham
+- Darlington Hippodrome
+- Durham University
+- Easington
+- North East Matt Baker
+- Our Farm
+- TV
+- The One Show
 ---
 
 Matt Baker is one of Britain's most recognisable television presenters, known for his work on Blue Peter, Countryfile, The One Show and Our Farm in the Dales.

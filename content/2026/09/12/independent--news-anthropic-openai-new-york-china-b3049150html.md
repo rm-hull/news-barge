@@ -13,6 +13,18 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- U.S.
+people:
+- Dario Amodei
+- Joe Benton
+organisations:
+- Anthropic
+- OpenAI
+- Substack
+- U.S. AI
 ---
 
 The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could take over the entire internet, among other risks.

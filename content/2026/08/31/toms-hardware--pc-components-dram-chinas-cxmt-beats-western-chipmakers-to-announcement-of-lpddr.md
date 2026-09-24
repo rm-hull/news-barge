@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- America
+- China
+- Silicon Valley
+- UK
+- US
+- Wall Street
+people:
+- Anton Shilov
+- Europegganban
+- Tom
+organisations:
+- CXMT
+- ChangXin Memory Technologies
+- DRAM
+- Get Tom's Hardware
+- Google News
+- Homegrown DRAMChina
+- LPDD6
+- LPDDR5
+- LPDDR5X
+- LPDDR6
+- Micron
+- NRZ
+- PEnns
+- ReplyTanakoi
+- Reuters
+- SK hynix
+- Samsung
+- Tom’s Hardware
+- Xiaomi
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

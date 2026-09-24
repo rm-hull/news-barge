@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Abdel Gelil
+- Iran
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Taiz
+- U.S.
+- Yemen
+people:
+- Abdel Gelil
+- Arwa Ahmed
+- Eshraq Abdel Gelil
+- Iman Abdullahi
+- Milena Murr
+- Mohamed Thabet
+- Nashwan Ahmed Said
+- Obia Achieng
+organisations:
+- CARE
+- Mercy Corps
+- Prosper Global
+- U.N.
+- UNICEF
 ---
 
 As Houthi rebels closed in, Eshraq Abdel Gelil and her husband fled their home, walking through the mountains before catching a ride to a nearby city. Four months pregnant, she feared another miscarriage.

@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/91/89/00/1200x675_cmsv2_de93989a-538e-58a7-8f41-da884092c9e6-9918900.jpg
+locations:
+- Armenia
+- Georgia
+- Kazakhstan
+- Krasnodar
+- Kremlin
+- Moscow City Duma
+- Rostov
+- Russia
+- Ukraine
+- Yerevan
+people:
+- Daniil Neonov
+- Dimitri Kavalerov
+- Jan Slovitsky
+- Kyiv
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yabloko
+organisations:
+- Ark
+- Google
+- State Duma
+- Supreme Court
+- Yandex
 ---
 
 **Dimitri Kavalerov**

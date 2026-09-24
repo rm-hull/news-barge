@@ -14,6 +14,15 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- A19
+- Acomb
+- Skelton
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

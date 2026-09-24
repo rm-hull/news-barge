@@ -14,6 +14,30 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/gGkxVzJScccmKJX8gKSrZA-1920-80.jpg
+locations:
+- China
+- U.S.
+people:
+- Claude Code
+- Feng Ruohang
+- Ferstar
+- Gemma
+- Mark Tyson
+- Tom
+organisations:
+- Alibaba Cloud
+- Elon Musk’s xAI
+- Ferstar
+- GLM
+- Get Tom's Hardware
+- Google News
+- Grok Build
+- SCMP
+- South China Morning Post
+- Tom's Hardware
+- Z.ai
+- ZCode
+- Zhipu AI
 ---
 
 ![ZCode home page](https://cdn.mos.cms.futurecdn.net/gGkxVzJScccmKJX8gKSrZA.jpg)

@@ -14,6 +14,13 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- CLEVELAND
+- Redcar
+people:
+- Charlie Wilson
+organisations:
+- Cleveland Police
 ---
 
 *(Image: CLEVELAND POLICE)*

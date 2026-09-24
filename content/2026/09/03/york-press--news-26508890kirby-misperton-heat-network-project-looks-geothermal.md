@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Science
+locations:
+- England
+- Kirby Misperton
+- North Yorkshire
+- Pickering
+- Ryedale
+- York
+people:
+- David Skaith
+- Karl Farrow
+- Mike Potter
+organisations:
+- Carbon Negative Challenge Fund
+- Ceraphi Energy
+- Heat Network Project
+- North Yorkshire Combined Authority
+- Pickering Infant School
+- Pickering Town CIC
+- Pickering Town Community Interest Company
+- Ryedale Swim & Fitness Centre
+- York
 ---
 
 *(Image: Freelancer)*

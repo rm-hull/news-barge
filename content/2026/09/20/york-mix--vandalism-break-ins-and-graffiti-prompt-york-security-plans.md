@@ -11,6 +11,15 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/stonegate-court-york-ldrs-1.jpg
+locations:
+- Blake Street
+- Stonegate Court
+- York
+people: []
+organisations:
+- City of York Council
+- Stonegate Court
+- Watson Property Management Ltd
 ---
 
 Vandalism, break-ins and graffiti have prompted plans for beefed-up security measures in York.

@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Auckland Avenue
+- Bowburn
+- Bradbury
+- County Durham
+- County Durham County Durham
+- Darlington
+- Junction 60
+- Junction 61
+- M
+- Newton Aycliffe Magistrates’ Court
+people:
+- Al Ammar
+- Ayman Al Ammar
+organisations:
+- A1
+- A693
+- BMW
+- Durham Constabulary
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

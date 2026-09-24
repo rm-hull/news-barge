@@ -12,6 +12,31 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/18/21/Canada_Carney_53682.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- England
+- Europe
+- Liverpool
+- Montreal
+- Ottawa
+- Strasbourg
+- Toronto
+- U.K.
+- U.S.
+- United States
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Hoover Dams
+- Mark Carney
+- Volodymyr Zelenskyy
+organisations:
+- Canada Investment Summit
+- European Parliament
+- European Union
+- Liberal
+- Trump
 ---
 
 Canadian Prime Minister Mark Carney on Friday cast Canada as moving quickly beyond its historical reliance on the United States after a whirlwind week in which he embraced the prospect of becoming the European Union’s first associate member.

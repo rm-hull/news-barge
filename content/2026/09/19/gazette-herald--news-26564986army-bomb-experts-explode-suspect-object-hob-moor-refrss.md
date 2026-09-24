@@ -13,6 +13,12 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21476697.jpg?type=og-image
+locations:
+- Hob Moor
+- York
+people: []
+organisations:
+- Army
 ---
 
 A full-scale emergency alert in York resulted in Army bomb experts carrying out a controlled explosion on Hob Moor.

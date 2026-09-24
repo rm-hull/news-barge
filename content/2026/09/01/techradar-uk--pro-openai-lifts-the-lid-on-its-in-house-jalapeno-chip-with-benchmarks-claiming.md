@@ -11,6 +11,40 @@ image: https://cdn.mos.cms.futurecdn.net/UgCf3tNYvSJsCa9pAqzrvL-1920-80.webp
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Jalapeño
+- Ohio
+people:
+- Adrien Sanchez
+- Alexander Harrowell
+- Jalapeño
+- Omdia
+- Rahim Amir
+- Richard Ho
+- Vera Rubin
+organisations:
+- ASIC
+- Bloomberg
+- Broadcom
+- CNBC
+- DeepSeek
+- GB300
+- Google News
+- Hot Chips
+- InferenceX
+- Jalapeño
+- Moonshot AI
+- NVIDIA
+- Nvidia
+- OpenAI
+- PC
+- PCs
+- RGB
+- SFF
+- SemiAnalysis
+- TechRadar Pro
+- Yole Group
 ---
 
 ![A render of OpenAI's first generation Jalapeño chip](https://cdn.mos.cms.futurecdn.net/UgCf3tNYvSJsCa9pAqzrvL.webp) 

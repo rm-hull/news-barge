@@ -14,6 +14,29 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21144416.jpg?type=og-image&xType=0&yType=0
+locations:
+- A40
+- Burford
+- County Durham Key
+- Diddly Squat Farm
+- North East
+- The Farmer's Dog
+people:
+- Andy Wilman
+- Clarkson
+- James May
+- Jeremy Clarkson-owned
+- Man
+- Richard Hammond
+- Sons
+- W Chump
+organisations:
+- Amazon
+- Chadlington
+- Chump and Sons Limited
+- Companies House
+- LBC
+- Sunderland
 ---
 
 *(Image: Prime Video)*

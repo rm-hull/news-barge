@@ -14,6 +14,24 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- America
+- U.S.
+- US
+- Washington, D.C.
+- Washington, DC
+people:
+- Bryan Bedford
+organisations:
+- Air Space Intelligence
+- FAA
+- Federal Aviation Administration
+- Senate
+- Smart
+- Strategic Management of Airspace
+- The Wall Street Journal
+- Transportation Department
+- Trump
 ---
 
 Federal officials plan to launch an artificial intelligence-powered system in the Washington, D.C., area as early as Monday, the first step in a broader push to modernize U.S. air traffic management.

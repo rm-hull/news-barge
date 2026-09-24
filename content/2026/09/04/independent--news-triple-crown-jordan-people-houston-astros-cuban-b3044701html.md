@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cuba
+- Florida
+- United States
+- West Palm Beach
+people:
+- Jeff Bagwell
+- Joe Espada
+- Jordan
+- Junior Caminero
+- Miguel Cabrera
+- Shohei Ohtani
+- Yordan Alvarez
+organisations:
+- AL
+- Astro
+- Hall of Famer
+- Houston Astros
+- MLB
+- Tampa Bay
+- The Associated Press
+- Triple Crown
+- YouTube
 ---
 
 Yordan Alvarez is one of baseball’s biggest stars: the frontrunner for AL MVP with a strong chance of becoming baseball's first Triple Crown winner since Miguel Cabrera in 2012.

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Albany
+- Geraldton Health Campus’s Intensive Care Hospital
+- Glenfield Beach
+- Michaelmas Island
+- Rottnest Island
+- Western Australia
+people:
+- Daniel Turpin
+- Jerry Clune
+- Mary Pinder
+- Mel Ismail
+- Roger Cook
+- Shannon Dunn
+- Steven Mattaboni
+organisations:
+- Nine News
+- Western Australia
 ---
 
 A 56-year-old surfer is facing a long recovery after sustaining serious injuries during a shark attack in Western Australia early this week.

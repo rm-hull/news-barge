@@ -15,6 +15,16 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Kiveton Park
+- Rotherham
+- South Yorkshire Police
+people:
+- Adam Watkinson
+- Betty Clark
+organisations:
+- '91 ## Police'
+- CrimeStoppers UK
 ---
 
 # 'Unimaginable grief': New police appeal one year after death of pensioner, 91

@@ -12,6 +12,60 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- Chelsea
+- Europe
+- Liverpool
+- Paris St-Germain
+- Stamford Bridge
+- Sunderland
+- Tottenham
+- White Hart Lane
+people:
+- '## Willian'
+- Andre Schurrle
+- Antonio Conte
+- Cesar Azpilicueta
+- Chelsea
+- Chris Paouros
+- David Luiz
+- Diego Costa
+- Eden Hazard
+- Mauricio Pochettino
+- Nemanja Matic
+- Ramires
+- Samuel Eto'o
+- Spurs'
+- Tristan Foot
+organisations:
+- '## Matic'
+- Anzhi Makhachkala
+- Benfica
+- Blues
+- Eden Hazard
+- Eden Hazard of Chelsea
+- Europa League
+- Everton
+- Football Association
+- Hammers
+- Leicester
+- Lille
+- Manchester City
+- Manchester United
+- Nottingham Forest
+- PFA
+- Premier League
+- Professional Footballers' Association
+- Proud Lilywhites
+- ShouldTottenhambe
+- Southampton
+- Spurs
+- Stoke
+- Tottenham Hotspur Supporters' Trust
+- Uefa
+- Watford
+- West Ham
 ---
 
 ![Eden Hazard of Chelsea poses with the Premier League trophy in 2017](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg)

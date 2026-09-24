@@ -13,6 +13,64 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Arlington Cemetery
+- Arlington National Cemetery
+- California
+- Lincoln Memorial
+- Long Island
+- Los Angeles
+- Maryland
+- Massachusetts
+- Mid-Hudson
+- Missouri
+- New Jersey
+- New York
+- New York City
+- Northeast
+- Rhode Island
+- Show-Me State
+- US House
+- Washington
+people:
+- Adam Telle
+- Catherine Hanaway
+- Chuck Schumer
+- Dan Driscoll
+- Don Beyer
+- Donald Trump
+- Doug Burgum
+- Hakeem Jeffries
+- Indira Talwani
+- Karen Bass
+- Kathy Hochul
+- LAist
+- Nicolas Sansone
+- Pete Hegseth
+- Robert Garcia
+- Scott Brauer
+organisations:
+- Administration
+- American Petroleum Institute
+- Arlington National Cemetery
+- Capital in the World
+- Congress
+- FEMA
+- Federal Emergency Management Agency
+- Homeless Services Authority
+- House
+- Justice Department
+- Los Angeles Homeless Services Authority
+- National Park Service
+- Public Citizen Litigation Group
+- Senate
+- Shutterstock A
+- Shutterstock Trump
+- Subcommittee on Delivering on Government Efficiency
+- The Guardian
+- US Chamber of Commerce and Agricultural Retailers Association
+- USPS
+- ZUMA Press Wire
 ---
 
 A ballot drop box in Washington state. The Trump administration has appealed to the supreme court to implement its restrictions on mail-in voting. Photograph: M Scott Brauer/ZUMA Press Wire/Shutterstock

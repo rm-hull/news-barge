@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Arts & Culture
 - Travel
+locations:
+- Alps
+- Gstaad
+- Melbourne
+- Switzerland
+people: []
+organisations: []
 ---
 
 Decorated cows made their way from the Alpine pastures into Gstaad on Saturday for the annual Züglete festival in Switzerland. Families dressed their animals with floral crowns before leading them down the mountain and through the busy town centre.

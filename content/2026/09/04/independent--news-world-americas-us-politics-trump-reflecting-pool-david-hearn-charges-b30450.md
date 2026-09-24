@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/09/04/21/download.-1.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- D.C
+- D.C.
+- U.S.
+- Washington
+people:
+- Davey Hearn
+- David Hearn
+- Donald Trump
+- Jamie Raskin
+- Jeanine Pirro
+- Michael Spence
+- Norm Eisen
+- Todd Edelman
+organisations:
+- AllRiseNews
+- Department of Interior
+- Department of Justice
+- Lincoln Memorial Reflecting Pool
+- Oval Office
+- Superior Court
+- Trump
 ---
 
 A judge in Washington, D.C. appears prepared to block Donald Trump’s administration and prosecutors from charging a former Olympian a second time for damage to the Lincoln Memorial Reflecting Pool.

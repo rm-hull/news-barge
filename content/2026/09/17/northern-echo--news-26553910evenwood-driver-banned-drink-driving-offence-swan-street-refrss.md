@@ -12,6 +12,17 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Evenwood
+- Peterlee Magistrates’ Court
+- Swan Street
+people:
+- Adam Irving
+organisations:
+- Crown Prosecution Service
+- Ford Focus
+- Newsquest
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- France
+- Hampshire
+- Kent
+- Manston
+- Port of Dover
+- Portsmouth
+- Ramsgate
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+- Jonathan Reynolds
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Border Force
+- Border Security Command
+- Home Office
+- Kent
+- Maritime and Coastguard Agency
+- RNLI
+- Sky News
+- Thomas
 ---
 
 Hundreds of far-right activists have descended on Portsmouth, where a small boat with 140 asylum seekers on board was intercepted heading towards the Portsmouth coast. The vessel’s arrival sparked a major response with a helicopter, an aeroplane and lifeboats sent to the scene.

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - History
 - Science
+locations:
+- Beijing
+- China
+- Moscow
+- Russia
+- U.S.
+- US
+- Washington
+people: []
+organisations:
+- Joint Force
+- Space Force
+- United States Space Force
 ---
 
 ## Once a hunting ground for Cold War bragging rights, space has now evolved into a key strategic arena, as states jostle for a military and technological edge.

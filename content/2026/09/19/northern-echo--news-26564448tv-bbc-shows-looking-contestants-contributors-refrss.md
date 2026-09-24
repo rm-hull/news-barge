@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21463655.jpg?type=og-image
+locations:
+- UK
+people:
+- Dion Dublin
+- Gavin
+- Gordon Ramsay
+- Jacqui Joseph
+- Joanna Page
+- Lord Alan Sugar
+- Martel Maxwell
+- Martin Roberts
+- Stacey ![]()
+- Tommy Walsh
+organisations:
+- '## New Gordon Ramsay'
+- BBC
+- Hammer
+- Jas Lehal
+- PA Media Assignments
+- Studio Ramsay Global
+- The Apprentice
+- The Dragons
 ---
 
 From testing your general knowledge on national television to showing off a hidden talent, people hoping to be in the television spotlight have plenty of opportunities.

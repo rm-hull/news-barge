@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD-2121-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Bosnia and Herzegovina
+- Bulgaria
+- Hungary
+- Romania
+- Sarajevo
+people:
+- Sality
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Crowdstrike
+- DCIS
+- DOJ
+- Defense Criminal Investigative Service
+- Department of Defense
+- EggJagger
+- Eurojust
+- Europol
+- FBI
+- Federal Bureau of Investigation
+- Google News
+- Represent Communications
+- Sality
+- Shadowserver Foundation
+- TechRadar Pro
+- US Department of Justice
 ---
 
 ![Abstract image of robots working in an office environment including creating blueprint of robot arm, making a phone call, and typing on a keyboard](https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD.jpg) 

@@ -15,6 +15,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- England
+- Gulf
+- Iran
+- Leeming
+- Masham
+- North Richmondshire
+- Straits of Hormuz
+- UK
+- Upper Dales
+people:
+- Keir Starmer
+- Sarah Cardell
+organisations:
+- CMA
+- Competition and Markets Authority
+- Ofgem
 ---
 
 # Hundreds of heating oil customers to be handed compensation over Iran war price hikes

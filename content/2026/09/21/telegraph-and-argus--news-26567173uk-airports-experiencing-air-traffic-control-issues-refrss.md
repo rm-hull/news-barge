@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479012.jpg?type=og-image
+locations:
+- England
+- Glasgow Airport
+- LBA
+- Porto
+- Prestwick
+- Scotland
+- Stansted
+- UK
+people:
+- Colin McKen
+organisations:
+- EU
+- GMB
+- Glasgow Airport
+- Leeds-Bradford Airport
+- NATS
+- Newsquest
 ---
 
 *(Image: Getty)*

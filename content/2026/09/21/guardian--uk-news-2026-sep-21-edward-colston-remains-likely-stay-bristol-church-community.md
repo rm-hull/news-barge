@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/1934b2a2e045dc2a88cde7bf54d4c21a2b5c019c/699_117_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17b00b69fabebdac106374e3695e9090
+locations:
+- All Saints
+- Bristol
+- Colston
+- Corn Street
+- Leicester
+people:
+- Anjali Kanagaratnam
+- Edward Colston
+- Mandy Ford
+- Richard III
+organisations:
+- All Saints
+- Black Lives Matter
+- Bristol Beacon
+- Bristol Old Vic
+- Colston Hall
+- Ford
+- University of Bristol
 ---
 
 Bones of the enslaver Edward Colston are likely to remain interred in a church in Bristol if and when the currently unused building is given a new lease of life as a community resource, it has emerged.

@@ -11,6 +11,17 @@ image: https://static.independent.co.uk/2026/09/04/13/21/Counci-split-copy.jpeg?
 categories:
 - News & Politics
 - UK
+locations:
+- West Marsh
+people:
+- Ms Brasted
+- Oliver Freeston
+- Tanya Brasted
+organisations:
+- ChatGPT
+- North East Lincolnshire Council
+- Reform UK
+- The Independent
 ---
 
 A row has erupted at Reform-led North East Lincolnshire Council over allegations of misconduct and missing Christmas party funds.

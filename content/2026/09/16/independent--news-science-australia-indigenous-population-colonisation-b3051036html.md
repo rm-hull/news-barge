@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Australia
+- New South Wales
+- Tweed river
+people:
+- Alan Williams
+- Corey Bradshaw
+- Larissa Behrendt
+- Lynette Russell
+organisations:
+- First Fleet
+- Flinders University
+- James Cook University
+- Nature Human Behaviour
 ---
 
 Australia may have had a much larger Indigenous population before the arrival of Europeans than previously thought, a new study has found.

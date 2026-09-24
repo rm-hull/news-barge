@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Blake Street
+- York
+people:
+- '#### McDonald'
+organisations:
+- McDonald’s
+- North Yorkshire Police
 ---
 
 Do you recognise this man?

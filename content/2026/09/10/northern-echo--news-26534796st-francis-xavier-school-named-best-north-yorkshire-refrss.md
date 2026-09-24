@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington Road
+- North Yorkshire
+- Richmond
+- Richmondshire
+- St Francis Xavier
+people:
+- Alastair Hodgson
+organisations:
+- Church of England
+- Department for Education and Ofsted
+- FindGreatSchools
+- GOOGLE
+- St Francis Xavier
+- St Francis Xavier School
 ---
 
 *(Image: GOOGLE)*

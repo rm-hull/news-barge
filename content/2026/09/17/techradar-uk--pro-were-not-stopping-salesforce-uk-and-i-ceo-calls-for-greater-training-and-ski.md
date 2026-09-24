@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- I
+- UK
+people:
+- Bahrololoumi
+- Mike Moore
+- Paul O’Sullivan
+- Zahra Bahroloumi
+organisations:
+- B2B
+- B2C
+- Bahrololoumi
+- Google News
+- ITProPortal
+- SVP Solution Engineering
+- Salesforce UKI CTO
+- TechRadar Pro
 ---
 
 ![Salesforce](https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn.jpg) 

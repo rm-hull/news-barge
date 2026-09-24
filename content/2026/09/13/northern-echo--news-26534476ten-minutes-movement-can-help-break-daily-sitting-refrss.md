@@ -15,6 +15,9 @@ categories:
 - Self-Improvement
 - Health & Fitness
 - Lifestyle & Fashion
+locations: []
+people: []
+organisations: []
 ---
 
 **Think you don't have time to work out? Try taking ten minutes to walk around or stretch to increase your daily movement**

@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Acklam
+- Hartlepool
+- Kirkleatham Walled Gardens
+- Middlesbrough
+- Redcar
+people:
+- Cole Worthy
+- Gye Worthy
+- Matthew Blades
+- PC Clough
+- Tom Clough
+organisations:
+- Army
+- PC Blades
+- Teesside Crematorium
+- Teesside Magistrates’ Court
+- VW
 ---
 
 *(Image: SOCIAL MEDIA)*

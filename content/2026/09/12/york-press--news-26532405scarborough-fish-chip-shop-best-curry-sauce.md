@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Scarborough
+- York
+- Yorkshire
+people: []
+organisations:
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

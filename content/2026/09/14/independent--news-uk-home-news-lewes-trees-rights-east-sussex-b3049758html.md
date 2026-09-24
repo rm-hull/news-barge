@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bolivia
+- Devon
+- East Sussex
+- England
+- Flora
+- Lewes
+- New Zealand
+- Panama
+- River Ouse
+- Rother
+- Sidmouth
+- UK
+people:
+- Cllr Morgan
+- Dinah Morgan
+- Matthew Bird
+organisations:
+- Forestry Commission
+- Lewes Town Council
+- The Independent
 ---
 
 Lewes in East Sussex has become the first town in England to officially grant rights to its trees, following a local council vote to adopt a new municipal "Tree Charter".

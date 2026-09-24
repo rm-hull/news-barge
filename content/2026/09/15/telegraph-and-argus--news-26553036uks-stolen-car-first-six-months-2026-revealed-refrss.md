@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Faraday
+- UK
+people:
+- Jake Lambert
+organisations:
+- CCTV
+- DVLA
+- Driver and Vehicle Licensing Agency
+- EV
+- RAC
+- Tempcover
 ---
 
 *(Image: Pixabay)*

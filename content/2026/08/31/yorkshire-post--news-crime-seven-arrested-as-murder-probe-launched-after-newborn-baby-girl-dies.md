@@ -14,6 +14,13 @@ categories:
 - York
 - True Crime
 - Family & Parenting
+locations:
+- Holywell Heights
+- Sheffield
+- Wincobank
+people:
+- Emma Knight
+organisations: []
 ---
 
 # Seven arrested as murder probe launched after newborn baby girl dies

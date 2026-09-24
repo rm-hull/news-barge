@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Crambe
+- Great Barugh
+- Hebden
+- Malham
+- Myton-on-Swale
+- North Yorkshire
+- River Derwent
+- Snape
+- Wass
+- Weeton
+- Yorkshrie Water
+people:
+- Qasim Elahi
+organisations:
+- CSO
+- Yorkshire Water
 ---
 
 *(Image: Yorkshrie Water)*

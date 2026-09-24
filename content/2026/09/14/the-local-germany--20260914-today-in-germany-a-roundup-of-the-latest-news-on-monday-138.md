@@ -13,6 +13,54 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Allgäu Alps
+- Arctic Circle
+- Bad Hindelang
+- Bavarian Alps
+- Berlin
+- Europe
+- Finland
+- France
+- Germany
+- GermanyGerman
+- Greenland
+- Italy
+- Kempten
+- Lower Saxony
+- Mecklenburg-Western Pomerania
+- Moscow
+- New York
+- Paris
+- Rovaniemi
+- Russia
+- Saxony-Anhalt
+- Slovenia
+- Spain
+- US
+- Ukraine
+- United States
+people:
+- Alexander Zverev
+- Ben Shelton
+- Brown
+- Bruno
+- Donald Trump
+- Friedrich Merz
+- Kai Sauer
+- Matthias Günther
+- Petteri Orpo
+organisations:
+- AFP
+- AfD
+- CDU
+- DPA
+- FDP
+- Greens
+- NATO
+- Pestel Institute
+- SPD
+- The Left
 ---
 
 **Monday's top story: CDU holds off rivals in Lower Saxony district elections**

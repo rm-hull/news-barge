@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Bali
+- Denpasar
+- Jakarta
+- Kuta
+- Prof Dr IGNG Ngoerah Central
+people:
+- Kelian Lingkungan
+- Leonardo D Simatupang
+- Nur Khamid
+organisations:
+- CCTV
+- Denpasar Police Identification Team
+- Department of Foreign Affairs and Trade
 ---
 
 Indonesian police are investigating the deaths of three Australians who died in Bali over the weekend, with initial reports suggesting a father killed his two young children before taking his own life.

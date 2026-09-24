@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Chippenham
+- Hampshire
+- Seaford
+- Southampton
+- West Sussex
+- Wiltshire
+- Winchester
+people:
+- Bethany Adams
+- Bronwen James
+- Edward Culver
+- James Bromige
+organisations:
+- CPS
+- Crown Prosecution Service
+- PE
 ---
 
 A former PE teacher is facing a lengthy jail sentence for grooming and sexually abusing three pupils at two schools.

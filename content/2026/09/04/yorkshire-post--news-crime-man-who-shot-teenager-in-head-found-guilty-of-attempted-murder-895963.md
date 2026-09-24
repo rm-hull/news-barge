@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Aberdeen
+- Duthie Terrace
+- Glencoe Road
+- London Road
+- Sheffield
+- South Yorkshire
+people:
+- Greg Dakin
+- Sharna Osborne
+- Tanzir Ali
+organisations:
+- CCTV
+- Police Scotland
+- Sheffield Crown Court
 ---
 
 # Man who shot teenager in head found guilty of attempted murder

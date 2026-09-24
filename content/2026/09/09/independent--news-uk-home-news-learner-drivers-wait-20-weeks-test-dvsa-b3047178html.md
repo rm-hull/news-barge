@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Great Britain
+people:
+- Beverley Warmington
+- Heidi Alexander
+- Ms Warmington
+organisations:
+- DVSA
+- Driver and Vehicle Standards Agency
 ---
 
 Learner drivers in Britain are facing average wait times of 20 weeks to book a driving test, according to the latest figures from the Driver and Vehicle Standards Agency (DVSA).

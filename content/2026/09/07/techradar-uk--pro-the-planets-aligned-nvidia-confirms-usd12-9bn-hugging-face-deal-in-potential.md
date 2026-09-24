@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+- Jensen Huang
+organisations:
+- AI
+- Craig’s
+- Google News
+- Hugging Face
+- Nvidia
+- SEC
+- TechRadar Pro
 ---
 
 ![Nvidia Hugging Face acquisition](https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi.png) 

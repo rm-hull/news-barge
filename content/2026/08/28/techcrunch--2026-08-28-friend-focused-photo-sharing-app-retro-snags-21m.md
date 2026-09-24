@@ -11,6 +11,28 @@ image: https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Nathan Sharp
+- Ryan Olson
+organisations:
+- Appfigures
+- Box Group
+- Business Insider
+- Coalition
+- Copper
+- Dylan Field
+- Figma
+- Imaginary Ventures
+- Instagram
+- Lone Palm Labs
+- PitchBook
+- Positive Sum
+- Retro
+- SEC
+- Scribble Ventures
+- TechCrunch
+- Thrive Capital
 ---
 
 Retro, the friend-focused photo-sharing app built by former Instagram product engineers Nathan Sharp and Ryan Olson, has raised north of $21 million in Series A funding, according to an SEC filing.

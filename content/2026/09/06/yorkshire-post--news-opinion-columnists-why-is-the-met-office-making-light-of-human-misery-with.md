@@ -16,6 +16,27 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Britain
+- Linton-on-Ouse
+- North Yorkshire
+- Tanganyika Groundnut Scheme
+- Wetherspoons
+- Whitehall
+people:
+- David Behrens
+- God
+- John Cleese
+- Storm Shaun
+- Theo
+organisations:
+- Army
+- Claire Hayhurst
+- Home Office
+- Met Office
+- Ministry of Silly Walks
+- NHS
+- RAF
 ---
 
 # Why is the Met Office making light of human misery with silly names for storms? - David Behrens

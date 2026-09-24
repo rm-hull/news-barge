@@ -12,6 +12,38 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Barnsley
+- Bradford City
+- Britain
+- Dales
+- England
+- England.
+- Halifax
+- Leeds
+- Rotherham
+- Sheffield
+- West Midlands
+- West Yorkshire
+people:
+- Andy Burnham
+- Angela Eagle
+- Dame Angela Eagle
+- Louise Haigh
+- Philip Duffy
+- Scott Heppell
+- Tracy Brabin
+organisations:
+- Bradford West Naz Shah
+- EA
+- Environment Agency
+- Government
+- Guardian
+- Labour
+- National Rural Crime Network and Future Countryside
+- State for Environment, Food and Rural Affairs
+- WPA Pool
+- Yorkshire
 ---
 
 # Yorkshire is one of England's waste crime hotspots - find how your area compares

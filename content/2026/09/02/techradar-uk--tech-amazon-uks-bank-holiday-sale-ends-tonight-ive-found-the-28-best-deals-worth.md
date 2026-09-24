@@ -14,6 +14,35 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Shopping & Deals
+locations:
+- Amazon
+- TechRadar
+- UK
+people:
+- Alexa
+- Anker
+- James Pickard
+organisations:
+- 4K TV
+- Amazon Alexa
+- Amazon UK
+- Anker
+- Black Friday
+- Bosch
+- Eurogamer
+- Fire TV
+- GPU
+- Garmin
+- Inui
+- Kindle Colorsoft
+- Lenovo IdeaPad
+- Ninja
+- Oral-B
+- PS5
+- RAM
+- Tampa Bay Buccaneers
+- TechRadar
+- Ugreen
 ---
 
 ![A collage of products from the latest Amazon sale, including a Kindle Colorsoft, Crucial SSD, Amazon Echo Spot, Blink doorbell, Ninja air fryer, Lenovo laptop, Ember TV and Garmin smartwatch.](https://cdn.mos.cms.futurecdn.net/bvt3957WXu6zL5BMXmqr9i.jpg) 

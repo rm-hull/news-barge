@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Emmerdale
+people:
+- Bruce Springsteen
+- David Metcalfe
+- Dawn Fletcher
+- Instagram
+- Jimmy King
+- Jimmy’s
+- Joe Tate
+- Leyla Cavanagh
+- Matthew Wolfenden
+- Miles'
+- Ms Wheeler
+- Nick Miles
+- Nicola King
+- Nicola Wheeler
+- Roxy Shahidi
+organisations:
+- '## Emmerdale'
+- Celebrity Side Hustles
+- ITV
+- Instagram
+- Radio Times
+- United Agents'
 ---
 
 *(Image: YouTube/ITV)*

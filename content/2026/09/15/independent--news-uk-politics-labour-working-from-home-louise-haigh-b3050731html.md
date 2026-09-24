@@ -11,6 +11,19 @@ image: https://static.independent.co.uk/2026/09/15/16/20fb61dd33c541b9780be77fcf
 categories:
 - News & Politics
 - UK
+locations:
+- Brighton
+- UK
+people:
+- Louise Haigh
+- Paul Nowak
+organisations:
+- AI
+- BCC
+- British Chambers of Commerce
+- Labour
+- TUC
+- Trade Unions Congress
 ---
 
 Labour has pledged to make it harder for employers to block staff doing their job from home, in a bid to hand more power to workers.

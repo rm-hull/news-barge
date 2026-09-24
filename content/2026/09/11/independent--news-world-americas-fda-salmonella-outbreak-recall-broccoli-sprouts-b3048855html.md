@@ -11,6 +11,20 @@ image: https://static.independent.co.uk/2026/09/11/19/07/Picture1.jpeg?trim=46,0
 categories:
 - News & Politics
 - UK
+locations:
+- Idaho
+- Montana
+- Utah
+- Washington
+people: []
+organisations:
+- Centers for Disease Control and Prevention
+- Evergreen Fresh Sprouts
+- Evergreen Fresh Sprouts LLC
+- FDA
+- Idaho’s Evergreen Fresh Sprouts LLC
+- U.S. Food and Drug Administration
+- U.S. Food and Drug administration
 ---
 
 A multi-state outbreak of salmonella that sickened 22 people has been tied to contaminated broccoli sprouts, federal regulators said Friday.

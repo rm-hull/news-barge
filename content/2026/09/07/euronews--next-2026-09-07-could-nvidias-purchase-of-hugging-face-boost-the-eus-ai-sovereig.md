@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Brussels
+- Europe
+- Paris
+- Stockholm
+- United States
+people:
+- Clément Delangue
+- Yaël Ossowski
+organisations:
+- AI
+- ASML
+- DeepL
+- EU
+- ElevenLabs
+- Euronews
+- European Union
+- Hugging Face
+- Le Monde
+- Mistral
+- NVIDIA
+- Riksdagen
+- U.S. House Committee
 ---
 
 **Yaël Ossowski, EU Tech Loop with Euronews**

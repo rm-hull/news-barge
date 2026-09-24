@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/jNaH2yBJasgYEJyKmaCjMB-1600-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- Iran
+- Middle East
+- Russia
+- U.S.
+- Yemen
+people:
+- Anton Shilov
+- Claude Code
+- Tom
+organisations:
+- AI
+- Anthropic
+- Cisco
+- Cobham Sailor VSAT
+- Get Tom's Hardware
+- Google News
+- Schneider Electric EcoStruxure
+- Tom’s Hardware
+- U.S. Navy
 ---
 
 ![U.S. Navy](https://cdn.mos.cms.futurecdn.net/jNaH2yBJasgYEJyKmaCjMB.jpg) 

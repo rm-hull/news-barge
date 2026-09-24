@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Patrick Pool
+- St Sampson’s Centre
+- York
+people:
+- Graham Hutchinson
+- Matt Bedingham
+- Pivni
+- Reverend Hutchinson
+- Valhalla
+- Vincent Roberts
+organisations:
+- City of York Council
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Pinvi
+- Pivni
+- Rolling Stones
+- St Sampson
+- St Sampson’s Centre
+- Valhalla
 ---
 
 York’s newest beer garden is set to become permanent.

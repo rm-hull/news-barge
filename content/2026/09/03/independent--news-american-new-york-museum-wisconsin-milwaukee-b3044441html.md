@@ -13,6 +13,18 @@ categories:
 - UK
 - Lifestyle & Fashion
 - Comedy & Entertainment
+locations:
+- America
+- China
+- Germany
+- Milwaukee
+- United States
+- Wisconsin
+people:
+- Phil Sklar
+organisations:
+- Bobble
+- National Bobblehead Hall of Fame
 ---
 
 It's all in the name. Bobble. Head.

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Countess of Chester Hospital
+- Hereford
+- Letby
+people:
+- '## Delay'
+- Alison Kelly
+- Chambers’
+- Ian Harvey
+- Justice Thirwall
+- Lady Thirlwall
+- Lady Thirwall
+- Lucy Letby
+- Ms Hodkinson
+- Ms Kelly
+- Sue Hodkinson
+- Tony Chambers
+organisations:
+- Cheshire Police
+- Countess of Chester Hospital
+- Criminal Cases Review Commission
+- Lady Thirwall
+- Letby
+- The Royal College of Paediatrics and Child Health
+- Thirlwall
 ---
 
 “Foolhardy”, “dishonest” and “untruthful”. Just three of the damning adjectives used by a senior judge to describe bosses at the hospital where serial killer Lucy Letby murdered seven babies.

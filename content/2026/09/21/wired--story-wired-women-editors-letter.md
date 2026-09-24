@@ -12,6 +12,21 @@ categories:
 - Science
 - Society & Culture
 image: https://media.wired.com/photos/6aad7219fce4a3658524c943/191:100/w_1280,c_limit/WIRED_WomenInTechSurvey_web.jpg
+locations:
+- San Francisco
+- Silicon Valley
+- White House
+people:
+- Elon Musk
+- God
+- Katie
+- Katrina Heron
+- Mark Zuckerberg
+- Pete Hegseth
+organisations:
+- The New York Times
+- WIRED
+- WIRED.com
 ---
 
 It didn’t take more than a few sessions for my new therapist to ask me a delicate question.

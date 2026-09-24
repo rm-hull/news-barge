@@ -13,6 +13,27 @@ categories:
 - Lifestyle & Fashion
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/b29e24d063cd661be285ef8c4c7ea65b48588ffb/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b59a58b23ebc5249c9bba040098e0981
+locations:
+- Alaïa
+- London
+- Milan
+- Paris
+people:
+- Armani
+- Cardi B
+- Dario Vitale
+- Donatella Versace
+- Giorgio
+- Maria Grazia Chiuri
+- Miuccia Prada
+- Pieter Mulier
+- Raf Simons
+organisations:
+- Emporio Armani
+- Fendi
+- Prada Milan
+- Revolve Inc
+- Versace
 ---
 
 Miuccia Prada’s style formula is simple: begin with a great skirt. Her personal uniform is a knee-length skirt, A-line or pleated, most often with a plain sweater and kitten heels.

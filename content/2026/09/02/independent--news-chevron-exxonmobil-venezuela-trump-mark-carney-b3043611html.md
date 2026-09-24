@@ -13,6 +13,87 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Commonwealth of the Northern Mariana Islands
+- Gulf
+- Iran
+- Lake America
+- Lake Ontario
+- Los Angeles
+- Middle East
+- Moscow
+- Philadelphia
+- Russia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- Ukraine
+- United States
+- Venezuela
+- Washington
+- Western Hemisphere
+- White House
+people:
+- Alejandro Betancourt
+- Bea Bruske
+- Brian Kilmeade
+- Bryce Crawford
+- Chris Wright
+- Dan Driscoll
+- Darren Woods
+- Delcy Rodríguez
+- Donald Trump
+- Doug Burgum
+- God
+- Ian Vásquez
+- JD Vance
+- Jesus
+- Joe Biden
+- John Ratcliffe
+- Lianyong Wei
+- Marco Rubio
+- Mark Carney
+- Mike Wirth
+- Nicolás Maduro
+- Pete Hegseth
+- Scott Bessent
+organisations:
+- AAA
+- App Store
+- Apple
+- Bessent
+- CIA
+- CNBC
+- Canadian Labour Congress
+- Cato Institute
+- Chevron
+- Exxon
+- ExxonMobil
+- Fox & Friends
+- Fox News
+- Gallup
+- Google
+- ICE
+- Interior Department
+- John F. Kennedy Center for the Performing Arts
+- MapQuest
+- NABEP
+- National Assembly
+- North American Blue Energy Partners
+- Orinoco Belt
+- Pentagon
+- Squawk Box
+- System1
+- Trump
+- U.S. Army
+- U.S. Central Command
+- U.S. Commission of Fine Arts
+- U.S. Immigration and Customs Enforcement
+- U.S. Institute of Peace
+- U.S. Mint
+- US Treasury
 ---
 
 Oil giant Chevron confirmed that it will expand its operations in Venezuela, just days after President Donald Trump announced an ambitious deal to develop the nation’s oil reserves and give the Pentagon a stake in the profits.

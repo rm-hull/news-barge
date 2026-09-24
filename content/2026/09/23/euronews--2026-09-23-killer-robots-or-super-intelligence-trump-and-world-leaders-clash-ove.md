@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/43/93/1200x675_cmsv2_df72e6b8-7eed-5baf-836e-b04dc7610953-9924393.jpg
+locations:
+- AI
+- America
+- Beijing
+- China
+- Finland
+- UK
+- US
+- United States
+people:
+- AI
+- Alexander Stubb
+- Andy Burnham
+- António Guterres
+- Clément Delangue
+- Dario Amodei
+- Donald Trump
+- Emmanuel Macron
+- Henry Hoffmann
+- Sam Altman
+organisations:
+- Alibaba
+- Anthropic
+- G20
+- General Assembly
+- Hugging Face
+- Macron
+- OpenAI
+- Security Council AI
+- UN General Assembly
+- UN Security Council
+- United Nations General Assembly
+- University of Chicago
 ---
 
 ## While Donald Trump rejected global efforts to control AI and UN Secretary-General António Guterres warned of the dangers of handing life-and-death decisions to machines, other leaders called for international cooperation to manage the technology.

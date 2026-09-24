@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Alexander Stadium
+- Asia
+- Birmingham
+- Botswana
+- Britain
+- Budapest
+- Europe
+- Kasarani Stadium
+- Kenya
+- London Stadium
+- Munich
+- Nairobi
+- Rome
+- Tokyo
+- UK
+- West Ham
+people:
+- Amber Anning
+- Greg Rutherford
+- Jack Buckner
+- Lord Coe
+- Sebastian Coe
+organisations:
+- Athletic Ventures
+- BBC Sport
+- Department for Digital, Culture, Media and Sport
+- Government
+- Great Run Company
+- London Diamond League
+- London Marathon Events
+- London Stadium
+- Mayor of London
+- UK Athletics
+- UK Sport
+- West Ham United
+- World Athletics
 ---
 
 ![General view of the London Stadium athletics track](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c14f/live/72c190c0-b0ea-11f1-8d94-cf0ec84c39cd.jpg)

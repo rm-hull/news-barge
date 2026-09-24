@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Charlotte
+- Easingwold
+- Europe
+- Northfield Lane
+- The Hawk Creative Business Park
+- Two York
+- UK
+people:
+- Charlotte Miller
+- Kate Morgan
+- Katherine Shepherd
+- Pippa
+- Tiggy
+organisations:
+- Minster Equine Veterinary Clinic
+- Minster Equine Vets
+- Minster Vets
+- Unit 2C Wood Owl
+- Vet Partners
+- VetPartners
+- White Rose Equine Vets
+- Zoom
 ---
 
 ## Two York vets build thriving new practice after shock closure left them jobless

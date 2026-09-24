@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/09/09/1/07/GettyImages-2289908029.j
 categories:
 - News & Politics
 - UK
+locations:
+- Chabahar
+- Dubai
+- Iran
+- Jordan
+- Natanz
+- Pakistan
+- Pickaxe Mountain
+- Sea
+- Strait of Hormuz
+- Syria
+- Tehran
+- US
+- United States
+people:
+- '## Trump'
+- Donald Trump
+- Jennifer Jacobs
+organisations:
+- CBS News
+- Hercules Star
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Muwaffaq Salti Air Base
+- Peninsula
+- Pickaxe Mountain
+- Republican Party
+- Revolutionary Guard
+- Revolutionary Guard Corps
+- Revolutionary Guards
+- UKMTO
+- UN Security Council
+- US Navy
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/ZUkJaoRl/poster.jpg?width=720)

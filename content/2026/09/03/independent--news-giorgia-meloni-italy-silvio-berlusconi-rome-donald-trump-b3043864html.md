@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bari
+- Europe
+- France
+- Italy
+- Rome
+- Russia
+- U.S.
+- Ukraine
+- United Kingdom
+- Washington
+people:
+- David Del Sarto
+- Donald Trump
+- Giorgia Meloni
+- Giuseppe Conte
+- Guido Crosetto
+- Lorenzo Pregliasco
+- Nathalie Tocci
+- Paolo Santalucia
+- Roberto Vannacci
+- Silvio Berlusconi
+- Stefano Manzocchi
+- Trisha Thomas
+organisations:
+- AP
+- Five Star Movement
+- Johns Hopkins
+- Johns Hopkins University
+- LUISS University
+- The Associated Press
 ---
 
 In a country where governments are famously short-lived, the perceived success of Italian Premier Giorgia Meloni has often been attributed to her survival skills rather than her accomplishments.

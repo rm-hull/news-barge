@@ -15,6 +15,29 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- North Yorkshire
+- York
+people:
+- Alec Shelbrooke
+- Julian Sturdy
+- Kevin Hollinrake
+- Simon Lightwood
+- Tom Gordon
+organisations:
+- A64
+- Government
+- Harrogate
+- Knaresborough
+- Labour
+- Malton
+- No10 North
+- No10 North team
+- The Yorkshire Post
+- Thirsk
+- Wakefield
+- Wetherby
+- York Outer
 ---
 
 # Call to 'break the deadlock' over dualling of the A64 and open up access to Yorkshire's coastline

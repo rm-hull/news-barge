@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Barcelona
+- Madrid
+- Madring
+- Miami
+- Turn 20
+- Verstappen
+people:
+- Andrea Stella
+- Aston Martin
+- Charles Leclerc
+- Kimi Antonelli
+- Lance Stroll
+- Lando Norris
+- Lando Norris'
+- Lewis Hamilton
+- Max Verstappen
+organisations:
+- F1 Commission
+- FIA
+- Ferrari
+- Formula 1
+- McLaren
+- Mercedes
+- Red Bull
+- SAC
+- Strategy Advisory Committee
+- VSC
 ---
 
 ![Lando Norris walking off the podium following the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/8f29/live/222997f0-afa2-11f1-a27d-17e2480354ed.jpg)

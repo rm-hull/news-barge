@@ -13,6 +13,15 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- North Yorkshire
+- York
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
+- Tesco Askham Bar
 ---
 
 *(Image: North Yorkshire Police)*

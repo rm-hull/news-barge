@@ -12,6 +12,18 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Base 101
+- Niamey
+- Niger
+- Sahel
+people:
+- Bana Wagana Ibrahim
+organisations:
+- AFP
+- Consultative Council
+- Group for the Support of Islam
+- Islamic State
 ---
 
 ## A military junta has rule Niger for three years but has struggled to contend with jihadist violence.

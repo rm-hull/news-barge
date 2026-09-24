@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Batley
+- Hawthorn Avenue
+- Heckmondwike
+- Upper George Street
+- West Yorkshire
+people: []
+organisations:
+- Kirklees CID
+- West Yorkshire Police WYP
 ---
 
 *(Image: PA)*

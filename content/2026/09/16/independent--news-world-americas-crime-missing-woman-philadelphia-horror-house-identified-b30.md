@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Horsch
+- Olney
+- Philadelphia
+people:
+- Amy McHale
+- Armando
+- Blair Tonzelli
+- Eugene Horsch
+- Gabrielle Amarando
+- Jonathan Halloran-Koren
+- Maribel Fresses
+- Nicole Fusaro
+- Raymond "RC" Horsch
+- Raymond Evers
+organisations:
+- DEA
+- FBI
+- NBC10 Philadelphia
+- Philadelphia Medical Examiner’s Office
+- Philadelphia Police
+- WPVI
 ---
 
 Police have identified a fifth missing woman tied to the Philadelphia “house of horrors” where they continue to search through more than one million photos taken from the former residence of an infamous pornographer.

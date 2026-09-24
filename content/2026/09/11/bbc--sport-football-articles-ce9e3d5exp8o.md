@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Lewis Hall
+- Newcastle
+people:
+- Lamine Yamal
+- Lewis Hall
+- Matthias Jaissle
+- Peter Schmeichel
+organisations:
+- Barcelona
+- Chelsea
+- Hall
+- Manchester United
+- Newcastle United
+- Premier League
 ---
 
 ![Lewis Hall](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg)

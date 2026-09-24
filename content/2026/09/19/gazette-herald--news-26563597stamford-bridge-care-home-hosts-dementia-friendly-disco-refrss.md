@@ -13,6 +13,15 @@ categories:
 - York
 - Music
 image: https://www.gazetteherald.co.uk/resources/images/21474651.jpg?type=og-image
+locations:
+- East Yorkshire
+people:
+- Nikki Mould
+organisations:
+- Community Dementia Disco
+- Karaoke
+- MG-DJ Disco
+- Stamford Bridge Beaumont Care Home
 ---
 
 *(Image: Supplied)*

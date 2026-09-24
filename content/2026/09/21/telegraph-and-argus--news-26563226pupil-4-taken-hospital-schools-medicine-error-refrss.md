@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21475479.jpg?type=og-image
+locations:
+- UGC
+people:
+- Imran Hussain
+- Isaac Hunter-Broadley
+- Isaac-Hunter Broadley
+- Jessica Troy
+- Ms Troy
+- Steph Griffiths
+organisations:
+- '### Bradford Academy'
+- '### School'
+- Bradford Academy
+- Bradford East
+- First Aid
+- GP
+- Jessica Troy
+- T&A
 ---
 
 *(Image: UGC)*

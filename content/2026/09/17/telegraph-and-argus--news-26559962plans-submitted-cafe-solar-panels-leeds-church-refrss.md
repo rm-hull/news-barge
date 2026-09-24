@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Chapel Allerton Conservation
+- Chapel Allerton Methodist Church
+- Leeds
+- Town Street
+- YOUR
+people: []
+organisations:
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: Google)*

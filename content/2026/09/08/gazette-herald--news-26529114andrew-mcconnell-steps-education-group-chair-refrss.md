@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - History
+locations: []
+people:
+- Andrew McConnell OBE
+- David Powell
+organisations:
+- Board
+- Heart of Yorkshire Education Group
 ---
 
 A long-serving chair of governors at an education group is stepping down after nearly two decades of service.

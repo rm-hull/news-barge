@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Cornforth
+- Durham Cathedral
+- Hopetown Darlington
+- Newcastle
+- North East
+- Ouseburn
+- South Shields
+- St. Mary’s Newton Aycliffe!
+people:
+- Achilles
+- Alfie Joey
+- Gilly Hope
+- Pierre Mignard
+- Tony!
+organisations:
+- Add Palace Green
+- BBC Newcastle
+- Clocktower Café
+- Darlington Locomotive Works Viewing Gallery
+- Durham Cathedral
+- Goods Shed
+- North Road Station Museum
+- Seven Stories National Centre For Children’s Books
+- South Shields Museum & Art Gallery
 ---
 
 **Alfie Joey gives parents and grandparents some much needed summer holiday inspiration!**

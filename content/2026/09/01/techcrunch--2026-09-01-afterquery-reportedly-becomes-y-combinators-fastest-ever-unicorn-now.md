@@ -14,6 +14,18 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- San Francisco
+people:
+- AfterQuery
+- Forbes
+- Gustaf Alströmer
+organisations:
+- AfterQuery
+- Korean AI
+- Legora
+- Motif Technologies
+- Nvidia
 ---
 
 AI training-data startup AfterQuery has reportedly raised a round that valued it at $3.2 billion. This just five months after announcing its $30 million Series A at a $300 million valuation in April.

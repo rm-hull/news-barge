@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Durham
+- North East
+- Stockton
+- Stockton-on-Tees
+- Teesside
+people:
+- Ben Waters
+- Timpson
+organisations:
+- HSL Chairs
+- Portrack Retail Park
 ---
 
 A furniture company known for its comfy chairs, sofas and beds has moved to a new showroom in Teesside after outgrowing its old store.

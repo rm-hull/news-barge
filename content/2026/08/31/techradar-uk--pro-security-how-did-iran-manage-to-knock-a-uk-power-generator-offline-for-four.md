@@ -10,6 +10,33 @@ description: NCSC issues new warning over OT and edge devices
 image: https://cdn.mos.cms.futurecdn.net/E6e47o4bL6CgppNM5Byt5Z-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Britain
+- Iran
+- Israel
+- U.K.
+- UK
+- US
+people:
+- Benedict Collins
+- Graeme Stewart
+- Matt Caswell
+- Muhammad Yahya Patel
+- Tim Williams
+organisations:
+- APT
+- BUCSIS
+- CNBC
+- Critical National Infrastructure
+- EMEA
+- FBI
+- Google News
+- Huntress:**
+- NCSC
+- National Cyber Security Centre
+- OpenSSL Foundation
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Electrical pylons and high voltage power lines are behind a barbed wire fence. critical infrastructure](https://cdn.mos.cms.futurecdn.net/E6e47o4bL6CgppNM5Byt5Z.jpg) 

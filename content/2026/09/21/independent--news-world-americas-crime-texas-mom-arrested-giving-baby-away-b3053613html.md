@@ -13,6 +13,18 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.the-independent.com/2026/09/21/12/55/Karla-Ibarra.webp?trim=133,0,140,0&width=1200&height=800&crop=1200:800
+locations:
+- Safe Baby Box
+- San Antonio
+- Texas
+people:
+- Jennifer Benavides
+- Karla Ibarra
+organisations:
+- Child Protective Services
+- Independent
+- KSAT
+- San Antonio Police Department
 ---
 
 An 18-year-old Texas mom has been arrested after giving away her one-month-old baby to a stranger she met at a bus stop, police said.

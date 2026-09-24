@@ -11,6 +11,33 @@ image: https://i.guim.co.uk/img/media/d7eebc5aae6f8af39e6c04d3215ff89df5fb24c5/2
 categories:
 - UK
 - News & Politics
+locations:
+- Caesars Superdome
+- California
+- Louis Armstrong New Orleans
+- New Orleans
+- New York City
+- UK
+- US
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Kanye West
+- Laura Loomer
+- Marjorie Taylor Greene
+- Milo Yiannopoulos
+- Ye
+organisations:
+- Breitbart News
+- CPAC
+- Conservative Political Action Conference
+- DHS
+- ICE
+- Immigration and Customs Enforcement
+- Trump
+- Twitter
+- US Department of Homeland Security
 ---
 
 Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration and Customs Enforcement (ICE) in New Orleans in connection with what the agency said was expired authorization to be in the country and a deportation order.

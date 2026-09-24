@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ifema
+- La Monumental
+- Macau
+- Madrid
+- Monaco
+- Turn 12
+people:
+- Fernando Alonso
+- Frederic Vasseur
+- Gabriel Bortoleto
+- Kimi Antonelli
+- Lando Norris
+- Luis Garcia Abad
+- Toto Wolff
+- Williams' Alex Albon
+organisations:
+- Audi
+- Autosport
+- BBC Sport
+- F1
+- FIA
+- FOM
+- Ferrari
+- Formula One Management
+- Madring
+- McLaren
+- Mercedes
 ---
 
 ![Action at the Madring  with a Spanish flag flying](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d477/live/9ea62f10-b041-11f1-bb36-29bb24d8b9b8.jpg)

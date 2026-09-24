@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Czech Republic
+- England
+- Portugal
+- Spain
+people:
+- Dan Ndoye
+- Elliot Anderson
+- Erling Haaland
+- Evangelos Marinakis
+- Forest
+- Iraola
+- James McAtee
+- Morgan Gibbs-White
+- Oliver Glasner
+- Thomas Tuchel
+organisations:
+- Bournemouth
+- Burnley
+- Croatia
+- Crystal Palace
+- England
+- Etihad
+- Leeds
+- Liverpool
+- Manchester City
+- Morgan Gibbs-White
+- Nottingham Forest
+- Premier League
+- Spurs
+- Tottenham
+- Wolves
 ---
 
 ![Morgan Gibbs-White clenches his fists in celebration](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/df57/live/4ed623b0-a7b2-11f1-b5cf-8556ae508a51.jpg)

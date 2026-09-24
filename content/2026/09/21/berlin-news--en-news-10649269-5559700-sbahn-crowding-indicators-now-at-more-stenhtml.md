@@ -12,6 +12,24 @@ categories:
 - Germany
 - News & Politics
 image: https://www.berlin.de/binaries/asset/image_assets/10649263/ratio_4_3/1789990051/800x600/
+locations:
+- Bellevue
+- Charlottenburg
+- Friedrichstraße
+- Hauptbahnhof
+- Hermannstraße
+- Tiergarten
+people: []
+organisations:
+- Alexanderplatz
+- Hackescher Markt
+- Jannowitzbrücke
+- Messe Nord
+- Messe Süd
+- Savignyplatz
+- Westkreuz
+- ZOB
+- Zoologischer Garten
 ---
 
 The display uses a color-coded system: green indicates low occupancy, yellow indicates medium occupancy and red indicates high occupancy for the respective train. The data comes from sensors on the tracks that use LED photoelectric sensors to detect the occupancy of passing commuter trains. AI software then combines the live measurements with millions of historical data points and adjusts the forecast with each new reading. Currently, the display is available at the following stations: Alexanderplatz, Bellevue, Charlottenburg, Friedrichstraße, Hackescher Markt, Hauptbahnhof, Hermannstraße (no display of subsequent trains initially), Jannowitzbrücke, Messe Nord/ZOB, Messe Süd, Savignyplatz, Tiergarten, Westkreuz and Zoologischer Garten.

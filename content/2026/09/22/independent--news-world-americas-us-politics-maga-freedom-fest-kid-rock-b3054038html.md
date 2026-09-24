@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/09/2258746916..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Cincinnati
+- Deters’ Morning View
+- Kentucky
+people:
+- Candace Owens
+- Donald Trump Jr
+- Duane Chapman
+- Duane “Dog the Bounty Hunter” Chapman
+- Eric Deters
+- Kid Rock
+- Robert James Ritchie
+organisations:
+- Deters
+- MAGA
 ---
 
 The annual Patriots Day Freedom Fest, an event that boasted Kid Rock on its lineup, has been cancelled after just a handful of VIP tickets sold.

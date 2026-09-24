@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '**York'
+- Black Swan
+- Byland
+- Marygate
+- North Yorkshire
+- Oldstead
+- Roots York
+- The Abbey Inn
+people:
+- Kate Dearden
+- Robert D Glover
+- Tommy Banks
+organisations:
+- Acas
+- Comforting Hands Recruitment Ltd
+- Fair Work Agency
+- Future of Work
+- Harrogate
+- Mount Dental Practice
+- National Minimum Wage Naming Scheme
+- Roots York Restaurant Ltd
+- Roots York Restaurants Ltd
+- The Abbey Inn
+- The Mount Dental Practice
+- The Press
 ---
 
 *(Image: PA)*

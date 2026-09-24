@@ -14,6 +14,17 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Cardale Park
+- London
+people:
+- John Pye
+- Kevin Counihan
+- Tom Snook
+- Tom Witten
+organisations:
+- Gordon Brothers
+- Pantera Advisory Group
 ---
 
 *(Image: Pantera)*

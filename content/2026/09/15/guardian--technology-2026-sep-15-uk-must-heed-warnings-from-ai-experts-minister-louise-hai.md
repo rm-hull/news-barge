@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- India.
+- UK
+people:
+- AI
+- Bilal Chughtai
+- Dan Selsam
+- Dario Amodei
+- Jack Clark
+- Jonathan Reynolds
+- Liam Byrne
+- Louise Haigh
+organisations:
+- AGI
+- AI Security Institute
+- Anthropic
+- BBC Radio4’s
+- ChatGPT
+- Elon Musk
+- Google DeepMind
+- Google DeepMind and X
+- Labour
+- OpenAI
+- TUC
 ---
 
 Ministers must “heed the warnings” from industry leaders about the threat posed by AI as the government looks to capitalise on the technology, the first secretary, Louise Haigh, will say on Tuesday.

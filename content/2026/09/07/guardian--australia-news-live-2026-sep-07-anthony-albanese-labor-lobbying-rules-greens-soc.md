@@ -11,6 +11,61 @@ image: https://i.guim.co.uk/img/media/dcd5b20d80c282d98a48b21ce7c5f9b80ae32a55/7
 categories:
 - UK
 - News & Politics
+locations:
+- Adelaide
+- Box Hill
+- Brighton
+- Burwood
+- Cheltenham
+- Clarinda
+- Glen Waverly
+- Melbourne Airport
+- NSW
+- Nepal
+- Nepal-Tibet
+- Parliament House
+- Queensland
+- SRL East
+- South Australia
+- Sydney
+- Victoria’s Suburban Rail Loop
+- Werribee
+people:
+- Andrew Messenger Queensland
+- Andrew Wilson
+- Angus Taylor
+- Anthony Albanese
+- Balendra Shah
+- Belinda Barnet
+- Ben Carroll
+- Cate Faehrmann
+- Chris Minns
+- Clare O’Neil
+- Daniel Andrews
+- Deb Frecklington
+- Jacinta Allan
+- Misha Schubert
+- Murray Watt
+- Pauline Hanson
+- Tim Wilson
+- Tom McIlroy One Nation
+- Vicki Ward
+organisations:
+- 3AW Radio
+- AAP
+- ABS
+- Achol Arok The Greens
+- Greens’
+- Herald Sun
+- Labor
+- Lukas Coch/AAP
+- NSW
+- New South Wales
+- One Nation
+- Property Council
+- SRL
+- Super Members Council
+- Swinburne University
 ---
 
 Australia politics live: Median full-time worker to be $25,000 worse off under Hanson’s super plan, peak body says; PM speaks of ‘horror’ of Nepal floods

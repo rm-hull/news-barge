@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Middlesbrough
+- Normanby
+- North East
+- Saltburn House
+- The Poverina
+people:
+- Behnam Azadi
+- Ben
+- Kel Allen
+organisations:
+- Pubs
+- Seafront Kitchen
+- The Poverina
 ---
 
 A popular pub and restaurant in Middlesbrough is starting a new chapter after changing hands and beginning preparations for a major refurbishment.

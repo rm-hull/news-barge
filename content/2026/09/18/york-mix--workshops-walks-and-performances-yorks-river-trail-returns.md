@@ -11,6 +11,13 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Stories-Nature-and-Resilience.webp
+locations:
+- York rivers
+people:
+- Jenny Kent
+- Mark Henderson
+organisations:
+- City of York Council
 ---
 
 Discover a new way to explore York’s rivers in returning trail.

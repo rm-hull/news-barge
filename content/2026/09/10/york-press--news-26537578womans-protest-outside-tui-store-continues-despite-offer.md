@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Cape Verde
+- Farsley
+- Leeds
+- Melia Dunas
+- West Yorkshire
+people:
+- Judith Weelands
+- Mrs Weelands
+- Ms Weelands'
+organisations:
+- '## Woman'
+- ABTA
+- TUI UK&I
 ---
 
 ## Woman's 16-week protest outside TUI over 'worst holiday' amid compensation offer

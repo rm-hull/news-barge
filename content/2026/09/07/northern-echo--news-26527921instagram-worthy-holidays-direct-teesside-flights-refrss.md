@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '## Damrak'
+- '## Gibralfaro Castle'
+- '## Palma Cathedral'
+- '## Sunset'
+- Alicante Alicante
+- Amsterdam Houses
+- Corfu
+- Costa del Sol
+- Europe
+- Faro
+- Gibralfaro Castle
+- Grisha Bruev
+- Malaga Malaga
+- Paleokastritsa
+- Palma Cathedral
+- Palma de Mallorca
+- Palma de Mallorca Palma de Mallorca Cathedral La Seu
+- Parc de la Mar
+- Plaza De Toros De Ronda Bullring
+- Ria Formosa
+- Santa Cruz
+- Spain
+- Teesside International Airport
+- The Ria Formosa lagoon
+people:
+- Grigory Bruev
+- Ryhor Bruyeu
+- WILLIAM PERUGINI
+organisations:
+- Teesside International Airport
 ---
 
 While many of us choose our holiday destinations based on adventure, relaxation or low prices, it can also be because the place is beautiful and aesthetically pleasing.

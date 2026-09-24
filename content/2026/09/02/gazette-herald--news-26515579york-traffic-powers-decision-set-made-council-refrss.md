@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Duncombe Place
+- York Minster
+people:
+- PC Rosie Prior
+organisations:
+- ATTRO
+- Anti-Terror Traffic Regulation Order
+- Blue Badge
+- City of York Council
+- Deangate
+- North Yorkshire Police
+- York Christmas Markets
 ---
 
 Powers used during York’s Christmas Market which saw Blue Badge holders and others barred from the city centre could become permanent under proposals set for a decision.

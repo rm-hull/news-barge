@@ -13,6 +13,25 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- America
+- Britain
+- Harrogate
+- Knaresborough
+- Manchester
+- Westminster
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Elon Musk
+- Tom Gordon
+organisations:
+- Commission
+- Labour
+- Lib Dem
+- Liberal Democrat
+- Westminster Crime Unit
 ---
 
 Ed Davey has warned Andy Burnham “you can’t fix the country without fixing our broken politics”. He has called for a new Commission to restore British democracy, which tackles systems of cronyism and corruption, makes politicians more accountable, gets big money out of politics and breaks the power of social media giants.

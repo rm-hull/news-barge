@@ -21,6 +21,68 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bletchley Park
+- Chelsea
+- China
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- AI
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- Cleo
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Farage
+- Harry Styles
+- Helen
+- Joanne McNally
+- Jonathan Black
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Mikel Arteta
+- Nourah
+- Putin
+- Rishi Sunak
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- AI
+- Burnham
+- Chelsea
+- De Zerbi
+- ELITE
+- Labour
+- Liverpool
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | In The Room

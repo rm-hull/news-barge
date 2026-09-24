@@ -14,6 +14,54 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- DC
+- Earth
+- Las Vegas
+- New Mexico
+- Roswell
+- Skinwalker Ranch
+- United States
+- Utah
+- Washington
+- White House
+people:
+- Barack Obama
+- Brian Tyler Cohen
+- Christopher Sharp
+- Donald Trump
+- George Knapp
+- Greg Eghigian
+- Jordan Flowers
+- Lara Trump
+- Marco Rubio
+- Mark Christopher Lee
+- Phil
+- Robert Bigelow
+- Stephen Miller
+- Tim Gallaudet
+organisations:
+- Air Force One
+- Congress
+- Department of War
+- Disclosure Foundation
+- History Channel
+- House UAP Caucus
+- ICE
+- Instagram
+- Liberation Times
+- National Oceanic and Atmospheric Administration
+- Navy
+- New York Times
+- Office of the Director of National Intelligence
+- Oval Office
+- Penn State
+- Pentagon
+- Roswell
+- Trump
+- UAP Science Advisory Council
+- UFO
+- WIRED
 ---
 
 In 2006, Donald Trump was firing people on *The Apprentice* and Dr. Phil was daytime television's reigning tough-love therapist.

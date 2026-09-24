@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Ascari
+- California
+- Milan
+- Monaco
+- Monza
+- Netherlands
+- Parabolica
+- Saudi Arabia
+people:
+- '"(Piastri'
+- Alpine
+- Andrea Stella
+- Ben Thorne
+- Charles Leclerc
+- Flavio Briatore
+- George Russell
+- Kimi Antonelli
+- Lance Stroll
+- Lewis Hamilton
+- Liam Lawson
+- Max Verstappen
+- Mercedes'
+- Oscar Piastri
+- Pierre Gasly
+- Sergio Perez
+- Steve Nielsen
+organisations:
+- Alpine
+- F1
+- FIA
+- Ferrari
+- Formula 1
+- McLaren
+- Mercedes
+- Red Bull
+- Renault
+- Sky Sports
+- Toro Rosso
 ---
 
 ![Pierre Gasly gives a thumbs-up at the camera after taking pole position for the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/da7f/live/4940fe30-a950-11f1-ae8c-2528accc9a1a.jpg)

@@ -13,6 +13,43 @@ image: https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS-2190-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Amazon
+- Anduril
+- Bahrain
+- Ghana
+- Gulf
+- Hyderabad
+- Iran
+- Jubail
+- Middle East
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- Washington
+people:
+- Barack Obama
+- Bryan Clark
+- Mona Yacoubian
+- Tom
+organisations:
+- Anduril
+- Center for Defense Concepts and Technology
+- Center for Strategic and International Studies
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- Hudson Institute
+- Islamic Revolutionary Guard Corps
+- PC
+- PCB
+- Pentagon
+- RQ-170 Sentinel
+- Reuters
+- Tom's Hardware
+- U.S. Navy
 ---
 
 ![Map of the Middle East highlighting the Strait of Hormuz as a high-risk maritime zone](https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS.jpg) 

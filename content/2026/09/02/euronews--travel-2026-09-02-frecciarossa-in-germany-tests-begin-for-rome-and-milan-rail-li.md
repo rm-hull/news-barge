@@ -13,6 +13,51 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Austria
+- Belgium
+- Berlin
+- Bologna
+- Bolzano
+- Brenner Base Tunnel
+- Brescia
+- Channel Tunnel
+- Europe
+- Florence
+- France
+- Frankfurt
+- Frecciarossa
+- Gare du Nord
+- Germany
+- Innsbruck
+- Italy
+- Kinding station
+- Krakow
+- Milan
+- Munich
+- Naples
+- Netherlands
+- Rome
+- Rovereto
+- Spain
+- Switzerland
+- Trento
+- United Kingdom
+- Verona
+people:
+- Daniel Karmann
+- Gianpiero Strisciuglio
+- Matteo Salvini
+organisations:
+- Deutsche Bahn
+- European Metro
+- FS Group
+- Ferrovie dello Stato
+- Frecciarossa
+- Infrastructure and Transport
+- London St Pancras
+- Trenitalia
+- ÖBB
 ---
 
 ## Trial runs of Frecciarossa trains in Germany and Austria are paving the way for high-speed links between Rome, Milan and Munich. The first services are planned for summer 2027.

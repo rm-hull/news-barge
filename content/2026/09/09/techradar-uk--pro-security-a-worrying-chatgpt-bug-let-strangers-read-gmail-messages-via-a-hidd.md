@@ -10,6 +10,24 @@ description: Researchers say it's worth an investigation, in spite of caveats
 image: https://cdn.mos.cms.futurecdn.net/PB5R692ChqyHSzKEtqDyYe-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Any AI
+- CPR
+- ChatGPT
+- Check Point Research
+- Gmail
+- Google Drive
+- Google News
+- Microsoft Teams
+- OpenAI
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![ChatGPT app](https://cdn.mos.cms.futurecdn.net/PB5R692ChqyHSzKEtqDyYe.jpg) 

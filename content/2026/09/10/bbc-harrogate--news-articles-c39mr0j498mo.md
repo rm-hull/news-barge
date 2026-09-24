@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Bradford
+- Keighley
+- Leeds Road
+- North Yorkshire
+- Sladen Street
+- West Yorkshire
+people:
+- Abubakr Ahmed
+- Helen Chapman
+organisations:
+- Bradford Crown Court
+- Operation Phoenix
 ---
 
 ![A police mugshot of a man standing against a grey background. He is wearing a grey sweatshirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/aaea/live/1490b870-ad00-11f1-a540-61c3f7fc4e6c.jpg)

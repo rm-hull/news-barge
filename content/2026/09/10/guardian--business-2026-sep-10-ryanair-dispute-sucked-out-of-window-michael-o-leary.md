@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dublin
+- Europe
+- Germany
+- Greece
+- UK
+- US
+people:
+- Ljubisa Karović
+- Martin Rolfe
+- Michael O’Leary
+- Svetlana
+organisations:
+- AGM
+- BBC
+- Boeing
+- GE
+- Guardian
+- NTSB
+- National Transportation Safety Board
+- Nats
+- O’Leary’s
+- Ryanair
 ---
 
 Ryanair has said it will be “disputing” that any part of a passenger’s body was sucked outside when a window on one of its aircraft broke while in flight.

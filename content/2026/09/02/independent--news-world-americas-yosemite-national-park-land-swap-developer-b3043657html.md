@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- California
+- Mariposa
+- Oregon
+- Pori
+- Tuolumne
+- Yosemite Falls
+- Yosemite National Park
+people:
+- Elizabeth Peace
+- Jeff Merkley
+- Jeff Pori
+- Lisa Murkowski
+- Neal Desai
+- Trump
+organisations:
+- Congress
+- El Capitan
+- Interior Department
+- Kingsbarn Realty Capital
+- Land and Water Conservation Fund
+- NOTUS
+- National Park Service
+- National Parks Conservation Association
+- Peace
+- Senate Appropriations subcommittee for Interior
+- The Independent
+- The Washington Post.
+- Trump
+- Yosemite National Park
 ---
 
 The Trump administration is reportedly considering a land swap that would give part of Yosemite to a private developer who wants to build a road connecting a lodge and rental cabins to the national park.

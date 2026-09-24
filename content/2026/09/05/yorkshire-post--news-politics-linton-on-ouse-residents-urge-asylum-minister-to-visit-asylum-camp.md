@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Cleveland
+- Linton
+- North Yorkshire
+- North Yorkshire.
+- Ouse
+- Owen Humphreys
+- PA
+- RAF Linton-on-Ouse
+- Redcar
+- York
+people:
+- Anna Turley
+- Malcolm Taylor
+- Ms Turley
+- Rachael Maskell
+organisations:
+- Blackpool Metropole
+- Border Security
+- Government
+- Home Office
+- Ministry of Defence
+- RAF Linton-On-Ouse
+- The Yorkshire Post
 ---
 
 # Linton-on-Ouse: residents urge Asylum Minister to visit village of planned asylum camp

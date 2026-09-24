@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Atlanta
+- Beverly Center
+- Chicago
+- Los Angeles
+- U.S.
+people:
+- Bill Essayli
+- Cole
+- Craig Harbaugh
+- David Lindsey
+- Deandre Wilson
+- Durk Banks
+- Kanye West
+- Lil Durk
+- Lul Pab
+- Machine Gun Kelly
+- Quando Rondo
+- Saviay’a Robinson
+- Von
+organisations:
+- Durk
+- Durk's
+- Escalade
+- Only The Family
 ---
 
 A federal jury on Friday found rapper Lil Durk not guilty of the attempted killing for hire of rival rapper Quando Rondo at a Los Angeles gas station, a shooting that resulted in the death of Rondo’s cousin.

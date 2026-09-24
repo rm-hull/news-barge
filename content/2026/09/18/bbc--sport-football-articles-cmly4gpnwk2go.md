@@ -13,6 +13,100 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Andorra
+- Argentina
+- Azteca Stadium
+- Belgium
+- Bosnia-Herzegovina
+- Congo
+- Croatia
+- Czech Republic
+- England
+- France
+- Japan
+- Mexico
+- North America
+- Trent
+- US
+- United States
+- Wembley
+people:
+- '## ''Embrace'
+- :** Dominic Calvert-Lewin
+- :** Elliot Anderson
+- :** Trent Alexander-Arnold
+- Adam Wharton
+- Alex Scott
+- Alexander Arnold
+- Anthony Gordon
+- Bukayo Saka
+- Cole Palmer
+- Dean Henderson
+- Declan Rice
+- Djed Spence
+- Dominic Calvert-Lewin
+- Donald Trump
+- Eberechi Eze
+- Ezri Konsa
+- Folarin Balogun
+- Gianni Infantino
+- Harry Kane
+- Harry Maguire
+- James Trafford
+- Jarell Quansah
+- Jarrad Branthwaite
+- Jarrell Quansah
+- Jason Steele
+- John Stones
+- Jordan Henderson
+- Jordan Pickford
+- Jude Bellingham
+- Kobbie Mainoo
+- Lewis Hall
+- Marc Guehi
+- Marcus Rashford
+- Morgan Gibbs-White
+- Morgan Rogers
+- Myles Lewis-Skelly
+- Nico O'Reilly
+- Phil Foden
+- Reece James
+- Rio Ngumoha
+- Thomas Tuchel
+- Tino Livramento
+- Trent Alexander-Arnold
+- Trevoh Chalobah
+- Wayne Rooney
+organisations:
+- Arsenal
+- BBC Radio 5
+- Barcelona
+- Bayer Leverkusen
+- Bayern Munich
+- Bournemouth
+- Brighton
+- Chelsea
+- Como
+- Crystal Palace
+- England
+- Everton
+- FA
+- Fifa
+- France
+- Inter Milan
+- Leeds United
+- Liverpool
+- Manchester City
+- Manchester United
+- Mexico
+- Newcastle United
+- Nottingham Forest
+- Premier League
+- Real Madrid
+- Spain
+- The Football Association
+- Three Lions
 ---
 
 Tuchel recalls Palmer and Alexander-Arnold to England squad

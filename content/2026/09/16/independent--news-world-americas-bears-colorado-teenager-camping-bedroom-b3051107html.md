@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Colorado
+- Durango
+- Park Creek Campground
+- Rio Grande National Forest
+- South Fork
+people:
+- Adrian Archuleta
+- Bears
+- Luke Clancy
+- Rick Basagoitia
+organisations:
+- CPW Area Wildlife
+- Colorado Parks and Wildlife
+- National Park Service
 ---
 
 Bears in Colorado attacked a woman camping in her tent and a sleeping teenager in her bedroom over the weekend.

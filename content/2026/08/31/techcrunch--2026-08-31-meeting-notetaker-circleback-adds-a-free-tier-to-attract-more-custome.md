@@ -12,6 +12,21 @@ image: https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg?re
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Ali Haghani
+- Circleback
+- Granola
+- Kevin Jacyna
+organisations:
+- Calendly
+- Circleback
+- Fireflies
+- Google Ads
+- Granola
+- Meta Ads
+- Read AI
+- Wispr
 ---
 
 The meeting note-taker market is a crowded space. Just in the last few weeks, dictation app Wispr launched its own note-taker and scheduling app, and Calendly added a similar tool to its stack. Dedicated meeting note-takers like Granola, Read AI, and Fireflies have raised millions of dollars in funding.

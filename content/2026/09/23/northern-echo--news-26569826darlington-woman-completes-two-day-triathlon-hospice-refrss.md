@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thenorthernecho.co.uk/resources/images/21484365.jpg?type=og-image
+locations:
+- Darlington
+- Middlesbrough
+- Middleton Hall Retirement Village
+- Middleton St George
+- North East
+people:
+- Angela Robinson
+- Ellie
+- Ms Robinson
+- Steph
+organisations:
+- Angela and Steph’s
+- Middleton Hall
+- Middleton Hall Retirement Village
+- Middleton Hall Retirement Village Gym
+- Orangery Bistro
+- Zoe’s Place Baby Hospice
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,59 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- France
+- Harwood-Bellis
+- Manchester City
+- Paris St-Germain
+- Senegal
+- Villa Park
+people:
+- '** Mbaye'
+- Alejandro Garnacho
+- Donyell Malen
+- Emi Martinez
+- Enzo Barrenechea
+- Ezri Konsa
+- Harwood-Bellis'
+- Ibrahim Mbaye
+- Joao Gomes
+- Johan Manzambi
+- Leon Goretzka
+- Les Bleus
+- Lucas Digne
+- Matteo Ruggeri
+- Morgan Rogers
+- Morgan Rogers'
+- Nicolas Jackson
+- Ollie Watkins
+- Taylor Harwood-Bellis
+- Unai Emery
+- Villa
+- Youri Tielemans
+- Zion Suzuki
+organisations:
+- Al-Hilal
+- Arsenal
+- Aston Villa
+- Bayern Munich
+- Benfica
+- Burnley
+- Chelsea
+- FC Versailles
+- France
+- Harwood-Bellis
+- Hull
+- Jackson
+- Ligue 1
+- Manzambi
+- Mbaye
+- Middlesbrough
+- PSG
+- Roma
+- Southampton
+- Uefa
 ---
 
 ![Mbaye and Harwood-Bellis](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/750c/live/ff9281a0-a5f8-11f1-aed2-8d6da8d75094.png)

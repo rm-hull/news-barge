@@ -12,6 +12,19 @@ categories:
 - Arts & Culture
 - History
 image: https://static.independent.co.uk/2026/09/18/22/2026-09-10T113529Z_330387070_RC2AGNAG5RFN_RTRMADP_3_BRITAIN-FRANCE-BAYEUX-TAPESTRY.JPG?trim=38,0,38,0&width=1200&height=800&crop=1200:800
+locations:
+- Bayeux
+- Canterbury
+- England
+- London
+- Normandy
+- UK
+people:
+- Michael Lewis
+- Norman
+organisations:
+- Bayeux Tapestry Museum
+- British Museum
 ---
 
 Visitors to the British Museum are no longer permitted to take photos of the Bayeux Tapestry.

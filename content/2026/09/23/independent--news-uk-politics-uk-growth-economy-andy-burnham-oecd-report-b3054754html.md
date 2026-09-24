@@ -13,6 +13,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/18/4cad9dad70f8f3cd03b448fb494176e8Y29udGVudHNlYXJjaGFwaSwxNzkwMTg1MzEx-2.85938765.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Europe
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Donald Trump
+- Emma Reynolds
+- John Healey
+organisations:
+- Bank of England
+- G20
+- G7
+- OECD
+- Organisation for Economic Co-operation and Development
+- Treasury
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

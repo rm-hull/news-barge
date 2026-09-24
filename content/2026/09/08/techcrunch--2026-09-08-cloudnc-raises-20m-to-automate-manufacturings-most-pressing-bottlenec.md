@@ -13,6 +13,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jp
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- U.S.
+people:
+- Chris Emery
+- Theo Saville
+organisations:
+- Autodesk Fusion
+- CAM Assist
+- CNC
+- Calculus Venture Capital
+- CloudNC
+- Entrepreneur First
+- LM Capital
+- Lockheed Martin
+- Mastercam
+- Nimble Ventures
+- Quote Agent
+- Saville
+- TechCrunch
 ---
 
 UK-based manufacturing software startup CloudNC announced a $20 million B extension round on Wednesday, bringing its lifetime total raised amount to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch.

@@ -12,6 +12,11 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg
+locations:
+- Rudding Lane
+people: []
+organisations:
+- Harrogate Rugby Club
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg)

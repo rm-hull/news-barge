@@ -12,6 +12,34 @@ image: https://static.independent.co.uk/2026/09/09/18/Slovenia_Israel_36_33.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Europe
+- France
+- Gaza
+- Israel
+- Jerusalem
+- Ljubljana
+- Middle East
+- Slovenia
+- United Kingdom
+- Vienna
+- West Bank
+people:
+- Andraz Zorko
+- Benjamin Netanyahu
+- Gideon Saar
+- Janez Jansa
+- Robert Golob
+- Tone Kajzer
+organisations:
+- AP
+- EU
+- European Union
+- Freedom Movement
+- Golob
+- STA
+- The Associated Press
 ---
 
 Israel opened its first embassy in Slovenia on Wednesday, boosting relations with the small European Union nation even as ties sour with some longtime allies over its policy on illegal settlements in the occupied West Bank.

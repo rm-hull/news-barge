@@ -14,6 +14,36 @@ categories:
 - Health & Fitness
 - Science
 - Society & Culture
+locations:
+- AI
+- Silicon Valley
+people:
+- AI
+- Claude
+- Genevieve Bartuski
+- Jeff Clark
+- Mimi
+- Nathaniel Nevedal
+- Richard Dawkins
+organisations:
+- AI
+- Becca
+- Bonnier Books
+- ChatGPT
+- Google News
+- High Performance Mental Health
+- ICD
+- ICF
+- Inverse
+- LLM
+- New Scientist
+- OpenAI
+- Sovereign Sanctuary
+- TechRadar
+- The Guardian
+- Unicorn Intelligence Tech Partners
+- VR
+- Wired
 ---
 
 ![Man at laptop meditating](https://cdn.mos.cms.futurecdn.net/vJGbWePXHGczj9neZTZcEa.jpg) 

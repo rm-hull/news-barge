@@ -14,6 +14,34 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Camp David
+- Capitol
+- United States of America
+- Washington
+people:
+- Ashli Babbitt
+- Donald Trump
+- Joe Biden
+- Lindsey Graham
+- Mark McCloskey
+- Peter Ticktin
+- Stanley Woodward
+- Todd Blanche
+organisations:
+- Anti-Weaponization Fund
+- Citizens for Responsibility and Ethics
+- Congress
+- DOJ
+- Department of Justice
+- Department of Treasury
+- Freedom of Information Act
+- Judgment Fund
+- Justice Department
+- NBC
+- Senate
+- The Independent
+- Trump
 ---
 
 Donald Trump’s administration insists that a compensation fund for pardoned January 6 rioters is dead for good, but the Department of Justice has refused to say whether government lawyers are working on backdoor plans for taxpayer-funded payouts.

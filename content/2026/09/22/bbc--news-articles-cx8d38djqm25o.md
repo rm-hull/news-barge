@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec3e/live/510c2510-b62d-11f1-a555-63bc9cabe94f.jpg
+locations:
+- Dongo
+- Italy
+- Lake Como
+- Milan
+- UK
+people: []
+organisations:
+- Foreign Office
+- Italian Coast Guard
 ---
 
 ![A photo of a pontoon at Dongo on Lake Como from 2011.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8896/live/6f591a50-b62d-11f1-a555-63bc9cabe94f.jpg)

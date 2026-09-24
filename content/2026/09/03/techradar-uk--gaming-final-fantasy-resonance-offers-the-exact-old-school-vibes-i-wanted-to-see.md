@@ -13,6 +13,18 @@ image: https://cdn.mos.cms.futurecdn.net/uXxAN5HwxpT9BhHLA4Aot7-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- James Pickard
+organisations:
+- Black Friday
+- Eurogamer
+- Google News
+- PS5
+- SNES
+- Tampa Bay Buccaneers
+- TechRadar
+- The Warrior of Light
 ---
 
 ![A screenshot from Final Fantasy Resonance](https://cdn.mos.cms.futurecdn.net/uXxAN5HwxpT9BhHLA4Aot7.jpg) 

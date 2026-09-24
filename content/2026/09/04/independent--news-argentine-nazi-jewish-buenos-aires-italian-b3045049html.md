@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Amsterdam
+- Argentina
+- Buenos Aires
+- Connecticut
+- Europe
+- Germany
+- Greenwich
+- Mar del Plata
+- Netherlands
+- Switzerland
+people:
+- Adolf Hitler
+- Friedrich Kadgien
+- Giacomo Antonio Melchiorre Ceruti
+- Giuseppe Vittore Ghislandi
+- Hermann Göring
+- Isabel DeBre
+- Jacques Goudstikker
+- Juan Carlos Cortegoso
+- Marei von Saher
+- Patricia Kadgien
+- Rembrandt
+- Vermeer
+- von Saher
+organisations:
+- Algemeen Dagblad
+- National Academy of Fine Arts
+- The Associated Press
+- ___ Associated Press
 ---
 
 A long-lost Italian portrait looted from a prominent Jewish art dealer during World War II was set to be returned to his heir after an Argentine court on Friday approved a deal under which the daughter of a fugitive Nazi official agreed to give up her claim rather than face trial.

@@ -12,6 +12,46 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Boston
+- Brockton
+- Connecticut
+- Hartford
+- Iran
+- Iraq
+- Massachusetts U.S.
+- Sen
+- Vermont
+people:
+- Antoine Hilaire
+- Bernie Sanders
+- Donald Trump
+- Ed Markey
+- Jeromie Whalen
+- Jim
+- Joe Kennedy III
+- John Larson
+- Leah Willingham
+- Luke Bronin
+- Patrick Roath
+- Richard Neal
+- Seth Moulton
+- Stephen Lynch
+organisations:
+- 1st Congressional District
+- 8th Congressional District
+- All
+- Associated Press
+- Congress
+- Democratic House
+- Democratic Party
+- Marines
+- Massachusetts’ 6th Congressional District
+- Massachusetts’ 7th Congressional District
+- New England House
+- Our Revolution
+- Senate
+- Supreme Court
 ---
 
 As Democrats across the U.S. signal an increasing appetite for change, U.S. Rep. Seth Moulton is hoping that momentum will help him oust longtime Massachusetts U.S. Sen. Ed Markey in Tuesday’s primary.

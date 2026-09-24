@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/cb275fc6c364bc5cc6ad6a5a8415d8518e2c9fb4/2
 categories:
 - UK
 - News & Politics
+locations:
+- Duke
+- UK
+- US
+people:
+- Charles
+- Harry
+- Meghan
+- Ravec
+organisations:
+- Duchess of Sussex
+- Hello!
+- Home Office
+- Ravec
+- The Telegraph
+- VIP
 ---
 
 The Duke and Duchess of Sussex will have a review of their publicly funded security following their return to the UK.

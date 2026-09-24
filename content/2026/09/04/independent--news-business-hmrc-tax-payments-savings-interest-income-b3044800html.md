@@ -12,6 +12,13 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Stefanie Tremain
+organisations:
+- Blick Rothenberg
+- HMRC
+- Telegraph
 ---
 
 HMRC will review over 100,000 cases from the 2025-26 tax year after complaints that a technical error in place for five years could mean people have been overcharged.

@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations: []
+people:
+- Alan Cumming
+- Ian McKellen
+- James Marsden
+- Patrick Stewart
+organisations:
+- Amazon Prime Video
+- Apple TV
+- Avengers
+- Disney
+- Disney+
+- MCU
+- Marvel
+- X-Men
 ---
 
 Marvel and Disney+ have issued a stacked watch list for fans ahead of the cinema release of *Avengers: Doomsday* on December 18.

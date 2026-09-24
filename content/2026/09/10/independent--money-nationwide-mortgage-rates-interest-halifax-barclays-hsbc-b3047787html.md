@@ -14,6 +14,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Andrew Bailey
+- Craig Fish
+- Damien Burke
+- Jamie Alexander
+organisations:
+- Alexander Southwell Mortgages
+- Bank of England
+- Barclays
+- BoE
+- Broadstone
+- FCA
+- First Time Buyer
+- HSBC
+- Halifax
+- Lodestone Mortgages
+- Nationwide Building Society
+- Santander
+- The Independent
 ---
 
 Homeowners are being warned not to delay renewing a mortgage deal after Nationwide Building Society become the latest major lender in the UK to lift rates.

@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- LANDMARK
+- North Yorkshire
+- Whitby Swing Bridge
+- York
+people: []
+organisations:
+- North Yorkshire Council
 ---
 
 *(Image: North Yorkshire Council)*

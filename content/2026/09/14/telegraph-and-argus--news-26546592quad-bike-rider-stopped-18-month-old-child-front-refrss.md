@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Holme Wood
+- Holmewood
+- Knowles Lane
+people: []
+organisations:
+- PCSO's
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -11,6 +11,26 @@ description: Apple has pushed up the prices for Apple TV in the US and selected 
 image: https://cdn.mos.cms.futurecdn.net/Rkct88Ntq9BGeYRf3U4Rcm-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Brazil
+- Chile
+- England
+- Mexico
+- Stockport
+- US
+people:
+- Dave
+- David Nield
+- John Ternus
+- Ted Lasso
+organisations:
+- Apple TV
+- Gizmodo
+- Google News
+- PC Explorer
+- Reddit
+- The Hardware Handbook
+- The Verge
 ---
 
 ![Widow's Bay](https://cdn.mos.cms.futurecdn.net/Rkct88Ntq9BGeYRf3U4Rcm.jpg) 

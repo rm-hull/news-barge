@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9f0/live/e15023e0-b684-11f1-97fb-8d66d3951490.jpg
+locations:
+- Brighton
+- Britain
+- Canada
+- Europe
+- New York
+- UK
+- US
+people:
+- Andy Burnham
+- Brian Wheeler
+- Jukka Salovaara
+- Keir Starmer
+- Ursula von der Leyen.
+- von der Leyen
+organisations:
+- Brexit
+- EU
+- European Commission
+- European Union
+- Houses of Parliament.
+- IAA
+- Labour
+- Liberal Democrat
+- UN General Assembly
 ---
 
 ![Andy Burnham wearing a navy suit and a white shirt. ](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e9f0/live/e15023e0-b684-11f1-97fb-8d66d3951490.jpg)

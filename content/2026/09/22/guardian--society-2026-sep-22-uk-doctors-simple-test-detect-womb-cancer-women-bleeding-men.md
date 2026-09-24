@@ -14,6 +14,15 @@ categories:
 - Health & Fitness
 - Science
 image: https://i.guim.co.uk/img/media/bfdcc2487817ca210741eff955fa6c5b9ae81faa/311_0_4678_3743/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35cd9f5715b9856c7a957284a01f93c2
+locations:
+- England
+people:
+- Emma Davidson
+organisations:
+- Lancet Obstetrics
+- Manchester University NHS
+- University of Manchester
+- Women’s Health
 ---
 
 Doctors have developed a simple test that could help rule out womb cancer in women who experience bleeding after menopause.

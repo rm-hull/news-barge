@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bucharest
+- England
+- Leamington Spa
+- National Cathedral
+- Patriarchate Hill
+- People’s Salvation Cathedral
+- Romania
+people:
+- Adrian Agachi
+- Daniel
+- Paula Pantea
+- ___ McGrath
+organisations:
+- Church
+- European Union
+- National Cathedral
+- Patriarchal Residence
+- Procession of Lights
+- The Associated Press
 ---
 
 Thousands of young Orthodox Christians gathered in Romania’s capital for a candlelit procession that illuminated a trail from the giant National Cathedral to Patriarchate Hill, a historic site considered sacred to Romanian Orthodoxy.

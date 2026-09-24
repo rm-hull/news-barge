@@ -15,6 +15,31 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 - Law & Justice
+locations:
+- Germany
+- Salt Lake City
+- US
+- Utah
+people:
+- Aylo
+- Pornhub
+- Rene Millman
+organisations:
+- Aylo
+- Computer Weekly
+- Department of Commerce
+- EFF
+- Electronic Frontier Foundation
+- Engadget
+- Financial Times
+- Fox 13 News
+- IT Pro
+- No Trace
+- Pornhub
+- TechRadar
+- The Guardian
+- VPN
+- VPNs
 ---
 
 ![State Capital Building of Utah](https://cdn.mos.cms.futurecdn.net/f4dKojZG636GgdShdHj94M.jpg) 

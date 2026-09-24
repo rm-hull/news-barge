@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Hormuz
+- Iran
+- Middle East
+- Seoul
+- Somalia
+- South Korea
+- US
+- US-North Korea
+- US-South Korea
+- Washington
+people:
+- Ahn Gyu-back
+- Donald Trump
+- Kim Jong-un
+- Lee Jae Myung
+- Moon Jae-in
+organisations:
+- Coupang
+- Guardian
+- Seoul Broadcasting System
+- Ulchi Freedom Shield
 ---
 
 South Korea is reviewing a possible deployment of military assets to the strait of Hormuz amid pressure from Donald Trump over Seoul’s reluctance to provide support in the region, according to domestic media reports.

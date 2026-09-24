@@ -11,6 +11,14 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Sir-Ben-Okri.webp
+locations:
+- North Yorkshire
+people:
+- Ben Okri
+organisations:
+- BBC
+- Harrogate International Festivals Box Office
+- The Crown Hotel
 ---
 
 The prestigious **Raworths Harrogate Literature Festival** has secured a major cultural coup for its upcoming autumn line-up, confirming a headline appearance by Booker Prize-winning literary icon**Sir Ben Okri**.

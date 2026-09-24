@@ -15,6 +15,24 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- China
+- China-Nepal
+- Guangxi
+- Lhasa
+- Nepal
+- Tibet
+people:
+- He Hongrong
+- Peng Guangming
+- Xi Jinping
+organisations:
+- Aquarian
+- Associated Press
+- CCTV
+- Fat Parrot
+- Human Rights Watch
+- Xinhua News
 ---
 
 It’s been more than a week since deadly flash floods killed hundreds and left thousands missing along the China-Nepal border — and practically nothing is known about the victims on the Chinese side.

@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Heathrow Airport
+- Ljubljana
+- Slovenia
+- UK
+people:
+- Allens
+- Catie
+- Keir Mather
+- Phil Allen
+- Selfie
+organisations:
+- BA
+- BBC Your Voice
+- British Airways
+- Catie
+- Cirium
+- Civil Aviation Authority
+- EU
+- Nats
 ---
 
 ![Catie and Phil stand in a bedroom looking down at their open suitcase.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg)

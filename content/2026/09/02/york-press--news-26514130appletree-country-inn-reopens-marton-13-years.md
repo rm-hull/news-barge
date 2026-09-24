@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Guernsey
+- Malton
+- Marton
+- Matt Stanley
+- North Yorkshire
+- Pickering
+- Tadcaster
+- York
+people:
+- Connor Anderson
+- Josh Barnes
+- Lewis Sadler
+- Mary Celeste
+- Matt Stanley
+- Mum Sheila
+- One
+- Pic
+- Sabina
+- Sam Smith
+organisations:
+- Angel & White Horse
+- AppleTree Country Inn
+- Appletree Country Inn
+- Facebook
+- Glaves Butchers of Scarborough
+- Hodgson Fish of Hartlepool
+- Pic
+- Press
 ---
 
 ## 'Fantastic' reopening for North Yorkshire village pub after 13-year closure

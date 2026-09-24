@@ -15,6 +15,33 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- England
+- Europe
+- North Yorkshire
+- Scarborough South
+- Scarborough South Bay.
+- UK
+- Westminster
+- Whitby
+- York
+people:
+- Alison Hume
+- Andrew Carter
+- David Skaith
+- Gavin Lane
+- Tom Arber
+organisations:
+- CLA
+- Centre for Cities
+- Country Land and Business Association
+- Greggs
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- Wetherspoons
+- York St John University
+- Yorkshire
 ---
 
 # MP says tourism levy money raised in Scarborough and Whitby ‘should stay on coast’

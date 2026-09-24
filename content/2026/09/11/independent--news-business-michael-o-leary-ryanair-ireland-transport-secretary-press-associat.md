@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Dublin
+- Europe
+- Ireland
+- UK
+people:
+- Heidi Alexander
+- Michael O’Leary
+- O’Leary’s
+- Rachel Morrogh
+- Simon Harris
+organisations:
+- Aer Lingus
+- BA
+- DRCC
+- Dublin Rape Crisis Centre
+- Fine Gael
+- LBC
+- Lufthansa
+- Press Association
+- Ryanair
 ---
 
 Ryanair chief Michael O’Leary has refused to apologise after he was accused of trivialising rape.

@@ -11,6 +11,13 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Ripon Canal
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/679b218716442.jpg) 

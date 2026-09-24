@@ -15,6 +15,24 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Britain
+- Gulliver's Valley
+- North Derbyshire
+- Rotherham
+- Sheffield
+- UK
+- Yorkshire
+people:
+- Paul Michael Hughes
+- Ruth Amos
+- Shawn Brown
+organisations:
+- Guinness World Records
+- Kids Invent Stuff
+- StairSteady
+- Yorkshire Post
+- YouTube
 ---
 
 # Kids Invent Stuff: Yorkshire inventor who sent robot chicken up to space and made world's largest electric toothbrush makes Guinness World Record books again with giant hairdryer

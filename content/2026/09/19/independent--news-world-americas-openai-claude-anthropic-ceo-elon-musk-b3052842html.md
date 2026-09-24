@@ -13,6 +13,26 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/12/17/Anthropic_AI_Slowdown__7476.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Santa Cruz
+people:
+- Andrej Karpathy
+- Anthony Aguirre
+- Claude
+- Elon Musk
+- John Thickstun
+- Mustafa Suleyman
+organisations:
+- Anthropic
+- ChatGPT
+- Cornell University
+- Future of Life Institute
+- Microsoft AI
+- OpenAI
+- RSI
+- University of California
+- xAI
 ---
 
 Once a distant ambition for technology researchers, the prospect of artificial intelligence models teaching themselves autonomously to be more efficient and capable appears ever closer to reality.

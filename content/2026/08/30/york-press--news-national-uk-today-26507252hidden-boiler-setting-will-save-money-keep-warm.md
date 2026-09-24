@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Heatable
+people:
+- Patrick Garner
+organisations:
+- Gas Safe
 ---
 
 *(Image: Getty Images)*

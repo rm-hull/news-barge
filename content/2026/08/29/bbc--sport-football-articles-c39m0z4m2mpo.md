@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- City
+- Liverpool
+- Netherlands
+- Newcastle
+people:
+- Achilles
+- Alexander Isak
+- Andoni Iraola
+- Bradley Barcola
+- Cody Gakpo
+- Cody Gakpo.
+- Hugo Ekitike
+- Ismaila Sarr
+- Rio Ngumoha
+- Victor Munoz
+- Yankuba Minteh
+organisations:
+- Anfield
+- Brighton
+- Cody Gakpo
+- Crystal Palace
+- Liverpool
+- Manchester City
+- Manchester Cityhave
+- Nottingham Forest
+- PSG
+- PSV Eindhoven
+- Paris St-Germain
+- Premier League
+- Reds
+- Tottenham Hotspur
 ---
 
 ![Cody Gakpo playing for Liverpool](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8e0d/live/2683a700-a3e0-11f1-ada8-4d531f05da8c.jpg)

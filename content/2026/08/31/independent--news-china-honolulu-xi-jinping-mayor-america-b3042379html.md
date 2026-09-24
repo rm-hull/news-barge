@@ -12,6 +12,103 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Alaska
+- America
+- Beijing
+- Chengdu
+- Chinatown Cultural Plaza
+- D.C
+- Fuzhou Panda World
+- Great Wall of China
+- Hawaiʻi
+- Honolulu Zoo
+- Idaho
+- Japan
+- Los Angeles
+- Mikiya Wagyu Shabu House
+- Pandas
+- Pearl Harbor
+- People’s Republic of China
+- Songster
+- South Korea
+- Taiwan
+- Tokyo
+- U.S.
+- Ueno Zoo
+- United States
+- Vaigai
+- Waikīkī
+- Washington, D.C.
+people:
+- Alexia Tiitii
+- Andrew Cherng
+- Annalisa Meyer
+- Arushi Dutt
+- Brandie Smith
+- Cathy Butt
+- Elena Songster
+- Esther Kiaʻāina
+- Guo Shaochun
+- Jack Zhang
+- John Berry
+- Judith Shapiro
+- Karen Chang
+- Lai Ching-Te
+- Ma Zhaoxu
+- Mari
+- Mei Xiang
+- Pandas
+- Pat Nixon
+- Richard Nixon
+- Rick Blangiardi
+- Rick Hamada
+- Sanae Takaichi
+- Shelly Shin
+- Sisters Agnes
+- Tian Tian
+- Xi Jinping
+- Xiao Qi Ji
+- Yang Wanming
+- Zhou Enlai
+organisations:
+- AZA
+- American University
+- Association of Zoos and Aquariums
+- Chengdu Research Base
+- Chinese People’s Association for Friendship with Foreign Countries
+- Construction and Conservation of China
+- Cotti Coffee
+- D.C.’s National Zoo
+- Fujian Cuisine Culture Museum
+- Fujian Provincial
+- Fuzhou Municipal People
+- Fuzhou Panda World
+- Giant Panda Breeding
+- HVAC
+- Hawaii Lucky Group
+- Hawaii News Now
+- Hawaiʻi Supreme Court
+- Honolulu Civil Beat
+- Honolulu Star-Advertiser
+- Honolulu Zoo
+- Majestic
+- NHK World Japan
+- National Zoo
+- New York Times
+- Nonhuman Rights Project
+- Panda Diplomacy Pandas
+- Panda Express
+- Panda World
+- Punahou School
+- Richard Nixon Foundation
+- Saint Mary’s College of California
+- Smithsonian’s National Zoo and Conservation Biology Institute
+- Taiwan Cultural Plaza
+- The Associated Press
+- University of Hawaiʻi
+- University of Hawaiʻi Mānoa
+- Vaigai
 ---
 
 When Honolulu Mayor Rick Blangiardi decided he wanted pandas at the Honolulu Zoo, he approached the Chinese Consulate-General in Los Angeles, who gave him some advice: Go to China.

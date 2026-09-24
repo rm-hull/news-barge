@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Beijing
+- China
+- Europe
+- US
+- Washington
+- White House
+people:
+- Christine Lagarde
+- Donald Trump
+- Frederike Kaltheuner
+- Georgina Kon
+- Itxaso Dominguez de Olazabal
+- Margrethe Vestager
+- Ursula von der Leyen
+- Xi
+organisations:
+- AI Now Institute
+- Apple
+- EDRI
+- EU
+- European Commission
+- Google
+- Linklaters
+- OpenAI
+- UN
+- US AI
 ---
 
 Europe’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank, Christine Lagarde, said Europeans have two options: shun the technology and lose out on growth; or embrace it and become dependent on tools developed by the US and China.

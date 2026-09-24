@@ -11,6 +11,21 @@ image: https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-a
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Harvey Tenet
+organisations:
+- AI
+- Anthropic
+- Cursor
+- Databricks
+- Diffusion
+- Fireworks
+- Kimi K3
+- Lightspeed Venture Partners
+- OpenAI
+- Pitchbook
+- VCs
 ---
 
 Harvey, the legal AI startup that VCs can’t get enough of, has raised another $550 million in funding, this time at a $15.5 billion valuation, the company announced on Wednesday.

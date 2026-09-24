@@ -13,6 +13,23 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Chapel and Hospital
+- England
+- Queen Street
+- Ripon
+- St Anne
+people:
+- Peter Hartley
+- Peter Mudge
+organisations:
+- '## Ripon'
+- 5b Kirkgate
+- Dewhurst Butchers
+- Portly Pig
+- Ripon BID
+- Ripon Civic Society
+- Ripon Gazette
 ---
 
 # Ripon Gazette office is to return for starring role in Heritage Open Days but only briefly

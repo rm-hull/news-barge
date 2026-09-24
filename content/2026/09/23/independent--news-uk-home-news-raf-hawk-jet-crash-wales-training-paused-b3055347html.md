@@ -12,6 +12,27 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/15/34/raf-crash-3-0292ef86.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Anglesey
+- Pencarnisiog
+- RAF Valley
+- Wales
+people:
+- Helen Jenner
+- Rhun ap Iorwerth
+- Wes Streeting
+organisations:
+- Helimed
+- No 4 Flying Training School
+- North Wales Fire and Rescue Services
+- North Wales Live
+- North Wales Police
+- RAF T2 Hawk
+- Red Arrows
+- Reform UK
+- Royal Air Force
+- Senedd for Bangor Conwy Mon
+- Welsh Ambulance Service University Health Trust
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

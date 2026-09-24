@@ -13,6 +13,31 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/WooupqXCjvQ7NtEaWtANDi-1600-80.jpg
+locations:
+- America
+- China
+- Jiaxing City
+- South Korea
+- Taylor
+- Texas
+- US
+people:
+- Craig Hale
+- Jon Taylor
+organisations:
+- CNBC
+- Craig’s
+- EVP
+- Google News
+- Intel
+- McKinsey
+- Micron
+- SEMI Foundation
+- SK Hynix
+- Samsung
+- TSMC
+- TechRadar Pro
+- Trump
 ---
 
 ![Employees work on the production line of silicon wafer at a factory in Jiaxing City, China](https://cdn.mos.cms.futurecdn.net/WooupqXCjvQ7NtEaWtANDi.jpg)

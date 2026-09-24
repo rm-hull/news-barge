@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birtley
+- County Durham
+- Coventry
+- Dublin
+- Murton
+- Republic of Ireland
+- Trimdon Colliery
+- UK
+- Victoria Terrace
+people:
+- Dan Wilberforce
+- Darron Wilkinson
+- Mark McKone
+- Portmeads Rise
+organisations:
+- Durham Crown Court
+- Newcastle Crown Court
+- Northumbria Police
+- SHPO
+- The Recorder
 ---
 
 *(Image: Northumbria Police)*

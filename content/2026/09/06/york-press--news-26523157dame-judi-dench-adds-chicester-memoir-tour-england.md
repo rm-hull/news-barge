@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Canterbury
+- Chichester
+- England
+- London
+- Nottingham
+- Richmond
+- Royal Haymarket
+- UK
+- Victoria
+- West Sussex
+- York
+people:
+- Aaron Chown
+- Brendan O’Hea
+- Dame Judi Dench
+- James Bond
+- Judi Dench
+organisations:
+- Fane Productions
+- Festival Theatre
+- Marlowe Theatre
+- Penguin Books
+- Richmond Theatre
+- Theatre Royal
 ---
 
 *(Image: Aaron Chown / PA Wire)*

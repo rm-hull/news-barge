@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- County Durham
+- Edmondsley
+- North Yorkshire
+- UK
+people: []
+organisations:
+- Congburn Bank
+- Congburn Nurseries
+- GOOGLE MAPS
+- Google
+- Woodlands Bistro
 ---
 
 A family-run County Durham garden centre has received glowing reviews from "delightfully blown over" customers.

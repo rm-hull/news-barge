@@ -11,6 +11,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Babergh
+- Brantham Village Hall
+- East Bergholt
+- Essex
+- Flatford
+- Ipswich
+- Manningtree
+- Merriam Close
+- River Stour
+- Stutton
+- Suffolk
+- Tattingstone
+people:
+- Bluey
+- Noah Woods
+- Noah Woods?** Noah
+- Pete Partridge
+- Rhys Woods
+- Tom Pearse
+organisations:
+- CCTV
+- Facebook
+- National Police Air Service
+- SULSAR
+- Suffolk Police
 ---
 
 A desperate search is underway to find missing three-year-old Noah Woods who was last seen running away from a playground in Suffolk.

@@ -12,6 +12,24 @@ categories:
 - UK
 - Food & Cooking
 image: https://static.independent.co.uk/2026/09/21/13/Food-Voracious-Crostini_23913.jpg?width=1200&height=800&crop=1200:800
+locations:
+- NY
+- New York
+people:
+- Crostini di Frutta di Stagione
+- James Beard
+- Stef Ferrari
+- Stuzzichini
+- \_\_\_ Stef Ferrari
+organisations:
+- Crostini with Seasonal Fruit
+- Little, Brown and Company
+- PBS
+- Ricotta and Honey
+- Ricotta, & Miele
+- Stef Ferrari
+- The Migrant Kitchen
+- Voracious
 ---
 
 Like so many preparations in this cookbook, “Stuzzichini,” and in Italian food in general, it’s almost impossible to call this a recipe. Instead, it’s an act of trust: You must trust that whatever fruit you choose for this crostini will pair perfectly with fresh ricotta, good-quality honey, and your choice of crunchy bits and/or herbs and/or spices, as long as it’s done with intention and care.

@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Gaza
+- Glastonbury
+- Ipswich Waterfront
+- Israel
+- Mexico
+- Middle East
+- Palestine
+- Philadelphia
+- Suffolk
+- U2
+- US
+- Ukraine
+- Wembley Stadium
+people:
+- Aaron Rowe
+- Beoga
+- Ed Sheeran
+- Finneas
+- Jeffrey Ingold
+- Jem Aswad
+- Jeremy Corbyn
+- Lukas Graham
+- Macklemore
+- Nancy Mulligan
+- Pink
+- Robert Kraft
+organisations:
+- BBC Radio 5 Live
+- Brexit
+- Ed Sheeran
+- Galway Girl
+- Grenfell Tower
+- Macklemore
+- New England Patriots
+- StopAntisemitism
+- Sunday Times
+- Variety
+- then-Labour
 ---
 
 Will Ed Sheeran cancel his tour as support acts quit?

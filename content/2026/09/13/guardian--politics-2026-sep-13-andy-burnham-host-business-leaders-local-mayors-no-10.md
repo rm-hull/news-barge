@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- Iran
+- UK
+- Westminster
+people:
+- Andy Burnham
+- John Healey
+- Rachel Reeves
+- Suren Thiru
+organisations:
+- Aviva
+- BAE Systems
+- BP
+- BT
+- HSBC
+- Institute of Chartered Accountants England
+- Labour
+- Morrisons
+- Octopus Energy
+- Oxford Quantum Circuits
+- Revolut
+- Rolls-Royce
+- Sainsbury’s
+- Shell
+- Standard Chartered
+- Starling Bank
+- Vodafone
+- Wales
 ---
 
 The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to pitch his government as a “partner for growth” that can offer a stable platform for investment and jobs in the UK.

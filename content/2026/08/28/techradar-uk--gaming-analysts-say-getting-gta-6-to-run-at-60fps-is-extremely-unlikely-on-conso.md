@@ -11,6 +11,24 @@ description: Tech analysts have suggested that getting Grand Theft Auto 6 to run
 image: https://cdn.mos.cms.futurecdn.net/jFQzvJH5A6XmDviwDeJPoa-2048-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- '"** Tech'
+- Demi Williams
+- Digital Foundry
+- GPU
+- GTA 6
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PC
+- PS5
+- PSSR
+- Rockstar
+- Series S
+- TechRadar
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/jFQzvJH5A6XmDviwDeJPoa.jpg) 

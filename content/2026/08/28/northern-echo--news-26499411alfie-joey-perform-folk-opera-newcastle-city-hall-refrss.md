@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- County Durham
+- Darlington
+- Durham Cathedral
+- Newcastle City Hall
+- North East
+- Rainton Arena
+people:
+- Alfie Joey
+- Brendan Tapping
+- Marra
+- Michelle Russell
+- Mike McGrother
+- Richard O’Neill
+- Richard O’Neill MBE
+organisations:
+- BBC Radio Newcastle
+- Bishop Chadwick Catholic Education Trust
+- Cleveland Police
+- KFC
+- Paradise
+- Seven Stories
+- The National Centre for Children’s Books
 ---
 
 Former BBC Radio Newcastle presenter Alfie Joey has joined the cast of a new folk opera.

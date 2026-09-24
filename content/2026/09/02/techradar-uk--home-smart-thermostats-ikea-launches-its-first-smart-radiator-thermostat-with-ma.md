@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/AL2rrbAUhZFkwURBL9y22X-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dirigera
+- England
+- Stockport
+- Sweden
+- UK
+- US
+people:
+- Dave
+- David Nield
+organisations:
+- Bulb3
+- Gizmodo
+- Google News
+- Google Translate
+- Govee Curtain Lights4
+- IKEA
+- PC Explorer
+- Philips Hue White & Color Ambiance2
+- The Hardware Handbook
+- WinFuture
 ---
 
 ![A hand holding a phone showing the IKEA app next to an IKEA Liljebagge smart thermostat on a radiator](https://cdn.mos.cms.futurecdn.net/AL2rrbAUhZFkwURBL9y22X.jpg) 

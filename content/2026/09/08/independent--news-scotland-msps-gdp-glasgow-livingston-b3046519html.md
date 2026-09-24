@@ -13,6 +13,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Glasgow
+- Livingston
+- PA
+- Republic of Ireland
+- Scandinavia
+- Scotland
+- UK
+- US
+- West Lothian
+people:
+- Andrew Milligan
+- Daniel Johnson
+- Rich Wilson
+- Sandy Begbie
+- Stewart Attwood
+organisations:
+- AI
+- Gigged.ai
+- Holyrood’s Economy Committee
+- Labour
+- MSPs
+- Morgan Stanley
+- Scotland
+- Scottish Financial Enterprise
+- Scottish Government
+- Scottish Greens
 ---
 
 Calls for a moratorium on new data centres “send very much the wrong message” and could impact investment in Scotland’s AI sector, MSPs have been told.

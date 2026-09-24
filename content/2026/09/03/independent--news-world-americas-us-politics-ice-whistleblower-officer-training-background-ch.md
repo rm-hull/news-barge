@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Maine
+- U.S.
+people:
+- Alex Pretti
+- David Brouillette
+- David Kilgerman
+- Donald Trump
+- Johan Sebastián Durán Guerrero
+- Lorenzo Salgado Araujo
+- Lucinda Brouillette
+- Renee Good
+- Ryan Schwank
+organisations:
+- Congress
+- Constitution
+- Department of Homeland Security
+- Federal Law Enforcement Training Center
+- Homeland Security
+- ICE Academy
+- ICE Office of Professional Responsibility
+- Immigration and Customs Enforcement
+- Office of Inspector General
+- The Independent
+- The New York Times
+- The Times
+- The Times.
+- Trump
+- Veterans Affairs
+- WhistleblowerAid.org
 ---
 
 An anonymous Immigration and Customs Enforcement official in charge of evaluating new recruits has warned that the Trump administration’s fast-tracked hiring process exposed the U.S. to “grave national security risks.”

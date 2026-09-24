@@ -12,6 +12,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/18/13/GettyImages-2286690983.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Asia
+- Europe
+- Iran
+- Strait of Hormuz
+- U.S.
+- White House
+people:
+- Chris Wright
+- Donald Trump
+- Scott Bessent
+organisations:
+- AAA
+- Fox News
+- Politico
+- The Independent
+- Treasury
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

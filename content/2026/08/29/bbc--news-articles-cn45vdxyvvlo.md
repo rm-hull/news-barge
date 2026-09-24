@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Denmark
+- Europe
+- Greenland
+- Iceland
+- Reykjavik
+- Russia
+- Schengen
+- UK
+- US
+- Ukraine
+people:
+- Donald Trump
+- Eirikur Bergmann
+- Guðrún Hafsteinsdóttir
+- Hallgrimur Oddsson
+- Kristrún Frostadóttir
+organisations:
+- BBC
+- Bifröst University
+- Common Fisheries Policy
+- EU
+- EU-Iceland
+- European Commission
+- European Currents
+- European Economic Area
+- European Union
+- Independence Party
+- Nato
+- RUV
+- 'Yes'
 ---
 
 ![Supporters of the 'No' campaign wave Icelandic flags during a rally against reopening Iceland's European Union accession negotiations in Reykjavik, Iceland, on August 27, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg)

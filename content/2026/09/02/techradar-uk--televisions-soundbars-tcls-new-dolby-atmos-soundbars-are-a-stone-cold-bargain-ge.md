@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/eaw2jvoekpyXWwAoFHDTEg-2048-80.png
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Carrie Marshall
+organisations:
+- Bass Wave Guide
+- Dolby Atmos
+- Google News
+- Ray Danz III
+- S60K
+- S65K
+- TCL
+- Unquiet Mind
 ---
 
 ![TCL S65K soundbar in front of a TCL TV](https://cdn.mos.cms.futurecdn.net/eaw2jvoekpyXWwAoFHDTEg.png) 

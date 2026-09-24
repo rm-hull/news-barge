@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Beijing
+- China
+- France
+- London
+- New York
+- Paris.
+- Singapore
+people:
+- Huang Ling
+- Shein
+- Temu
+organisations:
+- BHV
+- EU
+- Euronews
+- European Commission
+- European Union
+- Foreign Trade and Attractiveness
+- Hong Kong Stock Exchange
+- Ministry of Foreign Affairs
+- Shein
+- WTO
+- World Trade Organization
 ---
 
 ## China has claimed that the new "anti-fast-fashion" law which came into force in France on Tuesday amounts to "discrimination." Responding to these accusations, a source from the Ministry of Foreign Affairs told Euronews that such claims were false.

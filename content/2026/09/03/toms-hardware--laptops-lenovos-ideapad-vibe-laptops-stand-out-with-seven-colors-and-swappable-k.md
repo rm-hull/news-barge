@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/uvfpAruFbq8RoUCxETFWg5-1999-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Matt Safford
+- Tom
+organisations:
+- AMD
+- Get Tom's Hardware
+- Google News
+- IdeaPad Vibe
+- Intel
+- Lenovo IdeaPad Vibe
+- Motorola
+- OLED
+- PC
+- Popular Science
+- Qira AI
+- Qualcomm
+- RAM
+- Smithsonian
+- Snapdragon
 ---
 
 ![Lenovo IdeaPad Vibe](https://cdn.mos.cms.futurecdn.net/uvfpAruFbq8RoUCxETFWg5.jpg) 

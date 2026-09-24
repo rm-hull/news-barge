@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- Kennedy Center
+- Lake America
+- Lake Ontario
+- New America
+- New Mexico
+- SOUTH AMERICA
+- South America
+- South Park
+- US
+people:
+- David Ellison
+- Donald Trump
+- Kristi Noem
+- Maga
+- Matt Stone
+- Satan
+- Trey Parker
+organisations:
+- Apple
+- Comedy Central
+- Google
+- Paramount Skydance
+- Trump
+- WBD
+- Warner Bros Discovery
+- trumpkennedycenter.org
 ---
 
 In light of Donald Trump’s attempts to rename a gulf, lakes and even states after “America”, South Park, the animated satirical program that has long skewered those in power, has announced an official name change. For its 29th season, the Comedy Central series will be known as “South America”.

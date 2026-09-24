@@ -12,6 +12,28 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/11262639.jpg?type=og-image
+locations:
+- Newsquest.
+- North Yorkshire
+- Scarborough Spa
+- St Patrick
+- The Spa
+people:
+- David Owen
+- Margaret Thatcher
+organisations:
+- Conservative Party
+- Conservative Party Central Council
+- IRA
+- Labour
+- Liberal Democratic Party
+- Liberal Party
+- Newsquest
+- SDP
+- Scarborough Spa
+- Social Democratic Party
+- The Press in York
+- Young Conservative
 ---
 
 ## SDP returns to Scarborough Spa decades after bomb scare disrupted conference

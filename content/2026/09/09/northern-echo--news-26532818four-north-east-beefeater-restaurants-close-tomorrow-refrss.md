@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Beefeater
+- Bishop Auckland
+- Broomside Park
+- Darlington
+- Durham The Talpore
+- North Tyneside Morton Park
+- Stockton Whitley Bay
+- The Talpore
+- Tindale Crossing
+- UK
+- Whitley Bay
+people: []
+organisations:
+- :** Whitbread
+- Beefeater
+- Brewers Fayre
+- Christie Owen & Davies
+- Premier Inn
 ---
 
 *(Image: Christie Owen & Davies)*

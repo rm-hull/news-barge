@@ -13,6 +13,26 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE4YTg2Y2U2LWJiNjUtNGM0MS05NWEwLWQ4ZjU5OTBhMjE2Yzo5NDgxMzM4OC0xMDU1LTQxZmQtODYyMi01ODBmNmI0ZmVlNmY=.jpg?crop=3:2,smart&trim=&width=740&auto=webp&quality=75
+locations:
+- A162
+- Brotherton
+- Great North Road
+- Knottingley
+- 'Leeds ## Roads'
+- Old Great North Road
+- Selby
+- Tadcaster
+- Tadcaster’s Water Bowser
+- West Yorkshire
+- York
+people: []
+organisations:
+- A162
+- Acomb
+- BBC
+- Google
+- North Yorkshire Fire and Rescue
+- Thaal Indian Restaurant
 ---
 
 # WATCH: Firefighters battle blaze at old restaurant near Leeds

@@ -11,6 +11,16 @@ image: https://images.euronews.com/articles/stories/09/89/44/68/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Iceland
+- Reykjavik
+people:
+- Thorgerður Katrín Gunnarsdóttir
+- 'Yes'
+organisations:
+- EU
+- European Union
+- RUV
 ---
 
 Icelanders gathered in Reykjavik to follow the results of a referendum on whether to restart European Union accession talks, with both supporters and opponents celebrating as the vote count progressed.

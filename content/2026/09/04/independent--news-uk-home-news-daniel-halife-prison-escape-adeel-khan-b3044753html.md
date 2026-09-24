@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2024/11/28/12/2a5f6d78022467492700956e15
 categories:
 - News & Politics
 - UK
+locations:
+- Chingford
+- Europe
+- France
+- HMP Wandsworth
+- London
+- Metropolitan Police
+- PA
+- Snaresbrook Crown Court
+- UK
+- Waltham Forest
+people:
+- Adeel Khan
+- Daniel Khalife
+- Gregory Fishwick
+- Imran Chowdhury
+- Murray Shanks
+- Tom Williams
+organisations:
+- IRGC
+- Islamic Revolutionary Guard Corp
+- McDonald’s
+- Official Secrets and Terrorism Acts
 ---
 
 A man has been jailed helping former soldier Daniel Khalife, who escaped prison and sparked a nation wide manhunt

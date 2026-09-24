@@ -14,6 +14,33 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Colliergate
+- Fossgate
+- King’s Square
+- Shambles
+- St Saviourgate
+- Whip-Ma-Whop-Ma-Gate
+- York
+- York.
+people:
+- Coun Anna Perrett
+- Coun Perrett
+- David Addy
+- Ryan Chapman
+- Tom Calvert
+organisations:
+- Avorium
+- City Centre PSPO
+- City of York Council
+- Colliergate
+- Community Safety Strategy
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- North Yorkshire Police
+- PSPOs
+- Public Space Protection Orders
 ---
 
 # 'Shouting and bawling' street drinkers are putting people off, York traders warn

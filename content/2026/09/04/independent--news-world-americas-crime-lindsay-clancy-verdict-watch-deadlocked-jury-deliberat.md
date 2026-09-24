@@ -14,6 +14,19 @@ categories:
 - UK
 - Society & Culture
 - Law & Justice
+locations:
+- Massachusetts
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick
+- William Sullivan
+organisations:
+- '## Jury'
+- SJC
 ---
 
 The deadlocked jury in the Lindsay Clancy trial has begun deliberating for a seventh day after a holdout juror led to a heated exchange between the judge and Clancy’s defense attorney.

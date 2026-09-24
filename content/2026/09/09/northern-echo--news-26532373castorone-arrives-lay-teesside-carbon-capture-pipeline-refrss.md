@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bishop Auckland
+- Castorone
+- Endurance
+- Humber
+- North Sea
+- Port of Hartlepool
+- Southern North Sea
+- Teesside
+- UK
+people:
+- Castorone
+- Sonardyne
+organisations:
+- CCS
+- East Coast Cluster
+- NEP
+- Northern Endurance Partnership
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Derby
+- Dublin
+- Europe
+- Great Britain
+- Kingsmill
+- Northern Ireland
+- Sheffield
+- UK
+people:
+- Arthur Ryan
+- Eoin Tonge
+- George Weston
+organisations:
+- ABF
+- Associated British Foods
+- Greencore
+- Marks & Spencer
+- Penneys
+- Primark
+- Twinings
 ---
 
 Primark will offer home delivery in Great Britain for the first time, as the fast-fashion retailer prepares to spin off from its owner Associated British Foods (ABF).

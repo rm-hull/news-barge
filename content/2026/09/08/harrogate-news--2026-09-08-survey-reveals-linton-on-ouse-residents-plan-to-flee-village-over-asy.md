@@ -14,6 +14,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Main Street
+- RAF Linton-on-Ouse
+people:
+- Keir Starmer
+- Olga Matthias
+organisations:
+- Action Group
+- Home Office
+- Linton Action Group
+- Linton-on-Ouse Action Group
+- North Yorkshire Council
+- Yorkshire Water
 ---
 
 **A major survey of Linton-on-Ouse residents** has revealed overwhelming opposition to Home Office proposals to house 1,200 male asylum seekers at the former**RAF Linton-on-Ouse** site, with a significant number of families stating they plan to move away if the scheme proceeds.

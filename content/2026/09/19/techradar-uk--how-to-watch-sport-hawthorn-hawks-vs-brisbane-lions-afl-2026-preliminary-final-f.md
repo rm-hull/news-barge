@@ -11,6 +11,49 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/6wpCymiwykMpGCCwd8WDjC-1920-80.jpg
+locations:
+- Australia
+- Brisbane
+- Canada
+- Dingley Village
+- Hawthorn
+- Melbourne
+- UK
+- US
+- uk
+people:
+- Aatif Sulleyman
+- Chris Fagan
+- Darcy Wilmot
+- Hawthon
+- Hawthorn
+- Nick Watson
+- Noah Answerth
+- Ryan Lester
+- Sam Mitchell
+- Wizard
+organisations:
+- 7Plus
+- AFL
+- Aatif
+- Answerth
+- Brisbane
+- FS1
+- Future Publishing
+- Gizmodo
+- Hawks
+- Hawthorn
+- Lions
+- MCG
+- Newsweek
+- NordVPN
+- Sydney
+- TNT Sports
+- TSN
+- TechRadar
+- The Independent
+- Trusted Reviews
+- Virgin Media
 ---
 
 ![Hawthorn&#039;s Nick Watson being tackled by Brisbane&#039;s Noah Answerth in an AFL game](https://cdn.mos.cms.futurecdn.net/6wpCymiwykMpGCCwd8WDjC.jpg)

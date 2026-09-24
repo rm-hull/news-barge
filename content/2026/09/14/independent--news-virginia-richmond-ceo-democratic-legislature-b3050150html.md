@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Juno Beach
+- North America
+- North Carolina
+- South Carolina
+- U.S.
+- Virginia
+people:
+- Abigail Spanberger
+- Don Scott
+- John Ketchum
+- Libby Wiet
+- Robert Blue
+- Scott Surovell
+organisations:
+- Data Center Coalition
+- Dominion Energy
+- Florida Power & Light Company
+- House
+- Ketchum
+- Legislature
+- NextEra Energy
+- Senate
+- State Corporation Commission
 ---
 
 Power companies NextEra Energy and Dominion Energy, which are seeking approval to merge into one behemoth, announced plans Monday to sweeten the deal in Virginia, Dominion's home base, where the proposal has faced skepticism from the Democratic governor and legislative leaders.

@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations: []
+people:
+- Lilacs
+organisations:
+- Bridlington Spa
+- Pigeon Detectives
+- The Pigeon Detectives
 ---
 
 *(Image: Bridlington Spa)*

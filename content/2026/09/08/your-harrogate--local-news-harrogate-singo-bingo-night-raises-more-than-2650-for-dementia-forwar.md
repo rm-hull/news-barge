@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- Harrogate
+- North Yorkshire
+people:
+- Dementia Forward
+- Shane
+- Tasha Jacques
+organisations:
+- Dementia Forward
+- Pizza Social
+- Rooster’s Brewing Co
+- Wild & Co
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa011d0401bdceba15.jpg) 

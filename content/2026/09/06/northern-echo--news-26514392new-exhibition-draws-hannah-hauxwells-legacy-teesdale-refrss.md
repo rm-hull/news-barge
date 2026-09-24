@@ -13,6 +13,73 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Afghanistan
+- America
+- BT
+- Baldersdale
+- Buckingham Palace
+- Cotherstone
+- Cronkley Fell
+- DL12 0QH
+- Dummah Hill
+- Hagworm Hill
+- Hannah Hauxwell
+- Hillgill
+- Hury
+- India
+- Low Birk Hatt
+- Middleton-in-Teesdale
+- National Grid
+- Newcastle
+- North Stainmore
+- Northern Echo
+- Pakistan
+- Peshawar
+- Red Sea
+- Royal Victoria Infirmary
+- Russia
+- South Stainmore
+- Teesdale
+- Washington
+- Wensleydale
+- White House
+people:
+- Amanda Owens
+- Barry Cockcroft
+- Barry Cockroft
+- Bellerbye
+- Dear Hannah
+- Elizabeth Bayles
+- Fitzhugh
+- Hannah Bayles Tallentire Hauxwell
+- Hannah Hauxwell
+- Hauxwells
+- Herbert Bainbridge
+- Isaac Bayles
+- Isaac Baynes
+- Isaac Baynes'
+- James
+- Jeremy Clarkson
+- Love Barry
+- Lydia
+- Mary
+- Nicklesons
+- Sayers
+- Thomas
+- William
+organisations:
+- Electricity Board
+- Fitzhugh Library
+- Low Birk Hatt
+- NHS
+- Newcastle
+- Northern Echo
+- RVI
+- Royal Horse Artillery
+- Teesdale Hotel
+- Village Bookshop
+- Yorkshire TV
 ---
 
 IT is exactly 100 years since Hannah Hauxwell was born in the remotest corner of Teesdale into a rural way of life that even back then was fast fading out.

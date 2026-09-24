@@ -14,6 +14,16 @@ categories:
 - York
 - Health & Fitness
 - Science
+locations:
+- Malton,was
+- UK
+- Yorkshire
+people:
+- Concerta
+- Ryan Swain
+organisations:
+- ADHD
+- IVA
 ---
 
 # Yorkshire man says he ‘flatlined’ after severe reaction to ADHD medication

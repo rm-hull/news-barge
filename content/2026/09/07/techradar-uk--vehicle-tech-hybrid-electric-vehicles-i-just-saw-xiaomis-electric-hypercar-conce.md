@@ -11,6 +11,21 @@ description: Xiaomi EVs are finally coming to Europe
 image: https://cdn.mos.cms.futurecdn.net/RXi8aHr9uZx4GmMYkVBgPA-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Germany
+- Nürburgring Nordschleife
+- UK
+people:
+- Ruth Hamilton
+- Xiaomi
+organisations:
+- '**Xiaomi'
+- Google News
+- IFA
+- Ruth
+- TechRadar
+- Xiaomi Auto
+- Xiaomi SU7 Ultra
 ---
 
 ![Xiaomi EV, pictured at IFA 2026](https://cdn.mos.cms.futurecdn.net/RXi8aHr9uZx4GmMYkVBgPA.jpg) 

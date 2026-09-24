@@ -15,6 +15,33 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Britain
+- California
+- Japan
+- UK
+- US
+people:
+- Masayoshi Son
+- Rene Haas
+- Tom
+organisations:
+- Arm
+- Elon Musk
+- Etiido Uko
+- Get Tom's Hardware
+- Glass Lewis
+- Google News
+- Haas
+- ISS
+- Institutional Shareholder Services
+- PC
+- SoftBank Group International
+- Tesla
+- The Telegraph
+- Tom's Hardware
+- VCP
 ---
 
 ![arm](https://cdn.mos.cms.futurecdn.net/CpBAJsLmPLaYfQUJATbWt3.jpg) 

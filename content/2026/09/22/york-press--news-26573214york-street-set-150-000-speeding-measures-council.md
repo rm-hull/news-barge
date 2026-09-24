@@ -13,6 +13,25 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21462595.jpg?type=og-image
+locations:
+- A YORK
+- Acomb Wood Drive
+- Alness Drive
+- Jonathan Bately
+- York Station
+people:
+- Anna Semlyn
+- Cllr Fenton
+- Cllr Ravilious
+- Dringhouses
+- Kate Ravilious
+- Ms Semlyn
+- Stephen Fenton
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat transport
+- Plenty
 ---
 
 ## 'Astonishing' speeding in York residential street prompts action amid rethink call

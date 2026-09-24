@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/18/23/Cuba_Blackout_19736.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Camagüey
+- Cuba
+- Granma
+- Havana
+- Matanzas
+- Pinar del Río
+- United States
+people:
+- Abilén Marrero
+- Mercedes Rodriguez
+organisations:
+- Granma
+- Ministry of Energy and Mines
+- The Associated Press
 ---
 
 Cuba’s power grid collapsed on Friday, leaving millions of people across the island without electricity in a nationwide blackout.

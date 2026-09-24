@@ -11,6 +11,30 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aaa6fa1c2ed37865ee8fc75/191:100/w_1280,c_limit/CoralCilia-crCesarPacharres-Lede.jpg
+locations:
+- Florida
+- Germany
+- Israel
+people:
+- Cesar Pacherres
+- David Suggett
+- Michael Kühl
+- Orr Shapiro
+- Rachel Alderdice
+- Tadd Truscott
+organisations:
+- King Abdullah University of Science and Technology
+- Kühl
+- MIT
+- Massachusetts Institute of Technology
+- Pacherres
+- Pacherres’
+- Quanta Magazine
+- SensPIV
+- University of Copenhagen
+- University of Konstanz
+- Volcani Institute
+- Weizmann Institute of Science
 ---
 
 *The original version of* * this story* * appeared in* * Quanta Magazine.*

@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468640.jpg?type=og-image&xType=0&yType=681
+locations:
+- Wibsey
+people:
+- Christopher Blake
+- Luke Littler
+- Mabel
+- Michael van Gerwen
+organisations:
+- BRADFORD
+- Blake's Barbershop
 ---
 
 *(Image: Christopher Blake)*

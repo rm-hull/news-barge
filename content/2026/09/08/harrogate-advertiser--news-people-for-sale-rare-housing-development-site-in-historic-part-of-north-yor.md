@@ -13,6 +13,20 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Bedale
+- Hackforth Road
+- North Yorkshire
+- Patrick Brompton
+- The Joiners Yard
+people:
+- Giles Chaplin
+- Lister Haigh
+organisations:
+- Dacre, Son & Hartley
+- Lister Haigh
+- North Yorkshire Council
+- RICS Planning and Development Surveyor
 ---
 
 # For sale: Rare housing development site in historic part of North Yorkshire

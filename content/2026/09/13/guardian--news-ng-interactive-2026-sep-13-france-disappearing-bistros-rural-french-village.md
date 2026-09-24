@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Burgundy
+- Camplong
+- Charny-Orée-de-Puisaye
+- Collobrières
+- France
+- Hérault
+- Montpellier
+- Paris
+- Saint-Martin
+- Saint-Martin-sur-Ouanne
+- UK
+- US
+- Yonne
+people:
+- Alain Fontaine
+- Arnault Meric
+- Camille Sebaux
+- Covid
+- Hervé Chapuis
+- Katell
+- Léon Gambetta
+- Nadia Letellier
+- Nadine Letellier
+- Nicole Deviterne
+- Pierre
+- Pécot
+- Saint-Martin
+- Solène Joucla
+organisations:
+- Au Bon Acceuil
+- Au Bon Accueil
+- Café de la Gare
+- France Info
+- France’s Association of Bistros and Cafes
+- Le Grand Café
+- Le Mesturet
+- National Federation of Country Bistros
+- Oxford Economics
+- Unesco
 ---
 
 It is just past noon on a midweek day, and already every table at Au Bon Acceuil cafe-bistro in the northern Burgundy village of Saint-Martin-sur-Ouanne is taken.

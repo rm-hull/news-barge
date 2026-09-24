@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- County Durham
+- Fletchers Farm
+- Great Ayton
+- Little Ayton
+- North Yorkshire
+- Roseberry Topping
+- Woodhouse Farm
+people:
+- Fletcher
+- Roseberry Topping
+organisations:
+- Fletchers Farm
+- Fletchers Farm Coffee Shop
+- Roseberry Topping
+- TRIPADVISOR
+- TripAdvisor
+- Woodhouse Farm
 ---
 
 *(Image: TRIPADVISOR)*

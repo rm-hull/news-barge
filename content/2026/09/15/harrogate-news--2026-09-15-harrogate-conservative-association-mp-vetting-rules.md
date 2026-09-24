@@ -12,6 +12,26 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- North Yorkshire
+- UK
+- Westminster
+people:
+- Andrew Jones
+- Kemi Badenoch
+organisations:
+- Conservative Party
+- Conservative Vetting Portal
+- ECHR
+- European Convention on Human Rights
+- HARROGATE
+- Harrogate Informer
+- Knaresborough Conservative Association
+- Liberal Democrats
+- Members of Parliament
+- North Yorkshire Council
+- Opposition
+- Reform UK
 ---
 
 **HARROGATE** — Regional political analysts have detailed a significant structural challenge facing the district’s conservative selection machinery, following the introduction of a rigorous new national candidate vetting protocol.

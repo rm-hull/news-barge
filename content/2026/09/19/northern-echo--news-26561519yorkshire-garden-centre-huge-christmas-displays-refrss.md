@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21457360.jpg?type=og-image
+locations:
+- Boroughbridge
+- Hardwick’s Garden Centre
+- Scarborough
+- UK
+- Yorkshire
+people:
+- Hardwick
+organisations:
+- Hardwick’s Garden Centre
 ---
 
 Even though summer is over, it does not mean you have to leave your garden looking boring.

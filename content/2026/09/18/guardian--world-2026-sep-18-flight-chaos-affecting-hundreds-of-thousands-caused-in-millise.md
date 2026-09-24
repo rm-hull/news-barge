@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- London
+- UK
+people:
+- Heidi Alexander
+- Kenton Jarvis
+- Martin Rolfe
+- Neil McMahon
+- Tim Alderslade
+organisations:
+- ATC
+- Airlines UK
+- CAA
+- Civil Aviation Authority
+- EasyJet
+- NAS
+- National Air Traffic Services
+- National Airspace System
+- Nats
+- Nats’
+- Ryanair
 ---
 
 A software defect in part of the UK’s air traffic control system corrupted flight data “in the space of a millisecond”, leading to a six-hour outage and mass airline cancellations and delays across the UK last week, National Air Traffic Services has said.

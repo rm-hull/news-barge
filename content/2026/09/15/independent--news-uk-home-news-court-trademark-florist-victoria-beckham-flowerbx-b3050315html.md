@@ -13,6 +13,43 @@ categories:
 - Business & Entrepreneurship
 - Sports
 - History
+locations:
+- Jimmy Choo
+- London
+- Mayfair
+- UK
+people:
+- Amanda Michaels
+- Bromberg Hawkings
+- David Beckham
+- Dior
+- Emilia Wickstead
+- Flowerbx
+- Jimmy Choo
+- Julianne Moore
+- Lady Beckham
+- Louis Vuitton
+- Lukasz Gajewski
+- Ms Bromberg Hawkings
+- Ms Bromberg Hawkings'
+- Ms Bromberg Hawkings’
+- Tom Ford
+- Victoria Beckham
+- Whitney Bromberg Hawkings
+organisations:
+- Annabel's
+- Bromberg Hawkings'
+- FLOWERBX
+- Flowerbx Ltd
+- Flowers Box
+- Flowers Box London
+- Flowers Box London Ltd
+- Gucci
+- High Court
+- Recorder Michaels
+- Scott's
+- Trustpilot
+- eBay
 ---
 
 A high-end floral business catering to celebrity clients, including Victoria Beckham, has won a High Court legal battle against a rival enterprise that established itself under an almost identical name.

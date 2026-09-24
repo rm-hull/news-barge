@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- London
+- Middlesbrough
+- North East
+- Tees Valley
+- Teesside
+- UK
+people:
+- Mark Simpson
+- Paul Croney
+organisations:
+- Games Design
+- Guardian
+- Interior Design
+- Ofsted
+- Teesside Teesside University
+- Teesside University
+- Teesside University Teesside
+- Times Higher Education University of the Year and Daily Mail Modern University of
+  the Year
+- Triple Gold
 ---
 
 Teesside University has risen 24 places to its highest-ever position in a UK university league table.

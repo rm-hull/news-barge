@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Allianz Stadium
+- Canada
+- England
+- Exeter
+- New Zealand
+- Ottawa
+- Sandy Park
+- Toronto
+people:
+- Alex Austerberry
+- Charlie Hayter
+- De Goede
+- John Mitchell
+- Kevin Rouet
+- Nathan Smith
+- Sophie de Goede
+organisations:
+- BBC Sport
+- Canada
+- De Goede
+- EQP
+- England Rugby
+- Loughborough Lightning
+- PWR
+- RFU
+- Red Roses
+- Saracens Women
 ---
 
 ![Sophie de Goede, in a red short-sleeved shirt, looking dejected after the 2025 World Cup final with blurred team-mates in the background](https://ichef.bbci.co.uk/ace/standard/710/cpsprodpb/1491/live/9d056630-b348-11f1-91a3-393282eb9f17.jpg)

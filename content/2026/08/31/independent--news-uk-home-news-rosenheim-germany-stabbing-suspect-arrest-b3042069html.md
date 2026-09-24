@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Germany
+- Rosenheim
+people: []
+organisations:
+- Deutsche Bahn
+- Foreign Office
+- Traunstein Public Prosecutor’s Office
 ---
 
 A suspect in the fatal stabbing of a 31-year-old British woman at a railway station in southern Germany has been detained in a psychiatric hospital, police have said.

@@ -11,6 +11,17 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/york-firefighter-engine.webp
+locations:
+- Elmet
+- North Yorkshire
+- Selby
+- Sherburn
+- Tadcaster
+- West Yorkshire
+people:
+- '#### Sherburn'
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Fire crews are tackling a blaze in a North Yorkshire town this morning (Saturday).

@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Film & TV
 - Sports
+locations:
+- Echo Canyon Farm
+- Virgin River
+people:
+- George Cooper Sr.
+- Greyston Holt
+- Hudson Riley
+- Lawrence (Damon Herriman
+- Maria Sten
+- Neagley
+- Rawlings
+- Tranqlara
+organisations:
+- CGI
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Neagley holds a baseball bat in front of two men](https://cdn.mos.cms.futurecdn.net/Q3GWRFMcUmPmZZBB7pwCQH.jpg) 

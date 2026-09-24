@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Alexandria Street
+- Durham Crown Court
+- Peterlee
+- Seaham
+- Teesside Crown Court
+people:
+- Brian Mark
+- Daniel Snaith
+- Nathan Adams
+- Taryn Turner
+organisations:
+- Northern Echo
+- Recorder
+- Teesside Crown Court
+- The Northern Echo
 ---
 
 *(Image: The Northern Echo)*

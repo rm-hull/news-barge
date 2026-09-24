@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://images.euronews.com/articles/stories/09/92/46/23/1200x675_cmsv2_735d269a-2cf8-5047-b65a-904d91f41f81-9924623.jpg
+locations:
+- India
+- Lahore
+- Pakistan
+people:
+- Ismail Ali
+- Shayen Zahoor
+organisations: []
 ---
 
 A performer in a giant gorilla costume joins students on the dancefloor at a university event in Lahore, Pakistan.

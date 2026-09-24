@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Addingham
+- Bradford
+- Silsden
+- Skipton Road
+people: []
+organisations:
+- Keighley
+- West Yorkshire Police
 ---
 
 SPEED checks carried out by police in part of the Bradford district found that 15 vehicles were travelling faster than the 30mph limit.

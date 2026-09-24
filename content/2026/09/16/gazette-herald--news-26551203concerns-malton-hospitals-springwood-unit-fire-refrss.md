@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Derwent
+- Malton Hospital
+- North Yorkshire
+- Norton
+- Ryedale
+- Scarborough
+- Springwood Centre
+- York
+people:
+- Cllr Burr
+- Cllr Di Keal
+- Cllr Lindsay Burr
+- Kevin Hollinrake
+organisations:
+- Gazette & Herald
+- Malton
+- North Yorkshire Council
+- TEWV
+- Tees, Esk
+- Thirsk
+- Wear Valley NHS Trust
+- Wear Valleys NHS Foundation Trust
 ---
 
 CONCERNS have been raised about the possible permanent loss of dementia services in a North Yorkshire town following a hospital fire.

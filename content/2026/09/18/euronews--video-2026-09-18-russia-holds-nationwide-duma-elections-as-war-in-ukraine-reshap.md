@@ -14,6 +14,23 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Chukotka
+- Crimea
+- Donetsk
+- Kamchatka
+- Kherson
+- Kremlin
+- Luhansk
+- Magadan
+- State Duma
+- Ukraine
+- United Russia
+- Zaporizhzhia**
+people:
+- Vladimir Putin
+organisations:
+- Yabloko**
 ---
 
 Russia has begun a three-day parliamentary election to fill all **450 seats in the State Duma**, with about** 111 million people eligible to vote**. Polling stations opened first in** Kamchatka, Chukotka, Magadan and other eastern regions**, where local officials urged residents to turn out. The Kremlin is closely watching participation, with Vladimir Putin presenting high turnout as a sign of national unity and support for the war in Ukraine.

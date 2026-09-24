@@ -13,6 +13,75 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Arizona
+- Berkeley
+- Boston
+- China
+- DC
+- Florida
+- Ireland
+- La Crosse
+- Lake Wausau
+- London
+- Manhattan
+- Metropolitan
+- Pennsylvania
+- Phoenix
+- U.S.A.
+- UK
+- US
+- Washington
+- White House
+people:
+- AI
+- Aldana Cohen
+- Barack Obama
+- Carl J Nichols
+- Charlie Kirk
+- Daniel Aldana Cohen
+- Dario Amodei
+- Demis Hassabis
+- Donald Trump
+- Elon Musk
+- Joe Biden
+- Markwayne Mullin
+- May
+- Mike Johnson
+- Nick Robbins-Early
+- Ron DeSantis
+- Sam Altman
+- Talwani
+- Tom Tiffany
+- Volodymyr Zelenskyy
+organisations:
+- AI and Data Centers
+- ASDC
+- Amodei
+- Anthropic
+- Association of State Democratic Committees
+- Bloomberg News
+- CNN
+- Congress
+- DNC
+- Democratic National Committee
+- EPA
+- Google DeepMind
+- House
+- Kennedy Center
+- NBC News
+- New York Times
+- OpenAI
+- Postal Service
+- The Environmental Protection Agency
+- Trump
+- Truth Social
+- Turning Point USA
+- US Postal Service
+- University of California
+- Washington Post
+- thinktank Climate and Community Institute
+- xAI
 ---
 
 EPA set to scrap power-plant pollution limits - reports

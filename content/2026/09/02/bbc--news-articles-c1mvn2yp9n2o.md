@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4607/live/199bd4
 categories:
 - UK
 - News & Politics
+locations:
+- Ceuta
+- Madrid
+- Melilla
+- Morocco
+- North Africa
+- Spain
+- Trampolin Beach
+people:
+- Alberto Núñez Feijóo
+- David Hernandez
+- Pedro Sánchez
+- Santiago Abascal
+organisations:
+- CENIF
+- Government of Spain
+- Maldita
+- National Court
+- National Immigration and Borders Centre
+- National Police
+- PP
+- Partido Popular
+- Reuters
+- Supreme Court
+- Vox
 ---
 
 ![big crowd in Madrid](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d964/live/0fe96540-a712-11f1-9802-bf0a63e5bc71.jpg)

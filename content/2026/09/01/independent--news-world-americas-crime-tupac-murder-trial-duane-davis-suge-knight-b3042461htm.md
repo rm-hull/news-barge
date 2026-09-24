@@ -12,6 +12,45 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Davis’
+- Las Vegas
+- Nevada
+- U.S.
+people:
+- Binu Palal
+- Carli Kierny
+- Davis'
+- Davis’
+- Duane "Keffe D" Davis
+- Duane Davis
+- Duane “Keffe D” Davis
+- God
+- How Duane "Keffe D" Davis
+- Keffe D’ Davis
+- Marc DiGiacomo
+- Marion "Suge" Knight
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando "Baby Lane" Anderson
+- Orlando “Baby Lane” Anderson
+- Sekyiwa “Set” Shakur
+- Steve Marcus
+- Tupac Shakur
+organisations:
+- BMW
+- Bad Boy Records
+- Bizuayehu Tesfaye
+- Cadillac
+- Clark County District Court
+- Clark County District Court Regional Justice Center
+- Davis'
+- Death Row Records
+- Mob Piru
+- REUTERS
+- Regional Justice Center
+- South Side Compton Crips
+- The Notorious B.I.G
 ---
 
 A man has been found guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, marking the first conviction in a case that has gripped hip-hop fans for decades.

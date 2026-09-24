@@ -11,6 +11,42 @@ image: https://i.guim.co.uk/img/media/513766b458218ea77fb75d0a91ff00beb708eadd/9
 categories:
 - UK
 - News & Politics
+locations:
+- China
+- Gulf
+- Hormuz
+- Iran
+- Jordan
+- Kyrgyzstan
+- Larak Island
+- North Carolina
+- Oman
+- Omani
+- Pakistan
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+- Washington
+- White House
+- al-Azraq
+people:
+- '![Bessent'
+- Donald Trump
+- Hussein
+- Lars Klingbeil
+- Masoud Pezeshkian
+- Scott Bessent
+- Shehbaz Sharif
+- Xi Jinping
+organisations:
+- Fox News
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Mehr
+- Shanghai Cooperation Organisation
+- Tanker Trackers
+- US Central Command
 ---
 
 The US and Iran have exchanged fire for the first time in a month, with missiles and drones fired at Iranian rocket launchers on an island in the strait of Hormuz, and Iran targeting US military bases in Jordan and the United Arab Emirates in response.

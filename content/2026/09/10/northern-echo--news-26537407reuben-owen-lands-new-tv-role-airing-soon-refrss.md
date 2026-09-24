@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Emmerdale
+- England
+- Our Yorkshire Farm Our Great Yorkshire Life
+- Pickering
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Clive
+- Dean Andrews
+- Reuben Owen
+- Will Taylor
+organisations:
+- Channel 5
+- Daisy Beck Studios
+- Instagram
+- Our Great Yorkshire Life
+- Our Yorkshire Farm
 ---
 
 *(Image: Channel 4/PA Wire)*

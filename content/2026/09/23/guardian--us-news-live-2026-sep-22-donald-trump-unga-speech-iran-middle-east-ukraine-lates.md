@@ -12,6 +12,99 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/fd3d54e78610502dcdc3d7f85a3039e191f836db/651_287_3396_2718/master/3396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4a27ec2bf7a4ca65dfd97cd184ce0196
+locations:
+- Alaska
+- Austin
+- Bahamas
+- Belarus
+- California
+- Canada
+- Caribbean
+- Cuba
+- Florida
+- Gaza
+- Gracie Mansion
+- Greenland
+- Iran
+- Kingdom of Denmark
+- Latin America
+- Madrid
+- Mexico
+- Michigan
+- New Jersey
+- New York
+- New York City
+- Pacific
+- Russia
+- Texas
+- US
+- Ukraine
+- Utah
+- Washington
+- White House
+people:
+- Abdul El-Sayed
+- Angela Paxton
+- Bari Weiss
+- Bruno Rodríguez
+- Byron Donalds
+- Chuck Schumer
+- Curtis’
+- Donald Trump
+- Ed Augustin
+- Elena Kagan
+- Erika
+- Harmeet Dhillon
+- Hell
+- JD Vance
+- James “Fergie” Chambers
+- Jens-Frederick Nielsen
+- John Cornyn
+- John Curtis
+- Kamala Harris
+- Ken Paxton
+- Lee Schlenker
+- Letitia James
+- Lindsay Clancy
+- María Elvira Salazar
+- McKenna West
+- Mehmet Oz
+- Mikie Sherril
+- Nausheen Gilkar
+- Nicólas Maduro
+- Omar Ahmed
+- Patrick Clancy
+- Rob Bonta
+- Sherrill
+- Veronica Escobar
+- Vladimir Putin
+- Wilber Rafael Garcés Pérez
+- Zohran Mamdani
+organisations:
+- 60 Minutes’
+- Bluepoint Wind
+- CBS
+- CNN
+- Centers for Medicare and Medicaid Services
+- Guardian
+- Hamas
+- ICE
+- Immigration and Customs Enforcement
+- Invenergy
+- MS Now
+- Miami Herald
+- Nato
+- Politico
+- ProPublica
+- RNC
+- Republican National Committee
+- Sameer Project
+- Senate
+- Texas Federation of Republican Women
+- Texas Tribune
+- Trump Jr.’s
+- UN
+- US House of Representatives
 ---
 
 This concludes our live coverage of the second Trump administration for the day. Here are the latest developments:

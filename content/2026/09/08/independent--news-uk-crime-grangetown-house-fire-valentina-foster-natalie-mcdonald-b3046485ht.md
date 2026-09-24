@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Jaden Wright
+- Ms McDonald
+- Natalie McDonald
+- Paul Appleton
+- Valentina Foster
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
 ---
 
 Members of the public tried to rescue a seven-year-old and her aunt who died in a house fire, an inquest heard.

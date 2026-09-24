@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - History
+locations:
+- Heworth
+- North Yorkshire
+- Strensall
+- Tang Hall
+- York
+people: []
+organisations:
+- Mitsubishi
+- North Yorkshire Police
+- Porsche
+- Post Office** Police
 ---
 
 *(Image: Police)*

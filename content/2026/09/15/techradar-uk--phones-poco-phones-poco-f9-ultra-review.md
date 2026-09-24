@@ -12,6 +12,42 @@ image: https://cdn.mos.cms.futurecdn.net/cTFpY5rfBpGQUL9d2p9ubG-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Dark Cherry
+- Galaxy
+- UK
+- US
+people:
+- Bose
+- Henry Burrell
+- Poco
+- Redmi
+organisations:
+- AI
+- Amazon Music
+- Bose
+- CPU
+- Daily Express
+- Dark Cherry
+- F8 Ultra
+- F9 Ultra
+- Gemini
+- Google
+- HyperOS
+- Macworld
+- MediaTek Dimensity
+- PC World
+- Poco F9 Ultra
+- Qualcomm Snapdragon
+- RIP
+- S26 Ultra
+- Samsung Galaxy
+- Stuff
+- Tech Advisor
+- TechRadar
+- Trusted Reviews
+- Xiaomi HyperAI
 ---
 
 ### TechRadar Verdict

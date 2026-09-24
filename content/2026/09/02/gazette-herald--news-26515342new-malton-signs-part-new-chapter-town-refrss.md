@@ -14,6 +14,19 @@ categories:
 - York
 - Society & Culture
 - Arts & Culture
+locations:
+- Malton
+- North Yorkshire
+people:
+- Cllr Aldrich
+- Jason Aldrich
+- Malton
+organisations:
+- Fitzwilliam Malton Estate
+- Malton Town Council
+- Town Council
+- Yorkshire's Food Capital
+- Yorkshire’s Food Capital
 ---
 
 THE ENTRANCE signs to a North Yorkshire town have been replaced as part of a 'new chapter' for residents and businesses.

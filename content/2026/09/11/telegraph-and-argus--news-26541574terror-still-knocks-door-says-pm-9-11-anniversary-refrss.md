@@ -15,6 +15,33 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Afghanistan
+- Atlantic
+- Britain
+- Greater Manchester
+- Iran
+- Iraq
+- New York
+- PA
+- Pennsylvania
+- UK
+- US
+- United Kingdom
+- United States
+- United States of America
+- Washington DC
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Tony Blair
+- Warren Stephens
+organisations:
+- Nato
+- Pentagon
+- United Airlines
+- World Trade Centre
 ---
 
 *(Image: PA)*

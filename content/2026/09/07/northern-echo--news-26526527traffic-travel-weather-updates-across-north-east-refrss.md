@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Travel
 - Technology & Software
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+- NORTHERN ECHO
+- North East
+- Tyne and Wear Metro
+people: []
+organisations:
+- A1
+- A19
+- A66
+- CrossCountry
+- LNER
+- Newcastle Airport
+- Teesside Airport
+- The Northern Echo
+- TransPennine Express
 ---
 
 *(Image: NORTHERN ECHO)*

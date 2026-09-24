@@ -13,6 +13,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/hegseth-nexus-crime-e17
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- New Orleans
+- United States
+people:
+- Brian Krebs
+- Jillian Kossman
+- Jimmy Roussel
+- Pete Hegseth
+- Zach Edwards
+organisations:
+- Department of Defense
+- FBI
+- IDScan
+- Krebs
+- Krebs’
+- Nexus
+- TechCrunch
 ---
 
 If you have handed over your driver’s license, passport, or other form of identity document to verify your information in the real world, like at a bar, a weed store, or when booking a car rental, there’s a good chance it’s now been stolen in a suspected massive data breach.

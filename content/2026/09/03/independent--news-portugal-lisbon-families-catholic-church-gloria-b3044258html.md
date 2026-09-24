@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Lisbon
+- Portugal
+people:
+- Gloria
+organisations:
+- Carris
+- RTP
 ---
 
 Lisbon inaugurated a memorial Thursday to the 16 people killed in a funicular derailment a year ago, as questions persist about the safety of the city's iconic hillside streetcars, which remain at a standstill.

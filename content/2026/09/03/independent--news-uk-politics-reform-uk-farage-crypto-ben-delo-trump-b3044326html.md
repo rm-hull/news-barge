@@ -13,6 +13,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- England
+- Hong Kong
+- UK
+- US
+people:
+- Ali Mosawi
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Gary Lubner
+- Lord Sainsbury
+- Nigel Farage
+organisations:
+- Autoglass
+- Electoral Commission
+- Labour
+- Liberal Democrats
+- Reform UK
+- The Telegraph
 ---
 
 Nigel Farage’s party has received another £4m from a British crypto billionaire pardoned by Donald Trump.

@@ -14,6 +14,19 @@ categories:
 - UK
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- U.S.
+- United States
+people:
+- Brett Leatherman
+- Jeanine Pirro
+organisations:
+- District of Columbia
+- FBI
+- Hamas
+- Justice Department
+- Qassam Brigades
+- Telegram
 ---
 
 The FBI has seized more than $560,000 in cryptocurrency donations intended for Hamas, the Justice Department said Tuesday in announcing a disruption of financing for the militant group.

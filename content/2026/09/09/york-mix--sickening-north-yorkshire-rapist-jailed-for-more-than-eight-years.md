@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Scarborough
+people:
+- DC McCabe
+- Jack McCabe
+- Phill Blunt
+organisations:
+- Register of Sex Offenders
+- Ryedale Safeguarding Investigation Team
+- York Crown Court
 ---
 
 A rapist responsible for a ‘sickening offence’ has been sent to prison.

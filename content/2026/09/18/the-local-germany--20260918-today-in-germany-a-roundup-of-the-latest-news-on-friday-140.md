@@ -13,6 +13,41 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Borkum
+- China
+- Frankfurt
+- Germany
+- Hamburg
+- He Dreiht
+- Mecklenburg-Western Pomerania
+- Netherlands
+- Nordend
+- North Sea
+- Offenbach
+- Schwanheim
+- Zeil
+people:
+- Carsten Schneider
+- Franziska Hoppermann
+- Friedrich Merz
+- Hesse
+- Lars Klingbeil
+- Roman Poseck
+organisations:
+- AFP
+- CDU
+- EU
+- EnBW
+- Federal Statistics Office
+- Frankfurt Airport
+- IMK
+- Institute for Macroeconomics and Economic Research
+- Left Party
+- Maybrit Illner
+- SPD
+- ZDF
 ---
 
 **Friday's top story:CDU promises fuel price relief ahead of key elections**

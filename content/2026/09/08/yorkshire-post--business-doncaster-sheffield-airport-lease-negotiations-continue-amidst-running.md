@@ -16,6 +16,21 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- South Yorkshire
+people:
+- James Hardisty
+- Oliver Coppard
+organisations:
+- CDC
+- City of Doncaster Council
+- DSA
+- Doncaster Sheffield Airport
+- MCA Board
+- Peel Land
+- SYMCA
+- South Yorkshire Mayoral Combined Authority
+- Yorkshire Post
 ---
 
 # Doncaster Sheffield Airport: Lease negotiations continue amidst 'running out of money' concerns

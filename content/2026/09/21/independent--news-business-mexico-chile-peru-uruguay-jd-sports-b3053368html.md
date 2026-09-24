@@ -12,6 +12,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/08/d49531860bd131da7cc36c38d3dbc5a9Y29udGVudHNlYXJjaGFwaSwxNzkwMDU5NTgz-2.78681678.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chile
+- London
+- Mexico
+- Peru
+- Uruguay
+people:
+- Regis Schultz
+organisations:
+- Grupo Axo
+- JD Sports Fashion
+- JD’s
 ---
 
 JD Sports Fashion has unveiled plans to open more than 140 shops in Mexico through a new franchise deal that will take the brand to the country.

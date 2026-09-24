@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Tom-and-Jayne.webp
+locations:
+- Mockingbird
+- North Yorkshire
+- Scarborough
+- Thirsk
+- UK
+people:
+- '**Jayne'
+- Dockerty
+- Janet Sanderson**
+- Tom Dockerty**
+- Tom Dockerty:**
+organisations:
+- Fostering North Yorkshire
+- Mockingbird Framework
+- North Yorkshire Council
+- The Fostering Network
 ---
 
 **23 September 2026** — A Scarborough couple who have transformed the lives of six children through the care system are taking on a leading role to support other local families by launching North Yorkshire’s fifth Mockingbird hub.

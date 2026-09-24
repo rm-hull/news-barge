@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- David Zinsner
+- Raghu Sreeramaneni
+organisations:
+- Get Tom's Hardware
+- Hot Chips
+- Igor Arsovski
+- Intel Glass
+- Kyoto University
+- Nvidia
+- OpenAI
 ---
 
 ![elastocaloric cooling](https://cdn.mos.cms.futurecdn.net/KqBokvkVTxM9Mkyjj2L4t-320-80.jpg)

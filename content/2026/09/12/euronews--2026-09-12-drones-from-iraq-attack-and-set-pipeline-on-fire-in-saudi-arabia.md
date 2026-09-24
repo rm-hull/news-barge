@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Abqaiq
+- Bab al-Mandab Strait
+- East-West
+- East–West
+- Iran
+- Iraq
+- Israel
+- Maysan
+- Medina
+- Persian Gulf
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- United States
+- Yanbu
+- Yemen
+people: []
+organisations:
+- Gulf Cooperation Council
 ---
 
 ## The East–West pipeline is crucial for shipping Saudi oil to the Red Sea, bypassing the Strait of Hormuz. This latest incident risks driving oil and fuel prices even higher.

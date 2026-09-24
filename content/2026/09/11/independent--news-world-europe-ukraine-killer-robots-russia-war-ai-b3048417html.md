@@ -13,6 +13,29 @@ categories:
 - UK
 - Technology & Software
 - History
+locations:
+- Donetsk
+- Kharkiv
+- Russia
+- Ukraine
+- West
+people:
+- '![Bar'
+- Andrii Biletskyi
+- Bar
+- Chimera
+- Chimera’
+- Mykhailo Drapatyi
+- Oleksandr Syrskyi
+- Zelensky
+organisations:
+- Bar
+- Chimera
+- Kyiv
+- NC13
+- Reuters
+- Third Army Corps
+- UGV
 ---
 
 In a tiny Ukrainian workshop near the frontline ‘Chimera’ is preparing his robot army for battle.

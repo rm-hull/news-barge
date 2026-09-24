@@ -15,6 +15,36 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Campbell
+- Colorado
+- Florida
+- Illinois
+- Indiana
+- Michigan
+- Midwest
+- Minnesota
+- Pennsylvania
+- U.S.
+- US
+- Washington
+people:
+- Campbell
+- Chris Wright
+- Cornelia Pillard
+- Donald Trump
+- Manuel Balce Ceneta
+- Sanjay Narayan
+- Ted Kelly
+organisations:
+- Appeals Court
+- Campbell Generating Plant
+- District of Columbia Circuit
+- Energy Department
+- Environmental Defense Fund
+- Sierra Club
+- Trump
+- U.S. Court of Appeals
 ---
 
 A federal appeals court handed a defeat to the Trump administration on Friday, ruling that the Energy Department overstepped its legal authority when it forced a Michigan coal-fired power plant to stay open past its scheduled retirement date last year.

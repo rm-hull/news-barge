@@ -14,6 +14,21 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/22/21/27/Screenshot-2026-09-22-at-5-10-50-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Sarasota County
+people:
+- James Uthmeier
+- Liz Ballard
+- Terry Connor
+- Utehmeier
+organisations:
+- Florida Division of Elections
+- Office of Parental Rights
+- Pine View School
+- Sarasota County Schools
+- School Board
+- Uthmeier
 ---
 
 A Florida teacher has been accused of trying to “cancel” an eighth-grade student because of the child’s conservative views.

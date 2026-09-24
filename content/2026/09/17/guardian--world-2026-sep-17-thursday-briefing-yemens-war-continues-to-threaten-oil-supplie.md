@@ -14,6 +14,101 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Africa
+- Asia
+- Atlantic
+- Bab al-Mandab
+- Birmingham
+- Chatham House
+- Coventry
+- Djibouti
+- Europe
+- Gaza
+- Greater Manchester
+- Gulf
+- Hormuz
+- Iran
+- Israel
+- Lesser Hanish
+- London
+- Mecca
+- Metro
+- Middle East
+- Middle Eastern
+- Mocha
+- Monaco
+- Nepal
+- New York
+- New Zealand
+- Oman
+- Oxfordshire
+- Pakistan
+- Palestine
+- Perim
+- Portugal
+- Putney
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Sudan
+- Suffolk-Essex
+- Syria
+- The States
+- Tibet
+- Turkey
+- UK
+- US
+- Ukraine
+- Yanbu
+- Yemen
+people:
+- '***Europe'
+- Aaron Rowe
+- Al-Muslimi
+- Al-Muslimi***
+- Andy Burnham
+- Beoga
+- Charlie Lindlar
+- Danielle Amato
+- Dawn Butler
+- Diana
+- Ed Sheeran
+- Eva Verbeeck.***Sundus Abdi
+- Finneas
+- Grief
+- Jason Okundaye
+- Jason Okundaye.
+- Kudos
+- Lily Mayer
+- Lucy Hough
+- Macklemore
+- Maxim De Cuyper
+- Nicola Jennings
+- Palace
+- Princessan Glittergull
+- Robert Kraft
+- Tammy Abraham
+- Tove Jansson
+- Trump
+- al-Muslimi
+organisations:
+- Aston Villa
+- Brighton
+- EU
+- FT
+- Fed
+- Formula One
+- Guardian
+- Hamas
+- Hezbollah
+- Irish Lions
+- Labour
+- Manchester United
+- New England Patriots
+- Sky Sports
+- Trump
+- UN
 ---
 
 Good morning. The lightning advance of Houthi militants along the west coast of Yemen over the past week has prompted fears of a spiralling conflict in the region and a new oil supply crisis.

@@ -14,6 +14,42 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- CLEVELAND
+- Matusiak
+- Normanby Medical Centre
+- Normanby Road
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- St Peter’s
+- Stockton West
+- Teesside
+people:
+- Alec Brown
+- Cllr Brown
+- Jakub Matusiak
+- Mark Robinson
+- Matt Vickers
+- Matthew Blades
+- Pc Matthew Blades
+- Pc Tom Clough
+- Shabana Mahmood
+- Tammy Cooper
+- Tom Clough.
+organisations:
+- A66
+- Archway Academy Teesville
+- Catholic Primary School
+- Cleveland Borough Council
+- Cleveland Police
+- Department for Education
+- Mackenzie Thorpe School
+- North News & Pictures Ltd
+- Outwood Academy
+- Outwood Academy Normanby
+- Redcar
+- South Bank Primary School
 ---
 
 An MP said schools “should never be forced to close because a safe journey home cannot be guaranteed” amid anger over disruption due to an A66 crash funeral.

@@ -12,6 +12,59 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Alan Wake
+- Aleksha McLoughlin
+- Alexander Mejia
+- Green
+- Superchip
+organisations:
+- AI
+- AMD
+- APU
+- Acer
+- Aleksha McLoughlin
+- Amazon
+- Apple
+- Asus
+- Blackwell GPU
+- CUDA
+- DLSS
+- Dexerto
+- Epic Games Store
+- Esports Insider
+- GTX
+- GamesRadar
+- GeForce
+- Google News
+- Grace Hopper
+- Intel
+- Kyusai
+- Lenovo Yoga Pro 9n
+- MSI
+- Microsoft Surface Laptop Ultra
+- Nvidia Drive
+- PC Gamer
+- PC Guide
+- PR
+- Pax Romana
+- Play Magazine
+- Qualcomm
+- RAM
+- RTX Spark
+- Ray Tracing
+- Razer
+- Senior Product Manager
+- Snapdragon X2 Elite
+- SoC
+- Steam
+- Team Blue
+- Team Green
+- TechRadar Gaming
+- The Escapist
+- Trusted Reviews
+- iGPU
 ---
 
 ![RTX Spark chip](https://cdn.mos.cms.futurecdn.net/AbzSvUYd65RRkJWnMhHL3L.jpg) 

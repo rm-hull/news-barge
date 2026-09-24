@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- County Durham
+- Darlington
+- Newton Aycliffe Magistrates’ Court
+- Rockwell Avenue
+people:
+- Bichon Frise
+- Jenna Read
+- Jim
+- Jim’s
+- Larvae
+- Rosy
+organisations:
+- RSPCA
 ---
 
 *(Image: RSPCA)*

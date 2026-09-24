@@ -11,6 +11,33 @@ categories:
 - Technology & Software
 - Relationships & Dating
 image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
+locations:
+- BOURBON
+- CARNABY STREET
+- DERBY
+- KENTUCKY
+- LONDON
+- Las Vegas
+- North London
+- SAND DOLLAR
+- UK
+people:
+- Elton John
+- Fred
+- Johnny
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+- Wordle
+organisations:
+- '### Yesterday'
+- Channel 5
+- NYT Connections
+- New York Times
+- Pop Detective
+- TWIGGY
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg)

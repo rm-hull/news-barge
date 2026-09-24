@@ -12,6 +12,62 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/17/342e41e98a1dfcda8e19d42ffe88ddf8Y29udGVudHNlYXJjaGFwaSwxNzkwMDg5MDgw-2.82985246.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- China
+- Frankfurt
+- Germany
+- Japan
+- London
+- Mexico
+- New York
+- Paris
+- Strait of Hormuz
+- UK
+- US
+- Washington
+people:
+- Donald Trump
+- Friedrich Merz
+- Greg Fuzesi
+- He Lifeng
+- Jamieson Greer
+- Masoud Pezeshkian
+- Michael Snape
+- Russ Mould
+- Scott Bessent
+- Xi Jinping
+organisations:
+- AI
+- AJ Bell
+- Aberdeen
+- Alliance News
+- Antofagasta
+- BP
+- CDU
+- Elixirr International
+- Entain
+- Fresnillo
+- Glencore
+- Grupo Axo SAPI
+- IG Group
+- Ithaca Energy
+- JD Sports
+- JP Morgan
+- Kingfisher
+- Ladbrokes
+- Marks & Spencer Group
+- Metlen Energy & Metals
+- Peel Hunt
+- Polar Capital Technology Trust
+- Relx
+- Richmond Fed
+- Rolls Royce
+- Shell
+- Smiths Group
+- Spirax Group
+- UN General Assembly
+- US Treasury
 ---
 
 European stocks closed higher on Monday as oil prices fell amid optimism for progress in stalled US-Iran peace talks this week.

@@ -16,6 +16,19 @@ categories:
 - York
 - Technology & Software
 - True Crime
+locations:
+- Abbeydale Road
+- London
+- Sharrow
+- Sheffield
+- Wostenholm Road
+people:
+- Jonathan Woodcock
+- Mohammed Khan
+- Richard Thyne KC
+- Zaiban Alam
+organisations:
+- Sheffield Crown Court
 ---
 
 # Callous drug dealer left woman for dead after crashing into her during bid to escape police

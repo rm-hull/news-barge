@@ -14,6 +14,19 @@ categories:
 - Science
 - Video Gaming
 - History
+locations:
+- Tyria
+people:
+- ArenaNet
+- Colin Johanson
+- Leonidas-style
+organisations:
+- ArenaNet
+- Guild Wars
+- MMO
+- PC
+- PS5
+- Rangers
 ---
 
 Hardly a year goes by without me whistling the *Guild Wars 2* loading theme, rewatching clips of the original to soak up that Pre-Searing Ascalon nostalgia, or subjecting my wife to yet another Grawl impression. (Gui-la-la!)

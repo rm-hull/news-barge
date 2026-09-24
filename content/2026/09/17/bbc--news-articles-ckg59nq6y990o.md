@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- London
+- Putney Bridge
+people:
+- Jogger
+- Nicholas Brandram
+- Nick
+- Oliver Salbris
+- Sgt Mat Knowles
+organisations:
+- BBC London
+- BBC Radio London
+- IOPC
+- Independent Office for Police Conduct
+- Met Police
+- Metropolitan Police
+- Nicholas Brandram
+- Sunday Times
 ---
 
 ![Close-up headshot of a smiling Nicholas Brandram with short dark hair, blue eyes, and clean-shaven facial hair. He is wearing a blue open-collared shirt outdoors, with a blurred background showing an outdoor seating area and buildings under a clear sky.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg)

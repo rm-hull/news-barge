@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Canada
+- Caribbean Islands
+- Gaza
+- Greenland
+- Gulf of Mexico
+- Hollywood
+- Iceland
+- Iran
+- Kharg Island
+- Lake Ontario
+- Maine
+- New America
+- New Mexico
+- Outer Space
+- U.S.
+- United States
+- White House
+- ex-White House
+people:
+- Chellie Pingree
+- Davis Ingle
+- Donald Trump
+- George III
+- George Washington
+- Hulk Hogan
+- Jesus Christ
+- Lawrence O’Donnell
+- Mark Carney
+- Natalie Harp
+- Robert De Niro
+- Ron Filipkowski
+- Sarah Matthews
+organisations:
+- Anti-Trump
+- Cabinet
+- Capitol
+- Congress
+- House Select Committee
+- Intel
+- MS NOW
+- Oval Office
+- Space Force
+- The New York Times
+- Trump
+- Truth Social
 ---
 
 A former White House aide has likened President Donald Trump’s recent run of bizarre posting on Truth Social to “watching his brain rot in real time” amid growing exasperation over his online trolling.

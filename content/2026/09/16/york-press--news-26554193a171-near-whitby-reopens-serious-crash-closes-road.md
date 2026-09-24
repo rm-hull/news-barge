@@ -14,6 +14,16 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Helwath Beck
+- NORTH YORKSHIRE
+- North Yorkshire
+- Scarborough
+- Whitby
+people: []
+organisations:
+- A171
+- North Yorkshire Police
 ---
 
 *(Image: (Image NORTH YORKSHIRE POLICE))*

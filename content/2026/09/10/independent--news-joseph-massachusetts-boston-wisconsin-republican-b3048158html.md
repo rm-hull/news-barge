@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Massachusetts
+- Milwaukee County
+- U.S.
+- Wisconsin
+people:
+- Elizabeth Mulvey
+- God
+- Hannah Dugan
+- Lynn Adelman
+- Shelley Joseph
+- Tom Tiffany
+- Trump
+organisations:
+- Commission on Judicial Conduct
+- Supreme Judicial Court
+- Trump
+- U.S. Immigration and Customs Enforcement
 ---
 
 The highest court in Massachusetts on Thursday issued a public reprimand against a district court judge who was accused of allowing an immigrant to escape U.S. Immigration and Customs Enforcement custody.

@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bosnia
+- MKM Stadium
+people:
+- Hull
+- John Egan
+- Michael Carrick
+- Nobel Mendy
+- Oli McBurnie
+- Semi Ajayi
+- Sergej Jakirovic
+- Tim Iroegbunam
+organisations:
+- Aston Villa
+- Charlton
+- Coventry City
+- Everton
+- Huddersfield Town
+- Hull City
+- Jakirovic
+- Leeds United
+- Manchester City
+- Manchester United
+- Middlesbrough
+- Millwall
+- Premier League
+- Sky Sports
+- Southampton
+- Sunderland
+- Tigers
+- West Brom
+- West Ham
+- Wolves
 ---
 
 Aston Villa still winless after stalemate at Hull

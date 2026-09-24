@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/12/18/Trump_Boyhood_Home_27177.j
 categories:
 - News & Politics
 - UK
+locations:
+- Jamaica Estates
+- Manhattan
+- New York City
+- Oval Office
+- Queens
+- White House
+people:
+- Donald Trump
+- Fred Trump
+- Tommy Lin
+organisations:
+- Airbnb
+- New York Post
+- Trump Birth Home LLC
+- Trump Tower
+- Zillow
 ---
 
 Donald Trump's childhood home has sold for nearly $2 million after a renovation transformed the New York City residence from a mold-ridden cat den to a modern abode.

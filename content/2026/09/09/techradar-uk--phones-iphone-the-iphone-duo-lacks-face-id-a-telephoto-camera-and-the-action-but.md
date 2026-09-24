@@ -11,6 +11,23 @@ description: Apple has equipped the iPhone Duo with some of its most advanced co
 image: https://cdn.mos.cms.futurecdn.net/2WcUMrqUX8RYvbBs5RF2Se-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Axel Metz
+- Jamie Richards
+organisations:
+- AirPlay
+- Apple
+- Duo
+- Galaxy Z Fold
+- Goldsmiths College
+- Google News
+- MusicRadar
+- Netflix
+- Pro Fold
+- Samsung Galaxy Z Fold
+- TechRadar Phones
+- Ultra
 ---
 
 ![The iPhone Duo on a light colored background](https://cdn.mos.cms.futurecdn.net/2WcUMrqUX8RYvbBs5RF2Se.jpg) 

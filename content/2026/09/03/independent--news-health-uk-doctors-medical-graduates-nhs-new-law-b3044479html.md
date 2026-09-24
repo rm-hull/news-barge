@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Iceland
+- Ireland
+- Liechtenstein
+- Norway
+- Switzerland
+- UK
+people:
+- Lucina Rolewicz
+- Wes Streeting
+organisations:
+- BMA
+- British Medical Association
+- Department of Health
+- NHS
+- Nuffield Trust
 ---
 
 New legislation giving priority to UK medical graduates seeking NHS training posts has had a dramatic impact on boosting the number of homegrown doctors, figures suggest.

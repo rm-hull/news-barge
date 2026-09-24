@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Leyburn
+- Wensley
+people:
+- Amelia Anderson
+organisations:
+- Northern Echo
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

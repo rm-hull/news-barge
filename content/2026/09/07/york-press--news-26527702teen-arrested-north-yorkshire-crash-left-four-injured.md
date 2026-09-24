@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- B1249 Main Street
+- Foxholes
+- North Yorkshire
+- Ryedale
+- Scarborough
+- Seat Leon
+people:
+- '## Driver'
+- Jamie Broadbent
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
 ---
 
 ## Driver arrested after North Yorkshire crash leaves four seriously injured

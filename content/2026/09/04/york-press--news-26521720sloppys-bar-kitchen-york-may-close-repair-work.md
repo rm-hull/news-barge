@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Castlegate
+- TOP York
+- Woodthorpe
+people:
+- Leon Sledmore
+- Molly McGrath
+organisations:
+- Newsquest
+- Pic
+- Sloppy's Bar
+- Sloppy’s Bar & Kitchen
 ---
 
 ## 'Absolutely heartbroken' - top York restaurant faces closure for major repairs

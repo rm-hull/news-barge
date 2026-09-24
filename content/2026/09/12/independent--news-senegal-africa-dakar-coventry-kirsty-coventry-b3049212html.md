@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Africa
+- Athens
+- Atlantic Ocean
+- Dakar
+- Diamniadio
+- Panathenaic Stadium
+- Place du Souvenir Africain
+- Saly
+- Senegal
+- Singapore
+- Wolof
+- Zimbabwe
+people:
+- Kirsty Coventry
+- Mame Maty Mbengue
+organisations:
+- Coventry
 ---
 
 The Olympic flame was welcomed by music and dancing in Senegal 's capital on Saturday, as a march by 100 women marked the countdown to the first Olympic sporting event held in Africa.

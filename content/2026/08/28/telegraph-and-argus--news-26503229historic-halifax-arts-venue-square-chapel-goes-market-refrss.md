@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Arts & Culture
+locations:
+- Eureka!
+- Halifax
+- Piece Hall
+- Square Chapel
+- Square Chapel Arts Centre
+- Square Road
+people:
+- Receiver
+- Watling
+organisations:
+- Arts Council
+- Arts Council England
+- Community Interest Company
+- HMRC
+- High Court
+- National Children’s Museum
+- Revenue and Customs
+- Save Square Chapel Campaign
+- Square Chapel
+- Square Chapel Arts Centre
+- Square Chapel CIC
+- Watling Real Estate
 ---
 
 A much-loved Halifax arts centre – subject of a sustained campaign to re-open it for the public again – is being marketed.

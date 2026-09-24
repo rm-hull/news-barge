@@ -15,6 +15,58 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- AI
+- America
+- Australia
+- Beijing
+- China
+- Japan
+- Pakistan
+- Russia
+- U.K.
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Chen Yixin
+- Cui Tiankai
+- Dario Amodei
+- Donald Trump
+- Jensen Huang
+- Josh Boak
+- Ken Moritsugu
+- Lizzi C. Lee
+- Paul Triolo
+- Samm Sacks
+- Scott Bessent
+- Xi Jinping
+organisations:
+- AI Trump
+- American AI
+- Anthropic
+- Asia Society Policy Institute
+- Associated Press
+- BRICS
+- CBS
+- Center for China Analysis
+- Chinese AI
+- DGA-Albright Stonebridge Group
+- Face the Nation
+- Future of Global Affairs
+- Global Times
+- Johns Hopkins School of Advanced International Studies’ Institute for America
+- Ministry of Foreign Affairs
+- Ministry of State Security
+- Nvidia
+- OpenAI
+- Pax Silica
+- Trump-Xi
+- U.S. Treasury
+- World Artificial Intelligence Cooperation Organization
+- Xiangshan Forum
+- Yuyuantantian
 ---
 
 As concern rises over the risks of artificial intelligence, hopes for any kind of global approach depend on cooperation between the U.S. and China — superpowers that seem only to be more skeptical of each other's AI strategy.

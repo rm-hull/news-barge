@@ -14,6 +14,54 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Albuquerque
+- Arizona
+- Atlanta
+- Boston
+- Centro de Apoyo Familiar Church
+- Chicago
+- Dallas
+- Denver
+- Florida
+- Georgia
+- Houston
+- Kentucky
+- Louisville
+- Madison
+- Miami
+- Midvale
+- New Jersey
+- New Mexico
+- Odessa
+- Paterson
+- Salt Lake City
+- Savannah
+- Texas
+- U.S.
+- United States
+- Utah
+- Venezuela
+- Wisconsin
+- Yuma
+people:
+- Aaron Kessler
+- Alberto Salcedo
+- Carlos Moreno
+- Donald Trump
+- Enrique Vera
+- Gonzalo Rodriguez
+- Loreana Pachano
+- Spencer Cox
+- Utah Carlos Trujillo
+organisations:
+- AP
+- Associated Press
+- Church of Jesus Christ of Latter-day Saints
+- Fillerup Employment Services
+- Salt Lake County Council
+- Utah Compact
+- Walmart
 ---
 
 Snow-covered mountains ringing a valley of wide, free-flowing roads remind Venezuelan transplants that the growing suburbs south of Salt Lake City offer what Miami can’t.

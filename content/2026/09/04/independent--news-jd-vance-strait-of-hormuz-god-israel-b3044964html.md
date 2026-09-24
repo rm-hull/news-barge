@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Hormozgan
+- Iran
+- Israel
+- Kuhestak
+- Mallahis’
+- Minab
+- Strait of Hormuz
+- U.S.
+- US
+people:
+- Ali Mallahi
+- God
+- Hassan Sayadi
+- JD Vance
+- Mohsen Ganji
+- Sasan Zarei
+- Trevor Ball
+organisations:
+- AP
+- Armament Research Services
+- Associated Press
+- U.S. Central Command
 ---
 
 Women with their children were gathered in the house and yard, waiting for the bride and groom to arrive to kick off a wedding celebration in this small town in southern Iran. Then an explosion turned the scene to carnage.

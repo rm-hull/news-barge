@@ -16,6 +16,41 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Bradford
+- Broomfields
+- UK
+- Usher Street
+people:
+- Jonathan Reynolds
+- Kate Dearden
+organisations:
+- BD4
+- BD7
+- BD8
+- BD9
+- Bamboo Kids
+- Bradford) Ltd
+- City Glass Works Limited
+- City Glass Works Ltd
+- Creative Child Ltd
+- Crown Foods
+- Department for Business and Trade
+- Fair Work Agency
+- Fashion Wize Ltd
+- Government
+- HMRC
+- IBI Healthcare Ltd
+- Lister Pharmacy
+- Lister Schoolwear
+- Megaplay
+- National Minimum Wage
+- Newsquest
+- PB2 Ltd
+- T&A
+- Telegraph & Argus
+- The Bradford
+- Tong Street
 ---
 
 *(Image: Newsquest)*

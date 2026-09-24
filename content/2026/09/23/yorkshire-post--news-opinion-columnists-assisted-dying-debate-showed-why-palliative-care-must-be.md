@@ -16,6 +16,26 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMyMGJjNTJhLTdjZmQtNGRkMy1hNGE4LTZkMDNmNGQwYTNhZDoxYWRhODIxNy01NWM0LTRmNWYtYjQ5OS0xNjhlYTlmZDAzMzU=.jpg?crop=3:2,smart&trim=&width=536&auto=webp&quality=75
+locations:
+- Bradford
+- England
+- Yorkshire
+people:
+- Marie Curie
+- Victoria Wharton
+organisations:
+- Bradford Royal Infirmary
+- Caring Services
+- House of Commons
+- Marie Curie
+- Modern Service Framework for palliative and End of Life Care
+- NHS
+- North of England
+- REACT
+- Responsive Emergency Assessment and Community Team
+- Terminally Ill Adults
+- UK Government
+- Victoria Wharton
 ---
 
 # Assisted dying debate showed why palliative care must be improved - Victoria Wharton

@@ -14,6 +14,18 @@ categories:
 - York
 - Arts & Culture
 - History
+locations:
+- Norway
+- West Cliff
+- Whitby Abbey
+- Whitby Town
+people:
+- Mark Crane
+- Sandra Turner
+organisations:
+- North Yorkshire Council
+- Whitby
+- York University
 ---
 
 # Whitby's famous whalebone arch taken down for 'ethical' replacement in bronze

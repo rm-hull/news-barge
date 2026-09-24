@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- China
+- Iran
+- Japan
+- North Korea
+- Pyongyang
+- Russia
+- Seoul
+- South Korea
+- US
+- United States
+- Washington
+people:
+- '## Trump'
+- Donald Trump
+- Kim Jong-un
+- Kim Yo-jong
+- Lee Jae-myung
+- Yang Moo-jin
+- Yoon Suk-yeol
+- Youn Kun-young
+organisations:
+- National Intelligence Service
+- University of North Korean Studies
 ---
 
 ## Trump met Kim three times during his first term, once declaring they were "in love," in high-profile summits aimed at securing a denuclearisation deal, but no tangible progress was made.

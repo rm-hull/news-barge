@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- New York
+- Newton Aycliffe
+- North
+people:
+- Alex Wood
+- SARAH CALDECOTT
+- Thomas Leatherbarrow
+- Tom Leatherbarrow
+- Vinod Eslavath
+organisations:
+- Darlington Indoor Market
+- Darlington Market
+- Durham
+- Parmo Bros
+- TLC Catering
+- TLC Gourmet
 ---
 
 A new food stall serving up one of the North's favourite dishes has opened at Darlington Indoor Market.

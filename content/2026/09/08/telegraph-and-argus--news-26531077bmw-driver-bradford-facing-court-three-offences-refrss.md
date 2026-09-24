@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford City Centre
+- West Yorkshire
+people: []
+organisations:
+- BMW
+- Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

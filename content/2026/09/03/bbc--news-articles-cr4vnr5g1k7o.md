@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Hubei Province
+- Yichang City
+people:
+- Clément Delangue
+- Julien Chaumond
+- Thomas Wolf
+- Yaël Ossowski
+organisations:
+- AI
+- AMD
+- Amazon
+- Anthropic
+- Consumer Choice Center
+- Hugging Face
+- Intel
+- Meta
+- Microsoft
+- NVIDIA
+- Nvidia
+- OpenAI
 ---
 
 ![The stock price of NVIDIA displayed on a smartphone with NVIDIA and Hugging Face logo displayed in a smartphone in Yichang City, Hubei Province, China, on August 27, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg)

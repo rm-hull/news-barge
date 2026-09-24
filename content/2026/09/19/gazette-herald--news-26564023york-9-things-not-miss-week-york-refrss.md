@@ -13,6 +13,68 @@ categories:
 - York
 - Music
 image: https://www.gazetteherald.co.uk/resources/images/21475305.jpg?type=og-image
+locations:
+- Bempton
+- Bishopthorpe Road
+- Bong Joon Ho
+- Bridlington
+- Clements Hall
+- Grand Opera House
+- Hornsea
+- Howden
+- London
+- Penn
+- Pextons
+- Queen Elizabeth Hall
+- UK
+- York
+people:
+- Amy D'Agorne
+- Charles Hutchinson
+- Christopher Nolan
+- Gilbert O'Sullivan
+- Gilbert O’Sullivan
+- John Bramwell
+- John Flaxman
+- John van der Put
+- Maeve Larkin
+- Nish Kumar
+- Richard Herring
+- Steffi Graf
+- TIM Key
+- Teller
+- Tim Key
+- Turner
+organisations:
+- BBC Two
+- Flaxman at York Art Gallery
+- Flaxman, York Art Gallery
+- Grand Opera House
+- Hull Truck Theatre
+- J.M.W
+- Leeds Playhouse
+- Loganberry, York Theatre Royal
+- MARSDEN’S
+- Magic Dragon
+- Magic Shoppe
+- Mikron Theatre
+- National Gallery
+- Penn & Teller fame
+- Penn Jillette
+- Scarborough Spa Theatre
+- Selby Town Hall
+- Swinton & District Excelsior Band
+- The Mash Report
+- Turner
+- Wedgwood & Beyond
+- Wedgwood Beyond
+- Wetherby Silver Band
+- York Art Gallery
+- York Barbican
+- York GILBERT O’Sullivan
+- York LEGENDARY magicianPenn Jillette
+- York Railway Institute Band
+- Yorkshire
 ---
 
 GHOSTLY sculptures in gardens, the best in class in brass bands, Mikron Theatre’s mobile library tribute and 60 years of Gilbert O’Sullivan are among Charles Hutchinson’s cultural highlights.

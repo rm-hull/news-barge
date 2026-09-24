@@ -15,6 +15,43 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ4MTIyMWZkLTBiMmItNGI3Yy1hY2M3LTc4YjM1MjYzYTE1OTowNGNlMDk3Yi05YzJmLTQ2YjQtYWI1MC1iZTlhNTNiMjFmMTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Ashton-under-Lyne
+- Barnsley
+- Britain
+- England
+- Huyton
+- Jayne Dowle
+- Liverpool
+- Manchester Railway
+- North
+- Peak District
+- Pennines
+- Prescot
+- Sheffield
+- Snake Pass
+- South Yorkshire
+- St James’ Church
+- UK
+- Westminster
+- Woodhead Pass
+people:
+- Alex Griffiths
+- Andy Burnham
+- Michael Dnes
+- Oliver Coppard
+- Woodhead
+organisations:
+- A57
+- A628
+- Department for Transport
+- Future Works
+- HS2
+- Peak District
+- Royal Engineer
+- Sizewell C
+- South Yorkshire
+- Trans-Pennine Connect
 ---
 
 # The argument for a tunnel between Sheffield and Manchester isn’t just an economic one but one full of emotion for people in South Yorkshire - Jayne Dowle

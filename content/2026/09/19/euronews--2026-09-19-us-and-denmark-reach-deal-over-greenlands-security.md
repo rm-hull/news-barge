@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/91/96/27/1200x675_cmsv2_b0a1d7e2-2437-5087-8a65-c0fcad8d21af-9919627.jpg
+locations:
+- '## Greenland'
+- Brussels
+- China
+- Davos
+- Europe
+- Kingdom of Denmark
+- New York
+- North Atlantic Area
+- Pituffik
+- Russia
+- The Kingdom of Denmark
+- U.S.
+- US
+- United States
+- United States of America
+- Washington
+- White House
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- NATO
+- Pituffik Space Base
+- Truth Social
+- UN General Assembly
+- US Department of Defense
+- US Space Force
 ---
 
 ## Greenland's prime minister, Jens-Frederik Nielsen, welcomed the agreement, saying it was "to the benefit of us all" and that it would "ensure and strengthen" the security of the island.

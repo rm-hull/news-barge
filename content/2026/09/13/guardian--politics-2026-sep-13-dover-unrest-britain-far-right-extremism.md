@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Burton Dassett
+- Coventry
+- Dover
+- Great Britain
+- Kent
+- Portsmouth
+- RAF Brize Norton
+- Southport
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+- Nick Lowles
+- Nigel Brookes
+- Sarah Jones
+organisations:
+- Hope Not Hate
+- Kent
+- MI5
+- Palestine Action
+- Patriot Platform
+- RNLI
+- Searchlight
+- Security Service
 ---
 
 To anybody watching the videos of a group of masked men, all wearing black, descending on the port of Dover last weekend, it was immediately obvious that something novel and disturbing was happening: a mass intimidation in uniform not seen in Britain since the 1930s.

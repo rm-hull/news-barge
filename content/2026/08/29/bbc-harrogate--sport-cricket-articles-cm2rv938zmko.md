@@ -12,6 +12,26 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Ben Coad
+- Scarborough
+- White Rose
+people:
+- :** Patel
+- :** Wharton
+- George Hill
+- Hull
+- Jack White
+- Rishi Patel
+- Sheridon Gumbs
+organisations:
+- ECB Reporters' Network
+- Foxes
+- Hampshire
+- Leicestershire
+- Nottinghamshire
+- Rothesay
+- Yorkshire
 ---
 
 ![Leicestershire opener Rishi Patel looks in after playing a shot at Scarborough](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9c4d/live/3b344420-a3c2-11f1-b13c-0d78069132fa.jpg)

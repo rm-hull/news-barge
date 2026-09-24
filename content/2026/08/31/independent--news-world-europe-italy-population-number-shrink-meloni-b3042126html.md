@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/07/29/11/59/iStock-1265037247.jpeg?
 categories:
 - News & Politics
 - UK
+locations:
+- Ceuta
+- Italy
+- Madrid
+- Morocco
+- Rome
+- Schengen
+- Spain
+- Vatican
+people:
+- Giorgia Meloni
+- Pope Leo
+organisations:
+- European Union
+- ISTAT
 ---
 
 Italy's population will shrink by almost 4 million by 2050, undermining the sustainability of its economy and welfare system as the proportion of elderly people increases, national statistics bureau ISTAT warned on Monday.

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b42f/live/2b657e20-addf-11f1-9a5c-a7a4083eb832.jpg
+locations:
+- Greater Manchester
+- Oldham
+people:
+- Cath Charnock
+- Les Latham
+organisations:
+- Asian Hornet Watch
+- BBC Manchester
+- BBC Radio Manchester
+- Cath Charnock
+- Les Latham
 ---
 
 ![A large Asian hornet nest, showing multiple layered combs, is held by a person wearing protective bee inspector clothing and a face mask. The nest was removed from a tree, with woodland and specialist equipment visible in the background.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/b42f/live/2b657e20-addf-11f1-9a5c-a7a4083eb832.jpg)

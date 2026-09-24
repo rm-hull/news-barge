@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Afterpay Arena
+- Australia
+- GMO Arena Saitama
+- Japan
+- Melbourne
+- Perth
+- Sydney
+- Tokyo
+people:
+- King of Limbs
+- Radiohead
+- Thom Yorke
+organisations:
+- Frontier Touring
+- Karma Police
+- RAC Arena
+- Rod Laver Arena
 ---
 
 Radiohead will return to Australia to play 16 shows across three cities next year, marking the band’s first tour of the country in 15 years.

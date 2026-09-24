@@ -14,6 +14,36 @@ categories:
 - Film & TV
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70bc/live/6f694000-b345-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Bristol
+- Japan
+- UK
+people:
+- AI
+- Aardman
+- Dani Dyer
+- David Sproxton
+- Farmageddon
+- Justin Fletcher
+- Kitty Clay
+- Matthew Walker
+- Nina Sosanya
+- Paul Whitehouse
+- Peter Lord
+- Richard Beek
+- Rizzle Kicks
+- Roman Kemp
+- Shaun the Sheep
+- Steve Cox
+organisations:
+- AI
+- Aardman's Academy
+- Bristol Aardman
+- CGI
+- Chicken Run
+- NOW TV
+- Shaun the Sheep
+- Sky Cinema
 ---
 
 ![A still from Shaun the Sheep showing Shaun in the middle of two characters including the Farmer](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/70bc/live/6f694000-b345-11f1-bc1f-3f186ca4140c.jpg)

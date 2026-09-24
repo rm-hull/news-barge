@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Abbey Orchard Street
+- Leeds
+- London
+- London’s King’s Cross
+- Old Bailey
+- Temperance Hall
+- Westminster
+- Yorkshire
+people:
+- Farmanullah Sherzad
+- Lisa Wilding KC
+- Sulaiman Tajzai
+organisations:
+- CCTV
+- Leeds
+- Old Bailey
+- Snapchat
 ---
 
 # Teenager travelled from Yorkshire to London to kill alleged stalker, court told

@@ -11,6 +11,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/UVm4pWzxzFfM3waNQDdPrD-1920-80.jpg
+locations:
+- Australia
+- Bletchley
+- Prague
+- US
+people:
+- Benedict Collins
+- Tim Hudson
+organisations:
+- APT
+- Australian Signals Directorate
+- BUCSIS
+- EU
+- FIPS
+- Google News
+- KMIP
+- Merkle Tree Certificates
+- OpenSSL Corporation
+- OpenSSL Library
+- PKI
+- Signals Directorate
+- TLS
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Quantum computing concept. Digital communication network. Technological abstract.](https://cdn.mos.cms.futurecdn.net/UVm4pWzxzFfM3waNQDdPrD.jpg)

@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- HQ
+- Taipei
+- Taiwan
+- Tokyo
+- U.S.
+people: []
+organisations:
+- ASML
+- Get Tom's Hardware
+- HBM
+- Intel
+- LPP
+- Micron Building
+- Nvidia
+- Pacific Quartz
+- PieceMakers
+- Premium Anjinomoto
+- SK
+- Samsung
+- TSMC Arizona Fab
 ---
 
 ![TSMC Arizona Fab 21 entrance](https://cdn.mos.cms.futurecdn.net/ouCnDodNxZsDysigzb7rsd-320-80.png)

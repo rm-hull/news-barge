@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations: []
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 Police have issued a photograph of a man, dubbed the “Temu Spider-Man of York” by officers, sought in connection with items being stolen from a parcel delivered to a home in the city.

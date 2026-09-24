@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Asia
+- Black Sea
+- Brussels
+- Dubai
+- Europe
+- Georgia
+- Middle Corridor
+- Russia
+- South Caucasus
+- Tbilisi
+people:
+- Maka Botchorishvili
+organisations:
+- EU
+- Euronews
+- European Union
+- FM
 ---
 
 ## Georgia’s top diplomat told Euronews that Tbilisi remains committed to EU accession and that Europe needs Georgia for its prosperity and security. But according to the FM, it all comes down to whether Europeans “are serious about enlargement”.

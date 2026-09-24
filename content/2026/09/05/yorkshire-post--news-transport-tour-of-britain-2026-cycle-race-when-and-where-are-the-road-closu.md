@@ -14,6 +14,55 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A684 Wensley
+- Ampleforth
+- Aysgarth
+- Boroughbridge
+- Brafferton
+- Brentwood
+- Bridge Street
+- Brompton
+- Carperby
+- Craggs Lane
+- Easingwold
+- Grassington
+- Greenhow Hill
+- Greenhow Village
+- Greets Moss
+- Grinton KoM
+- Grinton YHA
+- Grove Square Leyburn
+- Harmby
+- Hebden
+- Helmsley
+- Helperby
+- Kidstones Bank
+- Kilnsey
+- Kirby Hill
+- Leyburn Railway Street
+- Middleham Road
+- Newton le Willows
+- North Yorkshire
+- Oulston
+- Pateley Bridge
+- Raskelf
+- Ripon Racecourse
+- Ripon Studley Road
+- Spennithorne
+- Sproxton
+- Starbotton
+- Tank Road
+- Threshfield
+- Tunstall Road
+- Uppleby
+- Wass
+- West Burton
+- Whipperdale
+people:
+- Daniel Martino
+organisations:
+- Yorkshire
 ---
 
 # Tour of Britain 2026 Cycle Race: When and where are the road closures across Yorkshire ahead of the cycle race this weekend?

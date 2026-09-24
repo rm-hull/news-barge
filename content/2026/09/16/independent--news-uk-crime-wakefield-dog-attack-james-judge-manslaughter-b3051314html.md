@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Blacker Lane
+- Calder Grove
+- Horbury
+- Leeds Crown Court
+- Leeds General Infirmary
+- Wakefield
+people:
+- James Judge
+- Lee Ellis
+- Oliver Longstaff
+- Rob Fones
+- Tom Bayliss KC
+organisations:
+- West Yorkshire Police
 ---
 
 The male owner of a dog which fatally bit another man following an argument about “right of way” has denied manslaughter.

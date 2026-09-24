@@ -11,6 +11,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Canada
+- Great Lake
+- Lake America
+- Lake Ontario
+- U.S.
+- US
+people:
+- Doug Burgum
+- Doug Ford
+- MapQuest
+- Mark Carney
+- Pete Hegseth
+- Scott Bessent
+- Trump
+organisations:
+- Apple Maps
+- Confederation of Canada
+- Declaration of Independence of the United States of America
+- Fox News
+- Google Maps
+- Interior
+- Lake Ontario
+- The Independent
+- Treasury
+- Trump
+- Truth Social
+- U.S. Geographic Names Information System
 ---
 
 President Trump is celebrating that major tech companies have updated their mapping apps in line with his move to rename Lake Ontario to Lake America as part of the administration’s ongoing trade war with Canada.

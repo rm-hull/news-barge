@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Chelsea
+- Kensington
+- London
+people:
+- Gary Glitter
+- Paul Gadd
+- Tony Baumgartner
+organisations:
+- Cardiff International Arena
+- Channing Wood
+- HMP
+- Metropolitan Police
+- Recorder of Westminster
+- Southwark Crown Court
 ---
 
 Ex-pop star Gary Glitter has pleaded not guilty to eight allegations of sexual abuse against a girl when she was aged between eight and 11.

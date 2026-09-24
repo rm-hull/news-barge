@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1237
+- Knapton
+- Moor Lane Bridleway
+- Rufforth
+- Rural West York
+- York Community Woodland
+people:
+- Anne Hook
+- Cllr Emilie Knight
+- Cllr Hook
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- City of York Council
+- Labour Transport
+- Liberal Democrat
+- York Community Woodland
 ---
 
 WALKERS, cyclists and others using a York underpass have had to traverse a large pool of stagnant water, with works to planned to address it.

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- A19
+- Blackhall Colliery
+- County Durham
+- Ninth Street
+people:
+- Andrew Lee
+- Richard Clews
+organisations:
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

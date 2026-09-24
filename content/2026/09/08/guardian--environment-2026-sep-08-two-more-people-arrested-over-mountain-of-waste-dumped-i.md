@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A34
+- Ashford
+- England
+- Kidlington
+- Oxfordshire
+- River Cherwell
+- Stanwell
+- Surrey
+- Thames
+people:
+- Angela Eagle
+- Colin Chiverton
+organisations:
+- EA
+- Environment Agency
+- Treasury
 ---
 
 Two men have been arrested after fly-tippers dumped a “mountain of illegal waste”, stacked 10 metres high, in Oxfordshire.

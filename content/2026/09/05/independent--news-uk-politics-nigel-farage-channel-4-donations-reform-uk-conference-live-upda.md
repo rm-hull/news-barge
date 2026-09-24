@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/09/04/18/01M1PRGPN4CH42R64NFJYCCSTH
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- Birmingham’s National Exhibition Centre
+- France
+- UK
+- US
+people:
+- '## Farage'
+- Andy Burnham
+- Dan Jukes
+- Ihad
+- James Orr
+- John Rentoul
+- Jordan Bardella
+- Katherine
+- Lee Anderson
+- Nigel Farage
+- Nigel Farage Nigel Farage
+organisations:
+- Apache
+- Bardella
+- British Army
+- Channel 4
+- Channel 4 News
+- Climate Resistance
+- House of Lords
+- Le Pen
+- Press Association
+- Reform UK
+- The Times.
 ---
 
 Nigel Farage has vowed not to be “distracted” by “a highly co-ordinated campaign of attacks” in his speech at the Reform UK conference.

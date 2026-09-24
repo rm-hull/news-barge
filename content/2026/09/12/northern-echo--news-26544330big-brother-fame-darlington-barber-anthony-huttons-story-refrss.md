@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Darlington
+- North East
+people:
+- Anthony Hutton
+- Eugene Sully
+organisations:
+- Barbers and Bar
+- ITV
 ---
 
 *(Image: Supplied)*

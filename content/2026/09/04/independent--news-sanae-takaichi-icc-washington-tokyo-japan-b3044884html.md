@@ -13,6 +13,25 @@ image: https://static.independent.co.uk/2026/08/26/13/Japan_Netherlands_ICC_8964
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- Gaza
+- Japan
+- Tokyo
+- U.S.
+- United States
+- Washington
+people:
+- Donald Trump
+- Gen Nakatani
+- Sanae Takaichi
+- Tomoko Akane
+organisations:
+- ICC
+- International Criminal Court
+- Liberal Democratic Party
+- Trump
+- United Nations' General Assembly
 ---
 
 A former Japanese defense minister on Friday described a U.S. decision to sanction the International Criminal Court and its Japanese president as an outright attack on the rules-based international order.

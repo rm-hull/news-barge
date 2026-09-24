@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/07/01/16/2199642717..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- Bangladesh
+- UK
+people:
+- Catherine Pettengell
+- Sarah Champion
+organisations:
+- Climate Action Network UK
+- El Niño
+- ICF
+- IDC
+- International Climate Finance
+- International Development Committee
+- The Independent
 ---
 
 The UK government is “cutting corners” on its commitments to provide climate aid, MPs have warned in a new report, just as __a record-breaking ‘super’ El Niño weather event__ begins to intensify extreme weather and humanitarian crises around the world.

@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- US
+people:
+- Caleb Knapp
+- Jacob Coxon
+- Jakub Pachocki
+- John Schulman
+- Nicholas Felstead
+organisations:
+- AI Policy Network
+- AI lab Thinking Machines
+- Anthropic
+- Australian Competition and Consumer Commission
+- Center for Law & AI Risk
+- Congress
+- House
+- Hugging Face
+- Judiciary Committee
+- Maxwell Zeff’sModel Behavior
+- OpenAI
+- Trump
+- WIRED
 ---
 
 OpenAI has asked members of Congress in recent weeks for clear guidance about whether orchestrating an industry-wide slowdown on frontier AI development would be legal, people close to the company tell WIRED.

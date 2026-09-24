@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arlington
+- Ground Zero
+- Lower Manhattan
+- Memorial Plaza
+- New York
+- New York City
+- New York Harbor
+- Pennsylvania
+- United States
+- Upper West Side
+- Virginia
+people:
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- George W Bush
+- Hillary Clinton
+- JD Vance
+- Jill Biden
+- Joe Biden
+- Zohran Mamdani
+organisations:
+- American Airlines
+- FDNY
+- National Park Service
+- Pentagon
+- United Airlines
+- World Trade Center
 ---
 
 The United States is marking the 25th anniversary of the September 11, 2001  terrorist attacks on Friday, with memorials and remembrance ceremonies taking place across the country to honor the nearly 3,000 people killed in the attacks.

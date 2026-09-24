@@ -14,6 +14,22 @@ categories:
 - Germany
 - News & Politics
 - Sports
+locations:
+- Berlin
+- Frankfurt
+- Germany
+- Liverpool
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+people:
+- Klopp
+organisations:
+- AfD
+- Alternative for Germany
+- Borussia Dortmund
+- Liverpool
+- Mainz
+- Premier League
 ---
 
 In a Frankfurt press conference announcing his first squad as Germany manager, the former Liverpool coach referenced a recent state election landslide win by the anti-immigration Alternative for Germany party.

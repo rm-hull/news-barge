@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea04/live/aae7f6c0-b788-11f1-b704-f3a72274a130.jpg
+locations:
+- Brixton
+- Inner London Crown Court
+- Queens Road
+- Waltham Forest
+people:
+- Robin Das
+organisations:
+- Bangladesh Premier League
+- Cricket Regulator
+- Dhaka Dominators
+- ECB
+- Essex County Cricket Club
+- Metropolitan Police
+- Middlesex
+- PCA
 ---
 
 ![Robin Das wearing a black cricket helmet, carrying a cricket bat and wearing a purple top](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ea04/live/aae7f6c0-b788-11f1-b704-f3a72274a130.jpg)

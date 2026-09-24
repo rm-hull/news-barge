@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Japan
+- Kyoto
+people:
+- Masayuki Minai
+- Mitsuya Kishida
+- Nidec
+- Shigenobu Nagamori
+- Yuri Kageyama
+organisations:
+- Kobe Steel
+- Mitsubishi Motors Corp
+- Nidec Corp
+- Toray
 ---
 
 Scandal-ridden Japanese motor maker Nidec Corp. released Friday the findings of a company investigation that found 844 cases of misconduct related to quality controls spanning the last decade.

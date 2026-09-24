@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Self-Improvement
+locations: []
+people: []
+organisations:
+- AI
+- ANZ at OneTrust
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Baildon
+- Bradford
+- Hullabaloo
+- Shipley
+- Westgate
+people:
+- Beth
+- Mike Simmonds
+- Nathan High
+organisations:
+- '## Pub'
+- Facebook
+- Newsquest
+- Reconnection Shipley
+- Telegraph & Argus
+- The Junction
 ---
 
 *(Image: Newsquest/Mike Simmonds)*

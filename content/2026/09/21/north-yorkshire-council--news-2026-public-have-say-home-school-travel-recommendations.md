@@ -15,6 +15,22 @@ categories:
 - Government
 - Society & Culture
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/School%20minibus%20photograph.jpg
+locations:
+- Buttertubs Pass
+- England
+- Fleet Moss Road
+- Keld
+- Kidstone Pass
+- Kirkby Stephen
+- North Yorkshire
+- The Stang
+people:
+- Cllr Annabel Wilkinson
+organisations:
+- Outwood Academy
+- Richmond School
+- Ripon Grammar School
+- St Francis Xavier School
 ---
 
 ![minibus](https://www.northyorks.gov.uk/sites/default/files/2026-09/School%20minibus%20photograph.jpg)

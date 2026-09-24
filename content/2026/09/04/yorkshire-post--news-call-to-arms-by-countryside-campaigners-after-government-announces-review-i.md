@@ -15,6 +15,24 @@ categories:
 - York
 - Sports
 - News & Politics
+locations:
+- France
+- Jane Barlow
+- Natural England
+- PA
+- Spain
+- UK
+people:
+- Baroness Hayman
+- Ian Bell
+- Justice Ritchie
+organisations:
+- BASC
+- Countryside Alliance
+- Defra
+- High Court
+- Natural England
+- Special Protection Areas
 ---
 
 # Call to arms by countryside campaigners after government announces review into shooting gamebirds

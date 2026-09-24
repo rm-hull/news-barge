@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- County Durham
+- Front Street
+- Pelton
+people:
+- LOUISE
+- Louise
+organisations:
+- Durham Police
+- Facebook
+- Middlesbrough
+- Northern Echo
 ---
 
 *(Image: LOUISE)*

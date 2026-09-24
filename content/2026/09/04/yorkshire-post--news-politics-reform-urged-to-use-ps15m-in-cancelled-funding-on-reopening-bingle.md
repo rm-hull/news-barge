@@ -14,6 +14,26 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bingley Pool
+- Bingley West
+- Bradford Royal Infirmary
+- Covid
+- Shipley
+- Squire Lane Leisure Centre
+people:
+- Anna Dixon
+- Geoff Winnard
+- Ms Dixon
+organisations:
+- Bingley Pool
+- 'Bingley Pool ##'
+- Bradford Council
+- Labour
+- Ministry of Housing, Communities and Local Government
+- Reform
+- Reform-run Bradford Council
+- Shipley
 ---
 
 # Reform urged to use £15m in cancelled funding on reopening Bingley Pool

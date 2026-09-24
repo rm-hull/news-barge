@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- China
+- Gyirong
+- India
+- Nepal
+- Shanti Bazar
+- Tamang
+- Tibet
+- Trishuli RIver
+- Trishuli River
+people:
+- Itha Ghale
+- Justin Rowlatt
+- Pemba Dundu Tamang
+- Raja Ram Basnet
+organisations:
+- AFP
+- Asian Mountain Academic Alliance
+- BBC
+- Institute of Mountain Hazards and Environment
+- Stimson Centre and China
 ---
 
 Pemba Dundu Tamang tells the BBC how he discovered some of his colleagues were missing after he escaped a flooded tunnel

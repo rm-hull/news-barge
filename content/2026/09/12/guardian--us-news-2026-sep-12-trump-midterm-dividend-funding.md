@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Dallas
+- Texas
+- US
+- White House
+people:
+- Donald Trump
+- Howard Lutnick
+- Kevin Hassett
+organisations:
+- Associated Press
+- Bloomberg TV
+- Congress
+- Intel
+- JD Vance
+- NBC News
+- National Economic Council
+- Tax Foundation
+- Trump
 ---
 
 Donald Trump’s controversial proposal to give a $5,000 “dividend” to all US adults if Republicans maintain control of Congress in November’s elections would not be paid out from US tax revenues, according to the US commerce secretary, Howard Lutnick.

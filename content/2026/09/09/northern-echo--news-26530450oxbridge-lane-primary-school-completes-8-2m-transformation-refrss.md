@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- Darlington station
+- Oxbridge Lane
+- Stockton
+- YOUR
+people:
+- Clare Besford
+- Jeremy Marley
+- Lauren Amerigo
+organisations:
+- Brims Construction Ltd
+- Dragon's Den
+- Oxbridge Lane Primary
+- Oxbridge Lane Primary School
+- Public Notice Portal
+- Stockton Borough Council
+- Stockton-on-Tees Borough Council
 ---
 
 ### What is the Public Notice Portal?

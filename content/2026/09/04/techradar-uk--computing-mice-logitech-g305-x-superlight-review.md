@@ -11,6 +11,18 @@ description: Logitech’s budget-friendly gaming mouse cuts the weight without l
 image: https://cdn.mos.cms.futurecdn.net/ADkpaj7qKNNYasDfAHJrtj-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Lewis Maddison
+organisations:
+- BHOP
+- Discord
+- HUB
+- Logitech
+- OBS
+- Streamlabs Desktop
+- TechRadar Pro
+- USB
 ---
 
 ### TechRadar Verdict

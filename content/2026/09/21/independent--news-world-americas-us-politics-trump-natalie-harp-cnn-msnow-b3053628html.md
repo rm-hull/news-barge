@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/08/06/2293006188..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Harp
+- Iran
+- Turkey
+- United States of America
+- White House
+people:
+- Donald Trump
+- Natalie Harp
+- Stephen Miller
+- Susie Wiles
+organisations:
+- Air Force One
+- CNN
+- FAKE NEWS
+- Free Press
+- Journal
+- MSNOW
+- National Security
+- Politico
+- The Independent
+- The New York Times
+- The Washington Post.
+- Trump
+- Truth Social
+- Wall Street Journal.
+- Zeteo
 ---
 
 President Donald Trump’s decision to ban news outlets from the White House reportedly came hours after he was shown unflattering and critical clips by Natalie Harp, one of his closest aides known for putting news reports about his administration in front of him.

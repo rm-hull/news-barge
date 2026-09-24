@@ -10,6 +10,44 @@ image: https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bay Area
+- Berlin
+- Europe
+- King's Cross
+- London
+- Munich
+- Paris
+- Sand Hill Road
+- Silicon Valley
+- Stockholm
+- US
+- United States
+people:
+- Piotr Dąbkowski
+organisations:
+- Alan Turing Institute
+- American AI
+- Anthropic
+- Bolt and Starship Technologies
+- ElevenLabs
+- Entrepreneur First
+- Future plc
+- Google DeepMind
+- Imperial College London
+- LinkedIn
+- Lovable
+- Microsoft AI
+- Omnea
+- OpenAI
+- Palantir
+- PayPal Mafia
+- Skype
+- TechRadar Pro
+- TechRadarPro
+- Tessian
+- Wise
+- YouTube
 ---
 
 ![Man coding programmer, software developer working on digital tablet with binary, html computer code on virtual screen](https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc.jpg) 

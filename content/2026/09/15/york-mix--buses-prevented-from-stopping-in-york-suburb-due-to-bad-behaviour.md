@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Chapelfields
+- Westfield
+- York
+people: []
+organisations:
+- ASB
+- First Bus
+- North Yorkshire Police
+- Police.uk
 ---
 
 Buses were prevented from stopping in a York suburb last night (Monday) due to youths causing trouble.

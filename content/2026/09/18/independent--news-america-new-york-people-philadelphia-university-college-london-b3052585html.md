@@ -12,6 +12,31 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- America
+- Gray
+- Philadelphia
+- U.S.
+people:
+- Benjamin Rush
+- Charles Ponzi
+- Charles Stanley
+- Clark Stanley
+- Jonathan Fahey
+- Jr.
+- Lydia Kang
+- Rattlesnake King
+- Robert F. Kennedy
+- Tali Sharot
+organisations:
+- AP Fund for Journalism
+- Associated Press’
+- Declaration of Independence
+- Quackery
+- The Associated Press
+- U.S. Bureau of Chemistry
+- University College London
+- University of Nebraska Medical Center
 ---
 
 America: land of possibility. And also: land of suckers.

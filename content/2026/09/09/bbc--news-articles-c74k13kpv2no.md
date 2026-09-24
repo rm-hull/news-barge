@@ -11,6 +11,19 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc45/live/4c0ffd
 categories:
 - UK
 - News & Politics
+locations:
+- Massachusetts
+- Plymouth County Superior Court
+- US
+people:
+- Elyse Hershon
+- Kevin Reddington
+- Lindsay Clancy
+- William Sullivan
+organisations:
+- BBC
+- Boston NBC
+- NBC10
 ---
 
 Inside court as judge declares a mistrial in Lindsay Clancy case

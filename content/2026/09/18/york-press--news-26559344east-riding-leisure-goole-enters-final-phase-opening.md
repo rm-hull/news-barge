@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- East Riding Leisure Goole
+- East Yorkshire
+- Salt and Pepper Playport
+- United States
+- YOUR
+people:
+- Nick Coultish
+- Willmott Dixon
+organisations:
+- East Riding Leisure Goole
+- East Riding of Yorkshire Council
+- Goole Town Deal
+- Public Notice Portal
 ---
 
 *(Image: Supplied)*

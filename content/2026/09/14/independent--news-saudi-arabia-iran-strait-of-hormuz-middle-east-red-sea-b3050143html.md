@@ -11,6 +11,50 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Africa
+- Asia
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Cairo
+- East-West
+- Egypt
+- Europe
+- Indonesia
+- Iran
+- Iraq
+- Israel
+- Lebanon
+- Mediterranean
+- Middle East
+- New York
+- Nigeria
+- North Carolina
+- Persian Gulf
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Tehran
+- U.S.
+- Yanbu
+- Yemen
+people:
+- Janiv Shah
+- Salvatore Mercogliano
+- Samy Magdy
+- ____ Anderson
+organisations:
+- AAA
+- Associated Press
+- Campbell University
+- Global Petrol Prices
+- IEA
+- International Energy Agency
+- Lloyd’s List Intelligence
+- Melius Research
+- Rystad Energy
+- The Associated Press
 ---
 
 Saudi Arabia's closure of a major oil pipeline after a recent attack is raising fears that global energy markets in crisis because of the war with Iran could face even starker shortages, pushing prices higher for fuel and other essentials.

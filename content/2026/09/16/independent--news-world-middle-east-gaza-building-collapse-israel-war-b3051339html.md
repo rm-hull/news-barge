@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Egypt
+- Gaza City
+- Israel
+people:
+- Alessandro Mrakic
+- Dahshan
+- Mahmoud Basal
+- Raed Al-Dahshan
+organisations:
+- Civil Defence
+- Hamas
+- Palestinian Civil Defence
+- Reuters
+- UN Development Programme
+- United Nations
 ---
 
 At least 21 people, including eight children, have been killed after a war-damaged apartment building collapsed in Gaza overnight.

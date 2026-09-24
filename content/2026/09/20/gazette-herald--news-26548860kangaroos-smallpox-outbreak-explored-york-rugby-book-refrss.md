@@ -13,6 +13,35 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21124285.jpg?type=og-image&xType=0&yType=169
+locations:
+- Bradford
+- England
+- Lancashire
+- Leeds
+- Rowntrees
+- Wigan
+- York
+people:
+- Applegarth
+- Georges Carpentier
+- Ian Lockwood
+- Lucy Worsley
+- Ted Peate
+- York
+organisations:
+- Australia
+- Bradford
+- Craven Herald
+- History of York RL Club
+- Leeds
+- St Peter's School
+- The History of York RL Club
+- The Press
+- York Evening Press
+- York Herald
+- York Knights
+- York Rugby
+- Yorkshire Gazette
 ---
 
 Former sports journalist at The Press and author Ian Lockwood has released a book detailing the early history of rugby league in York which covers everything from an outbreak of smallpox, a touring Australian side complete with a real kangaroo and the founding figures of the sport in the city.

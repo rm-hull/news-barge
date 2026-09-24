@@ -10,6 +10,22 @@ description: The investigation was launched just a few hours after Tesla put the
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- Austin
+- Las Vegas
+- Texas
+people:
+- Zoox
+organisations:
+- Cybercab
+- Department of Transportation
+- FMVSS
+- Federal Motor Vehicle Safety Standards
+- NHTSA
+- National Highway Traffic Safety Administration
+- Tesla
+- United States’
+- Zoox
 ---
 
 The United States’ top automotive safety regulator has opened an investigation into Tesla’s decision to launch its new Cybercab on public roads with no steering wheel or pedals.

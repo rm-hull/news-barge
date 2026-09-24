@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- Saint Sophia Cathedral
+- Sophia Square
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Illia Dyadik
+- Jared Kushner
+- Serhii Beskrestnov
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yuri Ushakov
+organisations:
+- Guardian
+- Kushner
+- Kyiv
+- Witkoff
 ---
 
 The US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of talks on how to end the war in Ukraine.

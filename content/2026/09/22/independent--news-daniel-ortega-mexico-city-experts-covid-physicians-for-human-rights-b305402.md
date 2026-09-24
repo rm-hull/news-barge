@@ -14,6 +14,21 @@ categories:
 - Society & Culture
 - Personal Finance & Investing
 image: null
+locations:
+- Nicaragua
+people:
+- Brooklyn Rivera
+- Carlos Cárdenas Zepeda
+- Daniel Ortega
+- Hugo Torres
+- Humberto Ortega
+- Jan-Michael Simon
+- Rosario Murillo
+organisations:
+- Human Rights Experts
+- Physicians for Human Rights
+- U.N
+- U.N.
 ---
 
 The Nicaraguan government is responsible for at least eight deaths in custody since it began its crackdown on dissent and assault of democratic institutions in 2018, U.N. experts said Tuesday.

@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Crag Road
+- Shipley
+- UGC
+people: []
+organisations:
+- Bradford CID
 ---
 
 *(Image: UGC)*

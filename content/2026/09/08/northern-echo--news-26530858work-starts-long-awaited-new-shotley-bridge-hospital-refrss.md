@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Consett
+- County Durham
+- Derwent View
+- New Bishop Auckland
+- Shotley Bridge
+- Shotley Bridge Hospital
+- YOUR
+people:
+- Liz Twist
+- Matt Graham
+- Wes Streeting
+organisations:
+- Blaydon
+- Consett
+- Darlington NHS Foundation Trust
+- Durham A&E
+- Government
+- NHS England
+- New Hospital Programme
+- Public Notice Portal
+- Wave 1
 ---
 
 *(Image: NHS)*

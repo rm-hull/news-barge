@@ -12,6 +12,32 @@ image: https://images.euronews.com/articles/stories/09/91/12/24/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Bundeswehr
+- Germany
+- Haifa
+- Sangerhausen
+- Saxony-Anhalt
+- Ulm
+people:
+- Fabio De Masi
+- Katja Pähle
+- Torsten Schweiger
+- Ulrich Siegmund
+organisations:
+- AfD
+- BSW
+- Bundeswehr
+- CDU
+- Christian Democratic Party
+- Elbit Systems
+- Euronews Berlin
+- Greens
+- Left Party
+- SPD
+- Skylark
+- Social Democratic Party
+- The Sahra Wagenknecht Alliance
 ---
 
 **Euronews Berlin**

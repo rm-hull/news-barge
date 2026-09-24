@@ -13,6 +13,35 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- China
+- Singapore
+- Southeast Asia
+- U.S.
+- United Kingdom
+people:
+- Donald Trump
+- Kenneth Kelly
+- Rebecca Keithley
+organisations:
+- AP
+- American Bankers Association
+- Associated Press
+- Congress
+- European Union
+- FBI Financial Crimes Section
+- FRONTLINE
+- FTC
+- Federal Trade Commission
+- Government Accountability Office
+- IRS
+- Justice Department
+- PBS
+- The Associated Press
+- The Associated Press-NORC Center for Public Affairs Research
+- Treasury
+- Trump
 ---
 
 Scams in the U.S. have surged to a record high, and most people have been targeted. Americans reported a record $15.9 billion in losses last year to the Federal Trade Commission — a 25% increase from 2024, and likely a huge undercount. The FTC estimates that real losses in 2024 were close to $200 billion, or about $550 million every day.

@@ -14,6 +14,77 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- City
+- Europe
+- Iran
+- Jizan
+- Main Street
+- Middle East
+- Oman
+- Saudi Arabia
+- South Africa
+- Strait of Hormuz
+- UK
+- US
+- Yemen
+people:
+- AchilleasGeorgolopoulos
+- Andrew Bailey
+- Bill Dunkelberg
+- Brexit
+- CostasMilas
+- Dario Perkins
+- HeidiAlexander
+- John Healey
+- JohnHealey
+- Liz Truss
+- Maggie Simpson
+- Matthew Amis
+- Michael Ellington
+- Neil Wilson
+- Philip Scott
+- Ryland Thomas
+- ShreeramAradhye
+- Simon French
+- Édouard-Marcel Sandoz
+organisations:
+- AI
+- Aberdeen Investments
+- Aramco
+- Bank of England
+- BoE Staff Working Paper
+- Brent
+- Brexit
+- Ciba-Geigy
+- Department for Transport
+- Financial Times Alphaville
+- Foundation
+- GBR
+- GSP
+- Great British Railways
+- House of Lords
+- Liverpool University
+- MPC
+- Management School
+- Moneyfacts
+- NFIB
+- Novartis
+- Panmure Liberum
+- RBC
+- RailFreightGroup
+- Reuters
+- Sandoz
+- SaxoUK
+- Senate
+- TS Lombard
+- TradingPoint
+- Treasury
+- Trojan Horse
+- Trump
+- UK’s Debt Management Office
+- UniversityofLiverpool
+- Walker Morris
 ---
 
 UK pays highest borrowing rate since 1998 in 30-year bond sale

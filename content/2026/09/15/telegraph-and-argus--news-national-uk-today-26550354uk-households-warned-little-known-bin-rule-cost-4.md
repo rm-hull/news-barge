@@ -12,6 +12,11 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- UK
+people: []
+organisations:
+- Wheeldon Brothers
 ---
 
 *(Image: Getty)*

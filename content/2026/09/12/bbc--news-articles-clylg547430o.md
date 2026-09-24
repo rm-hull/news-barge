@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Harborne
+- Scotland Yard
+- Turkey
+- UK
+- US
+people:
+- Ben Delo
+- Christopher Harborne
+- Farage
+- Jeremy Clarkson
+- Jezza
+- Kyle Taylor
+- Lisa Hogan
+- Nigel
+organisations:
+- Daily Mail
+- Fair Vote UK
+- Labour
+- Observer
+- Reform UK
+- Sun
+- Sunday Express
+- Sunday Telegraph
+- Sunday Times
+- The Sunday Mirror
 ---
 
 ![The headline on the front page of the Mail on Sunday reads: “Farage: £72m war chest will ready us for No 10”.](https://ichef.bbci.co.uk/ace/standard/810/cpsprodpb/831f/live/2c318100-aeed-11f1-a540-61c3f7fc4e6c.jpg)

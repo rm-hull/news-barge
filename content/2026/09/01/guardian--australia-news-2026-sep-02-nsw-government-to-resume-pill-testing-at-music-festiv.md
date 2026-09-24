@@ -12,6 +12,22 @@ image: https://i.guim.co.uk/img/media/a12c4fe332917451ab6f022ca42257fce57c104c/1
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- NSW
+- New South Wales
+- Victoria
+people:
+- Chris Minns
+- Ryan Park
+- Will Tregoning
+organisations:
+- ACT
+- Alcohol and Drug Foundation
+- NSW Health
+- Royal Australian College of General Practitioners
+- Unharm
+- University of Sydney
 ---
 
 Drug testing will resume at New South Wales music festivals from October, but will not be rolled out into the wider community despite calls from peak health and harm reduction groups, while the controversial use of sniffer dogs and searches will continue.

@@ -13,6 +13,33 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Calderdale
+- Carlisle Road
+- Church Street
+- Cross Road
+- Toller Lane
+- Toucan
+- West Yorkshire
+- Whetley Hill
+- Whetley Lane
+- YOUR
+people:
+- Cllr Eglin
+- Green
+- Ian Eglin
+- Martin Hey
+- Ralph Cohn
+- Sarah Courtney
+organisations:
+- Airedale
+- Baildon
+- Council’s Reform UK Executive
+- Hebden Bridge
+- Lab
+- Public Notice Portal
+- West Yorkshire Combined Authority’s Investment Committee
 ---
 
 *(Image: T&A)*

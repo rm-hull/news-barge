@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Bettys Harrogate
+- Yorkshire
+people:
+- Liz Thwaite
+- Nicky Sellers
+organisations:
+- Bettys Café Tea Rooms
+- Bettys Harlow Carr
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
+- Yorkshire
 ---
 
 Bettys Café Tea Rooms at RHS Garden Harlow Carr will temporarily close for a refresh from 7 September.

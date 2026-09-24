@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Acomb
+- Britain
+- Galsworthy Close
+- London
+- North Yorkshire
+- Old Bailey
+- Russia
+- Salisbury
+- Swindon
+- UK
+- York
+people:
+- Daniel Sternberg
+- Joshua Cammidge
+- Sergei Skripal
+- Warren Stanier
+organisations:
+- Cammidge
+- Counter Terrorism Policing London
+- Facebook
+- GRU Volunteer Corps
+- Google Maps
+- Government
+- Metropolitan Police
+- National Security (State Threats
+- Telegram
+- Westminster Magistrates’ Court
+- Wiltshire Police
 ---
 
 *(Image: Police)*

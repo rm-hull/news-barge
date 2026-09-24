@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Brae House
+- China
+- Edinburgh
+- Glasgow
+- Kelso
+- London
+- Pakistan
+- Scotland
+- Scottish Borders
+- UK
+people:
+- Aditi Jehangir
+- John Boyle
+- Lara Reader
+- Richard Ward
+- Saba
+- StuRents' Richard Ward
+organisations:
+- BBC
+- Edinburgh University
+- HESA
+- Higher Education Statistics Agency
+- Lara Reader
+- Living Rent Edinburgh
+- PBSA
+- PBSAs
+- Rettie
+- Saba
+- StuRents
+- University of Edinburgh
 ---
 
 ![Lara wearing glasses and a light-coloured zip-up fleece standing outdoors beneath leafy trees, with stone terraced buildings and parked cars visible in the background.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bfd9/live/1b38fcb0-b1e6-11f1-ac01-a9af2f94b2cc.jpg)

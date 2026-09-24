@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Dollywood
+- Nashville
+- Tennessee
+people:
+- Alejandro Ramos
+- Bill Lee
+- Dolly Parton
+- Freddie O’Connell
+organisations:
+- Imagination Library
+- Metropolitan Nashville Airport Authority
+- Smoky Mountain
+- Tennessean
 ---
 
 The Nashville airport is to be renamed after Dolly Parton, a board of commissioners voted on Friday, in tribute to the Smoky Mountain singer who is estimated to bring $1.8bn each year to Tennessee through her Dollywood theme park.

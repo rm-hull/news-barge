@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Technology & Software
 - Film & TV
+locations:
+- Coronation Street
+- UK
+people:
+- Player
+organisations:
+- BBC
+- EastEnders
+- Freeview
+- Lucky Cat TV
+- TV MCR
 ---
 
 *(Image: Getty Images/Freeview)*

@@ -12,6 +12,81 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/0a86e62e02b8d5bbaa2a0bdef510c0d7989a4faa/259_0_1491_1194/master/1491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=993b2bb1cc4aa39042db7e2ac7cc5d90
+locations:
+- Beijing
+- Caribbean
+- China
+- Cuba
+- Greenland
+- Iran
+- Joint Base Andrews
+- Kingdom of Denmark
+- Latin America
+- Maryland
+- Mexico
+- Middle East
+- Pacific
+- Russia
+- Soviet Union
+- Strait of Hormuz
+- US
+- Ukraine
+- United States
+- Washington
+- White House
+people:
+- António Guterres
+- Bernie Sanders
+- Cai Qi
+- Donald Trump
+- Greg Casar
+- Hell
+- JD Vance
+- Jared Kushner
+- Jeff Bezos
+- Jens-Frederick Nielsen
+- Jensen Huang
+- Mark Zuckerberg
+- Masoud Pezeshkian
+- Mehmet Oz
+- Nicólas Maduro
+- Peng Liyuan
+- Sam Altman
+- Simon Hankinson
+- Steve Witkoff
+- Sundar Pichai
+- Tim Cook
+- Tressa Rae Finerty
+- Volodymyr Zelenskyy
+- Wang Yi
+- Xi Jinping
+organisations:
+- AI
+- AP
+- Amazon
+- Apple
+- Associated Press
+- CCTV
+- CNN
+- Centers for Medicare and Medicaid Services
+- Congress
+- Department of Artificial Intelligence
+- Department of Justice
+- Elon Musk of Tesla
+- General Assembly
+- MS Now
+- Meta
+- Nato
+- Nvidia
+- OpenAI
+- Politico
+- Reuters
+- State Department
+- Trump
+- Truth Social
+- UN Security Council
+- UNHCR
+- United Nations
 ---
 
 Trump to meet with China's Xi as Congress mulls bill banning artificial superintelligence

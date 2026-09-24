@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4567/live/cc2b1e00-b73a-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Backa Topola
+- Debrecen
+- Dublin
+- Gaza
+- Hungary
+- Israel
+- Kosovo
+- Pristina
+- Republic of Ireland
+people:
+- Dara O'Shea
+- Heimir Hallgrimmson
+- Heimir Hallgrimsson
+- Icelander
+- Micheal Martin
+- Nathan Collins
+organisations:
+- FAI
+- Football Association of Ireland
+- Government
+- Hallgrimsson
+- Hamas
+- Ipswich
+- Irish Sport for Palestine Group
+- Israel FA
+- Republic of Ireland
+- Uefa
+- United Nations
 ---
 
 ![Dara O'Shea pictured during Wednesday's news conference in Pristina](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4567/live/cc2b1e00-b73a-11f1-aa9c-3d062fa3aea7.jpg)

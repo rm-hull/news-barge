@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- Ali Taher Ridge
+- Beirut
+- Iran
+- Israel
+- Lebanon
+- Lebanon.
+- London
+- Mansouri
+- Nabatieh al-Fawqa
+- Saida
+- Tyre
+- US
+people:
+- Ahamed
+- Ghaith Solh
+- Raffi Berg
+- Samantha Granville
+organisations:
+- BBC
+- Badr
+- Hezbollah
+- IDF
+- Israel Defense Forces
+- MTV
+- Telegram
+- US Geological Survey
 ---
 
 ![Huge flames and pillars of smoke rise from the ground in a night-time picture](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg)

@@ -12,6 +12,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=120
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Fred Shentu
+- Philipp Wu
+organisations:
+- 8VC
+- ABC
+- AI Research
+- Andreessen Horowitz
+- CEO
+- CTO
+- GELLO
+- Lux
+- Mecka AI
+- Spark Capital
+- TechCrunch
+- Thrive Capital
+- UC Berkeley
+- XDOF
 ---
 
 Less than three months after emerging from stealth, XDOF, a startup that collects real-world teleoperation data for training general-purpose robots, is in late-stage talks to raise a Series B at a valuation of about $1.2 billion valuation led by 8VC, several people with knowledge of the deal said.

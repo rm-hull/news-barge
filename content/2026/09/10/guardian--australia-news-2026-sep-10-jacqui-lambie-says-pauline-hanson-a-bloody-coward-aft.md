@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Afghanistan
+- Australia
+people:
+- '**“** I'
+- Andrew Hastie
+- Angus Taylor
+- Barnaby Joyce
+- Ben Roberts-Smith
+- David Shoebridge
+- Gina Rinehart
+- Jacqui Lambie
+- James Ashby
+- James Paterson
+- Pauline Hanson
+organisations:
+- ABC
+- ADF
+- Greens
+- Liberal
+- Nationals
+- News24
+- One Nation
+- Rinehart
+- SAS
+- The Nightly
+- Victoria Cross
 ---
 
 Jacqui Lambie has accused Pauline Hanson of being a “coward” for a One Nation cartoon calling the Liberal frontbencher Andrew Hastie a traitor, amid a growing spat between the One Nation leader and the former SAS captain.

@@ -13,6 +13,69 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Beachside Café’
+- Brazil
+- Bridgerton
+- Darlington
+- JULIE HUNT
+- Manchester
+- Milton Street
+- Saltburn
+- Station Square
+people:
+- Aladdin
+- Alan Bates
+- Arnim Zola
+- Ben Gregor
+- Brassic
+- Carmen Ejogo
+- Christine Tremarco
+- Clarke Peters
+- Danny Brocklehurst
+- Dobby
+- Dominic West
+- Gabriel Silver
+- Harry Potter
+- Imelda Staunton
+- Josh Finan
+- Michael Socha
+- Naomi Scott
+- Nicola Coughlan
+- PETER JOSEPH
+- PETER JOSEPH)* Jones
+- Penny Palace’
+- Roald Dahl
+- Runyararo Mapfumo
+- Sarah Lewis
+- Suzanne Mackie
+- Toby Jones
+- Zoltar
+organisations:
+- Adolescence
+- Brassic
+- Chernobyl
+- Derry Girls
+- Facebook
+- Fool Me Once
+- Gangs of London
+- KAOS
+- Keith’s Sports
+- Netflix
+- Orchid Pictures
+- Roald Dahl
+- Say Nothing
+- Sex Education
+- The Boroughs
+- The Boys
+- The Cage
+- The Crown
+- The Forsytes
+- The Long Shadow
+- The Magic Faraway Tree
+- The Post Office
+- The Wire
+- Waterloo Road
 ---
 
 *(Image: JULIE HUNT)*

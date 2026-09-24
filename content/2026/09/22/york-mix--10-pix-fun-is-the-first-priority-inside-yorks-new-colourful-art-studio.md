@@ -11,6 +11,17 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/meowcraft-art-studio-3.webp
+locations:
+- King’s Court
+- MeowCraft Studio
+- Shambles
+- York
+people:
+- Amber Thomas
+- Phoebe Lai
+organisations:
+- MeowCraft Studio
+- Shambles
 ---
 
 A new art studio has opened in York – where you can make your own cute and colourful creations.

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford West
+- Thornton Road
+- Thornton Road West Yorkshire
+- UK
+- West Yorkshire
+people: []
+organisations:
+- Bradford West
+- TOYOTA
+- Toyota
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

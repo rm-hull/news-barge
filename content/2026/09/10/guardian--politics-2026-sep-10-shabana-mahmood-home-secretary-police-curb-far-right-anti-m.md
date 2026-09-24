@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/19caae0a281523dd54589facbe33636c3230eda6/4
 categories:
 - UK
 - News & Politics
+locations:
+- Dorset
+- Dover
+- Eastney Marina
+- Hampshire
+- Kent
+- Poole
+- Portsmouth
+- Solent
+people:
+- Andy Mariner
+- Daniel Thomas
+- Shabana Mahmood
+organisations:
+- Home Office
+- Kent
+- Labour’s Crime and Policing Act
+- NPCC
+- Patriot Platform
+- RNLI College
 ---
 
 Shabana Mahmood has urged police to curb the activities of far-right, anti-migrant groups which have “obvious malign intent” after a weekend of chaos caused by balaclava-wearing vigilantes.

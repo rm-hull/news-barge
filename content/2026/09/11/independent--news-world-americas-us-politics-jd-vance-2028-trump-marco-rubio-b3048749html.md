@@ -11,6 +11,52 @@ image: https://static.independent.co.uk/2026/09/11/16/2026-09-09T142704Z_1225384
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Colombia
+- Dallas
+- Florida
+- Georgia
+- Ground Zero
+- Iran
+- New York
+- New York City
+- South America
+- Texas
+- U.S.
+- Venezuela
+- White House
+people:
+- Alexandria Ocasio-Cortez
+- Barack Obama
+- Bill Clinton
+- Charlie Kirk
+- Donald Trump
+- Gavin Newsom
+- George W. Bush
+- JD Vance
+- Joe Biden
+- Jon Ossoff
+- Kamala Harris
+- Marco Rubio
+- Natalie Harp
+- Nicolas Maduro
+- Pete Hegseth
+- Ted Cruz
+- Texas Sen
+- Usha Vance
+organisations:
+- Air Force One
+- American Airlines Center
+- GOP
+- House of Representatives
+- MAGA
+- NBC News
+- Pentagon
+- RCN
+- Reuters
+- Senate
+- VP
 ---
 
 As Vice President JD Vance positioned himself as President Donald Trump’s natural successor at the Republican midterms convention Thursday night, his principal rival, Secretary of State Marco Rubio, ruled himself out of the running.

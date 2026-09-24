@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Amazon
+- Britain
+- Diddly Squat Farm
+- Oxfordshire
+- PA
+people:
+- God
+- James May
+- Jeremy Clarkson
+- Kaleb Cooper
+- Lisa Hogan
+organisations:
+- Clarkson’s Farm
+- Farmer’s Dog
+- Hawkstone
+- The Mirror
 ---
 
 *(Image: Prime Video/PA)*

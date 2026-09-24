@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- England
+- South Pennines
+people:
+- Lyndon Marquis
+- Mick Lead
+- Mick Rhodes
+organisations:
+- WYFRS
+- West Yorkshire Fire and Rescue Service
+- Wildfire
+- Yorkshire Dales
+- Yorkshire Wildlife Trust
 ---
 
 AFTER Yorkshire endured another period of hot, dry weather, firefighters and conservationists are warning that most moorland fires are caused not by natural events, but by people.

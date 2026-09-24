@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- America
+- Belgium
+- Chester-le-Street
+- County Durham
+- Darlington
+- Freeman Hospital
+- Leeds
+- Newcastle
+- Newton Aycliffe
+- STUART BOULTON
+people:
+- Emma Hama Ameen
+- Oskar Hama Ameen
+- STUART BOULTON
+organisations:
+- Consett Rugby Club
+- ECG
+- GoFundMe
+- NHS
+- Overpass
+- Park View School
+- SVT
+- Supraventricular Tachycardia
+- Tesco
 ---
 
 A County Durham teen is having to sleep for up to 16 hours a day and is missing out on the sport he loves while waiting for life-changing heart surgery.

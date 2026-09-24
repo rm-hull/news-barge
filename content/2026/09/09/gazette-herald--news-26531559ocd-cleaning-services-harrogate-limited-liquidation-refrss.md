@@ -14,6 +14,19 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Harrogate
+- North Park Road
+- North Yorkshire
+people: []
+organisations:
+- '**__Chico'
+- FK Building Ltd of Harrogate
+- FRP Advisory Trading Limited of Stockton-on-Tees
+- HMRC
+- Harrogate Ltd
+- OCD Cleaning Services
+- Queensgate House
 ---
 
 *(Image: Street View)*

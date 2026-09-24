@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Boston
+- Germany
+people:
+- Rare
+organisations:
+- Atari ST
+- CTO
+- DoomPaint
+- GameStop
+- Get Tom's Hardware
+- MS Paint
+- Microsoft
 ---
 
 ![Donkey Kong 64: Recompiled](https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-320-80.png)

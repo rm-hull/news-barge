@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Darlington
+people:
+- Chantelle
+- Dale Morris
+- Kate Marshall
+- Lee Chatterton
+organisations:
+- Darlington College
+- Dragon's Den
+- Esh Group
 ---
 
 A new workshop in Darlington is helping students see how classroom subjects connect to career opportunities.

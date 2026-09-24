@@ -14,6 +14,36 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21230472.jpg?type=og-image
+locations:
+- England
+- North East
+- Northern Ireland
+- Ravenseat
+people:
+- Amanda Owen
+- Andy Burnham
+- Dale Vince
+- David Gauke
+- James Speakman
+- John Healey
+- Miles
+- Reuben
+organisations:
+- BBC Radio 4
+- Bank of England
+- Conservative Treasury
+- Government
+- HMRC
+- Honey Badger’
+- Labour
+- OBR
+- Office for Budget Responsibility
+- PA Wire
+- State Pension
+- State Pension Triple Lock
+- The Times
+- Triple Lock
+- Wales
 ---
 
 *(Image: James Speakman/The Times/PA Wire)*

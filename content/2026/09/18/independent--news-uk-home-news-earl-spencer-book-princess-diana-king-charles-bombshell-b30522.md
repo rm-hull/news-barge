@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Balmoral
+- Beachy Head
+- Buckingham Palace
+- Clarence House
+- East Sussex
+- England
+- Lord Mountbatten
+- UK
+- USA
+- Wales
+people:
+- '## Diana'
+- Charles’
+- Earl Spencer
+- Elizabeth II
+- Harry
+- King
+- Paul Costelloe
+- Robert Fellowes
+- William
+- then-Prince Charles
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Daily Mail
+- Duke of Edinburgh
+- Samaritans
+- Westminster Abbey
+- then-Prince of Wales
 ---
 
 Earl Spencer’s book about Princess Diana has shocked the nation before it has even hit shelves.

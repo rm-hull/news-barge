@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1079 Hull Road
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Kexaay Bridge
+- Kexby Bridge
+- Kexby Stray
+- Long Lane
+- York Road
+people:
+- Kate Ravilious
+organisations: []
 ---
 
 Road users are being warned that a key York road is soon to be hit by roadworks.

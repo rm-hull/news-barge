@@ -14,6 +14,39 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Belgorod
+- Black Sea
+- China
+- Crimea
+- Germany
+- Halle Airport
+- Iran
+- Kyiv
+- Kyrgyzstan
+- Leipzig
+- Lisbon
+- Moscow
+- North Korea
+- Odesa
+- Portugal
+- Russia
+- U.K.
+- U.S.
+- Ukraine
+people:
+- Alexander Shuvayev
+- Serhii Lysak
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- Institute for the Study of War
+- Kyiv
+- Odesa
+- Shanghai Cooperation Organization
+- ___ Hatton
 ---
 
 Russian aerial attacks struck apartment buildings in Ukraine's Kyiv and Odesa regions overnight and Wednesday morning, wounding at least eight civilians, local officials said. The Ukrainian air force said those two regions bore the brunt of the latest attacks on the country.

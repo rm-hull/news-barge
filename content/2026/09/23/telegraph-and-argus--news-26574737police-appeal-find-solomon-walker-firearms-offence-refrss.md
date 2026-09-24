@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491297.jpg?type=og-image
+locations:
+- Leeds
+- West Yorkshire
+people:
+- Solomon Walker
+organisations:
+- Crimestoppers
+- WYP
+- WYP)* Police
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

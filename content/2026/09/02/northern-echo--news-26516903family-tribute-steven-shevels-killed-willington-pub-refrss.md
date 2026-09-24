@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Queen's Head
+- Rockingham Road
+- Sunnybrow
+- Teesside Crown Court
+- Willington
+people:
+- Alfie Keane
+- Angela
+- Jonathan Carroll
+- Man
+- Martin Greensmith
+- Steven Shevels
+organisations:
+- CCTV
+- Durham Constabulary
+- Teesside Crown Court
 ---
 
 The family of man killed outside a County Durham pub on Christmas Eve by his own son have spoken of their heartbreak.

@@ -13,6 +13,315 @@ categories:
 - UK
 - Society & Culture
 - Music
+locations:
+- Afghanistan
+- Africa
+- Alabama
+- America
+- Britain
+- Broadway
+- Canada
+- Caribbean
+- China
+- Czechoslovakia
+- Dollywood
+- East Timor
+- Europe
+- France
+- Hawaii
+- Hollywood
+- India
+- Indonesia
+- Iran
+- Israel
+- Italy
+- Japan
+- Jurassic Park
+- Kansas
+- Los Angeles
+- Maryland
+- Montgomery
+- Moscow
+- Mount Everest
+- Nashville
+- Nelson Mandela
+- New York
+- Norway
+- Oregon
+- Persian Gulf
+- Qatar
+- Rio de Janeiro
+- Russia
+- Saigon
+- San Francisco
+- Schitt’s Creek
+- Scotland
+- Selma
+- South Carolina
+- Soviet Union
+- Tel Aviv
+- Tennessee
+- Texas
+- U.S. House
+- United States
+- White House
+- Woodstock
+- Yemen
+- Élysée Palace
+people:
+- Abdrabbuh Mansour Hadi
+- Abdul Ahad Momand
+- Abdullah Ibrahim
+- Abraham H. Foxman
+- Ahn Sung-ki
+- Alan Greenspan
+- Alan Osmond
+- Aldrich Ames
+- Alex Younger
+- Alex Zanardi
+- Alexander Butterfield
+- Alicia Keys
+- Ann Blyth
+- Ann Widdecombe
+- Arlene Smith
+- Arnold Schwarzenegger
+- Asha Bhosle
+- Ayatollah Ali Khamenei
+- Barney Frank
+- Ben Jones
+- Bernadette Chirac
+- Bernard LaFayette
+- Bill Clinton
+- Bill Mazeroski
+- Bill Oddie
+- Bill Rasmussen
+- Billy Boston
+- Bob Hall
+- Bob Packwood
+- Bob Weir
+- Bobby Cox
+- Bonnie Tyler
+- Brenda Fricker
+- Bridget Fagan Brown
+- Béla Tarr
+- Carlos Alberto Solari
+- Carlos Santana
+- Catherine O’Hara
+- Celine Dion
+- Chantels
+- Charles Gaines
+- Chuck Negron
+- Chuck Norris
+- Clarence Carter
+- Claude Lemieux
+- Claudette Colvin
+- Claudine Longet
+- Clive Davis
+- Cooter Davenport
+- Darrell “Dash” Crofts
+- Dave Mason
+- Daveigh Chase
+- David Allan Coe
+- David Clayton-Thomas
+- David Hockney
+- Demond Wilson
+- Diane Crump
+- Dilbert
+- Dolly Parton
+- Don Schlitz
+- Donald Trump
+- Doris Fisher
+- Eric Dane
+- Francisco Guterres
+- Frank Beard
+- Frank Sinatra
+- Frank-N-Furter
+- Frederick Wiseman
+- Garry Sobers
+- Gavin
+- Gene Shalit
+- George E. Johnson Sr.
+- George R. Ariyoshi
+- Gilberto Cárdenas
+- Glenn Close
+- Glenn Hall
+- Goalie
+- Gomer Pyle
+- Gunther von Hagens
+- Guy Scott
+- Hamad bin Khalifa Al Thani
+- Harald V
+- Harald V. Here
+- Hayden Panettiere
+- Holly Hunter
+- Howard Keel
+- J. Craig Venter
+- Jacques Chirac
+- James Tolkan
+- James Van Der Beek
+- Janis Joplin
+- Jason Collins
+- Jaye P. Morgan
+- Jean-Marie Le Pen
+- Jeremiah
+- Jerome Robbins
+- Jesse L. Jackson
+- Jim Colbert
+- Jim Seals
+- Jim Whittaker
+- Joan Crawford
+- Joe McDonald
+- John Forté
+- John Sterling
+- Johnny Unitas
+- Joni Lamb
+- Kaylee Hottle
+- Kennedy
+- Kermit Gosnell
+- Kozo Okamoto
+- Kyle Busch
+- Lamont
+- Lindsey Graham
+- Lionel Jospin
+- Lionel Rosenblatt
+- Lloyd Robertson
+- Lou Holtz
+- Macaulay Culkin
+- Marcia Lucas
+- Mario Lanza
+- Marjane Satrapi
+- Mark Fuhrman
+- Martha Lillard
+- Martin Luther King Jr.
+- Marty Krofft
+- Mary Beth Hurt
+- Michael Bambang Hartono
+- Mickey Lolich
+- Mildred Pierce
+- Minnie Fay
+- Moira Rose
+- Nancy Kassebaum Baker
+- Nathalie Baye
+- Ned Jarrett
+- Nedra Talley Ross
+- Neil Sedaka
+- Nelson Mandela
+- Nicholas Brendon
+- Nicholas Haysom
+- Oliver Tree
+- Oscar Schmidt
+- Ota Zaremba
+- Patricio Rey y sus Redonditos de Ricota
+- Peabo Bryson
+- Peter Cullen
+- Peter Pan
+- R. James Woolsey
+- Ratko Mladic
+- Raymond Berry
+- Regina Belle
+- Richard Nixon
+- Rick Adelman
+- Rob Base
+- Robert Carradine
+- Robert Duvall
+- Robert S. Mueller III
+- Ronettes
+- Ronnie Schell
+- Rosa Parks
+- Sam Neill
+- Sanford
+- Scott Adams
+- Scott Hastings
+- Sid Krofft
+- Simpson
+- Son
+- Sondra Lee
+- Sonny Rollins
+- Stephen Francis
+- Ted Turner
+- Tiger Lily
+- Tim Curry
+- Tim Reid
+- Tom Dreesen
+- Tommy John
+- Toshifumi Suzuki
+- Umberto Bossi
+- Valentino Garavani
+- Victor Willis
+- Vladimir “Spider” Sabich
+- Walker
+- Wally Funk
+- Watergate
+- Whitney Houston
+- William Foege
+- Willie Colón
+- Yayoi Kusama
+- Yohei Kono
+- Zhu Rongji
+- de guerre “Lu Olo
+organisations:
+- 7-Eleven
+- ALS
+- Aladdin
+- American Stock Exchange
+- Anti-Defamation League
+- Atlanta Braves
+- Baltimore
+- Basketball Hall of Fame
+- Basketball Hall of Famer
+- Broadway
+- CIA
+- CNN
+- CTV National News
+- Cabinet Room
+- Canadian TV
+- Civil Rights Movement
+- College Football Hall of Fame
+- Colts
+- DJ E-Z Rock
+- Daystar Television Network
+- Detroit Tigers
+- Disney
+- Djarum
+- ESPN
+- FBI
+- Foreign Service Officer
+- Fugees
+- Grey’s Anatomy
+- Hall of Fame
+- Hockey Hall of Famer
+- Irish Lions
+- Kentucky Derby
+- MGM
+- MI6
+- Major League Baseball
+- NASCAR
+- NBA
+- NFL
+- NHL
+- New York Giants
+- New York Yankees
+- Northern League
+- Notre Dame
+- O.J
+- Oval Office
+- Pittsburgh Pirates
+- Pufnstuf
+- Refugee Camp All-Stars
+- Secret Intelligence Service
+- Senate
+- Socialist Party
+- Sweat & Tears
+- Texas Ranger
+- The Bedford Reader
+- The Gap Inc
+- Titicut Follies
+- Traffic
+- U.K.’s
+- U.S. Federal Reserve
+- Village People
+- World Trade Organization
+- ZZ Top
 ---
 
 Country music icon Dolly Parton was the rare celebrity whose popularity transcended generations and politics.

@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Athlos
+- Botswana
+- Britain
+- Brussels
+- Budapest
+- Georgia
+- Hungary
+- Poland
+- Zurich
+people:
+- Amy Hunt
+- Audrey Werro
+- Collen Kebinatshipi
+- Femke Broeders-Bol
+- Hunter Bell
+- Jarmila Kratochvilova
+- Julien Alfred
+- Keely Hodgkinson
+- Klaudia Kazimierska
+- Matthew Hudson-Smith
+- Melissa Jefferson-Wooden
+- Reiki
+- Vivaldi
+organisations:
+- BBC Sport
+- Commonwealth
+- Diamond League
 ---
 
 Werro prevails over rivals in close 800m battle

@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Caracas
+- Iran
+- Italy
+- Orinoco Belt
+- Saudi Arabia
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Chris Wright
+- Delcy Rodriguez
+- Delcy Rodríguez
+- Donald Trump
+- Ian Vásquez
+- Mike Wirth
+- Nicolas Maduro
+organisations:
+- Cato Institute
+- Chevron
+- ENI
+- GE Vernova
+- General Electric
+- NABEP
+- National Assembly
+- North American Blue Energy Partners
+- OPEC
+- Pentagon
+- US Oil
 ---
 
 ## US officials denied accusations that the deal was holding Venezuela for ransom, stressing that it is mutually beneficial deal for all, developing an unutilised underground asset.

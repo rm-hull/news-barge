@@ -15,6 +15,47 @@ categories:
 - York
 - Sports
 - History
+locations:
+- Australia
+- Boston
+- Buckingham Palace
+- Cardiff Bay
+- Central Park
+- DW Stadium
+- Great Britain
+- North Yorkshire
+- Sierra Leone
+- Wembley
+- Wigan
+people:
+- Alex Murphy
+- Billy Boston
+- Billy Gore
+- Brian Bevan
+- Christine
+- Clive Sullivan
+- Eric Ashton
+- Gus Risman
+- Joe Taylor
+- Karen
+- Lady Joan
+- Martin Offiah
+- Nellie
+- Stephen
+organisations:
+- Blackpool
+- Boston
+- Cardiff Bay Codebreakers
+- Catterick
+- Hull
+- Lions
+- MBE
+- National Service
+- Neath
+- Royal Signals
+- Rugby Football League’s Hall of Fame
+- Wales
+- Wigan
 ---
 
 # Sir Billy Boston obituary: The rugby league legend who became the sports first knight

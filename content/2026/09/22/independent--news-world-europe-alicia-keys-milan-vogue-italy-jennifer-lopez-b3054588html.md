@@ -13,6 +13,37 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/22/Italy_Vogue_World_524_1.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Galleria
+- Italy
+- La Scala
+- London
+- Los Angeles
+- Milan
+- New York
+- Paris
+people:
+- Alessandro Michele
+- Alicia Keys
+- Demna
+- Domenico Dolce
+- Donatella Versace
+- Eva Herzegova
+- Gigi Hadid
+- Giorgio Armani
+- Jennifer Lopez
+- Miuccia Prada
+- Moncler
+- Pierpaolo Piccioli
+- Roberto Bolle
+- Stefano Gabbana
+- Valentino
+organisations:
+- Balenciaga
+- Gucci
+- Milan
+- Quarto Oggiaro Library
+- Vogue World
 ---
 
 Most of Italy’s fashion elite gathered under one roof Tuesday for Vogue’s annual fashion spectacle in the historic Galleria Vittorio Emanuele II shopping arcade, featuring performances by Alicia Keys and Italian ballet star Roberto Bolle.

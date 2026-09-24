@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/eDYT3mJ9gXqagKzKHb5C2c-805-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- France
+- South Africa
+people:
+- Alex Blake
+- Andrew Forbes
+organisations:
+- Apple
+- Creative Bloq
+- Google News
+- MacFormat
+- Structured Light Lab
+- TechRadar
+- University of Bordeaux
+- Wits School of Physics
+- Wits University
+- iMore
 ---
 
 ![A green beam of light is fired from an internet device on a rooftop.](https://cdn.mos.cms.futurecdn.net/eDYT3mJ9gXqagKzKHb5C2c.jpg) 

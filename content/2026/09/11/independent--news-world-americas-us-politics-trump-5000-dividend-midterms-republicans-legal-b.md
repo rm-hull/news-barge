@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dallas
+- New York
+- North America
+- Texas
+- U.S.
+- United States
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+- Elon Musk
+- Rusat Ramgopal
+- Sarah Smith
+organisations:
+- American Airlines Center
+- BBC
+- Congress
+- Constitution
+- DOGE
+- Financial Times
+- GOP
+- House
+- Most Favored Nations
+- Republican Party
+- Senate
+- The Independent
+- The New York Times
+- Treasury
+- Trump Accounts
+- U.S. Census Bureau
 ---
 
 President Donald Trump has pledged to send out a $5,000 check to every American citizen if his Republican Party keeps hold of their majority across Congress in November’s midterms, a gesture already inviting questions and controversy.

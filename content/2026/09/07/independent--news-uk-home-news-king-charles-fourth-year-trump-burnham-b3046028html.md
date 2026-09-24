@@ -12,6 +12,72 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Australia
+- Bermuda
+- Bristol
+- Buckingham Palace
+- Canada
+- Cardiff
+- Cornwall
+- County Down
+- East Sussex
+- Glasgow
+- Hartfield
+- Italy
+- Jedburgh
+- King Charles III England Coast Path
+- Lincolnshire
+- Liverpool
+- London
+- Poland
+- Pooh Sticks Bridge
+- Samoa
+- Scottish Borders
+- Sistine Chapel
+- Taff’s Well
+- UK
+- US
+- United States
+- Vatican
+- Wales
+- Washington DC
+- White House
+- Windsor Castle
+people:
+- Andy Burnham
+- Camilla
+- Charles III
+- Donald Trump
+- Edward
+- Elizabeth II
+- Emmanuel Macron
+- George V. The King
+- Kate
+- Keir Starmer
+- King Charles
+- Leo XIV
+- Liz Truss
+- Melania Trump
+- Pope
+- Rishi Sunak
+- Royal
+- Volodymyr Zelensky
+- William
+organisations:
+- Ards Allotments
+- British Overseas Territory
+- Court Circular
+- Disney’s TV
+- Duke of Edinburgh
+- Eden Project
+- Grimsby Town Football Club
+- Press Association
+- Princess Royal
+- Privy Council
+- Rivals
+- Spellow Library
+- US Congress
 ---
 
 King Charles has maintained a prominent public profile throughout the fourth year of his reign, driven by an energetic diary of duties.

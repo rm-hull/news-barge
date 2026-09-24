@@ -13,6 +13,19 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.gazetteherald.co.uk/resources/images/21487475.jpg?type=og-image
+locations:
+- Glen Gardens
+- Heworth
+- Tang Hall
+- York
+people:
+- Bob Webb
+- Jenny Kent
+organisations:
+- City of York Council
+- Heworth Primary School
+- Parks Investment Fund
+- Tang Hall Primary School
 ---
 
 Children from two primary schools have helped open a transformed play area at a popular York park.

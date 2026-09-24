@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21471969.jpg?type=og-image&xType=0&yType=69
+locations:
+- Auckland
+- Darlington
+- High Coniscliffe
+- UK
+people:
+- Paul Williams
+- SARAH CALDECOTT
+organisations:
+- Specialized Project CIC
+- Teenage Cancer Trust
+- The Specials
 ---
 
 A music charity near Darlington has been left facing a £10,000 shortfall after a wave of gig cancellations.

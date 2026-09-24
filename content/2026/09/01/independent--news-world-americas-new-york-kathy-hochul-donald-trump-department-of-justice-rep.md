@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Earth
+- Hawaii
+- Michigan
+- New York
+- U.S.
+- Vermont
+people:
+- Adam Gustafson
+- Anthony Izaguirre
+- Brenda Sannes
+- Donald Trump
+- Kathy Hochul
+- Marc Levy
+organisations:
+- Associated Press
+- Department of Justice
+- EPA
+- U.S. Chamber of Commerce
+- U.S. Environmental Protection Agency
 ---
 
 New York's attempt to make fossil fuel-producing industries pay into a $75 billion fund to repair the damage wrought by climate change was struck down by a federal judge, who said the sweeping law reaches beyond a state's responsibility and into an area of federal interest.

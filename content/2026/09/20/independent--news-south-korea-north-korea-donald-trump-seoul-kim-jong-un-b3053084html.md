@@ -14,6 +14,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/20/10/Koreas_Tensions_5_737.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AP
+- Asia-Pacific
+- Australia
+- Canada
+- China
+- Japan
+- Korean Peninsula
+- New Zealand
+- North Korea
+- Russia
+- SEOUL
+- South Korea
+- Tokyo
+- U.S.
+- United States
+people:
+- Donald Trump
+- Kim Jong Un
+- Kim Yo Jong
+- Yuri Kageyama
+organisations:
+- AP
+- Defense Ministry
+- Pentagon
+- U.N. Security Council
+- \_\_\_ Associated Press
 ---
 
 South Korea says North Korea has conducted an additional launch, firing a projectile toward the sea after launching a short-range ballistic missile earlier in the day.

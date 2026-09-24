@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- California
+- England
+- Georgia
+- Illinois
+- New York
+- UK
+- United States
+people:
+- Alan BrownsteinUnited States
+- Jeremy
+- Nick
+- Patricia Marsh
+- Patrick Sison
+- Paul
+- Trump
+organisations:
+- World Trade Center
 ---
 
 *(Image: AP photo/ Patrick Sison)*

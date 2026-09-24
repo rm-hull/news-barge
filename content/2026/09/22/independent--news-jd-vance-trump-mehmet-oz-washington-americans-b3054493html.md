@@ -14,6 +14,23 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/18/Vance_38873.jpg?width=1200&height=800&crop=1200:800
+locations:
+- White House
+people:
+- Biden
+- JD Vance
+- Mehmet Oz
+- Michelle Price
+- Trump
+organisations:
+- ACA
+- Centers for Medicare and Medicaid Services
+- Congress
+- HHS
+- The Associated Press
+- Trump
+- Wall Street Journal
+- \_\_\_ Associated Press White House
 ---
 
 Vice President JD Vance and other Trump administration officials said Tuesday they plan to remove 760,000 Affordable Care Act enrollees from public healthcare exchanges, alleging that the individuals were fraudulently enrolled in the program, or simply do not exist.

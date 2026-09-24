@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/20483421.jpg?type=og-image
+locations:
+- '## Yorkshire'
+- Africa
+- Ireland
+- Leeds Bradford Airport
+- Leeds-Bradford Airport
+- Middle East
+- UK
+people:
+- '''** David Hills'
+- Jet2
+- Nathan Hancock
+organisations:
+- Adobe
+- Jet2
+- UGC
 ---
 
 *(Image: UGC)*

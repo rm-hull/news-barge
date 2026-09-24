@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Brantham Leisure Centre
+- Decoy Pond
+- Essex
+- Merriam Close
+- Suffolk
+people:
+- Bluey
+- Ms Roberts
+- Noah Woods
+- Rebecca Lucas
+- Rhys Woods
+- Sam Roberts
+- Sharon Auton
+- Tim Passmore
+- Tom Pearse
+organisations:
+- CCTV
+- HM Coastguard
+- HM Coastguard Search and Rescue
+- Missing People
+- National Police Air Service
+- Noah
+- Suffolk Fire & Rescue Service
+- Suffolk Lowland Search & Rescue
+- Suffolk Police
 ---
 
 A body has been found in the search for three-year-old Noah Woods, who vanished after a visit to a village playground.

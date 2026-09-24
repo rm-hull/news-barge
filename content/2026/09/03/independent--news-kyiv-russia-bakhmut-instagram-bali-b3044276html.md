@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bakhmut
+- Bali
+- Kyiv
+- Lithuania
+- Russia
+- St. Michael’s Golden-Domed Monastery
+- Sumy
+- Ukraine
+people:
+- Alex Babenko
+- Dad
+- Dania
+- Danyil Smyrnov
+- Oleksandr Smyrnov
+- Sorry
+- Surfer
+- Yeva Smyrnova
+- Young
+- Yunha
+organisations:
+- 3rd Separate Assault Brigade
+- The Associated Press
 ---
 
 A pregnant woman in a black dress stood at the head of her 21-year-old husband’s casket Tuesday in Kyiv, mourning the man she met when they were both soldiers fighting Russia's full-scale invasion of their country.

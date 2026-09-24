@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Arizona
+- California
+- Colorado River
+- Georgia
+- Illinois
+- Ohio
+- Texas
+- US
+- Virginia
+people:
+- Bobby Magill
+- Ceres
+- Rahim Amir
+- Shama Perveen
+organisations:
+- AGI
+- AI
+- Arizona State University
+- Bloomberg Law
+- Ceres
+- Ceres'
+- Google News
+- Lawrence Berkeley National Laboratory
+- Legislative Analyst's Office
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

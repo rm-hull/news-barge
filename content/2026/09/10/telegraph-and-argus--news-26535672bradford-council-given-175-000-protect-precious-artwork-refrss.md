@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- England
+- UK
+people:
+- Helen Featherstone
+organisations:
+- BRADFORD Council
+- Bradford district Museums & Galleries
+- Bradford’s Museums and Galleries
+- Ian Walker Bradford Council
+- National Lottery
+- National Lottery Heritage Fund
+- Neighbourhoods and Communities
+- The National Lottery Heritage Fund
 ---
 
 *(Image: T&A)*

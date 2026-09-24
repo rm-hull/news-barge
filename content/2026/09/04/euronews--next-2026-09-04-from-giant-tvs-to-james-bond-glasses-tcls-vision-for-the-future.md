@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Berlin
+- White House
+people:
+- AI
+- James Bond
+- Stefan Streit
+organisations:
+- '## TCL'
+- AI
+- Booster
+- Euronews
+- European TV
+- IFA
+- NXTHOME
+- Streit
+- TCL CSOT
+- TCL Europe
 ---
 
 ## TCL is showcasing its vision of a more connected home at IFA 2026. Euronews spoke to TCL Europe chief marketing officer Stefan Streit about where AI and display technology could take everyday life next.

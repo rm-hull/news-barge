@@ -15,6 +15,39 @@ categories:
 - UK
 - Society & Culture
 - Law & Justice
+locations:
+- America
+- Arizona
+- Chicago
+- El Salvador
+- Honduras
+- Massachusetts
+- Nicaragua
+- Texas
+- U.S.
+- United States
+- Utah
+- Venezuela
+- Windy City
+people:
+- Any Lucia Lopez Belloza
+- Donald Trump
+- Javier Rivera
+- Jill Parrish
+- Jose Ojeda Duarte
+- Kilmar Abrego Garcia
+- Markwayne Mullin
+- Simon Sandoval-Moshenberg
+organisations:
+- DHS
+- Department of Homeland Security
+- ICE
+- NGOs
+- Politico
+- The Chicago Sun-Times
+- The Independent
+- Title 8
+- U.S. Supreme Court
 ---
 
 The Trump administration has deported more than 170 migrants in violation of court orders since last year, according to a report.

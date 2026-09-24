@@ -13,6 +13,36 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/22/2296068966..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bayeux
+- Cherbourg
+- Dover
+- Folkestone
+- Gosport
+- Hampshire
+- Isle of Wight
+- Kent
+- Normandy
+- Portsmouth
+- UK
+- United Kingdom
+- Vierville-sur-Mer
+people:
+- Andy Burnham
+- Caroline Dinenage
+- Dame Caroline
+- Daniel Thomas
+- Danny Tommo
+- Luke Pollard
+- Tommy Robinson
+organisations:
+- Border Force
+- Border Security Command
+- Home Office
+- LBC Radio
+- Maritime and Coastguard Agency
+- Patriot Platform
+- RNLI
 ---
 
 Dozens of migrants who refused assistance from the French coastguard during a journey of over 30 hours at sea are currently being brought "to Dover by water", an MP has said.

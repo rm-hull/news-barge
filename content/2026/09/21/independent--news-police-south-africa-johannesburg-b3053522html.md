@@ -14,6 +14,15 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/11/South_Africa_Killings_Explainer_4938_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ekurhuleni
+- Johannesburg
+- South Africa
+- africa
+people:
+- Firoz Cachalia
+organisations:
+- \_\_\_ AP Africa
 ---
 
 Police in South Africa said Monday they have arrested three suspects in connection with one of a series of killings of women in the same area on the outskirts of Johannesburg.

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- NHS North East
+- North Cumbria
+- North East
+people:
+- Ben Anderson
+organisations:
+- ICB
+- NHS
+- North Cumbria Integrated Care Board
 ---
 
 *(Image: NHS North East and North Cumbria)*

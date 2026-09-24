@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Columbia
+- S.C.
+- South Carolina
+people:
+- Adam Tyler Dowdy
+- Christopher DeLong
+- David Dymock
+- Skip" Holbrook
+- Skip” Holbrook
+- W.H
+- said.Holbrook
+organisations:
+- South Carolina Law Enforcement Division
+- WLTX News19
 ---
 
 A police officer in South Carolina has died and a second has been injured in a "gunfight" on Saturday.

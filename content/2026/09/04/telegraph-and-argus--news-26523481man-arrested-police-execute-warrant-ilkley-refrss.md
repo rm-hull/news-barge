@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Ilkley
+people: []
+organisations:
+- Keighley NPT
+- Keighley Neighbourhood Policing Team
 ---
 
 *(Image: WYP)*

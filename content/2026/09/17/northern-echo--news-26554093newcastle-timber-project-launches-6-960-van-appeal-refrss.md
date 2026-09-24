@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- County Durham
+- North East
+- Richmond
+people:
+- Alex Goldberg
+- Georgina Llewelyn
+- Karl Denton
+organisations:
+- Reclaimed Timber Project CIC
 ---
 
 *(Image: Supplied)*

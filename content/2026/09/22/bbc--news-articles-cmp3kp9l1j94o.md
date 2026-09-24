@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b6e0/live/31197e30-b671-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Dorset
+- Kettering
+- Northamptonshire
+- Poole
+people:
+- Anthony Clarkson
+- David
+- Hannah
+- Kieran
+- Mike
+- Miriam Lee
+- Nicola
+- Ollie Jolliff
+organisations:
+- NHS Blood and Transplant
+- NHS Organ Donor Register
+- NHSBT
+- Northamptonshire
+- Organ Donor Register
 ---
 
 ![Five people, in a row, standing outside buildings. A man on the left is wearing a red top, has short grey hair and glasses, a man next to them has on a blue top, trouers, and a gwwon on his head, a child is in his arms, another woman in blue next to ehr and a woman with bobbed hair and a pink top. ](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/1274/live/576dc8f0-b669-11f1-b785-7d19738c6de2.jpg)

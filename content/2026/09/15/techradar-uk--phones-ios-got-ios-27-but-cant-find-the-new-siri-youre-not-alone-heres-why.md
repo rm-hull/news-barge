@@ -11,6 +11,32 @@ description: Updating to iOS 27 doesn't give you the new Siri AI. To get it you'
 image: https://cdn.mos.cms.futurecdn.net/3MSBqxBARzRs7snaFcXTpQ-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- UK
+people:
+- Graham Barlow
+- Siri AI
+organisations:
+- Apple Account
+- Apple Intelligence
+- BBC One Breakfast
+- BBC TV
+- Beta
+- ChatGPT Voice
+- Computeractive
+- EU
+- European Union
+- Gemini Live
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- Radio 4
+- Siri AI
+- TechRadar
+- iMore
+- iOS 27
 ---
 
 ![Siri and person looking confused.](https://cdn.mos.cms.futurecdn.net/3MSBqxBARzRs7snaFcXTpQ.jpg) 

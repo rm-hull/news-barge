@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+- Kyiv
+- Moscow
+- Russia
+- St Sophia Cathedral
+- US
+- Ukraine
+- Unesco
+- Volodymyrska Street
+- Zavertailo
+people:
+- Andrii Sybiha
+- Donald Trump
+- Illia Dyadik
+- Jared Kushner
+- Kyiv
+- Putin
+- Stanislav Zavertailo
+- Steve Witkoff
+- Vitali Klitschko
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv
+- SBU
+- Security Service
+- Telegram
 ---
 
 The head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smoke rising into the air in the heart of Kyiv.

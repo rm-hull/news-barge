@@ -13,6 +13,28 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Coventry
+- Halewood
+- Merseyside
+- Solihull
+- UK
+- West Midlands
+- West Midlands'
+- Whitley
+- Wolverhampton
+people:
+- Des Quinn
+- Jonathan Reynolds
+- PB Balaji
+- Richard Parker
+- Sharon Graham
+organisations:
+- BBC
+- JLR
+- Jaguar Land Rover
+- The Times
+- Unite
 ---
 
 ![The silver leaping Jaguar emblem is on a grey pillar sign outside one of its factories with the green, oval Land Rover badge below.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ee01/live/b5506920-8c0f-11f1-b2ab-0dd01740f9f6.jpg)

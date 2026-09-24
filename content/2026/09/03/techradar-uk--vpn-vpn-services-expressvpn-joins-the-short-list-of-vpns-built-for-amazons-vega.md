@@ -11,6 +11,26 @@ description: The provider brings a remote-friendly, Lightway-powered app to Amaz
 image: https://cdn.mos.cms.futurecdn.net/BAWDjCWJk8dwJ5PastxcBC-2048-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Monica J. White
+organisations:
+- Amazon Appstore
+- Amazon Fire TV
+- Digital Trends
+- ExpressVPN
+- Fire TV Stick 4K Select
+- Google News
+- IPVanish
+- Monica
+- No Trace
+- NordVPN
+- SlashGear
+- Surfshark
+- TechRadar
+- Tom’s Hardware
+- Vega OS
+- WePC
 ---
 
 ![ExpressVPN's VegaOS app](https://cdn.mos.cms.futurecdn.net/BAWDjCWJk8dwJ5PastxcBC.png) 

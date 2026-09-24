@@ -10,6 +10,26 @@ description: The Roomba Max 875 will mist stains away
 image: https://cdn.mos.cms.futurecdn.net/qL2vJXCTYqyHqNa73bwWyR-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- UK
+- US
+people:
+- Adam Pope
+- Dreame
+- Ruth Hamilton
+organisations:
+- Combo
+- FCC
+- Google News
+- IFA
+- Picea
+- Product Planning & Development
+- Roomba
+- Ruth
+- TechRadar
+- USP
+- iRobot
 ---
 
 ![Roomba Max 875 robot vacuum on show at IFA](https://cdn.mos.cms.futurecdn.net/qL2vJXCTYqyHqNa73bwWyR.jpg) 

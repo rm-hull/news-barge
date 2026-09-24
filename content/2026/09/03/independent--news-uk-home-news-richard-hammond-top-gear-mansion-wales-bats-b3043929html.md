@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Abergavenny
+- Llanwenarth
+people:
+- Mindy
+- Richard Hammond
+organisations:
+- Jaguars
+- Natural Resources Wales
+- The Pentre
 ---
 
 Richard Hammond’s plans to refurbish his Welsh mansion could be hit by major delays after bats were discovered on the estate.

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Cheshire
+- Church House Nursing Home
+- Nantwich
+people:
+- Karen Jane Makinson
+- Robert Hammond
+organisations:
+- Nursing and Midwifery Council
 ---
 
 A care home nurse has been suspended after a tribunal found she went to work “drunk” and needed help from her colleagues to book a taxi home.

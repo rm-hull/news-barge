@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Comedy & Entertainment
 image: https://mmo.aiircdn.com/409/699ead7a950d4.jpg
+locations:
+- Harrogate
+people:
+- Andy Dennis
+- Foxie Gingerella
+- Madam Sakura
+organisations:
+- Doctors Without Borders
+- Harrogate
+- Manhattan Club
+- Médecins Sans Frontières
 ---
 
 ![](https://mmo.aiircdn.com/409/699ead7a950d4.jpg)

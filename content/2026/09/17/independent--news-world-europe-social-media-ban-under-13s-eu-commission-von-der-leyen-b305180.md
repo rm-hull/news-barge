@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Australia
+- Britain
+- China
+- India
+- Turkey
+- UK
+people:
+- Daniel Friedlaender
+- Keir Starmer
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- AI
+- CCIA Europe
+- ChatGPT
+- EU
+- European Commission
+- European Parliament
+- European Union
+- Google
+- Google’s YouTube
+- Instagram
+- Meta
+- Meta’s Facebook
+- PA
+- TikTok
 ---
 
 European Commission president Ursula von der Leyen has outlined a major proposal aimed at protecting children from online risks on Thursday, recommending a ban on under-13s using social media platforms alongside a mandate for digital services to create dedicated safe accounts for minors.

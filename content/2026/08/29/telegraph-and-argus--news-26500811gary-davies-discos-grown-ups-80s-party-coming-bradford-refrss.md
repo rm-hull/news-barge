@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford
+- St George's Hall
+- St George’s Hall
+- UK
+people:
+- Depeche Mode
+- Duran Duran
+- Gary Davies
+- Queen
+- Sara Cox
+- Steve Wright
+- Whitney
+organisations:
+- ABBA
+- Eurythmics
+- Human League
+- Madonna
+- Radio 2
+- Soft Cell
+- Top of the Pops
+- Wham
 ---
 
 *(Image: Submitted)*

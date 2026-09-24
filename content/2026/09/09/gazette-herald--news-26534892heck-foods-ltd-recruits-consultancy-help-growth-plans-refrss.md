@@ -14,6 +14,25 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bedale
+- Cumberland
+- North Yorkshire
+- North of England
+- West Yorkshire
+people:
+- '**__HECK'
+- Andrew Fairburn
+- Heck
+organisations:
+- Chicken Cumberland
+- Foods Ltd
+- H.J Consulting Engineers
+- HECK!
+- HJ
+- HJCE
+- North Yorkshire
+- Pic
 ---
 
 *(Image: Pic supplied)*

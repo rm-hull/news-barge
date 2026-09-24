@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Britain
+- County Durham
+- Horden
+- Peterlee
+- Sheffield
+people:
+- Alan
+- Beverly Goodwin
+- Bevin Boys
+- Glynis
+- Kim Corfield
+- May Edwards
+- May Savage
+- Stanley Edwards
+organisations:
+- Believe Housing
 ---
 
 A former wartime canteen girl who helped support Bevin Boys working in County Durham's coalfields has celebrated her 100th birthday.

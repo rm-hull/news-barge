@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Erek
+- Hassam Nasir
+- Tom
+organisations:
+- DLSS
+- Erek
+- GPU
+- Gaming Trio OC
+- Get Tom's Hardware
+- Google News
+- HardOCP
+- MSI Lightning Z
+- Nvidia
+- nVidia
+- now.QuarterSwede
 ---
 
 ![A post-DLSS 5 RTX 5090 suffering from a genetic disease known as its 16-pin connector melting](https://cdn.mos.cms.futurecdn.net/V3GQ9DBP5BRAWcLwzBwGSL.jpg) 

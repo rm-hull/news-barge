@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Canada
+- Earth
+- Eastern Seaboard
+- Europe
+- Florida
+- Inner Banks
+- North Carolina
+- Russia
+- U.S.
+- Virginia
+people: []
+organisations:
+- AP
+- Associated Press’
+- Pantheon Regeneration
+- The Associated Press’
+- The Society for Conservation Biology
 ---
 
 Investors and scientists are restoring a 23-square-mile (60-square-kilometer) tract of peatland in North Carolina's Inner Banks to curb emissions of climate-warming carbon dioxide and regenerate native habitat.

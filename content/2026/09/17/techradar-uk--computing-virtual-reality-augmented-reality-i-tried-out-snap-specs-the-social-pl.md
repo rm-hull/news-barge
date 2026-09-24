@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/mGyHQ8diSYc46PMnp5vcYa-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California
+- Los Angeles
+- Santa Monica
+- Snapchat
+- UI
+- Westfield Century City
+people:
+- Snap
+organisations:
+- AI
+- Cesar Cadenas
+- Google Docs
+- Google Gemini
+- Google News
+- Snap Inc
+- Snap Inc.’s
+- Specs Intelligence
+- Spotify
 ---
 
 ![Snap Specs 6th Gen](https://cdn.mos.cms.futurecdn.net/mGyHQ8diSYc46PMnp5vcYa.jpg) 

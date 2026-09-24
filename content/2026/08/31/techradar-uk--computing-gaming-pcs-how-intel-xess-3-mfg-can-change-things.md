@@ -10,6 +10,39 @@ description: Faster, smoother, better... and way pricier
 image: https://cdn.mos.cms.futurecdn.net/ttZf8Sq9amHMRKS3bWyFd9-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Aleksha McLoughlin
+- Valve
+organisations:
+- AMD FSR
+- Arc
+- Asus ROG
+- Dexerto
+- EX AI
+- Esports Insider
+- GamesRadar
+- Google News
+- HX
+- Intel
+- Kyusai
+- MFG
+- MSI Katana
+- Nvidia DLSS
+- PC Gamer
+- PC Guide
+- Play Magazine
+- SoC
+- Team Blue
+- Team Red
+- TechRadar Gaming
+- The Escapist
+- Tomb Raider
+- Trusted Reviews
+- USP
+- Z2
 ---
 
 ![OneXPlayer3 on a dark background](https://cdn.mos.cms.futurecdn.net/ttZf8Sq9amHMRKS3bWyFd9.jpg) 

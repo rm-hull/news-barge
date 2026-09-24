@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Bulgaria
+- Moscow
+- Tsareva Livada
+- Ukraine
+people:
+- Demerdzhiev
+- Emilian Gebrev
+- Ivan Dermendzhiev
+- Rumen Radev
+organisations:
+- EMCO
 ---
 
 Bulgarian authorities have launched investigations into an explosion at a weapons storage site in central Bulgaria overnight that came in the wake of another blaze at a munitions depot in recent weeks.

@@ -12,6 +12,15 @@ image: https://static.independent.co.uk/2026/09/14/08/Sweden_Election_27965.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Riksdag
+- Stockholm
+- Sweden
+people:
+- Magdalena Andersson
+organisations:
+- Sweden Election Sweden
+- Swedish Election Authority
 ---
 
 Complete vote count in Swedish election shows a narrow majority for the left-leaning opposition

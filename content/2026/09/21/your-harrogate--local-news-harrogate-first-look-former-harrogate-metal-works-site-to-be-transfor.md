@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6ab122f7e2fe661a83b.jpg
+locations:
+- Franklin Road
+- Harrogate Conservation Area
+- Harrogate’s
+people:
+- Debbie Foster
+organisations:
+- Franklyn Metal Works
+- Harrogate One
+- Mulgrave Properties
+- Wrayways
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab122f7e2fe661a83b.jpg)

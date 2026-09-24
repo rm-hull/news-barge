@@ -14,6 +14,22 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations: []
+people:
+- Ghonhee Lee
+- Hubble
+- Jared Isaacman
+- Link
+- Swift
+organisations:
+- AP Fund for Journalism
+- Hubble Space Telescope
+- Katalyst Space Technologies
+- Katalyst's Link
+- NASA
+- Roman Space Telescope
+- Swift Observatory
+- The Associated Press
 ---
 
 A private spacecraft that was supposed to supply a lifeline to NASA’s Swift Observatory managed to get close to the sinking telescope and even snap photos more than a week after the rescue was abandoned.

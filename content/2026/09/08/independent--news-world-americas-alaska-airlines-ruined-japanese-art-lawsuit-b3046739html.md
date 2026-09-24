@@ -14,6 +14,52 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Alaska
+- Australia
+- California
+- Columbia County
+- Hawaii
+- Honolulu
+- Hudson
+- Ireland
+- Japan
+- London
+- Minton
+- Moscow
+- New York
+- New York City
+- Osaka
+- Paris
+- Queens
+- South America
+- United States
+- Upstate New York
+people:
+- Brice Marden
+- Eliot Greenberg
+- Gerhard Richter
+- Lucio Fontana
+organisations:
+- Airline
+- Alaska Airlines
+- American Airlines
+- Christie’s
+- Compass Forwarding Co.
+- Delta Air Lines
+- Distinguished Programs Insurance Brokerage LLC
+- Gagosian Gallery
+- Hawaiian Airlines
+- John F. Kennedy International Airport
+- Lloyd’s of London
+- Lufthansa Cargo
+- Marc Selwyn Fine Art
+- Naga Antiques
+- New York Post
+- The Guardian
+- The Independent
+- The New York Times
+- Zurich American
 ---
 
 More than $500,000 worth of artwork destined for an Upstate New York gallery was allegedly ruined when the pieces were transferred between airplanes during a downpour in Hawaii, according to court filings reviewed by *The Independent*.

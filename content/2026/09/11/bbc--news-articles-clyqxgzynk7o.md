@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Esplanade
+- Singapore
+people:
+- Chander Agarwal
+- Felicia Lee
+- Heav'n
+- Kawshigan
+- Lee Seiu Kin
+- Nora Tan
+- William Congreve
+organisations:
+- Singapore High Court
 ---
 
 ![The Singapore skyline centered on the Esplanade](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7574/live/dda4ab60-adad-11f1-8ac2-99a6f36b284a.jpg)

@@ -12,6 +12,19 @@ image: https://static.independent.co.uk/2026/09/14/06/download.-1.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Stockholm
+- Sweden
+people:
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- Centre Party
+- Left Party
+- Riksdag
+- SVT
+- Sweden Democrats
+- Swedish Social Democratic Party
 ---
 
 Sweden's centre-left opposition has edged ahead of the ruling right-wing government in a knife-edge general election, with days of uncertainty expected before a final result is confirmed.

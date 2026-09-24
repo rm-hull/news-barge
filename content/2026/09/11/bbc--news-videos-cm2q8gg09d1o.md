@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Paris
+people:
+- Céline Dion
+- Sacha
+organisations:
+- Instagram
 ---
 
 # Céline Dion duets with fan ahead of Paris comeback concert

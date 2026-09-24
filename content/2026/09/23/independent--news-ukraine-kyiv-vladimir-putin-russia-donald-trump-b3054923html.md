@@ -13,6 +13,30 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/11/Trump_93956.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- Crimea
+- Iran
+- Kyiv
+- New York
+- Russia
+- Sea of Azov
+- U.S.
+- Ukraine
+- Zaporizhzhia
+- hub
+people:
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- General Assembly
+- Kyiv
+- NATO
+- Patriots
+- U.N
+- U.N.
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

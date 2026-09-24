@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- North Yorkshire
+- Ripon
+- Studley Royal
+people:
+- Ben Coad
+- Finlay Bean
+- Steve Harris
+organisations:
+- All Creatures Great
+- CCTV
+- Channel 5
+- National Trust
+- North Yorkshire Fire and Rescue
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Small
+- Studley Royal
+- Studley Royal CC
+- Studley Royal CC)* Club
+- Studley Royal Cricket Club
 ---
 
 A historic North Yorkshire cricket club has been left devastated after its iconic pavilion was destroyed in a destructive fire, believed to have been started deliberately.

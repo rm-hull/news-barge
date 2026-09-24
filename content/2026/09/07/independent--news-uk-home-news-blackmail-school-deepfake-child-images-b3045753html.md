@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- UK
+people:
+- Carole Osborne
+- Dan Sexton
+- Ms Osborne
+- Simon Bailey
+organisations:
+- AI
+- Aidos
+- IWF
+- Internet Watch Foundation
+- NCA
+- National Crime Agency
+- The Independent
 ---
 
 Gangs of criminals are “actively targeting” schools by creating deepfake sexualised images of children from pictures on their social media and websites and using them to blackmail schools for ransom, experts have warned.

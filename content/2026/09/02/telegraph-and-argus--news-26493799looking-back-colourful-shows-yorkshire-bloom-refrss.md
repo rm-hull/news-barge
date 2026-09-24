@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bloom
+people: []
+organisations:
+- Yorkshire
 ---
 
 IT’S BLOOMING marvellous - this is the time of year when gardeners of all ages submit their handiwork to judges in gardening competitions such as Yorkshire in Bloom. We took a look back at the colourful blooms on show over the years in settings such as parks, gardens and schools. Feast your eyes.

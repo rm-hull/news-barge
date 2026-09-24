@@ -11,6 +11,44 @@ image: https://static.independent.co.uk/2026/09/08/18/10/GettyImages-2292989189-
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- Canada-U.S.
+- Cedar Rapids
+- Kansas
+- Los Angeles
+- Ottawa
+- Phoenix
+- Quebec
+- Sen
+- Sweden
+- Texas
+- U.S.
+- UNITED STATES
+- United States
+- White House
+- Wichita
+people:
+- Donald Trump
+- Jerry Moran
+- Joseph-Armand Bombardier
+- Mark Carney
+- Roger Marshall
+organisations:
+- Aeris X. Canada
+- Boeing
+- Bombardier
+- Challenger
+- Collins Aerospace
+- E-7A Wedgetail
+- Gripen
+- Honeywell
+- L3Harris
+- Oval Office
+- Saab
+- Trump
+- U.S. Senate
 ---
 
 Two senators have urged President Donald Trump to rethink his threat to ban aircraft sales by Canadian manufacturer Bombardier in the United States.

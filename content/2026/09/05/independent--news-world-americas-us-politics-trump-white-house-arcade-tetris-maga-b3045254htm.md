@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Mexico
+- Rio Grande
+- U.S.
+- White House
+- Zombie Border Siege
+people:
+- Tetris
+organisations:
+- Border Patrol
+- HBO
+- ICE
+- Rio Run
+- Spider-Man
+- Tetris
+- Trump
 ---
 
 The owner of Tetris criticized the Trump administration after the White House released an arcade game titled “Build the Wall” on its official website.

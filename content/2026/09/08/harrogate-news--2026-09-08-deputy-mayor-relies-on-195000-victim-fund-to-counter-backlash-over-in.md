@@ -13,6 +13,20 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- North Yorkshire
+people:
+- '**York'
+- Jo Coles
+- Jo Coles**
+organisations:
+- '**Independent Domestic Abuse Services'
+- Government
+- IDAS
+- IPP
+- North Yorkshire Local Criminal Justice Partnership**
+- North Yorkshire Police
+- Serco
 ---
 
 **York and North Yorkshire Deputy Mayor Jo Coles** has issued a strategic public statement on the Government’s incoming emergency prisoner early release scheme, pointing to a newly secured**£195,000 grant** as local authorities brace for a national policy change they cannot block.

@@ -14,6 +14,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Croatia
+- Czech Republic
+- England
+- France
+- Spain
+- US
+- United States
+- Wembley
+people:
+- Alex Scott
+- Andoni Iraola
+- Anthony Gordon
+- Burn
+- Cole Palmer
+- Dan
+- Dean
+- Djed Spence
+- James
+- John] Stones
+- Jordan] Henderson
+- Josh King
+- Lewis Hall
+- Reece
+- Rio Ngumoha
+- Thomas Tuchel
+- Trent Alexander-Arnold
+organisations:
+- Bournemouth
+- England
+- Fulham
+- Liverpool
+- Newcastle
+- Premier League
+- Spain
 ---
 
 Tuchel recalls Palmer and Alexander-Arnold to England squad

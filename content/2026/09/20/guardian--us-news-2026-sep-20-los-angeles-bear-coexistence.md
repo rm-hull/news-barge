@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://i.guim.co.uk/img/media/17bcb82ac8452599951cef98f1343ee5763f7c44/49_0_725_580/master/725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=789af3679d688e7eeba2911082e9f2fd
+locations:
+- California
+- Eaton
+- LA
+- Los Angeles
+- Monrovia
+- Palisades
+people:
+- Alex Heeran
+- Becky Shevlin
+- Blondie
+- Brian Gordon
+- Wilson Sherman
+organisations:
+- Los Angeles
+- Los Angeles Times
+- PoolBearLife
+- University of California
 ---
 
 Every year, as summer draws to a close and fall begins, California’s bears get hungry.

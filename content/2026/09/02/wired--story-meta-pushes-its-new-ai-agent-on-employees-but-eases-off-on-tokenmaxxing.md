@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Hatch
+- Mark Zuckerberg
+- Meta
+- Tracy Clayton
+- Zoë Schiffer
+organisations:
+- AI
+- Business Insider
+- Meta
+- Reuters
+- The Information
+- WIRED
 ---
 
 Meta is formally ending what amounted to a tokenmaxxing incentive program for employees. In an internal announcement this week, the social media giant told workers that their performance evaluations would no longer be dependent upon how much they used AI tools, three employees who received the message tell WIRED. But as Meta workers simultaneously begin testing a new agentic AI tool known as Hatch, they say their token consumption continues to surge.

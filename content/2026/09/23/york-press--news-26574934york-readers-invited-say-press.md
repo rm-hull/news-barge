@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21181794.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- Newsquest
+- Readers of The Press
+- The Press
+- The Press Sign
 ---
 
 ## Have your say on your local newspaper The Press

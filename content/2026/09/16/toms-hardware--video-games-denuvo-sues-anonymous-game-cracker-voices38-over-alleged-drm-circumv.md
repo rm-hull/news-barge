@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- California
+- China
+- Denuvo
+- US
+people:
+- Denuvo
+- Kunal Khullar
+- PEnns
+- Tom
+organisations:
+- Anti-Tamper
+- DMCA
+- DRM
+- Denuvo
+- Digital Rights Management
+- Google News
+- Nintendo
+- Reddit
+- Replyusertests
+- Tom’s Hardware
+- TorrentFreak
+- U.S. District Court
+- Voices38
+- entity.PEnns
 ---
 
 ![The Denuvo logo.](https://cdn.mos.cms.futurecdn.net/uo6XbmY6csPydKDYWb3wWo.jpg) 

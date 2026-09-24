@@ -14,6 +14,26 @@ categories:
 - Careers & Productivity
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- England
+- UK
+- Wales
+people:
+- AI
+- Andrew Duff
+- Claude
+- Deborah Dawton
+- Mat Hunter
+organisations:
+- AI
+- ChatGPT
+- Design Business Council
+- Design Council
+- Guardian
+- Policy Institute
+- Society of Garden and Landscape Designers
+- The King’s Institute for Artificial Intelligence
 ---
 
 Professional designers should not feel “threatened” by the rapid growth of generative AI, according to business leaders, despite fears over job losses in the sector.

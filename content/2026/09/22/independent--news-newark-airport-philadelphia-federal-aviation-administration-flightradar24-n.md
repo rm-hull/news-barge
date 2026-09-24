@@ -14,6 +14,36 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/20/Airport_Delays_56731.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Kennedy
+- LaGuardia
+- Las Vegas
+- New Brunswick
+- New Jersey
+- New Jersey Transit
+- New York
+- New York City
+- New York City-area
+- Newark
+- Philadelphia
+- U.S. Northeast
+people:
+- Donald Trump
+- Jessica Hill
+- Mark Carney
+- Rio Yamat
+- Sean Duffy
+organisations:
+- Amtrak
+- FAA
+- Federal Aviation Administration
+- Flightradar24
+- General Assembly
+- Newark Liberty International Airport
+- Philadelphia International Airport
+- U.N.
+- \_\_\_ AP
 ---
 
 Flights were taking off and landing at New York City-area airports Tuesday with some delays and cancellations, after hours of disruptions resulting from damaged communications lines at a key air traffic control facility in Philadelphia that were later repaired.

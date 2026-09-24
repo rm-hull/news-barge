@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Edinburgh
+- Paisley High Street
+- Renfrewshire
+people:
+- Darry Smith
+- Darryl Smith
+- Ella
+- Haggis Wagon
+- Jennifer
+- Paisley
+organisations:
+- AI
+- Advice Direct Scotland
+- BBC Scotland
+- BBC Scotland News
+- Companies House
+- DWP
+- Department of Work and Pensions
+- Edinburgh Castle
+- HR
+- Haggis Waggon
+- Haggis Waggon Tours
+- Haggis Waggon Tours'
+- Haggis Waggons Tours
+- Harry Potter
+- Invest
+- Job Centre
+- Mó Chroi Travel Ltd
+- Renfrewshire Council
+- TripAdvisor
+- Tripadvisor
+- Universal Credit
+- VisitScotland
+- WhatsApp
 ---
 
 ![Portrait of Ella with shoulder-length dark hair featuring pink highlights, standing outdoors in a Paisley town square. She is wearing a dark long-sleeved top and a small pendant necklace. Buildings, a bus, trees, and street activity appear softly blurred in the background under a partly cloudy sky.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8bcd/live/7d8d0580-8a65-11f1-b2ab-0dd01740f9f6.jpg)

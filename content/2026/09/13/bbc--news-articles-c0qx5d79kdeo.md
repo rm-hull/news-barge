@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e0/live/f8b9f5
 categories:
 - UK
 - News & Politics
+locations:
+- Strangnas
+- Sweden
+people:
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- SD
+- SVT
+- Social Democratic Party
+- Sweden Democrats
 ---
 
 ![Sweden's Social Democratic Party leader, Magdalena Andersson applauds as she waits with other party members for general election results](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg)

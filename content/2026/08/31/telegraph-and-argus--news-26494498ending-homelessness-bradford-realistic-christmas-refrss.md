@@ -14,6 +14,33 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford And Keighley Magistrates' Court
+people:
+- Andy Burnham
+- Clare Flannigan
+- Cllr Azam
+- Cllr Hussain
+- Mike Simmonds
+- Nazam Azam
+- Sajawal Hussain
+organisations:
+- Bradford Council
+- Bradford Crown Court
+- Bradford Magistrates' Court
+- Bradford Metropolitan District Council
+- City Hall
+- City Ward
+- HM Courts and Tribunal Service
+- HMCTS
+- HOP
+- Homeless Outreach Partnership
+- Horton Housing
+- Labour
+- NEWSQUEST
+- Newsquest
+- Norfolk Gardens Entrance
+- State for Housing, Communities and Government
 ---
 
 *(Image: Mike Simmonds)*

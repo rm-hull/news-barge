@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Albania
+- California
+- Caribbean
+- Iran
+- Lake Ontario
+- New Mexico
+- U.S.
+people:
+- Coldplay
+- Eric Spracklen
+- Gavin Newsom
+- Ivanka Trump
+- Jared Kushner
+- Kai
+- Kamala Harris
+- Melissa Witte
+organisations:
+- Bureau of Land Management
+- MAGA
+- The New York Times
+- The Wall Street Journal
+- Trump Family
 ---
 
 Ivanka Trump faced a wave of online criticism after sharing a horseback-riding video that many viewers dismissed as out of touch with everyday Americans.

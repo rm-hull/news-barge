@@ -12,6 +12,150 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/TvjtM2Qm2ZXCJyBDABNkyR-450-80.jpg
+locations:
+- America
+- China
+- DPRK
+- Europe
+- Francisco Pires
+- Indonesia
+- Iran
+- Las Vegas
+- Middle East
+- Oman
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- US
+- Virginia
+- Washington
+people:
+- Andrew McCalip
+- Anton Shilov
+- Christopher Harper
+- Donald Trump
+- Jensen Huang
+- Mark Tyson
+- Oliver Haslam
+- Sergei Dragunov
+organisations:
+- AWS
+- Andrew E. Freedman Published
+- Anthropic
+- Anton Shilov Published
+- Artificial IntelligenceJensen Huang
+- Artificial IntelligencePresident Trump
+- Astra
+- Aurora
+- Ayar Labs
+- Big TechArm
+- Big TechOracle
+- Big TechSupermicro
+- Blackwell GPUsBy Anton Shilov Published
+- Bruno Ferreira Published
+- China AI
+- Chinese AI
+- Cisco
+- CryptocurrencyCrypto bro
+- CryptocurrencyDigital
+- CryptocurrencyHacker
+- CryptocurrencyHackers
+- CryptocurrencyPoland
+- CybersecurityBlindLock
+- CybersecurityFBI
+- CybersecurityHackers
+- CybersecurityIntel
+- CybersecurityNorth Korea
+- CybersecurityResearcher
+- CybersecurityRussian
+- Data CentersAWS
+- Data CentersNew York State
+- DronesIran
+- DronesJapan
+- DronesResearchers
+- DronesTrump
+- DronesUK
+- DronesUS
+- DronesUkraine
+- DronesWaymo
+- EU
+- Earth
+- El Capitan
+- Elon
+- Etiido Uko Published
+- FBI
+- Francisco Pires Published
+- Google
+- Grok
+- HBMBy Shane Downing Published
+- IRIS
+- Intel Arc
+- IntelBy Jowi Morales Published
+- Jev
+- Jon Martindale Published
+- Jowi Morales
+- Jowi Morales Published
+- Los Alamos National LaboratoryBy Anton Shilov
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- Micron Building
+- NATO
+- Nashville Zoo
+- NorwayBy Anton Shilov Published
+- Nvidia Vera CPUs
+- NvidiaBy Luke James Published
+- OpenAI
+- PACBy Anton Shilov Published
+- PCsBy Etiido Uko Published
+- PhotonicsIndustry
+- PolicyNashville
+- PolicyPresident Trump
+- PolicyTaiwan
+- PolicyTrump
+- PolicyWhite House
+- PolicyX
+- PossibleBy Francisco Pires Published
+- PremiumAI
+- PremiumChina
+- PremiumH200s
+- PremiumIBM
+- PremiumNvidia
+- PremiumThe
+- PremiumTypeSafe AI
+- PsiQuantum
+- Quantum ComputingChina
+- Quantum ComputingNEC
+- SK
+- SemiconductorsChinese
+- SemiconductorsElon Musk
+- SemiconductorsJensen Huang
+- SemiconductorsMicron
+- SemiconductorsSK
+- SoBy Francisco Pires
+- SpaceEurope
+- SpaceGoogle
+- SpaceIntel
+- SpaceNASA
+- SpaceSpace Force
+- SpaceSpaceX
+- SpaceX
+- Starlink
+- Stephen Warwick Published
+- SupercomputersAMD
+- SupercomputersChina
+- SupercomputersElon Musk
+- SupercomputersNvidia
+- SuperconductorsMIT
+- Tech IndustryChina
+- Tekken 7
+- Terafab
+- Tesla Dojo
+- US SecDef Pete HegsethBy Jowi Morales Published
+- Vera Rubin
+- Xanadu
+- Zak Killian
 ---
 
 # Tech Industry

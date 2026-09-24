@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/15/15/1200x675_cmsv2_d402e674-0f89-5ed4-8fef-bc3febfc42a0-9921515.jpg
+locations:
+- United States
+- White House
+people:
+- Donald Trump
+organisations:
+- CNN
+- MS NOW
+- Politico
+- Trump
+- White House Corresondents’ Association
 ---
 
 ## President Donald Trump said on Friday he was banning the outlets from the presidential residence as punishment for distributing what he calls "fake news."

@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png
+locations: []
+people:
+- Rajput
+organisations:
+- AMD
+- CPU
+- CX
+- Chromebooks
+- Cortex-A725
+- GPU
+- Get Tom's Hardware
+- Google News
+- Googlebooks
+- Intel
+- MediaTek VP
+- NPU
+- PD Rajput
+- Qualcomm
+- RTX Spark
+- Samsung
+- SoC
+- TSMC
+- Tom’s Hardware
+- X1 Elite
+- X1E
 ---
 
 ![MediaTek Dimensity CX C10 Max logo. ](https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5.png)

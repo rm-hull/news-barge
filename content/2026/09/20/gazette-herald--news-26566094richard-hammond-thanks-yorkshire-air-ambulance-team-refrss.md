@@ -13,6 +13,22 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/13438448.jpg?type=og-image&xType=0&yType=0
+locations:
+- Alamy
+- Elvington Airfield
+- Leeds General Infirmary
+- PA
+people:
+- Mindy
+- Richard Hammond
+- Ross Tomkins
+organisations:
+- Government
+- Instagram
+- NHS
+- Top Gear
+- YAA
+- Yorkshire Air Ambulance
 ---
 
 TV star Richard Hammond has paid tribute to the staff of the Yorkshire Air Ambulance – exactly 20 years after they saved his life.

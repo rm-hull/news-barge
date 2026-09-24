@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Caribbean
+- Dominican Republic
+- Haiti
+- Hispaniola
+- Kenscoff
+- Port-au-Prince
+- U.S.
+- United States
+people:
+- Dana Bash
+- Donald J. Trump
+- Guerline Jozef
+- Jennifer Locetta
+- Markwayne Mullin
+- Tom Homan
+organisations:
+- Bash
+- CNN
+- Department of Homeland Security
+- HOME SWEET HAITI
+- Haitian Bridge Alliance
+- State Department
+- Supreme Court
+- TPS
+- The Independent
+- The New York Times
+- Trump
+- United Nations
+- YouGov
 ---
 
 Border czar Tom Homan defended the Trump administration’s recent deportations to Haiti on Sunday, even as the State Department warns Americans not to travel to the Caribbean nation “for any reason.”

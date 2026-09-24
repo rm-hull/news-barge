@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/832b/live/a6b7b2d0-b4d0-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Althorp
+- Australia
+- California
+- Duchess of Sussex
+- Palace
+- Paris
+- Sydney
+- UK
+- Wales
+people:
+- Dame Julia Cleverdon
+- Diana
+- Earl Spencer
+- Elton John
+- King
+- Laura Kuenssberg
+- Liz Hurley
+- Meghan
+- Oprah Winfrey
+- Prince Harry
+- Richard Kay
+- Sussexes
+- William
+- then-Prince Charles
+organisations:
+- BBC One
+- BBC Radio 4
+- BBC iPlayer
+- BBC the Duke and Duchess of Sussex
+- Broadcasting House
+- Daily Mail
+- Duke of Sussex
+- Mirror Group
+- News Group
+- Royal Family
 ---
 
 Diana's brother says Harry and Meghan face 'cancerous' press like his sister

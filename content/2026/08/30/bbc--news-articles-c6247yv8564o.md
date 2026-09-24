@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Leeds
+- London
+- New York
+- Reading
+- Republic of Ireland
+- UK
+people:
+- Charli XCX
+- Dave
+- Florence
+- Lola Young
+- Lola Young.
+- Loyle Carner
+- Raye
+organisations:
+- Chase & Status
+- Florence
+- Guardian
+- Instagram
+- Kneecap
+- Lola
+- The Machine
 ---
 
 ![Singer Lola Young is pictured on stage at the Reading music festival. She is smiling while holding a microphone. She is wearing a black top with a tartan trim.](https://ichef.bbci.co.uk/ace/standard/699/cpsprodpb/0fc2/live/5d0d2160-a495-11f1-8395-fb1eae51ae18.jpg)

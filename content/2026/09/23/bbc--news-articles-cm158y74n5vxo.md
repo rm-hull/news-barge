@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25ce/live/8d688920-b724-11f1-a430-4d16ee157c41.jpg
+locations:
+- Britain
+- Chagos
+- Diego Garcia
+- Downing Street
+- Israel
+- Mauritius
+- UK
+- US
+- West Bank
+- White House
+people:
+- Andy Burnham
+- Chagos
+- Donald Trump
+- Ed Miliband
+organisations:
+- Houses of Parliament.
+- Oval Office
+- UN General Assembly
+- United Nations
 ---
 
 ![Burnham and Trump are centred seated in front of a UN General Assembly banner, lined by top US and UK foreign officials watching on.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a083/live/45ceaef0-b6f2-11f1-af5e-b359cc50acc4.jpg)

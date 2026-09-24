@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birmingham
+- Camden
+- Egypt
+- England
+- Holborn
+- London
+- Somalia
+- St Pancras
+- Wales
+people:
+- Jon Sopel
+- Jonathan Reynolds
+- Keir Starmer
+- Laila Cunningham
+- Nadine Dorries
+- Sagal Abdi-Wali
+- Zack Polanski
+- Zia Yusuf
+organisations:
+- Camden
+- Green
+- Greens
+- Labour
+- Reform UK
+- Sky News
+- Times Radio
+- Twitter
 ---
 
 Labour has accused Reform’s Zia Yusuf of “straightforward racism” after he suggested the party’s frontrunner to replace Keir Starmer in the Holborn and St Pancras byelection was not British.

@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Hao-Ching Chan
+- Maya Joint
+- Serena
+- Venus Williams
+organisations:
+- ESPN
+- ESPN2
 ---
 
 Williams sisters' return to play doubles at the US Open helps ESPN to an increase in viewers

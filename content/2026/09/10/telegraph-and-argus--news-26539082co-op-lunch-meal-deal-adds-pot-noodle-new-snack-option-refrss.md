@@ -14,6 +14,75 @@ categories:
 - News & Politics
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- New York
+- Scotland
+people:
+- Butter Chicken Curry
+- Goan Fish Curry
+- Lamb Rogan Josh
+- Paneer
+- Pea Curry
+- Tikka Tandoori Chicken
+organisations:
+- '## Freezer'
+- Argos
+- Asda
+- Aunt Bessie
+- Birds Eye Chicken Burgers
+- Birds Eye Chunky Fish Fingers
+- Bombay Potatoes
+- Cheestrings Cheddar
+- Chianti Beef
+- Chilli Edamame
+- Chorizo
+- Cobra
+- Coca-Cola Zero Sugar
+- Dairylea Dunkers Jumbo
+- Dairylea Lunchers Chicken
+- Dairylea Lunchers Ham
+- Dairylea Snackers Buttons
+- Dairylea Snackers Oreo
+- Dairylea Snackers Strawberry Fruit Bites
+- Diet Coke
+- Fruit Pastille Ice Lollies
+- Garlic Bread Pizza
+- Garlic Mushroom
+- Goodfella
+- Hot Honey
+- Indian Spiced Potato Wedges
+- Irn-Bru
+- Itsu Garlic
+- Lentil Dahl
+- Lidl
+- Linda McCartney Mozzarella Cheese Burger
+- M&S
+- Madrí Excepcional
+- Manchego Non-members
+- Mascarpone
+- Mattessons Fridge Raiders Roast Chicken Bites
+- McCain Air Fryer Crispy Dippers
+- McCain Straight Cut Microchips
+- Morrisons
+- Nestlé Rowntree
+- Oetker Ristorante Mozzarella Cheese Pizza
+- Oetker Ristorante Pepperoni Salame Pizza
+- Peperami Original
+- Pilau Rice
+- Pot Noodle
+- Prosciutto Cotto
+- Salami Calabrese
+- Staropramen
+- Stonebaked Thin Margherita
+- Stonebaked Thin Pepperoni
+- Tandoori Spiced Vegetables
+- Tesco
+- Vanilla Fromage Frais
+- Vegetable Antipasti
+- Walls Solero Exotic
+- Whitby Seafoods Jumbo Scampi
+- Yorkshire Puddings
+- Young's Admiral
 ---
 
 *(Image: Co-op)*

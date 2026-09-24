@@ -10,6 +10,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/VGPtSi99Vy7pCWeNLEcT5c-2560-80.jpg
+locations:
+- BigCommerce
+- Bosnia and Herzegovina
+- Ribon
+- Sarajevo
+people:
+- Emery Reddy
+- Sead
+organisations:
+- Al Jazeera Balkans
+- B2B
+- BigCommerce
+- BleepingComputer
+- Commerce
+- Google News
+- ICO
+- Master of Malt
+- PII
+- Represent Communications
+- Ribon
+- SEC
+- Shopify
+- TechRadar Pro
+- UK Information Commissioner’s Office
 ---
 
 ![hacker hands at work with interface around](https://cdn.mos.cms.futurecdn.net/VGPtSi99Vy7pCWeNLEcT5c.jpg)

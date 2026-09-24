@@ -15,6 +15,35 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Creator Economy & Marketing
+locations:
+- Darlington
+- Hartlepool
+- Middlesbrough
+- North East
+- Surghive
+- Tees Valley
+- Teesside
+people:
+- Ben Houchen
+- Chris Cooke
+- Chris Goodyear
+- Michael Flynn
+- Rachael Coates
+- Stephen Cummings
+organisations:
+- Business Growth
+- Investment Zone
+- Many Cats Studio
+- Many Cats Studios
+- Middlesbrough
+- Research and Knowledge Exchange
+- Surghive
+- TVCA
+- Tees Valley
+- Tees Valley Investment Zone
+- Tees Valley Investment Zone Innovation Voucher
+- Teesside University
+- Unasys Ltd
 ---
 
 *(Image: Supplied)*

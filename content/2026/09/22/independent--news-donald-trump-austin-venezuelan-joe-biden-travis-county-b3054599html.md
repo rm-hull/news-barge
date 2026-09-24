@@ -13,6 +13,29 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/20/ICE_Shooting_Austin_64992.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Austin
+- DoorDash
+- Georgia
+- Pearsall
+- Savannah
+- South Texas ICE Processing Center
+- Travis County
+- U.S.
+people:
+- Donald Trump
+- Joe Biden
+- Jose Garza
+- Kate Lincoln-Goldfinch
+- Wilber Rafael Garces Perez
+- \_\_\_ Bynum
+organisations:
+- FBI
+- Homeland Security
+- ICE
+- U.S. Department of Homeland Security
+- U.S. District Court
+- U.S. Immigration and Customs Enforcement
 ---
 
 The shooting of a Venezuelan man in his vehicle by a federal immigration officer in Texas has set off renewed protests over the Trump administration's immigration crackdown.

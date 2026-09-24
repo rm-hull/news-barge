@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bell Street
+- Fanny Moor Crescent
+- Greenwood Street
+- Huddersfield
+- Leeds Crown Court
+- Mitre Street
+- West Yorkshire
+people:
+- Cameron Boylan
+- Kyrell Fleary-Gayle
+- Luke Belbin
+- Stacey Atkinson
+organisations:
+- Crimestoppers
+- Homicide and Major Enquiry Team
+- Leeds Crown Court
+- Nissan X Trail
+- Violence Reduction Partnership
+- West Yorkshire Police
+- X Trail
 ---
 
 # Man jailed for 24 years for manslaughter of Kyrell Fleary-Gayle in Huddersfield

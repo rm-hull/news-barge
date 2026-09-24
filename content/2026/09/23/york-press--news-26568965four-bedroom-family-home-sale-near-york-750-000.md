@@ -12,6 +12,14 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21482837.jpg?type=og-image
+locations:
+- Plainville Lane
+- Shipton
+- Wigginton
+- York
+- Yorkshire
+people: []
+organisations: []
 ---
 
 ## ‘Wonderful’ family home hits the market near York – have a look inside

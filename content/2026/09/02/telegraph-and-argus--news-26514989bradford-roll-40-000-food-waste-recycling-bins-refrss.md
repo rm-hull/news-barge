@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- UK
+people:
+- Cllr Walker
+- Ian Walker
+organisations:
+- BRADFORD
+- Bradford Council
+- Bradford Council Facebook
+- Northcliffe Depot
+- Reform
+- Wyke
 ---
 
 *(Image: Bradford Council)*

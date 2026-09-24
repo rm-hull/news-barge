@@ -13,6 +13,45 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Calif.
+- Chile
+- Denmark
+- Easter Island
+- Gaza
+- Inisherin
+- Malibu
+- Missouri
+- Montreal
+- Tel Aviv
+- Ukraine
+people:
+- '## El-Toukhy'
+- Colin Farrell
+- Cédric Kahn
+- Ilya Krzhanovsky
+- John Malkovich
+- Lee Chang-dong
+- Malou Khebizi
+- Marie
+- Martin McDonagh
+- Mathilde Arcel
+- May el-Toukhy
+- Nicolas Cage
+- Rachel Szor
+- Radzimir Dębski
+- Sam Rockwell
+- Stéphane Brizé
+- Yuval Abraham
+organisations:
+- CIA
+- Golden Lion
+- NAZA
+- OECD
+- PISA
+- Silver Lion
+- The Banshees
+- Three Billboards Outside Ebbing
 ---
 
 ## El-Toukhy's drama depicts the life of a young nanny and housekeeper who marries her wealthy and older widower employer, but harbours a shameful secret that threatens to unravel her new life and status in the post-World War II anarchy.

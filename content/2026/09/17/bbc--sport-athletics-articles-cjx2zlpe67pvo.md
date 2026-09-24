@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Birmingham
+- Brussels
+- Budapest
+- London
+- Paris
+- Zurich
+people:
+- Alexis Ohanian
+- Audrey Werro
+- Femke Broeders-Bol
+- Keely Hodgkinson
+organisations:
+- Keely Hodgkinson
+- Reddit
 ---
 
 ![Head and shoulders of Keely Hodgkinson, wearing a blue GB vest with thin white stripes, standing with her hands together in front of her chest](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1b8c/live/2cb82f20-b2bc-11f1-9830-658a48c7da16.jpg)

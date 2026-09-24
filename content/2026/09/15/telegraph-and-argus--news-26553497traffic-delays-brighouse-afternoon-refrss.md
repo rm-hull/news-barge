@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- A6025
+- Brighouse
+- Halifax Road
+people: []
+organisations:
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

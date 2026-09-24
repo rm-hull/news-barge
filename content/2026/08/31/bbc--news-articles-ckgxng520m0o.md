@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- England
+people:
+- Andy Burnham
+- Caroline Voaden
+- Daniel Kebede
+- Lucy Powell
+organisations:
+- ASCL
+- Association of School and College Leaders
+- Department for Education
+- Lib Dem
+- Lib Dems
+- NEU
+- National Education Union
+- SENCOs
+- Special Educational Needs Coordinators
 ---
 
 ![In a primary school classroom, two young boys in red tops with short hair stick their hands up in the air in the foreground, while their classmates who are clustered in front of them sitting down also stick their hands up in the air. An out-of-focus teacher with blonde hair and a grey top in front of a whiteboard also has her hands up and is smiling at the children in front of her. The classroom has blue walls and lots of posters on the walls and white school tables moved out of the way in the right hand of the image.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c68f/live/e27cb7b0-a225-11f1-aed2-8d6da8d75094.jpg)

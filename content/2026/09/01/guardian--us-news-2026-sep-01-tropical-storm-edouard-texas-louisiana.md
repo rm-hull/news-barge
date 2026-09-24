@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bahamas
+- Baja California
+- Cameron
+- Dominican Republic
+- Haiti
+- Hawaii
+- Hilo
+- Louisiana
+- Manzanillo
+- Mexico
+- Pacific Ocean
+- Port Arthur
+- Texas
+- Tropical Storm Lowell
+- Turks and Caicos
+- US Gulf
+people:
+- Greg Abbott
+- Karina
+- Lowell
+- Marie
+- Orlando Alanis
+organisations:
+- NHC
+- National Hurricane Center
 ---
 
 Tropical Storm Edouard headed toward the US Gulf coast early on Tuesday and was expected to strengthen significantly – possibly reaching hurricane force – before bringing potentially heavy rains and flooding into parts of Texas and Louisiana.

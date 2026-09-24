@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington
+- Haughton
+- Springfield
+- Whinfield
+people:
+- Haughton Matters
+- Nick Wallis
+- Rachel Bacon
+organisations:
+- CCTV
+- Darlington Borough
+- Darlington Police
+- Durham Constabulary
+- Neighbourhood Watch WhatsApp
+- PACT
+- Police and Communities Together
+- Red Hall
 ---
 
 Residents have joined forces after reports of people trying front doors and targeting cars and vans across parts of Darlington.

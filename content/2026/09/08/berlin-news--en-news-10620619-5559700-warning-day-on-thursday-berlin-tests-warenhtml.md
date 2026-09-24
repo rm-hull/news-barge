@@ -12,6 +12,11 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations: []
+people: []
+organisations:
+- Civil Protection
+- Senate Administration
 ---
 
 © dpa

@@ -13,6 +13,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Health & Fitness
+locations:
+- NHS
+people:
+- Baroness Valerie Amos
+- Kim Thomas
+- Lady Amos
+- Susan Ayers
+organisations:
+- Birth Trauma Association
+- City St George’s
+- Department for Health and Social Care
+- Government
+- University of London
 ---
 
 Routine post-traumatic stress disorder (PTSD) screening for expectant and new mothers could save the NHS £26 million annually, according to a new study examining the financial toll of birth trauma.

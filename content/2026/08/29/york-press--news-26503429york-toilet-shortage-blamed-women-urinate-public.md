@@ -13,6 +13,25 @@ categories:
 - York
 - Society & Culture
 - Lifestyle & Fashion
+locations:
+- '**York'
+- England
+- Lord Mayor's Walk
+- St Wilfrid's
+- York
+people:
+- Bernard Lovell
+- Brayton
+- Derek Reed
+- Harry
+- Helen Mead
+- My Earl Grey
+- Peter Rickaby
+- Shepherdson
+organisations:
+- Home Office
+- LDR
+- The Press
 ---
 
 ## Why two middle-aged women ended up urinating in York streets

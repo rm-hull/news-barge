@@ -12,6 +12,46 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-1920-80.png
+locations:
+- Edinburgh
+- England
+- Evolve Dynamics
+- Hampshire
+- London
+- SONORA
+- South West
+- Surrey
+- Swindon
+- UK
+- Ukraine
+people:
+- Christian Cawley
+- Karl Brew
+- Luke Pollard
+organisations:
+- AR5
+- Armed Forces
+- Brigantes Consulting
+- British Army
+- Computer Weekly
+- ComputerActive
+- Defence Investment Plan
+- Defence Readiness and Industry
+- Evolve Dynamics
+- Google News
+- Harmattan AI
+- ISR
+- Linux Format
+- Marlborough Communications Limited
+- Matter Alpha
+- Ministry of Defence
+- MoD
+- Skydio
+- Skydio**
+- Surveillance and Reconnaissance
+- TechRadar Pro
+- Tekever UK
+- Watchkeeper Uncrewed Air System
 ---
 
 ![Soldier launches drone](https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH.png)

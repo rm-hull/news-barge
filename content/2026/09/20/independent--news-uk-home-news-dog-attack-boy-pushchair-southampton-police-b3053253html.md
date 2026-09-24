@@ -12,6 +12,18 @@ categories:
 - Health & Fitness
 - Pets & Animals
 image: https://static.independent.co.uk/2026/09/20/21/00/southampton-dog-incident.png?trim=43,315,354,545&width=1200&height=800&crop=1200:800
+locations:
+- Blacker Lane
+- Calder Grove
+- Isle of White Constabulary
+- Shirley Precinct
+- Southampton
+- Wakefield
+people:
+- James Judge
+- Lee Ellis
+organisations:
+- Hampshire
 ---
 
 A one-year-old boy was taken to hospital with facial injuries after a dog bit his face while he sat in a pushchair, police have said.

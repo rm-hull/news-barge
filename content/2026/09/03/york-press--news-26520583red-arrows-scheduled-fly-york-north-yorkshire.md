@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- South Ayrshire
+- Vale of York
+people: []
+organisations:
+- Ayr Seafront
+- Eastbourne Borough Council
+- European Airshows
+- Festival of Flight
+- Met Office
+- RAF
+- Red Arrows
+- The Press
 ---
 
 *(Image: Eastbourne Borough Council )*

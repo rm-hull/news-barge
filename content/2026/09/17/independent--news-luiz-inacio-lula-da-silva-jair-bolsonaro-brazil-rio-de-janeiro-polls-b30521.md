@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brazil
+- Caribbean
+- Iran
+- Latin America
+- U.S.
+people:
+- André Mendonca
+- Dario Durigan
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Luiz Inácio Lula da Silva
+- Marcos Antônio Pereira Gomes
+- Zé Trovão
+organisations:
+- Auxilio Brasil
+- Bolsa Familia
+- Brazil Aid
+- Family Grant
+- Supreme Court
 ---
 
 Brazilian President Luiz Inácio Lula da Silva signed a decree on Thursday increasing benefits under his flagship welfare program by 15%, weeks before the first round of the presidential elections.

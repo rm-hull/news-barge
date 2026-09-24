@@ -12,6 +12,48 @@ image: https://cdn.mos.cms.futurecdn.net/5dj2xVParmF5CEJUb73yk4-1600-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Jordan
+- Kamchatka Peninsula
+- Maltus
+- Sinestro
+- US
+people:
+- Aaron Pierre
+- Bernadette
+- Earth
+- Gil Kane
+- Hal Jordan
+- Jeff Broome
+- John Stewart
+- John Stewart Jr
+- John Stewart Sr —
+- Laura Linney
+- Lianna
+- Sinestro
+- Stewart Jr
+- Stewart Sr
+- Tom
+organisations:
+- DC Comics
+- DC Universe
+- DCU
+- Disney Plus
+- Earth
+- Earth's Green Lantern
+- Google News
+- Green Lantern
+- Green Lantern Corps
+- Green Lanterns
+- Guardians of the Universe
+- Manhunters
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Oa
+- Star Wars
+- TechRadar
 ---
 
 ![John Stewart looking serious in Lanterns episode 3](https://cdn.mos.cms.futurecdn.net/5dj2xVParmF5CEJUb73yk4.jpg) 

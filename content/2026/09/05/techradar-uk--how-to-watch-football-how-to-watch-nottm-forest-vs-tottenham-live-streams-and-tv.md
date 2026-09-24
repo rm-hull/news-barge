@@ -12,6 +12,72 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- AUS
+- Abu Dhabi
+- Anfield
+- Anfield.
+- Australia
+- CA
+- Canada
+- City Ground
+- England
+- London
+- Nottm Forest
+- UK
+- US
+- canada
+- uk
+people:
+- Adrian Back
+- Dan Ndoye
+- Daniel Munoz
+- Igor Jesus
+- Liam Delap
+- Mateus Fernandes
+- Morgan Gibbs-White
+- Mykhailo Mudryk
+- Neco Williams
+- Oliver Glasner
+- Omar Marmoush
+- Roberto De Zerbi
+- Sandro Tonali
+- Savio
+- Tosin Adarabioyo
+organisations:
+- AU
+- Anfield
+- BBC One
+- Brentford
+- Chelsea
+- Formula 1
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Instagram
+- Leeds
+- Liverpool FC
+- Manchester City
+- NBA
+- Newcastle
+- Newsweek
+- NordVPN
+- Nottingham Forest
+- Nottingham Forest FC
+- Nottm Forest
+- Peacock
+- PremierLeague
+- Red Bull
+- Sky Sports
+- Spurs
+- Stan Sport
+- Super Rugby
+- TechRadar
+- TikTok
+- Tottenham
+- World Soccer Magazine
+- Yahoo
+- YouTube
 ---
 
 ![Morgan Gibbs-White of Nottingham Forest celebrates scoring his team’s second goal during the Premier League 2026/27 match between Liverpool FC and Nottingham Forest FC at Anfield.](https://cdn.mos.cms.futurecdn.net/fkKTWBjXBk9MvjriAXREuF.jpg) 

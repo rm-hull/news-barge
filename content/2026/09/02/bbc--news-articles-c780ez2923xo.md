@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- London
+- Nottingham
+- Somerset
+people:
+- Barnaby Webber
+- Emma Webber
+- Grace O'Malley Kumar
+- Grace O'Malley-Kumar
+- Ian Coates
+- Sanjoy Kumar
+- Sinead O'Malley-Kumar
+- Valdo Calocane
+organisations:
+- BBC Nottingham
+- BBC Radio 4
+- BBC Radio Nottingham
+- Calocane
+- Grace
+- IOPC
+- Independent Office for Police Conduct
+- Nottingham Inquiry
+- Nottinghamshire Police
+- The Times
 ---
 
 ![Barnaby Webber, Grace O'Malley Kumar and Ian Coates](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/06fd/live/e5e53ce0-539e-11f1-a184-d13a0f944f44.jpg)

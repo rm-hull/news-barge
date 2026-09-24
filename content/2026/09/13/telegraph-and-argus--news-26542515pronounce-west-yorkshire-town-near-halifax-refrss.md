@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Cow-erby
+- England
+- Halifax
+- Norland
+- Shire Cruisers
+- Sowerby Bridge
+- Sowerby Bridge Sowerby Bridge
+people:
+- Sowerby
+organisations:
+- Hogs Head Brew House
+- The Navigation
+- Yorkshire Dama Cheese
 ---
 
 *(Image: Getty)*

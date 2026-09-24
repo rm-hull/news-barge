@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Castle House
+- North Yorkshire
+- Northallerton
+- Resolution House
+- Scarborough South Bay.
+- Scarborough Town Hall
+- Town Hall
+- West Pier
+people:
+- Coun Mark Crane
+- Coun Peter Wilkinson
+- Thomas Murray
+organisations:
+- A64
+- Anglo American
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- Resolution House
+- Scarborough Town Council
+- Station Gateway
+- Town Council
+- Town Hall
+- York
 ---
 
 # New masterplan to ‘regenerate’ council buildings in Scarborough

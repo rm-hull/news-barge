@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Eden Camp
+- Malton
+- North Yorkshire
+- UK
+people:
+- Eden Camp
+- Nick Hill
+organisations:
+- Armed Forces
+- Eden Camp
+- Emergency Services
+- HM Forces
+- RBL
+- Royal British Legion
+- Service of Remembrance
+- Standards, Veterans, and Cadet Forces
+- Yorkshire Volunteers Marching Band
 ---
 
 Eden Camp hosted their annual All Services Parade – honouring veterans and service members.

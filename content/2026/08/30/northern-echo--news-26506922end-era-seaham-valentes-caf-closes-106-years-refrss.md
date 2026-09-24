@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Church Street
+- County Durham
+- North East
+- Seaham
+people:
+- Carmela Valente
+- Frank
+- Maria Blain
+- Stuart Boulton
+- Sue Duggan
+- Valentes
+organisations:
+- Seaham
+- Valentes Café
+- Valentes’
 ---
 
 A County Durham café run by the same family for more than a century has closed its doors for the final time.

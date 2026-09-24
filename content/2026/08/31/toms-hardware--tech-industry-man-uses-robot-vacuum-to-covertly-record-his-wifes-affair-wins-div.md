@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Hardware
 - News & Politics
+locations:
+- America
+- Europe
+- Taiwan
+- USA
+people:
+- Hassam Nasir
+- Kaplan
+- Replyand
+- Tom
+organisations:
+- CCTV
+- Get Tom's Hardware
+- Google News
+- Nice
+- Replyabufrejoval
+- Tom's Hardware
 ---
 
 ![Robot Vacuum](https://cdn.mos.cms.futurecdn.net/5kwusaMihCGAETxiT5pkRV.jpg) 

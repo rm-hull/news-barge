@@ -14,6 +14,40 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Baku
+- Brazil
+- Croatia
+- France
+- Hungary
+- Italy
+- Japan
+- Papp László Arena
+people:
+- Aïcha GARAD ALI
+- Celia CANCAN
+- Endovitskii
+- Gennaro PIRELLI
+- Guilherme SCHIMIDT
+- H.E. Mr Gábor PÓSFAI.
+- Harai Goshi
+- Hershko
+- Krisztián KULCSÁR
+- Mao IZUMI
+- Marius VIZER
+- Obi-tori-gaeshi
+- Pavic
+- Petrunjela PAVIC
+- Pirelli
+- Raz HERSHKO
+- Schimidt
+- Yael ARAD
+organisations:
+- '## Budapest'
+- IOC
+- International Judo Federation
+- National Assembly of Hungary
+- Valerii ENDOVITSKII
 ---
 
 **Euronews** with

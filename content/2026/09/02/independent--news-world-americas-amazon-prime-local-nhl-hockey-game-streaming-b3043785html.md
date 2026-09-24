@@ -14,6 +14,33 @@ categories:
 - Video Gaming
 - Sports
 - Technology & Software
+locations:
+- Amazon
+- Boston
+- Philadelphia
+people:
+- David Proper
+organisations:
+- Amazon Prime
+- Anaheim Ducks
+- Bay Area
+- CHSN
+- Carolina Hurricanes
+- Columbus Blue Jackets
+- Dallas Stars
+- MSG Networks
+- Marquee Sports Network
+- Minnesota Wild
+- NESN
+- NHL Center Ice
+- National Hockey League
+- Peacock NBC Sports Network RSN's
+- Prime Video
+- SNY
+- Seattle Kraken
+- Sports Business Journal
+- St Louis Blues
+- YES Network
 ---
 
 Some hockey fans will find their favorite teams games exclusively streaming on Amazon Prime starting this season.

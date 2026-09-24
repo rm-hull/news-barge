@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- California
+- China
+- Milwaukee
+- San Francisco Division
+- UK
+people:
+- Rachel Dobkin
+organisations:
+- Call of Duty
+- Northern District of California
+- PlayStation Network
+- PlayStation Store
+- Sony
+- The Hill
+- The Independent
+- The Last of Us
+- U.S. District Court
 ---
 
 It ready to be “game on” for PlayStation users, after Sony agreed to pay $7.85 million as part of a preliminary settlement in a class-action lawsuit over purchases made on the PlayStation Store.

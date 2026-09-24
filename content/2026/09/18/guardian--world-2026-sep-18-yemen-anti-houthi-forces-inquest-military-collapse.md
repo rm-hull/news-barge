@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bab al-Mandab
+- Fire Mountain
+- Hadramaut
+- Iran
+- Jabal al-Nar
+- Kahbob
+- Sana’a
+- Saudi Arabia
+- UAE
+- United Arab Emirates
+- Yemen
+people:
+- Abdu Mukabib
+- Abdulwahab al-Awaj
+- Mocha
+- Tareq Saleh
+- Tawakkol Karman
+organisations:
+- Giants Brigades
+- National Resistance
+- National Resistance Forces
+- Southern Transitional Council
+- Taiz University
+- Tihami Resistance”
 ---
 
 A bitter inquest is under way among Yemen’s anti-Houthi forces as to how what was being billed as a decisive assault on Sana’a, the Houthi-controlled capital, suddenly collapsed into a military rout.

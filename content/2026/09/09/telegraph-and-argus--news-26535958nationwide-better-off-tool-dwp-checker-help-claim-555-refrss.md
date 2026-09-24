@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Nationwide
+people:
+- David Parry
+- Kathryn Townsend
+organisations:
+- HMRC
+- Head of Customer Vulnerability at Nationwide
+- Nationwide and Action for Children
+- PA Wire
+- Universal Credit
+- Virgin Money
 ---
 
 *(Image: David Parry/PA Wire)*

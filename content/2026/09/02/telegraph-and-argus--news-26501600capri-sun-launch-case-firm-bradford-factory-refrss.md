@@ -14,6 +14,34 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Tong Street
+- UK
+- Weaverthorpe Road
+people:
+- Capri-Sun
+- Noel Casey KC
+organisations:
+- '### Capri Sun'
+- '### Princes'''
+- Amazon
+- Asda
+- Capri Sun
+- Capri-Sun AG
+- Capri-Sun Group
+- Capri-Sun UK Limited
+- Co-op
+- Farmfoods
+- High Court
+- Iceland
+- Morrisons
+- Ocado
+- Princes Group
+- Princess Group
+- Sainsbury’s
+- T&A
+- Tesco
 ---
 
 A major drinks manufacturer with a factory in Bradford is being sued for more than £3 million at the High Court in a contract dispute.

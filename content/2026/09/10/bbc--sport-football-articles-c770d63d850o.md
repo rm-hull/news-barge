@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- England
+- Hull
+- Man City
+- Manchester United
+- Old Trafford
+- Old Trafford.
+people:
+- Ainsley Maitland-Niles'
+- Amad Diallo
+- Ben
+- Benjamin Sesko
+- Bruno Fernandes
+- Bryan Mbeumo
+- Marcus Rashford
+- Matheus Cunha
+- Michael Carrick
+- Sabah
+- Stas Pokatilov
+organisations:
+- Everton
+- Ipswich
+- Liverpool
+- Man United
+- Manchester City
+- Manchester United
+- Manchester Unitedwill
+- Rashford
+- Sabah FK
+- Sesko
+- TNT
 ---
 
 Man United put four past Sabah on Champions League return

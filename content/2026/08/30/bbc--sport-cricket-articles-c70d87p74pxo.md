@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Edgbaston
+- England
+- Headingley
+- Lord's
+- Pakistan
+people:
+- Abdullah Shafique
+- Ali Usman
+- Azan Awais
+- Babar Azam
+- Battled
+- Ben Duckett
+- Brilliant
+- Dan Lawrence
+- Emilio Gay
+- Gus Atkinson
+- Harry Brook
+- Imam
+- Imam-ul-Haq
+- Jacob Bethell
+- Jamie Smith
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Khurram Shahzad
+- Lord
+- Mohammad Ali
+- Muhammad Abbas
+- Muhammad Rizwan
+- Ollie Robinson
+- Rode
+- Saud Shakeel
+- Shan Masood
+- Very
+organisations: []
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

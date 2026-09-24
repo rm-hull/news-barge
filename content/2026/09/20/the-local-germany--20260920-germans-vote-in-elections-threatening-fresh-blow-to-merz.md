@@ -15,6 +15,36 @@ categories:
 - History
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260920__C8TJ7YT__v1__MidRes__GermanyVoteStates.jpg@webp
+locations:
+- Berlin
+- China
+- Germany
+- Mecklenburg-Western Pomerania
+- Middle East
+- Moscow
+- Russia
+- Saxony-Anhalt
+- US
+- Ukraine
+people:
+- Die Linke
+- Donald Trump
+- Friedrich Merz
+- Holger Schmieding
+- Manuela Schwesig
+- Roland Abold
+- Vladimir Putin
+organisations:
+- AFP
+- AfD
+- Berenberg
+- CDU
+- Die Linke
+- Infratest Dimap
+- NATO
+- SPD
+- UN General Assembly
+- ZDF
 ---
 
 Merz, 70, has scheduled a crisis meeting of his centre-right CDU party leadership to discuss the first results as they come in from the regional polls in Berlin and Mecklenburg-Western Pomerania.

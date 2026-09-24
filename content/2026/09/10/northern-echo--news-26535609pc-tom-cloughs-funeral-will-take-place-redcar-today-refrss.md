@@ -15,6 +15,33 @@ categories:
 - News & Politics
 - True Crime
 - Arts & Culture
+locations:
+- CLEVELAND
+- Darlington
+- Hartlepool
+- Old Trafford
+- Redcar
+- South Bank
+- St Joseph
+people:
+- Amazing Grace
+- Frank
+- Lauren Somerville
+- Matthew Blades
+- PC Blades
+- PC Clough
+- Tom Clough
+organisations:
+- A66
+- British Transport Police
+- Carmel College
+- Civil Nuclear Police
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police Officer
+- Middlesbrough
+- PC Blades
+- Union
 ---
 
 *(Image: CLEVELAND POLICE)*

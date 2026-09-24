@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cricket Australia
+- Durban
+- England
+- Johannesburg
+- South Africa
+- Sydney
+people:
+- Cameron Bancroft
+- David Warner
+- James Sutherland
+- Malcolm Turnbull
+- Pat Cummins
+- Steve Smith
+organisations:
+- Cricket Australia
+- News Corp
 ---
 
 ![Steve Smith is confronted by media before returning home from Australia's tour of South Africa in 2018](https://ichef.bbci.co.uk/ace/standard/924/cpsprodpb/a34f/live/74a4ef40-b275-11f1-b67f-2b40fa83cfed.jpg)

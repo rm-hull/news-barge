@@ -13,6 +13,27 @@ categories:
 - UK
 - Society & Culture
 - Technology & Software
+locations:
+- Campbelltown
+- Glen Alpine
+- Minto
+- Rose Payton Drive
+- Sydney
+people:
+- Ay Huncho
+- Emad Alameddine
+- Gretchen Atkins
+- Iziah Utai
+- Marco Tapia
+- Ms Atkins
+- Popped
+organisations:
+- Australian Broadcasting Corporation
+- Born Ready MMA
+- Engineers Without Borders
+- Instagram
+- The Sydney Morning Herald.
+- University of Technology Sydney
 ---
 
 A 23-year-old university student was killed after armed intruders entered his family home in Sydney, in what police are now calling a “targeted attack”.

@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/17/08/01M2N6D1VYEWQ6HSY466H6JXAT
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- London
+- UK
+people:
+- Graeme Downie
+- Kemi Badenoch
+- Martin McCluskey
+organisations:
+- DESNZ
+- Department For Energy Security And Net Zero
+- Department for Energy Security and Net Zero
+- Energy Security and Net Zero Committee
+- Labour
+- Reform UK
+- The Times
+- Times Radio
 ---
 
 The term “net zero” should be scrapped because it has “become a lightning rod for opposition to climate action", the Energy Security and Net Zero Committee has recommended.

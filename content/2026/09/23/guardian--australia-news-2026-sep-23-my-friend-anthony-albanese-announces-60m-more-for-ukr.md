@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/45a98dfde08345e3fa6b7939dbf47171917321ce/543_0_5433_4346/master/5433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=505925612977f0d050e21e79518ffe69
+locations:
+- Australia
+- Europe
+- Netherlands
+- New York
+- Russia
+- Ukraine
+people:
+- Anthony Albanese
+- Volodymyr
+- Zelenskyy
+organisations:
+- Atlantic Council
+- Australian Associated Press
+- Australian Defence Force
+- UN
+- United Nations
 ---
 
 Anthony Albanese has announced Australia will provide $60m more in support for Ukraine’s fight against Russia’s invasion during an emotional meeting with Volodymyr ⁠Zelenskyy on the sidelines of the UN meeting in New York.

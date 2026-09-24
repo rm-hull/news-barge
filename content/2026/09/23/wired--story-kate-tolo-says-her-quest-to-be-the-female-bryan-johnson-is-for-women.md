@@ -13,6 +13,29 @@ categories:
 - Science
 - Health & Fitness
 image: https://media.wired.com/photos/6ab2f7b106d2fbcaf665abfb/191:100/w_1280,c_limit/kate-tolo-and-bryan-johnson.jpg
+locations:
+- Connecticut
+- Silicon Valley
+- Styrofoam
+- UK
+- United Kingdom
+- United States
+people:
+- Abigail
+- Bryan Johnson
+- Ilana Ressler
+- John Adams
+- Kate Tolo
+- Kristin Riley
+organisations:
+- GlobalData
+- Illume Fertility
+- Immortals
+- Instagram
+- Kernel
+- Penn State Health
+- SocialBlade
+- Tolo
 ---
 
 Kate Tolo got her first period at 13—an experience she says left her lying prostrate on the floor, debilitated by cramps and breaking out into a full-body sweat.

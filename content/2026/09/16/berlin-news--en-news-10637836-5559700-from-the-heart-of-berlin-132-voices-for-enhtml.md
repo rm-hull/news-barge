@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Sports
 - Society & Culture
+locations:
+- Baden-Baden
+- Berlin
+- Brandenburg
+- Cologne
+- Germany
+- Mecklenburg-Western Pomerania
+- Munich
+- Ruhr
+- Saxony
+people:
+- Kaweh Niroomand
+organisations:
+- DOSB
+- German Olympic Sports Confederation
 ---
 
 © dpa

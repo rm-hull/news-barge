@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bucha
+- Dmytrivka
+- Flamingo
+- Izmail
+- Kherson
+- Kyiv
+- Mykolaiv
+- Myla
+- Russia
+- Ukraine
+- Vyshneve
+people:
+- Serhii Koretskyi
+- Taras Didych
+- Tymur Tkachenko
+- Volodymyr Zelenskyy
+organisations: []
 ---
 
 At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs that was storing “explosive objects”.

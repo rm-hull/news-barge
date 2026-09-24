@@ -12,6 +12,13 @@ categories:
 - Science
 - Technology & Software
 - Pets & Animals
+locations:
+- Northumberland
+- Wessex
+people:
+- Ian Tindal
+- Keeshond
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304354522.jpg?w=840)

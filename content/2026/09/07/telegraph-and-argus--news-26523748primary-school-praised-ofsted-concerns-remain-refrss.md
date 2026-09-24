@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Education & Learning
 - Self-Improvement
+locations:
+- Bradford
+- Holme Wood
+- Knowles Lane
+people:
+- Duncan Jacques
+- Knowleswood
+- Kyrstie Stubbs
+organisations:
+- '## School'
+- Exceed Academies Trust
+- Knowleswood Primary School
+- Newsquest
+- Ofsted
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93f8/live/b86ea6e0-b4d1-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Duchess of Sussex
+- Princess of Wales
+people:
+- Diana
+- Earl Spencer
+- Harry
+- Laura Kuenssberg
+- Meghan
+organisations:
+- BBC One
+- iPlayer
 ---
 
 # Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives

@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Coventry
+- England
+- Estonia
+- France
+- Meadow Park
+- Netherlands
+- Northern Ireland
+- Pisa
+- Scotland
+- Spain
+- UK
+- Wales
+people:
+- Ampaabeng
+- Andreas Schleicher
+- Anna Brychan
+- Bernadette Pettman
+- Georgia Gould
+- Isobel Cottam
+- Jess Carr
+- Laura Trott
+- Mairi McAllan
+- Paul Givan
+- Phil Leake
+- Wales'
+organisations:
+- AI
+- Labour
+- OECD
+- Organisation for Economic Cooperation and Development
+- Pisa
+- SNP
+- Scottish Liberal Democrats
 ---
 
 ![Students in green school uniforms sit at desks reading books during a classroom lesson. Pencil pots and study materials are visible on the tables, with a noticeboard and classroom displays in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/390e/live/3b434ad0-aabe-11f1-9bcd-4de40c4158ea.jpg)

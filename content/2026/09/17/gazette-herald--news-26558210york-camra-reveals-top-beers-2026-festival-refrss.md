@@ -13,6 +13,41 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- '**York'
+- Amber
+- Harrogate
+- Horsforth Brewery
+- Ilkley Brewery
+- Knaresborough
+- New Bermuda
+- Pale
+- St Lawrence Church
+- Theakstons
+- Trinity
+- Turning Point
+- UK
+people:
+- Darren Greenwood
+- John Pybus
+- Steve Gorton
+- Tiramoosu Tonkoko
+- Wallop
+organisations:
+- Beeching Axe
+- Brass Castle
+- Brew York
+- Harrogate Brewery
+- Ilkley Brewery
+- Minster ESB
+- NoLo
+- Nowt Mary
+- Rudgate Brewery
+- Sunbeam Brewery
+- The Blue Bell Inn
+- Towns Brewery
+- Trig
+- York CAMRA
 ---
 
 York CAMRA has revealed the best beers of this year's beer festival at St Lawrence Church.

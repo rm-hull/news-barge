@@ -14,6 +14,22 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Derya
+- Iran
+- Jordan
+- Riesco
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- Kivik
+organisations:
+- Horizon 1
+- Revolutionary Guards
+- Trump
+- US Central Command
+- US Navy
 ---
 
 ## US military says it destroyed five more Iranian oil tankers after missile attacks on a Navy warship. Iran struck a US military base in Jordan with missiles in retaliation, the Revolutionary Guards said on Wednesday. Jordan's army said it shot down 18 missiles from Iran targeting the kingdom.

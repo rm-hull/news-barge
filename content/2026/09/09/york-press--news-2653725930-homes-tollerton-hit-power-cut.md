@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- North Yorkshire
+- Northern Powergrid
+- Tollerton
+people: []
+organisations:
+- Northern Powergrid
 ---
 
 *(Image: Northern Powergrid)*

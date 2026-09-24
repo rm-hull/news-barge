@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1080-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Carrie Marshall
+- Yonesh Murugan
+organisations:
+- ALAC
+- App Store
+- Apple Music
+- DAC
+- Google News
+- Gryphon4
+- Mac App Store
+- PCM
+- Unquiet Mind
+- VOX
+- YM Pro
 ---
 
 ![A screenshot of the YM Pro hi-res audio player for Mac](https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4.jpg) 

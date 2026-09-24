@@ -13,6 +13,67 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Downing Street
+- Manchester
+- The Christie
+- UK
+- US
+people:
+- '!["Dad'
+- '!["Kemi'
+- '!["Maxwell'
+- '!["Prem'
+- Al Carns
+- Andy Burnham
+- Donald Trump
+- Ed Butler
+- Gary
+- Ghislaine Maxwell
+- Harry
+- Jeffrey Epstein
+- John Healey
+- Kemi Badenoch
+- Kylian Mbappé
+- Lionel Messi
+- Priti Patel
+- Sorare
+- Tom Tugendhat
+- Victoria Beckham
+organisations:
+- '!["SAS'
+- Al
+- Budget
+- Burnham
+- Conservative Party
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Daily Telegraph.
+- Deloitte
+- EY
+- FBI
+- FT
+- Financial Times.
+- House of Commons
+- KPMG
+- Kemi
+- Metro
+- National Crime Agency
+- Premier League
+- PwC
+- SAS Regimental Association
+- Sasra
+- Sorare
+- The Daily Mirror
+- The Financial Times
+- The Guardian
+- The Sun
+- The Times
 ---
 
 !["Kemi gets Tories battle ready with ruthless reshuffle," reads the headline on the front page of the Daily Mail.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e53a/live/e3ba7d10-a581-11f1-aed2-8d6da8d75094.jpg)

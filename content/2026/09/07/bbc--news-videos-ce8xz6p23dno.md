@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- English Channel
+- France
+- Portsmouth
+people:
+- Barbara Metzler
+- Jenna Abaatouk
+- Merlyn Thomas
+- Sally Nicholls
+- Sophie Bott
+organisations:
+- BBC Verify
 ---
 
 # What we know about the journey of the Portsmouth migrant boat

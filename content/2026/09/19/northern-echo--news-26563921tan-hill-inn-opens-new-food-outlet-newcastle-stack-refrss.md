@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/21351244.jpg?type=og-image
+locations:
+- Hill Inn
+- Newcastle
+- North East
+- St James’ Stack
+- Swaledale
+- Tan Hill Inn
+- UK
+- Yorkshire
+people:
+- Andrew Hields
+organisations:
+- St James’ STACK
+- Tan Hill Inn
 ---
 
 *(Image: Supplied)*

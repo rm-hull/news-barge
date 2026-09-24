@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- DOS Zone
+people:
+- Hassam Nasir
+- Tommy
+organisations:
+- DMCA
+- DOS Zone
+- FPS
+- GPU
+- Google News
+- PS2
+- Take-Two
+- WebAssembly
 ---
 
 ![GTA: Vice City running in a browser](https://cdn.mos.cms.futurecdn.net/ep3dEnRHFa2JkfGRm9bSSQ.png) 

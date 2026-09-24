@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Douglas County Google Data Center
+- Europe
+- Ga.
+- Lithia Springs
+- Norway
+- San Francisco
+- Seoul
+- South Korea
+- US
+- United States
+people:
+- Tammie Siew
+- Volker Turk
+organisations:
+- Isar Aerospace
+- Tau Robotics
+- Tau Robotics’
+- UN
 ---
 
 ## The company says demand is growing, with prospective customers now joining a waiting list.

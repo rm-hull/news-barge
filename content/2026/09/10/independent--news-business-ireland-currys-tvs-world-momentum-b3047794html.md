@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Ireland
+- UK
+people:
+- Alex Baldock
+- Fredrik Tonnesen
+- Richard Hunter
+- Wayne Brown
+organisations:
+- Currys Nordics
+- Interactive Investor
+- Panmure Liberum
 ---
 
 Electricals chain Currys has revealed a jump in UK sales growth over the summer as World Cup fever and heatwaves helped offset a flagging wider market.

@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - Music
 - Arts & Culture
+locations:
+- Harrogate
+- Skiddle
+- US
+- VIP
+people:
+- Claptone
+- David Penn
+- Funky Love
+- Gok Wan
+- Julie McKnight
+- K-Klass
+- Marc Dennis
+- Mousse-T
+- Paul Woolford
+- Sam Divine
+- Todd Terry
+organisations: []
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa276c09cd3f20585a.jpg) 

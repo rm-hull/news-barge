@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- York Minster
+people:
+- Cllr Ayre
+- Cllr Claire Douglas
+- Cllr Douglas
+- Cllr Nigel Ayre
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- ATTRO
+- ATTROs
+- Anti-Terror Traffic Regulation Orders
+- Blue Badge
+- City of York Council
+- Deangate
+- Duncombe Place
+- Labour Council
+- Labour Transport
+- Liberal Democrat
+- North Yorkshire Police
 ---
 
 The use of powers banning traffic from York city centre during the Christmas market and other events is sensitive and difficult, the council’s leader has said.

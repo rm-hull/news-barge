@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Yorkshire
+people:
+- Rachel Geary
+organisations:
+- ALDI
+- Aldi UK
+- Daniel Graves
 ---
 
 *(Image: Daniel Graves)*

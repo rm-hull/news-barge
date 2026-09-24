@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/91/97/67/1200x675_cmsv2_c81a2874-eca9-593e-80f0-85b1aec0c314-9919767.jpg
+locations:
+- '## Macondo Park'
+- Copacabana Beach
+- Macondo Park
+- Madrid
+- Rio de Janeiro
+- Spain
+people:
+- '## Shakira'
+- '** Santos Bravos'
+- Gabriel García Márquez
+- Gerard Piqué
+- Guitarricadelafuente
+- Karol G
+- Maro**,** Virtual Diva**
+- Rauw Alejandro
+- Rihanna
+organisations:
+- Es Latina
+- Macondo Park
 ---
 
 ## Shakira kicked off her 12-show residency in Madrid on Friday, performing 25 songs before 50,000 fans in her first return to Spanish stages in years.

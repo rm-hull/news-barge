@@ -15,6 +15,14 @@ categories:
 - UK
 - Film & TV
 - Sports
+locations:
+- Arthur Ashe Stadium
+people:
+- Hao-Ching Chan
+- Maya Joint
+- Serena Williams
+- Venus
+organisations: []
 ---
 
 Venus and Serena Williams put on a show in thrilling U.S. Open return, in photos

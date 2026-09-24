@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Baywood
+- Bothy
+- Bradford
+- Cowling
+- Mallard
+- UK
+- Yorkshire Dales
+people:
+- Emily
+- Mallard
+organisations:
+- Airbnb Community
+- Baywood Cabins
+- Condé Nast Traveller
 ---
 
 An Airbnb that has “panoramic views” of the Yorkshire countryside has been named one of the most popular in the UK.

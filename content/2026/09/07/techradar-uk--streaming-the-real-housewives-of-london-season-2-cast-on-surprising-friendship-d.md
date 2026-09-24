@@ -14,6 +14,29 @@ image: https://cdn.mos.cms.futurecdn.net/CvVnr8iH9xLtBR6w3nyPu3-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Paddington
+- Virgin River
+people:
+- Amanda Caroline Cronin
+- George Cooper Sr.
+- Juliet Angus'
+- Karen Loderick-Peace
+- Nessie Welschinger
+- Panthea Parker
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Loderick-Peace
+- Netflix
+- Radio Times
+- Real Housewives of London
+- Ryanair
+- Stylist
+- TechRadar
+- The Real Housewives of London
+- Yahoo!
 ---
 
 ![The cast of The Real Housewives of London season 2](https://cdn.mos.cms.futurecdn.net/CvVnr8iH9xLtBR6w3nyPu3.jpg) 

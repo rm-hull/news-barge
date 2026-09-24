@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham New
+- Darlington
+- Middlesbrough
+- North Yorkshire
+- Teesside
+people:
+- Dave Charnley
+- Tonia Nixon
+organisations:
+- Darlington Rotary
+- Middlesbrough Council
+- TEES Community
 ---
 
 Free period products are being made available throughout Middlesbrough, ensuring residents can access essential items when they need them.

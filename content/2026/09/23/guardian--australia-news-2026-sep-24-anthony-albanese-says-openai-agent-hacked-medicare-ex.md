@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/37f9612332334c7d5cf7d41edbd2497e2170babd/639_0_6393_5114/master/6393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6e711cb93fdc1d5777fe07b25ac678d
+locations:
+- Australia
+- New York
+people:
+- Anthony Albanese
+- Dario Amodei
+- Drew Pusateri
+- Richard Marles
+- Sam Altman
+organisations:
+- AI Safety Institute
+- Anthropic
+- Australian Signals Directorate
+- OpenAI
+- Services Australia
+- UN
+- United Nations
 ---
 
 Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June.

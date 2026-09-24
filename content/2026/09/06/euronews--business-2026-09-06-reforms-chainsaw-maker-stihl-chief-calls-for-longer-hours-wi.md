@@ -15,6 +15,21 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- China
+- Germany
+- Humberto Delgado Airport
+- Lisbon
+- US
+- Waiblingen
+people:
+- Andreas Stihl
+- Nikolas Stihl
+organisations:
+- AI
+- Euronews
+- STIHL
+- Stihl
 ---
 
 ## In an opinion piece for Euronews, Dr Nikolas Stihl, chairman of world-leading chainsaw maker STIHL, calls for reforms including a 40-hour working week without extra pay to safeguard Germany's prosperity and welfare state.

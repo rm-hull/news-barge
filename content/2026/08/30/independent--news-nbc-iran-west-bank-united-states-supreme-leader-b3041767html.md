@@ -13,6 +13,28 @@ image: https://static.independent.co.uk/2026/08/30/13/Israel_Palestinians_48973.
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Israel
+- Jerusalem
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- West Bank
+- West Bank Settlers
+people:
+- Ayatollah Mojtaba Khamenei
+- Benjamin Netanyahu
+- Finn Joughin
+- Inbar Shaked Vardi
+- Matt Bradley
+organisations:
+- IRNA
+- NBC
+- Red Crescent
 ---
 
 Iran’s supreme leader on Sunday called on leaders of Muslim countries to stand together against Israel and the United States, imploring them to “know your real enemy.”

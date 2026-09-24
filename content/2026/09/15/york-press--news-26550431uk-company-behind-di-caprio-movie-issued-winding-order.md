@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Film & TV
+locations: []
+people:
+- Bill Nigh
+- Leonardo Di Caprio
+- Mo Gilligan
+- Zayn Malik
+organisations:
+- Companies House
+- GFM Animation
+- HM Revenue and Customs
+- HMRC
+- High Court
+- LinkedIn
+- One Direction
+- Stitch Head
+- The Gazette
 ---
 
 *(Image: Getty Images)*

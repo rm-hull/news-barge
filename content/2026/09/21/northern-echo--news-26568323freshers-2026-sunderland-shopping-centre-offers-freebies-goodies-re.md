@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21481816.jpg?type=og-image
+locations:
+- Bridges
+- Lush
+- Sunderland
+people:
+- Dave Charnley Photography
+- Karen Eve
+organisations:
+- '![]()Lush'
+- Boots
+- Bridges Shopping Centre
+- Chopstix
+- Dave Charnley Photography
+- Exhibitor
+- Footasylum
+- JD Gyms
+- JD Sports
+- New Look
+- O2
+- Out North East
+- Pride Radio
+- Red Sky Foundation
+- River Island
+- Schuh, Subway
+- Sunderland BID
+- Sunderland Empire
+- The Perfume Shop
 ---
 
 *(Image: Dave Charnley Photography)*

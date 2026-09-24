@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+people: []
+organisations:
+- Agricultural Bank of China
+- China Life
+- China Life Insurance
+- China National Tobacco Corp
+- China Taiping Insurance Group
+- Industrial and Commercial Bank of China
+- People’s Insurance Company of China
 ---
 
 China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.

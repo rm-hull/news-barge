@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Goodramgate
+- Holy Trinity Church
+- Lady Row
+- Minster
+- York Cat Trail
+people:
+- Anthony Bartyla
+- Donald
+- Gemma Murray
+- Gerald the Minster Cat
+- John Hopkinson
+- Justine Spencer
+- Sonia Halejak
+organisations:
+- Churches Conservation Trust
+- Holy Trinity
+- Minster Bells
+- York Cat Trail
 ---
 
 A MUCH-LOVED memorial figure has returned to its home in York to delight the many thousands of visitors who take part in one of the city's self-guided tours.

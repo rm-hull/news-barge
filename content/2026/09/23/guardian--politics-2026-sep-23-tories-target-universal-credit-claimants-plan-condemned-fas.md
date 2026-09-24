@@ -14,6 +14,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/43101317caa7ad058bdf8ce395a42dc0d602dcfb/0_0_1247_998/master/1247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26bd6bde37ccd3726fceb39cb1d6ae3f
+locations:
+- England
+- Germany
+- Netherlands
+- Scotland
+- Trussell
+- Wales
+people:
+- Helen Barnard
+- Kemi Badenoch
+- Sara Ogilvie
+- Trussell
+organisations:
+- Child Poverty Action Group
+- UC
 ---
 
 People claiming universal credit (UC) would have their payments cut by a third if they have not paid enough national insurance, under a Conservative plan condemned by one charity as “a fast track to increased poverty”.

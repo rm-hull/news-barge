@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Beck Side
+- Keighley
+- North Beck
+- Sue Patchett
+people:
+- Sue Patchett
+organisations:
+- '## Environment Agency'
+- '## Group'
+- CONSERVATION
+- Environment Agency
+- River Worth Friends
+- Sue Patchett
 ---
 
 A CONSERVATION group has raised concerns after felled trees were left blocking a public walkway.

@@ -11,6 +11,10 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/burst-water-main-a1041-camblesforth-22-sept-2026.webp
+locations:
+- North Yorkshire
+people: []
+organisations: []
 ---
 
 A burst water main is causing serious problems on a North Yorkshire road this morning.

@@ -12,6 +12,34 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/09/23/11/Film__-_Primetime_5_6_6.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Texas
+- U.K.
+people:
+- Ajon Singh
+- Chris Hansen
+- Chris Hansen’
+- David Osit
+- Decoy Dan
+- Denis Leary
+- Jeff Zucker
+- Lance Oppenheim
+- Lost
+- Louis William “Bill” Conradt Jr.
+- Luke Dittrich
+- Merritt Wever
+- Robert Pattinson
+- Skyler Gisondo
+organisations:
+- A24
+- ABC
+- Esquire
+- Perverted Justice
+- Predators
+- The Associated Press
+- The Hollywood Reporter
+- TruBlu
+- then-NBCUniversal TV Group
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

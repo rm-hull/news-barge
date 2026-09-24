@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Abbottabad
+- America
+- Michigan
+- Middle East
+- New York
+- Pakistan
+- Pennsylvania
+- US
+- United States
+- Washington DC
+- White House
+people:
+- Abdul El-Sayed
+- Azi Paybarah
+- Barack Obama
+- Bin Laden
+- Hasan Piker
+- Hillary Clinton
+- Joe Biden
+- Leon Panetta
+- Mike Rogers
+- Osama bin Laden
+organisations:
+- CIA
+- FBI
+- House
+- New York Times
+- Rogers’
+- Senate
+- Straight Arrow News
+- Twitch
+- Washington Post
+- al-Qaida
 ---
 
 In a recent fundraising email, the Republican candidate for Michigan’s open US Senate seat, former congressman Mike Rogers, appeared to mislead supporters about his past by suggesting that he had played an active role in the killing of Osama bin Laden, the leader of al-Qaida who was shot and killed in an American military raid on his compound in Pakistan in 2011.

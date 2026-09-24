@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- Harrogate
+- Knaresborough
+people:
+- Meg Hillier
+- Tom Allingham
+- Tom Gordon
+- Vivienne Stern
+organisations:
+- Commons Treasury Committee
+- Government
+- Labour
+- NHS
+- Save the Student
+- UUK
+- Universities UK
 ---
 
 Students are missing meals and balancing multiple jobs because financial support provided through maintenance loans is failing to cover basic living costs, a report has warned.

@@ -10,6 +10,18 @@ description: We're in San Francisco for Dreamforce 2026 - so what does Salesforc
 image: https://cdn.mos.cms.futurecdn.net/QTKvbhfCA5whmuoL8wnXW7-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- California
+- San Francisco
+- San Francisco!
+people:
+- Marc Benioff
+organisations:
+- AI
+- Dreamforce
+- Moscone Conference Center
+- Salesforce
+- Slackforce
 ---
 
 ![Dreamforce 2025](https://cdn.mos.cms.futurecdn.net/QTKvbhfCA5whmuoL8wnXW7.jpg) 

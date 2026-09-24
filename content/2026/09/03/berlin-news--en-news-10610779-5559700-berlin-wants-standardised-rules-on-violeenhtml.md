@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Society & Culture
 - Education & Learning
+locations:
+- Berlin
+people:
+- Katharina Günther-Wünsch
+organisations:
+- CDU
 ---
 
 © dpa

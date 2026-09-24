@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Cambridge Road
+- Harrogate
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- Tesco Express
 ---
 
 ![](https://mmo.aiircdn.com/409/6a991acebdd4331cb1a.jpg) 

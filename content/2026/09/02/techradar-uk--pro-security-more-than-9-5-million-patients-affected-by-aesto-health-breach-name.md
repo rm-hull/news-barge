@@ -13,6 +13,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Health & Fitness
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- AWS
+- Aesto Health
+- Al Jazeera Balkans
+- Amazon Web Services
+- DentaQuest
+- Everside Health
+- Google News
+- HHS’ Office for Civil Rights
+- HIPAA Journal
+- Represent Communications
+- TechRadar Pro
+- Together Women’s Health Medical Group
+- Village Practice Management
 ---
 
 ![Laboratory](https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA.jpg) 

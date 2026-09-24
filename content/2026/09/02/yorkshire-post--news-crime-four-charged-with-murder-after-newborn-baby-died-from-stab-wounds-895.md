@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Holywell Heights
+- Sheffield Magistrates' Court
+- Wincobank
+- Wincobank.
+people:
+- Andrea Skopova
+- Nina Horvathova
+- Peter Horvath
+- Tom Woodward
+organisations: []
 ---
 
 # Four charged with murder after newborn baby died from stab wounds

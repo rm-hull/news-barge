@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- HMP Durham
+- Holme House Prison
+- Rydal Avenue
+- South Moor
+- Stanley
+- Stockton
+people:
+- Corey Carr
+- Kelly Clarke
+- Peter Laws
+- Richard Clews
+- Tony Davis
+organisations:
+- CCTV
+- Durham Crown Court
+- Google
+- Isha's Mini Store
 ---
 
 *(Image: Google)*

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21483275.jpg?type=og-image&xType=0&yType=73
+locations:
+- Newcastle
+- North East
+- Scotswood
+- Shafto Street
+- Whitburn
+people:
+- Aurel
+- DI Went
+- Nick Went
+organisations:
+- Northumbria Police
 ---
 
 *(Image: Northumbria Police)*

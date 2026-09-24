@@ -11,6 +11,18 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f27c/live/017767
 categories:
 - UK
 - News & Politics
+locations:
+- Harrow Road
+- Kensal Road
+- London
+- Meanwhile Gardens
+- Notting Hill Carnival
+people:
+- Claire Smart
+organisations:
+- Independent Office for Police Conduct
+- Met Police
+- Metropolitan Police
 ---
 
 ![Dozens of members of the Metropolitan Police walk in uniform through the Notting Hill Carnival](https://ichef.bbci.co.uk/ace/standard/933/cpsprodpb/f27c/live/01776750-a582-11f1-ae94-15924a612dd1.jpg)

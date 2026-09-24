@@ -15,6 +15,111 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Argentina
+- Bogota
+- Brazil
+- COLOMBIA
+- Caribbean
+- Central America
+- Central and
+- Chile
+- Ciudad Juárez
+- Colombia
+- ECUADOR
+- Ecuador
+- El Paso
+- El Salvador
+- Gran Grif
+- Guatemala
+- Guayaquil
+- HAITI
+- Haiti
+- Honduras
+- Juarez Cartel
+- Latin America
+- Los Angeles
+- Mexico
+- Mexico-U
+- Michoacan
+- Northeast Cartel
+- Nueva Familia Michoacana
+- Nuevo Laredo
+- Pacific
+- Peru
+- Pont-Sondé
+- Puerto Rico
+- Quito
+- Rio de Janeiro
+- S.
+- San Juan
+- Sinaloa
+- South America
+- Texas
+- Tren de Aragua
+- U.S.
+- VENEZUELA
+- Venezuela
+- then-Mexico City
+people:
+- Abelardo de la Espriella
+- Amado Carrillo Fuentes
+- Ariel Henry
+- Astrid Suárez
+- Cartel de los Soles
+- Clan del Golfo
+- Dánica Coto
+- El Mencho
+- Gonzalo Solano
+- Hugo Chávez
+- Ismael “El Mayo” Zambada
+- Juan Orlando Hernández
+- Mara Salvatrucha
+- Mara Salvatrucha Barrio
+- Marco Rubio
+- Mauricio Savarese
+- Nayib Bukele
+- Nemesio Oseguera
+- Nicolás Maduro
+- Osiel Cárdenas Guillén
+- Trump
+- Viv Ansanm
+organisations:
+- AGC
+- Associated Press
+- BRAZIL
+- Barrio
+- CENTRAL AMERICA
+- Carteles Unidos
+- Clan del Golfo
+- Commando Vermelho
+- DEA
+- El Salvador
+- Gran Grif
+- Gulf Cartel
+- Human Rights Defender’s Office
+- Islamic State
+- Jalisco Cartel
+- Jalisco New Generation
+- Jalisco New Generation Cartel
+- Juarez Cartel
+- La Familia
+- La Familia Michoacana
+- Los Choneros
+- Los Lobos
+- Los Tiguerones
+- Los Tiguerones Los Lobos
+- MEXICO
+- MS-13
+- Northeast Cartel
+- Primeiro Comando da Capital
+- Primeiro Comando da Capital Commando Vermelho
+- Sinaloa Cartel
+- The Chone Killers
+- The Sinaloa Cartel
+- Trump
+- Viv Ansanm
+- Zetas
 ---
 
 The Trump administration has designated 21 Latin American and Caribbean criminal groups as “foreign terrorist organizations,” with the latest an Ecuadorian group added to the list on Wednesday.

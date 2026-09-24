@@ -15,6 +15,28 @@ categories:
 - Lifestyle & Fashion
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/20530603.jpg?type=og-image
+locations:
+- Aarhus
+- County Durham
+- Denmark
+- Ireland
+- North East
+- Saltburn
+- Søstrene Grene
+- The Riverwalk
+- UK
+- Weardale Railway
+people:
+- Mikkel Grene
+- René Jensen
+- SOSTRENE GRENE
+- Toby Saul
+organisations:
+- Clearbell Capital
+- Durham
+- Søstrene Grene
+- The Riverwalk
+- YuMe World
 ---
 
 A new Danish homeware store is preparing to open its doors in Durham, promising shoppers a taste of Scandinavian style.

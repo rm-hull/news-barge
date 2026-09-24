@@ -12,6 +12,44 @@ image: https://cdn.mos.cms.futurecdn.net/xhLrPDhSa5GB2bMRs22cH3-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Belgium
+- Canada
+- Côte de la Montagne
+- Europe
+- France
+- Great Britain
+- Italy
+- Larciano
+- Montreal
+- Montréal
+- Peak District
+- Sheffield
+- Spain
+- UK
+- UK.
+- US
+- USA
+- al
+people:
+- Greg LeMond
+- Isaac del Toro
+- Issac del Toro
+- Julian Alaphilippe
+- Laurent Fignon
+- Paul Seixas
+- Remco Evenepoel
+- Simon Warren
+- Tadej Pogačar
+- Thomas Pidcock
+organisations:
+- CBC Gem
+- French Language
+- Future Publishing
+- TNT Sports
+- TVA
+- TechRadar
 ---
 
 ![Thomas Pidcock of Great Britain and the Pinarello - Q36.5 Pro Cycling Team competes in the 48th edition of the GP Industria & Artigianato, a 196.5-kilometer race in Larciano, on September 6](https://cdn.mos.cms.futurecdn.net/xhLrPDhSa5GB2bMRs22cH3.jpg) 

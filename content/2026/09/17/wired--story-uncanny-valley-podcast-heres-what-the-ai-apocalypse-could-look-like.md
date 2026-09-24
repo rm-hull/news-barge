@@ -11,6 +11,85 @@ image: https://media.wired.com/photos/6aab06ffc34fee882b3a156d/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- America
+- Austria
+- Bluesky
+- China TBD
+- DC
+- GitHub
+- Iran
+- Jurassic Park
+- New York
+- Russia
+- Sarajevo
+- Silicon Valley
+- US
+- USA
+- Ukraine
+- Uncanny Valley
+- United States
+- Washington
+people:
+- '**:* Dario'
+- AI
+- Adriana Tapia
+- Archduke Franz Ferdinand
+- Bernie Sanders
+- Bluesky
+- Brian Barrett
+- Claude
+- Daniel Roman
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- God
+- Hugo Lowell
+- Jacob Coxon
+- Jensen Huang
+- Kash Patel
+- Kate Osborn
+- Katie Drummond
+- Lauren Goode
+- Leah Feiger
+- LessWrong
+- Louise Matsakis
+- Maddy Varner
+- Marc Benioff
+- Matt Giles
+- Michael Creighton
+- Nick Bostrom
+- Pran Bandi
+- Sam Altman
+- Steve Bannon
+- Timnit Gebru
+- Will
+- Yeah
+- Zoë Schiffer
+- hello Dario
+organisations:
+- AGI
+- AI
+- Anthropic
+- Condé Nast
+- Congress
+- FBI
+- FTC
+- IPO
+- METR
+- NVIDIA
+- Nvidia
+- OpenAI
+- Pro-Human Assembly
+- RSI
+- Salesforce
+- Slack
+- Spotify
+- Trump
+- Truth Social
+- University of Oxford
+- WIRED
 ---
 
 The debate of whether AI can kill us has been everywhere lately, but what would an actual AI catastrophe look like? This week, Brian Barrett, Zoë Schiffer, and Leah Feiger break down three real-world scenarios experts worry the most about—including hacked water supplies, bioweapons, and autonomous robots. We also discuss the highlights of Salesforce’s annual conference, where OpenAI’s Sam Altman and Anthropic’s Dario Amodei defended their positions on AI safety. Plus, Leah tells us how this backlash against AI has become a rare bipartisan flash point, to the point that Bernie Sanders and Steve Bannon shared a stage over it this week.

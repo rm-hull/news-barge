@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- BD7 1HR**
+- Bradford
+- Burnley
+- Campus Road
+- Listerhills Science Park
+- Unit 24
+- West Yorkshire
+people:
+- Huma Andaleeb
+- Karen Skinner
+- Saher Ahmed
+- Salim Miah
+organisations:
+- Alex Craven
+- CQC
+- Clarity Clinic
+- Listerhills Science Park
+- Pulse
+- University of Bradford
 ---
 
 A new private health, wellness, and aesthetics clinic has just opened at Listerhills Science Park.

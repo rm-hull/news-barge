@@ -13,6 +13,19 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- UK
+people:
+- Andrew Goodwin
+- Rob Wood
+organisations:
+- Bank of England
+- Department for Energy Security
+- Deutsche Bank
+- Office for National Statistics
+- Oxford Economics’
+- Pantheon Macroeconomics
 ---
 
 UK inflation is set to have accelerated further last month as higher fuel costs linked to the conflict in the Middle East and more expensive electronics pushed up the cost of living.

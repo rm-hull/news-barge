@@ -12,6 +12,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+- US
+people:
+- '![Healey'
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Keir Starmer
+- Rachel Reeves
+organisations:
+- Budget
+- FT
+- Financial Times
+- Government
+- Nato
+- Treasury
 ---
 
 The Chancellor has warned of a difficult autumn Budget as the British economy faces the impact of US president Donald Trump’s war in the Middle East.

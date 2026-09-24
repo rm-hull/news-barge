@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Atlee Road
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- South Bank
+- Steele Crescent
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Michael Robert Cahill
+- SARAH CALDECOTT
+- Theo Rae
+- Wayne Fox
+organisations:
+- A66
+- Class A
+- Cleveland Police
+- Crimestoppers
+- Mercedes
+- THE NORTHERN ECHO
 ---
 
 *(Image: SARAH CALDECOTT)*

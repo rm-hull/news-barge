@@ -11,6 +11,28 @@ image: https://images.euronews.com/articles/stories/09/90/47/75/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- California
+- Cotswolds
+- Duke
+- England
+- UK
+- US
+people:
+- Andy Burnham
+- Archie
+- Charles III
+- Duchess
+- Harry
+- King
+- Lilibet
+- Lord Chamberlain
+- Meghan
+- Oprah Winfrey
+organisations:
+- Duchess of Sussex
+- Royal
+- VIP Executive Committee
 ---
 
 ## Their move back from California comes amid continuing uncertainty over their security arrangements and whether the state will fund any protection.

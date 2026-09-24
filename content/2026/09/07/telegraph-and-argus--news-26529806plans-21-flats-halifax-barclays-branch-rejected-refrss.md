@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Commercial Street
+- England
+- Halifax
+- Powell Street
+- YOUR
+people: []
+organisations:
+- Barclays Bank
+- Calderdale Council
+- Darsons Homes Ltd
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

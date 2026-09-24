@@ -12,6 +12,81 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Abbey
+- Bedale
+- Brighton ’84
+- Byland
+- Cowstail Lane
+- Crawford
+- Crimple Valley Garden Centre
+- Great North Run
+- Great Yorkshire Events Centre
+- Harrogate District Hospital
+- Malham Drive
+- Mayfield Grove
+- North Yorkshire
+- Pateley Bridge
+- Raglan Street
+- Ripon
+- Saint Michael's Hospice
+- Spain
+- UK
+- US
+- York
+- Zoopla
+people:
+- Bon Cooper
+- Carla Gutierrez
+- Coun Viv Poskitt
+- David Skaith
+- Fiona Fox
+- Graeme Oliver
+- Greg Kubas
+- Jack Stokes
+- James Savage-Hanford
+- Jamie Nicholson-Ruther
+- John Godber
+- Joseph Haydn
+- Lee Bainbridge
+- Maria
+- Missa Sancti Nicolai
+- Philip Stokes
+- Simon Crawford
+- Tom Gordon
+- Victoria Lickley
+organisations:
+- 5b Kirkgate
+- Brackenfield School
+- Brierley Homes
+- Harrogate BID
+- Harrogate Model Railway Group
+- Harrogate Neighbours
+- Harrogate Theatre
+- Jommy Puledda
+- KMA
+- Knaresborough Library
+- Knaresborough Railway Gala
+- Le Creuset
+- Leeds
+- Lib Dem
+- Little Ferns Pre-School
+- Meraki Artisan Baker
+- North Rigton CE Primary School
+- North Yorkshire Council
+- Ofsted
+- Red Kite Teacher Training
+- Ripon Gazette
+- Savills
+- Spread Eagle
+- Squinting Cat
+- Studley Royal Cricket Club
+- Taylors of Harrogate
+- The Den
+- Valley Primary Academy
+- Veronica Bird OBE
+- Yorkshire Cancer Research
+- Zoopla
 ---
 
 ![Official opening of Little Ferns Pre-School at coppice Valley Primary Academy with Harrogate Mayor Coun Viv Poskitt. (Picture Gerard Binks)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNmMDdiYWU0LTE5YTQtNDkyOS1hNmQzLWEyNjRlMDk1NmU1ZDozZGY2OGZmYS0wZTQyLTQ4MWMtYWU2NC1kYTRkMjlmNTk3MzA=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

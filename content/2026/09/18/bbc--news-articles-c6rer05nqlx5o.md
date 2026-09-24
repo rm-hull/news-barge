@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Atlanta
+- Boston
+- Florida
+- Georgia
+- Heather Park
+- Israel
+- Israel-Gaza
+- Las Vegas
+- London
+- MGM Grand Garden Arena
+- Massachusetts
+- Mexico
+- Nevada
+- New Jersey
+- Northern Ireland
+- Palestine
+- Philadelphia
+- South America
+- Tampa
+- US
+- Ukraine
+- Ukraine-Russia
+people:
+- '"[Sheeran'
+- Damien Given
+- Ed Sheeran
+- Heather Park
+- Kellie
+- Macklemore
+- Matt Jaye
+- Patti Ann
+organisations:
+- BBC
+- Macklemore
+- Ticketmaster
 ---
 
 Ed Sheeran's tour in 'damage control mode' after Macklemore backlash

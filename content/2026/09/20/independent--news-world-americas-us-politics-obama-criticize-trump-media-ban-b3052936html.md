@@ -11,6 +11,38 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2024/11/13/14/GettyImages-1189044710.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gulf of America
+- Gulf of Mexico
+- New York
+- Syracuse
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- Jim Acosta
+- Joe Biden
+- Jonathan Karl
+- Steve Scalise
+organisations:
+- ABC
+- AI Force
+- Air Force One
+- CNN
+- Colgate University
+- Fox News
+- House Majority
+- MS Now
+- MSNBC
+- Oval Office
+- Politico
+- The Associated Press
+- The Independent
+- The New York Times
+- The Post-Standard
+- The Washington Post
+- Trump
+- then-CNN
 ---
 
 Former President Barack Obama blasted President Donald Trump's “unimaginable” decision to ban three news outlets from the White House — and mused about the likely reaction if he'd tried the same thing.

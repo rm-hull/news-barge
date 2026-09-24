@@ -12,6 +12,56 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Brantham
+- Britain
+- Buckingham Palace
+- England
+- Princess of Wales
+- Putney Bridge
+- Somerset
+- Suffolk
+- UK
+- US
+- Victoria
+people:
+- Andy Burnham
+- Charles
+- Dan Jeffries
+- Diana
+- Donald Trump
+- Earl Spencer
+- Harry
+- John Healey
+- Kemi Badenoch
+- King
+- Meghan
+- Nicholas Brandram
+- Noah Woods
+- William
+organisations:
+- AI
+- Anthropic
+- Budget
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Fed
+- Financial Times
+- Frome Community College
+- Guardian
+- Independent
+- Labour
+- Metro
+- Ministry of Justice
+- OpenAI
+- Royal Family
+- Sun
+- The Times
+- Trump
+- i Paper
 ---
 
 ![The headline on the front page of the Times reads: 'King: Grief has coloured earl's claims over Diana.'](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/4b0a/live/a498ad90-b216-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- America
+- Upper Geyser Basin
+- Yellowstone National Park
+people: []
+organisations:
+- ABC 4
+- Apple AirPods
+- Invaslign
+- Morning Glory Pool
+- Utah
+- Yellowstone
 ---
 
 Most thoughtful hikers and campers operate under the "leave no trace" principle — the wilderness should bear no mark of your visit.

@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Brixton Police Station
+- Darlington
+- Laburnum Grove
+- London
+- Manchester
+- Morgan’s County Durham
+- St Helen Auckland
+- Twickenham
+people:
+- Chris Wood
+- Dad
+- James Morgan
+- Mark McKone
+- Martin Towers
+- Olivia
+- WhatsApp
+organisations:
+- Airbnb
+- Durham Crown Court
+- Northern Echo
+- Paedophile
+- Probation Service
+- Recorder
 ---
 
 *(Image: The Northern Echo)*

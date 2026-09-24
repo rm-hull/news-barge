@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Halifax
+- North
+- UK
+people:
+- Jack Savoretti
+- James Morrison
+- Mick Hucknall
+- Simply Red
+- Soul II Soul
+organisations:
+- Cuffe and Taylor
+- Piece Hall
+- Simply Red
+- The Piece Hall
+- Yorkshire
 ---
 
 *(Image: The Piece Hall/Cuffe and Taylor)*

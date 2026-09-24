@@ -12,6 +12,27 @@ image: https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Los Angeles
+- Westfield Century City
+people:
+- Evan Spiegel
+- Snap
+organisations:
+- AI
+- AWE
+- Amazon
+- Google Glass
+- Meta
+- NBA
+- Nvidia
+- Salesforce
+- Snap
+- Snapchat
+- Specs Intelligence
+- Tripadvisor
+- WIRED
+- WNBA
 ---
 
 Snap, the company behind Snapchat and a new pair of $2,195 augmented-reality smart glasses, is finally sharing more about what its glasses can actually do. Details came at a launch event in Los Angeles, where the company also announced a new AI service that anticipates what you want to do while wearing the glasses—or even just using your phone or laptop.

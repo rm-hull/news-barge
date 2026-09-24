@@ -11,6 +11,105 @@ image: https://cdn.mos.cms.futurecdn.net/cHaFmZWXb4Mpmxb8mdtPV4-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- Cape Town
+- DHL Stadium
+- Ellis Park
+- Ellis Park Stadium
+- Johannesburg
+- NZ
+- NZST
+- New Zealand
+- South Africa
+- UK
+- US
+- uk
+people:
+- Andre Esterhuizen
+- Anton Lienert-Brown
+- Ardie Savea
+- Asafo Aumua
+- Cam Roigard
+- Cameron Hanekom
+- Cheslin Kolbe
+- Cobus Reinach
+- Codie Taylor
+- Damian McKenzie
+- Damian Willemse
+- Damian de Allende
+- Dave Rennie
+- Deon Fourie
+- Eben Etzebeth
+- Ethan Hooker
+- Ethan de Groot
+- Fabian Holland
+- Fletcher Newell
+- George Bower
+- Gerhard Steenekamp
+- Grant Williams
+- Handre Pollard
+- James Roberts
+- Jasper Wiese
+- Jesse Kriel
+- Jordie Barrett
+- Josh Lord
+- Josh Moorby
+- Kurt-Lee Arendse
+- Kyle Preston
+- Leroy Carter
+- Lood de Jager
+- Luke Jacobson
+- Malcolm Marx
+- Morne van den Berg
+- Ox Nche
+- Patrick Tuipulotu
+- Paul de Villiers
+- Peter Lakai
+- Pieter-Steph du Toit
+- Quinn Tupaea
+- Rassie Erasmus
+- Ruan Nortje
+- Ruben Love
+- Sacha Feinberg-Mngomezulu
+- Simon Parker
+- Siya Kolisi
+- Thomas du Toit
+- Tupou Vaa'i
+- Tyrel Lomax
+- Wilco Louw
+- Will Jordan
+- Xavier Numia
+organisations:
+- AU
+- All Blacks
+- Arsenal
+- Aston Villa
+- CA
+- FourFourTwo
+- Future Publishing
+- HIA
+- Head Injury Assessment
+- Kolisi
+- NOW Sports
+- NZST
+- Oxford Mail
+- Oxford United
+- RGR
+- Rugby
+- RugbyPass TV
+- Rugbypass TV
+- Sky Sport
+- Sky Sport 1
+- Sky Sport NZ**
+- Sky Sports
+- Sky Sports Action
+- South Africa XV
+- Springboks
+- Stan Sport
+- SuperSport
+- TechRadar
 ---
 
 ![New Zealand wing Will Jordan dives to score a try during the Rugby's Greatest Rivalry international rugby union match against South Africa at Ellis Park Stadium in Johannesburg, on August 22, 2026](https://cdn.mos.cms.futurecdn.net/cHaFmZWXb4Mpmxb8mdtPV4.jpg) 

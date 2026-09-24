@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - History
+locations:
+- Stourbridge
+- Worcester City
+- York
+people:
+- David McDermott
+organisations:
+- AFC Telford United
+- Kidderminster Harriers
+- Rushall Olympic
+- Walsall
+- York City
+- York City Football Club
 ---
 
 York City has paid tribute to former player David McDermott who’s died aged 38.

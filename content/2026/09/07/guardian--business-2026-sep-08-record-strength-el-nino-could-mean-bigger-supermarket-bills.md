@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Black Sea
+- Russia
+- US
+- Ukraine
+people:
+- Dennis Voznesenski
+- Jonathan Kearns
+- Michael Harvey
+organisations:
+- Australian Bureau of Statistics
+- Bureau of Meteorology
+- CBA
+- Challenger
+- El Niño
+- Food and Agricultural Organisation
+- RBA
+- Rabobank
+- Reserve Bank
 ---
 
 The most severe El Niño weather event on record threatens to push food prices higher this year, experts say, piling pressure on households already struggling with the post-pandemic spike in grocery bills and complicating the Reserve Bank’s efforts to bring inflation back under control.

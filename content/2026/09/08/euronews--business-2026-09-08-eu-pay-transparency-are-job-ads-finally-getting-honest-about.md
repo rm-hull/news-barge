@@ -15,6 +15,36 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Antwerp
+- Belgium.
+- Brooklyn
+- Europe
+- France
+- Germany
+- Greece
+- Italy
+- Lithuania
+- Malta
+- Netherlands
+- New York
+- Slovakia
+- Spain
+- UK
+people:
+- Esther Lynch
+- Indeed
+- Pawel Adrjan
+organisations:
+- ETUC
+- EU Pay Transparency Directive
+- Euronews Business
+- European Commission
+- European Trade Union Confederation
+- Eurostat
+- Indeed
+- New York State Department of Labor
+- PwC
 ---
 
 ## Only a few EU countries met the deadline for the Pay Transparency Directive. Indeed’s data shows possible changes in the share of job postings that include salary information.

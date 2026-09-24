@@ -13,6 +13,24 @@ categories:
 - Science
 - Technology & Software
 - Society & Culture
+locations:
+- Baltic Sea
+- Earth
+- Gloucestershire
+- Hillary Shaw
+- Jupiter
+- Newport
+- Oregon
+- Portland
+- Shropshire
+- UK
+- US
+- Wotton-under-Edge
+people:
+- Andrew Ward
+- Anthony Woodward
+organisations:
+- Jupiter
 ---
 
 ![Stunning sunset over the Baltic Sea with the sun disappearing below the horizon creating a bright glow on water.; Shutterstock ID 2765860393; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306142073.jpg?w=840)

@@ -14,6 +14,23 @@ image: null
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Israel
+- New York
+- New York City
+- U.S.
+people:
+- Benjamin Netanyahu
+- Danny Danon
+- Trump
+- Zohran Mamdani
+organisations:
+- Hamas
+- ICC
+- International Criminal Court
+- U.N
+- U.N.
 ---
 
 Israeli Prime Minister Benjamin Netanyahu is making a whirlwind 24-hour trip to speak at the annual U.N. gathering of world leaders this month because “there is no option” after New York’s mayor urged his arrest over the war in Gaza, Israel’s U.N. envoy said Tuesday.

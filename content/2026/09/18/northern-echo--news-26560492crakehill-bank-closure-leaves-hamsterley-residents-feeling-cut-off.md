@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A68
+- County Durham
+- Crakehill Bank
+- Hamsterley
+- NORTHERN ECHO
+people:
+- Brian Hurworth
+- Carer Emma Atkinson
+- Etherington
+- Jan Wilkinson
+- Ms Atkinson
+- Tim McGuinness
+organisations:
+- A68
+- Crakehill Bank
+- Durham County Council
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

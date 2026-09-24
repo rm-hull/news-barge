@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Relationships & Dating
+locations:
+- Goole
+- North Yorkshire
+- Northallerton
+people:
+- Callum Storr
+- Ms A. He
+organisations:
+- Big Rose Stag Do
+- North Yorkshire Police
+- Police Federation
+- WhatsApp
 ---
 
 ![Red and cream building in the middle of the picture with the logo of North Yorkshire Police on the front of the building. In front of the building is a car park with a road to the left of the image. Trees and a hedge are to the right of the picture](https://ichef.bbci.co.uk/ace/standard/978/cpsprodpb/5562/live/6cc7ed70-aacf-11f1-aa35-df10e5ff32f4.jpg)

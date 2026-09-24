@@ -13,6 +13,38 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Dallas
+- Iran
+- Nevada
+- New Hampshire
+- Texas
+people:
+- Andy Biggs
+- Charlie Kirk
+- Chris Pappas
+- Donald Trump
+- JD Vance
+- Jeanne Shaheen
+- John Sununu
+- Katie Hobbs
+- Ken Paxton
+- Point
+organisations:
+- Cook Political Report
+- House
+- Hugo Lowell’sInner Loop
+- MAGA Inc
+- MAGA Inc.
+- No Going Back PAC Inc
+- RNC
+- Republican National Committee
+- Senate
+- Trump
+- Turning Point
+- WIRED
+- Wall Street Journal
 ---
 
 A year after the assassination of cofounder Charlie Kirk, Turning Point plans to pour tens of millions of dollars into the midterm elections to help Republican candidates in key congressional and gubernatorial races, according to sources familiar with the matter.

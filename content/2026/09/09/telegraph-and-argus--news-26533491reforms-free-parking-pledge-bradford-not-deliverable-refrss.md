@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bradford Council-owned
+people:
+- Ian Eglin
+- Ian Walker
+- Stephen Place
+organisations:
+- Bradford Council
+- Cabinet
+- Council’s Reform Executive
+- Neighbourhoods and Communities
+- Portfolio Holder
+- Reform Councillor
+- Telegraph & Argus
+- Your Administration
 ---
 
 *(Image: T&A)*

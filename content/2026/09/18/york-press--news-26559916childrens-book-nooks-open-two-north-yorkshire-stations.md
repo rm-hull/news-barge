@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Malton
+- North Yorkshire
+- TPE
+- Thirsk station
+- TransPennine
+people:
+- Amelia Tait
+- Mike Drewery
+- Ms Tait
+organisations:
+- Book Nook
+- Book Nooks
+- Hachette UK
+- Hachette’s Raising Readers
+- TPE
+- The Reading Agency
+- TransPennine Express
+- TransPennine Express’
 ---
 
 *(Image: TransPennine)*

@@ -14,6 +14,26 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Harrogate District Hospital
+- Herriots
+- Ireland
+people:
+- Andy Jones
+- Jonathan Coulter
+- Jonathan Houlston
+organisations:
+- Café Bistro
+- Compass Group UK
+- Costa Coffee
+- Costa Coffee and M&S Food
+- District NHS Foundation Trust
+- Harrogate District Hospital
+- Harrogate and District NHS Foundation Trust
+- Harrogate and District NHS Foundation Trust Board
+- One Retail
+- WH Smiths
+- noviniti
 ---
 
 Work is set to begin on a major redevelopment of the main entrance at Harrogate District Hospital, following approval from the Harrogate and District NHS Foundation Trust Board.

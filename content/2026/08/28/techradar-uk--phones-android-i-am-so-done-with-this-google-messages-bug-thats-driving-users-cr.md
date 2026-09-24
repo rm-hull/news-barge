@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+- Reddit
+organisations:
+- Android Authority
+- Gizmodo
+- Google Messages
+- Google News
+- Google Search
+- PC Explorer
+- Reddit
+- The Hardware Handbook
 ---
 
 ![The bottom left corner of an Android phone, showing the Phone, Messages, Google icons and Google Search bar](https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa.jpg) 

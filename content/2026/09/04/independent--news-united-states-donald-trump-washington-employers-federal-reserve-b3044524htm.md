@@ -15,6 +15,25 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- U.S.
+- United States
+people:
+- David Kelly
+- Donald Trump
+- Gregory Daco
+- Lydia Boussour
+organisations:
+- Boussour
+- Daco
+- EY-Parthenon
+- FactSet
+- Federal Reserve
+- J.P.
+- Labor Department
+- Morgan Asset Management
+- Trump
+- U.S. Labor Department
 ---
 
 The U.S. Labor Department is expected to report Friday that the American job market bounced back last month from a dismal July, even though jobseekers continue to struggle and pay gains are slight.

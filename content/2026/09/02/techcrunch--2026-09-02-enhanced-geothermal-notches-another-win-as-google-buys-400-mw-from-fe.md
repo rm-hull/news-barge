@@ -12,6 +12,20 @@ image: https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-a
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Cape Station
+- Texas
+- U.S.
+- Utah
+people:
+- Fervo
+- Sarah Jewett
+organisations:
+- Crusoe
+- Fervo
+- Google
+- TechCrunch
+- U.S. Department of Energy
 ---
 
 Geothermal energy company Fervo notched another win as Google agreed to buy nearly half a gigawatt of electricity to power a planned new data center in Utah.

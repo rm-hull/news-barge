@@ -11,6 +11,22 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/06/18/09/2232400334..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Birmingham
+- Britain
+- St George
+people:
+- Heather Mack
+- Stephen Williams
+organisations:
+- BBC
+- Birmingham City Council
+- Bristol City Council
+- Bristol Lib Dem
+- High Court
+- Oxfordshire County Council
+- Raise the Colours
+- Somerset
 ---
 
 People who fly flags on lampposts or other public property could face prison under crackdowns being considered by councils.

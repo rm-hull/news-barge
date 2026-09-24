@@ -13,6 +13,33 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/23/UN_General_Assembly_96535.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chile
+- Cuba
+- Egypt
+- Finland
+- Gaza
+- Greenland
+- Israel
+- Latin America
+- Peru
+- Qatar
+- U.S.
+- United States
+people:
+- Alexander Stubb
+- Bruno Rodríguez
+- Donald Trump
+- Elena Kalku
+- Emir Sheikh Tamim bin Hamad Al Thani
+- Frank Sinatra
+- José Antonio Kast
+- Keiko Fujimori
+- Phil Collins
+organisations:
+- General Assembly
+- U.N.
+- United Nations
 ---
 
 Donald Trump spoke and made the diplomatic rounds. The U.N. secretary-general gave his final opening speech. And on the grounds of the United Nations, Greenland entered a bit of a new era.

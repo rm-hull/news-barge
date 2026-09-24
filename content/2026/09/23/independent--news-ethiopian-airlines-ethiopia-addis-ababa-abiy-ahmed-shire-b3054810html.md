@@ -13,6 +13,20 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/14/Ethiopia-Opposition-Alliance_92656.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Axum
+- Ethiopia
+- Mekelle
+- Shire
+- Tigray
+people:
+- Abiy Ahmed
+organisations:
+- Ethiopian Airlines
+- Ethiopian Peoples’ Forces Alliance for Survival
+- Prosperity Party
+- Tigray People's Liberation Front
+- Tigray People’s Liberation Front
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

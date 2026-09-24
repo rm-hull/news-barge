@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Kerala
+- UK
+- York
+people:
+- Michelle Ovens
+- Sharmini Thomas
+organisations:
+- City of York Council
+- Indian Cuisine Cookery School
+- Inspirational Indian Cuisine Cookery School
+- Nation’s Best Curry School
+- Sharmini
+- Small Business Saturday
+- Small Business Saturday UK
 ---
 
 *(Image: Submitted)*

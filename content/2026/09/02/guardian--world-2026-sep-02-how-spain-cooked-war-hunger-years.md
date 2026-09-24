@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Arts & Culture
 - Food & Cooking
+locations:
+- Barcelona
+- Madrid
+- Spain
+- Valencia
+people:
+- Berta Álvarez Acal
+- Ignacio Doménech
+- Miguel Ángel del Arco Blanco
+organisations:
+- University of Granada
 ---
 
 Few dishes are simpler to prepare than Spain’s signature dish of *tortilla de patatas*, which – aside from disputes about onions – requires nothing more than two basic ingredients and a pinch of salt. But where to begin if you have neither eggs nor potatoes?

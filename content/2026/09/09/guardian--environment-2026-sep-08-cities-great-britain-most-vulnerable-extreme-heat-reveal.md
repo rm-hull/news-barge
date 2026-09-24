@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Brighton
+- Bristol
+- City of London
+- City of Westminster
+- England
+- Exeter
+- Fratton
+- Great Britain
+- Hove
+- Leicester
+- Milton Keynes
+- Northern Ireland
+- Nottingham
+- Plymouth
+- Portsea
+- Portsmouth
+- Portsmouth.
+- Scotland
+- Somerstown
+- Southsea
+- UK
+- Wales
+people:
+- Jonathan Hendry
+- Nick Bolton
+organisations:
+- 4 Earth Intelligence
+- City of Westminster
+- Met Office
+- OS
+- Ordnance Survey
+- Portsmouth
+- Spinnaker Tower
 ---
 
 Portsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that warm the most by the end of this century as global heating turns British cities into urban heat islands, according to research.

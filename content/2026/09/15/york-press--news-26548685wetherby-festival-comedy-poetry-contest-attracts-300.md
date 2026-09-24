@@ -13,6 +13,12 @@ categories:
 - York
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- North Yorkshire
+- UK
+people: []
+organisations:
+- Wetherby Festival
 ---
 
 *(Image: Supplied)*

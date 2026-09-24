@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Kyiv
+- Moscow
+- Russia
+- Ukraine
+people:
+- Kyiv
+- Mykhailo Fedorov
+- Nikolai Varpakhovich
+- Oleh Khramov
+- Volodymyr Zelenskyy
+organisations:
+- HUR
+- SBU
 ---
 
 Several people have been injured in a shootout in central Kyiv between two branches of Ukraine’s security services, in an incident Volodymyr Zelenskyy described as “disgraceful”.

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- Cameroon
+- China
+- Dubai
+- Europe
+- Germany
+- London
+- Satra
+- Saxony-Anhalt
+- Somalia
+- Stockholm Mosque
+- Sudan
+- Sweden
+- Ukraine
+people:
+- Bram Frouws
+- Cornelius
+- Elena Ibrahim
+- Johan Forssell
+- Ludvig Aspling
+- Mahmoud Khalfi
+- Mary Khan-Hohloch
+- Ulf Kristersson
+organisations:
+- AfD
+- Alternative for Germany
+- Mixed Migration Centre
 ---
 
 Sweden was once known for welcoming migrants.

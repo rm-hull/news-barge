@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- British Virgin Islands
+- Caribbean
+- Chelsea
+- Inner West London
+- Lister Hospital
+- Necker Island
+- Westminster
+people:
+- Basir Kunduzi
+- Fiona Wilcox
+- George Adams
+- Holly Branson
+- Inaki Bovil
+- Joan Branson
+- Lady Branson
+- Lady Joan
+- Life
+- Nevil Pavithran
+- Richard Branson
+organisations:
+- HCA Healthcare
+- Imperial
+- Westminster Coroner’s Court
 ---
 
 The failure of a private hospital to provide preventative medication contributed to the death of Sir Richard Branson’s wife, an inquest has concluded.

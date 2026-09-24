@@ -16,6 +16,16 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+people:
+- Amanda Larnder
+- David Potter
+organisations:
+- Avalon
+- Ocular
+- Synectic
+- Synectics
 ---
 
 # Synectics: Sheffield-based security systems firm secures £1.4m bus contract with regional authority

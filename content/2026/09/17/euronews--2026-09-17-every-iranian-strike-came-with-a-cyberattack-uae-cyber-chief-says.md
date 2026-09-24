@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Al Kuwaiti
+- Dubai
+- Iran
+- UAE
+people:
+- Al Kuwaiti
+- Mohamed Al Kuwaiti
+organisations:
+- Al Kuwaiti
+- Euronews
+- International Telecommunication Union
+- UAE Cybersecurity Council
+- United Nations
 ---
 
 ## Dr Mohamed Al Kuwaiti told Euronews the UAE was hit online and from the air at the same time, and says international law still has no answer for it.

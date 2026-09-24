@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/v8LYyvBfpYanyKNXKLA8RF-2291-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Africa
+- Asia
+- China
+- France
+- Germany
+- Hong Kong
+- Israel
+- Russia
+- Singapore
+- UK
+- US
+people:
+- Crawford
+- David Peterson
+- Rene Millman
+organisations:
+- Android VPNs
+- Apple
+- Computer Weekly
+- Financial Times
+- Google News
+- IT Pro
+- No Trace
+- Proton VPN
+- Proton VPN General Manager
+- TechRadar
+- The Guardian
+- VPN Proxy Master
+- VPN-Fast VPN Super
+- X-VPN
 ---
 
 ![VPN Shield Security. Phone Concept - stock photo](https://cdn.mos.cms.futurecdn.net/v8LYyvBfpYanyKNXKLA8RF.jpg) 

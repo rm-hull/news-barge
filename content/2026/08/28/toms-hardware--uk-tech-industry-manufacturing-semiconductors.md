@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- David Zinsner
+- Raghu Sreeramaneni
+organisations:
+- Get Tom's Hardware
+- Hot Chips
+- Igor Arsovski
+- Intel
+- Kyoto University
+- LG
+- LPU
+- Nvidia
+- OpenAI
+- The Information
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC-320-80.jpg)

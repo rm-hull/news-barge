@@ -11,6 +11,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Cottingham
+- Hull City
+- Millhouse Woods Lane
+- Qatar
+- Wales
+people:
+- Sorba Thomas
+organisations:
+- BBC Sounds
+- East Yorkshire
+- Hull City
+- Humberside Police
+- Land Rover
+- Land Rover Defender
+- NHS
+- Premier League
+- Sorba Thomas
+- Stoke City
+- Tigers
 ---
 
 ![A silver car is overturned on its roof with all the doors open, glass shattered on the road. It is half on the pavement next to a bush, half on the road.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg)

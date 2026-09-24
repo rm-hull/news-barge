@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Crystal Palace
+- Etihad Stadium
+- Fleetwood Town
+people:
+- Harrison Neal
+- Mikel Arteta
+- Rhys Norrington-Davies
+- Xabi Alonso
+organisations:
+- Arsenal Manchester City
+- Aston Villa
+- Barnsley
+- Brentford Liverpool
+- Brighton Everton
+- Chelsea Bradford
+- Crystal Palace Bournemouth
+- Fleetwood Town
+- Ipswich Town
+- Lancashire
+- Leyton Orient
+- Manchester City
+- Newcastle Sunderland
+- Newcastle United
+- Norwich
+- Peterborough Fulham
+- Sheffield United
 ---
 
 ![Harrison Neal of Fleetwood Town celebrates](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/a20d/live/cf4e0ee0-b216-11f1-8117-470b3119e06f.jpg)

@@ -14,6 +14,22 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+people:
+- Die Grünen
+- Die Linke
+- Die Tierschutzpartei
+organisations:
+- Animal Welfare Party
+- BSW
+- CDU
+- FDP
+- House of Representatives
+- SPD
+- U16
+- U18
+- Volt
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0090213731h-scaled.jpg)

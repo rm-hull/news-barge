@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Aston Lane
+- Cheshire
+- Mersey Gateway
+- Rainhill
+- Runcorn
+- Watkinson Way
+- Whitehouse
+people:
+- McClatchey
+organisations:
+- DS McClatchy
+- Diageo
+- GXO
+- Guinness
 ---
 
 The famous tagline “Guinness is good for you” applies only when the drink is bought and paid for, police have said, after thieves made off with more than 70,000 pints’ worth in Cheshire.

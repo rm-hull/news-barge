@@ -11,6 +11,17 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312403005.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Earth
+- Neptune
+- UK
+- Uranus
+people:
+- Gunnar Weck
+organisations:
+- French Alternative Energies and Atomic Energy Commission
+- Israel Osmond
+- University of Edinburgh
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312403005.jpg?w=840)

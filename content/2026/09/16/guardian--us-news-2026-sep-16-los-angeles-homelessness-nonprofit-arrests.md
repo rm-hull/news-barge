@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- California
+- Los Angeles
+- Minnesota
+- US
+people:
+- Alexander Soofer
+- Bill Essayli
+- Colin M McDonald
+- Donald Trump
+- Donye Mitchell
+- JD Vance
+- Karen Bass
+- Lakiya Malone
+- Michael Young
+- Scott Turner
+organisations:
+- Department of Justice
+- Home At Last
+- Lahsa
+- National Fraud Enforcement Division
+- Special Service for Groups
+- The Big Blue Umbrella
+- Trump
 ---
 
 Federal law enforcement officers have arrested two employees of California-based homelessness non-profits on corruption charges, alleging that they misappropriated millions in taxpayer dollars.

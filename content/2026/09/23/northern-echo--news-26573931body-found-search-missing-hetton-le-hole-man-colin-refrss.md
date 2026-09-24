@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/17033782.jpg?type=og-image
+locations:
+- County Durham
+- Hetton
+- Hetton-le-Hole
+- High Moorsley
+- Middlesbrough
+- North East
+people:
+- Colin
+- Nick Went
+organisations:
+- CCTV
+- Missing Investigation Team
+- Northumbria Police
 ---
 
 *(Image: NP)*

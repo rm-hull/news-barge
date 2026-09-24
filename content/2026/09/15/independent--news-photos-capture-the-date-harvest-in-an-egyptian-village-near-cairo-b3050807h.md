@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Cairo
+- Kafr Sendwah
+- Qalyubia
+people:
+- Hajj Ibrahim
+organisations: []
 ---
 
 Photos capture the date harvest in an Egyptian village near Cairo

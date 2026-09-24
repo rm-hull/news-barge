@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21488788.jpg?type=og-image&xType=0&yType=13
+locations:
+- Bishop Auckland
+- Darlington
+- PETER REIMANN
+- South Park
+- The County Durham
+people:
+- PETER REIMANN
+organisations:
+- Darlington Borough Council
 ---
 
 One of Darlington's most scenic parks remains fenced off two months after being hit by "mindless vandalism".

@@ -16,6 +16,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Iran
+- U.S.
+people: []
+organisations:
+- FactSet
+- JOLTS
+- Job Openings and Labor Turnover Survey
+- Labor Department
+- Trump
 ---
 
 Employers posted slightly more job openings in July but as the American labor market remained sturdy in the face of higher costs that are squeezing household budgets.

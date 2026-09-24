@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/63Ko2WH9CX3GSNh5q2SuxZ-2048-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Cardiff
+- Matt Evans
+people:
+- Becca Caddy
+- Matt
+organisations:
+- Apple
+- Google News
+- Huawei
+- Mastercard
+- Men's Health
+- NFC
+- Runner's World
+- TechRadar
 ---
 
 ![Circular Ring 3 Slim](https://cdn.mos.cms.futurecdn.net/63Ko2WH9CX3GSNh5q2SuxZ.jpg) 

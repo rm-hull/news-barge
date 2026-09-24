@@ -15,6 +15,17 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 - News & Politics
+locations:
+- A61
+- Dunlopillo
+- Harrogate
+- Pannal railway station
+- Smithy Close
+- Thirkhill Drive
+people: []
+organisations:
+- Forward Investments LLP
+- North Yorkshire Council
 ---
 
 # Plans for 150 new homes on green belt land near Harrogate submitted to North Yorkshire Council

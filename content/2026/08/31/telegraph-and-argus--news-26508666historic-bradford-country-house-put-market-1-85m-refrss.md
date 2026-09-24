@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - History
 - Personal Finance & Investing
+locations:
+- Bingley
+- Bradford
+- Harden
+- Leeds
+- Ryecroft
+- UGC
+people:
+- Dacre
+- Steven Potts
+organisations:
+- Dacre, Son & Hartley
+- Harden Hall
+- Son & Hartley’s Bingley office
 ---
 
 *(Image: UGC)*

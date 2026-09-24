@@ -13,6 +13,23 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/19/05/Italy_West_Nile_Virus__2145.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Cyprus
+- Europe
+- Italy
+- The Netherlands
+- West Nile
+people:
+- Antonino Bella
+- Marc-Alain Widdowson
+organisations:
+- AMR Division
+- ECDC
+- European Center for Disease Prevention and Control
+- ISS
+- National Institute of Health
+- Pandemic Threats, Communicable Diseases
+- World Health Organization
 ---
 
 Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year.

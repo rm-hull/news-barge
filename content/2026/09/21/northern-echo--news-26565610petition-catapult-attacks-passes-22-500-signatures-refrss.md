@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21477752.jpg?type=og-image&xType=0&yType=100
+locations:
+- County Durham
+- DARLINGTON BIRD RESCUE
+- Darlington
+- North East
+- North Park Recreation Ground
+- Northumberland
+- Shildon
+- Tyne and Wear
+- UK
+people: []
+organisations:
+- BBC
+- DARLINGTON BIRD RESCUE
+- Darlington Bird Rescue
+- North Yorkshire
+- RSPCA
+- The Northern Echo
 ---
 
 *(Image: DARLINGTON BIRD RESCUE)*

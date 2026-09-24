@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - Technology & Software
 - True Crime
+locations:
+- County Durham
+- Darlington
+- Peterlee
+people:
+- Joy Allen
+organisations:
+- A66
+- Local Engagement Programme
+- PCC
 ---
 
 *(Image: Supplied)*

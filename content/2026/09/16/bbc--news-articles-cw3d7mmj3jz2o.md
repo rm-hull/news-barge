@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- An Garda Síochána
+- County Donegal
+- Creggan
+- Derry
+- Eastway
+- Grafton Street
+- Letterkenny
+- Londonderry
+- Maghaberry Prison
+- Magilligan Prison
+- Northern Ireland
+- St Mary's Church
+people:
+- '** Anderson'
+- Gary Anderson
+- Karol Kelly
+- Naomi Long
+- Sean Anderson
+- Trevor Clarke
+organisations:
+- BBC Radio Foyle
+- CTR
+- DUP
+- ECHR
+- European Convention on Human Rights
+- LCJ
+- Office of
+- Office of the
+- Office of the Lady Chief Justice
+- PSNI
+- Police Service of Northern Ireland
 ---
 
 ![Mugshot of man with short dark hair and a grey sweater](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6e91/live/f331b570-b066-11f1-a540-61c3f7fc4e6c.jpg)

@@ -16,6 +16,34 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/20/19/Haiti_US_Presidential_Killing_82776.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Caribbean
+- Haiti
+- National Palace
+- Port-au-Prince
+- Puerto Rico
+- San Juan
+- South Florida
+- U.S.
+people:
+- Antonio Intriago
+- Arcángel Pretel Ortiz
+- Brett Skiles
+- Christian Sanon
+- Dimitri Hérard
+- James Solages
+- Jason Reding Quiñones
+- Jovenel Moïse
+- Walter Veintemilla
+- \_\_\_ Dánica Coto
+organisations:
+- CTU
+- Counter Terrorist Unit Federal Academy and Counter Terrorist Unit Security
+- FBI
+- Ministry of Justice
+- Southern District of Florida
+- Worldwide Capital Lending Group
 ---
 
 Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Moïse were awaiting extradition to the U.S. on Sunday, marking the end of a drawn-out judicial process in Haiti for a killing that shocked the troubled Caribbean country.

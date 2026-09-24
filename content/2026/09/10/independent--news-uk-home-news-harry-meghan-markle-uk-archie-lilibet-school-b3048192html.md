@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Britain
+- Duke and Duchess of Sussex
+- Liverpool
+- North America
+- Princess of Wales
+- UK
+- US
+- Uganda
+people:
+- Archie
+- Chamberlain
+- Elizabeth II
+- Harry
+- Harry-Meghan
+- Kate
+- King
+- Lili
+- Lilibet
+- Meghan
+- Muhoozi Kainerugaba
+- William
+organisations:
+- Duchess of Sussex
+- Everton Football Club
+- Government
+- ITV News
+- Royal Household
+- Sussexes
+- YouGov
 ---
 
 The Duke and Duchess of Sussex are "happy to be back" in the UK, and getting Prince Archie and Princess Lilibet settled "remains their focus", a source has said.

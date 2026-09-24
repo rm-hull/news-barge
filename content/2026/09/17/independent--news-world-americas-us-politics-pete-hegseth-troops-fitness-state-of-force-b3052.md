@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Camp Humphreys
+- Canada
+- Caribbean
+- Chicago
+- Iran
+- Kentucky
+- South Korea
+- U.S.
+- Virginia
+people:
+- Josh Johnson
+- Pete Hegseth
+- Sean Parnell
+- Thomas Massie
+organisations:
+- Army
+- Department of Defense
+- House of Representatives
+- Marine Corps Base Quantico
+- Navy
+- Pentagon
+- State of the Force
+- Texas National Guard
+- The Independent
+- Wall Street Journal
 ---
 
 The Pentagon has reportedly sent out an email seeking troops to appear alongside Defense Secretary Pete Hegseth at a major speech later this month – but only if they meet strict fitness and grooming standards.

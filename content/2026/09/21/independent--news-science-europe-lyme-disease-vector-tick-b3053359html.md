@@ -12,6 +12,16 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/21/6/02/Dead-Hard-Ticks-(Ixodes-Ricinus-also-known-as-Sheep-Ticks)-in-various-stages-of-their-development-(L.jpeg?trim=0,32,0,32&width=1200&height=800&crop=1200:800
+locations:
+- Bristol
+- England
+- Europe
+- Liverpool
+- Lyme Park
+- UK
+people:
+- Ixodes Ricinus
+organisations: []
 ---
 
 An arachnid that’s considered the worst disease-carrying bug in Europe hunts mostly at night, according to a new study that upends our understanding of the risk it poses.

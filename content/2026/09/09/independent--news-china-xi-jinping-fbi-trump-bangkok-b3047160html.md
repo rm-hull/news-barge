@@ -14,6 +14,42 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Beijing
+- China
+- Dallas
+- Texas
+- U.S
+- U.S.
+people:
+- Donald Trump
+- Mao Ning
+- Scott Bessent
+- Xi Jinping
+organisations:
+- Alibaba
+- American AI
+- Anthropic
+- Chinese AI
+- Claude
+- Cox School of Business
+- DeepSeek
+- FBI
+- GPT
+- Gemini
+- Google
+- Grok “
+- Kimi K3
+- Ministry of Foreign Affairs
+- Moonshot AI
+- National Security Agency and Cybersecurity and Infrastructure Security Agency
+- OpenAI
+- Southern Methodist University
+- SpaceXAI
+- U.S. AI
+- U.S. Treasury
+- Z.ai
 ---
 
 China hit back Wednesday against U.S. claims that Chinese artificial intelligence developers are engaged in “aggressive, malicious” industrial-scale efforts to extract capabilities from frontier American AI systems.

@@ -11,6 +11,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga-2560-80.jpg
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- Ukraine
+people:
+- Conti
+- Sead
+- ShinyHunters
+organisations:
+- Al Jazeera Balkans
+- Black Basta
+- Cl0p
+- Cl0p’s
+- Conti
+- Conti’s
+- Cybernews
+- Google News
+- Represent Communications
+- Royal
+- ShinyHunters
+- TechRadar Pro
 ---
 
 ![An image of a digitized skull and crossbones symbolizing hacking and cyberattacks overlayed on a background of digital glitches and noise.](https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga.jpg)

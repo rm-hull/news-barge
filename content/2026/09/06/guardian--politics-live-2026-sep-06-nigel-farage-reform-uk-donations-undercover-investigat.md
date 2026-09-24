@@ -13,6 +13,83 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Argentina
+- Birmingham
+- Britain
+- Camden
+- Clacton
+- Downing Street
+- England
+- Falkland Islands
+- Falklands
+- Fareham
+- France
+- Germany
+- Holborn
+- Leipzig
+- Port of Dover
+- Russia
+- Somalia
+- St Pancras
+- UK
+- US
+- Wales
+- West Midlands
+people:
+- Alamy
+- Andy Burnham
+- Angus Thomson
+- Anna Isaac
+- Christopher Harborne
+- Dan Jukes
+- Dhesi
+- Francis Fukuyama
+- James Orr
+- Javier Milei
+- Jeff Overs
+- Jeremy Vine
+- Jon Sopel
+- Jonathan Reynolds
+- Jordan Bardella
+- Keir Starmer
+- Kiran Stacey Javier Milei
+- Laura Kuenssberg
+- Nigel Farage
+- PB Balaji
+- Rob Carter
+- Robert Jenrick
+- Sagal Abdi-Wali
+- Sharon Graham
+- Stanley
+- Stephen Yaxley-Lennon
+- Suella Braverman
+- Tommy Robinson
+- Zack Polanski
+- Zia Yusuf
+organisations:
+- BBC
+- Cabinet
+- Camden
+- Centre for Climate Reporting
+- Channel 4 News
+- Daily T
+- Green
+- Guardian
+- Home Office
+- JLR
+- Jaguar Land Rover
+- Labour
+- PA Farage
+- Patriot Platform
+- Reform UK
+- Sky News
+- Sunday Times
+- Tata Motors
+- Unite
+- Verbatim Investigations
+- Waterlooville
+- YouTube
 ---
 
 Farage admits that the undercover report on donations 'looks bad'

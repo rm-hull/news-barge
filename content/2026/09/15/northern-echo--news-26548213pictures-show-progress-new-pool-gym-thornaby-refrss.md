@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Golden Eagle
+- PETER REIMANN
+- Phoenix House
+- Thornaby Pavilion
+- Thornaby Town Centre
+- Trenchard Avenue
+- YOUR
+people:
+- Ann Ming
+- Richard Eglington
+organisations:
+- Public Notice Portal
+- Tees Active-run
+- Thornaby Town Deal
+- Town Deal Board
 ---
 
 ### What is the Public Notice Portal?

@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- East Yorkshire
+- Hull
+- Iran
+- North and East Yorkshire
+- Red Sea
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Simon Williams
+organisations:
+- RAC
 ---
 
 # 'Perfect storm' sees heating oil price nearly double in year, with petrol and diesel at four-year high

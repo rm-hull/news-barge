@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- East Yorkshire
+- Ganstead
+- Longdales Lane
+people:
+- Mini Cooper
+organisations:
+- Honda
+- Humberside Police
 ---
 
 # Motorcyclist, 77, dies after car and bike crash on East Yorkshire road

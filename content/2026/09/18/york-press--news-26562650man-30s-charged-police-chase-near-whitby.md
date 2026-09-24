@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- North Yorkshire
+- Pixabay
+- Whitby *(Image
+people: []
+organisations:
+- North Yorkshire Police
+- The Press
 ---
 
 ## Man in his 30s charged after dramatic police chase in North Yorkshire

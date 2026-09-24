@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Real Estate
+locations:
+- Australia
+- Canberra
+- Melbourne
+- Queensland
+- Sydney
+people:
+- Alex Hogan
+- Eibhlinn Cassidy
+- Remy Coll
+- Terry Rawnsley
+- Tim Wilson
+organisations:
+- Cotality
+- Guardian Australia
+- KPMG
+- Labor
+- Liberal Treasury
+- RBA
 ---
 
 Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.

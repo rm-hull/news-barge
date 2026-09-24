@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cumberland County
+- Hope Mills
+- North Carolina
+people:
+- Adam Bean
+- Adam!!!
+- Nekime Oxendine
+organisations:
+- Cumberland County Sheriff’s Office
+- State Highway Patrol
+- WRAL
 ---
 
 A North Carolina state trooper is accused of fatally shooting a fellow cop as a love triangle took a deadly turn.

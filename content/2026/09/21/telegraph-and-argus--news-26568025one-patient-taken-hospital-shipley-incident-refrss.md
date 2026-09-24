@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/14861168.jpg?type=og-image
+locations:
+- Leeds Road
+- Shipley
+- UGC
+- West Yorkshire
+people: []
+organisations:
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

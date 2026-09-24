@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Europe
+- Scotland
+- Wales
+people:
+- Aneurin Bevan
+- Covid
+- Gary Owen
+- Henry IV
+- Michael Sheen
+- Owain Glyndŵr
+- Reginald de Grey
+- Richard II
+organisations:
+- Donald Gordon
+- Inns of Court
+- Labour UK
+- NHS
+- Owain & Henry
+- Plaid Cymru
+- Plaid Welsh
+- Wales Millennium Centre
+- Welsh National Theatre
+- Welsh Senedd
 ---
 
 There are myriad films, plays and books focusing on heroes of English, Scottish and Irish history but far fewer that tell the stories of the great figures of Wales.

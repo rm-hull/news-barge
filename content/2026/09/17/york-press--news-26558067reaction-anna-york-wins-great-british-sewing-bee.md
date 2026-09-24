@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- York
+people:
+- Anna
+- Beth
+- Brenda
+- Emma
+- Esme Young
+- Patrick Grant
+- Sebastian
+- Steve
+organisations:
+- Anna's Sewing Bee
+- Costume Design
+- Sewing Bee
+- St Leonard
+- St Leonard's Hospice
+- St Leonard’s Hospice
+- The Press
 ---
 
 ## 'We've been rooting for her' - hospice celebrates Anna's Sewing Bee win

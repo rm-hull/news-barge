@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Danny Lawson
+- Full Sutton
+- HMP Millsike
+- PA
+- Pocklington
+- York
+people:
+- Mitie
+- Paul Newton
+- Rebecca Major
+organisations:
+- HM Prison and Probation Service
+- HMP Millsike
+- IMB Millsike
+- Independent Monitoring Board
+- Interim Director
+- MOJ
+- Ministry of Justice
+- Mitie Care and Custody
+- The Press
 ---
 
 A “chaotic” start and “consistent” staffing shortages are among the stark criticisms levelled at a prison near York in its first annual report.

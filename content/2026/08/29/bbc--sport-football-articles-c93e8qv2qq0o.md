@@ -13,6 +13,71 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- London.
+- Tottenham Hotspur Stadium
+people:
+- 5Archie Gray
+- 5Dominic Solanke
+- 5Harvey Barnes
+- 5Micky van de Ven
+- 5Moore
+- 5Omar Marmoush:** Debutant
+- 5Sandro Tonali
+- 5Subs
+- 5Udogie
+- 5Yoane Wissa:** Led
+- 6Andy Robertson
+- 6Sven Botman
+- 7Amar Dedic
+- 7Anthony Elanga:** Looks
+- 7Malick Thiaw
+- 7Nick Woltemade
+- 7Nico Gonzalez
+- Anthony Elanga
+- Antonin Kinsky
+- Bamba
+- Bergvall
+- Dan Burn
+- Davies
+- Dubravka
+- Fernandes
+- Gallagher
+- Hall
+- Jaouen
+- Kudus
+- Lukas Hornicek
+- Marmoush
+- Matthias Jaissle
+- Miley:** Goes
+- Murphy
+- Paul van Hecke
+- Porro
+- Ramsey
+- Robertson.
+- Sandro Tonali
+- Schar
+- Sean Steur
+- Senesi
+- Shahar
+- Tino Livramento
+- Tonali.
+- Toure
+- William Osula
+- Willock
+- Willock):** Header
+- Yoane Wissa
+- van Hecke
+organisations:
+- BBC Sport
+- Liverpool
+- Manchester City
+- Newcastle United
+- Spurs
+- Tel
+- Tottenham Hotspur
+- Unitedto
+- West Brom
 ---
 
 ![Tottenham's Sandro Tonali challenges Newcastle's Anthony Elanga during their Premier League match at the Tottenham Hotspur Stadium in north London.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bb70/live/04e8e750-a3d5-11f1-9323-c53d27c293d7.jpg)

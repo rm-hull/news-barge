@@ -11,6 +11,41 @@ image: https://static.independent.co.uk/2026/09/07/16/53/Trump-greatest-Truth-So
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- New America
+- New Mexico
+- North America
+- U.S.
+- US
+- White House
+people:
+- Abraham Lincoln
+- Barack Obama
+- Donald Trump
+- George Washington
+- Harry Sisson
+- Hulk Hogan
+- JD Vance
+- Joe Biden
+- Muhammad Ali
+- Robert De Niro
+- Snow White
+- Thomas Jefferson
+organisations:
+- 25th Amendment NOW
+- Cabinet
+- Congress
+- Financial Times
+- Focaldata
+- House
+- Radical Left Lunatics
+- Republicans Against Trump
+- Senate
+- Snow White
+- The Daily Beast
+- The Independent
+- Truth Social
 ---
 
 President Donald Trump bizarrely channeled his inner Snow White, as well as Muhammad Ali, with a series of manic Truth Social posts celebrating his “greatness” this Labor Day.

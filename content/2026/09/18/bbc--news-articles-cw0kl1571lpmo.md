@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png
+locations:
+- China
+- Gatwick Airport
+- Glasgow
+- Heathrow
+- London
+- Luton
+- South
+- Stockholm
+- Sweden
+- UK
+people:
+- Addie Kitson
+- Heidi Alexander
+- Martin Rolfe
+- Tim Alderslade
+organisations:
+- ATC
+- Airlines UK
+- BBC
+- Civil Aviation Authority
+- NATS
+- Nats
 ---
 
 ![Passengers wait for flights and connections at the South terminal of Gatwick Airport on September 09, 2026.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/30ef/live/99823870-b380-11f1-b1d1-571ed4d7ff2c.jpg)

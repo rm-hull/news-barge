@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- North East
+- Teesside
+- UK
+people:
+- Ben Raffell
+organisations:
+- BigWantsYourCar.com
+- British Fashion Council
+- DVLA
 ---
 
 *(Image: Getty)*

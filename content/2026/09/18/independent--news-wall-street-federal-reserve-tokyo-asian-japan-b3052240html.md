@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Middle East
+- South Korea
+- U.S.
+- Wall Street
+people:
+- Stan Choe
+organisations:
+- Bank of Japan
+- Fed
+- Federal Reserve
+- Shanghai Composite
+- Treasury
 ---
 
 Asian shares mostly rose in early Friday trading, getting a lift from a rally on Wall Street as well as declining oil prices.

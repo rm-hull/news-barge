@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Gordonstoun
+- Moray
+- Orkney
+- Swona
+people:
+- Archie Maclean
+- Dan McLean
+- Iona Fell
+- John O’Groats
+- King
+- Orca
+- Paul Clark
+- Swona
+- Twinly Kirk’
+organisations:
+- Orca
+- Orkney Research Centre for Archaeology
 ---
 
 A group of students from the school The King attended, have discovered the remains of what is thought to be a medieval Viking church on an uninhabited Scottish island.

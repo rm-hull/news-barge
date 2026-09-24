@@ -11,6 +11,21 @@ description: Founded by a 20-year-old, Alteon is developing autonomous aircraft 
 image: https://techcrunch.com/wp-content/uploads/2026/08/alteon-airplane.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- Bay of Bengal
+- Bengaluru
+people:
+- Bharath Swaminathan
+- Gabriel Bousquet
+- Lachy Groom
+- Samay Sanghvi
+organisations:
+- Alteon
+- Emergent Ventures
+- IIT Madras
+- MIT
+- TechCrunch
+- Together Fund
 ---
 
 Prominent solo investor Lachy Groom has backed a Bengaluru startup attempting an ambitious feat: keeping an aircraft in the sky for more than a year by harvesting energy from ocean winds.

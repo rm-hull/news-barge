@@ -12,6 +12,14 @@ categories:
 - York
 - Film & TV
 - Technology & Software
+locations:
+- '#### Crash'
+- A64
+- High Hutton
+- Malton
+- York
+people: []
+organisations: []
 ---
 
 A serious crash has closed a stretch of the A64 between York and Malton tonight (Monday).

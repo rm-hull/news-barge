@@ -11,6 +11,22 @@ description: ChatGPT can now create eerily realistic images. I mixed them with m
 image: https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Eric Hal Schwartz
+- Redditor
+organisations:
+- Becca
+- Bonnier Books
+- ChatGPT
+- Google News
+- Inverse
+- New Scientist
+- OpenAI
+- TechRadar
+- The Guardian
+- VR
+- Wired
 ---
 
 ![Real vs AI picture](https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA.jpg) 

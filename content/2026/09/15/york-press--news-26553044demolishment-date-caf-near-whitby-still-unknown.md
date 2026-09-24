@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- North Yorkshire
+- Sandsend Café
+- Whitby
+people:
+- Saddington Taylor Planning
+organisations:
+- Building Surveyor
+- North Yorkshire Council
+- Sandsend Cafe
+- Sandsend Café
 ---
 
 ## Date to be announced soon for demolition of café after nearly 50 years

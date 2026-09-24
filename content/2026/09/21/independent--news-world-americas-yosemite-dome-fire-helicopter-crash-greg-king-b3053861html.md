@@ -12,6 +12,31 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/20/53/AP26264639978382.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- California
+- Colorado
+- El Capitan
+- Minnesota
+- Oklahoma
+- Oregon
+- Ostrander Lake
+- US
+- Utah
+- Wawona
+- Yosemite National Park
+people:
+- Benjamin Cossel
+- Emery Johnson
+- Greg King
+organisations:
+- Alaska Division of Forestry & Fire Protection
+- Dome Fire
+- Federal Aviation Administration
+- Federal Complex Incident Management Team
+- National Interagency Fire Center
+- National Transportation Safety Board
+- Precision
 ---
 
 Two helicopter pilots died in a helicopter crash in Yosemite National Park on Sunday while conducting water drops over a wildfire, officials have confirmed.

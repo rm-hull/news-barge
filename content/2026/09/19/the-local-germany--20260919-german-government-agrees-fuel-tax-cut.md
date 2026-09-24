@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260719__C2KL9G4__v1__MidRes__GermanyEconomyEnergyPetrol.jpg@webp
+locations:
+- Bab al-Mandab Strait
+- Germany
+- Gulf
+- Iran
+- Israel
+- Saudi Arabia
+- Saxony-Anhalt
+- Strait of Hormuz
+- Tehran
+- United States
+- Yemen
+people:
+- Friedrich Merz
+organisations:
+- AFP
+- AfD
+- Aramco
+- Bloomberg
+- CDU
 ---
 
 The proposed measure would run to the end of the year, and then a ceiling price on fuel sales would come into effect, the sources close to the government told AFP.

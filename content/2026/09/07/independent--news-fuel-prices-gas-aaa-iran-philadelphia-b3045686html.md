@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Claymont
+- Delaware
+- Iran
+- Israel
+- Middle East
+- Philadelphia
+- South Carolina
+- Strait of Hormuz
+- Texas
+- U.S.
+people:
+- Chris Wright
+- Gary Fields
+- Matthew Metzgar
+- Mingson Lau
+- Nicole Collins
+- Tom Seng
+organisations:
+- AAA
+- Associated Press
+- Texas Christian University
+- Trump
+- UNC Charlotte
 ---
 
 It's never been more expensive in the U.S. to fill up the tank and take one last summer trip over the Labor Day weekend.

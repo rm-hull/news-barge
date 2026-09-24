@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Isdemir
+- Mediterranean Sea
+- North East Lincolnshire
+- Port of Immingham
+- Turkey
+- UK
+- University Campus East
+- York
+people:
+- Jonti Hobday
+- Paul Bushnell
+organisations:
+- BBC Bangkok
+- Drillmec
+- Eiffel Towers
+- FutureSource
+- Marriott Drilling
+- Marriott Drilling Group
+- University of York
 ---
 
 *(Image: The University of York)*

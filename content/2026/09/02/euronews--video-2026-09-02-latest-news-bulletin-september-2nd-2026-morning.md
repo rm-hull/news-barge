@@ -12,6 +12,37 @@ image: https://images.euronews.com/articles/stories/09/89/79/77/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Bishkek Arena
+- Caracas
+- Ceuta
+- Chaptal
+- Europe
+- France
+- Gaza City
+- Germany
+- Hanover.
+- Kathmandu
+- Kyrgyzstan
+- Leipzig Airport
+- London
+- Mende
+- Nepal
+- New York
+- Queens
+- Ravenswood Generating Station
+- Tibet
+- US
+- Venezuela
+people:
+- Delcy Rodríguez
+- Emmanuel Macron
+- Joerg Sarb
+- Klaus Michael Kuehne
+organisations:
+- Euronews
+- Kuehne
+- Nagel
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

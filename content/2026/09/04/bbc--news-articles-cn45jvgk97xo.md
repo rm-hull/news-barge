@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Avon and Somerset
+- Bishopsworth
+- Bristol
+- Cobhorn Drive
+- Shrewsbury
+people:
+- '** Kelcie Reed'
+- Alastair McKee
+- Anna Richardson
+- Caeila Dorsett
+- Jared Evitts
+- Kelcie Reed
+- Marie Smith
+- Morgan Dorsett
+- Rich Glanville
+organisations:
+- BBC
+- Bristol Crown Court
+- Department for Environment, Food and Rural Affairs
+- Reed's
+- XL
 ---
 
 ![A mugshot of a young woman with blonde hair. It tied back in a messy ponytail. She has her lip, eyebrow, nose and the bridge of her nose pierced with metal bars and has a neutral expression.](https://ichef.bbci.co.uk/ace/standard/654/cpsprodpb/45ce/live/b01c6320-a84b-11f1-b1d1-d7cca3b85b1e.jpg)

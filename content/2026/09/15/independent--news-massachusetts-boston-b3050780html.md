@@ -15,6 +15,16 @@ categories:
 - UK
 - Health & Fitness
 - Family & Parenting
+locations:
+- Beth Israel Deaconess Medical Center
+- Boston
+- Massachusetts
+people:
+- Lindsay Clancy
+- Maura Healey
+organisations:
+- Massachusetts Child Psychiatry Access Program for Moms
+- Massachusetts Department of Public Health
 ---
 
 New parents in Massachusetts should receive better support and postpartum care, Gov. Maura Healey said Tuesday, following the high-profile murder trial of Lindsay Clancy who, her attorneys argued, was suffering from unresolved postpartum psychosis when she killed her three children in 2023.

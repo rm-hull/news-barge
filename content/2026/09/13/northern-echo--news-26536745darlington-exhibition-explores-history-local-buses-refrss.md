@@ -13,6 +13,123 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Abbotts’
+- Barnard Castle
+- Bishop Auckland
+- Bishop of Durham
+- Blackpool
+- Blantyre
+- Bowlees
+- Britain
+- Broadway
+- Cornwall
+- County Durham
+- Croft Spa
+- Croft-on-Tees
+- Dalton
+- Darlington Market Place
+- Dumfries
+- Feetham's Field
+- Feethams Field
+- Ferryhill
+- Forest
+- Harwood
+- Hurworth Place
+- Lakes
+- Langdon Beck
+- Leadyard
+- London
+- Low Newton
+- Lusaka
+- Malawi
+- Market Place
+- Mickleton
+- Middleton
+- Middleton-in-Teesdale
+- Morecambe Bay
+- Neasham
+- Newbiggin
+- Newton Cap
+- North Yorkshire
+- Northallerton
+- Piercebridge
+- River Skerne
+- Sam Turner
+- St Cuthbert
+- St Cuthbert's Church
+- Tees Valley Railway
+- Teesdale Queen
+- The Crossway
+- Wakefield
+- Willington
+- Zambia
+people:
+- Alston
+- Arthur Hughes
+- Bond Brothers
+- Charles Turner
+- Charlie
+- Chris Lloyd
+- Colin Jewitt
+- Croft Spa
+- David Leishman
+- Fawn Lea
+- Frank
+- Fred Robinson
+- Fred Scott
+- George Flynn
+- Harry
+- Heather Bell
+- Holwick
+- Howson
+- Ian Ferguson
+- James & Mosley
+- Joe Wilson
+- Keith Kitching
+- Leadyard
+- Maude
+- Mrs Wilson
+- Percival
+- Regent
+- Sam
+- Stanley Robinson
+- TED HOYLE
+- TIM BROWN
+- Ted
+- W Rennison
+- Walter
+- William Abbott
+- Wright
+organisations:
+- Abbotts
+- Arriva
+- Bank Top
+- Bedford Duplex
+- Comberhill Motors
+- Corn Exchange
+- Cosy Cinema
+- Croft Spa
+- Darlington Centre for Local Studesi
+- Darlington Centre for Local Studies
+- Echo
+- Heavy Good Vehicles
+- High Force
+- Hollands of Strait Lane
+- J&M
+- James & Mosley
+- London Transport
+- Oxford
+- PSV
+- Public Service Vehicles
+- RMS Mauretania
+- RT
+- RTs
+- Stagecoach
+- Tesco
+- The Feethams
+- Town Hall
+- United
 ---
 
 THE great days of the small, private bus operators began just after the First World War and faded out in the decades after the Second as they were overtaken by car ownership, but interest in them has never been greater.

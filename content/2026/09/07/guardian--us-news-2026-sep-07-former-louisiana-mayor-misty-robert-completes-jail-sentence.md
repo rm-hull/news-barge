@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- DeRidder
+- Louisiana
+- US
+people:
+- Kari McGee
+- Kent Savoie
+- Misty Roberts
+- Roberts’
+- Ryan Clark
+organisations:
+- KALB
+- KPLC
 ---
 
 The former Louisiana mayor Misty Roberts has completed the 90-day jail sentence she received for raping a 16-year-old boy while still in elected office and been released from custody, according to state corrections records.

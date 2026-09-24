@@ -14,6 +14,12 @@ categories:
 - Harrogate
 - Society & Culture
 - News & Politics
+locations:
+- Harrogate
+people:
+- Jason Maxwell
+organisations:
+- Harrogate BID
 ---
 
 # Harrogate Action Days initiative will see community invited to 'make a positive difference' to the town they love

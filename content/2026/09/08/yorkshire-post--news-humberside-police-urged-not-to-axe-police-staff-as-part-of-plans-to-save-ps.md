@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- East Yorkshire
+- Hull
+- Humberside
+- North East Lincolnshire
+people:
+- Chris Todd
+- Chris Todd.
+- Natalie Ratcliffe
+organisations:
+- Band D
+- Humberside Police
+- Unison
+- Yorkshire
 ---
 
 # Humberside Police urged not to axe police staff as part of plans to save £5m

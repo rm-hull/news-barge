@@ -14,6 +14,29 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Intel Lunar Lake
+- Panther Lake
+- Thunderbolt 4
+- Wildcat Lake
+people:
+- Matt Safford
+- Tom
+organisations:
+- Computex
+- Frore System
+- Get Tom's Hardware
+- Google News
+- IFA
+- Intel
+- Lenovo
+- Lunar Lake
+- PC
+- Popular Science
+- Project AeroBlade
+- Project Swan
+- Smithsonian
 ---
 
 ![Lenovo Laptop Concepts](https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH.jpg) 

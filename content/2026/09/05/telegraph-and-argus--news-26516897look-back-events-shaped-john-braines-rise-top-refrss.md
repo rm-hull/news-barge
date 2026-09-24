@@ -14,6 +14,65 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Ashington
+- Bradford
+- Dalton
+- Doncaster Road
+- Grassington TB
+- Hampstead
+- Heaton
+- Hepworth and Grandage
+- Idle
+- Kirklees
+- London
+- Morpeth
+- Nab Wood Cemetery
+- Newbiggin
+- Northumberland
+- Old Library in Bingley
+- Priestthorpe Road
+- Shipley
+- Thackley
+- USA
+- Wakefield This
+- West Yorkshire
+- Westgate
+- Woking
+- Yeadon
+people:
+- Ayre
+- Bingley John
+- Fred
+- Helen Wood
+- Joe
+- John Braine
+- Katherine
+- King
+- Michael Ely
+- Spottiswood
+organisations:
+- BBC radio
+- Bingley Library
+- Bingley Little Theatre
+- Bradford College
+- Bradford Corporation
+- Bradford Libraries
+- Bradford Technical College
+- Children’s Library
+- County Library Service
+- Esholt Sewage Works
+- Leeds School of Librarianship
+- Liaison Officer
+- Library Tap
+- London Braine
+- Navy
+- New Statesman
+- Pratts Furniture
+- Room’
+- St Bede’s School
+- The Tribune
+- Yorkshire Post
 ---
 
 THE intention of my two features on John Braine is to historically describe his life and influences, not to make comment on his changing political or religious views and background.

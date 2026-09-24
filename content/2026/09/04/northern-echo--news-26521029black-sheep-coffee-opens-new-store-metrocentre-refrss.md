@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Black Sheep
+- Gateshead
+- Grainger Street
+- Metrocentre
+- Metrocentre’s Red Mall
+- Newcastle
+- North East
+- UK
+people:
+- Ben Cox
+- Eirick Holth
+- Gabriel Shohet
+organisations:
+- Black Sheep Coffee
+- CBRE
+- Hollister
+- Kenji
+- Lovisa
+- Metrocentre
+- Sovereign Centros
+- Timberland
+- Upper Red Mall
 ---
 
 *(Image: TWIST / METROCENTRE)*

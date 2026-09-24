@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Brontë Country
+- Ingrow
+- Keighley
+- Worth Valley
+people:
+- Noel Hartley
+organisations:
+- Keighley & Worth Valley Railway
+- Oxenhope
+- Tom Marshall
 ---
 
 A steam-powered pub crawl through Brontë Country is set to return as part of a unique beer and music festival.

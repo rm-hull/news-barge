@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Dallas
+- Gastonia
+- Iran
+- Long Island
+- Nassau County
+- North Carolina
+- Texas
+- U.S.
+- United States
+- White House
+people:
+- '## Blanche'
+- Bruce Blakeman
+- Jill Biden
+- Joe Biden
+- Kathy Hochul
+- Kiersten Pels
+- Merrick Garland
+- Michael Whatley
+- Pam Bondi
+- Rachael Rollins
+- Richard Painter
+- Rollins'
+- Todd Blanche
+- Tom Cotton
+- Trump
+- Vance
+organisations:
+- AP
+- American Airlines Center
+- George W. Bush administration
+- Justice Department
+- Public Citizen
+- Senate
+- The Associated Press
+- Trump
 ---
 
 Attorney General Todd Blanche’s recent speeches at political events have significantly blurred traditional boundaries between federal law enforcement and politics, marking a sharp departure from norms designed to shield the Justice Department from the appearance of partisan bias.

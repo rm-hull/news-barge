@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Cliffe
+- Eastrington
+- London
+- North
+- Selby
+- Yorkshire
+people:
+- Emma Swaine
+- Shannon
+organisations:
+- Shannon Publishers
+- Shannon Publishing
+- ShannonPublishers
+- Yorkshire
 ---
 
 A new independent publisher has launched with its debut children’s title.

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Seoul
+- South Korea
+- United States
+people:
+- Lee Jae Myung
+- Won Min-kyong
+organisations:
+- Catholic Bishops’ Conference of Korea
+- Constitutional Court
+- Gender Equality
+- Korea Women’s Associations United
+- Korean Association of Obstetricians & Gynecologists
 ---
 
 South Korea plans to approve abortion pills for the first time to promote women’s rights to health and safety, deepening debates over abortions in the Asian country.

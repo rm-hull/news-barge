@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Halifax
+- Llangollen
+- Margate
+- North Yorkshire
+- Royal Albert Hall
+- UK
+people:
+- Alanis Morissette
+- Cuffe
+- Jack Savoretti
+- James Morrison
+- Julian Murray
+- Michael Bublé
+- Taylor
+- Teddy Swims
+organisations:
+- Cuffe & Taylor
+- Hollywood Vampires
+- North Yorkshire Council-owned
+- Scarborough OAT
+- Scarborough Open Air Theatre
+- The Script
+- Ticketmaster
 ---
 
 *(Image: (Image CUFFE & TAYLOR))*

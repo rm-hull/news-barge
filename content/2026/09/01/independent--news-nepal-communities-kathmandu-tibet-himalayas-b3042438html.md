@@ -13,6 +13,22 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- Himalayas
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- Rasuwa
+- Tamang Heritage Trail
+people:
+- Alina Lama
+- Tenzin Dolma Ghale
+- Tsering Gelbu Lama
+- Tsering Sherpa
+organisations:
+- AP
+- Associated Press’
+- The Associated Press
 ---
 
 In the days since Tsering Gelbu Lama’s wife was swept away by devastating floods along the Nepal-Tibet border, he still hasn't told his 4-year-old daughter that her mother is dead.

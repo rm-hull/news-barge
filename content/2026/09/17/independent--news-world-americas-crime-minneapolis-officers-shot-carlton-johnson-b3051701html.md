@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Minneapolis
+people:
+- Carlton Johnson
+- Drew Evans
+- Joe
+- Joseph Michnowski
+- Shooter
+- Yahye Mahmed Ahmed
+organisations:
+- City of Minneapolis
+- Minneapolis Police Department
+- Minnesota Bureau of Criminal Apprehension
 ---
 
 Dramatic video released Wednesday shows the moment two Minneapolis police officers were shot after racing to the ninth floor of an apartment building where a gunman had killed two people and wounded three others.

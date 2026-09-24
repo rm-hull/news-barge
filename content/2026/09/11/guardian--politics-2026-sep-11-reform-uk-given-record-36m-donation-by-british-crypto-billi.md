@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- England
+- Harborne
+- Hong Kong
+- Oxford
+- UK
+- US
+- Westminster Abbey
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Keir Starmer
+- Kemi Badenoch
+- Michael Gove
+- Nigel Farage
+- Rupert Lowe
+- Stella Creasy
+organisations:
+- BitMEX
+- Conservative
+- Delo
+- Guardian
+- Labour
+- Lords
+- Reform UK
+- Sunday Times
+- Telegraph
+- Tory
 ---
 
 Reform UK has been given a record £36m donation by Ben Delo, a British cryptocurrency billionaire convicted in the US for failing to implement adequate anti-money laundering controls.

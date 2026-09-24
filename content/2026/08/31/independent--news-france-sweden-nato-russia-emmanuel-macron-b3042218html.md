@@ -13,6 +13,33 @@ categories:
 - UK
 - Sports
 - History
+locations:
+- Baltic Sea
+- Belgium
+- Britain
+- Denmark
+- Europe
+- France
+- Germany
+- Greece
+- Indo-Pacific
+- Netherlands
+- Norway
+- Poland
+- Russia
+- Sweden
+- U.S.
+- Ukraine
+- United States
+- Washington
+people:
+- Emmanuel Macron
+- Ulf Kristersson
+organisations:
+- Macron
+- NATO
+- Naval Group
+- Saab
 ---
 
 France and Sweden signed agreements Monday to supply the Nordic country with 4 modern frigates, strengthening the defenses of NATO’s newest member in the strategically important Baltic Sea region, where Russia uses key shipping lanes and airspace.

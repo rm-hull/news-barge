@@ -11,6 +11,47 @@ description: I caught up with Samsung's Jeremy Demont and Pepe Distra at Gamesco
 image: https://cdn.mos.cms.futurecdn.net/AykeKsm3in9S2G92F9bJNA-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cologne
+- Gamescom
+- Ireland
+- Korea
+- UK
+people:
+- Jeremy Demont
+- Joe Bloke
+- Pepe Distra
+- Tizen
+organisations:
+- AAA
+- Argos
+- BBC
+- CES
+- Currys
+- Custom PC
+- Digital Foundry
+- Distra
+- Gamescom
+- GeForce Now
+- Google News
+- HDR10
+- Head of Monitor
+- International History and Politics
+- Movingstyle TV
+- Netflix
+- OLED
+- PC Gamer
+- PCGamesN
+- Prime Video
+- Reece Bithrey
+- Samsung Europe He
+- Samsung UK
+- Sound and Monitor
+- TechRadar
+- Tizen
+- Trusted Reviews
+- University of Leeds
+- WatchGecko
 ---
 
 ![Man holding gamepad and playing RPG](https://cdn.mos.cms.futurecdn.net/AykeKsm3in9S2G92F9bJNA.jpg) 

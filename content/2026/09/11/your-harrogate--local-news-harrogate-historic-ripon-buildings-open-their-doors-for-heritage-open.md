@@ -12,6 +12,33 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Dewhurst
+- Ironbridge
+- Kirkgate
+- Queen Street
+- Ripon Cathedral
+people:
+- Alex
+- Katie Ross
+- Lilla Bathurst
+- Natalie Sutcliffe
+- Pete Mudge
+- Richard Taylor
+- Stuart
+organisations:
+- Big Bites
+- Handley’s
+- Jackfield Tile Museum
+- National Trust
+- People’s Postcode Lottery
+- Portly Pig
+- Ripon BID
+- Ripon Civic Society
+- Ripon Council
+- Ripon Gazette
+- The Portly Pig
+- Town Hall
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3f23a5f82b23b804.jpg) 

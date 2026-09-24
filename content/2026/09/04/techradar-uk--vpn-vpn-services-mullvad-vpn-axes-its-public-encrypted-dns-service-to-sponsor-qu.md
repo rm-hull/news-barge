@@ -9,6 +9,19 @@ description: Manual users have until November 2 to update their configurations
 image: https://cdn.mos.cms.futurecdn.net/UDKrY9EKLb3LrPPBfUYRcF-720-80.jpg
 categories:
 - Technology & Software
+locations:
+- Mullvad
+- WireGuard
+people:
+- Mullvad
+organisations:
+- Google News
+- Mullvad DoH
+- Mullvad VPN
+- No Trace
+- OpenVPN
+- Quad9 Foundation
+- TechRadar
 ---
 
 ![Mullvad VPN working on a laptop](https://cdn.mos.cms.futurecdn.net/UDKrY9EKLb3LrPPBfUYRcF.jpg) 

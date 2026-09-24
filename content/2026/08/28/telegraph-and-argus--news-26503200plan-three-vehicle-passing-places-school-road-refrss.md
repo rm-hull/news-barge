@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Boothroyd Lane
+- Brighouse
+- Calderdale
+- Green Belt
+- Lower Edge Road
+- Rastrick
+- YOUR
+people: []
+organisations:
+- Calderdale Council
+- EHCP
+- Health and Care Plan
+- Public Notice Portal
+- Sixth Form
+- William Henry Smith Foundation
+- William Henry Smith School
 ---
 
 ### What is the Public Notice Portal?

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- County Durham
+- Darlington
+- UK
+- US
+people:
+- David Carbon
+organisations:
+- Amazon Prime
+- Civil Aviation Authority
+- Darlington
+- HMRC
+- Pot Noodle
+- Press Association
+- Prime Air
 ---
 
 Amazon is on the “precipice” of dramatically expanding its drone delivery service in the UK, with the tech giant expecting approval to cover the whole of Darlington “very soon”.

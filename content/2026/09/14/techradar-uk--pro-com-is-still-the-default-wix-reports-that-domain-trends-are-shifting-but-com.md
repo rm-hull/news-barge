@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/gEuZ8EbW57VbSsQ5ikNBiE-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Owain Williams
+organisations:
+- '## Wix'
+- AI
+- BA
+- CRM
+- Digital Doughnut
+- Inbal Geva
+- MarketingProfs
+- NealSchaffer.com
+- Owain Williams
+- Product Lead
+- Product Lead & GM
+- TLD
+- TechRadar Pro
+- Website Builder Expert
+- Wix Domains
+- Wix Domains Historically
+- Wix’s States of Website
 ---
 
 ![Headshot of Inbal Geva product lead at wix domains on a purple background](https://cdn.mos.cms.futurecdn.net/gEuZ8EbW57VbSsQ5ikNBiE.png) 

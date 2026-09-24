@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Grey Terrace
+- Hendon Beach
+- Phillips’
+- Sunderland
+people:
+- Det Con Doyle
+- Dominic Phillips
+- Jonathan Doyle
+- Phillips’
+- Tom Moran
+organisations:
+- Newcastle Crown Court
+- Northumbria Police
 ---
 
 A serial domestic abuser concluded his reign of terror against a former partner by fracturing her spine and pelvis with his van.

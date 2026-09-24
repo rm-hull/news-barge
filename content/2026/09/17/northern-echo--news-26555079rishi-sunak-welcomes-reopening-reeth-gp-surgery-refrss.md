@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Arkengarthdale
+- North Yorkshire
+- Northallerton
+- Reeth Medical Centre
+- Richmond
+- Swaledale
+- Yorkshire Dales
+people:
+- Lynn Irwin
+- Marie
+- Mike Brookes
+- Rishi Sunak
+- Yvonne Peacock
+organisations:
+- Central Dales Practice
+- GP
+- ICB
+- NHS Humber
+- North Yorkshire Integrated Care Board
+- Reeth Medical Centre
+- Reeth Show
+- The Yorkshire Dales
+- University Hospitals Tees
+- Yorkshire Dales
 ---
 
 *(Image: Supplied)*

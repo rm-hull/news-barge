@@ -15,6 +15,24 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/linton-on-ouse.webp
+locations:
+- HMP Millsike
+- Linton
+- Linton-on-Ouse
+- North Yorkshire
+- RAF
+- UK
+- York
+people:
+- Olga Matthias
+organisations:
+- Action Group
+- HMP Millsike
+- HMP Millsike—
+- Home Office
+- Linton-on-Ouse Action Group
+- Mitie
+- Serco
 ---
 
 A dedicated community action group has issued a stark warning to the Home Office, claiming that an ongoing feasibility study into utilising the former **RAF Linton-on-Ouse base** risks repeating a multi-million-pound taxpayer disaster due to insurmountable rural recruitment barriers.

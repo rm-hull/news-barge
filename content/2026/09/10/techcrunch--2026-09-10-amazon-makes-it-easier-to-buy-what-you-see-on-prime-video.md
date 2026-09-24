@@ -12,6 +12,21 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?r
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- U.S.
+people: []
+organisations:
+- Amazon Lens
+- Amazon Shopping
+- Amazon’s X-Ray
+- Disney
+- Disney+
+- ESPN
+- Fire TV
+- Peacock
+- Roku
+- YouTube
 ---
 
 Amazon is going to make it easier to shop when you’re watching TV. The retail giant on Thursday announced a series of new features that will allow customers to discover products across thousands of Prime Video titles through integrations with its existing X-Ray experience, which today displays real-time actor bios, character names, soundtrack music, and more. It will also introduce a new way to “shop the scene” using Amazon’s Lens technology, along with other updates.

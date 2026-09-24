@@ -14,6 +14,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Burbank
+- Los Angeles Superior Court
+people:
+- Blacks
+- William Lacks
+organisations:
+- Capgemini America Inc.
+- Disney Studios
+- Lacks
+- Latino IT
+- The Walt Disney Co.
+- Walt Disney Co.
 ---
 
 A Black former employee has filed a lawsuit against The Walt Disney Co. and digital information provider Capgemini America Inc., alleging that his Latino IT team leader made inappropriate workplace remarks about Black people and favored staff members of his own race.

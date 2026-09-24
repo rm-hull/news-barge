@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Barnsley
+- Headingley
+people:
+- Anthony Devlin
+- Dickie Bird
+- Rachel Wyatt
+organisations:
+- PA Wire.
+- Yorkshire County Cricket Club
 ---
 
 *(Image: Anthony Devlin/PA Wire.)*

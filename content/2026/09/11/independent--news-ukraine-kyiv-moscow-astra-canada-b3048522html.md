@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Azov
+- Canada
+- Caspian
+- Crimea
+- Dniprovskyi
+- India
+- Kyiv
+- Moscow
+- Obolonskyi
+- Russia
+- Saratov
+- Siberia
+- South Korea
+- Tula
+- Ukraine Pavlohrad
+- Zaporizhzhia
+people:
+- Andrii Sybiha
+organisations:
+- Astra
+- Center for Research on Energy and Clean Air
+- Defense Ministry
+- Kyiv
+- State Emergency Service
 ---
 
 Russian drones targeted roadside gas stations in Kyiv for a second straight day Friday, as Moscow broadened its air war in what Ukrainian officials say is an effort to rattle civilians.

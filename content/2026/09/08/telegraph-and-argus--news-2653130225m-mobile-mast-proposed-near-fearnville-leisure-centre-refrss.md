@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Fearnville Leisure Centre
+- Gipton
+- Oak Tree House
+- Oakwood Lane
+- YOUR
+people: []
+organisations:
+- Bauer Group
+- Cornerstone
+- Leeds City Council
+- Public Notice Portal
+- Virgin Media
+- Vodafone
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,26 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/02/21/10/38/SConwayLetterbox.png?trim=0,0,47,0&width=1200&height=800&crop=1200:800
+locations:
+- Canterbury
+- Grantham
+- Grimsby
+- Lincoln
+people:
+- God
+- Jean Burgess
+- John Smyth
+- Justin Welby
+- Nicholas Chamberlain
+- Nick
+- Pray
+- Stephen Conway
+organisations:
+- Church of England
+- Crown Nominations Commission
+- House of Lords
+- Smyth
+- St Paul
 ---
 
 The Bishop of Lincoln has resigned after being suspended from ministry following his arrest earlier this year on suspicion of sexual assault, the Church of England has confirmed.

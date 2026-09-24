@@ -12,6 +12,30 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- India
+- U.S. Kumar
+- UAE
+people:
+- Megann Vaughn Watters
+- Mohit Kumar
+- Quinn Li
+- Ultrahuman
+- Vatsal Singhal
+organisations:
+- AI
+- Alpha Wave
+- Alteria Capital
+- Bengaluru-based Ultrahuman
+- Blume Ventures
+- IPO
+- Labcorp Venture Fund and Strategic Alliances
+- Nexus Venture Partners
+- Nordic Semiconductor
+- Oura
+- Qualcomm Ventures
+- Ring Air
+- TechCrunch
 ---
 
 Ultrahuman, an Indian startup best known for making smart rings, has raised $70 million in a new funding round that includes backing from Qualcomm’s venture arm, as it looks beyond sleep and health tracking to build a ring that can run software on the device and eventually power everything from AI interactions to games.

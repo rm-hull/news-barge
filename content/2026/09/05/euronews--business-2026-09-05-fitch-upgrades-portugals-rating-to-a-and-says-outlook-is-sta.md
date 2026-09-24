@@ -14,6 +14,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Humberto Delgado Airport
+- Lisbon
+- Republic of Portugal
+people:
+- António José Seguro
+- Fitch
+- Joaquim Miranda Sarmento
+- Joaquim Sarmento
+organisations:
+- AICEP
+- Agency for Investment and Foreign Trade
+- Caixa Geral de Depósitos
+- European Union
+- Fitch Ratings'
+- Morningstar DBRS
+- NATO
+- Presidency
+- RRP
+- Recovery and Resilience Plan
+- Republic
+- Social Security Financial Stabilisation Fund
+- Standard & Poor
+- State and Finance
 ---
 
 ## On Friday, the financial agency raised Portugal's debt rating from "A" to "A+", with a "stable" outlook, the agency said in a published note.

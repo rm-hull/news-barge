@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/8ed95bc854b2253bb88d8ef3e8d7707e22cf6176/5
 categories:
 - UK
 - News & Politics
+locations:
+- Cambridge
+- UK
+- US
+people:
+- Dan Jukes
+- JD Vance
+- James Orr
+- Maga
+- Nigel Farage
+- Verbatim
+organisations:
+- Cambridge University
+- Centre for Climate Reporting
+- Channel 4 News
+- Guardian
+- Politico
+- Reform UK
+- University of Cambridge
+- Verbatim
 ---
 
 Cambridge University has said it is examining the conduct of James Orr, its associate professor and a top Reform UK aide, after he was filmed appearing to try to circumvent electoral laws on foreign political donations.

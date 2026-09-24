@@ -12,6 +12,69 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- England
+- Hackney
+- Hill Dickinson Stadium
+- Man Utd
+- Mount
+- Yoro
+- Zirkee
+people:
+- 6Ainsley Maitland-Niles
+- 6Benjamin Sesko
+- 6Diogo Dalot
+- 6Harrison Armstrong
+- 6James Tarkowski
+- 6Jarrad Branthwaite
+- 6Leny Yoro
+- 6Lisandro Martinez
+- 6Merlin Rohl
+- 6Noussair Mazraoui
+- 7Brennan Johnson
+- 7Marcus Rashford
+- 7Tyrique George
+- 7Youri Tielemans
+- 8Andrey Santos
+- 8Bruno Fernandes:** Volleyed
+- 8Luke Shaw
+- 8Matheus Cunha
+- 8Vitalii Mykolenko
+- Ainsley Maitland-Niles
+- Alcaraz
+- Barry:** Lucky
+- Bruno Fernandes
+- Bryan Mbeumo
+- Darlow
+- David Moyes.
+- Dibling
+- Diogo Dalot
+- Garner
+- Graham
+- Jack Grealish
+- Jordan Pickford
+- Keane
+- Kiernan Dewsbury-Hall
+- Lisandro Martinez
+- Mainoo
+- Man Utd
+- Matheus Cunha
+- Mbuemo
+- Michael Carrick
+- O'Brien
+- Patrick Dorgu
+- Senne Lammens
+- Thierno Barry
+- Travers
+- Tyrique George
+organisations:
+- 6Subs
+- BBC Sport
+- Dewsbury-Hall
+- Everton
+- Man Utd
+- Manchester United
 ---
 
 ![Manchester United skipper Bruno Fernandes tries to get away from Everton midfielder Kiernan Dewsbury-Hall](https://ichef.bbci.co.uk/ace/standard/958/cpsprodpb/aedf/live/a1defe20-a9fa-11f1-a291-b542ee92de7c.jpg)

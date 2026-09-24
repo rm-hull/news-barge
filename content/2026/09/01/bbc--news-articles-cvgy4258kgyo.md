@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Downing Street
+- Holborn
+- London
+- Northallerton
+- Richmond
+- St Pancras
+- UK
+people:
+- Andy Burnham
+- Boris Johnson
+- David Cameron
+- Keir Starmer
+- Kevin Hollinrake
+- Liz Truss
+- Polanksi
+- Rishi Sunak
+- Sir Keir Starmer
+- Theresa May
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Conservative
+- Greens
+- House of Commons
+- Labour
+- London Assembly
+- Reform UK
+- Tory
 ---
 
 ![Sir Keir Starmer, wearing a black and white suit.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/93a0/live/f854a560-a5fa-11f1-8348-fb0cb1cd9761.png)

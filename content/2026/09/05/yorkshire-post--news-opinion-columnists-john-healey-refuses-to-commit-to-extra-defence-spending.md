@@ -16,6 +16,41 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- America
+- Belarus
+- Britain
+- Falkland Islands
+- Iran
+- Kaliningrad
+- Kiev
+- Kremlin
+- Lithuania
+- Moscow
+- Russia
+- UK
+- US
+- Ukraine
+- United Kingdom
+- Vilnius
+- Washington
+- White House
+people:
+- Andy Burnham
+- David Ratcliffe
+- Henry Nicholls
+- John Healey
+- Keir Starmer
+- Maria Zakharova
+- Patrick Mercer
+- Putin
+- Trump
+- Volodymyr Zelensky
+organisations:
+- CIA
+- KGB
+- NATO
+- US Air Force
 ---
 
 # John Healey refuses to commit to extra defence spending, will he now resign? - Patrick Mercer

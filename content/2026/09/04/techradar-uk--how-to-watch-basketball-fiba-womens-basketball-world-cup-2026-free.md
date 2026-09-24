@@ -11,6 +11,80 @@ image: https://cdn.mos.cms.futurecdn.net/M7TSmrfeSVziKCJLrkF4x-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- AU
+- Australia
+- Bel
+- Belgium
+- Berlin
+- Brazil
+- CA
+- Canada
+- China
+- Czech Republic
+- France
+- Germany
+- Hungary
+- Italy
+- Japan
+- Mali
+- Nigeria
+- ProSieben
+- Puerto Rico
+- RTBF Auvio**
+- Rai Play**
+- South Korea
+- Spain
+- Sydney
+- Turkey
+- UK
+- US
+- USA
+people:
+- A'ja Wilson
+- Aatif Sulleyman
+- Angel Reese
+- Breanna Stewart
+- Caitlin Clark
+- Emma Meesseman
+- Gabby Williams
+- Kara Lawson
+- Kelsey Plum
+- Paige Bueckers
+- Rai Play
+- Sami Whitcomb
+- Valeriane Ayayi
+organisations:
+- ABC
+- Aatif
+- Belgium
+- Disney
+- ESPN
+- EuroBasket
+- FIBA
+- FS1
+- FX
+- Fox
+- Foxtel
+- Future Publishing
+- Gizmodo
+- Hulu
+- Ita
+- Kayo Sports
+- Kayo Sports**
+- Les Bleues
+- NBC
+- Newsweek
+- ProSieben
+- RTBF Auvio
+- Spain
+- TNT
+- TechRadar
+- The Independent
+- TruTV
+- Trusted Reviews
+- USA Network
+- WNBA
 ---
 
 ![Caitlin Clark celebrating](https://cdn.mos.cms.futurecdn.net/M7TSmrfeSVziKCJLrkF4x.jpg) 

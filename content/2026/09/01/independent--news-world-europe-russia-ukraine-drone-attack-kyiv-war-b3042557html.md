@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Boryspil
+- Brovary
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- Tehran
+- Ukraine
+people:
+- Kyiv
+- Serhiy Beskrestnov
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Kyiv
 ---
 
 Russia bombarded Kyiv with jet-powered drones in a sixth consecutive night of strikes on Monday, killing at least nine people and injuring over a dozen.

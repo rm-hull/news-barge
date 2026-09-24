@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Busan
+- South Korea
+people:
+- Lee Jae Myung
+organisations: []
 ---
 
 A tugboat capsized and sank off South Korea's southeastern coast on Wednesday, leaving one crew member dead and six others missing, the coast guard said.

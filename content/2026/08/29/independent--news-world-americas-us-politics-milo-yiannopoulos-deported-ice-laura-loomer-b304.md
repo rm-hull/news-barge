@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/08/29/20/1353669539..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- California
+- Georgia
+- Mar-a-Lago
+- New Orleans
+- US
+- United Kingdom
+people:
+- Breitbart
+- Donald Trump
+- Kanye West
+- Laura Loomer
+- Marjorie Taylor Greene
+- Milo Yiannopoulos
+- Nick Fuentes
+- Tucker Carlson
+- Ye
+organisations:
+- Breitbart
+- Department of Homeland Security
+- Fox News
+- Homeland Security
+- ICE
+- Immigration Judge
+- Independent
+- Louis Armstrong New Orleans International Airport
+- The Washington Post
+- Trump
 ---
 
 The Trump administration deported far-right provocateur Milo Yiannopoulos to the United Kingdom shortly after his arrest in New Orleans one day earlier.

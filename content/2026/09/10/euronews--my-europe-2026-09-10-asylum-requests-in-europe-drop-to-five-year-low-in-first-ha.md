@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Afghanistan
+- Europe
+- France
+- Germany
+- Greece
+- Haiti
+- Italy
+- Mali
+- Mauritania
+- Middle East
+- Norway
+- Spain
+- Switzerland
+- Syria
+- Tunisia
+people: []
+organisations:
+- EU
+- European Union Agency for Asylum
 ---
 
 **Euronews** with

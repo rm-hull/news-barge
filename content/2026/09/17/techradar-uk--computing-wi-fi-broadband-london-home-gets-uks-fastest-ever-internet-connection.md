@@ -11,6 +11,19 @@ description: A homeowner in Beckton, Newham, now has a broadband line which offe
 image: https://cdn.mos.cms.futurecdn.net/tJ3jYk6MGwR9XE2p3WUgGg-1803-80.jpg
 categories:
 - Technology & Software
+locations:
+- Beckton
+- Charing Cross
+- London
+- Newham
+- UK
+people:
+- Peter Rampling
+organisations:
+- Community Fibre
+- FTTC
+- Google News
+- Hachette UK
 ---
 
 ![Community Fibre van with engineer stood in front wearing high-vis jacket](https://cdn.mos.cms.futurecdn.net/tJ3jYk6MGwR9XE2p3WUgGg.jpg) 

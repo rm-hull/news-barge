@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Buckingham Avenue
+- Guiseley
+- Hawksworth Quarry
+- Menston
+- Odda Lane
+- Rawdon
+- Slough
+- YOUR
+people:
+- Eleanor Thomson
+- Guiseley
+- Oliver Edwards
+- Rawdon
+- Sonia Leighton
+organisations:
+- Environment Agency
+- Guiseley
+- Hawksworth Quarry
+- Hawksworth Quarry Monitoring Group
+- Hawksworth Village Association
+- Labour
+- Leeds City Council
+- Planning Inspectorate
+- Public Notice Portal
+- SL1 4PN
 ---
 
 *(Image: submitted)*

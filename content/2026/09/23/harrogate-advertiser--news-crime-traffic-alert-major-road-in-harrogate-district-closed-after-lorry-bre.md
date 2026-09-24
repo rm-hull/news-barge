@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjYwODY1ZDJlLWNhZTQtNDNhMy1iM2VjLTlhMTAxMGI1NTMyZTowYzU3MTUzZC1iZTdlLTQ4MjYtYjU5Yi03ZWFlNjkyM2YzOTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- A59
+- B6161
+- Beckwithshaw
+- Harrogate
+- North Yorkshire
+- Otley Road
+people: []
+organisations:
+- A59
+- North Yorkshire Police
 ---
 
 # TRAFFIC ALERT: Major road in Harrogate district closed after lorry breaks down on roundabout

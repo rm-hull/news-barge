@@ -13,6 +13,23 @@ categories:
 - York
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- North Yorkshire
+- Savills Manchester
+- Thirsk
+- UK
+- York
+people:
+- '**Andrew'
+- Tom Cunningham
+organisations:
+- A1
+- Crab Manor Hotel
+- Lobster Restaurant
+- Lucinda Jenkins
+- Orchard Lodge
+- Savills
+- Seafood Room
 ---
 
 *(Image: Pic supplied)*

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/7/57/Incident-in-Longley-Park.jpeg?trim=66,0,67,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Barnsley Road
+- Horninglow Road
+- South Yorkshire
+people: []
+organisations:
+- Longley Park Sixth Form
+- The Star
 ---
 
 # LIVE: Sixth form college closed amid "significant" police incident nearby

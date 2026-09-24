@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Buttershaw
+- Buttholme Gate
+- Leeds
+- Revvy Road
+- St. James' Hospital
+- West Yorkshire
+people: []
+organisations:
+- Telegraph & Argus
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: T&A)*

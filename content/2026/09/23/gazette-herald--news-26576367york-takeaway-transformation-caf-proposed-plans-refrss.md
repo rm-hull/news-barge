@@ -12,6 +12,20 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21493748.jpg?type=og-image
+locations:
+- Acomb
+- Beckfield Café
+- Beckfield Lane
+- YOUR
+- York
+people:
+- Ibrahim Kayran
+organisations:
+- '![]()Pizza Base'
+- City of York Council
+- Pizza Base
+- Public Notice Portal
+- Public Notice Portal A YORK
 ---
 
 ### What is the Public Notice Portal?

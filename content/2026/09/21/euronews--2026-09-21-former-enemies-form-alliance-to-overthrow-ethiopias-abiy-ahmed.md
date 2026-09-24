@@ -14,6 +14,37 @@ categories:
 - Society & Culture
 - History
 image: https://images.euronews.com/articles/stories/09/92/16/02/1200x675_cmsv2_dbbb357d-6be1-5db2-87d1-0b418ae789dc-9921602.jpg
+locations:
+- Amhara
+- Eritrea
+- Ethiopia
+- Gambella
+- Itang Special Woreda
+- Kule
+- Norway
+- Oromia
+- South Sudan
+- Western Tigray
+people:
+- Abiy Ahmed
+- Amanuel Assefa
+- Fano
+- Gul Badshah
+- Kjetil Tronvoll
+- Zemene Kasse
+organisations:
+- African Union
+- Amhara
+- Doctors Without Borders
+- Ethiopian Peoples' Forces Alliance for Survival
+- Fano
+- MSF
+- OLA
+- Oromo Liberation Army
+- Oslo New University College
+- Rift Valley Institute
+- TPLF
+- Tigray People's Liberation Front
 ---
 
 ## The TPLF and Amhara's Fano militias — groups that fought on opposing sides in the Tigray war — and the Oromo Liberation Army said they had been coordinating for more than a year and aimed to install a transitional government.

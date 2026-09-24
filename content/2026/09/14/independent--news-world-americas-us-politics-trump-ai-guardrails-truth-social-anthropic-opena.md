@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/14/10/2294722142..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- China
+- Iran
+- United States
+- White House
+people:
+- Dario Amodei
+- Donald J. Trump
+- Donald Trump
+- Elon Musk
+- Jesus Christ
+- Sam Altman
+organisations:
+- AI and Data Centers!
+- Anthropic
+- Congress
+- Constitution
+- Founding Fathers
+- Microsoft
+- OpenAI
+- Supreme Court
+- Trump
 ---
 
 If you were wondering who’s going to stop AI from gaining consciousness, going rogue and messing with the nuclear codes ... or turning off the electric grid ... or shutting down air traffic control, I have some good news. The answer is Donald Trump.

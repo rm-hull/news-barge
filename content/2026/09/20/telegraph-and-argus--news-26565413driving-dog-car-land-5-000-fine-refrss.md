@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/19778595.jpg?type=og-image
+locations: []
+people:
+- Nick Zapolski
+organisations:
+- Choose My Car
+- The Dog’s Trust
 ---
 
 *(Image: Getty Images)*

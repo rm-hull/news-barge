@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- London
+- New York
+- UK
+- US
+people:
+- Dan
+- Daniel Khoury
+- Joe Jonas
+- Kendall Jenner
+- Liv
+- Ms Jenner
+- Olivia Ferdi
+- Rosie Huntington-Whiteley
+organisations:
+- CBD
+- Coefficient Capital
+- Companies House
+- Trip
 ---
 
 Kendall Jenner has taken a stake in Trip, a fast-expanding British drinks and supplements business.

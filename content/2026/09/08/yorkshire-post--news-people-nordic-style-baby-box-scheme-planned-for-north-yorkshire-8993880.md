@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Finland
+- Newcastle
+- North Yorkshire
+- Northeast of England
+- Scarborough
+- Scotland
+- Selby
+- York
+people:
+- Anneli Miettinen
+- Anniina Kuokka
+- David Skaith
+- Ms Miettinen
+organisations:
+- Children’s Foundation
+- Cradle to Career’
+- Kela
+- LDRS
+- Local Democracy Reporting Service
+- Social Insurance Institution of Finland
+- York and North Yorkshire Combined Authority
+- governmental Social Insurance Institution of Finland
 ---
 
 # Nordic-style ‘baby box’ scheme planned for North Yorkshire

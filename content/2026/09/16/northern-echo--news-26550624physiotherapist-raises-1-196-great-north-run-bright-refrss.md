@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- North East
+people:
+- Francesca Moulton
+- Ms Moulton
+- Rob Graham
+organisations:
+- Bright Northumbria Healthcare Charity
+- Durham
+- Great North Run
+- Ms Moulton
+- Northumbria Healthcare
+- Northumbria Healthcare NHS Foundation Trust
+- Team Northumbria
 ---
 
 *(Image: Supplied)*

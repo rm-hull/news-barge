@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Oval Office
+- United States
+- White House
+people:
+- Davis Ingle
+- Dean Obeidallah
+- Donald Trump
+- Henry David Abraham
+- Jonathan Reiner
+- Yeah
+organisations:
+- CNN
+- Congressional Record
+- International Physicians for the Prevention of Nuclear War
+- SiriusXM
+- The Independent
+- Trump
 ---
 
 A Nobel Peace Prize winner warned that President Donald Trump’s mental health and access to nuclear weapons make him “more dangerous” now.

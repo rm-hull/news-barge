@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- America
+people:
+- '## Brett Hartl'
+- Antonin Scalia
+- Brett Hartl
+- Brian Nesvik
+- Trump
+organisations:
+- AFP
+- Center for Biological Diversity
+- ESA
+- FWS
+- Fish and Wildlife Service
+- Interior Department
+- Supreme Court
+- Trump
+- US Fish and Wildlife Service
 ---
 
 ## Brett Hartl, the government affairs director at the Center for Biological Diversity, said the move "stabs at the very heart of the Endangered Species Act by giving federal approval to the killing of some of America’s most beloved wildlife."

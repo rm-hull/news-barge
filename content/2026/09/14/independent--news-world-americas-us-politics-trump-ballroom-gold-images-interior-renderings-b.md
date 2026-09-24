@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Doonbeg
+- East Wing
+- Florida
+- Iran
+- Kremlin
+- Lincoln Memorial
+- Moscow
+- Rose Garden
+- South Lawn
+- Strait of Hormuz
+- U.S.A.
+- Washington
+- White House
+people:
+- Donald Trump
+- John Roberts
+- Lenin
+organisations:
+- American Patriots
+- American Taxpayer
+- East Wing
+- Ipsos
+- National Trust for Historic Preservation
+- Oval Office
+- Supreme Court
+- The Washington Post
+- Trump
+- Truth Social
 ---
 
 President Donald Trump has released new detailed renderings of the interior of his controversial White House ballroom, revealing it to be decked out in his beloved gold trim.

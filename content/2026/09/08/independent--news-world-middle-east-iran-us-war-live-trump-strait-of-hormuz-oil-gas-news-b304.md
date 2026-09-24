@@ -11,6 +11,68 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Abha Bulk
+- Al-Wadiah
+- Baghdad
+- Basra-Baniyas
+- Canada
+- Dallas
+- Denmark
+- Finland
+- France
+- Gulf
+- Iceland
+- Iran
+- Iraq
+- Ireland
+- Israel
+- Jazan
+- Jubah
+- Khamis Mushait
+- Middle East
+- Moscow
+- Najran
+- Norway
+- Poland
+- Portugal
+- Red Sea
+- Riyadh
+- Russia
+- Sanaa
+- Saudi Arabia
+- Saudi Aramco
+- Spain
+- Strait of Hormuz
+- Sweden
+- Tehran
+- U.S.
+- UK
+- US
+- United States
+- West Bank
+- Yemen
+- Yemen-Saudi
+people:
+- Barack Obama
+- Donald Trump
+- Faisal bin Farhan Al-Saud
+- Leon Panetta
+- Mohsen Rezaei
+- Qassem Basir
+- Sergei Lavrov
+- Yahya Sarea
+organisations:
+- Brown University
+- Brown’s Watson School of International and Public Affairs
+- CIA
+- Government of Israel
+- Houthi
+- Iran War Energy Cost Tracker
+- OPEC
+- Reuters
+- Supreme National Security Council
+- The Guardian
 ---
 
 The Iran-backed Houthi rebels have attacked several cities in Saudi Arabia, wounding 73 people and knocking operations at energy facilities offline, the Saudi-led coalition said on Tuesday in a further sign of the conflict spreading as diplomacy stalls.

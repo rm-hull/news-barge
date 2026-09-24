@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Arkwright Street
+- Bradford Crown Court
+- HMP Leeds
+- Park
+- Range Rover
+- Reevy Road
+- Thorpe
+- Wibsey
+people:
+- Elizabeth Noble
+- Gavin Thorpe
+- Miss Noble
+- Patrick Palmer
+- Saf Salam
+organisations:
+- ABH
+- Range Rover
+- Seat
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

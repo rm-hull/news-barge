@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- A64
+- Grimston Bar
+- Hopgrove Roundabout
+- Hull Royal Infirmary
+- LNER Community Stadium
+- Malton Road
+- Monks Cross Garden Village
+- Monks Cross Link
+- Monks Drive
+- New Lane
+- Swindon Town
+- York City
+- York Outer Ring Road
+people: []
+organisations:
+- M Group
+- Yorkshire Ambulance Service
+- Yorkshire Water
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,24 @@ categories:
 - UK
 - Health & Fitness
 - Family & Parenting
+locations:
+- Chesterfield
+- Derbyshire
+- Great Ormond Street Hospital
+- UK
+people:
+- Ada
+- Gosh
+- Harry
+- Jo Potter
+- Oscar
+- Owase Jeelani
+- Rory Potter
+- Silvia Schievano
+organisations:
+- Gosh and University College London
+- NHS
+- UCL
 ---
 
 A one-year-old boy who was born with a rare skull condition that put him at risk of a learning disability has received world-first operation.

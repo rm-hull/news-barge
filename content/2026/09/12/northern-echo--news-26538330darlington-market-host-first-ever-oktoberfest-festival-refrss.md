@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bavaria
+- Darlington Market Square
+people:
+- Haus der Bratwürste
+organisations:
+- Bratwurst & Stein
+- Darlington Market
+- Haus Der Bratwürste
+- Haus der Bratwürste
+- THE NORTHERN ECHO
 ---
 
 Darlington Market’s German-inspired bar and eatery is hosting its first-ever Oktoberfest celebration next month.

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Ireland
+- U.K.
+people:
+- Bucking Fastard
+- David Lynch
+- David Lynch Herzog
+- Freda Chaplin
+- Greta
+- Jean
+- Joan Holbrooke
+- Kate Mara
+- Maras
+- Orlando Bloom
+- Rooney Mara
+- Sisters Rooney
+- U.S. Rooney
+- Werner Herzog
+organisations: []
 ---
 
 Sisters Rooney and Kate Mara play sisters who speak in unison in Werner Herzog’s new film “Bucking Fastard,” which is having its world premiere Thursday at the Venice Film Festival.

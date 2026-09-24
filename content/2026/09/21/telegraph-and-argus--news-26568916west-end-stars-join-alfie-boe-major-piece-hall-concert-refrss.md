@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479066.jpg?type=og-image
+locations:
+- Broadway
+- Halifax
+- West End
+- Wicked
+people:
+- ALFIE Boe
+- Alfie Boe
+- Elphaba
+- Glinda
+- Kerry Ellis
+- Louise Dearman
+- Ms Dearman
+- Ms Ellis
+- Ms Tucker
+- Nicky Chance-Thompson
+- Rachel Tucker
+organisations:
+- Cats
+- Les Misérables
+- Piece Hall
+- The Piece Hall
+- The Piece Hall Charitable Trust
 ---
 
 *(Image: XRayBurmiston)*

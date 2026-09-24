@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Iran
+- Kuhestak
+- Strait of Hormuz
+- U.S.
+people: []
+organisations: []
 ---
 
 Photos show daily life in Iran on the beach along the Strait of Hormuz

@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Five Lane Ends
+- Keighley
+- Otley
+- UK
+people:
+- Modella
+- Poundland
+organisations:
+- A&M
+- Alvarez & Marsal
+- Gordon Brothers
+- Hobbycraft
+- LK Bennett
+- Poundland
+- Radley
+- Sky News
+- TG Jones
 ---
 
 *(Image: Supplied)*

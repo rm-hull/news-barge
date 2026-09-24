@@ -13,6 +13,42 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Fountains Abbey
+- Harrogate
+- Himalayan Garden
+- Knaresborough
+- Leyburn
+- Lightwater Valley
+- Manor House
+- Masham
+- Newby Hall
+- North Yorkshire
+- Pateley Bridge
+- Ripon
+- Thirsk
+- Tupgill Park
+- Wath
+- York
+people:
+- Anne-Marie
+- Christine Talbot
+- Emma Sims-Hilditch
+- Nicholas Yarsley
+- Nick Falkingham
+- Reed
+- Tor Vivian
+- Trish Reed.’
+- Tulip Bemrose
+organisations:
+- Denys
+- Drawing Room
+- Reed Publishing
+- Saatchi Art
+- Sculpture Park
+- TOR Interiors
+- The Old Rectory
+- Yorkshire Escapes
 ---
 
 *(Image: Nicholas Yarsley)*

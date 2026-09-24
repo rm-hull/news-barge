@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/08/07/15/11/GettyImages-2242296293-
 categories:
 - News & Politics
 - UK
+locations:
+- East Wing
+- Kennedy Center
+- Russia
+- U.S.
+- Ukraine
+- Washington, D.C.
+- White House
+people:
+- Ben Terris
+- Donald Trump
+- John Roberts
+- Jon Ossoff
+organisations:
+- Constitution
+- Department of Justice
+- Department of State
+- East Wing
+- Fox & Friends
+- Lincoln Memorial Reflecting Pool
+- New York Magazine
+- Supreme Court
+- Trump Gold Card
+- U.S. Mint
+- USS Donald J. Trump
 ---
 
 Donald Trump is hoping a massive ballroom and military installation on the White House grounds will one day bear his name as he speedruns through several multi-million dollar construction projects across the nation’s capital to secure his presidential legacy.

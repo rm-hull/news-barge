@@ -12,6 +12,21 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/20162480.jpg?type=og-image
+locations:
+- City of York
+- Haxby
+- North Yorkshire
+people:
+- David Skaith
+- John JonesRusset
+- Matthew Laverack
+- Quentin MacdonaldChurch Lane,Nether
+organisations:
+- Department for Culture, Media and Sport
+- Historic Urban Core
+- UNESCO
+- World Heritage
+- World Heritage Site
 ---
 
 *(Image: Submitted)*

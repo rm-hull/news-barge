@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- LAKE AMERICA
+- Lake Ontario
+- Ottawa
+- U.S.
+- UNITED STATES
+- US
+- White House
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- Bombardier Global Express
+- Citibank
+- Federal Aviation Administration
+- GREAT American Banks
+- Gulfstream Aerospace
+- Oval Office
+- Transport Canada
+- Trump
+- Truth Social
+- U.S. Trade Representative
 ---
 
 President Donald Trump called for Bombardier to be shut out of the American market, declaring in a social media post that the Canadian plane manufacturer’s aircraft "aren't good enough."

@@ -12,6 +12,64 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Sports
+locations:
+- Australia
+- Canada
+- UK
+- US
+- canada
+people:
+- '![Ashley'
+- '"** Ash'
+- '## Colin'
+- '**Tai Hara'
+- ?"** Gordon consoles Ash
+- Annie Maynard
+- Ashley
+- Brett
+- Brett’s
+- Chelsea
+- Chiara
+- Colin From
+- Darren Gilshenan
+- David –
+- Emma Harvie
+- Genevieve Hegney
+- Harriet Dyer
+- Helen Thomson
+- James
+- Justin Rosniak
+- Lee
+- Lynelle
+- Megan
+- Meggles
+- Michael Logo
+- Monstera"** Ash
+- Patrick Brammall
+- Raisin"** Ash
+- Rumi
+- Tom Wardley
+- Virginia Gay
+- Yvette
+organisations:
+- AU
+- Amazon Prime
+- BBC iPlayer
+- BBC iPlayerGet NordVPN
+- Chelsea
+- CityTV
+- Citytv Plus
+- Colin From Accounts
+- Easy Tiger
+- Echo Park Brewery
+- Film Studies
+- Future Publishing
+- Gordon and Ash
+- Gordon’s EV
+- Paramount Plus
+- TechRadar
+- University of South Wales
+- Walmart+**
 ---
 
 ![Ashley (Harriet Dyer) and Gordon (Patrick Brammall) with dog Colin in Colin From Accounts season 3](https://cdn.mos.cms.futurecdn.net/KXKH9VDXUafrUjG6nESLT5.jpg) 

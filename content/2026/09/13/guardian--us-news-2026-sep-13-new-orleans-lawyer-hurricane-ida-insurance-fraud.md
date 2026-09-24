@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alabama
+- Austin
+- Houston
+- Huye
+- Louisiana
+- New Orleans
+- New Orleans US
+- Texas
+people:
+- Ida
+- Karen Wells Roby
+- Leon “Chunky” Parker
+- Richard William Huye III
+- Sean Alfortish
+- Sean Toomey
+- William Crain
+- Zach Moseley
+organisations:
+- Apex
+- Huey’s
+- Huye
+- MMA
+- McClenny Moseley and Associates
+- Velawcity
 ---
 
 The first defendant charged in connection with an alleged major property insurance fraud scheme in the aftermath of Hurricane Ida in 2021 in Louisiana appears poised to plead guilty, if federal criminal court records are any indication.

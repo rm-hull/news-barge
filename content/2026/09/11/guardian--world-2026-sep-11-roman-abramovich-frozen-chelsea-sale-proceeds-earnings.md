@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Jersey
+- UK
+- Ukraine
+people:
+- Kieran Maguire
+- McCarthy Denning
+- Roman Abramovich
+- Stefan Borson
+- Vladimir Putin
+organisations:
+- Barclays
+- Camberley International Investment vehicle
+- Chelsea FC
+- Fordstam
+- Guardian
+- OFSI
+- Office for Financial Sanctions Implementation
+- Roman Abramovich
+- Sibneft
+- Treasury
 ---
 
 Funds from Roman Abramovich’s sale of Chelsea FC have earned at least £175m in interest while locked in a UK bank account, new accounts show, leading one analyst to describe the company housing the frozen cash as “the most profitable football business in the world”.

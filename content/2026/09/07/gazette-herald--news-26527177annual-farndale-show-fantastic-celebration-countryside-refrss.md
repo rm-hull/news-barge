@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Farndale Store Burger
+- Yorkshire
+people:
+- Dave Bentley
+- Fiona
+- Jarvis Browning
+organisations:
+- Barney and Stans
+- Circus Oz
+- Farndale Show
+- Ryedale Vets
 ---
 
 The annual Farndale show was a fantastic celebration of the countryside .

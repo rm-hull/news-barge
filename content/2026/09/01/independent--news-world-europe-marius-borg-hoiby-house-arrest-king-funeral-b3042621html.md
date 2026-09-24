@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Norway
+- Oslo
+people:
+- Haakon VIII
+- Harald V. Marius Borg Høiby
+- Jeffrey Epstein
+- King
+- Mette-Marit
+- Oda Karterud
+- Olav Fykse Tveit
+organisations:
+- AFP
+- Church of Norway
+- Department of Justice’s “Epstein
+- Oslo Cathedral
 ---
 
 The disgraced son of Norway’s new queen will be allowed to leave house arrest despite a recent rape conviction to attend the state funeral of King Harald V.

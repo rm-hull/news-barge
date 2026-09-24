@@ -11,6 +11,29 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21483578.jpg?type=og-image
+locations:
+- North Yorkshire
+- YOUR
+- York
+people:
+- Bonnie Moorman
+- Craig Bentley
+- Jason Hynes
+- Mary Grant
+- Mott MacDonald
+- Porterbrook
+- Wick
+organisations:
+- Central Hall
+- Central Hall and Futures Gallery
+- Friends of the National Railway Museum
+- NRM
+- National Railway Museum
+- Porterbrook Gallery
+- Public Notice Portal
+- Railway Futures
+- Science Museum Group.
+- Trustees of the Science Museum Group.
 ---
 
 ## Construction begins on major redevelopment project in York

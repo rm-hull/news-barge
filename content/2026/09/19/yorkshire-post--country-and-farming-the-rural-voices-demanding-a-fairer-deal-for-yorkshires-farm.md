@@ -15,6 +15,48 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE1MjFlYjM4LTYyMGItNGQyNy1iNmIwLTQwYzJmODkxMTg2OTpiNzIxMGJiYS05M2JhLTQwMTItYWUzMS04NDcxN2Q5NGJjYWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Ecclesfield
+- Eden Farm
+- England
+- Grenoside
+- North Yorkshire
+- Old Malton
+- Sheffield
+- Townend Farm
+- Westminster
+people:
+- Adele Riddle
+- Alan Laidlaw
+- Andrew
+- Andy Burnham
+- Angela Rayner
+- Emma Sturdy
+- Farmers Emma
+- George Dunn
+- Helena Anne Beatrix Wentworth Fitzwilliam Rees-Mogg
+- Jacob-Rees Mogg
+- Matthew Pennycock
+- Rob Sturdy
+- Tim Bonner
+organisations:
+- Agricultural Landlord and Tenant Code of Practice
+- Countryside Alliance
+- Defra
+- Farm Tenancy Forum
+- Harmony Energy
+- House of Commons
+- Labour
+- Rock Review
+- Sheffield City Council
+- State for Housing, Communities and Local Government
+- TFA
+- Tenant Farmers Association
+- Tenant Farming Sector
+- The Department for Environment, Food and Rural Affairs
+- The Fitzwilliam Trust Corporation
+- The Rock Review
 ---
 
 # The rural voices demanding a fairer deal for Yorkshire's farmers

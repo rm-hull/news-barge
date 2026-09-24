@@ -12,6 +12,30 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Brussels
+- Greenland
+- Hallgrimskirkja
+- Iceland
+- Reykjavik
+- U.S.
+- Ukraine
+people:
+- Donald Trump
+- Gudrun Hafsteinsdottir
+- Katrin Jakobsdottir
+- Leif Erikson
+- Leonhard Foeger
+- Thorgerdur Gunnarsdottir
+- Vilhjalmur Hilmarsson
+organisations:
+- EU
+- European Central Bank
+- European Union
+- Gallup
+- REUTERS
+- Reuters
+- Viska
 ---
 
 Icelanders vote on Saturday on whether to reopen membership talks with the European Union, with islanders split down the middle after months of debate focused on the cost of living, security and control over fishing waters.

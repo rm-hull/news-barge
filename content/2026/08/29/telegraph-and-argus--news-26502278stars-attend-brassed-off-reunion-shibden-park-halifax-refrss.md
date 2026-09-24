@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Calderdale
+- Halifax Piece Hall
+- Shibden Park
+- Yorkshire
+people:
+- Ben Dixon
+- Danny Boy
+- David Arnold
+- Mark Herman
+- Peter Gunn
+- Stephen Tompkinson
+- Sue Johnston
+- Tara Fitzgerald
+organisations:
+- Albert Hall
+- Grimethorpe Colliery Band
+- Grimley Colliery Band
+- Yorkshire
 ---
 
 Stars of the now classic Yorkshire-set film, Brassed Off, joined a 30th anniversary celebration of the film at Shibden Park, Halifax.

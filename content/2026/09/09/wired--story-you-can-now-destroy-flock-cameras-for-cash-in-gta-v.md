@@ -11,6 +11,29 @@ image: https://media.wired.com/photos/6aa06d6d9c9e744f723e31eb/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Cedar Rapids
+- Florida
+- LA
+- Los Angeles
+- Los Santos
+- Miami
+- Texas
+- US
+- Vice City
+people:
+- Flock
+- Morry Kolman
+organisations:
+- Eyes Off
+- Flock Safety
+- GTA V
+- GTALPR
+- GTPLR
+- LAPD
+- Los Angeles Police Department
+- NPR
+- Secure Justice
 ---
 
 People are not happy about Flock Safety’s automated license plate readers and the cops that allegedly misuse them. If you’re one of those ALPR-haters, you can now take out your rage in the video game *Grand Theft Auto V* by installing Grand Theft Automated License Plate Reader, a mod built by artist Morry Kolman.

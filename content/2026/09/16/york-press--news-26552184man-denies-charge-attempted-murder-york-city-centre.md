@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Micklegate
+- Trinity Lane
+- YORK
+people:
+- Kevin Glenton
+organisations:
+- The Herald
+- USA Today
 ---
 
 The police roadblock in Trinity Lane, Micklegate, on February 19 (Image: Kevin Glenton)

@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Amazon
+- Cincinnati
+- Miami
+- Puerto Rico
+- San Juan
+people:
+- Jennifer Homendy
+organisations:
+- 21 Air
+- Boeing
+- CNN
+- Ford
+- Miami International Airport
+- NTSB
+- National Transportation Safety Board
+- Professional Ocean Service Corporation
 ---
 
 An Amazon cargo plane that killed five people when it overshot the runway and crashed in Miami on Sunday left behind a scene of “utter devastation,” according to the National Transportation Safety Board.

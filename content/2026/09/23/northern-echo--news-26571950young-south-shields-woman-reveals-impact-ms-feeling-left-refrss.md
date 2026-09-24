@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21487491.jpg?type=og-image&xType=0&yType=26
+locations:
+- Manchester
+- North East
+- South Shields
+people:
+- '![]()Jess'
+- Jess Newby
+- Lightning McQueen
+- Mark Newby
+- Miss Newby
+organisations:
+- Pixar
 ---
 
 A young North East woman is adjusting to a new way of life after a "scary" diagnosis.

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- D.C.
+- Dallas
+- Iran
+- Michigan
+- Rose Garden
+- Texas
+- Washington
+- White House
+people:
+- Donald Trump
+- John Feehery
+- Ken Paxton
+- Kevin Madden
+- Melania Trump
+- Tom Barrett
+organisations:
+- American Airlines Center
+- Financial Times*/Focaldata
+- House
+- MAGA Inc
+- NBC News
+- Politico
+- Senate
+- Trump
 ---
 
 President Donald Trump is becoming a major liability for Republican candidates in the upcoming midterms, as dire predictions about the opposition sweeping the House and Senate continue to mount, according to a new poll.

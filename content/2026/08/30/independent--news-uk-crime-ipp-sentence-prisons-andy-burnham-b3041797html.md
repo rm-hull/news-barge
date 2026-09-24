@@ -16,6 +16,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people:
+- Alex Norris
+- Amy-Clare Martin
+- Andy Burnham
+- Dominic Raab
+- Leroy Douglas
+organisations:
+- IPP
+- Imprisonment for Public Protection
+- Ministry of Justice
+- United Nations
 ---
 
 When I first started investigating indefinite sentences in November 2023, there had been horrifying spike in suicides among prisoners.

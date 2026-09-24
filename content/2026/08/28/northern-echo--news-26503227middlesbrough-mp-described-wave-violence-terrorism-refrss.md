@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- County Durham
+- Grangetown
+- Haswell
+- Middlesbrough
+- Owen Humphreys
+- PA
+- Peterlee
+- South Bank
+- Teesside
+- Thornaby East
+people:
+- ASHLEY FERGUSON
+- Alec Brown
+- Andy McDonald
+- Cllr Brown
+- Cole Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Mr Cahill
+- Natalie McDonald
+- OWEN HUMPHRIES
+- TOM WILKINSON
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Council
+- Cleveland Police
+- Labour
+- Middlesbrough
+- NORTHERN ECHO
+- National Crime Agency
+- Redcar
+- Times Radio
 ---
 
 A Middlesbrough MP has described a wave of violence following the deadly A66 crash and fatal house fire as "terrorism".

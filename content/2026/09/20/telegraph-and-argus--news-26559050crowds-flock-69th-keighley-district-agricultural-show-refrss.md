@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468164.jpg?type=og-image
+locations:
+- Bradford Now
+- Marley Fields
+people:
+- '### Quadbike'
+- Covid
+- Steve Rayner
+- William Mitchell
+organisations:
+- '### Terrier'
+- Bingley Show
+- Keighley Town Council
+- Keighley and District Agricultural Show
 ---
 
 Crowds turned out in force at "Keighley's biggest event", organisers said.

@@ -11,6 +11,29 @@ description: Apple's Director of Fitness Tech tells us everything about the Appl
 image: https://cdn.mos.cms.futurecdn.net/wg7FEhRsX9teyEsjNRsnwf-1881-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Craig Bolton
+- Michael Sawh
+organisations:
+- Apple
+- BBC Science Focus
+- Bolton
+- Fitness Technologies
+- GQ
+- Garmin
+- Google Fitbit Air
+- Google News
+- Health Sensing System
+- Men's Fitness
+- Metro and Stuff
+- Movement
+- Oura
+- Readiness
+- The Run Testers
+- Wareable
+- Wired UK
+- YouTube
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/wg7FEhRsX9teyEsjNRsnwf.jpg) 

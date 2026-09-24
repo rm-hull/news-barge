@@ -14,6 +14,37 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/JrfX4goFp5PUzXzdGHkgsc-1280-80.jpg
+locations: []
+people:
+- Jensen Huang
+- Mark Tyson
+- Ray
+- Tom Clancy
+- Turing
+organisations:
+- AMD
+- Asus
+- Colorful
+- EVGA
+- FE
+- GPU
+- Gainward
+- Galaxy
+- Get Tom's Hardware
+- Ghost Recon
+- Gigabyte
+- Google News
+- Inno3D
+- MSI
+- Nvidia Founders Editions
+- PNY
+- Palit
+- The Witcher
+- Titan V
+- Tom's Hardware
+- Turing
+- World of Warcraft
+- Zotac
 ---
 
 ![GeForce RTX 2080 Ti](https://cdn.mos.cms.futurecdn.net/JrfX4goFp5PUzXzdGHkgsc.jpg)

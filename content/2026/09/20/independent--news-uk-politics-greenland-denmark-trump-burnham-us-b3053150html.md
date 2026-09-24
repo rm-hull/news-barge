@@ -12,6 +12,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/20/16/2026-09-20T013104Z_432093981_RC2FMNAGM8Y8_RTRMADP_3_USA-TRUMP-GREENLAND.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Downing Street
+- Europe
+- Greenland
+- High North
+- Kingdom of Denmark
+- New York
+- North Atlantic
+- US
+- Ukraine
+- United States
+- United States of America
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Mette Frederiksen
+organisations:
+- Lib Dems
+- Nato
+- Truth Social
+- UN General Assembly
+- UNGA
+- US’
 ---
 
 Andy Burnham has commended Denmark and the US after the two nations reached a new agreement over Greenland to "strengthen security in the Arctic".

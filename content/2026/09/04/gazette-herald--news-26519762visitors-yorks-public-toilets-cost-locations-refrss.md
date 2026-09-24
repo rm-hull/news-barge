@@ -15,6 +15,48 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Australia
+- Coppergate
+- France
+- Girona
+- Greece
+- Heworth
+- Italy
+- Lord Mayor's Walk
+- New Zealand
+- North Island
+- Nunnery Lane
+- Parliament Street
+- Queensland
+- Rougier Street
+- Rowntree Park
+- Scarborough
+- Silver Street
+- Spain
+- St Georges Field
+- St George’s Field
+- St Leonard’s Place
+- Tauranga
+- UK
+- Union Terrace
+- York
+people:
+- Adam Brady
+- Colin
+- Edwina
+- Geraldine
+- Jaz
+- Kevin Glenton
+- Lindsay
+- Mick Morgan
+- Nick
+- Sheila Richardson
+organisations:
+- City of York Council
+- Healthmatic
+- RADAR
+- Royal Association for Disability and Rehabilitation
 ---
 
 Locals and visitors to York might find it hard to pin down the location of some of the city centre public loos, but nobody seems to object to spending 50p to “spend a penny”.

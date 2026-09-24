@@ -13,6 +13,20 @@ image: https://cdn.mos.cms.futurecdn.net/nRn6eoq9z2QdNzGTXG4eQN-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Gamescom
+people:
+- Craig Littler
+- Will Kennedy
+organisations:
+- Demi Williams
+- Fable
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Playground
+- TechRadar Gaming
 ---
 
 ![Fable](https://cdn.mos.cms.futurecdn.net/nRn6eoq9z2QdNzGTXG4eQN.jpg) 

@@ -14,6 +14,18 @@ categories:
 - History
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21470690.jpg?type=og-image
+locations:
+- Bishop Middleham
+- Bradley Hall
+- Castle
+- County Durham
+- Durham Cathedral
+- Durham City
+- Farnley Hey Road
+- Goldrill
+people: []
+organisations:
+- AEG
 ---
 
 DESIGNED to embrace its remarkable setting and with expansive glazing, balconies and terraces creating a wonderful connection between the interior and the surrounding landscape, Goldrill can truly be described as a house that stands out from the crowd.

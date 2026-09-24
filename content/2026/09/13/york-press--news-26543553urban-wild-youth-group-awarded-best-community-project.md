@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Aviva
+- Portakabin
+- St Nicks
+- Tang Hall
+- York Racecourse
+people:
+- Vicky Blakey-Archer
+organisations:
+- Best Community Project
+- David Harrison Photography
+- Police, Fire and Crime Commissioner
+- St Nicks
+- Urban Wild
+- Urban Wild Youth Group
 ---
 
 ## Youth group in York named Best Community Project in prestigious awards

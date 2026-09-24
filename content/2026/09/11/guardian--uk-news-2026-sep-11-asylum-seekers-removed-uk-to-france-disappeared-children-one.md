@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Society & Culture
 - Sports
+locations:
+- Bulgaria
+- Calais
+- Europe
+- France
+- UK
+people:
+- Alex Sobel
+- Emmanuel Macron
+- Jane Leech
+- Keir Starmer
+- Maddie Harris
+- Mike German
+- Nihal Osman
+- Shabana Mahmood
+organisations:
+- Channel
+- Council of Europe
+- Home Office
+- Humans For Rights Network
+- IMBs’
+- Independent Monitoring Boards
+- Médecins Sans Frontières
+- NGO
+- The Guardian
+- interior ministry
 ---
 
 Hundreds of asylum seekers including at least 41 age-disputed children who were removed to France under the “one in, one out” deal have disappeared, human rights organisations have said.

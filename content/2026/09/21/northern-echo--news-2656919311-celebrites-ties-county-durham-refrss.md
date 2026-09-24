@@ -14,6 +14,84 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/16965771.jpg?type=og-image
+locations:
+- '## County Durham'
+- Annfield Plain
+- Auckland
+- BBC
+- Britain
+- Christchurch
+- Consett
+- Coronation Street
+- County Durham
+- Easington
+- Ebchester
+- England
+- New Zealand
+- North East
+- North East This
+- PA
+- Sedgefield
+- Tynemouth
+- UK
+- Waterloo Road
+people:
+- '## Gina McKee'
+- '## Matt Baker Matt Baker'
+- '## Rowan Atkinson Few'
+- '## Sara Davies'
+- Alex Jones
+- Alison Braithwaite
+- Alun Armstrong
+- Bean
+- Ben Stokes
+- Denise Welch
+- Edmund Blackadder
+- Graham Norton
+- Ian West
+- Jeff Stelling
+- Kirsty O’Connor
+- Mark Gatiss
+- Mark Gatiss Born
+- Matty Healy
+- Mike Egerton
+- Natalie Barnes
+- Nick Mohammed
+- Paul Stuart
+- Rowan Atkinson
+- Ruth Crafer
+- Sara Davies
+- Scarlett Moffatt
+- Sherlock
+- Stephen Tompkinson
+- Steven Moffat
+- Ted Lasso
+organisations:
+- BBC programme Dragon
+- Blackadder
+- Blue Peter
+- Bodyguard
+- Countryfile
+- County Durham
+- DCI Banks
+- Den
+- Durham Uni
+- Game of Thrones
+- ITV
+- Little Dorrit
+- Mountview Academy of Theatre Arts
+- New Tricks
+- Notting Hill
+- Oliver Twist
+- Phantom Thread
+- Royal Shakespeare Company
+- Sky Sports' Soccer
+- The 1975
+- The Borgias
+- The Crown
+- The League of Gentlemen
+- Vanity Fair
+- Wild at Heart
 ---
 
 *(Image: Ian West/Kirsty O’Connor/Mike Egerton/PA)*

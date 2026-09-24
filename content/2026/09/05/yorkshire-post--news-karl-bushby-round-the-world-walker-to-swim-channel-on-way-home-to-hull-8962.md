@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Belgium
+- Bering Strait
+- Caspian Sea
+- Europe
+- France
+- Hull
+- Iran
+- Los Angeles
+- Russia
+- South America
+- Ukraine
+people:
+- Karl Bushby
+organisations:
+- Eurotunnel
 ---
 
 # Karl Bushby: Round-the-world walker to swim Channel on way home to Hull

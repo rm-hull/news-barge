@@ -14,6 +14,112 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Amex Stadium
+- Anfield
+- Aston Villa
+- Brighton
+- City Ground
+- Coventry
+- Craven Cottage
+- Crystal Palace
+- Elland Road
+- Etihad Stadium
+- Gtech Community Stadium
+- Hill Dickinson Stadium
+- Manchester
+- Old Trafford
+- St James' Park
+- Stamford Bridge
+- Sunderland
+- UK
+- Vitality Stadium
+people:
+- AI
+- Alvaro Arbeloa
+- Andoni Iraola
+- Bruno Fernandes
+- Chelsea
+- Chris Bevan.
+- Chris Sutton
+- Craven Cottage
+- Daniel Farke
+- David Moyes
+- David Silva
+- De Zerbi
+- Dennis Tueart
+- Dominic Calvert-Lewin
+- Enzo Maresca
+- Fabian Hurzeler
+- Frank Lampard
+- Gary O'Neil's
+- Iliman Ndiaye
+- James Trafford
+- Johnny Marr
+- Johnny Marr.
+- Keith Andrews
+- Kevin De Bruyne
+- Liam Delap
+- Luka Vuskovic
+- Marc White
+- Marco Rose
+- Michael Carrick
+- O'Neil
+- Oliver Glasner
+- Palace
+- Pep Guardiola
+- Phil Foden
+- Pierre Sage
+- Rayan Cherki
+- Roberto de Zerbi
+- Rory Smith
+- Sergio Aguero
+- Tarik Muharemovic
+- Unai Emery
+- Vincent Kompany
+- Xabi Alonso
+- andManchester Cityfan
+organisations:
+- A14
+- AI
+- Arsenal
+- Aston Villa
+- BBC Sport
+- BST Chelsea
+- Black Cats
+- Bournemouth
+- Brentford
+- Brighton
+- Cherries
+- Coventry
+- Crystal Palace
+- Dorking Wanderers
+- Eagles
+- Everton
+- Fulham
+- Gunners
+- Hull
+- Ipswich
+- Leeds
+- Leeds'
+- Liverpool
+- Manchester City
+- Manchester United
+- Marr
+- Monday Night Club
+- Newcastle
+- Norwich
+- Nottingham Forest
+- Premier League
+- Reds
+- Seagulls
+- Sky Blues
+- Spurs
+- Sunderland
+- The Smiths
+- Tigers
+- Tottenham Hotspur Stadium
+- Tractor Boys
 ---
 
 ![A picture of Chris Sutton with wording next to it that says BBC Sport columnist Chris Sutton](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/87c0/live/f73a32d0-33e1-11f0-96c3-cf669419a2b0.png)

@@ -13,6 +13,61 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- Chad
+- Grogu
+- London
+- South Georgia Catfish
+- The Mandalorian
+- UK
+- US
+people:
+- Aaron Taylor-Johnson
+- Agatha Christie
+- Anna Faris
+- Baby Yoda
+- Chad aka Russ
+- Din Djarin
+- Glass
+- Glen Powell
+- Gugu Mbatha-Raw
+- Jeremy Allen White
+- Jotta
+- Kenneth Branagh
+- Lucy Buglass
+- Marlon Wayans
+- Pedro Pascal
+- Ricky (Perry Mattfeld
+- Ritchie
+- Russ Holliday
+- Ryan Reynolds
+- Sam Worthington
+- Shakari
+- Shawn Wayans
+- Theo James
+- Tom Power
+- Wes Craven
+organisations:
+- Apple
+- Chad Powers
+- Disney Plus
+- Google News
+- Grogu
+- HBO Max
+- Lucasfilm
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Regina Hall
+- Star Wars
+- TechRadar
+- The New Republic
+- Twins
+- U.S. Navy
+- Wrexham
+- andDisney
+- ex-KGB
 ---
 
 ![Baby Yoda and Din Djarin riding on a speeder bike through a tunnel in The Mandalorian and Grogu](https://cdn.mos.cms.futurecdn.net/zAPcojoWRoRkmyMRn7WBYm.jpg) 

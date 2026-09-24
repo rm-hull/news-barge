@@ -15,6 +15,24 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Vietnam
+people:
+- Andreas Rentz
+- Bulkhead
+- Mikkel Weider
+- Sean Kealy
+organisations:
+- Bulkhead
+- Everplay
+- Everyplay
+- GWYF 2
+- Panmure Liberum
+- Steam
+- Super Media Group
+- Team17
+- Wardogs
+- Yorkshire
 ---
 
 # “A truly fantastic achievement”: One million copies of new game from Yorkshire publisher sold in first day

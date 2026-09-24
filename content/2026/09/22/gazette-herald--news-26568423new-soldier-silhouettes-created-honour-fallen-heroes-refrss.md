@@ -13,6 +13,16 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21482015.jpg?type=og-image
+locations: []
+people:
+- John Stephens
+- Jonathon Hunter
+organisations:
+- Devizes Men's Shed
+- Devizes Town Council
+- Devizes Trailer Centre
+- Royal British Legion
+- Victoria Cross
 ---
 
 Three new soldier silhouettes have been created to honour the lives and service of fallen heroes.

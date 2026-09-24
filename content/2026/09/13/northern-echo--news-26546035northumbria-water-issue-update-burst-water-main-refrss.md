@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Askew Road
+- County Durham
+- Gateshead Centre
+- Great North Run
+- North East
+- Redheugh Bridge
+people: []
+organisations:
+- Gateshead Council
+- Northumbria Police
+- Northumbrian Water
+- Village Heights
 ---
 
 *(Image: GOOGLE MAPS)*

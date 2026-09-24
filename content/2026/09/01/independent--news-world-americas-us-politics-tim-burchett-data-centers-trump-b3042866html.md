@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Mar-a-Lago
+- Ohio
+- U.S.
+- U.S.A.
+people:
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Jon Husted
+- MeidasTouch
+- Pablo Manríquez
+- Tim Burchett
+organisations:
+- AI
+- Congress
+- Fox News
+- Gallup
+- National Republican Senatorial Committee
+- New York Times
+- Truth Social
+- Truth Social Monday
 ---
 
 Republican Rep. Tim Burchett, typically a close congressional ally of President Donald Trump, accepted the president’s title of being “backwards and poor” for being apprehensive about tech companies building artificial intelligence data centers across the country.

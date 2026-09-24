@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- California
+- San Jose
+- Santa Clara
+people:
+- Gavin Newsom
+- Paul Joseph
+- Trump
+organisations:
+- CalMatters
+- Flock
+- ICE
+- Immigration and Customs Enforcement
+- Institute for Justice
+- Mercury News
+- NBC Bay Area
+- San Jose Mercury News
 ---
 
 A San Jose police officer was fired for using his department’s Flock license plate tracking system to share the location of a woman with the suspect accused of abusing her, Chief Paul Joseph told NBC Bay Area on Friday.

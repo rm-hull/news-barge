@@ -13,6 +13,48 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/21/13/Vatican_Pope_197_8.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Algeria
+- Angola
+- Argentina
+- Buenos Aires
+- Callao
+- Cameroon
+- Chiclayo
+- Church of Jesus Christ
+- Cusco
+- Equatorial Guinea
+- Florida
+- Inca
+- Latin America
+- Lima
+- Lujan
+- Madonna
+- Mass
+- Peru
+- Peruvian Andes
+- Pucallpa
+- Rome
+- St. John Paul II
+- St. Peter’s Basilica
+- U.S.
+- Uruguay
+- Vatican
+people:
+- Francis
+- Francis’
+- Leo XIV
+- Machu Picchu
+- Madonna
+- Our Lady of Lujan
+- Our Lady of the Thirty-Three
+- Robert Prevost
+organisations:
+- AP
+- Lilly Endowment Inc
+- The Conversation US
+- \_\_\_ Associated Press
 ---
 
 Pope Leo XIV will retrace his steps as a missionary priest when he returns home to Peru in November in his longest trip to date that will also take him to Uruguay and Argentina, where his Argentine predecessor Pope Francis never returned.

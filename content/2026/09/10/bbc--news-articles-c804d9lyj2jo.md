@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Chisinau
+- Iran
+- Kyiv
+- Moscow
+- Oryol
+- Russia
+- Tsymbulova
+- Ukraine
+people:
+- John Hardie
+- Maj Gen
+- Marina Miron
+- Michael Bohnert
+- Tsymbulova
+- Vadym Skibitskyi
+- Volodymyr Zelensky
+- Yevhenii Khmara
+organisations:
+- Air Force
+- BBC Verify
+- Conflict Armament Research
+- Foundation for Defense of Democracies
+- King's College London
+- Kyiv
+- RAND
+- Ukrainian Air Force
 ---
 
 ![Two Ukrainian first responders carry the remains of a Russian jet-powered drone engine after an attack. They are wearing body armour and helmets and are holding opposite ends of the engine.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9bfd/live/d80b0030-ac65-11f1-a540-61c3f7fc4e6c.png)

@@ -14,6 +14,81 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Amazon
+- America
+- China
+- Earth
+- Iran
+- New York
+- Ohio
+- Pennsylvania
+- Silicon Valley
+- Texas
+- U.S.
+- U.S.A.
+- West Virginia
+people:
+- Abbot
+- Alex Bores
+- Andreessen Horowitz
+- Anna
+- Biden
+- Brendan Glavin
+- Chris McGuire
+- Claude
+- Donald Trump
+- Gina Hinojosa
+- Greg Abbott
+- Greg Brockman
+- Howard Lutnick
+- Jon Husted
+- Josh Shapiro
+- Kamala Harris
+- Micah Lasher
+- Nicol Turner Lee
+- Paris Marx
+- Sherrod Brown
+- Stacy Garrity
+- Turner Lee
+organisations:
+- '## AI'
+- Amazon
+- Andreessen Horowitz
+- Anthropic
+- Big Tech
+- Bores’
+- Brockmans
+- CNN
+- Census Bureau
+- Center for Technology Innovation at Brookings
+- Commerce
+- Council on Foreign Relations
+- Crypto
+- Economist/YouGov
+- Elon Musk
+- Facebook
+- Federal Election Commission
+- Google
+- Meta
+- Microsoft
+- Nvidia
+- OpenAI
+- OpenSecrets
+- Oracle —
+- PAC Leading the Future
+- PACs
+- Palantir
+- Public First
+- Public First Action
+- Public First Action and Leading the Future
+- Reuters
+- Senate
+- The Independent
+- Trump
+- Truth Social
+- Wall Street Journal
+- pro-AI
 ---
 
 Earlier this week, President Donald Trump wandered into the data center debate, making life considerably tougher for Republican colleagues facing tight races in the November midterms.

@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- America
+- Hinds County
+- Jackson
+- Mississippi
+- New Orleans
+- New York City
+- South
+- United States
+people:
+- Billie Holiday
+- Cassandra Wilson
+- Herman B. Fowlkes
+- Jackson
+- Jeramiah Howard
+- John Horhn
+- Jon Batiste
+- Mary Fowlkes
+- Miles Davis
+- Motown
+- Steve Coleman
+- Thelonious Monk
+organisations:
+- Apollo Theater
+- Brazilian TV
+- Instagram
+- Jackson State University
+- M-Base Collective
+- Millsaps College
+- National Endowment for the Arts Jazz Master
+- Time magazine
+- WBGO
+- WJTV
 ---
 
 Cassandra Wilson, the two-time Grammy Award-winning jazz singer, songwriter and producer has died. She was 70.

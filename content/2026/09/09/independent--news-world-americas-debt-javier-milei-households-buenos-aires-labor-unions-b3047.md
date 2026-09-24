@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Argentina
+- Buenos Aires
+- Rosario
+people:
+- Ana Iparraguirre
+- Javier Milei
+- Luis Caputo
+- Martín Taborda
+- Nicolás del Caño
+- Vanesa Bittoco
+- Zuban Córdoba
+organisations:
+- Alcoholics Anonymous
+- Applied Social Psychology Observatory
+- Center for City Studies
+- Congress
+- GBAO
+- Milei Experts
+- Organized Debtors
+- University of Buenos Aires
 ---
 
 At 18, Martín Taborda began studying law at Argentina’s prestigious University of Buenos Aires, hoping to become the first in his family to graduate. Just two years later, that dream has slipped out of reach.

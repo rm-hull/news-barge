@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington Memorial Hospital
+- Great North Children’s Hospital
+- London
+- Newton Aycliffe
+- North East
+people:
+- )* Heather
+- Amelia *(Image
+- Amelia Davies
+- Heather Hill
+- Laura Bailey
+- Roseberry Topping
+organisations:
+- County Durham
+- Forever Eight
+- ITV
+- Pride of Britain
+- Quoits Club
+- RVI
 ---
 
 A Darlington charity has said it is an 'honour' to be shortlisted for the Tyne and Tees Pride of Britain Awards.

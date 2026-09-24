@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - Society & Culture
 - Law & Justice
+locations:
+- Britain
+- Harborne
+- Northern Ireland
+- UK
+- Wales
+people:
+- Andrew RT Davies
+- Andy Burnham
+- Angela Rayner
+- Ben Delo
+- Bethan McKernan
+- Chris Bryant
+- Chris Mason
+- Christopher Harborne
+- Gavin Barwell
+- Getty Images
+- Kemi Badenoch
+- Leon Neal
+- Matt Wrack
+- Nigel Farage
+- Rhun ap Iorwerth
+- Richard Tice
+- Robert Hamill
+- Robert Jenrick
+- Stefan Rousseau
+- Zia Yusuf
+organisations:
+- BBC
+- Commons
+- Delo and Harborne
+- ILO
+- International Labour Organisation
+- Land Rover
+- MS
+- NASUWT
+- PA
+- Plaid Cymru
+- Press Association
+- RUC
+- Reform UK
+- SNP
+- Senedd
+- Sinn Féin
+- TUC
+- Tory
+- Treasury
 ---
 
 Farage hints £72m donations to Reform UK won't be legal under retrospective measures in elections bill when it becomes law

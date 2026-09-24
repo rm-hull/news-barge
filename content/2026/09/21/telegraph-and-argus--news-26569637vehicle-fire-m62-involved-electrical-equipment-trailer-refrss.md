@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/20445033.jpg?type=og-image
+locations:
+- Ashton-under-Lyne
+- Blackley
+- Chadderton
+- M62
+- Whitefield
+people: []
+organisations:
+- '## FULL'
+- Birch Services
+- Enhanced Rescue Unit
+- GMFRS
+- Greater Manchester Fire and Rescue Service
+- Telegraph & Argus
 ---
 
 *(Image: Telegraph & Argus)*

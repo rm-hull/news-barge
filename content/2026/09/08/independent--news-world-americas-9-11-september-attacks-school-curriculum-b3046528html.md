@@ -14,6 +14,56 @@ categories:
 - UK
 - Society & Culture
 - Education & Learning
+locations:
+- Abu Ghraib
+- Alabama
+- Arizona
+- California
+- Colorado
+- Cuba
+- Florida
+- Guantanamo Bay
+- Johnstown
+- Louisiana
+- New Jersey
+- New Mexico
+- New York
+- New York City
+- North Dakota
+- Pennsylvania
+- R-N.Y.
+- Shanksville
+- Texas
+- U.S.
+- Washington
+- West Chester
+- World Trade Center
+people:
+- Ameya Williams
+- Andrew Garbarino
+- Cade Brumley
+- Desmond Killian
+- Diana Hess
+- Donna Gibson
+- Edward Felt
+- Eric Killian
+- Gordon Felt
+- Jeremy Stoddard
+- John Boston Bradley
+- John Kavanagh
+- Martha "Marty" Runzer
+- Megan Jones
+- Williams'
+organisations:
+- AP
+- Associated Press
+- Friends of Flight 93 National Memorial
+- National Sept. 11 Memorial & Museum
+- Pentagon
+- Pew Research Center
+- United Airlines
+- United States’
+- University of Wisconsin
 ---
 
 Over three summer days, educators gathered at the Flight 93 National Memorial in rural western Pennsylvania to address a complex challenge: how best to teach the September 11 attacks to a generation born long after 2001. Participants evaluated which details suit younger children and examined how victims' families wish the dead to be commemorated.

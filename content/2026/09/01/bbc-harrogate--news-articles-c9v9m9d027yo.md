@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Barrow
+- West Cliff
+- Whitby Town
+- Whitby coast
+people:
+- Mark Crane
+- Sandra Turner
+organisations:
+- North Yorkshire Council
+- Whitby
 ---
 
 ![Workmen in hi vis jackets remove a whalebone from the Whitby coast using a crane.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3244/live/605d78d0-a5dd-11f1-ae66-53604efd186f.jpg)

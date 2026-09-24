@@ -14,6 +14,13 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Bridlington
+people:
+- Richard Ponter
+organisations:
+- Bridlington Steampunks
+- Royal Hall
 ---
 
 The event took place inside the Royal Hall with entertainment, presentations, workshops and authors.

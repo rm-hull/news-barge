@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Albania
+- Baltic Sea
+- Belgium
+- Bulgaria
+- Canada
+- Denmark
+- Finland
+- Greece
+- Latvia
+- Lithuania
+- Luxembourg
+- Oxfordshire
+- Romania
+- Russia
+- Turkey
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- John Healey
+- Mark Carney
+- Mark Rutte
+- Rachel Reeves
+organisations:
+- Budget
+- DSRB
+- Defence, Security and Resilience Bank
+- G7
+- Houses of Parliament.
+- Multilateral Defence Mechanism and Defence Security Resilience Bank
+- Nato
+- Treasury
 ---
 
 ![A soldier holds standing in a wooded area](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/96d0/live/1ab4a860-b160-11f1-84df-a1b833410ec4.png)

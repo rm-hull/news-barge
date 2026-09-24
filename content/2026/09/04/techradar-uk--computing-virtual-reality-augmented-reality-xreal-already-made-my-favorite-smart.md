@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/JZTUbG9xrw6xjPGDC2eAaU-2000-80.png
 categories:
 - Technology & Software
 - Science
+locations:
+- Northern Hemisphere
+people:
+- Bose
+- Gemini
+- Hades
+- Hamish
+organisations:
+- Aura
+- Gemini
+- Google News
+- Google Play Store
+- Hamish
+- IFA
+- TechRadar
+- Xreal
 ---
 
 ![Hamish wearing the Xreal Aura glasses](https://cdn.mos.cms.futurecdn.net/JZTUbG9xrw6xjPGDC2eAaU.png) 

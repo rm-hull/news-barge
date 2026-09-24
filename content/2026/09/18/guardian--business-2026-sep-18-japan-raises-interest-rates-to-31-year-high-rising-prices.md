@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Asia
+- Iran
+- Japan
+- Middle East
+- Saudi Arabia
+- UK
+- US
+- Yemen
+people:
+- Fred Neumann
+- Kazuo Ueda
+- Prashant Newnaha
+- Scott Bessent
+organisations:
+- Bank of England
+- Bank of Japan
+- BoJ
+- European Central Bank
+- HSBC
+- Reuters
+- TD Securities
+- US Federal Reserve
+- US Treasury
 ---
 
 Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.

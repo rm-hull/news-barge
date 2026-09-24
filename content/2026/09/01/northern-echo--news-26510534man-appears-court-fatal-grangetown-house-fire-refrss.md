@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Royal Victoria Infirmary
+- Spennymoor
+- Teesside Crown Court
+- Teesside Magistrates’ Court
+people:
+- '** Man'
+- Jaden Wright
+- Katie Nicolson
+- Katie Smith
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- CPS North East
+- Cleveland Police
+- Northumbria Police
 ---
 
 A man has appeared in court charged with murder after a tragic house fire that killed a seven-year-old girl and her aunt.

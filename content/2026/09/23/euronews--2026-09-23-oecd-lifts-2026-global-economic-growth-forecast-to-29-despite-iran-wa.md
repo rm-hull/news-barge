@@ -15,6 +15,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://images.euronews.com/articles/stories/09/92/48/75/1200x675_cmsv2_c03ca012-4da2-52a9-bb60-25789e00296b-9924875.jpg
+locations:
+- Berlin
+- China
+- Duesseldorf
+- Europe
+- France
+- Germany
+- Gulf
+- Iran
+- Israel
+- Italy
+- Japan
+- Middle East
+- Spain
+- US
+people:
+- Christine Lagarde
+- Joachim Nagel
+organisations:
+- AI
+- Deutsche Bundesbank
+- ECB
+- EU
+- OECD
 ---
 
 ## The OECD has nudged up its forecast for global growth this year to 2.9%, saying the world economy has absorbed the energy shock from the Iran war better than expected, but it warned that persistent inflation, rising bond yields and the risk of a longer conflict continue to cloud the outlook.

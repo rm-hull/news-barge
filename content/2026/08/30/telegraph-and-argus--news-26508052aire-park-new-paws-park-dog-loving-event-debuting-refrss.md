@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Aire Park
+- UK
+people:
+- Paws
+organisations:
+- Best Family
+- Best Trickster
+- Cutest Puppy
+- Dogs Trust
+- Loveliest Lady
+- Real Markets
+- UGC
 ---
 
 *(Image: UGC)*

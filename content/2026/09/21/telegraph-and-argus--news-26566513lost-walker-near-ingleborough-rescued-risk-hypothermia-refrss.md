@@ -12,6 +12,17 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479131.jpg?type=og-image&xType=0&yType=724
+locations:
+- Clapham
+- Ingleborough
+- Yorkshire Dales
+- Yorkshire Three Peaks
+people:
+- Nick Pot
+organisations:
+- Cave Rescue
+- Cave Rescue Organisation
+- Yorkshire Ambulance Service
 ---
 
 *(Image: CRO)*

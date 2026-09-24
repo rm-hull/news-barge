@@ -14,6 +14,33 @@ categories:
 - UK
 - Society & Culture
 - Technology & Software
+locations:
+- Ashe County
+- Gastonia
+- Jefferson
+- Mountain View
+- New York
+- North Carolina
+- Tar Heel State
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+- Helene
+- Melania Trump
+- Michael Whatley
+- Roy Cooper
+- ___ Colvin
+organisations:
+- AI
+- Congress
+- Jetson Nano Developer Kits
+- Melania Trump!
+- Mountain View Elementary
+- Mountain View Elementary School
+- Republican National Committee
+- Senate
 ---
 
 First lady Melania Trump visited an elementary school in northwestern North Carolina Tuesday, where she said the U.S. must lead on artificial intelligence as she spoke with elementary school students, teachers and staff about how they're using technology and AI in the classroom.

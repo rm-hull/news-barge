@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Ilkley Railway
+people:
+- Asquith
+- Desmond Longfellow
+- Helen
+- Peter Settle
+- Vernon
+- Winifred
+- Winnie
+organisations:
+- Rotary Club
+- UGC
 ---
 
 *(Image: UGC)*

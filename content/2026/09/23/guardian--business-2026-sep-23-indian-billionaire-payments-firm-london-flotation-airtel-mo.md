@@ -13,6 +13,34 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/0cb421007ba094b5dcf6229414bc0d79c7772fbc/473_554_4258_3408/master/4258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c7be2f2cee5d0c1d2fc453ecfb65ab
+locations:
+- Democratic Republic of Congo
+- Dubai
+- Iran
+- London
+- Middle East
+- New York
+- Paris
+- UK
+- Uganda
+- Zambia
+- sub-Saharan Africa
+people:
+- Ian Ferrao
+- Sunil Bharti Mittal
+- Wise
+organisations:
+- Airtel Africa
+- Airtel Money
+- Bharti Enterprises
+- Chimetech Holding
+- City
+- IPO
+- London Stock Exchange
+- Mastercard
+- Qatar Investment Authority
+- TPG
+- Wise
 ---
 
 A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange.

@@ -12,6 +12,50 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/24/98/1200x675_cmsv2_2bb03741-c6db-5a41-9aa4-e96bd3c088bc-9922498.jpg
+locations:
+- Bab el-Mandeb
+- Canada
+- East-West Pipeline
+- France
+- Germany
+- Iran
+- Iraq
+- Italy
+- Japan
+- Mokha
+- Pakistan
+- Persian Gulf
+- Red Sea
+- Riyadh
+- Sana'a
+- Saudi Arabia
+- Strait of Hormuz
+- Syria
+- Tehran
+- Turkey
+- UK
+- US
+- Yanbu
+- Yemen
+people:
+- '## Houthi'
+- Abdulmalik
+- Alimi
+- Andy Burnham
+- Ansar Allah
+- Badreddin al-Houthi
+- Donald Trump
+- Hussein
+- Mohammed bin Salman
+- Rashad al-Alimi
+organisations:
+- AFP
+- Aramco
+- Fox News
+- G7
+- SABA
+- The Houthi
+- UN Security Council
 ---
 
 ## The Houthis staged an offensive in recent weeks to take over Yemen's entire Red Sea coast, threatening global trade and pushing up energy prices up.

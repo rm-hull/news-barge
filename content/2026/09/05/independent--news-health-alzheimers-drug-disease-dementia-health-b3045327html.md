@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Europe
+- UK
+people:
+- Alzheimer
+- Ramin Nilforooshan
+organisations:
+- Alzheimer’s Society
+- BBC
+- Roche
+- Surrey and Borders Partnership NHS Foundation Trust
+- The Telegraph
+- Trontinemab
 ---
 
 An Alzheimer’s drug will be offered to people without symptoms who are at high risk of the disease in an NHS trial that is unique in Europe.

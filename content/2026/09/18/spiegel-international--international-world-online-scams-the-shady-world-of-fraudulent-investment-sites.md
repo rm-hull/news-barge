@@ -16,6 +16,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Bamberg
+- Bulgaria
+- Germany
+- Israel
+- Ramat Gan
+- Serbia
+- Shay Benhamou
+- Ukraine
+people:
+- Marian Lenhard
+- Shay Benhamou
+organisations:
+- DER SPIEGEL
+- DER SPIEGEL Bamberg Regional Court
+- Substack
+- World Wide Web
 ---
 
 ![Defendant Shay Benhamou in court. Defendant Shay Benhamou in court.](https://cdn.prod.www.spiegel.de/images/27fdd270-2340-4251-868d-86a5444af304_w960_r1.5_fpx62_fpy47.jpg) 

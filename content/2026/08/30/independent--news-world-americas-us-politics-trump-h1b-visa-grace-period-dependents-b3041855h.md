@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- China
+- India
+- Silicon Valley
+- U.S.
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- Elon Musk
+- Howard Lutnick
+- JD Vance
+- MAGA
+- Vivek Ramaswamy
+- Vivek Wadhwa
+organisations:
+- Big Tech
+- Bloomberg Law
+- Commerce
+- DOGE
+- H-1B
+- Office of Information and Regulatory Affairs
+- Trump
 ---
 
 Donald Trump’s administration is pursuing major changes to the H-1B visa program, which allows immigrants with specialized skills to legally work in the U.S.

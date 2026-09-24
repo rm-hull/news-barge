@@ -14,6 +14,38 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Canary Wharf
+- Centre Square
+- Darlington
+- Europe
+- Gresham
+- Gurney House
+- James Cook University Hospital
+- London
+- MIDDLESBROUGH
+- Middlehaven
+- YOUR
+people:
+- Chris Cooke
+organisations:
+- AV Dawson and Behaviour UK
+- Academic Centre of Excellence for Surgery
+- Cleveland Police
+- Executive
+- James Cook University Hospital
+- MIDDLESBROUGH COUNCIL
+- Middlesbrough College
+- Middlesbrough Football Club
+- NHS
+- North East Chamber of Commerce
+- Public Notice Portal
+- Public Notice Portal Middlesbrough Council
+- Tees Valley Combined Authority
+- Teesside University
+- The Hunger Games on Stage
+- Troubadour Theatre
 ---
 
 ### What is the Public Notice Portal?

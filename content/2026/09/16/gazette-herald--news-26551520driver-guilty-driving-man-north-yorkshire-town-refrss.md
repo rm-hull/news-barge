@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Charlotte
+- Johnson Street
+- Selby
+people:
+- Anne Richardson
+- Danny Charlotte
+- Lucy Brown
+- Ms Richardson
+- Tim Clayson
+organisations:
+- York Crown Court
 ---
 
 *(Image: NQ)*

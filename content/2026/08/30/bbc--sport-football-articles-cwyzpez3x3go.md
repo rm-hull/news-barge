@@ -14,6 +14,54 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Bournemouth
+- Brighton
+- Chelsea
+- Fulham
+- Spain
+- Stamford Bridge
+- Strasbourg
+people:
+- Alonso Alonso
+- Ben Roberts
+- Cole Palmer
+- Djordje Petrovic
+- Emiliano Martinez
+- Enzo Fernandez
+- Filip Jorgensen
+- Joao Pedro
+- John Terry
+- Jordan Henderson
+- Lamine Camara
+- Levi Colwill
+- Malo Gusto
+- Maxence Lacroix
+- Moises Caicedo
+- Petr Cech
+- Robert Sanchez
+- Romeo Lavia
+- Shay Given
+- Valentin Barco
+- Wesley Fofana
+- Will Martinez
+- Xabi Alonso
+organisations:
+- Arsenal
+- Aston Villa
+- BBC Sport
+- Bayer Leverkusen
+- Blues
+- Brighton
+- Chelsea
+- Europa League
+- Fifa
+- Manchester City
+- Monaco
+- Premier League
+- Real Madrid
+- Sky Sports
 ---
 
 Chelsea maintain perfect start with seven-goal thriller

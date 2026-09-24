@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Technology & Software
 - Travel
+locations:
+- Bang-lang
+- Bosnia and Herzegovina
+- China
+- Etau
+- Europe
+- Hawaii
+- Pacific
+- Philippines
+- South Korea
+- Tarlac
+- Thailand
+- Yellow Sea
+people:
+- Han Seong-sook
+- Karina
+organisations: []
 ---
 
 South Korea’s prime minister, Han Seong-sook, met officials to prepare for heavy rain expected this week, with rainfall totals across central and northern parts of the country forecast to exceed 200mm in some areas.

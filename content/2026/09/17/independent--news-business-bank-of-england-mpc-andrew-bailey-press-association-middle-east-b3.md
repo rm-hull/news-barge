@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andrew Bailey
+- Catherine Mann
+- Huw Pill
+- Megan Greene
+organisations:
+- Bank of England
+- Government
+- MPC
+- Ofgem
+- Press Association
 ---
 
 The Bank of England has kept interest rates unchanged at 3.75% in its latest decision on monetary policy.

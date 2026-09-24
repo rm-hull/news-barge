@@ -11,6 +11,24 @@ description: The IKEA Badkruka Bluetooth speaker brings with it easy Spotify int
 image: https://cdn.mos.cms.futurecdn.net/deAyZrULULimsM6V86sCYS-1600-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- England
+- Stockport
+- UK
+- US
+people:
+- Dave
+- David Nield
+organisations:
+- Badkruka
+- Gizmodo
+- Google News
+- IKEA
+- Notebookcheck
+- PC Explorer
+- Spotify
+- The Hardware Handbook
 ---
 
 ![IKEA Badkruka](https://cdn.mos.cms.futurecdn.net/deAyZrULULimsM6V86sCYS.jpg) 

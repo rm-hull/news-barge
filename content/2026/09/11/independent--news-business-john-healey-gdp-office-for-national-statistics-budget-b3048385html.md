@@ -13,6 +13,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Iran
+- UK
+people:
+- John Healey
+- Liz McKeown
+- Suren Thiru
+- Yael Selfin
+organisations:
+- AI
+- Betty Laura Zapata
+- ICAEW
+- Institute of Chartered Accountants England and Wales
+- KPMG
+- ONS
+- Office for National Statistics
+- Ofgem
 ---
 
 The UK economy unexpectedly grew by 0.4% in July following a boost from the services industry and businesses increasing the use of AI, official figures show.

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Andy Burnham
+- Nigel Farage
+organisations:
+- Centre for Climate Reporting
+- Channel 4 News
+- ECHR
+- European Convention of Human Rights
+- House of Lords
+- Houses of Parliament.
+- Labour
+- Reform UK
+- Verbatim Investigations
 ---
 
 ![Nigel Farage holds up his hands as he gives his conference speech from behind a podium with Reform UK's logo.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0932/live/294cfdd0-a88e-11f1-96fc-dd627484b0e6.jpg)

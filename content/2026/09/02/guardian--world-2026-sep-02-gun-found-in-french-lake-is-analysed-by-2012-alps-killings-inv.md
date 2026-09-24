@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chevaline
+- France
+- French Alps
+- Lake Annecy
+- Saint-Jorioz
+- UK
+- al-Hilli
+people:
+- Ikbal
+- Luger
+- Marie-Céline Lawrysz
+- Mr S
+- Saad al-Hilli
+- Suhaila al-Allaf
+- Sylvain Mollier
+- Zaid
+organisations:
+- BMW
 ---
 
 Experts are examining a gun found by tourists to determine whether it might have been used to kill a British family in the French Alps 14 years ago.

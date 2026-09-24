@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- Born
+- Cairo
+- Europe
+- Italy
+- Lower House
+- Milan
+- Piedmont
+- Rome
+- Rwanda
+- Sudan
+- Turin
+- Vatican
+- Yugoslavia
+people:
+- Bra
+- Domenica
+- Emma Bonino
+- Francis
+- Giovanni
+- Lista Bonino
+- Silvio Berlusconi
+organisations:
+- Bocconi University
+- Catholic Church
+- EU
+- Europa
+- European Commission
+- European Commission Humanitarian Office
+- Fiat
+- Foreign Press Association
+- Hands Off Cain
+- Information Center for Sterilization and Abortion
+- More Europe
+- Radical Party
+- Radio Radicale
+- Vanity Fair
 ---
 
 Emma Bonino, who rose to prominence as a leader of campaigns by the Radical Party that legalized abortion and divorce in the 1970s in heavily Roman Catholic Italy, has died.

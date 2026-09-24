@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/sPryJSddm7TU28E7nmCKqW-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Agnez Mo
+- Alan Ritchson
+- George Cooper Sr.
+- Lila
+- Reacher
+organisations:
+- CIA
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Reacher looks at someone across a table](https://cdn.mos.cms.futurecdn.net/sPryJSddm7TU28E7nmCKqW.jpg) 

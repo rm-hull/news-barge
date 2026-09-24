@@ -15,6 +15,26 @@ categories:
 - UK
 - Sports
 - Music
+locations:
+- Atlanta
+- Beverly Center
+- Chicago
+- Los Angeles
+- U.S.
+people:
+- Banks'
+- Banks’
+- Daniel Weiner
+- Dayvon "King Von" Bennett
+- Durk Banks
+- Kavon Grant
+- Lil Durk
+- Quando Rondo
+- Saviay'a Robinson
+- Tyquian Bowman
+organisations:
+- Banks
+- Miami International Airport
 ---
 
 Closing arguments are expected today in the federal trial of Grammy-winning rapper Lil Durk, who is accused of orchestrating a targeted 2022 murder-for-hire that left a rival’s cousin dead in broad daylight near the Beverly Center.

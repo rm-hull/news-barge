@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Massachusetts
+- Plymouth County
+- UK
+- US
+- White House
+people:
+- '![Clancy'
+- Callan
+- Cora
+- Dawson
+- Donald Trump
+- Kevin Reddington
+- Lindsay Clancy
+- Sullivan
+- Timothy Cruz
+organisations:
+- Befrienders Worldwide
+- Massachusetts Supreme Judicial Court
 ---
 
 Inside court as judge declares a mistrial in Lindsay Clancy case

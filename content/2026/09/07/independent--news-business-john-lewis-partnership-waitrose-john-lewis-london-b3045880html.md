@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- John Lewis
+- London
+- PA
+- Waitrose
+people:
+- Helen Webb
+- John Lewis
+- Ms Webb
+organisations:
+- Financial Times
+- JLP
+- John Lewis
+- John Lewis Partnership
+- Neets
+- Waitrose
+- Yui Mok
 ---
 
 The John Lewis Partnership (JLP) has said it is offering thousands of jobs to young workers as part of this year’s Christmas hiring drive.

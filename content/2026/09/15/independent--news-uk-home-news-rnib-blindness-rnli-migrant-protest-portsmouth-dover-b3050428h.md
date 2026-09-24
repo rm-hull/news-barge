@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Dover
+- Eastney
+- France
+- Hampshire
+- Marriott
+- Portsmouth Lifeboats Station
+- UK
+people:
+- Lisa Nandy
+- Peter Sparkes
+organisations:
+- English Channel
+- Facebook
+- RNIB
+- RNLI
+- Royal National Institute of Blind People
+- Royal National Lifeboat Institution
+- Sussex Police
+- The Independent
 ---
 
 Anti-immigrant protesters have been directing abuse at the UK’s leading blind people’s charity, accusing it of helping small boat migrants after mistaking it for RNLI.

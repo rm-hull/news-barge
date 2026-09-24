@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Harrogate
+- North Yorkshire
+people:
+- Roksana Matwijiszyn
+organisations:
+- Coroner’s Office
+- North Yorkshire Police
 ---
 
 *(Image: Archive)*

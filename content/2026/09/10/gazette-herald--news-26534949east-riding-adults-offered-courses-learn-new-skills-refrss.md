@@ -14,6 +14,17 @@ categories:
 - York
 - Education & Learning
 - Careers & Productivity
+locations:
+- Beverley
+- Bridlington
+- Cottingham
+- Goole
+people:
+- Anne Handley
+- Rebecca Gorman
+organisations:
+- Adult Learning and Employability Service
+- East Riding of Yorkshire Council
 ---
 
 Adults are being encouraged to brush up on their skills and take steps towards new opportunities.

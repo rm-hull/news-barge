@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- York
+people: []
+organisations:
+- '#### Tesco'
+- Askham Bar
+- CCTV
+- North Yorkshire Police
+- Via
 ---
 
 Do you recognise this man?

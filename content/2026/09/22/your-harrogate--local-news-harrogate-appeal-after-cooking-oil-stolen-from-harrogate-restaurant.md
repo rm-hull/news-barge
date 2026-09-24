@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Food & Cooking
 image: https://mmo.aiircdn.com/409/6ab248cec2a9b31bf0a.jpg
+locations:
+- Harrogate
+- Kings Road
+- Lilypad
+- North Yorkshire
+people:
+- Simms
+organisations:
+- Crimestoppers
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab248cec2a9b31bf0a.jpg)

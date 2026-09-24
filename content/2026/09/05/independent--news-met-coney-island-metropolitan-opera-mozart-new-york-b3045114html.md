@@ -14,6 +14,21 @@ categories:
 - UK
 - Arts & Culture
 - Music
+locations:
+- Columbia
+- Coney Island
+- New York
+- South Carolina
+people:
+- Carmen
+- Nala
+- Nancy Novograd
+- Wolfgang Amadeus Mozart
+- Zoe Ziegfeld
+- ___ Collins
+organisations:
+- All Tame Animals
+- Metropolitan Opera
 ---
 
 Pretty much everyone on stage at the Metropolitan Opera in New York must audition — even the snake who will briefly take center stage in an upcoming adaptation of a Mozart classic.

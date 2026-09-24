@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/GVjXYo2gvnKFBh7bqCC6ie-1920-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations:
+- Amazon
+- Hammond
+- Malaysia
+- TikTok
+- Virgin River
+people:
+- Francis Bourgeois
+- George Cooper Sr.
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Amazon
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Prime Video
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ### TechRadar Verdict

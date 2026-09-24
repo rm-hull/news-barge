@@ -13,6 +13,16 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Alex's Place
+- Great North Run
+- Makerfield
+- Newcastle
+people:
+- Alex’s Place
+- Andy Burnham
+organisations:
+- Changing Lives
 ---
 
 Andy Burnham is running the Great North Run today as he hands over his first salary donation as PM to a homelessness charity.

@@ -12,6 +12,20 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/23/15/58/AP26254855286343.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Jackson
+- Kentucky
+- Mississippi
+people:
+- Black
+- Christy Spivey
+- Earnest Lloyd Jr.
+- Jackson
+- Jarques Ratliff
+- RaShall Brackney
+- Tasia Fortune
+organisations:
+- NAACP
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

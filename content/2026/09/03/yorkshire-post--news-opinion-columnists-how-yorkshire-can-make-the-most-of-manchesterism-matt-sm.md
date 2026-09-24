@@ -16,6 +16,28 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Doncaster
+- Greater Manchester
+- Leeds
+- Manchesterism’
+- Pennines
+- Sheffield
+- South Yorkshire
+- Wheatley
+people:
+- Andy Burnham
+- Matt Smith
+- Oliver Coppard
+- Tracy Brabin
+organisations:
+- Annabel Lee-Ellis
+- Food Works
+- Higher Rhythm
+- Key Fund
+- Manchester –
+- Metro
+- Yorkshire
 ---
 
 # How Yorkshire can make the most of ‘Manchesterism’ - Matt Smith

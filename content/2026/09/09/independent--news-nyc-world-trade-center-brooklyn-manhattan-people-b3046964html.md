@@ -15,6 +15,24 @@ categories:
 - UK
 - Sports
 - Society & Culture
+locations:
+- Argano
+- Brooklyn
+- France
+- Manhattan
+- New York City
+- Ten House
+people:
+- Philip Marcelo
+- Robert Favata
+- Sal Argano
+- Terence Brody
+organisations:
+- FDNY
+- Hallmark Channel
+- Ladder 10
+- Ten House
+- World Trade Center
 ---
 
 Sal Argano got lucky. When the World Trade Center was struck by hijacked jets on Sept. 11, 2001, the New York City firefighter was in Brooklyn, on loan to another station, rather than at his usual post at the small Manhattan firehouse just across an intersection from the twin towers.

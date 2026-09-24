@@ -14,6 +14,28 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Absheron
+- Azerbaijan
+- Baku
+- Brazil
+- Gabala
+- Qatar
+- Sengstschmid
+- Shaki
+people:
+- Florian Sengstschmid
+organisations:
+- '## Baku'
+- ASAN
+- Azerbaijan Tourism Board
+- Baku City Circuit Operations Company
+- Euronews
+- F1
+- FIA
+- Formula 1
+- Formula One Management Limited
+- Hayya Card
 ---
 
 ## Baku has implemented a simplified visa entry procedure for international visitors planning to attend the Formula 1 Azerbaijan Grand Prix. From 25 August to 30 September, eligible travellers can obtain a visa on arrival at the country’s international airports.

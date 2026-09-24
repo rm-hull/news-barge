@@ -12,6 +12,19 @@ description: A new investigation says that LG TVs collect and transmit much more
 image: https://cdn.mos.cms.futurecdn.net/8HqDvagUjgANoPaHeS5Syf-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- US
+people:
+- BirnirG
+- Carrie Marshall
+- Redditor
+organisations:
+- Gamers Nexus
+- Google News
+- LG TV
+- LG TVs
+- LG TVs'
+- Unquiet Mind
 ---
 
 ![LG C6 (left) and LG G5 (right) with a shot of an owl on screen. Both TVs deliver the shot with real precision and authenticity.](https://cdn.mos.cms.futurecdn.net/8HqDvagUjgANoPaHeS5Syf.jpg) 

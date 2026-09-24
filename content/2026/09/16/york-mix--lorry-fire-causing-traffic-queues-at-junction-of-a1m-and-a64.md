@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- M
+- Tadcaster
+- Wetherby
+- York
+people: []
+organisations:
+- A1M
+- A64
+- AA
 ---
 
 There are rush hour problems at a major road junction near York this morning (Wednesday).

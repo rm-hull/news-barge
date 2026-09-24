@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+people:
+- Bashir
+organisations:
+- BMWs
+- Instagram
+- Lamborghini
+- Lamborghinis
+- Leeds Trinity University
+- Mercedes
+- Porsches
+- Professional Muslim Institute
+- Range Rovers
 ---
 
 *(Image: Pixabay)*

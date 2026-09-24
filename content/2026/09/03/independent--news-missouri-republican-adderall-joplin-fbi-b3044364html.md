@@ -12,6 +12,19 @@ image: https://static.independent.co.uk/2026/09/03/18/Missouri_Candidate_Drug_Ch
 categories:
 - News & Politics
 - UK
+locations:
+- Joplin
+- Missouri House
+- U.S.
+people:
+- Adderall
+- Louise Secker
+- Peter Kinder
+- R. Matthew Price
+- Thomas Ross
+organisations:
+- FBI
+- Republican Party
 ---
 
 A candidate for the Missouri House made an initial court appearance Thursday on a federal drug charge accusing him of trying to plant cocaine and Adderall on his Republican primary opponent.

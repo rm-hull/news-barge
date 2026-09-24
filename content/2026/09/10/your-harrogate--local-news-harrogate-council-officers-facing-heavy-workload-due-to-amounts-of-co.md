@@ -14,6 +14,13 @@ categories:
 - Harrogate
 - Careers & Productivity
 - News & Politics
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Independent Persons
+- North Yorkshire Council
+- Somerset
 ---
 
 ![](https://mmo.aiircdn.com/409/6a30094c3dfd7358fff.jpg) 

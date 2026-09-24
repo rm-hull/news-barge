@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Video Gaming
 - Sports
+locations:
+- Northamptonshire
+- Silverstone
+people:
+- Jacky Martens
+- Lewis Osler
+- Max Verstappen
+- YouTuber Zac Alsop
+organisations:
+- Dutch F1
+- Formula 1
+- Red Bull
 ---
 
 ![Red Bull's Max Verstappen in his go-kart at Silverstone](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg)

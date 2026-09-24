@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620489344.jpg@webp
+locations:
+- Berlin
+- BerlinWhen
+- Germany
+- Kenya
+- Tempelhofer Feld
+- Treptow-Köpenick
+people:
+- Alexander Bertram
+- Die Linke
+- Franziska Giffey
+- Stefan Evers
+- Steffen Krach
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
+- CDU-Greens-SPD
+- Green
+- Greens
+- Left Party
+- Left-Greens-SPD
+- SPD
+- Senate
 ---
 
 Berlin's voters have upended the city's political landscape. The Left Party (*Die Linke*) emerged as the clear winner with 25.7 percent of the vote, more than doubling its support since the 2023 repeat election.

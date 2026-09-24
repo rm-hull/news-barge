@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Kai
+- London
+- UK
+people:
+- Anna Cuskin
+- Kai
+- Lisa Doyle
+- Michael
+organisations:
+- Bank’s Contact Centre
+- Bank’s Social Impact Lead
+- Brick
+- Centrepoint
+- Government
+- HMO
+- Head of Policy and Public Affairs
+- House In Multiple Occupation
+- Nationwide Building Society
+- The Co-operative Bank
 ---
 
 *(Image: Centrepoint)*

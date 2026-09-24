@@ -12,6 +12,20 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21481907.jpg?type=og-image
+locations:
+- '## North Yorkshire'
+- North Yorkshire
+- Sandsend
+- The Parade
+- Whitby
+people:
+- Graham Wilson
+organisations:
+- Barry Crux & Company
+- Beach Hotel
+- Facebook
+- Rightmove
+- The Beach Hotel
 ---
 
 ## North Yorkshire seafront hotel owned by one family since 1960s up for sale

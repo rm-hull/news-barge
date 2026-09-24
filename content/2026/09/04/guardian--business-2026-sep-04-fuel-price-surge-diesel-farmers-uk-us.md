@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Gloucestershire
+- Gulf
+- Hormuz
+- Iran
+- Middle East
+- Russia
+- Tehran
+- UK
+- US
+- Ukraine
+people:
+- Alex Harrison
+- Donald Trump
+organisations:
+- American Automobile Association
+- Fram Farmers
 ---
 
 Farmers are facing an “astronomical” jump in the price of fuel needed to operate their vehicles and machinery after a surge in diesel costs in the UK and the US.

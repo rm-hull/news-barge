@@ -13,6 +13,25 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/23/16/Congo_Ebola_39436.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Congo
+- Ebola
+- Guinea
+- Haut-Uele
+- Ituri
+- Liberia
+- North Kivu
+- Sierra Leone
+- WHO
+people:
+- Anne Ancia
+- Catherine Smallwood
+- Marie Roseline Belizaire
+- Roger Kamba
+organisations:
+- WHO Ebola Incident
+- World Health Organization
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

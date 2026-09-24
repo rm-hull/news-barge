@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Downing Street
+- UK
+people:
+- Alzheimer
+- Baroness Casey
+- Dame Meera Syal
+- Jon Snow
+- Jonathan Pryce
+- Michelle Dyson
+- Suranne Jones
+- Vicky McClure
+organisations:
+- Alzheimer’s Society
+- Department of Health and Social Care
+- Government
 ---
 
 Campaigners including broadcaster Jon Snow, who has dementia, are calling for a "bold and ambitious" strategy for quicker access to accurate diagnosis, as research shows patients face months of delays.

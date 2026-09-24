@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Australia
+- Bali
+- Denpasar
+- Fremantle
+- Indonesia
+- Jakarta
+- Kuta
+- Sanglah Hospital
+- UK
+- USA
+people:
+- Damien John Shaw
+- I Gede Adi Saputra Jaya
+- Roger Cook
+organisations:
+- CCTV
+- DFAT
+- Department of Foreign Affairs and Trade
+- Kuta Police
+- National Suicide Prevention Helpline
+- Samaritans
+- Western Australia
 ---
 
 An Australian man and his two children were found dead inside their bungalow at a popular tourist area in Indonesia’s Bali, police said.

@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/YJJwMJ5AfxT598CYFj6Jhg-2000-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Annalee Hartling
+- Dan Hay
+organisations:
+- BlizzCon
+- Blizzard Entertainment
+- CGI
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- RTS
+- StarCraft
+- TechRadar Gaming
 ---
 
 ![StarCraft](https://cdn.mos.cms.futurecdn.net/YJJwMJ5AfxT598CYFj6Jhg.jpg) 

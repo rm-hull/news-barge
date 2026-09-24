@@ -12,6 +12,12 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://mmo.aiircdn.com/409/6ab133032c8a6b01a2f.jpg
+locations:
+- North Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab133032c8a6b01a2f.jpg)

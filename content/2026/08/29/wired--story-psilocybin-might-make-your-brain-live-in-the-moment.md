@@ -13,6 +13,16 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Australia
+- Melbourne
+- Monash
+people:
+- Adeel Razi
+- Devon Stoliker
+organisations:
+- Monash University
+- School of Psychological Sciences
 ---
 
 Under the influence of psychedelics, the usual organization of the human brain loosens. That's what scientists have generally thought, with several studies showing that when we take these substances, the signals pinging between our neurons become more diverse and unpredictable. This increased entropy in our gray matter may underlie the strange, random, and often memorable experiences of psychedelic trips.

@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Video Gaming
+locations:
+- Darlington
+- Grangetown
+- Middlesbrough
+- Yarm
+people:
+- Colin
+- John Vickers
+- Lizzie Pringle
+organisations:
+- Grangetown Primary School
+- OPAL Honours School
+- Outdoor Play and Learning
 ---
 
 A Middlesbrough primary school has been named among the country’s best for outdoor play, with a playground where children can build, explore and imagine.

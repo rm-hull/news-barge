@@ -14,6 +14,32 @@ categories:
 - Science
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- Ireland
+- US
+people:
+- AI
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Elon Musk
+- Mike Johnson
+- Sam Altman
+- Satya Nadella
+organisations:
+- AI
+- Amodei
+- Anthropic
+- CNN
+- Chinese Communist Party
+- Congress
+- Council of Advisors on Science and Technology
+- Grok
+- House
+- Microsoft
+- OpenAI
 ---
 
 As calls for artificial intelligence regulation intensify, US President Donald Trump’s team have made it clear that if lab leaders want to implement an industry-wide slowdown, they’re going to have to do it themselves.

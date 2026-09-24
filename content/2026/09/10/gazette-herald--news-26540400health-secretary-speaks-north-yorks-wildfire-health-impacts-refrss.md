@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- England
+- Langdale Moor
+- North York Moors
+- North York Moors National Park
+- North Yorkshire
+- RAF Fylingdales
+- Scarborough
+- Site Of Langdale Moor Fire
+- Whitby
+people:
+- Alison Hume
+- Ms Cooper
+- Yvette Cooper
+organisations:
+- Government
+- House Of Commons
+- House of Commons
+- NHS
+- State for Health
+- Wildfires All-Party Parliamentary Group
 ---
 
 THE health secretary has said that the NHS has to be ready for extreme weather events after last year’s wildfires in the North York Moors.

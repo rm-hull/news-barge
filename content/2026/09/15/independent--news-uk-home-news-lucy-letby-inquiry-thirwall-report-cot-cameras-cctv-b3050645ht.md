@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Countess of Chester Hospital
+- NHS England
+people:
+- Justice Thirlwall
+- Lady Justice Thirlwall
+- Lucy Letby
+organisations:
+- CCTV
+- CQC
+- Care Quality Commission
+- DHSC
+- Department of Health and Social Care
+- Lady Justice Thirlwall
+- NHS England
+- Thirlwall Inquiry
 ---
 
 A total of 14 recommendations have been made in the Thirlwall Inquiry report, which looked at events at the Countess of Chester Hospital that led to former nurse Lucy Letby’s convictions for the murder of seven babies.

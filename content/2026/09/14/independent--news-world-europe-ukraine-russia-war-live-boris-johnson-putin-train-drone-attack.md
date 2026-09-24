@@ -11,6 +11,55 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Belgorod
+- Berlin
+- Delhi
+- Europe
+- Finland
+- Georgia
+- Germany
+- Iran
+- Krasnodar
+- Kyiv
+- Middle East
+- Moscow
+- Nato
+- Poland Poland
+- Rovaniemi
+- Russia
+- Santa Claus
+- Svalbard
+- UK
+- US
+- Ukraine
+- Ukraine-Poland
+- United States
+- Yahodyn
+people:
+- '## Xi'
+- Boris Johnson
+- Brics
+- Carl Bildt
+- Friedrich Merz
+- Ilona W
+- Mark Rutte
+- Mette Frederiksen
+- Narendra Modi
+- Radoslaw Sikorksi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Brics
+- European Union
+- ISW
+- Institute for the Study of War
+- Ministry of Defence
+- MoD
+- Nato
+- The Associated Press
+- Ukrzaliznytsia Railway Company Press Office
+- Yalta European Strategy
 ---
 
 Nearly all of Russia’s territorial gains this year have been wiped out, according to a new assessment by the Institute for the Study of War.

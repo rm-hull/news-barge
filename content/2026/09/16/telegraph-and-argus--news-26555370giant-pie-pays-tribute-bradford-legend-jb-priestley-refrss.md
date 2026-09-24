@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Britain
+- Kirkgate Centre
+- Priestley Perambulation
+people:
+- Glyn Watkins
+- Hitler
+- JB Priestley
+- Roberts
+organisations:
+- BBC
+- Napoleon’s Casino
 ---
 
 *(Image: Supplied)*

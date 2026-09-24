@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- East Asia
+- South Korea
+people:
+- Han Jun
+- Jowi Morales
+- Tom
+organisations:
+- Chosun Daily
+- Google News
+- Jowi Morales
+- KAIST
+- KAIST’s School of Computing
+- Korea Advanced Institute of Science and Technology
+- NUS
+- National University of Singapore
+- SMU
+- Singapore Management University
+- U.S. Air Force
 ---
 
 ![a hidden camera held by a person in front of some plants](https://cdn.mos.cms.futurecdn.net/HEocSqrV3wDVHcMjQC5oXm.png) 

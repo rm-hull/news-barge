@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Esplanade
+- Highlander Hotel
+- North Yorkshire
+- Scarborough
+- South Bay
+people:
+- Walker
+organisations:
+- Esplanade
+- Google Maps
+- Government
+- Highlander Hotel
+- North Yorkshire Council
+- Planning Inspectorate
+- Star Pubs
+- Star Pubs and Bars
 ---
 
 A POPULAR Grade II* listed hotel in North Yorkshire has lost an appeal after the council refused its retrospective redecoration works.

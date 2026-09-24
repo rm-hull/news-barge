@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- James Cook
+- North Tees
+- South Tees
+- Teesside
+people:
+- James Cook
+- Mark Dias
+- Rachael Metcalf
+- Stacey Hunter
+organisations:
+- BAME
+- Cleveland Police
+- James Cook University Hospital
+- North and South Tees NHS Foundation Trusts
+- University Hospitals Tees
 ---
 
 Health workers have been told they are not expected to carry on treating patients who are persistently racist.

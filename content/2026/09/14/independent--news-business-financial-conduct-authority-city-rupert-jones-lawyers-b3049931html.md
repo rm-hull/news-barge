@@ -13,6 +13,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- City
+- London
+- UK
+people:
+- Cathy Farquharson
+- Clare Sibson KC
+- Crispin Odey
+- Justice Thompsell
+- Rupert Jones
+- Therese Chambers
+organisations:
+- ExCo
+- FCA
+- Financial Conduct Authority
+- OAM
+- Odey Asset Management
+- Upper Tribunal
 ---
 
 Former hedge fund manager Crispin Odey “acted to save his own skin” during an investigation into sexual misconduct allegations against him and showed “arrogant entitlement”, the Financial Conduct Authority (FCA) has said.

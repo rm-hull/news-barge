@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Britain
+- Europe
+- London
+- York
+people:
+- '## Turner'
+- Angelica Kauffman
+- Flaxman Joseph Mallord William Turner
+- Jean-Auguste-Dominique Ingres
+- Josiah Wedgwood
+- William Blake
+- William Etty
+organisations:
+- Flaxman
+- JMW Turner
+- National Gallery
+- Polyphemus – Homer
+- Wedgwood & Beyond
+- York Art Gallery
 ---
 
 ## Turner masterpiece to headline new York Art Gallery exhibition inspired by Flaxman

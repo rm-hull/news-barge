@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21468344.jpg?type=og-image&xType=0&yType=27
+locations:
+- A66
+- County Durham
+- Cumbria
+- Darlington
+- Kirkby Stephen
+- Lancashire
+- North East
+- North Pennines
+- North Yorkshire
+- Sandwath Farm
+- Sandwath Miles
+- Upper Eden Valley
+- Yorkshire Dales
+people:
+- Jill Owen
+- Kirkby Stephen
+- Rob
+organisations:
+- Kirkby Stephen
+- Owen's Farm Shop & Café
+- Tripadvisor
 ---
 
 *(Image: GOOGLE)*

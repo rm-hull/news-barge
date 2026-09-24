@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thetelegraphandargus.co.uk/resources/images/17248016.jpg?type=og-image
+locations:
+- Bradford
+- Grass Hoppers
+- Otley
+- Tingley
+- Tong
+people: []
+organisations:
+- Grass Hoppers
+- Green Card
+- Newsquest
+- Tong Garden Centre
 ---
 
 *(Image: Newsquest)*

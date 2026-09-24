@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- England
+- North Yorkshire
+- North Yorkshire.
+people:
+- Simon Myers
+organisations:
+- North Yorkshire Council
 ---
 
 ![Aerial view of a residential area with housing estates, roads, trees and surrounding countryside in North Yorkshire.](https://ichef.bbci.co.uk/ace/standard/947/cpsprodpb/a65f/live/a2fefab0-ab87-11f1-83f1-8f6cbf03142e.jpg)

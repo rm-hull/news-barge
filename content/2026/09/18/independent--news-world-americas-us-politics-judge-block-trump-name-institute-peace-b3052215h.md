@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/18/0/20/GettyImages-2249832853.j
 categories:
 - News & Politics
 - UK
+locations:
+- Democratic Republic of Congo
+- Kennedy Center
+- Rwanda
+- Washington
+- Washington, D.C.
+people:
+- Christopher Cooper
+- Donald Trump
+- Elon Musk
+- Kyle Cheney
+- Marco Rubio
+organisations:
+- Congress
+- Donald J. Trump Institute of Peace
+- Institute of Peace
+- John F. Kennedy Center for the Performing Arts
+- Kennedy Center
+- Pew Research Center
+- Politico
+- State Department
+- U.S. District Court
+- U.S. Institute of Peace
+- USIP
 ---
 
 A federal judge has been asked to prevent President Donald Trump from carving his name on yet another historic building in Washington, D.C.

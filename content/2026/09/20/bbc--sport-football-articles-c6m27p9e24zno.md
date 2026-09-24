@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e586/live/33ea4fc0-b524-11f1-b1e2-034207760e32.png
+locations:
+- Argentina
+people:
+- Atleti
+- Cristian Romero
+- Dean Huijsen
+- Diego Simeone
+- Fede Valverde
+- Hansi] Flick
+- Jose Mourinho
+- Jude Bellingham
+- Lee Kang-in
+- Manuel] Pellegrini
+- Mourinho Mourinho
+organisations:
+- Atletico Madrid
+- Barcelona
+- La Liga
+- Real Betis
+- Real Madrid
+- Simeone Atletico
+- VAR
 ---
 
 ![Jose Mourinho](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/e586/live/33ea4fc0-b524-11f1-b1e2-034207760e32.png)

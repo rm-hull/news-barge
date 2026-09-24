@@ -12,6 +12,21 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21425022.jpg?type=og-image
+locations:
+- Flamingo Land
+- Grade II
+- Kirby Misperton
+- St Laurence’s Church
+- Whitby
+people:
+- Barry Hill
+- Graham Cray
+- Stockill
+organisations:
+- National Heritage Lottery Fund
+- St Laurence’s Church
+- York and North Yorkshire Combined Authority Capital Projects and Delivery Fund
+- Yorkshire Historic Churches Trust
 ---
 
 A historic church has been modernised to better serve its community.

@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- BRADFORD
+- Bene Leisure Centre
+- Bradford
+- Little Horton Lane
+- Shipley
+- UK
+- Wakefield
+- West Yorkshire
+people:
+- '## Padel'
+- Bene
+- Emma Hyndman
+- Mazn Ahamed
+- Osama Malik
+organisations:
+- '## Gym'
+- Alpha Gym
+- Bene Leisure Centre
+- Bradford
+- Era Pilates
 ---
 
 *(Image: T&A)*

@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Hartlepool
+- St Joseph
+people:
+- Blades'
+- Clough
+- Dad
+- Heartbroken
+- Matt
+- Matthew Blades
+- PC Blades
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- PC Blade
+- PC Blades
+- PCs Blades
+- Roman Catholic Church
 ---
 
 The family of a police officer tragically killed in the horror A66 crash has issued a heartfelt message thanking the public and emergency services for their support.

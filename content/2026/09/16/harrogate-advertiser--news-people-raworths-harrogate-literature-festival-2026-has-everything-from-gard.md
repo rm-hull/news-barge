@@ -14,6 +14,28 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjEzNTM1Mzc4LTA0ZTctNDg3Yy1iMjk2LTU3YTE3NGE4NzhkNTpiZjJlYzZmNS1lZDYwLTRiOTktYWIxZC0zODhiMTI0Mzk5ZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+people:
+- Dame Prue Leith
+- David Lascelles
+- Gottlob Berger
+- John Sergeant
+- Kate Mosse
+- Prue Leith
+- Rachel Tunnicliffe
+- Samira Ahmed
+- Sharon Canavar
+- Sophie Raworth
+organisations:
+- Box Office
+- Cedar Court Hotel
+- Crown Hotel
+- Harrogate International Festivals
+- POW
+- Raworths Solicitors
+- The Beatles
+- Yorkshire Life Literary Lunch
 ---
 
 # Raworths Harrogate Literature Festival 2026 has everything from gardens to The Beatles, Dame Prue Leith to Kate Mosse

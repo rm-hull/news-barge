@@ -12,6 +12,14 @@ categories:
 - Science
 - Film & TV
 image: https://media.wired.com/photos/6ab173fd5108d82b5616e21d/191:100/w_1280,c_limit/GoPro%20Mission%201%20ILS%2001%20Source%20Scott%20Gilbertson.jpg
+locations: []
+people:
+- Abe Kislevitz
+- Laowa
+organisations:
+- GoPro
+- Panasonic
+- Sony
 ---
 
 For example, GoPro sent a Laowa 7.5-mm lens for me to test with. When HyperSmooth is on, that's the equivalent of shooting with a 23-mm lens on a full-frame camera. With HyperSmooth off, it becomes a 20-mm lens. I bring this up mainly because if you want to go really wide on the ILS, you'll need a very, very wide lens (fisheye lenses are probably your best bet).

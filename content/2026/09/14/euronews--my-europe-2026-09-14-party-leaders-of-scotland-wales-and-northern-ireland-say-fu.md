@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Britain
+- Cardiff
+- London
+- Northern Ireland
+- Scotland
+- UK
+- United Kingdom
+- Wales
+- Westminster
+people:
+- John Swinney
+- Mary Lou McDonald
+- Michelle O’Neill
+- Wales’ Rhun ap Iorwerth
+organisations:
+- Ap Iorwerth
+- European Union
+- Labour
+- Party of Wales
+- Plaid Cymru
+- SNP
+- Scottish National Party
+- Sinn Féin
 ---
 
 ## The main parties from each nation want to break away from the UK but have different positions on how and when this might take place.

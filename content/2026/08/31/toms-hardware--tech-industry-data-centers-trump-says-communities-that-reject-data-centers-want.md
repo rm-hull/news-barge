@@ -14,6 +14,35 @@ categories:
 - Technology & Software
 - Hardware
 - News & Politics
+locations:
+- Amazon
+- China
+- Florida.
+- Mount Pleasant
+- New Port Richey
+- New York
+- Ohio
+- Peace Hall
+- Texas
+- United States
+- Wisconsin
+people:
+- Alexandria Ocasio-Cortez
+- Brookings
+- Cathy Hochul
+- Donald Trump
+- Donald Trump.
+- Greg Abbott
+- Mike DeWine
+- Tom
+organisations:
+- Georgia Tech
+- Get Tom's Hardware
+- Google News
+- House
+- Microsoft
+- Tom’s Hardware
+- anti Data Center
 ---
 
 ![People hold signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida.](https://cdn.mos.cms.futurecdn.net/iTfiVsnBuTP5SGz8ZVHzfP.jpg) 

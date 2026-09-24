@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Edinburgh
+- Getty
+- Hull
+- UK
+people:
+- Buzz Bingo
+- Mark Fletcher
+organisations:
+- BRADFORD
+- Buzz Bingo
+- Hull
 ---
 
 *(Image: Getty)*

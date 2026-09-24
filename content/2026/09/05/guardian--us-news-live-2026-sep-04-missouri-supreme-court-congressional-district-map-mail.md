@@ -11,6 +11,113 @@ image: https://i.guim.co.uk/img/media/adea61021f59162ff2a2ff1fc97d0234b8917a35/5
 categories:
 - UK
 - News & Politics
+locations:
+- Austin
+- California
+- China
+- Dallas
+- Fla
+- Florida
+- Hormuz Strait
+- Iran
+- Israel
+- Kansas City
+- Minneapolis
+- Missouri
+- National Mall
+- Oval Office
+- Pennsylvania
+- Pickaxe Mountain
+- Plaintiff States
+- Rio Grande
+- South Bay
+- Strait of Hormuz
+- Texas
+- US
+- United States
+- Venezuela
+- Vietnam
+- White House
+people:
+- Adam Telle
+- Brigida Sanchez
+- Christian Castro
+- Daniel Driscoll
+- Denny Hoskins
+- Donald Trump
+- Elon Musk
+- Emanuel Cleaver
+- Greg Abbot
+- Hakeem Jeffries
+- Indira Talwani
+- James Talarico
+- Jason Crow
+- John Fetterman
+- Julio Sosa-Celis
+- Ken Paxton
+- Kevin Warsh
+- Lori Chavez-DeRemer
+- Madeleine Dean
+- Markwayne Mullin
+- Pete Hegseth
+- Rob Bonta
+- Robert Garcia
+- Ron DeSantis
+- Sean Parnell
+- Sydney Kamlager-Dove
+- Tetris
+- Wall
+- Xi Jinping
+- Xi,” Trump
+organisations:
+- ACLU
+- AP Driscoll
+- American Civil Liberties Union
+- Associated Press
+- CBS News
+- Central Command
+- Committee on Homeland Security
+- CyberCab
+- DHS
+- Democrats’
+- Department of Defense
+- Department of Homeland Security
+- Department of Labor
+- Department of Transportation
+- Department of the Interior
+- Fed
+- Federal Motor Vehicle Safety Standards
+- Federal Reserve
+- House of Representatives
+- ICE
+- Immigration and Customs Enforcement
+- Joint Staff
+- Justice Department
+- Missouri Supreme Court
+- NHTSA
+- National Highway Traffic Safety Administration
+- New York Times
+- Office of Inspector General
+- Oval Office
+- Pentagon
+- RNC
+- Republican National Committee
+- Reuters
+- Senate
+- Tesla
+- Tetris
+- Texas Democratic Party
+- Trump Administration
+- Trump Speed
+- U.S. Army Corps of Engineers
+- US Department of Labor
+- US Department of Transportation
+- US District Court
+- US Forest Service
+- US Postal Service
+- US Supreme Court
+- USPS
+- Wall Street Journal
 ---
 
 Trump downplays war with Iran, in which 18 US service members have been killed so far, as 'small potatoes'

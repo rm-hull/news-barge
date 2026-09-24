@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Jack Tretton
+organisations:
+- Get Tom's Hardware
+- PS5
+- PlayStation Store
+- PlayStation’s
+- RPCS3
+- Sony Japan
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh-320-80.jpg)

@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Coach Road
+- Emily.Williams
+- Harrogate
+- North Park Road
+- North Yorkshire
+people:
+- Emily Williams
+organisations:
+- Crimestoppers
+- Emily.Williams
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6a1822e1a382f.jpg) 

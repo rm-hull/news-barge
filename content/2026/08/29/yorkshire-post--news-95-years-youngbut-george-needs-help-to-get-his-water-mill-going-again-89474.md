@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Bilsdale
+- Chop Gate
+- Derbyshire
+- Low Mill
+- Middlebrough
+- Rievaulx Abbey
+- River Seph
+people:
+- George (Raymond) Harrison
+- George Harrison
+- Hazel
+- Ted Garbutt
+organisations:
+- Historic England
+- The Yorkshire Post
 ---
 
 # 95 years young..but George needs help to get his water mill going again

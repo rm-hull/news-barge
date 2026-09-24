@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford Live
+- Ireland
+- UK
+people:
+- Andrew Exeter
+- Ian Masterson
+- Jess Ellen Knight
+- Johannes Radebe
+- Ollie Durrant
+- Rory Beaton
+- Tom Rogers
+organisations:
+- Bradford
+- Newsquest
+- West End
 ---
 
 *(Image: Newsquest)*

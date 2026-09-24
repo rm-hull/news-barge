@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Cribbs Causeway
+- Kingswood
+- PA
+- South Gloucestershire
+- Stoke Gifford
+- Yate
+people:
+- '![Scott-Bowen'
+- Alexander Scott-Bowen
+- Ben Birchall
+- Mike Coleman
+organisations:
+- Avon and Somerset Police
+- Bristol Crown Court
 ---
 
 A 24-year-old man has been sentenced after approaching several young girls to touch and sniff their feet.

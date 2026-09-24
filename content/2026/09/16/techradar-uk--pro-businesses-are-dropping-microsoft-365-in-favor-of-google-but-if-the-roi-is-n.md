@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Craig Hale
+- Domenico Scriva
+organisations:
+- Copilot
+- Craig’s
+- Gemini
+- Google News
+- Google Workspace
+- Mac
+- Microsoft
+- Scriva
+- Senior Gartner
+- TechRadar Pro
 ---
 
 ![Google Workspace IO keynote](https://cdn.mos.cms.futurecdn.net/3GXSTw5weSV2Akxock9SKj.jpg) 

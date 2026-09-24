@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Earth
+- Jupiter
+- Mars
+- Mercury
+- Moon
+- Venus
+people:
+- Halley
+organisations:
+- Mercury
 ---
 
 Meteor shower season is upon us, with longer, darker nights offering more opportunities to catch a glimpse of the wonders of the night sky.

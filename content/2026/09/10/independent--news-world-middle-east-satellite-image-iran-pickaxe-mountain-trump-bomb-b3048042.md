@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/10/13/46/Picakaxe-Mountain-cd1cc
 categories:
 - News & Politics
 - UK
+locations:
+- Dhubab
+- Hanish
+- Iran
+- Middle East
+- Mocha
+- Natanz
+- Perim
+- Pickaxe Mountain
+- Red Sea
+- Saudi Arabia
+- US
+- Yemen
+people:
+- Donald Trump
+organisations:
+- Bloomsberg
+- Centre for Strategic and International Studies
+- International Atomic Energy Agency
+- Reuters
+- Trump
+- UN
 ---
 
 The UN’s nuclear watchdog has said that nuclear activity is taking place at Iran’s Pickaxe Mountain, a day after new satellite imagery showed a surge in construction activity at the site.

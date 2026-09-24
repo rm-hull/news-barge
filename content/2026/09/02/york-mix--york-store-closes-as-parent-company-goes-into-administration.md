@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Designer Outlet York
+people:
+- Paul Tyler
+- Radley
+organisations:
+- Denby
+- Designer Outlet York
+- Gordon Brothers
+- Potions Cauldron
+- Poundland
+- Radley
+- Savante
 ---
 
 A York store has shut after its parent company went into administration.

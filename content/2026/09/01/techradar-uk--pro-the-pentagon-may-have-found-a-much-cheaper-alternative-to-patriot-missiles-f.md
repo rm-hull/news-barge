@@ -10,6 +10,31 @@ description: The US military is hunting cheaper missile killers after billions s
 image: https://cdn.mos.cms.futurecdn.net/4xuYjY4btGm24zXyBCAp3W-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- America
+- Iran
+- U.S.
+- Ukraine
+- United States
+- Vilnius Lithuania
+people:
+- Heath Collins
+- Jason Hundley
+organisations:
+- '## X-Bow'
+- Efosa
+- Freyja
+- Google News
+- Lockheed Martin
+- Missile Defense Agency
+- Pentagon
+- Rapid Response Small Launcher Technology
+- SRM
+- TechRadar Pro
+- US Air Force
+- US Department of Defense
+- United States Army
+- X-Bow Systems
 ---
 
 ![Vilnius Lithuania 2023-07-10 The MIM-104 Patriot is a surface-to-air missile (SAM) system, the primary such system used by the United States Army and several allied states.](https://cdn.mos.cms.futurecdn.net/4xuYjY4btGm24zXyBCAp3W.jpg) 

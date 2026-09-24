@@ -14,6 +14,49 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Abha
+- Bab al-Mandeb
+- Bab el-Mandeb
+- Gaza
+- Gulf of Aden
+- Indian Ocean
+- Iran
+- Iraq
+- Jizan
+- King Khalid
+- Kingdom
+- Lebanon
+- Marib
+- Moscow
+- Red Sea
+- Riyadh
+- Sana'a
+- Saudi Arabia
+- Strait of Hormuz
+- Taiz
+- Tehran
+- United States
+- Yemen
+people:
+- Andreas Krieg
+- Ansar Allah
+- Faisal bin Farhan
+- Mohammed bin Salman
+organisations:
+- '## Houthis'
+- Abha International Airport
+- Almasirah TV
+- Aramco
+- Axis of Resistance
+- Hamas
+- Hezbollah
+- Houthis' Almasirah TV
+- IRGC
+- King Khalid Air Base
+- King's College London
+- Kpler
+- Saudi Press Agency
 ---
 
 ## Houthi missiles struck Abha International Airport, King Khalid Air Base and Aramco facilities, injuring 73 and forcing temporary shutdowns at oil sites. Saudi Arabia launched strikes on Taiz and Marib provinces, as analysts said Riyadh now faced a "spiral of escalation".

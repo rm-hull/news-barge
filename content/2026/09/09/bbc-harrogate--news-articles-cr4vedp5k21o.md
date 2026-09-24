@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Scarborough
+people:
+- Phill Blunt
+organisations:
+- North Yorkshire Police
+- Register of Sex Offenders
+- York Crown Court
 ---
 
 ![A custody photo of a man with very short dark hair. He is wearing a grey t-shirt and sat in front of a grey background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/f8d5/live/e057c720-ac31-11f1-b483-f5be285e6b7e.png)

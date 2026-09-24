@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- North East
+people:
+- Alison Westworth
+organisations:
+- Air Bag
+- Better Leisure Centres
+- GLL
+- Gym
+- Newcastle Trampoline Park
 ---
 
 A North East trampoline park is undergoing an upgrade worth over £400,000 to create a new activity zone.

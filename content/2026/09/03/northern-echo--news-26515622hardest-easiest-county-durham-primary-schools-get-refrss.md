@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- County Durham
+- North Yorkshire
+- Woodland Village
+people:
+- Ian Ramsey
+organisations:
+- Acre Rigg Infant School
+- Belmont Church of England
+- Bishop Ian Ramsey Church of England Primary School
+- Bishop Ian Ramsey CofE Primary School
+- Brandon Primary Academy
+- Browney Primary Academy
+- Bullion Lane Primary School
+- Byerley Park Primary School
+- Chester-Le-Street Church of England
+- Church of England Primary School
+- Durham County Council
+- Etherley Lane Primary School
+- Great British Schools Guide
+- Hartside Primary Academy
+- Langley Moor Primary School
+- Leadgate Primary School
+- OFSTED
+- Ofsted
+- Primary School
+- Ribbon School
+- Rosa Street Primary and Nursery Academy
+- Shincliffe Church of England
+- Shotley Bridge Primary School
+- Silver Tree Primary School
+- Springmoor Grange School
+- St Anne’s Church of England Primary School
+- St Stephen
 ---
 
 When moving to a new area with your family, one of the most important things to look at is how good the schools are for your children and whether they are easy to enrol in.

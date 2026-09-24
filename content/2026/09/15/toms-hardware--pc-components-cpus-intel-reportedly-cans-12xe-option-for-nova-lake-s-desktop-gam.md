@@ -12,6 +12,38 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Coyote Cove
+- Crescent Island
+- Nova Lake
+- Panther Lake
+- Razor Lake
+people:
+- Robert Hallock
+- Tom
+organisations:
+- 80W iGPU
+- AMD
+- APU
+- Arc
+- EX AI
+- Get Tom's Hardware
+- Google News
+- HEDT
+- Intel
+- Jaykihn
+- MSI Claw
+- NVL
+- Nova Lake AX
+- Nova Lake SKU
+- Nova Lake-AX
+- Nova Lake-S
+- RZL
+- RZL-AX
+- Tom’s Hardware
+- X3D
+- Xe3P
+- bLLC
 ---
 
 ![Intel 12th Generation Alder Lake CPU](https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN.jpg) 

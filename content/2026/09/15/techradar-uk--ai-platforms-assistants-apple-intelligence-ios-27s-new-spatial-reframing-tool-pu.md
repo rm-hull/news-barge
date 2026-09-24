@@ -11,6 +11,20 @@ description: iOS 27’s Spatial Reframing AI tool generated a non-existent perso
 image: https://cdn.mos.cms.futurecdn.net/pdPY2CnUYvpE8qjh2Mh89o-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- AI
+- Alex Blake
+- Redditor
+organisations:
+- AI
+- Apple
+- Creative Bloq
+- Google News
+- MacFormat
+- Reddit
+- TechRadar
+- iMore
 ---
 
 ![Apple demonstrating the Spatial Reframing feature at WWDC 2026.](https://cdn.mos.cms.futurecdn.net/pdPY2CnUYvpE8qjh2Mh89o.jpg) 

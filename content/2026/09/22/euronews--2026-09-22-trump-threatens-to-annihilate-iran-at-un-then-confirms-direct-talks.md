@@ -14,6 +14,50 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/38/25/1200x675_cmsv2_8e6b34a4-2123-509e-9f2e-42a4b893cfd5-9923825.jpg
+locations:
+- Bab el-Mandeb
+- Bahrain
+- Denmark
+- Greenland
+- Gulf
+- Iran
+- Iraq
+- Islamic Republic
+- Israel
+- Kuwait
+- Middle East
+- New York
+- Oman
+- Qatar
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- UAE
+- UK
+- US
+- Ukraine
+- United States
+- Venezuela
+- White House
+- Yemen
+people:
+- Andy Burnham
+- Delcy Rodríguez
+- Donald Trump
+- Jens-Frederik Nielsen
+- Marco Rubio
+- Masoud Pezeshkian
+- Mette Frederiksen
+- Sanae Takaichi
+- Volodymyr Zelenskyy
+organisations:
+- General Assembly
+- General Assembly Trump
+- Gulf Cooperation Council
+- NATO
+- NBC
+- UN General Assembly
 ---
 
 ## Speaking at the UN General Assembly on Tuesday, Trump asked whether he should "annihilate the Islamic Republic" or offer it a deal to rebuild before telling reporters that US and Iranian officials had met on the sidelines. Most of Iran's delegation walked out during his speech.

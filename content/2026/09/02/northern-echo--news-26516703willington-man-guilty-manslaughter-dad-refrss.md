@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- North East
+- Queen's Head
+- Queen’s Head
+- Rockingham Road
+- Sunnybrow
+- Willington
+people:
+- Angela Greensmith
+- Jennifer Bolton
+- Jonathan Carroll
+- Martin Greensmith
+- Shevels
+- Steven Shevels'
+organisations:
+- CCTV
+- NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 A man who killed his ‘dad’ when he pushed him over in a pub beer garden just hours after learning he was his father on Christmas Eve has been found guilty of manslaughter.

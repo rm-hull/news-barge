@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Giuseppe Mastrolia
+organisations:
+- Crisp ‘N’ Dry
+- London-listed Princes
+- Napolina
+- Plasmon
+- Princes France
 ---
 
 Tinned tuna maker Princes has revealed stronger sales in the face of “significant inflationary pressures” amid a boost from recent acquisitions.

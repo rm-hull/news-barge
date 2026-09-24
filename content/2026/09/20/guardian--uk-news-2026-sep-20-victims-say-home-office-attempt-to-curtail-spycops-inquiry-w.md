@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/342e5f6bb74fcf86dae58484b7f12ca8fb0ffde4/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28306d255fe81e39f908803f77feba56
+locations:
+- Metropolitan
+- Northern Ireland
+people:
+- John Mitting
+- Kate Wilson
+- Mark Kennedy
+- Shabana Mahmood
+- Stephen Lawrence
+organisations:
+- Home Office
+- House of Commons
+- National Public Order Intelligence Unit
+- SDS
+- Special Demonstration Squad
 ---
 
 Victims of intrusive police surveillance have accused the government of seeking to cut short the spycops public inquiry that has been examining widespread misconduct committed by undercover officers.

@@ -10,6 +10,16 @@ description: Trustworthy cases to protect your new handset
 image: https://cdn.mos.cms.futurecdn.net/xaWHXZAwCpErmfkTF37Ucg-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+- US
+people:
+- Ruth Hamilton
+organisations:
+- Google News
+- Ruth
+- TechRadar
 ---
 
 ![Google Pixel 11 cases](https://cdn.mos.cms.futurecdn.net/xaWHXZAwCpErmfkTF37Ucg.jpg) 

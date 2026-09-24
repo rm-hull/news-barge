@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab2cd9fca426ab5b46f084b/191:100/w_1280,c_limit/Security_Meta%E2%80%99s%20Muse%20AI%20Agent%20Has%20a%20Serious%20Security%20Flaw_v1.jpg
+locations: []
+people:
+- Mark Zuckerberg
+- Muse
+- Patrick Wardle
+organisations:
+- AI
+- Amazon
+- Anthropic
+- Apple
+- Ars
+- Google
+- Meta
+- Muse
+- NASA
+- National Security Agency
+- Objective-See Foundation
 ---
 
 Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant, Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site.

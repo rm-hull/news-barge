@@ -10,6 +10,17 @@ image: https://cdn.mos.cms.futurecdn.net/ZfhFwGtGeLFq7LEuTgCMbD-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+organisations:
+- '## Chrome'
+- Brave
+- Craig’s
+- Google News
+- Microsoft
+- Mozilla
+- TechRadar Pro
 ---
 
 ![Silhouette of a hand holding a padlock infront of the google chrome logo](https://cdn.mos.cms.futurecdn.net/ZfhFwGtGeLFq7LEuTgCMbD.jpg) 

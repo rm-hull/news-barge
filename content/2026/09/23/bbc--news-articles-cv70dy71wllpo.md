@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Travel
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c7/live/174b7af0-b72d-11f1-b6b0-f732836ccdab.jpg
+locations:
+- Costa Rica
+- Earth
+- Groatie Buckie
+- Holland House
+- Kirkwall
+- Laird
+- North Ronaldsay
+- Orkney
+people:
+- Alice Traill Ford
+- Baby Duncan
+- Dad Jorge Suarez
+- Duncan Wilder Thorstein Traill Suarez Ford
+- Groatie Buckie
+- Jorge Suarez
+- Mum Alice Traill Ford
+- Thomas Brookman
+organisations:
+- Alice Traill Ford
+- BBC Scotland News
+- Islanders
+- NHS
 ---
 
 ![Mum Alice Traill Ford with baby Duncan Wilder Thorstein Traill Suarez Ford. She is wearing a blue overshirt and black top and kissing the top of the baby's head. The baby is wrapped in a blue blanket.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/56c7/live/174b7af0-b72d-11f1-b6b0-f732836ccdab.jpg)

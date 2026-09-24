@@ -14,6 +14,32 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- Cold Bath Road
+- Harrogate
+- Knaresborough
+- North Bar
+- Westmoreland Coffee House
+- Westmoreland Street
+people:
+- Andy Burnham
+- Leda
+- Louise Haigh
+- Tom Gordon
+- Tom Kerridge
+organisations:
+- Fat Badger
+- Harrogate
+- Harrogate's
+- House of Commons
+- Knaresborough
+- Lib Dem
+- Liberal Democrat
+- MP
+- North Bar
+- The Problem
+- Westmoreland Coffee House
+- White Hart Hotel
 ---
 
 # 'Independent sector in Harrogate needs VAT cut' says town's MP as he quizzes Government minister

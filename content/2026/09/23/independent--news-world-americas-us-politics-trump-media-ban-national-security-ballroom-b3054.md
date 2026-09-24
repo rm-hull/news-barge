@@ -13,6 +13,30 @@ categories:
 - Law & Justice
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/12/2026-09-23T100013Z_1291258553_RC2PONAYEKLJ_RTRMADP_3_USA-TRUMP-MEDIA.JPG?trim=0,77,0,77&width=1200&height=800&crop=1200:800
+locations:
+- DC
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- United States
+- Washington
+- White House
+people:
+- '![Flyers'
+- Donald Trump
+- Jim Acosta
+organisations:
+- CNN
+- DOJ
+- Department of Justice
+- Justice Department
+- MS NOW
+- MSNOW
+- Media Outlets
+- Politico
+- The Associated Press
+- Trump Administration
+- United States of America
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

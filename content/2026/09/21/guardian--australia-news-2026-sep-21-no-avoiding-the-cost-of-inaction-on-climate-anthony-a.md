@@ -11,6 +11,20 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/27869614e45fe3747243417a4c789b07a8f7aaa4/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d4caa6d1917b38ccd2b8efc3f646fa0
+locations:
+- Australia
+- Canada
+- France
+- New York
+- Pacific
+- Palau
+- US
+people:
+- Anthony Albanese
+organisations:
+- Pacific Resilience Facility
+- UN
+- United Nations
 ---
 
 Australia understands the dangers of global warming and the urgency of climate action as much as any other country, Anthony Albanese has said in a keynote speech shortly before the United Nations general assembly.

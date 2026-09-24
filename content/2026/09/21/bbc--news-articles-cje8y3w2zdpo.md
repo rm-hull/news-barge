@@ -13,6 +13,34 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg
+locations:
+- Berkshire
+- Cambridgeshire
+- France
+- Lake District
+- Laos
+- Morocco
+- Norfolk
+- Ohio
+- Provence
+- Scotland
+- UK
+- US
+- Vietnam
+- Yorkshire Dales
+people:
+- Geoff Moorhouse
+- Karen Green
+- Matthew Loveless
+- Mike Ambery
+- Poppy
+- Sarah Moorhouse
+organisations:
+- BBC
+- Institute for Fiscal Studies
+- Joseph Rowntree Foundation
+- Northwestern Mutual
+- Standard Life
 ---
 
 ![Sarah and Geoff Moorhouse with their daughter Poppy](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg)

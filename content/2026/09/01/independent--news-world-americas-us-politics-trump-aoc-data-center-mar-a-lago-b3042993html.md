@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- China
+- Mar-a-Lago
+- Silicon Valley
+- Texas
+- U.S.
+- U.S.A.
+- Washington
+- White House
+people:
+- Alexandria Ocasio-Cortez
+- Claude
+- Davis Ingle
+- Tim Burchett
+- Trump
+organisations:
+- AI
+- AOC
+- ChatGPT
+- MeidasTouch
+- The Independent
+- Truth Social
+- YouGov
+- anti Data Center
 ---
 
 Representative Alexandria Ocasio-Cortez had a cheeky response on Monday when asked about President Trump’s recent comments that opponents of data centers want to be “backwards and poor.”

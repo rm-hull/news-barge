@@ -13,6 +13,63 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Argentina
+- Britain
+- Buenos Aires
+- China
+- Diddly Squat
+- Europe
+- Falklands
+- Iran
+- Oxfordshire
+- Pacific
+- Scotland Yard
+- UK
+- US
+- Washington
+people:
+- '!["Kemi'
+- '!["Putin'
+- '!["Trump'
+- Angela Eagle
+- António Guterres
+- Donald Trump
+- Gloria Steinem
+- Javier Milei
+- Jeremy Clarkson
+- Kemi Badenoch
+- Mark Rowley
+- Max Wilkinson
+- Nigel Farage
+- Niño
+- Todd] Boehly
+- Vladimir Putin
+organisations:
+- '!["Army'
+- Army
+- Chelsea
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Daily Telegraph.
+- El Niño
+- Farage
+- Financial Times'
+- Financial Times.
+- GB News
+- Guardian
+- Guinness
+- Metro
+- Ministry of Defence
+- Nato
+- Reform UK
+- Times
+- Tory
+- UN
 ---
 
 !["Putin growing more reckless as his inner circle shrinks, warn UK security insiders," reads the headline on the front page of the i Paper.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8252/live/a5471670-a7d8-11f1-a291-b542ee92de7c.jpg)

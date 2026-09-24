@@ -13,6 +13,13 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Harrogate
+people:
+- Sophia Gardiner
+organisations:
+- North Rigton CE Primary School
+- Yorkshire Causeway Schools Trust
 ---
 
 # 175th anniversary of Harrogate village school whose history began in a 1769 Sunday school

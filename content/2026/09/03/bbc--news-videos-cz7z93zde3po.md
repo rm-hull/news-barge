@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- New York
+- Staten Island
+- US
+people:
+- Thomas Fahmy
+organisations:
+- BBC News
+- CBS News
 ---
 
 # US man struck by lightning describes 'horrific' experience

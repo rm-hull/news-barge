@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Africa
+- Aiguille du Midi
+- Asia
+- Chamonix
+- Climate Central
+- Europe
+- France
+- Halstead
+- Iran
+- Kan.
+- Kernza
+- Mont-Blanc
+- North America
+people:
+- David Mueller
+- Kristina Dahl
+- Simon Steill
+organisations:
+- Climate Central
+- EU
+- IEA
+- International Energy Agency
+- SolarPower Europe
+- UN Environment Programme
+- UNEP
+- UNFCC
+- United Nations Framework Convention on Climate Change
 ---
 
 ## “These past three months are a warning sign we cannot afford to ignore – the human and economic costs of fossil fuels are playing out in real time.”

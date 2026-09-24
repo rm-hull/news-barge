@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- China
+- Israel
+- London
+- North Sea
+- PA
+people:
+- Andrew Bowie
+- Andrew Griffith
+- Andy Burnham
+- Brexit
+- Claire Coutinho
+- Dame Priti
+- Dame Priti Patel
+- Harriet Cross
+- Helen Grant
+- Helen Whately
+- Jack Rankin
+- James Cleverly
+- Jordan Pettitt
+- Julia Lopez
+- Katie Lam
+- Keighley
+- Kemi Badenoch
+- Meanwile
+- Mel Stride
+- Ms Lam
+- Nigel Farage
+- Priti Patel
+- Robbie Moore
+- Robert Jenrick
+- Stuart Andrew
+- Tom Tugendhat
+organisations:
+- Conservative Party International
+- Department for Science Innovation and Technology
+- Department for the Environment, Farming and Rural Affairs
+- Ilkley
+- Kemi
+- Labour
+- NHS
+- Reform UK
+- Tory
+- Treasury
 ---
 
 Kemi Badenoch has removed Dame Priti Patel as shadow foreign secretary as she starts a major reshuffle of her top team.

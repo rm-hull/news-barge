@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Leeds
+- Lincoln
+- Sheffield
+- York
+people:
+- Jane Tomlinson
+- Tristan Batley-Kyle
+organisations:
+- Altra Yorkshire Marathon
+- Rob Burrow Leeds Marathon
+- Run For All
 ---
 
 *(Image: Supplied)*

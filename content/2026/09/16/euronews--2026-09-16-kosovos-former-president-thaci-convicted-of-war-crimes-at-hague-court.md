@@ -14,6 +14,33 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Albania
+- Belgrade
+- Kosovo
+- Netherlands
+- Prishtina
+- Serbia
+- The Hague
+- US
+- White House
+people:
+- '## Hashim Thaçi'
+- Charles Smith
+- George Washington
+- Glauk Konjufca
+- Hashim Thaçi
+- Jakup Krasniqi
+- Joe Biden
+- Kadri Veseli
+- Rexhep Selimi
+organisations:
+- Council of Europe
+- KLA
+- KSC
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
+- NATO
 ---
 
 ## Hashim Thaçi, who served as both president and prime minister, was found guilty of murder, torture, cruel treatment and arbitrary detention by the Kosovo Specialist Chambers, as tens of thousands who had gathered in Prishtina expecting his acquittal watched proceedings on a livestream.

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- South America
+- UK
+people:
+- Fiona Osgun
+- Keren Papier
+organisations:
+- Cancer Research UK
+- International Agency for Research on Cancer
+- Oxford Population Health
+- SCC
+- UK Biobank
+- University of Oxford
 ---
 
 A major University of Oxford study of almost one million UK adults has found that drinking very hot tea and coffee may increase the risk of oesophageal cancer.

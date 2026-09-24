@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+- Sygnia
+organisations:
+- Admins
+- Al Jazeera Balkans
+- China‑linked Fire Ant
+- Cisco IOS XR Routers
+- Fire Ant
+- Google News
+- Represent Communications
+- Sygnia
+- TACACS
+- TechRadar Pro
+- UNC3886
 ---
 
 ![A group of 7 hackers, 6 slightly blurred in the background and one in the foreground, all wearing black with hoods pulled up over their heads. You cannot see their faces.](https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY.jpg) 

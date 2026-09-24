@@ -11,6 +11,12 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/91/94/89/1200x675_cmsv2_6ed72a21-509d-53b2-b54b-9026bfb6e408-9919489.jpg
+locations:
+- Ceuta
+- Morocco
+people: []
+organisations:
+- European Union
 ---
 
 Police moved hundreds of migrants from the beaches of Ceuta to a temporary camp in the port area on Friday.

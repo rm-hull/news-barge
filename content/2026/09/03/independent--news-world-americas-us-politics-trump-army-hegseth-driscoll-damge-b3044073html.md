@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/09/02/10/2293012597..?trim=157,0,15
 categories:
 - News & Politics
 - UK
+locations:
+- U.S.
+- United States
+- White House
+people:
+- Dan Driscoll
+- Fox
+- Hegseth
+- JD Vance
+- Mike Rounds
+- Sean Parnell
+- SecWar
+- Thom Tillis
+- Trump
+organisations:
+- Department of Defense
+- Independent
+- Pentagon
+- Senate Armed Services Committee
+- The Financial Times
+- The New York Times
+- The Times
+- U.S. Army
 ---
 
 The outgoing U.S. Army Secretary Dan Driscoll accused the defense secretary of doing “generational damage” to the military, according to a report.

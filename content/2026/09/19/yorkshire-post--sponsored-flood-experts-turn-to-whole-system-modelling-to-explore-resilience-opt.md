@@ -14,6 +14,32 @@ categories:
 - York
 - Science
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/23/16/Ousewem-team-members-from-Yorkshire-Dales-Rivers-Trust-and-Natural-England-gather-data-to-help-under.png?trim=79,0,79,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Nidd
+- North Yorkshire
+- Ousewem
+- SUNO
+- Skelton
+- Swale
+- Upper Ouse
+- Ure
+- York
+- York.
+people:
+- Eleanor Pearson
+- Graham Walker
+- Mark Henderson
+organisations:
+- City of York Council
+- Defra
+- Flood Risk Manager
+- JBA Consulting
+- Natural England
+- North Yorkshire Council
+- Ousewem
+- SUNO
+- University of York
+- Yorkshire Dales Rivers Trust
 ---
 
 # Flood experts turn to 'whole-system modelling' to explore resilience options in Yorkshire

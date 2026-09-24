@@ -13,6 +13,38 @@ image: https://images.euronews.com/articles/stories/09/89/49/65/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Aras
+- Bandar Abbas
+- China
+- Hong Kong
+- Iran
+- Islamabad
+- Islamic Republic
+- Israel
+- Karachi
+- Kermanshah
+- Mersin
+- Pakistan
+- Persian Gulf
+- Rimdan
+- Tehran
+- Turkey
+- UAE
+- US
+- United States
+people:
+- Aras
+- Bandar Abbas
+- Gisoo
+- Hamid
+- Jebel Ali
+- Mansour
+- Mohammad
+organisations:
+- Euronews Farsi
+- Gisoo
+- Snapp
 ---
 
 ## A Euronews Farsi exclusive shows how a reinstated US naval blockade is paralysing Iran’s trade, driving 70% inflation and pushing families into survival mode. From stranded cargo to empty tables, Iranian citizens speak out on the worsening humanitarian crisis.

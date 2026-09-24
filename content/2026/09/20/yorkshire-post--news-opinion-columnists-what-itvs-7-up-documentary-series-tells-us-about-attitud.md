@@ -15,6 +15,26 @@ categories:
 - York
 - Film & TV
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlM2UxMTc0LWFmZTQtNDM0Ny1hOWQ5LWI3NWJjZWJlOTZiMDphZjE2YTQxNS1hMWNjLTQ4MjYtODUxZC0xMDEzZTJmNGZlZmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- America
+- Britain
+- Cambridge
+- Coronation Street
+- Dales
+- Granada
+- Japan
+- Yorkshire
+people:
+- Churchill
+- David Behrens
+- Nick Hitchon
+- Tim Hewat
+- Winston Churchill.
+organisations:
+- Commons
+- ITV
+- Oxford
+- The Sweeney
 ---
 
 # What ITV’s 7 Up documentary series tells us about attitudes towards senior citizens - David Behrens

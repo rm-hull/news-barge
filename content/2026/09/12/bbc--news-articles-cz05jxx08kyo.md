@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0309/live/880596f0-a84a-11f1-80f8-c33181935c5a.jpg
+locations:
+- Ballymurphy
+- Belfast
+- New York
+- Northern Ireland
+- Scotland
+- TikTok
+- UK
+people:
+- Adam Mosseri
+- Elaine Crory
+- Geoff McConville
+- Pearse Vallely
+- TikToker
+- Valelly
+organisations:
+- Comic Con Northern Ireland
+- Department of Justice
+- DoJ
+- Instagram
+- Meta
+- TikTok
+- Vallely
+- Wetherspoons
+- Women's Resource and Development Agency
 ---
 
 ![A pair of Meta glasses, being held in someone's left hand. They are black with a camera visible on each side. The person is wearing a watch.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0309/live/880596f0-a84a-11f1-80f8-c33181935c5a.jpg)

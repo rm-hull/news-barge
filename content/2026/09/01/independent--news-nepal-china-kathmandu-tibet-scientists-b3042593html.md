@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- China
+- Nepal
+- New Delhi
+- Rasuwagadhi
+- Tibet
+people:
+- Manish Maharjan
+- Mohan Kumar Dangi
+- __ Hussain
+organisations:
+- Independent Power Producers’ Association
+- Nepal Army
 ---
 
 Filmmaker and drone pilot Manish Maharjan crossed into Nepal from China’s Tibet through Rasuwagadhi, a border crossing closest to where last week's catastrophic flooding began, two days before the disaster. Returning home, little did he know he would be using his professional skills to help with rescue efforts along a route he has known intimately from years of travel for work.

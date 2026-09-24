@@ -12,6 +12,46 @@ image: https://cdn.mos.cms.futurecdn.net/c8Z2CffZKtFzuShvdtAKEi-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- Fremantle
+- Geelong
+- Glastonbury
+- Optus Stadium
+- Perth
+- UK
+- US
+- uk
+people:
+- Andy Murray
+- Carlton
+- Chris Scott
+- Dockers
+- Jeremy Cameron
+- Josh Treacy
+- Justin Longmuir
+- Luke Jackson
+- Max Holmes
+- Patrick Dangerfield
+- Radiohead
+organisations:
+- 7Plus
+- AFL
+- Cats
+- Dockers
+- FS2
+- FourFourTwo
+- Fremantle
+- Future Publishing
+- Geelong
+- Hawthorn
+- Premier League
+- TNT Sports
+- TSN
+- TSN2
+- TechRadar
+- Virgin Media
 ---
 
 ![Luke Jackson of the Dockers punches his fist in celebration during the AFL 2026](https://cdn.mos.cms.futurecdn.net/c8Z2CffZKtFzuShvdtAKEi.jpg) 

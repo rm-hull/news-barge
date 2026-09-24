@@ -14,6 +14,35 @@ categories:
 - Technology & Software
 - Education & Learning
 - Business & Entrepreneurship
+locations:
+- Cardiff
+- UK
+people:
+- Betsi Seward
+- Covid
+- Gary
+- John Reynolds
+- Karen
+- Lola Mayor
+- Megan Kielthy
+- Michela Riva.
+- Savannah Jones
+organisations:
+- ADI
+- Approved Driving Instructor
+- BBC
+- Betsi
+- Carly Brookfield
+- DIA
+- DVSA
+- Driver and Vehicle Standards Agency
+- Driving Instructors Association
+- Green GEN Cymru
+- Megan
+- RAC
+- Savannah
+- TikTok
+- YouTube
 ---
 
 ![Megan sits in her car. she is smiling at the camera and has reddish to brown hair cut at her shoulders. She is wearing a blue jumper with a dragonfly on.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9dcf/live/c13b49e0-ac52-11f1-9e64-05835b0b18f8.jpg)

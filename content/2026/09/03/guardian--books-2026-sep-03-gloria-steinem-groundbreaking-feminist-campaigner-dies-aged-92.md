@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Alabama
+- Greenwich Village
+- Gulf
+- Helsinki
+- India
+- Korea
+- London
+- New York
+- New York City
+- Ohio
+- Toledo
+- US
+- Vienna
+- Vietnam
+- Washington DC
+people:
+- Bill Clinton
+- Bunny
+- Christian Bale
+- Clay Felker
+- David Bale
+- Donald Trump
+- Dorothy Pitman Hughes
+- Evelyn Cunningham
+- Fannie Lou Hamer
+- Florynce Kennedy
+- Gloria Steinem
+- Hillary Clinton
+- Honey
+- Hugh Hefner
+- Shirley Chisholm
+organisations:
+- Black Lives Matter
+- CIA
+- DC Comics
+- Esquire
+- Guardian
+- Independent Research Service
+- Instagram
+- New York
+- New York Times
+- Observer
+- Playboy Club
 ---
 
 Gloria Steinem, the American feminist and journalist whose activism helped push through greater rights for women around the world has died, aged 92.

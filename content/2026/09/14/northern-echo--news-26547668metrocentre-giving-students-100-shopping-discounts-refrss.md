@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- County Durham
+- Ex County Durham
+- Exhibition Square
+- Green Mall
+- North East
+- North Yorkshire
+- Red Mall
+- Town Square
+- Wingstop
+people:
+- Helen Atkinson
+- Sostrene Grene
+organisations:
+- Frankie & Benny’s
+- Greggs
+- Metrocentre
+- NORTHERN ECHO
+- Nando’s
+- Nearby Exhibition Square
+- Pizza Express
+- Schuh
+- Sushi
+- The Crescent
+- The Perfume Shop
+- Yo!
 ---
 
 *(Image: NORTHERN ECHO)*

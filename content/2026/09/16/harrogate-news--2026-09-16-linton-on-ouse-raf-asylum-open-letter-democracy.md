@@ -13,6 +13,26 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- RAF Linton-on-Ouse
+- Westminster
+- Whitehall
+- York
+people:
+- Andy Burnham
+- David Skaith
+organisations:
+- Government
+- Home Office
+- IPU
+- Inter-Parliamentary Union
+- International Day of Democracy
+- National Audit Office
+- North Yorkshire Council
+- RAF Linton-on-Ouse
+- The Linton Action Group
+- Universal Declaration on Democracy
 ---
 
 OPEN LETTER — INTERNATIONAL DAY OF DEMOCRACY

@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Aleppo
+- Calasparra
+- Deir Intar
+- Lebanon
+- Lebanon’
+- Mafrukeh
+- Marja’yun
+people:
+- Anissa Helou
+- Kristin Perers
+- Maria Gaspard
+organisations: []
 ---
 
 # Chef Anissa Helou’s ‘taste of Lebanon’ recipe

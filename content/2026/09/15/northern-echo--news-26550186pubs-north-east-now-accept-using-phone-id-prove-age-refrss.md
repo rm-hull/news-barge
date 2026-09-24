@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- North East
+- Wales
+people:
+- Allen Simpson
+- Getty
+- Julian David OBE
+- Stephanie Peacock
+organisations:
+- DWP
+- Government
+- HMRC
+- PA
+- UKHospitality
+- techUK
 ---
 
 Businesses across the North East can now choose to accept digital proof of age when selling alcohol under new rules.

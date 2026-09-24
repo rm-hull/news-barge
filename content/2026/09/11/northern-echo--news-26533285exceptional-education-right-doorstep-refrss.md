@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Britain
+- North Yorkshire
+- North Yorkshire.
+- Queen Ethelburga
+- UK
+- York
+people:
+- Ethelburga
+organisations:
+- Queen Ethelburga
+- Queen Ethelburga's
+- Queen Ethelburga's College
 ---
 
 Brought to you by

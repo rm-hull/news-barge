@@ -12,6 +12,33 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/04/99/1200x675_cmsv2_cafdfc8d-7d2d-5e31-81f3-481b1fc29645-9920499.jpg
+locations:
+- Ceuta
+- Dublin
+- Europe
+- Germany
+- Greenland
+- Ireland
+- Munich
+- Nuuk
+- Poland
+- Shinjuku Station
+- Stockholm
+- Sweden
+- Tokyo
+- Tunis
+- Ukraine
+people:
+- Donald Tusk
+- Giorgia Meloni
+- Magdalena Andersson
+- Olena Zelenska.
+- Simon Harris
+- Tánaiste
+- Volodymyr Zelenskyy
+organisations:
+- C8
+- Euronews
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

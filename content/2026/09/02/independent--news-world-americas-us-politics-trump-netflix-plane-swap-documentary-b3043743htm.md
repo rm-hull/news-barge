@@ -11,6 +11,37 @@ image: https://static.independent.co.uk/2026/09/02/20/2291893241..?trim=0,117,0,
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Ankara
+- Turkey
+- U.S.
+- White House
+people:
+- Alex Brandon
+- Carol Leonnig
+- Dan Lamothe
+- David Axelrod
+- Donald Trump
+- Gram Slattery
+- Hill
+- Joe Biden
+- MS Now
+- Natalie Harp
+- Ned Price
+- Obama
+- Robert McDonald
+organisations:
+- AP
+- Air Force One
+- NATO
+- Netflix
+- Reuters
+- Secret Service
+- State Department
+- The Independent
+- The Washington Post
+- Washington Post
 ---
 
 Less than a month after the cloak-and-dagger caper came to light, Netflix is dropping a new documentary on the controversial use of a decoy plane by President Donald Trump on his return from a NATO summit in Turkey earlier this summer.

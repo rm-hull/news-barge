@@ -13,6 +13,20 @@ categories:
 - York
 - Family & Parenting
 - Society & Culture
+locations:
+- Appletree Court
+- East Ardsley
+- Leeds
+people:
+- '![Benstock'
+- '## Judge'
+- Kitty Colley
+- Michelle Barnes
+- Neil Clark
+- Vile Paul Benstock
+organisations:
+- Leeds Crown Court
+- Leeds Safeguarding Unit
 ---
 
 # 'Monster' who spent years raping and beating young children in Leeds jailed for 37 years

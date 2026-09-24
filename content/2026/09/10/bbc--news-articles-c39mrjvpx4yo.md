@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Biggin Hill
+- Bromley High Street
+- Bromley South
+- Ethelbert Road
+- High Street
+- London
+- Ringers Road
+- The Glades
+people:
+- Fergal Hickey
+- Georgiana
+- Graeme Casey
+- I.
+- Matias Alil
+- Peter Fortune
+- Vinnie Guadagnino
+organisations:
+- BBC
+- Bromley
+- KFC
+- London Air Ambulance
+- London Fire Brigade
+- Merkur Slots
+- Metropolitan Police
 ---
 
 ![Police stand nearby to the KFC](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/cdcd/live/99c80970-ad3d-11f1-85f8-e90160a10ad0.jpg)

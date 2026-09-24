@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Harrogate
+- Ripon
+people:
+- Jo Thackwray.
+organisations:
+- HADCA
+- Harrogate Town Council
+- Help Out Ripon
+- Power of 10
+- Ripon Together
 ---
 
 # OPINION: Ripon's young people are building bright futures and strong communities

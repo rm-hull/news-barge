@@ -11,6 +11,24 @@ description: Apple quietly announces macOS 27 launch date of September 14 – th
 image: https://cdn.mos.cms.futurecdn.net/ctUFkwkvMxVyJJwJmZLPJ5-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+- Matt Hanson
+- Siri AI
+organisations:
+- Apple
+- Core Tech
+- Golden Gate
+- Google News
+- Mac
+- MacBook Air
+- Matt
+- PC Plus
+- Siri AI
+- Tahoe
+- TechRadar
+- WWDC
 ---
 
 ![A person using iPhone Mirroring on a MacBook Pro running macOS 27 Golden Gate.](https://cdn.mos.cms.futurecdn.net/ctUFkwkvMxVyJJwJmZLPJ5.jpg) 

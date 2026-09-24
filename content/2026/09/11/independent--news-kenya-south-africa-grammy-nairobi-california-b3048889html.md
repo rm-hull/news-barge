@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Kenya
+- Nairobi
+- Nigeria
+- South Africa
+- U.S.
+people:
+- Bad Bunny
+- Manuel Abud
+- Nicholas Weinstock
+- Panos A. Panay
+- William Ruto
+organisations:
+- Africa Recording Academy
+- American Music Mentorship Program
+- California-based Recording Academy
+- Latin Recording Academy
+- Panay
+- Recording Academy
+- U.S. State Department
 ---
 
 Kenya’s quest to host an Africa Recording Academy headquarters got a boost Friday when Recording Academy officials said key milestones had been completed, and Kenyan artists will travel to the U.S. next month to get acquainted with the international music business.

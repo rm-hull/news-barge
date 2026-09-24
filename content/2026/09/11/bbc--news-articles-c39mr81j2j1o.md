@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Italy
+- Italy.
+- Milan
+- Rome
+people:
+- Carlo Cosco
+- Denise Cosco
+- Enza Rando
+- Francesca Rispoli
+- Lea Garofalo
+- Libera
+- Luigi Ciotti
+organisations:
+- BBC Action Line**
+- Libera
 ---
 
 ![A woman holds a placard with the portrait of an Italian justice collaborator and victim of the 'Ndrangheta Lea Garofalo during a protest in Milan on 21 March 2023 in Milan, Italy.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/e5cc/live/8a393660-ae09-11f1-b502-e5cdfe1c097c.png)

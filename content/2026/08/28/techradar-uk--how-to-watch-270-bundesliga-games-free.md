@@ -11,6 +11,50 @@ image: https://cdn.mos.cms.futurecdn.net/sjCQuW8U5MJZZBjQnCckXH-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- US
+people:
+- Harry Kane
+- Krishi
+- Robin Austermann
+organisations:
+- Amazon Fire TV
+- Android TV
+- Apple TV
+- Apple Vision
+- Bayer Leverkusen
+- Bayern Munich
+- Borussia Dortmund
+- Chrome
+- Chromecast
+- Edge
+- FC Bayern Muenchen
+- FC Bayern München
+- Fandango Stream
+- Firefox
+- Future Publishing
+- Game Consoles
+- Krishi
+- LG
+- NordVPN
+- PS5
+- RB Leipzig
+- Roku
+- Safari
+- Samsung
+- Smart TVs
+- Sony
+- TCL
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- USA Network
+- Versant
+- VfB Stuttgart
+- Vizio
+- Xfinity Flex
+- Xumo TV
 ---
 
 ![Harry Kane of FC Bayern Muenchen looks on during the Franz Beckenbauer Supercup match between Borussia Dortmund and FC Bayern München](https://cdn.mos.cms.futurecdn.net/sjCQuW8U5MJZZBjQnCckXH.jpg) 

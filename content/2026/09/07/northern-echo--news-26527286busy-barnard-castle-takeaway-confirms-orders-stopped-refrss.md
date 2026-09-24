@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- County Durham
+- Darlington
+- Market Place
+- UK
+- Yorkshire Dales
+people:
+- Babul
+- Sarah Caldecott
+- Shuhel Ahmed
+- Zak Ahmed
+organisations:
+- Babul’s
 ---
 
 Customers say it is "such a shame" as a busy Barnard Castle food spot is stopping its takeaways.

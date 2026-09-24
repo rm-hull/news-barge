@@ -15,6 +15,31 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- AI
+- China
+- Gareth Fuller
+- PA
+- Russia
+- UK
+- USA
+- Vatican
+- Wild West
+people:
+- Bob Kahn
+- Claude AI
+- Dario Amodei
+- Emma
+- Jayne Dowle
+- Trump
+- Vint Cerf
+- Vladmir Putin
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- JCHR
+- Joint Committee on Human Rights
 ---
 
 # Even tech bros are warning that consensus needs to be found on AI safety before it spirals out of control - Jayne Dowle

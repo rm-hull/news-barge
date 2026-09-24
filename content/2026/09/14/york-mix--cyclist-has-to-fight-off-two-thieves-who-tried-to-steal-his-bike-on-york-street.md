@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Eboracum Way
+- Heworth Green
+- York
+people: []
+organisations:
+- '#### Incident'
+- North Yorkshire Police
+- Via
 ---
 
 A cyclist had to fight off two thieves who tried to steal his bike as he rode along a busy York street.

@@ -12,6 +12,40 @@ image: https://static.independent.co.uk/2026/09/08/12/41/GettyImages-2264946338.
 categories:
 - News & Politics
 - UK
+locations:
+- Bahrain
+- Costa Rica
+- Lewandowski
+- Manama
+- Oval
+- Qal'at al-Bahrain Fort
+- Qatar
+- Russia
+- San Jose
+- U.S.
+- UAE
+- United Arab Emirates
+people:
+- Alex Karp
+- Corey Lewandowski
+- Donald Trump
+- Kara Voorhies
+- Kristi Noem
+- Rodrigo Chaves Robles
+organisations:
+- Casa Presidencial
+- DHS
+- Department of Homeland Security
+- Department of Justice
+- FEMA
+- House
+- Palantir
+- Secret Service
+- The Independent
+- The Wall Street Journal
+- WSJ
+- Wall Street Journal
+- then-Homeland Security
 ---
 
 Corey Lewandowski tried to cut side deals with foreign governments during his stint as a top aide to then-Homeland Security Secretary Kristi Noem, according to a new report.

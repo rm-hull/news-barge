@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Easter Island
+- Israel
+- Jerusalem
+- Scotland
+- Tel Aviv
+- Venice
+people:
+- Aleksey Igudesman
+- George Galloway
+- John Malkovich
+- Martin McDonagh
+- Robert Fisk
+- Sam Rockwell
+organisations:
+- CIA
+- Cambridge Union
+- Charles Bronfman Auditorium
+- Hollywood Reporter
+- Jerusalem Post
+- PR
+- Tel Aviv
 ---
 
 John Malkovich has cancelled a planned trip to Israel next year to appear on stage after a PR firm hired by the show attributed quotes to the actor that the company had written.

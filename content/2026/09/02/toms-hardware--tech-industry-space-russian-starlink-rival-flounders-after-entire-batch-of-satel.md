@@ -14,6 +14,22 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Earth
+- Rassvet
+- Russia
+- U.S.
+- Ukraine
+people:
+- Mark Tyson
+- Tom
+organisations:
+- Elon Musk
+- Google News
+- ISW
+- Institute for the Study of War
+- N2YO
+- Tom's Hardware
 ---
 
 ![Rassvet orbital launch on March 23rd](https://cdn.mos.cms.futurecdn.net/ThMNwXukopnrjypsEjpv9n.png) 

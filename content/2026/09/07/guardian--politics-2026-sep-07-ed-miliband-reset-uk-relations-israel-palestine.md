@@ -11,6 +11,47 @@ image: https://i.guim.co.uk/img/media/a4f6226b391e4d444522dbf5d467fe78aeeb6baa/3
 categories:
 - UK
 - News & Politics
+locations:
+- Argentina
+- Britain
+- Falkland Islands
+- Gaza
+- Gulf
+- Iran
+- Israel
+- Jerusalem
+- Palestine
+- Qatar
+- South Africa
+- St Pancras
+- UK
+- US
+- Washington
+- West Bank
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Donald Trump
+- Ed Miliband
+- Keir Starmer
+- Mike Huckabee
+- Yair
+- Zack Polanski
+organisations:
+- European Council on Foreign Relations
+- Foreign Office
+- GB News
+- Greens
+- Guardian
+- Hamas
+- Holborn
+- ICJ
+- IDF
+- Israel Defense Forces
+- Labour
+- Opinium
+- Trump’s Board of Peace
 ---
 
 Ed Miliband will announce what he has described as a broad reset of the UK’s relations with Israel on Tuesday, promising the government will take a more active approach in supporting the Palestinian cause.

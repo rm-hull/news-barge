@@ -13,6 +13,45 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Alport
+- Doctor’s Gate
+- Gillot Hey
+- Gillott Hey
+- Greater Manchester
+- High Peak
+- Peak District National Park
+- Sheffield
+- Snake Pass
+- South Yorkshire
+- UK
+- Wood Cottage
+- Woodhead Pass
+people:
+- Andy Burnham
+- Charlotte Hill
+- Jon Pearce
+organisations:
+- A57
+- Alport
+- Cowms Moor
+- Department for Transport
+- Department for Transport Roads Scheme
+- Derbyshire County Council
+- DfT
+- Doctors Gate
+- EMCCA
+- East Midlands Combined County Authority
+- East Midlands Mayor
+- High Peak
+- Labour
+- Mayors of Greater Manchester
+- Snake Inn
+- Snake Pass
+- Snake Pass Inn
+- TCR
+- Transport for City Regions
+- Woodhouses
 ---
 
 # Snake Pass: What does the future look like for legendary Pennine pass?

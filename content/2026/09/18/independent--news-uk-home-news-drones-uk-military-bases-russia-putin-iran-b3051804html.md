@@ -11,6 +11,39 @@ image: https://static.independent.co.uk/2026/09/05/08/2292967420..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- China
+- Europe
+- Iran
+- Moscow
+- Poland
+- Russia
+- Tehran
+- UK
+- Ukraine
+people:
+- Angela Eagle
+- Ben Barry
+- Charlie Edwards
+- Donald Tusk
+- Louise Sandher-Jones
+- Richard Knighton
+- Tobias Ellwood
+- Vladimir Putin
+organisations:
+- Armed Forces
+- Armed Forces Bill
+- British Army Staff
+- Defence Investment Plan
+- House of Commons Defence Committee
+- IRGC
+- International Institute for Strategic Studies
+- Labour
+- Ministry of Defence
+- MoD
+- Nato
+- The Independent
 ---
 
 Rogue drones are targeting Britain's military bases almost daily, leaving Britain vulnerable to growing threats from Russia and Iran, *The Independent* can reveal.

@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/07/28/16/2287296391..?trim=1,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Atlanta
+- Dallas
+- Houston
+- Los Angeles
+- Massachusetts
+- Miami
+- Minneapolis
+- New York City
+- San Francisco
+- U.S.
+- Washington, D.C.
+people:
+- Donald Trump
+- F. Dennis Saylor IV
+- Ryan Schwank
+organisations:
+- Constitution
+- Department of Homeland Security
+- Federal Law Enforcement Training Center
+- ICE Academy
+- ICE’s Enforcement and Removal Operations
+- Immigration and Customs Enforcement
+- National Security Enforcement
+- Office of Inspector General
+- The Independent
+- Trump
 ---
 
 Donald Trump’s administration plans to spend $100 million on a fleet of intelligence analysts for a previously unreported Immigration and Customs Enforcement unit designed to radically expand the agency’s espionage and surveillance work.

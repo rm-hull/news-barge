@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/f4659aacf45111fd4be47b0561ca040af4784bea/300_0_3000_2401/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2252458a3677e09646656bc20cdece6
+locations:
+- China
+- Moscow
+- Russia
+- US
+- Ukraine
+people:
+- Donald Trump
+- Lindsey Graham
+organisations:
+- House of Representatives
+- Iran Act
+- Lindsey O Graham Sanctioning Russia
+- Trump
 ---
 
 Donald Trump on Friday signed legislation enabling sweeping sanctions on Russia aimed at pressing it into ending its war with Ukraine, and also giving him the power to impose additional tariffs on countries breaking the embargo.

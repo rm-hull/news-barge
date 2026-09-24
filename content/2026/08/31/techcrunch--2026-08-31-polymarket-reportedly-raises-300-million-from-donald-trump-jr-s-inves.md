@@ -12,6 +12,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.
 categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Donald Trump Jr.
+organisations:
+- 1789 Capital
+- CFTC
+- Commodity Futures Trading Commission
+- Polymarket
+- TechCrunch
+- The New York Times
+- The Wall Street Journal
 ---
 
 The popular prediction market Polymarket has raised $300 million from 1789 Capital as part of a new funding round totaling around $1 billion, The Wall Street Journal reported, citing unnamed sources.

@@ -14,6 +14,16 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- Earth
+people:
+- Aimé Dafon Sègla
+- Beronda L. Montgomery
+- Chanda Prescod-Weinstein
+- Milford Graves
+organisations:
+- Canongate Books
+- New Scientist Book Club
 ---
 
 ![The Edge of Space-Time cover](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659683.jpg?w=840)

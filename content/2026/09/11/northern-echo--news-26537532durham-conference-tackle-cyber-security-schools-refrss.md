@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Darlington
+- Framwellgate School Durham
+- North East
+- Sjøvoll Centre
+people:
+- Barbara Spooner MBE
+- Mr Haughton
+- Wendy Pattison
+organisations:
+- Department for Education Digital and Technology Standards
+- Digital Safety CIC
+- Framwellgate School
+- School Cyber Safety and Standards Conference
 ---
 
 *(Image: Digital Safety CIC)*

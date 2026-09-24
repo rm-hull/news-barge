@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A1
+- Highways England
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

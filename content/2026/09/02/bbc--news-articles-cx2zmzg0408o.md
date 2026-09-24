@@ -12,6 +12,20 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4a2/live/f86ae0
 categories:
 - UK
 - News & Politics
+locations:
+- Beijing
+- China
+- Hong Kong
+people:
+- Joshua Wong
+- Louis Lee
+- Nathan Law
+- Tsang Kin-shing
+organisations:
+- League of Social Democrats
+- NSL
+- Reuters
+- Umbrella Movement
 ---
 
 ![Close up shot of Hong Kong democracy activist Joshua Wong speaking behind a cluster of television news microphones](https://ichef.bbci.co.uk/ace/standard/996/cpsprodpb/e4a2/live/f86ae0c0-a5df-11f1-ae66-53604efd186f.jpg)

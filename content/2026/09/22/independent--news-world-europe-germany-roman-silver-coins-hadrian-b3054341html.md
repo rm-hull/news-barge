@@ -12,6 +12,23 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/14/Germany_Archaeology__2385.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Cologne
+- Colonia Agrippina
+- Germany
+- LVR-LandesMuseum Bonn
+- Rhine River
+- Rhineland
+- Wesseling
+people:
+- Erich Classen
+- Hadrian
+- Marcus Vipsanius Agrippa
+- Oliver Riedl
+- Rahel Otte
+- Wesseling
+organisations:
+- LVR Office for the Preservation of Archaeological Monuments
 ---
 
 When amateur archaeologist Oliver Riedl’s metal detector refused to stop signalling in a field in western Germany, he realised he had uncovered far more than just a few loose items.

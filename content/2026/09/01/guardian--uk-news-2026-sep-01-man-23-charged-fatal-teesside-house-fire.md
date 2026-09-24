@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Cleveland
+- Grangetown
+- James Cook
+- Middlesbrough
+- Newcastle
+- Northumbria
+- Royal Victoria Infirmary
+- Teesside
+people:
+- Andy Burnham
+- Cole Worthy
+- Jaden Wright
+- Jakub Matusiak
+- Katie Nicholson
+- Katie Smith
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Shabana Mahmood
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- CPS North East
+- House of Commons
 ---
 
 Cleveland’s police force is to receive a £2m funding boost to tackle serious crime, after the home secretary said successive high-profile tragedies in the Middlesbrough area had led to a “sense of disquiet” in the community.

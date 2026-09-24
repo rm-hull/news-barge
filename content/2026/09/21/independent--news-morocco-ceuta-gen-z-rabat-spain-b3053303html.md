@@ -13,6 +13,28 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/04/Morocco_Elections_Youth_Vote_373_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ceuta
+- Morocco
+- Rabat
+- Sidi Moussa El Majdoub
+- Spain
+- Tanger Med
+people:
+- Hassan Challaoui
+- Mohammed VI
+- Sidi Moussa El Majdoub
+- Steven Höfner
+- Yassine Hasnaoui
+- Yassine Moujane
+organisations:
+- AP
+- Democratic and Social Movement
+- Gen Z
+- House of Representatives
+- Konrad Adenauer Stiftung
+- The Associated Press
+- World Bank
 ---
 
 A funeral in rural Morocco for an elderly woman became an unlikely campaign stop for candidates trying to motivate disenchanted young voters ahead of parliamentary elections Wednesday.

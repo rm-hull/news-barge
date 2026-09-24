@@ -16,6 +16,19 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/11/15/Justice_Department_Deportation_Court_45366.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Elliot Gaiser
+- Eric Tirschwell
+organisations:
+- Constitution
+- DOJ
+- Department of Justice
+- Everytown Law
+- Justice Department
+- Office of Legal Counsel
+- Supreme Court
+- U.S. Supreme Court
 ---
 
 Federal law banning licensed firearms dealers from selling handguns to young adults under age 21 is unconstitutional and can't be enforced, the Justice Department said in a legal opinion released Friday.

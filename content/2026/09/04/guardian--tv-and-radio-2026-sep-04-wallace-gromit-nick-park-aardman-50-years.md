@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Bethnal Green
+- Bristol
+- London
+people:
+- Aardman
+- David Sproxton
+- Gromit
+- Ngaio Harding-Hill
+- Nick Park
+- Peter Lord
+- Sean Clarke
+- Shaun the Sheep
+- Wallace
+organisations:
+- Aardman Academy
+- Aardman Animations
+- BBC
+- Chicken Run
+- Early Man
+- Feathers McGraw
+- Flushed Away
+- M Shed
+- Morph
+- Royal Mint
+- Wallace & Gromit
+- Wallace and Gromit
+- Young V&A
 ---
 
 The creator of Wallace and Gromit has revealed that the world’s most famous stop-motion animated dog was nearly a cat.

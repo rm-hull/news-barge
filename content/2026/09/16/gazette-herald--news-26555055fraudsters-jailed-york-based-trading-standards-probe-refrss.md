@@ -16,6 +16,41 @@ categories:
 - Personal Finance & Investing
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Bickerton
+- Birtley
+- Gainford
+- Gateshead
+- HMP Dovegate
+- HMP Holme House
+- Hessle
+- Hillfield Close
+- Hull
+- New Marske
+- North East
+- North Lincolnshire
+- Richmond Road
+- Salburn-by-the-Sea
+- Scarborough
+- Seamer
+- West Yorkshire
+people:
+- Allan Smith
+- Andrew Carty
+- Carla Finney
+- Christopher Morley
+- Frederick Finney
+- HMP Dovegate
+- Jenny Kent
+- Lord Bichard
+- Michael Olssen
+- Seamer
+- Shannon Finney
+organisations:
+- City of York Council
+- Humber Regional Investigation Team
+- National Trading Standards
+- National Trading Standards Yorkshire
 ---
 
 *(Image: Supplied)*

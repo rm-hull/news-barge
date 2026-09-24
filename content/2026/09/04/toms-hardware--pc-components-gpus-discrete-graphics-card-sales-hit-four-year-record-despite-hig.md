@@ -13,6 +13,28 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Panther Lake
+people:
+- Anton Shilov
+- Jon Peddie
+- Moore
+- Tom
+organisations:
+- AI GPU
+- AIB
+- AMD
+- ARC
+- Desktop GPU
+- Get Tom's Hardware
+- Google News
+- IMO Druid
+- Intel
+- JPR
+- Jabberwocky79
+- Jon Peddie Research
+- Nvidia GPU
+- Tom’s Hardware
 ---
 
 ![$200 GPU Face-off: Nvidia vs AMD vs Intel](https://cdn.mos.cms.futurecdn.net/SH2i5c93RLa8f9GvU6FJXi.jpg) 

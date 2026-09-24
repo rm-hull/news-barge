@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed0d/live/48e83d10-b457-11f1-ba76-4da528bd99e6.jpg
+locations:
+- Canada
+- England
+- Exeter
+- Ottawa
+- Sandy Park
+- Toronto
+- United States
+people:
+- Canada Mitchell
+- John Mitchell
+- Jones'
+- Meg Jones
+- Simon Middleton
+organisations:
+- Australia
+- Canada
+- Jones England
+- New Zealand
+- Red Roses
+- Scotland
 ---
 
 Watch highlights: England 26-26 Canada

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Family & Parenting
 - Health & Fitness
+locations:
+- Auburn
+- Harrow Road
+- New South Wales
+- Sydney
+people:
+- Darren Sly
+organisations:
+- 2GB
+- CCTV
+- Crime Stoppers
 ---
 
 New South Wales police have appealed for information to find the mother of a newborn baby boy, whose body was discovered in a rubbish bin in Auburn in Sydney’s west on Monday morning.

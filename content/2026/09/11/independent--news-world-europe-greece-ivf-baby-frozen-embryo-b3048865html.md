@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Athens
+- Australia
+- Georgia
+- Greece
+- Melbourne
+- Ohio
+people:
+- Constantinos Raptis
+- Cristina Rapti-Tzelepi
+- Giorgos
+- Kostas Pantos
+- Ms Rapti-Tzelepi
+organisations:
+- Guinness World Records
+- Hellenic Society of Reproductive Medicine
 ---
 
 A Greek couple have made a fresh start following tragedy by welcoming a baby girl this week, using an embryo preserved for more than two decades.

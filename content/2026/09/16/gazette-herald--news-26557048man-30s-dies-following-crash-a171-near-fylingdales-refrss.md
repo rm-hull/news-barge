@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A171
+- Daytona
+- Fylingdales
+- Helwath Beck
+- North Yorkshire
+- Scarborough
+- Whitby
+people: []
+organisations:
+- North Yorkshire Police
+- Serious Collision Investigation Unit
+- Volvo
 ---
 
 *(Image: Google Maps)*

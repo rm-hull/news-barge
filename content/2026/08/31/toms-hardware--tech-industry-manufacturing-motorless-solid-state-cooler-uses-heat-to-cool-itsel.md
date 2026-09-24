@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Germany
+- Japan
+people:
+- Tom
+organisations:
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- KIT
+- KIT-Tsukuba
+- Karlsruhe Institute of Technology
+- PC
+- TiNi
+- Tom's Hardware
+- University of Tsukuba
 ---
 
 ![elastocaloric cooling](https://cdn.mos.cms.futurecdn.net/KqBokvkVTxM9Mkyjj2L4t.jpg) 

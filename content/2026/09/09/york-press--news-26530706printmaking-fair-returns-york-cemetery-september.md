@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Chapel and Harriet Room
+- York Cemetery
+people:
+- Jane Duke
+- Jen Dring
+- Roger Goldthorpe
+organisations:
+- '## York Printmakers'
+- York Open Studios
+- York Printmakers
 ---
 
 ## York Printmakers fair returns with original artwork from more than 20 artists

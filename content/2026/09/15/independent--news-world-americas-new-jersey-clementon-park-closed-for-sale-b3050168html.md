@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Clementon Park
+- King Neptune
+- New Jersey
+- West Berlin
+people:
+- Theodore B. Gibbs
+organisations:
+- Assembly
+- CBS
+- Clementon Park
+- Clementon Park & Splash World Team
+- IB Parks & Entertainment
+- Jack Rabbit
+- Sahara Sam’s
+- Splash World
+- The Philadelphia Inquirer
+- WKRC
 ---
 
 New Jersey’s historic Clementon Park and Splash World has permanently closed following the conclusion of its 2026 season on September 7, with ownership now seeking a buyer to take over the property.

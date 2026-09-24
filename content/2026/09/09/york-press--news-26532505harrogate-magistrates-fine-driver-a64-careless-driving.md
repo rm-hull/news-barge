@@ -13,6 +13,15 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Copperfield Close
+- Harrogate
+- Sherburn-in-Elmet
+- Tadcaster
+people:
+- Stephen Wainwright
+organisations:
+- A64
 ---
 
 *(Image: PA)*

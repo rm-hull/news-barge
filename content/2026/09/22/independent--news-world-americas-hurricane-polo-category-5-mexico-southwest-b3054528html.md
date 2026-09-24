@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/19/05/Screenshot-2026-09-22-at-3-00-23-PM.jpg?trim=0,38,0,38&width=1200&height=800&crop=1200:800
+locations:
+- Baja of California
+- Hurricane Polo
+- Mexico
+- Pacific
+- Phoenix
+- Salt Lake City
+- Southern Arizona
+- Southwest California
+- Southwestern
+- U.S.
+- United States
+- Utah
+people:
+- Alexander Duffus
+organisations:
+- Maricopa County Sheriff’s Office
+- National Hurricane Center
+- National Weather Service
+- Polo
+- The Independent
 ---
 
 Hurricane Polo has grown into a Category 5 storm in the Pacific, and it could bring downpours to the Southwestern United States by next week.

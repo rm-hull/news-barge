@@ -10,6 +10,19 @@ description: A total of eight flaws were fixed
 image: https://cdn.mos.cms.futurecdn.net/4vPx4qpVwRADJoMvv3gttX-970-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Cisco IOS XR7
+- Google News
+- LNT
+- Represent Communications
+- Silicon One ASIC
+- TechRadar Pro
 ---
 
 ![Cisco](https://cdn.mos.cms.futurecdn.net/4vPx4qpVwRADJoMvv3gttX.jpg) 

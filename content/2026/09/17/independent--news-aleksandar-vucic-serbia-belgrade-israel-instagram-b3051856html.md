@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Balkan
+- Belgrade
+- China
+- Israel
+- Krusik
+- Russia
+- Serbia
+people:
+- Aleksandar Vucic
+organisations:
+- BIRN
+- Elbit Systems
+- European Union
+- Instagram
+- Rafale
+- SDPR
+- Yugoimport
 ---
 
 Serbia's President Aleksandar Vucic said Thursday he has inaugurated an assembly factory for Israel-made drones in the Balkan country to boost its military.

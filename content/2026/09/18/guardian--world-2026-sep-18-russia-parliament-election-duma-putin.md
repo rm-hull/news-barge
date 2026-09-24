@@ -12,6 +12,25 @@ image: https://i.guim.co.uk/img/media/7ec8bddc32c541f2ecf2f3f4e833fe60d2531904/3
 categories:
 - UK
 - News & Politics
+locations:
+- Armenia
+- Kremlin
+- Moscow
+- Ukraine
+- United Russia
+- Yerevan
+people:
+- Dmitry
+- Farida Rustamova
+- Vladimir Gelman
+- Vladimir Putin
+- Yabloko
+organisations:
+- Liberal Democrats
+- State Duma
+- United Russia
+- University of Helsinki
+- Vlast
 ---
 
 Russians are going to the polls to elect a new State Duma in a tightly controlled vote stripped of meaningful competition and with little doubt about the result.

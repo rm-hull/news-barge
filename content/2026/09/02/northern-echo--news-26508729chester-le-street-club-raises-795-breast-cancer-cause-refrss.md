@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Chester-le-Street
+- GRANGE VILLA
+- North East
+people:
+- Bobby Robson
+- Grange Villa
+- Rachael Thompson
+organisations:
+- Castle Howard
+- Centre for Democratic Business
+- County Durham
+- GRANGE VILLA WORLING MEN'S CLUB
+- Grange Villa Working Men's Club
 ---
 
 *(Image: GRANGE VILLA WORLING MEN'S CLUB)*

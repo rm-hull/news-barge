@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckingham Palace
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Harry
+- King
+- Laura Kuenssberg
+- William
+organisations:
+- BBC
+- then-Prince of Wales
 ---
 
 # Watch: Diana's brother says Charles 'went ballistic' in phone call after her death

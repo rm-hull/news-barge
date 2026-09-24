@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/19860626.jpg?type=og-image
+locations:
+- Durham
+- North Yorkshire
+people:
+- Andrew Murday
+- Chris Aldred
+- Marie Curie
+organisations:
+- Liberal Democrat
+- Lumiere
+- North Yorkshire Council
+- Northallerton BID
 ---
 
 *(Image: LDRS)*

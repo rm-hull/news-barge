@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Chichester
+- Shakespeare
+- UK
+- West Sussex
+people:
+- Billy Elliot
+- Jamie Oliver
+- Jonny Oliver
+- Lawson
+- Munya Chawawa
+- Nando
+- Nigella
+- Ryan Calais Cameron
+- Shakespeare
+- Theseus
+organisations:
+- Arts Council England
+- Bafta-nominated TV
+- Black Boys Theatre Club
+- Bottom
+- Chichester Festival Theatre
+- Dracula
+- Munya Chawawa
+- Shakespeare
+- Tory
+- Unknown P
 ---
 
 ![Munya Chawawa in a black suit with red shirt and tie, posing for the camera in front of a red background](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/72ef/live/2168d460-a6ac-11f1-b048-153395f36aa1.jpg)

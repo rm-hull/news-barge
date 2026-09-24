@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Bishopthorpe
+- Lang Road
+- Sim Balk Lane
+- York
+people: []
+organisations:
+- Bishopthorpe Infant School
+- CCTV
+- North Yorkshire Police
 ---
 
 A man made sexual gestures at a young girl near a York primary school.

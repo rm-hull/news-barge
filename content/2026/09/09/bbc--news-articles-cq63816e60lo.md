@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Film & TV
 - Technology & Software
+locations:
+- UK
+people:
+- Alan Carr
+- Danny Beard
+- Graham Norton
+- Jordan Burrow
+- Matt Brittin
+- Michelle Visage
+- Ru Paul
+- RuPaul
+- Tia Kofi
+organisations:
+- BBC News
+- BBC Three
+- Drag Race UK
+- Instagram
+- La Voix
+- Ru Paul
+- RuPaul
+- The World
+- Wow Presents Plus
+- iPlayer
 ---
 
 ![Michelle Visage, Graham Norton, Ru Paul and Alan Carr on the main stage of Ru Paul's Drag Race UK. Michelle is wearing a latext dress, graham a golden blazer, and ru is wearing a pink and red dress with red furry boots. Alan is wearing a pink shirt and a leopard print blazer, stage lights illuminate the background and everyone is smiling at the camera for a promotional image.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/716f/live/1b5de710-ac86-11f1-ab14-5b9069dc795d.jpg)

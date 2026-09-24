@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/11/12/2026-09-11T034031Z_1093061
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- Beijing
+- China
+- D.C.
+- Dallas
+- Texas
+- U.S.
+- Washington
+people:
+- AI
+- Bev Turner
+- Dasha Burns
+- Donald Trump
+- Jacob Coxon
+- Mao Ning
+- Ted Cruz
+- Xi Jinping
+organisations:
+- Air Force One
+- Alibaba
+- American AI
+- DeepSeek
+- GB News
+- Moonshot AI
+- Trump
+- Truth Social
 ---
 
 President Donald Trump has dismissed concerns about artificial intelligence posing an existential threat to humanity but stressed it was important for the U.S. to “win” the battle for control of the technology with China.

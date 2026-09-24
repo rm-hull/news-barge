@@ -13,6 +13,38 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Dorohusk
+- Dołhobyczów
+- Hrebenne
+- Jagodzin
+- Lublin
+- Moscow
+- Podkarpackie
+- Poland
+- Russia
+- Ukraine
+- Volyn
+- Zosin
+people:
+- Andrii Sybiha
+- Dariusz Sienicki
+- Major Sienicki
+- Putin
+- Ukrzaliznytsia
+- Władysław Kosiniak-Kamysz
+organisations:
+- Border Guard
+- EU
+- Government Centre for Security
+- NATO
+- Operational Command of the Armed Forces
+- PAP
+- SAAB
+- Telegram
+- Ukrainian Air Force
+- Ukrainian Railways
+- Ukrzaliznytsia
 ---
 
 ## "We are continuing to monitor aerial threats, ensure the smooth running of trains and take every possible measure to ensure the safety of passengers and railway staff," Ukrzaliznytsia said.

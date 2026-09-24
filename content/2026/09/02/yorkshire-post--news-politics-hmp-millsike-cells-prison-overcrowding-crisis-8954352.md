@@ -14,6 +14,35 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- HMP Millsike
+- North East
+- York
+people:
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Ian Carson
+- Jessie Cole
+- Lord Timpson
+- Millsike
+- Pc Harper
+organisations:
+- '## Justice'
+- BBC Breakfast
+- Government
+- HMP Full Sutton
+- HMP Millsike
+- HMP Sutton
+- Independent Monitoring Board
+- LDRS
+- Ministry of Justice
+- Mitie
+- MoJ
+- Prison Officers’ Association
+- Thames Valley Police
+- Yorkshire
 ---
 
 # HMP Millsike: hundreds of cells will remain empty despite prison overcrowding crisis

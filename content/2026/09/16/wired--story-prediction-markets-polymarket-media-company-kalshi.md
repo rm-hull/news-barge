@@ -12,6 +12,48 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- US
+- United States
+people:
+- Almar Latour
+- Amanda Hirsch
+- Bryan Goldberg
+- Claudia
+- Jack Such
+- Jackie Oshry
+- Kalshi
+- Nate Silver
+- Polymarket
+- PopCrave
+- Shayne Coplan
+organisations:
+- Bloomberg
+- Bustle Digital Group
+- CNBC
+- CNN
+- Dear Media
+- Dow Jones
+- Elite Daily
+- Eventual
+- Feeld
+- Fox Corp
+- Hunterbook News
+- Kalshi
+- Lightshed Capital
+- Meta
+- NPR
+- New York Times
+- Polymarket US
+- Robinhood
+- Sherwood
+- Squads
+- Substack
+- Supreme Court
+- The Athletic
+- TikTok
+- WIRED
+- Wall Street Journal
 ---
 
 Every day, a newsletter from the prediction market Polymarket hits my inbox with a subject line that could easily come from any number of politics-focused newspapers or magazines. Recent entries include “Houthis Reveal New Precision Strike Capabilities,” “BREAKING: Trump Unveils Green Energy Beam,” and “World War I, 2.0?”

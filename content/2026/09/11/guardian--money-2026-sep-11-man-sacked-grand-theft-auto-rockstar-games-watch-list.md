@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Canada
+- Edinburgh
+- Glasgow
+- Rockstar North
+- Scotland
+- UK
+people:
+- Dayne Oram
+- Lucy Wiseman
+- Thomas Cordrey
+organisations:
+- Discord
+- GTA VI
+- Grand Theft Auto
+- Grand Theft Auto VI
+- Independent Workers’ Union of Great Britain
+- Rockstar Games
+- Rockstar Games’
+- Rockstar North
 ---
 
 A worker fired by the makers of Grand Theft Auto has said he believed employees were put on a “watch list” after signing a petition about remote working.

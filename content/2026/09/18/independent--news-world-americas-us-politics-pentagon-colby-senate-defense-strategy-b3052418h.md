@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arizona
+- D-Mich.
+- Iran
+- Mississippi
+- Nevada
+- North Dakota
+- R-Ind.
+- South Dakota
+people:
+- Dan Caine
+- Donald Trump
+- Elbridge Colby
+- Elissa Slotkin
+- Jacky Rosen
+- Jim Banks
+- Kevin Cramer
+- Mark Kelly
+- Mike Rounds
+- Pete Hegseth
+- Roger Wicker
+organisations:
+- America First
+- Congress
+- Defense Department
+- Federal
+- Joint Chiefs of Staff
+- National Defense Strategy
+- National Guard
+- Pentagon
+- Senate Armed Services Committee
 ---
 
 Friction is mounting between Congress and the Pentagon over the flow of information regarding American military priorities, with lawmakers across party lines accusing a senior defense official of opacity.

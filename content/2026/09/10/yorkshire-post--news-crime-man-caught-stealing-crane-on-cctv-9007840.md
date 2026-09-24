@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Chesterfield Magistrates’ Court
+- Derbyshire
+- Holbrook
+- Long Acre View
+- Sheffield
+- Yorkshire
+people:
+- John Patrick Lee
+organisations:
+- CCTV
 ---
 
 # Yorkshire thief caught on CCTV stealing crane from construction site

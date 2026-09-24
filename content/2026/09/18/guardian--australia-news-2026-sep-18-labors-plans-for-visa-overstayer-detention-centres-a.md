@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Australia
+- US
+- Victoria
+people:
+- Abul Rizvi
+- David Shoebridge
+- Donald Trump
+- Gillian Triggs
+- Kon Karapanagiotidis
+- Peter Dutton
+- Sanmati Verma
+- Tony Abbott
+- Tony Burke
+organisations:
+- AAP
+- Albanese Government
+- Asylum Seeker Resource Centre
+- Australian Associated Press
+- Australian Human Rights Commission
+- Greens
+- Guardian Australia Shoebridge
+- Human Rights Law Centre
+- ICE
+- Labor
+- MTC
+- Management and Training Corporation
+- National Press Club
+- Secure Journeys
+- The Green
 ---
 
 The federal government’s move to reopen detention centres for visa overstayers, overseen by compliance officers, has drawn comparison from the Greens and advocates to Donald Trump’s sweeping immigration crackdown in the US.

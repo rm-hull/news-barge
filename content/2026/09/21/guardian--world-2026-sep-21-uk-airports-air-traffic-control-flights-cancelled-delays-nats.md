@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/32732690f8a95bb75a54f8a099fe8b3164ddd800/256_0_3024_2420/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0715db72f1443c1b576db209214df04
+locations:
+- England
+- Glasgow
+- Heathrow
+- Las Vegas
+- Nats Prestwick
+- Northern Ireland
+- Scotland
+- UK
+- US
+people:
+- Andrew Lithgow
+- Barbara Ann Stoddart
+- Heidi Alexander
+- Martin Rolfe
+- Neal McMahon
+- Steve Heapy
+organisations:
+- BA
+- British Airways
+- CAA
+- Cirium
+- Civil Aviation Authority
+- EasyJet
+- Jet2
+- National Air Traffic Services
+- Nats
+- Ryanair
+- easyJet
 ---
 
 Airlines have called for “action and accountability” over the UK’s air traffic control services after a technical issue led to flights being disrupted for the second time in a fortnight.

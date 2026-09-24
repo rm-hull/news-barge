@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- SteamDB
+people: []
+organisations:
+- Ada Lovelace
+- Blackwell
+- DLSS-G
+- Get Tom's Hardware
+- IKEA
+- Microsoft
+- NVIDIA
+- Nvidia
+- PC
+- The Elder Scrolls
+- Valve
 ---
 
 ![Skyrim Kallax Storageborn companion](https://cdn.mos.cms.futurecdn.net/G73P3irdKu9575Pe64Doem-320-80.jpg)

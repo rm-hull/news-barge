@@ -13,6 +13,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- London
+people:
+- Adam Minto
+- Laurence Newman
+- Tom Allsworth
+organisations:
+- Beauty Tech Group
+- Boohoo Group
+- Boots
+- Currentbody Skin
+- Debenhams Group
+- Debenhams’
+- Revolution Beauty
+- Superdrug
+- The Beauty Tech Group
+- Tria Laser
+- ZIIP Beauty
 ---
 
 Revolution Beauty is set to return to profit in its first half as the firm’s turnaround continues to gather pace.

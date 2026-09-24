@@ -15,6 +15,18 @@ categories:
 - Harrogate
 - Government
 - History
+locations:
+- Alaska
+- Barrow
+- West Cliff
+- Whitby Abbey
+- Whitby Town
+people:
+- Bronze
+- Mark Crane
+- Sandra Turner
+organisations:
+- Whitby
 ---
 
 ![Whitby whale bones being removed](https://www.northyorks.gov.uk/sites/default/files/2026-09/2whale%20bones%20removed.jpg) 

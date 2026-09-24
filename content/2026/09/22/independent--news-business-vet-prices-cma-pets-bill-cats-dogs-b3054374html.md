@@ -12,6 +12,18 @@ categories:
 - UK
 - Pets & Animals
 image: https://static.independent.co.uk/2026/08/25/16/45/iStock-2160576555.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Martin Coleman
+- Rob Williams
+- Sue Davies
+organisations:
+- British Veterinary Association
+- CMA
+- Competition and Markets Authority
+- Government
+- Inquiry Group
 ---
 
 Pet owners are set to benefit from the most significant overhaul of the veterinary sector in a generation, as clinics face new legal obligations to make their fees fully transparent.

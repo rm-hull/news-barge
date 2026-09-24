@@ -13,6 +13,13 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/11/120586b175699dcc58dd64cf9cd24c42Y29udGVudHNlYXJjaGFwaSwxNzkwMDcxMjQ4-2.9988338.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Pushpin Singh
+organisations:
+- Asda Income Tracker
+- Bank of England
+- Cebr
 ---
 
 Household spending power has hit a six-month low as rising essential costs outstrip wage growth, according to supermarket figures.

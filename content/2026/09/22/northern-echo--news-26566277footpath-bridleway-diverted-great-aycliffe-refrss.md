@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/19109350.jpg?type=og-image&xType=0&yType=109
+locations:
+- Great Aycliffe
+- Great Aycliffe Parish
+- YOUR
+people: []
+organisations:
+- Durham County Council
+- Public Notice Portal
+- The Northern Echo
+- Town and Country Planning and the Wildlife and Countryside Act
 ---
 
 *(Image: Pixabay)*

@@ -12,6 +12,28 @@ image: https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Navier-Stokes
+- Wimbledon
+people:
+- AI
+- Alex Townsend
+- Claude
+- Diego Córdoba
+- Levent Alpöge
+- Luis Martínez-Zoroa
+- Steven Strogatz
+- Strogratz
+- Tristan Buckmaster
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Cornell University
+- New York University
+- OpenAI
+- WIRED
 ---
 
 Mathematician and author Steven Strogatz starts to cry when he talks about the artificial-intelligence-driven breakthroughs in his field over the past week.

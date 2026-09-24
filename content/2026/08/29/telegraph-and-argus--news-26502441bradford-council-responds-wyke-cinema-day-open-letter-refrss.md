@@ -13,6 +13,19 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Sports Village
+- Wyke Recreation Ground
+- Wyke Sports Village
+people:
+- Ian Walker
+- Jodie Cottrell
+organisations:
+- Big TV
+- Bradford Council
+- British Cycling
+- Sports Village
+- Telegraph & Argus
 ---
 
 *(Image: Jodie Cottrell / Big TV)*

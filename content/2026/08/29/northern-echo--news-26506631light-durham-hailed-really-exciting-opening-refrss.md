@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Aykley Heads
+- Cockfield
+- Darlington
+- North East
+people:
+- Dan Flavin
+- Olafur Eliasson
+- SARAH CALDECOTT
+- Steve McQueen
+- Tony Guillan
+- Tracey Emin
+organisations:
+- Durham County Council
+- North East
+- Pittington Brass Band
+- The Cequin Circus
+- The Light
 ---
 
 Durham’s new cultural venue The Light has been hailed as "really exciting and thrilling” after a successful opening weekend.

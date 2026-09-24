@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Berlin
+- Harlem
+- Israel
+- Nazi Germany
+- New York
+- New York City
+- Norwegian Cruise Line
+- Paris
+- Shanghai
+- Tibet
+- US
+- White House
+people:
+- Adam Max
+- Beatles
+- Elizabeth Nance
+- Heinz Edelmann
+- Libra
+- Mary Max
+- Nancy Reagan
+- Peter Max
+- Peter Max Finkelstein
+- Satchidananda Saraswati
+- Swami
+- Taylor Swift
+organisations:
+- IRS
+- Manhattan Yellow Pages
+- Statue of Liberty
 ---
 
 Peter Max, whose colorful, psychedelic pop art expressed the optimism of the “flower power” movement of the 1960s and graced everything from postage stamps to a cruise ship, has died at 88.

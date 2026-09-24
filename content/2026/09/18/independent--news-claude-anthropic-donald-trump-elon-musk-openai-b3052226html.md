@@ -13,6 +13,19 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Claude
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Sam Altman
+organisations:
+- AI
+- Amodei
+- Anthropic
+- OpenAI
 ---
 
 Anthropic's Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.

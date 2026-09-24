@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Abraham Mofokeng
+- Johannesburg
+- Sharpeville
+- South Africa
+people:
+- Abraham Mofokeng
+- Charne Tracey
+- Desmond Tutu
+- Ian Berry
+- Larazus Magotsi
+- Nelson Mandela
+- Prof Frans Viljoen
+- Sharpeville
+organisations:
+- BBC News Africa
+- High Court
+- Human Rights Precinct
+- Larazus Magotsi
+- Lawyers for Human Rights
+- Leigh Day
+- Pan Africanist Congress
+- TRC
+- Truth and Reconciliation Commission
 ---
 
 ![Abraham Mofokeng in a brown patterned cardigan and beanie hat stands by a white monolith. Out of focus, in the background, are other white monoliths - they are part of a memorial.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png)

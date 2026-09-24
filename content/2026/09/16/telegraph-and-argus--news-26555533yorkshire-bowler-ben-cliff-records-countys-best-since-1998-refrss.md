@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Headingley
+people:
+- Allan McKenzie
+- BEN Cliff
+- Craig White
+- Frank Smailes
+- Peter Hartley
+- Steve Kirby
+organisations:
+- Derbyshire
+- Gloucestershire
+- Somerset
+- Yorkshire
 ---
 
 *(Image: Allan McKenzie/SWpix.com)*

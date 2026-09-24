@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Pennsylvania
+- Shanksville
+people: []
+organisations:
+- Chalk
 ---
 
 Chalk artists have gathered at the Flight 93 National Memorial in Shanksville, Pennsylvania, to draw portraits of the 40 passengers and crew members killed on September 11, 2001.

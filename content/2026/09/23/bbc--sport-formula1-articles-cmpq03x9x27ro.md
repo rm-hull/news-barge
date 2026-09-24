@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8918/live/fe3a4800-b738-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Australia
+- Barcelona
+- Middle East
+- Monaco
+- Monza
+- Silverstone
+people:
+- George Russell
+- Kimi Antonelli
+- Lewis Hamilton
+- Mercedes
+- Monaco.
+- Monza Antonelli
+- Toto Wolff
+organisations:
+- Antonelli
+- BBC Sport
+- F1
+- Formula 1
+- Mercedes
+- Monaco
 ---
 
 ![Kimi Antonelli surrounded by photographers while holding the winner's trophy after the 2026 Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8918/live/fe3a4800-b738-11f1-aa9c-3d062fa3aea7.jpg)

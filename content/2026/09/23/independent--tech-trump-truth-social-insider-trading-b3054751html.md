@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.the-independent.com/2026/09/10/16/2217179973..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- San Francisco
+- US
+- Wall Street
+people:
+- David Chiu
+- Donald Trump
+organisations:
+- AI
+- CBS News Bay Area
+- The Independent
+- Trump Media
+- Truth API
+- Truth Social
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

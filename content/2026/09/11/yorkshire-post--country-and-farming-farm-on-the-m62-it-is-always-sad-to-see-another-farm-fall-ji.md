@@ -14,6 +14,11 @@ categories:
 - York
 - Arts & Culture
 - Business & Entrepreneurship
+locations: []
+people:
+- Jill Thorp
+- Paul
+organisations: []
 ---
 
 # Farm on the M62: It is always sad to see another farm fall - Jill Thorp

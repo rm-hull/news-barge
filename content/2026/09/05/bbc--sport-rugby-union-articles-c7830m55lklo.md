@@ -13,6 +13,84 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Baltimore
+- Cape Town
+- New Zealand
+- South Africa
+- Soweto
+- TestSouth Africa
+- United States
+people:
+- :** Arendse
+- :** Kolbe
+- :** Love
+- :** McKenzie
+- :** Mngomezulu
+- :** Savea
+- Ardie Savea
+- Asafo Aumua
+- Boks
+- Bower
+- Cheslin Kolbe
+- Damian de Allende
+- Dave Rennie
+- De Allende
+- De Jager
+- Esterhuizen
+- Etzebeth
+- Fletcher Newell
+- Fourie
+- Hanekom
+- Holland
+- Hooker
+- J Barrett
+- Jacobson
+- Jesse Kriel
+- Kurt-Lee Arendse
+- Leroy Carter
+- Libbok
+- Lienert-Brown
+- Lomax
+- Malcolm Marx
+- McKenzie South Africa
+- Moorby
+- New Zealand
+- Nortje
+- Numia
+- Ox Nche
+- PS du Toit
+- Peter Lakai
+- Preston
+- Rassie Erasmus
+- Reinach
+- Roigard
+- Ruben Love
+- Sacha Feinberg-Mngomezulu
+- Sam Darry
+- Samisoni Taukei'aho's
+- Savea Replacements
+- Sititi
+- Siya Kolisi
+- Steenekamp
+- T du Toit
+- Taukei'aho
+- Tupaea
+- Tupou Vaa'i
+- Vaa'I
+- Van den Berg
+- Wiese Replacements
+- Wilco Louw
+- Will Jordan
+organisations:
+- All Black
+- All Blacks
+- Incomparables
+- New Zealand
+- Savea
+- Soccer City
+- Springbok
+- Springboks
 ---
 
 ![Jesse Kriel](https://ichef.bbci.co.uk/ace/standard/932/cpsprodpb/2b25/live/0a74d1c0-a94d-11f1-ae8c-2528accc9a1a.jpg)

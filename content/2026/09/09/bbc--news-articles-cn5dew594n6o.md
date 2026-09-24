@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- London
+- UK
+people:
+- Anabel Kindersley
+- Charlie Bowes-Lyon
+- Charlie Nunn
+- Charlotte Tilbury
+- James Reed
+- Marcia Kilgore
+organisations:
+- AI
+- Beauty Pie
+- Bloomberg Television
+- Charlotte Tilbury
+- Lloyds Banking Group
+- Neal's Yard Remedies
+- Reed Executive Ltd.
+- Wild
 ---
 
 Big bosses reveal the secret to getting hired

@@ -13,6 +13,57 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Abu Dhabi
+- Australia
+- Celtic
+- Glasgow
+- London
+- PT
+- Scotland.
+- UK
+- US
+- USA
+- uk
+people:
+- Adrian Back
+- Bojan Miovski
+- Camilo Duran
+- Derek McInnes
+- Kasper Hogh
+- Luke McCowan
+- Martin O’Neill’s
+- Tuur Rommens
+organisations:
+- Amazon Video
+- Bhoys
+- CBS Sports Golazo
+- CBS Sports Golazo Network
+- Celtic Park
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Gers
+- Hoops'
+- Ibrox
+- LASK
+- NBA
+- Newsweek
+- NordVPN
+- Old Firm
+- Paramount
+- Premier Sports 1
+- Premier Sports**
+- Ranger
+- Rangers
+- Red Bull
+- Scotland
+- Sky
+- St Mirren
+- TechRadar
+- World Soccer Magazine
+- Yahoo
+- beIN SPORTS CONNECT
 ---
 
 ![Luke McCowan of Celtic vies with Tuur Rommens of Rangers during the Premier League match between Celtic and Rangers at Celtic Park on May 10, 2026 in Glasgow, Scotland.](https://cdn.mos.cms.futurecdn.net/wk7k93kQfukqpxp6WjR5uX.jpg) 

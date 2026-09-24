@@ -11,6 +11,18 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Hampstead
+- Harrogate
+- James Street
+- London
+- UK
+people:
+- Gail
+organisations:
+- Gail's Bakery
+- Harrogate
+- Russell & Bromley
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3e8d5c5a9aefd82f.jpg) 

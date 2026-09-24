@@ -14,6 +14,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Australia
+- England
+- Fiji
+- Ireland
+- Italy
+- Johannesburg
+- Liverpool
+- South Africa
+people:
+- Andy Farrell
+- Conor O'Shea
+- Courtney Lawes
+- Jack Willis
+- John Mitchell
+- Roses
+- Serena Williams
+- Steve Borthwick
+- Tiger Woods
+organisations:
+- '## Red Roses'
+- Brive
+- England
+- English Prem
+- Harlequins
+- London Irish As
+- PWR
+- Premiership Women's Rugby
+- RFU
+- Red Roses
+- Rugby Football Union
+- Rugby Union Weekly
+- Sale
+- Toulouse
 ---
 
 ![England coach Steve Borthwick shouts during a training session in June 2026](https://ichef.bbci.co.uk/ace/standard/779/cpsprodpb/9a5e/live/9cff5010-ac13-11f1-940e-bf738e043799.jpg)

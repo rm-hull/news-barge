@@ -12,6 +12,31 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/21481617.jpg?type=og-image
+locations:
+- Freedom of the Town of Whitby
+- North York Moors
+- North Yorkshire
+- RAF Station
+- Scarborough Cliff Lift
+- UK
+- United Kingdom
+people:
+- Alison Hume
+- Toby Steward
+organisations:
+- '## RAF Fylingdales'
+- Corps of Royal Electrical and Mechanical Engineers
+- Freedom of the Town
+- Google Maps
+- Newsquest
+- RAF Fylingdales
+- REME
+- Raf Fylingdales
+- Royal Air Force
+- UK’s Space Command
+- US Governments
+- Whitby Town Council
+- Wing
 ---
 
 ## RAF Fylingdales to receive Whitby’s ‘highest honour’ after six decades of service

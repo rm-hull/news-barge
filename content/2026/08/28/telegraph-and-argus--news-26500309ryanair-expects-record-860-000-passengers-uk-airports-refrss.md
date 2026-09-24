@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- UK
+people:
+- Jade Kirwan
+organisations:
+- Newsquest
+- RYANAIR
+- Ryanair
 ---
 
 *(Image: Newsquest)*

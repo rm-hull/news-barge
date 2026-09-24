@@ -12,6 +12,25 @@ categories:
 - Local
 - Harrogate
 - Self-Improvement
+locations:
+- '**Goldthorpe'
+- Barnsley
+- Bradford
+- Yorkshire
+people:
+- Carey Taylor
+- Manningham
+- Ripaljeet Kaur
+organisations:
+- '**Yorkshire Ambulance Service Charity'
+- CFRs
+- Community Engagement and Resilience Officer
+- Community First Responders
+- Community Trainers
+- Harrogate Informer
+- NHS Charities Together**Community Resilience Grants Fund
+- YAS Charity
+- Yorkshire Ambulance Service
 ---
 
 **YORKSHIRE** — Regional healthcare leaders have initiated a targeted emergency response program across select high-demand communities, deploying major national grant funding to combat deep-seated regional health inequalities.

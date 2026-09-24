@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thetelegraphandargus.co.uk/resources/images/19696163.jpg?type=og-image
+locations:
+- Gallagher Leisure Park
+- Leeds
+- Light Bradford
+- The Broadway
+people: []
+organisations:
+- '## ODEON Luxe Leeds Bradford'
+- Cineworld Bradford
+- ODEON Luxe Leeds Bradford
+- The Leisure Exchange
+- The Light Bradford
 ---
 
 *(Image: T&A)*

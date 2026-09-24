@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Bourbon Street
+- California
+- Maine
+- New Orleans
+- New York
+- San Diego
+- South Carolina
+- Tennessee
+- TikTok
+- US
+- Virginia
+people:
+- David Venturella
+- Dina El-Kassaby
+- Evan Greer
+- Ryan Shapiro
+organisations:
+- AI
+- DHS
+- Department of Corrections
+- Department of Homeland Security
+- FBI
+- Fight for the Future
+- Guardian
+- ICE
+- Meta Glasses
+- NYPD
+- New York Police Department
+- New York Times
+- OpenAI
+- Property of the People
+- Ray-Ban Meta
+- US Immigration and Customs Enforcement
 ---
 
 In January, the New York Police Department’s counterterrorism unit sent out a memo warning police officers about a new potential “security and counterintelligence” threat: Ray-Ban Meta glasses.

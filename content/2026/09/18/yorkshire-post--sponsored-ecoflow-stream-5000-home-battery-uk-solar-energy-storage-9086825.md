@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Britain
+- UK
+people:
+- Justin Tilley
+organisations:
+- ?** EcoFlow
+- AC
+- Channel Lead, UK&E
 ---
 
 # EcoFlow launches compact home battery to help UK households get more from solar power and slash energy bills

@@ -13,6 +13,19 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- North Carolina
+people:
+- Ken Karklin
+- Larry Page
+- Mike Ross
+- Pivotal
+organisations:
+- Advanced Air Mobility
+- BlackFly
+- Board
+- Federal Aviation Administration
+- Pivotal
 ---
 
 The CEO of a flying car company backed by Larry Page has left the company.

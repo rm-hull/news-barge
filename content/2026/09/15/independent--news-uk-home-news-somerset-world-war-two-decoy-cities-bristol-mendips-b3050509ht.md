@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Avonmouth Docks
+- Black Down
+- Bristol
+- Britain
+- Chew Magna
+- Mendips
+- Somerset
+- Temple Meads
+- Uphill
+- Weston-super-Mare
+people:
+- Cecil Bright
+- Donald Brown
+- Hitler
+- John Turner
+- Luftwaffe
+- Mike Harvey
+- Winston Churchill
+organisations:
+- Home Guard
+- Mendip Society
+- Pinewood Studios
+- RAF
+- Shepperton Film Studios
 ---
 
 It would play a part in one of the most cunning and downright dangerous Second World War deceptions on British soil – but the stories of those who built and ran it remain largely unknown.

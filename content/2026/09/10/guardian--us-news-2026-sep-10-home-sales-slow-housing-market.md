@@ -14,6 +14,17 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Iran
+- US
+people:
+- Heather Long
+- Lawrence Yun
+organisations:
+- FactSet
+- NAR
+- National Association of Realtors
+- Navy Federal Credit Union
 ---
 
 Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.

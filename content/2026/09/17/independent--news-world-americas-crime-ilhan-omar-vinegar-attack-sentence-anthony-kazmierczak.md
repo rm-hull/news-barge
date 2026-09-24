@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Minneapolis
+- Minnesota
+- Somalia
+- Twin Cities
+- U.S.
+people:
+- Anthony Kazmierczak
+- Donald Trump
+- Ilhan Omar
+- Joan N. Ericksen
+- Joe Biden
+organisations: []
 ---
 
 The man who sprayed vinegar at Democratic U.S. Rep. Ilhan Omar during a Minneapolis town hall meeting was sentenced Thursday to the 14 months in prison prosecutors had asked for.

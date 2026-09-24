@@ -13,6 +13,18 @@ categories:
 - York
 - Family & Parenting
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEwOTdlODE3LWJkNGEtNGUyZS1hZThlLTJlYjA1ZjUyYWM2OTo5NzBiZTI2Mi0wZjM0LTRmZjgtYTY0Zi1hZjM2YzBkZTQ1NzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Leeds
+- UK
+people:
+- Andy Burnham
+- Donna Ockenden
+- Lauren Caulfield
+organisations:
+- Government
+- House of Commons
+- Leeds Teaching Hospitals NHS Trust
 ---
 
 # The Prime Minister needs to signal a change on maternity care

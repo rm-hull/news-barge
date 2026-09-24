@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Dallas
+- Ellipse
+- New York
+- New York City
+- Pennsylvania
+- Salt Lake City
+- Shanksville
+- South Tower
+- White House
+people:
+- Ave Maria
+- Charlie Kirk
+- Donald Trump
+- JD Vance
+- Melania Trump
+- Pete Hegseth
+- Stephen Siller
+organisations:
+- Defense
+- Nation
+- Pentagon
+- Tunnel to Towers Foundation
+- World Trade Center
 ---
 
 President Donald Trump observed Friday’s 25th anniversary of the Sept. 11 attacks by attending a ceremony at the Pentagon commemorating the lives lost when al-Qaida militants hijacked planes and killed nearly 3,000 people in three locations, upending American foreign policy and national security.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Florida
+- Lancaster
+- Mifflin county
+- Pennsylvania
+- Texas
+- US
+- Utah
+- Virginia
+people:
+- Debra Bogen
+- Robert F Kennedy Jr
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Johns Hopkins University
+- Trump
 ---
 
 Pennsylvania health officials said a fourth person had died of measles-associated illness in the worst year for the disease since 1992. All four US deaths have occurred in the state.

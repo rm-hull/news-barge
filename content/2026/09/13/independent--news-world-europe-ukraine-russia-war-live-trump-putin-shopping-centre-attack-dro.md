@@ -13,6 +13,77 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alberta
+- Banff
+- Black Sea
+- Calgary
+- Canada
+- Chornomorsk
+- Dnipro
+- Donbas
+- Donetsk Region
+- Europe
+- Geneva
+- Interpipe Steel
+- Iran
+- Kramatorsk
+- Kremlin
+- Kryvyi Rih
+- Kyiv
+- Miami
+- Moldova
+- Moscow
+- New Delhi
+- Norway
+- Odesa
+- Russia
+- Samara
+- Switzerland
+- Togliatti
+- Turkey
+- U.S.
+- UK
+- US
+- Ukraine
+- United Arab Emirates
+- United States
+- Washington
+- Zaporizhzhia Region
+- Zhytomyr Region
+- Zvyahel
+people:
+- '## Zelensky'
+- Alexei Likhachev
+- Dmitry Peskov
+- Donald Trump
+- Ilya Sukhikh
+- Ivan Fedorov
+- Jared Kushner
+- Jonathan Powell
+- Kremlin
+- Kyrylo Budanov
+- Mark Carney
+- Oleh Kiper
+- Oleksandr Vilkul
+- Steve Witkoff
+- Vitaliy Bunechko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Vyacheslav Fedorishchev
+- Yuri Ushakov
+organisations:
+- '## Kyiv'
+- BBC
+- G20
+- Interfax
+- Northern Iron Ore Beneficiation Works
+- Reuters
+- Southern Alberta Institute of Technology
+- Telegram
+- Togliattikauchuk
+- Yalta European Strategy Forum
+- Zaporizhstal
 ---
 
 Russian strikes killed nine people, injured dozens, and damaged residential buildings and infrastructure across Ukraine on Saturday.

@@ -15,6 +15,29 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Starling
+people:
+- Bernadette Smith
+- Joe Wilson
+- Maria Herrero-Bullich
+- Ms Smith
+- Nejc Korosec
+- Starling
+organisations:
+- AI in Finance
+- Chip
+- Cora
+- Gen-AI
+- Metro Bank
+- Moneyhub
+- NatWest
+- Scottish Widows
+- Starling Assistant
+- The Independent
+- Uswitch
+- Zopa
 ---
 
 When was the last time you logged into your bank and asked the app to do something, rather than manually moving money or checking something yourself?

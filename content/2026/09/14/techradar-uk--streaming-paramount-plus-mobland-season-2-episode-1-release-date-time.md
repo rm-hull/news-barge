@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/SqSxan6tdDxkBh5iA5nu8-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- Frankie
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- George Cooper Sr.
+- Harry Da Souza
+- Maeve
+- Tom Hardy
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- MobLand
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Maeve cheers in victory](https://cdn.mos.cms.futurecdn.net/SqSxan6tdDxkBh5iA5nu8.jpg) 

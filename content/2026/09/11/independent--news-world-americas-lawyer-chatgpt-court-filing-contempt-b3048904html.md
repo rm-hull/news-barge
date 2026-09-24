@@ -12,6 +12,23 @@ categories:
 - UK
 - Law & Justice
 - Business & Entrepreneurship
+locations:
+- Doña Ana County
+- New Mexico
+- Santa Fe
+people:
+- AI
+- Justice C. Shannon Bacon
+- Kim Chavez Cook
+- Oscar Renee Sandoval
+- Stephen Aarons
+organisations:
+- AI
+- Aarons’
+- ChatGPT
+- New Mexico Supreme Court
+- OpenAI
+- Reuters
 ---
 
 A defense lawyer has been held in contempt over a brief containing made-up police testimony and witnesses fabricated by OpenAI's ChatGPT, according to New Mexico's highest court.

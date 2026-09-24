@@ -12,6 +12,49 @@ image: https://static.independent.co.uk/2026/09/17/13/2026-09-17T080243Z_1024746
 categories:
 - News & Politics
 - UK
+locations:
+- Benghazi
+- Iran
+- Iraq
+- Israel
+- Jordan
+- Kuwait
+- Libya
+- Middle East
+- U.S.
+- United States
+people:
+- Adam Smith
+- Barack Obama
+- Dan Caine
+- Donald Trump
+- Glen Doherty
+- Gregory Meeks
+- Hillary Clinton
+- J. Christopher Stevens
+- Jack Reed
+- Joe Biden
+- Pete Hegseth
+- Sean Smith
+- Tyrone Woods
+organisations:
+- Armed Services
+- CBO
+- CIA
+- Congress
+- Congressional Budget Office
+- Foreign Service
+- House Armed Services Committee
+- House Foreign Affairs Committee
+- House Select Committee on Benghazi
+- Joint Chiefs of Staff
+- Judiciary and Oversight and Government Reform
+- Navy SEALs
+- Pentagon
+- Senate Armed Services Committee
+- Senate Intelligence Committee
+- The Independent
+- United Nations
 ---
 
 Donald Trump’s war in Iran has eclipsed 200 days, with no end in sight. At least 18 U.S. service members are dead and more than 750 are injured. Thousands of Iranians have been killed. The government estimates the war is costing taxpayers $246 million per day, and billions of dollars every month. Global energy prices are spiking, and threats to key shipping lanes, military bases and civilian infrastructure risk blowing up the conflict into a wider, endless war.

@@ -14,6 +14,22 @@ categories:
 - Travel
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21473070.jpg?type=og-image
+locations:
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- South Milford
+people:
+- Monk Fryston
+- Nic Harne
+- Tim Grogan
+organisations:
+- High Court
+- Leeds District Registry
+- North Yorkshire Council
+- North Yorkshire Police
+- Reform
 ---
 
 *(Image: LDRS)*

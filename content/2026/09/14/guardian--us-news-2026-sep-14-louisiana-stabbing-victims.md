@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Houma
+- Louisiana
+- San Benito
+- Shreveport
+- Terrebonne
+- Texas
+- US
+- Verdin
+people:
+- Brandon Thiel
+- Houma
+- Kaegan Jude Solet
+- Krissy Lynn Parfait
+- Letha Verret
+- Letha Verrett
+- Paul Verret
+- Paul Verrett
+- Verna Mae Verdin
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Guardian
+- KVEO
+- Louisiana Coalition Against Domestic Violence
+- WVUE
+- Walmart
 ---
 
 A Louisiana woman, her daughter, her son and his girlfriend have been identified as the four victims killed in a stabbing spree on Saturday that also left a young child critically wounded in the southern part of the state, according to a relative and family advocate.

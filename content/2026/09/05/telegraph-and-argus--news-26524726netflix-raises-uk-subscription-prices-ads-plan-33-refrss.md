@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+- US
+people:
+- Barry Keoghan
+- Jonny Boy
+- Kate Winslet
+- Max Beckett
+organisations:
+- BRADFORD Netflix
+- Black Doves
+- Bridgerton
+- Channel 4
+- ITVX
+- KPop Demon Hunters
+- The Gentlemen 2
+- The Unheard
+- Tubi
+- Uswitch
 ---
 
 *(Image: Netflix)*

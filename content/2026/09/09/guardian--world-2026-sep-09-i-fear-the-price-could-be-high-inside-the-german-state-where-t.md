@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Christmas
+- Elbe
+- Europe
+- Germany
+- Magdeburg
+- Mecklenburg-Vorpommern
+- Poland
+- Saxony-Anhalt
+- Vietnam
+- West Berlin
+people:
+- Angela Merkel
+- Bismarck
+- Die Volksstimme
+- Doreen
+- Franz-Josef
+- Friedrich Merz
+- Hitler
+- Huy
+- Judith
+- Luisa
+- Maryam
+- Ronald Reagan
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative für Deustchland
+- CDU
 ---
 
 Asking residents in a city where a seismic political event has just taken place ‘How do you feel?’ demands chutzpah – this struck me as I walked around Magdeburg, Germany on Monday. The night before, the far-right populist, anti-immigrant, pro-Kremlin party Alternative für Deustchland (AfD) had landslide 44% win in Saxony-Anhalt’s state elections, sending shock waves to Berlin, across Germany and way beyond. Regardless of how people in the capital voted, it felt like a bit of an affront to probe. Given the radical plans of the victors, a party classified by domestic intelligence as “rightwing extremist”, that is what I wanted to know. But from the 21-year-old Guinean-German paramedic I met at the central bus station, collecting donations for a local hospice, to the elderly couple returning to their apartment after a stroll down the Elbe river, almost everyone I met opened up to me warmly.

@@ -12,6 +12,20 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Berkeley
+- Rhode Island
+- South Dakota
+people:
+- JiJi Fan
+- Richard Gaitskell
+- Wick Haxton
+organisations:
+- Brown University
+- LUX-ZEPLIN
+- LZ
+- University of California
+- WIMP
 ---
 
 ![Looking up into the LZ outer detector, used to veto radioactivity that can mimic a dark matter signal.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg?w=840)

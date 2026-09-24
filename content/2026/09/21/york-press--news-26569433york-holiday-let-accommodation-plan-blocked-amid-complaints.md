@@ -12,6 +12,13 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21483684.jpg?type=og-image
+locations:
+- Sutherland Street
+- YOUR
+- York
+people: []
+organisations:
+- Public Notice Portal
 ---
 
 ## 'Noisy and drunk' guests complaints against York holiday let as plans blocked

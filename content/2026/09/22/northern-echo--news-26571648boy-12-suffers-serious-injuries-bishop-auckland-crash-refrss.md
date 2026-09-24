@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21486655.jpg?type=og-image&xType=21&yType=0
+locations:
+- Bishop Auckland
+- County Durham
+- County Durham McDonald's
+- James Cook Hospital
+- James Cook University Hospital
+- Newgate Street
+- Princess Street
+people: []
+organisations:
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: SUPPLIED)*

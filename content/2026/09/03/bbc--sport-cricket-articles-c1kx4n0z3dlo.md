@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Chelmsford
+- England
+- Hove
+people:
+- :** Allison
+- :** Coles
+- :** Leaning
+- Ari Karvelas
+- Charlie Allison
+- Charlie Tear
+- Dean Elgar
+- Dom Goodman
+- Henry Crocombe
+- Jack Carson
+- Jack Leaning
+- James Coles
+- Jamie Porter
+- Michael Pepper
+- Mitch Killeen
+- Oli Carter
+- Paul Walter
+- Sam Cook
+- Shane Snater
+- Simon Harmer
+- Tom Clark
+- Tom Haines
+- Tom Westley
+- Zaman Akhter
+organisations:
+- Ambassador Cruise Line Ground
+- Crocombe
+- Division One
+- ECB Reporters' Network
+- Essex
+- Gloucestershire
+- Rothesay
+- Somerset
+- Surrey
+- Sussex
 ---
 
 ![Sussex bowler Henry Crocombe celebrates with his mouth open](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/6c98/live/86f1eb00-a7b0-11f1-b78b-6b70b0a83270.jpg)

@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Eggborough
+- York Pullman
+people:
+- Diane Steward
+- Jamilah Hassan
+organisations:
+- Banks Group
+- The Banks Group
+- Unconventional Design
+- Whitley & Eggborough Community Primary School
 ---
 
 ## Double-decker bus transformed into magical new reading space for school pupils

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- Middle East
+- UK
+people:
+- Matt Swannell
+- Tim Moore
+organisations:
+- Item Club
+- MPC
+- S&P Global Market Intelligence
 ---
 
 The UK’s services sector continued its recovery last month as activity grew at the fastest pace for four months, according to figures.

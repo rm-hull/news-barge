@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Clark County
+- Franklin County
+- Ohio
+- Springfield
+people:
+- Danielle Flint
+- Jobe Binkley
+- Joseph M. Juergens
+- Ron O’Brien
+organisations:
+- ABC 6
+- Binkley
+- Facebook
+- Springfield City School District
+- The Independent
+- U.S. Marshal’s Office
 ---
 
 An Ohio teenager who had been missing for 263 days was found at the home of a former teacher, according to authorities.

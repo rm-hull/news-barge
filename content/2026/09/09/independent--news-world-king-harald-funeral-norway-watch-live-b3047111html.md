@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Akershus Fortress
+- Britain
+- Denmark
+- Japan
+- Norway
+- Oslo Cathedral
+- Sofia
+- Spain
+- Sweden
+- There,Harald's
+people:
+- Akishino
+- Anne
+- Felipe
+- Frederik
+- Harald V
+- Kiko
+- King Haakon VII
+- Letizia
+- Mary
+- Mette-Marit
+- Sonja
+- William
+organisations: []
 ---
 
 Watch live as King Harald V of Norway is laid to rest on Wednesday in a series of ceremonies marking the culmination of 13 days of national mourning, following his death at the age of 89.

@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Budapest
+- Good Morning Britain
+people:
+- Amy Hunt
+- Sydney Sweeney
+organisations: []
 ---
 
 'Sydney Sweeney, this is what women in sport look like!' - Hunt on controversial ad

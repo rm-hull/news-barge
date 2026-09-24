@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Hardware
 - News & Politics
+locations:
+- Festus
+- Jackson County
+- Missouri
+- Mount Pleasant
+- Wisconsin
+people:
+- Bridget McCandless
+- Jared Fears
+- John Perkins
+- Tom
+organisations:
+- AI Data Center in Independence Facebook
+- City Council
+- Get Tom's Hardware
+- Google News
+- Independence City Council
+- Jowi Morales
+- Kansas City Star
+- Microsoft
+- NBC News
+- Nebius
 ---
 
 ![a protester holding up a sign against a data center](https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh.png) 

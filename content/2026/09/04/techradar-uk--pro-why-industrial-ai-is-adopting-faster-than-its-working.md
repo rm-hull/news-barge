@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- AI
+people:
+- Cohen
+- Levinthal
+organisations:
+- '## AI'
+- AI Skills
+- Fluke Corporation
+- Future plc
+- Generative AI and Industrial AI
+- TechRadar Pro
+- TechRadarPro
+- UK Government
+- UK Workforce
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

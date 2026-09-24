@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Europe
+- Germany
+- Grafenwoehr
+- Gulf
+- Hohenfels
+- London
+- Middle East
+- Moscow
+- Nuremberg
+- Poland
+- Russia
+- U.S.
+- Ukraine
+- United States
+people:
+- Donald Trump
+- Emma Burrows
+- John Ratcliffe
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Army Green Beret
+- Army Green Berets
+- Associated Press
+- CIA
+- Green Beret
+- Green Berets
+- Joint Multinational Readiness Center Hohenfels
+- NATO
+- The Wall Street Journal
+- U.S. Army
+- ___ Associated Press
 ---
 
 On a moonless and rainy night, a group of soldiers emerged from a ramshackle building meant to resemble a church. The alpine terrain loomed over them as they quietly set off for the tree line of the German countryside a short distance away.

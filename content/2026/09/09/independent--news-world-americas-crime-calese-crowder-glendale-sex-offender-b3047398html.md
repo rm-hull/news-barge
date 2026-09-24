@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Barnes & Noble
+- Burbank
+- East Broadway
+- Glendale
+- Marshalls
+- South Brand Boulevard
+- West Glenoaks Boulevard
+people:
+- Calese Crowder
+organisations:
+- Glendale Police Department
+- Los Angeles County District Attorney’s Office
 ---
 
 A registered sex offender with a history of arrests for allegedly crouching behind women and smelling them has been sentenced to 170 days in county jail for violating his parole following his latest arrest in Glendale.

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Lancashire
+- Thames Valley
+people:
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Jason Hogg
+- Jessie Cole
+- Pc Harper
+organisations:
+- BBC Breakfast
+- Cabinet
+- Conservatives’
+- Government
+- IPP
+- IPPs
+- Justice Secretary
+- Times Radio
 ---
 
 The Justice Secretary has maintained that prisons will "still function properly" amid concerns over ministerial plans to convert laundries into cells to cope with overcrowding.

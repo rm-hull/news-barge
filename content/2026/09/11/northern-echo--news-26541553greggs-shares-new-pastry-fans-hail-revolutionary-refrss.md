@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Darlington
+- Greggs
+- Hartlepool
+- Middlesbrough
+- Newcastle
+- North East
+- Stockton
+people:
+- Bakes
+- Greggs
+- Greggs’
+organisations:
+- Bake Duo
+- Europe-first Darlington
+- Greggs
+- Jaissle
+- Newcastle
+- Prime Air
+- Ross Wilson
+- Teesside University
 ---
 
 Greggs has unveiled a giant savoury pastry it is jokingly calling its “biggest technological breakthrough yet”.

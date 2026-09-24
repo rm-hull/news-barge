@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Baildon
+- Baildon’s Moravian Church
+- Browgate
+people:
+- Mrs Ward
+organisations:
+- Baildon Town Council
+- Bradford Council
 ---
 
 # Development of homes next to major route rejected with 11 reasons given

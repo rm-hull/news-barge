@@ -12,6 +12,16 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80b2/live/6aae8c
 categories:
 - UK
 - News & Politics
+locations:
+- Hyde Park
+- London
+- US
+people:
+- Ben Fell
+- Byron
+- Grace Dean
+organisations:
+- AI
 ---
 
 **This week, AI insiders voiced concerns abouthow quickly the technology is developing,Lord Byron returnedto London's Hyde Park, and a magazine borrowed from a US library wasreturned 132 years late.**

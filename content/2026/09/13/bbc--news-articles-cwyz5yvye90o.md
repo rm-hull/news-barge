@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43fd/live/426a39b0-b00c-11f1-a8ab-97e01a0f814c.jpg
+locations:
+- Chicago
+- France
+- Hollywood
+- Los Angeles
+- New York
+- New York City
+- The Plaza
+- UK
+- West End
+people:
+- Carys Zeta Douglas
+- Catherine Zeta-Jones
+- David Jason
+- Dylan Michael Douglas
+- Kirk Douglas'
+- Michael Douglas
+- Zeta-Jones'
+organisations:
+- ITV
+- The Rainbow Room
+- The Royal Welsh College of Music
+- The Sunday Times
 ---
 
 ![ Dylan Michael Douglas, Catherine Zeta-Jones and Carys Zeta Douglas attend The Royal Welsh College of Music & Drama 2019 Gala at The Rainbow Room on March 1, 2019 in New York City](https://ichef.bbci.co.uk/ace/standard/694/cpsprodpb/5256/live/948709d0-b00c-11f1-a8ab-97e01a0f814c.jpg)

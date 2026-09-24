@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- AI
+- Afghanistan
+- America
+- Balmoral
+- Beachwatch Bute
+- Buckingham Palace
+- Charles
+- Duke and Duchess of Rothesay
+- Ettrick Bay
+- Greenwich
+- Isle of Bute
+- London
+- Princess of Wales
+- Scotland
+people:
+- '## Harry'
+- Charles
+- Charles’
+- Diana
+- Earl Spencer
+- Kate
+- King
+- William
+organisations:
+- '## Palace'
+- AI
+- Diana Spencer
+- Earl Spencer
+- Invictus
+- Irish Guards
+- Old Royal Naval College
 ---
 
 King Charles sounded “giddily elated” and “like a lottery winner” on the day of Princess Diana’s death, her brother, Earl Spencer, has claimed in his bombshell memoir.

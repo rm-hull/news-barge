@@ -13,6 +13,24 @@ image: https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Blackwell
+people:
+- Renan Maniero
+- Wccftech
+organisations:
+- ACM
+- Blackwell
+- DisplayPort
+- GeForce
+- Google News
+- Hachette UK
+- MPO
+- Nvidia
+- Reddit
+- Redditor
+- Team Green
+- Windows Auto Color Management
 ---
 
 ![Frustrated PC gamer sat at desk holding head in hands](https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR.jpg) 

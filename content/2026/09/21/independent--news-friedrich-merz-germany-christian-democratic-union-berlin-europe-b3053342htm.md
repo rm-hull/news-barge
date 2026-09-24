@@ -15,6 +15,25 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/06/Germany_Election_75636.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Baltic Sea
+- Berlin
+- Europe
+- Germany
+- Mecklenburg-Western Pomerania
+- North Rhine-Westphalia
+- Saxony-Anhalt
+people:
+- Friedrich Merz
+- Hendrik Wüst
+- Manuela Schwesig
+- Matthias Miersch
+organisations:
+- ARD
+- AfD
+- CDU
+- Christian Democratic Union
+- Left Party
 ---
 
 German Chancellor Friedrich Merz faced a struggle to stabilize his position and keep his agenda on track Monday after voters inflicted two more defeats on his party, ejecting it from a state legislature for the first time.

@@ -12,6 +12,38 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Africa
+- Bengaluru
+- Chennai
+- Coimbatore
+- Delhi
+- Hyderabad
+- India
+- Indore
+- Jaipur
+- Kochi
+- Kolkata
+- Lucknow
+- Mumbai
+- Pune
+- Thailand
+- Vietnam
+- Yulu
+- Yuma
+people:
+- Muthu Subramanian
+- Yulu
+organisations:
+- BGauss
+- Kinetic Green
+- Magna International
+- Motovolt
+- Quantum Energy
+- TechCrunch
+- Yulu
+- Yuma Energy
+- non-Yulu
 ---
 
 While battery swapping has struggled to take off in much of the world, Canadian auto parts giant Magna International believes the model could work at scale in India, where millions of two- and three-wheelers and a fast-growing delivery economy create a different set of economics.

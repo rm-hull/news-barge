@@ -15,6 +15,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.the-independent.com/2026/09/21/23/Stanford_Protest_Trial_232_9.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Gaza
+- Israel
+- Santa Clara County
+- Stanford
+people:
+- Germán González
+- Jeff Rosen
+- Kelley Paul
+- Rob Bonta
+organisations:
+- Santa Clara County Superior Court
+- Stanford University
 ---
 
 Criminal charges against five pro-Palestinian activists involved in a 2024 Stanford University protest will be dismissed after they complete community service and pay restitution, California officials said Monday. The resolution follows a mistrial earlier this year.

@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Harborne
+- Hong Kong
+- London
+- Thailand
+- UK
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Laura Kuenssberg
+- Lord Wills
+- Nigel Farage
+- Philip Rycroft
+- Robert Jenrick
+- Sharon Graham
+organisations:
+- BBC News
+- Delo
+- House of Lords
+- Labour
+- Radio 4
+- Reform UK
+- Telegraph
+- The Times
+- UnHerd
+- Unite the Union
 ---
 
 ![Nigel farage, wearing a light blue suit and white shirt, gestures with his left hand](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/a3ff/live/37b95cf0-aff1-11f1-a540-61c3f7fc4e6c.jpg)

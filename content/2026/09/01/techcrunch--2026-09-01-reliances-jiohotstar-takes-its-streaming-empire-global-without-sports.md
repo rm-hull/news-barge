@@ -11,6 +11,39 @@ description: JioHotstar will only have entertainment content when it launches in
 image: https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675
 categories:
 - Technology & Software
+locations:
+- Canada
+- India
+- Singapore
+- U.K.
+- U.S.
+people:
+- Amit Malhotra
+- Star Jalsha
+- Star Vijay
+organisations:
+- App Store
+- Asianet
+- Bigg Boss
+- Colors
+- Disney
+- English Premier League
+- Google Play Store
+- Hotstar
+- IPL
+- Indian Premier League
+- JioCinema
+- JioHotstar
+- JioHotstar’s
+- JioStar
+- JioStar’s Head of International Business
+- Ministry of External Affairs
+- Reliance Industries
+- Star Plus
+- Star Pravah
+- TechCrunch
+- WPL
+- Women’s Premier League
 ---
 
 JioHotstar, the streaming platform controlled by Indian conglomerate Reliance Industries, is taking its brand outside India for the first time and will replace Hotstar in the U.K., Canada, and Singapore as it begins a wider global push.

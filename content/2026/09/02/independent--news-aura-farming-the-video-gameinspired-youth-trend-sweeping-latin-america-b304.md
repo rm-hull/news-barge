@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Aura
+- Bogota
+- Brazil
+- Buenos Aires
+- Burgos
+- Colombia
+- Costa Rica
+- Cuiaba
+- Ecuador
+- Latin America
+- Lima
+- Madrid
+- Mexico City
+- Miraflores
+- Obelisk
+- Peru
+- Quito
+- Spain
+- U.S.
+- Zaragoza
+people:
+- Berenice Bautista
+- Cristiano Ronaldo
+- Fernando Lícito
+- Gonzalo Cornelio
+- Gonzalo Solano
+- Liam González
+- María Paula Martínez
+- Mauricio Muñoz
+- Nicolás Maduro
+- Shrek
+- Spider-Man
+- ___ Suárez
+organisations:
+- Associated Press
+- Aura
+- Los Andes University
 ---
 
 Dozens of young people gathered recently on a beach in Peru’s capital to dance, pose and show off their most creative moves — all in pursuit of one thing: aura.

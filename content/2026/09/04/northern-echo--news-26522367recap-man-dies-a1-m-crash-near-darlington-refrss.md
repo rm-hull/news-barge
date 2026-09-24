@@ -14,6 +14,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people: []
+organisations:
+- A1
+- The Northern Echo
 ---
 
 ## Our live feed has now finished.

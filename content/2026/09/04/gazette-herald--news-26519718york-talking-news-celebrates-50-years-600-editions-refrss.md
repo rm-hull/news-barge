@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Clifford Street
+- Huntington
+- Westminster Business Park
+- Wilberforce Trust
+- York
+people:
+- Don Peacock
+- Graeme Robertson
+- Harry Holmes
+- Joanna Browne
+- Nigel Emery
+- Peter Jackson
+organisations:
+- Askham Bar
+- Blind and Partially Sighted Society
+- City Council
+- Dalesman
+- Evening Press
+- Partially Sighted Society
+- Post Office
+- Rotary and Lions
+- Tesco
+- The Press
+- USB
+- York Talking News
+- Yorkshire Post
 ---
 
 An audio news magazine in York for the visually impaired has marked its 50th anniversary.

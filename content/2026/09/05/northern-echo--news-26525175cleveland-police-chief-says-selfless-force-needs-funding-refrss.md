@@ -12,6 +12,25 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Cleveland
+- England
+- Middlesbrough
+- North East
+- Wales
+people:
+- Man
+- Matt Storey
+- Matthew Blades
+- Matty
+- Ms Fuller
+- Shabana Mahmood
+- Tom Clough
+- Victoria Fuller
+organisations:
+- BBC
+- Cleveland Police
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

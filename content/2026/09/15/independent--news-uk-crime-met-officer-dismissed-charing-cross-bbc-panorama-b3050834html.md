@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Charing Cross
+- Charing Cross Station
+- Waterloo
+people:
+- James Manning
+- Mark Rowley
+- Mason O’Connor
+- PC Hunter
+- PC Lloyd Hunter
+- Simon Messinger
+organisations:
+- BBC Panorama
+- Charing Cross
+- College of Policing
+- IOPC
+- Independent Office for Police Conduct
+- Metropolitan Police
+- PC Hunter
+- PC O’Connor
 ---
 
 Another Charing Cross police officer has been dismissed from the Met almost a year after BBC Panorama exposed inappropriate conduct in the force.

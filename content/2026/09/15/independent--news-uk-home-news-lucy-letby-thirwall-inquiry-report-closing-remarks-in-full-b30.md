@@ -12,6 +12,50 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- Countess of Chester Hospital
+- England
+- Liverpool
+people:
+- Baby P
+- Baroness Amos
+- Countess
+- David Spiegelhalter
+- Justice Thirlwall
+- Lorna Yates
+- Lucy Letby
+- Mother E
+- Tim Suter
+organisations:
+- CCTV
+- CQC
+- Civil Service
+- Countess of Chester
+- Countess of Chester Hospital
+- Court of Appeal
+- Criminal Cases Review Commission
+- Crown Court
+- DHSC
+- Department for Health and Social Care
+- Health and Social Care Committee
+- Inquiry Rachel Langdale KC
+- LADO
+- Liverpool Town Hall
+- NAO
+- NHS England
+- NHS Leadership and Management Framework Code
+- NNU
+- National Audit Office
+- National Bereavement Care Pathway
+- National Guardian’s Office
+- Parliamentary and Health Service Ombudsman
+- Public Accounts Committee
+- SUDIC
+- Secretariat
+- State for Health and Social Care
+- The RCPCH
+- Thirlwall Inquiry
+- Trust
 ---
 
 The Thirlwall Inquiry report, which looked at events at the Countess of Chester Hospital which led to former nurse Lucy Letby’s convictions for the murder of seven babies, has made a total of 14 recommendations.

@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Canada
+- Cannes
+- Ellesmere Island
+- Geneva
+- Lazzaretto Vecchio
+- Toronto
+- Venice Lido
+people:
+- Barthélemy Antoine-Loeff
+- David Bowie
+- Denis O’Regan
+- Felix Gaedtke
+- Gayatri Parameswaran
+- Hugo Arcier
+- James Elliott Mizroch
+- Liz Rosenthal
+organisations:
+- O’Regan’s
+- Solomon Islands-set Solwata
+- The White Saboteur
+- Venice Immersive
+- Walt Disney
 ---
 
 David Bowie shares the bill with starmen, firefighters and Walt Disney wolves at the 10th anniversary edition of Venice Immersive, the film festival’s pioneering showcase for new forms of storytelling. David Bowie: Unseen Unheard – a 3D documentary featuring hundreds of previously unseen images – is among 69 XR (extended reality) pieces playing at the event’s regular base on Lazzaretto Vecchio, a repurposed small island off the Venice Lido.

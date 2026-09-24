@@ -14,6 +14,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Acomb
+- St Stephen’s Road
+- YORK
+people:
+- Laura Peto
+- Nicholas Hammond
+- Simon Hickey
+- Timothy Binder
+organisations:
+- Newsquest
+- York Crown Court
 ---
 
 *(Image: Newsquest)*

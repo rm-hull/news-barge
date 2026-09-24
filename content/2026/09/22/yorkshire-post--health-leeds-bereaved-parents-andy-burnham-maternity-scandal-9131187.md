@@ -16,6 +16,38 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/20/22/cs-117fa717-fe72-48a7-8697-d760e4df583d.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bradford
+- Leeds
+- West Yorkshire
+people:
+- Amarjit Matharoo
+- Andy Burnham
+- Brendan Brown
+- Donna Ockenden
+- Ed Davey
+- Fiona Winser-Ramm
+- Grace
+- Irwin Mitchell
+- Lauren Caulfield
+- Ms Caulfield
+- Ms Cooper
+- Yvette Cooper
+organisations:
+- BBC
+- Department of Health and Social Care
+- Government
+- Grace
+- Health Safety Investigation Branch
+- LTHT
+- Labour
+- Leeds Teaching Hospitals NHS Trust
+- Lib Dems
+- Liberal Democrats
+- Maternity Taskforce
+- Ms Ockenden
+- National Maternity and Neonatal Taskforce
+- The Yorkshire Post
 ---
 
 # Leeds maternity families call for urgent meeting with Andy Burnham to 'show it is a national scandal'

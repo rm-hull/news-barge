@@ -13,6 +13,24 @@ image: https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- '![County'
+- Amazon
+people:
+- Mark Tyson
+- Tom
+- Tsuto
+organisations:
+- AM4
+- Amazon
+- Asus ROG
+- GPU
+- Google News
+- RAM
+- Redditor
+- Redditors
+- Tom's Hardware
+- Tsuto
 ---
 
 ![County landfill trash to treasure picking](https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5.jpg) 

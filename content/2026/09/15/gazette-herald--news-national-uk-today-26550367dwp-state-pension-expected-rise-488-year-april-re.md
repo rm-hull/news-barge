@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Liam McLaughlin
+- Matthew Horwood
+- Ruth Curtice
+- Steve Webb
+organisations:
+- BBC
+- Government
+- HMRC
+- LCP
+- Labour
+- National Institute of Economic and Social Research
+- Office for Budget Responsibility
+- Resolution Foundation
 ---
 
 *(Image: Matthew Horwood/PA Wire)*

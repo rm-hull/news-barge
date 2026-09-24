@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Brazil
+- Newby Hall
+- North East
+- River Ure
+- Workington
+people:
+- Andrew Pern
+- Helen Tabor
+- Lawrence Wright
+- Lucas Robinson
+- Newby
+- Stuart Gill
+- Yulin Luo
+organisations:
+- Harrogate Spa Town Ukes
+- Newby Hall
+- Northern Fruit Group
+- The Yorkshire Dales
 ---
 
 *(Image: Helen Tabor)*

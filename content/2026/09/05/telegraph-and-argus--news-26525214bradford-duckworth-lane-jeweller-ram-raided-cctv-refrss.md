@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Duckworth Lane
+- Jewellers
+people:
+- Akhlaq Ahmed
+organisations:
+- CCTV
+- Live Chat
+- Pakistani Jewellers
+- West Yorkshire Police
 ---
 
 THIS is the terrifying moment masked raiders used a 4x4 to smash their way into a Bradford jewellers.

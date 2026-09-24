@@ -11,6 +11,16 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/01/8/37/Natalie-McDonald-Valentina-Foster.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Grangetown
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Francis Laird KC
+- Jaden Wright
+- Natalie McDonald
+- Valentina Foster
+organisations: []
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

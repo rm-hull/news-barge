@@ -14,6 +14,35 @@ categories:
 - Society & Culture
 - History
 image: https://i.guim.co.uk/img/media/99b7529a61ff107c0971b227ca70104ef1bbcad0/332_0_5163_4131/master/5163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2db90a626b6fdafef078c6a6e7fa327
+locations:
+- Foggy Bottom
+- Kennedy Center
+- Potomac River
+- US
+- Washington
+people:
+- Baby Trump
+- Brendan Smialowski
+- Chris Raleigh
+- Christopher Cooper
+- Donald Trump
+- Donny
+- Jack Kennedy
+- Wicked
+organisations:
+- AFP
+- Agence France Presse
+- Air Force One
+- Associated Press
+- East Potomac Golf Links
+- East Wing
+- Hands Off the Arts
+- Kennedy Center
+- Kennedy Center DEMOLIS
+- Oval Office
+- Raleigh
+- Trump
+- US Institute of Peace
 ---
 
 On Friday evening thousands of protesters gathered outside the Kennedy Center in view of the marble facade that remained concealed by scaffolding and tarpaulins, to protest Donald Trump’s plans for the facility and express alarm that he might make good on his threat to tear down the institution.

@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Gaza City
+- Israel
+- Italy
+- Tel Aviv
+- Venice
+people:
+- Ben Hania
+- Hind Rajab
+- James Wilson
+- Jonathan Glazer
+- Kaouther Ben Hania
+- NAZA’ Abraham
+- Rachel Szor
+- Yuval Abraham
+- __ Louise Dixon
+organisations:
+- 972 Magazine
+- Hamas
+- Health Ministry
+- Local Call
+- NAZA
+- The Guardian
+- The Zone of Interest
 ---
 
 Twenty-four Israeli military insiders including intelligence officers and soldiers give insight into the war in Gaza and what they say is the systemic killing of Palestinian civilians in “NAZA,” a documentary that's having its world premiere Thursday at the Venice Film Festival.

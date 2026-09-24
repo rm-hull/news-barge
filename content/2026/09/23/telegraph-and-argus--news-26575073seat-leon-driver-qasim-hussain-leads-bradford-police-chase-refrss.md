@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/21493648.jpg?type=og-image
+locations:
+- Allerton
+- Bierley Lane
+- Ferrand Avenue
+- Greenfield Lane
+- HMP Leeds
+- Mill Carr Hill Road
+- Oakenshaw
+- Seat
+- Sherwell Rise
+people:
+- '![]()Hussain'
+- Bashir Ahmed
+- Patrick Palmer
+- Qasim Hussain
+- Tom Doyle
+organisations:
+- Bradford Crown Court
+- CPS
+- Range Rover
+- Seat
+- West Yorkshire Police
 ---
 
 A court has heard how the driver of a stolen car that collided head-on with a Range Rover following a police chase on narrow country roads had never held a licence in his life.

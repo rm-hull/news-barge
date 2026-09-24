@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Books & Literature
+locations:
+- Farsley
+- Leeds
+- Town Street
+people:
+- Amanda Truman
+organisations:
+- HarperCollins UK
+- Truman Books
 ---
 
 *(Image: Supplied)*

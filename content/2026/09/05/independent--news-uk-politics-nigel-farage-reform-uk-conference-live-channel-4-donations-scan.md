@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Laila Cunningham
+- Lee Anderson
+- National Exhibition Centre
+people:
+- '## Lee Anderson'
+- '## Yusef'
+- Burnham
+- Dan Jukes
+- James Orr
+- Lee Anderson
+- Malcolm Offord
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+- Stefan Rousseau
+- Suella Braverman
+- Zia Yusuf
+organisations:
+- '## Reform'
+- Channel 4
+- Channel 4 News
+- Climate Resistance
+- NEC
+- Reform UK
+- The Times
+- Treasury
+- West Midlands Police
 ---
 
 Nigel Farage is battling to contain a fresh scandal into donations after footage appeared to show senior Reform figures discussing how to disguise donations from foreign sources.

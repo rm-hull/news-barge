@@ -12,6 +12,13 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21479747.jpg?type=og-image
+locations:
+- North Yorkshire
+- Westerdale
+people: []
+organisations:
+- North Yorkshire Police
+- University of York
 ---
 
 *(Image: North Yorkshire Police)*

@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Consett
+- County Durham
+- Ex County Durham
+- Findon Hill
+- Historic County Durham
+- Middle West Lodge
+- Old Durham Road
+- Peterlee
+- Sacriston
+- Seaham
+- Seaton Lane
+- Sedgefield
+- Stephenson Road
+- Stuart Court
+- YOUR
+people: []
+organisations:
+- '### Children'
+- '### Padel'
+- 2 North East Industrial Estate
+- ATM
+- Durham County Council
+- Fyndoune Community College
+- Northern Echo
+- Public Notice Portal
 ---
 
 *(Image: The Northern Echo)*

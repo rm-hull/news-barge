@@ -13,6 +13,29 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A Yorkshire
+- Baptist
+- Beverley Guildhall
+- Beverley Minster
+- East Riding
+- East Yorkshire
+- England
+- Getty
+- North Yorkshire
+- Quirky' Yorkshire
+- UK
+people:
+- Beverley
+- Sam Smith
+organisations:
+- Beverley Memorial Hall
+- ERT
+- East Riding Theatre
+- Gemini Chocolate
+- Kings Head
+- Rightmove
+- World Atlas
 ---
 
 *(Image: Getty)*

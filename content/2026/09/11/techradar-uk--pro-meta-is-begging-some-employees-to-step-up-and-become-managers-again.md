@@ -11,6 +11,20 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- Andrew Bosworth
+- Craig Hale
+- Mark Zuckerberg
+organisations:
+- '**Company'
+- Applied AI
+- Applied AI org
+- CTO
+- Craig’s
+- Google News
+- Meta
+- TechRadar Pro
 ---
 
 ![Mark Zuckerberg](https://cdn.mos.cms.futurecdn.net/EDSwj5dJA5juSNQqvBHS4K.jpg) 

@@ -18,6 +18,17 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- England
+people:
+- Andy Burnham
+- Kirsty Wigglesworth
+organisations:
+- '##'
+- Alzheimer's
+- Government
+- Health Foundation
+- NHS
 ---
 
 # Polling shows the scale of the challenge for the PM when it comes to funding social care

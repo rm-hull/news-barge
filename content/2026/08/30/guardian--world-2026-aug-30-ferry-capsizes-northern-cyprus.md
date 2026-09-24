@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Cyprus
+- Girne
+- Kyrenia
+- Mersin
+- Nicosia
+- Taşucu
+- Turkey
+people:
+- Ali Murat Basceri
+- Diana
+- Murat Şenkul
+- Ünal Üstel
+organisations:
+- Filo Denizcilik
+- TRT
 ---
 
 At least six people have died after a ferry carrying nearly 270 passengers and crew capsized off the coast of Turkish-occupied northern Cyprus, local media reported.

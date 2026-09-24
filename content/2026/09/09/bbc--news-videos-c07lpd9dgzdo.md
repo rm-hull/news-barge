@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Chan Chan
+- Peru
+people: []
+organisations: []
 ---
 
 # Watch: Archeologists discover ancient tomb in Peru

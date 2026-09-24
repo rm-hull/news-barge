@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations:
+- Bradford
+- Leeds
+- Safer Streets
+- SelectaDNA
+- UK
+- Wakefield
+- West Yorkshire
+people:
+- Alison Lowe OBE
+- Andy Loftus
+organisations:
+- BikeRegister
+- Home Office
+- Police and Crime Plan
+- Policing and Crime
+- SelectaDNA Defence Spray
+- West Yorkshire Police
 ---
 
 *(Image: SelectaDNA)*

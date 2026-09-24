@@ -13,6 +13,31 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Cross Roads
+- Ilkley
+- Keighley
+- Queensbury
+- Sugden End
+- Wharfedale
+people:
+- Cllr Sellers
+- Ian Walker
+- Jane Sellers
+- Rebecca Poulsen
+organisations:
+- BRADFORD Council
+- Bradford Council
+- City of Culture
+- HWRC
+- Ilkley
+- Labour
+- My Conservative Group
+- Portfolio Holder for Neighbourhoods and Communities
+- Reform Executive
+- Reform UK
+- then-Labour
 ---
 
 *(Image: Bradford Council)*

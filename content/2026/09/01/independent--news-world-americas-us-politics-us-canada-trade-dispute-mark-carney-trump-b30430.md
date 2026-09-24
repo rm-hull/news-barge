@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/01/18/33/GettyImages-2240456889.
 categories:
 - News & Politics
 - UK
+locations:
+- British Columbia
+- Canada
+- Chicoutimi-Le Fjord
+- Lake America
+- Lake Ontario
+- Ottawa
+- Quebec
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Mark Carney
+- Nelson Wiseman
+- Pete Hegseth
+- Scott Bessent
+organisations:
+- House of Commons
+- Liberal
+- Pentagon
+- The X
+- Trump
+- U.S. Treasury
+- University of Toronto
 ---
 
 Canadian Prime Minister Mark Carney urged the Trump administration Tuesday to "stop doing memes, stop throwing shade and stop trying to be tough" after a fresh round of verbal attacks by Washington.

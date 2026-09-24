@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/09/07/15/2289550814..?trim=2,0,2,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Iran
+- Sen
+- Texas
+- Thune
+- then-White House
+people:
+- Bill Cassidy
+- Donald Trump
+- Jake Sherman
+- James Talarico
+- John Cornyn
+- John Thune
+- Karoline Leavitt
+- Ken Paxton
+- Mike Johnson
+organisations:
+- GOP
+- House
+- PAC
+- PACs
+- Punchbowl News
+- Senate Leadership Fund
+- Trump
+- Washington Examiner
 ---
 
 John Thune is noticeably absent from the speaker lineup for the Republican convention in Dallas this week amid reports of a possible rift with President Donald Trump as the Senate leader fights desperately to protect a GOP’s majority.

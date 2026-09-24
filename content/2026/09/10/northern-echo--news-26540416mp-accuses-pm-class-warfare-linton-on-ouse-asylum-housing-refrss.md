@@ -12,6 +12,27 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Ainsty
+- Linton
+- North Yorkshire
+- Oxfordshire
+- Piddington
+- RAF Linton-on-Ouse
+- Selby
+- UK
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Easingwold
+organisations:
+- Government
+- Home Office
+- Linton-on-Ouse
+- MP
+- North Yorkshire Council
+- Selby
 ---
 
 A North Yorkshire MP has accused the Prime Minister of engaging in “class warfare” over suggestions that asylum seekers should be housed in middle-class areas as he stepped up his opposition to plans for a migrant centre at former RAF Linton-on-Ouse.

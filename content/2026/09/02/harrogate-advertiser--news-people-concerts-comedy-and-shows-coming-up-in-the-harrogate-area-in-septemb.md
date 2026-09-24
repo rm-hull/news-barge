@@ -13,6 +13,89 @@ categories:
 - Local
 - Harrogate
 - Comedy & Entertainment
+locations:
+- Bishop Monkton Village Hall
+- Brazil
+- Cheltenham Mount
+- Frazer Theatre
+- Harrogate
+- Kirkby Malzeard
+- Knaresborough
+- Markenfield Hall
+- RC Church Parish Hall
+- Ripon Cathedral
+- Sharow
+- Spain
+- St Andrew’s Church
+- St Johns Church
+- St Nicholas Church
+- St. Joseph
+- UK
+- Wath
+- Wesley Centre
+- West Tanfield
+- Wetherby
+people:
+- Alex Hamilton
+- Alex Hylton
+- Andy White
+- Bob Dylan
+- David Broad
+- David Coulthard
+- Frederick Knott
+- Frida
+- Ian Bailey
+- Johan Lofving
+- John Godber
+- Lewis Garnham
+- Lucine Musaelian
+- Mika Häkkinen
+- Missa Sancti Nicolai
+- Nathan Giorgetti
+- Neil Young
+- Pat Draper
+- Sorry
+- Thomas James Butler
+- Tim Chu
+- Yu-Wei Hu
+organisations:
+- Badapple Theatre
+- Blues Bar
+- Brighton ’84
+- Cream Tea
+- Danny Bryant Band
+- Drop Leg Steppers
+- Formula One
+- Frazer Theatre
+- Frazer Theatre Comedy Club
+- Georgette & Iain
+- Harrogate Convention Centre
+- Harrogate Film Society
+- Harrogate Theatre
+- Haydn St. Nicholas Mass
+- Intesa
+- Kosmos Ensemble
+- Land Girls
+- Lempen Puppet Theatre
+- Max & Veronica
+- Mercer Gallery
+- North Stainley Village Hall
+- Odeon
+- Opera North
+- RedHouse Gallery
+- Richard Jordan Productions
+- Ripley Live
+- Ripley Town Hall
+- Samwaies Hall
+- Simon & Garfunkel
+- Spofforth Village Hall
+- The Band
+- The Bilton Club
+- The Breeze
+- The Ed Balls Band
+- The Golden Princess
+- The Secret Agent
+- Vocalis
 ---
 
 # Concerts, comedy and shows coming up in the Harrogate area in September and October 2026

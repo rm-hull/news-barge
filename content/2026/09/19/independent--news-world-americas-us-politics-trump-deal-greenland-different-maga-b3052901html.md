@@ -12,6 +12,48 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/19/09/2293369500..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Arctic Circle
+- Atlantic
+- Canada
+- Denmark
+- Greenland
+- Kingdom
+- Nazi Germany
+- North Pole
+- Nuuk
+- Pituffik Space Base
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Anne Applebaum
+- Donald Trump
+- Gérard Araud
+- Hugh Hewitt
+- Jakob Ludvigsen
+- Jens-Frederik Nielsen
+- Marco Rubio
+- Marianne Hansen
+- Max Boot
+- Mette Frederiksen
+- Rebeccah Heinrichs
+- Tom Nichols
+organisations:
+- Council on Foreign Relations
+- General Assembly
+- Johns Hopkins School of Advanced International Studies
+- NATO
+- Navy War College
+- POTUS
+- Pentagon
+- Reuters
+- The Atlantic
+- U.N
+- U.S. Space Force
+- United Nations General Assembly
 ---
 
 President Donald Trump’s supporters are cheering his deal for “permanent control” of Greenland’s security — as critics charge it hasn’t changed the longtime status quo over the Danish territory.

@@ -12,6 +12,30 @@ categories:
 - Travel
 - History
 image: https://static.independent.co.uk/2026/09/21/14/28/GettyImages-1601754320.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Atlantic City
+- Austin
+- Colorado
+- Dallas
+- Kansas
+- Lander
+- Lone Star State
+- New York City
+- Oklahoma City
+- South
+- Texas
+- U.S.
+- Wyoming
+people: []
+organisations:
+- AccuWeather
+- Kennedy Airport
+- Miami
+- National Weather Service
+- Oklahoma City
+- Tulsa
+- Wichita
 ---
 
 This summer was America’s hottest yet — and a new troubling analysis reveals several cities have seen more triple-digit temperature days than ever in 2026.

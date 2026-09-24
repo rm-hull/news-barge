@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cardiff
+- Edinburgh
+- England
+- London
+- Manchester
+- Midlands
+- Northern Ireland
+- Scotland
+- South
+- UK
+- Wales
+people:
+- Aidan McGivern
+organisations:
+- Cardiff
+- Met Office
 ---
 
 A thunderstorm weather warning is in place on Saturday, with the Bank Holiday weekend set to be a wash-out as heavy rain and showers are forecast across the UK.

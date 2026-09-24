@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- North Yorkshire Police)*
+- York’
+people:
+- Temu Spider-Man
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 ## ‘Temu Spider-Man of York’ sought by police after items stolen from parcel

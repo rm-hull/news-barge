@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Rob Dunne
+- Surfshark
+organisations:
+- Black Friday
+- Dark Web Monitoring
+- NordVPN
+- Proton VPN
+- Rob
+- Scam Protection
+- Surfshark
+- TechRadar
 ---
 
 ![Surfshark Antivirus running on a Mac laptop](https://cdn.mos.cms.futurecdn.net/zG4cGkUmXJoZZf3QqdtiYB.jpg) 

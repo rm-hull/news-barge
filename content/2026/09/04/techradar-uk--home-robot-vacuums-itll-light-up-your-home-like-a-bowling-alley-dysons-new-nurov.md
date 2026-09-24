@@ -11,6 +11,27 @@ description: I saw the new bots in action and got the insider scoop from a Dyson
 image: https://cdn.mos.cms.futurecdn.net/Ds6hwRapHZb9io4xz3cChN-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- Dyson
+people:
+- Dyson
+- Nathan Lawson-McLean
+- Ruth Hamilton
+organisations:
+- '**Dyson'
+- Costco
+- Dyson Australia
+- Dyson UK
+- Dyson US
+- Google News
+- IFA
+- R3
+- Ruth
+- Scrub UV
+- TBC
+- TechRadar
+- Vis Nav
 ---
 
 ![Dyson Nurovi robot vacuum](https://cdn.mos.cms.futurecdn.net/Ds6hwRapHZb9io4xz3cChN.jpg) 

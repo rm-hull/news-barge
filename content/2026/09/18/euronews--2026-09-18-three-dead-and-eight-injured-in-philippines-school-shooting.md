@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Banga
+- Mindanao
+- Philippines
+- South Cotabato
+people:
+- Albert Palencia
+- Reynaldo Tamayo
+organisations:
+- Banga National High School
+- Department of Education
 ---
 
 ## Officials say the teenager had warned friends after lunch that he was “going to do something” and told them to go home, but they thought he was joking.

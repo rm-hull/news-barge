@@ -15,6 +15,34 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Free Palestine
+- Gaza
+- Israel
+- New Jersey
+- New Zealand
+- North and South America
+- Philadelphia
+- U.K.
+- U.S.
+people:
+- Aaron Rowe
+- Beoga
+- Billie Eilish
+- Ed Sheeran
+- Finneas
+- Instagram
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Gillette Stadium
+- Irish Artists for Palestine
+- Kraft Group
+- Messina Touring Group
+- NFL
+- New England Patriots
+- The
 ---
 
 Ed Sheeran's tour of North and South America has been roiled by the decision this week to drop Macklemore as an opener because of the rapper's onstage pro-Palestinian comments. Since then, all of Sheeran's other supporting acts have dropped out, including a group that performs with Sheeran during part of the show.

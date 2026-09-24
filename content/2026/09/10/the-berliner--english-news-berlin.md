@@ -12,6 +12,18 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+people:
+- Die Linke
+organisations:
+- '### Harry Styles'
+- '### Thousands Protest AfD'
+- Brandenburger Tor
+- CDU
+- SPD
+- Steffen Krach Investigations
+- Tempelhof The popstar
 ---
 
 ## News

@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Bradford South
+- Halifax
+people:
+- Judith Cummins
+- Kate Dearden
+organisations:
+- Bill
+- Bradford South
+- Government
 ---
 
 **This week's MP column is written by Bradford South MP Judith Cummins, who feels fireworks should bring communities together - not make people feel under siege.**

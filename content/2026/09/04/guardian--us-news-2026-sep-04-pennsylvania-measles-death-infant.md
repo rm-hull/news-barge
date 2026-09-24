@@ -11,6 +11,25 @@ image: https://i.guim.co.uk/img/media/a157c31176f97b64db41b33fd2a055b6e45e4720/0
 categories:
 - UK
 - News & Politics
+locations:
+- Atlantic
+- Lancaster County
+- Pennsylvania
+- US
+people:
+- Debra Bogen
+- Debra Houry
+- Demetre Daskalakis
+- Josh Shapiro
+- Robert F Kennedy Jr
+- Stephen Diamantoni
+organisations:
+- CDC
+- Fox News
+- National Center for Immunization and Respiratory Diseases
+- New York Times
+- Stat News
+- WGAL
 ---
 
 A six-week-old child in Pennsylvania died from measles, the Lancaster County coroner has determined, following two measles-related deaths in the county last week.

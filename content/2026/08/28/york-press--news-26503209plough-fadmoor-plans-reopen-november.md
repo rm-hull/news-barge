@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- A VILLAGE
+- Fadmoor Village Hall
+- Kirkbymoorside
+- North Yorkshire
+people:
+- Jon Richardson
+organisations:
+- Channel 4
+- Fadmoor
+- Investor
+- Our Yorkshire Pub Rescue
+- The Plough
 ---
 
 ## North Yorkshire pub made famous by Jon Richardson TV show plans November re-opening

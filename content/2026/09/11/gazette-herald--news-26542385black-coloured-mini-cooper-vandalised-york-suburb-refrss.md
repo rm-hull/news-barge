@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- New Earswick
+- The Groves
+- White Rose Avenue
+- York
+people: []
+organisations:
+- Crimestoppers
+- Mini Cooper
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

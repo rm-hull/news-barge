@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- England
+- India
+- Namibia
+- New Zealand
+- Pakistan
+- South Africa
+- Southampton
+- Sri Lanka
+- Zimbabwe
+people:
+- Alastair Cook
+- Andrew Flintoff
+- Andrew Strauss
+- Brendon McCullum
+- Harry Brook
+- Joe Root
+- Jofra Archer
+- Jonathan Trott
+- Kevin Pietersen
+- Kieron Pollard
+organisations:
+- BBC Sport
+- Delhi Capitals
+- England Lions
+- Guardian
+- Hampshire
+- Indian Premier League
+- KP
+- ODI
+- Proteas
+- Surrey
+- Three Lions
+- ex-Nottinghamshire
 ---
 
 ![Kevin Pietersen looks on during a commentary spell](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e7d7/live/96afb7a0-aaa5-11f1-9eba-7de947fa7cd1.jpg)

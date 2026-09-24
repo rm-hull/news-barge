@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- A1
+- A59
+- M
+- York
+people:
+- Adair Paxton
+- David Cash
+- Simon Dalingwater
+organisations:
+- Aldwark Arms
+- Christie & Co
+- Christit & Co
+- FRP Advisory
+- Pubs & Restaurants
 ---
 
 The Aldwark Arms, a traditional pub in an idyllic village setting near York, has been sold.

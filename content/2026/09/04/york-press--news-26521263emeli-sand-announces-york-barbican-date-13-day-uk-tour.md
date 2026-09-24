@@ -13,6 +13,21 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- London
+- UK
+- York Barbican
+people:
+- Alicia Keys
+- Emeli Sandé
+- Katy Perry
+- Rihanna
+- York
+organisations:
+- Liverpool Philharmonic Hall
+- London Palladium
+- Sandé
+- York Barbican
 ---
 
 ## Award-winning chart-topper adds York date to 13-day UK tour

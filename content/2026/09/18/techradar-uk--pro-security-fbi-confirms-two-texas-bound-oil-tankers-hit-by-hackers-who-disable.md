@@ -11,6 +11,41 @@ image: https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-2560-80.jpg
 categories:
 - Technology & Software
 - True Crime
+locations:
+- Bosnia and Herzegovina
+- East Mediterranean Sea
+- Egypt
+- Galveston
+- Gulf of Mexico
+- Iran
+- Kohaku
+- Malta
+- Marshall Islands
+- Middle East
+- Sarajevo
+- Sidi Kerir Oil Terminal
+- Strait of Gibraltar
+- Texas
+- US
+- United States
+- Washington
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Coast Guard
+- Cybernews
+- FBI Cyber Action Team
+- Google News
+- Mehr News Agency
+- Represent Communications
+- Resistance Front
+- TechRadar Pro
+- US Coast Guard
+- USCG Cyber Protection Team
+- USCG Law Enforcement
+- VL Prosperity
+- Wall Street Journal
 ---
 
 ![Representational image of a cybercriminal](https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF.jpg) 

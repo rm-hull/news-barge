@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Braintree
+- Chelmsford
+- Colchester
+- England
+- Essex
+- MDP Wethersfield
+- Wales
+people:
+- David King
+- Lee Scott
+- Peter Harris
+- Rachel Nolan
+- Stephen Robinson
+- Susie Fowler-Watt
+organisations:
+- BBC Look East
+- Chelmsford City Council
+- Essex County Council
+- Essex Police
+- Lib Dem-run
+- Liberal Democrat
+- Migration Observatory
+- Reform UK-led Essex County Council
+- University of Oxford
 ---
 
 ![Aerial shot of the housing blocks at an airbase. Four rectangular accommodation blocks can be seen, surrounded by grass, trees and roads. There are agricultural fields in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4c7d/live/3109cc10-72ec-11f1-b1db-af71d47507d6.jpg)

@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/03/06/6/34/SEI288054711-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- Britain
+- China
+- Hong Kong
+- New York
+- PA
+- Toby Melville
+- Tuesdayin New York
+- UK
+- US
+people:
+- Andy Burnham
+- Claire Lai
+- Donald Trump
+- Ed Miliband
+- Jimmy Lai
+- Sebastian Lai
+- Xi Jinping
+organisations:
+- Apply Daily
+- Politico
+- UN
+- UNGA
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

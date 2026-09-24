@@ -13,6 +13,41 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Central African Republic
+- China
+- France
+- Germany
+- Iran
+- Israel
+- Mali
+- Moscow
+- North Korea
+- Pakistan
+- Russia
+- Somalia
+- Tehran
+- U.K.
+- US
+- United Kingdom
+- United States
+- Washington
+- Yemen
+people:
+- Antonio Guterres
+- Babak Zanjani
+- Jennifer Locetta
+- Jerome Bonnafont
+- Trump
+- Vassily Nebenzia
+organisations:
+- BitBank
+- Pishtaz Simorgh Electronic Trade Co
+- Security Council
+- State Departments
+- UN Security Council
+- US Treasury
+- United Nations
 ---
 
 ## The proposal which the United States had drafted to extend the UN expert panel’s mandate for a year was defeated by a vote of 11-2, with Somalia and Pakistan abstaining because of the Russian and Chinese vetoes.

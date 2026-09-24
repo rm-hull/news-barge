@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Canning
+- Secret Harbour
+people:
+- '## Hastie'
+- Andrew Hastie
+- Anthony Albanese
+- Barnaby Joyce
+- Ben Roberts-Smith
+- David Farley
+- Don Farrell
+- Karl Stefanovic
+- Pauline Hanson
+- Sorry
+organisations:
+- Coalition
+- Guardian Australia
+- Liberal
+- News24
+- One Nation
 ---
 
 Anthony Albanese has labelled Pauline Hanson nasty and spiteful over resurfaced comments from the One Nation leader criticising his mother for living in public housing for decades.

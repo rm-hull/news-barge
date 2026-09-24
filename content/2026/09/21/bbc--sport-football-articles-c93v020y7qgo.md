@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/254f/live/e6170dc0-b5b3-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Bournemouth
+- Lancashire
+- Portsmouth
+- Portugal
+- Preston North End
+people:
+- '## Blackburn'
+- Andoni Iraola
+- Callum Wilson
+- Erling Haaland
+- Frank Lampard
+- Gady Beyuku
+- Harry Maguire
+- Igor Thiago
+- Keith Andrews
+- Moussa Baradji
+- Nathan Collins
+- Scott Wharton
+- Sepp van den Berg
+- Tony Mowbray
+- Unai Emery
+- Yuri Ribeiro
+organisations:
+- Aston Villa
+- Bees
+- Bees'
+- Blackburn Rovers
+- Brentford
+- Brighton
+- Cardiff
+- Chelsea
+- Coventry
+- EFL
+- Europa League
+- Everton
+- Getafe
+- La Liga
+- League One
+- Leyton Orient
+- Liverpool
+- Manchester City
+- Manchester United
+- Premier League
+- Reading
+- Sevilla
+- Toffees
 ---
 
 ![Brentford boss Keith Andrews speaks with his players on the touchline during a break in play in the Premier League match against Bournemouth](https://ichef.bbci.co.uk/ace/standard/729/cpsprodpb/254f/live/e6170dc0-b5b3-11f1-8d1d-a985658d9d3a.jpg)

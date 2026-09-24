@@ -12,6 +12,18 @@ image: https://cdn.mos.cms.futurecdn.net/Q5GgmTWdfFRSBQ9ygxjdkM-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- James
+organisations:
+- AI
+- Amazon
+- Apple
+- Best Buy
+- Clarity Media
+- Google News
+- TechRadar
+- iPhone Air
 ---
 
 ![Apple iPhone 17 Review](https://cdn.mos.cms.futurecdn.net/Q5GgmTWdfFRSBQ9ygxjdkM.jpg) 

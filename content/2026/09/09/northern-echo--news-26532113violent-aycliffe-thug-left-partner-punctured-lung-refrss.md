@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- DURHAM
+- Newton Aycliffe
+- North East
+- Rowan Place
+people:
+- Deborah Sherwin
+- Gordon Nicholson
+- Katis Spence
+- Miss Spence
+- Penny Hall
+organisations:
+- Durham Constabulary
 ---
 
 *(Image: DURHAM POLICE)*

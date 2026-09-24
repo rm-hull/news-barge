@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- York
+people:
+- '!** Anna'
+- Brenda
+- Esme Young
+- Patrick Grant
+- Steve
+organisations:
+- BBC One
+- St Leonard’s Hospice
 ---
 
 If you haven’t watched the final of *The Great British Sewing Bee* 2026, look away now.

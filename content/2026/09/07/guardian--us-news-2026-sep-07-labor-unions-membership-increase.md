@@ -12,6 +12,27 @@ image: https://i.guim.co.uk/img/media/69fcdcc33ee583c501db5791b831dce6bca7e5ce/7
 categories:
 - UK
 - News & Politics
+locations:
+- Connecticut
+- US
+- Urbana-Champaign
+- Virginia
+- Washington
+people:
+- Frank Manzo IV
+- Jim Crow-era
+- Liz Shuler
+- Robert Bruno
+- Vance Muse
+organisations:
+- AFL-CIO
+- Gallup
+- ILEPI
+- Illinois Economic Policy Institute
+- NYU Wagner Labor Initiative
+- Project for Middle Class Renewal
+- State Futures
+- University of Illinois
 ---
 
 After years of decline, union membership in the US increased by 411,000 members in 2025, the largest increase since 2008, according to a new report.

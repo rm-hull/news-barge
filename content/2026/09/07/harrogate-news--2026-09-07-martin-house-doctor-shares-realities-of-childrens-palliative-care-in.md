@@ -14,6 +14,25 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Cambridge
+- Cardiff
+- Martin House
+- Thirsk
+people:
+- Michelle Hills
+- Michelle’s
+organisations:
+- All-Party Parliamentary Group for Dying Well
+- Houses of Parliament
+- Martin House Children’s Hospice
+- Mirror Books
+- NHS
+- Paediatric Palliative Medicine
+- Paediatric Palliative Medicine Committee
+- Royal College of Paediatrics and Child Health
+- Society
+- Thirsk
 ---
 
 A doctor at Martin House Children’s Hospice is launching a new book in Thirsk this weekend, drawing on her experiences caring for seriously ill children and their families.

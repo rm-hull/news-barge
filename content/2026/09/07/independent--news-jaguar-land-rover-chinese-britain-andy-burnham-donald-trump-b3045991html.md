@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Britain
+- India
+- U.K.
+- U.S.
+people:
+- Andy Burnham
+- Donald Trump
+- PB Balaji
+organisations:
+- Discovery
+- Jaguar Land Rover
+- Range Rover
+- Tata Motors
 ---
 
 Jaguar Land Rover said Monday it will cut 4,000 jobs across its global workforce as it tries to cut costs and compete with Chinese electric carmakers.

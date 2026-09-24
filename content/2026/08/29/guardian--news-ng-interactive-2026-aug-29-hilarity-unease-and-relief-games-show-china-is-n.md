@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Beijing
+- China
+- Edinburgh
+- India
+- Kyiv
+- Shanghai
+- US
+- Ukraine
+- Washington DC
+people:
+- Arun Bothra
+- Charlie Higson
+- Donald Trump
+- Georg Stieler
+- Ingo Keller
+- Monty Python
+- Thrishantha Nanayakkara
+- Usain Bolt
+- Wang Xingxing
+- Xi Jinping
+organisations:
+- AI
+- Chinese Communist
+- Dyson
+- Elon Musk
+- Heriot-Watt University
+- Imperial College London
+- LinkedIn
+- Mercator Institute for Chinese Studies
+- National Robotarium
+- Tiangong Ultra
+- Trump
+- Unitree
 ---
 
 With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless violence, the World Humanoid Robot Games in Beijing gripped the world this week with an unsettling mixture of hilarity, trepidation and relief.

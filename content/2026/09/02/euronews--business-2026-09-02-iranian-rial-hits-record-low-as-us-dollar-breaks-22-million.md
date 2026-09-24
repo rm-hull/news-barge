@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Azadi
+- Iran
+- Islamic Republic
+- Tehran
+- UAE
+- UK
+- US
+- Washington
+people:
+- Abdolnaser Hemmati
+- Masoud Pezeshkian
+organisations:
+- 26th Shanghai Cooperation Organisation
+- Central Bank
+- Central Bank of Iran
+- US Treasury
 ---
 
 **Euronews Persian**

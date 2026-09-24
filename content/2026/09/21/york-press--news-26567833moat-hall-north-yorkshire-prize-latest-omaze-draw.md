@@ -13,6 +13,24 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21481464.jpg?type=og-image
+locations:
+- Boroughbridge
+- Little Ouseburn
+- Moat Hall
+- North Yorkshire
+- UK
+- York
+people:
+- Helen Rowntree
+- Matt Pohlson
+- Omaze
+organisations:
+- Blood Cancer UK
+- Mencap
+- Moat Hall
+- Omaze
+- Pic
+- Yorkshire Mum
 ---
 
 ## PICTURES: See inside £4million North Yorkshire home in latest Omaze prize draw

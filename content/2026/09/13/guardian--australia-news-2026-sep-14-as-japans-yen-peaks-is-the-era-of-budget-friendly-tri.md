@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Travel
 - Personal Finance & Investing
+locations:
+- Asia
+- China
+- Indonesia
+- Japan
+- Kyoto
+- New Zealand
+- Osaka
+- South Korea
+- Tokyo
+- US
+- Vietnam
+- Wall Street
+- Washington
+people:
+- Chinamaxxing’ Joseph Cheer
+- Dean Long
+- Scott Bessent
+organisations:
+- Australian Bureau of Statistics
+- Australian Travel Industry Association
+- IG
+- Western Sydney University
 ---
 
 In the unpredictable world of global currency markets, there has been one safe bet: that the Japanese yen would continue its relentless decline.

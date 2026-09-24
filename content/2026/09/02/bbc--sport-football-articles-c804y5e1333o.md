@@ -14,6 +14,130 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Argentina
+- Aston Villa
+- Barcelona
+- Brazil
+- Chelsea
+- England
+- Everton
+- Germany
+- Japan
+- Liverpool
+- Manchester United
+- Morocco
+- Nottingham Forest
+- Old Trafford
+- Paris
+- Spain
+- Villa Park
+people:
+- Aaron Wan-Bissaka
+- Alejandro Garnacho
+- Allan Elias
+- Andoni Iraola
+- Andrey Santos
+- Arne Slot
+- Arsenalhave
+- Ayyoub Bouaddi
+- Benjamin Sesko
+- Bernardo Silva
+- Bradley Barcola
+- Bruno Guimaraes
+- Bryan Mbeumo
+- Carlos Baleba
+- Christos Tzolis
+- Cole Palmer
+- Danny Welbeck
+- De Zerbi
+- Diego Simeone
+- Eberechi Eze
+- Elliot Anderson
+- Emiliano Martinez
+- Enzo Fernandez
+- Enzo Maresca
+- Ezri Konsa
+- Ibrahim Mbaye
+- Iliman Ndiaye
+- Jack Grealish
+- James Trafford
+- Joao Gomes
+- Joao Pedro
+- Johan Manzambi
+- John Stones
+- Jordan Henderson
+- Julian Alvarez
+- Lamine Camara
+- Leon Goretzska
+- Lucas Digne
+- Matheus Cunha
+- Matteo Ruggeri
+- Maxence Lacroix
+- Michael Carrick
+- Mikel Arteta
+- Mohamed Salah
+- Morgan Rogers
+- Mykhailo Mudryk
+- Nathan Ake
+- Nico Gonzales
+- Nicolas Jackson
+- Ollie Watkins
+- Omar Marmoush
+- Pep Guardiola
+- Robert Sanchez
+- Roberto De Zerbi
+- Rodri
+- Ruben Amorim
+- Savio
+- Taylor Harwood-Bellis
+- Tijjani Reijnders
+- Tosin Adarabioyo
+- Unai Emery
+- Victor Munoz
+- Xabi Alonso
+- Youri Tielemans
+- Zion Suzuki
+organisations:
+- Anfield
+- Arsenal Arsenal
+- Aston Villa
+- Atletico Madrid
+- Baleba
+- Barcelona
+- Bradley Barcola Liverpool
+- Brentford
+- Bruno Guimaraes
+- Chelsea
+- Coventry City
+- Enzo Fernandez
+- Europa League
+- Ezri Konsa
+- Football Association
+- Freiburg
+- Fulham
+- Hull City
+- Ipswich Town
+- Lille
+- Man City
+- Manchester City
+- Manchester City.
+- Monaco
+- Morgan Rogers
+- Newcastle United
+- Nottingham Forest
+- Palmeiras
+- Paris Saint-Germain
+- Parma
+- Premier League
+- Shakhtar Donetsk
+- Southampton
+- Spurs
+- The Community Shield
+- The Gunners
+- Tottenham Hotspur
+- West Ham United
+- Wolverhampton Wanderers
 ---
 
 ![Eberechi Eze and Ezri Konsa](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9eda/live/728decc0-a659-11f1-b9c3-ff4913859afc.jpg)

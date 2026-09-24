@@ -12,6 +12,14 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21489666.jpg?type=og-image
+locations:
+- UK
+people: []
+organisations:
+- FSA
+- Food Standards Agency
+- Heinz
+- Waitrose
 ---
 
 *(Image: Getty Images)*

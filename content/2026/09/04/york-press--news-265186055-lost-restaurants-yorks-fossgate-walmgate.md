@@ -11,6 +11,31 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Foss Bridge
+- Fossgate
+- Little Asia
+- Loch Fyne
+- Mumbai
+- The York
+- Walmgate
+- York.
+- Yorkshire
+people:
+- James Martin
+organisations:
+- Bistro Moderne
+- Blue Bicycle
+- Blue Bicycle Restaurant
+- Everest Gurkha
+- Fossgate
+- HMV
+- Harville's
+- J Baker
+- Le Cochon Aveugle
+- Mumbai Lounge
+- Rish
+- The Blue Barbakan
 ---
 
 ## 5 'lost' restaurants from York's eating-out scene we miss – in photos

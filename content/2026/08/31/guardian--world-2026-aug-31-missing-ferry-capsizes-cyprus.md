@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Cyprus
+- Kyrenia
+- Mersin
+- Taşucu
+- Turkey
+people:
+- Naif Ezer
+organisations: []
 ---
 
 Nearly 20 people are still missing after a ferry capsized off northern Cyprus, killing at least eight, as divers join search teams scouring deep waters for any survivors.

@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/15/21/2026-09-15T173741Z_9187504
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Caribbean
+- Iran
+- Kentucky
+- United States
+people:
+- Ed Gallrein
+- Kingsley Wilson
+- Pete Hegseth
+- Thomas Massie
+- Trump
+- Yassamin Ansari
+organisations:
+- Cabinet
+- Congress
+- Constitution
+- Department of Defense
+- Department of War
+- House of Representatives
+- Navy SEAL
+- Pentagon
+- Politico
+- The Hill
 ---
 
 Republican Representative Thomas Massie of Kentucky has filed a resolution to impeach Defense Secretary Pete Hegseth, forcing the House of Representatives to hold a vote on the matter within two days.

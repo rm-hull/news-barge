@@ -14,6 +14,35 @@ categories:
 - Travel
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21487268.jpg?type=og-image
+locations:
+- Bike Base
+- Blakey Ridge North York Moors National Park
+- Danby
+- Esk Valley Railway
+- Great Ayton
+- Gribdale
+- Guisborough
+- Mick Kirkman
+- Middlesbrough
+- North York Moors
+- North York Moors'
+- North Yorkshire
+- Roseberry Topping
+- Skinningrove
+- UK
+- Whitby
+people:
+- Guy Kesteven
+- John
+- Lois Fife
+- Mick Kirkman
+organisations:
+- Minds
+- National Park
+- National Park Authority
+- North York Moors
+- Sutton Bank
+- Yorkshire
 ---
 
 *(Image: Mick Kirkman)*

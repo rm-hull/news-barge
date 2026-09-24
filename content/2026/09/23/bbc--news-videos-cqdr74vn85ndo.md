@@ -11,6 +11,20 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc8a/live/8f91a6b0-b750-11f1-a430-4d16ee157c41.jpg
+locations:
+- Chagos Islands
+- Indian Ocean
+- Mauritius
+- UK
+- US
+- United States
+people:
+- Caroline Hawley
+- Donald Trump
+- Wes Streeting
+organisations:
+- BBC
+- UN General Assembly
 ---
 
 # Watch: Why is the UK reviewing its Chagos Islands deal?

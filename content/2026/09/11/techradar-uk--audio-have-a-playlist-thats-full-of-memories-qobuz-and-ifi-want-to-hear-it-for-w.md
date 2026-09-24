@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/PfhjrTGec6LoRqVSPXLtfB-1920-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Alzheimer
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- Gryphon4
+- National Library of Medicine
+- Qobuz
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- iFi Audio
 ---
 
 ![iFi iDSD GR 2 plugged into music player and headphones](https://cdn.mos.cms.futurecdn.net/PfhjrTGec6LoRqVSPXLtfB.jpg) 

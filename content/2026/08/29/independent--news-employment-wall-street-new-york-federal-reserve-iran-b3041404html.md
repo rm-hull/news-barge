@@ -13,6 +13,14 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- U.S.
+- Wall Street
+people: []
+organisations:
+- Fed
+- Federal Reserve
 ---
 
 Wall Street will get several important updates this week about the health of the U.S. jobs market.

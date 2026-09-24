@@ -14,6 +14,24 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/19/20/Dearborn_Religious_Expression_63791.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Dearborn
+- Detroit
+- Hamas Street
+- Hezbollah Street
+- Peace Park
+- U.S.
+people:
+- Abdullah Hammoud
+- Margot Cleveland
+- Osama Siblani
+- Ted Barham
+organisations:
+- City Council
+- Cleveland
+- Constitution
+- The Federalist
+- The Guardian
 ---
 
 The city of Dearborn responded Saturday to a lawsuit accusing it of celebrating Muslim holidays and ignoring religious holidays of other faiths by blaming attacks against it on its diversity and “welcoming nature.”

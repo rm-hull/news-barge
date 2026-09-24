@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ayrshire
+- Britain
+- Dumfries House
+- Scotland
+- U.K.
+people:
+- Charles III
+- Dario Amodei
+- Jacob Coxon
+- Kanishka Narayan
+- Louise Haigh
+- Sam Altman
+- Sarah Friar
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Google DeepMind
+- Nvidia
+- OpenAI
+- The King's Foundation
 ---
 
 King Charles III is meeting Thursday with senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to discuss artificial intelligence and make a plea to ensure the technology remains in the service of people and the planet.

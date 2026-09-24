@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d42d/live/eb230bb0-b5fa-11f1-a430-4d16ee157c41.jpg
+locations:
+- Dover
+- Folkestone
+- Kent
+- Normandy
+- UK
+people:
+- Andy Burnham
+organisations:
+- BBC Radio Kent
+- Border Security Command
+- Home Office
+- Kent Police
+- RNLI
 ---
 
 ![A group of people thought to be migrants are brought in to the Border Security Command compound in Dover, Kent, from a Border Security Command vessel following a small boat incident in the Channel. Picture date: Monday September 21, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d42d/live/eb230bb0-b5fa-11f1-a430-4d16ee157c41.jpg)

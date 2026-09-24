@@ -11,6 +11,16 @@ description: Sony's last disc factory is not disappearing yet, despite fears tha
 image: https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Thalgau
+people: []
+organisations:
+- Dietmar
+- Efosa
+- Google News
+- Microsoft
+- Sony DADC
+- TechRadar Pro
 ---
 
 ![PS5 game disc of Undisputed boxing game in case](https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg.jpg) 

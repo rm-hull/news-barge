@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Creamfields
+- England
+- Leeds
+- North West
+- Northern Ireland
+- Reading
+- Scotland
+- UK
+- Wales
+people:
+- Annie Shuttleworth
+organisations:
+- '## Met Office'
+- Met Office
+- Most of England
 ---
 
 *(Image: Getty Images)*

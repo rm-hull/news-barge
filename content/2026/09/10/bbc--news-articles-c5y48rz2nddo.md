@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Gulf
+- Iran
+- Israel
+- Middle East
+- Mokha
+- Red Sea
+- Strait of Hormuz
+- Texas
+- UK
+- US
+- USA
+- Yemen
+people:
+- Chris Beauchamp
+- Trump
+organisations:
+- IG
+- Ofgem
+- Republican Party
 ---
 
 ![Person wearing a black leather jacket filling up their car from the petrol pump](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg)

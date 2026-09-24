@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/GQqTnKgcMg4Hx2cYUmjzQo-2560-80.jpg
+locations:
+- AI
+- UK
+people:
+- AI Czar
+- Marc Benioff
+- Mike Moore
+- Trump
+organisations:
+- AI Force
+- AIforce
+- Artificial Intelligence
+- B2B
+- B2C
+- Google News
+- ITProPortal
+- Salesforce
+- Space Force
+- TechRadar Pro
+- Truth Social
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/GQqTnKgcMg4Hx2cYUmjzQo.jpg)

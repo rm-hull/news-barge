@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Athersley South
+- Barnsley
+- Wingfield Road
+people:
+- Ben Wood
+organisations:
+- Yorkshire Ambulance Service
 ---
 
 # Murder investigation launched after man found dead with multiple injuries

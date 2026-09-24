@@ -15,6 +15,16 @@ categories:
 - Society & Culture
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21481179.jpg?type=og-image
+locations:
+- North Yorkshire
+- York
+people:
+- Charlotte Farrington
+organisations:
+- The Yorkshire Children’s Charity
+- YCC
+- YORKSHIRE
+- Yorkshire Children’s Charity
 ---
 
 A YORKSHIRE charity is appealing for help in supporting children in need this winter.

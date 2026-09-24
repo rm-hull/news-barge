@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/73fe2980e1244a7c5922871e73106b9e78bbfcaa/810_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba538cccf11bc1ccbcd092d3a4ce025b
+locations:
+- Australia
+- Geelong
+- M3
+- Melbourne
+- Northern Territory
+- Plumpton
+- Queensland
+- Victoria
+people:
+- Alice Jordan-Baird
+- Ben Carroll
+- Ella George
+- Jacinta Allan
+- Katie Hall
+- Lara
+- Loy Yang A
+- Sam Rae
+organisations:
+- Footscray
+- Greens
+- Labor
+- NextDC
+- Syncline Energy
 ---
 
 Datacentres in Victoria will be banned in residential areas and required to use renewable energy and contribute to the community, under new state government rules.

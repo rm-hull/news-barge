@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/15/download.-6.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- New York
+- U.S.
+- United States
+- White House
+- then-White House
+people:
+- Donald Trump
+- Kaitlan Collins
+- Karoline Leavitt
+- Melania Trump
+organisations:
+- ABC
+- CBS
+- CNN
+- Fox News
+- General Assembly
+- MSNOW
+- NBC
+- Politico
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 President Donald Trump scolded CNN’s Kaitlan Collins for being at the United Nations General Assembly to cover his speech after he banned the network, along with MSNOW and *Politico*, from the White House for what he perceived as unflattering coverage of his presidency.

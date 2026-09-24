@@ -14,6 +14,81 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Cannes
+- Chile
+- Elsinore
+- Gala
+- London
+- Russia
+- Sundance
+- Sutherland
+- UK
+- Venice
+people:
+- Alice Bailey Johnson
+- Andrew Haigh
+- Andrew Scott
+- Anthony Wonke
+- Ava DuVernay
+- Boots Riley
+- Brad Bird
+- Colm Tóibín
+- Cristian Mungiu
+- Cynthia Erivo
+- Danny Boyle
+- Demi Moore
+- Fatherland
+- Fjord
+- Ian Charleson
+- Ink
+- James Gray
+- Jesse Eisenberg
+- John Malkovich
+- Jordan Firstman
+- Josephine
+- Julianne Moore
+- Kate O’Flynn
+- Kazuo Ishiguro
+- Keke Palmer
+- Klara
+- Kristy Matheson
+- Luca Guadagnino
+- Maggie Gyllenhaal
+- Mahershala Ali
+- Marion Bailey
+- Martin McDonagh
+- Michael Winterbottom
+- Mike Leigh
+- Naomi Ackie
+- Olivia Colman
+- Olivia Wilde
+- Paul Giamatti
+- Paweł Pawlikowski
+- Pedro Pascal
+- Pinochet
+- Rob Brydon
+- Rodrigo Sorogoyen
+- Rupert Murdoch
+- Sergei Loznitsa
+- Simon Stone
+- Sofia Coppola
+- Steve Coogan
+- Sudden
+- Susanna White
+- Suzie Miller
+- Taika Waititi
+- Tender Loving Care
+- Will Arnett
+organisations:
+- Artificial
+- Elsinore
+- Imperium
+- LFF
+- Labour
+- Paper Tiger
+- Sun
+- The Beloved
 ---
 
 Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”.

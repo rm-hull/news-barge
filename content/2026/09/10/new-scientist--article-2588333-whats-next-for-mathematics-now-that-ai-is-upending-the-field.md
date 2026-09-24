@@ -12,6 +12,21 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311668111.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Los Angeles
+people:
+- Helen Wilson
+- Henri Poincaré
+- Sébastien Bubeck
+- Terence Tao
+organisations:
+- AI
+- Clay Mathematics Institute
+- Navier-Stokes
+- OpenAI
+- PhD
+- University College London
+- University of California
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311668111.jpg?w=840)

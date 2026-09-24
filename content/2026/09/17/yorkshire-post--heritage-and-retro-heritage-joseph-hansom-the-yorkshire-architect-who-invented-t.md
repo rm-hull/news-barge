@@ -16,6 +16,48 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Australia
+- Bodelwyddan Castle
+- Chicago
+- Denbighshire
+- Halifax
+- Hansom
+- Hinckley’s Coventry Road
+- Isle of Man
+- King William’s College
+- Liverpool
+- New York City
+- Philips’
+- South America
+- St Martin
+- St Michael le Belfrey
+- UK
+- US
+- Yorkshire
+people:
+- Alfred Bartholomew
+- Charles Francis Hansom
+- Edward J. Hansom
+- Edward Welch
+- George Glover
+- Hannah Glover
+- Hansom Cab
+- Henry
+- John Oates
+- Joseph Aloysius Hansom
+- Joseph Aloysius Hansom** Joseph
+- Joseph Hansom
+- Matthew Philips
+- Robert Owen
+- Thomas Attwood
+organisations:
+- Birmingham Town Hall
+- Building
+- City of York
+- Hulton Archive
+- Operative Builders Union
+- The Builder
 ---
 
 # Joseph Hansom: The Yorkshire architect who invented the Hansom cab in 1843 - a horse-drawn vehicle that was commonly used in cities worldwide during the Victorian era including the US

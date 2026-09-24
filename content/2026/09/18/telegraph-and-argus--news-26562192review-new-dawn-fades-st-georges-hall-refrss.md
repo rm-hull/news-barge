@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Macclesfield
+- Manchester
+- St George’s Hall
+- Sumner
+- UK
+- Warsaw
+people:
+- Bernard Sumner
+- Brian Gorman
+- Charlie Shaw
+- Curtis’
+- Debbie
+- Friedrich Engels
+- Hooky
+- Ian Curtis
+- Josh Lonsdale
+- Kai Ross
+- Lauren Greenwood
+- Martin Hannett
+- Neal Ward
+- Paddy Echlin
+- Pete Shelley
+- Peter Hook
+- Sam Glyde-Rees
+- Stephen Morris
+- Tony Wilson
+organisations:
+- Granada Reports
+- Joy Division
+- Lesser Free Trade Hall
+- New Dawn Fades
+- Salford Grammar School
+- Wilson’s Factory Records
 ---
 
 A PLAY play about Ian Curtis, troubled frontman of Joy Division, was always going to be bleak. What I wasn’t expecting was the humour, essentially of the northern variety, that drove much of this compelling production.

@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- '## Qeshm'
+- Hengam
+- Iran
+- Strait of Hormuz
+- United States
+people:
+- Amir Teymouri
+organisations: []
 ---
 
 ## Qeshm city governor Amir Teymouri said, according to state TV, "A merchant vessel was struck around 5:00 am (0130 GMT) this morning off the coasts of Hengam and Qeshm islands. One person was killed and three others were injured,".

@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Livia’s
+- Liv’s
+- York Racecourse
+people:
+- Ali
+- Alison Goude
+- Liv Forever
+- Livia Wilson
+- Molly Grace
+organisations:
+- ISF York
+- Meningitis Research Foundation
+- York Community Pride
 ---
 
 An inspirational fundraiser who has dedicated herself to raising awareness of the condition which took her daughter’s life has been presented with a York Community Pride award.

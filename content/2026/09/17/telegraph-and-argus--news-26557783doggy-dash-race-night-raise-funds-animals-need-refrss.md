@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Pets & Animals
+locations:
+- Halifax
+- Huddersfield
+people:
+- Marley
+organisations:
+- Huddersfield & Bradford Branch
+- Huddersfield Lions Club
+- Lindley Liberal Club
+- RSPCA Halifax
+- Really Big Refurb
 ---
 
 *(Image: Supplied)*

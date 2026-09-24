@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Bradford
+people:
+- Alex Whitehead
+- Jordan Lilley
+- Paul Wild
+- Player
+- Richard Bloodworth
+- Tom Pearson
+organisations:
+- Bradford
+- Bulls
+- Doncaster
+- GoFundMe
+- MNA Group
+- NHS
+- Sheffield
+- T&A
 ---
 
 *(Image: Tom Pearson)*

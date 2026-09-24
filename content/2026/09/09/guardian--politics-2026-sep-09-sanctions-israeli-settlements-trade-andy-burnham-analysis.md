@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Denton
+- East Jerusalem
+- England
+- Gaza
+- Gorton
+- Holborn
+- Israel
+- London
+- Palestine
+- St Pancras
+- UK
+- Wales
+- West Bank
+people:
+- Abraham
+- Andy Burnham
+- Corbyn
+- Ed Miliband
+- Edward Leigh
+- Keir Starmer
+- Kemi Badenoch
+- Tom Tugendhat
+- Zack Polanski
+organisations:
+- Commons
+- Greens
+- Jewish Chronicle
+- Labour
+- Liberal Democrat and Green
+- Reform
+- YouGov
 ---
 
 There was a time when placing Israel under strict trade sanctions would have been a politically risky thing for a British prime minister to do. Andy Burnham, however, considers it an electoral asset.

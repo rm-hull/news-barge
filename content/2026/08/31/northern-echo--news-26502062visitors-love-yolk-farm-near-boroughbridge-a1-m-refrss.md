@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Boroughbridge
+- Darlington
+- M
+- Minskip
+- North Yorkshire
+- Nottingham
+- Seahouses
+- The Yard
+- Wetherby
+- Yolk Farm
+- Yolk Kitchen
+people: []
+organisations:
+- A1
+- Minskip Farm Shop
+- Yolk Farm
+- Yorkshire Dales
 ---
 
 *(Image: TRIPADVISOR)*

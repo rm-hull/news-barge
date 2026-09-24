@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d92/live/fcec8e70-b36b-11f1-8f19-bd786ea30d0b.jpg
+locations:
+- Britain
+- England.
+- London
+- Trafalgar Square
+people:
+- Chioma Nnadi
+- Farron Clark
+- Instagram
+- Jodie Kidd
+- Lisa Illis
+- Marco Capaldo
+- Melissa Holbrook-Akposoe
+- Perrie Sian
+- Stormzy
+organisations:
+- 16Arlington
+- BBC
+- British Vogue
+- Claire's
+- Design Museum
+- Marks and Spencer
+- Primark
+- Sian, M&S
+- The Design Museum
 ---
 
 ![Models backstage ahead of the M&S show during London Fashion Week September 2026 at The Design Museum on September 18, 2026 in London, England.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/016f/live/14feaea0-b365-11f1-a430-4d16ee157c41.jpg)

@@ -11,6 +11,39 @@ image: https://cdn.mos.cms.futurecdn.net/bAKg8h7YbSj7xEQNjC7EXi-1600-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Neoverse N2
+people:
+- Tom
+- Vega
+organisations:
+- AGI
+- AMD
+- AWS
+- AWS’ Graviton5
+- Arm
+- Azure
+- ByteDance
+- CPUs
+- CSS
+- Cloudflare
+- DPUs
+- Get Tom's Hardware
+- Google Cloud
+- Google News
+- Intel
+- Lenovo
+- Meta
+- Microsoft
+- Neoverse N1
+- Neoverse N4
+- Neoverse V3
+- Nvidia
+- OpenAI
+- Oracle
+- SAP
+- TSMC
+- Tom’s Hardware
 ---
 
 ![An Arm CPU in a motherboard.](https://cdn.mos.cms.futurecdn.net/bAKg8h7YbSj7xEQNjC7EXi.jpg) 

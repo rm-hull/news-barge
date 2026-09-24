@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Catterick Garrison
+- County Durham
+- Gough Road
+- Low Row
+- North Yorkshire
+- Plumer Road
+- Richmondshire
+- The Yorkshire
+- Whitaside
+people:
+- Cllr Foster
+- Colburn
+- Hipswell
+- Kevin Foster
+organisations:
+- NORTHERN ECHO
+- North Cowton Parish Council
+- North Yorkshire Council
+- Tesco
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -16,6 +16,21 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- South Yorkshire
+people:
+- Alessandro Di Nuovo
+organisations:
+- AI
+- Alessandro Di Nuovo
+- CEAIR
+- Centre of Excellence in Artificial Intelligence and Robotics
+- Sheffield Children’s Hospital
+- Sheffield Hallam
+- Sheffield Hallam University
+- Sheffield Hallam University.
+- South Yorkshire
 ---
 
 # Why AI cannot belong to computer science alone - Alessandro Di Nuovo

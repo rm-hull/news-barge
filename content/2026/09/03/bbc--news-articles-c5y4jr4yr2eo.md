@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Gail's
+- Las Iguanas
+- Turtle Bay
+people:
+- Byron**
+- Caffè Nero
+- Costa
+- Emma Richards
+- Greggs
+- Sue Hayward
+organisations:
+- '**Nike'
+- Asos
+- Bella Italia
+- Bill's**
+- Data Privacy Advisory Service
+- Frankie & Benny
+- Hobbycraft** Club
+- Hotel Chocolat
+- Krispy Kreme
+- Levi's
+- Lidl
+- Lindt**
+- Odeon
+- Pizza Express
+- River Island
+- Timberland
 ---
 
 ![A young woman holding a pink birthday cake with five candles on, wearing a party hat and striped shirt, celebrating her birthday, with balloons seen hanging behind her](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c97d/live/d61d4260-90b8-11f1-b8f3-bf6a2c059a9b.jpg)

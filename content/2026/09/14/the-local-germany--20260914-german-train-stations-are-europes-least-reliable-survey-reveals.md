@@ -14,6 +14,32 @@ categories:
 - Germany
 - News & Politics
 - History
+locations:
+- Berlin Central Station
+- Bremen
+- Cologne
+- Essen
+- Europe
+- Frankfurt am Main
+- Germany
+- Hagen
+- Hamburg
+- Munich
+- North-Rhine Westphalian
+- Nüremberg
+- Regensburg
+- Ruhr
+- Stuttgart
+people:
+- Evelyn Palla
+- Italo
+organisations:
+- DB
+- Deutsche Bahn
+- Dortmund
+- Flixtrain
+- Italo
+- Tagesspiegel
 ---
 
 For commuters used to seeing *"Züg verspätet"* (train delayed) notices flashing at their local station, seeing the names of German cities at the bottom of reliability rankings may not come as a surprise.

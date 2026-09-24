@@ -11,6 +11,33 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Ash
+- Germany
+- Haworth
+- Heathcliff
+- Ida Oberstein
+- North Yorkshire
+- Pateley Bridge
+- Ponden Hall
+- Wuthering Heights
+- York
+people:
+- Alice Clarke
+- Alice Clarke Jacqueline Warrington
+- Alison Tetley Joanne
+- Cathy
+- Edgar Linton
+- Emily Bronte
+- Heathcliff
+- Jacqueline Warrington
+- Joanne Gowan
+- Nelly
+- Wuthering Heights
+organisations:
+- Acquire
+- Ampleforth Abbey
+- RM Weare
 ---
 
 ## Artist's intricate work captures Wuthering Heights in jewels

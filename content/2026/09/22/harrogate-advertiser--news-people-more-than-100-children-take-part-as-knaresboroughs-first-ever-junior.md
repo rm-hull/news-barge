@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2ZWFjODYxLWQzYTMtNGMwYS1hZDQ3LWNiYWRmMGFjOGQ1NTowOTNhM2VlNS01ZTlkLTQ4MDYtYmNiMy03MmQyYjJjYWVmMmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Conyngham Hall
+- Knaresborough
+people:
+- Annabelle
+- Hannah
+- Lily
+- Matilda
+- Paige
+- Rowan
+- Timothy
+organisations:
+- Conyngham Hall
+- Harrogate
+- Knaresborough Round Table
+- Knaresborough Striders
+- Knaresborough Town Council
+- NYC Locality Fund
+- Nidd Valley Road Runners
+- Parkrun
+- Pavers Foundation
+- Vistry Homes
 ---
 
 # More than 100 children take part as Knaresborough's first-ever junior parkrun gets off to flying start

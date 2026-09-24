@@ -12,6 +12,25 @@ description: I hope Grand Theft Auto 6 fans have booked enough time off work, be
 image: https://cdn.mos.cms.futurecdn.net/rRCoLPGXM2igjs9MvnzMd5-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Vice City
+people:
+- Jason
+- Leonida
+- Lucia
+- Rob Nelson
+organisations:
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PS5
+- Rockstar North
+- Series S
+- TechRadar
+- The New York Times
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/rRCoLPGXM2igjs9MvnzMd5.jpg) 

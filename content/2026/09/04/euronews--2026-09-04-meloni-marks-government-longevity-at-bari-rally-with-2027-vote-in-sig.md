@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Bari
+- Italian Republic
+- Italy
+people:
+- '## Meloni'
+- Giorgia Meloni
+- Silvio Berlusconi
+organisations:
+- Brothers of Italy
 ---
 
 ## The durability of Meloni’s coalition has been a rarity in postwar Italy, where governments have often fallen before the end of their mandates.

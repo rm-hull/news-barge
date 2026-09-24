@@ -14,6 +14,17 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Liverpool
+- Silver Street
+- Visit York
+people:
+- Mulgrave
+organisations:
+- Facebook
+- Some Press
+- The Press
+- WCs
 ---
 
 ## 'Pay as you go the logical answer to WC provision' - Press readers have their say

@@ -10,6 +10,16 @@ description: Schroeder skips human testers entirely and lets a coding agent watc
 image: https://cdn.mos.cms.futurecdn.net/LDNo5xaNNmgFfASnboDh2A-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Justin Schroeder
+organisations:
+- AI
+- AMD Radeon
+- Efosa
+- Google News
+- Intel
+- TechRadar Pro
 ---
 
 ![Intel MacBook webcam watching its own screen](https://cdn.mos.cms.futurecdn.net/LDNo5xaNNmgFfASnboDh2A.png) 

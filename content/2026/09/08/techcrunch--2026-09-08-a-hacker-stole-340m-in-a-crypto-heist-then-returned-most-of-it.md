@@ -10,6 +10,13 @@ image: https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_L
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Samson Mow
+organisations:
+- Blockstream
+- Liquid Network
+- Mow
 ---
 
 A hacker stole thousands of bitcoins worth about $340 million in a heist at a settlement exchange used by several cryptocurrency exchanges, representing one of the largest known thefts of crypto this year.

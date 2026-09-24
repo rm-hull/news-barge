@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Norway
+- Oslo
+- Royal Palace Square
+- Slottsplassen
+- Sweden
+people:
+- Haakon VIII
+- Harald Fairhair
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- Mette-Marit
+- Roni Ervik
+organisations:
+- Lutheran Church of Norway
+- NRK
+- Supreme Court
 ---
 
 Tens of thousands of mourners paid their respects to Norway's King Harald V on Saturday, placing flowers and condolence cards in front of the royal palace in Oslo a day after the monarch died at the age of 89.

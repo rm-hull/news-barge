@@ -12,6 +12,74 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckingham Palace
+- England.
+- Galfa Tower
+- Iran
+- Islamic Republic
+- Italy
+- London
+- Manhattan
+- Middle East
+- Milan
+- New York
+- New York City
+- New York.
+- North Tower
+- Pennsylvania
+- Saudi Arabia
+- Shanksville
+- Torre Galfa
+- Twin Towers
+- U.S.
+- US
+- United Kingdom
+- United States
+people:
+- Barack Obama
+- Bill Clinton
+- Condoleezza Rice
+- Dennis Scauso
+- Donald Trump
+- Ed Miliband
+- Gary
+- George W Bush
+- Howard Lutnick
+- JD Vance
+- Janice Brooks
+- Joe Biden
+- John Resta
+- Juliette Scauso
+- Louis J. Nacke II
+- Mary White Henderson
+- Michael Bloomberg.
+- Osama Bin-Laden
+- Paula Jacobs
+- Sylvia
+- Terrance Andre Aiken
+- Terry Strada
+- Tom Strada
+- Warren Stephens
+organisations:
+- '![Fire Department of New York'
+- Aviano Air Base
+- BBC
+- Commission Report
+- FDNY
+- Families United
+- Lloyd's of London
+- Lloyds of London
+- Massed Bands of the Guards Division
+- New York City Fire Department
+- Pentagon
+- South Tower
+- Toronto Stock Exchange
+- Twin Towers
+- US Commerce
+- Wall of Names
+- World Trade Center
+- al-Qaeda
 ---
 
 Watch: "We'll never ever forget" - Americans remember 9/11 at 25th anniversary

@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Guiseley
+- Otley
+- West Yorkshire
+- Yeadon
+people:
+- Richard Thompson
+- Shipley
+organisations:
+- '## Full'
+- Crimestoppers
+- LiveChat
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

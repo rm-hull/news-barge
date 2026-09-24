@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bournmoor
+- Chester-le-Street
+- Durham Crown Court
+- Grasmere Road
+- White House Farm
+people:
+- Amanda Rippon
+- Brandon William Turnbull
+organisations:
+- Mazda
+- University Hospital of North Durham
 ---
 
 *(Image: The Northern Echo)*

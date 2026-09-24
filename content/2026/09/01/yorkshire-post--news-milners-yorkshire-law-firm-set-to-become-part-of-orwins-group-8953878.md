@@ -15,6 +15,34 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '## Yorkshire'
+- Darlington
+- Harrogate
+- Leeds
+- London
+- Malton
+- Orwins
+- Pontefract
+people:
+- Dov Black
+- Dove Black
+- Giles Ward
+- Kirsty Linden
+- Milners
+- Milners’
+- Orwins Reena Popat
+- Simon Bass
+- Stephanie Roe
+- Victoria Barraclough
+organisations:
+- Aliter Capital
+- Building
+- Head of Finance
+- Milners
+- Orwins Group
+- Roe Lawyers
+- Yorkshire
 ---
 
 # Milners: Yorkshire law firm set to become part of Orwins Group

@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- City
+- London
+- Old Trafford
+people:
+- '**Lee'
+- Bernardo Corradi
+- Bruno Fernandes
+- Bruno Fernandes.
+- Callum
+- Dale Johnson
+- Danny Murphy:** Bruno
+- David Beckham
+- Diego Simeone
+- Gary Neville
+- Glossop:** Filthy Foden
+- John
+- Michael Oliver
+- Mike
+- Paul Robinson
+- Phil Foden
+- Roy Keane:** Foden
+- Surrey:** Never
+- Wayne Rooney
+organisations:
+- BBC Sport
+- Foden
+- Manchester City
+- Manchester United
+- Premier League Manchester
+- The Manchester
+- VAR
 ---
 
 ![Phil Foden sent off against Manchester United](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/659e/live/0f235040-af90-11f1-913a-7151f234deb3.jpg)

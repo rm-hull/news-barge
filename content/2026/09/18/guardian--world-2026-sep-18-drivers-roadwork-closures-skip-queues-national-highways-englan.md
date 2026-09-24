@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- England
+- Hertfordshire
+- M1
+people:
+- Melanie Clarke
+- Sinead Ryan
+organisations:
+- HW Martin
+- National Highways
 ---
 
 Drivers ignoring roadwork closures to skip queues are putting lives at risk, National Highways has warned, after recording hundreds of incidents this year where cars were deliberately driven through cones or barriers.

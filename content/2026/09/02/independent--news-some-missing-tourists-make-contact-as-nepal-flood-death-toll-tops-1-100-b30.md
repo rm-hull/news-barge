@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bangkok
+- China
+- Gyirong Port
+- Himalayas
+- Melbourne
+- Nepal
+- Palau
+- Tibet
+people:
+- Anthony Albanese
+- Huizhong Wu
+- Rod McGuirk
+- Sunil Sharma
+organisations:
+- Associated Press
+- CCTV
+- Foreign Ministry
+- Nepal Tourism Board
 ---
 
 Some tourists previously reported missing in Nepal have made contact with authorities, officials said Wednesday, as search efforts continued following catastrophic floods that killed at least 1,118 people and left more than 3,900 missing.

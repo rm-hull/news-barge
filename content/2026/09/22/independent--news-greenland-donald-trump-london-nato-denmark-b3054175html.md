@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/11/Greenland_US_Flags_377_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arctic Circle
+- Denmark
+- Finland
+- Geneva
+- Greenland
+- Greenlandic
+- Japan
+- Norway
+- Sweden
+- U.S.
+- United States
+people:
+- Donald Trump
+- Thue Christiansen
+- \_\_\_ Jamey Keaten
+organisations:
+- General Assembly
+- NATO
+- Naalakkersuisut
+- U.N.
 ---
 
 At the height of tensions among NATO allies over U.S. President Donald Trump’s repeated calls for Greenland to become U.S. territory, he posted online a map of the island covered in the colors of the American flag.

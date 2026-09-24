@@ -13,6 +13,13 @@ categories:
 - UK
 - Careers & Productivity
 - Society & Culture
+locations:
+- U.S.
+people:
+- Ian Hughes
+organisations:
+- Texas A&M University
+- University of Michigan
 ---
 
 It doesn’t matter if you’re talking about politics in the office or not: new research shows it’s probably coming to work with you, anyway.

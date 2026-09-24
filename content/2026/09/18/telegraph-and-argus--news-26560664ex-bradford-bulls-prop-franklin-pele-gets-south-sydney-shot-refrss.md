@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Australia
+- Bradford
+people:
+- FRANKLIN Pele
+- Franklin Pele
+- Tom Pearson
+organisations:
+- Bradford Bulls
+- Canterbury Bulldogs
+- Cronulla Sharks
+- Hull FC
+- NRL
+- South Sydney Rabbitohs
+- Souths
 ---
 
 *(Image: Tom Pearson)*

@@ -13,6 +13,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Travel
+locations:
+- DialAFlight
+- Jumeirah
+- Saadiyat Island Resort
+people:
+- Miles Lockwood
+- Thomas Cook
+organisations:
+- ASA
+- Advertising Standards Authority
+- Google
+- Green Garden Eco Resort
+- Marvida Family Eco Hotel
+- Sandos Caracol Eco Resort
 ---
 
 Ads for three travel firms have been banned for making misleading claims about the “eco” credentials of their holidays.

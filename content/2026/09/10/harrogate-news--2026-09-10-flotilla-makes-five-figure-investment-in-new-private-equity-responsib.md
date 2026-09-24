@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Harrogate
+- London
+- Manchester
+- UK
+people:
+- John Rastrick
+organisations:
+- ESG
+- Flotilla Group
+- Reformer Pilates
 ---
 
 **ESG technology and advisory firm Flotilla Group has committed a five-figure investment** to launch a new Responsible Investment Gathering series designed for sustainability professionals working within private equity. The year-long initiative moves completely away from traditional panel presentations and corporate sales pitches, replacing them with a monthly programme of relaxed, active, and invite-only wellbeing events.

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/b7c2b364d3b0973728eaa84f2843accdb81d0016/353_0_3938_3151/master/3938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a6243e89550a896f9605bd75ff60e11
+locations:
+- Folkestone Grand Burstin
+- Folkestone’s
+- Grand Burstin
+- Hythe
+- Kent
+- Marine Parade
+- The Harbour
+- Three Hills Sports Park
+people: []
+organisations:
+- Britannia Hotels
 ---
 
 Hundreds of people have been evacuated from a hotel in Folkestone after a large fire broke out overnight.

@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Bike Base
+- Dikes Lane
+- Great Ayton
+- North York Moors
+- North York Moors National Park
+people: []
+organisations:
+- Bike Base
+- Bike Base North York Moors Ltd
+- Dikes Lane
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 ![A building which is clad in wooden planks with railings around it and seating. There is moorland around and a hill in the background.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/3200/live/05ebea40-a226-11f1-bd6a-3d72a7f54a3e.jpg)

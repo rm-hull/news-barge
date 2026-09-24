@@ -15,6 +15,21 @@ categories:
 - Harrogate
 - Government
 - Home, Garden & DIY
+locations:
+- Catterick Garrison
+- Colburn
+- Hawes Market Place
+- North Yorkshire
+- UK
+people:
+- Alexis Flint
+- Cllr Carl Les
+- Cllr Les
+- Deo
+- Richard Foster.
+organisations:
+- New Recycling Service Roadshow
+- North Yorkshire Council
 ---
 
 ![resident Alexis Flint shows how to recycle waste correctly with North Yorkshire Council’s executive member for managing our environment, Cllr Richard Foster.](https://www.northyorks.gov.uk/sites/default/files/2026-09/1RecyclingWeek.jpg) 

@@ -11,6 +11,51 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Dallas
+- Gulf of Oman
+- Iran
+- Israel
+- Kharg Island
+- Kuwait
+- Middle East
+- Moscow
+- Red Sea
+- Riyadh
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- Washington
+- Yemen
+people:
+- Barack Obama
+- Donald Trump
+- Faisal bin Farhan Al-Saud
+- Leon Panetta
+- Sergei Lavrov
+- Yahya Sarea
+organisations:
+- Brown University
+- Brown’s Watson School of International and Public Affairs
+- CENTCOM
+- CIA
+- Houthi
+- IRGC
+- Iran War Energy Cost Tracker
+- Islamic Revolutionary Guard Corps
+- OPEC
+- Revolutionary Guard
+- Revolutionary Guards
+- The Guardian
+- U.S. Navy
+- US Centcom
+- US Central Command
+- US Navy
 ---
 
 The US military has destroyed five Iranian oil tankers in retaliation for strikes on a Navy warship.

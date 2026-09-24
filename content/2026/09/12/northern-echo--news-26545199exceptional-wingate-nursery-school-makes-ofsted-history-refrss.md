@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Family & Parenting
 - Arts & Culture
+locations:
+- County Durham
+- Darlington
+- WINGATE NURSERY SCHOOL
+- Wingate
+people:
+- Barbara Beels OBE
+- Becky Wood
+- Paddy’
+- Wingate
+organisations:
+- Ofsted
+- WINGATE NURSERY SCHOOL
+- Wingate Nursery School
 ---
 
 *(Image: WINGATE NURSERY SCHOOL)*

@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Americas
+- Australia
+- Canada
+- India
+- New Zealand
+- North and South America
+- Singapore
+- South America
+- UK
+- US
+people:
+- Hal Jordan
+- John Stewart
+- Lanterns
+- Tom
+organisations:
+- DCU
+- Disney Plus
+- Google News
+- Green Lantern TV
+- HBO Max
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Sky Atlantic
+- Star Wars
+- TechRadar
 ---
 
 ![John Stewart powering up a Green Lantern ring next to Hal Jordan in Lanterns on HBO Max](https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA.jpg) 

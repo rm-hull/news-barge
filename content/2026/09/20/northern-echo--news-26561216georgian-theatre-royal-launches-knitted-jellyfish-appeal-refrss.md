@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21472832.jpg?type=og-image
+locations:
+- Australia
+- County Durham
+- New Zealand
+- North Yorkshire
+- Richmond
+- UK
+- Victoria Road
+people:
+- Jo Mawhinney
+organisations:
+- Cinderella
+- DL10 4DW
+- Georgian Theatre Royal
+- The Georgian Theatre Royal
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,31 @@ image: https://cdn.mos.cms.futurecdn.net/crcEw5qCstGpyfZ6H78uYn-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Chicago
+- Virgin River
+people:
+- Adeline Rudolph
+- Alan Ritchson
+- George Cooper Sr.
+- Jasper Jones
+- Keno
+- Maria Sten
+- Neagley
+- Nicholas Wootton
+- Renee
+organisations:
+- Amazon
+- Google News
+- Hallmark
+- Jasmine
+- Neagley
+- Netflix
+- Radio Times
+- Reddit
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Neagley points a gun at something offscreen](https://cdn.mos.cms.futurecdn.net/crcEw5qCstGpyfZ6H78uYn.jpg) 

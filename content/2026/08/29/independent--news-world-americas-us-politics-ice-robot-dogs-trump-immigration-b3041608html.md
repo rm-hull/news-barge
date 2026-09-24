@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Minnesota
+- U.S.
+people:
+- Donald Trump
+organisations:
+- '![Immigrations and Customs Enforcement'
+- ABC News
+- Boston Dynamics
+- DHS
+- Department of Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- SPOT Robots
+- The Independent
+- Trump
+- YouGov
 ---
 
 Immigration and Customs Enforcement plans to spend up to $2 million on robotic “dogs,” according to federal records.

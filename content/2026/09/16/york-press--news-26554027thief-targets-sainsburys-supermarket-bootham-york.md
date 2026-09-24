@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bootham
+- York
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
+- PC1488 Bell
+- Sainsbury's Local
+- THIEF
 ---
 
 *(Image: North Yorkshire Police)*

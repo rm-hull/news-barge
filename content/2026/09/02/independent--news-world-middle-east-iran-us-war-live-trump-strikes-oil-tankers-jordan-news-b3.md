@@ -13,6 +13,59 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Asia
+- Bab el-Mandeb
+- Gulf
+- Iran
+- Islamic Republic
+- Mashhad
+- Middle East
+- Persian Gulf.
+- Razavi Khorasan Province
+- Red Sea
+- San Diego
+- Saudi Arabia
+- Saudi Red Sea
+- Strait of Hormuz
+- Suez Canal
+- Tehran Two
+- Thailand
+- U.S.
+- US
+- United States
+- Washington
+- White House
+- Yanbu
+people:
+- Abraham Lincoln
+- Bahri
+- Chris Terrill
+- Donald Trump
+- Mohsen Mousa-Abadi
+- Mohsen Rezaei
+- Pete Hegseth
+organisations:
+- Bahri
+- CENTCOM
+- Centcom
+- FBI
+- Guards'
+- House of Representatives
+- Mehr
+- Military Times
+- NBC News
+- Noor News
+- PBS
+- Reuters
+- Revolutionary Guards
+- Senate
+- Stars and Stripes
+- Supreme National Security Council
+- Telegram
+- Truth Social
+- U.S. Central Command
+- US Central Command
 ---
 
 Iranian hackers have targeted critical American infrastructure with cyberattacks in recent weeks, a new report has claimed, as fresh strikes threatened to plunge Washington and Tehran back into all our war.

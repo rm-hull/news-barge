@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Barbara
+- Sue
+organisations:
+- Bosom Friends Bradford
+- Bradford Grammar School
+- Bradford’s Breast Care Team
+- Charity Commission
+- Facebook
+- T&A
 ---
 
 *(Image: Bosom Friends Bradford)*

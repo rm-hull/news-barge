@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Cleveland
+- Darlington
+- Redcar
+- Saltburn
+- Tees Valley
+people:
+- Alec Brown
+- Ben Houchen
+- Mr Haughton
+- Ms Hill
+- Sarah Hill
+organisations:
+- Cleveland Borough Council
+- Durham High School
+- Jewel Street Lighting
+- Redcar
+- Tees Valley Rural Prosperity Fund
+- UK Government
+- UK Shared Prosperity Fund
 ---
 
 A vintage lighting business is shining brighter thanks to a new kiln and cutter.

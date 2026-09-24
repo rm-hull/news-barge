@@ -13,6 +13,18 @@ categories:
 - Health & Fitness
 - Science
 - Self-Improvement
+locations:
+- Cambridge
+people:
+- Barbara Sahakian
+- Christelle Langley
+- Vicki Perrin
+organisations:
+- Organisation for Economic Co-operation and Development
+- Queen’s Reading Room
+- Reading Room
+- The Queen
+- University of Cambridge
 ---
 
 Reading for pleasure offers significant health benefits no matter the material chosen, according to scientists from the University of Cambridge.

@@ -14,6 +14,27 @@ categories:
 - Lifestyle & Fashion
 - Sports
 - Business & Entrepreneurship
+locations:
+- Anne Street
+- Bishopthorpe Road
+- Clifton
+- York
+people:
+- Andy Burnham
+- Anne Richardson
+- Lily Wildman
+- Rivo Chambers
+- Stella Artois
+- Tim Clayson
+organisations:
+- Ex-North Yorkshire Police
+- Google Street View
+- Ms Richardson
+- North Yorkshire
+- North Yorkshire Police
+- Rivo Chambers
+- Sainsbury's
+- Sainsbury’s
 ---
 
 *(Image: North Yorkshire Police)*

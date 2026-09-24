@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/2b80d43e850e75db38db42c250b84e7224c11fae/7
 categories:
 - UK
 - News & Politics
+locations:
+- Detroit
+- Lansing
+- Lebanon
+- Michigan
+- Middle East
+- Temple Israel
+- US
+people:
+- Abdul El-Sayed
+- Ayman Mohammad Ghazali
+- Haley Stevens
+- Hasan Piker
+- Mike Rogers
+organisations:
+- House
+- Jewish Democratic Caucus
+- Senate
 ---
 
 Michigan’s Democratic US senate candidate Abdul El-Sayed apologized to the state’s Jewish Democratic Caucus on Saturday for comments he made after an attack on a synagogue in March, which he tied to Israel’s actions in the Middle East.

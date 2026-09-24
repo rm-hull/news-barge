@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489436.jpg?type=og-image
+locations:
+- Huddersfield Road
+- Kirklees
+- Skelmanthorpe
+- St Aidan's Charity Shop
+- Station Road
+- The Grove
+- West Yorkshire
+people:
+- Oliver Coates
+organisations:
+- CCTV
+- Kirklees District CID
+- West Yorkshire Police
 ---
 
 *(Image: Google Street View)*

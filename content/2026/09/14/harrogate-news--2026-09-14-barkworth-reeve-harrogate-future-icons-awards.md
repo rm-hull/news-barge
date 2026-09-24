@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Barkworth Reeve
+- Harrogate
+- UK
+- United Kingdom
+- Yorkshire
+people:
+- Barkworth Reeve
+- Jennie Parker
+organisations:
+- Barkworth Reeve**
+- Joules
+- LWG
+- Leather Working Group
 ---
 
 **HARROGATE** — A specialized boutique accessories brand managed right from the heart of Harrogate has secured a position on a major national awards shortlist, tracking alongside explosive commercial expansion metrics across the United Kingdom.

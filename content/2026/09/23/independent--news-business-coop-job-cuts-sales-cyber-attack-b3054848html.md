@@ -12,6 +12,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2025/05/01/10/15/SEI249448955.jpeg?trim=184,0,184,0&width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Debbie White
+- Kate Allum
+- Matt Hood
+- Shirine Khoury-Haq
+organisations:
+- Aldi
+- Competition and Markets Authority
+- Press Association
+- Southern Co-op
+- Starbucks
+- The Co-op
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

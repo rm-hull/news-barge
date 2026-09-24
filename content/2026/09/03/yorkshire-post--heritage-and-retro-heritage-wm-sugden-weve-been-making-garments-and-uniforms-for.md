@@ -15,6 +15,29 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Bradford
+- Cleckheaton
+- Wakefield
+- Water Lane Mills
+- Yorkshire
+people:
+- Isaak Donner
+- Matt Bastock
+- Matthew Bastock
+- Ms Allen
+- Noreen Allen
+- Ricky Donner
+- William Sugden
+- Wm Sugden
+- Wm Sugdens
+organisations:
+- Bradford University
+- Double Two
+- NHS
+- Noreen Allen Head of Marketing
+- Wm Sugden
+- Wm Sugdens
 ---
 
 # Wm Sugden: ‘We’ve been making garments and uniforms for everyday heroes in Yorkshire for more than 150 years’

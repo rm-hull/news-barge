@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - Food & Cooking
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5991/live/f2bc14c0-b64f-11f1-8d77-eb0cf812c06a.jpg
+locations:
+- Acomb
+- North Yorkshire
+- Old Great North Road
+- Selby
+- Tadcaster
+- Thaal Brotherton
+- West Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Thaal Indian Restaurant
 ---
 
 ![A two‑storey building at night severely damaged by fire, its roof partially collapsed and thick smoke rising into the dark sky. A firefighter stands on an elevated platform spraying water onto the structure. The boarded‑up ground‑floor windows, fire hoses stretched across the road, and the glow of streetlights and emergency vehicle lights illuminate the active firefighting scene.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5991/live/f2bc14c0-b64f-11f1-8d77-eb0cf812c06a.jpg)

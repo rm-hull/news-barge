@@ -13,6 +13,80 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Alabama
+- Capitol
+- Europe
+- Florida
+- Maine
+- Michigan
+- New York
+- OpenAI
+- Polymarket
+- San Francisco
+- Silicon Valley
+- Texas
+- US
+- Uncanny Valley
+- Venice
+- White House
+people:
+- AI
+- Adriana Tapia
+- Alexander the Great
+- Batman
+- Bluesky
+- Brian Barrett
+- Chamath Palihapitiya
+- Daniel Roman
+- Dell Cameron
+- Dhruv Mehrotra
+- Dwarkesh Patel
+- FanDuel
+- Flock
+- George Santos
+- God
+- Hugo Lowell
+- Kalshi
+- Kate Knibbs
+- Kate Osborn
+- Kate Taylor
+- Katie Drummond
+- Katie Weaver
+- Kevin Roose
+- Kyle Langford
+- Leah Feiger
+- Marc Leyda
+- Mark Moran
+- Matt Giles
+- Matthew Prince
+- Polymarket
+- Pran Bandi
+- Riley
+- Rodrigo
+- Tim Marchman
+- Tribhuvan Krishnan
+- Trump
+- Yeah
+- Zoë Schiffer
+organisations:
+- AI
+- CBOE
+- CFTC
+- Congress
+- Democratic Party
+- FML
+- Flock
+- Google
+- House
+- Inner Loop
+- Kalshi
+- OpenAI
+- Polymarket
+- Spotify
+- State of the Union
+- Supreme Court
+- WIRED
 ---
 
 Uncanny Valley is back! This week, senior writer Kate Knibbs joins Brian Barrett, Zoë Schiffer, and Leah Feiger to discuss the two incidents that have been making noise in prediction markets: George Santos getting lifetime ban from Kalshi and a Google engineer’s Polymarket insider-trading case. Plus, reporters reverse-engineered Flock’s AI-powered person-search tool and spoke to experts about the accuracy of such technology, and the hosts unpack the online meltdown over how to talk about “rogue” AI agents.

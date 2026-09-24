@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Captain Cook's Monument
+- Coast to Coast
+- Great Ayton
+- Mount Everest
+- New Marske
+- Saltburn
+- Teesside Hospice
+people:
+- Dean Smith
+- Denise
+- Everest
+- Leanne
+- Mum
+- Roseberry Topping
+organisations:
+- Blood Cancer UK
 ---
 
 A Teesside man with fond childhood memories of Roseberry Topping will climb the iconic hill 51 times in memory of his late mum.

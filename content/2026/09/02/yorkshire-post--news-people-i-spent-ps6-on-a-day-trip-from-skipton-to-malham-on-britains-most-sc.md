@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Britain
+- Christ Church
+- Eshton
+- Gargrave
+- Gordale Lane
+- Hawthorns Lane
+- Janet’s Foss
+- Kirkby Brow
+- Kirkby Malham
+- Malham Cove
+- Skipton Bus Station
+- The Buck Inn
+- Whitby
+- Yorkshire Dales
+people:
+- Andy Burnham
+- Harry Potter
+- Malham
+- Thwaites
+organisations:
+- 840 Leeds
+- Gordale Refreshments
+- Thwaites IPA
 ---
 
 # "I spent £6 on a day trip from Skipton to Malham on Britain’s most scenic bus route – it will be even cheaper in 2027"

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b8c/live/6082a070-b5a9-11f1-abe6-535e7b14de4c.jpg
+locations:
+- A66
+- Cleveland
+- Eston
+- Grangetown
+- Middlesbrough
+- South Bank
+- Teesside
+people:
+- Mark Hall
+- Matt Storey
+- Matthew Blades
+- Passat
+- Tom Clough
+organisations:
+- Cleveland Police
+- National Crime Agency
 ---
 
 ![Two police officers in dark uniforms stand on a pavement outside a brick building, searching a dark bag. The officer in the foreground wears a cap with a black-and-white checked band, black gloves, body armour, a radio, and a body-worn camera, and looks down as he handles the bag with both hands. The second officer bends over beside him with his back to the camera, wearing a grey jacket and a utility belt. Behind them, a shop window holds a bouquet of white and pale-yellow hydrangeas, a red cup, and a white sign reading "RIP" followed by a partly hidden name. The edge of a bicycle with a blue saddle is visible in the bottom-left corner.

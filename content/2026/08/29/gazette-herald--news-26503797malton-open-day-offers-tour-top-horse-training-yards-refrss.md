@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Grandstand
+- Paddock Enclosure
+- York Racecourse
+people:
+- Adrian Keatley
+- Beck Edmunds
+- Craig Lidster
+- David Easterby
+- John Wainwright
+- Mick
+- Mike Sowersby
+- Ollie Pears
+- Peter Fahey
+- Richard
+- Sara Ender
+- Suzzanne France
+organisations:
+- ARC
+- Arena Racing Company
+- Injured Jockeys Fund
+- Jack Berry House
+- Racing Welfare
+- York Racecourse
 ---
 
 *(Image: Freelancer)*

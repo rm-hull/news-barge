@@ -13,6 +13,20 @@ categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+locations:
+- Harlow Carr
+- Harrogate
+- Yorkshire
+people:
+- Liz Thwaite
+- Nicky Sellers
+organisations:
+- Bettys Café Tea Rooms
+- Bettys Harlow Carr
+- Bettys Harrogate
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
+- Yorkshire
 ---
 
 # Changes at iconic Bettys cafe: Refurbishment and table bookings to be introduced at Harlow Carr gardens

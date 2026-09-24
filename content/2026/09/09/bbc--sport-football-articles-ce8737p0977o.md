@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Cardiff
+- Emirates Stadium
+- England
+- Europe
+- Naples
+- Norway
+people:
+- Arsenalwere
+- Emiliano Martinez
+- Gianluigi Donnarumma
+- Kai Havertz
+- Martin Odegaard
+- Max Allegri
+- Mikel Arteta
+- Nedum Onuoha
+organisations:
+- Arsenal
+- Barcelona
+- Bayern Munich
+- Chelsea
+- Coventry City
+- Manchester City
+- Napoli
+- 'Odegaard ## Odegaard'
+- PSG
+- Paris St-Germain
+- Real Madrid
+- Serie A
 ---
 
 Highlights: Arsenal get a one goal win away to Napoli thanks to Odegaard

@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Aislaby
+- Cleveland Way
+- Coast & Camplight
+- Duncombe Park
+- Helmsley
+- Lealholm
+- National Park
+- North York Moors
+- Ravenscar
+- Rosedale
+- Ruswarp
+- Sutton Bank
+- Whitby
+people:
+- Vicky Burton
+- Winston Plowes
+organisations:
+- Danby Lodge National Park Centre
+- Natural Health Service
+- North York Moors
+- North York Moors National Park
+- North York Moors Trust
+- The Tree Retreat
+- Yorkshire
 ---
 
 *(Image: Pretty Gritty)*

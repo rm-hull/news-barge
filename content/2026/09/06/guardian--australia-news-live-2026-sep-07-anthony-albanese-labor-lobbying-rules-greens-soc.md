@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Canberra
+- Ensenada
+- Mexico
+- US
+people:
+- Aaron Violi
+- Anika Wells
+- Anthony Albanese
+- Callum
+- Curtin
+- Dan Repacholi
+- Debra
+- Jack Carter Rhoad
+- Jake Robinson
+- Jebediah
+- Jerome Laxale
+- Joel Phillips
+- Josh Burns
+- Kate Chaney
+- Kevin Mitchell
+- Mark Butler
+- Martin Robinson
+- Matt Thistlethwaite
+- Murray Watt
+- Pauline Hanson
+- Peter Khalil
+- Saffron Zomer
+- Tom McIlroy
+- Tory Shepherd
+- Wiggle Lachlan Gillespie
+- Zach Perez
+organisations:
+- AAP
+- ABC News Breakfast
+- ABC Radio National
+- AFP
+- Albanese
+- Australian Democracy Network
+- Coalition
+- Dads Caucus
+- Eastern Rosellas
+- Facebook
+- Greens
+- Jake Robinson Foundation Writing
+- Liberal
+- Mick Tsikas
+- Movember
+- National Film and Sound Arch
+- One Nation
+- Parliament House
+- RN
+- Senate
+- Wells Labor
 ---
 
 Butler says One Nation’s superannuation plan – for a portion of employer’s mandatory super contribution to be redirected to pay packets – is “absolutely terrible”:

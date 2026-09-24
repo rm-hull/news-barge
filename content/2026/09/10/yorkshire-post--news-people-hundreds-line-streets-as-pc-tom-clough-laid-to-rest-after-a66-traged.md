@@ -14,6 +14,44 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Cumbria
+- Hartlepool
+- Kirkleatham Walled Gardens
+- Plantation Road
+- Redcar
+- Sellafield
+- Stockton
+- Teesside
+- Union Flag
+- Walled Gardens
+people:
+- Anna Turley
+- Brian Dunn
+- Frank
+- Iris
+- Lauren Somerville
+- Lord Houchen
+- Owen Humphreys
+- Pc Blades
+- Pc Clough
+- Pc Matthew Blades
+- Sarah Jones
+- Tom Clough
+- Tom Clough.
+- Victoria Fuller
+organisations:
+- 11 Explosive Ordnance Disposal and Search Regiment
+- A66
+- Audi
+- British Army
+- British Transport Police
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Ms Somerville
+- Royal Logistic Corps
+- Tees Valley
 ---
 
 # Hundreds line streets as Pc Tom Clough laid to rest after A66 tragedy

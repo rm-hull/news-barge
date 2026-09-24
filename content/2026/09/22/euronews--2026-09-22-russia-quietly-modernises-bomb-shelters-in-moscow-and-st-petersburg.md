@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/25/78/1200x675_cmsv2_7ce2ffb0-a705-5c9b-82fb-454978869a85-9922578.jpg
+locations:
+- Dnipro
+- Kapotnya
+- Kharkiv
+- Kremlin
+- Kyiv
+- New Moscow
+- Novogireyevo
+- Russia
+- South-West
+- St Petersburg
+- Ukraine
+people:
+- Mykhailo Fedorov
+- Volodymyr Zelenskyy
+organisations:
+- FirePoint
 ---
 
 ## Tens of millions of roubles have been allocated for repairs to shelters across Moscow districts and St Petersburg metro stations as Ukrainian drones struck another Russian refinery on Sunday, as the Kremlin's all-out war in Ukraine continues well into its fifth year.

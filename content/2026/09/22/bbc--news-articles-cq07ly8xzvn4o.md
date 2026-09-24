@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/887a/live/a540b210-b5b3-11f1-8d1d-a985658d9d3a.png
+locations:
+- Epworth Street
+- Greater Manchester
+- Heaton Park Synagogue
+- Lancaster Road
+- Liverpool
+- London
+- Newton Street
+- Northern Quarter
+- Salford
+- UK
+- Yom Kippur
+people:
+- Vicki Evans
+- Yom Kippur.**
+organisations:
+- BBC Manchester
+- BBC Radio Manchester
+- CTP
+- Community Security Trust
+- Metropolitan Police
 ---
 
 ![A police car and a van and several officers stand guard by a police cordon in a city-centre location.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/887a/live/a540b210-b5b3-11f1-8d1d-a985658d9d3a.png)

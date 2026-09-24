@@ -13,6 +13,37 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Bears Ears
+- Delaware
+- Grand Staircase-Escalante
+- Patagonia
+- The Bears Ears
+- U.S.
+- Utah
+- White House
+people:
+- Angelo Baca
+- Barack Obama
+- Biden
+- Bill Clinton
+- Donald Trump
+- Ryan Gellert
+- Spencer Cox
+organisations:
+- Bears Ears
+- Grand Staircase-Escalante
+- Grand Staircase-Escalante National Monuments
+- Hopi Tribe
+- Interior Department
+- Justice Department
+- Navajo Nation
+- Patagonia
+- Pueblo of Zuni
+- Salt Lake Tribune
+- Trump
+- Ute Indian Tribe
+- Ute Mountain Ute Tribe
 ---
 
 Outdoor retailer Patagonia joined a coalition of Indigenous and environmental groups suing the Trump administration on Wednesday over its decision this summer to massively shrink two national monuments in Utah, Bears Ears and Grand Staircase-Escalante.

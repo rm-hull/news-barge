@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Denholme
+- Knowles Street
+- Main Road
+- No.12 Station Road
+- Station Road
+- Stradmore Road
+people: []
+organisations:
+- City of Bradford Metropolitan District Council
 ---
 
 *(Image: Google Street View)*

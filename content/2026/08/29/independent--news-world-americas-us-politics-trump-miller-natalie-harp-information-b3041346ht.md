@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/08/29/00/2291893192..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Turkey
+- White House
+people:
+- Dan Scavino
+- Davis Ingle
+- Donald Trump
+- Maggie Haberman
+- Marco Rubio
+- Michael Wolff
+- Natalie Harp
+- Stephen Miller
+- Walt Nauta
+organisations:
+- Air Force One
+- MS NOW
+- New York Times
+- One America News
+- Politico
+- The Independent
+- Trump
+- West Wing
+- Zeteo
 ---
 
 Stephen Miller, the architect of Donald Trump’s hardline deportation policy, puts anti-immigration content in front of Trump aide Natalie Harp to ensure that it gets seen by the president, a report says.

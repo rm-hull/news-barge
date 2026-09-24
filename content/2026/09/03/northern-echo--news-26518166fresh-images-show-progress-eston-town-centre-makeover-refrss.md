@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- East Cleveland
+- Eston Precinct
+- North East
+- Saltburn
+- Teesside
+- UK
+- YOUR
+people:
+- Lynn Pallister MBE
+organisations:
+- Cleveland Borough Council
+- Esh Construction
+- Growth and Enterprise
+- Portland Dodds Brown
+- Public Notice Portal
+- Redcar & Cleveland Borough Council
 ---
 
 ### What is the Public Notice Portal?

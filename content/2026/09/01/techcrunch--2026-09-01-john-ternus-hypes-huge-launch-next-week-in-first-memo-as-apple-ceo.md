@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Claude
+- John Ternus
+- Siri
+- Tim Cook
+organisations:
+- Anthropic
+- Apple
+- Bloomberg
+- Hardware Engineering
+- OpenAI’s ChatGPT
+- Siri AI
+- Ternus
 ---
 
 John Ternus has officially taken the reins as Apple CEO, succeeding Tim Cook, who held the role for 15 years.

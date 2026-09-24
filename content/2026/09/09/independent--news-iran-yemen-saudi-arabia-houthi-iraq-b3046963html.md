@@ -12,6 +12,53 @@ image: https://static.independent.co.uk/2026/09/09/05/Iran_New_Ring_of_Proxies_6
 categories:
 - News & Politics
 - UK
+locations:
+- Abdul-Zahra
+- Baghdad
+- Beirut
+- Egypt
+- Gaza
+- Gulf
+- Hodeida
+- Houthi
+- Iran
+- Iraq
+- Israel
+- Lebanon
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Taiz
+- U.S.
+- United States
+- Washington
+- Yanbu
+- Yemen
+people:
+- Abby Sewell
+- Abdel-Malek al-Houthi
+- Adam Baron
+- Ahmed Nagi
+- Elisabeth Kendall
+- Mahdi Mohammadi
+- Mokha
+organisations:
+- ACLED
+- Associated Press
+- Cambridge University
+- Crisis Group
+- Girton College
+- Hezbollah
+- Houthi
+- Kpler
+- New America
+- PMF
+- Popular Mobilization Forces
+- The Associated Press
+- U.N.
+- ___ El Deeb
 ---
 
 In July, Saudi Arabia and the United States bombed Iran-backed militias in Iraq after blaming them for drone attacks on Saudi oil facilities that had been claimed by Yemen's Houthi rebels, another Iranian ally.

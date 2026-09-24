@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Croke Park
+- Dublin
+- Ireland
+- London
+- Madison Square Garden
+people:
+- '## Taylor'
+- Flora Pili
+- Katie Taylor
+- Naseem Hamed
+- Ole
+- Paddy Pimblett
+organisations:
+- IBF
+- UFC
+- WBA
+- WBC
+- WBO
+- Westlife
 ---
 
 !['Breaking' graphic](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png)

@@ -13,6 +13,22 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Afghanistan
+- Bangui
+- Central African Republic
+- Nepal
+- Nicaragua
+- U.S.
+- US
+- United States
+people:
+- Alma David
+- Savi Arvey
+- Trump
+organisations:
+- Afghan National Army
+- Human Rights First
 ---
 
 Dozens of individuals were deported to the Central African Republic by the United States on Saturday, including an Afghan man whose brothers assisted the US military, according to his lawyer and a rights group.

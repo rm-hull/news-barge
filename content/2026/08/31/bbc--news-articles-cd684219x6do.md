@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Glasgow Chelsea
+- Queen Elizabeth University Hospital
+- Rutherglen
+- South Lanarkshire
+- UK
+people:
+- Chelsea McGillivray
+- Chelsea McGillivray.
+- Jack
+- Jacqui
+- Lori
+- Lorna McGillivray
+- Steven
+- Tommy
+organisations:
+- BBC Radio Scotland
+- CPR
+- Chelsea
+- Clyde
+- Lorna
+- MBRRACE-UK
+- NHS Greater Glasgow
+- QEUH
 ---
 
 ![Chelsea McGillivray. She is wearing a blue one-shoulder dress and her blonde hair is tied into a bun. She is smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg)

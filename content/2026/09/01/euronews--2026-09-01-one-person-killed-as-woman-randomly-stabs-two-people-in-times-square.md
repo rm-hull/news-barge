@@ -12,6 +12,20 @@ image: https://images.euronews.com/articles/stories/09/89/64/31/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- 7th Avenue
+- New York
+- New York City
+- One Times Square
+- Queens
+- Times Square
+people:
+- Jessica Tisch
+- Zohran Mamdani
+organisations:
+- NYPD
+- New York Police Department
+- Taser
 ---
 
 ## The woman behind the attack has reportedly had a history of mental health issues with New York police but no arrest record prior to her stabbing attacks on Tuesday.

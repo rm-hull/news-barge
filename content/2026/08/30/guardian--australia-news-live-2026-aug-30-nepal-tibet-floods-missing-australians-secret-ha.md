@@ -11,6 +11,79 @@ image: https://i.guim.co.uk/img/media/e4f0700cc93a6fb638c98ecf5b42de6146354abe/5
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Belmore Park
+- Brisbane
+- Elizabeth Bay
+- Farrer
+- Gladstone
+- Groote Eylandt
+- Gulf of Carpentaria
+- Highett
+- Huonville
+- Hyde Park
+- Ipswich
+- Kathmandu
+- Logan
+- Mentone
+- Mt
+- NSW
+- NT Northern Territory
+- Nepal
+- Nepal-China
+- New South Wales
+- Northern Territory
+- Pacific Island
+- Pacific Islands
+- Palau
+- Queensland
+- Singleton
+- Strathpine
+- Sydney CBD
+- Tasmania
+- Trishuli River
+- Victoria
+- WA
+people:
+- Andrew
+- Anthony Albanese
+- Barnaby Joyce
+- Bec Freedom
+- Ben Carroll
+- Bob Bramley
+- Brad Battin
+- Brian Marlow
+- Cara Severino
+- David Farley
+- Debbie
+- Dfat
+- Frank Severino
+- Jessica Hromas
+- Jesus
+- Luca Ittimani
+- Michael Gorton
+- Pauline Hanson
+- Penny Wong Albanese
+organisations:
+- AAP
+- Australian Consular Response
+- Brisbane Labor
+- Department of Foreign Affairs
+- Kings Cross
+- Law Enforcement Conduct Commission
+- Lukas Coch/AAP
+- NT
+- News24
+- Nom
+- One Nation
+- Pacific Islands Forum
+- Professional Standards Command
+- Queensland Labor
+- Revive Australia
+- Secret Harbour
+- The Guardian
+- The Guardian Marlow
 ---
 
 We ‘owe it to history’ to defeat One Nation, PM tells Brisbane Labor conference

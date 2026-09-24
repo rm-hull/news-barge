@@ -10,6 +10,25 @@ description: Nvidia has its finger in every pie, and sees another year of plenty
 image: https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781
 categories:
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Jensen Huang
+organisations:
+- (“Shell
+- AI
+- Amazon
+- Anthropic
+- Blackwell GPUs
+- Cerebras
+- Etched
+- GPU
+- Goldman Sachs Communacopia
+- Google
+- Lucent Technologies
+- Microsoft
+- Nvidia
+- OpenAI
 ---
 
 Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of next year.

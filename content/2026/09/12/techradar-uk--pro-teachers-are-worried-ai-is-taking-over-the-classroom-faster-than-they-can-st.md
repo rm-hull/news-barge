@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png
 categories:
 - Technology & Software
 - Education & Learning
+locations:
+- AI
+- Europe
+- France
+- Germany
+- Italy
+- Poland
+- Spain
+- UK
+people:
+- Christian Cawley
+- Sarah Henkelmann-Hillebrand
+organisations:
+- AI
+- Computer Weekly
+- ComputerActive
+- EU
+- Empower 2026 Research
+- Epson Europe
+- European Union
+- Google News
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![Classroom with students at a desk looking at a teacher](https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW.png) 

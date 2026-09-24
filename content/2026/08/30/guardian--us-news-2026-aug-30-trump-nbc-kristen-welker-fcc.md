@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+- Israel
+- Minnesota
+- Oklahoma
+- Oval Office
+- US
+people:
+- Bill Maher
+- Brendan Carr
+- Brian Stelter
+- Charlie Kirk
+- Darline Graham
+- Donald Trump
+- Jimmy Kimmel
+- Kristen Welker
+- Lindsey Graham
+- Lisa Demuth
+- Mike Lindell
+- Mike Mazzei
+organisations:
+- ABC
+- Administration
+- CBS
+- CNN
+- FCC
+- Fake Press
+- Federal Communications Commission
+- HBO Max
+- House
+- Meet the Press
+- NBC News
+- Nexstar
+- Sinclair
+- Washington DC
 ---
 
 Donald Trump on Sunday said NBC’s Kristen Welker – host of Meet the Press – should face “rebuke or punishment” from the Federal Communications Commission (FCC).

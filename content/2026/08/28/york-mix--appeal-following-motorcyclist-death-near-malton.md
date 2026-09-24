@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Mook Lane
+- North Yorkshire
+- Westow
+people: []
+organisations:
+- Honda
+- Yamaha
 ---
 
 There’s an update following an earlier appeal about a serious crash involving two men on motorcycles.

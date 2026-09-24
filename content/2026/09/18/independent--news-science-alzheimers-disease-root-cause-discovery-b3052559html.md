@@ -13,6 +13,13 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- South Korea
+people:
+- Alzheimer
+organisations:
+- ERBB4
+- Institute of Basic Science
 ---
 
 A small shift in a brain molecule may explain how Alzheimer’s disease turns from an abnormal nerve connection to a condition affecting memories, a new study suggests.

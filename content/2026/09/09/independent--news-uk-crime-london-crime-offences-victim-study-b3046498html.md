@@ -14,6 +14,30 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- England
+- London
+- Mistaken Britain
+- UK
+- US
+- Wales
+people:
+- Bobby Duffy
+- Callum Hood
+- Donald Trump
+- Elon Musk
+- Green
+- Prof Duffy
+- Sadiq Khan
+- Tommy Robinson
+organisations:
+- Centre for Countering Digital Hate
+- GLA
+- Greater London Authority
+- King's College London
+- King’s College London
+- Labour
+- Policy Institute
 ---
 
 Londoners are far less likely to be the victims of crime than Britons generally believe, with half the population wrongly estimating the capital is the worst region for violent crime, according to a new study.

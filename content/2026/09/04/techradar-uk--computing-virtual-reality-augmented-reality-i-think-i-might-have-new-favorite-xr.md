@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/J7XynJMyFc9r4n3pRSuLMk-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Australia
+people:
+- Bang
+- RayNeo
+- Xreal
+organisations:
+- Dolby Vision
+- EQ
+- Google News
+- Hamish
+- IFA
+- Olufsen
+- RayNeo
+- TechRadar
 ---
 
 ![The RayNeo GT Max glasses](https://cdn.mos.cms.futurecdn.net/J7XynJMyFc9r4n3pRSuLMk.jpg) 

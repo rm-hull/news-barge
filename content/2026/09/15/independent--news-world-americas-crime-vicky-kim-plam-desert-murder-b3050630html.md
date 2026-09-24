@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Enclave Condominium
+- Gateway
+- Gerald Ford Drive
+- Indio
+- Larson Justice Center
+- Palm Desert
+- Riverside
+- Robert Presley Jail
+people:
+- John Ryan
+- Richard Kaufman
+- Vicky Kyung Mi Kim
+organisations:
+- Adult Protective Services
+- Bank of America
+- JP Morgan Chase
+- Riverside County District Attorney’s Office
 ---
 
 A Palm Desert woman accused of savagely beating her 77-year-old husband to death with a heavy metal curtain rod—potentially during a bitter dispute over his life savings—is scheduled to finally face a judge today for formal arraignment after days of medical delays.

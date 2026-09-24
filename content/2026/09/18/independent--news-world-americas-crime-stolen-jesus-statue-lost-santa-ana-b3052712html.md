@@ -13,6 +13,19 @@ categories:
 - History
 - Arts & Culture
 image: https://static.the-independent.com/2026/09/18/20/09/Jesus-statue.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Christ Our Savior Catholic Church
+- Santa Ana
+- Southern California
+people:
+- Jesus
+- John the Baptist
+- R. Wilson
+organisations:
+- KTLA
+- News Santa Ana
+- Santa Ana Police Department
+- Segerstrom High School
 ---
 
 Police in Southern California are searching for two men who severed and stole a $50,000 bronze Jesus statue from a church campus, leaving only the feet behind on its stone base.

@@ -13,6 +13,67 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Brighton
+- Elland Road
+- England
+- Monaco.
+people:
+- '**3Lewis Hall:** Dragged'
+- 3Sven Botman
+- 3Yoane Wissa
+- 4Bazoumana Toure
+- 4Jacob Murphy
+- 4Malick Thiaw
+- 4Nico Gonzalez:** Belatedly
+- 5Harvey Barnes
+- 6Aladji Bamba
+- 6Amar Dedic:** Shook
+- 6Brenden Aaronson
+- 6Daniel James
+- 6Harry Wilson
+- 6Joe Willock
+- 6Lukas Nmecha
+- 7Ao Tanaka
+- 7Ethan Ampadu
+- 7Gabriel Gudmundsson
+- 7Jayden Bogle
+- 7Noah Okafor
+- 7Tarik Muharemovic
+- 8Anton Stach
+- :** Zetterer
+- Anthony Elanga
+- Bahoya
+- Bijol
+- Calvert-Lewin:** Just
+- Dedic
+- Dominic Calvert-Lewin
+- Fernandez-Pardo
+- Gonzalez
+- Harvey Barnes.
+- James Trafford
+- Justin:** Teasing
+- Leeds'
+- Like Thiaw
+- Lukas Hornicek
+- M.Miley
+- Melvin Bard
+- Miley:** Little
+- Pope
+- Ramsey
+- Schar
+- Sean Longstaff
+- Sean Steur
+- Stach)Subs
+organisations:
+- BBC Sport
+- Leeds United
+- Lille
+- Newcastle United
+- Newcastle Unitedat Elland Road.
+- Premier League
+- Trafford
+- Unitedmoved
 ---
 
 ![Dominic Calvert-Lewin celebrates after scoring for Leeds United against Newcastle United](https://ichef.bbci.co.uk/ace/standard/770/cpsprodpb/ecf4/live/ed0d6f70-b07c-11f1-9592-33d1ede95560.jpg)

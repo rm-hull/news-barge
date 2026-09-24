@@ -11,6 +11,24 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Smithsonian
+- US
+- White House
+people:
+- Donald Trump
+- JD Vance
+- John Roberts
+- Kim Sajet
+- Lonnie Bunch III
+organisations:
+- Congress
+- National Museum of African American History and Culture
+- National Museum of American History
+- National Portrait Gallery
+- New York Times
+- Smithsonian Institution
+- Trump
 ---
 
 The Smithsonian Institution’s secretary, Lonnie Bunch III, will retire at the end of the year amid Donald Trump’s attacks on the museum’s content and independence.

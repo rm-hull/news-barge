@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Clifton
+- Lumley Road
+- York
+people:
+- Kevin Glenton
+organisations:
+- Crimestoppers
+- DeWalt
+- North Yorkshire Police
 ---
 
 *(Image: Kevin Glenton)*

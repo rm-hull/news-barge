@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Family & Parenting
 - History
+locations:
+- Downing Street
+- England
+- Ewloe
+- Flintshire
+- Glasgow
+- Hawaii
+- Hopedene
+- NHS
+- Newcastle-upon-Tyne
+- Pakistan
+- Scotland
+- Scotland.
+- Stranraer
+- Sunderland
+- Swansea
+- UK
+people:
+- '## Marion'
+- Ann Keen
+- God
+- Jenine Main
+- Joan Chambers
+- Keir Starmer
+- Marion McMillan
+- Mark Lloyd-Fox
+- Maron
+- Nicola Sturgeon
+- Paul
+organisations:
+- BBC Action Line
+- BBC Scotland
+- BBC Scotland News
+- BBC iPlayer
+- Salvation Army
+- The Salvation Army
 ---
 
 Maron only had a few months to get to know her baby before he was taken from her

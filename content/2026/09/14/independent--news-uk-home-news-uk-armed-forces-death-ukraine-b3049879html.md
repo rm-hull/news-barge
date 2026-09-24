@@ -12,6 +12,20 @@ categories:
 - UK
 - Technology & Software
 - True Crime
+locations:
+- Kyiv
+- Russia
+- UK
+- Ukraine
+- Yahodyn station
+people:
+- Boris Johnson
+- Carl Bildt
+organisations:
+- Ministry of Defence
+- MoD
+- Telegram
+- Ukrzaliznytsia
 ---
 
 A member of the UK armed forces has been killed in a crash in Ukraine, the Ministry of Defence (MoD) has said.

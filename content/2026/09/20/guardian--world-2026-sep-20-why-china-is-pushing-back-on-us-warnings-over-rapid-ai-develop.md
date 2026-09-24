@@ -13,6 +13,37 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/eed769a799be66f4834320b43e40a5f5b9900b16/1058_662_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e9e1f14df3016a1f886307b5374f5a8
+locations:
+- AI
+- Beijing
+- China
+- Shanghai
+- Silicon Valley
+- US
+- United States
+- Washington
+people:
+- AI
+- Boris But
+- Dario Amodei
+- Donald Trump
+- Gabriel Wagner
+- Leia Wang
+- Lian Jye Su
+- Ni Tao
+- Omdia’s Su
+- Xi Jinping
+organisations:
+- AIs
+- Anthropic
+- Black Lake Technologies
+- CEIP
+- Carnegie Endowment for International Peace
+- Communist
+- Concordia AI
+- Guardian
+- Hampshire Education
+- Omdia
 ---
 
 About two years ago, education entrepreneur Boris But had what he calls a “penny-drop moment” – that, like countless others in China, his company needed to embrace AI before it was made obsolete by it.

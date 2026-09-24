@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- )* York
+- North York Moors
+- North Yorkshire
+- UK
+people: []
+organisations:
+- York
+- Yorkshire Dales
 ---
 
 *(Image: Supplied)*

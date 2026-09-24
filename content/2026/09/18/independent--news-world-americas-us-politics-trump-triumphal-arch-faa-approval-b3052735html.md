@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/18/19/09/GettyImages-2240833905.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- East Potomac Park
+- East Room
+- Lincoln Memorial
+- US
+- Washington Monument
+- White House
+people:
+- Donald Trump
+- Tammy Duckworth
+organisations:
+- FAA
+- Lincoln Memorial Reflecting Pool
+- National Park Service
+- Reagan Washington National Airport
+- Senate
+- Trump
+- Washington National Airport
 ---
 
 Federal aviation authorities said Friday that a proposed triumphal arch President Donald Trump wants to build near Arlington National Cemetery in Washington will not pose an aviation risk, provided it includes an "eternal flame" on top.

@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb27/live/d195cea0-b73d-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Australia
+- Bangladesh
+- Chester-le-Street
+- Edinburgh
+- England
+- Headingley
+- India
+- Old Trafford
+- Pakistan
+- Royal Infirmary
+- SA20
+- South Africa
+- Sri Lanka
+- Wellington
+people:
+- Dan Lawrence
+- Harry Brook
+- Jacks'
+- Jacob Bethell
+- Stephen Fleming
+- Will Jacks
+organisations:
+- Chester-le-Street
+- England
+- Lions
+- MI Cape Town
+- NHS
+- ODI
 ---
 
 Watch the best of Jacks' match-winning performance as England beat Sri Lanka

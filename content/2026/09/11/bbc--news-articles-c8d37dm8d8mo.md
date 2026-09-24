@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Caen
+- Cléon
+- France
+- Normandy
+- Rouen
+people:
+- Philippe Tabarot
+organisations:
+- SNCF
 ---
 
 ![Police seal the area after a passenger train derailed in northern France. Photo: 11 September 2026](https://ichef.bbci.co.uk/ace/standard/929/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg)

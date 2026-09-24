@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- US
+people:
+- Ed Sheeran
+- Macklemore
+- Mark Savage
+organisations:
+- BBC
 ---
 
 # Watch: Will Ed Sheeran cancel his tour as support acts quit?

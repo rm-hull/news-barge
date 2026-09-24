@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Leeds General Infirmary
+- UK
+people:
+- Cora
+- Matthew White
+- Mums Helen
+- Oliver Harrison
+- Patrick
+organisations:
+- Blood Cancer UK
+- Cora
+- Polar Express
 ---
 
 # 'Our boy spent Christmas and his birthday in a coma - now he's starting school'

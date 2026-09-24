@@ -13,6 +13,24 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Brazil
+- Colorado
+- Corral Bluffs
+- Denver Museum
+- Long Island
+- São Paulo
+people:
+- Adam Cossette
+- Emily Lessner
+- Ian Miller
+- Pedro Godoy
+- Sadie Sherman
+- Sobek
+organisations:
+- Denver Museum of Nature & Science
+- New York Institute of Technology
+- University of
 ---
 
 ![Mandrasuchus milleri artwork](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311471380.jpg?w=840)

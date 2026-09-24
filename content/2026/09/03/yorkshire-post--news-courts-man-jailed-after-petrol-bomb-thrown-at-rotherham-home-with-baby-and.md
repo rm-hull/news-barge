@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- HMP Doncaster
+- Moorgate
+- Rotherham
+- Warwick Street
+people:
+- Chris Byne
+- Jamal Usman
+organisations:
+- CCTV
+- Rotherham CID
+- Sheffield Crown Court
 ---
 
 # Man jailed after petrol bomb thrown at Rotherham home with baby and children inside

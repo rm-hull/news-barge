@@ -13,6 +13,17 @@ categories:
 - Science
 - Technology & Software
 image: https://static.independent.co.uk/2025/10/16/15/16145138-ccb28ea3-35bb-45af-ae5c-9ba212f40ba5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- England
+people:
+- Andy Burnham
+- Anthony Seldon
+- Tim Bunting
+organisations:
+- AI
+- Department for Education
+- DfE
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

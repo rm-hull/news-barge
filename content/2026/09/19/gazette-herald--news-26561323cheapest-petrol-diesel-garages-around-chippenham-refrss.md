@@ -13,6 +13,27 @@ categories:
 - York
 - Automotive
 image: https://www.gazetteherald.co.uk/resources/images/20454165.jpg?type=og-image
+locations:
+- BP Lower Stanton Street
+- BP Malmesbury Road
+- Bristol Road Service Station
+- Chippenham
+- Esso Bath Road
+- Esso Bristol Road
+- Esso Hungerdown Lane
+- MFG
+- RSS Bath Road
+- Stanton Street
+people: []
+organisations:
+- Asda Express Corsham
+- Bristol Road Service Station
+- Esso Calne
+- Frogwell Chippenham Express
+- MFG Stanton St Quintin
+- Morrisons Chippenham
+- Sainsburys Chippenham
+- Texaco Corsham
 ---
 
 *(Image: Bunyarit Suwansantawee)*

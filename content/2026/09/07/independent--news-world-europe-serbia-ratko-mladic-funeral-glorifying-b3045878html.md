@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Balkan
+- Belgrade
+- Europe
+- Republika Srpska
+- Sarajevo
+- Serbia
+- Srebrenica
+- St. Luke
+- The Hague
+people:
+- Marta Kos
+- Nenad Vujić
+- Ratko Mladic
+organisations:
+- Associated Press
+- EU
+- Enlargement
+- European Union
+- UN
+- VRS
 ---
 
 Serbia has been accused of the “glorification” of former Bosnian Serb army commander Ratko Mladic, who was convicted of genocide by a UN court, by giving him an elaborate military funeral in Belgrade.

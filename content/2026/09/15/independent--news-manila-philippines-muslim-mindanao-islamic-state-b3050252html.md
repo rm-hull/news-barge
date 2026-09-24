@@ -14,6 +14,23 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Bangsamoro Autonomous Region
+- Basilan
+- Maluso
+- Marawi
+- Muslim Mindanao
+- Philippine
+- Philippines
+- U.S.
+people:
+- Erwin Garcia
+- H. Omar
+- Sittie Ashuya L.
+organisations:
+- Commission on Elections
+- Islamic State
+- Moro Islamic Liberation Front
 ---
 
 A predominantly Muslim region in the southern Philippines held its first elections for a regional parliament Monday and Tuesday following years of delays, moving it closer to self-rule after decades of insurgency and violence.

@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Clarence House
+- Edgbaston
+- England.
+- Lord's
+- Pakistan
+people:
+- Ashley Noffke
+- Charles
+- Imam
+- Imam-ul-Haq
+- Imran Khan
+- Mike Hesson
+- Mohammad Imran
+- Mohammad Imran Jr
+- Mohammad Rizwan
+- Salman Ali Agha
+- Sarfaraz Ahmed
+- Umar Gul
+organisations:
+- England
+- PCB
+- Pakistan Cricket Board
+- Sky
 ---
 
 ![Pakistan cricket team celebrate a wicket](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/47f0/live/8a9f1770-aac4-11f1-9bcd-4de40c4158ea.jpg)

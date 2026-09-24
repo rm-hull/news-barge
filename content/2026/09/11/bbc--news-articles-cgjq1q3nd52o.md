@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- McKenna West
+- Texas
+people:
+- Ken Paxton
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+organisations:
+- Associated Press
+- BBC
+- Supreme Court
+- US Centers for Disease Control and Prevention
+- US Supreme Court
 ---
 
 ![McKenna West walks into court](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/25d3/live/77c2e390-ae00-11f1-9b77-ddcb406ce9c0.jpg)

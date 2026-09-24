@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Fulford Road
+- Greater Manchester
+- Haxby Station
+- Knavesmire
+- North Yorkshire
+- Scarborough
+- Westminster
+- Whitehall
+- Wigginton
+- York Outer
+people: []
+organisations:
+- Active Travel Fund
+- Haxby Netball Club
+- Light Up Haxby
+- Menfulness
+- Next Door But One
+- York City
+- York Fashion Week
+- York Knights
+- York Mind
 ---
 
 DEVOLUTION is one of those words that can make people’s eyes glaze over.

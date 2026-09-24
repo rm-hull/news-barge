@@ -20,6 +20,70 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Adel
+- Arsenal
+- Buckingham Palace
+- Buckstone Avenue
+- China
+- Clacton
+- Dublin
+- England
+- Grant Row
+- Iran
+- Israel
+- Italy
+- Leeds
+- London
+- Maldives
+- Man City
+- Man United
+- Mauritius
+- Moortown
+- Nepal
+- New York City
+- Oklahoma
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- Carlos Baleba
+- Count Binface
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Hardeep Bhachu
+- Harry Styles
+- Jasskamal Riyat
+- Joanne McNally
+- Justyna Hulboj
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Lena Czepczor
+- Marilyn Monroe
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Arsenal
+- Audi TT
+- Count Binface
+- Dashcam
+- Farage
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Trump
 ---
 
 ## Showing now | News

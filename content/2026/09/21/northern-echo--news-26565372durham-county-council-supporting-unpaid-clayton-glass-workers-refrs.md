@@ -14,6 +14,27 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21477422.jpg?type=og-image&xType=0&yType=170
+locations:
+- Annfield Plain
+- Clayton Glass
+- County Durham
+- North Durham
+- North Yorkshire
+- Stanley
+people:
+- Clayton Glass
+- Darren Grimes
+- Luke Akehurst
+- Rishi Sunak
+- SARAH CALDECOTT
+organisations:
+- Clayton Glass
+- Crisis and Resilience Fund
+- Durham County Council
+- Harelaw Industrial Estate
+- NORTHERN ECHO
+- Tanfield
+- The Northern Echo
 ---
 
 Durham County Council has pledged to support workers at a County Durham glass factory after staff learnt they would not be paid and the firm was going into administration at the end of last week.

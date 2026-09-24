@@ -14,6 +14,23 @@ categories:
 - York
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Brighton
+- Eastbourne
+- London
+- UK
+- York Barbican
+people:
+- )* Škorjanec
+- Aljaž Škorjanec
+- Carlos Gu
+- Gorka Marquez
+- Julian Caillon
+organisations:
+- Adelphi Theatre
+- Here Come The Boys
+- TV
+- York Barbican
 ---
 
 *(Image: Supplied)*

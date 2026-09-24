@@ -14,6 +14,26 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Coal Drops Square
+- National Railway Museum
+- UK
+- YOUR
+- York Central
+- York Station
+people: []
+organisations:
+- Arlington Real Estate
+- Central Hall
+- City of York Council
+- Government Hub
+- Innovation Hub
+- McLaren Property
+- Network Rail and Homes England
+- Planning Committee
+- Public Notice Portal
+- York Central
+- York Central Ltd
 ---
 
 ## 'Brand new city quarter York can be proud of'- developer welcomes plans backing

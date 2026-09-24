@@ -13,6 +13,69 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford
+- Broadway
+- Chicago
+- Coronation Street
+- Glasgow
+- LA
+- London
+- Los Angeles
+- Manchester
+- New York
+- Shrek
+- Strictly Ballroom
+- Sunset Strip
+- Titanique
+- UK
+- West End
+- West Hollywood
+people:
+- Adam Paulden
+- Ali
+- Brenda
+- Burlesque
+- Cher
+- Christina Aguilera
+- Christina Applegate
+- Clint Culpepper
+- David Geffen
+- Elle Woods
+- Faye Brooks
+- Fiona
+- Fran
+- Jessie
+- Jessie’s Girl
+- Johnny Depp
+- Kate Connor
+- Mike
+- Ms Loretta
+- Nicole Scherzinger
+- Quick
+- Racky Plews
+- Robin Antin
+- Rosie Moore
+- Roxie Hart
+- Ryan Carter
+- Sean
+- Sia
+- Steve
+- Steven Antin
+- Tess Richarde
+- Troy
+organisations:
+- Alhambra Theatre
+- Burlesque
+- Interscope
+- MTV
+- New York Dolls
+- Pussycat Dolls’
+- Screen Gems
+- Sony
+- The Goonies
+- The Viper Room
+- Todrick Hall
 ---
 
 YOU might never have heard of Steven Antin, but you’re probably familiar with his work.

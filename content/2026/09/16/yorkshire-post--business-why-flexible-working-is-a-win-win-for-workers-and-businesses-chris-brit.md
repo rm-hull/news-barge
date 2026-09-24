@@ -15,6 +15,16 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+- Yorkshire
+people:
+- Chris Britton
+organisations:
+- GVA
+- LSE
+- London School of Economics
+- Reward Gateway
 ---
 
 # Why flexible working is a win-win for workers and businesses: Chris Britton

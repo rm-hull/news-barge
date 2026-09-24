@@ -13,6 +13,20 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 - News & Politics
+locations:
+- BRITAIN
+- Cemetery Road
+- Harriet Centre
+- Huddersfield
+- Laund Road
+- YO23 1NZ
+- York Cemetery
+people:
+- Ann Cruickshank
+- Dennis Shaw
+organisations:
+- Friends of York Cemetery
+- Newsnight
 ---
 
 **Pensioner hits out at debate over state pension triple lock**

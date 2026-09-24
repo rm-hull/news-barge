@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Belle Vue Terrace
+- Heslington Road
+- York
+- Yorkshire
+people:
+- Hudson Moody
+- Minster
+organisations:
+- Hudson Moody
 ---
 
 A “fabulous” family home with Minster views has hit the market in York – for £650,000.

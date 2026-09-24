@@ -13,6 +13,29 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab1a45eebc16c4398b1d95b/191:100/w_1280,c_limit/AI-Models-Built-From-Rat-Brains-Business-MEA-neuron-chip-3.jpg
+locations:
+- Amazon
+- Baltimore
+- Maryland
+- San Francisco
+people:
+- Alexander Ksendzovsky
+- Deap Ubhi
+- Jeff Dean
+- Jon Pomeraniec
+organisations:
+- 3Brain
+- AI
+- AWS
+- Amazon Web Services
+- Biological Computing Company
+- Bluesky Compute
+- Cortical Labs
+- Ksendzovsky
+- Primary Venture Partners
+- TBC
+- The Biological Computing Company
+- Ubhi
 ---
 
 A biological computing startup that uses neural patterns from rat brain cells to build artificial intelligence just got a major boost from Amazon.

@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Huddersfield Road
+- Mirfield
+people: []
+organisations:
+- West Yorkshire Police
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Pixabay)*

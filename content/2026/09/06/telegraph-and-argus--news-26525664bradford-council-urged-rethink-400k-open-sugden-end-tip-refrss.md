@@ -15,6 +15,24 @@ categories:
 - Arts & Culture
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- City Hall
+people:
+- Dave Gill
+- Morwenna Catt
+- Ms Dyde
+- Sue Dyde
+organisations:
+- BBC
+- Bradford Belles
+- Bradford Council
+- City of Culture
+- Labour
+- Ministry of Bees
+- Peace Artistes
+- Reform UK
+- Sugden End Household Waste Recycling Centre
 ---
 
 Artists and creative workers are calling on Bradford Council to reconsider plans to divert £400,000 of arts funding.

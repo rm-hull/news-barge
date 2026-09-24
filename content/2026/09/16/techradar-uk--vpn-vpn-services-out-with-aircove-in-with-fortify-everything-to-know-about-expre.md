@@ -11,6 +11,30 @@ description: Fortify moves ExpressVPN's router-level protection onto GL.iNet's h
 image: https://cdn.mos.cms.futurecdn.net/EhxdqibmHMeyEMfrKMJA3h-2048-80.png
 categories:
 - Technology & Software
+locations:
+- Gigabit LAN
+people:
+- Monica J. White
+- Zac Eller
+organisations:
+- Aircove Fortify
+- Aircove Go
+- Cure53
+- Digital Trends
+- ExpressVPN Aircover
+- ExpressVPN Customer Support
+- GL.iNet
+- GL.iNet's
+- GM
+- Google News
+- KPMG
+- Monica
+- No Trace
+- PwC
+- SlashGear
+- Smart Queue Management
+- Tom’s Hardware
+- WePC
 ---
 
 ![Promo image of new ExpressVPN router, Fortify](https://cdn.mos.cms.futurecdn.net/EhxdqibmHMeyEMfrKMJA3h.png) 

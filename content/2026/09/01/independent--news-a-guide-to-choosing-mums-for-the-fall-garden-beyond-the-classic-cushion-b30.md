@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations: []
+people:
+- Jessica Damiano
+organisations:
+- AP
+- Fuji
+- National Chrysanthemum Society
+- The Associated Press
+- Weekly Dirt Newsletter
 ---
 
 September marks the beginning of the great summer-to-fall garden transition and, although most summer plants still have life left in them, many gardeners are turning their attention to the iconic chrysanthemum.

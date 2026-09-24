@@ -12,6 +12,24 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab26a1d5108d82b5616e7c8/191:100/w_1280,c_limit/092226-Liquid%20CO2%20Data.jpg
+locations:
+- Amazon
+- China
+- Texas
+- US
+- United States
+people:
+- Doug Hofer
+- Matthew Carlson
+- Simon Shuham
+- Subith Vasu
+organisations:
+- American Supercritical
+- CO2
+- Center for Advanced Turbomachinery and Energy Research
+- GE
+- Trump
+- University of Central Florida
 ---
 
 A new company has a plan to make the dirty gas turbines powering data centers more efficient: liquid carbon dioxide.

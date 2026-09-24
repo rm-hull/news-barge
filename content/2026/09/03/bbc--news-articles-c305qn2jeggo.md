@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Mass General Brigham
+- UK
+- US
+people:
+- Karen
+- Leonardo Riella
+- Tatsuo Kawai
+- Tim Andrews
+- Tim Andrews'
+organisations:
+- Lancet
+- Mass General Brigham
+- Massachusetts General Hospital
 ---
 
 ![The image shows three adults standing closely together in a hospital hallway. The person in the centre is wearing a bright blue polo shirt, while the individuals on the left and right are wearing white medical coats, with a stethoscope visible around the neck of the person on the right. Fluorescent ceiling lights illuminate the corridor, and doors and windows line the walls behind the group. Small embroidered text is visible on the medical coats.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg)

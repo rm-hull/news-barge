@@ -14,6 +14,26 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Armenia
+- Azerbaijan
+- Baku
+- Dagestan
+- Dubai
+- Eastern Zangezur
+- Karabakh
+- Kingdom of Albania
+- Middle Corridor
+- South Caucasus
+- Western Balkan
+people:
+- Hikmet Hajiyev
+organisations:
+- EU
+- Euronews Forum
+- European Parliament
+- Foreign Policy Affairs Department
+- Presidential Administration
 ---
 
 ## In a Euronews Forum panel in Dubai, Azerbaijan’s presidential advisor Hikmet Hajiyev said peace with Armenia is “an uphill struggle,” but Azerbaijan is committed to preserving the Christian heritage on its territory as it is part of its history.

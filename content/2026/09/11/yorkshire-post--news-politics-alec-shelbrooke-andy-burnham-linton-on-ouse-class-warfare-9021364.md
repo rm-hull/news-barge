@@ -14,6 +14,32 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Ainsty
+- Linton
+- North Yorkshire
+- Oxfordshire
+- PA
+- Piddington
+- RAF Linton-on-Ouse
+- Selby
+- UK
+- Wetherby
+people:
+- Alec Shelbrooke
+- Alec Shelbrooke.
+- Andy Burnham
+- Easingwold
+- Leon Neal
+- Wetherby
+organisations:
+- Easingwold
+- Government
+- Home Office
+- Linton-on-Ouse
+- MP
+- North Yorkshire Council
+- Selby
 ---
 
 # 'Class warfare' - MP slams Andy Burnham over suggestion asylum seekers should be housed in middle-class areas

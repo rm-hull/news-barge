@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- Islamic Republic
+- White House
+people:
+- Alexander Theodoridis
+- Buyer
+- Donald Trump
+- Kevin Warsh
+organisations:
+- Commerce Department
+- Fed
+- Federal Reserve
+- The Independent
+- Trump
+- U.S. Bureau of Labor Statistics
+- UMass
+- University of Massachusetts-Amherst
 ---
 
 Buyer's remorse is rising among Americans who voted for President Donald Trump in 2024 — vividly illustrating the “clear, consistent signs” that his political base is crumbling, according to survey results released Monday.

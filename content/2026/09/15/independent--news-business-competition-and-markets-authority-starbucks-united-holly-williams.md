@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+- United Kingdom
+people: []
+organisations:
+- CMA
+- Co-operative Group
+- Competition and Markets Authority
+- Southern Co-op
+- Starbucks
 ---
 
 The Co-operative Group’s planned takeover of rival Southern Co-op could face a full-scale investigation after the UK’s competition watchdog warned over the tie-up.

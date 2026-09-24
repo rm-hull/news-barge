@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/09/09/23/20/Screenshot-2026-09-09-a
 categories:
 - News & Politics
 - UK
+locations:
+- Atlanta
+- D.C.
+- Georgia
+- Iran
+- Middle East
+- Trump’s Bedminster
+- Turkey
+- White House
+people:
+- Donald Trump
+- Jon Ossoff
+- Lindsey Graham
+- Marc Beckman
+- Melania Trump
+- Natalie Harp
+- Stella Escobedo
+organisations:
+- Air Force One
+- NATO
+- NBC News
+- POTUS
+- The New York Times
+- The Washington**Post
+- Trump
+- YouTube
 ---
 
 Melania Trump’s top aide has revealed their true thoughts about Natalie Harp, whose close relationship with her boss, Donald Trump, has fueled recent speculation.

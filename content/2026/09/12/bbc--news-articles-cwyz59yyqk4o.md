@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Bangkok
+- Belgium
+- Dnipropetrovsk
+- Kyiv
+- Moldova
+- Moscow
+- Pavlohrad
+- Russia
+- Sochi
+- Sumy
+- Thailand
+- US
+- Ukraine
+- Zaporizhzhia
+people:
+- Alexander De Croo
+- De Croo
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- BBC.
+- DTEK
+- De Croo
+- Reuters
+- UN Development Programme
+- UNDP
+- United Nations
+- United Nations Development Programme
 ---
 
 ![Workers from the Ukrainian energy company DTEK perform repairs at an electrical substation in Kyiv, Ukraine, 21 January 2026, amid the Russian invasion.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/658c/live/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Beacon Hill
+- Damar
+- Halifax
+- Scotland
+- Wakefield
+- West Yorkshire
+people:
+- Malham Cove
+- William Morrison
+organisations:
+- Bingley Gallery
+- Bretton Hall College
+- Brighouse
+- Glasgow School of Art
+- Whitby Halifax
+- bingley Gallery
 ---
 
 A NEW Exhibition at Bingley Gallery, The Veil of the Land, features ethereal Yorkshire landscapes by Halifax-based master painter William Morrison.

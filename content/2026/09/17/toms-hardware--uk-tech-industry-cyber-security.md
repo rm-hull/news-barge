@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Louisiana
+- Slovakia
+- US
+people: []
+organisations:
+- FBI
+- Flock
+- Get Tom's Hardware
+- Hertz
+- NASA
+- Senate
+- Shenzhen Zhibotong Electronics
+- Siemens
+- Target
+- U.S. Department of Justice
+- United States Coast Guard
+- Vulncheck
+- Web Audio
 ---
 
 ![a Flock camera with a street in the background](https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-320-80.png)

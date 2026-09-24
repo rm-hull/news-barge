@@ -15,6 +15,43 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Bradford
+- Bradford’s Pictureville
+- Dunkirk
+- Europe
+- Hollywood
+- Sunset Boulevard
+- UK
+- Yorkshire
+people:
+- Anthony Mann
+- Baz Luhrmann
+- Chris Morris
+- Christopher Nolan
+- Dominic Broomfield-McHugh
+- Jack Weedon
+- James Hardisty.
+- Jennifer Weston-Beyer
+- John Blow
+- Judy Garland
+- Omar Ahmed
+- Pictureville
+- Steven Spielberg
+- Symon Culpan
+organisations:
+- BIFF
+- Bradford
+- Cinerama Dome
+- IMAX
+- Jurassic Park
+- Moulin Rouge
+- Moulin Rouge!
+- National Science and Media Museum
+- Pictureville
+- Showstoppers!
+- Sound of Music
+- University of Sheffield
 ---
 
 # Widescreen Weekend: Pictureville cinema brings back One Battle After Another, Moulin Rouge, the Sound of Music and Jurassic Park and plenty more

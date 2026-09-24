@@ -15,6 +15,1824 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- ARISAIG
+- Addlestone
+- Aldridge
+- Altrincham
+- Ambleside
+- Anfield
+- Anglesey
+- Anniesland
+- Arisaig
+- Armagh
+- Ashford
+- Aylesbury
+- B23
+- B24
+- B64
+- B67
+- B70
+- B74
+- BARKLEY PLASTICS LIMITED
+- BD7
+- BL6
+- BN2
+- BN3
+- Ballymena
+- Banff
+- Basildon
+- Basingstoke
+- Bedford
+- Belfast
+- Bethmar Limited
+- Beverley
+- Bexleyheath
+- Bilston
+- Birkenhead
+- Birmingham
+- Bishop’s Gate Hotel Derry
+- Blackburn
+- Blackpool
+- Body Street
+- Bolton
+- Bournemouth
+- Box Hill
+- Bradford
+- Brampton
+- Bridlington
+- Brighton
+- Bristol Castlemead
+- Bromley
+- Bromsgrove
+- Bungay House
+- Burford
+- Bury Saint Edmunds
+- Bury St Edmunds
+- Buxton
+- CA1
+- CA4
+- Callander
+- Calne
+- Cannock
+- Canterbury
+- Canvey Island
+- Cardiff
+- Carlisle
+- Castle Bingo
+- Castlederg
+- Castleford
+- Chadwell Heath
+- Chatham
+- Chelmsford
+- Chelsea
+- Cheltenham
+- Chessington
+- Chichester
+- Christchurch
+- Chulmleigh
+- Clacton-On-Sea
+- Clacton-on-Sea
+- Cleveland
+- Coatbridge
+- Cockermouth
+- Colchester
+- Coleraine
+- Colne
+- Coventry
+- Cradley Heath
+- Craigavon
+- DA18
+- DA7
+- DY1
+- Dagenham
+- Darlington
+- Denton
+- Derby
+- Doggydude
+- Doncaster
+- Dudley
+- Dunbar
+- E11
+- E4
+- E6
+- E7
+- E8
+- East Midlands
+- Eastbourne
+- Eastleigh
+- Edinburgh
+- Elnecot Limited
+- Enfield
+- Epsom
+- Epworth
+- Erdington
+- Erith
+- Farnham
+- GU10
+- GU30
+- Gateshead
+- Gilmorton
+- Glasgow
+- Gloucester
+- Good Morning Vietnam
+- Goodenough
+- Grays
+- Great Yarmouth
+- Greenford
+- Greenwich
+- Guildford
+- HA1
+- HA5
+- HU17
+- Harlow
+- Hatfield
+- HealthHarmonie
+- Hemel Hempstead
+- Henley-On-Thames
+- Herne Bay
+- High Green
+- Hillsborough
+- Holywood
+- Horsechoice
+- Horsham
+- Houghton-Le-Spring
+- Hove
+- Huddersfield
+- Huyton
+- IP28
+- IP30
+- Ilkley
+- Irvine
+- Isle of Skye
+- K.W
+- KENT
+- Keighley
+- Kemptown
+- Kensington
+- Kinghorn
+- Knowsley
+- L7
+- LL59
+- Lahore Karahi
+- Leatherhead
+- Ledbury
+- Leeds
+- Leicester
+- Leven
+- Lichfield
+- Lincoln
+- Lingfield
+- Liverpool
+- Livingston
+- London Borough
+- Louth
+- Lowton
+- Luton
+- Lutterworth
+- Lymm
+- M1
+- M3
+- M4
+- MK40
+- Maidenhead
+- Maidstone
+- Manchester
+- Mansfield Woodhouse
+- Middlesborough
+- Middlesbrough
+- Milton Keynes
+- Morley’s Finsbury Park
+- N1
+- N17
+- N3
+- N4
+- NI
+- NR26
+- NR30
+- NW
+- Neath
+- Nelson
+- Neonify Limited
+- Newbury
+- Newcastle Upon Tyne
+- Newcastle upon Tyne
+- Newham
+- Newport
+- Newry
+- Newtown
+- Norfolk
+- Northampton
+- Norwich
+- Nottingham
+- Nuneaton
+- OL8
+- Oldbury
+- Oldham
+- Omagh
+- Otley
+- Outwell
+- Oxford
+- Packhouse
+- Padstow
+- Penrith
+- Penryn
+- Pershore
+- Peterborough
+- Peterhead
+- Plymouth
+- Pocklington
+- Poole
+- Portsmouth
+- Prestatyn
+- Pulborough
+- Rathfriland
+- Reading
+- Redcar
+- Redditch
+- Redruth
+- Renfrew
+- Ringwood
+- Royal Borough
+- Royal Tunbridge Wells
+- Rumney
+- Runcorn
+- Ruthin
+- SCOTLAND
+- SE1
+- SE14
+- SE9
+- SEL
+- SW17
+- Salford
+- Salisbury
+- Scotland
+- Sheffield
+- Sheringham
+- Sidcup
+- Sittingbourne
+- Sleaford
+- Slough
+- Southampton
+- Southend on Sea
+- Southend-On-Sea
+- Southport
+- Southwark
+- St Albans
+- St Austell
+- St Helens
+- St Helier
+- St. Albans
+- Stafford
+- Stalybridge
+- Stamford
+- Stanley
+- Stirling
+- Stockport
+- Stockton-on-Tees
+- Stoke-On-Trent
+- Stortford
+- Stourbridge
+- Subway
+- Suntechgadget
+- Surbiton
+- Sutton
+- Swansea
+- Swindon
+- TA2
+- TS18
+- TS6
+- TW15
+- Taunton
+- Telford
+- Thetford
+- Towcaster
+- Truro
+- Tunbridge Wells
+- UK
+- Uxbridge
+- Varanasi
+- Victoria House
+- W1J
+- WA1
+- WA10
+- WA3
+- WA7
+- WA9
+- Walsall
+- Waltham Forest
+- Wandsworth
+- Ward End Dental Practice
+- Warley
+- Warrington
+- Waterloo
+- Waterlooville
+- Watford
+- Wednesbury
+- Welwyn Garden City
+- Wembley
+- West Bromwich
+- Westminster
+- Whitchurch
+- Whitefield
+- Whitley Bay
+- Windmill Failsworth Limited
+- Windsor
+- Wirral
+- Wokingham
+- Wolverhampton
+- Worcester
+- Wyboston
+- Wynyard
+- YO16
+- YO42
+- Yeovil
+- York
+- Yorkshire
+people:
+- Adam & Eve Hair
+- Adam M Greenwood
+- Amir Liman
+- Anavo Care
+- Andrew Body
+- Andrew S Gibbs
+- Angela Draycott
+- Anita F Skinner
+- Arooran Kogulanathan
+- Audenshaws
+- Avery Homes
+- B Al’Saadi
+- Benjamin Edward Albert Bethel
+- Beti Reilly
+- C.G
+- CA12
+- Carol Gormley
+- Caroline Bryant
+- Catherine Clifford
+- Daniella Draper Limited
+- David Hayton Limited
+- Davidson
+- E Shaban
+- Edris Babrakar
+- Edward Harris
+- Edward Lewis
+- Emma Lincoln
+- Eshal Limited
+- F Arbabi
+- Fiona Burgoyne
+- Fish ‘O’ Licious
+- Francis Mulligan
+- G R Maksud
+- Gary Keen
+- Gaspard R Maksud
+- Gemma Leanne Melling
+- George Brian Johnson
+- Gilbert Greenall
+- Goldens
+- Gordon Philips
+- Gurmet Singh
+- HAO BAO
+- Harry Casaru
+- Hasina Babrakar
+- Hilary F & Miss Hannah R McPherson
+- Howard’s
+- I Hussain
+- Ian B Grayston
+- J W Benson
+- J.J
+- James Campbell
+- James W Benson
+- Jane Drysdale
+- Jayendrakumar Jayantibhai Patel
+- Jay’s Budgens
+- Jeremy Cale
+- Jerome Kaine Ikwueke
+- Joanna M Walsh
+- John Bailey
+- John Hargreaves
+- Jonathan Horsman
+- Jonathan Reynolds
+- Just Build
+- Kate Dearden
+- Keswick
+- Kieran Heames
+- Kiran Bajracharya
+- Lee William Petchy
+- M N Chaban
+- M. Farren Limited
+- M. T. James Limited
+- Maria Rogers
+- Matthew Taylor
+- Media Muhialdeen Abdulla
+- Melton Mowbray
+- Miekha Limited
+- Milestone
+- Misbah Khalil
+- Miss Laura A Taylor
+- Miss Lucinda V Russell
+- Miss Lynsey Bingham
+- Miss Shaminder Kaur Kang
+- Miss Susan Berry
+- Mohamed Omar Arif
+- Moira
+- Monaza Malik
+- Mr A Ekrayem
+- Mr T A Blunt
+- Mrs V Bourne
+- Ms Rosemary Gawn
+- Ms Shuxing Li Yeug
+- Mymil Limited
+- Nalini Jayendrakumar Patel
+- Naser Azhar
+- Ngoc Tinh Chu
+- Nicola Anna Gould
+- Pamela Cale
+- Paul C Hugill
+- Paul Nowak
+- Paul Williams
+- Pepe
+- Peter B Morgan
+- Pratik Patel
+- R H Blunt
+- R. Sutton
+- RH20
+- Ramkumar Krishnaswamy
+- Ranfern Limited
+- Rebecca Jane Cowderoy
+- Renuka Arun
+- Robert D Glover
+- Ross Collins
+- Satpal Bains
+- Satvinder Kaur
+- Sawat Kakabash
+- Scott Baines
+- Sharon Bailey
+- Shipley
+- Soulka Ltd
+- Susan Gibbs
+- Sutton Coldfield
+- Tajinder Kaur
+- Tilak Patel
+- Vanessa Susan Logan
+organisations:
+- 287. Care Givers Limited
+- 356. Functional Skills Education Centre Ltd
+- 443. W&D Foods Ltd
+- 467. Prime Catering
+- 477. Seconds Out Ltd
+- 486. Stone Products Scotland Ltd
+- 4C Coffee House
+- 597. Alliance Care
+- 618. G&S Auto Centre Ltd
+- 652. Care Springside Limited
+- A & F Foods Ltd
+- A1 Property Consultants Ltd
+- A3 Gas Limited
+- AASK
+- AB31
+- AB37
+- AB42
+- AB45
+- ABC Day Nursery & Pre-School Ltd
+- AL1
+- AL10
+- AL4
+- AL7
+- AL8
+- AMG Tiling Services
+- AMK Chauffeur Drive Limited
+- APJ Services
+- Above & Beyond Group Ltd
+- Acas
+- Accrington
+- Acorn Camping
+- Acorn Park Nursery Limited
+- Action For Children Developments Limited
+- Activity World Ltd.
+- Addlestone
+- Advance Motors Limited
+- Advance Vauxhall
+- Aegis Residential Care Homes Limited
+- Airlie Arms Hotel
+- Airlie Arms Hotel Limited
+- Al Pacinos Pizza House Ltd
+- Al-Kamoosi Limited
+- Alan King Racing Limited
+- Alba Landscapes Ltd.
+- Aldermoor Farm Equestrian
+- Aldridge Education
+- Alecta Technical Solutions Ltd
+- Alias Group Limited
+- Alkota Group Limited
+- Allerdale Court Hotel
+- Alloa
+- Alphadigital Limited
+- Alpine Facilities Services Limited
+- Alves iCare Ltd
+- Amah Nurseries Limited
+- Amazon Cleaning Ltd
+- Anarkali Indian Restaurant
+- Andrew Care Ltd
+- Anio Hairdressing Limited
+- Anji Draycott Hair
+- Anthony Condon Show Jumping Limited
+- Araf Coleshill Limited
+- Argyle Residential Home
+- Aristo-Tots Private Nursery School Limited
+- Arlary House Stables
+- Arrow Tools
+- Arundel News
+- Arutun Ltd
+- Ashford
+- Ashtead
+- Ashton Gate Limited
+- Aspirations Care Limited
+- Aston Management International Ltd
+- Astoria Bingo Club Limited
+- Atina Hotel Limited
+- Auchterarder
+- Aulds Delicious Desserts Limited
+- Auto-Mech Cheddar Ltd
+- Automobile Repair Services Ltd
+- Autoplus
+- Ave Maria Care Ltd
+- B&Q
+- B11
+- B15
+- B18
+- B21
+- B23
+- B24
+- B28
+- B29
+- B3
+- B33
+- B46
+- B5
+- B60
+- B7
+- B72
+- B77
+- B8
+- B9
+- B90
+- B97
+- BA20
+- BB1
+- BB2
+- BB4
+- BB5
+- BB8
+- BD18
+- BD22
+- BD4
+- BD8
+- BD9
+- BH11
+- BH12
+- BH15
+- BH21
+- BH23
+- BH24
+- BL1
+- BL3
+- BL6
+- BN1
+- BN2
+- BN21
+- BN23
+- BN26
+- BNB Property Services Limited
+- BS1
+- BS16
+- BS27
+- BS3
+- BT10
+- BT11
+- BT12
+- BT13
+- BT14
+- BT15
+- BT17
+- BT18
+- BT2
+- BT23
+- BT26
+- BT34
+- BT4
+- BT42
+- BT43
+- BT47
+- BT48
+- BT51
+- BT55
+- BT57
+- BT61
+- BT62
+- BT66
+- BT7
+- BT79
+- BT80
+- BT81
+- BT9
+- BT92
+- Baa Bar
+- Baa Bar Limited
+- Babylon Supermarket
+- Bacup
+- Bagel Delight Bakery
+- Bakewell
+- Balmoral Hotel
+- Bamboo Kids
+- Banchory
+- Bapon IT Services Ltd
+- Bar Kaz
+- Bar Ltd
+- Bargain Beers
+- Barking
+- Barnsley
+- Beaches Hotel Limited
+- Beamish Park Golf Club Limited
+- Bearfields of London Limited
+- Beehive Childcare Group
+- Bel Viso Limited
+- Belfast Cleaning Co-Operative Limited
+- Belfast Cleaning Society Ltd
+- Belle Green Court Care Home
+- Benfleet
+- Bents Garden Centre Limited
+- Berkeley Surfacing Contractors Limited
+- Bethell & Shepherd Plumbing & Heating Limited
+- Birkin Cleaning Services Limited
+- Black Horse Otley
+- Black Night Trading Ltd
+- Blackbox Voice and Data Solutions Ltd
+- Blackland Lakes Limited
+- Blacks Road Service Station Ltd
+- Bletchley Dental Practice
+- Blossom Tree Nursery Rhiwbina Ltd
+- Blossoms Trading Limited
+- Blue Sakura Ltd
+- Blunts Shoes
+- Bongo Master Restaurant
+- Boomerang Healthcare Ltd
+- Boothtown
+- Borehamwood
+- Boro Protect Security Ltd
+- Boss Pizza Acton
+- Bourton On The Water
+- Bracknell
+- Brayborne Facilities Services Limited
+- Brickwork Ltd
+- Bright Screw Company Limited
+- Bright Star Nursery
+- Broadway Residential Home
+- Bromesberrow Estate & Farm
+- Brunos Steak House Ltd
+- Bruno’s Rodizio
+- Bubble Hand Car Wash
+- Burford Nursing Home
+- Burton On Trent
+- Bury St Edmunds
+- Bushmills Hotels Limited
+- Busy Bee Montessori Nursery School Limited
+- Butterflies Day Nursery
+- Butterfly Pre-School Limited
+- C & R Global Leisure Ltd
+- C&P Panelcraft
+- C.F.C
+- CA11
+- CA13
+- CA4
+- CA6
+- CEWT
+- CF10
+- CF11
+- CF14
+- CF23
+- CF24
+- CF3
+- CF47
+- CF5
+- CF62
+- CFC Interiors
+- CM1
+- CM18
+- CM2
+- CM22
+- CO1
+- CO15
+- CR0
+- CR7
+- CSS Recycling Ltd
+- CT1
+- CT14
+- CT6
+- CV10
+- CV11
+- CV2
+- CV6
+- CV9
+- CW8
+- CWCIO Limited
+- Cactus Rainbow Limited
+- Caerdydd
+- Café Parmigiana
+- Cain’s Amusements Limited
+- Calder & Hannam Limited
+- Capstone Care Provider Limited
+- Caravan Site
+- Cardiff Property Corporation Limited
+- Care2Home Ltd
+- Caremark
+- Carigavon
+- Carlisle Window Systems Limited
+- Carsmetix Limited
+- Castle Leisure Limited
+- Centra Holywood
+- Central Electrical & Lighting Limited
+- Chappell MOT & Service Centre Ltd
+- Cheeky Monkeys Day Nursery
+- Cheshunt
+- Chesterfield
+- Chevin Retail Limited
+- Children’s World Pre-School
+- Chislehurst Care Limited
+- City Glass Works Limited
+- City of London
+- City of Westminster
+- Claremont Hospital Holdings Limited
+- Clarence House Nursery
+- Clarence Nursery Ltd.
+- Clarity Homecare
+- Cleaning Limited
+- Cleantec Services Limited
+- Clearcut Maintenance
+- Clearing Agent Ltd
+- Cleone Foods Limited
+- Clifton Dental Care Limited
+- Club Kaede Limited
+- Clyde Company
+- Clydebank
+- Coatbridge Auto Spa Ltd
+- Cobham
+- College Road Post Office
+- Collin Care Limited
+- Collyhurst
+- Colne
+- Comforting Hands Recruitment Ltd
+- Community Care Direct Limited
+- Compleat Care
+- Complete Packaging Solutions Ltd
+- Complete Removals & Storage Ltd
+- Construction and Developments Limited
+- Cookery School Limited
+- Cookstown
+- Corby
+- Costcutter Moutray’s
+- Court Hotel Group Ltd
+- Coventry Education and Welfare Trust
+- Cranbrook
+- Crawley
+- Creams Cafe Elephant
+- Creams Café
+- Creative Child Ltd
+- Crickhowell
+- Cristal Care Limited
+- Crosskeys Meats
+- Crown Foods
+- Crown Hotel
+- Crown Hotel Wetheral
+- Crown Service Station
+- Croydon
+- Crwys Pharmacy
+- Cura-Care Yorkshire Ltd
+- Curve Motion Limited
+- D & T Motors Limited
+- D&D Contract Cleaning Ltd
+- D.Village Ltd
+- D2D Saltcoats Limited
+- DA14
+- DA18
+- DD4
+- DD8
+- DE1
+- DE11
+- DE14
+- DE23
+- DE4
+- DE65
+- DH4
+- DH9
+- DL3
+- DN16
+- DN22
+- DN3
+- DN31
+- DN36
+- DN4
+- DN9
+- DW Homecare
+- DWPS Chartered Surveyors
+- DY2
+- Daisychain Homecare Services
+- Dales Homes) Limited
+- Damasgate Wholesale
+- Damira Dental Studios Limited
+- Daniel Department Stores
+- Danish Crown UK Limited
+- Darras Hall Ltd
+- Darren Macdonald Funeral Directors Limited
+- Davison Canners Limited
+- Deal
+- Dean & Smedley Family Pharmacy
+- Dean & Smedley Limited
+- Deansfield Residential Home
+- Dementia Care & Support At Home Limited
+- Dementia Care NW
+- Dental Care Centre Limited
+- Desi Dera Restaurant Limited
+- Designer Crates and Cages
+- Devereux & Co
+- Diamond Events Management
+- Dilshad Indian & Takeaway
+- Dispensing Healthcare Ltd
+- Diss
+- Domino’s Pizza
+- Doncaster
+- Dongard Scaffolding Limited
+- Doorstep Laundry
+- Dosa Kingdom Ltd
+- Dunbar Pet Food Limited
+- Dundee
+- Dundonald Nurseries Limited
+- Dunstable
+- Durn House Ltd
+- Durum Ocakbasi Limited
+- Durum Restaurant
+- Dustbusters Cleaning Limited
+- Dynamic Retail Ltd
+- E&A Distribution Limited
+- E.A
+- E.C.B
+- E16
+- E17
+- EC1M
+- EC1V
+- EC4A
+- EC4V
+- EH10
+- EH17
+- EH42
+- EH54
+- EH7
+- EH8
+- ELLUC Projects Ltd
+- EN1
+- EN2
+- EN4
+- EN5
+- EN8
+- EN9
+- EX18
+- Ebrington
+- Ebutemetta Joint Ltd
+- Ecoserv FM Group Limited
+- Eddystone Inn
+- Eden Hair & Beauty
+- Egertons Fleet Services Limited
+- Eggesford Country Hotel Limited
+- Electric Technics Ltd
+- Elite Hand Car Wash
+- Elite Pro Sports Limited
+- Elite Pubs
+- Elite Security Personnel Limited
+- Elpas Limited
+- Elysium Healthcare Holdings
+- Elysium Healthcare Holdings Limited
+- Enablement Care Services Ltd
+- Enchanted Grove Limited
+- Ennskillen
+- Essendine
+- Eurasia
+- Eve Salon Tilehurst
+- Ewe and Lamb
+- Excell Cleaning Services Limited
+- F.M.S Freezer Management Services Limited
+- FFY Group Limited
+- FK10
+- FK17
+- FK7
+- FK8
+- FORK CATERING LTD
+- FY1
+- FY4
+- FY8
+- Fair Work Agency
+- Fair Work Agency Advisory Board
+- Faith Globallinks Ventures Limited
+- Fallin
+- Family First Professionals Ltd
+- Family Gas Care Company Ltd
+- Faringdon
+- Farmers Barns Limited
+- Farming Limited
+- Farr Brew Ltd
+- Fashion Wize Ltd
+- Fast Food Birkenhead Ltd
+- Fatman’s Acton Limited
+- Fernlea Hotel Limited
+- Ferrymill Motors Ltd
+- Fife Butchers
+- Fife Wholesale Butchers LLP
+- Fine Dine Management Limited
+- Fine Tutors Limited
+- Finney Pharmacy
+- First Footsteps Limited
+- First Steps Private Nursery
+- Five Guys
+- Fix Auto Pershore
+- Flightcare Limited
+- Flow Healthcare
+- Food Bazar
+- Football Development Schools
+- Forest Gate Eye Clinic
+- Forest Holidays Ltd
+- Fort De Leau Limited
+- Forward Security Limited
+- Foulds Limited
+- Fox And Hounds Country Hotel
+- Franchise Accounting Services Limited
+- Fresh Tree Care Services
+- Freshstores Limited
+- Frontline Healthcare Solutions Ltd
+- Furness Limited
+- Future Champions Day Nursery Limited
+- G-Tech Electrical Contractors Limited
+- G.Parry Home Improvements Limited
+- G12
+- G13
+- G14
+- G2
+- G20
+- G3
+- G31
+- G41
+- G4S Facilities Management
+- G4S Security Services
+- G5
+- G52
+- G64
+- G76
+- G81
+- GE Aviation Systems Limited
+- GL4
+- GL52
+- GL54
+- GM Kitchens & Shop Fitting
+- GRC Solar Ltd
+- GU2
+- GU22
+- GU24
+- Gaming Technology Solutions Limited
+- Gillis Foods Limited
+- Gills Fish & Chips
+- Ginger And Spice Limited
+- Glamorgan Quality Meats Ltd
+- Gleeson Developments Limited
+- Gleeson Homes
+- Glen Community Parent/Youth Group
+- Glenrothes
+- Global Heritage Healthcare Ltd
+- Go-Wright Ltd
+- Goa Exemplary Indian Cuisine
+- Goa Seaburn Ltd
+- Golden Ambal Limited
+- Grace Care Service Limited
+- Gravity Fitness Limited
+- Great Cretan Inn Ltd
+- Greek Taverna
+- Green Star Restaurants Ltd
+- Green Tree Lifts
+- Green Tree Limited
+- Greenleaf Property Marketing Limited
+- Grimsby
+- Grizzly’s Canning Town
+- Grove Road Surgery
+- Guys JV Limited
+- HA0
+- HA9
+- HD1
+- HD2
+- HD5
+- HFK Shah Limited
+- HG1
+- HK & Z Ltd
+- HP1
+- HP13
+- HR8
+- HT Sweets
+- HU6
+- HU8
+- HX3
+- Hair De-Zign
+- Hairstylists
+- Hamilton’s Foodhalls Ltd
+- Hand 2 Hold Limited
+- Harboro Hotel
+- Harrogate
+- Haslingden
+- Hawkey Office Cleaning Limited
+- Hayes
+- Healthharmonie Limited
+- Heath Farm Day Nursery Limited
+- Heathrow OPCO Limited
+- Heathvale House
+- Heavenly Desserts Blackburn Ltd
+- Heritage Day Nursery Ltd
+- Heritage Taverns Limited
+- Heston Cars London Limited
+- Heybrook Bay Pub Ltd
+- High Adventure Outdoor Education Centre Limited
+- High Wycombe
+- Hillcrest Catering Co
+- Hillcrest Fabrications Limited
+- Hockley
+- Hoghton Street Dental Care Limited
+- Hook
+- Hope Inns LLP
+- Horam
+- Horsham
+- Houghton
+- House Management Services Limited
+- Housing Units Limited
+- Huhtamaki BCP Limited
+- Hull
+- Hunny Pot Day Nursery
+- Hustyns Hotel & Spa
+- I Drive Automotive Ltd
+- I-Chai Express
+- IBI Healthcare Ltd
+- INNS LTD
+- IP22
+- IP25
+- IP32
+- IV3
+- IV51
+- Identity Hair
+- Il Cancello Italian Ltd
+- Imperial Hotel Garvagh Ltd
+- In House Care Limited
+- Interiors Ltd
+- International Food Centre
+- Interni Deco Ltd
+- Inverness
+- Invicta Care And Training Ltd
+- Iron Brook Limited
+- J&S Bailey
+- JJB Hotels Limited
+- JSS Bar Grill
+- Jarrow
+- Jason Consulting Limited
+- Jigsaw Homecare Ltd
+- Joseph Furniture Ltd
+- Just Gourmet Ltd
+- Just Tyres
+- K Transport Services
+- K9 Design Dog Grooming & Training 2020 Ltd
+- KA SCOTLAND LTD
+- KA11
+- KA21
+- KFC Brentford
+- KIC Garage Services
+- KSS
+- KT11
+- KT15
+- KT17
+- KT18
+- KT20
+- KT21
+- KT22
+- KT6
+- KT9
+- KY13
+- KY3
+- KY7
+- KY9
+- Kanexy Ltd
+- Kaspa’s Desserts
+- Kaya Brothers Limited
+- Kelsey Construction Ltd
+- Kelvin Control Engineers Ltd.
+- Kensington Student Services Limited
+- Kentklean Limited
+- Khartoum Market
+- Khartoum Supermarket Services Ltd
+- Khyber Restaurant
+- Kids Planet Day Nurseries Limited
+- Kidstreet Limited
+- Kidstreet Nursery
+- Kieser Consultancy Limited
+- Kings Arms
+- Kinneuchar Inn Pub Company Ltd
+- Kirriemuir
+- Kitchen Ltd
+- L11
+- L4
+- L7
+- LA22
+- LCMA Hotels Ltd
+- LDN
+- LE1
+- LE13
+- LE16
+- LE17
+- LE19
+- LE3
+- LE4
+- LE5
+- LE8
+- LE9
+- LJ Care Limited
+- LL18
+- LL19
+- LN2
+- LS11
+- LS12
+- LS13
+- LS2
+- LS21
+- LS29
+- LS3
+- LU3
+- LU5
+- LU7
+- La Bella Manchester Ltd
+- La Petite Auberge
+- La Vie Café Ltd
+- La Vita West End Limited
+- Lacons Brewery Limited
+- Ladydale Care Home
+- Lanes Group Limited
+- Lasan Restaurant Limited
+- Laser Crystal Limited
+- Lawlor Decorating Company Limited
+- Leeds United Football Club Limited
+- Leek
+- Lemur Leisure Limited
+- Liaison Hair
+- Lime Restaurant
+- Liphook
+- Lister Pharmacy
+- Lister Schoolwear
+- Little Angels Daycare Nursery Limited
+- Little Dessert Shop
+- Little Dessert Shop Bilston
+- Little Leaders Day Nursery Limited
+- Little Sparkles Preschool Limited
+- Liverpool Art School Ltd
+- Liverpool University Hospitals NHS Foundation Trust
+- Living Home Tech Limited
+- Llansamlet
+- Llantwit Major
+- Localvalu Limited
+- Loizou Restaurants Limited
+- London Borough of Barnet
+- London Borough of Bexley
+- London Borough of Brent
+- London Borough of Bromley
+- London Borough of Camden
+- London Borough of Ealing
+- London Borough of Enfield
+- London Borough of Hackney
+- London Borough of Hammersmith & Fulham
+- London Borough of Haringey
+- London Borough of Harringey
+- London Borough of Harrow
+- London Borough of Hillingdon
+- London Borough of Hounslow
+- London Borough of Islington
+- London Borough of Lambeth
+- London Borough of Lewisham
+- London Borough of Merton
+- London Borough of Newham
+- London Borough of Sutton
+- London Borough of Tower Hamlets
+- London Borough of Waltham Forest
+- London Borough of Wandsworth
+- Longrain Theatre
+- Loon Fung Limited
+- Loven Care Homes Limited
+- Lyndhurst Private Pre-School Day Nursery Limited
+- Lytham St Annes
+- M26
+- M27
+- M35
+- M6
+- M7
+- MB Cafes Limited
+- MBS North East Ltd
+- ME14
+- ME15
+- ME17
+- ME4
+- ME9
+- MK12
+- MK13
+- MK3
+- MK43
+- MK45
+- MK6
+- ML1
+- ML5
+- MMS Mirabella Ltd
+- Madame Pho
+- Maddisons Bakery Limited
+- Maden Early Years and Childcare Centre
+- Maidstone
+- Majestic Wine
+- Majestic Wine Warehouses Limited
+- Manchester Abattoir Ltd
+- Mangreen Country House Retreats Ltd
+- Manorbier Store
+- Manuella Care Limited
+- Marine Society And Sea Cadets
+- Market Harborough
+- Marsh Bears Nursery
+- Martin & Co Balham
+- Martin & Co Merthyr Tydif
+- Masquerade Hair & Beauty
+- Matley
+- Matlock
+- Maxideals Group Ltd
+- Maydown
+- McAtamney’s Traditional Butchers
+- McCombe Inns Limited
+- McDonald Reality Ltd
+- McDonalds Restaurant
+- McGinley Support Services (Infrastructure) Limited
+- McLean Restaurants Limited
+- Medlock Day Nursery Ltd
+- Megaplay
+- Mere Green Healtcare Limited
+- Merlin Cinemas Limited
+- Merthyr Tydfil
+- Messrs Lodge & Thomas
+- Mila’s Home Foods Ltd
+- Mill Risca Ltd
+- Milligans Durham Limited
+- Milligans Kenton Limited
+- Milligans Middlesbrough Limited
+- Milligans Sunderland Limited
+- Milligans Whickham Limited
+- Millionhairs London Enfield
+- Milnathort
+- Minds Limited
+- Mnara Health Ltd
+- Mobile Eyez Limited
+- Modus Agency Ltd
+- Mold
+- Monkton Elm Garden Centre Limited
+- Montessori & Me Nursery Ltd
+- Moss Properties
+- Motherwell
+- Mother’s Kitchen Ltd
+- Mr Chans Resturant Limited
+- Mraya International Supermarkets Ltd
+- Muirigh Solicitors Limited
+- Murdoch Allan & Son Limited
+- MyLahore Leeds Limited
+- N&S Developments Ltd
+- N11
+- N17
+- NCF Furnishings Limited
+- NCF Living
+- NE1
+- NE10
+- NE12
+- NE16
+- NE20
+- NE25
+- NE32
+- NE33
+- NE34
+- NE68
+- NG1
+- NG15
+- NG16
+- NG19
+- NG2
+- NG3
+- NG34
+- NG4
+- NG5
+- NG7
+- NG9
+- NI
+- NI) Limited
+- NJ Yarn Distributors Limited
+- NN12
+- NN17
+- NN3
+- NN4
+- NP11
+- NP22
+- NP8
+- NR14
+- NR2
+- NR30
+- NR35
+- NR4
+- NW2
+- NW7
+- Namma Ooru Dosa
+- Navith Brothers Limited
+- Neasden Fish & Chips Ltd
+- Neil Barr Decorating Services Limited
+- Neptune Fish Restaurant
+- Newari Handicraft
+- Newcastle Upon Tyne
+- Newcastle-under-Lyme
+- Newtownards
+- Night Dental Ltd
+- Norfolk Community Health & Care NHS Trust
+- North West Tea Service Limited
+- Northgate Fast Food Limited
+- Northorpe Joinery
+- Northwich
+- Nourish Contract Catering Limited
+- Novah Limited
+- OAS&CO Accounting Ltd
+- OIYAA
+- OL13
+- OL16
+- OL9
+- OPO Bakery Ltd
+- OX10
+- OX18
+- Oadby & Wigston
+- Oak House Care Limited
+- Oakfield Pharma Limited
+- Oakville Care Limited
+- Old Post Office Bakery
+- Old Rope Walks Ltd
+- Oldham
+- Orchid Café
+- Ormskirk
+- P J Automotive Limited
+- P Smith Farriers Ltd
+- P&K Renovation Ltd
+- PA4
+- PB2 LTD
+- PE1
+- PE14
+- PE9
+- PH3
+- PH39
+- PHC Parts
+- PL Gill Ltd
+- PL27
+- PL28
+- PL9
+- PMG Retail Limited
+- PMG Schoolwear
+- PO19
+- PO3
+- PO7
+- PR5
+- PR8
+- PR9
+- PVR & Co
+- Pacific Nurseries Limited
+- Painting Contractors Limited
+- Palm House
+- Papa John’s
+- Park Lane Kids Ltd
+- Park Lane Pre School & Nursery
+- Parkdean Resorts UK Limited
+- Passmores Co-Operative Learning Community
+- Patterson & Rocks Solicitors Limited
+- Pengfei Education Consultancy Ltd
+- Peninsula Care Services
+- Penny Bookkeeping Services Limited
+- Pentagon Security Force
+- Pepe’s
+- Perfectpays Ltd
+- Peter Morgan Contractors
+- Peter Rabbit Day Nursery Limited
+- Peters Patch Day Nursery
+- Pho Vietnamese Limited
+- Phoenix BB Limited
+- Pili Palas Nature World Limited
+- Pineshield Management Limited
+- Pixaserv Ltd
+- Pizza Hut
+- Platinum Windows
+- Polegate
+- Portstewart Golf Club
+- Power Lounge Ltd
+- Powred Heating Components Limited
+- Premier Electrics NW Ltd
+- Premier Saltcoats Convenience Store
+- Premier Stores
+- Premier Support Services Limited
+- Preston Road Surgery
+- Pride of Bengal Highland Ltd
+- Primacy Care Limited
+- Prime Electrical Services Ltd
+- Prime Recruitment Limited
+- Primrose Healthcare Services Limited
+- Priory Day Nursery Limited
+- Pro-Help Limited
+- Professor Phone Ltd
+- Quantum Coffee Roasters Ltd
+- Quik Foods Ltd
+- RFG Brighton Limited
+- RG1
+- RG12
+- RG14
+- RG41
+- RG5
+- RH1
+- RH10
+- RH12
+- RH7
+- RKM Wools
+- RM10
+- RM20
+- RM6
+- Radisson Blu Hotel
+- Rainbowsky
+- Ramesses Enterprise Limited
+- Ranaissance Care Ltd
+- Ranchers Birkenhead
+- Rapha Haven Ltd
+- Ravenwood Hall Hotel Limited
+- Rayment Recruitment Limited
+- Rea Valley Speciality Foods
+- Reader & Sons Limited
+- Reading
+- Rebecca Cowderoy Dressage
+- Red Balen Nursery
+- Red Balloon Day Nursery Limited
+- Red Firs Carehome Limited
+- Redditch
+- Redhill Car Wash
+- Reehal Kitchen Bedrooms Limited
+- Regis Hair Salon
+- Restaurateur Group Holdings Ltd
+- Retford
+- Retrack Personnel Ltd
+- Retreat Pub Co Limited
+- Reynolds Motor Group Service Centre Ltd
+- Rhoose
+- Rhyl
+- Rite IT Solutions Limited
+- Riverside Chinese Restaurant
+- Rocco’s Desserts
+- Rochdale
+- Romilly Nursing Home
+- Roots York Restaurant Ltd
+- Roseberry Care Centres GB Limited
+- Rosemary Gawn Solicitors
+- Rossendale Restaurant Ltd
+- Rothay Manor Hotel
+- Rothay Manor Limited
+- Rotherham
+- Royal Borough of Greenwich
+- Royal Borough of Kensington
+- S & D Property Maintenance Ltd
+- S & L Joiners Limited
+- S.O.E
+- S10
+- S21
+- S35
+- S41
+- S60
+- S63
+- S9
+- SA2
+- SA6
+- SA70
+- SE18
+- SE21
+- SE26
+- SE4
+- SE9
+- SK15
+- SK17
+- SK2
+- SK4
+- SK8
+- SK9
+- SL1
+- SL4
+- SL6
+- SLA IT Solutions Limited
+- SM1
+- SN1
+- SN4
+- SN7
+- SO16
+- SO17
+- SO53
+- SP1
+- SPAR Mount Eagles
+- SPI Accountancy LLP
+- SR1
+- SR2
+- SR6
+- SS1
+- SS13
+- SS15
+- SS3
+- SS5
+- SS6
+- SS7
+- SS8
+- ST1
+- ST13
+- ST17
+- ST4
+- ST5
+- ST6
+- ST7
+- SVK Care Ltd
+- SW10
+- SW12
+- SW16
+- SW18
+- SW1H
+- SW1Y
+- SW7
+- SW9
+- SY16
+- Saash Foods Limited
+- Safe Hands Support Scotland Ltd
+- Saint James Tavern Ltd
+- Sajn Limited
+- Sammy Snail Day Care
+- Sammy Snail Ltd
+- San Hand Car Wash
+- Sasa Foods Limited
+- Saturn Healthcare Ltd
+- Scotfresh
+- Scotia Bathroom & Tile Centre
+- Scotia Solutions
+- Scunthorpe
+- Sequoia CH Group Ltd
+- Serco Limited
+- Shahzads Law Ltd
+- Shamins Hair & Beauty Salon
+- Shanghai Garden
+- Sheffield
+- Sheldon Inns Limited
+- Sherif & Sons Superstore
+- Shining Pearls Nursery Ltd
+- Ship@Lathom Ltd
+- Shipley
+- Shish Edinburgh
+- Shkupi Car Wash
+- Sihara Care Limited
+- Silchester Manor Day Nursery Limited
+- Silence UK
+- Sirtec Limited
+- Slough
+- Smith & Western
+- Smith & Western Lingfield Ltd
+- Solid Rock Care Ltd
+- Solihull
+- Sorrento Support Ltd
+- South Shields
+- South Stars Entertainment Ltd
+- South Wales Transport
+- Southcrest Hotel
+- Southcrest Manor Hotel
+- Spar Dergvalley Castlederg
+- Special Care Services Limited
+- Spellbrook Car Wash Ltd
+- Spire Property Group
+- Sporting Limited
+- Spring Healthcare Limited
+- St Albans District Council
+- St George’s
+- St George’s University Hospitals NHS Foundation Trust
+- St Helier Hospital Group
+- Staffordshire & Cheshire Cleaning Services Limited
+- Staffordshire Wildlife Trading Limited
+- Staffordshire Wildlife Trust
+- Stage 2 Service & Supply Limited
+- Staleybridge
+- Stalybridge
+- Stanfield Nursing Home Limited
+- Stanley
+- Staple Hill Dental Practice
+- Star Plumbing, Heating & Renewables Ltd
+- Stars Day Nurseries Limited
+- Steps Community Nursery
+- Stirling
+- Stockton On Tees
+- Stoke on Trent
+- Stone Eden Nursery School Limited
+- Stourport-on-Severn
+- Strawberry Field Care Home
+- Streamlined Forensic Reporting Limited
+- Streets Ahead Estate Agents
+- Streets Ahead Estate Agents LLP
+- Sumatra Ltd
+- Sundari Foods Limited
+- Sunshine Healthcare Services Limited
+- Suntechgadget Limited
+- Support Staff Services Limited
+- Sussex Food Co Limited
+- Sutton Coldfield
+- Swadlincote
+- Sweet Aroma Ltd
+- Sweet Toofz
+- Sweettoofzuk Ltd
+- Swift Pharmacy
+- Sycamore House Day Nursery Limited
+- T Rex Supermarket & Bubble Tea
+- T. Leisure Limited
+- TA1
+- TCMC Crowded Space Ltd
+- TF3
+- TF6
+- THE FINNEY PHARMA LTD
+- TLC
+- TM
+- TN18
+- TN2
+- TN21
+- TN23
+- TR15
+- TS1
+- TS11
+- TS15
+- TS18
+- TS20
+- TS22
+- TS4
+- TS8
+- TUC
+- TW8
+- Taco Bell
+- Tadworth
+- Tamba Day Nursery Ltd.
+- Tamba Day Nursery Olympic Park
+- Tantobie Stores
+- TapGo
+- Taste Original
+- Taverna Tasty Food Ltd
+- Taylor Rose Limited
+- Taylor Wildlife
+- Tempex Global Limited
+- Temple Mead Care Ltd
+- Tenby
+- Tenpin Limited
+- Tesco Stores Limited
+- Thames Valley Cleaning Limited
+- The Anchor
+- The Art School Restaurant
+- The Beaches Hotel and Spa
+- The Bushmills Inn Hotel
+- The Butchershop Bar & Grill
+- The Cairn Lodge
+- The Clarks Shop
+- The Cloche Hat
+- The Crabtree
+- The Crown Lodge Hotel
+- The Dunes
+- The Falls of Feugh Restaurant
+- The Inn
+- The Kinneuchar Inn
+- The Lansdowne Hotel
+- The Mount Dental Practice
+- The Old Sergeant
+- The Outdoor Learning Company
+- The Priory Hotel
+- The Retreat
+- The Shakespeare
+- The Ship Lathom
+- The Sitwell Arms Hotel
+- The Thatch Inn
+- The Turks Head
+- The Vape Team
+- The Vine Inn
+- Thomas Dudley Foundry Limited
+- Thornton Heath
+- Thurrock
+- Tick Tock Day Nursery Ltd.
+- Tiffany’s Hotel
+- Tilgate
+- Tilsworth
+- Tiny Toez Childrens Day Nurseries Limited
+- Tinys Beauty Ltd
+- Topaz Limited
+- Topwest Limited
+- Toyland Toyshop
+- Tradedoubler Limited
+- Tredegar
+- Trendy Pooches SB Limited
+- Trust in Care Limited
+- Tudor Kitchen Factory Limited
+- Tuskan Thai Limited
+- Twinkle Tots Childcare
+- UB10
+- UB3
+- UB6
+- UB8
+- UIG Hotel Ltd
+- UK Care Team Ltd
+- UK Caring Services Limited
+- UK Curriculum and Accreditation Body
+- UKCAB
+- Ullesthorpe Court Hotel and Golf Club Limited
+- Universally Speaking Limited
+- Unknown Agency Ltd
+- Urban Laundry Limited
+- VSL Nail & Beauty Salon
+- Vale Game Pest Control Services
+- Valicity Care Services Ltd
+- Vel Brighton
+- Victa DP Ltd
+- Victoria Court Residential Home Limited
+- Victoria Park Kindergarten Ltd
+- Vietnam Restaurant Ltd
+- Vita Limited
+- Voyage Care
+- W.J.Daniel & Company Limited
+- W1F
+- W1U
+- WA10
+- WA13
+- WA15
+- WA4
+- WC1H
+- WC1V
+- WD17
+- WD18
+- WD24
+- WD25
+- WD6
+- WF10
+- WFS
+- WH Investments Limited
+- WR1
+- WR10
+- WR2
+- WS10
+- WS12
+- WS14
+- WS2
+- WS9
+- WV10
+- WV2
+- WV6
+- Wadebridge
+- Waggon & Horses
+- Walnut Tree Bistro
+- Waltham Abbey
+- Warwickshire
+- Waterjet Profilers Ltd
+- Watford
+- Wealden Community Care Limited
+- West Lothian Artistic Gymnastic Club SCIO
+- Westcliffe Pharma Ltd
+- Westcliffe Pharmacy
+- Westcott Factory Meats Limited
+- Westgate Healthcare
+- Wharfdale Leisure Ltd
+- Wheel Traders Limited
+- Wheelgame Limited
+- Whitbread Group PLC
+- Whiteline Manufacturing Limited
+- Whiterock Childrens Centre Ltd
+- Whiterock Creche Association Ltd
+- Whole Foods Market
+- Wholesale Tropicals
+- Wild Boar Inns Limited
+- William Moutray & Sons Ltd
+- Williams Electrical Contracting
+- Williamsons Family Butchers Limited
+- Wilmslow
+- Wilnecote
+- Wimborne
+- Wirral
+- Wisbech
+- Woking
+- Worcester Theatres Charitable Trust Ltd
+- Work Work Limited
+- Y7 Hotels Limited
+- YO24
+- YO30
+- YYYKN LTD
+- Yew Tree Frieth Limited
+- Zeux Ltd
+- Zinnia Care Ltd
+- Zium Limited
+- Zwanenberg Food Group UK Limited
+- eXPD8 Limited
 ---
 
 The government has publicly named hundreds of businesses after they failed to pay staff the National Minimum Wage.

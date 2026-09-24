@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Nepal
+- Nuwakot
+people:
+- Rajendra Dawadi
+- Sabina Kumari Shrestha
+- Trishuli Bazar
+- Yubaraj Amatya
+- Yunisha Amatya
+organisations:
+- BBC
+- Tribhuvan Trishuli Secondary School
 ---
 
 Watch: Teacher saved the lives of 900 students after phone call

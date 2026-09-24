@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Abbey Wood
+- Elizabeth
+- Hammersmith
+- Heathrow
+- London
+- Paddington
+- Piccadilly
+- Reading
+people: []
+organisations:
+- GWR
+- Heathrow Express
+- National Rail
+- TfL
+- Transport for London
+- Western Railway
 ---
 
 A fire near a train track in the London Paddington area has caused major disruption, with services to Heathrow airport cancelled.

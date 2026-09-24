@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/08/10/1200x675_cmsv2_0c38f925-651a-58bc-ac9d-178d849eb498-9920810.jpg
+locations:
+- Australia
+- Japan
+- Spain
+- Valladolid
+people: []
+organisations: []
 ---
 
 Puzzle enthusiasts raced to finish a jigsaw none of them had seen before in the final of the World Jigsaw Puzzle Championship in Valladolid, Spain, on Sunday. A Dutch biology student came first.

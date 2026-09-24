@@ -15,6 +15,45 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Allen Court
+- Bickerton
+- Birch Close
+- County Durham
+- Darnton Drive
+- Gainford
+- Gateshead
+- Guisborough
+- Hebron Road
+- Leeds
+- Middlesbrough
+- New Marske
+- North East
+- North Lincolnshire
+- Northumberland
+- Seacroft
+- Sheffield
+- South Parkway
+- Stokesley
+- Tadcaster
+- Teesside
+- Wetherby
+- York Road
+- Yorkshire
+people:
+- Ben Ware
+- Chelsea Bayliss
+- Frederick Finney
+- James Hope
+- Joanne Kidd
+- Nicole O'Brien
+- Ryan Watson
+- Serena Robertson
+- Shane Farrow
+- Thomas Winter
+organisations:
+- National Trading Standards
+- The Press
 ---
 
 An organised crime group exploited the grief of a newly bereaved widow and cheated her out of £133,400, a crown court heard.

@@ -12,6 +12,33 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6aa145e274a1099024c35a52/191:100/w_1280,c_limit/AT&T-Workforce-Shrink.jpg
+locations:
+- Atlanta
+- Dallas
+- San Francisco
+- Seattle
+- US
+- United States
+- Wall Street
+people:
+- Elon Musk
+- Jeremy Legg
+- John Stankey
+- Pascal Desroches
+organisations:
+- AI
+- AT&T
+- DriveNets
+- GeoModeler
+- Goldman Sachs
+- Goldman Sachs Communacopia + Technology Conference
+- Musk
+- SpaceX
+- Stankey
+- Starlink
+- T-Mobile
+- Verizon
+- WIRED
 ---
 
 AT&T, which already shed more than half of its workforce over the past decade, says it's going to continue laying off staff as it gears up for the AI era. The telecommunications giant is also doing away with its old-school landline service and using artificial intelligence to automate some internal processes. All this downsizing is resulting in tangible benefits, including a considerable decrease in electricity usage, AT&T chief technology officer Jeremy Legg tells WIRED.

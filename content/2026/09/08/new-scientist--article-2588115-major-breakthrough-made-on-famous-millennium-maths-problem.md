@@ -11,6 +11,34 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311299849.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Los Angeles
+- Navier-Stokes
+- OpenAI
+- UK
+people:
+- Alpöge
+- Camilla Nobili
+- David Silvester
+- Diego Córdoba
+- Garry Kasparov
+- Luis Martínez-Zoroa
+- Terence Tao
+- Tristan Buckmaster
+organisations:
+- AI
+- Anthropic
+- Clay Mathematics Institute
+- Harvard University
+- IBM
+- Lean
+- Levent Alpöge
+- Navier-Stokes
+- New Scientist
+- New York University
+- University of California
+- University of Manchester
+- University of Surrey
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311299849.jpg?w=840)

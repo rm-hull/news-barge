@@ -13,6 +13,29 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- Damascus
+- Deir el-Zour
+- Egypt
+- Israel
+- Jordan
+- Morocco
+- North Korea
+- Saudi Arabia
+- Syria
+people:
+- Bashar Assad
+- Rafael Grossi
+organisations:
+- AP
+- Associated Press
+- General Assembly
+- IAEA Board of Governors
+- International Atomic Energy Agency
+- Security Council
+- The Associated Press
+- U.N
+- U.N.
 ---
 
 The board of the U.N. nuclear watchdog on Wednesday adopted a resolution ending its investigation into past secret nuclear activities in Syria that revealed a reactor configured to produce fissile material for possible use in nuclear weapons.

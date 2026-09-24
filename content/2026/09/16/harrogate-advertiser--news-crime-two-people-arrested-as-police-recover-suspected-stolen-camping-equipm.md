@@ -14,6 +14,12 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFkNjNjNmVjLTZkNGUtNDMzZS1iMmQ1LTgzYTg0NTlmZThiZDpmNzQyODZiNC0yZWNkLTQ2NjYtODAzYy0wMTYzY2NlN2M4ZWU=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
+locations:
+- Harrogate
+- North Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # Two people arrested as police recover suspected stolen camping equipment in Harrogate

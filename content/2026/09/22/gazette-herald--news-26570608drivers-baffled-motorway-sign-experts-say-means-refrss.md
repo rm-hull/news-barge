@@ -15,6 +15,20 @@ categories:
 - Technology & Software
 - Self-Improvement
 image: https://www.gazetteherald.co.uk/resources/images/21484340.jpg?type=og-image
+locations:
+- North and South
+- The LAKES
+- UK
+people:
+- Matt Clamp
+- Paul Gorry
+organisations:
+- AA
+- Auto-Trail
+- Reddit
+- SOUTH WALES
+- Scrap Car Comparison
+- THE MIDLANDS
 ---
 
 *(Image: Getty)*

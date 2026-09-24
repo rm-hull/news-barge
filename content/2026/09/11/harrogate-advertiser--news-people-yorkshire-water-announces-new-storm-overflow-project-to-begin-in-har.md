@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Esplanade
+- Harrogate
+- Montpellier Hill
+- Oak Beck
+people:
+- Athif Khan
+- Burke
+- Ward
+organisations:
+- CSO
+- Harrogate
+- Yorkshire Water
 ---
 
 # Yorkshire Water announces new storm overflow project to begin in Harrogate as part of £1.5bn improvements

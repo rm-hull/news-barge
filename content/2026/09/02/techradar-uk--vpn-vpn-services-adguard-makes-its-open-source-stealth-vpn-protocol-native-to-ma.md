@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/LSVs67W5DaHSVhypbWT2c4-1537-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Rene Millman
+organisations:
+- AdGuard VPN
+- Apple
+- Computer Weekly
+- Financial Times
+- GitHub
+- Google News
+- IT Pro
+- Mac App Store
+- Microsoft Store
+- No Trace
+- The Guardian
+- TrustTunnel
 ---
 
 ![AdGuard's TrustTunnel VPN protocol on the Mac App Store](https://cdn.mos.cms.futurecdn.net/LSVs67W5DaHSVhypbWT2c4.png) 

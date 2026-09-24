@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- New York
+- Oval
+- U.S.
+- US
+people:
+- Eric Trump
+- Harrison Lowman
+- Kathy Hochul
+- Logan Roy
+organisations:
+- App Store
+- Apple App Store
+- Apple Maps
+- Google Maps
+- MapQuest
+- Trump
 ---
 
 The internet has torn into Eric Trump after he posted an image of himself wearing a hat reading “Lake America”.

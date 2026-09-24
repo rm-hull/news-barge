@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- U.S.
+- United States
+people:
+- Beth Jarosz
+- Manjusha Kulkarni
+- Trump
+organisations:
+- AAPI Equity Alliance
+- Association of Public Data Users
+- Electoral College
+- Federal Register
+- House of Representatives
+- LGBTQ
+- Pacific Islanders
+- Pew Research Center
+- Stop AAPI Hate
+- U.S. Census Bureau
 ---
 
 The Trump administration is proposing a dramatic overhaul of the once-a-decade U.S. Census head count that could leave out millions of immigrants based on status and key racial and ethnic data, jeopardizing the allocation of resources and the country's voting map.

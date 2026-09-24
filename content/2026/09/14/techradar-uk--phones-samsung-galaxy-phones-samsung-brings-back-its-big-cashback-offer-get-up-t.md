@@ -15,6 +15,31 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- James Pickard
+organisations:
+- '### Samsung Cashback'
+- AO
+- Amazon
+- Argos
+- Black Friday
+- Carphone Warehouse
+- Currys
+- Eurogamer
+- Galaxy Z Fold
+- Mastercard
+- Mobile Phones Direct
+- PS5
+- S26 Ultra
+- Samsung Cashback
+- Samsung Galaxy S26 Ultra
+- Samsung Store
+- Samsung Wallet
+- Tampa Bay Buccaneers
+- TechRadar
+- Tesco Mobile
+- Very
 ---
 
 ![Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra on a table](https://cdn.mos.cms.futurecdn.net/uRgKFzh2jBmFJqxeMRHotT.jpg) 

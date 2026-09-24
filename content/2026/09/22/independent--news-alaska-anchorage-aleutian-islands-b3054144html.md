@@ -15,6 +15,19 @@ categories:
 - Lifestyle & Fashion
 - Travel
 image: https://static.independent.co.uk/2026/09/22/10/Alaska_Fat_Bear_Week__7985.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Alaska Peninsula
+- Aleutian Islands
+- Brooks Falls
+- Brooks River
+- Katmai National Park
+people:
+- Chunk
+- Grazer
+- Gully — aka Bear
+organisations:
+- Bear
+- Chunk
 ---
 
 After a summer spent packing away sockeye salmon, Alaska’s heftiest brown bears are ready to throw their weight around.

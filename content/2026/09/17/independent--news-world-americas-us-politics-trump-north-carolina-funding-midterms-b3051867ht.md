@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gastonia
+- North Carolina
+- U.S.
+people:
+- Donald Trump
+- Helene
+- Hello
+- Iryna Zarutska
+- Michael Whatley
+- Roy Cooper
+organisations:
+- CNN
+- FEMA
+- House
+- Republican National Committee
+- Senate
+- Trump
 ---
 
 President Donald Trump said he would withhold disaster relief funding from North Carolina if voters do not elect Republican Senate nominee Michael Whatley in the midterms — only to add he was “kidding.”

@@ -13,6 +13,37 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Coliseum
+- Downton Abbey
+- Eighteen91
+- Paddington
+- Whitby Pavilion
+- Yorkshire
+people:
+- Ann Cleeves
+- Corinne Bailey Rae
+- Elly Griffiths
+- Greta Scacchi
+- Hairy Biker Si King
+- Hugh Bonneville
+- Joanne Harris
+- John Boyne
+- Lois Kirtlan
+- Mark Billingham
+- Rory Sparkes
+organisations:
+- '## Downton Abbey'
+- Chocolat
+- Downton Abbey
+- Flowergate Hall
+- Jet Black Jewel
+- Number One Sunday Times
+- Striped Pyjamas
+- The Boy
+- Whitby Library
+- Whitby Lit Fest
+- Whitby Museum
 ---
 
 # Downton Abbey star Hugh Bonneville announced as Whitby Lit Fest headline guest

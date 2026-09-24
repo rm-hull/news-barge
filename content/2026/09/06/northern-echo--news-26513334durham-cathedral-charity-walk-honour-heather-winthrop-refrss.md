@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Darlington
+- Durham Cathedral
+- Queen Elizabeth Hospital
+people:
+- Heather Winthrop
+organisations:
+- Cancer Connections
+- Cancer Connections South Tyneside
+- Macmillan and Cancer Connections
 ---
 
 *(Image: Supplied)*

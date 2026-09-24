@@ -12,6 +12,26 @@ image: https://images.euronews.com/articles/stories/09/91/46/06/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- America
+- Florida
+- US
+- United States
+people:
+- '## Trump'
+- Brett Kavanaugh
+- Clarence Thomas
+- Donald Trump
+- Samuel Alito
+organisations:
+- Congress
+- NAACP
+- Postal Service
+- Supreme Court
+- Trump
+- Truth Social
+- United States Postal Service
+- United States Supreme Court
 ---
 
 ## Trump had sought to limit mail-in voting ahead of November's key midterm elections, which will determine the makeup of Congress for his final two years in office.

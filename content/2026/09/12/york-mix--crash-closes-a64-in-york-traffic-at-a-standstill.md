@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '#### Crash'
+- A1079 Hull Road
+- A1237 Malton Road
+- A64 Westbound
+- Grimston Bar
+- Grimston Bar Interchange
+- Hopgrove
+- York
+people: []
+organisations:
+- A64
+- AA
 ---
 
 Part of the York outer ring road is closed after a crash this lunchtime (Saturday).

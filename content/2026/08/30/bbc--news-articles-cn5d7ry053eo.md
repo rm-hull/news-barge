@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Braintree
+- Essex
+- London
+- Witham
+people:
+- Boris Johnson
+- Claire Coutinho
+- Dame Priti
+- Dame Priti Patel
+- James Cleverly
+- Kemi Badenoch
+- Liz Truss
+- Mel Stride
+- Priti Patel
+- Tom Tugendhat
+- Tony Abbott
+organisations:
+- BBC News
+- British Army
+- Commonwealth and Development Affairs
+- Conservative Party
+- Daily Telegraph
+- Foreign Affairs Select Committee
+- Manchester Central Convention Complex
+- Territorial Army
+- Tory
 ---
 
 ![Shadow Secretary of State for Foreign, Commonwealth and Development Affairs, Priti Patel, attends a panel discussion with Tony Abbott, former Australian PM on day three of the Conservative party conference at Manchester Central Convention Complex on October 07, 2025](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3f0f/live/5d2f5d50-a4bf-11f1-984c-751457a03c14.jpg)

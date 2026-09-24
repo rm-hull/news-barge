@@ -11,6 +11,20 @@ description: Can't sit still in meetings? The clever Obsbot Tiny 2 Lite 4K PTZ w
 image: https://cdn.mos.cms.futurecdn.net/gvq4bQ8BMj7JT2YaSn8Z6e-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+people:
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Isabelle
+organisations:
+- Google Meet
+- Logitech
+- Obsbot
+- TechRadar Pro
+- Zoom
+- iMore
 ---
 
 ![OBSBOT Tiny 2 Lite](https://cdn.mos.cms.futurecdn.net/gvq4bQ8BMj7JT2YaSn8Z6e.jpg) 

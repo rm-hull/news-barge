@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/dYZFtWfiJdtSfZD8BgQLkD-1500-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- US
+people:
+- Tom Bedford
+- Yahama
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- Samsung
+- Sony HT-S20003
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- Yamaha
 ---
 
 ![The Yamaha B200A on a wooden shelf under a TV.](https://cdn.mos.cms.futurecdn.net/dYZFtWfiJdtSfZD8BgQLkD.jpg) 

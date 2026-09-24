@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bfd/live/f534ea20-b374-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Blue House
+- Buam-dong
+- Korea
+- Minho
+- Ruby
+- Seoul
+- Whanki Museum
+people:
+- Buam-dong
+- Choi Jin-woo
+- Grandpa
+- Jung
+- Kim Min-joo
+- Kim On
+- Kim Whanki
+- Park Jeon-hee
+- Woo Kyusung
+organisations:
+- BBC
+- Buam-dong
+- Whanki Museum
 ---
 
 ![A narrow residential street lined with stone walls is framed by two striking autumn trees, one with bright golden-yellow leaves and the other with deep red foliage. Fallen leaves blanket parts of the road and sidewalk, while overhead utility wires stretch across a blue sky with scattered clouds.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f294/live/28164a40-b19c-11f1-bc1f-3f186ca4140c.jpg)

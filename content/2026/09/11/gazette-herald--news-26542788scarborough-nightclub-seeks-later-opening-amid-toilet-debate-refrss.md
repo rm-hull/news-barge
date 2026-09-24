@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- North Yorkshire
+- Scarborough
+- St Thomas Street
+people:
+- Carol
+- Dean0n0
+- Jerry
+- Leelaa
+- Matt
+- Sandra
+organisations:
+- Fusion
+- Google Maps One
+- JPH Venues Ltd
+- NIGHTCLUB’S
+- North Yorkshire Council
+- North Yorkshire Police
+- Scarborough Town Council
+- Scarborough Town Hall
+- The Press
 ---
 
 A NIGHTCLUB’S bid to extend its opening hours until 3am has sparked a debate about the availability of public toilets in a North Yorkshire town.

@@ -15,6 +15,44 @@ categories:
 - Business & Entrepreneurship
 - History
 image: https://images.euronews.com/articles/stories/09/92/13/31/1200x675_cmsv2_0efbc3e6-2835-5c5c-8c2b-9f85649f16d0-9921331.jpg
+locations:
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Bahrain
+- Belgium
+- Brussels
+- Djibouti
+- Europe
+- France
+- Germany
+- Greece
+- Hanish Islands
+- Indian Ocean
+- Iran
+- Italy
+- Kuwait
+- Luxembourg
+- Mediterranean Sea
+- Mocha
+- Netherlands
+- Perim Island
+- Red Sea
+- Rome
+- Spain
+- US
+- United Arab Emirates
+- Yemen
+people:
+- Antonio Tajani
+- Caio Duilio
+- Fasan
+- Guido Crosetto
+- Kaja Kallas
+- Vasileyos Griparis
+organisations:
+- Aspides
+- EU
+- Foreign Affairs Council
 ---
 
 ## The EU is considering reinforcing Operation Aspides in the Red Sea, after Italy's request, with ships and aircraft to protect the Bab el-Mandeb Strait from attacks launched from Yemen. The passage is crucial for energy trade, as energy costs are skyrocketing across Europe.

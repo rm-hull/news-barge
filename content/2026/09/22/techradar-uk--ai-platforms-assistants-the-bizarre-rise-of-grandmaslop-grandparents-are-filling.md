@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Family & Parenting
 image: https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg
+locations: []
+people:
+- Boomer
+- Graham Barlow
+- Grandma
+- Reddit
+organisations:
+- AI
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- GenZ
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- Radio 4
+- Randstad
+- Reddit
+- TechRadar
+- iMore
 ---
 
 ![Mother despairs at AI slop from grandma.](https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3.jpg)

@@ -13,6 +13,37 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- U.S.A.
+- Washington
+- White House
+people:
+- Chamath Palihapitiya
+- Dario Amodei
+- David Sacks
+- Demis Hassabis
+- Donald Trump
+- Elon Musk
+- Sam Altman
+organisations:
+- AI and Data Centers
+- ASML
+- Anthropic
+- Council of Advisors on Science and Technology
+- Google DeepMind
+- Intel
+- Leakers
+- Micron
+- Nvidia
+- OpenAI
+- Schneider Electric
+- Senate
+- Siemens Energy
+- SoftBank
+- Trump Administration
+- Truth Social
+- xAI
 ---
 
 President Donald Trump said Monday that a "SICK conspiracy" is being waged against artificial intelligence and the data centers that run it by what he described as a group of "Conspiracy Theorists, Treasonists, Traitors, and Leakers" — two days after the heads of the largest American AI companies publicly called on their own industry to slow down.

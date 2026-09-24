@@ -13,6 +13,37 @@ categories:
 - Sports
 - History
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/367e/live/7d376ef0-b769-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- England
+- Frankfurt
+- Greater Manchester
+- Preston North End
+- Ramsbottom United
+- Spain
+- UK
+- Wythenshawe Hospital
+people:
+- Alphonso Davies
+- Cheadle
+- Daley Cross
+- Lucy
+- Martyn Jackson
+- Paul Callan
+- Ramsbottom
+organisations:
+- BBC Sport
+- Bayern Munich
+- Blackburn Rovers
+- Burnley
+- Cheadle Town
+- Daley Cross
+- England Transplant
+- England Transplant FC
+- Heart and Lung Centre
+- Manchester United
+- NHS Blood and Transplant
+- North West Counties Premier Division
+- Ramsbottom United
 ---
 
 ![England's team pose with the Transplant World Cup](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/2c06/live/a4491970-b765-11f1-8e7f-6f99c81f3136.jpg)

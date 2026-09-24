@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Broomfields
+- Whitby
+people:
+- Cllr Wilkinson
+- Peter Wilkinson
+organisations:
+- Align Property Partners
+- Align Property Services
+- Brierley Group
+- Brierley Homes
+- Brierley Homes’
+- North Yorkshire Council
+- North Yorkshire Education Services
 ---
 
 ![](https://mmo.aiircdn.com/409/68c1768dc9e73.jpg) 

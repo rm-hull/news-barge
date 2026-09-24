@@ -12,6 +12,22 @@ description: Apple has put a mechanical aperture in the iPhone camera for the fi
 image: https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X-1913-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Apple
+- Canon
+- Google News
+- Huawei
+- Nikon
+- Pro Max
+- TechRadar
+- iPhone
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X.jpg) 

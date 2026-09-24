@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21477829.jpg?type=og-image&xType=0&yType=36
+locations:
+- Darlington Market
+- Morpeth Bus Station
+- North East
+- Northumberland
+- Stockton Darlington
+people:
+- Rob Grant
+organisations:
+- Darlington Market
+- Grant’s Family and Catering Butchers Ltd
+- Morpeth
+- Prudhoe
+- Sanderson Arcade
 ---
 
 Buying cheese and catching a bus might not usually go hand in hand, but a new family-run business has brought the two together after opening a shop inside a Northumberland bus station.

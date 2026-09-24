@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Middle East
+- Strait of Hormuz
+- UK
+people:
+- Dame Angela Eagle
+- Karen Betts
+organisations:
+- Defra
+- Department for Environment, Food and Rural Affairs
+- El Nino
+- FDF
+- Food and Drink Federation
+- Guardian
+- National Audit Office
+- Office for National Statistics
 ---
 
 Food inflation is expected to reach almost 4% by Christmas, and peak at 6.4% in July next year, as pressures from conflict and extreme weather reach supermarket shelves, the industry has warned.

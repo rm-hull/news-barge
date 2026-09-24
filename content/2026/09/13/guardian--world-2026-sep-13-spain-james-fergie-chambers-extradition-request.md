@@ -12,6 +12,53 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barcelona
+- Chambers’
+- Europe
+- Gaza
+- Ibiza
+- Israel
+- JFK
+- Madrid
+- New Hampshire
+- New York
+- Palestine
+- Portugal
+- Spain
+- Tunisia
+- UK
+- US
+- United States
+people:
+- Angela Davis
+- Baltasar Garzón
+- Chambers’
+- Free Fergie
+- Greta Thunberg
+- Hamed Mbarek
+- Ione Bellara
+- Irene Montero
+- Irene Zugasti
+- James “Fergie” Chambers
+- Pedro Sánchez
+- Richard Gere
+- Stella Schnabel
+- Trump
+organisations:
+- Chambers’
+- Club Africain
+- Cox Communications
+- Elbit Systems
+- FBI
+- Guardian
+- Hamas
+- Palestine Action
+- Podemos
+- Sameer Project
+- Socialist
+- Sumar
+- Trump
 ---
 
 Attorneys for James “Fergie” Chambers, the US citizen and wealthy donor to leftwing and humanitarian projects worldwide who is currently imprisoned in Madrid and sought in extradition, have submitted a brief ahead of a decisive government meeting on the case.

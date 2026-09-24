@@ -13,6 +13,24 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/23/17/2281000550..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Andy Burnham
+- Chris Hinchcliff
+- Green
+- John Healey
+- Katie Thompson
+- Miatta Fahnbulleh
+- Myles Cummins
+organisations:
+- Budget
+- Government
+- Labour
+- North East Herts
+- Possible
+- Safe Landing
+- The Independent
+- Tory
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

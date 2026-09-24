@@ -13,6 +13,30 @@ categories:
 - UK
 - Society & Culture
 - Personal Finance & Investing
+locations:
+- Harborne
+- Hong Kong
+- Thailand
+- UK
+- United Kingdom
+people:
+- Angela Rayner
+- Baroness Taylor
+- Ben Delo
+- Christopher Harborne
+- Jonathan Reynolds
+- Nigel Farage
+organisations:
+- BBC
+- HMRC
+- Labour Party
+- Lib Dems
+- Lords
+- Reform UK
+- Sky News
+- TUC
+- Telegraph
+- The Times
 ---
 
 Reform UK’s crypto-billionaire donors could face enhanced checks to prove their ongoing presence in the UK as the government considers tightening proposed laws after the party received £72 million over the weekend.

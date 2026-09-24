@@ -11,6 +11,20 @@ image: https://i.guim.co.uk/img/media/16e487118d020ab6e065aef62ead47747bf3d1cd/3
 categories:
 - UK
 - News & Politics
+locations:
+- Dallas
+- New York
+- US
+- White House
+people:
+- Donald Trump
+- Joe Biden
+- Michael Cohen
+- Stormy Daniels
+organisations:
+- CNN
+- Congress
+- Republican National Committee
 ---
 
 Donald Trump on Wednesday said he would consider pardoning Michael Cohen, the former fixer whom he once branded a “rat” for testifying against him in court and before Congress, but with whom he has recently staged a stunning public reconciliation.

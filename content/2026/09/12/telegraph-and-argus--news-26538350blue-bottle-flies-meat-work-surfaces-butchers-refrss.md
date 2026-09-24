@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Health & Fitness
 - Food & Cooking
+locations:
+- BRADFORD
+- Carlisle Road
+- Manningham
+people: []
+organisations:
+- Hussain Food Store
+- T&A
 ---
 
 *(Image: T&A)*

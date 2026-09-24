@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Science
 - Family & Parenting
+locations:
+- Cambridge
+- Massachusetts General Hospital
+- US
+people:
+- Andrews’
+- Mike Curtis
+- Tim Andrews
+organisations:
+- Crispr
+- FDA
+- Food and Drug Administration
+- The Lancet
+- eGenesis
 ---
 
 A woman has lived with a pig kidney for more than nine months without needing dialysis, a record-setting achievement.

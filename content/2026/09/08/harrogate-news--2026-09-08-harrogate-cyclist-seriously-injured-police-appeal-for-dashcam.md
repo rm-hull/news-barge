@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - News & Politics
 - True Crime
+locations:
+- Harrogate
+- Leathley Lane
+- Otley
+people:
+- Conor Taylor
+organisations:
+- Dashcam Footage Sought Traffic
+- North Yorkshire Police**
 ---
 
 **North Yorkshire Police** have launched an appeal for witnesses and dashcam footage after a cyclist was left hospitalised with**serious injuries** following an incident near Harrogate.

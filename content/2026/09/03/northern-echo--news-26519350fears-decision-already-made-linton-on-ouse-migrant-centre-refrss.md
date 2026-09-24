@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- RAF Linton-on-Ouse
+- Richmond
+people:
+- Anna Turley
+- Carl Les
+- Cllr Les
+- Linton
+organisations:
+- Border Security
+- CCTV
+- Government
+- Home Office
+- Linton-on-Ouse
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 The leader of North Yorkshire Council has expressed concern that the Government has effectively already decided to use the former RAF Linton-on-Ouse base to house migrants, despite ministers insisting no final decision has been made.

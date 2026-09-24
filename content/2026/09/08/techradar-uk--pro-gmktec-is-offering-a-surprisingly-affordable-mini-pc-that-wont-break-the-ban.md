@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/Qme8xZZwaJkvKrTqs46znA-1280-80.webp
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Shenzhen
+people:
+- Cezanne
+- Rahim Amir
+organisations:
+- AMD
+- Barcelo-U
+- CPU
+- GMKtec
+- Google News
+- M5 Ultra
+- NUC
+- NucBox
+- PC
+- PCs
+- RAM
+- RGB
+- SFF
+- TSMC
+- TechRadar Pro
 ---
 
 ![The GMKtec Nucbox M5 Ultra Pictured](https://cdn.mos.cms.futurecdn.net/Qme8xZZwaJkvKrTqs46znA.webp) 

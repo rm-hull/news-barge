@@ -14,6 +14,31 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Neil Shah
+- Rahim Amir
+organisations:
+- Amazon
+- Annapurna Labs
+- Counterpoint Research
+- Google News
+- HBM
+- HBM4E
+- JEDEC
+- Marvell
+- Micron
+- NVHBM
+- NVLink Fusion
+- Nvidia Blackwell GPU
+- PC
+- PCs
+- RGB
+- SFF
+- SK
+- Samsung
+- TechRadar Pro
+- Trainium4
 ---
 
 ![Nvidia Blackwell GPU](https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb.jpg) 

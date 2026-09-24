@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Tom Dunlop
+organisations:
+- AI
+- Summize
 ---
 
 *Summize is a Business Reporter client*

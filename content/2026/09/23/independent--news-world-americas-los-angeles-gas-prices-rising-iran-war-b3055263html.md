@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/18/2296111147..?trim=0,209,0,208&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Los Angeles County
+- Michigan
+- Orange County
+- Tennessee
+people:
+- Donald Trump
+- Joe Biden
+- Patrick De Haan
+organisations:
+- AAA
+- GasBuddy
+- OC
+- Oil Price Information Service
+- TRUMP
+- Trump
+- Truth Social
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Hollywood
+people:
+- Mariska Hargitay
+organisations:
+- ABC
+- Apple TV
+- CBS
+- Emmys
+- Fox
+- NBC
+- The Pitt
+- Widow's Bay
 ---
 
 Emmy Awards ratings down nearly 10% from last year

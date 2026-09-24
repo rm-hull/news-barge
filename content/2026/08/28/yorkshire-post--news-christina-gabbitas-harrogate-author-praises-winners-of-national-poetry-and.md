@@ -16,6 +16,28 @@ categories:
 - York
 - Arts & Culture
 - Books & Literature
+locations:
+- County Lines
+- Harrogate
+- UK
+people:
+- Chereece Bateson
+- Christina Gabbitas
+- Dan Mitchell
+- Imogen Johnston
+- Keith Fraser
+- Tim Milburn
+organisations:
+- ChildLine
+- Children's Literature Festivals
+- Harrogate
+- ListenUp!
+- Met Flying
+- NSPCC
+- National County Lines Coordination Centre
+- North Yorkshire Police
+- Rossett High School
+- Youth Justice Board for England and Wales
 ---
 
 # Christina Gabbitas: Harrogate author praises winners of National Poetry and Lyric initiative

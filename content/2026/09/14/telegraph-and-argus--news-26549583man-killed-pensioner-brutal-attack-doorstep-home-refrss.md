@@ -14,6 +14,31 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- BRADFORD
+- Barkerend
+- Bradford
+- Crofton
+- Leeds Crown Court
+- Maidstone Street
+- Pinderfields Hospital
+- Thorntree Court
+- Wakefield
+- West Yorkshire Police
+people:
+- '## Man'
+- DC Jan Burrill
+- Hamza Shafique
+- Stacey Atkinson
+- Stephen Jedynak
+organisations:
+- CCTV
+- Coroner’s Office
+- Crown Prosecution Service
+- Major Enquiry Team
+- Pinderfields Hospital
+- West Yorkshire Police
+- West Yorkshire Police Homicide
 ---
 
 *(Image: West Yorkshire Police)*

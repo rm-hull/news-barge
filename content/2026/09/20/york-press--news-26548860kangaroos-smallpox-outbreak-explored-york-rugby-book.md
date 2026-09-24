@@ -12,6 +12,36 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/21124285.jpg?type=og-image&xType=0&yType=169
+locations:
+- Bradford
+- England
+- Lancashire
+- Leeds
+- Rowntrees
+- Wigan
+- York
+people:
+- Applegarth
+- Georges Carpentier
+- Ian Lockwood
+- Lucy Worsley
+- Ted Peate
+- York
+organisations:
+- Australia
+- Bradford
+- Craven Herald
+- History of York RL Club
+- Leeds
+- St Peter's School
+- The History of York RL Club
+- The Press
+- York Evening Press
+- York Football Club
+- York Herald
+- York Knights
+- York Rugby
+- Yorkshire Gazette
 ---
 
 ## Kangaroos, smallpox outbreak and finances explored in York rugby league book

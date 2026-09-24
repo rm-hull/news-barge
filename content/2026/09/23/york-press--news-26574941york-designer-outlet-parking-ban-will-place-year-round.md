@@ -12,6 +12,26 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/20274870.jpg?type=og-image
+locations:
+- A19 Fulford Interchange
+- Designer Outlet
+- Fulford Court
+- Heslington
+- McArthur Glen Designer Outlet
+- Naburn Lane
+- St Nicholas Avenue
+- St Nicolas Avenue
+- York
+people:
+- Cllr Ravilious
+- Kate Ravilious
+- Paul Tyler
+organisations:
+- City of York Council
+- Designer Outlet
+- Labour
+- McArthur Glen Designer Outlet
+- Yorkshire Water
 ---
 
 ## Warning over year-round parking ban at major York shopping centre

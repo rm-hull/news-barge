@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- London
+- PA.
+- Snow Hill
+- Teesside
+people:
+- Ann Ming
+- Ann’s
+- Billy Dunlop
+- Billy?'
+- Charlie
+- Elizabeth Cook
+- Jack Straw
+- Julie Hogg
+- Norton
+- Peter Barron
+- Sheridan Smith
+organisations:
+- Echo
+- House of Lords
+- ITV
+- Law Commission
+- North News and Pictures
+- THE NORTHERN ECHO
+- The Old Bailey
 ---
 
 *(Image: THE NORTHERN ECHO)*

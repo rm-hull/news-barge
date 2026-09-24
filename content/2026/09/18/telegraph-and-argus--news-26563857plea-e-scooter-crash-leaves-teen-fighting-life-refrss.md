@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Canterbury Avenue
+- Leeds General Infirmary
+- West Yorkshire
+people:
+- Cllr Sajawal
+- Little Horton
+- Talat Sajawal
+organisations:
+- BRADFORD
+- Bradford Council
+- CCTV
+- T&A
+- West Yorkshire Police
+- Your Bradford Independent Group
 ---
 
 *(Image: T&A)*

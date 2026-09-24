@@ -10,6 +10,21 @@ description: Maybe sommeliers shouldn't be too worried by AI just yet
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/khZ47WbhYuy4ALY98nEZX9-2560-80.jpg
+locations:
+- AI
+- UK
+people:
+- Chardonnay
+- Dreamforce
+- Mike Moore
+organisations:
+- AI
+- B2B
+- B2C
+- Google News
+- ITProPortal
+- Salesforce
+- TechRadar Pro
 ---
 
 ![Dreamforce 2026 wine tasting AI agent](https://cdn.mos.cms.futurecdn.net/khZ47WbhYuy4ALY98nEZX9.jpg)

@@ -12,6 +12,21 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate Town
+- Rudding Park
+people:
+- Dorothy
+- Irving Weaver
+- Karen Tyson
+- Sarah Barry
+- Simon
+organisations:
+- EFL
+- Harrogate Town
+- Harrogate Town AFC
+- Harrogate Town Community Foundation
+- York RLFC
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa28b7fd443fa27529.jpg) 

@@ -14,6 +14,57 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- CARMEL COLLEGE
+- CLEVELAND
+- Cleveland
+- Grangetown
+- Tees Valley
+people:
+- Alec Brown
+- Alison Smith
+- Brian Archer
+- Chris Cooke
+- David Coupe
+- Erik Scollay
+- Graham Harrison
+- Lisa Evans
+- Lord Ben Houchen
+- Mark Davis
+- Matt Forrest
+- Matt Storey
+- Matt Wilton
+- Matthew Blades
+- Mike Greene
+- Ms Fuller
+- Rosemary Du Rose
+- SARAH CALDECOTT
+- Shabana Mahmood
+- Simon Weastell
+- Stacey Hunter
+- Tom Bryant
+- Tom Clough
+- Victoria Fuller
+organisations:
+- Beyond Housing
+- Cleveland Council
+- Cleveland Fire Authority
+- Cleveland Fire Brigade
+- Cleveland Police
+- Esk
+- Government
+- Hartlepool Borough Council
+- House of Commons
+- Middlesbrough Council
+- PA Wire
+- PCC MATT STOREY
+- Redcar
+- Stockton Borough Council
+- Tees Valley Combined Authority
+- Tees Valley Infrastructure Partnership
+- Thirteen Housing Group
+- University Hospitals Tees Group
+- Wear Valley NHS Foundation Trust
 ---
 
 *(Image: PCC MATT STOREY)*

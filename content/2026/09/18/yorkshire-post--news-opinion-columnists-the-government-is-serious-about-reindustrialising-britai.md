@@ -15,6 +15,31 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Brinsworth
+- Britain
+- Port Talbot
+- Rotherham
+- South Wales
+- Stocksbridge
+- UK
+- United Kingdom
+- Wednesbury
+- Whitehall
+- Yorkshire
+people:
+- Alan Lovell
+- David Parry
+- Jonathan Reynolds
+- Oliver Coppard
+organisations:
+- British Steel
+- Government
+- Official Receiver
+- SSUK
+- South Yorkshire Combined Authority
+- Speciality Steel UK
+- State for Business, Innovation, Science and Trade
 ---
 
 # The Government is serious about reindustrialising Britain, with the steel sector playing its part - Jonathan Reynolds

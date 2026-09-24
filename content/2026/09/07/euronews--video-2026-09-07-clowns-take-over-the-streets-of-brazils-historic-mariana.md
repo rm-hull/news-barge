@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Brazil
+- Mariana
+- Minas Gerais
+people: []
+organisations: []
 ---
 
 Around 100 professional clowns took to the streets of Mariana in Brazil during the International Clown Gathering, joined by circus enthusiasts in colourful costumes and face paint.

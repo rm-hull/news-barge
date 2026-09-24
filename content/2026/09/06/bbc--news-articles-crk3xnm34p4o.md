@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Birmingham
+- Coustis
+- Enjoy Kings Heath
+- Greggs
+- Kings Heath
+- Kings Heath Park
+- Kings Heath park
+- Moseley Police Station
+- Subway
+people:
+- Al Carns
+- Antonio Constantinou
+- Greggs
+- Hamzah Sheikh
+- Hayley Thompson
+- Insp Thompson
+- Jordan Phillip
+- Malala Yousafzai
+- Matt Powell
+- Simon Foster
+- Tina Bartlam
+organisations:
+- BBC
+- BID
+- Birmingham Local Policing Area
+- Birmingham Selly Oak
+- Business Improvement District
+- CCTV
+- Coustis
+- Facebook
+- Green Party
+- Home Office
+- Kings Heath
+- Labour
+- Lime
+- Neighbourhood Team
+- PCC
+- PCSOs
+- Red Lion
+- West Midlands Police
+- West Midlands Police and Crime Commissioner
+- West Midlands Police and Crime Panel
 ---
 
 ![A large mural on the side of a white building which reads: Welcome to Kings Heath. To the right is a large tree and the sun is shining through the branches. Blue sky is visible with cloud over most of the top of the image.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c2c6/live/b1bc7cb0-a94a-11f1-b109-879e35c24276.jpg)

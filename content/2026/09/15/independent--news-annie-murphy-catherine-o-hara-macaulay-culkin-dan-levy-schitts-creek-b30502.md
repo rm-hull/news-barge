@@ -14,6 +14,32 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations:
+- Canada
+people:
+- Alexis Rose
+- Annie Murphy
+- Bo
+- Bob Mackie
+- Catherine O’Hara
+- Christopher Guest
+- Dan Levy
+- David Rose
+- Dolly Parton
+- Isiah Whitlock Jr.
+- Kate McCallister
+- Kevin
+- Luke,” Culkin
+- Macaulay Culkin
+- Matthew
+- Moira Rose
+- Noah Kahan
+- O’Hara’s “Schitt’s Creek
+- Rob Reiner
+- Schitt
+- Welch
+organisations:
+- Air Canada
 ---
 
 Macaulay Culkin remembered Catherine O’Hara as more than the actor who played his mother in the “Home Alone” films.

@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Queensbury
+- Sanbeds
+- Sand Beds
+- West Yorkshire
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

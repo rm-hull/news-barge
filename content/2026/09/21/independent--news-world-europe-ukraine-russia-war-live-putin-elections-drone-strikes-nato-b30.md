@@ -12,6 +12,59 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/05/2026-09-21T041631Z_1836305441_RC2CNNAC1UVD_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Armenia
+- Berlin
+- Black Sea
+- Britain
+- Crimea
+- Donetsk
+- Germany
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- Peaceful Russia
+- St Petersburg
+- UK
+- Ukraine
+- United Russia
+- Yerevan
+people:
+- Alexei Navalny
+- Andrei Pivovarov
+- Andrei Vorobyov
+- Christian Wigand
+- Ella Pamfilova
+- Harriette Boucher
+- Leonid Volkov
+- Lidiya Klimenko
+- Mark Podberezin
+- Nikolai Rybakov
+- Pere Joan Pons
+- Vladimir Putin
+- Yabloko
+- Yulia Navalnaya
+organisations:
+- Central Election Commission
+- Communist Party
+- European Commission
+- European Union
+- Kyiv
+- Ministry of Defence
+- OSCE Parliamentary Assembly
+- Open Russia
+- Organisation for Security and Cooperation in Europe
+- Ozon
+- Rogue
+- SotaVision
+- State Duma
+- Supreme Court
+- Telegram
+- The Independent
+- United Russia
+- Wildberries
+- Yabloko
 ---
 
 The Kremlin has vowed to “intensify” strikes on Kyiv after accusing Ukraine of trying to disrupt Russia's state election with the largest drone attack of the war so far.

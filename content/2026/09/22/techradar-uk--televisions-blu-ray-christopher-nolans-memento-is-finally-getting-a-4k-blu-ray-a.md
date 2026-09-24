@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/eqKaDz9YtSzzXj3c6QiQRN-806-80.jpg
+locations: []
+people:
+- Christopher Nolan
+- Christopher Nolan.Coming
+- Guy Pearce
+- Julian Fellowes
+- Rowan Davies
+- Sammy Jankis
+organisations:
+- Blu-ray
+- Disney
+- Dolby Vision
+- Dolby Vision HDR
+- Google News
+- Netflix
+- Nolan
+- TechRadar
+- Umbrella
 ---
 
 ![Guy Pearce in a still from Memento (2000)](https://cdn.mos.cms.futurecdn.net/eqKaDz9YtSzzXj3c6QiQRN.jpg)

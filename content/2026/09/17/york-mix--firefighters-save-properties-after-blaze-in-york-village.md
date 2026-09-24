@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Acomb
+- Stillingfleet
+- York
+people:
+- '#### Stillingfleet'
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Two fire crews successfully protected buildings after a blaze threatened to get out of control last night (Wednesday).

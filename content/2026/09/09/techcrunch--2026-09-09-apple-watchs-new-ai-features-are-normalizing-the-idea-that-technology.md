@@ -14,6 +14,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Control Center
+people:
+- Siri Recap
+organisations:
+- AI
+- Amazon’s Bee
+- Apple However
+- Apple Watch
+- Audio Intelligence
+- OpenAI
+- Plaud
+- Siri Recap
 ---
 
 Apple is trying to get consumers to accept, and even welcome, a new reality: Your tech is always listening.

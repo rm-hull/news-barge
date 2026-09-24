@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/10/2026-09-21T173009Z_914294561_RC2TNNA4EDXO_RTRMADP_3_USA-VANCE.JPG?width=1200&height=800&crop=1200:800
+locations:
+- America
+- China
+- Iran
+- North Korea
+- White House
+people:
+- Biden
+- Donald J. Trump
+- Donny
+- JD Vance
+- Jim Acosta
+- Obama
+- Tim Kelly
+- Xi Jinping
+organisations:
+- ABC
+- CBS
+- CNN
+- Constitution
+- DOGE
+- Fox
+- GOP
+- ICE
+- MS NOW
+- Media Research Center
+- NBC
+- Newsmax
+- Politico
+- Trump
 ---
 
 There is something almost touching about JD Vance's faith in the English language. It’s almost as dedicated as his faith in Donald J. Trump.

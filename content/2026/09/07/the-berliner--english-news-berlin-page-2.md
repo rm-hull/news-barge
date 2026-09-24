@@ -12,6 +12,17 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+people: []
+organisations:
+- '### Berlin Ranks'
+- '### Russisches Haus'
+- AfD
+- Brandenburg Health
+- Brandenburger Tor
+- CSD
+- Hazardous Materials Alert Terminal 1
 ---
 
 ## News

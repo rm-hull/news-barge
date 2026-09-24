@@ -13,6 +13,43 @@ categories:
 - York
 - Pets & Animals
 image: https://www.gazetteherald.co.uk/resources/images/21475998.jpg?type=og-image
+locations:
+- BBC
+- Born
+- Britain
+- Graeme Hall
+- North Yorkshire
+- Selby
+people:
+- Bethany Antonia
+- Chris Appleton
+- Dani Dyer
+- EastEnders' Stacey Slater
+- Emma Willis
+- Emmerdale
+- Gavin
+- Graeme Hall
+- Jaime Winstone
+- Johannes Radebe
+- John Nellis
+- Josh Widdicombe
+- Lacey Turner
+- Lawrence Robb
+- Mackenzie Boyd
+- Melanie Walters
+- Ray Burmiston
+- Sarah Storey
+- Shaun Wright-Phillips
+- Tabby Stoecker
+- Will Best
+organisations:
+- BBC Creative
+- BBC One
+- Channel 5
+- The Dog Hospital
+- The Dogfather
+- University of Hull
+- Weetabix
 ---
 
 *(Image: BBC/Ray Burmiston/BBC Creative)*

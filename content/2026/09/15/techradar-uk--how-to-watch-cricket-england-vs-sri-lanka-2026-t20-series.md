@@ -12,6 +12,83 @@ categories:
 - Technology & Software
 - Sports
 - Film & TV
+locations:
+- Australia
+- Cardiff
+- Chester-le-Street
+- England
+- Headingley
+- India
+- Manchester
+- New Zealand
+- Old Trafford
+- Pakistan
+- Sophia Gardens
+- South Africa
+- Southampton
+- Sri Lanka
+- The Oval
+- UK
+- US
+- USA
+people:
+- Adil Rashid
+- Aneurin Donald
+- Ben Duckett
+- Binura Fernando
+- Charith Asalanka
+- Dasun Shanaka
+- Dunith Wellalage
+- Dushmantha Chameera
+- Eshan Malinga
+- Gus Atkinson
+- Harry Brook
+- James Coles
+- James Roberts
+- Jamie Overton
+- Janith Liyanage
+- Jofra Archer
+- Jordan Cox
+- Jos Buttler
+- Josh Tongue
+- Kamil Mishara
+- Kamindu Mendis
+- Kusal Mendis
+- Lahiru Udara
+- Liam Dawson
+- Maheesh Theekshana
+- Nuwan Thushara
+- Pathum Nissanka
+- Saqib Mahmood
+- Sonny Baker
+- Tharindu Rathnayake
+- Tom Banton
+- Trent Rockets
+- Wanindu Hasaranga
+- Will Jacks
+organisations:
+- AU
+- Dakshin Flex
+- Derbyshire
+- England Cricket
+- FourFourTwo
+- Future Publishing
+- India
+- Kayo Sports
+- Kayo Sports**
+- ODI
+- ODI's
+- Oxford Mail
+- Oxford United
+- Seat Unique
+- Sky Sport
+- Sky Sport NZ
+- Sky Sports
+- Sony LIV
+- Sony Sports Network
+- Supersport
+- TechRadar
+- Willow TV
 ---
 
 ![Harry Brook of England hits out during the 5th Vitality IT20 match between England and India at the Utilita Bowl on July 11, 2026 in Southampton, England](https://cdn.mos.cms.futurecdn.net/ZYznxsS4frRG8UwGatZXhA.jpg) 

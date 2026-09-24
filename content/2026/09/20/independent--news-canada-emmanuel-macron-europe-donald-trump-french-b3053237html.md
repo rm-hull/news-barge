@@ -14,6 +14,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/20/21/EU_France_Canada_9654_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- Canada
+- Europe
+- France
+- Greenland
+- Iran
+- Miquelon
+- Newfoundland
+- Saint-Pierre-et
+- U.S.
+- United States
+people:
+- Donald Trump
+- Emmanuel Macron
+- Mark Carney
+organisations:
+- European Union
+- Macron
+- NATO
 ---
 
 Canadian Prime Minister Mark Carney and French President Emmanuel Macron moved Sunday to deepen a strategic partnership spanning space, defense, energy and business, another step in Canada’s accelerating turn toward Europe as relations with the United States deteriorate.

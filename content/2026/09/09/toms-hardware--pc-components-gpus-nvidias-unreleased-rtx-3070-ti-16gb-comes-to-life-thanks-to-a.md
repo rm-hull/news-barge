@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/yEM7zXwVHypT7nAhDBVMek-2560-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Fabian
+- Hassam Nasir
+- Tom
+- YouTuber fmklab
+organisations:
+- 8GB
+- Blackwell
+- Fabian
+- GDDR6
+- GDDR6X
+- GPU
+- GPU-Z
+- Get Tom's Hardware
+- Google News
+- LLM
+- MATS
+- Nvidia
+- PCB
+- Samsung
+- VRAM
+- Warzone
 ---
 
 ![A VRAM-modded RTX 3070 Ti with 16GB of GDDR6 memory](https://cdn.mos.cms.futurecdn.net/yEM7zXwVHypT7nAhDBVMek.png) 

@@ -13,6 +13,55 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3688/live/1892d820-b284-11f1-a430-4d16ee157c41.jpg
+locations:
+- Baltic Republics
+- Baltic Sea
+- Berlin
+- Britain
+- Downing Street
+- Estonia
+- Finland
+- Flanders
+- France
+- Gallipoli
+- Germany
+- Latvia
+- Lithuania
+- London
+- Mesopotamia
+- Moscow
+- Nord Stream
+- Russia
+- Soviet Union
+- Spitsbergen
+- Svalbard
+- Sweden
+- UK
+- Ukraine
+- Western Europe
+- Whitehall
+people:
+- Allan Little
+- Andrew Michta
+- Arto Raty
+- Emma Barnett
+- Jim Orford
+- John Simpson
+- Margaret MacMillan
+- McMillan
+- Minna Alander
+- Richard Knighton
+- Richard Shirreff
+- Ulf Kristersson
+organisations:
+- Defence Staff
+- Hamilton School
+- Ministry of Defence
+- Nato
+- Stockholm Centre for Eastern European Studies
+- The Economist
+- University of Birmingham
+- University of Florida
 ---
 
 ![Allan Little](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6338/live/2d2512a0-b278-11f1-bc1f-3f186ca4140c.png)

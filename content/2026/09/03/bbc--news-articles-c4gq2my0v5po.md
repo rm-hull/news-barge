@@ -11,6 +11,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7cae/live/9e264c
 categories:
 - UK
 - News & Politics
+locations:
+- Baisariyeh
+- Halta
+- Hasbaya
+- Israel
+- Lebanon
+- Naqoura
+- Tyre
+- US
+people:
+- '** Issa Abedelaal'
+- Amal Khalil
+- Hugo Bachega
+- Malek Ghazi
+- Nawaf Salam
+organisations:
+- Ansar
+- BBC
+- Defense Forces
+- Hezbollah
+- IDF
+- International Committee of the Red Cross
+- International Monitoring and Implementation Mechanism
+- Unifil
 ---
 
 ![Buildings spread out in a southern Lebanon village.](https://ichef.bbci.co.uk/ace/standard/902/cpsprodpb/7cae/live/9e264c00-a7c2-11f1-b5cf-8556ae508a51.jpg)

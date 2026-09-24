@@ -14,6 +14,21 @@ categories:
 - York
 - True Crime
 - Science
+locations:
+- Harrogate
+- North Yorkshire
+- Skipton
+people:
+- Derek ReedMiddlethorpe DriveYorkWhat
+- Harry EdessisSadberge
+- Patricia Marsh
+- Rickaby
+organisations:
+- Armed Forces
+- Crown Prosecutions Service
+- RBL
+- Royal British Legion
+- The Press
 ---
 
 *(Image: Newsquest)*

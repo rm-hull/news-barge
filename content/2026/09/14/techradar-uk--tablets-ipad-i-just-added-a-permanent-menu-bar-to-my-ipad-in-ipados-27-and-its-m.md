@@ -11,6 +11,25 @@ description: I just discovered an iPadOS 27 setting that's changed the way I use
 image: https://cdn.mos.cms.futurecdn.net/dFSa8b6RpGUiG2pQwqpi9M-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Control Center
+- Dexerto
+- M5
+- Menu Bar
+people:
+- Lloyd Coombes
+- Siri AI
+organisations:
+- Apple
+- Google News
+- Live Science
+- Lloyd Coombes
+- Mac
+- Menu Bar
+- Stage Manager
+- TechRadar
+- TopTenReviews
+- iPads
 ---
 
 ![An iPad displaying iPadOS 27 laying on a desk](https://cdn.mos.cms.futurecdn.net/dFSa8b6RpGUiG2pQwqpi9M.jpg) 

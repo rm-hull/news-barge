@@ -16,6 +16,13 @@ categories:
 - Government
 - Automotive
 - History
+locations:
+- Leyburn
+- Middleham Bridge
+people:
+- Cllr Malcolm Taylor
+- Cllr Taylor
+organisations: []
 ---
 
 ![Middleham Bridge](https://www.northyorks.gov.uk/sites/default/files/2026-09/Middleham%20Bridge%20image%201.jpg) 

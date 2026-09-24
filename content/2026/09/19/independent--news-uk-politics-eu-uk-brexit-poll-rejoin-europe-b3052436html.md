@@ -14,6 +14,44 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/08/11/2281920381..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Ashfield
+- Boston
+- Brussels
+- Clacton
+- Europe
+- Great Britain
+- Great Yarmouth
+- Kent
+- Makerfield
+- Midlands
+- Northern Ireland
+- Scotland
+- Skegness
+- UK
+people:
+- Andy Burnham
+- Anthony Seldon
+- Christine Jardine
+- David Maddox
+- John Curtice
+- Micheál Martin
+- Millie Cooke
+- Tom Brufatto
+organisations:
+- Best for Britain
+- Brexit
+- Bristol Central
+- EU
+- Edinburgh West
+- European Union
+- Green Party
+- Labour
+- Liberal Democrat
+- MRP
+- Reform UK
+- The Independent
+- YouGov
 ---
 
 All but four constituencies in Great Britain would support reversing Brexit and rejoining the EU, new polling has shown, as Andy Burnham seeks a “deeper relationship” with the bloc and to win over voters.

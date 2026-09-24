@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/tACxSXFWuTcX5MjMqU2CLH-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- AI
+- China
+people:
+- Sugon
+- Tom
+organisations:
+- AMD
+- C86-1G
+- Dell
+- Get Tom's Hardware
+- Google News
+- HPE
+- Hygon
+- MWS
+- MoE
+- Sugon
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![Sugon 8000](https://cdn.mos.cms.futurecdn.net/tACxSXFWuTcX5MjMqU2CLH.jpg) 

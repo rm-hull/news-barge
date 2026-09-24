@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bedford
+- London
+people:
+- David Beckham
+- David Belhassen
+- Lady Beckham
+- Lisa Maynard-Atem
+- Meghan
+- Pince Harry
+- Stacia Bedford
+- Victoria Beckham
+organisations:
+- Foundation Drops
+- Lady Beckham
+- London College of Fashion
+- Neo Investment Partners
+- Netflix
+- Posh Spice
+- Satin Kajal
+- Victoria Beckham Beauty
+- Victoria Beckham Holdings
+- Women's Wear Daily
 ---
 
 ![Victoria Beckham walks the runway during the Victoria Beckham Ready to Wear spring/summer fashion show as part of the Paris Fashion Week in September 2023](https://ichef.bbci.co.uk/ace/standard/619/cpsprodpb/7a24/live/c8818d00-a6de-11f1-b109-879e35c24276.jpg)

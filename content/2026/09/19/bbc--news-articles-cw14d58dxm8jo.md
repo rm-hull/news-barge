@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45ad/live/2c5ec6d0-b3b4-11f1-a430-4d16ee157c41.jpg
+locations:
+- Britain
+- Buckingham Palace
+- Princess of Wales
+- Russia
+people:
+- '!["Monstrous'
+- '!["Spencer'
+- Ann
+- Charles III
+- Craig Revel Horwood
+- Diana
+- Earl Spencer
+- Fred Done
+- John Healey
+- King
+- Laura Kuenssberg
+- Nigella Lawson
+- Tom Bower
+- Vladimir Putin
+organisations:
+- '!["Betfred'
+- BBC
+- Betfred
+- British Army
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Duke of Sussex
+- Financial Times
+- Financial Times.
+- Guardian
+- The Mail
+- The Sun
+- Treasury
 ---
 
 !["I'm telling the truth. His words were monstrous", reads the headline on the front page of the Daily Mail.](https://ichef.bbci.co.uk/ace/standard/810/cpsprodpb/e139/live/c9a4b100-b3a7-11f1-a430-4d16ee157c41.jpg)

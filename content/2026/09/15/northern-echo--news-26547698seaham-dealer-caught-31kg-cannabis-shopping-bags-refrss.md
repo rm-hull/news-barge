@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Durham Constabulary
+- Seaham
+people:
+- Amanda Rippon
+- Cainan Lonsdale
+- Corbyn Farn
+- Tony Davis
+organisations:
+- Crown Prosecution Service
 ---
 
 *(Image: Durham Constabulary)*

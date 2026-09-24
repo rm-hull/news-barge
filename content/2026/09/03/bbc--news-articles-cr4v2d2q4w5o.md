@@ -11,6 +11,14 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9df0/live/d4a09b
 categories:
 - UK
 - News & Politics
+locations:
+- Iceland
+people:
+- Andy Burnham
+- Grace Dean
+organisations:
+- European Union
+- andVictoria Beckham
 ---
 
 **This week, Andy Burnham had his firstPrime Minister's Questions, Iceland voted against restarting talks onjoining the European Union, andVictoria Beckham's fashion and beauty businessmade its first operating profit since it was founded in 2008.**

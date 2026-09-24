@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Beverley
+- Helmsley
+- King of the Mountains
+- Leyburn
+- North Yorkshire
+people:
+- Beverley Kooij
+- Filippo Ganna
+- Keeper’s Hill
+- Lewis Askey
+- Mark Cavendish
+- Michal Schuran
+- Olav Kooij
+- Tim Merlier
+- Tim Wellens
+- Yorben Lauryssen
+- Zac Williams
+organisations:
+- CMA CGM Team
+- Isorex
+- Lloyds Tour of Britain
+- NSN Cycling Team
+- Netcompany INEOS
+- Tarteletto
+- Team United Shipping
+- UAE Team Emirates
+- XRG
+- Yorkshire Wolds
 ---
 
 ## Dramatic sprint finish sees Olav Kooij claim second victory in Beverley

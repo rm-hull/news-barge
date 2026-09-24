@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Colorado
+people:
+- Claude
+- Jason Cipriani
+- Siri AI
+organisations:
+- AFM
+- Apple
+- CNET
+- CNN Underscored
+- Google Assistant
+- Google Gemini
+- Google News
+- Google Search
+- IGN
+- Siri AI
+- Tom’s Guide
+- ZDNet
 ---
 
 ![WWDC 2026 Screenshots](https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH.jpg) 

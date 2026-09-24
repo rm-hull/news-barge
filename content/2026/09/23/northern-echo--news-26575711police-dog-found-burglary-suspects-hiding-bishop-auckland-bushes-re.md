@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21492716.jpg?type=og-image&xType=15&yType=0
+locations:
+- Bishop Auckland
+- Durham Constabulary
+- Etherley Dene
+- North East railway Darlington
+people:
+- Chewy
+organisations:
+- Durham Police
 ---
 
 *(Image: Durham Constabulary)*

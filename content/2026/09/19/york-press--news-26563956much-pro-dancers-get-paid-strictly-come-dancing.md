@@ -13,6 +13,60 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21447228.jpg?type=og-image
+locations:
+- Britain
+people:
+- Aleksandra Isaeva
+- Alexis Warr
+- Aljaž Škorjanec
+- Amy Dowden
+- Bethany Antonia
+- Carlos Gu
+- Chris Appleton
+- Claudia Winkleman
+- Cristian Priori
+- Dani Dyer
+- Dianne Buswell
+- EastEnders' Stacey Slater
+- Emma Willis
+- Emmerdale
+- Gavin
+- Gorka Marquez
+- Graeme Hall
+- Guy Levy
+- Jaime Winstone
+- Johannes Radebe
+- John Nellis
+- Josh Widdicombe
+- Jowita Przystał
+- Julian Caillon
+- Kai Widdrington
+- Karen Hauer
+- Katya Jones
+- Lacey Turner
+- Lauren Oakley
+- Lawrence Robb
+- Lethabo Monametsi
+- Luba Mushtuk
+- Mackenzie Boyd
+- Maddie Ingoldsby
+- Mark Karmalita
+- Melanie Walters
+- Michelle Tsiakkas
+- Nadiya Bychkova
+- Nancy Xu
+- Neil Jones
+- Nikita Kuzmin
+- Sarah Storey
+- Shaun Wright-Phillips
+- Tabby Stoecker
+- Tess Daly
+- Vito Coppola
+organisations:
+- BBC
+- Strictly
+- TV
+- The Metro
 ---
 
 *(Image: BBC/Guy Levy)*

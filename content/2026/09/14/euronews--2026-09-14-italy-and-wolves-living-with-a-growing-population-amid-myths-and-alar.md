@@ -14,6 +14,36 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Emilia-Romagna
+- Europe
+- France
+- Germany
+- Ispra
+- Italy
+- Lazio
+- Po Valley
+- Puglia
+- Rome
+- Umbria
+people:
+- Ispra
+- Luigi Boitani
+- Luigi Boitani**
+- Marco Antonelli
+- Piero Genovesi
+- Piero Genovesi**
+- von der Leyen
+organisations:
+- Arizona Game and Fish Department
+- EU
+- Environment Ministry
+- Euronews
+- Higher Institute for Environmental Protection and Research
+- Ispra
+- La Sapienza University
+- Life Wild Wolf
+- WWF Italy
 ---
 
 **Euronews Roma**

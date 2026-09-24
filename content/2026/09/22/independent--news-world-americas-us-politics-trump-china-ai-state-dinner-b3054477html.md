@@ -13,6 +13,40 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/18/2273247109..?trim=10,0,10,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- China
+- Great Hall of the People
+- Iran
+- U.S.
+- United States
+- White House
+people:
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Greg Brockman
+- Jeff Bezos
+- Jensen Huang
+- Sam Altman
+- Sundar Pichai
+- Tim Cook
+- Volker Türk
+- Xi Jinping
+organisations:
+- '![Trump and Xi'
+- AI
+- Amazon
+- Anthropic
+- Apple
+- Google
+- MAGA Inc
+- Musk
+- Nvidia
+- OpenAI
+- Politico
+- Tesla
+- UN General Assembly
 ---
 
 U.S. President Donald Trump and Chinese President Xi Jinping will be joined by OpenAI CEO Sam Altman and President Greg Brockman during a state dinner at the White House this week, according to a new report.

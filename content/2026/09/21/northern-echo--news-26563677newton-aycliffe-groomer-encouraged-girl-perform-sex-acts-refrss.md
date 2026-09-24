@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21474785.jpg?type=og-image&xType=0&yType=85
+locations:
+- Appleby’s County Durham
+- Faulkner Road
+- Newton Aycliffe
+- South Africa
+people:
+- Kevin Appleby
+- Nick Peacock
+- Philip Morley
+- Tom Mitchell
+organisations:
+- Durham Constabulary
+- Durham Crown Court
 ---
 
 *(Image: Durham Constabulary)*

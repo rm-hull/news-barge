@@ -14,6 +14,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- PA
+- Tim Ireland
+people:
+- Moulding
+organisations:
+- Cult Beauty
+- EU
+- Lookfantastic
+- Moulding
+- Myprotein
+- THG
 ---
 
 Myprotein owner THG has hailed a “stellar” performance after raising prices and broadening its range of protein products, but said it had been impacted by the EU scrapping tax relief for cheaper imports.

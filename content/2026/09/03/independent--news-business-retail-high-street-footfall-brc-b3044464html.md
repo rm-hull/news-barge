@@ -13,6 +13,21 @@ categories:
 - UK
 - Lifestyle & Fashion
 - Sports
+locations:
+- Britain
+- England
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Andy Sumpter
+- Healey
+- Helen Dickinson
+organisations:
+- BRC
+- British Retail Consortium
+- Sensormatic
 ---
 
 Overall retail footfall dropped 1.7% year on year in August despite cooler weather enticing consumers back following a scorching July, figures show.

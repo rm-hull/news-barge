@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bosnia and Herzegovina
+- China
+- DPRK
+- North Korea
+- Sarajevo
+- US
+people:
+- Huntress
+- Sead
+organisations:
+- Al Jazeera Balkans
+- DPRK
+- Google News
+- Huntress
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![North Korean flag with a hooded hacker](https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ.jpg) 

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487083.jpg?type=og-image
+locations:
+- Bradford
+- Duncombe Street
+- UK
+people:
+- Charles Brook
+- Seabrook
+- Winnie the Pooh
+organisations:
+- '## Bradford'
+- Home Bargains
+- Lamb & Mint
+- Morrisons
+- Seabrook Crisps
+- Seabrook's
+- Sweetcorn
+- T&A
+- UK City of Culture
 ---
 
 *(Image: T&A)*

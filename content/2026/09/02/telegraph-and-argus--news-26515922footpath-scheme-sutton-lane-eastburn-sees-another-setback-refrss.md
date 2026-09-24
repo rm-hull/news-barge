@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Cons
+- Eastburn
+- Sutton Lane
+- Sutton-in-Craven
+people:
+- Cllr Buckley
+- George Buckley
+- Raph Cohn
+organisations:
+- Airedale
+- Bradford Council
+- North Yorkshire Council
 ---
 
 *(Image: Bradford Council)*

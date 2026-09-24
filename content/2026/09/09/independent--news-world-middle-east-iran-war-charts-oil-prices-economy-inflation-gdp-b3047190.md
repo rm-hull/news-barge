@@ -13,6 +13,38 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Asia
+- Britain
+- Europe
+- Gulf
+- Iran
+- Jazan
+- Kingdom
+- Middle East
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- UK
+- US
+- Yemen
+people:
+- Donald Trump
+- John Healey
+- Miatta Fahnbulleh
+- Rachel Reeves
+organisations:
+- Budget
+- European Union
+- Eurostat
+- Federal Reserve
+- Mortgage Bankers Association
+- Ofgem
+- The Independent
+- Trump
+- Truth Social
+- US Navy
+- US Treasury
 ---
 
 As Donald Trump’s war on Iran spreads further throughout the Middle East, the cost of oil has soared as traders show concerns over inflation.

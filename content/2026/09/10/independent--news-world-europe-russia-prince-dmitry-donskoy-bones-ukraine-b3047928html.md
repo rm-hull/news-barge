@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Archangel Cathedral of the Kremlin
+- Cathedral of the Archangel
+- Donbas
+- Donetsk
+- Kulikovo Field
+- Luhansk
+- Mariupol
+- Moscow
+- Mosсow
+- Russia
+- Sverdlovsk
+- Ukraine
+people:
+- Alexander Zanemonets
+- Dmitry Donskoy
+- God
+- Metropolitan Vladimir
+- Patriarch Kirill
+- Sergei Kiriyenko
+- Vladimir Putin
+organisations:
+- All Russia
+- Carnegie Russia Eurasia Center
+- Defence Ministry
+- Kyiv
+- Russian Orthodox Church
 ---
 
 Russia has sent bone fragments from a legendary Russian prince in a bizarre attempt to boost morale for its soldiers fighting in Putin’s war against Ukraine.

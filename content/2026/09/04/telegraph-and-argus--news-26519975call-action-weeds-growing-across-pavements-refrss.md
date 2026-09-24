@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Great Horton
+people:
+- Cllr Dodds
+- Joanne Dodds
+organisations:
+- Bradford Council
+- Labour
 ---
 
 *(Image: Cllr Joanne Dodds)*

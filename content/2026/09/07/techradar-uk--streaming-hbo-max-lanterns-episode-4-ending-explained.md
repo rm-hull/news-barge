@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Jordan
+- Macon Ranch
+- Rushville
+people:
+- Antaan
+- Hal Jordan
+- Hector Hammond
+- John Stewart
+- Kerry Kane
+- Manhunter
+- Rushville
+- Tom
+- Will Macon
+- William Macon
+- Zoe Macon
+organisations:
+- Atlas Inc
+- DC Universe
+- DCU
+- Disney Plus
+- Google News
+- Green Lantern
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![John Stewart powering up a Green Lantern ring next to Hal Jordan in Lanterns on HBO Max](https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA.jpg) 

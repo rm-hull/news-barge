@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/daa3/live/e5cce1b0-b6ed-11f1-af5e-b359cc50acc4.jpg
+locations:
+- AI
+- Canada
+- China
+- Downing Street
+- Germany
+- Ireland
+- Kremlin
+- Manchester
+- Moscow
+- New York City
+- Norway
+- Russia
+- UK
+- US
+people:
+- Andy Burnham
+- Darren Jones
+- Donald Trump
+- Keir Starmer
+- Rishi Sunak
+- Sergei Lavrov
+organisations:
+- AI Security Institute
+- Anthropic
+- BBC
+- Burnham
+- European Union
+- Green Party
+- Houses of Parliament.
+- Liberal Democrats
+- National Centre for Information Defence
+- UK AI Security Institute
+- UN General Assembly
+- United Nations General Assembly
 ---
 
 ![British Prime Minister Andy Burnham addresses the 81st United Nations General Assembly at UN headquarters in New York City, US, September 22, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/daa3/live/e5cce1b0-b6ed-11f1-af5e-b359cc50acc4.jpg)

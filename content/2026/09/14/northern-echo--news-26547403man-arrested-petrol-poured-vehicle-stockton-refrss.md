@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- North East
+- St Johns Close
+- Stockton
+people:
+- Rachel Stockdale
+organisations:
+- Cleveland Police
 ---
 
 *(Image: GOOGLE)*

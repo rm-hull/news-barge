@@ -12,6 +12,24 @@ categories:
 - York
 - Careers & Productivity
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIzYmVlZmE3LTlmY2YtNDA4OC1iODA3LWQ0MzQ2OTQ5MTRhOTo1NTNhZGM4Mi0yOTc5LTQ1NzctOTQzNC1mNjI4ZWZmNzA1NjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Dover
+- Kent
+- York
+people:
+- Boris Johnson
+- Colin S. Moore
+- Gareth Fuller
+- Ismail Mulla
+- Nigel Farage
+organisations:
+- Border Security Command
+- Brexit
+- IRA
+- Labour Government
+- RNLI
+- Yorkshire Post Letters
 ---
 
 # The RNLI and its volunteers represent the best of us - Yorkshire Post Letters

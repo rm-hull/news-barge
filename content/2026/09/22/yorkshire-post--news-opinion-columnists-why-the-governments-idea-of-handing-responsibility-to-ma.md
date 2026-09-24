@@ -15,6 +15,20 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVmNTIyNmJlLTlhOTktNDAyYi1iZjhmLTAxY2U3MDQ2YTgwYTo2ZjU3NzQ5MC0xMjhkLTQ3MWQtODA1MS0wYWZjM2QwMjNiMjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- PA
+- Thames Water
+- Yorkshire Water
+people:
+- Andrew Vine
+- Andy Burnham
+- John Cunliffe
+- Rui Vieira
+organisations:
+- Consumer Council for Water
+- Independent Water Commission
+- Yorkshire Water
 ---
 
 # Why the Government’s idea of handing responsibility to mayors to oversee water companies is a cop out - Andrew Vine

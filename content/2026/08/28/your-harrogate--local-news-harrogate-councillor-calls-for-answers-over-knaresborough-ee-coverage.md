@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Knaresborough
+people:
+- Matt Walker
+organisations:
+- Complex Network Team
+- EE
+- Executive Team
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a913768bb515b76b54.jpg) 

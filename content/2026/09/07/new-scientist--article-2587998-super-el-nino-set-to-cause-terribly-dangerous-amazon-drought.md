@@ -12,6 +12,21 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Amazon
+- El Niño
+- Pacific Ocean
+- South America
+- UK
+people:
+- Adam Scaife
+- Tim Li
+organisations:
+- El Niño
+- El Niños
+- Met Office
+- University of Hawaii
+- University of Oxford
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg?w=840)

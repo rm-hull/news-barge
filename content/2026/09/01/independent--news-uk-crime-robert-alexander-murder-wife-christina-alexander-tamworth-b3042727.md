@@ -13,6 +13,16 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Ascot Drive
+- Dosthill
+- Tamworth
+people:
+- Avik Mukherjee
+- Christina Alexander
+- Robert Alexander
+organisations:
+- Stafford Crown Court
 ---
 
 A man who murdered his wife by stabbing her 77 times, strangling her, and striking her with a dog food can has been sentenced to life imprisonment with a minimum term of 20 years.

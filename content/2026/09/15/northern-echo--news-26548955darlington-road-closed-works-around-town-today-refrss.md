@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '### A68'
+- '### Auckland Avenue One'
+- '### Auckland Oval Construction'
+- '### Kendal Close Kendal Close'
+- '### Stanhope Road South Stanhope Road South'
+- '### Winchester Way One'
+- A167 Grange Road
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- Blackwell Lane
+- Bracken Road
+- Brinkburn Road
+- Coniscliffe Road
+- County Durham
+- Darlington
+- Duke Street
+- Hollyhurst Road
+- Rochester Way
+- Stanhope Road South
+- West Auckland Road
+- Winchester Way
+people: []
+organisations:
+- Council
+- Darlington High Row
+- Geordie Coppers
 ---
 
 *(Image: GOOGLE)*

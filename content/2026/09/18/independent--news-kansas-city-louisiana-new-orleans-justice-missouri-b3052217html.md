@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- Jefferson Parish
+- Kansas City
+- Kenner
+- Louisiana
+- Missouri
+- New Orleans
+- Telemundo Kansas City
+people:
+- Adan Manzano
+- Bradley Phillips
+- Brook
+- Christian Anderson
+- Danette Colbert
+- Jenny Voss
+- Leo Caillier III
+- Paul Purpura
+- Rickey White
+- Stavros Panagoulopoulos
+- Steve Downing
+organisations:
+- Report for America Statehouse News Initiative
+- Telemundo
+- The Associated Press
+- ___ Brook
 ---
 
 A Louisiana jury convicted a woman of negligent homicide on Thursday in the death of a Telemundo television reporter who had been visiting New Orleans to cover the Super Bowl, according to the Jefferson Parish district attorney's office.

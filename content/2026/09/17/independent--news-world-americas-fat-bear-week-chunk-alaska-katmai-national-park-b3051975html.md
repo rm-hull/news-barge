@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Alaska’s Katmai National Park
+- Brooks Camp
+- Brooks Falls
+- Katmai National Park
+people:
+- Chunk
+- Grazer
+- Mark Sturm
+- Mike Fitz
+- Sarah Bruce
+organisations:
+- Chunk
+- Facebook
+- Fat Bear Week
+- KTUU
+- National Park Service
 ---
 
 The Fat Bear Week buzz is back at Alaska’s Katmai National Park - and so is last year’s champion.

@@ -14,6 +14,15 @@ categories:
 - York
 - Pets & Animals
 - Comedy & Entertainment
+locations:
+- East Yorkshire
+- Hull Minster
+people:
+- Revd Rob Sueka
+organisations:
+- East Riding
+- Hull Minster
+- RSPCA Hull
 ---
 
 Four-legged friends took centre stage at Hull Minster as pets and their owners gathered for a special celebration of animals.

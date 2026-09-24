@@ -16,6 +16,20 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- North Yorkshire.
+- Owen Humphreys
+- PA
+- RAF
+- York
+people: []
+organisations:
+- Home Secretary
+- RAF Linton-On-Ouse
+- RAF Linton-on-Ouse
+- Yorkshire Water
 ---
 
 # Water supply uncertainty another reason to ditch Linton-on-Ouse asylum centre plans

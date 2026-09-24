@@ -13,6 +13,37 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- BRADFORD
+- Bingley
+- Bradford
+- Cross Roads
+- Dowley Gap
+- Ford Hill
+- Golden Butts
+- Ilkley
+- Keighley
+- Queensbury
+- Royd Ings
+- Sugden End
+- Worth Valley
+people:
+- Ian Walker
+- Rebecca Poulsen
+organisations:
+- Bank Holidays
+- Bradford Council
+- Conservative Group
+- Council’s Executive Committee
+- Executive Committee
+- Golden Butts
+- HWRC
+- Labour Council
+- My Conservative Group
+- Portfolio Holder for Neighbourhoods and Communities
+- Reform
+- Royd Ings
+- Sugden End Waste Recycling Centre
 ---
 
 *(Image: Bradford Council)*

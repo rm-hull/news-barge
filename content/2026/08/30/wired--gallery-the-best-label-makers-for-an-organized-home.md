@@ -12,6 +12,11 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations: []
+people:
+- Nelko
+organisations:
+- Google
 ---
 
 ## Featured in this article

@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- A1079 Hull Road
+- City of York
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Kexby Bridge
+- Kexby Stray
+- Long Lane
+- York Road
+people:
+- Kate Ravilious
+- Kevin Glenton
+organisations:
+- A1079
+- City of York Council
+- Highways Maintenance
+- Lane Rentals Services
 ---
 
 ## Three-mile stretch of major road into York set for two weeks of closures

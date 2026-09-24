@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Europe
+- Greenland
+- Iceland
+- Middle East
+- Reykjavík
+- US
+- Ukraine
+people:
+- Donald Trump
+- Hulda Þórisdóttir
+- Kristrún Frostadóttir
+- Marine Le Pen
+- Nigel Farage
+organisations:
+- Agence France-Presse
+- EEA
+- EU
+- European Commission
+- European Economic Area
+- European Union
+- Le Pen
+- RUV
+- Reform UK
+- Reuters
+- University of Iceland
 ---
 
 Voters in Iceland have rejected the government’s proposal to hold accession talks with the European Union  after a closely fought campaign that has divided the country.

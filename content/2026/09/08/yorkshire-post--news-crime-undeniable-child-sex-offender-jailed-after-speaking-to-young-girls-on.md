@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Borrough Avenue
+- Leeds Crown Court
+people:
+- DI Victoria Thomas
+- Jake Regan
+organisations:
+- Leeds Safeguarding Unit
+- West Yorkshire Police
 ---
 
 # 'Undeniable' - Child sex offender jailed after speaking to young girls online

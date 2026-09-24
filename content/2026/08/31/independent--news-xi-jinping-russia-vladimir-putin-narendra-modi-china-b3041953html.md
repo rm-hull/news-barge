@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bangkok
+- Beijing
+- Belarus
+- Bishkek
+- China
+- Eurasia
+- India
+- Iran
+- Israel
+- Istanbul
+- Kazakhstan
+- Kyrgyzstan
+- New Delhi
+- Pakistan
+- Russia
+- Tajikistan
+- Turkey
+- U.S.
+- Ukraine
+- United States
+- Uzbekistan
+- West
+people:
+- Aijaz Hussain
+- Andrew Wilks
+- Dinakar Peri
+- Huizhong Wu
+- Masoud Pezeshkian
+- Narendra Modi
+- Recep Tayyip Erdogan
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Carnegie India
+- EU
+- European Union
+- G7
+- Ministry of Foreign Affairs
+- NATO
+- SCO
+- Shanghai Cooperation Organization
 ---
 
 The leaders of China, Russia and India are among the heads of state gathering in Kyrgyzstan this week for the summit of the Shanghai Cooperation Organization, a group billed as a counterweight to U.S. global influence.

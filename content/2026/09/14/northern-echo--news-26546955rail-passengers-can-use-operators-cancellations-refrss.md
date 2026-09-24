@@ -13,6 +13,51 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Avanti West Coast
+- Birmingham
+- Chiltern Railways
+- Darlington
+- Durham
+- East Midlands Railway
+- Edinburgh
+- Great Northern
+- Great Western Railway
+- Greater Anglia
+- Greater Manchester
+- LNER
+- Leeds
+- London
+- Middlesbrough
+- Newcastle
+- North East
+- SARAH CALDECOTT
+- South East
+- Southeastern
+- Southern
+- Stockton
+- Sunderland
+- Thameslink
+- West Midlands Railway
+- York
+- c2c
+people:
+- Alex Robertson
+- Lord Hendy
+organisations:
+- British Railways
+- Chiltern Railways
+- CrossCountry
+- Gatwick Express
+- Government
+- Great British Railways
+- LNER
+- London Northwestern Railway
+- National Rail
+- Northern
+- South Western Railway
+- TransPennine Express
+- Transport Focus
 ---
 
 *(Image: SARAH CALDECOTT)*

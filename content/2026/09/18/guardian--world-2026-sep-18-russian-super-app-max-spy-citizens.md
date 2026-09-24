@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- India
+- Iran
+- Kazakhstan
+- Kremlin
+- Moscow
+- Russia
+- St Petersburg
+people:
+- Boyarsky
+- Daniil
+- Max
+- Nikolai
+- Roya Ensafi
+- Vladimir Putin
+organisations:
+- Ensafi
+- Guardian
+- Telegram
+- University of Michigan
+- VKontakte
 ---
 
 Over the past 18 months, tens of millions of Russians have been forced to install a new app on their phones – a violet-blue button designed for messaging and payments, called Max.

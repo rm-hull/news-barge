@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Selhurst Park
+people:
+- Alejandro Faurlin
+- Daley Blind
+- Hamza Choudhury
+- Jamie Vardy
+- Mark Halsey
+- Mike Dean
+- Ramadan Sobhi
+- Sadio Berahino
+- Xherdan Shaqiri
+organisations:
+- BBC Sport
+- Chelsea
+- Crystal Palace
+- Instagram
+- Leicester
+- Man United
+- Premier League
+- QPR
+- Southampton
+- Stoke City
+- Sunderland
+- VAR
+- Watford
+- West Brom
+- Wigan
 ---
 
 ![English referee Mike Dean gestures during the Premier League match between Chelsea and Watford](https://ichef.bbci.co.uk/ace/standard/943/cpsprodpb/8fcb/live/89d956a0-a878-11f1-824a-0fc4c5d895ae.jpg)

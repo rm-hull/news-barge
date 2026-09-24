@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Durham
+- North East
+- River Wear
+- Riverview Kitchen
+- Silber Street
+- UK
+people: []
+organisations:
+- Riverview Kitchen
+- Tripadvisor
 ---
 
 As people look to make the most of the Bank Holiday weekend, one Durham café is attracting attention not just for what’s on the plate, but for what’s outside the window.

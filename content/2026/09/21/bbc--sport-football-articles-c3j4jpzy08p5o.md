@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa3f/live/ddfb2c90-b5c0-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Carter-Vickers
+people:
+- Brendan Rodgers
+- Cameron Carter-Vickers
+- Jock Stein
+- Martin O'Neill
+- Paul Lambert
+- Wilfried Nancy
+organisations:
+- BBC Radio Scotland
+- Celtic
+- Europa League
+- Ferencvaros
+- Ipswich Town
+- LASK
+- Norwich City
+- Old Firm
+- Premiership
+- Rangers
 ---
 
 ![Celtic manager Martin O'Neill](https://ichef.bbci.co.uk/ace/standard/692/cpsprodpb/aa3f/live/ddfb2c90-b5c0-11f1-abb5-85e9be42cb76.jpg)

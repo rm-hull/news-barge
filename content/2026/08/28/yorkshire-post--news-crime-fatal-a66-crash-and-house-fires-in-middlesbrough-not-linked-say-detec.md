@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- A66
+- Cleveland
+- County Durham
+- Grangetown
+- Middlesbrough
+- Redcar
+people:
+- Anna Turley
+- Dave Sutherland
+- Matthew Blades
+- Tom Clough
+- Victoria Fuller
+organisations:
+- Cleveland Police
+- National Crime Agency
 ---
 
 # Fatal A66 crash and house fires in Middlesbrough 'not linked' say detectives

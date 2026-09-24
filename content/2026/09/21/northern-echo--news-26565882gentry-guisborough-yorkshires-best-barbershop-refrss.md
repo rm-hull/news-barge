@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21478315.jpg?type=og-image&xType=0&yType=99
+locations:
+- Birmingham
+- England
+- Gentry Guisborough
+- The Gentry
+- UK
+- Yorkshire
+people:
+- Gentry
+- Lucian Tanase
+organisations:
+- Best Barbers
+- Gentry Guisborough
+- Prior Pursglove College
+- The Gentry
+- Yorkshire Best Barbers
 ---
 
 A young business owner has been giving a Best Barbers award in his first year of trading.

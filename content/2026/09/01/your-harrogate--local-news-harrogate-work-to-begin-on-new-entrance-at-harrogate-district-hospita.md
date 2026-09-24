@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Harrogate District Hospital
+- Herriots
+- Ireland
+people:
+- Jonathan Coulter
+organisations:
+- Café Bistro
+- Compass Group UK
+- Costa Coffee
+- Harrogate and District NHS Foundation Trust
+- Harrogate and District NHS Foundation Trust Board
+- M&S Food
+- One Retail
+- WHSmiths
+- noviniti
 ---
 
 ![](https://mmo.aiircdn.com/409/6a969c717d2445fce62.jpg) 

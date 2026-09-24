@@ -13,6 +13,30 @@ categories:
 - UK
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Los Angeles
+- New Jersey
+- New York
+- West Coast
+people:
+- Ariana Grande
+- Bruno Mars
+- Dre
+- Eminem
+- Madonna
+- Nirvana
+- PinkPantheress
+- Sabrina Carpenter
+- Snoop Dogg
+- Taylor Swift
+- Zara Larsson
+organisations:
+- CBS
+- MTV
+- Paramount
+- Peacock Theater
+- VMAs
+- West Coast
 ---
 
 The MTV Video Music Awards are returning to the West Coast this month and they've got a very West Coast host — Snoop Dogg.

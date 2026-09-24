@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Carlisle
+- Rydal Street
+people:
+- Emma Armstrong
+- Stewart Irwin
+- Veronica Irwin
+organisations:
+- Carlisle Crown Court
+- Cumbria Police
+- North West Ambulance Service
 ---
 
 A son has been jailed after leaving his elderly mother on the floor for two weeks after a fall.

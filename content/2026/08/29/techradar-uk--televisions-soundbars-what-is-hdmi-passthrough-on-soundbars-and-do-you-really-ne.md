@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/q3aGUhpccyAe8RtvMtUNN5-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- ARC
+- HDMI
+- eARC
+people: []
+organisations:
+- Becca
+- Bonnier Books
+- DTS
+- Dolby
+- Google News
+- HDMI ARC
+- HDMI eARC
+- Inverse
+- LG
+- New Scientist
+- Samsung S95F TV
+- Samsung TV
+- TechRadar
+- The Guardian
+- VR
+- Wired
 ---
 
 ![HDMI ports on soundbars](https://cdn.mos.cms.futurecdn.net/q3aGUhpccyAe8RtvMtUNN5.jpg) 

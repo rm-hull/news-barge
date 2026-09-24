@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Henry County
+- Kentucky
+- Lanes Landing
+- New Castle
+- New York
+- Port Royal
+- South
+people:
+- Alice Waters
+- Andy Catlett
+- Bobbie Ann Mason
+- Dilemma
+- Donald Hall
+- Dwight Garner
+- Eliot
+- Ezra Pound
+- Henry David Thoreau
+- John Crowe Ransom
+- Mary Berry
+- Michael Pollan
+- Robert Penn Warren
+- Wendell Berry
+organisations:
+- Green Pen
+- Library of America
+- Millersburg Military Institute
+- Stanford University
+- The Associated Press
+- The New York Times’
+- University of Kentucky
+- Wallace Stegner Fellowship
 ---
 
 Wendell Berry, the Kentucky-born author and agrarian who in poems, stories, novels and essays celebrated the farming communities of his native state and warned of the excesses and misjudgments of an industrial, commercialized society, has died. He was 92.

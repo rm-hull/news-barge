@@ -12,6 +12,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Kirkgate
+- La Buvette
+- Shearbridge Depot
+- Shearbridge Road
+- Shipley
+people:
+- Eric Jean-Marie Alfred Poli
+organisations:
+- Bradford Council
+- City of Bradford Metropolitan District Council
+- Google Street View
+- Licensing Team
 ---
 
 *(Image: Google Street View)*

@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Cumberland Street
+- Davygate
+- Deangate
+- High Petergate
+- Kings Staith
+- Parliament Street
+- Piccadilly
+- Sheffield
+- St. Andrewgate
+- Whip-Ma-Whop-Ma-Gate
+- YOUR
+- York
+people:
+- Kate Ravilious
+organisations:
+- Active Travel England
+- City of York Council
+- Public Notice Portal
 ---
 
 *(Image: City of York Council)*

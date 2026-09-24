@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- England
+- Harrogate
+- Metro
+- North Yorkshire
+- York
+people:
+- David Skaith
+organisations:
+- Harrogate Informer
+- National Careers Service
+- North Yorkshire Combined Authority
+- The Careers and Enterprise Company
+- York and North Yorkshire Combined Authority
 ---
 
 **HARROGATE** — Regional governance chiefs have confirmed a major structural overhaul of the district’s youth employment infrastructure, placing a multi-agency network directly under localized mayoral command.

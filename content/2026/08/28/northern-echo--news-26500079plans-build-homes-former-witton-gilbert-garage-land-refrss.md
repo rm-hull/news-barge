@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Cockfield
+- County Durham
+- Darlington
+- Front Street
+- Witton Gilbert
+- YOUR
+people: []
+organisations:
+- Durham County Council
+- Public Notice Portal
+- Public Notice Portal Plans
+- Red Line Boundary Ltd
 ---
 
 *(Image: GOOGLE)*

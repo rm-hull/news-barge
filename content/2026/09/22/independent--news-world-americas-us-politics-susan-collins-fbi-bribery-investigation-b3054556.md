@@ -13,6 +13,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/20/2289921327..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- D.C.
+- Maine Sen
+people:
+- Annie Clark
+- Collins’
+- Donald Trump
+- Graham Platner
+- Martin Kao
+- Navatek
+- Scott Reed
+- Susan Collins
+- Troy Jackson
+organisations:
+- Appropriations
+- Biden Administration
+- Collins
+- Department of Justice
+- FBI
+- FEC
+- House
+- Navatek
+- PAC
+- PacMar Technologies”
+- ProPublica
+- ProPublica’
+- Senate
+- The Independent
 ---
 
 The former CEO of a defense contractor told the FBI that he attempted to bribe Maine Sen. Susan Collins using shell companies and straw donors to hide nearly $200,000 in gifts, an article from *ProPublica* revealed on Tuesday.

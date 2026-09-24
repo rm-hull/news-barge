@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Eggborough
+- Pontefract
+- Selby
+- West Yorkshire
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 FIREFIGHTERS from two counties have been tackling a blaze close to a former power station.

@@ -14,6 +14,45 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- AI
+- Atlanta
+- Bahamas
+- China
+- Florida
+- Georgia
+- Qatar
+- U.S.
+- United States
+- White House
+people:
+- Bettina Anderson
+- Dario Amodei
+- Don Jr
+- Donald Trump
+- Elon Musk
+- Emir
+- Jon Ossoff
+- Lawrence O'Donnell
+- Lawrence O’Donnell
+- Natalie
+- Natlaie Harp
+- Pee-Wee Herman –
+- Sam Altman
+- Umar Kremlev
+- Vladimir Putin
+organisations:
+- 1789 Capital
+- AI
+- Big Tech
+- Congress
+- Don Jr
+- First Family
+- MS NOW
+- O’Donnell’s
+- The Independent
+- Trump Organization
+- Truth Social Monday
 ---
 
 Georgia Democratic Sen. Jon Ossoff has accused President Donald Trump of being “compromised” on AI after the latter’s comments opposing regulation of the emerging technology provoked uproar.

@@ -13,6 +13,44 @@ categories:
 - Arts & Culture
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d36/live/4c1daf10-b1a5-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Bath
+- Creed-Miles
+- Hamnet
+- London
+- Love Island
+- Pasadena
+- The Langham Huntington
+- UK
+people:
+- Amelia Kenworthy
+- Ava Pickett
+- Bonny Wise
+- Connell
+- Creed-Mills
+- Daisy Edgar-Jones
+- Dashwood
+- Dolly Alderton
+- Elinor
+- Emma Corrin
+- Emma Thompson
+- Esmé Creed-Miles
+- Georgia Oakley
+- James Bond
+- Jane Austen
+- Kate Winslet
+- Marianne
+- Miss Austen
+- Paul Mescal
+- Sally Rooney
+organisations:
+- BBC TV
+- Daisy Edgar-Jones
+- Esmé Creed-Miles
+- Netflix
+- Page Six
+- Twisters
+- Winter TCA
 ---
 
 ![Daisy Edgar-Jones in a white dress](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1d36/live/4c1daf10-b1a5-11f1-bc1f-3f186ca4140c.jpg)

@@ -12,6 +12,25 @@ image: https://static.the-independent.com/2026/09/02/19/39/Police-Chief-Harold-V
 categories:
 - News & Politics
 - UK
+locations:
+- Miss.
+- Mississippi
+- Senatobia
+- Walmart
+people:
+- Alderman Chris McConnell
+- Alderman Demetrius Garrett
+- Greg Graves
+- Harold Vanderford
+- Harold “Hal” Vanderford
+- Hunter Foster
+- Kohen Wiley
+- Latoya Ferrell
+organisations:
+- Board of Aldermen
+- Mississippi Bureau of Investigation
+- Mississippi Today
+- The New York Times
 ---
 
 The Board of Aldermen in Senatobia, Mississippi, voted unanimously Tuesday night to fire Police Chief Harold “Hal” Vanderford, rejecting a resignation letter he had submitted earlier in the day.

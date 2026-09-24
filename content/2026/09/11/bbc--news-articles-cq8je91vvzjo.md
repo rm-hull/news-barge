@@ -14,6 +14,54 @@ categories:
 - Film & TV
 - Arts & Culture
 - Music
+locations:
+- Britain
+- Engla
+- Liverpool
+- Manchester
+- UK
+- US
+people:
+- Aitch
+- Alesha Dixon
+- Anne Marie
+- Cheryl
+- Claudia Winkleman
+- Danny Jones
+- Emma Willis
+- Holly Willoughby
+- Jennifer Hudson
+- Joe Swash
+- Johannes Radebe
+- Josh Widdicombe
+- Kelly Rowland
+- Kylie Minogue
+- LeAnn Rimes
+- Marvin Humes
+- Olly Murs
+- Reggie Yates
+- Rita Ora
+- Stacey Solomon
+- Tess Daly
+- Tom Fletcher
+- Tom Jones
+- Will.I.Am
+organisations:
+- BBC One
+- Black Eyed Peas
+- Cheryl
+- Destiny
+- Girls Aloud
+- ITV
+- JLS
+- McFly
+- Mis-Teeq
+- Stacey & Joe
+- The Voice
+- The Voice UK
+- The X Factor
+- The X Factor The Voice
+- Will.I.Am
 ---
 
 ![Stacey Solomon and Alesha Dixon](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/840a/live/ba1eec50-ade9-11f1-b1d1-571ed4d7ff2c.jpg)

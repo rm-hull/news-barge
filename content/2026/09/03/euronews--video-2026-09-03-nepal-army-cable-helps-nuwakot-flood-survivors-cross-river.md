@@ -12,6 +12,14 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bidur
+- Nepal
+- Nuwakot
+- Trishuli River
+people: []
+organisations:
+- Nepal Army
 ---
 
 Flood survivors in Nepal cross the swollen Trishuli River in Nuwakot district on a makeshift cable, with Nepali soldiers and local residents pulling them to safety. The footage shows people boarding the temporary device and gripping the cable as they are carried high above the fast-flowing river.

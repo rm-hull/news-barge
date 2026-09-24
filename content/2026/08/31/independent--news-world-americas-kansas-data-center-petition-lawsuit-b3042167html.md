@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Big Tech
+- Edgerton
+- El Dorado
+- Emporia
+- Kansas City
+- Missouri Pacific Railroad
+- Osawatomie
+- Osowatomie
+- Topeka
+- Wichita
+people:
+- Bret Glendening
+- Edgeron
+- Kimberly Twente
+- Thomas
+- Todd Luckman
+- Troy Harp
+organisations:
+- City Commission
+- Edgerton
+- El Dorado
+- Emporia
+- Osawatomie City
+- TV station KMBC
+- The Independent
+- The Kansas City Star
+- Topeka Capital-Journal
+- Twente
 ---
 
 Some Americans who oppose data centers being built in their communities have learned you can fight city hall — but the battle will wind up in court.

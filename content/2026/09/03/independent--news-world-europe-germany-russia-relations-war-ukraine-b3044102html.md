@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Baltic Sea
+- Berlin
+- Bonn
+- Crimea
+- Donbas
+- Europe
+- Germany
+- Kremlin
+- Kyiv
+- Leipzig Airport
+- Moscow
+- Nord Stream
+- Poland
+- Russia
+- Russian House
+- Ukraine
+- Washington
+people:
+- Angela Merkel
+- Dmitry Medvedev
+- Gerhard Schröder
+- Ian Bond
+- Olaf Scholz
+- Vladimir Putin
+organisations:
+- AfD
+- Alternative for Germany
+- CER
+- European Union
+- Kyiv
+- NATO
+- Nord Stream 2
+- Security Council
+- The Centre for European Reform
 ---
 
 Eighteen years before Russian tanks rolled into Ukraine, the then German chancellor Gerhard Schröder was asked for his opinion on President Vladimir Putin.

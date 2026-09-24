@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Aria
+- Beeban Kidron
+- Chi Onwurah
+- Claude chatbot
+- Geoffrey Hinton
+- George Osborne
+- Kanishka Narayan
+- Keir Starmer
+- Matt Clifford
+- Nick Clegg
+- Rishi Sunak
+- Tom Brake
+organisations:
+- AI Security Institute
+- AIs
+- Advanced Research and Invention Agency
+- Anthropic
+- Aria
+- Commons
+- Entrepreneurs First
+- Labour
+- Meta
+- Microsoft
+- OpenAI
+- San Francisco AI
+- Unlock Democracy
 ---
 
 The chair of the UK government’s “moonshot” science and technology research unit has been forced to stand down after taking a job with the San Francisco AI firm Anthropic, in a move senior MPs called a “clear conflict of interest”.

@@ -13,6 +13,28 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/22/Election_2_26_Alaska_Ballots_92937.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Anchorage
+- Naknek
+- Nome
+- Oregon
+- U.S.
+- Washington
+people:
+- David Steiner
+- Igiugig
+- Kotzebue
+- Michelle Sparck
+- Nikolaj Hagen
+- Sallyann Hughes
+organisations:
+- Alaska Division of Elections
+- Division of Elections'
+- Get Out the Native Vote
+- Nome
+- Postal Service
+- U.S. Postal Service
 ---
 
 Seventy-five absentee in-person ballots cast by voters in rural western Alaska communities arrived too late to be counted in last month's primary election, officials said.

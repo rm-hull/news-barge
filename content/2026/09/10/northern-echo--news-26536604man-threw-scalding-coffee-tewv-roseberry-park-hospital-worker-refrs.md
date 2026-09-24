@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Middlesbrough
+- Roseberry Park
+people:
+- Drunk Newton Aycliffe
+- Jack Cunningham
+- Michele Turner
+- Miss Shan
+- Richard Bennett
+- Saba Shan
+organisations:
+- CCTV
+- Cleveland Police
+- NORTHERN ECHO
+- Roseberry Park Hospital
 ---
 
 A man threw scalding coffee over a mental health worker leaving him screaming in pain.

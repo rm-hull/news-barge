@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/20125972.jpg?type=og-image
+locations:
+- Addington Drive
+- Middlesbrough
+- Teesside
+people:
+- Ian Mitchell
+organisations:
+- Cleveland Police
+- Crimestoppers
+- Jaguar
+- Middlesbrough’s South Neighbourhood Policing Team
+- Neighbourhood Policing Team
+- THE NORTHERN ECHO
 ---
 
 Three men have been charged after a cannabis farm worth up to £100,000 was found in Middlesbrough.

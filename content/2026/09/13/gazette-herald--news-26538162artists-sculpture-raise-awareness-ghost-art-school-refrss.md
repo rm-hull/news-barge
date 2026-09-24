@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Aarhus
+- Davygate
+- Denmark
+- Europe
+- Flora
+- Italy
+- Puglia
+- York
+people:
+- Flora
+- Kevin Glenton
+- Rory Macbeth
+organisations:
+- ARoS Museum of Contemporary Art
+- Ghost Art School
 ---
 
 A LIFELIKE sculpture of "a living statue" has been surprising shoppers in York city centre whilst raising funds and awareness for an experimental art school.

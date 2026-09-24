@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21483816.jpg?type=og-image
+locations:
+- Auckland
+- County Durham
+- Halifax
+- Newton Aycliffe
+- North East
+- Teesside
+people:
+- Cathy Hunt
+organisations:
+- All Lloyds
+- County Durham
+- Durham Cares and Families First
+- Durham County Council
+- Newton Aycliffe
+- Young Futures Hub
+- Young Futures Hubs
 ---
 
 County Durham will get a second Young Futures Hub after securing more government funding following the success of its pilot scheme.

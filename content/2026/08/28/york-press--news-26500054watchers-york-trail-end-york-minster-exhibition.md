@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## Popular York'
+- Chapter House
+- York Minster
+people:
+- Alex Dyett
+organisations:
+- Chapter House
+- Visit York Visitor Information Centre
+- Watchers of York
+- York Minster
 ---
 
 ## Popular York sculpture trail to end with final exhibition at York Minster

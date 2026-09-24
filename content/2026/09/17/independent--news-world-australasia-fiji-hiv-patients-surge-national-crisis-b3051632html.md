@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Africa
+- Fiji
+- Pacific
+people:
+- Winnie Byanyima
+organisations:
+- Facebook
+- UNAIDS
 ---
 
 Fiji declared HIV a national crisis following a 27 per cent surge in new diagnoses last year, raising fears that an outbreak previously concentrated among people injecting drugs was spreading broader across the Pacific nation.

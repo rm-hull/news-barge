@@ -12,6 +12,13 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20555429.jpg?type=og-image
+locations:
+- Leeds
+- Roundhay Park
+people: []
+organisations:
+- T&A
+- West Yorkshire Police
 ---
 
 *(Image: Pexels)*

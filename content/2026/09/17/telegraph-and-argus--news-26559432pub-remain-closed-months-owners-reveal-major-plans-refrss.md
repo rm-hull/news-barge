@@ -13,6 +13,21 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Baildon
+- Bradford
+- Gilstead
+- Old Glen House
+- Prod Lane
+- Shipley Glen
+- The Glen Pub
+- The Old Glen House
+- Yorkshire
+people:
+- Katie
+- Phil
+organisations:
+- Star Pubs
 ---
 
 *(Image: Google Maps)*

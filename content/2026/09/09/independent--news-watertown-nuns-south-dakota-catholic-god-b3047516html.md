@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Codington County
+- Guatemala
+- Harmony Hill
+- Hoven
+- Sacred Heart Monastery
+- South Dakota
+- Texas
+- The Village
+- U.S.
+- Watertown
+- Yankton
+people:
+- Alan Stager
+- Belle Kohler
+- Dalton Wagner
+- Kelsey Belle Kohler
+- Michael Klatt
+- Mother of God Monastery
+- Sister Ida Hericks
+organisations:
+- Catalyst Construction
+- Challenger Learning Center
+- Costello Property Management
+- Good Samaritan Society
+- Harmony Hill
+- National Aeronautics and Space Administration
+- News Watch
+- Seppanen Contracting
+- South Dakota Housing
+- South Dakota News Watch
+- The Associated Press
+- The Commons of Harmony Hill
+- Village of Harmony Hill
+- Watertown
 ---
 
 Throughout their entire adult lives, the women of the Benedictine Sisters of Mother of God Monastery have served others as educators, health care providers and spiritual leaders.

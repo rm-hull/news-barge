@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469142.jpg?type=og-image
+locations:
+- Bradford
+- Girlington Road
+- Mike Simmonds
+- Spring Head Road
+- Thornton Road
+- Whetley Lane
+people:
+- Mike Simmonds
+organisations:
+- Bradford Council
+- Facebook
+- Thornton Road Improvement
+- Thornton Road Improvements
+- UK Government
+- West Yorkshire Combined Authority
 ---
 
 The first phase of a major improvement scheme on one of Bradford's busiest roads has now been completed, with the next stage of work underway.

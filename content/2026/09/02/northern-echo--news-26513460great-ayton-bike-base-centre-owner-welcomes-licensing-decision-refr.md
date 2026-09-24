@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dikes Lane
+- Great Ayton
+- North East
+- North York Moors National Park
+people:
+- Mark Pearson
+organisations:
+- Bike Base
+- Bike Base North York Moors Ltd
+- North Yorkshire Council
 ---
 
 The owner of a café and bike hire business has welcomed a decision by councillors to allow the venue permission to sell alcohol and host live music despite concerns from neighbouring residents.

@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Europe
+- UK
+people:
+- John Dale
+- Lizzie Wilson
+- Tom Bradshaw
+organisations:
+- NFU
+- NPA
+- National Pig Association
+- Nidderdale Show
+- Yorkshire
 ---
 
 # British pork at risk as pig farmers warn of crisis

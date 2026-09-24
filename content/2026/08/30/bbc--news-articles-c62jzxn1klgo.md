@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A439 Warwick Road
+- A46
+- Birmingham Road
+- Ingon Lane
+- Marraway
+- Sand Barn Lane
+- Stratford
+- Stratford-on-Avon
+- Stratford-upon-Avon
+- Warwick Road
+- Warwickshire
+people:
+- Manuela Perteghella
+organisations:
+- Audi
+- Ford
+- IOPC
+- Independent Office for Police Conduct
+- Warwickshire Police
+- West Midlands Ambulance Service
 ---
 
 ![A road with trees on either side and a number of police vehicles plus two dark cars parked on it](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/2606/live/dfad3c70-a474-11f1-aed2-8d6da8d75094.png)

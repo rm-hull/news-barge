@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '## St Mary’s Catholic Church'
+- Crathorne Hall
+- Darlington
+- England
+- Lakeland
+- North Yorkshire
+- Saints’ Church All Saints’ Church
+- St Mary’s
+- Stokesley
+- Storybook’ County Durham
+- Yarm
+people:
+- All Saints’
+- George Crathorne
+- Hodgson Fowler
+- Mary
+- William de Crathorne
+organisations:
+- All Saints’
+- Anglican Church of All Saints
+- Church of St Mary
+- Lords of the Manor
+- Roman Catholic Church of St Mary
+- St Mary
 ---
 
 *(Image: GOOGLE)*

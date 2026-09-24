@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Food & Cooking
+locations:
+- Knaresborough
+- Low Bridge
+- Mother Shipton Inn
+- River Nidd
+people:
+- Admiral Taverns
+- Matt Chapman
+organisations:
+- Knaresborough Foodbank
+- Mother Shipton Inn
 ---
 
 ![](https://mmo.aiircdn.com/409/6a981e4116c641e351a.jpg) 

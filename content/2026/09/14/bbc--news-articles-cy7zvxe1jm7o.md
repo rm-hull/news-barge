@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e579/live/16c189
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- Israel
+- US
+people:
+- Brad Cooper
+- Bravo
+- Donald Trump
+- Pete Hegseth
+organisations:
+- Alpha
+- BBC
+- Bravo
+- CBS
+- Central Command
+- Iranian TV
+- US Air Force
 ---
 
 US airman shot down over Iran recounts 'free-falling' with no parachute

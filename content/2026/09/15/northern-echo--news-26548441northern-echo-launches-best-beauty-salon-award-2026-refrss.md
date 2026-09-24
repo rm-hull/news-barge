@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Darlington
+- North East
+people:
+- Becki C
+- Gavin Foster
+- Kevin Keegan
+- Stuart Boulton
+organisations:
+- Aesthetics
+- Beauty
+- NORTHERN ECHO
+- Nails
+- Northern Echo
+- St James’ Park
+- The Northern Echo
+- TikTok
 ---
 
 *(Image: Stuart Boulton)*

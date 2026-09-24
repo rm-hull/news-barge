@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- A York
+people:
+- Ms Wilkins
+- Nadia Jefferson-Brown
+- Sarah Wilkins
+organisations:
+- Pavers Foundation
+- Pavers Foundation Committee
+- Survive
+- York Pavers'
 ---
 
 *(Image: Nadia Jefferson-Brown)*

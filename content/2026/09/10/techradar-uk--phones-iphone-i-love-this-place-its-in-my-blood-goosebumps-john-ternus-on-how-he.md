@@ -12,6 +12,36 @@ image: https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Greg Joswiak
+- John Ternus
+- John Ternus Greg Joswiak
+- Jozwiak
+- Lance Ulanoff
+- Mark Spoonauer
+- Steve Jobs
+- Tom
+- Yuck
+organisations:
+- AI
+- AirPods
+- Apple Pencil
+- Apple Watch
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Ternus
+- Today Show
+- Tom's Guide
+- Ziff Davis, Inc
 ---
 
 ![John Ternus Greg Joswiak](https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27.jpg) 

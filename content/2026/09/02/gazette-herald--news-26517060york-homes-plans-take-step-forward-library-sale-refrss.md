@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Fifth Avenue
+- Mossdale Avenue
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Google Street View
+- Kendal House Properties Ltd
+- Public Notice Portal
+- Tang Hall Explore
+- Tang Hall Library
+- YMCA North Tyneside
 ---
 
 ### What is the Public Notice Portal?

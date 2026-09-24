@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Al Mughayyir
+- Al-Mughayyir
+- Middle East
+- Ramallah
+- West Bank
+people:
+- Annie Kelly
+- Emma Graham-Harrison
+- Waheed Abu Naim
+organisations:
+- OHCHR
+- Occupied Palestinian Territory
+- UN Human Rights Office
 ---
 
 Waheed Abu Naim is an English teacher at the Al Mughayyir boys’ school in a village in the West Bank. He loves his job, he says. “I am happy to be a teacher. Although we don’t get lots of money, because my students, especially in the morning, wait for me when I enter the school to shake hands, to smile at me while going inside their classes. So it’s a happy life.”

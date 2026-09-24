@@ -11,6 +11,43 @@ image: https://cdn.mos.cms.futurecdn.net/6c6voVUA4JV84q7EDkJixT-2560-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Dojima
+- Inaba
+people:
+- Alan Wen
+- Chie
+- Inaba
+- Laura Bailey
+- Marie
+- Teddy
+- Troy Baker
+- Yosuke
+- Yukiko
+- Yuri Lowenthal
+organisations:
+- Atlus
+- Baton Pass
+- Digital Spy
+- Edge
+- FANDOM
+- Games TM
+- GamesMaster
+- Google News
+- Kotaku UK
+- Midnight Channel
+- Official Playstation Magazine
+- P Studio
+- Persona 5
+- Reload
+- Revival
+- Rock Paper Shotgun
+- Sega
+- Stuff
+- TechRadar
+- The Guardian
+- The Telegraph
+- Velvet Room
 ---
 
 ![A promotional screenshot of Persona 4 Revival released at Gamescom 2026.](https://cdn.mos.cms.futurecdn.net/6c6voVUA4JV84q7EDkJixT.png) 

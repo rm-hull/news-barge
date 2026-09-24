@@ -10,6 +10,14 @@ description: Excel has been failing to paste for some users
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/dBzikNZ5SrYNVv25xLLzF4-970-80.jpg
+locations: []
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- Microsoft
+- TechRadar Pro
 ---
 
 ![Microsoft Excel](https://cdn.mos.cms.futurecdn.net/dBzikNZ5SrYNVv25xLLzF4.jpg)

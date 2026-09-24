@@ -13,6 +13,23 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/20/Israel_Palestinians_West_Bank_15664.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beit Horon
+- Gaza
+- Israel
+- Jerusalem
+- United States
+- West Bank
+people:
+- Benjamin Netanyahu
+- Isaac Herzog
+- Mahmoud Suleiman
+- Moshe Yedidya Leiter
+- Neria Leiter
+- Yechiel Leiter
+organisations:
+- Magen David Adom
+- Palestinian Health Ministry
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- Granbury
+- Grand Canyon
+- Grand Canyon Lodge
+- Grand Canyon National Park
+- Jackson
+- North Rim
+- Phantom Ranch
+- South Rim
+- Star Valley
+- Star Valley Ranch
+- Texas
+- Wyoming
+people:
+- Brent Rosenkranz
+- Carrie Smith
+- Him
+- John Giusti
+- Lord
+- Tim (Daddy
+- Timothy Allen Smith
+organisations:
+- Facebook
+- National Park Service
+- Rangers
 ---
 
 Human remains found in the Grand Canyon this week have been identified as a missing pilot who vanished alongside two friends during deadly flash floods.

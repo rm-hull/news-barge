@@ -11,6 +11,43 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/20/Trump_Xi_Then_and_Now_15711.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- East China Seas
+- Rose Garden
+- South China Sea
+- Taiwan
+- U.S.
+- US
+- Washington
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- Kevin Vineys
+- Kurt Campbell
+- Marco Rubio
+- Matthew P. Funaiole
+- Melania Trump
+- Mira Rapp-Hooper
+- Sun Yun
+- Xi Jinping
+organisations:
+- Brookings Institution
+- Center for Asia Policy Studies
+- Center for Strategic and International Studies
+- China Power Project
+- Fox & Friends
+- Fox News Channel
+- Joint Base Andrews
+- Pentagon
+- RAND
+- Rhodium Group
+- Stimson Center
+- The Asia Group
+- Trump
+- U.S. Navy
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

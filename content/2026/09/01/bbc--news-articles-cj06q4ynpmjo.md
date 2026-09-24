@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Chabahar
+- Islamic Republic of Iran
+- Jordan
+- Konarak
+- Larak Island
+- Oman
+- Qeshm Island
+- Strait of Hormuz
+- US
+people:
+- Bandar Abbas
+- Donald Trump
+- Hossein Mohebbi
+- Konarak
+organisations:
+- Centcom
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Tasnim
+- US Central Command
 ---
 
 ![Several ships sit in a large body of water, with fog on the horizon and blurred rocks in the foreground.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg)

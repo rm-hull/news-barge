@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/JELLkAw4TQeRA2FYkfGHLC-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Tom
+organisations:
+- Adata
+- Apple
+- Micron
+- SanDisk
+- Seagate
+- Svelte
+- Xbox
 ---
 
 ## Explore External SSDs

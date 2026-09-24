@@ -13,6 +13,14 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- Acomb
+- Navigation Road
+- York
+people: []
+organisations:
+- BMW
+- North Yorkshire Fire & Rescue Service
 ---
 
 Police say they are making enquiries into the car fire in York.

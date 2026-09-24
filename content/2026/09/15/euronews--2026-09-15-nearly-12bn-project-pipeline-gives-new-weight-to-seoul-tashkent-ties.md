@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Jizzakh
+- Korean Peninsula
+- Seoul
+- South Korea
+- Tashkent
+- Tashkent-Samarkand
+- Urgench
+- Uzbekistan
+people:
+- Cho Sang-woon
+- Han Seong-sook
+- Hwang Ki-yeon
+- Kim Seong
+- Lee Jae Myung
+- Lee Yong-bae
+- Shavkat Mirziyoyev
+organisations:
+- Hyundai Motor Group
+- Hyundai Rotem
+- Incheon International Airport Corporation
+- Kia Motors
+- Korea Eximbank
+- Korea-Uzbekistan Rare Metals Center
+- Mirziyoyev
+- Uzbek Culture
+- Year of Culture and Exchanges
 ---
 
 ## Uzbekistan is seeking Korean finance and technology for critical minerals, advanced manufacturing and infrastructure. Mirziyoyev’s visit comes ahead of Wednesday’s first C5+Korea leaders’ summit.

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a8a/live/b0fcfca0-b0f2-11f1-9707-2187f52634c5.jpg
+locations:
+- Ireland
+- UK
+people:
+- Alex
+- Aran Murphy
+- Cillian Murphy
+- Hogan
+- Owen McDonnell
+- Rob Delaney
+- Ruari
+- Sam Despite
+- Sharlene Whyte
+- Sharon Horgan
+- Sherwood
+organisations:
+- Alex
+- Apple TV
+- Aran Murphy
+- HBO Max
+- Youth
 ---
 
 ![Sharon Horgan in Youth, she is wearing a black top and has her brown hair down](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8a8a/live/b0fcfca0-b0f2-11f1-9707-2187f52634c5.jpg)

@@ -11,6 +11,18 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Dubai
+- Harrogate
+- London
+- Toronto
+- Yorkshire
+people:
+- Paul Baron
+organisations:
+- Harrogate Kebab Co
+- The Harrogate Kebab Co
+- Viva el Picante
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97ce2f72c8cd3bd93.jpg) 

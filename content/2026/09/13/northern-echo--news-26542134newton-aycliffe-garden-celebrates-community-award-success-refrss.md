@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- County Durham
+- Darlington
+- Newton Aycliffe
+people:
+- Graham Barker
+organisations:
+- Amazon Prime Air
+- Devastated County Durham
+- PCC
+- PCP
+- Pioneering Care Centre
 ---
 
 *(Image: Pioneering Care Partnership)*

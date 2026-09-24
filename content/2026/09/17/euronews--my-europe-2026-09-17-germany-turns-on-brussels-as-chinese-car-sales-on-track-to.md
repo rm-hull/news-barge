@@ -13,6 +13,28 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Beijing
+- Berlin
+- Brussels
+- China
+- Europe
+- Germany
+- Hanover
+- Zwickau
+people:
+- Daniela Cavallo
+- Lars Klingbeil
+organisations:
+- Audi
+- BMW
+- EU
+- EVs
+- Ford
+- IG Metall
+- Mercedes-Benz
+- VW
+- Volkswagen
 ---
 
 ## Germany's finance minister demanded tougher EU tariffs on Chinese carmakers during a visit to Volkswagen's crisis-hit headquarters, as Chinese brands head toward selling more than a million cars on the continent in 2026.

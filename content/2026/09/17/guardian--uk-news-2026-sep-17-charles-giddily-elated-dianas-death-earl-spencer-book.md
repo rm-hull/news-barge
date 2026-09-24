@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Ayrshire
+- Beachy Head
+- Buckingham Palace
+- Duchess of Rothesay
+- Dumfries House
+- England
+- Isle of Bute
+- London
+- Paris
+- Princess of Wales
+- Scotland
+- UK
+- US
+people:
+- Camilla Parker Bowles
+- Charles
+- Diana
+- Duke
+- Earl Spencer
+- Harry
+- William
+organisations:
+- AI
+- Daily Mail
+- Duke of Sussex
 ---
 
 The brother of the late Diana, Princess of Wales, has claimed in published extracts of his new memoir that King Charles sounded “giddily elated – like a lottery winner” in a phone call to him immediately after her death.

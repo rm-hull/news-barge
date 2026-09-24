@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- North Yorkshire
+- Norton
+people: []
+organisations:
+- Derwent Practice
 ---
 
 *(Image: Social media)*

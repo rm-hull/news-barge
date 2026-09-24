@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- AI
+organisations:
+- CPG
+- Future plc
+- Glass Box AI
+- Stravito
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot in front of a digital screen, touching some of the symbols with its outstretched finger](https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg) 

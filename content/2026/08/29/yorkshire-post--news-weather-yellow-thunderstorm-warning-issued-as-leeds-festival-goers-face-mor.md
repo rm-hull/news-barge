@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- England
+- Leeds
+- London
+- Lord’s
+- Midlands
+- Reading
+- UK
+- Wales
+people: []
+organisations:
+- Environment Agency
+- Met Office
 ---
 
 # Yellow thunderstorm warning issued as Leeds Festival goers face more wet weather

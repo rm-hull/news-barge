@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Middlesbrough
+- Shildon
+- Sofia
+- Teesside
+- UK
+people:
+- Amanda Gardiner
+- Frank Pickersgill
+- Olivia Gardiner
+- Paul Gardiner
+- Samuel Gardiner
+organisations:
+- Blyth
+- Britannia Test House
+- DNV
+- Dogger Bank
+- Durham Lifting
+- Inch Cape
+- Insight Energy magazine
+- London Array
+- Multisec®
 ---
 
 *(Image: Durham Lifting)*

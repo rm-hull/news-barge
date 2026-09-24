@@ -13,6 +13,41 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Estonia
+- Iran
+- Kremlin
+- Moscow
+- Nizhny Tagil
+- Russia
+- Soviet Union
+- St. Petersburg
+- Tallinn
+- Udmurtia
+- Ukraine
+- Urals
+- Uralvagonzavod
+- Volga River
+people:
+- Alexander Vertukhin
+- Andrei Klepach
+- Chris Weafer
+- Dasha Litvinova
+- Dmitry Kirillin
+- Dmitry Peskov
+- Janis Kluge
+- Torbjörn Becker
+- Vladimir Putin
+organisations:
+- Center for Strategic & International Studies
+- German Institute for International and Security Affairs
+- Kupol
+- Levada Center
+- Macro-Advisory Ltd
+- Ozon
+- Stockholm School of Economics
+- VEB.RF
+- Wildberries
 ---
 
 The frictions in Russia’s wartime economy are growing, as massive military spending balloons the budget deficit. Consumers and businesses are gloomier. Growth has slowed.

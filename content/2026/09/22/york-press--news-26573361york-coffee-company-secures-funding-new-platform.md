@@ -13,6 +13,32 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21489325.jpg?type=og-image
+locations:
+- '## York'
+- Askham Bar Park
+- Glen Minikin
+- London
+- Raylor Centre
+- Ride
+- Yorkshire
+people:
+- Caitlin Walker
+- Glen Minikin
+- Laurence Beardmore
+- Ms Walker
+- Shaun Feakins
+organisations:
+- Everything Electric
+- First Bus’ Askham Bar Park
+- Great Ideas
+- Mayor of York
+- North Yorkshire
+- Upton Group
+- York & North Yorkshire Chamber of Commerce
+- York Angels
+- York Coffee Emporium
+- kWh Coffee
+- kWh Coffee Ltd
 ---
 
 ## York coffee company secures funding and appoints new chair 'at pivotal moment'

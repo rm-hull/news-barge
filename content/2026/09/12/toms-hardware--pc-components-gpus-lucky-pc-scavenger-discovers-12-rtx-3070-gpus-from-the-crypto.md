@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/KC3umcd2if2YkiCNSFka94-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Ethereum
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- GPU
+- GPUs
+- Google News
+- MSI
+- Reddit
+- Tom’s Hardware
+- Zotac
 ---
 
 ![A dismantled mining rig with six Zotac RTX 3070 GPUs](https://cdn.mos.cms.futurecdn.net/KC3umcd2if2YkiCNSFka94.jpg) 

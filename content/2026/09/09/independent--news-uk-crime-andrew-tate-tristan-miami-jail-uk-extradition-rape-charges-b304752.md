@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/09/18/2026-09-09T172329Z_3259353
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Miami
+- Romania
+- U.S.
+- UK
+- US
+- United Kingdom
+- United States
+people:
+- Andrew Tate
+- Donald Trump
+- Lauren Louis
+- Tates
+- Tristan Tate
+organisations:
+- Federal Detention Center
+- Instagram
+- TikTok
+- YouTube
 ---
 
 Andrew and Tristan Tate must remain in custody in Miami as they fight extradition to the United Kingdom, where the brothers are accused of rape and sex trafficking, a federal judge ruled on Wednesday.

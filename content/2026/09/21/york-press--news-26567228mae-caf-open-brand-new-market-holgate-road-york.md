@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/19821117.jpg?type=og-image
+locations:
+- Clifton Moor
+- Holgate Road
+- York
+people:
+- Joanne Bowes
+- Laura Mae
+- Laura Mae Bowes
+organisations:
+- Cameo Engraving
+- MAE Café
+- MAE Market
+- The Yorkshire Dales
+- The Yorkshire Dales meets M&S
+- Think Yorkshire Dales
 ---
 
 ## 'Think Yorkshire Dales meets M&S' - new market shop set to open in York

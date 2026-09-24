@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Dushanbe
+- National Stadium
+- Rogun Dam
+- Tajikistan
+people:
+- Emomali Rahmon
+organisations: []
 ---
 
 ## To mark the 35th anniversary, the country’s president, Emomali Rahmon, set out plans for economic growth, hydropower, investment, and a stronger international presence.

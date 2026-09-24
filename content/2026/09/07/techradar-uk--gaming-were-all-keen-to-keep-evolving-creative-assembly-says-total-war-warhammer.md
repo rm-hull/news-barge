@@ -15,6 +15,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Video Gaming
+locations: []
+people:
+- Dave Petry
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- Petry
+- RTS
+- TechRadar Gaming
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/BG2J8ppcFjhzUKU5qiL2o.jpg) 

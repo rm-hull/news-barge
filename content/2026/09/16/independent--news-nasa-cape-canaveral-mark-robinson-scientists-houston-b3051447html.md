@@ -13,6 +13,20 @@ categories:
 - UK
 - Science
 - History
+locations:
+- Earth
+- Los Angeles
+people:
+- David Paige
+- Mark Robinson
+- Thomas McGetchin
+organisations:
+- AP Fund for Journalism
+- Houston’s Lunar and Planetary Institute
+- LRO
+- Lunar Reconnaissance Orbiter
+- NASA
+- University of California
 ---
 
 Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum and is the result of a powerful impact two years ago that initially went undetected.

@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Coronation Street
+- Emmerdale
+- Panem
+people:
+- Billy Mayhew
+- Caesar Flickerman
+- Corriedale
+- Daniel Brocklebank
+- Haymitch Abernathy
+- Katniss
+- Neil McDermott
+- Suzanne Collins'
+organisations:
+- Brighton & Hove Albion
+- Coronation Street
+- EastEnders
+- Emmerdale
+- ITV
+- ITV1
+- ITVX
+- Manchester United
+- NTAs
+- Soap
+- The Hunger Games
+- Troubadour Canary Wharf Theatre
 ---
 
 *(Image: ITV)*

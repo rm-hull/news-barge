@@ -10,6 +10,27 @@ image: https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- US
+people:
+- Harley Finkelstein
+organisations:
+- ChatGPT
+- Future plc
+- Google
+- Kingfisher
+- LLMs
+- OpenAI
+- PSE Consulting
+- Salesforce
+- Shopify
+- Similarweb
+- Target
+- TechRadar Pro
+- TechRadarPro
+- Tesco Marketplace
+- UCP
 ---
 
 ![Someone typing at a keyboard, with an ecommerce shopping cart symbol floating in the air.](https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk.jpg) 

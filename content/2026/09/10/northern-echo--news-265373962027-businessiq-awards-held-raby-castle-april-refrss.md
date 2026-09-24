@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+- Raby Castle
+- The Dutch Barn
+- Walled Gardens
+people:
+- Michelle Robson
+- Mike Hughes
+- Paul Foreman
+organisations:
+- BUSINESSiQ
+- Hilton Hotel
+- PD Ports
+- The Riding School
+- Tyne Bridge
 ---
 
 At last, we can reveal the venue and date for the 2027 BUSINESSiQ Awards - and nominations are now open.

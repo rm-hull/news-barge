@@ -12,6 +12,17 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/19/8/39/Screenshot-2026-09-19-at-09-52-24.png?trim=150,0,150,0&width=1200&height=800&crop=1200:800
+locations:
+- Athens
+- Atlantic
+- England
+- Greece
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 Parts of the UK are set to be hotter than Athens next week as temperatures will soar to 26C as late summer warmth returns.

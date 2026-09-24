@@ -12,6 +12,90 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/DdWqZw6rdZrJnas8Y2uTdE-1920-80.jpg
+locations:
+- Atlanta
+- Australia
+- Bloomington
+- CA
+- Canada
+- D.C.
+- Fiji
+- Jersey City
+- KY
+- Knoxville
+- London
+- Mamanuca Islands
+- NJ
+- NY
+- New York City
+- North America
+- Providence
+- RI
+- Richmond
+- Salt Lake City
+- TX
+- Toronto
+- UK
+- US
+- USA
+- UT
+- Washington
+- canada
+- uk
+people:
+- Aaliyah Puglia
+- Alexis Levine
+- Ana Sani
+- Angelica “Jelly” Loblack
+- Brady Booker
+- Carter Krull
+- Charles Town
+- Cristian Chávez
+- Danny “Kilby” Kilby
+- Devin Way
+- Eric Macksoud
+- Farmer
+- Fort Worth
+- Jeff Probst
+- Jenna Doore
+- Kristin Flickinger
+- Lewis Kelly
+- Linnea Capobianco
+- Los Angeles
+- Maggie Nestor
+- Mike Pinsky
+- NordVPN
+- Ori Jean-Charles
+- Patt Cannaday
+- Resident OBGYN
+- Rob Antonson
+- Santa Barbara
+- Sharonda Cox
+- Sioux Falls
+- Spring Valley
+- Survivor
+- Thien An” Nguyen
+- Toledo
+- Tom Wardley
+- Windsor Locks
+organisations:
+- BBC iPlayer
+- CA
+- CBS
+- Corozal
+- Cumberland
+- Film Studies
+- Fubo
+- Future Publishing
+- Global TV
+- Hulu
+- Live TV
+- NordVPN
+- TechRadar
+- Tribal Councils
+- University of South Wales
+- Walmart
+- YouTube TV
 ---
 
 ![Logo for Survivor season 51](https://cdn.mos.cms.futurecdn.net/DdWqZw6rdZrJnas8Y2uTdE.jpg)

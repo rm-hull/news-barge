@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/09/08/08/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Bournemouth
+- Dover
+- Eastney Ferry Landing
+- England
+- English Channel
+- Lake Drive
+- Poole
+- Portsmouth
+- UK
+- West Quay Road
+people:
+- Daniel Thomas
+- Pat McFadden
+- Spencer Wragg
+- Tommy Robinson
+organisations:
+- BBC Breakfast
+- Dorset Police
+- Government
+- Hampshire Police Federation
+- Home Office
+- LBC
+- Patriot Platform
+- Work and Pensions
 ---
 
 The chairman of the Hampshire Police Federation said seven police officers “were assaulted” during an anti-migrant demonstration in Portsmouth, as concerns grow over more far-right disorder and protests across the UK.

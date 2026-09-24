@@ -13,6 +13,28 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- Cheshire East
+- North Wales
+- Runcorn
+- UK
+- Westminster
+people:
+- Ann Widdecombe
+- Ms Pochin
+- Nigel Farage
+- Sarah Pochin
+- Suella Braverman
+organisations:
+- Conservative
+- GB News
+- Helsby MP
+- Reform UK
+- Royal
+- Sainsbury’s
+- Shell
+- Tory
+- VIP Executive Committee
 ---
 
 Reform UK’s MPs now all have 24-hour security, Sarah Pochin has announced.

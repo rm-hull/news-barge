@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Caribbean
+- Central America
+- Copenhagen
+- Davos
+- Denmark
+- Greenland
+- Iceland
+- Mexico
+- North Atlantic
+- Nuuk
+- Reykjavík
+- Switzerland
+- U.S.
+- United States
+- United States of America
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Billy Long
+- Donald Trump
+- Mette Frederiksen
+- Thorgerdur Gunnarsdottir
+- Ursula von der Leyen
+- William “Billy” Long
+organisations:
+- Brownstein Hyatt Farber Schreck
+- EU
+- European Commission
+- European Union
+- House
+- Internal Revenue Service
+- NATO
+- RUV
+- Ritzau
+- U.S. State Department
+- World Economic Forum
 ---
 
 Diplomatic tensions flared on Monday when Iceland summoned the U.S. ambassador after President Donald Trump posted an uncaptioned social media image showing the island alongside several other countries under the American flag.

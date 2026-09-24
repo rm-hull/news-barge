@@ -11,6 +11,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Dales
+people:
+- Alan Bennett
+- Alf Wight
+- Dame Margaret Drabble
+- David Hockney
+- Dickie Bird
+- Helen Fielding
+- Jane McDonald
+- Jonny Brownlee
+- Judi Dench
+- Kathryn Armstrong
+- Linda Mellin
+- Lord William Hague
+- Ricky Wilson
+- Rosie Page
+- Yorkshire’
+organisations:
+- '## Yorkshire Life'
+- Herriot Country
+- Kaiser
+- Newsquest
+- Yorkshire Life
+- Yorkshire Life’
 ---
 
 ## Yorkshire Life celebrates 80 years with special anniversary edition

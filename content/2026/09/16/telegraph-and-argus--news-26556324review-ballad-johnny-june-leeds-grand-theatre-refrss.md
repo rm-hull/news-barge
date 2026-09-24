@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- America
+- Halifax
+- Leeds Grand Theatre
+people:
+- Amanda Zieve
+- Bob Marley
+- Christina Bianco
+- Christopher Ryan Grant
+- Des McAnuff
+- Hurt
+- Jackson
+- John Carter Cash
+- Johnny Cash
+- Pamela Raith
+- Ryan O'Donnell
+- Ryan O’Donnell
+- Southern Boy’
+organisations: []
 ---
 
 THE challenge of any musical biopic is to allow the story to shine through whilst avoiding any temptation to introduce audience-pleasing cheap tricks - aka the finale mega mix!

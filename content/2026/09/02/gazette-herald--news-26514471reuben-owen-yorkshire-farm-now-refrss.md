@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Farm
+people:
+- Amanda
+- Clive Owen
+- Clive and Sid
+- Miles Owen
+- Owens
+- Reuben Owen
+- Sidney
+organisations:
+- Anty John's
+- Channel 5
+- Clive and Kids
+- Reuben and Clive
+- TG Jones and York main Post Office
+- Yorkshire Dales
 ---
 
 Reuben Owen first became a familiar face to millions of viewers as the machinery-loving son of Amanda and Clive Owen on Our Yorkshire Farm.

@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '#### Church Street'
+- Church Lane
+- Church Street
+- Dunnington
+- York
+people: []
+organisations:
+- City of York Council
+- Dunnington Parish Council
 ---
 
 Plans to restrict parking in a York village have been watered down following objections.

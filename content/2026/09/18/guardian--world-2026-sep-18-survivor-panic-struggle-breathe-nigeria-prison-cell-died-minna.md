@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Asia
+- Belgium
+- Europe
+- Minna
+- Niger
+- Nigeria
+- South Africa
+- Tunga
+- US
+- United Arab Emirates
+- Wushishi-Lukoto
+people:
+- Bola Ahmed Tinubu
+- Dauda Shehu
+- Mohammed Umaru Bago
+- Olubunmi Tunji-Ojo
+- Suberu Siyaka Aniviye
+- Umar Bago
+- Yusuf Auwal
+organisations:
+- AFP
+- Agence France-Presse
+- NSCDC
+- Nigeria Security and Civil Defence Corps
+- Reuters
+- Swissaid
 ---
 
 Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a paramilitary group this week have recounted their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths and imposed an overnight curfew in the city of Minna.

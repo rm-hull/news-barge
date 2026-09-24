@@ -11,6 +11,25 @@ description: Bigger batteries than last year, though there are variations in the
 image: https://cdn.mos.cms.futurecdn.net/NyJLbMZhUHKPaQza65Pb4n-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- MacRumors
+- Stockport
+- US
+people:
+- Dave
+- David Nield
+organisations:
+- Android Headlines
+- Apple C2
+- EU
+- European Union
+- Gizmodo
+- Google News
+- PC Explorer
+- Pro Max
+- Qualcomm
+- The Hardware Handbook
 ---
 
 ![Apple iPhone 18 Pro and iPhone 18 Pro Max Hands-On](https://cdn.mos.cms.futurecdn.net/NyJLbMZhUHKPaQza65Pb4n.jpg) 

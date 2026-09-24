@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- West Yorkshire
+people:
+- Calverley
+- Farsley
+- James Lewis
+- Peter Carlill
+- Tracy Brabin
+organisations:
+- Leeds City Council
+- Leeds Labour Party
+- West Yorkshire Combined Authority
 ---
 
 *(Image: Leeds Labour Party)*

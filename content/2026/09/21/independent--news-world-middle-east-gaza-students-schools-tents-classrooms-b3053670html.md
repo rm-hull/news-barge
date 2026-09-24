@@ -13,6 +13,24 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/21/15/2026-09-21T105641Z_1837995358_RC26MNANRITI_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-SCHOOLS.JPG?trim=0,22,0,22&width=1200&height=800&crop=1200:800
+locations:
+- East Khan Younis
+- Gaza Strip
+- Israel
+- Khan Younis
+people:
+- Ibrahim Ramadan
+- Khaled Aliyan
+- Khan Younis
+- Moayed Abu Mustafa
+- Samar Abu Salmi
+- Yamen Abu Samra
+organisations:
+- COGAT
+- Hamas
+- Ministry of Education
+- UNICEF
+- United Nations Children's Fund
 ---
 
 Hundreds of thousands of Gaza children returned to in-person instruction on Saturday for the first time in nearly three years, gathering inside damaged buildings, makeshift structures, and tents despite severe shortages that have made basic pens, notebooks, and uniforms unaffordable.

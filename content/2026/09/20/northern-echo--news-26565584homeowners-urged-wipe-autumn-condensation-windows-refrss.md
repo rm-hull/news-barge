@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21477354.jpg?type=og-image
+locations: []
+people:
+- Heath Showman
+organisations:
+- Lifestyle Blinds
 ---
 
 *(Image: Getty Images)*

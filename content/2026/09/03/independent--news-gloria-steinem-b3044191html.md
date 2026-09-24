@@ -16,6 +16,11 @@ categories:
 - UK
 - Society & Culture
 - Arts & Culture
+locations:
+- U.S.
+people:
+- Gloria Steinem
+organisations: []
 ---
 
 Photos show Gloria Steinem through decades as a leading voice of the women’s movement

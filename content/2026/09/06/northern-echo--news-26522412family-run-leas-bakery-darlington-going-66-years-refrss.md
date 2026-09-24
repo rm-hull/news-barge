@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bishop Auckland
+- Carlisle
+- Dalston Road
+- Darlington
+- Echo
+- Thompson Street East
+people:
+- Norman Kershaw
+- Simon Kershaw
+organisations:
+- 5NP
+- Best Bakery
+- LOCALLY House
+- Leas Bakery
+- The Leas
+- The Northern Echo
 ---
 
 For 66 years, the smell of freshly baked goods has drawn customers through the doors of a much-loved Darlington bakery where the same family has served generations of shoppers.

@@ -11,6 +11,34 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88f3/live/c77b2e
 categories:
 - UK
 - News & Politics
+locations:
+- China
+- Fordo
+- France
+- Germany
+- Iran
+- Isfahan
+- Israel
+- Natanz
+- Niger
+- Pickaxe Mountain
+- Russia
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Vantor
+- Vienna
+people:
+- Kazem Gharibabadi
+- Rafael Grossi
+organisations:
+- IAEA
+- International Atomic Energy Agency
+- Pickaxe Mountain
+- Security Council
+- UN
+- Vantor
 ---
 
 ![A Vantor satellite image shows tunnel construction activity and road infrastructure near the Natanz nuclear facility in the area around Pickaxe Mountain in Iran. Photo: September 2025.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/88f3/live/c77b2e90-ac86-11f1-b1d1-571ed4d7ff2c.jpg)

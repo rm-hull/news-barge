@@ -13,6 +13,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Blacker Lane
+- Calder Grove
+- Horbury
+- Leeds General Infirmary
+- Wakefield
+people:
+- James Judge
+- Lee Ellis
+- Oliver Longstaff
+organisations:
+- Leeds Crown Court
 ---
 
 *(Image: SWNS)*

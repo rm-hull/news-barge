@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Penyffordd
+- Shrewsbury
+- UK
+- Wales
+- Wrexham
+people:
+- Carly Estlick
+- Finn
+- Jude
+- Nat
+- Nik Fraser-Edwards
+- Rachel Cutting
+- Sam Beesley
+organisations:
+- BBC Action Line
+- Department of Health and Social Care
+- HFEA
+- Nat
+- Nik
 ---
 
 ![Two blonde, white women, one with her hair tied up and the other with her hair down, in big black coats, stand side by side with their arms around each other. Both are smiling and one of them is holding up a pregnancy test and her wedding ring is visible. They are stood on a beach and in the background there is sand, rocks, as well as the sea.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/030b/live/2b07d250-a6cf-11f1-b0c9-07afcdd8053c.jpg)

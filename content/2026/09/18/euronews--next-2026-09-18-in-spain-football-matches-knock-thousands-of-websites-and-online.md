@@ -14,6 +14,62 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- Córdoba
+- Europe
+- Madrid
+- Spain
+people:
+- Demis Hassabis
+- Halliday
+- Javier Tebas
+- Jensen Huang
+- Junts
+- King Charles
+- LaLiga
+- Vinicius
+organisations:
+- Akamai
+- Alibaba Cloud
+- Amazon AWS
+- Amnesty International
+- Apple
+- Arsenal
+- Biomedical Research Networking Centre
+- CDN
+- Cloudflare IPs
+- Commercial Court
+- Compromís
+- DIGI
+- ECH
+- ERC
+- Elche C.F.
+- Greenpeace
+- LaLiga
+- LaLiga**
+- Meta
+- Microsoft
+- Movistar
+- MásOrange
+- Nvidia
+- OONI
+- Ollama
+- Open Observatory of Network Interference
+- PNV
+- PP
+- PSOE
+- RAE**
+- Real Madrid
+- Redsys**
+- Sumar
+- Telefónica Audiovisual Digital
+- UNHCR
+- UNICEF
+- URL
+- VPNs
+- Vodafone
+- Vox
 ---
 
 ## Spain's football season kick-off has revived LaLiga's court-backed mass IP blocking against piracy, but thousands see websites and services fail whenever a match begins.

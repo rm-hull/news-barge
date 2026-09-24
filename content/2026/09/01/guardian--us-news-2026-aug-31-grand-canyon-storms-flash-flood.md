@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Arizona
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- El Niño
+- Grand Canyon
+- Grand Canyon National Park
+- Grand Canyon Village
+- Pacific Ocean
+- San Antonio
+- San Pedro Creek
+- South Rim
+- Texas
+- Transcanyon Waterline
+- US
+- Woodlawn Park
+people:
+- Dave Black
+- Gabriel Burgeman
+- Heaven
+- Jack Schmidt
+- Parth Desai
+organisations:
+- Center for Colorado River Studies
+- Facebook
+- NPS
+- NWS
+- National Park Service
+- National Weather Service
+- Texas Public Radio
+- The Associated Press
+- Utah State University
 ---
 
 A second death was confirmed by National Park Service officials on Monday after a flash flood sent a surge of water and debris through an area of the Grand Canyon over the weekend.

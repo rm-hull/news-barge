@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/a815a085c28a120c37231b3cfff1ce6b8941a98d/1249_0_5276_4223/master/5276.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d68b1338a1715030d6c2a1df38ff9530
+locations:
+- Europe
+- North America
+- Pacific
+- Paris
+people:
+- Andrew King
+- Radha Govil
+organisations:
+- Environmental Research Letters
+- Peter McMullin Centre on Statelessness
+- UN
+- University of Melbourne
 ---
 
 The unequal impact of the climate crisis on the world’s poorest people, including those in tropical areas, has been highlighted by new research that finds they will be among the last to feel the benefits if global greenhouse gas emissions are cut to net zero.

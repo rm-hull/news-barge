@@ -11,6 +11,16 @@ description: I got hands-on with TCL's new P80 line of phones and nxtPaper table
 image: https://cdn.mos.cms.futurecdn.net/k3RSNkSKjGyYsEcQkakyGi-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Harry Padoan
+organisations:
+- Google News
+- IFA Berlin
+- Max Ink Mode
+- P80
+- TCL
+- TechRadar
 ---
 
 ![TCL P80 Ultra in man's hand](https://cdn.mos.cms.futurecdn.net/k3RSNkSKjGyYsEcQkakyGi.jpg) 

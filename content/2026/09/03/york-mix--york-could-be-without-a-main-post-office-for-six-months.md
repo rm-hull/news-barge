@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Colliergate
+- Coney Street
+- High Street
+- Market Street
+- York
+people: []
+organisations:
+- '***YorkMix***'
+- Colliergate
+- High Court
+- Market Place
+- Micklegate
+- Post Office
+- TG Jones
+- York Post Office
 ---
 
 York could spend six months without a main Post Office.

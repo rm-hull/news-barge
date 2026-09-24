@@ -12,6 +12,34 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.
 categories:
 - Technology & Software
 - Science
+locations:
+- D-Texas
+- I-Vt.
+- OpenAI
+- Sen
+- U.K.
+- U.S.
+people:
+- Alex Sobel
+- Bernie Sanders
+- Connor Leahy
+- Evan Hubinger
+- Greg Casar
+- Jacob Coxon
+- Jeff Dean
+organisations:
+- Anthropic
+- ControlAI
+- Discovery Loop
+- Google DeepMind
+- Guidelight AI Standards
+- Labour
+- OpenAI
+- RL
+- Recursive Superintelligence
+- Ricursive Intelligence
+- Slack
+- TechCrunch
 ---
 
 An Anthropic researcher has resigned over fears that unrestrained development of self-improving AI models will end up killing us all.

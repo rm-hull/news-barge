@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Canada
+- France
+- Germany
+- North America
+- Northeast
+- Pacific Ocean
+- Spain
+- US
+- Western Europe
+people:
+- Antőnio Guterres
+- Samantha Burgess
+organisations:
+- Copernicus
+- Earth
+- El Niño
+- El Niños
+- European Center for Medium-Range Weather Forecasts
+- European Union
+- NASA
+- National Oceanic and Atmospheric Administration
+- UN
 ---
 
 August was the planet’s hottest month ever recorded, capping a remarkably grim summer of heat records. With El Niño strengthening—and climate change continuing to heat things up—more records are likely in store well into next year.

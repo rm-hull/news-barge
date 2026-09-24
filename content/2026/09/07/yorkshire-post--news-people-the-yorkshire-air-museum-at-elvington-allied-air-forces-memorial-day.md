@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Australia
+- Belgium
+- Britain
+- Canada
+- France
+- Gold Beach
+- New Zealand
+- Normandy
+- Poland
+people:
+- James Hardisty
+- Ken Cooke
+organisations:
+- 7th Battalion
+- Allied
+- Commonwealth
+- Green Howards
+- York
+- Yorkshire Air Museum
 ---
 
 Visitors watched a colourful parade featuring 18 ceremonial Standards, while official representatives from France, Belgium, Poland, Canada, Australia and New Zealand joined the commemorations.

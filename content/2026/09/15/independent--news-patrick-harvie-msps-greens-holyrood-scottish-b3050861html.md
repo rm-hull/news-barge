@@ -10,6 +10,22 @@ image: https://static.independent.co.uk/2026/09/16/00/15170832-ef7a4e79-a28a-439
 categories:
 - News & Politics
 - UK
+locations:
+- Auchtertool
+- Edinburgh
+- Fife
+- Holyrood
+- Scotland
+- Wester Hermiston
+people:
+- Andrew Milligan
+- Green
+- Hannah Mary Goodlad
+- Patrick Harvie
+organisations:
+- Scottish Government
+- Scottish Green
+- Scottish Greens
 ---
 
 Holyrood will vote on whether there should be a moratorium on new hyperscale data centres – with Scottish Greens insisting the move is needed to halt a “big tech free-for-all”.

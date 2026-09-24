@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Ainderby Park
+- Romanby Parish
+people:
+- Cllr Jones
+- Jennie Town
+- Nigel Jones
+organisations:
+- Broadacres Community and Sustainability Fund
+- Community and Sustainability Fund
+- Parish Council
 ---
 
 *(Image: Supplied)*

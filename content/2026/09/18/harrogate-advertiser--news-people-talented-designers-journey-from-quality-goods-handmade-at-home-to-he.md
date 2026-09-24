@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhZTQzYWVkLTIxZjMtNGE4Ny05MTNiLTk0MTQ5NDU3ZmQ0MDoyZjEzYWRiYy05N2QxLTQ4YWItYjUzMS01ODNjNWM3NWJkNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harewood House
+- Little Bird Artisan Marketa
+- North Yorkshire
+- Oliveta Harrogate
+- UK
+- Valley Gardens
+people:
+- Belinda
+organisations:
+- Belindas Boutique
+- Harrogate
+- Ripon Christmas Market
+- Station Parade
 ---
 
 # Talented designer's journey from quality goods handmade at home to her own physical store in Harrogate town centre

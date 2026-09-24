@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canva
+- Cleveland
+- County Durham
+- Darlington
+- Hartlepool
+- Middlesbrough
+- North East
+- North West England
+- Redcar
+- Stockton-on-Tees
+- Teesside
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 People across Teesside and County Durham are being warned of thunderstorms, heavy rain and possible hail after the Met Office issued a yellow weather warning.

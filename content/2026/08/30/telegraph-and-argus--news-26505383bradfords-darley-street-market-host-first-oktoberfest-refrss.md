@@ -12,6 +12,28 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bavaria
+- Bradford
+- Courtyard
+- Munich
+- West Yorkshire
+people:
+- Augustiner
+- Hacker-Pschorr
+- Hofbrau
+- Ian Walker
+- Ricky Holden
+organisations:
+- Bradford CAMRA
+- Bradford Council
+- Darley Street Market
+- Lowenbrau
+- Northern Monk
+- Paulaner
+- Spaten
+- Taplins Butchers
+- Yorkshire Oompah Band
 ---
 
 *(Image: Other)*

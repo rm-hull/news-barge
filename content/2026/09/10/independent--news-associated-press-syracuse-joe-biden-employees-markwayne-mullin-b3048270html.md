@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Brazil
+- Cato
+- Georgia
+- New York
+- South Korea
+- South Texas
+- Syracuse
+- U.S.
+- United States
+people:
+- Joe Biden
+- Markwayne Mullin
+- Miss
+- Perry Grossman
+- Trump
+organisations:
+- Associated Press
+- Border Patrol
+- Congress
+- Homeland Security
+- Hyundai
+- ICE
+- ICE’s Homeland Security Investigations
+- New York Civil Liberties Union
+- Nutrition Bar Confectioners
+- Trump
+- Worker Justice Center of New York
 ---
 
 The sprawling snack-food factory in upstate New York appeared to be closed when a small army of immigration officers arrived after 9 a.m. Following a brief discussion of whether to force their way inside, a manager opened the front door.

@@ -12,6 +12,23 @@ categories:
 - UK
 - Technology & Software
 image: https://static.the-independent.com/2026/09/22/15/2282978704..?trim=165,227,1995,384&width=1200&height=800&crop=1200:800
+locations:
+- Cape Cod
+- Chatham
+- Florida
+- Massachusetts
+people:
+- Braden Peters
+- Clavicular
+- Mitchell Jackson
+- Steve Kramer
+organisations:
+- Clavicular
+- NBC News
+- Peters'
+- The Bulwark
+- The Independent
+- The Independent.
 ---
 
 Controversial “looksmaxxing” influencer, Clavicular, is facing rape and drugging charges stemming from an incident in Massachusetts last year, according to online court records.

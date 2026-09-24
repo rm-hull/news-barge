@@ -14,6 +14,26 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- A30
+- Bagshot
+- Camberley
+- Egham
+- Junction 2
+- Junction 3
+- Junction 4
+- Lightwater
+- M25
+- M3
+- Sunningdale
+- Surrey
+people: []
+organisations:
+- HGV
+- National Highways
+- South East Coast Ambulance Service
+- Surrey Fire and Rescue Service
+- Surrey Police
 ---
 
 Commuters are facing severe morning delays after a serious two-lorry collision triggered a 300-litre diesel spill across a busy stretch of the M3 in Surrey.

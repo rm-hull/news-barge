@@ -12,6 +12,22 @@ categories:
 - UK
 - Arts & Culture
 - History
+locations:
+- America
+- Manhattan
+- Texas
+- United States
+people:
+- Bill Schechter
+- Grandma Fleischer
+- Jack Kerouac
+- Johnny Appleseed
+- McDonald
+- Mom
+- Nikita Khrushchev
+organisations:
+- Associated Press
+- McDonald’s
 ---
 
 Flaky, golden crust. Apple juices bubbling through its vents. The scent of cinnamon.

@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/08/31/06/Bessent_Interview_33167.jp
 categories:
 - News & Politics
 - UK
+locations:
+- Asheville
+- Beijing
+- Canada
+- Carolinas
+- China
+- Florida
+- Helene
+- Iran
+- North Carolina
+- Strait of Hormuz
+- U.S.
+- United States
+people:
+- Daniel Fried
+- Donald Trump
+- Scott Bessent
+organisations:
+- AP
+- G20
+- George W. Bush
+- Group of 20
+- The Associated Press
+- Treasury
 ---
 
 Treasury Secretary Scott Bessent wants to rally the world’s largest economies this week at a time when the United States has disrupted the international order with aggressive tariffs on major allies and an unpopular war on Iran is keeping gas prices high for consumers.

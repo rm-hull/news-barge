@@ -12,6 +12,50 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- BBC
+- Brooklyn
+- Leeds
+- London
+- Marcy
+- New York
+- New York Yankees
+- Tottenham Hotspur Stadium
+- UK
+- US
+- Wild
+people:
+- '## Beyoncé'
+- Alicia Keys
+- Blue Ivy
+- DJ Khaled
+- Dean Sithole
+- Forbes
+- Giggs
+- Giggs.**
+- Idris Elba
+- Izzo
+- Jay-Z
+- Jaz-O
+- Kanye West
+- Lauryn Hill
+- Rihanna
+- Rumi
+- Shawn Carter
+- Wyclef Jean
+- Ye
+organisations:
+- BBC Newsbeat
+- Empire State of Mind and Dead Presidents
+- Fugees
+- Interlude
+- Jay-Z
+- LED
+- Numb/Encore
+- Public Service Announcement
+- Roc Nation
+- Rock & Roll Hall of Fame
+- Songwriters Hall of Fame
 ---
 
 ![Jay-Z raps into a microphone while performing on stage. He wears a black and white cardigan and a New York Yankees hat.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d643/live/eafef5b0-a8c4-11f1-998e-85baf5f0ad36.jpg)

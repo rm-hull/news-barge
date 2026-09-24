@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Garforth
+- Yorkshire
+people:
+- Simon Hall
+organisations:
+- Fleurets North Office
+- Mitchells & Butlers
+- Podger
+- Tetley Brewery
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Hillsborough
+- Hungary
+- Malta
+- UK
+people:
+- Caruana Galizia
+- Corinne Vella
+- Daphne Caruana Galizia
+- Iulian Bulai
+- Matthew Caruana Galizia
+- Shami Chakrabarti
+- Yorgen Fenech
+organisations:
+- Council for Europe
+- Council of Europe
+- EU
+- European Commission
+- Grenfell Tower
+- House of Lords
+- Justice
+- Labour
+- Liberty
+- Post Office
 ---
 
 Malta is vulnerable to “repeated instances of high-level corruption” unless it strengthens the rule of law and protections for journalists, the Labour peer Shami Chakrabarti said at the opening of an inquiry into judicial failures following the death of Daphne Caruana Galizia.

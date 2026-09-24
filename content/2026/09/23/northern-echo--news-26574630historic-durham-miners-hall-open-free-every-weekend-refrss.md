@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21491168.jpg?type=og-image
+locations:
+- Consett
+- County Durham
+- Durham Bus Station
+- Redhills
+people:
+- Alix Collingwood
+- Sally Ann Norman
+organisations:
+- Durham Miners’ Hall
+- Redhills
 ---
 
 A historic Durham building is set to open to the public for free every Sunday.

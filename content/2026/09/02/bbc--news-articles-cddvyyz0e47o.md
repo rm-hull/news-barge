@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Canada
+- Canada.
+- Erie
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Huron
+- Lake America
+- Lake Ontario
+- Lake Superior
+- Michigan
+- New York
+- US
+- Washington
+people:
+- Donald Trump
+- Doug Burgum
+- Doug Ford
+- Mark Carney
+organisations:
+- Apple Maps
+- BBC
+- Canadian Apple App Store
+- Geographic Names Information Service
+- Google
+- MapQuest
+- Trump
+- US Department of the Interior
 ---
 
 ![A screenshot of Apple Maps showing Lake America](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/0e1d/live/af1fe3d0-a660-11f1-9e66-d528091f3354.jpg)

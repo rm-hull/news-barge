@@ -12,6 +12,43 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Amuay
+- Andrews
+- Asia
+- Hong Kong
+- Iran
+- Jakarta
+- Jordan
+- Los Taques
+- Md.
+- Middle East
+- Pepperstone
+- Seoul
+- Shanghai
+- Singapore
+- Strait of Hormuz
+- Taipei
+- Tehran
+- Tokyo
+- US
+- United States
+- Venezuela
+- Wall Street
+- Wellington
+- Wyoming
+people:
+- Chris Weston
+- Donald Trump
+- Kevin Warsh
+- Stephen Innes
+organisations:
+- Air Force One
+- Fed
+- Federal Reserve
+- Focus
+- Quintex Intel
+- US Treasury
 ---
 
 ## Oil prices climbed on Monday morning as tensions flared once again in the Middle East and as investors weighed a potential US rate hike.

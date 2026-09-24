@@ -13,6 +13,15 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Cambridge Road
+- Harrogate
+- North Yorkshire
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
+- Tesco Express
 ---
 
 # North Yorkshire Police release CCTV image of man following alleged assault in Harrogate town centre

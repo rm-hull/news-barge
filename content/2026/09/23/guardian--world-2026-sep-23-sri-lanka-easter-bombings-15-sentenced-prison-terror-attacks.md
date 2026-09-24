@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/2a0f4977a90f62bd3e93c42f0a49025baace9ef2/303_2_4914_3931/master/4914.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60a9ff39db2fa10d2a91c6289c65941d
+locations:
+- IS
+- Negombo
+- Sri Lanka
+- Sri Lanka.
+- St Sebastian
+people:
+- Abu Bakhr al-Baghdadi
+- Haripriya Jayasundara
+- Jude Fernando
+- Suresh Salley
+organisations:
+- Islamic State
 ---
 
 A court in Sri Lanka has convicted 15 men on terrorist charges for their involvement in the deadly 2019 Easter bombings and sentenced them each to at least 220 years in prison.

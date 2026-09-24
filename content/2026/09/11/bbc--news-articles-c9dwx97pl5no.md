@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Coron
+- Manila
+- Palawan
+- Philippines
+people:
+- Noemie Cayabyab
+- Roland Lerma
+organisations:
+- Atienza Interisland Ferries
+- BBC
+- PCG
+- Palawan Daily
+- Philippine Coast Guard
 ---
 
 Watch: Crews race to rescue passengers from burning ferry in Philippines

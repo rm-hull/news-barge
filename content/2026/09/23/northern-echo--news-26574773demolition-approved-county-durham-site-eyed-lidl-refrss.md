@@ -14,6 +14,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/19888952.jpg?type=og-image
+locations:
+- County Durham
+- Darlington
+- North East
+- Seaham
+- YOUR
+people: []
+organisations:
+- Durham County Council
+- George Street Industrial Estate
+- Lidl
+- PA
+- Public Notice Portal
+- Riverside
+- Why Durham County Council
 ---
 
 *(Image: PA)*

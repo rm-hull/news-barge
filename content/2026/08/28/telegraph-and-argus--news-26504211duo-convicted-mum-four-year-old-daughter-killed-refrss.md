@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Family & Parenting
 - Automotive
+locations:
+- Buckstone Avenue
+- Leeds Crown Court
+- Moortown
+- Scott Hall Road
+- West Yorkshire
+people:
+- '## Pair'
+- Adel
+- Grant Row
+- Hardeep Bhachu
+- Jasskamal Riyat
+- Justyna Hulboj
+- Lena Czepczor
+- Paul Conroy
+organisations:
+- Audi TT
+- BMW
+- CCTV
+- Major Collision Enquiry Team
+- Vertu Jaguar Leeds
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Deir al-Balah
+- Gaza
+- Israel
+- Jerusalem
+- Palestine
+- al-Qarara
+people:
+- '![Salama'
+- Hanadi
+- Pat Griffiths
+- Salama Ayesh Muhanna
+organisations:
+- Al-Qarara Seed Bank
+- Coventry University
+- Gaza Urban Agriculture Forum
+- Hanadi
+- ICRC
+- ICRC’
+- IPC
+- Integrated Food Security Phase Classification
+- International Committee of the Red Cross
+- Muhanna
 ---
 
 Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza. At just 17, Muhanna had proudly sprouted cucumbers.

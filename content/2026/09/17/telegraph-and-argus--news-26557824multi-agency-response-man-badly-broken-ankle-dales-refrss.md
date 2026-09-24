@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Gordale Scar
+- Malham Tarn
+people:
+- Lesley Tate
+organisations:
+- CRO
+- Cave Rescue Organisation
+- North Yorkshire Police
+- WALKERS
 ---
 
 *(Image: Lesley Tate)*

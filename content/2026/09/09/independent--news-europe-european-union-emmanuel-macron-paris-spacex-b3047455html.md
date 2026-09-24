@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Atlantic
+- China
+- Europe
+- France
+- French Guiana
+- Germany
+- Iran
+- Kourou
+- London
+- Middle East
+- Norway
+- Paris
+- Portugal
+- Russia
+- U.S.
+- Ukraine
+- United States
+- White House
+people:
+- Emiliano Kargieman
+- Emmanuel Macron
+- Jeff Bezos
+- Josef Aschbacher
+- Musk
+- ___ Chan
+organisations:
+- Amazon Leo
+- Ariane
+- Blue Origin
+- ESA
+- Elon Musk
+- European Space Agency
+- European Union
+- Iris2
+- Isar
+- Kyiv
+- Macron
+- NASA
+- News
+- Planet Labs
+- Politico
+- Satellogic
+- SpaceX
+- Starlink
+- Vantor
 ---
 
 Key figures from Europe’s space industry and other international players have converged on Paris to discuss how to advance the continent’s ambitions in a global market dominated by the United States.

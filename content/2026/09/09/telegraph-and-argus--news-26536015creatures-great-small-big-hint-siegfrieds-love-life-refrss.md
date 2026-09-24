@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- The Drovers
+people:
+- Dorothy
+- Helen Williams
+- Maimie McCoy
+- Samuel West
+- Siegfried Farnon
+- Siegfriend
+organisations:
+- All Creatures Great
+- Channel 5
 ---
 
 *(Image: Helen Williams)*

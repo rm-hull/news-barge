@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bab el-Mandeb Strait
+- Basra
+- China
+- Greater
+- Gulf
+- Iran
+- Iraq
+- Lesser Hanish
+- Middle East
+- Mokha
+- Oman
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- United States
+- Yemen
+people:
+- Esmail Baghaei
+- Guo Jiakun
+- Saif al-Badr
+organisations:
+- Foreign Ministry
+- Gulf Cooperation Council
+- Health Ministry
+- Houthis’
 ---
 
 Yemen’s Houthi rebels have seized the strategic islands of Greater and Lesser Hanish in the southern Red Sea, bolstering the Iranian-backed rebels' ability to control a key maritime shipping route.

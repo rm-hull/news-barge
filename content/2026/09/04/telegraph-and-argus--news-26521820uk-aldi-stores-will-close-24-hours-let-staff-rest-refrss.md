@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- M25
+- UK
+people:
+- Julie Ashfield
+- Rachel Geary
+organisations:
+- Aldi Store Assistants
+- Aldi Store Finder
+- Aldi UK
+- All Aldi
+- Morrisons
+- Sainsbury’s
+- Tesco
+- Waitrose
+- Which?
 ---
 
 *(Image: Getty Images)*

@@ -12,6 +12,77 @@ image: https://cdn.mos.cms.futurecdn.net/3s6tWQbZzY2D6f74iMWwAP-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Abu Dhabi
+- Australia
+- Canada
+- Flushing Meadows
+- London
+- NZ
+- New York
+- New Zealand
+- Shelton
+- Tiafoe
+- UK
+- US
+- USTA Billie Jean King National Tennis Center.
+people:
+- Adrian Back
+- Alex Michelsen
+- Arthur Ashe
+- Ben Shelton
+- Big Foe
+- Carlos Alcaraz
+- Daniil Medvedev
+- Frances Tiafoe
+- Jannik Sinner
+- Stan Sport**
+- Stefanos Tsitsipas
+organisations:
+- 9Gem
+- ABC
+- ACCN
+- ACCNX
+- AMC
+- AU
+- CNN
+- CW Sports
+- Champions League
+- Channel 9
+- Disney Plus
+- ESPN Deportes
+- ESPN Select
+- ESPN Select**
+- ESPN Unlimited
+- ESPN**
+- ESPN2
+- ESPNEWS
+- ESPNU
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Hulu
+- NBA
+- NBL
+- NFL Network
+- NOW Sports
+- Newsweek
+- Premier League
+- Red Bull
+- Rugby's Greatest Rivalry
+- SECN
+- Shelton
+- Sky Sports
+- Sky Sports**
+- Stan Sport
+- Super Rugby
+- TNT
+- TSN
+- TechRadar
+- Tiafoe
+- WNBA
+- World Soccer Magazine
+- Yahoo
 ---
 
 ![Ben Shelton reacts against Stefanos Tsitsipas during a Men's Singles match on Day Eight of the 2026 US Open at USTA Billie Jean King National Tennis Center.](https://cdn.mos.cms.futurecdn.net/3s6tWQbZzY2D6f74iMWwAP.jpg) 

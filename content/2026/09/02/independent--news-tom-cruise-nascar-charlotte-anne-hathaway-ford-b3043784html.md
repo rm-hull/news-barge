@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Chevy Suburban
+- Florida
+- Jacksonville
+people:
+- Anne Hathaway
+- Chase Briscoe
+- Cole Trickle
+- Harry Gant
+- Jeff Gordon
+- Joey Logano
+- Kyle Larson
+- Mark Long
+- Neil Bonnett
+- Richard Petty
+- Rick Hendrick
+- Rusty Wallace
+- Tom Cruise
+organisations:
+- City Chevrolet
+- Daytona International Speedway
+- Hendrick Motorsports
+- NASCAR
+- No. 22 Penske Racing Ford
 ---
 
 Joey Logano has won 71 NASCAR races and three Cup Series championships during his illustrious career.

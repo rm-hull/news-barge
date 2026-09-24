@@ -11,6 +11,22 @@ description: Connectivity Assist conflicts with NordVPN’s real-time protection
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/BKMEyLDxYRs8d9ASpx65R6-2401-80.jpg
+locations: []
+people:
+- Laura Tyrylyte
+- NordVPN
+- Silvia Iacovcich
+organisations:
+- API
+- Apple
+- Cloudflare
+- Connectivity Assistant
+- DNS
+- NordVPN
+- Silvia Iacovcich
+- TechRadar
+- VPN
+- WARP
 ---
 
 ![NordVPN app icon](https://cdn.mos.cms.futurecdn.net/BKMEyLDxYRs8d9ASpx65R6.jpg)

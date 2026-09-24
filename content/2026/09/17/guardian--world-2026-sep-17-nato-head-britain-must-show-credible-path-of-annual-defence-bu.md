@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Didcot
+- Ditchley Park
+- Europe
+- Middle East
+- Oxfordshire
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- John Healey
+- Keir Starmer
+- Mark Rutte
+- Wes Streeting
+organisations:
+- BBC
+- Labour
+- Nato
+- Press Association
 ---
 
 Britain needs to show “a credible path” of annual increases in its defence budgets to meet a Nato target of spending nearly £30bn more on the military by the middle of the next decade, the head of the alliance said on Thursday.

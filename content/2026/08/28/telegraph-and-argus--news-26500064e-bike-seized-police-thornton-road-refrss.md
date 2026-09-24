@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford City
+- Thornton Road
+- Thornton Road West Yorkshire
+people: []
+organisations:
+- EAPC
+- EAPCs
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

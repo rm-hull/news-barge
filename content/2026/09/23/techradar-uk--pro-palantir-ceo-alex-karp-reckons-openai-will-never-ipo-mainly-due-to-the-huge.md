@@ -12,6 +12,32 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/6X3ZZcXUrcxus6MyJ3GM7M-2000-80.jpg
+locations:
+- AI
+- US
+people:
+- Alex Karp
+- Guillermo Flor
+- Rahim Amir
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Benzinga
+- CNBC
+- Fortune
+- Google News
+- IPO
+- Luna
+- OpenAI
+- PC
+- PCs
+- Palantir
+- RGB
+- RealClearPolitics
+- SEC
+- SFF
+- TechRadar Pro
 ---
 
 ![OpenAI logo](https://cdn.mos.cms.futurecdn.net/6X3ZZcXUrcxus6MyJ3GM7M.jpg)

@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- California
+- Compton
+- Mexico
+- Nevada
+- Paradise
+- Texas
+- Virginia
+- Watts
+people:
+- Binu Palal
+- Deandre Smith
+- Duane “Keffe D” Davis
+- Glock
+- Keffe D’ Davis
+- Marc DiGiacomo
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando Anderson
+- Pac
+- Terrance Brown
+- Tupac Shakur
+organisations:
+- CBS News
+- Cadillac
+- Death Row Records
+- South Side Compton Crips
+- South Side Crips
+- The Bloods
+- The Guardian
 ---
 
 Former gang leader Duane “Keffe D” Davis has been found guilty of orchestrating the 1996 murder of rap legend Tupac Shakur.

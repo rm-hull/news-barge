@@ -11,6 +11,19 @@ image: https://static.independent.co.uk/2026/09/16/12/06/BNPS_PaulPressland_05.j
 categories:
 - News & Politics
 - UK
+locations:
+- Dorset
+- Poole
+- Salisbury Crown Court
+- Sandbanks
+- Thailand
+people:
+- Gemma Martin
+- Ms Martin
+- Paul Pressland
+- Ugg
+organisations:
+- CPS
 ---
 
 A wealthy property developer has been found not guilty of strangling his estranged wife in a divorce row at their £3m Sandbanks home.

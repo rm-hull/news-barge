@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - News & Politics
 - Sports
+locations:
+- Barnsley
+- Barnsley.
+- Harrogate
+- North Yorkshire
+- Smithies Lane
+- South Yorkshire Police
+people:
+- Joanne Chambers
+organisations: []
 ---
 
 ![A road junction, with the roads quiet. Trees line the roads.](https://ichef.bbci.co.uk/ace/standard/812/cpsprodpb/38a6/live/a7f93bd0-a46f-11f1-8259-2dbebdceda25.png)

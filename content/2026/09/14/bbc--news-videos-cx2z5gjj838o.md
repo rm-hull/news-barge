@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Kyiv
+- Russia
+- UK
+- Ukraine
+- Ukraine-Poland
+- Yahodyn
+people:
+- Boris Johnson
+- James Landale
+- Jonathan Powell
+organisations:
+- BBC
 ---
 
 # Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation

@@ -13,6 +13,24 @@ categories:
 - UK
 - Law & Justice
 - Society & Culture
+locations:
+- Atlanta
+- Georgia
+- Jackson
+people:
+- Brian Kammer
+- Brian Kemp
+- Cyndi Williams
+- Humphreys'
+- Lori Brown
+- Sabrina Graham
+- Stacey Humphreys
+- Tyler Browning
+organisations:
+- Board of Pardons
+- Cobb County Superior Court
+- Georgia Supreme Court
+- Paroles
 ---
 
 A Georgia judge has put on hold an execution scheduled for Wednesday, saying the condemned prisoner is entitled to a hearing on whether his sentence should be reduced under a new state law that allows victims of abuse to have their sentences reconsidered.

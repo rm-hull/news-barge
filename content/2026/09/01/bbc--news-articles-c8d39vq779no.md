@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Downing Street
+- Europe
+- Iran
+- Japan
+- UK
+- US
+- USA
+people:
+- Andy Burnham
+- John Healey
+- Karen Ward
+- Kathleen Brooks
+organisations:
+- BBC News Channel
+- Budget
+- G20
+- G7
+- JP Morgan
+- XTB
 ---
 
 ![Crowds of people in suits walking to work](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/2b72/live/3d5d23f0-a5f9-11f1-8348-fb0cb1cd9761.jpg)

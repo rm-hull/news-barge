@@ -11,6 +11,18 @@ description: This is not your average Roomba
 image: https://cdn.mos.cms.futurecdn.net/VuzQbrQiKqggyvpkNUczSE-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Adam Pope
+- Ruth Hamilton
+organisations:
+- Google News
+- IFA
+- Product Planning & Development
+- Robovac
+- Ruth
+- TechRadar
+- iRobot Roomba Duo
 ---
 
 ![iRobot Roomba Duo robot vacuum being demoed at IFA](https://cdn.mos.cms.futurecdn.net/VuzQbrQiKqggyvpkNUczSE.jpg) 

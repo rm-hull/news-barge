@@ -11,6 +11,23 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Instawork
+- Snagajob
+people:
+- '### Snagajob'
+- Stefan Ionescu
+organisations:
+- '### Snagajob'
+- '### TechRadar Verdict'
+- Help Center
+- Indeed
+- Instawork
+- LinkedIn
+- MSc
+- TechRadar Pro
+- TechRadar Snagajob
+- WorkWhile
 ---
 
 ### TechRadar Verdict

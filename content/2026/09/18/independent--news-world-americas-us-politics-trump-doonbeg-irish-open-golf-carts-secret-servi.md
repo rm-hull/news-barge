@@ -12,6 +12,45 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/13/20/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- An Garda Síochána
+- Atlantic
+- Bedminster
+- Doonbeg
+- Dublin
+- Galway
+- Ireland
+- New Jersey
+- New York
+- Poughkeepsie
+- Scotland
+- U.S.
+- United States
+- White House
+people:
+- Catherine Connolly
+- Don Jr.
+- Donald Trump
+- Eric Trump
+- Jesus
+- McManus
+- Micheál Martin
+- Morrissey
+- Rosie O’Donnell
+organisations:
+- ATM
+- Adare Manor
+- Air Force
+- Associates Golf Car Service
+- BBC News
+- Government Accountability Office
+- House Oversight Committee
+- Limerick
+- RTE
+- Secret Service
+- The Independent
+- Trump International Golf Links & Hotel
+- Trump Organization
 ---
 
 The American public spent nearly $30,000 on “urgent” golf cart rentals for Donald Trump’s Secret Service detail as the president visited his eponymous country club in Doonbeg, Ireland, according to federal procurement records reviewed by *The Independent*.

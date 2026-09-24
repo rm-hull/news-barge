@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- British Columbia
+- Canada
+- Hydro
+- Mackenzie
+- WAC Bennett Dam
+- Williston Reservoir
+people:
+- Bob Gammer
+organisations:
+- B.C
+- CBC
+- Hydro
+- NFL
 ---
 
 A large tree-covered island that mysteriously appeared — then disappeared — in northwestern Canada has been found once again.

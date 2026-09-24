@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- China
+- Halewood
+- Slovakia
+- South Carolina
+- Spartanburg
+- Tuscaloosa
+- UK
+- US
+- West Midlands
+people:
+- David Bailey
+- Donald Trump
+- Ian Robertson
+- Jonathan Reynolds
+- Liam Byrne
+- PB Balaji
+- Richard Holden
+- Sharon Graham
+organisations:
+- BBC
+- BMW
+- Birmingham University
+- Brexit
+- JLR
+- Jaguar Land Rover
+- Labour
+- Mercedes
+- UK Sustainable Investment and Finance Association
+- Unite
+- ZEV
 ---
 
 ![A photo taken in Halewood in 2025 shows rows of Range Rovers on the tarmac at a JLR factory outside on a sunny day.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg)

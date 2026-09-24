@@ -13,6 +13,30 @@ categories:
 - Society & Culture
 - True Crime
 image: https://images.euronews.com/articles/stories/09/92/08/11/1200x675_cmsv2_03b4c305-c9e1-5444-bc62-a0cf8323ec79-9920811.jpg
+locations:
+- Austin
+- Minneapolis
+- Texas
+- US
+- United States
+- White House
+people:
+- Biden
+- Donald Trump
+- Garces Perez
+- Greg Casar
+- Kate Lincoln-Goldfinch
+- Kirk Watson
+- Renee Good
+- Ruben Ray Martinez
+- Wilber Rafael Garces Perez
+organisations:
+- Department of Homeland Security
+- FBI
+- House
+- ICE
+- Texas Tribune
+- US Immigration and Customs Enforcement
 ---
 
 ## The Mayor of Austin, Kirk Watson, has called for an independent probe involving local police, saying ICE should not investigate the incident by itself.

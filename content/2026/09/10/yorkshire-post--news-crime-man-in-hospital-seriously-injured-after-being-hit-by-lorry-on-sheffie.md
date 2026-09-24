@@ -15,6 +15,12 @@ categories:
 - Sports
 - Health & Fitness
 - News & Politics
+locations:
+- Scania
+- Sheffield Parkway
+people: []
+organisations:
+- South Yorkshire Police
 ---
 
 # Man in hospital seriously injured after being hit by lorry on Sheffield Parkway

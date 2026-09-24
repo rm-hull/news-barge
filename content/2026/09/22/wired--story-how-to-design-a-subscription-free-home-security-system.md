@@ -14,6 +14,14 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab0c2f2fbf8b6e0f19ea128/191:100/w_1280,c_limit/How-To-DIY-a-Subscription-Free-Security-System.jpg
+locations: []
+people:
+- Abode
+organisations:
+- ADT
+- Abode
+- SimpliSafe
+- Vivint
 ---
 
 No one wants to worry about a break-in. But no one wants to end up paying fees every month just to check their video doorbell feed or find out their window was broken, and most smart security systems (even the original ones that weren't touted as smart!) rely on your fear to have you paying month after month for the promise of catching burglars and stopping intruders for you.

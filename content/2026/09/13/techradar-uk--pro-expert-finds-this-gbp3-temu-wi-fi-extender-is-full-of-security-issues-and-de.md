@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/q8rXV4rnByXw28AGiSLWQg-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Keiran Smith
+organisations:
+- Efosa
+- Google News
+- MAC
+- MediaTek MT7620
+- TechRadar Pro
+- Temu
 ---
 
 ![Temu Wi-Fi Extender](https://cdn.mos.cms.futurecdn.net/q8rXV4rnByXw28AGiSLWQg.png) 

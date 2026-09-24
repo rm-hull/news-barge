@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/06/10/2026-09-05T165232Z_2015186
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- US
+people:
+- Dan Jukes
+- James Orr
+- Laura Kuenssberg
+- Nigel Farage
+- Robert Jenrick
+organisations:
+- BBC
+- Channel 4
+- KC
+- Labour
+- Lib Dems
+- Metropolitan Police
+- Reform
+- Sky News
+- Treasury
+- Verbatim
 ---
 
 Footage appearing to show senior Reform figures discussing how to disguise donations from foreign sources “looks bad” for the party, Nigel Farage has admitted.

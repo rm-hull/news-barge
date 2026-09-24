@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/CyNTvUWHyFkHoRVAMptmGa-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Eiji Aonuma
+- Link
+- Zelda
+organisations:
+- AI
+- Aonuma
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Nintendo
+- Nvidia
+- Steam Deck OLED3
+- TechRadar
+- Unreal Engine
 ---
 
 ![The Legend of Zelda: Ocarina of Time Remake](https://cdn.mos.cms.futurecdn.net/CyNTvUWHyFkHoRVAMptmGa.jpg) 

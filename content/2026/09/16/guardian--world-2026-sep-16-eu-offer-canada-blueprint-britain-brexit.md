@@ -12,6 +12,38 @@ image: https://i.guim.co.uk/img/media/4cd77e51ac8305a851054aa696b8fafe199b768f/4
 categories:
 - UK
 - News & Politics
+locations:
+- Brussels
+- Canada
+- China
+- Europe
+- Iceland
+- Japan
+- Ottawa
+- Strasbourg
+- UK
+- Ukraine
+- Washington
+people:
+- Andy Burnham
+- Bernd Lange
+- Donald Trump
+- Fabian Zuleeg
+- Jennifer Rankin
+- Joel Reland
+- Keir Starmer
+- Kyiv
+- Mark Carney
+- Tobias Cremer
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Economic Area
+- European Policy Centre
+- Reland
+- State of the Union
 ---
 
 Canada’s prime minister, Mark Carney, has been advocating closer alignment with “middle powers” since January in the face of recklessness in Washington.

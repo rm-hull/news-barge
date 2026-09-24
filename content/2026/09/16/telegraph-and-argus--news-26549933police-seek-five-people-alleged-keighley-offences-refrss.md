@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Keighley
+- Keighley.
+- West Yorkshire
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- Criminal Damage
 ---
 
 *(Image: WYP)*

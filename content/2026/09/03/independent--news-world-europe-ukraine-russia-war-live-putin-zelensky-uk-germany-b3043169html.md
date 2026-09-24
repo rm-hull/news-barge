@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berlin
+- Black Sea
+- Germany
+- Kremlin
+- Kyiv
+- Leipzig Airport
+- London
+- Moscow
+- Odesa
+- Romania
+- Russia
+- Russian Federation
+- UK
+- Ukraine
+- Vnukovo
+people:
+- Andrei Nikitin
+- Andrii Sybiha
+- Denys Shmyhal
+- Dmitry Medvedev
+- Friedrich Merz
+- Juan Carlos Salazar
+- Maira Butt
+- Mykola Kalashnyk
+- Putin
+- Serhiy Lysak
+- Volodymyr Zelenksy
+- Volodymyr Zelensky
+organisations:
+- '## Citibank'
+- '## Kyiv'
+- Alfa-Bank JSC
+- Credit Bank of Moscow
+- Flightradar24
+- ICAO
+- Interfax
+- International Civil Aviation Organisation
+- International Civil Aviation Organization
+- Ministry of Defence
+- OFSI
+- Office of Financial Sanctions Implementation
+- PJSC Gazprombank
+- Pegasus Airlines
+- Reuters
+- Russian National Guard
+- Sheremetyevo International Airport
+- Telegram
+- UN
 ---
 
 Russian former president Dmitry Medvedev has threatened Germany with a “direct strike” on military production sites after Berlin accused Moscow of being behind a drone attack on Leipzig Airport last month.

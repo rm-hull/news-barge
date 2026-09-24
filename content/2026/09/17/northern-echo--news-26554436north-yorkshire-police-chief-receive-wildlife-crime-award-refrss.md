@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Darlington
+- Durham
+- Greggs
+- London
+- North Yorkshire
+- Ripon
+- UK
+people:
+- Kevin Lacks-Kelly
+- Michaela Strachan
+organisations:
+- BAFTA
+- IFAW
+- International Fund for Animal Welfare
+- NWCU
+- National Wildlife Crime Unit
+- RSPCA
+- UK National Wildlife Crime Unit
 ---
 
 *(Image: SUBMIT)*

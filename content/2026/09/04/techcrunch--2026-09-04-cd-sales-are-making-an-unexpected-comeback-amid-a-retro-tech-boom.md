@@ -11,6 +11,19 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headp
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Dumb Co
+- Light
+- Minimal
+- Ooma
+- RIAA
+- Recording Industry Association of America
+- Retrospekt
+- Spotify
+- Tin Can
+- eBay
 ---
 
 Retro tech is making a comeback, and this week, the Recording Industry Association of America (RIAA) put hard numbers to that trend in terms of music consumption habits. Surprisingly, the organization reported that CDs — yes, the shiny, round things that Spotify supposedly killed — are growing once again.

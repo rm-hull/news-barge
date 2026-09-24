@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Beijing
+- Britain
+- China
+- Friendship Bridge
+- Gyirong
+- Himalayas
+- India
+- Kathmandu
+- Latvia
+- Nepal
+- Nepal-China
+- Tibet
+- UK
+- US
+people:
+- Hema Sunil Amin
+- Hemangini Jitendra Patel
+- Li Qiang
+- Tommy Pigott
+organisations:
+- CCTV
+- Foreign Office
 ---
 
 Fifteen British nationals are reported to be missing in China as the search continues for survivors of the devastating flooding in Nepal and Tibet.

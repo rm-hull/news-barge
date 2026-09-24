@@ -11,6 +11,21 @@ description: Prices for the Philips Hue Bridge Pro have gone up by $40, but new 
 image: https://cdn.mos.cms.futurecdn.net/HhwDShSv98bUNMHiW8EJHo-1500-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Hue
+- UK
+- US
+people:
+- Rowan Davies
+organisations:
+- Bridge Pro
+- Google News
+- Hue Blog
+- Hue Essential
+- Philips Hue
+- Philips Hue Bridge Pro
+- TechRadar
 ---
 
 ![The Philips Hue Bridge Pro.](https://cdn.mos.cms.futurecdn.net/HhwDShSv98bUNMHiW8EJHo.jpg) 

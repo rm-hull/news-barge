@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Bernie Sanders
+- Donald Trump
+organisations:
+- AI
+- BBC Newsnight
+- Congress
 ---
 
 # Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence

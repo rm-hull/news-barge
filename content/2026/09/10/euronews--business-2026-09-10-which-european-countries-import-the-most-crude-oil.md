@@ -12,6 +12,54 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Belgium
+- Bulgaria
+- Bundestag
+- Croatia
+- Cyprus
+- Denmark
+- Duisburg
+- Europe
+- France
+- Germany
+- Greece
+- Gulf
+- Hungary
+- Iraq
+- Ireland
+- Italy
+- Kazakhstan
+- Libya
+- Luxembourg
+- Malta
+- Middle Eastern
+- Netherlands’
+- Nigeria
+- Norway
+- Poland
+- Portugal
+- Romania
+- Rotterdam
+- Saudi Arabia
+- Spain
+- Strait of Hormuz
+- Sweden
+- The Netherlands
+- US
+- United States
+people:
+- Friedrich Merz
+organisations:
+- '## Brent'
+- Council of the European Union
+- EU
+- European Central Bank
+- European Union
+- Eurostat
+- Federal Reserve
+- Gulf Cooperation Council
+- Krupp Mannesmann
 ---
 
 ## Brent topped $100 after fresh Strait of Hormuz attacks. Eurostat data shows which European countries buy the most oil and who is most exposed.

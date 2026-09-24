@@ -14,6 +14,36 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Los Angeles
+- Navier-Stokes
+people:
+- AI
+- Alpöge
+- Fermat
+- Levent
+- Mark Chen
+- Martin Bridson
+- OpenAI
+- Paul Erdős
+- Sébastien Bubeck
+- Terence Tao
+- Tristan Buckmaster
+- Venkat Chandrasekaran
+organisations:
+- AI
+- Anthropic
+- Buckmaster
+- Claude Fable
+- Clay Mathematics Institute
+- Codex
+- Euler
+- LLMs
+- Levent Alpöge
+- Navier-Stokes
+- New York University
+- OpenAI
+- University of California
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311327716.jpg?w=840)

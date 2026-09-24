@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- England
+- New Darlington
+- North East
+- North Yorkshire
+- SYMCA
+- UK
+people:
+- Dharmendra Shadija
+- Jessica Armitage
+organisations:
+- GCHQ
+- Government
+- Made Smarter Yorkshire
+- Make UK
+- NCSC
+- NIGEL BARKER PHOTOGRAPHY
+- National Cyber Security Centre
+- SME
+- School of Computing and Digital Technologies
+- Sheffield Hallam University
 ---
 
 *(Image: SYMCA)*

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04b4/live/dbe02390-b4f6-11f1-947c-4906c0564be0.jpg
+locations:
+- Princess of Wales
+people:
+- Diana
+- Earl Spencer
+- Laura Kuenssberg
+organisations:
+- BBC One
+- BBC iPlayer
+- Royal Family
 ---
 
 # Watch: Emotional Earl Spencer says he misses sister Diana every day

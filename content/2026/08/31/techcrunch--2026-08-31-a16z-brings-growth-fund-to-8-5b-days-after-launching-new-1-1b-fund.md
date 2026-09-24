@@ -12,6 +12,14 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- David George
+organisations:
+- AI
+- Andreessen Horowitz
+- Machine Age Fund
+- a16z
 ---
 
 Venture capital firm Andreessen Horowitz has expanded its fifth growth fund to $8.5 billion. That means the firm added another $1.75 billion since the fund launched in January with $6.75 billion.

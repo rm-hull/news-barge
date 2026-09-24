@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483733.jpg?type=og-image
+locations:
+- Halifax
+people:
+- Alfie Boe
+- Jack Savoretti
+- James Morrison
+- Nicky Chance-Thompson
+- Ronan Keating
+organisations:
+- KAISER Chiefs
+- Kaiser Chiefs'
+- Leeds
+- Simply Red
+- The Piece Hall
+- The Piece Hall Charitable Trust
+- Yorkshire
 ---
 
 *(Image: Supplied)*

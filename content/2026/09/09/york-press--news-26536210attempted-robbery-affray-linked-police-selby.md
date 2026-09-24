@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Micklegate
+- North Yorkshire
+- Selby
+- The Bay Horse
+people: []
+organisations:
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

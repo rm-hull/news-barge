@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Bridlington
+- East Yorkshire
+- Naked Fish
+- North Sea
+- Scarborough
+people:
+- Naked Fish
+- Yorkshireman
+organisations:
+- Naked Fish
+- Tripadvisor
 ---
 
 ## 'Absolute treat' Bridlington fish and chip shop that locals rave about

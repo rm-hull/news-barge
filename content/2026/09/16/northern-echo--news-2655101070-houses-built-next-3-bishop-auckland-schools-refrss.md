@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Bishop Auckland
+- Cheesmond Avenue
+- County Durham
+- Kitchen Avenue
+- Saint Wilfrid
+- YOUR
+people: []
+organisations:
+- Bishop Auckland College
+- Catholic Primary School
+- DURHAM COUNTY COUNCIL PLANNING PORTAL
+- Durham County Council
+- Durham HMO
+- Gleeson Regeneration
+- Public Notice Portal
+- Sixth Form College
+- South and West Area Planning Committee
+- St John's School
 ---
 
 ### What is the Public Notice Portal?

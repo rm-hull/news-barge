@@ -12,6 +12,26 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-320-80.png
+locations:
+- Argentina
+- China
+- El Reno
+- Iran
+- New York
+- Oklahoma
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+- Virginia
+people:
+- Trump
+organisations:
+- Amazon
+- Anthropic
+- Bitcoin
+- Get Tom's Hardware
+- OpenAI
 ---
 
 ![an under construction data center](https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-320-80.png)

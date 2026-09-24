@@ -10,6 +10,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/8eDTMGxjkXScGZj7ux5yhC-1376-80.jpg
+locations:
+- India
+- West Bengal
+people:
+- Ritoban Mukherjee
+organisations:
+- AI
+- Creative Bloq
+- Gizmodo
+- IT Pro
+- Quartz
+- Ritoban Mukherjee
+- SSL
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![woman in a modern office using a laptop](https://cdn.mos.cms.futurecdn.net/8eDTMGxjkXScGZj7ux5yhC.jpg)

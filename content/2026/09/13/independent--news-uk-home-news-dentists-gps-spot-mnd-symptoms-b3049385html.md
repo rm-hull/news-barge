@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Dorset
+- Jurassic Coast
+- NHS
+- Poole
+- Scotland
+- UK
+people:
+- Andy Vaughton
+- Doddie Weir
+- Jessica Lee
+organisations:
+- MND
+- My Name’5 Doddie Foundation
 ---
 
 Healthcare professionals, including dentists and GPs, are being offered targeted training to spot potential early signs of motor neurone disease (MND) under a brand new initiative.

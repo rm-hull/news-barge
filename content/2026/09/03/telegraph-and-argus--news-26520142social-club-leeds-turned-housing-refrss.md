@@ -13,6 +13,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Grange View
+- Potternewton Park
+- YOUR
+people: []
+organisations:
+- Housing Leeds
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: Google)*

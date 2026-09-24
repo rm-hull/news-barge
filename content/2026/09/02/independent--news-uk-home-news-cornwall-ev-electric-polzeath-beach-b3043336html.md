@@ -13,6 +13,13 @@ categories:
 - Automotive
 - Travel
 - Technology & Software
+locations:
+- Cornwall
+- Jam Press
+- Polzeath
+people: []
+organisations:
+- NeedToKnow
 ---
 
 A car was found stranded on a beach in Cornwall after getting stuck in the sand as the rising tide gradually closed in.

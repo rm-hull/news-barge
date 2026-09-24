@@ -13,6 +13,22 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/22/08/2292989149..?trim=96,0,96,0&width=1200&height=800&crop=1200:800
+locations:
+- Massachusetts
+people:
+- Baby Murderer
+- Edward Paltzik
+- Kevin Reddington
+- Killer Mom
+- Lindsay Clancy
+- Michael Desronvil
+- Patrick Clancy
+- Rachel Danis
+- Rachel Denis
+- Timothy Cruz
+organisations:
+- Desronvil
+- Plymouth County
 ---
 
 Defense lawyers for Lindsay Clancy are targeting the lone holdout juror who blocked her acquittal, asking a judge to probe whether he secretly used a cellphone during deliberations in the prosecution of the Massachusetts mother accused of strangling her three young children.

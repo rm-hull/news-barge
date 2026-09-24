@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21474886.jpg?type=og-image&xType=0&yType=114
+locations:
+- Aldi
+- County Durham
+- High Street
+- Hinderwell
+- Holme Farm
+- Inglebys
+- North York Moors National Park
+- North Yorkshire
+- Runswick Bay
+- Saltburn
+- Saltburn-By-The-Sea
+- Staithes
+- Tees Valley
+- Teesside
+- The Folly
+people:
+- Andy McFaull
+- Tyreman
+organisations:
+- Auction House North Yorkshire
+- Inglebys Estate Agents
+- Tees Valley
+- Weardale
 ---
 
 A historic North Yorkshire farmhouse with a holiday let and a barn ripe for conversion is going under the hammer later this month.

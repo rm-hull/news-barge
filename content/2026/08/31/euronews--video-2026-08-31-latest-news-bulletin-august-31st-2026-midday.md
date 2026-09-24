@@ -12,6 +12,48 @@ image: https://images.euronews.com/articles/stories/09/89/54/01/1200x675_cmsv2_c
 categories:
 - Europe
 - News & Politics
+locations:
+- Argentina
+- Bandar Abbas
+- Bright Angel Creek
+- East Rutherford
+- Europe
+- Fos-Lavera
+- France
+- Grand Canyon
+- Iceland
+- Iran
+- Italy
+- Kyrenia
+- Lake America
+- Lake Ontario
+- Marseille
+- Menton
+- N.J.
+- New York
+- Nuwakot
+- Phantom Ranger Station
+- St. Louis
+- Strait of Hormuz
+- Tashkent
+- Trishuli river
+people:
+- Gunnlaugur Erlendsson
+- Jeff Roberson
+- Lionel Messi
+- Liu Zhenmin
+- Narendra Modi
+- Philippe Magoni
+- Shavkat Mirziyoyev
+- Wopke Hoekstra
+organisations:
+- 15th International Conference of Insurance Europe
+- Argentina
+- Clean Growth
+- Euronews
+- Google
+- Net Zero
+- Spain
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

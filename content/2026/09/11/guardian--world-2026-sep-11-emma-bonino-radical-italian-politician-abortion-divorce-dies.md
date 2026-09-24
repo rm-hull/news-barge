@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Europe
+- Italy
+- Vatican
+people:
+- Domenica
+- Emma Bonino
+- Francis
+- Giorgia Meloni
+- Giovanni
+organisations:
+- EU
+- Facebook
+- Guardian
+- Italian TV
+- More Europe
+- Radical
 ---
 
 Emma Bonino, the radical Italian politician who led campaigns to legalise abortion and divorce against the objections of the Vatican, has died aged 78.

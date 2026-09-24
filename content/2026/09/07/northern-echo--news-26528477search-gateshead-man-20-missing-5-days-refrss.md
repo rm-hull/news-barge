@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Archbold Terrace
+- City Road
+- Gateshead
+- Jesmond
+- Newcastle City Centre
+- Tower Street
+people:
+- John
+organisations:
+- CCTV
+- Northumbria Police
 ---
 
 *(Image: Northumbria Police)*

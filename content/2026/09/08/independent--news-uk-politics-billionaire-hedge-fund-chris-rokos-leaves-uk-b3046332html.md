@@ -14,6 +14,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Greece
+- Italy
+- UK
+people:
+- Andrew Griffith
+- Chris Rokos
+- John Healey
+- Lakshmi Mittal
+- Pat McFadden
+organisations:
+- Bloomberg
+- EU
+- Labour
+- Rokos Capital Management
+- Sky News
+- Treasury
 ---
 
 The billionaire hedge fund founder Chris Rokos is reportedly moving to Greece amid fears of tax rises in the autumn Budget.

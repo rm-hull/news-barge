@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Northumberland
+- Spennymoor
+people:
+- Adam
+- Dean Lawrence
+- Ethan
+- Jeremy Clarkson
+- Macmillan
+- REBECCA LAWRENCE
+- Rebecca Lawrence
+organisations:
+- Macmillan Cancer Support
+- Macmillan’s
+- Northumbrian Water
 ---
 
 A County Durham woman who successfully overcame cervical cancer is raising thousands of pounds for Macmillan Cancer Support while encouraging other women to attend potentially life-saving screening appointments.

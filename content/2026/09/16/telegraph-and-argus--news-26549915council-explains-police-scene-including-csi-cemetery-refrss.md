@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Windhill Cemetery
+people: []
+organisations:
+- Bereavement Services
+- Bradford Council
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

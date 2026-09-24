@@ -11,6 +11,46 @@ image: https://static.independent.co.uk/2026/09/15/7/41/lucy-letby-new.jpeg?trim
 categories:
 - News & Politics
 - UK
+locations:
+- Countess of Chester
+- Countess of Chester Hospital
+- England
+- Liverpool
+- London
+- Ockenden
+- UK
+people:
+- Alex Ross
+- Dame Vera Baird
+- Geoff Chase
+- Helen Shannon
+- Justice Thirlwall
+- Justice Thirwall
+- Lucy Letby
+- Mark McDonald
+- Rebecca Thomas
+- Shoo Lee
+- Tamlin Bolton
+organisations:
+- '## NHS'
+- '## Thirwall Inquiry'
+- BBC Newsnight
+- CCRC
+- Countess of Chester
+- Criminal Cases Review Commission
+- DSHC
+- HCPC
+- Health and Care Professions Council
+- Infected Blood
+- Infected Blood Inquiry
+- Irwin Mitchell
+- Jimmy Savile
+- Lucy Letby
+- Manchester Crown Court
+- The Countess of Chester NHS Trust
+- The Independent
+- The Thirwall Inquiry
+- Thirlwall Inquiry
 ---
 
 A major report into the hospital where killer nurse Lucy Letby carried out her crimes is set to be published on Tuesday afternoon.

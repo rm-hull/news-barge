@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Hayling Island
+- North East
+- Porthcawl
+- Redcar
+- Saving Lives at Sea
+- South Wales
+- Teesside
+- UK
+- WATSON
+people:
+- ANDY WATSON
+- Richard Osman Amanda Owen
+organisations:
+- BBC Two
+- Devon
+- Our Yorkshire Farm
+- RNLI Redcar
+- Redcar RNLI
+- Saving Lives at Sea’
 ---
 
 A dramatic rescue off the Redcar coast will be showcased to a national television audience this week when Redcar RNLI features in BBC Two’s ‘Saving Lives at Sea’.

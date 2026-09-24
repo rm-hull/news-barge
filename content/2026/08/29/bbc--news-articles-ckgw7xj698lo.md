@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Buncefield
+- England
+- Halifax
+- Midlands
+- New Zealand
+- Plymouth
+- Stourbridge
+- UK
+- US
+- Wales
+- West Yorkshire
+people:
+- Andy Burnham
+- Frazer Rhodes
+- Louise Haigh
+- Nick Corney
+- Oliver Dowden
+- Rishi Sunak
+organisations:
+- BBC News
+- Cabinet Office
+- Cobra
+- Conservative
+- Frazer Rhodes
+- Houses of Parliament.
+- Labour
+- National Fire Chiefs Council
+- Oliver Dowden
 ---
 
 ![A man holds a phone in front of a green field. The phone is displaying the UK government wildfire alert.](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/28eb/live/db8efd90-a2f3-11f1-8d5b-155abe464768.jpg)

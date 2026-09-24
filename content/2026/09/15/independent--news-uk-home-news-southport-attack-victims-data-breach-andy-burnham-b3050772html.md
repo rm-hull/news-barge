@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - True Crime
 - Law & Justice
+locations:
+- Merseyside
+- Southport
+people:
+- Alex Norris
+- Alice da Silva Aguiar
+- Andy Burnham
+- Axel Rudakubana
+- Bebe King
+- Elsie Dot Stancombe
+- Taylor Swift
+organisations:
+- Courts and Tribunals Service
+- Information Commissioner's Office
+- Ministry of Justice
 ---
 
 Government staff looked up details on computers of victims, survivors, and witnesses of the Southport attack when they had no right to, it has emerged.

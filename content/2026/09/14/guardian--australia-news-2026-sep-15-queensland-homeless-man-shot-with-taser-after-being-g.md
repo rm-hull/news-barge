@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Clontarf
+- Lawnton
+- Moreton Bay
+- Pelican Park
+- Queensland
+- Royal Brisbane
+- South Australia
+- Townsville
+people:
+- Beau Haywood
+- Martin
+organisations:
+- Guardian
+- Metro North
+- Nourish Street
+- QPS
+- Taser
 ---
 
 A homeless man was shot with a Taser by police after attempting to take his own life during a tent city clearance, sparking calls for mental health considerations when dealing with move-on orders amid Queensland’s homelessness crisis.

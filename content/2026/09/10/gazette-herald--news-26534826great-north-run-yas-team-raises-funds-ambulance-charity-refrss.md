@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Keighley
+- Newcastle
+- South Shields
+- Yorkshire
+people:
+- Carey Taylor
+- Julie Armitage
+- Kimberley Swart
+- Lesley Butterworth
+organisations:
+- Wakefield
+- YAS Charity
+- YAS Charity JustGiving
+- Yorkshire Ambulance Service
+- Yorkshire Ambulance Service Charity
 ---
 
 Yorkshire Ambulance Service staff are lacing up their trainers for this year’s Great North Run to raise funds for their official charity.

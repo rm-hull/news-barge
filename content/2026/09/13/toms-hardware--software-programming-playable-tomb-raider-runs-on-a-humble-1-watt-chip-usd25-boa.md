@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/AMMnDxVJMstjTqgsYNL2XQ-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Lara Croft
+- Mark Tyson
+- Tom
+organisations:
+- 64MB PSRAM
+- DSP
+- ESP32-P4
+- FPU
+- Google News
+- OpenLara
+- PPA
+- Tom's Hardware
+- Tomb Raider
 ---
 
 ![OpenLara on ESP32](https://cdn.mos.cms.futurecdn.net/AMMnDxVJMstjTqgsYNL2XQ.jpg) 

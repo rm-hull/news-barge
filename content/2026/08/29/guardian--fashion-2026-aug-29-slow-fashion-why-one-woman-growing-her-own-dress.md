@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Ghana
+- India
+- Vermont
+people:
+- '![Schaub'
+- Eve Ogden Schaub
+- Penelope
+- Shaub
+organisations:
+- Instagram
 ---
 
 From crop tops to shorts and brightly patterned dresses, many of today’s clothes are the result of fast fashion. But one woman is taking a radical approach to challenging this trend by growing her own dress.

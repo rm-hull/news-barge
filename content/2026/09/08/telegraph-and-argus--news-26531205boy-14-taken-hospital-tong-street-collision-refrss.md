@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Tong Street
+people: []
+organisations:
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

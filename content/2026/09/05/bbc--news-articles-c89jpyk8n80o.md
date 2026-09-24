@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Sports
 - Arts & Culture
+locations:
+- Balmoral
+- Bentley
+- Crathie Kirk
+- Highland
+- King Charles III
+- Scotland
+- Victoria
+people:
+- King Charles
+- Queen Camilla
+organisations:
+- Braemar Gathering
+- Highland
 ---
 
 ![Queen Camilla, wearing a green blazer and a green hat, next to King Charles who is wearing a tweed three-piece suit. They are surrounded by officials and are in high spirits at the Braemar Gathering](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/3df2/live/113d3c70-a936-11f1-bb81-8fbd2d2d397c.jpg)

@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Barton Hill
+- High Hutton
+- Malton
+- North Yorkshire
+- North Yorkshire Police
+- Welburn
+- York
+people: []
+organisations:
+- A64
 ---
 
 *(Image: North Yorkshire Police)*

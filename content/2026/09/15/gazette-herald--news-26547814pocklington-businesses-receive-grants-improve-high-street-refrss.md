@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Pocklington
+people:
+- Anne Handley
+- Beth Davies
+- Boffy
+organisations:
+- Boffy's Play Cafe
+- East Riding of Yorkshire Council
+- Play Café
+- Pocklington
 ---
 
 *(Image: Supplied)*

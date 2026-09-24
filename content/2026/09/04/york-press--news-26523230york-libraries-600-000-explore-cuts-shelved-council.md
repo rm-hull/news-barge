@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Former York
+people:
+- Cllr Andrew Hollyer
+- Cllr Hollyer
+- Cllr Kilbane
+- Frank Dwyer
+- Jenny Layfield
+- Ms Layfield
+- Pete Kilbane
+organisations:
+- City of York Council
+- Explore York
+- Labour
+- York Explore Library
+- York Liberal Democrats
 ---
 
 ## £600,000 cuts to York library contract shelved as 'now isn't the right time'

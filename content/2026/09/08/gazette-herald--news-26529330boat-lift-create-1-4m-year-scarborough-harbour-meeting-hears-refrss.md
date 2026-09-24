@@ -14,6 +14,30 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Dogger Bank
+- Filey
+- Filey’s Coble Landing
+- North Yorkshire
+- Scarborough Harbour
+- Scarborough’s West Pier
+- UK
+- Whitby Harbour
+people:
+- Chris Bourne
+- Mark Crane
+- Robin Gray
+organisations:
+- Blue Sky
+- Government’s Fishing and Coastal Growth Fund
+- Green Book-standard
+- Harbours Strategy
+- Maritime Hub
+- Newsquest
+- North Yorkshire Council
+- Scarborough Harbour Advisory Board
+- Scarborough Harbour Users Group
+- Whitby
 ---
 
 A PLANNED boat hoist project in a North Yorkshire town could generate £1.4 million a year for the local economy, a local group has said.

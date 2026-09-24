@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Aycliffe
+- Brancepeth Court
+- County Durham
+- Crook
+- Lanchester Garden Centre
+- Oakenshaw
+- School Row
+- Willington Care Village
+- Willington Colliery Row
+people:
+- )* Clara
+- Anne
+- Clara Harrison
+- Colin the Caterpillar
+- Dick
+- John
+- Natalie Henderson
+- Olive
+- Richard
+- Willington
+organisations:
+- Brancepeth Court
+- Willington Care Village
 ---
 
 A County Durham great-grandmother who once worked in munitions has celebrated her 103rd birthday with family and care home staff.

@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Brooklyn
+- County Durham
+- New York
+- Newcastle
+- North East
+- St Mary’s Church
+- The Cluny
+people:
+- Adam Kennedy
+- Brass
+- Chris Gaskell
+- God
+- Hels Pattison
+- Isabel Maria
+- Lady Gaga
+- Naomi
+- Robyn Errico
+- Ruin
+- Sammy
+- Steinway
+organisations:
+- Brazen Brass
+- Durham Brass
+- North East
+- The Cluny 2
+- The Gala Theatre
 ---
 
 *(Image: howywhite.com)*

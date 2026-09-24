@@ -13,6 +13,23 @@ categories:
 - Science
 - Society & Culture
 - Family & Parenting
+locations:
+- Chester County
+- Lancaster County
+- Pennsylvania
+- South Carolina
+- Spartanburg County
+- US
+people:
+- Amalia
+- Cortney
+- Covid
+- Covid-19
+- Grace
+- Victoria Schiano
+organisations:
+- Centers for Disease Control and Prevention
+- Little Lobbyists
 ---
 
 As students head back to school, parents have all the usual worries about their kids, like remembering to pack lunch and making it to the bus stop on time. But parents of immunocompromised kids have a new one: How to deal with the resurgence of measles.

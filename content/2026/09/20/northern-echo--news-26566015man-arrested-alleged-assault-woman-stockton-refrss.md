@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/10906896.jpg?type=og-image&xType=0&yType=419
+locations:
+- High Street
+- Stockton High Street
+- Teesside
+people:
+- Anthony Ford
+organisations:
+- Cleveland Police
+- Debenham's
+- Post Office Man
 ---
 
 *(Image: Provided)*

@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Darlington
+- TTE Centre
+people:
+- James Garnett
+- Jonathan Inglesfield
+- Morgan Sindall
+- Mr Haughton
+organisations:
+- Durham High School
+- Middlesbrough College
+- Morgan Sindall Construction
+- TTE Centre
 ---
 
 A £1.5 million investment has expanded specialist engineering and advanced manufacturing training facilities at Middlesbrough College’s TTE Centre.

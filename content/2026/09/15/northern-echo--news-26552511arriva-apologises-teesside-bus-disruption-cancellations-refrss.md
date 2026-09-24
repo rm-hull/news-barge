@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Arriva North East
+- Brotton
+- Dormanstown
+- East Cleveland
+- Middlesbrough
+- North East
+- Redcar
+- Stockton
+- Tees Valley
+- Teesside
+people:
+- Alec Brown
+- Anna Turley
+- Barry Hunt
+- Bev King
+- Cllr Brown
+- Luke Myer
+organisations:
+- Arriva North East
+- Cleveland Council
+- Facebook
+- Friends of Normanby Village
+- LDRS
+- Local Democracy Reporting Service
+- Redcar
+- Traffic Commissioner
 ---
 
 Arriva North East has said sorry to passengers for disruption to Teesside and East Cleveland bus services and cited driver shortages as the main cause.

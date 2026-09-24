@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21466656.jpg?type=og-image
+locations:
+- Lumen
+- North West
+- UK
+- Unit 89a
+- Washington
+- Wessington Square
+people:
+- Bocca Felice
+- Simon Eatough
+- Simon Redgrove
+organisations:
+- Bocca Felice
+- British Retail Consortium
+- LCP UK
+- Lumen
+- M Core
+- North West
+- The Galleries
 ---
 
 *(Image: The Galleries)*

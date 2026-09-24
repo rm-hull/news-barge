@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1117/live/e61ec6
 categories:
 - UK
 - News & Politics
+locations:
+- Accra
+- Britain
+- Buckingham Palace
+- Christiansborg Castle
+- Ghana
+- Goree Island
+- Jamaica
+- Senegal
+- UK
+people:
+- Charles
+- David Cameron
+- John Dramani Mahama
+- Keir Starmer
+- King
+- Mia Amor Mottley
+- Olivia Grange
+organisations:
+- British Museum
+- JCPC
+- Judicial Committee
+- Judicial Committee of the Privy Council
+- Privy Council
+- Union
 ---
 
 ![Olivia Grange, a Jamaican woman with short black hair, is sitting down in front of a microphone. She is wearing black clothes and a black, yellow and green sash. She is wearing a pearl necklace and the background is blurred.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/1117/live/e61ec6c0-a9fe-11f1-921b-6365210e1c9d.jpg)

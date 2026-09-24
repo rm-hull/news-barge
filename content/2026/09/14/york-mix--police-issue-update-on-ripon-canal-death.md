@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Boroughbridge Road
+- Ripon
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 Police have issued an update on the death of a man found in the canal in Ripon.

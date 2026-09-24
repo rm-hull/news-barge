@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/6f672f15b16bdd5dcc4a55762d7e68ee3c572cd0/1043_0_2413_1932/master/2413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd0426f14ba19d62414c586c014912ba
+locations:
+- Anglesey
+- Bangor
+- Holyhead
+- North Wales
+- Pencarnisiog
+- RAF Valley
+- Ynys Môn
+people:
+- Pete Bennett
+- Wes Streeting
+organisations:
+- Flying Training School
+- Hawk T2
+- RAF T2 Hawk
+- Royal Air Force
+- Wales Live
 ---
 
 An RAF jet crashed and exploded moments after two pilots ejected during a training flight over Anglesey (Ynys Môn) in north Wales on Wednesday.

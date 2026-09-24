@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/58f9ecd20a1461a0336fb9df9fd264f198f00c51/1
 categories:
 - UK
 - News & Politics
+locations:
+- Camden
+- England
+- Holborn
+- Jackdaw
+- London
+- North Sea
+- St Pancras
+- Wales
+people:
+- Andy Burnham
+- Angela Eagle
+- Green
+- Hamza Chowdhury
+- Keir Starmer
+- Sagal Abdi-Wali
+- Zack Polanski
+organisations:
+- Green
+- Greens
+- Guardian
+- Labour
+- Rosebank
+- UN
 ---
 
 Zack Polanski has said a vote for him in the upcoming Holborn and St Pancras byelection is a vote against the government’s reported plans to greenlight a North Sea gasfield.

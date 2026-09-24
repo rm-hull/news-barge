@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 - Technology & Software
+locations:
+- California
+- U.S.
+- Washington, D.C.
+people:
+- Claude
+- Donald Trump
+- Pete Hegseth
+- Rita Lin
+organisations:
+- AI
+- Anthropic
+- DOD
+- Department of Defense
+- Department of War
+- Hegseth
+- Pentagon
+- TechCrunch
+- Trump
 ---
 
 A federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal.

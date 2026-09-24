@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Popular York
+- Ravenseat Farm
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Anty John’s
+- Clive
+- Owens
+organisations:
+- All4
+- Channel 4
 ---
 
 *(Image: YouTube/Channel 4)*

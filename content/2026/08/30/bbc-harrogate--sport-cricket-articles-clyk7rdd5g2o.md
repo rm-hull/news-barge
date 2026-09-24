@@ -13,6 +13,31 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Division One
+- Kia Oval
+- North Marine Road
+- Scarborough
+- Trent Bridge
+people:
+- :** Patel
+- :** Wharton
+- Graham Lloyd
+- Hill
+- Ian Blackwell
+- James Wharton
+- Josh Hull
+- Rishi Patel
+- Sheridon Gumbs
+organisations:
+- ECB Reporters' Network
+- Leicestershire
+- Middlesex
+- Nottinghamshire
+- Rothesay
+- Scarborough
+- Surrey
+- Yorkshire
 ---
 
 ![A lone fan in the stands at North Marine Road on the final day.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1648/live/4c20c9c0-a467-11f1-b370-b9b7934350c8.jpg)

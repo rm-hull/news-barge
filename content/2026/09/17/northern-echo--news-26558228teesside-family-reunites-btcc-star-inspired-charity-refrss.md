@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Croft Circuit
+- Durham
+- Hardwick Hall
+- Miles
+- North East
+- Sunderland
+- Teesside
+people:
+- Ash Sutton
+- Croft
+- James Connaughton
+- James'
+- Jeff Aynsley
+- Julie
+- Lewis Hamilton
+- Nic
+- Nicolas Hamilton
+- Paul Connaughton
+- Smiles
+- Zain
+organisations:
+- BTCC
+- Community Interest Company
+- Connaughton
+- County Durham
+- Croft
+- F1
+- JPC Community Hub CIC
+- JPC Specialist Motorsports
+- Middlesbrough
+- Team VERTU
+- Vertu BMW Sunderland
+- Vertu Motors plc
 ---
 
 A Middlesbrough man has reunited with the racing driver who inspired his family to start a charity for people with complex needs.

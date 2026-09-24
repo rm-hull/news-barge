@@ -15,6 +15,44 @@ categories:
 - News & Politics
 - Books & Literature
 - Arts & Culture
+locations:
+- Berlin
+- Britain
+- East Germany
+- Frankfurt
+- Hunsrück
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- Ukraine
+- United States
+people:
+- Anton und Alma
+- Bazyar –* Die Lücken
+- Cora
+- Dana Vowinckel
+- Die Lücken
+- Die Zikade
+- Elias Hirschl
+- Elias Hirschl –* Schleifen
+- Franziska Denk
+- Franziska Gänsler
+- Georg
+- Hülle
+- Jorge Luis Borges
+- Lenin
+- Olympia
+- Orca
+- Otto Mandl
+- Peggy Mädler
+- Shida Bazyar
+- Valeria Gordeev
+- Wittgenstein
+organisations:
+- GDR
+- Golden Shell
 ---
 
 From climate anxiety to Germany's unresolved past, the six novels which have made it into the shortlist for this year's *Deutscher Buchpreis* offer a surprisingly useful guide to the ideas shaping the country today.

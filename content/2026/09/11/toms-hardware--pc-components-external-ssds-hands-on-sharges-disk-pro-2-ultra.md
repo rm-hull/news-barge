@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/JELLkAw4TQeRA2FYkfGHLC-1999-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Amazon
+- Newegg
+- USB-A
+people:
+- Matt Safford
+- Sharge
+organisations:
+- CDM
+- Column
+- Corsair
+- Disk Pro 2
+- EX400U
+- Get Tom's Hardware
+- Lexar
+- PC
+- Popular Science
+- SSD
+- Sharge
+- Smithsonian
+- Swiss Army
+- USB-C
 ---
 
 ![Sharge Disk Pro 2 Ultra](https://cdn.mos.cms.futurecdn.net/JELLkAw4TQeRA2FYkfGHLC.jpg) 

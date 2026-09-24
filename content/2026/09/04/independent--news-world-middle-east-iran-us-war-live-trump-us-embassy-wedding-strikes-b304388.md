@@ -12,6 +12,61 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Beijing
+- Blue House
+- Buckingham Palace
+- China
+- Iran
+- Kuhestak
+- Middle East
+- Moscow
+- Oman
+- Palestine
+- Russia
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Sultan
+- Tehran
+- U.S.
+- US
+- Wall Street
+- Washington
+- White House
+- Windsor Castle
+- Yemen
+people:
+- '## Vance'
+- Bola Tinubu
+- Camilla
+- Charles
+- Delia Ramirez
+- Donald Trump
+- Emmanuel Macron
+- Fabian Hinz
+- Hegseth
+- JD Vance
+- James Reynolds
+- Karoline Leavitt
+- Lee Jae Myung
+- Sultan Haitham bin Tariq
+organisations:
+- Congress
+- Financial Times
+- International Criminal Court
+- Iranian Red Crescent
+- JTBC
+- James Brady Briefing Room
+- Kpler
+- MBC
+- PRC
+- Pentagon
+- Reuters
+- The Wall Street Journal
 ---
 
 US vice president JD Vance has claimed that China is “willing to play ball” in efforts to economically isolate Tehran, despite Beijing previously declaring that US sanctions would not disrupt their trade with the country.

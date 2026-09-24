@@ -14,6 +14,32 @@ categories:
 - UK
 - Personal Finance & Investing
 - History
+locations:
+- Manhattan
+- New York
+- Norfolk
+- Sandringham
+- UK
+- US
+- United States
+- White House
+- Windsor
+people:
+- Air Miles Andy”
+- Andrew Mountbatten-Windsor
+- Donald Trump
+- Ghislaine Maxwell
+- Jeffrey Epstein
+- King
+- Melania Trump
+- Peter Mandelson
+- Thomas Massie
+- Virginia Giuffre
+organisations:
+- Congress
+- Department of Justice
+- House of Representatives
+- US) Department of Justice
 ---
 
 Andrew Mountbatten-Windsor should be investigated and prosecuted for sex crimes in the US, Congress has been told.

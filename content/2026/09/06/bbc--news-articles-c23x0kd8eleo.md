@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Steve Webb
+organisations:
+- HM Revenue and Customs
+- HMRC
+- LCP
 ---
 
 ![Woman in a red and white striped top sits on a bed looking at a letter and a phone with a rack of clothes and a curtain beside her.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg)

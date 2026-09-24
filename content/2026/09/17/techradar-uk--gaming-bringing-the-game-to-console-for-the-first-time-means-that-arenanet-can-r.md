@@ -14,6 +14,22 @@ image: https://cdn.mos.cms.futurecdn.net/LC3k7Ynwi6fhyasGQpKL4J-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Gamescom
+people:
+- Colin Johanson
+- Orr
+organisations:
+- ArenaNet
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- MMORPG
+- NME
+- PC
+- PS5
+- TechRadar Gaming
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/LC3k7Ynwi6fhyasGQpKL4J.jpg) 

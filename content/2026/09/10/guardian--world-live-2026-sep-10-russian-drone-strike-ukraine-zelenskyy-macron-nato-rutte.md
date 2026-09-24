@@ -12,6 +12,72 @@ image: https://i.guim.co.uk/img/media/3caf46db7cdc729259cc30ff443769fdad430d03/1
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Europe Live
+- Finland
+- France
+- Germany
+- Gulf
+- Juliette Garside Malta
+- Kyiv
+- Leipzig
+- Moscow
+- Russia
+- Saxony-Anhalt
+- Scandinavia
+- Stockholm
+- Sweden
+- UAE
+- UK
+- US
+- USA
+- Ukraine
+- United Arab Emirates
+- United States
+- Valletta
+- Villa Borsig
+- Weimar Republic
+people:
+- AP Chakrabarti
+- Alexander Stubb
+- Andy Burnham
+- Ashifa Kassam
+- Daphne Caruana Galizia
+- Donald Trump
+- Emmanuel Macron
+- Frank Walter Steinmeier
+- Frank-Walter Steinmeier
+- Fredrik Sandberg
+- Friedrich Merz
+- Jimmie Åkesson
+- Jonathan Borg
+- Jonathan Nackstrand
+- Kashif Virk
+- Maryam Majd
+- Mohamed bin Zayed Al Nahyan
+- Putin
+- Rutte
+- Shami Chakrabarti
+- Ulf Kristersson
+- Wadephul
+organisations:
+- AfD
+- Alternative für Deutschland
+- BMW
+- Council of Europe
+- Deutsche Bahn
+- Europe Live
+- House of Lords
+- Labour
+- Liberty
+- Macron
+- Nato
+- Reuters AFP
+- Siemens
+- Stockholm City Hall
+- ThyssenKrupp
+- United Arab Emirates
 ---
 
 Russia's actions are 'reckless, dangerous and a threat to life,' Nato's Rutte warns, but says they only strengthen resolve to help Ukraine

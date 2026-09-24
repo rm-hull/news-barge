@@ -14,6 +14,17 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- North Yorkshire
+- Ripon
+- UK
+people:
+- Thomas Lupton
+organisations:
+- Econ Engineering
+- Econ’s
+- North Yorkshire**— Econ Engineering
+- RIPON
 ---
 
 **RIPON, North Yorkshire**— Econ Engineering has strengthened its position as a leading UK manufacturing company following a significant £1.1m investment into its production capabilities.

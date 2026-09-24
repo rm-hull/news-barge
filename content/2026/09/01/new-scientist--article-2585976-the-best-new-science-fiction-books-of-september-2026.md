@@ -14,6 +14,51 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- America
+- China Miéville
+- Earth
+- Los Angeles
+- Mars
+- Opera
+- Paris
+people:
+- Adam Simcox
+- Ai Jiang Jiang
+- Ann Leckie
+- Ari
+- Arturo Mendez
+- Assassin Azure
+- Blightfall
+- Brandon Sanderson
+- Charlie Jane Anders
+- Chloe Benjamin Laurel
+- Django Wexler Taj
+- Emily St John Mandel
+- Emily St John Mandel Emily St John Mandel
+- Garth Nix
+- Hernan Diaz
+- James Islington
+- Janci Patterson
+- Jo Martin
+- Jonathan Strahan
+- Jordan Prosser Abby
+- Karen Joy Fowler
+- Kelly Link
+- Ken Liu This
+- Martha
+- Michael Moorcock
+- Naomi Alderman
+- Naomi Alderman I
+- Oliver
+- Rachel
+- Ursula K. Le Guin
+- Xilian
+- Yun
+organisations:
+- British Museum
+- Sassafras
+- Skyward Flight
 ---
 
 ![Ursula K. Le Guin](https://www.newscientist.com/wp-content/uploads/2026/08/SEI309008840.jpg?w=840)

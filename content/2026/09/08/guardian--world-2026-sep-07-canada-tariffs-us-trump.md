@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Lake Ontario “Lake America
+- Quebec
+- US
+people:
+- Donald Trump
+- Donald Trump.’
+- JD Vance
+- Mark Carney
+organisations:
+- Trump
+- United States’
 ---
 
 Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney.

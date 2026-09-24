@@ -12,6 +12,47 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bedfordshire
+- Cambridge
+- Camden
+- Carmarthenshire
+- City of London
+- England
+- Exeter
+- Fulham
+- Greater Manchester
+- Hammersmith
+- India
+- Isle of Anglesey
+- Islington
+- Lancashire
+- Luton
+- Newport
+- Nigeria
+- North East
+- Oxford
+- Pakistan
+- Romania
+- Southwark
+- UK
+- Wales
+- West Midlands
+- Westminster
+- York
+people: []
+organisations:
+- Barking & Dagenham
+- Bradford
+- Brighton & Hove
+- Newsquest
+- Norwich
+- ONS
+- Office for National Statistics
+- Oldham
+- Pendle
+- Swansea
+- Wales
 ---
 
 *(Image: Newsquest)*

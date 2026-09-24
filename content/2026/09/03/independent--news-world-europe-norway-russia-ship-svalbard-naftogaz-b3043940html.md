@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Barentsburg
+- Crimea
+- Finland
+- France
+- Moscow
+- Russia
+- Svalbard
+- The Hague
+- US
+- United Kingdom
+- United States
+people:
+- Molchanov
+- Sergii Fedorenko
+organisations:
+- Covington
+- Foreign Ministry
+- Naftogaz Group
+- Nord-Troms
+- Norwegian Coast Guard
+- Professor Molchanov
+- Senja District Court
+- TASS
 ---
 
 Norwegian authorities have detained a Russian ship in the Arctic to enforce a $4.22 billion compensation award won by Ukrainian energy company Naftogaz over Moscow's confiscation of its assets during the 2014 Crimea annexation, officials confirmed late on Wednesday.

@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/11/10/46/01M27Z4FX16T7W4YYNMAWZF
 categories:
 - News & Politics
 - UK
+locations:
+- Camden Square
+- Downing Street
+- Holborn
+- London Borough of Camden
+- Somalia
+- St Pancras
+- St. Pancras
+people:
+- Andy Burnham
+- Ben Whitley
+- Frank Dobson
+- Hamza Chowdhury
+- Hannah Spencer
+- Keir Starmer
+- Mr Polanski
+- Sagal Abdi-Wali
+- Zack Polanski
+- Zia Yusuf
+organisations:
+- Camden Council
+- Commons
+- Green Party
+- Greens
+- Labour
+- London Assembly
+- Reform UK
 ---
 
 Zack Polanski has been selected as the Green Party’s candidate in the Holborn and St Pancras by election as he prepares to fight the crucial contest in the historically Labour seat.

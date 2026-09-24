@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berlin
+- Bonn
+- Germany
+- Halle Airport
+- Kyiv
+- Leipzig
+- Moscow
+- Russia
+- Russian House
+- Ukraine
+- United Kingdom
+people:
+- Alexander Dobrindt
+- Andy Burnham
+- Friedrich Merz
+- Johann Wadephu
+- Maria Zakharova
+- Mark Rutte
+- Oleksii Makeiev
+- Ursula von der Leyen
+organisations:
+- Alliance
+- European Commission
+- European Union
+- Interfax
+- Nato
+- Welt TV
 ---
 
 Germany has blamed Russia for an attempted explosive drone attack at Leipzig/Halle Airport last month after a device was found near a Ukrainian cargo plane.

@@ -10,6 +10,12 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fde/live/e798fe
 categories:
 - UK
 - News & Politics
+locations: []
+people:
+- Andy Burnham
+- Keir Starmer
+- Kemi Badenoch
+organisations: []
 ---
 
 # Watch: Key moments from Andy Burnham's first Commons speech as PM

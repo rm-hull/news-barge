@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Africa
+- Asia
+- Burkina Faso
+- Burkino Faso
+- France
+- Germany
+- India
+- Italy
+- Netherlands
+people:
+- Génon Jensen
+- Hélène Nicora
+- Jayakumar Chelaton
+- Parkinson
+- Parkinson’s
+- Rendert Algra
+- Sheila Willis
+organisations:
+- Friends of the Earth Europe
+- Frontiers in Public Health
+- Health and Environment Alliance
+- Parkinson’s Europe
+- Pesticide Action Network
+- Pesticide Action Network India
+- Pesticide Action Network UK
+- UN
 ---
 
 Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found.

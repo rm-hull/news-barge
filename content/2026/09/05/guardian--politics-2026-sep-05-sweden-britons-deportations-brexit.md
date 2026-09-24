@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brexit
+- Cambridge
+- Gothenburg
+- Schengen
+- Stockholm
+- Sweden
+- UK
+people:
+- Brexit
+- Caroline
+- David Milstead
+- Johan Forssell
+- John Sellers
+- Joyce Thomas
+- Niels Paarup-Petersen
+- Susanna Fonsell
+organisations:
+- Centre
+- Commonwealth and Development Office
+- EU
+- European Commission
+- FCDO
+- Guardian
+- Migrationsverket
+- Sverige Radio
+- Sweden Radio
+- Swedish Migration Agency
 ---
 
 Sweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit.

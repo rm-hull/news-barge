@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Bloom Street
+- Celebration Hospital
+- Disney
+- Florida
+- Michigan
+- Shelby Township
+people:
+- Felipe Costa
+- Jenkins’
+- Matthew Eric Jenkins
+organisations:
+- CPR
+- Fox 35
+- Osceola County Sheriff’s Office
+- The Independent
+- WESH 2
+- Walt Disney World
 ---
 
 A 20-year-old Disney cast member died after he was apparently struck by lightning — just a week after he moved to Florida to work at Walt Disney World.

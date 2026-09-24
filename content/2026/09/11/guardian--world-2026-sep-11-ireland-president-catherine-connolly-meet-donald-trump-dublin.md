@@ -11,6 +11,33 @@ image: https://i.guim.co.uk/img/media/3e1bce8e1aa2b3457278b2cc7a1fd4d2f02ad5d2/0
 categories:
 - UK
 - News & Politics
+locations:
+- County Clare
+- Doonbeg
+- Dublin
+- Galway
+- Gaza
+- Iran
+- Ireland
+- Middle East
+- Phoenix Park
+- UK
+- US
+- White House
+people:
+- Bobby McDonagh
+- Catherine Connolly
+- Donald Trump
+- Micheál Martin
+- Rory McIlroy
+- Rosie O’Donnell
+- Áras
+organisations:
+- Doonbeg
+- EU
+- Garda
+- Irish Independent
+- Trump
 ---
 
 Ireland’s president, Catherine Connolly, has called Donald Trump abhorrent and an abuser of power. In his sole previous comment on Connolly, the US president seemed to think she was a man. Now that they are about to meet, Ireland is holding its breath.

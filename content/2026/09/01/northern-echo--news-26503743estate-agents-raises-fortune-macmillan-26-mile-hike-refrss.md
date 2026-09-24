@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- County Durham
+- Dalemain Mansion
+- Gowbarrow Fell
+- Lake District
+- North East
+- Tees Valley
+- UK
+- Ullswater
+people:
+- Amanda
+- Emily
+- Jim
+- Macmillan
+- Marie Wilmot
+- Murray Brock
+- Polly Scaife
+organisations:
+- Macmillan Cancer Support
+- My Property Box
 ---
 
 Three members of a North East estate agency team have raised more than £1,700 for Macmillan Cancer Support after completing a gruelling 26-mile hike through the Lake District.

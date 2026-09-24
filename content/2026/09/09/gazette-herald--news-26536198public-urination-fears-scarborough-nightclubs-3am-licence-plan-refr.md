@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- North Yorkshire
+- Scarborough
+- St Thomas Street
+people: []
+organisations:
+- Fusion
+- Google Maps
+- JPH Venues Ltd
+- North Yorkshire Council
+- North Yorkshire Police
+- Scarborough Town Hall
 ---
 
 A North Yorkshire nightclub’s bid to extend its opening hours until 3am has been met with objections and concerns about public urination and noise pollution.

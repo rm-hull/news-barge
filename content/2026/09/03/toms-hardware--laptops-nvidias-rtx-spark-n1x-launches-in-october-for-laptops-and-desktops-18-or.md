@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG-1999-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Berlin
+- Kotaku
+people:
+- Andrew E. Freedman
+- Tom
+organisations:
+- AMD
+- Acer
+- Apple
+- Asus
+- Computex
+- Dell
+- Get Tom's Hardware
+- Google News
+- HP
+- IFA
+- Laptop Mag
+- Lenovo
+- MSI
+- Microsoft
+- N1X
+- Nvidia
+- PCMag and Complex
+- Qualcomm
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![Nvidia RTX Spark N1X](https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG.jpg) 

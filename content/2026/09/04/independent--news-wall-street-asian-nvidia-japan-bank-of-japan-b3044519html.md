@@ -14,6 +14,33 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Kuwait
+- Middle East
+- South Korea
+- Strait of Hormuz
+- U.S.
+- Wall Street
+people:
+- Alex Veiga
+- Christopher Waller
+- Yuri Kageyama
+organisations:
+- AI
+- Apple
+- Bank of Japan
+- Fed
+- Federal Reserve
+- Hugging Face
+- Meta
+- Microsoft
+- Nvidia
+- Shanghai Composite
+- Treasury
 ---
 
 Asian shares were mostly higher in early Friday trading, as regional market sentiment got a boost from the rally on Wall Street, mostly from big technology stocks.

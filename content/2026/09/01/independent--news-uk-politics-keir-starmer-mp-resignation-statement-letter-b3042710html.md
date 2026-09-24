@@ -11,6 +11,20 @@ image: https://static.independent.co.uk/2026/09/01/12/01KXZN0K8K82KYB7G1XWQXJ4MY
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Holborn
+- St Pancras
+people:
+- Andy Burnham
+- Frank Dobson
+- Keir Starmer
+- Vic
+organisations:
+- CLP
+- Camden New Journal
+- Camden Youth Safety Taskforce
+- Labour Party
 ---
 
 Former prime minister Sir Keir Starmer has resigned as an MP, stating he felt it was the "right time" to step down and concentrate on work in international affairs.

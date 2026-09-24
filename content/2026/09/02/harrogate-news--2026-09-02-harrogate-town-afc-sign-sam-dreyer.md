@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Hampton
+- Hendon
+- Richmond
+- Scunthorpe
+- Town
+people:
+- Sam Dreyer
+organisations:
+- Bedford
+- Biggleswade
+- FA
+- Harrogate Town AFC
+- Peterborough
+- Stevenage
+- The Gulls
+- Torquay
 ---
 
 Harrogate Town AFC have signed Torquay centre back Sam Dreyer, for an undisclosed fee.

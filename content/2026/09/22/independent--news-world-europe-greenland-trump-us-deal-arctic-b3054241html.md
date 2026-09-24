@@ -14,6 +14,36 @@ categories:
 - Society & Culture
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/14/2026-09-21T110604Z_1195851173_RC2SDNAHY330_RTRMADP_3_USA-TRUMP-GREENLAND-DENMARK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- Greenland
+- Kingdom of Denmark
+- New York
+- North America
+- North Atlantic
+- North Atlantic Area
+- Nuuk
+- The Kingdom of Denmark
+- U.S.
+- US
+- United States
+- United States of America
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Julie Rademacher
+- Mette Frederiksen
+- Tillie Martinussen
+- Ursula von der Leyen
+organisations:
+- European Commission
+- Instagram
+- NATO
+- Qoornoq
+- Support Greenland
+- Truth Social
+- UN General Assembly
+- Western Alliance
 ---
 
 Greenlanders have warned the country’s relationship with the US could take years to fix, and remain distrustful of President Donald Trump, despite a newly agreed deal.

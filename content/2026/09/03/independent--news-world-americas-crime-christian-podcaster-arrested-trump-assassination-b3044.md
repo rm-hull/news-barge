@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Colorado
+- U.S.
+- United States
+- White House
+people:
+- Benjamin Azariah Southworth
+- Bill Essayli
+- Cole Tomas Allen
+- Donald Trump
+organisations:
+- Central District of California
+- Correspondents' Dinner
+- First Amendment
+- Holy Menace Instagram
+- LA Times
+- LGBT
+- Oval Office
+- Supreme Court
+- The Remix
+- United States Constitution
 ---
 
 A Christian podcaster was arrested after he allegedly made threats against President Donald Trump and his personal attorney.

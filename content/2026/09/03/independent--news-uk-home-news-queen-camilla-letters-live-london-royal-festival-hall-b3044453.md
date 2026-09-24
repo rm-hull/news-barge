@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- London
+- UK
+people:
+- Andy Burnham
+- Benedict Cumberbatch
+- Camilla
+- Charles
+- Edith Sitwell
+- Elizabeth R.
+- Emmanuel Macron
+- George VI
+- Harriet Walter
+- Jessie Buckley
+- King
+- Miss Sitwell
+- Ms Sitwell
+- Olivia Colman
+- Queen
+- Rob Rinder
+- Simon Callow
+organisations:
+- British Museum
+- Royal Festival Hall
+- TV
 ---
 
 Audience members at a packed central London show were greeted with an unexpected appearance when the Queen took to the stage to deliver a reading.

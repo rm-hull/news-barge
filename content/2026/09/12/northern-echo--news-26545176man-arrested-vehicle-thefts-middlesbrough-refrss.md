@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A1
+- CLEVELAND
+- County Durham
+- Darlington
+- Derelict Evans Halshaw
+- Lansdowne Road
+- M
+people: []
+organisations:
+- Cleveland Police
+- Ford Focus
+- Middlesbrough
+- Proactive Team
 ---
 
 *(Image: CLEVELAND POLICE)*

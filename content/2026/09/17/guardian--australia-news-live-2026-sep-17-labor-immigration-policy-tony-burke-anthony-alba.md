@@ -11,6 +11,53 @@ image: https://i.guim.co.uk/img/media/5858ac2b433f6a5cf2328f58afd72c572ec5d6bd/5
 categories:
 - UK
 - News & Politics
+locations:
+- Asean
+- Australia
+- Bondi
+- Melbourne
+- New York
+- New Zealand
+- Pacific
+- UK
+- US
+- Whyalla
+people:
+- Andrew Hastie
+- Angus Taylor
+- Anthony Albanese
+- Barnaby Joyce
+- Bill Kelty
+- Burke Burke
+- Burke Jumping
+- Canning
+- Elizabeth Watson-Brown
+- Jim Chalmers
+- Kevin Hogan
+- Lukas Coch
+- Matt Keogh
+- Tim Wilson
+- Tom McIlroy
+- Tom Venning
+- Tony Burke
+organisations:
+- AAP Burke
+- Chalmers Cutting
+- Chalmers Nationals
+- Greens
+- Labor
+- Liberal
+- Lukas Coch
+- Lukas Coch/AAP
+- Lukas Coch/AAP Burke
+- Lukas Coch/AAP Coalition
+- National Press Club
+- Nats
+- One Nation
+- Press Club
+- Reuters
+- Senate
+- Treasury
 ---
 
 Australian politics live: Burke warns cutting migration too much would ‘trash economy’ and hoses down accusations of tension with Albanese and Chalmers

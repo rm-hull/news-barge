@@ -14,6 +14,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21487745.jpg?type=og-image
+locations:
+- China
+- North Yorkshire
+- UK
+- US
+people:
+- King
+- Kirsty Wigglesworth
+- Lisa Smart
+- Sarah Olney
+- Tom Gordon
+- Victoria Collins
+organisations:
+- AI Security Institute
+- Anthropic
+- Harrogate
+- Joint Committee on Human Rights
+- Knaresborough
+- Lib Dem
+- Liberal Democrat
+- OpenAI
+- Whitehall
+- xAI
 ---
 
 A North Yorkshire MP has joined calls for an emergency summit to fast-track AI regulation following what he described as “stark” warnings from industry leaders.

@@ -12,6 +12,34 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Bangladesh
+- Costa Rica
+- Kenya
+- Madagascar
+- Mexico
+- Southeast Asia
+- US
+people:
+- Claude
+- Conti
+- Meta
+- Oleksii Oleksiyovych Lytvynenko
+organisations:
+- Anthropic
+- Apple
+- Clearview AI
+- Facebook
+- Futurism
+- Justice Department
+- Meta
+- Microsoft
+- Midnight Blizzard
+- OpenAI
+- San Francisco City Attorney’s Office
+- ShinyHunters
+- Telegram
+- Xinbi Guarantee
 ---
 
 *Editor’s note: After more than a decade, this is the last* WIRED*Security News This Week. “The roundup,” as we call it internally, started as a way to ensure that our readers knew about the latest key cybersecurity and privacy news even if we didn’t write about it ourselves. It was a simple way to highlight our own work and the wealth of other great journalism and research published in this realm every week.*

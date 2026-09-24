@@ -13,6 +13,27 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21481617.jpg?type=og-image
+locations:
+- North York Moors
+- North Yorkshire
+- RAF Station
+- UK
+- United Kingdom
+- Whitby
+people: []
+organisations:
+- Corps of Royal Electrical and Mechanical Engineers
+- Freedom of a Town
+- Freedom of the Town of Whitby
+- Google Maps
+- RAF Fylingdales
+- RAF Fylingdales’
+- REME
+- Raf Fylingdales
+- Royal Air Force
+- UK’s Space Command
+- US Governments
+- Whitby Town Council
 ---
 
 An RAF early warning base in North Yorkshire has been given the ‘highest honour’ at a special meeting on Tuesday.

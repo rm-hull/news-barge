@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg
+locations:
+- North Yorkshire
+people:
+- Billy Connolly
+- Simon Myers
+organisations:
+- Household Support Fund
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg)

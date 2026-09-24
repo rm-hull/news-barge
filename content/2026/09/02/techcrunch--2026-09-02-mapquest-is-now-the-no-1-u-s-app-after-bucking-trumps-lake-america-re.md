@@ -13,6 +13,31 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.j
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- U.S.
+people:
+- Doug Berger
+- MapQuest
+- Trump
+organisations:
+- AOL
+- App Store
+- Apple Maps
+- GNIS
+- Google Maps
+- MapQuest GM
+- No. 1
+- No. 3
+- Sensor Tower
+- System1
+- TechCrunch
+- U.S. App Store
+- Verizon
 ---
 
 MapQuest’s unlikely comeback just got even bigger. On Tuesday, the “OG” mapping application (and one that many thought no longer existed!) became the No. 1 overall app on the U.S. App Store, up from No. 8 on Monday.

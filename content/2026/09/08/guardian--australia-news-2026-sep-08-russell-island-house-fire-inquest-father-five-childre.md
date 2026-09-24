@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Queensland
+- Russell Island
+people:
+- Corinne Leach
+- Donald MacKenzie
+organisations: []
 ---
 
 A landlord was repeatedly warned about improperly installed smoke alarms before a house fire that killed a father and five children in Queensland in 2023, a coroner has heard.

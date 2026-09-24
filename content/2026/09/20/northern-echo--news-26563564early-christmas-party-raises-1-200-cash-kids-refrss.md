@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21474564.jpg?type=og-image
+locations:
+- Gateshead
+- Gosforth
+- Hadrian’s Tower
+- London
+- Lumley Castle
+- Newcastle
+- North East
+- Quayside
+- Stockton
+- Sunderland
+people:
+- Alfie Joey
+- Darren Mundy
+- David Thompson
+- God
+- Hastings
+- Jennifer (‘Give
+- Kyrie
+- Mariah Carey
+- Phil Benton
+- Piano
+- Pitcher
+- Rudolph
+- Santa
+- Scrooge
+- Tom Smith
+organisations:
+- Business Beats Cancer North East
+- Grand Hotel
+- Great North Air Ambulance
+- Great North Run
+- Knight of Networking’
+- Lent
+- Louie’s
+- Newcastle
+- North East Network’
+- North East’
+- Pitcher & Piano
+- Red Sky Foundation
+- SME
+- Sick Children’s Trust
+- South Shields Football Club
 ---
 
 **Alfie Joey gets on the Christmas bandwagon early – but for very good reason**

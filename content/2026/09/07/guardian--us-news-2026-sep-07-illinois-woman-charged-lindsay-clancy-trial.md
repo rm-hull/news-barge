@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chicago
+- Frankfort
+- Illinois
+- Massachusetts
+- Will
+people:
+- Andrea Lyon
+- Barrett
+- Corie Walsh
+- Lindsay Clancy
+organisations:
+- CPR
+- NBC Chicago
 ---
 
 An Illinois woman charged with killing her two-year-old son had been closely following the murder trial of Massachusetts mother Lindsay Clancy and was texting friends about the case just hours before her son was found dead, prosecutors said.

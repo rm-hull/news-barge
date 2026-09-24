@@ -12,6 +12,61 @@ image: https://cdn.mos.cms.futurecdn.net/XBEtHi8hyRVzdYysSdJfjN-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Chicago
+- London
+- US
+people:
+- '## Neagley'
+- Aileen Wuornos
+- Alex
+- Conrad
+- Death Adder
+- Ella Beatty
+- Frankie
+- Gary Oldman
+- Gilius
+- Hampton Squid
+- Harry
+- Helen Mirren
+- Jack Lowden
+- Jackson Lamb
+- Jan
+- Kat
+- Kevin
+- Lizzie Borden
+- Maeve
+- Maitreyi Ramakrishnan
+- Martin Prince
+- Matthew Rhys
+- MobLand
+- Olivia Cooke
+- Pierce Brosnan
+- Reacher
+- River Cartwright
+- Ryan Murphy
+- Sarah Paulson
+- Sharon Horgan
+- Sid Baker
+- Tom Hardy
+- Tom Power
+organisations:
+- Apple TV
+- Ax
+- Disney Plus
+- Google News
+- Lizzie Borden Story
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Paramount
+- SEGA
+- Slough House
+- Star Wars
+- TechRadar
+- UCLA
+- Warner Bros
 ---
 
 ![Helen Mirren's Maeve and Tom Hardy's Harry standing and flanking a seated Pierce Brosnan's Conrad in MobLand season 2](https://cdn.mos.cms.futurecdn.net/XBEtHi8hyRVzdYysSdJfjN.jpg) 

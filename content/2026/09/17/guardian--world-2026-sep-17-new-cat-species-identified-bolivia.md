@@ -14,6 +14,29 @@ categories:
 - Outdoors & Nature
 - History
 - Pets & Animals
+locations:
+- Antisuyu
+- Belgium
+- Bolivia
+- Brazil
+- Peru
+- Senda Verde
+- South America
+- Yungas
+people:
+- Eduardo Eizirik
+- Fernando Faciole
+- Jonas Lescroart
+- Paola Nogales-Ascarrunz
+organisations:
+- Current Biology
+- IUCN
+- International Union for Conservation of Nature
+- Lescroart
+- National Geographic
+- Pontifical Catholic University of Rio Grande do Sul
+- Reuters
+- University of Antwerp
 ---
 
 A diminutive wild cat that inhabits Bolivia’s cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century.

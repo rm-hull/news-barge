@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- County Durham
+- DURHAM COUNTY
+- Willington
+people: []
+organisations:
+- Durham County Council
+- SW13
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

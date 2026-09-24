@@ -12,6 +12,32 @@ image: https://cdn.mos.cms.futurecdn.net/Epm8dmUSW24ThKbuwnBqKe-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Frances Bourgeois
+- George Cooper Sr.
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![James Engelsman, Thomas Holland and Frances Bourgeois lean on a blue car](https://cdn.mos.cms.futurecdn.net/Epm8dmUSW24ThKbuwnBqKe.jpg) 

@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Carousel
+- China
+- Menapia
+- Russia
+- UK
+- United Kingdom
+people:
+- Jowi Morales
+- Rico Chandra
+- Tom
+organisations:
+- ARIA
+- Advanced Research and Invention Agency
+- Enduring Atmospheric Platforms
+- Enduring Drone Networks
+- Google News
+- HAPS
+- Jowi Morales
+- Scalable Laser Ltd
+- Space Solar Engineering Ltd
+- SpaceX
+- TA1
+- TA3
+- University of Bath
+- VFP Aerospace
 ---
 
 ![Drone](https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg) 

@@ -12,6 +12,28 @@ categories:
 - Local
 - Harrogate
 - Film & TV
+locations:
+- Brimham Rocks
+- Cooperative Street
+- Durham
+- HMP Low Newton
+- Harrogate
+- Horbury
+- North Yorkshire
+- UK
+- York
+people:
+- Alfie Lovett
+- Glenn Parsons
+- Justice Hill
+- Justice Linden
+- Justice Popplewell
+- Kelly Brocklehurst
+- Mia Howarth
+organisations:
+- Court of Appeal
+- National Trust
+- York Crown Court
 ---
 
 ![A young woman with long dark hair featuring blonde streaks sits against a plain light‑coloured wall, wearing a black sweatshirt.](https://ichef.bbci.co.uk/ace/standard/384/cpsprodpb/d51a/live/14207ca0-2136-11f1-9423-efef9a372d61.jpg)

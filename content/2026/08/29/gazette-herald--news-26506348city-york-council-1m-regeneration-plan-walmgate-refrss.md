@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Fishergate
+- Long Close Lane
+- Navigation Road
+- Walmgate Barbican
+- Willow House
+- YOUR
+- York
+people:
+- Cllrs Merrett
+- Dave Merrett
+- Kate Ravilious
+- Pete Kilbane
+organisations:
+- Blue Badge
+- City of York Council
+- Executive
+- NIP
+- North Yorkshire Combined Authority
+- Public Notice Portal
+- The Press
 ---
 
 ### What is the Public Notice Portal?

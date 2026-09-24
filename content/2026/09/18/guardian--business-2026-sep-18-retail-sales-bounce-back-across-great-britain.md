@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Great Britain
+- Iran
+- Middle East
+- UK
+people:
+- Andy Carlisle
+- John Healey
+- Sandra Prince
+organisations:
+- Accenture
+- Bank of England
+- Lloyds
+- ONS
+- Office for National Statistics
 ---
 
 Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.

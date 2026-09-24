@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Israel
+- Jalud
+- Nablus
+- Qusra
+- US
+- West Bank
+people:
+- Aida Ahmed Abdullah
+- Benjamin Netanyahu
+- Khaldoon Eid
+- Lawahez Jabari
+- Matt Bradley
+organisations:
+- IDF
+- Israel Border Police
+- NBC News
+- Red Crescent
+- United Nations’
 ---
 
 A Palestinian woman and an NBC News team are reported to have been attacked and injured by masked Israeli settlers in the Israeli-occupied West Bank on Saturday, amid worsening confrontations in the area.

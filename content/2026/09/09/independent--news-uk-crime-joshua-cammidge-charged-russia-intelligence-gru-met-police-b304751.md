@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Europe
+- London
+- Russia
+- Swindon
+- Ukraine
+- Westminster Magistrates’ Court
+people:
+- Dan Jarvis
+- Frank Ferguson
+- Joshua Cammidge
+organisations:
+- CPS Special Crime and Counter Terrorism Division
+- CTP London
+- Counter Terrorism Policing
+- Crown Prosecution Service
+- GRU Volunteer Corps
+- Met Police
+- Metropolitan Police
+- The Independent
+- Wiltshire Police
 ---
 
 A man has been charged with assisting Russian intelligence services, the Metropolitan Police said.

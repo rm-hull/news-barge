@@ -10,6 +10,22 @@ description: 16 old Xeon, 1TB of DDR3, and a £500 price tag turn this HP server
 image: https://cdn.mos.cms.futurecdn.net/Pme4bDE3PmPbWAArkCGpTX-2057-80.png
 categories:
 - Technology & Software
+locations:
+- Canberra
+- Sandy Bridge-EP
+- UK
+- United States
+people: []
+organisations:
+- C600
+- ECC
+- Efosa
+- Google News
+- HP
+- NomadUK
+- SK Hynix
+- TechRadar Pro
+- eBay
 ---
 
 ![HP C7000 enclosure](https://cdn.mos.cms.futurecdn.net/Pme4bDE3PmPbWAArkCGpTX.png) 

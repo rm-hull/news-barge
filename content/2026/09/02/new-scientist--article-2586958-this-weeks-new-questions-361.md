@@ -11,6 +11,21 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309394861.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Atlantic
+- Eibergen
+- Farnborough
+- Gelderland
+- Hampshire
+- Maryland
+- Netherlands
+- Rockville
+- UK
+- US
+people:
+- Dennis Leister
+- John Bailey
+organisations: []
 ---
 
 ![Atlantic Grey Seal](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309394861.jpg?w=840)

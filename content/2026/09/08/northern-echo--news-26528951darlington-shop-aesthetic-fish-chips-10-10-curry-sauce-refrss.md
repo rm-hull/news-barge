@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Darlington
+- Longfield Road
+people:
+- Barton
+- Loz
+organisations:
+- Barton's Fish and Chips
+- Instagram
+- TripAdvisor
 ---
 
 *(Image: @lunchingwithloz/Instagram)*

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Technology & Software
 - Music
+locations:
+- Nashville
+- US
+- White House
+people:
+- Amy
+- Bernice A King
+- Celine Dion
+- Dolly Parton
+- Donald Trump
+- God
+- Instagram
+- Martin Luther King Jr
+- Miley Cyrus
+- Pink
+- Robert Redford
+- Robin Williams'
+- Stella Parton
+- Zelda Williams'
+organisations:
+- AI
+- BBC
+- Country Music Hall of Fame
+- Instagram
+- The Hollywood Reporter
+- Wrecking Ball
 ---
 
 ![Dolly Parton, wearing a bright and colourful dress, stands next to her sister Stella at a red carpet event in 2015 - who is wearing a black leather jacket and large jewellery. They are both smiling, with Dolly's arm around her sister's shoulders, as they are photographed.](https://ichef.bbci.co.uk/ace/standard/845/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg)

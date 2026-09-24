@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/CJiRJr8nrgQonaC2NVW4nV-2000-80.jpg
 categories:
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- Herman Miller
+- UK
+people:
+- Collin
+- Herman Miller
+- Herman Miller  Jarvis Bamboo
+- Herman Miller Jarvis
+- Wayne Williams
+organisations:
+- Herman Miller
+- Jarvis Bamboo
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Herman Miller Jarvis Bamboo Standing Desk](https://cdn.mos.cms.futurecdn.net/CJiRJr8nrgQonaC2NVW4nV.jpg) 

@@ -14,6 +14,34 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21489955.jpg?type=og-image
+locations:
+- Bondgate
+- Cote Lane
+- Cross Hill
+- Helmsley
+- Linkfoot Lane
+- Malton Road
+- NYC
+- New Road
+- North Lane
+- North York Moors
+- North Yorkshire
+- Ring Road
+- Shipton Road
+- Sinnington Cliff Road
+- Sutton Bank National Park Centre
+- Sutton Road
+- Thirsk
+- Vale of York
+- Wrelton
+- York Road
+people: []
+organisations:
+- A170
+- North York Moors National Park
+- North Yorkshire Council
+- Sutton Bank
+- Sutton Bank National Park Centre
 ---
 
 *(Image: NYC)*

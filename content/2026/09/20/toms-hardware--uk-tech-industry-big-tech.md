@@ -12,6 +12,18 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/degoS2TTSpcwauyQr4EDiU-320-80.jpg
+locations: []
+people:
+- Rene Haas
+organisations:
+- Apple
+- Arm
+- Get Tom's Hardware
+- LG
+- Nvidia
+- OpenAI
+- Oracle
+- PAC
 ---
 
 ![Big Tech logos next to a hundred-dollar bill](https://cdn.mos.cms.futurecdn.net/degoS2TTSpcwauyQr4EDiU-320-80.jpg)

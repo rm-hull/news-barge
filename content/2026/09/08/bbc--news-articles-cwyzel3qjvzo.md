@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - History
 - Education & Learning
+locations:
+- Berkshire
+- Eton
+- Lambrook
+- Wales
+- Windsor
+people:
+- Boris Johnson
+- Catherine
+- Damian Lewis
+- David Cameron
+- Diana
+- Dominic West
+- Earl Spencer
+- Eddie Redmayne
+- Eton
+- Jacob Rees-Mogg
+- King Charles
+- Kwasi Kwarteng
+- Melanie Sanderson
+- Prince George
+- Prince Harry
+- Prince William
+- Tom Hiddleston
+organisations:
+- Eton College
+- Royal Watch
 ---
 
 ![Prince George at the Commonwealth Games in August 2026 with his father Prince William](https://ichef.bbci.co.uk/ace/standard/688/cpsprodpb/3911/live/39b0e070-aabd-11f1-b960-379ca4827622.jpg)

@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d71c/live/806ac810-b6ba-11f1-a430-4d16ee157c41.jpg
+locations:
+- Argentina
+- Atlantic Ocean
+- Britain
+- Chagos Islands
+- Diego Garcia
+- Falkland Islands
+- Falklands
+- Iran
+- Mauritius
+- New York
+- UK
+- US
+- United States
+people:
+- AI
+- Andy Burnham
+- Diego Garcia
+- Donald Trump
+- God
+- Javier Milei
+- Keir
+- Navin Ramgoolam
+- Nigel Farage
+- Tim Cook
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- '## Chagos'
+- AI
+- Apple
+- BBC
+- Burnham
+- European Commission
+- Falkland Islanders
+- Houses of Parliament.
+- Reform UK
+- UN General Assembly
+- Union
+- United Nations
+- United Nations General Assembly
 ---
 
 Burnham "gets it" says Trump, as the two leaders meet for first time

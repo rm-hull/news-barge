@@ -12,6 +12,30 @@ image: https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Andhra Pradesh
+- China
+- India
+- Indonesia
+- Karnataka
+- New York
+- Philippines
+- Rajasthan
+- Southeast Asia
+- Telangana
+people:
+- Xavier Laguarta
+organisations:
+- Ebro Foods
+- Gold Standard
+- Google
+- Laguarta
+- Mitti Labs
+- Mitti Labs’
+- Mountain View
+- Syngenta
+- TechCrunch
+- Varaha
 ---
 
 Google has agreed to buy 1 million carbon credits from Indian climate-tech startup Mitti Labs through 2030, in what the companies say is the largest publicly announced deal to date for credits generated from cutting methane emissions in rice farming.

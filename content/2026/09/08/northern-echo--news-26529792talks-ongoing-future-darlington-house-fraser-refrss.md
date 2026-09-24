@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington Binns
+- High Row
+- YOUR
+people:
+- Binns
+- John Taylor
+- Mike Ashley
+- Parker Barras
+organisations:
+- Binns
+- Blairs'
+- Darlington Borough Council
+- Darlington Market
+- Flannels
+- House of Fraser
+- Public Notice Portal
+- Sports Direct
+- THE NORTHERN ECHO
+- The Northern Echo
 ---
 
 ### What is the Public Notice Portal?

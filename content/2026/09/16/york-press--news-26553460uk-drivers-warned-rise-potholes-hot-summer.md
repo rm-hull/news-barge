@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- England
+- Kew Gardens
+- London
+- UK
+people:
+- Mike Hansford
+- Simon Williams
+organisations:
+- Department for Transport
+- Government
+- RAC
+- Road Surface Treatments Association
 ---
 
 *(Image: Getty)*

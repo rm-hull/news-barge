@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people: []
+organisations:
+- AKA OptiJeugos
+- Get Tom's Hardware
+- Minecraft Legacy
+- Nintendo Switch
+- Nintendo Wii
+- OptiProjects
+- Retro
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Ed6DypxjYRnxYpGgNJboXd-320-80.jpg)

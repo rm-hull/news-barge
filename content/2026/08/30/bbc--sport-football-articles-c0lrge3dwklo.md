@@ -13,6 +13,51 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bournemouth
+- Crystal Palace
+- England
+- Finch Farm
+- Fulham
+- Hill Dickinson Stadium
+- The Vitality Stadium
+- United States
+people:
+- '** Forest'
+- Brennan Johnson
+- Charly Alcaraz
+- Christian Norgaard
+- Dan Friedkin
+- David Moyes
+- Dwight McNeil
+- Evertonhave
+- Harrison Armstrong
+- Hayden Hackney
+- Iliman Ndiaye
+- Jack Grealish
+- James Tarkowski
+- Kenny Tete
+- Merlin Rohl
+- Richarlison
+- Seamus Coleman
+- Tyrique George
+organisations:
+- Armstrong
+- Arsenal
+- Bournemouth Moyes
+- Cherries
+- Everton
+- Forestfollowing
+- Friedkin Group
+- Manchester City
+- Merseyside
+- Middlesbrough
+- Nottingham Forest
+- Preston
+- The 1878s
+- The Friedkin Group
+- Toffees
+- Tottenham
 ---
 
 ![Harrison Armstrong playing for Everton at Bournemouth](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/8023/live/d0699fe0-a453-11f1-94c9-7de5456f4d18.jpg)

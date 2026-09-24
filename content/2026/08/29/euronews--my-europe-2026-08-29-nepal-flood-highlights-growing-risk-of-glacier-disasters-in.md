@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Alps
+- Austria
+- Blatten
+- Dolomites
+- Europe
+- France
+- Himalayas
+- Imboden
+- Italy
+- Marmolada
+- Nepal
+- Randa
+- Switzerland
+- Tibet
+- Weisshorn East
+people:
+- Frederic Imboden
+- Laura Fleischmann
+- Olaf Eisen
+organisations:
+- Alfred Wegener Institute for Polar and Marine Research
+- Euronews
+- SRF
+- University of Bremen
 ---
 
 **Laura Fleischmann**

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Boroughbridge
+- Grand Floral Pavilion
+- Newby Hall
+people:
+- Tony Johnson
+organisations:
+- Rose Society
+- Yorkshire Post
 ---
 
 The show opened on Friday for three days of horticultural excellence, autumn colour and inspiration, as the show celebrates its 50th anniversary.

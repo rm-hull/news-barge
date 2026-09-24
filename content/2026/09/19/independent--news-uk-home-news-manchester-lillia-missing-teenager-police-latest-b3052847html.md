@@ -12,6 +12,26 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/19/12/17b3ce6eb9475977610f799dcee1dfedY29udGVudHNlYXJjaGFwaSwxNzg5OTAxNDc3-2.85903877.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bolton
+- Lillia
+- Manchester Piccadilly
+- Market Street
+- McDonald’s
+- Piccadilly Gardens
+- Salford
+- Trafford Centre
+people:
+- Helen Critchley
+- Lill
+- Lillia
+organisations:
+- CCTV
+- Crimestoppers
+- GMP
+- Greater Manchester Police
+- Major Incident Portal
+- McDonald’s
 ---
 
 Police have confirmed a new sighting of a missing teenage girl from Manchester who was last seen more than a week ago.

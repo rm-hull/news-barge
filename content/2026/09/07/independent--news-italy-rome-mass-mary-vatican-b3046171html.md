@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/09/07/19/Italy_Pope__4_6_.jpg?width
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- France
+- Genazzano
+- Mass
+- Peru
+- Rome
+- Uruguay
+- Vatican
+people:
+- Leo XIV
+- Mary
+- Pope Leo XIII
+- Robert Prevost
+- Urban VIII
+- ___ Winfield
+organisations:
+- AP
+- Associated Press
+- Lilly Endowment Inc
+- Sanctuary of Our Mother of Good Counsel
+- The Conversation US
 ---
 
 Pope Leo XIV returned Monday to a sanctuary where he prayed just after his election and revealed a permanent sign of his devotion to the place: a fresco depicting him praying that now adorns an upper cornice of the basilica.

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Atlanta
+- Chicago
+- Los Angeles
+- US
+- West Hollywood
+people:
+- AKA Lil Durk
+- Bill Essayli
+- Durk Banks
+- Ian Yanniello
+- Kacey Hester
+- Kavon Grant
+- Lil Durk
+- Saviay’a Robinson
+- Tayquian Bowman
+- Von
+organisations:
+- Courthouse News
 ---
 
 Chicago rapper Lil Durk has been acquitted of all charges in a murder-for-hire scheme, in which a man was fatally gunned down in 2022.

@@ -12,6 +12,25 @@ image: https://media.wired.com/photos/6aa9a89861c11f99a88f271a/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Alpharetta
+- Georgia
+- Pawtucket
+- Rhode Island
+- Texas
+people:
+- Flock
+- Jon “GainSec” Gaines
+- Noel Pichardo
+organisations:
+- 404 Media
+- Denial of Secrets
+- Flock Safety
+- General Services Administration
+- Immigration and Customs Enforcement
+- OS Investigate
+- Office of Inspector General
+- WIRED
 ---
 
 Hackers ripped down a Flock camera above a roadway, made a near-complete copy of the data stored inside it, and shared the files with 404 Media and WIRED, revealing in new detail how exactly Flock Safety’s cameras track the movements of both vehicles and people. The hackers say they are also publishing details on how they managed to obtain the software, in the hopes that other people may copy them.

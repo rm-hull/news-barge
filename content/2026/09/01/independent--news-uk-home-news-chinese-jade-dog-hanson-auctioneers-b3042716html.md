@@ -12,6 +12,17 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Derbyshire
+- Etwall
+- United Kingdom
+people:
+- Charles Hanson
+- Henry VIII
+- Ming
+organisations:
+- Hansons Auctioneers
 ---
 
 An ancient Chinese jade dog, which was purchased for just £1 at a car boot sale, could fetch up to £10,000 at auction.

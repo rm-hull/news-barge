@@ -11,6 +11,48 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fea9/live/987a39
 categories:
 - UK
 - News & Politics
+locations:
+- Bermondsey
+- Charing Cross Road
+- Covent Garden
+- Earlham Street
+- King Street
+- Liverpool Street
+- London Bridge
+- London Bridge Adikalie Sumah
+- Peckham
+- Southwark
+- St Paul's
+- UK
+- West End
+people:
+- Adikalie
+- Joshua Folorunsho
+- Philip Maguire
+- Robert Joyce
+- Victoria Olaofe
+organisations:
+- '** Mobile UK'
+- Adikalie Sumah
+- BBC England Data Unit
+- BBC London
+- BBC Radio London
+- CureCleans
+- Draft London Plan
+- EE
+- England Data Unit
+- Google
+- Inakalum
+- JTA
+- Joshua Folorunsho
+- London Councils
+- London Growth Plan
+- London Infrastructure Framework
+- Mobile Market Review
+- Mobile UK
+- Three
+- Virgin Media O2
+- Vodafone
 ---
 
 ![A mobile phone screen showing a no signal sign from a Google page.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fea9/live/987a3970-ad4d-11f1-8963-d14e6edce0d0.jpg)

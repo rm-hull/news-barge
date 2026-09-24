@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Chad
+- Charles Schwab
+- Dubai
+- Europe
+- Italy
+- New York
+- Roblox
+- Russia
+- Stockholm
+- U.S.
+- Ukraine
+- Upper West Side
+- West Point
+- West Virgina
+people:
+- Chad Flippo
+- Cowboys4Angels
+- Flippos
+- Greggory Blaine Starr
+- Larry Hutcher
+- Marianne Flippo
+- Marianne Taylor
+- Roblox
+- Sean “Diddy” Combs
+organisations:
+- Army
+- Chase Bank
+- Cowboys4Angels
+- Cowboys4Angels’
+- Instagram
+- JPMorgan Chase
+- Manhattan Supreme Court
+- Roblox
+- Schwab
+- Starr’s
+- The Independent
 ---
 
 The grieving widow of an early Roblox employee who died by suicide in 2024 says a male escort she met in the aftermath was in fact a scheming con artist who pilfered $6 million of the fortune she inherited from her late husband – and was on the cusp of extracting another $4 million from her when the alleged scheme finally came undone, according to a tranche of lawsuit-related documents obtained by *The Independent*.

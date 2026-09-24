@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bristol
+- Canterbury
+- Chanctonbury
+- East Sussex
+- Eastbourne
+- England
+- Germany
+- Hertfordshire
+- Hove
+- Kent
+- Leipzig
+- Steyning
+- UK
+- West Sussex
+- Wiltshire
+- Wiston Park
+- Worthing
+people:
+- Andrew Ollerton
+- Carla Diamond
+- Charlotte
+- Di Castiglione
+- James Di Castiglione
+- Jessica Schuffenhauer
+- Judah Martin
+- Kris Bramwell
+- Martin Bellshaw
+- Peter Heard
+- Sarah Mullally
+organisations:
+- BBC Radio Sussex
+- BBC Sussex
+- BCF
+- Big Church Festival
+- Health and Safety Executive
+- ParentFuel
+- Salvation Army
+- South East Coast Ambulance
+- Sussex Police
+- Your Voice
 ---
 
 What we know about the incident at the Big Church Festival

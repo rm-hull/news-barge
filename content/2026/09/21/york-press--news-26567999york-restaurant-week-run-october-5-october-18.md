@@ -12,6 +12,16 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/20596030.jpg?type=og-image
+locations:
+- '**York'
+- York
+people:
+- Eleanor Richardson
+organisations:
+- The Press
+- York BID
+- York Business Improvement District
+- York Station Gateway
 ---
 
 *(Image: Pic supplied)*

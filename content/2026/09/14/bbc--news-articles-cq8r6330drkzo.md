@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Birmingham
+- Buckingham Palace
+- Duchess of Sussex
+- Duke
+- UK
+- Uganda
+people:
+- Clive Alderton
+- King Charles III
+- Meghan
+- Muhoozi Kainerugaba
+- Prince Harry
+organisations:
+- CDF
+- Defence Forces
+- Prince Harry
+- Royal Watch
+- UPDF
+- Ugandan People's Defence Force
 ---
 
 ![Prince Harry announcing Uganda joining the Invictus Games in July](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg)

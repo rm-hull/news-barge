@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bay Area
+- California
+- Furthur
+- Golden Gate Park
+- Haight
+- Oregon
+- Pleasant Hill
+- San Francisco
+- Woodstock
+people:
+- Edward Rice
+- Furthur
+- Jerry Garcia
+- Kelly Harris
+- Ken Kesey
+- Renee de Cossio
+- Tom Wolfe
+organisations:
+- BMW
+- Furthur
+- Haight Street Art Center
+- Stanford University
+- The Warlocks
+- Third Rail Projects
 ---
 
 Ken Kesey's school bus — once painted in bright, swirly colors and driven across the country on a psychedelic journey — is back in San Francisco after 60 years as the centerpiece of a new exhibition celebrating the legacy of the Grateful Dead, a band that rose from the city’s famed hippie movement.

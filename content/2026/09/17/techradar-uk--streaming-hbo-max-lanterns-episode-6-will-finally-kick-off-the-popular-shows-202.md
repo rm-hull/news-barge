@@ -12,6 +12,41 @@ description: Lanterns' sixth episode will be released very soon — and it needs
 image: https://cdn.mos.cms.futurecdn.net/KaanatWr8EGeYFCT4q2oRh-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Coast City
+- DC
+- Gotham City
+- Jordan
+- Metropolis
+- Rushville
+people:
+- Bill Macon
+- Guy Gardner
+- Hal Jordan
+- John Stewart
+- Kerry Kane
+- Kyle Chandler
+- Lianna
+- Nathan Fillion
+- Noah
+- Rushville
+- Tom King
+organisations:
+- DCU
+- Disney Plus
+- Earth
+- Google News
+- Green Lantern
+- Guardian of the Universe
+- HBO Max TV
+- Lanterns*'
+- Lanterns’
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![A collage of close-up shots of John Stewart and Hal Jordan in Lanterns episode 6](https://cdn.mos.cms.futurecdn.net/KaanatWr8EGeYFCT4q2oRh.jpg) 

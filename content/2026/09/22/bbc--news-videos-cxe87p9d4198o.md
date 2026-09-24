@@ -11,6 +11,16 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21f5/live/4ca589e0-b61d-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- New York
+- US
+people:
+- Donald Trump
+- Sarah Smith
+organisations:
+- BBC
+- UN General Assembly
+- United Nations
 ---
 
 # Watch: What to expect from the UN General Assembly

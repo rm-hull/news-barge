@@ -11,6 +11,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Africa
+- Arguineguin
+- Canary Islands
+- Dakhla
+- Gambia
+- Gran Canaria
+- Mali
+- Spain
+- West
+- Western Sahara
+people:
+- Caminando Fronteras
+- Caminendo Fronteras
+organisations:
+- EFE Noticias
+- Guardia Civil
+- IOM
+- International Organisation for Migration
+- MMP
+- Maritime Rescue
+- Missing Migrants Project
+- NGO Caminando Fronteras
+- Red Cross
+- The Independent
+- The Times
 ---
 
 At least 80 people are feared dead after a boat that had been adrift for 26 days was discovered off Spain’s Canary Islands, an NGO has said.

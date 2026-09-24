@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- France
+- Hong Kong
+- London
+- New York
+- Paris
+- Singapore
+- UK
+- US
+people:
+- Chris Xu
+- Leigh Gui
+- Shein
+organisations:
+- EU
+- H&M
+- Inditex
+- Shein
+- Temu
+- World Trade Organization
+- Zara
 ---
 
 Shares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company made its long-anticipated trading debut on the Hong Kong stock exchange.

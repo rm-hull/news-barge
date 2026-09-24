@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21476533.jpg?type=og-image
+locations:
+- England
+- Wales
+people:
+- Natalie Welsh
+organisations:
+- HBC Widdows Mason
+- HCB Widdows Mason
 ---
 
 It can be nice to have a thriving garden all year round with lots of plants, shrubs, and trees, as it makes the space a lot more pleasant to look at.

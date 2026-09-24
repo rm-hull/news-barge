@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Almaty
+- Central Asia
+- China
+- Germany
+- Kazakhstan
+- Kolsai Lakes National Park
+- Kymyz Muryndyk
+- Munich
+- Oktoberfest
+- Russia
+- Soviet Union
+- Ulytau Region
+- Zhanaarka
+people:
+- Aiman Kutzhanova
+- Gaukhar Konuspayeva
+- Herodotus
+- Kymyz Muryndyk’
+- Zhumazhan Kaltayev
+organisations:
+- Astana
+- BC Histories
+- Kymyz
 ---
 
 ## Fermented horse milk, known as kymyz, is a traditional Central Asian drink with thousands of years of history. In Kazakhstan, it remains an important part of nomadic heritage, cuisine and hospitality.

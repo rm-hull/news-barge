@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Aberfan
+- Aberystwyth
+- Cambridge
+- Hillsborough
+- Janett
+- London
+- Manchester Arena
+- Merthyr Tydfil
+- Pantglas
+- Princess of Wales
+people:
+- Annette
+- Chuck Rapoport
+- David Davies
+- Denise Morgan
+- Janett Bickley
+- Jeff Edwards
+- Queen
+organisations:
+- Aberfan
+- Children in Need
+- Grenfell Tower
+- Janett
+- Pantglas Junior School
+- Pantglas School
 ---
 
 ![Janett wears a red floral dress and gold necklace. She has short light blonde hair and is smiling. It is a head and shoulders shot of her.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/411e/live/81069740-a5c1-11f1-8543-aba44f51f79c.jpg)

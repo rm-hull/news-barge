@@ -12,6 +12,27 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- California
+- Chapel Hill
+- Florida
+- Great Barrier Reef
+- Gulf of Maine
+- Pacific Ocean
+- Peru
+- Red Sea
+- UK
+- US
+people:
+- Daniela Schmidt
+- John Bruno
+- Michael Meredith
+organisations:
+- British Antarctic Survey
+- El Niño
+- El Niños
+- University of Bristol
+- University of North Carolina
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg?w=840)

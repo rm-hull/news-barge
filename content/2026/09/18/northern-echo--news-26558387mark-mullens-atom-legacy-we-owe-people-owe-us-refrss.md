@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Aykley Heads
+- Britain
+- Darlington
+- Durham
+- Newcastle
+- North East
+- UK
+people:
+- Andrew Marshall
+- Kevin Donald
+- Mark Mullen
+organisations:
+- Atom
+- BUSINESSiQ
+- Banking
+- Middlesbrough
+- Newcastle
+- Pattern Shop
+- Stephenson Quarter
+- Trinity College Dublin
 ---
 
 Just weeks before Atom bank announced that its co-founder and chief executive Mark Mullen was stepping down, he gave BUSINESSiQ a characteristically candid interview. Now, his comments offer a revealing final perspective on the bank, its North East roots and the industry he never intended to join.

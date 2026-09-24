@@ -12,6 +12,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/11/01KG1QCPVPJ3JCM9AA71FJAZRG.jpg?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Europe
+- Greenland
+- Kingdom of Denmark
+- North Atlantic
+- Pituffik Space Base
+- Russia
+- U.S. Denmark
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Lars Løkke Rasmussen
+- Mette Frederiksen
+- Múte B. Egede
+- Orla Joelsen
+organisations:
+- Defense of Greenland Treaty
+- Instagram
+- NATO
+- TV2
+- Trump
+- U.S. State Department
+- United Nations General Assembly
+- non-NATO
 ---
 
 The Danish government expressed guarded optimism on Saturday following Donald Trump's announcement of a deal regarding Greenland, which aims to boost the US military footprint while maintaining Danish authority over the island.

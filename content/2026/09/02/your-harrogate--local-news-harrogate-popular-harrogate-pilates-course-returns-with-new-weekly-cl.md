@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations:
+- Harrogate
+- St Peter’s Church
+people:
+- Julie Downes
+organisations:
+- Brostroff Hall
+- Classical Pilates Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a98124a4f14c476a38.jpg) 

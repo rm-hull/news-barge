@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Chowdreys
+- Great Horton Road
+people:
+- Chowdreys
+organisations: []
 ---
 
 A viral TikTok trend led me to a Bradford restaurant I'd never visited before, and I wasn't disappointed.

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Amsterdam
+- Edinburgh
+- England
+- Europe
+- Glasgow
+- London
+- Manchester
+- New York
+- Rome
+- Scotland
+- Wales
+- Westminster Bridge
+people:
+- Andy Burnham
+- Angela Rayner
+- Keir Starmer
+- Sadiq Khan
+organisations:
+- CLF
+- Central London Forward
+- City Visitor Charge
+- London Eye
+- No 10
+- UK Hospitality
 ---
 
 ![Tourists walking across Westminster Bridge in London with the London Eye in the background](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7581/live/b9bf1460-acbd-11f1-b473-659b8af1c846.jpg)

@@ -11,6 +11,18 @@ image: https://static.independent.co.uk/2026/09/13/05/Philippines_Elections_Bang
 categories:
 - News & Politics
 - UK
+locations:
+- Bangsamoro Autonomous Region
+- Muslim Mindanao
+- Philippine
+- Philippines
+- Southeast Asia
+- U.S.
+people:
+- Erwin Garcia
+organisations:
+- Commission on Elections
+- Islamic State
 ---
 
 A predominantly Muslim region in the southern Philippines held its first parliamentary elections on Monday, seen as a crucial step in the long quest for self-rule after decades of insurgency and violence.

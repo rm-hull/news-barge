@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Andreessen Horowitz
+- Cursor
+- Devin
+- Scott Wu
+organisations:
+- Accel, Founders Fund
+- Anthropic
+- Avenir
+- Citi
+- Cognition
+- Cursor
+- General Catalyst
+- Goldman Sachs
+- Mercedes-Benz
+- NASA
+- Nvidia
+- OpenAI
+- SpaceX
+- TechCrunch
+- The Information
+- VCs
+- a16z
 ---
 
 Cognition, the startup developing coding assistant Devin, announced it raised $2 billion at a $48 billion valuation. The round, which comes just four months after Cognition’s previous fundraise at a $26 billion valuation, was led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst, and Avenir.

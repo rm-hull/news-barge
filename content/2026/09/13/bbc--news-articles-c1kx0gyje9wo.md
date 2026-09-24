@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- China
+- Silicon Valley
+people:
+- AI
+- Clement Delangue
+- Dario Amodei
+- Evan Hubinger
+- Jacob Coxon
+- Jensen Huang
+- Laura Kuenssberg
+- Sam Altman
+organisations:
+- AI
+- Amodei
+- Anthropic
+- Astra
+- BBC News
+- Elon Musk of xAI
+- Fortune
+- Goldman Sachs
+- Google Deepmind
+- Hugging Face
+- Nvidia
+- OpenAI
 ---
 
 'There is a possibility of human extinction,' former Anthropic employee says about AI

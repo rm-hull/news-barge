@@ -14,6 +14,47 @@ categories:
 - News & Politics
 - Sports
 - Lifestyle & Fashion
+locations:
+- Exchange Square
+- Freshers’
+- Middlesbrough Empire
+- Stockton KU Stockton
+- Teesside
+- The Hub
+- The Terrace
+- Yarm
+people:
+- SARAH CALDECOTT
+- Stack
+organisations:
+- Angela
+- Central Hotel
+- Cleveland Police
+- Flares
+- Freshers’
+- Google Maps
+- Holly Guard
+- KU
+- Middlesbrough *(Image
+- Middlesbrough Central Hotel
+- Middlesbrough Club XS
+- Middlesbrough Play Middlesbrough
+- Middlesbrough Popworld
+- Middlesbrough Sapphires
+- Official Moving In Party
+- Sapphire
+- Stack Middlesbrough
+- Students’ Union
+- THE NORTHERN ECHO
+- Teesside University
+- Teesside University Students’ Union
+- Teesside University Teesside
+- The Central
+- The Hub
+- The Keys
+- The Terrace
+- University of Sunderland
+- Yorkshire.com
 ---
 
 Thousands of students will arrive in Teesside over the coming weeks as Freshers' Week gets underway.

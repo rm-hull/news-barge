@@ -15,6 +15,20 @@ categories:
 - Real Estate
 - Business & Entrepreneurship
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/03/watermarks-logo-89372293.jpg@webp
+locations:
+- Germany
+- Interhyp
+- Iran
+people:
+- Dirk Eilinghoff
+- Jörg Utecht
+- Klein
+- Thomas Kreil
+organisations:
+- ARD
+- Bundesbank
+- Finanztip
+- Interhyp
 ---
 
 Many people in Germany dream of owning their own home, whether it's an apartment in the city or a cottage in the suburbs.

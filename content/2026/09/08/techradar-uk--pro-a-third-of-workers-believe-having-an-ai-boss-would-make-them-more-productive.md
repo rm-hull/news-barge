@@ -11,6 +11,22 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- AI
+- Amanda Augustine
+- Christian Cawley
+organisations:
+- AI
+- CPCC
+- Careerminds UK
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![Business people looking at a laptop screen together.](https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH.jpg) 

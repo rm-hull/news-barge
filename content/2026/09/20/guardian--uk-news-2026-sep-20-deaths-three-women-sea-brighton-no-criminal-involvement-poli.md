@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/8b1cc8caac62b0e70d663d4255cd7a868fdff4f8/0_139_4584_3667/master/4584.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=418eef4d5b9d850d593eb6ac72c8bb6e
+locations:
+- Brighton Beach
+- Earth
+- East Sussex
+- London
+- Madeira Drive
+- Uxbridge
+people:
+- Adam Hays
+- Becky
+- Christina Walters
+- Jane Adetoro
+- Joseph Jacobson
+- Rebecca Walters
+organisations:
+- GoFundMe
 ---
 
 The deaths of three sisters found in the sea off Brighton beach did not involve any criminality or third-party involvement, police have concluded.

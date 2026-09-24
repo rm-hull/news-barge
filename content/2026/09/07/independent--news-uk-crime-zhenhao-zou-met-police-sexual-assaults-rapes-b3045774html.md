@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- China
+- London
+- UK
+people:
+- '![Zou'
+- Angela Craggs
+- Zhenhao Zou
+organisations:
+- CPS
+- Crown Prosecution Service
+- Metropolitan Police
 ---
 
 Detectives investigating convicted rapist Zhenhao Zou, who drugged and raped 10 women in London and China, say they have uncovered evidence linking him to more alleged offences.

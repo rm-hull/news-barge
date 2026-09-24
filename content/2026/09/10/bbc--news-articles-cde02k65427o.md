@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Essex
+- Ibiza
+people:
+- '![Taylor'
+- Katie Guild
+- Molly Haylett
+- Taylor Haylett
+organisations:
+- Molly
+- Nugget Savings
+- Octopus Money
 ---
 
 ![Molly and Taylor Haylett on a boat in the water smiling](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg)

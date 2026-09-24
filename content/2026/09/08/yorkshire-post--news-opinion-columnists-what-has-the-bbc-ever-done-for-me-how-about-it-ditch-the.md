@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Ian West
+- PA
+- Yorkshire
+people:
+- Andrew Vine
+- Brown
+- James Herriot
+- Romesh Ranganathan
+organisations:
+- BBC Broadcasting House
+- BBC Radio 4
+- TikTok
+- iPlayer
 ---
 
 # What has the BBC ever done for me? How about it ditch the dross like Mrs Brown’s Boys and focus on quality instead - Andrew Vine

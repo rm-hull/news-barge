@@ -16,6 +16,36 @@ categories:
 - History
 - Society & Culture
 - Arts & Culture
+locations:
+- Arndale House
+- Bolton Woods
+- Bradford
+- Broadway
+- Charles Street
+- England
+- France
+- Market Street
+- Swan Arcade
+- Wakefield
+- White Swan Inn
+people:
+- Angus Holden
+- Bradford Beck
+- Fred Trueman
+- J B Priestley
+- Milnes
+- Parsons
+- Taylor
+- W Beanland
+organisations:
+- Argus
+- Arndale Property Trust
+- Bradford
+- Hodkinson and Co
+- Swan Arcade
+- Telegraph
+- Wool Exchange
+- Yorkshire
 ---
 
 For more than 80 years, the Swan Arcade was one of Bradford city centre’s most distinctive shopping landmarks: a grand covered Victorian thoroughfare of shops and offices, running between Market Street and Broadway opposite the Wool Exchange.

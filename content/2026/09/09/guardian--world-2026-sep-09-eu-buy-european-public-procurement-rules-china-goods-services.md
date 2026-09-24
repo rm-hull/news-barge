@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Beijing
+- Brussels
+- Canada
+- China
+- Europe
+- France
+- Japan
+- Lisbon
+- UK
+- US
+- Washington
+people:
+- Emmanuel Macron
+- Stéphane Séjourné
+- Séjourne
+organisations:
+- EU
+- European Commission
+- European Union
+- GPA
+- IAA
+- MEPs
+- Nuctech
+- Séjourné
+- World Trade Organization
 ---
 
 European authorities will be encouraged to buy more domestic goods and services when they spend public money under the EU latest effort to counter China’s economic might.

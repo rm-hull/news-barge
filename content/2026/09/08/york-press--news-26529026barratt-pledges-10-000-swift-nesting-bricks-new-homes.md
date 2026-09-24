@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- East Yorkshire
+- East Yorkshire Barratt
+- UK
+people:
+- Barratt Redrow
+- Daniel Smith
+- David Wilson Homes
+organisations:
+- Barratt Redrow
+- David Wilson Homes
+- David Wilson Homes Yorkshire East
+- Manthorpe
+- RSPB
 ---
 
 ## Thousands of special bricks to give threatened bird homes in East Yorkshire

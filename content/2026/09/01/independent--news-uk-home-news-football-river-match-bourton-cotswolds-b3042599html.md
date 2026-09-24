@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bourton-on-the-Water
+- Cotswolds
+- Gloucestershire
+- River Windrush
+people:
+- Neil Teague
+- Superman
+organisations:
+- Bourton Rovers
 ---
 
 While waterlogging usually prompts the abandonment of a football match, in the Cotswolds a thoroughly soaked pitch is simply part of the appeal.

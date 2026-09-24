@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Fishmongers’ Hall
+- Ireland
+- London Bridge
+- UK
+- US
+people:
+- Andy Burnham
+- Donna
+- Marc Conway
+- Tommy Nicol
+- Ungripp
+- Usman Khan
+organisations:
+- BBC Breakfast
+- HM Prison and Probation Service
+- IPP
+- IPPs
+- Ministry of Justice
+- National Suicide Prevention Lifeline
+- Ungripp
 ---
 
 Campaigners have hailed Andy Burnham’s pledge to bring an end to indefinite jail terms as “a day that thousands of families have spent years fighting for”.

@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/G3oxprCVAwUWdyxSFfSoQL-1619-80.jpeg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Airoha
+- Heidelberg
+- Taiwan
+people:
+- Bob Kemerer
+- Dennis Heinze
+- Frieder Steinmetz
+- Jacob Nowak
+- Rahim Amir
+organisations:
+- Airoha
+- Apple
+- CERT Coordination Center
+- CERT/CC
+- CISA
+- Carnegie Mellon University
+- Dime 3
+- ERNW
+- Google News
+- MediaTek
+- PC
+- PCs
+- RGB
+- SFF
+- Skullcandy
+- TROOPERS
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![Person listening to music](https://cdn.mos.cms.futurecdn.net/G3oxprCVAwUWdyxSFfSoQL.jpeg) 

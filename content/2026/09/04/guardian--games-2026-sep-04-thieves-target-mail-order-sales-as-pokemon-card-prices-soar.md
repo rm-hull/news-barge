@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bath
+- France
+- UK
+people:
+- Ben Thyer
+- Daniel Stack
+organisations:
+- Bath TCG
+- CardMarket
+- Guardian
+- Magic
+- Mana Rock Games
+- Pokémon Company
+- Royal Mail
+- Stack
 ---
 
 Pokémon’s success over the last 30 years has seen it grow from a much-loved Game Boy classic, to a world-dominating brand with TV shows, spin-off games, toys and even a theme park. The trading card game is a huge part of that, with more than 85bn cards printed over its lifetime, and the appetite for them shows no signs of slowing down. Packs get snapped up after release so quickly it’s now almost impossible to find them in shops, and a booming resale market is driving the hobby into murky waters.

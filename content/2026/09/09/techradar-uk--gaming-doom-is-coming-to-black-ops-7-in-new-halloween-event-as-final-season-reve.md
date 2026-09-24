@@ -9,6 +9,31 @@ description: Black Ops 7's final season has been revealed.
 image: https://cdn.mos.cms.futurecdn.net/7QP9pKXYKZZAkxPyATLfWU-1920-80.webp
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Dashiell Wood
+- Wei Lin
+organisations:
+- Activision
+- Arcblade
+- Black Ops
+- Dash
+- Dravec
+- Edge
+- Google News
+- Hordepoint
+- JSOC
+- LMG
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Roc
+- SFX
+- SMG
+- Sokol
+- TechRadar
+- VS Recon Sniper Rifle
 ---
 
 ![Call of Duty: Black Ops 7 Season 6 Halloween themed skins.](https://cdn.mos.cms.futurecdn.net/7QP9pKXYKZZAkxPyATLfWU.webp) 

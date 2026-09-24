@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Downton Abbey
+- ENGLAND
+- England
+- Guildhall
+- Italy
+- LONDON
+- London
+people:
+- Dave Benett
+- Eddie Halstead
+- Freddy
+- God
+- Guy Ritchie
+- Harry
+- Hugh Bonneville
+- Joely Richardson
+- Kaya Scodelario
+- Matthew Read
+- Maya Jama
+- Meghan
+- Ray Winstone
+- Susie Glass
+- Theo James
+- Vinnie Jones
+organisations:
+- BBC News
+- Downton Abbey
+- Duchess of Sussex
+- Netflix
+- The Gentlemen
 ---
 
 Stars of The Gentlemen react to Meghan rumours

@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations: []
+people:
+- Bill Clinton
+- Clintons
+- Hillary Clinton
+- James Comer
+- Jeffrey Epstein
+- Leon Black
+- Mike Johnson
+- Robert Garcia
+organisations:
+- Congress
+- Epstein
+- House of Representatives
+- NDA
+- NDAs
+- New York Times
+- Rules of the House of Representatives
+- The Committee
 ---
 
 The House oversight committee voted unanimously Tuesday to recommend that the House of Representatives hold Leon Black, the billionaire financier, in contempt of Congress, after he refused to comply with subpoenas seeking his testimony and nondisclosure agreements (NDAs) sought by the panel as part of its investigation into Jeffrey Epstein. Black contends the subpoenas are “invalid” and he is suing to block them.

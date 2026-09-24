@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Calderdale
+- Wainhouse
+people:
+- Ann Kingstone
+- Dave Mendes da Costa
+organisations:
+- Calderdale Council
+- Labour
+- Reform UK
+- Wainhouse
 ---
 
 Drones are being deployed in Calderdale to tackle anti-social behaviour related to misuse of fireworks, with the bonfire season fast approaching.

@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- CHANNEL4
+- Coast to Coast
+- Keld
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Ravenseat Farmhouse
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Annas
+- Anty John
+- Clementine
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Raven
+- Ravenseat Farm
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John's
+- Channel 5
+- Clive and Kids
+- More4
+- Our Yorkshire Farm
+- Yorkshire Farm
+- Yorkshire Shepherdess
 ---
 
 For millions of viewers, Ravenseat Farm became as recognisable as Amanda Owen and her family.

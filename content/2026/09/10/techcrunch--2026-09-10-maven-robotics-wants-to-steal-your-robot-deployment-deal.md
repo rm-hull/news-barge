@@ -11,6 +11,26 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?re
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Maven
+- Santa Clara
+people:
+- Hamza Derbas
+- Jack Pearson
+- Khalid
+- Maven
+organisations:
+- Agility
+- Apple
+- CFO
+- EVs
+- LocalGlobe
+- Maven Robotics
+- RoboStrategy
+- SPAC
+- TechCrunch
+- Vine Ventures
+- XTX Markets Ventures
 ---
 
 In 2024, Maven Robotics was brand new, and they had nothing — “a cartoon of a robot and a team of people,” CEO and co-founder Hamza Derbas told TechCrunch.

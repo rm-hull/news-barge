@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e8f7/live/5dadd8f0-b5d2-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Blandford Forum
+- Cirencester
+- Dorset
+- UK
+people:
+- '![Jackson'
+- '![Smith'
+- Ben Smith
+- Lance Corporal R. Jackson
+- Lewis Jackson
+- Neil Greenberg
+- Simon Opher
+- Stuart Crawford
+organisations:
+- Armed Forces
+- Army Cadets
+- Army Reserve
+- BBC
+- British Army
+- British Army Regular Forces
+- FOI
+- Freedom of Information
+- JSP
+- Joint Service Publication
+- Labour
+- MOD
+- Ministry of Defence
+- MoD
+- RAF
+- Royal Agricultural University
+- Royal Air Force
+- SNP
+- Scottish National Party
+- Society of Occupational Medicine
+- Stroud
 ---
 
 ![Lewis Jackson is pictured looking directly at the camera with a serious expression. He is a young man with short strawberry blonde hair and is wearing a white and light blue striped shirt with a tweed gilet over the top. He is surrounded by trees on a sunny day.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e8f7/live/5dadd8f0-b5d2-11f1-b1d1-571ed4d7ff2c.jpg)

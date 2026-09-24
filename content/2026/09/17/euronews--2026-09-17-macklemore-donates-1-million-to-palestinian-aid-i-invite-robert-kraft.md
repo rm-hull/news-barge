@@ -13,6 +13,37 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Free Congo
+- Free Cuba
+- Free Lebanon
+- Free Palestine
+- Free Sudan
+- Gillette Stadium
+- Israel
+- South America
+- US
+people:
+- Aaron Rowe
+- Beoga
+- Billie Eilish
+- Ed Sheeran
+- Finneas
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Anera
+- Beoga
+- Gaza Soup Kitchen
+- Heal Palestine
+- ICE
+- Instagram
+- Medical Aid for Palestinians
+- New England Patriots
+- Palestine Children’s Relief Fund
+- State of Israel
+- UNRWA USA National Committee
 ---
 
 ## The rapper, who was dropped from Ed Sheeran's US tour for saying "Free Palestine" on stage, has challenged billionaire Robert Kraft to match his donation.

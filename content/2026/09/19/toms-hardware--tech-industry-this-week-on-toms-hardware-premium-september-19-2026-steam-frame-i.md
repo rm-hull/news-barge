@@ -11,6 +11,35 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/CGefaGP8FPR4FxcGCD3ouZ-1920-80.jpg
+locations:
+- China
+- Taiwan
+- U.S.
+people:
+- Brandon Hill
+- Chris Stokel-Walker
+- Dario Amodei
+- Jensen Huang
+- Mark Zuckerberg
+- Sam Altman
+- Sayem Ahmed
+- Tom
+organisations:
+- Anthropic
+- Artificial Intelligence
+- Bench
+- Dexerto
+- Gamespot
+- Get Tom's Hardware
+- HBM
+- IGN
+- NOR Flash
+- PieceMakers
+- SLC
+- Tom's Hardware
+- VR
+- Valve
+- Western AI
 ---
 
 ![THP Logo with blurred Steam Frame background](https://cdn.mos.cms.futurecdn.net/CGefaGP8FPR4FxcGCD3ouZ.jpg)

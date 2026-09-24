@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Brandon Hill
+- NC
+- Steam Frame
+people:
+- Brandon Hill
+- Griffais
+- Jeff Leinbaugh
+- Tom
+organisations:
+- 1TB SKU
+- AAA
+- AnandTech
+- DailyTech
+- Get Tom's Hardware
+- Google News
+- Half-Life Alyx
+- Hot Hardware
+- Mac
+- PC
+- Pierre-Loup Griffais
+- Proton
+- SoC
+- Steam Frame
+- Tom's Hardware
+- VR
+- Valve
 ---
 
 ![Valve Steam Frame](https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B.jpg) 

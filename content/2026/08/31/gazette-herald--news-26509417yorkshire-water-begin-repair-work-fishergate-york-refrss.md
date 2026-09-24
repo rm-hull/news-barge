@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Fishergate Gyratory
+- George Street
+- Lead Mill Lane
+- Margaret Street
+- Paragon Street
+- Piccadilly
+- The Postern Gate Wetherspoons
+- Tower Street
+- Walmgate Bar
+- York
+people: []
+organisations:
+- City of York Council
+- Newsquest
+- Newsquest)* City of York Council
+- Yorkshire Water
 ---
 
 A section of York's inner ring road which was damaged in Sunday’s storm is set to remain closed for "a few days" as repair work is carried out.

@@ -13,6 +13,15 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21485102.jpg?type=og-image
+locations:
+- Harrogate
+- Kings Road
+- Lilypad
+- North Yorkshire
+people:
+- Simms
+organisations:
+- Crimestoppers
 ---
 
 *(Image: North Yorkshire Police)*

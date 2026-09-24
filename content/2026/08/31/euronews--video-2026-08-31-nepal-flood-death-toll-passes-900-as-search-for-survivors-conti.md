@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Kathmandu
+- Nepal
+- Nuwakot
+- Tibet
+- Tribhuvan University Teaching Hospital
+people: []
+organisations: []
 ---
 
 Rescuers were trying to find trapped workers in hydroelectric plant tunnels on Monday after catastrophic flooding in Nepal and Tibet killed at least 900 people and left more than 4,700 missing.

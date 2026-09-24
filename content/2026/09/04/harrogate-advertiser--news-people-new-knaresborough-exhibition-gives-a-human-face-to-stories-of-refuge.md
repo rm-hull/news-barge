@@ -15,6 +15,32 @@ categories:
 - Harrogate
 - Arts & Culture
 - Society & Culture
+locations:
+- Afghanistan
+- Gracious Street Methodist Church
+- Harrogate
+- New Knaresborough
+- Nidderdale
+- North Yorkshire
+- Pateley Bridge
+- Ripon
+- Syria
+- Ukraine
+people:
+- Anna Cleary
+- Laura Mate
+- Sue Eland
+- Sue Parsons
+organisations:
+- Harrogate
+- Knaresborough District of Sanctuary
+- Knaresborough Town Council
+- North Yorkshire Council
+- North Yorkshire Re Settlement Scheme Grant
+- Pickard Event Systems
+- Refugee Mentor
+- Ripon District of Sanctuary
+- SWIFT
 ---
 
 # New Knaresborough exhibition gives a 'human face' to stories of refugees who have settled in North Yorkshire

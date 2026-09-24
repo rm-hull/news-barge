@@ -13,6 +13,23 @@ categories:
 - UK
 - Film & TV
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Barry Keoghan
+- Jonny Boy
+- Kate Winslet
+- Max Beckett
+organisations:
+- Bridgerton –
+- Channel 4
+- ITVX
+- KPop Demon Hunters
+- Netflix
+- The Gentlemen 2
+- Tubi
+- Uswitch
 ---
 
 Netflix has raised the prices of its UK subscriptions, with its cheapest plan jumping by a third in the latest round of hikes.

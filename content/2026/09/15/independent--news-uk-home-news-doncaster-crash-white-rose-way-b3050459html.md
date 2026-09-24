@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Doncaster
+- South Yorkshire
+- White Rose Way
+people: []
+organisations:
+- Audi
+- Mitsubishi
 ---
 
 The ’multiple-vehicle collision’ occurred about 11am on Sunday (PA)

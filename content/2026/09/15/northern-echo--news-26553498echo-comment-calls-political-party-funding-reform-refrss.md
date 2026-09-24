@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+people: []
+organisations:
+- Conservative Party
+- House of Lords
+- Labour
+- Reform
 ---
 
 *(Image: NORTH NEWS AND PICTURES)*

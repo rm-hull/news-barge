@@ -12,6 +12,11 @@ categories:
 - Europe
 - News & Politics
 - Video Gaming
+locations:
+- Bishkek
+- Kyrgyzstan
+people: []
+organisations: []
 ---
 
 The World Nomad Games have brought together athletes from more than 90 countries in Kyrgyzstan, where competitors are showcasing traditional skills including horse racing, mounted wrestling, archery and wrestling.

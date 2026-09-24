@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bowburn
+- Clarence Street
+- Darlington
+- Durham Road
+people:
+- Dad
+- Jacko
+- Kye Dymond
+- Laura Peto
+- Martin Towers
+- Miss Peto
+- Richard Clews
+organisations:
+- Coke
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

@@ -14,6 +14,18 @@ categories:
 - York
 - News & Politics
 - Travel
+locations:
+- Brook Street
+- Garden Street
+- Gillygate
+- Groves
+- Lowther Street
+- Townend Street
+- York
+people: []
+organisations:
+- Alice Kavanagh
+- North Yorkshire Police
 ---
 
 *(Image: Alice Kavanagh)*

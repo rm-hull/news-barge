@@ -13,6 +13,27 @@ categories:
 - UK
 - True Crime
 - Health & Fitness
+locations:
+- Arnside Avenue
+- Blackpool
+- Charlotte
+- Chester Crown Court
+- Congleton
+- Crewe
+- Padbury Lane
+- Padgbury Lane
+people:
+- Charlotte Dodd
+- DCI Hutcheon
+- Dave Hutcheon
+- Matthew DuPlessis
+- Ms Dodd
+- Richard Darrock Way
+organisations:
+- CCTV
+- Cheshire Constabulary
+- Crown Court
+- DCI Hutcheon
 ---
 
 A man has been jailed for causing the death of his girlfriend after initially lying that she had been struck in a hit and run.

@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Germany
+people: []
+organisations:
+- Bitkom
+- BundID
+- EU
+- NExT
+- NFC
+- Stuttgart
 ---
 
 Many international residents in Germany will be familiar with the story.

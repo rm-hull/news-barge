@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Greene King
+- North East
+- North Yorkshire
+- UK
+people:
+- Clair Preston Beer
+- Greene King
+organisations:
+- Alamy Stock Photo
+- Cornerstone Pubs
+- Daily Express
+- Greene King
 ---
 
 *(Image: Alamy Stock Photo)*

@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Leeds
+people:
+- Danielle
+- Gofundme
+- Jojo
+- Kylie Pybus
+organisations: []
 ---
 
 *(Image: Gofundme)*

@@ -14,6 +14,18 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Driffield
+- Pickering
+- Scotland
+people:
+- James Hardisty
+- Justin Dacre
+- Lily Appleby
+- Sophie
+- Tom French
+organisations:
+- Fowler Showmans Steam Engine
 ---
 
 The popular event featured impressive traction engines, vintage cars, tractors, motorcycles and military vehicles.

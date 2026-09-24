@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Abbey Lane
+- Ecclesall Woods
+- Sheffield
+- Whirlowdale Road
+- Yorkshire
+people: []
+organisations: []
 ---
 
 # Body found in Yorkshire woods with death treated as “unexplained”

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Berkshire
+- Dorset
+- Dyfed
+- Iran
+- Isle of Wight
+- Middle East
+- Middle Eastern
+- Rutland
+- Strait of Hormuz
+- UK
+- US
+- Wales
+- West Yorkshire
+people:
+- Grant Fitzner
+- John Healey
+- Thomas Pugh
+organisations:
+- ADVERTISEMENT ONS
+- Bank of England
+- Cornwall Insight
+- Fuel Map UK
+- Gloucestershire
+- Monetary Policy Committee
+- Ofgem
+- RSM UK
+- Surrey
 ---
 
 Inflation jumped to 3.1 per cent in August, driven by rising petrol and diesel prices, the latest official statistics have revealed.

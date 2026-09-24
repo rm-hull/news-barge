@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bui River
+- Hanoi
+- Ho Chi Minh City
+- Nghe An
+- Ninh Binh
+- Thanh Hoa
+- Vietnam
+people:
+- Tran Ngoc Tai
+organisations:
+- AP
+- Associated Press’
+- Southern Regional Hydro-Meteorological Center
+- VTV
 ---
 
 Heavy rain caused flooding across parts of northern Vietnam on Thursday, disrupting travel, inundating homes and pushing several rivers above dangerous levels, authorities and state media said.

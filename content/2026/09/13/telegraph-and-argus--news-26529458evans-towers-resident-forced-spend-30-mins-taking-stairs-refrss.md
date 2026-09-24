@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Evans Towers
+- Little Horton
+- Rayhill Grove
+people:
+- Colin Doherty
+organisations:
+- An Incommunities
+- Evans Towers
 ---
 
 *(Image: T&A)*

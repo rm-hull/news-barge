@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Beijing
+- Caracas
+- Caribbean Sea
+- China
+- Cuba
+- Iran
+- Italy
+- Moscow
+- New York
+- Russia
+- Spain
+- UK
+- US
+- Venezuela
+- Washington
+- White House
+people:
+- Cilia Flores
+- Delcy Rodríguez
+- Donald Trump
+- Francisco Rodríguez
+- Hugo Chávez
+- Jillian Ambrose
+- Nicolás Maduro
+organisations:
+- BP
+- Chevron
+- ConocoPhillips
+- Eni
+- ExxonMobil
+- Repsol
+- Shell
+- UN
+- US Department of State
+- World Bank
 ---
 
 Written in the middle of the last century, the US Department of State memo conveys its message in a curt and undiplomatically honest tone: the glue that binds Washington to Caracas is, and is always likely to be, oil.

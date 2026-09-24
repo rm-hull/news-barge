@@ -14,6 +14,41 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Birmingham
+- Clacton
+- UK
+- US
+- Westminster
+people:
+- Bridget Phillipson
+- Chris Harborne
+- Dan Jukes
+- Ed Davey
+- Emily Thornberry
+- George Cottrell
+- James Orr
+- Kemi Badenoch
+- Lisa Smart
+- Ms Smart
+- Nigel Farage
+- Posh George
+- Zack Polanski
+organisations:
+- Channel 4
+- Channel 4 News
+- Commons Foreign Affairs Select Committee
+- Electoral Commission
+- Green Party
+- Greens
+- Labour Party
+- Lib Dem
+- Lib Dem Cabinet Office
+- Met Police
+- Metropolitan Police and Electoral Commission
+- Political Parties
+- Reform UK
+- Verbatim
 ---
 
 Reform UK has been reported to the police over allegations it breached political donation rules by having polling paid for by an overseas company.

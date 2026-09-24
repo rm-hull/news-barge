@@ -13,6 +13,32 @@ image: https://images.euronews.com/articles/stories/09/90/74/46/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Ceuta
+- Melilla
+- Morocco
+- Spain
+people:
+- '## Sánchez'
+- Fernando Grande-Marlaska
+- Margarita Robles
+- Moncloa
+- Pedro Sánchez
+organisations:
+- CENIF
+- CNI
+- Centre (...)
+- Ceuta Delegation
+- DGED
+- DGST
+- Facebook
+- Government Delegation
+- Guardia Civil
+- Interior Ministry
+- National Centre for Immigration and Borders
+- National Intelligence Centre
+- TVE News Council
+- WhatsApp
 ---
 
 ## Speaking on Spanish public TV on Wednesday, Sánchez criticised the National Intelligence Centre for failing to anticipate the mass sea crossing. However, the agency had warned its Moroccan counterparts and police chiefs in Ceuta and Melilla.

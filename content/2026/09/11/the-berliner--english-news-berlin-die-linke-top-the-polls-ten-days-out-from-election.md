@@ -13,6 +13,20 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- BerlinTrend
+people:
+- Die Linke
+- Steffen Krach
+organisations:
+- ARD
+- AfD
+- BSW
+- CDU
+- Die Grünen
+- Die Linke
+- SPD
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0850476718h-scaled.jpg)

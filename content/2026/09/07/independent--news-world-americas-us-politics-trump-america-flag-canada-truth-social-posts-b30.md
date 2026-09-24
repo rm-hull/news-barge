@@ -10,6 +10,35 @@ image: https://static.independent.co.uk/2026/09/07/18/40/aa5ab775a7556bda.jpg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Caribbean
+- Cuba
+- Denmark
+- Greenland
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- Lake America
+- Lake Ontario
+- New America
+- New Mexico
+- North America
+- Strait of Hormuz
+- U.S.
+- United States
+- Venezuela
+- White House
+people:
+- Bluesky
+- Donald Trump
+- Eric Daugherty
+- Kurt Taylor Gaubatz
+organisations:
+- Financial Times*/Focaldata
+- NATO
+- The Independent
+- Truth Social
 ---
 
 President Donald Trump posted an image on Truth Social on Monday showing a map where the United States covered all of continental North America and Greenland, the latest in a string of provocative posts with imperial undertones as the U.S. continues its trade war with Canada.

@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png
 categories:
 - Technology & Software
 - Science
+locations:
+- Halo Station
+- Threadripper Halo Station
+people:
+- Jack Huynh
+organisations:
+- AI
+- AMD
+- DGX Station
+- Efosa
+- GPU
+- Google News
+- Nvidia
+- TechRadar Pro
 ---
 
 ![AMD Threadripper Halo Station coming in 2027](https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK.png) 

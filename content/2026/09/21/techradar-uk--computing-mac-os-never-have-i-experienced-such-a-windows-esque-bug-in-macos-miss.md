@@ -11,6 +11,25 @@ description: Afraid that macOS 27 is buggy? Early feedback is making upgraders n
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/sCn5MjPEYcGmrNXar8AraR-1920-80.jpg
+locations:
+- Control Center
+- Golden Gate
+- Sequoia
+- Tahoe
+people:
+- Redditor
+organisations:
+- Apple
+- Exposé
+- Golden Gate
+- Google News
+- Hachette UK
+- Mac
+- Microsoft
+- Mission Control
+- QA
+- Reddit
+- Tahoe
 ---
 
 ![A sad woman looks at her MacBook while rubbing her temples in frustration](https://cdn.mos.cms.futurecdn.net/sCn5MjPEYcGmrNXar8AraR.jpg)

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Berkshire
+- Chelsea
+- Downing Street
+- Kensington
+- London
+- Maidenhead
+- Richmond
+- Wandsworth
+- Windsor
+people:
+- Andy Burnham
+- Fleur Anderson
+- Kemi Badenoch
+- Marsha de Cordova
+- Matt Chorley
+- Rosena Allin-Khan
+- Simon Hogg
+organisations:
+- BBC Newsnight
+- Conservative Party
+- Houses of Parliament.
+- Labour
+- Ministry of Housing, Communities and Local Government
+- PoliticsHome
+- Tories
+- Tory
+- Wandsworth Council
+- Westminster
 ---
 
 Watch: Badenoch says she will challenge government over Wandsworth tax hike

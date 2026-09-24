@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Georgia
+- Hyatt Regency Savannah
+- Myrtle Beach
+- Savannah —
+- South Carolina
+people: []
+organisations:
+- Audi
+- BMW
+- Fairfield Inn
+- Savannah Police Department
+- The Independent
+- WSB-TV
 ---
 
 A man allegedly stole a $90,000 BMW SUV from a Georgia hotel by convincing valet workers that he was a professional basketball player who owned the car.

@@ -11,6 +11,43 @@ image: https://static.independent.co.uk/2026/03/10/12/57/A-satellite-image-shows
 categories:
 - News & Politics
 - UK
+locations:
+- '## Island'
+- Artavil
+- Chatham House
+- Forbidden Island’
+- Iran
+- Iraq
+- Kharg Island
+- Persian Gulf
+- Strait of Hormuz
+- Tehran
+- US
+- Venezuela
+people:
+- Achilles Heel
+- Donald Trump
+- JD Vance
+- Joseph Votel
+- Kharg
+- Michael Rubin
+- Mohammad Bagher Ghalibaf
+- Neil Quilliam
+- Saddam Hussein
+- Tamas Varga
+organisations:
+- '![Trump'
+- AI
+- American Enterprise Institute
+- CNN
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Pentagon
+- Reuters
+- TWZ.com
+- The Independent
+- Trump
+- US Central Command
 ---
 
 Six months into the war with Iran, US president Donald Trump has posted a fake AI video to social media, claiming that a key Iranian island was being destroyed.

@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Chicago
+- Corpus Christi
+- DC
+- Texas
+- US
+- Washington
+people:
+- Donald Trump
+- Flock
+- Michael Cloud
+- Raja Krishnamoorthi
+organisations:
+- Camera Keeping—
+- Cloud
+- Congress
+- Department of Transportation
+- Federal License-Plate Observation
+- Flock
+- New York University School of Law’s Policing Project
+- WIRED
 ---
 
 A bipartisan pair of US lawmakers tell WIRED they plan to introduce legislation today that would strip federal funding from states that fail to restrict the use of Flock cameras and other automated license plate readers. The devices, which help police track the location of vehicles tied to crimes, have become the subject of nationwide backlash in recent months over more nefarious uses by officers.

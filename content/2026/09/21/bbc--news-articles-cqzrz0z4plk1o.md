@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fc0/live/e2b6f830-b355-11f1-b949-71f91f81d1ab.png
+locations:
+- Hungary
+- London
+people:
+- Mattea
+- Omari
+- Peter Fonagy
+- Wes Streeting
+organisations:
+- BBC
+- Mattea
+- NHS England
+- Prof Fonagy
 ---
 
 ![A young girl with a ponytail staring out of a window, seen from behind](https://ichef.bbci.co.uk/ace/standard/929/cpsprodpb/5fc0/live/e2b6f830-b355-11f1-b949-71f91f81d1ab.png)

@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Africa
+- Britain
+- Coronation Street
+- County Durham
+- DURHAM COUNTY COUNCIL
+- Darlington Station
+- Hetton-Le-Hole
+- London
+- Low Moorsley
+- North East
+- Princess of Wales
+- Royal Family
+- Sunderland
+people:
+- Carole Goldsmith
+- Carole Middleton
+- Catherine
+- Consort
+- Dorothy Harrison
+- James Harrison
+- Jane
+- Kate
+- Michael Middleton
+- Ronald Goldsmith
+- Thomas Harrison
+organisations:
+- Party Pieces
 ---
 
 The Princess of Wales may now be one of the most recognisable figures in the world, but her family story begins far from royal residences and state banquets.

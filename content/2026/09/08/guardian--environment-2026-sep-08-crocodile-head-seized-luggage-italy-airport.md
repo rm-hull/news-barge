@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Caselle
+- Delhi
+- Istanbul
+- Italy
+- Miami
+- Sicily
+- Thailand
+- Turin
+people: []
+organisations:
+- WWF
 ---
 
 An Italian man is facing a hefty fine or possible prison term after the dried head of a critically endangered crocodile was found in his luggage at Turin’s Caselle airport.

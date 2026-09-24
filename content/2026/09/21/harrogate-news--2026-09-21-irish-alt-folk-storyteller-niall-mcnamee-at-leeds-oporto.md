@@ -15,6 +15,24 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2023/11/cropped-logosquare.jpg
+locations:
+- Elland Road
+- Isle of Wight
+- Oporto
+- UK
+people:
+- Gerry
+- Jackie Chan
+- Niall McNamee
+- Pierce Brosnan
+- Springsteen
+- Steve Coogan
+organisations:
+- Cambridge Folk
+- Leeds United
+- The Pogues
+- The Square Ball
+- The Telegraph
 ---
 
 Irish singer-songwriter and actor Niall McNamee has announced a highly anticipated return to Leeds as part of his upcoming *Limited Edition UK and Ireland Tour*. The artist will perform an intimate headline show at**Oporto on Sunday, 15 November 2026**.

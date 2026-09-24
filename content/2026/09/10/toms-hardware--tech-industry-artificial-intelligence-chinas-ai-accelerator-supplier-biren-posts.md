@@ -13,6 +13,36 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+- People's Republic
+- U.S.
+people:
+- Anton Shilov
+- Biren
+- Tom
+organisations:
+- AI GPUs
+- AMD
+- American AI
+- BR106
+- BR166 —
+- Biren Technology
+- Birensupa
+- CUDA
+- Cambricon
+- Google News
+- Huawei
+- JPR
+- Jon Peddie Research
+- Kunlunxin
+- Nvidia
+- Nvidia's
+- PRC
+- SMIC
+- Tom’s Hardware
+- Trump
+- non-Nvidia AI
 ---
 
 ![Biren Technology](https://cdn.mos.cms.futurecdn.net/GYbHihL4UMykeaqgVG9gGc.png) 

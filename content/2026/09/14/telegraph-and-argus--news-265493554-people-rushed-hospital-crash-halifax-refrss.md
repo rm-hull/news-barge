@@ -12,6 +12,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Boothtown Road
+- Halifax
+- UGC
+people: []
+organisations:
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

@@ -13,6 +13,54 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Banks Homes Riverside
+- Channy Dance Academy Chester-le-EATS
+- Chester-le-Street
+- DH3 3QR
+- Durham Cricket
+- Jamie Lee Harrison
+- Matty Fenny
+- To Hell
+- Verona
+people:
+- Annis Rallis
+- Daniel Jonberger
+- Luke Palmer
+- Patrick Kelly
+- Ythan Sale
+organisations:
+- Banks Homes Riverside
+- Bass Notes Coffee
+- Burgers
+- Chester-le-EATS
+- Chester-le-Street
+- Chicken Ting
+- Clarence Spirits
+- Crush Wine Bar
+- Durham Cricket
+- Fat Rabbit Crafts
+- Flankman Tacos
+- Geordie Banger Co
+- Grandpa’s Fish Bar
+- Great British Cheese Company
+- Hen & Hops
+- Le Mini Macaron
+- N’ Cheese
+- Pevs Prints
+- Prohibition Distillery
+- Redheads Mac
+- Sawley Kitchen
+- Spud Gun Loaded Fries
+- The Big Banh
+- The Dessert Hub
+- The Hedgehog Bakery
+- The Little Poffertje Pancake Shack
+- The Loaded Dawg
+- The Rock Choir
+- The Sunrise Patisserie
+- Tin of Sardines
+- WL Distillery
 ---
 
 Chester-le-Street's food and drink festival will return for its fifth year next month with its biggest-ever line-up ever promised and new food-and-drink masterclasses.

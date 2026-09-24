@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Nepal
+- Rasuwa
+- Sano Bakhu
+- South Asia
+- Syfrubesi
+people:
+- Azadeh Moshiri
+organisations:
+- BBC
 ---
 
 # Once a village, now barren land - BBC in valley devastated by floods

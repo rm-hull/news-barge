@@ -14,6 +14,17 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Earth
+- Seattle
+people:
+- David Baker
+organisations:
+- AI BioDesign
+- Allen Institute
+- Fred Hutchinson Cancer Center
+- University of Washington
+- WIRED en Español
 ---
 
 The natural world as we know it represents only a fraction of what might exist. Based on this idea, AI BioDesign was born: a scientific project that combines artificial intelligence and large-scale laboratory experiments to design and test new molecules and biological functions that are not found in nature but are physically and chemically possible.

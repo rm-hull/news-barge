@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bali
+- Bangkok
+- Benfleet
+- Bristol
+- Changi Airport
+- Essex
+- London Heathrow
+- Singapore
+- Thornbury
+- UK
+people:
+- Andrew Dawood
+- Bradley Richards
+- Bryan Matthews
+- Geoff Kitchen
+- Goh Choon Phong
+- Hannah Fullerton
+- Jack Jenkins
+- James Healey-Pratt
+- Linda Kitchen
+- Michael Rainey
+- Mrs Kitchen
+- Pauline
+- Richards’
+organisations:
+- High Court
+- Keystone Law
+- Singapore Airlines
+- The Independent
 ---
 
 A holidaymaker who suffered severe spinal and neck injuries when a Singapore Airlines flight was struck by turbulence says he’s “still fighting to recover” from the traumatic experience two years on.

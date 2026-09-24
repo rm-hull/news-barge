@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Edinburgh
+- Iran
+- Israel
+- Tehran
+- UK
+- US
+- Wimbledon
+people:
+- Andy Burnham
+- Huw Pill
+- Russ Mould
+- Tom Simpson
+organisations:
+- AJ Bell
+- BBC
+- Bank of England
+- Coventry Building Society
+- Moneyfacts
+- Pill
+- Yorkshire Building Society
 ---
 
 Homeowners in the UK are braced for a jump in mortgage rates, driven by higher inflation and interest rate increase expectations amid turmoil in the global bond markets.

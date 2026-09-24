@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- France
+- Goa
+- India
+- Mumbai
+- Netherlands
+- s-Hertogenbosch
+people:
+- God
+- Marta Fiorin
+- Matthew
+- Meena Geltink
+- Michelle Osbourne
+- Minal Tijssen
+- Sister
+organisations:
+- BBC
+- Backstreet Boys
+- Facebook
+- Meena Geltink
+- Minal
+- REUTERS
+- Reuters
 ---
 
 ![Indian-born women Meena Geltink, 43, and Minal Tijssen, 44, adopted separately as babies and raised near each other in the Netherlands, meet after a DNA test revealed they were biological sisters, in 's-Hertogenbosch, Netherlands, August 11, 2026. REUTERS/Marta Fiorin](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dbca/live/a4810570-97c0-11f1-9963-d1f200dff659.jpg)

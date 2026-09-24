@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- Silicon Valley
+- Stanford
+- Tiki Room
+people:
+- Walt Disney
+organisations:
+- AV
+- Elgato Stream Deck
+- Future plc
+- Nerds Ltd
+- NoiseAssist
+- OHG
+- OWC Thunderbolt Go Dock
+- Office Hours Global
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A digital grid criss-crossing the lights of a city below](https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM.jpg) 

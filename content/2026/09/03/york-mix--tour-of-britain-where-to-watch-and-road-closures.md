@@ -12,6 +12,43 @@ categories:
 - York
 - Travel
 - History
+locations:
+- '** Ripon**'
+- A170 Bridge Street
+- A684 Wensley
+- Brafferton
+- Brentwood
+- Brompton
+- Craggs Lane
+- Earlston
+- East Yorkshire
+- Greenhow Bank
+- Greenhow Hill
+- Grinton KoM
+- Grove Square Leyburn
+- Helmsley
+- Helmsley**
+- Helperby
+- Hull
+- Kirby Hill
+- Leyburn Railway Street
+- Lincolnshire
+- Middleham Road
+- Newton le Willows
+- North York Moors
+- North Yorkshire
+- Pateley Bridge
+- Ripon Racecourse
+- Ripon Studley Road
+- Scottish Borders
+- Tunstall Road
+- UK
+- West Burton
+- Whipperdale
+- Yorkshire Dales National Park
+people: []
+organisations:
+- Kidstones Bank
 ---
 
 The world’s best cyclists are heading our way – as the Tour of Britain comes to North Yorkshire this weekend.

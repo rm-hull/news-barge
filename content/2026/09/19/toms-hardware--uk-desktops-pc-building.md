@@ -12,6 +12,22 @@ categories:
 - Hardware
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/R3HYp5NQj4sN6PaqkzisVH-320-80.jpg
+locations: []
+people:
+- Mike
+- Stephenson
+organisations:
+- ASRock
+- Amazon
+- Asus
+- Edison
+- Get Tom's Hardware
+- Gigabyte
+- Intel
+- MSI
+- ROG
+- Redditor
+- Valve
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/R3HYp5NQj4sN6PaqkzisVH-320-80.jpg)

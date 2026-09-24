@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+people:
+- Alison King
+- Jim Varney
+organisations:
+- Advanced Foundation Trust
+- NHS England
+- NOF
+- National Oversight Framework
+- North East NHS
+- STSFT
+- South Tyneside
+- Sunderland NHS Foundation Trust
 ---
 
 *(Image: Jim Varney)*

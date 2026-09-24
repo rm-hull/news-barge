@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/20922073.jpg?type=og-image
+locations:
+- Halifax Town Centre
+- Woolshops
+people:
+- Pixabay
+organisations:
+- CBO
+- West Yorkshire Police
+- West Yorkshire Police** A
 ---
 
 *(Image: Pixabay)*

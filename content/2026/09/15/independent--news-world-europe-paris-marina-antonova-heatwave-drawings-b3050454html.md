@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Beaumont-les-Valence
+- Bordeaux
+- Europe
+- Fontainebleau
+- France
+- Italy
+- Paris
+- Russia
+- Spain
+people:
+- Marina Antonova
+organisations:
+- The Associated Press
 ---
 
 As Paris transitions into the cooler temperatures of autumn following months of intense heat, the memory of France’s hottest summer on record remains vivid — preserved in the work of illustrator Marina Antonova.

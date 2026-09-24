@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Hungary
+people:
+- Fidesz
+- Katalin Novák
+- Péter Magyar
+- Viktor Orbán
+organisations:
+- Court of Justice
+- EU
+- European Union
+- Horváth Ferenc
+- LGBTQ
+- Magyar
+- Tisza Party
 ---
 
 **Euronews/Horváth Ferenc**

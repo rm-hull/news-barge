@@ -11,6 +11,17 @@ image: https://i.guim.co.uk/img/media/c7b56ca182beb845a51ee94841ed7fa864c5a1a7/1
 categories:
 - UK
 - News & Politics
+locations:
+- UK
+people:
+- Andy Burnham
+- Kiran Stacey
+- Peter Walker
+- Pippa
+- Stephen Kinnock
+organisations:
+- Burnham’s
+- EU
 ---
 
 - 

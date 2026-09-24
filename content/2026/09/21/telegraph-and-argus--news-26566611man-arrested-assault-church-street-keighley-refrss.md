@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21480142.jpg?type=og-image
+locations:
+- Church Street
+- Keighley
+people: []
+organisations:
+- Google Streetview
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Google Streetview)*

@@ -13,6 +13,10 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations: []
+people:
+- Wintringham
+organisations: []
 ---
 
 Wintringham celebrated a good turnout for its first horticultural show at the weekend.

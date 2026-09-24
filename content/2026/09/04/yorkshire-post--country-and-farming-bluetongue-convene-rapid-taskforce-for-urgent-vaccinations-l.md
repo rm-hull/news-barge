@@ -14,6 +14,38 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Cumbria
+- East Yorkshire
+- England
+- Europe
+- Harrogate
+- North
+- South West
+- Strensall
+- Whitehall
+- York
+- York.
+people:
+- Anna Sabine
+- Burnham
+- Ed Davey
+- Robbie Moore
+- Stephen Morgan
+- Tom Gordon
+organisations:
+- Defra
+- Department for Environment, Food and Rural Affairs
+- Environment Department
+- Government
+- Knaresborough
+- Lib Dems
+- Liberal Democrat
+- Liberal Democrats
+- North East Somerset
+- Sheriffs Alpacas
+- Veterinary Medicines Directorate
 ---
 
 # Bluetongue: convene rapid taskforce for urgent vaccination programme, Lib Dems say

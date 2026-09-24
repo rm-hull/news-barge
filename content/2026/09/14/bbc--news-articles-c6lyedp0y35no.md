@@ -13,6 +13,46 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Europe
+- High Street
+- Northern Ireland
+- Oxfordshire
+- Piddington
+- Reform UK
+- Scotland
+- Sydney
+- US
+- Wales
+people:
+- Amy Hunt
+- Andy Burnham
+- Archie
+- Harry
+- Lilibet
+- Meghan
+- Nigel Farage
+- Piddington
+- Roy
+- Sydney Sweeney
+organisations:
+- Alzheimer's
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Department of Health
+- Duchess of Sussex
+- Financial Times
+- Guardian
+- Metro
+- Oasis
+- Post Offices
+- Reform UK
+- US Treasury
+- Westminster
 ---
 
 ![The headline on the front page of the Times reads: "'Enhanced" checks may block £72m to Reform.'](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/db2b/live/dabd1d60-b082-11f1-a540-61c3f7fc4e6c.jpg)

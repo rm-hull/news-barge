@@ -11,6 +11,18 @@ description: Google Translate's Live Translate mode now works offline across 11 
 image: https://cdn.mos.cms.futurecdn.net/irD7cpLwK9R2EEn6VHZu38-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- Android Authority
+- Clarity Media
+- Google News
+- Google Translate
+- Samsung Galaxy
+- TechRadar
+- iOS
 ---
 
 ![Google Translate](https://cdn.mos.cms.futurecdn.net/irD7cpLwK9R2EEn6VHZu38.jpg) 

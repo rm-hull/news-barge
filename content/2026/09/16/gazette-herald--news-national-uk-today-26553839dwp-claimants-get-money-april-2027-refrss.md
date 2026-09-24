@@ -14,6 +14,24 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- UK
+people:
+- Grant Fitzner
+- Peter Byrne
+- Steve Webb
+- Torsten Bell
+organisations:
+- '## State Pension'
+- Budget
+- DWP
+- ONS
+- Office for National Statistics
+- PA Wire
+- State Pension
+- Universal Credit
+- Universal Credit Claimants
 ---
 
 *(Image: Peter Byrne/PA Wire)*

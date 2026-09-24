@@ -14,6 +14,35 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+- Africa
+- Asia-Pacific
+- China
+- Europe
+- India
+- Middle East
+- Mount Pleasant
+- U.S.
+- Virginia
+- Wisconsin
+people:
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- AMD
+- AWS
+- Bloomberg
+- GPU
+- Google News
+- Jowi Morales
+- Nvidia
+- OpenAI
+- PricewaterhouseCoopers LLP
+- PwC
+- Railways
+- SpaceX
 ---
 
 ![an AWS data center in Virginia](https://cdn.mos.cms.futurecdn.net/SnihTFB2iy2sVR4QF2ETM8.png) 

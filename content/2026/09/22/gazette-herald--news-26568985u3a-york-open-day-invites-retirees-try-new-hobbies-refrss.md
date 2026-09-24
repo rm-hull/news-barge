@@ -13,6 +13,16 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21483706.jpg?type=og-image
+locations:
+- A York
+- Central Methodist Hall
+- St Saviourgate
+- u3a York
+people:
+- Karen Sawyer
+- Ms Sawyer
+organisations:
+- u3a York
 ---
 
 *(Image: u3a York)*

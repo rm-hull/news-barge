@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cullera Bay
+- Ireland
+- London
+- Mediterranean Sea
+- Spain
+- Valencia
+- Villa Luna
+people:
+- Daniel Englender
+- Ms Tobin
+- Patrick
+- Thomasina Tobin
+organisations:
+- Benjamin West International
+- Department
+- Irish Mirror
+- LinkedIn
+- Sunday Times
+- The Independent
+- The Times
+- Turner & Townsend Alinea
 ---
 
 An Irish woman found dead by her young children at a rented holiday villa in Spain last week has been pictured for the first time.

@@ -13,6 +13,48 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/18/22/Pentagon_POW_MIA_97144.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Austin
+- Bahrain
+- Europe
+- Iran
+- Iraq
+- Islamic Republic
+- Israel
+- Jordan
+- Kuwait
+- Middle East
+- Oman
+- Qatar
+- Saudi Arabia
+- Texas
+- U.S.
+- United Arab Emirates
+- United States
+- White House
+- Yemen
+people:
+- Lisa Mascaro
+- Pete Hegseth
+organisations:
+- AP
+- Army
+- Associated Press
+- Bloomberg
+- CBO
+- Congress
+- Congressional Budget Office
+- Defense Casualty Analysis System
+- Defense Department
+- Hegseth
+- NATO
+- Navy
+- Pentagon
+- Punchbowl News
+- Saronic Technologies
+- The Associated Press
+- Trump
+- U.S. Central Command
 ---
 
 The U.S. military's price tag for the Iran war has grown to $43.6 billion as of Sept. 3, according to a new estimate provided this week to lawmakers.

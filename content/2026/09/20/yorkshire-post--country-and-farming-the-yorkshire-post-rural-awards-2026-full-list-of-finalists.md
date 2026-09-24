@@ -13,6 +13,184 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUyNmRjODc5LTY2ZTQtNDZkYi1iZGQzLWYwN2ZmNzA5MWQ2NzowZTk0NjI2My04MjZlLTRhM2YtOTY2Mi02YWRlODI3ZDFmODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Arable Farm
+- Barnburgh Farming
+- Beechwood Farm
+- Bentham
+- Bolton Hall Farm
+- Bradford
+- Brandesburton
+- Cockbush Farm
+- Coniston Cold Horncastle Farm
+- Cracoe The Emmotts of Gunthwaite Hall Farm
+- Far Cringles Farm
+- Goole
+- Great Yorkshire Showground
+- Gunthwaite The Falshaws of Shaws Farm
+- High Snape Farm
+- Hilltop Farm
+- Hornington Manor
+- Hoylandswaine Studfold
+- Ingleby Arncliffe The Emmotts of Gunthwaite Hall Farm
+- Keasden
+- Low Hill Farm
+- Manor House Farm
+- Mexborough
+- Moulton
+- North Grimston Richard Barker
+- North Lingy Moor Farm
+- North Yorkshire
+- Nun Monkton The Barn That Rocks
+- Oak House Farm
+- Old Malton
+- Pontefract Hearty Fest
+- Pot Haw Farm
+- Prospect House Farm
+- Pudsey Jim Farrington
+- Ravensknowle Farm
+- Red House
+- Richmond The Carlisles of Coxons Farm
+- Sandhall Farm
+- Sherburn
+- Shipton
+- Skelton Estate
+- Stanghow
+- Stokesley
+- Swinton
+- Tatham
+- The Nidderdale Experience’ Stump Cross Caverns
+- Treebridge Farm
+- UK
+- Usha Gap Farm
+- Wensley
+- Wensleydale
+people:
+- Alicia Martin
+- Beningbrough Liam McPartland
+- Bentham Sarah Roberts
+- Chris Berry
+- Daniel Thackray
+- Glenn Brown
+- Henry Wainwright
+- Howden Rebecca Wilson
+- Ian Hutchinson
+- James Bailey
+- Jim Farrington
+- John Aynsley
+- Jonathan Cooper
+- Kirklington John Aynsley
+- Lewis Yates
+- Mike Powley
+- Paul Bradley
+- Richard Bamforth
+- Robert Raper
+- Ruth Clapham
+- Sarah Broadwith
+- Studfold Philip Parkin
+- Thirsk Lizzy Elgie
+organisations:
+- Abbott’s Close Farm
+- Aberford Schools Vegetable Box
+- Aberford Stephen Frankland
+- Alan & Colin Price
+- Apprenticeship Initiative Farmyard Friends Day Nursery Ltd Ian
+- Arable Farm
+- Beningbrough Trotters
+- Blooming Sheep
+- Blubberhouses The Shipley Family of Glebe Farm
+- Bolton Percy
+- British Wool Craven Country Ride
+- Brunswick Shop Sledmere House
+- Burnsall The Metcalfes
+- Campsite West End Farm Holidays
+- Cattle Farm** James
+- Clapham Liam McPartland of Hornington Manor
+- Craven Cattle Marts
+- Curlew Fields Farm Cafe & Shop
+- Denby Dale The Douthwaites
+- Dumble Farm Swinton Bivouac
+- Dunford Bridge
+- Egg Shed Farm Shop The Hildreths
+- Far Cringles Farm
+- Farmer Copley’s
+- Fewston Isabel Soar of Bank House Farm
+- Frontier Agriculture Heather Challis
+- Gladvic Farm
+- Grafton Richard Barker
+- Grazing Nook Farm
+- Green Hammerton Rebecca Mountain
+- Green Hammerton Swaledale
+- Green Tree Farm
+- Gunthwaite The Housemans of Prospect Farm
+- Harrison Spinks
+- Harton The Ryders
+- Hessay The Ribys
+- Hunday Field Farm
+- Kidfield Farm
+- Kirkby Overblow FarmTrax Music Festival
+- Kirkby Overblow The Metcalfes
+- Kirklington James Kilby of Espersykes Farm
+- Lawrence & Jennie Tatlock
+- Lindley Tom
+- Long Bank Farm
+- Low House Farm
+- Marske The Wolds Project
+- Masham Ollie Seage
+- Moulton
+- Nanny Goat Farm
+- North Lingy Moor Farm
+- North Yorkshire Reindeers
+- Nufarm
+- Nufarm*** Heather Challis
+- Oak House Farm
+- Oliver & Lucy Leatham of Telfit Farm
+- Overall Farm and Dairy Farm
+- Padel Farm The Platts
+- Parkin Butchers
+- Patrick Brompton Yorkshire Farming Conference
+- Pavilions of Harrogate
+- Peaks View
+- Pig Farm
+- Rare Breed
+- Red House
+- Richmond SealStop TwoCan Mentor
+- Rufforth **Farm Shop
+- Rural Accommodation
+- Rural Business
+- Rural Rising Star
+- SWEF
+- Sandhall Farm
+- Scaife Hall Farm
+- Sheep Farm
+- Sherburn **Environmental Initiative
+- Silsden & New York Farms
+- Silverhill Farm
+- Skelton Estate
+- Sproxton Hall Farm
+- Stephensons Rural Mason Dibb
+- Stonehills Farm Pantry Trotters
+- Studdah Farm
+- Studfold & Halfway House
+- Sutton
+- Swinton Estate Rebecca Mountain
+- Swinton Estate The Fell Hotel
+- Tatie Shed Milk
+- The Flower Belt
+- The McCandless Family
+- The Platts
+- The Telfit Farm Project
+- Thorne **Dairy Farm
+- Thorne Rosie Garth
+- Usha Gap Farm The Smith Family of Windleden Farm
+- Wensleydale Environmental Farmers
+- Willen Tree Farm
+- Wyke
+- Yorkshire Agricultural Society
+- Yorkshire Agricultural Society The Hildreths of Grasslands Farm
+- Yorkshire Heart Vineyard
+- Yorkshire Post
+- Yorkshire Post Rural Awards
 ---
 
 # The Yorkshire Post Rural Awards 2026: Full list of finalists revealed

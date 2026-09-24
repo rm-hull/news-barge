@@ -11,6 +11,14 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- UK
+people:
+- Martin Lewis
+organisations:
+- NS&I
+- National Savings and Investment
+- Premium Bonds
 ---
 
 Every month, savers have the chance to win big prizes as the Premium Bonds winning numbers are announced. There are now 22 million people taking part in the government-backed savings scheme, with more than £137bn banked.

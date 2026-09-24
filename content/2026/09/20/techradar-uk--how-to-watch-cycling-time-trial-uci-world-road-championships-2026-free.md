@@ -12,6 +12,71 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/PFcKCtWxGwAzspuRu2fm6G-2560-80.jpg
+locations:
+- Abu Dhabi
+- Australia
+- Belgium
+- Canada
+- France
+- Germany
+- Gossau
+- Italy
+- London
+- Paris
+- Portugal
+- Spain
+- Switzerland
+- UK
+- US
+- USA
+- Zürich
+- canada
+- uk
+people:
+- Adrian Back
+- Antonia Niedermaier
+- Callum Thornley
+- Demi Vollering
+- Elisa Longo Borghini
+- Fabian Cancellara
+- Filippo Ganna
+- Lieke Nooijen
+- Marlen Reusser
+- Remco Evenepoel
+- Stan
+- Stefan Küng
+- SurfShark**
+- Zoe Bäckstedt
+organisations:
+- Amazon Fire TV
+- Apple TV
+- BBC Three**
+- BBC Two
+- BBC iPlayer
+- CBC Gem
+- CBC Gem in Canada
+- CBC Sports
+- CBC Sports**
+- Facebook
+- FloBikes
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- ITT
+- NBA
+- Newsweek
+- RTBF Auvio
+- RTP
+- Red Bull
+- Roku
+- Sporza
+- Stan Sport
+- Surfshark**
+- TNT Sports
+- UCI
+- World Soccer Magazine
+- Yahoo
+- ZDF
 ---
 
 ![Remco Evenepoel of Team Belgium sprints during the 97th UCI Cycling World Championships Zurich 2024 – Men&#039;s Elite Individual Time Trial a 46.1km one day race from Gossau to Zürich](https://cdn.mos.cms.futurecdn.net/PFcKCtWxGwAzspuRu2fm6G.jpg)

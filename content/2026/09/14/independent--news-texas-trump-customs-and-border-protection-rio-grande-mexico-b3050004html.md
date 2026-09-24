@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Big Bend
+- Big Bend National Park
+- Gulf of Mexico
+- Pacific Ocean
+- Rio Grande
+- Texas
+- U.S.
+people:
+- David Keller
+- Rodney Scott
+organisations:
+- CBP
+- Congress
+- Conserve Big Bend
+- Customs and Border Protection
+- Department of Homeland Security
+- Homeland Security
+- Trump
 ---
 
 Landowners, ranchers and business owners in the Big Bend region of Texas along with a nonprofit organization dedicated to protecting the region's landscape and heritage are suing to stop the Trump administration's plans to build a wall and other border infrastructure through the remote section of the state.

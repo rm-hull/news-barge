@@ -14,6 +14,36 @@ categories:
 - York
 - Arts & Culture
 - Music
+locations:
+- HIgh Petergate
+- High Petergate
+- Japan
+- MUCH-LOVED York
+- Petergate York
+- Stonegate
+- UK
+people:
+- Delia
+- Emily Stubbs
+- Jo Walton
+- Lesley Birch
+- Lesley Shaw
+- Percy Barkes
+- Ric Liptrot
+organisations:
+- HMV
+- Holgate Windmill
+- Il Paradiso del Cibo
+- Japanese Print Shop
+- MAXINE GORDON
+- Pyramid Gallery
+- Ric
+- Stonegate
+- The Golden Ball
+- The Japanese Print Shop
+- The Press
+- The Pyramid Gallery
+- York Press
 ---
 
 *York artist Ric Liptrot honours Japanese Print Shop in new artwork, reports MAXINE GORDON*

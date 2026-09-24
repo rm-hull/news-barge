@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- High Street
+- North East
+- Redcar High Street
+people: []
+organisations:
+- Arriva
+- Banking Hub
+- High Court
+- McDonald’s
+- Post Office
+- Redcar Civic Centre
+- Redcar Post Office
+- TG Jones
 ---
 
 *(Image: GOOGLE MAPS)*

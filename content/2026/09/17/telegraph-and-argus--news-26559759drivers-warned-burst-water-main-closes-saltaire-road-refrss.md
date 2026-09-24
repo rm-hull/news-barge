@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- BD18 4SB
+- Bingley Road
+- Bradford
+- Otley Road
+- Saltaire Road
+people: []
+organisations:
+- Yorkshire Water
 ---
 
 *(Image: Google maps)*

@@ -13,6 +13,12 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations: []
+people:
+- Brantley Hall
+organisations:
+- '![Hall'
+- University of Maryland
 ---
 
 Scientists have developed a first-of-its-kind smart underwear to track how often people actually fart, an advance that could lead to new insights into human metabolism.

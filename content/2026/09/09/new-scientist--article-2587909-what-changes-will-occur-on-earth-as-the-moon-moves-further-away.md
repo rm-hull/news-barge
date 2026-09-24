@@ -12,6 +12,15 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304531134.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Dorset
+- Earth
+- UK
+- Wimborne Minster
+people:
+- James Fradgley
+- Venus
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304531134.jpg?w=840)

@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/10/09/Canada_Ukraine_87968.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Alberta
+- Black and Caspian
+- Calgary
+- Canada
+- Crimea
+- Kyiv
+- Moldova
+- Moscow
+- Norway
+- Romania
+- Russia
+- Sochi
+- U.S.
+- Ukraine
+- Voronezh
+people:
+- Alexander Gusev
+- Mark Carney
+- Volodymyr Zelenskyy
+organisations:
+- Ministry of Defense
 ---
 
 Ukrainian President Volodymyr Zelenskyy was in Canada on Thursday for talks with Prime Minister Mark Carney, his latest international trip aimed at locking in future support for Ukraine’s fight against Russia’s invasion.

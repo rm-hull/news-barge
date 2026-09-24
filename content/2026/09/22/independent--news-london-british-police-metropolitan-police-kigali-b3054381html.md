@@ -12,6 +12,37 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/15/Britain_Rwanda_Genocide_41448.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Kenya
+- Kigali
+- London
+- Nairobi
+- Rugenge
+- U.K.
+- Westminster Magistrates’ Court
+people:
+- Charlotte Kamaguja
+- Dominique Mukurarinda
+- Frank Brazell
+- Gerase Rurangirwa
+- Helen Flanagan
+- Immaculee Mukankusi
+- Jane Stansfield
+- Leandre Mbogoye
+- Olivier Tuyishime
+- Sam Blom-Cooper
+- Tharcisse Karugarama
+- Vincent Bajinya
+- Vincent Brown
+- Yolande Makolo
+- \_\_\_ Khaled Kazziha
+organisations:
+- AP
+- Central Criminal Court
+- Metropolitan Police
+- National Office of Population
+- The Associated Press
 ---
 
 A British prosecutor accused a doctor on Tuesday of overseeing six killings during the 1994 Rwandan genocide.

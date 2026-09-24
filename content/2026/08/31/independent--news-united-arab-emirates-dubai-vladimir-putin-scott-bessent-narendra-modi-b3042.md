@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Dubai
+- Gulf
+- Iran
+- Jordan
+- Kyrgyzstan
+- Larak
+- North Carolina
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United Arab Emirates
+- Washington
+people:
+- Abbas Araghchi
+- Donald Trump
+- Masoud Pezeshkian
+- Narendra Modi
+- Scott Bessent
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Al Menhad Air Base
+- Defense Ministry
+- Foreign Ministry
+- Group of 20
+- Revolutionary Guard
+- Revolutionary Guard Corps
+- Shanghai Cooperation Organization
+- U.S. Central Command
+- U.S. Treasury
+- UAE Defense Ministry
+- United Arab Emirates’
 ---
 
 The United Arab Emirates’ air force intercepted an Iranian drone over its territorial waters Monday, the Defense Ministry said, an attack that comes after the U.S. and Iran exchanged fire on the weekend, the first significant military action in a month.

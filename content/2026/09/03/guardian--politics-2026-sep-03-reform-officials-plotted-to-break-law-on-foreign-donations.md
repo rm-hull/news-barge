@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Birmingham
+- Clacton
+- Hong Kong
+- UK
+- US
+people:
+- Ben Delo
+- Bridget Phillipson
+- Christopher Harborne
+- Dan Jukes
+- Donald Trump
+- Ed Davey
+- James Orr
+- Nigel Farage
+organisations:
+- Centre for Climate Reporting
+- Channel 4 News
+- Delo
+- Electoral Commission
+- Guardian
+- JL Partners
+- Labour
+- Liberal Democrats
+- News’
+- Reform UK
+- Telegraph
+- Times
+- United States Congress
+- Verbatim Investigations’
 ---
 
 Nigel Farage is facing fresh criticism on the eve of the Reform UK party conference after some of his team were filmed appearing to plot to avoid electoral laws on foreign donations in an undercover investigation broadcast by Channel 4 News.

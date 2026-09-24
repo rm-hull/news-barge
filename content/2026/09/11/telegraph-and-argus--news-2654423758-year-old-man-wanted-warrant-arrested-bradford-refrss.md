@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Darley Street
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 A 58-year-old man wanted on warrant was arrested by police in Bradford city centre on Friday morning.

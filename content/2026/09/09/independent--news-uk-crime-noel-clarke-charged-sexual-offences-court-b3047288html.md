@@ -12,6 +12,19 @@ categories:
 - UK
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Kensington
+- Westminster Magistrates' Court
+people:
+- Bethan David
+- Mike Cagney
+- Noel Clarke
+organisations:
+- CPS London
+- Crown Prosecution Service
+- Metropolitan Police
+- Rape Crisis
+- The Independent
 ---
 
 Actor Noel Clarke has been charged with a number of sexual offences, the Metropolitan Police has confirmed.

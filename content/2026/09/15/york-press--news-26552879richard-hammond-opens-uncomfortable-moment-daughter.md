@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Acomb
+people:
+- Izzy
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+organisations:
+- BBC
+- Formula E
+- Harrogate College
+- Metro
+- Ripon Grammar School
+- Top Gear
 ---
 
 *(Image: Carver PR)*

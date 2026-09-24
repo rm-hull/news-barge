@@ -11,6 +11,28 @@ image: https://i.guim.co.uk/img/media/174f5aa3ed1c9eac548f3c3b737504c7365ebb0b/6
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Arizona
+- Dallas
+- Maryland
+- Pennsylvania
+- Pittsburgh
+- US
+people:
+- Benedict Arnold America
+- Dave McCormick
+- Donald Trump
+- Eric Torrison
+- God
+- John Fetterman
+- Malcolm Kenyatta
+- Tracy Smith
+organisations:
+- Mon Valley Works
+- Senate
+- Trump
+- US Steel
 ---
 
 Democratic senator John Fetterman made a surprise virtual appearance at the Republican midterm convention, delivering a video address supporting Dave McCormick, a Republican senator in Pennsylvania.

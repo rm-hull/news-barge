@@ -12,6 +12,27 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21483665.jpg?type=og-image
+locations:
+- East Yorkshire
+- Milton Keynes
+- UK
+- York
+people:
+- Arturo Almeida
+- Matthew Johnson
+- Ms Dennison
+- Tracey Dennison
+organisations:
+- Aesthetics
+- Best Menopause Clinic
+- British Menopause Society
+- Dennison Clinic
+- Durham University
+- East Riding Wellness
+- GP
+- Manchester Metropolitan University
+- North of England
+- The Dennison Clinic
 ---
 
 *(Image: Supplied)*

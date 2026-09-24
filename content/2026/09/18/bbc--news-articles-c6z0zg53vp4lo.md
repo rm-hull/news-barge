@@ -11,6 +11,26 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a41/live/85f2f2
 categories:
 - UK
 - News & Politics
+locations:
+- Surrey
+- Woking
+people:
+- Alethea Redfern
+- Beinash Batool
+- Faisal Malik
+- Richard Travers
+- Sara Sharif
+- Sara Sharif.
+- Urfan Sharif
+organisations:
+- Article 8
+- BBC Radio Surrey
+- BBC Surrey
+- Beinash Batool
+- European Convention on Human Rights
+- Guardian News & Media Limited
+- Surrey County Council
+- Times Media Limited
 ---
 
 ![A young girl wearing makeup and big earrings. She is in a green dress.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a41/live/85f2f210-8ae5-11ef-8665-81fa07595a0a.jpg)

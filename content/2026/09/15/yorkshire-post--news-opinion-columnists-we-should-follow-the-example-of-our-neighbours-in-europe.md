@@ -17,6 +17,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Europe
+- France
+- Germany
+- Manchester
+- Netherlands
+people:
+- Andrew Vine
+- Goodness
+- John’
+- John’s’
+organisations:
+- BT
+- Companies House
+- ICO
+- Telephone Preference Service
 ---
 
 # We should follow the example of our neighbours in Europe in banning cold calling - Andrew Vine

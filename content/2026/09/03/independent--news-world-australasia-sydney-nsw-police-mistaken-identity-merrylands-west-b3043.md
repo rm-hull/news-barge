@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Glen Alpine
+- Merrylands West
+- NSW
+- New South Wales
+- Sydney
+people:
+- Chris Baghsarian
+- Mal Lanyon
+- Marco Tapia
+- Simon Glasser
+organisations:
+- Audi
+- CCTV
 ---
 
 New South Wales police said they were investigating whether a man shot dead in western Sydney was a victim of mistaken identity, in what could be the second such case in less than 48 hours.

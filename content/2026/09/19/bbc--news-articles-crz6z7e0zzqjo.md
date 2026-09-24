@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec69/live/98686420-b469-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Brantham
+- Colchester
+- Decoy Pond
+- Merriam Close
+- Suffolk
+people:
+- Christian Walton
+- Dara O'Shea
+- Everton
+- Leif Davis
+- Noah Woods
+- Rhys Woods
+organisations:
+- Everton
+- Good Dads Club
+- Ipswich Town
+- Ipswich Town Premier League
+- Suffolk Police
 ---
 
 ![A big screen shows a picture of a smiling three-year-old boy, alongside the text: "In loving memory of Noah Woods." Alongside it on the screen football fans can be seen standing and applauding.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f335/live/e5390f80-b463-11f1-b1d1-571ed4d7ff2c.jpg)

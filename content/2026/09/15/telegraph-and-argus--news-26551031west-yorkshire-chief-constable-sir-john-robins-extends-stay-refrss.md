@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- UK
+- West Yorkshire
+- West Yorkshire Police
+people:
+- Alison Lowe OBE
+- John Robins
+- John Robins QPM DL
+- Tracy Brabin
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: Supplied)*

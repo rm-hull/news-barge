@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Faulds’
+- North East
+- Oxford Street
+- Teesside Crown Court
+people:
+- Annelise Haugstad
+- Faulds’ DNA
+- Laura Lewis
+- Mark Faulds
+- Paul Cleasby
+- Stanley
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Atlantic
+- England
+- Europe
+- France
+- Italy
+- North Africa
+- North West
+- Northern Ireland
+- Portugal
+- Spain
+- UK
+- Wales
+- Windy
+people: []
+organisations:
+- Met Office
 ---
 
 Temperatures in the UK could soon begin to rise again as recent heatwave conditions in mainland Europe threaten to impact climates further north.

@@ -14,6 +14,25 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Burley-in-Wharfedale
+- Bury
+- Derry Hill
+- Leeds General Infirmary
+- Main Street
+- Menston
+people:
+- Annabel Ramsay
+- David Outterside
+- John Robinson
+- Katto’
+- Mason Jones
+- Miss Ramsay
+- Snapchat
+- Will Clarke
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

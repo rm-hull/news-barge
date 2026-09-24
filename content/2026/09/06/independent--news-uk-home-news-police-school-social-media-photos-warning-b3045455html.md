@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Guernsey
+- Jersey
+- UK
+people:
+- Brent Homan
+- Rachel Masterton
+- Tom Lowe
+organisations:
+- Guernsey Police
+- House of Commons
+- Internet Matters
+- Isle of Man
+- ODPA
+- Sussex Police
+- The BBC
 ---
 
 Police forces and online safety watchdogs across the UK are urging parents to think twice before sharing back-to-school photos on social media.

@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- Germany
+- MensLine
+- Sweden
+- UK
+- US
+people:
+- Bjørn Ihler
+- Chai
+- Emily Tovedal
+- Jenny Östling
+- Kyle Spitze
+organisations:
+- Beyond Blue
+- Childline
+- Guardian
+- Lifeline
+- Mind
+- Revontulet
 ---
 
 A Swedish teenager known as Chai has been sentenced to more than 10 years in jail for attempted murder, rape and aggravated assault – crimes committed via the internet, including against a teenage girl in Australia.

@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/PNWqRia2RbH5kXxRw7ajM5-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Anduril Industries
+- Efosa
+- Google News
+- Joint Light Tactical Vehicle
+- L3 Harris Technologies
+- Palantir Technologies
+- Sierra Nevada Corporation
+- Strategic Technology Consulting
+- TITAN
+- TechRadar Pro
+- US Army
+- Via Defense News
+- World Wide Technology
 ---
 
 ![Palantir](https://cdn.mos.cms.futurecdn.net/PNWqRia2RbH5kXxRw7ajM5.png) 

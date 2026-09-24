@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Real Estate
+locations:
+- A174 Kilton Lane
+- Alford Road
+- Brotton
+- East Cleveland
+- Gleeson Homes
+- Kilton Lane
+- Landsdowne Road
+- North East
+- Redcar
+people:
+- Barry Hunt
+- Chris Dodds
+- Claire Griffiths
+- Graham Cutler
+- Skelton
+organisations:
+- Acer Architectural Ltd
+- Brotton Parish Council
+- Cleveland Council
+- Gleeson Homes
+- Gleeson Regeneration Limited
 ---
 
 Eighty seven new homes will be built in Brotton, East Cleveland after councillors granted planning permission.

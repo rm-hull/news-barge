@@ -10,6 +10,26 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aad1f8e3467874a950d97a5/191:100/w_1280,c_limit/091826-Robotaxi%20No%20Sex.jpg
+locations:
+- Gothenburg
+- Greece
+- Netherlands
+- PornHub
+- Sweden
+- US
+people:
+- Alexandros Rouchitsas
+- Pavlo Bazilinskyy
+- Rouchitsas’
+- Tom Cruise
+organisations:
+- BMW
+- Chicago L
+- Eindhoven University of Technology
+- Google
+- Mile High Club
+- SmartEye
+- Volvo Cars
 ---
 
 Pavlo Bazilinskyy still can’t believe he was on PornHub for work. He’s an assistant professor at the Eindhoven University of Technology in the Netherlands, and has spent more than a decade researching AI-driven interactions between humans and robots. But he found himself typing “public transport” into the search bar of a very specific website’s “amateur section.” 297 hits.

@@ -16,6 +16,72 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Abu Dhabi
+- Albania
+- Atlantic
+- Balkans
+- Bhutan
+- Brazil
+- Bulgaria
+- Central America
+- Chile
+- Costa Rica
+- Croatia
+- Cyprus
+- Doha
+- Dubai
+- Emirates
+- Europe
+- Greece
+- Guatemala
+- Gulf
+- Hungary
+- Indian Ocean
+- Iran
+- Ireland
+- Israel
+- Japan
+- Jordan
+- Lebanon
+- London
+- Malaysia
+- Maldives
+- Middle East
+- Montenegro
+- Nepal
+- North America
+- North Macedonia
+- Norway
+- Oman
+- Peru
+- Qatar
+- Romania
+- Serbia
+- Slovenia
+- South Asia
+- South Korea
+- Southeast Asia
+- Sri Lanka
+- Thailand
+- Turkey
+- UAE
+- UK
+- US
+- United States
+- Vietnam
+people:
+- Joanna Reeve
+- Nick Pulley
+- Sun Siyam
+organisations:
+- British Airways
+- Etihad
+- Eurocontrol
+- Foreign Office
+- Intrepid Travel
+- Selective Asia
+- UN Tourism’s World Tourism Barometer
 ---
 
 Turkey, Romania and Hungary are out – while Albania, North Macedonia, Serbia and Slovenia are in.

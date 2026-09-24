@@ -13,6 +13,17 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/10/defbcc1c346de31d4dde1aaae9d0e84aY29udGVudHNlYXJjaGFwaSwxNzkwMjQwMzQ3-2.85772441.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Iran
+- UK
+people:
+- Chris Cheverall
+- Chris Williamson
+organisations:
+- Bank of England
+- CMC Markets
+- S&P Global Market Intelligence
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

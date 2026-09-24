@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Germany
+- UK
+people:
+- Heidi Alexander
+- Kathryn Leahy
+- Martin Rolfe
+- Michael O’Leary
+organisations:
+- CAA
+- Civil Aviation Authority
+- Financial Times
+- Ministry of Defence
+- MoD
+- National Air Traffic Services
+- Nats
+- Ryanair
 ---
 
 The air traffic control outage that caused thousands of flights to be grounded across the UK earlier in the week was caused by a military aircraft entering “spurious” flight data into the system, according to a report.

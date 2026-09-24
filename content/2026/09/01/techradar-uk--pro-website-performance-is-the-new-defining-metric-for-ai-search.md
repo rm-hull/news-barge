@@ -9,6 +9,21 @@ description: Website performance is reshaping visibility in AI search
 image: https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people: []
+organisations:
+- CMA
+- ChatGPT
+- Claude
+- Cloudways
+- DigitalOcean
+- Future plc
+- Google AI Overviews
+- Perplexity
+- SEO
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A person typing on a laptop and using a tablet. Only their upper torso, arms and hands are visible. Text superimposed on the image shows AI](https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML.jpg) 

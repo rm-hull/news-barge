@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/18/18/52/GettyImages-2295259105.jpeg?trim=0,384,0,426&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Caracas
+- Colombia
+- Ecuador
+- Guatemala
+- Honduras
+- Iran
+- Jamaica
+- Latin America
+- Middle East
+- Panama
+- South America
+- U.S.
+- US
+- Western Hemisphere
+people:
+- Nicolás Maduro
+- Pete Hegseth
+- Trump
+organisations:
+- Air Force
+- CNN
+- ISIS
+- Justice Department
+- Pentagon
+- The New York Times
+- U.S. Southern Command
 ---
 
 The Trump administration intends to deploy drones to South America ahead of planned operations on the continent targeting drug trafficking and terrorism, according to a new report.

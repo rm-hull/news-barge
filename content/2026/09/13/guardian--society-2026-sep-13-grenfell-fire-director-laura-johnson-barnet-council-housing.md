@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnet
+- Chelsea
+- Grenfell Tower
+- London
+- Metropolitan
+people:
+- Ed Daffarn
+- Grenfell
+- Laura Johnson
+- Ms Johnson
+organisations:
+- Barnet Group
+- Barnet Homes
+- Crown Prosecution Service
+- Grenfell Tower
+- Grenfell United
+- RBKC
+- Royal Borough of Kensington
 ---
 
 Grenfell survivors and bereaved relatives have criticised the “outrageous decision” to hire a director who oversaw cost-cutting at Grenfell Tower in a £150,000-a-year senior council housing role.

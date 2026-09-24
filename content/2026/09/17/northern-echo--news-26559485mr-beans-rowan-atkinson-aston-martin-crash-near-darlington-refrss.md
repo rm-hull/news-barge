@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- BBC
+- Britain
+- Consett
+- County Durham
+- Croft Circuit
+- Darlington
+- Goodwood
+- PA
+people:
+- Bean Teen
+- Blackadder
+- Croft
+- Rowan Atkinson
+organisations:
+- Aston Martin
+- Aston Martin Owners Club
+- BBC TV
+- McLaren
+- Top Gear
 ---
 
 Rowan Atkinson's long-standing love of fast cars once brought him back close to his County Durham roots, and ended with a rare Aston Martin in the barriers.

@@ -11,6 +11,20 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2025/04/30/7/00/iStock-1489788358.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Italy
+- Roman Empire
+- Rome
+- The Colosseum
+people:
+- Alessandro Giuli
+- Andrea Moretti
+- Giorgia Meloni
+- Natale di Cola
+organisations:
+- CGIL
+- Colosseum Archaeological Park
+- Ministry of Culture
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

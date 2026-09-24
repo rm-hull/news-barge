@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hillstreet Centre
+- Linthorpe Road
+- Middlesbrough
+- Teesside
+- UK
+people:
+- Nasser Din
+- Zahid Iqbal
+organisations:
+- Debenhams
+- House of Fraser
+- Ideal Home Store
+- Linthorpe 54 Limited
+- M&S
+- Marks and Spencer
+- Miss Selfridge
+- THE NORTHERN ECHO
+- TK Maxx
+- Topshop
 ---
 
 The future of a former Marks and Spencer store remains unclear after a new department store and café failed to open.

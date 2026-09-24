@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Bradford Royal Infirmary
+- Brinsworth House
+- Memory Lane
+- Thegeorgelayton
+- Twickenham
+people:
+- George Layton
+- George Michael William Löwy
+- Minder
+- O'Sullivan's
+- Richard 'Ricardo' O'Sullivan
+- Richard O'Sullivan
+organisations:
+- Belle Vue Boys' Grammar School
+- Bradford Civic Playhouse
+- RADA
+- SITCOM
+- The Sweeney
 ---
 
 SITCOM fans were devastated when Richard O'Sullivan died earlier this month.

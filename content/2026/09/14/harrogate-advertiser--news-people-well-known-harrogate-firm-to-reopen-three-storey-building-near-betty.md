@@ -12,6 +12,30 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Bettys
+- Caffè Nero
+- Cambridge Crescent
+- Cambridge Cresent
+- Darlington
+- Harrogate
+- Knaresborough
+- North East
+- Penrith
+- Princes Square
+- Richmond
+- Ripon
+- Stoaksley
+- Thirsk
+- Wakefield
+- York
+- Yorkshire
+people: []
+organisations:
+- 5 Cambridge Cresent
+- Newton Solicitors
+- Newtons Solicitors Harrogate
+- Newtons Solicitors’
 ---
 
 # Well-known Harrogate firm to reopen three storey building near Bettys tearooms

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/432f/live/366ad790-b50d-11f1-91cc-c5691e33b858.jpg
+locations:
+- England.
+- Leicester Square
+- London
+- Odeon Luxe Leicester Square
+- Phoenix
+- River
+- The Bloomsbury Ballroom
+- UK
+people:
+- Aurelia Rose
+- Bodhi
+- Holly Hagan-Blyth
+- Kelsey Hardwick
+- Kelsey Parker
+- Rochelle Humes
+- Susanna Reid
+- Tom Parker
+- Will Lindsay
+organisations:
+- BBC
+- Disney
+- Instagram
+- Kelsey Parker
+- Moana
+- The London Cabaret Club
+- The Saturdays
+- The Wanted
 ---
 
 ![Kelsey Parker attends the UK VIP Screening Event of Disney's 'Moana' at Odeon Luxe Leicester Square, London on July 8th, 2026.](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/432f/live/366ad790-b50d-11f1-91cc-c5691e33b858.jpg)

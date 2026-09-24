@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- White House
+people:
+- Kennedy
+- RFK Jr.
+organisations:
+- Children’s Health Defense
+- Grace Davis Jamison department
+- HHS
+- Health and Human Services Department
+- RFI
+- Robert F. Kennedy Jr
+- The Independent
+- U.S. Centers for Disease Control and Prevention
+- World Health Organization
 ---
 
 The Robert F. Kennedy Jr -led Health and Human Services Department, which has been working to limit vaccines, is now targeting 5G networks with a callout for the public’s comments on potential health effects related to the debunked theory.

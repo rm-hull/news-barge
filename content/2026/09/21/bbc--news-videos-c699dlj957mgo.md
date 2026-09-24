@@ -13,6 +13,14 @@ categories:
 - True Crime
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0fa/live/3d825d80-b5c3-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- US
+people:
+- Lindsay Clancy
+- Patrick Clancy
+organisations:
+- BBC
+- CBS
 ---
 
 # Watch: Patrick Clancy says he forgives his ex-wife, Lindsay

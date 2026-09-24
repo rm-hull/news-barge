@@ -14,6 +14,28 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21477422.jpg?type=og-image&xType=0&yType=170
+locations:
+- Annfield Plain
+- County Durham
+- Elevate Hub
+- Lancashire
+- Louisa Centre
+- NORTHERN ECHO
+- Scotland
+- Stanley
+- The Venue
+people:
+- Karen Allison
+- SARAH CALDECOTT
+organisations:
+- Business Durham
+- Clayton Glass
+- Durham County Council
+- Employability Durham
+- Harelaw Industrial Estate
+- Heartless'
+- Stanley
+- Tanfield
 ---
 
 Businesses affected by the collapse of Clayton Glass are being offered support after administrators laid off more than 150 staff at the County Durham factory.

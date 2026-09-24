@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- East Midlands
+- London Stansted
+- Manchester
+- Sarajevo
+- UK
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- CAVU
+- Google News
+- MAG
+- Manchester Airports
+- Manchester Airports Group
+- Represent Communications
+- TechRadar Pro
+- The Register
 ---
 
 ![Airport](https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL.jpg) 

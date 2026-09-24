@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Europe
+- Middle East
+- Scotland
+- Wales
+people:
+- Martin Lewis
+organisations:
+- Money Saving Expert
+- Ofgem
 ---
 
 Household energy bills are set to rise from October after regulator Ofgem raised the price cap to a three-year high.

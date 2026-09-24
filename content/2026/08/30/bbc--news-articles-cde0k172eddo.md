@@ -11,6 +11,15 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Holywell Heights
+- Sheffield
+- South Yorkshire
+- Wincobank
+people:
+- Emma Knight
+organisations:
+- South Yorkshire Police
 ---
 
 ![Signage for South Yorkshire on the side of a police car](https://ichef.bbci.co.uk/ace/standard/988/cpsprodpb/45aa/live/81e87090-c1ff-11ef-a2ca-e99d0c9a24e3.jpg)

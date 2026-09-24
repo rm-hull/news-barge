@@ -14,6 +14,37 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/21/2296764683..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- D.C.
+- Florida
+- Iowa
+- Iran
+- Ohio
+- Texas
+- U.S.
+people:
+- Byron Donalds
+- David Jolly
+- Donald Trump
+- Donalds’
+- Erika
+- James Fishback
+- Jay Collins
+- Kevin McCarthy
+- Ron DeSantis
+organisations:
+- ABC News
+- CNN
+- Donalds’
+- Florida Politics
+- House
+- MAGA
+- Republican Party
+- SRSS
+- Senate
+- Trump
+- X
+- pro-Trump
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

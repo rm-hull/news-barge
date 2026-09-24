@@ -13,6 +13,19 @@ categories:
 - UK
 - Health & Fitness
 - Family & Parenting
+locations:
+- Hertfordshire
+- Hertfordshire.
+- Radlett
+people:
+- Adam
+- Jill Paterson
+- Sadie Salt
+- Zoe
+organisations:
+- Hertsmere Borough Council
+- Leigh Day
+- Mini Learners
 ---
 
 Legal action under health and safety legislation has been launched over the death of a child who choked on a sausage at nursery.

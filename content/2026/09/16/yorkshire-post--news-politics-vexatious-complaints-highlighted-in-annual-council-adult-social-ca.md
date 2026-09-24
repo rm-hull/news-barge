@@ -14,6 +14,14 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations: []
+people:
+- Miss Y’
+- X’
+organisations:
+- Cleveland Council
+- Local Government Social Care Ombudsman
+- Redcar
 ---
 
 # ‘Vexatious’ complaints highlighted in annual council adult social care report

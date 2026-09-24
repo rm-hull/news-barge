@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Rami Baitieh
+organisations:
+- MORRISONS
+- Morrisons
+- Myton
+- PA
 ---
 
 *(Image: PA)*

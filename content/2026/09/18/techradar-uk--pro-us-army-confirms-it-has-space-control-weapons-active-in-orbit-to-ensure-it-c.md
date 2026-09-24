@@ -12,6 +12,30 @@ categories:
 - Science
 - History
 image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
+locations:
+- America
+- Beijing
+- China
+- Europe
+- Moscow
+- Russia
+- U.S.
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Clayton Swope
+- Troy Meink
+- Victoria Samson
+organisations:
+- Aerospace Security Project
+- Air Force
+- Efosa
+- Google News
+- Secure World Foundation
+- TechRadar Pro
+- Viasat
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

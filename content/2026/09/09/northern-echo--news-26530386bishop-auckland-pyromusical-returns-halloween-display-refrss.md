@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Darlington station
+people:
+- Kynren
+organisations:
+- Dragon's Den
 ---
 
 A spectacular firework display will light up the sky in Bishop Auckland this Halloween.

@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Black Sea
+- Cossack
+- Crossing Continents
+- Kremlin
+- Kyiv
+- Odesa
+- Russia
+- Soviet Union
+- St Basil’s Cathedral
+- Ukraine
+people:
+- Anastasia Piliavsky
+- Anna Nerush
+- Artem Kartashov
+- Borys Barsky
+- Bulgakov
+- Catherine the Great
+- Dostoyevsky
+- Hennadiy Trukhanov
+- Kafka
+- Natalia Mykhailenko
+- Odesan
+- Orwell
+- Pavlo Viktor
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- Mask Theatre
+- Odesa
+- Ukrainian Cosmopolis
 ---
 
 ![Activists holding placards take part in a rally in support of introducing a moratorium on the public use of Russian-language cultural products on July 8, 2026 in Odesa, Ukraine](https://ichef.bbci.co.uk/ace/standard/854/cpsprodpb/5fec/live/5ccc6200-a87e-11f1-824a-0fc4c5d895ae.jpg)

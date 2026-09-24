@@ -11,6 +11,63 @@ image: https://media.wired.com/photos/6aa44cdc4de88ba2f8bc1c56/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Alaska
+- Cascades
+- Cascades—
+- Chile
+- DC
+- Earth
+- Eastern Caribbean
+- England
+- Germany
+- Hawaii
+- Iceland
+- Italy
+- Japan
+- Kīlauea
+- La Soufrière
+- Mount Fuji
+- Mount Rainier
+- Mount St. Helens
+- Pacific Northwest
+- Philippines
+- Pinatubo
+- Poland
+- Potsdam
+- Reykjanes Peninsula
+- St. Vincent
+- Stromboli
+- US
+- United States’
+- Washington
+people:
+- Diana Roman
+- Jenni Barclay
+- Jessica Johnson
+- Marius Isken
+- Maurizio Ripepe
+- Mike Poland
+- Pinatubo
+- Tom Winder
+- Zach Ross
+organisations:
+- '** Simons Foundation'
+- Cadillac
+- California Institute of Technology
+- Carnegie Science
+- Ex-X
+- GFZ Helmholtz Center for Geosciences
+- Quanta Magazine
+- SZ4D
+- US Air Force
+- US Geological Service
+- US Geological Survey
+- University of Bristol
+- University of East Anglia
+- University of Florence
+- University of Iceland
+- Yellowstone Volcano Observatory
 ---
 
 *The original version of**this story** appeared in*Quanta Magazine*.*

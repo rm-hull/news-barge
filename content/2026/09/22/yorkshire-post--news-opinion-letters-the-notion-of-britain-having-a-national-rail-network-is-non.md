@@ -14,6 +14,23 @@ categories:
 - History
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwZGY0MDA4LWRmYWQtNGI0OC1hZjVjLTRjMjg0MGNjNzY4OTphOTJhMWU0Ny02ZGVlLTQwZTgtOWJlMC0wZjU2NmJiMWYzYjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Beauchief
+- Britain
+- Middlesbrough
+- Redcar
+- Sheffield
+- Whitby
+- York
+people: []
+organisations:
+- J Richard Morton
+- Manchester Airport
+- Northern
+- Trans-Pennine
+- TransPennine Express
+- Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # The notion of Britain having a national rail network is nonsense - Yorkshire Post Letters

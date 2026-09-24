@@ -12,6 +12,26 @@ categories:
 - York
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Brimham Rocks Road
+- Brinham Rocks
+- Durham
+- HMP Low Newton
+- Harrogate
+- Snapchat
+- UK
+people:
+- Alfie Lovett
+- Glenn Parsons
+- Justice Hill
+- Justice Linden
+- Justice Popplewell
+- Kelly Brocklehurst
+- Mia Howarth
+organisations:
+- Court of Appeal
+- National Trust
+- York Crown Court
 ---
 
 A driver who killed her boyfriend in a crash while filming him hanging out of the car window has had her jail term increased by a year and a half at the Court of Appeal.

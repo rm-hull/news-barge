@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Amsterdam
+- Asia
+- Australia
+- Barcelona
+- Boston
+- Britain
+- Europe
+- Glasgow
+- Knebworth
+- London
+- Manchester
+- Munich
+- Paris
+- Rome
+- South America
+- Stade de France
+- UK
+- US
+people:
+- Liam
+- Noel Gallagher
+organisations:
+- Oasis
 ---
 
 British rockers Oasis on Monday announced a new world tour in 2027 with shows planned in Britain, Europe, and the US after the sell-out success of their surprise comeback tour last year.

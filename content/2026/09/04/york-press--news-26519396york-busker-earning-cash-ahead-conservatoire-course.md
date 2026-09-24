@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Davygate
+- Dunnington
+- King's Square
+- London
+- Parliament Street
+- St Helen's Square
+- Stonegate
+- Wakefield
+- York
+people:
+- Ella Fitzgerald
+- Jack Bailey
+- James
+- Kevin Glenton
+- Louis Armstrong
+- Nat King Cole
+organisations:
+- Betty's
+- CAPA
+- Instagram
+- Rose Bruford College
+- The Press
 ---
 
 ## Meet the teenage York busker impressing crowds and cruise ship agent

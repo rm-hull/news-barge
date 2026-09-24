@@ -11,6 +11,22 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d822/live/f901e5
 categories:
 - UK
 - News & Politics
+locations:
+- Gordon Ramsay
+- Herefordshire
+- London
+people:
+- Gordon Ramsay
+- Sadiq Khan
+organisations:
+- BBC London
+- BBC Radio London
+- City Hall
+- DVLA
+- Labour
+- Nissan Micra
+- Single Justice Procedure
+- Ulez
 ---
 
 ![Sadiq Khan wearing a blue suit](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/d822/live/f901e500-a6ad-11f1-aed2-8d6da8d75094.jpg)

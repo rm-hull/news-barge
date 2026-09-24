@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barsey Walk
+- Gainsborough
+- Horncastle
+- Lime Walk
+- Lincoln Crown Court
+- Lindsey Drive
+- Market Rasen
+- Portland Street
+- Union Street
+people:
+- Brad'Lee Ranyard
+- Craig Ranyard
+- Danielle Thompson
+- Jackson Nicholson
+- Liam Henderson
+- Nathan Gladwell
+organisations:
+- CCTV
+- Lincolnshire Police
 ---
 
 Victim jumps out of window to escape kidnappers

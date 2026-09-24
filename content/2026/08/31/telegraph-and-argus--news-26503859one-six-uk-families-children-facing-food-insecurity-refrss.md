@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Birmingham
+- Bradford
+- London
+- Manchester
+- UK
+people:
+- Gracefilled Okeke
+organisations:
+- Feedo Needo
+- Feedo Needo Birmingham
+- Food Foundation
+- The Food Foundation
 ---
 
 *(Image: Supplied)*

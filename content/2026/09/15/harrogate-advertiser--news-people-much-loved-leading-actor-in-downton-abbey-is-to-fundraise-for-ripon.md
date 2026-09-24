@@ -16,6 +16,38 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUwMWY0ZTY1LTc3YzAtNDBmMS05Y2YwLWI5YjcyMjRkZGY1ODpmOTc1OGJlYS0yOWQ2LTRjMzItYTQ0ZS1hZTgwYjFiYmRiMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Downton Abbey
+- Holy Trinity
+- Holy Trinity Church
+- Malton
+- Newby Hall
+- North Yorkshire
+- Paddington
+- Ripon Racecourse
+- Thirsk
+people:
+- Anna Wallace
+- Brown
+- Earl of Grantham
+- Hugh Bonneville
+- Julian Fellowes
+- Lord Grantham
+- Loretta Schauer
+- Robert Crawley
+- Rory Sparkes
+organisations:
+- Ampleforth College
+- BBC Radio York
+- Bloomsbury
+- Downton Abbey
+- Hethertons Solicitors
+- Little Ripon Bookshop
+- Paddington 2
+- Ripon Bookshop
+- Ripon Prison and Police Museum
+- The Little Ripon Bookshop
 ---
 
 # 'Much-loved' leading actor in Downton Abbey is to fundraise for Ripon Theatre Festival

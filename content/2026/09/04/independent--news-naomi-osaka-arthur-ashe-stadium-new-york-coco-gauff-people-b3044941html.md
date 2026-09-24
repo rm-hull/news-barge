@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arthur Ashe Stadium
+- Flushing Meadows
+- Indiana
+- Osaka
+people:
+- Brendan McIntyre
+- Coco Gauff
+- Daniil Medvedev
+- Frances Tiafoe
+- Instagram
+- Jessica Pegula
+- Kader Nouni
+- Katerina Siniakova
+- Madison Appel
+- Marijana Veljovic
+- Naomi Osaka
+- TikTok
+organisations:
+- U.S. Tennis Association
 ---
 
 Naomi Osaka usually does not have a problem focusing on playing tennis and blocking out the crowd when she's on the court. Her first-round match at the U.S. Open became a notable exception.

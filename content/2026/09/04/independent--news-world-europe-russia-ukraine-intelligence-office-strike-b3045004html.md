@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kyiv
+- Moscow
+- Russia
+- St. Sophia Cathedral
+- US
+- Ukraine
+- Volodymyrska Street
+people:
+- Andrii Sybiha
+- Jared Kushner
+- Kyiv
+- Oleksandr Poklad
+- Steve Witkoff
+- Volodymyr Zelensky
+organisations:
+- HUR
+- SBU Oleksandr Poklad
+- SBU Security Service
+- Security Service
+- Security Service of Ukraine
+- Telegram
 ---
 
 Ukraine’s security service headquarters was set alight after a Russian drone struck it ahead of diplomatic talks with US officials on ending the war.

@@ -12,6 +12,279 @@ image: https://cdn.mos.cms.futurecdn.net/EmFJdr3DFHSheAPJEvu7kF-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Algeria
+- Amazon
+- Angola
+- Arena Sport
+- Argentina
+- Ascension
+- Australia
+- Austria
+- Bahrain
+- Bangladesh
+- Belgium
+- Benin
+- Bhutan
+- Bolivia
+- Bosnia & Herzegovina
+- Botswana
+- Brazil
+- Bulgaria
+- Burkina Faso
+- Burundi
+- CA
+- Cameroon
+- Canada
+- Cape Verde
+- Central African Republic
+- Chad
+- Chile
+- China
+- Colombia
+- Comoros
+- Cook Islands
+- Costa Rica
+- Croatia
+- Cyprus
+- Czechia
+- Democratic Republic of Congo
+- Denmark
+- Djibouti
+- Dominican Republic
+- Ecuador
+- Egypt
+- El Salvador
+- Equatorial Guinea
+- Eritrea
+- Estonia
+- Eswatini
+- Ethiopia
+- Europe
+- Fiji
+- Finland
+- France
+- Gabon
+- Galatasaray
+- Gambia
+- Germany
+- Ghana
+- Greece
+- Guatemala
+- Guinea-Bissau
+- Honduras
+- Hong Kong
+- Hungary
+- Iceland
+- India
+- Indonesia
+- Iraq
+- Ireland
+- Italy
+- Ivory Coast
+- Japan
+- Jordan
+- Kazakhstan
+- Kenya
+- Kiribati
+- Kuwait
+- Kyrgyzstan
+- Latin America
+- Latvia
+- Lebanon
+- Lesotho
+- Liberia
+- Libya
+- Lithuania
+- Macau
+- Madagascar
+- Madrid
+- Malawi
+- Maldives
+- Mali
+- Marshall Islands
+- Mauritania
+- Mauritius
+- Metropolitano Stadium
+- Micronesia
+- Middle East
+- Mongolia
+- Montenegro
+- Morocco
+- Mozambique
+- Namibia
+- Nauru
+- Nepal
+- Netherlands
+- New Zealand
+- Nicaragua
+- Niger
+- Nigeria
+- Niue
+- North Macedona
+- North Macedonia
+- Norway
+- Oman
+- Pacific Islands
+- Pakistan
+- Palau
+- Palestine
+- Panama
+- Paraguay
+- Peru
+- Philippines
+- Poland
+- Portugal
+- Príncipe
+- Qatar
+- Republic of South Sudan
+- Republic of the Sudan
+- Rwanda
+- Samoa
+- Saudi Arabia
+- Senegal
+- Serbia
+- Seychelles
+- Sierra Leone
+- Singapore
+- Solomon Islands
+- Somalia
+- South Africa
+- South Korea
+- Spain
+- Sri Lanka
+- St Helena
+- Sweden
+- Switzerland
+- Syria
+- São Tomé
+- Thailand
+- Togo
+- Tonga
+- Tunisia
+- Turkey
+- Tuvalu
+- UK
+- US
+- Uganda
+- Ukraine
+- United Arab Emirates
+- United Republic of Tanzania
+- Uruguay
+- Vanuatu
+- Venezuela
+- Viaplay
+- Yemen
+- Zambia
+- Zimbabwe
+people:
+- Aatif Sulleyman
+- Andoni Iraola
+- Atleti
+- Cristian Chivu
+- Diego Simeone
+- Jose Mourinho
+- Julian Alvarez
+- Kjetil Knutsen
+- Man City
+- Surfshark
+- Vinicius Junior
+organisations:
+- AEK Athens
+- AU
+- Aatif
+- Amazon Prime
+- Anfield
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- BBC One
+- BBC iPlayer
+- Barcelona
+- Bayern Munich
+- Blue Sport
+- Bodo / Glimt
+- Borussia Dortmund
+- ChampionsLeague
+- Club Brugge
+- Colchoneros
+- Cosmote Sport
+- DAZN Germany
+- Disney
+- EFL
+- Europa League
+- Facebook
+- Fenerbahce
+- Feyenoord
+- Future Publishing
+- Gizmodo
+- Instagram
+- Inter Milan
+- LASK
+- Lens
+- Lille
+- Liverpool
+- Los Blancos
+- MTV Katsomo
+- Man City
+- Matchday
+- Matchweek
+- Megogo
+- NFL
+- Napoli
+- Newsweek
+- Nova Sport
+- PSG
+- PSV
+- Paramount
+- Play Sports
+- Porto
+- Premier League
+- Premier Sports
+- RB Leipzig
+- RTE
+- RTL
+- RTÉ
+- Real Betis
+- Real Madrid
+- Reds
+- Roma
+- SPOTV
+- SRG SSR
+- Sabah
+- Shakhtar Donetsk
+- Sky Italia
+- Sky Sport
+- Slavia Prague
+- Slovan Bratislava
+- Sony LIV
+- Sport TV
+- Sporting Lisbon
+- Stan Sport
+- Stuttgart
+- Super Rugby
+- Surfshark
+- TNT Sports
+- TNT Sports**
+- TVP
+- Tabii
+- The Independent
+- TikTok
+- Trusted Reviews
+- UCL
+- UEFA
+- Viking
+- Villarreal
+- Virgin Media
+- Virgin Media PlayWednesday
+- Voyo Sport
+- Wowow
+- YouTube
+- Ziggo Sport
+- beIN Sports
+- beIN Sports MENA
+- beIN Sports and SuperSport
+- iQIYI
 ---
 
 ![Real Madrid's Jose Mourinho and Vinicius Junior](https://cdn.mos.cms.futurecdn.net/EmFJdr3DFHSheAPJEvu7kF.jpg) 

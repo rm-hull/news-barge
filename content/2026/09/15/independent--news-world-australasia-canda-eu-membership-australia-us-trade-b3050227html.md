@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/09/15/05/2267629456..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Australia
+- Canada
+- Ottawa
+- US
+- Washington
+people:
+- Don Farrell
+- Emmanuel Macron
+- Mark Carney
+organisations:
+- Department of Foreign Affairs and Trade
+- EU
+- Sydney Morning Herald
+- Wall Street Journal
 ---
 
 Australia is aligned with Canada’s efforts to seek closer ties with the EU as Ottawa faces an escalating trade dispute with the US.

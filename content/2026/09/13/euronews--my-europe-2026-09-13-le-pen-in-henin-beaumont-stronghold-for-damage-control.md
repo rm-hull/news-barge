@@ -11,6 +11,45 @@ image: https://images.euronews.com/articles/stories/09/91/15/46/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- Carcassonne
+- Europe
+- Fort of Brégançon
+- France
+- Hénin-Beaumont
+- Le Havre
+- Le Touquet
+- Palace of Versailles
+- Pas-de-Calais
+- Perpignan
+- Russia
+- UK
+- Ukraine
+people:
+- Dmitry Medvedev
+- Jordan Bardella
+- Louis Aliot
+- Marine Le Pen
+- Marion Maréchal
+- Nigel Farage
+- Putin
+- Édouard Philippe
+- Éric Zemmour
+organisations:
+- BFM-TV
+- European Parliament
+- Horizons
+- Le Pen
+- Le Touquet
+- Les Échos
+- Libération
+- Marine Le Pen
+- Midi Libre
+- OpinionWay
+- Patriots
+- RN
+- Reconquête
+- Reform UK
 ---
 
 ## It comes amid reported friction between Le Pen and Jordan Bardella, the president of the National Rally party.

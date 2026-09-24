@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Belle Vue Street
+- Filey
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people:
+- Emma
+organisations:
+- Lighthouse Tea Room
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- The Lighthouse Tea Room
+- Town Hall
+- TripAdvisor
 ---
 
 ## A top TripAdvisor tea room has applied for a new licence from the council

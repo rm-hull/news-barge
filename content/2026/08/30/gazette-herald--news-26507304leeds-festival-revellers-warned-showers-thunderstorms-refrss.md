@@ -14,6 +14,38 @@ categories:
 - York
 - Travel
 - Music
+locations:
+- Bramham Park
+- England
+- Kiddal Lane
+- London
+- Northern Ireland
+- Scotland
+- South East
+- UK
+- Wetherby
+- Yorkshire
+people:
+- Dave
+- Geese
+- Honor Criswick
+- Raye
+organisations:
+- A1
+- A64
+- Annabel Lee-Ellis
+- Blossoms
+- Charli XCX
+- Chase & Status
+- Florence
+- Fontaines DC
+- Leeds Festival
+- Met Office
+- PA Wire
+- Skepta
+- The Grid
+- The Machine
+- The Press
 ---
 
 REVELLERS at one of Yorkshire's largest music festivals will face a mix of sunshine, showers, along with potential hail and thunder today, the Met Office said.

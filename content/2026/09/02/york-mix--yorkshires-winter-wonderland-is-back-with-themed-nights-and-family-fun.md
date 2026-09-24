@@ -12,6 +12,27 @@ categories:
 - York
 - Travel
 - Lifestyle & Fashion
+locations:
+- Bishop Auckland
+- England
+- Santa
+- Santa’s Grotto
+- Selby
+- Winter Wonderland
+- York
+- Yorkshire
+people:
+- Jennifer Rojko
+- Paul Tyler
+- York
+organisations:
+- Aglow!
+- Designer Outlet
+- Fizz
+- Santa
+- Winter Wonderland
+- York Designer Outlet
+- Yorkshire
 ---
 
 One of York’s favourite festive events has announced its return.

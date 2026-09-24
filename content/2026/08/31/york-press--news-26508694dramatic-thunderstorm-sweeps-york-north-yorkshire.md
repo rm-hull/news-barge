@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - History
+locations:
+- Acomb
+- Easingwold
+- Huntington
+- Kirby Misperton
+- Kirkbymoorside
+- Malton
+- Miles
+- New Earswick
+- North Yorkshire
+- Scarborough
+- Tadcaster
+- York
+people:
+- Aliya
+- Gemma Kay
+- Kieran Delaney
+- Lottie
+- Max Dunning
+- William Easterby
+organisations:
+- Aliya Frankland
+- Met Office
 ---
 
 Emergency services have been called to multiple sites in York and North Yorkshire after a dramatic thunderstorm caused disruption across the region.

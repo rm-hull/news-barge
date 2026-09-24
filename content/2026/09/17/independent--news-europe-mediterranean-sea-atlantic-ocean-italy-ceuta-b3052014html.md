@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlantic Ocean
+- Central Mediterranean
+- Ceuta
+- Europe
+- Greece
+- Italy
+- Mediterranean Sea
+- Morocco
+- Spain
+people:
+- Amy Pope
+organisations:
+- AP
+- IOM
+- International Organization for Migration
+- U.N.
 ---
 
 Significantly fewer migrants are reaching Europe by sea this year, and yet more are dying as people take increasingly dangerous journeys to reach the continent, the U.N. migration agency warned Thursday.

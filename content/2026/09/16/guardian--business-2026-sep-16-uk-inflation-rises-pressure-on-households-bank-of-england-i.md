@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Iran
+- Middle East
+- Threadneedle Street
+- UK
+- US
+people:
+- Andy Burnham
+- Andy Haldane
+- John Healey
+- Richard Carter
+- Susannah Streeter
+organisations:
+- Bank of England
+- City
+- European Central Bank
+- LBC
+- ONS
+- Office for National Statistics
+- Quilter Cheviot
+- TikTok
+- US Federal Reserve
+- Wealth Club
 ---
 
 UK inflation has returned above 3% as soaring fuel and transport prices triggered by the Iran war heap renewed pressure on British households.

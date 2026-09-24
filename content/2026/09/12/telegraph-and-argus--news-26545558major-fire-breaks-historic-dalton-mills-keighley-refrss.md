@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Dalton Mills
+- Keighley
+people: []
+organisations:
+- T&A
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 Emergency services are at the scene of a major fire at Dalton Mills in Keighley this evening.

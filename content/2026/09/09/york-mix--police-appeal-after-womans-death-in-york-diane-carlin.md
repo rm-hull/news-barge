@@ -13,6 +13,12 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- York
+people:
+- Diane Carlin
+organisations:
+- North Yorkshire Police
 ---
 
 Police are asking for the public’s help after the death of a woman in York.

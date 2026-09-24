@@ -13,6 +13,23 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Britain
+- Harrogate
+- Newby Hall
+- Valley Gardens
+- Yorkshire
+people:
+- Compton
+- Jonathan Moseley
+- Newby
+- Stephanie Moon
+- Stuart Gill
+organisations:
+- Harrogate
+- NEHS
+- North of England Horticultural Society
+- Yorkshire
 ---
 
 # Celebrating 50 years of Harrogate floral extravaganza which became one of Britain’s premier gardening events

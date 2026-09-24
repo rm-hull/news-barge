@@ -17,6 +17,23 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Britain
+- England
+- Hyde Park
+- London
+- UK
+people:
+- Chris Hocknell
+- Jonathan Brady
+organisations:
+- AC
+- Boiler Upgrade Scheme
+- Cooling Commissars
+- Environmental Investigation Agency
+- Greater London Authority
+- London Borough Councils
+- UKHSA's
 ---
 
 # How policy is designing out cooling solutions just as the temperature is rising in Britain - Chris Hocknell

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Australia
+- China
+- Manchester
+- UK
+- USA
+- Zimbabwe
+people:
+- Faye Farthing
+- Laura Jones
+- Ms Jones
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Endometriosis UK
+- NHS
+- Samaritans
+- The Independent
 ---
 
 A woman with endometriosis has been left to feel like a “drug addict” as she says she needs strong painkillers to make it through the day.

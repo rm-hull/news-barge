@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crook
+- Queen's Head
+- Rockingham Road
+- Sunnybrow
+- Willington
+people:
+- Angela
+- Jennifer Bolton
+- Jolyon Perks
+- Martin Greensmith
+- Steven Shevels
+- Stuart Maddison
+- Trevor
+- Woman
+organisations:
+- A66
+- THE NORTHERN ECHO
+- Teesside Crown Court
+- Tesside Crown Court
 ---
 
 A man accused of killing his dad the first time they met was challenged to a fight by his father minutes earlier, a jury was told.

@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Britain
+- Darlington
+- Durham
+- England
+- Leeming Bar
+- North Yorkshire
+people:
+- Jason Hadlow
+organisations:
+- Ireland
+- Leeming Bar
+- Scotland
+- Simply Café
+- Ulster
+- Wales
 ---
 
 A North Yorkshire café has created a new unique breakfast bringing together food from across Britain after its boss misheard a customer's order.

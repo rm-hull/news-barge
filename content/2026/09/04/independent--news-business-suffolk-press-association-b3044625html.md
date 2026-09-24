@@ -13,6 +13,11 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Adnams
+organisations:
+- Adnams
 ---
 
 Pub firm and brewer Adnams has revealed further losses after weaker-than-expected trading in the first half of 2026.

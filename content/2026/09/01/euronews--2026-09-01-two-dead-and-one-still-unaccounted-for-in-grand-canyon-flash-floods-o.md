@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Grand Canyon
+- Grand Canyon National Park
+- Grand Canyon Village
+- North Rim
+- Northern Arizona
+- Phantom Ranch
+- Roaring Springs
+- South Rim
+- Transcanyon Waterline
+- United States
+people:
+- Dave Black
+organisations:
+- National Park Service
+- US Park Rangers
 ---
 
 ## Rescue efforts were hampered on Monday by more heavy rains that swept through the region, a natural part of the seasonal monsoon that frequently causes flash floods.

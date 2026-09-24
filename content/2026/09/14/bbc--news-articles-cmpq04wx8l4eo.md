@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Arts & Culture
 - Lifestyle & Fashion
+locations:
+- California
+- Dodger Stadium
+- England.
+- Hollywood
+- London
+- Los Angeles
+- Monterey Park
+- UK
+- US
+people:
+- '![Cher'
+- Bob Mackie
+- Cher
+- Dolly Parton
+- Elton John
+- Jean Louis
+- John F Kennedy
+- Lulu Porter
+- Marilyn Monroe
+- Mask
+- Miley Cyrus
+- Pink
+- Ray Aghayan
+- Robert Gordon Mackie
+- Robin
+- Sabrina Carpenter
+- Sultan of Sequins
+- Tina Turner
+organisations:
+- BBC
+- Cher
+- Dodgers
+- Instagram
+- O2 Arena
+- The Guardian
 ---
 
 ![Bob Mackie wears a navy blue blazer, blue and white striped shirt and a multi-coloured tartain style bow-tie. He's smiling and there's a bright pink background.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg)

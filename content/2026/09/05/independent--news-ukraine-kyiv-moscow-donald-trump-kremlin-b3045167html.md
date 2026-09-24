@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Belgorod
+- Boryspil
+- Dnipropetrovsk
+- Kremlin
+- Kyiv
+- Moscow
+- Mykolaiv
+- Nikopol
+- Rostov
+- Russia
+- Shahed-type
+- U.S.
+- Ukraine
+- Voronezh
+people:
+- Donald Trump
+- Geran
+- Jared Kushner
+- Oleksandr Hanzha
+- Steve Witkoff
+- Tymur Tkachenko
+- Volodymyr Zelenskyy
+organisations:
+- Air Force
+- Ministry of Defense
 ---
 
 Russian attacks killed four people in Ukraine overnight, as Moscow and Kyiv await the arrival of U.S. envoys to begin a new push for peace in the Kremlin’s 4 1/2-year-old invasion.

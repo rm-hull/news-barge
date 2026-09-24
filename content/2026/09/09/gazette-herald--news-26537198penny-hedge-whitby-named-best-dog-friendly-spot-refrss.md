@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Basford
+- Islington
+- Newcastle
+- Nottingham
+- Richmond
+- Skipton
+- UK
+- Whitby
+- Yorkshire
+- uk
+people:
+- Adem Fehmi
+organisations:
+- Penny Hedge
+- Rover
+- The Black Lion
+- The Brandling Villa
+- The Foxglove
+- The Lion
+- The Penny Hedge
+- The Woolley Sheep Inn
+- Yorkshire
 ---
 
 *(Image: Supplied)*

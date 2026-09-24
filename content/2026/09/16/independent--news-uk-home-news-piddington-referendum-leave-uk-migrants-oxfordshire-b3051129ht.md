@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arncott
+- Bicester
+- Dover
+- Oxfordshire
+- PA
+- Portsmouth
+- Principality of Piddington
+- RAF
+- UK
+- Widnell Lane
+people:
+- Andy Burnham
+- Chris Philp
+- Joe Giddens
+- Joy Morrissey
+- Michael Nixon
+- Piddington
+- Puy du Fou
+- Susannah Parden
+- Tim McNally
+organisations:
+- CCTV
+- Government
+- Labour
+- Oxford County Council
+- Piddington Parish Council
+- The Telegraph
 ---
 
 As Susannah Parden, the vice-chair of Piddington Parish Council, triumphantly declared the result of the village’s independence “referendum” to leave the UK, there appeared a mischievous glint in her eye.

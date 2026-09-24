@@ -12,6 +12,17 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21484701.jpg?type=og-image
+locations:
+- Bishopgate Street
+- Newsquest
+- Skeldergate Bridge
+- York
+people: []
+organisations:
+- North Yorkshire Highways
+- North Yorkshire Police
+- Suzuki
+- Yorkshire Ambulance Service
 ---
 
 ## Traffic building near scene of crash in York city centre

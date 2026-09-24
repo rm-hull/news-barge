@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- '## York'
+- AgriSound
+- Polly
+- UK
+people:
+- Casey Woodward
+- Susan McCallum
+organisations:
+- AgriSound
+- Agrisound
+- Defra’s Farming Innovation Programme
+- Innovate UK
+- JHI
+- JHL
+- James Hutton Institute
+- James Hutton Ltd
+- Pic
 ---
 
 ## York firm's research project aims to boost UK fruit production

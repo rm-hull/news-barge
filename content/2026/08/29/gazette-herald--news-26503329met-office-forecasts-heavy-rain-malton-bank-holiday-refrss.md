@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Malton
+people: []
+organisations:
+- Met Office
 ---
 
 *(Image: Canva)*

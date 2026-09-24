@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bridlington
+- Church Ravine Beck
+- Filey
+- Yorkshire
+people:
+- Cllr Cross
+- Cllr Norman
+- Sam Cross
+- Tim Norman
+organisations:
+- Bridlington South
+- Filey
+- RNLI
+- The Yorkshire Post
+- Top of the Poops
+- Yorkshire Water
 ---
 
 # Community leaders' fury after resort flooded with sewage on busiest bank holiday

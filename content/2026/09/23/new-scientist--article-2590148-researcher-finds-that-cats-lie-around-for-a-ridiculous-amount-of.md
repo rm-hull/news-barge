@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Pets & Animals
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313662068.jpg
+locations:
+- Amazon
+- Antarctic
+- New Zealand
+- UK
+people:
+- Ass Head
+- Dave Appleby
+- Evan Hubinger
+- Feedback
+- Jimmy Donaldson
+- Michelle Smit
+- Mike Petty
+- MrBeast
+organisations:
+- Anthropic
+- Gemini
+- Google
+- Loughborough Surface Analysis Ltd
+- Massey University
+- MrBeast
+- Stroke Association
+- Telegraph
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313662068.jpg?w=840)

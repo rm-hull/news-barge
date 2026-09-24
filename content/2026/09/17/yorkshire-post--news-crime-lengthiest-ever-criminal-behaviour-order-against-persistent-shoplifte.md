@@ -15,6 +15,21 @@ categories:
 - York
 - Sports
 - Business & Entrepreneurship
+locations:
+- England
+- Teesside Magistrates’ Court
+people:
+- Alex Wood
+- Coun Neil Bendelow
+- Robinson
+organisations:
+- '## Redcar & Cleveland Borough Council'
+- ASB Team
+- CBO
+- Cleveland Retail Park
+- Cleveland Retail Park.
+- Greater Eston NPT
+- Redcar & Cleveland Borough Council
 ---
 
 # “Lengthiest ever” criminal behaviour order against persistent shoplifter

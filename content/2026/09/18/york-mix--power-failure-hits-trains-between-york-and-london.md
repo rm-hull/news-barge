@@ -11,6 +11,20 @@ categories:
 - York
 - History
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-railway-station-6-august-2026.webp
+locations:
+- East Coast Main Line
+- Finsbury Park
+- Lincoln
+- London
+- National Rail
+- Newark Northgate
+- Stevenage
+people: []
+organisations:
+- LNER
+- National Rail
+- Network Rail
+- Stevenage
 ---
 
 There’s disruption to rail services on the East Coast Main Line today (Friday).

@@ -12,6 +12,34 @@ image: https://static.independent.co.uk/2026/09/02/20/2026-09-02T190113Z_1413402
 categories:
 - News & Politics
 - UK
+locations:
+- Abilene
+- America
+- China
+- Mar-a-Lago
+- Michigan
+- New York
+- Stargate Oracle AI
+- Tennessee
+- Texas
+- U.S.
+- U.S.A.
+- White House
+people:
+- Alexandria Ocasio-Cortez
+- Davis Ingle
+- Donald Trump
+- Ken Paxton
+- Mike Rogers
+- Tim Burchett
+organisations:
+- Gallup
+- Oracle AI
+- Politico
+- Senate
+- The Independent
+- Trump
+- YouGov
 ---
 
 A majority of Americans have concerns about data centers cropping up across the country, and the opposition among lawmakers spans party lines.

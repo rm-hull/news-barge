@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- England
+- Scotland
+- UK
+- Wales
+people:
+- Graham Conway
+organisations:
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Select Car Leasing
 ---
 
 *(Image: Getty)*

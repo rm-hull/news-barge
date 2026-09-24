@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Gaza
+- Israel
+- Jerusalem
+- Jewish State
+- Palestine
+- UK
+- US
+- West Bank
+- White House
+people:
+- Benjamin Netanyahu
+- David Miliband
+- Ed Miliband
+- James Balfour
+- Keir Starmer
+- Lord Rothschild
+- Mike Huckabee
+- Yoav Gallant
+organisations:
+- BDS
+- End Time
+- Hamas
+- Imperial Government
+- International Criminal Court
+- Jewish State
 ---
 
 The UK’s decision to impose sanctions on Israel’s project to build illegal Jewish colonies on the occupied West Bank is economically meaningless, mostly impossible to implement but symbolically it is a seismic event.

@@ -13,6 +13,18 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQyMDg1MTA0LTY0YjQtNDg1Yy1iYzJjLTczNTk1ZTkxMmM5MjoxN2MyY2M3NS1lZWFhLTRlMWUtODlmMy1lZGQwNzg0YTNjYmU=.jpg?crop=3:2,smart&trim=&width=1092&auto=webp&quality=75
+locations:
+- Pudsey Town Hall
+- Robin Lane
+people:
+- Coun Seary
+- Simon Seary
+organisations:
+- AGHA Group
+- Historic England
+- Leeds City Council
+- Pudsey Town Hall
+- Pudsey and District Civic Society
 ---
 
 # Former Pudsey Town Hall sold for £575k as councillor speaks out

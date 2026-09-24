@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dallas
+- Michigan
+people:
+- Donald Trump
+- JD Vance
+- Melania Trump
+- Mike Johnson
+- Natalie Baldassarre
+- Todd Blanche
+- Tom Barrett
+organisations:
+- American Airlines Center
+- Daily Beast
+- Dallas Mavericks
+- House
+- National Republican Campaign Committee
+- Politico
+- Puck News
+- RNC
+- Republican National Committee
+- Senate
+- The Independent
+- Trump
+- Truth Social
 ---
 
 President Donald Trump claimed the upcoming Republican midterm convention is “HOT,” even as reports point to high-profile absences and ticket giveaways.

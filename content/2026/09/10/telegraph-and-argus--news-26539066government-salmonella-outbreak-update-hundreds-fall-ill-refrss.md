@@ -12,6 +12,20 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Britain
+- England
+- UK
+people:
+- Hannah Charles
+- Ian Young
+- Yuri Arcurs
+organisations:
+- FSA
+- Food Standards Agency
+- Getty
+- UK Health Security Agency
+- UKHSA
 ---
 
 *(Image: Yuri Arcurs/Getty)*

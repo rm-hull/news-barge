@@ -11,6 +11,28 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/04/31/1200x675_cmsv2_6bab771b-e569-5801-959b-ca409208621c-9920431.jpg
+locations:
+- Kremlin
+- Kyiv
+- Moscow
+- New York
+- State Duma
+- US
+- Ukraine
+- United Russia
+people:
+- Donald Trump
+- Ella Pamfilova
+- Sergei Sobyanin
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Central Election Commission
+- Communist
+- Kyiv
+- LDPR
+- New People
+- State Duma
 ---
 
 ## The election, held to elect members in all seats of the lower house State Duma, is the first since Moscow launched its full-scale invasion of Ukraine in 2022.

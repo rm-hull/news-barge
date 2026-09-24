@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Castleford House Nursing Home
+- Chepstow
+- Gloucestershire
+people:
+- Melanie Corfield
+- Ms Petkova
+- Rossi
+- Rossitsa Petkova
+organisations:
+- NMC
+- Nursing and Midwifery Council
 ---
 
 A care home nurse has been removed from the professional register after claiming a resident with dementia did not require a birthday cake because they would fail to remember the occasion.

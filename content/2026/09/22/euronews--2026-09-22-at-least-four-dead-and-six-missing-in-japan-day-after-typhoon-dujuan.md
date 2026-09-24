@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/34/12/1200x675_cmsv2_c5253218-64e2-5707-9870-94d3e717ce14-9923412.jpg
+locations:
+- Chiba
+- Dujuan
+- Edogawa Ward
+- Japan
+- Kanagawa
+- Oshima
+- Pacific
+- Tokyo
+people:
+- Dujuan
+organisations:
+- Fire and Disaster Management Agency
+- NHK
 ---
 
 ## Authorities announced a revised, higher death toll on Tuesday after search and rescue crews located the bodies of two more people. Six others are still reported missing.

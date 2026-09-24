@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berlin
+- Bonn
+- Germany
+- Halle Airport
+- Ireland
+- Kremlin
+- Leipzig
+- Moscow
+- Russia
+- Russian House
+- St. Petersburg
+- Ukraine
+- Vladivostok
+- Yekaterinburg
+people:
+- Johan Wadephul
+- Kaja Kallas
+- Putin
+- Sergey Lavrov
+organisations:
+- EU
+- Eastern Economic Forum
+- European Union
+- Goethe-Institut
 ---
 
 Russia has said it will close German cultural spots across the country in response to being blamed for an attempted attack on an airport.

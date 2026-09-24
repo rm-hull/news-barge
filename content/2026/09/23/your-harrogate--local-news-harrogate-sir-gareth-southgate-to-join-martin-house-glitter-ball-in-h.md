@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/6ab3b760e757b659fc6.jpg
+locations:
+- Boston Spa
+- East Yorkshire
+- Harrogate
+- Martin House
+- North
+- West
+people:
+- Christine Talbot
+- Duncan Wood
+- Gareth Southgate
+organisations:
+- HARIBO UK
+- Rudding Park Hotel
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab3b760e757b659fc6.jpg)

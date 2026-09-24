@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4d4/live/c9f5d180-b608-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Boston
+- Edinburgh
+- LaGuardia Airport
+- Massachusetts
+- New Jersey
+- New York
+- New York City
+- Newark
+- Pennsylvania
+- UK
+- US
+people:
+- Andy Burnham
+- Bryan Bedford
+- Douglas Tewnion
+- Sean Duffy
+organisations:
+- Amtrak
+- BBC
+- CBS News
+- FAA
+- Federal Aviation Administration
+- FlightAware
+- Ione Wells
+- John F Kennedy International Airport
+- LaGuardia Airport
+- NJ Transit
+- Newark Liberty International Airport
+- Philadelphia International Airport
+- UN General Assembly
+- UNGA
+- US Transportation
+- Verizon
 ---
 
 ![A view of the tarmac at LaGuardia Airport in New York City](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/c4d4/live/c9f5d180-b608-11f1-b1d1-571ed4d7ff2c.jpg)

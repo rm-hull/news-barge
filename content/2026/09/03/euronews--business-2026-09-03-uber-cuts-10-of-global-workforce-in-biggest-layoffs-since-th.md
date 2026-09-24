@@ -14,6 +14,36 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- Europe
+- Gaiziunai Training Area
+- Lithuania
+- New York
+- Nigeria
+- Norway
+- San Francisco
+- Tanzania
+- UK
+- US
+- Uganda
+- Ukraine
+people:
+- Danni Hewson
+- Dara Khosrowshahi
+- Efrem Lukatsky
+- Uber
+organisations:
+- '## Uber'
+- AJ Bell
+- Delivery Hero
+- DoorDash
+- Euronews
+- NATO
+- New York Stock Exchange
+- Tesla
+- Transport for London
+- Waymo
+- Wayve
 ---
 
 ## Uber is cutting 3,300 jobs worldwide as it strips out management layers and merges teams, saying the savings will fund growth in areas such as robotaxis.

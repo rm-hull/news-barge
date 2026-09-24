@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gulf
+- Iran
+- Israel
+- Strait of Hormuz
+- U.S.
+- United States
+- United States of America
+- Venezuela
+- White House
+people:
+- Darren Woods
+- Delcy Rodriguez
+- Donald Trump
+- Hugo Chavez
+- Marco Rubio
+- Nicolás Maduro
+- Pete Hegseth
+organisations:
+- AAA
+- Country of Venezuela
+- ExxonMobil
+- Trump
+- U.S. Energy Information Administration
 ---
 
 The U.S. has reached an agreement with Venezuela to take control of 65 billion barrels of the South American country’s oil reserves, President Donald Trump said on Friday

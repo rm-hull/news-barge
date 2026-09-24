@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gaza Strip
+- Iran
+- Israel
+- Khan Younis
+- Middle East
+- U.S.
+- United States
+- White House
+people:
+- Amal Al-Mughair
+- Benjamin Netanyahu
+- Biden
+- Donald Trump
+- Jared Kushner
+organisations:
+- Congress
+- Hamas
+- Health Ministry
+- The Washington Post
+- Trump
 ---
 
 The Trump administration is preparing to supply heavy 2,000-pound munitions to Israel under a pending international military agreement, delivering weapons that were previously placed on hold by the Biden administration two years ago over grave concerns regarding the broad possibility of mass civilian casualties in Gaza.

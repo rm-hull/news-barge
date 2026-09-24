@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/02/19/10/17d250b093b74f4808005f1ced01af38Y29udGVudHNlYXJjaGFwaSwxNzcxNTgwMzk1-2.78913499.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Chagos Archipelago
+- Chagos Islands
+- Diego Garcia
+- Mauritius
+- New York
+- UK
+- US
+- United Kingdom
+- United States
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Wes Streeting
+organisations:
+- BBC Radio 4
+- ICJ
+- International Court of Justice
+- Times Radio
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

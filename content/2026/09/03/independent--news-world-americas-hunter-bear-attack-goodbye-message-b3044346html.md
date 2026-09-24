@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Alaska
+- U.S.
+- Walla Walla
+- Washington
+people:
+- Dan
+- Daniel
+- God
+- Jadon Nicoara
+organisations:
+- KOMO News
+- NOAA
 ---
 
 A hunter from Washington nearly found himself on the wrong end of the food chain when he was mauled by a bear in Alaska and narrowly survived the ordeal.

@@ -16,6 +16,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations: []
+people:
+- Matthew Horwood
+- Mike Haynes
+organisations:
+- '### Government'
+- Argos
+- Asda
+- HM Treasury
+- HMRC
+- Lidl
+- M&S
+- Morrisons
+- PA Wire
+- Tesco
 ---
 
 *(Image: Matthew Horwood/PA Wire)*

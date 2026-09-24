@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65d3/live/ee41c280-b426-11f1-a430-4d16ee157c41.jpg
+locations:
+- Aramco
+- Asia
+- Bandar Abbas
+- Europe
+- Grand Mosque
+- Gulf
+- Iran
+- Israel
+- King Khalid International Airport
+- Mecca
+- Mokha
+- Perim Island
+- Red Sea
+- Riyadh
+- Sana'a
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- US
+- Yanbu
+- Yemen
+people:
+- Sarea
+- Yahya al-Sarea
+organisations:
+- AFP
+- Aramco
+- FlightRadar24
+- Houthi
+- International Organization for Migration
+- JP Morgan
+- Saudi Civil Defence
+- UN
 ---
 
 Watch: Thick black plumes of smoke rise from near Riyadh's international airport

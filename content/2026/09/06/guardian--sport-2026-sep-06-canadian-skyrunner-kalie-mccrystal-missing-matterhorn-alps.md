@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Alps
+- British Columbia
+- Canada
+- Europe
+- Matterhorn
+- North Vancouver
+- Squamish
+people:
+- Duncan O’Regan
+- Jason Dewling
+- Kalie McCrystal
+organisations:
+- CBC
+- Capilano University
+- Skyrunner World Series
 ---
 
 Canadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.

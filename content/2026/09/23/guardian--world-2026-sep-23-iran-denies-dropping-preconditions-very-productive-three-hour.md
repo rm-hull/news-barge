@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/636b0e50040f65de2c438804be079a9e4313f257/0_0_4769_3817/master/4769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87f8b2b2cf64bd5de041881f6d8914c4
+locations:
+- Bab al-Mandab
+- Europe
+- Gaza
+- Gulf
+- Hormuz
+- Indian Ocean
+- Iran
+- Iraq
+- Islamic Republic
+- Israel
+- Jordan
+- Judea
+- Middle East
+- New York
+- Oman
+- Qatar
+- Red Sea
+- Russia
+- Samaria
+- Tehran
+- US
+- Ukraine
+- West Bank
+people:
+- Abbas Araghchi
+- Abdullah II
+- Donald Trump
+- Emmanuel Macron
+- Esmail Baghaei
+- Jared Kushner
+- Masoud Pezeshkian
+- Netanyahu
+- Steve Witkoff
+organisations:
+- Hamas
+- Houthis’
+- MoU
+- UN
 ---
 
 Iran has pushed back on claims that it dropped former preconditions for reopening the strait of Hormuz in surprise talks held in New York under the mediation of Qatar between Tehran’s foreign minister, Abbas Araghchi, and Donald Trump’s envoys Steve Witkoff and Jared Kushner.

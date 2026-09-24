@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Barnsdale Bar
+- England
+- J39
+- M62
+- Pontefract
+- Yorkshire
+people: []
+organisations:
+- A1
+- National Highways
+- Yorkshire
 ---
 
 *(Image: Highways England)*

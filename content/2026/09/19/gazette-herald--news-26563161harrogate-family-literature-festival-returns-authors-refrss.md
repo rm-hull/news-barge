@@ -14,6 +14,25 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://www.gazetteherald.co.uk/resources/images/21474414.jpg?type=og-image
+locations:
+- Harrogate’s Pinewoods
+- North Yorkshire
+people:
+- '![]()Woodlore'
+- Anja Susanj
+- Bethany Walker
+- Fleur Hitchcock
+- Joseph Coelho
+- Kevin Parr
+- Kristyna Litten
+- Medusa Gorgon
+- Rachel Tunnicliffe
+- Rob Biddulph
+organisations:
+- Harrogate
+- Harrogate’s Crown Hotel
+- Malory Towers Mystery Club
+- Raworths Solicitors
 ---
 
 *(Image: Supplied)*

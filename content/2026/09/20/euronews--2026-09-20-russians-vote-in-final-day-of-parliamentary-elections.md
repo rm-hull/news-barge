@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/04/31/1200x675_cmsv2_9dfc15b5-74a7-5656-97c4-6356f6671cbd-9920431.jpg
+locations:
+- Moscow Oblast
+- St. Petersburg
+- Ukraine
+- United Russia
+people:
+- Andrey Vorobyov
+- Ella Pamfilova
+- Grigory Yavlinsky
+- Sergey Sobyanin
+- Volodymyr Zelenskyy
+- Yabloko
+organisations:
+- Central Election Commission
+- Duma
+- Interfax
+- Supreme Court
+- United Russia
+- Yabloko
 ---
 
 ## The vote comes as the Russian capital was hit by what its governor described as the "largest-scale attack" on the city since the war in Ukraine began.

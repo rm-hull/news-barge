@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Britain
+- US
+people:
+- Dan Jukes
+- Donald Trump
+- James Orr
+- Lee Anderson
+- Nigel Farage
+- Richard Tice
+organisations:
+- BBC Radio
+- Cambridge University
+- Channel 4
+- ICE
+- Immigration and Customs Enforcement
+- Philosophy of Religion at Cambridge’s Faculty of Divinity
+- Reform UK
+- Sky News
+- University of Cambridge
+- Verbatim
 ---
 
 The University of Cambridge has launched a probe into associate professor James Orr after he was alleged to have breached political donation rules while working for Reform UK.

@@ -11,6 +11,25 @@ description: While restaurant owners might look to generative AI as a shortcut t
 image: https://techcrunch.com/wp-content/uploads/2026/09/Firefly_gpt-image_rename-the-restaurant-crunchburger-and-use-a-green-color-palette-509807.png?resize=805,1200
 categories:
 - Technology & Software
+locations:
+- AI
+- Germany
+- McDonald’s
+people:
+- Alex Lisle
+- Burger King
+- Labtec
+- Lee Rainie
+organisations:
+- AI
+- Amazon
+- Elon University
+- Imagining the Digital Future Center
+- Labtec
+- McDonald’s
+- TechCrunch
+- University of Duisburg-Essen
+- Wendy’s
 ---
 
 When it first happens to you, you think you’re crazy. You wander into a cafe and look at a menu with a variety of bagel sandwiches, but each illustration looks eerily flawless, precisely symmetrical, and oddly smooth, eliciting a visceral sensation that something isn’t right. You might think you’re paranoid, but you’re not losing your mind. Generative AI menus have hit the restaurant business courtesy of models courtesy of models trained on a narrow, “pleasing” aesthetic that produces a look that feels wrong even when you can’t articulate why.

@@ -13,6 +13,56 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Chicago
+- UK
+- West End
+people:
+- Angela Morrison
+- Annette McLaughlin
+- Billy Elliot
+- Billy Elliot the Musical
+- Dad
+- David Furnish
+- Deka Walmsley
+- Elton John
+- Eric Fellner
+- George Maguire
+- Grandma
+- Harry Potter
+- Jack Bandeira
+- James Lomas
+- Jon Finn
+- Lee Hall
+- Liam Mower
+- Mrs Wormwood
+- Noah Mannion
+- Peter Darling
+- Rafferty Smale
+- Rebecca Quigley
+- Sally Greene
+- Spencer Collins
+- Stephen Daldry
+- Tim Bevan
+- Tony
+- Velma Kelly
+- Vera
+- Wilkinson
+- William Gurney
+organisations:
+- Alhambra Theatre
+- Black Mirror
+- Bradford
+- Cursed Child
+- Dolores Umbridge
+- Happy Valley
+- Macbeth
+- Matilda The Musical
+- Studio Canal
+- The Pitmen Painters
+- Universal Pictures
+- Universal Theatrical Group
+- Working Title Films
 ---
 
 HIT musical Billy Elliot is coming to Bradford's Alhambra Theatre.

@@ -11,6 +11,10 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Pho
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Apple
 ---
 
 In a world awash in AI slop, Apple wants you to trust what gets captured on its iPhones.

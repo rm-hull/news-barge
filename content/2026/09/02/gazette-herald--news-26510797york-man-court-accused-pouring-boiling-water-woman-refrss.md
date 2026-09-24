@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Acomb
+- Chapelfields Road
+- Hull Prison
+- York
+people:
+- Joseph Kendra
+- Sean Morris
+organisations:
+- Recorder of York
+- York Crown Court
 ---
 
 *(Image: NQ)*

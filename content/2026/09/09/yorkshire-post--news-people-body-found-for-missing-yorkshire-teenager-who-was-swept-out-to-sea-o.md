@@ -15,6 +15,18 @@ categories:
 - York
 - Family & Parenting
 - Society & Culture
+locations:
+- Marloes Sands
+- Marloes Sands Beach
+- Milford Haven
+- Pembrokeshire
+- Wales
+- Yorkshire
+people: []
+organisations:
+- Dyfed-Powys Police
+- HM Coastguard
+- RNLI
 ---
 
 # Body found for missing Yorkshire teenager who was swept out to sea on family holiday

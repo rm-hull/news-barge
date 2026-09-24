@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bishop Auckland**
+- Britain
+- Canney Hill
+- County Durham
+- Coxhoe
+- Darlington
+- North East
+- North Yorkshire
+- Sedgefield
+- Sedgefield’
+- UK
+- Whipsnade
+people:
+- Gary Weatherston
+organisations:
+- Alice in Wonderland
+- Darlington Poundland
+- RSPCA
+- UK Wallaby Sightings
 ---
 
 A County Durham man thought he was hallucinating on his journey to work when he spotted what appeared to be an escaped wallaby at the side of the road.

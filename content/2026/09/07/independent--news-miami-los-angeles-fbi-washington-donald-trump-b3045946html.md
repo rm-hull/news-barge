@@ -15,6 +15,46 @@ categories:
 - UK
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Brunswick
+- California
+- Connecticut
+- Danbury
+- Encino
+- Hamptons
+- Los Angeles
+- Maldives
+- Miami
+- New Jersey
+- Singapore
+- U.S.
+- Washington
+- Washington, D.C.
+people:
+- Alicia Valle
+- Allison Nixon
+- Colleen Kollar-Kotelly
+- Donald Trump
+- Ferris Bueller
+- Ferro
+- God
+- Jeandiel Serrano
+- Joe Biden
+- Kevin Wilson
+- Malone Lam
+- Tucker Desmond
+- Veer Chetal
+- Victim
+- William Hart
+organisations:
+- FBI
+- Gemini
+- Google
+- Justice Department
+- Lamborghini
+- Los Angeles International Airport
+- The Com
+- ZachXBT
 ---
 
 They pulled off one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. They tried to hide their digital fingerprints, carrying out a sophisticated scheme to launder the proceeds.

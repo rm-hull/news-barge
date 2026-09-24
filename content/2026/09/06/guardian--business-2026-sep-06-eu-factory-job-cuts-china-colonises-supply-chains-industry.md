@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Arts & Culture
+locations:
+- Brussels
+- China
+- Europe
+- Germany
+- India
+people:
+- Alexander Julius
+- Eurometal
+- Maroš Šefčovič
+organisations:
+- EU
+- Eurometal
+- European Commission
+- Guardian
+- Volkswagen
+- Xinhua
 ---
 
 Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned.

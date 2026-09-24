@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - History
+locations:
+- Lord Rosebery Wetherspoon
+- North Yorkshire
+- Scarborough
+- St John’s Ambulance
+- Westborough
+people: []
+organisations:
+- Bleed Cabinet Designs
+- Bleed Kit Cabinet
+- Nationwide Building Society
+- North Yorkshire Council
+- Planning and Licensing Committee
+- St John'S Ambulance Defibrillator
 ---
 
 ## ‘Life-saving’ bleed kit and defibrillator plan for town centre

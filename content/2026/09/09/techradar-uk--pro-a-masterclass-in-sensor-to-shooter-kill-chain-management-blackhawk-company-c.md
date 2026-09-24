@@ -10,6 +10,24 @@ description: American soldiers entered Hohenfels expecting a tough drill, then U
 image: https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Germany
+- Hohenfels
+- Russia
+- US
+- Ukraine
+people:
+- Allan Watson
+- Bradley
+organisations:
+- 2nd Battalion
+- 412th Regiment
+- 7th Cavalry Regiment
+- Blackhawk Company
+- Efosa
+- Google News
+- TechRadar Pro
+- US Army
 ---
 
 ![Modified Ukrainian Drone](https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ.png) 

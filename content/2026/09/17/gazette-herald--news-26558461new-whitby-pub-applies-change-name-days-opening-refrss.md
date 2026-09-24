@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Grape Lane
+- Patrick Pool
+- Valhalla York
+- Whitby
+people:
+- Matthew Beddingham
+- Vincent Roberts
+organisations:
+- Democracy Reporting Service
+- House Of Memento Mori Logo
+- House of Memento Mori
+- VIKING-THEMED
+- Valhalla York
+- Valhalla York Ltd
 ---
 
 A VIKING-THEMED pub in Whitby has applied to change its name ahead of its official opening next week.

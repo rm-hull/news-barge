@@ -11,6 +11,15 @@ image: https://static.independent.co.uk/2023/05/31/05/fe6aa378e427c63ef0eb143a8b
 categories:
 - News & Politics
 - UK
+locations:
+- UK
+people:
+- George Sweeney
+- Myrtle Lloyd
+organisations:
+- Finder
+- HMRC
+- National Insurance
 ---
 
 Almost seven million people in the UK have never checked their state pension record, new government data shows.

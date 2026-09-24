@@ -13,6 +13,34 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Cambridge Road
+- Den
+- Finland
+- Germany
+- Harrogate
+- London
+- New York
+- Poland
+- Sweden
+- US
+- USA
+people:
+- Jommy Puledda
+- Ray West
+- Rik De Luca
+- Rob De Luca
+organisations:
+- Harrogate
+- Harrogate's Den
+- MCA
+- MTV
+- Public and Subway to the Stars
+- Spread Eagle
+- Star Circus
+- The Den
+- Universal Records
+- Yorkshire
 ---
 
 # Major musical coup for Harrogate's Den bar as live date with MTV hard rockers is announced

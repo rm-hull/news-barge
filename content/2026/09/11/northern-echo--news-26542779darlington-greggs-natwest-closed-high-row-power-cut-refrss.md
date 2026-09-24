@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bishop Auckland
+- Blackwellgate
+- County Durham
+- Darlington
+- High Row
+- Natwest
+- Poundland
+- St. Teresa’s Hospice
+people:
+- Greggs
+- KENZIE HARRISON
+- Richard
+organisations:
+- Cooplands
+- Deli-cious
+- NORTHERN ECHO
+- NORTHERN POWERGRID
+- Natwest
+- Northern Powergrid
 ---
 
 Businesses in Darlington town centre were plunged into darkness and forced to close after a power outage.

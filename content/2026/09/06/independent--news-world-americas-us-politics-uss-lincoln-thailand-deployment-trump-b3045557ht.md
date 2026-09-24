@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Indo-Pacific
+- Iran
+- Middle East
+- Pattaya
+- San Diego
+- Thailand
+- U.S.
+- US
+- United States
+people:
+- Abraham Lincoln
+- Pete Hegseth
+- Priya Sridhar
+organisations:
+- Abraham Lincoln*
+- FaceTime
+- Marines
+- Navy Reserve
+- Pentagon
+- The Independent
+- The Military Times
+- USS
 ---
 
 U.S. service members assigned to the USS *Abraham Lincoln* are speaking out about their record-long, nearly nine-month deployment at sea, during which they supported the ongoing Iran war.

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Congo
+- South Africa
+- Tooro Kingdom
+- Uganda
+people:
+- Edward Rukidi Kijanangoma
+- Moammar Gadhafi
+- Nelson Mandela
+- Oyo Nyimba Kabamba Iguru Rukidi IV
+- Ruth Komuntale
+- Tooro
+- Yoweri Museveni
+organisations:
+- NBS
+- Tooro
+- Uganda Broadcasting Corporation
 ---
 
 A news anchor was unexpectedly named the next monarch of Uganda's Tooro Kingdom on Wednesday following last month's death at age 34 of a monarch once known as the “boy king” because of his ascension to the throne as an infant.

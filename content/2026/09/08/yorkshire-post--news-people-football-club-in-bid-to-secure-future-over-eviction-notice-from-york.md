@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Filey
+- Hunmanby
+- Leeds St James Hospital
+- North Yorkshire
+people:
+- Coun Michelled Donohue-Moncrieff
+- Keegan Kennedy
+organisations:
+- Divisions 4
+- East Riding County Football League
+- Hunmanby FC
+- Hunmanby Football Club
+- Hunmanby Parish Council
+- Hunmanby Playing Fields
+- North Yorkshire Council
+- Right Car East Riding County League
+- Teenage Cancer Ward
 ---
 
 # Football club in bid to secure future over eviction notice from Yorkshire playing field

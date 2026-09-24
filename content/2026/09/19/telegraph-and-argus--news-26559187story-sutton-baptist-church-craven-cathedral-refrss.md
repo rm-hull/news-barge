@@ -12,6 +12,11 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468298.jpg?type=og-image
+locations: []
+people:
+- Robin Longbottom
+organisations:
+- Cathedral of Craven
 ---
 
 by Robin Longbottom

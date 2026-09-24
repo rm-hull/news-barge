@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Craddock Street
+- Darlington
+- Durham Crown Court
+- Holme House Prison
+- Old Dun Cow
+- Post House Wynd
+- Spennymoor
+- Stocksmoor Close
+people:
+- Chris Morrison
+- Jack Criddle
+- Jacko’
+- Jordan Hopps
+- Miss Buck
+- Nigel Soppitt
+- Richard Bennett
+- Tabitha Buck
+- ’Snowball’
+organisations:
+- Durham Constabulary
+- Mercedes
+- Probation Service
+- Teesside Crown Court
 ---
 
 *(Image: Durham Constabulary)*

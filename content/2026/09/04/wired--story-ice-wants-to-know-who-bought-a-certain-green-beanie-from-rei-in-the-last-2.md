@@ -14,6 +14,41 @@ categories:
 - Technology & Software
 - Science
 - Society & Culture
+locations:
+- Minneapolis
+- Minnesota
+- Oregon
+- St. Paul
+- US
+people:
+- Ben Lee
+- Don Lemon
+- Donald Trump
+- Georgia Fort
+- Mario Trujillo
+- Pramila Jayapal
+- Reddit
+- Ron Wyden
+organisations:
+- CNN
+- Congress
+- DHS
+- Department of Homeland Security
+- EFF
+- Electronic Frontier Foundation
+- Fort
+- Fort’s YouTube
+- Google
+- HSI
+- Homeland Security Investigations
+- ICE
+- Meta
+- REI
+- Reddit
+- T-Mobile
+- Trump
+- US Attorney’s Office
+- WIRED
 ---
 
 Did you buy a beanie from REI recently? The Department of Homeland Security might be looking for you.

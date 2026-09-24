@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Boca Raton
+- Florida
+- New York
+people:
+- Jeffrey Epstein
+- Jennifer Percival
+organisations:
+- Center for Autism and Related Disabilities
+- Epstein
+- FBI
+- Florida Atlantic University
+- JPMorgan Chase
 ---
 
 A Florida woman who was paid $750,000 by a fund for people sexually abused by Jeffrey Epstein has pleaded guilty to falsifying records she used in her application for the money.

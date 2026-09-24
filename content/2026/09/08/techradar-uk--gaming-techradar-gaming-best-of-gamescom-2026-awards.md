@@ -12,6 +12,49 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Cologne
+- Gamescom
+- Germany
+- Letten
+- Pixabay
+- Stream Deck
+- The Continent
+- Turtle Beach
+people:
+- Arek Socha
+- Geralt
+- Isaiah Williams
+- James Pickard
+- Kaatri
+- Roach
+- Rob Dwiar
+organisations:
+- Aeon Pro
+- Apple
+- Arc Raiders
+- Creative Assembly
+- Dungeons & Dragons
+- GamesRadar+
+- Gamescom
+- Google News
+- Hardware
+- JBL
+- MOZA
+- MotoGP
+- Nova Pro
+- Nvidia
+- OLED
+- PCs —
+- Playground Games'
+- RTX
+- SteelSeries
+- Streaming
+- TRG
+- Team Green
+- TechRadar Gaming
+- The Witcher
+- WePC
 ---
 
 ![Three ay artwork showing the Rayman, Witcher 3, and Blood of Dawnwalker stands at Gamescom 2026 with the TechRadar Gaming Best of Gamescom 2026 awards badge on top](https://cdn.mos.cms.futurecdn.net/tnNYagk8oPzEtTvXqNCdu4.jpg) 

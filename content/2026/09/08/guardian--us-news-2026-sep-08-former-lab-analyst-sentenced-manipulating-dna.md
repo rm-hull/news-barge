@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Colorado
+- Golden
+people:
+- Andrew Poland
+- Michael Clark
+- Woods’
+- Yvonne “Missy” Woods
+organisations:
+- Colorado Bureau of Investigation
+- Denver Post
+- Woods’
 ---
 
 A judge sentenced a former forensic analyst for the Colorado Bureau of Investigation to 10 years in prison on Tuesday after authorities said her manipulation of DNA data had raised questions about the validity of hundreds of criminal cases.

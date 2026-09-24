@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Colombia
+- Europe
+- Florida
+- Gaza
+- Iran
+- Israel
+- Lebanon
+- Miami
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Washington
+- West Bank
+- White House
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Ed Miliband
+- Marco Rubio
+- Mike Huckabee
+- Trump
+- Washington
+organisations:
+- BBC
+- Congress
+- Hamas
+- Hezbollah
+- House of Commons
+- State Department
+- Trump
 ---
 
 ![Trump and Netanyahu shaking hands in July at the White House](https://ichef.bbci.co.uk/ace/standard/966/cpsprodpb/3dfe/live/ef7217b0-ac7c-11f1-994b-c7df927931ed.jpg)

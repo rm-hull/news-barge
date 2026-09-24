@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bradford
+- Grosvenor Casino
+- UK
+- Yorkshire
+people:
+- Funzy
+organisations:
+- '![Leisure Exchange'
+- Bradford Council
+- Funzy
+- Leisure Exchange
+- The Leisure Exchange
 ---
 
 # Plan to create 'best family entertainment centre in the UK' in Yorkshire approved

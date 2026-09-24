@@ -11,6 +11,16 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Belarus
+- Kaliningrad
+- Kaunas Reservoir
+- Lithuania
+- Moscow
+- Pratkūnai
+- Vilnius
+people: []
+organisations: []
 ---
 
 Lithuanian Military Police secured a site near Pratkūnai on Tuesday, where debris from a drone shot down overnight was found.

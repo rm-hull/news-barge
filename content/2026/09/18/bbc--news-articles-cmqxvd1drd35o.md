@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Althorp
+- Buckingham Palace
+- Cape Town
+- Northamptonshire
+- Paris
+- Princess of Wales
+- South Africa
+people:
+- Althorp
+- Diana
+- Earl Spencer
+- Harry
+- Jane
+- King
+- Laura Kuenssberg
+- Prince Charles
+- William
+organisations:
+- BBC iPlayer
+- Daily Mail
+- Royal Family
+- then-Prince of Wales
 ---
 
 Watch: Earl Spencer says he's 'telling the truth' about what Charles said after Diana died

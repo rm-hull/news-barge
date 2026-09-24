@@ -13,6 +13,51 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Born
+- Britain
+- Buckingham Palace
+- Coronation Street
+- Singapore
+- Solihull
+- UK
+- Warwickshire
+- West End
+people:
+- Alzheimer
+- Beatrice Mason
+- Delphine Featherstone
+- Elizabeth II
+- Jack
+- John Grant
+- Julie Walters
+- King Lear
+- Madame Arcati
+- Maggie Smith
+- Michelle Dyson
+- Mrs Featherstone
+- Muriel
+- Noel Coward
+- Patricia Routledge
+- Roy Cropper
+- Stephanie Cole
+- Sylvia Goodwin
+- Thora Hird
+organisations:
+- Alzheimer’s Society
+- BBC
+- Blithe Spirit
+- Bristol Old Vic Theatre School
+- Cole
+- Coronation Street
+- Dementia Support Line
+- Doc Martin
+- Midsomer Murders
+- OBE
+- Order of the British Empire
+- Savoy Theatre
+- The Black Widow
+- The Cleaner
 ---
 
 # Coronation Street and Waiting For God star Stephanie Cole dies aged 84

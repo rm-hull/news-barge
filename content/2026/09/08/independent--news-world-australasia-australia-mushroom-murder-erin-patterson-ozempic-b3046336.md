@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Australia
+- Dame Phyllis Frost Centre
+- Gippsland
+- Leongatha
+- Melbourne
+- Patterson
+- Victoria
+- Wellington
+people:
+- Brad Battin
+- Don
+- Erin Patterson
+- Gail Patterson
+- Heather Wilkinson
+- Ian Wilkinson
+organisations:
+- Herald Sun
+- News Nine
+- Ozempic
 ---
 
 An Australian woman convicted of murdering three relatives with poisonous mushrooms has been approved for Ozempic weight-loss jabs while in prison, according to reports.

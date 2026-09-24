@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Collin County
+- DFW
+- Dallas
+- Dallas-Fort Worth
+- Dallas-Fort Worth Metroplex
+- Denton Counties
+- McKinney
+- Rio Grande Valley
+- Sen
+- Tarrant County
+- Texas
+- Wall Street
+people:
+- AI Talarico
+- Barack Obama
+- Beto O’Rourke
+- Collin
+- Denton
+- Donald Trump
+- Elon Musk
+- George W. Bush
+- Hillary Clinton
+- James Talarico
+- Joe Biden
+- John Cornyn
+- John Thune
+- Ken Paxton
+- Mike Johnson
+- Tarrant
+- Ted Cruz
+organisations:
+- DFW
+- MAGA Inc
+- Newsmax
+- PAC
+- Senate
+- Tarrant
+- Trump
+- Votehub
+- ultra-MAGA
 ---
 
 On Wednesday, President Donald Trump and Republicans will descend upon Dallas, Texas for the Republican midterm election convention. That’s right, *midterm* convention — it’s OK, that’s a phrasing that naturally draws a double take.

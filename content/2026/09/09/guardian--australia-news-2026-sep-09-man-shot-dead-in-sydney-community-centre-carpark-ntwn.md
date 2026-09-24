@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Campsie
+- Punchbowl
+- Rossmore Avenue
+- Sydney
+people:
+- Chris Minns
+- Joshua Macdonald
+- Marco Tapia
+organisations:
+- NSW
+- New South Wales
+- Punchbowl
 ---
 
 A man has been shot dead in the car park of a Sydney community centre in the city’s south-west.

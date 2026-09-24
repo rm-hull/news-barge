@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Rahim Amir
+organisations:
+- AMD Ryzen AI Developer Center
+- CPU
+- GPU
+- Google News
+- Lenovo
+- NPU
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- ThinkCentre X Ultra
 ---
 
 ![The Lenovo ThinkCentre X Ultra pictured with its LED lighting on display](https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG.jpg) 

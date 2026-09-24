@@ -14,6 +14,79 @@ categories:
 - History
 - Science
 image: https://www.thenorthernecho.co.uk/resources/images/21456480.jpg?type=og-image
+locations:
+- Australia
+- Bagthorpe Military Hospital
+- Bishop Auckland
+- Britain
+- County Durham
+- Crook
+- Easington Lane
+- Fir Tree
+- Fir Tree Ballarat
+- France
+- Hetton Lyons
+- Hetton-le-Hole
+- High Escomb
+- Kelloe Duff Heap
+- London
+- Nottingham
+- Phil Dyer
+- Sherburn
+- Somme
+- South Hetton
+- St John’s Church
+- St Mary's
+- St Mary’s
+- Thornley
+- Tindale Crescent
+- Victoria
+- Wheatley Hill
+- Wingate Lane
+people:
+- Arthur Bainbridge
+- Catherine Gilling
+- Elizabeth McKeand
+- George
+- God
+- Hannah
+- Howard Chadwick
+- James
+- Joe Campbell
+- John Ephraim
+- Joseph
+- Knight
+- MARGARET WALLS
+- Margaret Hedley
+- Margaret Walls
+- Margaretta
+- Mckeand
+- Minnie.
+- Paul Robson
+- Peter High
+- Phil Dyer
+- Pte JG McKeand
+- Pte Thomas Coldwell
+- Rebecca Campbell
+- Robert Harkness
+- Sadly
+- Shaw
+- Thomas Coldwell
+- Thomas Donkin
+organisations:
+- 15DLI
+- 20DLI
+- Commonwealth War Graves
+- FTB
+- Hetton Lyons Colliery
+- Kelloe Duff Heap Three
+- Margeretta Walls
+- Portland Stone
+- Roman Way Industrial
+- S&K
+- Shaw & Knight?
+- Tiles & Architectural Ceramic Society
+- Wheatley Hill Local History Society
 ---
 
 MEMORIES 796 identified a unique, 100-year-old phenomenon at the heart of cemeteries in the County Durham coalfield. Here’s what readers say as we try to build up a bigger picture of this rare piece of local history.

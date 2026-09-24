@@ -12,6 +12,52 @@ image: https://images.euronews.com/articles/stories/09/89/43/33/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- Albania
+- Bosnia and Herzegovina
+- Brussels
+- China
+- Europe
+- Georgia
+- Greenland
+- Iceland
+- Liechtenstein
+- Moldova
+- Montenegro
+- North Atlantic
+- North Macedonia
+- Northeast
+- Northwest
+- Norway
+- Reykjavík
+- Russia
+- Schengen Area
+- Serbia
+- Southwest
+- Turkey
+- Ukraine
+- United Kingdom
+- Western Balkans
+people:
+- Donald Trump
+- Kristrún Frostadóttir
+organisations:
+- CFP
+- Coalition of the Willing
+- Common Fisheries Policy
+- Council of Europe
+- EEA
+- ETS
+- EU
+- Erasmus
+- European Commission
+- European Economic Area
+- European Union
+- G7
+- Gallup
+- Horizon
+- London
+- NATO
 ---
 
 ## Iceland has voted 52.8% to 47.2% against resuming accession negotiations with the European Union, effectively closing the door on membership. Here are the four takeaways from the referendum.

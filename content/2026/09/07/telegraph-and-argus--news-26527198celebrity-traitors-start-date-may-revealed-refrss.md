@@ -13,6 +13,41 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- BBC
+people:
+- '## Richard Osman'
+- Amol Rajan
+- Bella Ramsey
+- Euan Cherry
+- Hannah Fry
+- James Acaster
+- James Blunt
+- Jerry Hall
+- Joanne McNally
+- Joe Lycett
+- Joe Marler
+- Julie Hesmondhalgh
+- Kenny – Content
+- Leigh-Anne Pinnock
+- Marina Hyde
+- Maya Jama
+- Michael Sheen
+- Miranda Hart
+- Myha’la – Actor
+- Richard E. Grant
+- Richard Osman
+- Rob Beckett
+- Romesh Ranganathan
+- Ross Kemp
+- Sebastian Croft
+- Sharon Rooney
+- Traitors Richard
+organisations:
+- BBC
+- Bradford Traitors
+- Singer
+- Studio Lambert
 ---
 
 *(Image: BBC/Studio Lambert/Euan Cherry)*

@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- California
+- Florida
+- Garden City
+- Hawaii
+- Hormuz Strait
+- Iran
+- Israel
+- New York
+- Strait of Hormuz
+- Texas
+- U.S.
+- United States
+people:
+- Brown
+- Donald Trump
+organisations:
+- AAA
+- Brown University
+- Brown’s Watson School of International and Public Affairs
+- Iran War Energy Cost Tracker
 ---
 
 The war in Iran is costing Americans $100 billion in extra energy costs — and that number is going up by $1 million every two minutes, according to an estimate from Brown University.

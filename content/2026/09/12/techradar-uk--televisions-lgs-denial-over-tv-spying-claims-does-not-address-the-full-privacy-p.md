@@ -12,6 +12,40 @@ description: LG has defended the data collection that happens on its TVs, saying
 image: https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Edwards'
+- England
+- Stockport
+- Texas
+- UK
+- Zweifel-Keegan
+people:
+- Anna Maria Mandalari
+- Cobun Zweifel-Keegan
+- Dave
+- David Nield
+- Lillian Edwards
+organisations:
+- ACR
+- EU GDPR
+- Gamers Nexus
+- General Data Protection Regulation
+- Gizmodo
+- Google News
+- IAPP
+- ICO
+- IFA
+- Information Commissioner's Office
+- International Association of Privacy Professionals
+- LG TV
+- LG TVs
+- Mandalari
+- Newcastle University
+- PC Explorer
+- Samsung
+- The Hardware Handbook
+- University College London
+- Zweifel-Keegan
 ---
 
 ![LG TV Reality Check](https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ.jpg) 

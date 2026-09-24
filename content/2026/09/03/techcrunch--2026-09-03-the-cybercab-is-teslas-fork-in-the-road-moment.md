@@ -10,6 +10,34 @@ description: The company is about to formally launch the gold two-seater, with n
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805
 categories:
 - Technology & Software
+locations:
+- Austin
+- Cybercab is Tesla
+- Cybercabs
+- Florida
+- Hollywood
+- Texas
+- U.S.
+- Waymo
+people:
+- Ashok Elluswamy
+- Elon Musk
+- Tim Goessman
+organisations:
+- Bloomberg
+- Cybercab
+- Cybercabs
+- DOGE
+- Getty Images Musk
+- Getty Images Tesla
+- Model 3
+- Model Y
+- Robotaxi
+- Sjoerd van der Wal
+- Tesla AI
+- Tesla Inc.
+- Twitter
+- Waymo
 ---
 
 Today could be the day Tesla changes forever.

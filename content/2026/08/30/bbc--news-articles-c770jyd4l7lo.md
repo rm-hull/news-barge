@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Kyrenia Helicopters
+- Kyrenia.
+- Tasucu
+- Turkey
+- Turkish Republic of Northern Cyprus
+people:
+- Erhan Arikli
+- Recep Tayyip Erdogan
+- Ünal Üstel
+organisations:
+- Filo Denizcilik
+- Marine Traffic
+- TRNC
+- TRT
 ---
 
 Passengers stand on capsized Cyprus ferry ahead of rescue

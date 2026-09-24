@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Berryfields
+- Britain
+- Herefordshire
+- Longmeadow
+people:
+- Head Gardener
+- Ken Burras
+- Matt Baker
+- Monty Don
+- Monty Don 'heartbroken
+organisations:
+- BBC Studios
+- BBC Two
+- Gardeners' World
+- Gardeners’ World
 ---
 
 *(Image: BBC Studios)*

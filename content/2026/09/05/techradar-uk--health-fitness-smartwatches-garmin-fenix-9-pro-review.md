@@ -12,6 +12,41 @@ image: https://cdn.mos.cms.futurecdn.net/azVGGwySBDyUvXbGWNYruE-2560-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations:
+- Chamonix
+- Colorado
+- Everest Base Camp
+- French Alps
+- Garmin Connect
+- Rocky Mountains
+- Scotland
+- Stamina Zones
+- Tour du Mont Blanc
+- UK
+- US
+people:
+- Elsey Davis
+- Garmin Fenix
+- Jon Hosler
+- Julia Clarke
+- Katie Schide
+- Maharishi Ayurveda
+- Tom Evans
+organisations:
+- Adventure Journal
+- Advnture
+- Apple
+- Everest Base Camp
+- Fenix 8
+- Fenix 9
+- GPS
+- Garmin Connect
+- Garmin Fenix
+- Garmin Messenger
+- LED
+- LiveTrack
+- Pro
+- TechRadar
 ---
 
 ### TechRadar Verdict

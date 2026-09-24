@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Sweden
+people:
+- Andreas Norlén
+- Elisabeth Thand Ringqvist
+- Magdalena Andersson
+- Nooshi Dadgostar
+- Tidö
+- Ulf Kristersson
+organisations:
+- Centre and Green –
+- Centre and Left
+- Greens
+- SD
+- Social Democrats’
+- Sweden Democrats
+- Tidö
 ---
 
 Sweden’s centre-right prime minister, Ulf Kristersson, has stood down, clearing the way for Magdalena Andersson, the Social Democrats leader, to attempt to form a government.

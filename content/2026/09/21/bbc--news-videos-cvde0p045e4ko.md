@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3989/live/32513620-b609-11f1-a430-4d16ee157c41.jpg
+locations:
+- Alaska
+people:
+- Madeline Gerber
+- Meiying Wu
+organisations:
+- Katmai National Park
 ---
 
 # Fat Bear Week: Which bear has put on the most weight?

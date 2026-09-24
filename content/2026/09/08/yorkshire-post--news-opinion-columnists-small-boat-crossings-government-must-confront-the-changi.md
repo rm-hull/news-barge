@@ -17,6 +17,15 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Calais-Dover
+- Eastney Beach
+- Europe
+- Normandy
+- Portsmouth
+people: []
+organisations:
+- Labour
 ---
 
 # Small boat crossings: Government must confront the changing tactics of people smuggling gangs

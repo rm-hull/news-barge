@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- James Dolan
+organisations:
+- MSG
+- Madison Square Garden Sports
+- NBA
+- New York Knicks
+- Philadelphia
 ---
 
 The New York Knicks said Thursday they are pausing ticket sales after an error caused them to be listed for amounts that were too high.

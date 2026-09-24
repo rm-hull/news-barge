@@ -10,6 +10,29 @@ description: A Ukrainian drone boat reportedly hunted down a Russian counterpart
 image: https://cdn.mos.cms.futurecdn.net/m6kBqoCAc29ipreVBTj3TQ-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Black Sea
+- Crimea
+- Gelendzhik
+- Izhevsk
+- Moscow
+- Novorossiysk
+- Snake Island
+- Ukraine
+people:
+- Caesar Kunikov
+- Kyiv
+organisations:
+- Efosa
+- Google News
+- HUR
+- Kyiv
+- NATO
+- Sargan-3000
+- TechRadar Pro
+- Ukrainian Navy
+- Via Defence Blog
+- ZALA
 ---
 
 ![Unmanned Navy-operated drone boat](https://cdn.mos.cms.futurecdn.net/m6kBqoCAc29ipreVBTj3TQ.png) 

@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bar Fresco
+- Corporation Road
+- Middlesbrough
+- YOUR
+people:
+- Steve Brooke
+organisations:
+- Doctor Browns
+- Doctors Browns
+- F1
+- Flares
+- Furniture
+- Middlesbrough
+- PNEUMA HOSPITALITY)* Pneuma
+- Pitch!
+- Pneuma Group
+- Public Notice Portal
+- STACK
+- Sports Bar
+- THE NORTHERN ECHO
 ---
 
 *(Image: PNEUMA GROUP)*

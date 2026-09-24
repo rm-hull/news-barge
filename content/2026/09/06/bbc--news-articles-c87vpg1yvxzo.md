@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Hyde Park
+- London
+- Sydney
+- UK
+people:
+- Alan Ayckbourn
+- Anu Pillai
+- Baz Luhrmann
+- Beth Brennan
+- David Sneddon
+- Ewan McGregor
+- Gary Lightbody
+- Grace Jones
+- Mariah Carey
+- Max Valentine
+- Michael Hutchence
+- Moulin Rouge
+- Natalie Imbruglia
+- Satine
+- Talking Heads
+- Things
+- Tom Waits
+- Tori Amos
+- Torn
+- Whitney Houston
+organisations:
+- Coca-Cola
+- INXS
+- Natalie Imbruglia
+- RCA Records
+- Snow Patrol
 ---
 
 ![Promotional photograph of Natalie Imbruglia in a denim jacket, with her head resting in her right hand](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb5d/live/4c098a70-a797-11f1-b64a-71b1e45ff5c7.jpg)

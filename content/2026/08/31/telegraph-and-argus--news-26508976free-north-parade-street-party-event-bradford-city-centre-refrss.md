@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Bradford
+- Phil Lickley
+people:
+- Austin Haddock
+- David Jared
+- James Brunskill
+- Phil Lickley
+organisations:
+- Boar and Fable
+- Boki
+- Bradford
+- Grade 2 Sports Bar
+- Harvana Lounge
+- L&G Bar
+- Natural Rhythm
+- North Parade Street Party
+- Richard Harris Experience
+- Rubber Kazoo
+- Rumshackalack
+- The Fourth Act
 ---
 
 *(Image: Phil Lickley)*

@@ -13,6 +13,84 @@ image: https://static.independent.co.uk/2026/08/28/14/ANTHROPIC-PENT%C3%81GONO-F
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- Africa
+- Atlantic
+- Capitol Hill
+- Europe
+- Gulf
+- Iran
+- Iraq
+- Russia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Ukraine
+people:
+- Abraham Lincoln
+- Anna Kelly
+- Charles Q Brown Jr
+- Charles Q Brown Jr**
+- Christopher Donahue
+- Christopher Grady
+- Christopher LaNeve
+- Christopher Norrie
+- Dan Driscoll
+- Dan “Razin’” Caine
+- David Allvin
+- Donald Trump
+- Hung Cao
+- JD Vance
+- Jeffrey Kruse
+- Joe Biden
+- Joe McGee
+- John Phelan
+- Laura Loomer
+- Lisa Franchetti
+- Lloyd Austin
+- Mark Milley
+- Milton Sands
+- Nancy Lacore
+- Pete Hegseth
+- Randy George
+- Rear Adm
+- Shoshana Chatfield
+- Tim Haugh
+- Vice Adm
+- Wendy Noble
+organisations:
+- 82nd Airborne Division
+- Air Force
+- Armed Forces
+- Associated Press
+- CNN
+- Congress
+- DEI
+- DIA
+- Defense Intelligence Agency
+- Delta Force
+- Department of Defense
+- Department of the Army
+- Hegseth
+- Joint Chiefs
+- Joint Chiefs of Staff
+- Joint Staff
+- MAGA
+- NATO Military Committee
+- Naval Special Warfare Command
+- Navy Reserve
+- Pentagon
+- Reuters
+- Senate Armed Forces Committee
+- The Independent
+- The Washington Pos
+- U.S. Army
+- U.S. National Security Agency
+- United States Army
+- Washington Post
+- White House
+- Yale Law School
 ---
 
 Army Secretary Dan Driscoll has become the latest high-ranking U.S. military official to leave the Pentagon amid reports of tensions with Secretary Pete Hegseth.

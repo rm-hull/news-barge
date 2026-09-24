@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Batley
+- Dewsbury
+- England
+people:
+- Ayoub Khan
+- Iqbal Mohamed
+- Stephen Kinnock
+organisations:
+- Birmingham Perry Barr
+- CHC
+- House of Commons
+- Labour Government
+- NHS Continuing Healthcare
+- NHS England
+- Yorkshire
 ---
 
 # Yorkshire MP calls for 'transparent, consistent and fair’ CHC system

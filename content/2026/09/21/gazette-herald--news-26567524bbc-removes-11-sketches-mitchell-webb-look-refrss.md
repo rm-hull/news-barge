@@ -13,6 +13,19 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21478924.jpg?type=og-image&xType=0&yType=96
+locations: []
+people:
+- David Mitchell
+- Dom Joly
+- Robert Webb
+organisations:
+- BAFTA
+- BBC iPlayer
+- Freeview
+- IMDb
+- That Mitchell and Webb Look
+- The Times
+- Webb Look
 ---
 
 *(Image: PA)*

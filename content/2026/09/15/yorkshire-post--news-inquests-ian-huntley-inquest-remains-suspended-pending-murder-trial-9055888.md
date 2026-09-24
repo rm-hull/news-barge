@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Cambridgeshire
+- County Durham
+- Crook
+- Frankland Prison
+- Newcastle
+- Old Bailey
+- Royal Victoria Infirmary
+- Soham
+people:
+- Anthony Russell
+- Holly Wells
+- Ian Huntley
+- Jeremy Chipperfield
+- Jessica Chapman
+- Maxine Carr
+- Toby Melville
+organisations:
+- Holly and Jessica
 ---
 
 # Ian Huntley inquest remains suspended pending murder trial

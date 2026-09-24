@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Bradford
+- Cliffe Castle Museum
+- Keighley
+- Pennine Cycles
+people:
+- Florence White
+- Ian Walker
+organisations:
+- Beryl Bikes
+- Bradford Council
+- Bradford Council-run
+- Bradford Industrial Museum
+- Bradford’s Heritage Action Zone
+- Capital of Cycling
+- Cliffe Castle Museum
+- Darley Street Market
+- HAZ
+- Lime Mortar’
+- Neighbourhoods and Communities
+- North East Film Archive
+- Womersley’s Ltd
+- Yorkshire
 ---
 
 *(Image: Supplied)*

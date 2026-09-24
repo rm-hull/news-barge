@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- York
+people:
+- Anna
+- Beth
+- Brenda
+- Emma
+- Esme Young
+- Patrick Grant
+- Sebastian
+- Steve
+organisations:
+- Costume Design
+- Sewing Bee
+- St Leonard’s Hospice
+- The Press
 ---
 
 St Leonard’s Hospice has celebrated the success of retail team member Anna for her “incredible” win in this year’s Great British Sewing Bee.

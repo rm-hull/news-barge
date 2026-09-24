@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '## Building'
+- Manningham
+- Parkfield Road
+- St Pauls Conservation Area
+- YOUR
+people:
+- Aliya Bahadur
+organisations:
+- Bradford Council
+- Conservation Area
+- Public Notice Portal
 ---
 
 *(Image: Google)*

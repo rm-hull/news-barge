@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Exton
+- Lucas County
+- Ohio
+- Sabira
+- Toledo
+people:
+- Julia Bates
+- Matthew Exton
+organisations:
+- Exton's
+- Ohio Supreme Court
+- Toledo Blade
+- WTOL
 ---
 
 Wild surveillance footage captured the moment a waiter tackled an armed man as he tried to gun down his ex-wife in a busy Ohio restaurant.

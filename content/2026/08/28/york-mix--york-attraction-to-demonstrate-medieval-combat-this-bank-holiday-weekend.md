@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - History
+locations:
+- Barley Hall
+- Coffee Yard
+- Grape Lane
+- Great Hall
+- Stonegate
+- Ye Olde Starre Inn
+people:
+- Richard Jones
+organisations:
+- Barley Hall
+- House of Lancaster
+- House of York
+- Three Swords
+- York Archaeology
 ---
 
 Celebrate the sights, sounds, and skills of the Middle Ages this bank holiday – as Barley Hall host a Medieval Weekend.

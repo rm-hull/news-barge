@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Dallas
+- National Mall
+- Texas
+- White House
+people:
+- Bo Nickal
+- Donald Trump
+- Ed Krassenstein
+- Garrett Haake
+- James Talarico
+- Joe Biden
+- Justin Gaethje
+- Ken Paxton
+- Liz Landers
+- Nandita Bose
+- Scott Bessent
+organisations:
+- American Airlines Center
+- GOP
+- Great American State Fair
+- House of Representatives
+- NBC News
+- NFL
+- PBS
+- Reuters White House
+- Texas Senate
+- Treasury
+- UFC
+- anti-MAGA
 ---
 
 President Donald Trump’s speech on the opening night of his Republican midterms convention in Dallas, Texas, was marred by a bad technical glitch and large sections of empty seating, despite his insistence the arena was “packed.”

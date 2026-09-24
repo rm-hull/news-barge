@@ -12,6 +12,15 @@ categories:
 - York
 - Careers & Productivity
 image: https://www.yorkpress.co.uk/resources/images/21486205.jpg?type=og-image
+locations:
+- York
+- Yorkshire
+people: []
+organisations:
+- Newsquest
+- Ramsdens Solicitors
+- Ramsdens Solicitors York
+- The Press
 ---
 
 ## The Press readers offered will from just £280 + VAT

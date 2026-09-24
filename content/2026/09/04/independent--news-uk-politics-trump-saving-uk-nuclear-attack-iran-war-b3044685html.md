@@ -13,6 +13,26 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- America
+- Argentina
+- Britain
+- Europe
+- Falkland Islands
+- Iran
+- London
+- Strait of Hormuz
+- UK
+- US
+people:
+- Churchill
+- Donald Trump
+- Keir Starmer
+- Manuel Balce Ceneta
+- Sadiq
+organisations:
+- GB News
+- United States’
 ---
 
 Donald Trump has claimed his Iran war is “saving” Britain from a nuclear attack, as he again hit out at the UK for refusing to join the conflict.

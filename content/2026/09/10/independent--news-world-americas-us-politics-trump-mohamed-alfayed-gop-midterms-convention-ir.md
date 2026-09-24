@@ -12,6 +12,40 @@ image: https://static.independent.co.uk/2026/09/10/03/2026-09-10T021849Z_1486929
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Dallas
+- Florida
+- Hill
+- Iran
+- Michigan
+- Pickaxe Mountain
+- Princess of Wales
+- Texas
+- U.K.
+- U.S.
+people:
+- Abdul El-Sayed
+- Angie Nixon
+- Diana Spencer
+- Dodi Fayed
+- Donald Trump
+- Harry
+- James Talarico
+- Meghan Markle
+- Mohamed Al Fayed
+- Mohamed Al-Fayed
+- Mohamed Al-Fayed.’
+- Mohamed Jones
+- Myhamad Azuri
+- Myhamed
+organisations:
+- BBC
+- Daily Mail
+- House
+- London Harrods
+- Senate
+- U.S. Space Force
 ---
 
 Donald Trump made an off-color reference to the father of Princess Diana’s boyfriend, Dodi Fayed, during his remarks Wednesday at the Republican midterm convention in Dallas as he joked about his war in Iran.

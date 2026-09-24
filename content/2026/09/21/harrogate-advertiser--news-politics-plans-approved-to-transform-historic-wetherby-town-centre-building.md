@@ -14,6 +14,14 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ2ZTNmODlmLTY5NTEtNDM0NS1iMzJjLTZkMDg2ODRmMjY3MDoxMTY1ZDQ5Mi1mOThlLTRiMWQtYjU3Ny0yNmUxZTI3MDc0ZTY=.jpg?crop=3:2,smart&trim=&width=1013&auto=webp&quality=75
+locations:
+- Market Place
+- Wetherby Conservation Area
+people: []
+organisations:
+- Leeds City Council
+- Ormerod Sutton Architects
+- Wetherby Town Council
 ---
 
 # Plans approved to transform historic Wetherby town centre building into six shops

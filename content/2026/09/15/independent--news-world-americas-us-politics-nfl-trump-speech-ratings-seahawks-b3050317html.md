@@ -14,6 +14,39 @@ categories:
 - UK
 - Sports
 - Business & Entrepreneurship
+locations:
+- Australia
+- Dallas
+- Texas
+- U.S.
+people:
+- Donald Trump
+- Keith Edwards
+- Natalie Baldassarre
+organisations:
+- ABC
+- C-SPAN
+- CBS
+- CNN
+- Fox News
+- Hannity
+- Los Angeles Rams
+- MSNOW
+- Mediate
+- NBC Sports
+- NFL
+- Netflix
+- New England Patriots
+- NewsMax
+- Nielsen
+- Peacock
+- Puck News
+- RNC
+- Republican National Committee
+- San Francisco 49ers
+- San Francisco 49ers-Los Angeles Rams
+- Seattle Seahawks
+- The New York Times
 ---
 
 The NFL made a strong prime-time start last week, drawing over 25 million viewers for the Seattle Seahawks' victory over the New England Patriots and outperforming a speech by President Donald Trump at the Republican midterm convention.

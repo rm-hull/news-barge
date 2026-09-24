@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/815c/live/f1c474d0-b740-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Glasgow
+- Hampden
+- La Manga
+- Ljubljana
+- North Macedonia
+- Scotland
+- Slovenia
+- Spain
+- Switzerland
+people:
+- Ben Gannon-Doak
+- Colby Donovan
+- Findlay Curtis
+- James Wilson
+- Kenny McLean
+- Kristi Montgomery
+- Lennon Miller
+- Luke Graham
+- Robbie Ure
+- Sebastien Pocognoli
+- Steve Clarke
+organisations:
+- BBC Sport Scotland
+- Blackburn
+- Montgomery
+- Pocognoli
+- Switzerland
 ---
 
 ![Sebastien Pocognoli](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/815c/live/f1c474d0-b740-11f1-aa9c-3d062fa3aea7.jpg)

@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Abraham Lincoln
+- Bangkok
+- California
+- Chonburi
+- Iran
+- Laem Chabang
+- Middle East
+- Pattaya
+- South China Sea
+- Thailand
+- Thailand.
+- US
+- USS Abraham Lincoln
+- Vietnam
+people:
+- Abraham Lincoln
+- Anek Srathongyoo
+- Donald Trump
+- Pattarachit Gozzoli
+- Pipatpong Fakfare
+- Poramase Ngampiches
+organisations:
+- Bangkok University
+- Mahidol University
+- Marines
 ---
 
 The USS Abraham Lincoln, an US aircraft carrier at the centre of a row over conditions on board after months at sea as part of Donald Trump’s war against Iran, has arrived off a Thai port.

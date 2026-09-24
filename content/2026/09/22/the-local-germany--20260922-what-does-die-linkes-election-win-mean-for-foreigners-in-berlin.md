@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260918__C8PP32F__v1__MidRes__GermanyPoliticsVoteParties.jpg@webp
+locations:
+- Berlin
+- City Hall
+- Germany
+- New York City
+people:
+- Die Linke
+- Elif Eralp
+- Friedrich Merz
+- Zohran Mamdani
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
+- Christian Democratic Union
+- Deutsche Wohnen
+- Die Linke
+- Greens
+- Left Party
+- NY City ID
+- NYC
+- SPD
+- Social Democrats
+- The Left
+- Tschüss Auto
+- Urban Development
+- VBB
+- Vonovia
 ---
 
 The dust is settling after Berlin's gripping election that saw the far-left Die Linke – or the Left Party – emerge as winners of the *Abgeordnetenhauswahl* with 25.7 percent of the vote.

@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Accra
+- Britain
+- Caribbean
+- Ghana
+- Leeds
+- Northern Ireland
+- Portsmouth
+- Swim England
+- Tokyo
+- UK
+- US
+- United States
+people:
+- Alice Dearing
+- Emma Barnett
+- Florence Freeman
+- Heather Massey
+- John Simpson
+- Kevin Hylton
+- Nathaniel Cole
+- Omie Dale
+organisations:
+- BBC
+- BSA
+- Black Swimming Association
+- British Swimming Association
+- Leeds Beckett University
+- National Child Mortality Database
+- Omie Dale
+- RLSS UK
+- RNLI
+- Royal Life Saving Society UK
+- Royal National Lifeboat Institution
+- Sport England
+- Swim Dem Crew
+- Swim England
+- Team GB
+- University of Portsmouth
 ---
 
 ![Florence Freeman](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b67f/live/e5ee3c40-9bd9-11f1-aed2-8d6da8d75094.png)

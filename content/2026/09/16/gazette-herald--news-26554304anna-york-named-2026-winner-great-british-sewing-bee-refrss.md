@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- York
+people:
+- Anna
+- Beth
+- Brenda
+- Emma
+- Esme
+- Patrick Grant
+- Sebastian
+- Steve
+organisations:
+- BBC
+- British Sewing Bee
+- Queen of Hearts
+- Sewing Bee
 ---
 
 A woman from York has been named this year’s winner of the Great British Sewing Bee.

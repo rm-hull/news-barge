@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/05/22/af12ebdbd07ec5169b3886d72c
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Israel
+- PA
+- Tel Aviv
+- UK
+- US
+- West Bank
+people:
+- David Lammy
+- Ed Miliband
+- Leon Neal
+- Mike Huckabee
+- Tom Fletcher
+- Tom Tugendhat
+organisations:
+- Global Human Rights Clinic
+- Labour
+- PHR
+- Physicians for Human Rights
+- The Telegraph
+- UN
+- University of Chicago Law School
 ---
 
 The US ambassador to Israel has accused the Labour government of “Jew hate” after Ed Miliband said vital medicines on their way to Gaza were being blocked.

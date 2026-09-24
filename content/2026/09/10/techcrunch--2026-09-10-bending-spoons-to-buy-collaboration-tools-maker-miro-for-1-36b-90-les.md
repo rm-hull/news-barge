@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Miro
+organisations:
+- Airtable
+- Atlassian
+- Bending Spoons
+- Canva
+- Cisco
+- Figma
+- GitHub
+- Microsoft
+- Miro
+- SaaS
+- Zoom
 ---
 
 Bending Spoons is continuing its trend of buying once-sought-after software companies for pennies on the dollar. This time, the Italian company is buying Miro for $1.36 billion in cash (equity value of $1.79 billion), a mighty dip in valuation for the once-hot workplace collaboration startup that was awarded a price tag of $17.5 billion in late 2021.

@@ -13,6 +13,36 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Hong Kong
+- London
+- Shanghai
+- U.S.
+people:
+- Howie Farn
+- Jacob Cooke
+- Perris Lee
+- Ruiying Zhao
+- Shein
+organisations:
+- AGIBOT
+- AI
+- APAC
+- CXMT
+- Deep Robotics
+- EU
+- Freshfields
+- ION Analytics
+- IPO
+- LSEG
+- Luxshare Precision Industry
+- S&P Global Market Intelligence
+- Shein
+- SpaceX
+- Unitree
+- WPIC Marketing + Technologies
+- Zhongji Innolight
 ---
 
 Chinese markets are booming with new public stock offerings, energized by the craze for artificial intelligence and other advanced technology and a growing preference to list shares in Hong Kong and Shanghai.

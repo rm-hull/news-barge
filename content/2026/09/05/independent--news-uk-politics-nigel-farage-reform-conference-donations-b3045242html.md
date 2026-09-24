@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/05/14/2293102248..?trim=0,100,0,
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- Clacton
+- National Exhibition Centre
+people:
+- Dan Jukes
+- James Orr
+- Lee Anderson
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+organisations:
+- Channel 4
+- Climate Resistance
+- GB News
+- ITV
+- Labour
+- Lib Dems
+- Metropolitan Police
+- Reform UK
+- Treasury
+- Verbatim
+- West Midlands Police
 ---
 
 Nigel Farage has said he expects “many more investigations” into Reform UK over the coming months as the fallout over a major donations scandal continues.

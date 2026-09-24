@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Atlantic
+- East Anglia
+- Midlands
+- Northern England
+- Northern Ireland
+- Scotland
+- Southern England
+- Summer
+- UK
+- Wales
+people:
+- Nicola Maxey
+organisations:
+- Environment Agency
+- Met Office
 ---
 
 The UK is bracing for a wet and windy start to the weekend before conditions settle into sunnier spells for most on Sunday.

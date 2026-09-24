@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations:
+- YORK
+people:
+- Ella Bond
+- Judy Wray
+organisations:
+- Chocolate Works Care Home
+- The Press Community Pride 2026 Health Service Hero
 ---
 
 A YORK care home deputy manager whose compassion and leadership have transformed lives has been named The Press Community Pride 2026 Health Service Hero.

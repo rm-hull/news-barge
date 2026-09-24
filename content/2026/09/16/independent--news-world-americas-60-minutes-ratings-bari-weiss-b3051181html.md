@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Iran
+- Israel
+people:
+- ',” Weiss'
+- Anderson Cooper
+- David Ellison
+- Donald Trump
+- Nick Bilton
+- Norah O'Donnell
+- Norah O’Donnell
+- Ross Douthat
+- Scott Pelley
+- Sharon Alfonsi
+organisations:
+- Air Force
+- Bari Weiss’
+- CBS News
+- CBS News’
+- Fox
+- NFL
+- New York Times
+- Nielsen
+- Paramount
+- The Independent
+- The New York Times
+- The Wall Street Journal
 ---
 
 *60 Minutes* opened its 59th season Sunday with its smallest premiere audience in at least a quarter-century following CBS News Editor-in-Chief Bari Weiss’ overhaul of the flagship program.

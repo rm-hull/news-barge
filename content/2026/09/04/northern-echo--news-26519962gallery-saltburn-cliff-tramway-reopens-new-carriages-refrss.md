@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- North Yorkshire
+- Saltburn Cliff Tramway
+- Teesside
+- Thomas the Tank Engine
+people:
+- Chloe Buck
+- Stuart Boulton
+organisations:
+- Saltburn Cliff Tramway
 ---
 
 Passengers are once again travelling between Saltburn's seafront and town centre, after one of the town's most iconic attractions reopened following a major restoration project.

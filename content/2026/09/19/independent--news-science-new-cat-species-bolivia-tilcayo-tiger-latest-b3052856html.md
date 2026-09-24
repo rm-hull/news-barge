@@ -12,6 +12,18 @@ categories:
 - UK
 - Pets & Animals
 image: https://static.independent.co.uk/2026/09/18/7/19/Live-specimen-of-L--tilcayo.png?trim=0,103,0,103&width=1200&height=800&crop=1200:800
+locations:
+- Amazon
+- Andes
+- Bolivia
+- Inca Empire
+- Peru
+- South America
+- Yungas
+people:
+- Paola Nogales Ascarrunz
+organisations:
+- NBC News
 ---
 
 Scientists have identified a new tiger cat species in the cloud forest region of Bolivia, marking the first discovery of a living feline in over a century.

@@ -12,6 +12,17 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bradford Buttershaw Superstore
+- Great Britain
+people:
+- Murray Bisschop
+organisations:
+- Bradford Extra
+- Clubcard
+- TESCO
+- Tesco Finest
+- Tesco UK
 ---
 
 *(Image: Supplied)*

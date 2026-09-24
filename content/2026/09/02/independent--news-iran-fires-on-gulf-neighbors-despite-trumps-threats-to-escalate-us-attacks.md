@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/02/07/Iran_War_Strait_of_Hormuz_
 categories:
 - News & Politics
 - UK
+locations:
+- Bahrain
+- Gulf
+- Hormuz Strait
+- Iran
+- Israel
+- Jordan
+- Kuwait
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Donald Trump
+organisations:
+- U.S. Central Command
+- ___ Finley
 ---
 
 Bahrain intercepted an Iranian aerial attack early Wednesday, as Tehran continued to fire on allies of the United States in the Gulf region despite threats from President Donald Trump to escalate American military attacks.

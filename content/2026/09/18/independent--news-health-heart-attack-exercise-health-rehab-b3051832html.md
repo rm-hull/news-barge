@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations: []
+people:
+- Grace Dibben
+- Rod Taylor
+organisations:
+- University of Glasgow
 ---
 
 Researchers say prescribing exercise to people with heart problems could slash hospital admissions, with home-based digital programmes just as beneficial as in-person sessions.

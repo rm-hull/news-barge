@@ -13,6 +13,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/1/23/GettyImages-1244609154.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- New Hampshire
+- New York
+- New York House
+- Texas
+people:
+- Donald Trump
+- Hakeem Jeffries
+- JD Vance
+- Michael Bloomberg
+- Mike Lawler
+- Mike Smith
+- Susie Lee
+organisations:
+- AdImpact
+- CNN
+- House of Representatives
+- PAC
+- Senate
 ---
 
 Democratic officials and strategists across the country are raising concerns that a significant cash shortage could prevent the party from capitalizing on favorable political conditions in the November midterms.

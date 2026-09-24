@@ -15,6 +15,17 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21275542.jpg?type=og-image
+locations:
+- '![]()County Durham'
+- County Durham
+- Darlington
+people:
+- Chris Booth
+- Steve Russell
+organisations:
+- County Durham
+- Darlington NHS Foundation Trust
+- TEWV
 ---
 
 The investigation into failures in County Durham and Darlington’s breast services cost more than half a million pounds in the last financial year alone, new documents reveal.

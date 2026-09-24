@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Blackpool
+- Miss Teen North Yorkshire
+- Sutton-in-Craven
+- UK
+people:
+- '## Mum'
+- Caitlin Walsh
+- Craig Holwill
+- Isabel Gibson
+- Melissa
+organisations:
+- Boulevard Hotel
+- Edge to Edge Surveillance
+- Pageant Girl UK
+- South Craven School
+- The Dress Studio
+- The Globe Theatre
 ---
 
 *(Image: Caitlin Walsh)*

@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/13/7/31/burnham-eu.avif?trim=0,0
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Europe
+- Schengen
+- UK
+people:
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Maddox
+- Ed Davey
+- John Curtice
+- Keir Starmer
+- Kemi Badenoch
+- Leave
+- Millie Cooke
+- Morgan McSweeney
+- Nigel Farage
+organisations:
+- Brexit
+- Cabinet Office
+- EU
+- European Union
+- Greens
+- Labour
+- Lib Dem
+- The Independent
 ---
 
 Support for rejoining the European Union is at its highest level since the Brexit vote – but political leaders need to seize the opportunity or it will all come to nothing, the UK’s leading polling guru has warned.

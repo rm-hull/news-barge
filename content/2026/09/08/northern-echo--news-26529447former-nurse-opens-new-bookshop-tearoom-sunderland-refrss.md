@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- :**County Durham
+- Darlington
+- Frederick Street
+- Sunderland
+people:
+- Hayley Beckinsale
+- Hina Joshi
+- James Jackson
+- Slurring
+organisations:
+- Chapter 13
+- County Durham
+- North East BIC
+- Sunderland City Council
 ---
 
 A former nurse has swapped scrubs for stories with the launch of a new bookshop and tearoom.

@@ -13,6 +13,31 @@ image: https://static.independent.co.uk/2026/08/28/13/Washington_State-Chemical_
 categories:
 - News & Politics
 - UK
+locations:
+- Houston
+- Longview
+- U.S.
+- Washington
+people:
+- Sam Jefferies
+- Sheri Lynn King
+- Stephen Kmiotek
+organisations:
+- AP
+- Centers for Disease Control and Prevention
+- Department of Ecology
+- Department of Labor and Industries
+- Division of Occupational Safety and Health
+- DuPont
+- Labor and Industries
+- National Response Center
+- Nippon Dynawave
+- Nippon Dynawave Packaging Co.
+- The Associated Press
+- U.S. Chemical and Safety Board
+- U.S. Environmental Protection Agency
+- WPI
+- Worcester Polytechnic Institute
 ---
 
 A pulp mill in Washington state where 11 workers died after a chemical tank collapsed in May had a history of safety complaints, poor maintenance and discharges of toxic chemicals, records reviewed by The Associated Press show.

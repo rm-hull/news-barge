@@ -13,6 +13,19 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- Berkeley
+- Canada
+- Ellesmere Island
+- Long Island
+people:
+- Brian Swartz
+- Julia Molnar
+- Thomas Stewart
+organisations:
+- New York Institute of Technology
+- Pennsylvania State University
+- University of California
 ---
 
 ![A new Devonian fin from Ellesmere Island](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312707974.jpg?w=840)

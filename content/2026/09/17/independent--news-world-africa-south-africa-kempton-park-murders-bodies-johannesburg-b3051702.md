@@ -13,6 +13,28 @@ categories:
 - UK
 - True Crime
 - Health & Fitness
+locations:
+- Clayville
+- Dawn Park
+- Ekurhuleni
+- Gauteng
+- Johannesburg
+- Kempton Park
+- Kwa-Thema
+- Olifantsfontein
+- Pomona
+- Rhodesfield
+- South Africa
+- Southern Africa
+people:
+- Elizabeth “Tsontso” Moselakgomo
+- Fred Kekana
+- Panyaza Lesufi
+organisations:
+- SAPS
+- South African Police Service
+- The Gauteng
+- United Nations'
 ---
 
 South African police revealed on Thursday that a ninth woman’s body has been discovered in an area east of Johannesburg, and said it could be linked to a series of killings they are investigating.

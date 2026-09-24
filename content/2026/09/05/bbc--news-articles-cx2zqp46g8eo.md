@@ -11,6 +11,34 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a17/live/0cde6b
 categories:
 - UK
 - News & Politics
+locations:
+- Boryspil Airport
+- Dnipro
+- Finland
+- Helsinki
+- Kremlin
+- Kyiv Airport
+- Moscow
+- Paris
+- Russia
+- US
+- Ukraine
+- Ukraine.
+- Vnukovo Airport
+- Washington
+people:
+- Donald Trump
+- Jared Kushner
+- John Ratcliffe
+- Kirill Dmitriev
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Axios
+- CIA
+- Kyiv
+- Witkoff
 ---
 
 ![Steve Witkoff (left) and Jared Kushner (right) stand side by side looking directly towards the camera. They are both in black suits with white shirts. Witkoff has a blue patterned tie and Kushner has a black tie](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg)

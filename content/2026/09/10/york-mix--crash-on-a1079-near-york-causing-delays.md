@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- '#### Crash'
+- Four Lane Ends
+- Kexby
+- York
+people: []
+organisations: []
 ---
 
 There was a crash on the A1079 near York this morning (Thursday).

@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ali Taher
+- Beirut
+- Hanniyeh
+- Iran
+- Israel
+- Lebanon
+- Mansouri
+- Nabatiyeh
+- Rome
+- Tyre
+- U.S.
+people:
+- Abby Sewell
+- Ali Hussein Ghanem
+- Mansouri
+- Wissam Khashabi
+organisations:
+- Associated Press
+- Hezbollah
 ---
 
 A group of men and children gathered Friday at a vantage point overlooking their village in southern Lebanon, watching from a distance as Israeli drones descended, carrying boxes laden with explosives to be dropped on houses.

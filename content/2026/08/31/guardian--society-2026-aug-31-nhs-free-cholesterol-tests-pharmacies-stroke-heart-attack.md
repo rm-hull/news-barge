@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- London
+- Munich
+- NHS England
+people:
+- Alison McGovern
+- David Webb
+- Rani Khatib
+- Sotiris Antoniou
+organisations:
+- Barts Health
+- Barts Health NHS
+- European Society of Cardiology
+- Heart UK
+- UCLPartners
 ---
 
 The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade.

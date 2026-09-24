@@ -13,6 +13,19 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Keighley
+- Leeds General Infirmary
+- Sand Street
+- Sandywood Street
+people: []
+organisations:
+- '### Full'
+- '### Yorkshire Ambulance Service'
+- Newsquest
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

@@ -14,6 +14,14 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Darlington STEM
+- NORTHERN ECHO
+- North East
+people: []
+organisations:
+- Darlington
+- Met Office
 ---
 
 *(Image: NORTHERN ECHO)*

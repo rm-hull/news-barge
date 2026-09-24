@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/iCgVzHofbsqPvbQV2qdRf9-415-80.jpg
+locations: []
+people:
+- Michael Klements'
+organisations:
+- Aaron Klotz Published
+- Bruno Ferreira Published
+- Gemini
+- HP ProLiant N40L
+- Mark Tyson Published
+- Raspberry Pi
+- Raspberry PiAviation
+- Raspberry PiTechie
 ---
 
 # Raspberry Pi

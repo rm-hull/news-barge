@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- Barkerend
+- Bradford
+- Pool Court
+people:
+- David Povall
+- Mark Davis
+- Pixabay
+- Rebecca Young
+- Stephen Earl
+organisations:
+- Bradford Crown Court
 ---
 
 *(Image: Pixabay)*

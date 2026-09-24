@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Bramham Avenue
+- Chapelfields
+- Clifton
+- St Phillips Grove
+- York
+people:
+- Martin Butterworth
+- Phillip Bilsborough
+- Shawn Cooper
+organisations:
+- CCTV
+- Google Street View
 ---
 
 *(Image: PA)*

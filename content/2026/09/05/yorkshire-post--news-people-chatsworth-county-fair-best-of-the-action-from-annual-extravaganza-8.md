@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Chatsworth
+- Derbyshire
+people:
+- Aileen Mills
+- Angelica Bell
+- James Martin
+- Jonathan Gawthorpe
+organisations:
+- Chatsworth County Fair Chatsworth County Fair
+- Chatsworth County Fair Chatsworth County Fair  Atkinson Action Horses
+- Yorkshire Post
 ---
 
 Held at Chatsworth in Derbyshire, the event has entertainment, inspirational cookery masterclasses, food, shopping and plenty of have-a-go activities.

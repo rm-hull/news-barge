@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Bethlehem
+- Burqa
+- Canada
+- East Jerusalem
+- Faqqua
+- France
+- Israel
+- Jenin
+- Ramallah
+- UK
+- West Bank
+- Za’atara
+- al-Mughayyir
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Ed Miliband
+- Gideon Sa’ar
+- Khalil Abu Alia
+- Mohammed al-Sheikh
+- Omar al-Nassan
+- Qassem Hussam
+organisations:
+- Guardian
+- IDF
+- OCHA
+- Palestine Red Crescent
+- Times of Israel
+- UN’s Office for the Coordination of Humanitarian Affairs
+- Wafa
 ---
 
 An Israeli soldier shot a Palestinian man, wounding him in the leg, as settlers confronted villagers by grazing livestock on Palestinian-owned land in the town of Faqqua in the occupied West Bank.

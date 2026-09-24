@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Florida
+- Michigan
+- Pennsylvania
+- South Carolina
+- U.S.
+- Washington
+people:
+- Amir Hassan
+- Brendan Carr
+- Cory Mills
+- Darline Graham
+- Darline Graham Nordone
+- Donald Trump
+- Graham Nordone
+- Jimmy Kimmel
+- Kristen Welker
+- Lindsey Graham
+- Nikki Haley
+- Ralph Norman
+- Stephen Colbert
+organisations:
+- ABC
+- ABC’s
+- CBS
+- Disney
+- FCC
+- Federal Communications Commission
+- Fox News
+- Franklin & Marshall College
+- House Freedom Caucus
+- Meet the Press
+- NBC News
+- Reuters/Ipsos
+- Senate
 ---
 
 Donald Trump vowed to use the Federal Communications Commission (FCC) as a weapon against NBC News and various polling companies on Sunday as he angrily lashed out at coverage of his declining popularity and political endorsements.

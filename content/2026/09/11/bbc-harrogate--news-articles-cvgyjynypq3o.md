@@ -12,6 +12,26 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- B6165
+- Burnt Yates
+- Ford Transit
+- Moscow
+- North Yorkshire
+- Pateley Bridge
+- Pye Lane
+- Scotland
+people:
+- Alison Layton
+- Brad McStravick
+- Bradley McStravick
+- Daley Thompson
+- Kathryn Walters
+- Martin Townend
+- Nicholas Hayles
+- William Langley
+organisations:
+- York Magistrates' Court
 ---
 
 ![Two olympic athletes, in white vests with numbers on, stood on a race track. They are Daley Thompson and Brad McStravick](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9a79/live/32ac1150-adfb-11f1-a540-61c3f7fc4e6c.jpg)

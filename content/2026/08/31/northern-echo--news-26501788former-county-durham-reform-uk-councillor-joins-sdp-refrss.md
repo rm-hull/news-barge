@@ -13,6 +13,28 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- East Cleveland
+- North East
+- Seaham
+- UK
+people:
+- Chris Booth
+- Cllr McGlenen
+- Dalton
+- Dawdon
+- George Anderson
+- Jack McGlenen
+- William Clouston
+organisations:
+- County Durham
+- Durham County Council
+- Durham Reform
+- Reform UK
+- SDP
+- Social Democratic Party
+- The Northern Echo
 ---
 
 *(Image: Chris Booth)*

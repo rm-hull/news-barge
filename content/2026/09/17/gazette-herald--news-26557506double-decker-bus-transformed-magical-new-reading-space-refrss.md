@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Eggborough
+- York Pullman
+people:
+- Diane Steward
+- Jamilah Hassan
+organisations:
+- Banks Group
+- The Banks Group
+- Unconventional Design
+- Whitley & Eggborough Community Primary School
 ---
 
 A CONVERTED double-decker bus is opening up new worlds of imagination.

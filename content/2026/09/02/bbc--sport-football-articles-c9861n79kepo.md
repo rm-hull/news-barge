@@ -12,6 +12,69 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crystal Palace
+- England
+- Europe
+- Everton
+- Finch Farm
+- Hill Dickinson Stadium
+- Merseyside
+- Middlesbrough
+- Nottingham Forest
+- Old Trafford
+- Preston North End
+- United States
+- Villa Park
+people:
+- Adam Aznou
+- Ainsley Maitland-Niles
+- Angus Kinnear
+- Angus Kinnear.
+- Beto
+- Brennan Johnson
+- Christian Norgaard
+- Dane
+- David Moyes
+- Dwight McNeil
+- Everton
+- Falorin Balogun
+- Folarin Balogun
+- Harrison Armstrong
+- Hayden Hackney
+- Idrissa Gueye
+- Iliman Ndiaye
+- Jack Grealish
+- Joshua Zirkzee
+- Kenny Tete
+- Merlin Rohl
+- Scot
+- Tammy Abraham
+- Thiago Scuro
+- Thierno Barry
+- Tyrique George
+- Vitaliy Mykolenko
+- Wayne Rooney
+organisations:
+- AS Monaco
+- Arsenal
+- Aston Villa
+- BBC Radio Merseyside
+- Cottagers
+- Finch Farm
+- Fiorentina
+- Fulham
+- Lyon
+- Maitland-Niles
+- Malaga
+- Manchester City
+- Manchester United
+- PR
+- TFG
+- The 1878s
+- The Everton Fans' Forum
+- The Friedkin Group
+- United States
 ---
 
 ![United States striker Falorin Balogun](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6163/live/609a7b90-a6be-11f1-ae1e-219da1d6451a.jpg)

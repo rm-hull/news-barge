@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kremlin
+- Russia
+- Switzerland
+- Ukraine
+- Vevey
+people:
+- Dmitry Peskov
+- Vladimir Putin
+organisations:
+- Auchan
+- BATI Group
+- Carlsberg
+- Danone
+- FM Logistic
+- L.E.V
+- Le Monlid
+- Lemana Pro
+- Leroy Merlin
+- Nestle
 ---
 
 The Kremlin has ordered the Russian businesses of Swiss-based food and beverage company Nestle and French retailer Auchan placed in temporary administration, procedure that previously has led to the forced sale of Western businesses to Russian owners at knockdown prices.

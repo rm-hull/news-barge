@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/KnEXqt4kAVZAeMyNftzxAc-1920-80.jpg
+locations: []
+people:
+- Chaoxiang Ye
+- Jowi Morales
+- Salua Hamaza
+- Tom
+organisations:
+- Embodied Intelligence
+- Google News
+- Jowi Morales
+- TechXplore
+- The Netherlands’ Delft University of Technology
 ---
 
 ![drone navigating using whiskers](https://cdn.mos.cms.futurecdn.net/KnEXqt4kAVZAeMyNftzxAc.jpg)

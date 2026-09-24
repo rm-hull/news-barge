@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Alicante
+- Britain
+- England
+- Europe
+- Heathrow
+- New York
+- Tyndall Centre
+- UK
+people:
+- James Richardson
+- Nigel Topping
+- Tim Alderslade
+- Tony Bosworth
+organisations:
+- Airlines UK
+- CCC
+- Climate Change Committee
+- Department for Transport
+- EU
+- Friends of the Earth
+- National Travel Survey of England
+- SAF
+- Transport&Environment
 ---
 
 Heathrow airport should be allowed to expand only if airlines pay for the removal of carbon dioxide from the atmosphere, the government’s climate advisers have said.

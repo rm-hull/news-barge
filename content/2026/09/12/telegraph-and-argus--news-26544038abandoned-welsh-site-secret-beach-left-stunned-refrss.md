@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Anglesey
+- Bull Bay
+- Crete
+- North Wales
+- Patrick Glover
+- Port Wen Brickworks
+- Porth Wen Bay
+- Porth Wen Brickworks
+- Porth Wen Brickworks Hidden
+- Trecastell
+- UK
+people:
+- Patrick Glover
+organisations:
+- Porth Wen Brickworks
 ---
 
 *(Image: Patrick Glover)*

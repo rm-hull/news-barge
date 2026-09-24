@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Indonesia
+- Jakarta
+- Java
+- Pacific
+- Soekarno-Hatta Airport
+- Sumatra
+- Tangerang
+people: []
+organisations:
+- Geological Agency
 ---
 
 Passengers crowd the halls and counters at Soekarno-Hatta Airport in Tangerang as monitors show cancelled flights after the Anak Krakatau eruption.

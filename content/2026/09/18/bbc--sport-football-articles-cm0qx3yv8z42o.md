@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d409/live/d38de810-b3ae-11f1-ad67-5d87a77e2776.jpg
+locations:
+- Aston Villa
+- Austin MacPhee
+- Brentford
+- Brighton
+- Chelsea
+people:
+- Bernardo Cueva
+- Chelsea
+- Cole Palmer
+- Danny Welbeck
+- Emiliano Martinez
+- Emmanuel Emegha
+- Jaidon Anthony
+- Joao Pedro
+- Jordan Henderson
+- Levi Colwill
+- Mahdi Nicoll-Jazuli
+- Morgan Rogers
+- Xabi Alonso
+organisations:
+- Brentford
+- Chelsea
+- Premier League
+- Sky Sports
+- Welbeck
 ---
 
 Brentford stay unbeaten as they put three past Chelsea

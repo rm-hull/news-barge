@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Miami
+- South Africa
+- US
+- United States
+- White
+people:
+- Boer
+- Chrispin Phiri
+- Cyril Ramaphosa
+- Donald Trump
+- Julius Malema
+- Leo Brent Bozell III
+- Marco Rubio
+- Nelson Mandela
+organisations:
+- African National Congress
+- G20
+- Oval Office
+- Oval Office of the White House
+- Review of Political Economy
+- Rubio
 ---
 
 The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against white minority Afrikaners.

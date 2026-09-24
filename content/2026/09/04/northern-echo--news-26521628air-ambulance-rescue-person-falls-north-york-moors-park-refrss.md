@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bilsdale
+- James Cook Hospital
+- Middlesbrough
+- North York Moors National Park
+- Seave Green
+- YORKSHIRE
+people: []
+organisations:
+- Yorkshire Air Ambulance
+- Yorkshire Ambulance Service
 ---
 
 *(Image: YORKSHIRE AIR AMBULANCE)*

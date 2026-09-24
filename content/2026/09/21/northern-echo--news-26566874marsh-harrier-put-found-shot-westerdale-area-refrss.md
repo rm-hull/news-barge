@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21479747.jpg?type=og-image
+locations:
+- North Yorkshire
+- North Yorkshire Police
+- Westerdale
+people: []
+organisations:
+- North Yorkshire Police
+- RSPCA
 ---
 
 *(Image: North Yorkshire Police)*

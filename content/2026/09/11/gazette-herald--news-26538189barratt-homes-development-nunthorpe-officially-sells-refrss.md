@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Grey Towers Village
+- Middlesbrough
+- North Yorkshire
+- Nunthorpe
+- Wynyard Park
+people:
+- Barratt Homes
+- Steven Ball
+organisations:
+- Barratt Homes
+- Barratt Homes North East
+- Barratt Homes’ Grey Towers Village
 ---
 
 *(Image: Barratt Homes)*

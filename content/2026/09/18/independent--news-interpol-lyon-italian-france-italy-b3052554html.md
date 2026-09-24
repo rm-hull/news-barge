@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Brazil
+- France
+- Hong Kong
+- Italy
+- Lyon
+people:
+- Nicholas Court
+organisations:
+- AP
+- Court
+- Interpol
+- The Associated Press
 ---
 
 Interpol is rolling out a new tool to help police track down hidden criminal assets and an Italian crime boss was one of the first to feel its effects.

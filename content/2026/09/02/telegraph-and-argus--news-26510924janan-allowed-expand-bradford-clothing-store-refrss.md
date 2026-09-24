@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Shearbridge Road
+- UK
+- YOUR
+people:
+- Asif Khan
+- Ayaz Khan
+- Janan
+- Ummer Daraz
+organisations:
+- Bradford Council
+- Empace Civil & Structural Engineers
+- Janan Group
+- Morf Architecture
+- Public Notice Portal
+- University of Bradford
 ---
 
 ### What is the Public Notice Portal?

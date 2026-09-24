@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Clocktower Enclosure
+- Doncaster
+- Escrick
+- Knavesmire Road
+- Little Skipwith Carriage Rides
+- North Yorkshire
+- Sandtoft
+- Selby
+- Social8
+- Tockwith
+- UK
+- Web Adventure Park
+- Westfield
+- Wheldrake
+- Wigginton Road
+- YO32
+- York Racecourse
+people:
+- Anthony Hollis
+organisations:
+- Foam Party
+- Join Middeltons
+- Middletons
+- The Garth
+- Wenlock Arms
 ---
 
 It’s back to school for the kids – but that doesn’t mean the fun stops for the adults!

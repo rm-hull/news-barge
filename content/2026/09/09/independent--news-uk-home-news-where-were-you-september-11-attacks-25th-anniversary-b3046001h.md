@@ -15,6 +15,14 @@ categories:
 - History
 - Arts & Culture
 - Self-Improvement
+locations:
+- New York
+- Pennsylvania
+- Washington DC
+people: []
+organisations:
+- Pentagon
+- World Trade Center
 ---
 
 Twenty-five years ago this Friday, four hijacked planes changed the course of modern history.

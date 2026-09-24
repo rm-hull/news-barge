@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://cdn.mos.cms.futurecdn.net/2K5WBNHsr99nLB8pbJggg8-1853-80.jpg
+locations: []
+people:
+- Alex Blake
+organisations:
+- 5krunner
+- Apple
+- Creative Bloq
+- Garmin
+- Google News
+- MacFormat
+- Moxy Monitor
+- TechRadar
+- Whoop
+- iMore
 ---
 
 ![Marathon runners](https://cdn.mos.cms.futurecdn.net/2K5WBNHsr99nLB8pbJggg8.jpg)

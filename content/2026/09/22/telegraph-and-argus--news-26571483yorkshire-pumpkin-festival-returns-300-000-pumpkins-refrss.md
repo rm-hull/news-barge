@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486522.jpg?type=og-image&xType=0&yType=147
+locations:
+- America
+- United States
+- Yorkshire
+people:
+- Heather Copley
+- Rob
+organisations:
+- Pumpkin House
+- Velcro the Scarecrow
 ---
 
 *(Image: Supplied)*

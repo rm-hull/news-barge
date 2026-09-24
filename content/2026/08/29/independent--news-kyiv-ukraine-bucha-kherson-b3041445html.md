@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bucha
+- Flamingo
+- Izmail
+- Kherson
+- Kyiv
+- Mykolaiv
+- Myla
+- Russia
+- Ukraine
+- Vyshneve
+people:
+- Oleksandr Prokudin
+- Serhii Koretskyi
+- Tymur Tkachenko
+- Volodymyr Zelenskyy
+organisations:
+- Ministry of Defense
 ---
 
 At least 27 people have been killed following a Russian attack on the Bucha district, close to the Ukrainian capital of Kyiv, officials said Saturday.

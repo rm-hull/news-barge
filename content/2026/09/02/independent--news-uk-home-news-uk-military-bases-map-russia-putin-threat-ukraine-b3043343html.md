@@ -13,6 +13,73 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Beacon Barracks
+- Belgorod
+- Britain
+- Brize Norton
+- Catterick Garrison
+- Colchester Garrison
+- Cyprus
+- Devonport
+- Downing Street
+- Essex
+- Estonia
+- Europe
+- France
+- Germany
+- Gibraltar
+- Hampshire
+- Iran
+- Israel
+- Kremlin
+- Kyiv
+- Lincoln
+- London
+- Moscow
+- North Yorkshire
+- Nyran
+- Oxfordshire
+- Plymouth
+- Poland
+- RAF Akrotiri
+- RAF Coningsby
+- Romania
+- Russia
+- Salisbury Plain
+- Sennelager
+- Staffordshire
+- Tehran
+- UK
+- US
+- Ukraine
+- Volgograd
+- Wiltshire
+people:
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Maria Zakharova
+- Rachel Reeves
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Aldershot Garrison
+- BAE Systems
+- British Army
+- Callen-Lenz
+- Kyiv
+- Malloy Aeronautics
+- Ministry of Defence
+- MoD
+- Royal Air Force
+- Royal Marines
+- Royal Navy
+- Tekever
+- The Times
+- UK Army
+- UK Commando Forces
+- Windracers
 ---
 
 Vladimir Putin has issued an ominous new warning over the UK’s support for Ukraine saying that it is a “military secret” whether or not Russia is weighing up possible strikes on British military sites.

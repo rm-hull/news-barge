@@ -11,6 +11,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Education & Learning
+locations: []
+people:
+- AI
+organisations:
+- AI Products and Strategy
+- F1
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A representative abstraction of artificial intelligence](https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj.jpg) 

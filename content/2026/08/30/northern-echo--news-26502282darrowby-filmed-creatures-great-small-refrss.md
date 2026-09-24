@@ -15,6 +15,47 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Askrigg
+- Dales
+- Darrowby
+- Grassington
+- North Yorkshire
+- Skeldale House
+- Thirsk
+- Wensleydale
+people:
+- Alf Wight
+- Anna Madeley
+- Callum Woodhouse
+- Caolan McCarthy
+- Christopher Timothy
+- Darrowby
+- Granville Bennett
+- Grassington
+- James Herriot
+- Nicholas Ralph
+- Peter Davison
+- Rachel Shenton
+- Robert Hardy
+- Samuel West
+- Siegfried Farnon
+- Tristan Farnon
+organisations:
+- All Creatures Great
+- Askrigg
+- BBC
+- Channel 5
+- Darrowby
+- Devonshire
+- G F Endleby
+- Kirkgate
+- Now Grassington
+- Small
+- The Drovers Arms
+- The Stripey Badger
+- The World of James Herriot
+- Yorkshire Dales
 ---
 
 *(Image: CHANNEL 5)*

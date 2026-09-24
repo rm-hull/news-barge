@@ -13,6 +13,17 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY2YTg2MjcyLWRkMDktNDc3NS1iMWQ1LTI4NTBjNDc5OWUxMzo3OGQ1Njg4Mi03ZGExLTQ1ZTEtYjI0Yy1jMjkxYTRlMTEzODc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Sheffield
+- Shiregreen
+- UK
+people:
+- Flanaganhas
+- Ryan Flanagan
+organisations:
+- Andy’s Man Club
+- NHS
+- Yorkshire
 ---
 
 # 'No judgement' men’s mental health groups are saving lives in Sheffield

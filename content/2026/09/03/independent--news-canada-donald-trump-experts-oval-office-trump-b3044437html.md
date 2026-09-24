@@ -13,6 +13,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Canada
+- Ontario
+- U.S.
+- US
+- White House
+people:
+- Donald Trump
+- James Thompson
+- Jeremy Kronick
+- Nathalie Bergeron
+organisations:
+- Bank of America
+- Bank of Canada
+- Canadian Bankers Association
+- Canadian C.D
+- Capital One
+- Citibank
+- Federal Reserve
+- Howe Institute
+- Morgan Chase Bank
+- Oval Office
+- Schedule I
+- Schedule II
+- Schedule III
+- University of Waterloo
+- Wells Fargo
 ---
 
 Asked about the trade war with Canada on Wednesday, President Donald Trump falsely claimed that U.S. banks are not allowed to do business with its neighbor to the north.

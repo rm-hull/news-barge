@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- Europe
+people:
+- Maroš Šefčovič
+- Stéphane Séjourné
+organisations:
+- Chamber of Commerce
+- EU Council
+- European Commission
+- European Parliament
+- Séjourné
 ---
 
 ## The EU executive has proposed a legislation introducing a European preference in public procurement for strategic public services, a move that clearly targets Chinese companies in a market valued at €2 billion annually.

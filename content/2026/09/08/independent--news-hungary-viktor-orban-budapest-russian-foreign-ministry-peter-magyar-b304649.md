@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Hungary
+- Moscow
+- Russia
+people:
+- Anita Orbán
+- Peter Magyar
+- Viktor Orbán
+- Vladimir Putin
+organisations:
+- European Union
+- Foreign Ministry
+- RIA Novosti
+- Vienna Convention
 ---
 
 Hungary ordered 10 members of Russia’s diplomatic mission to leave the country over activities deemed unacceptable for diplomats, the government said Tuesday, and Russia said that it planned to respond.

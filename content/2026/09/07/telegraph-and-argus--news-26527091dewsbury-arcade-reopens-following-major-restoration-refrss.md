@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dewsbury Arcade
+- UK
+people:
+- Caroline Sykes
+- Emily Parkinson
+- Jackie Ramsay
+- Jenny Holden Stokes
+- Simon Dormand
+- Sons
+- Theo Armstrong
+- William Birch
+organisations:
+- Dewsbury Arcade
+- Dewsbury Arcade Group
+- Grade-II
+- Kirklees Council
+- National Lottery Heritage Fund
+- West Yorkshire Combined Authority
 ---
 
 *(Image: Kirklees Council)*

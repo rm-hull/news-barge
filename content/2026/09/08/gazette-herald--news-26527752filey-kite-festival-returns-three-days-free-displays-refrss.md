@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Filey Brigg
+- Filey Brigg Country Park
+- Yorkshire
+people:
+- Cllr Myers
+- Simon Myers
+organisations:
+- North Yorkshire Council
+- Northern Kite Group
 ---
 
 Illuminated kites will light up the Yorkshire coast as part of a new Friday night launch.

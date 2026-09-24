@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- New York
+people:
+- Brad Schoenfeld
+- Harry Bullmore
+organisations:
+- Lehman College
 ---
 
 Earlier this month I had a fantastic chat with Dr Brad Schoenfeld, a professor of exercise science at Lehman College in New York. His name sits atop more than 400 research papers, most of them on the topic of strength training, making him one of the world’s leading authorities on all things muscle growth.

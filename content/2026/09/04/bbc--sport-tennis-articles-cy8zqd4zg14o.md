@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Arthur Ashe Stadium
+- New York
+- Osaka
+people:
+- Arthur Ashe
+- Coco Gauff
+- Craig Tiley
+- Daniil Medvedev
+- Frances Tiafoe
+- Jessica Pegula
+- Naomi Osaka
+organisations:
+- Camera
+- Naomi Osaka
+- USTA
+- United States Tennis Association
 ---
 
 ![A view above Arthur Ashe Stadium as a light show takes place before the night session](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7a40/live/c44f1f80-a7f2-11f1-80bd-59b2047f8bb0.jpg)

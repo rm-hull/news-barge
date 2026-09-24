@@ -13,6 +13,26 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/22/12/32/black-robin.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Chatham Island
+- Chatham Islands
+- Chathams
+- Chathams’
+- Moriori
+- New Zealand
+- Old Blue
+- Old Yellow
+- Pitt Island
+- Rangiauria
+- South Island
+- UK
+people:
+- John Oliver
+- Rebecca Hatch
+organisations:
+- Forest & Bird
+- Kiwis
+- Old Yellow
 ---
 
 A tiny bird that was once the world’s rarest has been named New Zealand’s bird of the year.

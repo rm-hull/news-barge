@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Jubilee
+- North East
+- Spennymoor
+people:
+- Simon Pickering
+organisations:
+- GoFundMe
+- Great North Air Ambulance Service
+- Jubilee Parkrun
+- TES
+- TIS
+- Teesside Industrial Services
+- The Brewers Arms
+- Turkington Engineering Services
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Egypt
+- Gaza City
+- Israel
+- Sheikh Radwan
+people:
+- Abu Dan
+- Al-Zinati
+- Alessandro Mrakic
+- Benjamin Netanyahu
+- Israel Katz
+- Mahmoud Basal
+- Mohammed Abu Dan
+- Mohammed al-Zinati
+- Raed al-Dahshan
+organisations:
+- Israel Defense Forces
+- Reuters
+- UN Development Programme
 ---
 
 A building housing about 100 displaced Palestinian families has collapsed in Gaza City, killing at least 20 people, as rescuers search the rubble for dozens of people believed to be trapped, including children.

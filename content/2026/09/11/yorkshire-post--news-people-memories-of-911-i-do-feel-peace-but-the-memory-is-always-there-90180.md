@@ -14,6 +14,32 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- New York
+- South Tower
+- St. John
+- U.S.
+- Washington DC
+people:
+- '## Lynn Rusk'
+- Craig Powell
+- Debbie St. John
+- George W. Bush
+- Had Craig
+- Lois
+- Marilyn Wills
+- SEAL Powell
+- Stefan Horlacher
+- Wills’
+organisations:
+- American Airlines
+- Army
+- Congressional Affairs Officer
+- Disney
+- National Geographic
+- Navy SEAL
+- Pentagon
+- World Trade Center
 ---
 
 # Memories of 9/11: ‘I do feel peace, but the memory is always there’

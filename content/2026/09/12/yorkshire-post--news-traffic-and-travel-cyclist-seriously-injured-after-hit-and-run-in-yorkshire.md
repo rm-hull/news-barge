@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Chapel Allerton
+- Leeds
+- Savile Drive
+- Scott Hall Road
+- Yorkshire
+people: []
+organisations:
+- Leeds District
+- West Yorkshire Police
 ---
 
 # Cyclist seriously injured after hit-and-run in Yorkshire

@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '## York'
+- Burniston
+- Flatts Farm
+- North Sea
+- North Yorkshire
+- North Yorkshire England
+- Scarborough Harbour
+- SeaGrown
+people:
+- Captain Crookes
+- David Skaith
+- Laura Robinson
+- SeaGrown
+- Wave Crookes
+organisations:
+- Carbon Negative Challenge Fund
+- Combined Authority
+- Elected Mayor Of York
+- Flatts Farm
+- North Yorkshire Combined Authority
+- Project SeaSwell
+- RNLI
+- Royal Navy
+- Scarbough
+- SeaGrown
+- Seagrown'S Boat
+- YNYCA THE
 ---
 
 ## York and North Yorkshire mayor backs innovative Scarborough seaweed firm

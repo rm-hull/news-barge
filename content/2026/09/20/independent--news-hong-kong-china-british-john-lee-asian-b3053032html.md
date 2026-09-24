@@ -13,6 +13,23 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/08/19/Tung_Chee-hwa_14263.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Asia
+- China
+- Hong Kong
+- Hong Kong Funeral Home
+- Macao
+people:
+- John Lee
+- Shi Taifeng
+- Tung Chee-hwa
+- Xia Baolong
+organisations:
+- Chinese People's Political Consultative Conference
+- Communist Party
+- Macao Affairs Office
+- Politburo of China
+- South China Morning Post
 ---
 
 A state funeral was held Sunday for Hong Kong's first post-colonial leader, Tung Chee-hwa, who led the city through the initial years of its transition from British rule after it was returned to China in 1997.

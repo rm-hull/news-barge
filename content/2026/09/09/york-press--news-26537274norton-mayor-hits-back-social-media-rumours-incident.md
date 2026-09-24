@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Hull
+- Norton-on-Derwent
+- St Nicholas Street
+people:
+- Cllr Di Keal
+- Norton
+organisations:
+- Newsquest
+- Yorkshire Air Ambulance
 ---
 
 *(Image: Newsquest)*

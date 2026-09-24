@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Hereford
+- London
+people:
+- Digings
+- Sadiq Khan
+organisations:
+- City Hall
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Micra
+- Transport for London
 ---
 
 A car tax conviction against the mayor of London has been withdrawn after it transpired that he was targeted by a “scam” that led to him being fined for failing to tax a car that was not his.

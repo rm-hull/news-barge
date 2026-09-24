@@ -11,6 +11,23 @@ image: https://i.guim.co.uk/img/media/5ec998c888a8a6bec0d1104ed58360c7de79644d/5
 categories:
 - UK
 - News & Politics
+locations:
+- Egypt
+- Gaza Strip
+- Israel
+- US
+- Washington
+- White House
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Israel Katz
+- Itamar Ben-Gvir
+organisations:
+- Guardian
+- Hamas
+- Yedioth Ahronoth
+- Ynet
 ---
 
 Israel’s defence minister has said his country is seeking Donald Trump’s support to approve plans to expel Palestinians from the Gaza Strip in what has widely been condemned as a potential war crime.

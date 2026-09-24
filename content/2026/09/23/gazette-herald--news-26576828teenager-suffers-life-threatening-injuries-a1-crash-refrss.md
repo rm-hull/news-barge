@@ -14,6 +14,22 @@ categories:
 - York
 - Automotive
 image: https://www.gazetteherald.co.uk/resources/images/21494300.jpg?type=og-image
+locations:
+- A1
+- B6474
+- Darrington
+- Ford Transit
+- Wentbridge
+- York
+- Yorkshire
+people:
+- Polo
+organisations:
+- A1
+- Scania HGV
+- The Press
+- VW Polo
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

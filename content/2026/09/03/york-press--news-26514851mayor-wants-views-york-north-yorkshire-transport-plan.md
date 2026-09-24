@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Britain
+- England
+- Manchester
+- North Yorkshire
+- Parliament Street
+- UK
+- Whitby
+- York
+people:
+- Andy Burnham
+- DAVID SKAITH
+organisations:
+- Bee Network
+- Government
+- High Street Forum
+- High Street Fund
+- LTP
+- Local Transport Plan
+- Local Transport Plan for York
+- NRM
+- York BID
+- York Press
 ---
 
 *Regional mayor DAVID SKAITH wants your views on York and North Yorkshire transport plan*

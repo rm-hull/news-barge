@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg
+locations: []
+people:
+- Brett Adcock
+- Keumars Afifi-Sabet
+- Marc Benioff
+organisations:
+- '## Intelligence'
+- Figure AI
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- QOTD
+- Salesforce
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Brett Adcock](https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM.jpg)

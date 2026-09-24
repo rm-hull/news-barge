@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/18/2296058172..?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Burnham
+- Chagos Islands
+- Diego Garcia
+- Europe
+- Israel
+- Manchester
+- Mauritius
+- New York
+- PA
+- UK
+- US
+- West Bank
+people:
+- Andy Burnham
+- Donald Trump
+- Mr Burnham
+organisations:
+- Labour
+- Toby Melville
+- United Nations General Assembly
 ---
 
 On the plane to New York on Monday night, Andy Burnham told reporters that he was looking forward to his first face-to-face meeting with Donald Trump.

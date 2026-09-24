@@ -14,6 +14,28 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford
+- Horsforth
+- James Bond
+- Leeds
+- Royal Albert Hall
+people:
+- Ian West
+- James Bond
+- Nathan Shelley
+- Nick Mohammed
+- Ted Lasso
+- Yorkshireman
+organisations:
+- Abbey Grange Church of England Academy
+- Abbey Grange High School
+- Amazon MGM Studios
+- BBC Proms
+- Bond
+- Bradford Live
+- PA Wire
+- Yorkshire
 ---
 
 *(Image: Ian West/PA Wire)*

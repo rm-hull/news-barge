@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/7mwc33x5SsydMvMnLJ2EBW-2000-80.jpg
+locations:
+- England
+- SmartThings
+- South Korea
+- Stockport
+- ZDNET Korea
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- Google News
+- Google Translate
+- Notebookcheck
+- PC Explorer
+- SBS News
+- Samsung AI
+- The Hardware Handbook
 ---
 
 ![Samsung Bespoke AI Home Hub](https://cdn.mos.cms.futurecdn.net/7mwc33x5SsydMvMnLJ2EBW.jpg)

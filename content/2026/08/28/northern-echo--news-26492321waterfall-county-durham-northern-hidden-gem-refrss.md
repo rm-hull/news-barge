@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Cauldron Snout
+- County Durham
+- Cow Green Reservoir
+- Cumbria
+- North of England
+- Northern England
+- River Tees
+- UK
+- Yorkshire Dales’
+people:
+- Anna Golding
+organisations:
+- Instagram
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

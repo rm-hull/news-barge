@@ -12,6 +12,52 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Boo-loh
+- Fay-lim
+- Ireland
+- Ivy
+- Netherlands
+- North Atlantic
+- Storm Dave
+- UK
+- Vhen-duh
+people:
+- Austen Nagle
+- Benjamin
+- Boelo
+- Chloe
+- Claudia
+- Dano
+- Eoin Sherlock
+- Evelyn Murphy
+- Finn
+- Goretti
+- Gwendolyn
+- Heather
+- Holly Clements
+- Ivy
+- Jade
+- Kilian
+- Laoise
+- Met Eireann
+- Miriam
+- Nicola
+- Olaf
+- Phelim
+- Shaun
+- Theo
+- Vesna (Vehs-nuh
+- Wende
+organisations:
+- Aardman
+- Irish Meteorological Service
+- KNMI
+- Met Eireann
+- Met Office
+- RTE
+- Ruban
+- Wallace and Gromit
 ---
 
 *(Image: Getty)*

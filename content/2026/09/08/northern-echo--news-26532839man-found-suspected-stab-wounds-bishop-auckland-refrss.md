@@ -13,6 +13,22 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Bishop Auckland
+- County Durham
+- North East
+- THE NORTHERN ECHO
+- Weardale Drive
+- Woodhouse Estate
+people:
+- Ogden
+organisations:
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- Jaguar
+- North East Ambulance Service
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

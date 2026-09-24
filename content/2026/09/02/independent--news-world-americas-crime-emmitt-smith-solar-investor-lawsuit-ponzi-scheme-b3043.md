@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Delaware
+- North America
+- Texas
+people:
+- Darrel Wilson
+- David Mosley
+- Emmitt Smith
+- Kituwah
+organisations:
+- Arizona Cardinals
+- Buffalo Bills
+- Dallas Cowboys
+- Eastern Band of Cherokee Indians
+- Hall of Fame
+- Independent
+- Kituwah
+- NFL
+- Ponzi
+- Pro Football Hall of Fame
+- Project Exodus
+- Smith’s
+- Wilson Holdings
 ---
 
 NFL all-time leading rusher Emmitt Smith has been accused of defrauding an investor in a Texas solar energy initiative out of $2.5 million, according to a legal filing.

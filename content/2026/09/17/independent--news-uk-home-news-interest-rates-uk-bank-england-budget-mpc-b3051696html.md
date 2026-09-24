@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Alice Haine
+- David Rees
+- George Sweeney
+- Suren Thiru
+organisations:
+- Bank of England
+- BoE
+- Finder
+- Hargreaves Lansdown
+- ICAEW
+- MPC
+- Propertymark
+- Schroders
 ---
 
 The Bank of England has kept interest rates at 3.75 per cent, despite mounting pressure to hike rates after an uptick in inflation.

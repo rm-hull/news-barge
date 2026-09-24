@@ -13,6 +13,27 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+- Haunted House
+people:
+- Ceefour
+- Duncan Mythen
+- J-Funk
+- Karl Allen
+- Max Czernik
+- Pete Stoner
+- Si Capponi
+- Skuba Steve
+- Tashi
+organisations:
+- '## Harrogate'
+- Funked
+- Funky House Project
+- Halloween House
+- MDAV
+- Pitcher & Piano
+- Pitcher & Piano Harrogate
 ---
 
 # MDAV DJs will be taking over the Pitcher & Piano in Harrogate for seven hour party

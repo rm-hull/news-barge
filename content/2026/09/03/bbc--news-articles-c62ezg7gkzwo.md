@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Downing Street
+- English Channel
+- Middle East
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Anna Turley
+- Charles
+- Emmanuel Macron
+- Kemi Badenoch
+organisations:
+- BBC Radio 4
+- Bayeux Tapestry
+- British Museum
+- Burnham
+- EU
+- Home Office
+- Houses of Parliament.
+- Macron
+- UK-EU
 ---
 
 Watch: Andy Burnham and Emmanuel Macron shake hands outside No 10

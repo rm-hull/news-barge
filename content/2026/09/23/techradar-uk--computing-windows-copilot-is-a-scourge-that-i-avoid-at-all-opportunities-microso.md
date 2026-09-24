@@ -11,6 +11,18 @@ description: Windows 11's Copilot app is getting its own browser — a helpful m
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/FW3tr6LdvKmYiNeRxPhVUo-2119-80.jpeg
+locations: []
+people:
+- Hell
+organisations:
+- AI
+- Copilot
+- Edge
+- Google News
+- Hachette UK
+- Microsoft
+- Reddit
+- Windows Central
 ---
 
 ![Mature man using Windows 11 laptop in a cafe, looking perplexed](https://cdn.mos.cms.futurecdn.net/FW3tr6LdvKmYiNeRxPhVUo.jpeg)

@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Clough Close
+- Heaton Park Hebrew Congregation Synagogue
+- Leeds Crown Court
+- Manchester
+- Middlesbrough
+people:
+- Adrian Daulby
+- Daesh
+- James Dunkerley
+- Jihad Al-Shamie
+- Melvin Cravitz
+- Mohammed Khalil Nadir
+organisations:
+- CTPNE
+- Counter Terrorism Policing North East
+- Telegram
 ---
 
 A 19-year-old who researched the dummy explosive belt worn by the Manchester synagogue attacker has been jailed for nine-and-a-half years after recording a video of himself wearing a similar device, police said.

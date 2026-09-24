@@ -14,6 +14,43 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Babylon
+- Berlin
+- Britain
+- Germany
+- Handloegten
+- Hungary
+- Mecklenburg-Vorpommern
+- Paris
+- Saxony-Anhalt
+- South Korea
+- US
+- Villa Adlon
+- Weimar
+people:
+- Adolf Hitler
+- Charlotte Ritter
+- Christopher Nolan
+- Die Linke
+- Gereon Rath
+- Henk Handloegten
+- Liv Lisa Fries
+- Reich
+- Scott Roxborough
+- Tom Tykwer
+- Volker Bruch
+- Volker Kutscher
+- Zaho de Sagazan
+organisations:
+- AfD
+- Apple TV
+- Babylon Berlin
+- Hollywood Reporter
+- LGBTQ
+- Netflix
+- SA
+- The Crown
 ---
 
 It’s the global hit TV series that pulled audiences straight into the chaotic hedonism of 1920s Germany, dramatising the brilliance and brittleness of a newly built democratic system with unprecedented ambition.

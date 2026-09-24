@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/09/18/08/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- D-Conn.
+- Oregon
+- Sen
+- Washington
+people:
+- Brett Kavanaugh
+- David Steiner
+- Donald Trump
+- Richard Blumenthal
+organisations:
+- AP
+- Amazon
+- Congress
+- Election Mail
+- Postal Service
+- Supreme Court
+- The Associated Press
+- Trump
+- U.S. Postal Service
+- Waste Management
 ---
 
 Work on a controversial computer database central to President Donald Trump’s effort to restrict voting by mail has been suspended by the U.S. Postal Service, following the Supreme Court’s decision to strike down his executive order this week.

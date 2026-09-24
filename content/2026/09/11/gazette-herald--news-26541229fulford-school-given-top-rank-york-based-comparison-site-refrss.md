@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1079
+- Common Road
+- Dunnington
+- Kevin Glenton
+- Kexby
+- York Road
+people:
+- Kevin Glenton
+organisations:
+- The Press
 ---
 
 A BROKEN-DOWN road roller blocking a main road in York is being prepared to be moved this morning.

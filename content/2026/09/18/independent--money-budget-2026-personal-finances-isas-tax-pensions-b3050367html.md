@@ -14,6 +14,15 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+people:
+- Andy Burnham
+- John Healey
+- John Healy
+organisations:
+- Budget
+- Lifetime ISA
 ---
 
 In his first speech as prime minister, just two months ago, Andy Burnham said that it was time to make “the biggest changes in the last 40 years” and introduce “a new political model and a new economic model.”

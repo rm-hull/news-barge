@@ -14,6 +14,22 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Carr Gate
+- Leeds
+- Wakefield
+- Yorkshire
+people:
+- Dominic Clegg
+- PC Clegg
+organisations:
+- Facebook
+- Federation Reps
+- WYPF
+- West Yorkshire Grief and Loss Support Service
+- West Yorkshire Police
+- West Yorkshire Police Federation
 ---
 
 # Police federation pays tribute after unexpected death of officer in Yorkshire

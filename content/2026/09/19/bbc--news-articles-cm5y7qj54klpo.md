@@ -14,6 +14,33 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg
+locations:
+- AI
+- Downing Street
+- London
+people:
+- AI Rishub Jain
+- Claude
+- Colin Fraser
+- Dario Amodei
+- Jacob Coxon
+- Sam Altman
+organisations:
+- AI Numerous AI
+- Accenture
+- Anthropic
+- BBC
+- DeepMind
+- Deepmind
+- Elon Musk
+- Hugging Face
+- Meta
+- Microsoft
+- Nvidia
+- OpenAI
+- PauseAI
+- Sampura Research
+- xAI
 ---
 
 ![PauseAI activists stage emergency protest outside Downing Street in London](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg)

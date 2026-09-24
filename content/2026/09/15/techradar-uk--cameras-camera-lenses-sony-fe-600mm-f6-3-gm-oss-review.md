@@ -13,6 +13,25 @@ description: Sony has unveiled two super-telephoto E-mount prime lenses, the FE 
 image: https://cdn.mos.cms.futurecdn.net/cYRjMywieVWxakNkQPYvH9-2500-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Bokeh
+- FE
+- Kenya
+- Nairobi
+- UK
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- '### TechRadar Verdict Sony'
+- Amateur Photographer
+- Cameras
+- Canon
+- F4 GM OSS
+- Fujifilm
+- Nikon
+- Sony FE
 ---
 
 ### TechRadar Verdict

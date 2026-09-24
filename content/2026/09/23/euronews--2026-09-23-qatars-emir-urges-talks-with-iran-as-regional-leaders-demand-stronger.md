@@ -11,6 +11,33 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/44/35/1200x675_cmsv2_ab0a6aa4-e79c-5637-9f8d-ebb3583360d8-9924435.jpg
+locations:
+- Gaza
+- Gulf
+- Hashemite kingdom
+- Iran
+- Israel
+- Jordan
+- Lebanon
+- New York
+- Palestine
+- Qatar
+- Strait of Hormuz
+- Syria
+- Tehran
+- Turkey
+- US
+- West Bank
+people:
+- '## Jordan'
+- Abdullah
+- Emir Sheikh Tamim bin Hamad Al Thani
+- Mahmoud Abbas
+- Recep Tayyip Erdoğan
+organisations:
+- General Assembly
+- UN Security Council
+- United Nations General Assembly
 ---
 
 ## The leaders of Qatar, Turkey and Jordan called for talks with Tehran and greater international pressure on Israel.

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Bhutan
+- Nepal
+- Paro
+people:
+- Jerry Spooner
+- Tshering Tobgay
+organisations:
+- Guardian
+- Pacific NGO
+- Regenerative Vanua
+- Tobgay
+- UN
+- World Food Programme
 ---
 
 Mending the broken food system under the threat of climate-driven weather extremes will require more than economic fixes and intensive agriculture, according to the organisers of a pioneering summit this week, who say the world must revive its spiritual relationship with food.

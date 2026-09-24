@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Heslington
+- York Racecourse
+people:
+- James Rourke
+- Lord Deramore
+organisations:
+- David Harrison Photography
+- Lord Deramore
+- Lord Deramore's Primary School
+- Lord Deramore’s Primary School
+- Ofsted
+- York Community Pride
+- Yorkshire
 ---
 
 ## Celebrated York school presented with top award

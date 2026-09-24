@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Canicattini Bagni
+- Italy
+- Leeds
+- Noto
+- Sicily
+- Syracuse
+- West Yorkshire
+people:
+- Benjamin John Braithwaite
+- Canicattini Bagni
+- Paolo Amenta
+- Sabrina Gambino
+organisations:
+- ANCI Sicilia
+- Canicattini Bagni
+- Carabinieri
+- La Repubblica
 ---
 
 An investigation is underway to understand how a British man died in Sicily, as local media has suggested his death could have been part of a spiritual ritual.

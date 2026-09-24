@@ -13,6 +13,51 @@ categories:
 - Technology & Software
 - Sports
 - Film & TV
+locations:
+- Australia
+- Brisbane
+- Canada
+- Gabba
+- Melbourne
+- Swans
+- Sydney
+- UK
+- US
+- uk
+people:
+- Cam Rayner
+- Chad Warner
+- Hugh McCluggage
+- Isaac Heeney
+- James Jordon
+- James Roberts
+- Joel Amartey
+- Josh Daicos
+- Nick Blakey
+- Riley Bice
+- Swans'
+organisations:
+- 7Plus
+- AFL
+- Brisbane Lions
+- Collingwood Magpies
+- FS2
+- FourFourTwo
+- Fremantle
+- Future Publishing
+- Lions'
+- MCG
+- Melbourne Cricket Ground
+- Oxford Mail
+- Oxford United
+- SCG
+- Swans
+- Sydney
+- TNT Sports
+- TSN
+- TSN2
+- TechRadar
+- Virgin Media
 ---
 
 ![Josh Daicos of the Magpies tackles Cam Rayner of the Lions in the AFL match between Collingwood Magpies and Brisbane Lions at Melbourne Cricket Ground, on August 21, 2026, in Melbourne, Australia](https://cdn.mos.cms.futurecdn.net/fsxcKy9bajsfgLhnTYW9f7.jpg) 

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+- Leeds
+- London
+- Norwich
+- Whitehall
+people:
+- Andy Burnham
+- John Healey
+- Keir Starmer
+organisations:
+- Financial Times
+- IT
+- Labour
+- Sky News
+- Treasury
 ---
 
 John Healey has asked junior Treasury staff – including IT workers and apprentices – to send him ideas for his October budget, saying he will listen to all suggestions regardless of grade or profession.

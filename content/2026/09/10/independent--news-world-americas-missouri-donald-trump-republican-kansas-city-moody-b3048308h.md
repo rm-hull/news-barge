@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Columbia
+- Haddonfield
+- Jefferson City
+- Kansas City
+- Missouri
+- Mulvihill
+- New Jersey
+- Onder
+- Platte City
+- South Carolina
+- St. Louis
+- U.S. House
+people:
+- Ashley Sadowski
+- Bob Onder
+- Brett Kavanaugh
+- Carolyn McDowell
+- David A. Lieb
+- Denny Hoskins
+- Donald Trump
+- Emanuel Cleaver
+- Kay Park
+- Leslie French
+- Leslie Moody
+- ___ Collins
+organisations:
+- 5th
+- Associated Press
+- GOP
+- House
+- League of Women Voters of Missouri
+- Moody's
+- Supreme Court
+- U.S. Supreme Court
 ---
 
 Leslie Moody has strong opinions on politics. But ask her who was on the ballot for her U.S. House district in Kansas City when she voted in last month's primary, and she isn't sure, though she knew it wasn't her current representative, Democrat Emanuel Cleaver.

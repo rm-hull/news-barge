@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Crest Nicholson
+- Martyn Clark
+organisations:
+- Crest Nicholson
 ---
 
 Housebuilder Crest Nicholson has said its earnings are on track to slide to a surprise loss after “difficult” trading over the summer.

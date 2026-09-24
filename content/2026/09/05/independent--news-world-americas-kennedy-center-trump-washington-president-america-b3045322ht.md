@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- America
+- Arlington National Cemetery
+- Delaware
+- Georgia
+- Kennedy Center
+- Potomac River
+- Rehoboth Beach
+- Savannah
+- U.S.
+- Washington
+- White House
+people:
+- Christopher Cooper
+- Donald J. Trump
+- Donald Trump
+- Grace Terpstra
+- Joel Shapiro
+- John F. Kennedy
+- Roma Daravi
+- Sloan
+- ___ Bynum
+organisations:
+- East Wing
+- John F. Kennedy Center for the Performing Arts
+- Justice Department
+- Keep the KC
+- Kennedy Center
 ---
 
 A chunk of ceiling fell inside a main hallway of the Kennedy Center, according to a spokesperson who said the damage underscores the need to shut down the historic arts venue for renovations sought by President Donald Trump.

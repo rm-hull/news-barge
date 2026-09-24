@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/00/22141124-58b65be1-d724-4dff-81d5-5b21decc2166.jpg?width=1200&height=800&crop=1200:800
+locations:
+- ASA
+- Japan
+- UK
+people: []
+organisations:
+- ASA
+- Advertising Standards Authority
+- Imperial Japanese Army
+- Jap Car South
+- Jap Car South Ltd
 ---
 
 Car import company Jap Car South has apologised after the advertising regulator found that its name was likely to cause serious racial offence.

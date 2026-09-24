@@ -14,6 +14,32 @@ categories:
 - Music
 - Arts & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxYjk0ZDZhLTM3NzQtNDlkNC1iMzYwLTQyNmJiNzdhYmI3NzpmMjBiMDE5Yy1jMGJhLTRjODQtODRhNy0wMmQ1YjEyZDA4ZGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Chesterfield
+- Hangr Warehouse
+- Harrogate
+- Manchester
+- North
+- Sheffield
+- South Yorkshire
+people:
+- DJ Gok Wan
+- Gok Wan
+- Grant Nelson
+- Klass
+- Marc Dennis
+- Sam Devine
+- Tony Walker
+organisations:
+- Cash Only
+- Claptone
+- Gok Wan
+- Harrogate Stray
+- House
+- KKlass
+- Mousse T
+- Skiddle
+- Trimtone
 ---
 
 # Review: Thousands of fans lap up Harrogate Love to Be..event which was 'our best festival to date'

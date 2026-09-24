@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Iran
+- Minnesota
+- U.S.
+people:
+- AI
+- Bret Baier
+- Evan Hubinger
+- Jacob Coxon
+- John McCarrick
+- OpenAI
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Congress
+- Fox News’
+- Hugging Face
+- Meta
+- OpenAI
+- Politico
+- The Independent
 ---
 
 As cities across the country faced a wave of AI-driven cyberattacks targeting public infrastructure, OpenAI was reportedly meeting with utility executives about the prospect of deploying its own artificial intelligence products to address cybersecurity risks.

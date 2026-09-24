@@ -13,6 +13,25 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21473071.jpg?type=og-image
+locations:
+- Betteras Hill Road
+- Hillam
+- Holgate Road
+- North Yorkshire
+- Selby
+- South Milford
+- York
+people:
+- Monk Fryston
+- Nic Harne
+- Tim Grogan
+organisations:
+- High Court
+- Leeds District Registry
+- MAE Café
+- North Yorkshire Council
+- North Yorkshire Police
+- Reform
 ---
 
 *(Image: Contributed)*

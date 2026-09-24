@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- '## Claude'
+- Claude Tag
+- Craig Hale
+organisations:
+- Addepar
+- Anthropic
+- BlackRock
+- Charles Schwab
+- Claude for Financial Advisors
+- Craig’s
+- Envestnet
+- Google News
+- OpenAI
+- Orion
+- SS&C Black Diamond
+- TechRadar Pro
+- Vanguard
+- Wealth.com
+- Wealthbox
+- Zocks
+- iCapital
 ---
 
 ![Claude Tag](https://cdn.mos.cms.futurecdn.net/eZs7VDaqqgXt5TBmcicAmS.jpg) 

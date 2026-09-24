@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Bhotekoshi River
+- Chitwan
+- India
+- Kathmandu
+- Nepal
+- New Delhi
+- Tibet
+people:
+- Amrit Bahadur Rai
+- Anil Thapa
+- Baburam Bhattarai
+- Ruby Chaudhary
+- ___ Hussain
+organisations:
+- International Committee of the Red Cross
 ---
 
 The devastating flash floods in the Himalayan region swept so many people downstream that authorities in one Nepalese district have begun burying bodies in temporary graves before they can be identified, prompting accusations that Hindu funeral traditions are being ignored.

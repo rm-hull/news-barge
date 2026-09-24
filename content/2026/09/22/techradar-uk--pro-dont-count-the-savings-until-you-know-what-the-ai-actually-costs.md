@@ -11,6 +11,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+locations: []
+people: []
+organisations:
+- AI tokenomics AI
+- Flexera
+- Future plc
+- Goldman Sachs
+- Google Gemini
+- LinkedIn
+- Microsoft Copilot
+- SAP
+- TechRadar Pro
+- TechRadarPro
+- Workday
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg)

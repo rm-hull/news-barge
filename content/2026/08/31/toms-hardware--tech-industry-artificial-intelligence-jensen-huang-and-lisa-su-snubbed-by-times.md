@@ -14,6 +14,45 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+people:
+- Ayesha Javed
+- Ben Affleck
+- Bernie Sanders
+- Cerebras’ Andrew Feldman
+- CoreWeave
+- Demis Hassabis
+- He Tingbo
+- Hock Tan
+- Jensen Huang
+- Josh Parker
+- Josh Payne
+- Liang Mong Song
+- Lisa Su
+- Luke James
+- Mark Zuckerberg
+- Michael Intrator
+- Nscale
+- Paris Hilton
+- Sam Jacobs
+- Sanjay Mehrotra
+- Satya Nadella
+- Sundar Pichai
+- Tom
+organisations:
+- AI
+- AMD
+- Broadcom
+- GPU
+- Google News
+- HBM
+- Huawei HiSilicon
+- Micron
+- Nvidia
+- Rubin
+- SMIC
+- TIME
 ---
 
 ![Jensen Huang and Lisa Su](https://cdn.mos.cms.futurecdn.net/VZnyT3m65yLr2GJztppGwU.jpg) 

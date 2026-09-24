@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Bridlington
+- Elland Road
+- Leeds
+- Yorkshire
+people:
+- Jamie Lowe
+- John Kennedy
+- Leigh Nicholson
+- Steve Lamacq
+- Steve Rosier
+organisations:
+- BBC 6 Music
+- BBC Introducing
+- Elland Road
+- Feral Family
+- Fontaines D.C.
+- IDLES
+- Interpol
+- Leeds United
+- Newcastle United
+- Radio X
+- Rosier Artist Management
+- Royal Park Cellars
 ---
 
 *(Image: Supplied)*

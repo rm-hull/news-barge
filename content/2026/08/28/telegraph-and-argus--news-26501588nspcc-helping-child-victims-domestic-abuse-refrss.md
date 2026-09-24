@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations: []
+people:
+- Margaret*
+- Paddi Vint
+- Tony
+organisations:
+- Childline
+- NSPCC Helpline
 ---
 
 *(Image: PA)*

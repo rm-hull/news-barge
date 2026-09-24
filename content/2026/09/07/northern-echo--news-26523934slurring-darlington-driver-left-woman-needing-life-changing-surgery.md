@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Darlington Memorial Hospital
+- Middridge Road
+- Newton Aycliffe
+- Severn Way
+people:
+- Amanda Rippon
+- Daniel Smith
+- Ellen Wright
+- Miss Hall
+- Miss Wright
+- Octavia
+- Penny Hall
+organisations:
+- Darlington
+- Durham Crown Court
+- NEAS
+- North East Ambulance Service
+- Northern Echo
+- Peugeot
 ---
 
 A "slurring" driver left a woman needing life-changing surgery after ploughing into her in a head-on smash.

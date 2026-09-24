@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/9412491.jpg?type=og-image
+locations:
+- Malton
+- York
+people:
+- Lesley Tate
+organisations:
+- Executive
+- North Yorkshire Council
+- SHOUT
+- Second Homeowners Opposed to Unfair Taxation
+- Thirsk
 ---
 
 A debate will take place over whether North Yorkshire Council should suspend its controversial second home council tax premium after a petition attracted 1,000 signatures.

@@ -11,6 +11,43 @@ image: https://static.independent.co.uk/2026/08/29/6/11/Russia-ballistic-missile
 categories:
 - News & Politics
 - UK
+locations:
+- Arkhangelsk
+- Bucha
+- Dmytrivka
+- Europe
+- Iran
+- Kamchatka
+- Kherson
+- Kiev
+- Kremlin
+- Kura
+- Kyiv
+- Kyiv-area
+- Moscow
+- Myla
+- Russia
+- Tehran
+- US
+- Ukraine
+people:
+- '## Dmytrivka'
+- Dmitry Peskov
+- Donald Trump
+- John Ratcliffe
+- Oleksandr Prokudin
+- Taras Didych
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- CIA
+- EU
+- European Union
+- Kyiv
+- NATO
+- Telegram
+- The Washington Post
 ---
 
 Russia has successfully tested a nuclear-capable intercontinental ballistic missile that could reach the US, its defence ministry has said.

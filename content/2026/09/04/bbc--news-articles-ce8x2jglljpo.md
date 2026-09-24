@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Cardiff
+- England
+- UK
+- Wales
+people:
+- Ap Gwynfor
+- Dan Thomas
+- Ian Green
+- Mabon ap Gwynfor
+- Natasha Asghar
+- Rhun ap Iorwerth
+- ap Iorwerth
+organisations:
+- Cardiff
+- NHS Wales Joint Commissioning Committee
+- NWJCC
+- Plaid Cymru
+- Reform UK
+- Senedd
+- Vale University Health Board
+- Welsh Conservatives
+- Welsh Gender Service
 ---
 
 ![A crowd of people walking down a busy shopping street. The young person at the front of the group has tied-back brown hair and glasses and is wearing a red face mask. Their sign, which they are holding above their head, says: "Surgery saves lives".](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/026f/live/6a267320-a854-11f1-aed2-8d6da8d75094.jpg)

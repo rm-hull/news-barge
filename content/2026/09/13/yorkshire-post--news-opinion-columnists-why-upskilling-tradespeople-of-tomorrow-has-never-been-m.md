@@ -16,6 +16,14 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Yorkshire
+people:
+- Danny Wild
+organisations:
+- Clean Energy Centre
+- Harrogate College
+- Local Skills Improvement Fund
 ---
 
 # Why upskilling tradespeople of tomorrow has never been more important - Danny Wild

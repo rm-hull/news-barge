@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- South Africa
+- UK
+people:
+- Annabel Croft
+- Caroline Quentin
+- Catherine Tyldesley
+- Claudia Winkleman
+- Dani Dyer
+- Delta Goodrem
+- Ellie Taylor
+- Emma Willis
+- Johannes Radebe
+- John Whaite
+- Josh Widdicombe
+- Montell Douglas
+- Ray Burmiston
+- Sarah Storey
+- Shaun Wright-Phillips
+- Tess Daly
+- Will Best
+organisations:
+- BBC One
+- Coronation Street
+- Strictly
 ---
 
 *(Image: BBC/Ray Burmiston)*

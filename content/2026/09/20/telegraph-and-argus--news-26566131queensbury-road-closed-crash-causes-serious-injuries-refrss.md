@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/20987228.jpg?type=og-image
+locations:
+- A647 Queensbury Road
+- Boothtown
+- Churn Milk Lane
+- Howcans Lane
+- Ploughcroft Lane
+- Queensbury Road
+- Swales Moor Road
+people: []
+organisations:
+- Facebook
+- Google Streetview
+- RTA
 ---
 
 A road remained closed this evening following a serious collision earlier today.

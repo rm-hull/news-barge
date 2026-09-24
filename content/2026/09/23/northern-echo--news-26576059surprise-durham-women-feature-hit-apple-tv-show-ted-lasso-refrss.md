@@ -15,6 +15,32 @@ categories:
 - Sports
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21278464.jpg?type=og-image
+locations:
+- County Durham
+- Ravenseat Fairytale Northumberland
+people:
+- Alice Chilton
+- Amanda Owen
+- Beard
+- Charlotte Riley
+- Colin Hutton
+- Cruz Ibeh
+- Kim Hellberg
+- Miles
+- Reuben
+- Ted Lasso
+organisations:
+- AFC Richmond
+- Apple TV
+- Barclays Women
+- County Durham
+- Durham Women
+- Durham Women FC
+- Manchester United
+- Middlesbrough
+- PA Wire
+- Super League
+- Wildcats
 ---
 
 *(Image: Colin Hutton/Apple TV/PA Wire)*

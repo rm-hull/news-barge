@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/nA5LPY9TEvqqVB3xZkSJC-1600-80.jpg
+locations:
+- Bangladesh
+- India
+people:
+- Tom Bedford
+organisations:
+- Android Police
+- Apple Music
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- Reddit
+- Spotify
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- iOS27
 ---
 
 ![The Honor Pad V9 on a bronze table.](https://cdn.mos.cms.futurecdn.net/nA5LPY9TEvqqVB3xZkSJC.jpg)

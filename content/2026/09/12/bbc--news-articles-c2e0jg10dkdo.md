@@ -11,6 +11,49 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c31c/live/f467e6
 categories:
 - UK
 - News & Politics
+locations:
+- Countess of Chester Hospital
+- Liverpool
+people:
+- Alison Kelly
+- Anna Jones
+- Bond Turner
+- Carla Duprey
+- David Davis
+- David James Smith
+- David Wilson
+- Ian Harvey
+- Judith Moritz
+- Justice Thirlwall
+- Kate Thirlwall
+- Lady Justice Kate Thirlwall
+- Lucy Letby
+- Mark Deakin
+- Michaela Howard
+- Prof Wilson
+- Richard Scorer
+- Rob Wood
+- Rosie Benneyworth
+- Vera Baird
+organisations:
+- BBC
+- Birmingham City University
+- CCRC
+- CCTV
+- Cheshire Police
+- Chester
+- Court of Appeal
+- Criminal Cases Review Commission
+- Facebook
+- Health Services Safety Investigations Body
+- Letby
+- NHS
+- Reddit
+- Royal Courts of Justice
+- Slater & Gordon Solicitors
+- Tattle Life
+- Thirlwall Inquiry
+- Thirlwall Report
 ---
 
 ![Designed image using Lucy Letby mugshot with hospital in background](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c31c/live/f467e630-ad1e-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -11,6 +11,50 @@ image: https://cdn.mos.cms.futurecdn.net/2kQ6v9kUfzegnKbWN4E9uJ-500-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- UK
+- US
+people:
+- '**Erin Davie'
+- '**Paulina Alvarez'
+- '**Siaka Massaquoi'
+- '**Tyler Aser'
+- Captain Saunders
+- Charlotte Delaney Riggs
+- Chase Ramsey
+- Clayton “Clay” Saunders
+- Creed III
+- David Lucas
+- Farrah Abel
+- Hermann
+- Ibrahim Asad Melod
+- Isabel May
+- JC Kilcoyne
+- James Bingham
+- Jason Gray-Stanford
+- Jonathan Majors
+- Lizzy Dupree
+- Myles Clohessy
+- P.J
+- Sharon Johal
+- Stephen Hailo
+- Tom Bailey
+- Travis Mills
+- Zoe Hull
+organisations:
+- Daily Wire
+- Delta Force
+- Elle Deco
+- Future plc
+- Infidels
+- Men's Health
+- Nord VPN
+- The Daily Telegraph
+- The Mail
+- The Sun
+- The Sunday Times
 ---
 
 ![Run Hide Fight: Infidels 2026 movie with man looking intensely down the barrel of a gun against a striking yellow background](https://cdn.mos.cms.futurecdn.net/2kQ6v9kUfzegnKbWN4E9uJ.jpg) 

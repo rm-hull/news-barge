@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Colossus II
+- Florida
+- Memphis
+- SpaceXAI
+- Tennessee
+- Tennessee-Mississippi
+people:
+- Alexis Vicent
+- Ben Grillot
+- Elon Musk
+- Gwynne Shotwell
+organisations:
+- AI
+- Butler Snow
+- Colossus II
+- Earthjustice
+- Elon Musk’s SpaceXAI
+- Employer Solutions Staffing Group
+- Grok
+- Independent
+- Mississippi Department of Environmental Quality
+- Musk
+- NAACP
+- SELC
+- Southern Environmental Law Center
+- SpaceX
+- TOHSA
+- Tennessee Occupational Safety and Health Administration
+- xAI
 ---
 
 Elon Musk’s SpaceXAI has been sued for $30 million after a man died after falling at the facility, according to a report.

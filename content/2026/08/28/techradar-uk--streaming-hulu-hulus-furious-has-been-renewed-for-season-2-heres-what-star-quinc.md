@@ -10,6 +10,28 @@ image: https://cdn.mos.cms.futurecdn.net/Xo8rBH2nefZFGETFbxBRhX-1032-80.webp
 categories:
 - Technology & Software
 - Society & Culture
+locations:
+- Hollywood
+- US
+people:
+- Danny McCarthy
+- Ed George
+- Emmy Rossum
+- Liz
+- Lucy
+- Meriwether
+- Nora Washington
+- Quincy Tyler Bernstine
+- Scoot McNairy
+organisations:
+- Disney
+- Hulu
+- Lucy Buglass
+- Lucy Goes
+- Nora
+- Rotten Tomatoes
+- TechRadar
+- The Simpsons
 ---
 
 ![Emmy Rossum and Quincy Tyler Bernstine in Furious](https://cdn.mos.cms.futurecdn.net/Xo8rBH2nefZFGETFbxBRhX.webp) 

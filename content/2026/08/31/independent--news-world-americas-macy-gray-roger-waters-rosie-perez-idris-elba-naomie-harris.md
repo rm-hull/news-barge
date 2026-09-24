@@ -14,6 +14,292 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- America
+- Caribbean
+- Coldplay
+- Dallas
+- Nashville
+- Southland
+- St. Paul
+people:
+- ',” “Dreamgirls'
+- A-ha
+- Adam Sandler
+- Aerosmith
+- Aimee Mann
+- Alan Feinstein
+- Alfie Allen
+- Alyssa Diaz
+- American Pie
+- Amy Irving
+- Amy Madigan
+- Amy Yasbeck
+- Angela Cartwright
+- Angie Everhart
+- Anika Noni Rose
+- Anne Ramsay
+- Ariana Richards
+- Ashley Monroe
+- Ballerina Misty Copeland
+- Bananarama
+- Ben Folds
+- Ben McKenzie
+- Benjamin Hollingsworth
+- Benmont Tench
+- Betsy Russell
+- Big Daddy Kane
+- Black Panther
+- Brad Fischetti
+- Breaking Bad
+- Brian De Palma
+- Brokeback Mountain
+- Broken Bones
+- Brooke Burke
+- Buddy Miller
+- Bush
+- CeCe Peniston
+- Chad Sexton
+- Chainz
+- Charles Esten
+- Charles Kelley
+- Chris Columbus
+- Chrissie Hynde
+- Clark Johnson
+- Code Black
+- Colin Firth
+- Colin Ford
+- Constance Marie
+- Corbin Bernsen
+- Cougar Town
+- Cracker
+- Daniele Gaither
+- Danny Hutton
+- Darlene Zschech
+- Darren E. Burrows
+- Darryl Anthony
+- Dave Stewart
+- David Arquette
+- David Letterman
+- David Lowery
+- David Steele
+- Dawson’s Creek
+- Deadwood
+- Deborah Joy Winans
+- Devon Sawa
+- Diane Farr
+- Diane Warren
+- Dylan Bruno
+- Elizabeth Henstridge
+- Elizabeth Vargas
+- Emmy Rossum
+- Eric Hutchinson
+- Eric Stonestreet
+- Evan Rachel Wood
+- Fastball
+- Fine Young Cannibals
+- Fishbone
+- Foxy Brown
+- Gaten Matarazzo
+- George Lopez
+- Gerry Beckley
+- Gilmore Girls
+- Gloria Gaynor
+- Goran Visnjic
+- Gotham,” “The O.C.
+- Greenleaf
+- Greg Mullavey
+- Grey’s Anatomy
+- Guiding Light
+- Guy Ritchie
+- Hannah Hodson
+- Harry Connick Jr.
+- Hawthorne
+- Heather Thomas
+- Henry Thomas
+- Hugh Grant
+- Hunter Hayes
+- Ian Chen
+- Idris Elba
+- Jacob Young
+- James Martin Kelly
+- Jane Curtin
+- Jeff Foxworthy
+- Jennifer Hudson
+- Jennifer Nettles
+- Jeremy Popoff
+- Jo Anne Worley
+- Joe Pantoliano
+- Joe Perry
+- Joe Smyth
+- John Hawkes
+- John McFee
+- Johnathon Schaech
+- Jon Buckland
+- Jon Moss
+- Jonathan Majors
+- Jonathan Taylor Thomas
+- Jose Feliciano
+- Josh Hopkins
+- Judy Geeson
+- Julie Kavner
+- Jurassic Park
+- Justin Whalin
+- Justina Machado
+- Kate Burton
+- Keane
+- Kelly Jenrette
+- Kelsea Ballerini
+- Kelsey Asbille
+- Kennedy
+- Kings of Leon
+- Kristy McNichol
+- Lady A
+- Larenz Tate
+- Larry LaLonde
+- Laura Wright
+- Lauren Daigle
+- Lauren Lapkus
+- Lauren Stamile
+- Leo Kottke
+- Lesley Visser
+- Leslie Jones
+- Lester
+- Levert
+- Linda Gray
+- Lit
+- Lois
+- Lola Falana
+- Louis C.K.
+- Lovecraft Country
+- MADtv
+- Mackenzie Aladjem
+- Macy Gray
+- Mad About You
+- Magic Mike
+- Marc Gordon
+- Margot Chapman
+- Maria Muldaur
+- Mark Chesnutt
+- Martin Freeman
+- Mary Hartman
+- Matthew Followill
+- Max George
+- Michael Bublé
+- Michael Emerson
+- Michael Feinstein
+- Michael Winslow
+- Michelle Williams
+- Mick Talbot
+- Mickey Hart
+- Mikey Way
+- Miles Zuniga
+- Mob City
+- Moby
+- Modern Family
+- Mom
+- Monique Gabriela Curnen
+- Moonlight
+- Naomie Harris
+- Nathan Corddry
+- Neko Case
+- Nina Blackwood
+- Nina Persson
+- Noreaga
+- Norwood Fisher
+- Numb3ers
+- Numb3rs
+- Nurse Jackie
+- Oliver Hudson
+- One Tree Hill
+- Pal Waaktaar
+- Paul Janeway
+- Phillip Alford
+- Pink Floyd
+- Pistol Annies
+- Rachel Hunter
+- Rachel Ward
+- Rapper Ludacris
+- Raymond Cruz
+- Reed Birney
+- Rescue Me
+- Richard Hughes
+- Robin Goodridge
+- Roger Waters
+- Rosie Perez
+- Roxann Dawson
+- Ruben Studdard
+- Rush of Fools
+- Ryan Phillippe
+- Sal Valentino
+- Sara Groves
+- Saw
+- Sawyer Brown
+- Scandal
+- Scott Patterson
+- Sean O’Bryan
+- Shannon Elizabeth
+- Sideways
+- Singer Dee Dee Sharp
+- Siobhan Fahey
+- Slackers
+- Star Trek
+- Stevie D. of Buckcherry
+- Stranger Things
+- Styx
+- Sugarland
+- Supermarket Sweep
+- Susan Blakely
+- Swoosie Kurtz
+- Tale
+- Taraji P. Henson
+- Teen Wolf
+- The Closer
+- The Danny Thomas Show
+- The Dark Knight
+- The Fall Guy
+- The Handmaid
+- The Rookie
+- The Simpsons
+- The Sopranos
+- Thomas Kretschmann
+- Tom Everett Scott
+- Tom Petty
+- Tom Wopat
+- Tommy Shaw
+- Tyler Hoechlin
+- Ventriloquist Willie Tyler
+- Virginia Madsen
+- W. Earl Brown
+- Wes Willis
+- Westworld
+- Will Chase
+- Will Lee
+- Wings
+- Wiz Khalifa
+organisations:
+- Az Yet
+- CBS Orchestra
+- Culture Club
+- Dexys Midnight Runners
+- Eurythmics
+- House of Cards
+- LFO
+- Late Show
+- MTV VJ
+- Marvel’s Agents of S.H.I.E.L.D.
+- News
+- Northern Exposure
+- Police Academy
+- Primus
+- Starland Vocal Band
+- The Beau Brummels
+- The Cardigans
+- The Doobie Brothers
+- The Pretenders
+- The Princess Diaries
+- The Style Council
+- The Wanted
 ---
 
 Celebrity birthdays for the week of Sept. 6-12:

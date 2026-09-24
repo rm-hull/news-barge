@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Brandon Hill
+- NC
+people:
+- Brandon Hill
+- Tom
+organisations:
+- AMD FreeSync Premium
+- Acer
+- AnandTech
+- DailyTech
+- Get Tom's Hardware
+- Google News
+- Hot Hardware
+- Mac
+- Nitro
+- Nvidia G-Sync
+- PC
+- Penta Tandem
+- Tom's Hardware
+- WFHD
+- XB273K V7
 ---
 
 ![Acer Nitro XZ340CKR](https://cdn.mos.cms.futurecdn.net/zHkzVy3D7e2nTCNSsYFpYD.jpg) 

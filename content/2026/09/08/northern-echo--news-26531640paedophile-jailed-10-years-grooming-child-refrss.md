@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- CLEVELAND
+- North East
+people:
+- Emily Thompson
+- Robert Ashcroft
+organisations:
+- Cleveland Police
+- County Durham
+- Protecting Vulnerable People
+- SHPO
+- Teesside Crown Court
 ---
 
 *(Image: CLEVELAND POLICE)*

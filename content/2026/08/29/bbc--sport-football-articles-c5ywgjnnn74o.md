@@ -12,6 +12,49 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Anfield
+- Europe
+- France
+- Liverpool
+- Lyon
+- Netherlands
+- Nottingham Forest
+- Paris
+people:
+- '"[Gakpo'
+- Alexander Isak
+- Andoni Iraola
+- Bradley Barcola
+- Bradley Barcola.
+- Cody Gakpo
+- Desire Doue
+- Florian Wirtz
+- Hugo Ekitike
+- Ismaila Sarr
+- Khvicha Kvaratskhelia
+- Luis Diaz
+- Maghnes Akliouche
+- Mika Godts
+- Mohamed Salah
+- Yan Diomande
+- Yankuba Minteh
+organisations:
+- BBC Sport
+- Bradley Barcola
+- Brighton
+- Crystal Palace
+- France
+- Ligue
+- Liverpool
+- Liverpoolhave
+- Lyon
+- Manchester City
+- PSG
+- Paris St-Germain
+- Real Madrid
+- Reds
+- Tottenham Hotspur
 ---
 
 ![Bradley Barcola celebrates a goal for France](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg)

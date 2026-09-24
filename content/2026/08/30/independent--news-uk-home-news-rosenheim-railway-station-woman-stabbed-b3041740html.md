@@ -13,6 +13,18 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Austria
+- Bavaria
+- Fürstenfeldbruck
+- Munich
+- Rosenheim railway station
+- Traunstein
+people: []
+organisations:
+- Bavarian Police
+- Federal Police
+- Foreign Office
 ---
 
 A 31-year-old British woman has died from “severe injuries” after being stabbed at a German train station on Sunday morning.

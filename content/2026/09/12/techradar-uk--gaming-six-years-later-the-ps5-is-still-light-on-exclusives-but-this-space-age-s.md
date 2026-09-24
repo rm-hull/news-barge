@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/jAu8FaKdqs8daNzC8PRuhA-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Earth
+- White Shadow
+people:
+- Helios
+- Jamie Richards
+- Jane Perry
+- Selene
+- Theia
+- White Shadow’
+organisations:
+- Goldsmiths College
+- Google News
+- Housemarque
+- MusicRadar
+- PS5
+- Reddit
+- Selene Vassos
+- TechRadar Gaming
+- YouTube
 ---
 
 ![From the Backlog Returnal.](https://cdn.mos.cms.futurecdn.net/jAu8FaKdqs8daNzC8PRuhA.jpg) 

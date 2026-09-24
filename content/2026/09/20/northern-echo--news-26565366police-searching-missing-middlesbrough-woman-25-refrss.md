@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21477609.jpg?type=og-image
+locations:
+- Middlesbrough
+- Teesside
+people:
+- Sarabjit Kaur
+organisations:
+- Cleveland Police
 ---
 
 *(Image: POLICE)*

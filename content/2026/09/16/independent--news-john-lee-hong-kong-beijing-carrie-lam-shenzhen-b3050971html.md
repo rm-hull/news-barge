@@ -13,6 +13,16 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- Hong Kong
+- Northern Metropolis
+- Shenzhen
+people:
+- Carrie Lam
+- John Lee
+organisations: []
 ---
 
 Hong Kong Chief Executive John Lee on Wednesday unveiled the city's first five-year plan in a politically symbolic step that echoes Beijing's approach to development, pushing to broaden Hong Kong's identity beyond international finance to also encompass technology and higher education.

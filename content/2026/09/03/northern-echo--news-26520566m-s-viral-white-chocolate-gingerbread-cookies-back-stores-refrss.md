@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Darlington West Park
+- Lapland
+- North East
+- Stockton
+- Teesside Retail Park
+people:
+- Merry Percymas
+organisations:
+- Cadbury
+- Gooey Middle Cherry Teacakes
+- M&S Foodhalls
+- Merry Malt Balls
+- Percy Pig Merry Percymas
+- Sticky Toffee Pudding Dunkers
+- S’mores Munch Mix
 ---
 
 M&S shoppers across the North East can now get their hands on one of its most sought-after festive treats after they returned to shelves this week.

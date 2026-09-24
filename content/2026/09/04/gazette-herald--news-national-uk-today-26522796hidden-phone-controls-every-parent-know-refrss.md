@@ -14,6 +14,15 @@ categories:
 - York
 - Technology & Software
 - Family & Parenting
+locations: []
+people:
+- Aleksa McLoughlin
+organisations:
+- App Store
+- Apple
+- Google Family Link
+- HMRC
+- Talkmobile
 ---
 
 *(Image: Daisy Daisy)*

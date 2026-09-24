@@ -12,6 +12,31 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Hong Kong
+- San Francisco Bay Area
+- Singapore
+people:
+- Claude
+- Henry Kang
+organisations:
+- 522 Ventures
+- AI
+- Adobe
+- Apple Photos
+- Carnegie Mellon University
+- Clipto
+- EnvisionX Capital
+- GL Ventures
+- Google Photos
+- HSG
+- Hans Tung
+- Lu Zhang
+- Palm Drive Capital
+- Sequoia China
+- TechCrunch
+- Tencent
+- ZenVideo
 ---
 
 Generative AI is making it easier to produce more content and harder to keep track of it. As videos, recordings, and documents accumulate, Adobe, Apple, Google, and a growing number of startups are using AI to make those files searchable. It is not yet clear whether that will support a new category of standalone software or become a standard feature of products people already use.

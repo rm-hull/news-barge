@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1079
+- Common Road
+- Dunnington
+- Kevin Glenton
+- Kexby
+- York Road
+people:
+- Kevin Glenton
+organisations:
+- The Press
 ---
 
 ## Obstruction in key York road being prepared to be cleared

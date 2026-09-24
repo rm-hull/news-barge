@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://images.euronews.com/articles/stories/09/92/04/47/1200x675_cmsv2_033808bc-a2d0-5a2d-835e-dbd6513e4a95-9920447.jpg
+locations:
+- Austria
+- Belgium
+- Bulgaria
+- Denmark
+- Europe Meloni
+- France
+- Germany
+- Italy
+- Poland
+- Portugal
+- Spain
+- Switzerland
+- The Netherlands
+people:
+- Angelo Bonelli
+- Giorgia Meloni
+- Gioventù Nazionale
+- Giuseppe Valditara
+- Mariastella Gelmini
+- Oronzo Reale
+- Roberto Vannacci
+- Salvatore Curreri
+organisations:
+- ANSA
+- AVS
+- AfD
+- Brothers of Italy
+- Chamber of Deputies’ Culture Committee
+- Constitution
+- European Court of Human Rights
+- Futuro Nazionale
+- Green Europe
+- Green and Left Alliance
+- League
+- Senate
+- University of Enna
 ---
 
 ## Italy’s government is preparing new school measures, including a ban on niqabs. Meloni is facing competition from retired general Roberto Vannacci, who has called for tougher measures on migration.

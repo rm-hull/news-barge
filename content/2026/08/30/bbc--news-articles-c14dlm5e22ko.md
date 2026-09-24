@@ -12,6 +12,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e2a/live/139675
 categories:
 - UK
 - News & Politics
+locations:
+- Berkshire
+- England
+- Liverpool
+- London
+- Manchester
+- Midlands
+- Wales
+- Wandsworth
+people:
+- Albert Bowers
+- Andrew Harper
+- Andy Burnham
+- Jessie Cole
+- Lissie Harper
+- PC Harper
+- Tom Wheatley
+organisations:
+- BBC News
+- Ministry of Justice
+- National Audit Office
+- PGA
+- PM
+- Prison Governors Association
 ---
 
 ![Unidentified prisoners return from their jobs to their wings for lunch at Wandsworth prison](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e2a/live/13967520-a398-11f1-b666-4bd8c8e39163.jpg)

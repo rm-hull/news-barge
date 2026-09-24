@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa
+- France
+- Kikuube
+- Lake Albert
+- Lake Victoria
+- Murchison Falls National Park
+- Nile River
+- Tanzania
+- Uganda
+- Winston Churchill
+people:
+- Yoweri Museveni
+organisations:
+- CNOOC
+- China National Offshore Oil Corporation
+- Kingfisher
+- Ministry of Energy
+- Naming
+- Pearl Sweet
+- TotalEnergies
+- Uganda National Oil Company
 ---
 
 Ugandan authorities on Wednesday named the country’s prospective crude oil blend “Pearl Sweet,” marking a milestone as the East African country gears up for commercial production by the end of the year.

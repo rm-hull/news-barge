@@ -18,6 +18,62 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Arsenal
+- Buckingham Palace
+- China
+- Clacton
+- Dublin
+- England
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Man City
+- Man United
+- Mauritius
+- Nepal
+- New York City
+- Richmond
+- Russia
+- Saudi Arabia
+- UK
+- US
+- Virginia
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- Carlos Baleba
+- Count Binface
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Krista Edelman
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Arsenal
+- Count Binface
+- Farage
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Trump
+- WWBT
 ---
 
 ## Showing now | News

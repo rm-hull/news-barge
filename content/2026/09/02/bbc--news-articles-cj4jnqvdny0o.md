@@ -11,6 +11,16 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9956/live/1b8820
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+organisations:
+- BBC
+- Commons
+- Ministry of Justice
 ---
 
 ![A prison officer with his left hand on a cell door. His upper and lower body is out of shot.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9956/live/1b8820b0-de2f-11ef-a37f-eba91255dc3d.jpg)

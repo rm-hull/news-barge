@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- York
+- Yorkshire
+people:
+- Anna
+- Beth
+- Brenda
+- Emma
+- Esme
+- Patrick Grant
+- Sebastian
+- Steve
+organisations:
+- BBC
+- British Sewing Bee
+- Queen of Hearts
+- Sewing Bee
 ---
 
 A woman from Yorkshire has been named this year’s winner of the Great British Sewing Bee.

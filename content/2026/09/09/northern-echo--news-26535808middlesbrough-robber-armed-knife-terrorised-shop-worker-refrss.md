@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Falkland Street
+- Middlesbrough
+people:
+- Drunk Newton Aycliffe
+- Emma Atkinson
+- Jason Dixon
+- Jonathan Carroll
+- Ralf Xhepa
+organisations:
+- Cleveland Constabulary
+- Go Local
+- Teesside Crown Court
 ---
 
 *(Image: Cleveland Constabulary)*

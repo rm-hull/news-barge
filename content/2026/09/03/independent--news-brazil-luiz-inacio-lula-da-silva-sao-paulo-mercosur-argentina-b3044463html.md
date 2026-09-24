@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Argentina
+- Brazil
+- Caribbean
+- Latin America
+- Paraguay
+- Uruguay
+people:
+- Eva Hrncirova
+- Luiz Inácio Lula da Silva
+- Robson Goncalves
+organisations:
+- ABIEC
+- Brazilian Association of Meat Exporting Industries
+- Confederation of Agriculture and Livestock of Brazil
+- EU
+- EU-Mercosur
+- European Commission
+- European Court of Justice
+- European Union
+- Fundacao Getulio Vargas
+- Mercosur
+- Mercosur-European Union
+- The Associated Press
 ---
 
 Brazil's government and exporters of meat, poultry, eggs, honey and other animal products were scrambling Thursday after a European Union deadline passed, triggering a suspension of imports over concerns about the use of antibiotics and antimicrobial drugs in livestock.

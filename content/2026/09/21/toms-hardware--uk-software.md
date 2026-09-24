@@ -12,6 +12,23 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/URarwPfgbrbBaz3ggUPSK-450-80.webp
+locations: []
+people: []
+organisations:
+- Bruno Ferreira Published
+- Cloud StorageBackblaze
+- Cloud StoragePBS
+- Dropbox
+- Etiido Uko Published
+- LinuxCalifornia
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- PlayCanvas
+- Unity
+- WindowsDeveloper
+- WindowsMicrosoft
+- WindowsPutin
 ---
 
 # Software

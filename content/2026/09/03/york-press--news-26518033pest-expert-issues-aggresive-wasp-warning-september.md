@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations: []
+people:
+- John Whiteley-Wilkson
+- Pierre Aden
+organisations:
+- Acorn Environment Services
+- Getty
 ---
 
 *(Image: Pierre Aden/Getty)*

@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- Arm
+- GPU
+- GTA V
+- GTA VI
+- Get Tom's Hardware
+- Google News
+- Grand Theft Auto V
+- NSP
+- Nintendo Switch
+- Ocupas Overclock
+- PS3
+- PS4
+- PS5
+- Paralympics Productions
+- RAM
+- RDR2
+- Rockstar
+- Snapdragon
 ---
 
 ![Grand Theft Auto V running natively on a Nintendo Switch](https://cdn.mos.cms.futurecdn.net/iwm5jZCX5W5LNzxXPj8VYE.jpg) 

@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Brooklyn
+- Chicago
+- Los Angeles
+- Lower East Side
+- Manhattan
+- NYC
+- New York City
+- Nova
+- Nova?
+- Philadelphia
+- U.S.
+- Upper West Side
+- Yom Kippur
+people:
+- Cathy Barrow
+- Emily Caslow
+- Gary Greengrass
+- Katie Workman
+- Rosh Hashana
+- Yom Kippur
+organisations:
+- AP
+- Acme Smoked Fish
+- Barney Greengrass
+- Biederman’s Specialty Foods
+- Deli
+- Mish Delicatessen
+- Steingold
+- The Associated Press
 ---
 
 In traditional Jewish American food culture, a “deli” was where you went for a towering pastrami sandwich. You went somewhere else entirely to buy lox and a schmear: an " appetizing store.”

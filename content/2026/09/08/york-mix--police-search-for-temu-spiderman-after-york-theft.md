@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- York
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 Do you know this fence hurdler?

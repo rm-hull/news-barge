@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- Iran
+- Southeast Asia
+- U.S.
+- White House
+people:
+- Donald Trump
+- Huo Lihui
+- Max Zenglein
+- Nguyen Hoang Nam
+- Xi Jinping
+organisations:
+- Asia Pacific
+- Capital Economics
+- National Bureau of Statistics
+- PMI
+- The Conference Board
 ---
 
 China’s factory activity improved marginally in August as export demand remained robust, though overall manufacturing still was in a contraction.

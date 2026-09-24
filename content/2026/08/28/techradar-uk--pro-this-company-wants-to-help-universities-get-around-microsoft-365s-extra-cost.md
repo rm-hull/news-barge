@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/DT3XDbTaUC2nQB3Wfi9tR3-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Earth
+people:
+- Rahim Amir
+organisations:
+- Arcitecta
+- Blocks & Files
+- Dropbox
+- Exchange
+- Gartner
+- Google News
+- Google Workspace for Education
+- Microsoft
+- OneDrive
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![Student watching video with a cup of coffee in a library](https://cdn.mos.cms.futurecdn.net/DT3XDbTaUC2nQB3Wfi9tR3.jpg) 

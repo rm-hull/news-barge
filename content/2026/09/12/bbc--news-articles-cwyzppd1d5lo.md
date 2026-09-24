@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dublin
+- Great Britain
+- Iran
+- Irish America
+- Las Vegas
+- Nevada
+- Northern Ireland
+- U.S.
+- UK
+- US
+people:
+- Bill Clinton
+- Brendan Boyle
+- Catherine Connolly
+- Donald Trump
+- Mary Robinson
+- Micheál Martin
+- Mick Mulvaney
+organisations:
+- Congress
+- Red Rock Casino Resort Spa
+- Taoiseach
 ---
 
 ![U.S. President Donald Trump delivers remarks at Red Rock Casino Resort Spa in Las Vegas, Nevada, U.S., August 5, 2026. It is a head-and-shoulders shot and he is wearing a blue jacket and shiny red tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg)

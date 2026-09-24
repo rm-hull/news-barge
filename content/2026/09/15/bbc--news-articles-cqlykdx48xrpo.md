@@ -13,6 +13,74 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Bury
+- California
+- California.
+- Greater Manchester
+- Hollywood
+- Los Angeles
+- US
+- Wales
+- Widow's Bay
+people:
+- '## Hero'
+- '## Smart'
+- Alan Alda
+- Alan Cumming
+- Allison Janney
+- Annie Murphy
+- Catherine O'Hara
+- Catherine O'Hara Macaulay Culkin
+- Claire Danes
+- Cloris Leachman
+- Dan Levy
+- Dolly Parton
+- Elisabeth Moss
+- Gary Oldman
+- God
+- Jamie Lee Curtis
+- Jean Smart
+- John Goodman
+- Julia Louis-Dreyfus
+- Kate O'Flynn
+- Keri Russell
+- Lala
+- Macaulay Culkin
+- Matthew Rhys
+- Michael J Fox
+- Nancy
+- Noah Kahan
+- Noah Wyle
+- Parkinson
+- Patricia
+- Proud Rhys
+- Reba McEntire
+- Rhea Seehorn
+- Rob Reiner
+- Sally Field
+- Schitt
+- Selena Gomez
+- Sid Vicious
+- Stephen Colbert
+- Ted Danson
+- Zendaya
+organisations:
+- Apple TV
+- Cumming
+- Dolly Parton
+- ER
+- LA Live
+- Lancashire
+- Michael J Fox Foundation
+- Peacock Theater
+- Peacock Theatre
+- Reba McEntire
+- Scottish TV
+- The Diplomat
+- The Pitt
+- US TV
+- Widow's Bay
 ---
 
 ![Matthew Rhys, winner of the Outstanding Lead Actor in a Comedy Series Award for "Widow's Bay" and the Outstanding Lead Actor in a Limited or Anthology Series or Movie Award for "The Beast in Me" poses in the press room during the 78th Primetime Emmy Awards at Peacock Theater on September 14, 2026 in Los Angeles, California](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg)

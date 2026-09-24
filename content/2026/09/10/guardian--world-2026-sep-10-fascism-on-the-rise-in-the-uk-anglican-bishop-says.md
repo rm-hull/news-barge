@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belfast
+- Canterbury
+- Doncaster Minster
+- Dover
+- England
+- Kirkstall
+- Lambeth Palace
+- Lancashire
+- Leeds
+- Norfolk
+- Portsmouth
+- Southampton
+- Thetford
+- UK
+- United Kingdom
+- York
+people:
+- Arun Arora
+- Christ
+- Daniel “Danny Tommo
+- Henry Nowak
+- Jesus
+- Rev Canon
+- Richard Frith
+- Rosemarie Mallett
+- Sarah Mullally
+- Thomas
+- Tommy Robinson
+organisations:
+- Arora
+- BBC
+- Church of England
 ---
 
 Fascism is on the rise in the UK, a Church of England bishop has warned, condemning the “twisted theology” of the self-described “Christian patriots” who demonstrated at ports on the south coast last weekend.

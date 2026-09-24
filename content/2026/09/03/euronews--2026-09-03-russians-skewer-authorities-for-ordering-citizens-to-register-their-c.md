@@ -13,6 +13,14 @@ image: https://images.euronews.com/articles/stories/09/90/02/36/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Horriot
+- Kabardino-Balkaria
+- Russia
+people:
+- Gogol
+organisations:
+- Federal Service for Veterinary and Phytosanitary Surveillance
 ---
 
 ## A government decree requiring registration of domestic birds, camels and reindeer took effect Tuesday, sending Russians to government service centres with live chickens in tow before authorities clarified that owners did not need to bring their animals anywhere.

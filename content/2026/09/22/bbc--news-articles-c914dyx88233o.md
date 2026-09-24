@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed24/live/720817d0-b6a8-11f1-ba3d-1d5c8a47f823.jpg
+locations:
+- Cape Cod
+- Florida
+- Massachusetts
+- Paris
+- US
+people:
+- Braden Peters
+- Clavicular
+organisations:
+- BBC
+- CBS News
 ---
 
 ![A headshot of Braden Peters, also known as the influencer "Clavicular".](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/ed24/live/720817d0-b6a8-11f1-ba3d-1d5c8a47f823.jpg)

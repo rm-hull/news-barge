@@ -12,6 +12,24 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Cape Canaveral
+- Earth
+- Florida
+- Goddard Space Flight Center
+- Greenbelt
+- Maryland
+- US
+people:
+- Kristen McQuinn
+organisations:
+- Habitable Worlds Observatory
+- Hubble Space Telescope
+- JWST
+- James Webb Space Telescope
+- NASA
+- Nancy Grace Roman Space Telescope
+- Space Telescope Science Institute
 ---
 
 ![An artist's impression of the Nancy Grace Roman Space Telescope mapping the infrared universe](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg?w=840)

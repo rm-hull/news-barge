@@ -13,6 +13,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc76/live/1fb1ec20-b740-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Madrid
+- Maricarmen
+- Retiro
+- Spain
+people:
+- Ana Belén
+- Beatriz Duro
+- Carlos
+- Javier Bardem
+- Maricarmen
+- Pedro Sánchez
+- Rafael Alberti
+- Teresa Rodríguez
+- Urbagestión
+organisations:
+- BBC
+- Idealista
+- Maricarmen
+- Sindicato de Inquilinas
+- UN Committee on Economic, Social and Cultural Rights
+- Urbagestión
 ---
 
 ![Maricarmen, a frail elderly woman, packs a bag with her belongings as she sits in a chair by the door of her flat ](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/bc76/live/1fb1ec20-b740-11f1-aa9c-3d062fa3aea7.jpg)

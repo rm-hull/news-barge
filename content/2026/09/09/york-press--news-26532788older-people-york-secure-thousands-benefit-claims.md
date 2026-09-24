@@ -13,6 +13,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- York
+people:
+- Wayne Dawson
+organisations:
+- Blue Badges
+- OCAY
+- Older Citizens Advocacy York
+- Universal Credit
 ---
 
 ## More than £100,000 secured for older people in York through benefit claims

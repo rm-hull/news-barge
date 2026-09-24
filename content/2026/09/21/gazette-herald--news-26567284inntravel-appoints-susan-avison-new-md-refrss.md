@@ -13,6 +13,23 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.gazetteherald.co.uk/resources/images/21480272.jpg?type=og-image
+locations:
+- Castle Howard
+- Europe
+- UK
+people:
+- Ben Boesch
+- Gavin Priestley
+- Inntravel
+- Linda Hearn
+- Richard
+- Susan Avison
+organisations:
+- B Corp
+- Dertour
+- Inntravel
+- MD
+- PA
 ---
 
 *(Image: Gavin Priestley)*

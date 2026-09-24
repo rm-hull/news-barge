@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Chadlington
+- Chipping Norton
+- Cotswolds
+- Diddly Squat Farm Shop
+- UK
+- West Oxfordshire
+people:
+- Jeremy Clarkson
+- Tess Annan
+organisations:
+- Amazon Prime
+- Clarkson's Farm
+- Diddly Squat Farm Shop
+- Express
+- Google
+- Instagram
+- Top Gear
+- Tripadvisor
+- Welligogs
 ---
 
 *(Image: PA / Prime Video)*

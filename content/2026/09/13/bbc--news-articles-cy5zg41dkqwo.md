@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Dorohusk
+- Estonia
+- Germany
+- Italy
+- Kharkiv
+- Kyiv
+- Leipzig
+- Lviv
+- Moldova
+- Moscow
+- Odesa
+- Poland
+- Russia
+- UK
+- US
+- Ukraine
+- Ukraine-Poland
+- Yahodyn
+people:
+- Andrii Sybiha
+- Boris Johnson
+- Carl Bildt
+- David Petraeus
+- Donald Tusk
+- Jonathan Powell
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- CIA
+- EU
+- Kyiv
+- Nato
+- Ukrzaliznytsia
+- 'YES'
+- Yalta European Strategy
 ---
 
 Watch: Moment Russian strike hits near Ukraine-Poland border

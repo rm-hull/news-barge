@@ -13,6 +13,43 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Australia
+- Canada
+- China
+- Germany
+- India
+- Ireland
+- Netherlands
+- UAE
+- UK
+people:
+- Bacon McMuffin
+- Bagels
+- Getty
+- McDonald
+- Rolo mcflurry
+organisations:
+- '## McDonald'
+- '## McDonald’s'
+- Apple Pies
+- Big Macs
+- Big Rösti
+- Chicken & Egg McMuffin
+- Facebook
+- Guava x Sprite Zero
+- LG
+- Mac & Cheese Triangles
+- Maple & Cheddar Chicken
+- McDonald's
+- Menu Heist
+- Monopoly
+- NLD
+- Paprika McShaker Fries
+- Quarter Pounders
+- S'mores McFlurry
+- Szechuan Sauce
+- Yum
 ---
 
 *(Image: Getty)*

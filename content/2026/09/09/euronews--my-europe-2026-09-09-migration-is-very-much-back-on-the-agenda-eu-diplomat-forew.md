@@ -14,6 +14,91 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Beijing
+- Brussels Zaventem
+- Cadarache
+- Canada
+- Ceuta
+- China
+- Denmark
+- Europe
+- Finland
+- France
+- Hungary
+- Iceland
+- Ireland
+- Israel
+- Italy
+- Jerusalem
+- Kremlin
+- Latvia
+- Morocco
+- Moscow
+- Norway
+- Occupied Palestinian Territories
+- Paris
+- Poland
+- Portugal
+- Rabat
+- Romania
+- Russia
+- Slovakia
+- Spain
+- Sweden
+- UK
+- Ukraine
+- Washington
+- West Bank
+people:
+- Alisher Usmanov
+- Andrius Kubilius
+- Angela Skujins
+- Anita Orbán
+- Anouar El Anouni
+- Arancha González Laya
+- Ceuta
+- Dan Jørgensen
+- Donald Trump
+- Ed Miliband
+- Eleonora Vasques
+- Eleonora**
+- Gideon Sa’ar —
+- Jean-Noël Barrot
+- Jorge Liboreiro
+- Juan Jesús Vivas
+- Kaja Kallas
+- Mared Gwyn
+- Marta Pacheco
+- Maïa de la Baume
+- Micheál Martin
+- Mikhail Fridman
+- Peggy Corlin**
+- Piotr Serafin
+- Robert Fico
+- Satsuki Katayama
+- Ursula von der Leyen
+- Vincenzo Genovese
+- Volodymyr Zelenskyy
+organisations:
+- Budget
+- EU Council
+- Euronews Romania
+- European Commission
+- European Council
+- European Parliament
+- European Union
+- Finance
+- Frontex
+- ITER
+- Kyiv
+- Labour Government
+- NATO
+- North Atlantic Treaty Organisation
+- Rīga Conference
+- State of the Union
+- Trump
+- newsroomsEuropean Parliament
 ---
 
 ## Good morning. Angela Skujins here on newsletter duty, writing this while I watch the sun rise over the tarmac at Brussels Zaventem airport. I came here outrageously early because Europe Today never stops, and neither does this newsletter!

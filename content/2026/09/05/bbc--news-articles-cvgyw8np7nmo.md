@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Abergavenny
+- Cowbridge
+- Ireland
+- Llandow Circuit
+- Llandow Circuit Harley
+- London
+- Vale of Glamorgan
+- Vale of the Glamorgan
+people:
+- Dean Twaite
+- Dolly
+- Jim Alison
+- Mike Newman
+- Rob Brydon
+- Stanton
+organisations:
+- Blind Veterans UK
+- Harley
+- Royal Corps of Transport
+- Royal Engineers
+- Tredegar
 ---
 
 Behind the wheel at 90mph without a licence... or sight

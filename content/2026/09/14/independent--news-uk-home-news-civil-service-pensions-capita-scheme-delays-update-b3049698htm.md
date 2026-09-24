@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Capita
+people:
+- Gill
+- Nick Thomas-Symonds
+- Philippa
+organisations:
+- CSPA
+- Cabinet Office
+- Capita
+- Civil Service Pension Scheme
+- Civil Service Pensioners’ Alliance
+- Department for Work and Pensions
+- MyCSP
+- PCS
+- Public and Commercial Services Union
+- Royal Mail
+- Stock Commitment
 ---
 
 Thousands of retired civil servants continue to face late or missing pension payments as administrator Capita oversees a growing caseload.

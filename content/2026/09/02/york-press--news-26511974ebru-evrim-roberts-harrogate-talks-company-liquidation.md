@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- James Street
+- Leeds
+- North Yorkshire
+- Skipton
+- Ukraine
+people:
+- Ebru Evrim Roberts
+- Heidi Marfitt
+organisations:
+- Chico
+- Ebru Evim Roberts
+- Ebru Evrim Ltd
+- Evrimotion
+- FK Building Ltd of Harrogate
+- Harrogate Ltd
+- North Yorkshire Pilates
+- Red Kite Recruitment Group
+- The Press
 ---
 
 ## Entrepreneur's sleepness nights in fight to save liquidated North Yorkshire company

@@ -13,6 +13,24 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Clarkson's Farm
+- Derbyshire
+- Diddly Squat Farm
+- Ellis OBrien
+people:
+- '## Clarkson'
+- Ellis O'Brien
+- Harriet Cowan
+- James Booth
+- Jeremy Clarkson
+- Kaleb Cooper
+organisations:
+- Clarkson's Farm
+- Clarkson's Farm Series 3
+- Daily Mail
+- Derbyshire
+- The Telegraph
 ---
 
 ## Clarkson's Farm star quits show and buys £1.7m farm of their own

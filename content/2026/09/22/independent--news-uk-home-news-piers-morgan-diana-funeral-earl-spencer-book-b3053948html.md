@@ -12,6 +12,23 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/21/14/2279820744..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Buckingham Palace
+- Fleet Street
+- PA
+- Wales
+- Westminster Abbey
+people:
+- Alastair Campbell
+- Charles Spencer
+- Diana
+- Earl Spencer
+- Harry/Meghan
+- John Stillwell
+- Piers Morgan
+- Tony Blair
+organisations:
+- Daily Mirror
 ---
 
 Piers Morgan reportedly “snarled with annoyance” upon being informed he was no longer invited to attend Princess Diana’s funeral, Earl Spencer has claimed.

@@ -14,6 +14,315 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 image: https://static.independent.co.uk/2026/09/21/16/2_26_TIFF_-__The_Housewife__Premiere_23754.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arcadia
+- Bel-Air
+- Boardwalk Empire
+- Grand Funk Railroad
+- Guantanamo Bay
+- Little Big Town
+- Los Angeles
+- Sublime
+- The Roches
+- Us
+people:
+- A Martinez
+- AP Rocky
+- Adventures
+- Alabama Shakes
+- Alanna Ubach
+- Alexis Cruz
+- Alicia Vikander
+- Alvin Crow
+- Ames McNamara
+- Amy Landecker
+- Andrea Roth
+- Andrew “Dice” Clay
+- Angel
+- Angie Dickinson
+- Anna Camp
+- Annie Leibovitz
+- Anthony Laciura
+- Ashlee Simpson
+- Ashley Hamilton
+- Avery Brooks
+- Avril Lavigne
+- Az Yet
+- Bachman-Turner Overdrive
+- Bam Margera
+- Barry Williams
+- Baywatch
+- Beck Bennett
+- Ben Miles
+- Better Than Ezra
+- Blind Melon
+- Bob Hearts Abishola
+- Brad Arnold
+- Brad Smith
+- Breaking Away
+- Brie Larson
+- Brittany Howard
+- Bryant Gumbel
+- Bud Gaugh
+- Bull
+- Calvin Levels
+- Carly Hughes
+- Chance
+- Cherrill Green
+- Chicago Hope,” “Daredevil
+- Chrissy Metz
+- Christopher Jackson
+- Christopher Marquette
+- Christopher Titus
+- Chubby Checker
+- Chuck
+- Cindy Margolis
+- Clive Owen
+- Cold Case
+- Color Me Badd
+- Crystal Bernard (“Wings
+- Danick Dupelle
+- Daniel Platzman
+- Dave Holland
+- Deadwood
+- Deborah Allen
+- Desperate Housewives
+- Devante Swing
+- Dion Allen
+- Dirty Sexy Money
+- Dokken
+- Don McLean
+- Doors Down
+- Doug Brochu
+- Drake White
+- Dukes of Hazzard
+- Eddie Montgomery
+- Edens Edge
+- Ed”)
+- Efren Ramirez
+- Elizabeth McLaughlin
+- Emerson Drive
+- Emily Lloyd
+- Eric Stoltz
+- Erika Eleniak
+- Esai Morales
+- Everwood
+- Ex Machina
+- Family Stone
+- Fleetwood Mac
+- Fran Drescher
+- Freddie Jackson
+- Fringe
+- G. Love
+- General Hospital
+- Genesis
+- George Lynch
+- Gillian Welch
+- Gilmore Girls
+- Grant Brandell
+- Greg Jennings
+- Greg Proops
+- Grey’s Anatomy
+- Grimm
+- Gwen Stefani
+- Gwyneth Paltrow
+- Halsey
+- Hand of God,” “Pretty Little Liars
+- Harold
+- Hart Bochner
+- Hilary Duff
+- Hinder
+- Howard Hewett
+- Ian McShane
+- India.Arie
+- Indira Varma
+- Jack Stanton
+- Jack Wagner
+- Jackass
+- Jade Bird
+- Janeane Garofalo
+- Janel Moloney
+- Jean-Luc Ponty
+- Jeffrey Jones
+- Jenna Elfman
+- Jerrika Hinton
+- Jerry Martini
+- Jill Whelan
+- Jim Root
+- Joan
+- Jodeci
+- Joel Higgins
+- Joey Slotnick
+- John Finn
+- John Lombardo
+- John Sayles
+- John Wick
+- Johnny Mathis
+- Josh Farro
+- Josh Klinghoffer
+- Julie Andrews
+- Jurnee Smollett
+- Karen Fairchild
+- Kathleen Nolan
+- Katie Aselton
+- Keb’ Mo’
+- Keiko Agena
+- Keir Gilchrist
+- Kelly McCreary
+- Kelly Ripa
+- Kelly Willis
+- Kevin Griffin
+- Kevin Richardson
+- Kieran Culkin
+- Kumar Escape
+- LA Law
+- La Vie en Rose
+- LaTocha Scott
+- Lacey Chabert
+- Legally Blonde
+- Legion
+- Len Cariou
+- Lena Headey
+- Lene Nystrom
+- Les Claypool
+- Les Miserables
+- Lessons
+- Lil’ Wayne
+- Lindsey Buckingham
+- Lisa Thornhill
+- Liz Torres
+- Lorraine Bracco
+- Love Boat
+- Luke Mossman
+- Mandy Barnett
+- Marc Maron
+- Marilyn McCoo
+- Marion Cotillard
+- Mark Calderon
+- Mark Farner
+- Mark King
+- Marley Marl
+- Marty Stuart
+- Matt King
+- Meagan Holder
+- Mean Girls
+- Melrose Place
+- Mike Post
+- Mike Rodden
+- Mike Rutherford
+- Mira Sorvino
+- Monica Bellucci
+- Montgomery Gentry
+- Moon Zappa
+- Motley Crue
+- NYPD Blue
+- Naomi Watts
+- Napoleon Dynamite
+- Natasha Gregson Wagner
+- Nathaniel Rateliff
+- Neve Campbell
+- Noah Schnapp
+- Patrice Rushen
+- Patricia Hodge
+- Patrick Muldoon
+- Peter Cambor
+- Peter Frechette
+- Phil Oakey
+- Phillip Phillips
+- Phish
+- Phoebe Robinson
+- Pitch
+- Priah Ferguson
+- Primus
+- Prodigal Son
+- Profiler
+- Public Enemies
+- Rachel Cronin
+- Randy Bachman
+- Randy Quaid
+- Rescue Me
+- Restless Heart
+- Robbie Nevil
+- Robby Takac
+- Robin Riker
+- Roger Bart
+- Ronnie Laws
+- Sam Lerner
+- Samantha Barks
+- Santa Barbara
+- Sarah Drew
+- Seann William Scott
+- Seinfeld
+- Seth Gabel
+- Shalamar
+- Shannyn Sossamon
+- Shark
+- Shaun Cassidy
+- Sherri Saum
+- Sierra Hull
+- Silas Weir Mitchell
+- Silver Spoons
+- Single Guy
+- Slipknot
+- Sly
+- Sonny
+- St. Vincent
+- Star Trek
+- Stephan Jenkins
+- Steve Hytner
+- Steve Reich
+- Sting
+- Stranger Things
+- Suzzy Roche
+- T-Pain
+- TV’s “Moonlight
+- Talib Kweli
+- Tessa Thompson
+- The Brady Bunch
+- The Connors
+- The Crown
+- The Fosters
+- The Goldbergs
+- The Mick
+- The Sopranos
+- Third Eye Blind
+- Tiffany
+- Tim O’Reagan
+- Tommy Lee
+- Toni Trucks
+- Tony Hale
+- Trey Anastasio
+- True Blood
+- Underoath
+- Veep
+- Vernee Watson
+- Veronica Mars
+- Vondie Curtis-Hall
+- Wanda
+- Westworld
+- What Men Want
+- Young Jeezy
+- Youssou N’Dour
+- Yvette Freeman
+- Zach Galifianakis
+- Zachary Levi
+organisations:
+- Aqua
+- Backstreet Boys
+- Blue Bloods
+- Boston Public
+- Human League
+- Imagine Dragons
+- Long Beach Dub Allstars
+- Mechanics
+- Paramore
+- Red Hot Chili Peppers
+- The Goo Goo Dolls
+- The Jayhawks
+- The Mindy Project
+- The West Wing
+- United States of Tara
+- Xscape
 ---
 
 Celebrity birthdays for the week of Sept. 27-Oct. 3:

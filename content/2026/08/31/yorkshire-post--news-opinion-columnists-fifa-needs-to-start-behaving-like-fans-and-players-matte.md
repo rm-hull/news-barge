@@ -15,6 +15,29 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Aire Valley
+- Morocco
+- Portugal
+- Spain
+- United States
+people:
+- Andy Brown
+- Bill Shankly
+- Donald Trump
+- Gianni Infantino
+- Nick Potts
+organisations:
+- Accrington Stanley
+- Crewe Alexandra
+- FIFA
+- Green Party
+- Infantino
+- LIV
+- Liverpool
+- Manchester United
+- Sheffield Wednesday
+- UEFA
 ---
 
 # FIFA needs to start behaving like fans and players matter or else it’ll have nothing left to sell - Andy Brown

@@ -13,6 +13,17 @@ categories:
 - Arts & Culture
 - Film & TV
 image: https://mmo.aiircdn.com/409/6aa90831ce410eee242.jpg
+locations:
+- Harrogate
+people:
+- Fiona Georgiou Hunt
+- James Reilly
+- Katherine Andrew
+- Short
+- Susan
+- Sweet
+organisations:
+- Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa90831ce410eee242.jpg)

@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Arncliffe
+- Broughton Hall
+- Darrowby
+- Devonshire
+- Grassington
+- Green Dragon Inn
+- Hardraw
+- Kettlewell
+- North Yorkshire Moors Railway
+- Ripley Castle
+- Skeldale House
+- Yorkshire Dales
+people:
+- Anna Madeley
+- Callum Woodhouse
+- Caolan McCarthy
+- Darrowby
+- Granville Bennett
+- Helen Herriot
+- James Herriot
+- Mrs Hall
+- Nicholas Ralph
+- Rachel Shenton
+- Samuel West
+- Siegfried Farnon
+- Tristan Farnon
+organisations:
+- All Creatures Great
+- Channel 5
+- Darrowby Ironmongers
+- G F Endleby
+- Grassington
+- Small
+- TV
+- The Drovers Arms
+- The Stripey Badger
+- Walker's Bakery
+- Yorkshire Dales
 ---
 
 *(Image: CHANNEL5)*

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Jefferson Parish
+- Kansas City
+- Kenner
+- Louisiana
+- Missouri
+- New Orleans
+people:
+- Adan Manzano
+- Bradley Phillips
+- Christian Anderson
+- Danette Colbert
+- Jenny Voss
+- Purpura
+- Rickey White
+organisations:
+- Telemundo
 ---
 
 A woman was convicted of negligent homicide Thursday in the death of a Telemundo television reporter who had been visiting New Orleans to cover the Super Bowl.

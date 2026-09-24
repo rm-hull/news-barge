@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Health & Fitness
 - Technology & Software
+locations:
+- Munich
+- US
+people:
+- Ahmed El-Medany
+- Prof Fu Siong Ng
+- Sonya Babu-Narayan
+organisations:
+- AI ECG
+- BHF
+- British Heart Foundation
+- European Society of Cardiology
+- Imperial College London
+- Institute of Science Tokyo
+- University of Tokyo
 ---
 
 Doctors have developed a “superhuman” AI tool that can spot heart disease in less than two seconds.

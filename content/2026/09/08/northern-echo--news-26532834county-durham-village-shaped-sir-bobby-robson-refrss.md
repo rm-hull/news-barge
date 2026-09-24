@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Durham City
+- England
+- Langley Park
+- North East
+- Sacriston
+people:
+- Billy Elliot
+- Bobby Robson
+- Denise Welch
+- Kevin Keegan
+- Steph Houghton
+organisations:
+- Barcelona
+- County Durham
+- Ipswich Town
+- Langley Park Juniors
+- Langley Park Sports and Social Club
+- Loose Women
+- Newcastle FC
+- Newcastle United
+- PSV Eindhoven
+- Porto
+- Real Mallorca
+- Ripping Yarns
+- Sporting Lisbon
+- The Fast Show
+- Three Lions
 ---
 
 Few figures are as closely associated with North East football as Sir Bobby Robson, but before he managed England, Newcastle United and Barcelona, he spent much of his childhood in a County Durham pit village.

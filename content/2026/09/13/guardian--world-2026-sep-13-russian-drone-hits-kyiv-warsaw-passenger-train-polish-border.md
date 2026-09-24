@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Chelm
+- Donetsk
+- Dorohusk-Yahodyn
+- Europe
+- Kyiv
+- Lithuania
+- Middle East
+- Moscow
+- Mykolaiv
+- Poland
+- Poland-Ukraine
+- Russia
+- US
+- Vilnius
+- Warsaw
+- Western Ukraine
+people:
+- Andrii Sybiha
+- Boris Johnson
+- David Petraeus
+- Donald Trump
+- Donald Tusk
+- Katerina Sergatskova
+- Marcin Kierwiński
+- Putin
+- Radosław Sikorski
+- Shahed
+- Volodymyr Zelenskyy
+- X.
+organisations:
+- CIA
+- Daily Humanity
+- EU
+- Nato
+- Telegram
+- Ukrainian Railways
+- Zelenskyy
 ---
 
 A train carrying Boris Johnson and the former CIA chief David Petraeus may have been the target of a Russian drone strike that hit a train engine near the Poland-Ukraine border, according to Ukrainian Railways.

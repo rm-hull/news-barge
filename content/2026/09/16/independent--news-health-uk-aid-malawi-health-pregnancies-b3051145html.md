@@ -13,6 +13,25 @@ image: https://static.independent.co.uk/2026/09/16/11/1247429007..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Europe
+- Malawi
+- UK
+people:
+- Ian Mitchell
+- Rajiv J. Shah
+organisations:
+- CGD
+- Center for Global Development
+- Commonwealth and Development Office
+- FCDO
+- Rockefeller Foundation
+- The Independent
+- The Rockefeller Foundation
+- UN
+- World Bank
+- World Health Organisation
 ---
 
 UK aid to Malawi provided essential healthcare to more than three million people and prevented more than two million unintended pregnancies over 15 years, according to a new analysis of government reports that has been shared exclusively with *The Independent*.

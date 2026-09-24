@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- America
+- Austin
+- Brooklyn
+- New York City
+- Texas
+- Washington Square Park
+people:
+- Amadeo Fusca
+- Zohran Mamdani
+organisations:
+- NBA
+- New York Knicks
+- Report for America Statehouse News Initiative
+- Sonder
+- The Associated Press
+- ___ Wilder
 ---
 
 Hundreds of people gathered near New York City's popular Washington Square Park Sunday to judge a Mayor Zohran Mamdani look-alike contest.

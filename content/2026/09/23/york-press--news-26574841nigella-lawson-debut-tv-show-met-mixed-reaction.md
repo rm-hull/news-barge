@@ -12,6 +12,33 @@ categories:
 - York
 - Film & TV
 image: https://www.yorkpress.co.uk/resources/images/21338954.jpg?type=og-image
+locations:
+- Hollywood
+- PA
+- Venice
+- York
+people:
+- Alison Hammond
+- Anne McCrickard
+- Dame Prue Leith
+- Giuseppe Dell'Anno
+- Ms Lawson
+- Nigella Lawson
+- Noel Fielding
+- Paul Hollywood
+- Sean Dempsey
+organisations:
+- BBC Radio 4
+- Channel 4
+- Digital Spy
+- Grape Lane
+- Independent
+- Maude & Tommy
+- One Hundred Stars
+- TV
+- The Great British
+- The Telegraph
+- Today
 ---
 
 *(Image: Sean Dempsey/PA)*

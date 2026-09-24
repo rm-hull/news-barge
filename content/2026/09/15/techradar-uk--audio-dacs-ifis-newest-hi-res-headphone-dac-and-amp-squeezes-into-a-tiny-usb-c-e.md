@@ -12,6 +12,24 @@ description: The iFi Go cable manages to fit a DAC/headphone amp into one small 
 image: https://cdn.mos.cms.futurecdn.net/x25Ud6DFm6s5V3mQ7vsmaN-2400-80.jpg
 categories:
 - Technology & Software
+locations:
+- USB-C
+people:
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- ESS Sabre DAC
+- GamesRadar
+- Go Cable
+- Google News
+- Gryphon4
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- iFi Go Cable
 ---
 
 ![The iFi Go Cable coiled by a laptop.](https://cdn.mos.cms.futurecdn.net/x25Ud6DFm6s5V3mQ7vsmaN.jpg) 

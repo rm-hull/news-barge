@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21482228.jpg?type=og-image
+locations:
+- Fleet Moss Road
+- Keld
+- Kidstones Pass
+- North Yorkshire
+- The Stang
+people:
+- Annabel Wilkinson
+- Buttertubs Pass
+- Kirkby Stephen
+organisations:
+- North Yorkshire Council
+- Outwood Academy Ripon
+- Richmond School
+- Ripon Grammar School
+- STAG
+- School Transport Action Group
+- St Francis Xavier School
 ---
 
 North Yorkshire Council has launched a fresh consultation on its controversial school transport policy — prompting campaigners to question whether the authority will listen to residents this time.

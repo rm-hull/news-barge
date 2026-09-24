@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- High Street
+- Queensbury
+people:
+- Holly Marshall
+organisations:
+- Facebook
+- Holly Marshall
+- Instagram
+- Marshall's Bakehouse
+- Marshall’s Bakehouse
+- Queensbury Celtic
+- Telegraph & Argus
 ---
 
 *(Image: Holly Marshall)*

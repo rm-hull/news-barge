@@ -14,6 +14,15 @@ categories:
 - Germany
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Germany
+- Munich
+- Oktoberfest
+- Vomit Hill
+people:
+- Neben dem Kotzhügel
+- auf dem Festivalgelände mehrere Bierleichen
+organisations: []
 ---
 
 **What does* Bierleiche*mean?**

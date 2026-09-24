@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bedale
+- Darlington
+- London
+- UK
+people:
+- David Mulcahy
+- Mark Birchall
+- Pope Leo
+- Ruth Hansom
+organisations:
+- BBC
+- Craft Guild of Chefs
+- Darlington
+- Europa League
+- Hansom Restaurant
+- Le Cordon Bleu
+- Moor Hall
+- Sunderland
 ---
 
 *(Image: Craft Guild of Chefs)*

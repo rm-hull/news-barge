@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Columbus
+- Hamden
+- Ohio
+- Vinton County
+people:
+- Andy Wilson
+- Christina Siders
+- Dorian Baum
+- Elizabeth Siders
+- Gary Siders Jr.
+- Gary Siders Sr.
+- Ryan Cain
+- William Archer
+organisations:
+- Gallia County Children's Services
+- Gallia County Children’s Services
+- Ohio Virtual Academy
 ---
 
 An Ohio grandfather accused of keeping 16 of his grandchildren trapped in a filth-ridden 'house of horrors' has been declared mentally unfit to face trial over the horrific neglect.

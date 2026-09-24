@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21479938.jpg?type=og-image
+locations:
+- Micklow Close
+- Middlesbrough
+- Redcar
+people:
+- Cameron George
+- Francis Laird
+organisations:
+- A66
+- Cleveland Police
+- NORTH NEWS
+- Recorder of Middlesbrough
+- Teesside Crown Court
 ---
 
 *(Image: NORTH NEWS)*

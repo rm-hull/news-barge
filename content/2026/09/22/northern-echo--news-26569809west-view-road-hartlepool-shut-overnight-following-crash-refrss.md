@@ -14,6 +14,16 @@ categories:
 - Travel
 - Automotive
 image: https://www.thenorthernecho.co.uk/resources/images/21484305.jpg?type=og-image
+locations:
+- Cleveland Road
+- Hartlepool
+- Old Cemetery Road
+- Ropery Road
+- West View Road
+people: []
+organisations:
+- Admiral Court Care Home
+- Cleveland Police
 ---
 
 *(Image: google)*

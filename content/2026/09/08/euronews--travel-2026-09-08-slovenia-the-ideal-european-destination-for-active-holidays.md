@@ -12,6 +12,43 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- '## Alpine lakes'
+- '## Bovec'
+- '## Ljubljana'
+- '## Škocjan'
+- Alpine lake
+- Balkans
+- Bled
+- Boka
+- Central Market
+- Cerkvenik Bridge
+- David del Valle
+- Dragon Bridge
+- Europe
+- Italy
+- Julian Alps
+- Kanin massif
+- Kranjska Gora
+- Krnsko Jezero**
+- Lake Bohinj
+- Ljubljana Castle
+- Ljubljanica
+- Postojna Caves
+- Postojna Slovenia
+- Reka river
+- Soča river
+- Switzerland
+- Triglav National Park
+- Virje
+- Škocjan Caves
+people:
+- '## Bled'
+- Jason
+- Sella Nevea
+organisations:
+- Argonauts
+- WTTC
 ---
 
 **David del Valle**

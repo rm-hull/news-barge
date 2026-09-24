@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Brazil
+- Cascais
+- England
+- Portugal
+- Switzerland
+- Tires Aerodrome
+people:
+- '** Ecclestone'
+- Bernie Ecclestone
+organisations:
+- F1
+- Formula 1
+- Liberty Media
+- Press Association
 ---
 
 ![Former F1 chief executive Bernie Ecclestone](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8c87/live/9f47d240-aadb-11f1-aa35-df10e5ff32f4.jpg)

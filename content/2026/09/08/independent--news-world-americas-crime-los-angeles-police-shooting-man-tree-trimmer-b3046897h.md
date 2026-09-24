@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Boyle Heights
+- Los Angeles
+- Zimran Canas’
+people:
+- Mike Bland
+- Zimran Canas
+organisations:
+- KABC
+- LAPD
+- LAPD’s Force Investigation Division
+- Los Angeles Police Department
+- The Independent
 ---
 
 Los Angeles police have fatally shot a man who allegedly threatened them with a tree trimmer.

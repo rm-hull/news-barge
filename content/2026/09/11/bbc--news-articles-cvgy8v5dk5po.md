@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Australia
+- Coliseum
+- Hertfordshire
+- Herts
+- Isle of Gigha
+- Italy
+- Sarratt
+- Scotland
+- Southwark Crown Court
+- Sydney
+- UK
+- West End
+people:
+- Brian May
+- Bruno Tonioli
+- Jimmy Carr
+- Kirsty O'Donnell
+- Lizzie Loveridge
+- Malcolm Potier
+- Mick Jagger
+- Rod Stewart
+organisations:
+- London Coliseum
+- Potier
+- Rolling Stones
 ---
 
 ![Malcolm Potier wearing a black jacket, dark red scarf and black hat. He appears to be at a bonfire night event in the evening. People are behind him holding items that are alight.](https://ichef.bbci.co.uk/ace/standard/692/cpsprodpb/c8bf/live/e6039d60-ad0e-11f1-a035-c91dffce51bf.jpg)

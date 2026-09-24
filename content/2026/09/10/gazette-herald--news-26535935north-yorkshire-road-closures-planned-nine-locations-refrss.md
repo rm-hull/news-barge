@@ -13,6 +13,37 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Allerston
+- Binnington Ness
+- Bondgate
+- Gray Lane
+- Helmsley
+- Hovingham
+- Keldholme
+- Kington
+- Langton Road
+- Market Place
+- North Lodge
+- North Yorkshire
+- Norton
+- Partings Farm
+- Pickering
+- Staxton Hill
+- Wass
+- Weasdale
+- Whitby Road
+- Wilton Road
+- YOUR
+- publicnoticeportal.uk
+people:
+- Yan Brow
+organisations:
+- Ampleforth
+- Jerry Carr Bank
+- North Yorkshire Council
+- Potticar Bank
+- Public Notice Portal
 ---
 
 *(Image: The Press)*

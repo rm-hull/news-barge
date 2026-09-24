@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Harrogate
+people:
+- Enzo Ferrari
+organisations:
+- F40
+- Ferrari
+- Yorkshire Hotel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa405c9729889ebcae.jpg) 

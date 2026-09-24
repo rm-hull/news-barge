@@ -12,6 +12,21 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Cowdray Estate
+- New Zealand
+- Petworth
+- West Sussex
+people:
+- Harry Revell
+- Lily
+organisations:
+- Air Ambulance Kent Surrey Sussex
+- Auckland Polo Club
+- Cowdray Park Polo Club
+- Hurlingham Polo Association
+- Instagram
+- Three Moles
 ---
 
 A popular polo player has died after an accident during a tournament in West Sussex.

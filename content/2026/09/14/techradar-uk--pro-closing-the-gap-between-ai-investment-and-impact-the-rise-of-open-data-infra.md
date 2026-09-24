@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Fivetran
+people: []
+organisations:
+- AI
+- CIOs
+- Future plc
+- Gartner
+- ODI
+- Open Data Infrastructure
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A long corridor with a sleek black floor, glowing green lights in the ceiling and rows of LEDS on either wall](https://cdn.mos.cms.futurecdn.net/EXMLBYo5k7EwcuyYg9vmmM.jpg) 

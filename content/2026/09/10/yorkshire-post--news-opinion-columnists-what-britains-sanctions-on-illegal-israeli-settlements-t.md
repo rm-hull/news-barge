@@ -17,6 +17,24 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Britain
+- Canada
+- Downing Street
+- France
+- Middle East
+- UK
+- US
+- United States
+- West Bank
+- White House
+people:
+- Donald Trump
+- Ed Miliband
+- James Manning
+- Rosh Hashana
+organisations:
+- Government
 ---
 
 # What Britain’s sanctions on illegal Israeli settlements tell us about the shifting world order

@@ -11,6 +11,37 @@ image: https://cdn.mos.cms.futurecdn.net/jToMQkVtCT4v6DQDUDWWxC-1920-80.png
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Beijing
+- China
+- East Asia
+- Moscow
+- Pacific
+- Russia
+- U.S.
+- UK
+- US
+- Ukraine
+- Washington
+- West
+people:
+- David Albright
+- Dennis Wilder
+- Donald Trump
+- Kurt Campbell
+- Kyiv
+- Putin
+- Xi Jinping
+organisations:
+- Alabuga-Volokno
+- CIA
+- Efosa
+- Google News
+- Jilin Chemical Fiber Group
+- Kiel Institute
+- Rosatom
+- TechRadar Pro
+- Ukrainian Security and Cooperation Centre
 ---
 
 ![Putin and Xi shaking hands](https://cdn.mos.cms.futurecdn.net/jToMQkVtCT4v6DQDUDWWxC.png) 

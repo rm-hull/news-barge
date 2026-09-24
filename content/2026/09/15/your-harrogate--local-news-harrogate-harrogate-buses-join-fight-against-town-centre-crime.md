@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://mmo.aiircdn.com/409/6aa90b86d90b71c2ef3.jpg
+locations:
+- Harrogate
+people:
+- Kel Pizzuti
+- Paul Evans
+organisations:
+- CCTV
+- Duty Managers
+- Harrogate BID
+- Harrogate BID Business Crime
+- Harrogate Bus Company
+- Pub Watch
+- Purple Flag
+- ShopSafe Alert
+- Transdev
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa90b86d90b71c2ef3.jpg)

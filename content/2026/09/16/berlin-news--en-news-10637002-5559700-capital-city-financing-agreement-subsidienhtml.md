@@ -14,6 +14,21 @@ categories:
 - Germany
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Berlin
+- Philharmonie
+people:
+- Wolfram Weimer
+organisations:
+- Bauhaus Archive
+- Berlin Philharmonic
+- Capital City Culture Fund
+- Deutsche Oper
+- Komische Oper
+- Opera Foundation
+- Staatsoper Unter den Linden
+- State Ballet
+- State for Culture
 ---
 
 The agreement stipulates that the federal government will provide 2.9 billion euros to Berlin’s cultural institutions over ten years – an increase of around 350 million euros. “We are strengthening outstanding musical institutions, honouring the Bauhaus legacy, further developing Checkpoint Charlie as a place of remembrance and education, and safeguarding the diversity of Berlin’s cultural landscape through the Capital City Culture Fund,” said Wolfram Weimer, Minister of State for Culture. Existing funding is to be either continued or increased. According to the information provided, more money will be allocated to the Berlin Philharmonic and the Opera Foundation, which includes, amongst others, the Deutsche Oper, the Komische Oper, the Staatsoper Unter den Linden and the State Ballet. In addition, the federal government has pledged to contribute up to 225 million euros towards the refurbishment of the Philharmonie. The Bauhaus Archive will receive new funding.

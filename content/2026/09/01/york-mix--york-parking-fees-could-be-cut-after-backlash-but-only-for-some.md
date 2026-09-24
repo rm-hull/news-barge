@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Bishopthorpe Road
+- Heworth
+- Micklegate
+- The Groves
+- UK
+- York
+people:
+- Cllr Kate Ravilious
+- Cllr Ravilious
+- Helene Vergereau
+organisations:
+- Arup
+- BID
+- Badges
+- City of York Council
+- Labour
+- Minster Badge
+- The Groves
+- York Business Improvement District
+- York Minster Badge
 ---
 
 Proposals to cut some parking charges in York have been unveiled after a review of the highly controversial price hikes.

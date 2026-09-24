@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Sports
+locations: []
+people:
+- Dan Savage
+organisations:
+- Acomb Parish Church Hall
+- Church Oasis Youth and Kids
+- St Stephen
 ---
 
 *(Image: Supplied)*

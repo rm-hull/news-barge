@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- 1900s Town
+- 1950s Town
+- Beamish Museum
+- Beamish’s 1900s Town
+- County Durham
+- DH9 0RG
+- North East
+- Pit Village
+- Redman Park Bandstand
+- Regional Resource Centre
+- Rowley Station
+- Stanley
+people:
+- Tina Gharavi
+organisations:
+- '## Brass'
+- Bank Holidays
+- Beamish Museum
+- Beamish Museum Beamish
+- Bearpark
+- Esh Colliery Band
+- Living Museum of the North
+- NHS Clinic
+- NORTHERN ECHO
+- North East Concert Band
+- Redman Park Bandstand
+- Town Music
 ---
 
 *(Image: Beamish)*

@@ -11,6 +11,36 @@ description: We go hands-on with an extended section of the next Silent Hill rel
 image: https://cdn.mos.cms.futurecdn.net/b64j2ZpVKbiqVFijyLfutM-2560-80.png
 categories:
 - Technology & Software
+locations:
+- CvN3dP92wxU
+- Gamescom
+- Glasgow
+- North Sea
+- St. Amelia
+people:
+- Alan Wen
+- Guillermo Del Toro
+- Hideo Kojima
+- Jovan Adepo
+- Simon Ordell
+organisations:
+- CRTV
+- Digital Spy
+- Edge
+- FANDOM
+- Games TM
+- GamesMaster
+- Gamescom
+- Google News
+- Konami
+- Kotaku UK
+- Official Playstation Magazine
+- Rock Paper Shotgun
+- Screen Burn Interactive
+- Stuff
+- TechRadar
+- The Guardian
+- The Telegraph
 ---
 
 ![Silent Hill: Townfall promotional imagery.](https://cdn.mos.cms.futurecdn.net/b64j2ZpVKbiqVFijyLfutM.png) 

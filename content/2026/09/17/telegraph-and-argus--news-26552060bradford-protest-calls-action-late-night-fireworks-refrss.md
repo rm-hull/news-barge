@@ -13,6 +13,29 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Norfolk Gardens
+- UK
+people:
+- Cllr Ahmed
+- Diwali
+- Frizinghall
+- Heaton
+- Inayah Sher
+- Ishtiaq Ahmed
+- Jennifer Peers
+- Rose
+- Shahid Islam
+- Wayne Richardson
+organisations:
+- Bradford Council
+- Bradford Institute for Health Research
+- Department for Business & Trade
+- Government
+- Green Party
+- T&A
+- West Yorkshire Trading Standards
 ---
 
 *(Image: T&A)*

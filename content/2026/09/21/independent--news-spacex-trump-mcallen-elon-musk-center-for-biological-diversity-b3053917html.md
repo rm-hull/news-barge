@@ -13,6 +13,23 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/00/SpaceX_Texas_52258.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gulf Coast
+- Lower Rio Grande Valley National Wildlife Refuge
+- Mexico
+- South Texas
+- U.S.
+people:
+- Elon Musk
+- Fernando Rodriguez Jr.
+- Laiken Jordahl
+organisations:
+- Center for Biological Diversity
+- Fish and Wildlife Service
+- SpaceX
+- Starbase
+- Trump
+- U.S. Fish and Wildlife Service
 ---
 
 A federal judge on Monday refused to block the Trump administration from giving SpaceX more than 700 acres (280 hectares) of wildlife refuge as part of a land swap in Texas, while environmental groups vowed to continue their legal challenge.

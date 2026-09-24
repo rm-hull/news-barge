@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- North Yorkshire
+- Scalby Road
+- Scarborough
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Supplied)*

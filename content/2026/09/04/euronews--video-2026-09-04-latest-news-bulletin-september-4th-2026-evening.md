@@ -12,6 +12,43 @@ image: https://images.euronews.com/articles/stories/09/90/20/76/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgrade
+- Boston
+- Dublin
+- Europe
+- Falkland Islands
+- Gdańsk
+- Germany
+- Ireland
+- Islas Malvinas
+- Kyiv
+- Madrid
+- Mount Tumbledown
+- North Carolina
+- Serbia
+- Spain
+- Stanley
+- US
+- Wolfsburg
+- Zaporizhzhia
+people:
+- Andrea Comas
+- Gillian Anderson
+- Hannah Einbinder
+- Ratko Mladic
+- Scott Bessent
+- Sergii Marchenko
+- Vladimir Putin
+organisations:
+- Antonio López-Istúriz White
+- Euronews
+- European People's Party
+- General Affairs Council
+- London Ambulance Service
+- US Treasury
+- VW
+- Volkswagen
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

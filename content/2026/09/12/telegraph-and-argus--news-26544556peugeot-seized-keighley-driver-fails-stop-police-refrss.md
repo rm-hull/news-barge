@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Alston Retail Park
+- Bradford Road
+- Keighley
+people: []
+organisations:
+- '## Police'
+- Keighley Neighbourhood Policing Team
+- Peugeot
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

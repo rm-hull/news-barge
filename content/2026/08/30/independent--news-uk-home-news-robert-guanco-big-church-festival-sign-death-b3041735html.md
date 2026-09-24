@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Eastbourne
+- Steyning
+- West Sussex
+people:
+- '**“** Pastor Robert'
+- Ellie
+- God
+- Isay
+- Norman Ponce
+- Richard McDonagh
+- Robert Guanco
+organisations:
+- Health and Safety Executive
+- Jesus the Living Water Church Eastbourne
+- Jesus the Living Water World Wide Church
+- South East Coast Ambulance Service
+- Sussex Police
 ---
 
 A 41-year-old pastor who died after a heavy sign fell onto people at a Christian festival has been named by his church.

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Channel
+- Dover
+- Kent
+- Portsmouth
+- UK
+- Walmer
+people:
+- Dan
+- Paula
+- Peter Sparkes
+organisations:
+- HM Coastguard
+- RNLI
+- UK Border Force
 ---
 
 The lifeboat charity RNLI has vowed to continue to rescue asylum seekers in the Channel despite attacks on volunteers and staff after the recent high-profile small boat landings.

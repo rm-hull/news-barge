@@ -15,6 +15,42 @@ categories:
 - Sports
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21064214.jpg?type=og-image
+locations:
+- Atlantic
+- Broadway
+- Buckingham Palace
+- Chicago
+- North Yorkshire
+- Scarborough
+- WEST End
+- West End
+people:
+- Alfie Boe
+- Cuffe
+- Elphaba
+- Glinda
+- Jean Valjean
+- Joseph
+- Julian Murray
+- Kerry Ellis
+- Louise Dearman
+- Rachel Tucker
+- Taylor
+organisations:
+- '![]()Gravity'
+- '## Star'
+- Cuffe & Taylor
+- Les Misérables
+- Miss Saigon
+- OAT
+- Oliver!
+- Queen’s Diamond Jubilee
+- Royal College of Music
+- Royal Opera House
+- Scarborough Open Air Theatre
+- Sunset Boulevard
+- The Great Gatsby
+- West End
 ---
 
 ## Star 'adored by fans of musical theatre' set for show in iconic North Yorkshire venue

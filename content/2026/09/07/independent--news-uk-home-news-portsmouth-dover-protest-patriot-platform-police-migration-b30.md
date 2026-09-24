@@ -14,6 +14,45 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Bournemouth
+- Calais
+- Cherbourg
+- Dover
+- England
+- English Channel
+- Hampshire
+- Isle of Wight
+- Poole
+- Portsmouth
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+- Donna Jones
+- Keir Starmer
+- Lord Walney
+- Mihnea Cuibus
+- Nick Lowles
+- Nigel Farage
+- Sarah Jones
+- Steve Pitt
+- Sue Dewey
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- Commons
+- HOPE
+- Hampshire
+- Home Office
+- House
+- Isle of Wight
+- Kent
+- Patriot Platform
+- Political Violence and Disruption
+- Reform UK
+- The Independent
+- University of Oxford’s Migration Observatory
 ---
 
 Police officers were injured and vehicles damaged when a second major anti-migrant protest turned violent as fears grow over further far-right unrest and disorder across the UK.

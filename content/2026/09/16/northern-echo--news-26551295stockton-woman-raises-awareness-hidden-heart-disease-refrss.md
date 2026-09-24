@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Ingleby Barwick
+- Stockton
+- Tyne Tunnel
+people:
+- Cam
+- Dad
+- Dave Aspery
+- Man
+- Phoebe Aspery
+- Rupert
+organisations:
+- CPR
+- Fire Brigade
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- Heart Research UK
+- Mine Rescue
+- NHS
+- Navy
+- North East Ambulance Service
 ---
 
 A Stockton woman is raising awareness of hidden heart conditions after her father died of a sudden heart attack.

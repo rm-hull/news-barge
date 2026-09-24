@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bangsamoro Autonomous Region
+- Malaysia
+- Muslim Mindanao
+- Philippines
+- Southeast Asia
+- Spain
+- U.S.
+people:
+- David Diciano
+- Erwin Garcia
+- Michael Henry Yusingco
+organisations:
+- Access Bangsamoro
+- Ateneo Policy Center
+- BARMM
+- Commission on Elections
+- Institute for Autonomy and Governance
+- Moro Islamic Liberation Front
 ---
 
 Voters in an autonomous southern Philippine region will cast their ballots Monday in the region's first parliamentary elections, seen as a crucial step in the quest for self-determination and lasting peace after decades of insurgency and violence.

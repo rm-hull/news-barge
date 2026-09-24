@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Durham River Walk
+- North East
+- North Yorkshire
+- UK
+people:
+- Dad
+organisations:
+- Howdy Durham!
+- IVF
+- Kitchen
+- LEGO
+- Mayfair Durham
+- Mayfair Pub
+- St Teresa’s Hospice
+- Teesside
 ---
 
 Cowboy boots and country tunes are set to take over a city centre pub for a night of line dancing fun.

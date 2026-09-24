@@ -11,6 +11,19 @@ description: ChatGPT filtered my inbox all afternoon, and only three emails made
 image: https://cdn.mos.cms.futurecdn.net/sQdG76fgbnKWhaKwUGbUBm-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- New York City
+people:
+- ChatGPT
+- Eric Hal Schwartz
+organisations:
+- AI
+- ChatGPT Work
+- Gmail
+- Google Gemini
+- Google News
+- TechRadar
+- Voicebot.ai
 ---
 
 ![ChatGPT and Gmail on a mobile phone.](https://cdn.mos.cms.futurecdn.net/sQdG76fgbnKWhaKwUGbUBm.jpg) 

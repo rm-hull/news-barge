@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Darlington
+- Europe
+- Symmetry Park
+people:
+- Ann Ming
+- David Carbon
+organisations:
+- Amazon Prime
+- Amazon Prime Air
+- Black Mirror
+- Darlington
+- Echo
+- Prime Air
 ---
 
 *(Image: ANDY FUTERS)*

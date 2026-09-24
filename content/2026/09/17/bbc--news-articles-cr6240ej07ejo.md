@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Canada
+- Dublin
+- UK
+people:
+- John Healey
+- Keir Starmer
+- Rachel Reeves
+organisations:
+- BBC
+- Brexit
+- Budget
+- DSRB
+- Defence, Security and Resilience Bank
+- EU
+- European Union
+- Houses of Parliament.
+- IAA
+- Treasury
+- UK-EU
 ---
 
 ![John Healey smiles while wearing a suit and red tie.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/68b5/live/362ff930-b2e3-11f1-bc1f-3f186ca4140c.jpg)

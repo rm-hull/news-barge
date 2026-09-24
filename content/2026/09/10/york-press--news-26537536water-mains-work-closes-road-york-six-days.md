@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Granville Terrace
+- Landsdowne Terrace
+- York
+people: []
+organisations:
+- City of York Council
+- Newsquest
 ---
 
 *(Image: Newsquest)*

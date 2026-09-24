@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Film & TV
+locations: []
+people:
+- '## Nicola Wheeler'
+- Chris Coghill
+- God
+- Jimmy King
+- Kev Townsend
+- Nick Miles
+- Nick Miles Wheeler
+- Nicola Wheeler
+organisations:
+- Emmerdale
+- ITV
 ---
 
 *(Image: YouTube/ITV)*

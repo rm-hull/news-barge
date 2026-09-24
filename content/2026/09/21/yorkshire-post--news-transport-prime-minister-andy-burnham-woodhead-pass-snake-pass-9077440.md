@@ -15,6 +15,30 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNiMDM0MGNiLTUwZWMtNDI1Ny1iM2Q4LWMyZWEwMzA0NGE1ODozOTM5MjM5Zi05ZTUxLTQwYzgtYTExMC1mZDJkMTgxNGVkNTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- A628 Woodhead Pass Road
+- Greater Manchester
+- Manchester Airport
+- Manchester-Sheffield
+- National Highways
+- Northern Powerhouse Rail
+- Pennines
+- Sheffield
+- Snake Pass
+- Woodhead Pass
+- Woodhead Reservoir
+people:
+- Andy Burnham
+- Oliver Coppard
+- Woodhead Pass
+organisations:
+- Bee Network
+- Derbyshire Council
+- Derbyshire County Council
+- National Highways
+- Ridiculous'
+- Sheffield
+- The Yorkshire Post
 ---
 
 # 'Ridiculous' - Prime Minister Andy Burnham promises action over 'crumbling' Woodhead Pass and Snake Pass

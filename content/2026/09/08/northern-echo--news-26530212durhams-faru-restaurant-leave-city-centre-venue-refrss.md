@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Barnard Castle
+- Darlington
+- Durham Faru
+- Newcastle
+- Silver Street
+people:
+- Faru
+- Jake Siddle
+- Laura Siddle
+- McDonald
+- Owners Jake
+- Sophia Mercer
+- Sous Chef Liam Cavana
+organisations:
+- Covid
+- Faru
+- House of Tides
 ---
 
 A fine dining restaurant is preparing to leave its city centre home after three years.

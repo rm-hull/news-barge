@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Australia
+- Canada
+- Ireland
+- U.K.
+- U.S.
+people:
+- Amy Ellis Durini
+- Sanders
+- Valier Kubizniak
+organisations:
+- Boba Refreshers
+- Chick-fil-A
+- Durini
+- KFC
+- Pizza Hut
+- Raising Cane’s
+- Restaurant Dive
+- Yum Brands
+- Yum Brands —
 ---
 
 KFC has appointed its first-ever global chief brand officer as the fast-food chain looks to make a comeback amid fierce competition.

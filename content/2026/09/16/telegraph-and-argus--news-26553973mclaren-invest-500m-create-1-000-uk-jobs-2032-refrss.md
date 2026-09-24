@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Catcliffe
+- Middle East
+- South Yorkshire
+- Surrey
+- UK
+- Ukraine
+- Woking
+people:
+- Andy Burnham
+- Jonathan Reynolds
+- Louise Haigh
+- Nick Collins
+organisations:
+- AMRC
+- Advanced Manufacturing Research Centre
+- Rotherham McLaren
+- Surrey
+- University of Sheffield
+- Yorkshire
 ---
 
 *(Image: PA)*

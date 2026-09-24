@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Banbury
+- Devon
+- England
+- Enhertu
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Anne Rigg
+- Claire Rowney
+- Grace
+- Helen Knight
+- Kathryn Hulland
+- Ms Hulland
+- Paula Van Santen
+- Tom Keith-Roach
+- Van Santen
+organisations:
+- Astra Zeneca
+- AstraZeneca
+- Charity Breast Cancer Now
+- Daiichi Sankyo
+- Enhertu
+- NHS England
+- National Institute for Health and Care Excellence
+- Nice
 ---
 
 Breast cancer patients have said they are "thrilled" after the health spending watchdog approved a life-extending drug for NHS use.

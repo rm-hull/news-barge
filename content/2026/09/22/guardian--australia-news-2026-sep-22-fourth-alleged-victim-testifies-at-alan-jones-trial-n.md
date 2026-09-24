@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/2c92780dac87f6f8a1e6c5ef284e161d7d8786aa/360_127_2277_1821/master/2277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=268c4fb81b45234e0897f78c485c8b93
+locations:
+- Downing Centre
+- Sydney
+people:
+- Alan Jones
+- Kate McClymont
+organisations:
+- Sydney Morning Herald
+- Wallabies
 ---
 
 An executive has testified in a Sydney court that he didn’t react when he was allegedly groped by the talkback titan Alan Jones because he didn’t want to cause a scene.

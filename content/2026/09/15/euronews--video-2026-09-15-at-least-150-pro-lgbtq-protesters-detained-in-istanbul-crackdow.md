@@ -12,6 +12,17 @@ image: https://images.euronews.com/articles/stories/09/91/46/57/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Ankara
+- Istanbul
+- Turkey
+- Çağlayan
+people:
+- '**“Decade'
+- Feride Eralp
+- Recep Tayyip Erdoğan
+organisations:
+- European Union
 ---
 
 Protesters gathered outside the Çağlayan courthouse, chanting for the release of people detained in recent raids. Police surrounded the group and warned that the demonstration was unauthorised before moving in and taking protesters away in police buses. Two journalists were among those detained.

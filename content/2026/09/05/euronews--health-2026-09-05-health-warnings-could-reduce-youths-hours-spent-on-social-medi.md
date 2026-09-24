@@ -12,6 +12,15 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- England
+- Stonehenge
+- Wiltshire
+people:
+- Anna Grummon
+organisations:
+- JAMA Health Forum
+- London Ambulance Service
 ---
 
 ## Pop-up messages that warn of the harms of social media could help reduce youth’s social media use, a new study found.

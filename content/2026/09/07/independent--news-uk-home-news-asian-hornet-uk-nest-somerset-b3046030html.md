@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Ashcott
+- Belgium
+- Channel Islands
+- China
+- East Sussex
+- England
+- France
+- Italy
+- Kent
+- Netherlands
+- Somerset
+- Southeast Asia
+- Spain
+- Street
+- UK
+people:
+- Lynne Ingram
+- Mark White
+- Ms Ingram
+organisations:
+- Asian Hornet Action Team
+- Asian Hornet Watch
+- East Dorset Beekeepers Association
+- Somerset
 ---
 
 Concerns are growing that invasive Asian hornets are expanding their footprint across England following the species' first recorded discovery in a previously unaffected county.

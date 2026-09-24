@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- York
+people:
+- Andy Knowles
+- Jack Woodhams
+organisations:
+- VIP
+- York Against Cancer
+- York Against Cancer and Menfulness
 ---
 
 *(Image: York Against Cancer)*

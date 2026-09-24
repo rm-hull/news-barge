@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - History
+locations:
+- Canada
+- London
+- Netherlands
+- New York
+- Ottawa
+- United States
+- Zeist
+people:
+- Olaf Sleijpen
+organisations:
+- DNB
 ---
 
 ## The transfer was carried out partially by buying and selling and partly by physically transferring gold, the Dutch national bank said.

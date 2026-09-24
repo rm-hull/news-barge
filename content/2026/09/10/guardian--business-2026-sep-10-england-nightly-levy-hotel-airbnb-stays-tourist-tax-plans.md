@@ -14,6 +14,42 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Berlin
+- Blackpool
+- Britain
+- Edinburgh
+- England
+- Lake District
+- Manchester
+- New York
+- North
+- Paris
+- Rome
+- Scotland
+- Tyne Bridge
+- US
+- Wales
+- Westminster
+- Whitehall
+people:
+- Allen Simpson
+- Andy Burnham
+- Angela Rayner
+- Eddie Nelder
+- Keir Starmer
+- Kim McGuinness
+- Raphael Boyd
+- Reeves
+organisations:
+- BBC Radio 4
+- Choice Hotels
+- Holyrood
+- Labour
+- Premier Inn
+- Reform UK
+- Treasury
+- UKHospitality
 ---
 
 Ministers are facing a backlash from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.

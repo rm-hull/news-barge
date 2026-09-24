@@ -13,6 +13,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/16/01M34KH7S25JZ65B1QMH8YGFNZ.jpg?trim=497,0,497,0&width=1200&height=800&crop=1200:800
+locations:
+- Brazil
+- Cullinan Mine
+- Glasgow
+- India
+- London
+- South Africa
+- UK
+people:
+- Elmwood
+- Joe Kendrick
+organisations:
+- Christie’s
+- Elmwood
+- Elmwood’s
+- Sotheby’s
+- Wittelsbach Diamond
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

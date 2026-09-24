@@ -13,6 +13,72 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/f9a7967fb988adda878fb805da809b762da3ae74/467_0_4665_3732/master/4665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e5062fd67511f1d4b680e025dab1bc3
+locations:
+- California
+- China
+- Gulf
+- Iran
+- Pakistan
+- U.S.A.
+- US
+- White House
+people:
+- David Sacks
+- Donald Trump
+- Donald Trump Jr
+- Elizabeth Warren
+- Eric Trump
+- Greg Brockman
+- Hussain Sajwani
+- JD Vance
+- Jacob Coxon
+- Jensen Huang
+- Mark Zuckerberg
+- Michael Dell
+- Mike Johnson
+- Mrinank Sharma
+- Musk
+- Peter Navarro
+- Sam Altman
+- Scott Bessent
+- Susie Wiles
+- Trump Jr
+- Xi Jinping
+organisations:
+- 1789 Capital
+- AI and Data Centers
+- Airbnb
+- American Data Centers Inc
+- Anduril
+- Anduril**,**
+- Anthropic
+- Congress
+- Council of Advisors on Science and Technology
+- Dell
+- Dominari Holdings
+- Foundation Future Industries
+- House
+- Lattice
+- Marine Corps
+- Meta
+- Nvidia
+- OpenAI
+- OpenSecrets
+- Pac
+- Palantir
+- Pentagon
+- Politico
+- Powerus
+- ProPublica
+- Sacks
+- SpaceX
+- Tencent
+- Trump Jr
+- Vulcan Elements
+- Wall Street Journal
+- Washington Post
+- WeChat**,**
+- pro-AI
 ---
 
 Donald Trump’s sons, through a series of AI-linked defense and technology ventures, have picked up a $620m Pentagon loan, a Marine Corps robotics contract and an undisclosed air force drone deal in the past year. His longtime friend Michael Dell won a Pentagon contract worth nearly $9bn. And this week, as public support for artificial intelligence sinks to some of the lowest levels ever recorded, the president went to bat for the industry. .

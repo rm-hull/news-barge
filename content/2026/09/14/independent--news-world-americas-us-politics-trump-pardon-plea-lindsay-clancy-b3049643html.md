@@ -11,6 +11,17 @@ image: https://static.independent.co.uk/2026/09/14/08/2294613087..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Boston
+- Good Morning America
+people:
+- Kevin Reddington
+- Lindsay Clancy
+- Roni Carlson
+- Trump
+organisations:
+- NBC10 Boston
+- WBZ-TV
 ---
 
 President Trump has indicated that he may not intervene in the Lindsay Clancy case after her attorney publicly called for a pardon.

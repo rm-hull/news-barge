@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Centre Square
+- Hartlepool
+- Middlesbrough
+- Port of Dover
+- Teesside
+people:
+- Emily Harrison
+organisations: []
 ---
 
 *(Image: POLICE)*

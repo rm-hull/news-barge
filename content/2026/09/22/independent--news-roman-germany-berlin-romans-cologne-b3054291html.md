@@ -13,6 +13,22 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/14/Germany_Archaeology__2385.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Cologne
+- Germany
+- LVR-LandesMuseum Bonn
+- Rhine River
+- Rhineland
+- Wesseling
+people:
+- Erich Classen
+- Hadrian
+- Marcus Vipsanius Agrippa
+- Oliver Riedl
+- Rahel Otte
+organisations:
+- Colonia Agrippina
+- LVR Office for the Preservation of Archaeological Monuments
 ---
 
 An amateur archaeologist who discovered several Roman silver coins in a field in western Germany realized he had stumbled upon something bigger when his metal detector kept beeping.

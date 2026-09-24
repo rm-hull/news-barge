@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bishkek
+- Cairo
+- Egypt
+- Gulf Bahrain
+- Iran
+- Islamabad
+- Israel
+- Ittihadiya
+- Jordan
+- Kingdom of Bahrain
+- Kuhestak
+- Kuwait
+- Kyrgyzstan
+- Mashhad
+- Middle East
+- Pakistan
+- Russia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Abbas Araghchi
+- Abdel Fattah el-Sissi
+- Donald Trump
+- Fatemeh Mohajerani
+- Ishaq Dar
+- Masoud Pezeshkian
+- Scott Bessent
+- Shehbaz Sharif
+- Tahir Andrabi
+- Xi Jinping
+organisations:
+- Bahrain Defense Force
+- Bahri
+- Council of Arab Interior Ministers
+- Fars
+- Foreign Ministry
+- Fox & Friends
+- IRNA
+- Iranian Red Crescent
+- SIDR
+- Shanghai Cooperation Organization
+- U.S. Central Command
+- U.S. Treasury
 ---
 
 Iran targeted Gulf allies of the United States on Wednesday, firing drones at Kuwait and Bahrain after a night of U.S. aerial bombardment of Iran.

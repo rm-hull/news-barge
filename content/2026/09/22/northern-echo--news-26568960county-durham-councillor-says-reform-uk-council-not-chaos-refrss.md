@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21482779.jpg?type=og-image
+locations:
+- Bishop Auckland
+- County Durham
+- Kynren
+people:
+- Andrew Husband
+- Cllr Fox
+- Cllr Kinvig
+- John Kinvig
+- Lyndsey Fox
+- SARAH CALDECOTT
+organisations:
+- Durham County Council
+- Police and Crime Commissioner
+- Reform UK
 ---
 
 A Reform UK councillor has rejected claims Durham County Council is in "chaos" after three members quit the party in a single day, including one of his ward colleagues.

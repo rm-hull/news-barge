@@ -10,6 +10,30 @@ description: A Swedish drone picked its own target and bombed it successfully
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg
+locations:
+- Israel
+- Karlskoga
+- Russia
+- United States
+people:
+- Nicole van Rooijen
+- Pål Jonson
+- Rahim Amir
+organisations:
+- AI
+- BAE Systems ALMA
+- BAE Systems Bofors'
+- BAE Systems Bofors' Affordable Loitering Modular Ammunition
+- Convention on Certain Conventional Weapons
+- Google News
+- PC
+- PCs
+- RGB
+- Reuters
+- SFF
+- Scaleout Systems
+- Stop Killer Robots
+- TechRadar Pro
 ---
 
 ![drone](https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S.jpg)

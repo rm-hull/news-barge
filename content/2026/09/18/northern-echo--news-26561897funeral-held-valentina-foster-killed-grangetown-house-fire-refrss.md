@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- South Bank
+- St John's Church
+- Teesside Crown Court
+people:
+- Hoggard
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+- Valentina Foster Valentina Foster
+- Woman
+organisations:
+- Disney
+- FRI
+- NORTH NEWS
+- North News
+- North News They
 ---
 
 *(Image: NORTH NEWS)*

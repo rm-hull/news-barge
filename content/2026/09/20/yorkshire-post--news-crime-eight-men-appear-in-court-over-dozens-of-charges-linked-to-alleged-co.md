@@ -13,6 +13,37 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBlMWI3MGI3LWM3OTAtNDE2Yy04ZDYzLWZjMDhkODNmNjExODowZjYzYTg5Zi0xZDNhLTQ4ZWQtOWFiYi1kNmQ0MTNiNDc0NTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Accrington
+- Bradford Crown Court
+- Bradford Magistrates Court
+- Burton Upon Trent
+- Girlington Road
+- Leylands Lane
+- Magistrates Court
+- Park View Road
+- Royal Gardens
+- Victoria Street
+- Walsall
+- Warrington
+people:
+- Adnan Khan
+- Daniel Burns
+- Kabir Zaman
+- Khalid Mahmood Khan
+- Mohammed Hussain
+- Muhammad Ifraz Amin
+- Muhammed Ihtishaam
+- Mukhtar Ahmed
+- Philip Brown
+- Sadir Hussain
+- Zafar Ali
+organisations:
+- Bradford Crown Court
+- Bradford Magistrates Court
+- Kingfisher Grove
+- Northamptonshire Police
+- RSPCA
 ---
 
 # Eight men appear in court over dozens of charges linked to alleged cockfighting

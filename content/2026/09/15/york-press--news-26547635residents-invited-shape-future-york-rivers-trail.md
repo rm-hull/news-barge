@@ -13,6 +13,18 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- '## York'
+- Homestead Park
+- Leeman Park
+- Museum Gardens
+- Rowntree Park
+- York rivers
+people:
+- Jenny Kent
+- Mark Henderson
+organisations:
+- City of York Council
 ---
 
 ## York rivers trail invites residents to shape its future after reaching 6,000 people

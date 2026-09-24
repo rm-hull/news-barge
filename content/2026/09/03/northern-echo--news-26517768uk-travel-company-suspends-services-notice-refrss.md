@@ -15,6 +15,24 @@ categories:
 - Business & Entrepreneurship
 - Travel
 - Careers & Productivity
+locations:
+- Egypt
+- Japan
+- Maldives
+- Peru
+- UK
+people: []
+organisations:
+- ABTOT
+- Ascend Airways
+- Association of Bonded Travel Organisers Trust
+- EcoJet Airlines
+- European Cargo
+- Gallagher Bassett
+- TG Jones
+- Wayfairer Travel
+- Wayfairer Travel Limited
+- Zenith Aviation Limited
 ---
 
 *(Image: SWNS)*

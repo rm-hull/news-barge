@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bahamas
+- Bridgeport
+- Connecticut
+- Diamantis
+- Florida
+- Greece
+- London
+- U.S.
+- Washington
+people:
+- Biden
+- Donald Trump
+- Konstantinos "Kosta" Diamantis
+- Kosta Diamantis
+- Ned Lamont
+- Norman Pattis
+- Stefan Underhill
+- William Tong
+organisations:
+- Office of School Construction Grants and Review
+- Pattis
 ---
 
 A former high-ranking Connecticut budget authority has fled to Greece using a combination of boat and air travel prior to a federal corruption sentencing, according to statements made by prosecutors and defense counsel to a judge on Thursday.

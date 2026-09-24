@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Brockton
+- Massachusetts
+- Plymouth Superior Court
+people:
+- Callan
+- Cora
+- Dawson
+- Kellie Farina
+- Kevin Reddington
+- Lindsay Clancy
+- Paula Devlin
+- Roni Carlson
+- Timothy Cruz
+organisations:
+- Brockton Police Department
+- CBS News
+- NBC 10
+- Plymouth County District Attorney’s Office
+- Plymouth Superior Court
+- The Independent
 ---
 
 The lone holdout juror in the Lindsay Clancy murder trial was previously accused of domestic violence, according to a report.

@@ -10,6 +10,21 @@ description: I compared ChatGPT and Copilot inside Microsoft Word
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/vVVnt9TvTRixs3LBU3hQaQ-1920-80.jpg
+locations:
+- New York City
+people:
+- Copilot
+- Eric Hal Schwartz
+organisations:
+- ChatGPT
+- Copilot
+- Google Gemini
+- Google News
+- Microsoft Marketplace
+- OpenAI
+- TechRadar
+- The AI
+- Voicebot.ai
 ---
 
 ![Man using laptop and ChatGPT in Word.](https://cdn.mos.cms.futurecdn.net/vVVnt9TvTRixs3LBU3hQaQ.jpg)

@@ -15,6 +15,43 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- North East
+- UK
+people:
+- Chris Skey
+- Evans
+- Kerry Bailey
+- Nani
+- Nöa
+organisations:
+- '## Jadebay Limited'
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- BDO LLP
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- Companies House
+- EcoJet Airlines
+- European Cargo
+- InPost
+- Jadebay Limited
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Nöa & Nani
+- Quiz
+- Raleigh
+- Superdrug
+- TG Jones
+- The Gazette
+- Wayfairer Travel Limited
+- Whitbread
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

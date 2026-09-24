@@ -11,6 +11,22 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- China
+- Spain
+people:
+- Carlos López-Otín
+- Luca Issi
+- Venki Ramakrishnan
+organisations:
+- Frédérique Carrier
+- Head of Investment Strategy
+- LLC Senior Biotechnology Research
+- Nature
+- RBC Capital Markets
+- RBC Wealth Management
+- University of Oviedo
+- World Health Organisation
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/7001_New_Scientist_Image_1350x900px.jpg?w=840)

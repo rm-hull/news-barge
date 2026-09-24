@@ -11,6 +11,39 @@ description: The rise of AI has brought an avalanche of new terms and slang. Her
 image: https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- AI
+- RAMageddon
+- USB-C
+people:
+- Andrej Karpathy
+- Claude
+- Sam Altman
+organisations:
+- AGI
+- AI API
+- AI Llama
+- AIs
+- ANN
+- Anthropic
+- Astra
+- GAN
+- GANs
+- GPT
+- Google DeepMind
+- Google Drive
+- Google’s Gemini
+- LLM
+- Le Chat
+- Linux Foundation
+- MCP
+- Meta
+- Microsoft Copilot
+- MoE
+- OpenAI
+- RSI
+- Slack
+- TechCrunch
 ---
 
 AI is rewriting the world and, at the same time, inventing a whole new language to describe how it’s doing it. Sit in on any product meeting, pitch, or panel these days, and you’ll hear people toss around LLMs, RAG, RLHF — and, as of last week, terms like “opaque recurrence,” the reasoning technique in OpenAI’s new Astra model that’s got AI safety researchers rattled. The vocabulary moves fast enough to make even very smart people in the tech world feel a little insecure.

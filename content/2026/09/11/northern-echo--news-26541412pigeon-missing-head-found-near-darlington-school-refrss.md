@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Banned County Durham
+- Darlington Bird Rescue
+- Tees Valley Another
+people:
+- God
+organisations:
+- CCTV
+- Darlington Bird Rescue
+- Middlesbrough
 ---
 
 *(Image: Darlington Bird Rescue)*

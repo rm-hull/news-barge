@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- York
+people: []
+organisations:
+- Met Office
 ---
 
 *(Image: Archive)*

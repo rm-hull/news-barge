@@ -11,6 +11,34 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/22/02c95edddd448e5eeb4cfbce02d8671eY29udGVudHNlYXJjaGFwaSwxNzkwMTEwMzE0-2.85927820.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Europe
+- Europe.
+- Great Britain
+- New York
+- UK
+people:
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Maddox
+- Hamish Falconer
+- John Curtice
+- Jonathan Brady
+- Made
+- Millie Cooke
+- Ursula von der Leyen
+organisations:
+- Brexit
+- Commons
+- Conservative Party
+- EU
+- European Commission
+- European Union
+- Labour
+- The Independent
+- United Nations General Assembly
 ---
 
 Andy Burnham appeared to leave the door open to reversing Brexit as he failed to rule out putting a pledge to rejoin the EU in Labour’s next manifesto.

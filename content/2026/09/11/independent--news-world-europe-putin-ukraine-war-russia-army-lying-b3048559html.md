@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Donetsk
+- Kremlin
+- Kyiv
+- Lyman
+- Moscow
+- Russia
+- Svyatohirsk
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Andrii Biletskyi
+- Donald Trump
+- Jared Kushner
+- Steve Witkoff
+- Vladimir Putin
+- Yuri Ushakov
+organisations:
+- ISW
+- Institute for the Study of War
+- Kyiv
+- Third Army Corps
 ---
 
 The Russian army has a “pervasive culture of lying” over battlefield gains which has left Vladimir Putin with a “severely distorted” view of the frontline situation in Ukraine, military analysts have said.

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- Chicago
+- London
+people:
+- Emily
+- Lindsay Browning
+- Marilyn Cornelis
+- Peter Rogers
+organisations:
+- NHS
+- Northwestern University
+- University of Bristol
 ---
 
 ![A portrait shot of Emily staring at the camera. She is wearing dark glasses and a black jacket, and has light brown hair. She us holding a cup of coffee in front of her.](https://ichef.bbci.co.uk/ace/standard/875/cpsprodpb/eda0/live/8c2f59a0-ac5f-11f1-be57-03729df1d736.jpg)

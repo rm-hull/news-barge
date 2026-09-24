@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21484982.jpg?type=og-image
+locations:
+- Auckland Palace
+- Australia
+- Bishop Auckland
+- County Durham
+- North East
+- Walled Garden
+people:
+- Angel Trust
+- Clair McGregor
+- Jane Ruffer
+- Shaun Hope
+organisations:
+- Angel Trust
+- Auckland Project
+- Bishop Auckland College
+- Bishop Auckland College Group
+- Darlington STEM
+- Middlesbrough College
+- New College Durham
+- The Auckland Project
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Abbey Orchard Street
+- King’s Cross
+- Leeds
+- London
+- London’s King’s Cross
+- Old Bailey
+- Westminster
+- Yorkshire
+people:
+- Farmanullah Sherzad
+- Lisa Wilding KC
+- Sulaiman Tajzai
+- Wayne Jolley
+organisations:
+- CCTV
+- Metropolitan Police
+- Snapchat
 ---
 
 # Teenager who travelled from Yorkshire to London to kill alleged stalker admits murder

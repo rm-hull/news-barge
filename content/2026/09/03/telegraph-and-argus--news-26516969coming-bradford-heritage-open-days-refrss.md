@@ -14,6 +14,57 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bierley
+- Bradford
+- Cliffe Castle
+- Leeds
+- Liverpool Canal
+- Northcliff Miniature Railway
+- Park Avenue
+- Punjab
+- Saltaire
+- Shipley Glen
+- Shipley Glen Tramway
+- St George’s Hall
+- St John The Evangelist
+- Thornton
+- Yorkshire
+people:
+- Akbal Singh Kang
+- Bingley
+- Caro Blount-Shah
+- George Stringer Bull
+- Joanne Crowther
+- John Dewhirst
+- Matt Gibbons
+- Nell Kenney
+- Parson Bull
+- Paul Brown
+- Pinny
+- Samuel Lister’
+- Vicky Clifton
+organisations:
+- Arts Council England
+- Bradford Archives
+- Bradford Festival Choral Society
+- Bradford Heritage Connection CIC
+- Bradford Mechanics Institute
+- Bradford Model Engineering Society
+- Brontë Birthplace
+- City of Culture
+- Cycling Heritage
+- Darley Street Market
+- Explore Saltaire
+- Hanson School
+- Keighley Cougars
+- Low Moor Comical Company
+- Low Moor Local History Group
+- Mechanics Institute
+- Roll‑a‑Coin
+- Victoria Hall
+- Victorian Bradford
+- Women’s Humanity League
 ---
 
 WHAT was the ‘accident waiting to happen’ that devastated a community? What led a parish priest to become an activist? What went on in the old blacksmiths towpath forge? And who were the heroes of Bradford concert hall?

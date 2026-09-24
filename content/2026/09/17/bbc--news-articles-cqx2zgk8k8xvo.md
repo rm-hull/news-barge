@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Society & Culture
 - Sports
+locations:
+- Clayville
+- Dawn Park
+- Dawn Park **
+- Ekurhuleni
+- Gauteng
+- Johannesburg
+- Johannesburg.
+- Kempton Park
+- KwaThema
+- Olifantsfontein
+- South Africa
+people:
+- Bongeka Sebela
+- Cyril Ramaphosa
+- Dineo Evelyn Motapane
+- Elizabeth "Tsontso" Moselakgomo
+- Firoz Cachalia
+- Itumeleng Kekana
+- Panyaza Lesufi
+organisations:
+- BBC News Africa
+- South African Police Service Forensic Pathology Services
+- UN
 ---
 
 ![Members of the South African Police Service Forensic Pathology Services dressed in white protective gears work on a crime scene with police with their car nearby](https://ichef.bbci.co.uk/ace/standard/980/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg)

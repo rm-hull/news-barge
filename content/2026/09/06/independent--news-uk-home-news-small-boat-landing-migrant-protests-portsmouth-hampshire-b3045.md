@@ -11,6 +11,41 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Baie de Seine
+- Caen
+- Calais
+- Dunkirk
+- Eastney Beach
+- HM
+- Hampshire
+- Hayling Ferry
+- Isle of Wight
+- Isle of Wight East
+- Kent
+- Manston
+- North Sea
+- Portsmouth
+- United Kingdom
+people:
+- Christine Martin
+- Daniel Thomas
+- Joe Robertson
+- Nigel Farage
+- Tommy Robinson
+organisations:
+- Border Force
+- Border Security Command
+- Eastney Cruising Association
+- HM Coastguard
+- HM Coastguard Rescue Teams
+- Hampshire Police
+- Home Office
+- Maritime and Coastguard Agency
+- Portsmouth’s The News
+- RNLI
+- Reform
+- South Central Ambulance Service
 ---
 
 Dozens of demonstrators have descended on Portsmouth after migrants headed towards the Hampshire coast on a small boat were intercepted and brought ashore.

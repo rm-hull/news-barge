@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Arizona
+- California
+- Dragoon
+- Florida
+- New Mexico
+- Peloncillo
+- Santa Rita
+- Sky Islands
+- U.S.
+- United States
+- West Nile
+people:
+- Lawrence Reeves
+organisations:
+- Centers for Disease Control and Prevention
+- National Oceanic and Atmospheric Administration
+- University of Florida
 ---
 
 A new species of mosquito has been found in the United States for the first time, Florida researchers announced this week.

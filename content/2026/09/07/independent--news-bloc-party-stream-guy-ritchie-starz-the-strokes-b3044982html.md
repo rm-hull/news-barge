@@ -14,6 +14,72 @@ categories:
 - UK
 - Technology & Software
 - Film & TV
+locations:
+- Broadway
+- Chicago
+- Colorado
+- Haddonfield
+- Midwestern
+- New York City
+- Orange County
+people:
+- Alicia Rancilio
+- Andréa Martel
+- Camille Cottin
+- Carole Radziwill
+- Daisy Toye
+- Dakota Mortensen
+- Dana Chandler
+- Domhnall Gleeson
+- Eiza González
+- Epstein
+- Erika Hammond
+- Erin Lichy
+- Grey
+- Guy Lodge
+- Hailey Glassman
+- Henry Cavill
+- Jake Gyllenhaal
+- Jen Affleck
+- Jessel Taank
+- Jessi Draper
+- Jessica Paré
+- Layla Taylor
+- Lindsey Bahr
+- Lou Kesten
+- Maria Sherman New
+- Mary
+- Mayci Neeley
+- Michael Myers
+- Mikayla Matthews
+- Mike
+- Miku Martineau
+- Miranda Hope
+- MomTok
+- Ritchie
+- Roxie Hart
+- Sai De Silva
+- Taylor Frankie Paul
+- Teagan Tao
+- Whitney Leavitt
+- Wolf Parade
+- Émilie Noblet
+organisations:
+- ABC
+- Bloc Party
+- Cotton Crown
+- Disney
+- HBO
+- IllFonic
+- Netflix
+- Outer Space
+- Peacock
+- Starz
+- The Associated Press’
+- The Paper
+- The Tubs'
+- Toledo Truth Teller
+- Tubs
 ---
 
 The second season of “The Paper” and a new album from Bloc Party are some of the new television, films, music and games headed to a device near you.

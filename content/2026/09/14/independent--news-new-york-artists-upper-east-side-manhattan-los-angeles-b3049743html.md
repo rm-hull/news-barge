@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Canada
+- Denman Island
+- Los Angeles
+- Manhattan
+- Montreal
+- New York
+- United States
+- Upper East Side
+people:
+- Alfred A. Knopf
+- Ari Waker
+- Emily St. John Fairbanks
+- Emily St. John Mandel
+- Gun
+- Jenny Jackson
+- Kevin Mandel
+- Laura Barisonzi
+organisations:
+- Exit Party
+- HBO
+- New York Times
+- Penguin Random House
+- School of Toronto Dance Theatre
+- Station Eleven
+- Unbridled Books
 ---
 
 After seven novels that span centuries, continents and even planets, Emily St. John Mandel has not only created a substantial body of work, but a universe unto herself — what admirers like to call the Mandelverse.

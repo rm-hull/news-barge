@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Glen's York
+- Halifax
+- Selby
+people:
+- Ash Mehr
+- Grace Orton
+- Gus Hall
+- Lee Glen
+- Lee Glenn
+- Phoebe Watson
+organisations:
+- Evolution Games
+- Pokémon
+- Rocket's Hideout
 ---
 
 ![A young woman with dark hair, wearing a denim jacket with a Pokémon badge on it is smiling at the camera. She is standing in front of a display of Pokémon cards in a shop.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4fb6/live/d75feea0-adcf-11f1-82c1-5ff19bf7a2f2.jpg)

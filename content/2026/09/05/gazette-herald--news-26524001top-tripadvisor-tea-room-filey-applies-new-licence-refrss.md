@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Belle Vue Street
+- Filey
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people:
+- Emma
+organisations:
+- Lighthouse Tea Room
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
+- TripAdvisor
 ---
 
 A POPULAR family-run tea room on the North Yorkshire coast has applied for a new licence from the council.

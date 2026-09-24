@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/028c9f17f541186f83e958c0155ab13d183ebc20/655_0_6327_5062/master/6327.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f37ceb9cd0aaa8ace7932ebf1f81a839
+locations:
+- Epworth Street
+- Greater Manchester
+- Heaton Park Synagogue
+- Lancaster Road
+- Liverpool
+- London
+- Salford
+- UK
+- Yom Kippur
+people:
+- Vicki Evans
+organisations:
+- CST
+- CTP
+- Community Security Trust
+- Counter Terrorism Policing
+- Guardian
 ---
 
 Police believe they have stopped an imminent plot to attack Jewish communities in the Manchester area.

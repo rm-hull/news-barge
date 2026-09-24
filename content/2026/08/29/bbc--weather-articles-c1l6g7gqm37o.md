@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Channel Islands
+- East Anglia
+- England
+- Evesham
+- Leeds
+- Midlands
+- Northern Ireland
+- Reading
+- Scotland
+- UK
+- Wales
+- Worcestershire
+people: []
+organisations:
+- BBC Weather
+- Creamfields
 ---
 
 ![Two people walk through a festival site wearing waterproofs and wellies](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg)

@@ -13,6 +13,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/bSuzyj7PXyDekTjLijrJxh-1200-80.webp
+locations:
+- Hong Kong
+- Russia
+people:
+- Rene Millman
+organisations:
+- Computer Weekly
+- Financial Times
+- IT Pro
+- Nym Core Team
+- NymVPN
+- The Guardian
+- VPN
 ---
 
 ![NymVPN app](https://cdn.mos.cms.futurecdn.net/bSuzyj7PXyDekTjLijrJxh.webp)

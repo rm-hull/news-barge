@@ -10,6 +10,22 @@ image: https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- California
+- China
+- Taiwan
+- U.S.
+people:
+- Dario Amodei
+- Donald Trump
+organisations:
+- American AI
+- Anthropic
+- China Daily
+- Get Tom's Hardware
+- Nashville Zoo
+- Tech
+- Trump
 ---
 
 ![the Chinese flag on a chip](https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-320-80.png)

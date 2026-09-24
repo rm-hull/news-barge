@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Rose Window
+people:
+- Alexander McCallion
+organisations:
+- Heritage Quad
+- York Glaziers Trust
+- York Minster
+- York Minster)* York Minster
 ---
 
 *(Image: York Minster)*

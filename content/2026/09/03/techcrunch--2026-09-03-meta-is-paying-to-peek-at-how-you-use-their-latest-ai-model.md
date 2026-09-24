@@ -12,6 +12,19 @@ description: For its new Muse Spark model, intended for operating coding and oth
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799
 categories:
 - Technology & Software
+locations:
+- Princeton
+people:
+- Arvind Narayanan
+- Claude Code
+- Mario Zechner
+organisations:
+- ChatGPT Pro
+- Claude Max
+- Meta
+- OpenAI
+- Pi
+- TechCrunch
 ---
 
 Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it.

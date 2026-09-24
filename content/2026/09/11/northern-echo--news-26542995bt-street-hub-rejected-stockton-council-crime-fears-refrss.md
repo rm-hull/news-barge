@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- BT
+- Brunswick Street
+- Eston
+- Guisborough
+- Hartington Road
+- Middlesbrough
+- Oxbridge Lane
+- Redcar
+- Skinner Street
+- Teesside
+- UK
+- YOUR
+- Yarm Lane
+people:
+- Joe Fraser
+- Karen Heritage
+- Sharon Donnelly
+organisations:
+- Cleveland Borough Council
+- Cleveland Police
+- NHS
+- PA Wire
+- Public Notice Portal
+- Public Notice Portal A BT
+- Redcar
+- Stockton Borough Council
+- Stockton Council
+- Stockton Decorators Merchants
+- Teesside Service
 ---
 
 ### What is the Public Notice Portal?

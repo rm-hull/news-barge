@@ -11,6 +11,20 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a053/live/bb3c54
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- Middle East
+- Strait of Hormuz
+- US
+people:
+- Kevin Nguyen
+- Merlyn Thomas
+- Paul Brown
+- Sally Nicholls
+- Shayan Sardarizadeh
+organisations:
+- BBC Verify
+- Iranian Red Crescent
 ---
 
 # What we know about reported strike on Iran wedding celebrations

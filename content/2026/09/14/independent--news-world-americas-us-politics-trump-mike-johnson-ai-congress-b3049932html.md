@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- D-Ariz.
+- D-Calif.
+- D-Mass.
+- I-Vt.
+- R-Calif.
+- R-Texas
+- Sen
+- U.S.A.
+- United States
+- Washington
+people:
+- AI
+- Bernie Sanders
+- Doctor Frankenstein
+- Donald Trump
+- Jacob Coxon
+- Jake Tapper
+- Jay Obernolte
+- Lori Trahan
+- Mike Johnson
+- Nathaniel Moran
+- Rosh Hashanah
+- Ruben Gallego
+- Steve Bannon
+- Ted Cruz
+- Ted Lieu
+organisations:
+- AI and Data Centers
+- Anthropic
+- Axios
+- CNN
+- Congress
+- ESPN’s College Gameday
+- House of Representatives
+- Hugging Face
+- OpenAI
+- R-Texas
+- Senate
+- Trump
 ---
 
 Congress is back — at least for a little bit.

@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- British Columbia
+- Brussels
+- Canada
+- EU-Canada
+- Europe
+- France
+- Italy
+- North America
+- Poland
+- Strasbourg
+- Toronto
+- US
+- United States
+people:
+- Donald Trump
+- Emmanuel Macron
+- Erik Schatzker
+- Javier Moreno Sánchez
+- Mark Carney
+- Stephen Hill
+- Ursula von der Leyen
+- Valérie Hayer
+- von der Leyen
+organisations:
+- Canada Investment Summit
+- Ceta
+- EU
+- EU-Canada Comprehensive Economic and Trade Agreement
+- European Commission
+- European Union
 ---
 
 Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.

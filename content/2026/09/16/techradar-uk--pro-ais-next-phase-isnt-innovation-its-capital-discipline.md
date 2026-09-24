@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people: []
+organisations:
+- CIOs
+- Celonis
+- Enterprise AI
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![The letters AI in a box in the middle of a vast digital room divided by beams of line](https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM.jpg) 

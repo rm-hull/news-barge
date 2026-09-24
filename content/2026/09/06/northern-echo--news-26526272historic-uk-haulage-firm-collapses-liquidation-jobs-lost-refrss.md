@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Durham Cathedral
+- North East Co-op
+- Scotland
+- UK
+people:
+- Colin Mathers
+- Michael Reid
+organisations:
+- MHA
+- The National
+- VG Mathers
+- VG Mathers Limited
+- Vic Mathers
 ---
 
 *(Image: Supplied)*

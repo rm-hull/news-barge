@@ -15,6 +15,35 @@ categories:
 - Film & TV
 - Music
 - Arts & Culture
+locations:
+- Birmingham
+- Britain
+- Glasgow
+- Liverpool
+- London
+- Portsmouth
+- UK
+- York Barbican
+people:
+- Alan Rickman
+- Bill Nighy
+- Colin Firth
+- Emma Thompson
+- Hugh Grant
+- JOY
+- Keira Knightley
+- Laura Linney
+- Liam Neeson
+- Martin Freeman
+- Martine McCutcheon
+- Rowan Atkinson
+organisations:
+- Brighton Centre
+- Eventim Apollo
+- Guild Hall
+- Philharmonic Hall
+- Royal Concert Hall
+- Symphony Hall
 ---
 
 *(Image: Wasted Youth)*

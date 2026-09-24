@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Bishopthorpe Road
+- Easy Street
+- YORK
+- York Amy Twiddle
+people:
+- Amy Twiddle
+- CharKnots
+- Jade
+- Jagoda
+- Juicehaus
+- Leonardo Morey
+organisations:
+- '## Interior'
+- )* Juicehaus
+- Bailey House Ceramics
+- Circular Interiors
+- Kaye + Clay
+- Melanie Hill Designs
+- Newsquest
 ---
 
 ## Interior designer opens new studio and shop in York

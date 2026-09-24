@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Florida
+- Hillsborough County
+- Los Angeles
+- New York
+- New York City
+people:
+- Charlotte
+- Hulk Hogan
+- Mike Tyson
+- Ric Flair
+- Ric “Nature Boy” Flair
+- Richard Fliehr
+- Richard Morgan Fliehr
+- Steven Greer
+organisations:
+- FAM Networks
+- FAM Networks, LLC
+- Facebook
+- Fliehr
+- Manhattan Supreme Court
+- New York Civil Rights Law
+- The Independent
 ---
 
 Legendary pro wrestler Ric “Nature Boy” Flair is suing a digital talent agency he claims duped him into signing away the rights to his own image and likeness while promising him a six-figure monthly revenue stream that allegedly never materialized.

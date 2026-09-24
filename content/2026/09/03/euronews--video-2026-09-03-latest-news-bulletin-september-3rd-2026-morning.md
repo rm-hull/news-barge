@@ -12,6 +12,46 @@ image: https://images.euronews.com/articles/stories/09/89/94/17/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgium
+- Brussels
+- Ceuta
+- England
+- Europe
+- Iceland
+- Italy
+- Kherson
+- Kuopio
+- London
+- Morocco
+- Moscow
+- Russia
+- San Francisco.
+- Sheremetyevo
+- Ukraine
+- Valletta
+people:
+- Andy Burnham
+- Daphne Caruana Galizia
+- Efrem Lukatsky
+- Emmanuel Macron
+- George Clooney
+- King Charles III
+- Mark Rutte
+- Maxime Prévot.
+- Ursula von der Leyen
+organisations:
+- Aeroflot
+- British Museum
+- EPP
+- EU
+- Euronews
+- European Commission
+- Germain
+- Kyiv
+- Loukas Gaouto
+- NATO
+- Naima Gerasopoulou
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

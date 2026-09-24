@@ -14,6 +14,14 @@ categories:
 - Sports
 - History
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7d1a/live/c0d4e270-b780-11f1-82bf-a7fbaca3dc9e.jpg
+locations: []
+people:
+- Filip Hrgovic
+- Moses Itauma
+organisations:
+- IBF
+- Moses Itauma
+- O2 Arena
 ---
 
 ![Moses Itauma](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7d1a/live/c0d4e270-b780-11f1-82bf-a7fbaca3dc9e.jpg)

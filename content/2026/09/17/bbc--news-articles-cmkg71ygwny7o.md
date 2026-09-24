@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Birmingham
+- Brantham
+- East Bergholt
+- Hampshire
+- River Stour
+- Suffolk
+- Suffolk-Essex
+people:
+- Noah Woods
+- Rhys Woods
+organisations:
+- Facebook
 ---
 
 ![Noah, a three-year-old boy who has ginger hair. He is pictured sitting on a bed with a grey headboard and is looking directly at the camera and smiling.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/ea4d/live/01db9030-b28f-11f1-b1d1-571ed4d7ff2c.jpg)

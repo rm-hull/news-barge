@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20680092.jpg?type=og-image
+locations:
+- England
+- Leeds Bradford Airport
+- Manchester
+- Prestwick
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+- Steve Heapy
+organisations:
+- British Airways
+- EasyJet
+- Getty Images)* Airlines
+- Jet2
+- National Air Traffic Services
+- Nats
 ---
 
 *(Image: Getty Images)*

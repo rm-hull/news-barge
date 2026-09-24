@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Afghanistan
+- Bosnia
+- Chiswick
+- Greeceand Denmark
+- Hounslow
+- Iraq
+- London
+- Putney Bridge
+- Victoria
+people:
+- Katherine
+- Nicholas Brandram
+- Putney
+- Victoria
+organisations:
+- British Army
+- CCTV
+- HSBC Private Bank
+- London Ambulance Service
+- Met Police
+- Sun
 ---
 
 The prime suspect in the notorious “Putney pusher” case has been found dead at his home in west London.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Personal Finance & Investing
+locations:
+- Glasgow
+- NG
+- Possilpark
+- Scotland
+- Stonyhurst Street
+people:
+- John Swinney
+- Paul Sweeney
+- Ruairi Kelly
+organisations:
+- BBC Scotland News
+- Flames
+- Glasgow City Council
+- NG Homes
+- Police Scotland
+- SFRS
+- Scottish Fire and Rescue Service
 ---
 
 ![Burned-out tenement building which no longer has a roof. Three firefighters can be seen beside the building on the steps of a nearby flat](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0c69/live/1fe92c90-aaba-11f1-b109-879e35c24276.jpg)

@@ -11,6 +11,30 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.pn
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Azuqueca de Henares
+- China
+- Europe
+- Madrid
+- Munich
+- Spain
+- Switzerland
+people:
+- Antonio Espinosa de los Monteros
+- Beatriz Belda González
+- Celso Fernández Llorens
+- David Sancho
+- Liux
+organisations:
+- Ana Terrado Leyva
+- Auara
+- BMW
+- LinkedIn
+- Liux Big’s
+- Smart
+- Spanish B Corp
+- TechCrunch
+- Toyota
 ---
 
 Cars in European cities are smaller than ever. But as Europe’s appetite for microcars has grown, the cute Italian ‘yoghurt pots’ have largely given way to small Chinese EVs. Even Smart, the the iconic ultracompact car brand, has moved manufacturing to China.

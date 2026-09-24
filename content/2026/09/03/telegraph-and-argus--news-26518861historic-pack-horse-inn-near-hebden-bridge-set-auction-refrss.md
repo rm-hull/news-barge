@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- HISTORIC
+- Hebden Bridge
+- Lancashire
+- Pennine Way
+- Upper Calder Valley
+- Widdop
+- Yorkshire
+people:
+- Will Thompson
+organisations:
+- BTG Eddisons Property Auctions
+- Pack Horse Inn
 ---
 
 A HISTORIC pub dating back more than 400 years is set to go under the hammer.

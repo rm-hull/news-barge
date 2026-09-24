@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Auckland
+- Britain
+- Fountains Abbey
+- Helmsley
+- Hutton-le-Hole
+- North Yorkshire
+- North of England
+- RYEDALE FOLK MUSEUM
+people:
+- Edison
+- Henry VIII
+- JMW Turner
+- Jennifer Smith
+- John Sell Cotman
+- Rievaulx Abbey
+- Simon Crawford
+- Thomas Girtin
+organisations:
+- Art Gallery
+- Byland Abbey
+- Fountains Abbey
+- RYEDALE FOLK MUSEUM
+- Rievaulx Abbey
+- Ryedale Folk Museum
+- Shining Lights
+- Vikings
+- Yorkshire
 ---
 
 Today’s Object of the Week is a collection of artworks inspired by some evocative historic landmarks, offering a fresh perspective on places that have captured imaginations for centuries.

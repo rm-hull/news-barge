@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- M25
+- UK
+people:
+- Julie Ashfield
+- Rachel Geary
+organisations:
+- Aldi Store Assistants
+- Aldi Store Finder
+- Aldi UK
+- All Aldi
+- Morrisons
+- Sainsbury’s
+- Tesco
+- Waitrose
+- Which?
 ---
 
 *(Image: Getty Images)*

@@ -10,6 +10,20 @@ description: What's new with the iPhone 18 Pro?
 image: https://cdn.mos.cms.futurecdn.net/2KCuoM9aPEd5rezSnbozk7-2000-80.png
 categories:
 - Technology & Software
+locations:
+- Burgundy
+- Dynamic Island
+- Silver
+people:
+- Burgundy
+organisations:
+- 18 Pro
+- Apple Store
+- GPU
+- Google News
+- Hamish
+- Siri AI
+- TechRadar
 ---
 
 ![The iPhone 17 Pro next to the iPhone 18 Pro](https://cdn.mos.cms.futurecdn.net/2KCuoM9aPEd5rezSnbozk7.png) 

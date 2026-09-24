@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Angola
+- Basingstoke
+- Clarkson
+- Holland
+- London
+- Malaysia
+- Wales
+- Willesden Junction
+people:
+- Clarkson Bourgeois
+- Francis Bourgeois
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- May.
+- Richard Hammond
+- Stuart Heritage
+- Thomas Holland
+organisations:
+- Bourgeois
+- FT
+- Guardian
+- Instagram
+- The Independent
+- Throttle House
+- Top Gear
+- YouTube
 ---
 
 ![Francis Bourgeois, James Engelsman and Thomas Holland](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/bf69/live/036b5aa0-a79c-11f1-a7ad-37a1f7dc081c.jpg)

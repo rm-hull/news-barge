@@ -13,6 +13,36 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Australia
+- Boa
+- Borneo
+- Canada
+- Central Kalimantan
+- Indonesia
+- Japan
+- Malaysia
+- Philippines
+- Pontianak
+- Riau
+- Russia
+- Sarawak
+- Singapore
+- Sumatra
+- Ukraine
+- United States
+- West Kalimantan
+people:
+- Allah
+- Aminah
+- Daniel
+- God
+organisations:
+- Disaster Information Task Force
+- Forestry Ministry
+- Ministry of Forestry
+- National Disaster Management Agency
+- West Kalimantan Provincial Disaster Management Agency
 ---
 
 Thick smoke from forest fires has disrupted airline flights for several days in Indonesia's West Kalimantan province as an intensifying El Niño weather pattern and a prolonged dry season worsen the impact of blazes.

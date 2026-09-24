@@ -13,6 +13,66 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Chicago
+- China
+- Frankfurt
+- Japan
+- London
+- New York
+- Paris
+- UK
+- US
+- Wall Street
+people:
+- Frantisek Taborsky
+- Morgan Stanley
+- Peter Hill
+- Simon French
+organisations:
+- Airtel Africa
+- Airtel Money
+- Airtel Money arm
+- Alliance News
+- AstraZeneca
+- BT Group
+- Bank of America
+- Bank of England
+- Bank of Japan
+- Bloomberg
+- BoE
+- Coca-Cola HBC
+- Computacenter
+- Craneware
+- DCC Energy
+- Deutsche Bank
+- Entain
+- FT
+- FXStreet
+- Fed
+- Financial Times
+- Fresnillo
+- Getech
+- Glencore
+- Harbour Energy
+- IG Group
+- IG Group Holdings
+- ING
+- IPO
+- Ladbrokes
+- London Stock Exchange
+- MPC
+- Metlen Energy & Metals
+- Monetary Policy Committee
+- Nasdaq Composite
+- Office for National Statistics
+- Panmure Liberum
+- RBC Capital Markets
+- Radiant World
+- Treasury
+- UBS
+- US Federal Reserve
+- Vistry
 ---
 
 The FTSE 100 fell heavily on Friday as bond yields pushed higher amid fears that higher inflation will keep interest rates elevated.

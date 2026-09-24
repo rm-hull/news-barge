@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bradford Road
+- Cleckheaton
+- Keighley
+- Kirklees
+- Leeds Crown Court
+- North Yorkshire
+- Silsden
+- Snapchat
+- West Yorkshire Cartel
+- West Yorkshire Police
+people:
+- Helen Chapman
+- Shane Vickers
+- Vickers'
+organisations:
+- Audi
+- Operation Phoenix
+- Proactive Intercept Team
+- West Yorkshire Cartel
+- West Yorkshire Police
 ---
 
 # Drug dealer behind 'West Yorkshire Cartel' line jailed for more than six years

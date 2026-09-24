@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Doncaster Racecourse
+- Lambourn
+- Newmarket
+- Wetherby
+people:
+- Highwayman
+- Jamie
+- Miss Osborne
+- Richard Sellers
+- Saffie Osborne
+- Sarah Todd
+- Scheffler
+organisations:
+- AI
+- Best
+- National Horseracing College
+- St Leger
+- Yorkshire lass
 ---
 
 # Female jockey Saffie Osborne stands out in a sea of the bland - Sarah Todd

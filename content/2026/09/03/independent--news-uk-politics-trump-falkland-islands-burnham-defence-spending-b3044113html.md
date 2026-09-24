@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- America
+- Argentina
+- Berlin Wall
+- Britain
+- Buenos Aires
+- China
+- Downing Street
+- Europe
+- Falklands
+- Iran
+- Moscow
+- Russia
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Tan Singh Dhesi
+- Vladimir Putin
+- ’s Questions
+organisations:
+- Brexit
+- Commons Defence Select Committee
+- EU
+- Labour Party
+- Milei
+- Nato
+- Trump
 ---
 
 The warning by Donald Trump that he might not support the UK in defending the Falklands from a future invasion underlines the dire situation Andy Burnham is facing on defence spending.

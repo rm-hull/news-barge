@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- England
+- Oxford
+- Plymouth Magistrates’ Court
+people:
+- Dawn French
+- Emma Watson
+- Geraldine Granger
+- Harry Potter
+- Hermione Granger
+- Jay Shetty
+organisations:
+- Audi
+- BBC
+- DVLA
+- University of Oxford
+- Vicar of Dibley
 ---
 
 Comedian Dawn French has been disqualified from driving for six months for speeding.

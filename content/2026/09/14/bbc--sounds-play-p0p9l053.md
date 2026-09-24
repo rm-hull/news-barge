@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Asia
+- China
+- Europe
+- UK
+- US
+people:
+- Alex Forsyth
+- Anna Harris
+- Chris Gray
+- Cordelia Hemming
+- Dafydd Evans
+- Darren Jones Labour
+- Donald Trump
+- Jack Maclaren
+- James Cook
+- Jem Westgate
+- Sam Bonham
+organisations:
+- AI
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

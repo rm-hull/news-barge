@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/6ab29aa6e2fe9fca9a068fa1278a5b6fefe820cf/1
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- Los Angeles
+- Malibu Lost Hills
+- Point Dume
+- US
+people:
+- Donald Trump
+- Doug Emhoff
+- Eduardo Negrón
+- Joe Biden
+- Kamala Harris
+organisations:
+- Harris
+- Malibu Lost Hills Deputies
+- Politico
+- Secret Service
+- TMZ
 ---
 
 Law enforcement officials and a spokesperson for former vice-president Kamala Harris said a trespasser was stopped at her Malibu home in California on Friday night.

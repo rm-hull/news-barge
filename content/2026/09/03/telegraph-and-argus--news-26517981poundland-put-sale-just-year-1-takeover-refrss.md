@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people: []
+organisations:
+- A&M
+- Alvarez & Marsal
+- Gordon Brothers
+- HMRC
+- Hobbycraft
+- LK Bennett
+- Modella
+- Newsquest
+- Poundland
+- Radley
+- Sky News
+- TG Jones
 ---
 
 *(Image: Newsquest)*

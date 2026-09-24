@@ -10,6 +10,31 @@ description: The Pentagon has released secured versions of ChatGPT and Grok for 
 image: https://cdn.mos.cms.futurecdn.net/RXJoEQoSUWU9QEaNY4YHyN-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Arlington County
+- GenAI.mil
+- United States
+- Virginia
+people:
+- Benedict Collins
+- Claude
+organisations:
+- APT
+- Anthropic
+- BUCSIS
+- ChatGPT Mil
+- Department of Defense
+- DoD
+- GenAI.mil
+- Google Gemini
+- Google News
+- Grok for Government
+- OpenAI
+- Pentagon
+- Starshield AI
+- TechRadar Pro
+- United States Department of Defense.
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![The Pentagon in Arlington County, Virginia, as seen on April 15, 2017. It is the headquarters of the United States Department of Defense.](https://cdn.mos.cms.futurecdn.net/RXJoEQoSUWU9QEaNY4YHyN.jpg) 

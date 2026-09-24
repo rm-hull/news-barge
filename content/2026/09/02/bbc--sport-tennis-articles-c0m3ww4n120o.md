@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Australia
+- Flushing Meadows
+- New York
+- Spain
+- Turkey
+people:
+- Aryna Sabalenka
+- Coco Gauff
+- Daria Kastakina
+- Gavin MacMillan
+- Paula Badosa
+- Zeynep Sonmez
+organisations:
+- Coco Gauff
 ---
 
 ![Coco Gauff celebrates winning her first-round match at the 2026 US Open](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/90f1/live/23de7c00-a66f-11f1-82b7-510483674740.jpg)

@@ -15,6 +15,29 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/17/11/2151786763..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bangkok
+- Borough Market
+- Dubai
+- London
+- Riyadh
+- Southwark
+people:
+- Adinda Vandeyken
+- Amaan Faisal
+- Bread Ahead
+- King of Doughnuts’
+- Matthew Jones
+- Neal
+- Nichola Collete
+- Oskar Threlfall
+organisations:
+- Borough Market
+- Borough Market Charitable Trust
+- Bread Ahead
+- Kappacasein
+- The Independent
+- Yard Dairy
 ---
 
 On a Wednesday afternoon in September, Borough Market is still as busy as ever. It is not difficult to see why – with offerings ranging from juniper-cured ham to chilli-stuffed Lebanese olives, it is one of London’s most-loved culinary hotspots.

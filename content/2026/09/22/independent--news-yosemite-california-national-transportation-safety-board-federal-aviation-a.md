@@ -14,6 +14,22 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/19/Yosemite_Fire_Helicopter_Crash_78382.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- El Capitan
+- Ostrander Lake
+- U.S.
+- Wawona
+- Yosemite National Park
+people:
+- Greg King
+- Ryan Cutter
+organisations:
+- Dome Fire
+- Federal Aviation Administration
+- National Interagency Fire Center
+- National Transportation Safety Board
+- Precision
 ---
 
 A contract aircraft company has identified the second pilot killed in the weekend crash of a firefighting helicopter in Yosemite National Park as Ryan Cutter.

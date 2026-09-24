@@ -12,6 +12,30 @@ image: https://media.wired.com/photos/6aab1786abb62f15c7494fe0/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Australia
+- Europe
+- France
+- Germany
+- Ireland
+- Sweden
+- UK
+people:
+- Simeon de Brouwer
+- Snapchat
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- AI
+- AIs
+- Chatbots
+- EU Kids Online
+- European Commission
+- European Digital Rights
+- Ipsos BVA
+- Organisation for Economic Co-operation and Development
+- State of the Union
+- WIRED
 ---
 
 The EU plans to ban chatbots from simulating emotions or interpersonal relationships in interactions with anyone under the age of 18 as the bloc tries to stop children from developing emotional dependencies on the technology.

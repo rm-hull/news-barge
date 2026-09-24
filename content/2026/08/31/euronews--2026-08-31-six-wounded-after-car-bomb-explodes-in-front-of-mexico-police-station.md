@@ -13,6 +13,16 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Mexico
+- Ojocaliente
+- Pozos de Gamboa
+- United States
+- Zacatecas
+people:
+- Rodrigo Reyes
+organisations:
+- Facebook
 ---
 
 ## Zacatecas is key to the drug trade because it links central Mexico with the north and west of the country and features routes that are key to smuggling cocaine and other narcotics to the United States.

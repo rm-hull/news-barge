@@ -12,6 +12,34 @@ image: https://static.independent.co.uk/2026/09/03/13/40/AP26246480870989.jpg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- DC
+- Kentucky
+- Washington
+people:
+- Bill Clinton
+- Bill Gates
+- Ghislaine Maxwell
+- Howard Lutnick
+- James Comer
+- Jeffery Epstein
+- Jeffrey Epstein
+- Jeffrey Epstein Black
+- Leon Black
+- Robert Garcia
+- Susan Estrich
+organisations:
+- Apollo Global Management
+- Black
+- Commerce
+- Congress
+- Congressional
+- Department of Justice
+- Epstein
+- House Oversight Committee
+- Microsoft
+- Oversight Committee
 ---
 
 Billionaire investor Leon Black has taken legal action against the House Oversight Committee after refusing to show up for a scheduled congressional deposition on Thursday.

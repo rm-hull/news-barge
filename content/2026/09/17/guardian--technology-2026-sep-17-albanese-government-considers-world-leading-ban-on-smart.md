@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- Blacktown
+- Brisbane
+- Canterbury-Bankstown
+- City of Sydney
+- England
+- Melbourne
+- New York
+- UK
+- US
+- Wales
+- Yarra
+people:
+- Amanda Rishworth
+- Bilal El-Hayek
+- Caitlin Cassidy
+- Katy Gallagher
+- Michelle Rowland
+organisations:
+- AGL
+- AI
+- Blackmores Group
+- CSIRO
+- Centrelink
+- Channel Seven
+- Commonwealth Bank
+- ICE
+- Instagram
+- Kmart
+- Microsoft
+- Ramsay Health Care
+- Telstra
+- US Immigration and Customs Enforcement
+- University of Sydney
+- Vision Australia
 ---
 
 The Albanese government is considering a “world-leading” ban on smart glasses in its offices and service centres as councils around Australia push the technology out of public spaces over privacy fears.

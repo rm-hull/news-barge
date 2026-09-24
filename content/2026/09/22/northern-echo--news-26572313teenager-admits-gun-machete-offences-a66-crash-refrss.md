@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/14462773.jpg?type=og-image
+locations:
+- A66
+- Foxrush Close
+- Grangetown
+- Middlesbrough
+- Redcar
+- Teesside Crown Court
+people:
+- Cole Robert Worthy
+- Francis Laird KC
+- Gary Wood
+- Jacob Matusiak
+- Kai Beattie
+- Makai Saddington
+- Man
+- Matthew Blades
+- Michael Robert Cahill
+- Richard Herrmann
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- B&M
+- Crown Prosecution Service
+- Morrisons
+- NEWSQUEST
+- Recorder of Middlesbrough
 ---
 
 *(Image: NEWSQUEST)*

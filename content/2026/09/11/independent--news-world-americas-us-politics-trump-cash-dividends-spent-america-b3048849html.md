@@ -13,6 +13,28 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Canada
+- China
+- Dallas
+- Germany
+- U.S.
+- United States
+people:
+- Donald Trump
+- Laura Ingraham
+- Sarah Smith
+organisations:
+- BBC’s North America
+- CBS News
+- Census Bureau
+- Congress
+- DOGE
+- Fox News’
+- House
+- Peterson Institute for International Economics
+- Senate
+- Trump Dividends
 ---
 
 President Donald Trump says his proposed $5,000 “Trump dividends” would come with a significant caveat: Recipients would have to spend the money in the United States.

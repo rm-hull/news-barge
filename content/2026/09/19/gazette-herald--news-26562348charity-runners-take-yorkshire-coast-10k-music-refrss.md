@@ -13,6 +13,15 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21475047.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- Yorkshire Coast 10K
+people:
+- Andrea Hayes
+organisations:
+- Music Builds Minds
+- Richard Shephard Music Foundation
 ---
 
 A North Yorkshire charity is urging runners to take on a major challenge to transform children's lives through music.

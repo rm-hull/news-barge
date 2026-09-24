@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Central Park
+- Darlington
+- Darlington's Science Park
+- North East
+- Teesside
+- YOUR
+people:
+- Chris McEwan
+- David Gartland
+- James Litherland
+organisations:
+- Cityheart
+- Darlington Borough Council
+- Darlington College
+- Darlington Science Park
+- Growth Mission Fund
+- Innovation Central
+- Public Notice Portal
+- STEM Centre
+- STUART BOULTON
+- Teesside University
 ---
 
 *(Image: CITYHEART)*

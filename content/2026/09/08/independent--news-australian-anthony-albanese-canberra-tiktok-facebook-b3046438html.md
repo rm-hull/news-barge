@@ -13,6 +13,18 @@ categories:
 - UK
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- Canberra
+people:
+- Anthony Albanese
+organisations:
+- Digital Duty of Care
+- Facebook
+- Instagram
+- Snapchat
+- TikTok
+- YouTube
 ---
 
 Australian social media users would be given a choice to opt out of algorithms under proposed laws announced by the government Tuesday that would let users have more control over what they see on their social media feeds.

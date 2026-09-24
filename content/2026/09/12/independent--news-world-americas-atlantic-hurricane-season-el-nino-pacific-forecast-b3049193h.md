@@ -13,6 +13,26 @@ categories:
 - UK
 - Sports
 - History
+locations:
+- Atlantic
+- Bahamas
+- California
+- Central Pacific
+- Freeport
+- Gulf Coast
+- Hawaii
+- Texas
+- U.S.
+people:
+- Alex Sosnowski
+- Arthur
+- Lowell
+- Paul Pastelok
+organisations:
+- AccuWeather Lead Long-Range Meteorologist
+- El Niño
+- NASA
+- National Hurricane Center
 ---
 
 Forecasters say it’s possible that the U.S. may not see any Atlantic hurricanes this season, potentially breaking a century-old record.

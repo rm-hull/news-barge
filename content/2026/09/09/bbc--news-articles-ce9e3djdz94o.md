@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Canada
+- East Jerusalem
+- France
+- Ganim
+- Israel
+- Jordan Valley
+- UK
+- West Bank
+- West Bank.
+people:
+- Amichai Chikli
+- Andy Burnham
+- Ed Miliband
+- Ephraim Mirvis
+organisations:
+- BBC Radio 4
+- Board of Deputies of
+- CST
+- Community Security Trust
+- House of Commons
+- Islamic Relief Worldwide
+- JLC
+- Jewish Leadership Council
+- Movement for Progressive Judaism
+- Na'amod
+- Norwegian Refugee Council
+- Oxfam
+- Save the Children
 ---
 
 Watch: 'I thought it was important to call out what's happening', says Miliband

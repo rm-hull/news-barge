@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Balkan
+- England
+- Europe
+- France
+- Italy
+- London
+- Mediterranean
+- North Africa
+- Spain
+- UK
+- Wales
+people: []
+organisations:
+- BBC
+- EU
+- French Weather Services
+- Met Office
 ---
 
 An intense September heatwave has been forecast across Europe, as a heat dome is set to send temperatures soaring.

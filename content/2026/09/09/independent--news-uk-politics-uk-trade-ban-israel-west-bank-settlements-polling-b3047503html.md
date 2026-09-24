@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- E1
+- East Jerusalem
+- Gaza
+- Israel
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Ed Miliband
+- Ephraim Mirvis
+- Gideon Sa'ar
+- ’s Questions
+organisations:
+- Commons
+- International Court of Justice
+- Labour
+- Stop the War Coalition
+- YouGov
 ---
 
 A majority of the British public backs the government’s decision to ban imports from Israeli settlements in the West Bank, a new poll has found.

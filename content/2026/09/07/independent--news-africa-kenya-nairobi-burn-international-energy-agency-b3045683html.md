@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Africa
+- Dar es Salaam
+- Democratic Republic of Congo
+- Kenya
+- Kigali
+- Madagascar
+- Malawi
+- Nairobi
+- Paris
+- Rwanda
+- Tanzania
+- Uganda
+people:
+- George Mwaniki
+- Mary Kavutha
+- Peter Scott
+- Samia Suluhu
+organisations:
+- AP
+- African Union
+- Air Quality for WRI Africa
+- Associated Press’
+- BURN
+- ENEDOM
+- Eco Safi
+- IEA
+- International Energy Agency
+- Koko Networks
 ---
 
 Every morning, Mary Kavutha prepares breakfast for her two young children using an induction cooker in her Nairobi home. Two years ago, the businesswoman relied on a charcoal stove that filled her kitchen with smoke and cost about $1.15 in fuel each day.

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Americas
+- Britain
+- Japan
+- London
+- UK
+- US
+- United States
+people:
+- Chris Elmore
+- Donald Trump
+- Michael Shanks
+organisations:
+- Electric Power Research Institute
+- Government
+- Kyoto Fusioneering
+- Oxford-Cambridge Growth Corridor
+- Princeton Plasma Physics Laboratory
+- UK Atomic Energy Authority
+- University of Birmingham
 ---
 
 Britain and the United States are preparing to enter into two formal agreements designed to deepen bilateral co-operation on artificial intelligence and fusion power, in an effort to accelerate a breakthrough in clean energy generation.

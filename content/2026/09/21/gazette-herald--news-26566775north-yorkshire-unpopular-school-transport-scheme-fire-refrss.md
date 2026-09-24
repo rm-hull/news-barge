@@ -13,6 +13,27 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/11139653.jpg?type=og-image
+locations:
+- County Hall
+- North Yorkshire
+- Northallerton
+- Scarborough
+people:
+- Alexander Dennis
+- Andrew Lee
+- Charlotte Fowler
+- Kate Helme
+- Peter Lacey
+- Peter Wilkinson
+- Simon Myers
+organisations:
+- Appleton Roebuck
+- Church Fenton
+- Liberal Democrat-run Westmorland and Furness Council
+- North Yorkshire Council
+- STAG
+- School Transport Action Group
+- Tockwith
 ---
 
 North Yorkshire Council chiefs have rejected calls to scrap an unpopular school transport policy, telling opposition councillors they would make the same decision if they were responsible for the authority's finances.

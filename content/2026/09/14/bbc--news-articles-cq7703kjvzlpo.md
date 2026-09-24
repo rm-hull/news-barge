@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Downing Street
+- Great Britain
+- UK
+people:
+- Alex Burghart
+- Antonia Romeo
+- Chris Wormald
+- Keir Starmer
+- Lord Wormald
+organisations:
+- BBC
+- Cabinet Office
+- Civil Service
+- FDA Union
+- House of Lords
+- Houses of Parliament.
+- Labour
 ---
 
 ![Lord Wormald has short grey hair, a dark-coloured jacket and a white shirt which has the top button open.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/983d/live/99bb56f0-b0b7-11ef-a0f2-fd81ae5962f4.jpg)

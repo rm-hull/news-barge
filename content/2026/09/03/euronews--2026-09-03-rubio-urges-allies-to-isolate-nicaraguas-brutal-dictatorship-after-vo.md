@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Managua
+- Nicaragua
+- US
+- United States
+- Washington
+people:
+- '## Ortega'
+- Daniel Ortega
+- Marco Rubio
+- Rosario Murillo
+organisations:
+- National Assembly
 ---
 
 ## Ortega hit back at Washington dismissing US pressure while the reform - which also extends presidential terms to seven years - still requires a second legislative vote before taking effect in January.

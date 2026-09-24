@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Travel
+locations:
+- Bamburgh Castle
+- Blyth beach
+- Coastline
+- England
+- North East
+- Northumberland beach
+- UK
+people: []
+organisations:
+- Special Nature Conservation
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

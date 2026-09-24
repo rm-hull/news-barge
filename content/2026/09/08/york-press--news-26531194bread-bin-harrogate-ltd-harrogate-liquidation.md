@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Harrogate
+people: []
+organisations:
+- Aurora Recovery of Leeds
+- Bread Bin
+- Google Reviews
+- Harrogate
+- Harrogate) Ltd
 ---
 
 *(Image: Street View)*

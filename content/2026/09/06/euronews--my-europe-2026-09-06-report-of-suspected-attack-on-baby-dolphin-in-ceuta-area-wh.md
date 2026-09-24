@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Ceuta
+- Trampolín
+people:
+- García Gómez
+- Nadia García Gómez
+- Seprona
+organisations:
+- '## DAUBMA'
+- Association for the Defence of Urban Trees, Biodiversity and the Environment
+- CECAM
+- Civil Guard
+- EU
+- Ecoservicios
+- Government Delegation
+- Guardia Civil
+- Guardia Civil, Semar
+- Seprona
 ---
 
 ## The DAUBMA association has filed a complaint with the Civil Guard after a dolphin calf died on Trampolín beach in Ceuta, providing images to help clarify what happened and identify the alleged culprits.

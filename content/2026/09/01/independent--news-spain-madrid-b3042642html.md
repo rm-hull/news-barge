@@ -14,6 +14,10 @@ categories:
 - UK
 - Sports
 - Arts & Culture
+locations:
+- Spain
+people: []
+organisations: []
 ---
 
 Old-fashioned hand fans make a comeback as Spain swelters, in photos

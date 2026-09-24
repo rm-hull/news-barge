@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Goole
+- Scarborough
+- York
+people: []
+organisations:
+- Nette-Jay
+- Oddfellows
+- RNLI
+- Royal National Lifeboat Institution
 ---
 
 An organisation with historical ties to pub culture is promoting friendship this month.

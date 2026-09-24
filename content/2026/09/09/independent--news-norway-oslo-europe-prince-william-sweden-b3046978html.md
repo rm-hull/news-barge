@@ -14,6 +14,25 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Akershus Castle
+- Belgium
+- Denmark
+- Europe
+- Japan
+- Jordan
+- Netherlands
+- Norway
+- Oslo Cathedral
+- Spain
+- Sweden
+people:
+- Akishino
+- Haakon VIII
+- Harald Fairhair
+- Harald V
+- William
+organisations: []
 ---
 
 Norway will bid its final farewell to King Harald V on Wednesday with a funeral attended by royalty and leaders from across Europe and beyond, who will pay tribute to the popular monarch's 35-year reign.

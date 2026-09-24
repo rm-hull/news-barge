@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Mark Trimbee
+- Regtransfers
+- Zara’
+- Zaza’
+organisations:
+- DVLA
+- Ferrari
+- P15 STA
+- Regtransfers
+- Trimbee
 ---
 
 Four number plates have been sold for a combined £68,324 in DVLA’s recent September auction.

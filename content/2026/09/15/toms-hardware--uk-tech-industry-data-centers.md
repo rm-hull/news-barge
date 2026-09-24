@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Argentina
+- California
+- China
+- Denver Water
+- El Reno
+- Iran
+- Oklahoma
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+- Virginia
+people: []
+organisations:
+- AWS
+- Bitcoin
+- Get Tom's Hardware
 ---
 
 ![a row of separation vessels for natural gas production](https://cdn.mos.cms.futurecdn.net/sf6SYZ3SGNXRhuKPg8DSdg-320-80.png)

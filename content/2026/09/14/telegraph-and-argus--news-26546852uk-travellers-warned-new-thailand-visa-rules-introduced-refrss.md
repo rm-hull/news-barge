@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- New Thailand
+- UK
+people: []
+organisations:
+- Foreign Office
+- Jet2
 ---
 
 *(Image: Getty Images)*

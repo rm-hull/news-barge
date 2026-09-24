@@ -12,6 +12,31 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Baranavichy
+- Belarus
+- Brest
+- Brzeski
+- Europe
+- Hoża
+- Kaliningrad
+- Lithuania
+- Minsk
+- Obuz-Lesnowski
+- Poland
+- Russia
+- Różański
+- Suwałki Gap
+- Ukraine
+- Vienna
+people:
+- Alyaksandr Lukashenka
+organisations:
+- Border Guard Service
+- NATO
+- Radio Free Europe
+- Radio Svaboda
+- Slavic Brotherhood
 ---
 
 ## Minsk insists there is no cause for concern, and the Belarusian defence ministry describes the exercises as "purely defensive".

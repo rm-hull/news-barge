@@ -11,6 +11,18 @@ image: https://static.independent.co.uk/2026/08/31/07/South_Korea_Church_Leader_
 categories:
 - News & Politics
 - UK
+locations:
+- Seoul Central District Court
+- United States
+people:
+- Chanel
+- Hak Ja Han
+- Kim Keon Hee
+- Sun Myung Moon
+- Yoon Suk Yeol
+organisations:
+- Seoul Central District Court
+- Unification Church
 ---
 
 A South Korean court on Monday sentenced Unification Church leader Hak Ja Han to two years in prison for corruption charges.

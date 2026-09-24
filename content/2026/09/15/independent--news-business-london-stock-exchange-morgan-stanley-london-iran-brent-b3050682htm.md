@@ -13,6 +13,54 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Antofagasta
+- Frankfurt
+- Iran
+- London
+- Middle East
+- New York
+- Paris
+- UK
+- US
+people:
+- Kallum Pickering
+- Richard Carter
+- Sean Kealy
+- Susannah Streeter
+organisations:
+- Alliance News
+- BAE Systems
+- BP
+- Babcock International
+- Babcock International Group
+- Bank of America
+- Bank of England
+- Barclays
+- Barratt Redrow
+- BoE
+- Experian
+- FXStreet
+- Fed
+- Federal Reserve
+- Glencore
+- IG Group Holdings
+- JPMorgan
+- Kingfisher
+- London Stock Exchange
+- London Stock Exchange Group
+- Monetary Policy Committee
+- Moonpig
+- Morgan Stanley
+- Panmure Liberum
+- Peel Hunt
+- Quilter Cheviot
+- Relx
+- Shell
+- Treasury
+- Trustpilot
+- Wealth Club
+- Wickes
 ---
 
 The FTSE 100 ended lower on Tuesday, albeit well above early worse levels, as high bond yields, fears of higher interest rates and elevated oil prices kept buyers on the sidelines.

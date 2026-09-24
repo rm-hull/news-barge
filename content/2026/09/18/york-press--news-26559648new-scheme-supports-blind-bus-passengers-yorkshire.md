@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Arriva Yorkshire
+- Dewsbury
+- North of England
+people:
+- Kelle McParland
+organisations:
+- Arriva Yorkshire
+- DCPC
+- Driver Certificate of Professional Competence
+- Guide Dogs
+- Sight Loss Councils
+- TPT
+- Thomas Pocklington Trust
 ---
 
 *(Image: Supplied)*

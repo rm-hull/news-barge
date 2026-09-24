@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Australia
+- Bangkok
+- Pattaya City
+- Pattaya Remand Prison
+- Thailand
+people:
+- Anek Srathongyoo
+- Simon Peter Carman
+organisations:
+- Pattaya City Police
+- Pattaya Provincial Court
+- The Associated Press
 ---
 
 An Australian man appeared in court for the first time Friday on charges of murder and concealment of a body in connection with the death of a teenage girl in an eastern tourist city in Thailand, police said.

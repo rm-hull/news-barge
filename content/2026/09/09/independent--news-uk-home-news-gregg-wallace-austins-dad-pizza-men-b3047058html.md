@@ -13,6 +13,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Stamford
+people:
+- Austin
+- Gregg Wallace
+- McIllory
+- McIlory
+- Will Mcllory
+organisations:
+- BBC
+- Dad Pizza
+- Facebook
 ---
 
 A new pizza joint backed by disgraced former *MasterChef* host Gregg Wallace will only hire men, its owner has announced.

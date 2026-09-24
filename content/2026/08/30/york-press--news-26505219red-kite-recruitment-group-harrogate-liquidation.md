@@ -13,6 +13,23 @@ categories:
 - York
 - Health & Fitness
 - Business & Entrepreneurship
+locations:
+- Boroughbridge
+- East Parade
+- Harrogate
+- North Yorkshire
+- Tattersall House
+people:
+- David
+- Jenna Nicholson
+organisations:
+- Clough Corporate Solutions
+- FK Building Ltd of Harrogate
+- HMRC
+- HSBC
+- House
+- Red Kite Recruitment Group
+- Yorkshire Exhibition Solutions
 ---
 
 *(Image: Street View)*

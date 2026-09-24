@@ -13,6 +13,41 @@ categories:
 - History
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/e6ec3fcacb2cdaac85f690f1dfbdd857280f29cb/413_0_1521_1216/master/1521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6069da0700b0a92c890f556e7675e1ec
+locations:
+- Auschwitz
+- Auschwitz-Birkenau
+- Berlin
+- California
+- Europe
+- Los Angeles
+- Norton Simon Museum
+- Pasadena
+- Poland
+- Soviet Union
+- US
+people:
+- Adam
+- Adolf Hitler
+- Daniel Gryczman
+- Dina Gottliebova Babbitt
+- Elder
+- Gottliebova Babbitt
+- Hermann Göring
+- Jacques Goudstikker
+- Josef Mengele
+- Lucas Cranach
+- Marei von Saher
+- Noah Farkas
+- Pawel Sawicki
+- Stroganoff
+- Von Saher
+organisations:
+- Jewish Federation of
+- Jewish Federation of Greater Los Angeles
+- Norton Simon Museum
+- Pasadena Museum of Modern Art
+- Roma
+- US Congress
 ---
 
 Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their claims to Nazi-looted paintings that still hang on the walls of prominent museums in Los Angeles and Auschwitz.

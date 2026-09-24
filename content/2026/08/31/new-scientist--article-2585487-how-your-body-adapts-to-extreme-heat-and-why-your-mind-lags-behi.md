@@ -13,6 +13,42 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309026179.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Africa
+- Antalya
+- Australia
+- Berkeley
+- China
+- Denmark
+- Earth
+- Europe
+- India
+- Kalkan
+- Kuwait City
+- Melbourne
+- Middle East
+- Montreal
+- Persian Gulf
+- Qatar
+- South America
+- Sydney
+- Turkey
+- UK
+- US Midwest
+people:
+- Carolyn Broderick
+- Clarissa Whitmire
+- David Romps
+- Jennifer Vanos
+- Julien Périard
+- Will Self
+organisations:
+- Arizona State University
+- Tennis Australia
+- University of California
+- University of Canberra
+- University of Queensland
+- University of Sydney
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309026179.jpg?w=840)

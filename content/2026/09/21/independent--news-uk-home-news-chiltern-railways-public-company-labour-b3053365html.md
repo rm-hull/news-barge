@@ -12,6 +12,42 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/07/15/9/45/Train-Interior.jpeg?trim=167,0,169,0&width=1200&height=800&crop=1200:800
+locations:
+- Amersham
+- Aylesbury Vale Parkway
+- Bicester Village
+- Birmingham Moor Street
+- Buckinghamshire
+- Chiltern
+- Greater Anglia
+- London Euston
+- London Marylebone
+- Northern
+- Oxford
+- Oxfordshire
+- South Western Railway
+- Southeastern
+- UK
+- West Coast Main Line
+- West Midlands
+- West Midlands Trains
+people:
+- Lord Hendy
+organisations:
+- Chiltern Mainline
+- Chiltern Railways
+- Chiltern Railways’
+- Department for Transport
+- DfT
+- GBR
+- Government
+- Govia Thameslink Railway
+- Great British Railways
+- Great Western Railways
+- LNER
+- Labour
+- London Marylebone
+- TransPennine Express
 ---
 
 Chiltern Railways’ services became the latest to transition into public ownership on Sunday, marking the sixth train operator to be nationalised by the Government.

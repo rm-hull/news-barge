@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Columbus
+- Hamden
+- Ohio
+- Sr. Vinton County
+- Vinton County
+- West Virginia
+people:
+- Christina Siders
+- Dorian Baum
+- Elizabeth Siders
+- Gary Siders
+- Gary Siders Jr.
+- Siders'
+- William Archer
+organisations:
+- Mason County Courthouse
 ---
 
 A man whose 16 grandchildren were discovered living in squalid conditions at a rural southern Ohio home was found mentally incompetent to stand trial Wednesday.

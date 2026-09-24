@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Asia
+- Bangladesh
+- Beijing
+- Brunei
+- Law of the Sea
+- Malaysia
+- Manila
+- Myanmar
+- Philippines
+- Singapore
+- South China Sea
+- Taiwan
+- The Hague
+- Vietnam
+people:
+- Aung San Suu Kyi
+- Bo Kyi
+- Runa Khan
+- Tommy Koh
+organisations:
+- Assistance Association for Political Prisoners
+- Friendship Bangladesh
+- Metropolitan Theatre
+- U.N.
+- UN
+- United Nations Convention on the Law of the Sea
 ---
 
 A Singaporean lawyer and diplomat who led an international conference that adopted the United Nations Convention on the Law of the Sea, a Myanmar activist whose group documents human rights atrocities and a former Bangladeshi teacher who has helped provide aid to her country’s poorest were named Monday as the winners of this year’s Ramon Magsaysay Awards.

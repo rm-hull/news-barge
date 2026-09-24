@@ -15,6 +15,41 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- Abu Dhabi
+- Armenia
+- Azerbaijan
+- Bahrain
+- Baku
+- Damascus
+- Dubai
+- Egypt
+- Georgia
+- Gulf
+- Jordan
+- Lebanon
+- Syria
+- UAE
+- Umayyad Mosque
+- United States
+- Washington
+people:
+- Abdulla bin Touq Al Marri
+- Ahmed al-Sharaa
+- Al Kaabi
+- Al Marri
+- Boutros Boutros
+- Hikmet Hajiyev
+- Maka Botchorishvili
+- Noura Al Kaabi
+- Sheikha Fatima bint Mubarak
+organisations:
+- AI
+- Arab Media Summit
+- Dubai World Trade Centre
+- Emirates Group
+- Euronews Forum
+- UAE Economy and Tourism
 ---
 
 ## UAE Economy Minister Abdulla bin Touq Al Marri told the Euronews Forum that "resilience is the insurance of economies," while Azerbaijan's Hajiyev said his country was "winning in the peace" and Georgia's foreign minister flagged sustained disinformation campaigns.

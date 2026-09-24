@@ -14,6 +14,27 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- America
+- Las Vegas
+- Las Vegas Valley
+- Palace Station
+- The Bingo Palace
+people:
+- Frank Fertitta III
+- Ida Johnson
+- Lorenzo Fertitta
+- Lorenzo Fetitta
+- Paula Barrett
+organisations:
+- KLAS
+- Palace Station
+- Palace Station Hotel & Casino
+- Red Rock Casino Resort
+- Red Rock Resorts
+- Red Rock Resorts Class A
+- Spa
+- Station Casinos
 ---
 
 A Las Vegas casino operator has surprised employees by giving away $70 million in stock to celebrate its 50th anniversary.

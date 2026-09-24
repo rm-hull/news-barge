@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+locations:
+- Rochester Road
+- Stockton
+- Teesside Crown Court
+people:
+- Alby Hunt
+- Colin Burn
+- Tom Bennett
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

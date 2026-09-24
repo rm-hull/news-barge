@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- US
+- United States
+people:
+- Haleon
+organisations:
+- CVS Pharmacy
+- Eli Lilly
+- Gallup
+- Haleon
+- Novo Nordisk
+- Target
+- Walmart
+- Wegovy
 ---
 
 Consumer healthcare business Haleon has reported increasing United States sales for products aimed at mitigating the side-effects of weight-loss drugs, taking advantage of the growing market for GLP-1 treatments.

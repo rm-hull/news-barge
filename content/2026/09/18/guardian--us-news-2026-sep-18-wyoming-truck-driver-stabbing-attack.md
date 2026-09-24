@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/f907328e02813b329fad21c869c94f954f2d84a7/233_0_1592_1274/master/1592.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec78ee62ae045b0fdd3fe9a668899e62
+locations:
+- Illinois
+- Sweetwater
+- Wyoming
+people:
+- Andrew Kris Bzdak
+- Jeff Sheaman
+- Raja Krishnamoorthi
+- Singh
+organisations:
+- DHS
+- Department of Homeland Security
+- NPR
+- Sacramento Bee
+- Trump Department of Homeland Security
 ---
 
 A Sikh truck driver survived harrowing attack in which he was beaten then stabbed 17 times in a rest stop off a Wyoming highway on Sunday, according to news reports.

@@ -11,6 +11,29 @@ description: Apple's first folding phone, the iPhone Duo, is already an unexpect
 image: https://cdn.mos.cms.futurecdn.net/AFhxLLs8QJArr5s2N8Kur4-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Lance Ulanoff
+organisations:
+- Apple
+- BBC
+- CNBC
+- CNN
+- Control Panel
+- Galaxy Z Fold
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- MagSafe
+- Mashable
+- Medium
+- Netflix
+- Today Show
+- Ultra
+- Ziff Davis, Inc
+- iPhone Duo
 ---
 
 ![iPhone Duo Hands On](https://cdn.mos.cms.futurecdn.net/AFhxLLs8QJArr5s2N8Kur4.jpg) 

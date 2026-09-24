@@ -12,6 +12,25 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/18/15/36/Screenshot-2026-09-18-at-16-17-43.png?trim=65,0,447,0&width=1200&height=800&crop=1200:800
+locations:
+- Manchester Royal Infirmary
+- Spain
+- UK
+people:
+- Becca Moore
+- Eman David
+- Fiona Carragher
+- Fiona Loud
+- John Richardson
+- Morten
+organisations:
+- Kidney Care UK
+- Kidney Research UK
+- NHS Blood and Transplant
+- NHS Organ Donor Register
+- NHSBT
+- Organ and Tissue Donation and Transplantation
+- UTIs
 ---
 
 At just 22 years old, Eman David has spent much of her life in and out of hospital.

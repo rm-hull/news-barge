@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Britain
+- France
+- New York
+- New Zealand
+- US
+people:
+- Anika Wells
+- Anthony Albanese
+- Chanel Contos
+- Donald Trump
+- Matt Canavan
+- Sarah Hanson-Young
+- Tom Mooney
+organisations:
+- Big Tech
+- DIGI
+- Democracy Counts
+- Google
+- Greens
+- Labor
+- Meta
+- Nationals
+- Snapchat
+- Teach Us Consent
+- United Nations
+- eSafety
 ---
 
 Australia will allow social media account holders to opt out of the powerful algorithms pushing dangerous and divisive content into users’ feeds, part of new laws designed to boost online safety.

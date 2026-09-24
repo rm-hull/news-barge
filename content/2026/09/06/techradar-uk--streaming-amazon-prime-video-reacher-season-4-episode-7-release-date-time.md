@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/Gn9nWawP4WKKK6YZpH2sKm-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Alan Ritchson
+- George Cooper Sr.
+- Reacher
+organisations:
+- Amazon
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Reacher looks at something offscreen](https://cdn.mos.cms.futurecdn.net/Gn9nWawP4WKKK6YZpH2sKm.jpg) 

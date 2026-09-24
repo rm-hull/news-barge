@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- NSW
+people:
+- Helen Goodwin
+- Jason Clare
+- Prue Car
+organisations:
+- Car
+- New South Wales
 ---
 
 The New South Wales government has announced it will implement limits on screen time in public school classrooms and push for students to take part in daily “pen and paper” learning.

@@ -12,6 +12,57 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/23/02/Climate_Disasters_Funding_Cuts_85956.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Bangladesh
+- Belgium
+- Bengaluru
+- Canada
+- France
+- Germany
+- Himalaya
+- India
+- Indian Himalayas
+- Japan
+- Myanmar
+- Nepal
+- Pakistan
+- South Asia
+- Switzerland
+- U.S.
+- United Kingdom
+people:
+- Harjeet Singh
+- Neha Rai
+- Richard Sherman
+- Tenzin Dolma Ghale
+- Teresa Andersen
+organisations:
+- AP
+- ATM
+- ActionAid International
+- Associated Press’
+- Development Assistance Committee
+- Fund for Responding to Loss and Damage
+- Himalayas The Trump
+- ICIMOD
+- International Centre for Integrated Mountain Development
+- NASA
+- National Oceanic and Atmospheric Administration
+- Nepal Red Cross Society
+- Organization for Economic Cooperation and Development
+- SERVIR-HKH
+- Satat Sampada Climate Foundation
+- Systemiq
+- The Associated Press
+- U.S. Agency for International Development
+- U.S. State Department
+- USAID
+- United Nations Development Program
+- University of Lausanne
+- University of Louvain
+- World Meteorological Organization
+- \_\_\_ Arasu
 ---
 
 Sitting on the floor of a makeshift shelter for survivors of Nepal's deadly recent floods, Tenzin Dolma Ghale said she had nothing left but the clothes she was wearing. Her entire village and members of her family were washed away by the surge of water and debris that killed over 1,450 people and left more than 6,000 missing.

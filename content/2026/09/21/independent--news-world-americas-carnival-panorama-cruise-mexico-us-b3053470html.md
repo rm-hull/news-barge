@@ -12,6 +12,26 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/21/11/2224628466..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Baja
+- California
+- Long Beach
+- Mexican Riviera
+- Mexico
+- Puerto Vallarta
+- U.S.
+people:
+- Michael Bedwell
+organisations:
+- CCTV
+- Carnival Cruise Line
+- Carnival Panorama
+- Eyewitness News
+- Fox News
+- Mexican Navy
+- Mexico Coast Guards
+- NBC Los Angeles
+- TMZ
 ---
 
 A desperate search has been launched for a missing cruise passenger who jumped overboard at the end of a tour of the Mexican Riviera.

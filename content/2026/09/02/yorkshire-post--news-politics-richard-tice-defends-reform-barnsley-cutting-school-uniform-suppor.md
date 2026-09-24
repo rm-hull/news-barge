@@ -15,6 +15,18 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations:
+- Barnsley
+- South Yorkshire
+- Wakefield
+people:
+- Coun James Higginbottom
+- Richard Tice
+organisations:
+- '## Reform'
+- BBC Sheffield
+- Barnsley Labour
+- Reform Barnsley
 ---
 
 # 'Great job': Richard Tice defends Reform Barnsley cutting school uniform support

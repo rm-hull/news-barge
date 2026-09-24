@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Colliergate
+- Commons York
+- Coney Street
+- Lendal
+- Micklegate
+- TG Jones’ Coney Street
+- York Central
+people:
+- Alan Campbell
+- Alice Kavanagh
+- Ms Maskell
+- Rachael Maskell
+organisations:
+- Alice Kavanagh
+- High Court
+- House of Commons
+- Labour
+- Modella Capital
+- PA Wire
+- Post Office
+- Post Office The Post Office
+- TG Jones
+- TG Jones and York main Post Office
+- UK Parliament
+- WHSmith
+- WHSmiths
+- York Post Office
 ---
 
 *(Image: Alice Kavanagh)*

@@ -14,6 +14,30 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Antalya
+- Brazil
+- Brussels
+- Europe
+- Middle East
+- Paris
+- Turkey
+people:
+- Sven Harmeling
+- Wopke Hoekstra
+organisations:
+- COP31
+- Climate Action Tracker
+- EU
+- Euronews
+- European Commission
+- European Union
+- NGO Climate Action Network Europe
+- National Adaptation Plans
+- The Council
+- UNEP
+- United Nations Environment Program
+- United Nations'
 ---
 
 ## EU ambassadors want COP31 to deliver faster clean-energy deployment, a transition away from fossil fuels, greater electrification, tripling renewable energy, doubling energy-efficiency improvements and cutting methane and other non-CO2 emissions by 2030, according to a document seen by Euronews.

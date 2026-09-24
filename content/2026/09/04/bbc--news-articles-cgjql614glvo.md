@@ -11,6 +11,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Chatham House
+- China
+- Iran
+- Islamic Republic
+- Israel
+- London
+- Middle East
+- MoU
+- Russia
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- White House
+people:
+- Aniseh Bassiri Tabrizi***
+- Donald Trump
+- Jason Campbell**
+- Nicholas Hopton***
+organisations:
+- IRGC
+- Islamic Revolutionary Guard Corp
+- Memorandum of Understanding
+- Middle East Institute
+- MoU
+- North Africa Programme
+- Royal United Services Institute
+- Trump
+- Washington DC
 ---
 
 ![General view of a five-storey building in Tehran. The building has been shelled-out by a reported missile attack, the outer brickwork is no longer visible and instead the building is hollowed out but is still standing. It is surrounded by rubble](https://ichef.bbci.co.uk/ace/standard/825/cpsprodpb/9a51/live/5d415e40-a7aa-11f1-b78b-6b70b0a83270.jpg)

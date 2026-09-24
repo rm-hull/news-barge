@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Rooley Lane
+people:
+- Toby Carvery
+organisations:
+- '## Restaurant'
+- Telegraph & Argus
+- Toby Carvery
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Fire and Rescue Services A
 ---
 
 *(Image: T&A)*

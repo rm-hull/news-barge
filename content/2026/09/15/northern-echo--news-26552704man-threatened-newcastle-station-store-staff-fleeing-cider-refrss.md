@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Elswick
+- Ladykirk Road
+- Newcastle Central Station
+- Sunderland
+people:
+- Arron Peacock
+- Liam Ellison
+organisations:
+- BTP
+- British Transport Police
+- CCTV
+- Newcastle Crown Court
+- Sainsbury's
 ---
 
 *(Image: British Transport Police)*

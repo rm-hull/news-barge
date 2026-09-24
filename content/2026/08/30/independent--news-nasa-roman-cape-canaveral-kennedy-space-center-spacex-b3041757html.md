@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Chile
+- Earth
+people:
+- Ed Weiler
+- Julie McEnery
+- Mother of Hubble
+- Nancy Grace Roman
+- Nicky Fox
+- Webb
+organisations:
+- AP
+- Associated Press Health and Science Department
+- Department of Science Education
+- Euclid
+- European Space Agency
+- Falcon Heavy
+- Howard Hughes Medical Institute
+- Hubble Space Telescope
+- Kennedy Space Center
+- NASA
+- National Reconnaissance Office
+- National Science Foundation
+- Robert Wood Johnson Foundation
+- Roman Space Telescope
+- SpaceX
+- Vera C. Rubin Observatory
+- Webb Space Telescope
 ---
 
 NASA’s newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.

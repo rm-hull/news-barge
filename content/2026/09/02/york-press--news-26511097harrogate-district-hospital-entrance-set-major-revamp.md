@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate District Hospital
+- Ireland
+- YOUR
+people:
+- Jonathan Coulter
+- Jonathan Houlston
+organisations:
+- Café Bistro
+- Compass Group UK
+- Costa Coffee and M&S Food
+- District NHS Foundation Trust
+- Harrogate District Hospital
+- Harrogate and District NHS Foundation Trust
+- NHS Harrogate
+- Noviniti
+- One Retail
+- Public Notice Portal
+- WH Smiths
 ---
 
 ## Major redevelopment to transform entrance at Harrogate District Hospital begins

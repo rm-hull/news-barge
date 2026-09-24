@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Arizona
+- Colorado Springs
+- Florida
+- Orlando
+- Pulse
+- Stonewall
+- Tucson
+- Venture-N
+people:
+- Cameron Davis Capara
+- James Horton
+- Mary O'Donoghue
+- Monica Prieto
+- Ousman Ceesay
+- Regina Romero
+- Venture-N
+- Vincent Anthony Siqueiros
+organisations:
+- Facebook
+- LGBTQ
+- LGBTQIA
+- PFLAG Phoenix
+- Southern Arizona AIDS Foundation
+- Southern Arizona Senior Pride
+- Tucson Police Department
+- Tucson Queerstory
 ---
 
 Police in Arizona say a shooting at a Tucson gay bar that left three people dead, including the shooter, is being investigated as a possible hate crime.

@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-619792396.jpg@webp
+locations:
+- Babylon Berlin
+- City of Blood
+- Frankfurt
+- Germany
+- Hamburg
+- Mecklenburg-Western Pomerania
+- Mitte
+- Munich
+- Oktoberfest
+- Schottenhamel
+people:
+- God
+organisations:
+- AfD
+- Alternative for Germany
+- Animal Welfare Party
+- CDU
+- City of Blood
+- Fischauktionshalle
+- Greens
+- Hofbräu Wirtshaus
+- Left Party
+- SPD
 ---
 
 You’ve probably heard by now that two state elections are taking place on Sunday, including one in Berlin – which, as always, is being pitched as an event that could shape the city’s future.

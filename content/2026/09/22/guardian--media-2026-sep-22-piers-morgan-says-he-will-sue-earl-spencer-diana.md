@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/c80497294a55da092ec2eb7979d5ea353f3802c3/595_133_4448_3559/master/4448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f51f5d2221019682696d8b50e421f2b
+locations:
+- Buckingham Palace
+- Kensington Palace
+- Princess of Wales
+- South Africa
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Piers Morgan
+- William
+organisations:
+- Daily Mail
+- Daily Mirror
+- PR
+- Penguin Random House
+- Sun
+- Sunday Mirror
+- YouTube
 ---
 
 Piers Morgan has said he will sue Earl Spencer over “fabricated inaccuracies” and “examples of brazen falsity” in his book about Diana, Princess of Wales.

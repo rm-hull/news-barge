@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Brighouse
+- Highmoor Lane
+people:
+- Pixabay
+organisations:
+- Roads Policing Unit
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

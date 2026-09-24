@@ -13,6 +13,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Iran
+- Rio Grande
+- Texas
+- Washington
+- White House
+people:
+- Alex Woodward
+- Donald Trump
+organisations:
+- AWESOM
+- Bald Eagle
+- Border Patrol
+- ICE
+- Oval Office
+- The Independent
+- Trump Accounts
+- Trump Savings Tycoon
 ---
 
 The White House has launched a new arcade game website where users can build the border wall and make school meals that follow President Donald Trump’s “Make America Healthy Again” movement.

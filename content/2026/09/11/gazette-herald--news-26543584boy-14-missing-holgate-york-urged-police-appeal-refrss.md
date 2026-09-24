@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Holgate
+- Manchester
+- North Yorkshire
+- York
+people:
+- Jerome
+organisations:
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

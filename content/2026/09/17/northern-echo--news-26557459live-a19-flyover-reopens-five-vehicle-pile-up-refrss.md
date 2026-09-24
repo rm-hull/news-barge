@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people: []
+organisations:
+- A19
+- The Northern Echo
 ---
 
 - Good morning, welcome to The Northern Echo's live blog on an incident on the A19.

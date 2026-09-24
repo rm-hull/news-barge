@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- YOUR
+people:
+- Chris Tate
+- Gargrave
+organisations:
+- A65
+- Gargrave Parish Council
+- North Yorkshire Council
+- Public Notice Portal
+- TPO
+- Tree Preservation Order
 ---
 
 *(Image: Chris Tate)*

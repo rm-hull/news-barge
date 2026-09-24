@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- England
+- Forest of Bowland
+- Long Preston
+- Nidderdale
+- North Yorkshire
+- UK
+- Yorkshire Dales National Park
+people:
+- Carol Douglas
+- James Newhouse
+organisations:
+- Met Office
+- YDMT
+- Yorkshire Dales Millennium Trust
 ---
 
 *(Image: YDMT)*

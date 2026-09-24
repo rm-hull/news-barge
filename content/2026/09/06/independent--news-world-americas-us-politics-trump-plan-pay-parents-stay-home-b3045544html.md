@@ -11,6 +11,18 @@ image: https://static.independent.co.uk/2026/09/06/16/09/GettyImages-2287386435.
 categories:
 - News & Politics
 - UK
+locations:
+- White House
+people:
+- JD Vance
+- Joshua McCabe
+organisations:
+- Child Care and Development Fund
+- Department of Health and Human Services
+- Niskanen Center
+- The Independent
+- The New York Times
+- Trump
 ---
 
 The Trump administration is considering a new policy that would provide government childcare subsidies to married couples with a stay-at-home spouse, according to a new report.

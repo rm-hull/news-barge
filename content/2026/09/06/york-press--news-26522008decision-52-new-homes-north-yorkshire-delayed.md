@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- England
+- High Street
+- Malton
+- North Yorkshire
+- Ryedale
+- Sherburn
+- The Pastures
+- White Gate
+- YOUR
+people:
+- Alan Goforth
+- William Edward Cundall
+organisations:
+- Cromsdale Estates
+- Google
+- Government
+- NPPF
+- North Yorkshire Council
+- Public Notice Portal
+- Thirsk
 ---
 
 ## Decision on plans for up to 52 new North Yorkshire homes delayed

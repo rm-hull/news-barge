@@ -13,6 +13,41 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford Arts Centre
+- Dark
+- Forster Square
+- India
+- Kala’
+- Kerala
+- Pahari-Pothwari
+- St Peter’s House
+- UK
+people:
+- Dan Martin
+- Divija Melally
+- Geetha Upadhayaya
+- Nabeela Ahmed
+- Ri Ri
+- Saili Katebe
+- Sanju Sahai
+- Shripati Upadhyaya
+- Supriya Nagarajan
+- Vijaykumar
+organisations:
+- Anirudh Varma Collective
+- Aradhana Arts
+- Bradford Arts Centre
+- Bradford Writes
+- Dance Academy
+- Divija Melally
+- General Post Office
+- Kala Chethena Kathakali Company
+- Kala Sangam Global
+- One Foot
+- Pahari-Pothwari Mushaira
+- Sangeet Yatra
+- Yorkshire
 ---
 
 THERE’S a vibrant mix of comedy, storytelling and South Asian dance at Bradford Arts Centre this autumn.

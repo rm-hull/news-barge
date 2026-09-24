@@ -11,6 +11,23 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/star-inn-harome-aa-awards-2026.webp
+locations:
+- England
+- Harome
+- North Yorkshire
+- UK
+people:
+- Andrew Pern
+- Harome
+- Simon Numphud
+- Tommy Banks
+organisations:
+- AA Hotel & Hospitality Services
+- AA’s Rated Trips
+- Oldstead
+- Star Inn
+- The Black Swan
+- The Star Inn
 ---
 
 The AA has named its Restaurant of the Year 2026 – and it’s a place of “exemplary hospitality” right here in North Yorkshire.

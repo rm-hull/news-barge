@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/3nVy6PgRqeCbLk2BiLxR5W-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- U.S.
+- US
+people:
+- Anton Shilov
+- Joe Biden
+- Tom
+- Trump
+organisations:
+- CXMT
+- ChangXin Memory Technologies
+- Chinese People's Liberation Army
+- DRAM
+- Defense Department
+- DoD
+- Get Tom's Hardware
+- Google News
+- JEDEC
+- MIIT
+- Ministry of Industry and Information Technology
+- PLA
+- Pentagon
+- Reuters
+- SASAC
+- State Council
+- State-owned Assets Supervision and Administration Commission
+- Tom’s Hardware
+- U.S. Department of Defense
 ---
 
 ![CXMT headquarters](https://cdn.mos.cms.futurecdn.net/3nVy6PgRqeCbLk2BiLxR5W.jpg) 

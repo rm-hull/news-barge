@@ -11,6 +11,15 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/police-notebook-nyp.webp
+locations:
+- Goole
+- Rutland Road
+- Swinefleet Road
+- Wesley Square
+people: []
+organisations:
+- Humberside Police
+- Shop Watch
 ---
 
 A man has been arrested after multiple shop thefts in Goole.

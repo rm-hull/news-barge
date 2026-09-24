@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/DJqBvCh2nLiBZ3QhGnDSd6-1920-80.png
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- UK
+people:
+- Craig Hale
+- Mark Pestridge
+- Peter Kyle
+- Telehouse
+organisations:
+- CNI
+- Craig’s
+- Critical National Infrastructure
+- EVP
+- Fairwater AI
+- GM
+- Google News
+- TechRadar Pro
+- Telehouse Europe
 ---
 
 ![The Fairwater AI datacenter design has two stories](https://cdn.mos.cms.futurecdn.net/DJqBvCh2nLiBZ3QhGnDSd6.png) 

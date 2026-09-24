@@ -14,6 +14,31 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Mount Pleasant
+- Wisconsin
+people:
+- Greg Brockman
+- Hecht
+- Jowi Morales
+- Nick Ryder
+- Nick Turley
+- Satya Nadella
+- Tom
+organisations:
+- AI
+- Anthropic
+- Applied Science
+- Applied Science Brent Hecht
+- Bing
+- ChatGPT
+- Copilot
+- Google News
+- Jowi Morales
+- Microsoft
+- NYT
+- OpenAI “
+- The New York Times
 ---
 
 ![AI](https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4.jpg) 

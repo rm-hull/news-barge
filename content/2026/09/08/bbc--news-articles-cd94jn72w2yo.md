@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Afghanistan
+- Dover
+- Egypt
+- Ethiopia
+- France
+- Paris
+- Somalia
+- UK
+people:
+- Bilind Shakir Baker
+- Bryar Hamad Abdulrahman
+- Emmanuel Daoud
+- Hasti Rizghar Hussein
+- Mhabad Ahmad Ali
+- Mohammed Hussein Mohammedie
+- Shakar Ali Pirot
+organisations:
+- HM Coastguard
 ---
 
 ![A red life jacket, bags, and other belongings left abandoned on a stony beach, following the death of at least 30 migrants on the English channel in November 2021](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg)

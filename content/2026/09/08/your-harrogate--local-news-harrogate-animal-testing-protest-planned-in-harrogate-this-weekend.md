@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Harrogate Cenotaph
+- Labcorp
+- London
+- United States
+people: []
+organisations:
+- Labcorp
+- Save The Dogs UK
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fc0878ddd4bbb795.jpg) 

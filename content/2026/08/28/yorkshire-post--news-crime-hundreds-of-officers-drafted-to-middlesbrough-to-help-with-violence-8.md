@@ -16,6 +16,43 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Cleveland
+- County Durham
+- Grangetown
+- Haswell
+- Humberside
+- Middlesbrough
+- PA
+- South Bank
+- Thornaby East
+people:
+- Alec Brown
+- Andy Burnham
+- Andy McDonald
+- Cole Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- BBC Radio 4
+- Cleveland Council
+- Cleveland Police
+- Government
+- Home Office
+- Labour
+- Middlesbrough
+- National Crime Agency
+- Redcar
+- South Bank
+- The Yorkshire Post
+- Thornaby East
+- Times Radio
 ---
 
 # Hundreds of additional officers drafted to Middlesbrough to help with spate of deadly incidents

@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/02/26/08/060d96a9ad88ed022f49f4e1f9
 categories:
 - News & Politics
 - UK
+locations:
+- Chagos Islands
+- Indian Ocean
+- Maldives
+- Malé
+- Mauritius
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Keir Starmer
+- Mohamed Muizzu
+organisations:
+- Foreign Office
+- International Court of Justice
+- The Telegraph
+- Treasury
+- US-UK Diego Garcia
 ---
 
 Maldives president Mohamed Muizzu has asked prime minister Andy Burnham to reopen talks over the sovereignty of the disputed Chagos Islands.

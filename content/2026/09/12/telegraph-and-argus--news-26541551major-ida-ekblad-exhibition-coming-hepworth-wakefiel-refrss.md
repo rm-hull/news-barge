@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Oslo
+- The Hepworth Wakefield
+- UK
+people:
+- Aaron Stempien
+- Ida Ekblad
+- Marie-Charlotte Carrier
+organisations:
+- The Hepworth Wakefield
 ---
 
 *(Image: Aaron Stempien)*

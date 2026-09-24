@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Brussels
+- Europe
+people:
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- AI
+- EU
+- European Commission
+- European Parliament
+- European Union
 ---
 
 The rules for platforms would include a ban on addictive features, so-called endless scrolling, and push notifications while children sleep, as the bloc steps up efforts to protect minors online.

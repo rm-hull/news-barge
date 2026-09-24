@@ -13,6 +13,28 @@ categories:
 - True Crime
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f8/live/6c03b580-b674-11f1-b711-df5e4d50c2fd.jpg
+locations:
+- Kigali
+- Rugenge
+- Rwanda
+- UK
+- Westminster Magistrates Court
+- Westminster Magistrates' Court
+people:
+- Charlotte Kamaguja
+- Dominique Mukurarinda
+- Gerasi Rurangirwa
+- Immaculee Mukankusi
+- Leandre Mbogoye
+- Olivier Tuyishime
+- Sam Blom-Cooper
+- Vincent Bajinya
+- Vincent Brown
+organisations:
+- Department of Family Health
+- Old Bailey
+- Praxis
+- Refugee Nurses Task Force
 ---
 
 ![An exterior view of Westminster Magistrates Court](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/16f8/live/6c03b580-b674-11f1-b711-df5e4d50c2fd.jpg)

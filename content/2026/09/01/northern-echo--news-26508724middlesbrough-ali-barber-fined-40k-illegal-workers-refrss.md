@@ -14,6 +14,52 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Ashfield Terrace
+- Birtley
+- Chester-le-Street
+- Condercum Road
+- County Durham
+- Durham Road
+- Ferryhill
+- Gallowgate
+- Hollathan’s
+- Houghton-le-Spring
+- Main Street
+- Middlesbrough
+- Monkwearmouth
+- Morton Crescent
+- Newcastle upon Tyne
+- Norfolk Place
+- North Bridge Street
+- North East
+- Sunderland
+- Tarantinos
+- UK
+- Windsor Road Stores
+people:
+- Ali Barber
+organisations:
+- Bubbles Mini Valet Centre NE Ltd
+- Fence Houses
+- Fence Houses Hand Car Wash
+- Hollathan’s
+- Home Office
+- Jana Shawarma Ltd
+- KLW NE Ltd
+- Lobstar Leisure Ltd
+- Middlesbrough
+- Mr Bubbles
+- NE Ltd
+- Norfolk Place
+- PA MEDIA
+- Pizza Hot
+- Pizza Hot NE Ltd
+- Shawarma & Grill House
+- Style Barbers Birtley Ltd
+- Sunderland Hand Car Wash Ltd
+- TS3 Barbers Limited
+- Tarantinos
 ---
 
 *(Image: PA MEDIA)*

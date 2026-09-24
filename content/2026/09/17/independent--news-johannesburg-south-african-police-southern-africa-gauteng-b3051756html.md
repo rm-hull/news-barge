@@ -14,6 +14,23 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Clayville
+- Dawn Park
+- Ekurhuleni
+- Gauteng
+- Johannesburg
+- Kempton Park
+- KwaThema
+- Olifantsfontein
+- Pomona
+- Rhodesfield
+- Southern Africa
+people:
+- Fred Kekana
+- Panyaza Lesufi
+organisations:
+- South African Police Service
 ---
 
 South African police said Thursday a ninth woman’s body has been discovered in an area east of Johannesburg, and said it could be linked to a series of killings they are investigating.

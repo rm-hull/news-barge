@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Blackpool Promenade
+- Bramley
+- England
+- Halifax
+- Leeds
+- UK
+people:
+- '## Daphne'
+- David Nairn
+- Gail Lee
+- Jennifer Moss
+- Michael Leech
+- Neil Green
+- Richard Harrison
+organisations:
+- First Bus
+- Ten First Bus
+- Training and Recruitment Manager
+- West Yorkshire First Bus
 ---
 
 A West Yorkshire First Bus driver has been crowned the best in England after winning a national competition.

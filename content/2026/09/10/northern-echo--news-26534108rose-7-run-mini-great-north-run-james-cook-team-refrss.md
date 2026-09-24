@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Billingham
+- James Cook University Hospital
+people:
+- Claire Lord
+- Harry
+- James Cook
+- Kim Cleaver
+- Rose Durant
+organisations:
+- A66
+- Mini Great North Run
+- Rose’s JustGiving
 ---
 
 *(Image: Supplied)*

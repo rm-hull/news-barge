@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/10/11/California_Kelp_Farm__4659
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- Asia
+- Atlantic Ocean
+- Faroe Islands
+- Los Angeles
+- New England
+- Northern Europe
+- Pacific Northwest
+- Pacific Ocean
+- Serengeti
+- Southern California
+- Texas
+- U.S.
+- United States'
+- Ventura County
+- West Coast
+- Yosemite National Park
+people:
+- Cassidy Teufel
+- Douglas Bush
+- Geoff Shester
+- Ted Travers
+- Trump
+organisations:
+- California Coastal Commission
+- National Oceanic and Atmospheric Administration
+- Ocean Rainforest
+- Oceana
+- Simpatica
+- U.S. Army Corps of Engineers
+- World Bank
 ---
 
 California has long been farm country, and its oceans soon could be, too.

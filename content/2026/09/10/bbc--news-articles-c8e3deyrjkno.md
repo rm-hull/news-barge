@@ -11,6 +11,29 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Church of England
+- Derbyshire
+- Long Eaton
+- Trent College
+people:
+- Bernard Randall
+- Bill Penty
+- James Tayler
+- Rev Bernard Randall
+organisations:
+- BBC Derby
+- Christian Concern
+- Church of England
+- DBS
+- Derby Telegraph
+- Disclosure and Barring Service
+- Employment Appeal Tribunal
+- Prevent
+- Randall
+- TRA
+- Teaching Regulation Authority
+- Trent College
 ---
 
 ![Rev Bernard Randall, a man with brown hair and glasses, wearing a black jacket and shirt, with a white dog collar.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/aa34/live/c7b6f850-ac34-11f1-b483-f5be285e6b7e.jpg)

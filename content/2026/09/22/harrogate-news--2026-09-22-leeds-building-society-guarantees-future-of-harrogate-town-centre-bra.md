@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Leeds-Building-Society-Leeds-Branch.webp
+locations:
+- Harrogate High Street Landscape Harrogate
+- Leeds
+- North Yorkshire
+- UK
+- York
+people:
+- Graham Binns
+organisations:
+- Harrogate
+- Leeds Building Society
+- Leeds Building Society’s Branch Network
+- Montpellier Quarter
+- PLCs
 ---
 
 In a significant boost for Harrogate’s high street economy, Leeds Building Society has formally committed to keeping its town centre branch open until at least September 2031. The announcement provides long-term service certainty for thousands of local account holders at a time when major banking conglomerates continue to closures across regional physical offices.

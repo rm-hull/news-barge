@@ -14,6 +14,28 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Ainsty
+- Easingwold
+- Linton
+- North Yorkshire
+- Oxfordshire
+- Piddington
+- RAF Linton-on-Ouse
+- Selby
+- UK
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Easingwold
+organisations:
+- Government
+- Home Office
+- MP
+- North Yorkshire Council
+- RAF Linton-on-Ouse
+- Selby
 ---
 
 # North Yorkshire MP accuses Prime Minister of ‘class warfare’ over Linton-on-Ouse asylum centre plans

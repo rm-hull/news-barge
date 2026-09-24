@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Coronation Street
+- County Durham
+- Darlington
+- M
+- PA
+- Panem
+- UK
+people:
+- Alix Dunmore
+- Billy Mayhew
+- Caesar Flickerman
+- Cinna
+- Corriedale
+- Daisy Statham
+- Daniel Brocklebank
+- Elizabeth Anderson
+- Gale Hawthorne
+- Haymitch Abernathy
+- Isabel Della-Porta
+- Katniss
+- Lindsey Parnaby
+- Mrs Everdeen
+- Nathan Stokes
+- Neil McDermott
+- Peeta Mellark
+- Suzanne Collins'
+- Theo Ogundipe
+- Vinnie Copeland
+organisations:
+- EastEnders
+- Effie Trinket
+- ITV
+- Katniss Everdeen
+- Prim
+- The Hunger Games
+- Troubadour Canary Wharf Theatre
 ---
 
 *(Image: Lindsey Parnaby/PA)*

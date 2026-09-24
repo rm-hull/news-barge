@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Britannia Place
+- Broadway West
+- County Durham
+- Dormanstown
+- Redcar
+people:
+- James
+- Marian
+organisations:
+- Britannia Place
+- Cleveland Police
+- North Yorkshire Police
+- THE NORTHERN ECHO
 ---
 
 A mum has recalled the traumatic moment a man was left lying in the street saying “I am going to die here” after a horror alleyway stab attack.

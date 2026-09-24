@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bahrain
+- Chamartín
+- Chamberí
+- Ifema
+- Los Jerónimos
+- Madrid
+- Madring
+- Sakhir
+- Salamanca
+- Valdebebas
+people:
+- Barnes
+- George Russell
+- Lewis Hamilton
+- Mario Serrano**
+- Oscar Piastri
+organisations:
+- AirBNB
+- Formula 1
+- Inmobiliaria Valdebebas
+- McLaren
+- Mercedes
+- PwC
+- Simon-Kucher
 ---
 
 ## The Spanish Grand Prix is driving luxury short-term rents in Madrid up by as much as 1,000%, and in Valdebebas some flats are being listed at up to 20,000 euros for the race.

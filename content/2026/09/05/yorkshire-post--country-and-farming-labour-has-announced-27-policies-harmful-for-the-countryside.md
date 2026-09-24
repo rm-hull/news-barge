@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Westminster
+people:
+- Andy Burnham
+- Baroness Minette Batters
+- Tim Bonner
+organisations:
+- CA
+- Countryside Alliance
+- Government
+- Labour
+- National Farmers’ Union
 ---
 
 # Labour has announced 27 policies harmful for rural Britain, the Countryside Alliance claims

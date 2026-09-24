@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Bellingham
+- Lakanwal
+- U.S.
+- Washington
+- White House
+people:
+- Allahu Akbar!
+- Amit Mehta
+- Andrew Wolfe
+- Donald Trump
+- Jeanine Pirro
+- Rahmanullah Lakanwal
+- Sarah Beckstrom
+- Shelli Peterson
+organisations:
+- Bureau of Prisons
+- Court
+- Justice Department
+- National Guard
+- West Virginia National Guard Spc
 ---
 
 The man jailed for allegedly shooting two National Guard troops near the White House, killing one of them, can be fed against his will under a judge's emergency order.

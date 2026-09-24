@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/D3UmCCTAMfYSqddxRW8xNa-970-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations: []
+people:
+- Craig Hale
+- Henna Virkkunen
+organisations:
+- Amazon
+- ChatGPT
+- Craig’s
+- EU
+- European Commission
+- European Union
+- Facebook
+- Google News
+- Google**
+- Reddit
+- Roblox
+- TechRadar Pro
+- TikTok
+- VLOP
+- VLOSE
+- Very Large Online Platforms
+- Very Large Online Search Engine
 ---
 
 ![European Union](https://cdn.mos.cms.futurecdn.net/D3UmCCTAMfYSqddxRW8xNa.jpg) 

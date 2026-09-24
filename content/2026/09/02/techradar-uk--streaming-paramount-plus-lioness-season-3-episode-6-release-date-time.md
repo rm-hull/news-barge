@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/DdnNgW3YfqtYJh3BsgZenE-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Byron
+- George Cooper Sr.
+- Joe
+- Kaitlyn
+- Taylor Sheridan
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Lioness
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Byron and Kaitlyn look across a desk](https://cdn.mos.cms.futurecdn.net/DdnNgW3YfqtYJh3BsgZenE.jpg) 

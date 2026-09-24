@@ -13,6 +13,16 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZmNmJiYWJlLTc2MmUtNDEzYy1hZTY5LTA3MzhmNjQ4ZmRhNDoxMGI3ZDg3Yi04NGJjLTRhMGEtODAxYS02Y2RhNTcwZDFlNzQ=.png?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Huddersfield Road
+- Skelmanthorpe
+- Yorkshire
+people:
+- Oliver Coates
+organisations:
+- CCTV
+- Kirklees District CID
+- West Yorkshire Police
 ---
 
 # Bow and arrow fired in street and at passing cars in Yorkshire as man arrested

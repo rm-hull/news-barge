@@ -11,6 +11,20 @@ description: Netgear's Nighthawk M7 Pro impressed us during tests, with the Wi-F
 image: https://cdn.mos.cms.futurecdn.net/zxzDJBrC6ETGSdAZxiwran-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- New Forest
+- Oxford
+- Salisbury
+- USB-C
+people:
+- Steve Clark
+organisations:
+- 6GHz
+- M7 Pro
+- Netgear Nighthawk
+- Steve
+- TechRadar Pro
 ---
 
 ![Netgear Nighthawk M7 Pro](https://cdn.mos.cms.futurecdn.net/zxzDJBrC6ETGSdAZxiwran.jpg) 

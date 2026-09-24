@@ -14,6 +14,56 @@ categories:
 - UK
 - Film & TV
 - Music
+locations:
+- Cannes
+- Hollywood
+- Toronto
+people:
+- Aaron Sorkin
+- Alejandro G. Iñárritu
+- Anora
+- Araminta
+- Being Heumann
+- Bernie (Harry Melling
+- Brad Pitt
+- Cliff Booth
+- David Fincher
+- Digger
+- Elizabeth Holmes
+- Frankenstein
+- Harry Lighton
+- Harry Melling
+- Jodie Comer
+- Judy Heumann
+- Lance Oppenheim
+- Mike De Luca
+- Nathan Fielder
+- Pam Abdy
+- Paul Thomas Anderson
+- Ruth Madeley
+- Sean Baker
+- Siân Heder
+- Theo Rhys’
+- Thierry Frémaux
+- Ti Amo
+- Tom Cruise
+organisations:
+- A24
+- Amazon MGM
+- Apple
+- Clockwork
+- Folie à Deux
+- Motion Picture Group
+- Mubi
+- Neon
+- Netflix
+- Sony
+- TIFF
+- The Social Network
+- The Social Reckoning
+- Theranos
+- Warner Bros
+- Warner Bros.
 ---
 
 The 51st Toronto International Film Festival is underway, with steady parades of premieres running like traffic jams through downtown Toronto. Here are glimpses of what's happening on the ground, and what festivalgoers are talking about.

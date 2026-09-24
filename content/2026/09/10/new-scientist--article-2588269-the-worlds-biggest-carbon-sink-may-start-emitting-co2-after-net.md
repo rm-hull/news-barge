@@ -12,6 +12,22 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Paris
+- South Korea
+- Southern Ocean
+- Switzerland
+- UK
+people:
+- Alberto Naveira Garabato
+- Nicolas Gruber
+- Yechul Shin
+organisations:
+- ETH Zurich
+- European Union
+- Seoul National University
+- UN
+- University of Southampton
 ---
 
 ![A violent storm in the Southern Ocean](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg?w=840)

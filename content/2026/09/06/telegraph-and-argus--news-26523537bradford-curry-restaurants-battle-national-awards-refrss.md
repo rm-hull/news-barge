@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Britain
+- Peshawar
+- UK
+people:
+- Lala
+organisations:
+- Bradford
+- British Curry & Catering Awards
+- Café Jadore
+- Cedar Court Hotel
+- International Restaurant
+- Lala's
+- My Peshawar
+- Newsquest
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21486200.jpg?type=og-image
+locations:
+- Billingham
+- Busy
+- Darlington
+- MARK GRAVES
+- Mill Lane
+- North East
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Uno Pizzeria
 ---
 
 *(Image: MARK GRAVES)*

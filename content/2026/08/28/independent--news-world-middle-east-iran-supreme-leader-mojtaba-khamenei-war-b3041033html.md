@@ -14,6 +14,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- Iran
+- Islamic Republic
+- Israel
+- Middle East
+- Qom
+- Tehran
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Alex Vatanka
+- Masoud Pezeshkian
+- Mohammed Baqer Qalibaf
+- Mojtaba Khamenei
+- Shahrokh
+organisations:
+- '## Revolutionary Guards'
+- Basij
+- Middle East Institute
+- Revolutionary Guards
+- Supreme National Security Council
 ---
 
 Six months after the US and Israel launched a war that thrust a severely wounded Mojtaba Khamenei into the position of Iran's supreme leader, he remains entirely unseen and unheard by the public, leaving a void at the heart of state leadership.

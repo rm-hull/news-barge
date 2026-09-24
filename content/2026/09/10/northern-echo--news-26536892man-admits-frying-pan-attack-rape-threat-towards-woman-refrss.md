@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- CLEVELAND
+- County Durham
+people:
+- Drunk Newton Aycliffe
+- Emma Atkinson
+- Jonathan Carroll
+- Lewis Monaghan
+- Miss Atkinson
+organisations:
+- GBH
+- Middlesbrough
+- Teesside Crown Court
 ---
 
 *(Image: CLEVELAND POLICE)*

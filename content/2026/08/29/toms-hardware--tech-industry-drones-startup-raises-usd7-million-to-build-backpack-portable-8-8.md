@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- San Francisco
+- U.S.
+- Ukraine
+people:
+- Daniel Kofman
+- Luke James
+- Mara
+- Tom
+organisations:
+- DIANA
+- FPV
+- Get Tom's Hardware
+- Google News
+- Lockheed Martin
+- Mara
+- NATO
+- Spotter
+- Tectonic Defense
 ---
 
 ![lightweight autonomous interceptors](https://cdn.mos.cms.futurecdn.net/qCygnCDbjNo5J7MF6E4UdU.jpg) 

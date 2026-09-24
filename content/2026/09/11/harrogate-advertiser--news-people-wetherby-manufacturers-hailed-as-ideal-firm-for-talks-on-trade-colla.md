@@ -14,6 +14,37 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Arville
+- Bradford
+- Britain
+- Bury
+- Middle East
+- Pakistan
+- UK
+- Wetherby
+- Yorkshire
+people:
+- James Kelly
+- Jane Marriott CMG OBE
+- Max Partington
+- Neil Allan
+- Nigel Hull
+- Parik Goswami
+- Shahban Aziz
+- Steve Gill
+organisations:
+- Arville Textiles
+- Arvlile’s Group
+- Department for Business, Innovation, Science and Trade
+- Jane Marriott CMG OBE
+- Pakistan Bilateral Trade Relations
+- Project Officer
+- Research and Innovation
+- Textile Centre of Excellence
+- University of Huddersfield
+- West Yorkshire Combined Authority
+- Wetherby
 ---
 
 # Wetherby manufacturers hailed as 'ideal firm' for talks on trade collaboration between Britain and Pakistan

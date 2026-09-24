@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Auckland
+- Coundon
+- County Durham
+- Darlington Memorial Hospital
+- NORTHERN ECHO
+- Redworth House
+- Shildon
+- UK
+- Weardale Community Hospital
+people:
+- Gill Hunt
+- Ms Bright
+- Rosebud Palmer
+- Rosebud Turnerson Palmer
+- Rosie Bright
+organisations:
+- Bishop Auckland Hospital
+- Darlington Memorial Hospital
+- Darlington NHS Trust
+- Ms Bright
+- NORTHERN ECHO
 ---
 
 *(Image: FAMILY)*

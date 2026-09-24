@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Bettys Harrogate
+- Harlow Carr
+- RHS Garden Harlow Carr
+- RHS Harlow Carr Gardens
+- Yorkshire
+people:
+- Liz Thwaite
+- Nicky Sellers
+- Tony Johnson
+organisations:
+- Bettys Harlow Carr
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
+- Yorkshire
 ---
 
 # Bettys Harlow Carr: Yorkshire cafe and tea room to close for a month ahead of its transformation

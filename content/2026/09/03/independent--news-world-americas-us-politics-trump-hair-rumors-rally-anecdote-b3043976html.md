@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/03/09/2292689084..?trim=593,201,
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- Las Vegas
+- Moreno
+- Nevada
+- Ohio
+- Rose Garden
+- White House
+people:
+- Bernie Moreno
+- Cyril Ramaphosa
+- Dean Obeidallah
+- Donald Trump
+- Fred Trump
+- Ivanka Trump
+- Jimmy Fallon
+- John Bowden
+- Mary Trump
+- Michael Wolff
+- Rudolph the
+organisations:
+- Dayton International Airport
+- Herby the Dentist
+- NBC
+- Oval Office
+- The Independent
+- then-Ohio Senate
 ---
 
 President Donald Trump has addressed the interest in his hair, offering an anecdote intended to dispel the idea he potentially wears a wig – which did not entirely add up.

@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Designer Outlet York
+- England
+- Miami
+- Santa’s Grotto
+- Winter Wonderland
+- Yorkshire
+people:
+- Jennifer Rojko
+- York
+organisations:
+- Brooklands Dodgems
+- Designer Outlet
+- Waltzer
+- Winter Wonderland
+- Yorkshire
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97cc7ace8a00ddc7b.jpg) 

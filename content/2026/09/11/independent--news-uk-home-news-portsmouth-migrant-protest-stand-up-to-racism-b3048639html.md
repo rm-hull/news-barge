@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Hampshire
+- Kent
+- Manston
+- Port of Dover
+- Portsmouth
+people:
+- Andy Mariner
+- Racism
+- Shabana Mahmood
+organisations:
+- English Channel
+- National Police Chiefs’ Council
+- South Coast Patriots
 ---
 
 Anti-migration campaigners and anti-racism activists are preparing to march in Portsmouth this weekend after masked men gathered on the streets a week ago.

@@ -11,6 +11,23 @@ image: https://static.the-independent.com/2026/07/28/15/33/AP26208687877724.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Boston
+- Massachusetts
+- Plymouth
+- Rhode Island
+- Tewksbury Hospital
+people:
+- Howard Cooper
+- Kevin Reddington
+- Lindsay Clancy
+- Linsday Clancy
+- McLean
+- Patrick Clancy
+- Tim Cruz
+organisations:
+- CBS News
+- WBZ-TV
 ---
 
 The attorney for Patrick Clancy, Lindsay Clancy's ex-husband, is threatening "consequences" for conspiracy theorists who spread rumors about him.

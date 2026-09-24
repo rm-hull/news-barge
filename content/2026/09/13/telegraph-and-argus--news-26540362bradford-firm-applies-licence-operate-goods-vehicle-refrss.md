@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- LS2 7UE
+- Leeds
+- Quarry Hill
+- Quarry House
+people: []
+organisations:
+- BRADFORD
+- Newsquest
+- The Courtyard Home Farm
+- WDH SERVICES Ltd
 ---
 
 *(Image: Newsquest)*

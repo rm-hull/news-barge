@@ -12,6 +12,72 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Brooklyn
+- Canada
+- Caribbean
+- Central America
+- Connecticut
+- Greenland
+- Ground Zero
+- Iceland
+- J’ouvert
+- Lake America
+- Lake Ontario
+- Manhattan
+- New America
+- New America’
+- New Hampshire
+- New Mexico
+- New York
+- Ottawa
+- Rhode Island
+- Texas
+- U.S.
+- UNITED STATES
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Billy Long
+- Chris Dodd
+- Chris Pappas
+- Dan McKee
+- Donald Trump
+- Gina Raimondo
+- Helena Buonanno Foulkes
+- Jeanne Shaheen
+- John E. Sununu
+- Maura Sullivan
+- Michelle Lujan Grisham
+- Nicolas Maduro
+- Rudy Giuliani
+- Scott Brown
+- Stefany Shaheen
+- Thorgerdur Gunnarsdottir
+- Zohran Mamdani
+organisations:
+- AP
+- American Civil Liberties Union
+- Bombardier
+- CVS
+- Campaign Legal Center
+- Democracy Defenders Fund
+- Department of Justice
+- Ellipse
+- Gulfstream Aerospace
+- HHS
+- Newsmax
+- Pappas’
+- Pentagon
+- RUV
+- Trump
+- Truth Social
+- US Department of Health and Human Services
+- United States of America’
+- World Trade Center
+- al-Qaida
 ---
 
 New Hampshire and Rhode Island primary voters will choose candidates across a full slate of federal, state and local offices over the next two days.

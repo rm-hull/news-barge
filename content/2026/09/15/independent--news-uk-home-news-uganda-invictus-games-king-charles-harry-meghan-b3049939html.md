@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Birmingham
+- Buckingham Palace
+- Duchess of Sussex
+- Duke and Duchess of Sussex
+- London
+- Nigeria
+- UK
+- Uganda
+- United Kingdom
+- United States
+people:
+- Chamberlain
+- Charles III
+- Chris Magezi
+- Clive Alderton
+- Duchess
+- Harry
+- Harry-Meghan
+- King
+- Meghan
+- Muhoozi Kainerugaba
+- Queen
+- Rob Owen OBE
+organisations:
+- Invictus Games Foundation
+- Royal Household
+- Sussexes
+- The Times
+- UPDF
+- Uganda People’s Defence Force
 ---
 
 Uganda has announced it will reverse its withdrawal from Prince Harry’s Invictus Games after King Charles intervened.

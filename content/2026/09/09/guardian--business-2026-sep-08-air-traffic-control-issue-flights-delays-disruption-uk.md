@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Belfast
+- Birmingham
+- Britain
+- Edinburgh
+- England
+- Europe
+- London Gatwick
+- London Heathrow
+- Manchester
+- Stansted
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+- Neal McMahon
+organisations:
+- ATC
+- British Airways
+- Commons
+- Eurocontrol
+- Flightradar24
+- Nats
+- Nats’
+- Ryanair
+- Sky News
+- Wizz Air
+- easyJet
 ---
 
 Flight delays and cancellations were expected to continue into Wednesday at UK airports after another air traffic control failure kept planes grounded for hours, affecting hundreds of thousands of passengers.

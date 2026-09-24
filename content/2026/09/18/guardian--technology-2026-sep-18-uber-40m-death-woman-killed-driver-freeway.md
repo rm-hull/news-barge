@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/1a4470a0a82491e57fdd30f4b6ba4f0cdf9de53c/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e14fe8675901de4ace75bbe84f16162c
+locations:
+- Calfornia
+- California
+- Orange
+people:
+- Emily Normandin-Parker
+- Gabriela Condarco-Quesada
+- Luna Moore
+- Richard A Stone
+- Uber
+organisations:
+- '**“** We'
+- Uber
 ---
 
 Uber was ordered to pay $40m to the parents of a 23-year-old woman who was killed after a driver kicked her and a friend out of his car by the side of a California freeway, according to newly public arbitration documents.

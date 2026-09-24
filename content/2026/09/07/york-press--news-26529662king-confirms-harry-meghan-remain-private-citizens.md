@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Self-Improvement
+locations:
+- Duke and Duchess of Sussex
+- PA
+- UK
+people:
+- Aaron Chown
+- Archie
+- Charles III
+- Duchess
+- Harry
+- King
+- Lilibet
+- Lord Benyon
+- Lord Chamberlain
+- Lord Lieutenants
+- Meghan Markle
+organisations:
+- Duchess of Sussex
+- Duke and Duchess of Sussex
+- Royal Family
+- State and Royal
+- The Duke
+- The Royal Family
+- The Sovereign
 ---
 
 *(Image: Aaron Chown/PA Wire)*

@@ -13,6 +13,32 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Bonn
+- Brussels
+- Germany
+- Halle Airport
+- Ireland
+- Kremlin
+- Leipzig
+- Lithuania
+- Moscow
+- Russia
+- Russian House
+- Ukraine
+- Wicklow
+people:
+- Johann Wadephul
+- Kaja Kallas
+- Kęstutis Budrys
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- EU
+- Euronews
+- European Commission
+- European Union
 ---
 
 ## While commending Berlin for attributing the attempted Leipzig drone attack to Russia, Lithuania's foreign affairs minister warns stronger EU-wide deterrence is needed to prevent further escalation.

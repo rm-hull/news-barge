@@ -13,6 +13,16 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309653536.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Australia
+- New Guinea
+- Sydney
+people:
+- Kootear
+- Oliver Griffith
+organisations:
+- Macquarie University
+- New Scientist
 ---
 
 A baby echidna – one of Australia’s egg-laying monotremes – has been born and reared in a university for the first time. The baby, known as a puggle, was born earlier this month and has now been removed from its mother’s pouch for its first weigh-in. The scientists hope that, by researching this puggle and other echidnas, we will finally be able to understand some fundamental questions about the evolution of pregnancy in mammals.

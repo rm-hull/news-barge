@@ -13,6 +13,20 @@ image: https://cdn.mos.cms.futurecdn.net/Pe5Gp5s3AXZSYvmSKQDo7N-977-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- '## Moore'
+- Gordon Moore
+- Keumars Afifi-Sabet
+- Law Moore
+organisations:
+- ITPro
+- Intel
+- Keumars Afifi-Sabet
+- Live Science
+- QOTD
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Gordon Moore](https://cdn.mos.cms.futurecdn.net/Pe5Gp5s3AXZSYvmSKQDo7N.jpg) 

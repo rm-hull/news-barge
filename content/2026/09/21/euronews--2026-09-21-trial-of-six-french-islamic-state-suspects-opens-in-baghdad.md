@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/15/86/1200x675_cmsv2_82737cf2-761b-53ef-a582-b6732eed2d3b-9921586.jpg
+locations:
+- Baghdad
+- Daesh
+- Finland
+- France
+- Iraq
+- Middle East
+- Paris
+- Syria
+- Turkey
+- US
+- United States
+- Élysée
+people:
+- Ali Al-Zaïdi
+organisations:
+- IS
+- Islamic State
+- Nice
+- Syrian Democratic Forces
 ---
 
 ## The suspects were part of a group of 47 French nationals transferred last year from Syria to Iraq, where numerous suspected IS members were already being held.

@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21476213.jpg?type=og-image&xType=0&yType=28
+locations:
+- Middlesbrough
+- Teesside
+- UK
+- Washington
+people: []
+organisations:
+- Cleveland Fire
+- Cleveland Fire Brigade
 ---
 
 Firefighters are urging e-bike owners to take extra care after a battery sparked a house fire in Teesside.

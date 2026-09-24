@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - Automotive
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg2MTNhYmU4LTY0ZGEtNDg5NC05MWE1LTk4ZjlmNDJkNzczZTo5NjJlZmYwYS1jZDZhLTQ0NzEtYTUzMC01ZjA0MjViZjVlOGU=.jpg?crop=3:2,smart&trim=&width=979&auto=webp&quality=75
+locations:
+- Coppice Drive
+- Harrogate
+- North Yorkshire
+people:
+- Michael Kors
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police launch investigation after designer sunglasses stolen from vehicle in Harrogate

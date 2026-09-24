@@ -11,6 +11,20 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec8e/live/f2e6ac
 categories:
 - UK
 - News & Politics
+locations:
+- UK
+people:
+- Andy Burrows
+- Chris Sherwood
+- Lisa Nandy
+organisations:
+- Apple
+- BBC
+- Google
+- Molly Rose Foundation
+- NSPCC
+- Ofcom
+- Open Rights Group
 ---
 
 ![Close-up of a child's hands clasped around a black smartphone](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg)

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Methodist
+- Tockwith
+- Yorkshire
+- Zoopla
+- designed’ York
+people:
+- Carter Jonas
+organisations:
+- Carter Jonas
 ---
 
 A former school converted into a home has hit the market in a Yorkshire village.

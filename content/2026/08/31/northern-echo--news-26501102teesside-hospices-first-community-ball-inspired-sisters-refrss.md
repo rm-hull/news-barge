@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Bloom Middlesbrough
+- County Durham
+- Teesside Hospice
+people:
+- Beth
+- John
+- Lisa Wheatland
+organisations:
+- CQC
+- Great North Air Ambulance
+- Middlesbrough
+- Teesside Hospice
 ---
 
 A new community ball inspired by two sisters who lost both parents within a month of each other will take place this autumn in their memory.

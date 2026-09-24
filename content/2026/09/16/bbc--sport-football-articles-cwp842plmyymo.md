@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Portugal
+- Saudi Arabia
+people:
+- Cristiano Ronaldo
+- Diogo Jota
+- Diogo Jota.** Al-Taawoun
+- Ruben Neves
+organisations:
+- Al-Hilal
+- Al-Nassr
+- Al-Taawoun
+- Liverpool
+- Saudi Pro League
+- Wolverhampton Wanderers
+- Wolves
 ---
 
 ![Ruben Neves playing for Al-Hilal](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7e84/live/b2b59ee0-b1ff-11f1-a4a7-291ff3d1006b.jpg)

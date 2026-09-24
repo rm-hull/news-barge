@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Darlington
+- Market Square
+people:
+- Chris Farlowe
+- Cllr McCollom
+- Libby McCollom
+organisations:
+- Band of Friends
+- Black Caddillac
+- Blues Club
+- Darlington Borough Council
+- Darlington Market
+- Darlington Rock
+- Darlington Rock n Blues Club
+- Emily & Stu
+- Gasto Promotions
+- John Verity Band
+- Kerrison Collective
+- The Addiction
+- The Animals
+- The Boneshakers
+- The Britannia
+- The Forum Music Centre
+- The Mainline
+- The Pretty Things
+- The Quaker House
+- The Yardbirds
+- Vesuvio
 ---
 
 Darlington's flagship music festival returned this weekend, celebrating 30 years of its rhythm 'n' blues origins.

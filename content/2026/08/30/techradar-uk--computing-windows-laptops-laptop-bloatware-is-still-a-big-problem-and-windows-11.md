@@ -10,6 +10,27 @@ description: Preinstalled bloatware on our laptops is getting out of hand, but W
 image: https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Aurora
+- Cryo-Chamber
+- London
+- Suffolk
+people: []
+organisations:
+- Alienware Command Center
+- Armoury Crate
+- Asus ROG
+- Asus ROG Zephyrus G14
+- Google News
+- HP
+- Legion Space
+- Lenovo
+- MSI Center
+- Max Slater-Robins
+- Microsoft
+- MyASUS
+- Razer Blade
+- TechRadar
 ---
 
 ![design composite of a laptop in use](https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX.jpg) 

@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Clifford Street
+- North York Moors
+- Yorkshire Dales
+people:
+- Catherine Inglis SWA
+- David Allen RSMA
+- Kirsty Whyatt
+- Maggie Robinson SWA MAFA
+- Mark Stephenson
+- Myles Linley
+- Richard Clare
+- Steve Whitehead
+- Vicky Palmer
+organisations:
+- Stephenson’s Gallery
+- Yorkshire
 ---
 
 *(Image: Stephenson's Gallery)*

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/517f/live/051f1c30-b5e1-11f1-aff1-eb6baa3fda4f.jpg
+locations:
+- Kigali
+- London
+- New Scotland
+- Rugenge
+- Rwanda
+- UK
+- Westminster Magistrates' Court
+people:
+- Frank Ferguson
+- Helen Flanagan
+- Vincent Bajinya
+- Vincent Brown
+organisations:
+- CPS
+- Counter Terrorism Policing London
+- Crown Prosecution Service
+- Metropolitan Police
+- Special Crime and Counter Terrorism Division
+- War Crimes Team
+- War Crimes Teams
 ---
 
 ![A general view of the outside of New Scotland Yard.](https://ichef.bbci.co.uk/ace/standard/978/cpsprodpb/517f/live/051f1c30-b5e1-11f1-aff1-eb6baa3fda4f.jpg)

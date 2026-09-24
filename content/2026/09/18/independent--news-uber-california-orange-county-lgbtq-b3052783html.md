@@ -13,6 +13,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/00/Uber_Passenger_Death_371_3.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Normandin-Parker
+- Orange County
+- Route 73
+people:
+- Carol Normandin
+- Emily Normandin-Parker
+- Ken Parker
+- Richard Stone
+- Uber
+- Vu Tran
+organisations:
+- Emily Normandin-Parker Foundation
+- GPS
+- Uber
 ---
 
 The parents of a 23-year-old woman who was fatally struck after her Uber driver pulled over along a southern California highway were awarded $40 million after an arbitrator found both Uber and the driver liable for her death.

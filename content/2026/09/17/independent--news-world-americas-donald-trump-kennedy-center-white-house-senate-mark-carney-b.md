@@ -13,6 +13,114 @@ image: https://static.independent.co.uk/2026/09/17/21/Trump_88_81.jpg?width=1200
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- Albuquerque
+- America
+- Arizona
+- Canada
+- Cuba
+- Davos
+- Europe
+- Guantanamo Bay
+- Gulf
+- Iran
+- Kennedy Center
+- Middle East
+- Minab
+- Minneapolis
+- Minnesota
+- Missouri
+- New Mexico
+- New York
+- Ohio
+- Oklahoma
+- Ottawa
+- Saudi Arabia
+- Strait of Hormuz
+- U.S. House
+- US
+- United States
+- Wall Street
+- Washington
+- White House
+people:
+- Abbas Araghchi
+- Abu Zubaydah
+- Anna Kelly
+- Annika Conrad
+- Anthony Kazmierczak
+- Babak Zajani
+- Barbra Streisand
+- Brett Kavanaugh
+- Christian Castro
+- Christopher Cooper
+- Deb Haaland
+- Donald Trump
+- Doug Ducey
+- Gordon James
+- Gregg Hull
+- Hakeem Jeffries
+- Ilhan Omar
+- John F. Kennedy
+- Jon Husted
+- Jon Kyl
+- Jonathan Wilkinson
+- Julio Cesar Sosa-Celis
+- Lance Schroyer
+- Mark Carney
+- Markwayne Mullin
+- Martin Heinrich
+- Masoud Pezeshkian
+- Matt Floca
+- Osama bin Laden
+- Ronald Reagan
+- Ursula von der Leyen
+- bin Laden
+organisations:
+- 8th U.S. Circuit Court of Appeals
+- AI
+- Associated Press
+- BitBank
+- Bitbank
+- CIA
+- Congress
+- EU
+- European Commission
+- European Union
+- Federal Reserve
+- Fencing
+- Homeland Security
+- Hull
+- Human Rights Council
+- ICE
+- Immigration and Customs Enforcement
+- Kennedy Center
+- Kennedy Center Honorees
+- Kennedy Center for the Performing Arts
+- MAGA Inc
+- MAGA, Inc
+- Minnesota Bureau of Criminal Apprehension
+- National Cultural Center
+- Pishtaz Simorgh Electronic Trade Company
+- Project Jupiter
+- Protect Democracy
+- Senate
+- State Department
+- State Departments
+- Supreme Court
+- The Associated Press
+- The Trump
+- Treasury
+- Truth Social
+- U.N.
+- U.N.’s
+- U.S. House
+- U.S. Immigration and Customs Enforcement
+- U.S. State Department
+- U.S. Supreme Court
+- UN Human Rights Council
+- US OKs
 ---
 
 A federal judge on Thursday ordered the Kennedy Center to provide 30 days’ notice before making any major physical changes to the building, including demolishing it, as President Donald Trump has threatened. Trump said Wednesday that without his efforts to restore the aging building, “it’s going to close. It’ll end up being ripped down.”

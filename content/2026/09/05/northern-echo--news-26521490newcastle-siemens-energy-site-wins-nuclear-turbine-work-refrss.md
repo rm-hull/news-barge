@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- Anglesey
+- Britain
+- Calder Hall
+- Cumbria
+- Europe
+- Newcastle
+- North Wales
+- UK
+people:
+- Chris Cholerton
+- Darren Davidson
+- Jonathan Reynolds
+- Miatta Fahnbulleh
+organisations:
+- A66
+- CA Parsons Works
+- Darlington Market
+- Gwyndod
+- Net Zero
+- Rolls-Royce SMR
+- Siemens Energy
+- State for Business, Innovation, Science and Trade
+- State for Energy Security
 ---
 
 A historic engineering site will supply key turbine components for a new generation of nuclear power.

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bond Street
+- Chiswick
+- Greece
+- London
+- Metropolitan
+- Notting Hill Gate
+- Putney Bridge
+- Victoria
+people:
+- Alexia Hicks
+- Dan Knowles
+- Katherine
+- Nicholas Brandram
+- Nick
+- Putney
+- Reddit
+- Sophie Voelcker
+organisations:
+- Independent Office for Police Conduct
 ---
 
 Days before Nicholas Brandram, the man suspected of being the “Putney pusher”, killed himself, he told his family that the police investigation was “murdering him”.

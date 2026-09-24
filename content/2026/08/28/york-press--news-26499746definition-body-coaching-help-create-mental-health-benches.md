@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Chesney Park
+- Harrogate
+- Nether Poppleton
+- North Yorkshire
+- Scarborough
+- South Bay Harbour
+- Valley Gardens
+- Whitby
+- York
+people:
+- Carl Ward
+- Graham Roberts
+- Jay
+- Justin Shepherd
+- Michelle
+- Micky Hazard
+- Mike Gray
+organisations:
+- Body Coaching
+- Definition Body Coaching
+- Legend on the Bench
+- Tottenham Hotspur
 ---
 
 ## Personal training studio raises thousands for North Yorkshire mental health

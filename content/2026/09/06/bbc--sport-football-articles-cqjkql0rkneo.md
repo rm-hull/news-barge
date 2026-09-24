@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- England
+- Germany
+- Havertz
+- Italy
+- London
+- Sunderland
+people:
+- Arsenalshelled
+- Ashley Young
+- Bradley Barcola
+- Bukayo Saka
+- Chris Sutton
+- Julian Alvarez
+- Kai Havertz
+- Martin Odegaard
+- Mikel Arteta
+- Morgan Rogers
+- Riccardo Calafiori
+- Vinicius Jr
+organisations:
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- BBC Sport
+- Blackburn
+- Blues
+- Chelsea
+- Coventry City
+- Gunners
+- Liverpool
+- Manchester City
+- Manchester United
+- Napoli
+- Paris St-Germain
+- Premier League
+- Real Madrid
 ---
 
 Champions Arsenal come from behind to beat Chelsea

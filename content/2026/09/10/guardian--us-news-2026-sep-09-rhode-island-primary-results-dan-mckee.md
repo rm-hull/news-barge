@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/edf9803cbf6e6c2780e773b619bcda95fda3c1df/1
 categories:
 - UK
 - News & Politics
+locations:
+- Connecticut
+- Providence
+- Providence’s Washington
+- Rhode Island
+- US
+- Vermont
+people:
+- Bernie Sanders
+- Brett Smiley
+- Chris Dodd
+- Dan McKee
+- David Morales
+- Gina Raimondo
+- Helena Foulkes
+- Joe Biden
+- Mckee
+organisations:
+- Associated Press
+- CVS
 ---
 
 Rhode Island’s Dan McKee became the first sitting governor to lose a primary in nearly a decade, bested not by a more progressive challenger or a more youthful upset but by frustration over a bridge.

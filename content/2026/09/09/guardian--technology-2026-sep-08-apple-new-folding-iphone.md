@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- Cupertino
+- San Francisco
+people:
+- John Ternus
+- Siri AI
+- Tim Cook
+organisations:
+- AirPods
+- Apple Watch
+- Apple’s
+- Bloomberg
+- Pacific Standard Time
+- iPhone Duo
 ---
 
 Apple has unveiled the iPhone Duo, the company’s first foldable phone and the most significant change to the iPhone since the smartphone’s introduction in 2007.

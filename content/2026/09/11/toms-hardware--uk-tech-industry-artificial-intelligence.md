@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Claude
+- Tom
+organisations:
+- AI
+- AMD
+- Anthropic
+- Biren Technology
+- Get Tom's Hardware
+- Nvidia
+- Premium OpenAI
+- Samsung
+- Valve
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

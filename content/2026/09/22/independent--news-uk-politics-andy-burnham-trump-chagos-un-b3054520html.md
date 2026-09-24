@@ -12,6 +12,28 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/19/2296058021..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Britain
+- Chagos Islands
+- Diego Garcia
+- Greater Manchester
+- Indian Ocean
+- Makerfield
+- Mauritius
+- New York
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- Gordon Brown
+organisations:
+- AI
+- Makerfield
+- Rolls-Royce
+- United Nations
+- United Nations General Assembly
 ---
 
 Donald Trump said US-UK relations are “more up” with Andy Burnham as prime minister following their first meeting, but he slammed the Chagos Islands deal as “terrible” and suggested that his counterpart was “going to be looking at it”.

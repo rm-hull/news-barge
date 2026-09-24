@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Eritrea
+people:
+- Amanuel Asrat
+- Andrei Kurkov
+- Anthony Doerr
+- Ben Okri
+- Burhan Sönmez
+- Chloe Aridjis
+- Colm Tóibín
+- Dawit Habtemichael
+- Dawit Isaak
+- Elif Shafak
+- Fessehaye “Joshua” Yohannes
+- Isabel Allende
+- Isaias Afwerki
+- JM Coetzee
+- Kamila Shamsie
+- Lauren Groff
+- Lemn Sissay
+- Maaza Mengiste
+- Madeleine Thien
+- Margaret Busby
+- Mattewos Habteab
+- Max Porter
+- Medhanie Haile
+- Olga Tokarczuk
+- Philippe Sands
+- Preti Taneja
+- Sahle “Wedi-ltay” Tsegazeab
+- Said Abdelkadir
+- Said Idris “Abu Are”
+- Seyoum Tsehaye
+- Temesgen Ghebreyesus
+- Tice Cin
+- Tsitsi Dangarembga
+- Viv Groskop
+- Yann Martel
+- Yousif Mohammed Ali
+organisations:
+- Guardian
+- PEN International
 ---
 
 More than 180 writers have signed a letter to Eritrean president Isaias Afwerki calling for proof of life for 12 writers arrested in 2001.

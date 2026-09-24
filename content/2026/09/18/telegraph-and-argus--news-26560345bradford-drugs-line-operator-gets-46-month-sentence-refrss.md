@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- HMP Hull
+- Little Horton
+- Velvet Mill
+- Waverley Avenue
+- West Yorkshire
+people:
+- John Hobley
+- Miss Hoskins
+- Mohammed Butt
+- Nicola Hoskins
+- Tom Little KC
+organisations:
+- Bradford Crown Court
+- Class A
+- Operation Phoenix
 ---
 
 *(Image: West Yorkshire Police)*

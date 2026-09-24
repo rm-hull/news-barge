@@ -14,6 +14,14 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Cambridge
+people:
+- Andrea Egan
+- Catherine Barnard
+organisations:
+- Unison
+- University of Cambridge
 ---
 
 Major employers ought to be legally mandated to evaluate their internal pay structures every three years to ensure female staff receive equal treatment, a trade union has urged.

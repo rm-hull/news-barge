@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Banksia
+- Brisbane
+- Geelong
+- Gladstone
+- Gold Coast
+- Ipswich
+- Lockyer Valley
+- Mount Duneed
+- NSW
+- New South Wales
+- Plainland
+- South-east Queensland
+- Sydney
+- Tabulam
+- Tasmania
+- Victoria
+- Warrego Highway
+- Western Australia
+people:
+- Jonathan How
+- Steve Hadley
+organisations:
+- BoM
+- Bureau of Meteorology
 ---
 
 Residents have been put on high alert as an unseasonably hot start to spring gives way to blazes and increased fire risks in the nation’s east.

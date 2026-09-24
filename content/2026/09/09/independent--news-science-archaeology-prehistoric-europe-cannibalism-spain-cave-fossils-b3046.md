@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Carigüela
+- Europe
+- Granada
+- Iberia
+- Majolicas Cave
+- Malalmuerzo
+- Spain
+people:
+- Antonio Rodríguez-Hidalgo
+- Francesc Marginedas
+- Malalmuerzo
+- Palmira Saladié
+organisations:
+- Carigüela Cave
+- Journal of Archaeological Science
+- Majolicas Cave
 ---
 
 Ancient human fossils unearthed at three different caves in Spain reveal that cannibalism resurfaced among early Europeans in different contexts over thousands of years.

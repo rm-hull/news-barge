@@ -13,6 +13,34 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Aberdeen
+- Belfast
+- Birmingham
+- East Midlands
+- Europe
+- Gatwick
+- Glasgow
+- Heathrow
+- Leeds Bradford Airport
+- London City
+- London Southend
+- Manchester
+- Southampton
+- Stansted
+- UGC
+- UK
+people:
+- Heidi Alexander
+organisations:
+- Birmingham Airport
+- EasyJet
+- Flightradar24
+- LBA
+- Leeds Bradford
+- Leeds Bradford Airport
+- Manchester Airports Group
+- NATS
 ---
 
 *(Image: UGC)*

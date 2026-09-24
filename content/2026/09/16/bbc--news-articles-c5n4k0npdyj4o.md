@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Afghanistan
+- UK
+- Ukraine
+people:
+- Major Wilks
+- Paul Wilks.
+- Wes Streeting
+organisations:
+- BBC
+- Intelligence Corps
+- Ministry of Defence
+- MoD
+- Union Jack
 ---
 
 ![A close-up shot of a British soldier's uniform. A black and brown Union Jack patch is visible on their shoulder. The rest of the uniform is green, white and brown camouflage.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a82e/live/8fe632e0-b04b-11f1-b1d1-571ed4d7ff2c.jpg)

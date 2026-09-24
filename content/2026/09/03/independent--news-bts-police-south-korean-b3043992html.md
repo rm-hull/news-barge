@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Bang
+- South Korea
+people:
+- Bang Si-Hyuk
+organisations:
+- BTS
+- Hybe
+- K-pop
+- Seoul Metropolitan Police Agency
+- Seoul Southern District Prosecutors’ Office
+- post-IPO
 ---
 
 South Korean police are pushing for an indictment of music tycoon Bang Si-Hyuk, the chairperson of the agency behind K-pop supergroup BTS, over alleged investor fraud.

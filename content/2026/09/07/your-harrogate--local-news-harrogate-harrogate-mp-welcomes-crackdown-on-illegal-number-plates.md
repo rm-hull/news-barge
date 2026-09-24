@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - Music
 - News & Politics
+locations:
+- England
+- North Yorkshire
+people:
+- Justin Madders
+- Tom Gordon
+organisations:
+- Harrogate
+- Knaresborough
+- National Roads Policing Coordination Centre
+- Road Safety Strategy
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9ebbfbaadedd37c9d.jpg) 

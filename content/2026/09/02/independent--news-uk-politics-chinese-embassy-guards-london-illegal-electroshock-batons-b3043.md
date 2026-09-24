@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Downing Street
+- Portland Place
+- Royal Mint Court
+- Tower of London
+- UK
+- W1B
+people:
+- Alicia Kearns
+- Met
+organisations:
+- Chinese Communist Party
+- Government
+- Met Police
+- Metropolitan Police
+- Taser
 ---
 
 The Metropolitan Police are investigating allegations Chinese embassy guards brandished illegal electroshock batons at protesters.

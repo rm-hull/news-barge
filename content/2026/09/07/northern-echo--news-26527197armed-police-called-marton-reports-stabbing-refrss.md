@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Holdenby Drive
+- Holdenby Drive Middlesbrough
+- Marton
+people:
+- Dan Cook
+organisations:
+- Cleveland Police
+- Middlesbrough CID
+- North East Ambulance Service
 ---
 
 *(Image: POLICE)*

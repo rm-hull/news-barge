@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Boston
+- California
+- Gaza
+- Israel
+- San Jose
+- U.S.
+- United States
+people:
+- Charlie Kirk
+- Conor Fitzpatrick
+- Noël Wise
+- Trump
+organisations:
+- Constitution
+- Foundation for Individual Rights and Expression
+- Justice Department
+- Stanford University
+- Turning Point USA
+- U.N.
 ---
 
 Citing the importance of the First Amendment, a federal judge in California says the U.S. government is unconstitutionally silencing critics of Israel's war in Gaza and others as part of the Trump administration 's quest to deport noncitizens who it says disrupted college campuses while expressing their views.

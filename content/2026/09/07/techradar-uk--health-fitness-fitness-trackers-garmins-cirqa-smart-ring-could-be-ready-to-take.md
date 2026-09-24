@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/APeFseMq7CAPenYrvDY6tS-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Cirqa
+people:
+- Alex Blake
+- Garmin
+organisations:
+- AA5124
+- Apple
+- Brazilian National Telecommunications Agency
+- Cirqa Smart Ring
+- Cirqa band
+- Creative Bloq
+- Gadgets & Wearables
+- Garmin
+- Google News
+- MacFormat
+- Oura
+- Samsung
+- TechRadar
+- iMore
 ---
 
 ![Oura Ring](https://cdn.mos.cms.futurecdn.net/APeFseMq7CAPenYrvDY6tS.jpg) 

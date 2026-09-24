@@ -13,6 +13,14 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/23/13/a5772f1bc66f342ee7c0ea4e93bf5307Y29udGVudHNlYXJjaGFwaSwxNzkwMjUxNTEx-2.9269405.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Cala Homes
+- UK
+people:
+- Antonio Simoes
+organisations:
+- L&G
+- Legal & General
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

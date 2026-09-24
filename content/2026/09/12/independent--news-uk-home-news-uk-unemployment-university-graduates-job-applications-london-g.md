@@ -14,6 +14,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- London
+- Manchester
+- Middle East
+- UK
+people:
+- Emily Shulman
+- Ms Shulman
+- Spencer Stern
+organisations:
+- ChatbotCV
+- City Hall
+- DWP
+- Goldsmiths University
+- LinkedIn
+- ONS
+- Office for National Statistics
+- The Independent
+- University of Nottingham
 ---
 
 On paper, it should have straight forward for Emily Shulman to secure a job upon graduating from her journalism master’s degree at Goldsmiths University in London.

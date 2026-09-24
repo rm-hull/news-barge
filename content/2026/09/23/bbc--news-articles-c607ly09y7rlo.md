@@ -13,6 +13,33 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5243/live/91e405b0-b751-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Australia
+- Britain
+- Canada
+- Euro-area
+- Europe
+- Gulf
+- Middle East
+- UK
+- US
+people:
+- Andrew Griffith
+- Andy Burnham
+- Emma Reynolds
+- John Healey
+- Kristalina Georgieva
+- Ruth Gregory
+organisations:
+- BBC
+- Capital Economics
+- G7
+- IMF
+- International Monetary Fund
+- Labour
+- OECD
+- Organisation of Economic Co-operation and Development
+- Treasury
 ---
 
 ![A woman fills up her car with petrol ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5243/live/91e405b0-b751-11f1-bc1f-3f186ca4140c.jpg)

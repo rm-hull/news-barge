@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A162
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- YOUR
+people:
+- Martin Grainger
+organisations:
+- Facebook
+- Hillam Parish Council
+- Legal Services
+- North Yorkshire Council
+- Planning Enforcement team
+- Public Notice Portal
+- TSN
 ---
 
 *(Image: Contributed)*

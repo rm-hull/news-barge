@@ -13,6 +13,54 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- America
+- Bab al-Mandab
+- Bab al-Mandab Strait
+- Chatham House
+- Dhubab
+- Djibouti
+- East-West
+- Eritrea
+- Gaza
+- Iran
+- Israel
+- London
+- Middle East
+- Mokha
+- Perim
+- Persian Gulf
+- Red Sea
+- Sana'a
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Syria
+- Tehran
+- Tihamah
+- US
+- Yem
+- Yemen
+people:
+- Assad
+- Axios
+- Ayatollah Ali Khamenei
+- Baraa Shaiban
+- Donald Trump
+- Farea al-Muslimi
+- Hisham al-Omeisi
+- Iona Craig
+- Mohammed bin Salman
+organisations:
+- Axios
+- Axis of Resistance
+- BBC Radio 4
+- European Institute of Peace
+- Hamas
+- Hezbollah
+- National Resistance
+- Royal United Services Institute
 ---
 
 ![A Yemeni government tank fires in the desert during what officials say are clashes with Iran-aligned Houthi rebels a screen grab obtained from a handout video released on 9 September 2026](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e2e9/live/c2bfacc0-ae0f-11f1-b502-e5cdfe1c097c.jpg)

@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A1
+- B6443
+- County Durham
+- Darlington Man
+- Horndale Avenue
+- M
+- Newton Aycliffe
+- North East
+people: []
+organisations:
+- A1
+- Darlington Fire and Rescue Service
+- Durham Police
+- NEAS
+- NORTHERN ECHO
+- North East Ambulance Service
+- Northern Echo
 ---
 
 *(Image: NORTHERN ECHO)*

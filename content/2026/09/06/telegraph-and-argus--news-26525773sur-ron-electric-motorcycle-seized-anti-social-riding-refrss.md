@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Addingham
+- Sur-Ron
+- West Yorkshire
+people:
+- Sur-Ron
+organisations:
+- Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

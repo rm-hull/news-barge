@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- A166
+- Bridlington
+- Driffield
+- East Yorkshire
+- Wetwang
+- York
+people: []
+organisations:
+- A614
+- AA Traffic News
 ---
 
 *(Image: Newsquest)*

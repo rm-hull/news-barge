@@ -13,6 +13,16 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309772193.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Greece
+- Nepal
+- Peristeria
+- Salamina Island
+- Selinia
+- Tibet
+people:
+- Alec Luhn
+organisations: []
 ---
 
 ![A firefighting airplane operates to extinguish a wildfire on Salamina Island, Greece, 16 August 2026. Two people were killed in Peristeria as fires burned in the Peristeria and Selinia areas, prompting evacuations and a major firefighting operation. Coast guard and firefighting vessels were deployed in preparation for possible evacuations by sea.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309772193.jpg?w=840)

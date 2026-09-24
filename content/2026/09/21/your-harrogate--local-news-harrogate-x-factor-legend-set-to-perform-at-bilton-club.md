@@ -11,6 +11,13 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://mmo.aiircdn.com/409/6ab0d13da0f7aa03247.jpg
+locations:
+- Skipton Road
+people:
+- Chico Slimani
+organisations:
+- Bilton Club
+- Chico
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab0d13da0f7aa03247.jpg)

@@ -15,6 +15,63 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Sports
+locations:
+- Azerbaijan
+- Battlefield
+- Central Eurasia
+- Georgia
+- Japan
+- Kazakhstan
+- Mongolia
+- Qatar
+- San Francisco
+- U.S.
+- United States
+- Uzbekistan
+- WeGlobal AI
+people:
+- '### LOOQ'
+- AI
+- AI-Dana
+- Asset Abdualiyev
+- Ayan Sakenov
+- Aziz Akhmedkhodjaev
+- Bolat Ashim
+- Isabelle Johannessen
+- Kaptın Kaptın
+- SeaDar
+- Sherzod Shermatov
+- Suriy
+- Thomas Jeng
+- Yudai Ishida
+- Zhaslan Madiyev
+organisations:
+- '### WeGlobal AI'
+- API
+- Admyra
+- Artificial Intelligence
+- Astana Hub
+- Astana Hub Ventures
+- Cerberus
+- Digital Development of Kazakhstan
+- Digital Technology of Uzbekistan
+- Freedom Holding
+- Google Analytics
+- IT Park Uzbekistan
+- IT Park Ventures
+- LOOQ
+- MVSxAI
+- OpenAI
+- Silicon Valley Residency
+- Silkroad Innovation Hub
+- Soup
+- Startup Battlefield
+- Startups APAC
+- TechCrunch Startup Battlefield
+- TelAgri
+- Türkiye
+- VCs
+- WeGlobal AI
 ---
 
 Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in Startup Battlefield 200 at TechCrunch Disrupt 2026 in San Francisco on October 13-15, before 10,000+ tech leaders attending. The three emerged from a field of 22 finalists, chosen from a record 726 applications across 39 countries. Meet these winners at Disrupt by **registering for your ticket here**.

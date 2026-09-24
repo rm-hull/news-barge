@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Anderl’s
+- Berkeley
+- Brennan Center
+- U.S.
+people:
+- Amrit Singh
+- Daniel Anderl
+- Donald Trump
+- Esther Salas
+- Gowri Ramachandran
+- Mark
+organisations:
+- Brennan Center
+- Brennan Center for Justice
+- NYU-Berkeley
+- New York University
+- Rule of Law Lab
+- The Associated Press
+- U.S. Supreme Court
+- University of California
 ---
 
 Federal judges have varied their commutes, hired private security and fortified their homes, including with panic buttons, amid a barrage of threats and harassment in recent months that has left many of them anxious about their safety, according to two new studies.

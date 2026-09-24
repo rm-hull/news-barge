@@ -15,6 +15,21 @@ categories:
 - Technology & Software
 - Creator Economy & Marketing
 - Society & Culture
+locations:
+- Indianapolis
+- Los Angeles
+- North Carolina
+- Philadelphia
+people:
+- Alex Daly
+- Jackie Combs
+- Jen Hamilton
+- Monette Wagner
+- Tasha R. Dunn
+organisations:
+- Instagram
+- TikTok
+- University of Toledo
 ---
 
 On Instagram feeds that are often teeming with curated, contrived content, a recent post from Monette Wagner stood out for her disarming openness.

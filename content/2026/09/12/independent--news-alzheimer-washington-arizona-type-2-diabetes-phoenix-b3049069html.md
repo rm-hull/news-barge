@@ -13,6 +13,20 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Phoenix
+people:
+- Alzheimer
+- Josef Coresh
+- Mark Yost
+- Nicholas Ashton
+organisations:
+- AP Fund for Journalism
+- Alzheimer's
+- Arizona’s Banner Health
+- Mass General Brigham
+- NYU Langone Health
+- U.S. Food and Drug Administration
 ---
 
 New blood tests that might predict Alzheimer’s years before symptoms begin may sound tantalizing for people who worry about later-in-life dementia. But doctors say they aren't quite ready yet — and besides, you don’t need a test before trying to lower your risk.

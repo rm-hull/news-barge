@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Holgate
+- Manchester
+- York
+people:
+- Jerome
+organisations:
+- North Yorkshire Police
 ---
 
 Police have launched an urgent search to find a missing boy from York.

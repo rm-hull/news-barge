@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Chester-le-Street
+- Common Land
+- County Durham
+- Ex County Durham
+- Let’s Talk County Durham
+- Waldridge Fell
+people:
+- Jeff Talbot
+organisations:
+- Durham County Council
+- Natural England
+- SSSI
+- Waldridge Fell
 ---
 
 *(Image: Supplied)*

@@ -10,6 +10,24 @@ description: Philips' new 34-inch ultrawide monitor offers a fantastic combinati
 image: https://cdn.mos.cms.futurecdn.net/M7oQ5EhtS92NSa64BZv9Z7-2100-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Jeremy
+organisations:
+- 34B2U5900C
+- DCI-P3
+- DisplayPort
+- HDR
+- Nice
+- OLED
+- Philips
+- Philips'
+- T3
+- TechRadar Pro
+- Twitter
+- USB-C
+- VA
+- iCar
 ---
 
 ### TechRadar Verdict

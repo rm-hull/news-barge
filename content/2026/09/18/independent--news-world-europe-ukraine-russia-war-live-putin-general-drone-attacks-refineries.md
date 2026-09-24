@@ -12,6 +12,59 @@ image: https://static.independent.co.uk/2026/09/14/10/2280540140..?trim=514,1098
 categories:
 - News & Politics
 - UK
+locations:
+- Danube River
+- Dnipro
+- Europe
+- Iran
+- Isaccea
+- Korosten
+- Krasnodar
+- Kyiv
+- Middle East
+- Moldova
+- Odesa
+- Poland
+- Romania
+- Russia
+- Slovakia
+- Sumy
+- Tulcea County
+- US
+- Ukraine
+- United States
+- Warsaw
+- Yaroslavl
+- Zaporizhzhia
+- Zhytomyr
+people:
+- '## Tusk'
+- '## Zelensky'
+- António Guterres
+- Donald Tusk
+- Ivan Fedorov
+- Robert Marian
+- Vitali Bunechko
+- Vitali Klitschko
+- Volodymyr Zelensky
+organisations:
+- CIA
+- Defense Intelligence of Ukraine
+- Foreign Intelligence Service
+- House of Representatives
+- Lindsay Graham Sanctioning Russia
+- Lindsey Graham
+- Lindsey Graham Sanctioning Russia
+- NATO
+- Nato
+- Odesa
+- Security Council
+- Security Service of Ukraine
+- The Associated Press
+- UN Charter
+- US Congress
+- US House of Representatives
+- Unmanned Systems Forces
 ---
 
 Explosions sounded near Poland on Thursday during a daytime Russian drone attack, Polish and Ukrainian authorities said.

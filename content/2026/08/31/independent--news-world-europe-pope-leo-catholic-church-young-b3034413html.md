@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Glastonbury
+- Madrid
+- Paris
+- Rome
+- Stade de France
+- Vatican City
+people:
+- Alessandro Gisotti
+- Allan
+- Beyonce
+- Carlo Acutis
+- Christopher Lamb
+- Jannik Sinner
+- Leo XIV
+- Peter
+- Ruth Gledhill
+- Wordle
+organisations:
+- CNN
+- Chicago White Sox
+- Church
+- Le Parisien
+- The Independent
+- The Table
+- Vatican Media
+- White Sox
 ---
 
 Vast crowds steamed through Rome last September, to witness the historic canonization of the Catholic Church’s first millennial saint, 15-year-old Carlo Acutis.

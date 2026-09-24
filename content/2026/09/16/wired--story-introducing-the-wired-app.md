@@ -10,6 +10,11 @@ image: https://media.wired.com/photos/6aa494acdc225a8b7147e3d4/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- AMAs
+- WIRED
 ---
 
 The new WIRED app is now available on iPhone and Android. Every day, WIRED brings you exclusive, future-looking journalism. Now there are more ways to make the most of it. Download it for free on iPhone or Android.

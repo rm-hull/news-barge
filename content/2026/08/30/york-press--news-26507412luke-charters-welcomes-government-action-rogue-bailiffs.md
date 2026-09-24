@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '## York'
+- England
+- Leeds
+- Wales
+- York Outer
+people:
+- Adam
+- Luke Charters
+- Michael
+- StepChange
+organisations:
+- Enforcement Conduct Board
+- Labour Government
+- Luke Charters
+- Ministry of Justice
+- Regulation of Bailiffs
+- StepChange Debt
+- StepChange Debt Charity
+- The Press
+- Westminster Hall
+- York Outer
+- York Outer MP
 ---
 
 ## York MP welcomes action on rogue bailiffs after two years of campaigning

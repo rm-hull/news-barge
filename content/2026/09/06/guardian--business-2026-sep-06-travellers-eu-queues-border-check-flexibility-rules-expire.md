@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Europe
+- France
+- Greece
+- London St Pancras
+- Port of Dover
+- UK
+people:
+- Luke Petherbridge
+- Thomas Reynaert
+organisations:
+- Abta
+- Dover
+- EES
+- EU
+- European Commission
+- Eurostar
+- Eurotunnel
+- Iata
 ---
 
 Travellers to the EU could face renewed border queues as flexibility measures for the bloc’s entry-exit system officially come to an end – although numerous sources have indicated that some member states will not enforce biometric checks.

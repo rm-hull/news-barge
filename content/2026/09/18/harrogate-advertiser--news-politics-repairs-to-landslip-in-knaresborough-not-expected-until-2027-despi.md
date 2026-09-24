@@ -15,6 +15,20 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkMDM5YjllLTM5MTctNDU5ZC04MDg2LWRhNzQ3Njg5ZDFmMzo0MGEyOGYxMC1jN2Q2LTQ2MWQtOTdjMy1hM2I1NDhlNjU4NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Network Rail
+- North Yorkshire
+- River Nidd
+- The Knaresborough Viaduct
+- Viaduct Terrace
+people:
+- Hannah Gostlow
+- Matt Walker
+organisations:
+- Knaresborough Town Council
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 # Repairs to landslip in Knaresborough not expected until 2027 despite 2,000-signature petition

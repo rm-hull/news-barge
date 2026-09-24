@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Ariana Grande
+- Gillette Stadium
+- MetLife Stadium
+- New Jersey
+- Sheeran
+people:
+- Dean Sheldon Serwin
+- Ed Sheeran
+- God
+- Lil Gary
+- Lucas Teixeira
+- Macklemore
+- Ray Waddell
+- Robert Kraft
+organisations:
+- Gillette Stadium
+- Instagram
+- Kraft
+- Macklemore
+- Messina Touring Group
+- NFL
+- New England Patriots
+- Oak View Group
+- Philadelphia Eagles
+- Pollstar
+- Rolling Stones
 ---
 
 Music industry insiders say artists who can fill stadiums typically have significant control over their tours, raising questions about Ed Sheeran’s claim that he had no say in Macklemore being dropped from his Loop Tour.

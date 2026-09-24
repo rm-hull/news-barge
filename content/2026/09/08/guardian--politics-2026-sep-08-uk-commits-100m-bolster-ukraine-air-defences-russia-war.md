@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Kyiv
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Boris Pistorius
+- Donald Trump
+- Elbridge Colby
+- Putin
+- Volodymyr Zelenskyy
+- Wes Streeting
+organisations:
+- Kyiv
+- Nato
+- Patriots
 ---
 
 The UK has committed £100m to boost Ukraine’s air defences over winter by buying a package of US military equipment that will include a number of urgently needed Patriot missiles.

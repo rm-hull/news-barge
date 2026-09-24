@@ -15,6 +15,19 @@ categories:
 - Sports
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/20137622.jpg?type=og-image&xType=0&yType=0
+locations:
+- Argentina
+- England
+- Ghana
+- Panama
+- West Yorkshire
+people:
+- Jon Fisher
+organisations:
+- 101 Great Goals
+- England
+- Freedom of Information
+- West Yorkshire Police
 ---
 
 *(Image: Supplied)*

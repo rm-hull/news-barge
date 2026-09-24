@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Guiseley Wells
+- Keighley
+- Masham
+- Parkinson Park
+- Sancerre Guiseley
+- Springfield Park
+- St Oswald’s Church
+- UK
+- Yorkshire
+people:
+- Gisele
+organisations:
+- Cena Bistro
+- Guiseley Theatre
+- Wetherby Whaler
 ---
 
 *(Image: Google Maps)*

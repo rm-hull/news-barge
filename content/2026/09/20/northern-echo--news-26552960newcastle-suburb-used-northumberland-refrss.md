@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21459324.jpg?type=og-image
+locations:
+- Britain
+- Edinburgh
+- Gosforth High Street
+- Gosforth Park
+- Great North Road
+- London
+- Metro
+- Newcastle
+- North East
+- Northumberland
+- Ouseburn
+people:
+- Gosforth
+- Jordan Sangha
+organisations:
+- All Saints' Church
+- Geordie Coppers
+- Gosforth
+- Newcastle Racecourse
+- Tyne and Wear
 ---
 
 *(Image: GOOGLE)*

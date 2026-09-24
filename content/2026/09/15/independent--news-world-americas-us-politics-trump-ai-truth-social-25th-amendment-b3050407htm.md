@@ -13,6 +13,42 @@ categories:
 - UK
 - Technology & Software
 - Society & Culture
+locations:
+- China
+- Ex-White House
+- Iran
+- Oval Office
+- Russia
+- Strait of Hormuz
+- Texas
+- U.S.
+- U.S.A.
+- Ukraine
+- White House
+people:
+- Ben Meiselas
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- JD Vance
+- Joe Biden
+- Karl Rove
+- MeidasTouch
+- Sam Altman
+- Sarah Matthews
+- Steve Siebold
+organisations:
+- AI
+- Constitution
+- Department of Defense
+- FoxNews
+- International Personal Development Association
+- Leakers
+- RINO Voice
+- Republican Party
+- Traitors
+- University of Massachusetts Amherst
+- WSJ
 ---
 
 President Donald Trump had another busy day on Truth Social Monday, notably ranting about opposition to AI and data centers, which has inspired fresh calls for his removal from office under the 25th Amendment.

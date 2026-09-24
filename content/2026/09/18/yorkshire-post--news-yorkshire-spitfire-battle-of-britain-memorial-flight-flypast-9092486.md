@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Biggin Hill
+- C47 Dakota
+- East Yorkshire
+- England.
+- Fort Paull
+- Lancaster
+- Lincolnshire
+- RAF Coningsby
+people: []
+organisations:
+- Air Force
+- Air Officer Commanding No 1 Group
+- Battle of Britain Memorial Flight
+- RAF BBMF
+- Royal Air Force
+- Spitfire
+- Spitfires
+- Yorkshire
 ---
 
 # Where and when Spitfire is scheduled to fly over Yorkshire this weekend - location and time window details

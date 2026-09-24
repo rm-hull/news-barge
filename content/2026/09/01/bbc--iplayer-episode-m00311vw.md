@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Leeds
+- London
+people:
+- James
+- TimeDavid Olusoga
+organisations:
+- Red FlagColeen
+- SceneScotland
 ---
 
 # Stolen Babies

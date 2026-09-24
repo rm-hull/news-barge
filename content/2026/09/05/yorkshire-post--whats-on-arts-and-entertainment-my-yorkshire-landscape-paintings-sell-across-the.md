@@ -15,6 +15,48 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- America
+- Australia
+- Belfast
+- Calf Rocks
+- Canada
+- Courthouse Street
+- Cow
+- Gledhow Hall
+- Harehills
+- Haworth
+- Ilkley Moor
+- Kindertransport
+- Leeds
+- London
+- Middleton Woods
+- Nazi Germany
+- Otley
+- UK
+- US
+- Yard Gallery
+- Yorkshire
+people:
+- AI
+- David
+- Heather
+- Joshua
+- Judith Levin
+- Margot Crane
+- Mark
+- Maurice
+- Otley
+- Simon Hulme
+- Stephanie Smith
+organisations:
+- AI
+- Bingley Gallery
+- Bradford Pennine Gateway National Nature Reserve
+- Condé Nast Traveller
+- Otley Picture
+- The Art Works
+- Yorkshire Post
 ---
 
 # 'My Yorkshire landscape paintings sell across the world': Artist Judith Levin opens her Otley gallery

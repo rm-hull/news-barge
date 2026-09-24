@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/5530ba44dac6dc8d0b6a6f9e0c4164a7b1668b6b/143_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4b38e9bfc8202820ba11e9557d29893
+locations:
+- Yemen
+people:
+- Al-Hakimi
+- Hisham al-Hakimi
+- Stephen Roake
+organisations:
+- Charity Commission
+- Charity Commission for England and Wales
+- Guardian
+- Save the Children
+- Save the Children International
 ---
 
 The international aid charity Save the Children has been issued with an official regulatory warning over management failures and misconduct that put staff at its Yemen office at serious risk.

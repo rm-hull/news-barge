@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - History
 - Music
+locations:
+- Chelsea
+- Kensington
+- London
+people:
+- '** Gadd'
+- Gary Glitter
+- Met
+- Paul Gadd
+- Tony Baumgartner
+organisations:
+- Metropolitan Police
+- Southwark Crown Court
 ---
 
 ![File photo dated 28/1/2015 of Gary Glitter, wearing sunglasses, a black hat and red and white spotted scarf](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4785/live/81ea8370-901c-11f1-b783-f784376ffc11.jpg)

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people:
+- Bridget Phillipson
+- Daniel Greenberg
+- Fiona Cottrell
+- George Cottrell
+- George”
+- Harborne
+- Ms Phillipson
+- Nigel Farage
+- Richard Tice
+organisations:
+- Britain Means Business
+- Britain Means Business Ltd
+- House of Commons
+- Labour
+- Reform UK
+- Register of Members' Financial Interests
+- The Independent
+- Tisun Investments Ltd
 ---
 
 Labour has called on Parliament's sleaze watchdog to investigate Reform UK’s Richard Tice over allegations of another unregistered donation to the party.

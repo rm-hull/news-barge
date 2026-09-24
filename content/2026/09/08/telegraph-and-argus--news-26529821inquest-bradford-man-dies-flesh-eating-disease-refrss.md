@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Allerton
+- Bradford Royal Infirmary
+- Brunswick Road
+- Dorset
+- Shipley
+people:
+- Angela Brocklehurst
+- Angus Burrell
+- Bennett
+- Brockehurst
+- Fiona Hatfield
+- Martin
+- Patricia Jackson
+- Zakir Shariff
+organisations:
+- Affinity Care
+- Newsquest
+- Telegraph & Argus
+- Yorkshire Ambulance Service
 ---
 
 A Bradford man who once rescued two women from a burning car in an act of great "courage" died years later after suffering from a 'flesh-eating disease', an inquest heard.

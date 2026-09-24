@@ -13,6 +13,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- David Harrison
+- Rosie Stewart
+- Rosie Stuart
+organisations:
+- National Saturday Club
+- York Art Gallery
+- York Community Pride
+- York Museums Trust
 ---
 
 ## 'It means so much' - York Museums Trust learning lead honoured at Community Pride

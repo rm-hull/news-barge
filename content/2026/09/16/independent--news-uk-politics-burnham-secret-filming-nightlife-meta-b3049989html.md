@@ -14,6 +14,21 @@ categories:
 - UK
 - Film & TV
 - Society & Culture
+locations:
+- Manchester
+- No 10 North
+- UK
+people:
+- Andy Burnham
+- Wera Hobhouse
+organisations:
+- GMP
+- Greater Manchester Police
+- Meta
+- Online Safety Network
+- Refuge
+- Suzy Lamplugh Trust
+- Women’s Aid
 ---
 
 The government must take action on the covert “nightlife” filming of women and girls for profit on social media, which is driving them out of public spaces, leading women’s charities have warned.

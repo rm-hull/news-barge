@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6ab0d45cb9f5e7ff455.jpg
+locations:
+- Malton
+people: []
+organisations:
+- Executive
+- North Yorkshire Council
+- SHOUT
+- Second Homeowners Opposed to Unfair Taxation
+- Thirsk
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab0d45cb9f5e7ff455.jpg)

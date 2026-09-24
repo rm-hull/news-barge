@@ -13,6 +13,21 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEzYzg5ODViLTIzYmQtNGRmYy05MDQ5LTdiY2FiZmI0ODg0ZjpkMWNmYzRjZS04Y2YyLTQ2ZDEtYmQwOC1hMzg5N2UxMTE3Yjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Burnhope
+- Co Durham
+- Consett
+- Durham Constabulary
+- Framwellgate Moor
+- Front Street
+- Newton Aycliffe Magistrates’ Court
+people:
+- David Railton
+- Gary Atkinson
+organisations:
+- Audi
+- Durham Police
+- Mitsubishi
 ---
 
 # Man charged with attempted murder after shots fired following car crash

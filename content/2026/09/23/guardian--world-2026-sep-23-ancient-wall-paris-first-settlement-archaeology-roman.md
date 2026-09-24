@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/a718d40325b8e5a83afe5679b1a1ad0970b9da43/388_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d84af4c5403e3456783f5ceec60ae296
+locations:
+- France
+- Hôtel-Dieu
+- Lutetia
+- Nanterre
+- Notre Dame Cathedral
+- Paris
+- River Seine
+- Île de la Cité
+people:
+- Catherine Pégard
+- Julius Caesar
+organisations:
+- Gallic Lutetia
 ---
 
 An ancient wall discovered beneath Paris has been described as a “major breakthrough” by France’s culture ministry, with the archaeological find possibly confirming the location of the city’s original settlement.

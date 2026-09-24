@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - True Crime
 - Family & Parenting
+locations:
+- Billings
+- Billings’
+- New South Wales
+- Orange
+people:
+- Billings’
+- Daniel Billings
+- Donna Thornell
+- Forbes
+- Kate
+- Kristy Armstrong
+- Molly Jean Ticehurst
+- Molly Ticehurst
+- Ms Ticehurst
+- Natalie Adams
+- Tony Ticehurst
+organisations:
+- Billings
+- NSW
+- Pip Farquarson
 ---
 
 ![A court sketch of Daniel Billings in late August.](https://i.guim.co.uk/img/media/ea9660eb62a69eca3e16ea16ecfdfc45ff1e47e0/255_0_3099_2480/master/3099.jpg?width=445&dpr=1&s=none&crop=none)

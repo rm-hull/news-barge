@@ -12,6 +12,58 @@ categories:
 - Science
 - Comedy & Entertainment
 image: https://media.wired.com/photos/6aac3df13f16ef202ae27d28/191:100/w_1280,c_limit/WIRED_PATTI_HARRISON_08212026_S01_081-v5_WEB.jpg
+locations:
+- Gaza
+- Harrison
+- London
+- Ohio
+- Silicon Valley
+people:
+- Candace Owens
+- Dall-E
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Erika Kirk
+- Faye Oakenfull
+- George Carlin
+- God
+- Instagram
+- Jaron Lanier
+- Jeff Bezos
+- KATIE DRUMMOND
+- Kanye West
+- Lauren Sánchez Bezos
+- Lily Sumner
+- Luigi Mangione
+- MAGA
+- Mariah Carey
+- Marjorie Taylor Greene
+- Mark Zuckerberg
+- Matilda Greenwood
+- Milo Yiannopoulos
+- Nilla Wafers
+- Patti Harrison
+- Sam Altman
+- Sasha Goddard
+- Shunsuke Meguro Using R+CO
+- Tim Robinson
+- Yeah
+organisations:
+- AIPAC
+- Boston Dynamics
+- Caren
+- Darpa
+- Defense Advanced Research Project Agency
+- ICE
+- Instagram
+- Musk
+- MySpace
+- RIP Harrison’s Twitter
+- Shiseido
+- WIRED
+- Xanga
+- YouTube
 ---
 
 Patti Harrison, like every great comic, knows how to use her face. If you’ve seen her stealing scenes in TV shows like Tim Robinson’s *I Think You Should Leave* or Hulu’s*Shrill*, you know that she often starts out a bit demure, or pouty, before walking audiences into the deep end. She’s a bit innocent, until she’s deranged—and you’re gasping for air.

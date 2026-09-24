@@ -16,6 +16,24 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Annfield Plain
+- Bishop Auckland
+- County Durham
+- Stanley
+- Tanfield
+people:
+- Clayton Glass
+- Darren Grimes
+- Stuart Boulton
+organisations:
+- Clayton Glass
+- County Durham Reform
+- Durham County Council
+- GOOGLE
+- Harelaw Industrial Estate
+- National Insurance
+- The Northern Echo
 ---
 
 *(Image: GOOGLE)*

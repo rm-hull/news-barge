@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Austin
+- Hungary
+- Italy
+- Japan
+- Mexico
+- Miami
+- Monza
+- Monza.
+- Netherlands
+- Portugal
+- Turkey
+- Verstappen
+- Zandvoort
+people:
+- Andrea Stella
+- Andrew Benson
+- Carlos Sainz
+- Charles Leclerc
+- Frederic Vasseur
+- George Russell
+- Juha
+- Kimi Antonelli
+- Lando Norris
+- Lando Norris'
+- Lewis Hamilton
+- Lynne
+- Max Verstappen
+- Mercedes' Kimi Antonelli
+- Michael** Mercedes
+- Oscar Piastri
+- Toto Wolff
+- Williams
+organisations:
+- BBC Sport F1
+- Ferrari
+- McLaren
+- Mercedes
+- Monza
+- Piastri
+- Red Bull
 ---
 
 ![McLaren's Oscar Piastri at the 2026 Dutch Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/310d/live/e3006720-a5c9-11f1-8543-aba44f51f79c.jpg)

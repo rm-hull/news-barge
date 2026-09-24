@@ -11,6 +11,15 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-witness-york-sexual-assault-popworld-31-may-2026.webp
+locations:
+- George Hudson Street
+- Popworld
+- York
+people:
+- '#### Popworld'
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 Police investigating a sexual assault in York say this woman could be a key witness.

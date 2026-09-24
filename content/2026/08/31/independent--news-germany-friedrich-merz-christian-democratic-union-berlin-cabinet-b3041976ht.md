@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Berlin
+- Europe
+- Germany
+- Magdeburg
+- Mecklenburg-Western Pomerania
+- Moeser
+- Russia
+- Saxony-Anhalt
+- Thuringia
+- Ukraine
+people:
+- AfD
+- Friedrich Merz
+- Sven Schulze
+- Ulrich Siegmund
+- Wolfgang Merkel
+organisations:
+- AP
+- AfD “
+- Alternative for Germany
+- CDU
+- Cabinet
+- Christian Democratic Union
+- The Associated Press
+- WBZ Berlin Social Science Center
 ---
 
 An election in eastern Germany on Sunday could produce the first far-right state governor in the country's post-World War II history as Chancellor Friedrich Merz and his unpopular national government struggle to dispel what he calls “widespread moroseness.”

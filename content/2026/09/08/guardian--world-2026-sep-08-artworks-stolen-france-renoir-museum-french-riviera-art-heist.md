@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Belgium
+- Cagnes-sur-Mer
+- Europe
+- France
+- Italy
+- Louvre
+- Paris
+people:
+- Bryan Masson
+- Claude
+- Madame Colonna Romano
+- Madame Pichon
+- Pierre-Auguste Renoir
+organisations:
+- Europol
+- Le Pen
+- Musée d’Orsay
+- Renoir Museum
 ---
 
 Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks but leaving two behind as they fled.

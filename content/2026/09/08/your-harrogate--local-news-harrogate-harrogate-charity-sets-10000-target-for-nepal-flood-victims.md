@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Catterick
+- Harrogate
+- Kathmandu
+- Nepal
+people:
+- Charlotte Gale
+- Guy Wilson
+- Lil Gurung MBE
+organisations:
+- Brigantes Rotarian
+- Changing Young Lives in Nepal
+- Harrogate Brigantes
+- Harrogate Brigantes Rotary
+- Harrogate Brigantes Rotary Nepal Flood Appeal
+- Himalayan Gurkhas Rotary Club
+- Royal Hall
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa0097a125daab7849.jpg) 

@@ -12,6 +12,23 @@ categories:
 - UK
 - Outdoors & Nature
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/02/11/15/130705.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Amboseli National Park
+- Arusha
+- East Africa
+- Endulen Ward
+- Kenya
+- Ndutu
+- Ngorongoro Conservation Area
+- Ngorongoro Crater
+- Tanzania
+people: []
+organisations:
+- KWS
+- Kenya Wildlife Service
+- Ngorongoro Conservation Area Authority
+- UNESCO World Heritage Convention
+- UNESCO World ⁠Heritage Site
 ---
 
 Ten lions have been found dead following a suspected poisoning in Tanzania’s Ngorongoro wildlife reserve this week, the area’s management authority has said.

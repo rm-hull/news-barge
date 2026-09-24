@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alberta
+- Canada
+- Earth
+- Lake America
+- Lake Ontario
+- Mexico
+- Ottawa
+- Texas
+- Toronto
+- U.S. Midwest
+- US
+- United States
+- Vancouver
+- Washington
+- Wisconsin
+people:
+- Barry Appleton
+- Donald Trump
+- Inu Manak
+- Leonard Polzin
+- Mark Carney
+- Rob Gillies
+- Robert Lighthizer
+organisations:
+- Canadian Market.
+- Center for International Law
+- Economic Freedom of the World
+- Fraser Institute
+- Heritage Foundation
+- New York Law School
+- Oxford Economics
+- Peterson Institute for International Economics
+- Trump
+- U.S. Department of Agriculture
+- USDA
+- USMCA
+- University of Wisconsin
+- World Bank
 ---
 
 Canada might seem an unlikely target for a U.S. trade war.

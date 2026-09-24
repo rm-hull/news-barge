@@ -13,6 +13,18 @@ categories:
 - York
 - Family & Parenting
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZlZWU0NjgzLTA0NTctNDVjZi1iNDU4LWEzMWZkMmU3MGViNjoyMzQzMDkwMi1iODFjLTRhZGUtYmQxNC1mYjFlOWRjNTkzYTE=.jpg?trim=228,0,705,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Chepstow
+- Gloucestershire
+- Sedbury
+- Tutshill
+people:
+- Aaron Grimshaw
+- Emma Moist
+organisations:
+- Bradford Crown Court
+- Bradford Districts Safeguarding Unit
+- Sex Offenders’ Register
 ---
 
 # Man jailed after online sex chats with children

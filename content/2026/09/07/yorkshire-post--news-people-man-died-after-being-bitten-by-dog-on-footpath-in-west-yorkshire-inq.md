@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Blacker Lane
+- Bradford Magistrates Court
+- Calder Grove
+- Horbury
+- Leeds General Infirmary
+- PA
+- Wakefield Dave Higgens
+- West Yorkshire
+people:
+- James Judge
+- Lee Ellis
+- Oliver Longstaff
+organisations:
+- Leeds Crown Court
 ---
 
 # Man died after being bitten by dog on footpath in West Yorkshire, inquest told

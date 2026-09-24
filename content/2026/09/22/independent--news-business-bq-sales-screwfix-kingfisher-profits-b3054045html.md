@@ -14,6 +14,22 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2025/11/25/09/e32a65f6420dffdf1317d664e60a6d8bY29udGVudHNlYXJjaGFwaSwxNzY0MTQ4MzQ5-2.81718792.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Ireland
+- UK
+people:
+- Thierry Garnier
+organisations:
+- Ahold Delhaize
+- B&Q
+- Brico Depot
+- Castorama –
+- Kingfisher
+- PA
+- Peel Hunt
+- Rui Vieira
+- Screwfix
 ---
 
 Kingfisher, the parent company of B&Q, has raised its full-year earnings forecast even as half-year sales at the DIY retailer slowed, influenced by cautious British consumers delaying major purchases.

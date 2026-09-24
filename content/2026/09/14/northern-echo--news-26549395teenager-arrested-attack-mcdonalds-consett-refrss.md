@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Consett
+- County Durham
+- County Durham McDonald’s
+- Ponds Court Business Park
+people:
+- Ann Ming
+organisations:
+- Durham Police
+- GOOGLE
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

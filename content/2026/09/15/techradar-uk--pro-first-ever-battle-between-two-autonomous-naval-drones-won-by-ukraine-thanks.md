@@ -10,6 +10,30 @@ description: Sink or win
 image: https://cdn.mos.cms.futurecdn.net/tjGhVgpSTxatNP7EfQqAEb-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Black Sea
+- Black Sea Fleet
+- Crimea
+- Gelendzhik
+- Russia
+- Sea of Azov
+- Ukraine
+people:
+- Christian Cawley
+- PSKR Izumrud
+organisations:
+- '## Drone'
+- Computer Weekly
+- ComputerActive
+- Defence Intelligence
+- Defense Intelligence Directorate
+- Google News
+- Linux Format
+- Magura V5
+- Matter Alpha
+- Security Service of Ukraine
+- TechRadar Pro
+- Ukrainian Navy
 ---
 
 ![Sargan-3000 with RWS machine gun turrent mounting](https://cdn.mos.cms.futurecdn.net/tjGhVgpSTxatNP7EfQqAEb.jpg) 

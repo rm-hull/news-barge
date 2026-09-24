@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- North Yorkshire
+- Whitby *(Image
+people: []
+organisations:
+- North Yorkshire Police
+- The Press
 ---
 
 A man in his 30s has been charged with a string of motoring offences after his arrest following a police chase along a main North Yorkshire road.

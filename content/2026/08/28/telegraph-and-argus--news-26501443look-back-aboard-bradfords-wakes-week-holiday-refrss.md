@@ -13,6 +13,49 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Belgrave Road
+- Blackpool
+- Bradford Interchange
+- Bradford-on-Sea
+- Bridlington Spa
+- Brid’
+- East Coast
+- Half Moon
+- Hilderthorpe Road
+- Jay Croot
+- North Sea
+- Wendy’s Waffles
+- Yorkshire
+people:
+- Alan
+- Alfred
+- Alfred?
+- Aunties Edie
+- Aunty Eileen
+- Cheers
+- Dad
+- Dennis
+- Dennis!
+- I luv Brid
+- Jacqui
+- Jason Croot
+- Jay
+- Mary
+- Mum
+- Peter
+- Seabrook
+- Terry Walker
+- Tetley
+- Webster
+organisations:
+- Amazon
+- Bradford
+- Harbour Lights
+- Norfolk Gardens Hotel
+- Polaroid
+- Pole Position
+- Waterstones
 ---
 
 BACK in the day, the first two weeks of August meant Wakes Week, or Factory Fortnight as folk called it.

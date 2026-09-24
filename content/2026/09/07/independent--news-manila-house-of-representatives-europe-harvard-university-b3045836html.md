@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- Philippines
+people:
+- Claire Castro
+- Crispin Remulla
+- Ferdinand Marcos Jr.
+- Martin Romualdez
+- Ombudsman Jesus
+- Sandiganbayan
+- Zaldy Co
+organisations:
+- Harvard University
+- House of Representatives
 ---
 
 A Philippine lawmaker and former speaker of the House of Representatives was charged Monday for allegedly pocketing millions of dollars in kickbacks from flood control projects in a widening scandal concerning vital public construction to shield communities from typhoons.

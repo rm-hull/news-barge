@@ -14,6 +14,36 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '**York'
+- Berkeley
+- California
+- Europe
+- Harrogate
+- Marton
+- North Yorkshire
+- Olix
+- Silicon Valley
+- UK
+- USA
+people:
+- AI
+- James Dacombe
+- Peter Thiel
+- Ruby Rae
+organisations:
+- )* Forbes
+- AI
+- Appletree Country Inn
+- Ashville College
+- Nvidia
+- Olix
+- Palantir
+- PayPal
+- Pic
+- St Aidan's
+- St John Fisher Associated Sixth Form
+- The Press
 ---
 
 A story about a Harrogate college drop-out now being worth almost £1 billion attracted much reader interest, becoming our most well-read story of August.

@@ -11,6 +11,35 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/a425ae01cfe74edbbf024262fa832c0ae33de34e/617_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca492f4625991bb66ea8bc418fb92ec2
+locations:
+- Aden
+- Bab al-Mandab
+- Djibouti
+- Hormuz
+- Iran
+- Kahboub
+- Marib
+- Mocha
+- Ras al-Ara
+- Red Sea
+- Riyadh
+- Saada
+- Saudi Arabia
+- Taiz
+- UK
+- US
+- Yemen
+- al-Jawf
+people:
+- Bab al-Mandeb
+- Babar Baloch
+- Donald Trump
+- Mohammed bin Salman
+- Rashad al-Alimi
+organisations:
+- Agence France-Presse
+- G7
+- UN
 ---
 
 As many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strategic heights on the Red Sea coast, while thousands flee the violence.

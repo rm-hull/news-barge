@@ -16,6 +16,21 @@ categories:
 - Government
 - Health & Fitness
 - Society & Culture
+locations:
+- Active North Yorkshire
+- North Yorkshire
+- Selby
+- Sherburn
+- Whitby Community Hospital
+people:
+- Alison Marshall
+- Cllr Michael Harrison
+- Mollie
+organisations:
+- Cuppa Connect
+- Selby Health and Wellbeing Hub
+- Sherburn and Villages Community Trust
+- Villages Community Trust
 ---
 
 ![Someone taking a blood pressure reading](https://www.northyorks.gov.uk/sites/default/files/2026-09/Know%20your%20Numbers%20image%201.jpg) 

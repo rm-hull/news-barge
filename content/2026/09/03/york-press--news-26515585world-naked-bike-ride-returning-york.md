@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Britain
+- City of York
+- Hampshire
+- Havant
+- Millennium Bridge
+- Saxley Court
+people:
+- Andy Burnham
+- Brexit
+- Jessica Goetia Brooking
+- John Cossham
+- Kemi Badenoch
+- Nigel Farage
+- Rae Mould
+- Thatcher
+organisations:
+- Clifford's Tower
+- Voluntary Guides Association
 ---
 
 **World Naked Bike Ride: why it is returning to York**

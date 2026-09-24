@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478507.jpg?type=og-image
+locations: []
+people:
+- Bill Jarvis
+organisations:
+- Aldi
+- Premium Paints
 ---
 
 Weeds can completely ruin your garden, patio, and driveway by growing in the most awkward places.

@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/09/06/19/22/GettyImages-2292329268.
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- Canada
+- Denali
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Mount McKinley
+- New America
+- New Mexico
+- North America
+- U.S.
+- US
+- Washington, D.C.
+- White House
+people:
+- Donald Trump
+- Doug Berger
+- Eric Daugherty
+organisations:
+- App Store
+- Apple
+- CNN
+- Fox News
+- Google
+- John F. Kennedy Center for the Performing Arts
+- MapQuest
+- SSRS
+- Trump
 ---
 
 President Donald Trump has already changed the name of the Gulf of Mexico and Lake Ontario, and now he’s targeting a US state for a rebrand.

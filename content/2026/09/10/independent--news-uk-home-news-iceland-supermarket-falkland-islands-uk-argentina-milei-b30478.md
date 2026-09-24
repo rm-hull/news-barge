@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2025/08/15/11/13f7e7a0719992cf9844d25bc2
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Falkland Islands
+- Falklands
+- Iceland
+- PA
+- Ross Road East
+- Stanley
+- UK
+people:
+- David Parry
+- Ed Miliband
+- James Wallace
+- Javier Milei
+- Lord Richard Walker
+- Lord Walker
+- Richard Walker
+- Sarah Clarke
+- Wes Streeting
+organisations:
+- Cathedral City
+- Fortuna
+- Iceland Foods
+- Kelper Stores
+- LinkedIn
+- MyProtein
+- Stanley
+- TGI
 ---
 
 Supermarket chain Iceland has announced plans to launch a store in the Falkland Islands, marking what it claims will be a first for a UK high street brand in the territory.

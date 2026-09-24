@@ -11,6 +11,31 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh-1920-80.jpg
+locations:
+- Beijing
+- California
+- China
+- Europe
+- Germany
+- Mount Pleasant
+- U.K.
+- U.S.
+- Washington
+- Wisconsin
+people:
+- Tom
+organisations:
+- 3D NAND
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- Micron
+- Microsoft
+- Munich 1 Regional Court
+- Munich Higher Regional Court
+- PC
+- Tom's Hardware
+- YMTC
 ---
 
 ![Micron Building](https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh.jpg)

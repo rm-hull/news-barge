@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Film & TV
 image: https://i.guim.co.uk/img/media/d3afe028e92c4a681d8cc56d152f15cd15133bc9/0_0_4434_3547/master/4434.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58d08f04c3628065e32cbd2cf0640f0d
+locations:
+- Burbank
+- California
+people:
+- Joe Rodriguez
+- Matthew Ware
+organisations:
+- NBC News
 ---
 
 A 34-year-old man from California has been arrested after allegedly pepper-spraying a person at a movie theater who was using his cellphone during the film, according to authorities.

@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Education & Learning
 - Arts & Culture
+locations:
+- Adrian Moorhouse
+- Yorkshire
+people:
+- Simon Hinchliffe
+organisations:
+- BGS
+- Bradford Grammar
+- Bradford Grammar School
 ---
 
 Brought to you by

@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Rare
+organisations:
+- Get Tom's Hardware
+- Nintendo Switch
+- Retro
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/fa5rCFArWpEn4fibYKdVyZ-320-80.jpg)

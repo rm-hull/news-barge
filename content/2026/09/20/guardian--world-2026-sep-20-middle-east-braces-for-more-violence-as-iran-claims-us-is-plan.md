@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/2422e7807856ad13343c9672009287cf0c04ba5f/619_0_2581_2066/master/2581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7e8db61fd74297ae15142112dd4df8d
+locations:
+- Aramco
+- Asia
+- Bab al-Mandab
+- France
+- Gaza
+- Germany
+- Gulf
+- Hormuz
+- Indian Ocean
+- Iran
+- Islamic Republic
+- Israel
+- Middle East
+- New York
+- Oman
+- Red Sea
+- Riyadh
+- Salahah
+- Saudi Arabia
+- Tehran
+- US
+- White House
+- Yanbu
+- Yemen
+people:
+- Donald Trump
+- Hizam al-Assad
+- Masoud Pezeshkian
+- Mohammad Ghalibaf
+- Mohammed bin Salman
+- Mohsen Rezaei
+organisations:
+- Al Jazeera
+- Aramco
+- Camp David
+- Fox News
+- Gulf Cooperation Council
+- Islamic Revolutionary Guard Corps
+- Pentagon
+- UN
+- US Central Command
 ---
 
 Governments across the Middle East are bracing for an escalation of violence after Iran claimed it had received intelligence that the US was preparing for a renewed bombing campaign against the Islamic Republic.

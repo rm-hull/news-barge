@@ -11,6 +11,21 @@ image: https://i.guim.co.uk/img/media/ea4f2e5883e687faf4c37af96a4350d8289aa967/0
 categories:
 - UK
 - News & Politics
+locations:
+- Ayutthaya
+- Bangkok
+- Thailand
+- Wat Phutthaisawan
+people:
+- Anutin Charnvirakul
+- Luang Pho Atichot
+- Nattasak Chaowanasai
+- Pattanasak Bupphasuwan
+- Phra Wachirayan
+- Phra Wachirayan Wi
+organisations:
+- CCTV
+- Central Investigation Bureau
 ---
 
 Police in Thailand have arrested a senior Buddhist monk on suspicion of embezzling $2.8m intended for his monastery, alongside a suspected female accomplice he was filmed having sex with.

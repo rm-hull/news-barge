@@ -13,6 +13,33 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aleppo
+- Baniyas
+- Daraa
+- Deir ez-Zor
+- Hasakah
+- Idlib
+- Iran
+- Iraq
+- M5
+- Maaret al-Numan
+- Raqqa
+- Saudi Arabia
+- Strait of Hormuz
+- Syria
+- Tartus
+- al-Bukamal
+- al-Omar
+- al-Shahil
+- al-Suway'iya
+people:
+- Ahmed al-Sharaa
+- Al-Bashir
+- Mohammed al-Bashir
+organisations:
+- Euronews
+- People's Assembly
 ---
 
 ## Demonstrators blocked oil tanker routes and roads in six provinces on the second consecutive day of unrest over a 25-40% fuel price rise, as more than 50 MPs signed a demand to question the energy minister.

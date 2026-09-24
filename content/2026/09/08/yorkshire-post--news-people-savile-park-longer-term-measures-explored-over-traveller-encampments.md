@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Calderdale
+- Halifax
+- Halifax.
+- Savile Park
+- Savile Park Moor
+- Ward
+- Yorkshire
+people:
+- Ann Kingstone
+- Coun Dave Mendes da Costa
+- Coun Hawkaluk
+- Coun Kingstone
+- Coun Paul Hawkaluk
+organisations:
+- Calderdale Council
+- Lab
+- Police
+- Wainhouse
 ---
 
 # Savile Park: 'Longer-term measures' explored over traveller encampments in Yorkshire park

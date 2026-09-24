@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A66
+- England
+- Europe
+- Hull City
+- Man Utd
+- Middlesbrough
+- Old Trafford
+people:
+- Ashley Young
+- Benjamin Sesko
+- Bruno Fernandes
+- Craig Pawson
+- Fernandes'
+- Gary O'Neil's
+- Kjell Scherpen
+- Kobbie Mainoo
+- Man United
+- Man Utd
+- Marcelino Nunez
+- Marcus Rashford
+- Matheus Cunha
+- Matthew Blades
+- Michael Carrick
+organisations:
+- AsManchester United
+- BBC Sport
+- Galatasaray
+- Ipswich
+- Manchester United
+- Sky Sports
 ---
 
 Fernandes hat-trick helps Man Utd recover to beat Ipswich

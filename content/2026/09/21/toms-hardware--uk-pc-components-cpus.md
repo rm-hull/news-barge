@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/mDC76z55tQaYVFSYMAzKMH-1200-80.jpg
+locations:
+- Nova Lake
+- Razor Lake
+- Tualatin
+people:
+- Tom
+organisations:
+- AMD Zen
+- Apple
+- CPU
+- EPYC
+- Get Tom's Hardware
+- Intel
+- Jaykihn
+- MediaTek
+- Microarchitecture
+- Nvidia
+- SoC
 ---
 
 Microprocessors are the beating heart of your computer, and cutting edge technical advances continue to drive the technology forward. From chiplet tech and nanoprocessing to AI chips and more, Tom's Hardware is the industry standard for CPU news and reviews.

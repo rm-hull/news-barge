@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Bristol
+- London
+- TikTok
+people:
+- Eleanor Hodgson
+- Erin Atkinson
+- Kate
+- Mark
+- Michael Gwilliam
+- Morby
+- Sophia Maslin
+organisations:
+- Crombie Wilkinson Solicitors
+- Will Aid
+- Wolverhampton Wanderers
 ---
 
 ![A close up image of Erin Atkinson wearing a cream jumper and holding a mug. She appears to be sitting in a public space with a car park seen out the window behind her.](https://ichef.bbci.co.uk/ace/standard/767/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg)

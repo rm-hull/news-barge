@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Massachusetts
+- UK
+- US
+people:
+- '![Clancy'
+- Callan
+- Cora Clancy
+- Dawson
+- Heather Cucolo
+- Ione Wells
+- Lindsay Clancy
+- Sullivan
+- Tuey-Rodriguez
+organisations:
+- BBC
+- Befrienders Worldwide
+- New York Law School
 ---
 
 Watch moment judge in Clancy case says a mistrial likely

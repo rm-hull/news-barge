@@ -11,6 +11,94 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/QMdQ5CkBkqmZogBx8tSQXP-1920-80.png
+locations:
+- Australia
+- Canada
+- UK
+- US
+people:
+- Aatif Sulleyman
+- Addie Langdon
+- Alex Consani
+- Amanda Rea
+- Angela Bassett
+- Anwar
+- Ariana Grande
+- Avantika
+- Ben DeSoto
+- Berto Colon
+- Billie Lourd
+- Bobby McFarlane
+- Brad Falchuk
+- Brigitte Bardot
+- Brooke Maroon
+- Coco St. Pierre Vanderbilt
+- Constance Langdon
+- Cordelia Goode
+- Elizabeth Short
+- Elizabeth Tate
+- Elsa Mars
+- Emma Roberts
+- Eva Braun
+- Evan Peters
+- Fedor Steer
+- Gabourey Sidibe
+- Gwyn
+- Hotel
+- James Patrick March
+- Jamie Brewer
+- Jeffrey Dahmer
+- Jessica Lange
+- Jezebel
+- Joe the Doorman
+- Joey Pollari
+- John Carroll Lynch
+- John Waters
+- Jude Martin
+- Kai Anderson
+- Lesley Grossman
+- Madison Montgomery
+- Marie Laveau
+- Melanie Nicholls-King
+- Mena Suvari
+- Morwenna
+- Nihar Duvvuri
+- Ophelia
+- Paul Anthony Kelly
+- Phibes
+- Piggy Man
+- Queenie
+- Renata Friedman
+- Ryan Murphy
+- Sarah Paulson
+- Seth Gabel
+- Tate Langdon
+- Wallis Simpson
+- Winter Anderson
+- Young Nas
+organisations:
+- Aatif
+- Adelaide Langdon
+- Coco St. Pierre Vanderbilt
+- Cordelia Goode
+- Coven
+- Disney
+- Elizabeth Short
+- Emma Roberts' Madison Montgomery
+- FX
+- Future plc
+- Gizmodo
+- Hulu
+- Mallory
+- Mena Suvari
+- Murder House
+- Nan
+- Newsweek
+- Queenie
+- Rubber Man
+- TechRadar
+- The Independent
+- Trusted Reviews
 ---
 
 ![Sarah Paulson as Cordelia Goode in American Horror Story 13](https://cdn.mos.cms.futurecdn.net/QMdQ5CkBkqmZogBx8tSQXP.png)

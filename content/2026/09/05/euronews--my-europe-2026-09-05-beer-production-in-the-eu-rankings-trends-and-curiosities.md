@@ -12,6 +12,28 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Austria
+- Belgium
+- Czechia
+- Europe
+- France
+- Germany
+- Ireland
+- Lithuania
+- Netherlands
+- Poland
+- Spain
+people:
+- Czechia
+organisations:
+- Beer Sector
+- Cerveceros de España
+- Czechia
+- EU
+- European Union
+- Eurostat
+- Ministry of Agriculture
 ---
 
 ## The latest Eurostat figures show a trend: beer production is slowly declining year after year. Germany leads in 2025, closely followed by Spain.

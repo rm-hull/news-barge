@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Boulevard
+- Eastfield
+- North Yorkshire
+- Scarborough
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

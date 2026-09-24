@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Beit Lahiya
+- Gaza
+- Hodeida
+- Israel
+- Jawf
+- Marib
+- Middle East
+- Saudi Arabia
+- Shifa
+- Taiz
+- Yemen
+people: []
+organisations:
+- Al-Masirah TV
+- Associated Press
+- Hamas
 ---
 
 An Israeli strike killed at least four people in northern Gaza, including two children. And a media outlet controlled by Iran-backed Houthi rebels claims Saudi-backed forces have launched airstrikes on several areas.

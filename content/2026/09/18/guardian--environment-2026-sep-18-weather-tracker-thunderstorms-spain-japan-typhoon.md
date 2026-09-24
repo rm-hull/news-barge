@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Barcelona
+- Castilla-La Mancha
+- Connecticut
+- Dujuan
+- Estadio Ciudad de Valencia
+- Japan
+- Mediterranean Sea
+- New Jersey
+- Olivella
+- Pacific Ocean
+- Rhode Island
+- Spain
+- Tokyo
+- US
+people: []
+organisations:
+- Athletic Club
+- La Liga
+- Levante
 ---
 
 Intense and slow-moving thunderstorms broke out on Wednesday afternoon across parts of eastern Spain, bringing some severe flooding and killing at least one person.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations: []
+people:
+- Joe Lytwyn
+organisations:
+- Child Trust Fund
+- Child Trust Funds
+- FCA
+- Financial Conduct Authority
+- GOV.UK
+- Government
+- HMRC
+- Thimbl.com
 ---
 
 *(Image: HighwayStarz)*

@@ -13,6 +13,57 @@ categories:
 - Technology & Software
 - Sports
 - Film & TV
+locations:
+- Australia
+- CA
+- Canada
+- Hull
+- Ipswich
+- Ipswich.
+- London
+- MKM Stadium
+- Man Utd
+- Old Trafford
+- UK
+- US
+- USA
+- United Kingdom.
+- canada
+people:
+- Bruno Fernandes
+- Greg Lea
+- Man Utd
+- Michael Carrick
+- Wilfried Zaha
+organisations:
+- AU
+- Crystal Palace
+- ESPN
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Guardian
+- Hull City
+- Hulu
+- Ipswich
+- Man Utd
+- Manchester United
+- Norton VPN
+- Port Vale
+- Premier League
+- Red Devils
+- Sky Sports
+- Sky TV
+- Sling**(
+- Stan Sport
+- Sunderland
+- TechRadar
+- The Set Pieces
+- Tractor Boys
+- USA Network
+- UseNorton VPNto
+- Whitehorse Manor
+- YouTube TV
 ---
 
 ![Bruno Fernandes of Manchester United during the Premier League 2026/27 match between Hull City and Manchester United at MKM Stadium on August 22, 2026 in Hull, United Kingdom.](https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ.jpg) 

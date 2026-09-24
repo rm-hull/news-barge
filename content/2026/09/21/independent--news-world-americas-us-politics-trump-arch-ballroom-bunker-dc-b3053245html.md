@@ -13,6 +13,39 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/20/21/2295205675..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- Capitol Hill
+- Iran
+- Kennedy Center
+- Rome
+- U.S.
+- Washington D.C.
+- White House
+people:
+- Biden
+- Donald Trump
+- Doug Burgum
+- Hill
+- John Barrasso
+- John Thune
+- Maria Salazar
+- Mike Johnson
+- Mike Lawler
+- Steve Scalise
+- Susan Collins
+organisations:
+- CNN
+- Congress
+- Fox News
+- GOP
+- House Majority Whip
+- MS Now
+- NBC
+- Pentagon
+- Politico
+- Senate
+- Trump
 ---
 
 Will Donald Trump put a drone port on every roof in Washington D.C.?

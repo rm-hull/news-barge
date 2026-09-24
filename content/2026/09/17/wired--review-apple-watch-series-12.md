@@ -12,6 +12,14 @@ image: https://media.wired.com/photos/6aab51d5fb7533563c98fa41/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Siri AI
+organisations:
+- Apple Intelligence
+- Apple Watch
+- Audio Intelligence
+- WWDC
 ---
 
 On the surface, the Apple Watch Series 12 doesn’t appear to be a major upgrade over last year’s release and, in many ways, it isn’t. But after a week of wearing it day and night, I noticed that the Series 12 feels more intuitive, putting fewer steps between me and the information I need from my everyday smartwatch.

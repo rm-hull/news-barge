@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/16/530276356..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alabama
+- Arkansas
+- California
+- Connecticut
+- Indiana
+- Kentucky
+- Kratom
+- Louisiana
+- Mayo Clinic
+- Minnesota
+- Mississippi
+- New Mexico
+- Tennessee
+- U.S.
+- Vermont
+- Wisconsin
+people:
+- Brandon Clarke
+- Kratom
+- MrBeast
+- Tyler Wall
+organisations:
+- Food and Drug Administration
+- Kratom
+- Mayo Clinic
+- Memphis Grizzlies
+- U.S. Drug Enforcement Administration
+- University of Michigan
+- University of Mississippi
+- WDSU
+- Yale Medicine
+- YouTube
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

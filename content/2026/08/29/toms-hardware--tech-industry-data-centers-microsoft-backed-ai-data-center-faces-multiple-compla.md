@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- DataOne
+- Memphis
+- Mount Pleasant
+- New Jersey
+- Tennessee
+- Vineland
+- Wisconsin
+people:
+- Charles-Antoine Beyney
+- Matt Williams
+- Nathan Taft
+- Nebius
+- Tom
+organisations:
+- DataOne —
+- Elon Musk’s xAI
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- Microsoft
+- Nebius
+- SpaceXAI
+- Stand.earth
+- Sustain South Jersey
+- Tom’s Hardware
+- Vineland
 ---
 
 ![an under construction data center](https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL.png) 

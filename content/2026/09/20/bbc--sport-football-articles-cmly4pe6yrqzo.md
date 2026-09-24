@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3acf/live/639a5b70-b51f-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Brighton
+- England
+- Fulham
+- Liverpool
+- Old Trafford
+people:
+- Benjamin Sesko
+- Carlos Baleba
+- Gary Neville
+- Kobbie Mainoo
+- Lisandro Martinez
+- Man Utd
+- Matheus Cunha
+- Matthijs de Ligt
+- Michael Carrick
+- Michael] Carrick
+- Youri Tielemans
+organisations:
+- Brighton
+- Fulham
+- Manchester City
+- Manchester United
+- Sky Sports
+- Tottenham
 ---
 
 Carrick impressed Man Utd 'kept belief' to earn draw at Fulham

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bradford
+- Gain Lane
+- Morrisons'
+people: []
+organisations:
+- '## Company'
+- '## Stores'
+- MORRISONS
+- Morrisons
+- Newsquest
 ---
 
 *(Image: Newsquest)*

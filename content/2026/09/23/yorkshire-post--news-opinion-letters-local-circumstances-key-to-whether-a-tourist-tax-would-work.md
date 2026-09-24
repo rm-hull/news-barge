@@ -13,6 +13,23 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBiNDQ5MjhiLTNhMjMtNDgwNy1hYjBlLWEyNjYyZDQzY2NiYzo2OGFjMWJlYS0wMzk0LTQ2ZTMtOTVjYy04MDQ0ZmUwYjM4MGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bootham Bar
+- Edinburgh
+- Killinghall
+- Lund Lane
+- MP Laycock
+- North Yorkshire
+- Venice
+- West Court
+- York
+people:
+- David Skaith
+organisations:
+- '![York Minster'
+- Tony Johnson
+- York Art Gallery
+- Yorkshire Post Letters
 ---
 
 # Local circumstances key to whether a tourist tax would work - Yorkshire Post Letters

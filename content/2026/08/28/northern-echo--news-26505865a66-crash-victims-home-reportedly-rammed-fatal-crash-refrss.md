@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Acklam
+- Birchington Avenue
+- CLEVELAND
+- Eston
+- Grangetown
+- Middlesbrough
+- Ruskin Avenue
+- Steele Crescent
+- Teesside
+- Thornaby
+people:
+- Andy McDonald
+- Cole Robert Worthy
+- Cole Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- Natalie McDonald
+- OWEN HUMPHRIES
+- Passat
+- Pc Tom Clough
+- STUART BOULTON
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Audi
+- Cleveland Police
+- Middlesbrough
+- The Sun
 ---
 
 The home of one of the A66 crash victims' mum was rammed amid a gang feud that lead-up to the horror smash, according to reports.

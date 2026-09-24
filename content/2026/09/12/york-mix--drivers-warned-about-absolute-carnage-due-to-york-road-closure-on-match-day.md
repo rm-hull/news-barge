@@ -11,6 +11,30 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- A1237
+- Exhibition Square
+- Huntington
+- Malton
+- Monks Cross
+- Monks Cross Drive
+- Monks Cross Link
+- Monks Cross Village Gardens
+- Osbaldwick
+- Rawcliffe
+- Woodthorpe
+- York City
+- York Railway Station
+- west York
+people:
+- Pullman
+organisations:
+- A64
+- City of York Council
+- Monks Cross
+- Monks Cross Link
+- Swindon Town
+- York City
 ---
 
 Drivers are being warned about ‘absolute carnage’ today (Saturday) due to a road closure on the day of a York City home game.

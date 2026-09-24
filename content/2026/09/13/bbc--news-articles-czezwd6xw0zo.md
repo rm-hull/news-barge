@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations: []
+people:
+- Steven Jackson
+organisations:
+- ABI
+- Association of British Insurers
+- Aviva
 ---
 
 ![Student sits on the grass with a phone in her hand, a tablet computer on the grass and a bike resting on a tree behind her.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg)

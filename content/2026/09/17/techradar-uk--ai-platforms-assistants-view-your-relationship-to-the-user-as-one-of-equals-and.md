@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1920-80.jpg
 categories:
 - Technology & Software
 - Relationships & Dating
+locations: []
+people:
+- Lance Ulanoff
+organisations:
+- AI
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- OpenAI
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![OpenAI logo on smartphone, reflected on main screen](https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY.jpg) 

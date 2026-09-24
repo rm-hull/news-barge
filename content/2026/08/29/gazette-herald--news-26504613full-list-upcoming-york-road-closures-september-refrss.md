@@ -13,6 +13,55 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- A1036 Tadcaster Road
+- A1079 Hull Road
+- A64
+- Askham Bryan
+- Askham Fields
+- Back Lane
+- Back Swinegate
+- Buckles Inn
+- Church Lane
+- Common Road
+- Common Road Level Crossing
+- Fairview
+- Gennell Lane
+- Greenshaw Drive
+- Haxby
+- Howden Lane
+- Huntington
+- Jockey Lane
+- Kexby
+- Little Stonegate
+- Lords Moor Lane
+- Malton Road
+- Moor Lane
+- Naburn Lane
+- Ox Carr Lane
+- Princess Road
+- Smith’s Lane
+- Strensall
+- The Rowans
+- The Village
+- Tower Street
+- Westfield Lane
+- Wheldrake
+- Wigginton
+- Wisteria Lodge
+- YOUR
+- York Inner Ring Road
+- York Lane
+- York Road
+- York Road Level Crossing
+people: []
+organisations:
+- A1079
+- A64
+- City of York Council
+- Monks Cross Link
+- Moor Lane
+- Public Notice Portal
 ---
 
 *(Image: The Press)*

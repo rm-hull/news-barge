@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Craig Hale
+- Fraser Hutchison
+organisations:
+- Cohesity
+- Craig’s
+- Google News
+- TechRadar Pro
 ---
 
 ![Caution sign data unlocking hackers. Malicious software, virus and cybercrime, System warning hacked alert, cyberattack on online network, data breach, risk of website](https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3.jpg) 

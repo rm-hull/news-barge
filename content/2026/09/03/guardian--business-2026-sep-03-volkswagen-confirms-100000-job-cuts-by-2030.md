@@ -14,6 +14,31 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- China
+- Emden
+- Europe
+- Germany
+- Hanover
+- Iran
+- Neckarsulm
+- US
+- Wolfsburg
+- Zwickau
+people:
+- Oliver Blume
+organisations:
+- Audi
+- BMW
+- Bentley
+- Blume
+- Cupra
+- Lamborghini
+- Porsche
+- Seat
+- Skoda
+- VW
+- Volkswagen
 ---
 
 The car company Volkswagen has announced it will shed 100,000 jobs by the end of the decade after being hit by US tariffs and fierce competition from Chinese rivals.

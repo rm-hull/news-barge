@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- York Racecourse
+- York Station
+people:
+- Lynette
+- Parkinson
+- Tim Bryan
+organisations:
+- David Harrison Photography
+- Parkinson's UK
+- Parkinson’s UK
 ---
 
 A “selfless” volunteer and chair of the York branch of Parkinson’s UK has been honoured with a Community Pride Award.

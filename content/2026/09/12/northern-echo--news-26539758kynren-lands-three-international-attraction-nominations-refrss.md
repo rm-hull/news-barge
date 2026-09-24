@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Bishop Auckland
+- Darlington
+- Europe
+- London
+- Middle East
+- UK
+people:
+- Anna Warnecke
+- Kynren
+- Mr Haughton
+organisations:
+- Bellewaerde
+- Best Live Entertainment
+- Best Regional Park
+- County Durham
+- Doha Quest
+- Grand Connaught Rooms
+- Kynren
+- Puy du Fou España
+- The Storied Lands
+- Walibi Belgium
 ---
 
 An attraction in Bishop Auckland has been shortlisted for three international awards just weeks after launching its latest venture.

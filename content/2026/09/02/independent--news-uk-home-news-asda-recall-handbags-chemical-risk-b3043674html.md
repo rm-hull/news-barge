@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people:
+- Allan Leighton
+organisations:
+- Asda
+- Food Standards Agency
+- Greencore
+- Morrisons
+- OPSS
+- Office for Product Safety and Standards
 ---
 
 Asda has recalled three lines of women’s handbags after they were found to pose a "serious" chemical risk that could cause damage to the reproductive system.

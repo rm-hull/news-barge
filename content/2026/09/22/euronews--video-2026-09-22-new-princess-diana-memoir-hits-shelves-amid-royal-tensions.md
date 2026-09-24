@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Film & TV
 image: https://images.euronews.com/articles/stories/09/92/32/73/1200x675_cmsv2_31b5d95f-2f0b-541b-87d1-8e0a277c2002-9923273.jpg
+locations:
+- Buckingham Palace
+- Paris
+people:
+- Charles III
+- Charles Spencer
+- Diana
+- My Sister’
+- Prince Harry
+- William
+organisations: []
 ---
 
 Charles Spencer’s new book about his late sister, Princess Diana, goes on sale after searing extracts prompted a rare and sharp rebuttal from King Charles III.

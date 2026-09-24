@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Eiffel Tower
+- Paris
+- US
+people:
+- Celine Dion
+- Céline Trioux
+- Taylor Swift
+organisations:
+- AXS France
+- Associated Press
+- Britpop
+- Fnac Spectacles
+- Group-IB
+- Interpol
+- Oasis
+- Plenitude Arena
+- The Plenitude Arena
+- Ticketmaster France
+- Trioux
+- URL
 ---
 
 Based on their experience of hosting Taylor Swift, the management team at the Paris venue for Celine Dion 's grand concert comeback is bracing to deliver devastating news to hundreds of her fans: ‘Sorry, you appear to have been scammed, your tickets are fake.’

@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Ouse Bridge
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- York Rescue Boat
 ---
 
 Emergency services have been called to an incident near a York bridge.

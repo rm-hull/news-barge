@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/09/07/10/Lebanon_Israel_68_86.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Bayda
+- Israel
+- Jawf
+- Lebanon
+- Middle East
+- Saudi Arabia
+people:
+- Brig
+- Yahya Saree
+organisations:
+- Associated Press
+- Health Ministry
+- Hezbollah
+- Islamic Risala Scout Association
 ---
 
 Lebanon ’s Health Ministry says Israeli airstrikes on a southern Lebanese village has killed nine people. Meanwhile, the Iran-backed Houthi rebels claim to have shot down a Saudi reconnaissance plane.

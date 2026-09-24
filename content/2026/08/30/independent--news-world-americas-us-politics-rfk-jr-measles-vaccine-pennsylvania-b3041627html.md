@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/08/29/23/2026-08-24T215824Z_1279344
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Lancaster County
+- Pennsylvania
+- U.S.
+people:
+- Jake Scott
+- Josh Parsons
+- Josh Shapiro
+- Robert F Kennedy Jr
+- Robert F. Kennedy Jr.
+organisations:
+- CDC
+- Fox News
+- Health and Human Services
+- Stanford University
+- Trump
 ---
 
 Health and Human Services Secretary Robert F. Kennedy Jr. has accused “fear-mongering” politicians and journalists of hyping up “so-called measles deaths” as he defended the Trump administration in the face of a historic spike in U.S. measles cases.

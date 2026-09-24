@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/CUB5dHBZDJoczb2xqmTYZD-2560-80.jpg
 categories:
 - Technology & Software
 - Self-Improvement
+locations:
+- New York City
+people:
+- AI
+- ChatGPT
+- Eric Hal Schwartz
+- Suzanne Degges-White
+organisations:
+- AI
+- ChatGPT
+- Google Gemini
+- Google News
+- Headway
+- TechRadar
+- Voicebot.ai
 ---
 
 ![Laptop, headache and man in cafe.](https://cdn.mos.cms.futurecdn.net/CUB5dHBZDJoczb2xqmTYZD.jpg) 

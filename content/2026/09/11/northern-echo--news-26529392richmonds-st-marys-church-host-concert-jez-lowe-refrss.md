@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- County Durham
+- Richmond
+- Richmond’s Market Hall
+- St Mary’s Church
+people:
+- Aidan Lowe
+- Jez Lowe
+organisations:
+- '** A'
+- Eventbrite
+- Friends of St Mary’s
+- The Book Stop
 ---
 
 *(Image: Aidan Lowe)*

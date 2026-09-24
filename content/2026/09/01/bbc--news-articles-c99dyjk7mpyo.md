@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Britain
+- Downing Street
+- London
+- Nine Elms
+- North Sea
+- UK
+people:
+- Andrew Griffith
+- Andy Burnham
+- Bridget Phillipson
+- Daisy Cooper
+- Jess Brown-Fuller
+- Keir Starmer
+- Keir?
+- Kemi Badenoch
+- Liz Truss
+- Zack Polanski
+organisations:
+- Budget
+- Commons
+- EU
+- Greens
+- Labour Party
+- Liberal Democrat Treasury
+- Nato
+- Sainsbury's
+- Sky
+- The Conservatives and Reform UK
 ---
 
 ![UK Prime Minister Andy Burnham talks with staff during a visit to a Sainsbury's supermarket in Nine Elms, London, on 26 August 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a2ea/live/72f6d5e0-a597-11f1-9d75-23328fac5eb0.jpg)

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Balmoral
+- Beachy Head
+- Buckingham Palace
+- East Sussex
+- Princess of Wales
+people:
+- Charles’
+- Diana
+- Earl Spencer
+- Elizabeth II
+- King
+- Prince Charles
+- Prince Harry
+- Prince William
+organisations:
+- BBC
+- Duchess of Sussex
+- Westminster Abbey
 ---
 
 Earl Spencer has insisted he is “telling the truth” about a claim in his new book that the King told him that his sister Diana would be forgotten “soon enough” following her death.

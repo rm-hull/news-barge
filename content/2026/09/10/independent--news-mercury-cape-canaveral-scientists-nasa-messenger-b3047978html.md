@@ -13,6 +13,20 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations:
+- Japan
+- Mercury
+people:
+- Gaku Nishiyama
+organisations:
+- AP Fund for Journalism
+- BepiColombo
+- Geophysical Research Letters
+- German Aerospace Center’s Institute of Space Research
+- Hokkaido University
+- Mercury
+- Messenger
+- NASA
 ---
 
 A new study shows that little, wrinkly Mercury may be shrinking faster than expected, the cosmos’ version of a grape shriveling into a raisin under the sun.

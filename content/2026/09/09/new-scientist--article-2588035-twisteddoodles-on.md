@@ -11,6 +11,13 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- California
+- Indonesia
+- Sulawesi
+- Tibet
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311214267.jpg?w=840)

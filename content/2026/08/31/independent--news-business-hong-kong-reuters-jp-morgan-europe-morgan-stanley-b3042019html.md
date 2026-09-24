@@ -13,6 +13,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Europe
+- Hong Kong
+- London
+- New York
+- UK
+- US
+people:
+- Donald Trump
+- Shein
+organisations:
+- EU
+- Goldman Sachs
+- JP Morgan
+- Morgan Stanley
+- Reuters
 ---
 
 Fast fashion giant Shein is to make its stock market debut in a move which could value the company at as much as 27 billion US dollars (£19.8 billion).

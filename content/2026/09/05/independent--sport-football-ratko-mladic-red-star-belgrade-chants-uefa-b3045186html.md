@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Former Yugoslavia
+- Netherlands
+- Srebrenica
+- The Hague
+people:
+- Ratko Mladic
+organisations:
+- Associated Press
+- ICTY
+- International Criminal Tribunal
+- Lugano
+- Red Star
+- Red Star Belgrade
+- Roma
+- UN
+- Uefa
+- Viktoria Plzeň
 ---
 
 Uefa has issued a fine to Serbian club Red Star Belgrade following chants by supporters in tribute to convicted war criminal Ratko Mladic, who died on the day of their European fixture last week.

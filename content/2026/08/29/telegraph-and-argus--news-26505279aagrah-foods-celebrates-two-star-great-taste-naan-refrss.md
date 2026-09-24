@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- UK
+- Yorkshire
+people:
+- Aagrah
+- Shakil Hussain
+organisations:
+- Aagrah Foods
+- Aagrah Foods’ Plain Naan
+- Guild of Fine Food
+- Morrisons
+- Tesco
+- YORKSHIRE
 ---
 
 A YORKSHIRE naan has scooped a top prize.

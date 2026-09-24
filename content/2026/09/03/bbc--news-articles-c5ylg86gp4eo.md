@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Film & TV
+locations:
+- BBC
+- UK
+- US
+people:
+- Amelia Dimoldenberg
+- Conan O'Brien
+- Cynthia Erivo
+- Drake
+- Elizabeth Day
+- Graham Norton
+- Jamie Laing
+- Paul McCartney
+- Tinie Tempah
+- Zara Larsson
+organisations:
+- Amelia
+- BBC Newsbeat
+- BBC Radio 1
+- Chicken Shop Date
+- G.O.A.T
+- Instagram
+- Radio 1
+- The Guardian
 ---
 
 ![Amelia Dimoldenberg wears a blue, halterneck dress with her blonde hair down to her shoulders. Her glamorous look is is contrast with her surroundings - a mocked-up fried chicken takeaway with white, tiled walls and a black cash register on the counter.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg)

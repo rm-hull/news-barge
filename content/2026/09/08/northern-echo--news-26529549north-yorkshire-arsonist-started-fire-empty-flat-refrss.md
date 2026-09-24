@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Great Ayton
+- North East
+- North Yorkshire
+- Woodbine Close
+people:
+- Annelise Haugstad
+- Elisha Marsay
+- Emma Largan
+- Jonathan Carroll
+- Miss Marsay
+organisations:
+- Newsquest
+- Teesside Crown Court
 ---
 
 *(Image: Newsquest)*

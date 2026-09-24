@@ -13,6 +13,15 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Balmoral Terrace
+- North Yorkshire
+- York
+people:
+- Ben Robinson-Brockhill
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

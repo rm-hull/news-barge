@@ -12,6 +12,70 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Black Sea
+- Bulgaria
+- Cathedral of the Archangel
+- China
+- Czech Republic
+- Dnipropetrovsk
+- Donetsk
+- Europe
+- Gabrovo
+- Gebrev
+- Georgia
+- Germany
+- India
+- Kharkiv
+- Kremlin
+- Kursk
+- Kyiv
+- Lyman
+- Moscow
+- Russia
+- Saratov
+- Saxony-Anhalt
+- South Carolina
+- Tsareva Livada
+- Tula
+- US House
+- Ukraine
+- Volga River
+- Volgograd
+- West
+- Zaporizhzhia
+people:
+- '## Putin'
+- Bohdan Kukura
+- Dmitry Donskoy
+- Dmitry Milyayev
+- Emilian Gebrev
+- Jared Kushner
+- Kristina Sidorova
+- Lindsey Graham
+- Senator Graham
+- Steve Witkoff
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Zelenskiy
+organisations:
+- AfD
+- Alternative for Germany
+- Congress
+- EMCO
+- House Rules Committee
+- ISW
+- Institute for the Study of War
+- Kyivstar
+- Nato
+- Ozon
+- Republican-majority Rules Committee
+- Reuters
+- Senate
+- US House of Representatives
+- Ukrnafta
+- Wildberries
 ---
 
 Russian president Vladimir Putin warned European nations that sending troops to Ukraine would amount to “war with Russia” as Moscow escalated its drone strikes across the country.

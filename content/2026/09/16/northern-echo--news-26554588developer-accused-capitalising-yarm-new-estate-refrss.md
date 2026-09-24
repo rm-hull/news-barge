@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Real Estate
+locations:
+- Darlington
+- Eaglescliffe
+- Fox Covert
+- Grade II
+- Green Lane
+- Leven Bank
+- Leven Bridge
+- THE NORTHERN ECHO
+- Thornaby
+- True Lovers\' Walk
+- YOUR
+- Yarm Medical Centre
+- Yarm Viaduct
+people:
+- Cllr Palmer
+- Craig Marshall
+- Debbie Watt
+- John Hunter
+- Malcolm Palmer
+- Michael Brazell
+- Sasha White KC
+- Taylor Wimpey
+- Yvonne Wallace
+organisations:
+- Green Lane.
+- LDR
+- Leven Bank
+- National Highways and Northern Powergrid
+- Northern Powergrid
+- Post Office
+- Public Notice Portal
+- Stockton Borough Council
+- TAYLOR WIMPEY
+- TG Jones
+- Taylor Wimpey
+- Yarm Town
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -13,6 +13,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 - True Crime
+locations:
+- Missouri
+- St. Louis
+- U.S.
+people:
+- Forbes
+- Gary Harris
+- Mason Plumlee
+- Siddharth Jawahar
+- Taylor Swift
+- Tim Hardaway Jr
+- Travis Kelce
+organisations:
+- Eastern District of Missouri
+- Forbes
+- Harris
+- Jawahar
+- KMOV
+- Kansas City Chiefs
+- Kelce
+- NBA
+- Ponzi
+- Spotrac
+- Swiftarc Capital LLC
+- Swiftarc Ventures Labs Fund
+- U.S. Attorney's Office
+- U.S. District Court
 ---
 
 Kansas City Chiefs tight end Travis Kelce was named as one of the victims of a Ponzi scheme that defrauded investors out of more than $35 million, a prosecutor in Missouri stated.

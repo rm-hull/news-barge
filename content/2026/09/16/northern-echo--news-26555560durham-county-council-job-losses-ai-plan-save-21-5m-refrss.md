@@ -15,6 +15,67 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Benfieldside
+- Chester-le-Street South
+- County Durham
+- County Hall
+- Delves Lane
+- Easington
+- Lower Teesdale
+- Murton
+- Newton Aycliffe
+- PA
+- Reform UK
+- Salvus House
+- Seaham
+- Sedgefield
+- Shildon
+- Shotton
+- West Auckland
+people:
+- Andrew Harrison
+- Andrew Kilburn
+- Bridget Phillipson
+- Cllr Amanda Hopgood
+- Cllr Fox
+- Cllr Grimes
+- Cllr Husband
+- Darren Grimes
+- David Cumming
+- Dawn Saunders
+- Ian Catchpole
+- Jack McGlenen
+- Jasmine Fox
+- John Bailey
+- Kate Rowland
+- Kenny Hope
+- Lyndsey Fox
+- Michael Ramage
+- Nick Brown
+- Nicole Brown
+- Nigel Farage
+- Owen Humphreys
+- Paul Bean
+- Paul Sexton
+- SARAH CALDECOTT
+- Sarah Caldecott
+organisations:
+- Advance UK
+- Aycliffe South
+- Bishop Auckland
+- County Durham
+- Crook
+- Dawdon
+- Durham County Council
+- Labour
+- Liberal Democrat
+- Newsquest
+- Peterlee
+- Police and Crime Commissioner
+- Reform UK
+- THE NORTHERN ECHO
+- The Big Club
 ---
 
 Four years of maximum council tax rises, job cuts and a greater reliance on artificial intelligence are being considered by Durham County Council as Reform UK's administration attempts to plug an £83.7 million funding gap while clinging to power with a majority of just three councillors.

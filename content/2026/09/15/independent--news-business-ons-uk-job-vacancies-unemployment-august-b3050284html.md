@@ -13,6 +13,21 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Liz McKeown
+- Pat McFadden
+- Thomas Pugh
+organisations:
+- Bank
+- MPC
+- Monetary Policy Committee
+- ONS
+- Office for National Statistics
+- Payrolled
+- RSM UK
+- Work and Pensions
 ---
 
 Job vacancies have fallen to a five-year low as small firms scale back recruitment due to soaring wage costs, according to official figures.

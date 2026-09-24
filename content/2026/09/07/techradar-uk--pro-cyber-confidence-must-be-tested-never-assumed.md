@@ -10,6 +10,15 @@ image: https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Future plc
+- Rapid7
+- SOC
+- Solutions Engineering
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![An exclamation mark inside a red warning triangle, surrounded by email symbols, superimposed on someone typing on a laptop](https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK.jpg) 

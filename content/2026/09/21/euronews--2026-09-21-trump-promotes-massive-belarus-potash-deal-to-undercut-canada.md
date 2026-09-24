@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/20/30/1200x675_cmsv2_d263f4e9-38b9-5ae2-99ba-e2036cca80aa-9922030.jpg
+locations:
+- Belarus
+- Canada
+- Minsk
+- Moscow
+- Russia
+- US
+- Ukraine
+- Washington
+people:
+- Alexander Lukashenko
+- Donald Trump
+- John Coale
+organisations:
+- Belaruskali
+- European Union
 ---
 
 ## The US president says fertilizer from Lukashenko's Russia-allied regime will cost far less than Canadian supplies, the latest sign of Washington's warming relationship with Minsk.

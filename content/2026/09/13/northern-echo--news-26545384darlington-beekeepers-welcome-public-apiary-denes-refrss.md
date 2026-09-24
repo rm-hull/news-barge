@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- ANDY FUTERS
+- County Durham
+- Darlington
+- Denes
+- Onpath Wind Farm
+- Sadberge
+- Widdowfield Street
+people:
+- Denes Apiary Honey
+- Helen Crumbie
+- Lola McEvoy
+organisations:
+- Darlington Beekeepers Association
+- The DBKA
 ---
 
 *(Image: AF)*

@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Asia
+- Colosseum
+- El Niño
+- France
+- Manila
+- Pacific
+- Philippines
+- Rome
+- UK
+- Western Europe
+people:
+- Clair Barnes
+- Erwan Rivault
+- Justin Rowlatt
+- Samantha Burgess
+- Simon Stiell
+organisations:
+- BBC
+- Copernicus Climate Change Service
+- EU
+- El Niño
+- Future Earth
+- Imperial College London
+- Met Office
+- Sun
+- UN
 ---
 
 ![A number of people are crossing the street in Rome, in the shadow of the Colosseum,  - several are holding umbrellas and sunhats as protection from the Sun. The sky is blue and cloudless on the left of the picture some city buildings and trees can be seen.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eae1/live/3afbb100-ac5f-11f1-be57-03729df1d736.jpg)

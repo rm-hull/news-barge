@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- North East
+- Seaham
+- Stockton Road
+people: []
+organisations:
+- Durham Police
+- Facebook
+- Filthy
+- Filthy's
+- Netflix
+- Northern Echo
+- Seaham
+- Tearoom
+- The County Durham
+- The Mill Inn
+- The Northern Echo
+- Unit 1
 ---
 
 *(Image: GOOGLE)*

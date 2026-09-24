@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Florida
+- Salazar
+- White House
+people:
+- Abby Phillip
+- Abraham] Lincoln
+- Border Czar
+- Donald Trump
+- Laura Ingraham
+- Maria Elvira Salazar
+- María Elvira Salazar
+- Mike Madrid
+- Ronald] Reagan
+- Tom Homan
+organisations:
+- CNN
+- Democratic Party
+- Democrats’ X
+- Fox News
+- Homeland Security Department
+- ICE and Customs and Border Protection
+- Immigration and Customs Enforcement
+- The Economist
+- The Independent
+- Trump
+- VoteHub
+- Whoa!
+- YouGov
 ---
 
 Representative Maria Elvira Salazar, a Florida Republican, has hammered President Donald Trump over his massive immigration crackdown in a scathing election ad.

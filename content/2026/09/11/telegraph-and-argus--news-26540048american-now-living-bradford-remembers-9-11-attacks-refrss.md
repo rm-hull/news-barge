@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bradford
+- DC
+- Ground Zero
+- New York
+- North Tower
+- Pennsylvania
+- South Tower
+- Washington
+people: []
+organisations:
+- Capitol
+- Pentagon
+- Twin Towers
+- United 93
+- World Trade Center
+- World Trade Centre
 ---
 
 *(Image: UGC)*

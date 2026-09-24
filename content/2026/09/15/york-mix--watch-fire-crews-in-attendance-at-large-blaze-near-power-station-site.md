@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Eggborough
+- Selby
+- Tadcaster
+people: []
+organisations:
+- Eggborough Power Station
+- North Yorkshire Fire & Rescue Service
 ---
 
 Several fire crews are in attendance at a large blaze near to a former power station tonight.

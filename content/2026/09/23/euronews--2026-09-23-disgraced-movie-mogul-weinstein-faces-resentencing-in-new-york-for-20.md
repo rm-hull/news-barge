@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/41/53/1200x675_cmsv2_f7a9ae8e-6426-5ed9-8f3e-bbb0ed0e5454-9924153.jpg
+locations:
+- California
+- Hollywood
+- Los Angeles
+- New York
+people:
+- '## Harvey Weinstein'
+- Harvey Weinstein
+- Jessica Mann
+- Miriam Haley
+organisations:
+- The New York Times
+- The New Yorker
 ---
 
 ## Harvey Weinstein, who is currently jailed in New York, once ruled Hollywood as a kingpin powerful enough to make or break projects and careers.

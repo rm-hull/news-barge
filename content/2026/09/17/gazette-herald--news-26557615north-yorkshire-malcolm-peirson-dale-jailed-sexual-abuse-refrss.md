@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- North Yorkshire
+- Pickering
+- Rosedale
+- York
+people:
+- Liberty Ashton
+- Malcolm Peirson Dale
+organisations:
+- Childline
+- IDAS
+- NSPCC Helpline
+- North Yorkshire Police
+- North Yorkshire Sexual Assault Referral Centre
+- SARC
+- Scarborough CID
+- York Crown Court
 ---
 
 *(Image: Police)*

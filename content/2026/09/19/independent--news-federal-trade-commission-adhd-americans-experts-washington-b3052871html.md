@@ -13,6 +13,34 @@ categories:
 - Business & Entrepreneurship
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/19/13/Be_Well_Telehealth_Risks_37199.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Connecticut
+- Maryland
+- U.S.
+people:
+- Andrew Crawford
+- Hims
+- Justin Brookman
+- Reshma Ramachandran
+organisations:
+- AP
+- Associated Press Health and Science Department
+- BetterHelp
+- Center for Democracy and Technology
+- Consumer Reports'
+- Department of Science Education
+- FTC
+- Federal Trade Commission
+- GLP-1s
+- GoodRx
+- Google
+- HIPAA
+- Hims & Hers
+- Howard Hughes Medical Institute
+- Meta
+- Robert Wood Johnson Foundation
+- Yale University
 ---
 
 The appeal of telehealth is easy to explain: Instead of calling a doctor, booking an appointment and hoping to eventually get a prescription, you can log onto an app or website and get approved for a new medication within minutes.

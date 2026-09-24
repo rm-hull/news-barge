@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/02/7/43/US-airstrike-hits-home-w
 categories:
 - News & Politics
 - UK
+locations:
+- Bahrain
+- Hormuz Strait
+- Iran
+- Iraq
+- Jordan
+- Khuzestan
+- Kuhistik
+- Kuwait
+- Minab
+- Pakistan
+- Qatar
+- Sirik
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- Donald Trump
+organisations:
+- Ali Al Salem Air Base
+- CNN
+- Hormozgan Province Red Crescent Society
+- IRGC
+- Iranian Red Crescent
+- Pentagon
+- Red Crescent Society
+- Reuters
+- The Independent
+- US CENTCOM
 ---
 
 Four people were killed and dozens injured after US forces bombed a wedding ceremony in Iran, local authorities have said as both sides traded heavy strikes.

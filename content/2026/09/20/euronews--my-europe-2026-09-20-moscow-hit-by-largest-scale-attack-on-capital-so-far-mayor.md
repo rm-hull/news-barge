@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/02/71/1200x675_cmsv2_60bd47a4-de1d-5ebe-80c8-2b9e3031de0b-9920271.jpg
+locations:
+- Chervonyi Mayak
+- Kherson
+- Kyiv
+- Moscow Oblast
+- Russia
+- Ukraine
+- Vyshhorod
+people:
+- Andrey Vorobyov
+- Sergey Sobyanin
+- Timur Tkachenko
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv Regional State Administration
+- Telegram
 ---
 
 ## Ukrainian President Volodymyr Zelenskyy confirmed that Ukraine had targeted the Moscow region overnight, saying a "key" oil industry facility as well as a logistics facility were hit.

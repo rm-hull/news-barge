@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Britain
+people:
+- Bernardine Evaristo
+- Charlotte Thomson
+- Dame Judi
+- David Attenborough
+- Judi Dench
+- Judi?
+- Lynsey Atkin
+- Marie Curie
+- Tim Berners-Lee
+- Vivienne Westwood
+organisations:
+- Baby Teeth
+- Judi Dench FRSA
+- RSA
+- RSA’s Fellowship
+- Royal Society of Arts
 ---
 
 ONE of Britain's oldest institutions "marked the beginning of a new era" with a relaunch featuring video art built around a conversation with a York-born star of stage and screen.

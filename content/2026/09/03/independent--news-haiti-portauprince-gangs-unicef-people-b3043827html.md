@@ -13,6 +13,21 @@ image: https://static.independent.co.uk/2026/09/03/01/APTOPIX_Haiti_Violence_687
 categories:
 - News & Politics
 - UK
+locations:
+- Haiti
+- Kenscoff
+- Port-au-Prince
+people:
+- Marta Hurtado
+- Patrique Saint-Hilaire
+organisations:
+- AP
+- Civil Protection Agency
+- Human Rights Office
+- National Police
+- The Associated Press
+- U.N
+- UNICEF
 ---
 
 More than 100 mourners attended funerals Wednesday inside a church where gangs recently executed more than 30 people in an attack that shook the troubled country.

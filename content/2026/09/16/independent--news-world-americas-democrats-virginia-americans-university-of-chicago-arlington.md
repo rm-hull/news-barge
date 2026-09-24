@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Arlington
+- California
+- Cincinnati
+- Florida
+- Jacksonville
+- Massachusetts
+- New York
+- Ohio
+- Texas
+- U.S.
+- Virginia
+- Waltham
+people:
+- Eriech Tapia
+- Erik Nordman
+- Fengqi You
+- Gedeon Kebede
+- Mary Fisher
+- Michael Greenstone
+- Nancy Antunes
+organisations:
+- AI
+- AP Fund for Journalism
+- AP-NORC
+- AmeriSpeak Panel
+- Cornell University
+- Energy Policy Institute
+- Institute of Public Utilities
+- Lawrence Berkeley National Laboratory Report
+- Michigan State University
+- NORC
+- Pew Research Center
+- The Associated Press-NORC Center for Public Affairs Research
+- United Nations University
+- University of Chicago
 ---
 
 On the way home from a recent trip, Eriech Tapia drove past a sea of dark industrial buildings lining an already jam-packed northern Virginia road: data centers.

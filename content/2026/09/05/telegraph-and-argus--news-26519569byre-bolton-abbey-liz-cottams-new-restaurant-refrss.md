@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Food & Cooking
 - Arts & Culture
+locations:
+- Back O
+- Bolton Abbey
+- Byre
+- Leeds
+- Storiths
+- Th Hill Farm
+people:
+- Byre
+- Liz Cottam
+organisations:
+- Liz
 ---
 
 *(Image: Supplied)*

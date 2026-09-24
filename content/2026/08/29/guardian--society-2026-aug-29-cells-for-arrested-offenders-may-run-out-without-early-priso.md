@@ -12,6 +12,22 @@ image: https://i.guim.co.uk/img/media/ca5dae353676987f67b828a684b2c32b7242c7a5/9
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Nottingham
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+- Barnaby
+- Bridget Phillipson
+- Diana Parkes
+- Emma Webber
+- Joanna Simpson
+- Robert Brown
+- Valdo Calocane
+organisations:
+- BBC Radio 4’s Today
 ---
 
 Cells to hold newly arrested people could run out without the early prison release scheme, a government minister has said.

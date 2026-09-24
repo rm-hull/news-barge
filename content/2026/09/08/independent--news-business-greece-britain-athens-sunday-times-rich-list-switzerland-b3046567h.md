@@ -13,6 +13,34 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Abu Dhabi
+- Athens
+- Britain
+- Dubai
+- Greece
+- Italy
+- London
+- Monaco
+- New York
+- Singapore
+- Switzerland
+- UK
+- US
+people:
+- Chris Rokos
+- Michael Platt
+- Richard Gnodde
+- Robert Watts
+organisations:
+- Bloomberg News
+- BlueCrest Capital Management
+- Goldman Sachs
+- Government
+- Rokos Capital Management
+- Sunday Times Rich List
+- Treasury
+- University of Cambridge
 ---
 
 A hedge fund billionaire and Britain’s third-biggest taxpayer is set to leave the UK for Greece – marking the latest exit among the country’s billionaires, according to reports.

@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/ebE272AofX8L7JDXA85xR6-2500-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- Australia
+- UK
+- US
+people:
+- Tom Bedford
+organisations:
+- ANC
+- Android Police
+- BGR
+- Column
+- Digital Trends
+- GamesRadar
+- Samsung Galaxy Z Fold
+- Soundpeats Clip1
+- Spotify
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ### TechRadar Verdict

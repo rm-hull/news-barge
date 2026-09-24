@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Dockside Road
+- LNER
+- Manchester Airport
+- Middlesbrough Riverside Stadium
+- North East
+- Redcar Central
+- York
+people: []
+organisations:
+- Cleveland Police
+- CrossCountry
+- Manchester Airport
+- Middlesbrough
+- TransPennine Express
 ---
 
 *(Image: LDRS)*

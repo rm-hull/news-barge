@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - Automotive
+locations:
+- Leyburn
+- Middleham Bridge
+people:
+- Malcolm Taylor
+organisations:
+- North Yorkshire Council
 ---
 
 ![A tall grey stone arch with a cross on each side over a single road. The picture shows a works vehicle under the bridge with a cone in the middle of the picture to the right of the road.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b68d/live/3f7a5410-a869-11f1-ae45-e9984fc27c77.jpg)

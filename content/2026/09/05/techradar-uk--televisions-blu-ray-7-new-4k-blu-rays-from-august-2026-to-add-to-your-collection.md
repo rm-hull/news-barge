@@ -14,6 +14,79 @@ categories:
 - Technology & Software
 - Film & TV
 - Music
+locations:
+- Adrian
+- Arrow
+- Earth
+- Encino
+- Las Vegas
+- Manhattan
+- New York
+- New Zealand
+- Paris
+- Sharks’
+- Troy
+- UK
+- US
+people:
+- '## Michael'
+- '## Troy'
+- Achilles
+- Alex Winter
+- Annette Benning
+- Bill
+- Billie Jean
+- Bogus Journey
+- Brad Pitt
+- Brendan Gleeson
+- Colonel
+- Dale
+- Diane Kruger
+- Glenn Close
+- Hector
+- Helen
+- Jaafar Jackson
+- Jack Black
+- Jack Nicholson
+- James Davidson
+- Julain Dennison
+- Keanu Reeves
+- Maria
+- Menelaus
+- Michael J Fox
+- Michael Jackson
+- Michael*
+- Orlando Bloom
+- Prince of Troy
+- Ricky
+- Rocky
+- Ryan Gosling
+- Ryland Grace
+- Sam Neill
+- Taika Waititi
+- Ted
+- Tony
+organisations:
+- 4K
+- AV
+- Amazon MGM
+- Arrow Video
+- Bill & Ted
+- Billie Jean
+- Blu-ray Bounty
+- Dolby Atmos
+- Dolby Vision
+- Earth’s Sun
+- Google News
+- Jets
+- LG
+- OLED
+- PS5
+- QLED
+- Samsung
+- TechRadar
+- Universal Pictures
+- Warner Bros
 ---
 
 ![Blu-ray Bounty August 2026 hero image showing shot of Ryland Grace from Project Hail Mary](https://cdn.mos.cms.futurecdn.net/QNJ955Tgc9T5RXUWjQVmzY.jpg) 

@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Back Hares Avenue
+- Chapeltown
+- Leeds West Indian Carnival
+- Roundhay Road
+- Shepherd's Lane
+- Shepherd’s Lane
+- West Yorkshire
+people:
+- Scott Hartley
+organisations:
+- CCTV
+- Crimestoppers
+- Leeds CID
+- Leeds West
+- Leeds West Indian Carnival
+- West Yorkshire Police
+- West Yorkshire** A
 ---
 
 *(Image: West Yorkshire Police)*

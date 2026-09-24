@@ -11,6 +11,34 @@ image: https://i.guim.co.uk/img/media/5f243c0b81b6d80344d0d5b38db10af4f614eeab/4
 categories:
 - UK
 - News & Politics
+locations:
+- Balkans
+- Brussels
+- Europe
+- France
+- Iceland
+- Norway
+- Reykjavík
+- UK
+- US
+people:
+- Alberto Alemanno
+- Kristrún Frostadóttir
+- Marine Le Pen
+- Nigel Farage
+- Putin
+- Sandro Gozi
+- Saskia Bricmont
+- Trump
+organisations:
+- Brexit
+- EEA
+- EFTA
+- EU
+- European Economic Area
+- Nato
+- Reform UK
+- non-EEA
 ---
 
 Iceland’s 52.8% to 47.2% vote against reopening EU accession talks is, undeniably, a blow for Brussels. But claiming it as a Brexit-style victory for “national sovereignty” or evidence of broad rejection of the EU misrepresents the reality of the island’s relationship with the bloc.

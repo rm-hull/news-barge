@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/08/9/00/swales2.png?trim=40,0,22
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- East Skelmersdale
+- Skelmersdale East
+- West Lancashire
+people:
+- Ashley Dalton
+- Cllr Swales
+- Leon Graham
+- Mark Clifford
+- Nigel Farage
+- Nigel Swales
+- Skem
+- Swales’
+organisations:
+- Labour North West
+- Labour Party
+- Lancashire County
+- Lancashire County Council
+- Lancashire Labour
+- Reform UK
+- Reform UK Lancashire
+- Skelmersdale
+- West Lancashire Reform
 ---
 
 A Lancashire county councillor has become the first politician in Britain to defect from Reform UK to Labour, citing "growing concerns about Reform's ability to deliver at a local level”.

@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- East-West
+- Esso Grange Road
+- Gem Haughton
+- Iraq
+- Jet Darlington Road
+- Jet Shildon
+- Jet Staindrop Road
+- Middle East
+- Morrisons Morton Park
+- Newton Park Service Station
+- Oakley Service Station
+- RSS Grange Road
+- Saudi Arabia
+- Shell Haughton Road
+- Shildon Service Station
+- Tesco Newton Aycliffe
+- Toll Bar Garage
+- UK
+people: []
+organisations:
+- Asda Darlington Automat
+- Bishop Auckland
+- Esso Newton Aycliffe
+- Forest Park Services
+- Morrisons Darlington
+- Murco Northallerton
+- RSS St Cuthberts Way
+- Sainsbury
+- Sainsbury's Darlington
+- Sainsbury's Whitehouse Farm Automat
+- Shell Newton Aycliffe
+- Tesco
 ---
 
 *(Image: PA)*

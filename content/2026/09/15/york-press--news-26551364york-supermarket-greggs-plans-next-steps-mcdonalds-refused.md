@@ -13,6 +13,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Fulford Road
+- Greggs
+- The Fulford Road Iceland
+- YOUR
+- York
+people:
+- Cllr Whitcroft
+- Conrad Whitcroft
+- Greggs
+organisations:
+- City of York Council
+- Dalian Properties Ltd
+- Greggs
+- Labour Fishergate
+- McDonald's
+- Public Notice Portal
+- Public Notice Portal EFFORTS
 ---
 
 ## Noise, traffic and health fears over York supermarket plans after McDonald's blocked

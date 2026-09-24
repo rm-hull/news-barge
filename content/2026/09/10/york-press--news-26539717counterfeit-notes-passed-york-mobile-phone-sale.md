@@ -13,6 +13,13 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- North Yorkshire
+- York
+people:
+- Colin Irvine
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

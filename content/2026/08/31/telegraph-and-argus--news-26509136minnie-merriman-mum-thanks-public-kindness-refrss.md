@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Arbroath
+- Dundee
+- Elliot Industrial Estate
+- England
+- Ninewells Hospital
+- Scotland
+- Victoria Park
+- Wakefield
+- West Yorkshire
+people:
+- Christopher Rice
+- Laurie Merriman
+- Minnie Merriman
+organisations:
+- Arbroath FC
+- Inverness Caledonian Thistle
 ---
 
 *(Image: Police Scotland)*

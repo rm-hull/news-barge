@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/14/Climate_New_York_Climate_Week_AI_87396.jpg?width=1200&height=800&crop=1200:800
+locations:
+- China
+- Germany
+- Iran
+- Nepal
+- Nepal-China
+- New York
+- New York City
+- Potsdam
+- Turkey
+- U.S.
+- Ukraine
+- United States
+- Venezuela
+- Washington, D.C.
+people:
+- Bill Hare
+- Caleb Max
+- Donald Trump
+- Francesco La Camera
+- Jennifer Morgan
+- Johan Rockström
+- Mar Zepeda
+- Mohamed Adow
+- Simon Stiell
+- Vladimir Putin
+organisations:
+- AI
+- AP
+- Associated Press’
+- Climate Analytics
+- Climate Justice Alliance
+- Global Renewables Alliance
+- Greenpeace
+- IRENA
+- International Renewable Energy Agency
+- National Artificial Intelligence Association
+- Potsdam Institute for Climate Impact Research
+- Powershift Africa
+- Tufts University
+- U.N.
+- United Nations
+- United Nations General Assembly
 ---
 
 World and business leaders gathering this week in New York are being forced to grapple with the increasingly urgent costs of climate change, soaring energy prices and the human toll from this summer's oppressive heat waves, prolific wildfires and catastrophic Nepal flood.

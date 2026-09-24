@@ -15,6 +15,24 @@ categories:
 - Society & Culture
 - True Crime
 - History
+locations:
+- Johannesburg
+- Kempton Park
+- OR Tambo
+- Olifantsfontein
+- South Africa
+people:
+- Athlenda Mathe
+- Bafana Khumalo
+- Cyril Ramaphosa
+- Elizabeth Moselakgomo
+- Elizabeth “Tsontso” Moselakgomo
+- Sakane Mokoena
+- Tsontso
+organisations:
+- Instagram
+- Sonke Gender Justice
+- Women For Change
 ---
 
 The discovery of the bodies of seven women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide.

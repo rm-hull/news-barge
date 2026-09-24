@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Bankfoot
+- Bradford
+- Lamborghini
+- Leeds Crown Court
+people:
+- Humaira Batool
+- Mohammed Shaan Hussain
+- Paul Conroy
+organisations:
+- Lamborghini
+- Leeds Crown Court
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 # Driver who reached 143mph in Lamborghini guilty over fatal M62 crash

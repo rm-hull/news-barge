@@ -15,6 +15,33 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations: []
+people:
+- Angel
+- Asa Germann
+- Ben Foster
+- Ben Hardy
+- Cyclops
+- Kit Connors
+- Sam
+- Sarah Halley Finn
+- Scott Summer
+- Tom
+- Warren Worthington III
+organisations:
+- Cyclops
+- Disney Plus
+- Google News
+- Hollywood Reporter
+- MCU
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- THR
+- TechRadar
+- X-Men
 ---
 
 ![A screenshot of Warren Worthington III/Angel in a Marvel comic book](https://cdn.mos.cms.futurecdn.net/uqMRv3xhzzkiQSkWxATdjN.jpg) 

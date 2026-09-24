@@ -13,6 +13,32 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNhMGIxZmUxLTRmNjItNDQzYS04NDE2LWQ5OGQyOWIxMzZkYzoxMDQ3NTA0MC0yZDA0LTRjODctYmM1Yi0xNDA1MTgyY2M3Yjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Belgian Flanders
+- France
+- Hovingham
+- Ilkley
+- Loos Memorial
+- North Yorkshire
+- Tyne Cott
+- West Yorkshire Regiment
+- Ypres Salient
+people:
+- Arthur Sanderson
+- Cyril Judson
+- Frank Parker
+- Harry Patch
+- Hovingham
+- James Hardisty.
+- John Carruthers
+- Stuart Dean
+- William Sadler
+organisations:
+- All Saints Church
+- Household Battalion
+- Hovingham Royal British Legion
+- Royal British Legion
+- Sherwood Foresters
 ---
 
 # Mystery over five names missing from Yorkshire memorial

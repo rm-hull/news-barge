@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Travel
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ae8/live/86395540-b75a-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Basel
+- Burgas
+- Canada
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Netherlands
+- Slovenia
+- Spain
+- St. Jakobshalle
+people:
+- Avrotros
+- Bangaranga
+- Claude
+- Dara
+- Jurre Bosman
+- Martin Green
+organisations:
+- Avrotros
+- EBU
+- European Broadcasting Union
+- NOS
+- NPO
+- The Netherlands
 ---
 
 ![Dutch singer Claude representing the Netherlands with the song "C'est La Vie" parades with his national flag during the dress rehearsal for the final of the Eurovision Song Contest 2025 at the St. Jakobshalle arena in Basel on May 16, 2025](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ae8/live/86395540-b75a-11f1-bc1f-3f186ca4140c.jpg)

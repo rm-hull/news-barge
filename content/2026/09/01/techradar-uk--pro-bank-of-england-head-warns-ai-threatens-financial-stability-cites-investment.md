@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Andrew Bailey
+- Craig Hale
+organisations:
+- '## Bank of England'
+- AI
+- Bank of England
+- Central Bank Governors Meeting
+- Craig’s
+- G20
+- Google News
+- TechRadar Pro
 ---
 
 ![A toy robot with the word "Thanks" written on paper standing in front of basket of money.](https://cdn.mos.cms.futurecdn.net/VQbZf3o6HDexdyxxy4wax.jpg) 

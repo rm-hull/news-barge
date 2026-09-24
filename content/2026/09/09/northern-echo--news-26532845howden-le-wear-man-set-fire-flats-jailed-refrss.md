@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Bridge Street
+- County Durham
+- Crook
+- Howden-le-Wear
+- North East
+people:
+- Dan Wilberforce
+- Martin Nicholson
+- Paul Abrahams
+- Peter Armstrong
+organisations: []
 ---
 
 A man who set fire to a block of flats to end his own life wanted his sister to die with him, a court heard.

@@ -13,6 +13,14 @@ categories:
 - UK
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- China
+- Japan
+- Wuhan
+people:
+- Guo Degang
+organisations:
+- Culture and Tourism Bureau
 ---
 
 Authorities fined two companies and said that one of China’s best-known comedians had caused a “negative impact” on society, after an audience reported him for changing the lyrics of a patriotic song during a performance.

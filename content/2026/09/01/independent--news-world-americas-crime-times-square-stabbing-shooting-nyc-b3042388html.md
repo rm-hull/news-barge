@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- Manhattan
+- New York City
+- Queens
+- Times Square
+people:
+- Jessica Tisch
+- Pamela Cisneros
+- Zohran Mamdani
+organisations:
+- NYPD
+- New York City Police
 ---
 
 A woman has been shot dead by police in the heart of Times Square in Manhattan after she allegedly killed a person and injured another in a stabbing attack that lasted mere seconds.

@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bierley Woods
+- Bradford
+- Elland
+- Germany
+- Low Moor
+- Valley Parade
+people:
+- '## Bierley'
+- Bierley Woods
+- Grandma
+- Him
+- James Pilkington
+- James'
+- Sean Holden
+organisations:
+- Adidas
+- Newsquest
+- Nike
+- Overgate Hospice
 ---
 
 *(Image: Newsquest)*

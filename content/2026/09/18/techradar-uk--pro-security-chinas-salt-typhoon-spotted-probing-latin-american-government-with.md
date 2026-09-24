@@ -11,6 +11,33 @@ categories:
 - Technology & Software
 - News & Politics
 - Society & Culture
+locations:
+- Argentina
+- Bosnia and Herzegovina
+- China
+- Ecuador
+- Guatemala
+- Honduras
+- Latin America
+- Panama
+- Peru
+- Puerto Rico
+- Salt Typhoon
+- Sarajevo
+- US
+- Venezuela
+people:
+- Donald Trump
+- Sead
+- Xi Jinping
+organisations:
+- Al Jazeera Balkans
+- ESET
+- FamousSparrow
+- Google News
+- Represent Communications
+- TechRadar Pro
+- Trump
 ---
 
 ![A conceptual image featuring Donald Trump and China President Xi Jinping on a screen, with undulating stocks and a dollar bill in the background.](https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7.jpg) 

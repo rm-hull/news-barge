@@ -14,6 +14,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Amazon
+- Brooklyn
+- Lancaster
+- New Jersey
+- New York
+- Texas
+people:
+- Inimai Chettiar
+- Jennifer Hatch
+- Kelly Nantel
+organisations:
+- A Better Balance
+- Amazon
+- EEOC
+- Emery Celli Brinckerhoff Abady Ward & Maazel
+- Equal Employment Opportunity Commission
+- House
 ---
 
 Amazon is facing a proposed nationwide class action lawsuit brought by four former warehouse employees who allege the retail giant systematically discriminates against pregnant staff members.

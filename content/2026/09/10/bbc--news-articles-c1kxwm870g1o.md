@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- East Jerusalem
+- Gaza
+- Israel
+- Kibbutz Be'eri
+- Kibbutz Reim
+- UAE
+- UK
+- United Arab Emirates
+- West Bank
+people:
+- Avigdor Lieberman
+- Benjamin Netanyahu
+- Bin Zayed
+- Gadi Eisenkot
+- Haaretz
+- Mohammed bin Zayed Al Nahyan
+- Naftali Bennett
+- Ruth Yuval
+- Shlomi Eldar
+- William J Burns
+- Yahya Sinwar
+- Yair Golan
+- bin Zayed
+organisations:
+- CIA
+- Haaretz
+- Hamas
+- Likud Party
+- Mossad
+- Shin Bet
+- UN
+- then-Hamas
 ---
 
 ![Israeli Prime Minister Benjamin Netanyahu speaks at a news conference in Jerusalem (8 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg)

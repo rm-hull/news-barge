@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Chicago
+- Iran
+- U.S.
+people:
+- Donald Trump
+- Kevin Warsh
+- Michele Raneri
+organisations:
+- CME Group
+- Congress
+- Fed
+- FedWatch Tool
+- Federal Open Market Committee
+- Federal Reserve
+- TransUnion
+- Trump
+- U.S. Treasury
 ---
 
 The Federal Reserve has raised interest rates and flagged further increases in borrowing costs in coming months, with new U.S. central bank chief Kevin Warsh joining a unanimous decision that effectively acknowledges the Trump administration's inability so far to control inflation.

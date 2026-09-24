@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Broadway
+- Keighley
+- Kirkgate
+- Silsden Town Hall
+- West Yorkshire
+people:
+- Beggin’
+- Frankie Valli
+organisations:
+- 0AJ
+- Newsquest
+- Silsden Town Hall
+- The Jersey Boys
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17c/live/ff2265
 categories:
 - UK
 - News & Politics
+locations:
+- Jackson City
+- Kentucky
+- Mississippi
+- North Carolina
+- US
+people:
+- Brandon King
+- Christy Spivey
+- Jasmine Crockett
+- Kenneth Stokes
+- RaShall Brackney
+- Staci Turner
+- Tasia Fortune
+- Trey Reed
+organisations:
+- BBC
+- FBI
+- Jackson Police
+- Jackson State University
+- NAACP
+- National Association for the Advancement of Colored People
+- Tasia Fortune
+- US Congress
+- US Department of Justice
 ---
 
 ![A selfie taken by Christy Spivey of her and her daughter Tasia Fortune](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/357f/live/8cad6670-ac63-11f1-be57-03729df1d736.jpg)

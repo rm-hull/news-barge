@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Tottenham
+- USA
+people:
+- '"[Chelsea'
+- Andre Schurrle
+- Antonio Conte
+- Blues
+- Chelsea
+- David Luiz
+- Eden Hazard
+- Mauricio Pochettino
+- Mauricio Pochettino believesChelseashould
+- Nemanja Matic
+- Ramires
+- Samuel Eto'o
+- Todd Boehly
+- Willian
+organisations:
+- Blues
+- Chelsea
+- Clearlake Capital
+- Football Association
+- Premier League
+- Spurs
+- Tottenham
 ---
 
 ![Tottenham manager Mauricio Pochettino stood with his arms outstretched during the FA Cup semi-final against Chelsea in 2017](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/b3e2/live/65d40890-acec-11f1-8d69-858c9dcdf738.jpg)

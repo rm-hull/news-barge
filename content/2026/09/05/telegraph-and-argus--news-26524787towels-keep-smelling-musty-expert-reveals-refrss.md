@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations: []
+people:
+- Jo Perks
+- Julia Stankevych
+organisations:
+- HMRC
+- Hampton & Astley
 ---
 
 *(Image: Julia Stankevych)*

@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- Dalton Lane
+- Keighley
+people: []
+organisations:
+- Google Maps
+- Sands Sandwiches
+- T&A
 ---
 
 *(Image: Google Maps)*

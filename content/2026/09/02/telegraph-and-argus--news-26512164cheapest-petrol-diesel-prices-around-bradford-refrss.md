@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+people: []
+organisations:
+- ASDA LITTLE HORTON
+- ASDA WEST BRADFORD
+- Bradford
+- MURCO BINGLEY
+- TESCO BRADFORD
+- TESCO BRADFORD BUTTERSHAW
+- TESCO CLECKHEATON
 ---
 
 *(Image: Archive)*

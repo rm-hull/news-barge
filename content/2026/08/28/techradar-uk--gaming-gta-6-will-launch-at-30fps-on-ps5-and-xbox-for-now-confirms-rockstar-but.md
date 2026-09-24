@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Video Gaming
+locations: []
+people:
+- Jason
+- Lucia
+- Ray Tracing
+- Rob Dwiar
+- Rob Nelson
+- YouTuber Davy Jones
+organisations:
+- Demi Williams
+- Flow Gams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- Kotaku
+- Lead Developer
+- NME
+- PS5
+- Rockstar North
+- TechRadar Managing
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/RDwBQB9JUkbCwEtzDErsf5.jpg) 

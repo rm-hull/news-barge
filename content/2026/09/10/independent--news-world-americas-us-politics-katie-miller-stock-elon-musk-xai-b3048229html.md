@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Palantir
+- White House
+- xAI
+people:
+- '![Miller'
+- Andrew Ferguson
+- Elon Musk
+- Katie Miller
+- Stephen Miller
+organisations:
+- AI
+- DOGE
+- Elon Musk
+- FTC
+- Federal Trade Commission
+- Millers
+- Musk’s
+- SpaceX
+- The Independent
+- The Washington Post
+- Trump
+- xAI
 ---
 
 Trump administration official-turned-podcaster Katie Miller reportedly held a lucrative stake in Elon Musk’s artificial intelligence company and criticized rival firms online without telling her followers she owned stock, potentially violating ethics rules.

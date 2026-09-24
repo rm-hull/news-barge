@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dewsbury
+- Huddersfield
+- Leeds
+- West Yorkshire
+people:
+- Tracy Brabin
+organisations:
+- First Bus
+- First West Yorkshire
+- Transdev Blazefield
+- WYCA
+- Weaver Network
+- West Yorkshire Combined Authority
 ---
 
 *(Image: First Bus)*

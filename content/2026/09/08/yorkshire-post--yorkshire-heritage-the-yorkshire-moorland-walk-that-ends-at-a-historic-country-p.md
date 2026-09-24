@@ -14,6 +14,21 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Backstone Beck
+- Bingley Moor
+- Calf Rocks
+- Dales Way Link
+- Dick Hudsons
+- Ilkley Moor
+- Ilkley Quarry
+- Ilkley and Bingley
+- Twelve Apostles Stone Circle
+- Yorkshire
+people:
+- Dick Hudson
+- Dick Hudsons
+organisations: []
 ---
 
 # The Yorkshire moorland walk that ends at a historic country pub

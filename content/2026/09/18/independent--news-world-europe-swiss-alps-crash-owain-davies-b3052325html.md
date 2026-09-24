@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Burry Port
+- Carmarthenshire
+- Loeche-les-Bains
+- Swiss Alps
+- Switzerland
+- Valais
+people:
+- Albie
+- Amcanu
+- Aron
+- Ffion
+- Kyle Jacques
+- Michelle
+- Oakley
+- Owain Davies
+- Spencer Davies OBE
+organisations:
+- Amcanu
+- BBC
+- Foreign Commonwealth and Development Office
+- Office of the Attorney General
+- Swiss Transportation Board
+- Valais Police
+- Wales Air Ambulance
 ---
 
 A British millionaire businessman has been named as one of three people killed when a small plane crashed in the Swiss Alps this week.

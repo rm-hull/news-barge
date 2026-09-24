@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Tom
+- Zak Killian
+organisations:
+- AMD
+- CUDA
+- GPU
+- Get Tom's Hardware
+- Google News
+- HotHardware
+- LibTorch/ZLUDA
+- NCCL
+- NVIDIA
+- PC
+- PPO
+- Speedstu
+- The Tech Report
+- Tom's Hardware
+- ZLUDA
+- Zak
+- cuDNN
 ---
 
 ![AMD GPU](https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW.png) 

@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Mine
+people:
+- Ashley
+- Binman
+- Yessss I
+organisations: []
 ---
 
 *(Image: Getty)*

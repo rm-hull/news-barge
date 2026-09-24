@@ -12,6 +12,43 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/WCrEpSs9w7TP89gaf3aSS4-1920-80.jpg
+locations:
+- Virgin River
+people:
+- Anson Boone
+- Bella
+- Dhillon
+- Eddie Harrigan
+- Eddie&#
+- George Cooper Sr.
+- Gina Da Souza
+- Harry (Hardy
+- Helen Mirren
+- Kevin
+- Lara Pulvey
+- Maeve
+- Mandeep Dhillion
+- Mirren) Conrad
+- Paddy Considine
+- Pierce Brosnan
+- Seraphina
+- Teddie Allen
+- Tom Hardy
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- MobLand
+- Netflix
+- Paramount
+- Radio Times
+- Seraphina Harrigan
+- Stylist
+- THR
+- TechRadar
+- The Hollywood Reporter
+- Variety
+- Yahoo!
 ---
 
 ![Gina sits on Eddie&#039;s lap touching his chin](https://cdn.mos.cms.futurecdn.net/WCrEpSs9w7TP89gaf3aSS4.jpg)

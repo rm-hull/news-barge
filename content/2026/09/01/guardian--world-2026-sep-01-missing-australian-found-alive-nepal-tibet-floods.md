@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- China
+- Nepal
+- Nepal-Tibet
+- Tibet
+people:
+- Cara Severino
+- Dfat
+- Penny Wong
+organisations:
+- Dfat
 ---
 
 A total of five Australians missing after devastating floods ravaged the Nepal-Tibet border last week have been found.

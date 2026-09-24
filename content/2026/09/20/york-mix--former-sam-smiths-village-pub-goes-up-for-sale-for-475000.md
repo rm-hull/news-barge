@@ -11,6 +11,17 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cross-keys-inn-stillingfleet-york-estate-agent-5.webp
+locations:
+- Cawood Road
+- Cross Keys Inn
+- Selby
+- Stillingfleet
+- York Road
+people:
+- Sam Smith
+organisations:
+- Camra
+- Fleurets
 ---
 
 A former village pub is up for sale, complete with land for up to eight houses.

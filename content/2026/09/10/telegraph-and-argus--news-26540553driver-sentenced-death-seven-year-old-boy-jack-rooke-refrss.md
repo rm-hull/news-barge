@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Golcar
+- Huddersfield
+- Leeds Crown Court
+- Linthwaite
+- Longfield Avenue
+- Sycamore
+- Tudor Street
+- West Yorkshire
+people:
+- Jack Rooke
+- Mya
+- Nathan Shaw
+- Nina Roper
+organisations:
+- BMW
+- MCET
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

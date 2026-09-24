@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+- David Fowler
+- Satya Nadella
+organisations:
+- AI
+- CLI
+- CodeRabbit
+- Craig’s
+- GitHub Copilot
+- Google News
+- MCP
+- Microsoft
+- TechRadar Pro
+- Veracode
 ---
 
 ![Female Programmer Coding on Desktop Computer With Six Displays in Dark Office](https://cdn.mos.cms.futurecdn.net/WgYZVv6ucLUnQDJXEGANqc.jpg) 

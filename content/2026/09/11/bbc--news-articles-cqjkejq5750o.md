@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Jackson
+- Kentucky
+- Mississippi
+- US
+people:
+- Christy Spivey
+- Jackson
+- Jarques Ratliff
+- RaShall Brackney
+- Tasia Fortune
+organisations:
+- BBC
+- FBI
+- Jackson Police
+- US Congress
 ---
 
 ![Tasia Fortune, 29, poses for a photo during a family reunion in Kentucky](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg)

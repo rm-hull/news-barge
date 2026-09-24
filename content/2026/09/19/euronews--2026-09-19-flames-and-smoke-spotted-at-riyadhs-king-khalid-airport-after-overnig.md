@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Sports
 image: null
+locations:
+- Americas
+- Asia
+- Bab al-Mandab Strait
+- Europe
+- Iran
+- King Khalid International Airport
+- Middle East
+- Pacific
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- US
+- Yemen
+people:
+- Khaled Khiari
+organisations:
+- AFP
+- Flightradar24
+- Foreign Terrorist Organisation
+- Saudi Civil Defense
+- UN
 ---
 
 ## Saudi Civil Defense had sent an alert to residents in several parts of the country overnight, warning of potential danger and advising people to remain indoors and away from windows.

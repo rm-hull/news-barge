@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- Humber
+- UK
+- Yorkshire
+people:
+- Lars B. Andersen
+organisations:
+- My Nametags
 ---
 
 *(Image: Supplied)*

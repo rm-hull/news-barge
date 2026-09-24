@@ -14,6 +14,58 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Asia
+- Bab al-Mandab
+- Bab el-Mandeb
+- Dhubab
+- Egypt
+- Europe
+- Gaza
+- Hanish
+- Hormuz
+- Iran
+- Iraq
+- Lebanon
+- Mayyun Island
+- Mecca
+- Mokha
+- Murad
+- Pakistan
+- Perim Island
+- Red Sea
+- Riyadh
+- Sana'a
+- Saudi Arabia
+- Suez Canal
+- Tehran
+- Turkey
+- US
+- Washington
+- White House
+- Yemen
+- Zuqar Island
+people:
+- Ansar Allah
+- Donald Trump
+- Hazem al-Assad
+- Khawaja Asif
+- Mohammed bin Salman
+- Mokha
+- Rashad al-Alimi
+- Sajjad Haider Khan
+organisations:
+- AFP
+- Al-Araby al-Jadeed
+- Axis of Resistance
+- Bab el-Mandeb
+- Euronews
+- Hamas
+- Hezbollah
+- Houthi Red Sea
+- IRGC
+- IRNA
+- Presidential Leadership Council
 ---
 
 ## Houthi fighters reached Perim Island which divides the Bab el-Mandeb into two shipping lanes after government forces withdrew, completing the group's takeover of the strait. Together with Iran's Hormuz blockade, this puts roughly a third of the world's seaborne trade under hostile control.

@@ -13,6 +13,18 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- St Helen’s Square
+- York Castle Museum
+people:
+- Black Phillip
+- Dylan Connell
+- Sam Smith
+organisations:
+- Black Phillip
+- Eventbrite
+- York Castle Museum
+- Yorkshire Ghostbusters
 ---
 
 *(Image: Dylan Connell)*

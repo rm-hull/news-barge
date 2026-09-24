@@ -15,6 +15,21 @@ categories:
 - Personal Finance & Investing
 - Health & Fitness
 - Business & Entrepreneurship
+locations:
+- Greater Manchester
+- Salford Royal Hospital
+people:
+- Kevin Dolan
+- Suzanne Robinson
+organisations:
+- CQC
+- Care Quality Commission
+- Channel 4 News
+- NCA
+- NHS England
+- Northern Care Alliance NHS Foundation Trust
+- The Independent
+- Unison North West
 ---
 
 A crisis-hit NHS trust facing multiple probes over alleged harm to patients has been slapped with a fresh warning over the safety of those in its care.

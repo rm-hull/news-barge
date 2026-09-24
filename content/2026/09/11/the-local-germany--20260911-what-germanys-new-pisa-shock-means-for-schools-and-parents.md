@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- Berlin
+- Germany
+- Rhineland-Palatinate
+- Schleswig-Holstein
+people:
+- Dorit Stenke
+- Friedrich Merz
+- Gordon Schnieder
+- Karin Prien
+- Olaf Köller
+- Samuel Greiff
+- Silke Müller
+- Stefan Störmer
+organisations:
+- CDU
+- Federal Education
+- German Press Agency
+- NDR
+- PISA
+- SPD
+- SWR
+- dpa
 ---
 
 When the latest PISA study was published this week, German 15-year-olds recorded their lowest scores yet in reading, maths and science.

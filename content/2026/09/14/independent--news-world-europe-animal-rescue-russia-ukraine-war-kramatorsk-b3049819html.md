@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Pets & Animals
+locations:
+- Donetsk
+- Kharkiv
+- Kramatorsk
+- Moscow
+- Ukraine
+people:
+- Florian
+- Mr Horbal
+- Ruslan Harbor
+- Ruslan Horbal
+organisations:
+- ARK
+- Animal Rescue Kharkiv
+- PETA
 ---
 
 A Ukrainian animal rescuer has said he is “grateful to be alive” after his car was struck by a Russian drone while rescuing a group of stranded dogs from near the frontline.

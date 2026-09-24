@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Iran
+- Lower Manhattan
+- New York
+- New York City
+- Pennsylvania
+- Shanksville
+- US
+- United States
+- World Trade Center
+people:
+- Donald Trump
+- Rudy Giuliani
+- Zohran Mamdani
+organisations:
+- Department of Homeland Security
+- New York Post
+- Pentagon
+- al-Qaeda
 ---
 
 ## Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, pay tribute to first responders and call for national unity.

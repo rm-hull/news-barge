@@ -13,6 +13,25 @@ categories:
 - UK
 - History
 - Books & Literature
+locations:
+- Fayum
+- Ithaca
+- Late Antiquity
+- Thrinacia
+people:
+- Carl Schmidt
+- Circe
+- Helios
+- Homer
+- Mark de Kreij
+- Odysseus
+- Penelope
+- Phaeacians
+- Sun
+- Zeus
+organisations:
+- Utrecht University
+- Utrecht University Library
 ---
 
 A small parchment containing verses of book 12 of the *Odyssey**,* dating to the 3rd or 4th century, has been found at a Dutch library.

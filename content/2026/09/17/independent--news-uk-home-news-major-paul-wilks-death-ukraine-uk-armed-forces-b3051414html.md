@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Afghanistan
+- Sandhurst
+- Ukraine
+people:
+- George Hooley
+- Major Wilks
+- Matthew Jones
+- Paul Wilks
+- Wes Streeting
+organisations:
+- Armed Forces
+- Commandant Intelligence Corps
+- Intelligence Corps
+- Major Wilks
+- Ministry of Defence
+- UK Defence
 ---
 
 A 40-year-old intelligence officer has died in a road collision in Ukraine, the Ministry of Defence has confirmed.

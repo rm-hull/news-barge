@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-4597133951.jpg@webp
+locations:
+- Germany
+people: []
+organisations:
+- AfD
+- Alternative for Germany
 ---
 
 Voices from across the political spectrum in Germany often criticise the country's *Einbürgerungstest* (naturalisation test) for different reasons.

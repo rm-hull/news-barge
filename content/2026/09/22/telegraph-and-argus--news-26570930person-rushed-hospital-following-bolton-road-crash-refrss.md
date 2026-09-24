@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/20082954.jpg?type=og-image
+locations:
+- Barkerend
+- Bolton Road
+- Bradford
+- Eccleshill
+- Leeds Road
+- UGC
+- Undercliffe
+people: []
+organisations:
+- Crimestoppers
+- Roads Policing Officers
+- Western Area Roads Policing Unit
+- YAS A
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

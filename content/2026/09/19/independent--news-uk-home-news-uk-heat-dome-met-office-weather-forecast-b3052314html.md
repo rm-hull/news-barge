@@ -11,6 +11,19 @@ categories:
 - UK
 - Food & Cooking
 image: https://static.independent.co.uk/2026/09/18/09/2290476766..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- England
+- Europe
+- North Africa
+- Portugal
+- Scotland
+- Spain
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 Temperatures in the UK could rise as high as 26C next week as a “heat dome” pushes warm conditions from North Africa into Europe.

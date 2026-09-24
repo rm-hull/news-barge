@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Gaza
+- Halifax
+- Ireland
+- Lincoln Financial Field
+- MetLife Stadium
+- New Jersey
+- Palestine
+- Philadelphia
+- State of Israel
+- West Bank
+people:
+- Beoga
+- Ed Sheeran
+- Elan Carr
+- Finneas
+- Graham
+- Macklemore
+- Rowe
+organisations:
+- BBC Radio 4
+- Instagram
 ---
 
 *(Image: PA)*

@@ -11,6 +11,14 @@ image: https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- '## AI'
+- Efosa
+- Google News
+- Seagate
+- TechRadar Pro
 ---
 
 ![Hologram of the artificial intelligence robot showing up from binary code](https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk.jpg) 

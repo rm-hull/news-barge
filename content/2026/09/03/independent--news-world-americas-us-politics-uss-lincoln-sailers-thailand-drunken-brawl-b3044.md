@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Hard Rock Cafe
+- Iran
+- Laem Chabang
+- Pattaya
+- Sin City
+- Thailand
+- U.S.
+- US
+- USS Abraham Lincoln
+people:
+- Abraham Lincoln
+- Feels
+- Pete Hegseth
+- Poramet Ngampichet
+- Robert Loughran
+organisations:
+- Burger King
+- MS NOW
+- Marines
+- Navy
+- The Associated Press
+- The Guardian
+- The Independent
+- The Military Times
+- The Wall Street Journal
 ---
 
 A pair of U.S. service members have been sent back to the USS Abraham Lincoln after a drunken fight in Thailand, where the aircraft carrier is currently at port following a record 286 days at sea, according to a new report.

@@ -15,6 +15,28 @@ categories:
 - Business & Entrepreneurship
 - Sports
 - Careers & Productivity
+locations:
+- Australia
+- Business Central
+- County Durham
+- Darlington
+people:
+- Dan
+- James Logan
+- James’
+- Kim Hellberg
+- Nicole Johnstone
+- Scarlett Moffatt
+organisations:
+- Business Central
+- Darlington Borough Council
+- Darlington Workspace Community
+- Facility Six
+- Facility Six Ltd
+- Gogglebox
+- Middlesbrough
+- North East BIC
+- Yorkshire Vet
 ---
 
 A Darlington businessman is on course for a top five finish in a national motorbike racing championship while continuing to run a growing company.

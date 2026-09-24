@@ -11,6 +11,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1920-80.jpg
+locations:
+- Germany
+- UK
+- US
+people:
+- Christian Cawley
+- Emily Taylor
+organisations:
+- Amazon
+- Computer Weekly
+- ComputerActive
+- Digital Crimes Unit
+- Europol
+- GSE
+- Global Signal Exchange
+- Google News
+- Linux Format
+- Matter Alpha
+- Meta
+- Microsoft
+- Oxford Information Labs
+- RedVDS
+- TechRadar Pro
 ---
 
 ![Microsoft logo outside building](https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9.jpg)

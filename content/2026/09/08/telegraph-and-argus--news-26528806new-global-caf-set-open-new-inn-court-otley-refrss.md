@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Ilkley
+- India
+- Japan
+- Lebanon
+- Mexico
+- New Inn Court
+- Otley
+- Roam Café
+people:
+- Emma Woodford
+- Ms Woodford
+- Rob Wardale
+organisations:
+- Otley
+- Roam Cafe
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,19 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/18/09/2214092878..?trim=260,31,59,449&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- John Healey
+- Matthew Horwood
+organisations:
+- Government
+- KPMG
+- OBR
+- Office for Budget Responsibility
 ---
 
 A new report indicates Chancellor John Healey will come under pressure to raise taxes or cut spending at next month’s Budget, after soaring borrowing costs from the Iran war and weaker growth wiped almost £12 billion off the Government’s fiscal headroom.

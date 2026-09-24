@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Coron
+- Manila
+- Palawan
+- Philippines
+people:
+- Myra Cabilan
+- Noemie Cayabyab
+- Rammel Gonzaga
+organisations:
+- AFP
+- Aster
+- Atienza Interisland Ferries Inc
 ---
 
 The bodies of passengers killed in a ferry fire off the Philippines arrived at a port near the resort town of Coron, Palawan, on Saturday morning, as the country’s coast guard warned the death toll of 35 would grow.

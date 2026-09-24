@@ -13,6 +13,19 @@ categories:
 - UK
 - History
 - Travel
+locations:
+- Germany
+- Mercury
+people:
+- Geraint Jones
+- Ignacio Tanco
+- Santa Martinez
+organisations:
+- AP Fund for Journalism
+- BepiColombo
+- European Space Agency
+- Mercury
+- NASA
 ---
 
 Two Mercury-bound spacecraft left their mother ship behind on Thursday and headed down the home stretch of their nearly decade-long voyage to the solar system's smallest and closest-to-the-sun planet.

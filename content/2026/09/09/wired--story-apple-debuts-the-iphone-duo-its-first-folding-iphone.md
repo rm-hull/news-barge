@@ -11,6 +11,27 @@ image: https://media.wired.com/photos/6aa1a4df50b31d22e99340c6/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Apple Park
+- California
+- Cupertino
+- US
+people:
+- Elizabeth Chamberlain
+- Nabila Popal
+organisations:
+- '## New Economics'
+- Apple
+- Duo
+- Google
+- Honor
+- IDC
+- Motorola
+- Oppo
+- Samsung
+- WIRED
+- iFixit
+- iPhone Air
 ---
 
 The iPhone Duo is Apple’s first folding smartphone. The company announced the device at its annual September event at Apple Park in Cupertino, California.

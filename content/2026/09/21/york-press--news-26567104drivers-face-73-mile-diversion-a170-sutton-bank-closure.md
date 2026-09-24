@@ -12,6 +12,33 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/18636995.jpg?type=og-image&xType=0&yType=45
+locations:
+- Bondgate
+- Cote Lane
+- Helmsley
+- Linkfoot Lane
+- Malton Road
+- New Road
+- North Lane
+- North York Moors
+- North Yorkshire
+- Ring Road
+- Scarborough
+- Shipton Road
+- Sinnington Cliff Road
+- Sutton Bank
+- Sutton Bank National Park Centre
+- Sutton Road
+- Thirsk
+- Vale of York
+- Wrelton
+- York Road
+people: []
+organisations:
+- A170
+- North York Moors National Park
+- North Yorkshire Council
+- Sutton Bank
 ---
 
 ## Drivers face 73-mile and two-hour diversion as major road closes

@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Burmantofts
+- Gargrave Court
+- Leeds Crown Court
+- West Yorkshire
+people:
+- Dwayne Tuohey
+- Jodie Hayes
+- Scott Silkstone
+organisations:
+- '## Family'
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

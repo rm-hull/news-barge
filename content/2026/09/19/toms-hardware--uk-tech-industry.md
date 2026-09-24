@@ -12,6 +12,148 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/G8KRG6QGgSMerE4dScxCJ9-450-80.jpg
+locations:
+- America
+- China
+- Europe
+- Francisco Pires
+- Iran
+- Las Vegas
+- Middle East
+- Oman
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- US
+- Virginia
+- Washington
+people:
+- Andrew McCalip
+- Christopher Harper
+- Donald Trump
+- Mark Tyson
+- Oliver Haslam
+- Sergei Dragunov
+organisations:
+- AWS
+- Andrew E. Freedman Published
+- Anthropic
+- Anton Shilov Published
+- Apple
+- Astra
+- Aurora
+- Ayar Labs
+- Big TechArm
+- Big TechOracle
+- Big TechSupermicro
+- Blackwell GPUsBy Anton Shilov Published
+- Bruno Ferreira Published
+- China AI
+- Cisco
+- CryptocurrencyCrypto bro
+- CryptocurrencyDigital
+- CryptocurrencyHacker
+- CryptocurrencyHackers
+- CryptocurrencyKorean
+- CryptocurrencyPoland
+- CybersecurityBlindLock
+- CybersecurityFBI
+- CybersecurityHackers
+- CybersecurityIntel
+- CybersecurityResearcher
+- CybersecurityRussian
+- CybersecurityUS Justice Department
+- Data CentersAWS
+- Data CentersNew York State
+- DronesIran
+- DronesJapan
+- DronesStartup
+- DronesTrump
+- DronesUK
+- DronesUS Navy
+- DronesUkraine
+- DronesWaymo
+- EU
+- Earth
+- El Capitan
+- Elon
+- EthereumBy Hassam Nasir Published
+- Etiido Uko Published
+- Federal Reserve
+- Francisco Pires Published
+- Google
+- Grok
+- HBMBy Shane Downing Published
+- IRIS
+- Intel Arc
+- IntelBy Jowi Morales Published
+- Jake Roach
+- Jon Martindale Published
+- Jowi Morales
+- Jowi Morales Published
+- Los Alamos National LaboratoryBy Anton Shilov
+- Luke James Published
+- Mark Tyson Published
+- Micron Building
+- NASA
+- Nashville Zoo
+- Nvidia AI
+- Nvidia NVLink
+- Nvidia Vera CPUs
+- NvidiaBy Luke James Published
+- OpenAI
+- PACBy Anton Shilov Published
+- PCsBy Etiido Uko Published
+- PhotonicsIndustry
+- PolicyNashville
+- PolicyPresident Trump
+- PolicyTaiwan
+- PolicyTrump
+- PolicyWhite House
+- PolicyX
+- PossibleBy Francisco Pires Published
+- PremiumAI
+- PremiumChina
+- PremiumH200s
+- PremiumIBM
+- PremiumInvestigative
+- PremiumNvidia
+- PremiumThe
+- PremiumUS
+- PsiQuantum
+- Quantum ComputingChina
+- Quantum ComputingNEC
+- SK
+- SemiconductorsChinese
+- SemiconductorsElon Musk
+- SemiconductorsJensen Huang
+- SemiconductorsMicron
+- SemiconductorsSK
+- Senate
+- SoBy Francisco Pires
+- SpaceEurope
+- SpaceGoogle
+- SpaceIntel
+- SpaceNASA
+- SpaceSpace Force
+- SpaceSpaceX
+- SpaceX
+- Starlink
+- Stephen Warwick
+- Stephen Warwick Published
+- SupercomputersAMD
+- SupercomputersChina
+- SupercomputersElon Musk
+- SupercomputersNvidia
+- SuperconductorsMIT
+- Tekken 7
+- Terafab
+- Tesla Dojo
+- US SecDef Pete HegsethBy Jowi Morales Published
+- Vera Rubin
+- Xanadu
+- Zak Killian Published
 ---
 
 # Tech Industry

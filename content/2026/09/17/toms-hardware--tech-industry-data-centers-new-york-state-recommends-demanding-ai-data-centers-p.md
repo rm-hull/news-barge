@@ -14,6 +14,28 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+- Loudoun County
+- Mount Pleasant
+- New York
+- Pennsylvania
+- Plymouth Township
+- Texas
+- Virginia
+- Wisconsin
+people:
+- Jowi Morales
+- Kathy Hochul
+- Tom
+organisations:
+- CIF
+- Empire State Development
+- Google News
+- Jowi Morales
+- Microsoft
+- New York State
+- PDF
 ---
 
 ![a data center in Virginia](https://cdn.mos.cms.futurecdn.net/qdpwyk7M9YSzwdiLj4qhtZ.png) 

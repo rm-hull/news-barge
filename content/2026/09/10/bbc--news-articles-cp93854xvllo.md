@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Australia
+- Gigha
+- Herts
+- Sarratt
+- Southwark Crown Court
+- Watford
+- West End
+people:
+- Dafna Spiro
+- Kirsty O'Donnell
+- Lizzie Loveridge
+- Malcolm Potier
+- Sam Lubner
+organisations:
+- London Coliseum
 ---
 
 ![Malcolm Potier: A smiling grey-haired man wearing a black hat, a red scarf and a black overcoat. He is standing outside in the dark, with people huddled behind him.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/35fd/live/20c2d9d0-ad22-11f1-a540-61c3f7fc4e6c.jpg)

@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Derby
+- North Yorkshire
+- UK
+- West Yorkshire
+- York
+people:
+- Alan Milburn
+- Andy Burnham
+- Chris Goulden
+- David Skaith
+- Jeff Moore
+- Lucy Powell
+- Sam Tims
+- Tracy Brabin
+organisations:
+- Alstom Transport
+- Joseph Rowntree Foundation
+- Office for National Statistics
+- Young People and Work
+- Youth Futures Foundation
 ---
 
 # Almost one million young people not in education, work or training

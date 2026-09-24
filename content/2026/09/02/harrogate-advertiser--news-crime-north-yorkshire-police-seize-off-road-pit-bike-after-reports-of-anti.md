@@ -15,6 +15,15 @@ categories:
 - Travel
 - Society & Culture
 - News & Politics
+locations:
+- Gallows Hill
+- North Yorkshire
+- 'Ripon ##'
+people: []
+organisations:
+- Neighbourhood Policing Team
+- North Yorkshire Police
+- Ripon Response
 ---
 
 # North Yorkshire Police seize off-road pit bike after reports of anti-social riding in Ripon

@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Belle Vue Terrace
+- Heslington Road
+- York
+- Yorkshire
+people:
+- Hudson Moody
+organisations:
+- Hudson Moody
+- Minster
 ---
 
 ## Look inside this ‘fabulous’ family home for sale in York – with Minster views

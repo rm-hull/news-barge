@@ -13,6 +13,23 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21479012.jpg?type=og-image
+locations:
+- England
+- Glasgow Airport
+- Good Morning Britain
+- Porto
+- Prestwick
+- Scotland
+- Stansted
+- UK
+people:
+- Colin McKen
+organisations:
+- EU
+- GMB
+- Glasgow Airport
+- NATS
+- Newsquest
 ---
 
 *(Image: Getty)*

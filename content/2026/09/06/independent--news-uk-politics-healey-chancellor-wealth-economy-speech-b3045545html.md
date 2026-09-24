@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Falkland Islands
+- Iran
+- Leon Neal
+- Midlands
+- PA
+- Russia
+- UK
+people:
+- Andrew Griffith
+- Andy Burnham
+- John Healey
+- Rachel Reeves
+- Robert Jenrick
+organisations:
+- Armed Forces
+- British Business Bank
+- Labour
+- Treasury
 ---
 
 Britain is turning a corner but must back wealth creation and ensure prosperity reaches every region if it is to solve its woes, John Healey will say in his first major speech as chancellor.

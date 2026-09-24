@@ -12,6 +12,47 @@ image: https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/3
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Canada
+- France
+- Gaza
+- Iran
+- Israel
+- Jerusalem
+- Middle East
+- Palestine
+- UK
+- US
+- Washington
+- West Bank
+- Whitehall
+people:
+- Al-Qard al-Hassan
+- Andy Burnham
+- Benjamin Netanyahu
+- Diane Abbott
+- Donald Trump
+- Ed Miliband
+- Edward Leigh
+- Emily Thornberry
+- Emmanuel Macron
+- Gideon Saar
+- Jeremy Corbyn
+- Keir Starmer
+- Marco Rubio
+- Mark Carney
+- Mike Huckabee
+- Tom Tugendhat
+organisations:
+- Commons
+- Conservative Friends of Israel
+- EU
+- Foreign Office
+- Guardian
+- Hezbollah
+- Labour
+- Tory
 ---
 
 Settler terrorists supported by Benjamin Netanyahu’s government are committing ethnic cleansing in the West Bank, Ed Miliband has said, in the UK’s starkest condemnation since the foundation of the Israeli state.

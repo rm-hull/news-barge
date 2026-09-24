@@ -14,6 +14,41 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bedale
+- Carlton
+- Coverdale
+- Exelby Green Dragon
+- Gunnerside
+- Hudswell
+- Hunton
+- Kiev
+- Muker
+- Old Horn
+- Richmond
+- Skeeby
+- Spennithorne
+- Swaledale
+- The Travellers Rest
+- Wensleydale
+people:
+- Becky Westgarth
+- Carl
+- George
+- Jack Johnson
+- Malcolm Warne
+- Sam Harrison
+- Suzanne
+- Sylvia
+- Theakston
+organisations:
+- Countryman’s Inn
+- Farmers’ Arms
+- George and Dragon
+- King’s Arms
+- Plunkett Foundation
+- The Foresters Arms
+- The Green Dragon
 ---
 
 What’s not to like about community pubs?

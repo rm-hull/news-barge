@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arlington National Cemetery
+- Lincoln Memorial
+- Washington
+- Washington, D.C.
+people:
+- Doug Burgum
+- Trump
+organisations:
+- The Trump
 ---
 
 Excavation work on Trump's arch in Washington to begin over next 2 weeks, administration says

@@ -13,6 +13,17 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21475030.jpg?type=og-image
+locations:
+- Blake Street
+- Stonegate Court
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Public Notice Portal
+- Stonegate Court
+- Watson Property Management Ltd
 ---
 
 ### What is the Public Notice Portal?

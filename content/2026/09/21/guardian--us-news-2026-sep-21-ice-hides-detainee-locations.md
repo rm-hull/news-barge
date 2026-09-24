@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/7df4d0df5b76ca491876826c9b8652156d1fa293/664_0_3613_2891/master/3613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c31ca7d5dac318d7d9b400d79752a6de
+locations:
+- Adelanto
+- California
+- Chicago
+- Cuba
+- Guantánamo Bay
+- Minneapolis
+- New York City
+- US
+- United States of America
+people:
+- Atenas Burrola Estrada
+- Donald Trump
+- Greg Chen
+- Mendez
+- Michelle Méndez
+- My Khanh Ngo
+organisations:
+- AP
+- American Civil Liberties Union
+- American Immigration Lawyers Association
+- Amica Center for Immigrant Rights
+- Associated Press
+- Department of Homeland Security
+- Deportation Data Project
+- ICE
+- National Immigration Project
+- UC Berkeley
+- UCLA
+- US Customs and Border Protection
+- US Immigration and Customs Enforcement
 ---
 
 US Immigration and Customs Enforcement (ICE) has stopped publicly revealing where it is holding thousands of detainees who are subject to final deportation orders, an unannounced move that has made it far more difficult for lawyers and relatives to find them, according to current and former officials familiar with the practice.

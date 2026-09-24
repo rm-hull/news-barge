@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Mallorca
+- Wimbledon
+people:
+- '## Kyrgios'
+- Adam Walton
+- Alexander Bublik
+- Marcelo Arévalo
+- Mate Pavić
+- Nick Kyrgios
+organisations:
+- ITIA
+- International Tennis Integrity Agency
+- Kyrgios’
+- Mallorca
+- WADA
+- World Anti-Doping Agency
 ---
 
 ## Kyrgios has entered a treatment programme and will forfeit his €6,570 prize money and ranking points from the ATP Tour event in Mallorca where he tested positive for the drug.

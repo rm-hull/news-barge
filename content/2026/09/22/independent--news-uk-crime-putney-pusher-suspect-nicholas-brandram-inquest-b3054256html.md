@@ -12,6 +12,31 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/17/13/4cbc230f0fdfe7ce9a93f43ff12527f2Y29udGVudHNlYXJjaGFwaSwxNzg5NzMzMzAz-2.85883603.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chiswick
+- Putney
+- Queen Victoria
+- UK
+- USA
+- West London Coroner’s Court
+people:
+- Alexia Hicks
+- Brantham
+- Dan Knowles
+- Melanie Lee
+- Ms Voelcker
+- Nicholas Brandram
+- Nicholas’s
+- Nick
+- Putney
+- Sophie Voelcker
+organisations:
+- 988 Suicide and Crisis Lifeline
+- BBC Radio 4
+- CCTV
+- IOPC
+- Independent Office for Police Conduct
+- Metropolitan Police
 ---
 
 An inquest into the death of a man treated as a suspect in the notorious unsolved ‘Putney pusher’ case has been suspended pending a police watchdog probe.

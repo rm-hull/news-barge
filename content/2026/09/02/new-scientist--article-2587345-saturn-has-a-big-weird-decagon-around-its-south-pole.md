@@ -11,6 +11,24 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Earth
+- Jupiter
+- Maryland
+- Spain
+people:
+- Agustín Sánchez-Lavega
+- Amy Simon
+- Andrew Ingersoll
+organisations:
+- California Institute of Technology
+- Goddard Space Flight Center
+- Hubble Space Telescope
+- Ingersoll
+- James Webb Space Telescope
+- NASA
+- Saturn
+- University of the Basque Country
 ---
 
 ![Saturn as captured by the Hubble Space Telescope on 29 August 2025. The black arrows mark the position of the decagon](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg?w=840)

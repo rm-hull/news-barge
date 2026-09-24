@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Baja California
+- Ensenada
+- Mexico
+people:
+- Callum Ryan Robinson
+- El Kekas
+- Irineo Francisco N.
+- Jack Carter Rhoad
+- Jake Martin Robinson
+- Jesús Gerardo García
+- Martin Robinson
+- Silva Raya
+- Ángel Jesús N.
+organisations: []
 ---
 
 Three men charged with murder in the 2024 killings of two Australian brothers and an American friend went on trial Monday in Mexico’s Baja California state, court officials said.

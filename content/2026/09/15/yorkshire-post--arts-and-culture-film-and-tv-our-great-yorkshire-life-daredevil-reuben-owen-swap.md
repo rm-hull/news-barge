@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Allerton Park
+- Calder Valley
+- Keighley
+- Middle Eastern
+- Spurn Point
+- Yorkshire
+people:
+- Daredevil’ Reuben Owen
+- Matt Healy
+- Razan Alsous
+- Reuben Owen
+- Susan Hutchinson
+organisations:
+- The Worth Valley Railway
+- YP
+- Yorkshire
 ---
 
 # Our Great Yorkshire Life: ‘Daredevil’ Reuben Owen swaps tractors for turbo fans as he races scenic grounds of Allerton Park in new Channel 5 episode

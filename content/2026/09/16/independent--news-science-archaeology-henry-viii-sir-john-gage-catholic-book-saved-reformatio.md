@@ -14,6 +14,37 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Brighton
+- Cambridge
+- Firle
+- Japan
+- Sussex
+- Tokyo
+- US
+- Yale
+people:
+- Henry VIII
+- Hilary Mantel
+- James Wade
+- John Gage
+- Katie Walter
+- Nicholas Love
+- Toshiyuki Takamiya
+- Viscount Gage
+- Yale
+organisations:
+- Cambridge University
+- Christie’s
+- Girton College
+- Notes And Queries
+- Privy Counsellor
+- Sussex Archaeological Society
+- The Keep Archive
+- Tower
+- University of Sussex
+- Wolf Hall
+- Yale University
 ---
 
 A key enforcer for Henry VIII secretly saved a Catholic book he was tasked with destroying, a study has found.

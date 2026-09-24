@@ -13,6 +13,30 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Bell Street
+- Fanny Moor Crescent
+- Greenwood Street
+- Huddersfield
+- Leeds Crown Court
+- Lower Houses
+- Marsh
+- Mitre Street
+- Primrose Hill
+- West Yorkshire
+- West Yorkshire Police
+people:
+- Cameron Boylan
+- Insp Atkinson
+- Kyrell Fleary-Gayle
+- Luke Belbin
+- Stacey Atkinson
+organisations:
+- Google Street View
+- Homicide and Major Enquiry Team
+- Leeds Crown Court
+- Violence Reduction Partnership
+- West Yorkshire Police
 ---
 
 A man who fatally stabbed a 20-year-old in West Yorkshire has been jailed for 24 years.

@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Abanazar
+- China
+- Coronation Street
+- County Durham
+- Darlington
+- Teesside
+people:
+- Abanazar
+- Aladdin
+- Anthony Hutton
+- Balroubadour
+- Dawn Taylor
+- Joe Tate
+- Kesia Bruce
+- Morgan Hughes
+- Olivia Bromley
+- Paul Hawkyard
+- Philip Green
+- Robert Laughlin
+- Scarlett Moffatt
+- Sol Nicholson
+- Steven Yallop
+- Widow Twanky
+- Wishee Washee
+organisations:
+- Aladdin
+- Bush Theatre
+- Hartlepool Emmerdale
+- Middlesbrough Council
+- Middlesbrough Theatre
+- National Theatre Riverside
+- Oxford School of Drama
+- Romeo & Juliet
+- Royal Festival Hall
+- Soho Theatre
 ---
 
 An Emmerdale star has been confirmed as the latest big name to join this year's pantomime at Middlesbrough Theatre.

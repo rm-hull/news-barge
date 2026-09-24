@@ -12,6 +12,46 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- America
+- Dallas
+- Michigan
+- New York
+- New York City
+- Pennsylvania
+- Sen
+- Texas
+- USA
+- United States
+- Washington
+people:
+- Abdul El Sayed
+- Abdul El-Sayed
+- Chuck Schumer
+- D.C. Piker
+- Donald Trump
+- Graham Platner
+- Hasan Piker
+- Hecklers
+- James Talarico
+- Jeffrey Epstein
+- John Cornyn
+- John F. Kennedy
+- Ken Paxton
+- Mike Rogers
+- Nick Fuentes
+- Ted Cruz
+- Tucker Carlson
+- Zohran Mamdani
+organisations:
+- Constitution
+- Democrat Party
+- House
+- Pentagon
+- Politico
+- Republican Party
+- Senate
+- Twitch
 ---
 
 Hecklers shouted “he should be shot” during Sen. Ted Cruz’s speech at Donald Trump’s midterm convention in Dallas when the Texas Republican mentioned a string of prominent Democrats.

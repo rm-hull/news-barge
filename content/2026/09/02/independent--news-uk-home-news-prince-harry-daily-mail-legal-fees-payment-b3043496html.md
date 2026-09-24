@@ -15,6 +15,31 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- London
+- UK
+people:
+- Archie
+- Baroness Doreen Lawrence
+- David Bailey-Vella
+- David Furnish
+- Elizabeth Hurley
+- Elton John
+- Justice Nicklin
+- Lilibet
+- Meghan
+- Nicholas Bacon KC
+- Prince Harry
+- Sadie Frost
+- Simon Hughes
+organisations:
+- ANL
+- Associated Newspapers Limited
+- Association of Costs Lawyers
+- Daily Mail
+- High Court
+- The Independent
 ---
 
 Prince Harry and a group of household names have settled an initial payment of £9.5m in legal fees to the Daily Mail publisher, *The Independent* understands.

@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- North Yorkshire
+- Pickering
+- Rosedale Abbey
+- York
+people:
+- Anne Richardson
+- DC Liberty Ashton
+- Malcom Peirson Dale
+- Simon Hickey
+- Zarreen Alam-Cheetham
+organisations:
+- Scarborough CID
+- York Crown Court
 ---
 
 A 62-year-old man has been jailed for over 11 years for repeatedly sexually assaulting a much younger woman who had been left “psychologically damaged”.

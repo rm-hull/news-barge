@@ -12,6 +12,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/13/9b1d78e06088db3c8d51981d389c4eb3Y29udGVudHNlYXJjaGFwaSwxNzkwMjUyNjE5-2.74331388.jpg?width=1200&height=800&crop=1200:800
+locations:
+- PA
+- UK
+- US
+people:
+- Chapel Down
+- James Pennefather
+organisations:
+- Chapel Down
+- Handpicked Hotels
+- Press Association
+- The Gordon Ramsay Group
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

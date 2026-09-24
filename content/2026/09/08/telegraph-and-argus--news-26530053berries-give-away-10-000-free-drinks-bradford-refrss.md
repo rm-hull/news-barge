@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Broadway
+- Great Horton Road
+- Killinghall Road
+- Manchester Road
+people:
+- Raza Zulfiqar
+organisations:
+- BRADFORD
+- Berries School Reward Initiative
+- Berries'
+- Bradford Berries
+- Newsquest
+- The Drink Crafters
 ---
 
 *(Image: Newsquest)*

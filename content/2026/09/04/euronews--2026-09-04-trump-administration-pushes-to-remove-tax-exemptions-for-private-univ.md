@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Harvard
+- South Carolina
+- US
+- White House
+people:
+- Donald Trump
+- Mike Gavin
+- Scott Bessent
+organisations:
+- Alliance for Higher Education
+- Bob Jones University
+- DEI
+- Harvard University
+- IRS
+- Internal Revenue Service
+- Justice Department
+- Supreme Court
+- Treasury Department
+- Trump
+- US Treasury Department
 ---
 
 ## The Trump administration says its proposed legislation aims to make university equal and accessible to all and end “woke” campaigns which deliberately favour certain students over others due to socioeconomic or racial backgrounds.

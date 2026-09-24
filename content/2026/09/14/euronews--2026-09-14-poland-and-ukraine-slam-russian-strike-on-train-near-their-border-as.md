@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Europe
+- Kramatorsk
+- Kyiv
+- Moscow
+- Odesa
+- Poland
+- Russia
+- Ukraine
+- Yahodyn station
+people:
+- Boris Johnson
+- David Patraeus
+- Donald Tusk
+- Kaja Kallas
+- Kyiv
+- Radoslaw Sikorski
+- Volodymyr Zelenskyy
+- Yahodyn
+- Zelensky
+organisations:
+- CIA
+- EU
+- New York Times
 ---
 
 ## The strike hit a Warsaw-bound train near to the border a short time after another train carrying various foreign dignitaries passed through the same track.

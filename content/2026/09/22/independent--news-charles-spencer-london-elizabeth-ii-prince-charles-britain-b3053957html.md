@@ -13,6 +13,24 @@ categories:
 - UK
 - Books & Literature
 image: https://static.independent.co.uk/2026/09/17/09/Britain_Royals_32136.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Buckingham Palace
+- Paris
+- St. Paul’s Cathedral
+people:
+- Camilla Parker Bowles
+- Charles III
+- Charles Spencer
+- Diana Spencer
+- Earl Spencer
+- Elizabeth II
+- Meghan
+- Prince Harry
+- William
+organisations:
+- BBC
+- Penguin Press
 ---
 
 A new book published Tuesday by the brother of the late Princess Diana has made headlines around the world with its damning allegations about Diana's ex-husband, now King Charles III, and reopened decades-old wounds within Britain's royal family.

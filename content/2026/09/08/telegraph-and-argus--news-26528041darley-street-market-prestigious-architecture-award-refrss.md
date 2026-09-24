@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bradford’s
+- Darley St. Market
+- Darley Street Kitchen
+- Guardbridge
+- McDuff
+- Scotland
+- Visitor Centre
+people: []
+organisations:
+- Architects’ Journal
+- Bradford Council-run
+- Darley Street Market
+- Eden Mill Distillery
+- Fulham Pier
+- Greig & Stephenson Architects
+- Labour
+- Tarlair Outdoor Pool Pavilion
+- The National Association of British Markets
 ---
 
 *(Image: Other)*

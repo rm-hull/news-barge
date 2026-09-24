@@ -15,6 +15,26 @@ categories:
 - UK
 - Health & Fitness
 - Sports
+locations:
+- Frisco
+- Jackson
+- Kessler
+- New Jersey
+- Texas
+people:
+- Alli Graff
+- Devin Taylor
+- Patti
+- Ryan Lasko
+organisations:
+- A's
+- AP
+- Athletics
+- Double-A Midland
+- Kessler Institute for Rehabilitation
+- MLB
+- Rutgers
+- The Associated Press
 ---
 
 Ryan Lasko, a minor league prospect with the Athletics who was paralyzed in an outfield collision more than two months ago, has been released from an in-patient rehabilitation hospital and will continue his recovery from home.

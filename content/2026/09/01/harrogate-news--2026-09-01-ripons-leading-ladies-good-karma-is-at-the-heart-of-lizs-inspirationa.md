@@ -13,6 +13,32 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Boho
+- Derbyshire
+- Jacobian Deanery
+- Kirkgate Park
+- Lancashire
+- Market Square
+- Northeast
+- Ripon
+- Scotland
+- UK
+- Yorkshire
+people:
+- Chris Layton
+- Karma
+- Kevin Hill
+- Lilla Bathurst
+- Liz
+- Rebecca
+- Tim Flanagan
+organisations:
+- Karma
+- Liz
+- Old Deanery
+- Ripon BID
+- YouTube
 ---
 
 This October, Liz and Kevin Hill will celebrate the landmark tenth anniversary of their colourful and captivating Kirkgate store, Karma.

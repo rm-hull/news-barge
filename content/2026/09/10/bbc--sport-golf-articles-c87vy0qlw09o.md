@@ -14,6 +14,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bernardus Golf
+- Europe
+- France
+- Germany
+- Gleneagles
+- Great Britain
+- Hertogenbosch
+- Ireland
+- Lahinch
+- Netherlands
+- Spain
+- Surrey
+- US
+- United States
+people:
+- Angela Stanford
+- Anna Nordqvist
+- Bernardus
+- Celine Boutier
+- Charley Hull
+- Julia Lopez Ramirez
+- Lauren Coughlin
+- Linn Grant
+- Lottie Woad
+- Maja Stark
+- Mel Reid
+- Mimi Rhodes
+- Nastasia Nadaud
+- Nelly Korda
+- Roel Verdonschot
+- Suzann Pettersen
+organisations:
+- Bernardus Golf Club
+- GB&I
+- LPGA
+- Solheim
+- Woad
 ---
 
 ![Charley Hull wearing a Europe hat at the 2026 Solheim Cup in the Netherlands](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e4d7/live/459de420-acf0-11f1-a8ae-35fb3e785e0c.jpg)

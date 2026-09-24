@@ -12,6 +12,18 @@ description: The Sonos Ace Ultra may look a lot like the original model, but itâ
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/tiMQ4QfG88yCTQkqdL5G7B-1920-80.jpg
+locations: []
+people:
+- Harry Padoan
+organisations:
+- ANC
+- Bose
+- Google News
+- Sonos Ace
+- Sonosâ€™
+- Sony
+- TV Audio Swap
+- TechRadar
 ---
 
 ![Man wearing the Sonos Ace Ultra](https://cdn.mos.cms.futurecdn.net/tiMQ4QfG88yCTQkqdL5G7B.jpg)

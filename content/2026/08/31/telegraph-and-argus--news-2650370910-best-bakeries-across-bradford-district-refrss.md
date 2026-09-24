@@ -13,6 +13,43 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- 32A Bingley Road
+- 3AB
+- BD2 1JN
+- Bradford Road
+- Frizinghall
+- Heaton
+- Hermano Bakery
+- High Street
+- Highgate
+- Idle
+- Manchester Road
+- Marshall’s Bakehouse
+- Miss Butterfinger’s
+- Parry Lane
+- Queensbury
+- Sami
+- Shipley
+- Swain House Road
+- The Green
+- Waverley Terrace
+people:
+- Geoff Pitt
+- Jack
+- Janet
+- Nigel Burton
+- Stephen Pitt
+organisations:
+- House of Bread
+- J Pitt Family Bakers
+- Melvyn Davis Bakery
+- Moore Bakery
+- Moore Industrial Park
+- Telegraph & Argus
+- Telegraph & Argus Best Bakery 2026
+- The Idle Bakery & Cafe
+- The Village Bakery
 ---
 
 *(Image: T&A)*

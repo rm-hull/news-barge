@@ -11,6 +11,60 @@ image: https://i.guim.co.uk/img/media/b878db6de8a76caf3f0595fbdca3f94efe3b1e96/6
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Bondi
+- Canberra
+- Hawaii
+- US
+- United States
+- Victoria
+people:
+- Adeshola Ore Joyce
+- Alexander Downer
+- Andrew Bragg
+- Anika Wells
+- Barnaby Joyce
+- BarnabyJoyce
+- Catherine King
+- Daniel Mulino
+- Donald Trump
+- Helen Haines
+- Jim Chalmers
+- John Howard
+- Kate Chaney
+- Krishani Dhanji
+- MaryDelahunty
+- Matt Canavan
+- Michael Gorton
+- Mick Tsikas
+- Pauline Hanson
+- Pickering
+- Rory Medcalf
+- Sally Sara
+- Tom Schieffer
+- WarrenPickering
+organisations:
+- AAP Chaney
+- ABC News
+- ANU
+- Association of Superannuation Funds of Australia
+- Australian National University
+- Centre for Public Integrity
+- Coalition
+- Commonwealth Grants Rules and Principles
+- Independent
+- Labor
+- Liberal
+- Major and Local Community Infrastructure Program
+- Nationals
+- News Breakfast
+- News24
+- One Nation
+- RN Breakfast
+- Reuters Howard
+- Treasury
+- Victorian One Nation
 ---
 
 ‘We shouldn’t have to model’ super changes, Joyce says

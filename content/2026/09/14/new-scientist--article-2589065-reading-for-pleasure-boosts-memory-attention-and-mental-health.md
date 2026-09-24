@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Self-Improvement
 - Health & Fitness
+locations:
+- Netherlands
+- North American City
+people:
+- Barbara Sahakian
+- Charles Dickens
+- Falk Huettig
+- Jackie Collins
+organisations:
+- Max Planck Institute for Psycholinguistics
+- University of Cambridge
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg?w=840)

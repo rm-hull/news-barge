@@ -14,6 +14,24 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21481211.jpg?type=og-image
+locations:
+- Rural West York
+- Westfield ward
+- Wheldrake
+people:
+- Andrew Waller
+- Anne Hook
+- Cllr Hook
+- Cllr Kent
+- Cllr Waller
+- Dave Merrett
+- Jenny Kent
+- Richard Atkinson
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat
+- Neighbourhood Caretakers
 ---
 
 ASBESTOS left dumped in a York village road for months before being removed has been among fly-tipping incidents which have prompted calls for action.

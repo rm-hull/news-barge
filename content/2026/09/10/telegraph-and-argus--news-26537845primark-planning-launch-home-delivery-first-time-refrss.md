@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Europe
+- Great Britain
+- Sheffield
+- The Broadway
+- UK
+people:
+- George Weston
+organisations:
+- ABF
+- Argos
+- Asda
+- Associated British Foods
+- Lidl
+- M&S
+- Morrisons
+- Primark
+- Tesco
 ---
 
 *(Image: Primark)*

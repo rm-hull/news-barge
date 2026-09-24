@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21490381.jpg?type=og-image
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+- Etherley Moor Garage
+- Iran
+- Jet Staindrop Road
+- Oakley Service Station
+- Sainsbury
+- UK
+- US
+- United States
+people:
+- Andy Burnham
+- Biden
+- Donald Trump
+- Toby Melville
+organisations:
+- Asda
+- County Durham Reform UK
+- GOOGLE
+- PetrolPrices.com
+- REUTERS
+- Sainsbury's
+- Tesco
 ---
 
 *(Image: GOOGLE)*

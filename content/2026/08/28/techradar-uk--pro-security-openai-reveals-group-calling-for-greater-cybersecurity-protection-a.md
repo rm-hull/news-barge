@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- United States
+people:
+- Benedict Collins
+organisations:
+- APT
+- BUCSIS
+- Cyber AI
+- Google News
+- OpenAI
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![The OpenAI logo displayed on a screen with the flag of the United States in the background.](https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S.jpg) 

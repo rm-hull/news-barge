@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bowburn
+- Cobalt
+- County Durham
+- Darlington
+- Liverpool
+- North Tyneside
+- Portsmouth
+- Preston
+- Preston’s Flag Market
+- Sheffield
+- Tiktok
+- Wakefield
+people:
+- Ernie Rhodes
+- Harley Nelson
+- Jacob
+- PHIL FODEN
+- Spudbros
+organisations:
+- A1
+- Darlington M&S
+- EG
+- Spudbros Express
 ---
 
 *(Image: Supplied)*

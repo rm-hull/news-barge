@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asia
+- Beijing
+- China
+- Hong Kong
+- Taipei
+- Taiwan
+- UK
+people:
+- Elaine Pearson
+- Frances Hui
+- Iain Duncan Smith
+- Joshua Wong
+- Nathan Law
+- Sophie Richardson
+organisations:
+- Associated Press
+- Committee for Freedom in Hong Kong Foundation
+- Human Rights Watch
+- Umbrella Movement
 ---
 
 Joshua Wong, one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China, a national security charge that carries a maximum life sentence.

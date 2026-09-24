@@ -13,6 +13,18 @@ categories:
 - Science
 - Education & Learning
 image: https://cdn.mos.cms.futurecdn.net/LtRqsE4cx2LoApmB5pPfSL-1920-80.jpg
+locations: []
+people:
+- Rob Dwiar
+organisations:
+- GamesRadar+
+- Google News
+- Hardware
+- Remedy Entertainment
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![A three-way image showing art of screenshots from the Remedy Entertainment action game, Control](https://cdn.mos.cms.futurecdn.net/LtRqsE4cx2LoApmB5pPfSL.jpg)

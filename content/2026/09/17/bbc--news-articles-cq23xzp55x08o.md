@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Minneapolis
+- US
+- White House
+people:
+- Alex Pretti
+- David Venturella
+- Donald Trump
+- Markwayne Mullins
+- Rand Paul
+- Renee Good
+- Richard Schroyer
+- Todd Lyon
+organisations:
+- BBC
+- Border Patrol
+- Homeland Security
+- Homeland Security committee
+- ICE
+- Immigration and Customs Enforcement
+- Oklahoma Highway Patrol
+- Senate Homeland Security Committee
+- US Marines
 ---
 
 ![ICE seen arresting a man who is in handcuffs and facing a car](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9a91/live/f564b880-b2cb-11f1-aa00-7947ea0dbeab.jpg)

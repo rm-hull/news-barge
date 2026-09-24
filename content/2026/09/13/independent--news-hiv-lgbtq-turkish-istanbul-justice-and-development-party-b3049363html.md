@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Ankara
+- Aydin
+- Istanbul
+- Izmir
+- Mediterranean
+- Mersin
+- Ottoman Empire
+- Turkey
+people:
+- Akin Gurlek
+- Pride
+- Recep Tayyip Erdogan
+organisations:
+- Human Rights Association
+- Istanbul Pride
+- Justice and Development Party
+- LGBTQ
 ---
 
 Turkish authorities cracked down on multiple LGBTQ+ groups and individuals early Sunday morning, detaining dozens of members, breaking into association offices and raiding popular hangouts.

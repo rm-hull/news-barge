@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bradford
+- West Yorkshire
+people: []
+organisations:
+- BMW
+- Bradford East
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

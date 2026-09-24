@@ -12,6 +12,26 @@ image: https://i.guim.co.uk/img/media/f10417e239548f2d78236db887c17d08ad71353b/2
 categories:
 - UK
 - News & Politics
+locations:
+- Florida
+- Mar-a-Lago
+- Palm Beach
+- Russia
+- US
+- White House
+people:
+- DiGenova
+- Donald Trump
+- Joe diGenova
+- John Solomon
+- Pam Bondi
+- Reagan
+organisations:
+- Department of Justice
+- District of Columbia
+- New York Post
+- The Associated Press
+- Trump
 ---
 
 A longtime ally of Donald Trump resigned from his post leading a Department of Justice investigation into whether former law enforcement and intelligence officials conspired against the Republican president.

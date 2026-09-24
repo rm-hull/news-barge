@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Black Rock City
+- Black Rock Desert
+- Nevada
+- Pershing County
+- Russia
+people:
+- Burning Man
+- Craigh Mann
+- Jerry Allen
+- John Law
+- Vadim Kruglov
+organisations:
+- The San Francisco Chronicle
 ---
 
 A second Burning Man attendee was found dead at his camp, one day after another man died at the Nevada festival.

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Austin
+- Iowa
+- Oregon
+- Washington
+- Western Michigan
+people:
+- Hail Mary
+- Washington
+organisations:
+- AP
+- Boise State
+- Buckeyes
+- Iowa State
+- Memphis
+- No. 1
+- No. 11
+- No. 19 Washington
+- No. 21 Iowa
+- No. 4
+- No. 6 Oregon
+- Nos
+- Ohio State
+- Oklahoma State
+- Sooners
+- Sportradar
+- Texas
+- The Associated Press
+- Utah State
 ---
 
 Get ready for a new No. 1 team when The Associated Press Top 25 college football poll is released Sunday afternoon.

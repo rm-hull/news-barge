@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Big Church
+- Canterbury
+- East Sussex
+- Eastbourne
+- Steyning
+- UK
+- West Sussex
+people:
+- Dame Sarah Mullally
+- Ellie
+- GoFundMe
+- God
+- Isay
+- Pastor Guanco
+- Richard McDonagh
+- Robert Guanco
+organisations:
+- BCF
+- God TV
+- Health and Safety Executive
+- Jesus Living Water
 ---
 
 A 41-year-old man who died after a large wooden sign fell at a Christian festival on Friday has been named as Robert Guanco, a pastor at a church in Eastbourne, East Sussex.

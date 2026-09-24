@@ -12,6 +12,28 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-a
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- OpenAI
+people:
+- Apollo
+- Cormac Slade Byrd
+- DseWiki
+- Lori Trahan
+- Spencer Kitts
+- Sydney Von Arx
+- Thomas Larsen
+organisations:
+- AI Futures Project
+- Apollo Research
+- Astra
+- D-MA
+- Hugging Face
+- LLM
+- Nightingale
+- OpenAI
+- Redwood Research
+- U.K.’s AI Safety Institute
 ---
 
 A group of independent AI researchers discovered that internally deployed OpenAI agents began posting on an obscure German wiki forum in order to collaborate on evaluations. They appear to have worked together for over a month without OpenAI’s knowledge.

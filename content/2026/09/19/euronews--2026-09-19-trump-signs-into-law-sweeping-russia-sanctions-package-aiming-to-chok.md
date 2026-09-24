@@ -13,6 +13,28 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/91/96/62/1200x675_cmsv2_3e68294e-8f77-590b-b90d-11add01e1a31-9919662.jpg
+locations:
+- Capitol Hill
+- Iran
+- Kremlin
+- Moscow
+- Russia
+- US
+- Ukraine
+- White House
+people:
+- Darline Graham
+- Donald Trump
+- Hakeem Jeffries
+- Lindsey Graham
+- Richard Blumenthal
+- Vladimir Putin
+organisations:
+- Congress
+- European Union
+- House
+- Senate
+- Trump
 ---
 
 ## The bill received widespread opposition from Democrat lawmakers, who favoured tougher sanctions on Russia, but opposed provisions in the draft which would enable Trump to impose tariffs freely on nations that continue to buy large amounts of Russian energy.

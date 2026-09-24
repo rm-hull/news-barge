@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Born
+- Bradford
+- Britain
+- Keighley
+- UK
+people:
+- Cllr Ahmed
+- Keighley
+- Kier Starmer
+- Luke Evans
+- Riaz Ahmed
+- Richard Holden
+- Robbie Moore
+organisations:
+- Bradford Moor
+- Conservative
+- Government
+- Ilkley
+- Keighley MP
+- Labour Party
+- Liberal Democrat
+- Ministry of Justice
+- Telegraph & Argus
+- The Born
+- newsquest
 ---
 
 A Keighley MP and a Bradford councillor have expressed contrasting views on proposals that could see first-cousin marriage banned in the UK.

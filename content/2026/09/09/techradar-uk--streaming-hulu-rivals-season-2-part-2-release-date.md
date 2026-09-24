@@ -12,6 +12,47 @@ image: https://cdn.mos.cms.futurecdn.net/8KThriBpbcj2H6NQUtSjUW-1920-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- UK
+- US
+- Virgin River
+people:
+- Aiden Turner
+- Alejandro Mendoza
+- Alex Hassell
+- Araminta Pemberton
+- Bella Maclean
+- Danny Dyer
+- David Hawkley
+- David Tennant
+- Declan O'Hara's
+- Freddie
+- George Cooper Sr.
+- Jilly Cooper
+- Katherine Parkinson
+- Lizzie
+- Monica Baddingham
+- Rachael Stirling
+- Rupert Campbell Black
+- Rupert Campbell-Black
+- Rupert Evans
+- Santiago Cabrera
+- Taggie O'Hara
+- Tony Baddingham
+organisations:
+- Claire Rushbrook
+- Disney
+- Google News
+- Hallmark
+- Hampshire Hunt Ball
+- Hulu
+- Jasmine
+- Netflix
+- Polo
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Rupert Campbell Black rides a horse while holding a polo mallet](https://cdn.mos.cms.futurecdn.net/8KThriBpbcj2H6NQUtSjUW.jpg) 

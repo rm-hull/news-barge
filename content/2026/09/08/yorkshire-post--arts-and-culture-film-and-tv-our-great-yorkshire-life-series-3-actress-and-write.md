@@ -15,6 +15,28 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Askrigg
+- Bramhope
+- Halifax
+- Hampshire Down
+- North Yorkshire
+- Skipton Mart
+people:
+- Castle Howard
+- Eleanor
+- Emmerdale
+- Gaynor Faye
+- Kay Mellor
+- Lynn Henry
+- Matthew
+- Stephen Short
+- Steven Short
+- Toffee
+- Tom Addison
+organisations:
+- Our Great Yorkshire Life
+- Yorkshire Dales
 ---
 
 # Our Great Yorkshire Life series 3: Actress and writer Gaynor Faye gets back on the horse after ‘confronting a fear that haunted her since childhood’ in Channel 5 episode

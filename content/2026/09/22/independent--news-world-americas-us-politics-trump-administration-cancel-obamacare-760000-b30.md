@@ -12,6 +12,25 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/20/2296063970..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- White House
+people:
+- Barack Obama
+- JD Vance
+- John McCain
+- Mehmet Oz
+- Trump
+organisations:
+- Centers for Medicare & Medicaid Services
+- Department of Health and Human Services
+- HHS
+- KFF
+- Reuters
+- Supreme Court
+- The Wall Street Journal
+- Trump
+- WSJ
 ---
 
 More than 760,000 people are being kicked off Obamacare in what Trump administration officials described Tuesday as a crackdown on fraudulent enrollments that's projected to save about $2.2 billion in federal subsidies.

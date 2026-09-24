@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- England
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+- Fiona Goddard
+- Miss Goddard
+- Ms Mahmood
+- Robbie Moore
+- Shabana Mahmood
+organisations:
+- Home Affairs committee
+- Ministry of Justice
+- MoJ
+- The Independent
 ---
 
 A grooming gang victim is amongst the people who have mistakenly received letters concerning the early release of perpetrators from prison, the home secretary has said.

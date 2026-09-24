@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Newton Aycliffe
+- St Cuthberts Way
+people:
+- Olivia Howlett
+organisations: []
 ---
 
 ## Our live feed has now finished.

@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Darlington Memorial Hospital
+- Haughton Green
+- Haughton Road
+people: []
+organisations:
+- Durham Police
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE MAPS)*

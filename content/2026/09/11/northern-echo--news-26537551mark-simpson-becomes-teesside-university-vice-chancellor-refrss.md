@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Darlington
+people:
+- Mark Simpson
+- Mr Haughton
+- Paul Croney OBE
+organisations:
+- Daily Mail Modern University of the Year 2026
+- Durham High School
+- Teesside University
+- Times Higher Education University of the Year 2025
 ---
 
 *(Image: Teesside University)*

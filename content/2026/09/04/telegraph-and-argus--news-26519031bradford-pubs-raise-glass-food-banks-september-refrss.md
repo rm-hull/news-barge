@@ -11,6 +11,25 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Broadway
+- Humber
+- Keighley
+- Leeds
+- West Yorkshire
+people: []
+organisations:
+- Admiral Taverns
+- Black Lion Hotel
+- Butterbowl Hotel
+- Carling and Proper Pubs
+- Cavendish
+- Crown Hotel
+- Google Street View
+- Malt Kiln Inn
+- PUBS
+- Proper Pubs
 ---
 
 *(Image: Google Street View)*

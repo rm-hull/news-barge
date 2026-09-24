@@ -13,6 +13,26 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/20680092.jpg?type=og-image
+locations:
+- Belfast
+- Edinburgh
+- England
+- Manchester
+- Northern Ireland
+- Prestwick
+- Scotland
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+- Steve Heapy
+organisations:
+- British Airways
+- EasyJet
+- Getty Images)* Airlines
+- Jet2
+- National Air Traffic Services
+- Nats
 ---
 
 *(Image: Getty Images)*

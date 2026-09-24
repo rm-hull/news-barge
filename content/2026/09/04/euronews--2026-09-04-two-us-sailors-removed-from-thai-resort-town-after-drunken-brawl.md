@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Iran
+- Lincoln
+- Middle East
+- Pattaya
+- Thailand
+- US
+- Walking Street
+people:
+- Abraham Lincoln
+- Anek Srathongyoo
+- Donald Trump
+- George Washington
+- Nattakamol Chartmontri
+organisations:
+- AFP
+- US Navy
 ---
 
 ## The USS Abraham Lincoln's arrival has drawn global media interest after reports of deteriorating living conditions on board after more than 280 days at sea.

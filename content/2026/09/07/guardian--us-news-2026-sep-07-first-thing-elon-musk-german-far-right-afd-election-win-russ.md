@@ -13,6 +13,67 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Amazon
+- Arizona
+- East Germany
+- England
+- Europe
+- Florida
+- Hawaii
+- Hurricane Karina
+- Iran
+- Israel
+- Kennedy Center
+- Marie
+- Massachusetts
+- Miami
+- Middle East
+- Milan
+- Moscow
+- Pacific Ocean.
+- Palestine
+- Paris
+- Phoenix
+- Portsmouth
+- Saxony-Anhalt
+- Tehran
+- Tennessee
+- UK
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Alice Weidel
+- Barack Obama
+- Chris Wright
+- Christa Pike
+- Christa Pike.
+- Darren Richman
+- David Smith
+- Donald Trump
+- Ed Pilkington
+- Elon Musk
+- Elton John
+- Jim Henson
+- Kirill Dmitriev
+- Leon Panetta
+- Leon Panetta.
+- Lindsay Clancy
+- Ulrich Siegmund
+organisations:
+- AfD
+- AfD”
+- Alternative für Deutschland
+- Amazon
+- CIA
+- Guardian
+- PTF
+- Protect Trans Futures
+- Trump
+- Truth Social
+- US Immigration and Customs Enforcement
 ---
 
 Good morning. A far-right leader who has won an important state election in Germany has thanked Elon Musk for his support, as voices in Europe warn the result is a serious moment for the continent. No far-right party has led or formed a government in Germany since the defeat of nazism at the end of the second world war.

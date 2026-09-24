@@ -13,6 +13,14 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Dunelm
+- UK
+people:
+- Clo Moriarty
+- Dunelm
+organisations:
+- Dunelm
 ---
 
 Homeware retailer Dunelm has said it plans to strip around £100 million of “unproductive” costs from the business as part of a new three-year growth strategy, after cutting its central teams by around 8%.

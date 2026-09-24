@@ -13,6 +13,30 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- London
+- Stoke-on-Trent South
+- UK
+- US
+people:
+- Allison Gardner
+- Jim Killock
+- Sadiq Khan
+- Victoria Collins
+organisations:
+- Big Tech
+- British AI
+- DWP
+- Department for Work and Pensions
+- Home Office
+- Labour
+- Met Police
+- NHS England
+- National Audit Office
+- Open Rights Group
+- Palantir
+- Tussell
+- Universal Credit
 ---
 
 Ministers are putting the interests of Big Tech ahead of the public by spending billions on AI and not being transparent about its use, MPs and rights groups have warned.

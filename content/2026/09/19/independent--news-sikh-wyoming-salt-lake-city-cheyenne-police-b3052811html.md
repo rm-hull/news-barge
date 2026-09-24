@@ -12,6 +12,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/08/Wyoming_Sikh_Attack_91_8_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bitter Creek
+- Bzdak
+- California
+- Carbon County
+- Casper
+- Catawissa
+- Cheyenne
+- Florida
+- Interstate 80
+- Pennsylvania
+- Rock Springs
+- Salt Lake City
+- Stockton
+- U.S.
+- Wyoming
+people:
+- Andrew Kris Bzdak
+- Gary Arnell
+- Harsimran Singh
+- Jasjit Singh
+- Jeff Sheaman
+organisations:
+- DHS
+- Gillson Trucking
+- Jakara Movement
+- Sweetwater County Sheriff's Department
+- U.S. Department of Homeland Security
 ---
 
 The stabbing of a truck driver at a remote Wyoming rest stop had U.S. Sikhs on edge Friday amid rising anti-immigrant vitriol against the community and its truck drivers in particular.

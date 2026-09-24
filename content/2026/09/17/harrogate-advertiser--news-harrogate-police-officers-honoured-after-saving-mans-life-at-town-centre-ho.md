@@ -12,6 +12,23 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkOGU2ZTFkLTgyMzYtNGE0ZC04YjUxLWU3MTY3NmQ2YzNiZDo1MTZiM2I1NC1lYzMyLTQ0MDgtYjA4MC04MTg3MDM5NGQyYjI=.jpg?crop=3:2,smart&trim=&width=550&auto=webp&quality=75
+locations:
+- Harrogate
+- Travelodge
+people:
+- Andrew Chapman
+- DS Peachman
+- John Pepper
+- Steve Peachman
+- Thomas Cogan
+- Tom Lister
+- William Hawes
+organisations:
+- CPR
+- PC Lister
+- PS Pepper
+- Royal Humane Society
+- Royal Humane Society Resuscitation Certificates
 ---
 
 # Harrogate police officers honoured after saving man's life at town centre hotel

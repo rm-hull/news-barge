@@ -12,6 +12,59 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- California
+- Los Angeles
+- Los Angeles.
+- Nashville
+- Schitt's Creek
+- U.S.
+- US
+people:
+- Alexis
+- Angel
+- Annie Murphy
+- Anthony Head
+- Carl Reiner
+- Catherine O'Hara
+- Cheryl Ladd
+- Dan Levy
+- David Boreana
+- Dolly Parton
+- Farrah Fawcett
+- Geller
+- God
+- Hayden Panettiere
+- Jaclyn Smith
+- James Burrows
+- James Van Der Beek
+- Jamie Lee Curtis
+- Kate Jackson
+- Macaulay Culkin
+- Martin Short
+- Michelle Trachtenberg
+- Moira Rose
+- Nicholas Brendon
+- Noah Kahan
+- O'Hara's
+- Patty Leigh
+- Reba McEntire
+- Rob Reiner
+- Sally Field
+- Sarah Michelle Gellar
+- Seth Rogen
+- Steve Martin
+- Tim Curry
+organisations:
+- Charlie's Angels
+- Cheers
+- Dawson's Creek
+- Emmys
+- Golden Globe
+- Reiner's
+- Rocky Horror Show
+- The Studio
+- Vampire Slayer
 ---
 
 ![Macaulay Culkin, Annie Murphy and Dan Levy speak during a tribute to the late Catherine O'Hara at the Emmy Awards in Los Angeles, California](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b61e/live/aa9ca160-b0ef-11f1-8d94-cf0ec84c39cd.jpg)

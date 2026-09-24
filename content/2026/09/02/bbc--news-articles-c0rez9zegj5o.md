@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- AI
+- Britain
+- France
+- Gulf
+- Iran
+- Japan
+- Los Angeles.
+- Middle East
+- Strait of Hormuz
+- UK
+- US
+people:
+- Burnham
+- Donald Trump
+- Jim O'Neill
+- Keir Starmer
+- Lord O'Neill
+- Mohamed el-Erian
+organisations:
+- Amazon
+- Google
+- Labour
+- Meta
+- PM
 ---
 
 ![An American flag waves against a backdrop of cranes and storage containers in Los Angeles.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/47b0/live/d36b9110-a6cb-11f1-a291-b542ee92de7c.jpg)

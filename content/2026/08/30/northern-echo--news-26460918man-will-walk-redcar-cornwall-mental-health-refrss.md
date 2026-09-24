@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- Cornwall
+- Darlington
+- Redcar
+- Teesside
+people:
+- Harvey
+- Joe Chaytor
+organisations:
+- Mental Health Matters
 ---
 
 A Teesside man is turning his own struggles with depression, anxiety and bipolar disorder into a 500-mile challenge to break mental health stigma.

@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- RubyGems
+- Sarajevo
+- UK
+people:
+- Clement Delangue
+- Hugging Face
+- RubyGems
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- DseWiki
+- Google News
+- OpenAI
+- Represent Communications
+- RubyDoc
+- RubyGems
+- TechRadar Pro
+- The Register
 ---
 
 ![an ai agent sat at a laptop](https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg.jpg) 

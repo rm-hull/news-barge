@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa
+- Angola
+- Beijing
+- China
+- Congo
+- Gambia
+- New York
+- Sierra Leone
+- U.S.
+- Washington
+people:
+- Africell
+- Donald Trump
+organisations:
+- Africell
+- Huawei
+- Trump
+- U.S. Export-Import Bank
 ---
 
 In a bid to expand the American technology footprint across Africa and counter Chinese market dominance, the Trump administration has issued a $99.6 million loan to Africell, the continent’s sole U.S.-owned mobile network operator.

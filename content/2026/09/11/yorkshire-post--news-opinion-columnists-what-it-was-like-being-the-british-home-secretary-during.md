@@ -16,6 +16,28 @@ categories:
 - History
 - News & Politics
 - True Crime
+locations:
+- Germany
+- Ground Zero
+- Lake District
+- London
+- New York
+- Saxony-Anhalt
+- South Lakes
+- Westminster
+- Whitehall
+people:
+- Andy Burnham
+- Bruce Rollinson
+- David Blunkett
+- Gordon Brown
+- Hugh
+- Tony Blair
+organisations:
+- Pentagon
+- Warwick University
+- World Trade Center
+- World Trade Centre
 ---
 
 # What it was like being the British Home Secretary during 9/11 - David Blunkett

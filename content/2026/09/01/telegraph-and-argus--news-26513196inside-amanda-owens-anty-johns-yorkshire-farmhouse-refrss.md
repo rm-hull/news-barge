@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- England
+- Muker
+- Ravenseat Farm
+- Smithy Holme
+- Upper Swaledale
+people:
+- Amanda Owen
+- Anthony Clarkson
+- Anty John
+- Anty John’s
+- Clive
+- Ravenseat
+organisations:
+- Clive and Kids
+- Farm Next Door
+- TV
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 TV star Amanda Owen and her family are continuing work to transform a derelict Yorkshire Dales farmhouse into a family home.

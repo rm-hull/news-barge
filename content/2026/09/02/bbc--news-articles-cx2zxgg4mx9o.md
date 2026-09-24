@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bahrain
+- Bandar Abbas
+- Bandar Abbas.
+- Gulf of Oman.
+- Iran
+- Israel
+- Jordan
+- Khasab
+- Kuwait
+- Musandam Peninsula
+- Oman
+- Saudi Arabia
+- Sirak
+- Sirik
+- Strait of Hormuz
+- US
+people:
+- Bahri
+- Chris Wright
+- Donald Trump
+- Marisks
+- Sidr
+organisations:
+- Bahri
+- IRGC
+- Iranian Red Crescent Society
+- Islamic Revolution Guard Corps
+- Kpler
+- Marisks
+- Senegal Prosperity
+- Statue of Liberty
+- UK Maritime Trade Operations
+- UN
 ---
 
 ![File photo showing commercial ships anchored in the Strait of Hormuz, off the coast of Bandar Abbas, Iran (10 August 2026)](https://ichef.bbci.co.uk/ace/standard/828/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg)

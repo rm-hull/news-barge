@@ -13,6 +13,12 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- FactSet
+- Labor Department
+- Trump
 ---
 
 More Americans filed for unemployment benefits last week, but layoffs are still rare and jobless claims remain at historically low levels.

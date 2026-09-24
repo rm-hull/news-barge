@@ -13,6 +13,16 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21486500.jpg?type=og-image
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Northallerton
+people:
+- Ruby Rutter
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- Porsche
 ---
 
 *(Image: Contributed)*

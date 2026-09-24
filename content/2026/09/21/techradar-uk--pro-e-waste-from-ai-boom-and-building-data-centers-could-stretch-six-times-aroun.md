@@ -10,6 +10,19 @@ description: AI is increasingly worrying from an e-waste perspective
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/kBZ4c2UYkLaXhNYVzvGs4b-2048-80.jpg
+locations:
+- AI
+people:
+- Craig Hale
+- Moore
+organisations:
+- AI
+- BAN
+- Basel Action Network
+- Capex
+- Craig’s
+- Google News
+- TechRadar Pro
 ---
 
 ![E-waste Recycling Center](https://cdn.mos.cms.futurecdn.net/kBZ4c2UYkLaXhNYVzvGs4b.jpg)

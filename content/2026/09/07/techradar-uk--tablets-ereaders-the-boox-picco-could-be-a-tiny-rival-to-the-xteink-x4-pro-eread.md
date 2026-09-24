@@ -11,6 +11,22 @@ description: The upcoming Boox Picco has a 3.97-inch screen and a USB-C port, bu
 image: https://cdn.mos.cms.futurecdn.net/Hp89tUHx3o6hVMYmRsHuVQ-1525-80.jpg
 categories:
 - Technology & Software
+locations:
+- USB-C
+- Xteink
+people:
+- Boox
+- James
+organisations:
+- AI
+- Android Police
+- Boox Picco
+- Clarity Media
+- Good Ereader
+- Google News
+- IFA
+- TechRadar
+- Xteink
 ---
 
 ![The Boox Picco](https://cdn.mos.cms.futurecdn.net/Hp89tUHx3o6hVMYmRsHuVQ.jpg) 

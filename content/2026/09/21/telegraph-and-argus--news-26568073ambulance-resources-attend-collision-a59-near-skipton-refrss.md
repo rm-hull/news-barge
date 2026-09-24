@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20457219.jpg?type=og-image
+locations:
+- A59
+- Harrogate
+- North Yorkshire
+- Pixabay
+- Skipton
+- York
+people: []
+organisations:
+- A59
+- FULL
+- North Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Pixabay)*

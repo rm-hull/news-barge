@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- America
+- Iran
+- Mashhad
+- Tehran
+- US
+people:
+- Amirhossein Hashemi-Javid
+- Donald Trump
+- Fatemeh Mohajerani
+- Golshan Fathi
+- Hojatoleslam Taeb
+- Mao
+- Masoud Pezeshkian
+- Mohammad Taheri
+- Mohsen Rezaei
+- Mohsen Zavaar
+- Mojtaba Khamenei
+- Saqab Esfahani
+organisations:
+- Basij
+- Mehr
+- Tejarat Farda
 ---
 
 For many Iranians, the new US sanctions campaign, called Operation Economic Outcast, seems superfluous given the grim economic situation in their country.

@@ -12,6 +12,17 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Neil Kenward
+organisations:
+- EPPP
+- Ofgem
+- The Telegraph
 ---
 
 Andy Burnham could slash up to £200 off energy bills when Britons can expect a surge in gas and fuel prices this winter due to the Iran war.

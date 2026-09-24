@@ -10,6 +10,77 @@ image: https://cdn.mos.cms.futurecdn.net/etXh7oLvUqNK6nCxWr5T7C-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Amsterdam
+- Australia
+- Germany
+- ITV
+- Kayo
+- UK
+- US
+- Winter Gardens
+people:
+- Adam Leek
+- Ben Robb Kevin Doets
+- Brody Klinge Luke Littler
+- Chris Dobey
+- Damon Heta Gerwyn Price
+- Danny Noppert Jonny Clayton
+- Daryl Gurney Gian van Veen
+- Dirk van Duijvenbode Rob Cross
+- Gian van Veen
+- James Wade
+- Jermaine Wattimena Michael van Gerwen
+- Jim Long Motomu Sakai
+- Jonny Clayton
+- Josh Rock Luke Humphries
+- Krishi
+- Luke Humphries
+- Luke Littler
+- Maik Kuivenhoven
+- Michael van Gerwen
+- Raymond Smith James Wade
+- Ross Smith Bunting
+- Ross Smith Stephen Bunting
+- Ryan Searle Karel Sedlacek
+- Simon Whitlock Nathan Aspinall
+- Van Gerwen
+- Viktor Tingstrom
+- Whitlock Littler
+organisations:
+- Aspinall
+- Callan Rydz Wessel Nijman
+- Cross
+- Dobey
+- Doets
+- Fox Sports
+- Future Publishing
+- Gurney
+- Heta
+- ITV4
+- Kayo Sports
+- Klinge
+- Krishi
+- Kuivenhoven
+- Leek
+- Long Wade
+- Noppert
+- NordVPN
+- NordVPN**
+- PDCTV
+- Premier League
+- Raymond Smith Clayton
+- Rock
+- Sakai
+- Searle Humphries
+- Sedlacek
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tingstrom
+- Tom's Guide
+- Van Duijvenbode Van Veen
+- Wattimena
 ---
 
 ![Luke Littler in action during his Semi Final against Gian van Veen on day eight of the 2026 Betfred World Matchplay at Winter Gardens](https://cdn.mos.cms.futurecdn.net/etXh7oLvUqNK6nCxWr5T7C.jpg) 

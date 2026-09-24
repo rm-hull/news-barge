@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- New York City.
+people:
+- Lena Dunham
+- Luis Felber
+- Michelle Buteau
+- Vogue
+organisations:
+- Girls
+- Harper's Magazine
+- Spring Studios
+- Times
 ---
 
 ![Luis Felber and Lena Dunham attend "Storytellers: Lena Dunham with Michelle Buteau" during the 2025 Tribeca Festival at Spring Studios on June 14, 2025 in New York City.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/0114/live/d64e0be0-b221-11f1-b3fd-69f13ae092e7.jpg)

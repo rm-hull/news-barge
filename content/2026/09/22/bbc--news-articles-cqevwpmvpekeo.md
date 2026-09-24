@@ -13,6 +13,35 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d1d/live/107f0730-b608-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Chagos Islands
+- Diego Garcia
+- Downing Street
+- Mauritius
+- Middle East
+- New York
+- New York City
+- Plymouth
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Marie-France Van Heel
+- Navin Ramgoolam
+- Van Heel
+organisations:
+- Excalibur
+- Houses of Parliament.
+- International AI Safety Agency
+- Lib Dem
+- Politics Essential
+- Trump
+- UN General Assembly
+- Union
+- United Nations
 ---
 
 ![Andy Burnham and Marie-France Van Heel wave as they stand at the top of the steps to an aircraft. Burnham is wearing a black jacket and trousers, a white shirt and glasses. Van Heel is wearing a black top, a grey skirt and has a watch on her left wrist. The aircraft is white and the Union flag also features as part of its livery.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/6d1d/live/107f0730-b608-11f1-b1d1-571ed4d7ff2c.jpg)

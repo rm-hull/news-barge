@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Anderson
+- Atlanta
+- Georgia
+- South Carolina
+- Warm Springs
+people:
+- Ada Lee
+- Chris Fisher
+- Fallon Hart
+- Jimmie Lee Steverson
+organisations:
+- Georgia Bureau of Investigation
+- Mac’s Barbecue
+- WSB-TV
+- Warm Springs Police Department
 ---
 
 A Georgia police officer who was killed in the line of duty had arrested the man accused of shooting him dead just days earlier.

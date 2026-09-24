@@ -11,6 +11,28 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Fort Bragg
+- Iran
+- Middle East
+- Oman
+- Pacific
+- San Francisco
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Ukraine
+- Washington
+- Zaporizhzhia
+people:
+- Shahed
+organisations:
+- Get Tom's Hardware
+- Mara
+- U.S. Navy
+- US Army
+- Waymo
+- White House
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/rHMgu2S3YA5XhAf4QbtgoQ-320-80.jpg)

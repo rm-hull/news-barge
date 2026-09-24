@@ -15,6 +15,40 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Black
+- Cincinnati
+- Colorado
+- Cuba
+- Denver
+- Las Vegas
+- Las Vegas Strip
+- North Carolina
+- Oakland
+- Ohio
+- Southern California
+- Tupac
+people:
+- Afeni Shakur
+- Dear Mama
+- Din “Lil Therapy
+- Duane “Keffe D” Davis
+- Hennessy
+- Janet Jackson
+- Julie Hardy
+- Malcolm X
+- Malone
+- Marcus Garvey
+- Martin Luther King Jr.
+- Shardae Williams
+- Tupac Shakur
+organisations:
+- All Eyez
+- Black Panther
+- Hollywood Walk of Fame
+- Pac
+- T.H.U.G
 ---
 
 Shardae Williams woke up recently to someone blasting Tupac Shakur's “Shed So Many Tears," as they drove by her home. Lately at work or while running errands, she has seen people wearing Shakur shirts. The late rapper's presence is everywhere since the Las Vegas trial began, she says, calling it a hopeful sign that answers are coming in the death of her favorite artist.

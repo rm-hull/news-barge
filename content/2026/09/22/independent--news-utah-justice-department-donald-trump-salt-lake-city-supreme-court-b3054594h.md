@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/01/14/Election_2_26_Postal_Service_98174.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Eagle Mountain
+- Salt Lake City
+- U.S.
+- Utah
+people:
+- Damon Matai Seei
+- Donald Trump
+- Melissa Holyoak
+- Trent McCotter
+organisations:
+- Justice Department
+- Postal Service
+- Supreme Court
+- U.S. Postal Service
 ---
 
 A U.S. Postal Service letter carrier in Utah threw out more than 300 mail ballots that were being sent to voters for the state's June primary, the Justice Department said Tuesday.

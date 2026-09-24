@@ -13,6 +13,75 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A1290
+- A19
+- Air Museum
+- Amazon
+- Beeching
+- Belmont
+- Biddick Lane
+- Bowburn
+- City Campus
+- Claxheugh Road
+- Columbia Village Community Centre
+- Concord
+- County Durham
+- Coxgreen Road
+- Fatfield
+- Fencehouses
+- Follingsby Lane
+- Follingsby Park
+- Follingsby Station
+- Glover Road
+- Keelman’s Lane
+- Keelman’s Road
+- Leamside Line
+- Newcastle
+- North East
+- North East Land
+- Park and Ride
+- Pelaw Metro Station
+- Penshaw
+- Railway Terrace
+- River Wear
+- Sea
+- South Hylton
+- South Hylton station
+- Spire Road
+- St Luke’s Road
+- Stonehills Complex
+- Sunderland College
+- Swan Road
+- Tansy Centre
+- Teal Farm
+- Teal Farm Pub
+- The Bridges
+- UK
+- Victoria Viaduct
+- Wardley Fitzgeralds
+- Washington Arts Centre
+- Washington Community Fire Station
+- Washington Millennium Centre
+- Washington North
+- Washington North Station
+- Washington North station
+- Washington South
+- Washington South Station
+- West Rainton
+- Wilden Road
+- YOUR
+people:
+- Cathy Massarella
+- Kim McGuinness
+- Ms McGuinness
+organisations:
+- Hylton Bank
+- Nexus
+- Nissan
+- Public Notice Portal
+- Sulgrave
+- Sunderland
 ---
 
 ### What is the Public Notice Portal?

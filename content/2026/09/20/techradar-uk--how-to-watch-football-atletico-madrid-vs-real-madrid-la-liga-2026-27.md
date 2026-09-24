@@ -11,6 +11,70 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/BBf4w5ZFV2tAWRzxqgHyMR-1920-80.jpg
+locations:
+- Australia
+- Bernabeu
+- Brazil
+- Canada
+- La Liga
+- London
+- Madrid
+- Oz
+- Spain
+- UK
+- US
+- USA
+- United States
+- canada
+- uk
+people:
+- Diego Simeone
+- Greg Lea
+- Jose Mourinho
+- Jude Bellingham
+- Julian Alvarez
+- Kylian Mbappe
+- Vinicius Junior
+- Wilfried Zaha
+organisations:
+- Atletico Madrid
+- Barcelona
+- Crystal Palace
+- DirecTV Stream**
+- ESPN Deportes
+- ESPN Select
+- ESPN Unlimited
+- ESPN2
+- ESPN2**(
+- ESPNEWS
+- ESPNU
+- FourFourTwo
+- Future Publishing
+- Guardian
+- Instagram
+- La Liga
+- LaLiga
+- LaLigaEN
+- Madrid Derby
+- NordVPN
+- NordVPN**
+- Osasuna
+- Port Vale
+- Premier League
+- Premier Sports
+- Real Madrid
+- Real Madrid La Liga
+- Sky TV
+- TechRadar
+- The Set Pieces
+- TikTok
+- Twitter
+- Virgin Media
+- Whitehorse Manor
+- X
+- YouTube Channel
+- YouTube TV
+- beIN Sports
 ---
 
 ![Real Madrid&#039;s Jude Bellingham and Kylian Mbappe celebrating a goal in La Liga 2026/27](https://cdn.mos.cms.futurecdn.net/BBf4w5ZFV2tAWRzxqgHyMR.jpg)

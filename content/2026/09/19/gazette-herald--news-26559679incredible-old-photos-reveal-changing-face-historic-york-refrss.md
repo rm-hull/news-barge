@@ -14,6 +14,26 @@ categories:
 - History
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21469073.jpg?type=og-image
+locations:
+- Clifford's Tower
+- Clifford’s Tower
+- Leeman Road
+- Minster
+- National Railway Museum
+- Parliament Street
+- Pavement
+- St Denys's Church
+- St Denys’s Church
+- Walmgate
+- York
+people:
+- Instagram
+organisations:
+- Clifford's Tower
+- National Railway Museum
+- Newsquest
+- The Evening Press
+- York Market
 ---
 
 We’ve had a rummage through our archives and pulled out these fabulous old photos for our latest collection.

@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/ofDR97Gr4RXxuMVVBxNAYi-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Australia
+- U.S.
+- US
+people:
+- Mark Tyson
+- RAM
+- Tom
+organisations:
+- AMD Epyc
+- AMD Threadripper
+- AU
+- ECC
+- Google News
+- Intel Xeon
+- OP
+- RAM
+- RDIMMs
+- Reddit
+- Samsung
+- Tom's Hardware
+- VastOption8705
 ---
 
 ![Spare DDR4](https://cdn.mos.cms.futurecdn.net/ofDR97Gr4RXxuMVVBxNAYi.jpg) 

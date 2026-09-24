@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Barkerend Road
+- Bradford
+- Otley
+- Paris
+- SEN
+people:
+- Harry Hepworth
+- Ian
+- Jack Ormondroyd
+- Kirsty Thornton
+- Lorna Brickman
+- Ms Thornton
+organisations:
+- Better Youth Spaces Grant
+- Newsquest
+- Prince Henry's Grammar School
+- TK Gymnastics
+- TK Gymnastics Bradford
 ---
 
 AN Olympic medallist cut the ribbon to open a new gymnastics centre in Bradford.

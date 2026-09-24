@@ -14,6 +14,24 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- France
+- Paris
+people:
+- Béatrice Laurent
+- Caroline Varas
+- Jean-Rémi Girard
+- Laura Morin-Baudet
+- Samuel Bougnat
+- Édouard Geffray
+organisations:
+- BFMTV
+- CIIVISE
+- Independent Commission on Incest and Sexual Violence against Children
+- L'Enfant Bleu
+- National Union of Lycées and Collèges
+- SNALC
+- UNSA Éducation
 ---
 
 ## For the first time, France's annual school questionnaire on bullying — which has been handed out to pupils since 2023 — will include questions on sexual violence. Pupils will be able to choose whether or not to they wish to remain anonymous in this questionnaire, to be distributed in November

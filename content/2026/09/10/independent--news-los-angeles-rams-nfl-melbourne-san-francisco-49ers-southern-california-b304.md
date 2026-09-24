@@ -13,6 +13,21 @@ categories:
 - UK
 - Travel
 - Sports
+locations:
+- Australia
+- Melbourne
+- Southern California
+- Southern Hemisphere
+- U.S.
+- US
+people: []
+organisations:
+- Los Angeles Rams
+- Melbourne Cricket Ground
+- NFC West
+- NFL
+- Niners
+- San Francisco 49ers
 ---
 
 The longest road trip in NFL history has brought the San Francisco 49ers and the Los Angeles Rams to Melbourne, Australia, for a season opener before more than 100,000 fans packed into the Southern Hemisphere’s largest stadium.

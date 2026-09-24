@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/09/09/14/47/Kelly-Navarro.png?trim=
 categories:
 - News & Politics
 - UK
+locations:
+- Wall Street
+- White House
+people:
+- Baritromo
+- Donald Trump
+- Fox
+- Greg Kelly
+- Lou Dobbs
+- Maria Bartiromo
+- Peter Navarro
+- Ralph Giordano
+- Suzanne Scott
+- Tucker Carlson
+organisations:
+- ABC News
+- CNN
+- Dominion Voting Systems
+- Fox Business
+- Fox News
+- Fox News Muzzles
+- Greg Kelly Reports
+- MAGA
+- NBC News
+- Newsmax
+- Newsmax’s
+- Oval Office
+- Puck News
+- RINO
+- Smartmatic
+- The Independent
+- The Washington Times
+- Trump
 ---
 
 Peter Navarro, a senior counselor to the president, has attacked Fox News following the firing of Maria Bartiromo, claiming the media corporation “has not treated Donald Trump very well.”

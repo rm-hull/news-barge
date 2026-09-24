@@ -13,6 +13,14 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- Hungary
+- Nyergesújfalu
+people:
+- László Kiss
+- Róbert Nagy
+organisations:
+- Hungarian Association of Cemetery Maintainers and Operators
 ---
 
 Like death itself, this was no joke.

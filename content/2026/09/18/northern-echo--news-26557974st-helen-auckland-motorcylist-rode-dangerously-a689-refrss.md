@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Fountain Square
+- Peterlee Magistrates’ Court
+- Rushyford
+- St Helen Auckland
+people:
+- Driver
+- John Bentley
+organisations:
+- A1
 ---
 
 *(Image: The Northern Echo)*

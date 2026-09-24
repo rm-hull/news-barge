@@ -13,6 +13,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- PA
+- UK
+people:
+- Andy Burnham
+- Gordon Brown
+- John Healey
+- Matthew Horwood
+- Michael Healy
+- Sarah Coles
+- Steve Webb
+organisations:
+- AJ Bell
+- Budget
+- IG
+- LCP
+- The Pensions Commission
+- The**Times
 ---
 
 Frozen tax thresholds and rising inflation mean pensioners could now need tens of thousands of pounds more for their retirement income compared to five years ago, new analysis has shown.

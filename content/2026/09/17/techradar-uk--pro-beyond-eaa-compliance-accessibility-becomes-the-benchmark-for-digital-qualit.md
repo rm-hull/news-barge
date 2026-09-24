@@ -10,6 +10,22 @@ image: https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- CI
+- Cisco
+- EAA
+- Future plc
+- Microsoft
+- Progress Software
+- ShareFile
+- TechRadar Pro
+- TechRadarPro
+- W3C
+- WCAG
+- Webex
 ---
 
 ![A person using a desktop computer.](https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH.jpg) 

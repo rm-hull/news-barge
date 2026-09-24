@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Peacock
+people:
+- Dakota Johnson
+- Gracie Abrams
+- Inde Navarrette
+- Jalen Brunson
+- Katseye
+- Rosalía
+- Shane Gillis
+- Turnstile
+- Verity
+organisations:
+- NBA
+- NBC
+- New York Knicks
+- SNL
 ---
 
 Newly crowned NBA champion Jalen Brunson of the New York Knicks will host “Saturday Night Live” when the new season begins later this month, with future guests including Inde Navarrette, Gracie Abrams and Katseye.

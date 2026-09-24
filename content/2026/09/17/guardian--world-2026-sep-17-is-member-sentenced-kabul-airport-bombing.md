@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Abbey Gate
+- Hamid Karzai
+- IS
+- Islamic State Khorasan Province
+- Kabul
+- Missouri
+- Moscow
+- US
+- United States
+- Virginia
+people:
+- Abdul Rahman al-Logari
+- Anthony Trenga
+- Cpl Jared Schmitz
+- Donald Trump
+- Mark Schmitz
+- Mohammad Sharifullah
+- Paula Knauss-Selph
+- SSgt Ryan Knauss
+organisations:
+- Congress
+- FBI
+- ISKP
+- Islamic State
+- Marine Corps
+- US Central Command
 ---
 
 An Islamic State group member was sentenced on Wednesday to 20 years in prison for aiding the terrorist organization that took credit for a suicide bombing that killed 13 US service members and about 160 Afghans at the Kabul airport five years ago during the US military’s chaotic withdrawal from the country.

@@ -14,6 +14,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bamban
+- Baofu
+- Cambodia
+- China
+- Madagascar
+- Malaysia
+- Manila
+- Nasdake
+- Philippines
+- Southeast Asia
+- Vietnam
+people:
+- Alice Guo
+- Ferdinand Marcos Jr.
+- Jade
+- Wind
+organisations:
+- AP
+- Bureau of Jail Management
+- Department of Justice
+- PAOCC
+- Presidential Anti-Organized Crime Commission
+- United Nations High Commissioner for Human Rights
 ---
 
 He had lost count of the number of times he was sold from company to company in the Philippines.

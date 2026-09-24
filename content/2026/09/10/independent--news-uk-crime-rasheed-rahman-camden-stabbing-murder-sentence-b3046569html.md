@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Camden Town
+- Essex
+- Libya
+- London
+- St Martin’s Gardens
+- Sudan
+- UK
+people:
+- Ayisha Carroll
+- Boko Haram
+- Danielle Morley
+- Dodd
+- Iulian Cavaliuc
+- John Femi-Ola KC
+- Mark Carroll
+- Ms Carroll
+- Rasheed Rahman
+organisations:
+- CCTV
+- Metropolitan Police
+- St Martin’s Gardens
+- The Independent
+- Wood Green Crown Court
 ---
 
 A violent teenager who was released on police bail twice – leaving him free to murder a beloved grandfather in a “shocking and cowardly” attack – has been jailed for life.

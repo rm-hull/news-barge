@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bramley Baths
+- Chevin End Guest House
+- Chevin Inn
+- Leeds
+- Otley Chevin
+- UK
+- Yorkshire
+people:
+- Matt Lister
+- Millie Sparrow
+- Ms Sparrow
+organisations:
+- Bramley Baths
+- Ms Sparrow
 ---
 
 The Yorkshire couple who turned a horsebox into a wood-fired sauna have settled into a new Otley location and are preparing to take their business on the road for a special event at Bramley Baths.

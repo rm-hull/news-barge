@@ -11,6 +11,26 @@ description: ChatGPT has just updated its Images tool to version 2.5, and it com
 image: https://cdn.mos.cms.futurecdn.net/cnVjXWRmXoPTjoBqcL78aJ-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- ChatGPT
+people:
+- Graham Barlow
+organisations:
+- AI
+- BBC One Breakfast
+- BBC TV
+- ChatGPT
+- Clean Studio
+- Computeractive
+- Dark Studio
+- Google News
+- Mac
+- MacFormat
+- OpenAI
+- PC Pro
+- Radio 4
+- TechRadar
+- iMore
 ---
 
 ![Images from the new ChatGPT Images 2.5](https://cdn.mos.cms.futurecdn.net/cnVjXWRmXoPTjoBqcL78aJ.jpg) 

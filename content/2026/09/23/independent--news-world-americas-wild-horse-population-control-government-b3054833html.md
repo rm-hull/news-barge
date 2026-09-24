@@ -13,6 +13,22 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/10/473144448..?trim=0,9,0,9&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Eureka
+- Nevada
+people:
+- Dina Titus
+- Doug Burgum
+organisations:
+- BLM
+- Bureau of Land Management
+- Congress
+- Spirit of the West
+- The U.S. Department of Agriculture
+- Trump
+- U.S. Department of Agriculture
+- USDA
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

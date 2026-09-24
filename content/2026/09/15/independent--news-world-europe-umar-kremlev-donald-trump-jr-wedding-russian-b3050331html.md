@@ -12,6 +12,41 @@ image: https://static.independent.co.uk/2026/09/15/7/01/umar-kremlev.jpeg?trim=0
 categories:
 - News & Politics
 - UK
+locations:
+- Bahamas
+- China
+- Dubai
+- Lausanne
+- Moscow
+- Russia
+- Serpukhov
+- Switzerland
+- White House
+people:
+- Alexei Galeev
+- Alexey Rubizhny
+- Bettina Anderson
+- CK Wu
+- Chris Roberts
+- Donald Trump Jr
+- Imane Khelif
+- Lin Yu-Ting
+- Trump Jr
+- Umar Kremlev
+- Umar Lutfuloyev
+- Vladimir Putin
+organisations:
+- Boxing Federation of Russia
+- Gazprom
+- IBA
+- IOC
+- Instagram
+- International Boxing Association
+- Moscow State Academy of Public Utilities and Construction
+- Night Wolves
+- ProPublica
+- Proekt*
+- The Independent
 ---
 
 Umar Kremlev, a Russian oligarch linked to President Vladimir Putin, helped bankrolled Donald Trump Jr’s three-day luxury wedding in the Bahamas.

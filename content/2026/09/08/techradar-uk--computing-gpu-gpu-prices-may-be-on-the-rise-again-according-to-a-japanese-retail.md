@@ -11,6 +11,27 @@ description: Price hikes seem to be inevitable every few months due to the RAM c
 image: https://cdn.mos.cms.futurecdn.net/96HfDfoQkB8kcAaKKqtfGJ-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Akihabara
+- GameRant
+- Japan
+- US
+people:
+- Isaiah Williams
+organisations:
+- AMD
+- Applied
+- Birmingham City University
+- GPU
+- Google News
+- Isaiah
+- Nvidia
+- PC Guide
+- RAM
+- Samsung
+- TechRadar
+- VideoCardz
+- XT
 ---
 
 ![A graphics card with a row of fans with a cyanotic purple backlight in a futuristic design](https://cdn.mos.cms.futurecdn.net/96HfDfoQkB8kcAaKKqtfGJ.jpg) 

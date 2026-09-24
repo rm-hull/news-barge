@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://i.guim.co.uk/img/media/10b954d257d4007d0b0c510dd05752a7565c4ab3/222_0_5356_4284/master/5356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc2b79011a2e4e0e843ab4214fc1ccad
+locations:
+- United States
+- Yellowstone
+people:
+- Margery Price
+organisations:
+- US Geological Survey
+- Yellowstone Geology
+- Yellowstone National Park Geology Program
 ---
 
 Hold on to your hats – Yellowstone national park staffers have removed a record-setting 20,100 pieces of trash from hydrothermal areas around the geyser-filled park so far this year

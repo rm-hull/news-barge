@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/20393295.jpg?type=og-image
+locations:
+- Batley
+- Ghana
+- Kirklees
+- Pakistan
+- UK
+- West Yorkshire
+people:
+- Ben Smith
+- Cyndi Rhoades
+- Katharine Beacham
+- Rachel Cosgrove-Pearce
+organisations:
+- Circle-8 Textile Ecosystems
+- M&S
+- New Look
+- Oxfam
+- Oxfam’s
+- Parliament’s Environmental Audit Committee
+- Sainsbury’s Tu Clothing
+- The Circuit
+- Wrap
 ---
 
 M&S, New Look, Sainsbury’s and Oxfam are joining forces to turn unwanted clothes into new materials - and West Yorkshire is set to play a big part.

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Hiroshima
+- Japan
+- Nagasaki
+- U.S.
+people:
+- Isao Harimoto
+- Sadaharu Oh
+organisations:
+- All-Star
+- Chiba Lotte Marines
+- Golden Players Club
+- Japanese Baseball Hall of Fame
+- Nippon Ham Fighters
+- TBS
+- Yomiuri Giants
+- then-Toei Flyers
 ---
 
 Isao Harimoto, the baseball great who survived the Hiroshima atomic bomb and still holds Japan's hits record, has died. He was 86.

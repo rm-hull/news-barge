@@ -11,6 +11,29 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/daaf/live/6c2e53
 categories:
 - UK
 - News & Politics
+locations:
+- Dover
+- Nottingham
+- West Midlands
+people:
+- Chris Pearson
+- Jaden Dale
+- Matt Shannon
+- Neghat Khan
+- Nigel Farage
+- Shayma Muhammadqboliyom
+organisations:
+- BBC Nottingham
+- BBC Radio Nottingham
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- Nottingham City Council
+- Nottingham Trent University
+- Nottinghamshire Police
+- PSPO
+- Reform UK
+- Stafford Borough Council
 ---
 
 ![Two men wearing balaclavas stand on a road. There is a lorry in the background across the central reservation](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/daaf/live/6c2e5360-b09f-11f1-9e7d-cb2f675dfcb0.jpg)

@@ -15,6 +15,12 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- Rome
+people: []
+organisations:
+- North Yorkshire Liberal Democrats
 ---
 
 # North Yorkshire home-to-school buses: get on with it

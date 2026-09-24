@@ -14,6 +14,17 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21493141.jpg?type=og-image
+locations:
+- Acomb
+- York Road
+people:
+- Naomi
+- Rick
+organisations:
+- Facebook
+- Google Maps
+- Old Greengrocer
+- Old) Greengrocer of Acomb
 ---
 
 *(Image: Google Maps)*

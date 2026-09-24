@@ -15,6 +15,53 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Arnketil
+- Askrigg
+- Brittany
+- Castle Bolton
+- Cringley House
+- Garsdale
+- Hawes Branch
+- Lancaster Turnpike
+- Nappa Hall
+- North Eastern Railway
+- Northallerton
+- Ravensworth
+- Redmire
+- Ribblesdale
+- Richmond
+- Richmondshire
+- Sedbergh
+- Skeldale House
+- The Yorkshire Dales
+- Wensleydale
+- Yorkshire Dales National Park
+people:
+- Akrigg
+- Arnketil
+- Askrigg
+- Christopher Caygill
+- Count Alan
+- Elizabeth I
+- Gospatric
+- Hawes
+- James Pratt
+- John Ogden
+- Mark Metcalfe
+- Mary
+- Thomas Parr
+- Tom Addison
+- William
+organisations:
+- Askrigg
+- Channel 5
+- Fitz Hugh
+- History of Yorkshire Dales
+- North Yorkshire Council
+- The Crown Inn
+- Wensleydale Metcalfe
+- Wensleydale Railway Association
 ---
 
 # Askrigg: History of Yorkshire Dales village that will be featured in episode of Our Great Yorkshire Life and where its name originated from

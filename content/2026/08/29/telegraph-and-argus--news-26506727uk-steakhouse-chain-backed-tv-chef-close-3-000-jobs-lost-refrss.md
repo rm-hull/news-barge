@@ -14,6 +14,35 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Britain
+- Broad Street
+- Enfield
+- Halifax
+- Ireland
+- The Halfway House
+- UK
+people:
+- Beefeater
+- Brian Turner
+- Deborah Cutler
+- Whitbread
+organisations:
+- 89 Brewers Fayre
+- Applecart Beefeater
+- BBC 1
+- BBC 2
+- Beefeaters
+- Berni Inn
+- Brewers Fayre
+- Christie Owen & Davies Ltd
+- Marketing Week
+- Oxford South Milton Interchange
+- Premier Inn
+- Tower of London
+- Whitbread
+- Wikimedia UK
+- Yeoman Warders
 ---
 
 *(Image: Wikimedia UK)*

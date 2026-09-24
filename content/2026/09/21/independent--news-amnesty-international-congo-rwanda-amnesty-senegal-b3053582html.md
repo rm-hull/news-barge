@@ -13,6 +13,19 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/21/12/Congo-Rebels-Crimes_14546.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Eastern Congo
+- Lomera
+- North Kivu
+- Rubaya mine
+- Rwanda
+- South Kivu
+- United States
+people: []
+organisations:
+- Amnesty International
+- M23
+- United Nations
 ---
 
 Amnesty International accused M23 rebels in eastern Congo of carrying out abuses and unlawful killings of miners while trafficking critical minerals to neighboring Rwanda, in what it said could amount to war crimes.

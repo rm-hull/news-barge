@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Coliseum
+- County Durham
+- Downton Abbey
+- Paddington
+- Whitby Pavilion
+- Yorkshire
+people:
+- Ann Cleeves
+- Bailey Rae
+- Corinne Bailey Rae
+- Elly Griffiths
+- Hairy Biker Si King
+- Hugh Bonneville
+- Jess Kidd
+- Joanne Harris
+- John Boyne
+- Lois Kirtlan
+- Mark Billingham
+- Rory Sparkes
+organisations:
+- A66
+- Cleveland Police
+- Flowergate Hall
+- Jet Black Jewel
+- Striped Pyjamas
+- The Boy
+- Whitby Library
+- Whitby Lit Fest
+- Whitby Museum
 ---
 
 Whitby Lit Fest has announced a surprise headline appearance by an actor best known for performances in Downton Abbey and Paddington.

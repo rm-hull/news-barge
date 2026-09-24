@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Ireland
+- New Zealand
+- UK
+people:
+- Shokofeh Hejazi
+organisations:
+- Asda
+- Dobbies
+- First Table
+- Morrisons
+- Nando's
+- Pizza Express Club
+- Tastecard
+- Tesco
+- The Food People
+- YouGov
 ---
 
 ![Close up of four women putting their drinks together in a 'cheers' motion. They are sat around a wooden table with plates of food in front of them.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg)

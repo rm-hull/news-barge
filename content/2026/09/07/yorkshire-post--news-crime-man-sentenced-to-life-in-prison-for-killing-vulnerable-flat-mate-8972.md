@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Burmantofts
+- Gargrave Court
+- Leeds
+- West Yorkshire
+people:
+- Dwayne Tuohey
+- Jodie Hayes
+- Scott Silkstone
+organisations:
+- Leeds Crown Court
 ---
 
 # Man sentenced to life in prison for killing vulnerable flat-mate

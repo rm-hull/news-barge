@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/2d2b6abcb15f7f28690e28b24b9b73fa944a67e9/999_0_4976_3983/master/4976.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a07f8818a5cba2a64f0ee1e85f3647ce
+locations:
+- Dover
+- England
+- Forton Road
+- France
+- Gosport
+- Hampshire
+- Leonard Road
+- Normandy
+- Portsmouth
+- Salisbury
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+- Sally Pearson
+- Shannon Dodds
+- Toby Matthews
+- Traitor
+organisations:
+- Border Force
+- Home Office
+- RNLI
+- Stand Up To Racism
 ---
 
 Three people have been charged in connection with anti-migrant protests which drew hundreds of demonstrators to a marina in Hampshire on Tuesday night.

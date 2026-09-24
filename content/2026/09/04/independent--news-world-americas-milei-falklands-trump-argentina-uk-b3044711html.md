@@ -14,6 +14,47 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Argentina
+- Bluff Cove
+- Britain
+- Canada
+- Denmark
+- Europe
+- Falkland Islands
+- Falklands
+- Goose Green
+- Greenland
+- Iran
+- Israel
+- Kremlin
+- Moscow
+- Russia
+- South Atlantic
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Ukraine
+- United States
+- West Bank
+- White House
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Galahad
+- Javier Milei
+- Margaret Thatcher
+- Tristram
+- Yair Netanyahu
+organisations:
+- GB News
+- Israel Defence Forces
+- Nato
+- North Atlantic Treaty Organisation
+- Oval Office
+- Royal Marine
 ---
 
 The United States and Israel have created a global atmosphere so chaotic that Argentina’s president feels bold enough to threaten the invasion of British territory – the Falkland Islands.

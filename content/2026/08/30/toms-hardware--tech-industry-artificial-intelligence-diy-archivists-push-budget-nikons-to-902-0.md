@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/VPbW5b8NY95wsWtsy8qjbH-1632-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- India
+- Pakistan
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- AI
+- Get Tom's Hardware
+- Google News
+- Ibteda Digital Library
+- Internet Archive
+- PC
+- Tom's Hardware
 ---
 
 ![Urdu script book](https://cdn.mos.cms.futurecdn.net/VPbW5b8NY95wsWtsy8qjbH.png) 

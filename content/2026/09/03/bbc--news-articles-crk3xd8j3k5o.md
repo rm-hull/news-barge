@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Charlie Kelly
+organisations:
+- BBC
+- Google Sheet
+- Indeed Interview
+- LinkedIn
+- Malwarebytes
+- MyInterview
 ---
 
 ![A man in a pale shirt sits at a laptop in an office](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg)

@@ -13,6 +13,18 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21472673.jpg?type=og-image
+locations:
+- North Yorkshire
+- Selby Abbey
+- Selby Park
+people:
+- Malcolm Taylor
+- Selby
+organisations:
+- NY Highways, North Yorkshire Council
+- North Yorkshire Council
+- RL Golf
+- Station Gateway
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487318.jpg?type=og-image
+locations:
+- Baildon
+- Yorkshire
+people:
+- Dacre
+- Kerry Magson
+- Rebecca Reeves
+- Son & Hartley
+organisations:
+- Dacre, Son & Hartley
+- Kempston Parkes Chartered Surveyors
+- Mortgage Advice Bureau
+- Son & Hartley
+- The Principle Trust
+- The Principle Trust Children’s Charity
+- Yorkshire Three Peaks
 ---
 
 *(Image: Supplied)*

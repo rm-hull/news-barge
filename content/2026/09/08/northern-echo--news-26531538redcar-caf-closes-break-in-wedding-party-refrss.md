@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bishop Auckland
+- Redcar
+- Terrace
+- UK
+people:
+- Man
+organisations:
+- Boathouse and Terrace
+- CCTV
+- Google
+- Northern Echo
+- The Boathouse
 ---
 
 *(Image: The Boathouse and Terrace on Facebook)*

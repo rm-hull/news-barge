@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21484358.jpg?type=og-image
+locations:
+- Acomb
+- Harrogate
+- Leeds
+- North Yorkshire
+- Oxford Street
+- UK
+- York Road
+people:
+- Graham Binns
+organisations:
+- Bank of England
+- Leeds Building Society
+- Simon Vine Photography
 ---
 
 *(Image: Simon Vine Photography)*

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckingham Palace
+- Netherlands
+- Paris
+- Princess of Wales
+- UK
+people:
+- Charles Spencer
+- Diana
+- Earl Spencer
+- Elizabeth
+- Laura Kuenssberg
+- Philip
+- Prince Harry
+- William
+organisations:
+- BBC
+- Daily Mail
+- Penguin Michael Joseph
+- Penguin Random House
 ---
 
 Earl Spencer has doubled down on his bombshell claim that King Charles said of Diana, Princess of Wales, “rest assured, we’ll forget her soon enough” days after her death, saying he is telling the truth.

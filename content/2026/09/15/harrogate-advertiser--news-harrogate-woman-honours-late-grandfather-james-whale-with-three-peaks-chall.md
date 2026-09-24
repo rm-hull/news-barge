@@ -11,6 +11,20 @@ categories:
 - Local
 - Harrogate
 - Comedy & Entertainment
+locations:
+- Harrogate
+- Ingleborough
+- Pen-y-ghent
+- UK
+- Whernside
+- Yorkshire
+people:
+- Ella Whale
+- Grandad
+- James Whale
+- James Whale MBE
+organisations:
+- Kidney Cancer UK
 ---
 
 # Harrogate woman honours late grandfather James Whale with Three Peaks Challenge for Kidney Cancer UK

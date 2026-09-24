@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - History
+locations:
+- Stamford Bridge
+- The Square
+- YOUR
+people: []
+organisations:
+- East Riding of Yorkshire Council
+- Public Notice Portal
 ---
 
 *(Image: Newsquest)*

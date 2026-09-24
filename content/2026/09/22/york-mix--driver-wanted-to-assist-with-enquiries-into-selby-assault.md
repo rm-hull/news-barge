@@ -11,6 +11,16 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/799561591_1602956134542797_229898689902874285_n.png.jpeg
+locations:
+- Lowmoor Road
+- Selby
+people: []
+organisations:
+- Crimestoppers
+- GREEN
+- North Yorkshire Police
+- PORSCHE
+- TEAL
 ---
 
 Police are investigating an assault, that took place on Lowmoor Road, Selby, at around midday on 5th September 2026.

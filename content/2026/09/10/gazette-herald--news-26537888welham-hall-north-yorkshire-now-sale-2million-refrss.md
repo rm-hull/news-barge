@@ -14,6 +14,22 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Malton
+- North Yorkshire
+- Norton Golf Course
+- Welham Hall
+- York
+people:
+- Kirk Deighton
+organisations:
+- Blenkin and Co
+- Crab Manor Hotel
+- Hewetson & Johnson
+- Norton
+- Savills
+- Welham Hall
 ---
 
 A country house near Malton has had it price reduced after being on the market for two years.

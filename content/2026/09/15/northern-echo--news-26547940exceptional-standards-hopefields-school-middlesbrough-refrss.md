@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- County Durham
+- Middlesbrough
+- North East
+- Riverside Park
+- Wolviston
+people: []
+organisations:
+- Google Maps
+- Hopefields School
+- Ofsted
 ---
 
 *(Image: Google Maps)*

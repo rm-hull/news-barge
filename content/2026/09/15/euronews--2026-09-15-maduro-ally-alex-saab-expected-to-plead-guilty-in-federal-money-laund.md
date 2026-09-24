@@ -15,6 +15,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Cape Verde
+- Colombia
+- Iran
+- Manhattan
+- Mexico
+- Miami
+- US
+- US-Venezuela
+- Venezuela
+- Washington
+- White House
+people:
+- Alejandro Betancourt
+- Alex Saab
+- Delcy Rodriguez
+- Joe Biden
+- Kathleen Williams
+- Neil Schuster
+- Nicolás Maduro
+- Rodríguez
+- Trump
+organisations:
+- CLAP
+- PDVSA
+- Saab
+- Trump
 ---
 
 ## Charged with a single count of money laundering tied to an alleged conspiracy to create fake companies and falsify shipping records, Saab is scheduled to appear before Judge in Miami on Tuesday for a change of plea hearing, according to court records.

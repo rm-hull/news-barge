@@ -14,6 +14,35 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Gulf
+- Iran
+- Israel
+- Jordan
+- Kuwait
+- Larak
+- Oman
+- Pakistan
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- US
+- United Arabi Emirates
+- United States
+- Washington
+people:
+- Donald Trump
+- Tim Hawkins
+organisations:
+- CENTCOM
+- IRGC
+- Navy
+- Revolutionary Guard Corps
+- Revolutionary Guards
+- Trump
+- US Central Command
 ---
 
 ## The US attacks on Iran are the first in around a month as the Trump administration had shifted its war objective to inflict maximum economic pain on Tehran. Washington says the strikes were aimed at preventing Iranian forces from disrupting global shipping through the Strait of Hormuz.

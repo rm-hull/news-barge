@@ -13,6 +13,36 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/8b34809ab945c631baf069850af883b4c987dc05/433_0_3753_3003/master/3753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=516127f76bbfbd06e53e34b0e27b3f11
+locations:
+- Beijing
+- Brighton
+- California
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Elon Musk
+- Mark Zuckerberg
+- Max Wilkinson
+- Sam Altman
+organisations:
+- AI
+- BBC
+- EU
+- Greens
+- IAEA
+- International Atomic Energy Agency
+- Lib Dem
+- Lib Dems
+- Lib Dems’
+- Liberal Democrat
+- Meta
+- Reform UK
+- Sky News
+- Trump
+- UN
 ---
 
 Ed Davey is to call for a global nuclear-style non-proliferation treaty to halt the development of super-intelligent AI when he makes his keynote speech at the Liberal Democrat conference, accusing Andy Burnham of relying on Donald Trump and “tech bros” to solve the problem.

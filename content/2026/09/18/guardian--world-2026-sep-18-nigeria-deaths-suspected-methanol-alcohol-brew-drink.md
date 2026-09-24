@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Africa
+- Irele
+- Nigeria
+- Odigbo
+- Ondo
+people:
+- Abayomi Jimoh
+- Banji Ajaka
+- Ondo
+- Sola Adebayo
+organisations:
+- AP
+- National Agency for Food and Drug Administration and Control
+- TVC News
+- The Associated Press
 ---
 
 At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.

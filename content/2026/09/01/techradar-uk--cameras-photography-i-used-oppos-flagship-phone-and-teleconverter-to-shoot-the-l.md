@@ -11,6 +11,24 @@ description: I used my favorite camera phone with teleconverter lens to photogra
 image: https://cdn.mos.cms.futurecdn.net/oupf9RvB2G4enxmhcvisuC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Europe
+- Kenya
+- Nairobi
+- North and South America
+- UK
+- Wales
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Google News
+- Hasselblad Master
+- Oppo
+- Samsung
+- TechRadar
 ---
 
 ![Closeup of the moon during the Lunar Eclipse 2026 (left), alongside an Oppo phone with teleconverter mounted a tripod, on a sandy beach at night, and the lunar eclipse is on the phone's screen](https://cdn.mos.cms.futurecdn.net/oupf9RvB2G4enxmhcvisuC.jpg) 

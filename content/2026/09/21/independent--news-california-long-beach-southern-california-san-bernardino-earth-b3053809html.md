@@ -13,6 +13,28 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/21/18/Saving_California_Frogs_94696.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Earth
+- L.A
+- Long Beach
+- Los Angeles Zoo
+- Pacific
+- San Bernardino
+- San Gabriel
+- San Gabriel Mountains
+- San Jacinto Mountains
+- Santa Ana Zoo
+- Southern California
+people:
+- Erin Lundy
+organisations:
+- Aquarium of the Pacific
+- California Department of Fish and Wildlife
+- Long Beach Post
+- The Associated Press
+- U.S. Fish and Wildlife Service
+- U.S. Forest Service
+- U.S. Geological Survey
 ---
 
 Inside three water tanks in a tucked-away room at the Aquarium of the Pacific, biologists are tasked with bringing back a population of frogs that once thrived across the state’s mountainous streams but has since reached the brink of extinction.

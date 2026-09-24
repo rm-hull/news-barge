@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- America
+- U.S.
+people:
+- Dan Driscoll
+- David W. Allvin
+- Donald Trump
+- Frank Kendall III
+- Hill
+- JD Vance
+- Jen Griffin
+- John Phelan
+- Martha Raddatz
+- Pete Hegseth
+- Sean Parnell
+- Thom Tillis
+organisations:
+- ABC
+- Air Force
+- Army
+- Congress
+- Department of Defense
+- Financial Times
+- Fox News
+- Generals
+- Navy
+- Pentagon
+- Personnel and Readiness
+- Senate Armed Services
+- The Independent
+- War Department
 ---
 
 A former secretary of the Air Force who was stripped of his security clearance by the Trump administration last month accused Defense Secretary Pete Hegseth of leading a “culture of fear” at the Pentagon where commanders feared speaking their minds due to the risk of losing their careers.

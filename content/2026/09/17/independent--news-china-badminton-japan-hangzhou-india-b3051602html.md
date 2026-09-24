@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Afghanistan
+- Asia
+- Badminton
+- Budapest
+- China
+- Hangzhou
+- Hong Kong
+- Hungary
+- India
+- Japan
+- Nagoya
+- New Delhi
+- Pakistan
+- Paris
+- Singapore
+- South Korea
+- Yemen
+people:
+- Alex Eala
+- Arshad Nadeem
+- Masako
+- Naruhito
+- Neeraj Chopra
+- Pan Zhanle
+- Qin Haiyang
+- Rumesh Tharanga Pathirage
+- Wang Shun
+- Xu Jiayu
+- Yu Zidi
+organisations:
+- Olympic Council of Asia
+- WTA
+- Yonhap
 ---
 
 How big are the Asian Games?

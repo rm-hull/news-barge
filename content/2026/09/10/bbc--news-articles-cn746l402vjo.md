@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bembridge
+- Dover
+- Eastney
+- Isle of Wight
+- Langstone Harbour
+- Portsmouth
+- Yarmouth
+people:
+- Kemi Badenoch
+- Neil
+- Peter Sparkes
+- Robin Knox-Johnston
+organisations:
+- BBC Breakfast
+- BBC Newsnight
+- BBC Verify
+- Border Force
+- HM Coastguard
+- Home Office
+- RNLI
+- Sussex Police
 ---
 
 ![People wrapped in blankets on the back of an RNLI lifeboat moored by a pontoon at Eastney, Portsmouth, on 6.9.26](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/643c/live/fd742ec0-acf9-11f1-bc1f-3f186ca4140c.jpg)

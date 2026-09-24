@@ -11,6 +11,40 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Africa
+- Detroit
+- Europe
+- Halstead
+- Kansas
+- Kernza
+- Mueller
+- Newton
+- Salina
+- Southeast Asia
+- U.S.
+people:
+- Aaron Gaeddert
+- Brandon Schlautman
+- Bryce Black
+- David Mueller
+- Joshua A. Bickel
+- Kernza
+- Laura van der Pol
+- Lee DeHaan
+- Matthew Ryan
+- van der Pol
+organisations:
+- AP
+- Associated Press’
+- Cornell University
+- Instagram, Bluesky and X
+- Kernza
+- Prairy
+- Sustain-a-Grain
+- The Land Institute
+- United Nations
+- ___ St. John
 ---
 
 Bryce Black kneels in a wheat field battered by intense drought. He holds two strands, remarking on how small the seed head is compared with what's normal.

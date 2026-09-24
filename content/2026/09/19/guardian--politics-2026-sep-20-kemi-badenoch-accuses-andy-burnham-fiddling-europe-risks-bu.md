@@ -13,6 +13,30 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/9d0015bdf7a4abc46ca0b2672daf4899ded83114/13_0_2329_1864/master/2329.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f02ddeb6ad02755fb9946c35ffd3507
+locations:
+- Birmingham
+- Britain
+- Europe
+- France
+- Manchester
+- Moscow
+- Poland
+- Russia
+- UK
+people:
+- Adm Lord West
+- Andy Burnham
+- Gordon Brown
+- John Healey
+- Kemi Badenoch
+- Lord Dannatt
+- Wes Streeting
+organisations:
+- National Union of Students
+- Nato
+- Telegraph
+- Tories
+- Tory
 ---
 
 Kemi Badenoch has accused Andy Burnham of “fiddling while Europe is at risk of burning”, as she repeated her call for the prime minister to cut the welfare budget to fund increase spending on defence.

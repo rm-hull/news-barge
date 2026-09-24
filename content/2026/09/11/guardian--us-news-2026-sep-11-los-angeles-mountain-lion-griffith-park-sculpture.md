@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Outdoors & Nature
+locations:
+- California
+- Griffith Park
+- Hollywood
+- LA
+- Los Angeles
+- Santa Monica
+- Wallis Annenberg
+people:
+- Adam Matano
+- Steve Winter
+organisations:
+- National Wildlife Federation
+- Safe LA Cougars
 ---
 
 The city of Los Angeles will memorialize its most famous mountain lion with a bronze sculpture at Griffith Park, the 4,200-acre (1,700-hectare) stretch of land the cougar once roamed.

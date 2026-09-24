@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa43/live/37114db0-b5f2-11f1-9c86-3f8de025902e.jpg
+locations:
+- Amsterdam
+- Netherlands
+- UK
+people:
+- '## Darts'
+- Danny Noppert
+- Jonny Clayton
+- Karl Holden
+- Luke Littler
+- Michael van Gerwen
+- Nathan Aspinall
+- Samuel Gill
+- Van Gerwen
+organisations:
+- BBC Sport
+- Dartnews.com
+- St Helen's Darts Academy
+- Warrington
 ---
 
 Why does Luke Littler keep getting booed?

@@ -13,6 +13,24 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- CLEVELAND
+- County Durham
+- Hartlepool
+people:
+- Bruno Fernandes
+- Lauren Somerville
+- Matt
+- Matthew Blades
+- PC Blades
+- Senne Lammens
+- Tom Clough
+organisations:
+- '**__PC Blades'
+- CSI
+- Cleveland Police Federation
+- Ipswich
+- Manchester United
 ---
 
 *(Image: CLEVELAND POLICE)*

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Black Western
+- Cudahy
+- LA
+- Los Angeles
+- Los Angeles International Airport
+- Shanghai
+- Southern California
+- U.S.
+- Watts
+people:
+- Big Ant
+- Bodhi Jordan Dell
+- Danielle Brooks
+- J. Alphonse Nicholson
+- Lil Ant
+- Lozita
+- Odysseus
+- Poseidon
+- Walter Thompson-Hernández
+organisations:
+- Delta Air Lines
+- LAX
+- Park Avenue Elementary School
+- The New York Times
 ---
 
 Six years ago, jet fuel was dumped from the sky onto a working-class city near Los Angeles International Airport, spattering onto children at an elementary school. For writer and director Walter Thompson-Hernández, who grew up nearby, the incident sparked a coming-of-age story that grapples with the contradictions of life under the LAX flight path.

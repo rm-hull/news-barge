@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Frasers
+- Harvey Nichols
+- Hugo Boss
+- Michael Murray
+- Mike Ashley
+- Robert Palmer
+- Stephan Sturm
+organisations:
+- Frasers Group
+- Frasers’
+- Hugo Boss
+- PA
+- Yui Mok
 ---
 
 The chairman of Hugo Boss is to step down from the luxury fashion brand as Mike Ashley’s Frasers Group tightens its grip on the business.

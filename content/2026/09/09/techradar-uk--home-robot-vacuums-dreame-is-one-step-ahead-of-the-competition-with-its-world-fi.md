@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/ds9wFRPCwrkxwDu7Hee3cU-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Austria
+- Dreame
+- Germany
+- Portugal
+- Spain
+- Switzerland
+- UK
+- US
+people:
+- Dawn Chen
+- Dreame
+- Ruth Hamilton
+organisations:
+- Dreame
+- FCC
+- Google News
+- IFA
+- Ruth
+- TechRadar
+- iRobot
 ---
 
 ![Dreame Aqua20 Pro Ultra Roller X Complete robot vacuum on show at IFA](https://cdn.mos.cms.futurecdn.net/ds9wFRPCwrkxwDu7Hee3cU.jpg) 

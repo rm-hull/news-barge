@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+- American Samoa
+- Anchorage
+- U.S.
+- Whittier
+people:
+- Cori Mills
+- Michael Pese
+- Tupe Smith
+- Whitney Brown
+- 'Yes'
+organisations:
+- Court of Appeals
+- Department of Law
 ---
 
 Alaska prosecutors are dropping voter misconduct cases against a group of residents born in American Samo a after a state appeals court threw out felony charges against a woman who wrongly checked a box saying she was a U.S. citizen.

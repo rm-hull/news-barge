@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- UK
+people:
+- Graham Conway
+- Larne O’Donoghue
+- Matt Clamp
+organisations:
+- DVLA
+- Highway Code
+- Scrap Car Comparison
+- Select Car Leasing
+- UK Highway Code
+- YourParkingSpace
 ---
 
 *(Image: Getty Images)*

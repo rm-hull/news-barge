@@ -14,6 +14,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- U.S.
+- White House
+people:
+- Boy
+- Davis Ingle
+- Donald Trump
+- Joe Scarborough
+- John Heilemann
+- Jonathan Lemire
+- Mika Brzezinski
+- Nancy Pelosi
+- Willie Geist
+organisations:
+- Bloomberg
+- Congress
+- Gallup
+- House
+- Ingle
+- Morning Joe
+- Scarborough
+- The Independent
+- Trump
 ---
 
 The hosts of *Morning Joe* expressed disbelief Wednesday over a report that President Donald Trump has made more stock trades than all members of Congress combined.

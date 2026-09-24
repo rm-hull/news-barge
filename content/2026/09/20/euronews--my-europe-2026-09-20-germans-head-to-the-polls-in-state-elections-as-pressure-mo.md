@@ -12,6 +12,28 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/02/72/1200x675_cmsv2_9f389790-f7dc-5f0d-bfce-4e6ae344d77b-9920272.jpg
+locations:
+- Berlin
+- Germany
+- Mecklenburg
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+- Schwerin
+- Western Pomerania
+people:
+- Die Linke
+- Friedrich Merz
+- Manuela Schwesig
+- Moritz Lembke-Oezer
+- Peter Sommer
+organisations:
+- AFP
+- AfD
+- Alternative for Germany
+- CDU
+- Christian Democratic Union
+- SPD
+- Social Democratic Party
 ---
 
 ## The AfD comes into Sunday's vote fresh off the back of its election success in Saxony-Anhalt earlier this month and will be hoping for further gains.

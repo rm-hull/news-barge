@@ -12,6 +12,49 @@ image: https://static.independent.co.uk/2026/08/30/20/2291094069..?trim=14,0,14,
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Georgia
+- Iowa
+- Iran
+- Miami
+- Miami-Dade County
+- Ohio
+- Texas
+- Washington
+people:
+- Adam Hamilton
+- Ashley Hinson
+- Bush
+- Donald Trump
+- Elon Musk
+- George H.W
+- JD Vance
+- James Talarico
+- Joe Biden
+- Jon Husted
+- Jon Ossoff
+- Josh Turek
+- Ken Paxton
+- Lindsay James
+- Maria Elvira Salazar
+- Roger Marshall
+- Sherrod Brown
+organisations:
+- Congress
+- Democratic National Committee
+- Economist/YouGov
+- Emerson College
+- Fox News
+- House
+- Kansas
+- MAGA Inc
+- PAC
+- Republican National Committee
+- Republican Party
+- Senate
+- Trafalgar Group
+- YouGov
 ---
 
 If Republicans feared they would lose the House and Senate, this week showed a tidal wave of polls that makes them think no lifeboat could save them.

@@ -12,6 +12,19 @@ description: Rebellion Developments has said Alien Deathstorm isn't "another cor
 image: https://cdn.mos.cms.futurecdn.net/qRrukDGaHYrZ4fLZJtVAwT-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Gamescom
+people:
+- Ben Fisher
+- Martin Willingham
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Rebellion Developments
+- TechRadar Gaming
 ---
 
 ![Alien Deathstorm](https://cdn.mos.cms.futurecdn.net/qRrukDGaHYrZ4fLZJtVAwT.jpg) 

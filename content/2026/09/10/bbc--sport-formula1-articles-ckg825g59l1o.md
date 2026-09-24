@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ifema
+- Jeddah-esque
+- Madrid F1
+- Madring
+- Monza
+people:
+- Charles Leclerc
+- George Russell
+- Kimi Antonelli
+- Lewis Hamilton
+organisations:
+- Ferrari
+- Mercedes
+- Monza
 ---
 
 ![Lewis Hamilton goes into the gravel and loses places at the first chicane at Monza](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3b9e/live/7d143220-ad3a-11f1-9bc8-3509bd1a4ead.jpg)

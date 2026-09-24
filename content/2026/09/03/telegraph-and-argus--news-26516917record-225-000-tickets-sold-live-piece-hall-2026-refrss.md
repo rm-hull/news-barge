@@ -14,6 +14,31 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Billy Ocean
+- Calderdale
+- Cuffe
+- Halifax
+- Taylor
+people:
+- Cuffe
+- Johnny Depp
+- McFly
+- Ms Chance-Thompson
+- Nicky Chance-Thompson
+- Paul Weller
+- Peter Taylor
+- Tom Jones
+organisations:
+- Cuffe and Taylor
+- Garbage
+- Grade I
+- Hollywood Vampires
+- Piece Hall
+- Piece Hall Trust
+- The Beach Boys
+- The Piece Hall
+- The Piece Hall Charitable Trust
 ---
 
 *(Image: Cuffe and Taylor)*

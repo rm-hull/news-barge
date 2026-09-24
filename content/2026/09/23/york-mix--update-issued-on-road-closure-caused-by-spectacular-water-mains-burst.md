@@ -11,6 +11,13 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/burst-water-main-a1041-camblesforth-22-sept-2026-3.webp
+locations:
+- '#### Closure'
+- Camblesforth
+people: []
+organisations:
+- A19
+- Yorkshire Water
 ---
 
 A road closed by a spectacular water mains burst could stay partially shut until the end of next week.

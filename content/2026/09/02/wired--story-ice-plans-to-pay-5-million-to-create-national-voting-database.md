@@ -14,6 +14,39 @@ categories:
 - Science
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Florida
+- Georgia
+- North Carolina
+- Pennsylvania
+- Texas
+- US
+- White House
+- Wisconsin
+people:
+- Michael Royer
+- Tony Evers
+- Trump
+organisations:
+- 404 Media
+- Axios
+- CNN
+- DHS
+- DHS’
+- DOGE
+- Department of Homeland Security
+- Department of Justice
+- HSI
+- Homeland Security Investigations
+- ICE
+- IRS
+- Immigration and Customs Enforcement
+- Internal Revenue Service
+- SSA
+- Social Security Administration
+- Thomson Reuters
+- Trump
+- WIRED
 ---
 
 In a bid to tackle alleged voter fraud, Immigration and Customs Enforcement is preparing to award a contract worth up to $5 million to a company that will create a massive national database of voters.

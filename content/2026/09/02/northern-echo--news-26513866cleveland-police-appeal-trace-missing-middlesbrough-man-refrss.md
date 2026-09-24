@@ -12,6 +12,18 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- James Cook University Hospital
+- Marton Road
+- Middlesbrough
+- North East
+- Tudor Lodge Service Station
+people:
+- Dormanstown
+- Liam Loughlin
+organisations:
+- Cleveland Police
+- Cleveland Police)* Police
 ---
 
 *(Image: Cleveland Police)*

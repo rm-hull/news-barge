@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Church Lane
+- Spurriergate
+- YOUR
+- York
+people: []
+organisations:
+- Bench Mark Designs
+- City of York Council
+- Public Notice Portal
 ---
 
 *(Image: Bench Mark Designs)*

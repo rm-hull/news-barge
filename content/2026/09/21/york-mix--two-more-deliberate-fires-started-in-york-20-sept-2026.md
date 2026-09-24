@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/fire-engines-york-city-centre-2024.webp
+locations:
+- '#### Grange Lane'
+- Acomb
+- Acomb**
+- Grange Lane
+- Monkgate**
+- York
+people:
+- Acomb
+organisations:
+- Acomb A North Yorkshire Fire & Rescue Service
 ---
 
 Crews were called to two more fires started deliberately overnight (Sunday to Monday).

@@ -11,6 +11,18 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Cupertino
+people:
+- John Ternus
+organisations:
+- Apple Pencil
+- Counterpoint
+- Duo
+- Oppo
+- Samsung
+- Xiaomi
+- iPhone Air
 ---
 
 Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus.

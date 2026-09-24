@@ -13,6 +13,21 @@ categories:
 - UK
 - Education & Learning
 - Society & Culture
+locations:
+- Bukavu
+- Congo
+- Furaha
+- Nyamulagira BDOM
+- Rwanda
+- Ujamaa
+people:
+- Ciza Jean-Baptiste
+- Lawrence Kanyuka
+- Moïse Lubala
+organisations:
+- AP
+- M23
+- The Associated Press
 ---
 
 A fire on Thursday in Bukavu, eastern Congo, killed at least 24 students, the rebel administration that controls the city said.

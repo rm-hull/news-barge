@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Arts & Culture
 - True Crime
+locations:
+- Bradford
+- Holmfield Court
+- Thornton Road
+people:
+- Stephen Griffiths
+- __ Griffiths
+organisations:
+- '## Full'
+- '## Holmfield Court'
+- Holmfield Court
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: T&A)*

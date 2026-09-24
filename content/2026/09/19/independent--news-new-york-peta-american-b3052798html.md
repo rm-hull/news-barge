@@ -13,6 +13,20 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/16/02/Fashion_Animal_Rights_922_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- New York
+people:
+- Andrija Barak
+- Mason Melito
+- Moira Colley
+- Steven Kolb
+organisations:
+- CFDA
+- Cos
+- Council of Fashion Designers of America
+- H&M
+- PETA
+- People for the Ethical Treatment of Animals
 ---
 
 The longtime chief executive of the Council of Fashion Designers of America announced Friday that he is stepping down, days after he was filmed physically restraining two protesters during an altercation at a New York runway show.

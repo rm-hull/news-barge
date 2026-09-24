@@ -15,6 +15,45 @@ categories:
 - Society & Culture
 - Travel
 image: https://images.euronews.com/articles/stories/09/92/47/23/1200x675_cmsv2_572634a5-9ff6-5b3c-8b95-74468cc80d8d-9924723.jpg
+locations:
+- '## Abiy'
+- Abala
+- Afar
+- Alula Aba Nega Airport
+- Amhara
+- Axum
+- Berhale
+- Dalul
+- Egypt
+- Erebti
+- Eritrea
+- Ethiopia
+- Konoba
+- Megale
+- Mekelle
+- Nile
+- Oromia
+- Renaissance Dam
+- Shire
+- Soufan Center
+- Sudan
+- Tigray
+people:
+- Abiy Ahmed
+- Gedion Timotheos
+organisations:
+- ACLED
+- African Union
+- Amhara
+- Ethiopian Airlines
+- Ethiopian Peoples' Forces Alliance for Survival
+- NGO
+- Oromo Liberation Army
+- TDF
+- TPLF
+- Tigray Defence Forces
+- Tigray People's Liberation Front
+- Tigrayan
 ---
 
 ## TPLF forces took control of Mekelle airport and fought federal troops at two locations in the Afar region, while Ethiopian Airlines suspended flights to three Tigray airports in an apparent collapse of the Pretoria Agreement that ended the 2020-2022 war in the country.

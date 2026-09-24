@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- A184 West Central Route
+- Adelaide Estate
+- Askew Road
+- Gateshead Centre
+- Great North Run
+- Redheugh Bridge
+- Tyneside
+- Village Heights
+people: []
+organisations:
+- Gateshead Council
+- Northumbria Police
+- Northumbrian Water
+- Redheugh Bridge South Approach
 ---
 
 *(Image: SARAH CALDECOTT)*

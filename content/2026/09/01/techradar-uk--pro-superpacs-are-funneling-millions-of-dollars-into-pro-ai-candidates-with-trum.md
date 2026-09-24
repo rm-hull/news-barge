@@ -13,6 +13,37 @@ categories:
 - Personal Finance & Investing
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- AI
+- America
+- China
+- Kansas
+- Ohio
+- Texas
+- U.S.A.
+- US
+- Wisconsin
+people:
+- Benedict Collins
+- Greg Abbott
+- Trump
+organisations:
+- APT
+- BUCSIS
+- Build American AI
+- Google News
+- LTF
+- NVPAC
+- Nvidia
+- PAC
+- Republican Party
+- SuperPAC
+- TechRadar Pro
+- The Future
+- Trump
+- Truth Social
+- University of Buckingham Centre for Security and Intelligence Studies
+- pro-AI
 ---
 
 ![Outline map of US states in glowing blue with exploding streams of binary data illustrating communication, internet and technology](https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf.jpg) 

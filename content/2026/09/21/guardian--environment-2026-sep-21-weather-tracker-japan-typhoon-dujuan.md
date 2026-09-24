@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/75245953703b96bfe68f64455ac1b9c766743e53/251_0_903_723/master/903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=023f09264b05788cd81df46bc84f0612
+locations:
+- Atlantic
+- Azores
+- Chubu
+- Dujuan
+- Europe
+- Izu Islands
+- Japan
+- Kanto
+- Pacific
+- Portugal
+- Santiago de Compostela
+- Spain
+- Tokyo
+people:
+- Dujuan
+- Fay
+- Gustav
+- Humberto
+organisations: []
 ---
 
 Tropical Storm Dujuan is skirting the coast of Japan and despite avoiding a direct landfall, is still expected to leave its mark. Dujuan briefly reached typhoon status on Friday before weakening to a tropical storm again on Sunday morning. But it is expected to restrengthen back to a typhoon by Tuesday morning. Sustained winds could reach 80mph (129km/h), with gusts approaching 100mph.

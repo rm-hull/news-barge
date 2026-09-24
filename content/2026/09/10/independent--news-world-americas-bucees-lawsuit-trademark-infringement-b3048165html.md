@@ -13,6 +13,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beavercreek
+- Born United
+- Myrtle Beach
+- North Charleston
+- Ohio
+- South Carolina
+- Summerville
+people:
+- Buc-ee
+- Buc-ee’s
+- David Norton
+- John Oliver
+- Tom Fernandez
+- Winnie the Pooh
+organisations:
+- '![Beaver'
+- Born United
+- Buc-ee
+- Buc-ee’s
+- Facebook
+- HBO
+- Mini Mart
+- Ohio. Buc-ee's
+- The Independent
+- U.S. District Court
 ---
 
 A South Carolina-based clothing company has been ordered to pay rest stop giant Buc-ee's $850,000 to settle a trademark infringement lawsuit.

@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Black Sea.
+- Canada
+- Chisinau
+- Europe
+- Iceland
+- Kremlin
+- Kyiv
+- Mihailenii Vechi
+- Moldova
+- Moldovan
+- Northern Siberia
+- Norway
+- Oslo
+- Poland
+- Romania
+- Russia
+- Starokozache
+- US
+- Ukraine
+- Yamalo-Nenets
+people:
+- '** Zelensky'
+- Bohdan Kukura
+- Donald Trump
+- Dumitru Ciorici
+- Harald V
+- Jared Kushner
+- Jonas Gahr Støre
+- Olena
+- Steve Witkoff
+- Volodymyr Zelensky
+organisations:
+- Agence France Presse
+- BBC Verify
+- Chisinau International Airport
+- Facebook
+- Kyiv
+- NRK
+- Special Operations Forces
+- Ukrnafta
+- Zelensky
 ---
 
 ![A white painted passenger plane sits on a runway at an airport after landing](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/96eb/live/4b516720-acff-11f1-beae-535b95a24b3e.jpg)

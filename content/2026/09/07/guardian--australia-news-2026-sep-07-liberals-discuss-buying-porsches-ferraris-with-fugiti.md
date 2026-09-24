@@ -13,6 +13,53 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Beckington
+- Box Hill
+- Castle Hill
+- Cherrybrook
+- Clyde
+- Garthowen
+- Greenwood
+- Hills
+- Lebanon
+- Macquarie Street
+- Mascot
+- NSW
+- New South Wales
+- O’Riordan Street
+- Parramatta
+- Toplace
+people:
+- Anita
+- Beckington
+- Beckinton
+- Charles Perrotett
+- Charles Perrottet
+- Christian Ellis
+- David Chandler
+- David Elliott
+- Dominic Perrottet
+- Fuschia
+- Jean Nassif
+- Jeremy Greenwood
+- Larissa Mouawad
+- Peggy Dwyer
+- Sharanan Maheswaran
+- Toplace
+organisations:
+- Baulkham Hills
+- Beckington Consulting
+- Ferrari
+- Greenwood
+- Icac
+- Independent Commission Against Corruption
+- Liberal
+- Macquarie Consulting
+- Nassif
+- Porsche
+- Premier National
+- Toplace
 ---
 
 Two Liberal operatives traded photos and messages about whether to buy a Porsche or a Ferrari with payments they received for Toplace projects they got approved via a New South Wales government fast-track development process.

@@ -12,6 +12,21 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Flamingo Las Vegas
+- Las Vegas
+- UK
+- York’s Opera House
+people:
+- John van der Put
+- Penn Jillette
+- Piff
+- Teller
+organisations:
+- Magic Dragon
+- Magic Shoppe
+- Penn & Teller Fool Us
+- Piff & Pop
 ---
 
 *(Image: Supplied)*

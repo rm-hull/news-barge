@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/17/10/2293503130..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Baluchestan
+- Chabahar
+- Farmanieh
+- Islamic Republic of Iran
+- Mashhad
+- Mazandaran
+- Pak Gohar
+- Pasdaran
+- Rafsanjan
+- Rasht
+- Saravan
+- Shahr-e Rey
+- Sistan
+- South Khorasan
+- Tehran
+- US
+- Velenjak
+people:
+- Celine Assaf
+- Jafar Ghaderi
+- Masoud Pezeshkian
+- Mohammad Jafar Ghaempanah
+- Tooba Khokhar
+organisations:
+- Economic Commission
+- ISNA
+- Ministry of Oil
 ---
 
 *This article first appeared on our partner site,*

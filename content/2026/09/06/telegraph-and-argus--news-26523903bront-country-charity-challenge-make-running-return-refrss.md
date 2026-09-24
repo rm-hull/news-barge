@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Anne
+- Brontë Country
+- Burnley
+- Charlotte
+- Emily
+- Haworth
+- Heathcliffe
+- West Yorkshire
+people:
+- Andrew Wood
+- Brontë
+- Keith Binns
+- Lee Bilbrough
+- Sue Ryder
+organisations:
+- Pure Residential Lettings
+- Sue Ryder Manorlands Hospice
+- Sue Ryder Wheatfields Hospice
 ---
 
 A CHARITY challenge is calling on runners and riders to take on the rugged terrain of Brontë Country.

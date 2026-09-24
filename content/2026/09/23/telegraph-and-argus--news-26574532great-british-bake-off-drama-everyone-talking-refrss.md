@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491008.jpg?type=og-image
+locations:
+- Bradford
+- Southeast Asia
+people:
+- Alison Hammond
+- Mo
+- Nigella Lawson
+- Shannon
+- Star Baker
+- Tom
+organisations: []
 ---
 
 *(Image: C4)*

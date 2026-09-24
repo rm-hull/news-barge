@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- ANDY FUTERS
+- Amazon
+- Darlington
+- Europe
+- Symmetry Park
+- UK
+- US
+- YOUR
+people:
+- ANDY FUTERS
+- Chris McEwan
+- David Carbon
+organisations:
+- Amazon Prime Air
+- CAA
+- Civil Aviation Authority
+- Darlington Borough Council
+- North East Debenhams
+- Prime Air
+- Public Notice Portal
+- Public Notice Portal Prime Air
+- Teesside Airport
+- The Northern Echo
 ---
 
 ### What is the Public Notice Portal?

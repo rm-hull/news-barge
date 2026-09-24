@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Middlesbrough
+- North East
+- Old Town Hall
+- St Hilda’s
+- Stockton & Darlington Railway
+- Teesside
+- Transporter Bridge
+people: []
+organisations:
+- Facebook
+- Middlesbrough Old Town Hall
+- Northern Perspectives
+- Northern Perspectives'
 ---
 
 THE two faces of Middlesbrough, as seen from the air by our regular contributor, Northern Perspectives.

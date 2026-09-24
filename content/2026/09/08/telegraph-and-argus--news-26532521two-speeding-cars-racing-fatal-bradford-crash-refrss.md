@@ -14,6 +14,28 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Beechwood Drive
+- Bolton Road
+- Bradford
+- Leeds General Infirmary
+- Leeds Road
+- Seat Leon
+- Shipley
+- Wibsey
+people:
+- Gerald Hendron
+- Golf
+- Husayn Ali
+- Iqbal’s Seat
+- Mohammed Awais Iqbal
+- Skoda Fabia
+organisations:
+- Bradford Crown Court
+- CCTV
+- CPR
+- Google Streetview
+- Skoda
 ---
 
 *(Image: Google Streetview)*

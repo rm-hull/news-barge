@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- California
+- Santa Clara
+people: []
+organisations:
+- '## Kioxia'
+- AI infrastructure Kioxia
+- CM10 Series
+- CXL
+- Efosa
+- Google News
+- TechRadar Pro
+- XL1
 ---
 
 ![Kioxia's CXL module is currently undergoing client reviews.](https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii.png) 

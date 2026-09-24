@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Argentina
+- Buenos Aires
+- Honduras
+- Mercosur
+- US
+people:
+- Cecilia Nicolini
+- Javier Milei
+- Juan Marino
+- Peter Thief
+- Peter Thief’
+- Peter Thiel
+- Sam Altman
+organisations:
+- AI
+- Financial Times
+- OpenAI
+- Palantir
+- Piquetero
+- Thiel
 ---
 
 Dozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressional session raised questions about the billionaire’s presence in the country.

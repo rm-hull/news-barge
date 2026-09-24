@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Church Street
+- London
+- Louisiana
+- New Orleans
+- Swinegate
+- UK
+- UK’
+- York
+people: []
+organisations:
+- Collectables
+- PLK Chicken UK Ltd
+- Popeyes Chicken
+- Swinegate
+- YorkMix***
 ---
 
 A new fast food chain is getting closer to opening in York.

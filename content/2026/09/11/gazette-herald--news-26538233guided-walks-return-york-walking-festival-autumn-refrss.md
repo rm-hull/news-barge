@@ -14,6 +14,15 @@ categories:
 - York
 - Arts & Culture
 - Society & Culture
+locations:
+- York
+people:
+- Kate Ravilious
+- Richard Taylor
+organisations:
+- City of York Council
+- NHS
+- The History Man
 ---
 
 *(Image: City of York Council)*

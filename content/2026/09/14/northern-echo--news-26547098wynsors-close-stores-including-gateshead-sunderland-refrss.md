@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bacup
+- Birkenhead
+- Bolton
+- Bootle
+- Burnley
+- Bury
+- Crewe
+- Fleetwood
+- Gateshead
+- Hanley
+- Leeds
+- North East
+- Oldham
+- Rochdale
+- Salford
+- Sheffield
+- Sunderland
+- UK
+- Wakefield
+people: []
+organisations:
+- Adidas
+- Claire's
+- Claire’s
+- Clarks
+- Crocs
+- Gateshead
+- Modella Capital
+- Nike
+- North East Wynsors World of Shoes
+- Skechers
+- The Original Factory Shop
+- Timberland
 ---
 
 *(Image: GOOGLE MAPS)*

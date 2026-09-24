@@ -11,6 +11,23 @@ description: Just one year after its original 360 camera, DJI has released the s
 image: https://cdn.mos.cms.futurecdn.net/HMpCb7pVXCT89HzjwyC2wJ-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kenya
+- Nairobi
+- US
+people:
+- DJI Osmo
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- GoPro
+- Google News
+- Insta360
+- Intsta360 DJI
+- TechRadar
+- X5
 ---
 
 ![DJI Osmo 360 II camera in user's hand (left), DJI Osmo 360 camera in user's hand (right)](https://cdn.mos.cms.futurecdn.net/HMpCb7pVXCT89HzjwyC2wJ.jpg) 

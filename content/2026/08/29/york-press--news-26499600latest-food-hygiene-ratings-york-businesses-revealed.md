@@ -13,6 +13,17 @@ categories:
 - York
 - Food & Cooking
 - Health & Fitness
+locations:
+- Heath Ride
+- Strensall
+- The Olive Tree
+- Tower Street
+- York
+people: []
+organisations:
+- Bistro Guy
+- FSA
+- Food Standards Agency
 ---
 
 *(Image: FSA)*

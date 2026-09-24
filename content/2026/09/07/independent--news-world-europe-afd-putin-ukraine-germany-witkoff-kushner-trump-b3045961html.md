@@ -13,6 +13,56 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Abu Dhabi
+- America
+- Berlin
+- Donbas
+- Europe
+- Florida
+- Germany
+- Kremlin
+- Kyiv
+- Miami
+- Middle East
+- Moscow
+- Qatar
+- Russia
+- Saudi Arabia
+- Saxony-Anhalt
+- St Petersburg
+- US
+- Ukraine
+- White House
+people:
+- Biden
+- Donald Trump
+- Forbes
+- Friedrich Merz
+- Jared Kushner
+- Kirill Dmitriev
+- Markus Frohnmaier
+- Steve Witkoff
+- Tahnoon bin Zayed
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- AfD
+- Affinity Partners
+- Alternative for Germany
+- Bundestag
+- EU
+- European Union
+- Gazprom
+- International Economic Forum
+- Kyiv
+- Lunate
+- Nato
+- Public Investment Fund
+- Russian Direct Investment Fund
+- Trump and Co
+- WLFI
+- World Liberty Financial
 ---
 
 The success of Germany’s far-right Alternative for Germany (AfD) in state elections could herald a disaster for Ukraine, a European victory for Vladimir Putin, and a stampede of greed over democracy orchestrated by one man.

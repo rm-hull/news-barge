@@ -13,6 +13,9 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21483843.jpg?type=og-image
+locations: []
+people: []
+organisations: []
 ---
 
 Automatically injected HTML goes here

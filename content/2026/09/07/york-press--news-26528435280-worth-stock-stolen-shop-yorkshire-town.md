@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+- Station Square
+- Whitby
+people:
+- Boyes
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

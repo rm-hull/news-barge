@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- England
+- UK
+- Wales
+people:
+- Charlotte O’Regan
+- Ms O’Regan
+organisations:
+- DeSmog
+- Department for Education
+- Sutton Trust
 ---
 
 Schoolchildren across England and Wales lost more than 15 million hours of teaching time during June's heatwave, according to new research.

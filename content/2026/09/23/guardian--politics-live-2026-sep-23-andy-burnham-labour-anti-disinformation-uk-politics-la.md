@@ -12,6 +12,109 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/ad389824956066d31100362b9f4bd5d0d3ed9967/179_0_2711_2168/master/2711.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=698525cca48ce7c647033b8710ed4358
+locations:
+- America
+- Brazil
+- Britain
+- Chagos Islands
+- China
+- Diego Garcia
+- Europe
+- France
+- India
+- Iran
+- Israel
+- Kremlin
+- London
+- Manchester
+- Mauritius
+- Moldova
+- Moscow
+- Pacific
+- Russia
+- Silicon Valley
+- Southport
+- Sweden
+- Taiwan
+- UK
+- US
+- Ukraine
+- Washington
+- West
+- Westminster
+- White House
+- Whitehall
+people:
+- AI
+- Abraham Lincoln
+- Alan Milburn
+- Andy Burnham
+- Ben Quinn
+- Beneath Burnham
+- Charles
+- Diego Garcia
+- Donald Trump
+- Emily Thornberry
+- George Orwell
+- Getty Images Burnham
+- Gordon Brown
+- Hannah Perry
+- James Cartlidge
+- John Whittingdale
+- Julia Kollewe
+- Kalyeena Makortoff
+- Keir Starmer
+- Neets
+- Nigel Farage
+- Richard Foord
+- Ryan Murphy
+- Sam Freedman
+- Sophie Williams-Dunning
+- Tom McTague
+- Tony Blair
+- Wes Streeting
+organisations:
+- AI Security Institute
+- BBC
+- CPTPP
+- Commons
+- Commonwealth
+- Confederates
+- Demos
+- European Union
+- G20
+- GB News
+- Getty Images
+- Greene King
+- Hamas
+- Labour
+- Lib Dem
+- Liberal Democrats
+- Lloyds bank
+- Milburn
+- Ministry of Information
+- MoD
+- National Centre for Information Defence
+- National Centre for Information Security
+- New Statesman
+- OECD
+- Octopus Energy
+- PA
+- PMQs
+- Press Association
+- RAF
+- RUSI
+- Reform UK
+- Royal Mail
+- Rycroft
+- Sky News
+- Streeting
+- Tories and Reform UK
+- Trump
+- UN
+- United Nations
+- Universal Images Group
+- WPA
 ---
 
 PM's new anti-disinformation unit gets cross-party backing - as Farage says it's Orwellian attack on free speech

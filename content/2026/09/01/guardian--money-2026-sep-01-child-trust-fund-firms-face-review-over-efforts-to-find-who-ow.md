@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- City
+people:
+- Chris Knight
+- Tony Blair
+organisations:
+- FCA
+- Financial Conduct Authority
+- HMRC
 ---
 
 Child trust fund providers are being put under the spotlight to check they are treating savers fairly and doing all they can to reunite young people with lost accounts.

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Lake Wausau
+- Wisconsin
+people:
+- David Crowley
+- God
+- Leonard Boltz
+- Tom Tiffany
+organisations:
+- Air Force
+- FAA
+- Federal Aviation Administration
+- Marathon County Sheriff’s Office
+- NTSB
+- National Transportation Safety Board
+- Wausau Downtown Airport
 ---
 
 Rep. Tom Tiffany expressed deep gratitude on Sunday following his survival of a terrifying late-night emergency water landing, alternating between tears and laughter as he described the ordeal. The candidate for Wisconsin governor had been riding in a small plane that crashed into a lake.

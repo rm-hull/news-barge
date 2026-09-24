@@ -13,6 +13,97 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Arizona
+- Austin
+- Australia
+- Baltimore
+- Bangkok
+- California
+- Cambodia
+- China
+- Colorado
+- D.C.
+- Europe
+- Lisbon
+- Myanmar
+- North America
+- Portugal
+- Rome
+- Singapore
+- Southeast Asia
+- Texas
+- U.S.
+- UK
+- US
+- United Kingdom
+- United States
+- Washington
+- White House
+people:
+- Alice Lin
+- Amelia Thomson-Deveaux
+- Ari Redford
+- Brian Glick
+- Chris Scott
+- Debra Fox
+- Donald Trump
+- Emily
+- Erin West
+- Huizhong Wu
+- Jesse Bedayn
+- Justin
+- Kathy Stokes
+- Kenneth Kelly
+- Kinetz
+- Linderman
+- Louise Baxter
+- Mendoza
+- Paolo Ardoino
+- Rebecca Keithley
+- Seto Bagdoyan
+- Simon
+- Susan Bivins
+- Tether
+- Wisdom Howell
+organisations:
+- AARP
+- AI
+- AP
+- AP-NORC
+- AP/FRONTLINE
+- American Bankers Association
+- Associated Press
+- Congress
+- EU
+- European Union
+- FBI Financial Crimes Section
+- FRONTLINE
+- FTC
+- Federal Trade Commission
+- Forensic Audits and Investigative Service
+- Gallup
+- Government Accountability Office
+- Home Office Joint Fraud Task Force
+- IC3
+- IRS
+- Internal Revenue Service
+- JPMorgan Chase
+- Justice Department
+- New York State Attorney General
+- Operation Shamrock
+- PBS
+- Scam Center Strike Force
+- Secret Service
+- Securities and Exchange Commission
+- TRM Labs
+- TRON
+- Tax Relief for Fraud Victims Act
+- Tether
+- The Associated Press
+- The Associated Press-NORC Center for Public Affairs Research
+- Treasury
+- Trump
 ---
 
 When Simon’s wife of 43 years passed away, it felt a bit like he’d died too.

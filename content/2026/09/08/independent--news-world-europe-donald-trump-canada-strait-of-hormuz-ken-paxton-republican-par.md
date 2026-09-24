@@ -15,6 +15,130 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bahrain
+- Canada
+- China
+- Colombia
+- Dallas
+- Denmark
+- Duane Arnold
+- Europe
+- Greenland
+- Iceland
+- Iowa
+- Iran
+- Israel
+- Jask
+- Jerusalem
+- Kansas
+- Kharg Island
+- Kremlin
+- Kuwait
+- Kyiv
+- Latin America
+- Manhattan
+- Michigan
+- Moscow
+- New York
+- New York City
+- North America
+- Oman
+- Pennsylvania
+- Persian Gulf
+- Russia
+- Saudi Arabia
+- Smithsonian
+- South Carolina
+- Strait of Hormuz
+- Tehran
+- Texas Sen
+- Trump
+- U.S.
+- UK
+- US
+- Ukraine
+- United Kingdom
+- United States
+- Venezuela
+- Washington
+- West Bank
+- Western Hemisphere
+- White House
+- Yekbeni
+people:
+- Abelardo de la Espriella
+- De la Espriella
+- Delcy Rodríguez
+- Dmitry Peskov
+- Donald Trump
+- Duane Arnold
+- Edwin Lyman
+- Elbridge Colby
+- Jack Schneider
+- James Talarico
+- Jared Huffman
+- Jared Kushner
+- Jerry Moran
+- John Cornyn
+- Joseph Morrelle
+- Ken Paxton
+- Ken Paxton Cruz
+- Lars Løkke Rasmussen
+- Lloyd Bentsen
+- Lonnie Bunch
+- Marco Rubio
+- Mark Carney
+- Nicolás Maduro
+- Orice Williams Brown
+- Robert Bothwell
+- Rudy Giuliani
+- Steve Witkoff
+- Ted Cruz
+- Todd Blanche
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yuri Ushakov
+organisations:
+- Bombardier
+- Center for Education Policy
+- DR
+- Denmark Trump
+- Duane Arnold Energy Center
+- Education Department
+- European Union
+- Federal Election Commission
+- Fox & Friends
+- Freedom 250
+- GAO
+- Gallup
+- Google
+- Government Accountability Office
+- Justice Department
+- Konstantin Toropin Justice Department
+- MAGA, Inc.
+- National Museum of American History
+- Natural Resources and House Administration
+- Natural Resources committee
+- Pentagon
+- Republican Party
+- Revolutionary Guard Navy
+- RÚV
+- Smithsonian
+- Southern District
+- State TV
+- Survivor Tree
+- Texas Senate
+- The Associated Press
+- Trump That
+- Truth Social
+- U.S. Energy Department
+- U.S. General Services Administration
+- UCS
+- Union of Concerned Scientists
+- University of Massachusetts Amherst
+- Walton Family Foundation
+- World Trade Center
 ---
 
 Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods, in response to the latest round of tariffs on Canada. The outcome could resonate far beyond Canada, showing other governments whether a smaller U.S. ally can withstand Trump’s economic pressure.

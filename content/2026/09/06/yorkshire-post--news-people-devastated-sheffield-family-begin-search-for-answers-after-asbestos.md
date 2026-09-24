@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Ecclesall Road
+- Gleadless Valley
+- Graves Park
+- Irwin Mitchell
+- Weston Park Hospital
+people:
+- Dad
+- Emma Knightley
+- Helen Harmston
+- Irwin Mitchell
+- Kerry Ford
+- Roger Knightley
+organisations:
+- Irwin Mitchell
+- J F Finnegan & Co
+- J F Finnegan & Co Ltd
+- Yorkshire
 ---
 
 # Devastated Yorkshire family search for answers after asbestos-related death of "completely devoted" dad

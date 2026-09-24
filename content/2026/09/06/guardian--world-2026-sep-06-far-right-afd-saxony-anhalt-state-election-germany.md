@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/b184393eaadd1a0bf01849ed0eb6fe17d004b1b4/2
 categories:
 - UK
 - News & Politics
+locations:
+- East Germany
+- Magdeburg Cathedral
+- Russia
+- Saxony-Anhalt
+people:
+- Friedrich Merz
+- Gerhard Feige
+- Sven Schulze
+- TikTok
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative für Deutschland
+- CDU
+- Christian Democratic Union
+- Die Linke
+- German Economic Institute
+- Greens
+- ZDF
 ---
 
 Polls have opened in the east German state of Saxony-Anhalt, where the populist, far-right, anti-immigration Alternative für Deutschland (AfD) is predicted to emerge on top in an election that could have a groundbreaking effect on Germany’s political landscape.

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- New England
+people:
+- Anthony Albanese
+- Barnaby Joyce
+- Jesus Christ
+- Jim Chalmers
+- Sussan Ley
+organisations:
+- ABC Radio National
+- Labor
+- Liberal
+- One Nation
+- Super Members Council
+- Treasury
 ---
 
 Barnaby Joyce, One Nation’s Treasury spokesperson, says his party has not modelled the potential impact on retirement incomes and inflation from his party’s plan to give millions of households early access to their super savings in his second combative interview in two days.

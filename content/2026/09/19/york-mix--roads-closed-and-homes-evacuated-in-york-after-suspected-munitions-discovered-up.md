@@ -11,6 +11,16 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-windmill-rise-suspect-bomb-19-sept-2026-main.webp
+locations:
+- Acomb Road
+- Hob Moor
+- Holgate Windmill
+- Windmill Rise
+- York
+people: []
+organisations:
+- Army
+- North Yorkshire Police
 ---
 
 Homes were evacuated in York after the discovery of suspected munitions today (Saturday).

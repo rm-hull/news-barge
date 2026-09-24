@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Catherine, Princess of Wales
+- England
+- Liverpool
+- London
+- Royal Marsden
+- Scotland
+people:
+- Catherine
+- Charlotte
+- George
+- Prince Louis
+- William
+organisations:
+- Catherine
+- Royal Marsden
+- Royal Watch
+- The Centre for Holistic Wellbeing and Recovery
 ---
 
 ![Catherine meeting nursing staff at the Royal Marsden in London](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cbb7/live/c80c76f0-add7-11f1-871b-cb14676e811d.jpg)

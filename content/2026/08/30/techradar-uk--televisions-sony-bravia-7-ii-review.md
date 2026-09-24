@@ -12,6 +12,56 @@ image: https://cdn.mos.cms.futurecdn.net/HTcRdtqVhJPTqKSovC5YoD-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Batcave
+- Batman
+- Dark City
+- Filmmaker Mode
+- Munsil
+- Nintendo
+- UK
+- US
+people:
+- Bruce
+- James Davidson
+- John
+- Lumas
+- Speed
+- Yoshi
+organisations:
+- 4K 120Hz
+- AI Voice
+- ALLM
+- AV
+- BBC iPlayer
+- Bravia 7 II
+- Bravia Pictures Core
+- Bravia Voice Remote
+- Channel 4
+- Channel 5
+- Dolby Atmos
+- Dolby Vision
+- Google TV
+- HDR
+- HDR10
+- Hisense UR8
+- IMAX
+- ITVX
+- LG C6
+- OLED
+- PS5
+- QLED
+- RGB TV
+- Read TechRadar
+- Royalton Industries
+- Samsung R95H
+- Samsung Vision AI
+- Sony TV
+- The Super Mario Galaxy Movie
+- Universal Pictures
+- VRR
+- Warner Bros
 ---
 
 ### TechRadar Verdict

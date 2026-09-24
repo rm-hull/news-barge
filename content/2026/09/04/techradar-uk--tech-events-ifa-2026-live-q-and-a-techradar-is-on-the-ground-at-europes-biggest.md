@@ -10,6 +10,22 @@ description: Hallo from Berlin!
 image: https://cdn.mos.cms.futurecdn.net/TFEVELAyM5stxNA4P4u3DQ-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- Europe
+- Germany
+people:
+- TechRadar
+organisations:
+- Berlin Congress Palace
+- CES
+- Google News
+- IFA
+- MWC
+- Marvel
+- Megazord
+- Nvidia
+- TechRadar
 ---
 
 ![View of the facade of the Berlin Congress Palace announcing the IFA trade fair in Germany on August 24, 2026.](https://cdn.mos.cms.futurecdn.net/TFEVELAyM5stxNA4P4u3DQ.jpg) 

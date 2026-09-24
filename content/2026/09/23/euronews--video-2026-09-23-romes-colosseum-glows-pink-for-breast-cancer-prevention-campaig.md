@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/48/42/1200x675_cmsv2_c9c47c98-78ad-53bb-b501-89dcedbe1992-9924842.jpg
+locations:
+- Colosseum
+- Italy
+- Rome
+people:
+- Komen Italia
+organisations:
+- Culture Ministry
+- Health Ministry
 ---
 
 The Colosseum in Rome was lit up in pink on Tuesday evening as part of a breast cancer prevention campaign.

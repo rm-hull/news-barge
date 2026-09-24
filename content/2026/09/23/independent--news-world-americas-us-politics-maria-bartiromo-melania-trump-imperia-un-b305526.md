@@ -14,6 +14,32 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/23/17/28/GettyImages-2284176154.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Manhattan
+- Wall Street
+- White House
+people:
+- Bryan Freedman
+- Fox
+- Liz Claman
+- Lynn Martin
+- Marc Beckman
+- Maria Bartiromo
+- Melania Trump
+- Stella Escobedo
+organisations:
+- Bartiromo
+- CNBC
+- Dominion Voting Systems
+- Fox Business
+- Fox News
+- IMPERIA
+- New York Stock Exchange
+- Status
+- Stock Exchange
+- Trump
+- USA TODAY
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

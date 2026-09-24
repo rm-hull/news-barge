@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- BP Pulse Arena
+- Canada
+- Dublin
+- Texas
+- UK
+people:
+- Alycia Baumgardner
+- Caroline Dubois
+- Chantelle Cameron
+- Elif Nur Turhan
+- Ellie Scotney
+- Filip Hrgovic
+- Jake Paul
+- Katie Taylor
+- Lenny Kravitz
+- Mikaela Mayer
+- Miyo Yoshida
+- Moses Itauma
+- Oshae Jones
+- Skye Nicolson
+- Tammara Thibeault
+- Tiara Brown
+- Tyron Woodley
+organisations:
+- BP Pulse Arena
+- IBF
+- MMA
+- MVP
+- The Ring
+- WBA
+- WBC
+- WBO
 ---
 
 ![Mikaela Mayer (left) and Chantelle Cameron](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3075/live/1cfb9960-a3f2-11f1-aed2-8d6da8d75094.jpg)

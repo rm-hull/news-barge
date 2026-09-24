@@ -12,6 +12,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- Hong Kong
+- London
+- New York
+- UK
+- US
+people:
+- Donald Trump
+- Shein
+organisations:
+- European Union
+- Hong Kong Stock Exchange
 ---
 
 Fast fashion giant Shein has seen its shares slide after finally launching its stock market debut at a fraction of previous valuations of the company.

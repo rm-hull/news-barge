@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Britain
+people:
+- Harry Potter
+- John Bason
+- Nigel Newton
+- Rowling
+organisations:
+- Bloomsbury
+- Google
+- J.K
+- Rowling
+- Sidgwick & Jackson
 ---
 
 Bloomsbury, the publishing house behind *Harry Potter*, has outlined a five-year succession plan for founder Nigel Newton, who has steered the company for four decades.

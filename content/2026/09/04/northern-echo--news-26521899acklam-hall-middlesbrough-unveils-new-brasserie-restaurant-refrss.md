@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Acklam Hall
+- Brasserie
+- Darlington
+- Durham
+- Far East
+- Hall Drive
+- Middlehaven
+- Middlesbrough
+- Newcastle
+- North East
+- Potto
+- Teesside
+- The Parlour
+- YOUR
+- Yarm
+people:
+- Dan Wood
+- Jacques
+- James Watson
+- William Hustler
+organisations:
+- Acklam Hall
+- Acklam Hall Ltd
+- Acklam High School
+- Brasserie
+- Kirby Girls' Grammar School
+- Middlesbrough College
+- Middlesbrough Council
+- Over Ice Business Consultants
+- Public Notice Portal
+- Teesside Restaurant Week
+- The 1683 Club
+- The Brierley
+- Tomahawk Steakhouse
 ---
 
 ### What is the Public Notice Portal?

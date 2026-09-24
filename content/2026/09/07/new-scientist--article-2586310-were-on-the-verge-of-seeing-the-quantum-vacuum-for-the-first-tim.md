@@ -12,6 +12,50 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310380555.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Chile
+- Czech Republic
+- Earth
+- Ferrara
+- Germany
+- Hamburg
+- Hungary
+- Italy
+- Milan
+- Romania
+- UK
+people:
+- Andreas Ringwald
+- David Tong
+- Felix Karbstein
+- Hans Euler
+- Hendrik Casimir
+- Julian Schwinger
+- Paul Dirac
+- Roberto Mignani
+- Tom Cowan
+- Tom Heinzl
+- Ulf Zastrau
+- Victor Weisskopf
+- Werner Heisenberg
+organisations:
+- DESY
+- European Southern Observatory
+- European X-Ray Free-Electron Laser
+- Extreme Light Infrastructure
+- HIBEF
+- Helmholtz Institute Jena
+- Helmholtz International Beamline for Extreme Fields
+- Helmholtz-Zentrum Dresden-Rossendorf
+- NASA
+- National Institute for Astrophysics
+- National Institute of Nuclear Physics
+- QED
+- University of Cambridge
+- University of Plymouth
+- VLT
+- Very Large Telescope
+- XFEL
 ---
 
 ![A person skipping stones and seeing the ripples left on a lake. The lake is abstract and looks like the night sky, full of stars](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310380555.jpg?w=840)

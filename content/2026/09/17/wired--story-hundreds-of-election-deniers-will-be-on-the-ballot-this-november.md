@@ -14,6 +14,47 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- Arizona
+- Capitol
+- Colorado
+- Georgia
+- Jefferson County
+- Michigan
+- Nevada
+- Ohio
+- Pennsylvania
+- Texas
+- US
+- White House
+- Wisconsin
+people:
+- Abdul El-Sayed
+- Amanda Gonzalez
+- Cisco Aguilar
+- David Crowley
+- Donald Trump
+- James Wiley
+- Jim Marchant
+- Joanna Lydgate
+- Joe Biden
+- Mike Rogers
+- Tom Tiffany
+- Vivek Ramaswamy
+- Wendy Weiser
+organisations:
+- Brennan Center for Justice
+- Capitol
+- Common Cause Colorado
+- Congress
+- ELLY
+- FBI
+- Michigan Senate
+- QAnon
+- States United Action
+- Trump
+- WIRED
+- Wisconsin Elections Commission
 ---
 
 On November 3, when voters across the US go to the polls, almost 200 election deniers will be on the ballot. Many of them have repeatedly undermined the very process they are participating in, and they will be looking to win some of the most powerful elected positions in the country—positions that would help determine how voting goes in future elections.

@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Algeria
+- Netherlands
+- Overasselt
+- Sierra Leone
+people:
+- Bolle Jos
+- Joerie Minses
+- Jolanda Aalbers
+- Jos Leijdekkers
+- Julius Maada Bio
+- Leijdekkers’
+- Monique Vinkesteijn
+organisations:
+- Het Parool
 ---
 
 Authorities have arrested 34 people, including French, Belgian and Algerian nationals, after a person died in a pre-dawn shootout in a Dutch village reportedly linked to a notorious drug lord.

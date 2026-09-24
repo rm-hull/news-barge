@@ -14,6 +14,39 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Broadway
+- Leeds Grand Theatre
+- Sardinia
+- Sicily
+- Spain
+people:
+- Charles Cholmondeley
+- Charlotte Hanna-Williams
+- Christian Andrews
+- David Cumming
+- Ewan Montagu
+- Ewen Montagu
+- Felix Hagan
+- Hamilton
+- Hester Leggat
+- Hester Leggatt
+- Hitler
+- Holly Sumpton
+- Jamie-Rose Monk
+- Jean Leslie
+- Jenny Arnold
+- Johnny Bevan
+- MI5
+- Matt Crockett
+- Mel Brooks
+- Natasha Hodgson
+- Ray Cooney
+- Robert Hastie
+- Sean Carey
+- Two Guvnors
+- Zoe Roberts
+organisations: []
 ---
 
 BRILLIANT, brilliant and brilliant again: Operation Mincemeat is undoubtedly prime beef masquerading as a cheap cut and, more than any show I have seen in many a year, deserved the instant standing ovation it was given by a packed house.

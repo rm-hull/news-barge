@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Airdrie
+- Barnsley
+- Billingham Baptist Church
+- Colney Hatch Lane
+- Hornsey
+- London
+- Muswell Hill
+- Muswell Hill Baptist Church
+- Stockton-on-Tees
+- UK
+- Wood Green Crown Court
+people:
+- Dominique Burrell
+- John Grant
+- Liam Levy
+organisations:
+- Broomknoll Church of Scotland
+- CPS
+- Crown Prosecution Service
+- London Baptist Association
+- Met
+- Metropolitan Police
+- Ward Green Baptist Church
 ---
 
 # Former church deacon and youth group leader jailed for sexual offences

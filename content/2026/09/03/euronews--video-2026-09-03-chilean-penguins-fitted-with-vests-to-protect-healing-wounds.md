@@ -12,6 +12,11 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Chile
+- Humboldt
+people: []
+organisations: []
 ---
 
 Care in the community has a very particular meaning for penguins in Chile. Injured Humboldt penguins are being fitted with specially designed recovery vests to protect wounds as they heal.

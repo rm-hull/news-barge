@@ -11,6 +11,114 @@ image: https://i.guim.co.uk/img/media/a12f130efd3aba9158fe4850d4a6987b3df59fdc/7
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Ballroom
+- Canada
+- Colorado
+- Detroit
+- Fayetteville
+- Fort Bragg
+- Hormuz
+- Iran
+- Jordan
+- Kharg Island
+- Lansing
+- Larak Island
+- Maryland
+- Michigan
+- Middle East
+- New Jersey
+- North Carolina
+- Northern California
+- Russia
+- Shasta County
+- Sterling Heights
+- Tehran
+- Temple Israel
+- UAE
+- US
+- Ukraine
+- United States
+- Usha Vance
+- Washington
+- Washington, D.C.
+- West Bloomfield
+- White House
+- al-Azraq
+people:
+- Abdul El-Sayed
+- Alisha Dingus
+- Chuck Schumer
+- Clint Curtis
+- Dan Driscoll
+- Diane Horvath
+- Donald Trump
+- Elena Kagan
+- Gavin Newsom
+- George Santos
+- Gretchen Whitmer
+- Hasan Piker
+- Hussein
+- JD Vance
+- Jocelyn Benson
+- John James
+- John Roberts
+- Joseph Gedeon Pete Hegseth
+- Kalshi
+- Karl B DeBlaker
+- Ketanji Brown Jackson
+- Mark Carney
+- Mike Johnson
+- Mike Rogers
+- Mike Rogers’
+- Parnell
+- Pete Hegseth
+- Randy George
+- Scott Bessent
+- Sean Parnellwrote
+- Sonia Sotomayor
+- Tina Peters
+- Usha
+organisations:
+- AFP
+- AP
+- Army
+- Building
+- Compliance Department
+- Congress
+- DC Abortion Fund
+- DCAF
+- Defense
+- EU
+- East Wing
+- Evelyn Hockstein
+- Fox News
+- Getty Images Providers
+- House of Representatives
+- Jama
+- Kalshi
+- Maga Inc
+- National Trust for Historic Preservation
+- Oval Office
+- PDS
+- Partners in Abortion Care
+- Pentagon
+- Record Searchlight
+- Reuters “Publishing
+- Saul Loeb
+- Senate
+- State of the Union
+- Supreme Court
+- TDS
+- The Wall Street Journal
+- Treasury
+- Trump
+- Truth Social
+- US Commodity Futures Trading Commission
+- United States Supreme Court
+- Washington Post
+- Yale Law School
 ---
 
 The Supreme Court issued a decision on Monday that gives Donald Trump the ability to proceed with his plans for construction of a new White House ballroom.

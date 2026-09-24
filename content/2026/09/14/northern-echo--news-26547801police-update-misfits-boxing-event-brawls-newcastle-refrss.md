@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Newcastle
+- UK
+- Utilita Arena
+people:
+- Ann Ming
+- Big Stacks
+- Jordan McCann
+organisations:
+- GOOGLE)* Police
+- Northumbria Police
 ---
 
 *(Image: GOOGLE)*

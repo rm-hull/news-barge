@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/02/06/d8ee1c57a76854d4e6506a3f03
 categories:
 - News & Politics
 - UK
+locations:
+- Hereford Justice Centre
+- Herefordshire
+- London
+- Lord Khan
+- TfL
+- Tooting
+- Ulez
+people:
+- Baron Khan
+- Digings JP
+- Gordon Ramsay
+- Lord Khan
+- Lord Sadiq Khan
+- Sadiq Khan
+organisations:
+- City Hall
+- DVLA
+- Government
+- House of Lords
+- Micra
+- SJP
 ---
 
 A car tax conviction against Lord Sadiq Khan has been formally withdrawn after a request by the DVLA.

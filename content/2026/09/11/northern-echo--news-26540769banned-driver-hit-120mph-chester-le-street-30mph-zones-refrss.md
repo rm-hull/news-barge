@@ -13,6 +13,22 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Chester-le-Street
+- Consett
+- County Durham
+- DURHAM
+- Darlington
+- Newton Aycliffe Magistrates’ Court
+- West Pelton
+people:
+- Andy Howarth
+- Bilal Havid
+- PCs Murphy
+organisations:
+- BMW
+- CCTV
+- Gers
 ---
 
 *(Image: DURHAM POLICE)*

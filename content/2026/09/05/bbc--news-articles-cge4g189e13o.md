@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+people:
+- Marc Clothier
+- Sarah Jones
+organisations:
+- Department for Transport
+- DfT
+- NRPCC
+- National Roads Policing Coordination Centre
 ---
 
 ![A male police officer stands with a notepad next to a silver car. A police car is just behind it](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cfa1/live/9b4de2e0-a91b-11f1-a3dc-e78e2c02425d.jpg)

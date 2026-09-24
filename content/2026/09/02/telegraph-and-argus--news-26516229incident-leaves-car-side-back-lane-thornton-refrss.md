@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Back Lane
+- Pixabay
+- Thornton
+- West Yorkshire
+people: []
+organisations:
+- West Yorkshire Poice
+- West Yorkshire Police** A
 ---
 
 *(Image: Pixabay)*

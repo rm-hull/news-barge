@@ -12,6 +12,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/11/02/11iStock-1176283376-db839c49.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+- Forest of Dean
+- Gloucestershire
+- Herefordshire
+- River Wye
+- Royal Lodge Hotel
+- Symonds Yat East
+- Symonds Yat Rock
+- Symonds Yat West
+- Wye Rapids House
+- Wye Valley
+people: []
+organisations:
+- Christie & Co
+- Saracens Head Inn
+- Symonds Yat East
 ---
 
 A famous corner of the Wye Valley is offering the ultimate upgrade, giving buyers the opportunity to purchase a major part of a village in one fell swoop.

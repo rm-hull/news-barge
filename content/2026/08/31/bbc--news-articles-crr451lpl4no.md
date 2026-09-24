@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- California.
+- Clara Shortridge Foltz Criminal Justice Center
+- Hollywood
+- Los Angeles
+- Los Angeles County
+- US
+people:
+- Blair Berk
+- Britney Spears
+- Celeste Rivas Hernandez
+- D4vd
+- David Anthony Burke
+- GOD
+- Harvey Weinstein
+- Lindsay Lohan
+- Marilyn Bednarski
+- Mel Gibson
+- Nathan Hochman
+- Nathan J. Hochman
+- Regina Peter
+- Walid Kandeel
+organisations:
+- BBC
+- D4vd
+- Los Angeles County Public Defender's Office
+- Tesla
+- Uber
 ---
 
 Watch: New lawyer for D4vd could take "additional time" to proceed, says district attorney

@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- Gateshead
+- Iran
+- Liverpool One
+- Madrid
+- Metrocentre
+- UK
+- West Thurrock
+people:
+- Angeline Ong
+- Oscar Garcia Maceiras
+- Susannah Streeter
+organisations:
+- Bershka
+- IG
+- Inditex
+- Lakeside
+- Lefties
+- Primark
+- Pull & Bear
+- Stradivarius
+- Wealth Club
+- Yui Mok
+- Zara
 ---
 
 Zara owner Inditex has revealed a jump in first-half profits and a strong start to its third quarter despite searing heatwaves across many of its markets.

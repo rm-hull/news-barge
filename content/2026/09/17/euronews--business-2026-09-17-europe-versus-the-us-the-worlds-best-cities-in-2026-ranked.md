@@ -14,6 +14,80 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- '### Asia'
+- '### Europe'
+- Amsterdam
+- Bengaluru
+- Berlin
+- Boston
+- Brainport
+- Budapest
+- Canada
+- Central and Eastern Europe
+- Copenhagen
+- Dublin
+- Eindhoven
+- Estonia
+- France
+- Frankfurt
+- Helsinki
+- Ho Chi Minh City
+- Istanbul
+- Kuala Lumpur
+- London
+- Los Angeles
+- Manchester
+- Netherlands
+- New York
+- North America
+- Oslo
+- Paris
+- Rome
+- San Francisco
+- San Jose
+- Seattle
+- Shanghai
+- Shenzhen
+- Stockholm
+- Taipei
+- Tallinn
+- Toulouse
+- UK
+- US
+- Vilnius
+- Warsaw
+- Western Europe
+- Zurich
+people:
+- Gerardo Gagliardo
+- Gianni Cuozzo
+- Giovanni Alberto Falcione
+- Judith Dada
+- Lennard Schmidt
+- Liam Sides
+organisations:
+- AI
+- Airbus
+- BYD
+- Brussels
+- City Services
+- EU
+- Economics and Human Capital
+- Eindhoven
+- Exein
+- Huawei
+- Langdock
+- Liebherr
+- Lisbon
+- Lyon
+- Madrid
+- Oxford Economics
+- Quality of Life
+- TSMC
+- Tencent
+- Thales
+- Toulouse
 ---
 
 ## Europe claims four places among the world’s top 10 cities for economic strength, liveability and future potential: London, Paris, Dublin and Zurich. The US accounts for five, led by New York.

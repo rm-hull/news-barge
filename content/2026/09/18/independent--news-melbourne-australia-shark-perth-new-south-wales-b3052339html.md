@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- Geraldton
+- New South Wales
+- Perth
+- Sorrento Beach
+- Sydney Harbor
+people:
+- Jac
+- Jacqui Rapaic
+- Ryan Rowe
+organisations:
+- Australian Broadcasting Corp
+- Australian Shark Incident Database
+- Flinders University
+- Taronga Conservation Society Australia
+- The West Australian
 ---
 
 A man was killed by a shark as he swam off a Western Australian city beach Friday, police said.

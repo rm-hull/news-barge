@@ -12,6 +12,19 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Dalton Mills
+- Keighley
+people:
+- Robbie Moore
+organisations:
+- Downton Abbey
+- Ilkley
+- Local Authority Emergency Planning
+- Peaky Blinders
+- WYFRS
+- West Yorkshire Fire & Rescue Service
+- West Yorkshire Fire and Rescue Service
 ---
 
 The MP for Keighley has demanded action after yet another major fire at Dalton Mills, warning "the situation cannot continue" following the fifth significant blaze at the historic site in five years.

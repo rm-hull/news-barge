@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Flyingdales Moor
+- Langdale
+people:
+- Jo Coles
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 A sharp rise in outdoor fires has put extra pressure on emergency services.

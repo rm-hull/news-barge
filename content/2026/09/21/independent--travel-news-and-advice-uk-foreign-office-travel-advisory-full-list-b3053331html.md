@@ -13,6 +13,261 @@ categories:
 - Travel
 - History
 image: https://static.independent.co.uk/2026/09/18/12/32/iStock-1053174372.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- '**Chad'
+- '**Côte d’Ivoire'
+- Abkhazia
+- Adamawa State
+- Afar
+- Afghanistan
+- Africa
+- Akkar Governorate
+- Akwa Ibom
+- Algeria
+- Amazon River
+- Amazonas State
+- Amhara
+- Anbar
+- Angola
+- Armenia
+- Asia
+- Awdal
+- Azerbaijan
+- Azerbaijan-Armenia
+- Baalbek-Hermel Governorate
+- Babil
+- Baghdad
+- Baja California
+- Bakassi Peninsula
+- Balochistan Province
+- Bangladesh
+- Bangui
+- Baqubah City
+- Barcelos
+- Basra
+- Bawku Municipality
+- Bayelsa
+- Beirut
+- Belém do Solimões
+- Benghazi
+- Benin
+- Benishangul-Gumuz
+- Beqaa Governorate
+- Berm
+- Berm’
+- Bir Tawil Trapezoid
+- Bolivia
+- Borkou
+- Borno State
+- Brazil
+- Bubanza
+- Bukinyayana
+- Burkina Faso
+- Burma
+- Burundi
+- Cabinda Province
+- Cabo Delgado
+- Cabo Delgado Province
+- Cambodia
+- Cameroon**
+- Central African Republic
+- Chapare
+- Chiapas
+- Chihuahua
+- Chin State
+- Chittagong Hill Tracts
+- Cibitoke
+- Cochabamba Department
+- Codajás
+- Colima
+- Colombia
+- Comoé National Park
+- Cross River
+- Cuba
+- Delta
+- Democratic Republic of the Congo
+- Diyala
+- Djibouti
+- Djibouti-Eritrea
+- Eastern DRC
+- Eastern Mauritania
+- Eastern Sabah
+- Ecuador
+- Ecuador-Colombia
+- Egypt
+- Egypt-Libya
+- Ene
+- Enga Province
+- Ennedi Est
+- Ennedi Ouest
+- Eritrea
+- Ethiopia
+- Europe
+- Far-North Region
+- Gambela
+- Gaza
+- Georgia**
+- Ghana
+- Gombe State
+- Guanajuato
+- Guatemala
+- Guerrero
+- H26
+- Haiti
+- Hala’ib Triangle
+- Hela
+- Ibar
+- Ijevan
+- India
+- India-Pakistan
+- Indonesia
+- Iran
+- Iraq
+- Itaquaí River
+- Jalisco
+- Jammu
+- Japurá River
+- Jenin Governorate
+- Jordan
+- Jurf al-Sakr
+- Kachin State
+- Kanem Province
+- Kashmir
+- Katsina State
+- Kayah State
+- Kayin State
+- Kenya
+- Kenya-Somalia
+- Khyber Pakhtunkhwa Province
+- Kirkuk
+- Kosovo
+- Kuwait
+- Kwamouth
+- La Democracia
+- Lake Chad
+- Laos
+- Leposavic
+- Libya
+- Likouala Region
+- Lunda Norte Province
+- M16
+- Magway
+- Mai-Ndombe Province
+- Malaysia
+- Mali
+- Mantaro River
+- Maroodijeh
+- Maysan
+- Mexico
+- Michoacán
+- Mindanao
+- Misrata
+- Mitrovica
+- Moldova
+- Mon State
+- Mount Ibu
+- Mount Lebanon Governorate
+- Mount Lewotobi Laki-Laki
+- Mount Marapi
+- Mount Ruang
+- Mount Semeru
+- Mount Sinabung
+- Mozambique
+- Mpanda
+- Mugina
+- Myanmar
+- Nabatiyeh Governorates
+- Nampula
+- Niassa
+- Niger
+- Nigeria
+- Nigeria**
+- Ninawa
+- Nokou
+- North Korea
+- North Mandalay Region
+- North Sinai Governorate
+- North-West Region
+- Northern Israel
+- Northern Zanzan
+- Noyemberyan
+- Ntahangwa
+- Occupied Golan Heights
+- Orinoco Mining Arc
+- Orinoco river
+- Oromia
+- Pacific Coast
+- Pakistan
+- Palestine
+- Papua New Guinea
+- Peru
+- Peru-Colombia
+- Philippines
+- Rakhine State
+- Republic of Congo-Central African Republic
+- Rio Negro
+- Rivers
+- Rusizi
+- Russia
+- Rwanda
+- Sadr City
+- Sagaing
+- Sahil
+- Salah al-Din
+- San Antonio Huista
+- Santa Ana Huista
+- Saudi Arabia
+- Savanes
+- Shan State North
+- Sidama
+- Sinaloa
+- Somalia
+- South America
+- South Ossetia
+- South Sudan
+- South West
+- South-West Region
+- Southern Highlands
+- Southern Tunisia
+- Sulu
+- Syria
+- Tamaulipas
+- Tanintharyi Region
+- Tanzania
+- Thailand
+- Thailand-Malaysia
+- Tibesti
+- Tigray
+- Togo
+- Transnistria
+- Tripoli
+- Tubas Governorate
+- Tulkarm Governorate
+- Tunisia-Algeria
+- Tunisia-Libya
+- Turkey
+- Turkey-Syria
+- UK
+- Ukraine
+- Valley of the Apurímac
+- Venezuela
+- Wabag District
+- Wasit
+- Western Sahara
+- Western Tunisia
+- Xaisomboun Province
+- Yemen
+- Yobe State
+- Zacatecas
+- Zamfara State
+- Zubin Potok
+- Zulia
+- Zvečan
+people: []
+organisations:
+- FCDO
+- Foreign Office
+- Foreign, Commonwealth and Development Office
 ---
 
 When planning a holiday, it’s wise to check these three things before you leave for the airport: your passport is in date, travel insurance is still valid and you’re travelling to somewhere safe according to the Foreign, Commonwealth and Development Office (FCDO).

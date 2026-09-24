@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Birmingham
+- Edgbaston
+- Harrogate
+- York
+people:
+- Daniel Machin
+organisations:
+- Edward VI High School
+- Ethelburga's College
+- QE
+- Queen Ethelburga's
+- The Telegraph
+- Yorkshire
 ---
 
 *(Image: Staff)*

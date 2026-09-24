@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- New York
+- U.S. Capitol
+people:
+- Donald Trump
+- George Santos
+- Joseph Murray
+- Kalshi
+- Santos’
+organisations:
+- Congress
+- DOJ
+- Kalshi
+- NPR
+- Polymarket
+- SOTU
+- State of the Union
+- Truth Social
+- U.S. Department of Justice
 ---
 
 Prediction platform Kalshi has handed former U.S. congressman George Santos a lifetime ban and fined him $71,356 over allegations of insider trading.

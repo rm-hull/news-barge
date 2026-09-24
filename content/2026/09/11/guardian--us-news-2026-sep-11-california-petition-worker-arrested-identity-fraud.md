@@ -12,6 +12,24 @@ image: https://i.guim.co.uk/img/media/f58713f0e41e1cb391e2afb74bb2d54069bb11af/2
 categories:
 - UK
 - News & Politics
+locations:
+- Inglewood
+- Los Angeles
+- Los Angeles’ Skid Row
+- San Francisco
+- Skid Row
+- Southern California
+- Tenderloin
+- Torrance
+people:
+- Bill Essayli
+- Brenda Armstrong
+- Courtney Price
+- James Brass
+- Jateisha Herron
+organisations:
+- Brass
+- Skid Row
 ---
 
 A California ballot petition worker has been arrested and charged with identity fraud for allegedly paying people on Los Angeles’ Skid Row to forge the signatures of registered voters.

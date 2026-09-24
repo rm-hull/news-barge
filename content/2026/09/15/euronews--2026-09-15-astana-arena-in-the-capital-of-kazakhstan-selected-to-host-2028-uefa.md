@@ -14,6 +14,23 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Amsterdam
+- Astana Arena
+- Barcelona
+- Camp Nou
+- Johan Cruyff Arena
+- Kazakhstan
+- Munich
+- Netherlands
+- Thessaloniki
+people:
+- Desire Doue
+- Khvicha Kvaratskhelia
+organisations:
+- Aston Villa
+- PSG
+- UEFA Executive Committee
 ---
 
 ## The prestigious match, UEFA Super Cup, will take place at the Johan Cruyff Arena in Amsterdam, Netherlands, in 2027, before passing the baton to Astana Arena in Astana, Kazakhstan, in 2028. Kazakhstan has obtained the chance to host such a major match, marking a historic first for the country.

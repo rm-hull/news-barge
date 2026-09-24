@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Belgorod
+- Darino
+- Kazachya Loknya
+- Kursk Region
+- Kyiv
+- Russia
+- Sudzha
+- Ukraine
+people:
+- Lyubov
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yuri Tkachev
+organisations:
+- BBC
+- Red Cross
+- Russian Red Cross
+- Territorial Defence Forces
+- United Nations
+- interior ministry
 ---
 
 ![Local resident watches a video message of her relative on the smartphone of a Chechen Akhmat battalion fighter in the village of Kazachya Loknya in March 2025](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg)

@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2025/12/06/20/409379185ae2cf50b2bcd529fd
 categories:
 - News & Politics
 - UK
+locations:
+- Bixley Farms
+- Britain
+- England
+- Norfolk
+- PA
+- Scotland
+- UK
+- Wales
+people:
+- Alistair Carmichael
+- Robbie Moore
+- Stephen Morgan
+- Vet Steve Trickey
+organisations:
+- Commons
+- Defra
+- Department for Environment, Food and Rural Affairs
+- Doreen
+- Government
+- Intervet
 ---
 
 The Conservatives have called for financial support for farmers, claiming ministers have been "asleep at the wheel" as bluetongue cases spread across the UK.

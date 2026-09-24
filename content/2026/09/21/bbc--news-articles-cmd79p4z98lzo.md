@@ -13,6 +13,20 @@ categories:
 - Arts & Culture
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bee/live/d00e7830-b5c5-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Bayeux
+- Britain
+- England
+- France
+- Gloucestershire
+- London
+- Normandy
+- Reading Museum
+- Tewkesbury Abbey
+- UK
+people: []
+organisations:
+- British Museum
 ---
 
 ![Visitors view an illuminated Bayeux Tapestry as it is displayed in a darkened exhibition room at the British Museum in London.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4bee/live/d00e7830-b5c5-11f1-abb5-85e9be42cb76.jpg)

@@ -13,6 +13,16 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- Bloomberg
+- GPU
+- JP Morgan Chase
+- Lambda
+- Microsoft
+- Nvidia GB300 GPUs
 ---
 
 Lambda, an AI cloud company that buys computing chips and rents them out to businesses, has raised $1 billion in private, short-dated debt to buy Nvidia’s AI chips that it will lease to Microsoft, Bloomberg reports.

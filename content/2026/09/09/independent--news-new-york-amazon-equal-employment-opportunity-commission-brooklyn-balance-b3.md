@@ -14,6 +14,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Amazon
+- Brooklyn
+- Lancaster
+- New Jersey
+- New York
+- Texas
+people:
+- Amazon
+- Inimai Chettiar
+- Jennifer Hatch
+- Kelly Nantel
+organisations:
+- A Better Balance
+- AP
+- Amazon
+- Associated Press’
+- Better Balance
+- Biden-era Equal Employment Opportunity Commission
+- EEOC
+- Emery Celli Brinckerhoff Abady Ward & Maazel
+- House
+- Pivotal Ventures
 ---
 
 A group of former Amazon warehouse employees is suing the company for systemically discriminating against pregnant workers, accusing the company of denying them basic accommodations and penalizing some who took breaks to pump milk or time off for hospital visits.

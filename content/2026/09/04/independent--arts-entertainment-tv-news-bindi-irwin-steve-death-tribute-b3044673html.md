@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Queensland
+people:
+- Bindi
+- Chandler Powell
+- Grace
+- Robert
+- Steve Irwin
+- Terri
+organisations:
+- Australia Zoo
+- Instagram
 ---
 
 Two decades on from the sudden death of Steve Irwin, his widow Terri and children Bindi and Robert have paid tribute to the "superhero" conservationist.

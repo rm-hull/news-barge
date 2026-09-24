@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Arts & Culture
 - True Crime
+locations:
+- Balkan
+- Balkans
+- Belgrade
+- Bosnia
+- Dayton
+- Sarajevo
+- Serbia
+- Srebrenica
+- The Hague
+- Varadinski Bridge
+- Yugoslavia
+people:
+- Amel
+- António Guterres
+- Džemil Hodžić
+- Emir Suljagić
+- Gen Ratko Mladić
+- Milorad Dodik
+- Ratko Mladic
+- Vojislav Šešelj
+- Waqar Azmi
+- Zoran Kusovac
+organisations:
+- Dnevni Avaz
+- Guardian
+- Observer
+- Remembering Srebrenica
+- Sniper Alley
+- Srebrenica Memorial
+- UN
 ---
 
 To most of the world, he was and will always be the “Butcher of Bosnia”, a grim epithet but one that still fails to fully convey the evil and horror inflicted on its people by Gen Ratko Mladić, who died in prison on Thursday.

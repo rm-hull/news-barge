@@ -15,6 +15,70 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Amazon
+- Australia
+- Brandenburg Gate
+- Britain
+- Canada
+- Canada.
+- East Jerusalem
+- Europe
+- Gaza
+- Iran
+- Israel
+- Jordan
+- Kansas City
+- Kremlin
+- Lake America
+- Lake Ontario
+- Logroño
+- Miami
+- Middle East
+- Missouri
+- Moscow
+- Poland.
+- Quebec
+- Saudi Arabia
+- South America
+- South Park
+- Spain.
+- UK
+- US
+- Ukraine
+- West Bank
+- White House
+- Yemen
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Brett Kavanaugh
+- Centom
+- Charlie Kirk
+- Donald Trump
+- Ed Miliband
+- Emanuel Cleaver
+- Guy Campanile
+- Jillian Pretzel
+- Kevin Parker
+- Kevin Parker.
+- Marion Kozak
+- Mike Huckabee
+- Rafael Behr
+- Yevhenii Khmara
+organisations:
+- Apple
+- Congress
+- EU
+- Google
+- Guardian
+- House of Commons
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Kyiv
+- Labour
+- Tame Impala
+- Trump
 ---
 
 Good morning. Clashing court rulings plunged Missouri’s congressional elections into uncertainty less than two months before the November midterms that will decide which party controls a closely divided Congress.

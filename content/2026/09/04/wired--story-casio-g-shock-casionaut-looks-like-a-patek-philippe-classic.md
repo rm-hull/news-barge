@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Lifestyle & Fashion
+locations:
+- Instagram
+people:
+- Audemars Piguet
+- Barack Obama
+- Casio
+- Gérald Genta
+- Napoleon Dynamite
+- Patek Philippe
+organisations:
+- AP
+- CasiOak
+- Casio
+- F-91W
+- G-Shock
+- Nautilus
+- Royal Oak
+- Royal Pop
+- Swatch
+- WIRED
 ---
 
 The high-end watch world has an understandable affection for Casio. You can easily rock an iconic, brightly colored F-91W in any meeting with a luxury brand, and you'll get nods of approval. It is, after all, the watch that has graced the wrists of Barack Obama and Napoleon Dynamite.

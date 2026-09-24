@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A19
+- County Durham
+- Faulds'
+- Oxford Street
+- Stanley
+- Teesside Crown Court
+people:
+- Annelise Haugstad
+- Faulds’
+- Laura Lewis
+- Mark Faulds
+- Nurse
+- Woman
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

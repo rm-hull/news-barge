@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Dix
+- Goldilocks zone
+- Nepal
+- Nepal-Tibet
+- Trishuli 3A
+- Trishuli 3A Hydropower Station
+people:
+- Arnold Dix
+- Kabir Maharjan
+- Sanjaya Shah
+organisations:
+- BBC
+- International Tunnelling and Underground Space Association
 ---
 
 Watch: Moment workers are rescued from Nepal tunnel

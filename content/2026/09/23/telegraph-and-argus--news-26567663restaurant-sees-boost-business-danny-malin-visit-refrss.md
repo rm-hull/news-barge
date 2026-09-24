@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21480871.jpg?type=og-image&yType=18
+locations:
+- BRADFORD
+- Bradford
+- Wilton Street
+- YouTube
+people:
+- Abrar Hussain
+- Bradford
+- Danny Malin
+organisations:
+- Bradford
+- Des N Pardes
 ---
 
 *(Image: Danny Malin / YouTube)*

@@ -11,6 +11,72 @@ image: https://i.guim.co.uk/img/media/1e2c96c53b83da24d8e9c5dfb5d68c8b66e52e0b/5
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Asia
+- Australia
+- Canberra
+- Davos
+- Europe
+- Israel
+- London
+- Melbourne
+- New Zealand
+- Sydney
+- UK
+- US
+- Victoria
+- Washington DC
+- West Bank
+people:
+- Andrew Hall
+- Andrew Hastie
+- Barnaby Joyce
+- Ben Roberts-Smith
+- Donald Trump
+- Emily Thornberry
+- Gina Rinehart
+- Hilary Wardhaugh
+- Julian Hill
+- Kevin Rudd
+- Krishani Dhanji
+- Malinauskas Peter Malinaukas
+- Mark Carney
+- Pauline Hanson
+- Penny Wong
+- Peter Malinauskas
+- PeterMalinauskas
+- Rudd Tom McIlroy
+- Sia Duff
+organisations:
+- ABC
+- ABC’s AM
+- APEC
+- Australian Institute of International Affairs
+- Border Force
+- Coalition
+- G20
+- Getty Images
+- Getty Images Hastie
+- Guardian Australia
+- House of Commons
+- ICA
+- IMF
+- ISA
+- Insurance Council of Australia
+- Insurance Statistics Australia
+- Labor
+- Liberal
+- National Press Club
+- News24 Hanson
+- One Nation
+- Pacific Islands Forum
+- RN Breakfast
+- Reuters Australia
+- SAS
+- UN
+- United Nations
+- World Bank
 ---
 
 Liberal MP and SAS veteran Andrew Hastie told RN Breakfast on Thursday that One Nation’s cartoon attacked not just him but all veterans. Photograph: Hilary Wardhaugh/Getty Images

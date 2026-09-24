@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Austin
+- India
+- New York City
+- St. Louis
+- Texas
+- U.S.
+people:
+- Robert Patrick
+- Siddharth Jawahar
+- Travis Kelce
+- Zachary Bluestone
+organisations:
+- Eastern District of Missouri
+- FBI
+- Forbes
+- Jawahar’s
+- KMOV-TV
+- Kansas City Chiefs
+- Kelce
+- Ponzi
+- Swiftarc Capital LLC
+- U.S. Attorney's Office
 ---
 
 The creator of a Texas-based investment company has been sentenced to 11 years in federal prison for his role in a Ponzi scheme that prosecutors say bilked 64 victims, including Kansas City Chiefs tight end Travis Kelce.

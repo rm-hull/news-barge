@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+- Texaco Killinghall Road
+people: []
+organisations:
+- Asda Little Horton Automat
+- Asda Pudsey
+- Asda West Bradford Automat
+- Morrisons Enterprise
+- School Service Station
+- Tesco Bradford Buttershaw
+- Tesco Bradford Extra
+- Texaco Richardshaw Lane
+- Texaco Shipley
+- Thorpe Service Station
+- Undercliffe Service Station
 ---
 
 *(Image: Archive)*

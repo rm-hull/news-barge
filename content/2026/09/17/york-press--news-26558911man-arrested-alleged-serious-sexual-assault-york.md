@@ -14,6 +14,13 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- Church Lane
+- Spurriergate
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ## Our live feed has now finished.

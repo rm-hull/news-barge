@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Inglewood Drive
+- Leeds
+- Seacroft
+- YOUR
+people: []
+organisations:
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: Google)*

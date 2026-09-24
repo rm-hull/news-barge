@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bab al-Mandab
+- Hormuz
+- Kingdom
+- Mecca
+- Middle East
+- Red Sea
+- Saudi Arabia
+- US
+- Yemen
+people:
+- Hazem al-Assad
+- Malki
+- Turki al-Malki
+organisations:
+- Agence France-Presse
+- Organisation of Islamic Cooperation
+- Reuters
 ---
 
 Saudi Arabia’s air defences intercepted and destroyed a Houthi drone south of Mecca on Tuesday before it entered prohibited airspace over the holy city, according to a spokesperson for the Saudi-led military coalition which is fighting the Iran-aligned group in Yemen.

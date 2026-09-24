@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Boroughbridge
+- Brimham Rocks
+- Britain
+- England
+- Plumpton Rocks
+people:
+- Anthony Clarke
+- Jim Leary
+organisations:
+- Devil’s Arrows
+- Plumpton Rocks
+- Royal Society A
+- University of York
 ---
 
 Prehistoric builders brought 25-tonne stones from at least 18km away to build Britain’s iconic Devil’s Arrows, archaeologists noted in a new study.

@@ -13,6 +13,22 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations:
+- Harrogate
+- Ripley Castle
+- Victoria
+people:
+- Victoria Kirkman
+organisations:
+- Department for Education
+- Federation of Beckwithshaw
+- Forest School
+- Kettlesing and Ripley Church of England Primary Schools
+- RHS Garden Harlow Carr
+- Ripley Church of England Primary Schools
+- Royal Hall
+- The Federation of Beckwithshaw
+- The Federation of Beckwithshaw, Kettlesing
 ---
 
 # Harrogate federation of small village schools 'at forefront of national education improvments'

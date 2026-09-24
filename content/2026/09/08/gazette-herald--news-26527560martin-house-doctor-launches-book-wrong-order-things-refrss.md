@@ -14,6 +14,13 @@ categories:
 - York
 - Society & Culture
 - Arts & Culture
+locations:
+- Thirsk
+- White Rose Book Café
+people:
+- Michelle Hills
+organisations:
+- Martin House Children's Hospice
 ---
 
 *(Image: Martin House Children's Hospice)*

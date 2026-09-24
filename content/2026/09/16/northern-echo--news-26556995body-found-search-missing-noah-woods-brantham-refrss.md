@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brantham
+- Decoy Pond
+- Merriam Close Playground
+- Suffolk
+people:
+- Noah Woods
+- Tom Pearse
+organisations: []
 ---
 
 *(Image: Suffolk police)*

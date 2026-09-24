@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
 categories:
 - Technology & Software
 - Relationships & Dating
+locations:
+- North London
+people:
+- BRUCE SPRINGSTEEN
+- Elton John
+- Fred
+- Johnny
+- KRYPTON
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+- Wordle
+organisations:
+- '### Yesterday'
+- AGENDA
+- Channel 5
+- DIGEST
+- JOURNAL
+- NYT Connections
+- New York Times
+- PLANNER
+- Pop Detective
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg) 

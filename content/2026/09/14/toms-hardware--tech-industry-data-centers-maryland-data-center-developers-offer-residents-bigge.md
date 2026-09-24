@@ -15,6 +15,37 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Frederick County
+- Homer City
+- Maryland
+- Mount Pleasant
+- Pennsylvania
+- US
+- Virginia
+- Wisconsin
+people:
+- Stephen Warwick
+- Tom
+organisations:
+- AI
+- AWS
+- Aligned Data
+- Amazon
+- American Transmission Co.
+- Apple
+- Big Tech
+- Frederick Digital Campus
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Oracle
+- TechRadar
+- Tom's Hardware
+- We Energies’
+- hotaru251
+- iMore
 ---
 
 ![AI data center](https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn.jpg) 

@@ -15,6 +15,44 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- England
+- Finch Farm
+- Nottingham Forest
+- Preston North End
+- Vitality Stadium
+- West Ham
+people:
+- Bryan Gray
+- Charly Alcaraz
+- David Moyes'
+- Declan Rice
+- Everton
+- Forest
+- Harrison Armstrong
+- Iliman Ndiaye
+- Joleon Lescott
+- Mikel Arteta
+- Moyes
+- Philip Carter
+- Scot
+- Seamus Coleman
+- Tarkowski
+- Wayne Rooney
+organisations:
+- BBC Sport
+- Bournemouth
+- Cherries
+- EFL
+- Everton
+- Manchester City
+- Nottingham Forest
+- Premier League
+- Preston
+- Sky Sports
+- TFG
+- The Friedkin Group
+- Toffees
 ---
 
 Tarkowski strikes late to rescue draw for Everton at Bournemouth

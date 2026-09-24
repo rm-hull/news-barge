@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- Barnard Castle Conservation Area
+- County Durham
+- Market Place
+- Sanders Cove
+- Windermere
+people:
+- Barnard Castle
+- Holly Sanderson
+- Ian Sanderson
+- Stephen Reed
+- Stuart Boulton
+organisations:
+- Barnard Castle
+- County Durham
+- Durham County Council
+- Reform UK
 ---
 
 *(Image: Stuart Boulton)*

@@ -13,6 +13,19 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Science
+locations:
+- Minecraft
+- Poland
+people:
+- Elon Musk
+organisations:
+- Bitcoin
+- Cryptocurrency
+- DeFi
+- GPU
+- Get Tom's Hardware
+- Liquid Network
+- Pearl
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/gHmhFGMn3m34gQvLf5YwE5-320-80.jpg)

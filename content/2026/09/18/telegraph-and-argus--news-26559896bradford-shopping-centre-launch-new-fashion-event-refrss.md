@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Broadway
+people:
+- Ian Ward
+organisations:
+- Bradford
+- The Broadway
 ---
 
 *(Image: Supplied)*

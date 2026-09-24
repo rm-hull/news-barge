@@ -13,6 +13,46 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Al-Shifa Hospital
+- Gaza City
+- Israel
+- Mansoura
+- Nuseirat
+- Palestine
+- Royal Holloway
+- Strip
+- UK
+- US
+- Yellow Line
+- al-Tuffah
+people:
+- Acled
+- Benedict Garman
+- Donald Trump
+- Emily Tripp
+- Hugh Lovatt
+- James Elder
+- Lamees Altalebi
+- Michael Spagat
+- Paul Brown
+organisations:
+- Acled
+- Aid Worker Security Database
+- Airwars
+- Al-Awda Hospital
+- Armed Conflict Location and Event Data
+- BBC Verify
+- European Council on Foreign Relations
+- Every Casualty Counts
+- Hamas
+- IDF
+- Islamic Jihad
+- Israel Defense Forces
+- Ministry of Health.
+- UN
+- Unicef
+- University of London
 ---
 
 ![Citizens and relatives of the Palestinians, killed in an Israeli drone strike targeting a beachfront cafe in the port area west of Gaza City, attend the funeral prayer at Al-Shifa Hospital in Gaza City, Gaza, Palestine on August 19, 2026. Several men help to carry a body inside a white covering and walk past rubble. The image is seen inside a blue BBC Verify frame.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg)

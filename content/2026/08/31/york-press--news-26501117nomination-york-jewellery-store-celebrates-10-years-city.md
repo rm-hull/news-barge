@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - History
+locations:
+- '## York'
+- Italy
+- Low Petergate
+- UK
+people:
+- Covid
+- Heather Wilson
+- Heather Wilson Brown
+- Ken Brown
+- Paolo Gensini
+- Valentina Ruiu
+organisations:
+- Nomination York
 ---
 
 ## York jewellery shop celebrates 10 years of growth in heart of the city

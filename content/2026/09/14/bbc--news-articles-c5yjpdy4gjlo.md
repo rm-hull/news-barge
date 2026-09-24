@@ -11,6 +11,32 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10bf/live/6758e8
 categories:
 - UK
 - News & Politics
+locations:
+- Capitol Building
+- North America
+- UK
+- US
+- White House
+- White House.
+people:
+- Anthony Zurcher
+- Brett Kavanaugh
+- Carl Nichols
+- Clarence Thomas
+- Donald Trump
+- Indira Talwani
+- Justice Kavanaugh
+- Samuel Alito
+organisations:
+- Congress
+- Postal Service
+- Supreme Court
+- Trump
+- US Politics Unspun
+- US Postal Service
+- US Supreme Court
+- USPS
+- Washington DC
 ---
 
 ![File image of US President Donald Trump speaking into a microphone](https://ichef.bbci.co.uk/ace/standard/861/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg)

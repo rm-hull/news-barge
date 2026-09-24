@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- US
+- White House
+people:
+- Donald Trump
+- Kevin Warsh
+organisations:
+- Committee
+- Congress
+- Fed
+- Pew Research Center
+- Trump
+- US Federal Reserve
+- University of Michigan
 ---
 
 The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation.

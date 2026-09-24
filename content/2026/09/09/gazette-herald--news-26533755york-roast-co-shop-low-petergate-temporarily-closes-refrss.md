@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Chester
+- York
+- Yorkshire
+people: []
+organisations:
+- Low Petergate
+- Stonegate
+- York Roast Co
+- York Roast Co.
 ---
 
 A POPULAR sandwich shop in York city centre has "temporarily" closed its doors.

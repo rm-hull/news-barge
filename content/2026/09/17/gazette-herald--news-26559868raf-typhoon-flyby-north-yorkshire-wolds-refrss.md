@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Helmsley
+- Lincolnshire
+- Middleton-on-the-Wolds
+- Pocklington
+- RAF Coningsby
+- York
+people: []
+organisations:
+- Eastbourne Borough Council
+- Royal Air Force
+- Yorkshire Wolds
 ---
 
 *(Image: Eastbourne Borough Council )*

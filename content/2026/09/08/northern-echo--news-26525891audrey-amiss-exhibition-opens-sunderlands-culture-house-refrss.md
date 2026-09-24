@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Auckland
+- England
+- Fulwell
+- London
+- North East
+- Roker
+- Seaburn
+- Sunderland
+people:
+- Audrey Amiss
+- Edison
+organisations:
+- Beach Scene
+- Bede Grammar School for Girls
+- Culture House
+- Kitchen Sink Realism
+- Northern Gallery for Contemporary Art
+- Royal Academy
+- Royal Academy School of Art
+- School of Media and Creative Industries
+- Sunderland College of Art
+- University of Sunderland
+- Wellcome Collection
 ---
 
 *(Image: Wellcome Collection, London)*

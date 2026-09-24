@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Barmby Moor
+- Pocklington
+- Sycamore Gap
+- York
+people:
+- Chris Mitchell
+- Jill Quinn
+- Linda Johnson
+- Roly Cronshaw
+organisations:
+- Dementia Forward
+- East Riding of Yorkshire Council
+- Lavender Fields Care Village
 ---
 
 A sapling from the well-known Sycamore Gap tree will be planted at a care village near York.

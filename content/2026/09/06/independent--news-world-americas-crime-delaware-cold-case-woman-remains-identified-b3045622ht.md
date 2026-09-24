@@ -14,6 +14,28 @@ categories:
 - History
 - True Crime
 - Society & Culture
+locations:
+- Delaware
+- New Castle County
+- Philadelphia
+- Riverview Cemetery
+- Sellers Park
+- Wilmington
+people:
+- Graham Kleitz
+- Graham Kletiz
+- Hannah Graham Kleitz
+- Joe Mullins
+- Richard Chambers
+organisations:
+- Cold Case Squad
+- Facebook
+- George Mason University
+- New Castle County Division of Police
+- New Castle County Police
+- The Independent
+- WPVI
+- Wilmington Police Department
 ---
 
 Police in Delaware have identified the remains of a woman who died in 1907 after her skull was found 15 years ago.

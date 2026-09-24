@@ -14,6 +14,27 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Britain
+- London
+- PA
+- UK
+- US
+people:
+- Anas Sarwar
+- Andy Burnham
+- John Healey
+- Leon Neal
+- Michelle Ovens CBE
+- Shevaun Haviland
+organisations:
+- BCC
+- British Chambers of Commerce
+- Department of Business, Innovation, Science and Trade
+- Great British Pitch USA
+- NICs
+- National Insurance Contribution
+- Small Business Britain
 ---
 
 A major business organisation has urged Andy Burnham to scrap the state pension triple lock, claiming it would save over £3bn across just two years.

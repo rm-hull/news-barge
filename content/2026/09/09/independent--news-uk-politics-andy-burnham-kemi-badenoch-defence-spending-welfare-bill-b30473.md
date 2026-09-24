@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Chagos Islands
+- Downing Street
+- Mauritius
+- UK
+people:
+- Andy Burnham
+- Kemi Badenoch
+- ’s Questions
+organisations:
+- Conservatives’
+- House of Commons
+- Labour
+- Nato
+- Tories
+- Tory
 ---
 
 Andy Burnham has insisted he won’t raise defence spending at the “expense of social security”, in the latest indication that he won’t cut the welfare bill to boost national security.

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- New York
+- New York City
+- Paris
+people:
+- Anna Wintour
+- Hitler
+- John Galliano
+- Jonathan Greenblatt
+- Julie Menin
+organisations:
+- Anti-Defamation League
+- Dior
+- Margiela
+- Met
+- Met's Costume Institute
+- Metropolitan Museum of Art
+- New York City Council
+- Vogue
 ---
 
 ![John Galliano attends The 2019 Met Gala Celebrating Camp: Notes on Fashion at Metropolitan Museum of Art on May 06, 2019 in New York City](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/87bf/live/7e3a5850-a547-11f1-8689-6589354d0f8e.jpg)

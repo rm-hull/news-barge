@@ -13,6 +13,26 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/18/11/Nigeria_Miners_Deaths_27477.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Niger
+- Nigeria
+people:
+- God
+- Kehinde Giwa
+- Lawan Mohammed
+- Mubarak Dahiru
+- Olubunmi Tunji-Ojo
+- Oyinkansola Badejo-Okusanya
+- Saba Usman
+- Sulieman
+- Umar Bago
+- Usman Whalid
+organisations:
+- NSCDC
+- National Human Rights Commission
+- Nigeria Security and Civil Defense Corps
+- Nigerian Bar Association
+- SBM Intelligence
 ---
 
 Lawan Mohammed is distraught over the death of his 25-year-old son Sulieman who was found dead in the custody of a Nigerian security agency in the north-central region of the country.

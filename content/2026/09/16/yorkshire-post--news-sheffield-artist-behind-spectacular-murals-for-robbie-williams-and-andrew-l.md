@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Robbie Williams
+- Sheffield
+- Sri Lanka
+- Sydmonton Court
+- UK
+people:
+- Andrew Lloyd Webber
+- Mel Holmes
+- Robbie Williams
+organisations:
+- Mel Holmes Design Ltd
+- Norwich School of Art
 ---
 
 # Sheffield artist behind spectacular murals for Robbie Williams and Andrew Lloyd Webber

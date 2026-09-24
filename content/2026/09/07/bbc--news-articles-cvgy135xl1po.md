@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cheslyn Hay
+- Essington Branch Canal Local Nature Reserve
+- Great Wyrley
+- Staffordshire
+- Staffordshire.
+- Stone
+- Strawberry Lane
+- Walsall
+- Wolverhampton
+people:
+- Gavin Williamson
+- Josh Lee
+- Penkridge
+- Robert Duncan
+- Samantha Hagerman
+organisations:
+- Cannock Chase Methodist Church Circuit
+- Facebook
+- South Staffordshire Council
+- Staffordshire Police
 ---
 
 ![A blue gazebo with white writing on it is a woodland area. Further into the woodland is a light-coloured tent. There is blue and white police tape around the scene.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d032/live/aeaca780-aab1-11f1-bdcc-b5edf6495ed5.jpg)

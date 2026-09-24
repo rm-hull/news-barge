@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Real Estate
+locations:
+- North Yorkshire
+people:
+- Simon Myers
+organisations:
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fb45ea2e92608eb1.jpg) 

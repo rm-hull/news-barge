@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Billingham Baptist Church
+- Colney Hatch Lane
+- County Durham McDonald's
+- Hornsey
+- London
+- North East
+- Wood Green Crown Court
+people:
+- Elsa Mak
+- John Grant
+organisations:
+- Metropolitan Police
 ---
 
 Footage of the arrest of a former North East church leader who preyed on vulnerable young men has been release after he was jailed.

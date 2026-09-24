@@ -12,6 +12,97 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Amsterdam
+- Athens
+- Austria
+- Barcelona
+- Belfast
+- Belgium
+- Berlin
+- Boston
+- Bratislava
+- Brighton
+- Bristol
+- Britain
+- Brussels
+- Bucharest
+- Budapest
+- Bulgaria
+- Canary Islands
+- Cardiff
+- Copenhagen
+- Croatia
+- Cyprus
+- Czechia
+- Denmark
+- Dublin
+- Edinburgh
+- Estonia
+- Europe
+- Finland
+- Florence
+- France
+- Frankfurt
+- Germany
+- Greece
+- Hamburg
+- Helsinki
+- Hungary
+- Ireland
+- Italy
+- Koln
+- Las Palmas
+- Latvia
+- Lisbon
+- Lithuania
+- Ljubljana
+- London
+- Luxembourg
+- Lyon
+- Madrid
+- Malaga
+- Malta
+- Manchester
+- Marseille
+- Milan
+- Munich
+- Netherlands
+- New York City
+- Nicosia
+- Paris
+- Poland
+- Portugal
+- Prague
+- Riga
+- Romania
+- Rome
+- Rotterdam
+- San Francisco
+- Slovakia
+- Slovenia
+- Sofia
+- Spain
+- Stockholm
+- Sweden
+- Tallinn
+- UK
+- Utrecht
+- Valencia
+- Valletta
+- Vienna
+- Vilnius
+- Warsaw
+- Zagreb
+people:
+- Joe Wilson
+organisations:
+- Barcelona
+- Brighton
+- Bristol
+- Edinburgh
+- Manchester
+- Milan
 ---
 
 Soaring rental prices mean British cities are more expensive to live than some of Europe’s most popular destinations – with Manchester now more costly than Milan.

@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- BRADFORD
+- Manningham
+- Thornville Court
+people:
+- '## Man'
+- Ella Anderson
+- Pixabay
+- Soheil Khan
+- Tariq Mahmood
+organisations:
+- Bradford Crown Court
 ---
 
 *(Image: Pixabay)*

@@ -13,6 +13,28 @@ image: https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Harris
+- Jensen Huang
+organisations:
+- AI
+- ASIC
+- AWS
+- Amazon Web Services
+- Anthropic
+- DGX Spark
+- Dion Harris
+- Google
+- HPC
+- MediaTek
+- Microsoft
+- NVIDIA
+- NVLink Fusion
+- Nvidia
+- OpenAI
+- PC
+- RTX Spark
 ---
 
 Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers that can be plugged directly into Nvidia-based data centers.

@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people: []
+organisations:
+- AP
 ---
 
 A look at everyday moments across countries, cultures and communities worldwide.

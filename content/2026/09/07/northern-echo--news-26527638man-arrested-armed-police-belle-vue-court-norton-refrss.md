@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Belle Vue Court
+- Norton
+- Teesside
+people:
+- Paul Edmonds
+organisations:
+- A66
+- Cleveland Police
+- PA MEDIA
+- Stockton CID
 ---
 
 *(Image: PA MEDIA)*

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- India
+- New York
+- Ohio
+people:
+- Candy
+- Gandhi
+- Gloria Steinem
+- Terry Southern
+organisations: []
 ---
 
 Gloria Steinem died just weeks before the release of her latest memoir, “An Unexpected Life.” She was 92, but gave no indication in the book that it would be her last.

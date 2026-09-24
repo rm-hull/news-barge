@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21474873.jpg?type=og-image&xType=0&yType=249
+locations:
+- Albert Road
+- Consett
+- County Durham
+- Front Street
+- Medomsley Road
+- Subway
+people:
+- Joshua Nichol
+organisations:
+- Durham Police
+- The Northern Echo
 ---
 
 Police have issued an update after a County Durham street was cordoned off yesterday (September 18) afternoon, with officers combing the surrounding streets as part of an investigation.

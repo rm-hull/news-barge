@@ -14,6 +14,52 @@ categories:
 - Science
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- DC
+- New York
+- The Atlantic
+people:
+- Al Sharpton
+- Chris Hayes
+- Fox
+- Jen Psaki
+- Lawrence O'Donnell
+- Lawrence O’Donnell
+- Michael Steele
+- Nicolle
+- REBECCA KUTLER
+- Rachel Maddow
+- Rebecca Kutler
+- Stephanie Ruhle
+- Symone Sanders
+- Townsend
+- Wallace
+organisations:
+- ABC News
+- Axios
+- CBS News
+- CNBC
+- CNN
+- Comcast
+- E!—
+- Fox News
+- Instagram
+- MS NOW
+- MS NOW Membership
+- MSNBC
+- NBC News
+- NBCUniversal
+- NPR
+- Paramount Skydance
+- Politico
+- Republican National Committee
+- Spotify
+- TikTok
+- Trump
+- Versant
+- WIRED
+- Warner Bros
+- Washington Post
 ---
 
 Even if you’re a casual consumer of MS NOW, formerly MSNBC, you know the names: anchors like Chris Hayes, Stephanie Ruhle, and yes, the one and only Rachel Maddow. The network has built a stable of talent who’ve amassed a massive number of casual viewers, plenty of fans … and more than a few obsessives.

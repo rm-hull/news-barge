@@ -12,6 +12,57 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baltic Sea
+- Copenhagen
+- DC
+- Denmark
+- Europe
+- Iran
+- Kremlin
+- Kyiv Russia
+- Manhattan
+- Middle East
+- Moscow
+- New York
+- Poland
+- US
+- Ukraine
+- United Russia
+- United States
+- Washington
+people:
+- '## Zelensky'
+- Alex Ovechkin
+- Alexander Ovechkin
+- Boris Johnson
+- Freyja
+- James C Barnacle
+- Jeppe Bruus
+- Jr
+- Matthias Schmale
+- Sergey Kocharov
+- Sergey Lavrov
+- Vladimir Barbin
+- Vladimir Putin
+- Volodymyr Zelensky
+- Wladyslaw Kosiniak-Kamysz
+- Zelenskiy
+organisations:
+- 18th Engineer Regiment
+- Border Guard
+- FBI
+- Facebook
+- Kyiv
+- National Hockey League
+- Nato
+- RIA
+- Reuters
+- Russian Intelligence Services
+- Telegram
+- UN
+- Washington Capitals
+- World Health Organisation
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/xqRbAG0G/poster.jpg?width=720)

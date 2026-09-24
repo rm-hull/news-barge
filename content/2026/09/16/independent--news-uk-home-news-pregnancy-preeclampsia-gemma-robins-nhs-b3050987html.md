@@ -11,6 +11,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Brighton
+- Guildford
+- Royal Surrey County Hospital
+- Royal Sussex Hospital
+- West Sussex
+- Worthing Hospital
+people:
+- Bill Jewsbury
+- Caesarean
+- Gemma Robins
+- Leigh Day
+- Liza Robins
+- Meg George
+- Ms Robins
+- Ms Robins’
+- Paul
+- Penelope Schofield
+organisations:
+- Brighton
+- Court
+- Disney
+- Hove
+- NHS Trusts
+- Royal Surrey NHS Foundation Trust
+- The Inquest
+- University Hospitals Sussex NHS Foundation Trust
 ---
 
 A coroner has raised concerns about how hospitals communicate with one another after the death of a new mother.

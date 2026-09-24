@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/8yF8WU6yFgfnDoefNwBq4-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- London
+people:
+- Andrea Dona
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- NTQ
+- NTQs
+- National Rail, Underground
+- Overground
+- TechRadar Pro
+- VodafoneThree
 ---
 
 ![London](https://cdn.mos.cms.futurecdn.net/8yF8WU6yFgfnDoefNwBq4.jpg) 

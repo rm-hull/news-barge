@@ -14,6 +14,11 @@ categories:
 - UK
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- Singapore
+people:
+- Lawrence Wong
+organisations: []
 ---
 
 Singapore’s ministers, already among the world's highest paid, are getting a raise for the first time in 15 years, Prime Minister Lawrence Wong said, explaining the government cannot attract top talent into politics if salaries remain unchanged.

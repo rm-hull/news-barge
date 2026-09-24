@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Ahmedabad
+- America
+- Coachella
+- Europe
+- India
+- London
+- Narendra Modi Stadium
+- Punjab
+- UK
+- US
+- Wembley Stadium
+people:
+- Amit
+- Diljit Dosanjh
+- Ed Sheeran
+- Harry Styles
+- Hass Hass
+- Jimmy Fallon
+- Lover
+- Madonna
+- Michael Jackson
+- Rani
+- Taylor Swift
+organisations:
+- BBC
+- Bhangra
+- Coldplay
+- Punjabi Aa Gaye Oye!
+- Punjabi Aa Gaye Wembley Oye
+- Sia
 ---
 
 ![Diljit Dosanjh performing at Wembley Stadium against a red backdrop](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7f3f/live/b16a3260-aefa-11f1-bc1f-3f186ca4140c.jpg)

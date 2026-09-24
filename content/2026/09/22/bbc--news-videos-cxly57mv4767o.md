@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0af9/live/e93b1d50-b6b4-11f1-8448-334c53ba4316.jpg
+locations:
+- Chagos
+- New York
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+organisations: []
 ---
 
 # Burnham 'gets it' says Trump, as the two leaders meet for first time

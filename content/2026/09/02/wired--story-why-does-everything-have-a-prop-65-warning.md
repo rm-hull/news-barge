@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Science
 - Personal Finance & Investing
+locations:
+- California
+- Irvine
+people:
+- MD
+- Mariana C. Stern
+- Megan Schwarzman
+- ScD
+- Shahir Fouad Masri
+- Tina Cox
+organisations:
+- Amazon
+- CIC
+- Carcinogen Identification Committee
+- DARTIC
+- FDA
+- Facebook Marketplace
+- Googling
+- Keck School of Medicine
+- OEHHA
+- Office of Environmental Health Hazard Assessment
+- PhD
+- Proposition 65 Implementation Program
+- Reproductive Toxicant Identification Committee
+- Target
+- UC Berkeley’s School of Public Health
+- US Food and Drug Administration
+- University of California
+- University of Southern California
 ---
 
 My first encounter with a Prop 65 warning was on the back of my TV.

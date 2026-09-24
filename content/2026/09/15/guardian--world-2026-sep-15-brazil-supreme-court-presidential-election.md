@@ -12,6 +12,27 @@ image: https://i.guim.co.uk/img/media/38e258c3407870ebaabb9ea23a7e206a4990bb75/0
 categories:
 - UK
 - News & Politics
+locations:
+- Brasília
+- Brazil
+- Latin America
+- Malta
+- São Paulo
+people:
+- Alexandre de Moraes
+- André Mendonça
+- Bolsonaros
+- Daniel Vorcaro
+- Eloísa Machado
+- Flávio Bolsonaro
+- Gilmar Mendes
+- Gilmar!
+- Jair Bolsonaro
+- Luiz Inácio Lula da Silva
+- Michel Temer
+- Thomas Traumann
+organisations:
+- Banco Master
 ---
 
 Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.

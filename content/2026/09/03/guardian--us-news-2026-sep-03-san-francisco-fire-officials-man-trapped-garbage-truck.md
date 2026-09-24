@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Recology
+- San Francisco
+people:
+- Samuel Menchaca
+organisations: []
 ---
 
 San Francisco fire officials manually hollowed out a garbage truck early on Wednesday to rescue a man trapped inside.

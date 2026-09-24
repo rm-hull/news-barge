@@ -12,6 +12,58 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Alexandria
+- California
+- China
+- Chongqing
+- Cofertility
+- Feinberg
+- Los Angeles
+- Lower Manhattan
+- New York City
+- Northwestern
+- Rockefeller Center
+- US
+- United States
+- Virginia
+people:
+- Ah,” Sue
+- Alexis
+- Brittany Izrailov
+- Cofertility
+- Diane Tober
+- Emily Packard Dawson
+- Eve Feinberg
+- Greg
+- Lauren Makler
+- Lydia Hughes
+- Meera Shah
+- Mona
+- Sue’s Zoom
+- Tinder
+- Yang
+- Yuchen Tu
+- god
+organisations:
+- AI
+- AMH
+- Arizona State University
+- Chinese American Ivy League
+- Cofertility
+- Embryo Project Encyclopedia
+- HIPAA
+- Instagram
+- My Asian Donor
+- ROTC
+- Split
+- US Army Reserve Officer Training Corps
+- US Department of Defense
+- Uber
+- University of Alabama
+- University of Pennsylvania
+- WIRED
+- Zoom
 ---
 
 The Instagram post, precision-guided by sex and age, had zeroed in on its target. Yuchen Tu is a conservatory-trained viola player from Chongqing, China, a lover of science fiction, and an aspiring member of the US Army Reserve Officer Training Corps. She’s exacting and intense, with sky-high standards. And late last spring, just after her 24th birthday, she realized she might be the perfect candidate to freeze her eggs—for free.

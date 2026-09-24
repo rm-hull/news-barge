@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bukavu
+- Congo
+- Furaha
+- Latin America
+people:
+- Alice Ambika Musafiri
+- Annunciat Kujirabwinja Zagabe
+- Corneille Nangaa
+- God
+- Ma’am
+- Moïse Lubala
+- Tuonane Machara wa Kidogo
+organisations:
+- AFC
+- AP
+- Alliance Fleuve Congo
+- DRC
+- M23
+- The Associated Press
 ---
 
 Hundreds of people gathered on Monday at a mass funeral in eastern Congo to mourn 27 young victims of a fire that engulfed two schools, as families wept and officials laid down wreaths and made speeches.

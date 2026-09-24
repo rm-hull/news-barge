@@ -14,6 +14,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Alex Veiga
+- Damian J. Troise
+organisations:
+- AMD
+- Advanced Micro Devices
+- Amazon
+- Federal Reserve
+- Kospi
+- Nvidia
+- OpenAI
+- SK Hynix
+- Samsung Electronics
+- SoftBank Group
+- Taiex
+- U.S. Treasury
 ---
 
 Asian shares tumbled Wednesday after stocks slipped on Wall Street and as a bond market sell-off deepened globally.

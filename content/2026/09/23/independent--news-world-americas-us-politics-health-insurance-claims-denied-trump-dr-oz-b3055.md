@@ -12,6 +12,32 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/23/13/17/GettyImages-2296058064.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Trump
+people:
+- Cynthia Cox
+- Dean Baker
+- Ellen Montz
+- JD Vance
+- Joe Biden
+- Mehmet Oz
+- Melanie D’Arrigo
+- Nancy Pelosi
+organisations:
+- '![Centers for Medicare & Medicaid Services'
+- ACA
+- CMS
+- Campaign for New York Health
+- Center for Economic & Policy Research
+- Centers for Medicare & Medicaid Services
+- Fox News
+- Gallup
+- Government Accountability Office
+- House
+- KFF
+- The Associated Press
+- The Independent
+- Trump Administration
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

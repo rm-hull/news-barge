@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- Australia
+- Canberra
+- Jurassic Park
+- Pacific
+- Queensland
+- Tuvalu
+- UK
+people:
+- Angus Taylor
+- Anthony Albanese
+- Bill Shorten
+- Chris Bowen
+- Dan Purdie
+- Dan Tehan
+- David Shoebridge
+- Howard
+- Jim Chalmers
+- Julian Leeser
+- Lambie Jacqui Lambie
+- Laura Gerber
+- Luca Ittimani
+- Lukas Coch
+- Maina Talia
+- Mick Tsikas
+- Milton Dick
+- Pauline Hanson
+- Pauline Hanson’
+- Tim Wilson
+- Tom McIlroy
+- Tony Burke
+- Zali Steggall
+organisations:
+- AAP Queensland
+- ABC
+- Australia Institute
+- Coalition
+- Greens
+- Greens’
+- Guardian Australia
+- LNP
+- Labor
+- Liberal
+- Lukas Coch/AAP
+- Lukas Coch/AAP AI
+- Lukas Coch/AAP Pacific
+- News24
+- Parliament House
+- Senate
+- Unicef
+- University of Canberra
 ---
 
 AI companies ‘like dinosaurs in Jurassic Park testing the fences’: Lambie

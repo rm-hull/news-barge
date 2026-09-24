@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- Hertfordshire
+- Ireland
+- London
+- UK
+people:
+- Addison Lee
+- Gill Hunter
+- Jack
+- John Griffin
+- Michaela Snelders
+- Rishi Sunak
+organisations:
+- Addison Lee
+- Carlyle Group
+- Griffin
+- HM Revenue and Customs
+- HMRC
+- Labour UK
 ---
 
 The founder of Addison Lee owes £20.5m in tax after a tribunal dismissed a claim that he should be treated as a nom-dom despite living in the UK since childhood.

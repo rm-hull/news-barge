@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- '### Water'
+- Central Motorway
+- John Reid Road
+- Newcastle upon Tyne
+- Prince Edward Road
+people:
+- SARAH CALDECOTT
+organisations:
+- 4PZ
+- Assembly
+- BBC One
+- GreatRunTV
+- Red Arrows
+- South Shields
+- The Leas
+- YouTube
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -13,6 +13,74 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- AOC Park
+- CP2
+- Calcasieu Basin
+- Calcasieu Lake
+- Calcasieu Parish
+- Calcasieu Pass
+- Calcasieu Ship Channel
+- Cameron Parish
+- Cameron Parish Port
+- Cameron Port
+- Cameron Prairie Refuge
+- D.C.
+- Grand Isle
+- Grand Isle Port
+- Gulf
+- Harbor
+- Lake Charles
+- Louisiana
+- Sorrells’ Pig
+- The Oyster Ranch
+- Washington
+people:
+- Anthony “Tad” Theriot
+- Chris McCall
+- Clair Marceaux
+- Cooper Fournet
+- David Sorrells
+- Eddie Lejuine
+- James Hiatt
+- Jules Melancon
+- Kim Montie
+- Patrick Courreges
+- Pig
+- Sabine Lake
+- Scott Spicer
+- Sorells
+organisations:
+- 38th Judicial District Court
+- AOC Park
+- Better Bayou
+- CP2
+- Callan Marine Ltd.
+- Cameron Parish
+- Cameron Parish Police Jury
+- Cameron Port
+- Cameron Prairie National
+- Federal Energy Regulatory Commission
+- Inside Climate News
+- LDCE
+- LNG
+- Lake Charles’ Restaurant Calla
+- Louisiana Department of Conservation and Energy
+- Louisiana Department of Environmental Quality
+- Louisiana Department of Wildlife and Fisheries
+- Louisiana Sea Grant
+- Oyster Ranch
+- Parish Port
+- Pig and Rooster
+- Providence Engineering and Environmental Group
+- Revival Oyster House
+- Rooster Oyster Farms
+- Terminal District
+- The Associated Press
+- The Oyster Ranch
+- Theriot
+- Venture Global
+- Verite News
 ---
 
 A group of commercial fishers, fishing guides and seafood processors in southwest Louisiana is suing liquefied natural gas company Venture Global, claiming that dredging operations in preparation for the construction of a new terminal resulted in a sediment spill that killed millions of oysters and diminished catches of finfish, crabs and shrimp.

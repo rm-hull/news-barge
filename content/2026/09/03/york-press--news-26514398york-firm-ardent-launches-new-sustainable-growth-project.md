@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Alfred Chinta
+- Matt Lewindon
+organisations:
+- Ardent Limited
+- Innovate UK
+- KTP Associate
+- Knowledge Transfer Partnership
+- LBU
+- Leeds Beckett
+- Leeds Beckett University
+- Leeds Business School
+- UK Research and Innovation
 ---
 
 *(Image: Ardent)*

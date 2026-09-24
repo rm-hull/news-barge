@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Dulguigan
+- Dungay Creek Road
+- Ford Escape
+- Murwillumbah
+- NSW
+- New South Wales
+- Rous River
+- Whear
+people:
+- Chris Elliott
+- Gillian Hallac
+- Tweed-Byron
+- Yvonne Whear
+organisations:
+- CCTV
+- Guardian
+- Shell
+- Sun State Search
+- Tweed Heads
+- Whear
 ---
 
 A car belonging to missing woman Yvonne Whear has been found in northern New South Wales, about seven months since the 73-year-old was last seen.

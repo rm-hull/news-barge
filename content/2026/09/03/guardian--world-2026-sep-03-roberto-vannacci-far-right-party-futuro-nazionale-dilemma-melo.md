@@ -12,6 +12,42 @@ image: https://i.guim.co.uk/img/media/8397255ea9b71ca244244173a6185c2b15762daf/7
 categories:
 - UK
 - News & Politics
+locations:
+- Bari
+- Ceuta
+- Forza Italia
+- Italian Republic
+- Italy
+- Morocco
+- Puglia
+- Sanremo
+- Taranto
+- Ukraine
+- Vannacci
+people:
+- Alessandro Cattaneo
+- Antonio Tajani
+- Brothers
+- Giorgia Meloni
+- Giulia Pastorella
+- Lia Quartapelle
+- Matteo Salvini
+- Michele Picaro
+- Roberto Vannacci
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Action
+- Azione
+- Brothers of Italy
+- EU
+- Five Star Movement
+- Forza Italia
+- Futuro Nazionale
+- G7
+- League
+- Meloni
+- Vannacci
 ---
 
 Giorgia Meloni’s government has become the longest-running in Italy since the second world war – a milestone the prime minister is determined not to let pass unnoticed.

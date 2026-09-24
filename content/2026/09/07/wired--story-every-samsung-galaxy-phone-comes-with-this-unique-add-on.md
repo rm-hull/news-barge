@@ -10,6 +10,12 @@ image: https://media.wired.com/photos/6a995c3bbf4e66136bddb446/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- Edge Panel
+- Galaxy
+- Samsung
 ---
 
 If you opt for an Android phone over an iPhone, there are certain features you get as standard as part of Android. Then there are other features specific to certain manufacturers, as each Android phone maker puts its own spin on the software.

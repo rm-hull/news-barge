@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - History
 - Arts & Culture
+locations:
+- Bond End
+- Boroughbridge
+- Gracious Street
+- Knaresborough Heritage Centre
+- Knaresborough Railway Gala
+- Leeds
+- Railway King George Hudson
+- Scriven
+- York Minster
+people:
+- John Dent
+- Thomas Telford
+organisations:
+- Beeching
+- COGS
+- Harrogate Model Railway Group
+- KMA
+- Knaresborough Methodist Church
+- Knaresborough Museum Association
+- Knaresborough Railway Gala
+- The Chapter of York
 ---
 
 # Knaresborough is to welcome back rare historic railway artefact last seen in the town 180 years ago

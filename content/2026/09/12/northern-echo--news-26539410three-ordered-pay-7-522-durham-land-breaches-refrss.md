@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- County Durham Driver
+- Deaf Hill
+- Meadow Road
+- Peterlee Magistrates’ Court
+- St Aidan's Terrace
+- Sunnyside Terrace
+- Trimdon Grange
+- Trimdon Station
+- Trimdon Village
+people:
+- Anthony Tiffin
+- Pamela Duddin
+- Victoria Tiffin
+organisations:
+- A1
+- A1(M) Driver
+- Durham County Council
+- NORTHERN ECHO
+- Peterlee Magistrates Court
+- Plot 2
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Dunwich Heath
+- UK
+people:
+- Chris Pollard
+- Kate Oldridge
+- Oldbridge
+- Pollock
+- Rowena Hill
+- Simon Stiell
+organisations:
+- Climate Outreach
+- Greener Henley
+- Ipsos
+- Labour
+- Nottingham Trent University
+- UN
 ---
 
 Wildfires, excess deaths, hosepipe bans, school closures: this summer many British people have experienced the often devastating effects of the climate crisis in ways they had not before. In that sense, policymakers and climate experts have a unique opportunity to engage with the public about what needs to happen to better prepare the country for the years ahead. But as trust in institutions wavers – and yellowed, drought-stricken grass begins to recover – can the messaging cut through?

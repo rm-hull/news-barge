@@ -11,6 +11,20 @@ image: https://i.guim.co.uk/img/media/88a905ea1308102bf7a95c2fc3759c9008060480/5
 categories:
 - UK
 - News & Politics
+locations: []
+people:
+- Kate Wilson
+- Lisa Jones
+- Mark Kennedy
+organisations:
+- CPS
+- Climate Camp
+- Crown Prosecution Service
+- Earth First!
+- NPCC
+- National Police Chiefs’ Council
+- National Public Order Intelligence Unit
+- Operation Montrose
 ---
 
 Prosecutors are examining whether to bring criminal charges against 12 former police officers who were involved in spying on political groups.

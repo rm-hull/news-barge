@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A166 Stamford Bridge Road
+- A614
+- City of York
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Elvington
+- Hull
+- Kevin Glenton
+- Kexby Bridge
+- Kexby Stray
+- Long Lane
+- Market Weighton
+- River Derwent
+- Shiptonthorpe
+- York Road
+people:
+- Kate Ravilious
+organisations:
+- A19
+- A64
+- City of York Council
+- Highways Maintenance
+- Lane Rentals Services
 ---
 
 ## REMINDER: Main road outside York set to close for resurfacing works

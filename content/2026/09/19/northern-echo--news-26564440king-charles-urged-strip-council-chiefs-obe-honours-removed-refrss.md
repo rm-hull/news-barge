@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21475248.jpg?type=og-image
+locations:
+- Ballymena Magistrates’ Court
+- Newry Crown Court
+- Northern Ireland
+people:
+- Angela Middleton
+- Anne Donaghy
+- Brian Lawless
+- Charles
+- Hugo Burnand
+- Jeffrey Donaldson
+- John McBurney
+- Jon Burrows
+- Liam Walker
+- Mark Marlow
+- Stuart Hogg
+organisations:
+- Cabinet Office
+- Democratic Unionist Party
+- Dragons' Den
+- Freedom of Information Act
+- Mid and East Antrim Council
+- OBE
+- Oxford Union
+- Oxfordshire Conservatives
+- PA Wire
+- Ulster Unionist Party
 ---
 
 *(Image: Hugo Burnand/Royal Household 2024/Cabinet Office/PA)*

@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Auckland
+- Beamish Museum
+- Bolton Castle
+- Brancepeth Castle
+- Brancepeth Colliery
+- Carlisle
+- County Durham
+- Dene Estate
+- Durham Cathedral
+- Kenneth Linge
+- Luxmoore Avenue
+- Newcastle
+- Raby Castle
+- Scotland
+- South Street
+- Spennymoor
+- Staffordshire
+- Suffolk
+- Sunnybrow
+- Tutbury Castle
+- Wear Valley Crematorium
+- Wensleydale
+- Willington Hall
+- Willington railway station
+- Willington station
+people:
+- Bevin Boy
+- Capt George McLean
+- Donald Linge
+- Elizabeth I
+- Ken Linge
+- Kenneth
+- Mary
+- Neville
+- Nigel
+- Olive Linge
+- Willington
+organisations:
+- Beamish Museum
+- Miners' Welfare Hall
+- Miners’ Welfare Institute
+- Olive Linge
+- Victoria Cross
 ---
 
 IN 2017, a clean-up of overgrowth was undertaken on the approach to Willington library and it revealed a stone that had been hidden for several decades.

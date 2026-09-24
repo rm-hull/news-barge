@@ -15,6 +15,17 @@ categories:
 - Health & Fitness
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/6e9995103c6b85d5b6aec97ba1732151e2f35e26/0_0_5278_4224/master/5278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e9b41db87f04760a2dde67685274eae
+locations:
+- England
+- Northern Ireland
+- Wales
+people:
+- Anita Charlesworth
+- Ciarán Devane
+organisations:
+- AI
+- Health Foundation
+- NHS Alliance
 ---
 
 The NHS in England could prevent 20,000 deaths and save £33bn a year by cutting red tape and boosting productivity, a report says.

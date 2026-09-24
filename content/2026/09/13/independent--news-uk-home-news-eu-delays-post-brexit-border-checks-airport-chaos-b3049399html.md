@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Belgium
+- Brussels
+- France
+- Frankfurt
+- Germany
+- Greece
+- Italy
+- Malta
+- Netherlands
+- Port of Dover
+- Portugal
+- Schengen
+- Switzerland
+people:
+- Neal McMahon
+organisations:
+- EES
+- EU
+- European Commission
+- European Union
+- Eurostar
+- Eurotunnel
+- Ryanair
+- The Sunday Times
+- “Airlines
 ---
 
 At least nine countries have reportedly delayed implementing the European Union’s controversial entry-exit system (EES).

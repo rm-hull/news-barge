@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people:
+- Matteo Pierone
+organisations:
+- AI
+- FIN Intelligence
+- J2 Innovations
 ---
 
 *J2 Innovations is a Business Reporter client*

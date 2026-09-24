@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Chadlington
+- Diddly Squat Farm
+- Oxfordshire
+- PA
+people:
+- Gerald Cooper
+- Harriet Cowan
+- Ian West
+- Jeremy Clarkson
+- Jeremy Clarkson'**
+- Kaleb Cooper
+- Lisa Hogan
+organisations:
+- British TV
+- Express
+- Prime Video
+- The Times
+- Top Gear
 ---
 
 *(Image: Ian West / PA)*

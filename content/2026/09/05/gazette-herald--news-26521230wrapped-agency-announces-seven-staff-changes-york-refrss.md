@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations: []
+people:
+- Andi Olssen
+- Mark Robinson
+- Sarah Todd
+organisations:
+- Wrapped Agency
+- Wrapped Agency)* Wrapped Agency
 ---
 
 *(Image: Wrapped Agency)*

@@ -13,6 +13,28 @@ image: https://cdn.mos.cms.futurecdn.net/3DKtaekbQ6h6AeAJcp8rNE-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- AI
+- Cali
+- Colorado
+- Denver Water
+- Hoover Dam
+- Lake Mead
+- Lake Powell
+people:
+- Jowi Morales
+- Tom
+organisations:
+- BigPrinter
+- Board of Water Commissioners
+- DC
+- Denver Water
+- Google News
+- HOA
+- Jowi Morales
+- Microsoft
+- NASA
+- Nvidia
 ---
 
 ![a lawn being watered by sprinklers](https://cdn.mos.cms.futurecdn.net/3DKtaekbQ6h6AeAJcp8rNE.png) 

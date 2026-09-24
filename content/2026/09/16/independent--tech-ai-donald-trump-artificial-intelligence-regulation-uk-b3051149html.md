@@ -13,6 +13,29 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- America
+- Bletchley Park
+- China
+- Europe
+- UK
+- US
+people:
+- Donald Trump
+- Elon Musk
+- Guo Jiakun
+- Jonathan Black
+- Kamala Harris
+- Rishi Sunak
+- Sam Altman
+- Wu Zhaohui
+organisations:
+- AI
+- Anthropic
+- Elon Musk
+- OpenAI
+- Truth Social
 ---
 
 A former national security adviser has given a stark warning that any hope for proper global regulation of AI will depend on decisions made by the US.

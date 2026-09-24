@@ -13,6 +13,19 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Liverpool
+- Merseyside
+- Stanley Park
+people:
+- Andy Ryan
+- Det Supt Wilson
+- Rachel Wilson
+organisations:
+- Crimestoppers
+- MerPolCC
+- Merseyside Police
+- Nike
 ---
 
 A murder investigation is continuing after the body of a woman believed to be in her 70s was found in Stanley Park in Liverpool in what police have called a “shocking crime”.

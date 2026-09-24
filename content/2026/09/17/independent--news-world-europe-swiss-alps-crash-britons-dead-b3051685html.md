@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Buochs Airfield
+- Leukerbad
+- Lugano
+- Nidwalden
+- Rhone Valley
+- Sion Airport
+- Swiss Alps
+- Switzerland
+- Valais
+people: []
+organisations:
+- BBC
+- Foreign Commonwealth and Development Office
+- Office of the Attorney General
+- Sion
+- Swiss Transportation Board
+- Valais Police
+- Valais Rescue Organisation
 ---
 
 Three people have been killed, including two British citizens, after a plane crashed in the Swiss Alps.

@@ -12,6 +12,13 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Allerton Road
+- Bradford West
+- West Yorkshire
+people: []
+organisations:
+- Volkswagen
 ---
 
 *(Image: WYP)*

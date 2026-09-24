@@ -16,6 +16,40 @@ categories:
 - True Crime
 - Sports
 - News & Politics
+locations:
+- Atlee Road
+- Cleveland
+- County Durham
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- South Bank
+- Steele Crescent
+people:
+- Cole Worthy
+- Jakub Matusiak
+- King
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Cahill
+- Natalie McDonald
+- PC Matthew Blades
+- Pc Blades
+- Pc Clough
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Police
+- Middlesbrough FC
+- Mirror
+- PCC
+- Police and Crime Commissioner
+- West Bromwich Albion
 ---
 
 # Football fans to pay respects to officers killed in A66 crash

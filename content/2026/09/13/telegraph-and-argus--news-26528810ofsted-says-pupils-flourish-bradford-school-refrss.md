@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Society & Culture
 - Education & Learning
+locations:
+- Bradford
+- Eccleshill
+people:
+- Cavendish
+- Duncan Jacques
+- Jonathan Nixon
+- Mike Simmonds
+organisations:
+- '## Report'
+- Cavendish Primary School
+- Exceed Academies Trust
+- Ofsted
 ---
 
 *(Image: Mike Simmonds)*

@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Asia
+- Hong Kong
+- Overclockers UK
+- TweakTown
+- US
+people:
+- Redditor
+- Rubin
+organisations:
+- Darren
+- GeForce
+- Google News
+- Hachette UK
+- MLID
+- Moore's Law is Dead
+- Newegg
+- Nvidia
+- PC
+- RAM
+- ROG Astral GPU
+- RTX
+- Redditor
+- Team Green
+- YouTube
 ---
 
 ![The GeForce RTX logo on the Nvidia GeForce RTX 5090](https://cdn.mos.cms.futurecdn.net/iH6Sehz2iwz8bH5Yrpprb6.jpg) 

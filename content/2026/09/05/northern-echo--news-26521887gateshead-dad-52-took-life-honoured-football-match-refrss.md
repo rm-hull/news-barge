@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Darlington
+- Gateshead
+- New Ferens Park
+- North East
+- UGC
+- Valencia
+people:
+- James McLeod
+- Jimmy McLeod
+organisations:
+- Andy's Man Club
+- Chasing the Stigma
+- If U Care Share Foundation
+- McLeod FC
+- Men Together Durham CIC
+- Mental Shift CIC
+- Movember
+- North East university
+- Stockton
 ---
 
 *(Image: UGC)*

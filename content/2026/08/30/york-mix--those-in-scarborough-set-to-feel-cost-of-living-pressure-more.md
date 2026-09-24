@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- North Yorkshire
+- Scarborough
+- UK
+- Whitby
+people:
+- Alison Hume
+- Andy Burnham
+- Neil Kenward
+organisations:
+- Government
+- Ofgem
+- UK North Yorkshire Coast and Moors
 ---
 
 Households on the North Yorkshire coast are facing renewed cost-of-living pressure as energy prices are set to rise.

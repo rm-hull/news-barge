@@ -12,6 +12,18 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Ceuta
+people:
+- Ibrahima Konaté
+- Javier Tebas
+- Kylian Mbappé
+- Vinícius Jr
+- Vinícius Júnior
+organisations:
+- Elche
+- LaLiga
+- Real Madrid
 ---
 
 ## Real Madrid's striker has for the first time explained why he, Vinícius Jr and Ibrahima Konaté partly covered up a message on a t-shirt backing Ceuta.

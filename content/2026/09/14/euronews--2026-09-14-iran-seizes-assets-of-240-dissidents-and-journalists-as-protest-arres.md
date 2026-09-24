@@ -13,6 +13,25 @@ image: https://images.euronews.com/articles/stories/09/91/23/89/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Iran
+- Islamic Republic
+- Tehran
+- US
+people:
+- Ahmadreza Radan
+- Ayatollah Ali Khamenei
+- Chaharshanbe Suri
+- Mizan
+- Sadegh Saeedi-nia
+organisations:
+- Central Bank
+- Iran Human Rights
+- Iran International
+- MEK
+- Manoto
+- Mizan
+- Mojahedin-e Khalq
 ---
 
 **Euronews Persian**

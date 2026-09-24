@@ -14,6 +14,37 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Beijing
+- Hefei
+people:
+- Bruno Ferreira
+- Evil
+- Jeon
+- Tom
+organisations:
+- 8 Gb DDR4
+- AI
+- Alibaba
+- CCP
+- CXMT
+- Cambricon
+- Get Tom's Hardware
+- Google News
+- HBM
+- HBM3E
+- HBM4
+- Micron
+- NoCut News
+- PC
+- PRP
+- Project Hefei
+- SK
+- Samsung
+- Shanghai STAR Market
+- T-Head
+- Tom's Hardware
+- ex-Samsung
 ---
 
 ![CXMT Chip](https://cdn.mos.cms.futurecdn.net/kZ6DksKsTnL5JWKit4UwyV.jpg) 

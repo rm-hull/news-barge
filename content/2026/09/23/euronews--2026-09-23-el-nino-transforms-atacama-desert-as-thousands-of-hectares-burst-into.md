@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Science
 image: https://images.euronews.com/articles/stories/09/92/38/83/1200x675_cmsv2_9c0a538a-ea62-516b-abb2-7716259aa532-9923883.jpg
+locations:
+- Atacama Desert
+- Chile
+- Earth
+- El Niño
+- Pacific
+- Santiago
+people:
+- César Pizarro
+organisations:
+- AFP
+- Conaf
+- El Niño
+- National Forestry Corporation
 ---
 
 ## Exceptionally heavy El Niño rains have awakened millions of seeds lying dormant underground, carpeting vast swathes of one of the planet's driest places with flowers.

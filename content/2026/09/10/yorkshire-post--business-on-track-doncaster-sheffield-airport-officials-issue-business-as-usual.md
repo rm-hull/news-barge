@@ -16,6 +16,22 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Gateway East
+- South Yorkshire
+people:
+- James Hardisty.
+- Oliver Coppard
+organisations:
+- BBC Local Democracy Reporter Scheme
+- CDC
+- City of Doncaster Council
+- Doncaster Sheffield Airport
+- Peel
+- Programme Management Office
+- SYMCA
+- South Yorkshire Mayoral Combined Authority
+- Yorkshire Post
 ---
 
 # 'On track': Doncaster Sheffield Airport officials issue 'business as usual' statement to funding questions

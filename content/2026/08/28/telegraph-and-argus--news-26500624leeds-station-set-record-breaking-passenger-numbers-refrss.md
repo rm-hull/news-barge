@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Leeds
+- Northern)* LEEDS station
+people:
+- Alex Hornby
+- David Dubaj-Downs
+organisations:
+- Network Rail
+- Northern
 ---
 
 *(Image: Northern)*

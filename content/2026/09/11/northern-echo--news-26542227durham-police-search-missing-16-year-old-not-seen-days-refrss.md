@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Bowburn
+- County Durham
+- North East
+- Prince Avenue
+people:
+- Zak
+organisations:
+- Durham Constabulary
+- Durham Police
 ---
 
 *(Image: Durham Constabulary)*

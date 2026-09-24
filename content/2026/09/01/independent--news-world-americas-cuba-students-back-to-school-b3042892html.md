@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Cuba
+- Havana
+- U.S.
+people:
+- Leanete Barroso
+- Naima Trujillo Barreto
+- Trujillo Barreto
+- Yurima Izaguirre
+organisations: []
 ---
 
 The Barroso family set off at sunrise on Tuesday, hitching a wooden cart to a borrowed horse to take one of their daughters to school on the opening day of classes for many students throughout Cuba.

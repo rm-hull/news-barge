@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/17/22165209-a2909c0e-90c2-43c7-972e-13396d85bf85.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Holyrood
+- Scotland
+- UK
+people:
+- Andy Burnham
+- Burham
+- John Swinney
+- Kenneth Gibson
+- Lord Offord
+- Malcolm Offord
+organisations:
+- Commons
+- Reform MSP
+- Reform UK
+- SNP
 ---
 
 Reform UK MSPs have staged a walkout from the Holyrood chamber after failing in their bid to have a debate on Scottish independence cancelled.

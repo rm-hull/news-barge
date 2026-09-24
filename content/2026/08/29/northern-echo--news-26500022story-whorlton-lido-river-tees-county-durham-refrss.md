@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Travel
 - Society & Culture
+locations:
+- Auckland
+- Barnes Atlantic
+- County Durham
+- Historic County Durham
+- North East
+- North Yorkshire
+- Rhyl
+- River Tees
+- Teesdale
+- The County Durham
+- Thorpe Light Railway
+- Whorlton Bridge
+- Whorlton Lido
+- Whorlton Suspension Bridge
+- Whorlton lido
+people:
+- Albert Barnes
+- Herbert Dunn
+- Raymond Dunn
+- Wendy
+- Whorlton Lido
+- Winston Churchill
+organisations:
+- ARCHIVE
+- Watsons
+- Whorlton Lido
 ---
 
 For generations of families across County Durham, Whorlton Lido was one of those places that came to define summer.

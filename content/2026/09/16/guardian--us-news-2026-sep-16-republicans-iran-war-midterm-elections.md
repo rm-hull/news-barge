@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Iowa
+- Iran
+- Israel
+- Kentucky
+- Michigan
+- Middle East
+- Ohio
+- Pennsylvania
+- South Carolina
+- US
+people:
+- Brian Fitzpatrick
+- Donald Trump
+- Ed Gallrein
+- Jeffrey Epstein
+- Mariannette Miller-Meeks
+- Mike Johnson
+- Nancy Mace
+- Pete Hegseth
+- Thomas Massie
+- Tom Barrett
+- Warren Davidson
+- Zach Nunn
+organisations:
+- Congress
+- GOP
+- Hegseth
+- House of Representatives
+- New York Times
+- Senate
+- Siena University
+- Trump
 ---
 
 As the US war with Iran drags on, the ranks of Republicans signaling the conflict is a liability for their party continues to grow.

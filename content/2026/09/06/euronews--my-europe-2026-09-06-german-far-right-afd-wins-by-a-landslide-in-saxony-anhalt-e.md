@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Berlin
+- Germany
+- Saxony-Anhalt
+people:
+- Die Linke
+- Friedrich Merz
+- Sven Schulze
+- Ulrich Siegmund
+organisations:
+- ARD
+- AfD
+- BSW
+- CDU
+- Infratest
+- SPD
 ---
 
 ## If the AfD manages to form a government, it would be the first far-right party to lead a German state since World War II

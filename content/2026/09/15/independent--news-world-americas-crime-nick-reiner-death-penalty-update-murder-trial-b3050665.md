@@ -13,6 +13,27 @@ categories:
 - UK
 - True Crime
 - Film & TV
+locations:
+- California
+- Hollywood
+- Los Angeles
+- Santa Monica
+people:
+- Alan Jackson
+- Conan O'Brien
+- Harry Met Sally
+- Jake
+- Michele Reiner
+- Michele Singer
+- Nathan Hochman
+- Nick Reiner
+- Rob Reiner
+- Romy Reiner
+- Sam Ohta
+organisations:
+- DA
+- Los Angeles Superior Court
+- USC
 ---
 
 Nick Reiner will not face the death penalty if he’s convicted of killing his parents, Los Angeles County District Attorney Nathan Hochman said Tuesday.

@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Self-Improvement
 image: https://cdn.mos.cms.futurecdn.net/Cq9hBTNaQLnCc6hCAZbjmR-1920-80.jpg
+locations:
+- Ash
+- Beech
+- ChatGPT
+- Oak
+- Saltaire
+- UK
+- uk
+people:
+- ChatGPT
+- Redditor
+organisations:
+- AI
+- Becca
+- Bonnier Books
+- ChatGPT
+- Google News
+- Inverse
+- New Scientist
+- Reddit
+- Redditor
+- TechRadar
+- The Guardian
+- VR
+- Wired
 ---
 
 ![Three way split images of possible ChatGPT uses.](https://cdn.mos.cms.futurecdn.net/Cq9hBTNaQLnCc6hCAZbjmR.jpg)

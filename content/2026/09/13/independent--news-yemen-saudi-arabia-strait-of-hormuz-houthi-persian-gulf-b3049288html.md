@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Brig
+- Iran
+- Middle East
+- Najran
+- Persian Gulf
+- Qeshm Island
+- Red Sea
+- Saudi Arabia
+- Sharurah
+- Strait of Hormuz
+- U.S.
+- Yemen
+- al-Tawwal
+people:
+- Yahya Saree
+organisations:
+- United Kingdom Maritime Trade Operations
 ---
 
 An Iranian commercial ship was struck early Sunday near the Strait of Hormuz, with one person killed, Iranian state media say.

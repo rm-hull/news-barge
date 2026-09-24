@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations:
+- Harrogate
+- Nidderdale
+- RHS Garden Harlow Carr
+- Ripley Castle
+- Victoria
+people:
+- Victoria Kirkman
+organisations:
+- Army Foundation College
+- Department for Education
+- Federation of Beckwithshaw
+- Forest School
+- Kettlesing
+- Ripley Church of England Primary Schools
+- Royal Hall
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa24c41e25b5b0c771.jpg) 

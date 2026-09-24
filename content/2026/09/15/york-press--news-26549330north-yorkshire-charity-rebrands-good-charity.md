@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Catterick
+- Darlington
+- Italy
+- Leyburn
+- North Yorkshire
+- Scorton
+- UK
+people:
+- Amy Griffiths
+- Charlotte Waistell
+- Damian Rodgers
+- Emma Catterson
+- God
+- James Lindley
+- Jamie Hope
+- Jodie Brodie-Myers
+- John
+- Kay King
+- Malcolm Thompson
+- Nicola Wilkin
+- Omolade Saibu
+- Paul Bott
+- leftNeville Fill
+organisations:
+- Do Good Charity
+- Guzelian Pictures
+- SJOG
+- Saint John of God Hospitaller Services
+- The Do Good Charity
 ---
 
 *(Image: Guzelian Pictures)*

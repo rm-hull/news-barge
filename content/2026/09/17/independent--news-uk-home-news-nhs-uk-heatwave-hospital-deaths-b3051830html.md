@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- East of England
+- London
+- North West
+- South East NHS
+- South West
+- UK
+- Wales
+- Yorkshire
+people:
+- Nicola Ranger
+organisations:
+- Department of Health
+- Freedom of Information
+- RCN
+- Royal College of Nursing
 ---
 
 One nurse reported seeing maggots in wounds as patients deteriorated in “suffocating atmospheres” during the summer heat on NHS wards.

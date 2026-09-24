@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21488054.jpg?type=og-image
+locations:
+- Middlesbrough
+- North East
+people:
+- Joanna Yarker
+- Salim Matta
+organisations:
+- CQC
+- Carers Trust Triangle of Care
+- Cygnet Health Care
+- Cygnet Newham House
+- Newham House
 ---
 
 *(Image: Supplied)*

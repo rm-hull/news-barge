@@ -9,6 +9,15 @@ description: Why AI needs autonomous data infrastructure
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people: []
+organisations:
+- AI
+- Future plc
+- Scality
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

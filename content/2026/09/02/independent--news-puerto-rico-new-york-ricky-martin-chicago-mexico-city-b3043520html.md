@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- ACEVEDO
+- Chicago
+- Florida
+- Hollywood
+- Los Angeles' YouTube Theater
+- Menudo
+- Mexico City
+- Miami
+- New York
+- Puerto Rico
+- San Juan
+- Spain
+- States
+- United Palace
+people:
+- ACEVEDO
+- Alejandro Monroy
+- Bad Bunny
+- Carlos Villa
+- Draco Rosa
+- GOMEZ
+- GONZALES
+- Menudo
+- Paul Tarnopol
+- RODRIGUEZ
+- Ralphy Rodriguez
+- Raymond Acevedo
+- Rene Farrait
+- René
+- Ricky Martin
+- Robert Avellanet
+- Roy Rossello
+- Ruben Gomez
+- Sergio Gonzales
+organisations:
+- ACEVEDO
+- AVELLANET
+- Coca-Cola Music Hall
+- Menudo
+- Metropolitan Theatre
+- Rosemont Theatre
+- The Associated Press
 ---
 
 Menudo, widely considered one of the most popular Latino boy bands of all time, will reunite for a six-day run this fall in celebration of their 50th anniversary. That's a major milestone for any act, but a particularly remarkable one for the group established in Puerto Rico in the late '70s — and not just because it was in Menudo where performers like Ricky Martin and Draco Rosa got their start.

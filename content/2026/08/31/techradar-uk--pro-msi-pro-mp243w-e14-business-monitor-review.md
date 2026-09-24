@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/cbm4UeHM2bAuQC5LVagUQQ-1915-80.png
 categories:
 - Technology & Software
 - Careers & Productivity
+locations: []
+people:
+- Collin
+organisations:
+- Adaptive-Sync
+- Dell
+- Gearadical
+- HDR Ready
+- MP243
+- MSI
+- TechRadar Pro
+- VESA
 ---
 
 ### TechRadar Verdict

@@ -14,6 +14,20 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- Eglebart
+people:
+- Douglas Engelbart
+- Douglas Englebart
+- Keumars Afifi-Sabet
+organisations:
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- QOTD
+- Stanford Research Institute
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Douglas Englebart](https://cdn.mos.cms.futurecdn.net/xcgVWCudC73jqhTAemtzjF.jpg) 

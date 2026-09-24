@@ -12,6 +12,15 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations:
+- Earth
+people:
+- Andrew Sayer
+organisations:
+- GLOBE Observer
+- NASA
+- Ocean Color Instrument
+- PACE
 ---
 
 NASA wants you to have your head in the clouds – for science.

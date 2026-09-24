@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21047245.jpg?type=og-image&xType=0&yType=446
+locations:
+- Aireville Park
+- Skipton Gala
+people:
+- Geoff Dunn
+- Jenny Dean
+- King
+- Louise Close
+- Vera Longthorne
+organisations:
+- Lesley Tate
+- Skipton Gala
+- Skipton Gala Charitable Trust
+- Skipton Town Council
 ---
 
 ENTHUSIASTIC people with a love of community events are being invited to help secure the future of Skipton Gala.

@@ -13,6 +13,16 @@ categories:
 - Technology & Software
 - Hardware
 - Film & TV
+locations: []
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- Blu-ray
+- Google News
+- Kaleidescape
+- NAND
+- Strato V
 ---
 
 ![Kaleidescape Compact Terra Prime 246TB SSD movie server](https://cdn.mos.cms.futurecdn.net/LSsUpAsKPuP2d4KRxPJVgk.png) 

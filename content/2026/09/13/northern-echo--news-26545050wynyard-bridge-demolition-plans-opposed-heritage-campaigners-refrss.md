@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Black Squares
+- Castle Eden Walkway
+- County Durham
+- Crawford's Bridge
+- Crawford’s Bridge
+- Historic England
+- North East
+- North Eastern Railway
+- Teesside
+- Wynyard
+people:
+- Cllr Cooke
+- Cllr Nigel Cooke
+- Graeme Bickerdyke
+- Nigel Cooke
+organisations:
+- HRE Group
+- Historic Environment Record
+- Historical Railways Estate) Group
+- Stockton Council
+- Teesside BT
 ---
 
 Campaigners have accused Stockton Council of “incompetence or scaremongering” and wasting money by planning to demolish two landmark bridges.

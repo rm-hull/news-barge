@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Hollywood
+- UK
+people:
+- Andy Vaughan
+- Corrie
+- Simon Cooke
+organisations:
+- Change.org
+- Cineworld
+- Newsquest
+- Seat
+- Unlimited
 ---
 
 *(Image: Getty)*

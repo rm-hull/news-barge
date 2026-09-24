@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bergheim
+- Brandenburg
+- Cologne
+- Germany
+- Halle Airport
+- Jänschwalde
+- Leipzig
+- Lignite
+- North Rhine-Westphalia
+- Russia
+- Saxony
+- Weisweiler
+people:
+- Alexander Dobrindt
+- Daniel V.
+organisations:
+- Cottbus Public Prosecutor’s Office
+- North Rhine-Westphalia State Criminal Police Office
+- dpa
 ---
 
 Police arrested a suspect Tuesday in connection with a series of attacks on power distribution systems across Germany which had led to a massive, dayslong search.

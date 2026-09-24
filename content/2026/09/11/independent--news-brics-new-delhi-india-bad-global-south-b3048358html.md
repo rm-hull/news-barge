@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/11/05/India_BRICS_11435.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- China
+- Global South
+- India
+- New Delhi
+- Russia
+- South Africa
+- United States
+people:
+- Masoud Pezeshkian
+- Mohammed Eliyas
+- Neeraj Kumar
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- BRICS
+- G20
 ---
 
 Bad traffic is a fact of life in New Delhi, but it's often at its worst when foreign dignitaries come to town.

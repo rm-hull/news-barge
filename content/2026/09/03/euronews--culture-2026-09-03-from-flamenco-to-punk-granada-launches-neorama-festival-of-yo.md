@@ -13,6 +13,63 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Alana
+- Andalusia
+- Balearic Islands
+- Blung
+- Castile
+- Catalonia
+- Ceuta
+- Galicia
+- Granada
+- León
+- Melilla
+- Murcia
+- Neorama
+- Plaza de los Aljibes
+- Portinatx
+- Spain
+people:
+- '** Manuel de Falla**'
+- Brahms
+- David Fernández Caravaca
+- Del Pozo
+- Dvořák
+- Elizabeth Maconchy
+- Julia Cry
+- Mozart
+- Neorama
+- Oriol Saña
+- Patricia del Pozo
+- Ravel
+- Susana Gómez
+- Toldrà
+- Torres Bermejas
+- Turina
+organisations:
+- Basque Country
+- Carmen de los Mártires
+- Carmen de los Porcel
+- City Hall
+- Confederation of Youth Musical Societies of Spain
+- Corral del Carbón
+- Generalife Theatre
+- Generalife Theatre**
+- Granada **
+- JM World Orchestra
+- JME
+- Joven Orquesta Sinfónica de Granada
+- Liceu BLAM Collective
+- Manuel de Falla Auditorium
+- Musikene Big Band
+- Mühlfeld Ensemble
+- Naked Eva
+- Neorama
+- OJA
+- Rodríguez-Acosta Foundation
+- SIFU Foundation
+- SuperArte**
 ---
 
 ## From 3 to 5 September, Granada hosts Neorama, a travelling festival for young talent, with 40 concerts in jazz, classical, rock, punk and electronic music.

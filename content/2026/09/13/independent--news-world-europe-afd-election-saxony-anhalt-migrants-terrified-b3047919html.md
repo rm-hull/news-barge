@@ -14,6 +14,34 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Berlin
+- Chatham House
+- Dublin
+- Europe
+- France
+- Germany
+- Russia
+- Saxony-Anhalt
+- Sweden
+- Syria
+people:
+- Alaa Yakoub Agha
+- Alles
+- Angela Merkel
+- Giorgia Meloni
+- Gregoire Roos
+- Mamad Mohamad
+- Marine Le Pen
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alliance90/Greens
+- Alternative for Germany
+- Alternative fur Deutschland
+- CDU
+- Dawum
+- Eurasia
 ---
 
 It was election day in the German state of Saxony-Anhalt and Alaa Yakoub Agha was overjoyed. The 55-year-old Syrian, now a German citizen, had voted for the first time since arriving in the country in 2015.

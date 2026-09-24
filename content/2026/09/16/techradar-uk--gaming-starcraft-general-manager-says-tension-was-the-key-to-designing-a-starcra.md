@@ -13,6 +13,20 @@ description: StarCraft general manager and creative director Dan Hay has explain
 image: https://cdn.mos.cms.futurecdn.net/x47xXao6zoUBoaKUYVruYd-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Dan Hay
+organisations:
+- BlizzCon
+- CGI
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- RTS
+- StarCraft
+- TechRadar Gaming
 ---
 
 ![StarCraft](https://cdn.mos.cms.futurecdn.net/x47xXao6zoUBoaKUYVruYd.jpg) 

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Heslington Road
+- Hudson Moody
+- Prestigious’ North Yorkshire
+- York
+- Zoopla
+people: []
+organisations:
+- Hudson Moody
 ---
 
 A "charming" period home has hit the market in York.

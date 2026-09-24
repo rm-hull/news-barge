@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/09/01/11/2292445520..?trim=0,1,0,1&
 categories:
 - News & Politics
 - UK
+locations:
+- Asia-Pacific
+- Australia
+- Beijing
+- Britain
+- Canada
+- China
+- Fiji
+- India
+- Japan
+- Kiribati
+- Marshall Islands
+- New Zealand
+- Pacific Island
+- Palau
+- Samoa
+- Solomon Islands
+- Taipei
+- Taiwan
+- Tuvalu
+- US
+- Vanuatu
+people:
+- Anthony Albanese
+- Guo Jiakun
+- Lin Chia-lung
+- Qian Bo
+- Surangal Whipps Jr
+- Winston Peters
+organisations:
+- EU
+- Pacific Island Countries
+- Pacific Islands Forum
 ---
 
 China has said Taiwan will face “consequences” for its presence at the annual Pacific leaders’ summit in Palau on Monday.

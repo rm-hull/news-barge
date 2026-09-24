@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Diluvium**
+people:
+- '** Ippolito Salviani**'
+- Bill Moran**
+- Fulvio Pierangelini
+- Leo XIV
+organisations:
+- AQVA
+- AQVA**
+- Vatican Library
 ---
 
 Pope Leo XIV inaugurated **AQVA – Catastrophe and Wonder** on Monday, 14 September. Visitors enter through**Diluvium**, a 70-metre-long installation by French street artist** JR**, the first site-specific work commissioned for the exterior of the 16th-century library.

@@ -15,6 +15,33 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Geneva
+- Iran
+- Israel
+- Lamerd
+- Member States
+- Minab
+- Shajareh Tayyebeh
+- Tehran
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+- Sara Hossain
+organisations:
+- Fact-Finding Mission
+- Human Rights Council
+- IRGC
+- Independent International Fact-Finding Mission
+- Pentagon
+- Reuters
+- Shajareh Tayyebeh Primary School
+- Trump
+- UN Human Rights Council
+- US Central Command
+- United Nations’
 ---
 
 The United States is believed to have committed war crimes during two military strikes in Iran this year, including a devastating attack on a primary school which killed more than 120 children, a damning UN report says.

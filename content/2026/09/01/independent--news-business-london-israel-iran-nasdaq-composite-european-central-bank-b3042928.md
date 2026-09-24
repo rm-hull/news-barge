@@ -12,6 +12,67 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Antofagasta
+- Canada
+- Europe
+- France
+- Frankfurt
+- Fresnillo
+- Illinois
+- Iran
+- Israel
+- London
+- New York
+- Norway
+- Paris
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Weir
+people:
+- David Morrison
+- Inman
+- Kathleen Brooks
+- Mark Field
+- Mead Johnson
+- Russ Mould
+- Susannah Streeter
+organisations:
+- ADP
+- AJ Bell
+- Airtel Africa
+- Alliance News
+- BP
+- Beige Book
+- Bodycote
+- CVC Advisers
+- Cairn Homes
+- Capricorn Energy
+- DNO ASA
+- Danone
+- Endeavour Mining
+- European Central Bank
+- Eurostat
+- Federal Reserve
+- Fresnillo
+- Genel Energy
+- Mead Johnson
+- NEC
+- RBC Capital Markets
+- Reckitt Benckiser
+- Rentokil Initial
+- Rolls-Royce
+- Shell
+- TT Electronics
+- Tesco
+- Trade Nation
+- Treasury
+- US District Court for the Northern District of Illinois
+- Veritas Capital Fund Management
+- Wealth Club
+- XTB
 ---
 
 Stock prices in London closed lower on Tuesday as government bond yields soared on the back of rising oil prices, reigniting worries over inflation.

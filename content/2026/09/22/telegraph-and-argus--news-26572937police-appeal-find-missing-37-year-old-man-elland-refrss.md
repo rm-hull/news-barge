@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488686.jpg?type=og-image&xType=0&yType=595
+locations:
+- Bradford
+- Cleckheaton
+- Elland
+- Greetland
+- Saddleworth Road
+- Sunnybank Drive
+- West Yorkshire
+people:
+- Timothy
+organisations:
+- Bradford
+- WYP
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

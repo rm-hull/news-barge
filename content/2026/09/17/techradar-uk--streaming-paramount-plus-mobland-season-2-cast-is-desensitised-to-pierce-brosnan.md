@@ -14,6 +14,42 @@ categories:
 - Film & TV
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- London
+- Virgin River
+people:
+- Anson Boone
+- Conrad
+- Dame
+- Eddie Harrigan
+- Frankie
+- George Cooper Sr.
+- Gina
+- Harry (Tom Hardy
+- Helen Mirren
+- James Bond
+- Jan's
+- Janet McTeer
+- Joanne Froggatt
+- Johnny Flynn
+- Kat
+- Kevin
+- Maeve
+- Mandeep Dhillon
+- Paddy Considine
+- Pierce Brosnan
+- Seraphina Harrigan
+- Teddie Allen
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Paramount
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Maeve and Eddie talk over a greasy spoon cafe breakfast](https://cdn.mos.cms.futurecdn.net/ahqfxgqCUtMsPxKQysBAPh.jpg) 

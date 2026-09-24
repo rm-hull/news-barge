@@ -14,6 +14,33 @@ categories:
 - True Crime
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Endeavour Square
+- Herefordshire Magistrates’ Court
+- London
+- Lord Khan
+- Stratford
+- TfL
+- Tooting
+- Ulez
+people:
+- Baron Khan
+- Gordon Ramsay
+- Lord Khan
+- Lord Sadiq Khan
+- Sadiq Khan
+- Stefan Rousseau
+- Surinder Gidda
+organisations:
+- Bar & Rooftop
+- Bread Street Kitchen
+- City Hall
+- DVLA
+- Government
+- House of Lords
+- Nissan Micra
+- Press Association
+- TfL
 ---
 
 Sadiq Khan says he has fallen victim to a scam after he was convicted and fined for not taxing a 24-year-old Nissan Micra.

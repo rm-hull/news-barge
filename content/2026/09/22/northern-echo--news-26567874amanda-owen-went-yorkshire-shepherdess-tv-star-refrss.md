@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/20309354.jpg?type=og-image&xType=0&yType=48
+locations:
+- Britain
+- Huddersfield
+- Ravenseat
+- Swaledale
+- Wild
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Ben Fogle
+organisations:
+- Adventures of the Yorkshire Shepherdess
+- Channel 5
+- New Lives
+- Our Farm Next Door
+- Our Yorkshire Farm
+- The Dales
+- The Yorkshire Shepherdess
 ---
 
 She is a bestselling author, TV star and one of Britain’s biggest rural media personalities.

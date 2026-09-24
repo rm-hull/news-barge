@@ -13,6 +13,39 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620661583.jpg@webp
+locations:
+- Ahmedabad
+- Baden-Baden
+- Berlin
+- China
+- Cologne
+- Doha
+- Germany
+- Hamburg
+- Istanbul
+- Munich
+- Rhine-Ruhr
+- Riyadh
+people:
+- Christiane Benner
+- Elif Eralp
+- Friedrich Merz
+- Stephan Wassong
+organisations:
+- AFP
+- CDU
+- DOSB
+- DPA
+- EU
+- German Olympic Sports Confederation
+- German Sport University Cologne
+- How Munich
+- IG Metall
+- Justice and Interior
+- Left Party
+- Oktoberfest
+- Rhein-Ruhr
+- SPD
 ---
 
 **Tuesday's top story:Merz moves to block housing expropriation after Berlin election results**

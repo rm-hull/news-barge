@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/jYhNKT6ajnVT9GYqsMcAMJ-1920-80.png
 categories:
 - Technology & Software
 - History
+locations: []
+people:
+- Jackery
+- Owain Williams
+organisations:
+- BA
+- CRM
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![A Jackery 2000 V2 powering a Ninja air fryer in the kitchen](https://cdn.mos.cms.futurecdn.net/jYhNKT6ajnVT9GYqsMcAMJ.png) 

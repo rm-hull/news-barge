@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Connecting Our City
+- York
+people:
+- Lucy Steels-Walshaw
+- Lynne Gabriel OBE
+- Steve Wright
+organisations:
+- City of York Council
+- Connecting Our City
+- Daisy Chain
+- York Mental Health Partnership
+- York’s All-age Autism
 ---
 
 *(Image: City of York Council)*

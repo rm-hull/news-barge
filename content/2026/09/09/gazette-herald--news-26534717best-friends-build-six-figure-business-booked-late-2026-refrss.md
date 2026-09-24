@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- Northallerton
+- Thirsk
+- York
+people:
+- Chad Scatchard
+- Max Scott
+- Stuart Scott
+organisations:
+- Construction Industry Training Board
+- Elegant Projects
+- Elegant Projects Ltd
+- Gear4music
+- Pic
+- Torque Law of York
 ---
 
 *(Image: Pic supplied)*

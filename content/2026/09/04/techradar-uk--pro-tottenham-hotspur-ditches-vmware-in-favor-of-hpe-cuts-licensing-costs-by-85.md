@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/qXmgkSfHC9wZMbha3JPVA6-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- HPE Aruba Central
+- London
+- Tottenham Hotspur Stadium
+- UK
+people:
+- Craig Hale
+- Rob Pickering
+organisations:
+- Ars Technica
+- Broadcom
+- CTO
+- Craig’s
+- Google News
+- HPE Morpheus
+- HPE Morpheus VM Essentials
+- Pickering
+- TechRadar Pro
+- Tesco
+- Tottenham Hotspur
+- VMware
+- Wi-Fi 7
 ---
 
 ![Tottenham Hotspur Stadium](https://cdn.mos.cms.futurecdn.net/qXmgkSfHC9wZMbha3JPVA6.jpg) 

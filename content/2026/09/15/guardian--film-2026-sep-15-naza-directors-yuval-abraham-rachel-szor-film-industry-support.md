@@ -14,6 +14,56 @@ categories:
 - News & Politics
 - Film & TV
 - Society & Culture
+locations:
+- Berlin
+- Bologna
+- Gaza
+- Israel
+- Locarno
+- New York
+- San Sebastián
+- Susya
+- US
+- Venice
+- West Bank
+- West Bank.
+people:
+- Basel Adra
+- Citizenfour
+- Edward Snowden
+- Hagai Levi
+- Hamdan Ballal
+- Hanif Kureishi
+- James Wilson
+- Jonathan Glazer
+- Julie Huntsinger
+- Laura Poitras
+- Liran Atzmor
+- Maggie Gyllenhaal
+- Miki Zohar
+- Nadav Lapid
+- Nan Goldin
+- Netalie Braun
+- Orna Ben Dor
+- Oscar
+- Rachel Szor
+- Rani Blair
+- Richard Eyre
+- Shai Carmeli-Pollak
+- Shlomi Elkabetz
+- Tricia Tuttle
+- Wolfram Weimer
+- Yuval Abraham
+organisations:
+- 972 Magazine
+- Academy of Motion Pictures and Sciences
+- Berlinale
+- Bild
+- Guardian
+- Local Call
+- NAZA
+- National Security Authority
+- WikiLeaks
 ---
 
 Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason against the state”.

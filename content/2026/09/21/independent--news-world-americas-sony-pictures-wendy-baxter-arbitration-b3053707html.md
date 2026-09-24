@@ -14,6 +14,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/15/470741848..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Korea
+people:
+- Jacqui Ngo
+- Steven A. Ellis
+- Wendy Baxter
+organisations:
+- Baxter
+- Disney
+- Los Angeles Superior Court
+- Operations in People & Organization
+- Sony Pictures Entertainment, Inc
+- Sony Pictures Television Inc.
+- WB Network
 ---
 
 Sony Pictures Television Inc. has secured a legal victory after a judge directed an age discrimination lawsuit brought by a former executive to private arbitration.

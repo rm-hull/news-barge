@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Castlegate
+- Woodthorpe
+- York
+people:
+- Leon Sledmore
+- Molly McGrath
+organisations:
+- Bar and Kitchen
+- Castlegate
+- Sloppy
+- Sloppy’s
 ---
 
 A York restaurant which only opened in its new home last month will soon have to close for major repairs.

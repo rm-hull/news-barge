@@ -11,6 +11,19 @@ description: I haven't stopped watching music videos on Spotify since the app ca
 image: https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- TechRadar
+- Whitney Houston
+people:
+- Rowan Davies
+organisations:
+- Google News
+- Spotify
+- TechRadar
+- Troye Sivan
+- VIDAA OS
+- VIDAA TVs
+- YouTube Premium
 ---
 
 ![The Poker Face music video playing on the Spotify smart TV app](https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn.jpg) 

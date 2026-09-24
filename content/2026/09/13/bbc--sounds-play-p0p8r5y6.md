@@ -11,6 +11,25 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- UK
+people:
+- Ben Andrews
+- Chris Flynn
+- Chris Gray
+- Eleanor Harrison-Dengate
+- Joe Wilkinson
+- Laura Kuenssberg
+- Paddy O’Connell
+- Robert Jenrick
+- Sam Bonham
+organisations:
+- AI
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

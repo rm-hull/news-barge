@@ -11,6 +11,35 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg
+locations:
+- Azerbaijan
+- France
+- Kremlin
+- Latvia
+- Luxembourg
+- Moscow
+- Russia
+- Ukraine Fridman
+- Ukraine.
+people:
+- Alisher Usmanov
+- Andris Kulbergs
+- Andriy Sybiha
+- Dmitry Peskov
+- Mikhail Fridman
+- Pyotr Aven
+- Vladimir Putin
+organisations:
+- Alfa Group
+- Arsenal
+- EU
+- English Premier League
+- European Union
+- Everton
+- Fridman
+- Megafon
+- USM Holding
+- Usmanov
 ---
 
 ![Alisher Usmanov, a middle aged man wearing glass and a dark suit, adjusts his tie while looking upwards](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg)

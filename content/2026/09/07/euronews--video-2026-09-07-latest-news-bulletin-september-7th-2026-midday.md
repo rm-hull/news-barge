@@ -12,6 +12,46 @@ image: https://images.euronews.com/articles/stories/09/90/41/01/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Denmark
+- Devighat
+- England.
+- Europe
+- Greenland
+- Kyiv
+- Mariinsky
+- Mount Anak Krakatau
+- Netherlands
+- Norway
+- Nuuk.
+- Oxford
+- Trishuli river
+- U.S.
+- Ukraine
+people:
+- Christophe Hansen
+- Donald Trump
+- Jared Kushner
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+- Steve Witkoff
+- Subhra Bhattacharjee
+- Ulrich Siegmund
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+organisations:
+- AfD
+- Amazon
+- Euronews
+- European Commission
+- FSC
+- Forest Stewardship Council
+- Isar Aerospace
+- MIA
+- Miami International Airport
+- Pitt Rivers Museum
+- Soekarno-Hatta International Airport
+- University of Oxford
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

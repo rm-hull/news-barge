@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- England
+- High Smithy Holme
+- Muker
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Smithy Holme
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Anthony Clarkson
+- Anty John
+- Clive
+- Owens
+- Ravenseat
+- Reuben
+- Sid
+organisations:
+- Anty John's
+- Clive and Kids
+- Farm Next Door
+- More4
+- Swaledale
 ---
 
 Our Farm Next Door may leave viewers wondering how close Amanda Owen's huge renovation project really is to Ravenseat Farm.

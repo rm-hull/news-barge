@@ -15,6 +15,12 @@ categories:
 - Family & Parenting
 - Self-Improvement
 - Education & Learning
+locations: []
+people:
+- Eleanor Bryant
+organisations:
+- Bradford Mental Health Research Centre
+- University of Bradford
 ---
 
 *(Image: University of Bradford)*

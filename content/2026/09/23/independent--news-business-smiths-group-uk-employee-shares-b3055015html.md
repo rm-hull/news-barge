@@ -14,6 +14,18 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2025/10/17/08/17074731-ef4835da-9ac4-4012-ae27-78f946a90446.jpg?width=1200&height=800&crop=1200:800
+locations:
+- London
+- UK
+people:
+- Kini Pathmanathan
+- Roland Carter
+- Samuel Smith
+organisations:
+- Flex-Tek
+- John Crane
+- Smiths Group
+- Smiths’
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

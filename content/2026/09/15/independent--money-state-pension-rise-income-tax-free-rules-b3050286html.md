@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- St. James’s Place
+- UK
+people:
+- Andy Burnham
+- Claire Trott
+- John Healey
+- Jonathan Reynolds
+- Rachel Reeves
+organisations:
+- BBC Breakfast
+- Budget
+- State Pension
+- Treasury
 ---
 
 The state pension is set to rise by £489 next year– but may drag pensioners into paying tax.

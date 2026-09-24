@@ -15,6 +15,22 @@ categories:
 - UK
 - True Crime
 - Family & Parenting
+locations:
+- Children’s National Hospital
+- Congress Heights Metro Station
+- New Jersey Avenue
+- Southeast Washington
+- Washington, D.C.
+people:
+- Demetrius Beatty
+- Khamyah Honesty
+- Maya
+organisations:
+- CBS
+- Child and Family Services Agency
+- D.C
+- Metropolitan Police Department
+- WUSA9
 ---
 
 A 40-year-old Washington, D.C., man fatally beat a two-month-old girl in a jealous rage before attempting to blame the injuries on his six-year-old autistic son, prosecutors allege.

@@ -15,6 +15,37 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Colombia
+- Ecuador
+- US
+- Valle del Guamuez
+- ZUT
+people:
+- Abelardo de la Espriella
+- Adrián
+- Araña” (Spider
+- Armando Novoa
+- Daniela Díaz
+- De la Espriella
+- Geovany Andrés Rojas
+- Gustavo Petro
+- Natalia Briñez
+- Natalia Bríñez
+- Paula Tobo
+organisations:
+- Bolivarian Army
+- CNEB
+- Commandos of the Frontier
+- Congress
+- Farc
+- Guardian
+- Ideas for Peace Foundation
+- National Security Commission
+- Office of the High Commissioner for Peace
+- Petro
+- Revolutionary Armed Forces of Colombia
+- ZUT
 ---
 
 In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.

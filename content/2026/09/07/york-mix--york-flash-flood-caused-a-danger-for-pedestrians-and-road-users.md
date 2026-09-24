@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Heslington Hall
+- Heslington Lane
+- Main Street
+people:
+- Andrew Mortimer
+- Luke Draper
+organisations:
+- City of York Council
+- Post Office
+- Yorkshire Water
 ---
 
 A flash flood that caused “a danger for any pedestrian or road users” is to be investigated.

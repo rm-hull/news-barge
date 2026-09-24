@@ -12,6 +12,32 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Abu Dhabi
+- Ankara
+- London
+- Paris
+- UK
+- Wakefield
+- Washington DC
+people:
+- Grace Clifford
+- Kedisha Coakley
+- Ruth Mackenzie
+- Sam Metz
+- Sharon Gill
+organisations:
+- '## Strengthening Regional Arts Ecosystems'
+- '** Government Art Collection'
+- CVAN England
+- Contemporary Visual Arts Network
+- DCMS
+- Department for Culture, Media and Sport
+- GAC
+- Humber Visual Art Network
+- The Art House
+- YVAN
+- Yorkshire and Humber Visual Art Network
 ---
 
 **HARROGATE**— Artworks created by a generation of visual artists from Yorkshire and the Humber have been officially acquired by the** Government Art Collection (GAC)** to represent British culture on the international stage.

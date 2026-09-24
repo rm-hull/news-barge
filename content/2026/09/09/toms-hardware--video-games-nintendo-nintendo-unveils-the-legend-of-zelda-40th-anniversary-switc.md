@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Hassam Nasir
+- Tom
+- Zelda
+organisations:
+- Google News
+- Nintendo
+- Wii U
 ---
 
 ![The Legend of Zelda™ – 40th Anniversary Edition Nintendo Switch 2, Pro Controller, and Carrying Case](https://cdn.mos.cms.futurecdn.net/QCHtKLempBbg2Jak6MWwKb.jpg) 

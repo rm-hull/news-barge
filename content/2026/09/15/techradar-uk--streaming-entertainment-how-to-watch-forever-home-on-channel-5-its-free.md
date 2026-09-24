@@ -11,6 +11,51 @@ image: https://cdn.mos.cms.futurecdn.net/dLESBk75dR4xLdpp6j87YV-2336-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- New Zealand
+- States
+- UK
+- US
+people:
+- '**Aimée Kelly'
+- '**Lewis Cope'
+- '**Ricky Shah'
+- Amy Nuttall
+- Anna Leong Brophy
+- Anna Tanner
+- Carol Crottie
+- DCI Isaac Taylor
+- Dan Evans
+- Denise Welch
+- Douglas Henshall
+- Graham Norton
+- Graham Norton'sForever
+- James Baxter
+- Jenny Walser
+- Joan Barrie
+- Kaden Barrie
+- Kevin Whately
+- Lewis Cope
+- Martha
+- Moira Crottie
+- Patrick Tanner
+- Robert Barrie
+- Sally Barrie
+- Samantha Bond
+- Shane Zaza
+- Silent Dave
+- Tom Bailey
+organisations:
+- Elle Deco
+- Future plc
+- Graham Norton
+- Men's Health
+- The Daily Telegraph
+- The Mail
+- The Sun
+- The Sunday Times
 ---
 
 ![Cast of Forever Home on Channel 5 standing in warm clothing in front of an eerie old stone house](https://cdn.mos.cms.futurecdn.net/dLESBk75dR4xLdpp6j87YV.png) 

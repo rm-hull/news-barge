@@ -13,6 +13,35 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Bayeux
+- Britain
+- Downing Street
+- England
+- English Channel
+- France
+- Iran
+- London
+- Middle East
+- Normandy
+- Paris
+- Russia
+- UK
+- Ukraine
+- United Kingdom
+people:
+- Andy Burnham
+- Brexit
+- Camilla
+- Charles III
+- Emmanuel Macron
+- Harold
+- William the Conqueror
+organisations:
+- British Museum
+- European Union
+- Kyiv
+- Macron
 ---
 
 ## For Macron, the visit comes in the final months of his presidency as he continues to push for greater European sovereignty, with Britain playing a key role despite Brexit.

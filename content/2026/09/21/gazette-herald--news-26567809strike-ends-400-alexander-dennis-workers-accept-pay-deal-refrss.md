@@ -14,6 +14,24 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21176354.jpg?type=og-image
+locations:
+- Britain
+- North Yorkshire
+- Scarborough
+- UK
+- Unite
+- Whitby
+people:
+- Alexander Dennis
+- Alexander Dennis Picket
+- Alison Hume
+- Dan Stephens
+- Sharon Graham
+organisations:
+- LDRS
+- Liverpool City Region Combined Authority
+- Local Democracy Reporting Service
+- Unite
 ---
 
 The end of strike action by 400 workers at a major North Yorkshire bus manufacturer has been welcomed by staff and bosses.

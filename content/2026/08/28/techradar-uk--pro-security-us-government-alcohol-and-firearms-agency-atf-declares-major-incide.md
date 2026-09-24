@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Russia
+- Sarajevo
+people:
+- Qilin
+- Sead
+organisations:
+- ATF
+- Al Jazeera Balkans
+- Bureau of Alcohol, Tobacco, Firearms and Explosives
+- California Truck Equipment
+- DOJ
+- Department of Justice
+- Google News
+- Metal Conversions
+- Northern Leasing Systems
+- Qilin
+- Represent Communications
+- Synnovis
+- TechRadar Pro
+- The Register
+- US Government
+- WireCo
 ---
 
 ![Proactive Cybersecurity Service That Neutralizes Threats Within a Digital Network - Conceptual Illustration](https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn.jpg) 

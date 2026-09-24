@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - True Crime
+locations:
+- London
+- UK
+people:
+- Aisling Bea
+- Cerys
+- Felix
+- Jimmy Carr
+- John Bishop
+- Lauren
+- Michael McIntyre
+- Mo Gilligan
+- Russell Howard
+organisations:
+- BBC Action Line
+- Cerys
+- Good News
+- NHS
+- New Broadcasting House
+- O2 Arena
+- The Felix Foundation
 ---
 
 ![Russell Howard pictured at the BBC's New Broadcasting House, wearing a blue T-shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg)

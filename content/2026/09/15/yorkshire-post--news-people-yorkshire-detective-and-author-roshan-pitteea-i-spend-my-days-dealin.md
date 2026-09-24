@@ -17,6 +17,24 @@ categories:
 - York
 - Arts & Culture
 - True Crime
+locations:
+- Leeds
+- UK
+- Waterstones Bradford
+- Yorkshire
+people:
+- '## Roshan Pitteea'
+- Agatha Christie
+- Calderdale
+- James Hadley Chase
+- Laura Reid
+- Louis Mortimer
+- Roshan Pitteea
+- Roshan Pitteea.
+organisations:
+- Gris Gris Publishing
+- Leeds City Council
+- The Voodoo Room
 ---
 
 # Yorkshire detective and author Roshan Pitteea: 'I spend my days dealing with child abuse, rape and death and in my crime fiction, I want people to feel the realism of policing'

@@ -14,6 +14,60 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- California
+- Camden
+- Cleveland
+- Downing Street
+- Gaza
+- Hackney North
+- Hackney South
+- Holborn
+- London
+- Manchester
+- North Allerton
+- Richmond
+- St Pancras
+- UK
+- Walthamstow
+people:
+- Alex Norris
+- Andy Burnham
+- Antonello Guerrera
+- Boris Johnson
+- David Cameron
+- Denton
+- Edward Heath
+- Frank Dobson
+- Gordon Brown
+- Gorton
+- Hannah Spencer
+- Harold Wilson
+- Holborn
+- James Callaghan
+- Jeremy Corbyn
+- Jessica Elgotreports
+- John Healey
+- Keir Starmer
+- Kevin Hollinrake
+- Liz Truss
+- Rishi Sunak
+- Shabana Mahmood
+- Theresa May
+- Tony Blair
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Green
+- Greens
+- House of Commons
+- La Repubblica
+- Labour
+- London Assembly
+- New Journal
+- Partygate
+- Tower Hamlets
+- Your Party
 ---
 
 Keir Starmer to quit parliament, triggering byelection in north London seat – UK politics live

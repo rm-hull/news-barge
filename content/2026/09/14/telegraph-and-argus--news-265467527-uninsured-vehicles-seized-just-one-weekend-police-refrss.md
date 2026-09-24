@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Bradford Road
+- Keighley
+- West Yorkshire
+people: []
+organisations:
+- Keighley Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

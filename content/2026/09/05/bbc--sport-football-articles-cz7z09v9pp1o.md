@@ -12,6 +12,101 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arsenal
+- Aston Villa
+- Belgium
+- Bernabeu
+- Brazil
+- Emirates Stadium
+- England
+- Forest to City
+- Greece
+- London
+- Newcastle
+- Roc Nation
+- Spain
+- Sweden
+people:
+- '## Konsa'
+- Alex Scott
+- Amadou Onana
+- Andrea Berta
+- Anthony Gordon
+- Benjamin Sesko
+- Bradley Barcola
+- Christian Norgaard
+- Christos Tzolis'
+- Cristian Romero
+- Eli Junior Kroupi
+- Elliot Anderson
+- Ethan Nwaneri
+- Ezri Konsa
+- Fabio Vieira
+- Gabriel Jesus
+- Gabriel Martinelli
+- Guimaraes'
+- Guimares
+- Illan Meslier
+- Ivan Fresneda
+- Jacobo Ramon
+- Jakub Kiwior
+- Jeremy Monga
+- Joao Pedro
+- Julian Alvarez
+- Karl Hein
+- Kenan Yildiz
+- Leandro Trossard
+- Louis Page
+- Malick Fofana
+- Maurizio Micheli
+- Micky van der Ven
+- Mikel Arteta
+- Morgan Rogers
+- Myles Lewis-Skelly
+- Nico Paz
+- Piero Hincapie
+- Rogers'
+- Sandro Tonali
+- Scott Bruno Guimaraes
+- Tarik Muharemovic
+- Tzolis
+- Viktor Gyokeres
+- Vinicius Jr
+- Yan Diomande
+organisations:
+- Al-Hilal
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- BBC Sport
+- Barcelona
+- Besiktas
+- Borussia Dortmund
+- Bournemouth
+- Chelsea
+- Club Brugge
+- Como
+- Emirates
+- Guimaraes
+- Guimaraes'
+- Gunners
+- Konsa
+- Kroenke Sports Entertainment
+- Leeds United
+- Leicester City
+- Lyon
+- Manchester City
+- Manchester United
+- Newcastle United
+- Norwich
+- Real Madrid
+- Roc Nation
+- Spurs
+- Tonali
+- Tottenham
+- Trossard
+- Vinicius Jr
 ---
 
 **Going into the summer transfer window as Premier League champions, hope sprang eternal forArsenal.**

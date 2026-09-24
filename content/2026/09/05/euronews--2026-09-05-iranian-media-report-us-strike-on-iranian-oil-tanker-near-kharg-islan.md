@@ -12,6 +12,21 @@ image: https://images.euronews.com/articles/stories/09/90/24/59/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Iran
+- Kharg Island
+- Larak Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people: []
+organisations:
+- CENTCOM
+- IRGC
+- Iranian Revolutionary Guards Corps
+- US Central Command
 ---
 
 **Euronews Persian**

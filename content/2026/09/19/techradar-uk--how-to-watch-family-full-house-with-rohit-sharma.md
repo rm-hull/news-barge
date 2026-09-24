@@ -12,6 +12,45 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 image: https://cdn.mos.cms.futurecdn.net/dargWLQUJkfzZpg6vZAsHR-1920-80.jpg
+locations:
+- Australia
+- Canada
+- India
+- UK
+- US
+people:
+- Abhishek Nayar
+- Bharti Singh
+- Chandan Prabhakar
+- Haarsh Limbachiyaa
+- Jannat Zubair
+- Kapil Sharma
+- Krishi
+- Kunal Khemu
+- Ludwig
+- Rohit Sharma
+- Samay Raina
+- Shana
+- Shardul Thakur
+- Shikhar Dhawan
+- Shreyas Iyer
+- Sophie Shine
+organisations:
+- Desi Binge Plus
+- Future Publishing
+- Indian TV
+- Krishi
+- Netflix
+- NordVPN
+- ODI
+- Rohit Sharma
+- Samsung
+- Sling TV
+- Sony LIV
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
 ---
 
 ![Family Full House With Rohit Sharma](https://cdn.mos.cms.futurecdn.net/dargWLQUJkfzZpg6vZAsHR.jpg)

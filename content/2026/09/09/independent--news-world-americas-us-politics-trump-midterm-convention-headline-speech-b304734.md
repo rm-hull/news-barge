@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/09/14/2294241582..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Michigan
+- Texas
+- U.S.
+- White House
+people:
+- Donald Trump
+- Donald Trump Jr.
+- JD Vance
+- James Talerico
+- Karoline Leavitt
+- Ken Paxton
+- Mike Johnson
+- Mike Rogers
+- Robert F. Kennedy Jr.
+- Scott Bessent
+- Ted Cruz
+- Texas Sen
+- Todd Blanche
+organisations:
+- GOP
+- House
+- MAGA Inc
+- NFL
+- New England Patriots
+- Politico
+- RNC
+- Republican Party
+- Seattle Seahawks
+- Texas Senate
+- Treasury
 ---
 
 President Donald Trump is set to kick off the Republican Party’s first-ever midterm convention with a pair of speeches spanning both nights of the Texas confab, even as GOP candidates in close races avoid the entire spectacle.

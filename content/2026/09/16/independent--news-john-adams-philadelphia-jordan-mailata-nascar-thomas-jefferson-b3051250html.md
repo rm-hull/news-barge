@@ -15,6 +15,39 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- America
+- Historic Philadelphia
+- Old City
+- Pennsylvania
+- Santa Claus
+people:
+- Ben Franklin
+- Betsy Ross
+- Carol Spacht
+- Deborah Sampson
+- Derek Jeter
+- George Washington
+- Jackson Pavlik
+- James Forten
+- Jason Greenplate
+- Johanna Dunphy
+- John Adams
+- Jordan Mailata
+- Keith Henley
+- Punxsutawney Phil
+- Thomas Jefferson
+organisations:
+- Betsy Ross House
+- Costco
+- Girl Scouts
+- Historic Philadelphia
+- Historic Philadelphia, Inc
+- MLB All Star
+- NASCAR
+- PA
+- Revolutionary Army
+- Trump Administration
 ---
 
 Betsy Ross is a dynamo with a T-shirt cannon.

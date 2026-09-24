@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Baildon
+- Guiseley
+- Ilkley
+- Milwaukee
+- Northgate
+- Otley
+- Shipley
+- UK
+- Wakefield
+- West Yorkshire
+- Wisconsin
+people:
+- Arthur Davidson
+- Lee Boyes
+- Shipley Harley Davidson
+- Walter
+- William S. Harley
+organisations:
+- Baildon Rugby Club
+- Harley Davidson
+- Newsquest Harley-Davidson
+- Road Kings
+- Shipley Neighbourhood Policing Team
+- Sportsters
+- The Wrecking Crew
 ---
 
 THE streets of West Yorkshire shook as hundreds of Harley-Davidson motorcycles rumbled into Shipley over the weekend.

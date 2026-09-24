@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Law & Justice
+locations:
+- Light
+- Massachusetts
+- Plymouth
+people:
+- Dawn Light
+- Jennifer White
+- Lindsay Clancy
+- Ms Clancy
+- William Sullivan
+organisations:
+- Clancy
+- Dawn Light
 ---
 
 Dawn Light was chased by a scrum of reporters as she left court

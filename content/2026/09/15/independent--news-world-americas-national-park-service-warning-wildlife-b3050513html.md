@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Florida
+- Glacier National Park
+- Grand Teton National Park
+- Great Smoky National Park
+- Idaho
+- Montana
+- Olympic National Park
+- Tennessee
+- U.S.
+- Washington
+- Wyoming
+- Yellowstone National Park
+people: []
+organisations: []
 ---
 
 America’s national park lovers should get outside to view majestic wildlife this fall - as long as it’s from a safe distance, officials warned Monday.

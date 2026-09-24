@@ -11,6 +11,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- OpenAI
+- U.S.
+people:
+- Jacob Coxon
+- Paul Christiano
+- Zico Kolter
+organisations:
+- AI Safety Institute
+- Alignment Research Center
+- Anthropic
+- Astra
+- Carnegie Mellon University
+- Center for AI Standards and Innovation
+- OpenAI Foundation
+- RL
+- Safety and Security Committee
+- TechCrunch
 ---
 
 Paul Christiano, an influential AI researcher focused on keeping AI systems aligned with human interests and under human control, is joining the OpenAI Foundation board, the frontier lab said Wednesday.

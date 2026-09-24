@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berlin
+- Germany
+- Russia
+- Ukraine
+people:
+- Ilona W.
+organisations:
+- Ministry of Defense
 ---
 
 Germany's federal prosecutor's office said Monday it had filed charges against a German-Ukrainian woman suspected of acting on behalf of Russian intelligence.

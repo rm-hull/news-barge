@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Appalachian Mountain Club
+- Appalachian Trail
+- Baxter State Park
+- Big Wilson Stream
+- Georgia
+- Kentucky
+- Killington Mountain
+- Maine
+- Mississippi River
+- Monson
+- Mount Katahdin
+- Mt. Katahdin
+- New Hampshire
+- Pennsylvania
+- Piscataquis County
+- Springer Mountain
+- Tennessee
+- U.S.
+- Vermont
+- West Virginia
+people:
+- '![Sanders'
+- Dale Sanders
+- Eberhart
+- God
+- Grey Beard
+- M.J
+- Meredith Ewenson
+- Nimblewill Nomad
+organisations:
+- Appalachian Trail
+- Appalachian Trail Conservancy
+- Grey Beard
+- Navy
 ---
 
 Falls affect more than 14 million older adults in the U.S. every year, but few experience them quite as frequently as 91-year-old Dale Sanders.

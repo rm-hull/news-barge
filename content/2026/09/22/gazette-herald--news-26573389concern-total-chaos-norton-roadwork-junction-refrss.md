@@ -13,6 +13,26 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21489383.jpg?type=og-image&xType=0&yType=897
+locations:
+- Bazley’s Lane
+- Church Street
+- North Yorkshire
+- Norton
+- Scarborough
+- St Nicholas Street
+- Welham Road
+people:
+- Cllr Di Keal
+- Cllr Duncan
+- Cllr Keal
+- Cllr Keane Duncan
+- Norton
+organisations:
+- BP
+- Coastliner
+- NGN
+- North Yorkshire Council
+- Northern Gas Networks
 ---
 
 *(Image: Freelancer)*

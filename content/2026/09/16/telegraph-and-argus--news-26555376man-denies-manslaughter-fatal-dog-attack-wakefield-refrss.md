@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Blacker Lane
+- Calder Grove
+- Leeds Crown Court
+- Leeds General Infirmary
+- Wakefield
+people:
+- James Judge
+- Lee Ellis
+- Oliver Longstaff
+- Rob Fones
+- Tom Bayliss KC
+organisations: []
 ---
 
 *(Image: PA)*

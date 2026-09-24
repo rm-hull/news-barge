@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/cfc7cfaa202950f16cdea6b3357fd8145833ec3b/204_0_2309_1848/master/2309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3122dda6b1b75bbbf19c815b832e2257
+locations:
+- Melbourne
+- Queensland
+- Victoria
+people:
+- Barnaby Joyce
+- Gabrielle Williams
+- Ingrid Stitt
+- Jess Wilson
+- Joanna Howe
+- Mark Newman
+- Pauline Hanson
+- Warren Pickering
+organisations:
+- Facebook
+- Herald Sun
+- Labor
+- Liberal National Coalition
+- Liberal One Nation
+- Liberal and Nationals
+- NSW
+- New South Wales
+- One Nation
 ---
 
 The Victorian Labor government is announcing new measures to improve access to medical abortion, as it puts reproductive rights on the election agenda and claims One Nation could use abortion as a negotiating chip with the Coalition in the event of a hung parliament.

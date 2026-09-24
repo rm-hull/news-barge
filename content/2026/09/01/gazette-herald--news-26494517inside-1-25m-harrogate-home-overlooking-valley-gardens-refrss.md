@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Rangemaster
+- Valley Drive
+- Valley Gardens
+people:
+- Enfields Luxe
+- Thomas Rutling
+organisations:
+- Enfields Luxe
 ---
 
 A six-bedroom Victorian house is for sale in Harrogate with offers over £1,250,000.

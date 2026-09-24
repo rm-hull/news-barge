@@ -14,6 +14,30 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- California
+- Europe
+- Finland
+- Hamina
+- Kajaani
+- Kouvola
+- Loviisa
+- Mountain View
+- Muhos
+- US
+- United States
+- Vaala
+people:
+- Petteri Orpo
+- Ruth Porat
+organisations:
+- AI
+- Alphabet
+- Fortum
+- Gemini
+- Google
+- Orpo
+- TikTok
 ---
 
 ![Google headquarters in Mountain View, California, United States](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg)

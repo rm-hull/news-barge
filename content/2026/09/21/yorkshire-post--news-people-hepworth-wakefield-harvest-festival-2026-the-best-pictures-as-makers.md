@@ -14,6 +14,22 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM3NTA4ZTQwLTZjMjAtNDNjYy1iZTJlLTBlNGM1MmQ0ZTczYzozNWI1YWI5Yy05YTNiLTQwNGUtOWEwZi0wZTc5ODc3ZDI0MDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Lincoln
+- The Hepworth Wakefield
+- Tileyard North
+- UK
+- Wetherby
+people:
+- Fiona Fawcett
+- Jacqueline Seymour
+- James Hardisty
+- Poppy McInerney
+organisations:
+- Bee-Spoke Quilts
+- Plewsy
+- Poppy & Thread
+- Rosie Chase
 ---
 
 The Hepworth Wakefield Harvest Festival returned for 2026, bringing more than 70 independent designers, makers, producers and businesses together for a colourful celebration of the new season.

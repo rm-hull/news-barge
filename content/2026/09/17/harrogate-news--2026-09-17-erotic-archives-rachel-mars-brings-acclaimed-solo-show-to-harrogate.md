@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Comedy & Entertainment
+locations:
+- Fringe
+people:
+- Frida Kahlo
+- Georgia O’Keeffe
+- James Joyce
+- Rachel Mars
+organisations:
+- Fringe Review
+- Harrogate Theatre
+- Harrogate Theatre Booking Platform
+- The Guardian
 ---
 
 **HARROGATE**— Multi-award-winning theatre maker and writer Rachel Mars is set to bring her critically acclaimed solo show to the region as part of the line-up for the Harrogate Comedy Festival.

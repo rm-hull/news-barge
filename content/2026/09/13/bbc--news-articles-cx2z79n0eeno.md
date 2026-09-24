@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Comerford
+- County Clare
+- Doonbeg
+- Dublin
+- Galway
+- Ireland.
+- Las Vegas
+- Nevada
+- Northern Ireland
+- Republic of Ireland
+- Scotland
+- U.S.
+- US
+- USA
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Doonbeg
+- God
+- Jesus
+- Martin Kelly
+- Micheál Martin
+- Seoirse Comerford
+- Shane Lowry
+- Steven Foster
+- Taoiseach
+organisations:
+- BBC News NI
+- Deerfield Residence
+- EU
+- Ennis District Court
+- Gardai
+- Intel
+- RTÉ
+- Red Rock Casino Resort Spa
+- Seoirse Comerford
+- Trump International
+- Trump International Golf Course
+- Trump International Golf Links
 ---
 
 ![U.S. President Donald Trump attends the Amgen Irish Open at Trump International Golf Links in Doonbeg, Ireland. He is wearing a white USA baseball cap, navy blazer with a white shirt. He has his arms outstretched.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3cfe/live/0240b380-af82-11f1-913a-7151f234deb3.jpg)

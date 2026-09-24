@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Persian Gulf
+people: []
+organisations:
+- AI
+- Change Healthcare
+- Cigna
+- Fusion Risk Management
+- Future plc
+- HBR
+- Harvard Business Review
+- Peloton
+- StackGen
+- TechRadar Pro
+- TechRadarPro
+- iTutorGroup
 ---
 
 ![Phishing, E-Mail, Network Security, Computer Hacker, Cloud Computing Cyber Security 3d Illustration](https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX.jpg) 

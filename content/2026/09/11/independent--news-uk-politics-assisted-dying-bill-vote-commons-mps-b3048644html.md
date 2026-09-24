@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/11/12/01M27YZKD0SCQXMZ5QJZ9Y31WG
 categories:
 - News & Politics
 - UK
+locations:
+- Canterbury
+- England
+- Wales
+people:
+- Andy Burnham
+- Ashley Dalton
+- Bill
+- Claire Hazelgrove
+- Dame Esther Rantzen
+- Jess Phillips
+- Lauren Edwards
+- Peter Prinsley
+- Richard Moth
+- Sarah Mullally
+- Toby Porter
+organisations:
+- BBC
+- Bill
+- Church of England
+- End of Life
+- Hospice UK
+- House of Commons
+- House of Commons.
+- House of Lords
+- Labour
+- RCPsych
+- Royal College of Psychiatrists
+- Terminally Ill Adults
 ---
 
 The assisted dying bill will not become law after MPs voted down the legislation in a dramatic U-turn on Friday after an emotional four-hour debate.

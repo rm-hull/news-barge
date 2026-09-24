@@ -12,6 +12,33 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/rdKBdA8MyVUSyyy4HVC7qL-1920-80.jpg
+locations:
+- Brothers
+- Hollywood
+- Texas
+- UK
+- US
+people:
+- Brittany Ishibashi
+- Brothers
+- Dax Shepard
+- Holland Taylor
+- Joy Harrelson
+- Lee Eisenberg
+- Ma Mac
+- Matthew McConaughey
+- Matthew’s Texan
+- Natalie Martinez
+- Tom Wardley
+- Valentina McConaughey
+- Woody Harrelson
+organisations:
+- Apple TV
+- BFF
+- Film Studies
+- Future Publishing
+- TechRadar
+- University of South Wales
 ---
 
 ![Woody Harrelson and Matthew McConaughey in Brothers](https://cdn.mos.cms.futurecdn.net/rdKBdA8MyVUSyyy4HVC7qL.jpg)

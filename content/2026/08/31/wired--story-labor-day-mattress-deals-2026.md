@@ -12,6 +12,11 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations: []
+people:
+- Nena Farrell
+organisations:
+- WIRED
 ---
 
 Mattress deals come around pretty frequently, which means you can almost always save at least *some* money. But the very best deals come around Memorial Day, Labor Day, Black Friday, and Cyber Monday. If you're in the market for a new bed, or you need some sleep accessories like bedding, pillows, or blankets, we've found deals on tried-and-tested favorites. We'll update this story again as more Labor Day mattress deals go live.

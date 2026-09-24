@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Canada
+- Grenfell
+- Hillsborough
+- Ontario
+- UK
+- USA
+people:
+- Andy Burnham
+- Andy Burrows
+- Kenneth Law
+organisations:
+- 988 Suicide and Crisis Lifeline
+- FSPOSH
+- Families and Survivors to Prevent Online Suicide Harms
+- Horizon Post Office
+- Kenneth Law
+- Molly Rose Foundation
+- Ofcom
+- Samaritans
 ---
 
 The bereaved families of individuals who died by suicide linked to an online forum have called on Andy Burnham to support their call for a public inquiry.

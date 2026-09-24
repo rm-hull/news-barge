@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Jeff Kampman
+- Jeffrey Kampman
+organisations:
+- 2K Games'
+- Ada GPUs
+- Blackwell
+- DLSS MFG
+- DLSS SR
+- FrameView
+- GPU
+- GTC
+- Get Tom's Hardware
+- Multi Frame Generation
+- NBA
+- Nvidia
+- PCAT
+- RT
+- RTX
+- Tom's Hardware
 ---
 
 ![NBA 2K27 gameplay](https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF.jpg) 

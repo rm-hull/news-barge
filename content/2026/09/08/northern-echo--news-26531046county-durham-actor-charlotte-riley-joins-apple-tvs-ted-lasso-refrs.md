@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Grindon
+- North East
+- Richmond
+- Stockton
+- Ted Lasso Quiet County Durham
+- TedLasso
+people:
+- Beard
+- Charlotte Riley
+- Jane Payne
+- Jason Sudeikis
+- Meet Darlington
+- Ru Paul
+- Ted Lasso
+- Tom Hardy
+organisations:
+- AFC Richmond
+- Apple TV
+- County Durham
+- Doozer Productions
+- Peaky Blinders
+- Warner Bros
+- Wuthering Heights
 ---
 
 County Durham actor Charlotte Riley has officially joined the cast of Apple TV+ hit Ted Lasso, with viewers already speculating that her character could play a key role in Ted’s future.

@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Active North Yorkshire
+- North Yorkshire
+- Whitby Community Hospital
+people:
+- Michael Harrison
+organisations:
+- North Yorkshire Council
+- Selby Health and Wellbeing Hub
 ---
 
 ## Free blood pressure checks offered across North Yorkshire this week

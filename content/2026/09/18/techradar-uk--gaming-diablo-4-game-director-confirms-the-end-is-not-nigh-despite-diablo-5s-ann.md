@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/4dHdU5g3UM9jFnGiobbwth-2000-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Amazon
+- Times Square
+people:
+- '**Gibson'
+- Blizzard
+- Brent Gibson
+organisations:
+- BlizzCon
+- Demi Williams
+- Diablo
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Netflix
+- TechRadar Gaming
 ---
 
 ![Diablo 4](https://cdn.mos.cms.futurecdn.net/4dHdU5g3UM9jFnGiobbwth.jpg) 

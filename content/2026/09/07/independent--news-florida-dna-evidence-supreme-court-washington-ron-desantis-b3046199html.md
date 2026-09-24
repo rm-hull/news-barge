@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Charlotte County
+- Florida
+- Montgomery
+people:
+- Daniel Conahan Jr.
+- Richard Montgomery
+- Ron DeSantis
+organisations:
+- Supreme Court
 ---
 
 Attorneys asked the Supreme Court Monday to stay the execution of a Florida death row inmate scheduled to die by lethal injection Thursday for the 1996 kidnapping and strangulation of a man who was found nude and emasculated.

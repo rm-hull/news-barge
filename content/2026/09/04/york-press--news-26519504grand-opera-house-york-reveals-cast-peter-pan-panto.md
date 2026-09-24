@@ -13,6 +13,28 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Grand Opera House
+- York
+people:
+- Allie Long
+- Emmerdale
+- Ethel Mermaid
+- Holly Atterton
+- Hook
+- Jimmy Bryant
+- Joe Sleight
+- Kirsty Sparks
+- Martin Dodd
+- Nick Jr
+- Peter Pan
+- Smee
+- Tinker Bell
+- Tom Lister
+organisations:
+- 42nd Street
+- UK Productions Ltd
+- West End
 ---
 
 *(Image: Grand Opera House York)*

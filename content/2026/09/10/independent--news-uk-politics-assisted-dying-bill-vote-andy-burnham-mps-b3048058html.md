@@ -14,6 +14,34 @@ categories:
 - UK
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- England
+- Oregon
+- PA
+- US
+- Wales
+- Westminster
+people:
+- Aaron Chown
+- Andy Burnham
+- Ashley Dalton
+- Bill
+- Josh Simons
+- Keir Starmer
+- Kemi Badenoch
+- Kim Leadbeater
+- Lauren Edwards
+- Naz Shah
+- Preet Kaur Gill
+- Stefan Rousseau
+organisations:
+- Commons
+- House of Lords
+- Labour
+- Parliament Act
+- The Other Half
+- Tory
+- Whitestone Insight
 ---
 
 Andy Burnham will not take part in tomorrow’s crucial vote on assisted dying as the future of the controversial legislation rests on a knife edge.

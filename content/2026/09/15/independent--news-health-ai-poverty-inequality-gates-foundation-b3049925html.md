@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- AI
+- Africa
+- Ethiopia
+- India
+- Iowa
+- Nigeria
+- Sierra Leone
+- US
+- Yoruba
+people:
+- AI
+- Bill Gates
+organisations:
+- 2026 Goalkeepers Report
+- AI
+- Gates Foundation
+- The Independent
 ---
 
 Billions of people risk being left behind by artificial intelligence because it does not understand their languages or the conditions they live in, the Gates Foundation has warned.

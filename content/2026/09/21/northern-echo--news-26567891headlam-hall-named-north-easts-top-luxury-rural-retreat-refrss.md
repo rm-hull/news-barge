@@ -14,6 +14,28 @@ categories:
 - Travel
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21481315.jpg?type=og-image&xType=0&yType=0
+locations:
+- Barnard Castle
+- Bloom
+- County Durham
+- Darlington
+- Headlam Hall
+- Headlam Hall Hotel
+- North East
+- Northumbria
+- Robinson
+- Rockliffe Hall
+- Teesdale
+people:
+- Thomas Robinson
+organisations:
+- '![]()Spa'
+- Bishop Auckland
+- Darlington
+- Headlam Hall Hotel
+- Headlam Hall Hotel & Rural Retreat
+- LNER
+- North East England
 ---
 
 A County Durham country house hotel known for its farming roots and countryside setting has been crowned one of the North East's top luxury retreats.

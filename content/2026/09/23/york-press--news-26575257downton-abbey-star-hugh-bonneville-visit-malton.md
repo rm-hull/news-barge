@@ -12,6 +12,28 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21390800.jpg?type=og-image
+locations:
+- Britain
+- Malton
+- Manchester
+- North Yorkshire
+- The Wesley Centre
+- UK
+- Wesley Centre
+people:
+- Ashley Thorpe
+- Brown
+- Hugh Bonneville
+- Lord Grantham
+- Loretta Schauer
+- Remy
+- Rory Sparkes
+- Zac
+organisations:
+- Bloomsbury Children’s Books
+- Downton Abbey
+- Kemps General Store & Bookshop
+- Usborne
 ---
 
 *(Image: Supplied)*

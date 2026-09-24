@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- greatrun.org
+people:
+- Paul Foster
+organisations:
+- BBC One
+- Great Run
+- Great Run Company
 ---
 
 *(Image: AJBell)*

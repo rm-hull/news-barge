@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Baltic Sea
+- Belarus
+- Estonia
+- Jaroslawiec
+- Kaunas
+- Latvia
+- Lithuania
+- Moscow
+- Poland
+- Pratkunai
+- Rusinowo
+- Russia
+- Ukraine
+- Vilnius
+people:
+- Boris Johnson
+- Donald Tusk
+- Gitanas Nauseda
+- Kestutis Budrys
+- Wladyslaw Kosiniak-Kamysz
+organisations:
+- LRT
+- Nato
 ---
 
 Nato fighter jets shot down a drone over Lithuania after an alert was issued in the capital, Vilnius, and surrounding region, while Poland scrambled fighter jets less than a day after retrieving a suspected Russian drone adrift in its waters.

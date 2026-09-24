@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Cambridge
+people:
+- Gregory Jefferis
+- Isabella Beckett
+- Philipp Schlegel
+- Prof Gerry Rubin
+organisations:
+- BBC News
+- Champalimaud Foundation
+- Drosophila Connectomics Group
+- Google Research
+- HHMI Janelia Research Campus
+- Jefferis'
+- Journal Cell
+- Laboratory of Molecular Biology
+- Medical Research Council
+- University of Cambridge
 ---
 
 ![A detailed, front-facing 3D reconstruction of a male fruit fly’s brain and upper nervous system appears against a black background. It is broadly symmetrical, with two large rounded side lobes resembling enormous eyes and a smaller central section tapering downwards.

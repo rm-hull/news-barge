@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/06/2295976969..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Kherson Oblast
+- Kremlin
+- Kyiv
+- Middle East
+- Moscow
+- New York
+- Russia
+- Russian-controlled Oleshky
+- Samara
+- US
+- Ufa
+- Ukraine
+- Volga River
+- White House
+people:
+- '## Trump'
+- '## Zelensky'
+- Andrii Sybiha
+- Andy Burnham
+- Donald Trump
+- Emmanuel Macron
+- Ivan Noskov
+- Olena Zelenska
+- Oleshky
+- Putin
+- Volodymyr Zelensky
+- Vyacheslav Fedorishchev
+organisations:
+- AI
+- FT
+- Facebook
+- Telegram
+- Truth Social
+- UN General Assembly
+- UNGA
+- United Nations General Assembly
+- VK
 ---
 
 Volodymyr Zelensky has arrived in New York with first lady Olena Zelenska for the UN General Assembly, with Ukraine set to push for a freeze on energy sector strikes and a new drone deal with its allies.

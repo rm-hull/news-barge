@@ -12,6 +12,18 @@ image: https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.
 categories:
 - Health & Fitness
 - Technology & Software
+locations:
+- U.S.
+people: []
+organisations:
+- AI
+- CMS Coverage
+- ChatGPT Health
+- ChatGPT Work
+- DailyMed
+- OpenAI
+- PubMed
+- RxNorm
 ---
 
 OpenAI said today that it is integrating ChatGPT Health with Epic’s electronic health record (EHR) system, which holds data for over 325 million patients, to let clinicians import patient data and use AI to ask questions. The company said that in certain systems, it will also integrate ChatGPT directly within EHR workflows.

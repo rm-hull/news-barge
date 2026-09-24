@@ -11,6 +11,25 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/9a9d3Y5MVE792bzAWY5bSg-1920-80.png
+locations: []
+people:
+- Evan Spiegel
+organisations:
+- AI
+- AWS
+- Amazon Web Services
+- CNBC
+- Efosa
+- Google News
+- HoloLens
+- Meta
+- Microsoft
+- Nvidia
+- Salesforce
+- Snap
+- Specs Intelligence
+- Spiegel
+- TechRadar Pro
 ---
 
 ![Specs AR glasses](https://cdn.mos.cms.futurecdn.net/9a9d3Y5MVE792bzAWY5bSg.png)

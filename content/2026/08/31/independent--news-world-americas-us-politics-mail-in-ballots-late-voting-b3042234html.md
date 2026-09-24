@@ -12,6 +12,26 @@ image: https://static.independent.co.uk/2026/08/31/18/2278806479..?trim=20,0,20,
 categories:
 - News & Politics
 - UK
+locations:
+- Colorado
+- Michigan
+- Utah
+- Washington
+- Wisconsin
+people:
+- Donald Trump
+- Jena Griswold
+- Michael Bennett
+- Ricky Hatch
+organisations:
+- Brookings Institute
+- House
+- New York Times
+- Senate
+- The Independent
+- The New York Times
+- U.S. Postal Service
+- USPS
 ---
 
 The rate at which mail-in ballots arrived late and went uncounted increased in last year’s general elections and this year’s primaries, according to *The New York Times*.

@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Black Whale
+- Boston
+- Dover
+- Dubai
+- Massachusetts
+- New Bedford
+- New Bedford Harbor
+- New England
+- South Coast
+- The Black Whale
+people:
+- Dan McKiernan
+- Josh Riazi
+- Liz Wiley
+- Steve Silverstein
+- Wendy Wills
+organisations:
+- 44 Communications
+- Advisory Council
+- Boston Fish Pier
+- Candela Cucina
+- Chatham Harvesters Cooperative
+- Commonwealth
+- Division of Marine Fisheries
+- Instagram
+- Marine Fisheries Advisory Commission
+- Marion Institute
+- Martha’s Vineyard Fishermen’s Preservation Trust
+- MassDMF
+- Massachusetts Division of Marine Fisheries
+- Massachusetts Flounder Chef Council
+- New Bedford Light
+- New Bedford Port Authority
+- Servedwell Hospitality
+- The Associated Press
+- The Black Whale
+- The National Club
+- The New Bedford Light
 ---
 
 Aperol spritzes. Dubai chocolate. Dill pickle, well, everything. Thanks to Instagram and TikTok, food trends have never been more of-the-moment, with even seemingly mundane ingredients like cottage cheese enjoying a sudden resurgence.

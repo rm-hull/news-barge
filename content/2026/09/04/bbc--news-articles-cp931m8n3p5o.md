@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Asia
+- Britain
+- Finland
+- Pacific Ocean
+- Sweden
+- UK
+people:
+- Angela Eagle
+- Phil Pluck
+organisations:
+- BBC
+- Cold Chain Federation
+- Defra
+- Department for Food, the Environment and Rural Affairs
+- El Niño
+- European Union
+- Guardian
+- NAO
+- National Audit Office
 ---
 
 ![A cupboard filled with jars and tins of food.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/aa83/live/066833c0-a848-11f1-b3a7-d5de760fef6e.jpg)

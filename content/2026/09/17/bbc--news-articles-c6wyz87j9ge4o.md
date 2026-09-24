@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Books & Literature
+locations:
+- Britain
+- Buckingham Palace
+- Metro
+- Middle East
+- Putney
+- Scotland
+- UK
+- Wales
+people:
+- Burnham
+- Charles
+- Diana
+- Earl Spencer
+- Kate
+- King
+- Nicholas Brandram
+- William
+organisations:
+- AI
+- Bank of England
+- BoE
+- Budget
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Financial Times
+- Guardian
+- Labour
+- Metro
+- Metropolitan Police
+- Reform UK
+- Sun
+- The Times
+- i Paper
 ---
 
 ![The headline on the front page of the Daily Star reads: '"Giddy King elated like Lotto winner" after Di death.'](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/36f4/live/dc813a60-b2d9-11f1-a430-4d16ee157c41.jpg)

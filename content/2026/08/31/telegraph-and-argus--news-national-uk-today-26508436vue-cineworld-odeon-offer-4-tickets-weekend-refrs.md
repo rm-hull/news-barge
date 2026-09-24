@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- '## Vue'
+- Britain
+- Odeon
+- UK
+people:
+- Jonathan Glazer
+- Ray Winstone
+organisations:
+- BBC
+- Cineworld
+- Dolby Cinema
+- EastEnders
+- IMAX
+- ITV
+- MI5
+- Odeon
+- Showcase Cinemas
+- The Sunday Times
+- Vue
+- XL
 ---
 
 *(Image: Getty)*

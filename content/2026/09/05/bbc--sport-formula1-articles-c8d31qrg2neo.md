@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alpine
+- Milan
+- Monza
+- Netherlands
+- Parabolica
+- Zandvoort
+people:
+- '![Alpine'
+- Antonellli
+- Arvid Lindblad
+- Charles Leclerc
+- Flavio Briatore
+- Franco Colapinto
+- Gabriel Bortoleto
+- George Russell
+- Jean Alesi
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Liam Lawson
+- Max Verstappen
+- Mercedes' George Russell
+- Norris'
+- Oscar Piastri
+- Pierre Gasly
+- Toro Rosso
+organisations:
+- Alpine
+- Audi
+- Benetton
+- F1
+- FIA Court of Appeal
+- Ferrari
+- Ferraris
+- McLaren
+- Mercedes
+- P2
+- Piastri
+- Racing Bulls
+- Red Bull
+- Renault
 ---
 
 ![Alpine's Pierre Gasly poses with a picture of the '1' board after taking pole position at the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bae4/live/431e57f0-a93c-11f1-a24a-1f5107675b0f.jpg)

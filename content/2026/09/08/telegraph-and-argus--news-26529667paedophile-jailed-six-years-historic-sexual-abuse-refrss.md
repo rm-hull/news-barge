@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Halifax
+- Shaw Lodge
+- West Yorkshire
+people:
+- Ahmed Nadim
+- Carly Hemingway
+- Ian Howard
+- James S Hartley
+- Richard Walters
+organisations:
+- Bradford Crown Court
+- Calderdale Child Vulnerability Exploitation Team
+- HMP Leeds
 ---
 
 *(Image: Google Maps)*

@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Arizona
+- Australia
+- China
+- Colorado
+- Egypt
+- Guam
+- Idaho
+- India
+- Iran
+- Israel
+- Kazakhstan
+- Montana
+- Nevada
+- New Mexico
+- North Korea
+- Pakistan
+- Russia
+- Semipalatinsk
+- Tahiti
+- Tonga
+- U.S.
+- United States
+- Utah
+people:
+- Donald Trump
+- Izumi Nakamitsu
+- Robert Floyd
+- Tina Cordova
+organisations:
+- General Assembly
+- Tularosa Basin Downwinders Consortium
+- U.N
+- U.N.
+- United Nations
 ---
 
 With the U.S., Russia, China and other countries that have nuclear weapons refusing to ratify the treaty that bans atomic testing, the United Nations warned on Monday that any new test could trigger another arms race.

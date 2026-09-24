@@ -12,6 +12,29 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/22/21/Rare_Turtle_Nests_6294_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- Detroit
+- Huntington Beach
+- Huntington Beach Pier
+- Orange County
+- Pacific
+- Seal Beach
+- Southern California
+- U.S. West Coast
+- West Coast
+people:
+- George Zamora
+- Heidi Stephen
+- Jude
+- Trevor McDonald
+- \_\_\_ White
+organisations:
+- Facebook
+- Huntington Beach Fire Department
+- NOAA
+- National Oceanic and Atmospheric Administration
+- West Coast Fisheries division
 ---
 
 A reptile believed to be struggling in sand at a Southern California beach was simply making history: a sea turtle laying eggs on the U.S. West Coast.

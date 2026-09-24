@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Coronation Street
+- Emmerdale
+people:
+- Claire King
+- Dawn Fletcher
+- Gareth Pierce
+- Jimmy King
+- Joe Tate
+- Kim Tate
+- Olivia Bromley
+- Sue Devaney
+organisations:
+- '## Emmerdale'
+- Coronation Street TV
+- Digital Spy
+- ITV
+- NTAs
 ---
 
 *(Image: ITV)*

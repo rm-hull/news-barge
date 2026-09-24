@@ -15,6 +15,14 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Beijing
+- China
+- U.S.
+people:
+- Donald Trump
+- Xi Jinping
+organisations: []
 ---
 
 China's exports pick up in August, jumping 25% on strong demand for autos and high tech goods

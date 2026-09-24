@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Northern England
+- Sandgate
+- Whitby
+- York Minster
+people:
+- Bates
+- Carmen Ejogo
+- Charles
+- Claire
+- Dominic West
+- Elizabeth II
+- Imelda Staunton
+- James Manning
+- Naomi Scott
+- Nicola Coughlan
+- Penelope Featherington
+- Toby Jones
+organisations:
+- Derry Girls
+- Haydn Lewis
+- IMDb
+- NETFLIX
+- Netflix
+- Newsquest
+- North Yorkshire Bridgerton
+- PA Wire
+- Roald Dahl Story Company
+- The Post Office
+- The Press
 ---
 
 ## Netflix crews and household names spotted filming series in North Yorkshire

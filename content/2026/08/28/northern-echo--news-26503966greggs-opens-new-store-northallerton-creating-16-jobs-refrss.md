@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- North East
+- North Moor Road
+- Northallerton
+people:
+- Donna Mason
+- Gillian Long
+organisations:
+- GREGGS)* Greggs
 ---
 
 *(Image: GREGGS)*

@@ -13,6 +13,86 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alabama
+- Atlanta
+- Bryant Park
+- Butler
+- California
+- Europe
+- Florida
+- France
+- Germany
+- Gettysburg
+- Iwo Jima
+- Kings’
+- London
+- Memphis
+- Mexico
+- New York
+- New York City
+- Paris
+- Pennsylvania
+- Reims
+- Tennessee
+- U.S.
+- United States
+- Vietnam
+- Washington
+- then-Washington
+people:
+- Abraham Lincoln
+- Al Gore
+- Andrew Young
+- Bob Hope
+- Coretta Scott King
+- David Bauder
+- David Caruso
+- Dick Armey
+- Donald Trump
+- Eddie Adams’
+- Edward Kennedy
+- Elton John
+- Evan Vucci
+- Falling Man
+- George W. Bush
+- God
+- Howard Kurtz
+- Jacqueline Kennedy Onassis
+- Jerry Schwartz
+- Joe Rosenthal
+- Joseph Ignatius Gilbert
+- Kathryn Johnson
+- Let Kathryn
+- Martin Luther King Jr.
+- Richard Drew
+- Sandy Johnson
+- Ted Anthony
+- Tom Curley
+- Tom Junod
+organisations:
+- ABC
+- AP
+- Allied
+- Allies
+- C-SPAN
+- CBS
+- CNN
+- Civil Rights Movement
+- Congress
+- Esquire
+- Fox News
+- Harvard University
+- NBC
+- Reuters
+- TV
+- The Associated Press
+- The New York Times
+- U.S. News and World Report
+- U.S. Supreme Court
+- Washington Post
+- White House Correspondents' Association
+- World Trade Center
 ---
 
 Precisely 180 years ago, a handful of New York news executives looking to save money on coverage had an idea. Today, it is called The Associated Press.

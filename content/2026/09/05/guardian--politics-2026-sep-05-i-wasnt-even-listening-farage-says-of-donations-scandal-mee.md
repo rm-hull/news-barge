@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Clacton
+- London
+- Singapore
+- UK
+- US
+- West Midlands
+people:
+- Ann Widdecombe
+- Dan Jukes
+- James Orr
+- Laura Kuenssberg
+- Nadine Dorries
+- Nigel Farage
+- Robert Jenrick
+- Robert Peston
+- Suella Braverman
+- Verbatim
+organisations:
+- BBC
+- Climate Resistance
+- Farage
+- GB News
+- ITV
+- LBC
+- Reform UK
+- Times Radio
+- Treasury
 ---
 
 Nigel Farage has claimed that he “wasn’t even listening” during a meeting at the centre of a controversy about whether his party considered evading the law on accepting donations from overseas.

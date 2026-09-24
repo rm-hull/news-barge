@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ankara
+- Istanbul
+- Turkey
+people:
+- Michael O'Flaherty
+- Recep Tayyip Erdogan
+organisations:
+- AFP
+- Commissioner for Human Rights
+- Council of Europe
+- Justice
+- LGBTQ
+- NGO Human Rights Watch
+- O'Flaherty's
 ---
 
 ![Turkish police detain dozens of LGBT rights protesters in Ankara, on September 15, 2026. The arrests interrupted a planned pro-LGBT demonstration in the capital a day after detentions of LGBT activists, media organizations, civil society groups and public figures across Turkey.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1d5c/live/f63256f0-b145-11f1-a383-57f33d64a166.jpg)

@@ -14,6 +14,11 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- UK
+people: []
+organisations:
+- Government
 ---
 
 The UK will enjoy new four-day weekends in 2027 and 2028 due to bank holiday changes, it has been revealed.

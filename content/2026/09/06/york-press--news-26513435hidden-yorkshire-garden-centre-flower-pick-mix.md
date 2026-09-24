@@ -13,6 +13,20 @@ categories:
 - York
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Bridlington
+- Filey
+- North Yorkshire
+- Reighton Nurseries
+- Richardsons
+- Yorkshire coast
+people:
+- Heitor Tremblay
+- Murph
+- Richardsons
+organisations:
+- Off The Map Yorkshire
+- Reighton Nurseries
 ---
 
 ## Hidden garden centre near the Yorkshire coast with flower pick and mix

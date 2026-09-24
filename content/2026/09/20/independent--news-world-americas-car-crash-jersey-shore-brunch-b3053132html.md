@@ -11,6 +11,20 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/20/13/28/Megs-grill-NJ-brunch-crash.png?trim=0,183,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Jersey Shore
+- Lavallette
+- Meg’s Grill
+- New Jersey
+- Toms River
+people: []
+organisations:
+- Buick
+- Facebook
+- Lavallette Police Department
+- Meg’s Grill
+- NJ.com
+- News 12 New Jersey
 ---
 
 One person was killed and seven others were injured when a 93-year-old crashed her SUV into a patio teeming with brunch diners on the Jersey Shore over the weekend.

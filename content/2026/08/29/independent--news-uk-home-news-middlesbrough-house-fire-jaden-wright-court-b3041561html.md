@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Grange Farm Road
+- Grangetown
+- James Cook University Hospital
+- King George’s Terrace
+- Middlesbrough
+- Newcastle
+- Royal Victoria Infirmary
+- Teesside Magistrates’ Court
+people:
+- Jaden Wright
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- Cleveland Police
+- RVI
 ---
 
 A man who was arrested on suspicion of murder over a house fire which killed a seven-year-old girl and her aunt has appeared in court charged other alleged offences.

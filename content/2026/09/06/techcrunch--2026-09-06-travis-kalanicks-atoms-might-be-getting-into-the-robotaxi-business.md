@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Andreessen Horowitz
+- Anthony Levandowski
+- Donald Trump
+- Travis Kalanick
+organisations:
+- Atoms
+- Atoms’
+- FT
+- Financial Times
+- Pronto
+- TechCrunch
+- Uber
 ---
 
 Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz. But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do.

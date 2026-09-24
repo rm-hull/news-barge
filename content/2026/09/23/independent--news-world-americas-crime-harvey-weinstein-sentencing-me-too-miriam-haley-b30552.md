@@ -14,6 +14,33 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/23/15/10/AP26266543820181.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bellevue Hospital
+- California
+- Finland
+- Los Angeles
+- Manhattan
+- New York
+- New York City
+- Rikers Island
+- Sweden
+people:
+- '## Haley'
+- '## Weinstein'
+- Curtis Farber
+- Harvey Weinstein
+- Jacob Kaplan
+- Jessica Mann
+- Kaja Sokola
+- Mimi Haleyi
+- Miriam Haley
+- Why Weinstein
+organisations:
+- Associated Press
+- COVID-19
+- TV
+- The Hollywood Reporter
+- Weinstein
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

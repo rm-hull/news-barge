@@ -11,6 +11,46 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4305/live/f4857d
 categories:
 - UK
 - News & Politics
+locations:
+- Albania
+- Balkans
+- Bosnia and Herzegovina
+- Canada
+- Carney
+- Ceuta
+- Denmark
+- Eastern Europe
+- Georgia
+- Germany
+- Greenland
+- Moldova
+- Montenegro
+- North Macedonia
+- Norway
+- Ottawa
+- Russia
+- Serbia
+- Strasbourg
+- UK
+- US
+- Ukraine
+- United Kingdom
+people:
+- Donald Trump
+- Friedrich Merz
+- Mark Carney
+- Roberta Metsola
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- AI
+- EU
+- European Commission
+- European Parliament
+- European Security Council
+- Nato
+- State of the Union
 ---
 
 ![A smiling Mark Carney, wearing a suit, walks alongside European Parliament President Roberta Metsola and Ursula von der Leyen at the European Parliament](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg)

@@ -15,6 +15,21 @@ categories:
 - Sports
 - Health & Fitness
 - Travel
+locations:
+- Central Motorway
+- Claremont Road
+- Grandstand Road Flyover
+- Newcastle
+- Orange Wave
+- Runners' Hub
+- South Shields
+- Town Moor
+- Zone A.
+people:
+- SARAH CALDECOTT
+organisations:
+- Mini Great North Run
+- Red Arrows
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Las Vegas
+- Las Vegas.
+- Manchester
+- T-Mobile Arena
+people:
+- '## Garcia'
+- Chris Eubank Jr
+- Conor Benn
+- Cuba Gooding Jr
+- Iran Barkley
+- Levesque
+- Nigel
+- Paul 'Triple H
+- Ricky Hatton
+- Ryan Garcia
+- Teofimo Lopez
+- Terence Crawford
+organisations:
+- Commonwealth
+- DAZN
+- Essex
+- Union Jack
+- WBC
+- WBO
+- WWE
 ---
 
 ![Ryan Garcia lands a punch on Conor Benn](https://ichef.bbci.co.uk/ace/standard/953/cpsprodpb/9cbb/live/1e927270-af29-11f1-8921-5f34b632ddf8.jpg)

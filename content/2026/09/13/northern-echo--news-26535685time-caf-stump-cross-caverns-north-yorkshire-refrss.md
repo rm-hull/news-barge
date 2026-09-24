@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Grassington
+- Greenhow Hill
+- Nidderdale
+- North Yorkshire
+- Pateley Bridge
+- Stump Cross Caverns
+- Wharfedale
+- Yorkshire Dales The Yorkshire Dales
+people: []
+organisations:
+- Google
+- Stump Cross
+- Stump Cross Caverns
+- TRIPADVISOR
+- Time Café
+- Tripadvisor
+- Yorkshire
 ---
 
 *(Image: TRIPADVISOR)*

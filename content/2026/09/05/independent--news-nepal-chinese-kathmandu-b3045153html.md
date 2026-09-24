@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Nepal
+- Trishuli 3A
+people: []
+organisations:
+- The Associated Press
 ---
 
 Rescuers in Nepal pull a Chinese national alive from a hydropower tunnel 10 days after floods

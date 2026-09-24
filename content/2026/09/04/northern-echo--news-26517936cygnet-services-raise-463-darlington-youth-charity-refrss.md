@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barton Street
+- Cornwall Avenue
+- County Durham
+- Cygnet St William’s
+- Cygnet Victoria House
+- Darlington
+people:
+- Georgia Nelson
+organisations:
+- :**County Durham Manjaros
+- A66
+- Cygnet Health Care
+- Cygnet St William’s
+- Cygnet Victoria House
+- The Listening Post
 ---
 
 Two care services have teamed up and raised hundreds with a charity football match.

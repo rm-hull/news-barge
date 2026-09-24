@@ -13,6 +13,41 @@ categories:
 - York
 - History
 - Science
+locations:
+- A1
+- Barton
+- Bowes
+- Britain
+- Brough
+- Carlisle
+- Catterick
+- County Durham
+- Cumbria
+- Dere Street
+- England
+- Europe
+- Italy
+- Leeming Bar
+- M
+- M6
+- Newcastle
+- North Yorkshire
+- Pennines
+- Pompeii
+- River Swale
+- Roman Empire
+- Scotch Corner
+- Scotch Corner Roman
+- Scotland
+- York
+people:
+- Jonathan Shipley
+organisations:
+- A1
+- A66
+- AD
+- Historic England
+- Northern Archaeological Associates
 ---
 
 ## Huge Roman settlement uncovered by archaeologists at famous A1 junction

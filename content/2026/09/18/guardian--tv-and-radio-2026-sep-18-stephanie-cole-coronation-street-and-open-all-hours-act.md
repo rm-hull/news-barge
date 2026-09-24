@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Coronation Street
+people:
+- '![Cole'
+- Alzheimer
+- Doc Martin
+- Hayley Cropper
+- Jack
+- John Grant
+- King Lear
+- Mrs Featherstone
+- Roy Cropper
+- Stephanie Cole
+- Sylvia Goodwin
+organisations:
+- Cole
+- OBE
+- The Cleaner
 ---
 
 The actor Stephanie Cole, best known for roles in Coronation Street, Waiting for God and Open All Hours, has died aged 84.

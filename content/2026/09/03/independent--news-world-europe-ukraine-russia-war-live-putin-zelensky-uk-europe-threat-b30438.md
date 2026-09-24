@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Belgorod
+- Berlin
+- Bonn
+- Crimea
+- Downing Street
+- Germany
+- Halle Airport
+- Kyiv
+- Leipzig
+- Moscow
+- Norway
+- Oslo
+- Russia
+- Svalbard
+- The Kremlin
+- UK
+- Ukraine
+- Vladivostok
+people:
+- '## Zelensky'
+- Dmitriy Yadrov
+- Friedrich Merz
+- Molchanov
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- GUR
+- ICAO
+- Interfax
+- International Civil Aviation Organisation
+- KfW
+- Kyiv
+- Naftogaz
+- Rosaviatsiya
+- SBU
+- TASS
+- Telegram
 ---
 
 Vladimir Putin has dismissed Russia’s ballooning deficit as “not a critical risk” to the economy despite growing alarm over the state of public finances due to the war.

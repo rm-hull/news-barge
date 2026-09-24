@@ -12,6 +12,26 @@ description: Blackwood shows so much promise as a third-person gun-fu indie shoo
 image: https://cdn.mos.cms.futurecdn.net/3eYRevQqeWusxFFdWYTfsY-1442-80.png
 categories:
 - Technology & Software
+locations:
+- Blackwood
+- GameRant
+- New York
+- Steam
+people:
+- Anton Blackwood
+- Isaiah Williams
+- John Wick
+- Keanu Reeves
+organisations:
+- Adhoc
+- AttritoM7 Productions
+- Birmingham City University
+- Blackwood
+- Google News
+- Isaiah
+- NPC
+- PC Guide
+- TechRadar
 ---
 
 ![In-game screenshot of Blackwood](https://cdn.mos.cms.futurecdn.net/3eYRevQqeWusxFFdWYTfsY.png) 

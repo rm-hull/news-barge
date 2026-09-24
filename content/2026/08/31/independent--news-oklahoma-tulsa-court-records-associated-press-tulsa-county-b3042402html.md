@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- Oklahoma
+- Tulsa County
+people:
+- Adam Jones
+- Michael Newman
+- Ryan Bassham
+- Stephen Scott
+- __ Wilder
+organisations:
+- Associated Press
+- Report for America Statehouse News Initiative
+- Solos Extracts
+- The Associated Press
 ---
 
 An Oklahoma man has been charged with murder following a large explosion at a marijuana extraction facility that killed two of his employees and damaged surrounding businesses, prosecutors said Monday.

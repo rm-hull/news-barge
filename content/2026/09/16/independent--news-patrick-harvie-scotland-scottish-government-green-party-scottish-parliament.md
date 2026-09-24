@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- AI
+- Chapelhall
+- Glasgow
+- Holyrood
+- North Lanarkshire
+- Scotland
+people:
+- Andrew Milligan
+- Danny Quinn
+- Gillian Mackay
+- Hannah Mary Goodlad
+- Kat Jones
+- Patrick Harvie
+- Ross Greer
+organisations:
+- APRS
+- Action to Protect Rural Scotland
+- DataVita
+- Green Party
+- Scottish Government
+- Scottish Green
+- Scottish Greens
 ---
 
 Environmental impact assessments will have to be carried out before large-scale data centres can go ahead, the Scottish Government has said.

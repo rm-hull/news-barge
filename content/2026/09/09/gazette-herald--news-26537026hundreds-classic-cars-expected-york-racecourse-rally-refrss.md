@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- York Racecourse
+people:
+- David Walker
+- Dylan Connell
+organisations:
+- York Historic Vehicle Group
 ---
 
 *(Image: Dylan Connell)*

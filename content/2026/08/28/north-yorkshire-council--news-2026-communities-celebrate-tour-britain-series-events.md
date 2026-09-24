@@ -14,6 +14,42 @@ categories:
 - Harrogate
 - Government
 - History
+locations:
+- Brafferton
+- Buckden
+- Coxwold
+- Easingwold
+- Grantley
+- Grassington
+- Harmby
+- Helmsley
+- Helperby
+- Kettlewell
+- Kilnsey
+- Leyburn
+- North York Moors
+- North Yorks Moors
+- North Yorkshire
+- Pateley Bridge
+- Patrick Brompton
+- Ripon
+- Sawley
+- UK
+people:
+- Alison Littlewood-Laws
+- Carl Les
+- Carol Swift
+- David Skaith
+- Helmsley
+- Leyburn
+organisations:
+- Helmsley Town Council
+- Leyburn Town Council
+- Mayoral Community Grant
+- North Yorkshire Council
+- York and North Yorkshire Combined Authority
+- Yorkshire Dales
+- Yorkshire Rose
 ---
 
 ![Riders in the women’s race of the Tour of Britain are pictured passing through the North Yorks Moors during last year’s event. (Pic credit: swpix.com)](https://www.northyorks.gov.uk/sites/default/files/2026-08/Tour%20of%20Britain%202025%20image%20one%20%28Pic%20credit%20-%20swpix.com%29.jpg) 

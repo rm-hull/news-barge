@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Education & Learning
 - Business & Entrepreneurship
+locations:
+- England
+- Sussex
+people:
+- Edward Peck
+- Kathleen Stock
+- Polly Payne
+- Ruth Hannant
+- Sasha Roseneil
+organisations:
+- KPMG
+- OfS
+- Office for Students
+- Stock
+- University of Sussex
 ---
 
 England’s higher education regulator has apologised for a string of mistakes in its decision to punish the University of Sussex with a record fine that was later overturned by the high court.

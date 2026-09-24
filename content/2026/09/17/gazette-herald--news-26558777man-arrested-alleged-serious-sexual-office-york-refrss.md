@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - True Crime
 - Sports
+locations:
+- Church Lane
+- Saint Michael's Church
+- Spurriergate
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A 22-year-old man has been arrested following an allegation of serious sexual assault in York city centre.

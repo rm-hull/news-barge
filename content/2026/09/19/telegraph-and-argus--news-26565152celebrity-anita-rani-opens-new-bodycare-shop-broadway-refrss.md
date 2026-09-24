@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21476986.jpg?type=og-image&xType=0&yType=36
+locations:
+- Arndale Centre
+- Bodycare
+- High Street
+- Leeds
+- The Broadway Bradford
+people:
+- Aiman Ali
+- Anita Rani
+- Emma Bellamy
+- Freyaa Ali
+- Jade Logan
+- Min Sandhu
+- Ms Courtney-Smith
+- Ms Rani
+- Tash Courtney-Smith
+- Taty Smith
+organisations:
+- Bodycare Studio
+- Freyaa Aesthetics
+- Newsquest
+- Race Across the World
 ---
 
 Celebrity Anita Rani celebrated the opening of a new Bradford city centre shop by having a “red-carpet” makeover.

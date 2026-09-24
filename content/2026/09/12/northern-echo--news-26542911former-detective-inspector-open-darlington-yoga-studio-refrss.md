@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Chancery Lane
+- Darlington
+people:
+- ANDY FUTERS
+- Caroline Shields
+- Couple
+- Haughton
+organisations:
+- Darlington
+- Durham
+- Number2
+- Yoga
 ---
 
 A former detective inspector who turned to yoga after stress forced her to retire early from policing is preparing to open a new studio in Darlington.

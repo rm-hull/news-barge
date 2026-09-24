@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Eagle
+- North East
+- Sunderland
+people:
+- Anneline Dowell
+- Louise Stone
+- Ms Stone
+organisations:
+- Darlington Pigments
+- Helen Smith Photography
+- Ms Stone
+- North East BIC
+- North East Mayoral Strategic Authority
+- Pigments in Positivity
+- Sunderland City Council
 ---
 
 *(Image: Helen Smith Photography)*

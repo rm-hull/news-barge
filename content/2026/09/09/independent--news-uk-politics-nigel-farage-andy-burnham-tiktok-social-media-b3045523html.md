@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/07/23/12/01KY7CAR6E11MPE0DANPZ990JB
 categories:
 - News & Politics
 - UK
+locations:
+- Essex
+- Hare
+- Harlow
+- Ukraine
+- Westminster
+people:
+- Andy Burnham
+- Christopher Harborne
+- Ed Davey
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Lib Dem
+- Ms Badenoch
+- Nigel Farage
+- Sam Fisk
+- Zack Polanski
+organisations:
+- Channel 4
+- Green
+- PR
+- Reform UK
+- Tangerine
 ---
 
 Nigel Farage’s reputation as the best party leader at using social media to communicate with voters is under threat, according to a new analysis which suggests he has been overtaken by the new prime minister.

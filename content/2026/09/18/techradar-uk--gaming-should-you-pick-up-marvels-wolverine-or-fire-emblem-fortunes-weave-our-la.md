@@ -10,6 +10,20 @@ image: https://cdn.mos.cms.futurecdn.net/zuwMmz5BTah8zEzx8fcMwd-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- UK
+people:
+- Dashiell Wood
+- Theodora
+organisations:
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar
 ---
 
 ![Theodora in a rage in Fire Emblem: Fortune's Weave](https://cdn.mos.cms.futurecdn.net/zuwMmz5BTah8zEzx8fcMwd.jpg) 

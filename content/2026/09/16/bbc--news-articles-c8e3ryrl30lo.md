@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Anton Hall
+- Chippenham
+- Middlesbrough
+- Raffall
+- Sowerby Bridge
+- West Yorkshire
+- York
+people:
+- Ami Shuttleworth
+- Anton Hall
+- Chris Smith
+- Kounnou
+- Mel Higgins
+- Raffall
+- Stelios Kounou
+organisations:
+- Anton Hall
+- BBC
+- Department for Culture, Media and Sport
+- High Court
+- Insolvency Service
+- Raffall
 ---
 
 ![A man with short black and grey hair and facial hair depicted in a graphic used in one of his competitions. Behind him are gold coins, £50 notes and text which reads 'Win £1000 every week'.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e0bf/live/53afbda0-acf4-11f1-bc1f-3f186ca4140c.png)

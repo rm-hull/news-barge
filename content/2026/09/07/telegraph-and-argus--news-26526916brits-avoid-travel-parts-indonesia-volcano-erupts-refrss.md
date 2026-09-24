@@ -14,6 +14,60 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- AirNav Indonesia
+- Anak Krakatau
+- Bali
+- Banten
+- Bengkulu
+- Besuk Kobokan
+- Bradford
+- East Java
+- East Nusa Tenggara Province
+- Europe
+- Flores Island
+- Halim Perdanakusuma
+- Indian Ocean
+- Jakarta
+- Karo Regency
+- Lampung
+- Lumajang Regency
+- MOUNT ANAK KRAKATAU
+- Medan
+- Mount Anak Krakatau
+- Mount Ibu
+- Mount Krakatau
+- Mount Lewotobi Laki-Laki
+- Mount Marapi
+- Mount Ruang
+- Mount Semeru
+- Mount Semura
+- Mount Sinabung
+- North Maluku Province
+- North Sumatra
+- Northern Sulawesi
+- Radin Inten II Airport
+- SINGAPORE
+- Singapore
+- SingaporeAir
+- Soekarno-Hatta
+- Sunda Strait
+- UK
+- West Java
+- West Sumatra
+people:
+- Lana Saria
+- Lukman F Laisa
+- Ms Saria
+organisations:
+- CCTV
+- Darwin Volcanic Ash Advisory Centre
+- EES
+- Geological Agency
+- I Gusti Ngurah Rai International Airport
+- Ryanair
+- Singapore Airlines
+- Soekarno-Hatta International Airport
 ---
 
 *(Image: Getty)*

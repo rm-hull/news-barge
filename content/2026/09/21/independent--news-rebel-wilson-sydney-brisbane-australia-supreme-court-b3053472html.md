@@ -14,6 +14,25 @@ categories:
 - Film & TV
 - Music
 image: https://static.independent.co.uk/2026/09/21/10/Australia_Rebel_Wilson_Court__495.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- New South Wales
+- Sydney
+people:
+- Amanda Ghost
+- Camp Sugar
+- Charlotte MacInnes
+- Dauid Sibtain
+- Greg Cameron
+- Rebel Wilson
+- Vince Holden
+organisations:
+- AI Film
+- AI Film Production Limited
+- Camp Sugar Productions
+- Federal Court
+- Ghost
+- Supreme Court
 ---
 
 Australian actor Rebel Wilson returned to a court in Sydney on Monday over her directorial debut, “The Deb,” with producers accusing her of sabotaging the 2024 musical comedy.

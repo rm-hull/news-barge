@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Church Street
+- Haworth
+- Old School Room
+people:
+- Brontë
+- Hannah
+- Haworth
+- Rosalia Ferrara
+organisations:
+- Brontë Bitch
+- Brontë Parsonage Museum
+- Carolyn Edwards Art
+- Haworth & Yorkshire Creatives
+- Haworth & Yorkshire Creatives Makers Market
+- KBJ Fine Art
+- Philippa
+- Sleepy Hedgehog Designs
+- Susie Jackson Art
+- The Old School Room
+- Threads of Opal
+- Withens Art
 ---
 
 *(Image: T&A)*

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bhotekoshi
+- China
+- Himalayas
+- Lhende Khola
+- Nepal
+- Nepal-Tibet
+- Tibet
+- Trishuli
+- UK
+people:
+- Balendra Shah
+- Stewart Wood
+organisations:
+- Foreign Office
+- House of Lords
+- Red Cross
+- Reuters
+- UN
 ---
 
 A British national was among 119 people rescued in Nepal on Tuesday, an official said almost a week after deadly flash floods on the country’s border with Tibet.

@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Minneapolis
+- Washington, D.C.
+people:
+- Jeh Johnson
+- Markwayne Mullin
+- Obama
+- Trump
+organisations:
+- DHS
+- Department of Homeland Security
+- Homeland Security
+- Immigration and Customs Enforcement
+- NBC News
+- Pew Research Center
+- Resilience Plaza
+- The Economist
+- The Independent
+- Trump
+- YouGov
 ---
 
 Homeland Security Secretary Markwayne Mullin sharply criticized sanctuary cities on Friday in a speech reflecting on the 25th anniversary of the 9/11 terror attacks.

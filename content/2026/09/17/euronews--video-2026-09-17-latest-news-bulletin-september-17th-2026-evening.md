@@ -12,6 +12,41 @@ image: https://images.euronews.com/articles/stories/09/91/78/26/1200x675_cmsv2_f
 categories:
 - Europe
 - News & Politics
+locations:
+- China
+- Devighat
+- Dubai
+- Europe
+- France.
+- Germany
+- Hemicycle
+- Henin-Beaumont
+- India
+- Kosovo
+- Kuehbach
+- Nepal
+- Nuwakot
+- Prishtina
+- Russia
+- Sejm of the Republic of Poland
+- Strasbourg
+- The Hague
+- Trishuli River
+people:
+- Abbas
+- Armin Papperger
+- David McAllister
+- Donald Tusk
+- Hashim Thaci
+- Marine Le Pen
+- Mark Carney
+- Roberta Metsola
+organisations:
+- EULEX
+- Euronews
+- European People's Party
+- Rheinmetall
+- UN General Assembly
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

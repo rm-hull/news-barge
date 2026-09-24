@@ -14,6 +14,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+people:
+- Howard Brown
+organisations:
+- Bishop Auckland FC
+- Darlington
+- Durham County Council
 ---
 
 *(Image: Durham County Council)*

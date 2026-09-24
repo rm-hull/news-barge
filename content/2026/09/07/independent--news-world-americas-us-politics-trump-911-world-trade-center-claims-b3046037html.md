@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Buffalo
+- Fifth Avenue
+- Ground Zero
+- Manhattan
+- New York
+- New York City
+- Ohio
+- Trump’s
+- Twin Towers
+- Wall Street
+- White House
+- White House Rose Garden
+people:
+- Donald Trump
+- Richard Alles
+- Trey Gowdy
+organisations:
+- Fox News
+- Independent
+- New York Fire Department
+- Pentagon
+- Politifact
+- The New York Times
+- Trump Tower
+- WWOR-TV
+- World Trade Center
 ---
 
 President Donald Trump has routinely tried to put himself in the middle of the story of New York City’s recovery after September 11, 2001 — despite no evidence showing he was at Ground Zero in the wake of the terror attacks or marshaled resources to support relief efforts.

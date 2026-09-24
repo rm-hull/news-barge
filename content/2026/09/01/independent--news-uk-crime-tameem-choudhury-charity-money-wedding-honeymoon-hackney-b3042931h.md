@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Hackney
+- London
+- Qatar
+people:
+- Alexander Brown
+- Dc Meerza
+- Julia Bradbury
+- King
+- Lisa Snowdon
+- Tameem Choudhury
+- Yusuf Meerza
+organisations:
+- Alexander Brown
+- Breast Cancer Now
+- Choudhury
+- City of London Police
+- Royal Courts of Justice
+- The Royal Marsden NHS Foundation Trust
 ---
 
 A former finance worker who stole nearly £92,000 from a breast cancer charity to cover his wedding and honeymoon expenses has been jailed for two and a half years.

@@ -14,6 +14,21 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313511345.jpg
+locations:
+- Australia
+- Melbourne
+- UK
+- US
+people:
+- Babak Orandi
+- Danielle Longmore
+organisations:
+- American Academy of Pediatrics
+- Murdoch Children’s Research Institute
+- New York University
+- Novo Nordisk
+- Orandi
+- Wegovy
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313511345.jpg?w=840)

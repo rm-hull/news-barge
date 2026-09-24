@@ -13,6 +13,15 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Harrogate
+- High Birstwith
+- Reynard Crag Holiday Park
+people: []
+organisations:
+- Harrogate
+- Reynard Crag
+- Reynard Crag Holiday Park
 ---
 
 # Plans submitted to expand Harrogate holiday park with six new pitches to meet growing demand

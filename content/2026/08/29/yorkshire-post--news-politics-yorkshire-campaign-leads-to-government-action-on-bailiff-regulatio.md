@@ -16,6 +16,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Yorkshire
+people:
+- Adam
+- Luke Charters
+- Michael
+- Sarah Sackman
+- StepChange
+- Vikki Brownridge
+organisations:
+- ECB
+- Enforcement Conduct Board
+- Labour Government
+- Leeds HQ
+- StepChange
+- The Yorkshire Post
+- York Outer
 ---
 
 # Yorkshire campaign leads to Government action on bailiff regulation

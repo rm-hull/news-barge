@@ -12,6 +12,24 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/18/15/05/unnamed-(1).jpg?trim=554,0,1269,0&width=1200&height=800&crop=1200:800
+locations:
+- Bristol
+- Cornwall
+- Perranporth
+- Storm Goretti
+people:
+- Andy Burnham
+- Goretti
+- James Norton
+- Matthew James
+- Molly James
+organisations:
+- Cornwall Opportunities
+- Covid
+- Croft Farm Holiday Cottages
+- The Independent
+- Toad Hall Cottages
+- Treasury
 ---
 
 Holiday cottage owners have warned that they may be forced to close their businesses if proposed tax hikes on holiday lets go ahead.

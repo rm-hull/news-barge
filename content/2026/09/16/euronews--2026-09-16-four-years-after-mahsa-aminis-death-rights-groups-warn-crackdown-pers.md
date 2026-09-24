@@ -14,6 +14,36 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Baneh
+- Bokan
+- Iran
+- Mahabad
+- Malta
+- Marivan
+- Sanandaj
+- Saqqez
+- Tehran
+people:
+- Jina
+- Mahsa Amini
+- Mahsa Amini?** Amini
+- Mai Sato
+- Roberta Metsola
+- Romina Rahimi
+- Taraneh
+organisations:
+- Amirkabir University
+- Amnesty International
+- Culture of Chastity
+- EPP
+- European Parliament
+- Iranian Studies
+- Revolutionary Court
+- UN Independent International Fact-Finding Mission
+- UN Special Rapporteur
+- UN Special Rapporteur on Human Rights in Iran
+- University of Cambridge
 ---
 
 ## Human rights groups said those who directed the violent suppression of the 2022 protests still control Iran's security apparatus, as Kurdish businesses shuttered across her home region and the UN Special Rapporteur said four years of state violence had failed to extinguish the resistance.

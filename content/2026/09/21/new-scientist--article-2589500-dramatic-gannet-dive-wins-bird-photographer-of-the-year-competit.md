@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Sports
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI312578853.jpg
+locations:
+- Antarctica
+- Australia
+- Charcot Bay
+- Hornøya
+- Indonesia
+- Italy
+- Malta
+- Norway
+- Perth
+- Pygoscelis papua
+- Shetland
+- UK
+- West Papua
+people:
+- Alex Pansier
+- David Stowe
+- Donald Chin
+- Luca Eberle
+- Romain Barats
+- Spiers
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI312578853.jpg?w=840)

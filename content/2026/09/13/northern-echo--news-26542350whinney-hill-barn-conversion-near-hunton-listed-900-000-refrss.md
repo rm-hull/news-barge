@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Family & Parenting
+locations:
+- Belfast
+- Dales
+- Whinney Hill
+people:
+- Whinney Hill
+organisations: []
 ---
 
 BUYERS looking for a stylish home that will serve as the base for a quieter pace of life should make sure to put Whinney Hill on their list of properties to view.

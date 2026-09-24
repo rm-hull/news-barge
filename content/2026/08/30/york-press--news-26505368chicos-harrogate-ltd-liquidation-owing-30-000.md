@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Commercial Street
+- Harrogate
+- North Yorkshire
+people:
+- Fuat Gundogan
+organisations:
+- Chico
+- Chico’s Harrogate Ltd
+- FK Building Ltd of Harrogate
+- HMRC
+- Harrogate Ltd
+- House
+- Qimzen Advisory of Birmingham
 ---
 
 *(Image: Street View)*

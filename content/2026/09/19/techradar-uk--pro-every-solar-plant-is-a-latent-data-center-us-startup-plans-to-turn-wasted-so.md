@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/EjhowwCupWwQCjM9k2nPvf-1920-80.jpg
+locations:
+- AI
+- Earth
+- San Francisco
+- Texas
+people:
+- Rune
+- Santo Politi
+- Varun Palivela
+- William Layden
+organisations:
+- Efosa
+- GPU
+- Google News
+- RELIC
+- Rune
+- Spark Capital
+- TechRadar Pro
 ---
 
 ![Split image of a portable solar panel in a garden, and a garden shed illuminated in the evening](https://cdn.mos.cms.futurecdn.net/EjhowwCupWwQCjM9k2nPvf.jpg)

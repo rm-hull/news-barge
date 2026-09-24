@@ -12,6 +12,34 @@ image: https://cdn.mos.cms.futurecdn.net/v5uJXT3rfBPPWgYjftNta-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- Canada.We
+- Europe
+people:
+- Bill C-22
+- Namrata Maheshwari
+- Rene Millman
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- Access Now
+- Apple
+- Asia Pacific Policy Manager
+- Bill C-22
+- Computer Weekly
+- EU Commission
+- European Commission
+- European Union
+- ExpressVPN
+- Financial Times
+- Google
+- IT Pro
+- No Trace
+- NordVPN
+- Senate
+- Signal
+- The Guardian
 ---
 
 ![Technology background with national flag of Canada on the left, closeup of EU Commission's President Von der Leyen on the left](https://cdn.mos.cms.futurecdn.net/v5uJXT3rfBPPWgYjftNta.jpg) 

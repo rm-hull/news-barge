@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Antalya
+- Cornwall
+- Downing Street
+- England
+- Greater Manchester
+- Holborn
+- Jackdaw
+- North Sea
+- Northern Ireland
+- Rosebank
+- Scotland
+- St Pancras
+- Turkey
+- UK
+- Ukraine
+- Wales
+- Westminster
+people:
+- Andy Burnham
+- Burham
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Rishi Sunak
+- Starmer Burnham
+organisations:
+- COP
+- House of Commons
+- Houses of Parliament.
+- Labour
+- Treasury
+- UN
 ---
 
 ![Andy Burnham leaving 10 Downing Street](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f25b/live/0b7bb550-a62a-11f1-905b-8511af748865.jpg)

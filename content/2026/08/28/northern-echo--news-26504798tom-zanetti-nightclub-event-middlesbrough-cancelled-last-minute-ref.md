@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Corporation Road
+- Essex
+- Leeds
+- Leicester Square
+- London
+- Marbella
+- Middlesbrough
+- Nashville
+- UK
+people:
+- Bar
+- Tom Zanetti
+organisations:
+- County Durham
+- Harlow Town Show
+- Middlesbrough
+- Northern Echo
+- Pitbull
+- Prohibition Bar
+- Ticket Source
 ---
 
 A major event at a Middlesbrough nightclub tonight has been cancelled at short notice.

@@ -12,6 +12,16 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Hartlepool
+- North East Man
+- North Tees
+people:
+- Boy
+- Paul Richardson
+organisations:
+- Cleveland Police
+- University Hospital
 ---
 
 *(Image: ARCHIVE)*

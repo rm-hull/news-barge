@@ -13,6 +13,58 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/15/12/China_AI_What_To_Know_26669.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Beijing
+- China
+- New York
+- Singapore
+- U.S.
+- United States
+- Washington
+people:
+- Alfredo Montufar-Helu
+- Claude AI
+- Claude Mythos
+- Dario Amodei
+- Donald Trump
+- Eduardo Castillo
+- George Chen
+- He Lifeng
+- Josh Boak
+- Michael Kratsios
+- Rebecca Arcesati
+- Samm Sacks
+- Scott Bessent
+- Scott Singer
+- Sun Chenghao
+- Will Cong
+- Xi Jinping
+- Xiao Qian
+organisations:
+- American AI
+- Ankura
+- Anthropic
+- Carnegie Endowment for International Peace
+- Center for International Security and Strategy
+- China AI Initiative
+- Chinese AI
+- DeepSeek and Moonshot
+- Fox News
+- Future of Global Affairs
+- Institute for AI International Governance
+- Johns Hopkins School of Advanced International Studies’ Institute for America
+- Mercator Institute for China Studies
+- Ministry of Foreign Affairs
+- Montufar-Helu
+- Moonshot AI
+- Nanyang Technological University
+- OpenAI
+- Sun
+- The Asia Group
+- Trump
+- Tsinghua University
+- U.S. Treasury
 ---
 
 U.S. President Donald Trump and Chinese leader Xi Jinping, leaders of rival nations in a race to dominate artificial intelligence, are expected to meet this week against a backdrop of rising concerns about the threats that rogue AI could pose to humanity.

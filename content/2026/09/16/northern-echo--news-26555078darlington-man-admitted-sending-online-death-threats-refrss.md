@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington Burglar
+- Hundens Lane
+- North East bridge
+- Teesside Crown Court
+people:
+- Christopher Fothergill
+- Getty
+- Nathan Adams
+- Pair
+organisations: []
 ---
 
 *(Image: Getty)*

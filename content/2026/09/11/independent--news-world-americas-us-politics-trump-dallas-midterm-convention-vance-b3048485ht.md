@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/11/09/2294430987..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Iran
+- U.S.
+- United States
+- Washington
+people:
+- '## Trump'
+- Donald Trump
+- JD Vance
+- Scott Bessent
+organisations:
+- Air Force One
+- Congress
+- MAGA
+- Republican National Committee
+- Republican Party
+- Trump
+- U.S. Treasury
 ---
 
 President Donald Trump and his Republican Party concluded an unconventional gathering in Dallas on Thursday, seeking to bolster their midterm election prospects.

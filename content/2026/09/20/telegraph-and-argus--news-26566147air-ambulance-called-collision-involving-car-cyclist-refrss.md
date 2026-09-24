@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - Science
 image: https://www.thetelegraphandargus.co.uk/resources/images/12440012.jpg?type=og-image&xType=117&yType=0
+locations:
+- A59
+- Bingley
+- Broughton
+- Gargrave Road
+- Skipton
+- West Yorkshire Police
+people: []
+organisations:
+- North Yorkshire Police
+- Yorkshire Air Ambulance
 ---
 
 *(Image: West Yorkshire Police)*

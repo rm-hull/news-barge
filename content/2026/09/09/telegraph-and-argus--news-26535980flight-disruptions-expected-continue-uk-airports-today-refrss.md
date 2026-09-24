@@ -13,6 +13,36 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Gatwick
+- Heathrow
+- HeathrowAirport
+- Jordan Pettitt
+- Manchester
+- PA
+- Stansted
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+- Neal McMahon
+- Simon Calder
+organisations:
+- '## NATS'
+- '### Comepensation'
+- '### Heathrow Airport'
+- '### Manchester Airport'
+- British Airways
+- Commons
+- Flightradar24
+- Heathrow Airport
+- Manchester Airport
+- Nats
+- Nats’
+- Ryanair
+- Sky News
+- UK Civil Aviation Authority
+- Wizz Air
 ---
 
 *(Image: Jordan Pettitt/PA)*

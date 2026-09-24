@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/08/06/10/14/Apple-AirTag.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Medford
+- Oregon
+- U.S.
+people:
+- Jane Doe
+organisations:
+- AirTag
+- Apple AirTags
+- Bluetooth
+- KOIN 6
+- The Independent
+- The Oregonian
+- U.S. District Court for the District of Oregon
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

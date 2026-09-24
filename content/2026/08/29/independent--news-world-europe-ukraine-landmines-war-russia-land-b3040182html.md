@@ -14,6 +14,22 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Bucha
+- England
+- Russia
+- UK
+- Ukraine
+- Wales
+people:
+- Antonina Kulhava
+- Czechia
+organisations:
+- Imperial War Museum
+- MAG
+- Mines Advisory Group
+- UN
+- Ukrainian Emergency Service
 ---
 
 Every morning, Antonina Kulhava wakes up to the whirr of Russian drones.

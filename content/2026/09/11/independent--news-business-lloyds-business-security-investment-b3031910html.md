@@ -14,6 +14,43 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Banbury
+- Bristol
+- Brookhill Way
+- Edinburgh
+- England
+- Gresham Street
+- London
+- Scotland
+- South Wales
+- South West
+- Swansea
+- The Mound
+- UK
+- West Glamorgan
+people:
+- Gemma Moses
+- Rebecca Rees-Jones
+organisations:
+- 3EL
+- Bank of Scotland
+- Bank of Scotland plc
+- DriveElectric
+- Financial Conduct Authority
+- High Court
+- Independent
+- Invoice Finance
+- Lex Autolease
+- Lloyds Bank
+- Lloyds Bank Commercial Finance Limited
+- Lloyds Bank plc
+- Lloyds’
+- Ministry of Defence
+- Prudential Regulation Authority
+- RGM Security
+- Rolex
+- The Wales Fast Growth 50
 ---
 
 *The Independent was not involved in the creation of this sponsored content.*

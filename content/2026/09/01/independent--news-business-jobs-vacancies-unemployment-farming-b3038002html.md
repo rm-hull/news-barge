@@ -13,6 +13,13 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- UK
+people:
+- Nick Thornhill
+organisations:
+- Hiscox
+- Totaljobs
 ---
 
 People applying for jobs in farming and agriculture are more likely to secure a role than jobseekers in any other sector, research suggests.

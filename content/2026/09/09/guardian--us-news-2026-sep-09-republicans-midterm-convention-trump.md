@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Dallas
+- Iowa
+- Michigan
+- Texas
+- US
+- White House
+people:
+- Dan Patrick
+- Donald Trump
+- Hakeem Jeffries
+- JD Vance
+- James Talarico
+- Joe Gruters
+- Karoline Leavitt
+- Ken Paxton
+- Tom Barrett
+- Zach Nunn
+organisations:
+- American Airlines Center
+- Axios
+- Congress
+- GOP
+- House of Representatives
+- RNC
+- Republican National Committee
+- Senate
 ---
 
 Republicans will gather in Texas on Wednesday for a rare “midterm convention”, as they attempt to convince Americans to vote for a party led by a deeply unpopular president who has overseen price increases, inflation, and led the US into an increasingly unpopular war.

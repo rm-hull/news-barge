@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thenorthernecho.co.uk/resources/images/21494333.jpg?type=og-image&xType=0&yType=339
+locations:
+- North East
+- North East coast Dolphins
+- North Yorkshire
+- Tees Valley
+- Tees Valley Wildlife
+- Teesside
+people:
+- Colin Gibson
+organisations:
+- Tees Valley Ringing Group
+- Tees Valley Wildlife
+- Tees Valley Wildlife Trust
 ---
 
 Conservationists are celebrating a record year for barn owls after volunteers counted more chicks in Teesside nest boxes than ever before.

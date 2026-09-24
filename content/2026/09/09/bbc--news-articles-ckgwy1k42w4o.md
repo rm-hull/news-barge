@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- UK
+- US
+people:
+- Dario Amodei
+- Evan Hubinger
+- Jacob Coxon
+- Jakub Pachocki
+- Jared Kaplan
+- Wendy Hall
+organisations:
+- AI Safety Institute
+- AISI
+- Anthropic
+- BBC Radio Four
+- Cabinet Office
+- Financial Times
+- Google Deepmind
+- Meta
+- OpenAI
+- UN
 ---
 
 ![Claude logo on a smartphone](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg)

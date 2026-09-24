@@ -12,6 +12,14 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- Acomb
+- Skelton
+- Skelton**
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a crash on the A19 this afternoon (Monday).

@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Southampton
+- Sri Lanka
+- UK
+people:
+- Harry Brook
+organisations:
+- Brook & Baker
 ---
 
 # Brook & Baker shine as England crush Sri Lanka

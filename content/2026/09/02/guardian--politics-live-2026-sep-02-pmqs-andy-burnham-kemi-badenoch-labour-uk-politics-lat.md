@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Cornwall
+- Europe
+- Greater Manchester
+- Kemi Badenoch
+- Makerfield
+- North Devon
+- Northern Ireland
+- Stormont
+- UK
+- Ukraine
+people:
+- Andrew George
+- Andrew Griffith
+- Andy Burnham
+- Bradley Thomas
+- Brexit
+- Ed Davey
+- Hastings
+- Helena Dollimore
+- Jack Rankin
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Kim Leadbeater
+- Lindsay Hoyle
+- Rye
+- Samantha Niblett
+- Sorcha Eastwood
+- Tan Dhesi
+organisations:
+- Alliance
+- Commons
+- EU
+- Lab
+- Labour
+- Lib Dem
+- PMQs
+- PPS
 ---
 
 Burnham offers to work with Tories on getting welfare spending down

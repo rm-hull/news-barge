@@ -13,6 +13,41 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- America
+- Atlantic
+- Britain
+- Craven
+- Dales
+- Emmerdale Farm
+- Granada
+- Kilnsey Crag
+- Manchester
+- Oxford
+- Skipton
+- UK
+- USA
+- West Yorkshire
+people:
+- Andrew Hitchon
+- Asif Kapadia
+- Claire Lewis
+- Mike Apted
+- Moon
+- Nick HItchon
+- Nick Hitchon
+organisations:
+- Arncliffe CE Primary School
+- Ermysted’s Grammar School
+- Granada Television
+- ITV1
+- ITVX
+- Kilnsey Crag
+- Lancashire
+- Merton College
+- Small
+- The Simpsons
+- University of Wisconsin
 ---
 
 A TELEVISION era with a strong link to West Yorkshire comes to a fitting end this month.

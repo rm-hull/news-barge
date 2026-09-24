@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- CLEVELAND
+- England
+- Redcar
+- Teesside Magistrates’ Court
+people:
+- Alex Wood
+- Neil Bendelow
+- Robinson
+organisations:
+- CBO
+- Cleveland Borough Council
+- Cleveland Retail Park
+- Greater Eston Neighbourhood Policing Team
+- Post Office
+- Redcar
 ---
 
 *(Image: CLEVELAND POLICE)*

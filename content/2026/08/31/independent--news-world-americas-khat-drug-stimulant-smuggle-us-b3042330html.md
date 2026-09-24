@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/08/31/20/13/Khat-seizure.webp?trim=
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Arabian Peninsula
+- Chicago
+- Dulles
+- Georgia
+- London
+- New York
+- Paris
+- Senegal
+- U.S
+- U.S.
+- US
+- United States
+people:
+- Michael Pfieffer
+organisations:
+- Baltimore Washington International Airport
+- CBP
+- Chicago Field Office
+- Customs and Border Protection
+- DEA
+- Drug Enforcement Administration
+- O’Hare International Airport
+- WGN
+- Washington Dulles International Airport
 ---
 
 Thousands of pounds of the drug khat have been smuggled into the U.S. over the past month — but what exactly is it?

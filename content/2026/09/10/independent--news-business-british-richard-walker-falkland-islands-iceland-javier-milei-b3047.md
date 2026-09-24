@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Britain
+- Emma Hallett
+- Falkland Islands
+- Falklands
+- Iceland
+- PA
+- Stanley
+- UK
+people:
+- Ed Miliband
+- James Manning
+- James Wallace
+- Javier Milei
+- Lord Walker
+- Richard Walker
+- Sarah Clarke
+- Stanley
+- Wes Streeting
+organisations:
+- Cathedral City
+- Fortuna
+- Iceland Foods
+- Kelper Stores
+- LinkedIn
+- MyProtein
+- Stanley
+- TGI
 ---
 
 The boss of supermarket chain Iceland has said he is “very proud to back British interests” as he announced the opening of a store in the Falkland Islands.

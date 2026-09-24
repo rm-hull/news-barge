@@ -13,6 +13,22 @@ categories:
 - Local
 - Harrogate
 - Automotive
+locations:
+- Bogs Lane
+- Forest Lane
+- Harrogate
+- Knaresborough Road
+- Starbeck High Street
+people:
+- Tom Gordon
+organisations:
+- Department of Transport
+- Harrogate Advertiser
+- Harrogate Road Work Communication Group
+- Harrogate Town Council
+- Knaresborough
+- NYC
+- North Yorkshire Council
 ---
 
 # Criticism as latest set of temporary traffic lights 'spring up' on Harrogate's Knaresborough Road

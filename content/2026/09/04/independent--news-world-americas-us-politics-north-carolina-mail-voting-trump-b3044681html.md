@@ -11,6 +11,40 @@ image: https://static.independent.co.uk/2026/08/31/18/2180910622..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- California
+- North Carolina
+- U.S.
+- United States
+- Wake County
+- Washington
+- Wisconsin
+people:
+- David Becker
+- Don Millis
+- Donald Trump
+- Hayes
+- Jeff Jackson
+- Jennifer Rubin
+- Joe Biden
+- Maria Cantwell
+- Michael Dickerson
+- Olivia McCall
+organisations:
+- '## Supreme Court'
+- Center for Election Innovation and Research
+- Congress
+- Department of Justice
+- League of Women Voters of North Carolina
+- Mecklenburg County Board of Elections
+- Postal Service
+- Senate
+- State Board of Elections
+- Supreme Court
+- Trump
+- USPS
+- Wisconsin Election Commission
 ---
 
 Statewide mail-in voting for this year's midterm elections begins Friday amid a legal battle over President Donald Trump's efforts to restrict the practice and concerns that Postal Service changes could lead to more rejected ballots.

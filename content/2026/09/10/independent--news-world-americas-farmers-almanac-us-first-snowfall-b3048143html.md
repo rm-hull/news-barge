@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Colorado
+- Desert Southwest
+- Great Lakes
+- Gulf Coast
+- North
+- Northeast Inland
+- Northwest The Pacific Northwest
+- Pacific Ocean
+- Plains
+- South Weatherbee
+- Southeast
+- Southern California
+- Texas
+- U.S. El Niño
+- Upper Midwest
+people:
+- Caleb Weatherbee
+- Cory Reppenhagen
+organisations:
+- 9NEWS Weather Impact Team
+- Almanac
+- Climate Prediction Center
+- El Niño
+- National Oceanic and Atmospheric Administration
+- Pacific Northwest Trail Association
 ---
 
 Americans better bundle up this winter as forecasters are predicting a season full of rain, snow and ice.

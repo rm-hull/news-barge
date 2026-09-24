@@ -12,6 +12,18 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Barwick Street
+- Barwick Terrace
+- Liberty.Ashton
+- North Yorkshire
+- Scarborough
+- Tindall Street
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- Pixabay)* Police
 ---
 
 *(Image: Pixabay)*

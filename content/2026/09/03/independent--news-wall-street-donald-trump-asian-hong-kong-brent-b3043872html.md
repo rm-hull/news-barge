@@ -13,6 +13,37 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- India
+- Iran
+- South Korea
+- Taiwan
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Alex Veiga
+- Damian J. Troise
+- Donald Trump
+organisations:
+- AI
+- Dell Technologies
+- Kioxia Holdings
+- Kospi
+- Meta Platforms
+- Micron Technology
+- Nvidia
+- OpenAI
+- Palo Alto Networks
+- SK Hynix
+- Samsung Electronics
+- Sensex
+- SoftBank Group
+- Taiex
+- Tokyo Electron
+- Treasury
 ---
 
 Oil prices slipped Thursday after recent gains, with Brent crude trading near $95 a barrel, while Asian shares advanced.

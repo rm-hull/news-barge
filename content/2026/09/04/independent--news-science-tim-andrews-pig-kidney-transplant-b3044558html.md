@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- China
+- Massachusetts General Hospital
+- New Hampshire
+- UK
+- US
+- Yucatan
+people:
+- Leonardo Riella
+- Mr Andrews
+- Rommel Ravanan
+- Tim Andrews
+organisations:
+- CNN
+- Department of Health and Social Care-sponsored
+- Lancet
+- Mass General Brigham
+- NHS Blood and Transplant
+- NHS Organ Donor Register
+- Press Association
 ---
 
 In a world first, a man has lived without dialysis for nine months after receiving a genetically modified pig kidney.

@@ -14,6 +14,39 @@ categories:
 - UK
 - Arts & Culture
 - History
+locations:
+- Apollo
+- Cagnes-sur-Mer
+- Cannes
+- Châtillon-sur-Seine
+- France
+- French Riviera
+- Germany
+- Louvre
+- Nice
+- Paris
+- Renoir Museum
+- Wingen-sur-Moder
+people:
+- Alex Turnbull
+- Bryan Masson
+- Catherine Gaschka
+- Coco Reading
+- Guillaume Poitrinal
+- Jean-Christophe Castelain
+- Madame Colonna Romano
+- Madame Pichon
+- Pierre-Auguste Renoir
+- René Lalique
+- Véronique Brumm Schaich
+- Young Woman
+organisations:
+- Associated Press
+- Europol
+- Fondation du patrimoine
+- Lalique Museum
+- Le Journal des Arts
+- The Associated Press
 ---
 
 At a museum in eastern France, two men disguised with wigs used a sledgehammer and a hammer to smash a display case and make off with a 2,500-year-old gold necklace. The heist took under four minutes.

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- A20
+- Jubilee Way
+- 'Kent ##'
+- Limekiln
+- Port of Dover
+- The Port of Dover
+- Walmer
+- York Street
+people:
+- Chris Vinson
+- Cllr Vinson
+- Mike Tapp
+- Tommy Robinson
+organisations:
+- A2
+- A20
+- A256
+- Deal
+- Dover District Council
+- EDL
+- English Defence League
+- Facebook
+- Kent Police
+- Labour
+- M20
+- National Highways
+- P&O Ferries
 ---
 
 A large group of masked demonstrators has gathered at the Port of Dover, as Kent Police said they are “engaging” with protesters in the area.

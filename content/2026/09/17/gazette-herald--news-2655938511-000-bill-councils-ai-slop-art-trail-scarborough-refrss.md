@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Central Tramway Station
+- Deckchair At Scarborough Railway Station
+- Deckchair Trail
+- Giant Deckchair Trail
+- North Yorkshire
+people:
+- Adrian Riley
+- Courtesy Numminen
+- Hannah Grahamslaw
+- Tony Watson
+organisations:
+- AI
+- FOI
+- Freedom of Information
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough
 ---
 
 A council spent more than £11,000 on an ‘AI slop’ deckchair trail as part of a North Yorkshire town’s 400th anniversary celebration.

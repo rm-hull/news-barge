@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1237
+- Hopgrove Roundabout
+- Monks Cross
+- Monks Cross Shopping Centre
+- York
+people: []
+organisations:
+- Monks Cross
+- Vanguard
 ---
 
 Drivers have been warned of severe traffic along a major road on York’s outer ring road.

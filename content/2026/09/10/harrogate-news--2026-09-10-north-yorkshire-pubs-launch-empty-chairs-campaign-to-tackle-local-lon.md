@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Rigton
+- North Yorkshire
+- Spofforth
+- The Castle
+- UK
+people:
+- Alastair Scott
+organisations:
+- Malvern Events
+- Malvern Inns
+- The Square & Compass**
 ---
 
 **Two popular Harrogate district pubs are backing a national initiative** encouraging isolated residents to take a simple, life-changing step: head to their local inn, sit in a designated “empty chair,” and signal that they are open to a friendly chat.

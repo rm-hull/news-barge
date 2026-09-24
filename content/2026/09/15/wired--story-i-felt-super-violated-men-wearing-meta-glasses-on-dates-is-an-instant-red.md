@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations:
+- Australia
+- California
+- Illinois
+- Manhattan
+- New York
+- Seoul
+- South Korea
+- Toronto
+- US
+people:
+- Bluesky
+- Courtney McAnuff
+- Gary Lewandowski
+- Instagram Adam Mosseri
+- TikToker
+- Yue Xu
+organisations:
+- EssilorLuxottica
+- Meta Ray-Bans
+- Monmouth University
+- NameTag
+- NameTags
+- Ray-Ban
+- Reddit
+- Semafor
+- The Korea Herald
+- WIRED
+- YouGov
 ---
 
 Courtney McAnuff was out of a year-long relationship in the summer of 2024 and starting to date again when she agreed to grab drinks with a potential suitor.

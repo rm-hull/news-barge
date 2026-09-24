@@ -12,6 +12,16 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21476535.jpg?type=og-image
+locations:
+- Acomb Road
+- Hob Moor
+- Holgate
+- Windmill Rise
+- York
+people: []
+organisations:
+- Army
+- Newsquest
 ---
 
 ## Our live feed has now finished.

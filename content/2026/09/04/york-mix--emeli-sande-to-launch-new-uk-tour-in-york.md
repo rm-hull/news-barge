@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Britain
+- London
+- UK
+- York Barbican
+people:
+- Alicia Keys
+- Chaka Khan
+- Emeli Sandé
+- Katy Perry
+- Lulu
+- Me
+- Rihanna
+organisations:
+- BBC Radio 2
+- Emeli Sandé
+- The Script
+- York Barbican
 ---
 
 Emeli Sandé has announced a UK tour to celebrate 15 years of her landmark debut album ‘Our Version of Events’ – and it’s kicking off in York!

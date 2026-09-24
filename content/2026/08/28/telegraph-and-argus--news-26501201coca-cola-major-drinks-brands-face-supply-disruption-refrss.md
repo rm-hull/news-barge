@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Knottingley
+- Lockwood
+- South Kirby
+- West Yorkshire
+people:
+- Sharon Graham
+organisations:
+- Ardagh Glass
+- Budweiser
+- Coca-Cola
+- GXO
+- Heineken
+- Lockwood Haulage
+- PA
+- Stella
+- Unite the Union
 ---
 
 *(Image: PA)*

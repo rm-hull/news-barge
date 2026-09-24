@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Russia
+people:
+- Bill Gates
+- Claude
+- Kimi K3
+- Tom
+organisations:
+- Anthropic
+- Astra
+- Get Tom's Hardware
+- Mozilla
+- Nvidia
+- Open Weight
+- OpenAI
+- Perplexity
+- RTX
+- State of Open Source AI
+- VRAM
+- Western Frontier
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

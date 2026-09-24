@@ -14,6 +14,38 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Alberta
+- America
+- Canada
+- Canada-U.S.
+- Iran
+- Mexico
+- Ontario
+- Quebec
+- Rocky Mountains
+- Russia
+- Strait of Hormuz
+- U.S. Gulf Coast
+- UC Santa Barbara
+- United States
+- Venezuela
+- West Coast
+people:
+- Danielle Smith
+- Donald Trump
+- Doug Ford
+- Jason Kenney
+- Kent Fellows
+- Mark Carney
+- Paasha Mahdavi
+organisations:
+- Oval Office
+- The Independent.
+- Trump
+- U.S. Energy Information Administration
+- U.S.’s
+- University of Calgary’s School of Public Policy
 ---
 
 President Donald Trump’s escalating trade war with Canada has a nuclear option. Though it’s highly unlikely, Canadian officials could send the tariff battle into overdrive by raising the possibility of weaponized oil and gas levies.

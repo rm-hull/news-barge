@@ -13,6 +13,40 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Paw Patrol
+people:
+- Christopher Nolan
+- Eisenhower
+- Getty
+- Owens
+- Peter Parker
+- Runner
+- Shaun the Sheep
+- Singh
+- Stagg
+organisations:
+- Awarapan
+- Bethlehem Kudumba Unit
+- Bradford Odeon
+- Dino Movie
+- Gallagher
+- Haiwaan, Minions & Monsters
+- Kaur
+- Light Bradford
+- Minions & Monsters
+- Mirzapur
+- Moana
+- ODEON Kids
+- Paw Patrol
+- Raiders of the Lost Ark
+- Sardar
+- The Boxtrolls
+- The Dog Stars
+- The Gruffalo
+- The Movie
+- The Odyssey
+- Toy Story
 ---
 
 *(Image: Getty)*

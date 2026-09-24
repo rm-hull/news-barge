@@ -11,6 +11,38 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f90/live/4d9b71
 categories:
 - UK
 - News & Politics
+locations:
+- Beaches-East York
+- British Columbia
+- Canada
+- Chicoutimi-Le Fjord
+- North Vancouver-Capilano
+- Ontario
+- Quebec
+- Québec
+- US
+- US.
+- White House
+people:
+- Braeden Caley
+- Daniel Gobeil
+- David Coletto
+- Donald Trump
+- Mark Carney
+- Pierre Poilievre
+- Richard Martel
+- Tanveer Shahnawaz
+organisations:
+- Abacus Data
+- Bloc Québécois
+- CBC
+- House of Commons
+- Liberal Party
+- Liberals
+- Oxford Economics
+- Québec
+- Senate
+- Trump
 ---
 
 ![Braeden Caley shakes the hand of a supporter during celebrations for his win in the North Vancouver-Capilano seat](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7f90/live/4d9b71d0-a5e6-11f1-aed2-8d6da8d75094.jpg)

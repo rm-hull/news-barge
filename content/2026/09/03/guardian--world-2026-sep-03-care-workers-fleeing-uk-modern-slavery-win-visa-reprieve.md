@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- London
+- UK
+people:
+- Boris Johnson
+- Dora-Olivia Vicol
+- Jo White
+- Maj Heather Grinsted
+organisations:
+- Guardian
+- Home Office
+- Labour
+- Rogue
+- Salvation Army
+- Unison
+- Work Rights Centre
 ---
 
 Care workers, chefs and others in danger of losing their migration status under post-Brexit rules if they leave an exploitative employer will be helped by new visa changes, the Home Office says.

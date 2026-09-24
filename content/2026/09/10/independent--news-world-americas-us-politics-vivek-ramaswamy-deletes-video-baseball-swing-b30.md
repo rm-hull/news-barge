@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Buckeyes'
+- Ohio State
+people:
+- Amy Acton
+- Andrew Kaczynski
+- Instagram
+- James Surowiecki
+- Vivek Ramaswamy
+organisations:
+- AARP
+- Acton
+- Bowling Green State University
+- CNN
+- Department of Health
+- Fox News
+- New York Times
+- Ohio State Buckeyes
+- Plunderbund
+- SAD
 ---
 
 Ohio governor hopeful Vivek Ramaswamy has deleted a video of himself swinging a baseball bat at a batting cage after he was mocked online for his form.

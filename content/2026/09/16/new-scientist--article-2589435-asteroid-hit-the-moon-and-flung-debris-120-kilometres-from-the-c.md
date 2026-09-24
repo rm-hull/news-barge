@@ -13,6 +13,17 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Maryland
+- McGetchin
+- Texas
+people:
+- Mark Robinson
+- Tyler Powell
+organisations:
+- Johns Hopkins University
+- Lunar Reconnaissance Orbiter
+- NASA
 ---
 
 ![The crater site, before and after impact](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312715757.jpg?w=840)

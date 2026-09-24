@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- CHRIS BOOTH
+- County Durham
+- England
+- Scotch Isle Park
+people:
+- CHRIS BOOTH
+organisations:
+- Reeth Show
+- Wolsingham Show
+- Yorkshire Dales
 ---
 
 Here are some great pictures as crowds flocked to a traditional County Durham farming show this weekend.

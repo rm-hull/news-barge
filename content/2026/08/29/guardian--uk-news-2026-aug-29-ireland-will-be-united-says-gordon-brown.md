@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Belgium
+- Denmark
+- England
+- Germany
+- Jackdaw
+- Netherlands
+- North Sea
+- Northern Ireland
+- Norway
+- Republic of Ireland
+- Rosebank
+- Scotland
+- UK
+- United Kingdom
+- Wales
+people:
+- Andy Burnham
+- Gordon Brown
+- Tony Blair
+organisations:
+- Guardian
+- Guardian’s Saturday
 ---
 
 The former prime minister Gordon Brown has said it is inevitable that Ireland will become united at some point in the future, in a wide-ranging interview with the Guardian.

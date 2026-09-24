@@ -12,6 +12,19 @@ image: https://images.euronews.com/articles/stories/09/90/11/33/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Alabama
+- North Carolina
+- United States
+people:
+- Indira Talwani
+- Trump
+organisations:
+- Congress
+- House
+- Postal Service
+- Supreme Court
+- Trump
 ---
 
 ## A federal judge's ruling that compliance was "practically impossible," paired with a whistleblower's warning that millions of ballots could go undelivered, has thrown the run-up to a pivotal midterm vote into legal disarray.

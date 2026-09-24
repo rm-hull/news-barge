@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Steeton Hall
+- Steeton hall
+people:
+- Sandra Tracey Waite
+- Sara Fairlamb
+organisations:
+- Bradford Council
+- Facebook
+- Newsquest
+- Northern Powergrid
+- Steeton Hall
 ---
 
 A surprise fireworks display at Steeton Hall has sparked upset in the community after a 10-minute show was staged during a wedding celebration on Saturday, September 12.

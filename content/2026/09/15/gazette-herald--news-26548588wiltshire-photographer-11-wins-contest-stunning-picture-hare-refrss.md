@@ -12,6 +12,21 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- London
+- Marlborough
+- UK
+- Wiltshire
+people:
+- Aneeshwar Kunchala
+- Ellie Rothnie
+- Joseph
+organisations:
+- Bloomsbury Children’s Books
+- Canon UK
+- ExCeL London
+- Nature
+- The Week Junior Science
 ---
 
 *(Image: Submitted)*

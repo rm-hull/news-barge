@@ -13,6 +13,15 @@ categories:
 - York
 - History
 - Society & Culture
+locations: []
+people: []
+organisations:
+- Ancient Society of York Florists
+- Cut Flowers
+- Gladioli
+- Pot Plants
+- Roses & Fuchsias
+- Wigginton Recreation Hall
 ---
 
 *(Image: The Ancient Society of York Florists)*

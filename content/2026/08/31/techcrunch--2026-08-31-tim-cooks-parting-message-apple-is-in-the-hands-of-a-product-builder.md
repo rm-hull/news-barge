@@ -14,6 +14,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Apple Park
+- China
+people:
+- Bloomberg
+- John Ternus
+- Steve Jobs
+- Tim Cook
+- Trump
+organisations:
+- AI
+- Apple
+- Mac
+- Ternus
+- iPhone Air
 ---
 
 On his last day as Apple CEO, Tim Cook offered a rousing endorsement of his successor: John Ternus, the company’s senior vice president of hardware engineering. In a memo to employees, Cook reminded staff that he’s “not leaving Apple,” just stepping away from the role of CEO, while declaring that “few people understand what it takes to build products that change the world the way John does.”

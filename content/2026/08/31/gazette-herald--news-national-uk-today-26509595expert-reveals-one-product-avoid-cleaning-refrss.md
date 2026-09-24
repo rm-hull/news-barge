@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations: []
+people:
+- Krasi Delcheva
+organisations:
+- Cleaners of London
+- TikTok
 ---
 
 It can be incredibly difficult to keep your house clean, especially if you are struggling with tough stains.

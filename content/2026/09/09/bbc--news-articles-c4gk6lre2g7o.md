@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cardiff
+- Dalaman Airport
+- Funchal
+- Gatwick
+- Glasgow
+- Greece
+- Heathrow
+- Luton
+- Madeira
+- Rhodes
+- Turkey
+- UK
+- Wetherspoons
+people:
+- '![James'
+- Alan Jones
+- Heidi Alexander
+- James Graham
+- Kelly Fewery
+- Martin Rolfe
+- Paul Willows
+- Phil White
+- Sasha
+- Sukie Perera
+organisations:
+- BBC Your Voice
+- Cirium
+- Nats
 ---
 
 'Horrendous experience': Passengers react to travel chaos

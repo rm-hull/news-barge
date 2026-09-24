@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- India
+- New Delhi
+- Satya Niketan
+people:
+- Prakash Chand
+- Rekha Gupta
+organisations:
+- Delhi University
 ---
 
 Search and rescue teams combed through the debris of a collapsed building in New Delhi on Monday as the death toll climbed to six, officials said.

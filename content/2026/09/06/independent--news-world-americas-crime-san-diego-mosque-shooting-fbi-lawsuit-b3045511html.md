@@ -13,6 +13,21 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- California
+- Islamic Center
+- Mosque
+- North Carolina
+- San Diego
+people:
+- Cain Clark
+- Caleb Vazquez
+- Park
+organisations:
+- FBI
+- KPBS
+- Park Mental Health
+- Park Mental Health Treatment
 ---
 
 Federal law enforcement officials warned parents that their teenage son was making concerning comments about school shootings on the dark web just days before he carried out a mass shooting at a San Diego mosque, according to new details included in a recently filed lawsuit.

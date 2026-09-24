@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- US
+people:
+- AI
+- Bill Gates
+- Claude
+- Dario Amodei
+- Elon Musk
+- Mustafa Suleyman
+- OpenAI
+- Sam Altman
+- Trump
+organisations:
+- AIs
+- Anthropic
+- BBC
+- Google News
+- Grok
+- Hachette UK
+- Microsoft AI
+- Microsoft's
+- OpenAI
+- The Guardian
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

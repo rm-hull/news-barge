@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/53/71/1200x675_cmsv2_fde5fe82-f1c7-5091-b65b-61329d786eca-9925371.jpg
+locations:
+- Iran
+- Islamic Republic
+- Israel
+- Middle East
+- Minab
+- Shajarat al-Tayyiba
+- Strait of Hormuz
+- US
+people:
+- Ayatollah Ali Khamenei
+- Donald Trump
+- Esmail Baghaei
+- Marco Rubio
+- Masoud Pezeshkian
+organisations:
+- General Assembly
+- UN General Assembly
 ---
 
 **Euronews Persian**

@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Banga
+- Mindanao
+- Philippines
+- South Cotabato
+people:
+- Albert Palencia
+- Reynaldo Tamayo
+organisations:
+- BBC
+- Banga National High School
+- Department of Social Welfare and Development
+- Philippine Red Cross
+- Philippines Red Cross
+- Reuters
 ---
 
 ![Members of the Philippine Red Cross and local rescue personnel walk across the grounds of Banga National High School in the Philippines. Several emergency and utility vehicles are parked in front of a two-storey school building displaying the words “BANGA NATIONAL HIGH SCHOOL.”](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/770e/live/22d1bd20-b337-11f1-910c-69bc1dc40919.jpg)

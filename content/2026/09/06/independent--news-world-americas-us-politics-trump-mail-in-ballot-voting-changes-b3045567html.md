@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/07/28/02/2278806877..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- North Carolina
+- States
+- U.S.
+people:
+- Donald Trump
+- Indira Talwani
+- Joe Bden
+- John Sauer
+organisations:
+- Congress
+- Postal Service
+- Postal Service and the States
+- Supreme Court
+- U.S. District Court
 ---
 
 The Trump administration has renewed its appeal to the Supreme Court to allow new restrictions on mail ballots ahead of the midterms after a federal judge issued a preliminary injunction.

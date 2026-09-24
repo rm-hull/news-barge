@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- Norton
+- Vine Street
+people: []
+organisations:
+- The Herald
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

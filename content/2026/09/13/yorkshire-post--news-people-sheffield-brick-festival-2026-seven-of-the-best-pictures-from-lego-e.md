@@ -14,6 +14,14 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Ponds Forge Leisure Centre
+people: []
+organisations:
+- Charlotte Langley
+- LEGO
+- Sheffield Brick Festival
+- Simon Hulme
 ---
 
 The annual Sheffield Brick Festival returned for its ninth edition on Saturday between 10am and 4pm.

@@ -15,6 +15,29 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/13/Myanmar_Australian_Freed_76_64.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Myanmar
+- Pabedan
+- U.S.
+- Yangon
+people:
+- Adam Castillo
+- Danny
+- Misfit
+- Munimul Islam
+- Myat Phyu The
+- Soe Lin Aung
+- Ye Khaung Kyaw
+organisations:
+- AmCham
+- American Chamber of Commerce
+- Burma Economic Forum
+- Foreign Ministry
+- Home Affairs Ministry
+- Mercury Public Affairs
+- Misfit Technologies
+- The Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -15,6 +15,16 @@ categories:
 - Society & Culture
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21476031.jpg?type=og-image&xType=0&yType=180
+locations:
+- County Durham
+- Dam
+- GNAAS
+- Loftus
+people: []
+organisations:
+- Cleveland Police
+- Great North Air Ambulance
+- North East Ambulance Service
 ---
 
 *(Image: GNAAS)*

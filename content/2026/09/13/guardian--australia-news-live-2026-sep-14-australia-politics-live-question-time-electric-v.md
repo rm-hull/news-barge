@@ -11,6 +11,55 @@ image: https://i.guim.co.uk/img/media/b761db48b532645e80099be237c1f8a0d5341fb8/0
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Canberra
+- Central Coast
+people:
+- Andrew Hastie
+- Angus Taylor
+- Anika Wells
+- Anthony Albanese
+- Barnaby Joyce
+- Ben Roberts-Smith
+- Clare O'Neil
+- Clare O’Neil
+- Cotality
+- God
+- Hastie Andrew Hastie
+- Hume Jane Hume
+- Jane Hume
+- JeremySung
+- Joel Carrett
+- Krishani Dhanji
+- Mark Butler
+- Pauline Hanson
+- Tanya Plibersek
+- Tony Burke
+organisations:
+- AAP
+- Australian Financial Review
+- COP31
+- Coalition
+- Cotality
+- Electric Vehicle Council
+- Energy Consumers Australia
+- Energy Efficiency Council
+- Farmers for Climate Action
+- First Nations
+- Labor
+- Liberal
+- News24
+- Nom
+- One Nation
+- PALM
+- Pacific Australia Labour Mobility
+- Parliament House
+- RN Breakfast
+- Rewiring Australia
+- SAS
+- Sunrise
+- TimLawless
 ---
 
 One Nation reveals ‘net-negative’ migration policy

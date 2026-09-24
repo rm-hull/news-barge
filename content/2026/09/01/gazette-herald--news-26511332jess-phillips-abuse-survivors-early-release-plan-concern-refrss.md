@@ -14,6 +14,32 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Good Morning Britain
+- North Yorkshire
+- Pickering
+- Ruffa Lane
+people:
+- '**‘Evil’'
+- Alex Norris
+- All
+- Helen Duncanson
+- Jess Phillips
+- Jonathan Brady
+- Keir Starmer
+- Michael Boyes
+- Michael Cahill
+- Ms Duncanson
+- Ms Phillips
+- PA Wire
+organisations:
+- Good Morning Britain
+- IPP
+- ITV
+- Ministry of Justice
+- North Yorkshire Police
+- Probation Service
+- The Press
 ---
 
 *(Image: Supplied)*

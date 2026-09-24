@@ -14,6 +14,30 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Brazil
+- Caribbean
+- Latin America
+- Sao Paulo
+- Sen
+people:
+- Alexandre de Moraes
+- André Mendonca
+- Daniel Vorcaro
+- De Moraes
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- José Dias Toffoli
+- Kassio Nunes
+- Luiz Edson Fachin
+- Luiz Inácio Lula da Silva
+- ____ Savarese
+- de Moraes
+- de Moraes’
+organisations:
+- Banco Master
+- Senate
+- Supreme Court
 ---
 
 Brazil's Supreme Court began deliberations Tuesday on whether Justice Alexandre de Moraes, the man who led the trial against former President Jair Bolsonaro, should face an investigation in a graft case, a move that is also shaking the run up to the country's presidential election in October.

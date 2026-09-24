@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bundibugyo
+- Bunia
+- Central African Republic
+- Congo-Brazzaville
+- DRC
+- Democratic Republic of the Congo
+- Ebola
+- Ituri
+- Rwampara
+- Sud-Ubangi
+- Zaire
+people:
+- Gratien Iracan
+- Iracan Gratien de Saint-Nicolas
+- Jean Kaseya
+- Léa Munyere
+- Samuel Roger Kamba
+organisations:
+- African Centres for Disease Control and Prevention
+- DRC
+- MP
 ---
 
 Authorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Barnsley
+- Thurnscoe
+- Windsor Street
+people:
+- DI Claire Moss
+organisations:
+- Armed Crime Team
+- Crimestoppers
+- National Police Air Service
 ---
 
 # Three arrested after woman shot with air rifle and left fighting for her life

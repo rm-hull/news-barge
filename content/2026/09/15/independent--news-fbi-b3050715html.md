@@ -14,6 +14,15 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- D.C
+- D.C.
+people:
+- Trayon White
+organisations:
+- FBI
+- Ward 8
+- Washington, D.C., Council
 ---
 
 A bribery trial starts this week for a Washington, D.C., Council member accused of accepting cash from an associate in exchange for using his elected position to help extend city contracts for the associate's businesses.

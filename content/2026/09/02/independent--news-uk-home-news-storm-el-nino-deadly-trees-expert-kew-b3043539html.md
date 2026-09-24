@@ -14,6 +14,22 @@ categories:
 - UK
 - Travel
 - Outdoors & Nature
+locations:
+- El Niño
+- England
+- Kew
+- Pacific Ocean
+- UK
+- Wales
+people:
+- Julia Cole
+- Kevin Martin
+organisations:
+- El Niño
+- Kew’s Royal Botanic Gardens
+- Met Office
+- UC Santa Barbara
+- University of Michigan’s Department of Earth and Environmental Sciences
 ---
 
 Storms associated with El Niño could pose a danger to England’s dry trees with some species at risk of disappearing from the landscape, an expert has warned.

@@ -14,6 +14,38 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+- Mount Pleasant
+- Singapore
+- Taiwan
+- Thailand
+- U.S.
+- Wisconsin
+people:
+- Baker McKenzie
+- Jensen Huang
+- Joe Biden
+- Michael Kratsios
+- Tom
+- Trump
+organisations:
+- Commerce Department
+- Department of Commerce
+- Foxconn Technology Co.
+- Get Tom's Hardware
+- Google News
+- Kimi K3
+- Microsoft
+- Moonshot AI
+- Nvidia Corp.
+- PRC
+- Supermicro
+- The Information
+- Tom’s Hardware
+- Trump
+- U.S. House
+- White House Office of Science and Technology
 ---
 
 ![The autograph of Jensen Huang, co-founder and chief executive officer of Nvidia Corp., on Nvidia's GB300 NVL72 GPU at the Foxconn Technology Co. booth.](https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP.jpg) 

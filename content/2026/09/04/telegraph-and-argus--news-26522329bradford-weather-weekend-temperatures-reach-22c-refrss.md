@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+people: []
+organisations:
+- Met Office
 ---
 
 *(Image: Pexels)*

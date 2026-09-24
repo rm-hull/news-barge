@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - Sports
 - Travel
+locations:
+- Amazon
+- Asia
+- California
+- La Niña
+- Los Angeles
+- Pacific Ocean
+- Rossby
+- Switzerland
+- US
+people:
+- Andries-Jan de Vries
+- Arun Kumar
+- Yongkang Xue
+organisations:
+- US National Oceanic and Atmospheric Administration
+- University of California
+- University of Lausanne
 ---
 
 ![severe flooding in California in March 2023](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513514.jpg?w=840)

@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- County Durham
+- James Cook
+- Middlesbrough
+- UK
+people:
+- Remi
+- Rich Scott
+- Tracy Ruddick
+- Zana Sellars
+organisations:
+- Devastated County Durham
+- Generation Study
+- Genomics England
+- The James Cook University Hospital
+- University Hospital of North Tees
 ---
 
 More than 1,000 babies have taken part in a pioneering genetic research study in Middlesbrough.

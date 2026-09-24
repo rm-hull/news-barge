@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford Crown Court
+- Bradford Magistrates' Court
+- Bradford Magistrates’ Court
+- Bradford South
+- Holme Lane
+people:
+- Holme Lane
+- Lukas Dawson
+- Pixabay
+organisations:
+- Bradford Crown Court
+- FULL
+- West Yorkshire Police
+- West Yorkshire Police A
 ---
 
 *(Image: Pixabay)*

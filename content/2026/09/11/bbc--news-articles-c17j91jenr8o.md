@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- England
+- Filton
+- Parliament Square
+- Rochester
+- Strood
+- Switzerland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Ashley Dalton
+- Bradley Stoke
+- Claire Hazelgrove
+- Esther Rantzen
+- Gordon Macdonald
+- Janet Daby
+- Jess Asato
+- Kim Leadbeater
+- Lauren Edwards
+- Lib Dem
+- Martin Vickers
+- Meg Hillier
+- Sarah Wootton
+- Tom Gordon
+organisations:
+- 1 APNI
+- 2 Independent
+- 2 Your Party
+- 3 Reform
+- 5 Green
+- 8 SNP
+- 9 Conservative
+- 9 Independent
+- 90 Conservative
+- BBC
+- Childline
+- DUP
+- Dignity in Dying
+- End of Life
+- House of Commons
+- House of Commons.
+- House of Lords
+- Houses of Parliament.
+- Labour
+- Lib Dem
+- MPs'
+- Parliament
+- Plaid Cymru
+- Restore Britain
+- SDLP
+- Sinn Fein
+- TUV
+- Terminally Ill Adults
+- UUP
 ---
 
 Watch: MPs share personal stories in assisted dying debate

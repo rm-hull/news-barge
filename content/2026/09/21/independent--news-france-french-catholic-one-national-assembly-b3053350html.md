@@ -13,6 +13,49 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/07/Vatican_France_58777.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Americas
+- Champs-Elysees
+- China
+- Christian West
+- Europe
+- France
+- Lourdes
+- Mass
+- Metz
+- Notre Dame du Rosaire Basilica
+- Place de la Concorde
+- Spain
+- U.S.
+- Ukraine
+- Vatican
+people:
+- AI
+- Christian Marquant
+- Francis
+- Jean-Marc Aveline
+- Jean-Marc Micas
+- John Paul
+- Laura Sgro
+- Leo XIV
+- Lourdes
+- Marko Rupnik
+- Micas'
+- Nathalie Becquart
+- Robert Schuman
+- Trump
+organisations:
+- AP
+- Catholic Church
+- Lilly Endowment Inc
+- National Assembly
+- Second Vatican Council
+- The Conversation US
+- Trump
+- U.N.
+- UNESCO
+- \_\_\_ Associated Press
 ---
 
 When an ailing Pope John Paul II visited the French shrine at Lourdes in 2004, on his last foreign trip, he delivered a forceful condemnation of abortion and euthanasia as he gasped for air during Mass.

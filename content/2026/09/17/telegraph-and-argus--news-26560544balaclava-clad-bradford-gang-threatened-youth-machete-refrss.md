@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Gain Lane
+- HMP Doncaster
+- Tagore Court
+- West Yorkshire Police
+people:
+- Jeevan Mann
+- Maz
+- Miss Hoskins
+- Mohammed Rafiq
+- Nicola Hoskins
+- Recorder Shufqat Khan
+- Salim Mohammed
+- Zaid Khan
+organisations:
+- Bradford Crown Court
+- CCTV
+- Stepping Stones
 ---
 
 *(Image: West Yorkshire Police)*

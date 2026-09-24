@@ -13,6 +13,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a120/live/2a183810-b76b-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- East Anglia
+- England
+- Midlands
+- UK
+people:
+- Dieter Lloyd
+- Martin Emmett
+organisations:
+- BBC Radio 5 Live
+- BLSA
+- British Leafy Salads Association
+- NFU
+- National Farmers' Union
 ---
 
 ![A field of lettuce](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a120/live/2a183810-b76b-11f1-a7b2-f3bdba1cd194.jpg)

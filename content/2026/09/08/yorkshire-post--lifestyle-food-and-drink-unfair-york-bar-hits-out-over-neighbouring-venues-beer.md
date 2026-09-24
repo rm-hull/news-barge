@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- A Yorkshire
+- Patrick Pool
+- St Sampson’s Centre
+- Valhalla
+- York
+- York.
+people:
+- Graham Hutchinson
+- Matt Bedingham
+- Pinvi
+- Pivni
+- Valhalla
+- Vincent Roberts
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Rolling Stones
+- St Sampson
+- Valhalla
+- York Council
 ---
 
 # 'Unfair' - York bar hits out over neighbouring venue's beer garden opposition as plans approved

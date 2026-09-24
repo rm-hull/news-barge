@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Hormuz
+people:
+- Andrew Hauser
+organisations:
+- ABC
+- RBA
+- Reserve Bank
 ---
 
 For five years the Reserve Bank has been trying to wrangle inflation back to its 2.5% target, and for years it has essentially failed.

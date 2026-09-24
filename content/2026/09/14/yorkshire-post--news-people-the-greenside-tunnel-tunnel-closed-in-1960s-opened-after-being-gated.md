@@ -15,6 +15,25 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Fox
+- Greenside Greenway
+- Greenside Tunnel
+- LS28 8HU
+- Leeds Bradford Supercycle
+- Mass Transit
+- Pudsey
+- Smalewell Road
+- Spen Valley Greenway
+- Tyersal
+- West Yorkshire
+people:
+- Gary Lemal
+organisations:
+- Fiz Lemal
+- Greenside Greenway
+- Leeds
+- West Yorkshire Combined Authority
 ---
 
 # The Greenside Tunnel: Tunnel closed in 1960s opened after being gated off for two decades could be possible route for planned tram system

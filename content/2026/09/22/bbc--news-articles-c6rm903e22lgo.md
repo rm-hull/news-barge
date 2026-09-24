@@ -11,6 +11,41 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4750/live/f9ba3d90-b6c9-11f1-a430-4d16ee157c41.jpg
+locations:
+- AI
+- Cuba
+- Europe
+- Greenland
+- Iran
+- Islamic Republic
+- Kingdom of Denmark
+- New York
+- North America
+- Nuuk
+- South Lawn
+- US
+- United States
+- Washington
+- Western Hemisphere
+- White House
+people:
+- Bernd Debusmann Jr
+- Bruno Rodriguez
+- Donald Trump
+- Khashayar Joneidi
+- Mette Frederiksen
+- Nada Tawfik
+- Sarah Smith
+organisations:
+- AI
+- Artificial Intelligence
+- BBC Persian
+- Moment Trump
+- Nato
+- Super Intelligence
+- UN General Assembly
+- United Nations
+- United Nations General Assembly
 ---
 
 Watch: Trump threatens to 'annihilate' Iran if no deal reached

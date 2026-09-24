@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/17797491.jpg?type=og-image
+locations:
+- Britain
+- Durham
+- North East
+- Teesside
+- UK
+people:
+- Helen Davies
+organisations:
+- '![]()Durham University'
+- '![]()Teesside University'
+- Durham University
+- Newcastle University
+- Northumbria University
+- QS World University
+- Subject
+- Teesside University
+- The Sunday Times Good University Guide
+- The Sunday Times Good University Guide 2027
+- The Times
+- University of Sunderland
 ---
 
 Durham University has been named the North East’s best university, ranking sixth in the country among the UK’s elite institutions.

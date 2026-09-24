@@ -12,6 +12,41 @@ image: https://images.euronews.com/articles/stories/09/90/04/77/1200x675_cmsv2_f
 categories:
 - Europe
 - News & Politics
+locations:
+- China
+- Europe
+- France
+- Russia
+- US
+people:
+- Benjamin Haddad
+- Bruno Retailleau
+- Emmanuel Macron
+- Gabriel Attal
+- Jean-Luc Mélenchon
+- Le Pen
+- Marine Le Pen
+- Marine Tondelier
+- Raphaël Glucksmann
+- Vladimir Putin
+- Édouard Philippe
+organisations:
+- BFMTV
+- EU
+- Euronews
+- European Affairs
+- European Parliamentary
+- European Union
+- Greens
+- Horizons
+- La France Insoumise
+- La République En Marche
+- La Tribune Dimanche
+- Le Pen
+- Les Républicains
+- Macron
+- Place Publique
+- Renaissance
 ---
 
 ## Polls suggest far-right veteran Marine Le Pen is on course to become France’s next president, though the race remains in its early stages. But EU minister Haddad says voters will reject her.

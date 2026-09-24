@@ -12,6 +12,39 @@ image: https://images.euronews.com/articles/stories/09/90/79/76/1200x675_cmsv2_c
 categories:
 - Europe
 - News & Politics
+locations:
+- Alberta
+- Calgary
+- Calif.
+- China
+- Europe
+- Malibu
+- Norway
+- Oslo Cathedral
+- Qingdao
+- Shandong
+- Spain
+- Ukraine
+people:
+- Alicia García-Herrero
+- Arancha González
+- Christophe Hansen
+- Dan Jørgensen
+- Harald V
+- Maciej Jakubowski
+- Nicolas Cage
+- Olena Zelenska
+- Sonja
+- Volodymyr Zelenskyy
+organisations:
+- Andrea Renda
+- Béla Anda
+- CMA
+- Centre for European Policy Studies
+- EU
+- Elina Valtonen
+- Euronews
+- Tymofiy Mylovanov
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

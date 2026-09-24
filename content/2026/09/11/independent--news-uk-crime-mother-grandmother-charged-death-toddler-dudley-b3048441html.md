@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Castle Hill
+- Dudley
+- Walsall
+people:
+- Faiza Hassan
+- Sahra Hassan
+organisations:
+- West Midlands Police
+- Wolverhampton Crown Court
 ---
 
 A mother has appeared in court charged with the murder of her 17-month-old daughter in Dudley.

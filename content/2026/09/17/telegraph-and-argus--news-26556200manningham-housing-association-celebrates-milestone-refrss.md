@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Bradford
+- Keighley
+- West Yorkshire
+people:
+- Kersten England CBE
+- Lee Bloomfield
+- Rupert Pometsey
+organisations:
+- BME
+- Bangladeshi Youth Organisation
+- Barrington Billings
+- Bradford Live
+- Dixons Manningham Academy Choir
+- MHA
+- Manningham Housing Association
+- Punjab Roots
+- Standard for Diversity and Inclusion in HR Management
+- United Nations
 ---
 
 *(Image: Supplied)*

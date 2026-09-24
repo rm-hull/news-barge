@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/25/30/1200x675_cmsv2_bb651aab-0f59-55c7-95f7-24e26985217d-9922530.jpg
+locations:
+- Ankara
+- Black Sea
+- China
+- Europe
+- France
+- Istanbul
+- Kyiv
+- Moscow
+- New York
+- Russia
+- Turkey
+- UK
+- US
+- Ukraine
+- United States
+- White House
+people:
+- Donald Trump
+- Ekrem İmamoğlu
+- Recep Tayyip Erdoğan
+organisations:
+- Antalya Diplomacy Forum
+- EU
+- European Union
+- General Assembly
+- NATO
+- Security Council
+- UN General Assembly
+- UN Security Council
+- United Nations
 ---
 
 ## Speaking at the UN General Assembly, Erdoğan argued that Turkey is an indispensable part of European security architecture. Turkey has been a NATO member since 1952 but its EU accession process has been frozen for nearly a decade.

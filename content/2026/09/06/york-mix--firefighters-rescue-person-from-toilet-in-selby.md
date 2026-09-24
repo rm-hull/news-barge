@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- '#### Portholme Road'
+- Portholme Road
+- Selby**
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- Selby “Crews
 ---
 
 Firefighters came to the rescue of someone trapped in a loo today (Sunday).

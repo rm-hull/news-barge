@@ -11,6 +11,22 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Abbey
+- Crawford
+- Hutton-le-Hole
+- Rievaulx
+people:
+- JMW Turner
+- Jennifer Smith
+- John Sell Cotman
+- Simon Crawford
+- Thomas Girtin
+organisations:
+- Knaresborough
+- Rievaulx Abbey
+- Ryedale A
+- Ryedale Folk Museum
 ---
 
 # Knaresborough artist's new exhibition draws on Cistercian abbeys

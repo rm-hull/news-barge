@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '**York'
+- North Yorkshire
+- Whitby
+people:
+- Simon Hewitt
+organisations:
+- ADS Electrical Services Ltd of Easingwold
+- BT
+- DS Insolvency
+- Engensia Design Ltd
+- HMRC
+- Ousegate
+- Positive Energy
+- S&D Facilities Managed Ltd
+- The Old Maltings
+- Yu Energy
 ---
 
 *(Image: NQ)*

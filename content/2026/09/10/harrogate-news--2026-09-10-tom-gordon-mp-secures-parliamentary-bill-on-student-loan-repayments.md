@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations:
+- Harrogate
+- Knaresborough
+people:
+- Tom Gordon
+organisations:
+- Rethink Repayment
 ---
 
 Tom Gordon, the Liberal Democrat MP for Harrogate and Knaresborough, has secured a Bill in Parliament on student finance to tackle the student loans crisis affecting hundreds of thousands of graduates.

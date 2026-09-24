@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Abraham Lincoln
+- California
+- Gulf
+- Hard Rock Hotel Pattaya
+- Iran
+- Laem Chabang Port
+- Middle East
+- Middle East.
+- Thailand
+- Thailand.
+- U.S.
+- US
+- USS Abraham Lincoln
+- Walking Street
+people:
+- Abraham Lincoln
+- Jada Fairfax
+- Kanta Saenkla
+- Kosol Homkhunthod
+- Kristopher Robinson
+- Shakeira Fairfax
+organisations:
+- BBC
+- Hard Rock Hotel
+- Reuters
+- SLG
+- Shore Liaison Group
+- U.S. Navy
+- US Navy
 ---
 
 Watch: Why US troops have a history in this raucous Thai city

@@ -14,6 +14,50 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- America
+- Canada
+- Capitol Hill
+- Caracas
+- China
+- D-Va.
+- Fos-Lavera
+- France
+- London
+- Marseille
+- Mexico
+- New York
+- Portland
+- R-Ohio
+- US
+- United States
+- Venezuela
+- White House
+people:
+- Bernie Moreno
+- Chris Van Hollen
+- David Oxley
+- Delcy Rodríguez
+- Donald Trump
+- Hugo Chávez
+- Marco Rubio
+- Nicolás Maduro
+- Pete Hegseth
+- Philippe Magoni
+- Ricardo Hausmann
+- Tim Kaine
+organisations:
+- BP
+- Capital Economics
+- Chevron
+- Congress
+- DC
+- Exxon Mobil
+- Harvard University
+- Repsol
+- Saudi Aramco
+- Shell
+- US Strategic Petroleum Reserve
 ---
 
 ## Besides a social media post from US President Donald Trump, the White House has said little about what he is calling “the biggest oil deal in world history” in Venezuela.

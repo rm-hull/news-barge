@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Calais
+- Maine
+- Newegg
+- U.S.
+people:
+- Terry “Jiajia” Liu
+- Theodore Cummings
+- Tom
+organisations:
+- Amazon
+- American Express
+- CBP
+- Customs and Border Protection
+- Department of Homeland Security
+- FBI
+- Get Tom's Hardware
+- Google News
+- Newegg
+- Raptor Lake Refresh
+- The Maine Wire
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![Inside of a PC](https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3.jpg) 

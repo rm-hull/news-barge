@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Baths
+- Colle Oppio
+- Damascus
+- Painted City
+- Rome
+- South Park
+- Trajan
+people:
+- Apollodorus
+- Claudius
+- Donald Trump
+- Roberto Gualtieri
+- Trajan
+organisations:
+- Great Mosaic Trajan's Baths
+- Superintendency
 ---
 
 **Euronews**

@@ -14,6 +14,32 @@ categories:
 - Society & Culture
 - True Crime
 image: https://i.guim.co.uk/img/media/124a90303a21ff54f3fa0a0a955ea1260b21b394/449_0_5802_4640/master/5802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0af6f64b246fecf9b8a15c9422bebb9d
+locations:
+- America
+- Children’s Hospital
+- Pennsylvania
+- Philadelphia
+- United States
+people:
+- Covid
+- Debra Houry
+- Emily Hilliard
+- Erica Schwartz
+- John Goldman
+- Robert F Kennedy Jr
+organisations:
+- CDC
+- Congress
+- Council of State and Territorial Epidemiologists
+- Guardian
+- HHS
+- NCHS
+- NICU
+- National Center for Health Statistics
+- US Centers of Disease Control and Prevention
+- US Department of Health and Human Services
+- University of Pittsburgh Medical Center
+- World Health Organization
 ---
 
 The US Centers of Disease Control and Prevention (CDC) updated its measles dashboard on Friday – but it’s still not counting four measles deaths in Pennsylvania, where the outbreak appears to be accelerating and cases are appearing in ways providers have never seen before.

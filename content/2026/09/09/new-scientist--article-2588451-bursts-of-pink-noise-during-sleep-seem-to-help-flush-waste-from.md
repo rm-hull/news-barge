@@ -12,6 +12,17 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311500576.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Massachusetts
+people:
+- Joshua Levitt
+- Laura Lewis
+- Sephira Ryman
+organisations:
+- Boston University
+- CSF
+- Massachusetts Institute of Technology
+- University of New Mexico
 ---
 
 ![vibration sound. Resonance. Pulse. cardiogram](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311500576.jpg?w=840)

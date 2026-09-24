@@ -13,6 +13,22 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNhYmUxMDE4LWNlZjYtNGE2OC1iYmUxLWRhZWIzNTg2MWVhZTo1OTRiM2JhNi0xMTQ2LTRiYzMtOWU5Mi00Yjg5MjllODgxMjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- '## Crosland Moor'
+- Crosland Moor
+- Huddersfield
+- Moorbottom Road
+- Row Street
+- Thornton Lodge
+people:
+- Abdul Jabar
+- Alex Vickers
+- Cllr Alex Vickers
+- Cllr Vickers
+organisations:
+- Crosland Moor Green
+- Greens
+- Kirklees Council
 ---
 
 # Calls for ‘urgent’ council intervention as key Huddersfield shortcut shut off

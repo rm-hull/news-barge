@@ -14,6 +14,30 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Accord Mortgages
+- Aldermore
+- Atom Bank
+- Barclays
+- Bath BS
+- Bluestone Mortgages
+- Coventry Building Society
+- Gatehouse Bank
+- Gen H
+- Halifax
+- LTV
+- Leeds BS
+- Mansfield BS
+- Melton BS
+- Metro Bank
+- Nationwide BS
+- Newbury BS
+- Nottingham BS
+- Santander
+- TSB
+- Virgin Money
 ---
 
 If you’re a first-time buyer, you might have heard from people who have bought previously that the most you can borrow is around 4.5 times your income.

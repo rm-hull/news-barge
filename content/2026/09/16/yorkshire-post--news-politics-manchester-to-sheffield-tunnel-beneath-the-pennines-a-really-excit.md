@@ -15,6 +15,27 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Greater Manchester
+- North
+- Norway
+- Peak District
+- Pennines
+- Sheffield
+- South Yorkshire
+- South Yorkshire’
+- Westminster
+people:
+- Andy Burnham
+- Oliver Coppard
+- Richard Dutson
+organisations:
+- Board
+- Future Works
+- SYMCA
+- South Yorkshire Combined Mayoral Authority
+- South Yorkshire Mayoral Combined Authority
+- Trans-Pennine Connect
 ---
 
 # Manchester to Sheffield tunnel beneath the Pennines a ‘really exciting opportunity’, says Mayor

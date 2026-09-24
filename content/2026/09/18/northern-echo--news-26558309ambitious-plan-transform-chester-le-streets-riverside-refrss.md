@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Chester-le-Street
+- Riverside Park
+- YOUR
+people:
+- Joe Quinn
+- Kyle Genner
+- Sarah Caldecott
+organisations:
+- Chester-le-Street
+- Durham County Council
+- Durham Women FC
+- Ferryhill County Durham Reform
+- Public Notice Portal
+- Public Notice Portal Durham County Council
+- Reform UK
+- Riverside Sports Complex
+- Women's Super League-standard
 ---
 
 ### What is the Public Notice Portal?

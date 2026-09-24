@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Eastney Marina
+- Isle of Wight
+- Isle of Wight Constabulary
+- Port of Dover
+- Portsmouth Magistrates Court
+- Portsmouth.** Hampshire
+people:
+- Del Leon Somerville
+- Paul Bartolomeo
+- Paulsgrove
+- Tony Rowlinson
+organisations:
+- Border Force
+- RNLI
 ---
 
 ![Protesters in Dover wearing black balaclavas](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/97c6/live/422ddd40-adf9-11f1-ad53-0d91a06f3150.jpg)

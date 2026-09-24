@@ -12,6 +12,26 @@ categories:
 - York
 - Arts & Culture
 - History
+locations:
+- Agar Street
+- Holgate
+- Lowther Street
+- Monkgate
+- Spar
+- The Groves
+- York
+people:
+- Bile Beans
+- Duncan Marks
+- Tom Sledmore
+organisations:
+- BID
+- City of York Council
+- Grey Coat School
+- Monkgate & Jersey Diary Company
+- York Civic Trust
+- York Civic Trust, York Business Improvement District
+- York St John University
 ---
 
 Plans to tackle graffiti which has been scrawled on the side of an historic York building for years have been lodged.

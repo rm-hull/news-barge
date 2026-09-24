@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg
+locations:
+- Chlorakas
+- Coral Bay
+- Coral bay
+- Cyprus
+- Cyprus.
+- Essex
+- King Evelthon Beach
+- Paphos
+- Peyia
+- UK
+people:
+- Alexandros Alexandrou
+organisations:
+- Associated Press
+- Essex
+- Times
 ---
 
 ![Aerial panoramic view of Coral bay beach, Cyprus. Overhead view of Coral Bay beach, Peyia village, Paphos district, Cyprus. Aerial view of Coral Bay beach in Peyia village, Cyprus.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg)

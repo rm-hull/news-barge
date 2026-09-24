@@ -13,6 +13,24 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21482079.jpg?type=og-image
+locations:
+- UK
+- York
+people:
+- David Skaith
+- Nicky Hayer
+- Tendai Murairwa
+organisations:
+- '![]()York Fashion Week'
+- Camel Event Production
+- DOLLSFACE
+- JCT600 Mercedes-Benz of York
+- Palenque Jewellery
+- The Yorkshire Collection
+- WYSE London
+- York Art Gallery
+- York Fashion Week
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Lightwater Valley
+- Ripon
+people: []
+organisations:
+- Lightwater Valley Family Adventure Park
+- Mellors Group
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa29a87e058b5d8072.jpg) 

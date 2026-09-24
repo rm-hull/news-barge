@@ -15,6 +15,19 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Fish Cottage
+- Fish Cottage.
+- Harrogate
+- North Sea
+- Sandsend
+- Whitby
+- Yorkshire coast
+people:
+- Dan Hardcastle
+- Sandsend
+organisations:
+- COVID
 ---
 
 # Fish Cottage, Sandsend: ‘We’re a victim of our own success’ - The first fish and chip restaurant in Yorkshire coast village

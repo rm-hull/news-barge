@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Durham Road
+- Stockton
+people:
+- Andrew Evans
+organisations:
+- BP
+- Cleveland Police
+- GOOGLE
 ---
 
 *(Image: GOOGLE)*

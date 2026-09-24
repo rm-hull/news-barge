@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Calais
+- England
+- Erbil
+- France
+- Grande-Synthe
+- Iraqi Kurdistan
+- Kent
+- Paris
+- UK
+people:
+- Camille Renouard
+- Matthieu Chirez
+- Thomas Ricard
+organisations:
+- Agence France-Presse
+- Cranston
+- HM Coastguard
+- Reuters
 ---
 
 Fourteen men will go on trial in Paris on Tuesday over the deaths of at least 31 people in the worst mass drowning from a small-boat crossing in the Channel on record.

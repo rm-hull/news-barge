@@ -14,6 +14,26 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/17/AI_Antitrust_Lawsuit_36783.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- US
+people:
+- Claude
+- Dario Amodei
+- Demis Hassabis
+- Nick Rowley
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Elon Musk
+- Gemini
+- Google DeepMind
+- Grok
+- OpenAI
+- SpaceXAI
+- U.S. District Court for the Northern District of California
 ---
 
 A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.

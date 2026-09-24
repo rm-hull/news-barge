@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Atlantic
+- Europe
+- Italy
+- Los Angeles
+- New York
+- New York City
+- Norway
+- San Francisco
+- US
+- United States
+people:
+- Jonas Gahr Støre
+- Josh Golin
+- Kamar Samuels
+- Michael Mulgrew
+- Zohran Mamdani
+organisations:
+- AI
+- EU
+- Education Department
+- European Union
+- Fairplay
+- Los Angeles Unified School District
+- Netflix
+- Twitter
+- United Federation of Teachers
 ---
 
 ## This move follows New York City clamping down on smartphone usage in schools last year, and has been widely supported across social media platforms like X.

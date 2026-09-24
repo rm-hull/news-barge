@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Boroughbridge
+- Knaresborough
+- North Yorkshire
+- North Yorkshire Police
+- Ripon
+- Skipton
+people:
+- Ethan Anderson
+- Minskip
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

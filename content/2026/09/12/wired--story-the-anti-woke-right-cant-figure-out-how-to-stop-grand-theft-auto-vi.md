@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Science
 - Video Gaming
+locations:
+- Gamergate
+- Rockstar
+- Scotland
+people:
+- Christopher Nolan
+- Elon Musk
+- Jason Duval
+- Lucia Caminos
+- Mark Kern
+- Nick Fuentes
+- Wokenessisevil
+- YouTuber
+- Zack Hoyt
+organisations:
+- AI
+- GTA VI
+- Netflix
+- Rockstar Games’
 ---
 
 Rockstar Games’ best-selling *Grand Theft Auto* series wasn’t often accused of political sensitivity during its legendary run from the late 1990s through the early 2010s.

@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/10/15/252c1f67c39bc2b0a02b4c55e4
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- Britain
+- UK
+- US
+people:
+- AI
+- Andy Burnham
+- Evan Hubinger
+- Jacob Coxon
+- Kanishka Narayan
+- Lord Clement-Jones
+organisations:
+- AI Safety Institute
+- AI Security Institute
+- Anthropic
+- Cabinet Office
+- Commons
+- Financial Times
+- Government
+- House
+- OpenAI
+- Our Cyber Security and Resilience Bill
 ---
 
 Proposals to introduce a so-called "kill switch" to protect against an attack from rogue artificial intelligence have been turned down by Andy Burnham’s government.

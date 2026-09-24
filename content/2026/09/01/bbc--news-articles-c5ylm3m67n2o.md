@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Bonn
+- Brandenburg
+- Europe
+- Germany
+- Halle Airport
+- Ireland
+- Leipzig
+- Moscow
+- Russia
+- Russian House
+- Saxony-Anhalt
+- US
+- Ukraine
+people:
+- Alexander Dobrindt
+- Andy Burnham
+- Donald Tusk
+- Friedrich Merz
+- Johann Wadephul
+- Maria Zakharova
+- Mark Rutte
+- Roderich Kiesewetter
+- Sergei Nechayev
+- Ursula von der Leyen
+organisations:
+- AfD
+- Alternative für Deutschland
+- Antonov Airlines
+- CDU
+- Christian Democrats
+- EU Commission
+- German Press Agency
+- Goethe-Institut
+- Kyiv
+- Nato
 ---
 
 ![A police investigator works on the tarmac with a robot capable of defusing explosives near a Ukrainian Antonov cargo plane at Leipzig/Halle Airport on 5 August](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg)

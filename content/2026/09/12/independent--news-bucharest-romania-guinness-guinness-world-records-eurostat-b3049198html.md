@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Alba Iulia
+- Bloom the World
+- Bucharest
+- Constitution Square
+- England
+- Leamington Spa
+- Obregia Hospital
+- Palace of Parliament
+- Romania
+- Unirii Boulevard
+people:
+- Alexa Vilcan
+- Alexandru Rogobete
+- Joanne Brent
+- ___ McGrath
+organisations:
+- Bloom The World Association
+- EU
+- European Union
+- Eurostat
+- Guinness World Records
+- Metropolis Foundation
 ---
 
 Tens of thousands of people gathered in Romania ’s capital Saturday to sit down at a miles-long table to break a Guinness record and raise money for what organizers said will be the country's first pediatric psychiatry hospital.

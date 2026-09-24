@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472202.jpg?type=og-image
+locations:
+- Bradford
+- Carrwood
+- Eversley Drive
+- Holme Wood
+people:
+- Carrwood
+- Miss Malt
+- Nicola Malt
+- Yvonne Brown
+organisations:
+- Carrwood Primary School
+- Leading Learners Multi Academy Trust
+- Ofsted
 ---
 
 *(Image: Carrwood Primary School)*

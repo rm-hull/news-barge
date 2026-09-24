@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Greene King
+- Harrogate
+people:
+- Greene King
+organisations:
+- Greene King Pub Partners
+- Lund House Green
+- Squinting Cat
+- The Squinting Cat
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa0146f4b1d6a781cc.jpg) 

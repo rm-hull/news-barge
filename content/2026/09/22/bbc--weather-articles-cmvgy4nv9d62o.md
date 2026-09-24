@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg
+locations:
+- Africa
+- Atlantic
+- Australia
+- Brazil
+- Ecuador
+- El Niño
+- Europe
+- India
+- Indonesia
+- Pacific Ocean
+- Peru
+- South America
+- South East Asia
+- UK
+- USA
+- United States
+people:
+- Adam Scaife
+organisations:
+- El Niño
+- India Meteorological Department
+- Met Office
+- ONI
+- RONI
 ---
 
 ![Two firefighters spray water from a hose on to smouldering crops and trees, with smoke filling the air.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg)

@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- California
+- New York
+- UK
+- US
+- Wales
+- Washington DC
+people:
+- Archie
+- Bev Turner
+- Charles
+- Donald Trump
+- Harry
+- King
+- Lilibet
+- Meghan Markle
+- Sussexes
+- William
+organisations:
+- Congress
+- Duke of Sussex
+- GB News
+- Royal Family
+- Sussexes
 ---
 
 Donald Trump has accused Prince Harry of treating his brother, the Prince of Wales, in a “very terrible” way.

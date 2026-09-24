@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Dalton Mills
+- Downton Abbey
+- Keighley
+people:
+- Robbie Moore
+organisations:
+- Bradford Council
+- Crown Estate
+- Historic England
+- Keighley & Ilkley
+- Peaky Blinders
+- WYFRS Bradford Council
+- West Yorkshire Fire and Rescue Service
 ---
 
 ![An old mill on fire](https://ichef.bbci.co.uk/ace/standard/859/cpsprodpb/cc07/live/10e6ff40-af4e-11f1-99f7-0d91ad00290d.png)

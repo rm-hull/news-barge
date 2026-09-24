@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Croxdale
+- North East
+- Redcar Central
+people:
+- Matthew Stancliffe
+organisations:
+- County Durham
+- Google Maps
+- McCafé
+- New McDonald's
+- Stonegate
 ---
 
 *(Image: Google Maps)*

@@ -14,6 +14,18 @@ categories:
 - York
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- York
+- __York
+people:
+- Cllr Kent
+- Green
+- Ian Hoult
+- Jenny Kent
+organisations:
+- City of York Council
+- City of York Council)* Council
+- Labour
 ---
 
 TIMESCALES for proposals to ditch recycling boxes for wheelie bins in York have been set out along with more details about the scheme.

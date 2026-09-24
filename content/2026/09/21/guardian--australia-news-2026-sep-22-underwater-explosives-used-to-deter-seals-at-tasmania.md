@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/884b2faed635ee5e8c787ef6c5936aa658d1ecf0/0_281_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad960357ec8ceb587f5de4ff5fc0efab
+locations:
+- Bruny Island
+- D’Entrecasteaux Channel
+- Huon Aquaculture
+- Huon River
+- Macquarie Harbour
+- Nubeena
+- Petuna
+- Storm Bay
+- Tamar River
+- Tasman Peninsula
+- Tasmania
+- Tassal
+people:
+- Huon
+- Petuna
+- Richard Flanagan
+- Tassal
+organisations:
+- Cooke Aquaculture
+- Department of Natural Resources and Environment
+- Huon Aquaculture
+- JBS
+- NRE Tas
+- SalmonBusiness
+- Tasmanian Inquirer
+- Tassal
 ---
 
 More than 150,000 underwater explosives have been used to deter seals at Tasmanian salmon farms since 2016, according to new government data.

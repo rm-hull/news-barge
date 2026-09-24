@@ -13,6 +13,14 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Kate Dearden
+organisations:
+- PCA
+- Pubs Code Adjudicator
+- Stonegate
 ---
 
 The Government has rejected pub industry calls for regulation of the sector to be watered down, but stressed that there are still “areas for improvement”.

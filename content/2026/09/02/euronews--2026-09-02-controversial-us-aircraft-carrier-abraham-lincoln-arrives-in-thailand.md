@@ -12,6 +12,37 @@ image: https://images.euronews.com/articles/stories/09/89/79/72/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Arabian Sea
+- California
+- Iran
+- Israel
+- Japan
+- Laem Chabang
+- Middle East
+- Pattaya
+- San Diego
+- South China Sea
+- Thailand
+- US
+- United States
+people:
+- Abraham Lincoln
+- Dan Keeler
+- Donald Trump
+- Hung Cao
+- Nicko
+- Poramase Ngampiches
+- Robert Loughran
+organisations:
+- AFP
+- Facebook
+- Marines
+- Navy
+- US Carrier Strike Group
+- US Naval Institute
+- USS George Washington
+- USS Theodore Roosevelt
 ---
 
 ## Democratic lawmakers have called for an investigation into conditions on the USS Abraham Lincoln following reports of food shortages, broken plumbing and mental health crises.

@@ -14,6 +14,50 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Al-Wadiah
+- Ankara
+- Bab al-Mandeb Strait
+- Chatham House
+- Gaza
+- Iran
+- Islamabad
+- Jubah
+- Kadha
+- Marib
+- Middle East
+- Pakistan
+- Red Sea
+- Riyadh
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Taiz
+- Tehran
+- Turkey
+- UAE
+- US
+- United States
+- Washington
+- Yemen
+- al-Bayda
+- al-Jawf
+people:
+- Ali Shihabi
+- Edmund Fitton-Brown
+- Faisal bin Fahran al Saud
+- Lindsay Newman
+organisations:
+- CNN
+- Foundation for Defense of Democracies
+- Hamas
+- Hezbollah
+- Houthi
+- IMF
+- Joint Forces Command of the Coalition
+- National Resistance Forces
+- Saudi Aramco
+- The Independent
 ---
 
 Yemen’s Houthi rebels attacked four cities in the south of Saudi Arabia on Tuesday in another expansion of the six-month-old war in the Middle East.

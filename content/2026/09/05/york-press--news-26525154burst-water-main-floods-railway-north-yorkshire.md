@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Middlesbrough
+- North Yorkshire
+- Saltburn-by-the-Sea
+people: []
+organisations:
+- National Rail
 ---
 
 *(Image: Supplied)*

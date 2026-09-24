@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa
+- China
+- Europe
+- Iran
+- Latin America
+- Southeast Asia
+- U.S.
+people:
+- Stephen Chan
+organisations:
+- CAAM
+- China Association of Automobile Manufacturers
+- EVs
+- S&P Global Ratings
 ---
 
 China’s passenger car exports in the first eight months of this year already surpassed last year's total, an industry association said Thursday, though domestic sales continued to decline.

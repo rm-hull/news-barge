@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - History
 - Personal Finance & Investing
+locations:
+- Armley
+- Calverley Lane
+- Harehills
+- Horsforth
+- Otley
+people:
+- Ward
+organisations:
+- BTG Eddisons
+- Leeds City Council
 ---
 
 *(Image: Google)*

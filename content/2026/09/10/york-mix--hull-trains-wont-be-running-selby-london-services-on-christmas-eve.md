@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Beverley
+- Doncaster
+- East Coast Main Line
+- Grand Central
+- Howden
+- London
+- National Rail
+- Selby
+people: []
+organisations:
+- CrossCountry
+- Hull Trains
+- LNER
+- London King’s Cross
+- Network Rail
 ---
 
 Hull Trains, which runs from Selby and Howden to London, says it will not be able to run a service on Christmas Eve this year.

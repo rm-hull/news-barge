@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Alanya
+- Bosnia and Herzegovina
+- Cappadocia
+- Turkey
+people: []
+organisations:
+- DHA
+- IHA
 ---
 
 ## A 58-year-old British tourist has been arrested in the resort town of Alanya on Turkey's central Mediterranean coast, accused of spitting on a Turkish flag and charged with insulting a state symbol.

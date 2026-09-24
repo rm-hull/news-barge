@@ -12,6 +12,40 @@ image: https://static.independent.co.uk/2026/09/01/08/2292363157..?trim=0,54,0,5
 categories:
 - News & Politics
 - UK
+locations:
+- Brasilia
+- Brazil
+- China
+- Europe
+- Kremlin
+- Kyiv
+- Kyrgyzstan
+- Moscow
+- New Delhi
+- RT India
+- Russia
+- South Africa
+- US
+- Ukraine
+people:
+- Celia Mercier
+- Dmitry Peskov
+- Donald Trump
+- Margarita Simonyan
+- Modi
+- Roman Babushkin
+- Subrahmanyam Jaishankar
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Brics
+- INS Vikramaditya
+- National Media Group
+- ORF
+- Prasar Bharati
+- RSF South Asia Desk
+- RT
+- Reporters Without Borders
 ---
 
 With Vladimir Putin arriving in India this week for a summit of emerging economies, the Russian state broadcaster RT has launched its first Hindi language channel, underscoring the growing relationship between New Delhi and Moscow, despite mounting Western scrutiny due to Russia’s ongoing invasion of Ukraine.

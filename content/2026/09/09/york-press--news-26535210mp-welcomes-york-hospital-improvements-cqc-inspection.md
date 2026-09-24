@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- '**York Hospital'
+- Scarborough Hospital
+- The York
+- York Hospital
+people:
+- Charters
+- Joe Hague
+- Louis
+- Sascha Wells-Munro
+organisations:
+- CQC
+- Care Quality Commission
+- Labour
+- Newsquest
+- York Hospital
+- York Outer
+- York Outer Luke Charters
+- York and Scarborough Teaching Hospitals NHS Foundation Trust
 ---
 
 *(Image: Supplied)*

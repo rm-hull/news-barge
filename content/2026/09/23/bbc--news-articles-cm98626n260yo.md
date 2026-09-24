@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Bellevue Hospital
+- California
+- Hollywood
+- Los Angeles
+- Manhattan
+- New York
+people:
+- Curtis Farber
+- Harvey Weinstein
+- Jessica Mann
+- Kaja Sokola
+- Miriam Haley
+organisations:
+- BBC
+- Harvey Weinstein
+- Miramax The
+- New York Times
+- New Yorker
+- Project Runway
 ---
 
 Watch: Harvey Weinstein's accuser says sentencing is 'fair'

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- UK
+people:
+- Amy Rylance
+- Chris Hoy
+- David Cameron
+- Farm
+- Jeremy Clarkson
+- Lord Cameron
+organisations:
+- Prostate Cancer UK
 ---
 
 High-profile figures including presenter Jeremy Clarkson and former prime minister Lord Cameron have earned praise for "shining a light" on prostate cancer, helping to persuade more men to evaluate their health risk.

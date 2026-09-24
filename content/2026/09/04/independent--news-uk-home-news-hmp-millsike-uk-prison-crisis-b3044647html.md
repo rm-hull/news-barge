@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2025/03/27/20/48/01JQC3W8R5GH99ZX2QB6EKP
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- HMP Millsike
+- Mitie
+- UK
+- Yorkshire
+people:
+- Alex Norris
+- Mark Fairhurst
+- Mitie
+- Rebecca Major
+- Shabana Mahmood
+organisations:
+- Board
+- HMP Millsike
+- IMB Millsike
+- Ministry of Justice
+- Mitie
+- MoJ
+- Prison Officers Association
 ---
 
 Britain’s newest prison was understaffed and unsafe when it opened last year and is still struggling with a “chronic shortfall” of prison officers, a damning inspection report has found.

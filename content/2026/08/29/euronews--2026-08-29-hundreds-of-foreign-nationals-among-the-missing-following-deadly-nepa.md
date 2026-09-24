@@ -12,6 +12,42 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Belarus
+- Belgium
+- China
+- Europe
+- Finland
+- France
+- Hungary
+- India
+- Ireland
+- Israel
+- Italy
+- Japan
+- Kazakhstan
+- Lithuania
+- Nepal
+- Netherlands
+- New Zealand
+- Philippines
+- Portugal
+- Serbia
+- South Africa
+- Sweden
+- Switzerland
+- Tibet
+- US
+- Vietnam
+people:
+- Ursula von der Leyen
+organisations:
+- Copernicus Earth
+- European Commission
+- European Union
+- Ministry of Foreign Affairs
+- Nepal Tourism Board
+- US State Department
 ---
 
 ## On Friday, Nepal's tourism board put the number of tourists still "out of communication" at 622 - 471 of which were foreign tourists.

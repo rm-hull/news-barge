@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Akkuyu
+- Ankara
+- Kyrgyzstan
+- Moscow
+- Russia
+- Russia-Turkey
+- Turkey
+- Ukraine
+people:
+- Recep Tayyip Erdogan
+- Vladimir Putin
+organisations:
+- Anadolu
+- Rosatom
+- Shanghai Cooperation Organization
+- United Nations
 ---
 
 Turkey is planning to expand its nuclear cooperation with Russia to build more power plants, President Recep Tayyip Erdogan said Tuesday.

@@ -13,6 +13,19 @@ categories:
 - UK
 - Food & Cooking
 - Health & Fitness
+locations:
+- Glasgow
+- Ireland
+- Scotland
+- UK
+- Westminster
+people:
+- Colin Wilkinson
+organisations:
+- SLTA
+- Scottish Licensed Trade Association
+- Treasury
+- Westminster Parliament
 ---
 
 Pubs and restaurants think they are losing business as a result of the boom in weight-loss drugs, according to a new report.

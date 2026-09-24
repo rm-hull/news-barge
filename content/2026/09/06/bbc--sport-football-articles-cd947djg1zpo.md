@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Liverpool
+- Man City
+people:
+- Alexander Isak
+- Anthony Elanga
+- Cesar Palacios
+- Cody Gakpo
+- David Moyes
+- Gyokeres
+- Harvey Barnes
+- Kai Havertz
+- Martin Odegaard
+- Morgan Rogers
+- Ronald Araujo
+- Troy Deeney
+- Tyrick Mitchell
+- Vitaly Janelt
+organisations:
+- Arsenal
+- BBC
+- Barcelona
+- Brentford
+- Crystal Palace
+- Everton
+- Ezri Konsa
+- Fulham
+- Liverpool
+- Newcastle
+- Spurs
 ---
 
 ![Troy Deeney banner](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4013/live/4bb795a0-5990-11ef-8f0f-0577398c3339.jpg)

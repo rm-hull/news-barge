@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/09/15/13/Eswatini_US_Personnel_Shot
 categories:
 - News & Politics
 - UK
+locations:
+- Eswatini
+- Mozambique
+- South Africa
+- U.S
+- U.S.
+people:
+- Donald Trump
+- Eswatini
+- Mswati III
+- Sandile Gwebu
+- Thabile Mdluli
+organisations:
+- AP
+- Eswatini
+- The Associated Press
+- U.S. State Department
 ---
 
 Two U.S. government personnel were mistakenly shot by military forces in the African nation of Eswatini last week, according to the country's government.

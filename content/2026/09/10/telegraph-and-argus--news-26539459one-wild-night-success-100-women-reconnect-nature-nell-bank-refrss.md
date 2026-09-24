@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Embsay
+- England
+- Heidi Marfitt
+- Ilkley Lido
+- Nepal
+people:
+- Dan Goodey
+- Heidi Marfitt
+- Nabin Maharjan
+- Nicola Akers
+- Nicola Holmes
+organisations:
+- Get Out Moor
+- Heidi Marfitt
+- Loud Minority Samba Band
+- Nell Bank
+- Rich Bunce Photography
+- Rooted & Wild
+- Synergy Body & Mind
+- The Nell Bank Charitable Trust
+- Unity
+- Wild Night
 ---
 
 *(Image: Heidi Marfitt)*

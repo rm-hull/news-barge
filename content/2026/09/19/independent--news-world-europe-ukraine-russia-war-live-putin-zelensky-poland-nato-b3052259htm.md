@@ -10,6 +10,65 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/07/27/07/2284634764..?trim=0,500,0,500&width=1200&height=800&crop=1200:800
+locations:
+- Austria
+- Crimean Peninsula
+- Czech Republic
+- Donetsk
+- Europe
+- Hungary
+- Kherson
+- Luhansk
+- Moscow
+- Odesa
+- Poland
+- Romania
+- Russia
+- Serbia
+- Slovakia
+- South Carolina
+- Sumy
+- UK
+- US
+- Ukraine
+- United Kingdom
+- United States
+- White House
+- Zaporizhzhia
+people:
+- '## Trump'
+- '## Zelensky'
+- Aleksandar Vucic
+- Danae Dholakia
+- Donald Trump
+- Donald Tusk
+- Joe Biden
+- Kyiv Vladimir Putin
+- Lindsey Graham
+- Nicusor Dan
+- Oleh Kiper
+- Vladimir Putin
+- Volodymyr Zelensky
+- Volodymyr Zelenskyy
+organisations:
+- '## Trump'
+- Congress
+- EU
+- European Union
+- Fake News CNN
+- Fake News Media Outlets
+- House of Representatives
+- MS NOW
+- MSNOW
+- Media Outlets
+- Politico
+- Senate
+- State Department
+- Telegram
+- Trump Administration
+- US State Department
+- Ukrainian TV
+- United States of America
 ---
 
 Donald Trump has signed sweeping legislation targeting Russian officials with new tariffs meant to pressure Moscow for its ongoing war against Ukraine.

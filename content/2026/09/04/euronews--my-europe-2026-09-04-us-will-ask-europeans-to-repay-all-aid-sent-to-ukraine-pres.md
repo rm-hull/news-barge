@@ -13,6 +13,34 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dnipro
+- Europe
+- Geneva
+- Iran
+- Kyiv Oblast
+- Russia
+- U.S.A.
+- US
+- Ukraine
+- WHO
+- Washington
+people:
+- Christian Lindmeier
+- Donald Trump
+- Joe Biden
+organisations:
+- Allies
+- DoD
+- Kiel Institute for the World Economy
+- NATO
+- Presidential Drawdown Authority
+- Truth Social
+- UN
+- US State Department
+- Ukraine Support Tracker
+- WHO
+- World Health Organisation
 ---
 
 ## Meanwhile, the World Health Organisation said on Friday that one of its main warehouses in Ukraine had been affected by an overnight air attack, the third such incident in three months.

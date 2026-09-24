@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arabsalim
+- Iran
+- Israel
+- Lebanon
+- Middle East
+- Nabatiyeh
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+people: []
+organisations:
+- Health Ministry
+- Hezbollah
+- Navy
+- The Associated Press
+- U.S. Central Command
 ---
 
 Iran said Sunday that it struck an unmanned U.S. military boat in the Strait of Hormuz, marking the latest exchange of fire between the countries after a month of relative calm.

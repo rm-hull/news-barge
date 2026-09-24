@@ -13,6 +13,30 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/19401330.jpg?type=og-image
+locations:
+- Haxby Road
+- Hull Road
+- Lawrence Street
+- St Lawrence Parish Church
+- York
+people:
+- Amanda Stirk
+- Gillian MacDonald
+- Joan
+- Ken Cooke
+- Nick Beilby
+- Peter
+- Stephen
+organisations:
+- City of York Council
+- Freedom of the City
+- Freedom of the City of York
+- Millthorpe School
+- Newsquest
+- Normandy Veterans Association
+- Rowntree's
+- The Guildhall
+- York Normandy Veterans
 ---
 
 A 101-year-old veteran of the Second World War from York who recently had the Freedom of the City conferred on him has spoken about his life for a new book.

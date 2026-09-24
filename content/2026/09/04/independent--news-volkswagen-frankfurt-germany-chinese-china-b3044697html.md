@@ -14,6 +14,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Emden
+- Europe
+- Germany
+- Hannover
+- Lower Saxony
+- Neckarsulm
+- U.S.
+- US
+- Zwickau
+people:
+- Oliver Blume
+organisations:
+- Audi
+- Deutsche Bank
+- Porsche
+- SEAT
+- Skoda
+- VW
+- Volkswagen
 ---
 
 Volkswagen shares rose 6% on Friday after its board of directors approved sweeping cost cuts aimed at confronting challenges including ferocious Chinese competition and US tariffs.

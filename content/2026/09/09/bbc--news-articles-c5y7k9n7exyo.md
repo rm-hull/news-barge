@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- British Virgin Island
+- Chelsea
+- Lister Hospital
+- London
+- Necker Island
+people:
+- Basir Kunduzi
+- Fiona Wilcox
+- George Adams
+- Joan Branson
+- Lady Joan
+- Richard Branson
+organisations:
+- BBC London
+- BBC Radio London
+- Westminster Coroner's Court
 ---
 
 ![Lady Joan and Sir Richard Branson pictured together in 2018.](https://ichef.bbci.co.uk/ace/standard/912/cpsprodpb/9be2/live/c5509620-ac75-11f1-80f0-9795d1a5edbc.jpg)

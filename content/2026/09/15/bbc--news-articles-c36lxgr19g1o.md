@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Belfast
+- Laganside Court
+- Laganside Courts
+people:
+- Justice Fowler
+organisations:
+- Court of Appeal
+- Royal Belfast Hospital for Sick Children
 ---
 
 ![Two teddy bears, small brown furry toys, with a bunch of flowers, against a railing. There is a handwritten note that reads "RIP little one xoxoxoxox with the angels".](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d86a/live/c3286b20-b0f8-11f1-bc1f-3f186ca4140c.jpg)

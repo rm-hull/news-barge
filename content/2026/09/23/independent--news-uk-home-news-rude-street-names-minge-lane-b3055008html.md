@@ -11,6 +11,71 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/13/01M36DXT56230PMVFJYM3GMJCA.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- Barnsley
+- Berkshire
+- Birmingham
+- Britain
+- Butt Hill Road
+- Butthole Lane
+- City of London
+- Cock Hill Lane
+- Cocks
+- Cornwall
+- Derbyshire
+- Dorset
+- East Sussex
+- Essex
+- Fanny Avenue
+- Fanny Hands Lane
+- Greater London
+- Hornyold Road
+- Jackass Lane
+- Kent
+- Leicestershire
+- Letsby Avenue
+- Lincolnshire
+- Merseyside
+- Minge Lane
+- New Forest
+- Nickey Nackey Lane
+- Norfolk
+- Norfolk's Sluts Hole Lane
+- North Piddle
+- Northamptonshire
+- Orkney
+- Oxford
+- Penistone
+- Piddlehinton
+- Rowley Regis
+- Ruislip
+- Sandy Balls
+- Severn
+- Shepshed
+- Shitterton
+- Slag Lane
+- South Yorkshire
+- Surrey
+- Titty Hill
+- Twatling Road
+- UK
+- Upton
+- West Midlands
+- West Sussex
+- West Yorkshire
+- Wetwang
+- Worcestershire
+people:
+- Bell End
+- Jeremy Owenson
+- Minge Lane
+- Peter Grainger
+- Upton
+organisations:
+- Asda Car Insurance
+- Asda Money
+- Malvern Hills District Council
+- Sandwell Council
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

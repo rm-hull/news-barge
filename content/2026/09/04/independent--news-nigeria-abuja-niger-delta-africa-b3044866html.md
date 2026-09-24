@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Africa
+- Niger Delta
+- Nigeria
+- Rivers State
+people:
+- Blessing Agabe
+organisations:
+- Rivers State Police Command
+- Youths and Environmental Advocacy Center
 ---
 
 An attempt to steal oil from a loading vessel in Nigeria’s oil-producing Rivers state left at least 37 people dead, most of them from inhaling toxic fumes, an advocacy group said Friday.

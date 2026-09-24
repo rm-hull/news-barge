@@ -14,6 +14,17 @@ categories:
 - Education & Learning
 - Sports
 - Health & Fitness
+locations: []
+people:
+- Victoria Lickley
+organisations:
+- Collaboration Culture Ofsted
+- Early Career Leaders
+- Red Kite
+- Red Kite Teacher Training
+- Red Kite Teacher Training**
+- SCITT
+- Victoria Lickley
 ---
 
 **Red Kite Teacher Training** has secured a**Strong Standard** rating across all aspects of its primary and secondary provision following its latest inspection under Ofsted’s new Initial Teacher Education framework.

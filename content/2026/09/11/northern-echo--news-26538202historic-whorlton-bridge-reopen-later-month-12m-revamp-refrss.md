@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Barnard Castle
+- Drax Power Station
+- North East
+- North East Debenhams
+- River Tees
+- Whorlton Bridge
+- YOUR
+people: []
+organisations:
+- Durham County Council
+- Government’s Levelling Up Fund
+- Public Notice Portal
+- Public Notice Portal Whorlton Bridge
+- Stuart Boulton)* Engineers
 ---
 
 ### What is the Public Notice Portal?

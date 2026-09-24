@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Canada
+- Colorado
+- Georgia
+- Grand Junction
+- Ireland
+- Kansas
+- US
+- United Kingdom
+- United States
+- Wichita
+- Worth county
+people:
+- Hutchinson
+- Mike Myers
+organisations:
+- BBC
+- Hutchinson High School
+- Hutchinson Police Department
 ---
 
 Schools and law enforcement authorities in the US are issuing warnings against a viral “Cat in the Hat” social media trend in which disturbing or AI-generated versions of the Dr Seuss character are used to threaten students, schools and communities.

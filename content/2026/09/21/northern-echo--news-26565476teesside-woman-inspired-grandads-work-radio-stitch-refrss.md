@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21477591.jpg?type=og-image&xType=0&yType=129
+locations:
+- Friarage Hospital
+- James Cook University Hospital
+- Middlesbrough
+- North Yorkshire
+- Northallerton
+- Teesside
+people:
+- Andy Tingle
+- Colin Overton
+- Elliot Kennedy
+- Hollie Cairnes
+- Holly Cairnes
+- Toddler
+organisations:
+- Middlesbrough
+- NHS University Hospitals Tees
+- Radio Stitch
+- University Hospital of Hartlepool
+- University Hospital of North Tees
 ---
 
 A Teesside woman has completed a 50km challenge inspired by her grandad, who has spent more than 40 years bringing music, companionship and comfort to hospital patients.

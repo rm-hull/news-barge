@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Birmingham
+- Khyber Pakhtunkhwa
+- Musa Ka Musalla
+- Pakistan
+people:
+- Alex
+- Alexander Harris
+- Khalid Iqbal
+organisations:
+- Adam Smith International
+- BBC News
+- Facebook
+- Margalla Trail Runners
 ---
 
 A British trail runner who disappeared has been found dead in northern Pakistan following a widespread search, his running group has confirmed.

@@ -15,6 +15,15 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21474609.jpg?type=og-image
+locations:
+- Churchills
+- Dalton Terrace
+- Mount
+- Yorkshire
+- ” York
+people: []
+organisations:
+- Churchills
 ---
 
 An “exceptional” period townhouse has hit the market in a “highly desirable” York location – for £1.85 million.

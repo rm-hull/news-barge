@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- Middle East.
+- UK
+people:
+- Andrew Bailey
+- Andrew Montlake
+- Harriet Guevara
+organisations:
+- BBC
+- Bank of England
+- Coreco
+- European Central Bank
+- MPC
+- Monetary Policy Committee
+- Moneyfacts
+- Nottingham Building Society
+- US Federal Reserve
 ---
 
 ![The exterior of the Bank of England with columns from a neighbouring building in the foreground.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg)

@@ -14,6 +14,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- England
+- Europe
+- UK
+- Virgin Atlantic
+people:
+- Jody Ford
+- Trainline
+organisations:
+- Government
+- London Tube
+- Red Driving School
+- Trainline
+- Transport for London Tube
 ---
 
 Trainline has said its ticket sales growth was held back this year by London Tube strikes, heatwaves and the Government’s freeze on rail fares.

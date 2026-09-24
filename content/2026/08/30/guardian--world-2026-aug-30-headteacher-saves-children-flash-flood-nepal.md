@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Betrawati
+- Dhading
+- Himalayas
+- Nepal
+- Nuwakot
+- Tribhuvan Trishuli
+people:
+- Rajendra Dawadi
+- Rajendra Dawadi.
+- Yunisha
+organisations:
+- Associated Press
+- BBC
+- Save the Children
+- US Geological Survey
 ---
 
 A headteacher in Nepal evacuated 900 children from a school moments before a deadly wall of water struck their town amid the devastating flash floods that have killed almost 800 people and left thousands missing.

@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- City of Claremore
+- Kansas
+- Mount Pleasant
+- Oklahoma
+- The City
+- Wisconsin
+people:
+- Darren Blanchard
+- Kate Griffin
+- Oklahoma Anthony Sykes
+- Tom
+organisations:
+- City
+- Claremore
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- Microsoft
+- ORA
+- Oklahoma AG
+- Oklahoma Office
 ---
 
 ![a body cam on a police officer](https://cdn.mos.cms.futurecdn.net/GV6Rr8BXN8kuvdqjTwVnuJ.png) 

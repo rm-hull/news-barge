@@ -11,6 +11,24 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8dc/live/731248
 categories:
 - UK
 - News & Politics
+locations:
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- U.S.
+- US
+- Ukraine
+- White House
+people:
+- Donald Trump
+- Jared Kushner
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yuri Ushakov
+organisations:
+- Kyiv
 ---
 
 ![Jared Kushner, U.S. President Donald Trump's son-in-law, and U.S. Special Envoy Steve Witkoff wait before a meeting with Russian President Vladimir Putin at the Kremlin in Moscow, Russia](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg)

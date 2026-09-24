@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50a2/live/d92ac8e0-b5f9-11f1-8e92-3520771561f6.jpg
+locations:
+- A66
+- Middlesbrough
+- Teesside Cleveland Police
+people:
+- Stuart Whincup
+organisations:
+- BBC
+- Cleveland Police
 ---
 
 # Watch: Police raid organised crime targets in Teesside

@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Society & Culture
 - Arts & Culture
+locations:
+- Sarbanes-Oxley
+- Saviynt
+people: []
+organisations:
+- API Economy
+- CI
+- CIOs
+- Field CIO
+- Future plc
+- IAM
+- ISPM
+- Identity Security Posture Management
+- Internet of Things
+- NHI
+- NHIs
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

@@ -15,6 +15,23 @@ categories:
 - Food & Cooking
 - Travel
 - Lifestyle & Fashion
+locations:
+- Elsie’s Riverside
+- Newburn Country Park Slipway
+- Newcastle
+- Peter’s Basin Marina Paddle Trail
+- River Tyne
+- Storybook’ County Durham
+people:
+- Elsie
+- Rich Ramsdale
+organisations:
+- Busty Bakery
+- Durham
+- Elsie’s Riverside Coffee Shop
+- Paddle UK
+- Restaurant Guru
+- Riverside Coffee Shop
 ---
 
 *(Image: Getty)*

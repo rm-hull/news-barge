@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Broadcom
+- Future plc
+- IT
+- Novatech
+- TechRadar Pro
+- TechRadarPro
+- VMware
 ---
 
 ![Man coding programmer, software developer working on digital tablet with binary, html computer code on virtual screen](https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc.jpg) 

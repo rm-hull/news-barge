@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hormuz
+- Iran
+- Middle East
+- Singapore
+- US
+- Wall Street
+people:
+- Donald Trump
+- Jonathan Kearns
+- Steve Miller
+- Tai Hui
+- Vivek Dhar
+organisations:
+- Asia-Pacific
+- CBA
+- Challenger
+- Fed
+- Federal Reserve
+- GSFM
+- JP Morgan Asset Management
+- RBA
+- Reserve Bank of Australia
 ---
 
 Fuel prices are on track to climb a further 20-30 cents per litre over the coming weeks, after the escalating Middle East conflict pushed the global oil price to its highest since mid-May.

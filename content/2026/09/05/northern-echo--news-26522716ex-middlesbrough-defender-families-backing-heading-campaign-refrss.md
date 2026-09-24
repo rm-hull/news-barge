@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Ferryhill
+- Middleton Hall Retirement Village
+- Middleton St. George
+- US
+people:
+- Bill Gates
+- Gary Pallister
+- Goff White
+- Gordon McQueen
+- Hayley McQueen
+- Hugh McIlmoyle
+- Judith Gates
+- Nick
+- Nobby Stiles
+- Tina White
+- Willie Maddren
+organisations:
+- Boro
+- CTE
+- Department for Education
+- Ex-Middlesbrough
+- Government
+- Head Safe Football
+- Manchester United
+- Middlesbrough
+- NFL
+- NORTHERN ECHO
+- Sky Sports
+- ex-Man United
 ---
 
 *(Image: NORTHERN ECHO)*

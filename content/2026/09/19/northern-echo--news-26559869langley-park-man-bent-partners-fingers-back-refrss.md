@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/19087301.jpg?type=og-image
+locations:
+- County Durham
+- Darlington Shipley
+- Hawthorne Close
+- Langley Park
+- Newton Aycliffe Magistrates’ Court
+people:
+- Jade Houston
+- Joshua Peacock
+- Liam Shipley
+- Man
+- Thomas Reay
+organisations: []
 ---
 
 *(Image: NEWSQUEST)*

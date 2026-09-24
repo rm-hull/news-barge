@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- KitchenAid Luminaire
+- Peppercorn Blue
+people: []
+organisations:
+- Google News
+- KitchenAid Luminaire
+- PC Format
+- PC Plus
+- Peppercorn Blue
+- SCA
+- Spearmint
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![KitchenAid Luminaire stand mixer on kitchen counter](https://cdn.mos.cms.futurecdn.net/MihRAhyvAVijEHTfPJQmdE.jpg) 

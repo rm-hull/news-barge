@@ -11,6 +11,30 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Bishopthorpe Road
+- Dylan Connell
+- East Parade
+- Heworth
+- Micklegate
+- Rowntree Park
+- The Groves
+- UK
+- York
+people:
+- Cllr Kate Ravilious
+- Cllr Ravilious
+- Helene Vergereau
+- Kevin Glenton
+organisations:
+- Arup
+- BID
+- Council Labour
+- Minster Badge
+- Minster Badges
+- York Business Improvement District
+- York Council
+- __York Council
 ---
 
 *(Image: Kevin Glenton)*

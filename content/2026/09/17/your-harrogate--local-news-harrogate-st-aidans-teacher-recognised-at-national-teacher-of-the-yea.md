@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Education & Learning
 image: https://mmo.aiircdn.com/409/6aac042bb5f7ad8512d.jpg
+locations: []
+people:
+- Miss Bramley
+- Siân Dover
+organisations:
+- St Aidan
+- St Aidan's
+- St Aidan’s Church of England High School
 ---
 
 ![](https://mmo.aiircdn.com/409/6aac042bb5f7ad8512d.jpg)

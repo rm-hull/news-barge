@@ -13,6 +13,24 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Dunblane
+- Dundee
+- India Gate
+- Scotland
+- Stirling
+people:
+- Abass
+- Asif Abbas
+- EJ Phillips
+- Rajinder Singh
+- Robert Phillips
+organisations:
+- ACAS
+- Citizens' Advice Bureau
+- Citizen’s Advice Bureau
+- India Gate Restaurant
+- Tribunal
 ---
 
 A curry restaurant waiter has been awarded more than £7,000 after he was fired for asking his boss to speak to him “nicely”.

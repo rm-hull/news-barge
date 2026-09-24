@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Rocio Concha
+organisations:
+- ASA
+- Advertising Standards Authority
+- Frasers Group
+- Frasers Group Trading Ltd
+- Government
+- Puma
+- RRP
+- Sports Direct
+- Which?
 ---
 
 An ad for Sports Direct has been banned after a watchdog found that the retail giant made misleading claims about a recommended retail price (RRP) and related savings.

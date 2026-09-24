@@ -13,6 +13,43 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Albion Road
+- Barkerend Road
+- Bingley Road
+- Bradford
+- Bridge Street
+- Chaiiwala
+- Great Horton Road
+- Hospital Road
+- Leeds Road
+- Lower Rushton Road
+- Marquis Of Granby
+- Mortimer Avenue
+- Thornton Road
+- Unit
+- Victoria Road
+people: []
+organisations:
+- Accent Business Centre
+- Bows & Beams
+- Cake Inn Bradford
+- Dragon Chef
+- Estate Sawmills
+- FSA
+- Food Standards Agency
+- Furness Fisheries
+- Giggle Beans
+- Golden Crumb
+- Klubhaus
+- Lahore Events Catering
+- Mortimer House Childrens Centre
+- Nell
+- Queens Hotel
+- Roti Express
+- The Parade
+- Thorncliffe Works
+- Whetley Mills
 ---
 
 *(Image: FSA)*

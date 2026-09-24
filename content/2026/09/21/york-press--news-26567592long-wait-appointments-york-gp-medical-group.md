@@ -12,6 +12,27 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21480773.jpg?type=og-image
+locations:
+- Acomb
+- Fishergate
+- Harrogate
+- Heworth
+- Hull
+- Priory
+- UK
+- York Fulford Surgery
+people:
+- Joan Henderson
+- Ms Henderson
+- Sarah Cooper
+organisations:
+- Fulford Surgery
+- GP Ratings
+- Google
+- NHS
+- Priory Medical
+- Priory Medical Group
+- Sarah Cooper
 ---
 
 ## Patients 'waiting more than a month' for routine appointments in York

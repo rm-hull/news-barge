@@ -14,6 +14,12 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- North East
+people: []
+organisations:
+- GNR
+- The Great Run Company
 ---
 
 *(Image: GNR)*

@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/a041b100930d1d8a83078327ac6cf061922d46f9/314_0_4226_3383/master/4226.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d9e2bce1284787b3fc710442256b843
+locations:
+- California
+- Riverside
+- US
+people:
+- Chad Bianco
+- Donald Trump
+- Gavin Newsom
+- Shirley Weber
+- Tom Steyer
+organisations:
+- Trump
 ---
 
 California governor Gavin Newsom has signed off on a package of bills aimed at bolstering election security, including measures to thwart federal political interference, his office announced on Sunday.

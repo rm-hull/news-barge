@@ -12,6 +12,43 @@ image: https://cdn.mos.cms.futurecdn.net/ty5BDP36zawvsuihZ9y2nC-2000-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- AI
+- China
+- DC
+- England
+- Stockport
+- UK
+- US
+- United States
+- Washington
+people:
+- AI
+- Bilal Chughtai
+- Claude
+- Dario Amodei
+- Dave
+- David Nield
+- Donald Trump
+- Elon Musk
+- Jacob Coxon
+- Sam Altman
+- Stephen Hawking
+organisations:
+- AGI
+- Amodei
+- Anthropic AI
+- BlackRock
+- Gemini
+- Gizmodo
+- Google DeepMind
+- Google Deepmind Research
+- Google News
+- IPO
+- OpenAI Inc.
+- PC Explorer
+- SpaceX
+- The Hardware Handbook
 ---
 
 ![Dario Amodei during a speech next to Sam Altman](https://cdn.mos.cms.futurecdn.net/ty5BDP36zawvsuihZ9y2nC.jpg) 

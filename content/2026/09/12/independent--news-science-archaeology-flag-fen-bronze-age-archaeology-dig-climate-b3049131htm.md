@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Bronze Age Britain
+- Cambridgeshire
+- Flag Fen
+- Flag Fen Archaeology Park
+- Holme Fen
+- Holme Fen Nature Reserve
+- Peterborough
+people:
+- Jacqui Mooney
+- Mark Knight
+- Stephen Morgan
+organisations:
+- Cambridge Archaeological Unit
+- Countryside Stewardship Heritage Service
+- Defra
+- Flag Fen Archaeology Park
+- Historic England
+- Historic England’s Heritage
 ---
 
 Archaeologists will begin a new dig at one of Britain’s most important Bronze Age sites next year before information preserved in peat is lost as the ground dries out amid climate change.

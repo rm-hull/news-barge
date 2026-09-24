@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Claude Opus
+- Claude Sonnet
+organisations:
+- AMD
+- Efosa
+- Gemini
+- Google News
+- Luna
+- TechRadar Pro
+- Via Puget Systems
 ---
 
 ![AMD Radeon Pro GPU](https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4.jpg) 

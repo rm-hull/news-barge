@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Balsall Common
+- Essen
+- Essex
+- Germany
+- Hackney Road
+- Hoxton
+- Ketley Point
+- London
+- Rayleigh
+- Solihull
+- Telford
+- UK
+- Waterloo Road
+- Weir Retail Park
+people:
+- Jonathan Neale
+organisations:
+- Aldi UK
+- National Real Estate
 ---
 
 *(Image: Getty Images)*

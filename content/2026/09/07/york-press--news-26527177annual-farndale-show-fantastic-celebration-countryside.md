@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Charlotte Smith.
+- Farndale Store Burger
+- Yorkshire
+people:
+- Dave Bentley
+- Fiona
+- Jarvis Browning
+organisations:
+- Barney and Stans
+- Circus Oz
+- Farndale Show
+- Ryedale Vets
 ---
 
 ## Annual Farndale show is fantastic celebration of countryside

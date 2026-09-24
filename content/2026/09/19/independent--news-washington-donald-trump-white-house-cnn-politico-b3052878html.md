@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/19/13/Trump_9_654.jpg?width=1200&height=800&crop=1200:800
+locations:
+- U.S.
+- White House
+people:
+- Donald Trump
+organisations:
+- CNN
+- MS NOW
+- Politico
+- The Associated Press
+- Trump
 ---
 
 MS NOW says its journalists were denied access to the White House grounds

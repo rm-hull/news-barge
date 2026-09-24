@@ -19,6 +19,63 @@ categories:
 - UK
 - Film & TV
 image: https://cdn.jwplayer.com/v2/media/fKSEx2SK/poster.jpg?width=720
+locations:
+- Argentina
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+- White House
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Michael Carrick
+- Mikel Arteta
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Burnham
+- CNN
+- Chelsea
+- Constitution
+- De Zerbi
+- ELITE
+- Labour
+- MI6
+- MS NOW
+- Politico
+- Premier League
+- See.Sense
+- Spice Kitchen
+- The Simpsons
+- Tottenham
+- Trump TV
 ---
 
 ## Showing now | News

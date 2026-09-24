@@ -10,6 +10,67 @@ description: Welcome back to TechCrunch Mobility, your hub for the future of tra
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633
 categories:
 - Technology & Software
+locations:
+- Austin
+- Belgium
+- Germany
+- Munich
+- Rhode Island
+- U.S.
+- UAE
+- Waymo
+- Zoox
+people:
+- Bryce Durbin
+- Claire McDonough
+- Dave Carroll
+- Kirsten Korosec
+- Lisa Drake
+- Palmer Luckey
+- Regent
+- Sean O’Kane
+- Waymo
+- Waymo**
+organisations:
+- '**Occupational Safety and Health Administration'
+- AE Ventures
+- ARK Invest
+- AV
+- AVs
+- Anduril Industries
+- Arrive Logistics**
+- Bloomberg
+- DoorDash
+- ENGIE North America
+- Erebor Bank
+- Ford
+- Gatik
+- Gatik**
+- General Motors**
+- Greenoaks
+- Humba Ventures
+- Intact Private Capital
+- Koch Disruptive Technologies
+- Lachy Groom
+- Lightspeed
+- Mare Liberum
+- Millennium Management
+- Mubadala Capital**
+- Mubadala Investment Company
+- Nvidia’s Drive AGX Thor
+- OSHA
+- PepsiCo
+- Qatar Investment Authority
+- Regent Craft**
+- Rivian
+- TechCrunch Mobility
+- Tesla
+- Uber
+- Uber**
+- Vista Global Holding**
+- Walmart
+- Waymo
+- YouGov
 ---
 
 *Welcome back to**TechCrunch Mobility**, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!*

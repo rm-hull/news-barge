@@ -12,6 +12,24 @@ image: https://i.guim.co.uk/img/media/3815729d87b8e697ebb9a9fff298f6ff3bd4cc13/3
 categories:
 - UK
 - News & Politics
+locations:
+- Grad
+- Kyiv
+- Moscow
+- Myla
+- Ukraine
+- Vyshneve
+people:
+- Liudmyla
+- Putin
+- Serhii
+- Shahed
+- Vira
+- Volodymyr Zelenskyy
+organisations:
+- Guardian
+- Kyiv
+- Volodymyr
 ---
 
 It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard, leads visitors from his family’s badly damaged home, its roof blown off, back windows shattered, through the garden towards the impact site 300 metres away.

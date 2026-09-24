@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Johannesburg
+- Sharpeville
+- South Africa
+- UK
+- Vaal Triangle
+people:
+- Abraham Mofokeng
+- Col J Pienaar
+- Cyril Ramaphosa
+- Daniel Leader
+- Mummy
+- Paulina Mathinye
+- Samson
+- Sharpeville
+- Vincent Thamae
+organisations:
+- ANC
+- African National Congress
+- Guardian
+- Lawyers For Human Rights
+- Leigh Day
+- Mafokeng
+- NGO
+- PAC
+- Pan Africanist Congress
+- TRC
+- Truth and Reconciliation Commission
 ---
 
 The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to protest against pass laws, which forced “Black, Indian and Coloured” South Africans to carry documents at all times specifying where they were allowed to be.

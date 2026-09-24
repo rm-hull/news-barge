@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Cancun
+- Iowa
+- Iran
+- Texas
+- U.S.
+- White House
+people:
+- Dolly Parton
+- Donald Trump
+- Heidi
+- JD Vance
+- John F Kennedy
+- Lyin’ Ted
+- Marco Rubio
+- Pete Hegseth
+- Rafael
+- Steve Bannon
+- Ted Cruz
+- Tucker Carlson
+- Usha Vance
+organisations:
+- Cabinet
+- NBC News
+- Republican Party
+- SexuallPosts
+- Tea Party
+- The Independent
+- Trump
+- Twitter
+- VP
+- Wall Street Journal
 ---
 
 Texas Republican Sen. Ted Cruz has reportedly begun sounding out potential staffers to work on his 2028 presidential campaign as the GOP starts squaring up to the prospect of a post-Donald Trump future.

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+- US
+people:
+- Ben Wood
+- Carolina Milanesi
+- Dipanjan Chatterjee
+- John Ternus
+- Siri AI
+- Tim Cook
+organisations:
+- Apple
+- Creative Strategies
+- Duo
+- FDM
+- Forrester
+- Huawei
+- Samsung
+- Siri AI
+- Ternus
+- Wood
 ---
 
 ![An image of the new foldable iPhone Duo in a woman's hands, being opened like a book.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png)

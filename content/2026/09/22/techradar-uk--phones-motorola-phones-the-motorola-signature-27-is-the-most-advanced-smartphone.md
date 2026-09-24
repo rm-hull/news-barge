@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/jmyLR9BkarLs4gRqFqPyn6-2000-80.jpg
+locations: []
+people:
+- Axel
+organisations:
+- Apple
+- Axel Metz
+- Esquire
+- Galaxy S26 Ultra
+- Google News
+- Motorola Razr Fold
+- Oppo Find X9 Ultra
+- Pantone Capulet Olive
+- Pantone Coal Smoke
+- Qualcomm
+- Samsung
+- Sony
+- TechRadar
+- University of Warwick
 ---
 
 ![The Motorola Signature 27 on a yellow background](https://cdn.mos.cms.futurecdn.net/jmyLR9BkarLs4gRqFqPyn6.jpg)

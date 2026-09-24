@@ -11,6 +11,21 @@ image: https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- San Francisco
+people:
+- Avi Greengart
+- Claude
+- Dipanjan Chatterjee
+- Ramon Llamas
+- Siri AI
+- Will Siri
+organisations:
+- Apple
+- Forrester
+- International Data Corporation
+- Siri AI
+- Techsponential
 ---
 
 When I first tested the developer beta of Apple's Siri AI by taking it as my tour guide around San Francisco, I was convinced the overhauled smartphone assistant would be an “everything tool” on the iPhone. The answers felt reliable enough and more helpful than previous versions of Siri. Also, the chatbot-style app for Siri felt very sleek, very Apple-y.

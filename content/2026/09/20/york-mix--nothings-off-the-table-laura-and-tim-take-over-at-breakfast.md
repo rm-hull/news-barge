@@ -11,6 +11,18 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/laura-and-tim.png
+locations:
+- North Yorkshire
+- York
+- YorkMix
+people:
+- Laura Castle
+- Richard
+- Tim Lichfield
+organisations:
+- DAB
+- Laura & Tim
+- YorkMix Radio
 ---
 
 Rise and shine with Laura and Tim in the morning!

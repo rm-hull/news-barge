@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- BP Edenhouse Road
+- BP Welham Road
+- Malton
+people: []
+organisations:
+- Clifton Service Station
+- Eden Service Station
+- GULF Malton
+- JET Malton (J B Motors
+- Malton Road Garage
+- SPAR Pickering
 ---
 
 *(Image: Archive)*

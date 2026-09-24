@@ -14,6 +14,73 @@ categories:
 - UK
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Canada
+- Cape Cod
+- Dagdan Empire
+- Hulu
+- Japan
+- Summer House
+people:
+- Adam Shankman
+- Alexander Ullom
+- Alicia Rancilio
+- Anthony Bourdain
+- Bel-Air
+- Carly Rae Jepsen
+- Ciara Miller
+- Cursum Perficio
+- Danny Pudi
+- David Robert Mitchell
+- Dominic Sessa
+- Drag Race
+- Ella Beatty
+- Frances Neagley
+- Gary Oldman
+- Ginger Minj
+- Ian Brennan
+- Jack Reacher
+- Jake Coyle
+- Jean Grey
+- Jenna Dewan
+- Jujubee
+- Julia Stiles
+- Lisa Gilroy
+- Lizzie Borden
+- Logan
+- Lou Kesten
+- Love Island
+- Luke Bryan
+- Maria Sherman
+- Maria Sten
+- Matt Johnson
+- Matthew Rhys
+- Maura Higgins
+- Mick Herron
+- Mystique
+- Olivia Cooke
+- RuPaul
+- Ryan Murphy
+- Sabretooth
+- Sharmila Tagore
+- Sid Baker
+- Slayer
+- Tatyana Ali
+- Tony
+- Wes Anderson
+organisations:
+- ABC
+- Apple TV
+- Criterion Channel
+- Disney
+- Glamazonian Express
+- Netflix
+- Paramount
+- Santhals
+- Sony
+- Team X
+- The Associated Press’
+- The Paper
 ---
 
 The return of “Dancing with the Stars” and a new album from Luke Bryan are some of the new television, films, music and games headed to a device near you.

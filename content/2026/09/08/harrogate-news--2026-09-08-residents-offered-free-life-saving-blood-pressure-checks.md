@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - Society & Culture
 - Health & Fitness
+locations:
+- North Yorkshire
+- Selby
+- Sherburn
+people:
+- Alison Marshall
+- Michael Harrison
+- Mollie
+organisations:
+- Blood Pressure UK
+- Cuppa Connect
+- NHS Pharmacy Finder
+- North Yorkshire Council
+- North Yorkshire Council**
+- Selby Health and Wellbeing Hub
+- Selby Healthy Hearts Community Champions
+- Sherburn and Villages Community Trust
+- Villages Community Trust
+- Whitby Community Hospital
 ---
 
 **Potentially life-saving health checks** are being offered for free to communities across**North Yorkshire** after tens of thousands of people in the county are estimated to be undiagnosed with high blood pressure.

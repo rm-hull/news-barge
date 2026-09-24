@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/16066411.jpg?type=og-image&xType=0&yType=0
+locations:
+- Bradford
+- Wakefield
+- Wentworth
+- Woolley Hall
+- YOUR
+people:
+- Jeffry Wyatville
+- Mab Hussain
+organisations:
+- CC BY-SA
+- Icestone Group
+- Leeds University
+- Public Notice Portal
+- Telegraph & Argus
+- Wakefield Council
+- Wendy North
+- Wentworth Woodhouse
+- Woolley Hall
 ---
 
 ### What is the Public Notice Portal?

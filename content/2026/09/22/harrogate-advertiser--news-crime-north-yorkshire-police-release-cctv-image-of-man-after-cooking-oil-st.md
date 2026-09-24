@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjU4NGRiM2Y1LTY2ZjgtNGI0OS1hOGY3LTJlNTM5OGQ0ZjdiYTo4YTdjNTYxOS03Zjk2LTQyM2UtYmQyZC0wNzAzOTZiYWYyMDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- King's Road
+- King’s Road
+- North Yorkshire
+people:
+- Simms
+organisations:
+- LILYPAD
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police release CCTV image of man after cooking oil stolen from restaurant in Harrogate

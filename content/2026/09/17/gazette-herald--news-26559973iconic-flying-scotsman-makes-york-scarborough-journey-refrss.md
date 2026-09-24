@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Bristol
+- Britain
+- Minehead
+- Network Rail
+- Newcastle
+- Scarborough
+- York
+people: []
+organisations:
+- Flying Scotsman
+- Fox & Edwards Events
+- ICONIC
+- National Railway Museum
+- Northern Steam Operations
+- Vintage Trains
 ---
 
 AN ICONIC train returned to the tracks yesterday (Wednesday).

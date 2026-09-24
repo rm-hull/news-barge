@@ -13,6 +13,16 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Everyman
+- Michael
+organisations:
+- Everyman
+- Hamnet
+- Project Hail Mary
+- Wuthering Heights
 ---
 
 Upmarket cinema chain Everyman has revealed a boost in sales as average ticket prices neared £13 amid the success of box office hits such as The Devil Wears Prada 2 and Project Hail Mary.

@@ -13,6 +13,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- PA
+people:
+- Aarin Chiekrie
+- Richard Hunter
+organisations:
+- Cath Kidston
+- FatFace
+- Hargreaves Lansdown
+- Interactive Investor
+- Made.com
+- Mike Egerton
+- Next
 ---
 
 Investors will be hoping Next can point towards continued sales growth after positive recent updates by the retail giant.

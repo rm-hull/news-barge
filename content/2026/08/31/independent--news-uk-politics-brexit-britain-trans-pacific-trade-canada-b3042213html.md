@@ -14,6 +14,49 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Britain
+- Brunei
+- Canada
+- Chile
+- Europe
+- India
+- Japan
+- Malaysia
+- Mexico
+- New Zealand
+- Peru
+- Singapore
+- UK
+- Vietnam
+people:
+- Andy Burnham
+- Anthony Seldon
+- David Maddox
+- Joshua Reynolds
+- Keir Starmer
+- Kemi Badenoch
+- Lord Anas Sarwar
+- Mark] Carney
+- Mike Galsworthy
+- Millie Cooke
+- Naomi Smith
+- Rishi Sunak
+organisations:
+- Best for Britain
+- Brexit
+- CANZUK
+- CPTPP
+- Comprehensive and Progressive Agreement for Trans-Pacific Partnership
+- EU
+- European Movement UK
+- Frontier Economics
+- Mercosur
+- OBR
+- Single Market or Customs Union
+- State of the Union
+- The Independent
 ---
 
 Andy Burnham has been warned that the UK gaining full entry into a major global trade pact will not come close to covering for losses from leaving the EU despite a £2bn boost to the economy.

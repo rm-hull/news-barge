@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Camden
+- Church House
+- Gaza
+- Golders Green
+- Holborn
+- Israel
+- London
+- Makerfield
+- St Pancras
+- West Bank
+- Westminster
+people:
+- Andrew Feinstein
+- Andy Burnham
+- John Curtice
+- Jonathan Brady
+- Keir Starmer
+- Makerfield
+- Moshe Shine
+- Prof Curtice
+- Shloime Rand
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Golders Green
+- Green Party
+- Greens
+- Hamas
+- Labour
+- London Assembly
+- The Independent
 ---
 
 The Holborn and St Pancras by-election could be “make or break” for Zack Polanski if he is selected as the Green Party’s candidate, polling guru professor Sir John Curtice has warned.

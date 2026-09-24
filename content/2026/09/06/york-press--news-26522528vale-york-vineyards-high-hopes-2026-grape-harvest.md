@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '**__Yorkshire'
+- Bilton-in-Ainsty
+- Dunesforde Vineyard
+- Goose Beck
+- Goose Beck Vineyard
+- North Yorkshire
+- Upper Dunsforth
+- Vale of York
+people:
+- Darren Greenwood
+- Ian
+- Lisa Chasney
+- Ortega
+- Paul Chasney
+- Peter Townsend
+- Siegerebbe
+- Tim Spakouskas
+organisations:
+- Dunesforde
+- Goose Beck Vineyard
+- Nun Monkton-based Yorkshire Heart Vineyard
+- Pic
+- Yorkshire Heart
+- Yorkshire Heart Vineyard
+- Yorkshire Heart Vineyard and Brewery
 ---
 
 ## Vineyards near York talk of bumper harvest as picking is about to start

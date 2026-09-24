@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Columbia
+- Gaza
+- Israel
+- New York
+- New York City
+- Palestine
+- US
+people:
+- Brittany Finley
+- Keren Yarhi-Milo
+- Mahmoud Khalil
+organisations:
+- Board of Trustees
+- Columbia University
+- Columbia’s School of International and Public Affairs
+- Hamas
+- House Committee on Education and the Workforce
+- Palestine Working Group
+- SIPA
+- Trump
 ---
 
 Mahmoud Khalil announced on Monday that he’s sued Columbia University, accusing the New York City school he attended of a years-long history of anti-Palestinian discrimination, indifference to harassment, and retaliation.

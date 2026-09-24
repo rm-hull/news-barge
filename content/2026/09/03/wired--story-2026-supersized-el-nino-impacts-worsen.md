@@ -12,6 +12,23 @@ image: https://media.wired.com/photos/6a98858ac297aad3e21d602c/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- El Niño
+- Nile
+- Pacific
+- Puerto Rico
+- Sudan
+- US
+people:
+- António Guterres
+- Daniel Swain
+organisations:
+- El Niño
+- UN
+- United Nations’
+- University of California Agriculture and Natural Resources
+- WMO
+- World Meteorological Organization
 ---
 
 The world’s leading weather organization is sounding the alarm about this year’s super El Niño, issuing its most certain forecast in the history of the organization.

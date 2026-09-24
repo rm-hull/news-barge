@@ -13,6 +13,12 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Heckmondwike
+- Upper George Street
+people: []
+organisations:
+- Kirklees CID
 ---
 
 *(Image: Google Maps)*

@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Alicante
+- Bristol
+- Brookside
+- Coventry
+- England
+- Leeds
+- London
+- Manchester
+- Nottingham
+- Sheffield Crown Court
+- Spain
+- UK
+people:
+- Philip Foster
+organisations:
+- Guardia Civil
+- NCA
+- NTS
+- National Crime Agency
+- National Trading Standards
 ---
 
 # Ex-Brookside actor arrested in Spain after jumping bail ahead of fraud trial

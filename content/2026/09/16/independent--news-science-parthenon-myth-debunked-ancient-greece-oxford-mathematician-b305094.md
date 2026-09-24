@@ -14,6 +14,15 @@ categories:
 - History
 - Science
 - Arts & Culture
+locations:
+- Acropolis
+people:
+- Vitruvius
+organisations:
+- Athena Parthenos
+- Athenian Acropolis
+- Parthenon
+- Royal Society Open Science
 ---
 
 The Greek Parthenon’s iconic curves are a product of architectural tradition and not a calculated design choice to correct optical illusions as widely thought, according to a new study.

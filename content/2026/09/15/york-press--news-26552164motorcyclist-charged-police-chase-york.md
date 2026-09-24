@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Lindsey Avenue
+- North Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alberta
+- Banff
+- Calgary
+- Canada
+- New York
+- New York City
+- North Bay
+- Ontario
+- Russia
+- Toronto
+- Ukraine
+- Washington
+people:
+- Donald Trump
+- Mark Carney
+- Volodymyr Zelenskyy
+organisations:
+- Articles Rapid Timeline
+- UN
+- United States’ Joint Ukraine Multinational Program
 ---
 
 Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zelenskyy.

@@ -13,6 +13,16 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Berkshire
+people:
+- Greg Abel
+- Howard
+- Warren Buffett
+organisations:
+- Alamy
+- Berkshire Hathaway
+- PA
 ---
 
 Warren Buffett is standing down as chairman of Berkshire Hathaway after leading the conglomerate for more than 50 years.

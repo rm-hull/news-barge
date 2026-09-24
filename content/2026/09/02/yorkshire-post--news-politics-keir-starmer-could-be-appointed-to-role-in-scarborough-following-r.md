@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Holborn
+- Manor of Northstead
+- North Yorkshire
+- Scarborough
+- St Pancras
+- UK
+people:
+- Bailiff
+- Bailiffs
+- Keir Starmer
+- Nigel Farage
+- Steward
+organisations:
+- Camden New Journal
+- Chiltern Hundreds
+- Crown Steward
+- Exchequer
+- House Of Commons
+- House of Commons
+- LDRS
+- Local Democracy Reporting Service
+- Manor of Northstead
+- Reform UK
+- The Steward
+- Treasury
 ---
 
 # Keir Starmer could be appointed to role in Scarborough following resignation

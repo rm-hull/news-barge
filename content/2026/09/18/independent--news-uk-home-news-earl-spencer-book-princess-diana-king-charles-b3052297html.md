@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Buckingham Palace
+- England
+- Jordan
+- Northamptonshire
+- PA
+- Prince of Wales
+- UK
+people:
+- Diana
+- Earl Charles Spencer
+- Earl Spencer
+- Elizabeth
+- Harry
+- King Charles
+- Lord Mountbatten
+- Meghan Markle
+- Prince Charles
+- Prince William
+- Viscount Althorp
+- Wales’
+organisations:
+- Daily Mail
+- Duke of Sussex
+- Maidwell Hall
+- Royals
+- Windsors
 ---
 
 Earl Spencer’s bombshell book about his sister, the late Princess Diana, has not been released yet, but the biography is already causing a stir.

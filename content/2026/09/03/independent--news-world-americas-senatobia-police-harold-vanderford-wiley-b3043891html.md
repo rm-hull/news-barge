@@ -12,6 +12,36 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Black
+- Memphis
+- Miss.
+- Mississippi
+- Senatobia
+- Walmart
+people:
+- '## Kohen Wiley'
+- Alderman Demetrius Garrett
+- Angelica Maze
+- Ben Crump
+- Chris McConnell
+- Harold Vanderford
+- Kohen Wiley
+- Marquell Bridges
+- Patrick Lumumba
+- Richard Chandler
+- Vellesiya Wiley
+- Young Kohen
+organisations:
+- Board
+- Mississippi Bureau of Investigation
+- Mississippi Bureau of Investigations
+- Mississippi Today
+- Senatobia Committee for Accountability and Transparency
+- Senatobia Police Department
+- The New York Times
+- Verite News
+- Walmart
 ---
 
 A police chief in a northern Mississippi city has been fired following a fresh wave of controversy, months after officers shot and killed a one-year-old Black child named Kohen Wiley during a shoplifting call.

@@ -15,6 +15,22 @@ categories:
 - Arts & Culture
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/7Uhu3LgjwjTTqUVomyGTCN-2160-80.png
+locations:
+- Weyland-Yutani
+people:
+- Archie Whitehead
+- Laura Mouther
+- Ridley Scott
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Atmospheric screenshots of the sci-fi environments in Alien: Isolation 2](https://cdn.mos.cms.futurecdn.net/7Uhu3LgjwjTTqUVomyGTCN.png)

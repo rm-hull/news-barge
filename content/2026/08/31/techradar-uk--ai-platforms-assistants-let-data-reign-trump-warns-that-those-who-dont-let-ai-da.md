@@ -12,6 +12,52 @@ image: https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Arizona
+- China
+- Colorado River
+- Nevada
+- New Mexico
+- Texas
+- U.S.A.
+- US
+- Utah
+- White House
+people:
+- Claude
+- Donald Trump
+- Lance Ulanoff
+organisations:
+- AI
+- AWS
+- Amazon Web Services
+- American Airlines
+- BBC
+- Black Hawk
+- CNBC
+- CNN
+- ChatGPT
+- Cleanview
+- DCA
+- EPA
+- Gallup
+- Gemini
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Nvidia
+- Today Show
+- Trump
+- Truth Social
+- WRI
+- World Resources Institute
+- World Wide Web
+- Ziff Davis, Inc
+- anti Data Center
 ---
 
 ![President Donald Trump speaks at a White House press briefing after a Black Hawk helicopter collided with American Airlines flight 5342 by DCA airport.](https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb.jpg) 

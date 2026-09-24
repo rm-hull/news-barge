@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Africa
+- Australia
+- Chester-Le-Street
+- County Durham
+- Lumley Castle
+- Lumley Lumley Castle
+- North East
+- UK
+- West Indies
+people:
+- Harry Potter
+- Kiersten
+- Lady Lumley
+- Legend
+- Lily Lumley
+- Lumley Castle
+- Narnia
+- Ralph Lumley
+- TikToker Kirsten
+organisations:
+- Library Bar
 ---
 
 A medieval castle with a hidden bathroom, four-poster beds, has a haunting past that is fascinating guests

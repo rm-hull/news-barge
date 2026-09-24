@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bradford
+- England
+- Hull
+- Leeds
+- Sheffield
+- Wales
+- York
+- Yorkshire
+people: []
+organisations:
+- Yorkshire
 ---
 
 # Yorkshire weather: Hour by hour weather forecast for York, Leeds, Sheffield, Bradford and Hull ahead of bank holiday weekend

@@ -15,6 +15,13 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- Church Lane
+- Spurriergate
+- St Michael's Church
+people: []
+organisations:
+- The Press
 ---
 
 - Police are guarding the entrance to an alleyway linking Spurriergate to Church Lane close to St Michael's Church

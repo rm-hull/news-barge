@@ -16,6 +16,55 @@ categories:
 - News & Politics
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Afghanistan
+- Algeria
+- Austria
+- Bangladesh
+- Belarus
+- Brazil
+- China
+- Colombia
+- Croatia
+- Cyprus
+- Czechia
+- Denmark
+- Egypt
+- Estonia
+- Europe
+- France
+- Germany
+- Greece
+- India
+- Ireland
+- Italy
+- Luxembourg
+- Morocco
+- Nepal
+- Netherlands
+- Norway
+- Pakistan
+- Poland
+- Portugal
+- Romania
+- Slovakia
+- Spain
+- Sweden
+- Switzerland
+- Syria
+- The Local
+- Tunisia
+- Turkey
+- UK
+- US
+- Ukraine
+- Venezuela
+- Vietnam
+people: []
+organisations:
+- EFTA
+- EU
+- Eurostat
 ---
 
 Overall some 355,350 more permits were issued by EU in 2025 compared to the previous year, according to new figures published by Eurostat, the EU statistical office.

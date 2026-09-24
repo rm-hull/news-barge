@@ -14,6 +14,21 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Self-Improvement
+locations:
+- England
+- Scotland
+- Wales
+people:
+- Jambu Palaniappan
+- Macauley Quinn
+- Petra Wilton
+organisations:
+- CMI
+- Chartered Management Institute
+- Checkatrade
+- IOSH
+- Institution of Occupational Safety and Health
+- Sainsbury’s
 ---
 
 A significant number of bosses believe young people are finishing education without the practical skills needed for work, a new report suggests.

@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- 7th Avenue
+- Brooklyn
+- Gravesend
+- Madison Square Garden
+- Midtown Manhattan
+- New York
+- New York City
+- Queens
+- Seventh Avenue
+- Venezuela
+- West 32nd Street
+- Williamsburg
+people:
+- Aki Jakupovic
+- Luigi
+- Mario
+- Ricardy Fabre
+organisations:
+- ABC7
+- Associated Press
+- Big Apple
+- DEP
+- Department of Environmental Protection
+- Gothamist
+- MSG
+- Mario Bros. and Minions
+- NYC
+- NYPD
+- New York City Department of Environmental Protection
+- New York Police Department
+- Ninja Turtles
+- Teenage Mutant Ninja Turtles
+- The Independent
+- The New York Post
+- TikTok
 ---
 
 People keep popping out of New York City sewers — and no one knows why.

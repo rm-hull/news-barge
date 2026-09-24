@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Music
 - Sports
+locations:
+- Bradford
+- Humber
+- UK
+- Yorkshire
+people: []
+organisations:
+- Crown Hotel
+- Google Street View
+- Malt Kiln Inn
+- Prosecco
+- Pub Idol
+- Take!
+- Tequila
+- VK
 ---
 
 *(Image: Google Street View)*

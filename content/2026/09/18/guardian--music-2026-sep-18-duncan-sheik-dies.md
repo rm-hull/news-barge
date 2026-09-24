@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Broadway
+- LA
+- London
+- Manhattan
+people:
+- Britney Spears
+- Brown
+- Duncan Sheik
+- Frank Wedekind
+- Ines
+- Jonathan Groff
+- Justin Timberlake
+- Lea Michele
+- Lisa Loeb
+- Nora Ariffin
+- Steven Sater
+- Suzanne Sheik
+organisations:
+- Backstreet Boys
+- Depeche Mode
+- Houston Chronicle
+- MTV
+- New York Times
+- People
 ---
 
 Duncan Sheik, the singer-songwriter behind the 90s alt-pop touchstone Barely Breathing and the composer of the Tony-winning musical Spring Awakening, died on Thursday at a Manhattan hospital. He was 56.

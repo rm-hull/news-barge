@@ -11,6 +11,21 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/travellers-site-hillam-near-selby-ldrs-2.webp
+locations:
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- South Milford
+people:
+- Cllr Grogan
+- Martin Grainger
+- Monk Fryston
+- Tim Grogan
+organisations:
+- HGVs
+- North Yorkshire Council
+- Reform
 ---
 
 Furious residents say they feel “betrayed and helpless” after a traveller site was built in the North Yorkshire countryside without planning permission over the weekend.

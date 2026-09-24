@@ -10,6 +10,25 @@ description: I got the insider scoop on the new Nurovi range
 image: https://cdn.mos.cms.futurecdn.net/iFneAQaE78U2UX8roMSHgN-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Dyson US
+- Scrub UV
+- UK
+people:
+- James Dyson
+- Lawson Mclean
+- Nathan Lawson Mclean
+- Ruth Hamilton
+organisations:
+- CostCo
+- Dyson
+- Google News
+- R3
+- Ruth
+- Scrub Ai
+- Scrub UV
+- TechRadar
 ---
 
 ![Dyson Nurovi robot vacuum](https://cdn.mos.cms.futurecdn.net/iFneAQaE78U2UX8roMSHgN.jpg) 

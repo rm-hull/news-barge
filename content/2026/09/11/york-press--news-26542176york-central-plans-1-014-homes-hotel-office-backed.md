@@ -13,6 +13,32 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Coal Drops Square
+- Holgate
+- National Railway Museum
+- UK
+- Wilton Rise
+- YOUR
+- York Central
+- York Station
+people:
+- Cllr Lucy Steels-Walshaw
+- Cllr Steels-Walshaw
+- Holgate
+- Tom Gilman
+organisations:
+- Arlington Real Estate
+- Central Hall
+- City of York Council
+- Government Hub
+- Holgate ward
+- Innovation Hub
+- Labour
+- McLaren Property
+- McLaren Regeneration
+- Public Notice Portal
+- York Central Ltd
 ---
 
 ## 'Transformational'- major York regeneration scheme reaches 'significant milestone'

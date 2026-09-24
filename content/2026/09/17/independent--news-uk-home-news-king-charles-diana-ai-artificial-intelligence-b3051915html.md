@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- Buckingham Palace
+- Cumnock
+- Dumfries House
+- East Ayrshire
+- UK
+- Vatican
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Evan Hubinger
+- King
+- Mustafa Suleyman
+- Prince Harry
+- Prince William
+organisations:
+- AIs
+- Anthropic
+- Google DeepMind
+- Microsoft AI
+- Nvidia
+- OpenAI
 ---
 
 King Charles warned of the “existential dangers” if artificial intelligence (AI) systems end up in the wrong hands as he addressed tech industry leaders at a summit focusing on the future of the sector.

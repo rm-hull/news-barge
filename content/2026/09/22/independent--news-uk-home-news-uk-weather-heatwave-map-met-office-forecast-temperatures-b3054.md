@@ -12,6 +12,22 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/22/13/16/met-office-map-240926-4pm.png?trim=105,0,52,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- London
+- Midlands
+- North Africa
+- North and West
+- Northern Ireland
+- Scotland
+- South East
+- South West
+- UK
+- Wales
+people:
+- Tony Wisson
+organisations:
+- Met Office
 ---
 
 Parts of the UK could see temperatures soar as high as 27C over the next week as a final hit of summer sun shines on the country.

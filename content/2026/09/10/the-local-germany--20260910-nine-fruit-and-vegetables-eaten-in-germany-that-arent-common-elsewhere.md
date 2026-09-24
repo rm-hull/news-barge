@@ -14,6 +14,16 @@ categories:
 - Germany
 - News & Politics
 - Travel
+locations:
+- Asia
+- Germany
+- North America
+- Southern Europe
+- St John
+- Thuringia
+people: []
+organisations:
+- Prost!
 ---
 
 Germany is often associated with sausages, bread and beer, but one of the biggest surprises for many newcomers is the country's strong attachment to seasonal produce.

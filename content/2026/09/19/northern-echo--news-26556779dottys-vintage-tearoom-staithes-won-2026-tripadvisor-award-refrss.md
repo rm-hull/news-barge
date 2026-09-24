@@ -15,6 +15,20 @@ categories:
 - Lifestyle & Fashion
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21464723.jpg?type=og-image&xType=0&yType=71
+locations:
+- High Street
+- North Yorkshire
+- Redcar
+- Staithes
+- Whitby
+- Yorkshire Dales
+people:
+- Dotty
+organisations:
+- Dotty
+- Dotty's
+- North York Moors
+- Tripadvisor
 ---
 
 *(Image: TRIPADVISOR)*

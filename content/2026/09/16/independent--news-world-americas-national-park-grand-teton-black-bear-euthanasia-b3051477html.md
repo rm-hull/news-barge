@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Delta Lake
+- Glacier National Park
+- Grand Teton National Park
+- Montana
+- Wyoming
+- Yellowstone National Park
+people:
+- Kerry Gunther
+organisations: []
 ---
 
 A Wyoming national park is calling out parkgoers whose “poor decisions” led to the euthanization of a black bear.

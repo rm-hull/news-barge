@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://mmo.aiircdn.com/409/6aaa3b86e2cbcfb6e76.jpg
+locations:
+- Cold Bath Road
+- Crown
+- Harrogate
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
+- William & Victoria
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa3b86e2cbcfb6e76.jpg)

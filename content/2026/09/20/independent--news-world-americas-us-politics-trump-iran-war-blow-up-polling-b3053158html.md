@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/20/15/download..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- Great Neck
+- Iran
+- Minab
+- New York
+- Oman
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Ukraine
+- White House
+- Yemen
+people:
+- Ayatollah Khamenei
+- Donald Trump
+- Trey Yingst
+organisations:
+- Fox News
+- Pentagon
+- Republican Party
+- THAAD
+- Trump
 ---
 
 Donald Trump again issued a grave threat to destroy the “entire country” of Iran during a phone call with a Fox News reporter on Sunday.

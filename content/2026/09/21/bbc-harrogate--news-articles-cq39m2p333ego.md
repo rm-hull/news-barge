@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Outdoors & Nature
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31d5/live/5b9d7050-b5a2-11f1-abe6-535e7b14de4c.jpg
+locations:
+- Marsh
+- North Yorkshire
+- UK
+- Westerdale
+people: []
+organisations:
+- Marsh
+- North Yorkshire Police
 ---
 
 ![A marsh harrier flies low above open countryside, with its wings spread and yellow legs hanging beneath its body. The bird is in focus against a blurred background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/31d5/live/5b9d7050-b5a2-11f1-abe6-535e7b14de4c.jpg)

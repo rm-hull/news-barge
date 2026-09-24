@@ -11,6 +11,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Iran
+- Mar-a-Lago
+- White House
+people:
+- Alix Pickles
+- Anthony Zurcher
+- Donald Trump
+- Donald Trump’
+- Elon Musk
+- George Dabby
+- Grace Reeve
+- JD Vance
+- Jonathan Swan
+- Maggie Haberman
+- Marco Rubio
+- Mark Zuckerberg
+- Mike Regaard
+- Purvee Pattni
+- Sam Bonham
+- Sumi Somaskanda
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC North America
+- BBC Sounds
+- Newscast
+- Oval Office
+- US Election Unspun
 ---
 
 ## Episode details

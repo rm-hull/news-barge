@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- A650
+- Carrgate
+- Highways England
+- Leeds
+- Lofthouse
+- M1
+- West Yorkshire
+people: []
+organisations: []
 ---
 
 *(Image: Highways England)*

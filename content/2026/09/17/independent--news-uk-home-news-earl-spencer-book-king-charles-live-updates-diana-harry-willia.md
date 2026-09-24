@@ -11,6 +11,51 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- AI
+- Althorp
+- Bletchley
+- Buckingham Palace
+- Cumnock
+- Dumfries House
+- East Ayrshire
+- Paris
+- Princess of Wales
+- Scotland
+- UK
+- Vatican
+people:
+- '## King'
+- AI Kanishka Narayan
+- Archie
+- Catherine And Diana
+- Charles
+- Charles’
+- Earl Spencer
+- Harmony
+- Harry
+- Huang
+- Ingrid Seward
+- Jensen
+- Lilibet
+- Meghan Markle
+- Ms Seward
+- Palace
+- Trump
+- William
+organisations:
+- Anthropic
+- Daily Mail
+- Google DeepMind
+- Ladies and Gentlemen
+- Majesty Magazine
+- Nvidia
+- OpenAI
+- PA
+- Press Association
+- The Telegraph
+- The Women
+- United Kingdom AI Safety Summit
 ---
 
 King Charles has made his first public appearance since his “unprecedented” response to claims made by Princess Diana’s brother Earl Spencer in his bombshell book.

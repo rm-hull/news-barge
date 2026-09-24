@@ -15,6 +15,31 @@ categories:
 - UK
 - Religion & Spirituality
 - Arts & Culture
+locations:
+- Beijing
+- Bukit Mertajam
+- Hong Kong
+- Indonesia
+- Kuala Lumpur
+- Malaysia
+- Penang
+- Singapore
+- Taiwan
+- Thailand
+people:
+- Da Shi Ye
+- Lee Kim Fong
+- Lim Han Cong
+- Ng Chi Wong
+- Syawalludin Zain
+- ___ Hernández
+organisations:
+- AP
+- Associated Press
+- Guardian God of Ghosts
+- Lilly Endowment Inc
+- The Conversation US
+- University of Malaya
 ---
 
 It’s that time of year when the living make room for the dead. Malaysia’s Hungry Ghost Festival is held during the seventh month of the Chinese lunar calendar, which this year began in mid-August.

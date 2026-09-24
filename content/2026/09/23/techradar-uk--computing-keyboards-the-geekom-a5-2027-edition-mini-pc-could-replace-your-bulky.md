@@ -11,6 +11,22 @@ description: We found the Geekom A5 2027 Edition mini PC built for the office in
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/2uirkaaonbsysf9jXYAVBH-1600-80.jpg
+locations:
+- Amazon
+- UK
+- US
+people:
+- Mark
+- Wayne Williams
+organisations:
+- A5
+- AMD
+- Amazon.co.uk
+- Amazon.com
+- Geekom
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Geekom A5 2027 Edition](https://cdn.mos.cms.futurecdn.net/2uirkaaonbsysf9jXYAVBH.jpg)

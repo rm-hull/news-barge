@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Arts & Culture
+locations:
+- Keighley
+- Leeds
+- London
+- Manningham
+- New College Bradford
+- Shipley
+people:
+- Eid
+- Shipley
+- Sidiq Ali
+- Stuart Nash
+organisations:
+- Bradford College
+- House of Commons
+- Yorkshire
 ---
 
 *(Image: Sidiq Ali)*

@@ -14,6 +14,32 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Britain
+- Canada
+- Moscow
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Mark Carney
+- Mark English
+- Naomi Smith
+- Nick Boles
+- Ursula von der Leyen
+organisations:
+- Best for Britain
+- Brexit
+- EU
+- European Commission
+- European Movement UK
+- European Union
+- Everton
+- Labour
+- Tory
+- Trump
 ---
 
 Andy Burnham is facing calls to ensure the UK does not fall behind its international allies after the European Union opened the door to Canada becoming its first 'associate member'.

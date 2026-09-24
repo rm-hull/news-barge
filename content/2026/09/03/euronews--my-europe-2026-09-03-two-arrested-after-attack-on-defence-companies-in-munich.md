@@ -12,6 +12,15 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Munich
+people:
+- Helsing
+organisations:
+- Bayerischer Rundfunk
+- Euronews
+- Helsing
+- Rohde & Schwarz
 ---
 
 ## In Munich, a man and a woman allegedly attempted to carry out an arson attack outside the premises of two defence companies. The pair were arrested.

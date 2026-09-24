@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Jensen Huang
+- Matt Garman
+organisations:
+- AWS
+- Amazon Web Services
+- Efosa
+- Google News
+- Nvidia AI
+- Nvidia Blackwell GPU
+- TechRadar Pro
 ---
 
 ![Nvidia Blackwell GPU](https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb.jpg) 

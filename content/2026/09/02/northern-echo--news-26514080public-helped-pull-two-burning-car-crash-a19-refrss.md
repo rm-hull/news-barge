@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A174
+- Coulby
+- Crathorne
+- Ford Focus
+- James Cook University Hospital
+- Middlesbrough
+- Stockton
+- Thornaby
+people: []
+organisations:
+- Cleveland Police
+- GOOGLE
+- The North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

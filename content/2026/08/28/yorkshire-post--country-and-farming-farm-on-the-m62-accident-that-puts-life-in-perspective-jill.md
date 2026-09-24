@@ -15,6 +15,14 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- M62
+- Scammonden
+people:
+- Jill Thorp
+- John
+- Paul
+organisations: []
 ---
 
 # Farm on the M62: Accident that puts life in perspective - Jill Thorp

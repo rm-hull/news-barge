@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Bradford
+- Dalton Mills
+- Downton Abbey
+- Grade II
+- Keighley
+people:
+- Benjy Bush
+- Dalton Mills
+organisations:
+- Peaky Blinders
+- West Yorkshire Fire and Rescue Service
 ---
 
 *(Image: T&A)*

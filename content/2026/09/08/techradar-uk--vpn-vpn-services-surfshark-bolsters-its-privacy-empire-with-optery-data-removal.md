@@ -11,6 +11,31 @@ image: https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- US
+people:
+- Lawrence Gentilello
+- Monica J. White
+- Optery
+- Surfshark
+- Vytautas Kaziukonis
+organisations:
+- Digital Trends
+- Google News
+- HeyPolo
+- Incogni
+- Ironwall
+- Monica
+- No Trace
+- Nord Security
+- NordVPN
+- Optery
+- SlashGear
+- Starter
+- Surfshark Group
+- Tom’s Hardware
+- WePC
 ---
 
 ![Woman using Surfshark VPN on laptop](https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9.jpg) 

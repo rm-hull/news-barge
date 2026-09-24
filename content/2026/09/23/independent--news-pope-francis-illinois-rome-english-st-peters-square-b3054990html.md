@@ -14,6 +14,31 @@ categories:
 - Arts & Culture
 - Music
 image: https://static.independent.co.uk/2026/09/23/13/Vatican_Pope__7289.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chicago
+- Illinois
+- Mass
+- Missouri
+- Peoria
+- St. Louis
+- St. Peter’s Square
+- U.S.
+- Vatican
+people:
+- Francis
+- Fulton Sheen
+- Luis Tagle
+- Pope Leo XIV
+- Robert Prevost
+- Rosary
+organisations:
+- AP
+- Catholic University of America
+- Lilly Endowment Inc
+- The Conversation US
+- The Pontifical Mission Societies
+- Time Magazine
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

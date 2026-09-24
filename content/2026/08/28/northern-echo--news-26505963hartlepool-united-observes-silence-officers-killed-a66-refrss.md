@@ -14,6 +14,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- CLEVELAND
+- Grangetown
+- Middlesbrough
+- PA
+- South Bank
+- Teesside
+- Victoria Park
+people:
+- Cole Robert Worthy
+- Dad
+- Forever
+- Jakub Matusiak
+- MARK FLETCHER
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Matty
+- Michael Robert Cahill
+- Owen Humphreys
+- PC Blades
+- PC Blades’
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police Federation
+- Eastleigh
+- FC Hartlepool
+- Hartlepool United
+- NORTHERN ECHO
+- PC Blades
+- Seaton Carew FC
+- U10 Lions
+- U7 Seahawks
 ---
 
 *(Image: NORTHERN ECHO)*

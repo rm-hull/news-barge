@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Bingley Arts Centre
+- Bingley High Street
+- Discoveryland
+- Disneyland Paris
+- Eldwick Memorial Hall
+- Magic Kingdom
+- Main Street
+people:
+- Alisha
+- Charlotte
+- Daniella Ockerby
+- Meg
+organisations:
+- Ballet
+- Daniella Ockerby
+- Disneyland Paris
+- Jazz
+- Ockerby Academy
 ---
 
 Ockerby Academy has marked three months on Bingley High Street after performing at Disneyland Paris.

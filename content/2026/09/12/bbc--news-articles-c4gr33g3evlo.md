@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Black Sea
+- Chornomorsk
+- Kyiv
+- New York
+- Odesa
+- Odesa.
+- Paris
+- Russia
+- Ukraine
+people:
+- Dayana Yastremska
+- Heorhiy Sudakov
+- Oleh Kiper
+- Roland Garros
+organisations:
+- Dayana Yastremska
+- Instagram
+- International Tennis Federation
+- Kalibr
+- Odesa
+- Women's Tennis Association
 ---
 
 ![A fire burns at top floors of a multi-storey residential building in Odesa, southern Ukraine, following a Russian aerial attack. Photo: 12 September 2026.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png)

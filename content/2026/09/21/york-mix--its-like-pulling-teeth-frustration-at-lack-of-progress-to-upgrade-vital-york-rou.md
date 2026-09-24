@@ -12,6 +12,21 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/03/york-riverside-path-near-scarborough-bridge.webp
+locations:
+- Holgate
+- Jubilee Terrace
+- Leeman Road
+- Ouse
+- Scarborough Bridge
+- St Barnabas Church
+- York
+people:
+- Cllr Kallum Taylor
+- Cllr Taylor
+- Holgate
+organisations:
+- City of York Council
+- Transport Projects
 ---
 
 A councillor has spoken of his frustrations at the lack of progress on a ‘vital’ route improvement in York.

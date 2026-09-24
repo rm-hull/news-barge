@@ -12,6 +12,37 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Dales
+- Miles
+- Our Yorkshire Farm
+- Ravenseat Farm
+people:
+- Amanda Owen
+- Annas
+- Clem
+- Clementine
+- Clemmie
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Nellie
+- Raven
+- Reuben Owen
+- Sid
+- Sidney
+- Violet
+organisations:
+- Anty John's
+- Channel 5
+- Clive and Kids
+- More4
+- Our Yorkshire Farm
+- Ravenseat
+- Reuben and Clive
+- York St John University
+- Yorkshire Farm
 ---
 
 For four years, millions watched Amanda and Clive Owen's children grow up on Our Yorkshire Farm.

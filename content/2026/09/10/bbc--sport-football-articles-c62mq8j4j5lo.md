@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Brazil
+people:
+- Richarlison
+- Tottenhamand
+organisations:
+- Everton
+- Premier League
+- Richarlison
+- Spurs
+- Toffees
+- Tottenham
+- Vasco de Gama
 ---
 
 ![Richarlison](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg)

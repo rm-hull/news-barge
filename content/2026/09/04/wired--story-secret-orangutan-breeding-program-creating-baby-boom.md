@@ -13,6 +13,52 @@ categories:
 - Technology & Software
 - Science
 - Creator Economy & Marketing
+locations:
+- Borneo
+- Cameron Park Zoo
+- Denver Zoo
+- Fort Wayne Zoo
+- Hogle Zoo
+- Indiana
+- Kansas
+- Los Angeles Zoo
+- Southeast Asia
+- Sumatra
+- Tapanuli
+- Texas
+- US
+- Utah
+- Waco
+- Wichita
+people:
+- Acara
+- Angie Selzer
+- Bintang
+- Edi
+- Felicity Oram
+- Hannah Comstock
+- Hesty
+- Joi Goodwin-Samson
+- Joseph Dewane
+- Matthew Lenyo
+- Melissa Peterson
+- Rambutan
+- Ruhana
+- Seltzer
+- Weila
+organisations:
+- AZA
+- Acara
+- Association of Zoos and Aquariums
+- Denver Zoo
+- Hogle Zoo
+- Indianapolis Zoo
+- Memphis Zoo
+- OrangJUGA
+- Orangutan Species Survival Plan
+- SSP
+- Sedgwick County Zoo
+- WIRED
 ---
 
 “It’s a girl!” Melissa Peterson exclaims.

@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations: []
+people:
+- Andy Ackers
+- Caleb Aekins
+- Joe Mellor
+- Ryan Sutton
+- Tom Pearson
+organisations:
+- BRADFORD Bulls
+- Cedar Court Hotel
 ---
 
 *(Image: Tom Pearson)*

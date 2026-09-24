@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- NY
+- New York
+- New York City
+- Sussex
+- US
+- United States
+people:
+- Billie Jean King
+- Donald Trump
+- Gloria Steinem
+- Hillary Clinton
+- Jill Biden
+- Joe Biden
+- Julianne Moore
+- Kamala Harris
+- Meghan Markle
+- Nancy Pelosi
+- Oprah Winfrey
+- Patti Smith
+- Roxane Gay
+organisations:
+- CBS Mornings TV
+- House
+- Instagram
+- Oprah Daily
 ---
 
 Leading figures from politics, entertainment and wider society led glowing tributes to Gloria Steinem on Thursday, with Hillary Clinton hailing the American feminist icon who died at 92 at home in New York City as “one of the architects of the entire structure of women’s equality”.

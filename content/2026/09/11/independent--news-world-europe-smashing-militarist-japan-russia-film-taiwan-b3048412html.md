@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Asia-Pacific
+- Beijing
+- Britain
+- China
+- East Asia
+- Japan
+- Kuril Islands
+- Manchuria
+- Moscow
+- Russia
+- Soviet Union
+- Taipei
+- Taiwan
+- Tokyo
+- U.S.
+- Ukraine
+- United States
+people:
+- Pavel Lapin
+- Sanae Takaichi
+- Sergey Chudodeev
+- Vladimir Putin
+organisations:
+- Allied
+- European Union
+- Facebook
+- Moscow-Taipei Coordination Commission on Economic and Cultural Cooperation
+- National Security Council
+- Reuters
+- Taiwan Affairs Office
+- YouTube
 ---
 
 A screening of a film in a small room in a downtown Taipei office building has raised fears in the country’s government.

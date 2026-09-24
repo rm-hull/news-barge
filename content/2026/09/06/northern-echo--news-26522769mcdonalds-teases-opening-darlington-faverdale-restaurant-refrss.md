@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Albert Road
+- Darlington
+- Faverdale
+- KFC
+- North Road
+people: []
+organisations:
+- Costa Coffee
+- Darlington Borough Council
+- Facebook
+- Faverdale Industrial Estate
+- McDonald’s
+- Metcalf Harland Property Investment
+- THE NORTHERN ECHO
+- Taco Bell
 ---
 
 *(Image: THE NORTHERN ECHO)*

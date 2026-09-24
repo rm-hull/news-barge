@@ -15,6 +15,38 @@ categories:
 - Arts & Culture
 - Film & TV
 image: https://static.independent.co.uk/2026/09/20/17/2_26_TIFF_-__La_Bola_Negra__Premiere_49893.jpg?width=1200&height=800&crop=1200:800
+locations:
+- London
+people:
+- Andrew Scott
+- Being Heumann
+- Brian Mulroney
+- Darlene Love
+- Elsinore
+- Hamlet
+- Hamnet
+- Hur Jin-ho
+- Ian Charleson
+- Javier Ambrossi
+- Javier Calvo
+- Judy Heumann
+- La Bola Negra
+- Lee Chang-dong
+- Los Javis
+- Matthew Rankin
+- Mike Flanagan
+- Paweł Pawlikowski
+- Peter Farrelly
+- Rocky
+- Siân Heder
+- Stephen King
+organisations:
+- Cannes
+- Fatherland
+- La Bola Negra
+- Ladies and Gentlemen
+- Netflix
+- TIFF
 ---
 
 “La Bola Negra,” the Spanish queer epic about the intertwined lives of three gay men, won the People's Choice Award at the Toronto International Film Festival on Sunday, confirming its status as a major Oscar contender.

@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- NSW
+- South Australia
+- Victoria
+people:
+- Cameron Kusher
+- Stephen Longley
+organisations:
+- Bathla Group
+- Teneo
 ---
 
 More than 200 workers at Sydney-headquartered Bathla Group have been stood down as administrators of the embattled property developer seek emergency funds to stave off a company-wide collapse.

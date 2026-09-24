@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- UK
+people:
+- Abdi Mohamed
+- Stephen Timms
+organisations:
+- DWP
+- Department for Work and Pensions
+- Ministry of Justice
+- MoJ
+- Pip
+- SSCS
+- Scope
+- Social Security and Child Support
+- Special Educational Needs and Disabilities
 ---
 
 Rising delays in the court system are forcing people to wait nearly nine months for a decision on their benefit appeals, new official data has revealed.

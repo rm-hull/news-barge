@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/09/17/22/53/Trump.jpeg?trim=0,0,0,0
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Dallas
+- Iran
+- Texas
+- U.S.
+people:
+- Donald Trump
+- James Talarico
+- Ken Paxton
+- Scott Bessent
+organisations:
+- Congress
+- Democratic Party
+- Emerson
+- Republican Party
+- Senate
+- The Economist
+- The Hill
+- Treasury
+- Trump
+- Truth Social
+- YouGov
 ---
 
 A majority of independent voters in Texas have said the Republican midterm convention in Dallas last week made no impact on their excitement to cast their ballot, despite President Donald Trump calling the event a “winner.”

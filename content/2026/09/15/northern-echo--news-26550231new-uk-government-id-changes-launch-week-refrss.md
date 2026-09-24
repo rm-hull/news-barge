@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- Wales
+people:
+- Allen Simpson
+- Andy Burnham
+- Keir Starmer
+- Stephanie Peacock
+organisations:
+- Government
+- UKHospitality
 ---
 
 Customers will be able to use a digital ID to purchase alcohol under new government rules from Tuesday (September 15).

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Downing Street
+- English Channel
+- France
+- UK-France
+people:
+- Andy Burnham
+- Emmanuel Macron
+- Shabana Mahmood
+organisations:
+- Bank Holiday Monday
+- Home Office
+- Home Secretary
+- Immigration and Asylum Bill
+- National Crime Agency
 ---
 
 Government action against small boat Channel crossings is starting to "bear fruit," according to the Home Secretary, following a drop in summer arrivals to their lowest point since 2019.

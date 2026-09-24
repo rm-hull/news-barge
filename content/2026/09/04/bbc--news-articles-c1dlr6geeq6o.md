@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Technology & Software
 - Sports
+locations:
+- Celtic Park
+- Edinburgh
+- Glasgow
+- Hampden Park
+- Manchester
+- Murrayfield Stadium
+- Parkhead
+people:
+- '![Noel'
+- Bryan Adams
+- Joe Cocker
+- Knebworth
+- Liam Gallagher
+- Noel
+- Robert Carlyle
+- Rod Stewart
+- Status Quo
+organisations:
+- AG Barr
+- Celtic Park
+- Instagram
+- Irn Bru
+- Meta
+- Oasis
+- Old Firm
+- Rangers
+- Sol FM
+- U2
+- Utah Saints
 ---
 
 ![Still from a video showing two boys sitting in a chip shop with a fridge full of drinks and a number of posters](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/2189/live/60fe27d0-a85d-11f1-aed2-8d6da8d75094.png)

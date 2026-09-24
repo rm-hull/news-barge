@@ -13,6 +13,39 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Africa
+- Alexandria
+- Beijing
+- Cairo
+- China-Egypt
+- Egypt
+- Hong Kong
+- Iconic Tower
+- Ismailia
+- Middle East
+- New Administrative Capital
+- One China
+- People's Republic of China
+- Suez Canal
+- US
+- Washington
+people:
+- Amr Nabil
+- Claudio Descalzi
+- El-Sisi
+- Xi Jinping
+organisations:
+- AI
+- BRICS
+- Central Agency for Public Mobilisation and Statistics
+- China State Construction Engineering Corporation
+- Eagles of Civilisation
+- Eni
+- New Development Bank
+- Pentagon
+- Shanghai Cooperation Organisation
+- XIN YU
 ---
 
 ## Chinese President Xi Jinping’s return to Cairo comes as Egypt and China push their relationship beyond infrastructure and trade into technology, defence and a broader strategic partnership with regional implications.

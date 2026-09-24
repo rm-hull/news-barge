@@ -11,6 +11,29 @@ image: https://cdn.mos.cms.futurecdn.net/DQErjdwGUi7u54zxQYqs7S-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Hollywood
+people:
+- Ellen
+- Emmy
+- John Ternus
+- Lance Ulanoff
+organisations:
+- Apple TV
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Samsung Galaxy
+- Today Show
+- Ultra
+- Ziff Davis, Inc
 ---
 
 ![John Ternus and iPhone Duo](https://cdn.mos.cms.futurecdn.net/DQErjdwGUi7u54zxQYqs7S.jpg) 

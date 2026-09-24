@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Horsforth Hall Park
+people: []
+organisations:
+- CCTV
 ---
 
 A four-bedroom detached house is being marketed in a sought-after location near Horsforth Hall Park for £750,000.

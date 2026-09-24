@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Beverly Hills
+- California
+- Richard J. Donovan Correctional Facility
+- San Diego
+people:
+- Erik Menendez
+- Jose
+- Lyle Menendez
+- Mary Louise "Kitty" Menendez
+organisations:
+- California Board of Parole Hearings
+- Green Space—
 ---
 
 Convicted shotgun killers Erik and Lyle Menendez are set to face a parole board more than a year earlier than expected, state officials confirmed.

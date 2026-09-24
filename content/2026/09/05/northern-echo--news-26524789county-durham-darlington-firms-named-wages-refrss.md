@@ -16,6 +16,100 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Cleveland
+- County Durham
+- Darlington
+- Gateshead
+- Houghton-Le-Spring
+- Middlesbrough
+- Newcastle upon Tyne
+- North East
+- North Yorkshire
+- Redcar
+- Stockton-on-Tees
+- TS18
+- Teesside
+- UK
+- Whitley Bay
+- Wynyard
+people:
+- Davidson
+- Jonathan Horsman
+- Jonathan Reynolds
+- Kate Dearden
+- Stanley
+organisations:
+- Acas
+- Autoplus
+- Beamish Park Golf Club Limited
+- Bel Viso Limited
+- Boomerang Healthcare Ltd
+- Boro Protect Security Ltd
+- C & R Global Leisure Ltd
+- Comforting Hands Recruitment Ltd
+- County Durham
+- D&D Contract Cleaning Ltd
+- DH4
+- DH9
+- DL3
+- Darras Hall Ltd
+- Designer Crates and Cages
+- Domino’s
+- Dongard Scaffolding Limited
+- F.M.S Freezer Management Services Limited
+- Fair Work Agency
+- Fork Catering Ltd
+- Future of Work
+- Gills Fish & Chips
+- Goa Exemplary Indian Cuisine
+- Goa Seaburn Ltd
+- Government
+- HG1
+- HMRC
+- Harrogate
+- Il Cancello Italian Ltd
+- Jarrow
+- Maxideals Group Ltd
+- Milligans Durham Limited
+- Milligans Kenton Limited
+- Milligans Middlesbrough Limited
+- Milligans Sunderland Limited
+- Milligans Whickham Limited
+- NE1
+- NE10
+- NE12
+- NE16
+- NE20
+- NE25
+- NE32
+- NE34
+- Newcastle Upon Tyne
+- Newcastle upon Tyne
+- PA MEDIA
+- PL Gill Ltd
+- PVR & Co
+- Parkdean Resorts UK Limited
+- Priory Day Nursery Limited
+- Roseberry Care Centres GB Limited
+- SR1
+- SR6
+- South Shields
+- Stanley
+- Stockton On Tees
+- TS1
+- TS11
+- TS15
+- TS18
+- TS20
+- TS22
+- TS4
+- TS6
+- TS8
+- Tantobie Stores
+- The Turks Head
+- Victa DP Ltd
+- Vita Limited
 ---
 
 *(Image: PA MEDIA)*

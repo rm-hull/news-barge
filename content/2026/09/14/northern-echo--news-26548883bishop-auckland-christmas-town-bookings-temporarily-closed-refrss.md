@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bishop Auckland
+- Christmas Town
+- County Durham
+- Newcastle
+- North East
+- Palace
+- Teesside
+- York
+people:
+- Thomas Wales
+organisations:
+- Baccanalia for Culture CIC
+- Bridge Creative Enterprise CIC
+- Christmas Town
+- STUART BOULTON
 ---
 
 *(Image: STUART BOULTON)*

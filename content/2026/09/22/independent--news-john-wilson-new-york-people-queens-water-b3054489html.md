@@ -13,6 +13,34 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/22/18/Film_-_The_History_of_Concrete_92356.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Boston
+- Cancun
+- City Hall
+- Hollywood
+- Long Island
+- Manhattan
+- Mexico
+- New York
+- Queens
+- Ridgewood
+- Tennessee
+people:
+- Chris
+- Daniel Arnold
+- Elmer
+- Frederick Wiseman
+- Jack Macco
+- John Wilson
+- Josh Safdie
+- Weegee
+- William Eggleston
+organisations:
+- IFC Center
+- Low Cinema
+- Magnolia Pictures
+- The History of Concrete
+- Ticketmaster
 ---
 
 Years ago, John Wilson began just walking out into New York with his camera.

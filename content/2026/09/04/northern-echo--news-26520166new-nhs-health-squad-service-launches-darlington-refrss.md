@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Borough
+- County Durham
+- Darlington
+people:
+- Caroline Todd
+- Chris Booth
+- Gill Hunt
+- Matthew Roche
+- Robert
+- Robert”
+organisations:
+- County Durham
+- Darlington Borough Council
+- Darlington NHS Foundation Trust
+- Health Squad
+- Kings Church Food Bank
 ---
 
 *(Image: Chris Booth)*

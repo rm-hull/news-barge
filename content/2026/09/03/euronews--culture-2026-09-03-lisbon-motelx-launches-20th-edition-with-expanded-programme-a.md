@@ -15,6 +15,49 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Cinema São Jorge
+- Czechoslovakia
+- Denmark
+- Europe
+- German Democratic Republic
+- Germany
+- Italy
+- Lisbon
+- Norway
+- Portugal
+- Spain
+- USSR
+- United Kingdom
+- Yugoslavia
+people:
+- '** Sergio Martino**'
+- Andrea Corsini
+- Carlos Conceição
+- Danny DeVito
+- Greg Yagolnitzer
+- João Monteiro
+- Julie Corman
+- Jörg Buttgereit
+- Kasper Kalle
+- Klaus Kinski
+- Léa Mysius
+- Marion Le Correller
+- María Martínez Bayona
+- Mike Myers
+- Monica Bellucci
+- Nikias Chryssos
+- Pedro Souto
+- Raviv Ullman
+- Roger Corman**
+- Solveig Nordlund**
+- Todd Rohal
+- Werner Herzog
+- Yusuke Iwasaki
+organisations:
+- Ferine***
+- JG Ballard
+- MOTELX
 ---
 
 ## Marking its 20th edition, the festival stretches over more days and more venues, packed with new discoveries and cult favourites at Portugal's scariest film event.

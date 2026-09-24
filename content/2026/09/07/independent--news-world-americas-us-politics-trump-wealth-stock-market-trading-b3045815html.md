@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Florida
+- Iran
+- Michigan
+- New America
+- New Mexico
+- Ohio
+- U.S.
+- U.S.A.
+- White House
+people:
+- Debbie Dingbat
+- Debbie Dingell
+- Donald Trump
+- George Washington
+- Hulk Hogan
+- James Uthmeier
+- Jim Jordan
+- Mark Carney
+- Mark Levin
+- Robert De Niro
+- Victor Davis Hanson
+organisations:
+- Billions of Dollars on Stocks
+- Fox News
+- Gallup
+- Intel
+- OGE
+- Office of Government Ethics
+- Oval Office
+- Radical Left Dumocrats
+- Resolute Desk
+- Space Force
+- Trump
 ---
 
 President Donald Trump has posted a meme of himself playing the stock market from the Oval Office on Truth Social with the declaration: “I do this for our Country, not myself.”

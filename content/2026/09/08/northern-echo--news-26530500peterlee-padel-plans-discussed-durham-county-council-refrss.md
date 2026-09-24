@@ -13,6 +13,27 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Central and East
+- County Durham
+- Peterlee
+- Stephenson Road
+- YOUR
+people:
+- Adrian Schulman
+- Andrew Eales
+- David Freeman
+- Jack McGlenen
+- Jonathan Elmer
+- Mark Wilkes
+- Sandra Grindle
+- Scott Woodhouse
+- Sean Healy
+organisations:
+- Area Planning Committee
+- Durham County Council
+- North East Industrial Estate
+- Public Notice Portal
 ---
 
 *(Image: GOOGLE)*

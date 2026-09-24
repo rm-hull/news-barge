@@ -15,6 +15,42 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Broad City
+- Gaza
+- Hollywood
+- Israel
+- Palestine
+- US
+people:
+- David Ellison
+- Donald Trump
+- Hannah Einbinder
+- Ilana Glazer
+- Jared Kushner
+- Joel Coen
+- Larry Ellison
+- Mark Ruffalo
+- Miranda July
+- Naomi Klein
+- Safra Catz
+- Todd Haynes
+- Wallace Shawn
+organisations:
+- ByteDance
+- CBS News
+- David’s Warner Bros
+- Hamas
+- IDF
+- Israel Defense Forces
+- Oracle
+- Paramount Skydance
+- TikTok
+- Tony Blair Institute for Global Change
+- Trump
+- WBD
+- Warner Bros Discovery
+- Warner Brothers Discovery
 ---
 
 A collective of more than 170 prominent Jewish artists and academics – including Todd Haynes, Joel Coen, Miranda July, Hannah Einbinder, Wallace Shawn and Naomi Klein – have signed an open letter supporting Mark Ruffalo.

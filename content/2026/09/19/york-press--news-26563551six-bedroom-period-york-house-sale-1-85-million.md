@@ -14,6 +14,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21474609.jpg?type=og-image
+locations:
+- Churchills
+- Dalton Terrace
+- Mount
+- Yorkshire
+- desirable’ York
+- ” York
+people: []
+organisations:
+- Churchills
 ---
 
 ## ‘Exceptional’ home hits the market in ‘desirable’ York location – for £1.85 million

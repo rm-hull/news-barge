@@ -11,6 +11,29 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93e3/live/5d443f
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- England
+- Scotland
+- UK
+- Wales
+people:
+- Farzana Ahmed
+- Kinza Butt
+- Lucy Powell
+- Mum Kinza
+- Pepe Di'Iasio
+organisations:
+- ASCL
+- Association of School and College Leaders
+- Blakenhale Juniors
+- Coco Pops
+- Department for Education
+- Food Standards Agency
+- Kinza
+- Northern Ireland
+- Oasis Blakenhale
+- Universal Credit
 ---
 
 ![Three primary school pupils in uniform sit at bright yellow tables in a school canteen, eating lunch from blue trays with chips, fruit and dessert while talking together.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/93e3/live/5d443ff0-adf6-11f1-ad53-0d91a06f3150.jpg)

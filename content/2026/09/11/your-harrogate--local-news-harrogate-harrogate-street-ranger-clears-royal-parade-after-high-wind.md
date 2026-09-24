@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Harrogate
+- Royal Parade
+people:
+- Bethany Allen
+- Darren
+- Jevons
+- Sam Ashby
+organisations:
+- Harrogate BID
+- Operations and Projects Executive
+- Our Street Rangers
+- Street Ranger
+- Street Rangers
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa39f511ae0b7c580e.jpg) 

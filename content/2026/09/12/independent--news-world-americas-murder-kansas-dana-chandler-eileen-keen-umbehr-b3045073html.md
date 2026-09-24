@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Alma
+- Colorado
+- D.C.
+- Denver
+- Duncan
+- Kansas
+- Lawrence
+- New York City
+- Oklahoma
+- Shawnee County
+- Topeka
+- Washington
+- Waubansee County
+- Westmoreland
+- Wichita
+- then-Shawnee County
+people:
+- A Killer Tale’
+- Bob Hecht
+- Carrie Kimes
+- Chad Taylor
+- Charles Kitt
+- Dana Chandler
+- Daniel Rosen
+- Eileen Umbehr
+- Eileen Umber
+- Hailey Seel
+- Hailey Sisco
+- Harkness'
+- Harold Dow
+- Jacqie Spradling
+- Jeff Sutton
+- Joe Sexton
+- Josh
+- Karen Harkness
+- Keen Umbehr
+- Kristen Patty
+- Mike Sisco
+- Richard Volle
+- Robert Van Kirk
+- Van Kirk
+- Vernon Geberth
+organisations:
+- CBS
+- Dana Chandler
+- Harkness
+- KSWO
+- Kansas House of Representatives
+- Kansas Supreme Court
+- ProPublica
+- The Independent
+- The New York Times
+- Topeka Capital-Journal
+- U.S. Supreme Court
 ---
 
 Two married true-crime buffs from a tiny city in Kansas are so convinced that a woman they never knew is wrongly imprisoned for the 2002 slayings of her ex-husband and his girlfriend that they’ve devoted their lives to proving her innocence.

@@ -11,6 +11,51 @@ image: https://i.guim.co.uk/img/media/0c4ce5a2e6b939a09e2a2eabcff64b8125d9e424/6
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Australia
+- Covid
+- US
+people:
+- Amelia Earhart
+- Anthony Albanese
+- Barnaby Joyce
+- Hilary Wardhaugh
+- Howard
+- Jim Chalmers
+- Katy Gallagher
+- Krishani Dhanji
+- Lukas Coch
+- Mark Scott
+- Martin Farrer
+- Matt Canavan
+- Mick Tsikas
+- Mike Bowers
+- Pauline Hanson
+- Reid
+- Sally Sitou
+- Tanya Plibersek
+- Tom McIlroy Tanya Plibersek
+- Tom McIlroybrought
+- Tony Burke
+organisations:
+- AAP
+- ABC News
+- Albanese
+- Coalition
+- Getty Images Canavan
+- Greens
+- Ima Caldwell Australia
+- Labor
+- Liberal
+- National Press Club
+- One Nation
+- One Nation Nationals
+- RN Breakfast
+- Senate
+- The Guardian
+- University of Sydney
+- World Economic Forum
 ---
 
 People with child support debts to be banned from leaving Australia

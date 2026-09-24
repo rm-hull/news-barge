@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+people:
+- Alison Reeve
+- Josh Stabler
+organisations:
+- AEMO
+- Australian Energy Market Operator
+- EnergyEdge
+- Grattan Institute
 ---
 
 Australia’s dependence on gas for power during the evening, when the grid is under the most pressure, has fallen by almost nearly 70% over the past year as batteries surged in, replacing the fossil fuel.

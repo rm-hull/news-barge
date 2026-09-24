@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- England
+- Wales
+people:
+- Allen Simpson
+- Andy Burnham
+- Jasleen Chaggar
+- Keir Starmer
+- Stephanie Peacock
+organisations:
+- Big Brother Watch
+- Government
+- Luciditi
+- Post Office
+- UKHospitality
+- Yoti
 ---
 
 ![A pair of beer-filled glasses being knocked together in a bar setting.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg)

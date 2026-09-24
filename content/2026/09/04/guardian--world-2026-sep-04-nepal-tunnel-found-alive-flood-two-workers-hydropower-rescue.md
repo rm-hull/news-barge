@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bhotekoshi
+- Himalayas
+- Kathmandu
+- Nepal
+- Rasuwagadhi
+- Tibet
+- Trishuli 3A
+- Trishuli River
+- Upper Trishuli 3A
+people:
+- Amrit Thapa
+- Bidya Dangol
+- Brig Gen Raja Ram Basnet
+- Kabir Maharjan
+- Sanjay Shah
+organisations:
+- Independent Power Producers’ Association of Nepal
 ---
 
 Two people have been pulled out alive from a hydropower tunnel in Nepal nine days after deadly flash floods buried the projects in deep mud and left them trapped.

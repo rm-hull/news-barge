@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- County Durham
+- Darlington
+- Hillsborough
+- NHS England
+- North Yorkshire
+- Tees, Esk
+- Teesside
+- York Central
+people:
+- Alison Smith
+- Andy Burnham
+- Ms Maskell
+- Rachael Maskell
+- Stefan Rousseau
+- Wes Streeting
+organisations:
+- Labour
+- PA Wire
+- TEWV NHS
+- TEWV NHS Foundation Trust
+- The Press
+- UK Parliament
+- Wear Valley NHS Foundation Trust
 ---
 
 *(Image: Stefan Rousseau/PA Wire)*

@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/eyVveQSz5LHDtiPb8TBFmB-2000-80.jpg
 categories:
 - Technology & Software
 - Automotive
+locations:
+- England
+- Lake America
+- Lake Ontario
+- Stockport
+- White House
+people:
+- Dave
+- David Nield
+organisations:
+- Android Auto
+- Gizmodo
+- Google Maps
+- Google News
+- PC Explorer
+- Reddit
+- The Hardware Handbook
 ---
 
 ![Android Auto on a car infotainment system display](https://cdn.mos.cms.futurecdn.net/eyVveQSz5LHDtiPb8TBFmB.jpg) 

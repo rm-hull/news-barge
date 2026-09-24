@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - True Crime
 - Technology & Software
+locations:
+- Batley
+- Warwick Road
+people: []
+organisations:
+- '## Police'
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

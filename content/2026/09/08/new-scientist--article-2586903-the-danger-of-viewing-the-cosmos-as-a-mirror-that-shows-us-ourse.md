@@ -15,6 +15,15 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- Cambridge
+- Victoria
+people:
+- Alfred Tennyson
+- Carl Sagan
+- Richard Holmes
+organisations:
+- Trinity College
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676715.jpg?w=840)

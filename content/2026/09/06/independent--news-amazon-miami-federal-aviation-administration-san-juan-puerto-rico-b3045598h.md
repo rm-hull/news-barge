@@ -13,6 +13,14 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Miami
+people: []
+organisations:
+- Amazon Drone Delivery Expansion
+- Miami International Airport
+- The Associated Press
 ---
 
 Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport

@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Bab al-Mandeb Strait
+- Bahrain
+- Iran
+- Strait of Hormuz
+- UAE
+- US
+- United Arab Emirates
+people: []
+organisations:
+- AWS
+- Amazon Web Services
+- Ars Technica
+- Islamic Revolutionary Guard Corps
+- Reuters
 ---
 
 Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates.

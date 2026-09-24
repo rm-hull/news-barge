@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Baltimore
+- Cape Cod
+- Connecticut
+- Cumberland
+- East Providence
+- Interstate 195
+- Key Bridge
+- Maryland
+- Massachusetts
+- New England
+- Rhode Island
+- Seekonk River
+- U.S.
+- Washington Bridge
+- Woonsocket
+people:
+- Adam Myers
+- Chris Dodd
+- Dan McKee
+- Foulkes'
+- Francis Scott
+- Helena Foulkes
+- Thomas
+organisations:
+- AFL-CIO
+- CVS Health
+- CVS’ Pharmacy
+- Democratic Party
+- Hudson’s Bay Company
+- Providence College
 ---
 
 Four years ago, Rhode Island Gov. Dan McKee was celebrating his narrow victory in the Democratic primary surrounded by supporters, when someone handed him phone — it was his opponent simply calling to concede.

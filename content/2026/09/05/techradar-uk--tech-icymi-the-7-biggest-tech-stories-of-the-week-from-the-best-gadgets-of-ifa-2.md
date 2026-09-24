@@ -11,6 +11,45 @@ description: We're looking back over the last week to pick out the most importan
 image: https://cdn.mos.cms.futurecdn.net/rx9K3vzvWVv4nkeE59EdeX-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- Canada
+- England
+- Google Maps
+- Lake America
+- Lake Ontario
+- New York
+- Stockport
+- US
+- US-Canada
+people:
+- Dave
+- David Nield
+- Dyson
+- Greg Brockman
+- Jason Cipriani
+- Sam Altman
+- Tom Conrad
+organisations:
+- AGI
+- AI
+- Apple Maps
+- Artificial General Intelligence
+- Astra
+- Dyson CameraJet
+- Gizmodo
+- Google Maps
+- Google News
+- IFA
+- IKEA
+- MapQuest
+- Matter
+- OpenAI
+- PC Explorer
+- Reddit
+- Sonos
+- TechRadar
+- The Hardware Handbook
 ---
 
 ![ICYMI](https://cdn.mos.cms.futurecdn.net/rx9K3vzvWVv4nkeE59EdeX.jpg) 

@@ -11,6 +11,27 @@ description: Google’s new Windows app turns [Alt] + [Space] into a dedicated G
 image: https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- UK
+- US
+people:
+- Graham Barlow
+organisations:
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- Gemini Omni
+- Gemini Spark
+- Google News
+- Google’s AI
+- Mac
+- MacFormat
+- Microsoft
+- PC Pro
+- Radio 4
+- TechRadar
+- iMore
 ---
 
 ![Windows 11 laptop and Gemini](https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5.jpg) 

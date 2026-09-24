@@ -13,6 +13,15 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/20734681.jpg?type=og-image
+locations:
+- Restore Britain
+- York
+people:
+- Mark Warters
+- Matthew LaverackLord
+- Walter
+organisations:
+- '## Council'
 ---
 
 *(Image: Mark Warters/Restore Britain)*

@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/08/25/18/2292009414..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Kennedy Center
+- Washington, D.C.
+people:
+- Christopher Cooper
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- Joyce Beatty
+- Kennedy
+- Norm Eisen
+organisations:
+- Board
+- Congress
+- Department of Justice
+- John F. Kennedy Memorial Center for the Performing Arts
+- Justice Department
+- Kennedy Center
+- Reconstruction and the Renovation of The Kennedy Center
+- The Independent
+- The John F. Kennedy Center for the Performing Arts
+- Trump
+- Truth Social
+- U.S. Supreme Court
 ---
 
 Donald Trump’s hand-picked Kennedy Center board members have voted to close for repairs the building after the Trump administration repeatedly argued that the venue was in dire financial straits and could not continue to operate without the president’s name on the building.

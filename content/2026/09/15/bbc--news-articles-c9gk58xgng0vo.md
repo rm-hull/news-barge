@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ff7/live/4d4e0d
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- Massachusetts
+- Massachusetts.
+- Oman
+- Strait of Hormuz
+- US
+- White House
+people:
+- Donald Trump
+- Pete Hegseth
+organisations:
+- BBC
+- CSIS
+- Camp David
+- Center for Strategic and International Studies
+- Congressional Budget Office
+- Defence
+- El Gaia
+- Raytheon
+- Reuters/Ipsos
+- THAAD
+- Terminal High Altitude Area Defense
+- Truth Social
+- US Patriot
 ---
 
 ![Patriot missile launchers on a grass field in Massachusetts.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg)

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Europe
+- North Carolina
+- Ottawa
+- Strasbourg
+- USA
+people:
+- Donald Trump
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- Artificial Intelligence
+- EU
+- European Commission
+- European Parliament
+- Politico
+- State of the European Union
 ---
 
 Mark Carney has accused Donald Trump of economic “coercion” after he threatened to impose tariffs on the EU following an announcement Canada could become the bloc’s first associate member.

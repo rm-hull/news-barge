@@ -11,6 +11,28 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Church Village
+- Felinheli
+- Georgia
+- Gwynedd
+- Newport
+- Rhondda Cynon Taf
+- Surrey
+people:
+- Gen Z
+- Georgia Featherstone
+- Hannah Matthews
+- Naomi Saunders
+- Rachel Griffiths
+organisations:
+- AI
+- Girlie Gardening Club
+- Instagram
+- RHS Chelsea
+- RHS Chelsea Flower Show
+- RHS Wisley
+- TikTok
 ---
 
 ![Hannah is a woman in her early 30s. She has long blonde hair and is smiling at the camera. She's pictured in front of flowering plants](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d92e/live/f001ee10-a067-11f1-ab4b-e3f95ee34b2e.jpg)

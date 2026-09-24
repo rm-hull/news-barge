@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0867352436h-scaled.jpg
+locations:
+- Berlin
+- Friedrichshain-Kreuzberg
+- Rotes Rathaus
+- Rudow
+- Steglitz-Zehlendorf
+- Treptow-Köpenick
+people:
+- Die Grünen
+- Die Linke
+- Elif Eralp
+- Emmanuele Contini
+- Franziska Giffey
+- Kai Wegner
+- Kristin Brinker
+- Stefan Evers
+- Steffen Krach
+- Werner Graf
+organisations:
+- AfD
+- BSW
+- CDU
+- Die Grünen
+- Greens
+- House of Representatives
+- Left Party
+- SPD
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0867352436h-scaled.jpg)

@@ -11,6 +11,11 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations: []
+people:
+- Anita Baca
+organisations:
+- The Associated Press
 ---
 
 Aug. 28 - Sept. 3, 2026

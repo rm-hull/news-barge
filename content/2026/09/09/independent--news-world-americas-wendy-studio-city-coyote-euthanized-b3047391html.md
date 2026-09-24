@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Los Angeles
+- Studio City
+people:
+- Wendy
+organisations:
+- Wildlife Care of Southern California
 ---
 
 A coyote known and loved by residents of a Los Angeles neighborhood has been euthanized after veterinarians discovered two pellets lodged in her head and an infection that had severely damaged her jaw.

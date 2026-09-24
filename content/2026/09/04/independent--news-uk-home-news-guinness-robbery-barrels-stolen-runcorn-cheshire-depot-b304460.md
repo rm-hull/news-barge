@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Aston Lane
+- Mersey Gateway
+- Rainhill
+- Runcorn
+- Watkinson Way
+people:
+- Guinness
+- McClatchy
+organisations:
+- Cheshire Constabulary
+- Diageo
+- GXO
+- Guinness
+- Whitehouse Industrial Estate
 ---
 
 Police have launched an appeal after thieves stole more than 70,000 pints worth of Guinness from a depot.

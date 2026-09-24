@@ -15,6 +15,35 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489104.jpg?type=og-image
+locations:
+- Chatsworth Street
+- Keighley
+- Kendal Mellor Court
+- North Yorkshire
+- Sakander
+- Skipton Road
+- Southlands Drive
+- West Yorkshire
+people:
+- Ahmed Nadim
+- Akmal Sakander
+- Arsalan Syed Shah
+- Barry
+- Haroon Ishaq
+- Nahmaan Sakander
+- Naveed Hussain
+- Shah *(Image
+- Tom Levitt
+organisations:
+- 96 Grange Crescent
+- Bradford Crown Court
+- Bradford’s Precision Team
+- Central Private Hire
+- Crimestoppers
+- Magistrates’ Court
+- Newsquest
+- Sakander
+- West Yorkshire Police
 ---
 
 A drug dealer who sold heroin, cocaine, and crack cocaine to undercover police officers from a Keighley private hire company has been ordered to pay back £170,000.

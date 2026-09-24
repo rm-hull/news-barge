@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Lawrence Street
+- Yorkshire
+people:
+- Alistair Griffin
+- Josh Gandy
+- Karen Crombie
+- Waggonfest
+organisations:
+- Ale Trail
+- Bass
+- Brew York
+- Daleside Brewery
+- Ilkley Brewery
+- Rooster’s Brewing Co
+- Rudgate Brewery
+- Trig Brewery
+- Waggonfest
+- York CAMRA
 ---
 
 Cheers! There’s a new beer festival in town.

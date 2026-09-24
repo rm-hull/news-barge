@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Camden
+- Downing Street
+- Euston
+- Holborn
+- London
+- Somalia
+- St Pancras
+- UK
+people:
+- Andrew Feinstein
+- Andy Burnham
+- Gail Rebuck
+- Georgia Gould
+- Keir Starmer
+- Liam Conlon
+- Sagal Abdi-Wali
+- Zack Polanski
+- Zia Yusuf
+organisations:
+- Camden People’s Alliance
+- Commons
+- Green
+- Greens
+- Labour
+- Reform UK
 ---
 
 A former child refugee who became the leader of Camden council has been selected to be the Labour candidate for the byelection in Holborn and St Pancras.

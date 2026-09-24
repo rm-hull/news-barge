@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Epstein
+- James Comer
+- Jeffrey Epstein.** Black
+- Leon Black
+organisations:
+- Congress
+- House Oversight Committee
+- Oversight Committee
+- US House of Representatives
 ---
 
 ![Leon Black](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3a16/live/03313030-b202-11f1-a4a7-291ff3d1006b.jpg)

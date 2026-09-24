@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Australia
+- Middle East
+people:
+- Michael Kaine
+organisations:
+- Fair Work Commission
+- QGS
+- Qantas Airways
+- Qantas Freight
+- Qantas Ground Services
+- Transport Workers Union
 ---
 
 Ground crew at Qantas Airways, Australia's largest airline, voted overwhelmingly on Monday in favour of strike action over pay and job conditions.

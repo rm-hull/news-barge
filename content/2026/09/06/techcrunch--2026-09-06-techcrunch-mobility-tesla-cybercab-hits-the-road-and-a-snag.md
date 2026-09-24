@@ -10,6 +10,61 @@ description: Welcome back to TechCrunch Mobility, your hub for the future of tra
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- Austin
+- Bay Area
+- Cybercab
+- Denver
+- Florida
+- Japan
+- Las Vegas
+- San Diego
+- Tampa
+- Texas
+- U.K.
+- U.S.
+- United States
+- Wall Street
+people:
+- Elon Musk
+- Ken Karklin**
+- Lachy Groom
+- Mike Ross
+- Sean O’Kane
+- Waymo
+- Waymo**
+organisations:
+- AA
+- Allianz**
+- Alteon**
+- BIRD Energy
+- Bryce Durbin
+- CiRi Ventures
+- Department of Transportation
+- Easy Aerial**
+- Entrée Capital
+- Fusion VC
+- Harry Reid International Airport
+- Insight Partners
+- Israel Ministry of Energy
+- Kia Telluride
+- Lomar Shipping
+- Magna International**
+- NHTSA
+- NTT Mobility
+- National Highway Traffic Safety Administration
+- Newlight**
+- Pivotal**
+- SkyNews
+- Tesla Cybercab
+- Together Fund
+- Toyota
+- U.S. Department of Energy
+- UX
+- Uber
+- Uber**
+- Undeterred Capital
+- Yuma Energy
 ---
 
 *Welcome back to**TechCrunch Mobility**, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!*

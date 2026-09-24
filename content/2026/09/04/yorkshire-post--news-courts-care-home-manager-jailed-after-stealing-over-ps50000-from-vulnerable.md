@@ -14,6 +14,17 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Filey
+- Greenfields Avenue
+- Osgodby
+- Scarborough Magistrates' Court
+people:
+- Emma Harris
+- Michaela Golding
+organisations:
+- Economic Crime Unit
+- York Crown Court
 ---
 
 # Care home manager jailed after stealing over £50,000 from vulnerable residents

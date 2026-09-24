@@ -13,6 +13,50 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- London
+- Virgin River
+people:
+- Bella
+- Conrad
+- Dame
+- Frankie Cooper
+- Gallagher
+- George Cooper Sr.
+- Gina
+- God
+- Guy Ritchie
+- Harrigan
+- Harry (Tom Hardy
+- Helen Mirren
+- James Bond
+- Jan's
+- Janet McTeer
+- Joanne Froggatt
+- Johnny Flynn
+- Kat
+- Kevin
+- Lara Pulvey
+- Maeve
+- Mandeep Dhillon
+- Paddy Considine
+- Pierce Brosnan
+- Seraphina
+- Spotify
+- Teddie Allen
+- Tom Hardy
+organisations:
+- 2020s TV
+- Google News
+- Hallmark
+- Jasmine
+- MobLand
+- Netflix
+- Paramount
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ### TechRadar Verdict

@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Banjarbaru
+- Brunei
+- Central Kalimantan
+- Indonesia
+- Indonesian Borneo
+- Kuala Lumpur.
+- Malaysia
+- Manila
+- Philippines
+- Singapore
+- South East Asia
+- South Kalimantan
+- West Kalimantan
+people:
+- Dwi Sujatmoko
+- Fahrin Ramadhianto
+- Faisal Irfani
+- Nisa Novita
+- Prof Page
+- Suharto
+- Susan Page
+- Tono
+organisations:
+- BBC
+- Dayak Kanayatn
+- Fahrin Ramadhianto
+- Health Ministry
+- NGO Yayasan Konservasi Alam Nusantara
+- University of Leicester
+- World Health Organization
+- YKAN
 ---
 
 ![A man in red firefighting uniform patched with Indonesia's flag, and with a yellow and green neck gaiter pulled over his face, stands in a forest and looks into the camera](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg)

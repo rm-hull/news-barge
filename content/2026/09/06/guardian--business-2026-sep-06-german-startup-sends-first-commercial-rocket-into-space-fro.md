@@ -14,6 +14,30 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Science
+locations:
+- Andøya Spaceport
+- Arctic Norway
+- Canada
+- Europe
+- French Guiana
+- Nova Scotia
+- South America
+- US
+people:
+- Andrius Kubilius
+- Daniel Metzler
+- Donald Trump
+- Friedrich Merz
+organisations:
+- Airbus
+- ArianeGroup
+- EU
+- Elon Musk
+- Isar Aerospace
+- Isar’s
+- Safran
+- SpaceX
+- Spectrum
 ---
 
 A German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.

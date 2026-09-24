@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Baildon
+- Billy’s Bus
+- Guiseley
+- Horsforth
+- Ilkley
+- Leeds
+- Otley Road
+- Skipton
+- UK
+- Wembley
+- West Yorkshire
+people:
+- Billy’s Bus
+- Cavapoo Billy
+- Harry Styles
+- Laura Mohan
+organisations:
+- BBC
+- Billy's Bus
+- Tong Park Industrial Estate
 ---
 
 # Dog bus owner 'overwhelmed' after vandals force vehicle off road

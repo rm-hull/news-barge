@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- Hartlepool
+- Kirkleatham Walled Gardens
+- Plantation Road
+- Redcar
+- Riverside
+- South Bank
+- St Joseph
+people:
+- Amazing Grace
+- Frank
+- Lauren Somerville
+- Matthew Blades
+- PC Blades
+- PC Clough
+- PC Matthew Blades
+- Paul Duce
+- STUART BOULTON
+- Tom Clough
+organisations:
+- British Transport Police
+- Carmel College
+- Civil Nuclear Police
+- Cleveland Police
+- Cleveland Police Federation
+- Middlesbrough FC
+- PC Blades
+- Union
+- VW
+- West Bromwich Albion
 ---
 
 Hundreds of mourners stood in silence as PC Tom Clough made his final journey through Kirkleatham, honouring the much-loved police officer killed in the line of duty.

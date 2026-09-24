@@ -11,6 +11,19 @@ description: Apple is promising "the largest increase in battery life ever" on a
 image: https://cdn.mos.cms.futurecdn.net/jJE2Ufd8ip7M7SknihUpgB-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Europe
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Apple
+- Gizmodo
+- Google News
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![Apple iPhone 18 Pro and iPhone 18 Pro Max Review](https://cdn.mos.cms.futurecdn.net/jJE2Ufd8ip7M7SknihUpgB.jpg) 

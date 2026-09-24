@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Science
 - Family & Parenting
+locations:
+- Bluesky
+- Delaware
+- Los Angeles
+- Reddit
+people:
+- Elmo
+- Elon
+- God
+- José Mourinho
+- Marge Simpson
+- Mickey Mouse
+- Mina Kimes
+- Rachel
+- Raffi
+- Smith
+- Song
+- Tang
+- Zoomers
+organisations:
+- AI
+- Air Force
+- Apple
+- Bluesky
+- ESPN
+- Google Reader
+- Instagram
+- NFL
+- Spotify
+- The New York Times
 ---
 
 *As an NFL analyst and podcast host, Mina Kimes consumes a lot of news online, but ask her to spend more than 15 minutes on “any social media platform” and you might have a problem. “It's like simultaneously pouring molasses into your brain and lighting it on fire,” she says.*

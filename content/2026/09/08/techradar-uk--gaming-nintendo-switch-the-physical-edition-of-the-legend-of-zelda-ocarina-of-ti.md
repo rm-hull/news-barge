@@ -13,6 +13,21 @@ image: https://cdn.mos.cms.futurecdn.net/bAkBskdD4nJ7CsehjkmrDX-1322-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Australia
+- UK
+- US
+people:
+- Ganon
+- James Pickard
+- Zelda
+organisations:
+- Black Friday
+- Eurogamer
+- Nintendo Store
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![A screenshot from the Ocarina of Time remake with Ganon reaching out to grab a copy of the game's limited run physical box.](https://cdn.mos.cms.futurecdn.net/bAkBskdD4nJ7CsehjkmrDX.jpg) 

@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Hacker
+organisations:
+- AI
+- Building
+- CTO
+- Future plc
+- MIT
+- Mixpanel
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Hacker with malware code in computer screen. Cybersecurity, privacy or cyber attack. Programmer or fraud criminal writing virus software. Online firewall and privacy crime. Web data engineer](https://cdn.mos.cms.futurecdn.net/DVYr26EgcJb68CRrjxuAW4.jpg) 

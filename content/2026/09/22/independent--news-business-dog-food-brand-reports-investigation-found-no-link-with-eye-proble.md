@@ -12,6 +12,14 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/22/15/22151429-728bd392-98fd-4326-9b8f-c309ff4e1d2f.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Darren Beale
+- Ivan Barashki
+organisations:
+- Bravo
+- British Association of Veterinary Ophthalmologists
 ---
 
 An independent investigation has found no link between Years dog food and suspected cases of dry eye in pets, the brand has said.

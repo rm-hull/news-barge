@@ -13,6 +13,36 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Cambridge
+- Glasgow
+- Ramsgate
+- UK
+people:
+- Bill Bailey
+- Chris Morrell
+- Howard Panter
+- Joshua McTaggart
+- Kirsten Branston
+- Lee Craven
+- Rosemary Squire
+organisations:
+- Arts Theatre
+- BRADFORD Live
+- Bradford Council
+- Bradford Live
+- Central Hall Westminster
+- Citizens Theatre
+- Gorillaz
+- Granville Theatre
+- Great British Theatres
+- Kaiser Chiefs
+- Newsquest
+- Radio 1 Anthems
+- The Prat Pack
+- Theatres Trust
+- Trafalgar Entertainment
 ---
 
 *(Image: Newsquest)*

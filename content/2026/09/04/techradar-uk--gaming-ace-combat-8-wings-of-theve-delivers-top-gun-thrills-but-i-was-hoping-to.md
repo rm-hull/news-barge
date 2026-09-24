@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Gamescom
+- Newfield Island
+- Republic of Sotoa
+people:
+- Alan Wen
+- Baxter
+- Maverick
+- Tasha
+- Theve
+- Tom Cruise
+organisations:
+- Bandai Namco Aces'
+- Digital Spy
+- Edge
+- FANDOM
+- FCU
+- Games TM
+- GamesMaster
+- Google News
+- Joker Flight of the Federation of Central Usea
+- Kotaku UK
+- Official Playstation Magazine
+- Rock Paper Shotgun
+- Sharks
+- Stuff
+- TechRadar
+- The Guardian
+- The Telegraph
 ---
 
 ![A promotional Ace Combat 8 screenshot.](https://cdn.mos.cms.futurecdn.net/atKfEcic3a5tSFqqtr5KNX.jpg) 

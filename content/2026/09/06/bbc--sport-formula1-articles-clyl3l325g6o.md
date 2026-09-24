@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Lewis Hamilton
+- Monza
+- Parabolica
+people:
+- Charles Leclerc
+- George Russell
+- John Watson
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Ludovico Scarfiotti
+- Max Verstappen
+- Mercedes' Kimi Antonelli
+- Oscar Piastri
+organisations:
+- Ferrari
+- McLaren
+- McLarens
+- Red Bull
 ---
 
 ![Kimi Antonelli clenches his right fist in celebration after getting out of his car following his win in the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9919/live/00d7bba0-aa06-11f1-afb5-a367f96884d3.jpg)

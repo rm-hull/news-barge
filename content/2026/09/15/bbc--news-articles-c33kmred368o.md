@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Azov
+- Belarus
+- Crimea
+- Donetsk
+- Europe
+- Kateryna
+- Kharkiv
+- Kherson
+- Kremlin
+- Kursk
+- Kyiv
+- Lukasheve
+- Lviv
+- Maidan
+- Moldova
+- Odesa
+- Russia
+- Ukraine
+- Ukrposhta
+- Zaporizhzhia
+people:
+- Igor Smelyansky
+- Kateryna Marynych
+- Mariana Matveichuk
+- Mykola
+- Nadiia
+- Oleksandrivna
+- Slava
+- Ukrposhta
+organisations:
+- AEI
+- Kyiv
+- Ukrposhta
+- Wildberries
 ---
 
 Watch: Ukraine's post office innovation helps isolated communities

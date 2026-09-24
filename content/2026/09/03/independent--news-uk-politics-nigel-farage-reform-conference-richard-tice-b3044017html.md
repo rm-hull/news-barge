@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Birmingham
+- Britain
+- Clacton
+- Downing Street
+- Lincolnshire
+- Makerfield
+- UK
+- US
+people:
+- Andrea Jenkyns
+- Andy Burnham
+- Christopher Harborne
+- Count Binface
+- Donald Trump
+- Elon Musk
+- James Manning
+- Keir Starmer
+- Kemi Badenoch
+- Nigel Farage
+- Richard Tice
+- Rupert Lowe
+- Zia Yusuf
+organisations:
+- BBC
+- Labour
+- Reform UK
+- Spectator
 ---
 
 After dominating British politics for most of the last two years, Nigel Farage and his battered Reform UK party arrive in Birmingham for their conference with myriad problems.

@@ -13,6 +13,24 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- Marokopa
+- New Zealand
+- North Island
+people:
+- Amanda Malu
+- Christopher Luxon
+- Jill Rogers
+- Louise Upston
+- Oranga Tamariki
+- Simon Moore
+- Tom Phillips
+organisations:
+- 1News
+- Family Court
+- High Court
+- Oranga Tamariki
+- Phillips
 ---
 
 The New Zealand government has apologised to the three children of fugitive Tom Phillips, who hid them in a dense forest for years before being killed by the police in a shootout.

@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations: []
+people:
+- Claire Boocock
+- Emma
+- Juli Boocock
+- Sally
+organisations:
+- SKIPTON
+- Yorkshire Air Ambulance
 ---
 
 *(Image: Claire Boocock)*

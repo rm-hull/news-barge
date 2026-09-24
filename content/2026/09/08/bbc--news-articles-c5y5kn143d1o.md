@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Hong Kong
+- Singapore
+- Switzerland
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- Guy Parmelin
+- John Lee
+- Lawrence Wong
+- Lee Hsien Loong
+organisations:
+- PAP
+- People's Action Party
+- Transparency International
 ---
 
 ![Lawrence Wong in a black suit and white shirt addresses a crowd on a podium](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/25d5/live/40541500-ab58-11f1-b471-ff02eb3eac27.jpg)

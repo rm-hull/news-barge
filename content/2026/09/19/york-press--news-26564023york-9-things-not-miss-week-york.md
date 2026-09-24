@@ -12,6 +12,16 @@ categories:
 - York
 - Music
 image: https://www.yorkpress.co.uk/resources/images/21475305.jpg?type=og-image
+locations:
+- York
+people:
+- Charles Hutchinson
+- Gilbert O'Sullivan
+- Gilbert O’Sullivan
+- Ron Howard
+organisations:
+- Mikron Theatre
+- Redferns
 ---
 
 ## 70s music legend heading to York for night of chart-topping hits

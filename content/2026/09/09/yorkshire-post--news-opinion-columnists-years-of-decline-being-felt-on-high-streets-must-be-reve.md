@@ -17,6 +17,15 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Britain
+- England
+people:
+- Andy Burnham
+- Angela Rayner
+- Toby Shepheard
+organisations:
+- Government
 ---
 
 # Years of decline being felt on high streets must be reversed - Angela Rayner

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Florida
+- Palm Beach
+- White House
+people:
+- Carlos De Oliveira
+- Chamberlain Harris
+- Donald Trump
+- Joe Biden
+- Margo Martin
+- Natalie Harp
+- Walt Nauta
+organisations:
+- Congress
+- FBI
+- Mar-a-Lago
+- Nauta
+- Oval Office
+- The Washington Post
+- Trump
+- U.S. Commission of Fine Arts
 ---
 
 Newly published financial disclosures from the administration reveal that President Donald Trump presented substantial holiday cash gifts to four of his White House aides.

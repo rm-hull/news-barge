@@ -12,6 +12,36 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Archway
+- Matusiak
+- Normanby Medical Centre
+- Normanby Road
+- Outwood
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- St Peter
+- Teesside
+- Teesville
+people:
+- Cllr Alec Brown
+- Jakub Matusiak
+- Lucy Powell
+- Matthew Blades
+- Tom Clough.
+organisations:
+- A66
+- Catholic Primary School
+- Cleveland Borough Council
+- Cleveland Council
+- Cleveland Police
+- Mackenzie Thorpe School
+- North News & Pictures Ltd
+- Nunthorpe
+- Redcar
+- South Bank Primary
 ---
 
 A council leader said he is “deeply concerned” that schools have “felt they have no option but to close early” due to fears over the impact of an A66 crash funeral.

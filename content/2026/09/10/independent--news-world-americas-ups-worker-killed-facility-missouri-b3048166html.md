@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Earth City
+- Missouri
+- Rider Trail North
+- St. Louis
+people:
+- Donna Schraer
+- Paul Roberts
+- Schaer
+organisations:
+- Independent
+- KSDK
+- St. Louis County Police Department
+- UPS Customer Care Center
+- UPS Customer Center
 ---
 
 A longtime UPS worker was fatally struck by a vehicle at a UPS facility in Missouri last week — less than two weeks before he planned to retire from the job after 44 years.

@@ -11,6 +11,24 @@ description: The Meta Muse AI agent was caught in another privacy firestorm when
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/obHcSWrQyTuJsvfBc93Jtj-1920-80.jpg
+locations: []
+people:
+- Alex Blake
+- Jason Aten
+- Meta Muse
+- Stephen Robles
+organisations:
+- AI
+- Amazon
+- Apple
+- Aten
+- Creative Bloq
+- Google News
+- Inc
+- MacFormat
+- Meta Muse
+- TechRadar
+- iMore
 ---
 
 ![Meta Muse and angry man.](https://cdn.mos.cms.futurecdn.net/obHcSWrQyTuJsvfBc93Jtj.jpg)

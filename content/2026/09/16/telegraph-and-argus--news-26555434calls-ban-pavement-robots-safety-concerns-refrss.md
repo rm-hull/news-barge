@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bristol
+- Cambridge
+- Leeds
+- Living Streets
+- Milton Keynes
+- UK
+people:
+- Amit Patel
+- Ben Foley
+- Tana Braun
+organisations:
+- UGC
+- Wheels for Wellbeing
+- YouGov
 ---
 
 *(Image: UGC)*

@@ -14,6 +14,17 @@ categories:
 - Family & Parenting
 - Society & Culture
 - Education & Learning
+locations:
+- Bradford
+- England
+- Pontefract Castle
+- Queensbury
+- Tong
+people:
+- Amy
+- Jodie
+- Toni
+organisations: []
 ---
 
 As thousands of children return to classrooms this September, a growing number of families are taking a different approach to education.

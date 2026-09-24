@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Colorado Rockies
+- Eagle County
+- Southface Vail
+- Timber Ridge Village
+people:
+- Barry Davis
+- Vail
+organisations:
+- 9News
+- Zillow
 ---
 
 The town of Vail, an exclusive ski resort in the Colorado Rockies, is building a $189 million housing complex just to give workers an affordable place to live with a short commute.

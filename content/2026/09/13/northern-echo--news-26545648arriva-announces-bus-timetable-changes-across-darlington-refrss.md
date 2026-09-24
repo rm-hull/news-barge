@@ -13,6 +13,54 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Abbey Road
+- Aldi Warehouse
+- Aycliffe Village
+- Bishopton
+- Cockerton Village
+- Crook
+- Darlington Arena
+- Darlington Rail Station
+- Durham
+- Faverdale Grange
+- Heighington
+- High Grange
+- Hummersknott
+- Mowden
+- Neasham Road
+- Newton Aycliffe
+- Newton Aycliffe Rail Halt
+- North East
+- Portugal
+- Sadberge
+- School Aycliffe
+- Spain
+- Spennymoor
+- Stillington
+- Stockton
+- Teesside
+- Tindale Crescent
+- Tow Law
+- West Park
+- West Park Hospital
+- Westgate Crescent
+- Whinfield
+people:
+- John Fowler Way
+- SARAH CALDECOTT
+organisations:
+- Arriva
+- Darlington Council
+- Darlington Memorial Hospital
+- Faverdale
+- Geneva Crescent
+- HGV
+- New College
+- Queen Elizabeth College
+- Ryanair
+- Service 17
+- Tees Valley Combined Authority
 ---
 
 *(Image: SARAH CALDECOTT)*

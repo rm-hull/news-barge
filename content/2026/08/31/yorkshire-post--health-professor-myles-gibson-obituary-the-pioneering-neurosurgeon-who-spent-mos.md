@@ -13,6 +13,72 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Canada
+- Dunragit
+- Glasgow
+- Hampden Park
+- Highlands
+- Hong Kong
+- Kenya
+- Korea
+- Leeds General Infirmary
+- Malaysia
+- Middle East
+- Montreal
+- Oban
+- Rhineland
+- Saudi Arabia
+- Scotland
+- Singapore
+- Spandau
+- St John’s Ambulance
+- Stranraer
+- UK
+- Westminster Abbey
+- Yorkshire
+- Zimbabwe
+people:
+- Alastair
+- Albert Speer
+- Edward I
+- Ena
+- Geoffrey Howe
+- Harvey
+- John F Kennedy
+- Mary
+- Menzies Campbell
+- Myles Gibson
+- Norman Dott
+- Robert Gibson
+- Robert Myles Gibson
+- Rudolf Hess
+- Stroma
+- Wilder Penfield
+organisations:
+- Edinburgh Royal Infirmary
+- FA
+- General Medical Council
+- Gibson Report
+- Glasgow Coma Scale
+- Glasgow Royal Infirmary
+- Glasgow University
+- Health Service Financing Report
+- House Surgeon
+- Kilbirnie Lakeside Juniors
+- Kilmarnock Academy
+- LGI
+- Liberal
+- McGill University
+- Montreal Hakoah
+- MsC
+- NHS
+- OBE
+- Queen’s Park
+- Royal Army Medical Corps
+- Royal College of Surgeons Edinburgh
+- Sheuchan School
+- The Society of British Neurological Surgeons
 ---
 
 # Professor Myles Gibson obituary: The pioneering neurosurgeon who spent most of his career in Yorkshire

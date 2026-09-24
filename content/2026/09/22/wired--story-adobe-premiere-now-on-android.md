@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png
+locations: []
+people:
+- Eric Snowden
+organisations:
+- Adobe Fonts
+- Adobe Premiere
+- App Store
+- Enhance Audio
+- Google
+- Samsung
+- WIRED
+- YouTube Shorts
 ---
 
 Nearly a year after releasing Premiere for iPhone, Adobe is finally bringing its redesigned video-editing app to Android. The app has been in beta for several weeks but is now available as the official successor to Premiere Rush, which the company will stop supporting on September 30.

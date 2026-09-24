@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- UK
+people:
+- Andy Burnham
+- Jon Sparkes
+- Richard Pohle
+organisations:
+- Government
+- Mencap
+- Neets
+- PA Wire
+- Sainsbury's
+- The Times
 ---
 
 # A fall in the number of Neets but the challenge still remains

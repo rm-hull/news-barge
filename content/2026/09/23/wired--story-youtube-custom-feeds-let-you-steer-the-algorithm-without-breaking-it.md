@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab2b5c4d5dbe8037c95019e/191:100/w_1280,c_limit/YT_Custom%20Feeds.jpg
+locations:
+- Shanghai
+- US
+people:
+- Chris Fleming
+- Emily Moxley
+organisations:
+- Custom Feeds
+- Google I/O
+- Meta
+- Spotify
+- YouTube
 ---
 
 My YouTube algorithm is sacred, with years of data about my preferences and viewing history fermenting into whatever videos it picks for my home screen. YouTube’s algorithm, while not perfect, sure knows what I want to see. The current top three videos on my front page are an Apple Watch analysis, a *Big Brother* season 28 update, and something called “I Lost to the Muppets” from comedian Chris Fleming. Click. Click. Click.

@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/H4E9BVRtDNfdDadU857N8-1008-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Bruno Ferreira
+- Dave Plummer
+- Janes
+- Joes
+- Tom
+organisations:
+- Dell
+- Devils0wn
+- FCKGW
+- Get Tom's Hardware
+- Google News
+- Intel
+- Microsoft Bob
+- OEM
+- PC
+- RTM
+- Service Pack 1
+- Tom's Hardware
+- VLK
 ---
 
 ![Windows XP CD](https://cdn.mos.cms.futurecdn.net/H4E9BVRtDNfdDadU857N8.png) 

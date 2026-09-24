@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - History
 - Science
+locations:
+- Bacon Hole Cave
+- Bristol Channels
+- British Isles
+- Chepstow
+- Cork
+- Dubai
+- England
+- France
+- Gower Peninsula
+- Ireland
+- Pembrokeshire
+- Portugal
+- Rosslare
+- Spain
+- St Davids
+- The Gower Peninsula
+- Wales
+- Waterford
+- Wexford
+people:
+- Darren Lee
+- George Nash
+- Shane Diffily
+organisations:
+- AI
+- Liverpool University
+- Lost Land Bridge Project
+- The Lost Land Bridge Project
+- University College Dublin
+- University of Adelaide
 ---
 
 ![At a secret location on a hillside in south-west Ireland,  a roughly circular natural cave entrance with moss-covered limestone surrounds, covered with ferns, ivy  and brambles.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png)

@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Emmerdale
+people:
+- '## Claire King'
+- Claire King
+- Dawn Fletcher
+- Jimmy King
+- Joe Tate
+- Kim Tate
+- Olivia Bromley
+organisations:
+- Digital Spy
+- Emmerdale
+- ITV
+- ITV1
 ---
 
 *(Image: YouTube/ITV)*

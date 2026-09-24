@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Afghanistan
+- Dunkirk
+- Europe
+- France
+- Libya
+- London
+- Mediterranean
+- Sudan
+- UK
+people:
+- Harbans Kaur Wadhwa
+- Ivnit Singh Wadwa
+- Jasmeet Wadhwa
+- Nagmeldin Adam
+organisations:
+- Guardian
+- Home Office
+- interior ministry
 ---
 
 A British family is pleading with French authorities to release the body of a relative that officials have held for five months after he died in the Channel in April.

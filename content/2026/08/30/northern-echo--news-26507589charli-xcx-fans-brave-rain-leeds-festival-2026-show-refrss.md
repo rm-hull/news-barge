@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Sports
 - Music
+locations:
+- Bramham Park
+- Darlington
+- LIAM RUSSELL
+people:
+- Charli
+- Girl
+- Guess
+- Kasabian
+- LIAM RUSSELL
+- Von Dutch
+organisations:
+- Apple
+- Card Declined
+- Charli XCX
+- Pink Diamond
+- Rock Music
+- Wink Wink
 ---
 
 *(Image: LIAM RUSSELL)*

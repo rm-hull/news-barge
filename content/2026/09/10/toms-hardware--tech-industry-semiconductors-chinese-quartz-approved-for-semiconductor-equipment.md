@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- North Carolina
+- Spruce Pine
+people:
+- Anton Shilov
+- TP Huang
+- Tom
+organisations:
+- CXMT
+- China Tech Talk
+- DRAM
+- Google News
+- HPQ
+- Jiangsu Pacific Quartz
+- Lam Research
+- Pacific Quartz
+- Russian Quartz LLC
+- Sibelco
+- The Quartz Corp.
+- Tokyo Electron
+- Tom’s Hardware
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

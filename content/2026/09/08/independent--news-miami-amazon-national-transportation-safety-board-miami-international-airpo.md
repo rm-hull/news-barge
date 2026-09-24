@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Louisville
+- Miami
+- Miami-Dade
+- North Carolina
+- Puerto Rico
+- U.S.
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Jennifer Homendy
+- Julio C. Pineda
+- Rolando Aleman Leon
+- Yoel Rodriguez Naranjo
+organisations:
+- 21 Air
+- Amazon
+- Federal Aviation Administration
+- Flightradar24
+- Miami International Airport
+- Muhammad Ali International Airport
+- NTSB
+- National Transportation Safety Board
+- Professional Ocean Service Corp.
+- UPS
 ---
 
 Investigators are still trying to determine what caused an Amazon cargo jet to overshoot a runway in Miami and plow into two vehicles, killing five people on the ground.

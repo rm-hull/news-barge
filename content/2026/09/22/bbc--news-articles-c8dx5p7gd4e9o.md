@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf88/live/3e21a580-b699-11f1-bc1f-3f186ca4140c.png
+locations:
+- Cambridgeshire
+- East Riding of Yorkshire
+- England
+- Penistone
+- Pennistone
+- Ramsey
+- South Yorkshire
+- Sunderland
+people:
+- Adam Clarkson
+- Eleanor Bell
+- Elliot Deady
+- Ezgi Polat
+- Luke Young
+- Sam Barrett
+organisations:
+- BBC Your Voice
+- Bank of Mum and Dad
+- Citizens Advice
+- Ezgi
+- Universal Credit
+- University of Central Lancashire
 ---
 
 ![A three-way split pic showing headshots of three young women looking straight at the camera. ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/bf88/live/3e21a580-b699-11f1-bc1f-3f186ca4140c.png)

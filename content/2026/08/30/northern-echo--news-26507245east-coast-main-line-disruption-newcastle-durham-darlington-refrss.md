@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bedford
+- Berwick-upon-Tweed
+- Chesterfield
+- County Durham
+- Darlington
+- Doncaster
+- Durham Dales
+- Eaglescliffe
+- East Coast Main Line
+- East Midlands Railway
+- Edinburgh
+- Glasgow Queen Street
+- Grand Central
+- Hartlepool
+- King’s Cross
+- London King’s Cross
+- London St Pancras
+- Morpeth
+- NORTHERN ECHO
+- Newcastle
+- North East
+- Northallerton
+- Peterborough
+- Sheffield
+- Sunderland
+- Thameslink
+- Thirsk
+- York
+people: []
+organisations:
+- East Coast Digital Programme
+- Hull Trains
+- LNER
+- London North Eastern Railway
+- Lumo
+- NORTHERN ECHO
+- National Rail
+- Northern and TransPennine Express
+- Thameslink
+- TransPennine Express
 ---
 
 *(Image: NORTHERN ECHO)*

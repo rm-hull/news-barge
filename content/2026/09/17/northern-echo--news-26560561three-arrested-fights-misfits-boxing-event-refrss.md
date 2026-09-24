@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Newcastle
+- North East
+- Teesside
+- UK
+- Utilita Arena
+people:
+- Big Stacks
+- Jordan McCann
+- Man
+organisations:
+- GOOGLE
+- Northumbria Police
+- Utilita Arena
 ---
 
 Three more people have been arrested after violence broke out at a packed Newcastle boxing event last weekend.

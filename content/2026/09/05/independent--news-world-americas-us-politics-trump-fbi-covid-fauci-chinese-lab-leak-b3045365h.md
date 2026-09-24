@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cleveland
+- Kentucky
+- Maryland
+- Morens’
+- WUHAN
+- Washington, D.C.
+- White House
+people:
+- Anthony Fauci
+- Covid-19
+- Dan Bongino
+- David Morens
+- Joe Biden
+- Peter Daszak
+- Rand Paul
+organisations:
+- Congress
+- DOJ
+- FBI
+- Homeland Security and Government Affairs Committee
+- Justice Department
+- NIAID
+- National Institute of Allergy and Infectious Diseases
+- New York Times
+- Senate Homeland Security and Government Affairs Committee
+- The Independent
+- Trump
+- Wuhan Institute of Virology
 ---
 
 New details about the FBI’s push under the second Trump administration to investigate Dr. Anthony Fauci and find evidence Covid-19 came from a Chinese lab have emerged.

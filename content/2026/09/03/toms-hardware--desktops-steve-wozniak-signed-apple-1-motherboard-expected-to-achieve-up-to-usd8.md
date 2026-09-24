@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Bonhams
+- Ca
+- Columbus
+- New York
+- Ohio
+- US
+people:
+- Bonhams
+- Fred Hatfield
+- Mark Tyson
+- Steve Jobs
+- Steve Wozniak
+- Tom
+organisations:
+- Apple 1
+- Apple Computer 1
+- Apple Computer Inc
+- Bonhams
+- Byte Shop
+- Computer Data Systems
+- Get Tom's Hardware
+- Google News
+- Hatfield Apple 1
+- History of Science
+- Homebrew Computer Club
+- Newton
+- Palo Alto
+- Tom's Hardware
 ---
 
 ![The ‘Hatfield’ Apple 1 auction](https://cdn.mos.cms.futurecdn.net/DRQtBUapbDgWzERaekH2hn.jpg) 

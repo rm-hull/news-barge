@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21492897.jpg?type=og-image&xType=0&yType=82
+locations:
+- Barnard Castle
+- County Durham
+- Market Place
+- North East
+- Northumberland
+people:
+- Babul
+- Malcolm
+- Sarah Caldecott
+organisations:
+- BBC The
+- Babul
+- Babul's
+- Babul’s Express
+- Babul’s Express’
 ---
 
 A popular Barnard Castle restaurant is bringing back takeaway orders after listening to customers who said the service was vital for many.

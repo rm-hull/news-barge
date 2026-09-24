@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aarau
+- Europe
+- Switzerland
+- Zurich
+people:
+- Bernhard Graser
+organisations:
+- Reuters
 ---
 
 A manhunt is under way in Switzerland after a 22-year-old woman was killed and five people were injured, some seriously, in a shooting at a rave in the northern town of Aarau, local police have said.

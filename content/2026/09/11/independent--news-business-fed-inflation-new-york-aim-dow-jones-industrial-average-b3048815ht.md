@@ -11,6 +11,59 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- China
+- Frankfurt
+- London
+- New York
+- Paris
+- UK
+- US
+people:
+- Bernard Yaros
+- Kevin Warsh
+- Maui Brennan
+- Sanjay Raja
+organisations:
+- AIM
+- Alliance News
+- Asahi UK
+- BAE Systems
+- Bank of England
+- Bank of Japan
+- Barclays
+- BoE
+- BoJ
+- Bureau of Labour Statistics
+- C&C
+- CME FedWatch Tool
+- Deutsche Bank
+- Endeavour Mining
+- FXStreet
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
+- HgCapital Trust
+- ING
+- Jefferies
+- Lion Finance
+- Lloyds Banking Group
+- London Stock Exchange Group
+- MCB
+- MPC
+- Matthew Clark Bibendum
+- Monetary Policy Committee
+- NatWest Group
+- Nectar Imports Ltd
+- New York Stock Exchange
+- Oxford Economics
+- Rightmove
+- Sachem Head
+- Sage Group
+- Smith & Nephew
+- Trainline
+- Treasury
+- XP Power
 ---
 
 Stock prices in London closed in the green on Friday, with equities in New York bursting higher, even after a US inflation report may have cemented a Federal Reserve rate hike next week.

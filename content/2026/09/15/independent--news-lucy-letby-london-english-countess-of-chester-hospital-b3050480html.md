@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Chester Hospital
+people:
+- Kathryn Thirlwall
+- Lucy Letby
+organisations: []
 ---
 
 An English judge issued a scathing report Tuesday blaming dysfunctional management and a “complete failure at all levels” to protect babies at the hospital where neonatal nurse Lucy Letby was convicted of murdering seven babies.

@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/b05f469d691ecbc4367b1d83536ebc90a2265481/0_0_5906_4724/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09eb455cd8dcc23a229a898ba9e9c52a
+locations:
+- Avon
+- Bristol
+- Flax Bourton
+- Gaza
+- Israel
+- London
+- Palestine
+- Poland
+- Salisbury
+- UK
+- US
+people:
+- Dawn Sturgess
+- James Kirby
+- Jim Henderson
+- John Chapman
+- Maria Voisin
+- Neil Henderson
+- Nochi Mendel
+- Pete Weatherby KC
+- Tayab Ali
+- Zomi Frankcom
+organisations:
+- Elbit Systems
+- Foreign Office
+- IDF
+- Israel Defense Forces
+- Ministry of Defence
+- MoD
+- Royal Air Force
 ---
 
 Israeli and UK military commanders could be requested to give evidence to an inquest concerning three British workers killed in Gaza when aid vehicles they were travelling in were hit by an airstrike.

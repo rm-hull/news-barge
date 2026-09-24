@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Society & Culture
 - Law & Justice
+locations:
+- France
+- Paris
+people:
+- Marine Tondelier
+- Raphaël Glucksmann
+organisations:
+- Justice Ministry
 ---
 
 Several hundred women’s rights activists and supporters gathered outside France’s Justice Ministry in Paris as lawmakers began examining a proposed comprehensive law on sexual violence.

@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bray
+- County Wicklow
+- Croke Park
+- Dublin
+- Ireland
+- Kerry
+- London
+- UK
+people:
+- Alvin Lewis
+- Amanda Serrano
+- Anne-Marie McHugh
+- Bray
+- Catherine Hill
+- Conor McGregor
+- David Finnegan
+- Denise
+- Flora Pili
+- K Taylor
+- Katie Taylor
+- Laney O’Connell
+- Muhammad Ali
+- Pete
+- Trevor McMahon
+organisations:
+- Croke Park
+- IBO
+- Madison Square Garden
+- RTÉ
 ---
 
 When Katie Taylor steps into the ring on Saturday night to defend her titles and once again enthral Ireland, there will be a bittersweet tinge. After a singular career that pioneered women’s boxing, the super-lightweight champion and Olympic gold medallist is bowing out. She is 40 and it is to be her final bout.

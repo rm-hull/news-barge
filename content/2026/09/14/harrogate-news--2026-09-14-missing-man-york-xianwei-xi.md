@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Heslington
+- York
+people:
+- '** Francis Xi**'
+- '**Xianwei Xi**'
+- Jeremiah Xi**
+- Xianwei
+organisations:
+- Force Control Room
+- Harrogate Informer
+- North Yorkshire Police
+- North Yorkshire Police Deployment Desk
+- Xianwei
 ---
 
 **YORK** — Police have deployed specialist search teams and issued an urgent emergency appeal to the public following the disappearance of a 26-year-old man from the Heslington area of York.

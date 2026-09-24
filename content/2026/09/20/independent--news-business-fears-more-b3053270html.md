@@ -13,6 +13,12 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/00/c8873b90bfd217ed9dda275e938d749bY29udGVudHNlYXJjaGFwaSwxNzg5NzQxMDUx-2.83922537.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Jo Causon
+organisations:
+- Institute of Customer Service
 ---
 
 Fears of being scammed are causing one in three UK consumers to abandon online purchases, according to a study.

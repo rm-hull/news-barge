@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brunswick Village
+- Drysdale Crescent
+- Newcastle Airport
+- North East
+- North East Body
+- River Tyne
+people:
+- Alan Richards
+- Barry McAtominey
+- Dad
+- Douglas Moffat
+- Sarah Shorter
+organisations:
+- Major Investigation Team
+- NEWSQUEST
+- Newcastle Magistrates’ Court
+- Northumbria Police
 ---
 
 *(Image: NEWSQUEST)*

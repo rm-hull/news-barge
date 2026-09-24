@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bradford
+- UK
+people:
+- Andy Daly-Smith
+- Anna Chalkley
+- Gillian Murray
+- Udy Archibong
+organisations:
+- Brad-ATTAIN
+- Bradford Pathways to Academia for Minoritised Ethnicities
+- CAS
+- Creating Active Schools’
+- EDI
+- Equality, Diversity and Inclusion
+- Institute of Health and Social Care
+- Times Higher Education
+- University of Bradford
+- World Health Organisation
 ---
 
 *(Image: Supplied)*

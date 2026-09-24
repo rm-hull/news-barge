@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Wall Street
+people:
+- Christopher Waller
+- Kevin Warsh
+organisations:
+- Fed
+- Federal Reserve
 ---
 
 Federal Reserve governor Christopher Waller said Thursday that an inflation report next week will largely determine whether he supports an interest rate hike later this month or not.

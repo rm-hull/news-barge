@@ -14,6 +14,53 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bangladesh
+- Derby
+- Edgbaston
+- England
+- India
+- Melbourne
+- Pakistan
+- South Africa
+- Sri Lanka
+- The Oval
+people:
+- Ben Duckett
+- Ben Stokes
+- Brydon Carse
+- Calvin Harrison
+- Dan Lawrence
+- Dom Bess
+- Emilio Gay
+- Gus Atkinson
+- Henry Crocombe
+- Jack Carson
+- Jack Leach
+- Jacob Bethell
+- James Coles
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Liam Patterson-White
+- Marcus Trescothick
+- Mason Crane
+- Matthew Fisher
+- Ollie Robinson
+- Olly Stone
+- Razaullah
+- Rob Key
+- Sachin Tendulkar
+- Sam Cook
+- Shoaib Bashir
+- Sonny Baker
+- Stephen Fleming
+- Will Jacks
+- andKevin Pietersenis
+organisations:
+- England
+- Root and Cox
 ---
 
 Highlights: Root and Cox guide England to victory after early scare

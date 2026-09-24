@@ -14,6 +14,42 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Arizona
+- California
+- Colorado
+- Michigan
+- Minnesota
+- New Mexico
+- Taylor Farms
+- Taylor Farms’
+- Taylor Farms’ Mexico
+- US
+people:
+- Barbara Kowalcyk
+- De Ann Davis
+- Donald Trump
+- Erica Schwartz
+- Jennifer McEntire
+- Joel Barratt
+- Marty Makary
+- Schwan
+organisations:
+- CBS News
+- CDC
+- Centers for Disease Control and Prevention
+- Congress
+- Everything Sprouts
+- FDA
+- Food Safety Strategy
+- Food and Drug Administration
+- George Washington University’s Institute for Food Safety and Nutrition
+- Reuters
+- Senate
+- Trump
+- US Government Accountability Office
+- WIRED
+- Western Growers Association
 ---
 
 This summer, every meal feels like a risk.

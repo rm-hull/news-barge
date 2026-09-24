@@ -15,6 +15,21 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/21/18/US_Vermont_Shootings_76355.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Burlington
+- U.S.
+- Vermont
+people:
+- God
+- Hisham Awartani
+- Jason Eaton
+- Kinnan Abdalhamid
+- Tahseen Aliahmad
+organisations:
+- CIA
+- FM
+- Mossad
+- University of Vermont
 ---
 
 A jury on Monday convicted a Vermont man of attempted murder in the shootings of three Palestinian college students who were walking near his home, rejecting an insanity defense rooted in his claims that he was acting on orders from the CIA and Mossad.

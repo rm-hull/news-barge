@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Europe
+- Malta
+- Valletta
+people:
+- Alfred Degiorgio
+- Caruana Galizia
+- Daphne Caruana Galizia
+- George Degiorgio
+- Jamie Vella
+- Joseph Muscat
+- Melvin Theuma
+- Robert Agius
+- Vincent Muscat
+- Yorgen Fenech
+organisations:
+- European Union
+- Facebook
+- Panama Papers
 ---
 
 ## His arrest in 2019, as he was sailing away from Malta on his yacht, sparked a series of mass protests in the country that culminated with Prime Minster Muscat’s resignation.

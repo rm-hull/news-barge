@@ -13,6 +13,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Christian Toetzke
+- Jeffrey Katzenburg
+- Moritz Furste
+- Mr Toetzke
+- Sujay Jaswa
+organisations:
+- Birkenstock
+- Dishoom
+- Hyrox
+- Infront Sport and Media
+- L Catterton
+- WndrCo
 ---
 
 A consortium led by private equity firm L Catterton has bought majority control of popular fitness brand Hyrox.

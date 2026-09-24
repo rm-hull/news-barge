@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Berlin
+- Bonn
+- Germany
+- Halle Airport
+- Leipzig
+- Moscow
+- Russia
+- Russian House
+- St. Petersburg
+- Ukraine
+- Vladivostok
+- Yekaterinburg
+people:
+- Putin
+- Sergey Lavrov
+organisations:
+- Eastern Economic Forum
+- Goethe-Institut
 ---
 
 Russia will shutter German cultural centers across the country, Foreign Minister Sergey Lavrov said Thursday.

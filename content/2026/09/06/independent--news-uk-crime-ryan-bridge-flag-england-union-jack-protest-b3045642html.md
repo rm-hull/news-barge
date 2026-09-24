@@ -13,6 +13,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- England
+- Northern France
+- Oxfordshire
+- UK
+people:
+- Nigel Farage
+- Ryan Bridge
+organisations:
+- Raise the Colours
+- Reform UK
+- St George’s Cross
+- Thames Valley Police
+- Union Jack
 ---
 
 The founder of a flag campaign group that put up hundreds of Union Jack and St George’s Cross flags across England has been charged with fourteen offences.

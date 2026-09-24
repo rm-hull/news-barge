@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Hebron
+- Israel
+- Khirbet al-Taban
+- Masafer Yatta
+- Palestine
+- West Bank
+- al-Mughayyir
+people:
+- Abu Alia
+- Abu Naim
+- Al-Nassan
+- Khalil Abu Alia
+- Omar al-Nassan
+- Waheed Abu Naim
+- Yuli Novak
+organisations:
+- B’Tselem
+- Cogat
 ---
 
 Israelis have shot dead two teenagers in a Palestinian village encircled by settlers, and Israeli troops have razed an entire village outside Hebron, in the latest attacks in a surge of Israeli terror and ethnic cleansing across the occupied West Bank.

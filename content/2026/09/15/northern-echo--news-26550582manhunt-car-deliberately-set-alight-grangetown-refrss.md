@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A1053
+- Cleveland
+- Grangetown
+- Greystone Road
+- Greystones Road
+- UK
+people:
+- Daryll Tomlinson
+- Jeremy Clarkson
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- EU
+- Oasis
+- Redcar
 ---
 
 *(Image: GOOGLE)*

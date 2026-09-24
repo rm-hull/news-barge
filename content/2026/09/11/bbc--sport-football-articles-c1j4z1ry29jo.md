@@ -15,6 +15,33 @@ categories:
 - News & Politics
 - Sports
 - Lifestyle & Fashion
+locations:
+- Brazil
+- India
+- New Zealand
+- Norway
+- Stamford Bridge
+people:
+- Carlo Ancelotti
+- Cole Palmer
+- Diego Costa
+- Erling Haaland.
+- Haaland
+- Joao Pedro
+- Karim Benzema
+- Xabi Alonso
+organisations:
+- Al-Hilal
+- Al-Ittihad
+- Benzema
+- Blues
+- Chelsea
+- France
+- Joao Pedro
+- Lyon
+- Premier League
+- Real Madrid
+- toManchester City
 ---
 
 ![Joao Pedro holding his Player of the Month award](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg)

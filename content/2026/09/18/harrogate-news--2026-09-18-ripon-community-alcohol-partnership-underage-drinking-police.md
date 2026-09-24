@@ -12,6 +12,28 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- McAdams
+- North Yorkshire
+- Pebble Beach
+- Ripon
+- Spa Gardens
+- Temple Gardens
+- UK
+people: []
+organisations:
+- '### Hotspot Monitoring and Public Safety Operations'
+- '### Retailer Compliance'
+- CAP
+- Fire and Rescue Service
+- House of Commons
+- RIPON**—
+- Ripon Community Alcohol Partnership
+- Ripon Grammar School
+- Sparks Youth Club
+- Talk About Trust
+- Trading Standards
+- YMCA
 ---
 
 **RIPON**— Internal multi-agency tracking reports have unveiled a comprehensive autumn safety strategy designed to suppress underage alcohol access, combat proxy purchasing, and secure known anti-social behaviour hotspots across the Ripon district.The latest operational updates from the Ripon Community Alcohol Partnership (CAP)—which coordinates resources across North Yorkshire Police, Trading Standards, the YMCA, and regional education providers—confirm that multi-agency teams are launching targeted compliance operations ahead of the winter freeze.

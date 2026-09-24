@@ -13,6 +13,26 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21482536.jpg?type=og-image
+locations:
+- Brunswick
+- Flaxby Park
+- Junction 47
+- Knaresborough
+- M
+- North Yorkshire
+- YOUR
+- York
+people:
+- Adam Varley
+organisations:
+- A1
+- Flaxby Park
+- Goldsborough Cricket Club
+- Greyfriars Investments
+- North Yorkshire Council
+- North Yorkshire Local Plan
+- Public Notice Portal
+- Scarborough Group International
 ---
 
 *(Image: Pic supplied)*

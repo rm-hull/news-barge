@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Beijing
+- China
+people: []
+organisations:
+- Beijing Daily
 ---
 
 Beijing is banning the possession of drones within city limits in new rules announced Sunday that further tighten its regulations on drones, which already include a May ban on sales of the devices. The ban on possession will come into effect in mid-November.

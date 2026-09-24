@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/08/01/1/55/GettyImages-2287747467.j
 categories:
 - News & Politics
 - UK
+locations:
+- Arctic Shield
+- Canada
+- Denmark
+- Finland
+- France
+- Germany
+- Greenland
+- Netherlands
+- Norway
+- Nuuk
+- Sweden
+- U.S.
+- United Kingdom
+- United States
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Union
+- Gr Denmark
+- NATO
+- The Trump
 ---
 
 The European Union responded to repeated threats from U.S. President Donald Trump to take over Greenland by reassuring the territory with promises of an enhanced partnership and hundreds of millions of euros in investment.

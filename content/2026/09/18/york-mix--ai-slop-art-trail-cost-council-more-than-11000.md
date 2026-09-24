@@ -11,6 +11,24 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/scarborough-400th-anniversary-deckchair-trail-1.webp
+locations:
+- Central Tramway Station
+- Deckchair Trail
+- Giant Deckchair Trail
+- North Yorkshire
+- Scarborough
+people:
+- Adrian Riley
+- Hannah Grahamslaw
+- Tony Watson
+organisations:
+- AI
+- FOI
+- Freedom of Information
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough
 ---
 
 A council spent more than £11,000 on an ‘AI slop’ deckchair trail as part of a North Yorkshire town’s 400th anniversary celebration.

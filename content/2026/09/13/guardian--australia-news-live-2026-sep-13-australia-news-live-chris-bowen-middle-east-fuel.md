@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Canberra
+- Iran
+- Kangaroo Island
+- Melbourne
+- NSW
+- Seal Bay
+- South America
+- South Australia
+- Sydney
+- Victoria
+people:
+- Andrew Hastie
+- Andrew Hauser
+- Anika Wells
+- Anthony Albanese
+- Ben Carroll
+- Brad Leue
+- Chris Bowen
+- Don Farrell
+- Emily Bourke
+- Glen Waverley
+- Joel Carrett
+- John Woinarski
+- Karl Stefanovic
+- Krishani Dhanji Pauline Hanson
+- Maryanne Ellery
+- Mel
+- Melissa Doyle
+- Michele Bullock
+- Pauline Hanson
+- Sarah Hunter
+organisations:
+- AAP
+- Australia Day Council
+- Australian-first Victorian Women’s Pain Standard
+- Charles Darwin University
+- Labor
+- Liberal
+- Liberal-One Nation
+- Lisa Cox South Australia
+- MND
+- National Australia Day Council
+- News24
+- One Nation
+- RBA
+- Regional Australia Institute
+- Reserve Bank of Australia
 ---
 
 The South Australian government says there are three new detections of H5 bird flu, including an endangered Australian sea lion. Photograph: Brad Leue/Alamy

@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- India
+- Kohima
+- Myanmar
+- Nagaland
+- Oxford
+people:
+- A Peihwang Wangsa
+- Arkotong Longkumer
+- James Philip Mills
+- John Henry Hutton
+- Laura Van Broekhoven
+- Prof Dolly Kikon
+- Thamlong Phom
+- Thejao Vihienuo
+organisations:
+- Edinburgh University
+- Forum for Naga Reconciliation
+- Guardian
+- Oxford University
+- Pitt Rivers Museum
 ---
 
 Anthropologists and community leaders from Nagaland, a remote state in north-eastern India bordering Myanmar, have expressed joy and relief that human remains belonging to their ancestors that had been on display in a British museum for nearly a century are finally being returned.

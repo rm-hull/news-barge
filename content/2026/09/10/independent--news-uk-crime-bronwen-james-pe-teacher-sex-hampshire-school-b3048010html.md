@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Chippenham
+- Hampshire
+- Southampton
+- Weston Shore
+- Wiltshire
+- Wimbledon
+- Winchester Crown Court
+people:
+- Bronwen James
+- Edward Culver
+- Miss
+- Miss’
+- Snapchat
+organisations:
+- Bitterne Park School
+- Hardenhuish School
+- Wiltshire Police
 ---
 
 A PE teacher who “exploited her position” at a Hampshire school has been found guilty of having sex with a schoolboy.

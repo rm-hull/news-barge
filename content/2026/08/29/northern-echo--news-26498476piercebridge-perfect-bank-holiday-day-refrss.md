@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Darlington
+- East Cleveland
+- Newcastle
+- Piercebridge
+- River Tees
+- South Durham
+- UK
+people:
+- Dolly Parton
+- SARAH CALDECOTT
+organisations:
+- Café
+- Piercebridge Farm Shop
+- Tripadvisor
 ---
 
 With the Bank Holiday weekend approaching, many families will be searching for somewhere a little different to spend an afternoon without venturing too far from home.

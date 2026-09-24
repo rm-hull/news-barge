@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Charles’s
+- Kenya
+- London
+- UK
+- Uganda
+- United Kingdom
+people:
+- Alan Kasujja
+- Beyoncé
+- Bobi Wine
+- Charles III
+- Gen Kainerugaba
+- Harry
+- Harry-Meghan
+- Jay-Z
+- Kiryowa Kiwanuka
+- Muhoozi Kainerugaba
+- Richard Benyon
+- Yoweri Museveni
+organisations:
+- BBC
+- Duchess of Sussex
+- Duke of Sussex
+- Ministry of Defence
+- Times
+- UPDF
+- Uganda People’s Defence Force
+- Uganda Pulse
 ---
 
 Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.

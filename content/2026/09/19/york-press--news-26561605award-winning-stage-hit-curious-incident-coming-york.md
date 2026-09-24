@@ -11,6 +11,25 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21471927.jpg?type=og-image&xType=0&yType=0
+locations:
+- Barmouth
+- Grand Opera House
+- North Wales
+- UK
+- York
+people:
+- Alex Keenan
+- Charlie Brooks
+- Chris Boone
+- Ed
+- Imi Price
+- Janine Butcher
+- Joe McFadden
+- Judy
+- Mark Haddon
+- Ned Bennett
+- Simon Stephens
+organisations: []
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Technology & Software
 - Travel
+locations:
+- A1130 Middlesbrough Road
+- A19 Tees Viaduct
+- Teesside Park
+people: []
+organisations:
+- A66
+- The Northern Echo
 ---
 
 - Good afternoon, welcome to The Northern Echo's live blog on a crash on the A66.

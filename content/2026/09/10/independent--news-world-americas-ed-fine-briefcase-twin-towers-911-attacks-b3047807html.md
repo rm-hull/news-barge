@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- North Tower
+- Twin Towers
+people:
+- Ed Fine
+- Edward Fine
+- Heidi
+- Ingrid
+- Mr Fine
+- Stuart
+organisations:
+- Pentagon
+- The Mirror
+- Twin Towers
+- WTC
+- World Trade Center
 ---
 
 A man captured in an iconic photograph walking away from the Twin Towers with a black briefcase on 9/11 has spoken of how missing an elevator and taking the stairs saved his life.

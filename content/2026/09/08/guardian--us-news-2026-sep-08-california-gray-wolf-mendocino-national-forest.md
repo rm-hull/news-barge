@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- California
+- Glenn and Lake
+- Lake county
+- Mendocino
+- New Mexico
+- Sacramento Valley
+- San Francisco
+people:
+- Alicia de la Garza
+- Axel Hunnicutt
+- Brad Rasmussen
+- Donald Trump
+- Leia Barnett
+- de la Garza
+organisations:
+- CDFW
+- Guardian
+- MendoLocal.News
+- Sacramento Bee
+- Supporting America’s Ranchers”
+- US Fish and Wildlife Service
+- WildEarth Guardians
 ---
 
 A gray wolf has recently been seen in California’s Mendocino national forest for the first time since the species returned to the state 15 years ago, state wildlife officials confirmed.

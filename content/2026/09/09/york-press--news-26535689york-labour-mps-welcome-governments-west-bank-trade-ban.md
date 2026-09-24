@@ -13,6 +13,34 @@ categories:
 - York
 - News & Politics
 - Personal Finance & Investing
+locations:
+- East Jerusalem
+- Gaza
+- Israel
+- North Yorkshire
+- Palestine
+- Popular York
+- UK
+- US
+- West Bank
+- York Central
+- York Outer
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- Gideon Saar
+- Jeremy Corbyn
+- Luke Charters
+- Majdi Mohammed
+- Marco Rubio
+- Mike Huckabee
+- Netanyahu
+- Rachael Maskell
+organisations:
+- Labour
+- PA Wire
+- York Outer
 ---
 
 *(Image: AP Photo/Majdi Mohammed)*

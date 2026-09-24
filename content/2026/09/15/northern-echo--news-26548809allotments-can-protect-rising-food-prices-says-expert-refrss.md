@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bishop Auckland
+- Chester-le-Street
+- Cleveland
+- County Durham
+- Durham City
+- Middlesbrough
+- North East
+- Redcar
+- Stockton
+- West Jesmond
+people:
+- Guy Herzmark
+organisations:
+- Durham County Council
+- GSA MEDIA
+- National Allotment Society
+- Newcastle’s West Jesmond Allotments Association
 ---
 
 *(Image: GSA MEDIA)*

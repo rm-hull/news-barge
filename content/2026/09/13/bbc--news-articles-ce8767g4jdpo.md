@@ -11,6 +11,45 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60f4/live/46af49
 categories:
 - UK
 - News & Politics
+locations:
+- Abu Dhabi
+- Aras
+- China
+- Dublin
+- Ethiopia
+- Europe
+- India
+- Iran
+- Ireland
+- Israel
+- Malaysia
+- Middle East
+- New Delhi
+- Russia
+- Tehran
+- U.S.
+- UAE
+- US
+- Uachtarain
+- Ukraine
+- United Arab Emirates
+- Washington
+people:
+- Anil Trigunayat
+- Catherine Connolly
+- Cyril Ramaphosa
+- Donald Trump
+- Khaled bin Mohamed bin Zayed Al Nahyan
+- Masoud Pezeshkian
+- Narendra Modi
+- Praveen Donthi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Brics
+- Charlotte Scarr
+- International Crisis Group
+- UN
 ---
 
 ![Russia's President Vladimir Putin, India's Prime Minister Narendra Modi and China's President Xi Jinping pose for a family photo during the BRICS summit in New Delhi, India, September 12, 2026](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg)

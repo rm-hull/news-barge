@@ -11,6 +11,95 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/X7r3zyj7WG2itbTdyxCAYf-1920-80.jpg
+locations:
+- Auckland
+- Australia
+- Belarus
+- Canada
+- Cuba
+- Iran
+- NZ
+- New Zealand
+- North Korea
+- Pacific Islands
+- Phoenix Crossland
+- Russia
+- Tasman Sea
+- UK
+- US
+- USA
+- canada
+- uk
+people:
+- Adam Marshall
+- Adam Pompey
+- Ali Leiataua
+- Alofiana Khan-Pereira
+- Andrew Webster
+- Bradman Best
+- Chanel Harris-Tavita
+- Charnze Nicoll-Klokstad
+- Cody Hopwood
+- Dane Gagai
+- Demitric Vaimauga
+- Dominic Young
+- Eddie Ieremia-Toeava
+- Erin Clark
+- Fletcher Hunt
+- Fletcher Sharpe
+- Francis Manuleleua
+- Greg Marzhew
+- Harrison Graham
+- Jacob Laban
+- James Fisher-Harris
+- Jermaine McEwen
+- Jett Cleary
+- Justin Holbrook
+- Kalyn Ponga
+- Kurt Capewell
+- Lachlan Crouch
+- Mat Croker
+- Mitchell Barnett
+- Morgan Gannon
+- Newy
+- Pasami Saulo
+- Phoenix Crossland
+- Sam Healey
+- Sandon Smith
+- Taine Tuaupiki
+- Tanner Stowers-Smith
+- Te Maire Martin
+- Thomas Cant
+- Toby Winter
+- Tyson Frizell
+- Wayde Egan
+organisations:
+- Apple TV
+- Blue
+- Dolphins
+- FS2
+- Fox League
+- Fox One
+- Foxtel
+- Future Publishing
+- Knights NRL
+- NZTWatch Warriors
+- New Zealand Warriors
+- Newcastle Knights
+- NordVPN**
+- OTT
+- Penrith Panthers
+- Rabbitohs
+- Sky Sport
+- Sky Sport 1
+- Sky Sport NZ**
+- Sky Sports
+- Sky Sports Mix
+- Sky Sports**
+- Sling TV
+- Sportsnet
+- TechRadar
+- Tom's Guide
 ---
 
 ![Dominic Young and Greg Marzhew of the Newcastle Knights celebrate a win during the 2026 NRL Finals.](https://cdn.mos.cms.futurecdn.net/X7r3zyj7WG2itbTdyxCAYf.jpg)

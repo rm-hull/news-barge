@@ -12,6 +12,47 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Arab Salim
+- Arabsalim
+- Egypt
+- Iran
+- Israel
+- Jordan
+- Kharg Island
+- Lebanon
+- Middle East
+- Nabatiyeh al-Fawqa
+- Nabatiyeh al-Tahta
+- Sanandaj
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Washington
+people:
+- Andy Burnham
+- Bart
+- Donald Trump
+- Esmaeil Baghaei
+- Homer
+- John Healey
+- Mohsen Rezaei
+- Rachel Reeves
+- Tim Hawkins
+organisations:
+- Budget
+- Centcom
+- Financial Times
+- Government
+- Hezbollah
+- IRGC
+- IRNA
+- Islamic Revolutionary Guard Corps
+- Supreme National Security Council
+- US Central Command
+- US Navy
 ---
 
 Iran has said Tehran plans to establish an “exclusion zone” outside the Strait of Hormuz targeting vessels it believes are attempting to transit the strategic waterway.

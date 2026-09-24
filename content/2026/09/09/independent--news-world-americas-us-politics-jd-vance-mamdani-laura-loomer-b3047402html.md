@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- America
+- Ground Zero
+- Manhattan
+- New York
+- New York City
+people:
+- Do
+- Donald Trump
+- George Pataki
+- Hasan Piker
+- JD Vance
+- Laura Loomer
+- Maggie Haberman
+- Melania Trump
+- Ramzi Kassem
+- Rudy Giuliani
+- Zohran Mamdani
+organisations:
+- City & State
+- Day of Remembrance and Service
+- Newsmax
+- Pentagon
+- The New York Post
+- The New York Times
+- Vance
 ---
 
 Right-wing provocateur Laura Loomer publicly urged Vice President JD Vance to refuse a handshake with New York City Mayor Zohran Mamdani at an upcoming 9/11 anniversary ceremony.

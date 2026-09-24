@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Greater Manchester
+- UK
+people:
+- Andrew Renehan
+- Benoit Jauniaux
+organisations:
+- British Journal of Cancer
+- Cancer Prevention and Early Detection Theme at NIHR BRC
+- Manchester University NHS Foundation Trust
+- The University of Manchester
 ---
 
 Women who are overweight in early adulthood may be less likely to develop breast cancer after menopause due to lasting changes in the structure of their breast tissue, a new study suggests.

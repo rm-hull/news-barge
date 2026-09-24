@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Poplar Road
+- Shipley
+- West Yorkshire
+people: []
+organisations:
+- T&A
+- UGC
+- West Yorkshire Police
 ---
 
 *(Image: UGC)*

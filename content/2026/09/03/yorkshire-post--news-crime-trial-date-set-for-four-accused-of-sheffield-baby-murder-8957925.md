@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Grimesthorpe
+- Holywell Heights
+- Robey Street
+- Sheffield
+- Skopova
+- South Yorkshire
+- Wincobank
+people:
+- Andrea Skopova
+- Baby S
+- Baby S.
+- Horvath Jnr
+- Horvath Snr
+- Luke Hopkinson
+- Nina Horvathova
+- Peter Horvath Jnr
+- Peter Horvath Snr
+- Sarah Wright
+organisations:
+- Sheffield Crown Court
+- Sheffield Magistrates Court
 ---
 
 # Trial date set for four accused of Sheffield baby murder

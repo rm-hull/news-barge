@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Britain
+- England
+- PA
+people:
+- Gareth Fuller
+organisations:
+- Brownfield
+- CPRE
+- Campaign to Protect Rural England
+- Government
+- Labour
 ---
 
 # Brownfield developments should be prioritised but they’re not the panacea

@@ -13,6 +13,39 @@ image: https://static.independent.co.uk/2026/09/04/01/Gloria_Steinem_81_68.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- New York City
+- Sussex
+- U.S.
+people:
+- Abigail Disney
+- Barbra Streisand
+- Gloria Steinem
+- Harvey Fierstein
+- Hillary Clinton
+- Instagram
+- Jane Fonda
+- Jill Biden
+- Jill Filipovic
+- Julianne Moore
+- Julie Taymor
+- Kamala Harris
+- Meghan
+- Melinda French Gates
+- Nancy Pelosi
+- Oprah Winfrey
+- Rachel Cargle
+- Roxane Gay
+organisations:
+- AP
+- Duchess of Sussex
+- Facebook
+- House
+- Instagram
+- Substack
+- The Associated Press
+- The Glorias
 ---
 
 Kamala Harris, Hillary Clinton and Oprah Winfrey are among a slew of politicians, celebrities, writers and activists who are lauding Gloria Steinem as a revolutionary and inspiring figure.

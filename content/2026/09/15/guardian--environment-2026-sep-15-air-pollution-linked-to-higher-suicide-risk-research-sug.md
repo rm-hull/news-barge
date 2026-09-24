@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Science
+locations: []
+people:
+- Jess Moody
+- Jon Van Niekerk
+- Rosie Cornish
+- Stephen Burgess
+organisations:
+- Journal of Epidemiology and Community Health
+- Queen’s University Belfast
+- Royal College of Psychiatrists
+- Samaritans
+- University of Bristol
+- University of Cambridge
+- World Health Organization
 ---
 
 Air pollution is associated with an increased risk of suicide and suicidal thoughts, according to research.

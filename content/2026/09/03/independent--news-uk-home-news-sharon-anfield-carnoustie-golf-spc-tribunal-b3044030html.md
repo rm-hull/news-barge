@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Angus
+- Carnoustie Golf Links
+- Dundee
+- Montrose
+- Scotland
+people:
+- Anna Nordqvist
+- Francesco Molinari
+- Michelle Sutherland
+- Sharon Anfield
+- Tiger Woods
+organisations:
+- BH Alderwood Ltd
+- Bespoke Hotels
+- Carnoustie Golf Hotel
+- Dundee Employment Tribunal
+- Golf Digest
+- Spa Manager
 ---
 
 The spa manager at one of the most famous golf courses in the world put herself down to work 10 days in a row without telling anyone - then tried to sue over it.

@@ -13,6 +13,13 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Harlow Carr
+people: []
+organisations:
+- Brick Explorers
+- Build Stations
+- RHS Garden Harlow Carr
 ---
 
 ![](https://mmo.aiircdn.com/409/6a314d928d8abbd4334.jpg) 

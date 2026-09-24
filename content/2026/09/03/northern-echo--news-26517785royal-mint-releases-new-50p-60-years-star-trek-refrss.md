@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Atlantic Salmon
+- Kew Gardens
+- UK
+people:
+- Gene Roddenberry
+- Peter Rabbit
+- Ruth Henriquez
+- Tim Mulhall
+organisations:
+- '## Royal Mint'
+- Paramount EMEA
+- Royal Mint
+- The Royal Mint
+- Vulcan
+- eBay
 ---
 
 *(Image: Getty Images/iStockphoto)*

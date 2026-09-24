@@ -13,6 +13,22 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY5YTY1NTIyLTY1OWMtNDMwOS05MDk4LWIzNWEwMWRmZTY2Mzo5NDQ0YmQ5NS03M2E4LTRlNGUtYjI5Mi01MjRkYzFlMjA0ODg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Great Hatfield
+- Sunnybank
+- UK
+people:
+- Nigel Farage
+- Peter Auty
+- Stefan Rousseau
+organisations:
+- EU
+- Labour
+- PA Wire
+- Reform Party
+- Reform UK
+- Reform UK National Conference
+- Yorkshire Post Letters
 ---
 
 # Why is there a witchhunt against Nigel Farage and Reform UK? - Yorkshire Post Letters

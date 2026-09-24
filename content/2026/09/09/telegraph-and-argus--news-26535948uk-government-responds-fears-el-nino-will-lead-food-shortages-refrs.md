@@ -13,6 +13,38 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Africa
+- Australia
+- Downpatrick
+- Europe
+- Haringey
+- Northern Ireland
+- Pacific
+- UK
+people:
+- Adam Scaife
+- Baroness Grender
+- Baroness Ritchie
+- Dame Angela Eagle
+- Jon Super
+- Lord Harris
+- Lord Katz
+organisations:
+- Defra
+- Department for Environment, Food and Rural Affairs
+- EU
+- El Nino
+- House of Lords
+- Labour Government
+- Met Office
+- National Preparedness Commission
+- PA Wire
+- SDLP
+- Social Democratic and Labour Party
+- The Guardian
+- UN
+- United Nations
 ---
 
 *(Image: Jon Super/PA Wire)*

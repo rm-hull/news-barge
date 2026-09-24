@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/7e05b6db521477f60a45ba26b791623bb13e7202/6
 categories:
 - UK
 - News & Politics
+locations:
+- Capitol Hill
+- Kentucky
+- Ohio
+- South Dakota
+- US
+people:
+- Andy Beshear
+- Joe Biden
+- John Thune
+- Mitch McConnell
+organisations:
+- Associated Press
+- Congress
+- Pentagon
+- Senate
 ---
 
 Mitch McConnell, the former Republican Senate majority leader, returned to the Capitol on Monday and cast his first vote after a months‑long absence that fueled rampant speculation about his health.

@@ -15,6 +15,27 @@ categories:
 - History
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/G8KRG6QGgSMerE4dScxCJ9-1920-80.jpg
+locations:
+- Crimea
+- Crimean Peninsula
+- Sevastopol
+people:
+- Mark Tyson
+- Prinz
+- Tom
+organisations:
+- Allied
+- Astra
+- GPT-Astra
+- German High Command
+- Get Tom's Hardware
+- Google News
+- HMS Canterbury
+- Naval Command
+- Prinz
+- SEVASTOPOL
+- Scienceblogs.de
+- Tom's Hardware
 ---
 
 ![An &#039;unsolved&#039; encrypted World War I radio message](https://cdn.mos.cms.futurecdn.net/G8KRG6QGgSMerE4dScxCJ9.jpg)

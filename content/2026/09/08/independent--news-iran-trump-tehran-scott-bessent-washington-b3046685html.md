@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Islamic Republic
+- Kazakhstan
+- Malaysia
+- Tehran
+- Turkey
+- U.S.
+- United Arab Emirates
+- Washington
+people:
+- Scott Bessent
+- Trump
+organisations:
+- Mahan Air
+- Revolutionary Guard
+- State Department
+- Treasury
 ---
 
 The Trump administration on Tuesday imposed sanctions on additional aspects of Iran's aviation industry, targeting more than two dozen commercial and private airlines as well as foreign cargo service providers in its new push to isolate Tehran from its remaining trading partners.

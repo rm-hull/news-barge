@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '**York'
+- Clocktower Enclosure
+- Popular York
+- York Racecourse
+people:
+- James Cundall
+- Velma Celli
+organisations:
+- Brew York
+- Jamboree Entertainment
+- The Dog Haus
+- Yorktoberfest
 ---
 
 ## Popular York beer festival set to return with a twist

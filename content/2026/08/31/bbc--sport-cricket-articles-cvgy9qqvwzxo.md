@@ -14,6 +14,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Birmingham
+- Clarence House
+- Edgbaston
+- England
+- Headingley
+- Lord's
+- Multan
+- Pakistan
+- UK
+people:
+- Aamir Jamal
+- Abdullah Fazal
+- Ali Usman
+- Arafat Minhas
+- Ashley Noffke
+- Babar Azam
+- Charles
+- Imam-ul-Haq
+- Imran Khan
+- Khurram Shahzad
+- Mike Hesson
+- Mohammad Imran
+- Mohammed Imran Jr
+- Muhammad Awais Jafar
+- Muhammad Rizwan
+- Razaullah
+- Said Baig
+- Saim Ayub
+- Salman Ali Agha
+- Sarfaraz Ahmed
+- Umar Gul
+organisations:
+- Pakistan Cricket Board
+- Sky
 ---
 
 ![Pakistan wait to take the field at Lord's](https://ichef.bbci.co.uk/ace/standard/975/cpsprodpb/f797/live/36215280-a556-11f1-9acf-19576105f049.jpg)

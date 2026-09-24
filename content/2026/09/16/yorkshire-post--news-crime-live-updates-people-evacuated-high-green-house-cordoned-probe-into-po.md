@@ -16,6 +16,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- High Green
+- Mapplebeck Road
+- Sheffield
+- South Yorkshire Police
+people:
+- Ian Proffitt
+organisations:
+- The Star
 ---
 
 # LIVE: updates on evacuation in Yorkshire as police and council issue statement

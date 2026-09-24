@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Hull
+- Park Row
+- Park Street
+- Spring Bank
+- St Stephen’s
+people:
+- Coun McMurray
+- Shane McMurray
+organisations:
+- Central ward
+- HMO
+- Hull City Council
+- Hullywood Rooms
+- Labour
 ---
 
 # City hotel could be converted into a 27 bedroom HMO

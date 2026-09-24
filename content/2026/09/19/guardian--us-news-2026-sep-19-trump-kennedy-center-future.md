@@ -11,6 +11,54 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/5aabab42025908d2f674928b73abb421438c1363/175_0_1745_1397/master/1745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc2cdd7618576bc02fcb136c053ebb76
+locations:
+- Hall of States
+- Kennedy Center
+- Mass
+- Potomac River
+- US
+- White House
+people:
+- '*”* Raleigh'
+- Chris Raleigh
+- Christopher Cooper
+- Deborah Rutter
+- Donald Trump
+- Jack Kennedy
+- John F Kennedy
+- Joyce Beatty
+- Kerry Kennedy
+- Leonard Bernstein
+- Matt Floca
+- Melania
+- Michael Kaiser
+- Norm Eisen
+- Ric Grenell
+- Robert Kennedy Jr
+- Rose Kennedy
+- Sheldon Whitehouse
+- Uncle Jack
+- Wicked
+organisations:
+- Agence France-Presse
+- Air Force One
+- CNN
+- Congress
+- Democracy Defenders Action
+- East Wing
+- Hands Off the Arts
+- John F Kennedy Center for the Performing Arts in Washington DC
+- Kennedy Center
+- Kennedy Center DEMOLIS
+- Kennedy Center Honors
+- MS Now
+- Oval Office
+- Politico
+- Trump
+- Trump-Jefferson Memorial
+- Trump-Kennedy Center
+- Trump-appointed
+- Washington Post
 ---
 
 It was born with the world premiere of Leonard Bernstein’s Mass. “Young people will come here and they will see this cultural centre,” Rose Kennedy, the mother of slain US president John F Kennedy, said at that opening night gala. “They will carry some of these ideas back to their different communities.”

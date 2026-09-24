@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ceuta
+- Europe
+- Israel
+- Italy
+- Madrid
+- Melilla
+- Morocco
+- North Africa
+- Rabat
+- Russia
+- Spain
+people:
+- Abdellatif Ouahbi
+- Alberto Núñez Feijóo
+- Felipe VI
+- Pedro Sanchez
+- Pedro Sánchez
+organisations:
+- Congress of Deputies
+- EU
+- High Court
+- People's Party
 ---
 
 ![The Prime Minister, Pedro Sanchez, addresses a plenary session of the Congress of Deputies on 3 September 2026 in Madrid](https://ichef.bbci.co.uk/ace/standard/992/cpsprodpb/8fb5/live/4dfc9a20-a792-11f1-b64a-71b1e45ff5c7.jpg)

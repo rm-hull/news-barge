@@ -18,6 +18,34 @@ categories:
 - York
 - Travel
 - Sports
+locations:
+- America
+- Belgium
+- Dibble Bridge
+- England
+- Italy
+- Leyburn
+- Netherlands
+- Nidderdale
+- North Yorkshire
+- Pateley Bridge
+- Pyrenees
+- Ripon
+- Spain
+- Teesside
+people:
+- Carl Les
+- Coun Carl Les
+- God
+- Helmsley
+organisations:
+- Gerard Binks
+- Heartbeat
+- Lloyds Bank
+- Mayoral Combined Authority
+- North Yorkshire Council
+- TNT Sports
+- Thirsk
 ---
 
 # Tour of Britain shone a spotlight on North Yorkshire’s glorious landscape - Carl Les

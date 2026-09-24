@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21490981.jpg?type=og-image&yType=170
+locations:
+- County Durham
+- Darlington
+- East Wing
+- England
+- Hurworth
+- North East
+- ROCKLIFFE HALL
+- Raby Hunt
+- River Tees
+- Rockliffe Hall
+people:
+- Adam Molloy
+- Jack Adams
+- James Close
+- Manuel Ghezzi
+- Maria
+- Rockliffe
+- Shaun Hurrell
+- Shauna Robb
+organisations:
+- '![]()Rockliffe Hall'
+- AA Hospitality Awards
+- Café Terra
+- Darlington McDonald's
+- East Wing
+- Morning Room
+- North Yorkshire inn
+- Old Hall
+- Rialto
+- Rockliffe Hall
 ---
 
 Rockliffe Hall has reopened following a multimillion-pound redevelopment which has brought new restaurants, suites and public spaces to the five-star County Durham resort.

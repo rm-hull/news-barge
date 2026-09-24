@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- London
+- UK
+people:
+- Brenda
+- Ken Theobold
+- Kristian Helin
+- Martin Kaiser
+- Sophie Castell
+organisations:
+- ICR
+- Lancet Oncology
+- Myeloma UK
+- The Institute of Cancer Research
+- The Royal Marsden
+- The Royal Marsden NHS Foundation Trust
+- University of Leeds
 ---
 
 A pensioner who was given just two years to live after being diagnosed with an aggressive type of blood cancer is still alive eight years later.

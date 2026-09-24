@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Belfast
+- Crossgate Moor
+- Durham
+- JW
+- St Bedes Close
+- Velux
+people: []
+organisations:
+- JW Wood
 ---
 
 LOCATED in a quiet cul-de-sac within easy walking distance of schools, this semi-detached home in the Crossgate Moor area of Durham has everything a family could need or want, from well-presented and versatile accommodation to an attractive outdoor space.

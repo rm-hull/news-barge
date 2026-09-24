@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- BBC
+- London
+- New Orleans
+- US
+people:
+- '![Dimoldenberg'
+- Aitch
+- Amelia Dimoldenberg
+- Andrew Garfield
+- Billie Eilish
+- Daniel Kaluuya
+- Digga D
+- Dimoldenverg
+- Ghetts
+- Jennifer Lawrence
+- Jiggle Jiggle
+- Lando Norris
+- Louis Theroux
+- Paul McCartney
+- Phoebe
+- Sabrina Carpenter
+- Shania Twain
+organisations:
+- BBC Newsbeat
+- Central Cee
+- Chicken Shop Date
+- Dimoldenberg
+- Duke & Jones
+- Google YouTube
+- Rosalía
+- Theroux
 ---
 
 ![Amelia Dimoldenberg poses in a chicken shop, her chin propped on her right hand and sitting sideways in a traditional booth in front of white tiles and a menu on the wall. She has long blonde hair and blue eyes and wears a strappy checked dress.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7f5c/live/bdb95030-a84e-11f1-80f8-c33181935c5a.jpg)

@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- John Ternus
+- Lily Hay Newman
+- Siri AI
+- Tim Cook
+organisations:
+- '## Apple Watch Apple'
+- 18 Pro Max
+- Apple Health
+- Apple Upgrade
+- Apple Watch
+- Boutayna Chokrane
+- Duo
+- Google
+- WIRED
 ---
 
 It’s a brand-new era for Apple. The company is turning over leadership for the first time in 15 years, with former CEO Tim Cook handing off the reins last week to the new CEO, former Apple VP of hardware John Ternus.

@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+- China
+- Guizhou
+people:
+- Rubin
+organisations:
+- EPA
+- Get Tom's Hardware
+- Huawei
+- IntelBrief
+- Soufan Center
 ---
 
 ![electricity transmission towers](https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g-320-80.png)

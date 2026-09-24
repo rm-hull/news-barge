@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bishop Auckland
+- COUNTY DURHAM
+- Newgate Street
+- North East
+- Redcar Central
+- TEESSIDE
+people:
+- Jörd
+- Mike Bartley
+organisations:
+- Fox's Tale
+- Kickstarter
+- McCafé
+- McDonald's
 ---
 
 *(Image: BBC)*

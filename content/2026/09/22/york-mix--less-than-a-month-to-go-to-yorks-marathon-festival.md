@@ -11,6 +11,23 @@ categories:
 - York
 - Health & Fitness
 image: https://wp.theyorkmix.com/wp-content/uploads/2022/10/yorkshire-marathon-york-2022-18.jpg
+locations:
+- York Minster
+people:
+- Jane Tomlinson
+- Tristan Batley-Kyle
+organisations:
+- Altra
+- Dementia Forward
+- Jane Tomlinson Appeal
+- Macmillan Cancer Support
+- Run For All
+- St Leonard’s Hospice
+- The Island
+- University of York
+- York Foodbank
+- York Mind and Children with Cancer UK
+- Yorkshire Cancer Research
 ---
 
 The countdown is on until the return of the Altra Yorkshire Marathon Festival – with thousands of participants preparing to take to the start line in York.

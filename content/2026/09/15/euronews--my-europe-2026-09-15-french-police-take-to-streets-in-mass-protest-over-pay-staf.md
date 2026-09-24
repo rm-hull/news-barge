@@ -12,6 +12,21 @@ image: https://images.euronews.com/articles/stories/09/91/43/43/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Champs-Élysées
+- France
+- Paris
+- Rennes
+people:
+- Fabien Vanhemelryck
+- Laurent Nuñez
+organisations:
+- Alliance Police Nationale
+- Interior Ministry
+- National Assembly
+- UNSA Police
+- Un1té
+- Unité
 ---
 
 ## Mounting anger among police officers has been fuelled by a range of issues, including discontent around the special police duty allowance (ISSP), their "risk bonus", which has not gone up since 2019.

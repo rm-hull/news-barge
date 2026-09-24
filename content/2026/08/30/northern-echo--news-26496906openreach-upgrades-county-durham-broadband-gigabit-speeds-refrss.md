@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Beamish
+- County Durham
+- Dalton
+- Edmundbyers
+- Gayles
+- Martin Avery
+- Metro
+- New Brancepeth
+- Newsham
+- North East
+- North Yorkshire
+- North and Midlands
+- Rushyford
+- UK
+people:
+- Ian Murray
+- Kasam Hussain
+- Martin Avery
+organisations:
+- Openreach
+- Project Gigabit
+- UK Government
 ---
 
 *(Image: Martin Avery)*

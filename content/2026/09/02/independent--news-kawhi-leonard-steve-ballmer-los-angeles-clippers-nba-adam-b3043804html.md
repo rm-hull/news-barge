@@ -16,6 +16,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- Toronto
+people:
+- Adam
+- DeAndre Jordan
+- Dennis Robertson
+- Gillian Zucker
+- Harrison Gaines
+- Joseph Sanberg
+- Kawhi Leonard
+- Lawrence Frank
+- Pablo Torre
+- Silver
+- Steve Ballmer
+organisations:
+- Aspiration Fund Adviser LLC
+- Lexus
+- Los Angeles Clippers
+- Microsoft
+- NBA
+- Toronto Raptors
 ---
 
 The NBA imposed a sweeping punishment against the Los Angeles Clippers on Wednesday for violating salary cap circumvention rules, suspending owner Steve Ballmer for one year and forcing the team to forfeit five draft picks.

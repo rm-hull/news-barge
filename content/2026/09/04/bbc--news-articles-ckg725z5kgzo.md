@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Greg Brockman
+organisations:
+- AGI
+- AI
+- Astra
+- BBC
+- ChatGPT **
+- DseWiki
+- Nightingale Collective
+- OpenAI
+- Reuters
 ---
 
 ![A hand holds a phone which has the OpenAI logo on its screen.](https://ichef.bbci.co.uk/ace/standard/891/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg)

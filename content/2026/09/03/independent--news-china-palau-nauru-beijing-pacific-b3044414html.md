@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Beijing
+- China
+- Kiribati
+- Nauru
+- New Zealand
+- Pacific Ocean
+- Palau
+- Suva
+- Taiwan
+people:
+- Christopher Luxon
+- Nauru
+organisations:
+- PIF
+- Pacific Island Forum
 ---
 
 Leaders of Pacific nations agreed at their annual regional summit to register collective “concern” about China’s launch of a ballistic missile into their waters, they said Thursday, but failed to reach unanimous agreement on the statement and stopped short of a sterner rebuke of Beijing's actions.

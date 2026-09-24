@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Abbey Orchard Street
+- King’s Cross
+- Leeds
+- London
+- Old Bailey
+- Westminster
+people:
+- Farmanullah Sherzad
+- Farmanullah Sherzad.
+- Lisa Wilding KC
+- Sulaiman Tajzai
+- Wayne Jolley
+organisations:
+- CCTV
+- Metropolitan Police
+- Snapchat
 ---
 
 An 18-year-old has admitted murder after purchasing a knife and travelling more than 150 miles to fatally stab a man accused by his family of stalking.

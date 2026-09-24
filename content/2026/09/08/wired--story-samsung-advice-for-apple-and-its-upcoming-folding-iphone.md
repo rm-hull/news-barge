@@ -11,6 +11,29 @@ image: https://media.wired.com/photos/6a9a9f34f91d7f394a999078/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Fold8
+people:
+- Drew Blackard
+- Elizabeth Chamberlain
+- Hee-Cheul Moon
+- Nabila Popal
+- Seungki Choi
+- Z Fold8
+organisations:
+- Advanced Mechanical R&D Group
+- Apple
+- Folds
+- Galaxy Z Fold8
+- Google
+- Honor
+- International Data Corporation
+- Mobile Product Management
+- Samsung
+- Samsung’s Smartphone R&D Group
+- WIRED
+- YouGov
+- iFixit
 ---
 
 On the eve of Apple’s highly anticipated folding iPhone, Samsung isn’t feeling threatened. Instead, the folding smartphone pioneer says the competition is “absolutely welcome.”

@@ -11,6 +11,26 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Birmingham
+- Reform UK
+people:
+- Chris Flynn
+- Chris Gray
+- Chris Mason
+- Grace Braddock
+- Jesse Fox
+- Joe Pike
+- Jonny Hall
+- Laura Kuenssberg
+- Nigel Farage
+- Sam Bonham
+organisations:
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- Reform
+- WhatsApp
 ---
 
 ## Episode details

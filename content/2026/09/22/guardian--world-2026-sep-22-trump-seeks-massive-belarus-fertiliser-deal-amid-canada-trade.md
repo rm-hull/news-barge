@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/00ec2c231c1ff9196462a7ad6c4f931209db2815/281_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63d959b40dfb252ed588ece06cc29900
+locations:
+- Belarus
+- Canada
+- Minsk
+- Moscow
+- Russia
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Alexander Lukashenko
+- Donald Trump
+- Sviatlana Tsikhanouskaya
+organisations:
+- Agence France-Presse
+- Potash
+- Trump
+- Truth Social
+- US Geological Survey
 ---
 
 President Donald Trump has said he is working on a “massive” deal to buy fertiliser from Belarus, pivoting away from main supplier Canada amid an escalating trade dispute, and moving instead toward an ally of Russia.

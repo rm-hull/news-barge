@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Kings Square
+- St Lawrence Church
+- Victoria
+- York
+people:
+- Andy Mee
+- Darren Greenwood
+- Kaan Cetin
+- Nadine Waehning
+- Paul [Crossman
+- Sam Armstrong
+- Victoria Wells
+organisations:
+- Duke of York
+- School for Business and Society
+- Slip Inn
+- Sustainable Management
+- The Alcohol Free Drinks Company
+- The NoLo
+- The Swan
+- University of York
+- York CAMRA
+- York Camra
+- York St John
+- York University
 ---
 
 History was made at the York CAMRA beer festival this week, with a UK-first in judging no or low alcohol (NoLo) beers in a competition to find the best brews.

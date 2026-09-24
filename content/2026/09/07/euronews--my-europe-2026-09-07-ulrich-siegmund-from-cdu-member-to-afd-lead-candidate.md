@@ -12,6 +12,42 @@ image: https://images.euronews.com/articles/stories/09/90/26/38/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Abgeordnetenwatch
+- Bundestag
+- Germany
+- Havelberg
+- New York
+- Potsdam
+- S-Bahn
+- Saxony-Anhalt
+- Schönhausen
+- TikTok
+people:
+- '## Ulrich Siegmund'
+- Andreas
+- Julia
+- Martin Sellner
+- Oliver Kirchner
+- Otto von Bismarck
+- Tangermünde
+- Thomas Korell
+- Ulrich Siegmund
+organisations:
+- AfD
+- BVG
+- Bachelor of Arts
+- Berlin duftet
+- CDU
+- Catholic Church
+- Euronews
+- Financial Times
+- Interior Ministry
+- SPIEGEL
+- Saxony-Anhalt Office for the Protection of the Constitution
+- VOX
+- WELT
+- eBay
 ---
 
 ## Ulrich Siegmund is the AfD's leading figure in Saxony-Anhalt: 35, media-savvy and aiming to be minister-president. At the next state election he wants to lead his party into government.

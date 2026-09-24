@@ -11,6 +11,16 @@ description: 'The sound of silence: Microsoft admits that the September update i
 image: https://cdn.mos.cms.futurecdn.net/BNheaVg8e7uEWCkwVhpCPj-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Redditor
+organisations:
+- ETA
+- Google News
+- Hachette UK
+- Microsoft
+- PC
+- Reddit
 ---
 
 ![Angry woman using a Windows 11 laptop at a desk](https://cdn.mos.cms.futurecdn.net/BNheaVg8e7uEWCkwVhpCPj.jpg) 

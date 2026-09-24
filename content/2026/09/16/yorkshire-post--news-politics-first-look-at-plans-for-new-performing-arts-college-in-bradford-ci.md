@@ -13,6 +13,36 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bradford
+- Croft Street
+- Jacobs Well
+- Manchester Road
+- North of England
+- Northern England
+- South London
+- UK
+- Yorkshire
+people:
+- Adele
+- Amy Winehouse
+- Olivia Dean
+- Tom Holland
+organisations:
+- Arts
+- BPI
+- BRIT North
+- Bradford Council
+- Bradford’s
+- Brit North
+- Brit School
+- British Phonographic Industry
+- City of Culture
+- Jacobs Well Council
+- The BRIT School
+- The Council
+- UK City of Culture
+- West Yorkshire Combined Authority
 ---
 
 # First look at plans for new performing arts college in Bradford city centre

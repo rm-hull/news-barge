@@ -13,6 +13,58 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/20/21/2295205946..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Balkans
+- Brazil
+- Europe
+- France
+- Iran
+- Jordan
+- Kuwait
+- Middle East
+- New York
+- Paris
+- Riyadh Egypt
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- United States
+- Washington
+- Yemen
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Janfada
+- Marco Rubio
+- Pascal Confavreux
+- Sasan Zare
+- Trey Yingst
+organisations:
+- '## Trump'
+- Associated Press
+- Chosen Brick
+- Congress
+- Eurocontrol
+- Fox News
+- GCHQ
+- ICC
+- ILNA
+- International Criminal Court
+- Iran International
+- Muslim World League
+- National Cyber Security Centre
+- Office of Foreign Assets Control
+- Reuters
+- Tasnim
+- The Trump
+- UN General Assembly
+- US Air Force
+- US Central Command
+- US State Department
+- US Treasury
+- Wall Street Journal
 ---
 
 Donald Trump has threatened to “blow the entire nation up” in another bombastic rant against the Iranian regime, amid concerns the US is planning to scale up its war in the region.

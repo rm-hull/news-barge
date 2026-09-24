@@ -11,6 +11,12 @@ image: https://static.independent.co.uk/2026/04/14/00/ccbbae17436e54d6898f6a96de
 categories:
 - News & Politics
 - UK
+locations: []
+people:
+- Steve Critchlow
+organisations:
+- HSE
+- Health and Safety Executive
 ---
 
 A sharp increase in prosecutions over illegal gas fitting has prompted warnings against employing unregistered tradespeople.

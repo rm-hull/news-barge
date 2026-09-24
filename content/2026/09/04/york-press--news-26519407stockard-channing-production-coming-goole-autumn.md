@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Britain
+- Hollywood
+- Junction Goole
+people:
+- David Westhead
+- Graham Whitehead
+- Ms Channing
+- Samuel Beckett
+- Stockard Channing
+organisations:
+- Grease
+- Head of Arts & Culture
+- Junction Goole
+- The West Wing
 ---
 
 ## Acclaimed play directed by Hollywood Grease star coming to Goole

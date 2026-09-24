@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Duxbury
+- Massachusetts
+people:
+- '![Clancy'
+- Lindsay Clancy
+- Patrick
+organisations: []
 ---
 
 Jurors deciding the fate of Lindsay Clancy will return Tuesday for a fourth day of deliberations in her Massachusetts murder trial, with no indication yet of whether they are nearing a verdict.

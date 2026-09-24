@@ -12,6 +12,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2021/12/14/14/GettyImages-1329439547%20%281%29.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Covid
+- UK
+people:
+- John Healey
+- Michael Kill
+organisations:
+- Budget
+- NIQ
+- NTIA
+- NielsenIQ
+- Night Time Industries Association
+- pre-Covid
 ---
 
 The UK’s late-night economy has recorded its first growth in over a year, although industry representatives caution that these early signs of stability follow a contraction of more than a quarter since the start of the pandemic.

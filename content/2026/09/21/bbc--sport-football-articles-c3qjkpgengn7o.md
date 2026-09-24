@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b39a/live/f4f040d0-b5b5-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Argentina
+- Lucerne
+- Manchester City
+- North Macedonia
+- Slovenia
+- Switzerland
+people:
+- Granit Xhaka
+- Regis le Bris
+organisations:
+- Arsenal
+- Granit Xhaka
+- North Macedonia
+- Scotland
+- Sunderland
+- Swiss Football Association
+- Switzerland
 ---
 
 ![Granit Xhaka playing for Switzerland against Argentina in the 2026 World Cup quarter-final ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b39a/live/f4f040d0-b5b5-11f1-8d1d-a985658d9d3a.jpg)

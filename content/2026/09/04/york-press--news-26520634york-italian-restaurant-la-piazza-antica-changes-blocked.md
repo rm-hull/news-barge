@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Goodramgate
+- La Piazza Antica
+- Tudor
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Haydn Lewis
+- La Piazza Antica
+- Public Notice Portal
+- York Civic Trust
 ---
 
 ## 'Intrusive' changes would 'harm' York restaurant, council rules

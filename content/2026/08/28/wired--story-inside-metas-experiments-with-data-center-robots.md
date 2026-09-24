@@ -14,6 +14,41 @@ categories:
 - Science
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Altoona
+- America
+- Colorado
+- Denver
+- Indiana
+- Iowa
+- Louisiana
+- New Albany
+- Ohio
+- San Francisco
+- Texas
+- Virginia
+people:
+- Ashley Llorens
+- Dean O'Connor
+- Eric Xu
+- Francis Brennan
+- Helen Oleynikova
+- O’Connor
+- Paul Golding
+- Watney
+- Will Knight
+organisations:
+- ABB
+- Amazon
+- Analog Devices
+- Exclaim Robotics
+- Google
+- Kinova Gen3
+- Meta
+- Microsoft
+- Prometheus
+- WIRED
+- Watney Robotics
 ---
 
 Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers, according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars.

@@ -12,6 +12,29 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/17/16/46/PA-1129418.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Buckingham Palace
+- Ludlow
+- Paris
+- South Korea
+- Wales
+- Wiltshire
+people:
+- Camilla Parker-Bowles
+- Diana Spencer
+- Dodi Fayed
+- Earl Spencer
+- Elizabeth II
+- Harry
+- Henri Paul
+- Lord Mountbatten
+- Prince Charles
+- William
+organisations:
+- Princess of Wales
+- Royal Train
+- Royal Train Scandal’
+- Sunday Mirror
 ---
 
 Princess Diana had suspected King Charles of having a secret tryst with Camilla Parker-Bowles on the royal train, just months before their wedding, her brother’s memoir claims.

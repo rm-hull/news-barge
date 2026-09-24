@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313669329.jpg
+locations:
+- Canterbury
+- Earth
+- Kent
+- Kent.
+- N. meningitidis
+- UK
+people:
+- Emma Wall
+- Martin Maiden
+organisations:
+- Queen Mary University of London
+- University of Kent
+- University of Oxford
 ---
 
 ![A student being vaccinated against meningitis at the University of Kent on 18 March 2026](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313669329.jpg?w=840)

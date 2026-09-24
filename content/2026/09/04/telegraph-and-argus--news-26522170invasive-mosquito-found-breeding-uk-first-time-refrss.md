@@ -12,6 +12,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- London
+- UK
+people:
+- Jolyon Medlock
+organisations:
+- Mosquito Watch
+- UK Health Security Agency
+- UKHSA
 ---
 
 *(Image: Getty Images/iStockphoto)*

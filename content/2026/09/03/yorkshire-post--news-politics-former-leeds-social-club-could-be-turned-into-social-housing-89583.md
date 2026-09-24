@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Chapeltown
+- Grange View
+- Leeds
+- Potternewton Park
+people: []
+organisations:
+- Housing Leeds
+- Leeds City Council
 ---
 
 # Former Leeds social club could be turned into social housing

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Adana
+- Aksu
+- Antalya
+- Kepez
+- Kozan
+- Turkey
+people:
+- Hasan Kahya
+- Isa Yildirim
+organisations:
+- Anadolu Agency
 ---
 
 A volunteer firefighter died on Wednesday in Turkey after helping local emergency services tackle a large wildfire in the Mediterranean coastal province of Antalya, an official said.

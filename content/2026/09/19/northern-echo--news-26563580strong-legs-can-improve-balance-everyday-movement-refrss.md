@@ -14,6 +14,14 @@ categories:
 - Health & Fitness
 - Self-Improvement
 image: https://www.thenorthernecho.co.uk/resources/images/21474664.jpg?type=og-image
+locations:
+- Bishop Auckland
+- North Yorkshire
+people:
+- Graham Low
+- Sam Fender
+organisations:
+- Café
 ---
 
 *(Image: Alamy/PA)*

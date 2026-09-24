@@ -15,6 +15,18 @@ categories:
 - Lifestyle & Fashion
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21481867.jpg?type=og-image&xType=0&yType=90
+locations:
+- Bishop Auckland
+- Greenwell Road
+- Ireland
+- Newgate Street
+- Newton Aycliffe
+- UK
+people: []
+organisations:
+- '![]()Holland & Barrett'
+- Holland & Barrett
+- Tesco Extra
 ---
 
 Bishop Auckland is set to lose another familiar high street name this week as Holland & Barrett prepares to close its town centre branch.

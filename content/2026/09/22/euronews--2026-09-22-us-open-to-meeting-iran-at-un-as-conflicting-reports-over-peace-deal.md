@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/33/25/1200x675_cmsv2_dc4b0320-08f2-5e07-a184-61ad2cddd8fe-9923325.jpg
+locations:
+- Iran
+- Israel
+- Japan
+- New York
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Washington
+people:
+- Abbas Araghchi
+- Ali Nikzad
+- Donald Trump
+- Marco Rubio
+- Masoud Pezeshkian
+organisations:
+- Fars
+- Kyodo
+- NBC News
+- Reuters
+- Truth Social
+- UN General Assembly
 ---
 
 ## Tehran’s decision-making structures appear gripped by a war of words as conflicting reports emerge on Tuesday about an agreement to reopen the Strait of Hormuz within seven days if the US eases its military pressure.

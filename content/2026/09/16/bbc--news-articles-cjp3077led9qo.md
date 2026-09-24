@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- America
+- DC
+- Europe.
+- Germany
+- Kremlin
+- Lithuania
+- Moscow
+- Russia
+- US
+- Ukraine
+- United States
+- Warsaw
+- Washington
+- White House
+people:
+- Angel Eduardo Castro
+- Armin Papperger
+- Dmitry Peskov
+- Donald Trump
+- Donald Tusk
+- James Barnacle
+- John Ratcliffe
+- Kirill Khrameev
+- Oemis Romagoza Durruthy
+- Putin
+- Todd Blanche
+- Yaidel Delgado Suarez
+- Yuri Khrameev
+organisations:
+- CIA
+- DOJ
+- DoJ
+- FBI
+- FSB
+- Federal Security Service of Russia
+- RIS
+- Rheinmetall
+- Russian Intelligence Services
+- U.S. Department of Justice
+- US Central Intelligence Agency
+- US Department of Justice
 ---
 
 ![A sign marks the location of the U.S. Department of Justice (DOJ) headquarters building on April 30, 2025, in Washington, DC](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg)

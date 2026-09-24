@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Flushing Meadows
+- France
+- Hamburg
+- New York
+- North Carolina
+- Peru
+people:
+- Arthur Fery
+- Benjamin Bonzi
+- Cameron Norrie
+- Ignacio Buse
+- James Duckworth
+- Lorenzo Musetti
+- Tommy Paul
+organisations:
+- ATP
+- Winston-Salem Open.
 ---
 
 ![Arthur Fery plays a shot at the Cincinnati Open earlier this month](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/e9c9/live/e83ccc10-a36c-11f1-b011-8782ba6620fb.jpg)

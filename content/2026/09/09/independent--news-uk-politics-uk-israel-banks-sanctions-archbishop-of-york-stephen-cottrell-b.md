@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Anfield
+- England
+- Jerusalem
+- Palestine
+- UK
+- West Bank
+people:
+- Ed Miliband
+- Lord Wood
+- Stephen Cottrell
+organisations:
+- Commons
+- Foreign Office
+- House of Lords
+- UK Government
 ---
 
 The Archbishop of York Stephen Cottrell has welcomed the UK Government’s plan to ban goods imported from illegal Israeli settlements, while asking whether ministers should target financial institutions.

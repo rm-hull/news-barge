@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483448.jpg?type=og-image
+locations:
+- Bradford
+- Brighouse
+- Leicestershire
+- Thornton
+people:
+- Nicholas Gray
+- Olivia Fraser
+- Phil Gibbs
+- Sophie McKone
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

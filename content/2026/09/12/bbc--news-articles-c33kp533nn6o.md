@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57a4/live/cdfa40
 categories:
 - UK
 - News & Politics
+locations:
+- Caen
+- Cléon
+- France
+- Normandy
+- Rouen
+people:
+- Louis
+- Sébastien Gallois
+organisations:
+- ICI Normandie
 ---
 
 ![A derailed carriage of a passenger train in Cléon, northern France. Photo: 12 September 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg)

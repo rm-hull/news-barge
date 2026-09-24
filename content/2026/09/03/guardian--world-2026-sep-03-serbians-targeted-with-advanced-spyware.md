@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Europe
+- Moscow
+- Serbia
+- US
+- Vučić
+people:
+- Aleksandar Vučić
+- Ana Brnabić
+- Andrijana Ristic
+- John Scott-Railton
+- Milica Popović
+- Railton
+organisations:
+- Apple
+- Citizen Lab
+- Euronews Serbia TV
+- NSO Group
+- Pegasus
+- Progressive
+- Share Foundation
+- US Commerce Department
 ---
 
 At least 14 people from across Serbian civil society were targeted with advanced spyware earlier this year in what the digital rights group Share Foundation said was the largest documented wave of such infection in Serbia to date.

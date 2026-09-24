@@ -10,6 +10,29 @@ image: https://cdn.mos.cms.futurecdn.net/GgVxKibe8sGsWN2nEeUCCS-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Texas
+- US
+- Vietnam
+people:
+- Craig Hale
+organisations:
+- Adtran
+- Amazon
+- Asus
+- California-headquartered TP-Link Systems
+- Calix
+- Craig’s
+- Eero
+- FCC
+- Google News
+- Netgear
+- Nokia
+- RT
+- TP-Link Technologies
+- TechRadar Pro
+- Zyxel
 ---
 
 ![Asus RT-BE92U router on wooden table](https://cdn.mos.cms.futurecdn.net/GgVxKibe8sGsWN2nEeUCCS.jpg) 

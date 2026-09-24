@@ -13,6 +13,16 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAxZGQzMzZkLTZmMWQtNDhiZS05NzZmLTY4NGFmZmFlOWMxMzpkYzQyM2Q4Yi1lNzYyLTQxNTAtOGVmOS02YzY5MjNiYTA5YjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Philadelphia
+people:
+- Anne
+- Jack Russell
+- James Hardisty
+- Julian Norton
+- Pedro
+organisations:
+- The Yorkshire Vet
 ---
 
 # Many of my patients fared better than their owners in our 'scorchio' summer - Julian Norton

@@ -13,6 +13,18 @@ image: https://cdn.mos.cms.futurecdn.net/f5rHgMjfhkWWcCmCmjKyUj-1920-80.jpg
 categories:
 - Technology & Software
 - Society & Culture
+locations: []
+people:
+- Defender
+organisations:
+- ETA
+- Google News
+- Hachette UK
+- Microsoft Defender
+- Microsoft Defender Antivirus
+- Reddit
+- Redditor
+- Windows Latest
 ---
 
 ![Annoyed Windows 11 user looking unhappy at their laptop](https://cdn.mos.cms.futurecdn.net/f5rHgMjfhkWWcCmCmjKyUj.jpg) 

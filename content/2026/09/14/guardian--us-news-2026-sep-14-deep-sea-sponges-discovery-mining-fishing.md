@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Aleutian Islands
+- Earth
+- Guam
+- Gulf of Alaska
+- Northern Mariana Islands
+- Pacific
+- US
+people:
+- Cooper Freeman
+- Donald Trump
+- Meredith Everett
+- Sean Rooney
+organisations:
+- Alaska Fisheries Science Center
+- Center for Biological Diversity
+- National Oceanic and Atmospheric Administration
+- Noaa Fisheries’
+- Noaa’s Northwest Fisheries Science Center
+- Trump
 ---
 
 Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity.

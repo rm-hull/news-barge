@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Darlington
+- Market Square
+- UK
+people:
+- Libby McCollom
+- SARAH CALDECOTT
+organisations:
+- Band of Friends
+- Darlington Borough Council
+- Darlington Rhythm & Tunes
+- Darlington Rock n Blues Club
+- Gasto Promotions
+- Hartlepool
+- John Verity Band
+- The Addiction
+- The Boneshakers
+- The Britannia
+- The Forum Music Centre
+- The Quaker House
+- Vesuvio
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Britain
+- Cambridge
+- Cockfield
+- Coquet Valley
+- Edinburgh
+- Hollywood
+- Newcastle
+- Northumberland
+- Pointless Rothbury
+- Quiet County Durham
+- Rothbury Community Hospital
+- Stocksfield
+people:
+- Alexander Armstrong
+- Alexander Armstrong Armstrong
+- Ben Miller
+- Bernard Woolley
+- Emma Thompson-McCausland
+- Henry Armstrong
+- John Rose
+- Tom Hardy
+organisations:
+- BBC
+- Durham School
+- MI6
+- Miller Show
+- Mowden Hall School
+- Rothbury Pipe Band
+- St Mary’s Music School
+- The Armstrong
+- The Guardian
+- The Telegraph
+- Trinity College
 ---
 
 *(Image: John Rose)*

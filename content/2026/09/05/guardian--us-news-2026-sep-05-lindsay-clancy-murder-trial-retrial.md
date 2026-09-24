@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - True Crime
 - Law & Justice
+locations:
+- America
+- Massachusetts
+- Plymouth
+- Tewksbury
+- US
+people:
+- Avram Mack
+- Callan
+- Cora
+- Dalila Argaez Wendlandt
+- Dawson
+- Kevin Reddington
+- Lindsay Clancy
+- Paula Musgrove
+- Phillip Resnick
+- Shari Karney
+- Susan Clancy
+- Tim Cruz
+- William Sullivan
+organisations: []
 ---
 
 Lindsay Clancy, prosecutors, defense lawyers, the judge and millions watching on are back where they started after her five-week trial over the murder of her three children ended in a mistrial.

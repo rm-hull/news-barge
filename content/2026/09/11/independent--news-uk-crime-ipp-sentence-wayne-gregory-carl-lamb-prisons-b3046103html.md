@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- HMP Leyhill
+- HMP Woodhill
+- Lancashire
+- Milton Keynes
+- UK
+- USA
+people:
+- Alex Norris
+- Andy Burnham
+- Carl Lamb
+- Clara White
+- Danny Eggar
+- David Blunkett
+- Kayden
+- Robert Buckland
+- Thomas White
+- Wayne Gregory
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Category B HMP Gartree
+- HMP Garth
+- IPP
+- Imprisonment for Public Protection
+- Langley Trust
+- Samaritans
+- The Independent.
+- United Nations
 ---
 
 Inside a cell at on a wing for vulnerable inmates in Lancashire, Wayne Gregory left a message smeared in blood on the wall for the prison officers who found him: “Just in case I die, IPP killed me.”

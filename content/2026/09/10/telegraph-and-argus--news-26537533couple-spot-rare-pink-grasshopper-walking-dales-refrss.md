@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Barden Moor
+- Yorkshire Dales
+people:
+- John Fletcher
+organisations: []
 ---
 
 *(Image: John Fletcher)*

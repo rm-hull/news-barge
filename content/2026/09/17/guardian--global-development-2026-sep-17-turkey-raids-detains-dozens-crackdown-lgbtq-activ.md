@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ankara
+- Aydın
+- Georgia
+- Istanbul
+- Mersin
+- Turkey
+- İzmir
+people:
+- Akın Gürlek
+- Emma Sinclair-Webb
+- Recep Tayyip Erdoğan
+- Tuğba Tekerek
+organisations:
+- AFP
+- Genç LGBTI
+- Human Rights Watch
+- Kaos GL
+- LGBTQ
+- Media and Law Studies Association
+- Youth LGBTI
+- interior ministry
 ---
 
 Turkish authorities have used accusations of obscenity to justify a wave of raids and arrests targeting the LGBTQ+ community, which has grown to include journalists as well as more than 150 arrested during protests against the raids.

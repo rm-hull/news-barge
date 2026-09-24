@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Careers & Productivity
+locations:
+- BEng
+- Bradford
+- Canary Wharf
+- Sheffield
+people:
+- Aliya Iqbal
+- Bradford
+- Ms Iqbal
+organisations:
+- BEng
+- British Computer Society
+- CEng
+- CIB Tech
+- CITP
+- HSBC Group
+- Software Engineering
+- University of Bradford
 ---
 
 *(Image: Supplied)*

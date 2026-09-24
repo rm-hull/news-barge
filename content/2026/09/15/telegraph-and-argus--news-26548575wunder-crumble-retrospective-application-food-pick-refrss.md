@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Belgravia House
+- Great Horton Road
+- Ingleby Street
+- YOUR
+people: []
+organisations:
+- MAJOR Bradford
+- Public Notice Portal
+- Wunder Crumble
 ---
 
 ### What is the Public Notice Portal?

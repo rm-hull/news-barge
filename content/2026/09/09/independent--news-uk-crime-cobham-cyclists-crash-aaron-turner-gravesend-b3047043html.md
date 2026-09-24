@@ -12,6 +12,25 @@ categories:
 - UK
 - Technology & Software
 - True Crime
+locations:
+- Cobham
+- Gravesend
+- Hermitage Road
+- Kent
+- Medway Magistrates’ Court
+- Meopham
+- Round Street
+- Sole Street
+people:
+- Aaron Turner
+- Higham
+organisations:
+- CCTV
+- Ford Focus
+- Kent Police
+- Kent Police SCIU
+- Serious Collision Investigation Unit
+- The Independent
 ---
 
 A man has been charged with causing death by dangerous driving after two cyclists were killed in a crash.

@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Elon Musk
+- Patty Murray
+- Trump
+organisations:
+- DOGE
+- DRP
+- Department of Government Efficiency
+- GAO
+- Government Accountability Office
+- Musk
+- Office of Personnel Management
+- Senate Appropriations Committee
+- SpaceX
+- The Independent
+- Trump
 ---
 
 Federal workers were paid $9.5 billion not to work during the DOGE-led drive to shrink the government, according to a congressional watchdog.

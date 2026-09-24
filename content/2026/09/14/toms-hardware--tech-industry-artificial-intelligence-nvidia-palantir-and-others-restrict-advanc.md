@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Claude
+- Jensen Huang
+- Oliver Haslam
+- Tom
+organisations:
+- AI
+- Anthropic
+- C Spire
+- Fable
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Northrop Grumman
+- Novo Nordisk
+- Nvidia
+- Oliver Haslam
+- OpenAI
+- Toms Hardware
 ---
 
 ![ChatGPT, Claude, and Gemini apps on an iPhone](https://cdn.mos.cms.futurecdn.net/u9ek9duZ3S5dDDNM6EaY7k.jpg) 

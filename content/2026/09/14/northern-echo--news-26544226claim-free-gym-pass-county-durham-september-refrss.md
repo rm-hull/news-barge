@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Pixabay
+people:
+- Karen Allison
+organisations:
+- Durham County Council
+- HIITStep
+- Technogym
 ---
 
 *(Image: zakmen/Pixabay)*

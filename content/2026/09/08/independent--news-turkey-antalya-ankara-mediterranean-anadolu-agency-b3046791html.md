@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Adana
+- Aksu
+- Antalya Municipality
+- Isparta
+- Kepez
+- Mersin
+- Turkey
+people: []
+organisations:
+- Anadolu Agency
 ---
 
 Firefighters on Tuesday battled a wildfire in Turkey's Mediterranean coastal province of Antalya that forced hundreds of people from their homes and injured at least two people, the state-run news agency reported.

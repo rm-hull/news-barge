@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - History
+locations:
+- Abergavenny
+- Herefordshire
+- North Yorkshire
+- Wales
+people:
+- Daniel Solomon
+- James May.
+- Jeremy Clarkson
+- Richard Hammond
+organisations:
+- Harrogate College of Art and Technology
+- Land Rovers
+- Ripon Grammar School
+- The Smallest Cog
+- Top Gear
 ---
 
 ## Richard Hammond reveals Grand Tour cars he brought back from the shows

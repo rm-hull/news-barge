@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/13/China_US_Drug_Precursor_22_39.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- Canada
+- China
+- Mexico
+- South Korea
+- U.S.
+- United States
+people:
+- Donald Trump
+- Xi Jinping
+organisations:
+- Commerce Ministry
+- U.S. Supreme Court
 ---
 
 China said Tuesday that it is now requiring permits for exports to the United States, Mexico and Canada of two additional chemicals that can be used to make illegal drugs, expanding controls on shipments to the three countries.

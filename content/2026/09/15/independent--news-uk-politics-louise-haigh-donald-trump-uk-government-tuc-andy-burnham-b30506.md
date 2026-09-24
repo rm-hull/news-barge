@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- Brighton
+- U.S.A.
+- UK
+- US
+people:
+- Andy Burnham
+- Dario Amodei
+- Donald Trump
+- Jonathan Reynolds
+- Liam Byrne
+- Louise Haigh
+- Ms Haigh
+- Paul Nowak
+- Sam Altman
+organisations:
+- AI Security Institute
+- Anthropic
+- BBC Breakfast
+- Commons Business, Innovation, Science and Trade Committee
+- Elon Musk
+- OpenAI
+- PA
+- SpaceXAI
+- Stefan Rousseau
+- TUC
+- UK Government
 ---
 
 Artificial intelligence (AI) poses “huge risks” to national security unless the proper safeguards can be put in place, First Secretary Louise Haigh has warned.

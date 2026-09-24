@@ -12,6 +12,38 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21483561.jpg?type=og-image
+locations:
+- Museum Gardens
+- Our Yorkshire Farm
+- Ravenseat
+- Swaledale
+- The York
+- York Dog Park
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Anty John
+- Clive Owen
+- Jocelyn Palmer
+- Miles Owen
+- What Reuben
+organisations:
+- Anty John's
+- Channel 4
+- Channel 5
+- Clive and Kids
+- Fanciest Female
+- Handsomest Dog
+- Jessica Moses
+- Jessica Moses Photography
+- More4
+- Museum Gardens
+- Our Farm Next Door
+- The Yorkshire Shepherdess
+- York Dog Show
+- York Museum Gardens
+- York Museums Trust
+- Yorkshire Shepherdess
 ---
 
 *(Image: Jessica Moses Photography)*

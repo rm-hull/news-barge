@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ashe County
+- Gastonia
+- North Carolina
+- White House
+people:
+- Donald Trump
+- Helene
+- Melania Trump
+- Michael Whatley
+- Roy Cooper
+organisations:
+- AI
+- Congress
+- Republican National Committee
+- Senate
 ---
 
 First lady Melania Trump is scheduled to travel to northwestern North Carolina on Tuesday where she will speak with elementary school students, teachers, and staff about classroom technology.

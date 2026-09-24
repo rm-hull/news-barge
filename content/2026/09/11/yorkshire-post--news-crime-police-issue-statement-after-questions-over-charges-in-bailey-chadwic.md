@@ -14,6 +14,19 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Bailey Chadwick
+- Glasshouses
+- Harrogate Magistrates’ Court
+- Lupton Bank
+- Pateley Bridge
+people:
+- Bailey Chadwick
+- Joseph Henry Stott
+organisations:
+- CPS
+- Crown Prosecution Service
+- North Yorkshire Police
 ---
 
 # Police issue statement after questions over charges in Bailey Chadwick case

@@ -13,6 +13,28 @@ image: https://cdn.mos.cms.futurecdn.net/idpsZZhdNRpeivNkS6A56g-2000-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Columbus
+- Ohio
+- US
+people:
+- Alex Blake
+- Andrew Ginther
+- Donald Trump
+- Flock
+organisations:
+- ALPR
+- Air Force One
+- Apple
+- Creative Bloq
+- Flock
+- Google News
+- Ipsos
+- MacFormat
+- Reuters
+- TechRadar
+- USA Today
+- iMore
 ---
 
 ![Donald Trump during a speech next to a photo of a Flock camera](https://cdn.mos.cms.futurecdn.net/idpsZZhdNRpeivNkS6A56g.jpg) 

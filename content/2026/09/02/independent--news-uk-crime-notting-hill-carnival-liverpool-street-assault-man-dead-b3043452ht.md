@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/09/02/13/2026-08-31T162108Z_1857530
 categories:
 - News & Politics
 - UK
+locations:
+- Barking
+- Central
+- Drydock Square
+- Europe
+- Highbury Corner Magistrates’ Court
+- Liverpool Street
+- London
+- Notting Hill Carnival
+people:
+- Jeremiah Maximo
+- Sam Blackburn
+organisations:
+- BTP
+- British Transport Police
+- Met Police
+- Metropolitan Police
+- Scotland Yard
 ---
 
 A man has died after being assaulted on a London Underground platform while making his way home from Notting Hill Carnival on Sunday night.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Florida
+- Fort Myers
+- Piper’s Bonita Springs
+- Starke
+- US
+people:
+- Curtis Wilkie Beasley
+- Daniel Owen Conahan Jr
+- Harold Gene Lucas
+- Jill Piper
+- Jordan Kirkland
+- Richard Byrd Jr
+- Ron DeSantis
+- Terri Rice
+organisations:
+- Department of Corrections
 ---
 
 A Florida man convicted of killing a 16-year-old girl who rejected his romantic advances and wounding two of her friends was set to be executed Tuesday evening.

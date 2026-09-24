@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- England
+- Lambeth
+- London Underground
+- Wales
+people:
+- DS Ridgewell
+- Derek Ridgewell
+- Joanna Gilmore
+- Lucy D’Orsi
+- Matt Foot
+- Mattia Pinto
+- Winston Trew
+organisations:
+- Appeal
+- BBC
+- BTP
+- British Transport Police
+- CPS
+- D’Orsi’s
+- Ministry of Justice
+- Oval Four
+- University of York
 ---
 
 Convictions that imprisoned police officers were involved in obtaining should be automatically reviewed to correct miscarriages of justice such as those perpetrated by the corrupt and racist officer DS Derek Ridgewell, a report says.

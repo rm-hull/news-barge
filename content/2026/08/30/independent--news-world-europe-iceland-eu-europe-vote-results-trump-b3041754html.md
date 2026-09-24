@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- China
+- Denmark
+- Greenland
+- Iceland
+- Reykjavik
+- Schengen
+- U.S.
+people:
+- Daniel Bjarkason
+- Donald Trump
+- Kristrún Frostadóttir
+organisations:
+- EU
+- European Commission
+- European Union
+- NATO
+- RUV
+- Vikings
 ---
 
 Iceland has rejected a proposal to restart negotiations on joining the European Union.

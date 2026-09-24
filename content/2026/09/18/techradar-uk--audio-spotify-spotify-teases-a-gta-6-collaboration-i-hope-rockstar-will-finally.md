@@ -13,6 +13,24 @@ image: https://cdn.mos.cms.futurecdn.net/DaoW3R2z3NM8seL2WEAqoh-1920-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- LA
+- Miami
+- New York
+- US
+people:
+- Morgan Wallen
+- Pinkpantheress
+- Rowan Davies
+- Travis Scott
+organisations:
+- Future
+- GTA 6
+- Google News
+- Reddit
+- Rockstar
+- Spotify
+- TechRadar
 ---
 
 ![A Spotify GTA 6 billboard next to a promo photo for GTA 6](https://cdn.mos.cms.futurecdn.net/DaoW3R2z3NM8seL2WEAqoh.jpg) 

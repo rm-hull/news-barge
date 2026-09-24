@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- A66
+- Acklam Road
+- Marton
+- Middlesbrough
+- Normanby Road
+- Ormesby
+- South Bank
+- St John The Evangelist Church
+- St John's Church
+- Teesville
+people:
+- Cole Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- John Wrintmore
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Mr Matusiak
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- Cleveland Police
+- Lamborghini
+- Rolls Royce
 ---
 
 # Hundreds gather in Middlesbrough for first A66 crash funeral

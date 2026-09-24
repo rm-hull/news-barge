@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Missouri
+- U.S.
+people:
+- Denny Hoskins
+- Donald Trump
+- Stephen Clark
+organisations:
+- Supreme Court
+- The Associated Press
+- Trump
 ---
 
 Federal judge allows Missouri’s top court to hold contempt hearing in redistricting dispute

@@ -14,6 +14,63 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bacup
+- Birkenhead
+- Bolton
+- Bootle
+- Burnley
+- Bury
+- Crewe
+- Fleetwood
+- Gateshead
+- Hanley
+- Leeds
+- Oldham
+- Rochdale
+- Salford
+- Sheffield
+- UK
+- Wakefield
+- West Yorkshire
+people:
+- Evans
+organisations:
+- Accell Group
+- Adidas
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- Clarks
+- Crocs
+- EcoJet Airlines
+- European Cargo
+- InPost
+- LK Bennett
+- Leading Labels
+- Modella Capital
+- Mondella Capital
+- Morrisons
+- Nike
+- Original Factory
+- Quiz
+- Raleigh
+- Skechers
+- Sunderland
+- Superdrug
+- TG Jones
+- The Sun
+- Timberland
+- Wayfairer Travel Limited
+- Whitbread
+- Wynsors Shoe
+- Wynsors Shoes
+- Wynsors World of Shoes
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Pixabay)*

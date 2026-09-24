@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://mmo.aiircdn.com/409/6aad7003959ce8c5644.jpg
+locations:
+- Great Ayton
+- Mount Everest
+- North Yorkshire
+people:
+- Chris Doey
+- Pete Egerton
+- Roseberry Topping
+organisations:
+- Bettys
+- Community Interest Company
+- Harrogate Spring Water
+- Play2EmpowHER
+- Sporting Influence Foundation
+- Your Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6aad7003959ce8c5644.jpg)

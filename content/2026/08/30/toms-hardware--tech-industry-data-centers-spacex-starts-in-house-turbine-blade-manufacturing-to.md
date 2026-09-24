@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Memphis
+- Mount Pleasant
+- Tennessee
+- U.S.
+- USA
+- Wisconsin
+people:
+- Elon Musk
+- Tom
+- Zaranthos
+organisations:
+- AI
+- Anthropic
+- Colossus
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- Microsoft
+- Musk
+- OpenAI
+- ReplyLordVile
+- SMR
+- SpaceX
+- Stargate
+- Tesla
+- xAI
 ---
 
 ![the blades on the front fan of a jet engine](https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG.png) 

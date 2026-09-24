@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Annfield Plain
+- County Durham
+- Northern Echo
+- Paradise Lane
+- Peterlee Magistrates’ Court
+people:
+- Alan Metcalfe
+organisations:
+- County Durham
+- Dash Housing
 ---
 
 *(Image: The Northern Echo)*

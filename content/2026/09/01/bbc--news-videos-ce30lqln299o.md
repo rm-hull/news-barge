@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Japan
+- Tokyo
+people:
+- Kurumi Mori
+organisations:
+- The BBC
 ---
 
 # Cup noodles made with cold water? BBC tries Japan's viral snack

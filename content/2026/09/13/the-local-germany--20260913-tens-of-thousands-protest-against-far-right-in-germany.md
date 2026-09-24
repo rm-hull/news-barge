@@ -14,6 +14,22 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Germany
+- Hamburg
+- Munich
+- Saxony-Anhalt
+people:
+- Christoph Bautz
+- Friedrich Merz
+- Kristin Brinker
+- Pruef
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
+- Campact
 ---
 
 The Alternative for Germany (AfD) topped the vote in the eastern region of Saxony-Anhalt, and is now seeking to form the first extreme-right state government in Germany since World War II.

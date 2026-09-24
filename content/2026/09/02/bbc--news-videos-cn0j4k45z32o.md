@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Betrawati
+- Nepal
+- Nepal-Tibet
+- South Asia
+people:
+- Azadeh Moshiri
+organisations:
+- BBC
 ---
 
 # 'Nothing but mud and silt' - the village swept away by deadly floods in Nepal

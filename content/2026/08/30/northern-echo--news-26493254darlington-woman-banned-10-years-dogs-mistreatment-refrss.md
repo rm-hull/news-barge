@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- County Durham
+- Darlington
+- Newton Aycliffe Magistrates’ Court
+- North East
+- Rockell Avenue
+people:
+- Bichon Frise
+- Jenna Reed
+- Jim
+organisations:
+- RSPCA
 ---
 
 *(Image: RSPCA)*

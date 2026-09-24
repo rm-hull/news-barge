@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Bradford
+- Oaks Lane
+people:
+- Aneesa Khalifa
+organisations:
+- Argus
+- Dixon Allerton Academy
+- Dixons Academies Trust
+- Dixons Allerton Academy
 ---
 
 *(Image: Supplied)*

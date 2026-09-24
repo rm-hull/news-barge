@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 - Pets & Animals
+locations:
+- Amazon
+- Andes
+- Bolivia
+- Inca Empire
+- Peru
+- South America
+- Yungas
+people:
+- Paola Nogales Ascarrunz
+organisations: []
 ---
 
 Scientists have identified a new tiger cat species in the cloud forest region of Bolivia, marking the first discovery of a living feline in over a century.

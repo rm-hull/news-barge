@@ -11,6 +11,30 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations: []
+people:
+- Ann Dunwoody
+- Mark Davies
+- Mary Hubbard
+- Matt Mullenweg
+- Slack
+- Sue Decker
+- Toni Schneider
+organisations:
+- 404 Media
+- Automattic
+- Board
+- CFO
+- Mullenweg
+- Pocket Casts
+- Slack
+- TechCrunch
+- Tumblr
+- WP Engine
+- WooCommerce
+- WordPress
+- WordPress.com
+- WordPress.org
 ---
 
 Matt Mullenweg, the founder and CEO of Automattic, best known as the parent company of WordPress.com, has been put on a leave of absence by his board against his will, according to a Slack message seen by TechCrunch.

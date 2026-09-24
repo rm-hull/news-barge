@@ -15,6 +15,23 @@ categories:
 - Science
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- UK
+people:
+- Chris Sherwood
+- Elon Musk’s X
+- Keir Starmer
+- Lisa Nandy
+organisations:
+- Apple
+- Big Tech
+- European Union
+- Google
+- Meta
+- National Society for the Prevention of Cruelty to Children
+- Snap
+- WIRED
 ---
 
 In June, the UK government told Big Tech it had three months to make taking, viewing, or sharing images of child nudity on their devices impossible. “I expect tech firms to make that happen,” said then prime minister Keir Starmer. “But if they choose not to, then we will act and change the law.”

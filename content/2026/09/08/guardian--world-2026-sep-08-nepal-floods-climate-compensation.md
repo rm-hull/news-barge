@@ -13,6 +13,23 @@ image: https://i.guim.co.uk/img/media/eaed8dd07123749fede2b9dfe1d9e9d22992d090/9
 categories:
 - UK
 - News & Politics
+locations:
+- Bhutan
+- China
+- Earth
+- Himalayas
+- India
+- Nepal
+- Paris
+- Tibet
+- Trishuli River
+- US
+people:
+- Donald Trump
+- Shisir Khanal
+organisations:
+- Guardian
+- UN
 ---
 
 Nepal is demanding $20m in climate compensation for the recent devastating floods, as a senior minister called on the world’s most polluting countries to “wake up” and accept shared responsibility for a disaster that led to the death or disappearance of more than 6,000 people.

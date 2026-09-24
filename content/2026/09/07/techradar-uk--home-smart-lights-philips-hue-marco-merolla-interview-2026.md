@@ -11,6 +11,27 @@ description: The team at Philips Hue isn't just using AI for its own sake, and M
 image: https://cdn.mos.cms.futurecdn.net/JyMqRSWC9EKECK7fYn9JCm-800-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- Bridgeless
+people:
+- Liane
+- Marco Merolla
+organisations:
+- AI
+- Consumer Connected Lighting
+- Google News
+- Merolla
+- PC Format
+- PC Plus
+- Philips Hue
+- Philips Hue Bridge Zigbee
+- SCA
+- Screen Sync
+- Signify
+- SpatialAware
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Philips Hue smart light](https://cdn.mos.cms.futurecdn.net/JyMqRSWC9EKECK7fYn9JCm.jpg) 

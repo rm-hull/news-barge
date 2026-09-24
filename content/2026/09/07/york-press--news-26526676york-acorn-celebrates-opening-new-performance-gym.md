@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Thanet Road
+- West Bowling
+people:
+- Jamie Peacock
+organisations:
+- )* York Acorn ARLFC
+- BLK BOX
+- Bradford Bulls
+- Leeds Rhinos
+- York Acorn
+- York Acorn gym York Acorn ARLFC
 ---
 
 ## Rugby league legend Jamie Peacock opens new York Acorn gym

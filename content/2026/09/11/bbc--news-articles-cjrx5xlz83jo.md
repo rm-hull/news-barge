@@ -14,6 +14,27 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Canada
+- Edinburgh
+- Edinburgh.
+- Glasgow
+- Rockstar North
+- UK
+people:
+- Dayne Oram
+- Jason
+- Lucia
+- Lucy Wiseman
+- Thomas Cordrey
+organisations:
+- GTA
+- Grand Theft Auto
+- Grand Theft Auto 6
+- IWGB
+- Independent Workers' Union of Great Britain
+- Rockstar Games'
+- Rockstar North
 ---
 
 ![Dayne Oram looking straight at the camera. Oram is wearing a white t-shirt over a white shirt and has a ginger beard and long ginger hair swept back. Oram has black framed glasses.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ed64/live/10265130-adf7-11f1-ad53-0d91a06f3150.jpg)

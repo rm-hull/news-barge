@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bishop Auckland
+- County Durham
+- North East
+- Princes Street
+- St Peter’s Church
+people:
+- Stan Laurel
+organisations:
+- County Durham
+- Darlington Fire and Rescue
 ---
 
 *(Image: GOOGLE)*

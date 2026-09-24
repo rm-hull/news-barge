@@ -12,6 +12,29 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- AI
+- U.K.
+people:
+- Fidji Simo
+- Josh Payne
+- Nick Clegg
+- Nscale
+- Sheryl Sandberg
+- Susan Decker
+organisations:
+- AGI
+- AI
+- Bloomberg
+- Facebook
+- Fidji
+- IPO
+- Instacart
+- Meta
+- No. 2
+- Nscale
+- OpenAI
+- Shopify
 ---
 
 Nscale, the buzzy U.K.-based AI data center startup, has appointed former OpenAI, Meta, and Instacart executive Fidji Simo to its board.

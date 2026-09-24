@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Pacific
+people:
+- John Ternus
+- Tim Cook
+organisations:
+- Apple TV
+- Bloomberg
+- Mac Mini
+- Mac Studio
+- WIRED
+- YouTube
 ---
 
 Another Apple event is almost here, though this one will likely feel a little different than the September events of lore. It’s the first Apple event since CEO Tim Cook’s departure, and might be the first time the public gets a taste of how the company’s new CEO, John Ternus, can slip into those shoes.

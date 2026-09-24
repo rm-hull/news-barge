@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Clifford Street
+- Huntington
+- Westminster Business Park
+- Wilberforce Trust
+- York
+people:
+- Don Peacock
+- Graeme Robertson
+- Harry Holmes
+- Joanna Browne
+- Nigel Emery
+- Peter Jackson
+organisations:
+- '## York Talking News'
+- Askham Bar
+- Blind and Partially Sighted Society
+- City Council
+- Dalesman
+- Evening Press
+- Partially Sighted Society
+- Post Office
+- Rotary and Lions
+- Tesco
+- The Press
+- USB
+- York Talking News
+- Yorkshire Post
 ---
 
 ## York Talking News marks 50 years with milestone 600th edition

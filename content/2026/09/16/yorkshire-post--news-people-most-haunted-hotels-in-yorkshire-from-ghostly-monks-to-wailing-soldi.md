@@ -12,6 +12,27 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Bagdale Hall Hotel
+- Lord John Darcy Suite
+- Mosborough Hall
+- Rainton
+- Sheffield
+- Whitby Railway Station
+- York
+- Yorkshire
+people:
+- Alice Peckett
+- Browne Bushell
+- Jack
+- Mad Maid
+- Tony Heape
+organisations:
+- Bay Horse Country Inn
+- Dean Court Hotel
+- Golden Fleece
+- Mosborough Hall Hotel
+- The Bay Horse Country Inn
 ---
 
 # Most haunted hotels in Yorkshire: From ghostly monks to wailing soldiers

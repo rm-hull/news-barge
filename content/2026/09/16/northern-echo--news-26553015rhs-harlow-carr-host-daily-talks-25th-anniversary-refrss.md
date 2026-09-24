@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Kirkleatham Walled Garden
+- North Yorkshire
+- North of England
+people:
+- Harlow Carr
+- Liz Thwaite
+organisations:
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
 ---
 
 *(Image: Supplied)*

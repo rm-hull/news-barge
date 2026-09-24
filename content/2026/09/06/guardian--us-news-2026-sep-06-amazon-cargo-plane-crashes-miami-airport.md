@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Florida
+- Miami
+- Miami-Dade
+- NW 25th Street
+- NW 36th Street
+- NW 67th Avenue
+- Puerto Rico
+- San Juan
+- US
+people:
+- Daniella Levine Cava
+- Kelly Nantel
+- Raied Jadallah
+- Sean Duffy
+organisations:
+- 21 Air
+- 21 Air Flight 7598
+- Amazon Air
+- Amazon Prime Air
+- FAA
+- Federal Aviation Authority
+- Guardian
+- Luis Muñoz Marín International Airport
+- MIA
+- Miami Fire
+- Miami International Airport
+- Miami-Dade Fire Rescue
+- NBC News
+- National Transportation Safety Board
 ---
 
 An Amazon cargo plane crashed at Miami international airport in Florida on Sunday afternoon after the flight, which was arriving from Puerto Rico, overshot the runway, striking several vehicles and resulting in at least five deaths.

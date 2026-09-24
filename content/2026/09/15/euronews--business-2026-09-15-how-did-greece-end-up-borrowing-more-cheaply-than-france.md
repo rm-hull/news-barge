@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - History
+locations:
+- Athens
+- Ellipse
+- Europe
+- France
+- Greece
+- Paris
+- White House
+people:
+- Alexander Stubb
+- Donald Trump
+- Emmanuel Macron
+- Roland Lescure
+organisations:
+- Cour des Comptes
+- European Commission
+- European Union
+- Fitch
+- INSEE
+- Moody's
+- OECD
+- Public Debt Management Agency
+- S&P Global
 ---
 
 ## Greece now pays less than France to borrow despite carrying more debt. Here’s how Athens rebuilt market trust while Paris lost fiscal credibility.

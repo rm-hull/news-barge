@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- '### Full'
+- Fair Bank
+- Gazz Hall
+- Owlet Road
+- Shipley
+people: []
+organisations:
+- Bradford CID
+- Crimestoppers
+- LiveChat
+- Volkswagen
+- West Yorkshire Police
 ---
 
 A man has been seriously injured in a shocking robbery in which an electric bike was stolen after it was hit by a car.

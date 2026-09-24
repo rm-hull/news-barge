@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations: []
+people:
+- Sparks
+organisations:
+- Aveda
+- Clinique
+- Color WOW
+- Décolletage Serum
+- ESPA
+- Estée Lauder
+- Estée Lauder Double Wear Primer
+- Floral Street
+- Formula Sleep Cream
+- HMRC
+- ICONIC London
+- ICONIC London Glazing
+- Lip Gloss
+- M&S Sparks
+- Pai Light Work
+- Prai Sculpting Throat
+- Sweed Le Lipstick
+- Ylang Ylang Espresso Eau de Parfum
 ---
 
 ## M&S Beauty Advent Calendar is back and better than ever – how to get it first

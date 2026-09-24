@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21478654.jpg?type=og-image&xType=0&yType=211
+locations:
+- Danby
+- Darlington
+- East Cleveland
+- Loftus
+- Marske
+- Saltburn
+- Skelton
+people:
+- Fiona Clacherty
+- Harvey Clacherty
+- Ian
+organisations:
+- Barnard Castle
+- Covid
+- Marske
+- Stonehouse Bakery
+- The Stonehouse Bakery
 ---
 
 After more than 30 years of serving bread and pastries to customers across East Cleveland, a popular bakery has announced the next phase of its expansion as it prepares to open a fourth store.

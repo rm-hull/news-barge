@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Malton
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 There was a crash in Malton last night (Wednesday).

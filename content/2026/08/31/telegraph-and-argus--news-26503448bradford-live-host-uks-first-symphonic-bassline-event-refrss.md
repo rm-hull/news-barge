@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Bradford Live
+- North
+- St George’s Hall
+- UK
+- Yorkshire
+people:
+- Jamie Duggan
+- Katie Chatburn
+- Tanya Vital
+organisations:
+- Bassline Symphony
+- DJ Q
+- Opera North Orchestra
+- TS7
+- Vital Culture UK Ltd
 ---
 
 *(Image: Promo)*

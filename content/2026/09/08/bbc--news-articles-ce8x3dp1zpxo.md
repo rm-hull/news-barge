@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bexhill
+- Birmingham
+- Cambridgeshire
+- Europe
+- Gatwick
+- Heathrow Airport
+- Ireland
+- Lanzarote
+- Manchester
+- Nats'
+- Orlando
+- Scotland
+- UK
+- UK.
+people:
+- Chloe Davis,18
+- Heidi Alexander
+- Martin Rolfe
+- Phil White
+organisations:
+- BBC Your Voice
+- British Airways
+- Chloe
+- EasyJet
+- FlightRadar
+- FlightRadar24
+- Nats
+- Ryanair
+- Virgin
+- Wizz Air
 ---
 
 ![Groups of passengers wait in Heathrow T5 after disruption on Tuesday 8 September](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/c0ba/live/df97f900-abc2-11f1-b109-879e35c24276.jpg)

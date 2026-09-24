@@ -12,6 +12,17 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/20/17/Tropical_Weather_99998.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlantic Ocean
+- Azores
+- Baja California
+- Mexico
+- Miami
+- Portugal
+people:
+- Fay
+organisations:
+- National Hurricane Center
 ---
 
 A new tropical storm has formed in the northern Atlantic Ocean but does not appear to pose a threat to land.

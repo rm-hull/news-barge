@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21477989.jpg?type=og-image&xType=0&yType=36
+locations:
+- Front Street
+- Hetton
+- Hetton-le-Hole
+- Houghton
+- Independent Saltburn
+- Logan Terrace
+- North East
+- North Yorkshire
+- Sunderland
+people:
+- Carol McGlinchey
+- Hetton-le-Hole
+- Kayley Jamieson
+- Michael & Carol
+- Sue
+- Tracey
+organisations:
+- Little Peppercorn Cafe Ltd
+- Peppercorn Cafe
+- The Little Peppercorn Tea Rooms
 ---
 
 *(Image: SUBMIT)*

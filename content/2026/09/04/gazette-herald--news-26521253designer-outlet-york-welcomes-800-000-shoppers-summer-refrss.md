@@ -14,6 +14,30 @@ categories:
 - York
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Designer Outlet York
+- South Entrance
+- UK
+- West Entrance
+people:
+- Denby
+- Fred Perry
+- Harvey Nichols
+- Mike Ashley
+- Paul Tyler
+- Radley
+organisations:
+- '**Radley London'
+- '**York McArthurGlen Designer Outlet Fraser Group'
+- '**__McArthurGlen Designer Outlet'
+- Designer Outlet York
+- Frasers Group
+- Le Creuset
+- Outlet York
+- Pic
+- R.M.Williams
+- Savante
+- York Designer Outlet
 ---
 
 Designer Outlet York welcomed more than 800,000 shoppers during a busy summer season.

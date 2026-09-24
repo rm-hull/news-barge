@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Beijing
+- China
+- U.S.
+- US
+- Washington
+people:
+- Donald Trump
+- Mao Ning
+- Xi Jinping
+organisations:
+- Alibaba
+- Alphabet
+- American AI
+- Anthropic
+- DeepSeek
+- Google
+- Moonshot AI
+- OpenAI
+- SpaceX
 ---
 
 American authorities have accused Chinese artificial intelligence firms of maliciously replicating proprietary technology from U.S. competitors, potentially straining diplomatic relations ahead of a planned summit between the leaders of the world's two largest economies later this month.

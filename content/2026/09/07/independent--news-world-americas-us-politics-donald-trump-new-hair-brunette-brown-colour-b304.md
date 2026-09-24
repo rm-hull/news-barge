@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/09/06/03/2293024720..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Bedminster
+- Gilgo Beach
+- Las Vegas
+- Morristown
+- New Jersey
+- White House
+- White House Rose Garden
+people:
+- Aaron Rupar
+- Adam Kinzinger
+- Anne Lamott
+- Donald Trump
+- George Conway
+- James Bond
+- Molly Jong-Fast
+- Paul Rudnick
+- Pierce Brosnan
+- Rex Heuermann
+- Yashar Ali
+organisations:
+- Air Force One
+- Democratic Party
+- Navy
+- The Independent
+- Trump
+- Twenty-Fifth Amendment
 ---
 
 Photos of President Donald Trump stepping off Air Force One with hair that appears to be a darker shade than his signature blonde locks have sparked speculation on the internet.

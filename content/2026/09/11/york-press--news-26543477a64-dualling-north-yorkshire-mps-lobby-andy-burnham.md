@@ -12,6 +12,39 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Barton Hill
+- Bridlington
+- Filey
+- Frank Dwyer
+- Harrogate
+- Hopgrove Roundabout
+- Malton
+- North Yorkshire
+- Scarborough
+- Selby
+- The York
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Boris Johnson
+- David Skaith
+- Frank Dwyer
+- James Manning
+- Julian Smith
+- Kevin Hollinrake
+- PA Wire
+- Tom Gordon
+organisations:
+- A64
+- Government
+- Labour
+- North Yorkshire Council
+- Number 10 North team
+- Pic
+- Road Investment Strategy
+- Treasury
 ---
 
 ## Dual A64 - North Yorkshire MPs in plea to Andy Burnham

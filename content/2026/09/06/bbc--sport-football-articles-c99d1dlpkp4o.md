@@ -11,6 +11,25 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96b8/live/e7bc1
 categories:
 - UK
 - News & Politics
+locations:
+- Poland
+- Republic of Ireland
+- Scotland
+- Switzerland
+- US
+people:
+- '** Infantino'
+- Gianni Infantino
+- Sepp Blatter
+- Victor Montagliani
+organisations:
+- BBC Sport
+- Concacaf
+- Fifa
+- Football Associations of England
+- Infantino
+- Uefa
+- Wales
 ---
 
 ![Fifa president Gianni Infantino](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/96b8/live/e7bc1650-a9ee-11f1-921b-6365210e1c9d.jpg)

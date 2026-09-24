@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A166 Stamford Bridge Road
+- A614
+- City of York
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Elvington
+- Hull
+- Kexby Bridge
+- Kexby Stray
+- Long Lane
+- Market Weighton
+- River Derwent
+- Shiptonthorpe
+- York Road
+people:
+- Kate Ravilious
+organisations:
+- A19
+- A64
+- City of York Council
+- Highways Maintenance
+- Lane Rentals Services
 ---
 
 A REMINDER that closures are planned for a major road outside York for a fortnight from tonight (Monday, September 7) while resurfacing work is carried out.

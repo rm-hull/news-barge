@@ -11,6 +11,17 @@ image: https://media.wired.com/photos/6aa44ab510c4340f2d52e7b4/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Safari
+- San Francisco
+people:
+- Safari
+organisations:
+- Apple Intelligence
+- CB2
+- Safari
+- Siri AI
+- WIRED
 ---
 
 At Apple’s recent hardware event, the software powering its foldable iPhone Duo stood out, with translucent Liquid Glass effects and vertically stacked icons. But you don’t need to snatch a folding smartphone to reap the benefits of Apple’s iOS 27 updates.

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471104.jpg?type=og-image&xType=0&yType=0
+locations:
+- Bolton Hall
+- Bolton Priory
+- Harpley
+- Priory Church
+- Westminster Abbey
+people:
+- Camilla
+- Charles III
+- Jill Timms
+- Liz Clayton
+- Nicholas Merchant
+- Shane Connolly
+- Zanna Hoskins
+organisations:
+- Bolton Abbey Estate
+- Bolton Priory
+- Eventbrite
+- SCF Northern Conference Tickets
+- Spindle
+- Sustainable Church Flowers
+- Sustainable Flower Initiative
 ---
 
 A ROYAL florist will be sharing his expertise at a new sustainability event.

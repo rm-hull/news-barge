@@ -12,6 +12,17 @@ image: https://cdn.mos.cms.futurecdn.net/ByMNXUNqG5aCx3Pbh9eGV-1480-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations: []
+people:
+- James
+organisations:
+- AI
+- AiPaper Reader
+- Boox Palma
+- Clarity Media
+- Google News
+- TechRadar
+- ViWoods AiPaper Reader
 ---
 
 ![The Boox Palma 3](https://cdn.mos.cms.futurecdn.net/ByMNXUNqG5aCx3Pbh9eGV.jpg) 

@@ -14,6 +14,15 @@ categories:
 - York
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Dana Haidan
+organisations:
+- O2 Recycle
+- Tech Rehome Network Fund
+- Virgin Media
+- Virgin Media O2
 ---
 
 *(Image: Getty Images)*

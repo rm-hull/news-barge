@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Eddystone Lighthouse
+- English Channel
+- Falmouth
+- Newlyn
+- Plymouth
+- Salcombe
+people: []
+organisations:
+- BBC Cornwall
+- BBC Devon
+- Falmouth RNLI
+- HM Coastguard
+- Maritime and Coastguard Agency
 ---
 
 ![A Shannon class lifeboat in rough swell with a wave breaking over it.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0bfe/live/8f760c20-a43b-11f1-a588-f1721d3dac68.jpg)

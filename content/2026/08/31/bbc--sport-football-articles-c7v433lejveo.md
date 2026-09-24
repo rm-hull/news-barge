@@ -12,6 +12,90 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Belgium
+- Brazil
+- Canada
+- City?
+- Crystal Palace
+- England
+- Etihad Stadium
+- Liverpool
+- London
+- Man City
+- Manchester City
+- Monaco
+- Netherlands
+- Newcastle
+- Senegal
+- Stamford Bridge
+people:
+- '## Matias Fernandez-Pardo'
+- '## Richarlison'
+- Atleti
+- Bernardo Silva
+- Bradley Barcola
+- Cody Gakpo
+- Dario Essugo
+- Davide Ancelotti
+- Deivid Washington
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Iliman Ndiaye
+- Iraola
+- Ismaila Sarr
+- Jack Grealish
+- Jonathan David
+- Joshua Zirkzee
+- Julian Alvarez
+- Lamine Camara
+- Marcus Rashford
+- Matias Fernandez-Pardo
+- Matthias Jaissle
+- Mykhailo Mudryk
+- Nico Gonzalez
+- Pedro Neto
+- Roberto de Zerbi
+- Rodri
+- Shim Mheuka
+- Simeone
+- Tijjani Reijnders
+- Tosin Adarabioyo
+- Yankuba Minteh
+organisations:
+- AS Monaco
+- Al-Hilal
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- BBC Sport
+- Barcelona
+- Blues
+- Bologna
+- Brighton
+- Chelsea
+- Crystal Palace
+- Everton
+- Fiorentina
+- Gakpo
+- Juventus
+- Lille
+- Liverpool FC
+- Manchester City
+- Manchester United
+- Ndiaye
+- Newcastle
+- Paris St-Germain
+- Parma
+- Premier League
+- Reds
+- Seagulls
+- Sevilla
+- Spurs
+- Tottenham Hotspur
+- Zirkzee
 ---
 
 ![Split image of Julian Alvarez, Cody Gakpo and Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/97ab/live/00b64170-a496-11f1-b109-879e35c24276.png)

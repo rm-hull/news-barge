@@ -17,6 +17,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Birmingham
+- Britain
+- Manchester
+people:
+- Andy Burnham
+- Dan Jukes
+- James Orr
+- Jukes’
+- Nigel Farage
+organisations:
+- Cabinet
+- House of Lords
+- Reform UK
+- Reform UK National Conference
 ---
 
 # Nigel Farage speech: Reform leader admits aides' donation comments were 'problematic' amid protester interruptions

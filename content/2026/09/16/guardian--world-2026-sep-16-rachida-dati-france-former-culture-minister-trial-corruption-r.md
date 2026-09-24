@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/70f9445555ca310c289eb929f52bfe6f63e9f405/1
 categories:
 - UK
 - News & Politics
+locations:
+- Burgundy
+- Chalon-sur-Saône
+- France
+- Japan
+- Lebanon
+- Paris
+people:
+- Carlos Ghosn
+- Emmanuel Grégoire
+- Emmanuel Macron
+- Nicolas Sarkozy
+- Rachida Dati
+organisations:
+- GDF Suez
+- MEP
+- Renault
+- Renault-Nissan
 ---
 
 Rachida Dati, a former French culture minister, has gone on trial in Paris on corruption charges linked to dealings with the Renault-Nissan carmaking group.

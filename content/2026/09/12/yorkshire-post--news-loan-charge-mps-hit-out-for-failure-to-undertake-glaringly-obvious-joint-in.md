@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- All-Party Parliamentary Loan Charge & Taxpayer Fairness Group
+- Government
+- HMRC
+- Houses of Parliament
+- IOPC
+- Independent Office for Police Conduct
+- Loan Charge Action Group
+- McCann
+- National Insurance
+- Parliamentary Group
+- Yorkshire Post
 ---
 
 # Loan Charge: MPs hit out for failure to undertake ‘glaringly obvious’ joint investigation into suicides

@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley
+- East Yorkshire
+- Hull Magistrates Court
+- Lairgate
+- Wood Lane
+people:
+- Daniel Tyler
+- Dave Higgens
+- PA Wire
+organisations: []
 ---
 
 *(Image: Dave Higgens / PA Wire)*

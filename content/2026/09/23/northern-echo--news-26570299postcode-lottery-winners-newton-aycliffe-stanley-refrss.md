@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/14351921.jpg?type=og-image&yType=43
+locations:
+- Amble
+- Castle Dene
+- County Durham
+- Newcastle
+- Newton Aycliffe
+- North East
+- North Shields
+- Northumberland
+- South Shields
+- Stanley
+- UK
+people: []
+organisations:
+- Dogs Trust
+- Maggie’s
+- NSPCC
+- Postcode Lottery
+- Postcodes
 ---
 
 *(Image: Postcode Lottery)*

@@ -12,6 +12,25 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Beckfoot Thornton
+- Belisha
+- Chat Hill Junction
+- Chat Hill Road
+- Godfrey Street
+- Leaventhorpe Lane
+- School Green
+- Thornton Road
+people:
+- Beckfoot Thornton
+- Dave Thompson
+- George
+- Mt Thompson
+- Zack
+organisations:
+- Bradford Council
+- T&A
+- Thornton Road Improvements Project
 ---
 
 Bradford Council has defended the safety measures in place during work on one of the district’s biggest road improvement schemes, following concerns raised about pedestrian access near a secondary school.

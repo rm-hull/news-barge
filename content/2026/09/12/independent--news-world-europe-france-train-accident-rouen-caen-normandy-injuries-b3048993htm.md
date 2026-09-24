@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caen
+- Cleon
+- France
+- Normandy
+- Rouen
+- Seine-Maritime
+people:
+- Jean-Benoit Albertini
+- Philippe Tabarot
+organisations:
+- Le Havre
+- SNCF
 ---
 
 At least 44 people were injured, one critically, after a passenger train derailed in Normandy, northern France, on Friday evening.

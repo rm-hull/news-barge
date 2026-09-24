@@ -13,6 +13,15 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/05/22/12/c2118604d8b4acb92afb134c48466b0aY29udGVudHNlYXJjaGFwaSwxNzc5NTM1MzUy-2.75601141.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- '"[She'
+- Andrea Booth
+- Mihaela Bonciog
+- Ms Bonciog
+organisations:
+- Cambridge Employment Tribunal
+- Pets
 ---
 
 A disabled Pets at Home worker has won over £18,000 after she was forced to walk up three flights of stairs to the toilet because she was not told about the disabled toilet for five months.

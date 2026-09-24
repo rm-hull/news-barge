@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bundibugyo
+- Congo
+- Ebola
+- Ituri
+- Kinshasa
+- Lagos
+- Nigeria
+- West Africa
+people:
+- Benjamin Muhindo
+- Jeanne Alasha
+- Justine Habineno
+- Rose Tchwenko
+- Sofia Wanito
+- Yuma Adolphe
+organisations:
+- AP
+- Adolphe's
+- Associated Press
+- Gates Foundation
+- Mercy Corps
+- Ope Adetayo
+- The Associated Press
+- World Health Organization
 ---
 
 Yuma Adolphe and his team are responsible for the safe and dignified burial of some of the people who die from Ebola in Ituri, the epicenter of history's deadliest Ebola outbreak. Nearly every day, they dig the graves, prepare the bodies and handle the coffins.

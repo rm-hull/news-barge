@@ -11,6 +11,29 @@ image: https://cdn.mos.cms.futurecdn.net/DKo7Rjbd4qwkWErVv8cF6b-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Aurora
+people:
+- Mark Tyson
+organisations:
+- Alienware
+- Andrew E. Freedman
+- Apple
+- Brandon Hill
+- Charles Jefferies Published
+- Dell Deals
+- LaptopsAcer
+- LaptopsDell
+- MacBook Air
+- MacbooksAMD
+- MacbooksApple
+- MacbooksIngenious
+- MacbooksRAM
+- Mark Tyson Published
+- Samsung Galaxy
+- UltraportablesApple
+- UltraportablesLenovo
+- Wildcat LakeBy Andrew E. Freedman
 ---
 
 # Laptops

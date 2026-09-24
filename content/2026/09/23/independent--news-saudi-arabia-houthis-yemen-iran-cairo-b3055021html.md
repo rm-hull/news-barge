@@ -14,6 +14,36 @@ categories:
 - Sports
 - History
 image: https://static.independent.co.uk/2026/09/17/22/APTOPIX_Yemen_War_5667_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Aden
+- Bab el-Mandeb Strait
+- Dhale
+- Hadramawt
+- Marib
+- Mokha
+- New America
+- Oman
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- UAE
+- United Arab Emirates
+- Yemen
+people:
+- Adam Baron
+- Ali Abdullah Saleh
+- Rashad al-Alimi
+- Taher al-Aqili
+organisations:
+- Giants Brigades
+- Islah
+- Middle East Institute
+- Muslim Brotherhood
+- National Resistance Forces
+- National Resistance and Giants
+- National Shield
+- Presidential Council
+- Southern Transitional Council
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

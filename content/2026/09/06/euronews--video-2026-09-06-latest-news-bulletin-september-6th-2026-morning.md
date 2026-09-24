@@ -12,6 +12,41 @@ image: https://images.euronews.com/articles/stories/09/90/28/65/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Albania
+- Bazar de l'Hotel de Ville
+- Belgrade
+- Berlin
+- Boston
+- Dublin
+- Europe
+- France
+- Gdańsk
+- Ireland
+- Kuching riverside
+- Paris.
+- Serbia
+- Shein
+- Tashkent
+- US
+- Uzbekistan
+- Zaporizhzhia
+people:
+- Aryana Sayeed
+- Ratko Mladic
+- Shein
+- Stefan Streit
+organisations:
+- Antonio López-Istúriz White
+- BHV
+- Booster
+- Centre of Islamic Civilisation
+- Euronews
+- European People's Party
+- General Affairs Council
+- IFA
+- London Ambulance Service
+- TCL Europe
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

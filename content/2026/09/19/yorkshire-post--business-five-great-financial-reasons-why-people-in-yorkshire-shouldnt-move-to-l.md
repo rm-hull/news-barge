@@ -16,6 +16,32 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0MDkxNTJjLTczNTQtNGZiMi05ZTJkLWUyOWE0YTVlZTU2YTo0ODQxNGYzYi1lOTNhLTRlZTMtODM5OS1mMjNiOTYwZWVmODA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- City
+- England
+- Greenwich Park
+- Humber
+- London
+- Redbridge
+- Rotherham
+- UK
+- York
+- Yorkshire
+people:
+- Sarah Coles
+- Yui Mok
+organisations:
+- AJ Bell
+- Barnsley
+- Coram Childcare
+- Greater London Authority
+- HMRC
+- Humber
+- Leeds
+- ONS
+- PPI
+- Redbridge
+- Yorkshire
 ---
 
 # Five great financial reasons why people in Yorkshire shouldn’t move to London: Sarah Coles

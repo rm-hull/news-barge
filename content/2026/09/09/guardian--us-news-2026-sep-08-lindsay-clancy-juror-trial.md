@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Australia
+- Massachusetts
+- UK
+- US
+people:
+- Lindsay Clancy
+- Paula Devlin
+- Roni Carlson
+- William Sullivan
+organisations:
+- Boston NBC
+- NBC10
+- Pandas
+- WhatsApp
 ---
 
 A lone juror in the trial of Lindsay Clancy, the Massachusetts mother accused of the murder of her three children, would not agree to acquit Clancy despite expressing reasonable doubt about whether she was guilty, the jury’s foreperson said in an interview airing Monday.

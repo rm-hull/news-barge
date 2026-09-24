@@ -13,6 +13,16 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6aa91a827878f199d15.jpg
+locations:
+- London
+- Ripon
+people:
+- Grantley Hall
+- Nuno César de Sá
+organisations:
+- Best Hotel Bar
+- Grantley Hall
+- Norton Bar
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa91a827878f199d15.jpg)

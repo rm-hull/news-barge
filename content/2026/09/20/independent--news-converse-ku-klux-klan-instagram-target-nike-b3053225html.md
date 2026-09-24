@@ -14,6 +14,25 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/20/20/Converse_Ad_Removed_72314.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Boston
+- Malden
+- Massachusetts
+- Texas
+people:
+- Chuck
+- Converse
+- Karina
+- Lee Merritt
+- Taylor
+organisations:
+- Converse
+- Instagram
+- KKK
+- Ku Klux Klan
+- Nike
+- SM Entertainment Group
+- Target
 ---
 
 The sneaker company Converse has removed a social media ad that sparked outrage among critics who viewed it as evoking the Ku Klux Klan and lynching.

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Belle Isle
+- Broom Place
+- Leeds
+people: []
+organisations:
+- Broomfield SILC
+- Google Image
+- Leeds City Council
+- SEN
+- Tilbury Douglas Construction Ltd
 ---
 
 *(Image: Norse Group)*

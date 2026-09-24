@@ -11,6 +11,71 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/17/23-0c7068eb098542e3b2f21aced90bacb2.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Antofagasta
+- Frankfurt
+- Fresnillo
+- Germany
+- Iran
+- London
+- Middle East
+- New York
+- Norway
+- Paris
+- Pollen Street
+- Strait of Hormuz
+- Sweden
+- Switzerland
+- Tehran
+- UK
+- US
+people:
+- Berenberg
+- Chris Williamson
+- Dan Coatsworth
+- Gustavo Cardenas
+- Lara Simpson
+- Masoud Pezeshkian
+- Matthew Lofting
+- Ms Simpson
+- Pezeskhian
+organisations:
+- AI
+- AIM
+- AJ Bell
+- Alliance News
+- Ashtead Technology
+- Autotrader
+- BAE Systems
+- BP
+- Babcock International
+- Bury
+- Capital Constellation
+- DFS Furniture
+- Ember Infrastructure Management
+- Endeavour Mining
+- Fresnillo
+- Halma
+- Ifo
+- Ithaca Energy
+- JD Sports
+- JD Sports Fashion
+- JPMorgan
+- Meta Platform
+- Muse
+- Pollen Street Group
+- RBC Capital Markets
+- Raspberry Pi
+- Relx
+- Reuters
+- S&P Global
+- S&P Global Market Intelligence
+- Shell
+- Treasury
+- UN
+- United Nations
+- Vistry
+- Wafra
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

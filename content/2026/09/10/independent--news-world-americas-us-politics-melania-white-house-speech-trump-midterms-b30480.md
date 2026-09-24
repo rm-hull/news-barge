@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/09/10/16/2290721704..?trim=0,2,0,2&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Dallas
+- Kennedy Center
+- Rose Garden
+- Smithsonian
+- South Lawn
+- Washington
+- Washington, D.C.
+- White House
+- White House Tennis Pavilion
+people:
+- Donald Trump
+- Melania Trump
+organisations:
+- Commission of Fine Arts
+- Committee for the Preservation of the White House
+- Daily Beast
+- East Wing
+- Executive Residence
+- GOP
+- Independent
+- National Capital Planning Commission
+- National Park Service
+- National Trust for Historic Preservation
+- Presidential Dining Room
+- Republican Party
+- Supreme Court
+- Trust for the National Mall
+- White House Historical Association
 ---
 
 First Lady Melania Trump skipped out on her husband’s GOP's midterm convention to discuss the redesign going on at the White House.

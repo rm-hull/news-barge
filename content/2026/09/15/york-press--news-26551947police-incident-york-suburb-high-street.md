@@ -13,6 +13,12 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Acomb
+- Front Street
+- North Yorkshire
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

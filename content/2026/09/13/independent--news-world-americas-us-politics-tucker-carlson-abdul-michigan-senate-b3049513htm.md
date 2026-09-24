@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/09/13/21/2026-09-07T163651Z_1591705
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Michigan
+- New York
+- Sen
+- U.S.
+people:
+- Abdul El-Sayed
+- Boy
+- Bush
+- Donald Trump
+- Gary Peters
+- Hasan Piker
+- Maga
+- Mike Rogers
+- Mike Rogers’
+- Saagar Enjeti
+- Tucker Carlson
+- Zohran Mamdani
+organisations:
+- AIPAC
+- Democratic Party
+- Senate
+- Sky News
 ---
 
 A wave of Republican attacks against two Muslim Democrats has ended with one of the most prominent right-wing commentators in the country endorsing Abdul El-Sayed for Senate.

@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21479378.jpg?type=og-image
+locations:
+- England
+- Scotland
+people:
+- Anna Barnes
+organisations:
+- National Air Traffic Services
+- Nats
+- Northern Echo
 ---
 
 * Good afternoon, welcome to this Northern Echo live breaking news blog.

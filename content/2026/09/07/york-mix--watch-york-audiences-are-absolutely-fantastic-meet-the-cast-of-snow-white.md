@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- York
+people:
+- Christian Mortimer
+- Dean Whatton
+- Harrison Taylor
+- Herman the Henchman
+- Jenny Gayner
+- Juliet Forster
+- Lucy Blenkiron
+- Marcavia McCarthy
+- Maria Popska
+- Paul Hendy
+- Richard Blenkiron
+- Richard David-Caine
+- Robin Simpson
+- Snow White
+- Stijn Keuleers
+- Tommy Carmichael
+- Willie Coppen
+organisations:
+- CBBC
+- Evolution Productions
+- Snow White
+- YTR
+- York Theatre Royal
 ---
 
 Christmas is coming to York Theatre Royal – and we met the spellbinding cast of *Snow White and the Seven Dwarfs*.

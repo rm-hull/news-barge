@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/KXq3GVvMF8cZSfbx7ukdYA-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+- Cristiano Amon
+- Prasad Kalyanaraman
+organisations:
+- '** Qualcomm'
+- AI
+- AWS
+- Amazon
+- Craig’s
+- Google News
+- Nvidia
+- SEC
+- TechRadar Pro
 ---
 
 ![AWS re:Invent 2025](https://cdn.mos.cms.futurecdn.net/KXq3GVvMF8cZSfbx7ukdYA.jpg) 

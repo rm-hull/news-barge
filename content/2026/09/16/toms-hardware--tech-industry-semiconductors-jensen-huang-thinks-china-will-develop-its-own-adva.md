@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+people:
+- Anton Shilov
+- Jensen Huang
+- Tom
+organisations:
+- AI
+- ASML
+- ArF
+- DUV
+- Get Tom's Hardware
+- Google News
+- Nvidia
+- SMEE
+- Shanghai Aishengna Electronic Technology Group
+- Shanghai Micro Electronics Equipment
+- The All-In Podcast
+- Tom’s Hardware
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5.png) 

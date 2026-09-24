@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/88b2bbf684565a235c8395f814e3c870a45b0132/1094_552_4341_3475/master/4341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15f3992ee77c73b9ba184dd07b74cbde
+locations:
+- Britain
+- Europe
+- Heathrow
+- London
+- Stockholm
+- Sweden
+- UK
+people:
+- Boris Johnson
+- Brexit
+- Charles
+- Jane Golding
+- Joyce Thomas
+- Michel Barnier
+organisations:
+- Brexit
+- EU
+- Swedish Prison and Probation Service
 ---
 
 Doubled over a Heathrow baggage trolley, the former British business director is sobbing uncontrollably, exhausted emotionally and physically after being deported from Sweden.

@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- County Durham
+- Manjaros Peterlee
+- North East
+- York Road
+people:
+- Manjaros Peterlee
+organisations:
+- A66
+- Health and Safety Officer
+- Manjaros Peterlee
+- Northern Echo
 ---
 
 *(Image: FACEBOOK/ GOOGLE)*

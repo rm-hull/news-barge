@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Havana
+- Historic Darlington
+- North East
+- North Tyneside
+- South Parade
+- Whitley Bay
+people: []
+organisations:
+- Club Havana
+- Darlington Hippodrome One
+- The Brewery
 ---
 
 *(Image: Unsplash)*

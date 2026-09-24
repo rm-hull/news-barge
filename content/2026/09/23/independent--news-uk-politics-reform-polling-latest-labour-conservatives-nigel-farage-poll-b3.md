@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/08/10/11/01KZNKQP5847NDXPSXQH1DFVGH.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+people:
+- Andy Burnham
+- Common
+- Keir Starmer
+- Kemi Badenoch
+- Luke Tryl
+- More
+- Ms Badenoch
+- Nigel Farage
+- Rupert Lowe
+- Zack Polanski
+organisations:
+- Channel 4
+- Green
+- Greens
+- Labour
+- Liberal Democrats
+- Reform UK
+- Tories
+- YouGov
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

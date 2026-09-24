@@ -13,6 +13,35 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/22/16/2026-09-22T152337Z_1552824298_RC2FONA6S9DG_RTRMADP_3_UN-ASSEMBLY-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Caribbean
+- Cuba
+- Iran
+- Islamic Republic
+- New York City
+- State of the Union
+- Tehran
+- U.S.
+- United States
+- United States of America
+people:
+- Barack Obama
+- Donald Trump
+organisations:
+- American Research Group
+- Artificial Intelligence
+- Congress
+- Democratic Socialists of America
+- General Assembly
+- Ipsos
+- Reuters
+- Reuters/Ipsos
+- State of the Union
+- Super Intelligence
+- Trump
+- U.N.
+- United Nations
+- United Nations General Assembly
 ---
 
 President Donald Trump on Tuesday left United Nations General Assembly delegates stupefied and stunned after a 40-minute speech that meandered from false boasts about his domestic economic record to threats of annihilation against Iran to an incoherent rant about why Artificial Intelligence should be referred to as "Super Intelligence" instead.

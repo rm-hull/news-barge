@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Australia
+- Canada
+- China
+- Darlington
+- Germany
+- India
+- Ireland
+- Netherlands
+- North East
+- Szcheaun
+- UAE
+- UK
+people:
+- Big Rosti
+- Paprika McShaker
+- bacon McMuffin
+organisations:
+- Chicken & Bacon McMuffin
+- Chicken & Egg McMuffin
+- Guava x Sprite
+- Guava x Sprite Zero
+- McDonald’s
+- North East McDonald's
+- Paprika McShaker Fries
+- S'Mores McFlurry
+- Szechuan Sauce
+- Teesside McDonald's
 ---
 
 McDonald's fans across the North East are about to get a taste of menu favourites usually only available thousands of miles away.

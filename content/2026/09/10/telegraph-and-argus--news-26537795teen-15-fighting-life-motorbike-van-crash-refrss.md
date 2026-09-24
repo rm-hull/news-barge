@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Halifax
+- Ovenden Way
+- Vauxhall Combo
+- White Knuckle
+people: []
+organisations:
+- '## Full'
+- Roads Policing Unit
 ---
 
 A TEENAGE boy, who was riding a motorbike, is fighting for his life following a crash with a van on a major road.

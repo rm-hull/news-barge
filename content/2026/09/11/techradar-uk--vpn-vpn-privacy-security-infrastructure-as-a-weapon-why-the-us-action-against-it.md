@@ -10,6 +10,50 @@ description: Could your favorite encrypted app be the next to fall?
 image: https://cdn.mos.cms.futurecdn.net/skSaKZsz42qMdeZZXkMAyT-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Italy
+- San Giuliano Terme
+- US
+- Washington
+people:
+- Chiara Castro
+- Harry Halpin
+- Jillian York
+- Scott Bessent
+organisations:
+- A/I
+- Associazione AI-ODV —
+- Autistici
+- Autistici/Inventati
+- Banca Etica
+- Big Tech
+- Chiara
+- EDRi
+- EU
+- Electronic Frontier Foundation
+- European Digital Rights
+- Google News
+- Inventati
+- Kurdistan Workers’ Party
+- No Trace
+- Nym Technologies
+- OFAC
+- Office of Foreign Assets Control
+- Office of the Spokesperson
+- PIR
+- PKK
+- PayPal
+- Proton
+- Public Interest Registry
+- Rai News
+- Riseup
+- Specially Designated Global Terrorists
+- TechRadar
+- Tor Project
+- Tornado Cash
+- US Departments of State
+- US Treasury
+- VPNs
 ---
 
 ![Red glowing hand going to grab text bubbles. Hacking, surveillance, censorship concept. Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/skSaKZsz42qMdeZZXkMAyT.png) 

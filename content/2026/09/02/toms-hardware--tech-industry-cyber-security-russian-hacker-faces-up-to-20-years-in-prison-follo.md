@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Hardware
 - News & Politics
+locations:
+- California
+- Cyprus
+- Northern District
+- San Francisco
+- U.S.
+- US
+- United States
+people:
+- Searzhudin Tamirlanovich Aktulaev
+- Tom
+organisations:
+- DarkVNC
+- Department of Justice
+- Etiido Uko
+- FBI
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- National Security, Cyber
+- Northern District of California
+- PC
+- Special Prosecutions Section
+- TVRAT
+- TeamViewer Remote Access Trojan
+- Tom's Hardware
 ---
 
 ![Code](https://cdn.mos.cms.futurecdn.net/irtnsHXe9yYkMhEedCNstf.jpg) 

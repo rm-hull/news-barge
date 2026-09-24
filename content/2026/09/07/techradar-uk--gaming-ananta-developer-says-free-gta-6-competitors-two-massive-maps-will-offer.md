@@ -13,6 +13,37 @@ image: https://cdn.mos.cms.futurecdn.net/9dDnUZjfGztjwL94r9Y4Ng-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Ananta.
+- China
+- China.
+- Chongxiao
+- Hangzhou
+- Lingyun
+- Los Angeles
+- Nova City
+- Shanghai
+- Tokyo
+- UK
+- Weilan Lake
+- West Lake
+people:
+- Ananta
+- Lingyun
+- Qi
+organisations:
+- Ash Qi
+- Chongxiao
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- Oriental Pearl Tower
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar Gaming
+- UNESCO World Heritage Site
 ---
 
 ![Three Ananta screenshots, two showing its Eastern and Western city maps and the third a newly released character.](https://cdn.mos.cms.futurecdn.net/9dDnUZjfGztjwL94r9Y4Ng.jpg) 

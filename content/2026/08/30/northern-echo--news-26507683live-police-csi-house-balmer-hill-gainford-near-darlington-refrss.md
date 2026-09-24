@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- Darlington
+- Gainford
+people:
+- Joshua Nichol
+organisations:
+- CSI
+- The Northern Echo
 ---
 
 - Welcome to The Northern Echo's live blog.

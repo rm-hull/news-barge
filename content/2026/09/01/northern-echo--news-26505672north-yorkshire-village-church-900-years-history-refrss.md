@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- A19
+- Cleveland Hills
+- County Durham
+- Norman
+- North Yorkshire
+- North Yorkshire St Oswald
+- Northallerton
+- Northumberland
+- Osmotherley
+- St Oswald
+- St Oswald’s
+- St Oswald’s Church
+- Stokesley
+- West Rounton
+people:
+- Denise Welch
+- James Pigott Pritchett
+- Norman
+organisations:
+- Book of Common Prayer Holy Communion
+- Common Worship Holy Communion
+- Common Worship Morning Prayer
+- Loose Women
 ---
 
 *(Image: GOOGLE)*

@@ -11,6 +11,39 @@ image: https://static.independent.co.uk/2026/09/18/12/Russia_Ukraine_War_52_28.j
 categories:
 - News & Politics
 - UK
+locations:
+- Austria
+- Azov
+- Chornomorsk
+- Crimea
+- Czech Republic
+- Europe
+- Hungary
+- Ivano-Frankivsk
+- Kyiv
+- Moscow
+- Nova Poshta
+- Odesa
+- Poland
+- Romania
+- Rostov
+- Russia
+- Serbia
+- Slovakia
+- U.S.
+- Ukraine
+- Zaporizhzhia
+- Zhytomyr
+people:
+- Sergei Sobyanin
+- Volodymyr Zelenskyy
+- Yuri Slyusar
+organisations:
+- Defense Ministry
+- EU
+- European Union
+- State Emergency Service
+- Telegram
 ---
 
 Ukrainian President Volodymyr Zelenskyy welcomed leaders and representatives from seven regional countries for talks on deepening cooperation on Friday, as overnight Russian strikes in multiple regions sparked fires and caused several deaths and injuries.

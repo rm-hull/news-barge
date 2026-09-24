@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/a68abb764595f75dbcc713b577c9ce6a655bcf8c/0_0_3790_3032/master/3790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e4b6bb383a3fc44a1a79b4984ecc46d
+locations:
+- Australia
+- Turkey
+people:
+- Anjali Sharma
+- Ben Neville
+- Francesca Muskovic
+- Frank Jotzo
+- Sarah Wheeler
+organisations:
+- Australian National University
+- Centre for Climate and Energy Policy
+- Flinders University
+- Investor Group on Climate Change
+- Melbourne Climate Futures
+- University of Melbourne
 ---
 
 An Australian government snapshot of life in 40 years has been sharply criticised for underplaying the economic and social damage expected due to the worsening climate crisis.

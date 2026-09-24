@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- A1
+- Delmont
+- Great North Road
+- Helaina
+- Leeds
+- M
+- Scarborough
+- Selby
+- South Milford
+- Walshford
+people: []
+organisations:
+- A63
+- Best Western Plus Milford Hotel
+- Christie & Co
+- Eddisons Commercial markets Central Hotel
+- Google
+- The Bridge Hotel & Spa
+- TripAdvisor
 ---
 
 ## Well-regarded hotel goes on the market for £2.8m

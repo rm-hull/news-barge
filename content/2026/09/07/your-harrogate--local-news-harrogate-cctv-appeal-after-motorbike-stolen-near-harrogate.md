@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Automotive
 - Technology & Software
+locations:
+- Cowstail Lane
+- Richard.jackson
+- Tockwith
+people: []
+organisations:
+- 1505 Jackson
+- OIC
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e58b3f12cd00ae56.jpg) 

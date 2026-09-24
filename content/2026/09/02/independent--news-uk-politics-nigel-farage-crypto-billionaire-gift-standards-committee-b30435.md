@@ -15,6 +15,33 @@ categories:
 - UK
 - True Crime
 - Sports
+locations:
+- Clacton
+- Downing Street
+- Westminster
+people:
+- Alberto Costa
+- Baroness Harriet Harman
+- Boris Johnson
+- Bridget Phillipson
+- Chris Mason
+- Christopher Harborne
+- Clacton
+- Count Binface
+- Daniel Greenberg
+- Lucy Powell
+- Nigel Farage
+organisations:
+- BBC
+- Boris Johnson Partygate
+- Commons’
+- Labour Party
+- Lib Dem
+- Privileges Committee
+- Reform UK
+- Standards Committee
+- Tories
+- Tory
 ---
 
 Nigel Farage has been warned that he could receive a “stiffer penalty” after he claimed that the result of an inquiry into his undeclared £5m donation from a crypto billionaire is rigged against him.

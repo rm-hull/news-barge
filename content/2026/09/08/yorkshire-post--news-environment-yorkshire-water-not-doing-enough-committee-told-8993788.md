@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Beverley
+- Cottingham North
+- County Hall
+- East Riding
+- East Yorkshire
+- England
+- Tony Johnson
+- Yorkshire Water
+people:
+- Adam Ashman
+- Coun Phil Redshaw
+- Coun Redshaw
+organisations:
+- East Riding Council’s Environment & Regeneration Committee
+- East Riding Of Yorkshire Council
+- Lib Dem
+- Liberal Democrat
+- Yorkshire Water
 ---
 
 # Yorkshire Water not doing enough, committee told

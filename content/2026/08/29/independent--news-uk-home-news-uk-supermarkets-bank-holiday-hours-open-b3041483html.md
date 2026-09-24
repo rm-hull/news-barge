@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- London
+- UK
+- Wales
+people: []
+organisations:
+- '![Bigger Morrisons'
+- '## Aldi'
+- '## Asda Asda'
+- '## M&S M&S'
+- '## Sainsbury'
+- Lidl
+- Sainsbury’s
+- Tesco Larger Tesco
+- Waitrose
 ---
 
 Many Britons will get to enjoy a day off on Monday for the UK’s last bank holiday until December.

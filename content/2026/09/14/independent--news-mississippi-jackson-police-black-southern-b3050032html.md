@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Jackson
+- Kentucky
+- Mississippi
+- Municipal Court
+- U.S.
+- Vicksburg
+people:
+- Black
+- Christy Spivey
+- Jarques Ratliff
+- RaShall Brackney
+- Tasia Fortune
+organisations:
+- Delta State University
 ---
 
 A man charged with murder in the hanging of a Black woman in Mississippi pleaded not guilty Monday during his first court appearance.

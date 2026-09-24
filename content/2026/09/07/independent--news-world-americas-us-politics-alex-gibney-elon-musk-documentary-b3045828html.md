@@ -13,6 +13,25 @@ categories:
 - UK
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Abu Ghraib
+- Bagram
+- Bleecker Street
+- Kamala Harris
+- Venice
+people:
+- Alex Gibney
+- Donald Trump
+- Elizabeth Holmes
+- Elon Musk
+- Leonardo da Vinci
+organisations:
+- Enron
+- Musk
+- Scientology
+- SpaceX
+- Tesla
+- Theranos
 ---
 
 Documentary filmmaker Alex Gibney has spent his career investigating powerful institutions and controversial figures, from Enron and Elizabeth Holmes to Scientology and abuses at Bagram and Abu Ghraib. But he says none compares with the power wielded by his latest subject: Elon Musk.

@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '### Auckland Avenue One'
+- '### Winchester Way One'
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- Bracken Road
+- Brinkburn Road
+- Darlington
+- Hollyhurst Road
+- North East
+- Rochester Way
+- Winchester Way
+people: []
+organisations:
+- Durham County Council
+- GOOGLE
+- National Trust
 ---
 
 *(Image: GOOGLE)*

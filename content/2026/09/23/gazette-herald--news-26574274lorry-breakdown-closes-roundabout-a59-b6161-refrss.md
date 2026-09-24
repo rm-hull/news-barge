@@ -14,6 +14,14 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21490550.jpg?type=og-image
+locations:
+- A59
+- Beckwithshaw
+- North Yorkshire
+- Otley Road
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

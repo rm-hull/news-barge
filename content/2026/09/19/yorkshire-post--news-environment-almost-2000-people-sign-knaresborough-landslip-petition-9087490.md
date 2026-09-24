@@ -15,6 +15,22 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0NzAzMGVlLTg1YmMtNDcwMC1hN2QzLTUwZGIxYmE4ZmY5NTphOTg0OGE2NC00MzkyLTQwNjktOWEzYS00OWZiNDQ0NTRiNmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Network Rail
+- North Yorkshire
+- River Nidd
+- The Knaresborough Viaduct
+- Viaduct Terrace
+people:
+- Coun Gostlow
+- Hannah Gostlow
+- Matt Walker
+- Matt Walker.
+organisations:
+- Knaresborough Town Council
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 # Almost 2,000 people sign Knaresborough landslip petition

@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/wS6jkGXv2vnZpFsMSa6kZN-2560-80.jpg
+locations:
+- Beijing
+- China
+people:
+- Anton Shilov
+- Tom
+- Ye Tianchun
+organisations:
+- Chinese Academy of Sciences
+- EUV
+- GAA
+- Get Tom's Hardware
+- Google News
+- IC World
+- IMECAS
+- Institute of Microelectronics
+- Intel
+- Samsung Foundry
+- TSMC
+- Tom’s Hardware
 ---
 
 ![Intel](https://cdn.mos.cms.futurecdn.net/wS6jkGXv2vnZpFsMSa6kZN.jpg)

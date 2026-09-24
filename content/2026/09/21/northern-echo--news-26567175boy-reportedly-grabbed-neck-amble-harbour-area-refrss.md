@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21339691.jpg?type=og-image&xType=0&yType=56
+locations:
+- Amble Harbour
+- North East
+people: []
+organisations:
+- Force
+- Northumbria Police
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Ground
+- England
+- Grace Road
+- Ireland
+- Leicester
+- New Road
+- Worcester
+people: []
+organisations:
+- England
+- Ireland
 ---
 
 # Women's ODI Cricket - 2026 Highlights : England v Ireland - 3rd ODI

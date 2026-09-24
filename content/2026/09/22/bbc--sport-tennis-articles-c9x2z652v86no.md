@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8814/live/0b3f83f0-61a7-11f0-86e4-f3deca1fe5b9.jpg
+locations:
+- Bogota
+- Britain
+- Colombia
+- New York
+- United States
+people:
+- '** Moore'
+- Andrew Carter
+- Cas
+- Tara Moore
+organisations:
+- American Arbitration Association
+- BBC Sport
+- Cas
+- Court of Arbitration for Sport
+- ITIA
+- International Tennis Integrity Agency
+- Tara Moore
+- United States District Court
+- WTA
+- Women's Tennis Association
 ---
 
 ![Tara Moore hits a shot](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8814/live/0b3f83f0-61a7-11f0-86e4-f3deca1fe5b9.jpg)

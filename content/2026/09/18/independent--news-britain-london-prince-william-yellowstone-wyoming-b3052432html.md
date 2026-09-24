@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alberta
+- Bozeman
+- Britain
+- Canada
+- Canmore
+- Latin America
+- Montana
+- Mumbai
+- Rocky Mountains
+- U.S.
+- United States
+- Wyoming
+- Yellowstone
+- Yukon Territory
+people:
+- Jason Knauf
+- Jodi Hilty
+- John F. Kennedy
+- William
+organisations:
+- Orsted
+- Yellowstone to Yukon Conservation Initiative
+- Zero Emission Maritime Buyers Alliance
 ---
 
 How does a grizzly bear cross the road? With the help of Indigenous people, ranchers and governments.

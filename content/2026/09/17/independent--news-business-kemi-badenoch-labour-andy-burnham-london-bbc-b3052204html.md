@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/18/00/99c576714c69d72f3eacbbc325
 categories:
 - News & Politics
 - UK
+locations:
+- London
+- PA
+- Wandsworth
+people:
+- Andy Burnham
+- Kemi Badenoch
+- Matt Chorley
+- Stefan Rousseau
+- Wandsworth
+organisations:
+- BBC Two’s Newsnight
+- Conservative Party
+- Department for Housing, Communities and Local Government
+- Labour
+- Wandsworth Council
 ---
 
 The Conservative Party has “instructed lawyers” to challenge government cuts to a Tory-run London council, which they say amounts to 40%.

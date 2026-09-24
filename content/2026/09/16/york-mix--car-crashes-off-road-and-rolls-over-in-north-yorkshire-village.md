@@ -12,6 +12,13 @@ categories:
 - York
 - Travel
 - Automotive
+locations:
+- Harrogate
+- North Yorkshire
+- Norwood**
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a crash in a North Yorkshire village last night (Tuesday).

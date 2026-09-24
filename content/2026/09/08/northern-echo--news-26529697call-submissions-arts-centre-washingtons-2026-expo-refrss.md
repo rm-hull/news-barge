@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Arts Centre
+- Arts Centre Washington
+- County Durham
+- North East
+people:
+- Daniel Appleby
+organisations:
+- ACW
+- Arts Centre Washington
+- Sunderland Culture
 ---
 
 *(Image: Supplied)*

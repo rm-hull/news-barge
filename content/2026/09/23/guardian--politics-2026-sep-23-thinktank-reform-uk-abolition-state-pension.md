@@ -13,6 +13,26 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/747bbc660c6a09a622781a00b6035347e048811b/968_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=437947ee0311de858ddf71bcbafe8965
+locations:
+- Britain
+- City
+- Millbank Tower
+- Ponzi
+- UK
+- White House
+people:
+- Andy Burnham
+- James Orr
+- Jonathan Brown
+organisations:
+- Bank of England
+- CFABB
+- Centre for a Better Britain’s
+- Department for Economic Growth
+- Department for Work and Pensions
+- Oval Office
+- Reform UK
+- Treasury
 ---
 
 A thinktank linked to Reform UK has called for the abolition of the state pension and £75bn worth of sweeping tax cuts in a “radical” report likely to influence the party’s platform for the next election.

@@ -12,6 +12,66 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Africa
+- Brussels
+- Canada
+- Danube River
+- Devighat Bazaar
+- Europe
+- Florida
+- France
+- Georgia
+- Iran
+- Nepal
+- Nuwakot
+- Ottawa
+- Pacific
+- Petrovaradin
+- Serbia.
+- South Luangwa
+- Tibet
+- US
+- United States
+- Washington
+- Yemen
+- Zambia
+people:
+- '**Fijihas'
+- '**Texaskilled'
+- Asma Taleb
+- Benjamin Haddad
+- Donald Trump
+- Galeanohas
+- Kevin Warsh
+- Mark Carney
+- Mike Johnson
+- Natalia Kucirkova
+- Paxtonfor
+- Pete Hegseth
+- Pramila Jayapal
+- Thomas Massie
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- AI”
+- EU
+- European Commission
+- Fed
+- Filter US
+- House
+- ICE
+- Manchester Metropolitan University
+- MediasTouch
+- Ocha
+- OpenAI
+- Public Sénat TV
+- Trump
+- Truth Social
+- UN Office for the Coordination of Humanitarian Affairs
+- US Federal Reserve
+- WMO
+- World Meteorological Organization
 ---
 
 Good morning.

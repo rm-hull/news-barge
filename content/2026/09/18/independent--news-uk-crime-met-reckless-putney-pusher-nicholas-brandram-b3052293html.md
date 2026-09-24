@@ -13,6 +13,26 @@ categories:
 - UK
 - True Crime
 - Science
+locations:
+- Chiswick
+- Hounslow
+- London
+- Putney Bridge
+people:
+- Alexia Hicks
+- Brantham
+- Dan Knowles
+- Ms Volker
+- Nicholas Brandram
+- Nick
+- Putney
+- Sophie Volker
+organisations:
+- BBC Radio 4
+- CCTV
+- Independent Office for Police Conduct
+- Met Police
+- Metropolitan Police
 ---
 
 The family of the “Putney pusher” suspect said he offered to pay for a private DNA test to try to clear his name, as they slammed the Metropolitan Police as “negligent” and “reckless” in its handling of his investigation before his death.

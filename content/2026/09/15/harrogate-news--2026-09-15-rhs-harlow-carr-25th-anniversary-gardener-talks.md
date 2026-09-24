@@ -12,6 +12,28 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Harrogate
+- Main Bridge
+- North Yorkshire
+- North of England
+- Woodlands
+people:
+- Andrew Willocks
+- Ben Rushworth
+- Emily Marston
+- Harlow Carr
+- Katy Trohear
+- Liz Thwaite
+- Molly Turgoose
+- Steph Carr
+organisations:
+- '## Access Logistics and Registry Protocols'
+- Harrogate Informer
+- Main Border Management
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
+- Royal Horticultural Society
 ---
 
 **HARROGATE** — Regional tourism leads and environmental specialists have detailed a new public event series on the edge of the town, unlocking backstage access to one of the North of England’s most prominent botanical archives.

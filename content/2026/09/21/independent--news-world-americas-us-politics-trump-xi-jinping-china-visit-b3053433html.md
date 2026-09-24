@@ -12,6 +12,56 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/20/11/qMzsMyNTZh_fotG0g4Yz1ZM16SI1jJm6cEt9iJAbZ6OJ4q4AFatRJt5mhR2hxAhPdp9lz-AU-BopHMYb058v0TqjAIHP_k1e2DTL..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Beijing
+- China
+- Colorado
+- Connecticut
+- Dallas
+- Florida
+- Great Hall of the People
+- Great Hall of the United States
+- Iran
+- Kentucky
+- Mar-a-Lago
+- Michigan
+- New York
+- North Korea
+- Pennsylvania
+- South Carolina
+- U.S.
+- United States
+- White House
+people:
+- '## Trump'
+- Ali Wyne
+- Barack Obama
+- Donald Trump
+- Jim Himes
+- Kim Jong Un
+- Marc Selverstone
+- Marc Short
+- McDonald
+- Mike Pence
+- Rand Paul
+- Scott Bessent
+- Viktor Orbán
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Advancing American Freedom
+- Congress
+- Fox News Channel
+- GOP
+- House
+- Intel
+- International Crisis Group
+- Miller Center of Public Affairs
+- Treasury
+- Trump
+- University of Virginia
+- Westinghouse
 ---
 
 President Donald Trump has repeatedly identified communism as the most significant threat facing the United States. Only months ago, citing grave concerns, he delivered a rare primetime address to accuse China of "sinister election meddling" in the 2020 election while continuing his years-long effort to challenge the outcome of that vote.

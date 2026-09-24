@@ -16,6 +16,17 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Linton-on-Ouse
+- North Yorkshire.
+- Owen Humphreys
+- PA
+people:
+- Anna Turley
+organisations:
+- Government
+- RAF Linton-On-Ouse
+- The Yorkshire Post
 ---
 
 # Minister should accept invitation and engage with Linton-on-Ouse villagers

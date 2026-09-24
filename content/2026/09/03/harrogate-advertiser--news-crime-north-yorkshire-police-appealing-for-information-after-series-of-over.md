@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - True Crime
 - News & Politics
+locations:
+- Dacre Banks
+- Nidderdale
+- North Yorkshire
+- North Yorkshire Police
+- Pateley Bridge
+- Summerbridge
+people:
+- Tom Barker
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police appealing for information after series of overnight burglaries in Nidderdale

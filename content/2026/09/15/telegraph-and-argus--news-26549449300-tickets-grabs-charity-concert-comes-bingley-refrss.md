@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Aire Valley
+- Bingley Arts Centre
+people: []
+organisations:
+- Bradford Accordion Band
 ---
 
 *(Image: Promo)*

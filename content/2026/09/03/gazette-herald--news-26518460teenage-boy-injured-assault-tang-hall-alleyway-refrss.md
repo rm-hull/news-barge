@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Constantine Avenue
+- Hewley Avenue
+- North Yorkshire
+- Tang Hall
+- York
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
 ---
 
 *(Image: Newsquest)*

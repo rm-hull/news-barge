@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21481256.jpg?type=og-image&xType=0&yType=95
+locations:
+- A1
+- Darlington Man
+- Firthmoor
+- Harrowgate Hill
+- Haughton
+- M
+- Neasham Road
+people: []
+organisations:
+- '![]()Police'
+- Durham Constabulary
+- NPAS
+- National Police Air Service
+- Northern Echo
 ---
 
 Residents across Darlington were left asking what was happening after police helicopters circled overhead and patrol cars raced through the town this afternoon.

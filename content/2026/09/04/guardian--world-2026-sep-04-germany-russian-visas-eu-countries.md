@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Baltic Sea
+- Belarus
+- Berlin
+- Bonn
+- Caucasus
+- Czech Republic
+- Estonia
+- Europe
+- Finland
+- France
+- Germany
+- Italy
+- Kremlin
+- Latvia
+- Leipzig
+- Lithuania
+- Minsk
+- Moscow
+- Poland
+- Russia
+- Schengen
+- Spain
+- Ukraine
+people:
+- Antonio Tajani
+- Eleonora Tafuro Ambrosetti
+- Roderich Kiesewetter
+organisations:
+- Bundestag
+- CDU
+- Central Asia Centre
+- EU
+- Euractiv
+- European Commission
+- European Union
+- ISPI
+- Italian Institute for International Political Studies
+- Linkiesta
+- Telegram
 ---
 
 Germany is urging its European partners to introduce tighter limitations on Russian citizens entering the EU on tourist visas, after recent sabotage attacks which Berlin has blamed on Moscow.

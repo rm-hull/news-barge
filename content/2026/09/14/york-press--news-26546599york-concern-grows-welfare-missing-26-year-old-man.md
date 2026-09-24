@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Heslington
+- York
+people:
+- Francis Xi
+- Jeremiah Xi
+- Xianwei Xi
+organisations:
+- North Yorkshire Police
+- Xianwei
 ---
 
 *(Image: North Yorkshire Police)*

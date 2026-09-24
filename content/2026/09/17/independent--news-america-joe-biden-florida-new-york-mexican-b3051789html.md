@@ -15,6 +15,74 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- America
+- Atlanta
+- Aurora
+- Brazil
+- Brooklyn
+- California
+- Caribbean
+- Chattanooga
+- Chicago
+- China
+- Cincinnati
+- Colombia
+- Connecticut
+- Denver
+- Dodge City
+- Dominican Republic
+- Ecuador
+- Elkhart
+- Florida
+- Georgia
+- Ghana
+- Grand Island
+- Haiti
+- India
+- Indiana
+- Kansas
+- Kentucky
+- Knoxville
+- Los Angeles
+- Louisville
+- Madison
+- Mexico
+- Miami
+- Nebraska
+- New Jersey
+- New York
+- New York City
+- Odessa
+- Oklahoma
+- Philadelphia
+- Queens
+- Russia
+- Salt Lake City
+- Silicon Valley
+- Spring Valley
+- Stamford
+- Tennessee
+- Texas
+- The Border Patrol
+- Tulsa
+- U.S.
+- United States
+- Uzbekistan
+- Venezuela
+- West Africa
+- White House
+- Wisconsin
+people:
+- Donald Trump
+- Joe Biden
+- Paterson
+organisations:
+- AP
+- Freedom of Information Act
+- Philadelphia
+- The Associated Press
+- U.S. Customs and Border Protection
 ---
 
 An unprecedented surge in border crossings over the past decade reshaped America: Millions of people from more than 150 countries arrived, bringing the U.S. immigrant population to its highest levels ever.

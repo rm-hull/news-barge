@@ -13,6 +13,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations: []
+people:
+- Bolt
+- Ryan Breslow
+organisations:
+- AI
+- BlackRock
+- Bolt
+- Hedosophia
+- Stanford
+- TechCrunch
 ---
 
 Ryan Breslow, the controversial entrepreneur who returned as CEO of Bolt last year after years of legal battles and clashes with investors, refuses to give up on the checkout processing startup he co-founded in 2014.

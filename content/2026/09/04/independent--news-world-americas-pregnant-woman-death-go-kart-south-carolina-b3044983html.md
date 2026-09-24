@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Florence
+- Skinner Road
+- South Carolina
+- Sumter County
+people:
+- Baylee Johnson
+- Johnny
+- Justin Lowder
+- Robbie Baker
+- Roscoe
+- Ruby
+organisations:
+- GYN
+- McLeod Regional Medical Center
+- Prisma Health OB
+- Sumter
 ---
 
 A 24-year-old South Carolina woman and her unborn son have died following an incident in Sumter County where her hair became entangled in a go-kart.

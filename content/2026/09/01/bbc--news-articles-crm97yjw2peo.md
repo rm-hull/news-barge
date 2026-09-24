@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- BBC
+- England
+- London
+- TikTok
+- UK
+- US
+people:
+- DJ Paleface
+- Drake
+- Jorja Smith
+- Katy Perry
+- Kyla
+- Sammy Virji
+- Silva Bumpa
+- TikTok
+organisations:
+- AJ Tracey and Disclosure
+- BBC Newsbeat
+- Britpop
+- Cloonee
+- Kyla
+- Mis-Teeq
+- TikTok
+- Tiktok
 ---
 
 ![Kyla wears a white and blue jacket over a white t-shirt. She has black curly hair and wears silver earrings.](https://ichef.bbci.co.uk/ace/standard/834/cpsprodpb/f210/live/7227d660-a5f5-11f1-8348-fb0cb1cd9761.jpg)

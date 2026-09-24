@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Azerbaijan
+- Brussels
+- France
+- Kremlin
+- Luxembourg
+- Paris
+- Slovakia
+- Ukraine
+people:
+- Alisher Usmanov
+- Mikhail Fridman
+- Putin
+organisations:
+- Council of the EU
+- Euronews
+- Euronews'
+- European General Court
+- Usmanov
 ---
 
 ## Luxembourg insists that if France is able to get a particular oligarch delisted, it should be able to do the same, raising fears of a domino effect among member states.

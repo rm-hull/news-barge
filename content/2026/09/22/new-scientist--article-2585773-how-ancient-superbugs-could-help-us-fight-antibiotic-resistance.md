@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311328063.jpg
+locations:
+- Antarctic
+- Canada
+- China
+- Himalayas
+- India
+- Israel
+- Romania
+- Saudi Arabia
+- Scărișoara
+- UK
+- Virginia Tech
+- Yukon
+people:
+- Alexander Fleming
+- David Burstein
+- Ella Rannon
+- Jabir Thajudeen
+- Kawther Zaher
+- Mato Lagator
+- Michael Bottery
+- Vanessa D’Costa
+organisations:
+- DRAMMA
+- King Abdulaziz University
+- National Centre for Polar and Ocean Research
+- Tel Aviv University
+- University of Manchester
+- University of Ottawa
 ---
 
 ![ancient antibiotic-resistant bacteria are a valuable resource for modern medicine](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311328063.jpg?w=840)

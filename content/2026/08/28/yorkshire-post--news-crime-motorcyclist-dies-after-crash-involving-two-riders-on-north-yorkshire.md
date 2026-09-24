@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Mook Street
+- North Yorkshire
+- Westow
+people: []
+organisations:
+- Honda
+- North Yorkshire Police
+- Yamaha
 ---
 
 # Motorcyclist dies after crash involving two riders on North Yorkshire road

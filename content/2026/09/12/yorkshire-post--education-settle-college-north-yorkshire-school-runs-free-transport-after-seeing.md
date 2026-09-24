@@ -15,6 +15,17 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bentham
+- Burton
+- Ingleton
+- Lonsdale
+- North Yorkshire
+people:
+- Gareth Whitaker
+organisations:
+- North Yorkshire Council
+- Settle College
 ---
 
 # Settle College: North Yorkshire school runs free transport after seeing fall in numbers following policy change

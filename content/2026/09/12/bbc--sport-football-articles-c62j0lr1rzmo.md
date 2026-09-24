@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Ipswich
+people:
+- Alexander Isak
+- Alexis Mac Allister
+- Alisson
+- Andoni Iraola
+- Atleti
+- Bradley Barcola
+- Cody Gakpo
+- Diego Simeone
+- Florian Wirtz
+- Jeremie Frimpong
+- Jurgen Klopp
+- Kostas Tsimikas
+- Milos Kerkez
+- Rio Ngumoha
+- Ryan Gravenberch
+- Victor Munoz
+organisations:
+- Anfield
+- Atletico Madrid
+- Cottagers
+- Fulham
+- Liverpool
+- Newcastle
+- Nottingham Forest
+- Reds
+- Sky Sports
+- Tottenham
 ---
 
 Fulham take first point of the season at lacklustre Liverpool

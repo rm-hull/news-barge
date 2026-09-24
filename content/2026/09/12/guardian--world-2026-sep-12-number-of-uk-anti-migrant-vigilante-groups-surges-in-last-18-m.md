@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Belfast
+- Dover
+- England
+- Epping
+- France
+- Glasgow
+- Kent
+- Portsmouth
+- UK
+people:
+- Alex MacKinnon
+- Julia Ebner
+- Rupert Lowe
+- Shabana Mahmood
+organisations:
+- Belfast Nightwatch First Division
+- British Security Project
+- Facebook
+- Finnbarr Webster
+- Guardian
+- Hope Not Hate
+- Instagram
+- National Police Chiefs’ Council
+- Patriot Platform
+- Raise the Colours**,**
+- Scots Active
+- TikTok
+- University of Oxford
 ---
 
 At least 28 anti-migrant vigilante groups have formed in the UK in the last 18 months, ranging from unauthorised street patrols claiming to protect women and children to groups harassing migrants in France and blocking ports.

@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Boston
+- Ground Zero
+- Long Island
+- Los Angeles
+- New York
+- New York City
+- Pennsylvania
+- Shanksville
+- South Tower
+- World Trade Center
+people:
+- '** Scauso'
+- Angela Soler
+- Babara Keating
+- Dennis Scauso
+- Juliette Scauso
+- Ryan Fitzgerald
+organisations:
+- American Airlines
+- FDNY
+- FIGG
+- National Park Service
+- New York City Fire Department
+- New York Police Department
+- Pentagon
+- United Airlines
+- World Trade Center
 ---
 
 ![Juliette Scauso as a child with her father, Dennis](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4480/live/25bd4a30-ad2a-11f1-980e-4fc6f1211def.jpg)

@@ -11,6 +11,22 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312576967.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- California
+- Germany
+people:
+- Maurer
+- Sam Stanwyck
+- Timothy Proctor
+- Wolfgang Mauerer
+organisations:
+- Google
+- IBM
+- Nvidia
+- QUOPS
+- Quantinuum
+- Sandia National Laboratories
+- Technical University of Applied Sciences Regensburg
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312576967.jpg?w=840)

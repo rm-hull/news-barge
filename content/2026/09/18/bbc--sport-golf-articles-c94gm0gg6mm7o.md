@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6bef/live/e0a94c10-b390-11f1-ae81-31b49a394756.jpg
+locations:
+- Australia
+- Dubai
+- Ireland
+- NZ
+- Sco
+- Spain
+- Swe
+- US
+people:
+- '** D Law'
+- '** J Rose'
+- '** L Aberg'
+- '** M Elvira'
+- '** M Wallace'
+- '** R Fox'
+- '** S Straka'
+- '**-'
+- A Noren
+- A Rai
+- A Scott
+- Aaron Rai
+- Adam Scott
+- Brooks Koepka
+- F Celli
+- Filippo Celli
+- I Elvira
+- Ita
+- JJ Spaun
+- Jon Rahm
+- M Fitzpatrick
+- Manuel Elvira
+- Patrick Reed
+- R Fisher
+- R Gerard
+- R MacIntyre
+- R McIlroy
+- Rory McIlroy
+- Ryan Fox
+- Ryan Gerard
+- S Lowry
+- Tommy Fleetwood
+- V Hovland
+organisations:
+- Spa
 ---
 
 ![Rory McIlroy walks off a green](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6bef/live/e0a94c10-b390-11f1-ae81-31b49a394756.jpg)

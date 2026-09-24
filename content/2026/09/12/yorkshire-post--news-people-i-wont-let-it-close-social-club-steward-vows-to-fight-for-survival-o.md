@@ -15,6 +15,26 @@ categories:
 - York
 - Sports
 - Society & Culture
+locations:
+- Barnsley
+- Sheffield
+- South Yorkshire
+- Southey Club
+people:
+- '![Daz'
+- Darren (Daz) Mullen
+- Daz
+- Ken Green
+- Southey
+- Yvonne Sykes
+organisations:
+- All Party Parliamentary Group
+- BBC
+- CIU
+- Club and Institute Union
+- Sheffield Wednesday
+- Southey Club
+- Southey Social Club
 ---
 
 # 'I won't let it close' - Social club steward vows to fight for survival of institution

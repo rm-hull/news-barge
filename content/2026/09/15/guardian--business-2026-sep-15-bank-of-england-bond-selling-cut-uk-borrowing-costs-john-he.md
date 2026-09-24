@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- Threadneedle Street
+people:
+- Andrew Bailey
+- Andy Burnham
+- Charlie Bean
+- Christopher Mahon
+- John Healey
+- John Llewellyn
+- Louise Haigh
+organisations:
+- Bank of England
+- Bank “
+- Cabinet Office
+- Columbia Threadneedle Investments
+- European Central Bank
+- Independent Economics
+- MPC
+- OBR
+- OECD
+- Office for Budget Responsibility
+- Open University Business School
+- QE
+- Treasury
+- US Federal Reserve
 ---
 
 Economists have urged the chancellor, John Healey, to press the Bank of England to slow down its bond-selling programme that has already cost the exchequer billions of pounds.

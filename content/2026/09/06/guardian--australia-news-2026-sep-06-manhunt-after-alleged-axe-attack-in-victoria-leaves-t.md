@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Sports
 - True Crime
+locations:
+- Gippsland
+- Tyers
+- Victoria
+people:
+- Triple Zero
+organisations:
+- Ambulance Victoria
 ---
 
 Three people have been taken to hospital with life-threatening injuries after an alleged axe attack in Victoria, with police still searching for the suspect.

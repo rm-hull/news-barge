@@ -11,6 +11,26 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Broadway
+- Dewsbury
+- Heckmondwike
+- Holmfirth
+- Huddersfield
+- Kirklees
+- Oldroyd
+- West Yorkshire Police
+people:
+- Warren Pittman
+organisations:
+- CID
+- DHQ
+- Huddersfield Neighbourhood Policing Team
+- Huddersfield Proactive Town Centre Team
+- Huddersfield South Patrol
+- Kirklees College
+- Kirklees District Headquarters
+- Kirklees Police
 ---
 
 *(Image: West Yorkshire Police)*

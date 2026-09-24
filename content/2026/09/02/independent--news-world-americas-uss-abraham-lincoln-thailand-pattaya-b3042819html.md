@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bangkok
+- Chonburi
+- Iran
+- Laem Chabang
+- Lincoln
+- Map Ta Phut
+- Middle East
+- Pattaya
+- Rayong
+- San Diego
+- Sriracha
+- Thailand
+people:
+- Abraham Lincoln
+- Captian Dan Keeler
+- Frank E Petersen Jr
+- George Washington
+- Pete Hegseth
+- Robert Smalls
+organisations: []
 ---
 
 The troubled USS Abraham Lincoln docked at a resort in Thailand after more than 250 days at sea and extended deployment in the Middle East.

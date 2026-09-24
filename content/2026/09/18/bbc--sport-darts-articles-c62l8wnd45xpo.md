@@ -13,6 +13,28 @@ categories:
 - Sports
 - Video Gaming
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg
+locations:
+- England
+people:
+- Brody Klinge
+- Callan Rydz
+- Damon Heta
+- Danny Noppert
+- Daryl Gurney
+- Dirk van Duijvenbode
+- James Wade
+- Jim Long
+- Jonny Clayton
+- Luke Humphries
+- Luke Littler
+- Maik Kuivenhoven
+- Michael van Gerwen
+- Motomu Sakai
+- Nathan Aspinall
+- Raymond Smith
+- Wales' Gerwyn Price
+- Wattimena
+organisations: []
 ---
 
 ![Luke Littler](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg)

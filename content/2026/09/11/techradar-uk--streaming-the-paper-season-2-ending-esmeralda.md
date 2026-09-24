@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Virgin River
+people:
+- Domhnall Gleeson
+- Esmeralda
+- George Cooper Sr.
+- Marlon Brando
+- Matteo
+- Ned
+- Oscar Nuñez
+- Sabrina Impacciatore
+- Zak Messinger
+organisations:
+- Chelsea Frei
+- Google News
+- Hallmark
+- Jasmine
+- Mare's
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- The Cincinnati Chronicle
+- Yahoo!
 ---
 
 ![Esmeralda tries to light herself with multiple portable lighting sticks](https://cdn.mos.cms.futurecdn.net/Bm8yZxQDDSBhPSsiYGX4vg.jpg) 

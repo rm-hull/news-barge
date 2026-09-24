@@ -11,6 +11,29 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- North America
+people:
+- Alix Pickles
+- Emma Close
+- Jonathan Greer
+- Justin Webb
+- Matt Chorley
+- Mitch McConnell
+- Nik Sindle
+- Purvee Pattni
+- Sam Bonham
+- Sarah Smith
+- Sumi Somaskanda
+- Trump
+organisations:
+- Air Force One
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Sounds
+- Newscast
+- US Election Unspun
 ---
 
 ## Episode details

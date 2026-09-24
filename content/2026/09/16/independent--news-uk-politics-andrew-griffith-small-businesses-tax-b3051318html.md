@@ -13,6 +13,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Richborough
+people:
+- Andrew Griffith
+- Andy Burnham
+- John Healey
+- Kemi Badenoch
+- Lord Mackinlay
+- Rachel Reeves
+- Robert Colvile
+organisations:
+- Budget
+- Centre for Policy Studies
+- Federation of Small Businesses
+- Government
+- Labour
+- Tory
 ---
 
 John Healey cannot afford to raise taxes at the Budget following similar moves by his predecessor Rachel Reeves, the shadow chancellor will warn.

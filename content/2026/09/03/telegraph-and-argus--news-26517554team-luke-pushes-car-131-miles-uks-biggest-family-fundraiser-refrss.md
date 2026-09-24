@@ -14,6 +14,38 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bollsover Castle
+- Buckinghamshire
+- CarFest
+- Embsay
+- Kettleby
+- Market Harborough
+- Milton Malsor
+- Newark-on-Trent
+- Sheffield
+- Sheffield's Children's Hospital
+- Silverstone Circuit
+- Skipton
+- UK
+people:
+- Adam Mortimer
+- Chris Evans
+- Dwayne Johnson
+- Jessie J
+- Lee Towers
+- Luke Mortimer
+- Malcolm Stoney
+- Nile Rodgers
+- Rick Astley
+- Tom Jones
+organisations:
+- BBC Children in Need
+- CarFest
+- Craven College
+- Pride of Britain
+- Starlight Children's Foundation
+- Teenage Cancer Trust
 ---
 
 FAMILY and friends of Pride of Britain winner Luke Mortimer are taking a much-deserved rest after completing a massive 131 mile car push challenge.

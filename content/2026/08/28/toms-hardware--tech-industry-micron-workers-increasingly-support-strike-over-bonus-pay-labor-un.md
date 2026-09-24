@@ -15,6 +15,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Taiwan
+- US
+people:
+- Dan Nystedt
+- Jowi Morales
+- Tom
+organisations:
+- Cloud Memory Business Unit
+- Google News
+- Jowi Morales
+- Micron Taiwan
+- SK Hynix
+- Samsung
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/r4EqVPQPb5RUnrXurEfjbM.jpg) 

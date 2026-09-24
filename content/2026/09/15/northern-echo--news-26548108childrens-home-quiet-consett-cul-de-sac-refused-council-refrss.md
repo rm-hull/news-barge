@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Family & Parenting
 - Home, Garden & DIY
+locations:
+- Consett
+- Ex County Durham
+- North Yorkshire
+- Stuart Court
+- YOUR
+people: []
+organisations:
+- Children and Young People's Services
+- County Durham Plan
+- Durham County Council
+- Metrocentre
+- Public Notice Portal
 ---
 
 *(Image: GOOGLE)*

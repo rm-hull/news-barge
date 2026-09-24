@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1237 Outer Ring Road
+- Bootham
+- Clifton Moor
+- Gillygate
+- Hawthorn Terrace
+- Haxby Road
+- Heworth Green
+- Huntington Road
+- Link Road
+- Lord Mayor’s Walk
+- Malton Road
+- Strensall Road
+- Wigginton Road
+- York
+people:
+- Kate Ravilious
+organisations:
+- A19
+- City of York Council
 ---
 
 *(Image: City of York Council)*

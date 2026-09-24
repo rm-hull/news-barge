@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Andy Burnham
+- Bernie Sanders
+- Claude Fable
+- Jacob Klein
+- Jakub Pachocki
+- Osmond Chia
+organisations:
+- Anthropic
+- BBC's Newsnight
+- Chinese AI
+- New York Times
+- OpenAI
+- ShinyHunters
 ---
 
 ![Anthropic logo is seen in this picture illustration taken 16 August 2026.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg)

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Iran
+- Israel
+- Kuwait
+- Lebanon
+- Middle East
+- Rome
+- Strait of Hormuz
+- U.S. Gulf
+people: []
+organisations:
+- Hezbollah
 ---
 
 Israel has released four more Lebanese civilians who had been detained by its forces in southern Lebanon. Ship traffic remains low on the Strait of Hormuz days after the U.S. and Iran exchanged attacks for the first time in a month.

@@ -14,6 +14,24 @@ categories:
 - York
 - Sports
 - Video Gaming
+locations:
+- Filey
+- Hunmanby
+- Leeds St James Hospital
+- North Yorkshire
+people:
+- Keegan Kennedy
+- Michelled Donohue-Moncrieff
+organisations:
+- Divisions 4
+- East Riding County Football League
+- Hunmanby FC
+- Hunmanby Football Club
+- Hunmanby Parish Council
+- Hunmanby Playing Fields
+- North Yorkshire Council
+- Right Car East Riding County League
+- Teenage Cancer Ward
 ---
 
 HUNDREDS of people have signed a petition to help save a football club in North Yorkshire which could lose access to its playing field.

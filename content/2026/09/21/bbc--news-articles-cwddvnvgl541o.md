@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ace/live/082e8870-b357-11f1-a430-4d16ee157c41.jpg
+locations: []
+people:
+- Jonathan Kentley
+- Kently
+- Zainab Laftah
+organisations:
+- GRWM
 ---
 
 ![A young woman with acne touches her face. She is wearing a white T-shirt and has a white towel on her head](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1ace/live/082e8870-b357-11f1-a430-4d16ee157c41.jpg)

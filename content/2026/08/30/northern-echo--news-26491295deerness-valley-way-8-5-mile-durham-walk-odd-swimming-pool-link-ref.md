@@ -15,6 +15,36 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- Bearpark
+- Bishop Auckland
+- Broompark Picnic Site
+- Consett
+- County Durham
+- Crook
+- Deerness Valley
+- Deerness Valley Railway
+- Deerness Valley Way
+- Durham City
+- Esh Winning
+- Gerald Hirst
+- Holburn
+- North East
+- River Deerness
+- The Cross Keys
+- The Duke of Wellington
+- Ushaw College
+- Ushaw Moor
+- Woodhouses Wood
+people:
+- Gerald Hirst
+- Stanley Crook
+organisations:
+- Broompark
+- Deerness View
+- Esh Winning
+- The New Board Inn
+- Ushaw Moor
 ---
 
 *(Image: Gerald Hirst)*

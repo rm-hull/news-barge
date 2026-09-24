@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Central Park
+- Darlington STEM
+- North East
+- UK
+people:
+- Andy Burnham
+- David Gartland
+- David Hodgson
+- Huw Lewis
+- Kim McGuinness
+- Mark Stamper
+- Mike Hughes
+- Rachel Anderson
+- Rose Rouse
+- Sophie Walton
+organisations:
+- BUSINESSiQ
+- CPI
+- Centre for Process Innovation
+- Cummins
+- Darlington Borough Council
+- Darlington College
+- Durham County Council
+- Government
+- North East Chamber of Commerce
+- North East Mayoral Strategic Authority
+- STEM
+- The Northern Echo
 ---
 
 *(Image: Impact)*

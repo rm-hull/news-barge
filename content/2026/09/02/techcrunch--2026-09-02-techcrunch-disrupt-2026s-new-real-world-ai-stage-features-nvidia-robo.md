@@ -13,6 +13,35 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Earth
+- Moscone West
+- San Francisco
+people:
+- Adrian Macneil
+- Aidan Madigan-Curtis
+- Ali Agha
+- Ben Lamm
+- Boris Sofman
+- John Mackey
+- Les Karpas
+- Medra
+- Michelle Lee
+- Nate Michael
+organisations:
+- AI Stage
+- Bedrock Robotics
+- CTO
+- Colossal Biosciences
+- Eclipse Ventures
+- FieldAI
+- Foxglove
+- MBRYONICS
+- Nvidia
+- SaaS
+- Shield AI
+- VC
 ---
 
 At our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. This year, the technology, implications, and players are so rapidly developing and widespread that we’re expanding the single AI stage into two!

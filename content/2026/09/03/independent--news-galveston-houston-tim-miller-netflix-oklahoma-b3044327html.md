@@ -14,6 +14,30 @@ categories:
 - UK
 - True Crime
 - Sports
+locations:
+- Brazoria County
+- Denton
+- Galveston County
+- Houston
+- Interstate 45
+- League City
+- North Texas
+- Oklahoma
+people:
+- Clyde Hedrick
+- Ellen Beason
+- James Dolphs Elmore Jr.
+- Jessica Cain
+- Kelli Cox
+- Laura Miller
+- Laura Smither
+- Tim Miller
+- William Reece
+organisations:
+- Netflix
+- Texas Department of Criminal Justice
+- Texas EquuSearch
+- Texas Killing Fields
 ---
 
 A man convicted over a “ Texas Killing Fields ” death was sentenced to 20 years in prison Thursday in a rare trial related to the bodies of dozens of women found near Houston beginning in the 1970s.

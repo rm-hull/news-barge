@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Keighley
+- Kensington Street
+people: []
+organisations:
+- UGC
+- West Yorkshire Police
 ---
 
 *(Image: UGC)*

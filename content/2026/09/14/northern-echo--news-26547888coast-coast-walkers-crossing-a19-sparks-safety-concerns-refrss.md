@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A19
+- Coast to Coast
+- Ingleby Arncliffe
+- North Yorkshire
+- Richmond
+- York
+people:
+- Andy Burnham
+- Cllr Hugill
+- David Hugill
+- David Skaith
+- Hutton Rudby
+- Osmotherley
+organisations:
+- A19
+- Coast to Coast National Trail
+- Combined Authority
+- Ingleby Arncliffe Parish Council
+- North Yorkshire Council
 ---
 
 Concerns that walkers on the Coast to Coast National Trail are putting themselves at risk by attempting to cross the A19 on foot are set to be raised with the mayor of York and North Yorkshire.

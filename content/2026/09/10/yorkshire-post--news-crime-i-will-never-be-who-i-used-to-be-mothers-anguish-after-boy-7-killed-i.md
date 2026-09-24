@@ -15,6 +15,18 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Golcar
+- Huddersfield
+- Leeds Crown Court
+- Longfield Avenue
+people:
+- Jack Rooke
+- Mya
+- Nathan Shaw
+- Nina Roper
+organisations:
+- Major Collision Enquiry Team
 ---
 
 # ‘I will never be who I used to be’: Mother’s anguish after boy, 7, killed in Huddersfield crash

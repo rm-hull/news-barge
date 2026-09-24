@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Iran
+- US
+- White House
+people:
+- Barack Obama
+- Donald Trump
+organisations:
+- Congress
+- Gallup
+- New York Times
+- Senate
+- Trump
+- US House of Representatives
 ---
 
 More voters are identifying as Democrats and shying away from calling themselves Republican, according to the latest quarterly data published by Gallup.

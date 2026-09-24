@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Glen Alpine
+- Liverpool
+- Merrylands West
+- NSW
+- Sydney
+people:
+- Joe Doueihi
+- Joshua Macdonald
+- Joshua Macdonald.
+- Marco Talia
+- Prue Car
+- Yasmin Catley
+organisations:
+- Australian Associated Press
+- NSW
 ---
 
 A Sydney teenager has been charged with murder after police accused him of operating a drone as part of a suspected botched gang hit in the city’s west.

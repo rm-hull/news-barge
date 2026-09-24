@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Denmark
+- Europe
+- France
+- Germany
+- Greenland
+- Italy
+- Poland
+- Ukraine
+people:
+- Donald Trump
+- Friedrich Merz
+- Mark Carney
+- Terry Reintke
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- AI
+- EU
+- European Commission
+- IAA
 ---
 
 Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.

@@ -12,6 +12,60 @@ image: https://cdn.mos.cms.futurecdn.net/4BKKMPaKvhGbgqJXvWoh6E-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Ketch
+- San Diego
+- San Diego Comic-Con
+people:
+- Alejandra Jones
+- Blade
+- Crash Simpson
+- Danny Ketch
+- Eli Morrow
+- Felipe Smith
+- Flynn Gray
+- Free Guy
+- Gabriel Luna
+- Gary Friedrich
+- Howard Mackie
+- Javier Saltares
+- Johnny Blaze
+- Jonathan Tropper
+- Kevin Feige
+- Kushala
+- Lucky
+- Mahershala Ali
+- Mephisto
+- Mike Ploog
+- Nicolas Cage
+- Parker Robbins
+- Robbie Reyes
+- Roy Thomas
+- Ryan Gosling
+- Sal Romero
+- Shawn Levy
+- Stranger Things
+- Tom
+- Tradd Moore
+organisations:
+- Blade
+- Disney Plus
+- Empire Magazine
+- Ghost Rider
+- Google News
+- Hall H
+- MCU
+- MTV
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- People Magazine
+- SDCC
+- Star Wars
+- TechRadar
+- Variety
+- X-Men
 ---
 
 ![The current logo for Marvel's Ghost Rider movie, with red text set against a black background](https://cdn.mos.cms.futurecdn.net/4BKKMPaKvhGbgqJXvWoh6E.jpg) 

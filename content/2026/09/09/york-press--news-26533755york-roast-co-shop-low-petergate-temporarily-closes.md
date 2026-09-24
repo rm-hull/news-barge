@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '## Popular York'
+- Ben Hardy
+- Chester
+- Low Petergate
+- Yorkshire
+people: []
+organisations:
+- Low Petergate
+- Stonegate
+- The York Roast Company
+- York Roast Co
+- York Roast Co.
 ---
 
 ## Popular York city centre shop closes as 'transformation begins'

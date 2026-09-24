@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- England
+- Reddit
+- Stockport
+people:
+- AllenT
+- Christopher Nolan
+- Dave
+- David Nield
+- Elon Musk
+- Homer
+- Nausicaa
+- Nem Perez
+- Odysseus
+organisations:
+- AI
+- Cyclops
+- Gizmodo
+- Google News
+- PC Explorer
+- SpaceX
+- The Hardware Handbook
 ---
 
 ![The Odyssey in AI](https://cdn.mos.cms.futurecdn.net/dFVUQKPTxNjF4uS3dH3YD9.jpg) 

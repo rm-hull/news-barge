@@ -12,6 +12,19 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- China
+- Qingdao
+people:
+- Li Qiang
+- Xi Jinping
+organisations:
+- Beihai Shipbuilding Co.
+- CCTV
+- China State Shipbuilding Corporation
+- Qingdao Beihai Shipbuilding
+- VesselFinder
+- Xinhua
 ---
 
 ## A total of 42 people had been on the vessel, and 17 of them were safely evacuated, state media reported.

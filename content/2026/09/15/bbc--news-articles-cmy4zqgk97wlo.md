@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- China
+- Earth
+- India
+- London
+- Russia
+- Soviet Union
+- US
+- United States
+- Washington
+people:
+- Bleddyn Bowen
+- Juliana Suess
+- Mark Hilborne
+- Rod Thornton
+- Troy Meink
+organisations:
+- ASATs
+- Air Force
+- BBC Radio 4
+- Durham University
+- EMP
+- German Institute for International and Security Affairs
+- King's College
+- Nato
+- RPOs
+- RUSI
+- Royal United Services Institute
+- Russian Defence and Security Studies
+- Stiftung Wissenschaft und Politik
+- US Space Force
 ---
 
 Could there be an arms race in space? The BBC's defence correspondent explains what the US announcement means

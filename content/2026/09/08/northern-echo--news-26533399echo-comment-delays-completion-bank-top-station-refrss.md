@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Darlington
+- Darlington’s Bank Top station
+people:
+- Lord Hendy
+- Peter Reimann
+organisations:
+- Bank Top
 ---
 
 *(Image: Peter Reimann)*

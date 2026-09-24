@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Australia
+- Barcelona
+- Bhutan
+- Europe
+- Guildhall
+- India
+- Isle of Bute
+- Jordan
+- London
+- Midlands
+- Mumbai
+- Princess of Wales
+people:
+- Cate Blanchett
+- Catherine
+- Daniel Wittenberg
+- Earl Spencer
+- Harry
+- José Andrés
+- Prince William
+- Rania al-Abdullah
+organisations:
+- BBC
+- Chhatrapati Shivaji Maharaj Terminus
+- Duke of Sussex
+- Earthshot Prize Council
+- Earthshot Prize Impact Assembly
+- Invictus Foundation
+- Mahila Housing Trust
+- Mahindra Last Mile Mobility
+- Prince of Wales
+- Royal Watch
+- UNESCO World Heritage Site
 ---
 
 ![Prince of Wales, speaks at the Earthshot Prize Impact Assembly at the Guildhall in central London. He stands in a navy suit and blue tie at a lectern with a microphone](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/fe22/live/5d5c8370-b347-11f1-91a3-393282eb9f17.png)

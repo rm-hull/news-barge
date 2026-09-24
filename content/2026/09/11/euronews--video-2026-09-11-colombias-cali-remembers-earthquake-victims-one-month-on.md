@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Cali
+- Colombia
+- Torres de Limonar
+people:
+- Alejandro Eder
+organisations: []
 ---
 
 Residents of Cali gathered on September 10 to mark one month since a powerful earthquake struck southwestern Colombia. During a memorial ceremony, people laid flowers, lit candles and released white balloons in honour of the victims.

@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Goodramgate
+- La Piazza Antica
+- Tudor
+- York
+people: []
+organisations:
+- City of York Council
+- York Civic Trust
 ---
 
 Changes proposed to a York restaurant would harm its historic building, the council has ruled.

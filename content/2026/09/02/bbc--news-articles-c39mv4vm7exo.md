@@ -14,6 +14,45 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Chelsea
+- Epsom
+- Leicester
+- London
+- St George's University Hospitals
+- UK
+- Wandsworth
+people:
+- Guys
+- Jonathan Reynolds
+- Kate Dearden
+- Matthew Taylor
+organisations:
+- Acas
+- B&Q Ltd
+- Borehamwood
+- Department for Business and Trade
+- Elysium Healthcare Holdings 3 Ltd
+- Fair Work Agency
+- Five Guys
+- Forest Holidays Ltd
+- Guys JV Limited
+- HMRC
+- LE19
+- Lanes Group Limited
+- Leeds
+- London**
+- Merlin Cinemas Limited
+- Moira
+- Norfolk Community Health and Care NHS Trust
+- Redruth
+- Royal Borough of Kensington
+- Slough
+- St George's
+- St George's University Hospitals NHS Foundation Trust
+- St Helier Hospital Group
+- Support Staff Services Limited
+- UK Care Team Ltd
 ---
 
 ![A composite image of B&Q signage on the left and Five Guys signage on the right.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1d32/live/de8a8700-a6e8-11f1-b109-879e35c24276.png)

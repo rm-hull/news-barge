@@ -14,6 +14,63 @@ categories:
 - UK
 - Education & Learning
 - Society & Culture
+locations:
+- Abu Ghraib
+- Alabama
+- Arizona
+- California
+- Colorado
+- Cuba
+- Florida
+- Guantanamo Bay
+- Jefferson City
+- Johnstown
+- Middle Eastern
+- Missouri
+- New Jersey
+- New Mexico
+- New York
+- North Dakota
+- Pennsylvania
+- R-N.Y.
+- Sen
+- Shanksville
+- States
+- Texas
+- U.S.
+- West Chester
+people:
+- Ameya Williams
+- Andrew Garbarino
+- Cade Brumley
+- David A. Lieb
+- Desmond Killian
+- Diana Hess
+- Donna Gibson
+- Edward Felt
+- Eric Killian
+- Gordon Felt
+- Jeremy Stoddard
+- John Boston Bradley
+- John Kavanagh
+- Marc Levy
+- Martha “Marty” Runzer
+- Megan Jones
+- Plus Williams
+organisations:
+- AP
+- Congress
+- Friends of Flight 93 National Memorial
+- Louisiana Education
+- Louisiana “Freedom Framework
+- National Sept. 11 Memorial & Museum
+- Pentagon
+- Pew Research Center
+- The Associated Press
+- United Airlines
+- United States’
+- University of Wisconsin
+- World Trade Center
 ---
 
 For three days this summer, teachers converged at the Flight 93 National Memorial in remote western Pennsylvania to talk about 9/11.

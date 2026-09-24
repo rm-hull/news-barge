@@ -11,6 +11,22 @@ description: If it lowers stress, I'm in
 image: https://cdn.mos.cms.futurecdn.net/Y68fLK8iAS6fJY8jVhJgnn-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Matt Bolton
+- Reddit
+- Siri
+organisations:
+- Apple Intelligence
+- Creative Bloq
+- Dolby Vision
+- Edge
+- Google News
+- Home Tech
+- Matt
+- PC Gamer
+- T3
+- TechRadar
 ---
 
 ![A split image, with a man's hand holding the iPhone](https://cdn.mos.cms.futurecdn.net/Y68fLK8iAS6fJY8jVhJgnn.jpg) 

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Air Station
+- Atlanta
+- New York
+- Washington
+people:
+- Donald Trump
+- Markwayne Mullin
+organisations:
+- American Airlines
+- C-37A
+- Coast Guard
+- Federal Aviation Administration
+- Gulfstream V
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Reagan Washington National Airport
+- Ronald Reagan National Airport
+- U.S. Coast Guard
+- United States Coast Guard
 ---
 
 A U.S. Coast Guard plane carrying Homeland Security Secretary Markwayne Mullin was forced to make an emergency landing at Reagan Washington National Airport on Wednesday after its right engine failed mid-flight.

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Boston
+- Massachusetts
+- UK
+people:
+- Brad Bailey
+- Lindsay Clancy
+- William Sullivan
+organisations:
+- Associated Press
+- Pandas
+- The Associated Press
+- WhatsA**
 ---
 
 A Massachusetts jury was unable to come to a unanimous decision in the trial of Lindsay Clancy, a mother accused of murdering her three children, and a mistrial has been declared by Judge William Sullivan.

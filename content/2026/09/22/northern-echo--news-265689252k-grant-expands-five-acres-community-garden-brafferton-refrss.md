@@ -14,6 +14,31 @@ categories:
 - Self-Improvement
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21482999.jpg?type=og-image
+locations:
+- Beaumont Hill
+- Brafferton
+- County Durham
+- Darlington
+- Newton Aycliffe
+- North East
+- North Yorkshire
+people:
+- Charlotte Iceton
+- Debbie
+- Gavin Iceton
+- Kate Culverhouse
+- Ms Iceton
+organisations:
+- Acres Community Garden
+- Champions
+- Council
+- County Durham Community Foundation
+- Five Acres
+- Five Acres Community Garden
+- Five Acres team
+- Point North
+- Pupil Passport The Banks Group
+- The Banks Group
 ---
 
 *(Image: Banks Group)*

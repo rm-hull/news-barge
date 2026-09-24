@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Europe.
+- Portsmouth
+- Portsmouth.
+- UK
+people:
+- Andy Burnham
+- Annie Hoare
+- Capt Thompson
+- Claire Thompson
+- Elizabeth
+- Thomas
+- Volodymyr Zelensky
+- Volodymyr Zelenskyy
+organisations:
+- Allied Response Force
+- Nato
+- Portsmouth Naval Base
+- Prince of Wales
+- Royal Navy
 ---
 
 ![HMS Queen Elizabeth setting off along the water in Portsmouth.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/b6b2/live/175c5870-a9c7-11f1-aa17-d79aec794b2a.jpg)

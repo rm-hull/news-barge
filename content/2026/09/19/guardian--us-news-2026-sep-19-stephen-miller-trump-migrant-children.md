@@ -14,6 +14,57 @@ categories:
 - Arts & Culture
 - Society & Culture
 image: https://i.guim.co.uk/img/media/690ba2c5eef0b5e80ceebd6a62d5c8455d845437/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62a7a3457bc7b3137e17002cd9123ae8
+locations:
+- Afghanistan
+- Central America
+- El Salvador
+- Guatemala
+- Honduras
+- Oregon
+- Texas
+- US
+- United States
+- White House
+people:
+- Andrew Witherspoon
+- Angie Salazar
+- Azadeh Erfani
+- Biden
+- Claire Trickler-McNulty
+- Dawnisha Helland
+- Donald Trump
+- John Fabbricatore
+- Lauren Bis
+- Ron Wyden
+- Stephen Miller
+- Will Craft
+organisations:
+- Associated Press
+- DHS
+- Department of Defense
+- Department of Homeland Security
+- Department of Justice
+- DoD
+- DoJ
+- EOIR
+- Guardian
+- HHS
+- Health and Human Services
+- Homeland Security Council
+- Hyphen
+- ICE
+- Immigration and Customs Enforcement
+- Mobile Pathways
+- Mobile Pathways’
+- NIJC
+- National Immigrant Justice Center
+- New York Times
+- ORR
+- Pentagon
+- Trump
+- US Citizenship and Immigration Services
+- US Department of Health and Human Services
+- USCIS
 ---
 
 Stephen Miller is leading an unprecedented and intense White House drive across a host of government departments to accelerate the removal of undocumented immigrant children from the US, using tactics that critics say are cruel and racist and, in some cases, flout federal law, the Guardian has learned.

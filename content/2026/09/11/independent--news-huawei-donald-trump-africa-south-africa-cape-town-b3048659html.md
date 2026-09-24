@@ -14,6 +14,24 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Africa
+- Angola
+- China
+- Congo
+- Gambia
+- New York
+- Sierra Leone
+- U.S.
+- africa
+people:
+- Donald Trump
+organisations:
+- AP Africa
+- Africell
+- Export-Import Bank
+- Huawei
+- Trump
 ---
 
 The Trump administration has provided a $99.6 million loan to a U.S.-owned cell phone network operator in Africa to expand American tech presence on a continent where China's Huawei is a leading player.

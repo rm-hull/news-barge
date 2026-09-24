@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ab6/live/00496b80-b360-11f1-8f19-bd786ea30d0b.jpg
+locations:
+- Atak
+- Calais
+- English Channel
+- South Sudan
+- UK
+people:
+- Anna Turley
+- Audrey Mogan
+- Chan Mathok Atak
+- James Harrison
+- John Turner
+- Sarah Counsell
+organisations:
+- BBC Radio Kent
+- Border Security and Asylum
+- Canterbury Crown Court
+- English Channel
+- NCA
+- National Crime Agency
 ---
 
 ![A large number of people in orange lifejackets on an inflatable boat.](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/8ab6/live/00496b80-b360-11f1-8f19-bd786ea30d0b.jpg)

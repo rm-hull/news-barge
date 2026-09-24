@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Scarborough
+people:
+- Halima Kamran
+- Jeremy Barton
+- Ms Kamran
+- Oliver Battye
+- Simon Hickey
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

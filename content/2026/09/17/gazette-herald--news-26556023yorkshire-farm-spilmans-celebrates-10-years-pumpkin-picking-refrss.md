@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Spilmans
+- Thirsk
+- Yorkshire
+people:
+- Tom Spilman
+organisations:
+- Spilmans
+- Wizfords Academy
 ---
 
 One of Yorkshire’s largest Pick Your Own farms is preparing to celebrate a decade of pumpkin picking as more than 175,000 pumpkins are readied for harvest this autumn.

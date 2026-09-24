@@ -15,6 +15,42 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Bolton Abbey
+- Bradford
+- Crayke
+- Durham Cathedral
+- England
+- Fishlake
+- Grade II
+- Inner Farne
+- Melrose
+- Northumbria
+- Oxenhope
+- Ripon
+- St Cuthbert
+- St Mary
+- St Mary’s Church
+- Wrose
+- Yorkshire
+people:
+- '## St Cuthbert'
+- Denise Angela Hayes
+- Melrose
+- Oswald
+- Rev Hayes
+organisations:
+- '## St Cuthbert'
+- Lindisfarne
+- St Cuthbert
+- St Cuthbert?
+- St Cuthbert’s
+- St Mary's
+- St Wilfrid
+- T&A
+- Viking
+- West Yorkshire Police
+- Yorkshire St Cuthbert
 ---
 
 A vicar has issued an amnesty of 5pm today (September 4) after a carved oak statue of St Cuthbert was stolen from a church in the Bradford district.

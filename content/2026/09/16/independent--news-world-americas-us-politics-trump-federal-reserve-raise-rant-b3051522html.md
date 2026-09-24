@@ -13,6 +13,31 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- North Carolina
+- U.S.
+- UNITED STATES OF AMERICA
+- United States
+people:
+- Donald Trump
+- Herman Cain
+- Jerome Powell
+- Kevin Warsh
+- Michael Whatley
+- Stephen Miran
+- Stephen Moore
+organisations:
+- AAA
+- CEA
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
+- Justice Department
+- NPR
+- Senate
+- Treasuries
+- Trump
 ---
 
 President Donald Trump on Wednesday slammed the Federal Reserve after the central bank raised its benchmark rate for the first time in more than three years with a nonsensical rant in which he lectured the bank on how to run monetary policy, insisting interest rates "should be 1%, or less," hours

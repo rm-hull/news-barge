@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Chicago
+- Washington Park
+people:
+- Paul Rutherford
+- Terry Jones
+organisations:
+- CBS News Chicago
+- Cook County Crime Stoppers
 ---
 
 A mass shooting in a Chicago park left one person dead and at least 13 others injured.

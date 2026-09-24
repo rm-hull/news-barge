@@ -13,6 +13,13 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Bridge Street
+- Ouse Bridge
+- York
+people: []
+organisations:
+- Abby Backhouse)* North Yorkshire Police
 ---
 
 *(Image: Abby Backhouse)*

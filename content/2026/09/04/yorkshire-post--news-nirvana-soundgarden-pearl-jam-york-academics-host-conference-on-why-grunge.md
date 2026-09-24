@@ -14,6 +14,49 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Africa
+- Baltics
+- Cēsis
+- England
+- Hebden Bridge
+- Latvia
+- Leeds
+- Lord Mayor’s Walk
+- New York
+- Poland
+- Polytechnic
+- Seattle
+- UK
+- USA
+- United States
+- Washington
+- Yorkshire
+people:
+- Amy McCarthy
+- Frank Micelotta
+- Gordon Raphael
+- Grace Elizabeth Emerson
+- John Blow
+- John Moores
+- Joi Katskee
+- Klaudia Rachubińska
+- Kristīne Brence.
+- Kurt Cobain
+- Michael Ayokunle Osagie
+- Sintija Brence
+- Zana Bayley
+organisations:
+- Alice in Chains
+- Green River
+- Grunge Included
+- Humanities PhD
+- Nirvana
+- Pearl Jam
+- Sintija
+- The Duchess of York
+- The Strokes
+- York St John University
 ---
 
 # Nirvana, Soundgarden, Pearl Jam: York academics host conference on why grunge still resonates today

@@ -11,6 +11,26 @@ description: Huawei's MatePad Air has one display upgrade I desperately want App
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/TVmmCPXLgQavApgdLtZLZ6-2560-80.jpg
+locations:
+- Asia
+- UK
+- US
+- West
+people:
+- Sanuj Bhatia
+organisations:
+- Android Authority
+- Android Central
+- Android Police
+- Apple
+- Chelsea
+- Google News
+- Huawei MatePad Air
+- MatePad Air
+- Sanuj Bhatia
+- TechRadar
+- Tom's Guide
+- iPad Air
 ---
 
 ![Hands-on with the Huawei MatePad Air (2026)](https://cdn.mos.cms.futurecdn.net/TVmmCPXLgQavApgdLtZLZ6.jpg)

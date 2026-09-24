@@ -15,6 +15,11 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Darlington
+- Wentworth Way
+people: []
+organisations: []
 ---
 
 PERFECT for first-time buyers or a family looking for a little more room to spread out in, in the shape of a third bedroom, this spacious house on Wentworth Way in Darlington offers a comfortable and inviting home that’s ready to move into.

@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Fort Bragg
+- Iran
+- Middle East
+- Oman
+- Pacific
+- San Francisco
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Washington
+- Zaporizhzhia
+people:
+- Shahed
+organisations:
+- Get Tom's Hardware
+- Mara
+- U.S. Navy
+- US Army
+- White House
 ---
 
 ![Map of the Middle East highlighting the Strait of Hormuz as a high-risk maritime zone between Iran and Oman. Concept illustration showing cargo ships and oil tankers avoiding the area due to security threats and geopolitical tension affecting global shipping and energy transport routes.](https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS-320-80.jpg)

@@ -15,6 +15,34 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Bedburn
+- Britain
+- Consett
+- County Durham
+- Craigside
+- Crook
+- Fir Tree
+- Hamsterley Forest
+- Hamsterley Hall
+- Harperley
+- Historic England
+- Lanchester
+- North Africa
+- Weardale
+- Windlestone Hall
+people:
+- Enz
+- George Kinnear Stobart
+- Harperley
+- Rudi Lux
+- Sarah Caldecott
+organisations:
+- Crook Workers’ Educational Association
+- Der Quell
+- Durham University Library
+- McDonald's
+- Steph Houghton New County Durham Farmfoods
 ---
 
 Hidden in the County Durham countryside near Fir Tree and Crook is one of Britain’s most remarkable surviving reminders of the Second World War: Harperley Prisoner of War Camp.

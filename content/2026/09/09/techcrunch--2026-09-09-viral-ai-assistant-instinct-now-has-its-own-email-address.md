@@ -11,6 +11,14 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Noah Shinn
+organisations:
+- 1Password
+- AI
+- Instinct
+- Stripe
 ---
 
 Instinct, the buzzy new AI assistant now valued at $2.5 billion, is rolling out a new feature that will allow it to do more on its users’ behalf: It’s giving everyone Instinct email addresses.

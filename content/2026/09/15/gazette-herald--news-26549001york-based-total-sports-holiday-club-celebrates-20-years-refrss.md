@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- East Riding
+- Harrogate
+- Knaresborough
+- Leeds
+- Pocklington
+- Surrey
+- Wakefield
+- York
+- Yorkshire
+people:
+- Kerry Holliday
+- Ollie Holliday
+organisations:
+- PPA
+- Total Sports
+- Total Sports team
+- Yorkshire
 ---
 
 *(Image: Supplied)*

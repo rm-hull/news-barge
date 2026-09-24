@@ -11,6 +11,60 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Atlanta
+- Aurora
+- California
+- Casper
+- Chicago
+- Clovis
+- Colorado Springs
+- Commack
+- Connecticut
+- Costa Mesa
+- D.C
+- Elk Grove
+- Farmington
+- Florida
+- Georgia
+- Illinois
+- Jenkintown
+- Katy
+- Kentucky
+- Knightdale
+- Lexington
+- Livingston
+- New Jersey
+- New York
+- North Carolina
+- Oak Park
+- Ohio
+- Oklahoma
+- Orlando
+- Pennsylvania
+- Port St. Lucie
+- Prosper
+- Sacramento
+- San Antonio
+- Seattle
+- Skokie
+- Stillwater
+- Strongsville
+- Texas
+- Turlock
+- Washington
+- Washington, D.C.
+- Wyoming
+people:
+- James Daunt
+organisations:
+- Amazon
+- Barnes & Noble
+- Borders Books
+- CBS News
+- The Independent
+- Waterstones
 ---
 
 Barnes & Noble is expanding with a slew of new bookstores across America.

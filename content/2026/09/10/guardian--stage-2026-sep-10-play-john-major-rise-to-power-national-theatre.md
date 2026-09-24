@@ -11,6 +11,65 @@ image: https://i.guim.co.uk/img/media/1aba024efeb504624d63a00482c0286244d0d5a1/3
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Caribbean
+- Dorfman
+- Europe
+- London
+- Northern Ireland
+- Shakespeare
+- South Africa
+- South Bank
+people:
+- A Whistle
+- Bernardine Evaristo
+- Carmen Nasr
+- Danny Sapani
+- Dark
+- David Hare
+- Emilia Clarke
+- Emily Burns
+- Emma Corrin
+- Felix Barrett
+- Gary Beadle
+- Harriet Walter
+- Iman Qureshi
+- Indhu Rubasingham
+- James Graham
+- Jeremy Herrin
+- Jo Martin
+- Joan Armatrading
+- John Major
+- Kate Varah
+- Loverman
+- Lucian Msamati
+- Lucy Kirkwood
+- Margaret Thatcher
+- Marianne Elliott
+- Michael Grandage
+- Miranda Cromwell
+- Moira Buffini
+- Natasha Gordon
+- Nelson Mandela
+- Oladipo Agboluaje
+- Paul Mescal
+- Paulette Randall
+- Phyllida Lloyd
+- Richard Eyre
+- Samira
+- Shakespeare
+- Tom Murphy
+- Tom Stoppard
+- Tracy Letts
+- Uzo Aduba
+organisations:
+- Death of a Salesman
+- Hamlet
+- National Theatre
+- National Theatre Collection
+- National’s
+- Punchdrunk
 ---
 
 A new play about John Major’s rise to power, written by James Graham, will premiere at the National Theatre in London next year, as part of a season that puts political upheaval and global conflict at the heart of its programme.

@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/09/14/08/Sweden_Election_5_276.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Frankfurt
+- Germany
+- Riksdag
+- Stockholm
+- Sweden
+- Ukraine
+people:
+- David McHugh
+- Jimmie Åkesson
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- Cabinet
+- Center Party
+- European Union
+- Left Party
+- NATO
+- Sweden Democrats
+- Swedish Election Authority
 ---
 
 Sweden's next government remained uncertain on Monday as the national election inched toward a final result, with a thin lead for the left-wing opposition and an underwhelming performance by a hard-right anti-immigration party.

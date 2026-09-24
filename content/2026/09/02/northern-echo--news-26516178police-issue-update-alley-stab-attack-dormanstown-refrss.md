@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Britannia Place
+- Broadway West
+- Dormanstown
+- Redcar
+- THE NORTHERN ECHO
+people:
+- Marian
+organisations:
+- Cleveland Police
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

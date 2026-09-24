@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/47/57/1200x675_cmsv2_8260e74a-d3b9-598a-afc0-33edb3c8b327-9924757.jpg
+locations:
+- Guangzhou
+- Wuhan
+people:
+- Lian Yunzhi
+organisations: []
 ---
 
 Six-year-old Chinese girl Lian Yunzhi has twice broken the women’s world record for solving a 3x3 Rubik’s Cube in just three days.

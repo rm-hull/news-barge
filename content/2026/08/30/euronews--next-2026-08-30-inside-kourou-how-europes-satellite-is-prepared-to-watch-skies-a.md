@@ -15,6 +15,48 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- Africa
+- Atlantic
+- Bordeaux
+- Canopée
+- Earth
+- Europe
+- France
+- French Guiana
+- Germany
+- Indian Ocean
+- Jupiter
+- Kourou
+- Old Continent
+- Paris
+- Rotterdam
+- South America
+- United States
+people:
+- Cristian Bank
+- François Laforge**
+- Frédéric
+- Graeme Mason**
+- James Champion**
+- Leonard Bouchaillot**
+- Maxime André
+organisations:
+- Ariane
+- ArianeGroup
+- Arianespace
+- Bank
+- CNES
+- Canopée
+- ESA
+- Eumetsat
+- Eumetsat**
+- European Space Agency
+- MTG
+- MTG-I2
+- Meteosat
+- National Centre for Space Studies
+- Thales Alenia Space
 ---
 
 ## Engineers from ArianeGroup, Arianespace, CNES, Eumetsat, ESA and Thales Alenia Space describe, stage by stage, how an Ariane 6 rocket and a 3.8-tonne weather satellite were brought together to the launch pad of Europe's Spaceport.

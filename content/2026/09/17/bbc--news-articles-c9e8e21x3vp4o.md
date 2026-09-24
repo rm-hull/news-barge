@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bedfont Lakes Country Park
+- Bedfont Pits
+- Fareham
+- Feltham
+- London
+- Padstow Walk
+- Southampton
+people:
+- Joanne Sheen
+- Toby Elcock
+organisations:
+- Crimestoppers
+- Hampshire Police
+- London Fire Brigade
+- Major Crime Team
+- Metropolitan Police
 ---
 
 ![A woman smiles into the camera making peace signs with both hands](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/20a1/live/d5866d50-b2a9-11f1-bc1f-3f186ca4140c.jpg)

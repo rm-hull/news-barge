@@ -11,6 +11,26 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/17/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Brexit Britain
+- PA
+- Scotland
+- UK
+- Westminster
+people:
+- Andrew Bailey
+- Andrew Milligan
+- Andy Burnham
+- Dave Doogan
+- Keir Starmer
+organisations:
+- Bank of England
+- Budget
+- Commons
+- European Union
+- Labour Party
+- Ofgem
+- SNP
 ---
 
 The SNP has warned that the UK is heading towards "another brutal budget", with Dave Doogan cautioning that upcoming tax and spending plans could bring a "bad case of Westminster deja vu".

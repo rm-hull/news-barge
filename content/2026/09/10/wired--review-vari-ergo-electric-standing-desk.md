@@ -12,6 +12,12 @@ categories:
 - Technology & Software
 - Science
 - Lifestyle & Fashion
+locations:
+- Ergo
+people:
+- Vari
+organisations:
+- Vari Ergo
 ---
 
 In my job as a product reviewer, I have learned to fear large boxes. Each one that arrives, whether an office chair or a pellet smoker, might mean anywhere from 20 minutes to multiple hours scratching my head at arcane diagrams, while bent upside down trying to find the right place to put a screw without dropping it.

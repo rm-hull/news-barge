@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Escrick
+- Heronby
+- North Yorkshire
+- Selby
+- York
+people:
+- Beilby Forbes Adam
+- Forbes Adam
+- Generation Limbo’
+- Heronby
+- John Cattanach
+- Steve Shaw-Wright
+organisations:
+- A19
+- Cawood and Escrick
+- Escrick Park Estate
+- Heronby
+- North Yorkshire Council
+- Selby
 ---
 
 Fresh plans are being developed for a new community of around 3,500 homes between York and Selby.

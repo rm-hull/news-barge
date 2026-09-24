@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Hopetown
+people:
+- Chris McEwan
+- Cllr McEwan
+- Dom Coles
+organisations:
+- Amazon
+- Cummins
+- Cummins'
+- Darlington Borough Council
+- Darlington Building Society
+- Darlington College
+- EMEA
+- Hitachi
+- Husqvarna
+- Magnet
+- Martin Brower
+- North East STEM Foundation
+- Northumbrian Water
+- Teesside University
+- Willmott Dixon
 ---
 
 *(Image: Darlington Borough Council)*

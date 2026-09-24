@@ -11,6 +11,27 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
+locations:
+- UK
+people:
+- Binance
+- Claude
+organisations:
+- AI
+- B2PRIME Group
+- ChatGPT
+- EY
+- FCA
+- Financial Conduct Authority
+- Financial Ombudsman Service
+- Financial Services Compensation Scheme
+- Future plc
+- LLM
+- Mills Review
+- STRAT7
+- Sky News
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg)

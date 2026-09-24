@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Elizabeth Line
+- Ilford station
+- Kingston Road
+people:
+- Ayodele Jamgbadi
+- Benedict Kelleher
+- Jorge Ortega
+- Michael Parsons
+- Mohammed Alim
+- Nicola Shannon KC
+- Patrick Dennis
+organisations:
+- CCTV
+- Inner London Crown Court
+- MTREL
+- RMT
+- TfL
+- Transport for London
 ---
 
 An Elizabeth Line railway worker died after a single punch from a “angry” passenger, a court has heard.

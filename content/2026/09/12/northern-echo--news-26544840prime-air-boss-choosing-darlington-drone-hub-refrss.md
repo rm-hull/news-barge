@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Darlington
+- Europe
+- Symmetry Park
+- Teesside Airport
+- UK
+- US
+people:
+- David Carbon
+organisations:
+- ANDY FUTERS
+- Amazon Darlington
+- Amazon Prime
+- Amazon Prime Air
+- Church
+- Civil Aviation Authority
+- NATS
+- National Air Traffic Services
+- The Northern Echo
 ---
 
 On a small concrete slab, beside a mammoth Amazon warehouse in Darlington, lies the dawn of a new era of drone deliveries for the whole of Europe.

@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+- Wyke
+people:
+- Dave Allen
+- Geoff Holmes
+- Marek Pawlak
+organisations:
+- '## Firm'
+- Nufarm
+- Supply Chain Operations
+- Wyke
+- px Group
 ---
 
 *(Image: Supplied)*

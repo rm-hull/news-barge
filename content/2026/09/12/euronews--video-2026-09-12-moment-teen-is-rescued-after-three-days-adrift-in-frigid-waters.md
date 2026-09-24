@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Alaska
+- Bering Sea
+- St. Lawrence Island
+people: []
+organisations:
+- Coast Guard
 ---
 
 A 15-year-old boy has been rescued after surviving nearly three days adrift on an overturned boat in Alaska’s freezing Bering Sea.

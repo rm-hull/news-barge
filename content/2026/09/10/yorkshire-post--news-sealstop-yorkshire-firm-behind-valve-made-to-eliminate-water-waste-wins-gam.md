@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Belle Richardson
+- Pocklington
+- UK
+- Yorkshire
+people:
+- Belle Richardson
+- Jason
+- SealStop
+organisations:
+- BBC’s One Show
+- Belle Richardson
+- Mayor of York
+- North Yorkshire’s Business Innovation Fund Business Innovation Fund
+- SealStop
+- Yorkshire
 ---
 
 # SealStop: Yorkshire firm behind valve made to eliminate water waste wins ‘game changing’ £60,000 grant

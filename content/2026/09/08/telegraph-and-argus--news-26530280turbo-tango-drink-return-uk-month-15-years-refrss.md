@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Gorilla
+- Manchester
+- UK
+people:
+- Biggs
+- Dave Laidler
+- Gen Z
+organisations:
+- Carlsberg Britvic
+- Gen Z Brits
+- JV
+- Turbo Tango
+- Turbo Tango Lab Party
 ---
 
 A fan favourite Tango drink is making a comeback this month after 15 years.

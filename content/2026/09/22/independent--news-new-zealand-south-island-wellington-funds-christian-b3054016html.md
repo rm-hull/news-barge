@@ -13,6 +13,18 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/07/New_Zealand_Gloriavale_Charity_4_5_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- New Zealand
+- South Island
+people:
+- Gloriavale
+- Howard Temple
+- Jane Wrightson
+organisations:
+- Charities Registration Board
+- Christian Church Community Trust
+- Gloriavale
+- Ministry of Education
 ---
 
 The charity arm of a cloistered New Zealand commune was stripped of its tax-exempt status Tuesday after an investigation found the trust’s funds enabled “serious wrongdoing” by the religious group, including the use of child labor and failing to report sexual crime.

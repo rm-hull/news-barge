@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Cornmill Shopping Centre
+- Darlington
+- England
+- Firthmoor Community Centre
+people:
+- ?'** Cllr Roche
+- David Brown
+- Matthew Roche
+- Stuart Boulton
+organisations:
+- A66
+- Darlington Borough Council
+- If U Care Share
+- U Care Share
 ---
 
 *(Image: Stuart Boulton)*

@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Abu Dhabi
+- Austin
+- Australia
+- Austria
+- Azerbaijan
+- Bahrain
+- Belgium
+- Brazil
+- Britain
+- Canada
+- Canada4-6
+- China
+- Hungary
+- Iran
+- Israel
+- Italy
+- Japan
+- Las Vegas
+- Mexico
+- Miami
+- Middle East
+- Monaco
+- Portugal
+- Qatar
+- Saudi Arabia
+- Silverstone
+- Singapore
+- Spain
+- Tabac corner
+- Turkey
+- US
+- USA
+people:
+- Charles Leclerc
+- Mohammed Ben Sulayem
+- Ramadan
+- Stefano Domenicali
+organisations:
+- F1
+- FIA
+- Ferrari
+- Monaco
 ---
 
 ![Charles Leclerc's Ferrari exits Tabac corner in Monaco in 2026](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/316d/live/f1668190-b146-11f1-a383-57f33d64a166.jpg)

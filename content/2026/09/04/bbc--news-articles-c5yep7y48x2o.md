@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Chornomorsk
+- Kyiv
+- Moscow
+- Odesa
+- Russia
+- St Sophia
+- US
+- Ukraine
+people:
+- Andriy Sybiha
+- Donald Trump
+- Jared Kushner
+- Oleksandr Poklad
+- Stanislav Zavertaylo
+- Steve Witkoff
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Axios
+- BBC
+- Kyiv
+- SBU
+- Security Service
+- Security Service of Ukraine
+- Telegram
+- Zavertailo
 ---
 
 ![Black smoke pours from two windows in a large government building with Ukrainian flags on the facades. Ambulances and security personnel crowd the street below.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6455/live/4b6d29e0-a888-11f1-aed2-8d6da8d75094.jpg)

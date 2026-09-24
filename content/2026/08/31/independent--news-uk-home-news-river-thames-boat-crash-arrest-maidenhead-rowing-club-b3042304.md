@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Maidenhead Rowing Club
+- River Thames
+- Windsor
+people:
+- Laura Al-Owaied
+organisations:
+- Thames Valley Police
 ---
 
 A man has been arrested after allegedly verbally abusing rowers on the River Thames before his boat hit a rowing boat and its occupant, police say.

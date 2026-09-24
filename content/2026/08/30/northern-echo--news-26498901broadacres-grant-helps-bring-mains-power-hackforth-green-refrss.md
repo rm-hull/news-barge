@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Bedale
+- County Durham
+- Darlington
+- Hackforth
+- North Yorkshire
+people:
+- Cllr Dodd
+- Graeme Dodd
+organisations:
+- Community and Sustainability Fund
+- The Broadacres Community and Sustainability Fund
 ---
 
 *(Image: Supplied)*

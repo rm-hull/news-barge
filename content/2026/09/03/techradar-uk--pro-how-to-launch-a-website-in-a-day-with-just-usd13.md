@@ -10,6 +10,24 @@ image: https://cdn.mos.cms.futurecdn.net/pn8mi5bwjphoGzQMBBhCDP-1376-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- GitHub
+- India
+- West Bengal
+people:
+- Ritoban Mukherjee
+organisations:
+- AI
+- Claude Code
+- Creative Bloq
+- GitHub Pages
+- Gizmodo
+- IT Pro
+- Quartz
+- Ritoban Mukherjee
+- Supabase
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![a man building a website on a macbook in a minimalist office](https://cdn.mos.cms.futurecdn.net/pn8mi5bwjphoGzQMBBhCDP.jpg) 

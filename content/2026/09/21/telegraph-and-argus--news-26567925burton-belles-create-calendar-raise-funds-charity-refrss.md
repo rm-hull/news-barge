@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21480373.jpg?type=og-image&xType=0&yType=171
+locations:
+- Burton-in-Lonsdale
+- Carlsberg
+- Lancashire
+- Rosemere Cancer Centre
+- Royal Preston Hospital
+- South Cumbria
+people:
+- Andy Murray
+- Belle Susan Hirst
+- Burton Belles
+- Hannah Leahy
+- Karen
+- Kate
+- Lee
+- Marilyn Smith
+- Ms Smith
+- Tim Riley
+organisations:
+- Belles
+- NHS
+- Punch Bowl Inn
+- Rosemere Cancer Foundation
+- Virgin
 ---
 
 A GROUP of friends has turned humour into heartfelt fundraising in a project that's putting their village in the spotlight.

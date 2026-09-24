@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people:
+- Joana Sadovskaja
+- Joanna
+- Nicholas Auckland
+organisations:
+- Bradfordians
+- Lovesofas
+- Trade Radiators
 ---
 
 *(Image: Getty Images)*

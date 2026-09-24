@@ -13,6 +13,52 @@ categories:
 - UK
 - Sports
 - History
+locations:
+- Britain
+- Bunge
+- Dnipro
+- Dnipropetrovsk
+- Europe
+- Kremlin
+- Kyiv
+- Moscow
+- Norway
+- Pavlohrad
+- Russia
+- Saratov
+- Sumy
+- US
+- Ukraine
+- Ukrnafta
+- United States
+- Volga River
+- Volgograd
+- Zaporizhzhia
+people:
+- Andrei Bocharov
+- Andrii Sybiha
+- Bohdan Kukura
+- Donald Trump
+- Oleksandr Hanzha
+- Ozon
+- Sergii Koretskyi
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Xi Jinping
+- Yuri Ushakov
+organisations:
+- APEC
+- Asia-Pacific Economic Cooperation
+- Facebook
+- Lukoil
+- Nato
+- Ozon
+- Reuters
+- TASS
+- Telegram
+- Trump
+- Ukrnafta
 ---
 
 At least five people were killed and 67 others were injured as Russian drones hit a shopping mall in Pavlohrad, a city in southeastern Ukraine.

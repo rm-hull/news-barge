@@ -14,6 +14,26 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- Alaska
+- America
+- California
+- Dallas
+- Texas
+people:
+- Gabriel
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+- West
+organisations:
+- Centers for Disease Control and Prevention
+- McKenna West
+- Report for America Statehouse News Initiative
+- Supreme Court
+- The Associated Press
+- U.S. Supreme Court
+- ___ Wilder
 ---
 
 A California couple's surrogate who refused their wishes to have an abortion has asked the U.S. Supreme Court to intervene in a custody dispute over the 4-week-old child who was born with a serious heart defect.

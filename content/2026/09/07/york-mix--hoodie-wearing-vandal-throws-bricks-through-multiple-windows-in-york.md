@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '#### Kingsway North'
+- Clifton
+- Kingsway North**
+- York
+people:
+- Rob Gooch
+organisations:
+- North Yorkshire Police
 ---
 
 Police are searching for a hoodie-wearing cyclist after windows were smashed on a York street.

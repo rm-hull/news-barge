@@ -14,6 +14,39 @@ categories:
 - Travel
 - History
 - Sports
+locations:
+- Bagnères-de-Luchon
+- Canada
+- France
+- Harrogate
+- Italy
+- Luchon
+- New Zealand
+- Pyrenees
+- Yorkshire
+people:
+- Dennis Richards
+- Dennis Richards'
+- Emma Dooley
+- George Dickson
+- James Beagley
+- John Dunn
+- Magnus Denwood
+- Rob
+- Sebastien Denard
+- Tom
+- Viv Poskitt
+organisations:
+- Bagnères-de-Luchon
+- COVID
+- Endless
+- HIP
+- Harrogate International Partnerships
+- Harrogate Town AFC
+- Harrogate Town Council
+- Hornbeam Park Developments
+- Verity Frearson
+- Your Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e77121d017bd6153.jpg) 

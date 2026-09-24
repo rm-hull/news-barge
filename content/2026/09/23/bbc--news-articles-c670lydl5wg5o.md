@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c5d/live/94bf0a90-b72f-11f1-9f81-a10976817ca3.jpg
+locations:
+- Hollywood
+- Los Angeles
+- Nashville
+- US
+people:
+- '## Parton'
+- Alive
+- Bryan Seaver
+- Cassie
+- Danny Nozell
+- Dolly Parton
+- Larry
+- She
+organisations:
+- BBC
+- Instagram
+- She's Alive
+- TMZ
 ---
 
 ![Dolly Parton](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4c5d/live/94bf0a90-b72f-11f1-9f81-a10976817ca3.jpg)

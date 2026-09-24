@@ -15,6 +15,18 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Royal Victoria Infirmary
+people:
+- Natalie McDonald
+- Owen Humphreys
+- Valentina Foster
+organisations:
+- Cleveland Police
+- James Cook University
 ---
 
 # One of two suspects released after house fire which killed girl, seven, and aunt

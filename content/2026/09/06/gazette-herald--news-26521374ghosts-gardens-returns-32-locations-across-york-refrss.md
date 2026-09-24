@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Holy Trinity Church
+- Museum Gardens
+- York Museum Gardens
+- York Railway Station
+people:
+- Carl Alsop
+- Mary Anne Fisher
+organisations:
+- Barley Hall
+- Clifford’s Tower
+- Merchant Adventurers’ Hall
+- Museum Gardens
+- York BID
+- York Castle Museum
+- York Museums Trust
 ---
 
 Ghostly figures will soon haunt city streets once again as part of a popular public art trail.

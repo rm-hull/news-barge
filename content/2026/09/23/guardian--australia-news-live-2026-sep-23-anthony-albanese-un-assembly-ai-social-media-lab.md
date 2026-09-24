@@ -12,6 +12,95 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/4b41c0fc4d77a9ff92ec33f1f65717535fef6825/0_156_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1fad3f1424a2b6ce61fde41b00b5116d
+locations:
+- Adelaide
+- Britain
+- Carlton
+- Farnborough Road
+- Fishing Creek Road
+- Japan
+- Melbourne
+- Metro Tunnel
+- New York
+- New York AnthonyAlbanese
+- Oak Park Station
+- Pacific
+- Queensland
+- Russia
+- South Australia
+- Spain
+- Tokyo
+- Tonga
+- US
+- Victoria
+people:
+- Andy Burnham
+- Angus] Taylor
+- Anthony Albanese
+- Barnaby Joyce
+- Chris Kourakis
+- Chris Young KC
+- Daniel Ryan
+- Darren Fielke
+- David Crisafulli
+- Donald Trump
+- DonaldTrump
+- Emmanuel Macron
+- Georgie Dent
+- Gus Lamont
+- Isis
+- Jane Hume
+- Jess
+- Jim Chalmers
+- Joel Carrett
+- Josh
+- Mark Butler
+- Matt Canavan
+- Mick Tsikas
+- Nicholas Jordan
+- Nick Jordan
+- Patrick Commins
+- Paula Hudson
+- Pauline Hanson
+- Pedro Sanchez
+- Penny Wong
+- Peter Greste
+- Peter Malinauskas
+- Peter Tantalos
+- Sanae Takaichi
+- Teagan Glenane
+- Tim Wilson
+- Tom McIlroy Anthony Albanese
+- Wagyu
+organisations:
+- AAP
+- ABC
+- AFP
+- Australian Border Force
+- Big Build
+- Bush Deep
+- CFMEU
+- CLP
+- EPA Hume
+- Getty Images Police
+- Guardian Australia
+- Ibac
+- Independent Broad-based Anti-corruption Commission
+- Instagram
+- Isis Counter-terrorism
+- Labor
+- Liberal
+- Lukas Coch/AAP Police
+- NT
+- National Press Club
+- One Nation
+- Parenthood
+- Queensland’s Rural and Stock Crime Squad
+- SA
+- Sky News
+- Treasury
+- UN General Assembly
+- United Nations
 ---
 
 Anthony Albanese meets Japanese PM Sanae Takaichi in New York

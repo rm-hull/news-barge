@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/09/12/14/Climate_No_Hurricanes_7216
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Albany
+- Atlantic
+- Caribbean
+- El Nino
+- Gulf of Mexico
+- Hawaii
+- Pacific Just
+people:
+- Brian McNoldy
+- Kerry Emanuel
+- Kristen Corbosiero
+- Nick Novella
+- Phil Klotzbach
+organisations:
+- AP
+- Associated Press’
+- Colorado State University
+- El Nino
+- El Ninos
+- Massachusetts Institute of Technology
+- National Hurricane Center
+- The Associated Press
+- University of Miami
+- Weather Prediction Center
 ---
 
 The Atlantic is quiet — record quiet — this hurricane season thanks to an enormous El Nino that crushes storms before they get going.

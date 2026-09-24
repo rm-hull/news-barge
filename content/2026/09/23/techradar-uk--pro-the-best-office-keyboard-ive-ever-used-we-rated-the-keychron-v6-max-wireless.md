@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/ZZdVv94RCajfCC2CzSVd5Z-2560-80.jpg
+locations:
+- Amazon
+- UK
+- US
+people:
+- Steve
+- Wayne Williams
+organisations:
+- Argos
+- Gateron Jupiter Red
+- PC
+- PCB
+- TechRadar Pro
+- V6 Max
+- Wayne Williams
 ---
 
 ![Keychron V6 Max mechanical keyboard during our review](https://cdn.mos.cms.futurecdn.net/ZZdVv94RCajfCC2CzSVd5Z.jpg)

@@ -13,6 +13,14 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Ford Transit
+- Long Mann Hill Road
+- North Yorkshire
+- Selby
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

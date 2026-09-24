@@ -13,6 +13,18 @@ categories:
 - York
 - Science
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY0NDhlMjVlLWQyMjktNDI4MC1hMmVkLTk4ODRjOTI3YzllNzo4YTAwZjQxNi1jZGU4LTQ0ZTQtOGEwYS02MjAyNmY4NGIwMTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Flamborough Head
+- Grimsby Docks
+- North Landing
+- The Yorkshire
+people:
+- Richard M Jones
+- Rosa
+organisations:
+- Admiralty
+- Royal National Lifeboat Institution
+- SS Rosa “
 ---
 
 # SS Rosa: The mysterious Flamborough shipwreck that only appears at low tide

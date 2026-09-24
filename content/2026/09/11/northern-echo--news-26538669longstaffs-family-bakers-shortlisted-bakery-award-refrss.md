@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- Bishop Auckland
+- Carlisle
+- Dalston Road
+- Darlington
+- Newgate Street
+- Sunderland
+people:
+- David
+- Emma Longstaff
+- SARAH CALDECOTT
+organisations:
+- 5NP
+- LOCALLY House
+- Longstaff's Family Bakers
+- The Northern Echo
+- The Northern Echo Best Bakery 2026
 ---
 
 *(Image: SARAH CALDECOTT)*

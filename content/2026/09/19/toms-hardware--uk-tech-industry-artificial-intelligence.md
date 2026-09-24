@@ -12,6 +12,26 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
+locations:
+- China
+- U.S.
+people:
+- Sergei Dragunov
+- Tom
+organisations:
+- American AI
+- Apple
+- Astra
+- Balatro
+- C4ADS
+- Get Tom's Hardware
+- Google
+- Huawei
+- Intel Lunar Lake
+- Microsoft
+- NYT
+- Nvidia
+- OpenAI
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png)

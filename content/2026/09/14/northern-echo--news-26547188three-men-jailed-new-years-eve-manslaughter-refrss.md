@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Centenery Crescent
+- Norton
+- Teesside Crown Court
+- Thornaby
+- Vale Drive
+people:
+- Aiden Matthews
+- Declan Moor
+- Kim Butler
+- Lee Bradshaw
+- Matthews'
+- Max Cashman
+organisations: []
 ---
 
 - Good morning and welcome to the live coverage of the sentencing of three men for the manslaughter of Aiden Matthews.

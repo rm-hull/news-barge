@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/09/18/09/2026-09-18T075538Z_1987698
 categories:
 - News & Politics
 - UK
+locations:
+- Chatham House
+- China
+- Europe
+- India
+- Iran
+- Kremlin
+- Levada
+- Moscow
+- Russia
+- Tehran
+- UK
+- US
+- Ukraine
+- White House
+people:
+- Alexei Navalny
+- Boris Nadezhdin
+- Donald Trump
+- Vladimir Putin
+organisations:
+- Duma
+- Kyiv
+- Levada Center
+- National Wealth Fund
+- Oval Office
+- United Russia Party
 ---
 
 Russians go to the polls in elections to its parliament amid a fuel crisis, mortuaries swollen with war dead, and an economy that is shrinking. All ingredients point to what should be a landslide against the ruling United Russia Party.

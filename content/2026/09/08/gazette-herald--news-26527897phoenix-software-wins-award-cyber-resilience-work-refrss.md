@@ -14,6 +14,21 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- London
+- Phoenix
+- UK
+people:
+- Alok Agrawal
+- Clare Metcalfe
+- Rubrik
+organisations:
+- AI
+- IT
+- Phoenix Software
+- Rubrik Forward EMEA
+- Rubrik’s Transform
+- Rubrik’s Transform Partner Programme
 ---
 
 *(Image: Phoenix)*

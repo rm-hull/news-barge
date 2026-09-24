@@ -12,6 +12,48 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Belfast
+- Charlotte
+- Dales
+- Grassington
+- Skeldale House
+- Skipton
+- Yorkshire
+people:
+- Anna Madeley
+- Callum Woodhouse
+- Caolan McCarthy
+- Charlotte Beauvoir
+- Dorothy
+- Gaia Wise
+- Granville Bennett
+- Helen Herriot
+- Imogen Clawson
+- James Herriot
+- Jenny
+- Maggie
+- Maimie McCoy
+- Mollie Winnard
+- Mrs Hall
+- Ms McCoy
+- Nicholas Ralph
+- Patricia Hodge
+- Pekingese Tricki
+- Pumphrey
+- Rachel Shenton
+- Richard
+- Samuel West
+- Siegfried Farnon
+- Tony Pitts
+- Tristan Farnon
+organisations:
+- All Creatures Great
+- Channel 5
+- Cyrano de Bergerac
+- RSC
+- Radio Times
+- Small
 ---
 
 All Creatures Great and Small will return to screens this September.

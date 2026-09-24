@@ -14,6 +14,27 @@ categories:
 - Travel
 - History
 image: https://static.independent.co.uk/2026/09/19/02/Severe_Weather_Flooding_51886.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Four Corners
+- Mexican Springs
+- Mexican Springs Chapter House
+- Navajo Nation
+- New Mexico
+- Newcomb
+- San Juan River
+- Shiprock
+people:
+- Buu Nygren
+- Darnell Etsitty
+- Dora Franklin
+- Elsie Begay
+- Kalisi Begay
+- Lucy Allison Mike
+- Stella Wilson
+organisations:
+- Miss Sanostee Day School
+- Navajo Nation
+- Sanostee Day School
 ---
 
 Three generations of a Navajo family were heading home from picking up supplies for an 8th birthday party when their truck got stuck in mud as storms with heavy rain rolled through the area.

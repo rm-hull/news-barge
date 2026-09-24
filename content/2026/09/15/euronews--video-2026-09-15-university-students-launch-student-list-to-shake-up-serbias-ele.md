@@ -12,6 +12,23 @@ image: https://images.euronews.com/articles/stories/09/91/34/73/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgrade
+- Novi Sad
+- United Serbia
+people:
+- '** Dejan Šoškić**'
+- '** Feđa Dimović**'
+- '** Mihal Dudaš**'
+- '**Ilija Srđanović**'
+- Aleksandar Baucal
+- Aleksandar Vučić
+- Dejan Bodiroga**
+organisations:
+- RIK
+- Republic Electoral Commission
+- SNS
+- Serbian Progressive Party
 ---
 
 Serbia’s student movement has submitted its **“Student List – Students Win”** to the Republic Electoral Commission (RIK), after thousands of supporters marched through central Belgrade to the commission’s headquarters. Students carried boxes of signatures gathered in recent days in a bid to qualify for the ballot.

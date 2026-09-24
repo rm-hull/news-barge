@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Bukavu
+- Chimpunda
+- Kadutu
+- Kinshasa
+- South Kivu
+people: []
+organisations:
+- AFC
+- M23
+- UNICEF
+- Ujamaa Primary School
 ---
 
 Families gathered around rows of coffins, some carrying photographs of the victims, while hundreds attended the service in the eastern city. UNICEF said at least 26 children died and 25 others were injured.

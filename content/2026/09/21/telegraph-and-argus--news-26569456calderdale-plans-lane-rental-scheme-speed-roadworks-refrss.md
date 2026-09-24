@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21165462.jpg?type=og-image
+locations:
+- Burnley Road
+- Calderdale
+- Halifax
+- Luddenden Foot
+- Tenterfields
+people:
+- Coun Darren Commons
+organisations:
+- All Street Permit Scheme
+- Brighouse
+- Calderdale Council
+- Coun Commons
+- Energy Assets
+- Energy Assets Pipelines
+- Highways and Transport
+- Labour
+- Lane Rental
+- Local Democracy Reporting Service
+- Reform UK
+- West Yorkshire Combined Authority
 ---
 
 Lane rental – rather than permitting – could be introduced next year to try and speed up roadworks around the borough which have sometimes frustrated Calderdale travellers.

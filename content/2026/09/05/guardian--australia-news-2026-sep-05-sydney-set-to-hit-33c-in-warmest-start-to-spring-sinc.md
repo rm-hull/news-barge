@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Brisbane
+- Flinders
+- Mount Lofty
+- NSW
+- New South Wales
+- Northern Territory
+- Observatory Hill
+- Pacific
+- Queensland
+- Snowy Mountains
+- South Australia
+- Sydney
+- Tasmania
+- Thredbo
+- Victoria
+- Western Australia
+people:
+- Anthony Sharwood
+- David Crock
+- Tom Saunders
+organisations:
+- ABC News
+- BoM
+- Bureau of Meteorology
+- El Niño
+- UN
+- Weatherzone
 ---
 
 Summer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales.

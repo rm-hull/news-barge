@@ -9,6 +9,32 @@ description: New health features, AI ambitions, and big leap in processing power
 image: https://cdn.mos.cms.futurecdn.net/9ZyBoZvguyz7CPXsH59HC4-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- U.S.
+- US
+people:
+- Bruce Springsteen
+- Jacob Krol
+- Live Rewind
+- Siri Recap
+organisations:
+- Apple Watch
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- Fitbit Air
+- Google News
+- Jacob Krol
+- Marvel
+- Mashable
+- Men’s Journal
+- News for TechRadar
+- S11
+- Samsung
+- Shazam
+- TheStreet
+- Whoop
 ---
 
 ![Apple Watch Series 12 Review](https://cdn.mos.cms.futurecdn.net/9ZyBoZvguyz7CPXsH59HC4.jpg) 

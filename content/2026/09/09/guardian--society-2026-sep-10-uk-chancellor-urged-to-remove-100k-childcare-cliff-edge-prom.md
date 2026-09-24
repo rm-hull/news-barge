@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Coventry
+people:
+- Andy Burnham
+- Arun Advani
+- John Healey
+- Rachel Reeves
+organisations:
+- CenTax
+- Centre for Tax Reform
+- Labour
+- Treasury
+- Warwick University
 ---
 
 John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.

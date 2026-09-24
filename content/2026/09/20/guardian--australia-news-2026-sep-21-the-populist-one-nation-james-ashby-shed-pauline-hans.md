@@ -15,6 +15,35 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/c29aa0c171de4e32c033ab447f07ef9b68b43870/14_0_1385_1108/master/1385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a81fb402a9f0a5f8038cf2a3c87eccca
+locations:
+- Albury
+- Australia
+- Brisbane
+- Livingstone
+- Queensland
+- Rockhampton
+- Yeppoon
+people:
+- Adam Giles
+- Alexander Jones
+- Gina Rinehart
+- James Ashby
+- Pauline Hanson
+organisations:
+- Australian Securities and Investment Commission
+- Cirrus
+- Department of Finance
+- Giles’
+- Guardian Australia
+- Hancock Agriculture
+- News24
+- One Nation
+- One Nation-linked
+- Sky News
+- Small Batch Brewing
+- Small Batch Brewing Pty Ltd
+- Sunshine and Sons
+- Yeppoon
 ---
 
 Pauline Hanson’s right-hand man, James Ashby, is enjoying generous benefits as a result of his role working for One Nation, with documents showing that a company linked to the party built a $56,000 shed on his central Queensland property.

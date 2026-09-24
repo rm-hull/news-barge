@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483605.jpg?type=og-image
+locations:
+- Bradford
+- Hall Lane
+- Lantern Court
+- Manchester
+people:
+- Adam King
+- Ahmed Nadim
+- James Eisen
+- Jeremy Hill-Baker
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Bradford
+- Buttershaw
+- Hollyoaks
+- New York
+- St George’s Hall
+- UK
+people:
+- Andrea Dunbar
+- Bob Too
+- Bob Too!
+- Buttershaw
+- Chantelle Joseph
+- David Munn
+- Jake Quickenden
+- Michelle
+- RITA
+- Rita
+- Said Jake
+- Sue & Bob Too!
+- Woody
+organisations:
+- Bradford
+- London’s Royal Court Theatre
+- Royal Court
 ---
 
 *(Image: David Munn)*

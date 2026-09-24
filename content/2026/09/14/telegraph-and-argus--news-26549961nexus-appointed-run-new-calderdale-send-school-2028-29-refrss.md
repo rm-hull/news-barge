@@ -12,6 +12,26 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Calderdale
+- Halifax
+- Ovenden
+- South Yorkshire
+- Threeways
+people:
+- Coun Tim Holden
+- Warren Carratt
+organisations:
+- Calderdale Council
+- Children and Young People’s Services
+- Delta Academies Trust
+- Department for Education
+- Labour
+- Nexus Multi Academy Trust
+- Our Trust
+- Ovenden Secondary
+- Reform UK
+- The Ridings School
 ---
 
 A trust has now been appointed to run a new free school for children with special educational needs and disabilities (SEND) in Calderdale, expected to open in academic year 2028-29.

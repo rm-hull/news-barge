@@ -13,6 +13,30 @@ image: https://cdn.mos.cms.futurecdn.net/EmdjELKacmsXcwFg5XecD6-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Amazon
+- Queenstown Road Station
+- Virgin River
+people:
+- Clarkson
+- Frances Bourgeois
+- Francis Bourgeois
+- George Cooper Sr.
+- James Engelsman
+- Thomas Holland
+organisations:
+- BBC 2
+- Engelsman
+- Google News
+- Hallmark
+- Holland
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- TikTok
+- Yahoo!
 ---
 
 ![James, Francis and Thomas pose in a metal barn](https://cdn.mos.cms.futurecdn.net/EmdjELKacmsXcwFg5XecD6.jpg) 

@@ -13,6 +13,14 @@ categories:
 - True Crime
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/police-incident-fourth-avenue-york-23-sept-2026-3.webp
+locations:
+- Fourth Avenue
+- Tang Hall
+- York
+people: []
+organisations:
+- Fourth Avenue Shop
+- North Yorkshire Police
 ---
 
 There’s a large police presence in a York suburb this afternoon (Wednesday).

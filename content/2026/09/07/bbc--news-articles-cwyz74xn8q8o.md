@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Austria
+- Belgium
+- Denmark
+- Europe
+- France
+- Vienna
+people:
+- '![Hadiya'
+- Carla Amina Baghajati
+- Christian Stocker
+- Christoph Wiederkehr
+- Claudia Bauer
+- Ricarda Berger
+- Sigi Maurer
+organisations:
+- BBC
+- Constitutional Court
+- FPÖ
+- Freedom Party
+- Green Party
+- IGGÖ
+- Islamic Community in Austria
+- NEOS
+- Neos
+- ORF
+- People's Party
+- SPÖ
+- Social Democrats
+- ÖVP
 ---
 
 ![A stock image of a girl wearing a blue headscarf. She is sitting down in a classroom, facing with her back towards the camera.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg)

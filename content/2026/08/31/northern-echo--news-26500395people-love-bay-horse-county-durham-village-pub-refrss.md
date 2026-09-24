@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Atlantic
+- Bishop Auckland
+- County Durham
+- Darlington
+- Middridge
+- NORTHERN ECHO
+- Newton Aycliffe
+people: []
+organisations:
+- Bay Horse
+- DL5 7JD
+- NORTHERN ECHO
+- The Green
+- TripAdvisor
 ---
 
 *(Image: NORTHERN ECHO)*

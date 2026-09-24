@@ -12,6 +12,24 @@ image: https://images.euronews.com/articles/stories/09/91/60/76/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Kosovo
+- Pristina
+- Thaci
+- The Hague
+people:
+- '*“Thaci'
+- Hashim Thaçi
+- Jakup Krasniqi
+- Kadri Veseli
+- Rexhep Selimi
+- Thaci
+organisations:
+- EU
+- EULEX
+- KLA
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
 ---
 
 The Kosovo Specialist Chambers in The Hague sentenced former Kosovo president Hashim Thaçi to 25 years in prison on 16 September for war crimes during the 1998-99 Kosovo conflict. The 58-year-old former Kosovo Liberation Army commander was convicted of murder, torture, cruel treatment and arbitrary detention. He was sentenced alongside three other former KLA commanders: Jakup Krasniqi, also to 25 years, Kadri Veseli to 18 years and Rexhep Selimi to 13 years. All four were acquitted of crimes against humanity after judges found prosecutors had failed to prove beyond reasonable doubt that civilians had been subjected to a widespread or systematic attack. They can appeal.

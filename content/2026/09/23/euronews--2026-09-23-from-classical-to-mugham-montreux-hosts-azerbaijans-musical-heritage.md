@@ -14,6 +14,13 @@ categories:
 - Arts & Culture
 - Music
 image: https://images.euronews.com/articles/stories/09/90/70/50/1200x675_cmsv2_6a031aa8-42fa-5ea5-9590-eeedaa88623f-9907050.jpg
+locations:
+- Azerbaijan
+- Montreux
+people:
+- Uzeyir Hajibeyli
+organisations:
+- State Symphony Orchestra
 ---
 
 **Euronews**

@@ -14,6 +14,23 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations: []
+people:
+- Alberto Barbera
+- Amy Marentic
+- Ellen Burstyn
+- Gloria Steinem
+- Kornél Mundruczó
+- Lee Strasberg
+- Maggie Gyllenhaal
+- Marilyn Monroe
+- Taika Waititi
+- Tony
+organisations:
+- Genesis
+- Gloria Steinem
+- The Actors Studio
+- The Associated Press
 ---
 
 Of all the roles Ellen Burstyn might have been offered in her 90s, that of Marilyn Monroe, who died at 36, seemed fairly unlikely. But then one day Maggie Gyllenhaal came to her apartment to talk about a wild idea: What if she played Monroe at 100?

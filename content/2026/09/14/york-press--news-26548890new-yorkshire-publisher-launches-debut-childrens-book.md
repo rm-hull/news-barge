@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Cliffe
+- Eastrington
+- London
+- North
+- Selby
+- Yorkshire
+people:
+- Emma Swaine
+- Shannon
+organisations:
+- '## Independent Yorkshire'
+- Shannon Publishers
+- Shannon Publishing
+- ShannonPublishers
 ---
 
 ## Independent Yorkshire publisher launches first children's book

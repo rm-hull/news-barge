@@ -14,6 +14,32 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/21/13/International_Court-Sanctions_37_55.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Brussels
+- Chad
+- China
+- Gaza
+- India
+- Israel
+- Russia
+- The Netherlands
+- U.S.
+- United States
+- Venezuela
+- Washington
+people:
+- Abdoulaye Sabre Fadoul
+- Benjamin Netanyahu
+- Lorne Cook
+- Marco Rubio
+organisations:
+- EU
+- European Union
+- ICC
+- International Criminal Court
+- Microsoft
+- The Associated Press
+- \_\_\_ Associated Press
 ---
 
 The Netherlands is preparing for the United States to impose sanctions on the International Criminal Court in the latest escalation of the Trump administration's attacks on the global tribunal.

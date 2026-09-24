@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alpamare
+- Burniston Road
+- County Durham
+- Flamingo Land
+- Malton
+- North Bay
+- North Yorkshire
+- Scarborough
+- Teesside
+people:
+- Cllr Broadbent
+- Coun Eric Broadbent
+- Eric Broadbent
+- Kerry Metcalfe
+- Ms Metcalfe
+organisations:
+- Alpamare Interior
+- Benchmark Leisure Limited
+- Benchmark Leisure Ltd
+- Courtesy Stripe Leisure Consulting
+- Courtesy Stripe Leisure Consulting North Yorkshire Council
+- Flamingo Land
+- Jaguar
+- LDRS
+- Local Democracy Reporting Service
+- NYC
+- Newmark
+- North Yorkshire Council
+- Northstead
+- Nyc Property
+- Scarborough Borough Council
+- Stripe Leisure
 ---
 
 A major waterpark in North Yorkshire is expected to be sold to a new owner after it was taken over by North Yorkshire Council.

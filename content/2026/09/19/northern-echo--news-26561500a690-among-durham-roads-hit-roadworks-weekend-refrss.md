@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21471763.jpg?type=og-image
+locations:
+- '### Abbey Road'
+- '### Front Street'
+- '### Rock Terrace'
+- A1
+- A690
+- Abbey Road
+- Bewley Terrace
+- Carrville
+- County Durham
+- Front Street
+- Gilesgate
+- M
+- New Brancepeth Construction
+- 'North East ###'
+- Pity Me
+- Rock Terrace
+- Smithfield
+- Waltons Terrace
+people:
+- Graham Norton
+organisations: []
 ---
 
 *(Image: GOOGLE)*

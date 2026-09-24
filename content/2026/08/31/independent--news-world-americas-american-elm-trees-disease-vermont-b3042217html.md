@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Georgia
+- Massachusetts
+- Montpelier
+- New England
+- North Carolina
+- Northeast
+- Ohio
+- Tennessee
+- U.S.
+- Vermont
+people:
+- Emily Powell
+- Gus Goodwin
+- Joseph Ferris
+- Kathleen Knight
+- Leila Wilson
+organisations:
+- Appalachian Trail Conservancy
+- Forest Service
+- The Nature Conservancy
+- The Nature Conservancy Vermont
+- U.S. Forest Service
 ---
 
 The fungal pathogen that decimated millions of American elms across the U.S. is now being used to restore the iconic species.

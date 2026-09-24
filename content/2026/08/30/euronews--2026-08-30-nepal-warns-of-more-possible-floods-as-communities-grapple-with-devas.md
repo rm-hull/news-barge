@@ -13,6 +13,20 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bhotekoshi River
+- Galchhi
+- Kathmandu
+- Nepal
+- Prithivi Highway
+- Tibet
+people:
+- Dharam Raj Uprety
+- Govind Shreshta
+- Sattan Singh Tamang
+organisations:
+- Associated Press
+- National Disaster Risk Reduction and Management Authority
 ---
 
 ## Flood warning notifications were issued to people's phones throughout Sunday morning as rescue workers tried to evacuate a main route connecting Kathmandu to one of the places most severely affected by Wednesday's devastating floods.

@@ -12,6 +12,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Sunbridge Road
+- Upper Millergate
+people: []
+organisations:
+- Google Maps
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Google Maps)*

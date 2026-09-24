@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa09/live/e1cb3660-b67b-11f1-ba87-73dd9416d9df.jpg
+locations: []
+people:
+- Dean Huijsen
+- Florentino Perez
+- Javier Tebas
+- Jose Mourinho
+- Tebes
+organisations:
+- Atletico Madrid
+- Barcelona
+- FA
+- La Liga
+- Real Madrid
 ---
 
 ![Javier Tebas attends Real Madrid's La Liga match against Barcelona in May 2026](https://ichef.bbci.co.uk/ace/standard/707/cpsprodpb/aa09/live/e1cb3660-b67b-11f1-ba87-73dd9416d9df.jpg)

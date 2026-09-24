@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Austin
+- Houston
+- New York
+- Texas
+- Yankee Stadium
+people:
+- Clarence Thomas
+- Donald Trump
+- Ted Cruz
+organisations:
+- ESPN
+- ESPN’s “College GameDay
+- Senate
+- Supreme Court
+- Texas Longhorns
+- University of Texas
 ---
 
 Senator Ted Cruz was mercilessly booed during the Texas Longhorns game on Saturday morning in Austin.

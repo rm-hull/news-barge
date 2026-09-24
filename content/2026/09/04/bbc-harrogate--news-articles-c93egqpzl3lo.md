@@ -13,6 +13,43 @@ categories:
 - Harrogate
 - Travel
 - History
+locations:
+- Aysgarth Falls
+- Bishopdale
+- Boroughbridge
+- Buckden
+- Dales Bike Centre
+- Easingwold
+- Grassington
+- Greenhow Bank
+- Greenhow Hill
+- Greets Moss
+- Grinton Moor
+- Helmsley
+- Leyburn
+- North York Moors
+- North Yorkshire
+- Pateley Bridge
+- Ripon
+- Swaledale
+- Wensleydale
+- Yorkshire Dales
+people:
+- Alan Flack
+- Carl Les
+- Carol Swift
+- David Skaith
+- Helmsley
+- Jim McRobert
+- Kidstones Pass
+- Stuart Price
+organisations:
+- British Cycling
+- Leyburn Cycling Group
+- North Yorkshire Council
+- Stu Price
+- Wonky Tree Bookshop
+- Yorkshire Dales
 ---
 
 ![A man looks at the camera with a slight smile. There are bicycles behind him and he is standing outside.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/4ff2/live/a54acb50-a7a9-11f1-a7ad-37a1f7dc081c.jpg)

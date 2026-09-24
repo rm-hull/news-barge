@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- '#### Crash'
+- Camblesforth
+- Selby
+people: []
+organisations:
+- Audi
+- North Yorkshire Police
+- Via
 ---
 
 Police are searching for the driver of an Audi after a crash near Selby left a cyclist in hospital.

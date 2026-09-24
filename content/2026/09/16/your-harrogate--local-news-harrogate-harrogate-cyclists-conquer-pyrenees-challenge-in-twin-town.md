@@ -12,6 +12,34 @@ categories:
 - Harrogate
 - Travel
 image: https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg
+locations:
+- Bagnères-de-Luchon
+- Col de Menté
+- Col des Ares
+- Col du Portillon
+- Eth Gran Camin
+- French Pyrenees
+- Harrogate
+- La Lapébie
+- Luchon
+- Spain
+- Superbagnères
+people:
+- Dennis Richards
+- Emma Dooley
+- James
+- Luchon
+- Rob Beagley
+organisations:
+- Eth Camino
+- Harrogate International Partnerships
+- Harrogate Nova
+- Harrogate Tri Club
+- Harrogate team
+- Hornbeam Park Developments
+- Prologue Junior Racing Team
+- The Contrarians of Wheel Easy
+- Verity Frearson
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg)

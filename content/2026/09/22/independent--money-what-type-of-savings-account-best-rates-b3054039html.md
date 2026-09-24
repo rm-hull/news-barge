@@ -13,6 +13,14 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/10/29/iStock-1729659749.jpeg?trim=12,0,13,0&width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Alice Haine
+- Rachel Springall
+organisations:
+- Hargreaves Lansdown
+- Moneyfactscompare.co.uk
 ---
 
 Putting aside £100 a month could leave you with around £1,252 after a year. Double the monthly saving and the pot could reach £2,504, including more than £100 in interest.

@@ -11,6 +11,14 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/borougbridge-road-near-northallerton-station-gsv.webp
+locations:
+- '#### Boroughbridge Road'
+- Boroughbridge Road
+- Northallerton
+people: []
+organisations:
+- North Yorkshire Police
+- Porsche
 ---
 
 Two people were taken to hospital after a serious crash in Northallerton yesterday (Sunday).

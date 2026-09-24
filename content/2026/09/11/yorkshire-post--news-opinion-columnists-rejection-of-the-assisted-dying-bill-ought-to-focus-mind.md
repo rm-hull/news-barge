@@ -15,6 +15,15 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Parliament Square
+people:
+- Bill
+- Stefan Rousseau
+organisations:
+- End of Life
+- PA Wire
+- Terminally Ill Adults
 ---
 
 # Rejection of the assisted dying bill ought to focus minds on the health and care system

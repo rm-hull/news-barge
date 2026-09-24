@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- UGC
+people:
+- Andrew Calvert
+- Ian Watt
+- Jason Hirst
+- John Bateman
+- Marc Green
+- Mark Moore
+- Omar Khan
+- Philip Sharp
+- Robbie Hunter-Paul
+organisations:
+- Bradford Bulls
+- Bradford Bulls 2014 Ltd
+- Bradford Bulls-centric
+- Ok Bulls Ltd
+- UGC
+- Wigan
 ---
 
 *(Image: UGC)*

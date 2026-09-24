@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Selby
+- UK
+- York Central
+people:
+- Bill
+- Keir Mather
+- Luke Charters
+- Ms Maskell
+- Pairing
+- Rachael Maskell
+organisations:
+- End of Life
+- Labour
+- NHS
+- PA Wire
+- Selby *(Image
+- Terminally Ill Adults
+- York Central
+- York Outer
 ---
 
 *(Image: Supplied)*

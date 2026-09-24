@@ -12,6 +12,26 @@ categories:
 - Music
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21466565.jpg?type=og-image&xType=0&yType=82
+locations: []
+people:
+- Courtney Brown
+- Danielle Long
+- Dolly
+- Eliza Doolittle
+- Luke Arnold
+- Ms Anderson
+- Paula Cook
+- Rachel Anderson
+- Robert David Photography
+- Robin Rutter
+- Sue Knowles
+organisations:
+- Kirk Theatre
+- Pickering Musical Society
+- Pickering’s Kirk Theatre
+- Stape Silver Band
+- Starlight Express
+- Theatrical Brass
 ---
 
 *(Image: Robert David Photography)*

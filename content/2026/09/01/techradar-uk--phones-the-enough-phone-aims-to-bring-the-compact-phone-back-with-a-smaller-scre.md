@@ -11,6 +11,16 @@ description: The Enough Phone should serve fans of compact handsets thanks to it
 image: https://cdn.mos.cms.futurecdn.net/5KrDDD2BDqm9bBtvMhYPaV-917-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- Apple
+- Clarity Media
+- Enough Phone
+- Google News
+- TechRadar
 ---
 
 ![A prototype of the Enough Phone](https://cdn.mos.cms.futurecdn.net/5KrDDD2BDqm9bBtvMhYPaV.jpg) 

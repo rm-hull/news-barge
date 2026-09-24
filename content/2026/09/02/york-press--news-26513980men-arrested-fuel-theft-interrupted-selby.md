@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- North Yorkshire
+- Selby
+- West Yorkshire
+people: []
+organisations: []
 ---
 
 *(Image: North Yorkshire Police)*

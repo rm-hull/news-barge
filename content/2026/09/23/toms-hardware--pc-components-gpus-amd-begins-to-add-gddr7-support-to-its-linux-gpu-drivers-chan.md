@@ -12,6 +12,20 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS-1280-80.png
+locations: []
+people:
+- Anton Shilov
+- Laks Pappu
+- Tom
+organisations:
+- AMD
+- GPU
+- Get Tom's Hardware
+- Google News
+- LinkedIn
+- Pappu
+- Phoronix
+- Tom’s Hardware
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS.png)

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Alexander Zverev
+- Andy Roddick
+- Ben Shelton
+- Carlos Alcaraz
+- Dominic Thiem
+- Jannik Sinner
+organisations:
+- No. 1
+- No. 2
+- No. 8
 ---
 
 Ben Shelton was not even a year old the last time an American man won a Grand Slam tennis title.

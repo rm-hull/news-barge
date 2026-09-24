@@ -14,6 +14,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- U.S.
+- Washington, D.C.
+people:
+- David Hearn
+- Donald Trump
+- Doug Burgum
+- Jeanine Pirro
+- Richard Rosen
+organisations:
+- American Ag Energy
+- American Ag Energy Inc.
+- Atlantic Industrial Coatings LLC
+- Department of Interior
+- Green Water Solutions
+- Greenwater Services
+- Lincoln Memorial Reflecting Pool
+- NBC News
+- National Park Service
+- The New York Times
+- Trump
 ---
 
 Donald Trump’s administration has funneled another $2.65 million of taxpayer funds into renovating the Lincoln Memorial Reflecting Pool, bringing total costs for the project to nearly $20 million.

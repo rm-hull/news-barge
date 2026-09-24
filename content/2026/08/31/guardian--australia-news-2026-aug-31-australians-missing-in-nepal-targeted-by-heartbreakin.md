@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Himalayas
+- Mount Kailash
+- Nepal
+- Tibet
+people:
+- Ben English
+- Chiran Tiwari
+- Giridharan Sivaraman
+- Kobie Thatcher
+- Surinder Jain
+- Tim Graham
+organisations:
+- Australia Bharatha Brahmin Samaj
+- Channel 10
+- Channel 7
+- Daily Telegraph
+- Facebook
+- Guardian Australia
+- Hindu Council of Australia
+- Nepalese Australian Welfare Society
+- News Corp
+- QUT’s Digital Media Research Centre
 ---
 
 A slew of racist social media comments have been made towards Australians missing in the catastrophic Nepal-Tibet floods, prompting calls for greater accountability of major platforms to remove hateful rhetoric.

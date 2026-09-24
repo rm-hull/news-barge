@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- County Durham
+- Havilland Road
+- North East
+- Rainton Drive
+- Teesside
+- Thornaby Road
+people:
+- Deb Fenny
+organisations:
+- Cleveland Police
+- Major, Serious and Organised Crime team
 ---
 
 *(Image: POLICE)*

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Europe
+- Germany
+- Poland
+- Saxony-Anhalt
+- Spain
+- US
+people:
+- Alice Weidel
+- Donald Trump
+- Elon Musk
+- Friedrich Merz
+- JD Vance
+- Marco Rubio
+- Pedro Sanchez
+- Radoslaw Sikorski
+- Roland Lescure
+- Ulrich Siegmund
+organisations:
+- AfD
+- MGGA
+- Munich Security Conference
+- Populist Party
+- RTL
+- Radio Vox FM
+- The Guardian
+- Trump
+- Truth Social
 ---
 
 Donald Trump has said the historic state election victory for the far-right AfD party in Germany was sparked by the country’s “horrible” immigration rules - and claimed the party is “on the rise”.

@@ -11,6 +11,22 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00ba/live/0925b0
 categories:
 - UK
 - News & Politics
+locations:
+- Chester Hospital
+- Countess of Chester Hospital
+- Liverpool Town Hall
+people:
+- Irwin Mitchell
+- Justice Thirlwall
+- Lucy Letby
+- Mark McDonald
+- Tamlin Bolton
+- Tony Chambers
+organisations:
+- Countess of Chester Hospital
+- Criminal Cases Review Commission
+- Tamlin Bolton
+- Thirlwall Inquiry
 ---
 
 ![A woman with long light blonde hair with a dark front section faces the camera.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/00ba/live/0925b040-b1c3-11f1-bdcf-d393eb724fa3.jpg)

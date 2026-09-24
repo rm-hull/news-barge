@@ -10,6 +10,33 @@ image: https://cdn.mos.cms.futurecdn.net/bH5CRwCbNpk9ebdrAGz4ND-1200-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Hollywood
+- San Francisco Federal Building
+people:
+- Antwan Tolliver
+- Charlie Rush-Reese
+- Dylan O’Brien
+- Joseph Califano
+- Judith Heumann
+- Lucy Buglass
+- Mark Ruffalo
+- Michael Patrick Thornton
+- Rein Barcel
+- Rob Delaney
+- Ruth Madeley
+- Sian Heder
+- Will Brill
+organisations:
+- Apple TV
+- Google News
+- Heumann
+- Jimmy Carter Administration
+- Lucy Goes
+- Rotten Tomatoes
+- TIFF
+- TechRadar
+- The Simpsons
 ---
 
 ![Ruth Madeley stars as Judith Heumann](https://cdn.mos.cms.futurecdn.net/bH5CRwCbNpk9ebdrAGz4ND.jpg) 

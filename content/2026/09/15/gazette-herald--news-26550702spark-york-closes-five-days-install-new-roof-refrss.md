@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Piccadilly
+- Spark York
+people:
+- Gabriel Macarthur
+- Nadia Jefferson-Brown
+- Sarah Pagan
+organisations:
+- Inky Print Designs
+- Raise the Roof Party
+- Spark York
 ---
 
 AN independent venue in York has closed for five days for a new roof to be installed ready for autumn and winter.

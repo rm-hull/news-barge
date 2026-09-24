@@ -12,6 +12,43 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Albion Inn
+- Barnsley
+- Borough Bailiff
+- Bradford
+- Bulls Head Inn
+- Dewsbury Road
+- Doncaster
+- High Street
+- Knaresborough
+- Malton
+- Marquis of Granby
+- North Yorkshire
+- Rochdale
+- Station Road
+- Tadcaster
+- Wakefield
+- York Place
+people:
+- Christian Horton
+- Cllr Poskitt
+- Humphrey Smith
+- Kirsty Poskitt
+- Sam Smith
+- Tom Taverner
+organisations:
+- BTG Eddisons
+- BUlls Head
+- Briggate
+- Commercial Hotel
+- Facebook
+- Fleurets
+- North Yorkshire Council
+- Samuel Smith’s Brewery
+- Tadcaster Town Council
+- The Wellington Inn
+- Wellington Inn
 ---
 
 Sam Smith's Brewery has put more Yorkshire pubs up for sale.

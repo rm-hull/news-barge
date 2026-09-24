@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brighton
+- England
+- Foden
+- Manchester
+- Norway
+- Old Trafford
+people:
+- '## Fernandes'
+- Blake Antrobus
+- Bruno Fernandes
+- Enzo Fernandez
+- Erling Haaland
+- Howard Webb
+- Joao Gomes
+- Josko Gvardiol
+- Lisandro Martinez
+- Matt Donohue
+- Michael Oliver
+- Murphy
+- Ndiaye
+- Phil Foden
+- VAR:** Haaland
+- Wayne Rooney
+organisations:
+- AVAR
+- Aston Villa
+- BBC Sport
+- Fernandes'
+- Manchester City
+- Manchester United
+- Pro Ref
+- Referees'
+- VAR
 ---
 
 Refereeing decisions were 'baffling' - Rooney

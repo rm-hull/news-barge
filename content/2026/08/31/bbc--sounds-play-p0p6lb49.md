@@ -11,6 +11,34 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- Texas
+- Uganda
+- United States
+people:
+- Alix Pickles
+- Americaster
+- Anthony Zurcher
+- Chris Flynn
+- Dafydd Evans
+- Donald Trump
+- Justin Webb
+- LBJ
+- Lyndon B. Johnson
+- Marianna Spring
+- Purvee Pattni
+- Sam Bonham
+- Zohran Mamdani
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Sounds
+- Congress
+- Democratic Party
+- Newscast
+- North America
+- US Election Unspun
 ---
 
 ## Episode details

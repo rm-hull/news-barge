@@ -13,6 +13,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- '"[Purplebricks'
+- '"[She'
+- Amanda Jones
+- Ms Jones
+- Ms Stewart
+- Murron Stewart
+- Purplebricks
+organisations:
+- GP
+- Purplebricks
+- Tribunal
 ---
 
 An estate agent who was forced out of her job after not meeting her targets when returning from maternity leave has won almost £48,000 in compensation.

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/f528109b98241076523ba6ca8335c0ba0cd54546/583_0_2917_2335/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=205e2c65069dbd86ecae3285945fb00e
+locations:
+- Chile
+- Rica
+people:
+- António Guterres
+- Costa
+- Michelle Bachelet
+- Rebeca Grynspan
+organisations:
+- Instagram
+- UN
 ---
 
 Michelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary general of the ⁠UN, ending a ⁠bid ​that had struggled to gain traction among security council members.

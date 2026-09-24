@@ -13,6 +13,31 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- Agora
+- Europe
+- France
+- Germany
+- Italy
+- Netherlands
+- UK
+- US
+people:
+- Benjamin Shultz
+- Henry Ajder
+- Sarah Dobbe
+- Suzanne Kröger
+organisations:
+- AI
+- Agora Digitale Transformation
+- American Sunlight Project
+- Congress
+- Dutch Socialist Party
+- EU
+- European Parliament
+- European Union
+- Progressive Netherlands
+- WIRED
 ---
 
 Almost 150 politicians across Europe have been included on harmful deepfake pornography websites over the last few years, according to new research seen by WIRED. Some of the politicians, who are overwhelmingly women, have had their likeness included in explicit videos, while others have names and photos listed in disturbing database-like entries that can link to deepfake creation tools.

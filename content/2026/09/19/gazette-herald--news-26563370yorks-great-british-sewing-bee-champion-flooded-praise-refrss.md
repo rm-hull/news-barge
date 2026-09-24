@@ -13,6 +13,24 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21277416.jpg?type=og-image
+locations:
+- A York
+- Europe
+- St Leonard’s Hospice
+people:
+- Anna
+- Beth
+- Claire Marvell
+- Hilary Thomspon
+- Joanne Lamb
+- Neil Sherwood
+- Patrick Grant
+- Peter Clarke
+- Sebastian
+organisations:
+- BBC
+- Love Productions
+- TLC
 ---
 
 A York woman has received an outpouring of support after being named this year’s Great British Sewing Bee champion.

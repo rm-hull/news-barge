@@ -13,6 +13,46 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- America
+- Australia
+- Beverly Hills
+- Bradford Alhambra
+- Britain
+- Duchess of Sussex
+- France
+- Hollywood
+- Tudor England
+- Waterloo Road
+- Yorkshire
+people:
+- Beverley
+- Billy Pearce
+- Cole
+- David Behrens
+- Duchess
+- Guy Ritchie
+- Harry
+- Harry’s
+- Jon Richardson
+- Jonathan Brady
+- Judi Dench
+- Marie Antoinette
+- Meghan
+- Mickey Mouse
+- Sally Wainwright
+- Shakespeare
+- Simon Dee
+- Suranne Jones
+- Tudor
+- Vicky McClure
+organisations:
+- Duchess of Sussex
+- Duke of Sussex
+- ITV
+- London Weekend TV
+- Netflix
+- The Duke
 ---
 
 # What is the true motive behind Harry and Meghan’s return? - David Behrens

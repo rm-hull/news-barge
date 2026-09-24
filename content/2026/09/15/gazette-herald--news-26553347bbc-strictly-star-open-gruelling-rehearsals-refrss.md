@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- BBC
+people:
+- '## Lacey Turner'
+- Claudia Winkleman
+- Dani Dyer
+- Danny Dyer
+- Emma Willis
+- Jaime Winstone
+- Johannes Rabe
+- Josh Widdicombe
+- Lacey Turner
+- Ms Winstone
+- Poppy Delevingne
+- Ray Burmiston
+- Ray Winstone
+- Raymond
+- Taylor Swift
+- Tess Daly
+organisations:
+- BBC
+- PA Wire
+- Strictly
 ---
 
 *(Image: Ray Burmiston/BBC/PA Wire)*

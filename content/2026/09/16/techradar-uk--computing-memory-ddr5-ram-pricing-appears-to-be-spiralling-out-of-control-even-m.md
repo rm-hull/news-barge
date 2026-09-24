@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR-1920-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Europe
+- Germany
+- US
+people: []
+organisations:
+- 3D Center
+- Dell
+- Google News
+- Hachette UK
+- IFA
+- Mashable
+- PC
+- RAM
+- Tom's Hardware
+- Wccftech
+- XPS
 ---
 
 ![Sad looking person holding head in hands sat at a gaming PC](https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR.jpg) 

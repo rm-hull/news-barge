@@ -12,6 +12,17 @@ image: https://media.wired.com/photos/6aa1b207ccc1bba18de2d004/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Shazam
+- Siri Recap
+organisations:
+- AI
+- Apple Intelligence
+- Apple Watch
+- Shazam
+- Siri Recap
+- WIRED
 ---
 
 The new Apple Watch Series 12 and Ultra 4 come not just with better fitness tracking and upgraded noise reduction, but also a whole new way to listen.

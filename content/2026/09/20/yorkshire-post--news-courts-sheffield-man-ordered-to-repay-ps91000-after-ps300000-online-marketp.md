@@ -16,6 +16,19 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/13/38/SCC-2026-onecms_9bbcdbc8-3642-4f76-9b1f-21daccd99f85.jpeg?trim=50,0,149,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Foxwood Avenue
+- Sheffield
+- South Yorkshire Police
+people:
+- Laura Hough
+- Louis Vuitton
+- Simon Jackson
+organisations:
+- Asset Recovery Team
+- Economic Crime Unit
+- Regional Confiscation Unit
+- Sheffield Crown Court
 ---
 
 # Sheffield man ordered to repay £91,000 after £300,000 online marketplace refund error

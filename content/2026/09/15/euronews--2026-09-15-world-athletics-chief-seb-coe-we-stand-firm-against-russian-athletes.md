@@ -12,6 +12,39 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Ancient Olympia
+- Beijing
+- Budapest
+- French Alps
+- Lausanne
+- Los Angeles
+- Moscow
+- Russia
+- Ukraine
+people:
+- '## Coe'
+- '## Lesson'
+- Boris Yarisevsky
+- Edgar Grospiron
+- Gianni Infantino
+- Kirsty Coventry
+- Sebastian Coe
+organisations:
+- ASOIF Governance Review
+- Association of Summer Olympic International Federations
+- CAS
+- Court of Arbitration for Sport
+- Euronews
+- FIFA
+- IAAF
+- IOC
+- International Association of Athletics Federations
+- London 2012 Olympic Games Organising Committee
+- Russian Athletics Federation
+- UN
+- World Aquatics
+- World Athletics
 ---
 
 ## Coe rejected Moscow's claims of a 'personal obsession' with banning Russian athletes and reflected on his term and the crisis at FIFA.

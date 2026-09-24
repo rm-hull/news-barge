@@ -13,6 +13,23 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+people:
+- Paul Evans
+organisations:
+- Apex Radio Systems
+- Eboracum
+- Harrogate BID
+- Harrogate Business Improvement District
+- LinkedIn
+- NBCC
+- National Business Crime Centre
+- North Yorkshire Police
+- Sainsbury's
+- ShopSafe
+- Smoke Screen
+- The Crown Hotel
 ---
 
 ![](https://mmo.aiircdn.com/409/680a11ff2410e.jpg) 

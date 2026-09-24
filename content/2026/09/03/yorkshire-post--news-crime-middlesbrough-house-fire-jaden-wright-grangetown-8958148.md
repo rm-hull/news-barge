@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Grangetown
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Elizabeth Cook
+- Jaden Wright
+- Jaden Wright.
+- Jonathan Carroll
+- Natalie McDonald
+- Richard Wright KC
+- Valentina Foster
+organisations:
+- Middlesbrough
 ---
 
 # Man charged with murder over Middlesbrough house fire to stand trial next year

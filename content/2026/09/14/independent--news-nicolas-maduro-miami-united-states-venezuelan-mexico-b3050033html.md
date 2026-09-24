@@ -12,6 +12,17 @@ image: https://static.independent.co.uk/2026/09/14/17/Venezuela_Maduro_Ally_3155
 categories:
 - News & Politics
 - UK
+locations:
+- Colombia
+- Mexico
+- United States
+- Venezuela
+people:
+- Alex Saab
+- Delcy Rodriguez
+- Maduro Ally
+- Nicolás Maduro
+organisations: []
 ---
 
 Maduro ally Alex Saab expected to plead guilty in federal money laundering case

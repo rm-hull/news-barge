@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- England
+- Greater London
+- North Yorkshire
+- Scotland
+- South East
+- UK
+- Wales
+- York
+people:
+- Kieran Delaney
+organisations:
+- Met Office
+- The Met Office
 ---
 
 *(Image: Kieran Delaney)*

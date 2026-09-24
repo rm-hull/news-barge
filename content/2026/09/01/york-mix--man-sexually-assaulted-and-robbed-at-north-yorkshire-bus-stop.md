@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- '#### Spa Bridge'
+- Scarborough
+- Spa Bridge
+people: []
+organisations:
+- Email Laurie Simpson
+- North Yorkshire Police
+- Via
 ---
 
 Police are searching for a woman who apparently drugged a man at a bus stop before sexually assaulting and robbing him.

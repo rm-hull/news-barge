@@ -14,6 +14,41 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- County Durham
+- Darlington
+- FACEBOOK
+- Grangetown
+- Haswell
+- Middlesbrough
+- PA
+- Peterlee
+- Teesside
+- Thornaby East
+people:
+- ASHLEY FERGUSON
+- Andy McDonald
+- Cole Worthy
+- Jakub Matusiak
+- Jon McAdam
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Mr McDonald
+- Natalie McDonald
+- TOM WILKINSON
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- County Durham
+- Darlington Fire and Rescue Service
+- Durham Constabulary
+- Durham Police
+- Labour
+- Times Radio
 ---
 
 Police have condemned “completely unacceptable” behaviour after five vehicles were torched during a gathering for one of the seven who died in the fatal A66 wrong-way crash.

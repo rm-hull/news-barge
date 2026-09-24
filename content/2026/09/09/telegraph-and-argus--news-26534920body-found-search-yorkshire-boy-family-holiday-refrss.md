@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Marloes Sands
+- Milford Haven
+- Pembrokeshire
+- Yorkshire
+people: []
+organisations:
+- Dyfed-Powys Police
+- HM Coastguard
+- RNLI
 ---
 
 *(Image: PA)*

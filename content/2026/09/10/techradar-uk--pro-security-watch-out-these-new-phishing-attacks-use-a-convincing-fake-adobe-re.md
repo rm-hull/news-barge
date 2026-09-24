@@ -10,6 +10,23 @@ description: Crooks are deploying cheeky browser-in-the-browser techniques
 image: https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Huntress
+- Sead
+organisations:
+- Adobe
+- Al Jazeera Balkans
+- Google News
+- Huntress
+- IoC
+- IoCs
+- RMM
+- Represent Communications
+- ScreenConnect Client
+- TechRadar Pro
 ---
 
 ![PDF](https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN.png) 

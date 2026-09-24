@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- North Yorkshire
+- Scarborough Town Centre
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: Google Maps)*

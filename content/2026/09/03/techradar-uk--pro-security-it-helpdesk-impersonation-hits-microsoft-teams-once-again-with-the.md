@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/D4YBMfcEsNT7BhaNJJgm2A-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Russia
+- Sarajevo
+people:
+- Sead
+organisations:
+- ADSI
+- Al Jazeera Balkans
+- Cozy Bear
+- Google News
+- Microsoft Teams
+- Represent Communications
+- Safe Links
+- TechRadar Pro
+- ZAP
 ---
 
 ![Collaboration in an office.](https://cdn.mos.cms.futurecdn.net/D4YBMfcEsNT7BhaNJJgm2A.jpg) 

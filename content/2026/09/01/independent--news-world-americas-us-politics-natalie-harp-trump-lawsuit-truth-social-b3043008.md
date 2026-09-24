@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- New York
+- White House
+people:
+- Dan Scavino
+- Donald Trump
+- Natalie Harp
+organisations:
+- Executive Office of the President
+- First Amendment
+- Freedom of the Press Foundation
+- New York Times
+- The Freedom of the Press Foundation
+- The Independent
+- The Intercept
+- Trump API
+- Trump Media
+- Trump Media & Technology Group
+- Trump’s Truth Social
+- Truth Social
+- Wall Street Journal
 ---
 
 Natalie Harp and Dan Scavino, two of President Donald Trump’s top White House aides, are being sued alongside the president over a service that would grant buyers early access to Trump’s Truth Social posts.

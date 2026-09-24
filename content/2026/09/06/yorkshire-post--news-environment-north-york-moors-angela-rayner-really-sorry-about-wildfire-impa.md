@@ -13,6 +13,34 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Langdale Moor
+- North York
+- North York Moors
+- North York Moors National Park
+- North Yorkshire
+- RAF Fylingdales
+- Scarborough
+- Whitby
+people:
+- Alison Hume
+- Andy Burnham
+- Angela Rayner
+- Friend
+- Kevin Hollinrake
+- Malton
+organisations:
+- Conservative Party
+- Farming Recovery Fund
+- Flood Recovery Framework
+- House Of Commons
+- House of Commons
+- Labour
+- NYMNPA
+- North York Moors
+- North York Moors National Park Authority
+- State for Housing, Communities and Local Government
+- Thirsk
 ---
 
 # North York Moors: Angela Rayner ‘really sorry’ about wildfire impact

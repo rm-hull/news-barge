@@ -10,6 +10,13 @@ description: Snapchat says the new features can be used to organize everything f
 image: https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200
 categories:
 - Technology & Software
+locations: []
+people:
+- Gen Z
+- Snapchat
+organisations:
+- Apple
+- Snapchat Plans
 ---
 
 Snapchat announced on Thursday that it’s launching “Snapchat Plans,” a suite of features for creating, sharing, and managing real-world events with friends. The new event-planning features allow users to send and receive invitations and track details like the time, location, and attendees, all in one place.

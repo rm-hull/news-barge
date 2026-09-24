@@ -11,6 +11,62 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa12/live/55bbb4
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Birmingham
+- California
+- Dan Diego.
+- Kingdom of Saudi Arabia
+- Las Vegas
+- Los Angeles
+- Middle Eastern
+- New York
+- Parkwood
+- Pennsylvania
+- Pentagon
+- San Diego
+- San Diego Muslim
+- Saudi Arabia
+- SeaWorld
+- UK
+- US
+- United States
+- United States Capitol
+- United States.
+- Washington DC
+- World Trade Center
+people:
+- Bayoumi
+- George B Daniels
+- Hazmi
+- Holly Ratchford
+- Joe Biden
+- Khalid al-Mihdhar
+- Khalid al-Mihdhar Holly
+- Khalid al-Mihdhar.
+- Mihdhar
+- Nawaf al-Hazmi
+- Omar al-Bayoumi
+- Richard Lambert
+organisations:
+- American Airlines
+- BBC Radio 4
+- Bayoumi
+- Commission
+- DOJ
+- Met Police
+- Metropolitan Police
+- Ministry of Defence
+- New York FBI
+- Parkview Apartments
+- Parkwood Apartments
+- Pentagon
+- Ratchford
+- Saudi Connection
+- US Court of Appeal
+- US Department of Justice
+- World Trade Center
+- al-Qaeda
 ---
 
 ![Holly Ratchford wears a straw cowboy hat while standing in the desert in an undisclosed location in the west of the United States.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg)

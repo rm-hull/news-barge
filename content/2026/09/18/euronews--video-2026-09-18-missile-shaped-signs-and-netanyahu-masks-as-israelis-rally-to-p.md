@@ -14,6 +14,19 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Al-Aqsa
+- Gaza
+- Lebanon
+- West Bank
+people:
+- '**Assaf Sati El-Bar**'
+- Benjamin Netanyahu
+- Danny Elgarat**
+- Itzhak
+organisations:
+- Hamas
+- Knesset
 ---
 
 Some protesters wore masks bearing **Benjamin Netanyahu’s** face, while others carried placards warning of an “election disruption war”. A missile-shaped sign suggested that a new security crisis could be used to justify postponing the vote.

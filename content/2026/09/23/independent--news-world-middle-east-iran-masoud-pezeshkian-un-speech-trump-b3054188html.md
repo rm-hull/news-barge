@@ -13,6 +13,37 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/20/2236688949..?trim=0,152,0,152&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Israel
+- Mehrabad Airport
+- Middle East
+- Minab
+- Musandam
+- New York
+- Oman
+- Strait of Hormuz
+- Tehran
+- US
+- West
+people:
+- Ali Khamenei
+- Donald Trump
+- Esmaeil Baqae
+- Hossein Kanani-Moghadam
+- Mahsa Jina Amini
+- Masoud Pezeshkian
+organisations:
+- Foreign Ministry
+- General Assembly
+- IRNA
+- Iran Insight
+- Iran International
+- Iron Curtain
+- Reuters
+- Revolutionary Guards
+- Tabriz University of Medical Sciences
+- UN General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

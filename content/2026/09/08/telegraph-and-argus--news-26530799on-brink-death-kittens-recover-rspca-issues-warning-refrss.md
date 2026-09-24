@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Halifax
+- Huddersfield
+- Oslo
+- Woody
+- Xander
+people:
+- Ace
+- Bunny
+- Fay Gibbons
+- Marshall
+- Woody
+organisations:
+- Bradford
+- Huddersfield
+- Nimbus
+- RSPCA Halifax
 ---
 
 EIGHT critically ill kittens who were "on the brink of death" have made an incredible transformation in just two weeks.

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Atlantic Salmon
+- Kew Gardens
+- Oval
+- UK
+people:
+- Charles III
+- King Charles
+- Peter Rabbit
+organisations:
+- Royal Mint
+- eBay
 ---
 
 *(Image: Getty Images/iStockphoto)*

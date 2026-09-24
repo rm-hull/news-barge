@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Berkshire
+- Brownfield
+- Dorset
+- East Chiltington
+- East Sussex
+- Eton
+- King Charles
+- Lewes
+- North Barnes Farm
+- Novington Lane
+- Plumpton Green
+- Plumpton Racecourse
+- Poundbury
+- South Chailey
+- South Downs
+- South Downs National Park
+people:
+- Alistair Watson
+- Eton
+- James MacCleary
+- Steve Needham
+organisations:
+- Don’t Urbanise the Downs
+- Eton College
+- Lewes
+- North Barnes
+- Welbeck Land
 ---
 
 Eton College has sparked anger by unveiling controversial plans to build a new town over unspoilt countryside.

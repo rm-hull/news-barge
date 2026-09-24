@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Abergavenny
+- Bannau Brycheiniog National Park
+- Britain
+- Ireland
+- Llanwenarth
+- The Pentre
+- Usk Valley
+people:
+- '![Hammond'
+- Dolly
+- James May
+- Jeremy Clarkson
+- Mindy
+- Richard Hammond
+- Rob Brydon
+organisations:
+- BBC Wales
+- Bat Conservation Trust Planning
+- Brecon Beacons
+- Hammond
+- Leisler's
+- Monmouthshire
+- NRW
+- Natural Resources Wales
+- Serotine
 ---
 
 ![Richard Hammond is photographed from the shoulders up, standing in front of a promotional sign for the TV series 'The Grand Tour'. His face is facing slightly to the side and he is not looking at the camera. He is wearing a black suit jacket and a white shirt, with the top button undone.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/71bf/live/f22fc350-a8a6-11f1-b9ae-958b89fa84e3.jpg)

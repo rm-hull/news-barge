@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://www.thetelegraphandargus.co.uk/resources/images/21476135.jpg?type=og-image
+locations:
+- UK
+people:
+- Ian Wilson
+organisations:
+- Tiger.co.uk
 ---
 
 *(Image: Getty Images/iStockphoto)*

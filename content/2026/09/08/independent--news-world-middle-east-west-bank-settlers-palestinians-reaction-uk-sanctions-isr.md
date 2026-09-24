@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Belgium
+- Britain
+- East Jerusalem
+- Europe
+- Ireland
+- Israel
+- Masafer Yatta
+- Netherlands
+- South Africa
+- Spain
+- Taybeh Brewery
+- UK
+- West Bank
+people:
+- '![Canaan'
+- Basel Adra
+- Ed Miliband
+- Isaac Herzog
+- Madees Khoury
+- Mr Miliband
+- Trump
+- Yuval Abraham
+organisations:
+- Khoury
+- Taybeh Brewery
+- The Independent
 ---
 
 West Bank Palestinians are welcoming the UK government’s unprecedented ban on trade with the Israeli settlements - but say it is long overdue and doesn’t go far enough.

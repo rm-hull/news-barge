@@ -10,6 +10,17 @@ description: Oracle says that SaaS and software isn't going anywhere, but AI wil
 image: https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1915-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Craig Hale
+- Mike Sicilia
+organisations:
+- '## AI'
+- Craig’s
+- Google News
+- Oracle
+- SaaSpocalypse
+- TechRadar Pro
 ---
 
 ![Oracle](https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM.jpg) 

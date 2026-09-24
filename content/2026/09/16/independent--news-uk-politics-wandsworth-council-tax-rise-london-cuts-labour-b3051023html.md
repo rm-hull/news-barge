@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Chelsea
+- City of London
+- Fulham
+- Hammersmith
+- Kensington
+- London Borough of Richmond upon Thames
+- Maidenhead
+- Putney
+- Royal Borough
+- Wandsworth
+- Westminster
+- Windsor
+people:
+- Angela Rayner
+- Fleur Anderson
+- Margaret Thatcher
+- Peter Graham
+organisations:
+- Band D
+- Labour Council
+- MHCLG
+- Ministry of Housing, Communities and Local Government
+- Wandsworth Council
+- Westminster City Council
 ---
 
 A London council has confirmed it will raise council taxes by 94 per cent in the wake of an £84 million cut in government funding.

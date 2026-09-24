@@ -12,6 +12,38 @@ image: https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Brazil
+- México
+- Presa de Necaxa
+- Puebla
+- Sierra Norte
+- South America
+- Thailand
+- Tlaola
+- U.S.
+people:
+- Mark Tyson
+- Tom
+organisations:
+- BTC
+- Bitcoin
+- CJNG
+- Cartel Jalisco Nueva Generación
+- Cartel de Sinaloa
+- Chainalysis
+- GPU
+- Get Tom's Hardware
+- Google News
+- La Barredora
+- Monero
+- Navy
+- Reuters
+- SILIKN
+- Tether
+- Tom's Hardware
+- USDT
+- XMR
 ---
 
 ![GPU mining](https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b.jpg) 

@@ -13,6 +13,17 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/21/10/55/Surgeon-performs-an-endoscopic-surgery-to-remove-a-fungal-infection-from-a-patient.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Asia
+- Bangladesh
+- Central and
+- Mississippi River
+- Ohio
+- South America
+people:
+- Crohn
+organisations: []
 ---
 
 An extremely rare fungal infection has claimed the life of a 26-year-old man in Bangladesh after causing months of abdominal pain and a 16kg weight loss, a new case study revealed.

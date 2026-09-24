@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- '**York'
+- Barcelona
+- Edinburgh
+- England
+- Manchester
+- North Yorkshire
+- Paris
+- Parliament Street
+- UK
+- York Central
+people:
+- Cllr Claire Douglas
+- David Skaith
+- Ms Maskell
+- Rachael Maskell
+organisations:
+- City of York Council
+- Labour
+- Newsquest
+- PA Wire
+- The Press
+- York St John University
 ---
 
 *(Image: Newsquest)*

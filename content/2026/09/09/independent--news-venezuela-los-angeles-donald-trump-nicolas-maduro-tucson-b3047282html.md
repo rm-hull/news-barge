@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arizona
+- Austin
+- Cali
+- Caracas
+- Colombia
+- Doral
+- Guatire
+- La Guaira
+- Los Angeles
+- Miami
+- Miami-Dade County
+- Phoenix
+- South Florida
+- Texas
+- Tucson
+- U.S.
+- United States
+- Venezuela
+- White House
+people:
+- Alejandro Marquina
+- Dariela Merchan
+- Diana Ramos
+- Donald Trump
+- Duneida
+- Granado Montano
+- Jesús
+- Kelly Granado Montano
+- Marina
+- Nicolás Maduro
+- Yolanda
+organisations:
+- AP Fund for Journalism
+- Associated Press
+- Caplin News
+- Conecta Arizona
+- Florida International University
+- Full Arepas
+- Instagram
+- Lilly Endowment Inc
+- The Conversation US
+- TikTok
 ---
 
 After her parents went missing under the rubble of their Venezuela apartment building, Kelly Granado Montano spent her days here “lost, worried, on the phone,” her body in one country, her mind in another.

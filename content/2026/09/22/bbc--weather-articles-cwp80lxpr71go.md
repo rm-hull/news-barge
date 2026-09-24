@@ -13,6 +13,19 @@ categories:
 - Travel
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/b4ce/live/1b141560-b661-11f1-b785-7d19738c6de2.jpg
+locations:
+- '![Coastline'
+- Blackpool
+- England
+- Grampians
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- BBC
+- Blackpool Tower
 ---
 
 ![A close-up of brown autumn leaves on cobblestones with Tower Bridge blurred in the background](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b4ce/live/1b141560-b661-11f1-b785-7d19738c6de2.jpg)

@@ -11,6 +11,111 @@ image: https://i.guim.co.uk/img/media/65bd3eb6cf5562617132185226fdf539cafbb2b2/6
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- America
+- Arkansas
+- Canada
+- Charlotte
+- China
+- Europe
+- Gastonia
+- Iran
+- Kennedy Center
+- Kremlin
+- Maryland
+- Massachusetts
+- North Carolina
+- Ohio
+- Russia-Ukraine
+- South Carolina
+- UNITED STATES OF AMERICA
+- Ukraine
+- United Russia
+- United States
+- Washington DC
+- White House
+people:
+- Alex Brandon
+- Alex Ovechkin
+- Alexander Ovechkin
+- Alexei Druzhinin
+- Andrew Roth
+- Barack Obama
+- Black
+- Bridget Kennedy-Bailey
+- Christopher Cooper
+- Claude AI
+- DeCarlos Brown Jr
+- Decarlos Brown
+- Decarlos Brown Jr
+- Donald Trump
+- Emil Michael
+- George HW Bush
+- Graham
+- Hakeem Jeffries
+- Iryna Zarutska
+- Joe Biden
+- Joe Wilson
+- John Paul II
+- Joyce Beatty
+- Katie Britt
+- Kevin Lamarque
+- Kevin Warsh
+- Lee Atwater
+- Margarita Simonyan
+- Maria Lvova-Belova
+- Michael Dukakis
+- Michael Whatley
+- Mike Johnson
+- Mitch McConnell
+- Nathan Ellgren
+- Pete Hegseth
+- Roger Ailes
+- Roy Cooper
+- Sergey Lavrov
+- Sinéad O’Connor's
+- Sinéad O’Connor’s
+- Ted Leonsis
+- Thomas Massie
+- Tom Cotton
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Whatly
+- Willie Horton
+organisations:
+- AI
+- Anthropic
+- CNBC
+- Charlotte Douglas International Airport
+- District of Columbia
+- European Union
+- Fed
+- Federal Reserve
+- Fox News
+- Gastonia Municipal Airport
+- Guardian
+- House
+- International Criminal Court
+- John F Kennedy Center for the Performing Arts
+- Kennedy Center
+- Lindsey O. Graham Sanctioning Russia
+- NHL
+- National Hockey League
+- Pentagon
+- RIA Novosti
+- RT
+- Reuters Trump
+- Reuters Wilson
+- State of the Union
+- US Congress
+- US Department of Defense
+- US Senate
+- Uber
+- Washington Capitals
+- Washington Litigation Group
+- Willie Horton
+- YMCA
 ---
 
 Trump claims he told Fed chair Kevin Warsh to vote with the rest of the board for rate hike

@@ -13,6 +13,42 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Britain
+- Hampton
+- Jorvik Viking Centre
+- LNER Community Stadium
+- London
+- Low Ousegate
+- Monks Cross
+- Moors
+- Museum Gardens
+- North Yorkshire
+- Peasholme Green
+- Piccadilly
+- Rougier Street
+- St Mary’s Abbey
+- York Railway Station
+people:
+- Cllr Nigel Ayre
+- G.T. Andrews
+- Garry Taylor
+- Hilton
+- Katie Lomas
+organisations:
+- Aviva
+- City of York Council
+- Explore York Libraries
+- Jorvik
+- Labour
+- Liberal Democrat
+- Malmaison
+- Moxy York
+- Station Gateway
+- The Press
+- York Theatre Royal
+- Yorkshire Museum
+- Yorkshire Philosophical Society
 ---
 
 THE Yorkshire Museum, hotels, theatres, and even the station itself are among the York buildings that took less time to construct than the current Station Gateway project.

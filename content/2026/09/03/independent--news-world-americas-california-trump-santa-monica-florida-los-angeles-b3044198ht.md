@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/03/15/California_Coast_Trump_468
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Florida
+- Gulf of Mexico
+- Huntington Beach
+- Los Angeles
+- Rancho Palos Verdes
+- Santa Barbara
+- Santa Barbara Channel
+- Santa Monica
+- Texas
+- Ventura County
+people:
+- Deborah A. Sivas
+- Gavin Newsom
+- Howard Lutnick
+- Maureen Ellenberger
+- Ray Jackson
+- Trump
+organisations:
+- Bureau of Ocean Energy Management
+- California Coastal Commission
+- Commerce
+- DCOR LLC
+- Falcon 9
+- National Oceanic and Atmospheric Administration
+- Sable Offshore Corp
+- SpaceX
+- Stanford Law School
+- Trump
+- U2
+- Vandenberg Space Force Base
 ---
 
 The Trump administration is ratcheting up its fight to get more crude flowing through California and reverse the state's efforts to move away from fossil fuels.

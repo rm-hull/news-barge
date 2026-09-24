@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atherstone
+- Long Street
+- Sheffield
+- Warwickshire
+- Wincobank
+people: []
+organisations:
+- South Yorkshire Police
+- Warwickshire Police
 ---
 
 Police have arrested two people on suspicion of child neglect after a one-year-old girl was found dead at a home in Warwickshire on Friday.

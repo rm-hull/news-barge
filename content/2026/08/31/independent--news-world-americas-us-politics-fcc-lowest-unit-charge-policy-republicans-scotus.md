@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Georgia
+people:
+- Donald Trump
+- Jon Ossoff
+organisations:
+- 4th Circuit
+- 4th U.S. Circuit Court of Appeals
+- Congress
+- FCC
+- Federal Communications Commission
+- Federal Election Commission
+- First Amendment
+- House of Representatives
+- NRCC
+- NRSC
+- National Republican Congressional Committee
+- National Republican Senatorial Committee
+- Republican National Committee
+- Reuters
+- Senate
+- Supreme Court
+- U.S. Supreme Court
 ---
 
 Two Republican campaign committees have asked the U.S. Supreme Court to preserve a federal rule granting them discounted television and radio advertising rates, as President Donald Trump's party seeks to retain control of Congress in November's midterms.

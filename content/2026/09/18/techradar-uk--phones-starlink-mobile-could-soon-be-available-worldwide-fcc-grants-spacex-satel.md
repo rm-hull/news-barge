@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/cHBeEddBzHteQrko8xM5ZM-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- James
+organisations:
+- AI
+- Clarity Media
+- FCC
+- Federal Communications Commission
+- Google News
+- KDDI
+- NotebookCheck —
+- SpaceX
+- Starlink Mobile
+- T-Mobile
+- TechRadar
+- V2
+- Verizon
 ---
 
 ![Starlink](https://cdn.mos.cms.futurecdn.net/cHBeEddBzHteQrko8xM5ZM.jpg) 

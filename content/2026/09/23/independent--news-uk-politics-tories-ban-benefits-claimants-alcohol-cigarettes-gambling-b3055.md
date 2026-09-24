@@ -13,6 +13,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/15/18/GettyImages-1213764343.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- UK
+people:
+- Andy Burnham
+- Helen Whately
+- Kemi Badenoch
+organisations:
+- Labour Party
+- Tory
+- UC
+- Universal Credit
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -15,6 +15,20 @@ categories:
 - Travel
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- A1079 Hull Road
+- Beverley
+- Bishopthorpe Road
+- Market Weighton
+- Pocklington
+- Shambles Market
+- Thailand
+- Wilberfoss
+- York
+people: []
+organisations:
+- Christie & Co
+- Thai Season Restaurant & Hotel
 ---
 
 A popular Thai restaurant and hotel has been put up for sale.

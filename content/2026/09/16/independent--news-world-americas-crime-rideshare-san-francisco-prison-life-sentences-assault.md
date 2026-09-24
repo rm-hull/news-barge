@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Mission District
+- Peru
+- San Francisco
+- San Francisco County
+people:
+- Brooke Jenkins
+- Lyft
+- Michele Brass
+- Orlando Vilchez Lazo
+- Vilchez Lazo
+organisations:
+- Associated Press
+- LA Times
+- Los Angeles Times
+- Lyft
+- The Independent
+- U.S. Immigration and Customs Enforcement
 ---
 
 A San Francisco man dubbed the “rideshare rapist” has been sentenced to 150 years in prison for posing as a rideshare driver to pick up women and sexually assault them.

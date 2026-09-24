@@ -15,6 +15,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Parliament Square
+people:
+- Bill
+- Daxa Manhar Patel
+- Daxa Patel
+- Lauren Edwards
+- Stefan Rousseau
+organisations:
+- Commons
+- NHS
+- National Commission
+- PA Wire
+- Regulation of AI in Healthcare
+- Yorkshire Post
 ---
 
 # The demand for choice on assisted dying is not going away - Daxa Patel

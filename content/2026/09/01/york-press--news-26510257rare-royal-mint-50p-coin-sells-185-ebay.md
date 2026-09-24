@@ -13,6 +13,20 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Atlantic Salmon
+- Earth
+- Europe
+- Kew Gardens
+- UK
+people:
+- Elizabeth II
+- Peter Rabbit
+- William Chambers
+organisations:
+- Royal Mint
+- The Royal Mint
+- eBay
 ---
 
 *(Image: Getty Images/iStockphoto)*

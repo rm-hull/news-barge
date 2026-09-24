@@ -11,6 +11,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kennedy Center
+- North Korea
+- The People’
+- U.S.
+- United States
+- Washington, D.C.
+- White House
+people:
+- Calvin Coolidge
+- Catherine Rampell
+- Donald Trump
+- Jeff Merkley
+- Kim Jong Un
+- Scott Bessent
+organisations:
+- Congress
+- Constitution
+- Department of Justice
+- Department of State
+- East Wing
+- Lincoln Memorial Reflecting Pool
+- Treasury
+- Trump Gold Card
+- U.S. Mint
+- US Mint
+- USS Donald J. Trump
+- United States’
 ---
 
 R.I.P. liberty?

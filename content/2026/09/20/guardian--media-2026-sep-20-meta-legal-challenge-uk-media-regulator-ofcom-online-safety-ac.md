@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/24b325b609857b7dfc0e76e23d1da75a46c61492/910_0_4548_3639/master/4548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59d6e22ccd7f080305639fb7ac0c43a0
+locations:
+- Britain
+- London
+- US
+- White House
+people:
+- Donald Trump
+- Lisa Nandy
+- Oliver Griffiths
+organisations:
+- Facebook
+- House of Lords
+- Instagram
+- Meta
+- Ofcom
+- Sky News Electoral Dysfunction
+- TikTok and X
+- WhatsApp
 ---
 
 Meta has launched a fresh legal challenge against Britain’s media regulator in the latest of a slew of actions by social media companies who are accused of using the courts to slow down implementation of the Online Safety Act.

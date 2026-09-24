@@ -13,6 +13,31 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Epsom
+- Leeds
+- Leicester
+- Slough
+- St Helier
+people:
+- Jonathan Reynolds
+- Kate Dearden
+- Paul Nowak
+- Yui Mok
+organisations:
+- Acas
+- B&Q
+- Elysium Healthcare Holdings Limited
+- Fair Work Agency
+- Government
+- Lanes Group Limited
+- St George’s
+- St George’s University Hospitals NHS Foundation Trust
+- St Helier Hospital Group
+- Support Staff Services Limited
+- TUC
+- UK Care Team Ltd
+- – Forest Holidays Ltd
 ---
 
 Hundreds of employers have been named by the Government for failing to pay workers the National Minimum Wage.

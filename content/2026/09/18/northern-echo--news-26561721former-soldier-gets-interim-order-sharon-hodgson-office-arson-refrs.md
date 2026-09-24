@@ -13,6 +13,27 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Auckland
+- Darlington
+- Gateshead
+- Vermont House
+- Washington
+people:
+- Anthony Hutton
+- Jolyon Perks
+- Josh Oliver
+- Ms Hodgson
+- Sarah Mallett
+- Sharon Hodgson
+organisations:
+- CCTV
+- Gateshead South
+- Labour
+- NHS
+- Newcastle Crown Court
+- PA MEDIA)*
 ---
 
 A former soldier who admitted burning down an MP’s constituency office has been made subject to an interim hospital order ahead of his sentencing.

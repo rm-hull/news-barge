@@ -13,6 +13,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Washington
+people:
+- Brian Armstrong
+- Donald Trump
+- Donald Trump Jr.
+- Eric Trump
+- Jerry Moran
+- Joe Biden
+- Josh Hawley
+- Susan Collins
+- Thom Tillis
+organisations:
+- Bitcoin
+- CFTC
+- Circle
+- Coinbase
+- Congress
+- House of Representatives
+- SEC
+- Senate
+- Trump
+- U.S. Commodity Futures Trading Commission
+- U.S. Securities and Exchange Commission
 ---
 
 A comprehensive cryptocurrency bill backed by President Donald Trump failed to advance in the Senate on Tuesday, dealing a severe setback to digital asset firms and Republican lawmakers who had spent months pushing the legislation.

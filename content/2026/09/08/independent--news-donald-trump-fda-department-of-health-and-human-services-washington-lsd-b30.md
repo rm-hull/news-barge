@@ -15,6 +15,27 @@ categories:
 - UK
 - Health & Fitness
 - Society & Culture
+locations: []
+people:
+- Bret Koplow
+- Donald Trump
+- Jared Seehafer
+- Karim Mikhail
+- Marty Makary
+- Michael Davis
+- Robert F. Kennedy
+- Tracy Beth Hoeg
+- Vinay Prasad
+organisations:
+- AP Fund for Journalism
+- Center for Drug Evaluation and Research
+- Center for Tobacco Products
+- Congress
+- Department of Health and Human Services
+- FDA
+- Food and Drug Administration
+- HHS
+- Trump
 ---
 
 The administration of President Donald Trump filled four senior positions at the Food and Drug Administration on Tuesday, promoting several officials who had been serving in acting roles to permanently fill the spots, including the agency’s top leaders for drugs and vaccines.

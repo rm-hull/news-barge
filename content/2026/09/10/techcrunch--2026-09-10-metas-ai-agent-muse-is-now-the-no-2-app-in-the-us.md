@@ -11,6 +11,27 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImag
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Silicon Valley
+- U.S.
+- United States
+- Wall Street
+people:
+- Claude Cowork
+organisations:
+- ChatGPT
+- Facebook
+- Gemini Spark
+- Google Play
+- Instinct
+- Meta AI
+- Meta!
+- Meta’s Muse
+- No. 2
+- No. 338
+- Sensor Tower
+- U.S. App Store
+- U.S. Federal Trade Commission
 ---
 
 Meta is beginning to win over Wall Street following Tuesday’s launch of its new AI app, Muse. The tech giant’s push into agentic AI is also a hot topic on X among industry players. Now, early numbers offer better insight into how popular Muse actually is among its target market of U.S. consumers.

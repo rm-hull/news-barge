@@ -13,6 +13,48 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/01/UN_General_Assembly_Naoero_79623.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Australia
+- Benin
+- Burkina Faso
+- Burma
+- Ceylon
+- Dahomey
+- Germany
+- Ghana
+- Gold Coast
+- Iran
+- Myanmar
+- Nauru
+- Nauruan
+- New York
+- New Zealand
+- Persia
+- Rhodesia
+- South Pacific
+- Sri Lanka
+- Swaziland
+- Thailand
+- Turkey
+- Turkiye
+- United Kingdom
+- Upper Volta
+- Zimbabwe
+people:
+- David Adeang
+- Naoero
+- Nauru
+- Siam
+- \_\_\_ Ted Anthony
+organisations:
+- Eswatini
+- General Assembly
+- NRO
+- NRU
+- The Associated Press
+- U.N
+- United Nations
 ---
 
 His voice forceful and proud, he rose in front of the world's largest gathering of leaders on behalf of his nation and announced that he had something important to say. The tiny South Pacific island nation of Nauru, its president said, had altered its name — and reclaimed its heritage in the process.

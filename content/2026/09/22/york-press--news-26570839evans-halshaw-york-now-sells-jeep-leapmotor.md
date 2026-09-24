@@ -12,6 +12,46 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21485644.jpg?type=og-image
+locations:
+- Audax Close
+- Cardiff
+- Centurion Park
+- Clifton Moor
+- Evans Halshaw
+- Evans Halshaw Leapmotor
+- Hull
+- Leeds
+- MG York
+- North Yorkshire
+- UK
+people:
+- Evans Halshaw
+- Jonathon Whitehead
+organisations:
+- '## Major York'
+- )* Evans Halshaw
+- Agility Fleet
+- Chery
+- Citroën
+- Driveway Vehicle Solutions
+- Evans Halshaw
+- Evans Halshaw Jeep
+- Evans Halshaw York
+- Group 1
+- Hatfields
+- ICE
+- Jeep Compass
+- Leapmotor
+- Lithia UK
+- Peugeot
+- Pic
+- QuickCo
+- Ray Chapman Motors
+- Read Motor Group
+- Stellantis
+- Stratstone
+- TPS
+- Vauxhall
 ---
 
 ## Major York car dealership introduces two new brands at its city site

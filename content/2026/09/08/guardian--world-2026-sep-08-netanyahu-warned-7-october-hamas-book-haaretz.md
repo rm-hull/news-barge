@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Abu Dhabi
+- Gaza
+- Iran
+- Israel
+- Lebanon
+- UAE
+- United Arab Emirates
+people:
+- Benjamin Netanyahu
+- Gadi Eisenkot
+- Haaretz
+- Isaac Herzog
+- Mohamed bin Zayed Al Nahyan
+- Naftali Bennett
+- Yahya Sinwar
+- Yair Golan
+- bin Zayed
+organisations:
+- Democrats
+- Haaretz
+- Hamas
 ---
 
 Benjamin Netanyahu was personally alerted by the president of the United Arab Emirates that Hamas was planning a large-scale offensive against Israel a week before its 7 October 2023 attack, but did not act on the warning, according to a book by Haaretz reporters.

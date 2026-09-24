@@ -12,6 +12,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- OpenAI
+people:
+- Chang Liu
+- OpenAI
+- Yu-Ting Peng
+organisations:
+- Apple
+- OpenAI —
+- TechCrunch
 ---
 
 In its lawsuit against OpenAI, Apple filed what it calls “shocking evidence” to bolster its allegations that former employees stole trade secrets for OpenAI’s benefit. These new details emerged after the legal counsel for former Apple employee Chang Liu — who now works at OpenAI — handed over Liu’s old Apple work laptop for investigation earlier this month.

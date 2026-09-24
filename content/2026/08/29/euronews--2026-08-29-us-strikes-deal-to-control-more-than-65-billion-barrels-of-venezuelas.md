@@ -11,6 +11,23 @@ image: https://images.euronews.com/articles/stories/09/89/36/46/1200x675_cmsv2_6
 categories:
 - Europe
 - News & Politics
+locations:
+- America
+- Caracas
+- Hemisphere
+- US
+- Venezuela
+- Washington
+people:
+- '## Trump'
+- Delcy Rodríguez
+- Donald Trump
+- Marco Rubio
+- Nicolás Maduro
+organisations:
+- American Oil Reserves
+- Oil Supply
+- Truth Social
 ---
 
 ## Trump has long been candid about his desire for the US to secure Venezuelan oil and has urged oil companies to invest in the South American nation.

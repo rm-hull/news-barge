@@ -10,6 +10,18 @@ description: Lexar's new dock crams 22 ports, a touchscreen, and a rotating dial
 image: https://cdn.mos.cms.futurecdn.net/X5sqrFCZaBcWzwcLhDChUo-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Efosa
+- Google News
+- Kickstarter
+- Lexar
+- Mac
+- NVMe
+- PexarBolt Ultra TBT5 Dock
+- TechRadar Pro
+- Thunderbolt 5
 ---
 
 ![Lexar PexarBolt Ultra TBT5 Dock](https://cdn.mos.cms.futurecdn.net/X5sqrFCZaBcWzwcLhDChUo.png) 

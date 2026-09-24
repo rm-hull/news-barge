@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/17/21/Trump_Endangered_Species_8
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Camp Sherman
+- Deschutes National Forest
+- Oregon
+- Pacific Northwest
+- Washington
+people:
+- Antonin Scalia
+- Barack Obama
+- Brian Nesvik
+- Dan Ashe
+- Donald Trump
+- Joe Biden
+- Noah Greenwald
+organisations:
+- Association of Zoos and Aquariums
+- Center for Biological Diversity
+- ESA
+- Fish and Wildlife Service
+- Interior Department
+- Nesvik
+- Supreme Court
+- The New York Times
+- Trump
+- Turtle Survival Alliance-North American Freshwater Turtle Research Group
+- U.S. Fish and Wildlife Service
 ---
 
 Unintentionally killing protected animals during logging or dam construction will no longer be considered illegal under a revised federal interpretation of the Endangered Species Act, marking a major policy shift under President Donald Trump’s administration.

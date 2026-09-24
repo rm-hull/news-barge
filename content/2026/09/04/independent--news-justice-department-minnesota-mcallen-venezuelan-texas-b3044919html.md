@@ -16,6 +16,32 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Minnesota
+- Texas'
+- Twin Cities
+- U.S.
+- US
+- Washington
+people:
+- Alfredo Alejandro Aljorna
+- Christian Castro
+- Julio Cesar Sosa-Celis
+- Matthew Evans
+- Robin Wolpert
+- Sosa Celis
+- Sosa-Celis'
+- ——— Richer
+organisations:
+- American Civil Liberties Union of Minnesota
+- Evans’ Justice Department
+- FBI
+- ICE
+- Justice Department
+- Main Justice
+- ProPublica
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
 ---
 
 A U.S. Immigration and Customs Enforcement officer falsely told investigators he was being attacked with a broom and shovel before he shot and wounded a Venezuelan man during the Minnesota immigration crackdown last winter, according to a federal indictment unsealed Friday.

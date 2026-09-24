@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- Hampshire
+- Laverstoke Park
+- Overton
+- US
+people:
+- Clare
+- Jody Scheckter
+- Sheckler
+- Tony Beare
+organisations:
+- FATS
+- Ferrari
+- Firearms Training Systems
+- First Tier Tribunal
+- Formula One
+- HM Revenue and Customs
+- HMRC
+- LLP Laverstoke Farm Produce
+- Ocado
 ---
 
 Former Formula One world champion Jody Scheckter has lost a high-profile court battle against HM Revenue and Customs over a £1.4m tax bill connected to his organic buffalo farming enterprise.

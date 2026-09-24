@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+- Kyiv
+- Moscow
+- Myla
+- Odesa
+- Russia
+- US
+- Ukraine
+people:
+- Oleksandr Pertsovskyi
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv
+- Lockheed Martin
+- Patriots
+- Ukrainian Railways
 ---
 
 At least 12 people have been killed in and around Kyiv overnight as Ukraine’s capital endured a sixth consecutive night of Russian drone and missile attacks aimed at shattering infrastructure and lowering the morale of the city.

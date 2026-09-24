@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Britain
+- PA
+- UK
+people:
+- Costa
+- Greggs
+organisations:
+- Allegra World Coffee Portal
+- Coca Cola
+- Costa Coffee
+- El Nino
+- Greggs
+- Greggs’
+- Grind
+- Mike Egerton
+- Project Cafe UK
+- Retail Gazette
+- YouGov
 ---
 
 Costa Coffee has been overtaken as the biggest branded coffee operator in the UK, with Greggs taking the crown after another expansion.

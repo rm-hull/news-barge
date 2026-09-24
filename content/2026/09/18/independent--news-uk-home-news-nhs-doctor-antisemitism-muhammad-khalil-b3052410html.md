@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Aintree University Hospital
+- Egypt
+- Gaza
+- Israel
+- Liverpool
+- Middle East
+- NHS
+- Royal Free Hospital
+- UK
+people:
+- Dr Khalil
+- Gamal Abdel Nasser
+- Israel’
+- Malcolm Dodds
+- Mark Zuckerberg
+- Moses
+- Muhammad Khalil
+organisations:
+- GMC
+- GMP
+- General Medical Council
+- Guy's & St Thomas' NHS Foundation Trust
+- Instagram
+- Medical Practitioners’ Tribunal Service
+- Meta
 ---
 
 A senior NHS doctor has been suspended after publishing "antisemitic" posts that told Jewish people to "shove all your prophets up your stinky ass".

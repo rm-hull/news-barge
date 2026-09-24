@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bab el-Mandeb Strait
+- Greater Hanish
+- Lesser Hanish
+- Mayun
+- Mokha
+- Red Sea
+- Yemen
+people: []
+organisations:
+- AP
+- The Associated Press
 ---
 
 Yemen's Houthi rebels seize more key islands in southern Red Sea, tighten grip on shipping routes

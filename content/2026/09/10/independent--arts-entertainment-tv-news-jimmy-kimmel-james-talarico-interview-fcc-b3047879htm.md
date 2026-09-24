@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- America
+- Texas
+people:
+- Arsenio
+- Brendan Carr
+- Charlie Kirk
+- Donald Trump
+- Hilary Clinton
+- James Talarico
+- James Terico
+- Jimmy Kimmel
+- Ken Paxton
+- Leno
+- Letterman
+- Ted Cruz
+organisations:
+- ABC
+- Disney
+- FCC
+- Texas Senate
+- The Independent
+- YouTube
 ---
 
 Jimmy Kimmel’s upcoming interview with Democratic Senate hopeful James Talarico will not air on ABC, the talk show host announced, citing the network’s legal troubles with Trump’s FCC as the cause.

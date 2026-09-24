@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Colliergate
+- Coney Street
+- LONG-STANDING York
+- Lendal
+- Micklegate
+- North Yorkshire
+people: []
+organisations:
+- High Court
+- Post Office
+- Post Office Ltd
+- TG Jones
+- The Press
+- WHSmith
+- York Post Office
 ---
 
 A LONG-STANDING York city centre shop is set to close its doors next month – in a move that will also shut the city’s main post office for the second time in less than 10 years.

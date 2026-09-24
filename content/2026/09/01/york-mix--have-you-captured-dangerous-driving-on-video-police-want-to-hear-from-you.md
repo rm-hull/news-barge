@@ -11,6 +11,10 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- North Yorkshire
+people: []
+organisations: []
 ---
 
 Have you captured dangerous or careless driving on your dashcam, CCTV, or a passenger’s mobile phone?

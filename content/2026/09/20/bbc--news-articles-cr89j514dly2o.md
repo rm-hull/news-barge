@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a664/live/49258400-b4e2-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Iran
+- UK
+people:
+- Bridget Phillipson
+- Ed Davey
+- John Healey
+- Keir Starmer
+- Laura Kuenssberg
+- Trump
+organisations:
+- Budget
+- Houses of Parliament.
+- Labour Party
+- Lib Dems
+- Liberal Democrat
+- Politics Essential
 ---
 
 Watch: Liberal Democrat leader Ed Davey calls for immediate action on fuel costs

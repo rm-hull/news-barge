@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d89e/live/11413900-b5f8-11f1-a430-4d16ee157c41.jpg
+locations:
+- England
+- Franklin's Gardens
+- Ireland
+- Northampton
+- Scotland
+people:
+- Eddie Hearn
+- Finn Russell
+- Henry Pollock
+- Phil Dowson
+- Saints'
+organisations:
+- BBC Radio Northampton
+- Bath
+- Black Lion
+- Irish Lions
+- Pollock
+- Saints
+- Saints'
+- Saracens
+- Wales
 ---
 
 ![Henry Pollock ](https://ichef.bbci.co.uk/ace/standard/953/cpsprodpb/d1de/live/d4b3d900-b5f4-11f1-92fa-591dfdb818e5.jpg)

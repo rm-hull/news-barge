@@ -13,6 +13,27 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Beijing
+- Cambodia
+- China
+- Gulf of Thailand
+- U.S.
+- United States
+- Washington
+people:
+- Elbridge A. Colby
+- Hun Manet
+- Steve Koehler
+- Vong Pisen
+organisations:
+- Cambodian Armed Forces
+- Cambodian People’s Party
+- Exercise Angkor Sentinel
+- Royal Cambodian Army
+- U.S. Department of War
+- U.S. Pacific Fleet
+- War Department
 ---
 
 Cambodia ’s army announced Friday that it will resume joint military exercises with the United States early next year after they had been suspended for almost a decade.

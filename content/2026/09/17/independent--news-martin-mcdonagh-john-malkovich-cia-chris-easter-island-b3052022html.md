@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- Bruges
+- Chile
+- Easter Island
+- London
+- Missouri
+- South of France
+- Spokane
+- Tahiti
+- Toronto
+- U.S.
+- Venice
+- West
+people:
+- Chris (Malkovich
+- Joe Pesci
+- John Malkovich
+- Martin McDonagh
+- Sam Rockwell
+- Trump
+organisations:
+- CIA
+- KGB
+- Searchlight Pictures
 ---
 
 Stop me if you've heard this before. Martin McDonagh has unveiled a dark comedy of mischievous wit and melancholy soulfulness, and it's immediately been hailed as one of the best movies of the year.

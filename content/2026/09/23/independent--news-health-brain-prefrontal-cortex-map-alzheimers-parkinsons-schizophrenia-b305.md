@@ -13,6 +13,21 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/17/2267473013..?trim=0,29,0,29&width=1200&height=800&crop=1200:800
+locations:
+- Mount Sinai
+- New York City
+- U.S.
+people:
+- Alzheimer
+- Panos Roussos
+organisations:
+- Center for Disease Neurogenomics
+- Icahn School of Medicine
+- National Institute on Aging
+- National Institutes of Health
+- Nature
+- Parkinson's and Alzheimer's
+- PsychAD
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- England
+- Scotland
+- UK
+- Wales
+people:
+- Graham Conway
+organisations:
+- ANTONS JEVTEREVS/Getty
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Select Car Leasing
 ---
 
 *(Image: ANTONS JEVTEREVS/Getty)*

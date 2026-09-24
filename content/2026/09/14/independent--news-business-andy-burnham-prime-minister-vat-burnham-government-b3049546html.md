@@ -14,6 +14,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Health & Fitness
+locations:
+- Britain
+- Downing Street
+- UK
+people:
+- Andy Burnham
+- Bill’s
+- Franco Manca
+- Greene King
+- Heston Blumenthal
+- Tom Kerridge
+organisations:
+- British Beer and Pub Association
+- British Institute of Innkeeping and Code Hospitality
+- Center Parcs
+- Fuller’s
+- Government
+- Haven
+- Marriott International
+- Pizza Express
+- Robinsons Brewery
+- UKHospitality
+- Wagamama
+- Wetherspoon’s
 ---
 
 More than 800 hospitality businesses have written to the Prime Minister urging him to set out how he will introduce a lower rate of VAT.

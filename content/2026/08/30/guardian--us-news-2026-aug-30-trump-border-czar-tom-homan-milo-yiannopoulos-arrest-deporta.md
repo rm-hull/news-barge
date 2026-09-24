@@ -12,6 +12,27 @@ image: https://i.guim.co.uk/img/media/698ce8e4ef2bd9a7f2a2a6c331b8d40eb40b231c/9
 categories:
 - UK
 - News & Politics
+locations:
+- Caesars Superdome
+- New Orleans
+- UK
+- US
+- White House
+people:
+- Dana Bash
+- Kanye West
+- Laura Loomer
+- Milo Yiannopoulos
+- Tom Homan
+- Trump
+- Ye
+organisations:
+- CNN
+- DHS
+- Department of Homeland Security
+- ICE
+- State of the Union
+- US Immigration and Customs Enforcement
 ---
 
 The White House “border czar,” Tom Homan, denied on Sunday that the British far-right commentator Milo Yiannopoulos was deported just a day after being arrested by US Immigration and Customs Enforcement (ICE) for political reasons.

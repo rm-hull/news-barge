@@ -13,6 +13,12 @@ categories:
 - UK
 - Travel
 - Technology & Software
+locations:
+- Abraham Lincoln
+- Middle East
+- Thailand
+people: []
+organisations: []
 ---
 
 The USS Abraham Lincoln aircraft carrier docked at a port in eastern Thailand on Wednesday after its grueling deployment in the Middle East.

@@ -11,6 +11,14 @@ image: https://media.wired.com/photos/6a904a3b36f6c0403d01480b/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- AirDrop
+- Apple
+- Google Drive
+- Samsung Galaxy
+- iOS
 ---
 
 Whisper it quietly, but certain bricks in Apple’s walled garden might be getting taken away.

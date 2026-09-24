@@ -161,6 +161,32 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Arville
+- Bradford
+- Bury
+- Middle East
+- Pakistan
+- UK
+- West Yorkshire
+- Wetherby
+people:
+- James Kelly
+- Max Partington
+- Parik Goswami
+- Shahban Aziz
+- Steve Gill
+organisations:
+- Arville
+- Department for Business, Innovation, Science and Trade
+- Jane Marriott CMG OBE
+- Pakistan Bilateral Trade Relations
+- Pakistan Trade Industry and Innovation Summit
+- Research and Innovation
+- Textile Centre of Excellence
+- University of Huddersfield
+- West Yorkshire
+- West Yorkshire Combined Authority
 ---
 
 Talks at Wetherby based Arville focused on knowledge sharing between two textile industries with different strengths, and on collaboration rather than competition

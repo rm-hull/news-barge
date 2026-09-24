@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Duncombe Place
+- York Minster
+people:
+- Cllr Ayre
+- Cllr Claire Douglas
+- Cllr Douglas
+- Cllr Nigel Ayre
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- ATTRO
+- ATTROs
+- Anti-Terror Traffic Regulation Order
+- Anti-Terror Traffic Regulation Orders
+- Blue Badge
+- City of York Council
+- Deangate
+- Labour Council
+- Labour Transport
+- Liberal Democrat
+- North Yorkshire Police
+- The Christmas Market
+- York Christmas Market
+- York Council
 ---
 
 ## Anti-terror traffic bans in York 'sensitive and difficult' as powers approved

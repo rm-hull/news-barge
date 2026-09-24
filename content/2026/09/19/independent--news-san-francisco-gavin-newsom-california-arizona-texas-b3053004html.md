@@ -11,6 +11,22 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/22/California_Lowrider_Parade_15516.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- California
+- King of the Streets
+- Mission Street
+- San Francisco
+- Texas
+- U.S. Southwest
+people:
+- Gavin Newsom
+- Johnny Castro
+- Roberto Hernandez
+- Rolling
+organisations:
+- San Francisco Lowrider Council
+- U.S. Postal Service
 ---
 
 Drivers in vehicles built to move low and slow cruised Saturday down San Francisco's Mission Street in celebration of one of the city’s most distinctive cultural traditions: lowriding.

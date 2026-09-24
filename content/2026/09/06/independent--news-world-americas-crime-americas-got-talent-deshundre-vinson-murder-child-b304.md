@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- America
+- Chattanooga
+- Tennessee
+people:
+- Deshundre Vinson
+organisations:
+- America’s Got Talent
+- CPR
+- Chattanoogan.com
+- Citi Limitz
+- Hamilton County Sheriff’s Office
+- WTVC
 ---
 
 Former *America’s Got Talent* contestant Deshundre Vinson has been charged with murder in connection with the drowning death of his 4-year-old nephew, who authorities say was underwater for nine minutes. 

@@ -12,6 +12,17 @@ image: https://images.euronews.com/articles/stories/09/91/44/77/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- '**Victoria Underpass'
+- Kiseleff Boulevard**
+- Piața Victoriei
+- Romania
+- Victory Square
+people:
+- Alexandru Bociu**
+organisations:
+- ANSVSA
+- National Sanitary Veterinary and Food Safety Authority
 ---
 
 Footage shows protesters **pushing and scuffling** with security forces,**throwing objects** and**knocking down barriers** before gendarmes deployed**tear gas**.

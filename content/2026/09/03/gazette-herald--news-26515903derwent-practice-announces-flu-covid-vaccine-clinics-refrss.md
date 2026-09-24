@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations: []
+people: []
+organisations:
+- COVID
+- Derwent Practice
+- NHS
 ---
 
 *(Image: Derwent Practice)*

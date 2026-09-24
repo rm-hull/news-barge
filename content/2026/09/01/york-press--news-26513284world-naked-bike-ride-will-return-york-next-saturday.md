@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Millennium Bridge
+- North Yorkshire
+- River Ouse
+- York
+people:
+- Frank Dwyer
+- Garry Atkinson
+- Sadie Tann
+organisations:
+- POPULAR York
+- University of York
+- York Picture
 ---
 
 ## Naked cyclists to descend on York city centre next week

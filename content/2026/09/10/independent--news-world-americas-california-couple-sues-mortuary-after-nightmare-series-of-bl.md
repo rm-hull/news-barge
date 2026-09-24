@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Fairhaven Park
+- Santa Ana
+people:
+- Jacqueline Bahena
+- William Gutierrez
+- Zayid
+organisations:
+- Central Justice Center
+- Fairhaven
+- Mortuary
 ---
 
 A grieving Santa Ana couple faced a nightmare sequence of blunders at their infant son’s funeral—including a three-hour delay, wrong-sized vaults, and a plan to unearth the baby the next day, according to a lawsuit opening in court Thursday.

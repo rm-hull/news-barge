@@ -12,6 +12,48 @@ image: https://images.euronews.com/articles/stories/09/91/01/03/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Brazil
+- Brussels.
+- Ceuta
+- Dnipropetrovsk
+- Europe
+- Grand Palais
+- Japan
+- Kyiv
+- Memorial
+- Morocco
+- New Delhi
+- New York.
+- Paris
+- Sana'a
+- Spain
+- Sumar
+- Ukraine
+people:
+- Andreas Schleicher
+- Antonio Costa
+- Emmanuel Macron
+- Laura Joyce-Hubbard
+- Narendra Modi
+- Thomas Pesquet
+- Ursula von der Leyen
+- Valdis Dombrovskis
+organisations:
+- American Airlines
+- Euronews
+- European Commission
+- European Council
+- European Union
+- French European Space Agency
+- Hamad International
+- Más Madrid
+- PISA
+- Pedro Miguel da Costa e Silva
+- Qatar Airways
+- Shein
+- Tesh Sidi
+- Ukrainian Emergency Service
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham Airport
+- Cambodia
+- Laos
+- Malaysia
+- South East Asia
+- Thailand
+- UK
+people:
+- Stephen Doughty
+organisations:
+- BBC
+- Foreign Office
+- NCA
+- National Crime Agency
 ---
 
 ![Large bags of cannabis next to a row of suitcases in an airport](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/0b0d/live/66d0b2d0-b033-11f1-9ae0-e316eeb4632d.jpg)

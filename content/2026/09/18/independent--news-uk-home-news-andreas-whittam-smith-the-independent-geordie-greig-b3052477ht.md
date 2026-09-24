@@ -14,6 +14,50 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Cambridge
+- Cheshire
+- Fleet Street
+- Keble
+- London
+- Macclesfield
+- Oxford
+- St Bride’s Church
+- Wapping
+people:
+- Andreas Whittam Smith
+- Anthony Powell
+- Ben
+- Canon JE smith
+- Chauncey Gardener
+- Chauncey Gardner
+- Garrick
+- Geordie Greig
+- God
+- Ivo
+- Jude
+- Justin Welby
+- Mark
+- Matthew Symonds
+- Peter Sellers
+- Rupert Murdoch
+- Saul
+- Socrates
+- Stephen Glover
+- Valerie
+- Whittam Smith
+organisations:
+- Baader-Meinhof Gang
+- Birkenhead School
+- British Board of Film Classification
+- Canterbury Cross
+- Church of England
+- News UK
+- Telegraph
+- The Independent
+- The Observer
+- The Times
+- University of Bath A CBE
 ---
 
 Current editor-in-chief of *The Independent**,* Geordie Greig, has delivered an address at the memorial service for Sir Andreas Whittam Smith, the co-founder and former editor of the paper, who died late last year. 

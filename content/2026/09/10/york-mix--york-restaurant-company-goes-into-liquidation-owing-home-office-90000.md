@@ -12,6 +12,30 @@ categories:
 - York
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- Barbican Road
+- Chorley
+- Kirstall Road
+- Leeds
+- York
+people:
+- Jasmine Baxter
+- Kheng Chooi Koay
+organisations:
+- '***YorkMix***'
+- Anderson Brookes
+- Civil Penalty Notices
+- Civil Penalty Referral Notice
+- Companies House
+- Google Reviews
+- HMRC
+- Home Office
+- Home Office Civil Penalty Compliance Team
+- Regency Online Shopping Ltd
+- Sky Blue Chinese Restaurant
+- Sky Blue Restaurant
+- Sky Blue York Ltd
+- TripAdvisor
 ---
 
 A York restaurant company has gone into liquidation owing thousands to the Home Office in fines.

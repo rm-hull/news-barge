@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/20575355.jpg?type=og-image
+locations:
+- Afghanistan
+- County Durham
+- HMP Low Newton
+- Low Newton
+- Montgomery
+- North East
+people:
+- Angela Montgomery
+- Ms Montgomery
+- Newton
+- Stuart Boulton
+organisations:
+- CCTV
+- HMP Low Newton
+- Montgomery’s ACCT
+- PPO
+- Prison Service
+- Prison and Probation Ombudsman
+- Prisons and Probation Ombudsman
+- Spectrum Community Health CIC
+- The Northern Echo.
 ---
 
 A woman warned prison staff she would drown herself if she got the chance before she was found dead in a prison bath, a watchdog found.

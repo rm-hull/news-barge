@@ -14,6 +14,36 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Africa
+- New York
+- U.S.
+people:
+- António Guterres
+- Bill Gates
+- Donald Trump
+- Guterres'
+- Mark Suzman
+- Richard Gowan
+organisations:
+- AI The Gates Foundation
+- AI for Good Lab
+- AP
+- Anthropic
+- Congress
+- Gates Foundation
+- Google.org
+- International Crisis Group
+- Lilly Endowment Inc
+- Microsoft
+- OpenAI
+- The Associated Press
+- The Conversation US
+- The Goalkeepers
+- U.N.
+- United Nations
+- United Nations General Assembly
+- ex-Anthropic
 ---
 
 Bill Gates is warning technology companies and world leaders that they must act now to ensure artificial intelligence combats social inequities rather than deepening disparities — and his foundation is pledging $1 billion to improve access.

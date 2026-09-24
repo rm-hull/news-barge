@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- UK
+people:
+- Dave Curd
+- Dednet
+organisations:
+- Curd
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar Gaming
 ---
 
 ![A character from PUBG: Dednet shooting at a car in the forest next to a red and purple shipping container](https://cdn.mos.cms.futurecdn.net/CJNCU7a6QqENsZdn9jvuAM.jpg) 

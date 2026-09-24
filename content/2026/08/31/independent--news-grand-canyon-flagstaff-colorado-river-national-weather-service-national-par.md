@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Columbia
+- Concord
+- Crystal Rapids
+- Dallas
+- Grand Canyon
+- Grand Canyon Village
+- Los Angeles
+- New Hampshire
+- Phantom Ranch
+- South Carolina
+- South Rim
+people:
+- Christopher Weber
+- Heaven
+- Holly Ramer
+- Jack Schmidt
+- Jeffrey Collins
+- Parth Desai
+organisations:
+- Arizona Department of Public Safety
+- Center for Colorado River Studies
+- National Park Service
+- National Weather Service
+- Utah State University
+- ___ Stengle
 ---
 
 More rain and thunderstorms were possible Monday at the Grand Canyon following a major flash flood that left one person dead and about 15 others missing or unaccounted for, with scores of visitors evacuated and the only water pipeline for tourists and residents destroyed.

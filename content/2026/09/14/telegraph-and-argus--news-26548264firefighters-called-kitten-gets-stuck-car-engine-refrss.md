@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Listerhills
+- Summerville Road
+people: []
+organisations:
+- West Yorkshire Fire & Rescue Service
 ---
 
 *(Image: Pexels)*

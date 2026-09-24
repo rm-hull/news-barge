@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/XmG86X5KoPAZt8AD5YL5iU-768-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Alan Kay
+- Dennis Gabor
+- Keumars Afifi-Sabet
+organisations:
+- Apple
+- HP
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- QOTD
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Dennis Gabor](https://cdn.mos.cms.futurecdn.net/XmG86X5KoPAZt8AD5YL5iU.jpg) 

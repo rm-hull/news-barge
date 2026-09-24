@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/08/09/16/737b6906584291dbeb630e71bf6ca557Y29udGVudHNlYXJjaGFwaSwxNzg2Mzc0MzM3-2.85523605.jpg?width=1200&height=800&crop=1200:800
+locations:
+- MoD Barnham
+- Norfolk
+- Oxfordshire
+- Piddington
+- RAF Barnham
+- St George
+- Suffolk
+- Thetford
+- UK
+people:
+- Anna Turley
+- Barnham
+- Cllr Bauer
+- John Bauer
+organisations:
+- Home Office
+- LBC
+- Ministry of Defence
+- MoD Barnham
+- MoD Bicester
+- The Independent
+- The Times
+- Union
 ---
 
 A second English village is considering holding a symbolic referendum on leaving the UK in protest over plans to host asylum seekers at a nearby military base.

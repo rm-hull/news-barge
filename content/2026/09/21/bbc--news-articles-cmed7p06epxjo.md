@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c51b/live/83c73640-b509-11f1-91cc-c5691e33b858.jpg
+locations:
+- America
+- Australia
+- Brussels
+- Canada
+- Dublin
+- Europe
+- Falklands
+- Liverpool
+- New York
+- Ottawa
+- Strasbourg
+- Toronto
+- UK
+- US
+- United Kingdom
+- White House
+people:
+- Andy Burnham
+- Charles
+- Donald Trump
+- François-Philippe Champagne
+- John Healey
+- Mark Carney
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- BBC
+- Bank of England
+- Canada-EU
+- Commonwealth Canada
+- EU
+- European Commission
+- European Union
+- Miriam Levin-Gold
+- UN General Assembly
 ---
 
 ![Champagne wears a suit and tie while he stands on a lawn in front of the Toronto city skyline of high-rise buildings.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1e4a/live/c0386310-b509-11f1-91cc-c5691e33b858.jpg)

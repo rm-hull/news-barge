@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21487957.jpg?type=og-image
+locations:
+- Britain
+- Clayton Glass
+- County Durham
+- Lancashire
+- Newton Aycliffe
+- Scotland
+- Stanley
+people:
+- Clayton Glass
+- Darren Grimes
+- Ed Miliband
+- James Lumb
+- Karen Allison
+- Luke Akehurst
+- SARAH CALDECOTT
+- Stanley
+- Ward
+organisations:
+- Annfield Plain
+- Clayton Glass
+- Crisis and Resilience Fund
+- Durham County Council
+- Harelaw Industrial Estate
+- Interpath
+- North Durham
+- Tanfield
+- The Northern Echo
+- Young Futures Hub
 ---
 
 Residents living near the closing Clayton Glass factory have spoken of their shock and sympathy for workers after the company collapsed, leaving hundreds jobless.

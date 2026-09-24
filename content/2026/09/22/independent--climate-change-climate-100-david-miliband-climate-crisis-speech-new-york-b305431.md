@@ -14,6 +14,43 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/14/2284784477..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Baku
+- Central Sahel
+- Dubai
+- Europe
+- Germany
+- Kenya
+- Lake Chad Basin
+- Lebanon
+- Mogadishu
+- Nigeria
+- Somalia
+- Sub-Saharan Africa
+- Sudan
+- Syria
+- Türkiye
+- UK
+- Ukraine
+people:
+- David Miliband
+organisations:
+- Bridgetown Initiative
+- British International Investment
+- COP31
+- Commonwealth and Development Office
+- FCDO
+- Global Commission on Adaptation
+- Green Climate Fund
+- ICRC
+- IRC
+- International Committee of the Red Cross and Red Crescent Societies
+- International Rescue Committee
+- UN
+- UNGA
+- United Nations General Assembly
+- World Bank
 ---
 
 The ministerial week of the United Nations General Assembly (UNGA) is meant to be the moment when the world comes together. Yet today fracture and fragmentation is dominant. Bad faith drives out good ideas. Hard power makes a mockery of international law. Even those with shared goals too often operate in silos.

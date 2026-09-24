@@ -14,6 +14,29 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Memphis Supercluster
+- Mount Pleasant
+- U.S.
+- Wisconsin
+people:
+- Elon Musk
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Amazon
+- Ampera
+- Bloomberg
+- Colossus
+- Google News
+- Jowi Morales
+- Microsoft
+- NAACP
+- Nvidia
+- Oracle
+- SpaceX
+- SpaceXAI
 ---
 
 ![a row of separation vessels for natural gas production](https://cdn.mos.cms.futurecdn.net/sf6SYZ3SGNXRhuKPg8DSdg.png) 

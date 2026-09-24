@@ -13,6 +13,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Sheffield
+- US
+people:
+- Dan Frinley
+- Dorothy Perkins
+- Karen Millen
+- Sophia Amoruso
+organisations:
+- Boohoo
+- Debenhams
+- Nasty Gal
+- Oasis
+- Pretty Little Thing
+- Primark
+- Von Dutch
+- WSG Brands
+- Warehouse
 ---
 
 Debenhams has sold women’s fashion brand Nasty Gal for 16 million US dollars (£11.9 million) as part of turnaround efforts to return the business to a profit.

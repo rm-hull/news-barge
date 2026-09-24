@@ -11,6 +11,12 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/01/coppergate-centre-car-park-york-january-2024.webp
+locations:
+- Coppergate Centre Car Park
+- Piccadilly
+- York
+people: []
+organisations: []
 ---
 
 Firefighters stepped in after a car became wedged in a York car park.

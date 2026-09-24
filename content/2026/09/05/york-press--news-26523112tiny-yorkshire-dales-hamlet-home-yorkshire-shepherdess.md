@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Arkengarthdale
+- Keld Green Café
+- Keld Lodge
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Rukin’s Campsite
+- Swaledale
+- Yorkshire Dales
+people:
+- Amanda Owen
+organisations:
+- Yorkshire Dales
 ---
 
 *(Image: Channel 4/PA Wire)*

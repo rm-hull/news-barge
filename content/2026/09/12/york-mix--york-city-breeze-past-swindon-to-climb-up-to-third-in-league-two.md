@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- LNER Community Stadium
+people:
+- Alex Hunt
+- Alex Newby
+- Anthony Munda
+- Connor Ripley
+- Joe Felix
+- Mitch Clark
+- Ollie Banks
+- Ollie Pearce
+- Stephan Negru
+organisations:
+- Swindon
+- York City
 ---
 
 In-form attacker Alex Newby bagged a brace to take his season’s tally to six as York City thumped 10-man Swindon 4-0 at the LNER Community Stadium.

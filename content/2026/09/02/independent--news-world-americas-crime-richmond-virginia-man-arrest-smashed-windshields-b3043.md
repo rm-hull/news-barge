@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Ambler
+- East Grace
+- Main Street Station
+- Richmond
+- Shockoe Bottom
+- Virginia
+people:
+- Laura Lee
+- McNeil
+- Sydney Lee
+- Tyler Holtrust
+organisations:
+- Richmond Police
+- Richmond Police Department
+- The Independent
+- VCU Medical Center
+- VCU Police
+- Virginia Commonwealth University Medical Center
+- Virginia Statewide Incidents LLC
+- WRIC
+- WWBT
 ---
 
 A man has been arrested and charged with multiple counts of destruction of property after allegedly using a brick to smash the windshields and windows of dozens of vehicles in a Richmond, Virginia, parking lot.

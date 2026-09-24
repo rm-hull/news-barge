@@ -10,6 +10,19 @@ image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- API
+- BlackFog
+- CASBs
+- Future plc
+- IBM
+- IT
+- SaaS
+- Shadow AI
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg) 

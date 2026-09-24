@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Religion & Spirituality
+locations:
+- America
+- Butler
+- Dallas
+- Iran
+- Madison
+- Pennsylvania
+- US
+- Vatican
+- Wisconsin
+people:
+- Apostle Paul
+- Authenticity Jacobs
+- Bryce Crawford
+- Charlie Kirk
+- Christ
+- Daniel Hummel
+- Donald Trump
+- Francis
+- God
+- Hitler
+- JD Vance
+- John Hagee
+- Larry Jacobs
+- Leo XIV
+- Maga
+- Robert Jones
+organisations:
+- Good Samaritan
+- Guardian
+- Lumen Center
+- Public Religion Research Institute
+- US Marines Corps
+- University of Minnesota
 ---
 
 US vice-president JD Vance has worn his religion on his sleeve since converting to the Catholicism in 2019. He recently published a book, Communion: Finding My Way Back to Faith, and memorably met the late Pope Francis at the Vatican on Easter Sunday in 2025, a day before the pontiff died.

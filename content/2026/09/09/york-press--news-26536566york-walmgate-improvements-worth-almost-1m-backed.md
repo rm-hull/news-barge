@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Guildhall
+- Long Lane Close
+- Walmgate
+- Willow House
+- YOUR
+- York
+people:
+- Ben Ffrench
+- Cllr Merrett
+- Dave Merrett
+organisations:
+- City of York Council
+- Green Party
+- LDRS)* Council
+- Labour
+- Local Transport Grant
+- Public Notice Portal
+- Walmgate
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: LDRS)*

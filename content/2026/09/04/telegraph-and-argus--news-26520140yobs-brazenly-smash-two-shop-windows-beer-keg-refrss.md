@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Shipley
+- Westgate
+people:
+- Mark Flannagan
+- Shipley
+- Suzanne
+organisations:
+- Bradford Police
+- Telegraph & Argus
+- UpCycle
+- UpCycle's
+- West Yorkshire Police
 ---
 
 *(Image: UpCycle)*

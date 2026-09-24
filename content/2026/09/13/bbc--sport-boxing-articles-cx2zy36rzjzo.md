@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Itauma
+- Las Vegas
+- Vegas'
+people:
+- Anthony Joshua
+- Chris Eubank Jr
+- Conor Benn
+- Dana White
+- Eddie Hearn
+- Filip Hrgovic
+- 'Garcia ## Swagger'
+- Helen Mirren
+- Iran Barkley
+- Let Conor
+- Moses Itauma
+- Nigel Benn
+- Regis Prograis
+- Ricky Hatton
+- Ryan Garcia
+- Tyson Fury
+organisations:
+- BoxRec
+- Commonwealth
+- Essex
+- New York-New York Hotel
+- T-Mobile Arena
+- WBC
+- Zuffa Boxing
 ---
 
 ![Conor Benn looking dejected](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ced6/live/a143b5a0-af36-11f1-aff8-4b59b73a0d8d.jpg)

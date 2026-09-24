@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Comedy & Entertainment
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313436996.jpg
+locations:
+- Brazil
+- Ilulissat Kangerlua Glacier Jakobshavn Icefjord
+people:
+- Flavio Bolsonaro
+- Luiz Inacio Lula da Silva
+organisations:
+- AMOC
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313436996.jpg?w=840)

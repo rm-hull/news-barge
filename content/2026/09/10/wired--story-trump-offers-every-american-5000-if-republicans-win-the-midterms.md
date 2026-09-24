@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Texas
+- US
+- United States
+- United States of America
+people:
+- Donald Trump
+- Erica York
+- JD Vance
+organisations:
+- Center for Federal Tax Policy
+- Congress
+- Court of International Trade
+- Fox News
+- GOP
+- House of Representatives
+- Republican National Committee
+- Senate
+- Tax Foundation
+- Trump
+- US Supreme Court
+- University of Pennsylvania
 ---
 
 President Donald Trump on Wednesday said that he would pay $5,000 to every adult US citizen if Republicans retained control of the US House and Senate in the midterm elections, seemingly in an effort to incentivize votes for his party.

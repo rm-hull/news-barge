@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/14/08/2294722031..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Arkansas
+- D-Ariz.
+- R-N.C.
+- Sen
+- South Carolina
+- White House
+- Wyoming
+people:
+- Cynthia Lummis
+- Donald Trump
+- John Boozman
+- Patrick Witt
+- Ruben Gallego
+- Thom Tillis
+- Tim Scott
+organisations:
+- Justice Department
+- Senate
+- Trump
 ---
 
 President Donald Trump has agreed to a major share of a strict ethics proposal embedded within a broader cryptocurrency bill set for a critical Senate vote this week, according to three key Republican sponsors.

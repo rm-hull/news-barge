@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Gateshead
+- Metrocentre
+- The Crescent
+people:
+- Pokémon
+organisations:
+- AQUA TCG
+- Aqua TCG
+- LEGO Pikachu
+- LEGO Store
+- Metrocentre
+- Metrocentre!
+- Poké Ball
+- Pokémon
+- Upper Green Mall
 ---
 
 Pokémon fans have marked three decades of adventure with their favourite characters and cards.

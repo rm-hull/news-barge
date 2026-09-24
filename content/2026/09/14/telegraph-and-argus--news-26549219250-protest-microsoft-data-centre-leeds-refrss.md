@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Leeds
+- Millennium Square
+- Skelton Grange
+- Stourton
+- YOUR
+people:
+- Kate Pearson
+- Lianne Marie Mease
+organisations:
+- Leeds City Council
+- Microsoft
+- No Leeds Data Centre
+- Public Notice Portal
+- Stourton Data Centre
 ---
 
 ### What is the Public Notice Portal?

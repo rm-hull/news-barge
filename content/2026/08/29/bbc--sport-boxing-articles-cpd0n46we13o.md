@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Croatia Hrgovic
+- London
+- Moses Itauma
+- O2 Arena
+- Zagreb
+people:
+- '## Hrgovic'
+- '** Itauma'
+- Brown
+- Daniel Dubois
+- Fabio Wardley
+- Filip Hrgovic
+- Frank Sanchez
+- Frank Warren
+- Howard Foster
+- Joe Joyce
+- Londoner Dubois
+- Moses Itauma
+- Noel Gallagher
+- Prince Naseem Hamed
+organisations:
+- IBF
+- Moses Itauma
+- O2 Arena
+- Oasis
+- WBO
 ---
 
 ![Filip Hrgovic lands a punch on Moses Itauma](https://ichef.bbci.co.uk/ace/standard/983/cpsprodpb/7f9c/live/a595bab0-a3fe-11f1-94f0-8d62ae00a5eb.jpg)

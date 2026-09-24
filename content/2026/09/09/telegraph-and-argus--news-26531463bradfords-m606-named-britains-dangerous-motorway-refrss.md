@@ -12,6 +12,25 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Edinburgh
+- Great Britain
+- London
+- M25
+- M606
+- Salford
+- Scotland
+- Stirling
+- UK
+people:
+- Beck Evans
+- Sam Evans
+organisations:
+- Beck Evans
+- M602
+- M606
+- M62
 ---
 
 *(Image: T&A)*

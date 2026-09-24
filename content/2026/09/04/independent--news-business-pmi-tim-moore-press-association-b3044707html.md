@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Thomas Pugh
+- Tim Moore
+organisations:
+- RSM UK
+- S&P Global Market Intelligence
 ---
 
 The UK’s construction sector weakened further last month amid a deeper downturn in housebuilding, according to new figures.

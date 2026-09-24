@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Banjarmasin
+- Indonesia
+- Java Sea
+- Madura
+- South Kalimantan
+- Surabaya
+- Trisakti Bandarmasih Port
+people: []
+organisations:
+- Basarnas
+- National Search and Rescue Agency
+- Virgo Transport 8
 ---
 
 ![Relatives of affected passengers look on as a National Search and Rescue Agency (Basarnas) officer writes updates on a whiteboard amid ongoing rescue operations on the stricken Virgo Transport 8 ferry, at Trisakti Bandarmasih Port in Banjarmasin, South Kalimantan, on September 13, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f93a/live/4a94b000-af32-11f1-beca-5df146c4ee38.jpg)

@@ -12,6 +12,57 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Frankfurt
+- Iran
+- Islamic Republic
+- London
+- New York
+- Paris
+- Saudi Aramco
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Washington
+- White House
+people:
+- Lisa Jacobs
+organisations:
+- 3i Group
+- ADP National Employment Report
+- Aberdeen Group
+- Alliance News
+- Aspire Commerce
+- Associated British Foods
+- Autotrader Group
+- BP
+- Burberry Group
+- Caledonian Holdings
+- Cerberus Capital
+- Computacenter
+- Currys
+- EU
+- European Central Bank
+- European Union
+- Federal Reserve
+- Fevertree Drinks
+- Funding Circle Holdings
+- Goodwin
+- HSBC
+- IG Group
+- Melrose Industries
+- Mortgage Advice Bureau
+- NCC Group
+- Oakley Capital Investments
+- Pearson
+- RTW Biotech Opportunities
+- Sage Group
+- Shell
+- Sutton Harbour
+- Treasury
+- UK Rics
 ---
 
 Stock prices in London closed sharply lower on Wednesday, as Brent crude surged above 100 dollars a barrel and heightened inflation fears weighed on global equities.

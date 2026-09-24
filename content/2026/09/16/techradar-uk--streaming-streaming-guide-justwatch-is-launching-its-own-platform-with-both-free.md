@@ -11,6 +11,46 @@ description: JustWatch TV is arriving in October, with Paramount, New Regency, a
 image: https://cdn.mos.cms.futurecdn.net/HBVUxggn4oYazcHi8JxD7b-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Austria
+- Canada
+- France
+- Germany
+- Ireland
+- Italy
+- New Zealand
+- Spain
+- Switzerland
+- U.S.
+- UK
+people:
+- Rowan Davies
+organisations:
+- Apple TV
+- Bleecker Street
+- DirecTV
+- Disney
+- Fox
+- Fremantle
+- Google News
+- Hulu
+- JustWatch TV
+- Lionsgate
+- Max
+- New Regency
+- Paramount
+- Peacock
+- Philo
+- Pluto TV
+- Prime Video
+- Sling TV
+- TechRadar
+- Tubi
+- Vortex Media
+- YouTube TV
+- fuboTV
+- tubi
 ---
 
 ![A laptop screen with the JustWatch home page](https://cdn.mos.cms.futurecdn.net/HBVUxggn4oYazcHi8JxD7b.jpg) 

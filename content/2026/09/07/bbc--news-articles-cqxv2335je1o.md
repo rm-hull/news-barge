@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- BBC
+- Calais
+- Eastney Landing
+- Eastney Marina
+- English Channel
+- France
+- Gosport
+- Gravelines
+- Hampshire
+- Kent
+- Manston
+- Port of Dover
+- Portsmouth
+- UK
+people:
+- Amanda Martin
+- Andy Burnham
+- Caroline Dinenage
+- Chris Philp
+- Daniel Thomas
+- Danny Tommo
+- Emmanuel Macron
+- Nigel Farage
+- Sarah Jones
+- Spencer Wragg
+- Steve Pitt
+- Tommy Robinson
+organisations:
+- Border Force
+- Hampshire Police Federation
+- Home Office
+- House of Commons
+- Isle of Wight Constabulary
+- Labour
+- Portsmouth City Council
+- Portsmouth North
+- Reform UK
 ---
 
 ![Police officers stand in line in riot gear at scene of Portsmouth protest](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg)

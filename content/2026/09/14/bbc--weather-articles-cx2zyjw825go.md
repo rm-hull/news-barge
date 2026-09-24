@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- England
+- North Atlantic
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- BBC Weather
 ---
 
 ![Two people cross the road with umbrellas, one has been turned inside out by the wind](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/2aaa/live/049167d0-af62-11f1-b1d1-571ed4d7ff2c.jpg)

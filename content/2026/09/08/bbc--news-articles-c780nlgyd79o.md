@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a191/live/44b565
 categories:
 - UK
 - News & Politics
+locations:
+- Kyiv
+- Russia
+- Ukraine
+people:
+- Federov
+- Herman Halushchenko
+- Mykhailo Fedorov
+- Ruslan Kravchenko
+- Volodymyr Zelensky
+organisations:
+- Anti-Corruption Prosecutor's Office
+- BBC
+- EU
+- Enerhoatom Petro Kotin
+- European Union
+- G7
+- Kyiv
+- Nabu
+- National Anti-Corruption Bureau
+- Sap
 ---
 
 ![Prosecutor General of Ukraine Ruslan Kravchenko attends a press conference.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a191/live/44b56530-ab09-11f1-a291-b542ee92de7c.jpg)

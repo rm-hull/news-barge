@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- '#### Crash'
+- A171
+- Helwath Beck
+- North Yorkshire
+- Scarborough
+- Whitby
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A serious crash has closed a North Yorkshire road tonight (Tuesday).

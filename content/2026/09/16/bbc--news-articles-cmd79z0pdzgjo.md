@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Kosovo
+- Pristina
+- Serbia
+- The Hague
+people:
+- Hashim Thaci
+organisations:
+- KLA
+- Kosovo Liberation Army
+- Thaci
 ---
 
 ![Thaci, pictured in 2020](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fb87/live/5e973200-b1b5-11f1-bdcf-d393eb724fa3.jpg)

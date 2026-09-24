@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Alabama
+- Birmingham
+- Gulf
+- Iran
+- Iraq
+- Middle East
+- Tehran
+- U.S.
+- US
+- White House
+- Widow
+people:
+- Alex Klinner
+- Donald Trump
+- JD Vance
+- Libby Klinner
+- Mrs. Klinner
+organisations:
+- Air Force
+- Airmen
+- Oval Office
+- Overseas Operations
+- Pentagon
+- The Air Force
+- Trump
 ---
 
 The widow of an airman killed on a combat mission in the Middle East has shared her outrage after it took a viral social media post to get issues related to her husband's benefits and basic pay months resolved.

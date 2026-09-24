@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+- Swindon
+- Town centre
+- UK
+people:
+- Allan Leighton
+- Michael Gleeson
+organisations:
+- Asda
+- McDonald's
+- Newsquest
+- Ocado
 ---
 
 *(Image: Newsquest)*

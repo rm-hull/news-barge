@@ -11,6 +11,26 @@ description: This limited-edition hardware is surely going to sell out, don't mi
 image: https://cdn.mos.cms.futurecdn.net/c9H7cuE87XgRkNrbo48VvH-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Nintendo
+- UK
+- US
+people:
+- Dashiell Wood
+- Zelda
+organisations:
+- Dash
+- Edge
+- Google News
+- Nintendo Store
+- Nintendo Switch
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar
+- Zelda Ocarina
 ---
 
 ![The Switch 2 Zelda Ocarina Remake controller next to the full Switch 2 Zelda Ocarina Remake console in its dock](https://cdn.mos.cms.futurecdn.net/c9H7cuE87XgRkNrbo48VvH.jpg) 

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Chicago
+- Los Angeles
+- Minneapolis
+people:
+- Biden
+- Bush
+- Jeh Johnson
+- Markwayne Mullin
+- Michael Chertoff
+- Obama
+- Trump
+organisations:
+- Biden-era Cybersecurity and Infrastructure Security Agency
+- Congress
+- DHS
+- Department of Homeland Security
+- FBI and Alcohol, Tobacco, Firearms, and Explosives
+- FEMA
+- Federal Emergency Management Agency
+- Immigration and Customs Enforcement
+- NBC News
+- Pew Research Center
+- The Economist
+- The Independent
+- Trump
+- YouGov
 ---
 
 As America reflects on the 25th anniversary of the 9/11, two former heads of the Department of Homeland Security argue the agency created in the aftermath of the attacks needs a dramatic “reset” after becoming politically “radioactive” in the Trump years.

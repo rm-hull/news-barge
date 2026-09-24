@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Los Angeles
+- Malibu
+- Pacific Coast Highway
+- Southern California
+people:
+- John Madden
+- Marie
+- Nicolas Cage
+organisations:
+- NFL
+- New York Times
+- SoCalGas
 ---
 
 A large sinkhole has opened outside a coastal Malibu mansion belonging to the Oscar-winning actor Nicolas Cage after the driveway collapsed on Tuesday morning.

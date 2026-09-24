@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/fba8e7a11fea398e6b62df4efedfaec5e1490daf/844_2_5091_4075/master/5091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=921f4fe58c45c0ef8b1860596ded6427
+locations:
+- Austin
+- Houston
+- Maine
+- Minnesota
+- Texas
+people:
+- Alex Pretti
+- Austin
+- Greg Casar
+- Johan Sebastián Durán Guerrero
+- Kirk Watson
+- Lisa Davis
+- Lorenzo Salgado Araujo
+- Renee Good
+organisations:
+- Associated Press
+- Department of Homeland Security
+- ICE
+- US Immigration and Customs Enforcement
 ---
 
 A US Immigration and Customs Enforcement (ICE) officer shot and wounded a man on Sunday afternoon in Texas’s capital of Austin, local authorities said, and anti-ICE protesters quickly gathered at the scene.

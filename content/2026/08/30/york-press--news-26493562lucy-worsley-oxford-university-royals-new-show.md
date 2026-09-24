@@ -13,6 +13,26 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Grand Opera House York
+- Great Britain
+- India
+- Ireland
+- Queens
+- Scarborough
+- UK
+- Victoria
+people:
+- Albert
+- Caroline
+- Catherine Howard
+- Henry VIII
+- Lucy Worsley
+- Queen Victoria
+organisations:
+- BBC
+- Fane
+- Historic Royal Palaces
 ---
 
 ## Lucy Worsley to share fascinating royal insight in York next month

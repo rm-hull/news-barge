@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Bradford Road
+- Calverley
+- Leeds
+- Pudsey
+- Woodhall Sports Hub
+people:
+- Mark Coulson
+- Robert Sullivan
+- Salma Arif
+- Woodhall
+organisations:
+- FA
+- Football Foundation
+- Government’s Football Foundation
+- Leeds Ambitions
+- Leeds City Council
+- Leisure United
+- National Football Trust
+- Premier League
+- Woodhall Sports Hub
 ---
 
 *(Image: Supplied)*

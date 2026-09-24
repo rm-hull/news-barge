@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2026/09/05/12/APTOPIX_East_Potomac_Park_
 categories:
 - News & Politics
 - UK
+locations:
+- East Potomac
+- East Potomac Park
+- East Wing
+- Potomac Park
+- U.S.
+- Washington Monument
+- Washington, D.C.
+- White House
+people:
+- Ana Reyes
+- Donald Trump
+- Doug Burgum
+- Jason Levitt
+- Joe Foley
+- Muriel Bowser
+- Ryan Bates
+- Steven Sloan
+organisations:
+- Congress
+- D.C
+- East Potomac Golf Links
+- Interior
+- National Guard
+- National Park Service
+- The Associated Press
+- Trump
+- ___ Associated Press
 ---
 
 A pack of cyclists whisked by along the circuit at East Potomac Park while the golf course parking lot filled with luxury SUVs parked next to older, inexpensive economy cars, all with the Washington Monument in the background.

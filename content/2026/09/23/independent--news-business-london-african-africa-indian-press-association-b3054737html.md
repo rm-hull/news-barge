@@ -13,6 +13,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/23/08/6a925b72e99bdb760f1f34773b965707Y29udGVudHNlYXJjaGFwaSwxNzkwMjMyODMy-2.83117611.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Airtel Africa
+- City
+- London
+- MALAWI
+- Salima
+- UK
+- US
+people:
+- Ian Ferrao
+- Wise
+organisations:
+- Airtel Africa
+- Airtel Money
+- Bharti Enterprises
+- Bloomberg
+- FMB Bank
+- IPO
+- LSE
+- London Stock Exchange
+- PA
+- Press Association
+- Princes Group
+- Shawbrook
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

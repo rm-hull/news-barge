@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- HM Revenue and Customs
+- HMRC
+- PTA
 ---
 
 HM Revenue and Customs (HMRC) is set to write to thousands of people explaining they are eligible for top-up payments.

@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Darlington Railway Station
+- Darlington Station
+- Neasham Road
+- Park Lane
+- Parkgate
+- Peter Reimann
+- Tees Valley
+- Victoria Road
+- YOUR
+- Yarm Road
+people:
+- Ben Houchen
+- Peter Gibson
+- Peter Reimann
+- Steve Harker
+organisations:
+- Darlington Borough Council
+- Darlington Council
+- Eastern Gateway
+- Labour
+- Lib Dem
+- McDonald’s
+- Northern Echo
+- Public Notice Portal
+- TVCA
+- Tees Valley Combined Authority
+- West Gateway
 ---
 
 *(Image: Peter Reimann)*

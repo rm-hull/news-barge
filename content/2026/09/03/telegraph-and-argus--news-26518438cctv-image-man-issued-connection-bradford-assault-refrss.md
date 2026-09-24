@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford South
+- West Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- West Yorkshire Police)* Police
 ---
 
 *(Image: West Yorkshire Police)*

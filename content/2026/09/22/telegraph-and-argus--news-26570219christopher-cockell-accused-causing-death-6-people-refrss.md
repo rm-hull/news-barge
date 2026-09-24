@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/17377414.jpg?type=og-image
+locations:
+- Barnsley Road
+- Gresford Close
+- Leeds
+- Newmillerdam
+- Staincross
+- Wakefield
+- Woolley Grange
+people:
+- Christopher Barton
+- Christopher Cockell
+- Janine Barton
+- Lillie Morgan-Roller
+- Rubie Morgan-Roller
+- Shane Roller
+- Shannen Morgan
+organisations:
+- MCET
+- Major Collision Enquiry Team
 ---
 
 *(Image: T&A)*

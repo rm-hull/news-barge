@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Bristol
+- Pocklington
+people:
+- Becki
+- Lexi Medforth
+organisations:
+- Hero Arm
+- NHS
+- Open Bionics
+- Open Bionics Clinic
+- Open Bionics Foundation
 ---
 
 A YOUNG teenager has been named the winner of the Community Pride 2026 Against All Odds award for her extraordinary courage and resilience.

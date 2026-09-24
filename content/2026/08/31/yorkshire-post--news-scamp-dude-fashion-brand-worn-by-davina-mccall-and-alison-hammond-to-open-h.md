@@ -17,6 +17,20 @@ categories:
 - York
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- James Street
+- North
+- Yorkshire
+people:
+- Alison Hammond
+- Davina McCall
+- Jo Tutchener Sharp OBE
+- Kate Lawler
+organisations:
+- Castle Fine Art
+- Harrogate
+- Scamp & Dude
 ---
 
 # Scamp & Dude: Fashion brand worn by Davina McCall and Alison Hammond to open Harrogate store

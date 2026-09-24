@@ -11,6 +11,16 @@ description: Amazon has surprised us with its best-ever deal on the Kindle Scrib
 image: https://cdn.mos.cms.futurecdn.net/TyufjZN9Ty6g2r9S6CoJgd-2496-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James Pickard
+organisations:
+- Amazon
+- Black Friday
+- Eurogamer
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![Amazon Kindle Scribe (2024)](https://cdn.mos.cms.futurecdn.net/TyufjZN9Ty6g2r9S6CoJgd.jpg) 

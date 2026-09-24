@@ -15,6 +15,39 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Apollo Pavilion
+- Born
+- Britain
+- County Durham
+- Durham Heritage Coast
+- Easington
+- East Durham
+- Hartlepool
+- North East
+- Peterlee
+- Sunderland
+people:
+- '## Gina McKee'
+- Gina McKee
+- Graham Norton
+- Mary Cox
+- Nick Mohammed
+- Peter Lee
+- Ruth Crafer
+- Ted Lasso
+- Why Peterlee
+organisations:
+- BBC
+- Bodyguard
+- How Durham Uni
+- Line of Duty
+- My Policeman
+- National Youth Theatre
+- Notting Hill
+- Phantom Thread
+- The Forsyte Saga
+- Tyne Tees
 ---
 
 *(Image: Ruth Crafer Photography)*

@@ -12,6 +12,20 @@ categories:
 - York
 - Arts & Culture
 - Business & Entrepreneurship
+locations:
+- '## York'
+- Acomb
+- Blossom Street
+- Green Lane
+- North Yorkshire
+- YORK
+people:
+- Liza
+- Mick Tomo
+- Rick Witter
+organisations:
+- Ruby Arts Tattoo Studio
+- Shed Seven
 ---
 
 ## York tattoo artist celebrates remarkable 45 years in industry

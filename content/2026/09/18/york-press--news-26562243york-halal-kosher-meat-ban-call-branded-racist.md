@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Derwent
+- North Yorkshire
+- Restore Britain
+- UK
+- York
+people:
+- Cllr Mark Waters
+- Cllr Warters
+- Cllr Warters'
+- Dylan Connell
+- Elisheva Salamo
+- Joe Nasson
+- Mark Warters
+- Paul Blanchard
+organisations:
+- City of York Council
+- Government
+- Green Party
+- Labour
+- Liberal Jewish Community
+- The Osbaldwick
+- York Green Party
 ---
 
 ## Halal and kosher meat ban call in York branded 'racist attack'

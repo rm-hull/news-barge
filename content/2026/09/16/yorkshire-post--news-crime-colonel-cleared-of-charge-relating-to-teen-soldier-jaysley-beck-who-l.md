@@ -16,6 +16,29 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Catterick Garrison
+- Chichester Harbour
+- North
+- Royal Artillery
+- Thorney Island
+- Yorkshire
+people:
+- Col Shepherd
+- Edward Legard
+- Gunner Beck
+- Gunner Jaysley Beck
+- James Hook
+- Jaysley Beck
+- Maj Hook
+- Michael Webber
+- Samantha Shepherd
+organisations:
+- Air Commodore
+- Army
+- Crown
+- Military Court Centre
+- Royal Navy
 ---
 
 # Colonel cleared of charge relating to teen soldier Jaysley Beck, who later died

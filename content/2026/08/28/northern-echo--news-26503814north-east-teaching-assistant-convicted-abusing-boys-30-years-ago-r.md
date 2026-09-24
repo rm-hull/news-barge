@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Beach Road
+- Northumberland
+- South Shields
+- Sunderland
+people:
+- Colin Ramshaw
+- PC Ramshaw
+- Philip Watson
+organisations:
+- Crimestoppers
+- Northumbria Police
+- SHPO
+- Sex Offenders’ Register
+- Sexual Harm Prevention Order
 ---
 
 *(Image: Northumbria Police)*

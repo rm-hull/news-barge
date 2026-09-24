@@ -12,6 +12,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Lister Park
+- Northcliffe Park
+people:
+- Karina Croucher
+organisations:
+- Bradford City Library
+- Bradford Culture Company
+- Bradford Death Cafés
+- Cecil Green Arts
+- City of Culture
+- Eventbrite
+- Shipley Library
+- University of Bradford
 ---
 
 A LANTERN parade will help light up a season of remembrance and celebration.

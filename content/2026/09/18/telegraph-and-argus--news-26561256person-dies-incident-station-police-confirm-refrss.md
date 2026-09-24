@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Low Moor
+- Low Moor Train Station
+people: []
+organisations:
+- British Transport Police
+- Newsquest
+- West Yorkshire Fire and Rescue Service
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

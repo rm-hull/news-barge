@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21479617.jpg?type=og-image
+locations:
+- Darlington
+- KFC
+- Morton Park
+- North Road
+- Northallerton
+people: []
+organisations:
+- Costa Coffee
+- Darlington Borough Council
+- Faverdale Industrial Estate
+- Faverdale McDonald's
+- NORTHERN ECHO
+- North Road Industrial Estate
+- Taco Bell
 ---
 
 *(Image: NORTHERN ECHO)*

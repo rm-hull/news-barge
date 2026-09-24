@@ -14,6 +14,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resiz
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- Colombia
+- Georgia
+- Grindr
+- San Francisco
+- Silicon Valley Bank
+- St. Louis
+- U.S.
+people:
+- George Arison
+- Grindr
+organisations:
+- ARPU
+- Arison
+- Goldman Sachs
+- Grindr
+- Match Group
+- Morgan Stanley
+- Raymond James
+- SPAC
+- Shift Technologies
+- TechCrunch
 ---
 
 When George Arison took over Grindr in 2022, he inherited a company that had been bounced from Chinese ownership to a forced divestiture to a private-equity rescue — a business that was printing money but also had no real product or business strategy. Four years, a SPAC listing, and a controversial return-to-office mandate later, Grindr has become convincing as a growth story. Revenue is on pace to roughly triple, from $195 million in 2022 to a guided $540 million-plus this year, with adjusted EBITDA margins holding above 40%.

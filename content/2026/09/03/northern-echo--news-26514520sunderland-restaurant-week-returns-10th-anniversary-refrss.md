@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+people:
+- Angelo’s
+- Roberta Redecke
+organisations:
+- Asiana
+- BIDs
+- House of Zen
+- Marina Vista
+- Port of Call
+- Sunderland’s Business Improvement Districts
 ---
 
 *(Image: Supplied)*

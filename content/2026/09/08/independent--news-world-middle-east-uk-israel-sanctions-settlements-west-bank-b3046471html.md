@@ -14,6 +14,46 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Belgium
+- East Jerusalem
+- Europe
+- Ireland
+- Israel
+- Judea
+- Netherlands
+- Oslo
+- Samaria
+- Spain
+- Syrian Golan Heights
+- UK
+- US
+- United Kingdom
+- West Bank
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Donald Trump
+- Ed Miliband
+- Itamar Ben Gvir
+- Peter Frankental
+organisations:
+- Al Jazeera
+- Amnesty International
+- Amnesty International UK
+- Commons
+- EU
+- Global Echo
+- ICJ
+- Independent
+- International Court of Justice
+- OHCHR
+- The Guardian
+- The Times of Israel
+- Tussell
+- UN
+- United Nations High Commissioner for Human Rights
 ---
 
 The UK government is set to announce a ban on all trading on goods from Israeli West Bank settlements, in a move expected to prompt fierce backlash from the US and Israel.

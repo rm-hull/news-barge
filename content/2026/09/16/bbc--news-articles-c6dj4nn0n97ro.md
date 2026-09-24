@@ -11,6 +11,41 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f16/live/f8062b
 categories:
 - UK
 - News & Politics
+locations:
+- Bavaria
+- Berlin
+- Germany
+- Hesse
+- Mecklenburg-West Pomerania
+- North Rhine-Westphalia
+- Rhineland-Palatinate
+- Russia
+- Saxony
+- Saxony-Anhalt
+- Schleswig-Holstein
+- Thuringia
+- UK
+people:
+- Alexander Dobrindt
+- Alice Weidel
+- Friedrich Merz
+- Hendrik Wüst
+- Markus Söder
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- Bild
+- Bundestag
+- CDU
+- CSU
+- Christian Democratic Union
+- Die Linke
+- Greens
+- Reuters
+- SPD
+- The Left
 ---
 
 ![German Chancellor Friedrich Merz appears at a news conference wearing a blue suit and tie, white shirt and glasses.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg)

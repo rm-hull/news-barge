@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21483015.jpg?type=og-image&xType=0&yType=230
+locations:
+- Consett
+- DH8 5HP
+- Durham
+- Medomsley Road
+- North East
+- Northumberland
+- SARNIE SALON
+people:
+- Sarnie Salon
+- Sarnie Salon Consett
+organisations:
+- SARNIE SALON
+- Sarnie Salon
 ---
 
 A popular Consett food spot has officially reopened under new ownership after months of preparation and anticipation.

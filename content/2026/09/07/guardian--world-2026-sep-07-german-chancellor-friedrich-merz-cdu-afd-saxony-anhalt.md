@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin
+- Europe
+- Germany
+- Mecklenburg-Western Pomerania
+- Moscow
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Alice Weidel
+- Dirk Kurbjuweit
+- Friedrich Merz
+- Sven Schulze
+- Ulrich Siegmund
+organisations:
+- AfD
+- AfD’s Saxony-Anhalt
+- Alternative für Deutschland
+- BSW
+- Berlin Wall
+- CDU
+- Christian Democratic Union
+- Der Spiegel
 ---
 
 A “shocked” and chastened Friedrich Merz has vowed to stay in office despite the far right’s triumph in a state election that has brought anti-immigrant, pro-Kremlin politicians within striking distance of power.

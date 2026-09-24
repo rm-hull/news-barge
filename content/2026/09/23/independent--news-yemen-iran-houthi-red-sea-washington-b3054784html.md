@@ -13,6 +13,52 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/09/Mideast_Wars_Yemen_56_73.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Aden
+- Beirut
+- Brig
+- Cairo
+- Gaza
+- Iran
+- Israel
+- Marib
+- Mokha
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Taiz
+- Tehran
+- U.S.
+- UAE
+- United Arab Emirates
+- United States
+- Washington
+- West Coast
+- Yemen
+people:
+- Ahmed al-Haj
+- Issa Gubwani
+- Lee Keath
+- Mokha
+- Mzahem Alsaloum
+- Sadiq Dwaid
+- Sarah El Deeb
+- Tariq Saleh
+- Victoria Eastwood
+- Walid Ziyad
+organisations:
+- AP
+- Giants Brigade
+- Guard —
+- Hezbollah
+- Houthi
+- Iranian Revolutionary Guard
+- National Resistance
+- Revolutionary Guard
+- The Associated Press
+- The National Resistance
+- U.N.
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

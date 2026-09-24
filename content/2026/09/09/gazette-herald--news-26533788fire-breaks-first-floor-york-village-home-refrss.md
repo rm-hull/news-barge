@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Acomb
+- Knapton
+- Main Street
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Supplied)*

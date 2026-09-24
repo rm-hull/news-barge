@@ -13,6 +13,13 @@ categories:
 - Health & Fitness
 - Self-Improvement
 image: https://static.independent.co.uk/2026/09/21/9/03/peter-fonargy.jpeg?trim=142,0,525,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Peter Fonagy
+organisations:
+- BBC
+- NHS
+- Pulse
 ---
 
 Claims that modern youth are part of a "snowflake generation" have been dismissed by the lead author of a major upcoming review into mental health.

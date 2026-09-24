@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- England
+people:
+- Cath Sezen
+- Dame Rachel de Souza
+- Rachel de Souza
+organisations:
+- Association of Colleges
+- Children’s Commissioner
+- Department for Education
+- FE
+- Office for National Statistics
 ---
 
 Official figures likely undercount the true scale of youth unemployment, the Children’s Commissioner has cautioned, warning of a "blind spot" that leaves tens of thousands of young people "slipping through the cracks".

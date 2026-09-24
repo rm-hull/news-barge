@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Bhotekoshi River
+- Chitwan
+- Kathmandu
+- Nepal
+people:
+- Amrit Bahadur Rai
+- Anil Thapa
+- Ruby Chaudhary
+organisations:
+- International Committee of the Red Cross
 ---
 
 ## Temporary burials of hundreds of the catastrophic flood victims have caused public outrage in parts of the country who accused authorities of not following Hindu burial rites and mismanaging the situation.

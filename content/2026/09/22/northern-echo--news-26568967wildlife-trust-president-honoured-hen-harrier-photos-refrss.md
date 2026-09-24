@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21482857.jpg?type=og-image
+locations:
+- Darlington
+- England
+- North East
+- Northumberland
+- Northumbria
+- Shetland
+- UK
+people:
+- Conrad Dickinson
+organisations:
+- Bishop Auckland
+- Northumberland Wildlife Trust
+- Rothbury Estate
+- The Wildlife Trusts
 ---
 
 A North East wildlife charity is celebrating after its president won a major international photography prize for a powerful series highlighting one of the UK's most persecuted birds of prey.

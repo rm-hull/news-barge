@@ -14,6 +14,42 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hamedan
+- Iran
+- London
+- Qom
+- Semnan
+- Setad
+- Tehran
+- US
+people:
+- '## Sadegh Saeedinia'
+- Ali Daei
+- Ali Karimi
+- Ali Sharifi Zarchi
+- Alireza Faghani
+- Donald Trump
+- Imam Khomeini
+- Khamenei
+- Mohammad Saeedinia
+- Pahlavi
+- Ruhollah Khomeini
+- Sadegh Saeedinia
+- Sardar Azmoun
+- Volker Türk
+- Voria Ghafouri
+organisations:
+- Esteghlal
+- Fars News Agency
+- Human Rights Activists News Agency
+- IRGC
+- Instagram
+- Iran International
+- Manoto TV
+- Saeedinia
+- Sharif University
+- UN Special Rapporteur
 ---
 
 **Euronews Persian**

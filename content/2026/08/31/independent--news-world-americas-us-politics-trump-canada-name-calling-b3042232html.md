@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Asheville
+- Canada
+- Florida
+- Massachusetts
+- New York City
+- North Carolina
+- Ontario
+- Ottawa
+- Texas
+- U.S.
+- US
+- White House
+people:
+- '**“Comrade Kamala'
+- '**“Little Marco”** — Moniker'
+- '**“Lyin’ Ted”**'
+- '**“Mini Mike”**'
+- '**“Pocahontas'
+- '**“Ron DeSanctimonious'
+- '**“Sleepy Joe'
+- '**“Slimeball James Comey'
+- '**“Sloppy Steve”**'
+- Crooked Joe
+- Donald Trump
+- Doug Ford
+- Elizabeth Warren
+- Erin Browne
+- Hillary Clinton
+- James Comey
+- Jeb Bush
+- Joe Biden
+- Kamala Harris
+- Laffin’ Kamala
+- Marco Rubio
+- Mark Carney
+- Markie Martin
+- Michael Bloomberg
+- NewsNation
+- Nikki Haley
+- Rob Ford
+- Ron DeSantis
+- Steve Bannon
+- Ted Cruz
+organisations:
+- FBI
+- Ford
+- G20
+- Treasury
+- U.N.
 ---
 
 A senior Treasury official on Monday condemned “name-calling” in politics following critical remarks from Canadian leaders, glossing over President Donald Trump’s long track record of using personal insults against his political opponents.

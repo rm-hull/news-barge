@@ -12,6 +12,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Penn
+people:
+- Chuck Schumer
+- John Ternus
+- Steve Jobs
+- Tim Cook
+organisations:
+- AirPods
+- Apple Cinema Display
+- Apple Watch
+- Apple?
+- D-NY
+- Gemini
+- Google
+- Intel
+- SVP
+- Ternus
+- Ternus’
+- Tom’s Guide
+- University of Pennsylvania
+- Virtual Research Systems
+- X!
 ---
 
 After 15 years, Tim Cook has handed off the Apple CEO role to John Ternus, the company’s senior vice president of hardware engineering. As of Tuesday, Ternus now leads one of the world’s most valuable companies. But if you’re not a dedicated Apple enthusiast, you’ve probably never heard of this man, who has largely remained out of the spotlight until he was announced as Cook’s successor in April.

@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- America
+- Delaware
+- New Jersey
+- U.S.
+- United States
+people:
+- Charles Tebele
+- Nick Woodman
+- YouTuber Markiplier
+organisations:
+- GoPro
+- Griffin
+- Incase
+- Incipio
+- Starman Holding
+- Starman Holdings
+- Starman New Photonics
+- Starman Optical
 ---
 
 After years of financial struggles, action camera pioneer GoPro is being acquired for $285 million.

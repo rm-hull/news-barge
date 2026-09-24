@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/09/10/17/369d8d519bdbb038a37c7b7082
 categories:
 - News & Politics
 - UK
+locations:
+- Eastney Beach
+- Hampshire
+- Hants
+- Isle of Wight
+- Kent
+- Manston
+- Paulsgrove
+- Portsmouth
+people:
+- Tony Rowlinson
+organisations:
+- Hampshire Police
+- South Coast Patriots
+- The Independent
 ---
 
 Protesters wearing face coverings in Portsmouth this weekend could be arrested, it has been announced.

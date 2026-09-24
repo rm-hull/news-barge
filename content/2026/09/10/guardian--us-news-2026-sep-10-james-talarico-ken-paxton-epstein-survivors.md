@@ -11,6 +11,36 @@ image: https://i.guim.co.uk/img/media/bf618d249794abae632467ef42e1dcd4d5b4d66f/6
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- Dallas
+- New York
+- Pennsylvania
+- Philadelphia
+- Texas
+- US
+people:
+- Beto O’Rourke
+- Donald Trump
+- Gina Hinojosa
+- Greg Abbott
+- James Talarico
+- Jeffrey Epstein
+- John Fetterman
+- Ken Paxton
+- Madeleine Dean
+- Robert Garcia
+- Sharlene Rochard
+organisations:
+- Air Force One
+- Associated Press
+- Bloomberg News
+- Democrats’
+- Department of Justice
+- Doge
+- Epstein
+- House of Representatives
+- Senate
 ---
 
 James Talarico, the Democratic candidate for Senate in Texas, accused his rival Ken Paxton of “ignoring” survivors of Jeffrey Epstein’s sexual abuse, as Democrats seek to increase pressure on Republicans ahead of November’s midterm elections.

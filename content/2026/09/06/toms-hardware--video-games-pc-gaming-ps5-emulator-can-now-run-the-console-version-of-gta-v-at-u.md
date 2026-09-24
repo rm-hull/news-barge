@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Franklin
+- Hassam Nasir
+- Lamar
+- ShadEmu
+- SharpEmu
+organisations:
+- Astro
+- GTA V
+- GTA VI
+- Get Tom's Hardware
+- GitHub
+- Google News
+- KytyPS5
+- PC
+- PS5
+- SharpEmu
 ---
 
 ![PS5 version of GTA V being emulated on a PC](https://cdn.mos.cms.futurecdn.net/2s3c3BG6VKQvKTM2t6gARX.jpg) 

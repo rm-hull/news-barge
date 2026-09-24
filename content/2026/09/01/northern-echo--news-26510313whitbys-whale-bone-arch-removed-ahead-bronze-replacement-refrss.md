@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Alaska
+- Barrow
+- County Durham
+- NORTH YORKSHIRE
+- West Cliff
+- Whitby Abbey
+- Whitby Archives & Heritage Centre
+- Whitby Town
+- Whitby’s West Cliff
+people:
+- John Woodhead
+- Mark Crane
+- Sandra Turner
+organisations:
+- NORTH YORKSHIRE COUNCIL
+- North Yorkshire Council
+- Whitby
 ---
 
 One of Whitby’s most recognisable landmarks has been removed after more than two decades overlooking the town’s famous seafront.

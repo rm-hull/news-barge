@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Cumberland House
+- Cumberland Street
+- Cumberland Villa
+- England
+- King's Staith
+- River Ouse
+- YOUR
+- York
+people:
+- William Cornwall
+organisations:
+- Cumberland House
+- Duke of Cumberland
+- Helmsley Group
+- McDonald's
+- Public Notice Portal
+- York Council
 ---
 
 ## 'Serious risk to life' sees holiday let plans next to historic York building blocked

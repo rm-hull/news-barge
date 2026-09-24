@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Boroughbridge Road
+- County Durham
+- Darlington The
+- North Yorkshire
+- Ripon
+people:
+- Roger Varian
+organisations:
+- North East Jack
+- North Yorkshire Police
 ---
 
 *(Image: Getty Images/iStockphoto)*

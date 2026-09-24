@@ -13,6 +13,20 @@ image: https://static.independent.co.uk/2026/08/29/17/Pakistan_Hospital_Fire_613
 categories:
 - News & Politics
 - UK
+locations:
+- Islamabad
+- Lahore
+- Pakistan
+- Punjab
+people:
+- Aslam Ghauri
+- Shahid Khan
+- Shehbaz Sharif
+organisations:
+- Capital Development Authority
+- Health Ministry
+- PIMS
+- Pakistan Institute of Medical Sciences
 ---
 
 Pakistani Prime Minister Shehbaz Sharif on Saturday ordered the suspension of eight officials and directed that criminal proceedings be initiated against those found responsible for a fire that killed 14 newborns at an Islamabad hospital, his office said.

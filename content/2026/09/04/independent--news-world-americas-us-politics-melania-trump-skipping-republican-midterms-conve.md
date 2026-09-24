@@ -11,6 +11,38 @@ image: https://static.independent.co.uk/2026/09/04/16/2291196024..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Butler
+- Dallas
+- Iran
+- Michigan
+- Milwaukee
+- Pennsylvania
+- South Carolina Sen
+- U.S.
+- Washington
+- White House
+- White House Rose Garden
+people:
+- Donald Trump
+- JD Vance
+- Jeffrey Epstein
+- Jimmy Kimmel
+- Lindsey Graham
+- Marc Beckman
+- Melania Trump
+- Mike Johnson
+- Tom Barrett
+- Vladimir Putin
+organisations:
+- Amazon
+- American Airlines Center
+- NFL
+- Politico
+- Republican National Committee
+- The Independent
+- The Washington Examiner
+- White House Correspondents’ Dinner
 ---
 
 Melania Trump will not attend President Donald Trump’s midterms convention in Dallas next week, a major snub as her husband attempts to drum up momentum ahead of November’s elections.

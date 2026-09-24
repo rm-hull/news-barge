@@ -11,6 +11,14 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/crash-bishopgate-street-skeldergate-bridge-york-22-sept-2026-2.webp
+locations:
+- Bishopgate Street
+- Skeldergate Bridge
+- York
+people: []
+organisations:
+- Suzuki
+- Yorkshire Ambulance Service
 ---
 
 There’s been a crash on a main route into York this morning (Tuesday).

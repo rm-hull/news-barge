@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bundibugyo
+- Congo
+- Guinea
+- Ituri
+- Liberia
+- Mambasa
+- Sierra Leone
+- Uganda
+- West Africa Ebola
+- Zaire
+people:
+- Floribert Magene
+organisations:
+- The Associated Press
+- WHO
+- World Health Organization
 ---
 
 Congo’s authorities said Monday that the fastest-growing Ebola outbreak in history has topped 6,000 cases with 2,911 deaths.

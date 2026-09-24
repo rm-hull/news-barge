@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Kansas City
+- Missouri
+- Springfield
+- Urich
+people:
+- Casey
+- Johnathon Brown
+- William T Morrison
+- William T. Morrison
+organisations:
+- Independence
+- Kansas City Fire Department
+- Missouri Task Force One
 ---
 
 A Missouri man has been accused of killing his business partner and burying his remains beneath fresh concrete.

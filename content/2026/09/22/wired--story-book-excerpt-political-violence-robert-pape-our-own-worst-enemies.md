@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://media.wired.com/photos/6ab161f70c234d337ce354d5/191:100/w_1280,c_limit/BookExcerpt_Everything%20You%20Know%20About%20Political%20Violence%20Is%20Probably%20Wrong_Color.jpg
+locations:
+- America
+- Gaza
+- Georgia
+- Greene
+- India
+- Jayapal
+- Seattle
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- George Floyd
+- Marjorie Taylor Greene
+- Marjorie Traitor Greene
+- Pramila Jayapal
+- Robert A. Pape
+organisations:
+- Congress
+- DHS
+- Department of Homeland Security
+- Epstein
+- FBI
+- Federal Bureau of Investigation
+- The New Press
 ---
 
 It could have been a scene from *Cape Fear*: a quiet evening, an ordinary home, a sudden intrusion by a stranger convinced that the law has betrayed him.

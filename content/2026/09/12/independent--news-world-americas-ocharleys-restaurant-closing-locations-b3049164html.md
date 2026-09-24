@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kentucky
+- Midwest
+- South
+people:
+- O’Charley’s
+- Ryan Caswell
+organisations:
+- Cannae Holdings
+- FSR Magazine
+- Hello
+- Ninety Nine Restaurant & Pub
+- O'Charley's
 ---
 
 After 55 years in operation, O'Charley's is shuttering its remaining 49 company-owned locations.

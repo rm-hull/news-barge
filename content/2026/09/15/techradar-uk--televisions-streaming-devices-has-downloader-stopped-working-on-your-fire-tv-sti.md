@@ -11,6 +11,15 @@ description: A bug that stopped sideloading on older Fire TV models is being fix
 image: https://cdn.mos.cms.futurecdn.net/sEfyxXKf6ReEmH3nwypnr6-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rowan Davies
+organisations:
+- AFTV News
+- Amazon Fire TV Stick
+- Fire TV
+- Google News
+- TechRadar
 ---
 
 ![Amazon Fire TV Stick HD (2026)](https://cdn.mos.cms.futurecdn.net/sEfyxXKf6ReEmH3nwypnr6.jpg) 

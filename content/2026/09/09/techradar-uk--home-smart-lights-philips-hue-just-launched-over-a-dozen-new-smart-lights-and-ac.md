@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/XMPLDLSNvS3F8qUkfiMo4C-2520-80.jpg
 categories:
 - Technology & Software
 - Shopping & Deals
+locations:
+- Hue
+people: []
+organisations:
+- Google News
+- PC Format
+- PC Plus
+- Philips Hue
+- Philips Hue Nanoleaf
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Split image of Philips Hue Screen Sync camera mounted on TV and Philips Hue Nanoleaf panels on wall](https://cdn.mos.cms.futurecdn.net/XMPLDLSNvS3F8qUkfiMo4C.jpg) 

@@ -13,6 +13,35 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/19/08/Mideast_Wars_Yemen__99_9.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bab el-Mandeb Strait
+- Baysh
+- Britain
+- Egypt
+- Farasan
+- France
+- Iran
+- Jerusalem
+- Mecca
+- Mokha
+- Pakistan
+- Red Sea
+- Riyadh
+- Sanaa
+- Saudi Arabia
+- Taif
+- United States
+- Yanbu
+- Yemen
+people:
+- Brig
+- Prophet Muhammad
+- Yahya Saree
+- \_\_\_ Anna
+organisations:
+- Aramco
+- Associated Press
+- The Associated Press
 ---
 
 Saudi Arabia on Saturday confirmed that Yemen’s Houthi rebels tried to attack its capital with a ballistic missile, the first targeting of Riyadh since the escalation in fighting with the Tehran-backed rebels that has opened a new front in the Iran war.

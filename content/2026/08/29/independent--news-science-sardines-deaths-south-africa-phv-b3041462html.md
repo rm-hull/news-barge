@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Australia
+- Cape Town
+- Hout Bay Harbour
+- Koeberg Nuclear Power Station
+- South Africa
+people:
+- Dalene Vosloo
+- Schalk van Zuydam
+organisations:
+- Department of Forestry, Fisheries and the Environment
+- PHV
+- South African Institute for Aquatic Biodiversity
+- University of KwaZulu-Natal
 ---
 
 Scientists are investigating the death of masses of sardines along the coast of South Africa.

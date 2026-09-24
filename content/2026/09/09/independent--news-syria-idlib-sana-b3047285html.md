@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Idlib
+- Sarmada
+- Syria
+people: []
+organisations:
+- Civil Defense
+- Defense Ministry
+- SANA
+- Syrian Red Crescent
+- The Associated Press
 ---
 
 At least four people were killed and 10 others were wounded on Wednesday in an explosion at a weapons warehouse in northwestern Syria, according to state media.

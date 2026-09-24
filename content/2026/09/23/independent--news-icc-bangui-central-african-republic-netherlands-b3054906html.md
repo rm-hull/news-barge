@@ -16,6 +16,19 @@ categories:
 - Sports
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/11/ICC_Central_African_Republic_1_8_7.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bangui
+- Central African Republic
+- ICC Central African Republic
+people:
+- Mahamat Said Abdel Kani
+- Miatta Maria Samba
+organisations:
+- ANP
+- ICC
+- International Criminal Court
+- Remko de Waal
+- Seleka
 ---
 
 ICC convicts former Central African Republic militia commander of torture

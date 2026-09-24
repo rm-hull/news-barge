@@ -13,6 +13,36 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260918__C8PR39W__v1__HighRes__GermanyPoliticsVoteParties.jpg@webp
+locations:
+- Berlin
+- Germany
+- Hamburg
+- Israel
+- Kreuzberg
+- Mideast
+- Munich
+- Neukoelln
+- Neukölln
+- New York
+- Turkey
+- Ukraine
+people:
+- Die Linke
+- Die Linke.
+- Eralp
+- Erlap
+- Friedrich Merz
+- Steffen Krach
+- Zohran Mamdani
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
+- Greens
+- IDF
+- Israel Defense Forces
+- NATO
+- SPD
 ---
 
 Eralp, 45, and her pro-poor party have promised dramatic steps to solve Berlin's housing crisis and bring down rents, including with a controversial pledge to expropriate flats held by large corporate landlords.

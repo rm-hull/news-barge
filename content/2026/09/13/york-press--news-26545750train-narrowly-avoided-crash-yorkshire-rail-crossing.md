@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Hopperton Old Station
+- Knaresborough
+- North Yorkshire
+- York
+people:
+- Sam Smith
+organisations:
+- RAIB
+- Rail Accident Investigation Branch
 ---
 
 *(Image: Pixabay)*

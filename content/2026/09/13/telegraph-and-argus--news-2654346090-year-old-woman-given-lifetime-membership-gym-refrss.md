@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Bradford
+- Wibsey Park Avenue
+- Windmill Hut
+people:
+- June Robinson
+- Paul Cazaux
+organisations:
+- 3QA
+- 6FIT Gyms
+- Bradford
+- Park View Mills
 ---
 
 *(Image: T&A)*

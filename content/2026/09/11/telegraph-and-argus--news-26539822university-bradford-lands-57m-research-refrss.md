@@ -15,6 +15,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Bradford
+- UK
+people:
+- Sherif El Khamisy
+organisations:
+- Animal Free Research UK
+- Innovate UK
+- MRC
+- Medical Research Council
+- NIHR
+- National Institute for Health and Care Research
+- School of Optometry and Vision Science
+- THE University of Bradford
+- UK Research and Innovation
+- UKRI
+- University of Bradford
 ---
 
 *(Image: University of Bradford)*

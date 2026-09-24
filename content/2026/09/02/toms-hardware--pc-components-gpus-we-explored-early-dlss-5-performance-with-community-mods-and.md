@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Wild West
+people:
+- Jeff Kampman
+- Jeffrey Kampman
+- Replycknobman
+- Tom
+organisations:
+- Blackwell
+- DLSS 5
+- DLSS5
+- GPU
+- GPU's
+- Get Tom's Hardware
+- HairWorks
+- IMO
+- Lightning Z
+- MSI
+- Multi Frame Generation
+- Nvidia
+- Optiscaler
+- RT
+- RTX 5090 Lightning Z
+- ReShade
+- TSMC
+- Tensor Cores
+- Tom's Hardware
 ---
 
 ![A GeForce RTX 5090 graphics card](https://cdn.mos.cms.futurecdn.net/CBBS7c4u3Y3LJcY55ryv2W.jpg) 

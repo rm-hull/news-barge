@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Akron
+- America
+- England
+people:
+- CROWLEY
+- Chris Thomas
+- Chrissie Hynde
+- Ian
+- James Honeyman-Scott
+- Joss Crowley
+- Pete Farndon
+- Pretenders
+organisations:
+- Gucci
+- Nike
+- No. AP
 ---
 
 Chrissie Hynde is not one for looking back. She detests self-mythologizing. She doesn’t even like cameras. She’s just about the most reluctant documentary subject there is.

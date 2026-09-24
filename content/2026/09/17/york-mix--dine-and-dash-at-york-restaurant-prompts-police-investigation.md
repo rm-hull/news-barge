@@ -12,6 +12,15 @@ categories:
 - York
 - True Crime
 - Food & Cooking
+locations:
+- Ate O’Clock
+- High Ousgate
+- York
+people: []
+organisations:
+- Email Nabiel Galab
+- North Yorkshire Police
+- Via
 ---
 
 Police are investigating after customers allegedly left without paying at a York restaurant.

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Birmingham
+- UK
+- United Kingdom
+people:
+- Dan Jukes
+- James Johnson
+- James Orr
+- Keir Starmer
+- Nigel Farage
+organisations:
+- BPC
+- British Polling Council
+- Centre for Climate Reporting
+- Channel 4
+- Channel 4 News
+- Daily Telegraph
+- Guardian
+- JL Partners
+- JL Partners’
+- Labour
+- MRS Company Partner
+- MRSB
+- Market Research Society
+- Market Research Standards Board
+- Reform UK
+- Times
+- Verbatim
 ---
 
 A polling firm at the centre of allegations that Reform UK breached electoral law is being investigated by two industry bodies.

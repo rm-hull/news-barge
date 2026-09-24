@@ -14,6 +14,21 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21374681.jpg?type=og-image
+locations:
+- Chelmsford
+- Church Street
+- Louisiana
+- New Orleans
+- UK
+- York
+people:
+- Tom Crowley
+organisations:
+- '![]()Popeyes'
+- FAST
+- Instagram
+- Popeyes UK
+- PopeyesUK
 ---
 
 A FAST food giant has revealed the date it will open its first restaurant in York - with free food for a year for the first three customers.

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - True Crime
 - Science
+locations:
+- B1281 Hesleden Road
+- Blackhall Colliery
+- County Durham
+- Crook Coroners’ Court
+- DURHAM
+- Darlington Binns
+- Hardwick Hall
+- Newcastle Freeman Hospital
+people:
+- Jeremy Chipperfield
+- Lucas David Littlefair
+- Lucas’
+- Tuomo Polvikowski
+organisations:
+- Citroen
+- Cleveland Police
+- The Miners Hall
+- VW
 ---
 
 *(Image: DURHAM POLICE)*

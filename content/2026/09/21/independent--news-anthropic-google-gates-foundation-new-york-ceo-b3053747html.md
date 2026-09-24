@@ -15,6 +15,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/15/05/Philanthropy_Gates_67384.jpg?width=1200&height=800&crop=1200:800
+locations:
+- India
+- Malawi
+people:
+- Elizabeth Kelly
+- James Manyika
+- Lewis-Jong
+- Mark Suzman
+organisations:
+- AI
+- AP
+- Anthropic
+- Gates Foundation
+- Goalkeepers
+- Google
+- Lilly Endowment Inc
+- Mozilla Data Collective
+- Mozilla Foundation
+- Mozilla.org
+- OpenAI Foundation
+- Project Vaani
+- Reddit?
+- The Associated Press
+- The Conversation US
 ---
 
 The Gates Foundation is convening Anthropic, Google, OpenAI Foundation and dozens of other organizations to help make artificial intelligence more accessible in underrepresented languages.

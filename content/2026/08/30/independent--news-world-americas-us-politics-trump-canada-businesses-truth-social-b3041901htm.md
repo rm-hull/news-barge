@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- Manitoba
+- U.S.
+- United States
+people:
+- Donald Trump
+- Doug Ford
+- Jamieson Greer
+- Mark Carney
+- Wab Kinew
+organisations:
+- ABC
+- Ford
+- Trump
+- Truth Social
+- U.S. Leadership
 ---
 
 Donald Trump sought to escalate his trade war with Canada on Sunday afternoon and issued a demand on Truth Social that Canadian companies wanting to do business with the U.S. reshore their headquarters within its borders.

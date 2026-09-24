@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21489007.jpg?type=og-image
+locations:
+- Darlington Railway
+- Middlesbrough
+- North East
+- Stockton
+- The Spence Building
+- UK
+people:
+- Ivy Close
+- Jean Oakes
+- John Milton
+- Nigel Cooke
+- Turner
+organisations:
+- Arts Council England
+- Darlington Railway 26 Miles Heritage Project
+- Edwin Clephan Memorial Bequest
+- MIMA
+- National Heritage Lottery Fund
+- National Lottery
+- Preston Park Museum
+- RAF
+- Stockton
+- StocktonCouncil
+- Tees Valley Museum Group
+- Town of Culture First
+- Warrior Angels
+- Young Producers
 ---
 
 *(Image: Supplied)*

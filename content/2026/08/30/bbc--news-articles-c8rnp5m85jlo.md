@@ -14,6 +14,23 @@ categories:
 - Family & Parenting
 - Education & Learning
 - Self-Improvement
+locations:
+- England
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Cerys Parker
+- Deiros Collado
+- Katharine Radice
+- Martha Deiros Collado
+- Will Shield
+organisations:
+- BBC
+- CBeebies Parenting Download
+- Parker's
+- Shield
+- University of Exeter
 ---
 
 ![A man wearing a black shirt tying his daughter's hair up, she is wearing a blue school uniform with a white shirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0ae8/live/fa829fa0-a06d-11f1-a9ee-9bb6b032b6a3.jpg)

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- York Racecourse
+people:
+- Ceri Wright
+- Duncan Wood
+- Millie
+organisations:
+- Ceri
+- Millie Wright Children’s Charity
+- York Community Pride
 ---
 
 The co-founder of a York charity who transformed her unimaginable grief into lasting support for children with life-threatening illnesses has been honoured with an award.

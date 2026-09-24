@@ -14,6 +14,20 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- Deir el-Zour
+- North Korea
+- Syria
+- Vienna
+people:
+- Bashar Assad
+- Logan Mintz
+- Rafael Grossi
+organisations:
+- IAEA Board of Governors
+- International Atomic Energy Agency
+- Nuclear Threat Initiative
+- The Associated Press
 ---
 
 The Assad-era government in Syria was constructing a nuclear reactor that was configured to produce fissile material for possible use in nuclear weapons, the head of the International Atomic Energy Agency said on Monday.

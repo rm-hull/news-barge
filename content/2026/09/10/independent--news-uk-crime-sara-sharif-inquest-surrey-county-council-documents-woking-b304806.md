@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Surrey Coroner’s Court
+- Woking
+people:
+- Alethea Redfern
+- Beinash Batool
+- Faisal Malik
+- Richard Travers
+- Sara Sharif
+- Urfan Sharif
+organisations:
+- PA
+- Surrey County Council
+- Surrey Police
 ---
 
 Surrey County Council has been directed by a coroner to disclose more than 24,000 documents for the inquest into the death of 10-year-old Sara Sharif.

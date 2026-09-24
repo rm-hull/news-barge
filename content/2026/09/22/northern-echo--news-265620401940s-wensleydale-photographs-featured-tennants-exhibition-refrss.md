@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21472579.jpg?type=og-image&xType=0&yType=604
+locations:
+- Castle Bolton
+- Leyburn
+- North East
+- North Yorkshire
+- Tennants
+- Wensleydale
+people:
+- Fred Lawson
+- Harold Bryce Thomson
+organisations:
+- Leeds Camera Club
+- Royal Photographic Society
+- Tennants Auctioneers' Books
+- Tennants Garden Rooms
+- The Garden Rooms
+- Yorkshire Dales
 ---
 
 *(Image: THE GARDEN ROOMS, TENNANTS)*

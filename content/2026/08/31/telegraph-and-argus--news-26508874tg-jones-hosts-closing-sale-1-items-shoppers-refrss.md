@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Basildon
+- Bradford
+- Essex
+- Ilkley
+- Leeds
+- Maldon
+- Poundland
+- Skipton
+- Southend
+- The Broadway
+- UK
+- US
+people:
+- Alex Willson
+- Tom Smith KC
+organisations:
+- Cadbury
+- Food Court
+- High Court
+- Modella Capital
+- Post Office
+- Stroud
+- TG Jones
+- TG Jones’
+- WH Smith
 ---
 
 *(Image: Staff)*

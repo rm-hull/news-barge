@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/07/17/2245371019..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- Cascais
+- England
+- Lisbon
+- Portugal
+- Sao Paulo
+- Switzerland
+people:
+- '![Ecclestone'
+- Bernie Ecclestone
+- Fabiana
+organisations:
+- F1
+- Formula One
+- PA
+- Press Association
 ---
 
 Former Formula One executive Bernie Ecclestone has said he was questioned by police at a Portuguese airport after bringing a shotgun intended for a clay pigeon shooting contest into the country.

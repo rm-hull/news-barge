@@ -14,6 +14,13 @@ categories:
 - Sports
 - Video Gaming
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b9d/live/4de77c90-b3a8-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Gtech Community Stadium
+- UK
+people: []
+organisations:
+- Chelsea Brentford
+- Premier League
 ---
 
 # Brentford stay unbeaten as they put three past Chelsea

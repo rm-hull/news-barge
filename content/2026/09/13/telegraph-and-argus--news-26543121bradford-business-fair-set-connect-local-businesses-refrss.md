@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people: []
+organisations:
+- Bradford Business Fair
+- MAJOR
+- Mercure Bradford Bankfield Hotel
 ---
 
 *(Image: Supplied)*

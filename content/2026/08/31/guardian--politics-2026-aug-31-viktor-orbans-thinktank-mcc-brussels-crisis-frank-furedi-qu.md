@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Budapest
+- Hungary
+people:
+- Balázs Orbán
+- Frank Furedi
+- Péter Magyar
+- Viktor Orbán
+organisations:
+- EU
+- Fidesz
+- Guardian
+- MCC Brussels
+- MCC Budapest
+- Mathias Corvinus Collegium Foundation
+- Politico
 ---
 
 The head of Viktor Orbán’s favourite Brussels thinktank has quit, citing unpaid wages since the change of government in Hungary.

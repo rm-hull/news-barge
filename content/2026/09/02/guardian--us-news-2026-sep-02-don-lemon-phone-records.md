@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Fort and Lemon
+- Minnesota
+- Saint Paul
+- St Paul
+- US
+- United States
+people:
+- Don Lemon
+- Georgia Fort
+organisations:
+- Congress
+- DHS
+- Department of Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Lemon
+- T-Mobile
+- United States Customs Service
+- Verizon
 ---
 
 Federal prosecutors have declined to say whether they secretly obtained phone records for the journalist Don Lemon using an unusual administrative summons, his lawyers said in a Monday court filing, highlighting concern about a controversial legal authority the government has claimed to gather information as it charged Lemon and dozens of others with civil rights crimes in connection to a January protest at a church in Saint Paul, Minnesota.

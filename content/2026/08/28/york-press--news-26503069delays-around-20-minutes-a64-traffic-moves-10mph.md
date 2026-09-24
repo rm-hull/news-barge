@@ -12,6 +12,14 @@ categories:
 - York
 - Society & Culture
 - Travel
+locations:
+- A64
+- Flaxton
+- Malton
+- North Yorkshire
+- York
+people: []
+organisations: []
 ---
 
 *(Image: Submitted)*

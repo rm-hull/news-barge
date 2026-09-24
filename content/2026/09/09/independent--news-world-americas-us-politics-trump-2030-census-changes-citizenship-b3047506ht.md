@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- New York
+- U.S.
+- United States
+people:
+- Donald Trump
+- George M. Cook
+- John Roberts
+- Letitia James
+- Robert Garcia
+organisations:
+- America First Policy Institute
+- Census Bureau
+- Congress
+- Constitution
+- Electoral College
+- House Oversight Committee
+- House of Representatives
+- Supreme Court
+- Trump
+- U.S. Census Bureau
 ---
 
 Donald Trump’s administration is proposing major changes to the upcoming Census that could end up reshaping Congress and how vital public dollars are distributed to the states.

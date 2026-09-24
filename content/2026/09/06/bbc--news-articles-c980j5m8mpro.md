@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Donbas
+- Europe
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- Saint Sophia Cathedral
+- U.S.
+- UK
+- US
+- Ukraine
+people:
+- Donald Trump
+- Jared Kushner
+- Jonathan Powell
+- Kyiv Witkoff
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskiy
+- Zelensky
+- ofDonald Trump
+organisations:
+- Kyiv
+- Nato
 ---
 
 ![Ukraine's President Volodymyr Zelenskiy, U.S. Special Envoy Steve Witkoff and Jared Kushner, U.S. President Donald Trump's son-in-law, after a joint news conference,](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg)

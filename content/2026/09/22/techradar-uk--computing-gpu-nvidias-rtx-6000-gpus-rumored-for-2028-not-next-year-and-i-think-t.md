@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/hxkQb7pvnnWao7GVzKZCSS-2000-80.jpg
+locations:
+- Asia
+- UK
+- US
+- Weibo
+people:
+- Kopite7kimi
+- Moore
+- Redditor
+organisations:
+- 3GB
+- Darren
+- Google News
+- Hachette UK
+- Kopite7kimi
+- Nvidia
+- RAM
+- RTX
+- Team Green
+- Wccftech
+- YouTube
 ---
 
 ![An Nvidia GeForce RTX 5070](https://cdn.mos.cms.futurecdn.net/hxkQb7pvnnWao7GVzKZCSS.jpg)

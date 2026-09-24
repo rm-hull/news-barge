@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Ampleforth Abbey
+- Victoria
+- York
+people:
+- Chanel
+- Sarah Leighton
+- Silversmith Brett Payne
+- Steven Moore
+- Susan Rumfitt
+organisations:
+- Acquire Ampleforth
+- Ampleforth Abbey
+- BBC
 ---
 
 Familiar faces of Sunday evening TV are bringing their expertise to a York abbey this month.

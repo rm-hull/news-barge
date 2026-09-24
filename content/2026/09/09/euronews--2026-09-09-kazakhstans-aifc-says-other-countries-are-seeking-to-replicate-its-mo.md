@@ -15,6 +15,39 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Abu Dhabi
+- Alatau City
+- Almaty
+- Asia
+- Doha
+- Dubai
+- Hong Kong
+- Middle East
+- Oman
+- Republic of Kazakhstan
+- Shanghai
+- Singapore
+- Uzbekistan
+- Vietnam
+people:
+- Renat Bekturov
+- Sallianne Taylor
+- Suleimenov
+organisations:
+- AIFC
+- AIX
+- Architecture of Finance”
+- Astana International Exchange
+- Astana International Financial Centre
+- BBB
+- Bekturov
+- BlackRock
+- Bloomberg
+- Brookfield
+- Capital Group
+- Goldman Sachs
+- S&P Global Ratings
 ---
 
 ## Kazakhstan’s financial hub says its model is attracting interest abroad as competition between financial centres intensifies, while limited market liquidity remains a key challenge.

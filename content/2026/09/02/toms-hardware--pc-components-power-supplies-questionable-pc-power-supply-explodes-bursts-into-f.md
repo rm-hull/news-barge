@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Vietnam
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- Active PFC
+- CCTV
+- DC
+- Get Tom's Hardware
+- Google News
+- OP
+- PCB
+- PSU
+- RMA
+- Tier E
 ---
 
 ![Power supply caught fire during testing](https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb.png) 

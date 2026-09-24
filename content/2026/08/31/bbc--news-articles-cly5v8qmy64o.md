@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dormition Cathedral
+- El-Enany
+- Kremlin
+- Kyiv Pechersk Lavra
+- Kyiv-Pechersk Lavra
+- Nottingham
+- Russia
+- Russian Federation
+- UK
+- Ukraine
+people:
+- Hryhoriy Skovoroda
+- Khaled El-Enany
+- Liliya Velyka
+- Tetyana Berezhna
+- Viktoria Haidai
+- Vladimir Putin
+- Volodymyr Zelenskiy
+- Volodymyr Zelensky
+- William
+- Yulia Svyrydenko
+organisations:
+- BBC
+- Dormition Cathedral
+- Konvi
+- Kyiv
+- Unesco
+- Viktoria Haidai
 ---
 
 ![A young woman clutches a book to her chest and looks sad. Behind her is a bombed-out market structure. Destroyed books litter the ground around her](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6b91/live/ac7c04f0-a2e7-11f1-a789-b16da4059b6b.jpg)

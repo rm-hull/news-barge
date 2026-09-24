@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Adriatic Sea
+- Atlantic
+- Barcelona
+- Emilia Romagna
+- Europe
+- Italy
+- Manila
+- Orbetello
+- Po Delta
+- Po River
+- Po River Delta
+- Porto Tolle
+- Riviera Romagnola
+- Sacca di Goro
+- Scardovari
+- Sri Lan
+- Sri Lanka
+- Tuscany
+- Veneto
+- Venice
+people:
+- Enrico Caterino
+- Federico Zago
+- Paolo Mancin
+- Piero Genovesi
+- Stefania Marchesini
+organisations:
+- AP
+- Alimentaria
+- Associated Press’
+- FIPE Venice
+- Polesine Fishermen’s Cooperative Consortium
+- Scardovari
+- Taprobane Seafoods
+- University of Bologna
 ---
 
 Italian fishermen for two years incinerated most of the invasive Atlantic blue crabs caught in the Po River Delta south of Venice. Few Italians had an appetite for the alien predator blamed for decimating their prized Manila clams.

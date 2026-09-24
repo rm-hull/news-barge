@@ -12,6 +12,31 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/22/14/32/earl-spencer-piers-morgan.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Buckingham Palace
+- PA
+- Paris
+- Princess of Wales
+- Scotland
+people:
+- Charles Spencer
+- Charles’
+- Diana
+- Earl Spencer
+- John Stillwell
+- King
+- Piers Morgan
+organisations:
+- BBC Radio 4’s PM
+- Daily Mirror
+- King’s Trust
+- Mirror Group
+- Penguin
+- Sunday Mirror
+- The Independent
+- The Sun
+- The Times
+- then-Prince of Wales
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

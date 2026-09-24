@@ -14,6 +14,62 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Ankara
+- Armenia
+- Asia
+- Atlantic
+- Brexit
+- Brussels
+- Canada
+- Caucasus
+- Davos
+- Europe
+- France
+- Germany
+- Italy
+- Morocco
+- Norway
+- Ottawa
+- Strasbourg
+- Switzerland
+- Turkey
+- UK
+- US
+- Ukraine
+- United Kingdom
+- Urals
+- Vancouver
+- West
+people:
+- Charles de Gaulle
+- Eric Maurice
+- Mark Carney
+- Roberta Metsola
+- Sandro Gozi
+- Sebastien Maillard
+- Ursula von der Leyen
+- de Gaulle
+organisations:
+- Canada-EU
+- Council
+- EU
+- English Channel
+- Euronews
+- European Commission
+- European Communities
+- European Economic Area
+- European Policy Center
+- European Political Community
+- European State
+- European Union
+- G7
+- Horizon Europe
+- Jacques Delors Institute
+- MEP
+- NATO
+- Nanos Research
+- State of the Union
 ---
 
 ## The boundaries of the EU are inevitably informed by geography – but Canada, which shares the EU’s values and its vision of the world order, could challenge the bloc’s limits and open the door to a new form of association with Brussels.

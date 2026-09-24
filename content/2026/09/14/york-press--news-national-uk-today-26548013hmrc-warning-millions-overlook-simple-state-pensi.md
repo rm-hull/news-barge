@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Myrtle Lloyd
+organisations:
+- HMRC
+- National Insurance
+- State Pension
+- State Pension People
+- Tax Confident
 ---
 
 *(Image: Getty Images)*

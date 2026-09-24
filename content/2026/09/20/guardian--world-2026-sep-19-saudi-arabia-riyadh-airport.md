@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/975477497a09e1bb916ac60ca3ee53fecda3bad3/733_0_2316_1853/master/2316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13fba07bf2c2c9f513d193881746ef06
+locations:
+- Bab al-Mandab
+- Gaza Strip
+- Greater
+- Iran
+- Israel
+- Jeddah
+- King Khalid
+- Lebanon
+- Lesser Hanish
+- Middle East
+- Mokha
+- Perim
+- Red Sea
+- Riyadh
+- Sana’a
+- Saudi Arabia
+- US
+- Yanbu
+- Yemen
+people:
+- Donald Trump
+- Yahya Saree
+organisations:
+- AFP
+- Agence France-Presse
+- Aramco
+- Associated Press
+- FlightRadar24
+- Houthis
+- International Organization for Migration
+- UN
 ---
 
 Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on Saturday.

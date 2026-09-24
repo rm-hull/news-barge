@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/a2f7de9e7f7ac60c9edfc2d97f7a3f5d2deea6c2/155_0_5006_4004/master/5006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eaa2ad9e9f1986423a71678484fe40b7
+locations:
+- Alameda
+- Bakersfield
+- Butte
+- California
+- Chicago
+- Denver
+- Emeryville
+- Illinois
+- Jackson
+- Kern
+- Los Angeles
+- Missouri
+- Oroville
+- Pennsylvania
+- Sacramento
+- San Joaquin
+- Sedalia
+- Stockton
+- US
+people:
+- Rita Nguyen
+- Robert F Kennedy Jr
+organisations:
+- Amtrak
+- CDC
+- Children’s Health Defense
+- National Center for Health Statistics
+- Trump
+- US Centers for Disease Control and Prevention
+- Washington DC
 ---
 
 California public health officials are warning of a possible measles exposure spanning multiple counties after an infected and unvaccinated passenger traveled through the state via Amtrak trains and thruway buses.

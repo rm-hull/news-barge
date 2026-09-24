@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bright Angel Campground
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Grand Canyon National Park
+- North Kaibab Trail
+- Phantom Ranch
+people: []
+organisations:
+- National Park Service
 ---
 
 Heavy rain triggered a major flash flood around Phantom Ranch and Bright Angel Canyon in Grand Canyon National Park on 29 August, sending water and debris into the Colorado River.

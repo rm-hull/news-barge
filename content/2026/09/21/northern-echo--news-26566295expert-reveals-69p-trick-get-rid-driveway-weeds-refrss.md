@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21478507.jpg?type=og-image
+locations:
+- Ravenseat
+people:
+- Amanda Owen
+- Bill Jarvis
+- Miles
+- Reuben
+organisations:
+- Aldi
+- Premium Paints
 ---
 
 Weeds can completely ruin your garden, patio, and driveway by growing in the most awkward places.

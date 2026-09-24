@@ -12,6 +12,24 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Bratislava
+- Europe
+- France
+- Germany
+- Kremlin
+- Leipzig
+- Paris
+- Russia
+- Slovakia
+- Ukraine
+people:
+- Alisher Usmanov
+- Mikhail Fridman
+- Vladimir Putin
+organisations:
+- EU
+- Euronews
 ---
 
 ## France joins Slovakia in demanding delisting of Russian oligarch Usmanov ahead of sanctions deadline in sensitive talks held among EU ambassadors.

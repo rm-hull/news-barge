@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Lightwater Valley
+- Ripon Racecourse
+people:
+- Gates
+organisations:
+- Onesie Derby
+- Ripon Racecourse
 ---
 
 ![](https://mmo.aiircdn.com/409/6a913ceebccc674c9d3.jpg) 

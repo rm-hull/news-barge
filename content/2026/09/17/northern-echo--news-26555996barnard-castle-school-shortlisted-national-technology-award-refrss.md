@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+people:
+- Apollo
+- David Cresswell
+- Elodie
+- Josaia
+- Old Barnardian Lucia
+organisations:
+- Apollo
+- Barnard Castle School
+- CCF
+- RAF
 ---
 
 A County Durham school has been shortlisted for a national award for its innovative use of technology.

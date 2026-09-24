@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- '## Coast'
+- Alnwick
+- Anglo-Saxon Northumbria
+- Bamburgh
+- Berwick
+- Bodern
+- Cheviot Hills’
+- Cheviots Wooler
+- Cheviots’
+- Dark Sky Discovery Site
+- Darlington
+- High Street
+- Kirknewton
+- North East
+- North Yorkshire
+- Northumberland International Dark Sky Park
+- Northumberland National Park
+- Ravenseat Farm
+- South Road
+- Yeavering
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Bamburgh
+- Karen Tomkinson
+- Wooler
+organisations:
+- Ad Gefrin
+- Border Reivers
+- Karen Tomkinson
+- Northumberland National Park
+- Wooler Common
 ---
 
 *(Image: Karen Tomkinson/CAMERA CLUB)*

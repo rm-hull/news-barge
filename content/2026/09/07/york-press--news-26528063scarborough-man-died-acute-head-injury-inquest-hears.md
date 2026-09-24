@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Bridlington
+- East Yorkshire
+- North Yorkshire
+- Northallerton Coroners’ Court
+- Scarborough Hospital
+- York
+people:
+- Bernadette
+- Damon Nicky John O’Nions-Cairns
+- Gill Kane
+- O’Nions-Cairns’
+organisations:
+- North Yorkshire Police
+- Northallerton Coroners’ Court
 ---
 
 *(Image: North Yorkshire Police)*

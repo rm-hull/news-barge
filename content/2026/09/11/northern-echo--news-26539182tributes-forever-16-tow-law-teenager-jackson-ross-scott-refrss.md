@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- 4Louis
+- Auckland
+- County Durham
+- Darlington
+- The Newmarket
+- Tow Law
+- Wear Valley Crematorium
+people:
+- Alfie
+- Anna Ross
+- Ava
+- Bobby
+- Darren
+- Haughton
+- Jackson Ross Scott
+- Jamie
+- Larry
+- Peter
+- Sandra
+- Tommy
+- Tow Law
+organisations:
+- Tow Law Town AFC
 ---
 
 A County Durham teenager who "lit up the room" has been remembered by his family as a caring young man who lived life to the full.

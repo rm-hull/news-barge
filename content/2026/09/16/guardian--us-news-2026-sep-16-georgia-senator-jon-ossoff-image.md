@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Atlanta
+- Atlantic
+- Fulton
+- Georgia
+- US Capitol
+- Washington DC
+people:
+- Barack Obama
+- Charlie Bailey
+- Donald Trump
+- Jay Clayton
+- Jeffrey Goldberg
+- John F Kennedy
+- John Ratcliffe
+- Jon Ossoff
+- Kathleen Hall Jamieson
+- Natalie Harp
+- Raphael Warnock
+- Russ Vought
+- Tulsi Gabbard
+organisations:
+- Air Force One
+- CIA
+- Centers for Disease Control and Prevention
+- Congress
+- Epstein
+- FBI
+- FEC
+- Federal Election Commission
+- Penn’s Annenberg School
+- Senate Leadership Fund
+- Trump
 ---
 
 Delivering a speech in Atlanta last month, Jon Ossoff accused Donald Trump of corruption, incompetence and fecklessness, and peppered his remarks with substantive observations of dates and times and places. But the comment that ricocheted across the internet – a clip of just a few seconds – was an almost-throwaway reference about how the US president wants to “travel with Natalie” onboard Air Force One.

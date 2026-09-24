@@ -20,6 +20,64 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Chelsea
+- Dublin
+- Elswick
+- Europe
+- Iran
+- Israel
+- Italy
+- Ladykirk Road
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- New York City
+- Newcastle upon Tyne
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Liam Ellison
+- Marilyn Monroe
+- Mikel Arteta
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Burnham
+- CCTV
+- Chelsea
+- De Zerbi
+- ELITE
+- Labour
+- Liverpool
+- MI6
+- Premier League
+- Sainsbury's
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

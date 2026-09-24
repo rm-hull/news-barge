@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bamburg Castle
+- Beaver Moon
+- China
+- Dezhou
+- Earth
+- Hungary
+- Jupiter
+- Mars
+- Mercury
+- Northumberland
+- Orionid
+- Shandong Province
+- Venus
+people:
+- Halley
+- Leo
+- Venus
+organisations:
+- BBC Weather
+- Jupiter
+- Leonids
+- Mercury
 ---
 
 ![The November full moon shines bright white in a black sky, with the outline of tree branches in the foreground.](https://ichef.bbci.co.uk/ace/standard/902/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg)

@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Eastborough
+- Foreshore Road
+- Globe Street
+- Marine Drive
+- North Yorkshire
+- Peasholm Gap
+- Royal Albert Drive
+- Sandside
+- Scarborough Pier
+- South Bay
+- Spa Bridge
+people:
+- Danielle Scott
+- Simon Myers
+organisations:
+- North Yorkshire Council
+- Scarborough
+- Yorkshire Air Ambulance
 ---
 
 ## North Yorkshire coast to host stunning illuminated motorcycle parade

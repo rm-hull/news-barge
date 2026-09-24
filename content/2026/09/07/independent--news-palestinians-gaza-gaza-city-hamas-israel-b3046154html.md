@@ -14,6 +14,10 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Gaza
+people: []
+organisations: []
 ---
 
 Photos show Palestinians using handmade mud bricks, wood and plastic to rebuild amid Gaza’s rubble

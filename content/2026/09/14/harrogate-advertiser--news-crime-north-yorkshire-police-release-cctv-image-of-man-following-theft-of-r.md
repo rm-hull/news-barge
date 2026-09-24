@@ -13,6 +13,13 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- Knaresborough Road
+- North Yorkshire
+- 'Ripon ##'
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police release CCTV image of man following theft of radiator in Ripon

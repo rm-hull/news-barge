@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Education & Learning
 - Self-Improvement
+locations:
+- Dallas
+- Manhattan
+- New York
+- New York City
+- North Carolina
+- North Tower
+- Northeast
+- Pennsylvania.
+- Texas
+- US
+- United States
+- Wisconsin
+people:
+- Allegra Tashjian
+- Annie Erickson
+- Avery Black
+- David Schanzer
+- Gen Zs
+- George W. Bush
+- Hard
+- Thomas Schwartz
+organisations:
+- BBC
+- Duke University
+- Gen Zs
+- Generation Z
+- Pentagon
+- PhD
+- The Associated Press
+- Twin Towers
+- University of South Carolina
+- Vanderbilt University
+- World Trade Center
 ---
 
 ![Two beams of light shooting up from the New York City skyline into the night sky, in tribute to the Twin Towers](https://ichef.bbci.co.uk/ace/standard/993/cpsprodpb/f3e2/live/05b8a520-ad72-11f1-bd5b-e56a3978ea1b.jpg)

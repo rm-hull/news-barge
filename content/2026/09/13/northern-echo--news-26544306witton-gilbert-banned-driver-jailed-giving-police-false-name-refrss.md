@@ -13,6 +13,20 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Crook
+- Durham Crown Court
+- Oak Lea
+- Stockley Lane
+people:
+- Amrit Jandoo
+- Anthony Prior
+- Imogen Eastham-Brown
+- Miss Eastham-Brown
+- Richard Clews
+- Witton Gilbert
+organisations:
+- Durham Constabulary
 ---
 
 *(Image: Durham Constabulary)*

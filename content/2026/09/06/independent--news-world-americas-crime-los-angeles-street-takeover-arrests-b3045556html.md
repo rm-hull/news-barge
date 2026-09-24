@@ -13,6 +13,17 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Harbor Gateway
+- Los Angeles
+- South Figueroa Street
+- West Alondra Boulevard
+people:
+- Jim McDonnell
+- Karen Bass
+organisations:
+- KABC
+- LAPD
 ---
 
 Nearly 70 people were arrested, and more than 500 citations were issued as a result of a massive illegal street takeover in Los Angeles over the weekend.

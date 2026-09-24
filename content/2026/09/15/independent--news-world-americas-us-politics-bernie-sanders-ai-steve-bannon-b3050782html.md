@@ -13,6 +13,45 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- China
+- Ohio
+- Silicon Valley
+- U.S.
+- Washington
+- White House
+people:
+- AI
+- Andrew Ferguson
+- Bernie Moreno
+- Bernie Sanders
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Greg Casar
+- Jacob Coxon
+- Jensen Huang
+- Liz Shuler
+- Mike Johnson
+- Sam Altman
+- Steve Bannon
+- Xi Jinping
+organisations:
+- '## Trump'
+- AFL-CIO
+- American AI
+- Anthropic
+- Bannon
+- Congress
+- Ipsos
+- Nvidia
+- Reuters
+- Sanders'
+- SpaceX
+- U.S. Federal Trade Commission
+- U.S. House
+- U.S. House of Representatives
 ---
 
 Progressive U.S. Senator Bernie Sanders and Steve Bannon, a close ally of President Donald Trump, called for new restrictions on artificial intelligence systems Tuesday, forming an unexpected alliance around shared fears that the technology poses a threat to human safety.

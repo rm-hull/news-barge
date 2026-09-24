@@ -13,6 +13,22 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/05/06/16/1247845244.jpg?trim=0,77,0,77&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Greenville
+- Malibu
+- South Carolina
+people:
+- Hayden Panettiere
+organisations:
+- British Medical Journal
+- Greenville County Coroner’s Office
+- MedlinePlus
+- National Institute on Drug Abuse
+- National Library of Medicine
+- New York State Department of Health
+- Pennsylvania State University
+- Social Science Research Institute
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

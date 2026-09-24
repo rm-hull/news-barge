@@ -12,6 +12,51 @@ categories:
 - Europe
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Aegean Sea
+- Athens
+- Australia
+- Berlin
+- Carcès
+- Central Asia
+- Cologne Cathedral
+- East Africa
+- Eastern Pacific Ocean
+- France
+- Genoa
+- Germany
+- Greece
+- Indonesia
+- London
+- Madrid
+- Mediterranean
+- Northern Europe
+- Palermo
+- Palma
+- Portugal
+- Rhine
+- Rome
+- South America
+- Spain
+- Stockholm
+- UK
+- US
+- Valencia
+- Warsaw
+people:
+- Ioanna Vergini
+- Stephen Belcher
+organisations:
+- El Niño
+- Euronews Earth
+- European Commission
+- Science and Technology
+- Türkiye
+- UK Met Office
+- Valencia
+- WFY24
+- WMO
+- World Meteorological Organization
 ---
 
 ## Weather forecasters have warned that parts of Europe will be entering “flash-flood season” following a blistering summer.

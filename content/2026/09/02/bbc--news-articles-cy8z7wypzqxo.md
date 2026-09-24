@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Born
+- California.
+- London
+- Los Angeles
+- Los Angeles City Hall
+- Los Angeles County
+- Warrington
+people:
+- Arthur
+- Frank-N-Furter
+- Michael McKean
+- Richard O'Brien
+- Stephen King
+- Susan Sarandon
+- Tim Curry
+organisations: []
 ---
 
 ![Tim Curry attends the 40th Anniversary Of The Rocky Horror Picture Show at Los Angeles City Hall on 30 October 2015 in Los Angeles, California.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg)

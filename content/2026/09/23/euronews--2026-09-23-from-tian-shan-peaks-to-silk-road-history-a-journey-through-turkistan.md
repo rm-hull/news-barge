@@ -14,6 +14,32 @@ categories:
 - Travel
 - History
 image: https://images.euronews.com/articles/stories/09/92/28/73/1200x675_cmsv2_ec2f7e60-867a-5e0e-8be4-d1b2759205ff-9922873.jpg
+locations:
+- Berdibek Khan
+- Kazakhstan
+- Mausoleum of Arystan Bab
+- Otrar Museum
+- Sairam-Ugam National Park
+- Silk Road
+- Turkistan Region
+- Western Tian Shan
+people:
+- Daniyar Otegenov
+- Fenja Schreiber
+- Ismail Omaraliyev
+- Kaleb Shumway
+- Khoja Ahmed Yasawi
+- Meruyert Zhakiya
+- Mukhtar Kozha
+- Otrar
+- Tian Shan
+organisations:
+- Akhmet Yassawi University
+- Arystan Bab
+- Bureau of National Statistics
+- International University of Tourism and Hospitality
+- Rangers
+- Turkistan Region
 ---
 
 **Meruyert Zhakiya**

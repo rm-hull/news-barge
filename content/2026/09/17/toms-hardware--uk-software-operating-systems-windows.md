@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+people:
+- Dave Plummer
+- Sam
+organisations:
+- Free Software Foundation Europe
+- Get Tom's Hardware
+- Italian Linux Society
+- Ministry of State Security
+- TMOG
+- Task Manager
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/H4E9BVRtDNfdDadU857N8-320-80.png)

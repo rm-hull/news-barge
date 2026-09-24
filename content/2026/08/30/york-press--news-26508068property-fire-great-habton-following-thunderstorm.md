@@ -13,6 +13,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- '## Farm'
+- Flamingo Land
+- Great Habton
+- Kirby Misperton
+- Malton
+- North Yorkshire
+- Pickering
+people: []
+organisations: []
 ---
 
 ## Farm buildings on fire in North Yorkshire following storm - numerous crews at scene

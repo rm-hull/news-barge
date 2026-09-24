@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- B6265
+- Dairy Lane
+- Darley
+- Harrogate Magistrates' Court
+- Headingley
+- Nidderdale
+- Pateley Bridge
+- West Yorkshire
+people:
+- Bailey Chadwick
+- Det Insp Cowling
+- Jagermeister
+- Jill Cowling
+- Joseph Stott
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Derwent
+- North Yorkshire
+- Restore Britain
+- UK
+- York
+people:
+- Cllr Mark Waters
+- Cllr Warters
+- Cllr Warters'
+- Dylan Connell
+- Elisheva Salamo
+- Joe Nasson
+- Paul Blanchard
+organisations:
+- City of York Council
+- Government
+- Green Party
+- Labour
+- Liberal Jewish Community
+- The Osbaldwick
+- York Green Party
 ---
 
 A CALL for support in York to ban forms of religious animal slaughter has been branded a thinly-veiled racist attack.

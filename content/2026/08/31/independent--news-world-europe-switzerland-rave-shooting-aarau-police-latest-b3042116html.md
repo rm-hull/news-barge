@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Aarau
+- Aarauer
+- Aargau
+- Austria
+- Europe
+- Finland
+- Norway
+- Schachen
+- Switzerland
+people:
+- DJ Tekibo
+- Giorgia Meloni
+- Maria Spinelli
+organisations:
+- Blick
+- Instagram
+- The Independent
 ---
 
 Swiss police have confirmed they arrested a 43-year-old suspect in relation to a deadly shooting incident at a rave in Aarau.

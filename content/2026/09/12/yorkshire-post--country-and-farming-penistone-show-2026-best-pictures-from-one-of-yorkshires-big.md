@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Dunford Bridge
+- Highland
+- UK
+- Yorkshire
+people:
+- Hannah Shepherd
+- Hilda
+- Oliver
+- Thomas Smith
+organisations: []
 ---
 
 The Penistone Show is popular not just in Yorkshire, but draws people from across the UK – attracting around 20,000 every year.

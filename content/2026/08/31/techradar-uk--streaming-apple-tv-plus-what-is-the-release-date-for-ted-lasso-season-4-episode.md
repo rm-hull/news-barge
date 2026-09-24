@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/t4FSnTsF4hQsWAWtei5BL6-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North and South America
+- SGT
+- Singapore
+- UK
+- US
+people:
+- Alice
+- Keeley
+- Roy
+- Ted Lasso
+- Tom
+organisations:
+- Apple TV
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
+- Ted Lasso
 ---
 
 ![Ted holding his sunglasses down over his eyes in Ted Lasso season 4 episode 4](https://cdn.mos.cms.futurecdn.net/t4FSnTsF4hQsWAWtei5BL6.jpg) 

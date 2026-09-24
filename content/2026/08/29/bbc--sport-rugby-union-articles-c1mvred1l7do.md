@@ -13,6 +13,94 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Bok
+- Cape Town
+- Cape Town Stadium
+- Ellis Park
+- England
+- Highveld
+- Johannesburg
+- New Zealand
+- Scotland
+- South Africa
+- Soweto
+- TestSouth Africa
+people:
+- '## Boklash'
+- '## Boks'
+- :** Angus Gardner
+- :** Karl Dickson
+- :** Kolbe
+- :** Kriel
+- :** Love
+- :** McKenzie
+- :** Roigard
+- :** Willemse
+- Angus Gardner
+- Ardie Savea
+- Aumua
+- Bower
+- Brett Cronan
+- Cam Roigard
+- Cameron Hanekom
+- Cheslin Kolbe
+- Damian McKenzie
+- Damian de Allende
+- Dave Rennie
+- De Allende
+- De Jager
+- Du Toit
+- Eben Etzebeth
+- Esterhuizen
+- Handre Pollard
+- Holland
+- Hooker Deon Fourie
+- J Barrett
+- Jacobson
+- Jesse Kriel
+- Lakai
+- Leroy Carter
+- Libbok
+- Lienert-Brown
+- Lomax
+- Lood de Jager
+- Louw
+- Malcolm Marx
+- Moorby
+- New Zealand
+- Newell
+- Nika Amashukeli
+- Nortje
+- Numia
+- Ox Nche
+- Parker
+- Preston
+- Rassie Erasmus
+- Reinach
+- Ruben Love
+- Sacha Feinberg-Mngomezulu
+- Sam Grove-White
+- Siya Kolisi
+- Steenekamp
+- Taylor
+- Tuipulotu
+- Tupaea
+- Vaa'i
+- Van den Berg
+- Wiese
+- Will Jordan
+organisations:
+- All Blacks
+- All Blacks'
+- Boks
+- New Zealand
+- Rugby
+- South Africa
+- Springbok
+- Springboks
+- TMO
 ---
 
 ![Siya Kolisi celebrating](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eb55/live/085060d0-a3cb-11f1-be9a-77d4a3f49115.jpg)

@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Hugging Face
+people:
+- Clem Delangue
+- Jensen Huang
+organisations:
+- Amazon
+- Crunchbase
+- Financial Times
+- Google
+- Hugging Face
+- Hugging Face’s
+- IBM
+- Nvidia
+- Salesforce Ventures
+- TechCrunch
+- The Information
 ---
 
 After weeks of swirling rumors, Nvidia confirmed today that it has acquired Hugging Face for $12.93 billion. Hugging Face’s platform hosts three million models, one million applications used by over 18 million developers, and half a million datasets.

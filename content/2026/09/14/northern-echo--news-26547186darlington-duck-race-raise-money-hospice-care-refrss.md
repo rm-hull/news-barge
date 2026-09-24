@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Market Place
+- River Skerne
+- St Cuthbert’s Church
+people:
+- Angel’s Cut
+- Charles Clinkard
+- Leggs
+- STUART BOULTON
+organisations:
+- Darlington Borough Council
+- Darlington First
+- Darlington Rotary Club
+- Ducks
+- Premier Inn
+- Small Society Lottery
+- St Teresa’s Hospice
 ---
 
 *(Image: STUART BOULTON)*

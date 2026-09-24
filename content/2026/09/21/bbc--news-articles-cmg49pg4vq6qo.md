@@ -11,6 +11,21 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c242/live/07b75dc0-b435-11f1-9fa0-111a12dcb7b0.jpg
+locations:
+- Folkestone
+- Grand Burstin Hotel
+- Marine Terrace
+- Pavilion Court
+people:
+- John Dighton
+- Ross Honeycombe
+organisations:
+- Britannia Hotels Group
+- Folkestone
+- Hythe District Council
+- Kent Fire and Rescue Service
+- Kent Police
+- The Harbour Inn
 ---
 
 ![A night-time view of a residential street shows a large plume of orange-lit smoke. Streetlights illuminate the scene and the smoke is spreading, partially obscuring buildings and trees. Several cars are parked along the road and in a nearby parking area, while the upper floors and rows of windows of surrounding buildings can be seen through the haze.](https://ichef.bbci.co.uk/ace/standard/924/cpsprodpb/c242/live/07b75dc0-b435-11f1-9fa0-111a12dcb7b0.jpg)

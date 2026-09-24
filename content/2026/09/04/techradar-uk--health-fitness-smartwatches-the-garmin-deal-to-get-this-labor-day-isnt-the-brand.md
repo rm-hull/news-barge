@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/cX3ReTE9qDB5KQGNhxHF3i-2037-80.jpg
 categories:
 - Technology & Software
 - Careers & Productivity
+locations:
+- Amazon
+- Cardiff
+- Silver and Whitestone
+people:
+- Garmin Fenix
+- Matt Evans
+- Matt Ray
+organisations:
+- Amazon
+- Garmin Fenix
+- Men's Health
+- Runner's World
+- Samsung
+- TechRadar
 ---
 
 ![Garmin Fenix 8 AMOLED watch on wrist](https://cdn.mos.cms.futurecdn.net/cX3ReTE9qDB5KQGNhxHF3i.jpg) 

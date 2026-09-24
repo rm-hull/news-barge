@@ -14,6 +14,34 @@ categories:
 - Music
 - Film & TV
 - Technology & Software
+locations:
+- BBC
+- Long Road
+- Scotland
+- UK
+people:
+- Cliff Richard
+- Fred Again
+- Jason
+- Keith Richards
+- Lucia
+- Martyn Ware
+- Morgan Wallen
+- PinkPantheress
+- Rolling Stone
+- Tom Petty
+- Travis Scott
+- Yung Lean
+organisations:
+- BBC Newsbeat
+- Captain & Tennille
+- GTA
+- Heaven 17
+- Netflix
+- Pointer Sisters
+- Prefab Sprout's Cars and Girls
+- Rockstar Games
+- Shazam
 ---
 
 ![Computer generated but extremely lifelike image shows character Lucia in a gym, wearing large over-ear headphones and a grey hoodie with a black "Baddie" logo print. She's heavily backlit by the sun as she stares moodily at the viewer.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8b90/live/84b5ecf0-b2a1-11f1-bd7d-0f16235ccc4c.jpg)

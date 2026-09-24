@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Automotive
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39d9/live/eff3dbf0-b18c-11f1-87e9-b3bd4eb00d4c.jpg
+locations:
+- Desfile de la Gente
+- New Mexico
+- Santa Fe
+people: []
+organisations:
+- Facebook
+- Santa Fe Police Department
 ---
 
 # Runaway horse captured by police on motorbikes

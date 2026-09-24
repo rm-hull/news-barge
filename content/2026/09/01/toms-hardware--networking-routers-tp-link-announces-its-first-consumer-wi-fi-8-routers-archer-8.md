@@ -13,6 +13,44 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Brandon Hill
+- LAN
+- Mount Pleasant
+- NC
+- U.S.
+- Wisconsin
+people:
+- Brandon Hill
+- Gary Chang
+- Tom
+organisations:
+- Amazon
+- AnandTech
+- Archer
+- Broadcom
+- DRU
+- DailyTech
+- Deco
+- Distributed Resource Units
+- ELR
+- Enhanced Long Range
+- FCC
+- Get Tom's Hardware
+- Google News
+- Hot Hardware
+- MCS
+- Mac
+- MediaTek
+- Microsoft
+- Netgear__
+- PC
+- Qualcomm
+- TP-Link
+- TP-Link__
+- Tom's Hardware
+- UEQM
+- Ultra
 ---
 
 ![TP-Link Archer 8](https://cdn.mos.cms.futurecdn.net/tt9dMS98e3rXjUgvKeKwTH.png) 

@@ -14,6 +14,40 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Baildon
+- Bradford
+- Folkestone Street
+- Granton Street
+- Leeds Road
+- Masjid Abu Bakar
+- Nether Hall Road
+- Seymour Street
+- Tickhill Street
+- Tiguan
+people:
+- Adam Takolia
+- Alice Dobson
+- George
+- Hanzalah Saladin
+- Mohammed Rizwan
+- Mohammed Usama Khan
+- Mohammed Waqqas Khan
+- Mohammed Zayad Khan
+- Rahees Khan
+- Rizzy
+- Shogun
+- Stephen Wood KC
+- Waqqas Khan
+- Zayad Khan
+organisations:
+- BMW
+- Bradford Crown Court
+- PCSO
+- Police Community Support Officer
+- Telegraph & Argus
+- Tiguan
+- West Yorkshire Police
 ---
 
 *(Image: Telegraph & Argus)*

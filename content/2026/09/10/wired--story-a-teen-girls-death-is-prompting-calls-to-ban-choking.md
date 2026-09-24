@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Australia
+- Herbenick
+- Sydney
+- UK
+- US
+people:
+- Cherie DeVille
+- Clare McGlynn
+- Debby Herbenick
+- Jack Harlow
+- Mike Stabile
+- Porn
+- Pornhub
+- Sam Levinson
+organisations:
+- Australian Social Services
+- Durham University
+- Free Speech Coalition
+- HBO
+- Herbenick
+- Indiana University School of Public Health
+- OnlyFans
+- WIRED
 ---
 
 An Australian teenage girl’s death, suspected to be preceded by consensual “choking” during sex, has renewed calls to ban showing the act in porn.

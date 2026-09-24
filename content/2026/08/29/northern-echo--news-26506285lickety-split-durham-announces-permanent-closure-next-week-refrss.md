@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Belmont Business Park
+- County Durham
+- Lickety Split Durham
+- Seaham
+people: []
+organisations:
+- GOOGLE
+- Great North Air Ambulance
+- Lickety Split
+- Lickety Split Durham
 ---
 
 *(Image: BiaMaith/Google maps)*

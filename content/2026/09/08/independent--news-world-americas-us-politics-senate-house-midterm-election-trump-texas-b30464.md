@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+- America
+- Canada
+- Georgia
+- Iowa
+- Iran
+- Maine
+- Michigan
+- New Hampshire
+- North Carolina
+- Ohio
+- Sen
+- South Dakota
+- Texas
+- U.S.
+- White House
+people:
+- Abdul El-Sayed
+- Chuck Schumer
+- Dean Windham
+- Donald Trump
+- Graham Platner
+- Haley Stevens
+- James Talarico
+- Jim Jordan
+- John Cornyn
+- John Thune
+- Jon Husted
+- Kamala Harris
+- Ken Paxton
+- Mike Rogers
+- Mike Rounds
+- Sherrod Brown
+- Susan Collins
+- Troy Jackson
+organisations:
+- '## Trump'
+- AP-NORC
+- AdImpact
+- Husted
+- KELOLAND News
+- MAGA Inc
+- PAC —
+- PACs
+- Paxton
+- Senate Leadership Fund
+- Talarico
+- The Associated Press
 ---
 
 Control of the Senate has unexpectedly become a closely contested battle with less than two months remaining until Election Day, despite earlier expectations that Republicans would comfortably maintain their majority for the final two full years of President Donald Trump’s term.

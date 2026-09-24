@@ -15,6 +15,48 @@ categories:
 - History
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/12/Nazi_Looted_Art_Lawsuits_84795.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Auschwitz
+- Berlin
+- California
+- D-Woodland Hills
+- Europe
+- Los Angeles
+- Madrid
+- Memorial
+- Norton Simon Museum
+- Pasadena
+- U.S.
+people:
+- Adolf Hitler
+- Camille Pissarro
+- Cassirer
+- Daniel Gryczman
+- Dinah Gottliebova Babbitt
+- Donald Trump
+- Elder
+- Gavin Newsom
+- Gottliebova Babbitt
+- Hermann Goring
+- Jacques Goudstikker
+- Jesse Gabriel
+- Joel Greenberg
+- Josef Mengele
+- Lucas Cranach
+- Marei von Saher
+- Noah Farkas
+- Pawel Sawicki
+- Stroganoff
+organisations:
+- Art Ashes
+- Auschwitz Memorial
+- California Legislative Jewish Caucus
+- Jewish Federation of
+- Jewish Federation of Greater Los Angeles
+- Norton Simon Museum
+- Pasadena Museum of Modern Art
+- Thyssen-Bornemisza National Museum
+- U.S. Supreme Court
 ---
 
 Two legal actions have been initiated in California by representatives and heirs of Jewish Holocaust victims seeking the recovery of paintings seized by Nazis that currently reside in renowned institutions in Auschwitz and Los Angeles.

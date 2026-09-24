@@ -12,6 +12,24 @@ image: https://i.guim.co.uk/img/media/97a2381d52873367f017086fc486ce02d9103119/0
 categories:
 - UK
 - News & Politics
+locations:
+- Florida
+- Israel
+- Palm Beach
+- US
+people:
+- Al Jazeera
+- Charles Blaha
+- Dawn
+- Lydia Ghuman
+- Michael Omer-Man
+- Noura Erakat
+- Sara Baxter
+organisations:
+- Dawn
+- Guardian
+- Internationalist Law Center
+- Israel-Palestine
 ---
 
 The human rights lawyer Noura Erakat was arrested on Tuesday at a Palm Beach county, Florida, budget hearing about the county’s more than $1bn investments in Israeli bonds.

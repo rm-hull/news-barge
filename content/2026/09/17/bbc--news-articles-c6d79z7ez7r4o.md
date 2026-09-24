@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Florida
+- Romania
+- UK
+- US
+- United Kingdom
+people:
+- Andrew Tate
+- Joe McBride
+- Tristan Tate
+organisations:
+- BBC
+- Crown Prosecution Service
+- Home Office
+- State Department
+- US Justice Department
+- US State Department
 ---
 
 ![Tristan and Andrew Tate delivering a press statement. The brothers are dressed in black and Andrew has a disgruntled facial expression as he speaks into a microphone.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/028b/live/b27b3be0-b229-11f1-bc3c-e98ae0fcc6b8.jpg)

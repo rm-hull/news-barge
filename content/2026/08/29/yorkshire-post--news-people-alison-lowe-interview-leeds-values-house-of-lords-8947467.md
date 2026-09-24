@@ -14,6 +14,42 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Armley
+- Batley
+- Caribbean
+- Chapeltown
+- Grange Avenue
+- Halton Moor
+- Leeds North East
+- Leeds West
+- Port of Tilbury
+- Seacroft
+- Spen
+- St Kitts
+- UK
+- West Yorkshire
+- Windrush
+people:
+- Alfred
+- Alison Lowe
+- Baroness Lowe
+- Jo Cox
+- John Battle
+- Kay
+- Keir Starmer
+- Liz Davies
+- Ms Lowe
+- Rachel Reeves
+- Tracy Brabin
+organisations:
+- End of Life
+- House of Lords
+- Labour
+- Leeds City Council
+- Leeds West
+- Seacroft
+- The Yorkshire Post
 ---
 
 # Exclusive:Alison Lowe interview: Seacroft fighter to take 'Leeds values' to House of Lords

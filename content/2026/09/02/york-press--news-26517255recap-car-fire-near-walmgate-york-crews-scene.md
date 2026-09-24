@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - History
+locations:
+- Navigation Road
+- Walmgate
+- York
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bingley
+- Bradford
+- Friends of Prince of Wales Park
+- West Yorkshire
+people: []
+organisations:
+- Bradford Council
+- Local Nature Reserve
+- Parks and Green Spaces
 ---
 
 *(Image: T&A)*

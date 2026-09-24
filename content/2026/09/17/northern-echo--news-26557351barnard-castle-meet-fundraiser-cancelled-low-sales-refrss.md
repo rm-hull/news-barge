@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- North East
+people:
+- Barnard Castle Meet
+- Stuart Boulton
+organisations:
+- Barnard Castle Cricket Club
+- Barnard Castle Meet Committee
+- County Durham
 ---
 
 *(Image: Stuart Boulton)*

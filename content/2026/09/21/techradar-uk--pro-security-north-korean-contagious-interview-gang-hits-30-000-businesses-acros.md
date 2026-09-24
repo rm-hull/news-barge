@@ -11,6 +11,35 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg
+locations:
+- Australia
+- Bosnia and Herzegovina
+- China
+- Germany
+- Japan
+- North Korea
+- Sarajevo
+- US
+- United States
+- West
+people:
+- Crooks
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Contagious Interview
+- DEV
+- DeceptiveDevelopment
+- Google News
+- Gwisin Gang
+- Lazarus Group
+- LinkedIn
+- NK
+- POPPER
+- PurpleBravo
+- Represent Communications
+- TechRadar Pro
+- Tenacious Pungsan
 ---
 
 ![North Korean flag with a hooded hacker](https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ.jpg)

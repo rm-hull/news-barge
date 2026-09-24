@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Florida
+- Fort Dix
+- Los Angeles
+- New Jersey
+- New York
+- US
+people:
+- Ariel Mitchell
+- CJ Wallace
+- Christopher Wallace
+- Courtney Burgess
+- Jonathan Hay
+- Michael Tremonte
+- Sean “Diddy” Combs
+- Sher Tremonte
+organisations:
+- BIG
+- NBC News
+- NewsNation
+- Nexstar
+- TMZ
 ---
 
 Attorneys representing rapper Sean “Diddy” Combs say they are no longer acting for the disgraced star in a dispute over months of unpaid legal bills.

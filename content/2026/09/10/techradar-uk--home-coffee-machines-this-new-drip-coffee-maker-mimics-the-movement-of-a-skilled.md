@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/Sc2F93Bw82yKfJVpff64xK-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations:
+- TechRadar
+people:
+- Cosori
+- Lavazza
+- Pierce Barnard
+organisations:
+- Aiden Precision Coffee Maker
+- Breville Luxe Brewer Thermal3
+- Cosori
+- Google News
+- Head of Product Innovation
+- Juni
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Cosori Juni drip coffee machine](https://cdn.mos.cms.futurecdn.net/Sc2F93Bw82yKfJVpff64xK.jpg) 

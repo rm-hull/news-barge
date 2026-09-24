@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Dartmoor Prison
+- Devon
+- Duchy of Cornwall
+- Gather & Moor
+- Prince of Wales
+- Princetown
+- Tor Bog
+- UK
+people:
+- Charles
+- Harry’s
+- William the
+organisations:
+- Devon Communities Together
+- Duke of Sussex
+- Ministry of Defence
+- Ministry of Justice
+- Prince of Wales
+- Princetown Place Strategy
+- Princetown Press
+- The Princetown Community Fund
+- The Sunday Times
 ---
 
 The Prince of Wales will launch a new regeneration fund next week to assist the isolated rural community situated alongside Dartmoor prison.

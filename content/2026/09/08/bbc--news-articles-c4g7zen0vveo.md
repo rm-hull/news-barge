@@ -13,6 +13,67 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Canada
+- Denmark
+- E1
+- East Jerusalem
+- Finland
+- France
+- Gaza
+- Iceland
+- Iran
+- Ireland
+- Jordan.
+- Judea
+- Kiryat Gat
+- Lebanon
+- Middle East
+- Norway
+- Palestine
+- Poland
+- Portugal
+- Ramallah
+- Samaria
+- Spain
+- State of Israel
+- Sweden
+- UK
+- US
+- West Bank
+- White House
+- al-Mughayyir
+people:
+- Andy Burnham
+- Diane Abbott
+- Donald Trump
+- Ed Miliband
+- Ephraim Mirvis
+- Gideon Saar
+- Isaac Herzog
+- Jeremy Corbyn
+- Keir Starmer
+- Kemi Badenoch
+- Marco Rubio
+- Mike Huckabee
+- Tom Tugendhat
+organisations:
+- BBC
+- Board of Deputies
+- Commons
+- European Union
+- Foreign Office
+- Green Party
+- Hamas
+- Hezbollah
+- IDF
+- International Court of Justice
+- International Gaza Support Center
+- Israel Defense Forces
+- Labour
+- Palestinian Authority
+- UN Independent International Commission of Inquiry
 ---
 
 Watch: There is ethnic cleansing in areas of the West Bank, says Miliband

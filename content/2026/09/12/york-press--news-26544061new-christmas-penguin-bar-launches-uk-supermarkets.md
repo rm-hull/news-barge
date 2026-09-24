@@ -13,6 +13,24 @@ categories:
 - York
 - Food & Cooking
 - Arts & Culture
+locations:
+- Iceland
+- UK
+people: []
+organisations:
+- Aldi
+- Asda
+- Cadbury
+- Clubcard
+- Dairy Milk Buttons Smash Baubles
+- McVitie
+- McVitie’s
+- Morrisions
+- Morrisons
+- Ocado
+- Pladis
+- Tesco
+- The Christmas Penguin
 ---
 
 *(Image: Getty Images/iStockphoto)*

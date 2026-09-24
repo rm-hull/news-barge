@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Hartlepool
+- Spennymoor
+people:
+- Haughton
+organisations:
+- Bowes Museum
+- Darlington
+- Learning Library
+- Outreach Team
 ---
 
 *(Image: GOOGLE MAPS)*

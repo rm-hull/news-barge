@@ -11,6 +11,37 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS-2000-80.png
+locations:
+- China
+- Low Power Mode
+- US
+people:
+- Dario Amodei
+- Donald Trump
+- JD Vance
+- John Ternus
+- John Ternus'
+- Sam Altman
+- Siri AI
+organisations:
+- AI
+- Anthropic
+- Canon
+- Congress
+- Cupertino
+- EOS
+- Elon Musk —
+- Google News
+- Hamish
+- ICYMI
+- New Apple
+- OpenAI
+- Pro Max
+- Snap Specs
+- TechRadar
+- Tom’s Guide
+- Trump
+- iOS
 ---
 
 ![Apple&#039;s CEO, Canon&#039;s new camera, and the latest Snap smart glasses.](https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS.png)

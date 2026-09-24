@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Caribbean
+- Lusk
+- Pit
+- Prison
+- U.S.
+- Wyoming Women’s Center
+people:
+- Amy Doerr
+- God
+- Jinjer
+- Kelly Turner
+- Lorrie Hood
+- Metallica
+- Obama
+- Paulette Iliff
+- Rob Colter
+- Scott Ian
+- Sharay Burnett
+- Taylor Nicks
+- Tommy Lee
+organisations:
+- Beyond the Black
+- Face Yourself
+- Nervosa
+- Pell Grant
+- The Associated Press
+- Torrington’s Medium Correctional Institution
+- U.S. Department of Education
+- University of Wyoming
+- Unleash the Archers
+- Women’s Rights National Historical Park
+- WyoFile
+- Wyoming Pathways from Prison — UW
+- Wyoming Women’s Center
 ---
 
 One spring afternoon when the sun beamed down on the Wyoming Women’s Center, a prison in Lusk, six students sat in a fluorescent-lit room with laptops open before them. A brown and gold University of Wyoming banner with a cowboy on a bucking bronc hung on the far wall.

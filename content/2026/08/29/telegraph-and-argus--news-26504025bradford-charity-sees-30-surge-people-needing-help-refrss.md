@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+people:
+- Andrea Dean
+- Osman Gondal
+organisations:
+- Bradford’s
+- InTouch Foundation
 ---
 
 A SURGE in need is putting growing strain on a charity’s frontline services.

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Conservative Middle East
+- Iran
+- UK
+- Westminster
+people:
+- Alistair Burt
+- Craig
+- David Lammy
+- Ed Miliband
+- Lindsay Foreman
+- Naomi Connell
+- Nazanin Zaghari-Ratcliffe
+- Rich
+- Richard Jan
+- Richard Ratcliffe
+organisations:
+- Foreign Office
+- Sky News
+- The Independent
 ---
 
 Nazanin Zaghari-Ratcliffe has welcomed the appointment of the first ever dedicated envoy to help Britons detained abroad but warned it must not be an “excuse for the government’s inaction”.

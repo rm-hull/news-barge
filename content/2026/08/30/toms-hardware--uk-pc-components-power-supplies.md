@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- CWT
+- Corsair
+- Edge V2 PSUs
+- GPU
+- Get Tom's Hardware
+- Lian Li
+- MSI
+- PSU
+- RMe
+- Seasonic
+- Tom's Hardware
 ---
 
 Tom's Hardware is an industry leader in power supply (PSU) testing, reviews, and analysis. Here you can find all the details about the latest and greatest power supplies, including news and reviews. You can also head to our best power supplies page for in-depth buying recommendations.

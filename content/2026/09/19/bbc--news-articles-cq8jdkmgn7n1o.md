@@ -11,6 +11,28 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b34/live/bdd81080-b43b-11f1-8eb0-59fdbbab66e7.jpg
+locations:
+- Badenoch
+- Brighton Beach
+- Brighton.
+- Britain
+- Orange Wall
+- UK
+people:
+- Ed Davey
+- Kemi Badenoch
+- Nigel Farage
+- Roz Savage
+organisations:
+- EU
+- Houses of Parliament.
+- Labour
+- Lib Dem
+- Lib Dems
+- NHS
+- Politics Essential
+- Reform
+- Trump
 ---
 
 Ed Davey says the Lib Dems have "a historic opportunity to win many more seats and a moral responsibility to stop Reform"

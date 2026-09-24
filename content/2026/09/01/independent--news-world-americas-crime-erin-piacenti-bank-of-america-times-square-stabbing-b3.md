@@ -14,6 +14,23 @@ categories:
 - Society & Culture
 - Arts & Culture
 - History
+locations:
+- '## Times Square'
+- NYC
+- New York
+- New York City
+- Queens
+- Times Square
+people:
+- Erin Piacenti
+- Fordham Law
+- Frank Piacenti
+- Jessica Tisch
+- Pamela Cisneros
+organisations:
+- Bank of America
+- Fordham Law School
+- New York Daily News
 ---
 
 A Bank of America executive was killed in a “random and unprovoked” stabbing in New York City’s busy Times Square.

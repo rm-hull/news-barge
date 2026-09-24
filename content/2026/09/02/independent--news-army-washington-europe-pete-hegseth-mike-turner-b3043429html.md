@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Europe
+- Germany
+- Iran
+- Maine
+- New Hampshire
+- North Carolina
+- Nuremberg
+- Ohio
+- Russia
+- Sen
+- U.S.
+- Ukraine
+people:
+- Angus King
+- Christopher LaNeve
+- Dan Driscoll
+- Jeanne Shaheen
+- Joe Biden
+- Mike Turner
+- Pete Hegseth
+- Randy George
+- Thom Tillis
+organisations:
+- 173rd Airborne Brigade
+- Army Transformation Initiative
+- Pentagon
+- The Associated Press
+- Ukrainian Armed Forces
+- ___ Toropin
 ---
 
 A bipartisan group of U.S. lawmakers is pressing the Army to explain why it told a unit based in Europe to stop specializing in drone warfare, an order that comes as the world's battlefields rapidly evolve and military tactics increasingly rely on uncrewed systems to fight.

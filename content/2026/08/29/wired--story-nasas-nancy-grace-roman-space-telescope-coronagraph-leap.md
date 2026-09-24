@@ -11,6 +11,31 @@ image: https://media.wired.com/photos/6a90143f13ea49f13acf54b5/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- California
+- Chile
+- Hawaii
+- James Webb
+- Maryland
+people:
+- Bruce Macintosh
+- Eric Schmidt
+- Julie McEnery
+- Margaret Turnbull
+- Vanessa Bailey
+organisations:
+- Google
+- Habitable Worlds Observatory
+- Hubble
+- Jet Propulsion Laboratory
+- Keck Observatory
+- Lazuli Space Observatory
+- NASA
+- NASA’s Goddard Space Flight Center
+- Nancy Grace Roman Space Telescope
+- SETI Institute
+- University of California Observatories
+- Very Large Telescope
 ---
 
 Two mirrors, each small enough to fit in the palm of your hand, are set to change how we understand the cosmos.

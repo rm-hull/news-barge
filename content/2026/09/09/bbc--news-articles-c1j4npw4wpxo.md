@@ -12,6 +12,52 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Iran
+- Israel
+- UK
+- US
+- West Bank
+people:
+- '!["Backlash'
+- '!["Bailey'
+- '!["Miliband'
+- Andrew Bailey
+- Andy Burnham
+- Charles
+- Delilah
+- Ed Miliband
+- Ephraim Mirvis
+- George
+- Harry
+- Healey
+- King
+- Martin Rolfe
+- Rabbi
+- Tom Jones
+- Trump
+organisations:
+- Bank of England
+- Budget
+- Commons
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Daily Telegraph.
+- Duke of Sussex
+- Eton College
+- Financial Times
+- Financial Times.
+- Labour
+- Nats
+- Royal Family
+- Sun
+- The Daily Mail
+- The Guardian
+- The Metro
+- The Times
 ---
 
 !["Israel reacts with fury to UK curbs on settlements" reads the headline on the front of the Times.](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/0b0e/live/bec15c90-abcb-11f1-b109-879e35c24276.jpg)

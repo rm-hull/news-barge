@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Belgium
+- Europe
+- Germany
+- Gulf
+- Hormuz
+- Iran
+- Italy
+- Middle East
+- Netherlands
+- North Sea
+- Poland
+- UK
+- US
+people:
+- Bjarne Schieldrop
+- Chris O’Shea
+- Greg Molnar
+organisations:
+- British Gas
+- Centrica
+- EU
+- Gas Infrastructure Europe
+- Goldman Sachs
+- Ofgem
+- SEB
 ---
 
 Europe is on course to enter the cooler months with gas stores at their lowest level in 13 years, which has triggered “winter panic” among energy traders, experts have warned.

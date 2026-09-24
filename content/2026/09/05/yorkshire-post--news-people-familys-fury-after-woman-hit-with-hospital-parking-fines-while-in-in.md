@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- East Yorks.
+- East Yorkshire
+- Elloughton
+- Hull Royal Infirmary
+people:
+- David
+- Kate Matthews
+- permits.Kate Matthews
+organisations:
+- APCOA
+- EDS
+- GDPR
+- Hull Royal Infirmary
+- NHS Humber Health Partnership
+- V5
 ---
 
 # Family's fury after woman hit with hospital parking fines while in intensive care

@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Cleveland
+- Hartlepool
+- St Joseph
+- St Joseph’s Church
+people:
+- Lauren Somerville
+- Matt
+- Matthew Blades
+- Matthew Blades Ms Somerville
+- PC Blades
+- Sarah Jones
+- Tom
+- Victoria Fuller
+organisations:
+- Cleveland Police
+- Cleveland Police Federation
+- Clough
+- Government
+- PC 2443 Blades
+- PC Blades
+- PC Blades’
+- Policing Cleveland
+- Roman Catholic Church
+- Union Jack
 ---
 
 The heartbroken wife of PC Matthew Blades has described the “unimaginable” pain of losing her husband as hundreds gathered to pay their respects at his funeral.

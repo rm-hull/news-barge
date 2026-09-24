@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Beijing
+- China
+- Hefei
+- YMTC
+people:
+- Anton Shilov
+- Tom
+organisations:
+- AI
+- Big Fund
+- CXMT
+- Get Tom's Hardware
+- Google News
+- IPO
+- Micron
+- NAND
+- Reuters
+- SK hynix —
+- Samsung
+- Tom’s Hardware
+- YMTC
 ---
 
 ![CXMT](https://cdn.mos.cms.futurecdn.net/xAcRfURv3FSF2FBXM6N3a.jpg) 

@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- James Street
+- YOUR
+- York
+people:
+- Padel
+organisations:
+- City of York Council
+- LTA
+- Lawn Tennis Association
+- Northminster Developments Ltd
+- Padel
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

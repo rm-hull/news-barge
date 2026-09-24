@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Cornwall
+people:
+- Ant McPartlin
+- Declan Donnelly
+- Mind
+- Tim Markland
+organisations:
+- BGT
+- Bridgewater Services
+- ITV
+- M&S
+- PA Wire
 ---
 
 *(Image: Tim Markland/PA Wire)*

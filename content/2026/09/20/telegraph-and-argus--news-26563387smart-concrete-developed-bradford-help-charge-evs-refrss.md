@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Science
 image: https://www.thetelegraphandargus.co.uk/resources/images/21474328.jpg?type=og-image&xType=0&yType=0
+locations:
+- Bradford
+- WattCrete
+people:
+- Ashraf Ashour
+- Boğaçhan Başaran
+organisations:
+- Bradford team
+- Department of Engineering
+- EVs
+- Horizon Europe Marie Skłodowska-Curie Postdoctoral Fellowship
+- Uni of Bradford
+- University of Bradford
 ---
 
 *(Image: Uni of Bradford)*

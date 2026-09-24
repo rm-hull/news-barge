@@ -13,6 +13,92 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Atlanta
+- Clemson
+- Death Valley
+- Duke
+- Eugene
+- Florida
+- Georgia
+- Green Bay
+- Lambeau Field
+- Music City
+- Nashville
+- North Texas
+- Tennessee
+- Washington State
+- Wisconsin
+people:
+- Alex Golesh
+- Arch Manning
+- CJ Carr
+- Dabo Swinney
+- Dave Aranda
+- Duke
+- Gunner Stockton
+- Jeremiah Smith
+- Jon Sumrall
+- Julian Sayin
+- Kevin Jennings
+- LSU
+- Lane Kiffin
+- Makhi Hughes
+- Marcel Reed
+- Mike Norvell
+- Ole Miss
+- QB Conner Weigman
+- Trinidad Chambliss
+- Tulane
+organisations:
+- ACC
+- AP
+- Associated Press
+- Auburn
+- BYU
+- Ball State
+- Baylor
+- Boise State
+- Broncos
+- Buckeyes
+- CFP
+- Clemson
+- Colorado
+- Cougars
+- Florida State
+- Georgia Tech
+- Houston
+- Indiana
+- LSU
+- Longhorns
+- Missouri State
+- NCAA
+- NFL
+- No. 1
+- No. 17
+- No. 19 SMU
+- No. 2 Oregon
+- No. 22 Iowa
+- No. 23
+- No. 24 Louisville
+- No. 4 Notre Dame
+- No. 9 Mississippi
+- Northern Illinois
+- Notre Dame
+- Ohio State
+- Oklahoma
+- Oregon State
+- QB
+- Rutgers
+- SEC
+- Scarlet Knights
+- Texas A&M
+- Texas State
+- Texas Tech
+- UMass
+- USF
+- UTEP
+- Wisconsin
 ---
 
 The grand opening of the college football season has arrived.

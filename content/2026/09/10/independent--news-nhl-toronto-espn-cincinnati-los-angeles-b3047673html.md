@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Cincinnati
+- Kelvington
+- L.A.
+- Los Angeles
+- Saskatchewan
+- Winnipeg
+people:
+- Barry Melrose
+- Gary Bettman
+- Joey Kocur
+- John Nicholson
+- John Wawrow
+- Kelly Chase
+- Kevin Kaminski
+- Mark Messier
+- Steven Stamkos’
+- Wayne Gretzky
+- Wendel Clark
+organisations:
+- AP Sports
+- Adirondack Red Wings
+- Cincinnati Stingers
+- Detroit
+- ESPN
+- Los Angeles Kings
+- Montreal
+- NHL
+- Tampa Bay Lightning
+- Toronto
+- WHA
+- World Hockey Association
 ---
 
 Barry Melrose, a hockey player-turned-coach who led the Los Angeles Kings to the 1993 Stanley Cup Final before going on to a long career in broadcasting the sport, has died. He was 70.

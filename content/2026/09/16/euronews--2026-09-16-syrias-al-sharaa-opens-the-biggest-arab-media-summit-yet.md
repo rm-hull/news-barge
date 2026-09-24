@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Dubai
+- Gulf
+- Nepal
+- Syria
+- UAE
+people:
+- Ahmed al-Sharaa
+- Al Nuaimi
+- Al-Sharaa
+- Ali Rashid Al Nuaimi
+- Dawood Hussain
+- Mohamed Al Kuwaiti
+- Mohammed Al Mansoor
+- Mona Ghanem Al Marri
+- Nehal Badri
+- Saifi Ismail
+- Samira Ahmed
+organisations:
+- Arab Media Forum
+- Dubai Media Council
+- Dubai Press Club
+- Dubai World Trade Centre
+- Euronews
+- New York Stock Exchange
+- Plays and Streams
+- The Games Forum
+- UAE Cybersecurity Council
+- UAE Federal National Council
+- UNDP
+- Yalla Group
 ---
 
 ## Syria's president delivered the opening keynote in Dubai on Tuesday, a day that also brought the UAE's most complete account of the cyber-attacks it faced this year and new figures on Dubai's media economy.

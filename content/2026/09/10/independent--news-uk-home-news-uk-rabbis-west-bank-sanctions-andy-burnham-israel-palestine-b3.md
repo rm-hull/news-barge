@@ -11,6 +11,37 @@ image: https://static.independent.co.uk/2026/09/10/7/24/GettyImages-2281792133.j
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Canada
+- E1
+- East Jerusalem
+- France
+- Israel
+- London
+- Occupied Palestine Territories
+- Texas
+- UK
+- Umm al Khair
+- West Bank
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Donald Trump
+- Ed Miliband
+- Ephraim Mirvis
+- God
+- Jeremy Gordon
+- Jonathan Wittenberg
+- Lev Taylor
+organisations:
+- Commons
+- International Court of Justice
+- Kingston Liberal Synagogue
+- Masorti Judaism
+- New London Synagogue
+- The Guardian
+- YouGov
 ---
 
 Several high-profile UK rabbis have shown support for Andy Burnham’s sanctions on illegal Israeli settlements in the West Bank, warning that settler violence should not be tolerated.

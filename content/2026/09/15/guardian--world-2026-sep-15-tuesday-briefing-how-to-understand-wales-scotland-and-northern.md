@@ -14,6 +14,106 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '**…'
+- Britain
+- Cardiff
+- Dublin
+- Edinburgh
+- England
+- Holyrood
+- India
+- Lithuania
+- London Underground
+- Manchester
+- Middle East
+- Netherlands
+- New Zealand
+- North
+- Northern Ireland
+- Poland
+- Red Sea
+- Scotland
+- Senedd
+- South Korea
+- South Korea.
+- Stormont
+- Sydney
+- UK
+- US
+- Utrecht
+- Versailles
+- Wales
+- Westminster
+- Yemen
+people:
+- '***AI'
+- '***Bethan McKernan***'
+- '***Lucy Letby***'
+- '***Nato'
+- Andrew Sparrow
+- Andy Burnham
+- Ariarne Titmus
+- Ben Jennings
+- Bethan McKernan
+- Charlie Lindlar
+- Claire Hanna
+- Donald Trump
+- Elle Hunt
+- Erling Haaland
+- Harry
+- Jeju SK
+- John Duerden
+- John Swinney
+- Jorg Massen
+- Keir Starmer
+- Kim Jae-woo
+- Lucy Hough
+- Lucy Letby
+- Lucy Pasha-Robinson
+- Mary Lou McDonald
+- Meghan
+- Michelle O’Neill
+- Morgan Ofori
+- Oasis’
+- Oliver Wainwright**
+- Patrick Greenfield
+- Peter Murrell
+- Rhun ap Iorwerth
+- Rory Carroll
+- Sean DeLone
+- Sinn Féin
+- Stephen Fleming
+- Sydney Sweeney
+organisations:
+- '***Reform UK'
+- '**Telegraph'
+- AI
+- Anthropic
+- Brexit
+- Democratic Unionist
+- Enslaving Nation
+- Guardian
+- Holyrood
+- Iorwerth
+- Nato
+- Novig
+- OpenAI
+- PMQs
+- Plaid Cymru
+- Post Office
+- Reform
+- SDLP
+- SNP
+- Scottish Labour
+- Senedd”
+- Sinn Féin
+- SpaceX
+- Sydney Sweeney
+- Treasury
+- VAR
+- Wales
+- Westminster
 ---
 
 Good morning. Back in May, the shape of British politics shifted dramatically. I’ll forgive you if you were too preoccupied refreshing Andrew Sparrow’s live blog for the latest speculation about Keir Starmer to notice, but since 7 May, centre-left nationalist parties that ultimately aspire to leave the UK have been in government for the first time simultaneously in Scotland, Wales and Northern Ireland.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asia
+- Bab al-Mandab Strait
+- Europe
+- Israel
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- US
+- Yemen
+people:
+- Aisha Sembhi
+- Mark Edwards
+- Thomas Copeland
+organisations:
+- BBC Verify
+- United Nations
 ---
 
 # How global trade and oil prices could be hit by Houthi advance

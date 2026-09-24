@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Charlotte
+- Dallas
+- Gastonia
+- Iran
+- Massachusetts
+- North Carolina
+people:
+- Decarlos Brown Jr
+- Donald Trump
+- George HW Bush
+- Iryna Zarutska
+- Michael Dukakis
+- Michael Whatley
+- Robert Mackey
+- Roy Cooper
+- Thom Tillis
+- Willie Horton
+- Woodson Bradley
+organisations:
+- Fed
+- Federal Reserve
+- Republican National Committee
+- Senate
+- Trump
 ---
 
 Donald Trump returned to the campaign trail on Wednesday, imploring North Carolina voters to “pretend I’m on the ticket” and “crush the communists” in the November elections at a rally in support of the Republican Senate nominee Michael Whatley.

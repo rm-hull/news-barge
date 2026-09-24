@@ -12,6 +12,25 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/22/6/11/Thomas-Jefferson-third-President-of-the-United-States.jpeg?trim=238,0,954,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Jefferson
+- Madison and Eston
+- Monticello
+- Mount Rushmore
+- US
+people:
+- Abraham Lincoln
+- Eston Hemings
+- George Washington
+- Martha Wayles Jefferson
+- Randolph
+- Sally Hemings
+- Theodore Roosevelt
+- Thomas Jefferson
+organisations:
+- Declaration of Independence
+- Smithsonian
 ---
 
 America’s third president, Thomas Jefferson, fathered two children with the woman he enslaved, a new DNA study reveals, resolving one of the nation’s oldest and most contentious debates.

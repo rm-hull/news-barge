@@ -12,6 +12,31 @@ image: https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Bogomil Balkansky
+- Kartik Chandrayana
+- Puri
+- Sudheer Dhurjati
+organisations:
+- AI SRE
+- Alumni Ventures
+- Avon Puri
+- Canapi
+- Claude Code
+- Cursor
+- Empirik
+- Fortune
+- Guardant Health
+- Quantum Metric CPO
+- Resolve
+- Rubrik
+- S&P Global
+- Salesforce
+- Sequoia Capital
+- Sequoia IT
+- TechCrunch
+- VMware
 ---
 
 Before joining Sequoia Capital in 2020 as chief digital and information officer, Avon Puri spent over a decade running infrastructure at Rubrik and VMware. Three years ago, as large language models began showing their true potential, Puri, alongside another Sequoia IT leader, Sudheer Dhurjati, recognized that AI could help autonomously solve a major challenge for infrastructure engineers — preventing tech outages before they occur.

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Travel
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/School-minibus-photograph.webp
+locations:
+- Buttertubs Pass
+- England
+- Fleet Moss Road
+- Keld
+- Kidstone Pass
+- Kirkby Stephen
+- North Yorkshire
+- The Stang
+people:
+- Arnold
+organisations:
+- North Yorkshire Council
+- Outwood Academy Ripon
+- Proposed Changes and Council Justifications
+- Richmond School
+- Ripon Grammar School
+- St Francis Xavier School
 ---
 
 North Yorkshire Council has launched a comprehensive six-week public consultation on proposed changes to its controversial **Home to School Travel Policy**, following a post-implementation review of the system. The service, which costs more than**£52 million annually** to transport approximately 11,000 eligible pupils across England’s largest county, underwent radical changes in September 2024 when free travel eligibility was restricted strictly to a child’s nearest suitable school rather than their traditional catchment school.

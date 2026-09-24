@@ -11,6 +11,36 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a9/live/b201b4
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- Holyrood
+- Restore Britain
+- Scotland
+- Senedd
+- Thailand
+- UK
+- Wales
+- West Midlands
+- Westminster
+people:
+- Burnham
+- Christopher Harborne
+- Hinder
+- Keir Starmer
+- Kemi Badenoch
+- Nigel Farage
+- Rupert Lowe
+organisations:
+- BBC Into
+- House of Commons
+- House of Lords
+- Houses of Parliament.
+- Labour Party
+- Metropolitan Police
+- Plaid Cymru
+- Reform HQ
+- Reform UK
+- Scottish National Party
 ---
 
 ![Reform UK leader Nigel Farage speaks during a press conference in London.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a8a9/live/b201b4b0-a729-11f1-b109-879e35c24276.jpg)

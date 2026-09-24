@@ -9,6 +9,20 @@ description: Control Resonant goes big with a reality-defying New York.
 image: https://cdn.mos.cms.futurecdn.net/P6W39ycnTknNJyhtpCKXHa-2560-80.png
 categories:
 - Technology & Software
+locations:
+- Manhattan
+- Oldest House
+people:
+- Dylan Faden
+- Emily Pope
+- Hiss
+- Jesse
+- Zoe De Vera
+organisations:
+- '### TechRadar Verdict Control Resonant'
+- Big Apple
+- OHKO
+- Resonants
 ---
 
 ### TechRadar Verdict

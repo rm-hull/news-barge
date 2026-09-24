@@ -13,6 +13,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Downing Street
+- North America
+- UK
+- US
+people:
+- Donald Trump
+- Jonathan Reynolds
+- PB Balaji
+organisations:
+- JLR
+- Jaguar Land Rover
 ---
 
 Jaguar Land Rover has announced plans to cut around 4,000 jobs over the next two years as it looks to save £1.7 billion in costs.

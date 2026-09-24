@@ -12,6 +12,49 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Aberdeen’s Union Square
+- Braehead Shopping Centre
+- Fosse Park
+- Glasgow
+- Ireland
+- Leicester
+- Liverpool One
+- London
+- River Island
+- Swansea
+- UK
+- Watford
+people:
+- Dan Finley
+- Evans
+- John Lewis
+- Karen Millen
+- Lowell Harder
+- Radley
+organisations:
+- '## Radley London'
+- AK Retail
+- Aldi, M&S
+- Arcadia Group
+- Boohoo Group
+- Camden Market
+- Claire's
+- Debenhams Group
+- Drapers
+- FTI Consulting
+- Gordon Brothers
+- Hobbs
+- LK Bennett
+- Leading Labels
+- Phase Eight
+- Poundland
+- Quiz
+- Superdrug
+- TFG
+- The Foschini Group
+- Yours Clothing
+- Yours Clothing and M&Co
 ---
 
 *(Image: Getty Images)*

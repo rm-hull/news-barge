@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- London
+- Sidcup
+people:
+- Adem Veli
+- Beverley Warmington
+- Carly Brookfield
+- Heidi Alexander
+- Lucy Rend
+- Passman
+organisations:
+- Adem Veli
+- DVSA
+- Driver and Vehicle Standards Agency
+- Driving Instructors Association
 ---
 
 ![A learner driver and her instructor in a car](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/5e4e/live/014ac6a0-aba4-11f1-8e72-a346833ed029.jpg)

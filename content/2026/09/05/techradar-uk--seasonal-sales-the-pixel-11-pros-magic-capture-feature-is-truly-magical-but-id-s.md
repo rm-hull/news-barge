@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/2GPggqYCKXi89jUEyMxdV4-1560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- UK
+- US
+people:
+- James
+organisations:
+- AI
+- Clarity Media
+- Google
+- Pixel
+- Samsung
+- TechRadar
 ---
 
 ![The Google Pixel 11 Pro resting on a wooden table](https://cdn.mos.cms.futurecdn.net/2GPggqYCKXi89jUEyMxdV4.jpg) 

@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473736.jpg?type=og-image
+locations:
+- Bradford
+- England
+- Headingley Stadium
+- Howard Suite
+- Netherlands
+people:
+- Gavin Hamilton
+- Moin Ashraf
+- Steve Patterson
+- Subhaan Ali
+- Young
+- Zaydan Bhamji
+organisations:
+- Bene Leisure
+- Link AP Academy
+- MACC Academy
+- MACC Academy Scholarship Scheme
+- Mylahore
+- National Autistic Society
+- Onside Travel Management
+- Sovereign Healthcare
+- SquareFoot
+- Taylors of Harrogate
+- Under-17
+- Under-19s
+- Yorkshire County Cricket Club
 ---
 
 *(Image: Supplied)*

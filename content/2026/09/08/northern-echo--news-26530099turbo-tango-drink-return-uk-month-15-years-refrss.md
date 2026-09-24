@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- County Durham
+- Gorilla
+- Manchester
+- UK
+people:
+- Dave Laidler
+- Gen Z
+organisations:
+- Biggs
+- Carlsberg Britvic
+- Gen Z Brits
+- JV
+- Turbo Tango
+- Turbo Tango Lab Party
 ---
 
 *(Image: Getty Images/iStockphoto)*

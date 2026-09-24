@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- America
+- Dallas
+- South Carolina
+- Texas
+people:
+- Aaron Rupar
+- God
+- James Talarico
+- Jesus
+- John Fetterman
+- Matt Gaetz
+- Morgan J. Freeman
+- Tim Scott
+- Tim Scott OK
+organisations:
+- ABC News
+- SNL
+- Texan Democratic U.S. Senate
+- Trump-Vance
 ---
 
 Social media users are roasting Senator Tim Scott after the South Carolina Republican delivered an animated speech at the GOP midterm convention in Texas that saw him yell and pretend to rip his heart out of his chest.

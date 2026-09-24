@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Leith
+- Lyceum
+people:
+- Christine Minott
+- Christine Minott.
+- George Gershwin
+- Mark Feakins
+- Scrooge
+organisations:
+- Elf
+- Nativity
+- STOS Theatre
+- Sheffield
+- The Band
+- Theatre Tax Credit
+- White Christmas
 ---
 
 # 'Anything less than a sell out is not acceptable': The true cost of bringing community theatre to Sheffield's famous Lyceum

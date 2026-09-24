@@ -13,6 +13,19 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Brighouse
+- Denshaw
+- Junction 22
+- Junction 25
+- M62
+- West Yorkshire
+- York
+people: []
+organisations:
+- M62
+- National Highways
+- West Yorkshire Police
 ---
 
 *(Image: Motorway Cameras)*

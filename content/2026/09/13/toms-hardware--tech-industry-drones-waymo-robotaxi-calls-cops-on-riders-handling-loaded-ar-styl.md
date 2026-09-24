@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Hardware
 - True Crime
+locations:
+- 40th Avenue
+- Denver
+- Fla
+- Los Angeles
+- Outer Richmond
+- San Diego
+- San Francisco
+- San Mateo
+- Tampa
+- U.S.
+- Waymo
+people:
+- Mark Tyson
+- Tom
+- Waymo
+organisations:
+- Google News
+- SFGate
+- Tom's Hardware
+- Waymo Driver
 ---
 
 ![A Waymo robotaxi](https://cdn.mos.cms.futurecdn.net/rHMgu2S3YA5XhAf4QbtgoQ.jpg) 

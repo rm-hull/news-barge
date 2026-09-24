@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Back Swinegate
+- Las Iguanas
+- Little Stonegate
+- Turtle Bay
+- UK
+- York
+people:
+- La Tasca
+- Ryan Perkins
+organisations:
+- Banana Tree
+- Bella Italia
+- Big Table
+- Frankie & Benny’s
+- High Court
+- Iguanas Holdings Limited
+- Iguanas Holdings’
+- Las Iguanas
+- The Big Table Group
 ---
 
 A prominent bar and restaurant in York city centre has closed for good.

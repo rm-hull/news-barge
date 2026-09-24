@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Crown Estate
+- Keighley West
+people:
+- Andrew Judson
+- Caroline Firth
+- Cllr Firth
+- Coun Firth
+- Coun Judson
+- Dalton Mills
+- Lorraine O’Donnell
+- Tim Rogers
+organisations:
+- Bradford Council
+- Crown Estate
+- Dalton Mills
+- Future Transformations
+- Labour
+- Newsquest
+- Reform UK
 ---
 
 Bradford taxpayers could be left exposed to significant liabilities and costs if the Council were to make an ill-judged intervention in the long-running saga over a fire-ravaged mill, it is feared.

@@ -14,6 +14,21 @@ categories:
 - UK
 - Self-Improvement
 - Society & Culture
+locations:
+- Australia
+- England
+- UK
+people:
+- Avnee Morjaria
+- Ellie Harris
+- Keir Starmer
+- TikTok
+organisations:
+- IPPR
+- Instagram
+- Institute for Public Policy Research
+- National Centre for Social Research’s Understanding Society
+- TikTok
 ---
 
 Young people in the UK are becoming the “loneliest generation” as they are five times more likely to have no close friends than 10 years ago, new research has found.

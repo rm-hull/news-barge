@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Gulf
+- Hawaii
+- Iran
+- Japan
+- U.S.
+- Ukraine
+people:
+- Mark Tyson
+- Tom
+organisations:
+- 3D Printing Industry
+- ALTA
+- ATLA
+- Air Self-Defense Force
+- Google News
+- Ground Self-Defense Force
+- IAI Harpy
+- Japanese Acquisition, Technology, and Logistics Agency
+- Maritime Self-Defense Force
+- Maritime Self-Defense Forces
+- Self-Defense Forces
+- Terra B1
+- Terra Drone
+- Tom's Hardware
+- USS Essex
 ---
 
 ![Terra B1 interceptor](https://cdn.mos.cms.futurecdn.net/Cv75KjR8sf33C5xfiMwoX.jpg) 

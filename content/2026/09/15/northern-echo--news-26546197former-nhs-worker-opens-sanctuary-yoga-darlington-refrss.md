@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Coniscliffe Road
+- County Durham
+- KENZIE HARRISON
+- Lake District
+- North-East
+- Northumberland
+- UK Darlington
+people:
+- KENZIE HARRISON
+- Rachel Tomlin
+organisations:
+- NHS
+- Sanctuary Yoga
 ---
 
 *(Image: KENZIE HARRISON)*

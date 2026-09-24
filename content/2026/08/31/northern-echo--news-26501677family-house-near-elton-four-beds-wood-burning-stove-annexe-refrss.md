@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Coatham Stob
+- Elton
+- Zarina House
+people: []
+organisations:
+- Coatham Stob Guide
+- Roseberry Newhouse
+- Tesla Powerwall
+- Zarina House
 ---
 
 DESIGNED for effortless single-level living, Zarina House is a beautifully presented barn conversion that offers the perfect balance of rustic charm and contemporary luxury.

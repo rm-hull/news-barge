@@ -11,6 +11,37 @@ image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
 categories:
 - Technology & Software
 - Relationships & Dating
+locations:
+- MARIGOLD
+- NICKELODEON
+- North London
+- PENNYWISE
+- ST
+- U.S.
+- WADSWORTH
+people:
+- :** BARRETT
+- CARLOS
+- Elton John
+- FRANK-N-FURTER
+- Fred
+- Johnny
+- Kudos
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Stephen King
+- Steve Jobs'
+- Tim Curry
+- VINCENT
+- Wordle
+organisations:
+- '### Yesterday'
+- Channel 5
+- NYT Connections
+- New York Times
+- Pop Detective
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg) 

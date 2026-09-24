@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Strait of Hormuz
+- U.S.
+- Wall Street
+people: []
+organisations:
+- Fed
+- Federal Reserve
+- PPI
 ---
 
 Wall Street will get several important updates about inflation this week.

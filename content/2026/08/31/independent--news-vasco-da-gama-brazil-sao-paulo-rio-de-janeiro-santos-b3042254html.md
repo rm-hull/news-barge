@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caribbean
+- Espirito Santo
+- Latin America
+- Rio de Janeiro
+people:
+- David Corrêa
+- Hayner Cordeiro
+organisations:
+- Cruzeiro
+- Santos
+- Vasco da Gama
+- Vila Nova
 ---
 
 Brazilian police searched the home of a footballer of top-flight club Vasco da Gama in connection with a drugs and arms trafficking investigation, officials said Monday. A second division player is also under investigation.

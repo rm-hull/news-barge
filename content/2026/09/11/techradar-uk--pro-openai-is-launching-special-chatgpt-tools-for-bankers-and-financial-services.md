@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+organisations:
+- Astra
+- ChatGPT Work
+- ChatGPT for Financial Services
+- Craig’s
+- Daloopa
+- Dow Jones Factiva
+- Evercore
+- Google News
+- LSEG News
+- MSCI
+- Moody’s
+- Morgan Stanley
+- OpenAI
+- PitchBook
+- S&P Capital IQ
+- TechRadar Pro
 ---
 
 ![Woman working on spreadsheet](https://cdn.mos.cms.futurecdn.net/wHcAyYGs78vPdyfMePKcMM.jpg) 

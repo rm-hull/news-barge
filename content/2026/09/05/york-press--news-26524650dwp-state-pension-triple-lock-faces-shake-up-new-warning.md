@@ -13,6 +13,32 @@ categories:
 - York
 - News & Politics
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Andy Burnham
+- Cardowan
+- Howard Davies
+- Jim O’Neill
+- Lady Coffey
+- Lord Liddle
+- Lord Pitt-Watson
+- Lord Redwood
+- Lord Reid
+- Lord Tugendhat
+- Lord Turnbull
+- Maja Smiejkowska
+- Therese Coffey
+organisations:
+- DWP
+- Government
+- HMRC
+- House of Lords
+- Labour
+- NatWest
+- OBR
+- State Pension
+- Treasury
 ---
 
 *(Image: Maja Smiejkowska)*

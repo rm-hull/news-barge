@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bingley
+- Bradford
+- Ryshworth Avenue
+- Yorkshire
+people:
+- Ann Speight
+- Mrs Speight
+- Ms Speight
+organisations:
+- An Incommunities
+- Bradford Council
 ---
 
 A WOMAN who has lived in her Bradford district home for 70 years says she is "fed up" - claiming a leak in her house forced her to live upstairs.

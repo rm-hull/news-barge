@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Gaza
+- Holborn
+- Pakistan
+- Somalia
+- St Pancras
+- United States
+people:
+- Jonathan Reynolds
+- Keir Starmer
+- Robert Jenrick
+- Sagal Abdi-Wali
+- Zia Yusuf
+organisations:
+- Camden Council
+- House of Commons
+- Labour
+- Reform UK
+- Sky News
 ---
 
 A Cabinet minister has accused Reform UK’s Zia Yusuf of "pretty straightforward racism" following comments made about a potential Labour by-election candidate born in Somalia.

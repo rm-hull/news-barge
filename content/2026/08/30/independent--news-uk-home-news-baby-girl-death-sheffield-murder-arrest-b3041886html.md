@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Holywell Heights
+- Sheffield
+- Wincobank
+people:
+- Emma Knight
+organisations:
+- South Yorkshire Police
 ---
 
 Seven people have been arrested on suspicion of murder after the death of a newborn girl in Sheffield.

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Auckland
+people:
+- Andrew Husband
+- Cathy Newman
+- Cllr Fox
+- Lyndsey Fox
+organisations:
+- County Durham
+- Durham County Council
+- Durham__ County Council
+- Police and Crime Commissioner
+- Reform UK
+- Reform UK County Durham
+- Sky News
 ---
 
 A former Reform UK County Durham councillor has quit the party claiming her concerns over a "serious safeguarding issue" went ignored by party leaders.

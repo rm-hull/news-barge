@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Science
 - Personal Finance & Investing
+locations:
+- Las Vegas
+people:
+- AI
+- Matt Burch
+- Michael Jacobsen
+- Uwe Saame
+organisations:
+- ATMs
+- Black Hat
+- CryptWare
+- CryptoPro
+- CryptoWorks
+- Defcon
+- Diebold Nixdorf
+- Diebold Nixdorf ATM
+- Global Security Portal
+- Microsoft Windows
+- Vynamic Security Suite
+- WIRED
 ---
 
 For the past five years, security researcher Matt Burch has immersed himself in the esoteric and high-stakes world of ATM security, in which small software flaws can sometimes expose cold, hard cash. As Burch has bored deeper into the computers powering these digital lock boxes—and continued to find vulnerabilities in key digital security systems—he has started working to raise the alarm, not just about overlooked ATM flaws, but about how that same software used in other industries can introduce weaknesses in an array of critical systems.

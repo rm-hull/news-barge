@@ -13,6 +13,43 @@ categories:
 - History
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/088b/live/dc7b2e60-b372-11f1-9023-9990160baacc.jpg
+locations:
+- Battle Creek
+- Bills'
+- Bradford
+- Buffalo
+- Canada
+- Gordie Howe International Bridge
+- Hamilton
+- Highmark Stadium
+- Keswick
+- Lake America
+- Lake Ontario
+- Lions'
+- Michigan
+- New York
+- Toronto
+- US
+people:
+- Ben Kerr
+- Blake Parnham
+- Carol Breed
+- David Waring
+- Donald Trump
+- Drew Grier
+- Gavin Kemp
+- Mark Carney
+- Miriam Levin-Gold
+organisations:
+- BBC
+- Bills'
+- Buffalo Bills
+- Buffalo Sabres
+- Detroit Lions
+- NFL
+- NFL-Canada
+- Oh Canada!
+- The Barenaked Ladies
 ---
 
 Watch: In a border city stadium, American NFL fans sing Canada’s anthem with gusto

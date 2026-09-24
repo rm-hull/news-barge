@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Ampleforth Abbey
+- Harrogate
+- North Yorkshire
+- Pateley Bridge
+- Pateley Makers Yard
+people:
+- Brett Payne
+- Joanne Gowan
+- Steven Moore
+- Susan Rumfitt
+organisations:
+- Acquire
+- Ampleforth
+- Antiques Roadshow
+- BBC’s Antiques Roadshow
+- Central School of Art
+- Yorkshire
 ---
 
 # Yorkshire's best jewellers to be take part in showcase at Ampleforth Abbey

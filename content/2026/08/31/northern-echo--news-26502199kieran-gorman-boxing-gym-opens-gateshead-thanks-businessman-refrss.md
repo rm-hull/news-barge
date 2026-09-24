@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Gateshead
+- North East
+people:
+- David Cook
+- Kieran Gorman
+- Kieran Gorman Boxing
+organisations:
+- KGB Gym
+- MMA
+- Metrocentre
+- Mixed Martial Arts
+- NORTHERN SPIRE
+- Northern Spire’
 ---
 
 A new boxing gym has opened in the North East, offering everything from fitness-focused sessions to serious ring craft.

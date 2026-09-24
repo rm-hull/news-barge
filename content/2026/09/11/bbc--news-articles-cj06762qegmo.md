@@ -14,6 +14,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Health & Fitness
+locations:
+- Covid
+people:
+- Baroness Heather Hallett
+- Christopher Chope
+- Dame Diana Johnson
+- Jamie
+- John O'Connell
+- Kate Scott
+organisations:
+- AstraZeneca Covid
+- BBC
+- COVID-19 Inquiry
+- Department for Health and Social Care
+- NHSBSA
+- Taxpayers' Alliance
+- VDPS
+- VIBUK
+- Vaccine Injured and Bereaved UK
 ---
 
 ![A collage showing two separate images - on the left, a hand holding a Covid vaccine and syringe, and on the right, three vials containing the AstraZeneca Covid vaccine. The images are in three colourways - grey, white and blue.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png)

@@ -14,6 +14,20 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Hong Kong
+- Singapore
+- UK
+- US
+people:
+- Chong Ja Ian
+- Lawrence Wong
+- S Iswaran
+organisations:
+- National University of Singapore
+- Political Salaries
+- Public Service Division
+- Reddit
 ---
 
 Ministerial salaries in Singapore, already among the world’s highest, will go up from 15 October, boosting the prime minister's annual pay by 64 per cent to S$3.6m (£2.1 m) from S$2.2 m (£1.3m).

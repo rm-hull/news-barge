@@ -14,6 +14,17 @@ categories:
 - York
 - News & Politics
 - Technology & Software
+locations:
+- Ashfield
+- North Yorkshire
+- Old Malton Road
+people:
+- Insp Lockey-Smith
+- Keane Duncan
+- Keeley Lockey-Smith
+- Norton
+organisations:
+- North Yorkshire Council
 ---
 
 Police are urging people to stay out of disused buildings following a recent trespassing incident involving YouTubers.

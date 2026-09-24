@@ -14,6 +14,20 @@ categories:
 - York
 - Arts & Culture
 - Home, Garden & DIY
+locations:
+- Harrogate
+- Huntington
+- Knights Gate
+people:
+- Clare Cunningham
+- Paul Hogan
+organisations:
+- Barratt Homes
+- Barratt Homes Knights Gate
+- Barratt Homes Yorkshire East
+- Henshaws Arts and Crafts Centre
+- Henshaws College
+- Henshaw’s Arts and Crafts Centre
 ---
 
 *(Image: Barratt Homes)*

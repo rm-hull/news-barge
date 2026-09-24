@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Bose
+- New York City
+people:
+- Bose
+- Ryan Waniata
+organisations:
+- ANC
+- Anker
+- Apple AirPods
+- Apple TV
+- Beats
+- Bose
+- Garmin
+- Google
+- Samsung Galaxy
+- Sony
+- WIRED
 ---
 
 The best noise-canceling earbuds are indispensable tech we all use daily for listening to any and everything—from phone calls, podcasts, and TV shows to workouts, commuting, and air travel. The list is endless. If you buy only one pair of headphones, you should make it a good pair of noise-canceling earbuds.

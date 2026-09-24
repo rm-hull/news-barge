@@ -12,6 +12,21 @@ categories:
 - York
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Langlands Garden Centre
+- Shiptonthorpe
+people:
+- Darren Hanna
+- David Lazenby
+- Langlands
+- Lianna Charlesworth
+- Stuart Paver
+organisations:
+- '**Pavers of York'
+- British Garden Centres
+- Pavers Shoes
+- Pavers’
+- York Designer Outlet
 ---
 
 *(Image: Lianna Charlesworth)*

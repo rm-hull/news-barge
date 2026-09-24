@@ -12,6 +12,36 @@ image: https://images.euronews.com/articles/stories/09/91/50/51/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Amazon
+- Argentina
+- Asuncion
+- Bandar Abbas
+- Belarus
+- Brussels.
+- Bucharest
+- Budapest
+- Chatsworth
+- Europe
+- Gaza City
+- Iran
+- Istanbul
+- Los Angeles
+- Paraguay
+- Strait of Hormuz
+- US
+people:
+- Ed Sheeran
+- Giannis Giagkinnis
+- Roxana Minzatu
+- Sebastian Coe
+organisations:
+- Asociacion Nuestra Casa Comun
+- Baltic Air Policing Mission
+- EU
+- Euronews
+- European Council
+- NATO
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

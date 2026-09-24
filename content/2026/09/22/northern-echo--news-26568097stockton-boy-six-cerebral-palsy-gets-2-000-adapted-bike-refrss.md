@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thenorthernecho.co.uk/resources/images/21481565.jpg?type=og-image&xType=0&yType=172
+locations:
+- Stockton
+people:
+- Chris
+- Max Burton
+- Roseberry Topping
+- Viki
+organisations:
+- Cash for Kids
 ---
 
 A six-year-old boy from Stockton who was told he might never walk or talk is enjoying a new sense of freedom after a charity helped fund a specialist adapted tricycle worth more than £2,000.

@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55eb/live/fb40eb10-b28b-11f1-8096-b33a1297275a.jpg
+locations:
+- Canada
+- Canal Street
+- England
+- Germany
+- Hull
+- Kindred House
+- London
+- Manchester
+- Spain
+- Sweden
+- UK
+- US
+people:
+- Adam Porter
+- Chek Min-Ong
+- Linda
+- Marilyn
+- Min
+- Mindy Meleyal
+- Norman Goodman
+- Sarah Wilkinson
+- Tim
+- Tonic
+- Tony
+organisations:
+- Centre for Ageing Better
+- Kindred House
+- LGBT Foundation
+- Mindy
+- Netflix
+- Tonic
+- Yorkshire
 ---
 
 ![A tightly cropped photo of a woman in her 70s with short grey hair looking up at the sky, smiling. She has sunglasses on, and bright red lipstick that matches her leather jacket. Graffiti is in the background, slightly out of focus.](https://ichef.bbci.co.uk/ace/standard/900/cpsprodpb/55eb/live/fb40eb10-b28b-11f1-8096-b33a1297275a.jpg)

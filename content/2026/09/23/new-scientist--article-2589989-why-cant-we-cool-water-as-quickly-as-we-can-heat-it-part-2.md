@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_308070748_5ada65.jpg
+locations:
+- Australia
+- London
+- Sydney
+- UK
+people:
+- Alex McDowell
+- Isaac Newton
+organisations: []
 ---
 
 ![Woman in green swimsuit relaxing in outdoor jacuzzi with clean transparent turquoise water. Organic skin care in hot bath in luxury spa resort.; Shutterstock ID 648664720; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_308070748_5ada65.jpg?w=840)

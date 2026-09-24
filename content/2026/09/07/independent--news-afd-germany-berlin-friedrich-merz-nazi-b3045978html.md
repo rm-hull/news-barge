@@ -14,6 +14,23 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Germany
+- Russia
+- Saxony-Anhalt
+- Thuringia
+people:
+- Friedrich Merz
+- Thomas Schulze
+- Ulrich Siegmund
+- Volker Resing
+organisations:
+- AfD
+- BSW
+- CDU
+- Greens
+- Left Party
+- The Associated Press
 ---
 
 Alternative for Germany, or AfD, has established itself as a significant political force in the 13 years since its founding, but it has never been part of any state or federal government. That’s a result of what is often called a “firewall” against cooperation with the anti-immigrant, far-right party.

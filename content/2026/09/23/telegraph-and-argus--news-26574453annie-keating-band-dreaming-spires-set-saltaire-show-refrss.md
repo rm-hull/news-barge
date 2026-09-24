@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491031.jpg?type=og-image&xType=0&yType=0
+locations:
+- Brooklyn
+- New York
+- Oxfordshire
+- Saltaire
+- UK
+- West Yorkshire
+people:
+- Annie Keating
+- Jamie Dawson
+- Joe Bennett
+- Joe Coombs
+- John Morgan
+- Scott Warman
+- Spires' Robin
+organisations:
+- Annie Keating Band
+- Dreaming Spires
+- Dreaming Spires'
+- The Annie Keating Band
+- The Dreaming Spires
 ---
 
 *(Image: John Morgan)*

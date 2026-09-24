@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Low Petergate
+- UK
+- York
+people:
+- Covid
+- Heather Wilson Brown
+- Ken Brown
+- Valentina Ruiu
+organisations:
+- Nomination York
 ---
 
 A "decade of memories" is being celebrated by a business in York.

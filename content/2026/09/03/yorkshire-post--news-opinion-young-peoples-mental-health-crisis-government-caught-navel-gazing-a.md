@@ -17,6 +17,19 @@ categories:
 - York
 - Health & Fitness
 - Family & Parenting
+locations:
+- Westminster
+- Whitehall
+people:
+- Keir Starmer
+- Lord Bradley
+organisations:
+- Georgia Gould
+- Government
+- House of Lords
+- House of Lords Public Services Committee
+- NHS
+- State for Education
 ---
 
 # Young people's mental health crisis: Government caught navel-gazing again

@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Bootham
+- Clifton
+- High Petergate
+- Lawrence Street
+- St Peter’s School
+- York
+people:
+- Amelia Taylor
+- Billy Johnson
+- Ms Taylor
+- Neil Cutte
+- Simon Hickey
+organisations:
+- BP Jorvik
+- CCTV
+- Marks & Spencer
+- Sainsbury’s
+- York Crown Court
 ---
 
 A notorious thief pointed a knife at a young man at a cash machine in a busy York street and told him: “If you don’t get the money, I’ll stab you.”

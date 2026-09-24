@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Caribbean
+- Colombia
+- Guadalajara
+- Jalisco
+- Latin America
+- Mexico City
+- Michoacán
+- Morelia
+- Ojocaliente
+- U.S.
+- United States
+- Zacatecas
+people:
+- Carlos Pérez Ricart
+- Claudia Sheinbaum
+- Cristian Paul Camacho
+- Donald Trump
+- Ismael “El Mayo” Zambada
+- Omar García Harfuch
+- Pérez Ricart
+- Vanda Felbab-Brown
+- Victor Manuel Sánchez
+organisations:
+- Brookings Institution
+- CIDE
+- CJNG
+- Jalisco New Generation Cartel
+- Sinaloa Cartel
+- Tijuana Cartel
+- Trump
+- University of Coahuila
 ---
 
 Drug cartels across Mexico are increasingly turning to car bombs, explosives-laden drones and improvised explosive devices, a trend that could further strain Mexico’s already tense relationship with U.S. President Donald Trump, who has repeatedly threatened military action against the cartels.

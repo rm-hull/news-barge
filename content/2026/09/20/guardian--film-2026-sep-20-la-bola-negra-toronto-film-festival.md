@@ -13,6 +13,27 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/86a19171220c29393bf89beb123f1335bf2f53ca/792_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f71ef1fac35ad82b3b2fe20da137457
+locations:
+- Cannes
+- Park Chan-wook
+- Toronto
+- Venice
+people:
+- Cristian Mungiu
+- Hamnet
+- Javier Ambrossi
+- Javier Calvo
+- Jessie Buckley
+- May el-Toukhy
+- Peter Bradshaw
+- Sylvester Stallone
+organisations:
+- Elsinore
+- Fjord
+- Guardian
+- La Bola Negra
+- Netflix
+- Slumdog Millionaire
 ---
 
 Spanish queer drama La Bola Negra has won this year’s people’s choice award at the Toronto film festival.

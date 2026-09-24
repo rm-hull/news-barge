@@ -12,6 +12,39 @@ image: https://i.guim.co.uk/img/media/cb8b518834f8d8cefcab803c5eb0c8e6c7663a36/9
 categories:
 - UK
 - News & Politics
+locations:
+- Bangladesh
+- Dhaka
+- France
+- India
+- Pasur River
+- Rampal
+- Sundarbans
+- UK
+- Unesco
+- West Bengal
+people:
+- Animesh Mandal
+- Sharif Jamil
+- Sue Willman
+organisations:
+- BIFPCL
+- Bangladesh India Friendship Power Company Ltd
+- Barclays Bank
+- Barclays’
+- Dakshinbanga Matsyajibi Forum
+- Department for Business and Trade
+- Export-Import Bank of India
+- King’s College London
+- King’s Human Rights and Environment Clinic
+- King’s Legal Clinic
+- Maitree
+- NTPC Ltd
+- National Thermal Power Corporation
+- Office for Responsible Business Conduct
+- Rampal
+- Unesco
+- World Heritage
 ---
 
 Barclays Bank is facing a formal complaint over its financial links to a coal-fired power station near the Sundarbans, the world’s largest mangrove forest and home to millions of people in Bangladesh and India.

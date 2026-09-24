@@ -13,6 +13,32 @@ categories:
 - UK
 - Technology & Software
 - Family & Parenting
+locations:
+- AI
+- Brighton
+- UK
+people:
+- Griffith
+- Jacob Coxon
+- Louise Haigh
+- Mark Bunting
+- Oliver Griffiths
+organisations:
+- AI Bill “
+- AI Security Institute
+- Anthropic
+- CSAM
+- Commons Business, Innovation, Science and Trade Committee
+- Elon Musk
+- Grok AI
+- Lords
+- Lords’
+- Meta
+- Molly Rose Foundation
+- OSA
+- Ofcom
+- Snap
+- TUC
 ---
 
 AI is “supercharging” the creation and sharing of child sexual abuse material online among other harms, the UK’s online regulator has said.

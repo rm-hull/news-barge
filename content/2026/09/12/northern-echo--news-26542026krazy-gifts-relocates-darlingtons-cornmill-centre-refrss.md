@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Arts & Culture
 - Shopping & Deals
+locations:
+- Cornmill Shopping Centre
+- County Durham
+- Darlington Zoe France
+- North West
+- Queen Street
+- Unit 18
+people:
+- Pepe
+- Piri Piri
+- Tony Reale
+organisations:
+- Cornmill Shopping Centre
+- Krazy Gifts
+- Pepe
+- Piri Piri
 ---
 
 *(Image: KRAZY GIFTS)*

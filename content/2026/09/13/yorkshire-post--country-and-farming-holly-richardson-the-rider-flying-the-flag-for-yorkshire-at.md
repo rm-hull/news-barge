@@ -14,6 +14,38 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Badminton
+- Breckenbrough
+- Britain
+- Burghley
+- GBR
+- Lincolnshire
+- New Zealand
+- North Yorkshire
+- Richmond
+- Stamford
+- UK
+people:
+- Bally Louis
+- Caroline Pamukcu
+- Chris Bartle
+- Gemma Stevens
+- Helen Bell
+- Holly Richardson
+- Karen Dixon
+- Melissa Chapman
+- Ms Richardson
+- Ms Richardsonson
+- Stuart Minting
+- Tim Price
+organisations:
+- Badminton Horse Trials
+- Ballyneety Silver Service
+- Burghley Horse Trials
+- CCI
+- Defender Burghley Horse Trials
+- Yorkshire
 ---
 
 # Holly Richardson: The rider flying the flag for Yorkshire at Burghley Horse Trials

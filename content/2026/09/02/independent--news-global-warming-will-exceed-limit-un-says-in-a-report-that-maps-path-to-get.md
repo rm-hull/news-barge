@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Amazon
+- Atlantic Ocean
+- Earth
+- Europe
+- Greenland
+- Nepal
+- Paris
+- West Antarctic
+people:
+- Andrew Weaver
+- António Guterres
+- Bill Hare
+- Inger Andersen
+- Joeri Rogelj
+- Richard Betts
+- Rob Jackson
+organisations:
+- AP
+- Associated Press’
+- Climate Analytics
+- Imperial College London
+- Stanford University
+- U.N.
+- UN
+- UNEP
+- United Nations
+- United Nations Environment Programme
+- University of Exeter
+- University of Victoria
 ---
 
 In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming's harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.

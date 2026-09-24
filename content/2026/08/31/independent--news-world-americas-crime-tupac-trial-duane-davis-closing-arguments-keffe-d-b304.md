@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Davis’
+- Las Vegas
+- MGM
+- Nevada
+people:
+- '## Davis'''
+- Davis’
+- Deandre “Freaky” Smith
+- Duane
+- Keffe D” Davis
+- Marion ‘Suge’ Knight
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando “Baby Lane” Anderson
+- Tupac Shakur
+organisations:
+- Bad Boy Records
+- Cadillac
+- Davis’
+- Death Row Records
+- MGM Grand
+- Mob Piru
+- South Side Compton Crips
 ---
 
 Closing statements are expected Monday in one of hip-hop's most anticipated trials for the man accused of orchestrating the death of Tupac Shakur.

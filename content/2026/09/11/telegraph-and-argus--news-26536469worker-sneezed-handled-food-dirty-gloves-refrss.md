@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- BBQ
+- Great Horton
+- Union Road
+people:
+- Cannon Mills
+- Zubis
+organisations:
+- BBQ
+- Bradford Council
+- Cannon Mills
+- Food Safety Team
+- Safer Food Better Business
+- T&A
+- The Food Business Operator
+- Zubis
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Cobb County
+- Douglas County
+- Georgia
+- Powder Springs
+people:
+- Isaac Kindle
+- Reformers’
+- Tim Pounds
+organisations:
+- CBS Atlanta
+- DCSO
+- Douglas County Sheriff’s Office
+- Kindle
+- Reform Room
+- Reform Room Solutions Group
+- The Independent
 ---
 
 A Georgia inmate is back in police custody after escaping from a sheriff’s office car wash Thursday morning in a sedan driven by a woman.

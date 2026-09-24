@@ -12,6 +12,27 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/HstuJz8U6bpkSURFD5Qh97-1920-80.jpg
+locations:
+- North Carolina
+people:
+- AI
+- Bruno Ferreira
+- Claude
+- Kash Patel
+- Katie Noyes
+organisations:
+- AI
+- DHS
+- DOJ
+- FBI
+- Fox News
+- Gemini
+- Get Tom's Hardware
+- PC
+- Pentagon
+- Senate
+- Tom's Hardware
+- U.S. General Services Administration
 ---
 
 ![FBI flag](https://cdn.mos.cms.futurecdn.net/HstuJz8U6bpkSURFD5Qh97.jpg)

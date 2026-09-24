@@ -12,6 +12,68 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- AEST
+- American Express Stadium
+- Australia
+- Bournemouth
+- CA
+- Canada
+- Elland Road
+- Leeds
+- Millwall
+- Newcastle
+- Newcastle.
+- Stamford Bridge
+- The Den
+- UK
+- US
+- US.
+- USA
+- United Kingdom
+- canada
+- uk
+people:
+- Amar Dedic
+- Daniel Farke
+- Ilia Gruev
+- Jacob Ramsey
+- James Roberts
+- James Trafford
+- Jayden Bogle
+- Joe Rodon
+- Leeds'
+- Matias Fernandez-Pardo
+- Matthias Jaissle
+organisations:
+- )** Today
+- Bournemouth
+- Brighton
+- Chelsea
+- EPL
+- FREE USA Network
+- FourFourTwo
+- Fubo
+- Fubois
+- Future Publishing
+- Hove Albion
+- Leeds United
+- Magpies
+- Millwall
+- Newcastle
+- Newcastle?** Use
+- NordVPN
+- NordVPN**
+- Oxford Mail
+- Oxford United
+- Sky Go
+- Sky Sports
+- Sky Sportsis
+- Sky TV
+- Sling TV
+- Stan Sport
+- TechRadar
+- USA Network
 ---
 
 ![James Trafford of Leeds United celebrates after Jayden Bogle scores Leeds' first goal of the Premier League 2026/27 game against Brighton & Hove Albion at American Express Stadium on September 5, 2026](https://cdn.mos.cms.futurecdn.net/EaYSuxRkTBUNGmKNPTmzr.jpg) 

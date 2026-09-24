@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Faraday
+- UK
+people:
+- Jake Lambert
+organisations:
+- CCTV
+- DVLA
+- Driver and Vehicle Licensing Agency
+- EV
+- RAC
+- Tempcover
 ---
 
 *(Image: Getty Images)*

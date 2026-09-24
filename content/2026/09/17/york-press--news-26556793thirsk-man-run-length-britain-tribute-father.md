@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Great Britain
+- John O'Groats
+- North Yorkshire
+- Thirsk
+people:
+- '## Thirsk'
+- Archie Whitfield
+- Cushing
+- Dad
+- Dave Whitfield
+- John O’Groats
+- Matt Meaney
+organisations:
+- Green Party
+- Land’s End
+- Portuguese Primeira Liga
+- The Brain Charity
 ---
 
 ## Thirsk runner takes on 870-mile challenge in memory of his late father

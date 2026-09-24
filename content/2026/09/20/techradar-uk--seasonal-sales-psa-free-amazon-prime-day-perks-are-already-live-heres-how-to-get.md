@@ -12,6 +12,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/TSBaeifGq43SqzpdT3tCGX-1920-80.jpg
+locations:
+- Amazon
+- UK
+- US
+people:
+- Alex Whitelock
+organisations:
+- Alex
+- Amazon Music Unlimited
+- Amazon Prime
+- Amazon UK
+- Amazon Visa
+- Audible
+- Future PLC
+- GamesRadar
+- Grubhub
+- Sage
+- TechRadar
 ---
 
 ![Collage of tech from the Amazon Prime Day sale including a MacBook, Sage coffee machines, AirPods and Echo Spot with the TechRadar logo in the middle](https://cdn.mos.cms.futurecdn.net/TSBaeifGq43SqzpdT3tCGX.jpg)

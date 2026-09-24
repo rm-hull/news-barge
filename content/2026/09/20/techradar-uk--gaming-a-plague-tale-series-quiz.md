@@ -14,6 +14,18 @@ categories:
 - Arts & Culture
 - Education & Learning
 image: https://cdn.mos.cms.futurecdn.net/4Dfpv2JqDLNHHS9g7Rg7DD-1920-80.jpg
+locations: []
+people:
+- Amicia
+- Rob Dwiar
+organisations:
+- GamesRadar+
+- Google News
+- Hardware
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![Three images or bits of key art from A Plague Tale: Innocence, Requiem, and Resonance](https://cdn.mos.cms.futurecdn.net/4Dfpv2JqDLNHHS9g7Rg7DD.jpg)

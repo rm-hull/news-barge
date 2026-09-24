@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Aston
+- Metro
+- Piper Lane
+- Rotherham
+- Teresa’s Basegreen
+people:
+- Peter Turner
+- Teresa Shephard
+organisations:
+- IPP
+- Parole Board
+- South Yorkshire Police
+- Supertram
 ---
 
 # Murderer in bid for freedom as police continue to search for body after more than 30 years

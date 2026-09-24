@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- York
+people:
+- Anna
+- Beth
+- Brenda
+- Emma
+- Esme
+- Patrick Grant
+- Sebastian
+- Steve
+organisations:
+- BBC
+- Queen of Hearts
+- Sewing Bee
 ---
 
 ## 'She has a very rare gift' - Anna from York wins the Great British Sewing Bee

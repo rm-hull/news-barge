@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Australia
+- Chester le Street
+- Colly’
+- Consett
+- County Durham
+- Derwent Valley
+- England Collingwood
+- Galle
+- Hollywood
+- Paul Collingwood Pavilion
+- Quiet County Durham
+- River Derwent
+- Shotley Bridge
+- Sri Lanka
+people:
+- David
+- Janet
+- Kevin Keegan
+- Paul Collingwood
+- Stuart Boulton
+- Tom Hardy
+- Wisden
+organisations:
+- Blackfyne Comprehensive School
+- Collingwood
+- Consett Academy
+- County Durham
+- Emirates Riverside
+- Newcastle FC
+- Shotley Bridge Cricket Club
 ---
 
 Paul Collingwood became one of England cricket’s most determined and decorated players, but his story began in Shotley Bridge — the County Durham village where he first picked up a bat and learned the values that would define his career.

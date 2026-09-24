@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Bondi
+- NSW
+- New South Wales
+- Palestine
+- Parramatta
+- Sydney
+people:
+- Chris Minns
+- Daniel Stewart
+- Derek Jones
+- Eyad Shadid
+- Isaac Herzog
+- Mal Lanyon
+- Nick Hanna
+- Nick Hanna.
+organisations:
+- Blak Caucus
+- Guardian Australia
+- NSW
+- Palestine Action Group
+- United Nations
 ---
 
 A Palestinian Australian man who alleges he was punched in the face when trying to stop police from harassing Muslim men praying during an anti–Isaac Herzog protest is suing New South Wales over “a series of false accusations”.

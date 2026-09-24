@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Afghanistan
+- Australia
+- Iraq
+- New York
+- North Tower
+- Pennsylvania
+- South Tower
+- US
+- Washington DC
+- White House
+people:
+- Andrew Hastie
+- Anthony Albanese
+- Dan Himbrechts
+- Elon Musk
+- Jacqui Lambie
+- John Howard
+- Marles
+- Richard Marles,said
+- Sam Rae
+organisations:
+- AAP Marles
+- ABC News Breakfast
+- AI
+- Aged Care Quality and Safety Commission
+- Anthropic
+- One Nation
+- Opal Healthcare
+- RSL Australia
+- Radio National Breakfast
+- West Wing
 ---
 
 Former Australian prime minister John Howard says he has ‘no regrets’ about Australia going into Afghanistan after September 11. Photograph: Dan Himbrechts/AAP

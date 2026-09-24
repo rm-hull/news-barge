@@ -14,6 +14,29 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://i.guim.co.uk/img/media/0cb421007ba094b5dcf6229414bc0d79c7772fbc/491_506_4284_3429/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c2555e5b5f317598fa87fb3a936810d9
+locations:
+- Amsterdam
+- Europe
+- London
+- Middle East
+- Norway
+- Stockholm
+- UK
+- US
+people:
+- Claude
+- Ian Ferrao
+- Sunil Bharti Mittal
+organisations:
+- AI
+- Airtel Africa
+- Airtel Money
+- Bharti Enterprises
+- Chimetech Holding
+- Mastercard
+- Qatar Investment Authority
+- TPG
+- Visma
 ---
 
 A win is a win, but we should probably contain our excitement about the biggest flotation in London for five years. Airtel Money, a payments processor that operates in 13 African countries and should be worth between £6bn and £7bn, is a welcome addition to the stock market but it would be a stretch to say the event marks a definitive change in the weather to end the listings drought.

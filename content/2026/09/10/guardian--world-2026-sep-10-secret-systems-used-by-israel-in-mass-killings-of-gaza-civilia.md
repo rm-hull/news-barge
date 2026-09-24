@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Gaza City
+- Israel
+- Italy
+- Tel Aviv
+- Venice
+- West Bank
+people:
+- Alberto Barbera
+- Basel Adra
+- Benjamin Netanyahu
+- Hamdan Ballal
+- James Wilson
+- Jonathan Glazer
+- Paul Lewis
+- Rachel Szor
+- Yuval Abraham
+organisations:
+- 972 Magazine
+- Cinecittà News
+- Guardian
+- Hamas
+- Local Call
+- NAZA
+- No Other Land
+- The Zone of Interest
+- UN
 ---
 
 Testimony from 24 Israeli military insiders on the secret systems used in the war on Gaza has been revealed in a new documentary film about the mass killing of Palestinian civilians.

@@ -15,6 +15,27 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Great Britain
+- Manchester
+- Middlesborough
+- North
+- Tennessee
+- Ukraine
+people:
+- AI
+- Andy Burnham
+- Angela Rayner
+- Aristotle
+- Dolly Parton
+- Henry Nicholls
+- Luke Littler
+- Margaret Thatcher
+- Sarah Todd
+organisations:
+- Manchester
+- The Yorkshire Post
+- TikTok
 ---
 
 # You’d think Manchester was where the North begins and ends for Andy Burnham - Sarah Todd

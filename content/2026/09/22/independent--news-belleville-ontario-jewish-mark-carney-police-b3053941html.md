@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/03/Canada_Shooting_2_368.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Belleville
+- Canada
+- Jacob Synagogue
+- Ontario
+- Quinte West
+- Toronto
+- Yom Kippur
+people:
+- Douglas Lobel
+- Jeff Smith
+- Kristy Denette
+- Mark Carney
+- Neil Ellis
+- Sean Ward
+- Sheri Meeks
+organisations:
+- Belleville Police Service
+- SIU
+- Special Investigations Unit
 ---
 
 A 29-year-old man armed with a shotgun opened fire on a police officer stationed outside an Ontario synagogue during Yom Kippur, triggering a shootout involving as many as 30 shots, the province's police watchdog said Monday.

@@ -12,6 +12,23 @@ image: https://i.guim.co.uk/img/media/b6c563876bfd399c6a2fda562c3dc0c4eb93b549/1
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Bondi
+- Melbourne
+- White Australia
+people:
+- Brendan Lim
+- Peter King
+- Shahed Sharify
+- Tom Sewell
+- Tony Burke
+organisations:
+- Asio
+- Australian Security and Intelligence Organisation
+- Hizb ut-Tahrir
+- NSN
+- National Socialist Network
 ---
 
 Lawyers for an outlawed neo-Nazi political party have argued anti-hate laws passed after the Bondi terror attack rely on the opinion of a politician and are “authoritarian in nature”.

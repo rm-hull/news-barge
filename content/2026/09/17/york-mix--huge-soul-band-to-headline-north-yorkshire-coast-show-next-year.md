@@ -12,6 +12,27 @@ categories:
 - Music
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/SIMPLY-RED-2.webp
+locations:
+- Europe
+- Latin America
+- North Yorkshire
+- UK
+people:
+- Gary Sanctuary
+- Ian Kirkham
+- Jack Savoretti
+- James Morrison
+- Kenji Suzuki
+- Kevin Robinson
+- Mick Hucknall
+- Orefo Orakwue
+- Roman Roth
+organisations:
+- EWI
+- Scarborough OAT
+- Scarborough Open Air Theatre
+- Simply Red
+- Soul II Soul
 ---
 
 Soul band Simply Red are coming to the North Yorkshire coast next year.

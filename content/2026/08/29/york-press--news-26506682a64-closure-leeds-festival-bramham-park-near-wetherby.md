@@ -14,6 +14,38 @@ categories:
 - York
 - Music
 - Travel
+locations:
+- A1
+- Annabel Lee-Ellis
+- Bramham Park
+- Brotherton Bridge
+- Kiddal Lane End
+- Knottingley
+- Leeds Festival
+- M
+- Micklefield
+- Moorthorpe
+- North
+- River Aire
+- Scarcroft
+- Selby
+- Shadwell
+- Sherburn-in-Elmet
+- Tadcaster
+- Thorner
+- West Yorkshire
+- Wetherby
+- York
+people:
+- Arthur Hill
+- Dan Wood
+- Tom Ogden
+organisations:
+- A64
+- Annabel Lee-Ellis
+- Northern and TransPennine Express
+- PA Wire
+- The Blossoms
 ---
 
 ## REMINDER: One-way system on key Yorkshire road as major music festival gets underway

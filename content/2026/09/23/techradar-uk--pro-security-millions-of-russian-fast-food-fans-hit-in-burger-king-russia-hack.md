@@ -9,6 +9,28 @@ description: Data stolen years ago finally surfaced on the web
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/aUiqncNLKM6YAYFyowvwPH-970-80.jpg
+locations:
+- Bosnia and Herzegovina
+- Mindbox
+- Russia
+- Sarajevo
+people:
+- Burger King
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Benetton
+- Burger King
+- Google News
+- JBL
+- KFC
+- L’Oréal
+- Mindbox
+- Panasonic
+- Represent Communications
+- TASS
+- TechRadar Pro
+- United Colors
 ---
 
 ![Burger King shop](https://cdn.mos.cms.futurecdn.net/aUiqncNLKM6YAYFyowvwPH.jpg)

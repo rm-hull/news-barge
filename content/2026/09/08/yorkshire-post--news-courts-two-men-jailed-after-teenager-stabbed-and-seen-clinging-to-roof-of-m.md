@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Derwentwater Road
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Redcar
+people:
+- Charlie Hoe
+- Michael Flanigan
+- Nicola Barker
+organisations:
+- CCTV
+- Cleveland CID
+- Redcar CID
+- Teesside Crown Court
 ---
 
 # Two men jailed after teenager stabbed and seen clinging to roof of moving van

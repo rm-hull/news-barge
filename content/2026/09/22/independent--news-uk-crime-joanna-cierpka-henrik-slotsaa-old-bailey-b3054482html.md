@@ -14,6 +14,23 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/08/18/13/2022467708..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Canary Wharf
+- Castle
+- Elephant
+- Greece
+- London
+- UK
+- Viber
+people:
+- Alive
+- Danny Robinson KC
+- Dennis Leftakis
+- Henrik Slotsaa
+- Joanna Cierpka
+organisations:
+- Citibank
+- Old Bailey
 ---
 
 A woman accused of fatally stabbing her City banker partner exchanged intimate messages with another man while on holiday in Greece the year before, a court has heard.

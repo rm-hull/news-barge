@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/yLTkpXkRjzyqfh2RQyFi2F-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- East Midlands
+- Manchester
+- Stansted
+- UK
+people:
+- Benedict Collins
+- Graeme Stewart
+- Ilia Kolochenko
+- Vykintas Maknickas
+organisations:
+- APT
+- BUCSIS
+- Google News
+- Head of Public Sector
+- London Stansted
+- MAG
+- Manchester Airports Group
+- Raghu Nandakumara
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A queue at an airport check-in](https://cdn.mos.cms.futurecdn.net/yLTkpXkRjzyqfh2RQyFi2F.jpg) 

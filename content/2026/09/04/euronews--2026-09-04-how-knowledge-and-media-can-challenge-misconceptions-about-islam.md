@@ -15,6 +15,39 @@ categories:
 - News & Politics
 - Society & Culture
 - Technology & Software
+locations:
+- Castile
+- Central Asia
+- China
+- Middle East
+- Renaissance Europe
+- Samarkand
+- Silk Road
+- Strunz
+- Tashkent
+- Timur
+- Uzbekistan
+- West
+people:
+- Al-Jazari
+- Al-Muradi
+- Alpar Kato
+- Charlotte Kramer
+- Claus Strunz
+- Firdavs Abdukhalikov
+- Hasanbey Kondu
+- Henry III
+- Leonardo da Vinci
+- Mario Taddei
+- Ruy González de Clavijo
+- Shavkat Mirziyoyev
+- Sherzod Asadov
+organisations:
+- AI
+- Euronews
+- Islamic Civilization Center
+- Mega Basım
+- UN General Assembly
 ---
 
 ## Organised by the Islamic Civilization Center in Uzbekistan, the forum gathered nearly 300 participants from around 50 countries. Discussions ranged from responsibility for misrepresentations of Islam and journalistic independence to Europe’s closer engagement with Central Asia.

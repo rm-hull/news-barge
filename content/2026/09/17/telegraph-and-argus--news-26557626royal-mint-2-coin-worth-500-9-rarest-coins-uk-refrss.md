@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Edinburgh
+- Elizabeth II
+- England
+- Scotland
+- UK
+- Wales
+people:
+- Lord Kitchener
+organisations:
+- Britannia Fifth Portrait
+- Coin Hunter
+- Commonwealth Games Northern Ireland
+- Facebook
+- Royal Mint
+- Royal Navy
 ---
 
 *(Image: Getty/duncan1890)*

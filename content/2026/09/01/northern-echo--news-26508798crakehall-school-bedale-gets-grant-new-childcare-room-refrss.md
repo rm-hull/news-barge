@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Bedale
+- Crakehall
+- North Yorkshire
+people:
+- Charlotte Johnson
+organisations:
+- Breakfast Club
+- Broadacres Community and Sustainability Fund
+- Broadacres’ Community and Sustainability Fund
+- Church of England
+- Crakehall School
+- Friends of Crakehall School
+- Lego
+- The Tea Timers
 ---
 
 *(Image: SHAEFER PR)*

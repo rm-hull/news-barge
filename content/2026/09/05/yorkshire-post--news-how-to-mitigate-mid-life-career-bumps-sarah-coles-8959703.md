@@ -18,6 +18,16 @@ categories:
 - Society & Culture
 - Careers & Productivity
 - Self-Improvement
+locations: []
+people:
+- Elle
+- Sarah Coles
+- Stacey Duguid
+- Susan Sontag
+organisations:
+- AJ Bell Money Matters
+- HMRC
+- Women and Equalities Committee
 ---
 
 # How to mitigate mid-life career bumps: Sarah Coles

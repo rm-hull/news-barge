@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Georgia
+- Michigan
+- North Carolina
+- Ohio
+- Texas
+people:
+- Michael Peterson
+organisations:
+- CRFB
+- Congress
+- Peterson Foundation
+- S. Senate
+- Social Security
+- Social Security Board of Trustees
 ---
 
 A vast majority of voters in key Senate battleground states favor candidates who present explicit plans to reform Social Security over those who pledge to leave the program untouched, according to research conducted by the Peterson Foundation.

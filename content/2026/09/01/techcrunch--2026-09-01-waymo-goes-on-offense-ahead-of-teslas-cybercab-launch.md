@@ -10,6 +10,31 @@ description: Waymo argued that fully autonomous vehicles aren't possible without
 image: https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- AI
+- Florida
+- Tesla
+- Texas
+- U.S.
+people:
+- Elon Musk
+- Ethan Teicher
+- John Wick
+- Keanu Reeves’
+- Pierre Ferragu
+- Srikanth Thirumalai
+- Waymo
+organisations:
+- Axios
+- Cybercab
+- Cybercabs
+- Musk
+- New Street Research
+- Tesla Robotaxi
+- Texas DMV
+- VP
+- Waymo Driver
+- Waymo’s
 ---
 
 Waymo argued last week that fully autonomous vehicles are not possible without using a mix of sensors, and that “pure end-to-end” AI systems are not safe enough — shots at Tesla, despite the Alphabet-owned company not naming names.

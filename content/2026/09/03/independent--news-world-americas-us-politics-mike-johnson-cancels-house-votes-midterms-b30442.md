@@ -11,6 +11,42 @@ image: https://static.independent.co.uk/2026/09/03/10/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Dallas
+- Iran
+- Kentucky
+- Maine
+- South Carolina
+- Texas
+- Washington
+people:
+- Andy Harris
+- Chip Roy
+- Donald Trump
+- Gluesenkamp Perez
+- Gluesenkemp Perez
+- Jared Golden
+- Jeffrey Epstein
+- Jeffries
+- Lindsey Graham
+- Marie Glusenkamp Perez
+- Mike Johnson
+- Mike Johnson-led
+- Ralph Norman
+- Ro Khanna
+- Rosh Hashanah
+- Thomas Massie
+- Todd Blanche
+organisations:
+- Alexandria Ocasio-Cortez
+- Blue Dog Democrats
+- Congress
+- Department of Justice
+- House Freedom Caucus
+- House of Representatives
+- Senate
+- Trump
 ---
 
 The House of Representatives abruptly canceled the final two weeks of votes for September, effectively giving the Speaker Mike Johnson-led body four days of work before the midterm elections and not being in session during August.

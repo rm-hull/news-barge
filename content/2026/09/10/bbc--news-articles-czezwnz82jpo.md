@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Caernarfon
+- Crib Goch
+- Crib y Ddysgl
+- Dereham
+- Eryri
+- Lake District
+- Norfolk
+- North Wales Police
+- Peak District
+- Snowdonia
+- Yr Wyddfa
+people:
+- Eddie Hill
+- James Lloyd
+- Jayden Long
+- Philip Benbow
+- Sarah Riley
+- Stephen
+organisations:
+- Crib Goch
+- Gwynedd Coroner's Court
+- Llanberis Mountain Rescue
+- Long's
+- North Wales Police
+- North West Wales
 ---
 
 ![A black and white photo of Eddie and Jayden, smiling side by side. They are both holding pints or beer. Jayden has a hat on and has short stubble and is wearing a black hoodie. Eddie has short dark hair and is wearing a jumper.](https://ichef.bbci.co.uk/ace/standard/502/cpsprodpb/c07c/live/9ef97c10-ad08-11f1-beae-535b95a24b3e.jpg)

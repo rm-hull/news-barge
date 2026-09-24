@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Congo
+- Kindu
+- Kinshasa
+- Lubumbashi
+- africa
+people:
+- Felix Tshisekedi
+- God
+- Martin Fayulu
+- Patrick Muyaya
+organisations:
+- C64
+- Congolese Constitution
+- M23
+- National Assembly
 ---
 
 Police in Congo fired tear gas Tuesday to disperse hundreds of people demonstrating against constitutional changes they said could allow President Felix Tshisekedi to seek a third term in office.

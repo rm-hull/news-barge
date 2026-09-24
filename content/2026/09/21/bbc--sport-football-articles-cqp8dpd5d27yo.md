@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f60/live/5a858420-b604-11f1-a9b8-1d52a2930956.jpg
+locations:
+- Bet365 Stadium
+- England
+- PAT Stadium
+- Pattani
+- Stoke
+- Thailand
+people:
+- Andros Townsend
+- Piers Morgan
+organisations:
+- Crystal Palace
+- Instagram
+- Kanchanaburi Power
+- Kanchanaburi Power FC
+- Luton
+- PT Prachuap
+- Port FC
+- Stoke
+- Thai League
+- Tottenham
 ---
 
 ![Andros Townsend of Kanchanaburi Power FC looks on prior to the Thai League 1 match between Port FC and Kanchanaburi Power FC at PAT Stadium](https://ichef.bbci.co.uk/ace/standard/966/cpsprodpb/4f60/live/5a858420-b604-11f1-a9b8-1d52a2930956.jpg)

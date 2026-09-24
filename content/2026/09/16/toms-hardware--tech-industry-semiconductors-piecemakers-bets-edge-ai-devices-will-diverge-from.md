@@ -12,6 +12,64 @@ image: https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- France
+- Hsinchu
+- Israel
+- Japan
+- San Jose
+- Taiwan
+- Turkey
+people:
+- Cristiano Amon
+- Groq
+- Igor Arsovski
+- Jaesik Lee
+- Joseph Ting
+- Lee Hsiao-wen
+- Pei-Ing Lee
+- Rubin
+- Shane Downing
+organisations:
+- AI
+- Cnyes
+- Counterpoint Research
+- Emerging Board
+- Emerging Stock Board
+- Etron Technology
+- Formosa Advanced Technologies
+- Formosa Plastics Group
+- GTC
+- Groq 3 LPU
+- Groq LPU
+- HBM
+- HBM3
+- HBM4
+- Hot Chips
+- ISSCC
+- Intel
+- KGD
+- NRE
+- Nanya Technology
+- Nvidia
+- Nvidia’s Rubin CPX
+- PieceMakers
+- PieceMakers’
+- Piecemakers
+- Qualcomm
+- Rubin GPU
+- SK
+- SRAM
+- Samsung
+- Sangwook Han
+- Shane Downing
+- SoC
+- Taipei Exchange
+- TechNews
+- Tom’s Hardware US
+- TrendForce
+- UDN
 ---
 
 ![Semiconductor chip](https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY.jpg) 

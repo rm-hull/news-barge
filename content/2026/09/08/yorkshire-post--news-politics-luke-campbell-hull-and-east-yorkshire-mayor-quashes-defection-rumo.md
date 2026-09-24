@@ -14,6 +14,26 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Birmingham
+- East Yorkshire
+- Greater Manchester
+- Hull
+- London
+people:
+- Andy Burnham
+- Cool Hand’
+- Danny Lawson
+- Luke Campbell
+organisations:
+- ABA
+- Combined Authority
+- East Yorkshire
+- Hull City Council
+- Labour Party
+- Reform Conference
+- Reform UK
+- St. Paul’s Amateur Boxing Club
 ---
 
 # Luke Campbell: Hull and East Yorkshire Mayor quashes defection rumours and underlines commitment to Reform

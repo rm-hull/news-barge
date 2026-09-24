@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Australia
+- London
+- OpenAI
+- Oxford
+- Silicon Valley
+- Tokyo.
+- UK
+people:
+- AI
+- Ajeya Cotra
+- Cris Thomas
+- Demis Hassabis
+- Dennis Hassabis
+- Dwarkesh Patel
+- Emma Barnett
+- Evan Hubinger
+- Gary Marcus
+- Jacob Coxon
+- Jakub Pachocki
+- John Simpson
+- Kyriakos Mitsotakis
+- Nick Bostrom
+- Sam Altman
+- Sasha Luccioni
+organisations:
+- AI Security Institute
+- AISI
+- Anthropic
+- Chinese AI
+- Google DeepMind
+- LinkedIn
+- Meta
+- Open AI
+- OpenAI
+- PauseAI UK
+- Whoa!
 ---
 
 **"OH MY GOD!" "We've found other agents!"**

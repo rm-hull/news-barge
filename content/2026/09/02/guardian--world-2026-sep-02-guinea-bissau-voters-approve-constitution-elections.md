@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cape Verde
+- Guinea
+- Guinea-Bissau
+- Portugal
+people:
+- Domingos Simões Pereira
+- Horta Inta-A Na Man
+- Na Man
+- Nelson Moreira
+organisations:
+- African Party
+- Independence of Guinea
+- PAIGC
 ---
 
 Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.

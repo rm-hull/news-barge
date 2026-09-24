@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/fL8Ba8CiJjt2qsAVpr6UmK-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Swift
+organisations:
+- B2B
+- Bank of America
+- Clearing House
+- FATF
+- Future plc
+- RTP
+- Swift
+- TechRadar Pro
+- TechRadarPro
+- TerraPay
+- World Bank
 ---
 
 ![A credit card passed between two hands](https://cdn.mos.cms.futurecdn.net/fL8Ba8CiJjt2qsAVpr6UmK.jpg) 

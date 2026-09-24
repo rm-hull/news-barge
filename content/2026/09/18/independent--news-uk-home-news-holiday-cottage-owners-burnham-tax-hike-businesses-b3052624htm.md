@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Bristol
+- Cornwall
+- Perranporth
+- Storm Goretti
+people:
+- Andy Burnham
+- Goretti
+- James Norton
+- Matthew James
+- Molly James
+organisations:
+- Cornwall Opportunities
+- Covid
+- Croft Farm Holiday Cottages
+- The Independent
+- Toad Hall Cottages
+- Treasury
 ---
 
 Holiday cottage owners have warned that they may be forced to close their businesses if proposed tax hikes on holiday lets go ahead.

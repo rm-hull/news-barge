@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Virginia
+- Waynesboro
+- Westminster Presbyterian Church
+people:
+- Abigail Spanberger
+- Jim Wood
+- Robin Lawson
+organisations:
+- ABC News
+- August County Sheriff's Office
+- Virginia State Police
+- Waynesboro Public Schools
+- Westwood Hills Elementary School
 ---
 
 A shooting has been reported at Westwood Hills Elementary School in Waynesboro, Virginia, prompting an evacuation of the building.

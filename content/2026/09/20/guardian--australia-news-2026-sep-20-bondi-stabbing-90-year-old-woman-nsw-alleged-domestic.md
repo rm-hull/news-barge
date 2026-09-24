@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/15d141c239d8914319cee80da16d18fc5d60b4c1/417_14_1671_1337/master/1671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a0f590eb8fed51a08dab15a9884255
+locations:
+- Bondi Beach
+- Mole River
+- NSW
+- New South Wales
+- Sydney
+- Tenterfield
+- Wagga Wagga
+people:
+- Chris Minns
+- Kellie Sloane
+organisations:
+- Australian Institute of Health and Welfare
+- NSW
 ---
 
 Three men have been charged with domestic violence-related murders after three women died in separate incidents during a horror 12-hour period in New South Wales.

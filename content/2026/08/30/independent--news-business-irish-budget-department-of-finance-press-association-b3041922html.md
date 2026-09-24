@@ -13,6 +13,15 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- David Young
+- Simon Harris
+- Tánaiste
+organisations:
+- Bills
+- Department of Finance
+- EU
 ---
 
 A state-backed investment account specifically for children could be made available in the future following plans to roll out a savings and investment scheme for over-18s.

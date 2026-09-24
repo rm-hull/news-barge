@@ -12,6 +12,99 @@ image: https://cdn.mos.cms.futurecdn.net/GixG6yU5fDJEkwJWQXGM3R-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Argentina
+- Arsenal
+- Australia
+- CA
+- Canada
+- Emirates
+- London
+- UK
+- US
+- US.
+- USA
+- United Kingdom
+- Villa Park
+- canada
+- uk
+people:
+- '### Use'
+- '**Chelsea:** Martinez'
+- Acheampong
+- Adam Marshall
+- Arrizabalaga
+- Barco
+- Bruno Guimaraes
+- Bukayo Saka
+- Calafiori
+- Chavvaria
+- Chelsea
+- Christos Tzolis
+- Cole Palmer
+- Colwill
+- Dowman
+- Emiliano Martinez
+- Enzo Fernandez
+- Estevao
+- Eze
+- Fofana
+- Gabriel
+- Gittens
+- Gusto
+- Gyokeres
+- Hato
+- Havertz
+- Hincapie
+- James
+- Joao Pedro.
+- Julian Alvarez
+- Konsa
+- Lacroix
+- Lavia
+- Lewis-Skelly
+- Madueke
+- Merino
+- Mikel Arteta
+- Morgan Rogers'
+- Neto
+- Odegaard
+- Penders
+- Quenda
+- Raya
+- Rice
+- Robert Sanchez
+- Rogers
+- Tzolis.
+- Welbeck
+- White
+- Xabi Alonso
+- Zubimendi
+organisations:
+- '### Arsenal'
+- Atletico Madrid
+- Blues
+- Brighton
+- Chelsea
+- Coventry
+- EPL
+- Fubo
+- Fubois
+- Fulham
+- Future Publishing
+- Gunners
+- NordVPN
+- NordVPN**
+- Premier League
+- Sky Go
+- Sky Sports
+- Sky Sportsis
+- Sky TV
+- Sling TV
+- Stan Sport
+- TechRadar
+- Tom's Guide
+- USA Network
 ---
 
 ![Bukayo Saka of Arsenal calling for the ball during a Premier League 2026/27 match .](https://cdn.mos.cms.futurecdn.net/GixG6yU5fDJEkwJWQXGM3R.jpg) 

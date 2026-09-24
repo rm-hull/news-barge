@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Gaza
+- Hebron
+- Israel
+- Sair
+- UK
+- West Bank
+people:
+- Balqis
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- B’Tselem
+- Cogat
+- Ed Miliband
+- Haytham Adnan Murad
+- Kareem Jubran
+- Yuli Novak
+organisations:
+- B’Tselem
+- B’Tselem’s
+- Guardian
+- Hamas
+- Palestinian Authority
+- Smotrich
+- UN
 ---
 
 Israel is working towards the systematic “elimination” of the conditions that sustain Palestinian collective life in the occupied West Bank, according to a major report published by the human rights group B’Tselem.

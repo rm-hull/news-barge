@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/04/08/2026-09-03T215023Z_2000154
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Brazil
+- India
+- Kenya
+- Pacific Ocean
+- Peru
+- South Africa
+- UK
+people:
+- Angela Eagle
+- Celeste Saulo
+- Ms Eagle
+organisations:
+- Cabinet Office
+- ECIU
+- El Nino
+- Energy and Climate Unit
+- Ms Eagle
+- UKs
+- WMO
+- World Meteorological Organisation
 ---
 
 Britons have been urged to stock up on enough food and water to survive a few days without power or a water supply.

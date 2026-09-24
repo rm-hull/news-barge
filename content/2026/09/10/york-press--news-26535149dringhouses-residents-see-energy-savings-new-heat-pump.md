@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '## York'
+- Alex Lyon House
+- Dringhouses
+- Tang Hall
+- UK
+people:
+- Dave Merrett
+- Di Harris
+- George
+organisations:
+- City of York Council
+- Honeysuckle House
+- Net Zero Fund
+- York and North Yorkshire Combined Authority
 ---
 
 ## York residents cut energy use by nearly a third after housing upgrade

@@ -15,6 +15,28 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- East Midlands
+- England
+- London
+- North East
+- North West
+- Northern Ireland
+- Scotland
+- South East
+- South West
+- UK
+- Wales
+- West Midlands
+people:
+- Martin Balcombe
+organisations:
+- Bridgewater TI
+- Joseph Rowntree Foundation
+- ONS
+- Office for National Statistics
+- Reuters
+- State Pension
 ---
 
 *(Image: Getty Images)*

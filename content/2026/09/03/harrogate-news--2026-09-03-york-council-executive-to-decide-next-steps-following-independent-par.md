@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- Bishopthorpe Road
+- East Parade
+- Heworth
+- Micklegate
+- The Groves
+- York
+people:
+- Kate Ravilious
+organisations:
+- '## Council'
+- City of York Council
+- Executive
+- Local Transport Strategy
+- Minster Badge
+- Place Scrutiny Committee
 ---
 
 City of York Council’s Executive will meet on Wednesday 9 September 2026 to consider the recommendations of an independent review into community car parks and on-street parking charges, following sustained pressure from local traders and residents.

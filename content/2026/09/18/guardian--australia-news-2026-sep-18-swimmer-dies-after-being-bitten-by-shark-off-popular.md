@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- City of Wanneroo
+- Geraldton
+- Glenfield
+- Perth
+- Sorrento
+- WA
+- Western Australia
+people:
+- Darrel Haythornthwaite
+- Ingrid Mitchell
+- Jac
+- Jacqui Rapaic
+- Liam Staltari
+- Nah
+organisations:
+- 7News
+- 9News
+- AAP
+- ABC
+- Alkimos Surf Life Saving Club
 ---
 
 A man has died after being bitten by a shark off Sorrento beach in Perth’s north.

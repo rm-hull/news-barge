@@ -14,6 +14,28 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations:
+- Boston
+- Broadway
+- Chicago
+- London
+- Los Angeles
+- San Francisco
+- Toronto
+- Washington D.C.
+people:
+- Chris Fisher
+- Felix Barrett
+- Fly Davis’
+- Harry Potter
+- Jason Blum
+- Levi Holloway
+- Stephen Karam
+- Tracy Letts' “Bug
+organisations:
+- Entertainment Weekly
+- Freddy's
+- Punchdrunk
 ---
 
 Movie producer Jason Blum, who has revolutionized the modern horror genre, gets invited, as you might expect, to tons of plays billed as scary.

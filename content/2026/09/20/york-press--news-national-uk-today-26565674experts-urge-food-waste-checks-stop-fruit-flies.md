@@ -12,6 +12,11 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21477884.jpg?type=og-image
+locations: []
+people:
+- John Whiteley-Wilkinson
+organisations:
+- Acorn Environment Services
 ---
 
 ## Homeowners urged to do 1 check in September to avoid being invaded by fruit flies

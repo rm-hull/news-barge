@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/88fd/live/99708950-b6ae-11f1-8448-334c53ba4316.jpg
+locations:
+- London
+- New York
+- Team Europe
+- Wimbledon
+people:
+- Andre Agassi
+- Emma Raducanu
+organisations:
+- BBC Breakfast
+- Queen's Club
+- Team USA
+- The O2
+- Uniqlo
 ---
 
 'Don't judge the best of yourself by results' - Agassi's advice to Raducanu

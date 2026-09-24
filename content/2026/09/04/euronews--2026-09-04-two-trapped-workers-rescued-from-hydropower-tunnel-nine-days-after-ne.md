@@ -12,6 +12,26 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- China
+- China-Nepal
+- Kathmandu
+- Nepal
+- Tibet
+- Trishuli 3A
+- Trishuli River
+people:
+- Arnold Dix
+- Bikram Timilsina
+- Kabir Maharjan
+- Raja Ram Basnet
+- Sanjay Shah
+- Shri Ram Neupane
+- Sudan Gurung
+organisations:
+- AFP
+- Independent Power Producers Association of Nepal
+- International Tunnelling and Underground Space Association
 ---
 
 ## About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.

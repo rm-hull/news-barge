@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Australia
+- Creami
+- UK
+- US
+people:
+- Dole
+- Karen Freeman
+organisations:
+- Amazon
+- AppAdvice
+- Apple
+- Black & Copper
+- Bone & White Gold
+- CNET
+- Macworld
+- Midnight Blue
+- Mocha & Gold
+- Ninja CrushBOSS
+- Onyx —
+- SmoothSense
+- Stone & Gold
+- TechRadar
+- Tom’s Guide
+- WatchAware
+- iMore
 ---
 
 ### TechRadar Verdict

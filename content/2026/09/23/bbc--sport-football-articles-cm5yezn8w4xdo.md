@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46d9/live/7e4a8ca0-b769-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Copenhagen
+- Denmark
+- Finland
+- Wolfsburg
+people:
+- Christian Eriksen
+- Dieter Hecking
+organisations:
+- Ajax
+- Brentford
+- ICD
+- Inter Milan
+- Manchester United
+- Tottenham
+- Wolfsburg
 ---
 
 ![Christian Eriksen](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/46d9/live/7e4a8ca0-b769-11f1-a7b2-f3bdba1cd194.jpg)

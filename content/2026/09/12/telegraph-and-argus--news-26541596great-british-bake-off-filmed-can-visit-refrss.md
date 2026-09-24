@@ -13,6 +13,30 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Berkshire
+- Bishop’s Stortford
+- Cotswolds
+- Down Hall
+- Grade I
+- Harptree Court
+- Kent
+- Redbridge
+- Sandwich
+- Sarre Windmill
+- Somerset
+- UK
+- Welford Park
+- Welford Park House
+people:
+- Bake Off
+- Covid
+- Henry VIII
+- Nigella Lawson
+- Prue Leith
+organisations:
+- Channel 4
+- Valentines Mansion
 ---
 
 *(Image: Channel 4/Love Productions/PA Wire)*

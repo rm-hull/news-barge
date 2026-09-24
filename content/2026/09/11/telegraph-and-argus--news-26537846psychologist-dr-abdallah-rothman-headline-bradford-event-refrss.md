@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Al-Mustafa Centre
+- Bradford
+- Young Street
+people:
+- Abdallah Rothman
+- Farkhandah Faraz
+- Ms Faraz
+- Waseem Mahmood
+organisations:
+- Bradford Muslim College
+- Hijrah Hub Travels
 ---
 
 *(Image: Supplied)*

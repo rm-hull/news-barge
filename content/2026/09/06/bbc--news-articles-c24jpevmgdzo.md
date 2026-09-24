@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Abertridwr
+- Caerphilly
+- Cardiff
+- London
+- St Athan
+- Vale of Glamorgan
+people:
+- Caroline Sikkenk
+- Francis Bourgeois
+- James Engelsman
+- Lisa Allen
+- Rhiannon Thomas
+- Richard Hammond
+- Ronaldo
+- Sam Gronow-Walters
+- Thomas Holland
+organisations:
+- BOLD Wales
+- Piccadilly Lights
+- Pink Ribbon Foundation
+- Rhiannon
+- The Pink Ribbon Foundation
+- WhatsApp
 ---
 
 ![Rhiannon looking into the camera with a thoughtful expression on her face. She is almost completely bald.  She has a silver hoop nose ring and silver heart stud earrings.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fb25/live/ef6a93a0-aa79-11f1-ada1-797c5422f980.jpg)

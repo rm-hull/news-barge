@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford East
+- Eccleshill Recreation Ground
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

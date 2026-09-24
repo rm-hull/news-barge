@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2023/05/16/23/933352d4b8df2e94e9c5e0c57178949cY29udGVudHNlYXJjaGFwaSwxNjg0MzYxNDg3-2.21004912.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Folkestone
+- Folklestone
+- Grand Burstin Hotel
+- Marine Parade
+- The Harbour
+- Three Hills Sports Park
+people: []
+organisations:
+- Britannia Hotels Group
+- Folkestone Grand Burstin Hotel
+- Grand Burstin Hotel
+- Hythe District Council
+- KFRS’ Volunteer Response Team
+- Kent Fire and Rescue Service
+- Kent Police
+- The Salvation Army
 ---
 
 A huge fire at an iconic hotel is being treated as suspicious, police have said, as they appeal for witnesses and anyone with dashcam footage to come forward.

@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - Society & Culture
 - News & Politics
+locations:
+- England
+- Ghana
+- NORTH YORKSHIRE
+- Norway
+- Panama
+people:
+- Jon Fisher
+organisations:
+- 101 Great Goals
+- England
+- FOI
+- Freedom of Information
+- North Yorkshire Police
 ---
 
 **NORTH YORKSHIRE**— Newly published police statistics have revealed a significant escalation in local domestic abuse crimes recorded during key England match dates throughout the recent World Cup tournament.Data obtained from North Yorkshire Police via a Freedom of Information (FOI) request by researchers at 101 Great Goals shows that recorded domestic offences surged by 46 per cent on Tuesday, 23 June 2026, when England fought out a 0-0 group-stage draw against Ghana.The force logged 26 separate domestic abuse crimes during the fixture window, compared to a baseline average of fewer than 18 offences across the preceding four Tuesdays.

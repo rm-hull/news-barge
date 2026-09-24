@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- North East
+- North Yorkshire
+- Stockton
+- Sudan
+- Teesside
+- UK
+people:
+- Jonathan Murray
+- Sam Allan
+organisations:
+- Cleveland Police
+- NHS Organ Donor Register
+- University Hospitals Tees
 ---
 
 *(Image: Supplied)*

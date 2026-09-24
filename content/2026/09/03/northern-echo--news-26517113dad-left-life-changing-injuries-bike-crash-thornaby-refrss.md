@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Darlington
+- Thornaby
+- Thorntree Road
+people:
+- Nichola Lamport
+organisations:
+- Cleveland Police
+- Collision Investigation Unit
+- Youth Offending Team
 ---
 
 *(Image: NEWSQUEST)*

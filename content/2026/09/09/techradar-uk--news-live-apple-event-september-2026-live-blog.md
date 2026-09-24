@@ -11,6 +11,37 @@ image: https://cdn.mos.cms.futurecdn.net/2V5Cb4btANEft4SXe5HnTV-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Apple Park
+- Australia
+- California
+- Dynamic Island
+- Dynamic Islands
+- London
+- New York
+- Piccadilly
+- Seoul
+people:
+- John Ternus'
+- Mark Gurman
+- Steve Jobs
+- Won-joon Choi
+organisations:
+- ANC
+- AirPods Pro
+- Apple Watches
+- Axel Metz
+- Bloomberg
+- Duo
+- Galaxy Z Fold
+- Google
+- Gurman
+- HomePod
+- MX
+- Mobile eXperience
+- Samsung
+- Steve Jobs Theater
+- TechRadar
 ---
 
 ![An invite for Apple's 'Surprise and shine' event next to a mockup of a foldable iPhone on a yellow background](https://cdn.mos.cms.futurecdn.net/2V5Cb4btANEft4SXe5HnTV.jpg) 

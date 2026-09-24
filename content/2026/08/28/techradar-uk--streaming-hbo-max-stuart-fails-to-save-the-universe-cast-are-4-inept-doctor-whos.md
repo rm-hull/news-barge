@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations:
+- Virgin River
+people:
+- '## Stuart'
+- Bert
+- Chuck Lorre
+- David Tennant
+- Denise
+- George Cooper Sr.
+- Kevin Sussman
+- Kripke
+- Lauren Lapkus
+- Russell T Davies
+- Stuart Fails
+organisations:
+- BBC
+- Disney
+- Google News
+- HBO
+- Hallmark
+- IP
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Kevin Sussman as Stuart and David Tennant as the tenth Doctor Who](https://cdn.mos.cms.futurecdn.net/aghMDWJgyFLME2JhQZv3BZ.jpg) 

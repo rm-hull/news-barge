@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Allensway
+- Ireland
+- North East
+- North Yorkshire
+- Teesside
+- Thornaby
+- UK
+people:
+- Dean Fitzmaurice
+- McDonald
+organisations:
+- McDonald’s App
+- Newcastle United
+- Teesside McDonald's
+- Teesside McDonalds
 ---
 
 McDonalds has reopened its Thornaby restaurant today following a major makeover to improve customer experience.

@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bromley High Street
+- Church House Gardens
+- Elmfield Road
+- Ethelbert Road
+- High Street
+- London
+people:
+- Bromley
+- Peter Fortune
+organisations:
+- AA
+- Biggin Hill
+- Crimestoppers
+- KFC
+- London Ambulance Service
+- London’s Air Ambulance
+- Met Police
+- Metropolitan Police
 ---
 
 Seven people have been arrested after multiple people were stabbed in south-east London, Metropolitan Police said.

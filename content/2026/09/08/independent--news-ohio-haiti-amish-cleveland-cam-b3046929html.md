@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Cleveland
+- Haiti
+- Holmes County
+- Millersburg
+- Ohio
+- Tuscarawas County
+- U.S.
+people:
+- A. Tysen Duva
+- Defendant
+- Donald C. Nugent
+- Edward Emmett O’Farrell
+- Jeriah Mast
+- Sue Ogrocki
+organisations:
+- AP
+- Associated Press
+- CAM
+- Christian Aid Ministries
+- Lilly Endowment Inc
+- Old Order Amish
+- The Conversation US
+- U.S. Department of Justice’s Criminal Division
 ---
 
 A former missionary with an Ohio-based ministry pleaded guilty Tuesday to federal charges that he sexually abused two boys in Haiti, reaching an agreement with prosecutors that could lead to a prison sentence of at least 25 years.

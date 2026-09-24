@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Coney Street
+- Micklegate
+- Phoenix Boulevard
+- Strensall
+- Tennent Road
+- York
+people:
+- ANDY Burnham
+- Andy Burnham
+- Brayton
+- Gabriel Dahmani-Rodwell
+- Ivan Wootton
+- Peter Rickaby
+- Tony Fisher
+- WH Smith
+organisations:
+- City of York Council Planning Committee
+- Combined Authority
+- EU
+- MP
+- North Yorkshire Combined Authority
+- Post Office
+- TG Jones
+- WHSmith
 ---
 
 **'Such a shame we are losing York's old WH Smith for good'**

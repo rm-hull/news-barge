@@ -13,6 +13,26 @@ categories:
 - Sports
 - Health & Fitness
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/16/15/constituency-sports-report_1789556214_fcb46a43-e17b5c953e3b2aeb.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Easingwold
+- Humber
+- Ireland
+- UK
+- Wetherby
+- Yorkshire
+people:
+- Alec Shelbrooke
+- Jonathan Licht
+- Judy Murray
+organisations:
+- '## Wetherby'
+- Easingwold Town FC
+- Humber
+- Public First
+- Sky
+- Tadcaster Albion AFC
+- Wetherby Sports Association
+- Yorkshire
 ---
 
 # Wetherby and Easingwold named region's best-performing constituency for girls' participation in sport

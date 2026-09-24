@@ -12,6 +12,25 @@ image: null
 categories:
 - News & Politics
 - UK
+locations:
+- Maryland
+- U.S.
+- United States
+- White House
+people:
+- Deborah L. Boardman
+- Donald Trump
+- Joe Biden
+- Shana Khader
+- Valerie Gonzalez
+organisations:
+- 2026 Executive Order
+- Associated Press
+- Asylum Seeker Advocacy Project
+- Constitution
+- Institute for Constitutional Advocacy and Protection
+- Supreme Court
+- We Are CASA
 ---
 
 A federal judge has blocked President Donald Trump's latest attempt to limit birthright citizenship, granting a preliminary injunction against an executive order that the administration said would target “birth tourism.”

@@ -14,6 +14,30 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21493841.jpg?type=og-image
+locations:
+- Britain
+- Esplanade Gardens
+- Scarborough
+- South Bay
+people:
+- Anttoni James Numminen
+- Carl Les
+- Claire Wynne-Riley
+- Ms Wynne-Riley
+- Nic Harne
+- Rich Maw
+- Thomas Murray
+organisations:
+- LDRS
+- Local Democracy Reporting Service
+- NYC
+- North Yorkshire Council
+- Scarborough Spa
+- Scarborough Spa Cliff Lift
+- Scarborough Town Council
+- Scarborough'S Spa Cliff Lift
+- Spa Cliff Lift
+- Victorian Spa Cliff Lift
 ---
 
 Staff working on Britain’s oldest cliff lift have said they feel ‘sad and unvalued’ and that they have been ‘forgotten about’ after the funicular in Scarborough was shut down over safety concerns last month.  

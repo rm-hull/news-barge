@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Britain
+- Europe
+- UK
+- York Art Gallery
+people:
+- Beatrice Bertram
+- Christopher Nolan
+- Dante
+- Francesca
+- Homer
+- Jack Dee
+- Jean-Auguste-Dominique Ingres
+- John Flaxman
+- Josiah Wedgwood
+- Paolo
+- Polyphemus
+- Richard Johns
+- Turner
+- Ulysses
+- William Blake
+- William Etty
+- York
+organisations:
+- Claire Collinson Photography
+- University of York
+- Visit York Art Gallery
+- Wedgwood & Beyond
+- York Art Gallery
 ---
 
 *(Image: Claire Collinson Photography)*

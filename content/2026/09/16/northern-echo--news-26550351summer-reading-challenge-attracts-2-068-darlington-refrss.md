@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Cockerton
+- Darlington
+- England
+- Portugal
+- Spain
+- Sunderland
+- Teesside
+people:
+- Libby McCollom
+organisations:
+- BorrowBox
+- Cockerton Libraries
+- Darlington Council
+- Darlington Libraries
+- Darlington Library
+- Darlington Library App
+- DarlingtonLibraries
+- Department for Education and National Literacy Trust
+- Facebook
+- National Literacy Trust
+- Ryanair
 ---
 
 Hundreds of children and families took part in summer activities at Darlington’s libraries, boosting creativity, learning and reading while book borrowing soared.

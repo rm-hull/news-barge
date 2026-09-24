@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Aegean
+- Aliaga
+- Black Sea
+- Black Seas
+- Bosphorus Strait
+- Dardanelles Strait
+- Eregli
+- Iskenderun
+- Istanbul
+- Kocaeli
+- Marmara Sea
+- Silivri
+- Tugberk Imamoglu
+- Turkey
+- Turkish Straits
+people: []
+organisations:
+- Alsu
+- Bosphorus Command
+- Marine Traffic
 ---
 
 Turkey launched a search operation Wednesday off the coast of Istanbul after two ships collided and contact was lost with one vessel and its crew of 10, officials said.

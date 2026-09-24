@@ -13,6 +13,32 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Bayeux Around Britain
+- England
+- France
+- Great Court
+- Kyiv
+- London
+- UK
+- Windsor Castle
+people:
+- Andy Burnham
+- Brigitte Macron
+- Camilla
+- Emmanuel Macron
+- George Osborne
+- Harold Godwinson
+- Keir Starmer
+- King Charles
+- Lisa Nandy
+- Marie-France van Heel
+- Nicholas Cullinan
+organisations:
+- British Museum
+- Labour
+- Macrons
+- Macron’s
 ---
 
 On Wednesday, the King, the Queen, French president Emmanuel Macron and Prime Minister Andy Burnham are scheduled to view the Bayeux Tapestry together in London.

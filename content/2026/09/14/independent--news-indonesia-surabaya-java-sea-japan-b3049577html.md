@@ -13,6 +13,22 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Banjarmasin
+- Borneo Island
+- East Java
+- Indonesia
+- Japan
+- Java Sea
+- Masalembo
+- South Kalimantan
+- Surabaya
+- Trisakti
+people:
+- Mohammad Syafii
+organisations:
+- National Search and Rescue Agency
+- Virgo Transport 8
 ---
 
 Indonesian authorities intensified on Monday a search for dozens of people missing after a ferry overturned in bad weather in the Java Sea previous day.

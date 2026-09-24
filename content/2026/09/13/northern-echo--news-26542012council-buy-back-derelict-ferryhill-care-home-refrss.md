@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- Ferryhill
+- Feryemount House
+people:
+- Alan Strickland
+- Andrew Husband
+- Newton Aycliffe
+organisations:
+- Care Co Plus Ltd
+- Durham Constabulary
+- Durham County Council
+- Durham Reform UK
+- GOOGLE)* Durham County Council
+- Spennymoor
 ---
 
 *(Image: GOOGLE)*

@@ -13,6 +13,36 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Armenia
+- Central Asia
+- Greece
+- Kyrgyzstan
+- Mongolia
+- National Canine Centre
+- South Korea
+- Tajikistan
+- Tashkent
+- Turkmenistan
+- Uzbekistan
+people:
+- Ahmadjon Goyibov
+- Antonio Lo Parco
+- Elpida Kasapi
+- Jonibek Yusupov
+- Oliver Stolper
+organisations:
+- 7th Global Canine Forum
+- AI
+- Agency for the Control of Narcotic Drugs and Firearms
+- Belgian Shepherds
+- Customs Committee
+- Euronews
+- Greek Customs Service
+- Regional Office for Capacity Building for Europe
+- UN Office on Drugs and Crime
+- WCO Regional Canine Centre
+- World Customs Organisation
 ---
 
 ## From synthetic drugs to concealed cargo, trained dogs can detect what scanners may miss. At a WCO forum in Tashkent, experts showed how canine units and new technology are increasingly working side by side.

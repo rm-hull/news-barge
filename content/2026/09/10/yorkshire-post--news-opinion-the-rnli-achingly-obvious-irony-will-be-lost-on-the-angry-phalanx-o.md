@@ -16,6 +16,22 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Portsmouth
+- Small Island
+people:
+- '**–** Sorry'
+- '**–Segue'
+- Bill Bryson
+- Colin Firth
+- James
+- King
+- Neil
+organisations:
+- James’
+- RNLI
+- Royal National Lifeboat Institution
+- The Yorkshire Post
 ---
 
 # The RNLI: achingly obvious irony will be lost on the angry phalanx of seaboard warriors

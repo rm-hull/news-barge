@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Coppergate
+- York
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- Lucy Pittaway Art Gallery
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

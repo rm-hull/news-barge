@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bradford
+- Glasgow
+- Halifax
+- Manchester
+- UK
+people:
+- Carolyn Mendelsohn
+- Cory Rich
+- Hannah Davies
+- Henry Raby
+- KG
+- Kemmi Gill
+- Kirsty Taylor
+- Michael Rosen
+- Stu Freestone
+organisations:
+- Bradford’s City of Culture
+- Wordplay Magazine
 ---
 
 *(Image: Kirkpatrick Photography)*

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Mandale Road
+- Outram Street
+- Parliament Street
+- Stockton
+- Teesside
+- Thornaby
+- Victoria Bridge
+- Westbourne Street
+people:
+- Jonathan Christie
+- Man
+organisations:
+- CCTV
+- Cleveland Police
+- Cleveland Police)* Police
+- Stockton CID
 ---
 
 *(Image: Cleveland Police)*

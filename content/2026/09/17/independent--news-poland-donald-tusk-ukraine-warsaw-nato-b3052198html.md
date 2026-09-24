@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Europe
+- Kyiv
+- Moldova
+- Poland
+- Russia
+- Slovakia
+- U.S.
+- Ukraine
+- Warsaw
+people:
+- Donald Trump
+- Donald Tusk
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- NATO
+- Polish Alliance
+- Trump
+- Truth Social
+- U.S. Army
 ---
 
 Polish Prime Minister Donald Tusk warned on Thursday that Russia is planning hybrid strikes with drones or rockets on European countries supporting Ukraine, among them Poland.

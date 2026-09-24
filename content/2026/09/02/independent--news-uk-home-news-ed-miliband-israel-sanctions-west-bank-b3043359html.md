@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- East Jerusalem
+- Gaza
+- Israel
+- Middle East
+- Palestine
+- Palestinian West Bank
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Debbie Abrahams
+- Ed Miliband
+- Gideon Saar
+- Stephen Doughty
+organisations:
+- Commons
+- Foreign Office
+- Government
+- House
+- ICJ
+- International Court of Justice
+- Labour
+- Oldham East and Saddleworth
 ---
 
 Israel has cautioned that it will respond in kind should the UK impose sanctions over its plans to expand illegal West Bank settlements.

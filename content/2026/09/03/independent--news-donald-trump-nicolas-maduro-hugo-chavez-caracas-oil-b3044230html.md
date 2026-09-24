@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/03/15/APTOPIX_Venezuela_US_Oil_8
 categories:
 - News & Politics
 - UK
+locations:
+- Cabimas
+- Caracas
+- U.S.
+- United States
+- Venezuela
+people:
+- Chris Wright
+- Delcy Rodríguez
+- Donald Trump
+- Erwin Ayala
+- Hugo Chávez
+- Juan Pablo Arraez
+- Lisandro Castro
+- Nicolás Maduro
+- Romel Abreu
+- Ronal Rodríguez
+organisations:
+- Associated Press
+- Chevron
+- ConocoPhillips
+- ExxonMobil
+- International Monetary Fund
+- North American Blue Energy Partners
+- OPEC
+- PDVSA
+- Petróleos de Venezuela S.A
+- Universidad del Rosario
+- Venezuela Observatory at Colombia
 ---
 
 Nothing has shaped what it means to be Venezuelan today more than oil.

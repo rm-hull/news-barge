@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Frecce
+- Italy
+people: []
+organisations:
+- Intercity
+- Trenitalia
 ---
 
 **Euronews**

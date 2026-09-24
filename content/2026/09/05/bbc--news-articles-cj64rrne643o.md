@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Gulf of Oman
+- Iran
+- Israel
+- Kharg Island
+- Strait of Hormuz
+- US
+people:
+- Brad Cooper
+organisations:
+- Centcom
+- IRGC
+- Islamic Revolutionary Guard Corps
+- US Central Command
 ---
 
 ![An oil tanker in the Strait of Hormuz](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e249/live/f2d95940-a934-11f1-bb81-8fbd2d2d397c.jpg)

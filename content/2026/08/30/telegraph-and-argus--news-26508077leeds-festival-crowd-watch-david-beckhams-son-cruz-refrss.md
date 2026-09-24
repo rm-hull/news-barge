@@ -14,6 +14,24 @@ categories:
 - Sports
 - Arts & Culture
 - Travel
+locations:
+- Europe
+- Leeds
+- Reading
+- UK
+people:
+- Cruz Beckham
+- Dave
+- David
+- Jackie Apostel
+- Jeff Moore
+- Ms Apostel
+- Raye
+- Victoria Beckham
+organisations:
+- Instagram
+- PA Wire
+- The Breakers
 ---
 
 David and Victoria Beckham could not have been more proud as son Cruz Beckham took to the stage at Leeds Festival over the weekend.

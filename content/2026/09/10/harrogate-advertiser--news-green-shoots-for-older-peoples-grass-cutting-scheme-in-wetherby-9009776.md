@@ -11,6 +11,19 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Wetherby
+people:
+- Mark Dobson
+organisations:
+- Boston Spa
+- Outer North East Community Committee
+- Walton Parish Councils
+- Wetherby Town Council
+- Wetherby Young Offenders Institute
+- Wetherby in Support of the Elderly
+- WiSE
+- Youth Wellbeing Fund
 ---
 
 # Green shoots for older people’s grass cutting scheme in Wetherby

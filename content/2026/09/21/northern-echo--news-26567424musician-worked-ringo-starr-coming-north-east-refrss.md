@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21480553.jpg?type=og-image&xType=0&yType=156
+locations:
+- Alabama
+- Alnmouth
+- Europe
+- Hindmarsh Hall
+- Muscle Shoals
+- North East
+- UK
+- United States
+- Whitby
+people:
+- Alice Howe
+- Bonnie Raitt
+- Crosby
+- Freebo
+- Jim Shea
+- Joe Walsh
+- John Mayall
+- Ringo Starr
+organisations:
+- Alice Howe & Freebo Live
+- Americana UK
+- FAME Studios
+- Stills & Nash
+- The Folk Music Notebook
 ---
 
 A musician whose bass playing has featured alongside stars including Ringo Starr, Bonnie Raitt and Crosby, Stills & Nash is set to perform in the North East this autumn.

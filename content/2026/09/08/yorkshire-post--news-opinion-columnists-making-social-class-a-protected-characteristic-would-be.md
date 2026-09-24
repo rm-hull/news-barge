@@ -16,6 +16,15 @@ categories:
 - York
 - Society & Culture
 - Education & Learning
+locations:
+- England
+people:
+- Danny Lawson
+- Matt Bromley
+organisations:
+- Building Equity in Education
+- Crossing Paths
+- Sutton Trust
 ---
 
 # Making social class a protected characteristic would be an important step towards an education system that values potential over privilege - Matt Bromley

@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Hartlepool
+- UK
+people:
+- Allwyn
+- Andy Carter
+- Yui Mok
+organisations:
+- Allwyn
+- Hartlepool
+- Millionaire Maker
+- National Lottery
+- PA Wire
 ---
 
 *(Image: Yui Mok/PA Wire)*

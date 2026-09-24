@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- Minneapolis
+- US
+- White House
+people:
+- Donald Trump
+- Pete Aguilar
+organisations:
+- CR
+- Congress
+- DHS
+- Department of Homeland Security
+- House of Representatives
+- Immigration and Customs Enforcement and Customs and Border Protection
+- Senate
+- Trump
+- US House of Representatives
 ---
 
 The US House of Representatives on Tuesday approved legislation to prevent a government shutdown through the midterms, as both parties opted to defuse a volatile dispute ahead of the November elections that will decide the balance of power in Congress for the final two years of Donald Trump’s presidency.

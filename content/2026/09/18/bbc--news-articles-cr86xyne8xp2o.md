@@ -13,6 +13,55 @@ categories:
 - History
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e682/live/c7e0e1c0-b377-11f1-9023-9990160baacc.jpg
+locations:
+- Buckingham Palace
+- England
+- London
+- Paris
+- Princess of Wales
+- USA
+- Washington
+- Westminster Abbey
+people:
+- Anthony Seldon
+- Camilla
+- Charles Spencer
+- Diana Princess
+- Earl Spencer
+- Earl Spencer.
+- Elizabeth
+- Helen Mirren
+- Jane Fellows
+- Jenny Bond
+- King Charles
+- King Charles III
+- Laura Kuenssberg
+- Mummy
+- Nick Hatter
+- Pauline Maclaran
+- Prince Charles
+- Prince Harry
+- Prince William
+- Princess of Wales
+- Richard Palmer
+- Sarah McCorquodale
+- Tony Blair
+- Uncle Charles
+- Valentine Low
+organisations:
+- BBC One
+- BBC iPlayer
+- Duke of Edinburgh
+- Duke of Sussex
+- RAF Northolt
+- Royal Family
+- Royal Household
+- Royal Watch
+- The American Red Cross
+- The Princess Of Wales
+- The Queen
+- Westminster Abbey
+- YouGov
 ---
 
 ![Diana, The Princess Of Wales Visits Washington, USA for a Gala Dinner held by The American Red Cross, to raise funds for landmine victims around the world.  1997](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/dc52/live/508ec510-b377-11f1-9023-9990160baacc.jpg)

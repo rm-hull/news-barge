@@ -14,6 +14,13 @@ categories:
 - Germany
 - News & Politics
 - Travel
+locations:
+- Berlin
+- Brandenburg
+people: []
+organisations:
+- DWD
+- German Weather Service
 ---
 
 © dpa

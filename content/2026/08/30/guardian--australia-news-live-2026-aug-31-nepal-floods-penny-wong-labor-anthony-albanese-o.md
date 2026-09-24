@@ -11,6 +11,56 @@ image: https://i.guim.co.uk/img/media/704cc31ebeb2c73cc3c9bc194580194504885c2c/7
 categories:
 - UK
 - News & Politics
+locations:
+- Devighat
+- Gyirong
+- Himalayas
+- Kathmandu
+- Likhu River
+- Nepal
+- Nepal-China
+- Nuwakot
+- One Nation
+- Queensland
+- Russia
+- Secret Harbour
+- Trishuli
+- Ukraine
+- WA
+- Western Australia
+people:
+- Barnaby Joyce
+- Luke Herdegen
+- Malcolm Roberts
+- Mark Lowe
+- Matt Thistlethwaite
+- Michael Gorton
+- Michelle Rowland
+- Mick Tsikas
+- Oscar Jenkins
+- Pauline Hanson
+- Penny Wong
+- Richard Wainwright
+organisations:
+- AAP Australian
+- AAP Joyce
+- AAP One Nation
+- ABC
+- ABC’s Radio National
+- AFP
+- Athit Perawongmetha
+- Emergency Action Alliance
+- Georgia Tree
+- IDLock
+- Labor
+- One Nation
+- RAAF
+- RN
+- Radio National Breakfast
+- Reuters
+- Royal Australian Air Force
+- Telegram Account
+- The Australian
 ---
 
 One Nation’s Barnaby Joyce said the party wouldn’t get ‘carried away’ after claiming a victory in the Secret Harbour state byelection in Western Australia. Photograph: Michael Gorton/AAP

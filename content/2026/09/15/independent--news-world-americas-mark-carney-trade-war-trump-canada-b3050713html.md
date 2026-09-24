@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Europe
+- Fort Smith
+- Northwest Territories
+- Ottawa
+- Toronto
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- Canada Investment Summit
+- European Parliament
+- Trump
 ---
 
 Canada aims to emerge from its trade conflict with the United States as a stronger and more self-reliant economy, Canadian Prime Minister Mark Carney announced Tuesday, indicating Ottawa is prepared to hold out for favorable terms rather than rush into a trade pact with Washington.

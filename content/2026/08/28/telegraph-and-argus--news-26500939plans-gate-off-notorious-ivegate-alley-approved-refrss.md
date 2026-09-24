@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- '## Gate'
+- Bradford
+- Ivegate
+- Queensgate
+- The Drum Winder
+- Tyrell Street
+- Tyrrel Street
+- West Yorkshire
+- YOUR
+people:
+- Jon Ackroyd
+organisations:
+- Bradford CID
+- Bradford Council
+- Crimestoppers
+- LiveChat
+- Public Notice Portal
+- The Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

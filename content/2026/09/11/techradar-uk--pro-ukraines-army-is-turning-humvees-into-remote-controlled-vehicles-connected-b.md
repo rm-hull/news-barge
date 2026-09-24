@@ -11,6 +11,29 @@ description: Why spend resources building new war robots when you already own 5,
 image: https://cdn.mos.cms.futurecdn.net/XraUSAVdVR8XEueiDifoCR-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Starlink
+- US
+- Ukraine
+people:
+- Kaban
+- Rahim Amir
+organisations:
+- 3rd Army Corps
+- 429th Separate Unmanned Systems Regiment
+- 49th Brigade
+- Achilles
+- DELTA
+- Drone Fight Group
+- Google News
+- Kaban
+- Ministry of Defense
+- PC
+- PCs
+- RGB
+- SFF
+- SpaceX
+- TechRadar Pro
 ---
 
 ![A US-made M1151 Enhanced Armament Carrier also known as a Humvee](https://cdn.mos.cms.futurecdn.net/XraUSAVdVR8XEueiDifoCR.jpg) 

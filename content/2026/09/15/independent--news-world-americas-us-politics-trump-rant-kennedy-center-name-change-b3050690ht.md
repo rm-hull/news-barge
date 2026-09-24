@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/08/13/19/06/GettyImages-2280577682.
 categories:
 - News & Politics
 - UK
+locations:
+- Kennedy Center
+- Ohio
+- U.S.
+- Washington
+- White House
+people:
+- Christopher Cooper
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- Joyce Beatty
+- Kennedy
+- Norm Eisen
+organisations:
+- Beatty
+- Board of Trustees
+- Building
+- Center “
+- Congress
+- Cooper
+- Court
+- Department of Justice
+- Endowment Fund
+- John F. Kennedy Center
+- Justice Department
+- Kennedy Center
+- Kennedy Center Act
+- The Independent
+- Trump Kennedy Center Fund
 ---
 
 President Donald Trump ranted Tuesday that the Kennedy Center is “in a virtual state of collapse” and that a falling chunk of concrete and steel left a security guard “60 seconds away from certain death,” as he lashed out on Truth Social just before a federal judge permanently blocked having his name inscribed on the building for a second time.

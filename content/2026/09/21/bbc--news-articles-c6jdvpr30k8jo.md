@@ -13,6 +13,30 @@ categories:
 - Comedy & Entertainment
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5d7/live/fa83c740-b599-11f1-abe6-535e7b14de4c.jpg
+locations:
+- Little Britain
+people:
+- David Mitchell
+- David Walliams'
+- Dom Joly
+- Jimmy Mulville
+- Matt Lucas
+- Robert Webb
+- Webb Look
+organisations:
+- BBC News
+- Bafta
+- Black Lives Matter
+- BritBox
+- Britbox
+- Hat Trick Productions
+- Netflix
+- Radio 4
+- The BBC
+- The Times
+- Trigger Happy TV
+- Webb Sound
+- iPlayer
 ---
 
 ![David Mitchell (left) and Robert Webb sitting on a red sofa and smiling directly into the camera](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d5d7/live/fa83c740-b599-11f1-abe6-535e7b14de4c.jpg)

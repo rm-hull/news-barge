@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- UK
+people:
+- Ben Wallace
+- Nigel Farage
+- Robert Jenrick
+- Suella Braverman
+- Tim Montgomerie
+- Tommy Robinson
+- Zia Yusuf
+- Zia Yusuf.
+organisations:
+- BBC
+- Reform UK
+- Tory
 ---
 
 A former key ally of Nigel Farage and high-profile figure within Reform UK has quit the party following a public row in the wake of his suspension.

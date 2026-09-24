@@ -12,6 +12,27 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Channel Islands
+- England
+- London
+- Normandy
+- North Yorkshire
+- Rievaulx Abbey
+- UK
+people:
+- Charles Alfred Stothard
+- Harold Godwinson
+- Iona Keen
+- Nicholas Cullinan OBE
+- William
+organisations:
+- Bayeux Around Britain
+- British Museum
+- English Heritage
+- Rievaulx Abbey
+- Society of Antiquaries
+- WorldQuant
 ---
 
 Rare Victorian casts of the Bayeux Tapestry are set to go on display.

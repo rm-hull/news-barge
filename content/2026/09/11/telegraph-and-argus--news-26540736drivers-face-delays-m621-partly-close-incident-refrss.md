@@ -12,6 +12,27 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- A643 Elland Road
+- Beeston
+- Belle Isle Road
+- Elland Road
+- Junction 1
+- Junction 2
+- Junction 2A
+- Junction 4
+- Junction 6
+- Leeds
+- M62
+people: []
+organisations:
+- A61 Hunslet Distributor
+- Hunslet Distributor
+- Inrix
+- Junction 4
+- M621
+- National Highways
+- West Yorkshire Police
 ---
 
 *(Image: PA)*

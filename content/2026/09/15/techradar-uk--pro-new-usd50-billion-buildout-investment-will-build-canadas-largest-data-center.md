@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Saskatchewan Canada
+people:
+- Craig Hale
+- Mirko Bibic
+organisations:
+- Bell AI Fabric
+- Bell's
+- CA
+- Craig’s
+- Google News
+- TechRadar Pro
 ---
 
 ![Stylized image of a data center rack with electric blue lines running across it](https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe.jpg) 

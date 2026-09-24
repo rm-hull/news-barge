@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Hardware
 - News & Politics
+locations:
+- Mount Pleasant
+- Oregon
+- U.S.
+- Virginia
+- White House
+- Wisconsin
+people:
+- Donald Trump
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Google News
+- House of Representatives
+- Jowi Morales
+- Microsoft
+- Ratepayer Protection Pledge
+- Senate
+- U.S. House of Representatives
+- Virginia’s State Corporation Commission
 ---
 
 ![power lines as seen from above](https://cdn.mos.cms.futurecdn.net/CLB7qJReTEKaR87xGroG8n.png) 

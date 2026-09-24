@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d201/live/89f28490-b6c9-11f1-991e-856baf8e71f7.jpg
+locations:
+- Bay of the Seine
+- Bayeux
+- Cherbourg
+- Dover
+- Gosport
+- Hampshire
+- Normandy
+- Portsmouth
+- UK
+- Vierville-sur-Mer
+people:
+- Caroline Dinenage
+- Dame Caroline
+- Daniel Thomas
+- Danny Tommo
+organisations:
+- BBC Kent
+- Border Force
+- Border Security Command
+- Gosport
+- HM Coastguard
+- Hampshire & Isle of Wight Constabulary
+- Home Office
+- Maritime and Coastguard Agency
+- PA Media
+- RNLI
+- Royal National Lifeboat Institution
 ---
 
 ![Protesters in Gosport, Hampshire](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d201/live/89f28490-b6c9-11f1-991e-856baf8e71f7.jpg)

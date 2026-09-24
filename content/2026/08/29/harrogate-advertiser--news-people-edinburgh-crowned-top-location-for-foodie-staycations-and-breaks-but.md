@@ -13,6 +13,36 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Bristol
+- Britain
+- Cambridgeshire
+- Cornwall
+- East Sussex
+- Edinburgh
+- Harrogate
+- North Yorkshire
+- Padstow
+- Scotland
+- UK
+- Valley Drive
+- York
+people: []
+organisations:
+- Bath
+- Brighton
+- Bristol
+- Cambridge
+- Edinburgh
+- Harrogate
+- OnePoll
+- Oxford
+- Oxfordshire
+- Padstow
+- Somerset
+- St Ives
+- Sykes Holiday Cottages
+- York
 ---
 
 # Edinburgh crowned top location for foodie staycations and breaks but Harrogate also rated highly

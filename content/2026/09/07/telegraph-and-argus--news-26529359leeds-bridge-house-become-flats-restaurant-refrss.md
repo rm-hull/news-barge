@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Food & Cooking
 - Arts & Culture
+locations:
+- Adelphi
+- Hunslet Road
+- Leeds Bridge
+- Leeds Bridge House
+- YOUR
+people: []
+organisations:
+- Leeds City Council
+- Northpoint
+- Property Investment Complete North West
+- Public Notice Portal
 ---
 
 *(Image: Google)*

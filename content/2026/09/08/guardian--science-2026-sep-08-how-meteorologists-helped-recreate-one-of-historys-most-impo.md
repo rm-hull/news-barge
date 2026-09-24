@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Atlantic
+- Bletchley Park
+- Ireland
+- Normandy
+- Sword
+- UK
+- US
+people:
+- Andrew Scott
+- Brendan Fraser
+- Capt James Stagg
+- Catherine Ross
+- Ed Hawkins
+- Gen Eisenhower
+- Stephen Burt
+organisations:
+- Allied
+- Met Office
+- Royal Air Force
+- University of Reading
 ---
 
 Dressed in a Royal Air Force uniform and sporting a trim moustache, Andrew Scott looks slightly queasy – as well he might. Behind him is a huge map of the Channel, and in front of him is Brendan Fraser, looming with a request: “I need a forecast,” he says.

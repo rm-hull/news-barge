@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/gyGUoBjdvj5P9jazUvnSrf-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- UK
+people:
+- Wayne Williams
+organisations:
+- Amazon
+- Epson Ecotank
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![An Epson EcoTank ET-2861 printer on a blue background next to a TechRadar badge that reads 'Big Savings'](https://cdn.mos.cms.futurecdn.net/gyGUoBjdvj5P9jazUvnSrf.jpg) 

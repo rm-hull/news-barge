@@ -13,6 +13,29 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Danny Lawson
+- Full Sutton
+- HMP Millsike
+- PA
+- Pocklington
+- York HMP Millsike
+people:
+- Danny Lawson
+- Mitie
+- Paul Newton
+- Rebecca Major
+organisations:
+- HM Prison and Probation Service
+- HMP Millsike
+- IMB Millsike
+- Independent Monitoring Board
+- Interim Director
+- MOJ
+- Ministry of Justice
+- Mitie Care and Custody
+- PA Wire
+- The Press
 ---
 
 ## 'Unready, understaffed and unsafe' - report on 'chaotic' start for prison near York

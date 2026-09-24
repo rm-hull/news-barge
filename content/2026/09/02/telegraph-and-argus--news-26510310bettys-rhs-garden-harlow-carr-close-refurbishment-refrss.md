@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Harrogate
+people:
+- Liz Thwaite
+- Nicky Sellers
+organisations:
+- Bettys Café Tea Rooms
+- Bettys Harlow Carr
+- RHS Garden Harlow Carr
+- Yorkshire
 ---
 
 *(Image: Supplied)*

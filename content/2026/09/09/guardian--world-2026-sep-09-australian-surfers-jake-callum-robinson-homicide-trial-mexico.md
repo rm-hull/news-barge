@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Mexico
+- Pacific
+- United States
+people:
+- Callum Robinson
+- Jack Carter Rhoad
+- Jake
+- Martin Robinson
+- Natalie
+- Page
+organisations: []
 ---
 
 The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that his life had been turned into hell, as the high-profile trial continued into its second day.

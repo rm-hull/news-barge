@@ -14,6 +14,40 @@ categories:
 - History
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458548.jpg?type=og-image
+locations:
+- Bradford
+- Godwin Street
+- Ivegate
+- Rawson Place
+- YOUR
+- Yorkshire
+people:
+- Ivegate
+- JB Priestley
+- Philip Smith
+- Pie Tom
+- Richard Oastler
+- Tripe Stall
+organisations:
+- BBC Postscripts
+- Bradford Council
+- Darley Street Market
+- Hey’s Tripe Stall
+- John Street Market
+- Kirkgate Market
+- Lockwood
+- Mawson
+- Mechanics’ Institute
+- Newsquest
+- Oastler Shopping Centre
+- Pie Tom’s
+- Public Notice Portal
+- Rawson Market
+- Rawson Place Market
+- Robert’s
+- Swan Arcade
+- Treasury Loans’ Office
+- Victorian Kirkgate Market
 ---
 
 ### What is the Public Notice Portal?

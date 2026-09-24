@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Brighton
+- Britain
+- Europe
+- Europe’
+- PA
+- Russia
+- UK
+- Ukraine
+- United Kingdom
+people:
+- Andy Burnham
+- Anthony Seldon
+- David Maddox
+- Donald Trump
+- Keir Starmer
+- Millie Cooke
+- Paul Nowak
+- Peter Byrne
+organisations:
+- Brexit
+- Budget
+- EU
+- European Union
+- Labour
+- TUC Congress
+- The Independent
+- Tories
+- Tory Party
 ---
 
 Britain’s most powerful union leader has told Andy Burnham that the “time is now” for a new agreement to develop closer ties between the UK and the EU, warning that “we're all paying the price for that bad Brexit deal” agreed under the Conservatives.

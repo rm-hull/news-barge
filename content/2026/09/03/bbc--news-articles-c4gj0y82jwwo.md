@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bayeux
+- Britain
+- Brussels
+- City of London
+- Europe
+- France
+- Palace
+- UK
+people:
+- Andy Burnham
+- Charles III
+- Christopher Harbone
+- Emmanuel Macron
+- Harold
+- John Healey
+- Kemi Badenoch
+- Nigel Farage
+- Tan Dhesi
+organisations:
+- Badenoch
+- British Museum
+- Burnham
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- European Space Agency
+- European Union
+- Financial Times
+- Guardian
+- Labour
+- Macron
+- Metro
+- Reform UK
+- Sun
+- The Telegraph
 ---
 
 ![The headline on the front page of the Daily Telegraph reads: “Tories will cut benefits to hit 3pc on defence”.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/cbbd/live/37f18ea0-a717-11f1-b109-879e35c24276.jpg)

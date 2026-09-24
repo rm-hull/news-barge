@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Albuquerque
+- Bernalillo County
+- Bernalillo County Metropolitan Detention Center
+- Copper Hills
+- New Mexico
+- Roswell
+people:
+- DA Bregman
+- Ervin Gutierrez
+- Kamyl Serrano
+- Nathaniel Cavazos
+- Sam Bregman
+organisations:
+- KOAT
+- KOB 4
 ---
 
 A New Mexico man has been accused of killing his cousin during an argument over how much heat the peppers in their enchiladas packed, according to police.

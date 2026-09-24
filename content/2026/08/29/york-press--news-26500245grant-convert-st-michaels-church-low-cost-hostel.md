@@ -13,6 +13,43 @@ categories:
 - York
 - Travel
 - History
+locations:
+- Cold Kirby
+- Cold Kirby A
+- England
+- Grade II
+- North York Moors
+- North York Moors National Park
+- North York Moors St Michaell's Church
+- North York Moors'
+- Pilgrim Trail
+- Saint Aelred
+- Saint Michael's Church
+- Saint Michael's Lodge
+- Saint Michael’s Lodge
+- Sutton Bank Centre
+people:
+- Cold Kirby
+- George Jabbour
+- Helen Featherstone
+- Ian Robinson
+- Mel Burnside
+- Michael
+- Michael’s Church
+- Michael’s Lodge
+organisations:
+- Cleveland Way National Trail
+- Historic England
+- National Lottery
+- National Lottery Heritage Fund
+- North Yorkshire Council
+- Pilgrim Trail Society
+- Pilgrim Trail Society CIO
+- Project Lead
+- Saint Aelred
+- Saint Michael’s Lodge Project
+- The National Lottery Heritage Fund
+- The Saint Aelred
 ---
 
 ## Closed church could soon offer affordable accommodation on the North York Moors

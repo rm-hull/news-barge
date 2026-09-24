@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Horton
+- Lake District
+- Lancashire
+- Ripon
+- Ullswater
+people:
+- Jane Carpenter
+- Penny Hunt
+- Stuart Minting
+organisations:
+- RSPCA
+- Yorkshire Dales Wildlife Rescue
 ---
 
 # How this year's dry summer is having a profound impact on Yorkshire's wild animals

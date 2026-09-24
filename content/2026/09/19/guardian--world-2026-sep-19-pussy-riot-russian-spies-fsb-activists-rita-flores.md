@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/7239a213f6a6b870f38cdd441ceed98b5b55d3a3/0_328_1448_1157/master/1448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4d46260865c550db2a633675e6ff72f
+locations:
+- Kremlin
+- Moscow
+- Poland
+- Russia
+- Serbia
+- Ukraine
+people:
+- '![Flores'
+- Dmitry Zakhvatov
+- Ivan
+- Jacket
+- Lucy Shtein
+- Margarita Konovalova
+- Masha Alekhina
+- Pyotr Verzilov
+- Rita Flores
+organisations:
+- FSB
+- Guardian
+- Instagram
+- Pussy Riot
 ---
 
 First came the blackmail and death threats to secure cooperation, then came a series of tasks, each more sinister than the last: to inform on fellow activists, to elicit personal information from protest-minded artists and – eventually – to help with a plot to kidnap and murder a Kremlin enemy.

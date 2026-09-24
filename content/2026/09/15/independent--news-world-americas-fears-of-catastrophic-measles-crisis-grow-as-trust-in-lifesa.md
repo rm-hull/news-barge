@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Pennsylvania
+- South Carolina
+- U.S.
+- Utah
+people:
+- Donald Trump
+- Robert F. Kennedy Jr.
+organisations:
+- CDC
+- Congress
+- Reuters/Ipsos
+- Trump
 ---
 
 Public confidence in vaccines for fatal childhood illnesses such as measles has eroded in the U.S., a new Reuters/Ipsos survey shows, posing a challenge as the country faces its most severe measles surge in decades.

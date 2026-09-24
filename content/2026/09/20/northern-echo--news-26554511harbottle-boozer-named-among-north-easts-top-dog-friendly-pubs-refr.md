@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21462885.jpg?type=og-image&xType=0&yType=101
+locations:
+- Britain
+- Harbottle
+- North East
+- North Yorkshire
+- Northumberland National Park
+- UK
+people:
+- Brandling Villa
+organisations:
+- Harbottle
+- Newcastle
+- Rover
+- Star Inn
+- Tavern Testers'
+- The Star Inn
+- TripAdvisor
 ---
 
 A village pub in the heart of rural Northumberland has earned recognition as one of the North East's top five dog-friendly pubs.

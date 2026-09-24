@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Great North Run
+- Middlesbrough Velodrome
+- North East of England
+- Northern Ireland
+- PA
+- Teesside
+- United States
+people:
+- Andy Burnham
+- Dolly Parton
+- Echo
+- Frances Connolly
+- Lewin Tubuna
+- Paddy
+- Paul Hewitson
+- TOM WILKINSON
+organisations:
+- A66
+- Aston Martin
+- Cartier
+- Hartlepool
+- PFC Trust
 ---
 
 *(Image: TOM WILKINSON/ PA WIRE)*

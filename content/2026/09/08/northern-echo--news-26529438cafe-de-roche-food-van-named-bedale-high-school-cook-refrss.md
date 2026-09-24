@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- Bedale
+- County Durham
+people:
+- Annette De Roche
+- Café De Roche
+- Chris Stokes
+organisations:
+- Bedale High School
+- Café De Roche
 ---
 
 *(Image: Supplied)*

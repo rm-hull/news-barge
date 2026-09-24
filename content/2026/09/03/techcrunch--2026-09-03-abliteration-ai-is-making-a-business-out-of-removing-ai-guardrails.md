@@ -12,6 +12,27 @@ image: https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecuri
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Devon
+- Europe
+- UK
+people:
+- Ahmed Aly
+- Alessio Lomuscio
+- Andrew Yoon
+- David Slater
+- Devon
+organisations:
+- AI
+- Abliteration.ai
+- Abliteration.ai’s
+- Armadin
+- CivAI
+- Devon
+- Fabraix
+- Safe Intelligence
+- TechCrunch
+- Z.ai’s
 ---
 
 It just became much easier to access one of the world’s most capable open-weight AI models, stripped of its guardrails and refusals to perform harmful tasks.

@@ -16,6 +16,25 @@ categories:
 - Travel
 - History
 - Sports
+locations:
+- Aysgarth Falls
+- Boroughbridge
+- Dales
+- Easingwold
+- Grassington
+- Greenhow Hill
+- Grinton
+- Harrogate
+- Helmsley
+- Leyburn
+- Pateley Bridge
+- Ripon
+- Wensleydale
+people:
+- Greets Moss
+organisations:
+- Ripon
+- Yorkshire Dales
 ---
 
 # Timetable: Ripon, Pateley Bridge and iconic Dales countryside welcome the Tour of Britain this weekend

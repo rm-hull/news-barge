@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Harrogate Town
+- Rudding Park
+people:
+- Dorothy
+- Irving Weaver
+- Karen Tyson
+- Sarah Barry
+- Simon Weaver
+organisations:
+- Community Foundation
+- EFL
+- Harrogate Town
+- Harrogate Town AFC
+- Harrogate Town Community Foundation
+- Rudding
+- York RLFC
 ---
 
 Harrogate Town AFC have appoined Karen Tyson as Managing Director, subject to regulatory approval, bringing more than 20 years of senior leadership experience across hospitality, sport and business to the club.

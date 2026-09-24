@@ -11,6 +11,22 @@ description: SweepLED is cheap, accurate, and easy to use, and it can spot hidde
 image: https://cdn.mos.cms.futurecdn.net/4vpZp5qqy56tjehxfevZfh-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Airbnb
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+- Jun Han
+organisations:
+- Gizmodo
+- Google News
+- KAIST
+- Korea Advanced Institute of Science and Technology
+- PC Explorer
+- SweepLED
+- The Hardware Handbook
 ---
 
 ![SweepLED](https://cdn.mos.cms.futurecdn.net/4vpZp5qqy56tjehxfevZfh.jpg) 

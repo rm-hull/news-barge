@@ -12,6 +12,30 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- London
+- The Broadway
+people:
+- Easther
+- Edele
+- Ellie Sax
+- Ian Ward
+- Keavy Lynch
+- Kéllé Bryan
+- Lindsay Armaou
+- Louise Redknapp
+- Mike Simmonds
+- Rob-B-Williams
+- Robbie Williams
+- Sinéad O’Carroll
+- Vernie Bennett
+organisations:
+- Bradford
+- Eternal
+- Liberty X
+- Newsquest
+- Punjabi Roots
 ---
 
 THE date for Bradford's Christmas lights switch-on has been revealed.

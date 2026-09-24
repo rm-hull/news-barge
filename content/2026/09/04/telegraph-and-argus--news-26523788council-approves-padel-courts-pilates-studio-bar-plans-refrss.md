@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Burmantofts
+- Dolly Lane
+- Leeds
+- St James’s University Hospital
+- UK
+- YOUR
+people: []
+organisations:
+- CPW Planning
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: CPW Planning)*

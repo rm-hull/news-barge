@@ -13,6 +13,29 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Adelaide Pre-release Centre
+- Snowtown
+- South Australia
+people:
+- Barry Lane
+- David Lovell KC
+- Frances Nelson KC
+- James Vlassakis
+- John Justin Bunting
+- Karen Davies
+- Mark Haydon
+- Ms Davies
+- Ray Davies
+- Robert Joe Wagner
+- Ronald Lane
+- Sarah Quick
+- Stephen Pallaras
+organisations:
+- 7NEWS
+- ABC News
+- South Australia Court of Appeal
+- South Australia Parole Board
 ---
 
 The youngest person jailed for the Snowtown murders in Australia is set to walk free after 26 years in what the families of the victims are calling a “distressing” development.

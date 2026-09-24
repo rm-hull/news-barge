@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bangkok
+- Thailand
+people:
+- Anutin Charnvirakul
+organisations:
+- Board of Investment
+- Efosa
+- Google News
+- TechRadar Pro
+- Via The Nation
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

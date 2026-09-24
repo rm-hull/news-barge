@@ -13,6 +13,40 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- California
+- Denver
+- Minneapolis
+- New York
+- San Antonio
+- Syracuse
+- Texas
+- U.S.
+- United States
+- then-White House
+people:
+- Donald Trump
+- Janet Murguía
+- Karoline Leavitt
+- Markwayne Mullin
+- Mike Johnston
+- Renee Good
+- Steve Bannon
+- Todd Blanche
+- Todd Lyons
+- Virginia Kase Solomón
+organisations:
+- Common Cause
+- Congress
+- Conservative Political Action Conference
+- Department of Homeland Security
+- Homeland Security
+- Immigration and Customs Enforcement
+- Senate
+- The Independent
+- Trump
+- UnidosUS
+- then-Acting ICE
 ---
 
 A coalition of civil rights groups and voting rights advocates are suing to block Donald Trump’s administration from deploying immigration enforcement agents to polling places on Election Day.

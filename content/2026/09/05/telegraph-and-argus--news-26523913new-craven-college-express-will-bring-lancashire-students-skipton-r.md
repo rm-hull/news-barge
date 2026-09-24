@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Education & Learning
 - Travel
+locations:
+- Aireville Campus
+- Barnoldswick
+- Colne
+- Earby
+- East Lancashire
+- Nelson Bus Station
+- Skipton
+people:
+- Anita Lall
+- David Wallington
+- Gareth Dixon
+- Maria Jones
+- Nelson
+organisations:
+- Aireville Campus
+- Craven College
+- Craven College Express
+- Transdev
 ---
 
 A NEW daily bus route is set to make college journeys easier for students travelling to Skipton from East Lancashire.

@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://mmo.aiircdn.com/409/664b1ad638155.jpg
+locations:
+- Catterick
+- Civic Centre
+- Harrogate
+- North Yorkshire
+- Norton
+- Ripon —
+- Scarborough
+- Selby
+people:
+- Cllr Wilkinson
+- Peter Wilkinson
+organisations:
+- Home Office
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/664b1ad638155.jpg)

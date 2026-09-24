@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cff/live/5b57fb90-b4e1-11f1-9da2-53121c9abf16.jpg
+locations:
+- Brazil
+- Brighton
+- Devon
+- UK
+- Westminster
+people:
+- Ed Davey
+- Julian Brazil
+- Laura Kuenssberg
+- Luke Tryl
+- Roz Savage
+- Vince Cable
+organisations:
+- BBC
+- Devon County Council
+- Greens and Reform UK
+- Houses of Parliament.
+- Julian Brazil
+- Labour
+- Lib Dem
+- Lib Dems
+- Liberal Democrat council
+- More in Common
+- Politics Essential
 ---
 
 ![Julian Brazil, a bearded man in an open necked shirt and Lib Dem lanyard, speaks to the BBC in the exhibition hall at the Lib Dem conference](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/2cff/live/5b57fb90-b4e1-11f1-9da2-53121c9abf16.jpg)

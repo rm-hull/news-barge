@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Kremlin Russia
+- Ukraine
+people:
+- Steve Rosenberg
+- Vladimir Putin
+- Yabloko
+organisations:
+- BBC
+- United Russia
 ---
 
 # Watch: Voting under way in Russian election tightly controlled by Kremlin

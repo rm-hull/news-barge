@@ -13,6 +13,58 @@ categories:
 - News & Politics
 - Video Gaming
 - Sports
+locations:
+- Bournemouth
+- England
+- Europe
+- Man City
+- Manchester City
+people:
+- Andre Villas-Boas
+- Carlos Baleba
+- Elliot Anderson
+- Iliman Ndiaye
+- Javier Gomez
+- Kieran Maguire
+- Mateus Fernandes
+- Savio
+- Trevor Watkins
+organisations:
+- Arsenal
+- Aston Villa
+- BBC 5
+- BBC Sport
+- Barca
+- Barcelona
+- Bayern Munich
+- Brentford
+- Brighton
+- Chelsea
+- Coventry
+- Crystal Palace
+- Deloitte Money League
+- Elliot Anderson
+- Europa League
+- Everton
+- FC Porto
+- French League
+- La Liga
+- Lille
+- Manchester City
+- Manchester United
+- Newcastle
+- Nottingham Forest
+- PSG
+- Paris St-Germain
+- Premier League
+- Premier Legue
+- Real Madrid
+- SCR
+- Savio?
+- Spurs
+- Tottenham
+- University of Liverpool
+- West Ham
 ---
 
 ![A collage of players featuring Iliman Ndiaye, Savio and Carlos Baleba](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3b66/live/568cf390-a77b-11f1-b2d5-535b3b3d379f.jpg)

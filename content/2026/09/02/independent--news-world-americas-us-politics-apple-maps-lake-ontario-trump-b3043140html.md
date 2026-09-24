@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York
+- U.S.
+people:
+- Cheryl Casone
+- Donald Trump
+- Doug Berger
+- Doug Burgum
+- Harry Sisson
+- MapQuest
+- Maria Bartiromo
+organisations:
+- App Store
+- Apple Maps
+- Fox Business’
+- Google Maps
+- MapQuest
+- MeidasTouch
+- No. 8
+- The Independent
+- Trump
 ---
 
 Apple has become the latest tech giant to cave to President Donald Trump’s demand to change the name of Lake Ontario to Lake America.

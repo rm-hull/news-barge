@@ -11,6 +11,15 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee8d/live/2d5813
 categories:
 - UK
 - News & Politics
+locations:
+- Dover
+- Portsmouth
+- UK
+people:
+- Daniel Sandford
+- Danny Thomas
+- Danny Tommo
+organisations: []
 ---
 
 # What we know about anti-migrant protests and organiser Danny Thomas

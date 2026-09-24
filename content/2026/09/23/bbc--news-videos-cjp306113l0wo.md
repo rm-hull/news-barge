@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2208/live/7d5a13f0-b72e-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- UK
+people: []
+organisations: []
 ---
 
 # 'My eyelids became infected - I was scared to sleep'

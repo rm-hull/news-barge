@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI4M2I3NzM2LTNmYmEtNDAzMS1hMjhkLTAzMDI5MTY3NjgyYjoyZDE1YTIzZS00YTI5LTRlNWUtODI2NC05YTM0NTMwYjljMzk=.jpg?crop=3:2,smart&trim=&width=822&auto=webp&quality=75
+locations:
+- Dewsbury
+- Huddersfield Town Hall
+- Kirklees
+people:
+- Simon Brophy
+- Surraya Patel
+organisations:
+- Cabinet
+- Dewsbury Sports Centre
+- Huddersfield Town Hall
+- KAL
+- Kirklees Active Leisure-run
+- Kirklees Council
+- Labour
+- Max Associates
+- RAAC
+- Strategic Finance and Local Government Efficiency
+- – Max Associates
 ---
 
 # ‘Three years is enough’, say campaigners fighting for Dewsbury’s leisure facilities

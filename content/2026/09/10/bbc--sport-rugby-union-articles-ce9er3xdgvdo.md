@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+people:
+- Meg Jones
+organisations:
+- Australia
+- BBC Sport
+- Chelsea
+- RFU
+- Red Roses
+- Rugby Football Union
+- The Observer
 ---
 
 ![Meg Jones playing for England](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/b39e/live/0f354fd0-ad5a-11f1-a0e7-8f5838117f3d.jpg)

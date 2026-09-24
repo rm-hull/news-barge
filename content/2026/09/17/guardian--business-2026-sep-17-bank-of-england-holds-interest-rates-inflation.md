@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- City
+- Iran
+- Middle East
+- Threadneedle Street
+- UK
+people:
+- Andrew Bailey
+- Andy Burnham
+- John Healey
+organisations:
+- Bank of England
+- DMO
+- European Central Bank
+- MPC
+- Office for National Statistics
+- Treasury
+- Treasury’s Debt Management Office
+- US Federal Reserve
 ---
 
 The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.

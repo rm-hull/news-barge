@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- California
+- England
+- Florida
+- La Guaira
+- North America
+- US
+- USA
+- Venezuela
+people:
+- Brittany Lamm
+- Helen Garr
+- Maria Medina
+- Stuart Sandeman
+organisations:
+- Brittany
+- Comprehensive Psychoneuroendocrinology
+- Instagram
+- Maria Medina
+- Meta
+- Texas State University
+- US Navy Seals
+- University of Toronto Mississauga
 ---
 
 ![Person wearing a plain white T-shirt standing in the foreground with one hand placed on their chest. Their eyes are closed and a wristwatch is visible on one wrist. The background consists of a plain grey wall, with directional light creating areas of shadow across the wall and part of the upper body.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/f461/live/48a21cd0-a152-11f1-92f3-2381193e5eb4.jpg)

@@ -12,6 +12,23 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2025/01/24/15/iStock-1783422005.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+people:
+- Andy Burnham
+- Debbie Abrahams
+- Keir Starmer
+- Ms Abrahams
+- Stephen Timms
+organisations:
+- '![Work and Pensions Committee'
+- Department
+- Labour
+- PIP
+- Personal Independence Payment
+- Pip
+- Timms
+- Work and Pensions Committee
 ---
 
 A group of MPs have warned disability minister Sir Stephen Timms that his review into the Personal Independence Payment (Pip) risks repeating the mistakes of Labour’s ill-fated attempt to cut disability benefits last year.

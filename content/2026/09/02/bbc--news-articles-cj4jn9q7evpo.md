@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Orem
+- Provo
+- Utah
+people:
+- Chad Grunander
+- Charlie Kirk
+- Erika Kirk
+- Kathryn
+- Lance Twiggs
+- Robert
+- Ryan McBride
+- Staci Visser
+- Tony Graf
+- Trump
+- Twiggs'
+- Tyler Robinson
+organisations:
+- Fourth District Courthouse
+- Point USA
+- TPUSA
+- Utah Valley University
 ---
 
 Watch: Moment Tyler Robinson pleads not guilty in Charlie Kirk's death

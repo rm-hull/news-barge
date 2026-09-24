@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- UK
+people: []
+organisations: []
 ---
 
 *(Image: Getty Images/iStockphoto)*

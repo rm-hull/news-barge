@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/w45mwZVkeXsU9zTc2kScqg-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- UK
+- US
+people:
+- Dashiell Wood
+organisations:
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Reddit
+- SFX
+- TechRadar
+- Ultimate
 ---
 
 ![Xbox Game Pass](https://cdn.mos.cms.futurecdn.net/w45mwZVkeXsU9zTc2kScqg.jpg) 

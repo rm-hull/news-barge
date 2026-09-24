@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- County Durham
+- Duncombe Park
+- Helmsley Walled Garden
+- North East
+- North York Moors
+- North Yorkshire
+- Vinehouse Café
+people: []
+organisations:
+- Tripadvisor
+- Vinehouse Café
 ---
 
 *(Image: TRIPADVISOR)*

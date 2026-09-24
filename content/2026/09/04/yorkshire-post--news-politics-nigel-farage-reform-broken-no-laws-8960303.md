@@ -15,6 +15,22 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Birmingham
+- UK
+- US
+people:
+- Dan Jukes
+- James Orr
+- Nigel Farage
+organisations:
+- Channel 4 News
+- Electoral Commission
+- LBC
+- Met Police
+- Reform UK
+- Verbatim
 ---
 
 # Nigel Farage: Reform UK leader says party has 'broken no laws' as aides quit over fresh allegations

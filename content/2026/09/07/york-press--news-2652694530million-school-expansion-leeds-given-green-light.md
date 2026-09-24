@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Belle Isle
+- Broom Place
+- Leeds
+- York
+people: []
+organisations:
+- Broomfield SILC
+- Google Image
+- Leeds City Council
+- SEN
+- Tilbury Douglas Construction Ltd
 ---
 
 *(Image: Norse Group)*

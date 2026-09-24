@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Asheville
+- Iran
+- Islamic Republic
+- North Carolina
+- US
+- United States
+people:
+- Scott Bessent
+organisations:
+- AP Treasury
+- Group of 20
+- The Associated Press
+- Trump
 ---
 
 US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP

@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/09/13/15/117ca64b50df957e9b77de5aec
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- China
+- Greenland
+- Iran
+- Ireland
+- North Sea
+- US
+- United States
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+organisations:
+- AI
+- Isabel Infantes
+- PA
 ---
 
 Donald Trump described Andy Burnham as “a very nice guy” but on “on the liberal side”, as he continued his visit to Ireland.

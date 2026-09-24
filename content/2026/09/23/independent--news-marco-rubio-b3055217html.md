@@ -11,6 +11,15 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/17/RUBIO-VENEZUELA_7_543.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Delcy Rodríguez
+- Donald Trump y la presidenta encargada de Venezuela
+- El secretario de Estado de Estados Unidos
+- Marco Rubio
+- Rubio dijo que se
+- al margen de la Asamblea General de la ONU
+organisations: []
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

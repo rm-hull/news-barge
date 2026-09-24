@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b93/live/bd998920-b5b5-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Ayrshire
+- Belfast
+- Birmingham
+- Disneyland Paris
+- Edinburgh
+- England
+- Gatwick
+- Glasgow
+- Hampshire
+- Heathrow
+- Kilmarnock
+- Manchester
+- Nats Prestwick Centre
+- Nats'
+- Northern Ireland
+- Scotland
+- Swanwick
+- UK
+people:
+- '![Woman'
+- Heidi Alexander
+- Martin Rolfe
+- Nicole McCloskey
+- Sadie
+- Steve Davies
+- Steve Heapy
+- Yvonne Moynihan
+organisations:
+- BBC Radio 4
+- British Airways
+- Cirium
+- EasyJet
+- Easyjet
+- Jet2
+- National Air Traffic Services
+- Nats
+- Ryanair
+- UK Civil Aviation Authority
+- Wizz Air
+- Wizz Air UK
+- body Airlines UK
 ---
 
 ![Woman stands in front of board showing two cancelled flights and others departing late](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0b93/live/bd998920-b5b5-11f1-8d1d-a985658d9d3a.jpg)

@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Hungary
+- Monza.
+- Zandvoort
+people:
+- Arvid Lindblad
+- Carlos Sainz
+- Charles Leclerc
+- Colton Herta
+- Franco Colapinto
+- Gabriel Bortoleto
+- Haas
+- Isack Hadjar
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Liam Lawson
+- Mercedes' George Russell
+- Nico Hulkenberg
+- Oliver Bearman
+- Oscar Piastri
+- Paul Aron
+- Pierre Gasly
+- Sergio Perez
+- Williams
+- Yuki Tsunoda
+organisations:
+- Alpine
+- Audi
+- Cadillac
+- Ferrari
+- McLaren
+- Mercedes
+- Racing Bulls
+- Red Bull
 ---
 
 ![Charles Leclerc on track in his Ferrari during Italian Grand Pric first practice](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5fa1/live/ccbb9570-a858-11f1-ae45-e9984fc27c77.jpg)

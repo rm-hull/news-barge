@@ -15,6 +15,11 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- U.S.
+people: []
+organisations:
+- Census Bureau
 ---
 
 U.S. household income finally topped pre- pandemic levels last year, a stark sign of how the past five years of rising prices have limited Americans’ earnings and purchasing power.

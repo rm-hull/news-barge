@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/cf336835591699f9e38978e80e1f4e23ebe0ed35/9
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Aukus
+- Britain
+- China
+- Indo-Pacific
+- San Diego
+- South Australia
+- Taiwan
+- UK
+- US
+- United States
+- Virginia
+- Washington
+people:
+- Anthony Albanese
+- Aukus
+- David Shoebridge
+- Michael McCaul
+- Paul Keating
+- Penny Wong
+- Richard Marles
+organisations:
+- Aukus
+- Congressional Friends of Australia
+- Greens
+- Guardian
+- HMAS Stirling
+- Parliament House
+- Royal Australian Navy
+- Royal Navy
 ---
 
 Aukus critic Paul Keating has said the submarine deal is locking Australia in to any future US conflict with China – “a war America would certainly lose” – and making Australia a target for retribution.

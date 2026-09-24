@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Jackson
+- Mississippi
+- Vicksburg
+people:
+- Brackney
+- Christy Spivey
+- Cory Zukatis
+- Jackson
+- Jacques Ratliff
+- RaShall Brackney-Wheelock
+- Tasia Fortune
+- Trey Reed
+organisations:
+- Delta State University
 ---
 
 Police in Jackson, Mississippi, have arrested a man in the death of Tasia Fortune, a 29-year-old Black woman found hanging from a tree behind a vacant house last month. The state medical examiner on Thursday ruled Fortune’s death a homicide.

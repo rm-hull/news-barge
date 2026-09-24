@@ -11,6 +11,42 @@ description: No, Googlebooks won’t replace Chromebooks — they’re designed 
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/Hyn72vA3EzivHNX2A9KymX-2560-80.jpg
+locations:
+- AI
+- London
+- Taipei
+- Taiwan
+- UK
+people:
+- Alex Kuscher
+- John Maletis
+- Matt Hanson
+organisations:
+- Apple
+- Chromebooks
+- Core Tech
+- Dell XPS Googlebook
+- Gemini AI
+- Gemini Spark
+- Google HQ
+- Google News
+- Googlebook OS
+- Googlebooks
+- Google’s Play Store
+- Google’s VP Laptops
+- Intel
+- Laptops and Tablets
+- MacBook Air
+- MacBook Airs
+- Matt
+- Microsoft
+- Nvidia
+- PC Plus
+- Qualcomm
+- Samsung
+- Snapdragon X Elite
+- TechRadar
+- X1 Elite
 ---
 
 ![Googlebook launch at Google HQ, London](https://cdn.mos.cms.futurecdn.net/Hyn72vA3EzivHNX2A9KymX.jpg)

@@ -11,6 +11,15 @@ image: https://media.wired.com/photos/6a9722800b666cfc32288461/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Simon Lucas
+organisations:
+- ANC
+- Best Soundbars
+- Google
+- Sony
+- WIRED
 ---
 
 Sony is one of the most reliable electronics brands we’ve tested, and its track record extends across a range of categories. That's why when any of its products go on sale, we take notice. Right now, a few of Sony's headphones, including the premium Sony WH-1000XM5, are steeply discounted, including some of the lowest prices I've seen.

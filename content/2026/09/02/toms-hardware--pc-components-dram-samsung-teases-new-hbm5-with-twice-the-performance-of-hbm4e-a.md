@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/UiRETJNcNTsWPdnAWQaz2Y-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Anton Shilov
+- Choi Jang-seok
+organisations:
+- Cadence
+- Get Tom's Hardware
+- Google News
+- HBM
+- HBM4E
+- HBM5
+- JEDEC
+- KAIST
+- Marvell
+- Micron
+- Rambus
+- SK
+- Samsung Electronics DS
+- Synopsys
+- TSMC
+- Tom’s Hardware
 ---
 
 ![Samsung HBM5 with HPB](https://cdn.mos.cms.futurecdn.net/UiRETJNcNTsWPdnAWQaz2Y.jpg) 

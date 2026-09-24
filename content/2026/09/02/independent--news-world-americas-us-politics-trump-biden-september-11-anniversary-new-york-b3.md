@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/02/12/57/GettyImages-2281591012.
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Ground Zero
+- Ireland
+- Joint Base Andrews
+- Manhattan
+- Maryland
+- New Jersey
+- New York
+- New York City
+- U.S.
+- White House
+people:
+- Anna Kelly
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- George W. Bush
+- JD Vance
+- Jill Biden
+- Joe Biden
+- Maggie Haberman
+- Melania Trump
+- Steven Cheung
+organisations:
+- NYT
+- National September 11 Memorial and Museum
+- Pentagon
+- The Independent
+- The New York Times
+- Twin Towers
+- World Trade Center
 ---
 
 All four living former presidents have confirmed plans to attend the 25th anniversary of the September 11, 2001 terrorist attacks in New York City, which President Donald Trump will skip, reportedly because he would not be allowed to make a speech.

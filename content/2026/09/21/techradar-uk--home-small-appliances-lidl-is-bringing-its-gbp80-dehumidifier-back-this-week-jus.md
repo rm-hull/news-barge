@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/NyajErKgp2swtkVcu6fWF6-2000-80.jpg
+locations: []
+people:
+- Aldi
+- Dyson
+- Rowan Davies
+organisations:
+- Aldi
+- Aldi’s Specialbuys
+- Google News
+- Lidl
+- Shark
+- TechRadar
 ---
 
 ![Lidl&#039;s Tronic dehumidifier in a bedroom ](https://cdn.mos.cms.futurecdn.net/NyajErKgp2swtkVcu6fWF6.jpg)

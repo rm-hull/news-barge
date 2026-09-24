@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Baltic Sea
+- Brussels
+- Jaroslawiec
+- Kremlin
+- London
+- Moscow
+- Poland
+- Russia
+- U.S.
+- Ukraine
+- Ukraine-Poland
+- Warsaw
+people:
+- Boris Johnson
+- Carl Bildt
+- Cezary Tomczyk
+- Dmitry Peskov
+- Donald Trump
+- Donald Tusk
+- Kaja Kallas
+- Narendra Modi
+- Radoslaw Sikorski
+- Sam McNeil
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Władysław Kosiniak-Kamysz
+- Xi Jinping
+organisations:
+- CIA
+- European Union
+- Kyiv
+- NATO
+- TVN24
+- ___ Morton
 ---
 
 Poland pledged increased security along its border with Ukraine after a wave of Russian drone strikes near the frontier, including two that landed within kilometers of Polish territory.

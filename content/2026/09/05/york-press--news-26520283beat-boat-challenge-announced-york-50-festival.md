@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Beat the Boat
+- Kings Staith
+- Millennium Bridge
+- River Ouse
+- Terry Avenue
+- Tower Gardens
+- UK York
+people:
+- Carl Wain
+- Christopher Pegg
+organisations:
+- '## Age UK York'
+- Age UK York
+- Beat the Boat
+- City Cruises
+- YOPA
+- York Older People’s Assembly
 ---
 
 ## Age UK York launches Beat the Boat challenge for over-50s festival

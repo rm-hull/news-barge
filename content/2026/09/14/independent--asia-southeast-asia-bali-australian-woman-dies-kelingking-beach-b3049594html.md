@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Bali
+- Bunga Mekar
+- Indonesia
+- Kelingking Beach
+- Nusa Penida
+- Nusa Penida Island
+- Queensland
+- T-Rex Bay
+people:
+- Basarnas Bali
+- Brianna Cronin
+- Cakra Negara
+- David Crisafulli
+- Iptu I Dewa Nyoman Alit Purnawibawa
+organisations:
+- AllTrails
+- Bali Times
+- Department of Foreign Affairs and Trade
+- Griya Medica Clinic
+- Klungkung Police
+- Nusa Penida
 ---
 
 An Australian woman has died after falling from a cliff at a popular tourist beach near Bali, Indonesia.

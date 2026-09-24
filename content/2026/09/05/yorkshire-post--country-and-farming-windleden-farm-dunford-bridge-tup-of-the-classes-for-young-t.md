@@ -16,6 +16,68 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bentham
+- Bluefaced Leicester
+- Clitheroe
+- Cramptons of Grassington
+- Dalesbred
+- Derbyshire
+- Dunford Bridge
+- England
+- Harrogate
+- Herefords
+- Holmfirth
+- Lancashire
+- Masham
+- Mottram
+- Peak District
+- Penistone Sheep
+- Penistone Show
+- Richard
+- River Don
+- Skipton
+- Swaledale
+- Teeswater
+- Texel
+- Trans Pennine Way
+- Upper Windleden Reservoir
+- Wensleydale
+- Whitefaced Woodlands
+- Windleden Farm
+- Yorkshire
+people:
+- Arthur
+- Beal
+- Don
+- Dunford
+- Harold
+- Harry
+- Jamie
+- Jim
+- Linda
+- Mahon
+- Oliver
+- Rachel
+- Ralph
+- Richard Smith
+- Stacey
+- Thomas Smith
+- Vicky
+organisations:
+- Bluefaced Leicester
+- Clitheroe Market
+- Derbyshire Gritstone
+- Derbyshire Gritstones
+- Emley Show
+- Great Yorkshire Show
+- Hereford
+- Honley Show
+- Penistone Show
+- Texels
+- Whitefaced Woodland
+- Whitefaced Woodlands
+- Windleden Farm Holiday Cottages
 ---
 
 # Windleden Farm, Dunford Bridge: Tup of the classes for young Thomas

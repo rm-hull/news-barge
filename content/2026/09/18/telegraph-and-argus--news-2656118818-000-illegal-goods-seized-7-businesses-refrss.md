@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Keighley
+- West Yorkshire
+- West Yorkshire Police
+people: []
+organisations:
+- Keighley Neighbourhood Policing Team
+- Trading Standards
+- West Yorkshire Police
+- West Yorkshire Trading Standards
 ---
 
 *(Image: West Yorkshire Police)*

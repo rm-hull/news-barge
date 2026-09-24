@@ -10,6 +10,16 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
+locations: []
+people: []
+organisations:
+- AdTechs
+- Agentic AI
+- CPA
+- Future plc
+- PropellerAds
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg)

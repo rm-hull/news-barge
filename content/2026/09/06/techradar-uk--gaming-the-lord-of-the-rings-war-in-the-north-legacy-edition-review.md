@@ -11,6 +11,39 @@ image: https://cdn.mos.cms.futurecdn.net/dJueDrmoVvtpcG8DEjjAJG-1840-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Aragorn
+- Bree
+- Cardiff
+- Dunedain
+- Gimli
+- Lonely Mountain
+- North
+- Rivendell
+- Sauron
+- Sting
+people:
+- Agandaûr
+- Andriel
+- Aragorn
+- Arwen
+- Elladan
+- Elrohir
+- Elrond
+- Eradan
+- Farin
+- Gandalf
+- Matt Evans
+- Sauron
+- Stamina
+organisations:
+- Aspyr
+- LG
+- LOTR
+- Men's Health
+- Nintendo Switch
+- Runner's World
+- TechRadar
 ---
 
 ### TechRadar Verdict

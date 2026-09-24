@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Biggin
+- Bridge House
+- North Yorkshire
+- Oxmoor Lane
+- Selby
+people:
+- Alec Shelbrooke
+- R Merrett
+organisations:
+- Biggin Parish Council
+- North Yorkshire Council
+- Selby and Ainsty Area Committee
+- Wetherby and Easingwold
 ---
 
 Residents are becoming increasingly frustrated over alleged breaches of planning at a controversial traveller site in North Yorkshire, an MP has warned.

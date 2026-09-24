@@ -12,6 +12,14 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- New South Wales
+- South Australia
+people:
+- John Healey
+- Ray Smith**,* Guyra
+organisations:
+- New Scientist
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310238132.jpg?w=840)

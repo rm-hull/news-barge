@@ -12,6 +12,18 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/19/10/01/folkestone-hotel-fire.png?trim=146,0,223,0&width=1200&height=800&crop=1200:800
+locations:
+- Folkestone
+- Grand Burstin Hotel
+- Marine Parade
+- UK
+people: []
+organisations:
+- CCTV
+- Grand Burstin
+- Grand Burstin Hotel
+- Kent Fire and Rescue Service
+- Kent Police
 ---
 
 Two people have been arrested after an iconic hotel in Folkestone caught fire.

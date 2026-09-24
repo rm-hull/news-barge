@@ -13,6 +13,21 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/21/13/06/MixCollage-21-Sep-2026-02-11-PM-5318.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Fulwood House
+- NHS
+- Sheffield
+- South Yorks.
+- South Yorkshire
+people:
+- David Walsh
+- Thomas Rhodes
+organisations:
+- Expresso Properties
+- Hallam Towers
+- Sheffield Health Partnership University NHS Foundation Trust
+- Sheffield Health and Social Care NHS Foundation Trust
+- South Yorkshire Police
 ---
 
 # Watch: Shocking footage shows children risking lives on eight-storey NHS building

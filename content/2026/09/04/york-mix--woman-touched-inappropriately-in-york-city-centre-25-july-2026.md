@@ -12,6 +12,15 @@ categories:
 - York
 - Society & Culture
 - Arts & Culture
+locations:
+- Blake Street
+- York
+people:
+- '#### Blake Street'
+organisations:
+- Email Ben Rhodes
+- North Yorkshire Police
+- Via
 ---
 
 Police are investigating after a woman was touched inappropriately in York city centre.

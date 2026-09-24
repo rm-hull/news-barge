@@ -14,6 +14,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/10924100.jpg?type=og-image
+locations:
+- Cowley Road
+- Oxford
+- UK
+- US
+- United
+people: []
+organisations:
+- AlixPartners
+- BrewDog
+- BrewDog’s
+- Brewdog PLC
+- HMRC
+- Oxford United
+- Tilray
 ---
 
 *(Image: Contributed)*

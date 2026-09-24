@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Arabian Peninsula
+- Bab el-Mandeb
+- Cairo
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Krauss
+- Lebanon
+- Middle East
+- Mideast
+- Ontario
+- Ottawa
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- Yemen
+people:
+- God
+- ___ Khaled
+organisations:
+- Axis of Resistance
+- Bab el-Mandeb
+- Hamas
+- Hezbollah
+- U.N.
 ---
 
 Yemen's Houthi rebels, who launched a wave of attacks on Saudi oil facilities on Tuesday, have become an increasingly disruptive force in the Middle East in recent years, striking Israel, Saudi Arabia and a global shipping route in solidarity with Iran and allied armed groups.

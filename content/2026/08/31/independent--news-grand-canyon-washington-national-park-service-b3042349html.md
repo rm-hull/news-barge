@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Grand Canyon
+- South Rim
+- Transcanyon Waterline
+people: []
+organisations:
+- AP
+- Associated Press
+- National Park Service
+- Walton Family Foundation
 ---
 
 The sole pipeline that supplies water for millions of Grand Canyon visitors was badly damaged by weekend flash flooding, setting up a tricky repair scenario and upending a yearslong construction project to upgrade the line laid over terrain so rugged helicopters are often required to make basic fixes.

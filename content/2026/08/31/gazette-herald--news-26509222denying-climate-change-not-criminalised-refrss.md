@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- England
+people:
+- Dale Vince
+- Einstein
+- John Hicks Cawton
+organisations: []
 ---
 
 *(Image: Archive)*

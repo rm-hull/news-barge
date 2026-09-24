@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Abruzzo
+- Italy
+- Melbourne
+people:
+- Bluebell
+- Catherine Birmingham
+- Galorian
+- Giorgia Meloni
+- Matteo Salvini
+- Nathan Trevallion
+- Simone Pillon
+- Utopia Rose
+organisations:
+- Birmingham
 ---
 
 A couple have told of their heartache, trauma and stress after fighting for two years for their right to parent their children as they choose in the glare of the world’s attention.

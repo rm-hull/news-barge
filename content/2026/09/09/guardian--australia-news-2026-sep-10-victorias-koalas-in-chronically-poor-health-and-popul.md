@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Health & Fitness
 - Society & Culture
+locations:
+- Australia
+- French Island
+- Mallacoota
+- Victoria
+people:
+- Desley Whisson
+- Georgie Purcell
+- Jaclyn Symes
+- Jessica Robertson
+- Leanne Wicker
+organisations:
+- Animal Justice
+- Arthur Rylah Institute
+- Deakin University
+- Koala Alliance
+- Labor
 ---
 
 The Victorian government sat on a report for more than 12 months that found the state’s koala population was in chronically poor health.

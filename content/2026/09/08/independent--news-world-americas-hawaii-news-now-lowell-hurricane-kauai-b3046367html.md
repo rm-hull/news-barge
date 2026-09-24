@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Big Island
+- Hawaii
+- Hawaiian Islands
+- Kaua'i County
+- Kauai County
+- Maui
+- Niihau
+- Oahu
+people:
+- Josh Green
+- Lowell
+organisations:
+- Green
+- NOAA
+- National Hurricane Center
+- Papahanaumokuakea Marine National Monument
+- Tropical Storm Lala
 ---
 
 Hawaii Governor Josh Green has closed schools and government offices on Oahu and the westernmost islands of Kauai and Niihau for Tuesday.

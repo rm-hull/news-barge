@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Chinese Empire
+- York
+people:
+- Michelle Yim
+- Mulan
+organisations:
+- Arts Council England
+- Disney
+- Red Dragonfly Productions
+- York Theatre Royal
+- York Theatre Royal’s Studio
 ---
 
 Discover the real Chinese heroine that inspired Disney’s animation and live-feature *Mulan* in show coming to York.

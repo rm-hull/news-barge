@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Baylor
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Baylor
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Baylor Genetics
+- Google News
+- Represent Communications
+- TechRadar Pro
+- US Department of Health and Human Services
 ---
 
 ![Laboratory](https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA.jpg) 

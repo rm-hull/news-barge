@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21465635.jpg?type=og-image&xType=0&yType=524
+locations:
+- England
+- Hartlepool
+- Mount Everest
+- North East
+- North Yorkshire
+- Tees Valley
+- Teesside
+people:
+- Everest
+- Justin Bramall
+- Nick Kendall
+- Roseberry Topping
+organisations:
+- Brave Teesside
+- Office for National Statistics
+- The Headlight Project
 ---
 
 A Hartlepool man who lost a friend to suicide has raised more than £3,000 by climbing Roseberry Topping 100 times in 66 hours.

@@ -12,6 +12,34 @@ image: https://images.euronews.com/articles/stories/09/89/75/12/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Americas
+- Asia-Pacific
+- Brussels
+- Brussels'
+- Canada
+- Ottawa
+- Strasbourg
+- UK
+- US
+- United States
+- Washington
+people:
+- '## Maroš Šefčovič'
+- Donald Trump
+- Mark Carney
+- Maroš Šefčovič
+- Ursula von der Leyen
+organisations:
+- CPTPP
+- CTPPP
+- Comprehensive and Progressive Agreement for Trans-Pacific Partnership
+- EU
+- Euronews
+- European Commission
+- European Union
+- State of the Union
+- Šefčovič
 ---
 
 ## Maroš Šefčovič said the Commission is ready to explore a wide range of options to deepen cooperation with Ottawa as Canadian Prime Minister Mark Carney calls for a closer partnership with the EU.

@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://images.euronews.com/articles/stories/09/92/20/16/1200x675_cmsv2_bbfa478a-9be3-51e4-bd5a-ecf2c611edb1-9922016.jpg
+locations:
+- AI
+- Berlin
+- Canada
+- Chemnitz
+- Denmark
+- Estonia
+- Finland
+- France
+- Frankfurt
+- Germany
+- Greece
+- Helsinki
+- Hungary
+- Iran
+- Italy
+- Latvia
+- Portugal
+- Rome
+- Strait of Hormuz
+- Strasbourg
+- Tallinn
+- The Netherlands
+people:
+- Mark Carney
+- Michael Probst
+- Ursula von der Leyen
+organisations:
+- ECB
+- EU
+- European Commission
+- European Parliament
+- European Union
+- ISP
+- Petrol
+- TICPE
+- Volkswagen
 ---
 
 ## Nearly half of what European drivers pay for petrol goes to governments. Here are the 10 member states with the heaviest petrol taxes.

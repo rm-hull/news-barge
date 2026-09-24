@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Society & Culture
 - Travel
+locations:
+- Angram
+- Black Hill
+- Coast to Coast
+- East Sonesdale
+- Keld Lodge
+- Keld Return
+- Kisdon Hill
+- Long Preston
+- Low Bridge
+- Pennine Way
+- Ravenseat
+- Reeth
+- Refresher’
+- River Swale
+- Tan Hill
+- The Bracken Way
+- The Dales
+- Upper Swale
+- Upper Swaledale
+- Yorkshire Dales
+people:
+- Jonathan
+- Stiles
+organisations:
+- Dales
+- Keld Lodge
+- Kisdon Force
+- Navigation Training Courses
+- Peaks’
+- The Yorkshire
+- Where2walk
 ---
 
 THE walking around Upper Swaledale encapsulates much which makes the Yorkshire Dales a great area to explore. Getting there takes time but on arrival enjoy the rolling moors, industrial heritage, pretty villages all flanked by the picturesque River Swale.

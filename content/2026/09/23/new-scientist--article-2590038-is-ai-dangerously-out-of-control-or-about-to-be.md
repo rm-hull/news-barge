@@ -11,6 +11,23 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313537973.jpg
+locations:
+- AI
+- Beijing
+- National Speed Skating Oval
+- UK
+people:
+- AI
+- Andrew Rogoyski
+- Geoffrey Hinton
+- Mhairi Aitken
+- WANG Zhao
+organisations:
+- Alan Turing Institute
+- Gargantuan AI
+- Microsoft AI
+- Our AI Collective
+- University of Surrey
 ---
 
 ![TOPSHOT - Humanoid robots compete in the 100-meter race during the 2nd World Humanoid Robot Games at the National Speed Skating Oval in Beijing on August 25, 2026. (Photo by WANG Zhao / AFP via Getty Images)](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313537973.jpg?w=840)

@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Darlington
+- England
+- Hartlepool
+- Tees Valley
+- Teesside
+people:
+- Ben Houchen
+- Tom Banks
+organisations: []
 ---
 
 *(Image: Tom Banks)*

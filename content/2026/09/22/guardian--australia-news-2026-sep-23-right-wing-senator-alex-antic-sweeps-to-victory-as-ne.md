@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/3da30566f829db982291f1224ada8854458366ad/697_51_5049_4040/master/5049.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afb6416eecf02f11bddb6ba750a28693
+locations:
+- South Australia
+people:
+- Alex Antic
+- Alex’s Army
+- Anne Ruston
+- Ashton Hurn
+- Blair Boyer
+- Cory Bernardi
+- Howard
+- Nicola Centofanti
+- Ralph Babet
+- Tony Barry
+- Tony Pasin
+- Trish Worth
+organisations:
+- ABC
+- Antic
+- Coalition
+- Labor
+- Liberal
+- One Nation
+- RedBridge
+- SA
+- United Australia Party
 ---
 
 Rogue Liberal senator Alex Antic says he will give “back some voice” to party members now that he has been elected as state president in South Australia.

@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '## Water'
+- A1237 Outer Ring Road
+- Fountayne Street
+- Haxby Road
+- Kevin Glenton
+- New Earswick
+- Walpole Street
+- York
+- Yorkshire Water
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- The Press
+- Yorkshire Water
 ---
 
 ## Water mains work blocks part of key road in York

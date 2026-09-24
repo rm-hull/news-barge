@@ -11,6 +11,66 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Canada
+- Emerald Isle
+- IRELAND
+- Traitors Ireland
+- UK
+- US
+people:
+- Jacob Jones
+- Kylian Mbappe
+- NordVPN
+organisations:
+- '## RTÉ'
+- Amazon Fire**
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- Barcelona
+- Bodo/Glimt
+- Champions League
+- Club Brugge
+- Fenerbahce
+- Feyenoord
+- First-Class Honours
+- FreeUnlocks RTE
+- Future Publishing
+- Google TV
+- Humax
+- Inter Milan
+- Liverpool
+- NVIDIA Shield
+- Napoli
+- NordVPN**
+- Olympique de Marseill
+- RTE Player
+- RTÉ Player
+- RTÉ PlayerArsenal
+- RTÉ PlayerandVirgin Media Play
+- RTÉ PlayerandVirgin Media Playwill
+- Real Madrid
+- Real Madrid C.F.
+- Roma
+- Sabah
+- Sky Glass
+- Sony
+- Sporting
+- TalkTalk
+- TechRadar
+- UCL
+- University of Derby
+- VM PlayGet NordVPN
+- Virgin Media
+- Virgin Media Play
+- Virgin Media Play.1
+- Virgin Media PlayBayern Munich
+- Virgin Media PlayLiverpool
+- Virgin Media PlayMan Utd
+- Virgin Media PlayReal Madrid
+- Virgin Media**
+- Yeovil Town Football Club
 ---
 
 ![Kylian Mbappe of Real Madrid celebrates after the team's victory in the UEFA Champions League 2025/26 League Phase MD1 match between Real Madrid C.F. and Olympique de Marseill](https://cdn.mos.cms.futurecdn.net/oKdHUEQrxMZdYMcRPRp7Wg.jpg) 

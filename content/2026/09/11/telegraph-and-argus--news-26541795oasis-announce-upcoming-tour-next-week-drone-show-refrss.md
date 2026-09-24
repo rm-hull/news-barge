@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Technology & Software
 - Sports
+locations:
+- Cardiff
+- Edinburgh
+- Knebworth
+- London
+- Manchester City
+- Manchester’s Joie Stadium
+- Melbourne
+- Mexico City
+- Sao Paolo
+- Tokyo
+- UK
+people:
+- Liam Gallagher
+- Noel Gallagher
+- Oasis’
+- Peter Byrne
+- Steven Knight
+organisations:
+- '## Oasis'
+- Celtic Park
+- Etihad Stadium
+- Manchester City Women
+- PA Wire
+- Peaky Blinders
+- The Manchester band
 ---
 
 *(Image: Peter Byrne/PA Wire)*

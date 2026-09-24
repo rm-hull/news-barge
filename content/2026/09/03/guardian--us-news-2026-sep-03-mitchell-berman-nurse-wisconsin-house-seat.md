@@ -11,6 +11,21 @@ image: https://i.guim.co.uk/img/media/8f1daf8441fcbee6026b27b95cac7a0578ab1ec9/2
 categories:
 - UK
 - News & Politics
+locations:
+- US
+- Washington
+- White House
+- Wisconsin
+people:
+- Bryan Steil
+- Donald Trump
+- Mitchell Berman
+- Paul Ryan
+- Scott Walker
+organisations:
+- House
+- Midwest Economic Policy Institute
+- University of Illinois Project for Middle Class Renewal
 ---
 
 Democrats are targeting vulnerable seats this midterm election with working-class candidates they hope will resonate with voters exhausted by the economy.

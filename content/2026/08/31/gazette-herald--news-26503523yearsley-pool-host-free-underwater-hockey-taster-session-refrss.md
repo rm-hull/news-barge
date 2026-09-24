@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Yearsley Swimming Pool
+- York
+people:
+- Sam
+organisations:
+- Archbishop Holgate’s School
 ---
 
 A free underwater hockey session is being offered at a swimming pool in York.

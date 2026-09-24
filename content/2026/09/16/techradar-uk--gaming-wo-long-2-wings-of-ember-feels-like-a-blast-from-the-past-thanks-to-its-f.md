@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/L4tUtqKdAEifB6UkSA5jaY-2560-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- GameRant
+people:
+- Bruce Lee
+- Isaiah Williams
+organisations:
+- Birmingham City University
+- Google News
+- Isaiah
+- Koei Tecmo
+- PC Guide
+- PS5
+- TechRadar
 ---
 
 ![Custom female character wielding large hammer in Wo Long 2: Wings of Ember](https://cdn.mos.cms.futurecdn.net/L4tUtqKdAEifB6UkSA5jaY.png) 

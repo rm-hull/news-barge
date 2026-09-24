@@ -11,6 +11,31 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- Blighty
+- Canada
+- UK
+- US
+people:
+- AJ Odudu
+- GK Barry
+- Kate Lawler
+- Richard Storry
+- Tom Wardley
+organisations:
+- Film Studies
+- Future Publishing
+- GK Barry
+- ITV Reality
+- ITV2
+- NordVPN
+- TechRadar
+- The Bov Boys
+- Twitch
+- University of South Wales
+- Will Best
+- YouTube
 ---
 
 ![The eye logo for Big Brother 2026](https://cdn.mos.cms.futurecdn.net/s7fSJhFDURzLrGaFpfv53N.jpg) 

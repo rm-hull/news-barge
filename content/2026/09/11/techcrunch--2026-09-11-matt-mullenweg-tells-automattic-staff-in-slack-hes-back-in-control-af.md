@@ -14,6 +14,27 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- Automattic
+people:
+- LL Cool J
+- Mark Davies
+- Mark Davies’ Slack
+- Matt Mullenweg
+- Reddit
+organisations:
+- 404 Media
+- Automattic
+- Boards
+- Mullenweg
+- PE
+- Reddit
+- Silver Lake
+- TechCrunch
+- WP Engine
+- WordPress
+- WordPress.com
+- YouTube
 ---
 
 Matt Mullenweg has posted a message to Automattic’s Slack, claiming he is back in control as CEO of the WordPress.com parent company, according to a screenshot of the message seen by TechCrunch, which was confirmed by multiple employee sources. The post arrives only days after Automattic’s board voted to oust Mullenweg as CEO for unknown reasons.

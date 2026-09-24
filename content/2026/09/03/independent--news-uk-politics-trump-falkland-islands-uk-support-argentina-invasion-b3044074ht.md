@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/03/09/2292689084..?trim=593,201,
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Britain
+- Falkland Islands
+- Falklands
+- Iran
+- Malvinas
+- UK
+people:
+- Donald Trump
+- Javier Milei
+organisations:
+- England
+- Falkland Islanders
+- GB News
+- United States’
 ---
 
 Donald Trump has suggested he would not back Britain if Argentina invaded the Falkland Islands as the row over its sovereignty deepens.

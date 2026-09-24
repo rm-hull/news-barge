@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Catterick Garrison
+- Coronation Park
+people:
+- Mark Crane
+organisations:
+- British Army
+- Community and Enterprise Hub
+- Council Leadership
+- DIO
+- Defence Infrastructure Organisation
+- HIVE
+- Levelling Up Fund
+- Local Regeneration Fund
+- Ministry of Defence
+- MoD
+- North Yorkshire Council
 ---
 
 **Plans for the multi-purpose Community and Enterprise Hub in Catterick Garrison have taken a significant step forward**, with North Yorkshire Council seeking approval to manage the facility in-house ahead of its scheduled opening in February 2027. An operational review found that managing the enterprise hub internally will cost approximately £120,000 less each year than outsourcing to alternative providers, securing maximum value for local taxpayers while optimizing communal benefits.

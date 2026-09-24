@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Black Sea
+- Kremlin
+- Kyiv Russia
+- Moldova
+- Moscow
+- Novorossiysk
+- Starokozache
+- US
+- Ukraine
+- Ukraine-Moldova
+people:
+- Donald Trump
+- Jared Kushner
+- Kyiv
+- Oleg Kiper
+- Steve Witkoff
+- Vasile Tofan
+- Veniamin Kondratiev
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Odesa
 ---
 
 ![Burned out cars appear at the site of a Russian drone strike, amid Russia's attack on Ukraine, on a Ukraine-Moldova border crossing,](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg)

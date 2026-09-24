@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Cambridge Road
+- Harrogate
+- North Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- Post Office
+- Tesco Express
 ---
 
 *(Image: North Yorkshire Police)*

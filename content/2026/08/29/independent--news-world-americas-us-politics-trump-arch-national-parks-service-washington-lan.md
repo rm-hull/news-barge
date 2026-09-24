@@ -11,6 +11,42 @@ image: https://static.independent.co.uk/2026/08/29/01/2284475262..?trim=0,91,0,9
 categories:
 - News & Politics
 - UK
+locations:
+- Arlington House
+- East Potomac Park
+- Jefferson
+- Kennedy Center
+- Key Bridge
+- Lincoln Memorial
+- Lincoln Memorial Arlington House
+- Memorial Bridge
+- Memorial Circle
+- North and South
+- Potomac River
+- U.S. Capitol
+- Washington Monument
+- White House
+people:
+- Donald Trump
+- Nicolas Sansone
+- Robert E. Lee
+organisations:
+- Arch
+- Confederate
+- Congress
+- Georgetown Historic District
+- Jefferson Memorial
+- Lincoln Memorial Reflecting Pool
+- National Capital Area Planning Commission
+- National Cathedral
+- National Mall
+- National Park Service
+- Old Naval Observatory
+- Park Service
+- Public Citizen Litigation Group
+- Trump
+- U.S. Commission of Fine Arts
+- Washington Monument
 ---
 
 A newly released National Park Service study has backed President Donald Trump’s proposed memorial arch, despite acknowledging its adverse effects on sightlines connecting several major Washington landmarks, including the Washington Monument and the Lincoln and Jefferson memorials.

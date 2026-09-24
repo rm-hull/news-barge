@@ -15,6 +15,24 @@ categories:
 - Personal Finance & Investing
 - Travel
 - News & Politics
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- The York
+people:
+- Cllr Ayre
+- David Skaith
+- Keir Starmer
+- Nigel Ayre
+organisations:
+- Labour York
+- Liberal Democrat
+- Newsquest
+- North Yorkshire Policy Lab
+- York Council
 ---
 
 *(Image: Newsquest)*

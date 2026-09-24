@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations:
+- North Yorkshire
+- The Black Swan
+people:
+- Andrew Hayes-Watkins
+- Dickie
+- Richard “Dickie” Jack
+organisations:
+- Black Swan
+- Head of Farm Production
+- The Black Swan
+- The Tommy Banks Group
+- Tommy Banks Group
 ---
 
 # “I'm a professional forager for The Tommy Banks Group - here's what I'm picking this September”

@@ -11,6 +11,23 @@ description: Nvidia's RTX Spark left a strong, long-lasting impression on me aft
 image: https://cdn.mos.cms.futurecdn.net/CFqnGgUPQWSVvYu2dUtXnm-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- GameRant
+people:
+- Isaiah Williams
+organisations:
+- AMD
+- Birmingham City University
+- DLSS
+- Gamescom
+- Gearbox Interactive
+- Google News
+- Intel
+- Isaiah
+- Nvidia
+- PC Guide
+- Team Green
+- TechRadar
 ---
 
 ![RTX Spark-enabled laptops on a black stage](https://cdn.mos.cms.futurecdn.net/CFqnGgUPQWSVvYu2dUtXnm.jpg) 

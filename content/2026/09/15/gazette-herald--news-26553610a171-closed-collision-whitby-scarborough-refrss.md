@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A171
+- Helwath Beck
+- NORTH YORKSHIRE
+- North Yorkshire
+- Scarborough
+- Whitby
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

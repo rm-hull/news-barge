@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- How Surfshark
+- Patricija Cerniauskaite
+- Rene Millman
+organisations:
+- Computer Weekly
+- Dausos
+- Financial Times
+- Google News
+- Head of Communications
+- IT Pro
+- No Trace
+- Starter
+- Surfshark
+- TechRadar
+- The Guardian
 ---
 
 ![surfshark vpn](https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9.jpg) 

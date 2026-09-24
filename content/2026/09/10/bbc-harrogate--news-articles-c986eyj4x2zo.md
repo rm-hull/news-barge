@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Drax Power Station
+- Selby
+people:
+- Barlow
+- Mark Crane
+- Tim Thrall
+organisations:
+- Barlow Parish Council
+- Drax Power Ltd
+- Drax Power Station
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 ![An aerial image of Drax power station showing several cooling towers set among a large site with buildings. The power station is surrounded by green land.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a77b/live/0a955290-acf1-11f1-a8ae-35fb3e785e0c.jpg)

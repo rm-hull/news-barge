@@ -11,6 +11,26 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- UK
+people:
+- Ben Delo
+- Chris Flynn
+- Chris Gray
+- Christopher Harborne
+- Jem Westgate
+- Joe Wilkinson
+- Jonathan Greer
+- Laura Kuenssberg
+- Paddy O’Connell
+- Sam Bonham
+organisations:
+- BBC Sounds
+- Delo
+- News and Current Affairs
+- Newscast
+- Reform UK
+- WhatsApp
 ---
 
 ## Episode details

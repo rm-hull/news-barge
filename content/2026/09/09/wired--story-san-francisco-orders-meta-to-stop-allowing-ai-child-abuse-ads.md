@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- India
+- Meta
+- San Francisco
+- US
+people:
+- Alex Barrett-Shorter
+- David Chiu
+- Katie Paul
+- Meta
+organisations:
+- City Attorney's Office
+- City Attorney’s Office
+- European Union
+- Facebook
+- Instagram
+- Meta
+- My Office
+- NCMEC
+- National Center for Missing and Exploited Children
+- San Francisco City Attorney's Office
+- TTP
+- Tech Transparency Project
+- WIRED
 ---
 
 San Francisco’s city attorney has hit Meta with a cease-and-desist letter telling the company to stop “allowing” paid advertisements that include AI-generated child sexual abuse content and asked it to explain how the ads repeatedly ran on its platforms.

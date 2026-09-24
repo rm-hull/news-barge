@@ -13,6 +13,28 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- Scarborough
+- Selby
+- Tennessee
+- UK
+- York
+people:
+- Bob Webb
+- David Skaith
+- Dolly Parton
+- Mark Crane
+- Ms Parton
+- Selby
+organisations:
+- Dolly Parton Imagination Library
+- Imagination Library
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- Selby Library
+- YNYCA
+- York and North Yorkshire Combined Authority
 ---
 
 ## Mayor ‘incredibly proud’ to continue Dolly Parton’s legacy with North Yorks project

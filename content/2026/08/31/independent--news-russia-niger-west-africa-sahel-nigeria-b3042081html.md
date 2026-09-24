@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Burkina Faso
+- Central African Republic
+- China
+- Europe
+- Mali
+- Moscow
+- Niamey
+- Niger
+- Russia
+- Sahara Desert
+- Sahel Province
+- Soufan Center
+- United States
+- West Africa
+people:
+- Beverly Ochieng
+- Nathaniel Powell
+- Sergey Lavrov
+- Viktor Voropayev
+- Wagner
+- Wassim Nasr
+organisations:
+- Africa Corps
+- Defense Ministry
+- Islamic State
+- JNIM
+- Oxford Analytica
+- Sahel for Control Risks
+- Soufan Center
+- Timbuktu Institute for Peace Studies
+- Wagner
 ---
 
 Niger's junta survived its most severe internal threat since seizing power in a 2023 coup when renegade soldiers staged a mutiny over the weekend, triggering a 24-hour standoff that ended with Russian intervention.

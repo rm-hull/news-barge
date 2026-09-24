@@ -14,6 +14,26 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Lunar Lake
+- Nova Lake
+- Panther Lake
+- Venice
+- Wall Street
+people:
+- David Zinsner
+- Tom
+- Zen
+organisations:
+- AMD
+- DigiTimes
+- DigiTimes'
+- Digitimes
+- Get Tom's Hardware
+- Google News
+- HEDT
+- Intel
+- Tom’s Hardware
 ---
 
 ![An Intel CPU sitting among other CPUs.](https://cdn.mos.cms.futurecdn.net/y2RQSvgVAG6nfudaaDBx2e.jpg) 

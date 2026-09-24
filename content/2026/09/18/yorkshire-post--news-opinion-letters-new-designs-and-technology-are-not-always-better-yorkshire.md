@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Crossgates
+- Fife
+- Screwfix
+people:
+- Danny Lawson
+organisations:
+- Otto Inglis
+- Yorkshire Post Letters
 ---
 
 # New designs and technology are not always better - Yorkshire Post Letters

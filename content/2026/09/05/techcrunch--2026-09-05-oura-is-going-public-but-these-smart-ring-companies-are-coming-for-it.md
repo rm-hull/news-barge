@@ -13,6 +13,21 @@ image: https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_C
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- India
+- U.S.
+people:
+- Oura
+organisations:
+- Circular
+- Dreame / Dreame
+- NFC
+- Oura
+- Qualcomm
+- RingConn
+- Samsung Samsung
+- U.S. International Trade Commission
+- Ultrahuman
 ---
 
 The smart ring market is getting crowded, and Oura isn’t waiting around to see what happens next: it officially filed to go public on September 3. The Finnish company’s revenue nearly doubled to $1.21 billion for the nine months ended June 30.

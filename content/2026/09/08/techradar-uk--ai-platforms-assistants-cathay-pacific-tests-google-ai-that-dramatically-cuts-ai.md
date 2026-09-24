@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Asia-Pacific
+- Cathay Pacific
+- England
+- North Atlantic
+- Stockport
+- US
+people:
+- Dave
+- David Nield
+organisations:
+- Cathay-Pacific
+- Gizmodo
+- Google News
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![A Cathay Pacific plane and contrails](https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN.jpg) 

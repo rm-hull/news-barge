@@ -12,6 +12,54 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Amsterdam
+- Athens
+- Belfast
+- Budapest
+- Crooswijk
+- Esquilino
+- Europe
+- France
+- Glasgow
+- Govanhill
+- Greece
+- Hungary
+- Italy
+- Jongno
+- Lisbon
+- London
+- Luxembourg City
+- L’Ocean District
+- Netherlands
+- Onassis Stegi
+- Oost
+- Paris
+- Porto
+- Portugal
+- Rabat
+- Rome
+- Rotterdam
+- Russafa
+- Seoul
+- Slakthusområdet
+- Spain
+- Stockholm
+- Sweden
+- UK
+people:
+- São Bento
+organisations:
+- Barcelona
+- Boavista
+- Glasgow
+- La Cova Fumada
+- Neos Kosmos
+- Newington Green
+- Porto
+- Quartier d'Aligre
+- Rákóczi
+- Valencia
 ---
 
 ## The hottest area in Athens – Neos Kosmos – claimed first in Europe and third place in the overall ranking.

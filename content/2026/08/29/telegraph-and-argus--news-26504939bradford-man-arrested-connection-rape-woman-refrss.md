@@ -11,6 +11,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Leeds Magistrates’ Court
+- Normanton
+- Wakefield Road
+people: []
+organisations:
+- Leeds Crown Court
 ---
 
 *(Image: UGC)*

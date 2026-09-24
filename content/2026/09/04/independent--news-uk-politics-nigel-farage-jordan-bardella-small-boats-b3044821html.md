@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Birmingham
+- Farnborough
+- France
+- St Michael’s Abbey
+- UK
+- United Kingdom
+people:
+- Jordan Bardella
+- Marine Le Pen
+- Napoleon III
+- Nigel Farage
+organisations:
+- Le Pen
+- Reform UK
 ---
 
 Nigel Farage and National Rally president Jordan Bardella signed a pact at Reform UK’s party conference in Birmingham that their leader vowed would “stop small boats forever.”

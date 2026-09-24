@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Co Tyrone
+- CountyTyrone
+- Dungannon
+- Lisnahull Road
+- Northern Ireland
+- Royal Victoria Hospital
+people:
+- Deirdre Varsani
+organisations:
+- Mid Ulster District Council
+- Northern Ireland Ambulance
+- Royal Belfast Hospital for Sick Children
+- Sinn Féin
 ---
 
 A male has been arrested on suspicion of murder and attempted murder after a man was found dead next to a seriously injured young girl.

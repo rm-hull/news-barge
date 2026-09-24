@@ -12,6 +12,24 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Chile
+- Earth
+- Germany
+- Los Angeles
+- Milky Way
+- S301
+- Stockholm
+people:
+- Stefan Gillessen
+- Tuan Do
+- Ziri Younsi
+organisations:
+- Max Planck Institute for Extraterrestrial Physics
+- S301
+- University College London
+- University of California
+- Very Large Telescope
 ---
 
 ![Star clouds in the constellation of Sagittarius in the direction of the centre of our Milky Way galaxy](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg?w=840)

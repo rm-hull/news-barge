@@ -12,6 +12,43 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Alma Terrace
+- Bishopthorpe
+- Bramham
+- Ebor Inn
+- Featherstone
+- Fishergate
+- Malton
+- Pontefract
+- Rufforth
+- Sam Smith
+- Scarborough**
+- Tadcaster
+- Tankard Inn
+- Wellington Inn
+- Wetherby
+- York
+people:
+- Darren Greenwood
+- Henry Smith
+- Isabel Redfern-Smith
+- Isobel
+- Sam Smith
+- Samuel Smith
+- Tom Taverner
+- Wellie
+- Welly
+organisations:
+- '**__Paula Dawson'
+- Angel & White Horse
+- Golden Ball
+- Google
+- Red Lion
+- Rufforth__** Isabel
+- Tankard Inn
+- The Press
+- Wellington Inn
 ---
 
 A re-opened back street Sam Smith’s pub is the toast of York.

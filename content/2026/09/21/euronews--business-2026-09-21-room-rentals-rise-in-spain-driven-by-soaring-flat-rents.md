@@ -15,6 +15,15 @@ categories:
 - Home, Garden & DIY
 - Real Estate
 image: https://images.euronews.com/articles/stories/09/92/22/41/1200x675_cmsv2_ef359032-70cb-5db6-a921-d17d4b03c407-9922241.jpg
+locations:
+- Barcelona
+- Europe
+- Spain
+people:
+- Fotocasa
+- María Matos
+organisations:
+- Fotocasa Research
 ---
 
 ## 3.2% of Spaniards have already rented or looked for a room, up from 2.8% a year ago. Fotocasa says higher prices and a lack of supply are pushing many tenants to share homes as an alternative to conventional renting.

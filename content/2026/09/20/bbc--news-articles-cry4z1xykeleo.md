@@ -12,6 +12,54 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f04c/live/5fddaaf0-b506-11f1-91cc-c5691e33b858.png
+locations:
+- Althorp
+- Balmoral Castle
+- Bondi Beach
+- Buckingham Palace
+- Cape Town
+- Church of St Mary the Virgin
+- Duke and Duchess of Sussex
+- England
+- Norfolk
+- Paris
+- Prince Charles
+- Princess of Wales
+- Sandringham Estate
+- South Africa
+- St. George
+- UK
+people:
+- '## Charles'
+- '## Diana'
+- '## Earl'
+- Camilla
+- Charles'
+- Dodi Fayed
+- Earl Spencer
+- Elizabeth II
+- Harry Earl Spencer
+- Jane Fellowes
+- King Charles
+- Laura Kuenssberg
+- Lord Mountbatten
+- Majesty
+- Martin Bashir
+- Meghan
+- Palace
+- Prince Harry
+- Prince William
+- Queen
+- Tim Davie
+- then-Camilla Parker Bowles
+organisations:
+- BBC One
+- BBC Panorama
+- BBC iPlayer
+- Bondi Surf Bathers' Life Saving Club
+- Earl Spencer
+- Royal Family
+- Royal Watch
 ---
 
 ![The BBC's Laura Kuenssberg sits opposite Earl Spencer in a room at the Althorp estate. ](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/f04c/live/5fddaaf0-b506-11f1-91cc-c5691e33b858.png)

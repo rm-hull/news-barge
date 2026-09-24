@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Relationships & Dating
 - Self-Improvement
+locations:
+- Hartlepool
+- Peterlee
+- Tweed Close
+people:
+- Amanda Rippon
+- Jordan Joseph Penman
+- Martin Towers
+- Michael Forrest
+organisations:
+- Durham Crown Court
 ---
 
 *(Image: The Northern Echo)*

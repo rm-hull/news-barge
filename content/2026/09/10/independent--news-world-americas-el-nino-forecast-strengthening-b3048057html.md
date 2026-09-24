@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Atlantic Basin
+- Central America
+- Delta
+- Dry Corridor
+- El Nino
+- El Niño
+- Finland
+- Northern Hemisphere
+- Pacific Ocean
+- Plains
+- Southeast
+- Southern U.S.
+- U.S West Coast
+- West Coast
+people:
+- Donald Keeney
+- Jason Nicholls
+organisations:
+- AccuWeather
+- Coral Reef Watch
+- El Nino
+- El Niño
+- NOAA
+- Oxfam
+- U.S. Climate Prediction Center
+- UN Food and Agriculture Organization
+- Vaisala Weather
 ---
 
 El Niño is strengthening and there’s a greater than 90% chance of a very strong event during the Northern Hemisphere fall and winter 2026-27, the U.S. Climate Prediction Center said Thursday.

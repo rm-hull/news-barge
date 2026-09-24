@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Chelsea
+- Devon
+- Exeter Crown Court
+- Georgia
+- Isleworth Crown Court
+- Kensington
+- Kent
+- Newton Abbot
+- UK
+people:
+- Charlotte Brown
+- George Payne
+- Jack Shepherd
+- Katherine Lloyd
+- Martin Edmunds KC
+organisations:
+- HMP Swaleside
+- The White Hart Hotel
 ---
 
 Speedboat killer Jack Shepherd has received a 20-month prison term accompanied by a four-year extended licence after launching a violent attack on his partner, which included stabbing her with pointed barbecue tongs.

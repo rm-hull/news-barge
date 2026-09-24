@@ -14,6 +14,29 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- BerlinWhat
+- BerlinWill
+- Friedrichshain
+- Kreuzberg
+- Neukölln
+- Pankow
+- Wedding
+people:
+- Henning Wilts
+- Neukölln
+organisations:
+- AfD
+- BSR
+- Berliner Morgenpost
+- CCTV
+- CDU
+- Greens
+- Left Party
+- SPD
+- Senate
+- Wuppertal Institute for Climate, Environment and Energy
 ---
 
 A few weeks ago, I was visiting a former housemate in the Berlin district of Neukölln for her child's birthday party and started to feel a hint of nostalgia for my old neighbourhood.

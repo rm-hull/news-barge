@@ -13,6 +13,40 @@ image: https://static.independent.co.uk/2026/09/08/19/2294161678..?trim=0,1,0,1&
 categories:
 - News & Politics
 - UK
+locations:
+- Ellipse
+- Forty Wall Street
+- Ground Zero
+- Lower Manhattan
+- New York
+- New York.’
+- Pennsylvania
+- Washington
+- Washington, D.C.
+people:
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- George W Bush
+- Joe Biden
+- Maggie Haberman
+- Maggot Hagerman
+- Matthew Calamari
+- VP Vance
+organisations:
+- Administration
+- Big Apple
+- Construction Workers
+- Ellipse
+- Fake News
+- New York Magazine
+- New York Times
+- New York World Trade Center
+- Pentagon
+- The Fake News
+- Twin Towers
+- WWOR-TV
+- World Trade Center
 ---
 
 President Donald Trump has lashed out furiously at the media over reporting questioning his record on 9/11.

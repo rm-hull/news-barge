@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- North East
+- PA
+people:
+- Caroline Talbot
+- Lotto
+- Ms Talbot
+organisations:
+- Allwyn
+- Guide Dogs
+- Lancashire
+- Lotto
+- The National Lottery
 ---
 
 *(Image: PA)*

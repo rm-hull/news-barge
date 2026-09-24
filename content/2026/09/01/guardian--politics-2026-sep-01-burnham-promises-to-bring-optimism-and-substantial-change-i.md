@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/7360e6185ef11948d2a212b5ea0ad627c7680477/8
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Greater Manchester
+- Holborn
+- Jackdaw
+- London
+- Makerfield
+- St Pancras
+- Stockport
+- Turkey
+- UK
+people:
+- Andy Burnham
+- Brexit
+- Gordon Brown
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Louise Haigh
+- Margaret Thatcher
+- Zack Polanski
+organisations:
+- Bank of England
+- Brexit
+- Commons
+- EU
+- Green
+- Greens
+- Guardian
+- Labour
+- Reform
 ---
 
 Andy Burnham has blamed Brexit and Margaret Thatcher for a decade of low growth in the UK, arguing that Britain needs to be brutally honest about having taken “a series of wrong turns” in the last 40 years.

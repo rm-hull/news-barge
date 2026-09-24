@@ -12,6 +12,31 @@ image: https://media.wired.com/photos/6a9723660bab9c8d3b250211/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Massachusetts
+- Tinder
+- UK
+- US
+- Utah
+people:
+- Katie Moussouris
+- Match
+- Tiago Sada
+- Tinder
+- Woodrow Hartzog
+- Yoel Roth
+organisations:
+- AI
+- American Civil Liberties Union
+- Boston University
+- FBI
+- Face Check
+- Match Group
+- Tinder
+- Tools for Humanity
+- WIRED
+- World ID
+- World’s
 ---
 
 In 2025, AI deepfakes flooded Tinder. According to the company, 98 percent of the content-moderation actions on the app were focused on combating fake accounts, scamming, and spam, pushing the company to expand its moderation efforts for its 60 million global users.

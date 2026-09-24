@@ -12,6 +12,57 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Antofagasta
+- Frankfurt
+- Fresnillo
+- London
+- Middle East
+- New York
+- Paris
+- UK
+- US
+people:
+- Andy Burnham
+- Ephrem Ravi
+- Kevin Warsh
+- Ksenia Bushmeneva
+- Ms Bushmeneva
+- Russ Mould
+- Sanjay Raja
+organisations:
+- AJ Bell
+- Alliance News
+- BP
+- Babcock International Group
+- Bank of England
+- Barratt Redrow
+- Bellway
+- Burberry
+- Citigroup
+- Compass
+- Deutsche Bank
+- Endeavour Mining
+- FXStreet
+- Federal Reserve
+- Leicestershire
+- MPC
+- Metlen Energy & Metals
+- Next
+- ONS
+- Office for National Statistics
+- Persimmon
+- SSE
+- Shell
+- St James’s Place
+- TD Economics
+- Taylor Wimpey
+- Treasury
+- UBS
+- US Census Bureau
+- US Federal Reserve
+- Unite
+- Vistry
 ---
 
 Stocks in London rallied on Wednesday despite news of higher inflation and an expected US rate increase, as oil prices edged lower.

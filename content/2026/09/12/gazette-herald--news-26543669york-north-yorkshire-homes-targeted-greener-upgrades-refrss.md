@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- England
+- North Yorkshire
+- York
+people:
+- Carolyn Frank
+- David Skaith
+- Nick Atkin
+organisations:
+- Federation of Master Builders
+- Honeysuckle House
+- North Yorkshire Combined Authority
+- Retrofit Strategy Partner Advisory Group
+- YNYCA
+- York and North Yorkshire Combined Authority
+- York and North Yorkshire Housing Partnership
 ---
 
 *(Image: York and North Yorkshire Combined Authority)*

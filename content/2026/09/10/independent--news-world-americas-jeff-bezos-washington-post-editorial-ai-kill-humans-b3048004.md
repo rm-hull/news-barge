@@ -13,6 +13,55 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Sen
+- Texas
+- Vermont
+- White House
+people:
+- AI
+- Adam O'Neal
+- Bernie Sanders
+- David Maraniss
+- David Shipley
+- Donald Trump
+- Elon Musk
+- Eric Schmidt
+- Eugene Robinson
+- Evan Hubinger
+- Geoffrey Hinton
+- God
+- Greg Casar
+- Jacob Coxon
+- Jeff Bezos
+- Jonathan Capehart
+- Kamala Harris
+- Lauren Sánchez
+- Melania Trump
+- Scripture
+organisations:
+- AI
+- Amazon
+- Anthropic
+- Bezos
+- Big Tech
+- Blue Origin
+- CNBC
+- Center for Infectious Disease Research & Policy
+- Columbia University
+- Google
+- IMDb
+- OpenAI
+- Prometheus
+- RAiUK
+- Responsible Ai UK
+- The Independent
+- The Lancet
+- The New York Times
+- Trump
+- University of Minnesota
+- Washington Post
 ---
 
 A *Washington Post* editorial invoked the Bible to downplay the potential threat posed by artificial intelligence and instead warned of looming government overreach against Big Tech — while failing to note that billionaire*Post* owner Jeff Bezos recently co-founded an AI company.

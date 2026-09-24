@@ -15,6 +15,28 @@ categories:
 - York
 - News & Politics
 - Health & Fitness
+locations:
+- East of England
+- Humber
+- NHS
+- Yorkshire
+people:
+- Duncan Burton
+- Jayne Dowle
+- Jeff Moore
+- Sophie du Plessis
+- Wes Streeting
+- Yvette Cooper
+organisations:
+- King’s College London
+- MNurs Adult
+- NHS England
+- PA Wire
+- RCN
+- RCN’s Students Committee
+- Royal College of Nursing
+- Students Committee
+- Yorkshire
 ---
 
 # Why is the NHS refusing to open doors to trained nurses? - Jayne Dowle

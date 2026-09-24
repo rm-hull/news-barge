@@ -12,6 +12,52 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Avanti West Coast
+- Britain
+- Denmark
+- Europe
+- Iran
+- London
+- Manchester
+- Nepal-Tibet
+- RAF Mildenhall
+- Russia
+- Suffolk
+- UK
+people:
+- Andrei Fedorov
+- Andy Burnham
+- Cruz
+- David Beckham
+- John Healey
+- Peter Homa
+- Simon Cowell
+- Victoria
+- Vladimir Putin
+organisations:
+- '** Telegraph'
+- '**Mail'
+- '**Sunday Telegraph'
+- BP
+- Breakers
+- Budget
+- Copenhagen University Hospital
+- Daily Star
+- ITV
+- Kyiv
+- Mail
+- NHS England
+- Nottingham NHS Trust
+- Number 10 North
+- Observer
+- Sun
+- Sunday Mirror
+- Sunday Telegraph
+- Sunday Times
+- The Sunday Express
+- Treasury
+- Ukrspecsystems
 ---
 
 ![The headline on the front page of the Independent reads: 'We've not given up': Anguish of families as flood toll climbs.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a103/live/58ee7900-a3f3-11f1-a291-b542ee92de7c.png)

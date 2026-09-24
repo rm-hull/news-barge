@@ -12,6 +12,34 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/21/16/01M327FXJQP0AC3SW5W27QM1Q5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Australia
+- Britain
+- China
+- Greater Manchester
+- Kremlin
+- Manchester Central
+- New York
+- Riyadh
+- Russia
+- Saudi Arabia
+- Stansted Airport
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- Marie-France van Heel
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- G20
+- The Independent
+- UN General Assembly
+- United Nations General Assembly
 ---
 
 Global leaders including Donald Trump are to be invited to Manchester next year as the UK hosts the G20 summit of advanced economies.

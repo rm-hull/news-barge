@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486355.jpg?type=og-image
+locations: []
+people:
+- Sharry Cramond
+organisations:
+- Marks & Spencer
+- Sparks
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bingley Arts Centre
+- Hawaii
+- Ukraine
+people:
+- Deborah Marsden
+- Elvis Presley
+- Gary Gardner
+- JD King
+- Tim
+organisations:
+- Aire Valley Eagles Rotary Group
+- Aloha
+- Burning Love Band
+- Huddersfield
+- The Adventurers Rotary Club
+- The Air Valley Eagles
+- Ukraine Humanitarian Aid Group
 ---
 
 An Elvis tribute concert will raise vital funds to support humanitarian aid deliveries to Ukraine.

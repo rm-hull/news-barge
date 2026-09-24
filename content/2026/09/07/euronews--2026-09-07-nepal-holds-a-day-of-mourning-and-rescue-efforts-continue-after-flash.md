@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bhotekhoshi
+- China
+- India
+- Kathmandu
+- Nepal
+- Silkyara
+- South Korea
+- Tibet
+- United States
+- Uttarakhand
+people:
+- Arnold Dix
+- Raja Ram Basnet
+- Silkyara
+organisations:
+- '## Rescue'
+- AFP
+- International Tunnelling and Underground Space Association
+- Nepal Army
 ---
 
 ## Rescue efforts have increasingly focused on 12 hydropower projects, where about 900 workers are missing and roughly 500 are believed to be trapped in various tunnels, authorities said.

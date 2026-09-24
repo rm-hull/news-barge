@@ -14,6 +14,36 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/14/613ecbb939e93e82f21d5a1ef89748a3Y29udGVudHNlYXJjaGFwaSwxNzkwMDgyNjk0-2.85926992.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bali
+- Belfast
+- Dublin
+- Edinburgh
+- England
+- Glasgow
+- Heathrow
+- Las Vegas
+- Luton Airport
+- Manchester
+- Northern Ireland
+- Prestwick
+- Scotland
+- UK
+people:
+- Andrew Lithgow
+- Barbara Ann Stoddart
+- Dan Halpenny
+- Martin Rolfe
+- Ms Stoddart
+- Preston
+- Ryanair Neal McMahon
+organisations:
+- ATC
+- Bradford Leeds Airport
+- British Airways
+- Luton Airport
+- National Air Traffic Services
+- Nats
 ---
 
 A bride-to-be faces a nervous wait to get to her dream wedding in Las Vegas after her flight was cancelled during a second day of major air travel disruption in a month.

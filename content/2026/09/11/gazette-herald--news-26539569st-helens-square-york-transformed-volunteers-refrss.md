@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- St Helen’s Square
+- York
+people:
+- Carl Alsop
+- Kitty Greenbrown
+- Owen Turner
+- Tabatha Hurst
+- York
+organisations:
+- GMI Construction
+- Hilton York
+- Nestle
+- Portakabin
+- Trustmarque
+- United by Design
+- York Art Trail
+- York BID
 ---
 
 A city centre square has been given a fresh new look through a volunteer-powered makeover and public art project.

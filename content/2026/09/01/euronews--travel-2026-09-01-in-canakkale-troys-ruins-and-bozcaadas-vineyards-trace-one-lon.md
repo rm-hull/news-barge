@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Ankara
+- Asia
+- BC
+- Bozcaada
+- Europe
+- Troy
+- Türkiye
+- Valencia
+- Çanakkale
+people:
+- Enes Can
+- Osman Mehmet Talay
+- Sinem Düzgören
+- Çanakkale
+organisations:
+- Troy Museum
 ---
 
 ## From the mythical walls of Troy to the ancient vineyards of Bozcaada, Çanakkale's history stretches back thousands of years and still shapes daily life in this corner of Türkiye today.

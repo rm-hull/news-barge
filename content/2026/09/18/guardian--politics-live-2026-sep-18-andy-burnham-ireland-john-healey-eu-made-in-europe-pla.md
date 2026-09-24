@@ -13,6 +13,114 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Ashton-in-Makerfield
+- Belfast
+- Cardiff
+- Culcheth
+- Downing Street
+- Dublin
+- England
+- Europe
+- Europe’
+- Great Britain
+- Greater Manchester
+- Harborne
+- Holborn
+- Israel
+- Lambeth
+- Liverpool
+- London
+- Makerfield
+- Manc
+- Merton
+- Middle East
+- North
+- Northern Ireland
+- Oxford
+- Portsmouth
+- Republic
+- Russia
+- St Pancras
+- UK
+- US
+- Ukraine
+- United Kingdom
+- Wandsworth
+- West Bank
+- Wigan
+people:
+- Adam Vaughan
+- Andy Burnham
+- Barbara Keeley
+- Ben Delo
+- Brexit
+- Christopher Harborne
+- Danny Kruger
+- Frances Ryan
+- Green
+- John Healey
+- John Major
+- Kate Ogden
+- Keir Starmer
+- Kemi Badenoch
+- Lisa Nandy
+- Mark Carney
+- Mark Rutte
+- Mark Sweney
+- Mary Lou McDonald
+- Matt Chorley
+- Micheál Martin
+- Nigel Farage
+- Palantir
+- Patrick Butler
+- Sam Coates
+- Siân Berry
+- Tom Watson
+- Volodymyr Zelenskyy
+- Wandsworth
+- Zack Polanski
+organisations:
+- BBC
+- BBC’s Newsnight
+- Brian Boru Irish Club
+- Conservative
+- Crypto
+- DUP
+- Delo
+- EPA Reform UK
+- EU
+- Ecofin
+- European Union
+- Greater London Authority
+- Green
+- HM Revenue and Customs
+- HM Revenue and Customssaying
+- HMRC
+- House of Commons
+- House of Lords
+- ICE
+- IDF
+- Institute for Fiscal Studies
+- Labour
+- Liverpool
+- Nato
+- Oli Scarff
+- PA
+- Palantir
+- Plaid Cymru
+- Pool AFP
+- Press Assocation
+- Reform UK
+- SNP
+- Sinn Féin
+- Sky News
+- Tory
+- Treasury
+- UK Youth Parliament
+- UKYP
+- Wandsworth Conservatives The
+- Whitehall
 ---
 
 Crypto millionaires would gain £500m over 5 years from Reform UK's crypto tax cuts, Labour analysis says

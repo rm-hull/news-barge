@@ -13,6 +13,44 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Bucharest
+- Estonia
+- Europe
+- Finland
+- Germany
+- Helsinki
+- Iran
+- Latvia
+- Lithuania
+- Moscow
+- Poland
+- Romania
+- Russia
+- Sweden
+- US
+- Ukraine
+people:
+- Alexander Stubb
+- Andris Kulbergs
+- Donald Tusk
+- John Hardie
+- John Ratcliffe
+- Kaupo Rosin
+- Margus Tsahkna
+- Mark Rutte
+- Putin
+- Radu Miruță
+- Trump
+organisations:
+- Bild
+- CIA
+- Digi24
+- Euronews
+- Foundation for Defence of Democracies
+- Gripen
+- NATO
+- Russia Program
 ---
 
 ## Officials across NATO’s eastern flank say there is no evidence of an imminent Russian attack, even as they strengthen their defences and warn that Moscow’s campaign of sabotage and provocations against Europe is intensifying.

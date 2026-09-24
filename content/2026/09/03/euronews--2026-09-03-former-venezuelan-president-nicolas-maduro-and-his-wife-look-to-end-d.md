@@ -14,6 +14,22 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Brooklyn
+- Caracas
+- Manhattan
+- New York
+- U.S.
+- US
+- United States
+- Venezuela
+people:
+- '## Maduro'
+- Alvin K. Hellerstein
+- Cilia Flores
+- Donald Trump
+- Nicolás Maduro
+organisations: []
 ---
 
 ## Maduro who has called himself a “prisoner of war” and his capture a “kidnapping” has requested all charges against him and his wife be dropped on grounds of diplomatic immunity. Their attorneys argued that only Venezuelan courts have the right to prosecute them.

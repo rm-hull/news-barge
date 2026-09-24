@@ -12,6 +12,32 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/06/17/19/00/GettyImages-2253211226.jpg?trim=0,81,0,80&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- America
+- Gaza
+- Israel
+- New York
+- Texas
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Marco Rubio
+organisations:
+- ICC
+- International Criminal Court
+- OFAC
+- Office of Foreign Assets Control
+- Reuters
+- U.S. Treasury
+- UN General Assembly
+- United Nations General Assembly
+- WSJ
+- Wall Street Journal
 ---
 
 Donald Trump is reportedly preparing sanctions against the International Criminal Court after the global tribunal issued an arrest warrant for Israeli prime minister Benjamin Netanyahu.

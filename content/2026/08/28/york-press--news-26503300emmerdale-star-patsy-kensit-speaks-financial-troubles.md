@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Emmerdale
+- Primrose Hill
+people:
+- Cain Dingle
+- Claire King
+- Davina McCall
+- Ian West
+- Kim Tate
+- Liam Gallagher
+- Matthew King
+- Mel Gibson
+- Patsy Kensit
+- Robert Sugden
+- Sadie King
+organisations:
+- '## Emmerdale'
+- ITV
+- PA Wire
+- Yorkshire
 ---
 
 *(Image: Ian West/PA Wire)*

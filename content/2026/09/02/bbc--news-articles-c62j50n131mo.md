@@ -12,6 +12,33 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73a/live/e93452
 categories:
 - UK
 - News & Politics
+locations:
+- Bishkek
+- Britain
+- Europe
+- Germany
+- Kremlin
+- Kyrgyzstan
+- Leipzig
+- Moscow
+- Russia
+- UK
+- US
+- Ukraine
+- West
+people:
+- '"[Jared] Kushner'
+- Alexander Dobrindt
+- Andy Burnham
+- Donald Trump
+- John Ratcliffe
+- PresidentVladimir Putin
+- Steve] Witkoff
+- Vladimir Putin
+organisations:
+- CIA
+- Moskovsky Komsomolets
+- Shanghai Cooperation Organisation
 ---
 
 ![Russian President Vladimir Putin speaks during a press conference following the Shanghai Cooperation Organisation summit in Bishkek, Kyrgyzstan. Photo: 2 September 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/eb36/live/4c752a20-a6be-11f1-b109-879e35c24276.jpg)

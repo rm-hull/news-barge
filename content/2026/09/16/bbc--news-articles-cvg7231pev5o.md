@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Canterbury
+- England
+- Hastings
+- Leeds
+- London
+- Stevenage
+- Sussex
+- UK
+- Wales
+people:
+- Alex Goss
+- Clodagh Stenson
+- Dion Smith
+- Emmeline Taylor
+- Jeff Ashman
+- Jim Taylor
+- John Bownas
+- Laurissa Woolgar
+- Lee Bottomley
+- Nicola Rees
+- Paul Greenhough
+- Sarah Jones
+- Tony Fisher
+organisations:
+- Auror
+- BBC
+- Boots
+- British Transport Police
+- CCTV
+- City St George's University
+- Dion Smith's
+- Hertfordshire Constabulary
+- Home Office
+- NPCC
+- National Police Chiefs' Council
+- Opal
+- Partnerships Against Business Crime in Staffordshire
 ---
 
 ![CCTV screenshot of a shoplifter in the act in a store aisle. The shoplifter is wearing a black hoodie and is in the process of filling a large transparent bag with goods, while a shopkeeper in high vis stands by.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/9e4b/live/d333daa0-b110-11f1-8907-39a652c5e20e.jpg)

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21481907.jpg?type=og-image
+locations:
+- North Yorkshire
+- Sandsend
+- The Parade
+- Whitby
+people:
+- Graham Wilson
+organisations:
+- Barry Crux & Company
+- Beach Hotel
+- Facebook
+- Rightmove
+- The Beach Hotel
 ---
 
 A hotel in North Yorkshire that has been in the same family since the 1960s has been put on the market for £1.2m.

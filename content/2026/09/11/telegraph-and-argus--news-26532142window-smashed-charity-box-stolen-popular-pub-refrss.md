@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- BRADFORD
+- South Square
+- The Watchmaker
+- Thornton
+- West Yorkshire
+people:
+- Alzheimer
+- Amy
+- Gareth Abraham
+organisations:
+- '## Charity'
+- Alzheimer's Society
+- CCTV
+- The Watchmaker
+- Thornton Antiquarian Society
+- Thornton Gala
+- West Yorkshire Police
 ---
 
 *(Image: Watchmaker)*

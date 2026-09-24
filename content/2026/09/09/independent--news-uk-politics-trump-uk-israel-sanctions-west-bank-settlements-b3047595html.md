@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Canada
+- E1
+- East Jerusalem
+- France
+- Gaza
+- Israel
+- Texas
+- UK
+- US
+- West Bank
+people:
+- '![Burnham'
+- Andy Burnham
+- Benjamin Netanyahu
+- Donald Trump
+- Ed Miliband
+- ’s Questions
+organisations:
+- Commons
+- International Court of Justice
+- Labour
+- YouGov
 ---
 
 Donald Trump has raised questions over the timing of a UK ban targeting trade with illegal Israeli settlements in the West Bank.

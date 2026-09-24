@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- South Australia
+- Victoria
+people:
+- Barnaby Joyce
+- Bill Gates
+- Donald Trump
+- GetUp
+- Gina Rinehart
+- Luke Hilakari
+- Oscar Kaspi-Crutchett
+- Pauline Hanson
+- Peter Dutton
+organisations:
+- Farrer
+- GetUp
+- Labor
+- National Press Club
+- One Nation
+- Redbridge
+- Trades Hall
+- Trades Hall Council
 ---
 
 The message from strategists was blunt: do not, however tempting, personally attack Pauline Hanson or call her a racist.

@@ -13,6 +13,12 @@ categories:
 - York
 - Automotive
 - Travel
+locations:
+- Boroughbridge
+- North Yorkshire
+people: []
+organisations:
+- A168
 ---
 
 *(Image: Supplied)*

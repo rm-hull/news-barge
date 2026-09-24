@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Armley
+- Farrow Road
+- Gledhow
+- Lincombe Drive
+- Yorkshire
+people:
+- Niall Worsfold
+organisations:
+- HMP Leeds
+- Leeds Crown Court
 ---
 
 # Father denies murdering one-month-old son in Yorkshire in 2020

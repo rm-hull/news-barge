@@ -14,6 +14,28 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJiZTE1MjhkLWM3ODktNDdmNC05MzA2LTcxMTlkNDE5YjJhYzplZGRlZDk2MC1hMmFlLTRjZTMtYjFiNC03NDkxNzQ5N2NiZTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Lærdal
+- Manchester
+- National Park
+- Norway
+- Peak District
+- Pennines
+- Sheffield
+- South Yorkshire
+- UK
+- Westminster
+- Woodhead Pass
+people:
+- Alex Griffiths
+- Christopher Furlong
+- Michael Dnes
+- Oliver Coppard
+organisations:
+- Department for Transport
+- Future Works
+- Government
+- The Yorkshire Post
 ---
 
 # South Yorkshire Mayor Oliver Coppard investigating private sector proposal for tunnel under Woodhead Pass

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Hormozgan
+- Iran
+- Strait of Hormuz
+- U.S.
+people:
+- Donald Trump
+- Tim Hawkins
+organisations:
+- Anduril Dive-LD
+- Axios
+- CENTCOM
+- Republican Party
+- U.S. Central Command
 ---
 
 The U.S. military said Tuesday that it opened fire and destroyed two small Iranian boats this week trying to steal a drone ship in the waters off Iran.

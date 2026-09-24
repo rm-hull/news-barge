@@ -13,6 +13,15 @@ categories:
 - UK
 - Careers & Productivity
 - Health & Fitness
+locations:
+- Detroit Ford Field
+people:
+- Ed Sheeran
+organisations:
+- Click
+- Detroit Fire Department
+- EMS
+- Ford Field
 ---
 
 Six workers at Ed Sheeran’s Detroit concert were rushed to the hospital after an accident involving the equipment used to tear down the stage.

@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- US
+people:
+- Matthew Rhys
+organisations:
+- BBC
 ---
 
 # 'Luck and timing': Matthew Rhys on his historic Emmy Awards double win

@@ -14,6 +14,35 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/06/Nigeria_Noma_Disease__47_5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Abuja
+- Africa
+- Ethiopia
+- Mauritania
+- Nigeria
+- Noma Children Hospital
+- Senegal
+- Sokoto
+people:
+- Abubakar Abdullahi Bello
+- Bukola Oluyide
+- Ibrahim Dalhatu
+- Maryam Sabiu
+- Muhammad Dalhatu
+- Yuka Makino
+organisations:
+- AP
+- Associated Press
+- Doctors Without Borders
+- Gates Foundation
+- MSF
+- Ministry of Health
+- Noma Children Hospital
+- Sokoto
+- The Lancet Global Health journal
+- United Nations Human Rights Council
+- WHO
+- World Health Organization
 ---
 
 Ibrahim Dalhatu was just 3 years old when he contracted noma, a severe disease that disfigures the face and kills most of the children it infects.

@@ -12,6 +12,38 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4465/live/866c80
 categories:
 - UK
 - News & Politics
+locations:
+- Bath
+- East Cheshire
+- England
+- Salisbury District Hospital
+- South Devon
+- Southampton
+- Torbay
+- UK
+people:
+- Alan
+- Daniel Wainwright
+- Diane
+- Emilia Scutt
+- Jess Carr
+- Lee Phillips
+- Neil Wickham
+- Pat Price
+- Steve Haines
+organisations:
+- BBC
+- Bolton NHS Foundation Trust
+- Buckinghamshire Healthcare
+- Department of Health and Social Care
+- Macmillan Cancer Support
+- NHS England
+- NHS Planning Guidance
+- National Cancer Board
+- National Cancer Plan
+- News Daily
+- Radiotherapy UK
+- Royal Devon University Healthcare Trust
 ---
 
 ![An older man wearing a black polo shirt, sits at a restaurant table with views of the countryside. He is smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg)

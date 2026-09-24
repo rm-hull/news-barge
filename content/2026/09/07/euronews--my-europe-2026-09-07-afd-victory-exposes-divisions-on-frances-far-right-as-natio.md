@@ -15,6 +15,53 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Austria
+- France
+- Germany
+- Italy
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- '## Reconquête'
+- Friedrich Merz
+- Gilles Ivaldi
+- Jean-Marie Le Pen
+- Jordan Bardella
+- Marine Le Pen
+- Maximilian Krah
+- Pierre-Romain Thionnet
+- Sarah Knafo
+- Éric Zemmour
+organisations:
+- AfD
+- Alternative für Deutschland
+- Ambrosetti Forum
+- BVA
+- Christian Democratic Union
+- ESN
+- Euronews
+- Europe of Sovereign Nations
+- European Parliament
+- European Parliamentary
+- FPÖ
+- Freedom Party
+- IPSOS
+- Identity and Democracy
+- Italy’s League
+- La Repubblica
+- Le Parisien
+- Le Pen
+- MEP
+- National Front
+- National Rally party
+- Patriots for Europe
+- PfE
+- RN
+- Reconquête
+- SS
+- Sciences Po Paris
 ---
 
 ## France’s far right responded in markedly different ways to the AfD’s sweeping victory in Germany’s regional elections, with the National Rally (RN) maintaining a conspicuous silence on Monday while Éric Zemmour’s Reconquête openly celebrated the result.

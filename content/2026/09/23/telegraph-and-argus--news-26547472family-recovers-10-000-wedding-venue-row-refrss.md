@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/19925278.jpg?type=og-image
+locations:
+- '## Venue'
+- Cleckheaton
+- Leeds County Court
+- The Monal
+people:
+- Fozia Aziz
+- Peter Fawcett
+organisations:
+- '## Family'
+- Jalwa Ltd
+- Telegraph & Argus
+- The Monal
 ---
 
 A family who spent nearly a year pursuing legal action against a wedding venue say they are finally "relieved" after recovering money awarded by a court following a dispute over a wedding booking for which they paid £11,500.

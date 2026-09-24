@@ -13,6 +13,58 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Antofagasta
+- Frankfurt
+- Halma
+- London
+- New York
+- North America
+- Paris
+- Saudi Arabia
+- UK
+- US
+- Weir
+- Yemen
+people:
+- Andrew Bailey
+- Dunelm
+- Goodwin
+- Scott Bessent
+organisations:
+- AI
+- Alliance News
+- Anglo American
+- Antofagasta
+- Atalaya Mining
+- BP
+- Bank of England
+- Bank of Japan
+- BoE
+- Cambridge Nutritional
+- Cambridge Nutritional Sciences
+- Cerberus
+- Computacenter
+- Convatec Group
+- Dunelm
+- Energean
+- Federal Reserve Bank of New York
+- Financial Times
+- Frontier Developments
+- GSK
+- Glencore
+- Goodwin
+- GreenRoc Strategic Materials
+- Gym Group
+- JD Sports Fashion
+- Monetary Policy Committee
+- Pan African Resources
+- Renalytix
+- Shell
+- Smith & Nephew
+- Treasury Committee
+- US Treasury
+- WAG Payment Solutions
 ---
 
 Stock prices in London have closed lower as Bank of England Governor Andrew Bailey warned of upside inflation risks amid elevated energy prices, while Computacenter reversed an early rally to finish at the bottom of the FTSE 100.

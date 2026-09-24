@@ -10,6 +10,33 @@ image: https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- UK
+- US
+people:
+- Alex Sobel
+- Andrea Miotti
+- Claude
+- Lord Clement‑Jones
+- Sam Altman
+- Sead
+- Tim Clement-Jones
+organisations:
+- AI
+- AI”
+- Al Jazeera Balkans
+- BBC
+- ChatGPT
+- Conjecture
+- ControlAI
+- G7
+- Google News
+- Labour
+- Liberal Democrats’
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![A person typing on a laptop and using a tablet. Only their upper torso, arms and hands are visible. Text superimposed on the image shows AI](https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML.jpg) 

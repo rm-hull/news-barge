@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- East Cleveland
+- Redcar Central Station
+- Teesside
+people:
+- Alec Brown
+- Lark
+organisations:
+- Cleveland Borough Council
+- Lark
+- Railway Heritage Trust
+- Redcar Council
+- Tees Valley Combined Authority
+- UK Government
 ---
 
 An East Cleveland bakery is the first business to open in the refurbished retail units at a train station.

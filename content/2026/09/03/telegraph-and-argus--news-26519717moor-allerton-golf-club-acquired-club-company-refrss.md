@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- England
+- HISTORIC Yorkshire
+- Moor Allerton
+- UK
+people:
+- Ian Land
+- Richard Calvert
+- Robert Trent Jones Sr
+organisations:
+- Club Company
+- Moor Allerton
+- Moor Allerton Golf Club
+- The Club Company
+- Yorkshire
 ---
 
 *(Image: Supplied)*

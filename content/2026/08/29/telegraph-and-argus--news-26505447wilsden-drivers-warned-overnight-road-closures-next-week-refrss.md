@@ -12,6 +12,24 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Allerton Road
+- Bents Lane
+- Cullingworth Road
+- Doll Lane
+- Halifax Road
+- Haworth Road
+- Main Road
+- Manywells Brow
+- New Road
+- Station Road
+- Stony Lane
+- Thornton Road
+- Wilsden Road
+people: []
+organisations:
+- City of Bradford Metropolitan District Council
+- Google Street View
 ---
 
 *(Image: Google Street View)*

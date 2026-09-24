@@ -11,6 +11,22 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/j6DTtb2ERfLrsdK6Nt2HPB-320-80.png
+locations:
+- Europe
+- TeraFab
+- Tesla
+people: []
+organisations:
+- EU
+- Elon Musk
+- Get Tom's Hardware
+- Google
+- Intel
+- International Space Station
+- NASA
+- Space Force
+- SpaceX
+- Tesla
 ---
 
 ![satellite beams down sunlight from space](https://cdn.mos.cms.futurecdn.net/j6DTtb2ERfLrsdK6Nt2HPB-320-80.png)

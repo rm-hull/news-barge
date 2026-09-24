@@ -13,6 +13,15 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Pip
+- Stephen Timms
+organisations:
+- DWP
+- Labour
+- Pip
+- Timms
 ---
 
 Disability claimants could be given more face-to-face appointments while others receive less money in exchange for equipment such as walking aids instead, in plans to shake up the personal independent payment (Pip) system.

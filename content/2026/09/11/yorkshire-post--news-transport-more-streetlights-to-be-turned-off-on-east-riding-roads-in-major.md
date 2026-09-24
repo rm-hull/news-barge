@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- East Riding
+- East Yorkshire
+- England
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Jack Cousens
+- Paul West
+organisations:
+- British Standard
+- Department for Transport
+- Department of Transport
+- East Riding Council
+- East Riding Of Yorkshire Council
+- East Yorkshire Combined Authority
+- Hull
+- The AA
 ---
 
 # More streetlights to be turned off on East Riding roads in major sustainability project

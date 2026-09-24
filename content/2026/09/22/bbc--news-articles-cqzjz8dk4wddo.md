@@ -14,6 +14,39 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aac/live/28dde790-b6a0-11f1-ba3d-1d5c8a47f823.jpg
+locations:
+- America
+- Australia
+- Jamaica
+- Kent
+- Kingston
+- London
+- Outer Hebrides
+- US
+people:
+- '## Jarvis'
+- Booker
+- Dame Mary Beard
+- Douglas Stuart
+- Elizabeth Strout
+- Elizabeth Strout** Strout
+- Emma Cline
+- Giles Coren
+- Jarvis Cocker
+- John Harrison
+- Luke Kennard
+- Marlon James
+- Mary Beard
+- Patricia Lockwood
+- Raymond Antrobus
+- Rebecca Liu
+- Rebecca Perry
+- Shuggie Bain
+- Switzy
+organisations:
+- BBC Radio 4
+- Pulp
+- The New York Times
 ---
 
 ![The judges posing and smiling together](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6aac/live/28dde790-b6a0-11f1-ba3d-1d5c8a47f823.jpg)

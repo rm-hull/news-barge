@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Marina
+- Whitby Harbour
+- Whitby RNLI Lifeboat
+people:
+- Lythe
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Whitby RNLI
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Whitby RNLI Lifeboat)*

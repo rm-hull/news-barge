@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Gaza City
+- Israel
+people: []
+organisations:
+- Hamas
 ---
 
 Photos show rescuers recovering bodies after strike-damaged building collapses in Gaza

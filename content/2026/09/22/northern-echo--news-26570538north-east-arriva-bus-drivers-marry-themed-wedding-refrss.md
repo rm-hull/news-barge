@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21485254.jpg?type=og-image&xType=0&yType=750
+locations:
+- Arriva Blyth
+- Auckland
+- County Durham
+- North East
+- North Yorkshire
+people:
+- Mark Devine
+- Sarah
+organisations:
+- ARRIVA
+- Arriva
 ---
 
 A couple who met while driving buses for Arriva in the North East are celebrating after getting married earlier this month, with several bus-related items used to make the day extra special.

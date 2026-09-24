@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Bangladesh
+- England
+- Headingley
+- Pakistan
+- South Africa
+people:
+- Ben Stokes
+- Dan Lawrence
+- Emilio Gay
+- Gus Atkinson
+- Jacob Bethell
+- Jamie Smith
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Michael Vaughan
+- Ollie Robinson
+organisations:
+- BBC Test Match Special
+- England
 ---
 
 Lawrence battles dismal weather conditions to score an impressive 50

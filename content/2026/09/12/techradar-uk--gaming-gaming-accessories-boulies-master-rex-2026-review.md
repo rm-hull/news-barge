@@ -11,6 +11,17 @@ description: Boulies has a new version of its plush Master Rex gaming chair — 
 image: https://cdn.mos.cms.futurecdn.net/Z3pUzJr3m2ho5ri3Fb3AFV-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Boulies
+- Lewis Maddison
+- Razer Iskur
+organisations:
+- Master Rex
+- Razer Iskur V2 NewGen** Razer
+- Secretlab
+- TechRadar Pro
+- Titan Evo
 ---
 
 ### TechRadar Verdict

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/5df17e1a204875e7294e82a2883e06b6d412877e/52_0_2498_2000/master/2498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afcafd0a3384ed4aa993ad6ba924c63a
+locations:
+- Asia
+- Britain
+- Cheshire
+- Chester
+- Europe
+- Herefordshire
+- Midlands
+- UK
+- Warwickshire
+- Worcestershire
+- north Africa
+people:
+- Ruby Merriman
+- Scott Wilson
+organisations:
+- British Arachnological Society
 ---
 
 She is an unlikely harbinger of the climate emergency: a venomous black and yellow spider who spins mysterious patterns in her webs and eats her mates for breakfast.

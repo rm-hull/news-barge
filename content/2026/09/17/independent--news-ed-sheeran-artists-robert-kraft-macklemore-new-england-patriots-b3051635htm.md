@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Ariana Grande
+- MetLife Stadium
+- New Jersey
+- New York
+people:
+- Dean Sheldon Serwin
+- Ed Sheeran
+- God
+- Lil Gary
+- Macklemore
+- Ray Waddell
+- Robert Kraft
+organisations:
+- Eagles
+- Gillette Stadium
+- Instagram
+- Kraft
+- Macklemore
+- Messina Touring Group
+- New England Patriots
+- Oak View Group
+- Pollstar
+- Rolling Stones
+- Sheeran's
+- The Associated Press
+- ___ Hamilton
 ---
 
 Concert promoters wield great power. Venue owners can too but they rarely choose to. And artists capable of filling stadiums like Ed Sheeran usually have approval over everything that happens under their name.

@@ -13,6 +13,50 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bradford
+- England
+- Meijel
+- Neerkant
+- Netherlands
+- Russell Bank Road
+- Sutton Coldfield
+- Undercliffe
+- Wellington HE924
+people:
+- Arthur Burgess
+- Bomb Aimer
+- Eric Jeffs
+- George Roland Wright
+- James Karl Somers
+- Jürgen Beekers
+- Mary Driver
+- Navigator
+- Neerkant
+- Pilot
+- Rear Gunner
+- Roland Wright
+- Sandra Pickles
+- Sharon Knott
+- Vera Lynn
+- William Francis Payne
+- Wireless Operator
+organisations:
+- Allied
+- Auxiliary Air Force
+- Bradford Fabrics Limited
+- Commonwealth War Graves
+- HE924
+- Hanson Academy
+- Hanson Boys School
+- Hanson Girls School
+- Midlands
+- Neerkant Historical Heritage
+- RAF
+- Royal Air Force
+- Tong Street Church Infant School
+- Vickers Wellington Mk X
+- ex-Hanson School
 ---
 
 WHEN the village of Neerkant, Netherlands, gathered on Sunday, June 21, it marked the end of a long journey.

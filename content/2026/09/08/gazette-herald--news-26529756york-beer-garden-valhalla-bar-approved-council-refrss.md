@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Patrick Pool
+- St Sampson’s Centre
+- Valhalla
+- YORK
+- York
+people:
+- Graham Hutchinson
+- Matt Bedingham
+- Pinvi
+- Pivni
+- Valhalla
+- Vincent Roberts
+organisations:
+- LDRS
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Pivni
+- Rolling Stones
+- St Sampson
+- Valhalla
+- York Council Licensing Hearing
 ---
 
 *(Image: LDRS)*

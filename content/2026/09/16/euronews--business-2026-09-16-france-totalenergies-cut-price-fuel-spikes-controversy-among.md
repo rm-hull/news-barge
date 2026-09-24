@@ -14,6 +14,28 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Corsica
+- France
+- Paris
+people:
+- Emmanuel Macron
+- Gerardo Gagliardo
+- Gianni Cuozzo
+- Giovanni Alberto Falcione
+- Jacques Goisque
+- Judith Dada
+- Lennard Schmidt
+- Maud Bregeon
+- Michel-Edouard Leclerc
+- Patrick Pouyanné
+- Sébastien Lecornu
+organisations:
+- E.Leclerc
+- FF3C
+- Langdock
+- Total
+- TotalEnergies
 ---
 
 ## TotalEnergies service stations are accused of distorting competition as they display France's lowest-priced fuel. Supermarkets that usually sell fuel as a loss leader to pull in customers are furious, along with independent service stations.

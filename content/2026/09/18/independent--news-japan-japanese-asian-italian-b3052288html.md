@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Japan
+- Nagoya
+- Tokyo
+people:
+- Costa Serena
+- Husain Al Musallam
+- Raj Mohan
+- Tayyab Ikram
+organisations:
+- OCA
+- Olympic Council of Asia
+- ___ SNTV
 ---
 
 The Olympic Council of Asia is attempting to quell complaints about lodging for athletes and officials at the Asian Games, which includes the use of converted wooden containers.

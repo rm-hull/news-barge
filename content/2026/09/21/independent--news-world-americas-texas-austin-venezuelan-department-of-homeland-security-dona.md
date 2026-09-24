@@ -14,6 +14,30 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/21/18/ICE_Shooting_Austin_74_18.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Austin
+- Georgia
+- Pearsall
+- Savannah
+- South Texas ICE Processing Center
+- U.S.
+- United States
+people:
+- Donald Trump
+- Fabiana Meléndez Ruiz
+- Kate Lincoln-Goldfinch
+- Kirk Watson
+- Lisa Davis
+- Russ Bynum
+- Wilber Rafael Garces Perez
+organisations:
+- Austin Police
+- Department of Homeland Security
+- DoorDash
+- ICE
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
+- \_\_\_ Associated Press
 ---
 
 A Venezuelan man shot by a U.S. Immigration and Customs Enforcement officer was in custody Monday at an ICE detention center in Texas after he was released from a hospital with a bullet still lodged in his back, according to a spokesperson for the man's attorney.

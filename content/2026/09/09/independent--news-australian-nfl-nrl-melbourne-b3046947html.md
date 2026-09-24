@@ -15,6 +15,23 @@ categories:
 - UK
 - Sports
 - Health & Fitness
+locations:
+- Australia
+- Melbourne
+people:
+- Jennifer Cropley
+- Keith Titmuss
+- Paul Green
+organisations:
+- ABC
+- Australian Broadcasting Corp
+- Australian Sports Brain Bank
+- CTE
+- International Sports Concussion Conference
+- Manly Sea Eagles
+- NFL
+- NRL
+- The Australian
 ---
 
 A study has found 31 rugby league players in Australia have been diagnosed with the degenerative brain disease chronic traumatic encephalopathy (CTE), the Australian Broadcasting Corp. reported.

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21486581.jpg?type=og-image
+locations:
+- A64
+- England
+- North Yorkshire
+- Richmond
+- Sherburn
+- The York
+people:
+- Cllr Les
+- David Skaith
+organisations:
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Road Safety Partnership
+- Road Safety Partnership
+- West Yorkshire
+- York
 ---
 
 The Mayor of York and North Yorkshire says it is “shameful” that the county has no fixed speed cameras.

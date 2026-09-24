@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Crystal
+- Halona
+- Navajo Nation
+- New Mexico
+people:
+- Benjamin Halona
+- Bernadine
+- Casey
+- Daddy
+- Gloria Halona
+- Mama
+- Ponjo
+- Samantha Vandever
+- Waylon Jennings
+- Willie Nelson
+organisations:
+- Associated Press
+- Love of the Common People
+- Mountain Man
+- Navajo Nation
+- Tamale Man
 ---
 
 Relatives of a New Mexico man who was fatally mauled by a bear inside his home recently say they are choosing to remember his firefighting career and zeal for peddling tamales rather than his rare, brutal manner of death.

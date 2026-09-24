@@ -12,6 +12,12 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Scarborough
+people: []
+organisations:
+- North Yorkshire Police
+- York Magistrates’ Court
 ---
 
 A woman will appear in court today (Thursday) charged with outraging public decency.

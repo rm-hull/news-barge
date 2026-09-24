@@ -17,6 +17,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Alps
+- France
+- Lurcher
+people:
+- Anne
+- Emmy
+- Ginny
+- Jack Russell
+- Julian Norton
+- Seamus
+organisations:
+- Animal Health Certificate
+- Border Terrier
 ---
 
 # The Yorkshire Vet: Old dog, new tricks and a backpack - Julian Norton

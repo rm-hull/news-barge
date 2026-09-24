@@ -14,6 +14,50 @@ categories:
 - Technology & Software
 - Science
 - Family & Parenting
+locations:
+- Australia
+- Europe
+- Florida
+- India
+- Meta
+- Michigan
+- New Mexico
+- US
+- United Kingdom
+- United States
+- Virginia
+people:
+- Adam Dema
+- Dan Jackson
+- David Pham
+- Emma Hardy
+- James Uthmeier
+- Katie Paul
+- Mark Warner
+- Mark Zuckerberg
+- Meta
+- Tracy Clayton
+organisations:
+- App Store
+- Apple
+- Apple’s App Store
+- CSAM
+- CyberTipline
+- European Union
+- Facebook
+- Google
+- Indicator Media
+- Instagram
+- Internet Watch Foundation
+- Meta
+- NCII
+- NCMEC
+- National Center for Missing and Exploited Children’s
+- Play Store
+- TTP
+- Tech Transparency Project
+- WIRED
+- Warner’s
 ---
 
 *Editor’s note: This article contains descriptions of imagery depicting child sexual abuse. Reader discretion is strongly advised.*

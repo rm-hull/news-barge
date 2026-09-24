@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bowes
+- Newcastle
+- North East
+- Teesside
+people:
+- Gilly Greenslade
+- Street Ranger Callum
+organisations:
+- Bigg Market
+- Candour Productions
+- Channel 4
+- City Safe
+- Geordie Coppers
+- Greggs
+- Middlesbrough
+- NE1 Street Rangers
+- Newcastle City Council
+- Northumbria Police
 ---
 
 A new Channel 4 show following police officers, street rangers and council staff in the North East hopes to challenge perceptions of policing by showing "the people behind the uniform", its executive producer has said.

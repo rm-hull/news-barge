@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/7a546bcb840e6093b4e9c731b69ceeca86253601/381_0_5301_4242/master/5301.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=296bc569de1e4632abe22ade63d09f79
+locations:
+- Airbus’
+- Australia
+- Brisbane
+- France
+- JFK
+- Kingsford-Smith
+- London
+- Los Angeles
+- Melbourne
+- New York
+- Perth
+- Sydney
+- Toulouse
+- US
+people:
+- Vanessa Hudson
+organisations:
+- Australian Bureau of Statistics
+- Project Sunrise
+- Qantas
+- Qantas’
 ---
 
 Qantas says travellers will be able to fly between Sydney and New York in just 18 hours from mid-2028 when the airline launches its second ultra long-haul route, cutting at least three hours from the travel time.

@@ -10,6 +10,49 @@ image: https://static.independent.co.uk/2026/06/30/08/2282101138..?trim=0,356,10
 categories:
 - News & Politics
 - UK
+locations:
+- Boryspil
+- Chernihiv
+- Dnipropetrovsk Oblast
+- India
+- Kamianske
+- Kremlin
+- Kushner
+- Kyiv
+- Moscow
+- Mykolaiv
+- US
+- Ukraine Russia
+people:
+- '## Witkoff'
+- Chentsov
+- Donald Trump
+- Jared Kushner
+- Kirill Dmitriev
+- Narendra Modi
+- Oleksandr Hanzha
+- Pavlo Palisa
+- 'Sam Kiley ## Kyiv'
+- Sergei Ryabkov
+- Steve Witkoff
+- Taras Vysotskyi
+- Trump Vladimir Putin
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- EU
+- Interfax
+- Kyiv Independent
+- OG
+- Reuters
+- Security Service
+- Spike Brokers
+- TASS
+- Trump
+- Ukraine Support Loan
+- Ukrainska Pravda
+- Vnukovo International Airport
+- Witkoff and Kushner
 ---
 
 Vladimir Putin’s deputy foreign minister has issued a warning to Donald Trump as envoys for the US president are believed to be heading to Moscow for talks to end Russia’s invasion of Ukraine.

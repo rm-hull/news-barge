@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Arts & Culture
 - Personal Finance & Investing
+locations:
+- Berlin
+- Philharmonie
+people:
+- Die Grünen
+- Iris Spranger
+organisations:
+- Bauhaus Archive
+- Berlin Philharmonic
+- Deutsche Oper
+- House of Representatives
+- Komische Oper
+- Left Party
+- Opera Foundation
+- Senate
+- Staatsballett
+- Staatsoper Unter den Linden
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0863626226h-scaled.jpg)

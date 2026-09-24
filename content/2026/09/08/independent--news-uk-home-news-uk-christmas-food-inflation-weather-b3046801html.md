@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Health & Fitness
+locations:
+- Europe
+- Middle East
+- Strait of Hormuz
+- UK
+people:
+- Dame Angela Eagle
+- Karen Betts
+organisations:
+- Defra
+- Department for Environment, Food and Rural Affairs
+- El Nino
+- FDF
+- Food and Drink Federation
+- Guardian
+- National Audit Office
+- Office for National Statistics
 ---
 
 Supermarket shoppers face rising costs as food inflation is expected to reach almost 4 per cent by Christmas before peaking at 6.4 per cent in July next year, industry leaders have warned.

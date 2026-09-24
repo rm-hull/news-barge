@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Chester-le-Street
+- County Durham
+- DURHAM
+- Ferryhill
+- Newcastle
+- North East
+people:
+- Andrew
+- Andrew?
+- Emma
+- Jake Tytler
+organisations:
+- Durham Police
+- RVI Newcastle
 ---
 
 *(Image: DURHAM CONSTABULARY)*

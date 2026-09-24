@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Barnard Castle
+- Chapel of the Holy Cross
+- Cuthbert Centre
+- Durham Cathedral
+- St Cuthbert
+people:
+- Caroline Peacock
+- Dean
+- God
+- James Shelton
+- Lilian Groves MBE
+- Philip Plyming
+- Rick Simpson
+organisations:
+- Cuthbert Centre for Pilgrimage and Prayer
+- Darlington Binns
+- Dragon's Den
+- Friends of Durham Cathedral
 ---
 
 A new centre designed to support pilgrims and visitors has been unveiled in Durham.

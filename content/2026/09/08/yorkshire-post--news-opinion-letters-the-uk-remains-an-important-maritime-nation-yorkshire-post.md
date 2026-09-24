@@ -14,6 +14,27 @@ categories:
 - York
 - History
 - Sports
+locations:
+- Camden Town
+- China
+- India
+- Indonesia
+- Iran
+- London
+- Port of Felixstowe
+- Reachview Close
+- Russian Federation
+- Strait of Hormuz
+- Suffolk
+- The Gulf
+- The Philippines
+- UK
+people:
+- Joe Giddens
+- Lester May
+organisations:
+- Royal Navy
+- Yorkshire Post Letters
 ---
 
 # The UK remains an important maritime nation - Yorkshire Post Letters

@@ -12,6 +12,26 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Harrogate
+- Knaresborough Town
+- Manse Lane
+- North Carolina
+- North Yorkshire
+people:
+- Ellie Butterfield
+- Ged Maloney
+- Mike Bligh
+- Pete Egerton
+organisations:
+- Evolution Ladies
+- Harrogate
+- Head of Development for Women’s Football
+- Knaresborough Celtic
+- Knaresborough Town
+- Knaresborough Town AFC
+- Knaresborough Town Women
+- North Eastern Regional Women’s Football League
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa274d0c9caa0a7607.jpg) 

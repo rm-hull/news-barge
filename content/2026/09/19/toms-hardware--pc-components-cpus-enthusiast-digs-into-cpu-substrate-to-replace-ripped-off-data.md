@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/T9EyGiGW5rcLsnX5TrLx2d-1920-80.jpg
+locations:
+- Tualatin
+people:
+- Mark Tyson
+- SiSoft Sandra
+- Tom
+organisations:
+- Bolts
+- CPU
+- Google News
+- TechTuber
+- Tom's Hardware
 ---
 
 ![Intel Celeron 1200 (Tualitin) repair](https://cdn.mos.cms.futurecdn.net/T9EyGiGW5rcLsnX5TrLx2d.jpg)

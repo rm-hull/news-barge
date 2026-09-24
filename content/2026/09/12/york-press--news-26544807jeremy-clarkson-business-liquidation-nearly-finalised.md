@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- A40
+- Burford
+- Diddly Squat
+- The Farmer's Dog
+people:
+- Andy Wilman
+- Clarkson
+- James May
+- Richard Hammond
+- Sons
+- W Chump
+organisations:
+- Amazon
+- Chadlington
+- Chump and Sons Limited
+- Companies House
 ---
 
 A Jeremy Clarkson-owned company has nearly finalised its liquidation.

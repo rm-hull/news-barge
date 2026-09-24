@@ -11,6 +11,46 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Africa
+- Alafia River
+- Albany
+- Atlantic Ocean
+- Caribbean
+- El Nino
+- Englewood
+- Fla
+- Fla.
+- Gulf of Mexico
+- Hawaii
+- Honolulu
+- Kauaʻi
+- Lithia
+- Lowell
+- Manasota Key
+- Milton
+- Pacific
+- Poʻipū
+people:
+- Andrew
+- Brian McNoldy
+- Chris O'Meara
+- Connor Hughes
+- Guy Miller
+- Kaylee Swenson
+- Kerry Emanuel
+- Kristen Corbosiero
+- Nick Novella
+- Phil Klotzbach
+- Rebecca Blackwell
+organisations:
+- Colorado State University
+- El Nino
+- Massachusetts Institute of Technology
+- National Hurricane Center
+- The Associated Press
+- University of Miami
+- Weather Prediction Center
 ---
 
 The Atlantic Ocean is experiencing an unprecedented lull this hurricane season, driven by a powerful El Nino event that is suppressing storm development. Data from the National Hurricane Center shows that no hurricanes have developed so far this year, nor are any expected to emerge over the coming week, despite this period typically representing the height of seasonal activity. To date, only five brief, minor tropical storms have been recorded.

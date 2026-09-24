@@ -11,6 +11,28 @@ description: Meta Connect 2026 kicks off soon and we're likely to see new smart 
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/Vc9eDPgEyWGPEmhd2V9RLP-1371-80.jpg
+locations:
+- Meta Connect
+- US
+people:
+- Alex Himel
+- James
+organisations:
+- Clarity Media
+- Google News
+- LED
+- Meta Connect
+- Meta Essilor Luxottica
+- Meta Muse
+- Meta Muse AI
+- Meta’s AI
+- New Oakley
+- Oakley Meta
+- Project Phoenix
+- RAM
+- Ray-Ban Meta
+- Ray-Ban Meta Smart Glasses
+- TechRadar
 ---
 
 ![A Meta Connect 2026 banner](https://cdn.mos.cms.futurecdn.net/Vc9eDPgEyWGPEmhd2V9RLP.jpg)

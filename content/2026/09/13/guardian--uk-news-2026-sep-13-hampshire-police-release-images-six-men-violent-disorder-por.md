@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Eastney Marina
+- Hampshire
+- Isle of Wight
+- Paulsgrove
+- Portsmouth
+- Waterlooville
+people:
+- Del Leon Somerville
+- Tony Rowlinson
+organisations:
+- Coastguard and Border Force
 ---
 
 Police have released images of six men they would like to speak to after violent disorder in Portsmouth last week that left seven officers injured.

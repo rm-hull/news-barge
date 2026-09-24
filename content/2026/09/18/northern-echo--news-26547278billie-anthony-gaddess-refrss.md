@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Europe
+- Spain
+- UK
+people:
+- Billie Anthony
+- Billie Anthony Gaddes
+- Billie Anthony Gaddess
+- Harry Secombe
+organisations:
+- ADHOC Theatre Company
+- Big FM
+- Billie Anthony Gaddes
+- Gainford Drama Group
+- Newcastle Empire
+- Real Radio International
+- The Cucaracha Club
+- Tyneside
+- Viva TV Spain
 ---
 
 *(Image: Billie Anthony Gaddes)*

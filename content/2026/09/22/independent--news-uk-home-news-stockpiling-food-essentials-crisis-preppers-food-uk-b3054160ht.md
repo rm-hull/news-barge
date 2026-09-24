@@ -13,6 +13,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/11/46/image3.jpeg?trim=0,156,0,156&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Middle East
+- Rome
+- Russia
+- UK
+- Ukraine
+- Wales
+people:
+- Ana
+organisations:
+- ATM
+- Cabinet Office
+- Facebook
+- Link
+- National Audit Office
+- UK Preppers Club
 ---
 
 In her cottage in a rural village in south Wales, Ana says she has stockpiled two months’ supply of food in specially-customised cupboards under her stairway.

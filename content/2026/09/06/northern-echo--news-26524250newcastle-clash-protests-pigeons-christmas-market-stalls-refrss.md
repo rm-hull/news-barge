@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Newcastle
+- North East
+- North Yorkshire
+- Old Eldon Square
+people:
+- Andrew Gray
+- Coun Gray
+- Coun Hunter
+- Earl Haig
+- Green
+- Heaton
+- Lawrence Hunter
+- Russ Lawler
+organisations:
+- Armed Forces
+- Green
+- HMO
+- Lib Dem
+- Newcastle City Council
+- Reform UK
+- Royal British Legion
 ---
 
 Pigeons, protests, and Christmas markets are at the centre of concerns over a “lack of respect” for a North East war memorial.

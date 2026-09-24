@@ -10,6 +10,21 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=120
 categories:
 - Film & TV
 - Technology & Software
+locations: []
+people:
+- David Lynch
+- Elvis
+- Nicolas Cage
+organisations:
+- Android XR
+- Aura
+- CES
+- Criterion Channel
+- Google I/O
+- Google Play Store
+- Lucas Ropek
+- Samsung
+- TechCrunch XREAL
 ---
 
 I am nothing if not a huge movie buff. I watch way too many of them, and I’m always on the hunt for a new format in which to experience them. So when XREAL, the smart glasses company, sent me an a01 — one of its newer models, which it released in May of this year — I was eager to give them a spin as the newest vector by which to satisfy my media fanaticism.

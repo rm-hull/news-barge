@@ -11,6 +11,27 @@ description: US could go to war with China over AGI
 image: https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- Iran
+- US
+- United States
+people:
+- Benedict Collins
+- Donald Trump
+- Jacob Stokes
+- Obama
+- Xi Jinping
+organisations:
+- AGI
+- AI
+- APT
+- AWS
+- BUCSIS
+- Google News
+- Stokes'
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A conceptual image featuring Donald Trump and China President Xi Jinping on a screen, with undulating stocks and a dollar bill in the background.](https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7.jpg) 

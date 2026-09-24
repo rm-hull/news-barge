@@ -16,6 +16,18 @@ categories:
 - Society & Culture
 - Health & Fitness
 - Family & Parenting
+locations:
+- Long Covid
+- NHS
+- PA
+people:
+- James
+- Jeff Moore
+- Karen Hargrave
+organisations:
+- CHC
+- NHS
+- NHS’s Continuing Healthcare
 ---
 
 # Flaws with CHC payments are indicative of a care system that is failing families

@@ -12,6 +12,52 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- England
+- France
+- Ireland
+- New Zealand
+- Paris
+- Prem
+- Scotland
+- South Africa
+- Stade Francais
+- Toulouse
+people:
+- '![Lawes'
+- Alex Lozowski
+- Billy Vunipola
+- Courtney Lawes
+- Courtney Lawes.
+- David Ribbans
+- Jack Willis
+- Joe Marchant
+- Junior Kpoku
+- Kyle Sinckler
+- Lewis Ludlam
+- Manu Tuilagi
+- Nicky Smith
+- Owen Farrell
+- Prem
+- Steve Borthwick
+- Tom
+- Tomas Francis
+- Willis'
+organisations:
+- Bath
+- Brive
+- Channel
+- England
+- Jack Willis
+- Lawes'
+- Northampton
+- RFU
+- Rugby Football Union
+- Rugby Union Weekly
+- Sale
+- Toulouse
+- Wasps
 ---
 
 ![Courtney Lawes walks past fans after getting off a coach](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/8bcb/live/8c6ffd80-aadd-11f1-aa35-df10e5ff32f4.jpg)

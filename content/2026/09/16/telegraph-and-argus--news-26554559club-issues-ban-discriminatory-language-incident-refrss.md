@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Beverley Town
+- Bradford
+- Horsfall Community Stadium
+- Park Avenue
+people:
+- John Rhodes
+organisations:
+- BRADFORD
+- Beverley Town
+- Bradford (Park Avenue) Sports Foundation
+- Bradford Hate Crime Alliance
 ---
 
 *(Image: John Rhodes)*

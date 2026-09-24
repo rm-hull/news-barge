@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478716.jpg?type=og-image
+locations:
+- A62 Leeds Road
+- Bradley Junction
+- Deighton
+- Gledholt Tunnels
+- Huddersfield Railway Station
+- Huddersfield Station
+- Mirfield
+- Sarah Bell
+- Transpennine
+- West Yorkshire
+people:
+- Sophie Leishman
+organisations:
+- Sarah Bell
+- TRU
+- Transpennine Route Upgrade
 ---
 
 New pictures give an insight into why a busy railway through West Yorkshire is closed for 16 days.

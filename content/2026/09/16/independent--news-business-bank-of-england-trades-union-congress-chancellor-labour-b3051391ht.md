@@ -13,6 +13,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Britain
+- UK
+people:
+- Andrew Griffith
+- Andy Haldane
+- Baroness Frances O’Grady
+- Baroness O’Grady’s
+- Burnham
+- David Craig
+- Hanneke Smits
+- John Healey
+- Paul Nowak
+- Richard Tice
+organisations:
+- Bank Workers Charity
+- Bank of England
+- BoE
+- Court of the Bank of England
+- Everton
+- Labour
+- Refinitiv
+- Reform UK
+- TUC
+- Trades Union Congress
 ---
 
 The boss of a leading trade union calling for higher taxes on banks’ profits has been appointed by the Chancellor to the Bank of England’s board.

@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Aarau
+- Aargau
+- Switzerland
+people:
+- Giorgia Meloni
+organisations: []
 ---
 
 Suspect arrested after shooting at rave in Switzerland that left 1 person dead

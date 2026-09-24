@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Birmingham
+- Godalming High Street
+- North Sea
+people:
+- Alex Norris
+- Alex Sobel
+- Andrew Griffith
+- Andrew Harper
+- Andy Burnham
+- Ed Davey
+- Farage
+- Jeremy Hunt
+- Keir Starmer
+- Kemi Badenoch
+- Mel Stride
+- Priti Patel
+- Tom Tugendhat
+organisations:
+- Burnham
+- Commons
+- Conservative
+- Guardian
+- Labour
+- Liverpool City Region
+- No 10 North
+- Reform
+- Thames Water
+- West Midlands Combined Authority
 ---
 
 Andy Burnham will drive home his pledge to bring more essential services back into public control, telling MPs in the Commons on Tuesday that it will be the only way to improve growth across the country.

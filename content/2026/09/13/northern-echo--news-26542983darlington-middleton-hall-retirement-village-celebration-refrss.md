@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Blackpool
+- Darlington
+- Hartlepool
+- Middlesbrough
+- Middleton Hall
+- Middleton Hall Retirement Village
+- Middleton St George
+- Shildon
+- Winter Gardens
+people:
+- Adam Wardale
+- Clare Robson
+- Dianne Howe
+- Helen Tinkler
+- Ms Robson
+- Tom Clough
+organisations:
+- D&H Dance Studio
+- Darlington Salvation Army Band
+- Locos in Motion Border Morris Group
+- Middleton Hall Retirement Village
+- Middleton Hall Village Show
+- The Studio
+- Village Show
+- Zoe’s Place Baby Hospice
 ---
 
 BALLROOM and Latin dancing sparked a week of celebration for a retirement community.

@@ -16,6 +16,20 @@ categories:
 - Food & Cooking
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- Cannon Mills
+- Great Horton
+people:
+- Cannon Mills
+organisations:
+- Cannon Mills
+- FSA
+- Food Standards Agency
+- SWEETCORN
+- Safer Food Better Business
+- Sweetcorn
+- Sweetcorndo
+- T&A
 ---
 
 A SWEETCORN seller has been ordered to stop serving customers with allergies after a string of hygiene breaches were found.

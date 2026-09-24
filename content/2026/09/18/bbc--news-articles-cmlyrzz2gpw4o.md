@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Blantyre
+- Leicester
+- Malawi
+- Mount Pleasant
+- UK
+people:
+- Noel Kayira
+- Nusrat Osman
+- Shobi Jiwa
+organisations:
+- BBC News Africa
+- Foreign Office
+- Malawi Police Service
+- Sun
 ---
 
 ![A head and shoulders image of Nusrat Osman wearing a black top.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e512/live/18410a00-b305-11f1-bc1f-3f186ca4140c.jpg)

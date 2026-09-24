@@ -10,6 +10,41 @@ description: I tested the Google Pixel 11 Pro XL, and it's a familiar-feeling ph
 image: https://cdn.mos.cms.futurecdn.net/GLPVz7V3YystAP3UDjBDfe-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Canyon
+- Colorado
+- Fog
+- Olive
+people:
+- Boo!
+- Gemini
+- Jason Cipriani
+- Rambler
+organisations:
+- 11 Pro
+- 11 Pro XL
+- 1TB
+- 512GB
+- A-OK
+- Android
+- Apple
+- CNET
+- CNN Underscored
+- Facebook Messenger
+- Gemini
+- Google
+- HRD
+- IGN
+- OLED
+- Olive
+- Pixel
+- Pro XL
+- Samsung Galaxy
+- Samsung Galaxy Z Fold
+- TechRadar
+- Tom’s Guide
+- Ultra
+- ZDNet
 ---
 
 ### TechRadar Verdict

@@ -11,6 +11,17 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/10/29/Jam_Press_JMP914757.jpeg?trim=153,0,257,0&width=1200&height=800&crop=1200:800
+locations:
+- Calès
+- France
+- Gloucestershire
+- Saint-Sauveur
+- Stroud
+people:
+- Andrew Rice
+- Cales Jean-Francois Poncelet
+organisations:
+- Facebook
 ---
 
 A British cave diver who was found dead 270ft underwater in France following a days-long search has been identified.

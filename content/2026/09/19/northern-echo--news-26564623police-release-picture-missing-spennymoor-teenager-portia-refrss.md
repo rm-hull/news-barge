@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21476051.jpg?type=og-image&xType=0&yType=7
+locations:
+- County Durham
+- Newcastle
+- Spennymoor
+people:
+- '![]()Portia'
+- Portia
+organisations:
+- Durham Constabulary
+- Sunderland
 ---
 
 Police have released a picture of a missing 16-year-old girl from County Durham with links to Sunderland, as efforts to locate her continue.

@@ -14,6 +14,41 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- '### Pattaya'
+- Abraham Lincoln
+- Bangkok
+- Gulf of Thailand
+- Iran
+- Laem Chabang
+- Max Muay Thai Stadium
+- Middle East
+- Pattaya City
+- U.S
+- UK
+- US
+- USS Abraham Lincoln
+- Walking Street
+people:
+- Anek Srathongyoo
+- Donald Trump
+- Lisa Hamilton
+- Mariusz Wach
+- Pipatpong Fakfare
+- Poramet Ngampiches
+- Quentin Griffiths
+- Sin City’
+- Tyson Fury
+organisations:
+- Asos
+- BBC
+- Bangkok University
+- FBI
+- Manchester
+- Pattaya Nightlife Business Association
+- Poramet
+- School of Humanities and Tourism Management
+- The Independent
 ---
 
 After a long deployment in the Middle East, a US navy aircraft carrier is set to dock in Thailand’s infamous resort city of Pattaya, triggering a hasty crackdown on prostitution.

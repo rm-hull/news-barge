@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/15678420.jpg?type=og-image
+locations:
+- Auckland
+- Consett
+- Darlington
+people: []
+organisations:
+- Babul's
+- Bannatyne Hotel
+- Blackwell Grange Hotel
+- Café Spice
+- Enjoy Darlington
+- NORTHERN ECHO
+- Noodle Bar
+- Star of Bengal
+- TAO Street Food
+- Uno Momento
 ---
 
 *(Image: NORTHERN ECHO)*

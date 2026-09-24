@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Chile
+- Manila
+- Palawan
+- Philippine
+- Philippines
+- Port of Borac
+- Port of Coron
+- Turda
+people:
+- Arnulfo Nokki Villanueva
+- Commodore Noemie Cayabyab
+- Lira Daco
+- Rachel Conserman
+organisations:
+- Atienza Interisland Ferries Inc
+- Dona Paz
+- MV June Aster
+- ___ Cerojano
 ---
 
 Thirty charred bodies found inside a burned passenger ferry in the western Philippines arrived at a port Saturday for identification after a ship fire killed at least 35 people and left more than 50 others missing earlier this week.

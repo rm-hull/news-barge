@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/nj3ypCUuWc2WZ3ciAXm3p5-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations: []
+people:
+- Collin
+organisations:
+- Amazon
+- Apple
+- BenQ MA270S
+- BenQ R/D
+- Gearadical
+- Mac
+- TechRadar Pro
+- USB-A
+- USB-C
 ---
 
 ### TechRadar Verdict

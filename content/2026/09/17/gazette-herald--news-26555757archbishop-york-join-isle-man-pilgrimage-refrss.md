@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Cathedral Isle of Man
+- Cregneash
+- Diocese of Sodor
+- Maughold
+- North
+- Peel
+- Province
+- Ramsey
+- Sound Café
+- St Andrew
+- Triskelion Way
+- York
+people:
+- Faith
+- Patricia Hillas
+- Stephen Cottrell
+organisations:
+- URC Church
 ---
 
 *(Image: Supplied)*

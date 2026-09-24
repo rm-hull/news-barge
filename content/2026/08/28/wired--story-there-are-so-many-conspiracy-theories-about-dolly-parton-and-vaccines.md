@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Pennsylvania
+people:
+- David Nino Rodriguez
+- Dolly Parton
+- Donald Trump
+- Jeffrey Tucker
+- Jolene
+- Mike Rothschild
+- Moderna mRNA Covid
+- RIP Dolly
+- Robert F. Kennedy Jr.
+- Taylor Swift
+- Toby Rogers
+- Travis Kelce
+- Travis View
+- Valerie Anne Smith
+- Wayne Allyn Root
+organisations:
+- Brownstone Institute
+- Facebook
+- Imagination Library
+- Moderna Covid
+- NFL
+- QAnon Anonymous
+- Red Pill USA
+- Trump
+- WIRED
 ---
 
 Conspiracy theories surrounding singer and philanthropist Dolly Parton’s recent death have flooded the internet, referencing everything from satanic rituals to cloning. But one conspiracy theory has dominated all the others: the claim that Parton’s death was caused by “turbo cancer” brought on by the Covid vaccine.

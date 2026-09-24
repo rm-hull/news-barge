@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1079 Hull Road
+- Bore Tree Baulk
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Elvington
+- Grimston Bar
+- Grimston Court
+- Hagg Lane
+- Kevin Glenton
+- Kexby Bridge
+- Kingston-upon-Hull
+- River Derwent
+- The A1079 Hull Road
+- York Road
+- Yorkshire Wolds
+people:
+- Kevin Glenton
+organisations:
+- A1079
+- City of York Council
+- Newsquest
+- The Scrap Box
 ---
 
 ## Major road in York set to close for resurfacing works

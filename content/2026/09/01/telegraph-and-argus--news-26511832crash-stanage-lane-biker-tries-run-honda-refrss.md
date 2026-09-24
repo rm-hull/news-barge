@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford South
+- Calderdale Valleys
+- Shelf
+- Stanage Lane
+- West Yorkshire
+- West Yorkshire Police
+people:
+- '## Rider'
+organisations:
+- '## FULL'
+- Honda
+- Operation Steerside team
+- West Yorkshire Police
+- West Yorkshire Police A
 ---
 
 *(Image: West Yorkshire Police)*

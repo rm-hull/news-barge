@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Countess of Chester Hospital
+people:
+- John Gibbs
+- Justice Thirlwall
+- Lucy Letby
+organisations:
+- BBC
+- CCRC
+- Criminal Cases Review Commission
+- Letby
+- Thirlwall Inquiry
 ---
 
 Watch: Former consultant hopes Letby inquiry recommendations will prevent deaths happening again

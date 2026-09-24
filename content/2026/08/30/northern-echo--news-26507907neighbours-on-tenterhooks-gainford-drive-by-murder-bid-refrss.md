@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- County Durham
+- Darlington
+- Gainford
+- Middlesbrough
+people:
+- Jones
+- STUART BOULTON
+organisations:
+- CSI
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- Newcastle
+- North East Ambulance Service
+- Sky Sports News
+- The Northern Echo
 ---
 
 Neighbours have spoken of their fear after a man was shot in "drive-by murder bid" on their usually quiet street.

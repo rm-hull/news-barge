@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Europe
+- Michigan
+- PA
+- Sturgis
+- U.S.
+people:
+- Abbott
+- Andrew Matthews
+- Biden
+- Donald Trump
+organisations:
+- Abbott Laboratories
+- Food and Drug Administration
+- Justice Department
+- Nestle
 ---
 
 Abbott Laboratories will pay $385 million to resolve legal claims arising from a contamination inquiry at its baby formula manufacturing plant in Sturgis, Michigan, the nation's largest, which triggered severe supply shortages in 2022.

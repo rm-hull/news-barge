@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Arnside Avenue
+- Blackpool
+- Charlotte
+- Chester Crown Court
+- Congleton
+- Crewe
+- DuPlessis
+- Padbury Lane
+- Padgbury Lane
+people:
+- Charlotte Dodd
+- DCI Hutcheon
+- Dave Hutcheon
+- Matthew DuPlessis
+- Ms Dodd
+- Richard Darrock Way
+organisations:
+- CCTV
+- Cheshire Constabulary
+- Crown Court
+- DCI Hutcheon
 ---
 
 A man who initially lied to police by claiming his girlfriend was killed in a hit-and-run has been jailed over her death.

@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/hsnowbU4tdGTgrMJxQzZrD-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- UK
+- US
+people:
+- Bose
+- Céline Dion
+- Harry Padoan
+- Jamback
+- Noise
+organisations:
+- AI
+- ANC
+- Anker Soundcore AeroClip
+- Baseus
+- Bose EQ
+- EU
+- Google News
+- IFA Berlin
+- Master Buds
+- Noise
+- Skullcandy
+- TechRadar
+- XH1
 ---
 
 ![Woman holding the Noise Master Buds Open inside charging case](https://cdn.mos.cms.futurecdn.net/hsnowbU4tdGTgrMJxQzZrD.jpg) 

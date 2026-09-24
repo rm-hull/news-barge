@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/242fe47134921b679ce7df7127637286f01f1989/482_0_4912_3930/master/4912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e6b76d1fb2cc3472d7c4cf4bfbb817f
+locations:
+- Natural England
+- Wales
+people:
+- Oliver Harmar
+- Tony Grayling
+organisations:
+- Environment Agency
+- National Drought Group
 ---
 
 Wildlife in England and Wales will be affected by the current drought for years to come, the government has said.

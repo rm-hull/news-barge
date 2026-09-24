@@ -13,6 +13,129 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AusNet
+- Bulgana
+- California
+- Canberra
+- Cupertino
+- Daylesford
+- Earth
+- East Coast
+- Eureka
+- Fiji
+- Finland
+- Melbourne
+- Melton
+- Morrison
+- NSW
+- New York
+- New Zealand
+- Queensland
+- South Australia
+- Suburban Rail Loop East
+- Sydenham
+- Sydney
+- Tuvalu
+- UK
+- US
+- Victoria
+- Whyalla
+people:
+- AAP Taylor
+- Alexander Stubb
+- Andrew Hastie
+- Andy Burnham
+- Angus Taylor
+- AngusTaylor
+- Anthony Albanese
+- Ben Carroll
+- Beth Vincent-Pietsch
+- Bob Katter
+- Chris Bowen
+- Clare O’Neil
+- Cynthia Erivo
+- Dan Tehan
+- Donald Trump
+- Eduardo Muñoz
+- Emma Comer
+- Garth Hamilton
+- Getty
+- Graeme Head
+- Henry Belot
+- Hilary Wardhaugh
+- Jacinta Nampijinpa Price
+- Jamie Chaffey
+- Jane Hume
+- Joel Carrett
+- Keiran Gilbert
+- Lukas Coch
+- Madeleine King
+- Maina Talia
+- Martha Haylett
+- Matt Canavan
+- Matt Keogh
+- Michaela Settle
+- Mick Tsikas
+- Milton Dick
+- MinisterJaclyn Symes
+- Morrison
+- Pat Conroy
+- Pauline Hanson
+- Pauline Hanson-led
+- Phil Thompson
+- Sanjay Gupta
+- Sarah Basford Canales Angus Taylor
+- Sarah Martin
+- Simon Kennedy
+- Stefano Domenicali
+- Steve McGhie
+- Susan Templeman
+- Tom Venning
+- Tony Burke
+- VicGrid
+- Warren Pickering
+- Well
+- Zali Steggall
+organisations:
+- AAP Victorian
+- ABC
+- APS
+- Apple
+- Atlantic Council
+- AusNet
+- CPSU
+- Dean Lewins/AAP Albanese
+- Formula One
+- Getty Images Best
+- Greens
+- Guardian
+- Gupta Group
+- Labor
+- Liberal
+- Lukas Coch
+- Lukas Coch/AAP
+- Mick Tsikas
+- NDIA
+- NIDA
+- National Disability Insurance Agency
+- Nationals
+- News24
+- Nine Newspapers
+- One Nation
+- Resolve Political Monitor
+- Reuters
+- Ripon
+- Senate
+- The Australia Institute
+- The Community and Public Sector Union
+- The House
+- UN
+- United Nations
+- Victorian Coalition
+- WA
+- Western Renewables Link
+- Whyalla Steelworks
 ---
 
 Australian politics live: Hanson offers qualified apologies to PM and Indigenous Australians over podcast comments; NDIA announces voluntary redundancies for first time

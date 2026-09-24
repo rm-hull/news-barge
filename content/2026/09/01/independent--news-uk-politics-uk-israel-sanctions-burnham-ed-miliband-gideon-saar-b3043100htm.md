@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/08/20/14/2288201878..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- East Jerusalem
+- Gaza
+- Israel
+- Middle East
+- Palestine
+- UK
+- West Bank
+people:
+- '![Burnham'
+- Andy Burnham
+- Benjamin Netanyahu
+- Debbie Abrahams
+- Ed Miliband
+- Gideon Saar
+- Stephen Doughty
+organisations:
+- Commons
+- Foreign Office
+- Government
+- House
+- ICJ
+- International Court of Justice
+- Labour
+- Oldham East and Saddleworth
 ---
 
 Israel has warned that it will respond in kind should the UK enforce sanctions over plans to enlarge illegal settlements in the West Bank.

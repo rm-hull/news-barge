@@ -14,6 +14,15 @@ categories:
 - Music
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Black Swan
+- MARKET
+- Pickering Rock
+people:
+- Pickering
+organisations:
+- Pickering Rocks
+- Pickering Rocks Facebook
 ---
 
 A MARKET town rocked at the weekend as a popular event brought together residents and visitors.

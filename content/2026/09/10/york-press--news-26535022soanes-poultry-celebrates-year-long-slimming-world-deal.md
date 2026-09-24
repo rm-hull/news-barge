@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- East Riding
+- Middleton
+- Wolds
+people:
+- Allison Brentnall
+- Ben Lee
+- Soanes
+organisations:
+- Slimming World Kitchen
+- Soanes Poultry
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Cullingworth
+- Flappit
+- Halifax Road
+- Pixabay
+people: []
+organisations:
+- West Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Pixabay)*

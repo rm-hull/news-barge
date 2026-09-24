@@ -14,6 +14,22 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg
+locations:
+- Indonesia
+- Norway
+people:
+- Anton Shilov
+- Tom
+organisations:
+- AI
+- Anthropic
+- Financial Times
+- Get Tom's Hardware
+- Google News
+- IMF
+- OpenAI
+- Tom’s Hardware
+- U.S. Securities and Exchange Commission
 ---
 
 ![OpenAI](https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT.jpg)

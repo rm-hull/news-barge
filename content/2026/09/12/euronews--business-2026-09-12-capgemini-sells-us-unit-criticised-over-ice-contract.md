@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Baku
+- Italy
+- Minneapolis
+- Strasbourg
+- Turin
+- US
+- United States
+people:
+- Donald Trump
+- Roland Lescure
+- Ursula von der Leyen
+organisations:
+- Capgemini Government Solutions
+- Economy and Finance
+- European Commission
+- Group
+- ICE
+- ITC Federal
 ---
 
 ## Capgemini Government Solutions was providing the US immigration authorities with technological tools to identify and track foreign nationals.

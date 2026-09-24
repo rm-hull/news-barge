@@ -13,6 +13,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/09/Germany_Elections_998_9.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bavaria
+- Berlin
+- Bundestag
+- Germany
+- Hesse
+- Mecklenburg-Western Pomerania
+- North Rhine-Westphalia
+people:
+- Angela Merkel
+- Boris Rhein
+- Friedrich Merz
+- Gerhard Schröder
+- Hendrik Wüst
+- Markus Söder
+organisations:
+- Alternative for Germany
+- Bundestag
+- CDU
+- Christian Democratic Union
 ---
 
 Friedrich Merz says he intends to stay on as the leader of Germany and his party after a string of state election defeats. But it's unclear how much room for maneuver the chancellor still has, only 16 months after he took office.

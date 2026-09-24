@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Shopping & Deals
+locations:
+- Chad Valley
+- Chad Valley Alfie
+people:
+- Alfie & Joe
+- Chantal Pearce
+- Mira
+- Peppa Pig
+- Rumi
+- Woody
+- Zoey
+organisations:
+- Ajax
+- Argos Giftie Badge Maker
+- Argos)* Argos
+- Chad Valley Kitchen
+- Dino Movie
+- Disney
+- LEGO
+- PAW Patrol
+- Pixar
+- Pokémon
 ---
 
 *(Image: Argos)*

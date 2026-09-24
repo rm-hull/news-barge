@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/20/18/Mideast_Wars_Yemen_166_5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Iran
+- Mokha
+- Oman
+- Red Sea
+- Riyadh
+- Sanaa
+- Saudi Arabia
+- Tehran
+- U.S.
+- United States
+- Washington
+- Yemen
+people:
+- Al-Bukhaiti
+- Biden
+- Donald Trump
+- Mohamed al-Bukhaiti
+organisations:
+- AP
+- The Associated Press
+- Trump
+- U.N.
 ---
 
 A senior official with the Iran-backed Houthi rebels is warning countries against joining Saudi Arabia in Yemen’s revived civil war, telling The Associated Press on Sunday that his group has assured the Trump administration that it won’t attack U.S. vessels in the Red Sea.

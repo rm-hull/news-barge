@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Avenida de America
+- Bernabeu
+- Britain
+- Jeddah
+- King of Spain
+- La Liga
+- Madring
+- Prado
+- Real Madrid
+- Salamanca
+- Zandvoort
+people:
+- '## Madrilenos'
+- Bruno del Pino
+- Charles Leclerc
+- Fernando Alonso
+- Freddie Slater
+- Ifema Carlos Jimenez
+- Jude Bellingham
+- Kylian Mbappe
+- Luis Garcia Abad
+- Luis Garcia Abad Make
+- Madridistas
+- Madring
+- Patrick Dempsey
+- Rafael Nadal
+- Ronaldo
+- Zinedine Zidane
+organisations:
+- Atletico
+- BBC Sport
+- Barcelona
+- F1
+- F3
+- Formula 1
+- Formula 3
+- Galacticos
+- Ifema
+- La Liga
+- La Monumental
+- Madring
+- Malaga
+- Real Madrid
 ---
 
 45-year wait: F1 returns to Madrid

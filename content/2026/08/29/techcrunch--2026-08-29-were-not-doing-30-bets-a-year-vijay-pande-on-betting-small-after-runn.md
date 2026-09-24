@@ -15,6 +15,26 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Stanford
+people:
+- AI
+- Antonio Gracias
+- Ben Horowitz
+- Daphne Koller
+- Marc Andreessen
+- Valor
+- Vijay Pande
+- Zach Werner
+organisations:
+- AI
+- Genesis Therapeutics
+- Insitro
+- LLMs
+- Stanford
+- Thrive
+- VZVC
 ---
 
 It used to be that Vijay Pande was better known in academic circles than investor circles. That changed pretty abruptly a dozen years ago, when Marc Andreessen and Ben Horowitz — who’d spent their firm’s first five years explicitly avoiding healthcare and life sciences — decided the category was worth betting on after all and handed the keys to Pande. At the time, he was a Stanford chemistry professor who was best known for building Folding@home, the distributed-computing project that turned millions of home PCs into a supercomputer for disease research. Over the next decade-plus, he grew a16z’s bet into a practice managing close to $4 billion.

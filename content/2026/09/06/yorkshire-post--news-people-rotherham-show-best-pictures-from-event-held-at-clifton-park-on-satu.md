@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Clifton Park
+- Free Play Area
+- Rotherham
+people:
+- Isaac Clayton
+- James Hardisty
+- John Callaghan
+- Knabama Lindsay
+organisations:
+- Hartley Lane Allotment Society
+- Rotherham Show
 ---
 
 The region’s biggest free cultural festival returned for two busy days on Saturday and Sunday.

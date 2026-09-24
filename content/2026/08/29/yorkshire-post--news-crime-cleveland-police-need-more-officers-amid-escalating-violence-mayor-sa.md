@@ -15,6 +15,37 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- A66
+- County Durham
+- Darlington
+- Grangetown
+- Haswell
+- Middlesbrough
+- PA
+- South Bank
+- Tees Valley
+- Teesside
+people:
+- Ben Houchen
+- Ben Houchen.
+- Cole Worthy
+- Jakub Matusiak
+- Jon McAdam
+- Lord Houchen
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Pc Blades
+- Pc Clough
+- Pc Matthew Blades
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- Durham Constabulary
 ---
 
 # Cleveland Police need more officers amid escalating violence, mayor Ben Houchen says

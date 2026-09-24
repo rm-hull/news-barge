@@ -13,6 +13,24 @@ categories:
 - Science
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/23/16/Italy_Nuclear_Energy_Bill_11328.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chernobyl
+- Europe
+- France
+- Fukushima
+- Italy
+- Japan
+- Poland
+- Russia
+- Ukraine
+people:
+- Giorgia Meloni
+- Michele Governatori
+organisations:
+- Chamber of Deputies
+- ECCO
+- Only Numbers
+- Senate
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

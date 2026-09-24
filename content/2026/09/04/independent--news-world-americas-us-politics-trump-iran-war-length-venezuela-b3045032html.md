@@ -13,6 +13,21 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Hormuz Strait
+- Iran
+- U.S.
+- Vietnam
+people:
+- Donald Trump
+- John A. Klinner
+- Rachel Scott
+- Vance
+organisations:
+- ABC News
+- Constitution and
+- Oval Office
+- Senate
 ---
 
 President Donald Trump has backed up comments from his vice president and insisted the Iran conflict is a relatively minor operation, rather than a full-on war.

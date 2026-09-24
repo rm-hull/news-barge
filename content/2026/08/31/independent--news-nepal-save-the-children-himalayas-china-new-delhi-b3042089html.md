@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- China
+- Dawadi
+- Himalayas
+- Nepal
+- New Delhi
+- Trishuli Valley
+people:
+- Rajendra Dawadi
+- Rishi Lekhi
+- Saaliq
+- Suvina Tamang
+organisations:
+- Associated Press
+- Save the Children
+- The Associated Press
+- Tribhuvan Trishuli Secondary School
 ---
 
 Rajendra Dawadi was inside his classroom when the school's accountant rushed in with a warning: Floodwaters were racing through Nepal’s Trishuli Valley, tearing apart homes, bridges and entire villages.

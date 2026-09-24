@@ -14,6 +14,23 @@ categories:
 - Arts & Culture
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21478375.jpg?type=og-image
+locations:
+- BBC
+- Strictly
+people:
+- '"(Karmalita'
+- AJ Odudu
+- Artem Chigvintsev
+- Guy Levy
+- Kai Widdrington
+- Kara Tointon
+- Mark Karmalita
+- Ms Stoecker
+- Tabby Stoecker
+organisations:
+- BBC One
+- PA Wire
+- TV
 ---
 
 *(Image: Guy Levy/BBC/PA Wire)*

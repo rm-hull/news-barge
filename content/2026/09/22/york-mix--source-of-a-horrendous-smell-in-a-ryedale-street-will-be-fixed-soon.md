@@ -11,6 +11,15 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/818553285_1513958024094273_7214404971996476836_n.jpg
+locations:
+- Langley Drive
+- Norton
+people:
+- Keane Duncan
+organisations:
+- Openreach
+- Virgin Media
+- Yorkshire Water
 ---
 
 Problems with a collapsed sewer in Langley Drive in Norton will be fixed.

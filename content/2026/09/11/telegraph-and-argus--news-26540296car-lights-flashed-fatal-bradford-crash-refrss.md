@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Beechwood Drive
+- Bolton Road
+- Bradford
+- Leeds Road
+people:
+- Allan Armbrister
+- Bilal Hussain
+- Gerald Hendron
+- Harris Butt
+- Husayn Ali
+- Kirstie Watson
+- Mohammed Awais Iqbal
+- Skoda
+- Wibsey
+organisations:
+- Bradford Crown Court
+- CCTV
+- Newsquest
+- Seat
+- Skoda Fabia
 ---
 
 A man has denied racing with his friend in their cars on a Bradford road just moments before a crash that left his friend with injuries that he did not survive.

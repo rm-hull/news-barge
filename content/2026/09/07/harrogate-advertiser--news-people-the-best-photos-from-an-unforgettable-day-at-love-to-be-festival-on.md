@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - Arts & Culture
 - Music
+locations: []
+people:
+- Claptone
+- Gok Wan
+- Nick Brooker
+- Paul Woolford
+- Sam Divine
+- Todd Terry
+organisations: []
 ---
 
 The popular event brought together house music, live entertainment and a vibrant festival atmosphere, with crowds dancing throughout the day.

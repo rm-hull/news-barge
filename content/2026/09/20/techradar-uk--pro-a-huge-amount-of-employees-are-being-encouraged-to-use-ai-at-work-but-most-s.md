@@ -12,6 +12,21 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg
+locations: []
+people:
+- Amy Lavoie
+- Candor
+- Christian Cawley
+organisations:
+- AI
+- Computer Weekly
+- ComputerActive
+- Culture Amp
+- Google News
+- Linux Format
+- Matter Alpha
+- People Science at Culture Amp
+- TechRadar Pro
 ---
 
 ![A man sitting at a table and looking at a laptop with a puzzled expression, holding his hear up with his hand](https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX.jpg)

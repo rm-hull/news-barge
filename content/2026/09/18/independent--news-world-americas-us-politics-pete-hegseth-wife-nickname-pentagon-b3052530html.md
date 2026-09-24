@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Afghanistan
+- Iran
+- Iraq
+- U.S.
+- Yemen
+people:
+- Jennifer Hegseth
+- John Lennon
+- Lindsey Graham
+- Pete Hegseth
+- Scott Bessent
+- Sean Parnell
+- Todd Blanche
+- Trump
+- Vodka
+- Whiskey Pete
+- Yoko Ono
+organisations:
+- Army National Guard
+- Department of War
+- Fox News
+- Pentagon
+- Presidential Military Spouse Commission
+- The Daily Mail
+- The New York Times
+- Trump
 ---
 
 Within the halls of the Pentagon, Defense Secretary Pete Hegseth’s wife has been given an unflattering nickname, according to a new report.

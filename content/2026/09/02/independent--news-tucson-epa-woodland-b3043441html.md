@@ -14,6 +14,26 @@ categories:
 - UK
 - Technology & Software
 - Automotive
+locations:
+- Edmunds
+- Edmunds’
+- Tucson
+- Woodland
+people:
+- Edmunds
+- James Riswick
+organisations:
+- Both the Tucson
+- EPA
+- Edmunds’
+- Fuel Economy Toyota
+- GR Sport
+- Hyundai
+- Limited
+- RAV4 Plug-in Hybrid Edmunds
+- SEL
+- The Associated Press
+- Woodland
 ---
 
 If you’re looking to reduce your gas bills but buying an electric vehicle just isn’t for you, the 2026 Hyundai Tucson Plug-in Hybrid or 2026 Toyota RAV4 Plug-in Hybrid might be a smart solution. These are hybrid SUVs that drive like a regular gas-powered hybrid but have a rechargeable battery that lets you drive a short distance on all-electric power first. Frequently charging the battery at home for routine driving can significantly reduce your gasoline use. But which plug-in hybrid version of these popular small SUVs is the better choice? Edmunds’ auto experts tested them both to find out.

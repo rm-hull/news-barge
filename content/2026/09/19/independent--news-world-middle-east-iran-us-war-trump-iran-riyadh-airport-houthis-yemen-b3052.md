@@ -11,6 +11,59 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/19/15/2026-09-19T000307Z_1543419715_RC2WLNA3UJU3_RTRMADP_3_USA-TRUMP-MIGRATION-VISA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Al-Kharj
+- Iran
+- Isfahan
+- Israel
+- Istanbul
+- Middle East
+- Olaya
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- Turkey
+- U.S.
+- UK
+- US
+- United States
+- White House
+- Yanbu
+- Yemen
+people:
+- '## Trump'
+- Al Jazeera
+- Donald Trump
+- Hegseth
+- Hossein Pedram
+- Mohsen Rezaei
+- Pete
+organisations:
+- Aramco
+- Bank Mellat
+- Banking Regulation and Supervision Agency
+- CNN
+- Chosen Brick
+- FAKE NEWS
+- Fox News
+- GCHQ
+- MS NOW
+- Mossad
+- National Cyber Security Centre
+- New York Times
+- Oval Office
+- Pentagon
+- Politico
+- Reuters
+- Revolutionary Guard
+- Revolutionary Guard Corps
+- The ⁠Post
+- U.S. Treasury Department
+- UN Security Council
+- US Constitution
+- Washington Post
 ---
 
 Iran has laid out to Donald Trump its conditions for re-engaging in negotiations aimed at ending the war with the US, security chief Mohsen Rezaei said.

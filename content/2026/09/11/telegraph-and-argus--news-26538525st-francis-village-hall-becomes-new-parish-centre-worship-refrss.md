@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Bradford
+- Parish of Thornton
+- Saint Peter Allerton
+people:
+- Bishop Suffragan
+- Toby Howarth
+organisations:
+- Google Street View
+- Parish Centre of Worship
+- St Francis Village Hall
 ---
 
 *(Image: Google Street View)*

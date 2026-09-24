@@ -13,6 +13,63 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Africa
+- America
+- Australia
+- California
+- El Niño
+- England
+- Gaza
+- Geneva
+- Iran
+- Israel
+- Kathmandu
+- Missouri
+- Nepal
+- Nepal-Tibet
+- New York City
+- Pacific Ocean
+- Runcorn
+- Tehran
+- Trishuli 3A
+- US
+- Washington
+- White House
+people:
+- ?** Trump
+- Adam Telle
+- Aubrie Morris
+- Bartiromo**
+- Bikram Timilsina
+- Blackfailed
+- Clancytrial
+- Daniel Driscoll
+- David Smith
+- Donald Trump
+- Epstein
+- Gloria Steinem
+- Hillary Clinton
+- Israel Katz
+- Itamar Ben-Gvir
+- JD Vance
+- Moira Donegan
+- Paul Simon
+- Pete Hegseth
+- Ro Khanna
+- Tim Walberg
+organisations:
+- Bureau of Meteorology
+- El Niño
+- Fox News Media
+- Guinness
+- Iranian Red Crescent
+- Islamic Revolutionary Guard Corps
+- Netflix
+- Senate
+- Trump
+- UN
+- US House
 ---
 
 Good morning. The US vice-president, JD Vance, has responded to claims that an American strike was responsible for killing four people, including a child, at a wedding celebration in southern Iran by saying that “sometimes things happen”. The deaths were reported by the Iranian Red Crescent, which operates independently of Tehran and is treated by most international monitors as a credible source on casualty figures.

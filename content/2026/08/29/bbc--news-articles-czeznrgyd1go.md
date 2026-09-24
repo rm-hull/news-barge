@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Eddystone Lighthouse
+- English Channel
+- Falmouth
+- Plymouth
+people: []
+organisations:
+- Maritime and Coastguard Agency
+- RNLI
 ---
 
 ![A coastguard helicopter in red and white livery](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2527/live/350634f0-a3ea-11f1-b38d-8903e6e81c24.jpg)

@@ -12,6 +12,33 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bahrain
+- Gaza Strip
+- Gulf
+- Iran
+- Israel
+- Lebanon
+- Litani River
+- Middle East
+- Morocco
+- Riyadh
+- Saudi Arabia
+- Sudan
+- Syria
+- Tehran
+- U.S.
+- US
+- United Arab Emirates
+- Washington
+- White House
+people:
+- Bashar al-Assad
+- Donald Trump
+organisations:
+- '## Axios'
+- Hamas
+- Hezbollah
 ---
 
 ## Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.

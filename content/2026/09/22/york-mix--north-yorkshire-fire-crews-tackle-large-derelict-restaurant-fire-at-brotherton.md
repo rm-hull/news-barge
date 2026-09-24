@@ -11,6 +11,24 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/09/fire-engine-rear-night-tw.webp
+locations:
+- '#### Fire'
+- Brotherton
+- Brotherton**
+- Great North Road
+- Knottingley
+- Old Great North Road
+- Selby
+- Tadcaster
+- Thaal Indian
+- West Yorkshire
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire Police
+- Water Bowser
 ---
 
 Dozens of firefighters have been tackling a large fire in the south of the county overnight.

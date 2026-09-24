@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations: []
+people:
+- Dan
+- Ellie Simmonds
+- Heather
+- Judy Wilson
+- Roxy
+- Sanam Fagan
+- Steve
+- Susy White
+organisations:
+- Adoption England
+- Adoption Matters
+- Love Island
+- The Traitors
 ---
 
 *(Image: Supplied)*

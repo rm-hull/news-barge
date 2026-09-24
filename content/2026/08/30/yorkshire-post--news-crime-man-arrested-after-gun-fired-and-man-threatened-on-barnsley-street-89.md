@@ -15,6 +15,16 @@ categories:
 - York
 - News & Politics
 - Sports
+locations:
+- Barnsley
+- Harrogate
+- North Yorkshire
+- Smithies Lane
+- South Yorkshire
+people:
+- Joanne Chambers
+organisations:
+- South Yorkshire Police
 ---
 
 # Man arrested after gun fired and man threatened on Barnsley street

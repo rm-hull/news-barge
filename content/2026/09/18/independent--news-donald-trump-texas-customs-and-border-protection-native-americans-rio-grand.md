@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Big Bend
+- Big Bend National Park
+- D.C.
+- El Paso
+- Hudspeth County
+- Lake Amistad
+- Mexico
+- Rio Grande
+- Texas
+- U.S.
+- Washington
+people:
+- Clara Benson
+- Donald Trump
+- Rodney Scott
+organisations:
+- CBP
+- Customs and Border Protection
+- No Big Bend Wall Coalition
+- The Associated Press
 ---
 
 The Trump administration has started building the border wall through a west Texas section of the Big Bend region, marking the first major construction in an area of the U.S.-Mexico border where the administration's plans have met with heavy opposition.

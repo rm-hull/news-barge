@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Europe
+- UK
+- US
+people:
+- Daniel Månsson
+- Vinod Khosla
+organisations:
+- Cognixion
+- Flow Neuroscience
+- Food and Drug Administration
+- Muse
+- National Health Service
+- TMS
 ---
 
 An at-home wearable for the treatment of depression is now available by prescription in the US.

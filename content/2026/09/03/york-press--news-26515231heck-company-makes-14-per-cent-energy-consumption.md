@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Bedale
+- Cumberland
+- Made Smarter Yorkshire
+- North Yorkshire
+- Thirsk
+- UK
+- York
+people:
+- Andrew Keeble
+- Debbie
+- Glen Minikin
+- James Ashford
+- Jamie Keeble
+organisations:
+- Best Energy
+- EMS
+- ERP
+- Enterprise Resource Planning
+- HECK HQ
+- HECK!
+- Made Smarter
+- Mica Keeble
+- Yorkshire
 ---
 
 ## Famous North Yorkshire sausage maker cuts energy use by 14%

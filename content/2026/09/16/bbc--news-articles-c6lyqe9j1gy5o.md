@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- England
+people:
+- Caroline Voaden
+- Daniel Kebede
+- Lucy Powell
+- Luke Sibieta
+- Matt Wrack
+- Paul Whiteman
+- Pepe Di'Iasio
+organisations:
+- Association of School and College Leaders
+- BBC
+- IFS
+- Institute for Fiscal Studies
+- NASUWT
+- NEU
+- National Association of Headteachers
+- National Education Union
 ---
 
 ![A teacher addressing pupils in a school classroom](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ead1/live/0f0811d0-b1da-11f1-8c0b-c1113bf3b7c0.jpg)

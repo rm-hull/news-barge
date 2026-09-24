@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Alabama
+- Dallas County
+- Jimmy’s Pawn Shop
+- Louisiana
+- Orrville
+- Selma
+- US
+- William C. Holman Correctional Facility
+people:
+- Elaine Thompson
+- Elvis Presley
+- Jeffery Lee
+- Jimmy Ellis
+organisations:
+- Alabama Capitol
+- Alabama Department of Corrections
+- Supreme Court
 ---
 
 Alabama is scheduled to execute Jeffery Lee by lethal injection Thursday evening, three months after a court blocked plans to put him to death using nitrogen gas. Lee, 49, is scheduled to be executed beginning at 6 p.m. at William C. Holman Correctional Facility in southern Alabama.

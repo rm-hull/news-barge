@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Chippenham
+- St Mary’s
+people:
+- Helen Taylor
+- Lucy Buckland
+organisations:
+- Catholic Primary School
+- Dunstan Catholic Educational Trust
+- St Mary
+- St Mary’s
 ---
 
 *(Image: St Mary’s Catholic Primary School)*

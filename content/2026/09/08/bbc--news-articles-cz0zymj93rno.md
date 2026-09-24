@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Port of Dover
+- Portsmouth
+people:
+- Danny Thomas
+- Danny Tommo
+- Edward Biggs
+- Matthew Scott
+organisations:
+- BBC Radio Kent
+- College of Policing
+- Dover District Council
+- Home Office
+- Kent Police
 ---
 
 ![A group of people in black clothing wearing black balaclavas. A number of police officers are in the crowd.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e6b9/live/b9936e00-aba0-11f1-aed2-8d6da8d75094.jpg)

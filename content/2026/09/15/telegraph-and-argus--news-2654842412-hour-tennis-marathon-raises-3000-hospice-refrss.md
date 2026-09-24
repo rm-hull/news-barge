@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Sports
 - Lifestyle & Fashion
+locations:
+- Riddlesden Tennis Club
+people:
+- Adrian Firth
+- Matti Dent
+organisations:
+- Manorlands’
+- Newsquest
+- Sue Ryder Manorlands Hospice
 ---
 
 Two local tennis players have raised £3,035 for Sue Ryder Manorlands Hospice after a 12-hour tennis marathon.

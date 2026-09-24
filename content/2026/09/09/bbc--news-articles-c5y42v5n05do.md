@@ -11,6 +11,46 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7de8/live/6b39d5
 categories:
 - UK
 - News & Politics
+locations:
+- Ayrshire
+- Belfast
+- Birmingham
+- Bristol
+- Funchal
+- Gatwick Airport
+- Hampshire
+- Heathrow
+- London Gatwick
+- Luton
+- Madeira
+- Manchester
+- Nats' Swanwick Centre
+- Prestwick
+- Stansted
+- UK
+- Virgin Atlantic
+- Wetherspoons
+people:
+- Heidi Alexander
+- James
+- Martin Rolfe
+- Sasha
+- Tim Alderslade
+organisations:
+- Airlines UK
+- BA
+- Belfast City Airports
+- Cirium
+- Civil Aviation Authority
+- Civil Aviation Bill
+- Commons
+- Nats
+- Ryanair
+- Sasha
+- Transport Secretary.
+- UK Civil Aviation Authority
+- Wizz Air
+- easyJet
 ---
 
 ![Young people lying on the floor of Gatwick Airport with their suitcases](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7de8/live/6b39d570-ac66-11f1-80f0-9795d1a5edbc.jpg)

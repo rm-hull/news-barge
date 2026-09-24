@@ -14,6 +14,20 @@ categories:
 - York
 - True Crime
 - Personal Finance & Investing
+locations:
+- Clifton
+- Peterhill Drive
+- Ryedale Caravan Site
+- Water Lane
+people:
+- Brian Smith
+- Daniel Lee
+- David Outterside
+- Deborah Smithies
+- Simon Hickey
+- Tom Peacock
+organisations:
+- York Crown Court
 ---
 
 *(Image: Archive)*

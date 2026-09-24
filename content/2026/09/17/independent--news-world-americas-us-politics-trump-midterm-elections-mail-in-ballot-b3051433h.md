@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/16/18/2026-09-13T174217Z_1520962
 categories:
 - News & Politics
 - UK
+locations:
+- White House
+people:
+- David Becker
+- Donald Trump
+- Markwayne Mullin
+- Norm Eisen
+- Wayne Allyn Root
+organisations:
+- Center for Election Innovation and Research
+- Congress
+- Cybersecurity and Infrastructure Security Agency
+- Democracy Defenders Action
+- Department of Homeland Security
+- Department of Justice
+- Election Assistance Commission
+- Electronic Registration Information Center
+- Homeland Security
+- ICE
+- Justice Department
+- National Guard
+- Real America
+- Supreme Court
+- Trump
+- U.S. Citizenship and Immigration Services
 ---
 
 Donald Trump has hit a wall.

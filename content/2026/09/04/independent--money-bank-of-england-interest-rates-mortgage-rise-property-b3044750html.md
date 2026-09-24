@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- David Stirling
+- Huw Pill
+- Justin Moy
+organisations:
+- Bank of England
+- BoE
+- Coventry Building Society
+- EHF Mortgages
+- HSBC
+- MPC
+- Mint Wealth
+- Monetary Policy Committee
+- SVR
 ---
 
 In under two weeks, a key vote will determine the next course of the UK economy, that could send mortgage costs spiralling.

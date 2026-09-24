@@ -12,6 +12,39 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '## Yorkshire Dales'
+- Angram
+- Black Hill
+- Coast to Coast
+- East Sonesdale
+- Keld Lodge
+- Keld Return
+- Kisdon Hill
+- Long Preston
+- Low Bridge
+- Pennine Way
+- Ravenseat
+- Reeth
+- Refresher’
+- River Swale
+- Tan Hill
+- The Bracken Way
+- The Dales
+- Upper Swale
+- Upper Swaledale
+- Yorkshire Dales
+people:
+- Jonathan Smith
+- Stiles
+organisations:
+- Dales
+- Keld Lodge
+- Kisdon Force
+- Navigation Training Courses
+- Peaks’
+- The Yorkshire
+- Where2walk
 ---
 
 ## Yorkshire Dales walk has it all – moorland, rivers, waterfall, and a pub

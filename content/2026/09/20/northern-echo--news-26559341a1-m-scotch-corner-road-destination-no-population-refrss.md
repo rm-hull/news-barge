@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21468634.jpg?type=og-image
+locations:
+- Britain
+- County Durham
+- Cumbria
+- England
+- M
+- M6
+- Middleton Tyas
+- NORTHERN ECHO
+- North East
+- Penrith
+- Richmond
+- Scotch Corner
+- Scotland
+- Yorkshire
+people:
+- Stuart Boulton
+organisations:
+- A1
+- A66
+- Department for Transport
+- Durham
+- Middleton Tyas
+- Motorway Services Online
+- Richmondshire Council
+- Scotch Corner
 ---
 
 Scotch Corner is one of northern England’s best-known road names.

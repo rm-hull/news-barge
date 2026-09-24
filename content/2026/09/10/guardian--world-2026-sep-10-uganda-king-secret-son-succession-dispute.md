@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Entebbe International
+- Fort Portal
+- Karambi
+- London
+- South Africa
+- Tooro
+- US
+- Uganda
+people:
+- Andrew Mwenda
+- Best Kemigisha
+- Calvin Armstrong Rwomiire Akiiki
+- Christopher Paul Kijanangoma
+- Edward Rukidi Kijanangoma
+- George David Rukidi III
+- George Desmond-Kamurasi
+- Milton Obote
+- Misuzulu Sinqobile kaZwelithini
+- Mother Best Kemigisa Akiiki
+- Oyo Nyimba
+- Oyo Nyimba Kabamba Iguru Rukidi IV
+- Ruth Komuntale
+- Ruth Nsemere Komuntale
+- Tooro
+- Yoweri Museveni
+organisations:
+- Associated Press
+- Entebbe International
+- NTV
+- Reuters
+- South East Dons
+- TV
+- UBC
 ---
 
 A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.

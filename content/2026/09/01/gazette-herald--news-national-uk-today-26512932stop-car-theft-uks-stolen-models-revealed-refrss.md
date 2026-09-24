@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- UK
+people: []
+organisations:
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Ford Fiesta
+- Hyundai Ioniq
+- Kia Niro
+- Premium EV
+- RAC
+- Tempcover
 ---
 
 *(Image: Getty Images/iStockphoto)*

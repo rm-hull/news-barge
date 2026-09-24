@@ -15,6 +15,23 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Adelaide
+- Australia
+- Brisbane
+- Canberra
+- Iran
+- Melbourne
+- Perth
+- Sydney
+people:
+- Cotality
+- Gerard Burg
+- Peter Esho
+organisations:
+- 13x
+- Cotality
+- Labor
 ---
 
 High-end homes are recording steep price falls, while more affordable properties are proving resilient, leaving Australians to experience the market downturn in very different ways, new data shows.

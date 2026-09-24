@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21477421.jpg?type=og-image
+locations:
+- County Durham
+people:
+- Amelia Anderson
+organisations:
+- Northern Echo
 ---
 
 * Good afternoon, welcome to this Northern Echo live breaking news blog.

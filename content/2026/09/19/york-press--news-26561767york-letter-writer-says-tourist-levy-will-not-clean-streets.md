@@ -12,6 +12,11 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21472121.jpg?type=og-image
+locations:
+- York
+people: []
+organisations:
+- The Herald
 ---
 
 Tourists in York - our letter writer says a tourist tax won't clean up the city

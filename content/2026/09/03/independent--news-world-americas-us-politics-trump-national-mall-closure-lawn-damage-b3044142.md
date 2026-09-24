@@ -11,6 +11,20 @@ image: https://static.independent.co.uk/2026/09/03/12/33/National-Mall-4783b9b7.
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- DC
+- National Mall
+- Washington
+people:
+- Donald Trump
+organisations:
+- Independent
+- MAGA
+- National Park Service
+- Reflecting Pool
+- Trump administration
+- Truth Social
 ---
 
 The Trump administration is closing off large sections of the National Mall lawn for restorations as the site was home to America’s 250th celebrations and vandalism that infuriated President Donald Trump.

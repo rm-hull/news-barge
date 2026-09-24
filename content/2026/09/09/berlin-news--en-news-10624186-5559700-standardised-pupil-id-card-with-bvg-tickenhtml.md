@@ -13,6 +13,15 @@ categories:
 - Germany
 - News & Politics
 - Education & Learning
+locations:
+- Berlin
+people:
+- Katharina Günther-Wünsch
+- Ute Bonde
+organisations:
+- BVG
+- CDU
+- Senator for Transport
 ---
 
 © dpa

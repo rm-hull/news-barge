@@ -14,6 +14,12 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Japan
+- Tokyo
+people: []
+organisations:
+- Ugo
 ---
 
 Robots are getting to grips with the physical world in Tokyo, where technology companies are showcasing machines designed to handle objects, perform industrial tasks and work alongside humans.

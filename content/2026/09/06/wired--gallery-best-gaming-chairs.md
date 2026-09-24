@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Science
 - Careers & Productivity
+locations:
+- Baja Blast
+people: []
+organisations:
+- SecretLab
+- Staples
+- Steelcase
 ---
 
 ## Featured in this article

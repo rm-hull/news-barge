@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Ashwell Road
+- Bradford Magistrates Court
+- Heaton
+- Ingleby Road
+people:
+- Arshad
+- Bench Steven Feeley
+- Israr Nabi
+- Julian
+- Nutella
+organisations:
+- '## Company'
+- '## Court'
+- '## Staff'
+- Cha Cha Chai
+- Cha Cha Chai Ingleby Ltd
+- EU
+- HMRC
+- ICU
+- Nutella
+- Trading Standards
+- West Yorkshire Trading Standards
 ---
 
 *(Image: T&A)*

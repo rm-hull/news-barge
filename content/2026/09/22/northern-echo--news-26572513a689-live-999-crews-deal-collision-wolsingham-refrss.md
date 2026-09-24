@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21487732.jpg?type=og-image
+locations:
+- A689
+- East End
+- Wolsingham Park
+people:
+- Amelia Anderson
+organisations:
+- Northern Echo
 ---
 
 * Good afternoon, welcome to this Northern Echo live breaking news blog.

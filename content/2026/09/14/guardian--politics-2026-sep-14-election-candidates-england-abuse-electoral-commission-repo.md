@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- England
+people:
+- Vijay Rangarajan
+organisations:
+- Electoral Commission
+- Greens
+- Labour or Reform UK
+- Liberal Democrats
+- Reform UK
 ---
 
 Abuse and intimidation of election candidates is “a serious and growing concern”, the Electoral Commission has said, as a review of this year’s local and mayoral elections in England revealed a surge in threats to those who stood.

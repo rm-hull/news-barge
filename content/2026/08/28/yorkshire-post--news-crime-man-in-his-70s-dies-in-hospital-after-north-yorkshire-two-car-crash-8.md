@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- B1363 York Road
+- North Yorkshire
+- Sutton-on-the-Forest
+- York Road
+people: []
+organisations:
+- Astra
+- Audi
+- North Yorkshire Police
 ---
 
 # Man in his 70s dies in hospital after North Yorkshire two-car crash

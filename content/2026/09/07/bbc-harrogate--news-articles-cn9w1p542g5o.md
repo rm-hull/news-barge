@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - Travel
 - Personal Finance & Investing
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- North Yorkshire.
+- Paris
+- Whitby
+- York
+people:
+- Brendan Paddison
+- David Skaith
+organisations:
+- English Devolution and Community Empowerment Bill
+- Policy Lab
+- York
 ---
 
 ![Painted beach huts in a row in Whitby, North Yorkshire.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8e9e/live/8da1dbe0-a86e-11f1-bbad-43eaf67b94b6.jpg)

@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Edgbaston
+- England
+- Pakistan
+- Razaullah
+- South Africa
+people:
+- Alastair Cook.
+- Ben Stokes
+- Cook
+- Dan Lawrence
+- Gus Atkinson
+- Joe Root
+- Jofra Archer
+- Jonathan Agnew
+- Josh Tongue
+- Marcus Trescothick
+- Michael Vaughan
+- Muhammad Abbas
+- Ollie Robinson
+- Razaullah
+- Stephen Fleming
+- Stokes'
+- Tim Southee
+- Yorkshireman
+organisations:
+- BBC
 ---
 
 Highlights: Razaullah stars as Pakistan fight back against England

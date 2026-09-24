@@ -16,6 +16,33 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Bradford
+- Usher Street
+people: []
+organisations:
+- BD4
+- BD7
+- BD8
+- BD9
+- BRADFORD
+- Bamboo Kids
+- Bradford
+- City Glass Works Limited
+- City Glass Works Ltd
+- Creative Child Ltd
+- Crown Foods
+- Fashion Wize Ltd
+- Government
+- HMRC
+- IBI Healthcare Ltd
+- Lister Pharmacy
+- Lister Schoolwear
+- Megaplay
+- National Minimum Wage
+- Newsquest
+- PB2 Ltd
+- Telegraph & Argus
 ---
 
 *(Image: Newsquest)*

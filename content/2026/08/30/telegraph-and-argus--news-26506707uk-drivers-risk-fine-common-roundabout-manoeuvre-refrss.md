@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Graham Conway
+organisations:
+- Crown Prosecution Service
+- Met Office
+- Select Car Leasing
+- UK Highway Code
 ---
 
 *(Image: Getty Images)*

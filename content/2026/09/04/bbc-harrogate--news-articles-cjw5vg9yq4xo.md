@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- Filey
+- Greenfields Avenue
+- Osgodby
+people:
+- Michaela Golding
+organisations:
+- York Crown Court
 ---
 
 ![A woman with short blonde hair is frowning at the camera. She is wearing a read, white and black patterned top. She is in front of a grey background.](https://ichef.bbci.co.uk/ace/standard/839/cpsprodpb/d823/live/af1d3c70-a868-11f1-ae45-e9984fc27c77.jpg)

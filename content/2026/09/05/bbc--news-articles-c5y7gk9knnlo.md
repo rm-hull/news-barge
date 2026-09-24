@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Egypt
+people:
+- Sarah Khalifa
+organisations:
+- Akhbar al-Youm
+- Amnesty International
+- al-Ahram
 ---
 
 ![Sarah Khalifa wearing a white long-shirted with her folded left arm, the hand touching her long hair, sits by the side of a road inside a red-roped cordoned area, beyong which people walk on a road the other side of which has rows of sunbathed buildings](https://ichef.bbci.co.uk/ace/standard/626/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png)

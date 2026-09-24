@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313425504.jpg
+locations:
+- AI
+- Earth
+people:
+- Jensen Huang
+organisations:
+- NASA
+- Nvidia
+- UK National Lottery
+- WHO
+- World Health Organization
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313425504.jpg?w=840)

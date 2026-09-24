@@ -12,6 +12,50 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- China
+- East Jerusalem
+- Gaza
+- Heaton Park
+- Iran
+- Israel
+- Middle East
+- North Korea
+- Palestine
+- Russia
+- UK
+- US
+- Washington
+- West Bank
+people:
+- '## Burnham'
+- Andy Burnham
+- Benjamin Netanyahu
+- Benjamin Netanyhau
+- Bezalel Smotrich
+- Donald Trump
+- Ed Miliband
+- Jonathan Hall KC
+- Keir Starmer
+- Malcolm Rifkind
+- Mike Huckabee
+- Pat McFadden
+- Peter Prinsley
+- Tom Tugendhat
+organisations:
+- BBC Newsnight
+- BBC Radio 4
+- BBC Radio 4’s Today
+- Commons
+- Government
+- Hamas
+- Labour Friends of Israel
+- Labour Party
+- Sky News
+- Telegraph
+- The Times
+- Times Radio
 ---
 
 The US ambassador to Israel has condemned the UK sanctions on Israeli settlements in the West Bank, describing them as “an irrational action” and “discrimination against the Jewish people”.

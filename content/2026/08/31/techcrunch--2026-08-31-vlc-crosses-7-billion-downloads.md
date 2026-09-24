@@ -10,6 +10,13 @@ description: In our world of expensive streaming platforms, the very free and of
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-590060556.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations: []
+people:
+- Jean-Baptiste Kempf
+organisations:
+- Amazon
+- VLC
+- VideoLAN
 ---
 
 In our world of expensive streaming platforms, the very free and offline VLC media player, developed by the non-profit VideoLAN, has crossed 7 billion downloads across all platforms.

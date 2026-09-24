@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Berlin
+- Germany
+- Mecklenburg-Western Pomerania
+- New York
+- Saxony-Anhalt
+people:
+- Friedrich Merz
+organisations:
+- AfD
+- Alternative for Germany
+- Christian Democratic Union
+- General Assembly
+- U.N
 ---
 
 German Chancellor Friedrich Merz has canceled a trip to the U.N. General Assembly next week as he faces mounting pressure at home during a string of difficult state elections.

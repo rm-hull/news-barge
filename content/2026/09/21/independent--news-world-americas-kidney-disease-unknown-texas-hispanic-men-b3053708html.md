@@ -13,6 +13,24 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/21/15/25/GettyImages-1243373755.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Central America
+- Houston’s Ben Taub Hospital
+- India
+- Mexico
+- Nepal
+- Sri Lanka
+- Texas
+- U.S.
+- United States
+people:
+- Fisher
+- Rebecca Fischer
+- Ricardo Nuila
+- Sreedhar Mandayam
+organisations:
+- Texas Monthly
+- Texas Monthly.
 ---
 
 A growing number of otherwise healthy young men in the United States have been diagnosed with an unexplained form of kidney disease.

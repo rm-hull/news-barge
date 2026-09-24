@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Downdetector
+- MICROSOFT Outlook
+- Microsoft Copilot
 ---
 
 *(Image: Getty Images)*

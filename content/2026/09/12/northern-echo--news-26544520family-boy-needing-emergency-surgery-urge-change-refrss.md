@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+people:
+- Chris Heighway
+- HEIGHWAY
+- Katrina Jones
+- Leanne
+- Matthew Brennan
+- Seth Heighway
+organisations:
+- Brain Tumour Research
+- Centre of Excellence
+- County Durham
+- Darlington Market
+- Institute of Cancer Research
 ---
 
 The family of a six-year-old boy who was left "breathing through an airway the size of a straw" after chemotherapy for a brain tumour affected his vocal cords are calling for change.

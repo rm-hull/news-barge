@@ -13,6 +13,22 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/20468085.jpg?type=og-image&xType=0&yType=1256
+locations:
+- Abbey Headland
+- Market Place
+- New Quay Road
+- Pier Road
+- UK
+- West Cliff
+- Whitby
+- York
+people:
+- Chris Riddolls
+- Jacqui Layman
+organisations:
+- '![]()Whitby Town Council'
+- Colostomy UK
+- Whitby Town Council
 ---
 
 A total of 10 public toilets in Whitby could be ‘converted’ to become more accessible.

@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/LW2EUhsGBATa5fCPATgzof-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Hollywood
+people:
+- Acston Luca Porto
+- Adam Scott
+- Frank Carter
+- Jake
+- Lucy Buglass
+- Michael Keaton
+- Peter Willis
+- Robert DeNiro
+- Tom Kennedy
+organisations:
+- '### TechRadar Verdict'
+- Google News
+- Lucy Goes
+- Rotten Tomatoes
+- TechRadar Netflix
+- The Simpsons
 ---
 
 ### TechRadar Verdict

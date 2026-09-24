@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Texas
+- US
+people:
+- Bernie Sanders
+- Greg Abbott
+- Jay Stanley
+- Josh Hawley
+- Matthew Guariglia
+- Ro Khanna
+- Thomas Massie
+- Woodrow Hartzog
+organisations:
+- ACLU
+- American Civil Liberties Union
+- Boston University
+- DeFlock
+- Electronic Frontier Foundation
+- Fisa
+- Flock Safety
+- ICE
+- Institute for Justice
+- US Immigration and Customs Enforcement
+- Washington Post
 ---
 
 Growing factions from both sides of the political aisle in the US are pushing back against surveillance cameras made by a single company, a rare response in a sharply divided country with a president pushing an unwaveringly pro-tech agenda.

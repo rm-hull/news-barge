@@ -13,6 +13,27 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Anfield
+- Qatar
+- UK
+people:
+- Andy Gray
+- Charlotte Jackson
+- Jamie Redknapp
+- Jim Proudfoot
+- Richard Keys
+- Sian Massey-Ellis
+- Yeah
+organisations:
+- Atletico Madrid
+- Daily Mail
+- Everton
+- Liverpool
+- Sky Sports
+- Sky Sports’
+- TalkSport
+- beIN Sports
 ---
 
 Andy Gray is to make his return to UK commentary for the first time since he was sacked by Sky Sports for sexist and derogatory comments when he worked for the broadcaster.

@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Monaco
+- North Sea
+- UK
+people:
+- Andy Burnham
+- Bridget Phillipson
+- Chris Rokos
+- Jim Ratcliffe
+- Lakshmi Mittal
+- Laura Kuenssberg
+- Philipson
+organisations:
+- BBC
+- Budget
+- Forties
+- Ineos
+- Labour Party
+- Manchester United
 ---
 
 ![Bridget wears a navy blazer over a purple top sitting and talking in front of the illustrated Sunday with Laura Kuenssberg set.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg)

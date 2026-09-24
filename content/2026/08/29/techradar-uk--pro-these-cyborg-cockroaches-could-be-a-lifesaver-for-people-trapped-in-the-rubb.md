@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/GixriCtEHgCdoujsLfBG4G-1920-80.png
 categories:
 - Technology & Software
 - Science
+locations:
+- Australia
+people:
+- Hai Nhan Le
+- Thang Vo-Doan
+- Tim Hassiotis
+organisations:
+- Efosa
+- Fire and Rescue NSW
+- Google News
+- Le
+- PhD
+- TechRadar Pro
+- UNSW
+- University of New South Wales
+- University of Queensland
+- Via The Guardian
 ---
 
 ![Cyborg Cockroaches designed for rescue missions in collapsed buildings and other natural disaster situations](https://cdn.mos.cms.futurecdn.net/GixriCtEHgCdoujsLfBG4G.png) 

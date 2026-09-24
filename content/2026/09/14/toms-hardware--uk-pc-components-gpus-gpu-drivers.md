@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Mesa
+people: []
+organisations:
+- AMD Radeon RX
+- Asus Dual OC
+- CUDA
+- FSR
+- Forza Horizon
+- Get Tom's Hardware
+- Huawei Arm
+- INT8
+- NVIDIA
+- NVK
+- Nvidia GPUs
+- Reddit
+- VoidTech
+- Vulkan
+- ZLUDA
+- Zluda
 ---
 
 ![AMD GPU](https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-320-80.png)

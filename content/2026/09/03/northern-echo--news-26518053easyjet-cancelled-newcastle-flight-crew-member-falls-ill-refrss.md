@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bristol
+- Lisbon
+- Newcastle
+- North East
+- PA
+- Uber
+people: []
+organisations:
+- EasyJet
+- Newcastle International Airport
+- The Northern Echo
 ---
 
 *(Image: PA)*

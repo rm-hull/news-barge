@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- DURHAM
+- Darlington
+- Durham Constabulary
+- Newton Aycliffe Magistrates’ Court
+- Shelley Road
+- Westmoreland Street
+people:
+- Joshua Norman
+- Rachel Hills
+organisations: []
 ---
 
 A Darlington man was caught with a four-inch kitchen knife in his pocket after plainclothes officers chased him down.

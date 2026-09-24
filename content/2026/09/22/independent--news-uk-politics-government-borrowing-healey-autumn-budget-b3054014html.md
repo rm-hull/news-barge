@@ -12,6 +12,34 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/08/2294113178..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Middle East
+- PA
+- UK
+people:
+- Andrew Griffith
+- Andrew Griffiths
+- Andy Burnham
+- Emma Reynolds
+- Healy
+- John Healey
+- Jonathan Brady
+- Matt Swannell
+- Rachel Reeves
+- Stefan Rousseau
+- Thomas Pugh
+organisations:
+- Item Club
+- KPMG
+- Labour
+- OBR
+- ONS
+- Office for Budget Responsibility
+- Office for National Statistics
+- RPI
+- RSM UK
+- Treasury
 ---
 
 UK Government borrowing climbed higher than anticipated in August, hitting its second-highest mark for the month on record and intensifying the strain on Chancellor John Healey weeks ahead of his maiden autumn Budget.

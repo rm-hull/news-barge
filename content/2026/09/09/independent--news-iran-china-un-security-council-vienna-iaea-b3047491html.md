@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- China
+- France
+- Germany
+- Iran
+- Jordan
+- Niger
+- Russia
+- Tehran
+- U.S.
+- United States
+- Vienna
+people: []
+organisations:
+- IAEA
+- Security Council
+- U.N
+- U.N.
 ---
 
 The U.N. atomic watchdog’s board on Wednesday reported Iran to the U.N. Security Council for the first time in 20 years for failure to cooperate in a long-running investigation into uranium traces detected by inspectors at various undeclared sites in Iran.

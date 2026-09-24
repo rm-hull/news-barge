@@ -11,6 +11,37 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Bangkok
+- Iran
+- Isan
+- Laem Chabang
+- Laem Chabang Port
+- Nong Nooch Tropical Botanical Garden
+- Pattaya Beach
+- Pattaya City
+- Sanctuary of Truth Museum
+- Sattahip
+- Soviet Union
+- Thailand
+- U-Tapao
+- U.S.
+- US
+- Walking Street
+people:
+- Abraham Lincoln
+- Elizabeth Becker
+organisations:
+- Cartoon Network
+- Marines
+- REUTERS
+- Sattahip Royal Thai Navy Base
+- Shore Patrol
+- Thai Navy
+- U.S. Air Force
+- US Navy
+- Uniform Code of Military Justice
 ---
 
 US Navy aircraft carrier Abraham Lincoln has steamed into Thailand's Laem Chabang on Wednesday with roughly 5,000 sailors and Marines who have spent 286 days at sea.

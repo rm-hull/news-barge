@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- California
+- Colorado
+- Napa
+- New York
+- North Carolina
+- U.S. House
+- Washington
+people:
+- David A. Bragdon
+- Heather Ammel
+- Kyrsten Sinema
+- Matthew Ammel
+- Steven Epstein
+organisations:
+- Army
+- Senate
 ---
 
 A judge has cleared the way for former U.S. Sen. Kyrsten Sinema to be sued under North Carolina’s homewrecker law.

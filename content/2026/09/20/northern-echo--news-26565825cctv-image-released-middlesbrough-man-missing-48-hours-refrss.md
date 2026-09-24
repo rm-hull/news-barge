@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21478221.jpg?type=og-image&xType=0&yType=44
+locations:
+- Heron
+- High Street
+- Middlesbrough
+- Ormesby
+people:
+- Christopher Moy
+organisations:
+- Cleveland Police
 ---
 
 Police have released a CCTV image of a Middlesbrough man who has been missing for almost 48 hours as efforts to locate him continue.

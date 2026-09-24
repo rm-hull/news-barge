@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Circular Quay
+- Downing Centre
+- Sydney
+people:
+- Alan Jones
+- C
+- FitzSimons’
+- Gabrielle Bashir SC
+- Glenn Walsh
+- Jason Morrison
+- Kate McClymont
+- Pauline Hanson
+- Peter FitzSimons
+- Ray Hadley
+organisations:
+- 2GB
+- Alan Jones
+- FitzSimons
+- SMH
+- Sydney Morning Herald
 ---
 
 Sydney Morning Herald columnist Peter FitzSimons has told the Alan Jones trial an alleged victim he spoke to in 2019 was “tearful” and sounded “emotionally traumatised” when detailing alleged assaults by the 2GB broadcaster.

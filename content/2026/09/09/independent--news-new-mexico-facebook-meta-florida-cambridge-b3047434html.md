@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- America
+- Cambridge
+- Florida
+- New Mexico
+- Santa Fe
+- U.S.
+people:
+- Donald Trump
+- Mark Zuckerberg
+- Raúl Torrez
+- Schuettler
+organisations:
+- Cambridge Analytica
+- Facebook
+- Instagram
+- Meta
+- Report for America Statehouse News Initiative
+- The Associated Press
 ---
 
 Facebook is on trial in New Mexico over privacy concerns that emerged during the 2016 election when a political consulting firm bought user data that was harvested from millions of profiles to generate targeted ads.

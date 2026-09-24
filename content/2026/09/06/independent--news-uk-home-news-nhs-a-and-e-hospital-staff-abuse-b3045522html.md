@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people:
+- Catherine Hayhurst
+- Ian Higginson
+organisations:
+- Department of Health and Social Care
+- NHS
+- RCEM
+- Royal College of Emergency Medicine
 ---
 
 Emergency department workers face daily or weekly violence and aggression, with staff being kicked and racially abused, health leaders have warned.

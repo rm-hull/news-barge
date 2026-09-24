@@ -11,6 +11,37 @@ image: https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Alpharetta
+- Georgia
+- Illinois
+- Iran
+- US
+- United States
+- West Virginia
+people:
+- MrChildPorn
+organisations:
+- 404 Media
+- AI
+- Axios
+- Boston Dynamics
+- CISA
+- CSAM
+- Cybersecurity and Infrastructure Security Agency
+- DHS
+- DOJ
+- Department of Homeland Security
+- FBI
+- Flock Safety
+- Immigration and Customs Enforcement
+- Meta
+- OpenAI
+- PeopleFinder
+- QTFY
+- TechCrunch
+- US Senate
+- WIRED
 ---
 
 You may have noticed that Flock Safety’s automatic license plate reader cameras—and the cops who misuse them—are getting a lot of coverage lately. This week, WIRED found a particularly wild case: A cop in Alpharetta, Georgia, was accused of searching for the license plate of a coworker dozens of times after an affair between the two ended, according to internal documents obtained by WIRED.

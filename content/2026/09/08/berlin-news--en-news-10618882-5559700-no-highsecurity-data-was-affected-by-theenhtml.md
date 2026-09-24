@@ -15,6 +15,12 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+people:
+- Florian Hauer
+organisations:
+- State Parliament’s Committee on Home Affairs
 ---
 
 © dpa

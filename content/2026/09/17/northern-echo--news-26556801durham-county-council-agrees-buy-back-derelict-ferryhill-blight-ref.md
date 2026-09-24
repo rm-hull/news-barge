@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- DURHAM COUNTY
+- Ferryhill
+- Feryemount House
+- Newton Aycliffe
+- UK
+- YOUR
+people:
+- Alan Strickland
+- Feryemount
+organisations:
+- Care Co Plus Ltd
+- County Durham
+- Durham Constabulary
+- Durham County Council
+- Portal Durham County Council
+- Public Notice Portal
+- Reform UK
+- Spennymoor
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

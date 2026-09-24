@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Darlington
+- Durham
+- Ison Harrison
+- Tees, Esk
+- Wear Valleys
+people:
+- Alistair Smith
+- Andy Burnham
+- John Potter
+- SARAH CALDECOTT
+- Wes Streeting
+- Yvette Cooper
+organisations:
+- Court of Appeal
+- NHS Trust
+- Northern Echo
+- TEWV NHS
+- Tees, Esk
+- Tees, Esk and Wear Valleys NHS Foundation Trust
+- Wear Valleys NHS Foundation Trust
 ---
 
 A public inquiry into the region’s scandal-hit mental health trust will finally get underway next week.

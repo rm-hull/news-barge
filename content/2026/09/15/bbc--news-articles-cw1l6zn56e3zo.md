@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chester Hospital
+- Countess of Chester Hospital
+- England
+- Liverpool Town Hall
+people:
+- Alison Kelly
+- Ian Harvey
+- Justice Thirlwall
+- Lucy Letby
+- Sue Hodkinson
+- Tony Chambers
+- Tony Onon
+- Yvette Cooper
+organisations:
+- British Medical Association
+- CCTV
+- CQC
+- Care Quality Commission
+- Cheshire Police
+- Countess of Chester
+- Countess of Chester Hospital
+- Criminal Cases Review Commission
+- HR
+- Lucy Letby
+- NHS
+- Thirlwall
 ---
 
 ![A split composite of Lucy Letby's mugshot and the sign outside Countess of Chester Hospital](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/22a9/live/d6214980-b103-11f1-bc1f-3f186ca4140c.png)

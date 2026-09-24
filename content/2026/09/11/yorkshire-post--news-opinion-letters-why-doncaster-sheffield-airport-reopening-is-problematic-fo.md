@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Sheffield
+- South East
+- South Yorkshire
+people:
+- Chris Broome
+- Mark Chadwick
+organisations:
+- DSA
+- Doncaster Sheffield Airport
+- Doncaster Sheffield Airport.
+- James Hardisty
+- South Yorkshire Climate Alliance
+- The Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # Why Doncaster Sheffield Airport reopening is problematic for the environment - Yorkshire Post Letters

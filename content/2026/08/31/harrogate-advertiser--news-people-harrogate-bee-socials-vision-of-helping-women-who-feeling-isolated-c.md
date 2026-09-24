@@ -13,6 +13,14 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Harrogate
+people:
+- Jane
+organisations:
+- Community Group
+- Harrogate Bee Social
+- The Yorkshire Soap Company
 ---
 
 # Harrogate Bee Social's vision of 'helping women who feeling isolated' creates thriving community of 1,000 members

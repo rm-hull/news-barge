@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Poppleton
+- UK
+- York
+people: []
+organisations:
+- '## Poppleton'
+- Poppleton Community Railway Nursery
 ---
 
 ## Poppleton's historic railway nursery to host open day and plant sale

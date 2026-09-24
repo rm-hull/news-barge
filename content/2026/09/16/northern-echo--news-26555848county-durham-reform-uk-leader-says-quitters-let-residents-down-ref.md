@@ -12,6 +12,55 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Benfieldside
+- Chester-le-Street South
+- County Durham
+- Delves Lane
+- Easington
+- Lower Teesdale
+- Murton
+- North East
+- Seaham
+- Sedgefield
+- Shildon
+- Shotton
+- West Auckland
+people:
+- Andrew Harrison
+- Andrew Husband
+- Andrew Kilburn
+- Bridget Phillipson
+- Cllr Fox
+- Cllr Husband
+- David Cumming
+- Dawn Saunders
+- Ian Catchpole
+- Jack McGlenen
+- Jasmine Fox
+- John Bailey
+- Kate Rowland
+- Kenny Hope
+- Lyndsey Fox
+- Michael Ramage
+- Nick Brown
+- Nicole Brown
+- Nigel Farage
+- Paul Bean
+- Paul Sexton
+- SARAH CALDECOTT
+organisations:
+- Advance UK
+- Aycliffe South
+- Bishop Auckland
+- Crook
+- Dawdon
+- Durham County Council
+- Labour Party
+- Peterlee
+- Reform UK
+- Shildon
+- Sky News
 ---
 
 The leader of Durham County Council has accused three former Reform UK councillors of "letting residents down" after they quit the party and left his administration with a majority of just three.

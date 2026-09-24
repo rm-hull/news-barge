@@ -20,6 +20,68 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Chelsea
+- Doonbeg
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- Leeds
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- New York City
+- Old Bailey
+- Russia
+- Saudi Arabia
+- UK
+- US
+- Westminster
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Farmanullah Sherzad
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Meghan
+- Mikel Arteta
+- Nourah
+- Putin
+- Sam Ryder
+- Sulaiman Tajzai
+- Tom Grennan
+- Trump
+- Wayne Jolley
+- Zelensky
+organisations:
+- Burnham
+- Chelsea
+- De Zerbi
+- ELITE
+- Labour
+- Liverpool
+- MI6
+- Metropolitan Police
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

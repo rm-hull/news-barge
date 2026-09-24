@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Deir el-Zour
+- Syria
+people:
+- PresidentBashar Assad
+organisations:
+- International Atomic Energy Agency
+- The Associated Press
+- U.N.
+- UN
 ---
 
 UN report finds Syria was building a nuclear reactor in Deir el-Zour under former President Assad

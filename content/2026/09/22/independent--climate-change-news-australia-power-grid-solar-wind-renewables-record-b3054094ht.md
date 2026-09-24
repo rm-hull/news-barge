@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/09/2281576520..?trim=119,0,119,0&width=1200&height=800&crop=1200:800
+locations:
+- South Australia
+people:
+- Brown
+- Chris Bowen
+- Dylan McConnell
+organisations:
+- Australian Capital Territory
+- Australian Energy Market Operator
+- Facebook
+- Guardian
+- Labor
+- National Electricity Market
+- University of New South Wales
 ---
 
 Solar and wind power set a new renewable energy record on two consecutive days last week in Australia, meeting 80% of the demand on themain electricity grid.

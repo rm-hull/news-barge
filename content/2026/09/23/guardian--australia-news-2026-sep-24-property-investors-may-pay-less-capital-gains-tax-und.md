@@ -14,6 +14,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/8404dc4a64fb0e7f231380778c9a1873fc341039/156_0_2421_1936/master/2421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97d3a39355a901d5a3f3dc0702ef7e55
+locations: []
+people:
+- Jim Chalmers
+- Michele Bullock
+- Nick Garvin
+- Peter Tulip
+- Tim Wilson
+organisations:
+- Centre for Independent Studies
+- Commonwealth Bank
+- Labor
+- Liberal
+- Reserve Bank
+- Treasury
 ---
 
 Most property investors may end up paying less capital gains tax after Labor’s budget reforms, research based on an analysis of historical data suggests.

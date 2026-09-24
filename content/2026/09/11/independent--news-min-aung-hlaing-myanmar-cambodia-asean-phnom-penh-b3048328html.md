@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- ASEAN
+- Belarus
+- Cambodia
+- China
+- India
+- Kazakhstan
+- Laos
+- Myanmar
+- Naypyitaw
+- Phnom Penh
+- Russia
+- Thailand
+- Vietnam
+people:
+- Aung San Suu Kyi
+- Hun Sen
+- Min Aung Hlaing
+- Mu Sochua
+organisations:
+- ASEAN
+- Association of Southeast Asian Nations
+- Fortify Rights
+- International Criminal Court
+- KMD
+- Khmer Movement for Democracy
+- MRTV
+- Senate
 ---
 
 The leader of Myanmar’s military-backed government is visiting Cambodia to meet with its leaders in his latest effort to normalize relations with other members of the Association of Southeast Asian Nations, as critics warn the visit could weaken the bloc's collective efforts to address Myanmar’s conflicts.

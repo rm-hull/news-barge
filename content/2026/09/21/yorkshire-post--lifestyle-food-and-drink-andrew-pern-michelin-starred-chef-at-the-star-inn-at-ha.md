@@ -16,6 +16,32 @@ categories:
 - Food & Cooking
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc5ZDM0NTA3LTNlYzktNDJkMy04ZTRiLTBkNzdjNjk0Y2YwOTo1OThlZTNjZS1hNDk0LTRhZmYtYjEwNS1mYWE2ODE3NGQwY2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Andrew
+- Harome
+- Helmsley
+- North York Moors
+- Radfords Butchers of Sleights
+- Ryedale
+- Whitby
+- Yorkshire
+people:
+- Andrew Pern
+- Andrew Pern.
+- Harome
+- Wainwright
+organisations:
+- Celeriac Puree
+- Cider Cream
+- Harome
+- Helmsley Brewery
+- Orchard Apples
+- Prunes
+- Star Inn
+- The Star Inn
+- Wold Top
+- Yeehaa!
+- Young Leeks
 ---
 
 # Andrew Pern: Michelin-starred chef at The Star Inn at Harome shares best places in Yorkshire to indulge in an autumnal dinner on a budget

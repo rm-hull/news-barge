@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/3L3WneafQaAfYFC8wkd6hT-2560-80.jpg
+locations:
+- China
+people:
+- Carrie Marshall
+- Hisense UR8
+organisations:
+- BOE
+- ETNews
+- FlatpanelsHD
+- Google News
+- HKC
+- LG Display
+- Neo QLED
+- OLED
+- QLED TV
+- Samsung Display
+- Samsung M80H
+- Samsung R95H Micro RGB TV
+- Sony
+- TCL CSO
+- TCL CSOT
+- The Batman
+- The Elec
+- Unquiet Mind
+- Warner Bros
 ---
 
 ![Hisense UR8 (left) and Samsung QN80H (right) showing a green frog on a branch on screen. The frog appears brighter on the QN80H ](https://cdn.mos.cms.futurecdn.net/3L3WneafQaAfYFC8wkd6hT.jpg)

@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A61 Leeds Road
+- North Yorkshire
+people: []
+organisations:
+- AA Traffic
 ---
 
 *(Image: Newsquest)*

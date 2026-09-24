@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- England
+- Hardraw Force Waterfall
+- Hawes
+- Leeming Bar
+- Redmire
+- Upper Wensleydale
+- Wensleydale Creamery
+- Wensleydale Railway
+- Yorkshire Dales
+people:
+- Hawes
+organisations:
+- Crown
+- Dales Countryside Museum
+- Jono Read
+- Tesco
+- Yorkshire Wensleydale
 ---
 
 *(Image: Getty)*

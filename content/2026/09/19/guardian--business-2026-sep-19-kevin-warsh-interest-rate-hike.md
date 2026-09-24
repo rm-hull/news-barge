@@ -13,6 +13,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/9034a8b840c58443fd1a74486d27a853d430cd90/22_0_4170_3336/master/4170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6a280d8ed53ef30b724e3802f0e99a5
+locations:
+- Iran
+- Oval Office
+- UNITED STATES OF AMERICA
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Eduardo Porter
+- Fox
+- George Soros
+- Jerome “numbskull” Powell
+- Kevin Hassett
+- Kevin Warsh
+- Scott Bessent
+- Stanley Druckenmiller
+organisations:
+- Congress
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
 ---
 
 In the end, Kevin Warsh’s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting of the Federal Open Market Committee, when he refused to provide any indication of what he was prepared to do to tame stubborn inflation, the chair on Wednesday presided over a unanimous decision to raise interest rates for the first time in three years.

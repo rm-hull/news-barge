@@ -15,6 +15,28 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- BrewDog
+- UK
+- US
+- United States
+people:
+- James Watt
+organisations:
+- AlixPartners
+- BrewDog PLC
+- BrewDog Retail
+- BrewDog Retail Limited
+- BrewDog)* Staff
+- Companies House
+- Ellon
+- HM Revenue & Customs
+- HMRC
+- HSBC
+- National Insurance
+- PAYE
+- TSG Consumer Partners
+- Tilray
 ---
 
 *(Image: BrewDog)*

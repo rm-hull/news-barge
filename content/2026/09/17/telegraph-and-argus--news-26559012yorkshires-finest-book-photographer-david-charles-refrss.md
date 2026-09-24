@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- East Stand
+- Huntington
+- Kathryn Avenue
+- The Leveson Centre
+- York Community Stadium
+people:
+- Andy Knowles
+- Christine Talbot
+- Dame Judi Dench
+- David Charles
+- Gaynor Fay
+- Harry Gration
+- Kay Mellor
+- Michael Parkinson
+- Sean Bean
+organisations:
+- Finest’
+- YO32 9AF
+- York Against Cancer
+- Yorkshire
 ---
 
 *(Image: Supplied)*

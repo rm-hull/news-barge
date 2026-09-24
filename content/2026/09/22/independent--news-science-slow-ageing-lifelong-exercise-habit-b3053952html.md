@@ -13,6 +13,14 @@ categories:
 - Self-Improvement
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/22/3/33/A-90-year-old-bodybuilder-trains-in-his-gym-in-Hiroshima-Japan.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- France
+- Hiroshima
+- Japan
+- Nice
+people: []
+organisations: []
 ---
 
 A lifelong physical activity routine can help the body respond better to stress and illness in older age and lead to healthier ageing, a new study shows.

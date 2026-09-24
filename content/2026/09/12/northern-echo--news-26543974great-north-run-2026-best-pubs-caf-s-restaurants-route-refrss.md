@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bamburgh Avenue
+- Britain
+- Claremont Road
+- Coast Road
+- Colmans Seafood Temple
+- Felling Bypass
+- Fitzgeralds Wardley
+- Gateshead
+- Great North Run
+- Leam Lane
+- Lock and Quay
+- Lock and Quay Pub
+- Newcastle
+- North Sea
+- North Terrace
+- Prince Edward Road
+- Quayside
+- Sea Road
+- South Shields
+- Swing Bridge
+- The Hooch
+- Tyne Bridge
+people:
+- Dan Burn
+- Edward Rd
+- Mio
+organisations:
+- Bamburgh Pub
+- Fitzgeralds
+- Hooch
+- Met Office
+- Newcastle
+- South Shields Recent
 ---
 
 *(Image: COLMANS)*

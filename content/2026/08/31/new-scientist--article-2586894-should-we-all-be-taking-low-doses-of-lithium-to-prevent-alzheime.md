@@ -14,6 +14,26 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Crazy Water
+- Earth
+- Japan
+- Maryland
+- Mineral Wells
+- Pennsylvania
+- Texas
+- UK
+- US
+- Yankner
+people:
+- Bruce Yankner
+organisations:
+- 7UP
+- Baylor University
+- Harvard University
+- Hyeong-Moo Shin
+- Johns Hopkins University
+- University of Pittsburgh
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676623.jpg?w=840)

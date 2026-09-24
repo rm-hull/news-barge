@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- 17C
+- Cardiff
+- England Manchester
+- Kew Gardens
+- London
+- North Atlantic
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 Milder conditions are set to return following a rainy start to the week as temperatures are forecast to creep back up to 24C.

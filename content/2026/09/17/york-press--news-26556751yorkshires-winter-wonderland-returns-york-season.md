@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Alpine Chalet
+- Bishop Auckland
+- Designer Outlet York
+- England
+- Santa’s Grotto
+- Winter Wonderland
+people:
+- Jennifer Rojko
+- Paul Tyler
+- York
+organisations:
+- Aglow!
+- Designer Outlet
+- Designer Outlet York
+- Winter Wonderland
+- YORKSHIRE'S Winter Wonderland
+- Yorkshire
 ---
 
 *(Image: Supplied)*

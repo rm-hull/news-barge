@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Catterick Village
+- Cornwall
+- Croft Airport
+- Darlington
+- Fountains Abbey
+- King’s Bench
+- Kirkby Fleetham
+- Kirkby Fleetham Hall
+- Lady Chapel
+- North Yorkshire
+- Northallerton
+- Ripon
+- St Mary's Church
+- St Mary’s Church
+- Steve Hill
+- Studley Royal
+people:
+- Chris Lloyd
+- Edward II
+- Henry le Scrope
+- John Aislabie
+- Joy Kerin
+- Knight Templar
+- Miles Stapleton
+- Nicholas Stapleton
+- Piers Gaveston
+- R Pearson
+- Ripon
+- Steve Hill
+- William
+organisations:
+- Bank of England Inflation Calculator
+- Darlington FC
+- Exchequer
+- House of Commons
+- Kirkby Fleetham Hall
+- Knights Templar
+- Richmond School
+- South Sea Company
+- Studley Royal
+- Yorkshire
 ---
 
 UNIQUE access to one of the most delightful, and most historic, dells in North Yorkshire is on offer to people joining a local history day on September 19.

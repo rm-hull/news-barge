@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Hong Kong
+- Indio River
+- Pacific
+- Panama Canal
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+- Ilya Espino de Marotta
+- Ricaurte Vásquez
+organisations:
+- AP
+- Board of Directors
+- The Associated Press
 ---
 
 Naval engineer Ilya Espino de Marotta takes the helm Monday as the first woman to lead the Panama Canal administration, stepping into the role at a challenging time for the vital maritime route.

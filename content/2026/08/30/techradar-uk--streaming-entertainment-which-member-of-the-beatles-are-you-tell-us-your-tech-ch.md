@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/jf8yreF9aidjNLx2knUaqm-1920-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- George Harrison
+- John Lennon
+- Paul McCartney
+- Ringo Starr
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- TechAdvisor
+- TechRadar
+- The Beatles
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![the beatles abbey road album cover](https://cdn.mos.cms.futurecdn.net/jf8yreF9aidjNLx2knUaqm.jpg) 

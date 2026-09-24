@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Heslington
+- York
+people:
+- Francis Xi
+- Jeremiah Xi
+- Xianwei Xi
+organisations:
+- Force Control Room
+- North Yorkshire Police
+- Xianwei
 ---
 
 Extensive searches are underway tonight (Sunday) to find a missing man from York.

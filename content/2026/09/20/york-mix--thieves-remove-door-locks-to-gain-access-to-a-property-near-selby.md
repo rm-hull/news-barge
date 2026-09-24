@@ -11,6 +11,14 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/06/police-stab-vest-summer-dreamstime.webp
+locations:
+- Castle Hill Lane
+- Drax Village
+- Drax**
+- Main Road
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 Police have received two reports of burglaries, that may be linked, that happened overnight in Drax Village.

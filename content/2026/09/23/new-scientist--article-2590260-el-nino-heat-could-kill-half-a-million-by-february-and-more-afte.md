@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313519870.jpg
+locations:
+- Africa
+- Brazil
+- Europe
+- India
+- Indonesia
+- Nigeria
+- Pakistan
+- South America
+- UK
+- US
+people:
+- Christopher Callahan
+- Emily Grover-Kopec
+- Raquel Nunes
+organisations:
+- Callahan
+- Climate Impact Lab
+- ECMWF
+- El Niño
+- European Centre for Medium-Range Weather Forecasts
+- Indiana University Bloomington
+- Rhodium Group
+- University of Chicago
+- University of Warwick
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313519870.jpg?w=840)

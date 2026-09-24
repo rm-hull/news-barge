@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Sports
 - Business & Entrepreneurship
+locations:
+- NYC
+- New York City
+- US
+people:
+- Rene Millman
+- Shaq
+- Shaquille O'Neal
+- Toma Sabaliauskienė
+organisations:
+- CMO
+- Computer Weekly
+- Financial Times
+- Google News
+- IT Pro
+- NBA Hall of Famer
+- No Trace
+- NordVPN
+- The Guardian
+- YouTube
 ---
 
 ![Shaquille O'Neal partnership with NordVPN, promo image](https://cdn.mos.cms.futurecdn.net/XHtLjmtszfU6gLnFybg9B4.png) 

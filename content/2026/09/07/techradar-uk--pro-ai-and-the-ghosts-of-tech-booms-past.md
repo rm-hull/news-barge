@@ -9,6 +9,25 @@ description: What can past tech booms teach us about AI?
 image: https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Silicon Valley
+- U.K.
+- UK
+people:
+- Jack Dorsey
+organisations:
+- AI
+- Bank of England
+- Boo.com
+- CGI
+- Crypto
+- Future plc
+- NFT
+- National Grid
+- TechRadar Pro
+- TechRadarPro
+- Twitter
 ---
 
 ![The letters AI in a box in the middle of a vast digital room divided by beams of line](https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM.jpg) 

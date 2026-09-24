@@ -15,6 +15,33 @@ categories:
 - UK
 - Society & Culture
 - Sports
+locations:
+- Argentina
+- Atlantic
+- Britain
+- Falkland Islands
+- Falklands
+- Iran
+- Israel
+- Malvinas Islands
+- Sea Lion
+- South America
+- The Islands
+- U.K.
+- U.S.
+- United States
+people:
+- Donald Trump
+- Ed Miliband
+- Javier Milei
+- Margaret Thatcher
+organisations:
+- Argentina
+- England
+- GB News
+- Islanders
+- Las Malvinas
+- Royal Navy
 ---
 
 In a primetime rallying call to the nation, Argentine President Javier Milei has resurrected Argentina's long-standing claim to the nearby U.K.-held Falkland Islands and in the process conjured up memories of the bitter war the two countries fought 44 years ago.

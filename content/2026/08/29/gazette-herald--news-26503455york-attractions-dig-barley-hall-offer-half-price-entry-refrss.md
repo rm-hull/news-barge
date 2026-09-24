@@ -14,6 +14,14 @@ categories:
 - York
 - Travel
 - Sports
+locations:
+- Barley Hall
+- York
+people:
+- Lisa Wood
+organisations:
+- DIG
+- JORVIK Viking Centre
 ---
 
 JORVIK Viking Centre is offering a big discount on entry to two of York’s top attractions.

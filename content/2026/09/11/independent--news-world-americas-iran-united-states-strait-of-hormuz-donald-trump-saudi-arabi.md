@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Asia
+- Bab el-Mandeb
+- Baghdad
+- Cairo
+- China
+- Europe
+- Gulf
+- Iran
+- Israel
+- Jerusalem
+- Jizan
+- Middle East
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Tehran
+- U.S.
+- United States
+- Washington
+- Yemen
+people:
+- Ali Vaez
+- Chris Wright
+- Danny Citrinowicz
+- Donald Trump
+- Homayoun Falakshahi
+- Mona Yacoubian
+- Washington
+organisations:
+- Center for Strategic and International Studies
+- Institute for National Security Studies
+- International Crisis Group
+- Kpler
+- ___ Krauss
 ---
 
 In recent weeks, the United States has succeeded in loosening Iran's grip over the Strait of Hormuz while virtually shutting down Iran's own oil exports, accelerating its economic free fall.

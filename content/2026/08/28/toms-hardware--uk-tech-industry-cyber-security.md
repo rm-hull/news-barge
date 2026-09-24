@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/Z3ALa8RFYkJET9YpRR36K7-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Slovakia
+- U.S.
+people:
+- Trump
+organisations:
+- AMD
+- Dutch National Cyber Security Centre
+- FBI
+- Geekom
+- Get Tom's Hardware
+- Microsoft
+- NASA
+- NCSC-NL
+- Senate
+- Shenzhen Zhibotong Electronics
+- Siemens
+- U.S. Department of Justice
+- Vulncheck
+- Web Audio
 ---
 
 ![A photograph of an older home gateway resting on a hardwood table.](https://cdn.mos.cms.futurecdn.net/Z3ALa8RFYkJET9YpRR36K7-320-80.jpg)

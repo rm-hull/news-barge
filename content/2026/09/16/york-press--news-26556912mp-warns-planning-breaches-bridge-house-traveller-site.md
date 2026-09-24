@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Biggin
+- Bridge House
+- North Yorkshire
+- Oxmoor Lane
+- Selby
+- York
+people:
+- Alec Shelbrooke
+- Matt Simpson
+- R Merrett
+organisations:
+- Biggin Parish Council
+- North Yorkshire Council
+- Selby and Ainsty Area Committee
+- Wetherby and Easingwold
 ---
 
 *(Image: Matt Simpson)*

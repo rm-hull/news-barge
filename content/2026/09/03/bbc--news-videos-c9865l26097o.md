@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- New York City
+people:
+- Gloria Steinem
+- Roe
+- Wade
+organisations:
+- Playboy Club
+- US Supreme Court
 ---
 
 # Watch: Gloria Steinem dedicated her life to fight for women's equality

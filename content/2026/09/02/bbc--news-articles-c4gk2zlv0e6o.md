@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- North Sea
+people:
+- Graham Skinner
+- Niyi Adeleke
+- Will Rollinson
+organisations:
+- BBC Scotland
+- BBC Scotland News
+- BG Group Plc
+- Brodies
+- MCA
+- Maritime and Coastguard Agency
+- OEUK
+- Offshore Energies UK
 ---
 
 ![A helicopter lands on an oil rig and a man in orange overalls is climbing up steps and heading towards it](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7ef7/live/c9a8ab10-a6e2-11f1-9e4c-79c1c0e340c6.jpg)

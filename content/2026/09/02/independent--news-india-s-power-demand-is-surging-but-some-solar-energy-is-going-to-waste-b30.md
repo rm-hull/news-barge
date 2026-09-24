@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berkeley
+- Gujarat
+- India
+- Rajasthan
+- South Asia
+people:
+- Ankit Mittal
+- Avinash Rao
+- Disha Agarwal
+- Neshwin Rodrigues
+- Vibhuti Garg
+- Vinay Pabba
+organisations:
+- AP
+- Associated Press’
+- Ember
+- India Energy and Climate Center
+- Ingro Energy
+- Institute for Energy Economics and Financial Analysis
+- Mahindra Susten
+- Mittal
+- New Delhi-based Council on Energy, Environment and Water
+- Sibi Arasu
+- University of California
+- Vibrant Energy
 ---
 
 When India’s power demand surged at the height of summer, the country struggled to meet evening needs as air conditioners ran longer amid hotter nights. Despite this demand, some renewable energy providers were told to limit their output because the country had more clean electricity available than its grid could safely handle.

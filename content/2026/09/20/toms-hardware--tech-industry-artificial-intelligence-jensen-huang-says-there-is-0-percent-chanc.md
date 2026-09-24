@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-2560-80.jpg
+locations:
+- America
+people:
+- AI
+- Anton Shilov
+- Evan Hubinger
+- Hugging Face
+- Jensen Huang
+- Tom
+organisations:
+- AI
+- Alignment Science
+- Anthropic
+- Bloomberg
+- CBS
+- Get Tom's Hardware
+- Google News
+- Nvidia
+- OpenAI
+- Tom’s Hardware
 ---
 
 ![Nvidia CEO Jensen Huang](https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5.jpg)

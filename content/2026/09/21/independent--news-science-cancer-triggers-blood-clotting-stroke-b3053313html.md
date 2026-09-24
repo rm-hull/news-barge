@@ -13,6 +13,11 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/21/3/38/A-nurse-holds-hands-with-a-patient-while-tending-to-them-in-the-palliative-care.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Spain
+people: []
+organisations:
+- Journal of Neurology.
 ---
 
 Cancer may induce blood coagulation leading to stroke in some cases, an analysis of the largest body of evidence to date suggests.

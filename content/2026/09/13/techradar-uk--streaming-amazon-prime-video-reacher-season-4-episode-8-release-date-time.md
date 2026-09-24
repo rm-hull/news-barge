@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/TFCTjKmiqkErLMx6Ln8Bsa-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Alan Ritchson
+- George Cooper Sr.
+- Jack Reacher
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Alan Ritchson as Reacher](https://cdn.mos.cms.futurecdn.net/TFCTjKmiqkErLMx6Ln8Bsa.jpg) 

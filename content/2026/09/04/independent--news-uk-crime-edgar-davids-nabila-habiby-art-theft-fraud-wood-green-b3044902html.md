@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Belgium
+- Hadley Wood
+- Hertfordshire
+- London
+- New York
+- Wood Green Crown Court
+people:
+- Edgar Davids
+- Emma Deacon KC
+- Hannah Thomas
+- Nabila Habiby
+- Paul Insect
+- Ron English
+organisations:
+- Metropolitan Police
+- Opera Gallery
+- Tottenham
 ---
 
 A fraudster who pawned an £188,000 modern art collection belonging to former Premier League player Edgar Davids failed to appear in court for sentencing after alleging she was struck with a bag while travelling to the airport.

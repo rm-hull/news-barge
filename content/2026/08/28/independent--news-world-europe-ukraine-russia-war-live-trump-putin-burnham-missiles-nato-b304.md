@@ -13,6 +13,55 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Belgium
+- Britain
+- Europe
+- France
+- Hamburg
+- Iran
+- Kyiv
+- London
+- Moldova
+- Moscow
+- Nova Poshta
+- Persian Gulf
+- Poland
+- Russia
+- Skyeton
+- Slovakia
+- Spain
+- Sumy
+- Sweden
+- The Netherlands
+- UK
+- US
+- Ukraine
+- Vyshneve
+- Zaporizhzhia
+people:
+- Aleksandr Bortnikov
+- Andrii Sybiha
+- Donald Trump
+- Ivan Fedorov
+- John Ratcliffe
+- Maia Sandu
+- Maria Zakharova
+- Tymur Tkachenko
+- Volodymyr Zelensky
+- William Burns
+organisations:
+- CIA
+- EU
+- European Commission
+- European Union
+- FSB
+- Kyiv Ukraine
+- Nato
+- New York Times
+- Reuters
+- Skyeton
 ---
 
 The head of the CIA told his Russian counterpart to make a deal with Ukraine as Moscow’s position deteriorates during a secretive visit this week, according to a report.

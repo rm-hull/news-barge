@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Music
+locations:
+- '**__Mother Shipton Inn'
+- England
+- Knaresborough
+- Low Bridge
+- Marton
+- Mother Shipton Inn
+- North Yorkshire
+- Scotland
+- Wales
+- York
+people:
+- Birra Moretti
+- Ian Lester
+- Jess
+- Joe
+- Matt Chapman
+- Mother Shiptons
+organisations:
+- Admiral Taverns
+- Appletree Country Inn
+- Guinness
+- Knaresborough Food bank
+- Mother Shipton Inn
+- Pic
+- The Mother Shipton Inn
 ---
 
 ## Well-known North Yorkshire pub reports "absolutely crazy reopening"

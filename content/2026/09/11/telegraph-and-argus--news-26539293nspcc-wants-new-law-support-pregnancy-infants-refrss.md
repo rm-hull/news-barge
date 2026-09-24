@@ -16,6 +16,15 @@ categories:
 - Family & Parenting
 - Self-Improvement
 - Society & Culture
+locations:
+- England
+- Yorkshire
+people:
+- Kirsty
+organisations:
+- Bill
+- NSPCC Helpline
+- Parents and Carers
 ---
 
 *(Image: Pixabay)*

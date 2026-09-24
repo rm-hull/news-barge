@@ -15,6 +15,54 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Bay
+- Brown Leopard
+- Burgundy
+- Catherine House
+- Goathland
+- Ireland
+- North Yorkshire
+- Northminster Business Park
+- Pavers
+- Robin Hood
+- Sandsend
+- Scarborough
+- UK
+- Upper Poppleton
+- York
+people:
+- Bay
+- Catherine Paver
+- Cathy
+- Gemma Gordon
+- Graham
+- Ian
+- Jason Paver
+- Pavers
+- Pavers’
+- Robin Hood
+- Russ Hampshire
+- Stephanie Smith
+- Stuart Paver
+- Van Dal
+organisations:
+- Barkers
+- Feel Great Trainers
+- Fly Flot
+- Gabor
+- Hull
+- Jones Bootmaker
+- Newcastle
+- Padders
+- Pavers Active
+- Pavers Foundation
+- Pavers Head of Creative
+- Pavers Shoes
+- Skechers
+- Stuart Paver
+- Van Dal
+- Yorkshire Post Fashion
 ---
 
 # 'We wanted to focus on Yorkshire heritage': Pavers Shoes heads to Robin Hood's Bay with its Feel Great trainers

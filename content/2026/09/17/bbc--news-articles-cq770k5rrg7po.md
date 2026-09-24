@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Africa
+- Asia
+- Birmingham Women's Hospital
+- England
+- Middle East
+- National FGM Centre
+- Sudan
+- UK
+people:
+- Renata Hanif
+- Rohma Ullah
+- Sara Kahsai
+organisations:
+- Barnardo's
+- FGM Clinic
+- Female Genital Mutiliation
+- Home Office
+- Midwife Renata Hanif
+- Sara Kahsai
+- World Health Organisation
 ---
 
 ![A woman with black hair, tied back, large gold earrings is smiling at the camera.  She is wearing a brown cardigan.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/d66c/live/47896d30-b1e2-11f1-ac01-a9af2f94b2cc.jpg)

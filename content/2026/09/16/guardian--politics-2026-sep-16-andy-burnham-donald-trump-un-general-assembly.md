@@ -12,6 +12,26 @@ image: https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/0
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- Gaza
+- Israel
+- Kyiv
+- Middle East
+- New York
+- Russia
+- Sudan
+- UK
+- US
+- Ukraine
+- West Bank
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+organisations:
+- Guardian
+- UN
 ---
 
 Andy Burnham is expected to meet Donald Trump for the first time in person at the UN general assembly next week in New York.

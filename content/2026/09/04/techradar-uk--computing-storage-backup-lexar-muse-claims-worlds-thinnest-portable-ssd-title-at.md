@@ -11,6 +11,20 @@ description: The Lexar Muse takes a different approach to SSD storage, though th
 image: https://cdn.mos.cms.futurecdn.net/YvHG5nuXWSZegoo24ekadD-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- Google News
+- IFA
+- Lexar Muse
+- PC Explorer
+- PCB
+- The Hardware Handbook
 ---
 
 ![Lexar Muse](https://cdn.mos.cms.futurecdn.net/YvHG5nuXWSZegoo24ekadD.jpg) 

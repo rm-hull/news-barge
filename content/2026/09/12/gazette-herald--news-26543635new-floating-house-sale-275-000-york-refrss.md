@@ -14,6 +14,16 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Fulford Road
+- Howard Street
+- North Yorkshire
+- Prestigious’ North Yorkshire
+- York
+people: []
+organisations:
+- Savills
+- Savills’
 ---
 
 A new “floating" house has hit the market in a York street – a decade after the plans were first announced.

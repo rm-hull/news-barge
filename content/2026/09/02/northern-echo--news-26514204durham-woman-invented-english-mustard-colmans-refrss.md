@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Britain
+- Clements’
+- County Durham
+- Durham City
+- England
+- Norfolk
+- Saddler Street
+- Vennels Café
+people:
+- Clements
+- Clements'
+- Colman
+- Durham
+- George I
+- Mrs Clements’
+- Vennels
+organisations:
+- Durham Mustard
+- Norwich
 ---
 
 When people think of English mustard, Norwich and the famous Colman’s brand usually spring to mind.

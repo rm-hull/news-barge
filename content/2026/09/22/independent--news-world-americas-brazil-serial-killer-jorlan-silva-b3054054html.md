@@ -12,6 +12,19 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/8/53/Jorlan-Lopes-da-Silva-c6c79803.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Brazil
+- Mulungu
+- Paraiba
+- Rio de Janeiro
+people:
+- Da Silva
+- Douglas Garcia
+- Jorlan Lopes da Silva
+- da Silva
+- da Silva "Mosquito
+organisations:
+- The Associated Press
 ---
 
 A suspect accused of slaughtering 16 people in a remote region of northeastern Brazil evaded capture by hiding out in makeshift forest camps, police revealed Monday.

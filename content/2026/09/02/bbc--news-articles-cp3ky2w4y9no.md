@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Technology & Software
+locations:
+- Krakow
+- Poland
+- San Francisco
+- US
+people:
+- Dara Khosrowshahi
+organisations:
+- AI
+- Uber
 ---
 
 ![An Uber car is seen on a street in Krakow, Poland, on August 5, 2026.](https://ichef.bbci.co.uk/ace/standard/874/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg)

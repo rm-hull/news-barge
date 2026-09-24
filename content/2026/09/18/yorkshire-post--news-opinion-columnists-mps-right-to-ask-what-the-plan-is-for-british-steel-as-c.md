@@ -15,6 +15,18 @@ categories:
 - York
 - History
 - Personal Finance & Investing
+locations:
+- Britain
+- Lincolnshire
+- Scunthorpe
+people:
+- Alan Lovell
+- Jonathan Reynolds
+organisations:
+- Annabel Lee-Ellis
+- British Steel
+- Government
+- Speciality Steel
 ---
 
 # MPs right to ask what the plan is for British Steel as cost for taxpayer mounts

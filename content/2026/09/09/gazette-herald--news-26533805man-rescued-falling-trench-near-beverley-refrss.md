@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Beverley
+- East Yorkshire
+- Molescroft
+- The Paddock
+people: []
+organisations:
+- Humberside Fire and Rescue Service
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

@@ -11,6 +11,18 @@ description: Apple unveiled its first foldable, the iPhone Duo, but it hasn't qu
 image: https://cdn.mos.cms.futurecdn.net/Hweb49UF56r2Lki2DcFtuG-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Lance Ulanoff
+- Rowan Davies
+organisations:
+- Apple
+- Galaxy Fold
+- Google News
+- Reddit
+- Redditors
+- Samsung
+- TechRadar
 ---
 
 ![The iPhone Duo unfolded](https://cdn.mos.cms.futurecdn.net/Hweb49UF56r2Lki2DcFtuG.jpg) 

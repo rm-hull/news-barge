@@ -14,6 +14,28 @@ categories:
 - UK
 - Society & Culture
 - Technology & Software
+locations:
+- California
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Mountain View
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+organisations:
+- Alphabet Inc
+- Ford
+- GNIS
+- Google Maps
+- Lake America’
+- U.S. Geographic Names Information System
 ---
 
 Google has updated its maps application to rename Lake Ontario as ‘Lake America’ for users in the United States, reflecting a recent order by President Donald Trump that changed the name of the lake, the global technology giant says.

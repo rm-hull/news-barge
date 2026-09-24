@@ -10,6 +10,21 @@ description: Amazingly, the Anker Solix E10 is a highly customizable, all-in-one
 image: https://cdn.mos.cms.futurecdn.net/Mu4Pn3gccKcH8wrQCvtHPd-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Anker
+- Midwest
+- Powerwall
+people:
+- Anker Solix
+- Collin
+- Dee
+organisations:
+- Collin Probst
+- Gearadical
+- Generac
+- TechRadar Pro
+- Whole Home Backup Systems
 ---
 
 ### TechRadar Verdict

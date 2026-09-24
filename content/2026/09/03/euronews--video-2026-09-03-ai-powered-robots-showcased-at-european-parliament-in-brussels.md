@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Brussels
+- Europe
+people: []
+organisations:
+- AI
+- European Parliament
 ---
 
 Humanoid robots wave, carry out household tasks and demonstrate different ways of moving at a robotics showcase in Brussels.

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Barentsburg
+- Crimea
+- Nord-Troms
+- Norway
+- Russia
+- Svalbard
+- The Hague
+- Ukraine
+people:
+- Lars Fause
+- Molchanov
+- Sergii Fedorenko
+organisations:
+- Naftogaz
+- Svalbard
 ---
 
 Norwegian authorities seized a Russian vessel in the Arctic archipelago of Svalbard on Wednesday at the request of Ukraine’s Naftogaz as part of a global effort to enforce a $4.22 billion arbitration award.

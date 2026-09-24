@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Guo Jiakun
+- Huang Ling
+- Xi Jinping
+organisations:
+- Barclays Bank
+- Board of Investment
+- Board of Trade
+- China Board of Trade
+- Commerce Ministry
+- Foreign Ministry
 ---
 
 China and the U.S. hope to reach an agreement on lowering import taxes soon, a Chinese government spokesperson said Thursday, fueling expectations that an announcement could come when the leaders of the two countries meet in two weeks.

@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Berkshire
+- Buckinghamshire
+- Hampshire
+- Isle of Wight Constabulary
+- Oxfordshire
+- Southampton
+- Thames Valley
+- UK
+people:
+- Clarkson
+- Sad
+organisations:
+- BBC
+- Dorset Police
+- M&S
+- SelectaDNA
+- Thames Valley Police
+- Thames Valley Police and Crime Panel
 ---
 
 *(Image: Thames Valley Police)*

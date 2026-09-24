@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Great Northern Railway
+- Hellifield
+- LNER Pacific
+- Lesley Tate
+- London King's Cross
+- North Eastern Railway
+- North Yorkshire
+- North Yorkshire Moors Railway
+- Shed24H
+- York
+people:
+- Nigel Gresley
+organisations:
+- National Railway Museum
+- Nigel Gresley Locomotive Trust
+- No. 4079 Pendennis Castle
 ---
 
 ## 112mph record-holding steam locomotive Sir Nigel Gresley visits village

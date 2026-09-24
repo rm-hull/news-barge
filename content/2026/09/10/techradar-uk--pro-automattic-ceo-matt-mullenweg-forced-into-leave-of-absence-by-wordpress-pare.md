@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Ann Dunwoody
+- Craig Hale
+- Mark Davies
+- Mary Hubbard
+- Matt Mullenweg
+- Sue Decker
+- Toni Schneider
+organisations:
+- '## Automattic'
+- CFO
+- Craig’s
+- Google News
+- Mullenweg
+- TechCrunch
+- TechRadar Pro
+- TechRadar Pro*
+- WP Engine
+- WordPress
+- WordPress.org
 ---
 
 ![WordPress logo on mobile](https://cdn.mos.cms.futurecdn.net/7NLZKWEKmFLJVAH4nubeaX.jpg) 

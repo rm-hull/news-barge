@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Bridge Street
+- North Yorkshire
+- Ouse Bridge
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- The Press
+- York Rescue Boat
+- Yorkshire Ambulance Service
 ---
 
 ## Emergency services close York city centre road following incident

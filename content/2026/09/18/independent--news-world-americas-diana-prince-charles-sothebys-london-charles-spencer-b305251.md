@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Geneva
+- Hong Kong
+- London
+- London’s Serpentine Gallery
+- New York
+- Paris
+people:
+- Camilla Parker-Bowles
+- Charles III
+- Charles Spencer
+- Christina Stambolian
+- Diana
+- Morgane Halimi
+- Sotheby
+- Spencers
+organisations:
+- Sotheby
+- Sotheby’s
+- The Sun
 ---
 
 Revenge has rarely been so stylish.

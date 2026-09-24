@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Hong Kong
+- London
+- UK
+- US
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Fiona Cottrell
+- George Cottrell
+- Lisa Smart
+- Nigel Farage
+- Richard Tice
+organisations:
+- Channel 4 News
+- Daily Telegraph
+- Delo
+- Labour Party
+- Liberal Democrat
+- Liberal Democrat Cabinet Office
+- Lords
+- Metropolitan Police
+- Reform UK
+- Representation of the People Bill
+- UnHerd
 ---
 
 ![Ben Delo stands next to a woman at the launch of UnHerd's new club on 23 November 2022 in London. Both are holding champagne flutes and smiling](https://ichef.bbci.co.uk/ace/standard/359/cpsprodpb/82f3/live/33fbc200-ae2b-11f1-aa6c-6bdc87a16780.jpg)

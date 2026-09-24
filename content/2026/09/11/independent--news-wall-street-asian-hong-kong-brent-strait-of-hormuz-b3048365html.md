@@ -12,6 +12,36 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- India
+- Iran
+- Japan
+- Shanghai
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- U.S.
+- Wall Street
+people:
+- Anne D’Innocenzio
+- Ewa Manthey
+- Stan Choe
+- Warren Patterson
+organisations:
+- Chinese AI
+- Enflame
+- Federal Reserve
+- ING
+- Kospi
+- OpenAI
+- SK Hynix
+- Samsung Electronics
+- Sensex
+- SoftBank Group
+- Taiex
+- U.S. Treasury
 ---
 
 Asian shares declined Friday tracking Wall Street losses, while oil prices gained with Brent crude trading above $108 a barrel in its highest since May.

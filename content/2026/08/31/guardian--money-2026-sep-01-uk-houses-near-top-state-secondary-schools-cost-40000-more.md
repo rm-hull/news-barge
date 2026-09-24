@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- B74
+- Barnet
+- Birmingham
+- Francis Holland
+- Henrietta Barnett
+- Kendrick
+- London
+- Reading
+- SW1
+- Sloane Square
+- Sutton Coldfield
+- West Midlands
+- Westminster
+people:
+- Verona Frankish
+- Vesey
+organisations:
+- Good Schools Guide
+- Yopa
 ---
 
 A house near a top state secondary school costs an extra £40,000 on average, according to research that reveals education premiums that rank alongside some private school fees.

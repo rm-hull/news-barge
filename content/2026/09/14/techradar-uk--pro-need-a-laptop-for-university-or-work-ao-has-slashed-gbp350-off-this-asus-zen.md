@@ -10,6 +10,20 @@ description: We're big fans of the lightweight Asus Zenbooks, and now AO has sla
 image: https://cdn.mos.cms.futurecdn.net/rkyraWRmq5fLLn86WjpfKg-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Asus Zenbook
+- Wayne Williams
+organisations:
+- AO
+- Asus Zenbook
+- GPU
+- Intel
+- NPU
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Asus Zenbook 14 OLED Laptop](https://cdn.mos.cms.futurecdn.net/rkyraWRmq5fLLn86WjpfKg.jpg) 

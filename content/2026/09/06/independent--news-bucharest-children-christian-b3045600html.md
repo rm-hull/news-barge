@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bucharest
+- Romania
+people: []
+organisations: []
 ---
 
 Bucharest’s Little Angels’ Parade brings children to the streets, in photos

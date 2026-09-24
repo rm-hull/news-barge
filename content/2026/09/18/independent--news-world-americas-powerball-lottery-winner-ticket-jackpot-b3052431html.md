@@ -13,6 +13,13 @@ categories:
 - UK
 - Sports
 - Business & Entrepreneurship
+locations:
+- Illinois
+- Quincy
+people: []
+organisations:
+- Hy-Vee Fast & Fresh
+- Illinois Lottery
 ---
 
 A Powerball player has come forward to claim a prize worth over $1 billion, bought with a $2 ticket.

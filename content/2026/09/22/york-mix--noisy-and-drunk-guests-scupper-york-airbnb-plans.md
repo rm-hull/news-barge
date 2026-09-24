@@ -11,6 +11,17 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/04/key-safe-airbnb-short-term-let-fairfax-street-york.jpg
+locations:
+- '#### Sutherland Street'
+- South Bank
+- Sutherland Street
+- York Racecourse
+people:
+- Rachael Maskell
+organisations:
+- Airbnb
+- City of York Council
+- York Central
 ---
 
 A bid to allow a holiday let to continue operating in a York home has been blocked amid complaints over noisy and drunken guests staying there.

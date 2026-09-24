@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/09/11/20/2026-09-08T181830Z_7648635
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- D.C.
+- U.S.
+- White House
+people:
+- Donald Trump
+- Jeanine Pirro
+organisations:
+- Atlantic Industrial Coatings
+- District of Columbia
+- Interior Department
+- Law School
+- Lincoln Memorial Reflecting Pool
+- Reflecting Pool
+- The New York Times
+- Trump
 ---
 
 The contractor that refurbished the Lincoln Memorial Reflecting Pool acknowledged that its own faulty work — not sabotage — led the newly installed liner to become damaged, according to a new report.

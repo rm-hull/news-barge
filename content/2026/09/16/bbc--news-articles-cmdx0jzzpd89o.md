@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Aberdeen
+- Cornwall
+- Devon
+- Edinburgh
+- England
+- Europe
+- London
+- Mesopotamia
+- Nottingham
+- Pentland Hills
+- Scotland
+- Sunderland
+- Sur-Ron
+- UK
+- Wales
+- Westminster
+people:
+- Billy Stokoe
+- David Kennedy
+- Gloria Stephenson
+organisations:
+- BBC Radio Scotland Breakfast
+- Debenhams
+- EAPC
+- Gwent Police
+- Metropolitan Police
+- Scottish Police Federation
+- Unison
+- YMCA
+- Youth Scotland
 ---
 
 ![Two young men with black masks on riding electric motorbikes on a path in a rural area](https://ichef.bbci.co.uk/ace/standard/791/cpsprodpb/0653/live/1c1c34f0-b1df-11f1-b1d1-571ed4d7ff2c.jpg)

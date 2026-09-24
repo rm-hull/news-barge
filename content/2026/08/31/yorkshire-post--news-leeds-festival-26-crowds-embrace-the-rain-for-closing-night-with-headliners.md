@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Bramham Park
+- Florence
+- The Ballroom
+- The Gallery
+- Wetherby
+people:
+- 'Dave ##'
+- Jade
+- Josh Baker
+- Kasabian
+- Matt Eachus
+- RAYE
+- Skepta
+- Sombr
+organisations:
+- BALINT MOLNAR
+- Chase & Status
+- Florence & The Machine
+- Fontaines D.C.
+- Pepsi MAX
+- RUBY BOLAND
+- The Warehouse
 ---
 
 # Leeds Festival '26: Crowds embrace the rain for closing night with headliners Sombr, RAYE and Dave

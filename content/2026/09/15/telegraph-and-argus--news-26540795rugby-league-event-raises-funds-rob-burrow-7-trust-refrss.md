@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Rob Burrow
+- West Yorkshire
+people:
+- Jai Arrow
+- Rob Burrow
+organisations:
+- Eastmoor Rugby Club
+- MND
+- RB7 Trust
+- Rob Burrow 7 Trust
+- The Rugby League Daily
+- Wakefield City Emeralds
 ---
 
 Rugby league supporters came together at Eastmoor Rugby Club to honour the legacy of Rob Burrow while raising money for a charity dedicated to supporting people affected by motor neurone disease (MND).

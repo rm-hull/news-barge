@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - History
 - Arts & Culture
+locations:
+- Athens
+- Tucson
+people:
+- Alain Goriely
+- John Senseney
+- Marge Livingstone
+organisations:
+- Harvard Medical School
+- University of Arizona
+- University of Oxford
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312585147.jpg?w=840)

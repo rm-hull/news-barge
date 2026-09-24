@@ -13,6 +13,56 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Derby
+- Durham
+- England
+- Headingley
+- Lord's
+- Pakistan
+- Sri Lanka
+- The Oval
+- Zimbabwe
+people:
+- Ali Usman
+- Ben Duckett
+- Brydon Carse
+- Dan Lawrence
+- Emilio Gay
+- Gus Atkinson
+- Harry Brook
+- Imam-ul-Haq
+- Jamie Smith
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Khurram Shahzad
+- Matthew Fisher
+- Mike Hesson
+- Muhammad Rizwan
+- Ollie Pope
+- Ollie Robinson
+- Salman Ali Agha
+- Sam Cook
+- Sarfaraz Ahmed
+- Shoaib Bashir
+- Sonny Baker
+organisations:
+- Derbyshire
+- Durham
+- England
+- Essex
+- Gloucestershire
+- Hampshire
+- New Zealand
+- Northamptonshire
+- Nottinghamshire
+- Surrey
+- Sussex
+- XI
+- Yorkshire
 ---
 
 ![Brydon Carse bowling for England](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d77a/live/41c84000-a6da-11f1-acae-21b536d72e0e.jpg)

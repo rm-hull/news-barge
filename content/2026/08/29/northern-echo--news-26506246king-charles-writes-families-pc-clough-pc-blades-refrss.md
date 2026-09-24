@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- CLEVELAND
+- Cleveland
+- Riverside Stadium
+- South Bank
+people:
+- Charles III
+- Chris Jackson
+- Cole Robert Worthy
+- Jakub Matusiak
+- King
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Minute
+- Passat
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- Armed Response Vehicle
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- Middlesbrough FC
+- Mirror
+- PA Wire
+- PC Blades
+- West Bromwich Albion
 ---
 
 King Charles has written personally to the families of two Cleveland Police officers who died in a devastating head-on crash on the A66.

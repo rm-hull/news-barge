@@ -14,6 +14,53 @@ categories:
 - UK
 - Arts & Culture
 - History
+locations:
+- America
+- Berlin
+- Blenheim Palace
+- Boston
+- Cagnes-sur-Mer
+- Dresden
+- Florence
+- French Riviera
+- Gardner Museum
+- Green Vault
+- Isabella Stewart Gardner Museum
+- Italy
+- Louvre
+- New York
+- Paris
+- Parma
+- Sea of Galilee
+- U.S.
+people:
+- Auguste Renoir
+- Degas
+- Donald Trump
+- Eugénie
+- Henri Matisse
+- Isabella Stewart
+- Leonardo da Vinci
+- Louvre
+- Madame Colonna Romano
+- Manet
+- Maurizio Cattelan
+- Michael Jones
+- Mona Lisa
+- Napoleon Bonaparte
+- Paul Cézanne
+- Rembrandt
+- Van Gogh
+- Vermeer
+- Vincenzo Peruggia
+- Winston Churchill
+- Young Woman
+organisations:
+- Bode Museum
+- Carabinieri
+- Guggenheim Museum
+- Magnani Rocca Foundation
+- Renoir Museum
 ---
 
 Thieves hit the Renoir Museum on the French Riviera and made off with four valuable works by the French impressionist master, though they ditched two in the museum garden as they fled, the mayor of Cagnes-sur-Mer said Tuesday.

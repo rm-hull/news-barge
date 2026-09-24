@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- York Racecourse
+- York Station
+people:
+- David Harrison
+- Lynette
+- Parkinson
+- Tim Bryan
+organisations:
+- David Harrison Photography
+- Parkinson's UK
+- Parkinson’s UK
 ---
 
 ## 'Selfless' chair of York charity branch honoured with top volunteer award

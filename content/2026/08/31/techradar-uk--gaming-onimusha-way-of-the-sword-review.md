@@ -13,6 +13,37 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- GameRant
+- Gamescom
+- Hozuki
+- Japan
+- Kyoto
+people:
+- Dohatsu-ten
+- Genma
+- Isaiah Williams
+- Jean Reno
+- Miyamoto Musashi
+- Okuni
+- Samonsuke
+- Sasaki Ganryu
+- Satoru Nihei
+- Shizuka
+- Toshiro Mifune
+organisations:
+- Birmingham City University
+- Capcom
+- DLSS Quality
+- Isaiah
+- LG
+- Lenovo Legion Go S
+- Oni Armaments
+- PC Guide
+- RE Engine
+- Swordhas
+- TDP
+- TechRadar
 ---
 
 ### TechRadar Verdict

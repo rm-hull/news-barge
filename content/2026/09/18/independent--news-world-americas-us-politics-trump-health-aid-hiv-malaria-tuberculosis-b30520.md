@@ -14,6 +14,32 @@ categories:
 - UK
 - Personal Finance & Investing
 - Health & Fitness
+locations:
+- Burundi
+- Malawi
+- Sierra Leone
+- US
+- White House
+people:
+- Alain Casséus
+- Emily Bass
+- Lim
+- Vincent Lin
+organisations:
+- America First
+- America First Global Health Strategy
+- Congress
+- Emergency Plan for AIDS Relief
+- Freedom of Information Act
+- Office of Management and Budget
+- PEPFAR
+- PHR
+- Partners in Health
+- Physicians for Human Rights
+- State Department
+- The Independent
+- Trump
+- Zanmi Lasante
 ---
 
 More than $1.3 billion (£975 million) in US funding for tuberculosis, malaria, HIV and maternal healthcare could go unspent within two weeks because it has not yet been released by the Trump administration, potentially resulting in tens of thousands of preventable deaths.

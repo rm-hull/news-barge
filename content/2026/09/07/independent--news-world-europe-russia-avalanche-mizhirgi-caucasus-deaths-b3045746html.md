@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Europe
+- France
+- Italy
+- Kabardino-Balkaria
+- Mount Elbrus
+- Mount Mizhirgi
+- North Caucasus
+- Russia
+- Swiss Alps
+- Switzerland
+- Valais
+people: []
+organisations:
+- Institute for Snow and Avalanche Research SLF
 ---
 
 At least 11 people have been killed and six others injured after an avalanche in Russia.

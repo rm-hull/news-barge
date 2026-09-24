@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Caribbean
+- Iran
+- Minab
+- Pacific
+- US
+- United States
+- Venezuela
+- White House
+- Yemen
+people:
+- Donald Trump
+- Jeffrey Epstein
+- Lori Chavez-DeRemer
+- Mark Kelly
+- Nicolás Maduro
+- Pam Bondi
+- Pete Hegseth
+- Thomas Massie
+organisations:
+- Congress
+- Constitution
+- Fox News
+- House of Representatives
+- Senate
+- Trump
 ---
 
 Republican congressman Thomas Massie on Tuesday proposed impeaching Pete Hegseth, saying the defense secretary had repeatedly violated the constitution through his handling of war with Iran and the deaths of civilians in conflicts worldwide.

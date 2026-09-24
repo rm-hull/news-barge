@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- France
+- Toulouse
+people:
+- Bradford
+- Tom
+- Tracy
+- William
+organisations:
+- Bradford Bulls
+- Castleford
+- Toulouse
+- York
 ---
 
 Bradford Bulls may have come away from Toulouse empty-handed on the scoreboard, but the club's travelling supporters ensured the atmosphere felt like a home game in the south of France.

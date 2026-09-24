@@ -14,6 +14,22 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Bedford
+- Johannesburg
+- London
+- South Africa
+- U.K.
+- Zimbabwe
+- africa
+people:
+- Nala
+- Natalie
+- Ndodana Mkhanyisi Tshuma
+- Nothabo Zandile Tshuma
+organisations:
+- AP Africa
+- Interpol
 ---
 
 A man wanted by British police over the killings of his wife and two daughters pleaded guilty Tuesday to firearms offenses in South Africa, where he was arrested in July while on the run.

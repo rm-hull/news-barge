@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Emirates Stadium
+- London
+- UK
+people: []
+organisations:
+- Arsenal
+- Chelsea
 ---
 
 # Champions Arsenal come from behind to beat Chelsea

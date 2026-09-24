@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/6Rd24A5ggG54qzU9feSqZ5-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- MySQL
+- Percona
+- State of Open Source
+- TechRadar Pro
 ---
 
 ![A person at a desktop computer working on spreadsheet tables.](https://cdn.mos.cms.futurecdn.net/6Rd24A5ggG54qzU9feSqZ5.jpg) 

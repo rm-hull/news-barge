@@ -12,6 +12,48 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Alabama
+- Arizona
+- Bangladesh
+- Cambodia
+- Europe
+- Florida
+- India
+- Iran
+- Jordan
+- Louisiana
+- Maine
+- Malaysia
+- Mississippi
+- Nevada
+- Philippines
+- Seychelles
+- Singapore
+- Southeast Asia
+- Sri Lanka
+- Texas
+- U.S.
+- United States
+- Washington
+people:
+- Eleni Myrivili
+- Kai Chen
+- Lily Riahi
+organisations:
+- AC Riahi
+- AP
+- Associated Press’
+- EIA
+- IEA
+- International Energy Agency
+- Nature Health
+- U.N.
+- U.S. Energy Information Administration
+- UNEP
+- United Nations
+- United Nations Environment Programme
+- Yale School of Public Health
 ---
 
 Cooling from air conditioning saves lives — more than 5,000 a year in the United States alone — but it also heats up the planet and taxes our electrical grid, scientists say.

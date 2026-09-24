@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Main Street
+- UK
+- Wheldrake
+- York
+people:
+- Christian Vassie
+- Cllr Vassie
+- Dave Atkinson
+- Gary Taylor
+- Wheldrake
+organisations:
+- City of York Council
+- Department for Transport
+- Government
+- IUCN
+- Liberal Democrat
+- Red List of British Mammals
+- The International Union for Conservation of Nature’s
 ---
 
 ## Hedgehog signs put up in York village in spite of 'bewildering' opposition

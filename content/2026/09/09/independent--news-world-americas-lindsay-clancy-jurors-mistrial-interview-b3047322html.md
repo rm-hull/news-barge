@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/09/09/14/2026-09-04T204806Z_6634112
 categories:
 - News & Politics
 - UK
+locations:
+- Boston
+- Massachusetts
+people:
+- Callan
+- Cora
+- Dawson
+- Kellie Farina
+- Kevin Reddington
+- Lindsay Clancy
+- Paula Devlin
+- Roni Carlson
+organisations:
+- NBC 10
+- NBC10
 ---
 
 Three jurors in the Lindsay Clancy trial described thinking they had an acquittal — until a single holdout juror declared that he wouldn’t say Clancy was not guilty by reason of insanity.

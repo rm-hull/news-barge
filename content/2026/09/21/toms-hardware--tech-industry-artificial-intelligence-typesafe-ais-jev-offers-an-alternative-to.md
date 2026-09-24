@@ -14,6 +14,22 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/vfV9baSvzWu3FXSFbYgY7m-1920-80.jpg
+locations:
+- Jev
+people:
+- Bruno Ferreira
+- Diogo Almeida
+- Jev
+organisations:
+- ChatGPT
+- Jev
+- LLM
+- LLMs'
+- PC
+- System One
+- Tom's Hardware
+- TypeSafe AI
+- ex-OpenAI
 ---
 
 ![Render of a question mark](https://cdn.mos.cms.futurecdn.net/vfV9baSvzWu3FXSFbYgY7m.jpg)

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Hinckley
+- Leicestershire
+- Stockholm
+- Sweden
+- UK
+people:
+- Carl Mason
+- George Mason
+- Michelle Torossian
+organisations:
+- BBC Leicester
+- BBC Radio Leicester
+- EU
+- European Court of Human Rights
+- European Union
+- Migration Court of Appeal
+- Swedish Migration Agency
+- Swedish Migrations Agency
 ---
 
 ![George Mason looking towards the camera](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3f53/live/feae0f20-a094-11f1-91dc-4919512f173f.jpg)

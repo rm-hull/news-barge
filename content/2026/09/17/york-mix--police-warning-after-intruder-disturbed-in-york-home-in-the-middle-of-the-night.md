@@ -12,6 +12,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- '#### Stockton Lane'
+- '**Stockton Lane'
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- Sarah Scott
 ---
 
 Police have issued a warning after an intruder was disturbed in a York home.

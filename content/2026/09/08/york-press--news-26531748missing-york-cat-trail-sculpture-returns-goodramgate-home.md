@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - History
+locations:
+- Goodramgate
+- Holy Trinity Church
+- Lady Row
+- Minster
+- York Cat Trail
+people:
+- Anthony Bartyla
+- Donald
+- Gemma Murray
+- Gerald the Minster Cat
+- John Hopkinson
+- Justine Spencer
+- Ros Hanney
+- Sonia Halejak
+- York Gerald
+organisations:
+- Churches Conservation Trust
+- Holy Trinity
+- Minster Bells
+- York Cat Trail
 ---
 
 ## Famous sculpture returns home to York

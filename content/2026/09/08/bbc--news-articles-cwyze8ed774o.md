@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Europe
+- RAF
+- Scotland
+- Shetland
+- UK
+- Unst SaxaVord
+people:
+- Derek Harris
+- Douglas Alexander
+- Lise Kaae
+- Scott Hammond
+organisations:
+- BBC Radio Scotland Breakfast
+- Heartland
+- HyImpulse Technologies GmbH
+- RFA
+- Rocket Factory Augsburg
+- SR75
+- SaxaVord Spaceport
+- Space Scotland
+- Wild Ventures
 ---
 
 ![An aerial view of a long flat peninsula surrounded by dark blue sea. The coastline is rocky and the sky is blue. The island is brown and sparsely populated by several industrial buildings and a tall launch pad.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6dc0/live/cbfc7a70-aae5-11f1-99dd-5152b950d9db.jpg)

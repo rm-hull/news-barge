@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Castle House
+- NYC Town
+- North Yorkshire
+- Northallerton
+- Resolution House
+- Scarborough Town Hall
+- West Pier
+people:
+- Mark Crane
+- Peter Wilkinson
+- Thomas Murray
+organisations:
+- A64
+- Anglo American
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- Resolution House
+- Scarborough South Bay
+- Scarborough Town Council
+- Station Gateway
+- Town Council
+- Town Hall
+- York
 ---
 
 A NEW ‘masterplan’ could see the appointment of an external partner to lead on the regeneration of council-owned sites in a North Yorkshire town.

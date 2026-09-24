@@ -14,6 +14,13 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- James Pugh
+- Mike Smith
+organisations:
+- LOGISTICS
+- Speedy Freight
 ---
 
 *(Image: Supplied)*

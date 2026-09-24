@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/ee9b8dd9275f9037964745e2bbd1a80683853b23/1125_0_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=926f2de621552e7afe8fafd1c2d2eaf6
+locations:
+- Alder Hey
+- Alder Hey Children
+- Liverpool
+- NHS
+- UK
+people:
+- Harriet Corbett
+- Rachel Isba
+organisations:
+- Alder Hey
+- Archives of Disease in Childhood
+- Lancaster University
 ---
 
 Children as young as 13 in the UK have been referred to a specialist clinic for a “devastating” bladder condition linked to sustained use of ketamine.

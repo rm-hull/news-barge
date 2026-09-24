@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Mill Street
+- Wibsey
+people:
+- Gemma Jackson
+organisations:
+- CAFE
+- Lily's Cafe
 ---
 
 *(Image: T&A)*

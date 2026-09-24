@@ -16,6 +16,35 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkyMzgwNWExLTBlOWUtNGFjNi05OTdmLTY4ZjAwOWVhNmQwMjoyZTgzNGZhZC04MzIyLTRlYmMtYTBhNy0yN2E4NTFjYmU3N2Q=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Ade
+- All Creatures
+- Bahrain
+- Bempton
+- Bradford
+- Bridlington
+- Britain
+- Cyprus
+- Darrowby
+- Flamborough Head
+- Grass Wood
+- Grassington
+- Nidderdale
+- Uganda
+- Yorkshire Coast
+- Yorkshire Dales
+people:
+- Adrian Edmondson
+- James
+- Sam & Ade
+- Sam & Ade Go Birding
+- Sam West
+- Samuel West
+- Siegfried Farnon
+organisations:
+- British Armed Forces
+- Pocklington School
+- Yorkshire Dales
 ---
 
 # Sam & Ade Go Birding: ‘These Yorkshire locations are our All Creatures Great and Small bread and butter,’ says Sam West

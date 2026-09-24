@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Kharg Island
+- Middle East
+- Persian Gulf
+- Strait of Hormuz
+- U.S.
+people: []
+organisations:
+- The Islamic Republic of Iran Broadcasting
+- U.S. Central Command
 ---
 
 Iran on Saturday accused the U.S. of attacking an Iranian tanker near Kharg Island in the Persian Gulf. The U.S. did not immediately comment, but a new strike would raise the risk of sparking a new round of Iranian attacks on U.S. allies and interests in the region.

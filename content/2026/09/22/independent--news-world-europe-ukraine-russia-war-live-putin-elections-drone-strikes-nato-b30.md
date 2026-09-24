@@ -12,6 +12,64 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/06/2295280942..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Bakhmut
+- Black ⁠Sea
+- Dnipro River
+- Dnipropetrovsk
+- Donetsk Region
+- Europe
+- Kharkiv Region
+- Kramatorsk
+- Kremlin
+- Lithuania
+- Lozova
+- Middle East
+- Mykolaiv Region
+- New York
+- Nikopol
+- State Duma
+- US
+- Ukraine
+- Ukraine-Russia
+- United Russia
+- White House
+- Zaporizhzhia
+people:
+- '## Macron'
+- '## Zelensky'
+- Bakhmut
+- Benjamin Netanyahu
+- Donald Trump
+- Emmanuel Macron
+- God
+- James Fensom
+- Luiz Inácio Lula da Silva
+- Maira Butt
+- Marco Rubio
+- Mindaugas Sinkevicius
+- Sergey Lavrov
+- Sinkevičius
+- Vladimir Putin
+- Volodymyr Zelenskiy
+- Volodymyr Zelensky
+- Yulia Kuznetsova
+organisations:
+- 42 First Person View
+- BBC Newsnight
+- Central Election Commission
+- DJT
+- FT
+- House of Representatives
+- Kyiv
+- Nato
+- Telegram
+- The Telegraph
+- Trump France
+- Truth Social
+- UN General Assembly
+- United Nations
 ---
 
 Donald Trump has warned that Russia has “unfortunately lost control” of its oil industry after again urging Ukraine to halt long-range strike on refineries.

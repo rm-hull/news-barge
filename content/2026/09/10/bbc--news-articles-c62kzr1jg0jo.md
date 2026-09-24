@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Capitol Building
+- China
+- Dallas
+- Georgia
+- Germany
+- Gulf
+- Iran
+- Israel
+- New Mexico
+- North America
+- Strait of Hormuz
+- Tehran
+- Texas
+- UK
+- US
+- United States
+- United States of America
+- White House
+people:
+- Anthony Zurcher
+- Donald Trump
+- Elon Musk
+- JD Vance
+- John Day
+- Robert Moran
+- Sarah Smith
+organisations:
+- Associated Press
+- BBC North America
+- BBC World Service
+- Congress
+- Fox News
+- House of Representatives
+- New York Times
+- Newsday
+- Republican Party
+- Senate
+- Trump
+- US Constitution
+- US Politics Unspun
 ---
 
 Watch: BBC North America editor Sarah Smith looks into whether Trump's promise stands up

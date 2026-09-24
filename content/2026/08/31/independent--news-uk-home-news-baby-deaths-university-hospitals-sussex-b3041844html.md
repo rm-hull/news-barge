@@ -13,6 +13,25 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- Brighton
+- Haywards Heath
+- Princess Royal Hospital
+- West Sussex
+people:
+- Andy Heeps
+- Beth Cooper
+- Donna Ockenden
+- Felix
+- Ms Cooper
+- Ms Ockenden
+- Tom Coxhead
+organisations:
+- Government
+- Review’s Terms of Reference
+- ToR
+- UHSussex
+- University Hospitals Sussex NHS Foundation Trust
 ---
 
 A grieving mother hopes an upcoming review into maternity care will provide answers regarding the death of her baby son, as the investigation team prepares to meet with affected families for the first time.

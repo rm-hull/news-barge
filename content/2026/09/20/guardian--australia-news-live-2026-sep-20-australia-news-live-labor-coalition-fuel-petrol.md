@@ -12,6 +12,81 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/1ceb0a72c9379ac44245748d403ceaf88c4d95ac/204_0_2040_1632/master/2040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bc3bce3f143042ae096bcd7cffc8fe63
+locations:
+- AI
+- Bankstown
+- Belmore
+- Birdsville
+- Blue Mountains
+- Bondi
+- Campsie
+- Canterbury
+- China
+- Dulwich Hill
+- Hobart
+- Hurlstone Park
+- Iran
+- Lakemba
+- London
+- Marrickville
+- Melbourne
+- Mole River
+- Mount Gellibrand
+- Mount Wellington
+- NSW
+- New South Wales
+- Oodnadatta
+- Port Hedland
+- Prague
+- Punchbowl
+- Queensland
+- Roebourne
+- South Australia
+- Spencer
+- Sydenham
+- Sydney
+- Tasmania
+- US
+- United States
+- Valley Heights
+- Victoria
+- WA
+- Waratah Road
+- Warsaw
+- Wiley Park
+- kunanyi
+people:
+- AI
+- Angus Taylor
+- Anthony Albanese
+- Chalmers’
+- Chris Minns
+- Jim Chalmers
+- John Graham
+- Kellie Sloane
+- Marlene Boehm
+- Tanya Plibersek
+- Triple Zero
+organisations:
+- 2GB
+- ABC
+- AI
+- Australian Institute of Health and Welfare
+- Blue Mountains Police Area Command
+- BoM
+- Bureau of Meteorology
+- Coalition
+- Dragon Search SA
+- NSW Ambulance
+- NSW Government The NSW
+- NSW Liberal
+- News24
+- One Nation
+- Sydney Metrois
+- Sydney Morning Herald
+- Syngnathidae
+- The Sydney Morning Herald
+- Xinhua/Shutterstock A
 ---
 
 Plibersek says ‘we owe these women more than our sorrow’ after deaths in NSW

@@ -12,6 +12,12 @@ image: https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-Gett
 categories:
 - Technology & Software
 - Creator Economy & Marketing
+locations: []
+people:
+- TikTok
+organisations:
+- TechCrunch
+- TikTok
 ---
 
 TikTok’s comment sections are getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments.

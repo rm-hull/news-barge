@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Atlantic
+- El Niño
+- Gulf
+- Hardin
+- Harvey
+- Hickman Creek
+- Houston
+- Kountze
+- Livingston
+- Livington
+- Louisiana
+- Polk County
+- Port Arthur
+- Southeast
+- Texas
+- Texas-Louisiana
+- Tyler Counties
+- Village Creek
+people:
+- Ben Noll
+- Greg Abbott
+- Reed Timmer
+organisations:
+- 12 News
+- ABC News
+- El Niño
+- Facebook
+- Houston
+- KTRE
+- National Hurricane Center
+- National Weather Service
+- PowerOutage.US
+- The Associated Press
 ---
 
 Parts of Texas have experienced around 30 inches of rain in the past 24 hours as the remnants of Tropical Storm Edouard led to flash-flood emergencies, water rescues and widespread power outages.

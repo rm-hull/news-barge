@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Liversedge
+- Spen Valley
+- West Yorkshire
+people:
+- '## Headteacher'
+- Kyle Audsley
+organisations:
+- Ofsted
+- Spen Valley High School
 ---
 
 A West Yorkshire secondary school has been rated as "needs attention" in a recent Ofsted inspection.

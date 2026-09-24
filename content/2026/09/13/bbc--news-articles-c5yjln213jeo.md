@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Eastney Marina
+- Guidhall Square
+- Guildhall Square
+- Guldhall Square
+- Hedge End
+- Paulsgrove
+- Portsmouth Magistrates Court
+- Sherwood Avenue
+- St George
+- Waterlooville
+- Winchester Road
+people:
+- David McNally
+- Del Leon Somerville
+- Timothy Miller
+organisations:
+- Hampshire Police
+- Portsmouth Crown Court
 ---
 
 ![Protesters holding 'Stop the far right' posters with anti-migrant protesters waving St George and union flags on the steps beyond a line of police](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/f9ff/live/0c0d65e0-af5d-11f1-8b54-ef4b26bcf610.png)

@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Caribbean
+- Colombia
+- Conquista II
+- Eastern Pacific
+- Ecuador
+- El Salvador
+- Guatemala
+- Honduras
+- Latin America
+- Los Choneros
+- Manta
+- Panama
+- U.S.
+- United States
+- Western Hemisphere
+people:
+- Fiorella
+- María Candelaria
+- Pete Hegseth
+- Trump
+organisations:
+- Los Choneros
+- Los Tres Hermanos
+- OM2
+- Southern Command
+- U.S. Southern Command
 ---
 
 The U.S. Southern Command on Monday sank another Ecuadorian vessel that the U.S. alleged was linked to the criminal group Los Choneros.

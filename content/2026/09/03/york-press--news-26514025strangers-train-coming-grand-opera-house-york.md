@@ -14,6 +14,16 @@ categories:
 - Arts & Culture
 - Film & TV
 - True Crime
+locations:
+- UK
+- York
+people:
+- Craig Warner
+- David Gilbery
+- Patricia Highsmith
+- Roxana Silbert
+organisations:
+- Bill Kenwright Ltd
 ---
 
 *(Image: Grand Opera House York)*

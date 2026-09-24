@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Ireland
+- UK
+people:
+- Chris Radburn
+- Matt Harrison
+- Roy Horgan
+- Vusion
+organisations:
+- '## Asda'
+- 517 Express
+- ASDA
+- Asda Express
+- HL Display
+- Ladies Handbags
+- OPSS
+- Office for Product Safety and Standards
+- PA Wire
 ---
 
 *(Image: Chris Radburn/PA Wire)*

@@ -12,6 +12,36 @@ image: https://images.euronews.com/articles/stories/09/91/14/71/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Brussels
+- Europe
+- Germany
+- Grand Palais
+- Hagenbeck Zoo
+- Hamburg
+- Memorial
+- New York City
+- New York.
+- Paris
+- Portugal
+- US
+- Ukraine
+people:
+- Adolf Hitler
+- Anthony Gardner
+- Emmanuel Macron
+- Laura Joyce-Hubbard
+- Luís Montenegro
+- Maurizio Cattelan.
+- Mychal Judge
+- Thomas Pesquet
+- Valdis Dombrovskis
+organisations:
+- American Airlines
+- EU
+- Euronews
+- European Union
+- French European Space Agency
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

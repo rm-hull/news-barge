@@ -12,6 +12,25 @@ categories:
 - UK
 - Technology & Software
 - Travel
+locations:
+- Big Pines
+- California
+- Colton
+- Highway 2
+- LA-San Bernardino County
+- Los Angeles
+- Wrightwood
+people:
+- Chris Prater
+- Thaniel Ong
+organisations:
+- ABC
+- Arrowhead Regional Medical Center
+- CHP
+- California Highway Patrol
+- Hyundai Veloster
+- San Bernardino County Fire Department
+- The Los Angeles Times
 ---
 
 Four people were killed and two were critically injured in an auto wreck when a car veered off a mountain road near Wrightwood, California, early on Friday.

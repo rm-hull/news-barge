@@ -10,6 +10,62 @@ description: The iPhone 18 Pro and 18 Pro Max aren't a reinvention of the flagsh
 image: https://cdn.mos.cms.futurecdn.net/LNEVAFFtAjSCcyPZ6BXPqB-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Black
+- Burgundy
+- California
+- Dynamic Island
+- Florida
+- Future Labs'
+- Glacier
+- M6
+- New Jersey
+- Orlando
+- Silver
+- Siri AI
+- UK
+- US
+- United States
+people:
+- Bruce Springsteen
+- Jacob Krol
+- Siri AI
+organisations:
+- 18 Pro
+- 18 Pro Max
+- AT&T
+- Apple Intelligence
+- Auto
+- CNBC
+- CNET
+- CNN Underscored
+- Cupertino
+- Dark Navy
+- Disney World
+- EPCOT
+- FaceTime
+- GPU
+- Google
+- Hollywood Studios
+- Magic Kingdom
+- Marvel
+- Mashable
+- Men’s Journal
+- Nanotwin
+- Neural Engine
+- News for TechRadar
+- Pro Max
+- Pro-series
+- Qualcomm
+- Samsung
+- Siri AI
+- Slinky Dog Dash
+- SoC
+- TheStreet
+- United Airlines
+- iPhone Air
+- iPhone Duo
 ---
 
 ### TechRadar Verdict

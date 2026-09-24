@@ -13,6 +13,25 @@ categories:
 - York
 - Music
 - Comedy & Entertainment
+locations:
+- Italy
+- Monkgate
+- Wharfemede
+people:
+- Abbie Law
+- Addams
+- Andrew Lippa
+- Gomez
+- Helen 'Bells' Spencer
+- Henrietta Linnemann
+- Marshall Brickman
+- Morticia
+- Rick Elice
+- Zander Fick
+organisations:
+- Addams Family
+- The Addams Family
+- Wharfemede Productions
 ---
 
 *(Image: Wharfemede Productions)*

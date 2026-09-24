@@ -12,6 +12,17 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Bradford’s Thornbury Centre
+- St Margaret’s Parish Church
+- Thornbury Centre
+people:
+- Imran Hussain
+organisations:
+- Bradford Libraries
+- Thornbury Charity
+- Thornbury Community Library
 ---
 
 *(Image: Supplied)*

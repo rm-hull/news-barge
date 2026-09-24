@@ -11,6 +11,43 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1128/live/6e351b
 categories:
 - UK
 - News & Politics
+locations:
+- Canterbury
+- England
+- London
+- Switzerland
+- UK
+- United Kingdom
+- Wales
+people:
+- Andy Burnham
+- Ashley Dalton
+- Dame Esther Rantzen
+- Dame Meg Hillier
+- Gareth Snell
+- Kim Leadbeater
+- Lauren Edwards
+- Marie Curie
+- Richard Moth
+- Sarah Mullally
+organisations:
+- Bill
+- Church of England
+- End of Life
+- Hospice UK
+- House of Commons
+- House of Lords
+- Houses of Parliament
+- Labour
+- Lauren Edwards
+- MP
+- Press Association
+- Royal College of Physicians
+- Royal College of Psychiatrists
+- St Christopher's
+- Telegraph
+- Terminally Ill Adults
+- Third Reading
 ---
 
 ![Pro and anti-assisted dying campaigners gather outside Houses of Parliament to demonstrate their support and opposition as Terminally Ill Adults (End of Life) Bill reaches Third Reading debate and a critical vote on the Bill as a whole in the House of Commons in London, United Kingdom on June 20, 2025.](https://ichef.bbci.co.uk/ace/standard/748/cpsprodpb/1128/live/6e351bf0-ad96-11f1-b5a9-5fbcf10a299c.jpg)

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21481770.jpg?type=og-image&xType=0&yType=226
+locations:
+- Bailiff Bridge
+- Brighouse
+- Elland
+- Halifax
+people:
+- Dan Ramsden
+- Daniel Lang
+- Elsie
+- Erwin
+- Kylie Lang
+organisations:
+- '## Diagnosis'
+- '## Overgate Hospice'
+- GoFundMe
+- Overgate Hospice
 ---
 
 A family has paid tribute to a "ray of sunshine" who spent years helping others after being diagnosed with terminal cancer.

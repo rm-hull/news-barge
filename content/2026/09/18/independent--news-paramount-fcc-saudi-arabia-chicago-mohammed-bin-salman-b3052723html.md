@@ -12,6 +12,44 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/18/20/Paramount_Sovereign_Funds_9234_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Gulf
+- Hollywood
+- Qatar
+- Saudi Arabia
+- U.S.
+- UAE
+- United Arab Emirates
+people:
+- Anna Gomez
+- Brendan Carr
+- David Brown
+- David Ellison
+- Donald Trump
+- Elizabeth Warren
+- Jamal Khashoggi
+- Maria Cantwell
+- Mohammed bin Salman
+organisations:
+- CBS
+- CNBC
+- CNN
+- Ellisons
+- FCC
+- FCC’s Media Bureau
+- Justice Department
+- L’imad Holding Company
+- Paramount
+- Paramount-Warner Bros
+- Qatar Investment Authority
+- RedBird Capital
+- Saudi’s Public Investment Fund
+- Trump administration
+- U.S. Federal Communications Commission
+- Warner Bros
+- Washington Post
+- Writers Guild of America
 ---
 
 As Paramount looks to take over Warner Bros. Discovery, it’s racked up billions of dollars in financial backing from three Gulf countries. And the U.S. Federal Communications Commission has now approved the company's ask for sizeable indirect ownership from those foreign investors.

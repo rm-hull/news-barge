@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/18388884.jpg?type=og-image
+locations:
+- Church Street
+- Kay Street
+- Stanley
+people:
+- David Riddell
+- Martin Towers
+- Nathan Adams
+- Stanley
+- Tony Davis
+organisations:
+- CCTV
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

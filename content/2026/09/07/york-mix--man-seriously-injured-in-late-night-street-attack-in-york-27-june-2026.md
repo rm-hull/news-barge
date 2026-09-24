@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- '#### Clifford Street'
+- Clifford Street
+- York
+people: []
+organisations:
+- Email Helen Barrett
+- North Yorkshire Police
 ---
 
 A man was seriously hurt after being attacked in York.

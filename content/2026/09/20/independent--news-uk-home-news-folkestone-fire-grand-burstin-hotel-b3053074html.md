@@ -12,6 +12,26 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/19/10/01/folkestone-hotel-fire.png?trim=146,0,223,0&width=1200&height=800&crop=1200:800
+locations:
+- Folkestone
+- Grand Burstin Hotel
+- Kent
+- Marine Parade
+- Marine Terrace
+- Pavilion Court
+- The Harbour
+people:
+- Susan Priest
+organisations:
+- Folkestone
+- Grand Burstin Hotel
+- Home Office
+- Hythe District Council
+- Kent Fire and Rescue Service
+- Kent Police
+- Morrisons
+- Salvation Army
+- Three Hills
 ---
 
 Dozens of residents near a Folkestone hotel affected by a major fire have been moved from their homes amid concerns the building's structure has been compromised.

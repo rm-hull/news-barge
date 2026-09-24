@@ -12,6 +12,23 @@ image: https://i.guim.co.uk/img/media/46b847486043bdab2af9e5dd09d869f0c0d05f68/1
 categories:
 - UK
 - News & Politics
+locations:
+- Stockholm
+- Sweden
+people:
+- Fredrik Furtenbach
+- Magdalena Andersson
+- Morgan Johansson
+- Tobias Baudin
+- Ulf Kristersson
+organisations:
+- Centre
+- Left
+- Radio Sweden
+- SVT
+- Sveriges Radio
+- Tidö
+- Vänsterpartiet
 ---
 
 Sweden’s political parties have launched coalition negotiations as the Social Democrats leader, Magdalena Andersson, started the long and difficult process of trying to form a new government.

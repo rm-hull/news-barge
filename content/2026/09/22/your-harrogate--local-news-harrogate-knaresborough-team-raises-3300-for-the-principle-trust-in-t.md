@@ -12,6 +12,27 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6aad0e080d9127015ed.jpg
+locations:
+- Ilkley
+- Ingleborough
+- Pen-y-ghent
+- Skipton
+- Whernside
+- Yorkshire
+people:
+- Dacre
+- Kerry Magson
+- Rebecca Reeves
+- Son & Hartley
+organisations:
+- Dacre, Son & Hartley
+- Head of Partnerships, Service Delivery
+- Kempston Parkes Chartered Surveyors and Mortgage Advice Bureau
+- Son & Hartley
+- The Principle Trust
+- The Principle Trust Children’s Charity
+- Yorkshire Three Peaks
+- Yorkshire Three Peaks Challenge
 ---
 
 ![](https://mmo.aiircdn.com/409/6aad0e080d9127015ed.jpg)

@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Edinburgh
+- LBA
+- Leeds Bradford Airport
+- London
+- Newcastle
+- Yeadon Aerodrome
+people: []
+organisations:
+- Burger King
+- Cabin Bar
+- Facebook
+- Greggs
+- LEEDS-BRADFORD Airport
+- Leeds Bradford Airport
+- Salt Beer Factory
+- Yorkshire
 ---
 
 LEEDS-BRADFORD Airport has teased a forthcoming attraction - and users won't have long to wait.

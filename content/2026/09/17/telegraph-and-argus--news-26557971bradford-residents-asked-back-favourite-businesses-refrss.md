@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BRADFORD
+- Bradford
+- UK
+people:
+- Colin Munro
+- Nikki Chadburn
+organisations:
+- Blossoms
+- Bradford BID
+- Bradford City Centre Gift Card
+- Bradford City Centre Gift Cards
+- Cineworld
+- Darley Street Kitchen
+- Favourite Local Business
+- JD Sports
+- Miconex
+- Next
+- Nightrain
+- Pizza Pieces
+- Primark
+- Tiffin Coffee
+- Town & City Gift Cards
 ---
 
 *(Image: Supplied)*

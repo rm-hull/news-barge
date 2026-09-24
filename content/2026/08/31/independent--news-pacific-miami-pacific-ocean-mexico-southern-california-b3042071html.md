@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Baja California
+- Mexico
+- Miami
+- Pacific Ocean
+- Southern California
+people:
+- Karina
+organisations:
+- NOAA
+- U.S. National Hurricane Center
 ---
 
 Karina strengthens into a Category 4 hurricane in the Pacific far from land, forecasters say

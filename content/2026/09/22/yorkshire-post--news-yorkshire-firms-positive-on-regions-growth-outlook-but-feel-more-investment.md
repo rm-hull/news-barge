@@ -16,6 +16,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjliNzY3MjMxLTBmNmEtNDQ0OS1iYTk4LTUyNzI3YmZjODEyMzoyMGQwZGUwMC02ZTZhLTQ2MGMtYmQ5ZS00OTY4MGYwZGI4NTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- East Midlands
+- Leeds
+- UK
+- Wales
+- Yorkshire
+people:
+- Martyn Kendrick
+- Simon Hulme.
+organisations:
+- '## Yorkshire'
+- Humber
+- Lloyds Business Barometer
+- Yorkshire Post
 ---
 
 # Yorkshire firms positive on region's growth outlook but feel more investment needed

@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Bristol
+- Clifton Suspension Bridge
+- England
+- Holby
+- The Pitt
+- Virgin River
+people:
+- Dylan Keogh
+- Elinor Lawless
+- Flynn Byron
+- George Cooper Sr.
+- Melanie Hill
+- Neet Mohan
+- Olly Rix
+- Stevie Nash
+- William Beck
+organisations:
+- BBC iPlayer.
+- Google News
+- HBO Max
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Three medics look at something along the hospital corridor](https://cdn.mos.cms.futurecdn.net/uFxdXY75LzJYqnYPo8A2Jb.jpg) 

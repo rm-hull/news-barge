@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- England
+- Hampshire
+- Kent
+- UK
+- Vranken-Pommery
+- Wales
+people:
+- David Coulter
+- Gavin Lane
+- McCain
+- Tattinger
+organisations:
+- Country Land and Business Group
+- Suffolk-based Home Farm Pumpkins
+- Telegraph
 ---
 
 Halloween pumpkins may not be big enough to carve this year after record breaking heatwaves and persistent drought stunted the crops growth.

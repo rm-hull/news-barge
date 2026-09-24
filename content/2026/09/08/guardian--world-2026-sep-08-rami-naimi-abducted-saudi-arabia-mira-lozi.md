@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/3ed1968c373130a754f06d0a7b02368229d468c2/2
 categories:
 - UK
 - News & Politics
+locations:
+- Abu Dhabi
+- Al Ha’ir
+- Australia
+- Dubai
+- Istanbul
+- London
+- Middle East
+- Ritz-Carlton
+- Riyadh
+- Saudi Arabia
+- UK
+- US
+- United Arab Emirates
+people:
+- Ali Al-Naimi
+- Caoilfhionn Gallagher KC
+- Jamal Khashoggi
+- Mira Lozi
+- Rami Naimi
+organisations:
+- Aramco
+- EU
+- Foreign Office
+- Guardian
+- X
 ---
 
 A British woman has spoken out for the first time about the alleged abduction, torture and coercion of her husband at the hands of Saudi authorities, after nine years of “failed” quiet diplomacy.

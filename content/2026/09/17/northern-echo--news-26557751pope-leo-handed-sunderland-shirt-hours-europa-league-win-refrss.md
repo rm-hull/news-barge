@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Europe
+- Hexham
+- Rome
+- Stadium of Light
+- Vatican
+people:
+- Brian Brobbey
+- Emeritus Cunningham
+- Fr Lyden-Smith
+- Francis
+- Leo XIV
+- Marc Lyden-Smith
+- Paul Kingsmore
+- Pope Leo
+- Regis Le Bris
+- Regis Le Bris'
+- Seamus Cunningham
+organisations:
+- AZ Alkmaar
+- AZ Alkmaar Sunderland
+- Black Cats
+- Europa League
+- Newcastle United
+- Premier League
+- Regis Le Bris
+- Sunderland AFC
+- SunderlandAFC
+- VATICAN MEDIA
+- Wearside
 ---
 
 *(Image: VATICAN MEDIA)*

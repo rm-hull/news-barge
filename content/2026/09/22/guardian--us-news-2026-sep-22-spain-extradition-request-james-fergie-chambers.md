@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/5ee6419d2d9d2c9c71788b9331a935f477223ac7/347_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1436b1b3121f3ba9f1baf2042d5c983c
+locations:
+- Chambers’
+- Europe
+- Gaza
+- Ibiza
+- Israel
+- Madrid
+- New Hampshire
+- Palestine
+- Spain
+- Sumar
+- Tunisia
+- UK
+- US
+people:
+- Aitor Martínez
+- Baltasar Garzón
+- Elma Saiz
+- Fergie Chambers’
+- Free Fergie
+- Ione Belarra
+- James “Fergie” Chambers
+- Pedro Sánchez
+- Stella Schnabel
+- Trump
+organisations:
+- Chambers’
+- Club Africain
+- Congress
+- Cox Communications
+- Elbit Systems
+- Guardian
+- Hamas
+- Palestine Action
+- Podemos
+- Sameer Project
+- Sumar
+- Trump
 ---
 
 The Spanish government has decided to allow the Trump administration’s controversial extradition request to extradite wealthy activist James “Fergie” Chambers to continue in the country’s courts.

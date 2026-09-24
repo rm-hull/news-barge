@@ -11,6 +11,73 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/17/9bd28e959f0bd2251bf4f1e962e854dcY29udGVudHNlYXJjaGFwaSwxNzkwMTc5Njkz-2.82985241.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Asia
+- Europe
+- Frankfurt
+- Hong Kong
+- Iberia
+- Iran
+- Japan
+- Kyrgyzstan
+- London
+- Middle East
+- New York
+- Paris
+- Poland
+- Strait of Hormuz
+- Tehran
+- UAE
+- UK
+- US
+- Ukraine
+people:
+- David Morrison
+- Donald Trump
+- Gary Greenwood
+- Masoud Pezeshkian
+- Russ Mould
+- Susannah Streeter
+organisations:
+- A7
+- AJ Bell
+- Admiral Group
+- Alliance News
+- App Store
+- Autotrader Group
+- B&Q
+- BAE Systems
+- BT Group
+- Babcock International
+- Brico Depot France
+- British Airways
+- Castorama
+- Coca-Cola HBC
+- Croda International
+- DIY
+- Federal Reserve
+- Financial Times
+- International Consolidated Airlines
+- JD Sports Fashion
+- Kingfisher
+- Kyoto News
+- London Stock Exchange Group
+- Meta Platforms’
+- Muse
+- ONS
+- Office for National Statistics
+- Screwfix
+- Shore Capital
+- Smiths Group
+- Standard Chartered
+- Trade Nation
+- Travis Perkins
+- Treasury
+- UN General Assembly
+- Vistry
+- Wealth Club
+- Wickes
 ---
 
 Stocks in London closed mixed on Tuesday as oil prices edged lower again and investors looked for signs of a thawing in relations between the US and Iran.

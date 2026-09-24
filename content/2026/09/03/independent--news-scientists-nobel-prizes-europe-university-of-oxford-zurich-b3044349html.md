@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Antwerp
+- Europe
+- Switzerland
+- U.S.
+- United States
+- Zurich
+people:
+- Catherine F. Talbot
+- Marc Abrahams
+- Matilda Brindle
+- Michael Casey
+- Stuart West
+- Tokuji Unno
+organisations:
+- AP Fund for Journalism
+- Annals of Improbable Research
+- Associated Press
+- Boston University
+- Florida Institute of Technology
+- Harvard University
+- Massachusetts Institute of Technology
+- The Associated Press
+- University of Oxford
 ---
 
 Ten research teams were honored Thursday at a satirical science awards ceremony that was hosted outside the U.S. for the first time due to travel concerns.

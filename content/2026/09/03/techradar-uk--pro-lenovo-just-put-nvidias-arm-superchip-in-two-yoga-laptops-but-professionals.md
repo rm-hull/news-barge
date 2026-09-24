@@ -11,6 +11,29 @@ description: Nvidia's RTX Spark headlines Lenovo's Yoga refresh at IFA, with two
 image: https://cdn.mos.cms.futurecdn.net/AcyLnQZRWcT4KmdyLmF46i-2000-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Rahim Amir
+organisations:
+- Apple
+- CUDA
+- Copilot
+- GPU
+- GTC Taipei
+- Google News
+- Lenovo Yoga
+- MediaTek Dimensity
+- Microsoft
+- NPU TOPS
+- NVIDIA
+- NVLink-C2C
+- Nvidia
+- PC
+- PCs
+- RGB
+- RTX Spark
+- SFF
+- TechRadar Pro
 ---
 
 ![A render of the Lenovo Yoga Pro 9n laptop](https://cdn.mos.cms.futurecdn.net/AcyLnQZRWcT4KmdyLmF46i.png) 

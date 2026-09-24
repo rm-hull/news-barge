@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Chelsea-Tottenham
+- Wembley
+people:
+- Anthony Taylor
+- Cristian Romero
+- Jamie Vardy
+- Josh James
+- Marc Cucurella
+- Mike Dean
+organisations:
+- BBC Sport
+- Chelsea
+- Football League
+- Premier League
+- Spurs
+- Tottenham
+- VAR
 ---
 
 ![Referee Mike Dean points](https://ichef.bbci.co.uk/ace/standard/780/cpsprodpb/b90f/live/fc1412b0-a78c-11f1-9bb7-af8e8fd3d806.jpg)

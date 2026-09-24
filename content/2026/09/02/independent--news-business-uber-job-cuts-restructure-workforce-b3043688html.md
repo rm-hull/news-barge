@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- London
+- San Francisco
+- UK
+people:
+- Dara Khosrowshahi
+- Uber
+organisations:
+- Bloomberg
+- DVSA
+- Driver and Vehicle Standards Agency
+- TfL
+- Transport for London
+- Uber
+- Wayve
 ---
 
 Uber is set to cut around 3,300 corporate jobs as part of a major restructuring process that will trim its global workforce by approximately 10 per cent.

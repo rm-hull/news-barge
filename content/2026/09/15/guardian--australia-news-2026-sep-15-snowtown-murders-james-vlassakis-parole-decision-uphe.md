@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Adelaide
+- Snowtown
+- South Australia
+people:
+- Frances Nelson
+- James Vlassakis
+- John Bunting
+- Kyam Maher
+- Mark Ray Haydon
+- Robert Wagner
+organisations:
+- Parole Board
+- Snowtown
 ---
 
 The youngest person jailed over the notorious Snowtown killings will walk free after serving a 26-year sentence behind bars.

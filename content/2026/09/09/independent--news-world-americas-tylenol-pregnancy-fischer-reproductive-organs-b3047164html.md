@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Copenhagen
+- New York
+- Switzerland
+- U.S.
+- Valley Stream
+people:
+- Christian De Geyter
+- Donald Trump
+- Margit Bistrup Fischer
+- Tylenol
+organisations:
+- Rigshospitalet
+- University Hospital of Basel
 ---
 
 Female reproductive organ development in infants may be influenced by prenatal exposure to Tylenol, according to new research, though investigators stress that the study does not prove the painkiller is the cause or demonstrate any impact on future fertility.

@@ -16,6 +16,33 @@ categories:
 - York
 - News & Politics
 - History
+locations:
+- Aire Valley
+- Amazon
+- America
+- Britain
+- Gaza
+- Iran
+- Kyiv
+- Lebanon
+- Russia
+- Straits of Hormuz
+- Syria
+- UK
+- US
+- Ukraine
+- Yorkshire
+people:
+- Alex Babenko
+- Andy Brown
+- Benjamin Netanyahu
+- Donald Trump
+- Keir Starmer
+- Kim Jong Un
+- Vladimir Putin
+organisations:
+- Green Party
+- Hamas
 ---
 
 # Why it’s time for Europeans to try to directly negotiate a peace deal with Vladimir Putin - Andy Brown

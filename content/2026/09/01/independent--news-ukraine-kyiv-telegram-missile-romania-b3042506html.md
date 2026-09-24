@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Boryspil
+- Darnytskyi
+- Holosiivskyi
+- Kyiv
+- Odesa
+- Orlivka
+- Romania
+- Russia
+- Solomianskyi
+- Ukraine
+people:
+- Oleh Kiper
+organisations:
+- Telegram
 ---
 
 Russia launched a large aerial assault in and around Ukraine’s capital overnight into Tuesday morning, killing at least 11 people and wounding more than a dozen others, including three children, local authorities said.

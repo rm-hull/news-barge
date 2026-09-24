@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Brooklyn
+- J’ouvert
+- Manhattan
+- New York
+- New York City
+- US
+- United States
+- Washington DC
+- White House
+people:
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- George Pataki
+- George W Bush
+- JD Vance
+- Osama bin Laden
+- Rudy Giuliani
+- Zohran Mamdani
+organisations:
+- Day of Remembrance and Service”
+- New York Times
+- Newsmax
+- Pentagon
+- World Trade Center
+- al-Qaida
 ---
 
 New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days after the former mayor – who led the city at the time of the 2001 terrorist attacks – disparaged his Muslim religion and said he should skip the ceremony.

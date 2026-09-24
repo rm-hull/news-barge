@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Harrogate
+people: []
+organisations:
+- Harrogate BID
+- ShopSafe
 ---
 
 ![](https://mmo.aiircdn.com/409/6a91614e995558bc93d.jpg) 

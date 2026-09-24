@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arc de Triomphe
+- Arlington Cemetery
+- Arlington Memorial Bridge
+- Arlington National Cemetery
+- D.C.
+- Lincoln Memorial
+- Memorial Circle
+- Paris
+- Triumphal Arch
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- Doug Burgum
+- Josh Marcus
+- Karen Meredith
+- Paul Eaton
+organisations:
+- Arlington National Cemetery
+- Avenue of Heroes
+- Capital in the World
+- Congress
+- Gold Star
+- Home of the Brave
+- Justice Department
+- National Capital Planning Commission
+- National Trust for Historic Preservation
+- Oval Office
+- Supreme Court
+- Trump
+- VoteVets
 ---
 
 Veterans and families of fallen U.S. soldiers say that President Donald Trump’s 250-foot Triumphal Arch in Washington, D.C. risks disrupting military burials at Arlington National Cemetery, as their fight against the project ramps up.

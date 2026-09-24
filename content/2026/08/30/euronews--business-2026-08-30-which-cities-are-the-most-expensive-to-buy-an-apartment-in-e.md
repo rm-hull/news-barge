@@ -14,6 +14,56 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Amsterdam
+- Athens Istanbul
+- Barcelona
+- Berlin
+- Birmingham
+- Brussels
+- Budapest
+- Cairo
+- Charles Bridge
+- Copenhagen
+- Dublin
+- Edinburgh
+- Europe
+- France
+- Frankfurt
+- Geneva
+- Germany
+- Greece
+- Helsinki
+- Hong Kong
+- Johannesburg
+- Lesser Town
+- Lisbon
+- London
+- Luxembourg
+- Madrid
+- Mala Strana
+- Milan
+- Munich
+- Oslo
+- Paris
+- Prague Castle
+- Rome
+- Seoul
+- Spain
+- St. Vitus Cathedral
+- Stockholm
+- Switzerland
+- UK
+- Vienna
+- Warsaw
+- Zurich
+people: []
+organisations:
+- Deutsche Bank
+- Deutsche Bank Research Institute
+- ECB
+- EU
+- Numbeo
 ---
 
 ## The price per square metre of buying an apartment in city centres differs widely across Europe. Among the five largest European economies, only two have their capital cities in the top 10 most expensive list.

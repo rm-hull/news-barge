@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/APBPWUnJNeAwVTRechfGSJ-320-80.jpg
+locations: []
+people: []
+organisations:
+- AMD
+- Get Tom's Hardware
+- Intel
+- Lunar Lake
+- Microsoft
+- Qualcomm
+- Surface Duo
+- Surface Laptop Studio
+- iFixit
 ---
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/APBPWUnJNeAwVTRechfGSJ-320-80.jpg)

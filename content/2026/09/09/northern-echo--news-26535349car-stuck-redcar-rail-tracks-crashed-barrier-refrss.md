@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Church Lane
+- Darlington Station
+- North East
+- North Yorkshire
+- Redcar Central
+- Redcar Lane
+- Saltburn
+people: []
+organisations:
+- Network Rail
 ---
 
 *(Image: NETWORK RAIL)*

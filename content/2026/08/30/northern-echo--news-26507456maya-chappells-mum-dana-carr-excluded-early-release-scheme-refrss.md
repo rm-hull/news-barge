@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - True Crime
 - Family & Parenting
+locations:
+- Berkshire
+- County Durham
+- DURHAM CONSTABULARY
+- Newcastle
+- Royal Victoria Infirmary
+- Shotton Colliery
+- Teesside Crown Court
+- UK
+people:
+- Albert Bowers
+- Andrew Harper
+- Andy Burnham
+- Cathal McNaughton
+- Dana Carr
+- Gemma Chappell
+- Jessie Cole
+- Kirklevington
+- Maya Chappell
+- Michael Daymond
+- PC Harper
+- Rachael Walls
+- SARAH CALDECOTT
+organisations:
+- Government
+- Ministry of Justice
+- Northern Echo
+- PA Wire
+- The Northern Echo
 ---
 
 The family of murdered County Durham tot Maya Chappell have spoken of their relief at changes to the Government's early release scheme which will keep her mum behind bars.

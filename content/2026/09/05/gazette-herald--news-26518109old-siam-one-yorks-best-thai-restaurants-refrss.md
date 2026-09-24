@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Chiangmai
+- Edinburgh
+- Micklegate
+- North Yorkshire
+- Old Siam
+- Scotland
+- Thailand
+- The Old Siam
+- The York
+- Viva Mexico
+- YorkT
+people:
+- Greggs
+- James Martin
+- MAXINE GORDON
+organisations:
+- The Old Siam
+- The Press
+- Yorkshire
 ---
 
 **Why The Old Siam is one of York's best Thai restaurants. Review by MAXINE GORDON**

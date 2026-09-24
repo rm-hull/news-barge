@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Kentucky
+- New York
+people:
+- Donald Trump
+- Ghislaine Maxwell
+- James Comer
+- Jeffrey Epstein
+- Leon Black
+- Thomas Massie
+organisations:
+- Congress
+- Department of Justice
+- Epstein
+- Guardian
+- House
 ---
 
 More than a dozen survivors of Jeffrey Epstein’s abuse have called on the billionaire Leon Black to appear before the House oversight committee in order to clarify his connections to the late disgraced financier and convicted sex offender.

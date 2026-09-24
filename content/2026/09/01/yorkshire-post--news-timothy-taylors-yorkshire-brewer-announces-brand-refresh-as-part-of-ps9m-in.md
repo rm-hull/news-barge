@@ -16,6 +16,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Andrew Carter
+- Timothy Taylor
+organisations:
+- Chapel Down Group
+- Timothy Taylor's
+- Yorkshire
 ---
 
 # Timothy Taylor's: Yorkshire brewer announces brand refresh as part of £9m investment

@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Jackdaw
+- North Sea
+- PA
+- Rosebank
+- Sheffield
+- UK
+people: []
+organisations:
+- Imperial College London
+- Jane Barlow
+- Julian Briggs
+- Rosebank
+- Yorkshire Post Letters
 ---
 
 # Set aside emotions and examine the numbers behind Rosebank and Jackdaw - Yorkshire Post Letters

@@ -14,6 +14,25 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/HaPbNcYRQZJHBk2DfLU3LV-2000-80.jpg
+locations: []
+people:
+- Archie Whitehead
+- Blake
+- Kurosaki
+- Laura Mouther
+- Yutani
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
+- Weyland-Yutani Corporation
+- Yutani
 ---
 
 ![Alien: Isolation 2](https://cdn.mos.cms.futurecdn.net/HaPbNcYRQZJHBk2DfLU3LV.jpg)

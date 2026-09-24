@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Buck Inn
+- Buckden Pike
+- Buckden Pike Circular
+- Buckden Rack
+- Rakes Wood
+- Starbottom
+- Starbotton
+- UK
+- Yorkshire Dales
+people: []
+organisations:
+- Fox & Hounds Inn
+- Wellington Bomber
+- Yorkshire Dales
 ---
 
 *(Image: Getty)*

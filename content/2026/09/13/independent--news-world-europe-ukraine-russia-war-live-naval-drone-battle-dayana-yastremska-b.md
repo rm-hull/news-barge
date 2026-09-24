@@ -13,6 +13,47 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Alberta
+- Banff
+- Black Sea
+- Canada
+- Chrysanthemum Crest
+- Donetsk
+- Japan
+- Kramatorsk
+- Krasnodar
+- Kryvyi Rih
+- Kyiv
+- Russia
+- Siauliai
+- Soviet Union
+- Stockholm
+- Sweden
+- Ukraine
+- Vilnius Lithuania
+- Yahodyn
+- Zaporizhzhia
+- Zhytomyr
+people:
+- '## Zelensky'
+- Andrii Sybiha
+- Mark Carney
+- Oleksandr Kravchenko
+- Putin
+- Sanae Takaichi
+- Ulf Kristersson
+- Volodymyr Zelensky
+organisations:
+- EU
+- European Union
+- NATO Baltic Air Defence
+- National Crisis Management Centre
+- Nato Baltic Air Defence
+- Reuters
+- Riksdag
+- Telegram
+- 'YES'
 ---
 
 A Ukrainian sea drone shot and destroyed a Russian unmanned boat in what Volodymyr Zelensky’s navy says marks the “first-ever naval battle” between maritime drones.

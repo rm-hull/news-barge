@@ -13,6 +13,56 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- America
+- Arizona
+- Colorado
+- Florida
+- Iowa
+- Iran
+- Kansas
+- Maine
+- Oklahoma
+- Pennsylvania
+- Sen
+- Strait of Hormuz
+- Texas
+- U.S.
+- Wisconsin
+people:
+- Adam Hamilton
+- Anna Paulina Luna
+- Ashley Hinson
+- Bill Clinton
+- Bob Casey
+- Dobbs
+- Donald Trump
+- Elon Musk
+- JD Vance
+- James Talarico
+- John Cornyn
+- John Thune
+- Josh Turek
+- Ken Paxton
+- Kendra Horn
+- Kyrsten Sinema
+- Lauren Boebert
+- Roger Marshall
+- Ron DeSantis
+- Rosh Hashanah
+- Susan Collins
+- Troy Jackson
+organisations:
+- GOP
+- House of Representatives
+- MAGA Inc.
+- Majority
+- National Republican Senatorial Committee
+- PAC
+- Senate Leadership Fund
+- Supreme Court
+- Talarico
+- Trump
 ---
 
 On Thursday, the House of Representatives decided to cancel votes for the last two weeks of September, meaning that after next week’s break for Labor Day and Rosh Hashanah, the House will only be in business for four days until the midterm elections.

@@ -11,6 +11,28 @@ description: China's viral robot "spy fish" is lifelike and steers itself around
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/qv4yXDT2UeY8942dB5h4YD-832-80.jpg
+locations:
+- Beijing
+- Reddit
+- Shougang Park
+people:
+- Boyagongdao
+- Rahim Amir
+- Zhang Yu
+organisations:
+- BG-5
+- Boyagongdao Marine Technology Group
+- CIFTIS
+- China International Fair for Trade in Services
+- Google News
+- PC
+- PCs
+- RGB
+- ROBO-SHARK
+- ROBOLAB-GL
+- Robosea
+- SFF
+- TechRadar Pro
 ---
 
 ![The BG-5 Golden Dragon fish-shaped bionic robot](https://cdn.mos.cms.futurecdn.net/qv4yXDT2UeY8942dB5h4YD.jpg)

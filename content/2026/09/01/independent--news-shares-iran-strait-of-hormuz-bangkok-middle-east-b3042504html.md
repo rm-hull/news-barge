@@ -14,6 +14,36 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- California
+- Hong Kong
+- India
+- Iran
+- Jordan
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Alex Veiga
+- Damian Troise
+- Michelle Chapman
+organisations:
+- Chevron
+- Edison International
+- Exxon Mobil
+- Fed
+- Federal Reserve
+- Labor Department
+- PG&E
+- Sensex
+- Shein
+- Taiex
+- Treasury
+- Trump
 ---
 
 Oil prices climbed further and Asian shares were mixed Tuesday as recurring violence in the Iran war after more than a month with no significant fighting heightened uncertainty over the future of the conflict.

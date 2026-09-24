@@ -15,6 +15,34 @@ categories:
 - York
 - History
 - True Crime
+locations:
+- Afghanistan
+- Arboretum
+- Huddersfield
+- Leyburn
+- Lichfield
+- Mansfield
+- North Yorkshire
+- Nottinghamshire
+- Railway Street
+- Scotland
+- Tommy’s Lounge
+- UK
+people:
+- Andy Francis
+- Lance
+- Sgt Ed Mackenzie
+- Sharon Garton
+- Tommy
+- Tommy’s Riders
+organisations:
+- 2nd Battalion the Rifles
+- British Army
+- Elysium Memorial
+- Elysium Memorial Foundation
+- Huddersfield
+- National Memorial Arboretum
+- The National Memorial Arboretum
 ---
 
 # New veterans' memorial aims to bring suicide 'out of the shadows'

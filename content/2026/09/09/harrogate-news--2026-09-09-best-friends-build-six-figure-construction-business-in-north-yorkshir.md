@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- Northallerton
+- Thirsk
+- UK
+people:
+- Chad Scatchard
+- Max Scott
+- Max Scott:**
+- Max Scott:** My Dad
+- Stuart Scott
+organisations:
+- Construction Industry Training Board
+- Elegant Projects Ltd
+- Elegant Projects Ltd**
+- Thirsk
 ---
 
 **Thirsk entrepreneurs Chad Scatchard and Max Scott have launched Elegant Projects Ltd**, establishing a rapidly expanding construction company with individual property development contracts already valued up to £100,000. Operating across Thirsk, Northallerton, and the surrounding North Yorkshire areas, the multi-skilled duo has opened their first permanent commercial office and fully filled their main operational diary until the final quarter of 2026.

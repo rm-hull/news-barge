@@ -15,6 +15,56 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Born
+- East Beirut
+- Edinburgh
+- England
+- France
+- Ilkley
+- Lebanon
+- New York City
+- Prague
+- Primrose Hill
+- UK
+- Westminster
+- Yarm
+people:
+- Beadle
+- David Mellor
+- Dom Joly
+- Hello!
+- John Blow
+- Mark Hollis’
+- Nick Drake
+- Paddy Ashdown
+- Sam Cadman
+- Talk Talk
+- Tony Blair
+- Trigger Happy
+- Vladimir Putin
+organisations:
+- A Gang of Squirrels
+- BBC
+- CBGBs
+- European Commission
+- Footlights
+- Hang David
+- Harrogate Theatre
+- ITN
+- KGB
+- King's Hall
+- Leeds City Varieties
+- Scarborough Spa
+- Scarborough Spa Theatre
+- The Giant Snail
+- The Morris Dancer
+- The Princess Alexandra Auditorium
+- The Scout
+- The Traffic Warden
+- Trigger Happy TV
+- YP
+- Yorkshire
 ---
 
 # Dom Joly's Trigger Happy TV comes to Yorkshire venues on major tour

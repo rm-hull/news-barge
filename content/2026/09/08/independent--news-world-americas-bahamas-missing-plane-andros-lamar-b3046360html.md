@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Andros Island
+- Berry Islands
+- Florida
+- Grand Habour Clay
+- Great Harbour Cay
+- Great Harbour Clay
+- Miami
+- Miami-Dade County
+- North Andros
+- Red Bays
+- The Bahamas
+people:
+- Christian Sosa
+- Lily Lamar
+- Mario Lamar
+- Silvia Larrieu
+- Sophie Sosa
+organisations:
+- Coast Guard
+- Miami Herald.
+- Southeast District
+- U.S. Coast Guard
+- WSVN-TV
 ---
 
 A search operation is underway after a small plane carrying four family members returning home to Florida went missing off the coast of the Bahamas on Monday, according to reports from the U.S. Coast Guard and authorities in the Bahamas.

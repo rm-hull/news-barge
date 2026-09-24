@@ -11,6 +11,46 @@ image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e063/live/312
 categories:
 - UK
 - News & Politics
+locations:
+- Atlantic
+- Europe
+- Ireland
+- Labrador
+- Netherlands
+- South West England
+- UK
+people:
+- Amy
+- Austen Nagle
+- Boelo
+- Chloe
+- Dano
+- Evelyn
+- Finn
+- Gwendolyn
+- Heather
+- Ivy
+- Jade
+- Kilian
+- Laoise
+- Marty
+- Miriam
+- Nicola
+- Olaf
+- Phelim
+- Ruban
+- Shaun
+- Theo
+- Vesna
+- Wende
+organisations:
+- Irish Meteorological Service
+- Met Office
+- Met Éireann
+- Netherlands' KNMI
+- UK Met Office
+- US National Hurricane Center
+- US National Hurricane Centre
 ---
 
 ![Car partially submerged, surrounded by flooded fields following Storm Chandra](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e063/live/3123c520-a2ee-11f1-aed2-8d6da8d75094.jpg)

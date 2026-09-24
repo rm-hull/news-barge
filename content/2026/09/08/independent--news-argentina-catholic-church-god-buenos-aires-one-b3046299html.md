@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Argentina
+- Buenos Aires
+- Conicet
+- Gauchito Gil
+- Gilda’s
+- Mass
+- Paranacito River
+- Peru
+- South America
+- Uruguay
+- Vatican
+people:
+- Cleopatra Barrios
+- Diego Maradona
+- Difunta Correa
+- Francis
+- Gilda
+- God
+- Julia Domínguez
+- Leo XIV
+- Miriam Alejandra Bianchi
+- Paola Martini
+- Robin Hood
+organisations:
+- Catholic Church
 ---
 
 Thirty years ago this Monday, Argentina was left stunned when a tour bus carrying a beloved cumbia singer, known by her stage name Gilda, collided with a truck. Miriam Alejandra Bianchi died at age 34, but she lives on in legend as a miracle-working folk saint.

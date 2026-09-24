@@ -12,6 +12,31 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Chabahar
+- Iran
+- Israel
+- Jordan
+- Konarak
+- Larak Island
+- Qeshm
+- Sirik
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- US
+- Washington
+people:
+- Bandar Abbas
+organisations:
+- Al Menhad
+- CENTCOM
+- Fars
+- IRGC
+- Iranian Revolutionary Guards
+- Ministry of Defence
+- US Central Command
 ---
 
 ## Hostilities sparked back into life on Sunday after the US carried out fresh strikes on what it said were IRGC minelaying forces in the Strait of Hormuz.

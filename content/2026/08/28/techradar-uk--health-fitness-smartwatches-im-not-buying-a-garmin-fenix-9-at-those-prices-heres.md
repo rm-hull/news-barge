@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/4UHozLaE4mS9GQqVYzfFL6-1500-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Alex Blake
+- Garmin
+organisations:
+- Apple Watch
+- Creative Bloq
+- Fenix 9
+- Garmin Fenix
+- Google News
+- MacFormat
+- Samsung —
+- TechRadar
+- iMore
 ---
 
 ![The Garmin Fenix 9 Pro smartwatch.](https://cdn.mos.cms.futurecdn.net/4UHozLaE4mS9GQqVYzfFL6.jpg) 

@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - History
+locations:
+- Grosmont Station
+- North York Moors
+- North Yorkshire Moors Railway
+- Pickering Station
+- Pullman
+people:
+- Laura Strangeway
+organisations:
+- '## Historic Pullman'
+- Autumn Pullman
+- LNER
+- London and North Eastern Railway
+- NYMR
+- South Yorkshire Area Group
 ---
 
 ## Historic Pullman dining carriage returns after decade-long restoration

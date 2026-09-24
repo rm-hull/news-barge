@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Lincolnshire
+- Market Street
+- NORTH Yorkshire
+- North East
+- Scarborough
+- St Nicholas Street
+- Westborough
+- YO11 2HG
+people:
+- Alice Coopland
+- Frederick
+organisations:
+- Coopland and Sons
+- Cooplands' Flagship Store
+- Google Maps
+- Ltd
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
 ---
 
 A NORTH Yorkshire bakery’s flagship store has applied for a new licence from North Yorkshire Council.

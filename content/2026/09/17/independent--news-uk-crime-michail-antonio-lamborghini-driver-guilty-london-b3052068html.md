@@ -11,6 +11,36 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Buckinghamshire
+- Epping Forest
+- Essex
+- London
+- Manchester
+- Mike Egerton
+- PA
+- Pall Mall
+- Qatar
+- West Ham
+- West Midlands
+people:
+- Al-Sailiya
+- Ian Comfort
+- Met
+- Michail Antonio
+- Sunita Bains
+- Tarique Josephs
+organisations:
+- Ferrari
+- Lamborghini
+- Metropolitan Police
+- Nottingham Forest
+- Premier League
+- Reading
+- Sheffield Wednesday
+- Uxbridge Magistrates’ Court
+- Watford
+- West Ham
 ---
 
 Footballer Michail Antonio has been convicted of failing to identify the driver of his Lamborghini supercar when it was suspected of involvement in a motoring offence in central London.

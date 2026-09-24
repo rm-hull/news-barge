@@ -12,6 +12,28 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/20/22/ICE_Shooting_Austin_83_46.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Austin
+- Houston
+- Maine
+- Minnesota
+- U.S.
+people:
+- Alex Pretti
+- Greg Casar
+- Johan Sebastián
+- Kirk Watson
+- Lisa Davis
+- Lorenzo Salgado Araujo
+- Renee Good
+organisations:
+- Army
+- Austin Police
+- Department of Homeland Security
+- ICE
+- The Associated Press
+- Trump
+- U.S. Immigration and Customs Enforcement
 ---
 
 A U.S. Immigration and Customs Enforcement officer shot and wounded a man on Sunday afternoon in the Texas' capital of Austin, local officials said.

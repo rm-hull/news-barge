@@ -15,6 +15,43 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bangladesh
+- Ecuador
+- Ghana
+- Ivory Coast
+- Latin America
+- Lima
+- Manhattan
+- Mexico
+- New York
+- New York City
+- North Tower
+- Peru
+- United States
+- West Coast
+people:
+- Abdoul Karim Troare
+- Abdul Karim
+- Betsy West
+- God
+- Joe Baum
+- Julie Cohen
+- Michael Lomonaco
+- Milton Glaser
+- Moises Rivas
+- Nathalie Tolentino
+- Ramadan
+- Sekou Siby
+- Warren Platner
+organisations:
+- CNN Films
+- Eastern Time
+- London-based Risk Waters Group
+- MBA
+- Restaurant Opportunities Centers United
+- TIME Studios
+- World Trade Center
 ---
 
 Sekou Siby was supposed to be working the morning shift on September 11, 2001. Instead, he swapped with a young co-worker from Ecuador, taking the afternoon slot.

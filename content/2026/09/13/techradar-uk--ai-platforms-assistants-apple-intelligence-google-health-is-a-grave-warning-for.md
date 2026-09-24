@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Health & Fitness
 - Business & Entrepreneurship
+locations: []
+people:
+- Alex Blake
+organisations:
+- Apple Health
+- Apple Intelligence
+- Creative Bloq
+- Fitbit
+- Google Health
+- Google News
+- MacFormat
+- Siri AI
+- TechRadar
+- iMore
 ---
 
 ![Apple Health](https://cdn.mos.cms.futurecdn.net/e3rfxxe3fN85Pszxq4uUA5.jpg) 

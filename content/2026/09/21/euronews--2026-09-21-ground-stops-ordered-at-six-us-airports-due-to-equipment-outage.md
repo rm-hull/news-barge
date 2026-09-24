@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/21/30/1200x675_cmsv2_90b734a5-9879-5fda-88ba-3eeca19c15ba-9922130.jpg
+locations:
+- LaGuardia
+- New Jersey
+- Newark
+- Philadelphia
+- Prestwick
+- Scotland
+- Teterboro
+- UK
+- US
+- United States
+- Westchester County
+people:
+- Bryan Bedford
+organisations:
+- FAA
+- Federal Aviation Administration
+- Flightradar24
+- John F. Kennedy International
+- NATS
+- Newark Liberty
+- Philadelphia International
+- Philadelphia TRACON
+- Philadelphia Terminal Radio Approach Control
 ---
 
 ## "Due to an FAA equipment outage, arrivals and departures are currently delayed," Newark Liberty airport in New Jersey said in a post on social media. "Please contact your airline for flight status".

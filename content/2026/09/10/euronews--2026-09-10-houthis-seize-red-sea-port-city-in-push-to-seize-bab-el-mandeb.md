@@ -12,6 +12,48 @@ image: https://images.euronews.com/articles/stories/09/90/85/08/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Al-Jawf
+- America
+- Asia
+- Bab al-Mandeb
+- Bab al-Mandeb Strait
+- Bab el-Mandeb
+- Dhubab
+- Europe
+- Gaza
+- Hodeida
+- Iran
+- Iraq
+- Israel
+- Lebanon
+- Marib
+- Mokha
+- Perim Island
+- Red Sea
+- Riyadh
+- Sana'a
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Taiz
+- Tehran
+- Yemen
+people:
+- Abha
+- Ansar Allah
+- Khamis Mushait
+- Mokha
+- Sadeq Duwaid
+organisations:
+- AFP
+- Axis of Resistance
+- Hamas
+- Hezbollah
+- Houthi
+- IRGC
+- National Resistance Forces
+- Saba
 ---
 
 ## The Houthis' latest offensive is meant to replicate Iran's Hormuz blockade in the Bab el-Mandeb, with Red Sea coastal towns and islands in the crucial waterway among their next military objectives.

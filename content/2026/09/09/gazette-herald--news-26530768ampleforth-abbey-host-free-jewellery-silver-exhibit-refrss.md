@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Alban Roe House
+- Ampleforth Abbey
+- North of England
+people:
+- Jacqueline Warrington
+- Joanne Gowan
+- Karen Ward
+- Ms Ward
+- Ms Warrington
+- Susan Rumfitt
+organisations:
+- Acquire
+- Ampleforth
+- BBC
+- Yorkshire
 ---
 
 Two Yorkshire artisans are set to shine at a jewellery and silversmithing exhibition this month.

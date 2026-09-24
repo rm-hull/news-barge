@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Athens Flying Week
+- Greece
+- Palmas
+- Tanagra
+people:
+- Kyriakos Mitsotakis
+- Nikos Dendias
+- Vasilis Palmas
+organisations:
+- ERT
+- Hellenic Air Force
+- Tanagra Air Base
 ---
 
 Two pilots were killed when a Greek air force jet crashed at an annual air show north of Athens on Saturday, officials said.

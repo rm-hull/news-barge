@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Travel
 - Society & Culture
+locations:
+- '## Haze'
+- Borneo Island
+- Brunei
+- Indonesia
+- Kalimantan
+- Kuching
+- Malaysia
+- Sarawak
+- Serian
+- Singapore
+- Southeast Asia
+- Sumatra
+people:
+- Anwar Ibrahim
+- Pipit Subiyanto
+- Sultan Ibrahim Iskandar
+organisations:
+- Forestry Ministry
+- National Police
 ---
 
 ## Haze is a recurring seasonal problem in Southeast Asia, where smoke from forest and peat fires in Indonesia can travel across national borders and affect neighbouring Malaysia, Brunei and Singapore.

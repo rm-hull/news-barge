@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - Film & TV
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBmNzgzNGVkLWFlN2EtNDYzMi05NjlmLWUzZWFlNWY2MGExMzpjNGU3NTQ2NS1jYzZmLTQxNmItODk4OS1jMjg1MTU0YWJhNmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- West Park Church
+- York
+people:
+- Gareth
+- Josh
+- Rick
+organisations:
+- City Screen Picturehouse
+- Cold Bath Brewing Co
+- Dead Northern Festival
+- Fangoria
+- Halloween Party
+- Harrogate Round Table
+- Love Horror
+- North Bar
+- Starling Independent Bar
 ---
 
 # Inside story: Harrogate Round Table members behind internationally famous horror film festival

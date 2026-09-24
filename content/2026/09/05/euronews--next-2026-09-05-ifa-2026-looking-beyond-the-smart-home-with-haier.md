@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Europe
+- Germany
+- Reichstag
+- Tunstall
+people:
+- AI
+- Neil Tunstall
+- Stefan Streit
+organisations:
+- '## Haier'
+- Booster
+- Euronews
+- Haier Europe
+- IFA
+- TCL Europe
+- Tunstall
 ---
 
 ## From AI-powered appliances to humanoid robots, Haier is using IFA 2026 to showcase its vision of the "intelligent home". Euronews spoke to Haier Europe CEO Neil Tunstall about what comes after the smart home — and how soon some of these ideas could become reality.

@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Blackreef Island
+- Complex
+- Forgotten City
+- Hollywood
+- Roman Empire
+- Rome
+- Singapore
+- Updaam
+people:
+- Daisy Ridley
+- Deathloop
+- James McAvoy
+- Julianna
+- Khee Hoon
+- Willem Dafoe
+organisations:
+- Eurogamer
+- Google News
+- PC Gamer
+- Polygon
+- Rock Paper Shotgun
+- TechRadar Gaming
 ---
 
 ![A screenshot of the video game Twelve Minutes.](https://cdn.mos.cms.futurecdn.net/VVpfRkKwxshMqRcPr6Eiid.jpg) 

@@ -15,6 +15,22 @@ categories:
 - Careers & Productivity
 - Sports
 - Business & Entrepreneurship
+locations:
+- Copenhagen
+- Denmark
+- Hollywood
+- Lido
+- UK
+- Venice
+people:
+- John Malkovich
+- Maggie Gyllenhaal
+- Marie
+- Mathilde Arcel
+organisations:
+- Arcel
+- British TV
+- Equity
 ---
 
 The winner of this year’s best actress prize at the Venice film festival has revealed that she is on unemployment benefits and had to fly to back to Copenhagen to report to the job centre before receiving her award.

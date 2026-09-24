@@ -15,6 +15,49 @@ categories:
 - Travel
 - History
 - Society & Culture
+locations:
+- '## Upper Teesdale'
+- B6277
+- Barnard Castle
+- Bowlees
+- County Durham
+- Durham Dales’
+- England
+- Forest-in-Teesdale
+- Mickleton
+- Middleton
+- Middleton-in-Teesdale
+- Moorland
+- NORTHERN ECHO
+- North Pennines
+- Ravenseat Farm
+- River Tees
+- Romaldkirk
+- Teesdale Way
+- Upper Teesdale
+- Whin Sill
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Middleton
+organisations:
+- Barnard Castle
+- Bowlees Visitor Centre
+- Forresters Hotel
+- High Force
+- High Force Hotel
+- High and Low Force
+- London Lead Mining Company
+- Low Force
+- Middleton Antiques and Interiors
+- NORTHERN ECHO
+- North Pennines National Landscape
+- Restaurant
+- River Wear
+- Samuel James Deli Cafe
+- Teesdale Hotel
+- The Tees'pot
+- This is Durham
 ---
 
 Drive west through Teesdale and the landscape starts to change.

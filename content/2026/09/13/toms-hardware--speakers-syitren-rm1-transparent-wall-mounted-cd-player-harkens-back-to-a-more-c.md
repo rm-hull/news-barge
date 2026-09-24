@@ -15,6 +15,21 @@ categories:
 - Hardware
 - Music
 - Personal Finance & Investing
+locations:
+- Kickstarter
+- USB-C
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- Get Tom's Hardware
+- Google News
+- Kickstarter
+- PC
+- RM1
+- SBC
+- Syitren
+- Tom's Hardware
 ---
 
 ![Syitren RM1 CD player](https://cdn.mos.cms.futurecdn.net/EmuSX5mkD9xgW6JK2aGhbi.png) 

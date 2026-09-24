@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bowron Street
+- Leeds
+- North East
+- Quarry Hill
+- Quarry House
+- Stockton
+- YOUR
+people: []
+organisations:
+- Katmex Ltd
+- LS2
+- Public Notice Portal
+- Public Notice Portal A
+- The Northern Echo
 ---
 
 *(Image: PA)*

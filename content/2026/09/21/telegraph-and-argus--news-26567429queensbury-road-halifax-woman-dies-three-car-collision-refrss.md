@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21480877.jpg?type=og-image
+locations:
+- A647 Queensbury Road
+- Boothtown
+- Gazz Hall
+- Howcans Lane
+- Queensbury Road
+people: []
+organisations:
+- Honda Civic
+- LiveChat
+- MCET
+- Major Collision Enquiry Team
+- Seat Leon
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 A WOMAN in her 40s has died following a three-vehicle collision near Queensbury, police have now revealed.

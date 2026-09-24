@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- East Africa
+- Emboo River Camp
+- Entumoto Safari Camp
+- Kenya
+- Maasai Mara
+- Mombasa
+people:
+- Emboo
+- Filip Lovstrom
+- Jason Knauf
+- Joshua Kijape
+- Loic Amado
+organisations:
+- AP
+- Asilia
+- Associated Press’
+- BBC
+- EERA LAB
+- Emboo
+- Kijape
+- Maasai Mara
+- Mara-Siana
+- ROAM
 ---
 
 Joshua Kijape eases his motorcycle through the tall grass, listening for movement in the bush. There is no engine rumble, no exhaust and little warning for anything ahead.

@@ -13,6 +13,47 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/18/30/AP26259847395710.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- Butler
+- El Paso
+- Iraq
+- Middle East
+- Pennsylvania
+- Rose Garden
+- Skydio
+- Syria
+- Texas
+- U.S.
+- United States
+- Washington
+- Washington, D.C.
+- White House
+people:
+- '## Trump'
+- Donald Trump
+- Dustin Talbott
+- Edward Lengel
+- Javed Ali
+- Matt Sloane
+- Paul Eckloff
+- Skydio
+organisations:
+- Customs and Border Protection
+- FAA
+- National Security Council
+- Reagan Washington National Airport
+- Secret Service
+- Secret Service’s Aviation and Airspace Security Division
+- SkyfireAI
+- Supreme Court
+- Treasury Department
+- Trump
+- U.S. Air Force
+- U.S. Supreme Court
+- University of Michigan
+- White House Historical Association
+- White House Military Office
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

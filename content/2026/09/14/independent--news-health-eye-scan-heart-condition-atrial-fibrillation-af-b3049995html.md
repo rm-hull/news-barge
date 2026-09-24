@@ -13,6 +13,20 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Croydon
+- Moorfields Eye Hospital
+- UK
+people:
+- John Brewer
+- Josef Huemer
+- Siegfried Wagner
+organisations:
+- AF
+- Moorfields Eye Hospital
+- Moorfields Eye Hospital NHS Foundation Trust
+- Plos Digital Health
+- UCL Institute of Ophthalmology
 ---
 
 Eye scans could assist in identifying a widespread heart condition that heightens stroke risks years before diagnosis, a study has found.

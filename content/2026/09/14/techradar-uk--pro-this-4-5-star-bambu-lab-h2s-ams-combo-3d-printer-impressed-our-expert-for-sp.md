@@ -10,6 +10,20 @@ description: Scoring the Bambu Lab H2S 4.5 stars with a TechRadar Pro Recommends
 image: https://cdn.mos.cms.futurecdn.net/YJSryDbnMbskxeHCkg4ynT-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bambu Lab
+- UK
+people:
+- Alastair
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Isabelle
+organisations:
+- Autodesk Kickstarter
+- Bambu Lab
+- H2S
+- TechRadar Pro
+- iMore
 ---
 
 ![Bambu Lab HS2 3D printer during our review](https://cdn.mos.cms.futurecdn.net/YJSryDbnMbskxeHCkg4ynT.jpg) 

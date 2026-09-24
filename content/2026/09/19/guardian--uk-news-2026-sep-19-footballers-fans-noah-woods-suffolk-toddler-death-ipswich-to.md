@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/519de39105425373a6403647ecc24c0a4e0ea577/708_63_3294_2636/master/3294.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45ff7f26b219389449b87b49795673aa
+locations:
+- Brantham
+- Colchester
+- Essex
+- Liverpool
+- Suffolk
+people:
+- Christian Walton
+- Dara O’Shea
+- Leif Davis
+- Noah Woods
+- Rhys Woods
+organisations:
+- Everton
+- Good Dads Club
+- Ipswich Town
+- Premier League
 ---
 
 Players wore black armbands during Everton’s home match against Ipswich Town on Saturday, as part of a tribute to three-year-old Noah Woods, whose body was found after he went missing in Suffolk this week.

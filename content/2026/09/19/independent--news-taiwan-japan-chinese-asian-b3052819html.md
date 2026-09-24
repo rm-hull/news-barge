@@ -14,6 +14,21 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/19/08/Asian_Games_Taiwan__2473.jpg?width=1200&height=800&crop=1200:800
+locations:
+- China
+- Qatar
+- Taipei
+- Taiwan
+people:
+- Chen Shih-kwei
+- Emir
+- Joaan bin Hamad Al Thani
+- Lee Yang
+- Tamim bin Al Thani
+organisations:
+- Chinese Taipei Olympic Committee
+- OCA
+- Olympic Council of Asia
 ---
 
 The president of the Olympic Council of Asia acknowledged Saturday that politics — in the form of a welcoming ceremony involving Taiwan — had already entered into the Asian Games.

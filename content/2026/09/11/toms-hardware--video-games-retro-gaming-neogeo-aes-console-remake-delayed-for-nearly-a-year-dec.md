@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Bruno Ferreira
+- Plaion
+- Tom
+organisations:
+- AES
+- GPU
+- Get Tom's Hardware
+- Google News
+- Jotego
+- MiSTER
+- Neo Geo
+- NeoGeo
+- PC
+- Plaion
+- SNK
+- Tom's Hardware
+- Zilog Z80A
 ---
 
 ![NeoGeo AES](https://cdn.mos.cms.futurecdn.net/oFJLfBsf6h3L7KFfPwx3eN.png) 

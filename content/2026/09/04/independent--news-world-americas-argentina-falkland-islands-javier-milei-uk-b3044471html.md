@@ -13,6 +13,29 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Argentina
+- Britain
+- Downing Street
+- Falkland Islands
+- Falklands
+- Iran
+- Malvinas
+- Tierra del Fuego
+- UK
+- US
+people:
+- Donald Trump
+- James Cartlidge
+- Javier Milei
+organisations:
+- Congress
+- England
+- Falkland Islanders
+- GB News
+- Navitas Petroleum
+- Rockhopper Exploration
+- Sea Lion
 ---
 
 Argentina’s president has said he will impose sanctions on oil drilling off the Falkland Islands as tensions between the UK and Argentina boil over.

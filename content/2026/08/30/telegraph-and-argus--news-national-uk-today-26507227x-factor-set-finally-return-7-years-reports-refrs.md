@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- UK
+people:
+- Alexandra Burke
+- God
+- Leona Lewis
+- Little Mix
+- Simon Cowell
+organisations:
+- Denby
+- EastEnders
+- ITV
+- Love Island
+- Newsquest
+- One Direction
+- Talkback Thames
+- The Band
+- The Sun
+- The X Factor
 ---
 
 *(Image: ITV)*

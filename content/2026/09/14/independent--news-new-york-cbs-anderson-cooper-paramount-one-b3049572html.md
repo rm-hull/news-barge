@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Anderson Cooper
+- Bari Weiss
+- Cecilia Vega
+- David Ellison
+- Donald Trump
+- Kamala Harris
+- Nick Bilton
+- Scott Pelley
+- Sharyn Alfonsi
+- Tanya Simon
+organisations:
+- 60 Minutes”
+- CBS News
+- CBS-TV
+- Paramount
+- Trump
 ---
 
 The venerable newsmagazine “60 Minutes” opened its 59th season on CBS-TV on Sunday night with no direct mention of the turmoil and departures that have unfolded behind the scenes in recent months.

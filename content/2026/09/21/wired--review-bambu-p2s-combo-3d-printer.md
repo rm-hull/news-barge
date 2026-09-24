@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aae1ef93ed816b2d8e7a03c/191:100/w_1280,c_limit/Review--Bambu-Lab-P2S-Combo-3D-Printer.jpg
+locations:
+- Amazon
+- Bambu Lab A1
+people:
+- Brad Bourque
+organisations:
+- Bambu Lab
+- P2S
 ---
 
 Does the average consumer actually *need* a 3D printer? Isn’t it just for people who want to sell fidgets at the flea market, design obscure brackets in CAD, or print groups of*Warhammer* figurines?

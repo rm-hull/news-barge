@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Kyiv
+- Russia
+- UK
+- Ukraine
+- Yahodyn station
+people:
+- Boris Johnson
+- Carl Bildt
+- George Hooley
+- James Cartlidge
+- Wes Streeting
+organisations:
+- Armed Forces
+- Ministry of Defence
+- MoD
+- Telegram
+- Ukrzaliznytsia
 ---
 
 A member of the UK armed forces has been killed in a crash in Ukraine, the Ministry of Defence said.

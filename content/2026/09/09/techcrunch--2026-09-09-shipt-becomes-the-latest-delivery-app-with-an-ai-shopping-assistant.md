@@ -11,6 +11,18 @@ description: Users can ask the assistant to do things like "Create a cart for my
 image: https://techcrunch.com/wp-content/uploads/2026/09/shipt-ai.png?resize=1200,602
 categories:
 - Technology & Software
+locations:
+- Shipt
+people:
+- Shipt
+organisations:
+- AI
+- Ask Shipt
+- Clementine
+- DoorDash
+- Instacart
+- Target
+- Uber Eats
 ---
 
 Shipt, the same-day delivery platform owned by Target, is the latest delivery app to join the AI cart race. The company announced on Wednesday that its new “Ask Shipt” tool will help customers shop more intuitively and turn prompts into customized ready-to-buy carts.

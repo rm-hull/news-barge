@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Iffley
+- Oxford
+people:
+- Akua Reindorf KC
+- Anuj Sagar
+- Croner
+- Ms Ghiotto
+- Reindorf KC
+- Roberta Ghiotto
+organisations:
+- Accor Group
+- EqA
+- Hawkwell House Hotel
+- Reading Employment Tribunal
 ---
 
 A worker at a luxury five-star hotel has been awarded more than £200,000 after she was made to handle the company’s payroll from inside a cupboard.

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Israel
+- Jordan
+- Larak Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+- Pete Hegseth
+organisations:
+- Axios
+- CNN
+- Congress
+- Fox News
+- Islamic Revolutionary Guard Corps
+- Pentagon
+- Reuters
+- The Associated Press
+- The Independent
+- Treasury Department
+- Trump
+- U.S. Central Command
+- World Health Organization
 ---
 
 The U.S. military attacked Iranian rocket launchers positioned in the Strait of Hormuz on Sunday, marking its first offensive operation in a month, a U.S. official told The Associated Press.

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Altrincham
+- Greater Manchester
+- Greater Manchester Police
+- Knutsford
+- Portswood
+- Stockport
+people:
+- Alaric Bassano
+- Hannah Gee
+- Karl Perry
+- Mark Savill
+- Paul Sharpe
+organisations:
+- Crown Prosecution Service
+- Manchester Minshull Street Crown Court
+- Parole Board
+- Telegram
 ---
 
 A 15-year-old girl managed to help ensnare a convicted murderer who kidnapped and sexually assaulted her by pulling out strands of her own hair to leave crucial DNA evidence.

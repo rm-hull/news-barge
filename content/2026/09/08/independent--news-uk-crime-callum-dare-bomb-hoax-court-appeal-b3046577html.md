@@ -12,6 +12,28 @@ categories:
 - UK
 - True Crime
 - Business & Entrepreneurship
+locations:
+- Cardiff Crown Court
+- HMP Parc
+- Los Angeles
+- South Wales
+- Talbot Green
+- United States
+people:
+- '![Dare'
+- Callum Dare
+- Justice Hill
+- Justice Linden
+- Justice Popplewell
+- Peter Donnison
+- Tracey Lloyd-Clarke
+organisations:
+- Cardiff Crown Court
+- Court of Appeal
+- Crown Prosecution Service
+- FBI
+- South Wales Police
+- University of California
 ---
 
 A man who encouraged a hoax call claiming there were nail bombs and hostages at a Cardiff hotel, leading to “widespread panic and disruption”, has lost a challenge against his jail sentence at the Court of Appeal.

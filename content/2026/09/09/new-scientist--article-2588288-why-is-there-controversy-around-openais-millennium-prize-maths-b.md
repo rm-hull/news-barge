@@ -13,6 +13,26 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311482492.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Alpöge
+- Los Angeles
+- OpenAI
+people:
+- Alpöge
+- Martin Bridson
+- Terence Tao
+- Tristan Buckmaster
+organisations:
+- AI
+- Anthropic
+- Buckmaster
+- Clay Mathematics Institute
+- IPO
+- Levent Alpöge
+- New Scientist
+- New York University
+- OpenAI
+- University of California
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311482492.jpg?w=840)

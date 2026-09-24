@@ -11,6 +11,65 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/800e/live/1e4c26
 categories:
 - UK
 - News & Politics
+locations:
+- Belgium
+- Canada
+- Denmark
+- East Jerusalem
+- Europe
+- Finland
+- France
+- Gaza Strip
+- Herod's Pool
+- Iceland
+- India
+- Ireland
+- Israel
+- Jericho
+- Jordan Valley
+- Jordan Valley West Bank
+- Khirbet Humsa
+- Kiryat Gat
+- Maale Adumim
+- Medjool
+- Mesua
+- Netherlands
+- Norway
+- Poland
+- Portugal
+- Ramallah
+- Ras Ein al-Ouja
+- Spain
+- Sweden
+- UK
+- US
+- West Bank
+- West Bank.
+- al-Mughayyir
+people:
+- Abdul Halim
+- Abdul Halim Abu Omar
+- Abu Omar
+- Avigdor Arbel
+- Ed Miliband
+- Ephraim Sneh
+- Gideon Saar
+- Jessica Stober
+- Lucy Williamson
+- Momen Sinokrot
+organisations:
+- BBC
+- EU
+- Global Echo
+- IGSC
+- International Court of Justice
+- International Gaza Support Center
+- Israeli Civil Administration
+- Momen Sinokrot
+- Palestine Gardens
+- Palestinian Water Authority
+- Peace Now
+- UN
 ---
 
 ![Dates on an date palm at an Israeli settler farm in the Jordan Valley, in the occupied West Bank](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg)

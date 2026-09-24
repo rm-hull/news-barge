@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- Britain
+- East
+- Essex
+- Hampshire
+- Norfolk
+- Peterborough
+- Suffolk
+- West Surrey
+- West Sussex
+people:
+- Angela Rayner
+organisations:
+- Cambridgeshire
+- House
+- MHCLG
+- Ministry of Housing, Communities and Local Government
+- Reform UK-led Kent County Council
 ---
 
 Decisions regarding flagship local government reorganisation schemes have been officially withdrawn as the government launches a review of its plans after receiving fresh legal advice.

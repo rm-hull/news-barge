@@ -12,6 +12,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/14/00/da98322fc215d42c3ee83c14439a52e2Y29udGVudHNlYXJjaGFwaSwxNzg5MTI0MTEw-2.1563280.jpg?trim=384,0,1513,0&width=1200&height=800&crop=1200:800
+locations:
+- Buckingham Palace
+- Clarence House
+- Malta
+- West London
+people:
+- Elizabeth II
+- Elizabeth’
+- George VI
+- Mary
+- Ms Borghi
+- Peter Stewart
+- Philip
+- Prince Charles
+- Valentina Borghi
+organisations:
+- Chiswick Auctions
+- London Coliseum
+- Royal Family
+- The Carlton Club
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

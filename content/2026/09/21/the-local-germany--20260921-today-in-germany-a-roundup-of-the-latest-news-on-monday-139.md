@@ -13,6 +13,51 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620458645.jpg@webp
+locations:
+- Bab al-Mandab Strait
+- Berlin
+- Bundeswehr
+- Germany
+- Iran
+- Italy
+- Mecklenburg-Western Pomerania
+- New York
+- Noervenich
+- Rhineland-Palatinate
+- Strait of Hormuz
+- Wittlich
+people:
+- Boris Pistorius
+- Carsten Breuer
+- Elif Eralp
+- Friedrich Merz
+- Giuseppe Cavo Dragone
+- Mark Rutte
+- Veronika Grimm
+- anti-AfD
+organisations:
+- AFP
+- AfD
+- Alternative for Germany
+- BSW
+- Bundeswehr
+- CDU
+- CDU-SPD
+- Council of Economic Experts
+- DPA
+- FDP
+- Free Democratic Party
+- German Armed Forces Association
+- Greens
+- House of Representatives
+- Left Party
+- Military Committee
+- NATO
+- Noervenich
+- SPD
+- Sahra Wagenknecht’s Alliance
+- The Left
+- United Nations General Assembly
 ---
 
 **Monday's top story:Merz faces new pressure after crushing state elections**

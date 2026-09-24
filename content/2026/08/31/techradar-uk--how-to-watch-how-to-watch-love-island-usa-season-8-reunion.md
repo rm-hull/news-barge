@@ -12,6 +12,54 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 - Sports
+locations:
+- Australia
+- Canada
+- Fiji
+- Love Island
+- UK
+- US
+- USA
+- Villa
+people:
+- '![Bravo'
+- Aatif Sulleyman
+- Andy Cohen
+- Ariana Madix
+- Beatriz Hatz
+- Bryce Dettloff
+- Carl Schmidt
+- Davis Kenzie Annis Jen Terry Beatriz Hatz Caleb & Jaiden
+- Melanie Moreno
+- Peacock NordVPN
+- Sincere Rhea
+- Stan**
+- Tino Ellis
+- Trae Taylor
+- Trinity Tatum
+- Zach Georgiou
+organisations:
+- AU
+- Aatif
+- Aniya Harvey
+- Bravo
+- Casa Amor
+- Future Publishing
+- Gizmodo
+- Islanders
+- KC Chandler & Tierra
+- Kayda Bosse
+- Love Island USA
+- Newsweek
+- No. 1
+- NordVPN**
+- Peacock
+- TechRadar
+- The Independent
+- Trinity
+- Trusted Reviews
+- Universal Studios Hollywood
+- UnlocksPeacock
 ---
 
 ![Bravo's Andy Cohen in linen jacket and host Ariana Madix smiling to promote the Love Island USA reunion 2026](https://cdn.mos.cms.futurecdn.net/AtUPfmEDNa7FqRPkErFvTK.png) 

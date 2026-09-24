@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/09/14/07/2294886560..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dover
+- Eastney Marina
+- Hampshire
+- Hedge End
+- Paulsgrove
+- Portsmouth Magistrates Court
+- Sherwood Avenue
+- Southampton
+people:
+- David McNally
+- Del Leon Somerville
+- Paul Bartolomeo
+- Timothy Miller
+organisations:
+- Hampshire Police
+- Portsmouth Magistrates’ Court
+- South Coast Patriots
+- The Patriots of Great Britain
 ---
 
 A man has been charged with concealing his identity after wearing a burkha at an anti-migrant demonstration in Portsmouth on Saturday.

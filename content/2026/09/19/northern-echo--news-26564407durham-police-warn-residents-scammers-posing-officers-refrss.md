@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21475814.jpg?type=og-image&xType=0&yType=108
+locations:
+- County Durham
+- Teesside
+people: []
+organisations:
+- Durham Constabulary
+- PA MEDIA
 ---
 
 *(Image: PA MEDIA)*

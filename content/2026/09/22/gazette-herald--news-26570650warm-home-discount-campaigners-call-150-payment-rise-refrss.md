@@ -14,6 +14,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21481546.jpg?type=og-image
+locations:
+- England
+- Great Britain
+- Iran
+- Middle East
+- Northern Ireland
+- UK
+- Wales
+people:
+- Jan Shortt
+- Martin Lewis
+- Simon Francis
+organisations:
+- Citizens Advice
+- Cold Weather Payments
+- DWP
+- End Fuel Poverty Coalition
+- National Pensioners Convention
+- State Pension
+- Warm Home Discount
+- Warm Homes Plan
+- iStockphoto
 ---
 
 Millions of households could be in line for more help with energy bills under a new call to increase the Warm Home Discount as prices continue to rise.

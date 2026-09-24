@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Blackwell GPU
+people: []
+organisations:
+- Arrow Lake
+- Asus
+- GPU
+- Get Tom's Hardware
+- Nvidia
+- SkatterBencher
+- TrashBench
+- Trashbench
+- iGPU
 ---
 
 ![Nvidia RTX 50-series gaming laptops](https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-320-80.jpg)

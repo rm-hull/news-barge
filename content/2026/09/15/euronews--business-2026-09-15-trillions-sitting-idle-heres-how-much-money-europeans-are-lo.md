@@ -15,6 +15,42 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Arlington
+- Brussels
+- Bulgaria
+- Denmark
+- France
+- Frankfurt
+- Germany
+- Lithuania
+- Northern Europe
+- Paris
+- Romania
+- Slovakia
+- Sweden
+- Virginia
+people:
+- Christine Lagarde
+- Maria Luís Albuquerque
+- Rolandas Juteika
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- Department of Homeland Security
+- Draghi
+- ECB Governing Council
+- EU
+- Euronews
+- European Central Bank
+- European Commission
+- Eurostat
+- Financial Services
+- MSCI Europe ETF
+- Member States
+- National Cybersecurity and Communications Integration Center
+- Revolut
+- Savings and Investments Union
 ---
 
 ## Europeans are losing an average of €294 in purchasing power for every €10,000 they keep in the bank, according to a study from Revolut, which found €6.3 trillion sitting in low-yield deposits across 20 EU countries at a moment when Brussels is trying to push that money into capital markets.

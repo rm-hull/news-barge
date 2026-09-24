@@ -12,6 +12,32 @@ categories:
 - Music
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/21/06/Austria_Sound_of_Music_Museum_612_4.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Austria
+- Broadway
+- Dayton
+- Hellbrunn Palace
+- Hollywood
+- Nazi Germany
+- Ohio
+- Salzburg
+people:
+- Agathe von Trapp
+- Christopher Plummer
+- Elisabeth von Trapp
+- Georg von Trapp
+- John
+- Julie Andrews
+- Kurt
+- Liesl von Trapp
+- Maria
+- Rolf
+- Terry Combs
+- Werner von Trapp
+- Wolfgang Amadeus Mozart
+- von Trapp
+organisations:
+- Rodgers & Hammerstein
 ---
 
 An Austrian museum is alive with “The Sound of Music,” a first-ever venue devoted to the classic 1965 singalong movie starring Julie Andrews.

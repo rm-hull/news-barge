@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- :** Southern
+- England
+- Kew Gardens
+- Lincolnshire
+- London
+- Manchester
+- UK
+- Wales
+people: []
+organisations:
+- '### Met Office'
+- Met Office
 ---
 
 The UK is expected to return to milder temperatures this week after a weekend of summer-like conditions which saw parts of the country reach the mid-20s on the mercury.

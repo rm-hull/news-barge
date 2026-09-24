@@ -11,6 +11,17 @@ description: This one ChatGPT follow-up exposed the assumptions hiding inside it
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/T9k3UwxZeUZFZyyWSuGah-2560-80.jpg
+locations:
+- New York City
+people:
+- Eric Hal Schwartz
+organisations:
+- AI
+- ChatGPT
+- Google Gemini
+- Google News
+- TechRadar
+- Voicebot.ai
 ---
 
 ![An iPhone showing the ChatGPT logo on its screen](https://cdn.mos.cms.futurecdn.net/T9k3UwxZeUZFZyyWSuGah.jpg)

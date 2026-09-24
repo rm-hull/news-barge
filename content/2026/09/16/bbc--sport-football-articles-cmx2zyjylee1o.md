@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Manchester City
+- Old Trafford
+- Unitedon
+people:
+- Bruno Fernandes
+- Enzo Fernandez
+- Enzo Maresca
+- Erling Haaland
+- Howard Webb
+- Pep Guardiola
+- Phil Foden
+- Rooney Foden
+organisations:
+- Man City
+- Manchester City
+- Manchester Citymanager
+- Manchester United
+- Norwich City
+- Pro Ref
+- Sunderland
+- VAR
 ---
 
 ![Enzo Maresca, manager of Manchester City, celebrates victory at the final whistle during the Premier League 2026-27 match between Manchester United and Manchester City at Old Trafford](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dd40/live/fdbe1030-b1b3-11f1-bdcf-d393eb724fa3.jpg)

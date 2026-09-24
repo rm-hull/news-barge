@@ -13,6 +13,22 @@ categories:
 - UK
 - Health & Fitness
 - Business & Entrepreneurship
+locations:
+- New York
+people:
+- Steven Kolb
+organisations:
+- CFDA
+- COS
+- Council of Fashion Designers
+- Council of Fashion Designers of America
+- Facebook
+- H&M Group
+- Instagram
+- NYFW
+- New York Fashion Week
+- PETA
+- The New York Times
 ---
 
 A fashion CEO has apologized after restraining two protesters at a New York Fashion Week show.

@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Antalya
+- Europe
+- Manchester Airport
+- Milan
+- Turkey
+people:
+- James Lanson
+organisations:
+- EasyJet
+- Easyjet
+- Manchester Evening News
+- easyJet
 ---
 
 EasyJet passengers were left stranded for hours in Manchester and Milan after their pilot cancelled their flight 10 minutes before it was set to depart for Turkey on Friday.

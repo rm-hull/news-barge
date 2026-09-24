@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Cardiff
+people:
+- Alex Ferguson
+- Andoni Iraola
+- Enzo Maresca
+- Erling Haaland
+- Foden
+- Michael Carrick
+- Mikel Arteta
+- Pep Guardiola
+- Roberto de Zerbi
+- Xabi Alonso
+organisations:
+- Arsenal
+- Aston Villa
+- Bournemouth
+- Brighton
+- Chelsea
+- Community Shield
+- Coventry
+- Crystal Palace
+- Gunners
+- Hull City
+- Liverpool
+- Man City
+- Manchester City
+- Manchester United
+- Napoli
+- Porto
+- Premier League
+- Spurs
+- Sunderland
+- Tottenham
 ---
 
 Haaland scores controversial winner as Man City win derby despite Foden red

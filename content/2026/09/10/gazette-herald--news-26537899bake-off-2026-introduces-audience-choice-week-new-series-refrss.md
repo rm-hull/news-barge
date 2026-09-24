@@ -14,6 +14,17 @@ categories:
 - York
 - Film & TV
 - Comedy & Entertainment
+locations: []
+people:
+- Alison Hammond
+- Jon Richardson
+- Judi Love
+- Nigella Lawson
+- Noel Fielding
+- Paul Hollywood
+- Prue Leith
+organisations:
+- Bake Off team
 ---
 
 *(Image: Patch Dolan/Channel 4)*

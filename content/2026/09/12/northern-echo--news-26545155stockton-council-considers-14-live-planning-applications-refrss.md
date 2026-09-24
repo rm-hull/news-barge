@@ -15,6 +15,30 @@ categories:
 - Home, Garden & DIY
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Ashville Avenue
+- Back Lane
+- Billingham
+- Birkdale Road Stockton-on-Tees
+- Cook Way
+- Hampden Way
+- High Leven
+- High Street
+- Ingleby Barwick
+- Manor Farm
+- Norton
+- Rimswell Parade
+- Stockton
+- The Avenue
+- Thornaby
+- Trevine Gardens
+- Troon Close
+- Waterside
+- Yarm Lane
+people:
+- Burdon Garth
+organisations:
+- Stockton Council
 ---
 
 ### Here are a selection of recent live planning applications currently under consideration by Stockton Council:

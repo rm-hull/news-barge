@@ -14,6 +14,18 @@ categories:
 - History
 - Travel
 - Society & Culture
+locations:
+- Donbas
+- Donetsk
+- Druzhkivka
+- Russia
+- Ukraine
+people:
+- Iryna Litovchenko
+- Vladimir Putin
+- Zoya
+organisations:
+- REUTERS
 ---
 
 Charred vehicles line empty roads littered with the debris of destroyed buildings, while the thud of artillery fire gives way to the sharp, high-pitched hum of an attack drone.

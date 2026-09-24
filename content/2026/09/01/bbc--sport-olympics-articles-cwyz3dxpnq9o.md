@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Paris
+- River Seine
+- Sydney
+people:
+- Adele
+- Anthony Albanese
+- Chris Hemsworth
+- Dominika Banevic
+- Jimmy Fallon
+- Jimmy Kimmel
+- Lowe Napalan
+- Nicka
+- Rachael Gunn
+- Sammy
+- Samuel Free
+- aka B-Girl Raygun
+organisations:
+- Australian Breaking Association
+- BBC Sport
+- Netflix
+- New South Wales Institute of Sport
+- Raygun
 ---
 
 ![Australian breakdancer Rachael Gunn - aka B-Girl Raygun - performs at the Paris 2024 Olympics.](https://ichef.bbci.co.uk/ace/standard/940/cpsprodpb/e82b/live/7367ee60-a08d-11f1-84af-1fbec28b23b2.jpg)

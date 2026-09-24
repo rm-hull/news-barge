@@ -13,6 +13,23 @@ categories:
 - UK
 - True Crime
 - Family & Parenting
+locations:
+- Holywell Heights
+- Robey Street
+- Sheffield Magistrates’ Court
+- Wincobank
+people:
+- Andrea Skopova
+- Horvath Jnr
+- Horvath Snr
+- Lauren Costello
+- Nina Horvathova
+- Peter Horvath
+- Tom Woodward
+organisations:
+- CPS Yorkshire
+- Humberside
+- South Yorkshire Police
 ---
 
 Four people have been charged with murder after a newborn baby girl was stabbed to death in Sheffield.

@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Friends Railed Garden
+- Friends of Rowntree Park
+- Pampas
+- Rowntree Park
+- York
+people: []
+organisations:
+- CCTV
+- Friends of Rowntree Park
+- Friends’
+- Rowntree Park
 ---
 
 Vandals have struck at a York park overnight.

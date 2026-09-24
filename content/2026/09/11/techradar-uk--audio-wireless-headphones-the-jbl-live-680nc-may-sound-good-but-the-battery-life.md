@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/eVNYZhCfJaAXndxfw6UkB9-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Bruno Mars
+- James Holland
+organisations:
+- ANC
+- Apple
+- Bose
+- EDM
+- EQ
+- Hip Hop
+- Homes & Gardens
+- JBL
+- LE Audio
+- Sony
+- TechRadar
+- Top Ten Reviews
+- USB-C
 ---
 
 ### TechRadar Verdict

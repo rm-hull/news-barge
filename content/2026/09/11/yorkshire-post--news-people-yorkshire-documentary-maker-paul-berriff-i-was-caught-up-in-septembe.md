@@ -15,6 +15,31 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Ground Zero
+- Heathrow Airport
+- New York
+- New York City
+- Nicaragua
+- North Sea
+- North Tower
+- North Yorkshire
+- US
+people:
+- Laura Reid
+- Paul Berriff
+- Steven Banks
+- Zohran Kwame Mamdani
+organisations:
+- 83rd Corporation
+- ASPCA
+- American Society for the Prevention of Cruelty to Animals
+- Humber Rescue
+- Memorial Museum
+- New York Fire Department
+- The Yorkshire Post
+- World Trade Center
+- Yorkshire Evening Post
 ---
 
 # Yorkshire documentary maker Paul Berriff: 'I was caught up in September 11 terror attack - it made me appreciate how precious life is'

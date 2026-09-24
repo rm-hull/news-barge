@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/02/16/2166434504..?width=1200&height=800&crop=1200:800
+locations:
+- California
+- D-N.Y.
+- Michigan
+people:
+- Abdul El-Sayed
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Gavin Newsom
+- Harry Enten
+- Joe Biden
+- Kamala Harris
+- Kate Bolduan
+- Pete Buttigieg
+organisations:
+- Bowling Green State University
+- CNN News Central
+- Enten
+- Senate
+- YouGov
 ---
 
 Democratic voters remain deeply divided over a potential nominee for the 2028 presidential race, according to new polling from Bowling Green State University and YouGov.

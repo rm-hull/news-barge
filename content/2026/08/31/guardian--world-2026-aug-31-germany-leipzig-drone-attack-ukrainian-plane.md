@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Brussels
+- Germany
+- Halle
+- Ireland
+- Leipzig
+- Moscow
+- Russia
+- Russian House
+- Ukraine
+- Wicklow
+people:
+- Friedrich Merz
+- Markus Frohnmaier
+organisations:
+- ARD
+- AfD
+- DHL
+- Die Welt
+- EU
+- European Union
+- Goethe Institute
+- Nato
+- Politico
 ---
 
 The German government is imminently expected to announce who it believes was behind a suspected drone attack on a Ukrainian cargo plane earlier this month and to outline its response to the incident in coordination with its European and Nato partners.

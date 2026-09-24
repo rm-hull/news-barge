@@ -14,6 +14,11 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Stockton High Street
+people: []
+organisations:
+- Cleveland Police
 ---
 
 *(Image: GOOGLE MAPS)*

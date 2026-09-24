@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Market Square
+- Shipley
+people: []
+organisations:
+- Facebook
+- Newsquest
+- Pride of Shipley
 ---
 
 *(Image: Newsquest)*

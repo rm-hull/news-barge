@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- U.S.
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- Kevin Reddington
+- William Sullivan
+- ___ Clancy
+organisations: []
 ---
 
 A deadlocked jury returns Friday for the seventh day of deliberations in the Lindsay Clancy trial, a day after the jury's foreperson told the judge a single juror won’t follow the court’s instructions about reasonable doubt.

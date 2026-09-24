@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21465120.jpg?type=og-image
+locations:
+- Barnard Castle
+- Bedford Duplex
+- Blackpool
+- Bowlees
+- Darlington
+- Dumfries
+- Forest
+- Greenbank
+- Harwood
+- Lakes
+- Langdon Beck
+- Lingfield Point
+- Mickleton
+- Middleton
+- Middleton-in-Teesdale
+- Morecambe Bay
+- Newbiggin
+- Ted Hoyle
+- Tees Valley Railway
+- Teesdale Queen
+- Willington
+people:
+- Alston
+- Bond Brothers
+- Colin Jewitt
+- Dorothy
+- Fred
+- Harry
+- Howson
+- Joe Wilson
+- Maude
+- Percival
+- Ted Hoyle
+- Wright
+organisations:
+- Cosy Cinema
+- High Force
+- PSV
+- Rothmans
 ---
 
 "THERE are not many who could say that their father drove the Queen, but I could – and I was teased about it at school," says Ted Hoyle.

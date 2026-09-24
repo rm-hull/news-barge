@@ -15,6 +15,22 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Coxwold
+- Easingwold
+- Husthwaite Road
+- North Yorkshire
+- York
+people:
+- Anne Yates
+- Hyde
+- Hyde’
+- Jekyll
+- Midgley
+organisations:
+- Newsquest
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: Newsquest)*

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- U.S.
+- United States
+people:
+- Jason Higgins
+- Kathy Roth-Douquet
+- Peter Feaver
+- Sheila Rupp
+organisations:
+- Blue Star Families
+- Duke University
+- National Guard
+- U.S. Army Recruiting Command
+- USS Abraham Lincoln
+- Virginia Tech
 ---
 
 The soldiers. The sailors. The battles. The conflicts.

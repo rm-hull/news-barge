@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Books & Literature
+locations:
+- North East
+- Stockton
+- Sunderland
+- Teesside
+- UK
+people:
+- Adele Parks
+- Mel
+- Richard Drake
+- Tom Dunstan
+organisations:
+- Drake
+- HarperCollins UK
+- HarperCollins’
+- MND
+- Teesside
+- The Bookshop
+- WHSmith
 ---
 
 *(Image: Supplied)*

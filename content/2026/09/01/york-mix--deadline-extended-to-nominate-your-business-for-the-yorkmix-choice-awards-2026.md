@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- The Milner
+- UK
+- York
+people:
+- P.J Staffing
+organisations:
+- PJ Staffing
+- Yorkshire
 ---
 
 Nominations have extended for our YorkMix Choice Awards 2026.

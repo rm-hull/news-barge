@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- A19
+- Coast to Coast
+- Coast to Coast National Trail
+- Ingleby Arncliffe
+- North Yorkshire
+- Richmond
+- York
+people:
+- Coun Hugill
+- David Hugill
+- David Skaith
+- Hutton Rudby
+- Osmotherley
+organisations:
+- A19
+- Combined Authority
+- Exelby Services
+- Ingleby Arncliffe Parish Council
+- North Yorkshire Council
 ---
 
 # Coast to Coast: Walkers sitting on A19 central reservation a “regular occurrence”

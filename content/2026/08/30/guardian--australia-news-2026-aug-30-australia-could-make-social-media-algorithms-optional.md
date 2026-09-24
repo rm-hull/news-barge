@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- Sydney
+- UK
+- US
+people:
+- Tanya Plibersek
+organisations:
+- ABC’s Insiders
+- AI
+- Chanel Contos
+- Guardian Australia
+- Labor
+- Teach Us Consent
+- Tech
 ---
 
 The Australian government is considering allowing users to opt in or opt out of social media algorithms, and is looking at a recent UK ban on depictions of strangulation and suffocation in pornography.

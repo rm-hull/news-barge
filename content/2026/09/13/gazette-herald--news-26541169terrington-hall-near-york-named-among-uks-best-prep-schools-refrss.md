@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Education & Learning
+locations:
+- North
+- Scotland
+- Terrington Hall
+- UK
+- York
+people:
+- Huw Thomas
+- Tori Cadogan
+organisations:
+- 2027 Schools Guide
+- Tatler
+- Terrington Hall Prep School
 ---
 
 A prep school near York has been named one of the best independent schools in the UK.

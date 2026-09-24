@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Bradford
+- Harry Lane
+- Oxenhope
+- West Yorkshire
+people:
+- Pixabay
+organisations:
+- CCTV
+- EAPC
 ---
 
 *(Image: Pixabay)*

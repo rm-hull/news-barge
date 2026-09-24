@@ -12,6 +12,64 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Canberra
+- Dambeemangaddee Country
+- Epping
+- Findon Road
+- Kimberley
+- Melbourne
+- Middle East
+- Mount Remarkable
+- Nepal
+- Palau
+- South Australia
+- Sydney
+- Victoria
+- Western Australia
+- Yampi Sound Training Area
+people:
+- Anika Wells
+- Anthony Albanese
+- Ben Carroll
+- Chantel Contos
+- Christine Castley
+- Daniel Andrews
+- Darren England
+- Grace Kim
+- Jeff Kennett
+- Jeff Kennett-era
+- Jessica Hromas
+- Jim Chalmers
+- Joel Carrett
+- Mick Tsikas
+- Obama
+- Pauline Hanson
+organisations:
+- AAP Australia
+- AAP Communications
+- AAP Wells
+- ABS
+- Australian Bureau of Statistics
+- Australian Bureau of Statistics’
+- Australian Communications and Media Authority
+- Australian Wildlife Conservancy
+- Coalition
+- EPA Labor
+- Equality Agency
+- Guardian Essential
+- Herald Sun
+- Lukas Coch
+- National Press Club
+- One Nation
+- Pacific Islands Forum
+- RBA
+- Technology Audit Partners
+- Telstra
+- The Guardian Albanese
+- The Guardian One Nation
+- Threatened Species Action Plan
+- Yampi Sound Training Area
 ---
 
 High fuel prices dragged on household spending in the three months to June, with Australians filling up their car less and putting off overseas travel as airlines pushed up their fares to compensate for more expensive jet fuel.

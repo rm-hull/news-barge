@@ -10,6 +10,14 @@ description: 8849 TANK 5 Pro packs a 95-degree thermal camera, 2K projector, and
 image: https://cdn.mos.cms.futurecdn.net/wuhamgCRBRaL8XhC6TqBDF-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Efosa
+- FLIR
+- Google News
+- Snapdragon
+- TechRadar Pro
 ---
 
 ![8849 TANK 5 Pro rugged smartphone with a projector that also doubles as a flashlight and a laser rangefinder](https://cdn.mos.cms.futurecdn.net/wuhamgCRBRaL8XhC6TqBDF.png) 

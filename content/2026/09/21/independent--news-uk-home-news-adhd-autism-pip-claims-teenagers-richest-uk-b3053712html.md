@@ -12,6 +12,26 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/15/06/iStock-1130452449.jpeg?trim=0,180,0,180&width=1200&height=800&crop=1200:800
+locations:
+- Berkshire
+- Bradford
+- Brent
+- England
+- Knowsley
+- Leicester
+- Liverpool
+- Newham
+- Surrey
+- Wolverhampton
+people:
+- Ms Gainsbury
+- Sally Gainsbury
+- Thea Stein
+organisations:
+- Bracknell Forest
+- Department for Work & Pensions
+- Nuffield Trust
+- Runnymede
 ---
 
 England’s most affluent areas have recorded the fastest increase in young people receiving disability benefits for ADHD and autism, according to a new analysis.

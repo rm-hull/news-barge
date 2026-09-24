@@ -11,6 +11,26 @@ categories:
 - York
 - Music
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/KAISER-CHIEFS.webp
+locations:
+- UK
+people:
+- Andrew ‘Whitey’ White
+- Cuffe
+- Julian Murray
+- Nick ‘Peanut’ Baines
+- Ricky Wilson
+- Simon Rix
+- Taylor
+- Vijay Mistry
+organisations:
+- Foo Fighters
+- Kaiser Chiefs
+- Leeds
+- Scarborough OAT
+- Scarborough Open Air Theatre
+- Ticketmaster
+- U2
+- Yorkshire
 ---
 
 Yorkshire’s very own Kaiser Chiefs are heading home next summer a spectacular live show.

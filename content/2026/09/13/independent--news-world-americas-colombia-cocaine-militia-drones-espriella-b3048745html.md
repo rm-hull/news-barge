@@ -15,6 +15,31 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Amazon
+- Breda
+- Cauca
+- Colombia
+- Latin America
+- Norte de Santander
+- US
+people:
+- Abelardo de la Espriella
+- De la Espriella
+- Gustavo Petro
+- Iván Cepeda
+- Tiziano Breda
+- de la Espriella
+organisations:
+- 33rd Front
+- ACLED
+- ACSN
+- ELN
+- FARC
+- Gulf Clan
+- National Liberation Army
+- Petro
+- Total Peace’
 ---
 
 As Colombian troops push through the dense Amazon rainforest in a full-scale war against guerrilla militant groups, technology is reshaping how they fight.

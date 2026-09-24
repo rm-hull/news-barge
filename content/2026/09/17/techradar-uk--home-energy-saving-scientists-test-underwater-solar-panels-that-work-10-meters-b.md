@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/ybYSyTC4XE6bpppGKTWsCT-2174-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- South China Sea
+people:
+- Alex Blake
+- Wen-Hua Zhang
+organisations:
+- Apple
+- Creative Bloq
+- Google News
+- Joule
+- MacFormat
+- TechRadar
+- Yunnan University
+- iMore
 ---
 
 ![An image of an underwater solar panel below the surface of the sea.](https://cdn.mos.cms.futurecdn.net/ybYSyTC4XE6bpppGKTWsCT.jpg) 

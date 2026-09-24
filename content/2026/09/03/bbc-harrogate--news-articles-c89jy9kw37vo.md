@@ -12,6 +12,29 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Malton
+- North Yorkshire
+- Northallerton
+- Resolution House
+- Ryedale House
+- Scarborough
+- Town Hall
+people:
+- Michelle Richardson
+- Thomas Murray
+organisations:
+- A64
+- Anglo American
+- LDRS
+- Local Democracy Reporting Service
+- Malton
+- NYC
+- North Yorkshire Council
+- Resolution House
+- Scarborough Town Hall
+- Town Council
+- United Scarborough Residents Action Group
 ---
 
 ![A large round council building with a large car park surrounded by green spaces and trees](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/9fb3/live/12d29750-a766-11f1-8888-832c5829c86c.jpg)

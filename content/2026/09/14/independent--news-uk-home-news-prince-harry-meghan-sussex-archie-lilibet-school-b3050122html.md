@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Berkshire
+- Buckingham Palace
+- Eton
+- Sussex
+- UK
+- United States
+- Wales
+people:
+- Archie
+- Charles
+- Charlotte
+- George
+- King
+- Lili
+- Lilibet
+- Meghan Markle
+- Prince Harry
+- Prince Louis
+- Ravec
+organisations:
+- Duchess of Sussex
+- Duke of Sussex
+- Eton College
+- Executive Committee for the Protection of Royalty and Public Figures
+- Instagram
+- Lambrook School
+- Ravec
+- Telegraph
 ---
 
 The Duke and Duchess of Sussex have moved their children to a new school just two days into the new school term.

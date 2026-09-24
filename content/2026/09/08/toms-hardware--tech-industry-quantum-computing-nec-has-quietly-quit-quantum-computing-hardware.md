@@ -14,6 +14,30 @@ categories:
 - Hardware
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- Anton Shilov
+- Tom
+organisations:
+- DRAM
+- Elpida
+- Fujitsu
+- Get Tom's Hardware
+- Google News
+- Hitachi
+- IBM
+- Intel
+- MCUs
+- Motorola
+- NEC Electronics
+- NEC-Hitachi Memory
+- No. 1
+- PC
+- Renesas Electronics
+- Riken
+- SoCs
+- Tom’s Hardware
+- Toshiba
 ---
 
 ![Microsoft Quantum materials](https://cdn.mos.cms.futurecdn.net/jFuLeDoS3yepBpNT3uuUaN.jpg) 

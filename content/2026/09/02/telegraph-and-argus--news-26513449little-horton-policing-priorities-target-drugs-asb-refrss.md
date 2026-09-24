@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Little Horton
+- Little Horton Lane
+- Marshfield
+- West Bowling
+people: []
+organisations: []
 ---
 
 *(Image: Machine Headz)*

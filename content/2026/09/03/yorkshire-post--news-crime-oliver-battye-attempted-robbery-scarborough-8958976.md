@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Burniston
+- Scarborough Police Station
+people:
+- Halima Kamran
+- Jeremy Barton
+- Oliver Battye
+- Simon Hickey
+organisations:
+- Scarborough Pirates Rugby League Club
+- Scarborough Rugby League
+- York Crown Court
+- York Crown Court.
 ---
 
 # Shotgun-wielding businessman threatened builders in attempted van robbery

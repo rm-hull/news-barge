@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Barcelona
+- Gipuzkoa
+- La Moncloa
+- Lisbon
+- Madrid
+people:
+- '**Pedro Sánchez**'
+- Isabel Rodríguez**
+- Rodríguez
+- Sareb
+- Sánchez
+organisations:
+- CASA
+- Housing and the Urban Agenda
+- State Housing and Land Agency
 ---
 
 ## The government unveils the first portal for national public housing, with income-linked rents and 14-year contracts. Sánchez defends state intervention to boost supply and secure access to housing.

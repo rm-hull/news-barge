@@ -13,6 +13,39 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Britain
+- City Walls
+- Clifford Street
+- Clifford’s Tower
+- Dewsbury Terrace
+- England
+- Foss Islands
+- Israel
+- Jordan
+- Layerthorpe
+- Poppleton Road
+- Skeldergate Bridge
+- Spain
+- St Helen's Square
+- St Helen’s Square
+- Stratford-upon-Avon
+- York Minster
+people:
+- Duncan Marks
+organisations:
+- Art Gallery
+- Castle Museum
+- Clifford’s Tower
+- MacKenzie Bros.
+- Minster Gates
+- TLC
+- Walker Foundry
+- York Civic Trust
+- York Civic Trust Historic
+- York Civic Trust.
+- York Gas Light Company
+- York Minster
 ---
 
 ## Shining a light on the overlooked piece of York heritage hiding in plain sight

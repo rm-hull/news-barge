@@ -14,6 +14,17 @@ categories:
 - Automotive
 - Science
 image: https://www.thenorthernecho.co.uk/resources/images/21480523.jpg?type=og-image&xType=0&yType=0
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Northallerton
+people:
+- Ruby Rutter
+organisations:
+- North Yorkshire Police
+- Northern Echo
+- Porsche
+- Yorkshire Ambulance Service
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A19
+- County Durham
+- Gateshead
+- NORTHUMBRIA
+- Newcastle Quayside
+- River Tyne
+people:
+- John
+- Nick Went
+- Nurse
+- Woman
+organisations:
+- CCTV
+- Missing Investigation Team
+- Northumbria Police
 ---
 
 *(Image: NORTHUMBRIA POLICE)*

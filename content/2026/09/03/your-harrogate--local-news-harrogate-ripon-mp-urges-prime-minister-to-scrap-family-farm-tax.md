@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- Ripon
+- Skipton
+- UK
+people:
+- Harriet Cross
+- Julian Smith
+- Victoria Atkins
+organisations:
+- Agricultural Property Relief and Business Property Relief
+- Labour
+- Labour’s Family Farm Tax
+- Ripon
+- Skipton
 ---
 
 ![](https://mmo.aiircdn.com/409/6a994bae95387c09993.jpg) 

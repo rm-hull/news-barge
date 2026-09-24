@@ -11,6 +11,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c58c/live/d05e49
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Dallas
+- Iran
+- Kentucky
+- Maine
+- Texas
+- US
+- White House
+people:
+- Bob Good
+- Donald Trump
+- Joe Biden
+- Samira Hussain
+- Sarah Smith
+- Susan Collins
+- Thomas Massie
+organisations:
+- BBC North America
+- CBS
+- Congress
+- Elon Musk
+- House of Representative
+- Trump
 ---
 
 BBC’s Samira Hussain explains what needs to happen for Trump's $5,000 gift to become reality

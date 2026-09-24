@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Society & Culture
+locations:
+- Darlington
+- Grangetown
+- North East
+- Skinnergate
+people:
+- Man
+- Oxfam
+- Rachel Cosgrove-Pearce
+- Rachel Parry
+- Richard E. Grant
+organisations:
+- Cleveland Police
+- Darlington Oxfam
+- Second Hand
 ---
 
 *(Image: Oxfam)*

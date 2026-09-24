@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Iran
+- Minab
+- Shajareh Tayyebeh
+- U.S.
+people: []
+organisations: []
 ---
 
 Photos show what remains of an Iranian school where some 120 children died in a U.S. strike

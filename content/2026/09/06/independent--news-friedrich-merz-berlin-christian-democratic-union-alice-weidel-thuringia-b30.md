@@ -14,6 +14,27 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Berlin
+- Germany
+- Magdeburg
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+- Thuringia
+people:
+- Alice Weidel
+- Friedrich Merz
+- Sven Schulze
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD “
+- Alternative for Germany
+- CDU
+- Christian Democratic Union
+- Greens
+- Left Party
+- ___ Moulson
 ---
 
 An eastern German region was voting Sunday in an election that could bring to power the first far-right state government in the nation’s post-World War II history.

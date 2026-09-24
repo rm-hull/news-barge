@@ -12,6 +12,32 @@ image: https://images.euronews.com/articles/stories/09/90/52/45/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Africa
+- Brussels
+- Ceuta
+- Europe
+- Madrid
+- Melilla
+- Morocco
+- Rabat
+- Spain
+people:
+- '## Juan Jesús Vivas'
+- Andrius Kubilius
+- Dubravka Šuica
+- Juan Jesús Vivas
+- Magnus Brunner
+- Pedro Sánchez
+organisations:
+- Commissioners
+- EPP
+- EU
+- EUAA
+- European Commission
+- European Parliament
+- Frontex
+- Vox
 ---
 
 ## Juan Jesús Vivas accused Rabat of pursuing a “harassment policy” aimed at suffocating the exclave, while the Spanish government and the EU continue to regard Morocco as a trusted partner in addressing irregular migration.

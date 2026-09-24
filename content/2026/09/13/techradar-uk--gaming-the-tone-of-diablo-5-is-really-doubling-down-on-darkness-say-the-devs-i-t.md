@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/P2CS58Ni88aZQ69W2XgGin-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Anaheim
+people:
+- Jennifer Hepler
+- John Mueller
+- Rob
+organisations:
+- Diablo
+- GamesRadar+
+- Google News
+- Hardware
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![Key artwork from Diablo 5 showing the bleak and barren world of Sanctuary](https://cdn.mos.cms.futurecdn.net/P2CS58Ni88aZQ69W2XgGin.jpg) 

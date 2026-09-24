@@ -13,6 +13,34 @@ categories:
 - UK
 - Travel
 - Outdoors & Nature
+locations:
+- America
+- American Southwest
+- Arizona
+- Bright Angel Canyon
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- Gila County
+- Grand Canyon
+- Grand Canyon National Park
+- Pacific Ocean
+- Phantom Ranch Lodge
+- Utah
+- West Coast
+people:
+- Ben Knoll
+- David Gregory
+- Parth Desai
+organisations:
+- CBS
+- El Niño
+- NPS Investigative Services Branch Tip Line
+- National Park Service
+- National Weather Service
+- The Associated Press
+- The Washington Post
+- U.S. Drought Monitor
 ---
 
 At least two people are dead and 15 others still missing in Arizona’s Grand Canyon National Park after flash flooding from a storm that dropped nearly an inch of rain per hour this weekend.

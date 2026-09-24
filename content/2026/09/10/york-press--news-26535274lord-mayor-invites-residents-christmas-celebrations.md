@@ -13,6 +13,23 @@ categories:
 - York
 - Food & Cooking
 - Arts & Culture
+locations:
+- Lord Mayor of York
+- St Sampson’s Centre
+people:
+- Alex Mather
+- Cllr Rowley
+- Martin Rowley BEM
+organisations:
+- Assembly Rooms
+- City of York Council
+- Osbaldwick Primary Academy
+- Ralph Butterfield Primary School
+- Shepherd Brass Band
+- Station Rise
+- West Offices
+- YO1 6GA
+- York Philharmonic Male Voice Choir
 ---
 
 *(Image: City of York Council)*

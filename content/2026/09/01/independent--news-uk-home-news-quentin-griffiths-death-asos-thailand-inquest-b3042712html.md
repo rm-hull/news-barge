@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bangkok
+- Pattaya
+- Thailand
+people:
+- Asos
+- Griffiths’
+- Ms Griffin
+- Ploy Kringsinthanakun
+- Quentin Griffiths
+- Rachael Griffin
+organisations:
+- Asos
+- BBC
+- Dorset
+- FCDO
+- Foreign and Commonwealth and Development Office
+- The Sun
 ---
 
 Quentin Griffiths, the co-founder of the Asos fashion website, was alone when he died after a fall from an 18-floor apartment complex in Thailand, an inquest has heard.

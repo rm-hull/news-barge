@@ -9,6 +9,19 @@ description: '"WHAT THE HELL IS WRONG WITH THE ANSWERS?" AI cried, in vain'
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- Anthropic
+- Google News
+- PyPI
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

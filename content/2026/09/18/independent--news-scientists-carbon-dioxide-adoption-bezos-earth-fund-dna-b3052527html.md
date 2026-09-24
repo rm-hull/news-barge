@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Illinois
+- Iowa
+- Kansas
+- Missouri
+- Salk
+people:
+- Annika Hammerschlag
+- Ashish Rajurkar
+- Joshua A. Bickel
+- Salk
+- Todd Michael
+- Wolfgang Busch
+organisations:
+- AP
+- Associated Press’
+- Bezos Earth Fund
+- Bluesky
+- Busch
+- Harnessing Plants Initiative
+- Instagram
+- Salk Institute for Biological Studies
+- University of Illinois Urbana-Champaign
 ---
 
 Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the side like typical soybean plants.

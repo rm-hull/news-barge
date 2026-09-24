@@ -11,6 +11,21 @@ description: Here's what the iPhone Duo transition animation looks like running 
 image: https://cdn.mos.cms.futurecdn.net/mkdBjn7EFeWEUG5jogpj3S-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Reddit
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Apple
+- Gizmodo
+- Google News
+- PC Explorer
+- Reddit
+- Samsung
+- The Hardware Handbook
 ---
 
 ![A hand holding the iPhone Duo next to a hand holding the Samsung Galaxy Z Fold 8](https://cdn.mos.cms.futurecdn.net/mkdBjn7EFeWEUG5jogpj3S.jpg) 

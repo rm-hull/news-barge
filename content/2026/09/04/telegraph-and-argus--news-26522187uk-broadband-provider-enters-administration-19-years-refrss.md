@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+- iTalk
+people:
+- Andrew Pear
+- Evans
+- Richard Keley
+organisations:
+- '## iTalk'
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- EcoJet Airlines
+- European Cargo
+- House
+- InPost
+- LK Bennett
+- Leading Labels
+- Moorfields Advisory Limited
+- Morrisons
+- Quiz
+- Raleigh
+- Superdrug
+- TG Jones
+- The Gazette
+- Wayfairer Travel Limited
+- Whitbread
+- Yodel
+- Zenith Aviation Limited
+- iTalk Affiliate Telecommunications Ltd
+- iTalk Telecom
 ---
 
 *(Image: Getty Images)*

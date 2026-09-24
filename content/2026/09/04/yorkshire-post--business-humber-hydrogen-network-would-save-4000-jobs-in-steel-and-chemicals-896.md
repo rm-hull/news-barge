@@ -14,6 +14,36 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Hull
+- Humber
+- Lincolnshire
+- Scunthorpe
+- Strait of Hormuz
+- Teesside
+- UK
+- Yorkshire
+people:
+- Iain Harris
+- Ian Radley
+- Miatta Fahnbulleh
+- Pheobe Fradley
+organisations:
+- British Steel
+- Centrica
+- DESNZ
+- Department for Energy Security and Net Zero
+- Easington Terminal
+- Equinor
+- Government
+- Humber Energy Board
+- Humber Hydrogen
+- National Gas
+- SSE Thermal
+- Teesside
+- The Humber
+- Yara International
 ---
 
 # Humber Hydrogen network would save 4,000 jobs in steel and chemicals, analysis finds

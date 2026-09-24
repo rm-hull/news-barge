@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Austria
+- Europe
+- Florence
+- France
+- Germany
+- Italy
+- Milan
+- Rome
+- Switzerland
+- UK
+- Venice
+people:
+- Benito Mussolini
+- De Gaetano
+- Gianluca De Gaetano
+organisations:
+- Federalberghi
+- Siope
 ---
 
 A nightly tourist tax may be unfamiliar territory in the UK, but countries in continental Europe have been cashing in on these kinds of levies for decades.

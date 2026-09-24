@@ -13,6 +13,28 @@ categories:
 - Science
 - Technology & Software
 image: https://i.guim.co.uk/img/media/3acdb78ed68c2933fb82a16cdebf528c5b21c5e6/527_0_3832_3065/master/3832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=369c297997a77c6c70044e4dd7ab2340
+locations:
+- Britain
+- Canada
+- Europe
+- New York
+- OceanEye
+- Pacific Ocean
+- UK
+- US
+people:
+- Andy Burnham
+- Angela Eagle
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- Department for Environment, Food and Rural Affairs
+- EU
+- European Commission
+- GOOS
+- Met Office
+- OceanEye
+- UN
 ---
 
 Britain is to join a major new ocean science programme, led by the EU, to better forecast extreme weather and climate events, the environment secretary is to announce in New York.

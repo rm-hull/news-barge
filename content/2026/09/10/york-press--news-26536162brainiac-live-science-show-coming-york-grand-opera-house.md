@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Grand Opera House
+- Grand Opera House York
+- UK
+- West End
+people:
+- Dan Colman
+organisations:
+- Brainiac Live
+- Butlins Holiday
+- Sky One
 ---
 
 *(Image: Grand Opera House York)*

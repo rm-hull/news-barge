@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21482618.jpg?type=og-image
+locations:
+- North East
+- Teesside
+- Teesworks
+people:
+- David Smith
+organisations:
+- Darlington
+- Government
+- North East Chamber of Commerce
+- SSI
+- STDC
+- South Tees Development Corporation
+- Special Economic Area
+- TVCA
+- Tees Valley Combined Authority
+- Teesworks
+- Teesworks’
 ---
 
 *(Image: Supplied)*

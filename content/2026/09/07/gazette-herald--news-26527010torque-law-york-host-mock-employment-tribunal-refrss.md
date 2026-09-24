@@ -15,6 +15,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Law & Justice
+locations:
+- Growing York
+- Guildhall
+people: []
+organisations:
+- AI
+- Generation Z
+- Torque Law
+- Torque Law of York
+- York Angels
 ---
 
 *(Image: Pic supplied)*

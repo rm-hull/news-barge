@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Dark
+- Harrogate
+- Rudding Park Hotel
+people:
+- Dine
+organisations:
+- Action4access
+- Eventbrite
 ---
 
 *(Image: Eventbrite)*

@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21472583.jpg?type=og-image&xType=0&yType=76
+locations:
+- '### Spennymoor'
+- A County Durham
+- A66
+- Aislaby Court
+- Bolckow Road
+- Brittannia Road
+- Castlereagh Road
+- Centenary Crescent
+- County Durham
+- Coxwold Drive
+- Darlington
+- Grangetown
+- Guisborough
+- High Street
+- Middlesbrough
+- North Tees
+- North Yorkshire
+- Norton
+- Stockton
+- Teesside Crown Court
+- Thornaby
+- University Hospital
+- Vale Drive
+- Wolviston
+people:
+- '### Darlington'
+- '### Norton'
+- )* Briggs
+- Aiden Matthews
+- Annie Richardson
+- Callum Briggs
+- Carl Farrington
+- Charlie Dobbing
+- Declan Moor
+- Dryden
+- Elisha Marsay
+- Harrison Strange
+- Jamie Hill KC
+- Joshua Peters
+- Lee Bradshaw
+- Max Cashman
+- Miss Richardson
+- Nathan Adams
+- Paul Cleasby
+- Richard Bennett
+organisations:
+- Cleveland Police
+- Durham Constabulary
+- Moor
+- Teesside Crown Court
 ---
 
 Here are some of the people locked up last week at Teesside Crown Court.

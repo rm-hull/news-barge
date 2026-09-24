@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- NHS England
+people:
+- Frank Smith
+- Frankie Swords
+- Sarah Woolnough
+- Vicky Price
+- Yvette Cooper
+organisations:
+- Labour
+- NHS England
+- Royal College of Surgeons of England
+- Society for Acute Medicine
+- The King’s Fund
 ---
 
 The NHS waiting list for routine hospital treatment in England rose to its highest level in nine months as the health service faced the “busiest summer in its history”.

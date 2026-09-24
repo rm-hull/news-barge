@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Baildon
+- Bradford
+- Charlestown
+- Fyfe Grove
+people: []
+organisations:
+- '## Yorkshire Water'
+- Baildon Church of England Primary School
+- Bradford Council
+- Hoyle Court Primary School
+- Yorkshire Water
 ---
 
 *(Image: Google Maps)*

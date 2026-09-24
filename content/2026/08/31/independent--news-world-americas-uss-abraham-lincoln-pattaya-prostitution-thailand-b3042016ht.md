@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Abraham Lincoln
+- Bangkok
+- Iran
+- Laem Chabang
+- Middle East
+- Pattaya Beach
+- Pattaya City
+- San Diego
+- Thailand
+- U.S.
+- US
+people:
+- Anek Srathongyoo
+- Lincoln
+- Lisa Hamilton
+- Pipatpong Fakfare
+- Poramase Ngampiches
+- Thanet Supornsahasrungsi
+organisations:
+- Association of Chonburi Tourism Federation
+- Bangkok University
+- Marines
+- Pattaya Nightlife Business Association
+- School of Humanities and Tourism Management
+- US Federal Bureau of Investigation
+- US Navy
+- USS Abraham Lincoln
 ---
 
 Local authorities in a Thai resort city have issued a crack down on prostitution ahead of a visit from a US Navy aircraft carrier carrying 5,000 sailors and Marines who have been at sea for over 200 days.

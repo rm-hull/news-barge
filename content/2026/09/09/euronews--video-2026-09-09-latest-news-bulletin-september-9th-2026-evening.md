@@ -12,6 +12,42 @@ image: https://images.euronews.com/articles/stories/09/90/76/70/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Agora
+- Athens
+- Bandar Abbas
+- Brussels
+- Bundestag
+- Ceuta
+- Cyprus
+- Europe
+- Huaca Pucllana
+- Imatra
+- Iran
+- Kyiv
+- Lima
+- Limassol
+- London Heathrow Airport
+- Morocco
+- Peru
+- Spain
+- Strait of Hormuz
+- Terminal 5
+- UK
+people:
+- Arancha González
+- Donald Trump
+- Friedrich Merz
+- Juan Jesus Vivas
+- Juan Jesús Vivas
+- Maciej Jakubowski
+organisations:
+- EU
+- Euronews
+- European Parliament
+- Finnish Border Guard
+- RAF Akrotiri
+- Tunnel to Towers Foundation
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/tbB5m6zJHVjPjb73cSP4sG-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- Anker
+people:
+- Anker
+- Soundcore
+- Tom Bedford
+organisations:
+- 5 Pro Max
+- ANC
+- Aeroclip 2
+- Android Police
+- Anker
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- IFA
+- Liberty
+- Shokz OpenFit
+- Soundcore
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![The Soundcore Liberty 5 Pro and 5 Pro Max cases, stacked atop each other.](https://cdn.mos.cms.futurecdn.net/tbB5m6zJHVjPjb73cSP4sG.jpg) 

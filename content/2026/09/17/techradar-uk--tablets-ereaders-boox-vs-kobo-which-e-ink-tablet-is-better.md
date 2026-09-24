@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/rMTVTNVnUGN9GtLbdqtvUB-2520-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations:
+- Boox Europe
+- UK
+people:
+- Kobo
+- Ruth Hamilton
+organisations:
+- '### Kobo'
+- :** Boox
+- Boox Palma
+- CBR
+- CBZ
+- EPUB
+- EPUB3
+- Google Drive
+- Google News
+- Google Play
+- Kobo Clara Colour
+- LIST
+- Lumi
+- MOBI
+- Onyx
+- Palma 3
+- RTF
+- Ruth
+- TXT
+- TechRadar
 ---
 
 ![Kobo ereader (left) and Boox e-ink tablet (right)](https://cdn.mos.cms.futurecdn.net/rMTVTNVnUGN9GtLbdqtvUB.jpg) 

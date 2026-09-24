@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Music
 - Sports
+locations:
+- Easter Road
+- Fir Park
+- Hampden
+people:
+- Alfred Johansson
+- Dan Barnett
+- David Gray
+- Eddie Turnbull
+- Hibs
+- Ian Gordon
+- Jens Berthel Askou
+- Lee Johnson
+- Malky Mackay
+- Nick Montgomery
+- Shaun Maloney
+- Wouter Vrancken
+organisations:
+- Celtic Park
+- Dundee United
+- Dunfermline
+- Gent
+- Hearts
+- Hibernian
+- Hibs
+- Ibrox
+- Kilmarnock
+- Legia Warsaw
+- Livingston
+- Midtjylland
+- Motherwell
+- Ross County
 ---
 
 ![Ex Hibernian manager David Gray claps the supporters](https://ichef.bbci.co.uk/ace/standard/969/cpsprodpb/1a5b/live/601cf190-b20b-11f1-95f2-19e1a2e8eef2.jpg)

@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bedale
+- County Durham
+- Harrogate
+- Knaresborough
+- North Yorkshire
+people:
+- Andrew Hart
+- Asma Ola
+- Bobby
+- Lauren
+- Leah
+- Ms Ola
+- Praise
+- Wendy
+organisations:
+- Banking Hub
+- Bedale Post Office
+- Edward's Drive
+- Post Office
+- Starbeck
+- The Red Box of Harrogate
 ---
 
 *(Image: GOOGLE MAPS)*

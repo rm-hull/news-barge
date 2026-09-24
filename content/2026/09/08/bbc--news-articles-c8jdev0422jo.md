@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Canada
+- Carney
+- Greenland
+- Mexico
+- North America
+- US
+people:
+- Candace Laing
+- Donald Trump
+- Jamieson Greer
+- Mark Carney
+organisations:
+- BBC
+- Bombardier
+- CBC
+- CUSMA
+- Canadian Chamber of Commerce
+- Fox News
+- PwC
+- Truth Social
+- USMCA
 ---
 
 Watch: How much can Canada fight back in its trade war with the US?

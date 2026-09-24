@@ -14,6 +14,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- Colorado
+- Florida
+- New York
+- U.S.
+people:
+- Bob Iger
+- Donald Trump
+- Gianni Infantino
+- Greg Maffei
+- Jared Kushner
+- Josh Kushner
+organisations:
+- Axios
+- FFE
+- FIFA Forward Enterprise
+- Infantino
+- Liberty Media
+- Los Angeles Lakers
+- NBA
+- Thrive Capital Management
+- U.S. District Court
+- UEFA
 ---
 
 FIFA accused European soccer body UEFA of a “smear campaign” in a court filing on Thursday concerning FIFA President Gianni Infantino's failed plan to sell stakes in the World Cup and other competitions.

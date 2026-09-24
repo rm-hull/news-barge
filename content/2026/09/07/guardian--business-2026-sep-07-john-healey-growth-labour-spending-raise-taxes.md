@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Coventry
+- Iran
+- UK
+people:
+- Alan Milburn
+- Andy Burnham
+- John Healey
+- Liz Truss
+organisations:
+- British Chambers of Commerce
+- Jaguar Land Rover
+- Labour
 ---
 
 John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.

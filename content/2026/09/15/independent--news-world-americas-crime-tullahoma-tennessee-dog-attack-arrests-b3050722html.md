@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Tennessee
+- Tullahoma
+people:
+- James Smith
+- Rebecca Adams
+- Sylvia Smith
+- Tilesia Baugh
+- Zaccahae Smith
+organisations:
+- NBC
+- Tullahoma Animal Control
+- WSMB
 ---
 
 Three people have been taken into custody in Tennessee over a December 2025 incident in which a 50-year-old man and his three-month-old granddaughter died after being attacked by family dogs.

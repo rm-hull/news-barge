@@ -13,6 +13,90 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Noah’s Ark
+- Stockeld Park
+people:
+- Adam Clayton
+- Amy Hunter
+- Laura Walker
+- Lauren Kemp
+- Lee McArthur
+- Niki Galloway
+- Ruth Watson
+- Sam Naughton
+organisations:
+- AC8 Academy
+- ARTventurers Harrogate
+- Abbie Wolfe
+- Adventure Babies Harrogate
+- Ami Stott
+- Baby Sense
+- Baby Sensory Harrogate
+- Beyond Birth
+- Birchfield Farm
+- Busy Bees Hornbeam Park
+- Busy Bees South Drive
+- Chatsworth Dance
+- Cocoon
+- Eleanor Charles Harrogate
+- Farmhouse Harrogate
+- GT Service
+- Haddletons
+- Harrogate BID
+- Harrogate BID LEGO Trail
+- Harrogate Baby Massage
+- Harrogate District Chamber of Commerce
+- Harrogate Fam
+- Harrogate Stray Charity Bonfire
+- Harrogate Theatre
+- Harrogate Theatre Pantomime
+- Harrogate Town AFC
+- Harrogate Town Soccer Camp
+- Hartbeeps Harrogate
+- Hindson & Collier Chartered Surveyors
+- Hookstone Dental Care
+- Hornbeam Park Busy Bees
+- Irish Dancers
+- Jess Leach
+- King James School
+- Knaresborough Bathrooms
+- Lee
+- Lisa Kos
+- Livindalisa.local
+- Lush Harrogate
+- MJ Ryder Ltd
+- Make and Me
+- Mini
+- Mother Shipton
+- Mother Shipton’s Cave
+- Myrings
+- Newby Hall & Garden
+- North Slice
+- Partou Woodlands
+- Pizza Express Harrogate
+- Portofino Harrogate
+- RHS Harlow Carr
+- Rascals Entertainment
+- Raworths
+- Red Kite Nursery Knaresborough
+- Spa Financial Planning
+- Sporting Influence Foundation
+- St Aelred
+- Stardust Drama
+- Stockeld Park
+- Swift People Services
+- The Harrogate
+- The Nail Coven
+- Tinybeats Harrogate
+- Toddler Sense
+- Una O’Connor
+- Valley Gardens
+- Watson Training Services
+- Wonder Media
+- Yoga
+- Your Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/692d40bdd88ea.jpg) 

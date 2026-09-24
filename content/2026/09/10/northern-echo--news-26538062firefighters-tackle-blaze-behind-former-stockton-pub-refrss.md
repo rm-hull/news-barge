@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Old Moor
+- Old Moor Pub
+- Oxbridge
+- Sheraton Street
+- Stockton
+people: []
+organisations:
+- CAMRA
+- Cleveland Fire Brigade
 ---
 
 *(Image: GOOGLE MAPS)*

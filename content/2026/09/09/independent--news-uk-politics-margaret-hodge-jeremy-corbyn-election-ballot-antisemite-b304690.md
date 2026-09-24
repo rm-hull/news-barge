@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/04/06/
 categories:
 - News & Politics
 - UK
+locations:
+- Barking
+- Britain
+- Finsbury Park
+- Islington
+- Nicaragua
+- Richmond Crescent
+people:
+- Baroness Hodge
+- Jeremy Corbyn
+- Lizzi
+- Margaret Hodge
+- Ms Hodge
+organisations:
+- Chamber
+- Election
+- House of Commons
+- House of Lords
+- IHRA
+- Islington Council
+- Islington North
+- Labour Party
+- NEC
 ---
 
 A Labour grandee has revealed she spoiled her ballot paper in the 2019 general election to call then party leader Jeremy Corbyn an antisemite.

@@ -11,6 +11,14 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- John Ternus
+- Siri
+organisations:
+- AirPods
+- Apple Apple
+- Apple Intelligence
 ---
 
 Apple on Wednesday unveiled the latest generation of its wireless earbuds, the AirPods 5, introducing several upgrades like improved audio, stronger active noise cancellation, and expanded Siri and Apple Intelligence features.

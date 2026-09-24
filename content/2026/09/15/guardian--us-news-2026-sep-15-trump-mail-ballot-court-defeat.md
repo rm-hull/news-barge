@@ -11,6 +11,25 @@ image: https://i.guim.co.uk/img/media/1ac9c0452d508f3e8dbc41e07f40ce2909703d10/2
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Nevada
+- US
+- Washington
+- Wisconsin
+people:
+- Adrian Fontes
+- Ann Jacobs
+- Cisco Aguilar
+- Donald Trump
+- Meagan Wolfe
+- Steve Hobbs
+organisations:
+- MIT
+- Milwaukee Journal Sentinel
+- New York Times
+- Truth Social
+- USPS
 ---
 
 After the US supreme court halted Donald Trump’s efforts to make it significantly harder to vote by mail in the midterms, US election officials are redoubling their efforts to convince Americans it is safe to cast their ballots by mail.

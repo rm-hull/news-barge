@@ -14,6 +14,72 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Adelaide
+- Australia
+- Brisbane
+- Broadway
+- London
+- Melbourne
+- Sydney Opera House
+- West End
+people:
+- Amber McMahon
+- Amy Sedaris
+- Arthur Miller
+- Ashan Kumar
+- Becky Shaw
+- Celeste Barber
+- Chekhov
+- David Ireland
+- Dorian Gray
+- Elizabeth Donderstock
+- Elizabeth II
+- Erik Thomson
+- Erin Brockovich
+- Eryn Jean Norvill
+- Georgie Parker
+- Gough Whitlam
+- Heather Mitchell
+- Helpmann
+- Jack Lowden
+- Jack Thorne
+- Jacob Boehme
+- Jenny Hocking
+- Jocasta
+- John Kerr
+- Jonathan Biggins
+- Kerry Greenwood
+- Kip Williams
+- Lesley Manville
+- Logan St
+- Lynne McGranger
+- Malcolm Fraser
+- Marion Potts
+- Mark Strong
+- Martin Freeman
+- Matthew Warchus
+- Mitchell Butel
+- Nanna
+- Nikki Shiels
+- Oedipus
+- Phryne Fisher
+- Richard Roxburgh
+- Robert Icke
+- Scrooge
+- Tim Minchin
+- Vanya
+organisations:
+- Bookbinder of Jericho
+- Essie Davis TV
+- Matilda the Musical
+- Palace Letters
+- Pip Williams
+- Roslyn Packer Theatre
+- STC
+- State Theatre Company South Australia
+- Sydney Theatre Company
+- The Crucible
 ---
 
 Six years after the Australian historian Jenny Hocking won her legal battle to release secret correspondence between Queen Elizabeth II, Malcolm Fraser and the governor general John Kerr, her fight to reveal the truth about Gough Whitlam’s dismissal is being adapted for the stage.

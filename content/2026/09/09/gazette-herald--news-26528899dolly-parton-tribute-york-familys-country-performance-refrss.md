@@ -14,6 +14,21 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Haxby Road
+- Joseph Rowntree Theatre
+- Kyrgyzstan
+- York
+people:
+- Alastair
+- Dolly Parton
+- Molly
+- Ruth McNeil
+- Son Tom
+organisations:
+- British Exploring Society
+- Joseph Rowntree Theatre
+- Night of Country
 ---
 
 A HEAD teacher from York will swap the classroom for the spotlight when she performs alongside her son and daughter in a new country music spectacular coming to the city for one night.

@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/09/10/12/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Florida
+- Louisiana
+- Texas
+- U.S.
+- White House
+people:
+- Bill Cassidy
+- Donald Trump
+- Elon Musk
+- James Fishback
+- Joe Biden
+organisations:
+- ACA Exchange
+- Air Force One
+- DOGE
+- Department of Government Efficiency
+- Elon Musk
+- House
+- New York Times
+- Reuters
+- Senate
+- Supreme Court
+- Trump
+- Truth Social
 ---
 
 President Donald Trump made one of his boldest promises yet on stage Wednesday night at the Republican midterm convention in Texas - he vowed to send $5,000 to every adult American citizen if Republicans retain control of the House and Senate in November’s midterm elections.

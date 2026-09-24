@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Gulf
+- Iran
+- Israel
+- Jericho
+- Kremlin
+- Middle East
+- Moscow
+- Russia
+- Tehran
+- US
+- Ukraine
+- United States
+people:
+- Alastair Campbell
+- Donald Trump
+- Fabian Hinz
+- Jared Kushner
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- C430L
+- Financial Times
+- The Economist
 ---
 
 Russia has been helping Iran to develop supersonic cruise missiles in secret for years, including through the US-Iran war, according to a report.

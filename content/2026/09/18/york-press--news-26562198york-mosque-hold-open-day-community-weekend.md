@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - History
+locations:
+- Bull Lane
+- York Mosque
+people:
+- Dylan Connell
+- Faizal Mohamudbuccus
+organisations: []
 ---
 
 *(Image: Dylan Connell)*

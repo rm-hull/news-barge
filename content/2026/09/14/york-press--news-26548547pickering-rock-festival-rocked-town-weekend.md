@@ -13,6 +13,15 @@ categories:
 - Music
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Black Swan
+- Pickering Rock
+people:
+- Pickering
+- Tim Bruce
+organisations:
+- Pickering Rocks
+- Pickering Rocks Facebook
 ---
 
 ## Crowds enjoy day of music, entertainment and fun

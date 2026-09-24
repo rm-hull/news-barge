@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Basildon
+- Cambridge
+- Cardigan
+- Clevedon
+- County Durham
+- Frome
+- Greenford
+- Helston
+- Kenilworth
+- Redhill
+- Rustington
+- Southend-on-Sea
+- UK
+- Uckfield
+people:
+- Man
+organisations:
+- Bath
+- High Court
+- Modella
+- PA
+- Royal Mint
+- Swindon
+- TG Jones
+- The Sun
+- WH Smith
+- Wells
 ---
 
 *(Image: PA)*

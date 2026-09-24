@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Darlington
+- North East
+- North Yorkshire
+- Swaledale
+- Tan Hill
+- Tan Hill Inn
+- Tan Hill Inn Known
+- UK
+- Yorkshire Dales'
+people:
+- Andrew Hields
+organisations:
+- Hardraw
+- Ribblehead
+- Tan Hill Inn
+- The Green Dragon Inn
+- The Station Inn
+- Yorkshire Dales
 ---
 
 *(Image: The Tan Hill Inn)*

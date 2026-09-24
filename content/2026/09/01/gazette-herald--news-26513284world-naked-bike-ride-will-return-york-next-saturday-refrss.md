@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Millennium Bridge
+- North Yorkshire
+- River Ouse
+- York
+people:
+- Frank Dwyer
+- Sadie Tann
+organisations:
+- POPULAR York
+- University of York
+- York Picture
 ---
 
 A POPULAR York event is set to return next weekend - bringing climate awareness and body acceptance to the city.

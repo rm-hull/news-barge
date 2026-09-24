@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- England
+- Frankfurt
+- Munich
+people:
+- '![A'
+- '![Screengrab'
+- Cristiano Ronaldo
+- Daniel Svensson
+- Erling Haaland
+- Gnabry
+- Harry Kane
+- Jamal Musiala
+- Jobe Bellingham
+- Joshua Kimmich
+- Lennart Karl
+- Lenny
+- Lionel Messi
+- Lucho
+- Luis Diaz
+- Serge
+- Umir Irfan
+- Vincent Kompany
+- Waldemar Anton
+- William Saliba
+- William Saliba.
+organisations:
+- Arsenal
+- Bayern Munich
+- Borussia Dortmund
+- Club Brugge
+- Eintracht Frankfurt
+- England
+- Kane
+- STATSports
 ---
 
 ![A stylistic collage of Harry Kane, the Ballon d'Or and Vincent Kompany](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f593/live/bb2743b0-a6da-11f1-a291-b542ee92de7c.jpg)

@@ -13,6 +13,41 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Ashbank
+- Barleyfields
+- Clifton Green
+- Clifton’s Conservation
+- Old Grey Mare
+- Rawcliffe
+- Shipton Road
+- YOUR
+- York
+people:
+- Brew York
+- Clifton
+- Cllr Myers
+- Danny Myers
+- Eddie Copley-Farnell
+- Harry Booth
+- Max Reeves
+- Rachael Maskell
+- Ward
+organisations:
+- Ashbank
+- Barleyfields
+- Boots
+- Brew York
+- City of York Council
+- Clifton Green
+- Curious Coffee Company
+- Harry Archer
+- Helmsley Group
+- Mulgrave Properties
+- Public Notice Portal
+- Savills
+- The Press
+- York Civic Trust
 ---
 
 *(Image: Savills)*

@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09ff/live/11d9d260-b75f-11f1-a430-4d16ee157c41.jpg
+locations:
+- East Manchester
+- England
+- England.
+- Gorton
+- Wales
+people:
+- Andy Burnham
+- Daisy
+- Daniel Kebede
+- David Hughes
+- Laura Trott
+- Lucy Powell
+- Luke Sibieta
+- Martin Haworth
+- Pepe Di'Iasio
+- Sarjo
+organisations:
+- Animal Care
+- AoC
+- Association of Colleges
+- Association of School and College Leaders
+- BTec
+- Conservative Party
+- Daisy
+- Institute for Fiscal Studies
+- National Education Union
+- Nature Restoration and Motor Vehicle Maintenance
+- Ofqual
+- Sarjo
+- Wright Robinson College
 ---
 
 ![Two teenagers at a classroom bench, wearing aprons., They are in a catering class and are adding cream cheese to bowls, and are being supervised by their female teacher, also in an apron, who is standing to the left of them. ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/09ff/live/11d9d260-b75f-11f1-a430-4d16ee157c41.jpg)

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- CLEVELAND
+- County Durham
+- Greater Eston
+- New County Durham
+- North East
+- Teesside Magistrates’ Court
+people:
+- Anthony Ford
+- Robbie Crockett
+organisations:
+- CBO
+- CBOs
+- Cleveland Retail Park
+- Criminal Behaviour Order
+- Ford
+- Greater Eston Neighbourhood Police Team
 ---
 
 *(Image: CLEVELAND POLICE)*

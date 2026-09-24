@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dublin
+- Germany
+- Greece
+people:
+- Ljubisa Karovic
+- Michael O’Leary
+- O'Leary
+organisations:
+- Ryanair
+- U.S. National Transportation Safety Board
 ---
 
 The CEO of Ryanair on Thursday disputed that a passenger injured during a flight on one of its planes in July was partly sucked out a broken window.

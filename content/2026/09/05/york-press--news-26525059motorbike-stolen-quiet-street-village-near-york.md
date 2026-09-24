@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Cowstail Lane
+- North Yorkshire
+- Richard.jackson
+- Tockwith
+people: []
+organisations:
+- CCTV
+- Jackson
+- North Yorkshire Police
+- OIC
 ---
 
 *(Image: North Yorkshire Police)*

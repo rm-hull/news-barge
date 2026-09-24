@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- England
+- London
+- UK
+- Wales
+people:
+- Charlotte O’Regan
+- Clare Carlile
+- DeSmog
+- Jenny Cooper
+- Nicola Gray
+organisations:
+- A&E
+- AI
+- DeSmog
+- Department for Education
+- El Niiño
+- Guardian
+- National Education Union
+- Sutton Trust
+- University of Huddersfield
 ---
 
 The gruelling heatwave that hit the UK in June caused pupils to miss more than 15m hours of lesson time as soaring temperatures forced hundreds of schools to close, according to a study.

@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Capitol Hill
+- Europe
+- Iran
+- Maine
+- New Hampshire
+- North Carolina
+- Ohio
+- Russia
+- Sen
+- U.S.
+- Ukraine
+people:
+- Angus King
+- Christopher LaNeve
+- Dan Driscoll
+- Jeanne Shaheen
+- Jennifer Hegseth
+- Joe Biden
+- Mike Turner
+- Pete Hegseth
+- Randy George
+- Thom Tillis
+organisations:
+- 173rd Airborne Brigade
+- Army Transformation Initiative
+- Department of Defense FY2027 Budget Request
+- Hegseth
+- Pentagon
+- The Associated Press
+- US House Armed Services Committee
+- Ukrainian Armed Forces
 ---
 
 A bipartisan group of U.S. lawmakers is demanding that the Army explain why it directed a unit based in Europe to stop specializing in drone warfare, an order coming at a time when global battlefields are rapidly evolving and military tactics rely increasingly on uncrewed systems.

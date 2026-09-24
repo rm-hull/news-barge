@@ -13,6 +13,13 @@ categories:
 - Travel
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/21385382.jpg?type=og-image
+locations:
+- A1237 Outer Ring Road
+- A64
+- Askham Bryan
+- Grimston Bar
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

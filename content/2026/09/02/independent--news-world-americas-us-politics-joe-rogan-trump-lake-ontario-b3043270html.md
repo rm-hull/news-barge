@@ -10,6 +10,27 @@ image: https://static.independent.co.uk/2026/09/02/8/26/Screenshot-2026-09-02-at
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Great Lakes
+- Iran
+- Israel
+- Lake America
+- Lake Erie
+- Lake Huron
+- Lake Michigan
+- Lake Ontario
+- Lake Superior
+- U.S
+- U.S.
+people:
+- Brian Simpson
+- Joe Rogan
+- Mark Carney
+- Trump
+organisations:
+- Epstein
+- Trump
 ---
 
 Podcaster Joe Rogan has torn into President Trump over his decision to rename Lake Ontario.

@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Manor Way
+- Peterlee
+people: []
+organisations:
+- Dene Academy
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE MAPS)*

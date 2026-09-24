@@ -10,6 +10,32 @@ description: Dell's new MacBook Neo rival is a swing and (almost) a miss
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/RHqXUu8cNern8HYntSy3iD-2560-80.jpg
+locations:
+- America
+- Australia
+- Solar Bay
+- UK
+- US
+people:
+- 3DMark
+- Christian Guyton
+- Cinebench
+- Lucy
+organisations:
+- '### TechRadar Verdict Positioned'
+- 8GB
+- A14
+- AI
+- Adobe Photoshop
+- Apple
+- CPU
+- Dell
+- EU
+- Intel
+- Mac
+- Maximum PC
+- RAM
+- XPS
 ---
 
 ### TechRadar Verdict

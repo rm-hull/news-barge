@@ -17,6 +17,62 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://cdn.jwplayer.com/v2/media/jKF5GD3c/poster.jpg?width=720
+locations:
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+- White House
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Farage
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Michael Carrick
+- Mikel Arteta
+- Nick Ferrari
+- Nourah
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Wes Streeting
+- Zelensky
+organisations:
+- Brighton
+- Burnham
+- Burnham’s Trump
+- Chelsea
+- ELITE
+- LBC
+- Labour
+- Lib Dems
+- MI6
+- Ministry of Defence
+- Premier League
+- RAF Squadron
+- See.Sense
+- Spice Kitchen
+- The Simpsons
 ---
 
 ## Showing now | News

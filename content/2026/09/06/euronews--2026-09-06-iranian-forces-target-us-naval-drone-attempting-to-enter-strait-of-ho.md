@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Gulf of Oman
+- Iran
+- Jask
+- Kharg Island
+- Larak Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+people:
+- Brad Cooper
+organisations:
+- CENTCOM
+- IRGC
+- Iranian Revolutionary Guards Corps
+- US Central Command
 ---
 
 ## It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.

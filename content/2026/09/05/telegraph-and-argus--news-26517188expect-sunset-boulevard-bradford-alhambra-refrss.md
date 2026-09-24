@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Bradford’s Alhambra Theatre
+- Charlotte
+- Hollywood
+- Norma
+- SUNSET Boulevard
+- Sunset Boulevard
+people:
+- Alison George
+- Andrew Ashley
+- Andrew Lloyd Webber
+- Billy Wilder
+- Charlotte Wallis
+- Diva
+- James Banks
+- Joe Gillis
+- Norma Desmond
+- Stephanie Thornton
+organisations:
+- Diva Productions
 ---
 
 SUNSET Boulevard - the tale of a struggling screenwriter pulled into the delusional, tragic world of an ageing silent film star - is heading for Bradford’s Alhambra Theatre next week.

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21478923.jpg?type=og-image&xType=51&yType=0
+locations:
+- Bishop Auckland
+- County Durham
+- James Cook Hospital
+- James Cook University Hospital
+- Middlesbrough
+- Morrisons Person
+- Newgate Street
+- North East
+- Princess Street
+- South Church Road
+people: []
+organisations:
+- GNAAS
+- Great North Air Ambulance Service
+- North East Ambulance Service
 ---
 
 *(Image: SUPPLIED)*

@@ -14,6 +14,13 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Independent Persons
+- North Yorkshire Council
+- Somerset
 ---
 
 Council officers are continuing to face a “sustained heavy workload” dealing with complaints about the conduct of councillors in North Yorkshire.

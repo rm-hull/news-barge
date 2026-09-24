@@ -12,6 +12,41 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/09/2293369500..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- '## Greenland'
+- Arctic Circle
+- Arctic Ocean
+- Canada
+- Faroe Islands
+- Greenland Denmark
+- Iceland
+- Nazi Germany
+- North America
+- North Atlantic
+- Nuuk
+- Russia
+- South China Sea
+- U.S.
+- US
+- Ukraine
+- United Kingdom
+- United States
+- Washington
+people:
+- Donald Trump
+- JD Vance
+- Mike Pompeo
+- Troels Lund Poulsen
+- Vladimir Putin
+organisations:
+- European Nato
+- GIUK
+- Gap
+- Joint Arctic Command
+- Pituffik Space Base
+- Road Initiative
+- Sirius Dog Sled Patrol
+- US Department of Defence
 ---
 
 Donald Trump has announced that the US and Denmark have agreed a deal to bolster the US military presence in Greenland, after threatening to annex the Danish territory by force for much of his second term.

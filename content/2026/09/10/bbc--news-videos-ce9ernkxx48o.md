@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations: []
+people:
+- Axel Scheffler
+- Julia Donaldson
+organisations:
+- AI
+- BBC
+- Gruffalo Granny
 ---
 
 # Gruffalo Granny illustrator says rise of AI images 'worrying'

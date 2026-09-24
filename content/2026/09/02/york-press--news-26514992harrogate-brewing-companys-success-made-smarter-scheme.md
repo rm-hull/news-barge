@@ -13,6 +13,24 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Knaresborough
+- North Yorkshire
+- Smarter Yorkshire
+- York
+people:
+- Joe Joyce
+- Julie
+organisations:
+- Breww
+- Castle Howard
+- FSB Yorkshire
+- Happy Town
+- Harewood House
+- Harrogate Brewing Company
+- Plaato
+- York & North Yorkshire Growth Hub
 ---
 
 *(Image: Pic supplied)*

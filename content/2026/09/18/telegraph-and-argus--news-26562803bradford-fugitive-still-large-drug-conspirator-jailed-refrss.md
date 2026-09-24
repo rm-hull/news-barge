@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Birmingham
+- Bradford
+- Ireland
+- Leeds Crown Court
+- Leicester
+- Newton Park Court
+- UK
+people:
+- Chris Rukin
+- DI Rukin
+- Mohammed Kazi
+- Shafiqul Islam Ali
+- Yakub Miah
+organisations:
+- Crimestoppers
+- Leeds Crown Court
+- Mercedes
+- West Yorkshire Police
 ---
 
 Police are still hunting a Bradford drug trafficker after another key figure in a Covid lockdown heroin conspiracy was jailed.

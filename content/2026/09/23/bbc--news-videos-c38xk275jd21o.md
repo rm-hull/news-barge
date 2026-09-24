@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0796/live/9166c030-b721-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- China
+- US
+- Washington
+people:
+- Donald Trump
+- Laura Bicker
+- Sarah Smith
+- Xi Jinping
+organisations:
+- BBC
+- Trump and Xi
 ---
 
 # Watch: Trump and Xi are meeting on US soil - what's at stake?

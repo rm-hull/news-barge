@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BRADFORD
+- Bradford
+- Leeds Road
+people:
+- '## Man'
+- Abubakr Ahmed
+- Ahmed Nadim
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

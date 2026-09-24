@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Lawrence Street
+- St Lawrence Church
+- St Lawrence Parish Church
+- St Lawrence's Church
+- York
+people:
+- Geoff Mumford
+- Karl Smith
+organisations:
+- Pic
+- Trig
+- York CAMRA
 ---
 
 ## The beer is blessed, so York's beer festival is good to go!

@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Azerbaijan
+- Baku
+- Kalbajar
+people:
+- Kalbajar
+- Sabir Mustafayev
+organisations: []
 ---
 
 **Euronews**

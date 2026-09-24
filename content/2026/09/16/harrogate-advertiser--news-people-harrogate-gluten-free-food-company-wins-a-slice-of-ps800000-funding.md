@@ -15,6 +15,27 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk5NDlhZGVhLWY1N2QtNDU0ZS1iMzA5LTY4Yzk0NmY4ODQ0ZjplYTI5NzFhMy1iYWY1LTQ2NWYtODMxOS1jNDQxNDBkYjFiNzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- North Yorkshire
+- UK
+- York
+people:
+- Belle Richardson
+- David Skaith
+- Kirsty Henshaw
+organisations:
+- Business Innovation Fund
+- David Skaith’s Business Innovation Fund
+- Dragons’ Den-style
+- Great Ideas
+- Harrogate
+- Kirsty's
+- Kirsty’s
+- SealStop
+- Sector Activity
+- West Offices
+- Worthenshaws
 ---
 
 # Harrogate gluten free food company wins a slice of £800,000 funding from Mayor of York and North Yorkshire

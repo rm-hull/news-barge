@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Darlington Hippodrome
+- Woodlands Hospital
+people:
+- Debbie Dobbs
+organisations:
+- :**County Durham
+- A66
+- Darlington
 ---
 
 Cast members from a hit musical tuned up for their latest show with a special visit to a Darlington hospital.

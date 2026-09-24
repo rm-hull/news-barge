@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bentham
+- Burton
+- Ingleton
+- Lonsdale
+- North Yorkshire
+people:
+- Gareth Whitaker
+organisations:
+- HGV
+- North Yorkshire Council
+- Settle College
+- Traveller
 ---
 
 A North Yorkshire secondary school is to provide free transport for eligible pupils after its Year 7 intake fell by almost 30 per cent following the introduction of the council’s new home-to-school transport policy.

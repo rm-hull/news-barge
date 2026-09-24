@@ -12,6 +12,37 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311647290.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Bremen
+- California
+- France
+- Germany
+- Italy
+- London
+- Trafalgar Square
+- UK
+people:
+- Albert Einstein
+- Chris Hull
+- Emily Adlam
+- Federica Muscolino
+- Itzhak Bars
+- Marco Pettini
+- Neil Turok
+- Paul Steinhardt
+- Roger Penrose
+- Stephen Hawking
+- Sören Petrat
+organisations:
+- Aix-Marseille University
+- Chapman University
+- Constructor University
+- Hull
+- Imperial College London
+- Princeton University
+- University of Edinburgh
+- University of Milan-Bicocca
+- University of Southern California
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311647290.jpg?w=840)

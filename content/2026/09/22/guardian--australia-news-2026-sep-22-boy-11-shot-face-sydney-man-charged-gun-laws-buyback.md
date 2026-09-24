@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/97696f63e0f174aeacaedaa623b233070e10669a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83e7a622774403f8b5c80f8fe3c521f1
+locations:
+- Australia
+- Blacktown
+- Bondi
+- NSW
+- New South Wales
+- Norwest
+- Sydney
+- Westmead Children’s
+people:
+- Chris Minns
+- Kellie Sloane
+- Naomi Moore
+- Yasmin Catley
+organisations:
+- ABC TV
+- Coalition
+- Labor
+- Liberal
+- NSW
 ---
 
 The shooting of an 11-year-old boy in Sydney’s north-west was a “tragic reminder” of the danger of guns, the New South Wales premier, Chris Minns, has said while the opposition defends “backflipping” on a gun buyback.

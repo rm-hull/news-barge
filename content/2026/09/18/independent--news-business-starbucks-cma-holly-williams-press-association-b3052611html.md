@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- De Mello
+- Debbie White
+- Jonathan De Mello
+- Kate Allum
+- Matt Hood
+- Shirine Khoury-Haq
+organisations:
+- CMA
+- Co-operative
+- Competition and Markets Authority
+- JDM Retail
+- National Insurance
+- Southern Co-op
+- Starbucks
 ---
 
 The Co-op will update on its recovery efforts in interim results on Wednesday after a difficult start to the year for the group amid management upheaval and tougher trading.

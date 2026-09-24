@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - True Crime
 image: https://mmo.aiircdn.com/409/6ab28ea903a7403b419.jpg
+locations:
+- Harrogate
+people: []
+organisations:
+- Harrogate BID
+- Marks & Spencer
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab28ea903a7403b419.jpg)

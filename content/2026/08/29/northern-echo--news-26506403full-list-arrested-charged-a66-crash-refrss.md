@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Alverton Green
+- Atlee Road
+- CLEVELAND
+- Foxrush Court
+- Grangetown
+- Micklow Close
+- Middlesbrough
+- Middlesbrough**
+- Redcar
+- South Bank
+- Steele Crescent
+- Teesside Magistrates' Court
+people:
+- Cameron George
+- Cole Robert Worthy
+- Jakub Matusiak
+- Kai Beattie
+- Kai Inico
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 Twenty-four people have been arrested, and three charged in an organised crime crackdown in the aftermath of the A66 crash which killed seven people.

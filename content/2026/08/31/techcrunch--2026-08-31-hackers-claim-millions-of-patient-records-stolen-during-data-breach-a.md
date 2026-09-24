@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Health & Fitness
+locations:
+- U.S.
+- United States
+people:
+- Francisco Fraga
+- Kristina Chang
+- Lorenzo Franceschi-Bicchierai
+- McKesson
+organisations:
+- Abbott Laboratories
+- Bleeping Computer
+- Boston Scientific
+- CareCloud
+- DentaQuest
+- McKesson
+- Medtronic
+- One Medical
+- ShinyHunters
+- Stryker
+- TechCrunch
+- TriZetto
 ---
 
 A prolific hacking group has taken credit for last week’s cyberattack against U.S. pharmaceutical distribution giant McKesson, leading to the latest spill of highly sensitive health data by an American healthcare company in recent months.

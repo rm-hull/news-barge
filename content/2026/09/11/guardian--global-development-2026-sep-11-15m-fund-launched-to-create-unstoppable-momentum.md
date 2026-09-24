@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Africa
+- Asia
+- Burkina Faso
+- Gambia
+- Kenya
+- Middle East
+- Sierra Leone
+- Somalia
+people:
+- Ifrah Ahmed
+- Susan Gibbs
+organisations:
+- FGM
+- Her Horizon Fund
+- Ifrah Foundation
+- Justice for Girls
+- UN
+- UNFPA
+- Unicef
+- United Nations
+- Wallace Global Fund
 ---
 
 Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentum” to finally end the practice.

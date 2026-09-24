@@ -13,6 +13,36 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNkMzM0MTU2LTgyOTktNDZlMy1iN2RhLTliZjY3NzhiYWFlYjoyNjBiNWQ1My02ODQ1LTQzZmEtYWZiOC1lMWE3ZjNkZDk0NDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Doncaster
+- Hope Valley
+- Liverpool
+- London
+- Manchester Airport
+- Manchester Piccadilly
+- Network Rail
+- North of England
+- Northern Powerhouse Rail
+- Pennines
+- Rotherham
+- Sheffield Midland
+- Sheffield South East
+- South Yorkshire
+- Steel City
+- West
+people:
+- Clive Betts
+- Nick Bisson
+- Oliver Coppard
+- Rachel Reeves
+organisations:
+- Department for Transport
+- Manchester Airport
+- NPR
+- Northern Powerhouse Rail
+- Northern Powerhouse Rail.
+- Sheffield
+- Treasury
 ---
 
 # Direct train services between Sheffield and Manchester Airport could return

@@ -13,6 +13,20 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/20649886.jpg?type=og-image
+locations:
+- Natural England
+- North York Moors
+- North York Moors National Park
+- North Yorkshire
+- Westerdale
+people:
+- Harry Tucker
+organisations:
+- Defra
+- North Yorkshire Police
+- RSPB
+- YWT
+- Yorkshire Wildlife Trust
 ---
 
 *(Image: Harry Tucker/ Natural England)*

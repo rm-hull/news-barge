@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Cedartown
+- Elsberry
+- Georgia
+- Israel
+- Polk county
+- Rockmart
+- US
+people:
+- Hannah Israel
+- HeeHaw
+- Jamie Newsome
+organisations:
+- Cedartown
+- Coosa Valley News
 ---
 
 A police officer in the US state of Georgia was placed on leave after a family’s pet baby donkey was shot and killed during an early-morning search on their property.

@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bycliffe Road’
+- Conistone Dib
+- Dalesway
+- England
+- Grassington
+- Great Whernside
+- Gurling Trough
+- Jonathan Smith
+- Kilnsey Trout Farm
+- Mossdale Caves
+- Mossdale Scar
+- National Park
+- RIGGS Moor
+- Riggs Moor
+- River Wharfe
+- Sandy Gate
+- Upper Nidderdale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+- Yorkshire Dales'
+people: []
+organisations:
+- Tenants Arms
 ---
 
 ## Why you should take this walk to spectacular remote spot in Yorkshire Dales

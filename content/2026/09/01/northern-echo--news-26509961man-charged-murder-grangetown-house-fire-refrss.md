@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Royal Victoria Infirmary
+- STUART BOULTON
+- Teesside Magistrates’ Court
+people:
+- Jaden Wright
+- Katie Nicolson
+- Katie Smith
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- CPS North East
+- Cleveland Police
+- James Cook University
+- Northumbria Police
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

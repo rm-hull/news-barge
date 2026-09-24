@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/17/20/Corruption_Trial_Fugitive_
 categories:
 - News & Politics
 - UK
+locations:
+- Bahamas
+- Bridgeport
+- Connecticut
+- England
+- Florida
+- Greece
+- London
+- U.S.
+- Washington
+people:
+- Biden
+- Donald Trump
+- Konstantinos
+- Kosta Diamantis
+- Kosta” Diamantis
+- Ned Lamont
+- Norman Pattis
+- Stefan Underhill
+- William Tong
+organisations:
+- Diamantis
+- Diamantis'
+- Office of School Construction Grants and Review
 ---
 
 A former senior budget official for Connecticut's Democratic governor is now a fugitive in Greece after fleeing the U.S. by boat and plane ahead of his sentencing for corruption, his lawyer and prosecutors told a federal judge on Thursday.

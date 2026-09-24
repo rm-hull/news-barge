@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Charlestown
+- UK
+people:
+- Alzheimer
+- Andy Burnham
+- Andy Burnham @andyburnham
+- May Roy
+- Nadhim Zahawi
+- Nadhim Zahawi (@nadhimzahawi
+- Roy Burnham
+- Roy Councillors
+- Samantha Gethen
+- Samantha Gethen (@Gethens
+- Uzma Jafri
+organisations:
+- House of Commons
+- Labour Party
+- PA Wire
+- Reform UK
+- The Times
 ---
 
 *(Image: House of Commons/UK Parliament/PA Wire)*

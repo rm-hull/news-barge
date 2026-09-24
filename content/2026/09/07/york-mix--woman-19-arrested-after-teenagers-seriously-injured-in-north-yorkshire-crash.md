@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- '#### B1249'
+- B1249 Main Street
+- Filey
+- Foxholes
+- Malton
+- Scarborough
+- Seat Leon
+people:
+- Jamie Broadbent
+organisations:
+- North Yorkshire Police
 ---
 
 A 19-year-old woman has been arrested on suspicion of causing serious injuries by dangerous driving after a car crashed onto its roof.

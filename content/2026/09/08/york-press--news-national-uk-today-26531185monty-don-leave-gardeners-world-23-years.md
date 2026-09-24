@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - History
+locations:
+- Berryfields
+- Britain
+- Herefordshire
+- Longmeadow
+people:
+- Head Gardener
+- Ken Burras
+- Matt Baker
+- Monty Don
+- Monty Don 'heartbroken
+organisations:
+- BBC Gardeners’ World
+- BBC Studios
+- BBC Two
+- Gardeners' World
+- Gardeners’ World
 ---
 
 *(Image: BBC Studios)*

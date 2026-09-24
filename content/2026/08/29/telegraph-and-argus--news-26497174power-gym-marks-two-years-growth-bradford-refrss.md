@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- BRADFORD
+- Beacon Road
+- Bradford
+people:
+- Hasan Faridi
+- Mike Simmonds
+organisations:
+- Argus Reader
+- Bradford
+- Newsquest
+- Power Up Gym
+- Telegraph
 ---
 
 *(Image: Hasan Faridi)*

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- UK
+people:
+- Alex Sobel
+- Angela Rayner
+- Claude
+- Dario Amodei
+- Elon Musk
+- Sam Altman
+organisations:
+- AI “
+- Grok
+- JCHR
+- Joint Committee on Human Rights
+- Labour
+- OpenAI
 ---
 
 A cross-party panel of MPs has urged the creation of a new artificial intelligence (AI) Bill “to address the scale and seriousness of threats posed to human rights” arising from the technology.

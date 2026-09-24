@@ -14,6 +14,33 @@ categories:
 - Germany
 - News & Politics
 - Education & Learning
+locations:
+- Baden-Württemberg
+- Bavaria
+- Berlin
+- Brandenburg
+- Germany
+- Hamburg
+- North Rhine-Westphalia
+- Rhineland-Palatinate
+- Saxony
+- Saxony-Anhalt
+- Schulpflicht’
+- Thuringia
+people:
+- Friedrich Merz
+- Karin Prien
+- Saarland
+- Saxony
+organisations:
+- Bremen
+- Federal Education
+- German Economic Institute
+- INSM
+- IW
+- Initiative for a New Social Market Economy
+- PISA
+- Politico
 ---
 
 Just days after the latest PISA assessment delivered another shock for Germany’s schools, a new study appears to reinforce the message.

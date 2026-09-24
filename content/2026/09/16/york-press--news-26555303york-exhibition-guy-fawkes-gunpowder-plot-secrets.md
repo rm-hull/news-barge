@@ -13,6 +13,30 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Bar Convent Heritage Centre
+- York
+people:
+- '## York'
+- Ann Stafford
+- Anthony Chappel-Ross
+- Christopher
+- Edward Oldcorne
+- Guy Fawkes
+- Hannah Thomas
+- Isobel Staton
+- James I
+- Jessica Diamond
+- John Wright
+- Margaret Clitherow
+- Robert Middleton
+- Sarah Hall Baqai
+- Thomas Percy
+organisations:
+- Bar Convent
+- Bonfire Night
+- Local Superior
+- York St John University
 ---
 
 ## York’s untold Gunpowder Plot links to Guy Fawkes revealed in major new exhibition

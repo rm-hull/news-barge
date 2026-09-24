@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Asia
+- Bab al-Mandab
+- Djibouti
+- Greater
+- Hormuz
+- Horn of Africa
+- Iran
+- Iraq
+- Lesser Hanish
+- Middle East
+- Mokha
+- Perim
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- US
+- Yanbu
+- Yemen
+people:
+- Janiv Shah
+- Mike Wirth
+- Tim Waterer
+organisations:
+- Chevron
+- International Organization for Migration
+- International Rescue Committee
+- KCM Trade
+- Rystad Energy
 ---
 
 Yemen’s Houthi rebels have seized two strategic islands in the Red Sea, reinforcing the Iran-backed group’s ability to control a key shipping route, as concerns mount that the world is facing a new oil supply crisis.

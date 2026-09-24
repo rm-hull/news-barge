@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Americas
+- Asia-Pacific
+- Australia
+- Europe
+- Great Britain
+- US
+- Victoria
+people:
+- Adam Grant
+- Courtney Elliott
+- Elon Musk
+- Jamie Dimon
+- Libby (Elizabeth) Sander
+- Marissa Shandell
+organisations:
+- Bond Business School
+- Bond University
+- Fortune
+- JP Morgan
+- New York Times
+- PhD
+- Tesla
+- The Conversation
+- Wharton School
 ---
 
 Have you ever wondered *why* your boss wants you back in the office full-time, rather than allowing hybrid work, where you can combine work from home and in an office? A fascinating study just shed fresh light on this topic.

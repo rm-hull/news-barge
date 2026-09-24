@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- U.S.
+people:
+- Callan
+- God
+- Gregory Saathoff
+- Jennifer Sprague
+- Jennifer Tufts
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Mom
+- Patrick Clancy
+- Paul Zeizel
+- Paula Musgrove
+- Susan Clancy
+- ___ Clancy
+organisations:
+- FBI’s Behavioral Analysis Unit
+- Lindsay Clancy
 ---
 
 Jurors in the closely watched Lindsay Clancy trial began deliberating this week — but had not reached a verdict by the end of the day Friday.

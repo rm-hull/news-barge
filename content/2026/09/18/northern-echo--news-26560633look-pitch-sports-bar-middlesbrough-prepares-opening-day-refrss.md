@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bar Fresco
+- Corporation Road
+- Exchange Walk
+- Middlesbrough
+- North East
+- Teesside
+people:
+- Robert Hutchinson
+- Sarah Caldecott
+organisations:
+- Doctors Browns
+- F1
+- Formula One
+- Middlesbrough
+- Pitch!
+- Pneuma Group
+- Sports Bar
 ---
 
 The finishing touches are being added to Middlesbrough's newest sports bar.

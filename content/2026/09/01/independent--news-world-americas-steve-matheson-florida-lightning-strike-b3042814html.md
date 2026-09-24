@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Florida
+- Fort De Soto
+- Margate
+- Miami
+- Saratoga Springs
+- Shell Key
+- Tampa Bay
+- U.S.
+- Utah
+people:
+- '![Matheson'
+- Aaron R. Boone
+- April Beck
+- David Cole
+- Kennedi Rose
+- Kenya Glasgow
+- Steve Matheson
+organisations:
+- ABC4
+- BYU
+- Brigham Young University
+- Centers for Disease Control and Prevention
+- Facebook
+- Fox 13
+- Pinellas County Sheriff’s Office
+- The Church of Jesus Christ of Latter-day Saints
+- The Independent
 ---
 
 A father-of-four has died after he was fatally struck by lightning while jet skiing in Florida.

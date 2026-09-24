@@ -11,6 +11,16 @@ categories:
 - York
 - Food & Cooking
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/brotherton-fire-21-sept-2026-nyp.webp
+locations:
+- Acomb
+- Brotherton
+- Great North Road
+- Selby
+- Thaal
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire Police
 ---
 
 Two boys were arrested in the early hours of this morning (22 September) following a fire at a disused restaurant near Brotherton in the Selby area.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Belarus
+- China
+- Halle Airport
+- Iran
+- Ireland
+- Leipzig
+- Moscow
+- North Korea
+- Russia
+- Ukraine
+people:
+- Kaja Kallas
+- Vladimir Putin
+organisations:
+- EU
+- European Union
+- NATO
 ---
 
 The European Union’s top diplomat said Wednesday that an attempted attack on a German airport blamed on Russia appears to be “state sponsored terrorism,” as EU countries weighed their response.

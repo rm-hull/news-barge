@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Billingham
+- High Grange Avenue
+- North East
+- Teesside
+people:
+- Kyle Gibson
+- Kyle V Food
+organisations:
+- Lucky 88
+- The Stoney Oak
+- TikTok
 ---
 
 A popular North East food reviewer insists that Billingham is home to the very best Chinese takeaways in the region.

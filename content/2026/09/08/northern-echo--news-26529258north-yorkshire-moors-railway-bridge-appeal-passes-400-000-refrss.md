@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- :**County Durham
+- Darlington
+- Grosmont Level Crossing
+- Larpool Viaduct
+- Whitby
+people:
+- David Cockayne
+- Laura Strangeway
+- Ms Strangeway
+- Slurring
+organisations:
+- Bridge 42 Appeal
+- County Durham
+- NYMR
+- North York Moors National Park
+- North Yorkshire Moors Railway
+- S106 Landscape and Ecology Fund
 ---
 
 A heritage railway has raised more than £400,000 for urgent bridge repairs that will help keep its historic trains running.

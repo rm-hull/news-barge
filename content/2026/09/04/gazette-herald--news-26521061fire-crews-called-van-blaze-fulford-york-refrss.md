@@ -12,6 +12,12 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Crossfield Crescent
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 FIRE crews have been called to a van fire in York.

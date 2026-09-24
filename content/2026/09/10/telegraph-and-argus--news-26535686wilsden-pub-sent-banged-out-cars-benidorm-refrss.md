@@ -12,6 +12,26 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Benidorm
+- Bradford
+- Europe
+- France
+- Harecroft
+- Keighley
+- Spain
+- The Station
+- Wilsden
+people:
+- Danny
+- Helen Lawn
+- Lousie Helstrip
+- Sue Ryder Manorlands
+organisations:
+- Bangers to Benidorm
+- Benidorm Currently
+- Manorlands Hospice
+- Sue Ryder Manorlands Hopsice
 ---
 
 *(Image: T&A)*

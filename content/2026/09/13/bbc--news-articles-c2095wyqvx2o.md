@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckingham Palace
+- Buckingham Palace.
+- Clarence House
+- Durham Prison
+- London
+- St James's Palace
+- West End
+people:
+- Camilla
+- Charles III
+- Elizabeth II
+- George VI
+organisations:
+- Daily Express
+- Diplomatic Corps
+- Great Train Robbers
+- Schweppes
+- Sovereign Grant
+- State Rooms
+- The Standard
+- West Gallery
 ---
 
 ![Several items, including an old brown newspaper, battered hobnail boots and a bottle of Schweppes bottled water are displayed side by side.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/736f/live/d7a1d5b0-afa8-11f1-9619-0d4deb3a4ac7.jpg)

@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- NSW
+- Sydney
+people:
+- Michael Daley
+- Noel Hutley SC
+- Sally Dowling SC
+organisations:
+- 2GB
+- DPP
+- NSW
+- New South Wales
+- ODPP
+- Office of The Director of Public Prosecutions
 ---
 
 The top prosecutor in NSW says she discussed a list of barristers to lead an independent review into controversial findings against her office with the state’s attorney general, before he appointed someone she had known “professionally and socially” for nearly 30 years.

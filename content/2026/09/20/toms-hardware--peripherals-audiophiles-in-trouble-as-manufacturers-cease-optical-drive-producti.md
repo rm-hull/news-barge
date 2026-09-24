@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/dvE8uTuuHfnW2YJyKBzPQg-1920-80.png
+locations: []
+people:
+- Jowi Morales
+- Naim
+- Paul McGowan
+- Tom
+organisations:
+- D&M Holdings
+- Denon
+- Google News
+- HBM
+- Hi-Fi
+- Jowi Morales
+- Marantz
+- Naim
+- PMG Super Audio CD Transport
+- PS Audio
+- Uniti Star
 ---
 
 ![PS Audio PMG Super Audio CD transport](https://cdn.mos.cms.futurecdn.net/dvE8uTuuHfnW2YJyKBzPQg.png)

@@ -14,6 +14,39 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+- North Carolina
+- St. Louis
+- U.S.
+- Washington
+- White House
+people:
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- Elon Musk
+- George W. Bush
+- Joe Biden
+- Kevin Warsh
+- Kush Desai
+- Maya MacGuineas
+- Romina Boccia
+- Ronald Reagan
+- William Emmons
+organisations:
+- Cato Institute
+- Committee for a Responsible Federal Budget
+- Congress
+- Congressional Budget Office
+- Federal Reserve
+- Federal Reserve Bank
+- Government Accountability Office
+- Musk
+- Oval Office
+- Treasury
+- Trump
+- U.S. Department of Government Efficiency
 ---
 
 President Donald Trump re-entered office pledging to restore stability to the United States' finances by scaling back federal governance, ending expensive foreign conflicts, and promoting economic expansion to curb mounting deficits.

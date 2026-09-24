@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska Native
+- Bering Sea
+- Nome
+- Savoonga
+- St. Lawrence Island
+people:
+- Adam White
+- Barton Rookok
+- Colleen Walker
+- Darren Toolie-Noongwook
+- Derek Parker Aghnaanga
+- Sidney Kulowiyi
+organisations:
+- Alaska News Source
+- Alaska State Troopers
+- Alaska’s News Source
+- Coast Guard
+- GoFundMe
+- NOAA
+- Northwest Explorer
+- U.S. Coast Guard HC-130 Hercules
 ---
 
 A 15-year-old Alaska boy survived about 62 hours stranded atop an overturned fishing boat in the frigid Bering Sea, trying to hold onto his brother and cousin after they drowned, his family says.

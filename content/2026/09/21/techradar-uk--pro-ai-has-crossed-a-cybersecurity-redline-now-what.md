@@ -11,6 +11,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
+locations:
+- AI
+- OpenAI
+people: []
+organisations:
+- AI
+- AWS
+- Azure
+- Future plc
+- Google
+- Hugging Face
+- MDR
+- MSP
+- Managed Detection and Response
+- NCSC
+- National Cyber Security Centre
+- OpenAI
+- SOCs
+- TechRadar Pro
+- TechRadarPro
+- UtopianKnight
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg)

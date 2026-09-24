@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/06/08/19/22/GettyImages-2181497303.
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- White House
+people:
+- Chris Whipple
+- Donald Trump
+- Fox
+- JD Vance
+- Jeffrey Epstein
+- Joe Rogan
+- Lauren Bis
+- Russiagate
+- Susie Wiles
+- Tucker Carlson
+organisations:
+- America First
+- Congress
+- Department of Justice
+- Epstein
+- Fox News
+- GOP
+- House Oversight Committee
+- Justice Department
+- MAGA
+- The Independent
+- The Independent.
+- Trump
+- Truth Social
+- Vanity Fair
 ---
 
 Donald Trump “directly” ordered his administration to “cover up” millions of documents stemming from investigations into Jeffrey Epstein, according to the president’s now-former ally Tucker Carlson.

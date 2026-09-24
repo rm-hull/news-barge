@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- 'Calderdale ##'
+- Ind, Park
+- Park ward
+- Salterhebble
+- Southowram
+people:
+- Coun Hawkaluk
+- Coun Khalil
+- Coun Osman Khalil
+- Coun Paul Hawkaluk
+- Paul Hawkaluk
+organisations:
+- Cabinet
+- Calderdale Council
+- Community Safety and Enforcement
+- Environmental Health
+- Labour
+- Reform UK
+- Skircoat Green
 ---
 
 # Call to bring back council pest control as rats on the rise in Calderdale

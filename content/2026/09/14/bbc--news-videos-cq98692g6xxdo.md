@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- UK
+people:
+- Harry
+- Meghan
+organisations:
+- Duchess of Sussex
+- The Duke
 ---
 
 # Watch: Why Harry and Meghan's security in the UK to be reviewed

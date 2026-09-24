@@ -13,6 +13,30 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- AI
+- China
+- San Francisco
+- U.S.
+people:
+- Alan Turing
+- Claude Mythos
+- Claude Opus
+- Dario Amodei
+- Jacob Coxon
+- Norbert Wiener
+- Sam Altman
+- Trump
+- Xi Jinping
+organisations:
+- Amodei
+- An Anthropic
+- Center for AI Safety
+- ChatGPT
+- Hugging Face
+- Meta
+- OpenAI
+- Trump
 ---
 
 New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity’s survival, and whether the companies developing the technology are doing enough to prevent such a scenario.

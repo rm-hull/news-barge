@@ -15,6 +15,31 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Humber
+- Jackdaw
+- Langdale Moor
+- North Sea
+- North Yorkshire
+- Rosebank
+- UK
+people:
+- Ambre Olivari
+- Andy Burnham
+- Chris Copland
+- David Tonge
+organisations:
+- Annabel Lee-Ellis
+- CBI
+- Carbon Brief
+- Humber Climate Commission
+- Jackdaw
+- Net Zero
+- North Yorkshire Climate Coalition
+- Rosebank
+- State for Energy Security
+- UN
+- York Friends of the Earth
 ---
 
 # Jackdaw and Rosebank would set us back in tackling the climate emergency - David Tonge, Ambre Olivari & Chris Copland

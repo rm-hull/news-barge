@@ -14,6 +14,16 @@ categories:
 - Food & Cooking
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472651.jpg?type=og-image
+locations:
+- Bradford
+- Britain
+- Morley Street
+people: []
+organisations:
+- Bradford
+- International House Mix
+- The International
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

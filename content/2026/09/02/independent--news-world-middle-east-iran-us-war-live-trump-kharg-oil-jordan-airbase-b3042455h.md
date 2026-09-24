@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Hormuz Strait
+- Iraq
+- Islamic Republic of Iran
+- Jordan
+- Kharg Island
+- Khuzestan
+- Kuhestak
+- Kuhistik
+- Kuwait
+- Larak Island
+- Middle East
+- Minab
+- Musandam
+- Oman
+- Sirik
+- Strait of Hormuz
+- U.S.
+- US
+people:
+- '## Trump'
+- Alexander Theodoridis
+- Buyer
+- Centcom
+- Donald Trump
+- Esmaeil Baghaei
+- Hormuz Donald Trump
+- Pete Hegseth
+- Reza Shahidiyan
+organisations:
+- Al Jazeera
+- Axios
+- CENTCOM
+- DJT
+- IRGC
+- IRIB
+- IRNA
+- Islamic Revolutionary Guard
+- Islamic Revolutionary Guard Corps
+- Jordanian Armed Forces
+- Kamsarmax
+- Kpler
+- Nation of Iran
+- Pentagon
+- The Independent
+- The Iranian Red Crescent
+- Trump
+- Truth Social
+- US Central Command
+- University of Massachusetts-Amherst
+- West Asia News Agency
 ---
 
 American forces have denied a claim from Iran’s paramilitary that it struck a US base in Jordan.

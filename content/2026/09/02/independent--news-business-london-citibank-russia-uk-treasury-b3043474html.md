@@ -13,6 +13,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- London
+- Russia
+- UK
+- Ukraine
+people: []
+organisations:
+- Alfa-Bank JSC
+- Citi
+- Citibank
+- Credit Bank of Moscow
+- OFSI
+- Office of Financial Sanctions Implementation
+- PJSC Gazprombank
+- Treasury
 ---
 
 Citibank’s London branch has been fined £4.7 million by a UK Treasury body for breaching Russian financial sanctions rules in 2022.

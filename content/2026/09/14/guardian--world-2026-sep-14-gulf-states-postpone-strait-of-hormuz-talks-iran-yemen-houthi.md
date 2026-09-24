@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Al Mesaba’ah
+- Al Mesba’ah
+- Asia
+- Bab al-Mandab
+- Gulf of Aden
+- Hodeidah
+- Hormuz
+- Indian Ocean.
+- Iran
+- Iraq
+- Jeddah
+- Khamis Mushait
+- King Khalid
+- Lebanon
+- Mocha
+- Oman
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Saudi Arabia.
+- Tehran
+- US
+- Washington
+- Yemen
+- Yemen.
+people:
+- Adm Brad Cooper
+- Donald Trump
+- Mohammed bin Salman
+- Sayyid Badr Albusaidi
+organisations:
+- GCC
+- Gulf Cooperation Council-Iran
+- Houthi
+- UN
+- US Central Command
+- Vantor Technologies
 ---
 
 Gulf states have postponed a critical meeting with Iran on the future of the strait of Hormuz owing to a lack of Arab consensus and growing Saudi Arabian anger with Tehran for helping the Houthis loosen Riyadh’s grip in Yemen.

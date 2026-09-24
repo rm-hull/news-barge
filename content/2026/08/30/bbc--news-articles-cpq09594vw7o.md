@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Illinois
+- Indiana
+- Lake America
+- Lake Erie
+- Lake Huron
+- Lake Michigan
+- Lake Ontario
+- Lake Superior
+- New York
+- North America
+- Ohio
+- Pennsylvania
+- Quebec
+- U.S.
+- US
+- White House
+- Wisconsin
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+organisations:
+- Ford
+- Geographic Names Information Service
+- Google Maps
+- US Department of the Interior
 ---
 
 Watch: Ontario Premier Doug Ford unveils 'Lake Ontario' sign

@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Europe
+- Manchester
+- US
+people:
+- Marantz
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- DAB
+- Digital Trends
+- Dirac Live Room Correction
+- GamesRadar
+- Google News
+- Marantz
+- Qobuz Connect
+- Spotify Connect
+- Stateside
+- TechAdvisor
+- TechRadar
+- Tidal Connect
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![The Marantz MCR 60n on a wooden shelf, next to some headphones.](https://cdn.mos.cms.futurecdn.net/mQfnVPiDswaWYfVMcin32H.jpg) 

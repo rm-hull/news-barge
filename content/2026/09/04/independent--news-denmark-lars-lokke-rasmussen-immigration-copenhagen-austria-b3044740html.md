@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa
+- Austria
+- Brussels
+- Copenhagen
+- Denmark
+- Europe
+- Germany
+- Greece
+- States
+- The Netherlands
+- Vienna
+people:
+- Bart van den Brink
+- Lars Løkke Rasmussen
+- Michael O’Flaherty
+- Michele LeVoy
+- Morten Bødskov
+- Philipp Jenne
+- Sam McNeil
+organisations:
+- AP
+- Council of Europe
+- EU
+- Human Rights
+- Immigration and Integration
+- PICUM
+- non-European Union
 ---
 
 Denmark said it hoped to begin sending rejected asylum seekers to non-European Union “return hubs” as early as 2027, ahead of a Friday meeting of five countries leading European efforts to establish such centers outside the continent.

@@ -14,6 +14,18 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21465134.jpg?type=og-image
+locations:
+- Bradford Road
+- Commercial Street
+- Italy
+- Morley
+- Spain
+- Vinoteca Brighouse
+people:
+- Ms Ceperkovic
+- Silvia Ceperkovic
+organisations:
+- Vinoteca Brighouse
 ---
 
 *(Image: T&A)*

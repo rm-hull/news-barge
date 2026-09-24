@@ -14,6 +14,51 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Arabian Peninsula
+- Austria
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Berlin
+- Brazil
+- Britain
+- China
+- Dhubab
+- East-West Pipeline
+- Germany
+- Gulf of Aden
+- India
+- Iran
+- Mokha
+- Musandam
+- New Delhi
+- Oman
+- Perim Island
+- Red Sea
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Trump Washington
+- UK
+- US
+- Yemen
+people:
+- '## Pezeskhian'
+- Donald Trump
+- James C. Reynolds
+- Masoud Pezeshkian
+- Modi
+- Mohammed bin Salman
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Aramco
+- Axios
+- BRICS
+- BoE
+- Hamas
+- Office for National Statistics
+- Reuters
 ---
 
 Satellite imagery showed smoke in the area of a crucial oil pipeline in Saudi Arabia, raising fears of another heavy attack by the Houthis on energy infrastructure.

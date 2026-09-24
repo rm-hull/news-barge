@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Relationships & Dating
+locations:
+- Westminster Bridge
+people:
+- Amanda Rowe
+- DC Malik
+- DS Waite
+- Gary Waite
+- Khalid Masood
+- Pervaz Malik
+organisations:
+- CPS
+- College of Policing
+- IOPC
+- Independent Office of Police Conduct
+- Metropolitan Police
 ---
 
 The first police officer to respond to the Westminster Bridge terror attack has been barred from policing after asking a subordinate for Viagra and lying about time-off.

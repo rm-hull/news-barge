@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arabian Peninsula
+- Arabian Sea
+- Bab al-Mandab Strait
+- Bahrain
+- East-West
+- Egypt
+- Eritrea
+- Ethiopia
+- Horn of Africa
+- Iran
+- Iraq
+- Kharg Island
+- Kuwait
+- Maysan
+- Mediterranean Sea
+- Middle East
+- Oman
+- Persian Gulf
+- Qatar
+- Red Sea
+- Riyadh
+- Saudi Arabaia
+- Saudi Arabia
+- Somalia
+- Strait of Hormuz
+- Sudan
+- Suez Canal
+- The Kingdom of Saudi Arabia
+- United Arab Emirates
+- Yemen
+people:
+- Jasem Mohamed Albudaiwi
+organisations:
+- Gulf Co-operation Council
+- Reuters
 ---
 
 How Houthi gains in Yemen could drive up oil prices

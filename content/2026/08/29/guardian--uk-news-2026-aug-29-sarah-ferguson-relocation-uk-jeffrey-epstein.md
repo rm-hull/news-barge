@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- King Charles’s Sandringham
+- Marsh Farm
+- Norfolk
+- Royal Lodge
+- UK
+- US
+- Verbier
+- York
+people:
+- Andrew Mountbatten-Windsor
+- Andrew’s
+- Archie
+- Jeffrey Epstein
+- King
+- Lilibet
+- Sarah Ferguson
+organisations:
+- Duchess of Sussex
+- Epstein
+- Fergie’s Farm
+- Ferguson – S Phoenix Events
+- La Luna Investments
+- Mail
+- Philanthrapreneur Ltd
+- Planet Partners Productions Ltd
+- Sarah’s Trust
+- Solamoon Ltd
+- Sun
+- Teenage Cancer Trust
 ---
 
 Sarah Ferguson is set to return to the UK after relocating to a Swiss chalet amid the fallout over her and ex-husband Andrew Mountbatten-Windsor’s friendship with convicted child sex offender Jeffrey Epstein, according to reports.

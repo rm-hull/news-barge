@@ -11,6 +11,23 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/39/10/1200x675_cmsv2_99a86d90-61b0-55cf-96aa-c2c0214449b1-9923910.jpg
+locations:
+- Bashkortostan
+- Kremlin
+- Moscow
+- New York
+- Russia
+- Samara
+- U.S.
+- US
+- Ukraine
+- Washington
+people:
+- Donald Trump
+- Kyiv
+- Volodymyr Zelenskyy
+organisations:
+- United Nations General Assembly
 ---
 
 ## The Ukrainian president added that he had just finished a "positive and productive meeting with President Trump" in New York on Tuesday.

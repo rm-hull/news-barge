@@ -12,6 +12,12 @@ categories:
 - York
 - True Crime
 image: https://www.yorkpress.co.uk/resources/images/21234174.jpg?type=og-image
+locations:
+- Haxby Road
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 *(Image: North Yorkshire Fire & Rescue Service)*

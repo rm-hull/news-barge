@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Chelan Hills Fire
+- Douglas County
+- Kent
+- Orondo
+- Washington
+people:
+- Robert Lister
+- Tyler Caille
+organisations: []
 ---
 
 An 18-year-old in Washington state has been arrested for the investigation of manslaughter and arson in connection with a deadly July 4 fire, a county sheriff said Thursday.

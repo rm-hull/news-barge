@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Automotive
+locations:
+- Bengaluru
+- Carrum
+- Delhi
+- Hyderabad
+- India
+- Kolkata
+- Mumbai
+- Pune
+people:
+- CarDekho
+- Karan Jain
+- Uber
+organisations:
+- CarDekho
+- Carrum Mobility
+- McKinsey
+- Revv, Jain
+- TechCrunch
+- Uber Black
 ---
 
 Uber has invested $10 million in Indian fleet management startup Carrum Mobility in a Series B round as the ride-hailing giant increases its reliance on large fleet operators to supply vehicles and drivers in the South Asian nation.

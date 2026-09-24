@@ -13,6 +13,40 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Bayeux Around Britain
+- Downing Street
+- England
+- France
+- Great Court
+- Great Russell Street
+- Greater Manchester
+- Iran
+- London
+- UK
+- Ukraine
+- Windsor Castle
+people:
+- Andy Burnham
+- Camilla
+- Charles
+- Emmanuel Macron
+- George Osborne
+- Harold Godwinson
+- Igor Tulchinsky
+- Keir Starmer
+- King
+- Lisa Nandy
+- Macrons
+- Nicholas Cullinan
+- Norman Conquest
+- van Heel
+organisations:
+- Bayeux Tapestry
+- British Museum
+- EU
+- Labour
+- WorldQuant
 ---
 
 The King, the Queen, the prime minister and the French president visited the Bayeux Tapestry together to mark the historic return of the centuries-old artwork to the UK.

@@ -13,6 +13,54 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aryna Sabalenka
+- Australia
+- Cincinnati
+- Flushing Meadows
+- Germany
+- Kazakhstan
+- Madrid
+- Miami
+- New York
+- Rome
+- Toronto
+- Washington
+- Wimbledon
+people:
+- Alex de Minaur
+- Alexander Zverev
+- All
+- Aryna Sabalenka
+- Ben Shelton
+- Carlos Alcaraz
+- Coco Gauff
+- Daniil Medvedev
+- Diana Shnaider
+- Ekaterina Alexandrova
+- Elena Rybakina
+- Felix Auger-Aliassime
+- Flavio Cobolli
+- Frances Tiafoe
+- Hailey Baptiste
+- Iga Swiatek
+- Jannik Sinner
+- Jessica Pegula
+- Karolina Muchova
+- Linda Noskova
+- Margaret Court
+- Mirra Andreeva
+- Novak Djokovic
+- Roland Garros
+- Sara Bejlek
+- Sorana Cirstea
+- Taylor Fritz
+organisations:
+- Aryna Sabalenka
+- Cincinnati
+- New York
+- Pegula
+- WTA
 ---
 
 ![Aryna Sabalenka reacts during practice at the 2026 US Open](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/75e1/live/5060e260-a2d0-11f1-941c-8741c1a72471.jpg)

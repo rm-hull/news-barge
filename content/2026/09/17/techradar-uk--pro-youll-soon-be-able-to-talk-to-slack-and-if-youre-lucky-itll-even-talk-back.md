@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/xfdbhHBweThVCebG6jxawT-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- '## Slackbot'
+- Mike Moore
+- Rob Seaman
+- Slack
+organisations:
+- '**Slackbot'
+- B2B
+- B2C
+- EVP & GM
+- Google News
+- ITProPortal
+- Salesforce
+- Slack
+- Slackbot
+- Surface
+- TechRadar Pro
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/xfdbhHBweThVCebG6jxawT.jpg) 

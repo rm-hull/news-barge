@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Monks Cross
+- York
+people: []
+organisations:
+- B&M
+- North Yorkshire Police
+- Via
 ---
 
 Police investigating criminal damage at a York shopping centre want to talk to this man.

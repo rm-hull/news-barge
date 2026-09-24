@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/8bc271c334a4bbea1f3b62099c73ca245da22947/333_0_1701_1361/master/1701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b022771cb552e6ddf7efb1da01a07b8
+locations:
+- Aberdeen
+- Dundee
+- Edinburgh
+- Europe
+- Glasgow
+- Scotland
+people:
+- Kirsten Horsburgh
+- Maree Todd
+organisations:
+- NRS
+- National Records of Scotland
+- SDF
+- Scottish Drugs Forum
 ---
 
 New forms of a powerful synthetic opioid have contributed to a sharp rise in Scottish drug deaths, with the latest data showing an 11% increase in fatalities last year

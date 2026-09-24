@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Sports
 - Music
+locations:
+- ANDY FUTERS
+- Croft Circuit
+- Darlington
+- Donington Park
+- Great Britain
+- Middlesbrough
+- Newcastle
+- North East
+- North Yorkshire
+- York
+people:
+- Croft
+- Tom Ingram
+organisations:
+- BTCC
+- Croft Circuit
+- Formula 4
+- Kwik Fit
+- MINI
+- Porsche
 ---
 
 Thousands of motorsport fans descended on Croft Circuit as the Kwik Fit British Touring Car Championship returned to the track near Darlington for an action-packed weekend of racing.

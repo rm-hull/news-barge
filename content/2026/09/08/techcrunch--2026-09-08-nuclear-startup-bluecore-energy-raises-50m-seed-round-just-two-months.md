@@ -12,6 +12,34 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Port of Long Beach
+people:
+- Chris Larsen
+- Kevin Hart
+- Kofi Asante
+organisations:
+- Amazon
+- Bluecore Energy
+- Coast Guard
+- Collab Capital
+- Department of Transportation Maritime Division
+- Google
+- Harlem Capital
+- HartBeat Ventures
+- NRC
+- Navy
+- Ripple
+- Rivian
+- Silverton Partners
+- Slauson & Co.
+- SpaceX
+- TechCrunch
+- Tesla
+- Toyota
+- U.S. Coast Guard
+- U.S. Nuclear Regulatory Commission
+- Uber
 ---
 
 Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.

@@ -11,6 +11,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Ke
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Gemini
+- Gmail Live
+- Google AI
+- Google AI Plus
+- Google I
+- Mac
+- Pro
+- Workplace Business
 ---
 
 Google is launching conversational AI features within Docs, Gmail, and Keep that let users ask questions about their inboxes and documents as well as do tasks using natural-language queries and dictation.

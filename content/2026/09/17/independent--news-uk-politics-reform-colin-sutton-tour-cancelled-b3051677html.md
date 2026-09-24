@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- South Norfolk
+- UK
+people:
+- Ben Goldsborough
+- Colin Sutton
+- Levi Bellfield
+organisations:
+- BBC
+- Labour
+- Metropolitan Police
+- North Norfolk District Council
+- PCC
 ---
 
 Reform UK’s first police and crime commissioner (PCC) has called off a planned national theatre tour after backlash.

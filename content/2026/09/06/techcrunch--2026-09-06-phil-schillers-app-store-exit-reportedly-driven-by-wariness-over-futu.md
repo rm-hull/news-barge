@@ -12,6 +12,16 @@ image: https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jp
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Eddy Cue
+- John Ternus
+- Mark Gurman
+- Phil Schiller
+organisations:
+- App Store
+- Apple
+- Bloomberg
 ---
 
 Why is longtime Apple executive Phil Schiller stepping down from his role as the head of the App Store?

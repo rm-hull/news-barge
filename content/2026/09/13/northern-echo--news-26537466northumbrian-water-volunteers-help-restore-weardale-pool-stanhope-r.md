@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- County Durham
+- Darlington
+- Stanhope Pool
+- UK
+people:
+- Jennie Collingwood
+- Mr Haughton
+- Steve Lumb
+organisations:
+- Darlington
+- Northumbrian Water
+- Weardale Pool
 ---
 
 A team of volunteers is helping to bring a much-loved community pool back into use.

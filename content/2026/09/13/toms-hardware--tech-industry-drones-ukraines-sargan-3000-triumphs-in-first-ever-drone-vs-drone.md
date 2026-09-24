@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/omCd2R3scn4UBVckbmtsDc-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Black Sea
+- Gelendzhik
+- Izumrud
+- U.S.
+- UK
+- Ukraine
+people:
+- GUR
+- Mark Tyson
+- Tom
+organisations:
+- FPV
+- FSB
+- GUR
+- Get Tom's Hardware
+- Google News
+- Main Directorate of Intelligence of Ukraine
+- Ministry of Defense
+- Tom's Hardware
+- UA Navy Telegram
+- USV
+- Ukrainian Navy
 ---
 
 ![Sargan 3000 wins](https://cdn.mos.cms.futurecdn.net/omCd2R3scn4UBVckbmtsDc.jpg) 

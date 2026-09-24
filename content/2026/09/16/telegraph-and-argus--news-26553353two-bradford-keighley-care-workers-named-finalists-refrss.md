@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Clayton
+- Hawkstone
+- Humber
+- Keighley
+- Leeds
+- Longfield House
+- Shann Lane
+- Yorkshire
+people:
+- Karen Jones
+- Raymond "Ray" Morrisroe
+organisations:
+- Cygnet Hawkstone
+- Royal Armouries
+- Yorkshire
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Victoria Avenue
+- Westminster
+people:
+- Tom Gordon
+organisations:
+- '### Political Party'
+- Harrogate Club
+- Independent Parliamentary Standards Authority
+- Knaresborough
+- Liberal Democrat
+- London Marathon Events Ltd
+- MP
+- Members of Parliament
+- Register of Members’ Financial Interests
+- The Harrogate Club
+- The IPSA
 ---
 
 **HARROGATE**— The complete, itemised financial logs detailing political party donations, statutory government allowances, and benefits-in-kind linked to Harrogate and Knaresborough MP Tom Gordon have been formally published across Westminster transparency registers.Tracked through the Independent Parliamentary Standards Authority (IPSA) and the formal Register of Members’ Financial Interests, the legally mandated disclosures map the structural resource limits governing the Liberal Democrat representative’s operation since his election on 4 July 2024.

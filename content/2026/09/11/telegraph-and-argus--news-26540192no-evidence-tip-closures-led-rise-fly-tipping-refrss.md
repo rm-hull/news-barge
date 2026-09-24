@@ -13,6 +13,36 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bingley East
+- Bowling Back Lane
+- Bradford
+- Cons
+- Ford Hill
+- Golden Butts
+- Ilkley
+- Keighley
+- Queensbury
+- Sugden End
+people:
+- Catherine Smith
+- Cllr Ahmed
+- Falak Ahmed
+- Ian Walker
+- Stephen Place
+- Susan Fricker
+organisations:
+- Bingley
+- Bradford Council
+- Council’s Regeneration and Environment Scrutiny Committee
+- HWRS
+- Lab
+- Labour
+- Neighbourhoods and Communities
+- Shipley Area Committee
+- Street Cleansing
+- Street Cleansing and Parks Service Manager
+- then-Labour
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,23 @@ categories:
 - York
 - Arts & Culture
 - History
+locations:
+- Americas
+- Australia
+- Europe
+- France
+- Huttons Ambo
+- North Yorkshire
+- UK
+- West Virginia
+people:
+- Alyson
+- Ms Vogles
+- Rianca Vogles
+organisations:
+- Allied
+- Ethos Heritage CIC
+- Huttons Ambo Local History Group
 ---
 
 ## Ancient Bronze Age axe 'offered to the gods' unearthed in North Yorkshire dig

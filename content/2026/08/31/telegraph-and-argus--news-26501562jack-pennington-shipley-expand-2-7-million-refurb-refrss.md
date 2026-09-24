@@ -16,6 +16,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - History
+locations:
+- Bradford
+- Hird Street
+- Shipley
+- UK
+- Yorkshire
+people:
+- Jack Pennington
+- Mark Levenston
+- Noah Richardson
+organisations:
+- Barclays
+- Channel Socket UK
+- Jack Pennington Ltd
+- Newsquest
+- Ron Hague Ltd
+- 'Shipley ## Firm'
 ---
 
 *(Image: Newsquest)*

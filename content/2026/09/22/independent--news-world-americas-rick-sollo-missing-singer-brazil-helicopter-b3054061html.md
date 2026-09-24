@@ -12,6 +12,30 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/22/8/16/rick-sollo-1aef48e2.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Brazil
+- Porto Belo
+- Santa Catarina
+- Sao Joaquim
+- Urubici
+- Vacas Gordas
+people:
+- Bruno Avelar
+- Heloisa
+- Paulo Soares
+- Renner
+- Rick Sollo
+organisations:
+- 5th Military Fire Brigade Battalion
+- Avelar
+- Black Hawk
+- Brazilian Air Force
+- FAB
+- G1 Globo
+- Instagram
+- Santa Catarina Fire Department
+- Sapicua Radio Agency
+- The Independent
 ---
 
 Musician Rick Sollo was among four people on board a helicopter that has disappeared in Brazil, it has been reported.

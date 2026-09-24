@@ -13,6 +13,12 @@ image: https://static.independent.co.uk/2026/09/03/16/APTOPIX_Venezuela_Oil_1933
 categories:
 - News & Politics
 - UK
+locations:
+- Lake Maracaibo
+- U.S.
+- Venezuela
+people: []
+organisations: []
 ---
 
 Photos show broken oil infrastructure and blackouts on Venezuela's Lake Maracaibo

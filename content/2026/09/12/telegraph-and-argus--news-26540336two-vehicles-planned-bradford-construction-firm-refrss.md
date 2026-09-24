@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bolton Hall Road
+- Leeds
+- Quarry House
+- Teasdale Street
+people: []
+organisations:
+- BRADFORD
+- Chellow Construction
+- Chellow Construction Ltd
+- Newsquest
 ---
 
 *(Image: Newsquest)*

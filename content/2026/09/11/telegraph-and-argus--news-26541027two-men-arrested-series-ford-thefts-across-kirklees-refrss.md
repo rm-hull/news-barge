@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Batley
+- Cleckheaton
+- Faraday
+- Kirklees
+- Liversedge
+- Mirfield
+- West Yorkshire
+people:
+- Pixabay
+organisations:
+- CCTV
+- Crimestoppers
+- Focus Puma
+- Ford Focus
+- Ford Kuga
+- Ford Puma
+- Kirklees Police
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

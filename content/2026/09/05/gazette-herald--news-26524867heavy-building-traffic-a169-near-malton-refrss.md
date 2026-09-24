@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- Old Malton
+people: []
+organisations:
+- AA Traffic
 ---
 
 MOTORISTS are being warned of high and building traffic along a main road in North Yorkshire.

@@ -11,6 +11,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/12/01M31TRH8HXCH7SYKGQR4C6NGN.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Anglesey
+- Bangor Conwy Mon
+- Casnewydd Islwyn
+- London
+- Neath
+- North West of England
+- Senedd
+- Wales
+people:
+- Dan Thomas
+- Helen Jenner
+- Ms Jenner
+- Nigel Farage
+organisations:
+- Reform UK
+- Reform Wales
+- Senedd
+- The Independent
+- Welsh Language
 ---
 
 Helen Jenner has been named the new leader of Reform UK in Wales following the arrest and resignation of Dan Thomas.

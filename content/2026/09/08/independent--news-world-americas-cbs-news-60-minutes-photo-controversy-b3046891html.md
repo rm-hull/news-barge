@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Grand Central
+- Grand Central Station
+- Oyster Bar
+people:
+- Bari Weiss
+- Darin Yates
+- David Andersen
+- Douglas Edwards
+- Edward R. Murrow
+- Jeremy Adler
+- Lesley Stahl
+- Mark Seliger
+- Pete Hegseth
+- Tanya Simon
+- Walter Cronkite
+organisations:
+- CBS News
+- Fake News
+- Liberal Propaganda
+- Oyster Bar
+- The Daily Beast
+- The Independent
 ---
 
 CBS News is pushing back against online claims that a promotional photograph for the upcoming 59th season of “60 Minutes” was digitally altered or artificially generated.

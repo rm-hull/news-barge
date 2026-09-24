@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Ireland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Mind
+organisations:
+- British Gas
+- Cornwall Insight
+- DWP
+- Department for Work and Pensions
+- E.ON
+- EDF
+- Joseph Rowntree Foundation
+- Labour
+- OVO
+- Octopus
+- Ofgem
+- PIP
+- Resilience Fund’
+- Scope
+- Scottish Power
+- The Independent
+- The NHS
+- Turn2us
+- Universal Credit
 ---
 
 Heading into September, the cost of living remains at the forefront of many people’s minds across the UK.

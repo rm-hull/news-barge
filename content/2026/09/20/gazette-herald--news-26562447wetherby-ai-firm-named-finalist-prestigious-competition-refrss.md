@@ -13,6 +13,23 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21473037.jpg?type=og-image
+locations:
+- UK
+- Wetherby
+- Yorkshire
+people:
+- Ben Voysey
+- ConsoneAI
+- Mo Kosar
+- Ms Kosar
+organisations:
+- 2026 Emerging Technologies Competition
+- ConsoneAI
+- DioScor
+- Emerging Technologies Competition
+- Government
+- RSC
+- Royal Society of Chemistry
 ---
 
 *(Image: Supplied)*

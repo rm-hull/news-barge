@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Scarborough Hospital
+- The York
+- York Hospital
+people:
+- Dominic Lipinski
+- Gill Hodgson-Reilly
+- Joe Hague
+- Ms Wells-Munro
+- Sascha Wells-Munro
+organisations:
+- CQC
+- Care Quality Commission
+- Newsquest
+- PA Wire
+- York Hospital
+- York and Scarborough Teaching Hospitals NHS Foundation Trust
 ---
 
 *(Image: Dominic Lipinski/PA Wire)*

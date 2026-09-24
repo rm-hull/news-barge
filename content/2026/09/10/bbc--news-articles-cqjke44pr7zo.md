@@ -10,6 +10,22 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdf5/live/7015bd
 categories:
 - UK
 - News & Politics
+locations:
+- Dover
+- England
+- Langstone Harbour
+- Portsmouth
+people:
+- Andy Mariner
+- Shabana Mahmood
+organisations:
+- BBC
+- Home Office
+- Home Secretary
+- Kent Police
+- National Police Chiefs Council
+- Patriot Platform
+- RNLI
 ---
 
 ![A group of people in black clothing wearing black balaclavas. A number of police officers are in the crowd.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e6b9/live/b9936e00-aba0-11f1-aed2-8d6da8d75094.jpg)

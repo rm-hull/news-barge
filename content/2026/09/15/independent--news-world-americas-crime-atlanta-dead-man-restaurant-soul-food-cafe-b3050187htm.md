@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Atlanta
+- Cleveland Avenue
+- Walter’s
+people:
+- Rick!
+organisations:
+- ABC
+- Atlanta Fire Rescue
+- Atlanta Police Department
+- Crime Scene Unit
+- Fulton County Medical Examiner
+- Homicide Unit
+- Soul Food Cafe
+- WSB-TV
+- Walter’s Soul Food Cafe
 ---
 
 An unidentified man was found dead on Monday morning wedged through a kitchen HVAC vent at Walter’s Soul Food Cafe in southwest Atlanta.

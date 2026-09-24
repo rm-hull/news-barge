@@ -12,6 +12,37 @@ image: https://images.euronews.com/articles/stories/09/89/37/79/1200x675_cmsv2_3
 categories:
 - Europe
 - News & Politics
+locations:
+- Algeria
+- Ceuta.
+- Congo
+- Europe
+- Hirtenberg
+- Jerusalem
+- Jijel
+- Kisangani
+- Kyiv
+- Leobersdorf
+- Lower Austria.
+- New Tashkent
+- Paris
+- Rasuwa Hydropower
+- Rome
+- Rétimajor
+- Seattle.
+- St Peter's Basilica
+- Ukraine
+- Uzbekistan
+- Vienna
+people:
+- Céline Dion
+- Daniil Mireshkin
+- Odysseus
+- Roger Kamba
+organisations:
+- Euronews
+- European Union
+- Royal Monceau
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

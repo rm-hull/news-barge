@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/08/23/21/2219186279..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Capitol
+- White House
+people:
+- Corey Lewandowski
+- Donald Trump
+- Elon Musk
+- Jack Smith
+- Joe Biden
+- Kamala Harris
+- Kash Patel
+- Katie Miller
+- Kristi Noem
+- Maggie Haberman
+- Mike Pence
+- Robert Garcia
+- Stephen Miller
+- Todd Blanche
+organisations:
+- Axios
+- Bloomberg Government
+- Congress
+- Cook Political Report
+- FBI
+- GOP
+- Homeland Security
+- House Oversight Committee
+- Musk
+- Musk-led Department of Government Efficiency
+- New York Times
+- Senate
+- Trump
 ---
 
 The wife of top Trump administration official Stephen Miller says she fears looming legal bills if Democratic wins in the crucial midterm elections lead to congressional subpoenas for the president's inner circle.

@@ -13,6 +13,26 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5MzdlMDA5LTU4ZjQtNGY1Ni04NmFlLTg2NmMyZTRmZDFiZDoxOTZjZDA4Zi00ZWRkLTQ4MDQtYWJlMC05Y2MwYTc2MzI4ZDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Middlesbrough
+- North Yorkshire
+- Northallerton
+- St Margaret of Antioch
+- York
+people:
+- Andrew Riley
+- Christ
+- Elizabeth I
+- James Strangeways
+- Joan of Arc
+- Laura Smith
+- Mr Riley
+- Ms Smith
+- Satan
+organisations:
+- Corpus Christi Guild
+- NOONANS
+- Noonans
 ---
 
 # Metal detectorist strikes gold in Yorkshire field as rings set to fetch £10,000

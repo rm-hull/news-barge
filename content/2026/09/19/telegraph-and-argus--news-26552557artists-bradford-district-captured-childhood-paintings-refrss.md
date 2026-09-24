@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458716.jpg?type=og-image
+locations:
+- Cliffe Castle
+- Keighley
+- London
+- Sandsend
+people:
+- Aunt Hilda
+- Bob Barker
+- Colin Neville
+- Danny Abrahams
+- George Brumfitt
+- Stan Boardman
+- Sue Atkinson
+organisations:
+- Airedale Hospital
+- Bradford Central Library
+- Doncaster Museum Service
+- Doncaster Museum and Art Gallery
+- Keighley & District Local History Society
+- Shipley
 ---
 
 IN 1974, when the Keighley artist, Stan Boardman, exhibited his paintings of childhood memories at Cliffe Castle in Keighley, more than 7,000 visitors flocked to the museum and gallery to see them.

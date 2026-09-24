@@ -12,6 +12,16 @@ categories:
 - York
 - Personal Finance & Investing
 - Lifestyle & Fashion
+locations:
+- Clifton Moor
+- York
+people: []
+organisations:
+- CCTV
+- Email Ben Rhodes
+- Matalan
+- North Yorkshire Police
+- Via
 ---
 
 Police have issued this photograph after a theft at a York store.

@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Gaza Strip
+- Geneva
+- Israel
+people:
+- Benjamin Netanyahu
+- David Shoebridge
+- José Andrés
+- Nochi Mendel
+- Penny Wong
+- Zomi Frankcom
+organisations:
+- ABC
+- Greens
+- Greens’
+- Guardian Australia
+- Hamas
+- IDF
+- Israel Defense Forces
+- Labor
+- Nahal
+- WCK
+- World Central Kitchen
 ---
 
 The Greens have criticised inflammatory statements from the former Israel Defense Forces officer who ordered the attack which killed Zomi Frankcom, accusing the Albanese government of weakness over its failure to halt military exports and impose new sanctions.

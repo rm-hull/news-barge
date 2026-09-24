@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/gZWeSm7TfJqCmsgQBrYCnL-1920-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- D-Tx.
+- US
+- White House
+people:
+- Craig Hale
+- Greg Casar
+- Trump
+organisations:
+- AI
+- Claude-maker Anthropic
+- Congress
+- Craig’s
+- Departments of both the Treasury and Commerce
+- Google News
+- Office of Science and Technology Policy
+- Office of the National Cyber Director
+- Protect Democracy
+- TechRadar Pro
+- Trump
+- US Government
 ---
 
 ![donald trump at trump rally smirking at camera](https://cdn.mos.cms.futurecdn.net/gZWeSm7TfJqCmsgQBrYCnL.jpg) 

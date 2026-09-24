@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Kirkgate
+- North Yorkshire
+- Thirsk
+people:
+- Dad
+- Ian Ashton
+- Jason Bullard
+- Kate Pawlett
+- Lee Jones
+- Mum
+- Neil Jones
+organisations:
+- Guinness
+- Heartbeat
+- Scripps
+- TV Times
+- Thirsk
 ---
 
 *(Image: PMH Images.)*

@@ -16,6 +16,21 @@ categories:
 - History
 - Arts & Culture
 - True Crime
+locations:
+- Dalton Lane
+- Dalton Mills
+- Downton Abbey
+- Downtown Abbey
+- Keighley
+- Peaky Blinders
+people:
+- '**Keighley'
+- Dalton Mills
+- Mike Simmonds
+organisations:
+- Keighley
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
 ---
 
 *(Image: Mike Simmonds)*

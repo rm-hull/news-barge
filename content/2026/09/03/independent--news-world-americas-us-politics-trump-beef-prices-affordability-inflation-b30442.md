@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/09/03/16/download..?trim=0,411,0,41
 categories:
 - News & Politics
 - UK
+locations:
+- Iowa
+- Nebraska
+- Rose Garden
+- U.S.
+- White House
+- White House Rose Garden
+- Wyoming Sen
+people:
+- Brooke Rollins
+- Donald Trump
+- Glenn Beck
+- John Barrasso
+- Montana Sen
+- Ozempic
+- Pete Ricketts
+- Scott MacFarlane
+- Tim Sheehy
+organisations:
+- Bureau of Labor Statistics
+- CNN
+- Cabinet
+- MeidasTouch
+- NewsNight
+- SSRS
+- The Independent
+- The New York Times
+- Trump
+- Truth Social
+- Walmart
 ---
 
 President Donald Trump hosted an “End of Summer BBQ” in the White House Rose Garden Wednesday where his guests were served gourmet hamburgers - a choice that has provoked an uproar in light of the ongoing affordability crisis.

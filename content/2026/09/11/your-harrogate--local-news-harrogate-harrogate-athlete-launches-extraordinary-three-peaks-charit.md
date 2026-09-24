@@ -12,6 +12,26 @@ categories:
 - Local
 - Harrogate
 - Self-Improvement
+locations:
+- Harrogate
+- Ripon
+- Scafell Pike
+- Snowdon
+- Wasdale
+people:
+- Ben Nevis
+- Richard Ebbage
+- Richard’s
+organisations:
+- CRY
+- Heart’
+- ICAN Valencia
+- Ironman Vichy
+- Raw Fitness
+- Raw Fitness Company
+- Royal Marines
+- Royal Navy
+- The Vitruvian
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3d6f608ebb05d5a6.jpg) 

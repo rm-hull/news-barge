@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Barton County
+- Kansas
+people:
+- Barak Richman
+- Joe Vasquez
+- Meischa Zimmerman
+- Neale Mahoney
+- Payton Fuller
+- Roger Marshall
+- Steven Johnson
+organisations:
+- Congress
+- George Washington University
+- Great Bend Regional Medical Center
+- Heartland Regional OBGYN
+- House of Representatives
+- New York Times
+- Stanford University
+- The Independent
+- The New York Times
+- US House of Representatives
 ---
 
 Kansas Republican Senator Roger Marshall filed debt-collection lawsuits against more than 700 former patients during his career as an obstetrician-gynecologist, leading to the arrest of 81 people for missed court appearances, according to a new report.

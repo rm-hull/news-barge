@@ -13,6 +13,18 @@ categories:
 - UK
 - Society & Culture
 - Technology & Software
+locations:
+- PA
+people:
+- Aaron Chown
+- Bill
+- Lauren Edwards
+organisations:
+- Commons
+- End of Life
+- PA
+- Press Association
+- Terminally Ill Adults
 ---
 
 Young people should “be careful” about posting “whatever pops into your head” on social media, an MP has advised as she re-stated an apology for a series of tweets she previously admitted deeply regretting making in her 20s.

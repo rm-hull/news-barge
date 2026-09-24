@@ -12,6 +12,21 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Netherlands
+- North Yorkshire
+- Selby Abbey
+- UK
+people:
+- Bucks Fizz
+- Cheryl Baker
+- Eric Peterson
+- Jay Aston
+- Matt Fisher
+organisations:
+- Buck's Fizz
+- The Fizz
+- Yorkshire
 ---
 
 ![A picture of two men and two women, all wearing dark suits and ties and white shirts. The women have blonde hair and are wearing red lipstick. One of the men has fair hair, the other has dark hair.](https://ichef.bbci.co.uk/ace/standard/917/cpsprodpb/0630/live/f0bd8380-a6d6-11f1-acae-21b536d72e0e.png)

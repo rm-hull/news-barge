@@ -16,6 +16,15 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Martin Lewis
+organisations:
+- BBC Radio 5
+- Government
+- HMRC
+- MoneySavingExpert
+- National Insurance
 ---
 
 *(Image: Getty Images)*

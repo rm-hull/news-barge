@@ -14,6 +14,44 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/14/21/manchester-airport-263bfdd0.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bali
+- Belfast
+- Disneyland Paris
+- Dublin Airport
+- Edinburgh
+- Glasgow
+- Ireland
+- Leeds Bradford
+- Leeds Bradford Airport
+- London Stansted
+- Manchester
+- Nats Prestwick Centre
+- Nats’ Prestwick
+- Paris Charles de Gaulle
+- Scotland
+- UK
+people:
+- Andy Burnham
+- Dan Halpenny
+- Heidi Alexander
+- Martin Rolfe
+- Neal McMahon
+- Nikki Ferguson
+- Steve Heapy
+- Yvonne Moynihan
+organisations:
+- '![Nats'
+- Cirium
+- Civil Aviation Authority
+- Edinburgh Airport
+- Jet2
+- National Air Traffic Services
+- National Airspace System
+- Nats
+- Ryanair
+- The Independent
+- Wizz Air UK
 ---
 
 The beleaguered boss of air traffic control in the UK is facing renewed calls to resign from airlines after a second day of major flight disruption in just one month.

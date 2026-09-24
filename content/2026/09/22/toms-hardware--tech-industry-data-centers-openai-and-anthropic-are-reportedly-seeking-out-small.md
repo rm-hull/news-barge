@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-1920-80.png
+locations:
+- Georgia
+- Mount Pleasant
+- Ohio
+- U.S.
+- UK
+- United States
+- West Virginia
+- Wisconsin
+people:
+- Jabez Tan
+- Tom
+organisations:
+- AI
+- Anthropic
+- CNBC
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Nscale
+- OpenAI
+- PC
+- Stargate
+- Structure Research
+- Tom's Hardware
 ---
 
 ![an under construction data center](https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL.png)

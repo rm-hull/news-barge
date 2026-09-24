@@ -11,6 +11,46 @@ description: Googlebook is officially here, and we got an up-close look and a li
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/2fJjPq6L7dfU9etevjCyVW-1920-80.jpg
+locations:
+- US
+people:
+- Googlebook
+- Lance Ulanoff
+- RAM
+- Sameer Samat
+organisations:
+- Acer
+- Android Ecosystem
+- Apple
+- Asus
+- BBC
+- CNBC
+- CNN
+- Canva
+- ChromeOS
+- Chromebook
+- Dell
+- Gemini
+- Gmail
+- Good Morning America
+- Google News
+- Google Play Store
+- Googlebook
+- Googlebooks
+- HP
+- Intel Core Ultra
+- Kelly and Mark
+- Lance
+- Lenovo
+- Lifewire
+- Linux Terminal
+- MacBook Air
+- Mashable
+- MediaTek
+- Medium
+- Neos
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![Googlebook launch](https://cdn.mos.cms.futurecdn.net/2fJjPq6L7dfU9etevjCyVW.jpg)

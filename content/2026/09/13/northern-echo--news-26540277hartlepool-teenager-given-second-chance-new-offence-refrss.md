@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Hartlepool
+- Hartlepool’s Longhill Industrial Estate
+- Shelly Grove
+people:
+- Aunt
+- Emma Atkinson
+- Ethan Chapman
+- Nicholas Lumley KC
+- Stephen Constantine
+organisations:
+- County Durham
+- Newsquest
+- Teesside Crown Court
 ---
 
 *(Image: Newsquest)*

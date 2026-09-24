@@ -14,6 +14,39 @@ categories:
 - Arts & Culture
 - History
 image: https://static.independent.co.uk/2026/09/02/18/Lucas_Museum_of_Narrative_Art_Preview_7_1_5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chicago
+- Exposition Park
+- Los Angeles
+- Mexico
+- San Francisco Bay Area
+- San Franciso
+people:
+- Banksy
+- Carrie Fisher
+- Diego Rivera
+- Dr. Eloesser
+- Frida Kahlo
+- George Lucas
+- Grogu
+- Judith Baca
+- Leia
+- Leo Eloesser
+- Ma Yansong
+- Mellody Hobson
+- Natalie Portman
+- Norman Rockwell
+- Pablo Picasso
+- Padmé Amidala
+- Slay
+- Yoda
+organisations:
+- Los Angeles Memorial Coliseum
+- Los Angeles Times
+- Lucas Museum
+- Naboo
+- The Associated Press
+- University of Southern California
 ---
 
 “Star Wars” creator George Lucas called his Lucas Museum of Narrative Art a “temple to the people's art” and a project that “almost broke my will.” Seventeen years after it was first envisioned, it will be opening to the public on Tuesday in Los Angeles.

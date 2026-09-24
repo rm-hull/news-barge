@@ -13,6 +13,39 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/01/21/2026-09-01T200231Z_1026682876_RC2IANA9JO2Q_RTRMADP_3_USA-CONGRESS-SHUTDOWN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bronx
+- Kosovo
+- New Hampshire
+- New York
+- New York City
+- Puerto Rico
+- Queens
+- U.S.
+- White House
+people:
+- Alexandria Ocasio-Cortez
+- Chi Osse
+- Chuck Schumer
+- Diamant Hysenaj
+- Donald Trump
+- Hillary Clinton
+- Joe Crowley
+- Kamala Harris
+organisations:
+- AOC
+- Congress
+- Cook Political Report
+- Democratic Socialists of America
+- Federal Election Commission
+- Fox News
+- House
+- NYT
+- New York City Council
+- Republican National Committee
+- Senate
+- The Independent
+- The New York Times
 ---
 
 U.S. Rep. Alexandria Ocasio-Cortez inched closer to a potential 2028 White House run in a new interview that also left open the possibility that she'll challenge powerful fellow New York Democrat Chuck Schumer for his Senate seat.

@@ -12,6 +12,10 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations: []
+people:
+- '## Wintringham'
+organisations: []
 ---
 
 ## Wintringham celebrates success of first horticultural show after bumper turnout

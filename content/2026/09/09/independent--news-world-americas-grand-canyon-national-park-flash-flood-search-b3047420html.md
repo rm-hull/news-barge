@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/09/09/16/11/missinggrandcanyon.jpeg
 categories:
 - News & Politics
 - UK
+locations:
+- Arizona
+- Bright Angel Canyon
+- Colorado River
+- Grand Canyon
+- Grand Canyon National Park
+- Grand Canyon South Rim
+- Phantom Ranch
+- South Rim
+- Texas
+people:
+- Brent Rosenkranz
+- Carrie Smith
+- John Guisti
+- Timothy Smith
+organisations:
+- Arizona’s Department of Environmental Quality
 ---
 
 Arizona’s Grand Canyon National Park announced a recovery plan for the canyon’s water system Tuesday as search operations continue following August’s deadly flash flooding.

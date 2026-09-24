@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- East Anglia
+- Lowestoft
+- Norfolk
+- Pleasurewood Hills
+- Suffolk
+- Wymondham
+people:
+- Richard Lines
+organisations:
+- BBC
+- Pleasurewood Hills
+- Suffolk Fire and Rescue Service
 ---
 
 **Firefighters have rescued 27 people who were stuck on a rollercoaster for up to three hours.**

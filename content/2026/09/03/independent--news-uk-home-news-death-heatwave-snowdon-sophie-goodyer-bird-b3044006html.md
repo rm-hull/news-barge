@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Birmingham
+- Caernarfon Coroners’ Court
+- England
+- Mount Snowdon
+- UK
+- Wales
+- Wyddfa
+people:
+- Kate Robertson
+- Sophie Goodyer-Bird
+- Yr Wyddfa
+organisations:
+- Eryri National Park Authority
+- London Fire Brigade
 ---
 
 A Birmingham woman died of heat stroke while walking down Mount Snowdon during soaring temperatures, an inquest has heard.

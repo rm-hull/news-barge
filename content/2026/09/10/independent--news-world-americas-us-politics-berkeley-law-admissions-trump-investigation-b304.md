@@ -13,6 +13,24 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Israel
+people:
+- Donald Trump
+- Erwin Chemerinsky
+organisations:
+- Berkeley Law
+- Berkeley School of Law
+- Department of Justice
+- Harvard
+- Justice and Education Departments
+- Trump
+- U.S. Supreme Court
+- UC Berkeley
+- UC Berkeley School of Law
+- University of California
+- University of North Carolina
 ---
 
 Federal officials from the Justice and Education Departments alleged on Wednesday that admissions procedures at the University of California, Berkeley School of Law intentionally favored Black applicants while discriminating against white and Asian candidates.

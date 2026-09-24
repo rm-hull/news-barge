@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Al-Mughayyir
+- Benjamin Netanyahu
+- Hebron
+- Israel
+- Qusra
+- Ramallah
+- UK
+- West Bank
+- al-Mughayyir
+people:
+- Abu Alia
+- Abu Naim
+- Al-Nassan
+- Ed Miliband
+- Khalil Abu Alia
+- Omar al-Nassan
+- Waheed Abu Naim
+organisations:
+- United Nations Office for the Coordination of Humanitarian Affairs
 ---
 
 Two Palestinian teenagers have been shot dead in the West Bank as the military razed an entire village near Hebron in the latest escalation of violence in the occupied territory.

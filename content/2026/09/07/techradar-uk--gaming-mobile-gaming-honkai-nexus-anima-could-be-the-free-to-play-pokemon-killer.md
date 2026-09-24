@@ -10,6 +10,29 @@ image: https://cdn.mos.cms.futurecdn.net/KSn32MDjjBTUPPTyeqS52R-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- Gamescom
+people:
+- Alan Wen
+- Baldur
+- Game Freak
+- Hoyoverse
+organisations:
+- Digital Spy
+- Edge
+- FANDOM
+- Games TM
+- GamesMaster
+- Google News
+- Hoyoverse
+- Kotaku UK
+- Official Playstation Magazine
+- PC
+- Rock Paper Shotgun
+- Stuff
+- TechRadar
+- The Guardian
+- The Telegraph
 ---
 
 ![A promotional Honkai: Nexus Anima screenshot.](https://cdn.mos.cms.futurecdn.net/KSn32MDjjBTUPPTyeqS52R.jpg) 

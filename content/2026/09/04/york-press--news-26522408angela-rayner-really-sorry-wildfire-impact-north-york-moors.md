@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Langdale Moor
+- North York
+- North York Moors
+- North York Moors National Park
+- North Yorkshire
+- RAF Fylingdales
+- Scarborough
+- Whitby
+people:
+- ANGELA Rayner
+- Alison Hume
+- Andy Burnham
+- Angela Rayner
+- Friend
+- Kevin Hollinrake
+- Malton
+organisations:
+- Conservative Party
+- Farming Recovery Fund
+- Flood Recovery Framework
+- House Of Commons
+- House of Commons
+- Labour
+- NYMNPA
+- North York Moors National Park Authority
+- State for Housing, Communities and Local Government
+- Thirsk
 ---
 
 ANGELA Rayner has said she is ‘really sorry to hear’ about the impacts of wildfires on the North York Moors.

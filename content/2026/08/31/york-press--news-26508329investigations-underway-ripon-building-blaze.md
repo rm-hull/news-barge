@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Boroughbridge
+- Harrogate
+- North Yorkshire
+- Ripon
+people: []
+organisations: []
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,52 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aveiro
+- Birmingham
+- Dorset
+- Essex
+- Gloucestershire
+- Hertfordshire
+- London
+- Mo
+- NHS
+- Nottinghamshire
+- Portugal
+- Shetland
+- Vienna
+- West Midlands
+- West Yorkshire
+people:
+- Alison Hammond
+- Clara
+- Connie
+- Danni
+- Donna
+- Gabe
+- Gary
+- Mo
+- Molly
+- Moyin
+- Myke
+- Nigella Lawson
+- Nikki
+- Noel Fielding
+- Paul Hollywood
+- Prue Leith
+- Shannon
+- Tarte de Nata
+- Tom
+- Yannis
+organisations:
+- BBC
+- Channel 4
+- Essex
+- HGV
+- Love Productions
+- Nottinghamshire
+- PA Wire
+- TV
 ---
 
 *(Image: Patch Dolan/Channel 4/Love Productions, via PA Wire)*

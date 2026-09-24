@@ -11,6 +11,26 @@ description: UBTech has opened a robot factory wherein autonomous devices can pr
 image: https://cdn.mos.cms.futurecdn.net/NfLk5th7LGpBP8GHwegwui-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- Guangxi Zhuang Autonomous Region
+- Liuzhou
+people:
+- Alex Blake
+- Fang Jianxin
+organisations:
+- 1X
+- Agibot
+- Apple
+- Creative Bloq
+- Google News
+- MacFormat
+- National Bureau of Statistics of China
+- Seoul Economic Daily
+- TechRadar
+- UBTech
+- Walker S and Cruzr
+- iMore
 ---
 
 ![UBTech Walker S2](https://cdn.mos.cms.futurecdn.net/NfLk5th7LGpBP8GHwegwui.jpg) 

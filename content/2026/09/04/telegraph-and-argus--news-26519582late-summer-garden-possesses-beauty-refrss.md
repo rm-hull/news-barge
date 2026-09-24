@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Beningbrough Hall Gardens
+- Himalayan Garden
+- Himalayan Sculpture Garden
+- Malton
+- Piet Oudolf
+- Ripon
+- Scampston Hall Walled Garden
+- Sculpture Park
+- York
+- Yorkshire
+people:
+- Andrew *(Image
+- Andrew Jackson
+- Scamspton
+organisations:
+- BBC Gardeners’ World
+- Helmsley Walled Garden
+- New Build Manifesto
+- York Gate Garden
 ---
 
 THERE are still a few days to go before astronomical autumn is with us. Late summer is the time when gardens reveal their character. The exuberance of early summer has passed and what remains is something more truthful.

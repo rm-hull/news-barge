@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Barnsley
+- Thurnscoe
+- Windsor Street
+people:
+- Brandon Champion
+organisations:
+- Sheffield Magistrates' Court
 ---
 
 # Man charged after woman shot with air rifle in Barnsley

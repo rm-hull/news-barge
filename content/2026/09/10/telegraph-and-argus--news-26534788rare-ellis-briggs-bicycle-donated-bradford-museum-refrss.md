@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Bradford
+- Ellis Briggs
+- Germany
+- Halifax
+- Newsquest
+- Shipley
+- UK
+- West Yorkshire
+people:
+- Ellis Briggs
+- Heather Millard
+- Ian Walker
+- Jane Nugent
+- Jonathan Crabtree
+- Mike Simmonds
+- Neil Crabtree
+organisations:
+- Bradford Council
+- Bradford District Museums and Galleries
+- Bradford Industrial Museum
+- Ellis Briggs Cycles
+- Many Hands
+- Newsquest
 ---
 
 *(Image: Mike Simmonds/Newsquest)*

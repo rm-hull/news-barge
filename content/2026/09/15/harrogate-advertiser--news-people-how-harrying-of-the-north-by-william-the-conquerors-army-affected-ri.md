@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - History
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjNlYjk5OWZhLTZiZDctNDY5Ny05MmUyLTliOTg4ZmI1YTg2ZDozOTNlN2FiNS03MmM4LTRlNzQtYWM2NC1lNGMzZDMyZGQ5NmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bishop Monkton
+- North of England
+- North’
+- Ripon
+- William the Conqueror
+people:
+- Norman
+- Peter Lewis
+- William the Conqueror
+organisations:
+- Bishop Monkton Local History Group
+- Fountains Abbey
+- Methodist Schoolroom
+- National Trust
+- UNESCO-listed Fountains Abbey
+- Yorkshire
 ---
 
 # How 'Harrying of the North’ by William the Conqueror’s army affected Ripon area's greatest historic site

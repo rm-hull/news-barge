@@ -14,6 +14,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bayeux
+- Britain
+- England
+- Helmsley
+- Hurworth
+- London
+- Middlesbrough
+- Normandy
+- North York Moors
+- North Yorkshire
+- Ponthieu
+- Rievaulx Abbey
+- Rievaulx Terrace
+- Rockliffe
+- Teesdale
+people:
+- Charles Alfred Stothard
+- Edward the Confessor
+- Guy
+- Harold
+- William the Conqueror
+organisations:
+- Boro
+- British Museum
+- Dominic Lipinski
+- English Heritage
+- Ionic Temple
+- Middlesbrough FC
+- Rievaulx Abbey
+- Society of Antiquaries
+- Southampton
 ---
 
 TICKETS to see the Bayeux Tapestry in London are sold out until December and such has been the buzz of excitement about the opening of the exhibition this week, the next batch are expected to sell out very quickly when they are released on October 21.

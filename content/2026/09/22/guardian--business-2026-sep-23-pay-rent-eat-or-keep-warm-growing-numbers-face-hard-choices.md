@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/1b4cc66ec44bbc0382faf767f2a0587c86abea54/207_245_2662_2129/master/2662.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78b35b26f98efdeeb76f2c1dcf48b9b4
+locations:
+- London
+- Merseyside
+- Trussell
+- UK
+- Wirral
+people:
+- Beatrice Orchard
+- Laura Braddock
+- Trussell
+organisations:
+- Department for Work and Pensions
+- LHA
+- Resolution Foundation
 ---
 
 Do you prioritise paying the rent, putting food on the table or keeping the house warm in winter? In practice, says Laura Braddock, a single mum from Wirral, Merseyside, you always pay the rent first and improvise the rest. “If I’ve got a roof over our head, then everything else I can muddle through.”

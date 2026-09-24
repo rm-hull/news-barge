@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Maricopa County
+- Mesa
+- Phoenix
+- Sunshine
+- The Arizona Republic
+- U.S.
+people:
+- Andy Biggs
+- Boy
+- Jakob Blodgett
+- Katie Hobbs
+- Kris Mayes
+- Myriam Villarreal
+- Rachel Mitchell
+- Robert Pastor
+- Sunshine
+- Tommy McKone
+organisations:
+- AP
+- Arizona Department of Child Safety
+- DCS
+- Department of Child Safety
+- Hobbs
+- Hobbs’
+- Maricopa County Sheriff’s Office
+- Mayes'
+- Sunshine Residential
+- Sunshine Residential Homes
+- The Associated Press
+- Villarreal
 ---
 
 The staff caring for Jakob Blodgett said he already had been sneaking candy and refused to take his insulin. An employee at the Arizona group home where the 9-year-old boy was being cared for texted a supervisor about the boy's elevated blood-glucose reading.

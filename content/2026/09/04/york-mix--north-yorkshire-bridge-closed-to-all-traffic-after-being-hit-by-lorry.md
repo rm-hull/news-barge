@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - History
+locations:
+- A684
+- Bedale
+- Grade II Middleham Bridge
+- Leyburn
+- Masham
+- North Yorkshire
+people:
+- Carl Les
+organisations:
+- A1
+- A684
+- North Yorkshire Council
 ---
 
 An historic North Yorkshire bridge is shut for the foreseeable future after being hit by a truck.

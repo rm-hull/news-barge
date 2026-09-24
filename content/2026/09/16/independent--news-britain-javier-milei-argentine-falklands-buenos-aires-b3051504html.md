@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Argentina
+- Britain
+- Dublin
+- Falkland Islands
+- Falklands
+- Iran
+- Israel
+- Sea Lion
+- South Atlantic
+- Tierra del Fuego
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Débora Rey
+- Javier Milei
+- Mariel Borruto
+- Navitas
+organisations:
+- Navitas Petroleum
+- Rockhopper Exploration
+- Sea Lion
+- The Associated Press
+- ___ Associated Press
 ---
 
 An Argentine federal judge on Wednesday ordered British and Israeli companies to stop developing an oilfield off the Falkland Islands, opening a new legal front in the decades-old sovereignty dispute between Argentina and Britain that Argentine President Javier Milei has revived in recent weeks.

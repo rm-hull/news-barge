@@ -11,6 +11,44 @@ description: MapQuest is the new mapping darling, topping download lists, but it
 image: https://cdn.mos.cms.futurecdn.net/gGsVUXqCdbkceqyLcVw8Fk-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York City
+- Penn Station
+- US
+people:
+- Donald Trump
+- Doug Berger
+- Lance Ulanoff
+- MapQuest I
+organisations:
+- AOL
+- App Store
+- Apple Maps
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google Maps
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- MapQuest General
+- Mashable
+- Medium
+- System1
+- Today Show
+- Transit
+- US Geological Survey
+- USGS
+- Waze
+- Ziff Davis, Inc
 ---
 
 ![MapQuest](https://cdn.mos.cms.futurecdn.net/gGsVUXqCdbkceqyLcVw8Fk.jpg) 

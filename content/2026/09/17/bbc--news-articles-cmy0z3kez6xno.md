@@ -13,6 +13,31 @@ categories:
 - Sports
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg
+locations:
+- Afghanistan
+- Afghanistan.
+- Kabul
+- Lahore
+- Mazar-i-Sharif
+- Pakistan
+- Peshawar
+- Punjab
+people:
+- Anayatullah Momand
+- Mubin
+- Nooria
+- Sajjad Haider Khan
+organisations:
+- Amnesty International
+- BBC
+- Hayat Balkh Institute of Health Science
+- Kabul University
+- Lahore High Court
+- Medical and Dental Council
+- Ministry for Foreign Affair
+- Nooria
+- PMDC
+- UN
 ---
 
 ![An Afghan female student attends Kabul university on July 6, 2010 in Kabul, Afghanistan.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg)

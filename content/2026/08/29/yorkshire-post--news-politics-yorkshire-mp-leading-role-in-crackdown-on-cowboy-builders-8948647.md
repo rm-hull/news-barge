@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Halifax
+- Yorkshire
+people:
+- Kate Dearden
+- Ms Dearden
+organisations:
+- '## Halifax'
+- MP
 ---
 
 # Yorkshire MP leading role in crackdown on ‘cowboy builders’

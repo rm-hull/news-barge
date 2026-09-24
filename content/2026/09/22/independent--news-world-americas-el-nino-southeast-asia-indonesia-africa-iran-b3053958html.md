@@ -15,6 +15,54 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/05/Southeast_Asia_El_Nino_53783.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Bangkok
+- Cambodia
+- Central America
+- India
+- Indonesia
+- Iran
+- Jakarta
+- Laos
+- Malaysia
+- Mekong
+- Pacific Ocean
+- Singapore
+- South America
+- Southeast Asia
+- Thailand
+- U.S.
+- United Kingdom
+- Vietnam
+people:
+- Boonmark Marksuuk
+- Eddy Martono
+- Erma Yulihastin
+- Hussen
+- Kareff Rafisura
+- Kongmeng Ly
+- Paul Teng
+- Reno
+- Zeb Hogan
+organisations:
+- AP
+- Associated Press’
+- Disaster Risk Reduction Division
+- Economic and Social Commission for Asia
+- El Nino
+- Goldman Sachs
+- HSBC’s Global Investment Research
+- ISEAS-Yusof Ishak Institute
+- Indonesian Palm Oil Association
+- Mekong River Commission
+- Ministry of Agriculture and Food Security
+- National Oceanic and Atmospheric Administration
+- Research Center for Climate and Atmosphere
+- U.N
+- U.N.
+- United Nations’ World Food Program
+- University of Nevada
 ---
 
 All signs are pointing toward a record-breaking El Nino this year, which experts say may cause severe drought in Asia and other extreme weather across the world, threatening food security for millions of people.

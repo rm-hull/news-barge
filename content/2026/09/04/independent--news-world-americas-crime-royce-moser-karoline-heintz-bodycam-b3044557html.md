@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Beallsville
+- North Strabane Township
+- PennWest California
+- Pennsylvania
+- Washington County
+people:
+- Karoline Heintz
+- Rachel Moser
+- Royce Moser
+organisations:
+- California Borough Police Department
+- PennWest California University
+- Washington County Jail
 ---
 
 A chilling 37-minute police bodycam video released Thursday captures the gruesome moment officers discovered the body of a Pennsylvania college student hidden inside her own vehicle — a brutal killing her teenage boyfriend blamed on a "demon," court records show.

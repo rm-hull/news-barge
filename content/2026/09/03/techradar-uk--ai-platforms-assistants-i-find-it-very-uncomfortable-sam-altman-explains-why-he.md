@@ -11,6 +11,24 @@ description: Sam Altman’s smart glasses confession is a huge clue about OpenAI
 image: https://cdn.mos.cms.futurecdn.net/o3fZbP7CRSPBqyzSX9nZPW-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- New York City
+people:
+- Eric Hal Schwartz
+- Jony Ive
+- Sam Altman
+organisations:
+- AI
+- Altman
+- Apple
+- Google Gemini
+- Google News
+- Meta
+- OpenAI
+- Samsung
+- TechRadar
+- Voicebot.ai
 ---
 
 ![Jony Ive and Sam Altman](https://cdn.mos.cms.futurecdn.net/o3fZbP7CRSPBqyzSX9nZPW.jpg) 

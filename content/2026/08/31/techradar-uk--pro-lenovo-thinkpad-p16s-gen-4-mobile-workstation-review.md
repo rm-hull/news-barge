@@ -10,6 +10,25 @@ description: A surprisingly thin, lightweight workstation with a pro-grade GPU a
 image: https://cdn.mos.cms.futurecdn.net/VLzV4w2XmrxRC4QyzvWwg-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- ChatGPT
+- UK
+- US
+people:
+- AI
+- Claude
+- Collin
+organisations:
+- AMD
+- Amazon
+- B&H Photo
+- Blackwell GPU
+- Gearadical
+- Gemini
+- Intel
+- Lenovo
+- TechRadar Pro
+- ThinkPad
 ---
 
 ### TechRadar Verdict

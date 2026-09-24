@@ -13,6 +13,33 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Atlant Aero
+- Donetsk Oblast
+- Kherson
+- Kramatorsk
+- Kyiv
+- Lyman
+- Moscow
+- Russia
+- Sloviansk
+- Syzran
+- Taganrog
+- Ukraine
+- Zaporizhzhia Oblast
+people:
+- Andrii Biletskyi
+- Mykhailo Semkin
+- Oleksandr Prokudin
+- Vitali Klitschko
+organisations:
+- 3rd Army Corps
+- Kherson Region Military Administration
+- McDonald's
+- Special Operations Forces
+- Telegram
+- Ukrainian General Staff
+- Zaporizhzhia Oblast Military Administration
 ---
 
 ## It comes as a Ukrainian unit launched a counteroffensive against Russian forces near the city of Lyman in eastern Ukraine, according to the unit's commander.

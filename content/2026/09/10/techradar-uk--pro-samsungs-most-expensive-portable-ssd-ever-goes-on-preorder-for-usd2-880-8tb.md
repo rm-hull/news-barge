@@ -10,6 +10,18 @@ description: Samsung's 8TB P9 portable SSD offers USB4 connectivity, 4,000 MB/s 
 image: https://cdn.mos.cms.futurecdn.net/NejUbjTuqWjDG8RPjPsADk-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- 8TB
+- AES
+- B&H
+- Efosa
+- Google News
+- P9
+- SSD
+- Samsung Magician Software
+- TechRadar Pro
 ---
 
 ![Samsung 8TB P9 USB4 Portable SSD](https://cdn.mos.cms.futurecdn.net/NejUbjTuqWjDG8RPjPsADk.png) 

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- London
+people:
+- Alice Hoffman
+- Antonia Owens
+- Beezus
+- Denise Di Novi
+- Gillian Owens
+- Joey King
+- Kylie
+- Maisie Williams
+- Nicole Kidman
+- Ramona
+- Sally
+- Sandra Bullock
+organisations: []
 ---
 
 Sandra Bullock and Nicole Kidman view “Practical Magic” very differently today than they did when they made it 28 years ago.

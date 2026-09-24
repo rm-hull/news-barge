@@ -16,6 +16,23 @@ categories:
 - History
 - Sports
 - News & Politics
+locations:
+- England
+- Ground Zero
+- Knaresborough
+- Manhattan
+- New York
+- New York City
+- UK
+people:
+- )* Bruce
+- Bruce Reid
+- Bruce Reid)* Bruce
+- Patrick Sison
+organisations:
+- North Yorkshire Fire and Rescue Service
+- The Press
+- World Trade Center
 ---
 
 *(Image: Bruce Reid)*

@@ -13,6 +13,34 @@ categories:
 - UK
 - Religion & Spirituality
 - Arts & Culture
+locations:
+- Kentucky River
+- New Castle
+- North Dakota
+- Port Royal
+- The Berry Center
+people:
+- Christ
+- Derek Peterson
+- God
+- Him
+- Jayber Crow
+- Marce Catlett
+- Norman Wirzba
+- Russell Moore
+- Tanya
+- Wendell Berry
+organisations:
+- AP
+- Associated Press
+- Christianity Today
+- Culture and Agriculture
+- Duke Divinity School
+- Facebook
+- International Brotherhood of Contraries
+- Lilly Endowment Inc
+- The Conversation US
+- Young Jayber
 ---
 
 For Kentucky author Wendell Berry, the environmental crisis he lamented to such great effect in his essays, poetry and fiction was also a human crisis — a deeply spiritual one.

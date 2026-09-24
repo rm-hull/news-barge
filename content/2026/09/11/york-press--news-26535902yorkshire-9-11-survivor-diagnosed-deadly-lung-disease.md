@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Ground Zero
+- Hudson River
+- New York
+- North Yorkshire
+- Northallerton
+- South Tower
+- Staten Island
+- Twin Towers
+- UK
+- US
+- Washington
+people:
+- Paul Berriff
+organisations:
+- North Tower
+- The Press
+- World Trade Center
 ---
 
 *(Image: Paul Berriff)*

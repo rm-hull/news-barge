@@ -15,6 +15,39 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/17/Immigration_ICE_Finding_Detainees_74722.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Adelanto
+- Berkeley
+- California
+- Chicago
+- Cuba
+- Guantanamo Bay
+- Minneapolis
+- New York City
+- U.S.
+- United States of America
+people:
+- Atenas Burrola Estrada
+- Donald Trump
+- Greg Chen
+- Michelle Mendez
+- My Khanh Ngo
+- Stephen Miller
+organisations:
+- AP
+- American Civil Liberties Union
+- American Immigration Lawyers Association
+- Amica Center for Immigrant Rights
+- Department of Homeland Security
+- Deportation Data Project
+- ICE
+- National Immigration Project
+- Ngo
+- The Associated Press
+- U.C
+- U.S. Customs and Border Protection
+- U.S. Immigration and Customs Enforcement
+- UCLA
 ---
 
 U.S. Immigration and Customs Enforcement has stopped publicly revealing where it is holding thousands of detainees who are subject to final deportation orders, an unannounced move that has made it far more difficult for lawyers and relatives to find them, according to current and former officials familiar with the practice.

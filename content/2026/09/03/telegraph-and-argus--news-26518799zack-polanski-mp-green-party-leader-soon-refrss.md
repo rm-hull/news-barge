@@ -12,6 +12,30 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Gaza
+- Holborn
+- Israel
+- London Borough of Camden
+- St Pancras
+people:
+- Andrew Feinstein
+- Andy Burnham
+- Frank Dobson
+- Keir Starmer
+- Zack Polanski
+organisations:
+- Camden New Journal
+- GREEN Party
+- Green Party
+- Greens
+- Hamas
+- Holborn
+- Labour
+- Liberal Democrats
+- London Assembly
+- PA
+- Reform
 ---
 
 *(Image: PA)*

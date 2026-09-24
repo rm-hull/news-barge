@@ -16,6 +16,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Michigan
+- Midwest
+- US
+- United States
+- Washington
+- West Coast
+people:
+- Abdul El-Sayed
+- Alice Speri
+- David Smith
+- Joseph Gedeon**
+- Rachel Leingang**
+- Shrai Popat
+organisations:
+- Democratic Senate
+- House
 ---
 
 We’re less than two months from the midterm elections that could have an outsized impact on the future of the United States.

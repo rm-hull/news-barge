@@ -13,6 +13,51 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Bangladesh
+- Birmingham
+- Edgbaston
+- England
+- Headingley
+- Lord's
+- Pakistan
+- South Africa
+- Southampton
+- Sri Lanka
+- UK
+people:
+- '**(Brook'
+- '**(Root'
+- '**(Tongue'
+- Abbas
+- Azan Awais
+- Babar
+- Ben Duckett
+- Ben Stokes
+- Brendon McCullum
+- Emilio Gay
+- Imran Khan
+- Jacob Bethell
+- Joe Root
+- Jordan Cox
+- Kevin Pietersen
+- Lawrence
+- Masood
+- Mike Hesson
+- Mohammad Ali
+- Muhammad Abbas'
+- Ollie Robinson
+- Razaullah
+- Sarfaraz Ahmed
+- Smith
+- Stephen Fleming
+organisations:
+- England
+- Essex
+- Root and Cox
+- Sky
+- XI
 ---
 
 Highlights: Root and Cox guide England to victory after early scare

@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21492006.jpg?type=og-image
+locations:
+- Bradford
+- Lower Grange
+- Manningham
+people:
+- Mustafa
+organisations:
+- Black Nike Trainers
+- Bradford CID
+- WYP)* Police
 ---
 
 *(Image: WYP)*

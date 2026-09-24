@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Argentina
+- Canada
+- Mexico
+- Qatar
+- Spain
+- US
+people:
+- Instagram
+- Jorge Messi
+- Lionel Messi
+organisations:
+- Barcelona
+- Copa América
+- France
+- Inter Miami
+- Paris Saint-Germain
 ---
 
 ## The decision comes shortly after the death of his father, Jorge Messi, which prompted the former Barcelona and Paris Saint-Germain player to consider his future.

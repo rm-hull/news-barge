@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/13390590.jpg?type=og-image&xType=0&yType=4
+locations:
+- Billingham
+- County Durham
+- Teesside
+- UK
+people:
+- Cheeky
+- Clinton Baptiste
+- Danny McLoughlin
+- Dara Ó Briain
+- Ed Byrne
+- Faizan Shah
+- Frankie Boyle
+- Katherine Ryan
+- Mark Nelson
+- Nina Conti
+organisations:
+- BBC Ryan
+- Comedy Forum
+- Edinburgh Fringe
+- Forum Theatre
+- Forum Theatre Billingham
+- Netflix
+- Tees Active
+- Teesside TV
 ---
 
 One of the UK's biggest comedy stars is heading to Teesside later this year, bringing her razor-sharp wit to a major stand-up event.

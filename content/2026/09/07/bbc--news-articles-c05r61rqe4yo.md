@@ -14,6 +14,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Brighton
+people:
+- Leigh Day
+- Next
+organisations:
+- Appeal Tribunal
+- Asda
+- Birmingham City Council
+- Employment Appeal Tribunal
+- Employment Tribunal
+- Hove City Council
+- Leigh Day
+- Morrisons
+- Next
+- Sainbury's
+- Tesco
 ---
 
 ![A next storefront with people outside it.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/83ff/live/152fc380-aacf-11f1-9f87-35997bdaf8f4.jpg)

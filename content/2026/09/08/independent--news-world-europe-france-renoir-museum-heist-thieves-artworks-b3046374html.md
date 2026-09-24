@@ -12,6 +12,35 @@ categories:
 - UK
 - Arts & Culture
 - History
+locations:
+- Cagnes-sur-Mer
+- Europe
+- France
+- French Riviera
+- Musée du Pays Châtillonnais
+- Musée d’Orsay
+- Nice
+- Paris
+- Parma
+- Renoir Museum
+- Wingen-sur-Moder
+people:
+- Bryan Masson
+- Coco Lisant
+- Eugenie
+- Henri Matisse
+- Jeune
+- Madame Colonna Romano
+- Paul Cézanne
+- Pierre-Auguste Renoir
+organisations:
+- Cagnes-sur-Mer
+- Carabinieri
+- Europol
+- Le Louvre
+- Musée Lalique
+- Nice-Matin
+- Renoir’s Fish
 ---
 
 A manhunt is underway after thieves broke into the Renoir Museum on the French Riviera early on Tuesday and stole several paintings worth an estimated €9 million, the local mayor said.

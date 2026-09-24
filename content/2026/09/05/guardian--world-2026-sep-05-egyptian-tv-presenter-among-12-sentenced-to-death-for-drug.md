@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cairo
+- Egypt
+people:
+- Sarah Khalifa
+organisations:
+- Akhbar el-Yom
+- Al-Ahram
+- Egyptian Commission for Rights and Freedoms
 ---
 
 An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.

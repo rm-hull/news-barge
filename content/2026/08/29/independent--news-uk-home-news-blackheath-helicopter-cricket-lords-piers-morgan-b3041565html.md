@@ -13,6 +13,24 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Darfur
+- Ethiopia
+- Guildford
+- London
+- Lord's Cricket Ground
+- Lord’s Cricket Ground
+- North Wales
+people:
+- Izzy Upton
+- Mum
+- Pete
+- Peter Melhuish
+- Piers Morgan
+organisations:
+- BBC
+- Blackheath Cricket Club
+- Kids for Kids
 ---
 
 A village cricket player has raised enough money to fly by helicopter from his wedding in Wales to Lord’s Cricket Ground to captain his team in a can’t-be-missed final.

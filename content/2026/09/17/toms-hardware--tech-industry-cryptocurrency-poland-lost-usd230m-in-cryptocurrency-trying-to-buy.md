@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- Dubai
+- Poland
+- U.S.
+- UK
+- Venezuela
+people:
+- Bruno Ferreira
+- Hannon
+- Kam Tse
+- Tom
+organisations:
+- Financial Times
+- Get Tom's Hardware
+- Google News
+- Lexcor Energy
+- Orleen
+- Orlen
+- PC
+- PDVSA
+- PNL
+- Synergy
+- Tom's Hardware
+- USDT
+- VARA
 ---
 
 ![Oil tanker in harbor](https://cdn.mos.cms.futurecdn.net/9LkEinKqmxvEtVdmeQwgLo.jpg) 

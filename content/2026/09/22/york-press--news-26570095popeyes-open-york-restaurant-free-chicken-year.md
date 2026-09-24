@@ -13,6 +13,21 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21374681.jpg?type=og-image
+locations:
+- Chelmsford
+- Church Street
+- Louisiana
+- New Orleans
+- UK
+- York
+people:
+- Nic Crilly-Hargrave
+- Tom Crowley
+organisations:
+- '![]()Popeyes'
+- Instagram
+- Popeyes UK
+- PopeyesUK
 ---
 
 ## Fast food giant unveils York opening - first customers could eat free for a year

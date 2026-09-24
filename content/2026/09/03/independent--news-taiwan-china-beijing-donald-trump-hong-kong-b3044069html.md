@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bangkok
+- Beijing Zion Church
+- Canada
+- China
+- Hong Kong
+- Japan
+- Taiwan
+- U.S.
+- United States
+- Zion Church
+people:
+- Boaz
+- Bob Fu
+- Donald Trump
+- Ezra Jin
+- God
+- Ruth Wang
+- Sean Long
+- Xi Jinping
+- Zhang Kai
+- ___ Wu
+organisations:
+- AP
+- American Institute in Taiwan
+- Beijing Municipal Bureau of Justice
+- ChinaAid
+- Democratic Progressive Party
+- Mainland Affairs Council
+- Public Security Bureau
+- The Associated Press
+- VDoor Law Firm
+- Zion Church
 ---
 
 A Chinese lawyer who defended a prominent underground church in Beijing fled to Taiwan and is seeking help for resettlement, following mounting pressure from Chinese authorities on her firm and her colleagues.

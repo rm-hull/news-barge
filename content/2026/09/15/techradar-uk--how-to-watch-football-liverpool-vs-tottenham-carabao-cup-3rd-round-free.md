@@ -13,6 +13,92 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Abu Dhabi
+- Anfield
+- Australia
+- Canada
+- Kudus
+- Liverpool
+- London
+- Marmoush
+- Oz
+- Tel
+- Tottenham
+- UK
+- US
+people:
+- Adrian Back
+- Alexis Mac Allister
+- Alisson
+- Andoni Iraola
+- Andy Robertson
+- Araujo
+- Barcola
+- Bentancur
+- Bergvall
+- Chambers
+- Davies
+- Dominic Solanke
+- Fernandes
+- Frimpong
+- Gakpo
+- Gallagher
+- Giorgi Mamardashvili
+- Gomez
+- Gravenberch
+- Gray
+- Isak
+- Jacquet
+- Kerkez
+- Kinsky
+- Lewis Koumas
+- Liverpool:** Mamardashvili
+- Mac Allister
+- Maddison
+- McConnell
+- Munoz
+- Rio Ngumoha
+- Roberto de Zerbi
+- Savio
+- Senesi
+- Szoboszlai
+- Tosin
+- Tottenham:** Dubravka
+- Trey Nyoni
+- Udogie
+- Van Hecke
+- Van de Ven
+- Wataru Endo
+organisations:
+- Anfield
+- Atletico Madrid
+- Atletico de Madrid
+- Charlton
+- DAZN Canada
+- Formula 1
+- FourFourTwo
+- Fulham
+- Future Publishing
+- ITV4
+- ITVX
+- Liverpool FC
+- NBA
+- Newsweek
+- NordVPN
+- Paramount
+- Red Bull
+- Reds
+- Sky Sports
+- Sky Sports Football
+- Spurs
+- TechRadar
+- The Liverpool
+- Tottenham
+- World Soccer Magazine
+- Yahoo
+- beIN Sports 2
+- onITVX
 ---
 
 ![Alexis Mac Allister of Liverpool celebrates after scoring a goal to make it 2-1 during the UEFA Champions League 2026/27 League Phase MD1 match between Liverpool FC and Atletico de Madrid at Anfield](https://cdn.mos.cms.futurecdn.net/RVgqjxWw28YWjmNCaSEotC.jpg) 

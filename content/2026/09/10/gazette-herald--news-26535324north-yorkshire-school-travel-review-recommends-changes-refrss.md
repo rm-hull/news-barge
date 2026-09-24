@@ -14,6 +14,19 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Buttertubs Pass
+- England
+- Fleet Moss Road
+- Keld
+- Kidstone Pass
+- Kirkby Stephen
+- The Stang
+people:
+- Annabel Wilkinson
+- Cllr Wilkinson
+organisations:
+- North Yorkshire Council
 ---
 
 *(Image: North Yorkshire Council)*

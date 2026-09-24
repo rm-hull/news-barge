@@ -14,6 +14,29 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- Brighton
+- China
+- U.S.A.
+- UK
+- US
+people:
+- Andy Burnham
+- Dario Amodei
+- Donald Trump
+- Jonathan Reynolds
+- Louise Haigh
+- Ms Haigh
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- BBC Breakfast
+- Elon Musk
+- Government
+- OpenAI
+- SpaceXAI
+- TUC
 ---
 
 The Government will “heed the warnings” of artificial intelligence (AI) experts who have highlighted the risks the technology could pose, First Secretary Louise Haigh will say on Tuesday.

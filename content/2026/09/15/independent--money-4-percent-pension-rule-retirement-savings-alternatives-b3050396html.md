@@ -14,6 +14,13 @@ categories:
 - UK
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Bengen
+people:
+- William Bengen
+organisations:
+- Bank of England
+- Office for National Statistics
 ---
 
 How much you can safely withdraw from your pension is one of the biggest questions in personal finance.

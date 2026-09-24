@@ -12,6 +12,12 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Dark
+- Harrogate
+people: []
+organisations:
+- Rudding Park Hotel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fb7abd397381d57c.jpg) 

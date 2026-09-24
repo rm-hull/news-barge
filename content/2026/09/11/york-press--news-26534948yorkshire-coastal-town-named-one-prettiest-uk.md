@@ -13,6 +13,30 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Castle Combe
+- Cockington
+- Cornwall
+- East Cliff
+- Getty
+- North York Moors National Park
+- Our Yorkshire Farm
+- Port Isaac
+- The Horngarth
+- UK
+- Whitby Abbey
+- Whitby Museum
+people:
+- Amanda Owen
+- Bram Stoker
+- Dracula
+- Whitby
+organisations:
+- Brasserie
+- Captain Cook Memorial Museum
+- Pannett Art Gallery
+- The Independent
+- Whitby Abbey
 ---
 
 *(Image: Getty)*

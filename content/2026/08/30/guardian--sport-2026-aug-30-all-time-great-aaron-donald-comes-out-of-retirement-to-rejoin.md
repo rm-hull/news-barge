@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Sports
 - Careers & Productivity
+locations:
+- SoFi Stadium
+people:
+- Aaron Donald
+- Matthew Stafford
+- Myles Garrett
+- Pro Bowler
+- Sean McVay
+organisations:
+- Cleveland Browns
+- ESPN
+- Los Angeles
+- Los Angeles Rams
+- NFC West
+- NFL
+- San Francisco 49ers
 ---
 
 Aaron Donald, one of the greatest defensive players in NFL history, is coming out of retirement to rejoin his only professional team, the Los Angeles Rams.

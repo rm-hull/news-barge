@@ -13,6 +13,29 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Mount Sinai
+- Mount Sinai West
+- New York
+- New York City
+- U.S.
+- United Kingdom
+people:
+- Andrew Spiers
+- Drorit Or
+- Mark Noar
+- Megan Billow
+- Zoë Armstrong
+organisations:
+- AP Fund for Journalism
+- American College of Obstetricians & Gynecologists
+- Cleveland Clinic
+- EndoSure
+- Endometriosis Foundation
+- FDA
+- National Health Service
+- U.S. Food and Drug Administration
+- Ziwig
 ---
 
 When Zoë Armstrong got an ultrasound report showing signs of endometriosis, she called her mom and cried. After years of suffering and seeking help from doctors, she finally had an answer.

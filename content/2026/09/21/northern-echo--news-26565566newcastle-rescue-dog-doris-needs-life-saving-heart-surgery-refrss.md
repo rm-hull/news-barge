@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thenorthernecho.co.uk/resources/images/21477673.jpg?type=og-image&xType=0&yType=271
+locations:
+- County Durham
+- Darlington
+- KELLY MCGILL
+- Newcastle
+- North East
+- Northumberland
+- Romania
+people:
+- Doris
+- Kelly McGill
+organisations:
+- Dogs Trust
+- Love4Dogs Rescue
+- PDA
 ---
 
 *(Image: KELLY MCGILL)*

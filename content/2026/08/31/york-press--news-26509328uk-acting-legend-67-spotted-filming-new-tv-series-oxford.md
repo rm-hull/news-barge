@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Alfred Street
+- Down Cemetery Road
+- Easterhill Avenue
+- Oxford
+- UK
+people:
+- Dame Emma
+- Emma Thompson
+- Luther
+- Mick Herron
+- Ms Wilson
+- Ruth Wilson
+- Zoe Boehm
+organisations:
+- Apple TV
+- Oxford University
+- Radcliffe Camera
+- The Bear
+- York City Screen
 ---
 
 ## UK acting legend, 67, spotted filming new TV series

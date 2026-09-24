@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/25/14/1200x675_cmsv2_e8ef2ab8-0d93-5549-86a0-cad7f53ea7f5-9922514.jpg
+locations:
+- Bogotá
+- Colombia
+people: []
+organisations:
+- Ministry of Cultures
+- National Incentives Program
 ---
 
 Hundreds of artists and performing arts students protested outside Colombia’s Ministry of Cultures in Bogotá, using music, dance, puppets and giant banners to voice their opposition to government budget cuts.

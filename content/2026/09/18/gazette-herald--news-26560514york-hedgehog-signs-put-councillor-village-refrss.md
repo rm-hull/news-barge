@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Main Street
+- UK
+- Wheldrake
+- York
+people:
+- Christian Vassie
+- Cllr Vassie
+- Dave Atkinson
+- Gary Taylor
+- Wheldrake
+organisations:
+- City of York Council
+- Department for Transport
+- Government
+- IUCN
+- Liberal Democrat
+- Red List of British Mammals
+- The International Union for Conservation of Nature’s
 ---
 
 A COUNCILLOR has defied opposition to the installation of signs warning drivers about hedgehogs on a York village's roads by putting them up himself.

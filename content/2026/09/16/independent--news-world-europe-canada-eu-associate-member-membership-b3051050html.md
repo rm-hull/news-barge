@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- China
+- Europe
+- Germany
+- Ottawa
+- Russia
+- Strasbourg
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Donald Trump
+- Mark Carney
+- Mark Manger
+- Ms von der Leyen
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Parliament
+- European Union
+- State of the European Union
+- University of Toronto
 ---
 
 The European Union will open the door for Canada to become its first "associate member", European Commission President Ursula von der Leyen said on Wednesday as Ottawa seeks out closer ties with Europe amid a deepening spat with Washington.

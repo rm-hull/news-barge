@@ -14,6 +14,27 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Anak Krakatau
+- Bandung
+- Banten
+- Husein Sastranegara Airport
+- Indonesia
+- Jakarta
+- Lampung
+- Pacific Ocean
+- Pacific “Ring of Fire
+- Pagar Alam
+- Radin Inten II Airport
+- South Sumatra
+- Sunda Strait
+- West Java
+people:
+- Dudy Purwagandhi
+organisations:
+- Atung Bungsu Airport
+- Halim Perdanakusuma Airport
+- Soekarno-Hatta International Airport
 ---
 
 Flights to and from Indonesia’s capital of Jakarta resumed early Tuesday after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights.

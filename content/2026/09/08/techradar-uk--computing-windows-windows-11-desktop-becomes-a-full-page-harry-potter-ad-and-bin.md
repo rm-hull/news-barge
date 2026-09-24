@@ -11,6 +11,20 @@ description: '''I have uninstalled Bing Wallpaper with extreme prejudice'': Wind
 image: https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Bing Wallpaper
+- Harry Potter
+- Redditor
+organisations:
+- Bing Wallpaper
+- Google News
+- Hachette UK
+- Harry Potter
+- Microsoft
+- Reddit
+- Redditor
+- Windows Latest
 ---
 
 ![Woman disgusted by her Windows 11 laptop](https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U.jpg) 

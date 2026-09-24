@@ -11,6 +11,19 @@ description: In our tests, we found Munbyn's thermal label printer "makes light 
 image: https://cdn.mos.cms.futurecdn.net/WG9yvogEjLgX9mmQtdNR8Y-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+people:
+- Jim
+- Wayne Williams
+organisations:
+- DAC
+- Munbyn
+- PC
+- RW403B
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Munbyn RealWriter 403B during our review](https://cdn.mos.cms.futurecdn.net/WG9yvogEjLgX9mmQtdNR8Y.jpg) 

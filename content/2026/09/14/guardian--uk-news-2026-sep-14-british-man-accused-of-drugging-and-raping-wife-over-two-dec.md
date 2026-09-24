@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Greater Manchester
+- Minshull Street
+- Stockport
+people:
+- Rick Jackson
+organisations: []
 ---
 
 A man has pleaded guilty to drugging and sexually assaulting his wife over a period of 20 years as he admitted 60 criminal offences.

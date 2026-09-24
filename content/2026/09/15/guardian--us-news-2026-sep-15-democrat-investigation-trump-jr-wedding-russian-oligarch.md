@@ -12,6 +12,29 @@ image: https://i.guim.co.uk/img/media/15d020dd33e5a7c1514b462b89266651c47fafbb/4
 categories:
 - UK
 - News & Politics
+locations:
+- Bahamas
+- US
+- White House
+people:
+- Bettina
+- Don
+- Donald Trump
+- Donald Trump Jr
+- Robert Garcia
+- Susie Wiles
+- Trump Jr
+- Trump Jr.’s
+- Umar Kremlev
+- Vladimir Putin
+organisations:
+- Axios
+- Democrats’
+- Department of Defense
+- Guardian
+- House
+- ProPublica
+- Trump Jr
 ---
 
 Robert Garcia, the top Democrat on the House oversight committee, is investigating potential ties between the White House and a Russian oligarch who paid for a portion of Donald Trump Jr’s wedding.

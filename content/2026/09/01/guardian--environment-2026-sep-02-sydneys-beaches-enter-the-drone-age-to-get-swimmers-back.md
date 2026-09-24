@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Barangaroo
+- Bondi
+- Bronte
+- Coogee
+- Cronulla
+- Marrinawi Cove
+- NSW
+- North Steyne Beach
+- Palm Beach
+- Parramatta
+- Sydney
+- Tamarama
+people:
+- Christopher Pepin-Neff
+- Hey Taha
+- Jason Iggleden
+- Leah Stewart
+- Taha Kafil-Hussain
+organisations:
+- Coogee Shark Drones
+- Drone Shark App
+- Guardian Australia
+- Instagram
+- Pepin-Neff
+- SLS NSW
+- Surf Life Saving NSW
+- Surf Life Saving New South Wales
+- University of Sydney
 ---
 
 “Hey Taha, what’s the visibility like?” shouts a man with a towel slung over his shoulder.

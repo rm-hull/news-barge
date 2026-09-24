@@ -15,6 +15,33 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Americas
+- Central and
+- Colombia
+- Ecuador
+- Europe
+- Iraq
+- Middle East
+- Mideast
+- North Macedonia
+- Panama
+- Peru
+- Slovakia
+- South America
+- Tunisia
+- U.S.
+- US
+- Western Hemisphere
+people:
+- Marco Rubio
+- Trump
+organisations:
+- Congress
+- Peru US Rubio
+- State Department
+- The Associated Press
+- Trump
 ---
 
 US strips millions in military aid from Europe and Mideast to back Trump-aligned nations in Americas

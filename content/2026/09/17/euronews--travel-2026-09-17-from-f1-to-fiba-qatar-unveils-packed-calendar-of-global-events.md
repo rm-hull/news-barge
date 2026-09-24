@@ -12,6 +12,30 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Doha
+- Gulf
+- Lusail
+- Qatar
+people:
+- Al Mahmoud
+- Angham
+- Hans Zimmer
+- Jassim Al Mahmoud
+- Saint Levant
+- Steve Harvey
+organisations:
+- Art Basel
+- Formula 1
+- FuelFest
+- Hamad International
+- Harry Potter
+- Lusail International Circuit
+- MotoGP
+- Qatar Airways
+- Qatar Calendar
+- US TV
+- Visit Qatar
 ---
 
 ## More than 560 events are planned through 2027, with major sports, concerts and festivals on the programme as Qatar looks to build on record visitor numbers.

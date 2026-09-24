@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/LpdNB8hFhCgFMmHteyX7td-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Dagda
+- Dagsion
+- Part II
+- Part III
+- Thermae
+people:
+- Balor
+- Bertrand
+- Cai
+- Dagsion
+- Deitrich
+- Dietrich
+- Divine Sovereign
+- Fabio
+- Flame Lord
+- Fortuna
+- Harry Padoan
+- Leda
+- Solel
+- Theodora
+organisations:
+- Blaze Arts
+- HP
+- JRPG
+- Nintendo Switch
+- TechRadar
 ---
 
 ### TechRadar Verdict

@@ -14,6 +14,52 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Black Sea
+- Black Seas
+- Boryspil
+- Brovary
+- Bucha
+- Dnipro
+- Dnipropetrovsk
+- Donetsk
+- Kerch Strait
+- Kharkiv
+- Kherson
+- Kramatorsk
+- Kryvyi Rih
+- Kyiv
+- Machine-Building Plant
+- Moscow
+- Myropillia
+- Novoslobidske
+- Obukhiv
+- Odesa
+- Russia
+- Samara
+- Sea of Azov
+- Sloviansk
+- Snizhne
+- Sumy
+- Tolyattikauchuk
+- Ukraine
+- Vyshhorod
+- Yasnohirka
+- Zaporizhzhia
+people:
+- Oleh Kiper
+- Oleksandr Hanzha
+- Robert "Brovdi" Browdi
+- Vadym Filashkin
+organisations:
+- Air Force
+- FPV
+- General Staff
+- Kyiv
+- Odesa
+- S-8000 Banderol
+- Ukrainska Pravda
+- Unmanned Systems Forces
 ---
 
 ## The strikes hit several regions, with Odesa suffering particularly badly. At the same time, Kyiv is pursuing an operation against Russia's "shadow fleet", aiming to choke off a key source of war funding

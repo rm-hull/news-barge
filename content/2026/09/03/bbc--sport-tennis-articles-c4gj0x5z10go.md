@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- London
+- Magaluf
+- Wimbledon
+people:
+- Adam Walton
+- Alexander Bublik
+- Andrew Tate
+- Iga Swiatek
+- Jannik Sinner
+- Kyrgios'
+- Nick Kyrgios
+- Novak Djokovic
+- Thanasi Kokkinakis
+organisations:
+- ITIA
+- Instagram
+- International Tennis Integrity Agency
+- Mallorca
+- World Anti-Doping Agency
 ---
 
 ![Nick Kyrgios looks down during a match](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/8ca1/live/ba4fcfa0-a6ff-11f1-9deb-1f1584451e2c.jpg)

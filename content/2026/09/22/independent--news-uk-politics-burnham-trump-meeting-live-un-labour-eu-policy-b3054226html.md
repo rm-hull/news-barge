@@ -14,6 +14,71 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/23/2026-09-21T165111Z_1744499427_RC2SNNA6QWLK_RTRMADP_3_UN-ASSEMBLY-BRITAIN-BURNHAM.JPG?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+locations:
+- Bab al-Mandab
+- Britain
+- Buckingham Palace
+- Canada
+- Central Park
+- Central Park Pond
+- China
+- Europe
+- Iran
+- Manchester
+- Manhattan
+- Middle East
+- New York
+- RAF
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Turkey
+- UK
+- US
+- Ukraine
+- Yemen
+people:
+- '## Burnham'
+- Andy Burnham
+- Donald Trump
+- Emma Reynolds
+- Emmanuel Macron
+- Gordon Brown
+- John Healey
+- Josh Turner
+- Keir Starmer
+- Luke Pollard
+- Marie-France van Heel
+- Mark Carney
+- Pedro Sanchez
+- Philip Shaw
+- Recep Tayyip Erdogan
+- Thomas Moore
+- Thomas Pugh
+- Ursula von der Leyen
+- Volodymyr Zelensky
+- Winston Churchill
+organisations:
+- AI
+- BBC
+- Budget
+- EU
+- European Union
+- Government
+- Investec
+- Made in Europe
+- ONS
+- Office for National Statistics
+- RAF Voyager
+- RSM UK
+- Reform UK Wales
+- Stand 4 Socks
+- The Telegraph
+- Treasury
+- UN General Assembly
+- United Nations
+- United Nations General Assembly
 ---
 
 Economists are warning Andy Burnham that tax rises will be almost certain in this month’s Budget – a worry for the prime minister just as he prepares for his first face-to-face meeting with the famously brusque Donald Trump.

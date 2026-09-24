@@ -14,6 +14,28 @@ categories:
 - Germany
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Europe
+- Germany
+- US
+people:
+- Brexit
+- Brian Dunhill
+- Jonathan Hadida
+organisations:
+- Bloc
+- Credit Unions
+- Dunhill Financial
+- EU
+- FATCA
+- Hadida Tax Advisors
+- IRS
+- Navy Federal Credit Union
+- Revolut
+- State Department
+- State Department Federal Credit Union
+- The Local
+- Wise
 ---
 
 The EU is bringing in a new banking directive which affects non-EU banks dealing with clients who are resident in the EU – for example an American living in Germany who maintains at least one account in the US.

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Northern Ireland
+- Stormont
+people:
+- Cara Hunter
+- Cathy Mason
+- Nick Mathison
+- Paul Givan
+organisations:
+- Alliance
+- BBC
+- Democratic Unionist
+- MLA
+- Sinn Féin
+- Social Democratic and Labour
 ---
 
 Schools in Northern Ireland must give girls the choice to wear trousers as part of their uniforms as well as for PE and games, according to revised guidelines.

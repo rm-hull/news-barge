@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Chagos
+- Iran
+- London Scottish House
+- Russia
+- UK
+- Westminster
+people:
+- Andy Burnham
+- John Healey
+- Kemi Badenoch
+- Rachel Reeves
+- Tan Dhesi
+organisations:
+- Armed Forces
+- BBC
+- British Army
+- British Business Bank
+- Conservative Party
+- Houses of Parliament.
+- Labour Party
+- Mercedes
+- Motability
+- Nato
+- PMQs
+- Politics Essential
+- Tories
+- Tory Party
+- Union
 ---
 
 ![Badenoch is pictured from below the podium where she is giving a speech, at London Scottish House in Westminster, with a royal blue background and a Union flag to her left. She wears her braided hair tied back in a low ponytail, with a navy jacket and a turquoise top.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/866e/live/265146b0-a7a1-11f1-a291-b542ee92de7c.jpg)

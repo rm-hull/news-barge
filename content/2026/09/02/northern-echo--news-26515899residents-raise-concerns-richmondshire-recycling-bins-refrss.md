@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+- Durham
+- Manchester
+- North East
+- Richmond
+- Richmondshire
+- Ryedale
+- Selby
+people:
+- Richard Foster
+organisations:
+- North Yorkshire Council
 ---
 
 New recycling bins are being delivered in the Richmondshire area - but some residents aren’t impressed.

@@ -11,6 +11,20 @@ description: Apple has made a small addition to its stores worldwide, so you can
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/FnRth2ZqFFgpA5YFBX6KJG-2000-80.jpg
+locations:
+- England
+- New York
+- Stockport
+people:
+- Dave
+- David Nield
+- John Ternus
+organisations:
+- Apple Store
+- Gizmodo
+- Google News
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![Apple Store](https://cdn.mos.cms.futurecdn.net/FnRth2ZqFFgpA5YFBX6KJG.jpg)

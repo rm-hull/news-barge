@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brighouse
+- Huddersfield
+- Priestley Grove
+- Taylor Hill
+people:
+- Abdul Iqbal KC
+- Anne-Marie Dinsdale
+- Miss Dinsdale
+- Mollie Briggs
+organisations:
+- ACS Supplies
+- Avocet Dye & Chemical Company
+- Avocet Dye & Chemical Company Ltd
+- Birds Royd Lane
+- Bradford Crown Court
+- Buccaneer Commodore
+- Lloyds Bank
+- POCA
+- Proceeds of Crime
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

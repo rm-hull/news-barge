@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- CLEVELAND
+- Grangetown
+- James Cook University Hospital
+- Teesside Coroners Court
+people:
+- Also
+- Anthony McDonald
+- Hoggard
+- Jaden Wright
+- Jonathan Carroll
+- Man
+- Matthew Blades
+- Natalie Louise
+- Natalie Louise Kirton
+- Natalie Louise McDonald
+- Natalie McDonald
+- Paul Appleton
+- Tom Clough
+- Valentia Foster
+- Valentina Foster
+organisations:
+- Cleveland Police
+- High Court
+- North News & Pictures Ltd
+- THE NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 *(Image: PROVIDED)*

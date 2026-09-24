@@ -12,6 +12,37 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/01/56/1200x675_cmsv2_cf272d61-7151-5608-bc03-a2bd25388e23-9920156.jpg
+locations:
+- Al Hudaydah
+- Bahrain
+- Baish
+- Farasan
+- Iraq
+- Israel
+- Jordan
+- King Khalid International Airport
+- Kuwait
+- Lebanon
+- Marib
+- Middle East
+- Oman
+- Qatar
+- Riyadh
+- Saudi Arabia
+- Taif
+- Taizz
+- UAE
+- US
+- Yanbu
+- Yemen
+people:
+- Stéphane Dujarric
+organisations:
+- Aramco
+- Flightradar24
+- Human Rights office
+- Royal Saudi Air Defense Forces
+- UN
 ---
 
 ## The alerts advised Americans to "be aware of potential flight cancellations, airspace closures, and travel disruptions" and said the conflict could "escalate rapidly."

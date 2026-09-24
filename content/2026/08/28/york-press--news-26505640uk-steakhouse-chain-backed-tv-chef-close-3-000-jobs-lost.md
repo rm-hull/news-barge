@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Ireland
+- UK
+people:
+- Brian Turner
+- Deborah Cutler
+- Jeremy Clarkson
+organisations:
+- 89 Brewers Fayre
+- Applecart Beefeater
+- BBC 1
+- BBC 2
+- Beefeaters
+- Brewers Fayre
+- Christie Owen & Davies Ltd
+- Marketing Week
+- Oxford South Milton Interchange
+- Premier Inn
+- Whitbread
+- Wikimedia UK
 ---
 
 *(Image: Wikimedia UK)*

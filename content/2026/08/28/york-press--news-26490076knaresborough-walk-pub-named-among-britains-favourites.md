@@ -13,6 +13,25 @@ categories:
 - York
 - Travel
 - History
+locations:
+- Britain
+- Burgess Bridge
+- Knaresborough Viaduct
+- Nidd Gorge
+- North Yorks Pizza House
+- Peak District
+- River Nidd
+- Scarborough
+- UK
+- York
+- Yorkshire
+people:
+- Tom Blain
+organisations:
+- AllTrails
+- Regatta
+- The World’s End
+- Yorkshire
 ---
 
 *(Image: Getty)*

@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Harrogate
+- Ilkley
+- Leeds
+- UK
+- Yorkshire
+people:
+- Anouska Seedheeyan
+- Emily Bailey
+- Hannah O'Reilly
+- Jenna Leach
+- Matthew Griffiths
+- Ragan Montgomery
+organisations:
+- LCF Law
+- LCF Residential
+- LPC
+- SQE
+- The Sunday Times
 ---
 
 *(Image: Supplied)*

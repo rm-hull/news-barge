@@ -13,6 +13,28 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6ab0dd9f9510db6ac43.jpg
+locations:
+- Europe
+- North Yorkshire
+- Studley Lodge
+people:
+- Julian Smith
+- Justin Scully
+- Mark Smith
+organisations:
+- Construction
+- Fountains Abbey
+- HACS Group
+- National Trust
+- North Yorkshire Council
+- Ripon City Council
+- Ripon Civic Society
+- Ripon Disability Forum
+- Studley Revealed
+- Studley Royal
+- The HACS Group
+- UNESCO World Heritage Site
+- World Heritage Site
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab0dd9f9510db6ac43.jpg)

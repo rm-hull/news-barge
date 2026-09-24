@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Capitol Building
+- New York
+- Pennsylvania
+- US
+- Washington DC
+people:
+- Meiying Wu
+organisations:
+- BBC
+- Pentagon
 ---
 
 # Watch: Americans remember what they were doing on 9/11

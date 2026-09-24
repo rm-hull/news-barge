@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - History
+locations:
+- Connaught Way
+- Europe
+- Foss Islands
+- Foss Islands Chimney’
+- Longmeadow
+- Moorland Road
+- Morrisons
+- Poppleton
+- Westminster
+- York
+people:
+- '**R.Shenton'
+- Brayton
+- David Wilson
+- Derek Reed
+- Ebor Way
+- Ken Thorpe
+- Mick Horsman
+- Middlethorpe Drive
+- Miliband
+- Moat Way
+- Monty Don
+- Monty I
+- Peter Rickaby
+organisations:
+- CYC
+- City of York Council
+- Labour
+- The Press
 ---
 
 *(Image: City of York Council)*

@@ -13,6 +13,18 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- Knaresborough
+- London
+people:
+- Chris Howden
+- Tom Gordon
+organisations:
+- Knaresborough Lib Dem
+- MP
+- NHS
+- Office of Harrogate
 ---
 
 # Milestone: Office of Harrogate and Knaresborough MP Tom Gordon celebrates 20,000th piece of casework for constituents

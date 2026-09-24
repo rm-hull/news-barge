@@ -15,6 +15,25 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/22/2295567080..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- U.S.
+people:
+- Claude
+- Dario Amodei
+- Demis Hassabis
+- Elon Musk
+- Nick Rowley
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Gemini
+- Google DeepMind
+- Grok
+- OpenAI
+- SpaceXAI
+- U.S. District Court for the Northern District of California
 ---
 
 Major artificial intelligence developers face legal action over claims they entered an unlawful pact to intentionally slow down the momentum of their technical advancements.

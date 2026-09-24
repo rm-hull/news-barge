@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Brighouse
+- Dewsbury
+- Halifax
+- Huddersfield
+- Keighley
+- Leeds Old Road
+- West Yorkshire
+people: []
+organisations:
+- Asda Cemetery Road Superstore
+- Bradford Five Lane Ends
+- Bradford Lidget Green
+- Brighouse
+- Mini Warehouse
+- Morrison
+- Park View House
+- Thornbury Road B&Q
 ---
 
 *(Image: webuyanycar)*

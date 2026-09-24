@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Beijing
+- Downing Street
+- Hong Kong
+- UK
+people:
+- '**"** My'
+- Andy Burnham
+- Caoilfhionn Gallagher KC
+- Ed Miliband
+- Jimmy Lai
+- Keir Starmer
+- Sebastien Lai
+- Wang Yi
+- Xi Jinping
+organisations:
+- Apple Daily
+- Chinese Government
+- Foreign Office
 ---
 
 The son of imprisoned British citizen Jimmy Lai has issued an urgent plea to Andy Burnham to help save his father from a Hong Kong jail “before its too late”.

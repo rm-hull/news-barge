@@ -11,6 +11,27 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/22/06/869e7f1025e4ac569324dbe384560f7cY29udGVudHNlYXJjaGFwaSwxNzkwMTE3OTQ4-2.85927856.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chagos Islands
+- Diego Garcia
+- Downing Street
+- Indian Ocean
+- Mauritius
+- New York
+- UK
+- US
+- United States
+people:
+- Andy Burnham
+- Donald Trump
+- Navim Ramgoolam
+- Navin Ramgoolam
+- Ramful
+organisations:
+- Trump
+- UK Government
+- UNGA
+- United Nations General Assembly
 ---
 
 Andy Burnham has acknowledged that no resolution is currently in place regarding the Chagos Islands deal, but has assured the Mauritian prime minister that he will work towards finding one.

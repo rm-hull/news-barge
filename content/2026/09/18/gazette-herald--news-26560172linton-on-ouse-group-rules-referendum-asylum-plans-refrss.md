@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- Oxfordshire
+- Piddington
+- RAF
+- UK
+- York
+people:
+- Andy Burnham
+- Anna Turley
+- David Skaith
+- Joe Giddens
+- Piddington
+- Ryan McDougall
+organisations:
+- Home Office
+- Labour
+- Linton Action Group
+- PA Wire
+- RAF Linton-On-Ouse
+- RAF Linton-on-Ouse
 ---
 
 *(Image: Joe Giddens/PA Wire)*

@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Brian Byrnes
+organisations:
+- HMRC
+- Head of Personal Finance at Moneybox
 ---
 
 *(Image: Getty Images)*

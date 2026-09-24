@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/08/29/13/28/GettyImages-2291733692.
 categories:
 - News & Politics
 - UK
+locations:
+- Kennedy Center
+- Reflecting Pool
+- U.S.
+- Virginia
+people:
+- David Hearn
+- Donald J. Trump
+- Donald Trump
+- Howard Lutnick
+- Jeanine Pirro
+- Joyce Beatty
+organisations:
+- Commerce
+- D.C.’s
+- Great American State Fair
+- Kennedy Center
+- Lincoln Memorial Reflecting Pool
+- National Mall
+- Reflecting Pool
+- Trump
+- Truth Social
+- WWII Memorial
 ---
 
 Following a weekend trip to his Virginia golf club, President Donald Trump jumped on his Truth Social account to sound off on one his favorite topics: his anger around the state of his signature construction projects to renovate the Kennedy Center and the Lincoln Memorial Reflecting Pool.

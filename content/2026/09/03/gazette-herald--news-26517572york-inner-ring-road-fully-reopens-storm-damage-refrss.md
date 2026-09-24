@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Fishergate Gyratory
+- Newsquest)* York
+- Paragon Street
+- Piccadilly
+- Walmgate
+- York Hospital
+people: []
+organisations:
+- City of York Council
+- First Bus
+- Yorkshire Water
 ---
 
 *(Image: Newsquest)*

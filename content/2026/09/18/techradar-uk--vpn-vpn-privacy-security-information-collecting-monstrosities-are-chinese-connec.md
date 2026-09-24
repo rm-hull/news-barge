@@ -11,6 +11,54 @@ description: From facial recognition to tracking every turn, modern cars have qu
 image: https://cdn.mos.cms.futurecdn.net/8yTfkYjsKrLAD83Z9JWU3X-2121-80.png
 categories:
 - Technology & Software
+locations:
+- Australia
+- Caltrider
+- People's Republic of China
+- UK
+- US
+people:
+- Chiara Castro
+- Jaecoo
+- Jen Caltrider
+- Michael Stokes
+organisations:
+- Article 7
+- BBC
+- BMW
+- BYD
+- CCTV
+- CIA
+- Chiara
+- Emerging Technologies
+- FTC
+- Ford
+- GWM
+- General Motors
+- Google News
+- Great Wall Motor
+- Hyundai
+- Jaecoo
+- Kia
+- Land Rover
+- McKinsey
+- Ministry of Defence
+- MoD
+- Mozilla
+- National Intelligence Law
+- Nissan
+- No Trace
+- Omoda
+- Range Rover
+- SVP
+- Subaru
+- TechRadar
+- Tesla
+- The Guardian
+- Toyota
+- US Federal Trade Commission
+- VPNs
+- Veilant
 ---
 
 ![Interior of a onnected cars, with AI concept + Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/8yTfkYjsKrLAD83Z9JWU3X.png) 

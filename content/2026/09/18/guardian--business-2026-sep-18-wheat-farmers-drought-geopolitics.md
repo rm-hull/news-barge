@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Australia
+- Black Sea
+- Europe
+- Great Plains
+- Kansas
+- Pacific Ocean
+- South America
+- US
+people:
+- Dan Basse
+- Joao Lampreia
+- Mark Welch
+- Nielsen
+- Vance Ehmke
+organisations:
+- AgResource
+- El Niño
+- Freedom24
+- Merrill Nielsen
+- Texas A&M University
+- United Nations’ Food and Agriculture Organization
 ---
 
 Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) Kansas farm.

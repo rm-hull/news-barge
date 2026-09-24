@@ -11,6 +11,39 @@ image: https://media.wired.com/photos/6a9adfcfa78871e1efea97d6/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- America
+- Box
+- Chicago
+- Connecticut
+- Earth
+- France
+- US
+people:
+- Alex Davies
+- Denis Stearns
+- Jack
+- Larry Keener
+- Marler Clark
+- Paul Lachance
+- Timothy D. Lytton
+- Walter Shewhart
+organisations:
+- Centers for Disease Control and Prevention
+- Critical Control Point
+- FDA
+- Food Safety and Inspection Service
+- Gemini
+- HACCP
+- Hazard Analysis
+- International Product Safety Consultants
+- Label Rouge
+- NASA
+- National Academy of Sciences
+- Pillsbury
+- Upton Sinclair
+- W.W. Norton & Company
+- World Health Organization
 ---
 
 In 1906, in response to public outcry that came after Upton Sinclair’s *The Jungle* detailed the revolting conditions in Chicago’s meatpacking plants, the US government passed the Federal Meat Inspection Act. The legislation created what would become known as the Food Safety and Inspection Service, a force of federal employees who would spend their days in stockyards and packing plants, checking livestock for disease both before and after their slaughter. They did their work organoleptically—with their eyes, noses, and hands—an approach soon dubbed “poke and sniff.” This 100 percent testing method worked well enough for spotting the lesions that signaled tuberculosis and cysticercosis (a tissue infection caused by tapeworms), and the federal presence discouraged plants from using illegal preservatives and generally unsanitary practices.

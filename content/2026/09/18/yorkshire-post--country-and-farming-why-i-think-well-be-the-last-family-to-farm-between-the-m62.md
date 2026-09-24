@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Stott Hall
+people:
+- Jill Thorp
+- Paul
+organisations: []
 ---
 
 # Why I think we'll be the last family to farm between the M62 - Jill Thorp

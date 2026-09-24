@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Gledhill Road
+- Leeds Road
+- YOUR
+people:
+- Chris Rees-Gay
+- Eid
+- Ian Reed
+- Mr T’s
+organisations:
+- Bradford Council’s Licensing Panel
+- DWP
+- Mr T’s
+- Public Notice Portal
+- Reform
+- Wyke
 ---
 
 *(Image: T&A)*

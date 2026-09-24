@@ -12,6 +12,26 @@ image: https://static.independent.co.uk/2026/09/01/05/2292444789..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Anfield
+- Gloucester
+- Indo-Pacific
+- Kathmandu
+- London
+- Nepal
+- Rasuwa
+- Trishuli
+- UK
+people:
+- Alastair Chambers
+- Baroness Winterton
+- Lord Wood
+- Stephen Doughty
+organisations:
+- Foreign Office
+- House of Lords
+- Nepali Army
+- UN
 ---
 
 Authorities in Nepal mistakenly announced that a British aid worker had been rescued, confusing him with a survivor of the devastating flash floods that struck the country last week.

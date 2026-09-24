@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Charles Clinkard
+- Corporation Road
+- Eldon Square
+- Gateshead
+- Ireland
+- London
+- Middlesbrough
+- Newcastle
+- North East
+- Redcar
+- TEESSIDE PARK
+- Teesside Park
+- UK
+- YOUR
+people:
+- Catherine Furlong
+- Charles Clinkard
+- Ms Furlong
+- Oliver Bonas
+- Pro Cook
+organisations:
+- Adidas
+- Asics
+- Dr Martens
+- HMV
+- Metrocentre
+- New Balance
+- Nike
+- Office
+- Public Notice Portal
+- TEESSIDE PARK
+- Ugg
 ---
 
 ### What is the Public Notice Portal?

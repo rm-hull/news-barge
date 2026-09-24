@@ -14,6 +14,19 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Boroughbridge
+- Coxwold
+- Easingwold
+- Helmsley
+- Leyburn
+- North Yorkshire
+- Ripon Racecourse
+- Ripon Studley Road
+- Yorkshire Dales National Park
+people: []
+organisations:
+- North Yorkshire Council
 ---
 
 MOTORISTS are being reminded of a series of road closures and controls as the men’s Tour of Britain sweeps across North Yorkshire.

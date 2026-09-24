@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Centenary Crescent
+- North East town Bradshaw
+- Norton
+- Teesside Crown Court
+- Thornaby
+- Vale Drive
+people:
+- Aiden Matthews
+- Declan Moor
+- Francis Laird KC
+- Kim Butler
+- Lee Bradshaw
+- Matthews’
+- Max Cashman
+- Nadine
+organisations:
+- Recorder of Middlesbrough
+- Teesside Crown Court
 ---
 
 The family of a man killed with one punch over a £900 drug debt have spoken of the devastating impact of his death.

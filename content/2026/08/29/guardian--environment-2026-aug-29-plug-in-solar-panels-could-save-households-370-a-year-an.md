@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Germany
+- New Zealand
+- Spain
+- UK
+- United Kingdom
+people:
+- Carl Binning
+- Glen Morris
+- Heidi Lee Douglas
+organisations:
+- Energy Consumers Australia
+- Kiwis
+- Labor
+- Smart Energy Lab
+- Solar Citizens
 ---
 
 Millions of Australians could be saving up to $370 a year on energy bills and doing their bit for the climate crisis if Labor followed the UK’s lead in legalising plug-in solar panels, an advocacy group has said.

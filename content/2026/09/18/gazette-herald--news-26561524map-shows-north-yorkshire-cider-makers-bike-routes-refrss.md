@@ -13,6 +13,44 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bedale
+- Coulton Mill
+- Coxwold
+- Helmsley
+- Howardian Hills
+- Hull
+- Husthwaite
+- Jamaica
+- Medieval England
+- Newburgh Priory
+- North Yorkshire
+- Ouse
+- Scackleton
+- Scandinavia
+- St Lawrence Church
+- Thornborough Cider
+- UK
+- White Horse of Kilburn
+- York
+people:
+- Darren Greenwood
+- Elliott Harrison
+- Nick Burrows
+- Paul Niele
+- York
+organisations:
+- '**York CAMRA'
+- Ampleforth Abbey
+- Cider Country
+- Coulton Mill Cider
+- Howardian Hills Cider
+- Merchant Adventurers
+- NoLo
+- Normandy Vikings
+- Royal Society
+- York CAMRA
+- Yorkshire
 ---
 
 A map has been launched showing the cidermakers of North Yorkshire and how to get to them by bike.

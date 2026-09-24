@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21485786.jpg?type=og-image
+locations:
+- Brough Castle
+- Brough Castle Farm
+- Cumbria
+- Ravenseat Farm
+- Swaledale
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Clive Owen
+- Edith
+- Jessica Ellwood
+- Miles
+- Ravenseat
+- Reuben Owen
+- Sarah Dow
+organisations:
+- Channel 5
+- Jessica's
+- Yorkshire Dales
+- Yorkshire Farm
 ---
 
 *(Image: CHANNEL 5)*

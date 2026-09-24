@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Japan
+people:
+- Jeff Leinbaugh
+- Viktor Tóth
+organisations:
+- Apple
+- Asus
+- Deckard
+- Get Tom's Hardware
+- Pierre-Loup Griffais
+- Valve
+- Vision Products Group
 ---
 
 # Virtual Reality

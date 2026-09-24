@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/19/20/GettyImages-2295141252.jpg?trim=0,643,858,645&width=1200&height=800&crop=1200:800
+locations:
+- '## IRAN'
+- Iran
+- United States
+- White House
+people:
+- Donald Trump
+- Joe Biden
+- Kyle Kondik
+organisations:
+- American Research Group
+- Center for Politics
+- Congress
+- House of Representatives
+- Ipsos
+- Newsweek
+- Reuters
+- Reuters*/Ipsos
+- Senate
+- Trump
+- University of Virginia
 ---
 
 Public support for President Donald Trump has fallen to 32 percent—the lowest mark of his political career—as members of his own Republican party express growing discontent with his handling of the cost of living amid the unpopular war in Iran, a new *Reuters*/Ipsos poll has revealed.

@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Argentina
+- Brazil
+- Falkland Islands
+- Falklands
+- Iran
+- Malvinas
+- North Falkland Basin
+- Stanley
+- Tierra del Fuego
+- UK
+- US
+- Washington
+- White House
+people:
+- Donald Trump
+- Javier Milei
+- Keir Starmer
+- Luiz Inácio Lula da Silva
+- Margaret Thatcher
+organisations:
+- England
+- GB News
+- ICE
+- Milei
+- Nato
+- Navitas
+- Pentagon
+- Reuters
+- Rockhopper
+- UN
+- US Immigration and Customs Enforcement
 ---
 
 President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televised address, citing signs that Donald Trump may reconsider the US position on the islands’ sovereignty.

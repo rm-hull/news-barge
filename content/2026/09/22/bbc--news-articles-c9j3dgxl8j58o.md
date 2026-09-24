@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/288a/live/85c69120-b6a8-11f1-a430-4d16ee157c41.jpg
+locations:
+- Canada
+- Ontario
+- UK
+people:
+- Immy
+- Imogen Nunn
+- Kenneth Law
+- Louise Nunn
+organisations:
+- BBC
+- CPS
+- Crown Prosecution Service
+- Kenneth Law
 ---
 
 ![Imogen Nunn is smiling and looking off camera. She has pale pink hair and a pink checked jacket on, and is wearing dark rimmed round glasses.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/98cf/live/2ba439e0-b6a8-11f1-b1d1-571ed4d7ff2c.jpg)

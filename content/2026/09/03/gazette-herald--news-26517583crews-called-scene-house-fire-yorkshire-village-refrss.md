@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Appleton le Street
+- Malton
+- North Yorkshire
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

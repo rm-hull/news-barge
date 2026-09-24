@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21485733.jpg?type=og-image&xType=0&yType=431
+locations:
+- Bradford
+- UK
+people:
+- Edd Kimber
+- Mark Bourdillon
+- Nigella Lawson
+- Paul Hollywood
+- Tom
+organisations:
+- BBC Good Food
+- Bake From Scratch
+- Delicious
+- Good Morning America
+- Instagram
+- Newsquest
+- Olive
+- Sunday Times
+- The Washington Post
+- West Yorkshire
 ---
 
 A Yorkshire baker who became the first-ever winner of The Great British Bake Off continues to inspire a new generation of talent.

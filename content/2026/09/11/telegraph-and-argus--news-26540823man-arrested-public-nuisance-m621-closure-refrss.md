@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- A643 Elland Road
+- Junction 2
+- Junction 4
+- Leeds
+- UGC
+people: []
+organisations:
+- A61 Hunslet Distributor
+- Inrix
+- M621
+- National Highways
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: UGC)*

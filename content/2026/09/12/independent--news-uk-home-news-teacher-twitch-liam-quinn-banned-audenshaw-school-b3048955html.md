@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- England
+- Greater Manchester
+people:
+- Liam Quinn
+- Mr Quinn
+organisations:
+- Audenshaw School
+- Google Translate
+- Greater Manchester Police
+- IT and Computing
 ---
 
 A secondary school teacher has been banned from the profession after using Google Translate to ask a child to remove their shorts on a streaming platform.

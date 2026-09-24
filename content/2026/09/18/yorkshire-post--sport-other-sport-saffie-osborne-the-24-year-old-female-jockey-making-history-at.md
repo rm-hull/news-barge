@@ -14,6 +14,40 @@ categories:
 - York
 - History
 - Sports
+locations:
+- Britain
+- Doncaster Racecourse
+- Town Moor
+- Winchester
+- Windsor
+people:
+- Brian Ellison
+- Highwayman
+- JJ Hamblett
+- Jamie Osborne
+- Joe Fanning
+- Joseph O’Brien
+- Katie O’Sullivan
+- Niall ‘Slippers’ Madden
+- Rachel Harwood
+- Royal
+- Saffie Osborne
+- Stuart Minting
+- Tolstoy
+- Tom Scudamore
+- William Hill
+organisations:
+- BBC
+- Betfred St Leger
+- Doncaster Racecourse
+- Jack Berry House
+- Leger Legends
+- Malton
+- National Hunt
+- St Leger
+- The Injured Jockeys Fund
+- The Princess Royal
+- Union J
 ---
 
 # Saffie Osborne: The 24-year-old female jockey making history at the St Leger

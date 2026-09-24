@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Birkenshaw
+- Bradford
+- Cleckheaton
+- Oakenshaw
+- West Yorkshire
+people:
+- Cllr Liz Smaje
+- Cllr Smaje
+- Michelle Cross
+- Ms Cross
+organisations:
+- Adults and Health
+- FNC
+- Kirklees Council
+- NHS
+- Physical Disability Care
 ---
 
 A COUNCIL in West Yorkshire has assured families that those who need nursing care will still “absolutely” have a say in the care they receive under a new banding system.

@@ -12,6 +12,25 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS-320-80.png
+locations:
+- Mesa
+people: []
+organisations:
+- AMD
+- Asus Dual OC
+- CUDA
+- FSR
+- Get Tom's Hardware
+- Huawei Arm
+- INT8
+- NVIDIA
+- NVK
+- Nvidia GPUs
+- RPCS3
+- VoidTech
+- Vulkan
+- ZLUDA
+- Zluda
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS-320-80.png)

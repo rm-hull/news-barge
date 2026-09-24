@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Auckland
+- Britain
+- Durham
+- England
+- Hampshire
+- Hartlepool
+- North East
+- River Tees
+people:
+- Austen
+- Boelo
+- Chloe
+- Chris Kamara
+- Jeff Stelling
+- SARAH CALDECOTT
+organisations:
+- British TV
+- Hartlepool United
+- Met Office
+- Rift House Primary School
+- Sky Sports
+- Sky Sports’ Soccer
+- Stelling
+- West Hartlepool Grammar School
 ---
 
 Jeff Stelling, the broadcaster best known for fronting Sky Sports’ Soccer Saturday and inspiring the viral “I don’t know, Jeff” catchphrase, was born in the North East.

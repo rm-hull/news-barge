@@ -13,6 +13,28 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- Bilton
+- Charlotte Bolton
+- Charlotte’s
+- Grove Road
+- Harrogate
+- Woodfield
+- Yorkshire
+people:
+- Charlotte
+- Joanne Bolton
+- Kerry Metcalfe
+- Mum Joanne Bolton
+- Paul Haslam
+organisations:
+- Bilton and Nidd Gorge
+- Harrogate Advertiser
+- Lighthouse Education Trust
+- Lighthouse School Harrogate
+- North Yorkshire Council
+- Woodfield Community Primary School
+- Woodfield Primary School
 ---
 
 # Harrogate family left distraught by mysterious 'disappearance' of memorial to little Charlotte who died aged five

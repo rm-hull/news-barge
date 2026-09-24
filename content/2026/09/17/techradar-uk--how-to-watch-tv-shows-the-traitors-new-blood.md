@@ -11,6 +11,94 @@ image: https://cdn.mos.cms.futurecdn.net/jbcCfP5DBRZCwfWyu8No7H-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Australia
+- Blighty
+- Boston
+- CA
+- California
+- Canada
+- Charleston
+- Florida
+- Gatlinburg
+- Granbury
+- Hattiesburg
+- Houston
+- Indiana
+- Indianapolis
+- Ironworker
+- Jacksonville
+- Kansas
+- Leawood
+- Ligonier
+- Los Angeles
+- Louisiana
+- Mangham
+- Massachusetts
+- Michigan
+- Midland
+- Minnesota
+- Mississippi
+- New Jersey
+- New York
+- Oklahoma City
+- Pennsylvania
+- Phillipsburg
+- San Diego
+- Scotland
+- South Carolina
+- Staten Island
+- Tennessee
+- Texas
+- UK
+- US
+- Wantagh
+- canada
+people:
+- Abbey Benjamin
+- Abby Lee
+- Alan Cumming
+- Arisa Thomas
+- Barrel Racer
+- Ben McDonnell
+- Clyde Moser
+- Dog Groomer
+- Jay Vinnedge
+- Joe Vanella
+- Katie Fites
+- Kim Daily
+- Kriste Lewis
+- Logan Smith
+- Madeline Kostopulos
+- Mark Zgoda
+- Michael Foote
+- Morgan Cook
+- Niyyah Hayes
+- Peacock
+- Saint Paul
+- Shane Beatty
+- Sherry Kuehl
+- Tom Wardley
+- Tomica Adams
+- Victor Vollbrechthausen
+- Wesley Chapel
+- Wyatt Gillespie
+- Xavier Scruggs
+organisations:
+- Ardross Castle
+- BBC iPlayer
+- Film Studies
+- Future Publishing
+- MLB Analyst
+- NBC
+- NordVPN
+- Peacock
+- Real Housewives
+- Sling TV
+- TBC
+- TechRadar
+- University of South Wales
+- YouTube TV
 ---
 
 ![Alan Cumming selects his Traitors during the Round Table in The Traitors: New Blood](https://cdn.mos.cms.futurecdn.net/jbcCfP5DBRZCwfWyu8No7H.jpg) 

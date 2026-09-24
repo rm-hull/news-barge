@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482349.jpg?type=og-image
+locations:
+- Bradford
+- Conservation Area
+- Sunbridge Road
+- YOUR
+people:
+- Mab Hussain
+organisations:
+- Bradford Council
+- Public Notice Portal
+- Telegraph & Argus
+- Unite Union
 ---
 
 *(Image: T&A)*

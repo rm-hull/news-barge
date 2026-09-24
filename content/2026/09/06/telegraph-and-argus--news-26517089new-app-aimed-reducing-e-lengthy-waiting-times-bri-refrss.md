@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bradford Royal Infirmary
+people:
+- Aqiq Akram
+- Chris Storton
+- Kamran Akram
+organisations:
+- Bradford Teaching Hospitals NHS Foundation Trust
+- CQC
+- Calverley
+- Care Quality Commission
+- Kaiz Group Ltd
 ---
 
 TWO businessmen have developed a new app aimed at reducing lengthy A&E waiting times at Bradford Royal Infirmary.

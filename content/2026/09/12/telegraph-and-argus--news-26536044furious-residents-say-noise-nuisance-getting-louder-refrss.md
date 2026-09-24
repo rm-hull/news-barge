@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford
+- Frizinghall
+- Norfolk Gardens
+people:
+- Inayah Sher
+organisations:
+- Bradford Council
+- WhatsApp
 ---
 
 Residents have spoken of sleepless nights after loud late-night drumming echoed through a Bradford neighbourhood, with one woman saying the noise was so sudden and powerful it "sounded like a bomb".

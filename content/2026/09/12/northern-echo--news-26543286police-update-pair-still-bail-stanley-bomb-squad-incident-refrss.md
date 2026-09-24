@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County __Durham
+- Louisa Centre
+- North East Residents
+- North Yorkshire
+- Robert Terrace
+- Shield Row
+- Stanley
+people:
+- PAUL WILLIS
+organisations:
+- Durham Police
+- Post Office Two
 ---
 
 Two men arrested after a haul of explosives 'used to make homemade fireworks' was found at a County __Durham__ home remain on police bail.

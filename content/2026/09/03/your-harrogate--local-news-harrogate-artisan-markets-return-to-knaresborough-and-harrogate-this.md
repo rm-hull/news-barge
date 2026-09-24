@@ -12,6 +12,21 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Harrogate
+- Harrogate’s Valley Gardens
+- Knaresborough Castle
+- North Yorkshire
+- River Nidd
+people:
+- Jackie Crozier
+- Janine Calvert
+organisations:
+- Beau Pens
+- Harrogate Valley Gardens
+- Knaresborough Artisan Market
+- Knaresborough Castle
+- Little Bird Made
 ---
 
 ![](https://mmo.aiircdn.com/409/6a993232039aeb646c5.jpg) 

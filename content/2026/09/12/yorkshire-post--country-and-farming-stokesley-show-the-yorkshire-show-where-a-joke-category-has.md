@@ -16,6 +16,52 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- America
+- Australia
+- Barnard Castle
+- Cleveland Hills
+- Darlington
+- Dromonby Farm
+- Jewitts
+- Kirkby
+- Lancaster
+- London
+- Merthyr Tydfil
+- New Zealand
+- Northallerton
+- Penrith
+- Sam
+- Skipton
+- Spennymoor
+- Stokesley Show
+- Teesside
+- Texel
+- Wombleton
+people:
+- Alan Saxby
+- Alison
+- Andrew Gloag
+- Covid
+- Granddad
+- James Hardisty.
+- John
+- Kate
+- Michael
+- Neal Waters
+- Norman
+- Tom Seymour
+- Will
+organisations:
+- Blues
+- Bull Tankers
+- Malton Bacon Factory
+- NFU
+- Newcastle University
+- SFI
+- St Merryn Meats
+- The Tallest Thistle
+- Yorkshire
 ---
 
 # Stokesley Show: The Yorkshire show where a joke category has become very competitive

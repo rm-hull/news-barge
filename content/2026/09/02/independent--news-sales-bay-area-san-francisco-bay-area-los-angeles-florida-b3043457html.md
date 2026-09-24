@@ -15,6 +15,30 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Real Estate
+locations:
+- Bay Area
+- Detroit
+- Florida
+- Metro
+- Miami
+- Nashville
+- Oakland
+- Orinda
+- San Diego
+- San Francisco
+- San Francisco Bay Area
+- Tampa
+- U.S.
+people:
+- Claude
+- Daryl Fairweather
+- Julio Bermudez
+- OpenAI
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Redfin
 ---
 
 Here’s another place the AI frenzy is making itself felt: the market for luxury homes.

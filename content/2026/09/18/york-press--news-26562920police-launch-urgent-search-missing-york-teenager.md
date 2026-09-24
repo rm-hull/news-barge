@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Cornlands Road
+- Holgate
+- York
+people:
+- Rahim
+organisations:
+- Force Control Room
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

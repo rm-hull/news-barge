@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Cleveland
+- County Durham
+- DL1
+- Filey
+- Hartlepool
+- Huntcliff
+- Marske
+- North East
+- North Sea
+- Redcar
+- Saltburn Pier
+- Scarborough
+- South Gare
+- Tees
+- Teesside
+- UK
+people:
+- Anna Turley
+organisations:
+- British Divers Marine Life Rescue
+- Coastguard
+- Dolphins
+- Northern Echo
+- Tees Valley Wildlife Trust
 ---
 
 Dolphins were spotted playing off Redcar beach on September 14 after a North East MP shared footage of them leaping from the water.

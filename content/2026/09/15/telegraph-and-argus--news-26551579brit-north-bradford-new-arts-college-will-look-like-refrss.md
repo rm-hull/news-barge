@@ -14,6 +14,40 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Croft Street
+- Jacobs Well
+- London
+- Manchester Road
+- North of England
+- Northern England
+- UK
+- YOUR
+- Yorkshire
+people:
+- Adele
+- Amy Winehouse
+- Olivia Dean
+- Tom Holland
+organisations:
+- '## Building'
+- Arts
+- BPI
+- BRIT North
+- Bradford Council
+- Bradford’s
+- Brit North
+- Brit North School
+- Brit School
+- British Phonographic Industry
+- City of Culture
+- Department for Education
+- Jacobs Well Council
+- Public Notice Portal
+- UK City of Culture
+- Urban Design
+- West Yorkshire Combined Authority
 ---
 
 *(Image: BPI)*

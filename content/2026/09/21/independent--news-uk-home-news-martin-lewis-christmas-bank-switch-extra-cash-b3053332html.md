@@ -13,6 +13,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/07/19/14/06/01K4N8SH1TJDZGN8SCNXG6DPQB-(1).jpg?trim=0,56,0,55&width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Martin Lewis
+organisations:
+- Argos
+- Asda
+- Google
+- MSE
+- Money Saving Expert
+- MoneySuperMarket
+- Santander
 ---
 
 With less than 100 days to go until Christmas, Martin Lewis has shared how people can get a “free” £240 to help with costs over the festive period.

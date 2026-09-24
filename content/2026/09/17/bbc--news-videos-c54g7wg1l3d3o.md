@@ -11,6 +11,14 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abef/live/2985fd
 categories:
 - UK
 - News & Politics
+locations:
+- US
+people:
+- Donald Trump
+- Kevin Warsh
+organisations:
+- Fed
+- Federal Reserve
 ---
 
 # Why Trump's hand-picked Fed chair defied him by raising interest rates

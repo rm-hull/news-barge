@@ -13,6 +13,58 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Hollywood
+- Kashmir
+- Light Bradford
+- Mossy Bottom Farm
+- New York
+- ODEON Bradford
+- Saffron Kingdom
+- Thailand
+people:
+- Alan Ritchson
+- Amelia Eve
+- Andrew Garfield
+- Buzz
+- Christopher Nolan
+- Claire Foy
+- Disney
+- Dwight D. Eisenhower
+- Enid Blyton
+- Farmer
+- Gemma
+- Gruffalo
+- Hank Malone
+- Hayao Miyazaki
+- James Stagg
+- Jax
+- Jessie
+- Kubo
+- Liam
+- Luce
+- Mitti De Putt
+- Moana
+- Nicole Kidman
+- Noel Gallagher
+- ODEON Bradford
+- Owens
+- Peter Parker
+- Sandra Bullock
+- Shaun the Sheep
+- Shivam
+- Woody
+- Zach Cregger
+organisations:
+- Excel Entertainment
+- ODEON Bradford
+- ODEON Kids
+- Paw Patrol
+- Pixar
+- Prime Studios
+- Spider-Man
+- The Light Bradford
+- Toy Story
 ---
 
 *(Image: Getty)*

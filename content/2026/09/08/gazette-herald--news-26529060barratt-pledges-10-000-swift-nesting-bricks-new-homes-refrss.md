@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- North Yorkshire
+- UK
+people:
+- Barratt Redrow
+- David Wilson Homes
+- Jo Ainsley
+organisations:
+- Barratt Redrow
+- David Wilson Homes North East
+- Manthorpe
+- RSPB
 ---
 
 A homebuilder in North Yorkshire is taking action to support wildlife by embedding nature into its developments.

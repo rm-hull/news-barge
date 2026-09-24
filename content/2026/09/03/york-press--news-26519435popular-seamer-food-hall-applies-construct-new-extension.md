@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- North Yorkshire
+- Scarborough
+- Seamer
+people:
+- Adrian Wilson
+- Harrison Pick
+- Louise
+organisations:
+- Newby and Scalby Community Hall
+- North Yorkshire Council
+- Wilson'S Food Hall
+- Wilson’s Food & Community Hall
+- Wilson’s Food Hall
 ---
 
 ## North Yorkshire village food hall lodges fresh plans to meet growing demand

@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Iran
+people: []
+organisations:
+- AP
 ---
 
 Photos show destruction and mourning after a strike on an Iranian wedding

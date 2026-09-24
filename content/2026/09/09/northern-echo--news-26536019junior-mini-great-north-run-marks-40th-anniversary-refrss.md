@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Central Station
+- Dean Street
+- Durham
+- Gateshead Metro Station
+- Guildhall Car Park
+- Metro and Shields Ferry
+- Newcastle Quayside
+- North East
+- Orange
+- Quayside West Car Park
+- Sandhill
+- South Shields
+- Swing Bridge
+people:
+- Alex Gray
+- Croft
+- Emily Steel
+- Matty Campbell
+- Peter Rabbit
+- SARAH CALDECOTT
+organisations:
+- Apollo
+- BBC
+- Bionic
+- Dynamite
+- Gladiators
+- Great North Run
+- Newcastle Quayside
+- St Oswald’s Hospice
+- Tyney the Tortoise
 ---
 
 *(Image: SARAH CALDECOTT)*

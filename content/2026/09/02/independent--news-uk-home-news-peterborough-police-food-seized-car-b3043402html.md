@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/09/02/11/58/793159081_3046264039038
 categories:
 - News & Politics
 - UK
+locations:
+- A16
+- Crowland
+- Peterborough
+- Spalding
+people: []
+organisations:
+- Cambridgeshire Police
+- Datatag ID Limited
+- Driver & Vehicle Standards Agency
+- HMRC
+- Lincolnshire Police Rural Crime Action Team
+- Our Rural Crime Action Team
+- Policing Peterborough
+- Rural Crime Action Team
 ---
 
 Police officers discovered more than £5,000 worth of suspected stolen food, including olive oil, chocolate, cheese and chorizo, after pulling over a car that appeared unusually low to the ground.

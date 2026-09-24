@@ -13,6 +13,16 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Harrogate
+- Wacky Warehouse
+- Whinney Lane
+people:
+- Greene King
+organisations:
+- Greene King Pub Partners
+- Squinting Cat
+- The Squinting Cat
 ---
 
 # Pub chain looking for new operators for historic Harrogate pub whose roots go back to 1700

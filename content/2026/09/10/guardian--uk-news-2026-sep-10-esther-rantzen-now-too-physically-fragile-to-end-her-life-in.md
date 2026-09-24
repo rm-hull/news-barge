@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Australia
+- Austria
+- Belgium
+- Canada
+- Netherlands
+- New Forest
+- Spain
+- Switzerland
+- UK
+- US
+people:
+- Esther Rantzen
+- Kim Leadbeater
+organisations:
+- Childline
+- Commons
+- Dignitas
+- Labour
+- Liberal Democrats
 ---
 
 Esther Rantzen has said she is no longer able to travel to Switzerland to end her life because she has become “too physically fragile”.

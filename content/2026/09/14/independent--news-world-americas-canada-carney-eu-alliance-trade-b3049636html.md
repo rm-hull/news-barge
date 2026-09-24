@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Atlantic
+- Britain
+- Canada
+- Europe
+- France
+- Ottawa
+- Strasbourg
+- Toronto
+- U.S.
+- United States
+- Washington
+people:
+- Donald Trump
+- Emmanuel Macron
+- Jon Gray
+- Larry Fink
+- Mark Carney
+- Stephen Harper
+organisations:
+- Air Force One
+- BlackRock
+- Blackstone
+- EU
+- European Parliament
+- European Union
+- Macron
+- The Globe and Mail
+- Wall Street Journal
 ---
 
 Canada is pursuing a "unique alliance" with the European Union as Prime Minister Mark Carney looks to deepen economic ties beyond the United States amid an escalating trade war with Washington.

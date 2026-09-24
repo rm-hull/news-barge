@@ -14,6 +14,31 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- England
+- UK
+people:
+- Andy Burnham
+- Heidi Alexander
+- John Healey
+- Liz McKeown
+- Richard Carter
+- Stuart Morrison
+- Suren Thiru
+organisations:
+- AI
+- BCC
+- Bank of England
+- BoE
+- British Chambers of Commerce
+- Budget
+- G7
+- ICAEW
+- NICs
+- ONS
+- Office for National Statistics
+- Quilter Cheviot
+- The Independent
 ---
 
 Increased use of AI helped the UK economy grow by 0.4 per cent in July, official figures show, in an unexpected boost for Andy Burnham.

@@ -12,6 +12,23 @@ image: https://i.guim.co.uk/img/media/8f7429a42a0eab6a1f80fd1195c42893315ec3d8/3
 categories:
 - UK
 - News & Politics
+locations:
+- New South Wales
+- Sydney
+people:
+- Chris Minns
+- Isaac Herzog
+- Majed Kheir
+- Sue Higginson
+organisations:
+- Blak Caucus
+- Guardian Australia
+- Law Enforcement Conduct Commission
+- Lecc
+- Minns Labor
+- NSW Council for Civil Liberties
+- NSW Greens
+- Palestine Action Group
 ---
 
 Video footage has emerged capturing a New South Wales police officer boasting about “punching” a protester in the head “when he was down”, before the protester was charged with assaulting police.

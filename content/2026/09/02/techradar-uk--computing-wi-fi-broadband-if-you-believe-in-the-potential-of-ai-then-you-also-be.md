@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Winterschladen
+people:
+- Axel
+- Jony Ive
+- Lance Ulanoff
+- Latency’
+- Max Taylor
+- Rob Winterschladen
+- TechRadar
+organisations:
+- AI
+- Apple
+- Axel Metz
+- Esquire
+- Google News
+- Meta Glasses
+- OpenAI
+- SuperMobile
+- TechRadar
+- University of Warwick
+- Vodafone
+- Winterschladen
+- Xtra
 ---
 
 ![VodafoneThree CEO Max Taylor and Lance Ulanoff side-by-side](https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa.jpg) 

@@ -12,6 +12,33 @@ image: https://static.the-independent.com/2026/07/27/09/2264347909..?trim=168,67
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Hollywood
+- Los Angeles
+- Los Angeles City
+- New Mexico
+- Southern California
+- U.S.
+- United States
+people:
+- Adam Schiff
+- Adrin Nazarian
+- Charles Rivkin
+- Donald Trump
+- Duncan Crabtree-Ireland
+- Jon Voight
+- Sean Astin
+organisations:
+- Ad Hoc Committee on Film, Entertainment and Creative Industry
+- Congress
+- Federal Production Incentive
+- IATSE
+- International Alliance of Theatrical Stage Employees
+- Motion Picture Association
+- SAG-AFTRA
+- Trump
+- Truth Social
 ---
 
 President Donald Trump’s call for a federal incentive to bring film and television production back to the United States won support Tuesday from three major unions representing Southern California entertainment workers.

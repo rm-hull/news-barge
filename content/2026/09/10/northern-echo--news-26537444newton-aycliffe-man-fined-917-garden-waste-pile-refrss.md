@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- DURHAM COUNTY
+- Newton Aycliffe
+- North East
+- UK
+- Whinlatter Place
+people:
+- Woman
+organisations:
+- A66
+- Community Protection Notices
+- Durham County Council
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

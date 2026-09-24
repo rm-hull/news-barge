@@ -15,6 +15,29 @@ categories:
 - York
 - True Crime
 - Family & Parenting
+locations:
+- Grimesthorpe
+- Holywell Heights
+- Horvath Snr
+- Robey Street
+- Sheffield
+- Skopova
+- Wincobank
+people:
+- Andrea Skopova
+- Baby S
+- Baby S. They
+- Horvath Jnr
+- Luke Hopkinson
+- Nina Horvathova
+- Peter Horvath Jnr
+- Peter Horvath Snr
+- Tim Spruce
+organisations:
+- Horvath Jnr
+- Horvathova
+- Sheffield Crown Court
+- Sheffield Magistrates’ Court
 ---
 
 # Four in court over murder of newborn baby who suffered 33 wounds in stabbing

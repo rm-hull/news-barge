@@ -15,6 +15,62 @@ categories:
 - Arts & Culture
 - Sports
 - History
+locations:
+- Austin A55
+- Barkerend Road
+- Bedford Workabus
+- Bradford
+- Bradford’s
+- Harmony House
+- Idle Baptist Church
+- Kitchens of Leeds
+- Rodgers
+- St Luke’s Church
+- The Gaumont
+- Windhill
+- Wrose
+- Yorkshire
+people:
+- Andy
+- Andy) Anderson
+- Bigsby Tremolo
+- Billy J Kramer
+- Bob Dylan
+- Donovan
+- Frank Thorpe
+- Fred Power
+- Garth Cawood
+- Goodman
+- Hughie Green
+- IceCream
+- Joe Brown
+- John Anderson
+- John a Gibson Semi-Acoustic
+- Mick Higgins
+- Mike Betts
+- Mike a
+- Moore
+- Robert Castle
+organisations:
+- Bolton Villas Cricket Club
+- Boys Brigade
+- Bradford Rocked
+- East Ward Labour Club
+- Fender Solid
+- Greengates Social Club
+- Idle Working Men’s Club
+- Kirkgate Market
+- Laisterdyke
+- Red Den
+- Red Den’
+- Rolling Stones
+- Sunday School
+- The Beatles
+- The Hollies
+- The Shadows
+- The Tradesmen
+- Top Twenty Club
+- Woodend Club
 ---
 
 THE Tradesmen were in existence for only three years, from 1963-1966. Starting the group showed what can be done with talent and determination, even when you have no funds to speak of.

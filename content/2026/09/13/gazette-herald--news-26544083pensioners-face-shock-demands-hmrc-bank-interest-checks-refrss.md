@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Lucy North
+people:
+- Dame Harriett
+- Dame Harriett Baldwin
+- John-Paul Marks
+- Jonathan Athow
+organisations:
+- Budget
+- Department for Work and Pensions
+- Government
+- HMRC
+- ISAs
+- PA Wire
+- PAYE
+- State Pension
+- Treasury Committee
 ---
 
 *(Image: Lucy North/PA Wire)*

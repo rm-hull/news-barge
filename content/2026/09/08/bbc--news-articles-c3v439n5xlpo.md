@@ -12,6 +12,39 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d2/live/d3c0b1
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Britain
+- Canada
+- Downing Street
+- France
+- Gaza
+- Greater Manchester
+- Heaton Park Hebrew Congregation Synagogue
+- Israel
+- Jerusalem
+- London
+- Middle East
+- Middle East.
+- UK
+- US
+- West Bank
+- Whitehall
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- Ephraim Mirvis
+- Jeremy Corbyn
+- Keir Starmer
+- Kemi Badenoch
+- Marco Rubio
+organisations:
+- House of Commons
+- Jewish Chronicle
+- Jewish News
+- Labour Party
+- Union Flag
 ---
 
 ![Andy Burnham sitting in front of a Union Flag in Downing Street](https://ichef.bbci.co.uk/ace/standard/901/cpsprodpb/03d2/live/d3c0b1f0-abd9-11f1-ba40-a905468c0295.jpg)

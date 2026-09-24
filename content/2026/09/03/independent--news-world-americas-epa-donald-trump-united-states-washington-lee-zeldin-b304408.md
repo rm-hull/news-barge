@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/03/12/Politics_Data_Centers_4464
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- China
+- Georgia
+- Midwest
+- South
+- U.S.
+- United States
+- Virginia
+people:
+- Brandon Jones-Cobb
+- Carolyn Holran
+- Donald Trump
+- Jane Williams
+- Keri Powell
+- Lee Zeldin
+- Mike Koerber
+organisations:
+- AI
+- California Communities Against Toxics
+- Center for Biological Diversity
+- China Trump
+- EPA
+- Environmental Protection Agency
+- Southern Environmental Law Center
 ---
 
 A plan by the Environmental Protection Agency could make it harder for the public to learn about and comment on proposed AI data centers that have sparked backlash in communities across the United States and transformed the midterm election landscape.

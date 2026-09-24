@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bangladesh Shishu Hospital
+- Dhaka Shishu Hospital
+- India
+people:
+- Atiqul Islam
+- Hasina
+- Muhammad Yunus
+- Ranu Akhter
+- Rojatun Jannat Ramisa
+- Tarique Rahman
+organisations:
+- Bangladesh Shishu Hospital and Institute
+- Directorate General of Health Services
+- Gavi
+- Ministry of Health
+- The Associated Press
+- U.N.
+- WHO
+- World Health Organization
 ---
 
 Eight-month-old Rojatun Jannat Ramisa is struggling to breathe in a hospital in Bangladesh’s capital as her parents sit helplessly beside her. She's one of thousands of children sickened by a measles outbreak that's sweeping across the country and has killed hundreds of children following setbacks to the country's vaccine program.

@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Britannia Place
+- County Durham
+- Doormanstown
+- Dormanstown
+- Redcar
+people: []
+organisations:
+- Cleveland Police
+- Great North Air Ambulance Service
+- Jaguar
+- North East Ambulance Service
 ---
 
 *(Image: NORTHERN ECHO)*

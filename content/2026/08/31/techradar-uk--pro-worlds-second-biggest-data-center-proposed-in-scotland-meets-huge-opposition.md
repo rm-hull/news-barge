@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- AI
+- Auchertool
+- Edinburgh
+- Fife
+- Germany
+- Holyrood
+- Iran
+- Kirkcaldy
+- M4
+- Nevada
+- Northern Ireland
+- Norwich
+- Scotland
+- UK
+- US
+- United Kingdom
+- Wales
+people:
+- Benedict Collins
+- David Torrance
+- Hannah Mary Goodlad
+organisations:
+- AI Opportunities Action Plan
+- APT
+- Airdrie
+- Auchertool
+- BUCSIS
+- Citadel Campus
+- Google News
+- Larbert
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![An abstract geometric futuristic concept three dimensional map of the United Kingdom with borders](https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q.jpg) 

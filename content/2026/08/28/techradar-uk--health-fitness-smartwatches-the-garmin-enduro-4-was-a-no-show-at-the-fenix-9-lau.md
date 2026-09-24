@@ -11,6 +11,20 @@ description: Leaked filings hint at an upcoming Garmin launch, and it could be t
 image: https://cdn.mos.cms.futurecdn.net/9rHkimZKL5AFmn7NNqJAF6-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Indonesia
+people:
+- Alex Blake
+- Garmin
+organisations:
+- Apple
+- Creative Bloq
+- Garmin Fenix
+- Garmin News
+- Google News
+- MacFormat
+- TechRadar
+- iMore
 ---
 
 ![Garmin Fenix 8 vs Enduro 3 comparison](https://cdn.mos.cms.futurecdn.net/9rHkimZKL5AFmn7NNqJAF6.jpg) 

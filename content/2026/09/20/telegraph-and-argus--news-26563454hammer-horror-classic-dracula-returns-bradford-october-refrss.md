@@ -13,6 +13,20 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/17363342.jpg?type=og-image
+locations:
+- Bradford
+- Dracula
+- Pictureville
+people:
+- Christina Brennan
+- Christopher Lee
+- Frankenstein
+organisations:
+- Ashton and Leakey
+- Hammer Films
+- National Science and Media Museum
+- Northern UK
+- Pictureville Cinema
 ---
 
 *(Image: T&A)*

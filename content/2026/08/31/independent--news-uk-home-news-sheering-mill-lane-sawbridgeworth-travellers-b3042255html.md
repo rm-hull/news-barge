@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Hertfordshire
+- Sawbridgeworth
+- Sheering Mill Lane
+people:
+- Greg Rattey
+- Josh Dean
+- Vicky Glover-Ward
+organisations:
+- East Herts Council
+- East Herts District Council
+- Environment Agency
+- Hertfordshire Police
+- High Court
 ---
 
 Hundreds of villagers showed up to a wildlife spot with camp chairs over the weekend to demand a halt to unauthorised construction on a Hertfordshire wildlife spot.

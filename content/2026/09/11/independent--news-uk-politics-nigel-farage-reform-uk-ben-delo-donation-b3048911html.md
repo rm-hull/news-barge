@@ -13,6 +13,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- BitMex
+- Britain
+- US
+people:
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Fiona Cottrell
+- George Cottrell
+- Matt Goodwin
+- Nigel Farage
+- Richard Tice
+- Stella Creasy
+organisations:
+- BitMex
+- Channel 4
+- Delo
+- Ex-Reform
+- Labour
+- Metropolitan Police
+- Reform UK
+- The Telegraph
+- Tories
 ---
 
 Nigel Farage’s party has secured a staggering £36m from British cryptocurrency entrepreneur Ben Delo in a major boost for its election campaign.

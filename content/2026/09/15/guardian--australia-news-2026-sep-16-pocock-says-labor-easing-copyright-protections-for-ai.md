@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- San Francisco
+people:
+- Andrew Charlton
+- Ann O’Leary
+- David Pocock
+- Hanson-Young
+- Michelle Rowland
+- Richard Marles
+- Sarah Hanson Young
+- Tim Ayres
+organisations:
+- ABC
+- AI
+- ChatGPT
+- Greens
+- Labor
+- News24
+- OpenAI
+- Senate
+- The Australian
 ---
 
 The Albanese government is considering giving AI companies access to Australian creatives’ works by default as it pursues a compromise with American tech giants.

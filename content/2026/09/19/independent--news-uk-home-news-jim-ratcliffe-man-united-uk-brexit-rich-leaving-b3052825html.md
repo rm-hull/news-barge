@@ -13,6 +13,29 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/19/09/2295272542..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Britain
+- Greater Manchester
+- Greece
+- Jackdaw
+- Manchester United
+- Monaco
+- North Sea
+- Rosebank
+- UK
+people:
+- Andy Burnham
+- Brexit
+- Chris Rokos
+- Jim Ratcliffe
+- John Healey
+- Keir Starmer
+organisations:
+- BBC
+- Ineos
+- Manchester United
+- Sunday Times
 ---
 
 The billionaire Manchester United owner Sir Jim Ratcliffe has said he can see why rich people are leaving the UK, describing the country as “on the slide”.

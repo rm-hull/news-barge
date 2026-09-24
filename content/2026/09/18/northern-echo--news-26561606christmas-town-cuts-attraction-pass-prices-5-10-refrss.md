@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Auckland Christmas Town
+- Bishop Auckland
+- Bishop Auckland Market Place
+- Christmas Town
+people:
+- Thomas Wales
+organisations:
+- Baccanalia
+- Bishop Auckland
+- Bishop Auckland Town Council
+- Christmas Town
+- Christmas Town Organisers
+- Golden Passes'
+- Santa's Grotto
 ---
 
 *(Image: SUPPLIED)*

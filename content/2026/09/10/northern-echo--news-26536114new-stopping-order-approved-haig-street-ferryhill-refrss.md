@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- DL17 8HX
+- Durham
+- Ferryhill
+- Haig Street
+- North East
+- North Street
+- YOUR
+people: []
+organisations:
+- Department for Transport
+- Durham County Council
+- Ferryhill Library
+- High Court
+- Newcastle Upon Tyne
+- PO Box 1393
+- Public Notice Portal
+- Transport Infrastructure Planning Casework Unit
 ---
 
 *(Image: The Press)*

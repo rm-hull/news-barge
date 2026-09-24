@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Annfield Plain
+- County Durham
+- Hare Law
+- Stanley
+- Swindon
+people:
+- Clayton Glass
+- Cllr Grimes
+- Darren Grimes
+- Henry Tudor
+- Karen Allison
+- Luke Akehurst
+- Mark Stamper
+- SARAH CALDECOTT
+organisations:
+- Clayton Glass
+- Crisis and Resilience Fund
+- Durham County Council
+- LINKEDIN
+- LinkedIn
+- North Durham
+- Reform UK
+- Tanfield
+- The Northern Echo
 ---
 
 The firm behind a County Durham factory has been branded "heartless" after staff learnt they would not be paid and the firm was going into administration when they turned up for work.

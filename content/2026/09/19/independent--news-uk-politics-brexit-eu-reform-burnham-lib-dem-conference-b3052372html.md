@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/18/14/39/burnham-indycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Brexit
+- Brighton
+- Britain
+- Europe
+- Labour
+- UK
+- US
+people:
+- Al Pinkerton
+- Andy Burnham
+- Anthony Seldon
+- David Maddox
+- George Osborne
+- John Curtice
+- Keir Starmer
+- Millie Cooke
+- Neil Kinnock
+- Putin
+- Savanta
+- Trump
+organisations:
+- Brexit
+- EU
+- European Union
+- Growth and Defence Partnership
+- Labour
+- Lib Dem Europe
+- Lib Dems
+- Liberal Democrats
+- NATO
+- Reform UK
+- The Independent
+- Tory
+- Trump
 ---
 
 Four in 10 Brexit backers think Andy Burnham should strengthen defence ties with Europe, new polling a decade on from the EU referendum shows.

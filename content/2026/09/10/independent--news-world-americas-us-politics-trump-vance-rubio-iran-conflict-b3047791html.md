@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Tehran
+- U.S.
+- White House
+people:
+- Donald Trump
+- JD Vance
+- Marco Rubio
+organisations:
+- Oval Office
+- Situation Room
+- Wall Street Journal
 ---
 
 Top White House advisers, including Vice President JD Vance and Secretary of State Marco Rubio, have privately warned President Donald Trump that the conflict with Iran could extend through the remainder of his presidency, the *Wall Street Journal* reported on Wednesday, citing U.S. officials.

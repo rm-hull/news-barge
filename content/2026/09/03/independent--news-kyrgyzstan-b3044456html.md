@@ -14,6 +14,10 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Kyrgyzstan
+people: []
+organisations: []
 ---
 
 Photos show centuries-old traditions and sports at Kyrgyzstan’s World Nomad Games

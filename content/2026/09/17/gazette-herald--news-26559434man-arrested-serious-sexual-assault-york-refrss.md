@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Church Lane
+- Cooplands
+- Low Ousegate
+- Spurriergate
+- York
+people:
+- Kevin Glenton
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: Kevin Glenton)*

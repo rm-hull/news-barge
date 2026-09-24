@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+people:
+- John Healey
+- Meg Hillier
+- Rachel Reeves
+organisations:
+- Treasury
 ---
 
 University students taking out student loans are to be warned that the terms and conditions could change so they are better informed about what they are signing up to, the government has said.

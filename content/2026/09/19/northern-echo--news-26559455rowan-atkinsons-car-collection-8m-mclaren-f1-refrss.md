@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thenorthernecho.co.uk/resources/images/21433684.jpg?type=og-image
+locations:
+- Cambridgeshire
+- Consett
+- Darlington
+- North Yorkshire
+people:
+- Andrew Flintoff
+- Bean Drivers'
+- Goodwood
+- Rowan Atkinson
+organisations:
+- Aston Martins
+- BBC
+- McLaren F1
 ---
 
 *(Image: PA MEDIA)*

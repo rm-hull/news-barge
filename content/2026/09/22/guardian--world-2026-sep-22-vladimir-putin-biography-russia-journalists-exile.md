@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/81aa63fc638713b392f7b820c21e2931ab7b59d5/253_0_2702_2162/master/2702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49936a91d3021fd9af2289175e71b7a8
+locations:
+- California
+- Europe
+- Kremlin
+- Morocco
+- Moscow
+- Russia
+- Soviet Union
+- St Petersburg
+- Ukraine
+people:
+- Mikhail Rubin
+- Proekt
+- Roman Badanin
+- Vladimir Putin
+organisations:
+- FBI
+- FSB
+- Guardian
+- KGB
+- Le Monde
+- Proekt
 ---
 
 At 6am on 29 June 2021, the Russian journalist Roman Badanin was woken by a knock on the door of his family’s Moscow apartment. “Come quickly, someone has scratched your car in the courtyard,” a voice shouted from outside. As he opened the door, masked men pushed their way in.

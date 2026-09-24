@@ -12,6 +12,95 @@ image: https://i.guim.co.uk/img/media/d7848242452d9aa0acd2640d70a203242b5331aa/1
 categories:
 - UK
 - News & Politics
+locations:
+- Beetaloo Basin
+- Braybrook
+- China
+- Darwin
+- Fiji
+- Five Mile
+- Gyirong Port
+- Hobart
+- Kathmandu
+- Kiribati
+- Melbourne
+- Morocco
+- NSW
+- Nepal
+- New Zealand
+- Northern Territory
+- Pacific Island
+- Pacific Islands
+- Palau
+- Portugal
+- Queensland
+- Ramsgate
+- Samoa
+- Solomon Islands
+- South Australia
+- Spain
+- Sturt Plateau
+- Sydney
+- Taiwan
+- Tamboran Resources’ Shenandoah
+- Tasmania
+- Vanuatu
+- Victoria
+people:
+- Achol Arok
+- Anthony Albanese
+- Bree Ahrens
+- Cait Kelly
+- Chris Bowen
+- Chris Minns
+- Daley
+- Dan Himbrechts
+- Deidre Vercoe
+- Jane Palfreyman
+- Lia Finocchiaro
+- MichaelDaley
+- Michelle Rowland
+- Mick Tsikas
+- Noel Hutley SC
+- Pat Conroy
+- Pauline Hanson
+- Ryan Park
+- Saeed Khan
+- Sally Dowling
+- Sarah Hanson-Young
+- Will Tregoning
+organisations:
+- 2GB
+- AAP Daley
+- AAP Hanson-Young
+- ACT
+- AFP
+- Alcohol and Drug Foundation
+- DPP
+- Department of Conservation
+- Environment Centre NT
+- FIFA
+- Facebook
+- Getty Images
+- Getty Images Australia
+- Getty Images Beetaloo
+- Greens
+- Guardian Australia
+- Labor
+- Minden Pictures
+- NSW Government
+- ODPP
+- One Nation
+- PM
+- Pacific Islands Forum
+- Reuters Police
+- Royal Australian College of General Practitioners
+- SBS
+- Tamboran Resources
+- Unharm
+- VAD
+- World Game’
+- kākāpō
 ---
 
 Australia news live: PM shuts down questions of China ‘bullying’ on eve of Pacific forum; Victorian police officer charged after allegedly hitting teen with baton

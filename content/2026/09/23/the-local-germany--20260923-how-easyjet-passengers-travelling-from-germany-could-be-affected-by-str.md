@@ -16,6 +16,32 @@ categories:
 - Travel
 - History
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-AFP__20260611__B6QC7NR__v1__MidRes__SwitzerlandBritainUsAviationMergerSecurities.jpg@webp
+locations:
+- Berlin Brandenburg Airport
+- Bordeaux
+- Europe
+- France
+- Funchal
+- Germany
+- Hesse
+- Lyon
+- Madeira
+- Nantes
+- Nice
+- Paris Charles de Gaulle
+- Paris Orly
+- Porto
+- Portugal
+- Rhineland-Palatinate
+- Saarland
+- Toulouse
+people: []
+organisations:
+- BILD*
+- EasyJet
+- Ryanair
+- SNPL
+- SNPVAC
 ---
 
 Travellers flying with EasyJet from Germany in the coming weeks may want to keep a close eye on their bookings, as separate labour disputes in Portugal and France threaten to disrupt flights during some of the busiest travel periods of the year.

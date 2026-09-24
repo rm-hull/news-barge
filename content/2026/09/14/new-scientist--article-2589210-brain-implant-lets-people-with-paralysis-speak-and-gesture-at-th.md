@@ -12,6 +12,16 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- San Francisco
+- Switzerland
+people:
+- Henri Lorach
+- Keith Thomas
+- Samantha Brosler
+organisations:
+- University of California
+- University of Lausanne
 ---
 
 ![An avatar used in the study to enable the paralysed people to communicate](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg?w=840)

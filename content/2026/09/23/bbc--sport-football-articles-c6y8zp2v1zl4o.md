@@ -13,6 +13,156 @@ categories:
 - Sports
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d1ac/live/0e024620-b1d0-11f1-8493-1910d79d53eb.jpg
+locations:
+- Azerbaijan
+- Barcelona
+- Benin
+- Brighton
+- Burkina Faso
+- Chile
+- Copenhagen
+- Crystal Palace
+- Denmark
+- Ecuador
+- Egypt
+- Europe
+- France
+- Gambia
+- Ghana
+- Guinea-Bissau
+- Ikon Allah
+- Ile-de-France
+- Ivory Coast
+- Japan
+- Latin America
+- Leipzig
+- London
+- Mali
+- Mexico
+- Midtjylland
+- Newcastle
+- Nigeria
+- Nottingham Forest
+- Paris
+- Salzburg
+- Santiago
+- Scandinavia
+- Senegal
+- Silicon Valley
+- Swansea
+- Sweden
+- Togo
+- United States
+- Uzbekistan
+- West Africa
+people:
+- Abdukodir Khusanov
+- Alexis Sanchez.
+- Ashley Cole
+- Bazoumana Toure
+- Chelsea
+- Dario Osorio
+- Demba Ba
+- Erling Haaland
+- Exauce Luyindula
+- Franculino
+- Frank Onyeka
+- Harry Maguire
+- Hugo Ekitike
+- Jamel Sandjak
+- Josue Caicedo
+- Kamaldeen Sulemana
+- Kaoru Mitoma
+- Kristian Kjaer
+- Lamine] Camara
+- Malick Yalcouye
+- Matthew Benham
+- Max Dowman
+- Mohamed Zongo
+- Mohammed Kudus
+- Mor Talla Ndiaye
+- Mustapha Nyassi
+- Nour Ashraf
+- Ousmane Diomande
+- Pascal Gross
+- Paul Onuachu
+- Rasmus Ankersen
+- Riyad Mahrez
+- Romaine Gandonou
+- Sadio Mane
+- Sam Turner
+- Shea Lacey
+- Simon Adingra
+- Thomas Randolph
+- Tom Vernon
+- Trey Nyoni
+- Winger Zadok Yohanna
+- Zadok Yohanna
+organisations:
+- AAS Sarcelles
+- AC Milan
+- AFC Creil
+- AIK
+- ASEC Mimosas
+- Amitie
+- Arsenal
+- BBC Sport
+- Barcelona
+- Bastia
+- BlueCo
+- Brentford
+- Brighton
+- CS Bretigny
+- Championnat National Group
+- Chelsea
+- Coventry
+- Cruzeiro
+- Crystal Palace
+- Delphlyx
+- ENPPI
+- ES Nanterre
+- FC Ebedei
+- Fifa
+- Governing Body Endorsement
+- Guingamp
+- Hammarby
+- IFK Goteborg
+- IFK Goteburg
+- Kjaer
+- LDU Quito
+- Le Harve
+- Le Harve There
+- Lens
+- Ligue de Paris Ile-de-France
+- Lille
+- Liverpool
+- Manchester City
+- Manchester United
+- Midtjylland
+- NBA
+- NFL
+- Newcastle
+- Nice
+- Nordsjaelland
+- Olympique Rovenain
+- PSG
+- Paris St-Germain
+- Premier League
+- RB Leipzig
+- Real de Banjul
+- Red Star
+- Reims
+- Right to Dream academy
+- Some Premier League
+- Southampton
+- Sporting
+- Strasbourg
+- Sturm Graz
+- Trabzonspor
+- Turner
+- Universidad de Chile
+- Yalcouye
+- ex-Newcastle
 ---
 
 ![Dario Osorio in a Crystal Palace huddle](https://ichef.bbci.co.uk/ace/standard/655/cpsprodpb/d1ac/live/0e024620-b1d0-11f1-8493-1910d79d53eb.jpg)

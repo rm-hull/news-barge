@@ -14,6 +14,18 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/xfUTVPaJbVFgXjAsVg6PN-2560-80.jpg
+locations:
+- Ireland
+people:
+- Etiido Uko
+organisations:
+- Etiido Uko
+- Google News
+- Maynooth University
+- Nature
+- PC
+- SDC
+- Tom's Hardware
 ---
 
 ![Image of DNA](https://cdn.mos.cms.futurecdn.net/xfUTVPaJbVFgXjAsVg6PN.jpg)

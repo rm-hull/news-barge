@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483807.jpg?type=og-image
+locations:
+- Carlton Bolling
+people:
+- Mohammed Azum
+- Vikrant Bhatia
+organisations:
+- Board
+- Carlton Bolling
+- Carlton Bolling Secondary School
+- Community Works
+- Young People’s Representatives
 ---
 
 *(Image: Supplied)*

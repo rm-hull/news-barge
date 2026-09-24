@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- County Durham
+- Darlington Station
+- Felixstowe
+- North East
+- North Yorkshire
+- Spennymoor
+people:
+- Andy Burnham
+- Jonathan Grant
+- Martyn Strong
+organisations:
+- A64
+- Adderstone Civils
+- Adderstone Civils’
+- Strata
 ---
 
 *(Image: Adderstone Civils)*

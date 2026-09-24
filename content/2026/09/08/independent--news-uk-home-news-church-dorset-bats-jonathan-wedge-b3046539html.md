@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Diocese of Salisbury
+- Dorset
+- East Orchard
+- Europe
+- Grade II-listed Church of St Thomas
+- UK
+people:
+- Jonathan Wedge
+- Natasha Deeley
+organisations:
+- Bat Conservation Trust
+- Bournemouth Crown Court
+- Church of St Thomas
+- City
+- Instagram
+- Winkton Abbey
 ---
 
 A children's author who documented his project to convert an old church on social media has been convicted of destroying bat roosts after being caught out by his own Instagram posts.

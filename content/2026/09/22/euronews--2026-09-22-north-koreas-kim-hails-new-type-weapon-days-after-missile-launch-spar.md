@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://images.euronews.com/articles/stories/09/92/24/23/1200x675_cmsv2_e62bb795-ff50-5a7c-bea7-47dc32780b1c-9922423.jpg
+locations:
+- East Sea
+- North Korea
+- Pyongyang
+- Sea of Japan
+- Seoul
+- South Korea
+people:
+- Kim Jong-un
+- Kim Yo-jong
+organisations:
+- DPRK
+- IAEA
+- International Atomic Energy Agency
+- KCNA
+- Korean Central News Agency
+- UN Security Council
 ---
 
 ## North Korea has legally enshrined its status as a nuclear-armed state, with its leadership repeatedly declaring the country's atomic arsenal permanent and irreversible.

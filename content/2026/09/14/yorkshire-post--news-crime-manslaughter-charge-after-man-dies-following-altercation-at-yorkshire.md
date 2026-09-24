@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Barnsley Magistrates’ Court
+- Cudworth
+- Stocks Lane
+- Yorkshire
+people:
+- Liam McGuire
+organisations:
+- The Star Hotel
 ---
 
 # Manslaughter charge after man dies following altercation at Yorkshire pub

@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Dallas
+- Iran
+- South Carolina
+- US
+people:
+- '## Trump'
+- Donald Trump
+- JD Vance
+- Matthew Green
+- Mike Johnson
+organisations:
+- AFP
+- American Airlines Centre
+- Catholic University of America
+- Decision Desk HQ
+- House of Representatives
+- NFL
+- Senate
+- Trump
 ---
 
 ## Trump delivers Wednesday's keynote and returns for Thursday's finale after Vice President JD Vance speaks. Cabinet members and candidates in closely watched House and Senate races are also on the programme.

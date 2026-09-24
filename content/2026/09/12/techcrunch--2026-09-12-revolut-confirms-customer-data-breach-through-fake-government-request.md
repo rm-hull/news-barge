@@ -12,6 +12,20 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - News & Politics
+locations:
+- Europe
+- France
+- India
+- Mexico
+- UAE
+- UK
+people:
+- Revolut
+organisations:
+- Revolut
+- TechCrunch
+- U.S. Office of the Comptroller of the Currency
+- ZachXBT
 ---
 
 British fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain.

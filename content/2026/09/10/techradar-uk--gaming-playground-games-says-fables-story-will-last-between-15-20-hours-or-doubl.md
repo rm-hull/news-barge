@@ -13,6 +13,16 @@ image: https://cdn.mos.cms.futurecdn.net/egwzF8mfWzKuyXGW3q4jaK-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Will Kennedy
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar
 ---
 
 ![Fable](https://cdn.mos.cms.futurecdn.net/egwzF8mfWzKuyXGW3q4jaK.jpg) 

@@ -15,6 +15,21 @@ categories:
 - York
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Australia
+- UK
+people:
+- Coun Dale
+- Coun Luke Goddard
+- Coun Rob Bannister
+- Dawn Dale
+- Luke Goddard
+- Pat Butterell
+organisations:
+- Department for Education and Ofsted
+- Education, Children and Families Policy Committee
+- Sheffield City Council
+- Sheffield Council
 ---
 
 # Sheffield Council to create public campaign over smartphone ban

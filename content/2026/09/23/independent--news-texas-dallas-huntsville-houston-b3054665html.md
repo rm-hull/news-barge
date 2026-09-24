@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/05/Texas_Execution_37461.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Edna
+- Houston
+- Huntsville
+- Texas
+people:
+- Celso Lopez
+- Ker’Sean Ramey
+- LeJames Norman
+- Samuel Roberts
+- Tiffani Peacock
+organisations:
+- U.S. Supreme Court
 ---
 
 A man found guilty of fatally shooting three people during a 2005 attempted robbery at a rural Texas home is scheduled to be executed Wednesday, a week after the other man convicted in the killings was put to death.

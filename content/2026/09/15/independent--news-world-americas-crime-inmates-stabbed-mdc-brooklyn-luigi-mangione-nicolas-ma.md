@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Brooklyn
+- Caracas
+- MDC-Brooklyn
+- Manhattan
+- Metropolitan Detention Center
+- New York
+- New York City
+- U.S.
+- United States
+people:
+- '![Maduro'
+- '![Mangione'
+- Breon Peace
+- Brian Thompson
+- Cilia Flores
+- Donald Murphy
+- Edwin Cordero
+- Jam Master Jay
+- Karl Jordan Jr.
+- Luigi Mangione
+- Mr. Thompson
+- Nicolás Maduro
+- Uriel Whyte
+organisations:
+- Daily News
+- Eastern District of New York
+- Federal Bureau of Prisons
+- Ivy League
+- Justice Department
+- MDC Brooklyn
+- New York City Police Department
+- New York Daily News
+- The Independent
+- UnitedHealthcare
 ---
 
 Multiple inmates have been stabbed and slashed during a major brawl at the federal jail in New York City that is currently housing UnitedHealthcare CEO killer Luigi Mangione and disgraced former Venezuelan President Nicolás Maduro.

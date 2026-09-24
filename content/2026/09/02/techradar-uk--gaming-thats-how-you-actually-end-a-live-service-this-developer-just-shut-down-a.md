@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/eZ5RWyALiNgHge6jjAeHg7-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- UK
+people:
+- Dashiell Wood
+organisations:
+- Dash
+- Edge
+- Google News
+- Grasshopper Manufacture
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar
 ---
 
 ![A Let it Die banner on a promotional Let it Die image.](https://cdn.mos.cms.futurecdn.net/eZ5RWyALiNgHge6jjAeHg7.jpg) 

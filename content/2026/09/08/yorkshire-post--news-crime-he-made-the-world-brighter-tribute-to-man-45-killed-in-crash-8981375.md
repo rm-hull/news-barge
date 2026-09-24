@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Barkerend Road
+- Bradford Moor Park
+- Cupra Leon
+people:
+- Eugen Matta
+organisations:
+- Cupra Leon
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 # ‘He made the world brighter’: Tribute to man, 45, killed in crash

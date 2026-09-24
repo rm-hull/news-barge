@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - True Crime
 - Arts & Culture
+locations:
+- Bradford
+- Lidget Green
+- Market Street
+- NatWest
+people:
+- Ethan Asante
+- Stephen Cameron
+- Stephen Cameron Stephen
+- Stephen’s
+organisations:
+- Barclays Bank
+- Proof of Lifes
+- TOBY
 ---
 
 A creative director has launched a public memorial project to honour the life of a homeless man who died in tragic circumstances in Bradford city centre.

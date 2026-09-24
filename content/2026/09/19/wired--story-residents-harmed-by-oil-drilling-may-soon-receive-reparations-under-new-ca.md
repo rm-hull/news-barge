@@ -14,6 +14,26 @@ categories:
 - Science
 - News & Politics
 image: https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/191:100/w_1280,c_limit/IMG_2220.jpg
+locations:
+- Baldwin Hills
+- California
+- Inglewood
+- LA
+- Ladera Heights
+- Los Angeles
+- Los Angeles County
+people:
+- Gavin Newsom
+- Isaac G. Bryan
+- Regina Martin
+- Tianna Shaw-Wakeman
+- Tina McKinnor
+organisations:
+- Black Women for Wellness
+- California Assembly’s Natural Resources Committee
+- Capital B
+- Climate Desk
+- Inglewood Oil Field
 ---
 
 *This story originally appeared on Capital B and is part of the Climate Desk collaboration.*

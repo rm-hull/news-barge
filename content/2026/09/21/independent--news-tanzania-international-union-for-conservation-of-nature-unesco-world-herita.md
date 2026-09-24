@@ -12,6 +12,16 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/10/Tanzania-Dead_Lions_82326.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ndutu
+- Ngorongoro Conservation Area
+- Tanzania
+people: []
+organisations:
+- International Union for Conservation of Nature
+- Ngorongoro Conservation Area Authority
+- Tanzania-Dead Lions
+- UNESCO World Heritage
 ---
 
 Poisoning suspected in deaths of 10 lions in Tanzania conservation area

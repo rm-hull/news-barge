@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Colchester
+- England
+- Hampshire
+- Manchester
+- Thomas Lord Audley
+people:
+- Bill Revans
+- Georgia Gould
+- Ipsea
+- Madeleine Cassidy
+- Paul Whiteman
+- William Burns
+organisations:
+- Chartered Institute of Public Finance and Accountancy
+- County Councils Network
+- EHCP
+- EHCPs
+- Guardian
+- Ipsea
+- Liberal Democrat
+- National Association of Head Teachers
+- Somerset
 ---
 
 Schools and councils across England are expecting the proportion of children with special needs plans to double to one in 10, with families rushing to secure support before ministers bring in changes.

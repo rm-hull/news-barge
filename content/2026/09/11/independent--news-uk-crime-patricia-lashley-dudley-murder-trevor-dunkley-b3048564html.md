@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bradford
+- Dudley
+- Himley Road
+- London
+- West Midlands
+people:
+- Balbir Singh
+- Jade
+- Michael Chambers KC
+- Ms Lashley
+- Pat
+- Patricia Lashley
+- Trevor Dunkley
+- Tricia
+- Vanessa
+organisations:
+- Newcastle
+- Scotland
+- Wales
+- West Midlands Police
+- Wolverhampton Crown Court
 ---
 
 A 66-year-old man has pleaded guilty to murdering a mother of seven nearly 30 years ago.

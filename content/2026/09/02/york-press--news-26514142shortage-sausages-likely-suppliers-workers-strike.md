@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Enniskillen
+- Republic of Ireland
+- UK
+people:
+- Greg O'Kane
+- Sharon Graham
+organisations:
+- Asda
+- Brains Pork Faggots
+- Denny sausages
+- Fridge Raiders
+- Morrisons
+- Mr Brains Pork Faggots
+- Newsquest
+- Pilgrims Europe
+- Pilgrims’
+- Richmond Sausages
+- Sainsbury’s
+- Tesco
+- Unite
 ---
 
 *(Image: Getty)*

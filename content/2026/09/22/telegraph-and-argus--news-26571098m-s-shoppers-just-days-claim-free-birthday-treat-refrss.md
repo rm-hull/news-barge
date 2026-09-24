@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21426858.jpg?type=og-image
+locations:
+- UK
+people:
+- Sharry Cramond
+- Sparks
+organisations:
+- DWP
+- Foodhall
+- M&S
+- OnePoll
+- Sparks
+- State Pension
 ---
 
 M&S is giving away a record 920,000 free birthday treats to Sparks members this month - but thousands of shoppers could miss out for one simple reason.

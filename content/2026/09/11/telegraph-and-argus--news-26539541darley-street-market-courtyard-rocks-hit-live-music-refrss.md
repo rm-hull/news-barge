@@ -14,6 +14,31 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Courtyard
+- Street Kitchen
+- West Yorkshire
+people:
+- Asma Ali
+- Ian Walker
+- Jeremy Kyle
+- Lucy Robinson
+- Lucy Spraggan
+- Marie Franc
+- Meryl Streek
+- Sarah Robinson
+organisations:
+- Bradford Council
+- Bradford Markets
+- Courtyard
+- Darley Street Market
+- Goodbye Mr A. Bradford Council
+- Neighbourhoods and Communities
+- Northern Monk
+- Pendle Hill
+- Pink Pony Club
+- The Hoosiers
+- Vauxhall Casanova
 ---
 
 ONE year on from opening, Darley Street Market’s outdoor space was transformed into a live music venue for the inaugural Live at the Courtyard line-up of concerts.

@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/delivery-hero-getty.jpg
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Taiwan
+people: []
+organisations:
+- Delivery Hero
+- DoorDash
+- Foodpanda
+- Getir
+- Grab
+- Prosus
+- SSW Partners
+- U.K.’s Deliveroo
+- Uber Eats
 ---
 
 Delivery Hero’s board has signed off on Uber’s $15 billion takeover offer and recommended shareholders approve the deal, which would create one of the largest on-demand food delivery platforms in the world.

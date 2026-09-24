@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- California
+- Europe
+- L.A.
+- Lincoln Boulevard
+- Los Angeles
+- Los Angeles County Superior Court
+- Los Angeles Starbucks
+- Westchester
+people:
+- Aaron Gomez
+- McDonald
+- Steven Soifer
+organisations:
+- ARA
+- American Restroom Association
+- Dunkin’ Donuts
+- National Retail Federation
+- Starbucks
+- The Independent
 ---
 
 A part-time barista at a Los Angeles Starbucks was violently assaulted after telling a guest they couldn’t use the restroom without first making a purchase, according to court filings reviewed by *The Independent*.

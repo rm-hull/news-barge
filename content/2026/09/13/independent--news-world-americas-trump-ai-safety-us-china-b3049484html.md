@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- AI
+- America
+- Beijing
+- China
+- Doonbeg
+- Ireland
+- Louisiana
+- New York
+- US
+- Washington
+- White House
+people:
+- AI
+- Barack Obama
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Elon Musk
+- Hakeem Jeffries
+- Jacob Coxon
+- Kevin Hassett
+- Mike Johnson
+- Sam Altman
+- Xi Jinping
+organisations:
+- AI
+- Anthropic Dario Amodei
+- Congress
+- OpenAI
+- US House
+- United States’
+- White House National Economic Council
 ---
 
 President Donald Trump has downplayed the necessity for his administration to restrict artificial intelligence development, arguing that maintaining the United States’ lead over China in global competition is paramount and that securing victory will help mitigate the hazards of the evolving technology.

@@ -13,6 +13,37 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- America
+- Greater Philadelphia Area
+- Iran
+- Northeast
+- Pennsylvania
+- Strait of Hormuz
+- Sunoco
+- Tehran
+- Twin Oaks
+- U.S.
+- U.S.A
+- White House
+people:
+- Donald Trump
+organisations:
+- AAA
+- Eastern District of Pennsylvania
+- Freedom Fuel
+- Freedom Fuel Network
+- GOP
+- House of Representatives
+- KRSM Inc
+- Mansfield Oil
+- Mansfield Oil Company
+- Mansfield Oil”
+- Politico
+- Senate
+- Trump
+- Truth Social
+- U.S. District Court
 ---
 
 A gas station chain praised by Donald Trump for its below-market-rate prices allegedly sold fuel its supplier didn’t pay for, according to a new lawsuit.

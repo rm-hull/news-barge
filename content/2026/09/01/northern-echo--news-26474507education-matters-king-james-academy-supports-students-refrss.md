@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Barcelona
+- Brazil
+- Holland
+- Ireland
+- King James
+- Lanzarote
+- Madrid
+- Majorca
+- Malta
+- Moon
+- Normandy
+- Omaha Beach
+- Poland
+- USA
+- Venice
+people:
+- Cesar Manrique
+- James I
+- James I Academy
+- Mr Blood
+- Mulryan
+organisations:
+- Carnegie
+- D-Day Museum
+- Durham University
+- James I Academy
+- Kielder Observatory
+- King James
+- King James I Academy
+- Memorial Museum of Omaha
+- National Space Academy
+- Newcastle Crowne Plaza
+- Normandy American Cemetery
+- Overlord Museum
+- Royal Society of Biology
+- Science Department
+- The Escape Artists
+- The Key
+- University of Southampton
+- Wynyard Planetarium
 ---
 
 Brought to you by

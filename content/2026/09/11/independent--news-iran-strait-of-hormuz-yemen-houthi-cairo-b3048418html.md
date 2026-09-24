@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bab al-Mandeb
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Gaza
+- Iran
+- Jerusalem
+- Mokha
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- Yemen
+people: []
+organisations:
+- IRNA
+- Lloyd’s List Intelligence
+- National Defense Council of Yemen
+- ___ Anna
 ---
 
 Iran's government on Friday called for an end to Saudi Arabia's blockade of Yemen and the immediate resumption of talks, in its first public statement since Iran-backed Houthi rebels entered a key Yemeni port and intensified their threat to a key global shipping alternative to the Strait of Hormuz.

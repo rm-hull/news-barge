@@ -14,6 +14,28 @@ categories:
 - Sports
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21478389.jpg?type=og-image&xType=0&yType=28
+locations:
+- Blyth
+- County Durham
+- Middlesbrough
+- North East
+- Northumberland
+- South Newsham
+- South Newsham Road
+people:
+- Pair
+organisations:
+- 11 Explosive Ordnance Disposal and Search Regiment RLC
+- 521 Squadron
+- Army Explosive Ordnance Disposal team
+- British Army
+- EOD
+- Explosive Ordnance Disposal
+- Ministry of Defence
+- MoD
+- Northumbria Police
+- Royal Logistic Corps
+- True North Detecting
 ---
 
 *(Image: GOOGLE)*

@@ -12,6 +12,17 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21491142.jpg?type=og-image
+locations:
+- North Yorkshire
+- Spurriergate
+- York
+- Zara
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
+- North Yorkshire Police)* Clothing
+- Zara
 ---
 
 ## CCTV appeal after clothing stolen from York store - can you help?

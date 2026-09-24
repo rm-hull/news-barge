@@ -14,6 +14,20 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Brighton
+people:
+- Andy Burnham
+- Anna Whitehouse
+- Louise Haigh
+- Petra Wilton
+organisations:
+- CMI
+- Chartered Management Institute
+- Starbucks
+- State Pension
+- TUC
+- Trade Union Congress
 ---
 
 Employers could face tougher rules when rejecting work-from-home and flexible working requests, under plans announced by Andy Burnham's government.

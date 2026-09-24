@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Alps
+- Arizona
+- Derbyshire
+- Midlothian
+- New Zealand
+- Scotland
+- UK
+people:
+- Andy Jones
+- Eliud Kipchoge
+- Emily Fairs
+- Jasmin Paris
+- Lazarus Lake
+- Rachel Entrekin
+- Renee McGregor
+- Richard Burden
+- Sophie Woods
+- Yngvild Kaspersen
+organisations:
+- GP
+- International Association of Ultrarunners
+- RunRepeat
+- SheRACES
+- Sophie Power
+- UK Sports Institute
+- UTMB
+- University of Exeter
 ---
 
 **"The race is too hard for women. They are simply not tough enough to do it."**

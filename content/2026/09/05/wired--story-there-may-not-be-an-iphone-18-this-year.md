@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Pacific
+people:
+- Nabila Popal
+- Shawn DuBravac
+- Tim Cook
+organisations:
+- Apple
+- Galaxy Z
+- Global Electronics Association
+- Google
+- IDC
+- Motorola
+- Razr
+- Samsung
+- WIRED
+- iPhone Air
 ---
 
 Every year around this time, Apple announces new iPhones. The products go on sale soon after, usually ranging from a base model to more premium and more expensive Pro models. But this year will likely be different—not just because the company has a brand-new CEO.

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Germany
+- Iran
+- Leipzig
+- UK
+- US
+people:
+- Andy Burnham
+- Jim O'Neill
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Liz Truss
+- Lord O'Neill
+organisations:
+- BBC
+- Budget
+- House of Commons
+- Houses of Parliament.
+- Kemi Badenoch
+- Labour
+- Nato
+- PMQs
+- Politics Essential
+- Tory
+- Truss
 ---
 
 ![Andy Burnham in the House of Commons at Prime Minister's Questions. He is wearing a dark blue suit, white shirt and blue tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/95c5/live/e8573cc0-a6ec-11f1-aed2-8d6da8d75094.jpg)

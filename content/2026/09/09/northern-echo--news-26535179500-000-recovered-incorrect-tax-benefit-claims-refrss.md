@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people:
+- Graham Harrison
+organisations:
+- Council Tax Reduction and Housing Benefit
+- Hartlepool Borough Council
+- SPD
+- Single Person Discount
+- Universal Credit
 ---
 
 *(Image: PA)*

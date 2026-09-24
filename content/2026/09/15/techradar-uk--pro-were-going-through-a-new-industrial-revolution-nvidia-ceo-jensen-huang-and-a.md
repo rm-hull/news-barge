@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- '## Jensen'
+- '**Amodei'
+- '**Huang'
+- Claude
+- Dario Amodei
+- Jensen Huang
+- Marc Benioff
+- Mike Moore
+organisations:
+- AI
+- Amodei
+- Anthropic
+- B2B
+- B2C
+- Google News
+- ITProPortal
+- Nvidia
+- Salesforce
+- TechRadar Pro
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih.jpg) 

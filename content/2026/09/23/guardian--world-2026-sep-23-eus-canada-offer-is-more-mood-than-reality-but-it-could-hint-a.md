@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/44b25b5afbb5a5391ca535d54472808eb59ccdf3/349_0_2745_2196/master/2745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27f39c6b69b3e3618e811772bb5f77f4
+locations:
+- Berlin
+- Britain
+- Brussels
+- Canada
+- EU-Canada
+- Europe
+- Georgia
+- Germany
+- Iceland
+- Lake Ontario
+- Mecklenburg-Western Pomerania
+- Moldova
+- Norway
+- Ottawa
+- Saxony-Anhalt
+- Switzerland
+- UK
+- Ukraine
+- White House
+people:
+- Alberto Alemanno
+- Die Linke
+- Donald Trump
+- Emmanuel Macron
+- Fabian Zuleeg
+- Friedrich Merz
+- Jacques Delors
+- Jill Rutter
+- Joël Reland
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- AI
+- AfD
+- Alternative für Deutschland
+- CDU
+- Ceta
+- EEA
+- EU
+- European Commission
+- European Economic Area
+- European Free Trade Association
+- European Political Community
+- Guardian
+- Horizon
+- Institute for Government
+- OK
 ---
 
 The EU and Canada, Ursula von der Leyen said last week, “see the world with the same eyes”, with shared stances on everything from AI to the climate crisis, the Ukraine war and the unholy chaos unleashed by the current occupant of the White House (OK, she didn’t actually say that last bit. But I like to think she almost certainly thought it.)

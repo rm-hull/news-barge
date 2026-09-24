@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Connecticut
+- Duxbury
+- Massachusetts
+- Plymouth County Superior Court
+- U.S.
+- Wallingford
+people:
+- Callan Clancy
+- Cora
+- Dawson
+organisations: []
 ---
 
 Jurors in the Lindsay Clancy trial are set to return for their third day of deliberations Monday to determine whether to hold the former labor and delivery nurse criminally responsible for killing her three children in 2023 — a case that has drawn attention to maternal mental health after childbirth.

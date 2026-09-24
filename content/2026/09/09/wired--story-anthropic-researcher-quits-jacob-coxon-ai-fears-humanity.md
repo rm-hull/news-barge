@@ -12,6 +12,23 @@ image: https://media.wired.com/photos/6aa1b02e3037c77bcc965f82/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- China
+- OpenAI
+- Silicon Valley
+- US
+people:
+- AI
+- Dario Amodei
+- Evan Hubinger
+- Jacob Coxon
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Manhattan Project
+- OpenAI
+- WIRED
 ---
 
 Artificial intelligence researcher Jacob Coxon sent shock waves through Silicon Valley and beyond on Tuesday by announcing his resignation from Anthropic and delivering a grave warning that the AI race is putting all of our lives at risk. In his post on X, which now has more than 100 million views, Coxon wrote that many of the people building AI share his views and believe time is running out to ensure AI systems are built safely.

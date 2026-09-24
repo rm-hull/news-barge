@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21482596.jpg?type=og-image
+locations:
+- Coast to Coast
+- North Yorkshire
+- Richmond
+- York
+people:
+- Carl Les
+- David Skaith
+organisations:
+- Labour
+- Local Transport Plan
+- North Yorkshire Council
 ---
 
 North Yorkshire’s bus services are in a “mess” after years of underinvestment, the region’s mayor has told councillors.

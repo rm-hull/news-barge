@@ -13,6 +13,23 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21482292.jpg?type=og-image
+locations:
+- City Cruises York
+- River Ouse
+- River Palace
+- Smooth Sailing
+- York Minster
+people:
+- Christopher Pegg
+- Gary Lynch
+organisations:
+- City Cruises
+- City Cruises York
+- Kirkstall Brewery
+- River Palace
+- Smooth Sailing
+- Stella Artois
+- Yorkshire
 ---
 
 A new craft beer is making waves on the River Ouse in York.

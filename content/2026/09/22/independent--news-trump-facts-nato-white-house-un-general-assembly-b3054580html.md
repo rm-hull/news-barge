@@ -15,6 +15,34 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/22/UN_General_Assembly_Trump_63963.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- Iran
+- Middle East
+- Russia
+- U.S.
+- United States
+- Venezuela
+- Western Pacific
+- White House
+people:
+- Barbara Whitaker
+- Ben Finley
+- Biden
+- Dessa Bergen-Cico
+- Donald Trump
+organisations:
+- AP
+- Center for Strategic and International Studies
+- Customs and Border Protection
+- NATO
+- OPEC
+- Syracuse University
+- The Associated Press
+- Trump
+- Truth Social
+- United Nations General Assembly
+- \_\_\_ Associated Press
 ---
 
 President Donald Trump made myriad false and misleading claims during his address to the United Nations General Assembly on Tuesday, many of which he has repeated frequently throughout his second term in the White House.

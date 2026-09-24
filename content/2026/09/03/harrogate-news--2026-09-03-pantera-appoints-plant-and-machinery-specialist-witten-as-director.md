@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Arts & Culture
+locations:
+- Harrogate
+- London
+- Manchester
+- UK
+people:
+- John Pye
+- Kevin Counihan
+- Tom Snook
+- Tom Witten
+organisations:
+- Gordon Brothers
+- Pantera Advisory Group
 ---
 
 Harrogate-based Pantera Advisory Group has appointed chartered surveyor Tom Witten as director of plant and machinery.

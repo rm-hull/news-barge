@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21475037.jpg?type=og-image
+locations:
+- Bradford
+- Motorsport
+- Pakistan
+- Silverstone
+people:
+- Bradford
+- Can Haarni
+- Connor Botha
+- Haarni Sadiq
+- Lewis Hamilton
+- Steve Deeks
+organisations:
+- Bradford?** Bradford
+- F1
+- Formula 1
+- Motorsport
+- Silverstone Circuit
+- Silverstone Museum
 ---
 
 *(Image: Connor Botha - Instagram: @connorbothavisuals)*

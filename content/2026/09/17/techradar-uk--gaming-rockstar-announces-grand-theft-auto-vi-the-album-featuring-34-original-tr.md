@@ -14,6 +14,38 @@ categories:
 - Technology & Software
 - Music
 - Video Gaming
+locations: []
+people:
+- CA7RIEL & Paco Amoroso
+- Fred
+- Keith Richards
+- Leonida
+- Morgan Wallen
+- PinkPantheress
+- Rauw Alejandro
+- Travis Scott
+- Yung Lean
+organisations:
+- Amazon
+- Barnes & Noble
+- Best Buy
+- Blood Records
+- Demi Williams
+- Etienne de Crécy
+- GameSpot
+- GamesRadar
+- Google News
+- Guy-Manuel de Homem-Christo
+- Metro Boomin
+- NME
+- PinkPantheress
+- RHYNO
+- Rockstar
+- Sexy Magic
+- Target
+- TechRadar
+- Urban Outfitters
+- Walmart
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/hYVggdAmjgiJdosJQEzrED.jpg) 

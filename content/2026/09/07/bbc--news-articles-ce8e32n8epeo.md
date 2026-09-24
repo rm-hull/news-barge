@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Miami International Airport
+- Puerto Rico
+- San Juan
+- US
+people:
+- Jennifer Homendy
+organisations:
+- 21 Air
+- Amazon Prime Air
+- BBC Verify
+- EMAS
+- Ford
+- Miami International Airport
+- NTSB
+- National Transportation Safety Board
+- Tesla
+- Toyota
 ---
 
 Homendy: 'In the van were seven persons'

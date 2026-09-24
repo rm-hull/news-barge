@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Colne
+- Ilkley
+- Keighley
+- Lancashire
+- Leeds
+- North Yorkshire
+- Silsden and Cross Hills
+- Skipton
+people:
+- Cllr Cohn
+- Dave Shephard
+- Ralph Cohn
+organisations:
+- Airedale
+- Bradford Council
+- Bradford Council’s Executive
+- District’s Strategic Transport Priorities
 ---
 
 *(Image: T&A)*

@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- Iran
+- Kuhestak
+- Sirik County
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Ali Jafarian
+- Donald Trump
+- JD Vance
+organisations:
+- IRC
+- International Criminal Court
+- Iranian Red Crescent
+- Mehr
+- Pentagon
+- The Washington Post
 ---
 
 The US defence ministry is investigating the strong possibility that an deadly airstrike on a wedding in Iran was the result of a US bomb missing a nearby target, according to a report.

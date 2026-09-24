@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a0d6/live/96e98bf0-b690-11f1-99b0-21d40bed432b.jpg
+locations:
+- Anfield
+- Blackpool
+- France
+- Liverpool
+- Merseyside
+- Morocco
+- Paris
+people:
+- Anfield.
+- Jurgen Klopp
+- Kylian Mbappe
+organisations:
+- Athletic
+- France
+- Ligue
+- Liverpool
+- Magenta TV
+- Monaco
+- Nice
+- PSG
+- Paris St-Germain
+- Real Madrid
+- Reds
 ---
 
 ![Kylian Mbappe of France and Jurgen Klopp are seen after the World Cup quarter-final match between France and Morocco](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a0d6/live/96e98bf0-b690-11f1-99b0-21d40bed432b.jpg)

@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/01/22/2026-09-01T170402Z_1805280
 categories:
 - News & Politics
 - UK
+locations:
+- Asheville
+- Britain
+- China
+- Iran
+- North Carolina
+- Russia
+- U.S.
+- UK
+people:
+- Donald Trump
+- Emma Reynolds
+- Scott Bessent
+organisations:
+- G20
+- Reuters
+- Tax Foundation
+- Trump
+- U.S. Treasury
 ---
 
 Britain will pursue a "pragmatic relationship" with China over trade while addressing the "sensitive" issue of global imbalances, Chief Secretary to the UK Treasury Emma Reynolds said on Tuesday.

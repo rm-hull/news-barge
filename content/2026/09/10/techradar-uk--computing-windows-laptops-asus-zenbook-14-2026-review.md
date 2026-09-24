@@ -11,6 +11,23 @@ description: The new Asus Zenbook 14 features the same super portable body — b
 image: https://cdn.mos.cms.futurecdn.net/w5pdLNmYhsdCkfgFoTdLob-2520-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Solar Bay
+- US
+people:
+- Lewis Maddison
+- Zenbook
+organisations:
+- A14
+- Arctic Blue
+- GPU
+- HP OmniBook 7
+- Komodo Coral
+- Qualcomm Adreno
+- Snapdragon X1
+- TechRadar Pro
+- Zabriskie Beige
 ---
 
 ### TechRadar Verdict

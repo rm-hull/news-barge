@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Dyche Lane
+- Sheffield
+people: []
+organisations:
+- 'CCTV ## Police'
+- Crimestoppers
+- Meadowhead School
+- South Yorkshire Police
 ---
 
 # Urgent search for two men suspected of stealing laptops from school as police release CCTV

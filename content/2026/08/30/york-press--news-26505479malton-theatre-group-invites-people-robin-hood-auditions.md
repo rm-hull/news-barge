@@ -13,6 +13,13 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Kirkham Henry Studios
+people:
+- Robin Hood
+organisations:
+- Norton Theatre Group
+- The Malton
 ---
 
 *(Image: Malton and Norton Theatre Group)*

@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- '## Yorkshire'
+- Blenkin & Co)* Bay
+- Crescent Terrace
+- Esplanade
+- North Terrace
+- Sandbeck Hotel
+- Scarborough
+- The Sandbeck Hotel
+- Walshford
+- West Cliff
+- Whalebone Arch
+- Whitby
+people:
+- '**__Delmont'
+organisations:
+- '**__Helaina'
+- '**__Savills'
+- Blenkin & Co
+- Captain Cook Memorial
+- Central Hotel
+- Christie & Co
+- Christie & Co__**
+- Sandbeck Hotel
+- The Bridge Hotel & Spa
+- The Sandbeck Hotel
 ---
 
 ## Yorkshire Victorian seafront property with 12 holiday lets listed for sale at £1.6m

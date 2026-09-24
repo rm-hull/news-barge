@@ -12,6 +12,52 @@ image: https://i.guim.co.uk/img/media/ff798d47182bd44a2a839c9d41e02e5f52812bbe/9
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- Europe
+- Kent
+- Port of Dover
+- UK
+- West Midlands
+people:
+- Anne Widdcombe
+- Anne Widdicombe
+- Ben Quinn
+- Brexit
+- Burnham
+- Chris Vinson
+- Dan Jukes
+- James Orr
+- Lee Anderson
+- Nadine Dorries
+- Nigel Farage
+- Peter Walker
+- Pippa Crerar
+- Richard Tice
+- Robert Jenrick
+- Rowena Mason
+- Suella Braverman
+- Zia Yusuf
+organisations:
+- Brexit
+- Dover District Council
+- EU
+- Green
+- Isabel Infantes
+- King’s College London
+- LBC
+- Labour
+- Opinium
+- PA
+- Policy Institute
+- Press Association
+- Quarter of Reform
+- Reform UK
+- Reform UK Conference
+- Reuters Violence
+- Temilade Adelaja
+- Times Radio
+- Tolga Akmen
 ---
 
 No real mention by Anderson of the problems that overshadowed events yesterday. He ended his opening speech saying: "Yesterday was great. Today is going to be absolutely brilliant.”

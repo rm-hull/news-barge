@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations: []
+people:
+- '![Vibes'
+- Andy Burnham
+- Keir Starmer
+- Kemi Badenoch
+- Liz Truss
+- Tony Blair
+- ’s Questions
+organisations:
+- HM Opposition
+- House of Commons
+- PMQs
 ---
 
 # PMQs: vibes turn to jibes - time to stop soft-soaping the nation, Prime Minister

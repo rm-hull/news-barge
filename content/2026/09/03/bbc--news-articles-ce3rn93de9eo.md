@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Afghanistan
+- BBC
+- Belgium
+- Downing Street
+- Dunkirk
+- France
+- Gravelines
+- Hardelot
+- Loon-Plage
+- UK
+people:
+- Andy Burnham
+- Emmanuel Macron
+- Marianne Baisnée
+- Pol
+organisations:
+- BBC
+- News Daily
 ---
 
 The BBC watched groups of migrants boarding an inflatable dinghy on the Gravelines beach in northern France

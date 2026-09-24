@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- North Yorkshire
+people:
+- Koyo
+- Michael Lazenby
+- Vicki Jackson
+organisations:
+- Bamford
+- Gisborough Hall Country House Hotel
+- Sakura Head Spa
+- Sakura Spa
+- The Sakura Spa Club
 ---
 
 *(Image: Michael Lazenby)*

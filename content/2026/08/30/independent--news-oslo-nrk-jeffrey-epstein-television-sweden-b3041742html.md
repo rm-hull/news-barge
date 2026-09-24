@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Asker Church
+- Norway
+- Oslo Cathedral
+- Sweden
+people:
+- Dean Pål Kristian Balstad
+- Haakon VIII
+- Harald Fairhair
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- Mette-Marit
+organisations:
+- NRK
 ---
 
 Norwegians across the country lined up early Sunday in front of cathedrals and churches for memorial services held for the late King Harald V, who died at 89.

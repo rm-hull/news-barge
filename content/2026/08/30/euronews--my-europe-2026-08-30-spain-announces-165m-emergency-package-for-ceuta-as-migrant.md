@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Ceuta
+- Morocco
+- Spain
+people:
+- Carlos Cuerpo
+- Pedro Sánchez
+- Ángel Víctor Torres
+organisations:
+- Ceuta
+- Council of Ministers
+- RTVE
+- Territorial Policy and Democratic Memory
 ---
 
 ## The Council of Ministers will on Tuesday approve an emergency package to revive the economy and strengthen public services in Ceuta, one month after the mass arrival of migrants.

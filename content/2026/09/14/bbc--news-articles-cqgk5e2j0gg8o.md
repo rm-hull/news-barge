@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- China
+- UK
+- US
+people:
+- AI
+- Altman
+- Claude
+- Dario Amodei
+- Donald Trump
+- Evan Hubinger
+- Geoffrey Hinton
+- Jack Clark
+organisations:
+- AI and Data Centers
+- Anthropic
+- BBC **
+- OpenAI
 ---
 
 AI "more powerful by the day", Anthropic co-founder tells BBC

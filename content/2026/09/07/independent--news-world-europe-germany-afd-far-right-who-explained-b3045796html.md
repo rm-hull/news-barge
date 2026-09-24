@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/09/07/12/2293184319..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Europe
+- France
+- Germany
+- Poland
+- Potsdam
+- Russia
+- Saxony-Anhalt
+- Tangermuende
+- Thuringia
+- Ukraine
+people:
+- Alexander Gauland
+- Alice Weidel
+- Bjorn Hocke
+- Friedrich Merz
+- Julia Siegmund
+- Kirill Dmitriev
+- Sven Schulze
+- Ulrich Siegmund
+organisations:
+- AfD
+- AfD”
+- Alternative for Germany
+- BfV
+- Bundestag
+- CDU
+- Eurozone
+- Iron Cross
 ---
 
 The far-right Alternative for Germany (AfD) party has won an historic victory in state elections in the east of the country, delivering a fresh blow to Friedrich Merz’s ailing government and paving the way for the party to trial its radical policies.

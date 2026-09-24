@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Hotel Indigo York
+- North
+people:
+- Roberta d’Elia
+- Rosanna
+- Yasmine Hammadache
+organisations:
+- Hotel Indigo
+- Hotel Indigo York
+- Pasta Academy
+- Pasta Evangelist
+- Pasta Evangelists
+- Prosecco
 ---
 
 *(Image: Hotel Indigo York)*

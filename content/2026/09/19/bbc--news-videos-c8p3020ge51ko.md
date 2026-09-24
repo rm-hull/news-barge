@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb7/live/29eb9d30-b362-11f1-a430-4d16ee157c41.jpg
+locations: []
+people:
+- AI
+- Joe Tidy
+organisations:
+- AI
 ---
 
 # Could AI wipe out humans and how might it do it?

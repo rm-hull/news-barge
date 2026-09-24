@@ -12,6 +12,56 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Berlin
+- Black Sea
+- Bonn
+- England
+- Europe
+- Germany
+- Halle Airport
+- Kinburn Spit
+- Kremlin
+- Kyrgyzstan
+- Leipzig
+- Moscow
+- Mykolaiv
+- Odesa
+- Russia
+- Russian House
+- St Petersburg
+- US
+- Ukraine
+- Wales
+- West
+people:
+- Alexander Dobrindt
+- Antonina Kulhava
+- Donald Trump
+- Johann Wadephu
+- Johann Wadephul
+- Maira Butt
+- Maria Zakharova
+- Matteo Zuppi
+- Osprey
+- Sergii Koretskyi
+- Serhiy Lysak
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yava’
+- Yuri Ushakov
+organisations:
+- Crimea.Realities
+- FPV
+- German Press Agency
+- Kyiv
+- Nato
+- Osprey Flight Solutions
+- Radio Free Europe
+- Radio Liberty
+- Reuters Germany
+- Telegram
+- The Independent
 ---
 
 Volodymyr Zelensky has deemed Russian airspace to be “completely unsafe” in a warning to airlines ahead of Ukrainian drone attacks.

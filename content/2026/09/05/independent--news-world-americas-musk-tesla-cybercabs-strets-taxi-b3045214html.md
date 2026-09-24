@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Austin
+- China
+- Cybercab
+- Florida
+- Tesla
+- Texas
+- U.S.
+people:
+- Austin
+- Donald Trump
+- Elon Musk
+- Waymo
+organisations:
+- Amazon
+- BYD
+- Cybercab
+- DOGE
+- European Union
+- Gallup
+- Musk
+- Pew Research Center
+- RobotaxiTracker
+- Tesla
+- Teslas
+- Waymo
 ---
 
 Elon Musk sent dozens of self-driving Cybercabs without steering wheels or brake pedals onto the streets of Austin, Texas, on Thursday, betting that Americans will overcome their fears of rides with “no control” and hop inside.

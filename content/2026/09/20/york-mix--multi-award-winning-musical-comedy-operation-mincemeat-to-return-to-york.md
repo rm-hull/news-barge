@@ -12,6 +12,27 @@ categories:
 - Comedy & Entertainment
 - Music
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/Operation-Mincemeat-left-to-right-is-Charlotte-Hanna-Williams-Jamie-Rose-Monk-Sean-Carey-Holly-Sumpton-and-Christian-Andrews-credit-Matt-Crockett.webp
+locations:
+- Broadway
+- London
+- New Diorama Theatre
+- West End
+- York
+people:
+- David Cumming
+- Felix Hagan
+- Hitler
+- Natasha Hodgson
+- Robert Hastie
+- SpitLip
+- Zoë Roberts
+organisations:
+- Fortune Theatre
+- Golden Theatre
+- London Fringe New Diorama Theatre
+- National Theatre
+- Riverside Studios
+- Southwark Playhouse
 ---
 
 The Tony and double Olivier Award-winning hit musical *Operation Mincemeat* has announced its return to York.

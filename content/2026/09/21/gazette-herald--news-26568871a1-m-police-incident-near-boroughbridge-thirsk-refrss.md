@@ -14,6 +14,22 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21483536.jpg?type=og-image
+locations:
+- Boroughbridge
+- MAJOR
+- Major Yorkshire
+- Thirsk
+- York
+people: []
+organisations:
+- A1
+- A1M
+- AA Traffic News
+- Boroughbridge
+- Dishforth
+- J48
+- J49
+- National Highways
 ---
 
 A MAJOR road close to York has been closed due to a 'police-led' incident - with delays of more than an hour and increasing.

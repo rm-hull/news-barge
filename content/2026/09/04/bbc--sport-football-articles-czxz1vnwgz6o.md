@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Grace Geyoro
+- Hayes Lane
+- London City
+- Spain
+- US
+people:
+- Alanna Kennedy
+- Alexia Putellas
+- Danielle van de Donk
+- Delphine Cascarino
+- Eder Maestre
+- Eva Olid
+- Julia Zigiotti
+- Mapi Leon
+- Mary Earps
+- Michele Kang
+- Nicole Anyomi
+- Rosa Kafaji
+- Simi Awujo
+organisations:
+- Ex-United
+- London City
+- London City Lionesses
+- Manchester United
+- WSL
+- Women's Super League
+- ex-Hearts
 ---
 
 ![London City Lionesses celebrate](https://ichef.bbci.co.uk/ace/standard/748/cpsprodpb/4120/live/e21538d0-a8b3-11f1-9417-f520939c68f6.jpg)

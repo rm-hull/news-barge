@@ -13,6 +13,28 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/15/Britain_Harry_77161.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- United States
+people:
+- AI
+- Bill Clinton
+- Donald Trump
+- Harry
+- Hillary Clinton
+- Meghan
+- Xi Jinping
+organisations:
+- AI
+- AP
+- Archewell Foundation
+- CGI
+- Clinton Global Initiative
+- Duke of Sussex
+- Lilly Endowment Inc
+- Meta
+- The Conversation US
+- The Parents Network
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

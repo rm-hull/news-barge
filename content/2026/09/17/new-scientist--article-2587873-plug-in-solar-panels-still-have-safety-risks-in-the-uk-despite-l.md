@@ -12,6 +12,18 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Great Britain
+- UK
+people:
+- Mark Coles
+organisations:
+- DESNZ
+- Department for Energy Security and Net Zero
+- IET
+- New Scientist
+- UK Institution of Engineering and Technology
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685605.jpg?w=840)

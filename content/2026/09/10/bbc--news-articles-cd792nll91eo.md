@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Australia
+- South East Asia
+- Sulawesi
+people:
+- Adam Brumm
+organisations:
+- Griffith University
 ---
 
 ![A small segment of the remains of a human jaw with three teeth. The background is black.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/52d8/live/c08c5810-ad09-11f1-a6a8-e924739dac6d.jpg)

@@ -12,6 +12,39 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoff
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Europe
+- Israel
+- U.S.
+people:
+- Anne Neuberger
+- Bogomil Balkansky
+- Greenoaks
+- Niv Hoffman
+- Ofir Ehrlich
+- Omer Adam
+- Varun Anand
+- Yair Saban
+- Yinon Costica
+- Zach Frankel
+organisations:
+- AIR
+- Air
+- Astrix Security
+- CEO
+- CTO
+- Clay
+- Cognition
+- Eon
+- MCP
+- Netz
+- Noma Security
+- Operant AI
+- Sequoia
+- Swish
+- TechCrunch
+- Wiz
+- Zenity
 ---
 
 As companies start giving AI agents access to an increasing portion of their systems, a nascent software supply chain seems to be forming around the new tooling AI agents are using: skills, plug-ins, MCP servers, and add-ons that let them interact with the internet.

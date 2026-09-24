@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Church Lane
+- Church Street
+- Dunnington
+- York
+people: []
+organisations:
+- City of York Council
+- Dunnington Parish Council
 ---
 
 PLANS to restrict parking in a York village have been watered down following objections.

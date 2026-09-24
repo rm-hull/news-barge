@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Connell
+- County Durham
+- Darlington
+- England
+- Marti.Gray
+- South Park
+people:
+- Marti Gray
+- Matt Roche
+- Sean O'Connell
+organisations:
+- Darlington Borough Council
+- Yorkshire Dales
 ---
 
 A free digital trail encouraging people to get active launches in Darlington's South Park this weekend.

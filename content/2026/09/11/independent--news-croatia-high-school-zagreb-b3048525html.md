@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Croatia
+- Zagreb
+people: []
+organisations:
+- Ministry of Education
 ---
 
 High school stabbing in Croatia leaves 2 wounded and attacker detained

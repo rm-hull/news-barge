@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Britain
+- England
+- North East
+- UK
+people:
+- Beth Mead
+- Gary Neville
+- Ian Wright
+- Jill Scott
+- Roy Keane
+organisations:
+- British Gas
+- Foundation of Light
+- Manchester City
+- Sunderland AFC
+- Teesside University Spennymoor
+- Women's Super League
 ---
 
 Two of the North East's most celebrated footballers have been named among Britain's greatest female role models in a new nationwide poll.

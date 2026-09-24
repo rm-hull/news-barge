@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Travel
 - Technology & Software
+locations:
+- Africa
+- Americas
+- Asia Pacific
+- Bogotá
+- Caracas
+- Colombia
+- Doha
+- Europe
+- Finland
+- Frankfurt
+- Gulf
+- Helsinki
+- London Heathrow
+- Middle East
+- Qatar
+- Venezuela
+people:
+- Abdulla Ali
+- Ali AlSaadi
+- Hamad Ali Al-Khater
+organisations:
+- Al-Khater
+- British Airways
+- Euronews Travel
+- Hamad International Airport
+- London Heathrow
+- MRO
+- Qatar Airways
+- Qatar Airways Group
+- Qatar Airways’
+- Qatar Airways’ Doha
+- Qsuite
+- Qsuites
+- Souq Waqif
 ---
 
 ## During a tour of Doha’s Hamad International Airport, Qatar Airways’ CEO and management discussed the airline’s recovery from regional disruption while preparing for the winter season, new aircraft and next generation of Qsuites.

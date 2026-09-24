@@ -12,6 +12,30 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/54/73/1200x675_cmsv2_662447ac-a1d8-5c67-b5e6-f0f4c06840cc-9925473.jpg
+locations:
+- Australia
+- Canada
+- Finland
+- Ghana
+- India
+- Kyiv
+- Moscow
+- Nepal
+- North Korea
+- Russia
+- South Korea
+- Ukraine
+- Zaporizhzhia
+people:
+- '## Zelenskyy'
+- Donald Trump
+- Sergey Lavrov
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv
+- UN General Assembly
+- UN Security Council
 ---
 
 ## Zelenskyy questioned Russia’s willingness to end the war, portraying Vladimir Putin as a leader who continues to expand conflict rather than seek peace.

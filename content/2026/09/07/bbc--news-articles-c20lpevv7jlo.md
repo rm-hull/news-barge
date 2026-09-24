@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Birmingham
+- Buckingham Palace
+- California
+- Duchess
+- Duke
+- London
+- UK
+people:
+- Archie
+- Chamberlain
+- Charles
+- Duchess
+- King
+- Lilibet
+- Lord Lieutenants
+- Meghan
+- Prince Harry
+organisations:
+- Duchess of Sussex
+- Lord Lieutenants
+- Netflix
+- Ravec
+- Royal Family
+- Royal Watch
+- Sovereign
+- Sussexes
+- The Duke
+- Tower Bridge Studios
+- VIP Executive Committee
 ---
 
 ![Prince Harry and Meghan](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1cd1/live/6e721f30-aac8-11f1-8881-75c1b8a858c8.jpg)

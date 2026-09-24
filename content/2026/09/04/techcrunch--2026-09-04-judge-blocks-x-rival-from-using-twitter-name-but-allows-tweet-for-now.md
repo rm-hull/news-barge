@@ -13,6 +13,21 @@ image: https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Delaware
+- Illinois
+people:
+- Colm F. Connolly
+- Elon Musk
+- Michael Peroff
+- Stephen Coates
+organisations:
+- Elon Musk’s X
+- Operation Bluebird
+- TechCrunch
+- Twitter
+- U.S. District Court
+- X Corp
 ---
 
 A federal court in Delaware has ruled on a trademark fight between Elon Musk’s X and a startup trying to launch a rival social network. The startup, Operation Bluebird, originally launched under the name Twitter.now, but the court barred it from using that name, siding with X on the core “Twitter” trademark. However, the court also found that X had likely abandoned two other, related trademarks: the word “tweet” and the Twitter bird logo, making them available to use. Operation Bluebird has since rebranded its website as Tweet.app, using the freed-up “tweet” name, and launched to the public.

@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Applegarth Short Stay Car Park
+- County Durham
+- High Street
+- North Yorkshire
+- Northallerton Drivers
+- Northallerton One
+- Teesside
+- Upwell Road
+people: []
+organisations:
+- Applegarth
+- North Yorkshire Council
+- Northallerton Workers
 ---
 
 Motorists have questioned a North Yorkshire town's new ticketless parking machines, the cost of longer stays and fears that they will push cars into nearby streets.

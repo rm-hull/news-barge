@@ -13,6 +13,37 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- England
+- Northern Ireland
+- Scotland
+- Shiga
+- UK
+- Wales
+people: []
+organisations:
+- A.Vogel Ltd
+- ASR Solutions Ltd
+- Bon Bons Wholesale Ltd
+- DWP
+- Dill Crisps
+- East Street Deli Sweet Chilli Chicken Wrap
+- FSA
+- Food Standards Agency
+- Gü
+- HMRC
+- Home Bargains
+- Lays Sour Cream
+- Macroom Buffalo Cheese
+- Macroom Buffalo Cheese Bocconcini
+- Macroom Buffalo Cheese Mozzarella
+- Macroom Buffalo Cheese Products
+- Rapunzel bioSnacky Das
+- Snacksters Chicken Fajita Wrap
+- Snacksters Hoi Sin Wrap
+- Summit Foods
+- Tesco
+- Waitrose
 ---
 
 *(Image: Getty Images/iStockphoto)*

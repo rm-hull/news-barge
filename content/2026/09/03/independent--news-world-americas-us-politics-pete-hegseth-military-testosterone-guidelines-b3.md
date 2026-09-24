@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations: []
+people:
+- Donald Trump
+- Pete Hegseth
+organisations:
+- Air Force
+- CBS News
+- Defense Department
+- Defense Health Agency
+- Department of Defense
+- Fox News
+- Hegseth
+- Pentagon
+- Reuters
+- The Independent
 ---
 
 The Pentagon’s clinical guidance outlining required testosterone testing among military members was taken off the Department of Defense’s website Thursday, less than 24 hours after being published.

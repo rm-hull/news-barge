@@ -14,6 +14,52 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- BBC
+- Benedictine
+- Britain
+- Cambridge
+- Castle Howard
+- Grantchester
+- Happy Valley
+- Hollywood
+- Hovingham Hall
+- Howardian Hills
+- London
+- Malton
+- National Landscape
+- Newburgh Priory
+- North York Moors
+- North Yorkshire
+- Nunnington Hall
+- PA
+- Scarborough
+- Vale of York
+- Yorkshire Wolds
+people:
+- Belle
+- Bob Marley
+- Graham Norton
+- James Norton
+- McMafia
+- Rush
+- Sidney Chambers
+- Tommy Lee Royce
+organisations:
+- Ampleforth College
+- Area of Outstanding Natural Beauty
+- Bramcote Prep School
+- Condé Nast Traveller
+- EMMA RICHARDSON
+- Fitzwilliam College
+- Grantchester
+- Happy Valley
+- Howardian Hills
+- ITV
+- Little Women
+- Royal Academy of Dramatic Art
+- Scarborough
+- Stephen Joseph Theatre
 ---
 
 A corner of North Yorkshire known for its rolling countryside, woodland and historic estates also helped shape one of Britain’s best-known actors, Happy Valley and Grantchester star James Norton.

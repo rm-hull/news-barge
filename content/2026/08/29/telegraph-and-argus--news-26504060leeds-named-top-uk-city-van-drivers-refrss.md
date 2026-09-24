@@ -12,6 +12,18 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Belfast
+- Manchester
+- Pixabay
+- UK
+people:
+- Alicia Hempsted
+organisations:
+- Cardiff
+- LEEDS
+- Leeds
+- MoneySuperMarket
 ---
 
 *(Image: Pixabay)*

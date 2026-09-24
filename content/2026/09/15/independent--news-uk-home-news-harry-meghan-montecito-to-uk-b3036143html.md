@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Buckingham Palace
+- California
+- Clarence House
+- Highgrove House
+- London
+- Princess of Wales
+- UK
+- US
+- Uganda
+- Windsor Castle
+people:
+- :** Harry
+- :** Kate
+- :** Meghan
+- Archie
+- Camilla
+- Diana
+- Elizabeth II
+- King Charles III
+- Lilibet
+- Meghan Markle
+- Oprah Winfrey
+- Prince Harry
+- William
+organisations:
+- Associated Newspapers
+- CBS
+- Daily Mail
+- Daily Telegraph
+- Duchess of Sussex
+- Harry’s
+- High Court
+- Home Office
+- Metropolitan Police
+- Mirror
+- Netflix
+- Spotify
+- The Sun
 ---
 
 Prince Harry and Meghan are planning to move their family back to the UK later this month after six years of living in the US, according to British media reports, but are not expected to return as working members of the royal family.

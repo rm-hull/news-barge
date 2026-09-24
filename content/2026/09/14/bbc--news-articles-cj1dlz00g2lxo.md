@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- America
+- Britain
+- London
+- Nine Elms
+- Northamptonshire
+- RAF Croughton
+- UK
+- US
+- United States
+- Washington DC
+people:
+- Anne Sacoolas
+- Charlotte Charles
+- Harry Dunn
+- Harry Dunn.
+- Radd Seiger
+organisations:
+- Charlotte Charles
+- Metropolitan Police
+- Northamptonshire
 ---
 
 ![Charlotte Charles sits on a black sofa. She is wearing a black T-shirt and her blonde hair is up.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2617/live/49c1e6c0-d0f3-11f0-b0cc-cf4d0e5d41e2.jpg)

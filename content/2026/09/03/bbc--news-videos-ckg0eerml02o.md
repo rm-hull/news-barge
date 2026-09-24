@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Himalayas
+- Nepal
+- Nepal-Tibet
+- Trishuli River
+people:
+- Azadeh Moshiri
+organisations:
+- BBC South Asia
 ---
 
 # Nepal tunnel rescuers hunt for survivors with rafts and drone

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Coulson Street
+- County Durham
+- Framwellgate Moor
+- North East
+- Old School House
+- Spennymoor
+- TIN Dance House
+people:
+- Martin Wilson
+organisations:
+- Better Youth Spaces Fund
+- Durham County Council
+- Durham Freemasons
+- James Knott Trust
+- Social Investment Business
+- TIN Arts
+- TIN Dance House
+- The Barbour Foundation
+- The Catherine Cookson Charitable Trust
 ---
 
 A County Durham arts charity has welcomed its first dancers to a new purpose-built centre after months of fundraising and preparation.

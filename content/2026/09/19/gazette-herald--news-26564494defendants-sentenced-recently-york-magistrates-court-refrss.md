@@ -13,6 +13,40 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/20629021.jpg?type=og-image&xType=0&yType=24
+locations:
+- Brook Street
+- Cemetery Road
+- Clarence Street
+- Clifton Moor
+- East Parade
+- Filey
+- Flaxman Avenue
+- Gillygate
+- Hamilton Drive East
+- Lawrence Street
+- Shambles Market
+- Sunderland
+- Tang Hall
+- The Crescent
+- Thirsk
+- Wilfred Street
+- York Magistrates Court
+people:
+- Adam Thackway
+- Deborah Madden-Brooke
+- Holgate
+- Jordan Fletcher
+- Kevin Jackson
+- Lee Botterill
+- Melanie Longstaff
+- Michaela Allan
+- Stanley
+organisations:
+- BP
+- Boots
+- Newsquest
+- Nutella
+- Tesco
 ---
 
 *(Image: Newsquest)*

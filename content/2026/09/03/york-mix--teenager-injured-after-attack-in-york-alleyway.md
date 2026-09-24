@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Constantine Avenue
+- Hewley Avenue
+- Tang Hall
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- Via
 ---
 
 A teenager was hurt after being assaulted in a York alleyway.

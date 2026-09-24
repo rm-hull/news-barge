@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Bandar Abbas
+- Iran
+- Strait of Hormuz
+- Tehran
+- U.S.
+people:
+- Donald Trump
+organisations:
+- Trump
 ---
 
 Fuel costs hit an unprecedented high in the U.S. on Friday, with diesel soaring to a record national average of $5.85 a gallon as an ongoing six-month war with Iran continues to disrupt global fuel flows.

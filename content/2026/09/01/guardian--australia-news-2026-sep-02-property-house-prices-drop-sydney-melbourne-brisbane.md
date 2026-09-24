@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Real Estate
+locations:
+- Adelaide
+- Australia
+- Brisbane
+- Melbourne
+- Perth
+- Sydney
+people:
+- Belinda Allen
+- Jonathan Kearns
+- Michele Bullock
+- Shane Oliver
+organisations:
+- AMP
+- CBA
+- Challenger
+- Cotality
+- RBA
+- Reserve Bank
 ---
 
 The prospect of the steepest property market downturn in history will not stop the Reserve Bank from delivering a fourth interest rate hike as it battles to bring inflation back under control, economists say.

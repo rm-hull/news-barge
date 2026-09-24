@@ -15,6 +15,22 @@ categories:
 - Health & Fitness
 - Self-Improvement
 - Careers & Productivity
+locations:
+- Darlington
+- England
+- Hoults Yard
+- Newcastle
+- North East
+people:
+- Harry Armstrong
+- James Carss
+- Mr Haughton
+- Odeth Richardson
+- Sarat Pediredla
+organisations:
+- Castle Peak Group
+- NHS
+- Opencast
 ---
 
 A new report is calling for greater diversity in NHS leadership to better reflect the communities they serve.

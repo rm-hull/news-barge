@@ -13,6 +13,19 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/11/Nolan_Wells_53329.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gulf Coast
+- Horn Island
+- Jackson County
+- Mississippi Gulf Coast
+people:
+- Angel Myers McIlrath
+- Ben Crump
+- Nolan Wells
+- Wells’
+organisations:
+- Jackson County Grand Jury
+- Jackson County Sheriff’s Office
 ---
 
 A grand jury has found there wasn't evidence to bring charges in the death of Nolan Wells, a Black teen who was found dead after a July 4 boating trip off the Mississippi Gulf Coast.

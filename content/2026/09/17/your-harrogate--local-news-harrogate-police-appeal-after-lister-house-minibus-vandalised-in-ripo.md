@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg
+locations:
+- Judson Close
+- Lister House
+- North Yorkshire
+- Ripon
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg)

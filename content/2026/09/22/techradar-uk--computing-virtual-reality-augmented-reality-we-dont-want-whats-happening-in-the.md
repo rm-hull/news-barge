@@ -11,6 +11,31 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/iiFqQCft9VRW7S5n7MH75R-2560-80.jpg
+locations:
+- Canterbury-Bankstown
+- City of Brisbane
+- City of Sydney
+- City of Yarra
+- England
+- Melbourne
+- New York
+- UK
+- US
+- Wales
+- Western Australia
+people:
+- Matthew Thompson
+- Nico
+- Sabine Winton
+organisations:
+- City of Sydney
+- Google News
+- ICE
+- Labor
+- Nico
+- TechRadar Australia
+- US Immigration and Customs Enforcement
+- University of Sydney
 ---
 
 ![The Ray-Ban Meta Smart Glasses Collection is stylish](https://cdn.mos.cms.futurecdn.net/iiFqQCft9VRW7S5n7MH75R.jpg)

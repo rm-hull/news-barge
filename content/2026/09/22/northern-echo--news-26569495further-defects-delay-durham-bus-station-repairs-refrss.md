@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21483724.jpg?type=og-image
+locations:
+- County Durham
+- Durham Bus Station
+- Ferryhill
+- North Road
+people:
+- Kevin Lough
+organisations:
+- Durham County Council
+- Reform UK
 ---
 
 *(Image: NORTHERN ECHO)*

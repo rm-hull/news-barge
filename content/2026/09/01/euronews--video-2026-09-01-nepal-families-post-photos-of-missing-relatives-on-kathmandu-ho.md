@@ -13,6 +13,12 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Nepal
+- Nepal-China
+- Tribhuvan University Teaching Hospital
+people: []
+organisations: []
 ---
 
 In Nepal’s capital, families searching for relatives missing after last week’s devastating floods are posting photographs on a wall outside Tribhuvan University Teaching Hospital.

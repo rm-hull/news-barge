@@ -11,6 +11,22 @@ image: https://media.wired.com/photos/6a97528b0b666cfc322885bf/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Ube
+people:
+- AI
+- Brendan Sweeney
+- McDonald
+- Michael Bortinger
+organisations:
+- AI
+- Kraft Heinz
+- Nestlé
+- PepsiCo
+- Popmenu
+- TasteGPT
+- Tastewise
+- Toast
 ---
 
 I can’t stop staring at the AI-slop images of Mexican food I see during my morning walk to work. On the menu posted outside, the taco truck displays lunch options that appear uncanny and unappetizing, as if an alien who’s never eaten human food before drew a taco from memory. This food truck is not alone in putting AI-generated images on its menu. It’s everywhere.

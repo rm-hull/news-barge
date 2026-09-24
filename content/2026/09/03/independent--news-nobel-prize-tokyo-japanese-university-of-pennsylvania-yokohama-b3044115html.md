@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Japan
+- Tokyo
+- Yokohama
+people:
+- Alan Heeger
+- Alan MacDiarmid
+- Hideki Shirakawa
+- McDiarmid
+organisations:
+- Tokyo Institute of Technology
+- University of Pennsylvania
+- University of Tsukuba
+- Yomiuri
 ---
 
 Japanese scientist Hideki Shirakawa, co-winner of the 2000 Nobel Prize in chemistry for discovering and developing conductive polymers, has died. He was 90.

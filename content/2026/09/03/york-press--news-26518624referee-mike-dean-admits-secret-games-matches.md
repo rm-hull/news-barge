@@ -13,6 +13,18 @@ categories:
 - York
 - Sports
 - Video Gaming
+locations:
+- PA
+people:
+- Adam Davy
+- David McDermott
+- Jamie Vardy
+- Mike Dean
+organisations:
+- FC Halifax Town
+- Having A Party
+- Premier League
+- York City
 ---
 
 ## Mike Dean admits to playing secret games during matches

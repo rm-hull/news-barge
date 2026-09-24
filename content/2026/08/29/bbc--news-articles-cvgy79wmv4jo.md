@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Norway
+- Oslo
+people:
+- Haakon VIII
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- Jonas Gahr Støre
+- Marius Borg Høiby
+- Mette-Marit
+- Märtha Louise
+- Sonja
+organisations:
+- Aftenposten
+- BBC
 ---
 
 King Haakon paid an emotional tribute to his parents on what would have been their wedding anniversary

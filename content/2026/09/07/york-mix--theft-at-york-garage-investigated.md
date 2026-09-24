@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- '#### Garage'
+- Hull Road
+- Shell Garage
+- York
+people: []
+organisations:
+- CCTV
+- Email Ben Hepworth
+- North Yorkshire Police
+- Via
 ---
 
 Do you know this man?

@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/17377414.jpg?type=og-image
+locations:
+- Calderdale
+- Illingworth
+- Keighley Road
+- Mixenden
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

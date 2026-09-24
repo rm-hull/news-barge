@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thenorthernecho.co.uk/resources/images/21481778.jpg?type=og-image&xType=0&yType=206
+locations:
+- Guisborough
+- James Cook University Hospital
+- Loftus
+- North East
+- Teesside
+- Yorkshire Dales
+people:
+- Sophie Warren
+- Susan
+- Theodore
+- Vicki Ness
+- Will Postgate
+organisations:
+- James Cook University Hospital
+- NHS Blood and Transplant
+- University Hospitals Tees
 ---
 
 Two people waiting for life-saving transplants are urging people to become organ donors after seeing how one decision can transform a life.

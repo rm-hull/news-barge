@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Kyiv
+- Moscow
+- Russia
+- Ukraine
+- Zaporizhzhia
+people:
+- Flash
+- Mykhailo Fedorov
+- Serhii Beskrestnov
+- Shahed
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- AI
+- Guardian
+- Shahed
+- UN
+- US Patriot
 ---
 
 Russia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s defence technology adviser.

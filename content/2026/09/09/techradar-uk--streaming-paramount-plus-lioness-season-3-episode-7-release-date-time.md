@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Film & TV
 - Sports
+locations:
+- Australia
+- Canada
+- Houston
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+- Washington
+people:
+- Byron
+- George Cooper Sr.
+- God
+- Joe
+- Kaitlyn
+- Zoe Saldaña
+organisations:
+- CIA
+- Google News
+- Hallmark
+- Jasmine
+- Lioness
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Joe walks along a hallway with a man behind her](https://cdn.mos.cms.futurecdn.net/rMd365DafrUh6Bt4RmLvZS.jpg) 

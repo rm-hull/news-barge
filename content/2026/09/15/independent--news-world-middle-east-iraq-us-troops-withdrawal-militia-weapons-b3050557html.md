@@ -14,6 +14,48 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Anbar
+- Baghdad
+- Fallujah
+- Iran
+- Iraq
+- Irbil
+- Islamic State
+- Israel
+- Jordan
+- Kurdistan
+- Samarra
+- Saudi Arabia
+- South Korea
+- Tehran
+- Turkey
+- U.S.
+- US
+- Washington
+- Yemen
+people:
+- Harakat al-Nujaba
+- Kataib Hezbollah
+- Kataib Sayyid al-Shuhada
+- Masrour Barzani
+- Mohammed A. Salih
+- Numan
+- Sabah al-Numan
+- Saddam Hussein
+- Sajad Jiyad
+- Saraya al-Salam
+organisations:
+- Atlantic Center
+- Badr Brigades Shiite
+- Foreign Policy Research Institute
+- Islamic State
+- Kurdistan Workers’ Party
+- PKK
+- PMF
+- Popular Mobilization Forces
+- The Associated Press
+- al-Asad Air Base
 ---
 
 As the end of the month approaches, Iraq faces two major deadlines: the conclusion of a decades-long U.S. military deployment and the required disarming of non-state paramilitary groups.

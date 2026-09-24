@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Nepal
+- Nepal-Tibet
+people:
+- Azadeh Moshiri
+organisations:
+- BBC
+- South Asia
 ---
 
 # 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors

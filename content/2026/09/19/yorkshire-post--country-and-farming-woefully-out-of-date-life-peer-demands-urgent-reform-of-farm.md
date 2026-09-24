@@ -13,6 +13,32 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJlMjE1ZWE1LTZlZDEtNGU5OS05ZGMwLTAxZDQ5ZTlmYjE3Yzo4MGUzZDczZC1mMDRkLTRjMzctYjlkNS05NWQ0NGZmZGUwMmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Brexit
+- Covid
+- Eden Farm
+- Knaresborough
+- Middle East
+- North Yorkshire
+- Old Malton
+- Pickering
+- Scotton
+- Thirsk
+- UK
+- Ukraine
+people:
+- Baroness McIntosh
+- Baroness Pickering
+organisations:
+- Baroness Pickering
+- Committee for Environment and Climate Change
+- Conference on Agricultural Policy
+- High Court
+- Historic England
+- House of Lords
+- NYC
+- North Yorkshire Council
+- Yorkshire Post
 ---
 
 # 'Woefully out of date' - Life peer demands urgent reform of farm tenancies

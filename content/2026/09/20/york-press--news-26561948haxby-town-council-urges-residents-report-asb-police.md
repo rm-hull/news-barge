@@ -14,6 +14,28 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/20162480.jpg?type=og-image&xType=0&yType=513
+locations:
+- Ethel Ward Playing Field
+- Haxby
+- North Yorkshire
+- Oaken Grove Community Centre
+- York
+people:
+- Haxby
+- Jo Coles
+- Luke Charters
+organisations:
+- ASB
+- CCTV
+- Channel 4
+- Haxby Town Council
+- Luke Charters
+- North Yorkshire Police
+- PCSO
+- The Political Slot
+- Wigginton Parish Council
+- Wigginton Youth and Community Association
+- York Outer Luke Charters
 ---
 
 ## 'Don't just post on social media - report it' - anti-social behaviour hits York town

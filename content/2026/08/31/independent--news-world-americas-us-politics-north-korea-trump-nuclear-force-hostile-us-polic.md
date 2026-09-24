@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/08/19/14/28/GettyImages-1159161650.
 categories:
 - News & Politics
 - UK
+locations:
+- Democratic People's Republic of Korea
+- Japan
+- North Korea
+- Pyongyang
+- Seoul
+- South Korea
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- Kim Jong Un
+- Kim Yo Jong
+- Washington
+organisations:
+- DPRK
+- Foreign Ministry
+- KCNA
 ---
 
 North Korea declared on Monday that Washington’s hostile policy remains unchanged and pledged to continue strengthening its nuclear capabilities, rebuffing repeated American calls for denuclearization.

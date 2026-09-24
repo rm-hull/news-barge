@@ -14,6 +14,50 @@ categories:
 - UK
 - News & Politics
 - Video Gaming
+locations:
+- Hartburn
+- Mrs Park
+- Mrs Park’s Park
+- North East
+- Stockton-on-Tees
+- Teesside
+people:
+- Bob Mortimer
+- Claire Park
+- David Wilson
+- Hartburn
+- Harvey
+- Hayley Morgan
+- Jill Ellison
+- Julia Armstrong
+- June Small
+- Mandy Lockwood
+- Martin
+- Matthew
+- Mrs Park
+- Nigel
+- Olli
+- Paul Leadbitter
+- Pauline Park
+- Peter Barron
+- Pupil Summer Collins
+organisations:
+- Barratt Homes
+- Darlington Building Society
+- Friends of Hartburn Primary
+- Friends of Hartburn Primary School
+- Hartburn Primary
+- Hartburn Primary School
+- MND
+- Motor Neurone Disease
+- Motor Neurone Disease Association
+- Newby Leisure
+- One IT Services
+- Persimmon Homes
+- Prince Regent Street Trust
+- Puzzle Education
+- Ropner Trust
+- Stockton’s Men’s Shed
 ---
 
 A much-loved headteacher with Motor Neurone Disease has unveiled a new playground as her “special legacy” following an appeal that topped £100,000.

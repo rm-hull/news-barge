@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4156/live/4ddf8500-b563-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Singapore
+people: []
+organisations:
+- BBC Verify
 ---
 
 # Watch: Dramatic moment a cargo ship crashes into another vessel

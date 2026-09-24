@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/53979c8de29e2c55965bd6729ac9411f7a469f34/98_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=194c5ef3dabc1858afbe5bee0715358e
+locations:
+- Golden Gate Park
+- San Francisco
+people:
+- Karollyn
+- Katie Higgins
+- Nate
+organisations:
+- American Medical Response
+- San Francisco Standard
 ---
 
 A woman stuck in heavy traffic in San Francisco went into labor and gave birth to a healthy baby girl, local authorities have said.

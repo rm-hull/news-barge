@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Film & TV
 - Music
+locations:
+- Europe
+- Magnetar
+- US
+people:
+- Carrie Marshall
+organisations:
+- 4K Blu-ray
+- BYD
+- Google News
+- Magnetar
+- Ultima
+- Unquiet Mind
 ---
 
 ![The Magnetar Ultima 4K Blu-ray player, which consists of two large silver units stacked on top of each other](https://cdn.mos.cms.futurecdn.net/4cgx2VddPzYai4VuQf3dhH.jpg) 

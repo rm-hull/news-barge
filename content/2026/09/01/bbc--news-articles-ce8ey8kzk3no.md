@@ -13,6 +13,21 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56b9/live/1b430d
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Wales
+people:
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Mark Fairhurst
+organisations:
+- BBC Breakfast
+- Commons
+- Ministry of Justice
+- MoJ
+- PC
+- Prison Officers' Association
 ---
 
 ![A prison guard walks along a passageway next to a line of cells](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/56b9/live/1b430de0-b5b6-11f0-962a-97c89857c780.jpg)

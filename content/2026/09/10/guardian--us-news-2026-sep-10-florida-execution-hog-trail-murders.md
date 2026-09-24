@@ -11,6 +11,18 @@ image: https://i.guim.co.uk/img/media/437accbd84bd0913ac5123d2a1312d6c7f41c023/4
 categories:
 - UK
 - News & Politics
+locations:
+- Charlotte
+- Florida
+- Fort Myers
+- Montgomery
+- US
+people:
+- Conahan Jr
+- Daniel Owen Conahan Jr
+- Richard Allen Montgomery
+- Ron DeSantis
+organisations: []
 ---
 
 A Florida man was executed by lethal injection on Thursday after being convicted of one of a series of suspected killings that became known as the Hog Trail Murders in the 1990s.

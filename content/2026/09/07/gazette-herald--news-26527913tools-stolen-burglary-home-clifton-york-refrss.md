@@ -13,6 +13,13 @@ categories:
 - York
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Clifton
+- York
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: Pixabay)*

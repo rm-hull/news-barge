@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Minnesota
+people:
+- Amie Walden
+- Noah
+- Weber
+organisations:
+- Amazon
+- Burlington
+- CCB-W2
+- CPSC
+- Conair
+- Consumer Product Safety Commission
+- Cuisinart
+- Metal Wire Bristle Grill Brushes
+- Nexgrill
+- TJ Maxx
+- Walmart
 ---
 
 Millions of Cuisinart barbecue utensils have been recalled after several customers ingested their metal brushes.

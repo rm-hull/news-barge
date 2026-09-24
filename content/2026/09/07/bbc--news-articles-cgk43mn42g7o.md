@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- London
+- New York City
+- Paris
+- UK
+- US
+people:
+- Amanda Potter
+- Jamie Kohn
+- Katrina Collier
+- L'Oreal
+- Melissa Alcruz
+- Yumi Liberman
+organisations:
+- BBC
+- Brandstorm
+- Gartner
+- L'Oreal
+- L'Oréal Turning
+- MTV
+- Melissa Alcruz
+- Paramount Skydance Corporation
+- TV
+- Yumi Liberman
 ---
 
 ![Yumi Liberman smiles at the camera, wearing a black, sleeveless top, and green plants behind her](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg)

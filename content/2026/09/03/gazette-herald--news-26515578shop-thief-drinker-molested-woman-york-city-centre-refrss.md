@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Clarence Street
+- Easingwold
+- Eastholme Drive
+- Elland Road
+- Leeds
+- London
+- Rawcliffe
+- Rosemary Court
+- York
+people:
+- Adam Henry
+- Antony Farrell
+- Damen Metcalfe
+- Haydn Lewis
+organisations:
+- Co-op
+- Londis
 ---
 
 *(Image: Haydn Lewis)*

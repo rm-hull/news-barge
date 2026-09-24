@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Grade II
+- Leyburn
+- Middleham Bridge
+- North Yorkshire
+people:
+- Cllr Taylor
+- Malcolm Taylor
+organisations:
+- North Yorkshire Council
+- Whitby
 ---
 
 Middleham Bridge could reopen by the end of next month as plans progress to make the historic structure safe after it was hit by a lorry.

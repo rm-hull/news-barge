@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- CA
+- California
+- ChatGPT
+- Fayette County
+- Georgia
+- Morgan County
+- Mount Pleasant
+- U.S.
+- United States
+- Wisconsin
+people:
+- Alex Heath
+- Jowi Morales
+- SAM ALTMAN
+- Sam Altman
+- Scott
+- Tx
+organisations:
+- AI
+- Amazon
+- Google News
+- Jowi Morales
+- Microsoft
+- OpenAI
+- ReplyScott_Tx
 ---
 
 ![Sam Altman](https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ.jpg) 

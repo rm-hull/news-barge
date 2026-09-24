@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Acomb Wood Drive
+- Alness Drive
+- Moor Lane
+- Woodthorpe
+- York
+people: []
+organisations:
+- City of York Council
+- McDonald's
 ---
 
 CONCERNS about speeding in a residential York street have prompted plans to tackle the issue.

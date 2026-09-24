@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Sports
 - Society & Culture
+locations:
+- Australia
+- Canada
+- England
+- New Zealand
+- Wales
+people:
+- Helena Rowland
+- John Mitchell
+- Lisa Neumann
+- May Campbell
+organisations:
+- BBC Sport
+- England Rugby Union
+- Under-18s
+- World Rugby
 ---
 
 Why smaller rugby balls for women?

@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BRADFORD
+- Bradford Part
+- Great Horton Road
+- Nargis Bakes
+- New York
+- TikTok
+- UK
+- West Bowling
+people:
+- Nargis Shaheen
+organisations:
+- '## TikTok'
+- Crunch Cakes
+- Instagram
+- Magnolia Bakery
+- Nargis Bakes
+- T&A
 ---
 
 *(Image: T&A)*

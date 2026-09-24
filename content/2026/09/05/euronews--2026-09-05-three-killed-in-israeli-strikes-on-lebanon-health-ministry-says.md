@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Bekaa
+- Gaza
+- Israel
+- Lebanon
+- Nabatieh
+- Ramadiyah
+- Tyre
+- West Bank
+people:
+- Ayatollah Ali Khamenei
+- Benjamin Netanyahu
+organisations:
+- Hezbollah
+- IDF
+- Israel Defense Forces
 ---
 
 ## The Israel Defense Forces (IDF) said it had targeted Hezbollah infrastructure in southern Lebanon "in response to Hezbollah’s attempted attack yesterday against IDF troops operating in the security zone."

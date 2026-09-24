@@ -12,6 +12,16 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/14/17/iStock-2161462892.jpeg?trim=59,6,10,98&width=1200&height=800&crop=1200:800
+locations:
+- Japan
+- UK
+people: []
+organisations:
+- ASA
+- Advertising Standards Authority
+- Imperial Japanese Army
+- Jap Car South
+- Jap Car South Ltd
 ---
 
 A vehicle import business has issued an apology after the advertising watchdog concluded its company name was likely to result in serious racial offence.

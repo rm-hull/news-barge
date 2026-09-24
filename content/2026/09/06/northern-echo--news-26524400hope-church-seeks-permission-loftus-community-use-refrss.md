@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Consett
+- County Durham
+- Danby Methodist
+- East Cleveland
+- Hope Church East Cleveland
+- Loftus
+- Teesside
+- UK
+people:
+- Hope
+- Linda White
+- Tim Gray
+- Wayne Davies
+organisations:
+- Cleveland Council
+- Co-op
+- Help’
+- Hope Church
+- Methodist New Places for New People
+- Redcar
 ---
 
 A church is seeking retrospective planning permission from Redcar and Cleveland Council for a former Co-op building in Loftus used as a base for its activities.

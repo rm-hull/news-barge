@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Gowthorpe
+- Selby
+people:
+- Richard Singh
+- Selby Hands
+- Vicky Wood
+organisations:
+- Selby Hands of Hope
+- Yorkshire Building Society
 ---
 
 *(Image: Supplied)*

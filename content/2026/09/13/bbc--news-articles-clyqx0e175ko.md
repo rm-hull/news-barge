@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Health & Fitness
 - Film & TV
+locations:
+- America
+- Hollywood
+- Los Angeles
+- NHS
+- Pittsburgh
+- Scotland
+- South Wales
+- The Pitt
+- Trauma Medical Centre
+- UK
+- US
+people:
+- Damian Roland
+- Fiona Hunter
+- Gerran Howell
+- Michael Robinavitch
+- Michael “Robby” Robinavitch
+- Noah Wyle
+- Rob Perry
+- Robby
+- Sarah Tosh
+- The Pitt
+- Tony Cirillo
+organisations:
+- American College of Emergency Physicians
+- BBC Wales
+- ER
+- Emmys
+- NHS
+- North Wales
+- Royal College of Emergency Medicine
+- The Pitt
+- Wyle
 ---
 
 ![Dr. Michael “Robby” Robinavitch (Noah Wyle) looking exhausted, wearing black scrubs and holding a door open](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6e1c/live/a2c58b40-ade4-11f1-bc1f-3f186ca4140c.jpg)

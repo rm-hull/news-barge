@@ -13,6 +13,22 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Lean
+- London
+people:
+- Andrew Wiles
+- Claude
+- Kevin Buzzard
+- Pierre de Fermat
+- Richard Taylor
+organisations:
+- AI
+- Anthropic
+- FLT
+- Imperial College London
+- Mathlib
+- Prove2Me
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg?w=840)

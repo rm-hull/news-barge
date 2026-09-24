@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Blyth
+- Caltanissetta
+- Central Sicily
+- Durham
+- Newcastle
+- North Yorkshire
+- Prudhoe
+- South Beach
+people: []
+organisations:
+- Caffe Ginevra
+- Hertfordshire
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

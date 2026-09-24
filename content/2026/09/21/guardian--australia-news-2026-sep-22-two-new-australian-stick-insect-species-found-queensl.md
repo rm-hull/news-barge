@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/d4b2a53ecb88ce7897f015fc536b55dcad427ae1/0_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b52f1b3aaae4ee4f68bb7b9305171251
+locations:
+- Atherton
+- Australia
+- Cape York
+- Mabi
+- New South Wales
+- Queensland
+people:
+- Braxton Jones
+- Paul D Brock
+organisations:
+- Austral Entomology
+- Natural History Museum
+- University of Sydney
 ---
 
 Two new large stick insect species have been identified by Australian researchers, in a discovery they say illustrates how little we still understand about insect diversity.

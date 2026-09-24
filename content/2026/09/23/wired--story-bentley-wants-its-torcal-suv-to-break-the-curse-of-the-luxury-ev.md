@@ -13,6 +13,35 @@ categories:
 - Science
 - Automotive
 image: https://media.wired.com/photos/6ab14159c107d714961adb7a/191:100/w_1280,c_limit/ASTRAIL_EXT_03.jpg
+locations:
+- Asia
+- Bentayga
+- Bentley
+- Cayenne
+- Europe
+- Torcal
+- US
+people:
+- Bentley
+- Frank-Steffen Walliser
+- Stephan Winkelmann
+organisations:
+- Continental GT
+- EPA
+- EV Bentley
+- Ferrari
+- Flying Spur
+- Fox Brothers
+- JLR
+- Lamborghini
+- Lanzador
+- Mercedes-Benz
+- Range Rover
+- Range Rover Electric
+- Torcal
+- Volkswagen Group
+- WIRED
+- Xiaomi
 ---
 
 Bentley has taken the covers off its first-ever fully electric car, the Torcal, making it the automaker's fourth model line, joining the Continental GT, the Flying Spur sedan, and the Bentayga SUV. The luxury brand is confident about the launch, too, with Bentley chairman and CEO Frank-Steffen Walliser saying he believes “this is one of the best Bentleys ever.”

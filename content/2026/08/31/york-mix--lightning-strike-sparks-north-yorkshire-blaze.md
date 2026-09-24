@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Kirby Misperton
+- Kirkbymoorside
+- Malton
+- Scarborough
+- Tadcaster
+people:
+- '#### Kirby Misperton Max Downing'
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 This was the scene last night after a lightning strike set two barns on fire.

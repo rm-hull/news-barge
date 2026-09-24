@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Dales
+- Miles
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+people:
+- Amanda
+- Annas
+- Anty John
+- Anty John’s
+- Clem
+- Clementine
+- Clemmie
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Nellie
+- Raven
+- Ravenseat
+- Reuben Owen
+- Sid
+- Sidney
+- Violet
+organisations:
+- Channel 5
+- More4
+- Our Farm Next Door
+- Our Yorkshire Farm
+- York St John University
 ---
 
 When Our Yorkshire Farm began in 2018, Amanda and Clive Owen's nine children were all closely associated with one place, Ravenseat Farm.

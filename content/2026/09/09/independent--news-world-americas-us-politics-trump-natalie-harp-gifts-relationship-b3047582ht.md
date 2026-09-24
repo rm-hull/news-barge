@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/09/19/45/GettyImages-2290266450.
 categories:
 - News & Politics
 - UK
+locations:
+- D.C.
+- Iran
+- Trump’s Bedminster
+- Turkey
+- White House
+people:
+- '![Harp'
+- Chamberlain Harris
+- Don Fox
+- Donald Trump
+- George W. Bush
+- Human Printer
+- Margo Martin
+- Natalie Harp
+- Obama
+- Richard Painter
+organisations:
+- Air Force One
+- NATO
+- OGE
+- Office of Government Ethics
+- The New York Times
+- The Washington Post
+- Trump
 ---
 
 The White House has defended President Donald Trump’s $45,000 gifts to his close aide Natalie Harp and other young women in the administration.

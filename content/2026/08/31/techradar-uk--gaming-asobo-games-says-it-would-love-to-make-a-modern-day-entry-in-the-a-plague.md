@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/E6bY2mzEnZhSGRHLS7nxpb-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Anna Demetriou
+- Asobo Games
+- Carol Ann Bañuls
+- Sophia
+- Valérian Robert
+organisations:
+- Asobi Games
+- Asobo Games
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- Resonance
+- TechRadar Gaming
 ---
 
 ![Resonance: A Plague Tale Legacy](https://cdn.mos.cms.futurecdn.net/E6bY2mzEnZhSGRHLS7nxpb.jpg) 

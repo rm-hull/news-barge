@@ -13,6 +13,34 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Cardiff
+- Coventry
+- Derby
+- Doncaster Racecourse
+- Dunfermline
+- England
+- Hilton
+- Hull
+- Ireland
+- Peterborough
+- Runcorn
+- Scotland
+- Sunderland
+- UK
+- Wakefield
+- Wales
+- Washington
+people:
+- Girish Grover
+- Hilton
+- Paul Blackmore
+organisations:
+- AG Hotels Group
+- Debenhams
+- Getty Images)* Hilton
+- SMAR Hotels Ltd
+- Spark
 ---
 
 *(Image: Getty Images)*

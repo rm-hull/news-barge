@@ -13,6 +13,23 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- Lancaster County
+- Pennsylvania
+- U.S.
+people:
+- Erica Schwartz
+- Josh Shapiro
+- Robert F. Kennedy Jr.
+- Stephen Diamantoni
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Lancaster County Coroner
+- LancasterOnline
+- Pennsylvania Department of Health
+- RFK
+- Reuters
 ---
 
 Health Secretary Robert F. Kennedy Jr. has finally admitted that measles was the cause of an infant’s death in Pennsylvania.

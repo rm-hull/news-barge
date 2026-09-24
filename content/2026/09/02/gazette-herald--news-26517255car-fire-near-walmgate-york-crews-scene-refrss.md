@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Navigation Road
+- Walmgate
+- York
+people: []
+organisations: []
 ---
 
 - Emergency services have swooped in a York street after a car fire.

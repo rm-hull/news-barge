@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A1
+- Australia
+- Ferragosto
+- Florence
+- Italy
+- Rifredi
+- UK
+- US
+people:
+- Federico Vella
+- Giorgia Meloni
+- Giulia Cecchetin
+- Lorena Isceri
+- Luisa Rizzitelli
+organisations:
+- Non Una di Meno
+- One Billion Rising
+- SkyTg24
+- interior ministry
 ---
 
 A 45-year-old woman abducted and thrown off a motorway bridge near Florence has become the seventh alleged femicide in Italy since mid-August.

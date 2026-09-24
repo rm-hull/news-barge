@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Canada
+- Denmark
+- Downing Street
+- Europe
+- Iceland
+- Netherlands
+- Norway
+- Ottawa
+- Sweden
+- Switzerland
+- US
+- United States
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Mark Carney
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- Agence France-Presse
+- EU
+- European Commission
+- European Union
+- Everton
+- Joint Expeditionary Force
+- North Atlantic Nato
+- Reuters
+- Wolves
 ---
 
 Donald Trump has threatened the European Union with “serious tariffs” and a cut to trade after the bloc proposed to make Canada its first ever associate member, calling the idea “laughable”.

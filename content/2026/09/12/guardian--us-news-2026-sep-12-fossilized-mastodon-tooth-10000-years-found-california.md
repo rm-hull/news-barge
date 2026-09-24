@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- California
+- Mexico
+- Midpen
+- Midpeninsula
+- New York
+- North America
+- Oregon
+- Pacific
+- Rocky Mountain
+- San Mateo
+- Stanford
+people:
+- Brigid Lynch
+- Christine Garcia
+- Wayne Thompson
+organisations:
+- Midpen
+- Stanford University
 ---
 
 A 10,000 year-old tooth in remarkable condition from an ancient Pacific mastodon, a large mammal that once inhabited North America, was recently discovered by a California scientist.

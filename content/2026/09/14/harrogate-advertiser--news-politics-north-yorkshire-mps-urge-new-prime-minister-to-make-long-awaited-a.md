@@ -13,6 +13,35 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Barton Hill
+- Bridlington
+- Filey
+- Harrogate
+- Hopgrove Roundabout
+- Malton
+- North Yorkshire
+- Scarborough
+- Selby
+- The York
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Boris Johnson
+- David Skaith
+- Julian Smith
+- Kevin Hollinrake
+- Tom Gordon
+organisations:
+- A64
+- Government
+- Hopgrove to Barton
+- Labour
+- North Yorkshire Council
+- Number 10 North team
+- Road Investment Strategy
+- Treasury
 ---
 
 # North Yorkshire MPs urge new Prime Minister to make long-awaited A64 dualling a priority

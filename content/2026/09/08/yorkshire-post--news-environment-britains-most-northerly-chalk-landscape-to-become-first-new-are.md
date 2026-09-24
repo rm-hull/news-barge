@@ -14,6 +14,40 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bempton
+- Britain
+- Buckton
+- Driffield
+- East Riding
+- England
+- Filey Brigg
+- Flamborough Head
+- Heritage Coast
+- Humber Bridge
+- Market Weighton
+- Pocklington
+- Thixendale
+- Wetwang
+- Yorkshire Wolds Way
+people:
+- Angela Eagle
+- Anne Handley
+- David Hockney
+- Pat Wharam
+- Paul Duncan
+- Tony Johnson
+organisations:
+- AONB
+- Campaign for Rural England
+- Capital of the Wolds
+- Defra
+- East Riding Council
+- NFU
+- National Landscape
+- Natural England
+- Yorkshire Wolds
+- Yorkshire Wolds National Landscape
 ---
 
 # Britain's most northerly chalk landscape to become first new area of outstanding natural beauty in 30 years

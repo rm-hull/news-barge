@@ -13,6 +13,42 @@ image: https://cdn.mos.cms.futurecdn.net/brsiyJsVkh5Twvg768GZTR-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- UK
+- Virgin River
+- Wallis Island
+people:
+- Adam
+- Chelsea Frei
+- Diane Morgan
+- Domhnall Gleeson
+- Esmeralda
+- Gbemisola Ikumelo
+- George Cooper Sr.
+- Gretchen Wieners
+- Kelly Kapoor
+- Ken
+- Mare
+- Ned
+- Nicole
+- Oscar
+- Peacock
+- Ramona Young
+- Regina George
+- Sabrina Impacciatore
+- Tim Key
+organisations:
+- '### TechRadar Verdict'
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Peacock
+- Radio Times
+- Stylist
+- The Paper
+- Toledo Truth Teller
+- Yahoo!
 ---
 
 ### TechRadar Verdict

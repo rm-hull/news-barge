@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21293615.jpg?type=og-image&yType=230
+locations:
+- Belgium
+- Bradford
+- Bradfordian
+- Brussels
+- Centenary Square
+- Grand-Place
+- UK
+- West Yorkshire
+people:
+- Elizabeth Llabres
+- Shiraaz Ali
+organisations:
+- Bradford City Council
+- Bradford Culture Company
+- Bradford Industrial Archive
+- Bradford Industrial Museum
+- Calderdale Council
+- Flower Carpet
+- Kirklees Council
+- Leeds City Council
+- Tapis de fleurs de Bruxelles
+- Wakefield Council
+- West Yorkshire Combined Authority
+- West Yorkshire Local Visitor Economy Partnership
 ---
 
 *(Image: Bradford Culture Company)*

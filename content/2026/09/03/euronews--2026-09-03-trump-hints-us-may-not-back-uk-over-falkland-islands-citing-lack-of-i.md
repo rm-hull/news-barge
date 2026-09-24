@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Britain
+- Falkland Islands
+- Falklands
+- Iran
+- Malvinas
+- UK
+- US
+- United Kingdom
+- United States
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- Margaret Thatcher
+organisations:
+- Argentine Football Association
+- BBC
+- Daily Telegraph
+- England
+- FIFA
+- GB News
+- NATO
+- Oval Office
+- Pentagon
 ---
 
 ## The US recognises Britain's administration of the Falkland Islands but remains neutral over the competing sovereignty claims.

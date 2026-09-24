@@ -14,6 +14,46 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/23/2295960724..?trim=0,7,0,7&width=1200&height=800&crop=1200:800
+locations:
+- Berlin
+- East Germany
+- Europe
+- Frankfurt
+- Munich
+- Saxony-Anhalt
+- UK
+- West Germany
+people:
+- Angela Merkel
+- Die Linke
+- Elif Eralp
+- Friedrich Merz
+- Grégoire Roos
+- Kristen Brinker
+- Kristin Brinker
+- Michael Lueders
+- Stefan Evers
+- Steffen Krach
+- Ulrich Siegmund
+- Werner Graf
+organisations:
+- AfD
+- Alternativ fur Deutschland
+- Alternative for Germany
+- BSW
+- CDU
+- Chatham House
+- Christian Democratic Union
+- Eurasia Programmes
+- Europe and Russia
+- GDR
+- Greens
+- Kristin Brinker
+- Reform
+- SPD
+- Sahra Wagenknecht Alliance
+- Social Democratic Party
+- The Left
 ---
 
 Germany is facing a far-right surge as the Alternativ fur Deutschland (AfD) gains momentum across the country. Berlin, one of the world’s most liberal cities, could be next when voters go the polls on Sunday.

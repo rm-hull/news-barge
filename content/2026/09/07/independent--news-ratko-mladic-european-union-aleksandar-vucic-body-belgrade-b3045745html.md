@@ -13,6 +13,33 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Balkan
+- Belgrade
+- Bosnia
+- Kosovo
+- Netherlands
+- Russia
+- Sarajevo
+- Serbia
+- Srebrenica
+- St. Luke
+- The Hague
+- U.S.
+- Ukraine
+- West
+- Yugoslavia
+people:
+- Aleksandar Vucic
+- Marta Kos
+- Milan Dobric
+- Nebojsa Pavkovic
+- Patriarch Porfirije
+- Ratko Mladic
+organisations:
+- EU
+- European Union
+- U.N.
 ---
 
 The body of Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, lay in state on Monday as Serbia defied European Union warnings against paying public homage to the man found guilty of the continent’s first case of genocide since World War II.

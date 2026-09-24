@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Boditrax
+- East Riding
+people:
+- Nick Coultish
+organisations:
+- Boditrax
+- East Riding Library and Leisure
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

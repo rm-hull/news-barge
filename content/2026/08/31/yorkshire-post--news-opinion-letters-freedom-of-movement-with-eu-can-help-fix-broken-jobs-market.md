@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Church Grove
+- Europe
+- Great Britain
+- Horsforth
+- Iceland
+- James Bovington
+- Leeds
+- Northern Ireland
+- Norway
+- Switzerland
+- UK
+people:
+- Brexit
+- Ismail Mulla
+- Steve Parsons
+organisations:
+- Brexit
+- EEA
+- EU
+- Houses of Parliament
+- Labour Party
+- The Yorkshire Post
+- Union
+- Yorkshire Post Letters
+- Youth Mobility
 ---
 
 # Freedom of movement with EU can help fix broken jobs market for young people - Yorkshire Post Letters

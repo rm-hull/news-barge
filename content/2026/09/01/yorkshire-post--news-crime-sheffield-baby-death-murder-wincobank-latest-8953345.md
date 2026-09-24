@@ -14,6 +14,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Holywell Heights
+- Sheffield
+- South Yorkshire Police
+- Wincobank
+people:
+- Tom Woodward
+organisations: []
 ---
 
 # Sheffield baby murder: Police given more time to question five arrested

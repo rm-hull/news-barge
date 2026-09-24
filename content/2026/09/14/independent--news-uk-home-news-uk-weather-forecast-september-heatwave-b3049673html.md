@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- 22C
+- Cardiff
+- Glasgow
+- Kew Gardens
+- London
+- Manchester
+- North Atlantic
+- Scotland
+- UK
+people:
+- Tony Wisson
+organisations:
+- Met Office
 ---
 
 Changeable conditions with occasional rain and gusty winds arriving from the North Atlantic are set to dominate September, with temperatures settling close to seasonal averages.

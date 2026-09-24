@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/2e0e0b8b8f4ecf7a78416f6152d2d451e3b77630/2
 categories:
 - UK
 - News & Politics
+locations:
+- Gaza
+- Geneva
+- Israel
+- Lebanon
+- US
+- West Bank
+people:
+- Bernie Sanders
+- Biden
+- Gregory Meeks
+- Marco Rubio
+- Netanyahu
+- Trump
+organisations:
+- Congress
+- House
+- Leahy
+- UN
+- US Foreign Military Financing
 ---
 
 The top Democrat on the House foreign affairs committee has thrown up a roadblock to one of the largest US arms transfers of Trump’s second term, refusing to clear a $2.8bn sale of 2,000lb bombs to Israel.

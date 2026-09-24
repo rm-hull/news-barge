@@ -11,6 +11,49 @@ image: https://static.independent.co.uk/2025/11/11/17/42/fox-and-friends-(67).jp
 categories:
 - News & Politics
 - UK
+locations:
+- Allentown
+- Capitol Hill
+- Gaza
+- Harrisburg
+- Iran
+- Israel
+- Lehigh County
+- Pennsylvania
+- R-S.D.
+- Sen
+- U.S.
+- United States
+- Washington
+people:
+- Abbott
+- Bob Harvie
+- Brendan Boyle
+- Brian Fitzpatrick
+- Chris Deluzio
+- Cindy Durian
+- Conor Lamb
+- David McCormick
+- Donald Trump
+- J.J
+- JD Vance
+- John Fetterman
+- John Thune
+- Josh Shapiro
+- Lori McFarland
+- Peter Schweyer
+- Sean Hannity
+organisations:
+- Congress
+- Democratic Party
+- Democratic Socialists of America
+- Fetterman
+- Fox News
+- Hamas
+- New York Times
+- Quinnipiac
+- Senate
+- U.S. House
 ---
 
 Around two years ago, Sen. John Fetterman was one of the most sought-after surrogates on the campaign trail, traveling across Pennsylvania to rally voters for Democrats in local, state, and federal contests.

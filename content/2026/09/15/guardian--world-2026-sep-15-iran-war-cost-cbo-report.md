@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- China
+- Hormuz
+- Iran
+- Iraq
+- Jordan
+- Kuwait
+- Minab
+- Oman
+- Qatar
+- Saudi Arabia
+- Taiwan
+- UAE
+- US
+- United States
+- White House
+people:
+- Brendan Boyle
+- Donald Trump
+- Pete Hegseth
+organisations:
+- CBO
+- CNN
+- Congressional Budget Office
+- House
+- Navy
+- Pentagon
 ---
 
 The war in Iran has cost the US at least $38bn and left its stockpile of defensive missiles so depleted it could take five years to rebuild, the non-partisan Congressional Budget Office (CBO) has found, in a damaging report less than two months before midterm elections where the war and the cost of living crisis will likely hurt Republicans at the polls.

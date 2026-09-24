@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Alicante
+- Argentina
+- Barcelona
+- Catalonia
+- Spain
+- United States
+people:
+- Claudio Barragan
+- Cristiano Ronaldo
+- Eldense
+- Lionel Messi
+organisations:
+- Al-Nassr
+- Almeria
+- BBC Sport
+- Barcelona
+- CSD
+- Cornella
+- Eldense
+- Grupo TH Soluciones
+- Inter Miami
+- La Liga
+- Messi
+- Paris St-Germain
+- Real Madrid
+- Spanish National Sports Council
 ---
 
 ![Lionel Messi holding his arms aloft in celebration while playing for Inter Miami](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg)

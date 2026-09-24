@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/08/21/19/e0eeb1403be12d9779441a1287
 categories:
 - News & Politics
 - UK
+locations:
+- Clacton
+- Common
+- UK
+people:
+- Burnham
+- Christopher Harborne
+- Count Binface
+- Daniel Greenberg
+- Ed Davey
+- Kemi Badenoch
+- Lowe
+- Luke Tryl
+- Nigel Farage
+- Polanski
+- Tom Montgomerie
+- Zia Yusuf
+organisations:
+- Commons Standards Committee
+- Kemi Badenoch
+- Labour
+- More in Common
+- Reform UK
+- Restore
+- Tories
 ---
 
 Nigel Farage’s Reform UK party has slid into third place in the opinion polls in its lowest performance in the last 18 months.

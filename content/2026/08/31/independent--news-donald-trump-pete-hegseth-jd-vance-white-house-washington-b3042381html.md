@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Africa
+- Europe
+- Iraq
+- North Carolina
+- Russia
+- Ukraine
+- White House
+people:
+- Anna Kelly
+- Christopher Donahue
+- Christopher LaNeve
+- Dan Driscoll
+- Donald Trump
+- JD Vance
+- John Phelan
+- Pete Hegseth
+- Randy George
+organisations:
+- Armed Services Committee
+- Congress
+- Defense
+- Department of the Army
+- Navy
+- Pentagon
+- Senate
+- United States Army
+- Yale Law School
 ---
 
 Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration.

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/59fd8a58d4e3f18740bed48db7f7c27b26cf7d44/60_0_2443_1954/master/2443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b79843cfb653cc9d7056ae2e150a47d
+locations:
+- Colombia
+- Europe
+- France
+- Germany
+- Netherlands
+- New York
+- UK
+people:
+- Alice Weidel
+- Andreas Sieber
+- António Guterres
+- Jennifer Morgan
+organisations:
+- 350.org
+- Deutschland
+- G20
+- UN
 ---
 
 Europe’s biggest economy, Germany, has committed to phasing out fossil fuels by 2045, despite fierce debate about its green policies.

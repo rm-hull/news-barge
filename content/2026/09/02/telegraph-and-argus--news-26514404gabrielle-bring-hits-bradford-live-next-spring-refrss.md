@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford Live
+- UK
+people:
+- Damage
+- GABRIELLE
+- Gabrielle
+organisations:
+- Damage
+- Forever
 ---
 
 *(Image: T&A)*

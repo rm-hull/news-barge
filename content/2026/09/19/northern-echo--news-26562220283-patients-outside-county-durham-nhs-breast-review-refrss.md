@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21203404.jpg?type=og-image
+locations:
+- County Durham
+- Durham City
+- North Durham
+people: []
+organisations:
+- '![]()County Durham'
+- '![]()Darlington Memorial Hospital'
+- '![]()University Hospital'
+- CHRIS BOOTH
+- Clinical Reference Group
+- Darlington NHS Foundation Trust
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Education & Learning
 - Business & Entrepreneurship
+locations:
+- England
+- Wales
+people:
+- Rachel de Souza
+- Susannah Hardyman
+organisations:
+- CAMHS
+- Child and Adolescent Mental Health Services
+- Department for Education
+- Impetus
+- Neets
+- Public First
 ---
 
 Teachers have so little belief in the importance of pupils’ full school attendance that they would take their own children on term time holidays if they could, staff have told a three-year research programme.

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Israel
+- Oman
+- Qeshm Island
+- Strait of Hormuz
+- U.S.
+people: []
+organisations:
+- AP
+- United Kingdom Maritime Trade Operations
 ---
 
 An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say

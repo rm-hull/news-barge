@@ -13,6 +13,15 @@ categories:
 - Arts & Culture
 - History
 image: https://images.euronews.com/articles/stories/09/92/41/10/1200x675_cmsv2_60146086-ffd3-5f7d-83e0-a58cb3d59ac4-9924110.jpg
+locations:
+- Los Angeles
+people:
+- George Lucas
+- Jack Kirby
+- Norman Rockwell
+organisations:
+- Banksy
+- Lucas Museum of Narrative Art
 ---
 
 The Lucas Museum of Narrative Art opens to the public in Los Angeles, where director George Lucas greets the first visitors.

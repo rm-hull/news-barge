@@ -13,6 +13,20 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Joseph Rowntree Theatre
+- York
+people:
+- Dave Cook
+- David Harrison
+- George Hall
+- John Lewis
+- Mick Huil
+- Steve Cassidy
+- Tess
+organisations:
+- St George’s School
+- Steve Cassidy Band
 ---
 
 *(Image: David Harrison)*

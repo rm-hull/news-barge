@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Alaska
+- America
+- Atlanta
+- Dayton
+- Florida
+- Georgia
+- Ireland
+- Michigan
+- Ohio
+- Tennessee
+- U.S.
+people:
+- Abdul El-Sayed
+- Chaz Molder
+- Donald Trump
+- Flock
+- Garrett Langley
+- Kayleigh McEnany
+- Kristina Knickerbocker
+- Mike Rogers
+- Mike Turner
+- Ron DeSantis
+organisations:
+- AI
+- Air Force One
+- Flock
+- Fox News’
+- Institute for Justice
+- Newsweek
+- Reuters
+- Senate
+- The Washington Post
 ---
 
 President Donald Trump has thrown his support behind Flock cameras, despite a growing number of communities across the country rejecting the automatic license plate readers over privacy and safety concerns.

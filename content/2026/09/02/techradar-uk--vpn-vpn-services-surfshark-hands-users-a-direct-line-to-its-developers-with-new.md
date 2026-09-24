@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Gabriele Sinkeviciute
+- Monica J. White
+- Surfshark
+organisations:
+- Beta Testing
+- Digital Trends
+- Google News
+- Google Play Store
+- IPVanish
+- Monica
+- No Trace
+- Proton VPN
+- SlashGear
+- Starter
+- Surfshark
+- Tom’s Hardware
+- WePC
 ---
 
 ![surfshark vpn](https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9.jpg) 

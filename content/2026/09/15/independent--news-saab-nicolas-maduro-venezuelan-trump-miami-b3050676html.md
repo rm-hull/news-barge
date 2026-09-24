@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/09/14/17/Venezuela_Maduro_Ally_3155
 categories:
 - News & Politics
 - UK
+locations:
+- Cape Verde
+- Colombia
+- Iran
+- Manhattan
+- Mexico
+- U.S.
+- Venezuela
+- White House
+people:
+- Alejandro Betancourt
+- Alex Saab
+- Delcy Rodriguez
+- Joe Biden
+- Kathleen Williams
+- Nicolás Maduro
+- Rodríguez
+- Trump
+organisations:
+- CLAP
+- Cabinet
+- PDVSA
+- Saab
+- Trump
 ---
 
 A close ally of ousted Venezuelan President Nicolás Maduro pleaded guilty Tuesday to a single count of money laundering tied to an alleged bribery conspiracy to win lucrative government contracts in the South American country.

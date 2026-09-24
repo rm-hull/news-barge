@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/95843bc27e55ac3267e8a2a5cc002190dddea8a7/111_0_2778_2222/master/2778.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d517c15b921b64bc3d0d4e872622ecc
+locations:
+- Central Park
+- Iran
+- Massachusetts
+- New York
+- Plymouth
+people:
+- Callan
+- Clancys
+- Cora
+- Dawson
+- Howard Cooper
+- Lindsay Clancy
+- Michael Desronvil
+- Pat
+- Patrick Clancy
+- Rachel Danis
+- Ross Douthat
+organisations:
+- CBS
 ---
 
 Patrick Clancy and his wife Rachel Danis are set to describe their experiences of the Massachusetts triple-murder trial of his former wife Lindsay Clancy, with Clancy telling 60 Minutes: “I live with it every day, but I think I did the best I could.”

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/13747688.jpg?type=og-image
+locations:
+- Brontë Country
+- Haworth
+- Hepworth Gallery
+- Newsquest
+- West Yorkshire
+- Whitehall
+people:
+- Ms Yorke
+- Rebecca Yorke
+- Tracy Brabin
+organisations:
+- '### Museum'
+- Bronte Parsonage Museum
+- Brontë Parsonage Museum
+- Haworth *(Image
+- Lighthouse Lane
+- Yorkshire
 ---
 
 A proposed tourism levy that would see visitors charged a small fee for overnight stays in West Yorkshire has sparked debate among businesses and cultural leaders across the region.

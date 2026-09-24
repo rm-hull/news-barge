@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Arizona
+- California
+- Hawaii
+- Hillsborough County
+- Latin America
+- Miami-Dade County
+- Puerto Rico
+- South Asia
+- South Florida
+- Southeast Asia
+- Texas
+- U.S. Virgin Islands
+people:
+- Andrés Henao
+organisations:
+- Centers for Disease Control and Prevention
+- Florida Department of Health
+- Hillsborough County Health Department
+- Medicine and Infectious Disease
+- Tampa Bay Times
+- The Conversation
+- University of Colorado Anschutz
+- World Health Organization
 ---
 
 *The Tampa Bay Times* reported the death of an elderly woman on Sept. 8, 2026. Her family says local doctors attributed her death to dengue fever, although the Florida Department of Health has not yet confirmed that.

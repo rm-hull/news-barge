@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Newton-le-Willows
+people: []
+organisations:
+- Newton-le-Willows Cricket Club
+- North Yorkshire Council
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
 ---
 
 Plans to allow alcohol to be served at Newton-le-Willows Cricket Club’s new pavilion are to go before councillors after a neighbour raised concerns about noise, lighting and the impact on wildlife.

@@ -13,6 +13,63 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/29/19/2247217981..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- China
+- Colorado
+- D-N.Y.
+- Gracie Mansion
+- I-Vt.
+- Iowa
+- Kansas
+- Michigan
+- Montana
+- New York
+- New York City
+- Pennsylvania
+- R-Mich.
+- Sen
+- Texas
+- U.S.
+- United States
+- White House
+- Wisconsin
+people:
+- Abdul El-Sayed
+- Alexandria Ocasio-Cortez
+- Bernie Sanders
+- Bob Brooks
+- Donald Trump
+- Hasan Piker
+- Jeffries
+- Joe McCarthy
+- Joseph McCarthy
+- Karl Marx
+- Lindsay James
+- Lisa McClain
+- MAGA
+- Maria Elvira Salazar
+- Mike Johnson
+- Sam Forstag
+- Zohran Mamdani
+organisations:
+- Blue Dogs
+- CNN
+- Congress
+- DSA
+- Democratic Party
+- Democratic Socialists of America
+- Federal Reserve
+- House Republican Conference
+- MSNOW
+- New Democratic Coalition
+- New York Times
+- Nvidia
+- Politico
+- Senate
+- Siena College
+- The Independent
+- Twitch
 ---
 
 Every single indicator shows that Republicans are headed for an absolute disaster of a midterm election. Polling shows them potentially losing Senate seats in Texas, Kansas and even Iowa.

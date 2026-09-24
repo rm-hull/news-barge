@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Europe
+- Hilton
+- Malta
+people:
+- Anthony Vella
+- Caruana Galizia
+- Charles Mercieca
+- Corinne Vella
+- Daphne Caruana Galizia
+- Edwina Grima
+- Joseph Muscat
+- Keith Schembri
+- Melvin Theuma
+- Repubblika
+- Tom Gibson
+- Yorgen Fenech
+organisations:
+- Committee to Protect Journalists
+- Daphne Foundation
+- EU
+- Occupy Justice
 ---
 
 One of Malta’s richest men has been found not guilty of involvement in the murder of the anti-corruption journalist Daphne Caruana Galizia.

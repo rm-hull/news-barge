@@ -16,6 +16,18 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Berlin
+- China
+- Hungary
+- Shenzhen
+- Szeged
+- Tempelhofer Feld park
+people: []
+organisations:
+- BYD
+- DER SPIEGEL
+- Substack
 ---
 
 On the outskirts of Szeged, the procession of Chinese construction workers begins in the early evening. On foot or on mud-caked bicycles, dozens set out for the supermarket across from the construction site in southern Hungary.

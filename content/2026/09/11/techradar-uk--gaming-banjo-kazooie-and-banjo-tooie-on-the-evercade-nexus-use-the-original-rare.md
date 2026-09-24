@@ -13,6 +13,24 @@ description: Blaze Entertainment has revealed that it uncovered hidden features 
 image: https://cdn.mos.cms.futurecdn.net/QVc9ScPzRSyee3yujeasSL-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Evercade Nexus
+people:
+- Blaze
+- Rare
+- Sean Cleaver
+organisations:
+- Blaze Entertainment
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- N64
+- NME
+- Rare
+- TechRadar Gaming
+- iD Software
 ---
 
 ![Evercade Nexus](https://cdn.mos.cms.futurecdn.net/QVc9ScPzRSyee3yujeasSL.jpg) 

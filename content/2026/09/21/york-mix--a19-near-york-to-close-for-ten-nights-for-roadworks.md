@@ -11,6 +11,29 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/a19-near-york-designer-outlet-2025-gsv.webp
+locations:
+- A19
+- A63
+- A64 Tadcaster Road
+- Barlby
+- Designer Outlet
+- Elmet
+- Escrick
+- Naburn Lane
+- Selby
+- Sherburn
+- Skipwith Road
+- Solar Way
+- Towton
+- York
+people: []
+organisations:
+- A19
+- A64
+- City of York Council
+- Designer Outlet
+- Designer Outlet York
+- Lane Rentals Services
 ---
 
 Drivers are being warned that roadworks will close the A19 near York for ten nights.

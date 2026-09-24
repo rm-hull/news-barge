@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Colorado
+- Massachusetts
+- New Jersey
+- New York
+- New York City
+- Oregon
+- US
+- United States
+people:
+- Grover Cleveland
+organisations:
+- Black Friday
 ---
 
 This Monday, millions of Americans will take a public holiday as the country marks its annual Labor Day.

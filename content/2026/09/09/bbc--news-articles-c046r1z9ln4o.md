@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Miss Austria
+people:
+- Jörg
+- Kerstin Rigger
+- Lucia Sisic
+organisations:
+- Facebook
+- Herzkinder Österreich
+- Heute
+- Instagram
+- Miss Austria
+- Mission Austria
+- Mister Austria
+- Vienna Kaiser Wiesn
 ---
 
 ![Lucia Sisic pictured from the neck up, is smiling at the camera, she is indoors and a cabinet with glasses in it is visible over her shoulder](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/8924/live/46c368b0-ac3d-11f1-aa42-a9647fd0ba61.jpg)

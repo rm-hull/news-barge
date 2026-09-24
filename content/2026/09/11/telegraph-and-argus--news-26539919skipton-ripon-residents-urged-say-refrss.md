@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- North Yorkshire
+- Ripon
+- Skipton
+- York
+people:
+- Julian Smith
+organisations:
+- Local Transport Plan
+- Ripon
+- Skipton
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Supplied)*

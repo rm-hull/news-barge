@@ -12,6 +12,19 @@ categories:
 - York
 - Food & Cooking
 - Travel
+locations:
+- Castlegate
+- France
+- Rustique
+- York
+people:
+- Le Petit Rustique
+organisations:
+- Castlegate
+- Le Petit Rustique
+- Le Petit Rutsique
+- Merveilleux!
+- Pairings Wine Bar
 ---
 
 A new French bistro and wine bar has opened in York.

@@ -12,6 +12,23 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- '## Mount Anak Krakatoa'
+- Anak Krakatoa
+- Bali
+- Doha
+- Indonesia
+- Java
+- Kuala Lumpur
+- Mount Anak Krakatoa
+- Singapore
+- Soekarno-Hatta International Airport
+- Sumatra
+- Sunda Strait
+- Sydney
+people: []
+organisations:
+- Soekarno–Hatta International Airport
 ---
 
 ## Mount Anak Krakatoa is an active volcano that sits in the Sunda Strait, between the islands of Java and Sumatra.

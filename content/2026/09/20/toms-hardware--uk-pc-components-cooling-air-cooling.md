@@ -12,6 +12,15 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/oGRSAnhFAdsEgyJLJ43JjF-320-80.jpg
+locations:
+- Intel Arrow Lake
+- Magoroku
+people:
+- Scythe Magoroku
+organisations:
+- AMD
+- Epicool
+- Scythe
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/oGRSAnhFAdsEgyJLJ43JjF-320-80.jpg)

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thenorthernecho.co.uk/resources/images/21486799.jpg?type=og-image
+locations:
+- Bradford
+- County Durham
+- North East
+- North Yorkshire
+- UK
+people:
+- Amanda Owen
+- Clive The
+- Jude Rhodes
+- Ms Rhodes
+- Terry Deary
+organisations:
+- AGRA
+- Bradford
+- British Association for Local History’s Outreach Team
+- Family Tree
+- Memory Bank
+- Ms Rhodes’
+- NHS
+- Our Yorkshire Farm
+- Pharos and Society of Genealogists’ Advanced Skills and Strategies
+- Society for One-Place Studies
+- Yorkshire Dales
+- Yorkshire Film Archive
 ---
 
 A North Yorkshire nurse is helping families reconnect with loved ones with dementia through personalised books about their past.

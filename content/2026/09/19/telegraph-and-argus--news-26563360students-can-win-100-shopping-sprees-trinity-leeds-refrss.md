@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/21474269.jpg?type=og-image
+locations: []
+people:
+- Steven Foster
+organisations:
+- Footasylum
+- H&M
+- Levi’s
+- Nike
+- Trinity Leeds
 ---
 
 *(Image: Supplied)*

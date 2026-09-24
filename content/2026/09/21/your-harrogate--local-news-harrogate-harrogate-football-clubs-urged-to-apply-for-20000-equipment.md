@@ -12,6 +12,23 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6ab105670782fdff81a.jpg
+locations:
+- Bradford
+- Calderdale
+- Craven
+- Harrogate
+- Kirklees
+- Leeds
+- Selby
+- Wakefield
+people:
+- Gareth Pashley
+- Hannah Simpson
+organisations:
+- Davies Sports
+- Davies Sports West Riding FA
+- Harrogate
+- West Riding County FA
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab105670782fdff81a.jpg)

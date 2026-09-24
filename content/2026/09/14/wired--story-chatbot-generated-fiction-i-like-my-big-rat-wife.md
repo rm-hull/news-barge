@@ -11,6 +11,26 @@ image: https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Brazil
+- Indiana
+people:
+- Gemma
+- Melanie Walsh
+- Neel Gupta
+- Petra Ferraz de Novaes
+- Razrien
+organisations:
+- AI
+- ChatGPT
+- Google
+- National Bureau of Economic Research
+- Novaes
+- OpenAI
+- SillyTavern
+- University of Washington
+- University of Washington Information School
+- WIRED
 ---
 
 When Petra Ferraz de Novaes isn’t at work, she’s probably lost in a fantasy crafted with the help of artificial intelligence.

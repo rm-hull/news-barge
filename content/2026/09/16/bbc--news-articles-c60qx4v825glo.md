@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Enhertu
+- Northern Ireland
+- Scotland
+- UK
+- USA
+- Wales
+people:
+- Claire Rowney
+- Enhertu
+- Helen Knight
+- Jeannie Ambrose
+- Kate Wills
+- Reuben
+- Yvette Cooper
+organisations:
+- AstraZeneca
+- BBC News
+- Breast Cancer Now
+- Charity Breast Cancer Now
+- Daiichi Sankyo
+- Enhertu
+- Kate
+- NHS England
+- NICE
+- National Institute for Health and Care Excellence
 ---
 
 Watch the moment Kate Wills found out she would be able to access Enhertu

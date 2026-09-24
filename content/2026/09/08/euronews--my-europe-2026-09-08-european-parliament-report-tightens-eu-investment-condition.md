@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- Brussels
+- China
+- Europe
+- United Kingdom
+people:
+- Anna Cavazzini
+- Christophe Grudler
+- Pierre Jouvet
+organisations:
+- EU
+- Euronews
+- European Commission
+- European Parliament
+- MEP
+- Renew
+- S&D
+- The Greens
 ---
 
 ## The European Parliament’s rapporteurs on the proposed Industrial Accelerator Act are closing the EU market to Chinese investment in sectors where Beijing is dominant, going further than what the European Commission suggested.

@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/a821b3a3ee52e3fc9fe4039f08c8c09363194cc3/1859_1781_2774_2219/master/2774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a15ee39bdb0c3213d989da73abcff038
+locations:
+- America
+- Billings
+- Iowa
+- Montana
+- Muscatine
+- Oklahoma
+- Texas
+- US
+- United Kingdom
+- United States
+people:
+- Alan Smith
+- Austin
+- Brad Ireland
+- Dakota
+- Doreen Dodgen-Magee
+- Jacquelyn Campbell
+- Jonathan McFarland
+- Katherine Keyes
+- Lesa
+- Mark
+- Nathan Dahm
+- Randy Kozuch
+- Ryan McFarland
+- Ryle
+- Trace
+organisations:
+- American Journal of Public Health
+- Associated Press
+- Columbia University
+- Daily Caller
+- Jama Health Forum
+- Johns Hopkins University
+- KWQC
+- Lancet
+- NRA
+- National Rifle Association
+- Northeastern University
+- WQAD-TV
+- World Bank Group
 ---
 
 The US is often known globally for its shocking levels of violence, but acts of “family annihilation” or “familicide” rank among the most disturbing of crimes.

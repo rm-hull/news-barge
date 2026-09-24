@@ -14,6 +14,17 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8d0/live/7a4dc160-b3d8-11f1-87bc-d37d040ffc9c.jpg
+locations:
+- Southport
+people:
+- David Lammy
+- Jake Richards
+organisations:
+- BBC Breakfast
+- Justice
+- Phase One
+- Southport Inquiry
+- Times
 ---
 
 ![A stock image of a police officer with his back to the camera](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f8d0/live/7a4dc160-b3d8-11f1-87bc-d37d040ffc9c.jpg)

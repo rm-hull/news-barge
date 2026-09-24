@@ -14,6 +14,21 @@ categories:
 - Self-Improvement
 - Health & Fitness
 - Society & Culture
+locations:
+- Broad Highway
+- Wheldrake
+- York
+people:
+- Hannah Turner
+- Matthew Thomas Banks
+- Nicholas Hammond
+- Sarah Scott
+- Wheldrake
+organisations:
+- Banks’
+- North Yorkshire Police
+- Selby CID
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

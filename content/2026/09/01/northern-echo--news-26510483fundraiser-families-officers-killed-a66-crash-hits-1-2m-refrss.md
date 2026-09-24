@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Teesside
+people:
+- Bruno Fernandes
+- Carl Baker
+- Man U
+- Matt
+- Matthew Blades
+- Senne Lammens
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- GoFundMe
+- Ipswich
+- North News & Pictures Ltd
 ---
 
 A fundraiser launched for the families of two Cleveland Police officers killed in the A66 crash has reached its target, surpassing £1.2 million.

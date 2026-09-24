@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Cambridge
+- Mill Road
+people:
+- Alex Beckett
+- Andrea Scaramuccia
+organisations:
+- 5th Studio
+- Cambridge Cycling Campaign
+- Cambridgeshire County Council
+- Camcycle
+- LHI
+- Local Highways Improvement
+- Tradizioni
 ---
 
 A Cambridge restaurateur has criticised a council’s “silly” decision to install public bike racks in his eatery’s outdoor dining area.

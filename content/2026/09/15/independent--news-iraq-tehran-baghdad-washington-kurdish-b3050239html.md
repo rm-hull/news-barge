@@ -11,6 +11,46 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baghdad
+- Beirut
+- Iran
+- Iraq
+- Irbil
+- Islamic State
+- Israel
+- Jordan
+- Kurdistan
+- Saudi Arabia
+- South Korea
+- Tehran
+- Turkey
+- U.S.
+- US
+- Washington
+- Yemen
+people:
+- Harakat al-Nujaba
+- Kataib Hezbollah
+- Kataib Sayyid al-Shuhada
+- Masrour Barzani
+- Mohammed A. Salih
+- Numan
+- Sabah al-Numan
+- Saddam Hussein
+- Sajad Jiyad
+- Stella Martany
+- —— Sewell
+organisations:
+- Associated Press
+- Atlantic Center
+- Foreign Policy Research Institute
+- Islamic State
+- Kurdistan Workers’ Party
+- PKK
+- PMF
+- Popular Mobilization Forces
+- The Associated Press
 ---
 
 Two deadlines are looming for Iraq at the end of the month: the end of a decades-long U.S. military presence and the disarmament of non-state armed groups.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- '## Rescue'
+- Kyrenia
+- Mediterranean
+- North Cyprus
+- Tasucu
+- Turkey
+- south-east.Asked
+people:
+- Efe Multici
+- God
+- Tayyip Erdogan
+- Tufan Erhurman
+- Ünal Üstel
+organisations:
+- CNN Turk
+- Interior Ministry
 ---
 
 At least eight people died and 18 were missing after a ferry carrying around 270 passengers and crew capsized off North Cyprus on Sunday.

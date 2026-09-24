@@ -11,6 +11,25 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg
+locations:
+- Apollo
+people:
+- Anna Dolganov
+- Armand D'Angour
+- Dimitris Vlitas
+- D’Angour
+- Homer
+- Stephen Colvin
+organisations:
+- AI
+- Apollo
+- Austrian Academy of Science
+- Google DeepMind
+- OpenAI
+- Sail Reply
+- University College London
+- University of Oxford
+- WIRED
 ---
 
 Academic libraries across the globe are stuffed with hundreds of thousands of Ancient Greek papyrus fragments. Though many are so damaged that their meaning is probably lost, scholars have the ability to restore the rest by methodically filling in missing words or phrases. To accelerate that laborious task, researchers have turned to artificial intelligence.

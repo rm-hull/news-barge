@@ -12,6 +12,54 @@ image: https://static.independent.co.uk/2026/09/16/11/Mideast_Wars_Yemen_93348.j
 categories:
 - News & Politics
 - UK
+locations:
+- Ankara
+- Anna
+- Bab el-Mandeb Strait
+- Beijing
+- Beirut
+- China
+- Frankfurt
+- Iran
+- Islamabad
+- Jerusalem
+- Marib
+- Mecca
+- New Delhi
+- Oman
+- Pakistan
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- Turkey
+- U.S.
+- US
+- United States
+- Yemen
+people:
+- Abbas Araghchi
+- Abby Sewell
+- Ahmed
+- Brig
+- David McHugh
+- Donald Trump
+- Ken Moritsugu
+- Prophet Muhammad
+- Shehbaz Sharif
+- Turki al-Maliki
+- Vance
+- Wang Yi
+- Washington
+- Xi Jinping
+- Yahya Saree
+- ___ Frazer
+organisations:
+- AP
+- Associated Press
+- NATO
+- Organization of Islamic Cooperation
+- The Associated Press
 ---
 
 Saudi Arabia accused Yemen’s Iran-backed Houthi rebels overnight of trying to attack Islam’s holiest city, prompting condemnation from countries in the region but no sign of military support. The kingdom, a key U.S. ally, declared Mecca a “red line” as it slid deeper into the new front of the Iran war.

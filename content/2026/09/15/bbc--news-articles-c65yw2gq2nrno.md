@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Bab al-Mandab
+- East-West Pipeline
+- Iran
+- Iraq
+- Khamis Mushait
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- US
+- Yemen
+people:
+- Anne-Sophie Corbeau
+- Barbara Metzler
+- Benedict Garman
+- Homayoun Falakshahi
+- Tom Shiel
+organisations:
+- BBC Verify
+- Center on Global Energy Policy at Columbia University
+- King Khalid Air Base
+- Kpler
+- Royal Saudi Air Force
+- UN Refugee Agency
 ---
 
 ![A satellite image of a damaged oil refinery](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6491/live/f14f3560-b10c-11f1-a540-61c3f7fc4e6c.png)

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/f9853923fea94c4738a690a2bff60987aff3c503/0_0_3842_3075/master/3842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d4af1f3b301e9f1737b01d84f6bfdf5
+locations:
+- Asklepieion
+- Europe
+- Greece
+- Voula
+- Vouliagmeni
+people: []
+organisations:
+- ERT
 ---
 
 Greek police are investigating the death of an 82-year-old man after a brawl over a sunlounger at a beach on the Athenian riviera.

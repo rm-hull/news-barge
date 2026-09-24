@@ -15,6 +15,38 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/r5JvB9W3LeYGnMXNeDZsBB-1920-80.png
+locations:
+- China
+- Glomfjord
+- Mount Pleasant
+- Norway
+- Texas
+- U.S.
+- Washington
+- Wisconsin
+people:
+- Blackwell
+- Jensen Huang
+- Jowi Morales
+- Nscale
+- Tom
+- Vera Rubin
+organisations:
+- AI
+- Anthropic
+- Financial Times
+- Google News
+- Jowi Morales
+- Macquarie
+- Microsoft
+- Nscale
+- Nvidia
+- Pte Ltd
+- SG
+- Singaporean ByteDance
+- Spring
+- TikTok
+- Trump
 ---
 
 ![Nscale logo on glass surface](https://cdn.mos.cms.futurecdn.net/r5JvB9W3LeYGnMXNeDZsBB.png)

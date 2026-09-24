@@ -13,6 +13,28 @@ categories:
 - Music
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f356/live/eacf2630-b735-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- BBC
+- LA
+- London's Roundhouse
+- New York
+people:
+- Gee Davy
+- Jalen Ngonda
+- Jim Legxacy
+- Jorja Smith
+- Nicolas-Tyrell Scott
+- Pauline Black
+- Riley
+- Robyn
+- Wayne Rooney
+organisations:
+- 2-Tone
+- Association of Independent Music
+- BBC Newsbeat
+- Jorja Smith
+- Motown
+- Walsall
 ---
 
 ![Jorja Smith wears a sleeveless black dress paired with a silver necklace and bracelet. Her nails are painted blue and she holds her award while smiling at the camera. She has long thick black hair which is parted in the middle and sits past her shoulders](https://ichef.bbci.co.uk/ace/standard/792/cpsprodpb/f356/live/eacf2630-b735-11f1-aa9c-3d062fa3aea7.jpg)

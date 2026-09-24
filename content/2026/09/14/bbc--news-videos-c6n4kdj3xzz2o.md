@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - History
+locations: []
+people:
+- Ben Delo
+- Christopher Harborne
+- Henry Zeffman
+- Richard Tice
+organisations:
+- BBC
+- House of Lords
+- Reform UK
+- Reform UK Reform UK
 ---
 
 # What you need to know about the huge donations to Reform UK

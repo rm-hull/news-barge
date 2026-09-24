@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/08/08/18/e533d1db3d71a18d09149b2a4f
 categories:
 - News & Politics
 - UK
+locations:
+- Church House
+- Gaza
+- Holborn
+- Israel
+- London Borough of Camden
+- St Pancras
+people:
+- Andrew Feinstein
+- Andy Burnham
+- Frank Dobson
+- Jonathan Brady
+- Keir Starmer
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Green Party
+- Greens
+- Hamas
+- Labour
+- Liberal Democrats
+- Reform
 ---
 
 Green Party leader Zack Polanski has said he intends to stand in the Holborn and St Pancras by-election triggered by the resignation of former prime minister Sir Keir Starmer.

@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260916__C8GF39E__v1__MidRes__FranceEnergyOilEconomy.jpg@webp
+locations:
+- Austria
+- Belgium
+- Bolzano
+- Denmark
+- France
+- Germany
+- Iran
+- Italy
+- Marche
+- Middle East
+- Norway
+- Spain
+- Sweden
+- Switzerland
+- Western Europe
+people:
+- Peter Hummelgaard
+- Rasmus Stoklund
+organisations:
+- AFP
+- Bensinpriskollen.se
+- Diesel
+- EU
+- Facebook
+- Gilets Jaunes
+- Ritzau
+- Spritpreisbremse
+- The Local
+- Voxmeter
 ---
 
 The skyrocketing price of fuel, caused by war in the Middle East, is hitting drivers hard around Europe. Depending on where people live, many have been forced to cross borders to neighbouring countries in Europe to get cheaper fuel.

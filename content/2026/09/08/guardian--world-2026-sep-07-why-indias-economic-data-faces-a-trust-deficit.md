@@ -13,6 +13,51 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Ahmedabad
+- Carra
+- China
+- Delhi
+- Imphal
+- India
+- Manam
+- Manipur
+- Mumbai
+- Naviluna
+- Sri Lanka
+people:
+- Abhijeet Dipke
+- Aditya Gadhvi
+- Anant Gupta
+- Ismail Langa
+- Jagirdar RV
+- Narendra Modi
+- Olivia Dean
+- Pronab Sen
+- R Nagaraj
+- Reetika Khera
+- Ricky Kej
+- Scroll
+- Shamika Ravi
+- Stewart Copeland
+- Subhash Garg
+organisations:
+- Azim Premji University
+- Business Standard
+- CJP
+- Cockroach Janta Party
+- Daily FT
+- Economic Advisory Council
+- Election Commission
+- Got Talent
+- IMF
+- Indian Express
+- Indira Gandhi Institute of Development Research
+- Instagram
+- International Monetary Fund
+- Ismail Langa Group
+- National Population Register
+- National Statistical Commission
 ---
 
 There isn’t much that we Indians agree on these days. GDP numbers are no exception. Last week, India released glowing GDP numbers for the latest quarter – 7.8% growth – higher than the forecast 7%. It sparked a furore.

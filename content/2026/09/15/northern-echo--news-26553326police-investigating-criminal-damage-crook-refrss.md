@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Crook
+- Oak Gardens
+people: []
+organisations:
+- Durham Police
 ---
 
 *(Image: GOOGLE MAPS)*

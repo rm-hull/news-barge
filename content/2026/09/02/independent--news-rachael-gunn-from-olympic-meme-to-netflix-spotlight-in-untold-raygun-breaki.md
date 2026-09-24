@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- France
+- Paris
+people:
+- Jimmy Fallon
+- Rachael Gunn
+- Raygun
+organisations:
+- Netflix
 ---
 
 It's no secret how the breaking news on Raygun unfolded at the Paris Olympics: the memes and the mockery came thick and fast.

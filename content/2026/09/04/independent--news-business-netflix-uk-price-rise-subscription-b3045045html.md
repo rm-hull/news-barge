@@ -13,6 +13,21 @@ categories:
 - UK
 - Film & TV
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Barry Keoghan
+- Jonny Boy
+- Kate Winslet
+- Max Beckett
+organisations:
+- Channel 4
+- ITVX
+- Netflix
+- The Gentlemen
+- Tubi
+- Uswitch
 ---
 
 Netflix has increased its subscription rates in the UK for the second time this year.

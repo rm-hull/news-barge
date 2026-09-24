@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Adra prison
+- Damascus
+- Deir Ez-Zour
+- Los Angeles
+- Moscow
+- Syria
+- US
+- United States
+people:
+- A Tysen Duva
+- Al-Assad
+- Al-Sheikh
+- Assad
+- Bashar al-Assad
+- Battal
+- Ela Matthews
+- Hernan D Vera
+- Khaled Abdul Malek
+- Maher
+- Nidal Shikhani
+- Samir Ousman al-Sheikh
+- Sultan Abdul Malek
+organisations:
+- Center for Justice and Accountability
+- Syrian Democratic Forces
 ---
 
 - 

@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Birmingham City
+- Chislehurst
+- Derby County
+- England
+- Lambeth
+- London
+people:
+- '![Ibe'
+- Amie Mayson
+- Aya Alshekhili
+- Brij Kalia
+- Jordan Ibe
+- Jordon Ibe
+- Ms Alshekhili
+- Ms Mayson
+organisations:
+- AFC Bournemouth
+- Anfield
+- Croydon Magistrates’ Court
+- Liverpool
+- Lokomotiv Sofia
 ---
 
 Former Liverpool winger Jordon Ibe pulled a braid out of his ex-girlfriend’s hair during an argument where she called him a “druggy”.

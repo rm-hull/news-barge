@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Church of St Martin le Grand
+- Coney Street
+- St Helen's Square
+- St Helen’s Square
+- YOUR
+- York Inner Ring Road
+- York Mansion House
+people:
+- Max Reeves
+organisations:
+- Helmsley Group
+- JD Sports
+- Newsquest
+- Public Notice Portal
+- Public Notice Portal Yorkshire Water
+- Space NK
+- The Press
+- Yorkshire Water
 ---
 
 *(Image: Newsquest)*

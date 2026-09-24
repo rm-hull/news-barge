@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- England
+- High Street
+- Malton
+- Ryedale
+- Sherburn
+- The Pastures
+- White Gate
+people:
+- Alan Goforth
+- William Edward Cundall
+organisations:
+- Cromsdale Estates
+- Government
+- NPPF
+- North Yorkshire Council
+- Thirsk
 ---
 
 A decision on plans for up to 52 homes in a Ryedale village has been delayed after planning officers changed their recommendation following the publication of new national planning rules.

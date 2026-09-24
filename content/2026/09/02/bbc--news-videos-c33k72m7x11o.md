@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16ac/live/d143f7
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- US
+- United Kingdom
+people:
+- Donald Trump
+- Harry
+- Meghan
+organisations:
+- Royal Family
+- Trump
 ---
 
 # Watch: Trump 'happy' that Prince Harry and Meghan left the US

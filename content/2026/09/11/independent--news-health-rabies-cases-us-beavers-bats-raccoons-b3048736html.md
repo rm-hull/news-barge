@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Maryland
+- New York
+- New York City
+- Olympic National Park
+- U.S.
+- Yosemite National Park
+people: []
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- National Park Service
+- The New York Times.
 ---
 
 U.S. rabies cases rose 17 percent just this summer, according to a new federal advisory.

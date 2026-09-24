@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Hillsborough
+- Midwest
+- New England
+- New York
+- New York City
+- North Carolina
+- Pearl Street
+- Philly
+- San Antonio
+- South
+- Texas
+- U.S.
+- U.S.A
+people:
+- Jif
+- Julia Davis Chandler
+- Katie Workman
+- Peter Pan
+- Tay
+organisations:
+- AP
+- Big Spoon Roasters
+- PB&J
+- Peanut Butter & Co.
+- Skippy
+- South Philadelphia Tap Room
+- The Associated Press
+- The Boston Cooking School Magazine
 ---
 
 If there is a single sandwich associated with childhood and school lunches in the U.S.A, it has to be the PB&J.

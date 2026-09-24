@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dynamo North East
+- North East
+people:
+- David Dunn
+- Keith Lamb
+organisations:
+- Durham Government
+- Dynamo Leadership Forum
+- Dynamo North East
+- NEPO
+- Reimagining Procurement and Social Value
 ---
 
 North East technology leaders are calling for closer engagement with public sector commissioners and greater opportunities to test new technologies.

@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Belgium
+- Brussels
+- Canada
+- Mons
+people:
+- Claire Z —
+- Gary Anandasangaree
+organisations:
+- Alliance
+- Belgian Indictments Chamber
+- Euronews
+- Federal Prosecutor’s Office
+- NATO
+- Reuters
+- SHAPE
+- Supreme Headquarters Allied Powers Europe
 ---
 
 ## The next chapter in a spy scandal that has rocked NATO unfolded in Belgium on Monday, when an individual sitting at the centre of an espionage investigation was refused pre-trial release.

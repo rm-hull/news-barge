@@ -13,6 +13,67 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Asheville
+- Canada
+- Capitol Hill
+- China
+- Detroit
+- Hormuz
+- Iran
+- Iranwas
+- Jordan
+- Kharg Island
+- Lake America
+- Lake Ontario
+- Larak Island
+- Michigan
+- New York
+- North Carolina
+- Tehran
+- Texas
+- US House
+- US-Canada
+- Washington
+- al-Azraq
+people:
+- Abdul El-Sayed
+- Alexandria Ocasio‑Cortez
+- Bernie Sanders
+- Chris Hippensteel
+- Dharna Noor
+- Donald Trump
+- Greg Abbott
+- Gretchen Whitmer
+- Helene
+- Hussein
+- JD Vance
+- Jocelyn Benson
+- John James
+- Kevin Warsh
+- Mark Carney
+- Mike Johnson
+- Mike Rogers
+- Pan Gongsheng
+- Scott Bessent
+- Trey Yingst
+- Yohannes Lowe Donald Trump
+organisations:
+- CNBC
+- EU
+- European Central Bank
+- European Union
+- Fed
+- Federal Reserve
+- Fox News
+- G20
+- House
+- IRGC
+- Liberal
+- Senate
+- Trump
+- anti‑Data Center
+- interior department
 ---
 
 House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill

@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- England
+people:
+- Andy Burnham
+- 'Andy Burnham ## Harrogate'
+- Tom Gordon
+organisations:
+- Burnham
+- Bus Users UK
+- Disability Action Yorkshire
+- Harrogate
+- House of Commons
+- Knaresborough Lib Dem
+- RNIB
+- Transport for All
+- Whizz Kidz
 ---
 
 # Rare moment of cross-party credit as Harrogate's MP wins praise from Andy Burnham

@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Hopperton Old Station
+- Knaresborough
+- North Yorkshire
+- York
+people: []
+organisations:
+- Hopperton Old Station
+- RAIB
+- Rail Accident Investigation Branch
 ---
 
 An investigation has been launched after a train had a near miss on a stretch of track in North Yorkshire.

@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Auckland Park
+- Bishop Auckland
+- Broom Hill
+- Burnhope
+- County Durham
+- County Durham Boddy
+- Front Street
+- Moule Crescent
+- Stanley
+people:
+- Andrew Petterson
+- Calum McNicholas
+- Hannah Wilson
+- Iain Boddy
+- Neil Fuller
+- Richard Clews
+organisations:
+- Crimestoppers
+- DCI Fuller
+- Durham Constabulary
+- Durham Crown Court
+- Durham Police
 ---
 
 *(Image: Durham Constabulary)*

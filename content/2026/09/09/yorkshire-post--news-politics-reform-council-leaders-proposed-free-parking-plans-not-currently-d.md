@@ -14,6 +14,17 @@ categories:
 - York
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Bradford Council-owned
+- Simon Hulme
+people:
+- Ian Eglin
+- Ian Walker
+- Stephen Place
+organisations:
+- Bradford Council
+- Local Democracy Reporting Service
+- Reform
 ---
 
 # Reform council leader's proposed free parking plans 'not currently deliverable'

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Ecclesall Woods
+- Manchester
+- Sheffield
+- Whirlowdale Road
+people:
+- Andy Knowles
+- Dean Atkins
+organisations:
+- Crimestoppers
 ---
 
 # Two arrested in murder probe after man found shot dead in Sheffield woods

@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7729/live/b2490a80-b238-11f1-9f5d-fbda72f7de0b.jpg
+locations:
+- Chemmani
+- Colombo
+- Harshana Nanayakkara
+- Jaffna Peninsula
+- Kandy
+- Kumanan Kanapathippillai
+- Mannar
+- Sri Lanka
+people:
+- Anura Kumara Dissanayake
+- Gehan Gunatilleke
+- Gnanaseelan Ravi
+- Jeyaruby Jayapalan
+- Jeyaruby Jeyabalan
+- Kandaiah Jayapalan
+- Krishanthi Kumaraswamy
+- Raj Somadeva
+- Ranjan Arun Prasadh
+- Rory Mungoven
+- Somaratne Rajapakse
+- Suseela
+- Waruna Gamage
+organisations:
+- Asia-Pacific
+- BBC Tamil Service
+- Forensic Department
+- Human Rights
+- Human Rights Commission
+- Human Rights Watch
+- International Criminal Court
+- LTTE
+- Liberation Tigers of Tamil Eelam
+- OMP
+- Office of the
+- Office of the Missing Persons
+- Suseela
+- Tamil Tiger
+- Tamil Tigers
+- UN
+- United Nations
+- University of Jaffna
 ---
 
 ![Jeyaruby Jeyabalan holds a photograph of her father. ](https://ichef.bbci.co.uk/ace/standard/720/cpsprodpb/7729/live/b2490a80-b238-11f1-9f5d-fbda72f7de0b.jpg)

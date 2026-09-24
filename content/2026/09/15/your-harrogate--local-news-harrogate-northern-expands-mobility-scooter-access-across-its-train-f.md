@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - Travel
 image: https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg
+locations:
+- Harrogate
+- Ilkley
+- North Yorkshire
+- North of England
+- Northern
+- Northern’s
+- Skipton
+people:
+- Alex Hornby
+- Janet Kidd
+- Sue Buckingham
+- Tony Jennings
+organisations:
+- Northern
+- Shopmobility Leeds
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg)

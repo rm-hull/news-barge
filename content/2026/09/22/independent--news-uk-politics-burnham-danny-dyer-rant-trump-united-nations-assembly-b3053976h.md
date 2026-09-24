@@ -12,6 +12,30 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/09/21/22/Britain_Politics_24951.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Middle East
+- New York
+- PA
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Dani
+- Danny Dyer
+- Donald Trump
+- Jarrod Bowen
+- Jim Bennett
+- Keir Starmer
+organisations:
+- EU
+- Labour
+- Rivals
+- Surfers Against Sewage
+- United Nations General Assembly
+- West Ham
+- West Ham United
 ---
 
 Andy Burnham has claimed he is "not sure" who Danny Dyer is following a profanity-filled outburst by the actor directed at the Prime Minister.

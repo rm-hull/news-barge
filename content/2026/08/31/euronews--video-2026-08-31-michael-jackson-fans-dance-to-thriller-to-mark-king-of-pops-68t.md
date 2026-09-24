@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Mexico City
+people:
+- Michael Jackson
+organisations: []
 ---
 
 Hundreds of Michael Jackson fans and impersonators gathered in Mexico City on Saturday to honour the King of Pop on what would have been his 68th birthday.

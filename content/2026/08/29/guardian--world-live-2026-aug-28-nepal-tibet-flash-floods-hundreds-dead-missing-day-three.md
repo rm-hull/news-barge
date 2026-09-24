@@ -13,6 +13,79 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Beijing
+- Bhote Koshi River
+- Bidur
+- China
+- China-Nepal
+- Chitwan
+- DeviGhat
+- Devighat
+- Gyirong County
+- Gyirong Port
+- Himalayas
+- India
+- Kathmandu
+- Mailung
+- Mount Kailash
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- Rusawa
+- Tibet
+- Tibet-Nepal
+- UK
+- US
+- Wednesdayhas
+- Xinhua
+people:
+- Ahmer Khan
+- Amy Hawkins
+- Brig Gen Raja Ram Basnet
+- Cara Severino
+- Ed Miliband
+- Ezra Acayan
+- Li Qiang
+- Liu Shuang
+- Lok Bahadur Chhetri
+- Murali Maiya Tamang
+- Rajesh Kumar Singh
+- Ritesh Shukla
+- Sangke Dolma Tamang
+- Shisir Khanal
+- Sivaranjani Muthunathan
+- Steve Tsang
+- Ursula von der Leyen
+- Xi Jinping
+- Zou Mingqi
+organisations:
+- AFP
+- AP
+- Agence France-Presse
+- CCTV
+- China Central Television
+- China Institute
+- Department of Foreign Affairs
+- European Commission
+- European Union
+- FCDO
+- Getty Images Residents
+- Guardian
+- IFRC
+- International Federation of Red Cross and Red Crescent Societies
+- Kathmandu Post
+- Manan Vatsyayana
+- National Disaster Risk Reduction and Management Authority
+- People’s Armed Police Force
+- Prakash Mathema/AFP
+- Rapid Deployment Team
+- Red Cross
+- Reuters
+- Soas University of London
+- USA Today
+- Xinhua
 ---
 
 Death toll now stands at 579 in Nepal, seven in Tibet

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+people:
+- Fraser McKevitt
+organisations:
+- Asda
+- Lidl
+- Ocado
+- Worldpanel
 ---
 
 Grocery price inflation sped up in August amid signs that the cost of living is altering household spending choices, figures show.

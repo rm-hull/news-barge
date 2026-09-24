@@ -12,6 +12,100 @@ image: https://i.guim.co.uk/img/media/319ede727f93aa0da1da84beb0fda39afdd49ebf/4
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Bicester
+- Birmingham
+- Britain
+- China
+- City
+- Countess of Chester
+- Downing Street
+- Iran
+- London
+- Millbank
+- Oxfordshire
+- Piddington
+- Piddlington
+- Saudi East-West
+- UK
+- US
+- Vatican
+- Wes I
+- Wes II
+- Wes III
+people:
+- AI Jonathan Reynolds
+- Alex Norris
+- Andrew McDonald
+- Andy Burnham
+- Angela Rayner
+- Badenoch
+- Ben Delo
+- Christopher Harborne
+- Gareth Fuller
+- Jack Clark
+- Jessica Elgot
+- Joe Giddens
+- Jonathan Reynolds
+- Justin Webb
+- Keir Starmer
+- Kiran Stacey
+- Lisa Smart
+- Louise Haigh
+- Lucy Fisher
+- Lucy Letby
+- Megan McElroy
+- Nigel Farage
+- PA How Rayner
+- PA Jonathan Reynolds
+- Pat McFadden
+- Paul Nowak
+- Pippa Crerar
+- Richard Partington
+- Rishi Sunak
+- Robert Jenrick
+- Shabana Mahmood
+- Steven Swinford
+- Trump
+- Wes Streeting
+- Yohannes Lowe
+- Yvette Cooper
+organisations:
+- AI Safety Institute
+- Anthropic
+- Bank of England
+- Commons
+- Daily Telegraph
+- Department for Work and Pensions
+- Financial Times
+- GB News
+- HM Revenue & Customs
+- House of Lords
+- IHT
+- ITV’s Good Morning Britain
+- Kemi Badenoch
+- Labour
+- Lib Dem
+- Lib Dem Cabinet Office
+- Lib Dems
+- ONS
+- Office for National Statistics
+- PA
+- Politico
+- Press Association
+- Reform UK
+- Reform UK Treasury
+- Reuters Reform UK
+- Sky News
+- Streeting
+- Temilade Adelaja
+- Temilade Adelaja/Reuters TUC
+- The Liberal Democrats
+- Thirlwall
+- Times Radio
+- Tory UQ
+- Unite
 ---
 
 Reform UK party leader Nigel Farage speaking during the Reform UK party conference, in Birmingham, Britain earlier this month on 5 September, 2026. Photograph: Temilade Adelaja/Reuters

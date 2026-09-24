@@ -16,6 +16,61 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21477975.jpg?type=og-image
+locations:
+- Billingham A Teesside
+- Britain
+- County Durham
+- Hollywood
+- Liverpool
+- London
+- New York
+- North East
+- Quiet County Durham
+- United States
+people:
+- Andrew James Matfin Bell
+- Anne Binckebanck
+- Bean Gogglebox
+- Ben Grimm
+- Bernie Taupin
+- Billy Elliot
+- Claire Foy
+- Eileen
+- Elton John
+- Fred Astaire
+- Geoffrey Rush
+- Hollywood Bell
+- Jamie Bell
+- Jane Eyre
+- Julie Walters
+- Jumper
+- Kate Mara
+- Kathryn
+- King Kong
+- Mark Kermode
+- Michael Douglas
+- Mrs Wilkinson
+- Richard Gadd
+- Rocketman
+- Rowan Atkinson
+- Russell Crowe
+- Scarlett Moffatt
+- Snowpiercer
+- Stephen Daldry
+- Steven Spielberg
+- Taron Egerton
+- Tintin
+- Tom Hanks
+- Tom Hardy
+organisations:
+- BAFTA
+- BBC
+- Billingham
+- Brokeback Mountain
+- House of Cards
+- Rocketman
+- Stagecoach Theatre Arts
+- The Martian
 ---
 
 For millions of film fans around the world, Jamie Bell will always be Billy Elliot - the talented young boy who danced his way from a working-class North East community to international stardom.

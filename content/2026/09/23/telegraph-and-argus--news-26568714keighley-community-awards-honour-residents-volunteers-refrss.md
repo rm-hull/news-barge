@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482555.jpg?type=og-image&xType=0&yType=635
+locations:
+- Bloom
+- Bracken Bank
+- Cliffe Castle Park
+- Keighley
+- Yorkshire
+people:
+- Andrea Walker
+- Angie Powell
+- Antonia Crowley
+- Carol Owlett
+- Charlie Wilkinson
+- Ilkley
+- Janet Armstrong
+- Lisa Holmes
+- Marilyn Birt
+- Mohammed "Gully" Gulnawaz
+- Mohammed Gulnawaz
+- Ms Armstrong
+- Ms Crowley
+- Paul Beck
+- Richard Pemberton
+- Robbie Moore
+- Ruth Payne
+- Steve Thorpe
+- Tony
+- Vera Plumb
+organisations:
+- Aire
+- Girl Guides
+- Keighley Lions Club
+- Keighley Town Council
+- Oakworth
+- Riddlesden Cricket Club
+- Village Society
+- Worth Valley Wanderers
 ---
 
 Decades of community service were celebrated at this year’s Keighley Community Awards.

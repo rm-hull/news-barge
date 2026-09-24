@@ -10,6 +10,37 @@ description: The researchers struggled to abuse the exploit with an AI agent on 
 image: https://cdn.mos.cms.futurecdn.net/SSrgDUXsJwUVxtvheg4YCM-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- OpenAI
+people:
+- AI
+- Benedict Collins
+- Claude Opus
+- SonicWall Hacktron
+- Spencer Starkey
+organisations:
+- APT
+- Anthropic
+- BUCSIS
+- Executive VP EMEA
+- FastImage
+- GitHub Enterprise
+- Github
+- Google News
+- Hacktron
+- ImageMagick
+- Meta
+- OpenAI
+- Opus
+- Ruby on Rails
+- Slack
+- SonicWall
+- TechRadar Pro
+- The AI
+- University of Buckingham Centre for Security and Intelligence Studies
+- Wall Street Journal
+- non-AI
 ---
 
 ![A close up of ChatGPT on a phone, with the OpenAI logo in the background of the photo](https://cdn.mos.cms.futurecdn.net/SSrgDUXsJwUVxtvheg4YCM.jpg) 

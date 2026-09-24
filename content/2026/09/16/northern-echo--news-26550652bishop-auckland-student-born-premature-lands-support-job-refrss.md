@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+- James Cook University Hospital
+- Leeds
+- Middlesbrough
+- Newton Aycliffe
+- Walworth Primary
+people:
+- Anna
+- Erin McMenamin
+- Rachel
+organisations:
+- Bishop Auckland College
+- Carmel College
+- SEMH
+- Walworth Primary School
 ---
 
 *(Image: Supplied)*

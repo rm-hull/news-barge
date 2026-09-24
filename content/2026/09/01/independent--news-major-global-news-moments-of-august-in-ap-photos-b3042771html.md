@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people: []
+organisations:
+- The Associated Press
 ---
 
 From front-page news to powerful moments you may have missed, this gallery features compelling images from around the world published by The Associated Press in August.

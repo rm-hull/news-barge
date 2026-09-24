@@ -13,6 +13,59 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Asheville
+- McLaurin
+- North Carolina
+- Oval Office
+- Rose Garden
+- South Lawn
+- United States
+- Washington
+- White House
+people:
+- Anita McBride
+- Donald Trump
+- Ed Lengel
+- Fred Malek
+- George H.W
+- George W. Bush
+- Harry Truman
+- Howard Lutnick
+- Jackie Kennedy
+- Jacqueline Kennedy
+- John F.W
+- John Roberts
+- Marlene Malek
+- Melania Trump
+- Rebecca Miller
+- Robert
+- Rogers
+- Ronald Reagan
+- Semafor
+- Stewart McLaurin
+- Teresa Carlson
+- Tom Brown
+organisations:
+- Anthropic
+- Axios
+- Commerce
+- Congress
+- DC Preservation League
+- East Wing
+- Federal Agency
+- Goldman Sachs
+- Oval Office
+- Pentagon
+- Supreme Court
+- The Associated Press
+- The Association
+- The Independent
+- The Washington Post
+- Trump
+- WHHA
+- WOKE COMPANY
+- White House Historical Association
 ---
 
 A nonprofit group created to help preserve the character of the White House is being accused of “complicity” in President Donald Trump's controversial remaking of the iconic building to suit his taste.

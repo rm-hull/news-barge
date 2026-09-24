@@ -12,6 +12,23 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/04/South_Korea_Financial_Markets_127_6.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Hong Kong
+- Middle East
+- South Korea
+- Strait of Hormuz
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Stan Choe
+- Yuri Kageyama
+organisations:
+- AI
+- Shanghai Composite
+- Treasury
+- \_\_\_ AP Business
 ---
 
 Asian shares mostly rose early Tuesday, as the market mood turned positive from the overnight rally on Wall Street.

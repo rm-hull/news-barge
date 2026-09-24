@@ -14,6 +14,29 @@ categories:
 - UK
 - Society & Culture
 - Travel
+locations:
+- Colorado Springs
+- Denver
+- Gold Hill
+- Golden
+- New Mexico
+- Northern Rockies
+- Rocky Mountains
+- Steamboat Springs
+- Upper Colorado River Basin
+- Utah
+- Vail
+- Wyoming
+people:
+- Andy Kerrigan
+- Patrick Sullivan
+- Samantha Miller
+- Sauder
+organisations:
+- Center for Biological Diversity
+- Colorado Parks and Wildlife
+- Toyota
+- Utah Division of Wildlife Resources
 ---
 
 When Patrick Sullivan heard a car horn blaring nonstop at 3 am while up feeding his infant son one night this summer, he was convinced a "crazy neighbor" was responsible.

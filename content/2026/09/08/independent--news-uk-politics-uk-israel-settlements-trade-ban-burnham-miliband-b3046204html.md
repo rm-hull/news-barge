@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- Gaza
+- Israel
+- UK
+- US
+- West Bank
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- Gideon Saar
+- Keir Starmer
+- Mike Huckabee
+organisations:
+- Commons
+- Hamas
+- Labour
+- The Times
+- Trump
+- YouGov
 ---
 
 The government is set to unveil a ban on the trade of goods and some services from Israeli settlements in the West Bank after promising to take a tougher stance in support of Gaza.

@@ -13,6 +13,22 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBlZmE3YTc5LTNlNDMtNDQ0YS1hMjY0LWUyNzQ1ZTE4NGMzMTpjOTFjNzUyNC05MWM5LTQ3ZTQtOTI0MS03MTdiYjI3YzE3NjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Conisbrough
+- Doncaster
+- Marr
+- South Parade
+- The Point
+- Whitestone Solar Farm
+people:
+- Coun Rachel Reed
+- Cynthia Ransome
+- Nick Ballinger
+- Oliver Bloor
+organisations:
+- City of Doncaster Council
+- Environmena
+- Planning Inspectorate
 ---
 
 # Refused solar farm: Public inquiry called after developer lodges appeal

@@ -12,6 +12,20 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/15/01M34Q2DT7AJF36MRWF4H6HYS7.jpg?trim=182,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bootle
+- Merseyside
+- Sefton
+- Stone Square
+people:
+- Kevin Longshaw
+- Nick Searle
+organisations:
+- Hazardous Area Response Team
+- Merseyside Fire and Rescue Service
+- Merseyside Police
+- North West Ambulance
+- The Independent
 ---
 
 A woman and three children have died following a house fire in Merseyside.

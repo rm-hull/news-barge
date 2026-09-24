@@ -13,6 +13,19 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Durham Prison
+- Seaham
+people:
+- Francis Laird
+- Jo Kidd
+- Kai Taylor
+- Sue Hirst
+- Tony Davis
+organisations:
+- Durham Constabulary
+- Durham Crown Court
+- Teesside Crown Court
 ---
 
 *(Image: Durham Constabulary)*

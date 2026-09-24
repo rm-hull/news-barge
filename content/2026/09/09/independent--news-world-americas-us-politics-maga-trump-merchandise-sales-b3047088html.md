@@ -12,6 +12,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Boones Mill
+- Branson
+- D.C.
+- Iran
+- Missouri
+- New York
+- Syracuse
+- Tennessee
+- U.S.
+- Virginia
+- Washington
+people:
+- Donald Trump
+- Donald “Whitey” Taylor
+- Liz Hall
+- Quan Ngo
+- Seth Hansen
+organisations:
+- Financial Times
+- Focaldata
+- MAGA
+- NT Souvenir Wholesale
+- Republican Party
+- Trump Store Branson
+- Trump Store Manchester
+- Trump Town USA
+- Wall Street Journal
 ---
 
 Sales of MAGA merchandise have nosedived in some retail stores across the U.S., with sellers attributing the slump to the state of the economy under President Donald Trump.

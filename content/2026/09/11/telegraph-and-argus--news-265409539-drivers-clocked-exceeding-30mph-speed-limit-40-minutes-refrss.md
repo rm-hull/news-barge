@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Back Lane
+- Baildon
+- Bradford
+- Howard Road
+- West Yorkshire
+- Wilsden
+people: []
+organisations:
+- Bingley Rural Ward PCSOs
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

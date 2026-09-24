@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- California
+- Monterey County
+people:
+- Baby Angel
+- Baby Angelita
+- Dean Gialamas
+- Galvez Perez
+- Nicholas Kennedy
+- Ofelia Garcia Ortega
+- Richard Geng
+- Sergio Galvez Perez
+- Tina Nieto
+organisations:
+- ABC7
+- Los Angeles Police Department
+- Monterey County Jail
+- Monterey County Sheriff’s Office
 ---
 
 California police are on the hunt for a 14-year-old girl and her father after a newborn baby was found dead on a rural road in Monterey County.

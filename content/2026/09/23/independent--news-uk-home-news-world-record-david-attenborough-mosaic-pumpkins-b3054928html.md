@@ -12,6 +12,21 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/10/26/DJI_0263.jpeg?trim=0,313,0,312&width=1200&height=800&crop=1200:800
+locations:
+- Hampshire
+- Sunnyfields Farm
+- UK
+people:
+- Andrew Béga
+- David Attenborough
+- Jack Skellington
+- Ozzy Osbourne
+- Pravin Patel
+- Thomas Nelson
+organisations:
+- Black Sabbath
+- Guinness World Records
+- Sunnyfields
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

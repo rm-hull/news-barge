@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/88c163ba4bb12c0f5b3973cd1cd5d6fbb311b72e/1871_390_4226_3381/master/4226.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=104c91ac2a91427f593b912150d47051
+locations:
+- Massachusetts
+- McLean
+- New York City
+- Plymouth
+- Tewksbury
+people:
+- Callan
+- Cora
+- Dawson
+- Lindsay Clancy
+- Pat
+- Patrick Clancy
+- Rachel Danis
+organisations:
+- Postpartum Support International
 ---
 
 In his first televised interview, Patrick Clancy, the ex-husband of Lindsay Clancy, described the moments leading up to the 2023 killings of their children and how he coped in the aftermath.

@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Cambrian Street
+- Holbeck
+- Leeds
+people:
+- Daniel Bates
+organisations:
+- Crimestoppers
+- Homicide and Major Enquiry Team
+- WYP
+- West Yorkshire Police
 ---
 
 *(Image: Archive photo)*

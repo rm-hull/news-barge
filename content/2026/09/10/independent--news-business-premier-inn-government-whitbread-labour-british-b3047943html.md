@@ -13,6 +13,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- England
+- Europe
+- Scotland
+- UK
+- Wales
+people:
+- Jon Hendry Pickup
+- Keir Starmer
+- Whitbread
+organisations:
+- Butlin
+- Butlin’s
+- Government
+- Labour
+- PA
+- Premier Inn
+- Steve Parsons
+- UKHospitality
+- Whitbread
 ---
 
 Plans to give England’s mayors the power to impose tourist taxes will be “hugely damaging” and hit British holidaymakers hard, hotel and tourism firms have warned.

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Calderdale Royal Hospital
+- West Yorkshire
+people: []
+organisations:
+- Acre Mills Outpatients
+- Blue Badge
+- CHFT
+- Calderdale Royal
+- Huddersfield NHS Foundation Trust
+- Huddersfield Royal Infirmary
 ---
 
 PARKING charges have been put up at two West Yorkshire hospitals.

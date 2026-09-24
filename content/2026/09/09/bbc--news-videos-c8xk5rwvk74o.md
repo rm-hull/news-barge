@@ -14,6 +14,12 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 - Arts & Culture
+locations: []
+people:
+- Alan Carr
+- Paloma Faith
+organisations:
+- NTA
 ---
 
 # Emotional moment as Alan Carr honoured at National Television Awards

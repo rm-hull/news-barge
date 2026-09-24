@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Berlin
+- Europe
+- Germany
+- Israel
+- Leipzig
+- US
+people:
+- Andreessen Horowitz
+- Michael Kaufman
+organisations:
+- '## Covenant'
+- Founders Fund
+- Ministry of Defence
+- Reuters
+- Thiel Capital
 ---
 
 ## Covenant is a relatively new player in the arms industry. The company was founded in 2024 and is also active in Israel.

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Anne-Marie Boylan
+- Joyce Harper
+- Poppy Sullivan
+organisations:
+- British Menopause Society
+- Climacteric
+- Queen Mary University of London
+- UCL EGA Institute for Women’s Health
+- University College London
+- University of Oxford
 ---
 
 A study has revealed that certain supplements marketed to ease menopause symptoms omit key nutrients and feature a "huge variation" in vitamin and mineral doses which could trigger side-effects if consumed long-term.

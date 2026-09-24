@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/12/Trump_78_93.jpg?width=1200&height=800&crop=1200:800
+locations:
+- East 43rd Street
+- New York
+- Third Avenue
+people: []
+organisations:
+- First Avenue
+- U.N.
+- United Nations'
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

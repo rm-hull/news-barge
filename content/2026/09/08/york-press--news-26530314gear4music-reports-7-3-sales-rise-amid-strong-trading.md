@@ -13,6 +13,12 @@ categories:
 - York
 - Music
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Andrew Wass
+organisations:
+- Gear4music
 ---
 
 *(Image: Pic supplied)*

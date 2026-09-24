@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- CLEVELAND
+- Darlington
+- Errington Woods
+- James Cook University Hospital
+- Land Rover
+- New Marske
+- North East
+- Richmond
+people:
+- Bradley Bowes
+- Claire Wilson
+- James Cook
+- SARAH CALDECOTT
+organisations:
+- Cleveland Mountain Rescue Team
+- Darlington College
+- Land Rovers
+- NEAS
+- North East Ambulance Service
 ---
 
 A mountain-biking teenager was told he was "very lucky" to be alive after plunging around seven feet from his bike in woodland.

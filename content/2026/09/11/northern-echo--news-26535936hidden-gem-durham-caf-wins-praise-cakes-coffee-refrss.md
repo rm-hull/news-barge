@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Cafedral
+- Cafédral
+- County Durham
+- Durham Cathedral
+- Owengate
+- Prestigious’ North Yorkshire
+- Saddler Street
+people:
+- Kate Middleton
+organisations:
+- Durham
+- TripAdvisor
 ---
 
 Just a stone’s throw from Durham Cathedral, a family-run café has become one of the city’s most-loved spots for coffee, cake and lunch.

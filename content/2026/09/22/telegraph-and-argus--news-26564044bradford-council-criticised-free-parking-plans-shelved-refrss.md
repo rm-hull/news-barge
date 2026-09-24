@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20940443.jpg?type=og-image&yType=113
+locations:
+- Addingham
+- Ilkley
+- UK
+people:
+- Addingham
+- Alun Griffiths
+- Andrew Loy
+- Ian Walker
+- Ilkley
+- Jane Sellers
+- Richard Downey
+- Stephen Place
+organisations:
+- Bradford Council
+- Idle
+- Ilkley
+- Labour
+- Liberal Democrats
+- Neighbourhoods and Communities
+- Reform
+- Thackley
+- UGC
 ---
 
 *(Image: T&A)*

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kyiv
+- Pokrovsk
+- Russia
+- US
+- Ukraine
+people:
+- God
+- Leonid Ryzhak
+- Liudmyla Ryzhak
+- Love
+organisations: []
 ---
 
 Liudmyla Ryzhak spent the eve of her wedding ironing her delicately embroidered dress, laying out a full white tulle skirt beside her husband’s traditionally patterned shirt, before hanging them on the bedroom door.

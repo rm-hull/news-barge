@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Florida
+- Fort Pierce
+- Mar-a-Lago
+- Russia
+- U.S.
+- Washington
+- White House
+people:
+- Aileen Cannon
+- Donald Trump
+- Jia Cobb
+- Joe diGenova
+- John Brennan
+- Ken Wainstein
+- Kurt Olsen
+organisations:
+- CIA
+- Congress
+- DOJ
+- Justice Department
+- The Associated Press
+- The New York Post
+- ex-CIA
 ---
 
 Former CIA Director John Brennan has been subpoenaed to testify before a Florida grand jury in a Justice Department investigation into whether former law enforcement and intelligence officials conspired against President Donald Trump, and is the target of a separate inquiry into whether he made false statements before Congress, one of his lawyers said Monday.

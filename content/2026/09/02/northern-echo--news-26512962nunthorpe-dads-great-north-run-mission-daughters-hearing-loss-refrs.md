@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Australia
+- Nunthorpe
+people:
+- Ben Taylorson
+- Chris Kamara
+- Paul Wilkinson
+- Phoebe
+organisations:
+- Coca-Cola
+- Durham University
+- Great North Run
+- Great North Run for Prostate Cancer UK Ben
+- Hearing Dogs for Deaf People
+- Middlesbrough
 ---
 
 A Middlesbrough dad says his daughter’s determination to overcome hearing loss has inspired him in life and on the running track.

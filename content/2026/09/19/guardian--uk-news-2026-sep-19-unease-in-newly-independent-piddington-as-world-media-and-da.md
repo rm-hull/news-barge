@@ -13,6 +13,51 @@ categories:
 - Arts & Culture
 - Society & Culture
 image: https://i.guim.co.uk/img/media/296e834302f5722d9e0641a567247f11bb348645/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5da8fe76d5d963b4defe2dbf675c56f0
+locations:
+- Bicester
+- Britain
+- Dover
+- Ealing
+- Ireland
+- Jamaica
+- Japan
+- New Zealand
+- Norway
+- Oxfordshire
+- Pimlico
+- Principality of Piddington
+- Trumpington
+- UK
+- US
+- Woodstock
+- Wrong Site
+people:
+- Andrew Smith
+- Calum Miller
+- Charles
+- Daniel Thomas
+- Danny Tommo
+- Donald Trump
+- Elon Musk
+- Joe Marshall
+- Piddington
+- Rachel Marsh
+- Robin Smith
+- Tim Bearder
+- Tim McNally
+organisations:
+- Home Office
+- IT
+- Lib Dem
+- Liberal Democrat
+- Marsh
+- Network Rail
+- Newsnight
+- Oxfordshire County Council
+- Patriot Platform
+- Site A
+- SpaceX
+- The Village That Roars
 ---
 
 The first significant event in the newly independent principality of Piddington was a decision to select the newt as the national animal, reflecting optimism that the amphibian’s endangered status might help block plans to open a centre for 1,250 asylum seekers on neighbouring land.

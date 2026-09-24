@@ -13,6 +13,31 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/16/39/Henrik-Slotsaa-with-Joanna-Cierpka.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Castle
+- Daniel Leal-Olivas
+- Elephant
+- Greece
+- London
+- Old Bailey
+- PA
+- UK
+- USA
+people:
+- Danny Robinson KC
+- Dennis Leftakis
+- Henrik Slotsaa
+- Jacqueline Carey KC
+- Joanna Cierpka
+- Ms Carey
+- Orwell
+- Slotaa
+organisations:
+- 988 Suicide and Crisis Lifeline
+- British American Tobacco
+- Citibank
+- Old Bailey
+- Starbucks
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

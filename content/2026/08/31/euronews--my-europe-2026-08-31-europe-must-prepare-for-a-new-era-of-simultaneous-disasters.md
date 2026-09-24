@@ -14,6 +14,30 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Austria
+- Denmark
+- Eastern Flank
+- Europe
+- Finland
+- Germany
+- Netherlands
+- Sweden
+people:
+- Hadja Lahbib
+- Ursula von der Leyen
+- Von der Leyen
+- Wopke Hoekstra
+- von der Leyen
+organisations:
+- Climate Action
+- EU
+- Euronews
+- European Commission
+- European Commissioners
+- European Emergency Response Centre
+- European Union
+- Humanitarian Aid and Crisis Management
 ---
 
 ## The European Commission wants to shift the focus from responding to disasters to preventing them, strengthening preparedness and improving anticipation. But financing climate adaptation remains a major challenge, as EU countries face limited fiscal room to act.

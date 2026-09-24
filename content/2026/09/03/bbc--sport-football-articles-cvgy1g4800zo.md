@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Allianz Arena
+- Bremer Brucke
+- East Stand
+- England
+- Germany
+- VfL Osnabruck
+people:
+- Harry Kane
+- Michael Olise
+- Tom Bischof
+organisations:
+- Bayern Munich
+- Borussia Dortmund
+- Bundesliga 2
+- VfL Osnabruck
 ---
 
 ![A tifo on display at VfL Osnabruck stadium, showing a rollercoaster cart on a track with dummies inside](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5448/live/327d24f0-a75f-11f1-8888-832c5829c86c.jpg)

@@ -13,6 +13,14 @@ categories:
 - UK
 - Travel
 - Automotive
+locations:
+- Churchill Drive
+- Newark
+people:
+- Jamie Moore
+organisations:
+- CCTV
+- Nottinghamshire Police
 ---
 
 A young boy had been killed in a crash involving an off-road bike and a car in Newark.

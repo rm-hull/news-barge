@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461911.jpg?type=og-image
+locations:
+- Dalton Mills
+- Keighley
+- YOUR
+people:
+- Anna Dyson-Clarke
+organisations:
+- Bellissimo Investments Limited
+- Bradford Council
+- Crown Estate
+- Dalton Mills
+- Public Notice Portal
+- The Crown
+- The Crown Estate
 ---
 
 *(Image: Anna Dyson-Clarke/T&A Camera Club)*

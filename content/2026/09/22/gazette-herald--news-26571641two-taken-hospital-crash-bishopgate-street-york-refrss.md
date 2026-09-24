@@ -13,6 +13,16 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21486656.jpg?type=og-image
+locations:
+- Bishopgate Street
+- North Yorkshire
+- Skeldergate Bridge
+- York
+people: []
+organisations:
+- North Yorkshire Highways
+- Suzuki
+- Yorkshire Ambulance Service
 ---
 
 Two people have been taken to hospital following a crash along a main road in York city centre.

@@ -12,6 +12,16 @@ description: While some of the features see Google playing catch-up to Apple, wh
 image: https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200
 categories:
 - Technology & Software
+locations:
+- Find Hub
+people: []
+organisations:
+- Apple
+- Gemini
+- Google Google
+- Google Keep
+- Google Messages
+- Guided Vision
 ---
 
 On Tuesday, Google announced it’s rolling out five new updates designed to make Android phones more accessible, useful, and personalized. Announced in a blog post, the features include those aimed at reducing motion sickness, helping blind and low-vision users navigate their surroundings, remembering where users leave important items, and another that adds new ways to personalize Google Messages.

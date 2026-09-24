@@ -12,6 +12,26 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312823359.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Chile
+- Earth
+- Pacific Ocean
+- Silicon Valley
+- Texas
+- UK
+people:
+- Davide Amato
+- Elon Musk
+- Leah-Nani Alconcel
+organisations:
+- Artemis
+- Imperial College London
+- NASA
+- SpaceX
+- SpaceX's Starship
+- Starbase
+- University of Birmingham
+- V3
 ---
 
 ![SpaceX's Starship atop the Super Heavy V3 booster during the 13th launch on 24 July 2026](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312823359.jpg?w=840)

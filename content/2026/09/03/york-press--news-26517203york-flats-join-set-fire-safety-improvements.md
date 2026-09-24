@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Aldwark House
+- David Harrison
+- Fulford Place
+- Fulford Road
+- Heslington House
+- Hospital Fields Road
+- Nigel Holland
+- YOUR
+- York
+people:
+- Lee Smith
+- Taylor Wimpey
+- Taylor Woodrow
+organisations:
+- Building Council
+- City of York Council
+- North Yorkshire Fire and Rescue Service
+- Public Notice Portal
+- Public Notice Portal NEW
 ---
 
 ## New details emerge on fire safety plans for York flats gutted by blaze

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21483945.jpg?type=og-image
+locations:
+- A167
+- County Durham
+- Ford Fiesta
+- Haswell
+- Liddell Road
+- Lime Road
+- Newton Aycliffe
+- Newton Aycliffe Magistrates’ Court
+- Peterlee
+people:
+- Reggie Egginton
+- Stephen Andrews
+organisations:
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

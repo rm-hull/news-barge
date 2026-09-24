@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Beechwood Drive
+- Bolton Road
+- Bradford Crown Court
+- Shipley
+- Wibsey
+people:
+- Bilal Hussain
+- Gerald Hendron
+- Golf
+- Harris Butt
+- Husayn Ali
+- Mohammed Awais Iqbal
+- Skoda Fabia
+organisations:
+- Leeds Beckett University
+- Newsquest
+- Skoda
+- Tesco Express
 ---
 
 *(Image: Newsquest)*

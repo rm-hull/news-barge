@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Middlesbrough
+- North East
+- UK
+people:
+- Dolly
+- Vicky Walker
+organisations:
+- Annabelle’s
+- Dolly’s
+- Middlesbrough
 ---
 
 *(Image: Google Maps)*

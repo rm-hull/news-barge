@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Orlando
+people:
+- Adam Kingsley
+- Marley
+- Woody Woodpecker
+organisations:
+- Animal Actors
+- Disney
+- DreamWorks Land
+- KidZone
+- Marley & Me
+- North Campus
+- Team Members
+- Universal Orlando
+- Universal Studios Florida
+- WDW News Today
 ---
 
 Universal Studios Florida is saying goodbye to one of its final remaining opening-day attractions after 36 years.

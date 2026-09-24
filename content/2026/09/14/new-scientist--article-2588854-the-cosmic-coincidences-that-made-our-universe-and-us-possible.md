@@ -12,6 +12,13 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640219.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Earth
+- Greenland
+people:
+- Stephen Hawking
+organisations:
+- Earth
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640219.jpg?w=840)

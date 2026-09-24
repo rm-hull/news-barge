@@ -12,6 +12,27 @@ image: https://i.guim.co.uk/img/media/de606218d0e0fd9fec4f6963b0a7eb3f5747aab2/3
 categories:
 - UK
 - News & Politics
+locations:
+- Fraser Island
+- K’gari
+- New Acland
+- Queensland
+- Western Australia
+people:
+- Anthony Gough
+- Campbell Newman
+- Dale Last
+- Ellen Roberts
+organisations:
+- Gate Alliance
+- Greens
+- King Coal
+- LNP
+- Lock the Gate Alliance
+- Oakey Coal Action Alliance
+- Queensland Conservation Council
+- Queensland Government
+- Queensland Law Reform Commission
 ---
 
 Queenslanders’ right to object to mining projects – including coal – would be “gutted” by new legislation that would ban opponents from being heard in court without the minister’s approval and then only if they owned a property within a 125km radius of the project.

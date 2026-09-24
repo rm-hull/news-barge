@@ -10,6 +10,35 @@ image: https://cdn.mos.cms.futurecdn.net/DF2tckBfozvW8HVfqf49X7-1920-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Australia
+- Europe
+- Meta AI
+- New York City
+- U.S.
+- UK
+- US
+people:
+- AI
+- Eric Hal Schwartz
+- Joe Hill
+organisations:
+- Apple Intelligence
+- Chatbot
+- Copilot
+- Core
+- Gartner
+- Google Gemini
+- Google News
+- Instagram
+- Meta AI
+- Meta One
+- Microsoft
+- Pew Research Center
+- TechRadar
+- Voicebot.ai
+- WhatsApp
+- YouTube Premium
 ---
 
 ![Meta One log and and man backing away.](https://cdn.mos.cms.futurecdn.net/DF2tckBfozvW8HVfqf49X7.jpg) 

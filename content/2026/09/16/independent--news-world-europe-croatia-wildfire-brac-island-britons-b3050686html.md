@@ -15,6 +15,31 @@ categories:
 - Travel
 - History
 - Outdoors & Nature
+locations:
+- Brac
+- Brač
+- Croatia
+- Europe
+- Gava Waterman Milna Resort
+- Kent
+- Split
+people:
+- Anna
+- Frane Lozic
+- Hadja Lahbib
+- Josh Robbins
+- Shelby A’Court
+- Steve Saunders
+organisations:
+- AFP
+- EFFIS
+- EU
+- European Forest Fire Information System
+- Hina
+- RLT Danas
+- The Independent
+- The Times
+- Waterman Hotels
 ---
 
 Hundreds of people including British tourists have evacuated a Croatian island after a major wildfire broke out, with one recalling fleeing “as a wall of flames closed in”, according to reports.

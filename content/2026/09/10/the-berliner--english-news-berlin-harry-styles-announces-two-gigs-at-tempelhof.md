@@ -14,6 +14,16 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Germany
+- Hansa
+- Madison Square Garden
+- New York
+- Tempelhof Airport
+people:
+- Harry Styles
+organisations: []
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0849101842h-scaled.jpg)

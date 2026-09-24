@@ -13,6 +13,11 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- York
+people: []
+organisations:
+- The Herald
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

@@ -11,6 +11,50 @@ description: Home surveillance is a complex topic, so make sure you're fully inf
 image: https://cdn.mos.cms.futurecdn.net/W2tK5uyVfnMFhne645bVc8-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Ali Park
+- Oxford County Court
+- Oxfordshire
+- UK
+people:
+- Ali Park
+- Everett Lupton
+- Gavin Wilson
+- Hannah Hart
+- Jon Woodard
+- Knights’ Lisa Sweetman
+- Lisa Sweetman
+- Mary Fairhurst
+- Melissa Clarke
+- Reolink
+- Will Richmond-Coggan
+organisations:
+- BAE Systems
+- BBC
+- Baseus Security
+- CCTV
+- Commercial Team
+- DXC
+- Fairhurst
+- Freeths
+- GDPR
+- Google News
+- Head of Data and Privacy Disputes
+- ICO
+- Knights “People
+- Nokia
+- Office
+- Pro Privacy
+- Reolink
+- Richmond-Coggan
+- SAP
+- Slaughter & Lupton
+- TechRadar
+- The Daily Telegraph
+- Toro Solutions
+- Toro Solutions' Gavin Wilson
+- UK General Data Protection
+- Vodafone Microsoft
 ---
 
 ![Man holding smartphone fitting home security camera](https://cdn.mos.cms.futurecdn.net/W2tK5uyVfnMFhne645bVc8.jpg) 

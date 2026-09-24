@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Berwickshire
+- Britain
+- Lauder
+- Oxton
+- UK
+- William Loneskie
+people:
+- Joe Giddens
+- Tolley
+organisations:
+- AFV
+- EV's
+- HMRC
+- PHEV
+- Yorkshire Post Letters
 ---
 
 # The British public is being taxed to the hilt on everything - Yorkshire Post Letters

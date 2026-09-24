@@ -13,6 +13,24 @@ image: https://static.independent.co.uk/2026/09/02/17/2026-08-21T183115Z_1122185
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Ballroom
+- District of Columbia
+- Iran
+- U.S.A.
+- White House
+people:
+- Donald Trump
+- John Roberts
+organisations:
+- Congress
+- East Wing
+- High Court
+- National Trust
+- National Trust for Historic Preservation
+- Supreme Court
+- TRUMP
 ---
 
 President Donald Trump might not “think about Americans’ financial situation” as his approval ratings continue to sag amid his unpopular Iran war and failure to address cost-of-living issues, but he appears to be very in tune with the mental health of at least one group of workers — those who are toiling on the White House ballroom he has been obsessing over for nearly a year.

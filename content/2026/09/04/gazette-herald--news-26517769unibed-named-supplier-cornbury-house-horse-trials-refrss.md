@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Cornbury House
+- Oxfordshire
+- South Milford
+- UK
+people:
+- Jessica Vickers
+organisations:
+- British Eventing
+- Cornbury House Horse Trials
+- High-Performance Equine Bedding
+- UNIBED High-Performance Equine Bedding
+- Unibed
 ---
 
 A bedding manufacturer has been named the official supplier for one of the UK’s leading horse trials.

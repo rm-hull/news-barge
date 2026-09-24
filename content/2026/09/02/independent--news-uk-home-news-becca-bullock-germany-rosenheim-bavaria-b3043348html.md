@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Austria
+- Bavaria
+- Buckinghamshire
+- Germany
+- Rosenheim
+- Ukraine
+- Whitchurch
+- White Swan
+people:
+- Ms Bullock
+- Rebecca ‘Becca’ Bullock
+- Richard Shuffill
+- Samantha Perry
+- White Swan
+organisations:
+- Spinal Injuries Association
+- The Independent
 ---
 
 The British woman stabbed to death by a stranger in Germany has been pictured for the first time.

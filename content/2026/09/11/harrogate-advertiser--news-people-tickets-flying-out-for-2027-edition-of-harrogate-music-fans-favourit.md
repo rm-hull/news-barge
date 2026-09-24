@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Baldersby Park
+- North Yorkshire
+- Thirsk
+people:
+- John Grant
+- Johnny Marr
+- Kae Tempest
+- Kate Webster-Jones
+- Oliver
+organisations:
+- CMAT
+- Dry Cleaning
+- Harrogate
+- Saint Etienne
+- Sleaford Mods
+- Tier 1
+- Wedding Present
 ---
 
 # Tickets flying out for 2027 edition of Harrogate music fans' favourite music festival

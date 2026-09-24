@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Health & Fitness
 - Society & Culture
+locations:
+- Australia
+- Beijing
+- China
+- Gyirong Port
+- Himalayas
+- India
+- Langtang Lirung
+- Malaysia
+- Nepal
+- Nepal-China
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- Tibet
+- UK
+- US
+people:
+- Balendra Shah
+- Pemba Dundu Tamang
+organisations:
+- Asian Mountain Academic Alliance
+- Institute of Mountain Hazards and Environment
+- Nepal Armed Police Force
+- Stimson Centre and China
+- UN
 ---
 
 Watch: Near ground zero of the Nepal floods

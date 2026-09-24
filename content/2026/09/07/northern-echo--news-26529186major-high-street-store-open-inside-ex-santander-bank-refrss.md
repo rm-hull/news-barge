@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- High Street
+- Natwest
+- Northallerton
+- Santander
+people:
+- Joules
+organisations:
+- Facebook
+- Joules
+- Joules!
+- Love Northallerton
+- Santander
+- Times’
 ---
 
 *(Image: Love Northallerton)*

@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Capitol Hill
+- Dallas
+- Florida
+- Iran
+- Maine
+- Middle East
+- Sen
+- Texas
+- The Hill
+- U.S.
+people:
+- Darline Graham Nordone
+- David Schweikert
+- Donald Trump
+- Fox
+- Good
+- John Thune
+- Kristen Welker
+- Mike Johnson
+- Ralph Norman
+- Roger Marshall
+- Ron DeSantis
+- Steve Scalise
+- Susan Collins
+organisations:
+- CBS News
+- Congress
+- Fox News
+- House Freedom Caucus
+- House of Representatives
+- Kansas State Fair
+- NBC
+- Reuters
+- South Carolina Senate
+- The New York Times
+- Trump
 ---
 
 Speaker Mike Johnson gave his reaction to Donald Trump’s promise to send Americans a $5,000 check if they protected Republican majorities in Congress during the upcoming midterm elections on Sunday.

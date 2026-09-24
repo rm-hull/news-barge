@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Arizona Republic
+- Bright Angel Creek
+- Colorado River
+- El Niño
+- Grand Canyon
+- Grand Canyon Lodge
+- Los Angeles
+- Pacific Ocean
+- Phantom Creek
+- US
+people:
+- Daniel Swain
+- Park Williams
+organisations:
+- Associated Press
+- California Institute for Water Resources
+- Department of Interior
+- El Niño
+- The Associated Press
+- University of California
+- Weather and Climate Extremes
 ---
 
 A deadly flash flood in the Grand Canyon over the weekend was likely driven by a confluence of climate factors, including drought, wildfire scarring and warming temperatures in the Pacific Ocean that can supercharge storms.

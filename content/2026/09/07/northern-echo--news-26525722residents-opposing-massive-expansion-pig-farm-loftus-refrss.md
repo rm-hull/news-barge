@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Easington
+- Highfields Farm
+- Loftus
+- Newton Aycliffe North East
+- Ravenseat
+- South Town Lane
+- YOUR
+people:
+- Amanda Owen
+- Andrew Corrigan
+- Clare Robson
+- Elizabeth Wilmot
+- Jo Lazarus
+- Raven
+- Sam Harrison
+organisations:
+- CAFF
+- Cleveland Council
+- Communities Against Factory Farming
+- Easington Village Hall
+- Environment Agency
+- Feelgood Pigs Limited
+- Harrison Pick
+- Local Planning Authority
+- Public Notice Portal
+- Redcar
 ---
 
 ### What is the Public Notice Portal?

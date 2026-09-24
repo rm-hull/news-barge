@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+- US
+people:
+- Alpha
+- Bari Weiss
+- Brad Cooper
+- Bravo
+- Dan Caine
+- Donald Trump
+- God
+- Justin Baragona
+- Lord
+- Norah O’Donnell
+- Pete Hegseth
+- Sean Parnell
+organisations:
+- 60 Minutes
+- Alpha
+- Army Delta Force
+- CBS News
+- CIA
+- CNN
+- Daily Beast
+- Islamic Revolutionary Guard Corps
+- Navy Seal Team Six
+- Pentagon
+- Trump
+- US Central Command
+- Zeteo News
 ---
 
 A US airman has spoken of climbing a 7,000ft ridge with a broken back, arm and shoulder after he was shot down in Iran – and of being rescued by a team of American special forces as hostile locals closed in on him.

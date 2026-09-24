@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A1
+- Bowburn
+- M
+people: []
+organisations:
+- A1
+- North East Ambulance Service
+- The Northern Echo
 ---
 
 - Good afternoon, welcome to The Northern Echo's live blog on an medical incident on the A1(M).

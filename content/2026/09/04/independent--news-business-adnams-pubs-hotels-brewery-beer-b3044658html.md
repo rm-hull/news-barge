@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- Suffolk
+people:
+- Adnams
+organisations:
+- Adnams
+- England
+- Met Office
+- Scotland
 ---
 
 Suffolk brewer and pub operator Adnams has posted further financial losses following weaker-than-expected performance during the first half of 2026.

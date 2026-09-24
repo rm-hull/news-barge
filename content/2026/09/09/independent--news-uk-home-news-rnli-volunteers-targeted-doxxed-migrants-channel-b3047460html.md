@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/09/07/15/01M1XSKWQR331S300W0FGHMAFY
 categories:
 - News & Politics
 - UK
+locations:
+- Dover
+- France
+- Portsmouth
+- Westminster
+people:
+- Adam McCaig
+- Lisa Nandy
+- Mr Sparkes
+- Peter Sparkes
+organisations:
+- English Channel
+- RNLI
+- Royal National Lifeboat Institution
+- Sussex Police
 ---
 
 A police investigation has been launched after two Royal National Lifeboat Institution (RNLI) volunteers were branded “traitors” online and had their photos, full names and home addresses leaked in the wake of anti-migrant protests in Portsmouth on Sunday night.

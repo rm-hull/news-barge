@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Clocktower Enclosure
+- York Racecourse
+people:
+- James Cundall
+- Velma Celli
+organisations:
+- Bavarian Bar
+- Brew York
+- Jamboree Entertainment
+- The Bavarian Strollers
+- The Dog Haus
+- Yorktoberfest
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9683323678bb6dac3.jpg) 

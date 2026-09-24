@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - History
 - Family & Parenting
+locations:
+- Princess of Wales
+people:
+- Catherine
+- Daniela Relph
+- George
+organisations:
+- BBC
+- Eton College
 ---
 
 # Prince George attends first day at Eton College

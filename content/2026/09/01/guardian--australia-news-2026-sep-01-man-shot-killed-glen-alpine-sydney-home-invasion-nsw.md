@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Sports
 - True Crime
+locations:
+- Glen Alpine
+- Guilford
+- NSW
+- New South Wales
+- Sydney
+people:
+- Chris Baghsarian
+- Gretchin Atkins
+organisations: []
 ---
 
 A man in his early 20s has been fatally shot in an alleged home invasion in Sydney’s south-west that police believe was a “targeted attack”. A homicide investigation is under way, with the alleged offenders still at large.

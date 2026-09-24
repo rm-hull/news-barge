@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- North East
+- North Yorkshire
+- Spennymoor
+- West Auckland
+- West Manor
+people:
+- DEAN MIDAS
+- Dean Midas
+- Eve Valentine
+organisations:
+- Eve Suite
+- Itch.io
+- Manor House Hotel & Spa
+- Solan Connor Fawcett Family Cancer Trust
+- Sophie Lancaster Foundation
+- The Manor House Hotel
 ---
 
 *(Image: DEAN MIDAS)*

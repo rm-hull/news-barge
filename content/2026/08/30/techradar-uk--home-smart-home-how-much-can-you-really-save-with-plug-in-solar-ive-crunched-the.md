@@ -11,6 +11,27 @@ description: With the era of plug-in solar coming to the UK, what does this mean
 image: https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Anker
+- Germany
+- UK
+people:
+- Anker
+- Mark Pickavance
+organisations:
+- 3D World
+- City Plumbing
+- Department for Energy Security
+- EcoFlow Gateway
+- G98
+- Google News
+- MCS
+- MicroMart
+- Octopus Agile
+- Octopus Energy
+- PC Format
+- Stream Ultra
+- Zendure
 ---
 
 ![A balcony solar panel next to a man with a solar panel under his arm](https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM.jpg) 

@@ -11,6 +11,27 @@ description: Sony's new Bravia 6 TV is a mid-range OLED, but its panel is believ
 image: https://cdn.mos.cms.futurecdn.net/os6TNuWyFmk6mKiU3veox8-1280-80.jpg
 categories:
 - Technology & Software
+locations:
+- Dolby Vision
+- US
+people:
+- Carrie Marshall
+- LG G6
+organisations:
+- AMD FreeSync Premium
+- Bravia 8
+- Dolby Atmos
+- Dolby Vision
+- G6
+- Google News
+- Google TV
+- HDMI-spec VRR
+- LG C6
+- Nvidia G-Sync
+- Samsung S90H
+- Sony TV
+- Tizen
+- Unquiet Mind
 ---
 
 ![Sony Bravia 6 atop a dark wood TV unit in a cosily lit living room](https://cdn.mos.cms.futurecdn.net/os6TNuWyFmk6mKiU3veox8.jpg) 

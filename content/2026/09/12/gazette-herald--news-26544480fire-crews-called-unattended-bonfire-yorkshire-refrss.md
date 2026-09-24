@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Little Studley
+- Middleton Lane
+- North Yorkshire
+- Pickering
+- Pixabay
+- Ripon
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Pixabay)*

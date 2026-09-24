@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Ceuta
+- Italy
+- Madrid
+- Rome
+- Schengen
+- Spain
+people:
+- Giorgia Meloni
+- Grande-Marlaska
+- Matteo Piantedosi
+organisations:
+- Interior Ministry
+- Meloni government
 ---
 
 ## Spain's Interior Ministry has extended checks on travellers arriving from Italy for a further 15 days, until 22 September, mirroring Rome's move after the Ceuta migration crisis.

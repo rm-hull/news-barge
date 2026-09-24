@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- A66
+- Acklam
+- Attlee Road
+- Cleveland
+- England
+- Grangetown
+- London
+- Middlesbrough
+- Priory Road
+- South Bank
+- Teesside
+- Wales
+people:
+- 2Uzzi
+- Brijesh Patel
+- Cole Worthy
+- Gye Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- BBC
+- Cleveland Police
+- Gye Worthy
+- Volvo
 ---
 
 ![Two young men wearing balaclavas sit on a red quad bike](https://ichef.bbci.co.uk/ace/standard/854/cpsprodpb/656e/live/72644780-a884-11f1-a291-b542ee92de7c.jpg)

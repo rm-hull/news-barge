@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Parliament Street
+- St Leonard’s Hospice
+- St Sampson’s Centre
+- St Sampson’s Square
+- UK
+- York Mansion House
+people:
+- Claire Syrenne
+- Darren Gurry
+- Florian Poirot
+- Freya Cox
+- Michael Hjort
+organisations:
+- '** York Cocoa Works'
+- Barley Hall
+- Food Factory
+- GBBO
+- Great Yorkshire Tasting
+- Lord Mayor’s Charity Fund
+- St Leonard
+- Taste Yorkshire
+- Yahala Mataam
+- York BID
 ---
 
 *10 highlights of York Food and Drink Festival 2026 – starting tomorrow*

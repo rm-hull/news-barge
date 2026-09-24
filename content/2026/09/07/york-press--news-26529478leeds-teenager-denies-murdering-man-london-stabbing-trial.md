@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Abbey Orchard Street
+- Leeds
+- London King’s Cross
+- Old Bailey
+- Snapchat
+- Temperance Hall
+- Westminster
+- York
+people:
+- Farmanullah Sherzad
+- Lisa Wilding KC
+- Sulaiman Tajzai
+organisations:
+- CCTV
+- Pepe's
 ---
 
 *(Image: Google Maps)*

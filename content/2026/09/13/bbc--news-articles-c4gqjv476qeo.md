@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- London
+- UK
+people:
+- Nathan Emerson
+- Richard Donnell
+organisations:
+- Propertymark
+- Zoopla
 ---
 
 ![Disappointed looking young woman hugs a cushion.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0d85/live/c3782b50-ade3-11f1-9a5c-a7a4083eb832.jpg)

@@ -12,6 +12,131 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Bahamas
+- Beijing
+- California
+- Canada
+- Capitol Hill
+- China
+- Dallas
+- Detroit
+- District of Columbia
+- Gaza
+- India
+- Iran
+- Israel
+- Kennedy Center
+- Lebanon
+- Maryland
+- Mexico
+- Michigan
+- Nigeria
+- Ohio
+- Russia
+- Silicon Valley
+- South Carolina
+- Soviet Union
+- Texas
+- U.S.
+- US
+- Ukraine
+- Vermont
+- Wall Street
+- Washington
+- White House
+people:
+- Abdul El-Sayed
+- Adam Schiff
+- Adam Smith
+- Al Green
+- Amy Coney Barrett
+- Barack Obama
+- Bernie Sanders
+- Bettina
+- Biden
+- Brett Kavanaugh
+- Chris Stein
+- Chris Van Hollen
+- Christopher Cooper
+- Daddy Trump
+- Don Beyer
+- Donald J. Trump Plaza
+- Donald J. Trump Plaza.’
+- Donald J. Trump’
+- Donald Trump
+- Donald Trump Jr
+- Greg Casar
+- Gregory Meeks
+- John F. Kennedy
+- Joyce Beatty
+- Kamala Harris
+- Kash Patel
+- Kevin Dietsch
+- Kevin Lamarque
+- Lindsey Graham
+- Mike Rogers
+- Mike Rogers'
+- Neil Gorsuch
+- Netanyahu
+- Putin
+- Richard Neal
+- Robert Garcia,the
+- Robert Reich
+- RobertGarcia
+- Ruben Gallego
+- Ryan Raybould
+- Steve Bannon
+- Susie Wiles
+- Todd Blanche
+- Trevor Ball
+- Trump Jr
+- Umar Kremlev
+- Van Hollen
+- Will Cain
+organisations:
+- AI
+- Associated Press
+- Bluesky
+- CBO
+- CBP
+- Chinese Communist Party
+- Congress
+- Congressional Budget Office
+- Customs and Border Protection
+- Detroit
+- FBI
+- Fox News
+- Getty Images
+- Guardian US
+- Hamas
+- Hezbollah
+- House Armed Services Committee
+- House of Representatives
+- ICE
+- Immigration and Customs Enforcement
+- John F Kennedy Center for the Performing Arts
+- John F. Kennedy Center for the Performing Arts
+- Kennedy Center
+- Kennedy Center’s Board of Trustees
+- MAGA
+- MS
+- Northern District of Texas
+- Pro-Human Assembly
+- ProPublica
+- Reuters
+- Senate
+- Supreme Court
+- The New York Times
+- Trump Administration
+- Trump Jr
+- Trump Kennedy Center
+- Trump-appointed
+- Truth Social
+- U.S. Supreme Court
+- U.S.C
+- Washington Post
 ---
 
 Todd Blanche, US attorney general, told reporters at the White House to stand by for a ‘big development’ in the crackdown on non-citizen voting. Photograph: Kevin Dietsch/Getty Images

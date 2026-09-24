@@ -11,6 +11,41 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Belgrade
+- Europe
+- Hungary
+- Serbia
+- Western Balkans
+- Yugoslavia
+people:
+- Aleksandar Vucic
+- Alexander Botsan-Kharchenko
+- Antonio Costa
+- Danilo
+- Fidesz
+- Marta Kos
+- Milorad Dodik
+- Nenad Vujic
+- Patriarch Porfirije
+- Ratko Mladic
+- Roberta Metsola
+- Ursula von der Leyen
+- Viktor Orbán
+- Vladimir Prebilic
+- Von der Leyen
+- von der Leyen
+organisations:
+- EPP
+- EU
+- European Commission
+- European Council
+- European People’s Party
+- European Union
+- Fidesz
+- Justice
+- SNS
+- Slovenian Green
 ---
 
 Leading European Union figures expressed outrage on Tuesday following Serbia’s decision to grant a hero’s send-off to Ratko Mladic, the Bosnian Serb general who passed away while serving a life sentence for war crimes, raising fresh questions regarding Serbia’s suitability to join the bloc.

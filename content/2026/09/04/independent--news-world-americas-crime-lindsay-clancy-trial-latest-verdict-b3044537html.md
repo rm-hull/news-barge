@@ -13,6 +13,36 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Mass
+- Mass.
+- Massachusetts
+- Plymouth Superior Court
+- U.S.
+people:
+- Callan
+- God
+- Greg Derr
+- Gregory Saathoff
+- Jennifer Sprague
+- Jennifer Tufts
+- Josh Reynolds
+- Judge Sullivan
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Mom
+- Patrick Clancy
+- Paul Zeizel
+- Paula Musgrove
+- Susan Clancy
+- William Sullivan
+- __Clancy
+organisations:
+- FBI’s Behavioral Analysis Unit
+- Plymouth Superior Court
+- REUTERS
+- The Patriot Ledger
 ---
 
 A deadlocked jury returns on Friday for the seventh day of deliberations in the Lindsay Clancy trial, a day after the jury's foreperson told the judge a single juror won't follow the court's instructions about reasonable doubt.

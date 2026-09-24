@@ -13,6 +13,38 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Barrowcliff Estate
+- Chinchen
+- Elders Street
+- Leeds
+- North Yorkshire
+- Northstead
+- Queen Street
+- Scarborough
+- Woodlands
+- York Magistrates’ Court
+people:
+- Anna Button
+- Craig Regan
+- Robert Chinchen
+- Robert Viv Chinchen
+- Sophie Milner
+- Tim Forber
+organisations:
+- Beyond Housing
+- Build
+- Chinchen
+- Community Safety
+- Horizons Drug and Alcohol Services, Social Services
+- IDAS
+- North Yorkshire Council
+- North Yorkshire Police
+- STRO
+- Scarborough Magistrates’ Court
+- Scarborough Neighbourhood Policing Team
+- Slavery and Trafficking Risk Order
+- York Crown Court
 ---
 
 # Scarborough man jailed for breaching landmark Slavery and Trafficking Risk Order

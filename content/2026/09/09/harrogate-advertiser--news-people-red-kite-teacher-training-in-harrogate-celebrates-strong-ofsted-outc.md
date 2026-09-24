@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - Education & Learning
 - Sports
+locations:
+- Harrogate
+- Pannal Ash Road
+people:
+- Victoria Lickley
+organisations:
+- Early Career Leaders
+- Harrogate Grammar School
+- Ofsted Inspectors
+- Red Kite
+- Red Kite Teacher Training
+- SCITT
+- University of Leeds
 ---
 
 # Red Kite Teacher Training in Harrogate celebrates 'strong' Ofsted outcome in 10th anniversary year

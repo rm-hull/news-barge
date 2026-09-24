@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/08/11/Canada_Tariffs_Bombardier_
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- Los Angeles
+- Quebec
+- Sweden
+- Texas
+- U.S.
+- UNITED STATES
+- United States
+people:
+- Donald Trump
+- Joseph-Armand Bombardier
+- Mark Carney
+organisations:
+- Boeing
+- Bombardier
+- Gripen
+- L3Harris
+- Saab
 ---
 
 U.S. President Donald Trump has threatened to ban the sale of aircraft from Canada’s Bombardier unless it manufactures planes in the United States.

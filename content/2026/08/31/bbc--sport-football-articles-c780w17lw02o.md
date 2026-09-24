@@ -13,6 +13,22 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac98/live/245f6
 categories:
 - UK
 - News & Politics
+locations:
+- New York
+- Switzerland
+- US
+people:
+- Donald Trump
+- Gianni Infantino
+- Greg Maffei
+- Joshua Kushner
+organisations:
+- FFE
+- Fifa Forward Enterprise
+- Los Angeles Lakers
+- Thrive Capital
+- Thrive Eternal
+- Uefa
 ---
 
 ![Thrive Capital founder Joshua Kushner speaking at a conference](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/ac98/live/245f6750-a568-11f1-a291-b542ee92de7c.jpg)

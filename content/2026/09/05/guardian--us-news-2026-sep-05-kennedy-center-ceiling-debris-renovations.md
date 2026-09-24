@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Edward Durell Stone-designed
+- Grand Foyer
+- Kennedy Center
+- Lincoln Memorial
+- Potomac River
+- Washington DC
+- White House
+people:
+- Donald J Trump
+- Donald Trump
+- Grace Terpstra
+- Joel Shapiro
+organisations:
+- Associated Press
+- Congress
+- John F Kennedy Center for the Performing Arts
+- Keep the KC
+- Kennedy Center
+- Roma Daravi
+- The John F Kennedy Center
+- Trump Kennedy Center Fund
 ---
 
 Falling debris from a ceiling in the grand foyer of the John F Kennedy Center for the Performing Arts may have complicated a battle over renovations of the Washington DC arts center that could result in the building being demolished.

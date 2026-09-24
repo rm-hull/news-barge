@@ -12,6 +12,30 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21278045.jpg?type=og-image
+locations:
+- Beech Lane
+- London
+- Rotherwas Industrial Estate
+- Worcester
+people:
+- Andrew Greenhouse
+- Anthony
+- Ford
+- James May
+- Jeremy Clarkson
+- Neil
+- Richard Hammond
+organisations:
+- Amazon Prime
+- BBC
+- Companies House
+- Google Maps
+- Harrogate College of Art and Technology
+- Ripon Grammar School
+- Smallest Cog
+- Smallest Cog Limited
+- Top Gear
+- Yorkshire
 ---
 
 ## Richard Hammond's car restoration company fined after appearing in court

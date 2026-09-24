@@ -13,6 +13,31 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6996bad62812a.jpg
+locations:
+- Alpamare
+- Burniston Road
+- Flamingo Land
+- Malton
+- North Bay
+- North Yorkshire
+- Scarborough
+people:
+- Cllr Broadbent
+- Eric Broadbent
+- Kerry Metcalfe
+- Ms Metcalfe
+organisations:
+- Alpamare
+- Benchmark Leisure Limited
+- Benchmark Leisure Ltd
+- Flamingo Land
+- LDRS
+- Local Democracy Reporting Service
+- NYC
+- Newmark and Stripe Leisure
+- North Yorkshire Council
+- Northstead
+- Scarborough Borough Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6996bad62812a.jpg)

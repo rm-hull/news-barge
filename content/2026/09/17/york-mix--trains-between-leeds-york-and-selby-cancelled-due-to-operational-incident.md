@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Cross Gates
+- Leeds
+- Micklefield
+- Selby
+- York
+people: []
+organisations:
+- Leeds
+- National Rail
+- TransPennine Express
 ---
 
 Rail passengers travelling between Leeds, York and Selby face disruption today (Thursday).

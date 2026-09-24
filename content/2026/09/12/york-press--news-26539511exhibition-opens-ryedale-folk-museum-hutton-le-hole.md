@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Hutton-le-Hole
+- North Way
+- Rievaulx
+people:
+- JMW Turner
+- Jennifer Smith
+- John Sell Cotman
+- Simon Crawford
+- Thomas Girtin
+organisations:
+- Art Gallery
+- Ryedale Folk Museum
 ---
 
 ## New exhibition explores famous abbeys through historic artists' eyes

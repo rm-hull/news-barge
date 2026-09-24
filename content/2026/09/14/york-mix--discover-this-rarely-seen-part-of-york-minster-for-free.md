@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Music
+locations:
+- City Walls
+- Dean’s Park
+- England
+- Minster
+people:
+- Alexander McCallion
+organisations:
+- Centre for Excellence
+- Centre for Excellence for Heritage Skills and Estate Management
+- Heritage Quad
+- Old Palace Library
+- York Glaziers Trust
+- York Minster
 ---
 
 York Minster will offer a behind-the-scenes glimpse into its world-renowned conservation work – as it opens its doors to their Centre for Excellence.

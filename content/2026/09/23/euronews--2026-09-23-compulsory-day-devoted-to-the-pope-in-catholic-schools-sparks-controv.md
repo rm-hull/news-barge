@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://images.euronews.com/articles/stories/09/92/50/36/1200x675_cmsv2_8b84ca08-5d39-5697-82ec-76181e56a81c-9925036.jpg
+locations:
+- Champs-Élysées
+- France
+- Marseille
+- Mass
+- Paris
+- Place de la Concorde
+- Vatican
+- Élysée
+people:
+- Brigitte Macron
+- Emmanuel Macron
+- Francis
+- Guillaume Prévost
+- Laëtitia Bramoullé
+- Leo XIV
+- Pope
+- Sébastien Lecornu
+organisations:
+- Euronews
+- General Secretariat for Catholic Education
+- Libération
+- Ministry of National Education
+- Sgec
+- Stop Suffering in Catholic Schools
+- UNESCO
 ---
 
 ## Catholic private schools are being urged to suspend normal classes on 25 September, the day Pope Leo XIV arrives in France.

@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Brayton
+- Callon
+- Millcroft
+- North Yorkshire
+- US
+people:
+- Christopher Knox
+- Matthew Callon
+- Michael Cahill
+- Zarreen Alam-Cheetham
+organisations:
+- York Crown Court
 ---
 
 *(Image: PIXABAY)*

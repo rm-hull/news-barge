@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Brotton
+- County Durham
+- East Cleveland
+- Gripps Farm
+- North Yorkshire
+- Skelton
+- The Yorkshire
+people:
+- Barry Hunt
+- Graham Cutler
+- Jordan
+- Kerys
+- Martin Fletcher
+- Sid McAuley
+- Tracy
+organisations:
+- Cleveland Council
+- Facebook
+- Gripps Farm
+- HL Group
+- Redcar
 ---
 
 Councillors say a new petting farm, shop and café that has opened its doors in East Cleveland is “spectacular for our community”.

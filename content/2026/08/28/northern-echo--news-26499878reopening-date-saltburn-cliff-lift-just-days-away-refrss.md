@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- North East
+- North Yorkshire
+- Saltburn Cliff Tramway
+people:
+- Alec Brown
+- Cllr Brown
+organisations:
+- Cleveland Borough Council
+- Recar
+- Redcar & Cleveland Borough Council
+- Saltburn Cliff Tramway
 ---
 
 One of the North East's most iconic seaside attractions will welcome visitors back after months of closures and delays.

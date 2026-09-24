@@ -14,6 +14,41 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Europe
+- UK
+people:
+- '## Fanela'
+- Adam Price
+- Evans
+- Lane Bednash
+organisations:
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- CMB Partners UK Limited
+- Claire's
+- EcoJet Airlines
+- European Cargo
+- Fanela
+- Google
+- House
+- InPost
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Quiz
+- Raleigh
+- Superdrug
+- TG Jones
+- The Gazette
+- Wayfairer Travel Limited
+- Whitbread
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

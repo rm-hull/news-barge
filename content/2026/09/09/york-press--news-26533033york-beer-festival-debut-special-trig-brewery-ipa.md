@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '**__York'
+- Hull Road
+- Knavesmire
+- New England
+- Poppleton
+- St Lawrence’s Church
+- USA
+- Vienna
+- West Coast
+- York
+people:
+- Geoff Mumford
+- Patrick
+- Steve Gorton
+organisations:
+- '**York CAMRA'
+- '**__York CAMRA'
+- Golden Slipper Inn
+- Minster
+- Pic
+- St Lawrence
+- Trig Brewery
+- York CAMRA
+- York Rescue Boat
 ---
 
 ## Special brew made for next week's York CAMRA beer festival

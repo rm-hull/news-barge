@@ -15,6 +15,43 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Bradford Park Avenue
+- Buckingham Palace
+- Contalmaison
+- Darlington
+- England
+- Gordon Dump Cemetery
+- Harrogate
+- North East
+- North Yorkshire
+- River Tyne
+- Somme
+- St James’s Park
+- West Yorkshire Regiment
+people:
+- Don
+- Donald Simpson Bell
+- Donald Simpson Bell VC
+- Frank Hudspeth
+- George V
+- Iain McMullen
+- Jack Carr
+- Rhoda Margaret née Bonson
+organisations:
+- Bath Assembly Rooms
+- Bishop Auckland
+- British Army
+- Croft Hotel
+- Green Howards Museum
+- Green Howards’ 9th Battalion
+- Manchester’s National Football Museum
+- Newcastle United
+- Pen & Sword
+- Professional Footballers' Association
+- The Northern Echo
+- Tynemouth
+- Victoria Cross
 ---
 
 A new book tells the story of Donald Simpson Bell VC, the only English professional footballer awarded the Victoria Cross during the First World War.

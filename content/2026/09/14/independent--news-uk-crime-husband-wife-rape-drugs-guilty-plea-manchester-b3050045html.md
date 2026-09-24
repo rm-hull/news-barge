@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Greater Manchester
+- Greater Manchester Police
+- Manchester Minshull Street Crown Court
+- Stockport
+people:
+- Rick Jackson
+organisations: []
 ---
 
 A man has admitted to drugging and raping his wife without her knowledge over a 20-year period.

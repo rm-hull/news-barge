@@ -13,6 +13,14 @@ categories:
 - Lifestyle & Fashion
 - Travel
 - Outdoors & Nature
+locations:
+- YOUR
+- York
+people:
+- Ms Vollans
+organisations:
+- City of York Council
+- Public Notice Portal
 ---
 
 ## New dog walking park with 'distinctive rural feel' could be coming to York

@@ -14,6 +14,30 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIyODI5NDJjLTMyMTMtNGUzNS05MTMwLWYzZmE0NTdhMmUzOTpjYzBkMTFmNy1mOTBlLTQ5MjEtYTBjYS00NmNiNzJlM2Q2Yzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Byland Abbey
+- Harem’
+- Harome
+- Harum’
+- Helmsley
+- Kilburn
+- North York Moors
+- Rievaulx Abbey
+- UK
+people:
+- Andrew Pern
+- Robert ‘Mousey’ Thompson
+- Simon Numphud
+organisations:
+- AA Hotel and Hospitality Services
+- AA Red Stars
+- AA Rosettes
+- Harome
+- Inns
+- Michelin
+- Star Inn
+- The Star Inn
+- Yorkshire
 ---
 
 # The Star Inn at Harome: Yorkshire restaurant wins AA Restaurant of the Year 2026

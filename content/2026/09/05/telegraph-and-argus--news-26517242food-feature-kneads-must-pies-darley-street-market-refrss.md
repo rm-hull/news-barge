@@ -15,6 +15,39 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Godwin Street
+- Jacobs Well
+- Napoleons Casino
+- Oktoberfest
+- Street Kitchen
+- Yorkshire
+people:
+- Bradford
+- Chris Hall
+- Chris’s
+- Glyn Watkins
+- Goering
+- Hitler
+- Ian Walker
+- JB Priestley
+- Robert
+- Sully Hemming
+organisations:
+- Bradford Council
+- Bradford Markets
+- Dale Farm Foods
+- Darley Street Market
+- Food Court
+- Jacob’s Well
+- Kneads Must Pies
+- Neighbourhoods and Communities
+- Robert’s Pie Shop
+- Roswitha’s Deli
+- Solly’s Fruit
+- Taplins Butchers
+- Veg
 ---
 
 *(Image: Bradford Markets)*

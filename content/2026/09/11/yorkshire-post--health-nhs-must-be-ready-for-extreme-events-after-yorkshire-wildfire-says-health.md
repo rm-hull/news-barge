@@ -15,6 +15,26 @@ categories:
 - York
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Langdale Moor
+- NHS
+- North York Moors
+- North York Moors National Park
+- North Yorkshire
+- RAF Fylingdales
+- Scarborough
+- Whitby
+people:
+- Alison Hume
+- Ms Cooper
+- Yvette Cooper
+organisations:
+- Government
+- House of Commons
+- NHS
+- State for Health
+- Wildfires All-Party Parliamentary Group
 ---
 
 # ‘NHS must be ready for extreme events’ after Yorkshire wildfire, says health secretary

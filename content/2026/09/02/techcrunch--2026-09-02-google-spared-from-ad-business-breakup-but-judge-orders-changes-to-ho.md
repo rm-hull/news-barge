@@ -12,6 +12,19 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Amit Mehta
+- Lee-Anne Mulholland
+- Leonie M. Brinkema
+organisations:
+- Court
+- DOJ
+- Eastern District of Virginia
+- Google
+- Justice Department
+- TechCrunch
+- The New York Times
 ---
 
 The Justice Department has spent years attempting to break up Google’s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google’s dominance in search, and a second filed in 2023 that specifically targeted Google’s ad-technology business. Both cases argued that the search giant’s grip on the digital ad economy represents an illegal monopoly.

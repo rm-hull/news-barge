@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb60/live/c470f0
 categories:
 - UK
 - News & Politics
+locations:
+- Ardoyne
+- Belfast
+people:
+- Aidan Troy
+- Anne Tanney
+- Fr Aidan
+organisations:
+- Army
+- BBC News NI
+- Holy Cross
 ---
 
 ![A man in a priest’s collar. He has short white hair and is sitting a room next to a large wooden table.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/fb60/live/c470f070-a562-11f1-a29b-3ba1838baf75.jpg)

@@ -16,6 +16,32 @@ categories:
 - Business & Entrepreneurship
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/15/46/MixCollage-23-Sep-2026-11-56-AM-1438.jpg?trim=59,0,61,0&width=1200&height=800&crop=1200:800
+locations:
+- Manhattan
+- New York City
+- U.S.
+people:
+- Darren Indyke
+- Donald Trump
+- Ghislaine Maxwell
+- Jeffrey Epstein
+- Khan
+- Lauren Hersh
+- Leon Black
+- Richard Kahn
+organisations:
+- Apollo Global Management
+- Congress
+- Department of Justice
+- Epstein
+- House Oversight Committee
+- Justice Department
+- Oversight Committee
+- Southern District of New York
+- The Independent.
+- The Wall Street Journal.
+- U.S. Attorney’s Office
+- World Without Exploitation
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

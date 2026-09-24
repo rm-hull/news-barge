@@ -17,6 +17,71 @@ image: https://cdn.jwplayer.com/v2/media/JJJbRnu1/poster.jpg?width=720
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Chelsea
+- Clacton
+- Dublin
+- Europe
+- Golden Knights
+- Holborn
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- Michigan
+- New York City
+- Russia
+- Saudi Arabia
+- St Pancras
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- Count Binface
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Joanne McNally
+- Keir Starmer
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Mikel Arteta
+- Nigel Farage
+- Nourah
+- Putin
+- Raheem Sterling
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Burnham
+- Chelsea
+- Count Binface
+- De Zerbi
+- ELITE
+- Golden Knights
+- Labour
+- Liverpool
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

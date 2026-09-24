@@ -10,6 +10,20 @@ description: This tiny TENKU Windows 11 Pro machine folds into a tablet and pack
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/xiDN8A9P3usK3yy7h2dhjB-1920-80.png
+locations:
+- Japan
+people: []
+organisations:
+- Amazon Japan
+- Efosa
+- Google News
+- Highbeam
+- IPS
+- Intel
+- NPU
+- TENKU
+- TechRadar Pro
+- Via Hermitage Akihabara
 ---
 
 ![TENKU Note Pro AI](https://cdn.mos.cms.futurecdn.net/xiDN8A9P3usK3yy7h2dhjB.png)

@@ -16,6 +16,14 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Darlington
+- North East
+people: []
+organisations:
+- Bank Holiday One
+- Burger King
+- Newcastle International Airport
 ---
 
 *(Image: Newcastle International Airport)*

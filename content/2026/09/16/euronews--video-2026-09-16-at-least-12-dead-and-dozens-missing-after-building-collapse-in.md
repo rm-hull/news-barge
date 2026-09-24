@@ -14,6 +14,12 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Gaza City
+- Tal al-Hawa
+people:
+- Mahmoud Basal
+organisations: []
 ---
 
 Civil defence teams are still searching the rubble for survivors, while rescuers use heavy machinery to clear the debris. The bodies of children and other victims have been recovered, but dozens of people remain missing.

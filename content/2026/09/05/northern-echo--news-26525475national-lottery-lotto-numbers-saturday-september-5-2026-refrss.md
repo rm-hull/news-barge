@@ -13,6 +13,9 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people: []
+organisations: []
 ---
 
 *(Image: PA)*

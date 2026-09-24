@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Bangkok
+- Isan
+- Laem Chabang Port
+- Middle East
+- Nong Nooch Tropical Botanical Garden
+- Pattaya
+- Sanctuary of Truth Museum
+- Sattahip
+- Soviet Union
+- Thailand
+- U-Tapao
+- U.S.
+- Walking Street
+people:
+- Abraham Lincoln
+- Elizabeth Becker
+- ___ Peck
+organisations:
+- Cartoon Network
+- Exploding Business of Travel and Tourism
+- Sattahip Royal Thai Navy Base
+- Shore Patrol
+- Thai Navy
+- U.S. Air Force
+- U.S. Navy
+- Uniform Code of Military Justice
 ---
 
 There’s no getting around the fact that Thailand’s seaside resort of Pattaya has a lingering reputation for sex tourism, even though that’s only part of the story for the city that's an expected shore leave destination of crew members aboard the USS Abraham Lincoln.

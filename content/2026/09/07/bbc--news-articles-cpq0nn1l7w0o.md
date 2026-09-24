@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Baie de Seine
+- Bay of Seine
+- Calais
+- Cherbourg
+- Eastney Landing
+- England
+- Epsom Thomas
+- France
+- Gravelines
+- Hayling Island
+- Port of Dover
+- Portsmouth
+- Portsmouth.
+people:
+- Danny Thomas
+- Danny Tommo
+- Graham Page
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Border Force
+- English Channel
+- Just Stop Oil
+- Kent Police
+- Patriot Platform
+- RNLI
 ---
 
 Watch: Anti-migrant protesters block roads in Portsmouth

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Cape May County Superior Court
+- City of Wildwood
+- Fox Park
+- Jersey Shore
+- New Jersey
+- Ohio
+people:
+- Christopher Hines
+- David Galambos
+- Gideon
+- Jonathan Goraj
+- Lori Galambos
+- Rachel Kelly
+- Simon Galambos
+organisations:
+- National Night Out
+- Philadelphia Inquirer
+- Wildwood
 ---
 
 A Jersey Shore town and its police department are being sued after allegedly letting an 11-year-old operate a golf cart while wearing drunk-driving “impairment goggles” — which the youngster crashed into a crowd.

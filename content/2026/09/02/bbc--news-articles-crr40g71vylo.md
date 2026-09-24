@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- England
+- Scotland
+- UK
+people:
+- Michelle Mitchell
+- Richard Bryan
+organisations:
+- Birmingham University
+- CRUK
+- Cancer Research UK
+- European Urology Oncology
+- NHS
+- Nonacus
+- University of Birmingham
 ---
 
 ![A man holds a urine sample in a pot](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/15b4/live/aa05a320-a61b-11f1-9ca2-a3e18de91b7b.jpg)

@@ -14,6 +14,33 @@ categories:
 - York
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Eastfield
+- Jobcentre
+- North Yorkshire
+- Norton
+- Old Malton Road
+- Resolution House
+- Ryedale House
+- Scarborough
+- Stanley Harrison House
+- YOUR
+people:
+- Cllr Duncan
+- Cllr Keane Duncan
+- Margaret
+- Norton
+organisations:
+- Anglo American
+- Community Police
+- DWP
+- Jobcentre
+- North Yorkshire Council
+- North Yorkshire Police
+- Public Notice Portal
+- Public Notice Portal Ryedale House
+- Resolution House
+- Ryedale District Council
 ---
 
 *(Image: Freelancer)*

@@ -12,6 +12,24 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Cairo
+- China
+- Egypt
+people:
+- '## Khalifa'
+- Mohamed El-Gendy
+- Mohamed Khalifa
+- Mufti
+- Sarah Khalifa
+organisations:
+- Al-Masry Al-Youm
+- Al-Mehwar
+- Amnesty International
+- Court of Cassation
+- MDMB-4en-PINACA
+- United Nations Office on Drugs and Crime
+- World Health Organization
 ---
 
 ## Khalifa and 11 others face death sentences in a major synthetic drug trafficking case, with appeals and further legal challenges expected.

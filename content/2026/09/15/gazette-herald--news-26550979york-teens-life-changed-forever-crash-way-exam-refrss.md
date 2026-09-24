@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Marston Lane
+- Ripon
+- STEPS Rehabilitation Centre
+- Sheffield
+- York
+people:
+- David King
+- Irwin Mitchell
+- Joshua Kay-Shaw
+organisations:
+- Day One Trauma Support
+- York College
 ---
 
 A former York College student who suffered life-changing injuries in a car crash has received a settlement to support his rehabilitation.

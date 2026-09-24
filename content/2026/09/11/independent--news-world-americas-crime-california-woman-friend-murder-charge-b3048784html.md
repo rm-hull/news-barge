@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- California
+- Los Angeles
+- Mathew
+- Milpitas
+- San Jose
+- Santa Clara County
+people:
+- Anila Baby
+- Anjana Hari
+- Ann Mary Mathew
+- Marisa McKeown
+- Vijesh Vijayan
+organisations:
+- ABC 7
+- GoFundMe
 ---
 
 A 32-year-old California woman faces two counts of first-degree murder following separate, fatal attacks in San Jose and Milpitas that left two mothers dead within 90 minutes of each other.

@@ -13,6 +13,24 @@ description: 'Invoke Studios has said Warlock: Dungeons & Dragons will encourage
 image: https://cdn.mos.cms.futurecdn.net/PwsuquHd3yKpWaJYLApfiF-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Gamescom
+people:
+- Dominic Guay
+- Invoke
+organisations:
+- Darkon
+- Demi Williams
+- Dungeons & Dragons
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- HUD
+- Invoke Studios
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/PwsuquHd3yKpWaJYLApfiF.jpg) 

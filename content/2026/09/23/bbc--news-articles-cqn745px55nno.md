@@ -14,6 +14,29 @@ categories:
 - Music
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ca4/live/652a9c30-b73f-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Australia
+- Europe
+- Melbourne
+- Mornington Race
+- Neighbours
+- UK
+people:
+- Angry Anderson
+- Charlene Mitchell
+- Gary Anderson
+- Herod
+- Instagram
+- Jason Donovan
+- Kylie Minogue
+- Rose Tattoo
+- Scott Robinson
+organisations:
+- ARIA
+- Australian Recording Industry Association
+- Hall of Fame
+- Order of Australia
+- Rose Tattoo
 ---
 
 ![Angry Anderson of Rose Tattoo performs on stage at the Red Hot Summer Tour at Mornington Race course on April 27, 2025 in Melbourne, Australia. ](https://ichef.bbci.co.uk/ace/standard/781/cpsprodpb/6ca4/live/652a9c30-b73f-11f1-aa9c-3d062fa3aea7.jpg)

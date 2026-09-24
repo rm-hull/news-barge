@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/fa84483c3a1db400a8d6294df25cc82112475156/5
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Guinea-Bissau
+- Kentucky
+- Pennsylvania
+- Texas
+- US
+- White House
+- Wisconsin
+people:
+- Andrew Wakefield
+- Bobby Kennedy
+- Donald Trump
+- Mark Gorton
+- Mary Holland
+- Michael Kane
+- Robert F Kennedy Jr
+- Ron Johnson
+- Sen Rand Paul
+- Thomas Massie
+- Tony Lyons
+organisations:
+- CHD
+- Children’s Health Defense
+- HHS
+- MMR
+- Maha Action
+- Maha Institute
+- US Department of Health and Human Services
+- University of Southern Denmark
+- Washington DC
 ---
 
 As the death toll from the worst measles outbreak in decades rises, Robert F Kennedy Jr headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense, which he led for nearly a decade.

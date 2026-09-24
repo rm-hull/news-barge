@@ -14,6 +14,95 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Canada
+- England
+- Europe
+- Hampden Park
+- North Macedonia
+- Scotland
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+- Ukraine
+people:
+- Aaron Hickey
+- Alistair Johnston
+- Andy Robertson
+- Angus Gunn
+- Anthony Ralston
+- Ben Gannon-Doak
+- Calvin Miller
+- Che Adams
+- Colby Donovan
+- Craig Gordon
+- Dominic Hyam
+- Findlay Curtis
+- George Hirst
+- Grant Hanley
+- Jack Hendry
+- James Wilson
+- John McGinn
+- John Souttar
+- Jon McCracken
+- Josh Doig
+- Josh McPake
+- Kenny McLean
+- Kieran Tierney
+- Kieron Bowie
+- Lawrence Shankland
+- Lennon Miller
+- Lewis Ferguson
+- Liam Kelly
+- Luis Binks
+- Luke Graham
+- Lyndon Dykes
+- McGlynn Four-times
+- Nathan Patterson
+- Oli McBurnie
+- Robbie Ure
+- Ross Stewart
+- Ryan Christie
+- Scott Bain
+- Scott McKenna
+- Scott McTominay
+- Sebastien Pocognoli
+- Stephen Welsh
+- Steve Clarke
+- Tyler Fletcher
+- Wouter Vrancken
+organisations:
+- Aris Thessaloniki
+- Bradford City
+- Brondby
+- Celtic
+- Curacao
+- Dundee
+- Edinburgh
+- Falkirk
+- Heart of Midlothian
+- Hearts
+- Hibernian
+- Hull City
+- Kilmarnock
+- La Liga
+- Napoli
+- Nations League
+- Pocognoli
+- Rangers
+- Sassuolo
+- Scotland
+- Sevilla
+- Sirius
+- Slovenia
+- Stoke
+- Swansea City
+- The Potters
+- Torino
+- Tynecastle
+- Udinese
+- Ure
 ---
 
 ![Hull City forward Oli McBurnie](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d9f9/live/e9030720-b0f2-11f1-b1d1-571ed4d7ff2c.jpg)

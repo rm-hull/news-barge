@@ -12,6 +12,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Arthington Lane
+- Leeds Road
+- Pool Bank New Road
+people: []
+organisations:
+- Dyneley Arms
+- Yorkshire Water
 ---
 
 *(Image: Supplied)*

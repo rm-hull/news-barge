@@ -13,6 +13,9 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/22/21/29/iStock-1441508550.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations: []
 ---
 
 An ironic development emerging alongside the “Make America Healthy Again” movement is the portrayal of nicotine as a wellness and performance-enhancing product. Across social media, podcasts, wellness communities and tech startups, prominent wellness personalities and other influencers are portraying nicotine as a misunderstood compound whose potential benefits have been overshadowed by its negative association with cigarette smoking.

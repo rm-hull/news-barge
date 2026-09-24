@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bosnia
+- Czech Republic
+- Danube
+- Hungary
+- Romania
+- Serbia
+- Slovenia
+people: []
+organisations: []
 ---
 
 Photos show European fishers on the brink as summer drought parches rivers, lakes and farms

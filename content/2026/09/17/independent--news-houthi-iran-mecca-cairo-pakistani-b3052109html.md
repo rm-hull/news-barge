@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bab el-Mandeb Strait
+- Bahrain
+- Egypt
+- Iran
+- Israel
+- Jordan
+- Kuwait
+- Marib
+- Mecca
+- Minneapolis
+- Mokha
+- Pakistan
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- U.S.
+- Yemen
+people:
+- Abdul Malik al-Houthi
+- Badr Abdelatty
+- Esmail Baghaei
+- Giovanna Dell'Orto
+- Ishaq Dar
+organisations:
+- Associated Press
+- Foreign Ministry
+- Windward
 ---
 
 Debris from an intercepted Houthi drone has killed a Yemeni resident of Saudi Arabia, the Saudi civil defense said Thursday. It is the first civilian casualty since the Iran-backed rebels have increased their attacks against the kingdom, targeting Saudi shipping and oil facilities.

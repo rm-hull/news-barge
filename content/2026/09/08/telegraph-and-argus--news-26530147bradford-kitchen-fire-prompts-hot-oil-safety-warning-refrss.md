@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Laisterdyke
+- Morton Road
+- Pixabay
+people: []
+organisations:
+- '## FULL'
+- WYFRS
+- West Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Pixabay)*

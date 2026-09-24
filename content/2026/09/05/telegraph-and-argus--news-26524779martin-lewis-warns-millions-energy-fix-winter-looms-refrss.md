@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Middle East
+- PA
+people:
+- Martin Lewis
+organisations:
+- HMRC
+- Money Saving Expert
 ---
 
 *(Image: PA)*

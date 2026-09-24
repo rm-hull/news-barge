@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- California
+- Cotswolds
+- Duke
+- London
+- Palace
+- Sandringham
+- UK
+- US
+people:
+- Archie
+- Charles
+- Duchess
+- Kate
+- King
+- Lillibet
+- Lord Benyon
+- Meghan Markle
+- Oprah Winfrey
+- Philip
+- Prince Harry
+organisations:
+- BBC
+- Duchess of Sussex
+- Duke and Duchess of Sussex
+- Executive Committee for the Protection of Royalty and Public Figures
+- Home Office
+- RAVEC
+- Royal Family
+- State and Royal
+- Sussexes
+- Sussexes’
+- The Independent
+- The Royal Family
+- The Sovereign
+- UK Government
 ---
 
 Prince Harry and Meghan Markle say they are “surprised” by the King’s letter making it clear the couple will remain non-working royals.

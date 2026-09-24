@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Chippenham
+- UK
+people:
+- Chris Packham
+- Kelly Wariner
+- Nick Murry
+- Sarah Gibson
+- Zero Chippenham
+organisations:
+- Hardenhuish School
+- People's Emergency Briefing
+- The People's Emergency Briefing
+- Zero Chippenham
 ---
 
 More than 100 people gathered for a film screening followed by a discussion about the climate crisis.

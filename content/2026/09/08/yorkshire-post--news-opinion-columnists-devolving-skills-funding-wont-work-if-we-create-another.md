@@ -17,6 +17,18 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- BBC
+- England
+- Heron House
+- North Yorkshire
+- UK
+people:
+- Andy Burnham
+- Louise McClelland
+organisations:
+- Dowds Group
+- Follifoot Riding Centre
 ---
 
 # Devolving skills funding won’t work if we create another layer of bureaucracy - Louise McClelland

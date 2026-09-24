@@ -14,6 +14,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- Asia
+- California
+- Cupertino
+people:
+- Donald Trump
+- John Ternus
+- Steve Jobs
+- Tim Cook
+organisations:
+- AirPods
+- Apple Watch
+- CEO
+- Cook
+- Trump
 ---
 
 Apple's new CEO John Ternus takes the helm of the iconic tech giant on Tuesday, ending Tim Cook's 15-year tenure during which the company's value skyrocket to $4.6 trillion thanks to the iPhone's enormous popularity.

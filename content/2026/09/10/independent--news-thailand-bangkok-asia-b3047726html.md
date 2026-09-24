@@ -13,6 +13,17 @@ image: https://static.independent.co.uk/2026/09/09/09/Thailand_Shooting_835_9.jp
 categories:
 - News & Politics
 - UK
+locations:
+- Asia
+- Bang Lamung
+- Bangkok
+- Chonburi
+- Kamphaeng Phet
+- Nongplalai Municipal Kindergarten
+- Thailand
+people:
+- Tatsapong Tongthat
+organisations: []
 ---
 
 A police officer who allegedly gunned down his wife at the kindergarten where she was a teacher in eastern Thailand surrendered Thursday after an overnight standoff with authorities, officials said.

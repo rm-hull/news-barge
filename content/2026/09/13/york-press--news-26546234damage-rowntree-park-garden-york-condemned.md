@@ -13,6 +13,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Friends Railed Garden
+- Friends of Rowntree Park
+- North Yorkshire
+- Pampas
+- Rowntree Park
+- York
+people: []
+organisations:
+- CCTV
+- Friends of Rowntree Park
+- North Yorkshire Police
+- Rowntree Park
 ---
 
 *(Image: Friends of Rowntree Park)*

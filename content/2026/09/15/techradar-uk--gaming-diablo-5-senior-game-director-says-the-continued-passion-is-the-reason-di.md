@@ -13,6 +13,19 @@ image: https://cdn.mos.cms.futurecdn.net/8HkBmR8Nwq3fNMETqbbqo9-2000-80.jpg
 categories:
 - Technology & Software
 - Self-Improvement
+locations: []
+people:
+- '*," Shely'
+- Joe Shely
+organisations:
+- BlizzCon
+- Blizzard
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![Diablo 5](https://cdn.mos.cms.futurecdn.net/8HkBmR8Nwq3fNMETqbbqo9.jpg) 

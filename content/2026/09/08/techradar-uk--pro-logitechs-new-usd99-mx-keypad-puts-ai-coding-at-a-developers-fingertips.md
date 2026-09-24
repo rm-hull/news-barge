@@ -9,6 +9,24 @@ description: $99 MX Keypad looks ideal for coding and AI workflows
 image: https://cdn.mos.cms.futurecdn.net/uumSLoxAsh3jXpviKkDB7M-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Anatoliy Polyanker
+- Mike Moore
+organisations:
+- B2B
+- B2C
+- Claude Code
+- GM
+- GitHub Copilot
+- Google News
+- ITProPortal
+- Logitech
+- MX Keypad
+- OpenAI Codex
+- TechRadar Pro
+- VP
 ---
 
 ![Logitech MX Keypad](https://cdn.mos.cms.futurecdn.net/uumSLoxAsh3jXpviKkDB7M.jpg) 

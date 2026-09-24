@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- BRADFORD
+- UK
+people:
+- Gosia Liwanowska
+- Ms Liwanowska
+organisations:
+- Idle Bakery
+- Ms Liwanowska
+- Newsquest
+- T&A
+- Telegraph & Argus
 ---
 
 A BRADFORD cafe that blends British and Polish baking traditions is up for an award.

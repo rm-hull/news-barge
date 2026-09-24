@@ -13,6 +13,72 @@ image: https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/6
 categories:
 - UK
 - News & Politics
+locations:
+- Baltic Sea
+- Belarus
+- Copenhagen
+- Europe
+- Germany
+- Jakub Krupa Denmark
+- Lithuania
+- Moscow
+- Netherlands
+- Poland
+- Pratkunai
+- Prinsjesdag
+- Russia
+- Stockholm
+- Sweden
+- Tel Aviv
+- The Hague
+- Ukraine
+- Venice
+- Vilnius
+- Warsaw
+- Zwolle
+people:
+- Andrii Sybiha
+- Deividas Matulionis
+- Ebsen Salling Larsen
+- Gitanas Nausėda
+- Henning Bagger
+- Jakub Krupa
+- Jeppe Bruus
+- King
+- Kęstutis Budrys
+- Lars Løkke Rasmussen
+- Mette Frederiksen
+- Mindaugas Kulbis
+- Robertas Kaunassaid
+- Salling Larsen
+- Troels Lund Poulsen
+- Vladimir Babin
+- Vladimir Barbin
+- Willem-Alexander
+organisations:
+- AFP
+- ANP
+- AP Lithuania
+- Center for Joint Operations
+- Danish Defence Academy
+- EU
+- Getty Images Denmark
+- Kyiv
+- LRT
+- Miranda Bryant Nordic
+- NATO
+- NOS
+- Nato
+- Piroschka Van De Wouw
+- Pro Rail
+- ProRail
+- RIA
+- Reuters Lithuania
+- Ria Novosti
+- Ritzau Scanpix
+- SVT
+- State Defence Council
+- Xinhua/Shutterstock
 ---
 
 Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live

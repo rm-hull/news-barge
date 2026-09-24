@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- Strait of Hormuz
+- UK
+- US
+- Wall Street
+people:
+- Alexander Harvey
+- Covid
+- Donald Trump
+- Grace Zwemmer
+- Kevin Warsh
+- Yael Selfin
+organisations:
+- Bank of England
+- Deutsche Bank
+- European Central Bank
+- Fed Board
+- KPMG
+- Oxford Economics
+- US Federal Reserve
 ---
 
 ![A woman sits at her laptop while holding her bank card in her right hand. She looks deep in thought, with her left hand on the side of her head. She has blonde hair and is wearing a yellow jumper.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg)

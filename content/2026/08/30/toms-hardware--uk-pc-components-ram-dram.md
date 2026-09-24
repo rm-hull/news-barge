@@ -11,6 +11,32 @@ image: https://cdn.mos.cms.futurecdn.net/3nVy6PgRqeCbLk2BiLxR5W-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- US
+people: []
+organisations:
+- AMD
+- Anton Shilov Published
+- CXMT
+- DDR5
+- DDR5Gigabyte
+- DRAMChina
+- DRAMNvidia
+- Hassam Nasir
+- Jeffrey Kampman Published
+- Jowi Morales
+- Jowi Morales Published
+- Luke James
+- MSI
+- Mark Tyson Published
+- Micron
+- News AnalysisDDR4
+- Pentagon
+- PremiumMarvell
+- SK
+- Samsung
+- Stephen Warwick
+- Zak Killian
 ---
 
 ## Latest about DRAM

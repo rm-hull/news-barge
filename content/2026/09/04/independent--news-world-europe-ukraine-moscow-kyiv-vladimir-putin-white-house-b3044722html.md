@@ -12,6 +12,46 @@ image: https://static.independent.co.uk/2026/09/04/11/Russia-Ukraine-War_5383_.j
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Black Sea
+- Dnipro
+- England
+- Finland
+- Helsinki
+- Iran
+- Kyiv
+- Manchester
+- Moscow
+- Odesa
+- Pellinge
+- Poland
+- Russia
+- Sirius
+- Sochi
+- U.S.
+- US
+- Ukraine
+- Warsaw
+- White House
+people:
+- Claudia Ciobanu
+- Dmitry Peskov
+- Geoscan
+- Jared Kushner
+- Katie Marie Davies
+- Oleh Kiper
+- Peter Kellgren
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yury Ushakov
+organisations:
+- Border Guard
+- Kyiv
+- TASS
+- Telegram
+- Yle
 ---
 
 Russian attacks overnight killed at least three people in Ukraine, local officials said Friday, after President Volodymyr Zelenskyy said U.S. envoys are expected to visit Kyiv within the coming days as part of renewed diplomatic efforts to end the war.

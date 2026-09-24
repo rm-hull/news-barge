@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Film & TV
 image: https://images.euronews.com/articles/stories/09/92/28/04/1200x675_cmsv2_d909126f-621e-5d2d-8c3f-8f36ee6e4491-9922804.jpg
+locations:
+- Manisa
+- Turgutlu
+- Turkey
+people: []
+organisations: []
 ---
 
 **euronews**

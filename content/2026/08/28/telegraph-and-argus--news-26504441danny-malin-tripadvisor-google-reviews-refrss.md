@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Blackpool
+- Leeds
+people:
+- Danny Malin
+organisations:
+- Danny v Food
+- Google
+- Rate My Takeaway
+- TripAdvisor
+- YouTuber
 ---
 
 *(Image: YouTube)*

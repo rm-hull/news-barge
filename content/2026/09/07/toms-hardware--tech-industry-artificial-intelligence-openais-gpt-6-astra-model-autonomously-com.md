@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/RYuH6pSeo9Z8WeTisKYsFP-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- CozyBlaze
+- Mark Tyson
+- Tom
+organisations:
+- AI
+- AIs
+- CozyBlaze’s Portal Agent
+- GPT-6 Astra
+- GitHub
+- Google News
+- MCP
+- OpenAI
+- Portal!
+- Tom's Hardware
+- Valve
 ---
 
 ![Portal](https://cdn.mos.cms.futurecdn.net/RYuH6pSeo9Z8WeTisKYsFP.jpg) 

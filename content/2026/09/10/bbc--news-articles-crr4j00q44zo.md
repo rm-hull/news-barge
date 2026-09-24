@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Belfast
+- Northern Ireland
+- Stormont
+people:
+- Andrea Shearer
+- Anna McAteer
+- Colin Neill
+- Julie Dunne
+organisations:
+- Ending Violence Against Women and Girls
+- Facebook
+- Hospitality Ulster
 ---
 
 ![Closeup of Andrea Shearer, she is backed by a light pink background.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/97ee/live/ba32eff0-ad2d-11f1-9bc8-3509bd1a4ead.jpg)

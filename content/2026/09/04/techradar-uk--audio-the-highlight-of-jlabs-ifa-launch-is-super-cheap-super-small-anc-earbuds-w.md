@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/UbbUpNTVsE476z4TxctPyf-1500-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- JLab
+- Jelle
+- Tom Bedford
+organisations:
+- Android Police
+- Apple
+- BGR
+- Beats
+- Digital Trends
+- GamesRadar
+- Google News
+- IFA
+- JBuds Mini ANC
+- JLab
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![A basketball player with the JLab JBuds Mini ANC in their ear.](https://cdn.mos.cms.futurecdn.net/UbbUpNTVsE476z4TxctPyf.jpg) 

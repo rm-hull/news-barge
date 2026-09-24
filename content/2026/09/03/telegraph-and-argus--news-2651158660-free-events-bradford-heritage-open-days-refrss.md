@@ -13,6 +13,26 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Baildon
+- Bingley
+- Bradford Beck
+- Burley
+- Ilkley
+- Keighley
+- Shipley
+- Thornton
+- Wharfedale
+- Wyke
+people:
+- Vicky Clifton
+organisations:
+- Arts Council England
+- Bradford Heritage Connection
+- Bradford Heritage Connection CIC
+- Bradford’s
+- City of Culture
+- Newsquest
 ---
 
 *(Image: Newsquest)*

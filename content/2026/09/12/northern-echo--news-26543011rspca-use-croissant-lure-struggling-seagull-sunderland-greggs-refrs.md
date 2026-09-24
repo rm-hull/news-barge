@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Greggs
+- High Street
+- Sunderland
+people:
+- Anth Hodgson
+- Carl Larsson
+- Greggs
+organisations:
+- ARO
+- RSPCA
+- Trainee Animal Rescue Officer
 ---
 
 *(Image: RSPCA)*

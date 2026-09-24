@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21477420.jpg?type=og-image
+locations:
+- Annfield Plain
+- Britain
+- County Durham
+- Lancashire
+- North Durham
+- Scotland
+people:
+- Clayton Glass
+- Cllr Grimes
+- Darren Grimes
+- Ed Miliband
+- James Lumb
+- Karen Allison
+- Luke Akehurst
+- SARAH CALDECOTT
+- Ward
+organisations:
+- Clayton Glass
+- Clayton Glass' Stanley
+- Crisis and Resilience Fund
+- Durham County Council
+- Harelaw Industrial Estate
+- Interpath
+- Redundancy Payments Service
+- Tanfield
+- The Northern Echo
 ---
 
 More than 150 staff at a County Durham factory have been made redundant after the company fell into administration.

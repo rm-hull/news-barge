@@ -13,6 +13,22 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e4a5/live/07346
 categories:
 - UK
 - News & Politics
+locations:
+- Cincinnati
+- Flushing Meadows
+- Frodin
+- New York
+people:
+- Aryna Sabalenka
+- Coco Gauff
+- Elena Rybakina
+- Iga Swiatek
+- Jessica Pegula
+- Serena Williams'
+- Thea Frodin
+organisations:
+- USTA
+- United States Tennis Association
 ---
 
 ![Elena Rybakina, wearing a purple and white dress, waves her left hand to the crowd](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e4a5/live/07346880-a647-11f1-8d30-cf6fd28b1367.jpg)

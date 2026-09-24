@@ -10,6 +10,23 @@ image: https://static.independent.co.uk/2026/09/01/21/2290035333..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- Idaho
+- Minnesota
+people:
+- Karen Figueroa-Clewett
+organisations:
+- Agents of Change
+- Arab American Institute
+- Arts and Sciences
+- Department of Political Science and International Relations
+- Election Protection coalition
+- FBI
+- National Association of Latino Elected
+- National Conference of State Legislatures
+- The Conversation
+- USC Dornsife College of Letters
+- University of Southern California
 ---
 
 As the 2026 midterm elections enter the final stretch, it’s important to know your rights in case your vote is challenged.

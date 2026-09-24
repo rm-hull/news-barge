@@ -12,6 +12,36 @@ categories:
 - Technology & Software
 - Science
 - Travel
+locations:
+- Alaska
+- Britain
+- Coral Sea
+- MagNav
+- Middle East
+- Pacific Ocean
+- Puget Sound
+- Seattle
+people:
+- Andy Fraser
+- Jason Ralph
+- Kyle Norman
+- Michael Biercuk
+- Steve Sklenka
+organisations:
+- '## Radar'
+- Aquark Technologies
+- DIU
+- Efosa
+- Google News
+- Kill Web
+- Pentagon
+- Q-CTRL
+- Royal Navy
+- Saab UK
+- TechRadar Pro
+- U.S. Marine Corps
+- US Defense Innovation Unit
+- University of Liverpool
 ---
 
 ![iPhone 13 rumors](https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE.jpeg) 

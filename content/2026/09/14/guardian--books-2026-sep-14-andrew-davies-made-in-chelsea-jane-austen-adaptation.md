@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Bridgerton
+- Chelsea
+- Cincinnati
+- London
+- Love Island
+- The Watsons
+people:
+- Andrew Davies
+- Bennets
+- Bridget Jones
+- Cassandra
+- Charlotte
+- Chip Bingley
+- Colin Firth
+- Curtis Sittenfeld
+- Darcy
+- Dolly Alderton
+- Emma
+- Helen Fielding
+- Jamie Laing
+- Jane Austen
+- Joe Bray
+- John Mullan
+- Kyle’
+- Made
+- Rose Williams
+- Spencer Matthews
+- Steele
+organisations:
+- Channel 4
+- Chelsea
+- Diary to Fire Island
+- Netflix
+- Reddit
+- The Bachelor
+- University College London
+- University of Sheffield
 ---
 
 If Jane Austen’s novels run on closed social worlds, courtship rituals, status anxiety, gossip and relentless scrutiny of who’s coupling with who, it follows that the obvious contemporary equivalent would be reality television.

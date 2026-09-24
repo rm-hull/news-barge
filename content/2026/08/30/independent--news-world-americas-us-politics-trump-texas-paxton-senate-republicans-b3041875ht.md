@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/05/27/15/22/GettyImages-2263397115.
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- California
+- Iowa
+- Maine
+- North Carolina
+- Ohio
+- Texas
+people:
+- Donald Trump
+- Fox
+- James Talarico
+- John Cornyn
+- John Kennedy
+- Ken Paxton
+- Stephen Colbert
+organisations:
+- CBS
+- Department of Justice
+- FBI
+- Fox News
+- MAGA Inc
+- National Republican Senatorial Committee
+- PAC
+- Senate
+- The Sunday Briefing
+- The Texas Tribune
 ---
 
 The Republican who won Texas’s Senate primary with Donald Trump’s backing is now hoping the president and Senate Republicans will help him keep the seat from falling into Democratic hands in the midterms.

@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bethany Gibson
+- Darley Street Kitchen
+- Singo Bingo
+people:
+- Adam Tasker
+- Ian Walker
+- Sean Grundy
+- Shane
+- Will Matthew
+organisations:
+- Bradford CAMRA
+- Bradford Council
+- Courtyard
+- DARLEY Street Market
+- Darley Street Market
+- Students' Union
+- University of Bradford Union of Students
 ---
 
 *(Image: Other)*

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482670.jpg?type=og-image
+locations:
+- Bradford
+- Thornton Road
+- UK
+people:
+- Duncan Dollimore
+- Mike Simmonds
+- Norah McWilliam
+organisations:
+- Bradford City Centre Transformation
+- Bradford Council
+- City Centre Transformation
+- Cycling UK
+- Government
+- Transforming Cities Fund
+- UK City of Culture
+- West Yorkshire Combined Authority
 ---
 
 Bradford's City Centre Transformation has been highlighted as a leading example of how investment in walking and cycling infrastructure can benefit communities.

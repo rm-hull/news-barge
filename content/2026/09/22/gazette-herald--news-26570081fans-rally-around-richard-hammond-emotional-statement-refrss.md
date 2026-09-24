@@ -13,6 +13,24 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21308992.jpg?type=og-image
+locations:
+- California
+- RAF Elvington
+- Torrance
+- York
+- Yorkshire
+people:
+- Amy Oliver
+- Hammond!
+- Luke Penn
+- Richard Hammond
+organisations:
+- Air Ambulance
+- BBC
+- Instagram
+- Ripon Grammar School
+- Top Gear
+- Wikimedia Commons
 ---
 
 *(Image: Wikimedia Commons)*

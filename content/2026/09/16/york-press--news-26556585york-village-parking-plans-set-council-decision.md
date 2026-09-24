@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Church Lane
+- Church Street
+- Dunnington
+- York
+people: []
+organisations:
+- City of York Council
+- Dunnington Parish Council
+- Google Street View
 ---
 
 ## Parking restrictions plans in York watered down after objections

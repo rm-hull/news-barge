@@ -12,6 +12,36 @@ image: https://i.guim.co.uk/img/media/8f3d5594c1f4b31a1ad298e4f6f75acaf387880e/2
 categories:
 - UK
 - News & Politics
+locations:
+- Capitol Hill
+- Iran
+- Iraq
+- Middle East
+- Mississippi
+- North Carolina
+- Tennessee
+- US
+- White House
+people:
+- Adam Telle
+- Bill Hagerty
+- Christopher LaNeve
+- Daniel Driscoll
+- Donald Trump
+- JD Vance
+- Legistorm
+- Pete Hegseth
+- Randy George
+- Thad Cochran
+- Thom Tillis
+organisations:
+- Army Office of Civil Works
+- Associated Press
+- Congress
+- Legistorm
+- Pentagon
+- Terminal High Altitude Area Defense
+- Truth Social
 ---
 
 Donald Trump on Thursday named Adam Telle as the acting army secretary after the departure of Daniel Driscoll amid widespread reports of tensions with defense secretary Pete Hegseth.

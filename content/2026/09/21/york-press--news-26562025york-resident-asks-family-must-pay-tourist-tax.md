@@ -12,6 +12,29 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21472464.jpg?type=og-image
+locations:
+- France
+- Iran
+- North Sea
+- Red Sea
+- Saltburn
+- Saudi Arabia
+- Scarborough
+- Strait of Hormuz
+- Whitby
+- Yemen
+- York
+- York’
+people:
+- '**''Born'
+- Andy Burnham
+- Derek Reed
+- Mary Morton
+- Mr Sturdy
+organisations:
+- Press Camera Club
+- Scarborough Spa
+- The Press
 ---
 
 **'Born and bred in York – will my son still have to pay tourist tax?'**

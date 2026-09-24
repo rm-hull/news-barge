@@ -11,6 +11,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Keighley
+- Skipton Road
+people: []
+organisations:
+- '## Full'
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

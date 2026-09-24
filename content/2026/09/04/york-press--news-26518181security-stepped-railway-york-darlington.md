@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Doncaster
+- East Coast
+- East Coast Main Line
+- London King’s Cross
+- Network Rail
+- Newcastle
+- Peterborough
+- Scotland
+- York
+people:
+- Chris Gostling
+- John Grainger
+organisations:
+- East Coast Partnership—
+- LNER
+- London North Eastern Railway
+- Network Rail
+- Simon Williams
+- Vital
 ---
 
 ## New patrols target cable theft and trespass on East Coast Main Line

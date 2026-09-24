@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Europe
+- Mizyn
+- Owen
+- Schreger
+- Ukraine
+people:
+- Aimée Little
+organisations:
+- Department of Archaeology
+- Heritage Science
+- National Museum of the History of Ukraine
+- University of Stavanger
+- University of York
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - History
+locations:
+- Burton Pidsea
+- East Yorkshire
+people:
+- Danielle
+- Darren Higgins
+- Kaisha
+- Keylan
+- Michelle
+- Sammi
+organisations:
+- Humberside Police
 ---
 
 ## Tributes paid to man who brought 'warmth and joy to those around him'

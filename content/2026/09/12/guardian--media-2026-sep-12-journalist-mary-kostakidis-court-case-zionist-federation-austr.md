@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Israel
+people:
+- Alon Cassuto
+- Hassan Nasrallah
+- Mary Kostakidis
+- Ms Kostakidis
+- Ms Kostakidis’
+organisations:
+- Australian Human Rights Commission
+- Hezbollah
+- RDA
+- SBS
+- ZFA
+- Zionist Federation of Australia
 ---
 
 Federal court proceedings brought by the Zionist Federation of Australia (ZFA) against journalist Mary Kostakidis have been discontinued “by consent” with “no order as to costs”.

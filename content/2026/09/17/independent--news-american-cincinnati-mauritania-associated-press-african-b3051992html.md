@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Cincinnati
+- Colombia
+- Congo
+- Lockland
+- Mauritania
+- Ohio
+- Togo
+- Turkey
+- U.S.
+- Ukraine
+- United States
+- Uzbekistan
+people:
+- God
+- Samba Diallo
+- Souvi Ould Jibril Ould Cheine
+- Vincent Wilson
+organisations:
+- ICE
+- Immigration and Customs Enforcement
+- The Associated Press
+- U.S. State Department
 ---
 
 He keeps his American clothes in the closet: jeans, T-shirts, a hard hat for his job at a meatpacking plant.

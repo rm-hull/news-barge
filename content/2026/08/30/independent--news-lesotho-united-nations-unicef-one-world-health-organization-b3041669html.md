@@ -14,6 +14,26 @@ categories:
 - History
 - Sports
 - Society & Culture
+locations:
+- Lesotho
+- Mpharane Health Center
+- sub-Saharan Africa
+people:
+- Blandina Motaung
+- Bonolo Tebello
+- Llang Maama
+- Mpolokeng Mafereka
+- Ntlhane Sehloho
+organisations:
+- AP
+- Associated Press
+- Gates Foundation
+- Ministry of Health
+- UNICEF
+- United National Population Fund
+- United Nations
+- WHO
+- World Health Organization
 ---
 
 On a cold morning, Ntlhane Sehloho grabbed his backpack containing medical equipment and embarked on a three-hour journey, navigating the curving gravel roads leading to a clinic nestled in a valley of mountainous Lesotho.

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alamosa County
+- Boulder County
+- Colorado
+- Denver
+- U.S.
+people:
+- Amanda Hopkins
+- Barry Morphew
+- Fred Johnson
+- Jane Fisher-Byrialsen
+- Suzanne Morphew
+organisations:
+- GPS
 ---
 
 A judge increased bond for a Colorado man charged with killing his wife to $10 million Tuesday after authorities said he was a flight risk because he fled from a crash after picking his daughter up at the airport.

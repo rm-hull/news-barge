@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- England
+- UK
+people:
+- Helen Godsiff
+- Saif Derzi
+- Sam Davies
+organisations:
+- Age Care Bathrooms
+- Eurocell
+- Property Buyers Today
 ---
 
 *(Image: Getty)*

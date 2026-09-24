@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/08/21/1161273..?trim=0,0,0,0&wid
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- New York
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Bill Clinton
+- Bin Laden
+- George W. Bush
+- John Ratcliffe
+- Osama Bin Laden
+- al-Qa'ida
+- bin Laden
+organisations:
+- CIA
+- FBI
+- National Commission on Terrorist Attacks
+- al-Qaeda
 ---
 
 The CIA has released more than 100 pages of declassified briefings provided to U.S. presidents in the years before the terror attacks on September 11, 2001, marking what the agency is calling its largest-ever disclosure of intelligence about Osama Bin Laden and events leading up to the attacks over the last 25 years.

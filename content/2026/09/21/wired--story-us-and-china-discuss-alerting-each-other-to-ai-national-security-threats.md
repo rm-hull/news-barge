@@ -12,6 +12,31 @@ categories:
 - Science
 - News & Politics
 image: https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg
+locations:
+- AI
+- Beijing
+- China
+- US
+- Washington
+people:
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Elon Musk
+- Jensen Huang
+- Sam Altman
+- Scott Bessent
+- Thomas Wolf
+- Xi Jinping
+organisations:
+- Anthropic
+- CBS News
+- Chinese Communist Party
+- Hugging Face
+- Nvidia
+- OpenAI
+- Treasury
+- US China AI Dialogue
 ---
 
 Talks have begun between US and Chinese officials to propose a mechanism for the two countries to notify each other of artificial intelligence incidents which could threaten national security.

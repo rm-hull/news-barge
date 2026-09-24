@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- King Street
+- North Yorkshire
+- Scarborough CID
+people:
+- Alfie Thomlinson
+- Nathan Stone
+organisations:
+- York Crown Court
 ---
 
 # Watch: Drug dealer who lived ‘like a rock star’ chased down by police

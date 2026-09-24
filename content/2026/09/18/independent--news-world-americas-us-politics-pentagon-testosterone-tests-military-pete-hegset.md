@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations: []
+people:
+- Pete Hegseth
+- Sean Parnell
+organisations:
+- Defense Department
+- Fox News
+- Pentagon
 ---
 
 The Pentagon has issued formal guidance for mandatory testosterone testing for male service members 30 and older, two weeks after publishing and abruptly pulling the policy.

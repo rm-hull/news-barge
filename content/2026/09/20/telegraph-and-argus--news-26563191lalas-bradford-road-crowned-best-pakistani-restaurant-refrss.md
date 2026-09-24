@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/17209640.jpg?type=og-image
+locations:
+- Bradford Road
+people:
+- Junior Rashid
+organisations:
+- Asian Restaurant of the Year – North of England
+- BRADFORD
+- Google Street View
+- Lala's Restaurant
+- North Region
+- Tripadvisor
 ---
 
 *(Image: Google Street View)*

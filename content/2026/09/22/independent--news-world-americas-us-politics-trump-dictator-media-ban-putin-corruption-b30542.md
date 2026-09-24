@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/04/13/21/2270717460.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- America
+- Baghdad
+- Camp David
+- Caribbean
+- Democratic Republic of Congo
+- Europe
+- Iran
+- Iraq
+- Kazakhstan
+- Moscow
+- Soviet Union
+- States
+- US
+- Uganda
+- Uzbekistan
+- Washington
+- White House
+- Zaire
+people:
+- Alvin Holsey
+- CQ Brown
+- Christ
+- Christopher Donahue
+- Donald J. Trump
+- Donald Trump
+- Idi Amin
+- Maga
+- Mobutu
+- Mussolini Dux
+- Pete Hegseth
+- Saddam Hussein
+- Stalin
+- Vladimir Putin
+organisations:
+- Citadel
+- Congress
+- Duma
+- Hegseth
+- JF Kennedy Center for Performing Arts
+- John F. Kennedy Memorial Center for the Performing Arts
+- Main Stream Media
+- Man of Steel
+- Oval Office
+- US Southern Command
 ---
 
 Three media organizations banned by Donald Trump from the White House are suing the US administration for violating their Fourth Amendment rights. Seeing the mighty legacy media shut out of the Oval Office will cause satisfied sniggers from Maga supporters and the millions who believe the Main Stream Media is a conspiracy of lies.

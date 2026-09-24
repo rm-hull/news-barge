@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/678e046af38c1.jpg
+locations:
+- Harrogate
+- King Edward’s Drive
+people: []
+organisations:
+- Morrisons Daily
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/678e046af38c1.jpg)

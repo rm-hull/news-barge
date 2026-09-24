@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5814/live/bc1c6780-b690-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Croke Park
+- Dublin
+- England
+- France
+- Great Britain
+- Los Angeles
+- Monaco
+- Northampton
+- Paris
+- Scotland
+people:
+- Antoine Dupont
+- Eddie Hearn
+- Eddie Hearn.
+- Fin Smith
+- Finn Russell
+- Henry Pollock
+- Jack Willis
+- Katie Taylor
+- Kyle Sinckler
+- Rory Hutchinson
+- Sam Simmonds
+- Simon Massie-Taylor
+organisations:
+- Bath
+- Daily Telegraph
+- Exeter
+- GB
+- Matchroom
+- Northampton
+- Pollock
+- Prem Rugby
+- Saints
 ---
 
 ![Henry Pollock celebrates June's Prem final win over Exeter with his Northampton team-mates Rory Hutchinson and Fin Smith, who are carrying the trophy as they run in the direction of the photographer's camera](https://ichef.bbci.co.uk/ace/standard/911/cpsprodpb/07d9/live/4c91ff40-b688-11f1-97fb-8d66d3951490.jpg)

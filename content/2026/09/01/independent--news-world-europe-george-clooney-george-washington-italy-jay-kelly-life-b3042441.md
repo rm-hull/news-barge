@@ -13,6 +13,69 @@ categories:
 - UK
 - Arts & Culture
 - Film & TV
+locations:
+- Aman Grand Canal
+- Aman Venice
+- Europe
+- Giudecca
+- Hollywood
+- Hotel Cipriani
+- Italy
+- Lake Como
+- U.S.
+people:
+- Adam Sandler
+- Alexander
+- Amal Alamuddin
+- Ang Lee
+- Bar Gabbiano
+- Billy Crudup
+- Bono
+- Brad Pitt
+- Catherine Zeta-Jones
+- Diane von Furstenberg
+- Edward R. Murrow
+- Ella
+- Elmore Leonard
+- George Clooney
+- George Washington
+- Giorgio Armani
+- Good Luck’ Clooney
+- Gravity
+- Gravity’ Alfonso Cuarón
+- Jay Kelly
+- Jay Kelly’
+- Jennifer Lopez
+- Jesse James
+- Joe Biden
+- Jon Watts
+- Joseph McCarthy
+- Julianne Moore
+- Laura Dern
+- Matt Damon
+- Michael Clayton
+- Michael Clayton’ Tony Gilroy
+- Ned Zeman
+- Noah Baumbach
+- Oscar de la Renta
+- Philip Seymour Hoffman
+- Robert Ford
+- Ryan Gosling
+- Sandra Bullock
+- Sandy
+- Steven Soderbergh
+- Suburbicon
+- Suburbicon’ Clooney
+- Walter Bolzonella
+- Wolfs
+- Wolfs’ Clooney
+organisations:
+- AP
+- Brokeback Mountain
+- Golden Lion
+- New York Times
+- The Diller-von Furstenberg Family Foundation
+- Vanity Fair
 ---
 
 George Clooney just makes sense in Venice.

@@ -13,6 +13,40 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/18/02/UN_Secretary_General_AP_Interview_57994.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Antalya
+- Atlantic
+- Brazil
+- Bretton Woods
+- China
+- France
+- Gaza
+- India
+- Israel
+- Latin America-Caribbean
+- New Hampshire
+- Oslo
+- Paris
+- Russia
+- South Africa
+- Southern Hemisphere
+- Turkey
+- United Kingdom
+- United States
+- West Bank
+people: []
+organisations:
+- BRICS
+- Bretton Woods
+- General Assembly
+- Global South
+- International Monetary Fund
+- Security Council
+- U.N
+- U.N.
+- UNGA
+- United Nations
+- World Bank
 ---
 
 The U.N. General Assembly is launching into its yearly meeting of world leaders, a week of diplomacy, dealmaking, speechmaking — and lingo.

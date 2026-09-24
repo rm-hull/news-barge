@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Allen County
+- Allen County-Scottsville
+- Colorado
+- Kentucky
+- TikTok
+people:
+- Seuss
+organisations:
+- Allen County-Scottsville Crime Task Force
+- Facebook
+- GJPD
+- Grand Junction High School
+- Grand Junction Police
+- Students of Educational Institutions and Harassment
+- TikTok
+- WKRN
 ---
 
 A viral social media trend has landed teens in trouble with police in at least two states as authorities warn students about threats to school safety.

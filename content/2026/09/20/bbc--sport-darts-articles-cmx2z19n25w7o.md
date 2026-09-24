@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b745/live/27ad8260-b536-11f1-9086-97a1bb7ca00e.jpg
+locations:
+- Alexandra Palace
+- Australia
+- England
+- Netherlands
+- New Zealand
+- Northern Ireland
+people:
+- Gerwyn Price
+- Gian van Veen
+- James Wade
+- Jonny Clayton
+- Josh Rock
+- Luke Littler
+- Nathan Aspinall
+- Ross Smith
+- Welshman Price
+organisations:
+- PDC
 ---
 
 ![Ross Smith lifts the World Series of Darts Finals trophy](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b745/live/27ad8260-b536-11f1-9086-97a1bb7ca00e.jpg)

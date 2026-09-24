@@ -15,6 +15,20 @@ categories:
 - York
 - Technology & Software
 - Science
+locations:
+- Doncaster
+- Whitestone Solar Farm
+people:
+- Philip Knight
+- Whitestone
+organisations:
+- '## Rotherham'
+- Green Nation
+- PI
+- Planning Inspectorate
+- Save Our Greenbelt Conisbrough Parks
+- Whitestone Solar
+- Whitestone Solar Farm
 ---
 
 # Solar farm objection deadline extended after inspectorate reveals applicant error

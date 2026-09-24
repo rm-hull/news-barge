@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Fishergate Gyratory
+- Lead Mill Lane
+- Long-standing York
+- Margaret Street
+- North Yorkshire
+- Paragon Street
+- Part of York
+- Piccadilly
+- Tower Street
+- Walmgate Bar
+people:
+- Dylan Connell
+organisations:
+- City of York Council
+- First Bus
+- Fishergate
+- Maxine Gordon
+- Post Office
+- Yorkshire Water
 ---
 
 *(Image: Dylan Connell)*

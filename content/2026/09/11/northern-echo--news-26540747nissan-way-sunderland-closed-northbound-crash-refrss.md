@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A1231 Sunderland Highway
+- Cherry Blossom Way
+- Nissan Roundabout
+- Nissan Way
+- Nissan Way Northbound
+- Wearside Farm
+people: []
+organisations:
+- Hazardous Area Response Team
+- Nissan
+- North East Ambulance Service
+- Northumbria Police
 ---
 
 *(Image: GOOGLE)*

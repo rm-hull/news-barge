@@ -14,6 +14,32 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://static.independent.co.uk/2026/09/22/15/download.-9.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Austin
+- Minneapolis
+- Texas
+- U.S.
+people:
+- Donald Trump
+- Garcés Pérez
+- Joe Biden
+- Johan Sebastián Durán Guerrero
+- Kate Lincoln-Goldfinch
+- Kirk Watson
+- Lorenzo Salgado Araujo
+- Renée Good
+- Wilber Rafael Garcés Pérez
+organisations:
+- CBP
+- Customs and Border Protection
+- Department of Homeland Security
+- FBI
+- Homeland Security Investigations
+- Immigration and Customs Enforcement
+- Lincoln-Goldfinch
+- SUV
+- South Texas ICE Processing Center
+- U.S. Homeland Security
 ---
 
 A Venezuelan man who was shot by a federal immigration officer says he was moved into a detention center with a bullet still lodged near his spine within hours of the incident.

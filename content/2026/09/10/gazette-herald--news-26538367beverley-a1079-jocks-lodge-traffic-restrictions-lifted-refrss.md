@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Beverley
+- East Riding
+- Hull
+- Humber Bridge
+- Jock's Lodge
+- Kingswood
+- York
+people: []
+organisations:
+- A1079
+- A164
+- A63
+- East Riding of Yorkshire Council
+- Jock's Lodge
+- National Grid
 ---
 
 *(Image: Contributed)*

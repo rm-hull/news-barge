@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/11362269.jpg?type=og-image
+locations:
+- Bishop Auckland
+- County Durham
+- Dalton Way
+- Darlington
+- Ferryhill
+- Newton Aycliffe
+- Subway Newton Aycliffe
+- UGC
+people:
+- Fred DeLuca
+- Peter Buck
+organisations:
+- Carver Residential
+- Facebook
+- Holland & Barrett
+- Newton Aycliffe
+- Northern Echo
+- Subway
+- UGC
 ---
 
 *(Image: UGC)*

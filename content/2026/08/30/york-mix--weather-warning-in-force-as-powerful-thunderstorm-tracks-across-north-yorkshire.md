@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Science
+locations:
+- East Yorkshire
+- Malton
+- North Yorkshire
+- Pickering
+- Scarcroft Road
+- Scott Street
+- Tower Street
+- York
+people: []
+organisations:
+- Met Office
+- Northern Powergrid
 ---
 
 A weather warning is still in force across North Yorkshire.

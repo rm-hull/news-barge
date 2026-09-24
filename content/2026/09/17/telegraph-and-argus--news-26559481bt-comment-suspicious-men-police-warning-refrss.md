@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BT
+- Cleckheaton
+- England
+- Openreach
+- Scotland
+people: []
+organisations:
+- '## Full BT'
+- '## ID'
+- BROADBAND
+- Credico Group
+- EE
+- Field Sales Agent
+- Money Expert
+- Openreach
+- Partners BT Security
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

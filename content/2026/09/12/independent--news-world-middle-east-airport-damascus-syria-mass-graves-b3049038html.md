@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Damascus
+- Mezzeh
+- Moadamiya
+- Syria
+- U.S.
+people:
+- Abu Khaled
+- Amer Matar
+- Assad
+- Bashar al-Assad
+- Hafez
+- Mezzeh
+- Sednaya
+organisations:
+- AFI
+- Air Force Intelligence
+- Air Force Intelligence Directorate
+- Damascus International Airport
+- NGO
+- National Commission for Missing Persons
+- Reuters
+- SANA
+- SJAC
+- Syria Justice and Accountability Centre
+- Syria Prisons Museum
+- United Nations
 ---
 
 Syrian government plans to turn a former military airport in Damascus into a hub for private jets are raising alarm among rights groups and residents who say redevelopment could disturb suspected mass graves and override private land claims.

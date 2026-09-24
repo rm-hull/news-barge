@@ -11,6 +11,24 @@ description: We've got another indication that a previously rumored link-up betw
 image: https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Android Authority
+- Bulb3
+- Gizmodo
+- Google News
+- Govee Curtain Lights4
+- Nanoleaf Hexagons
+- Nanoleaf Shapes
+- PC Explorer
+- Philips Hue
+- Philips Hue White & Color Ambiance2
+- The Hardware Handbook
 ---
 
 ![The philips hue app next to nanoleaf shapes](https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b.jpg) 

@@ -11,6 +11,16 @@ image: https://static.independent.co.uk/2026/09/07/21/2283910672..?trim=0,8,0,8&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Johns Hopkins Center
+people:
+- Circana
+- Daphene Altema-Johnson
+organisations:
+- Circana
+- Circana’s Eating Patterns in America
+- Livable Future
 ---
 
 Americans’ need for protein — amid “protein-maxxing” trends — appears to be here to stay.

@@ -13,6 +13,20 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21477565.jpg?type=og-image&xType=0&yType=150
+locations:
+- Danby Fire Station
+- North Yorkshire
+- Whitby District
+people:
+- Bob Tindall
+- Chris Watson
+- Danby
+- Linda
+- Stuart Tindall
+organisations:
+- Facebook
+- Fire and Rescue Service
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

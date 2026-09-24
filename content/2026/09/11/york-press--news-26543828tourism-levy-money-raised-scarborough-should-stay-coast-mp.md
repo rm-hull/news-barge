@@ -13,6 +13,35 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- England
+- Europe
+- NORTH Yorkshire
+- North Yorkshire
+- Scarborough South Bay
+- UK
+- Westminster
+- Whitby
+- York
+people:
+- Alison Hume
+- Andrew Carter
+- David Skaith
+- Gavin Lane
+- Levy
+- Tom Arber
+organisations:
+- CLA
+- Centre for Cities
+- Country Land and Business Association
+- Greggs
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough South Bay
+- Wetherspoons
+- York St John University
 ---
 
 ## MP says tourism levy money raised in Scarborough and Whitby ‘should stay on coast’

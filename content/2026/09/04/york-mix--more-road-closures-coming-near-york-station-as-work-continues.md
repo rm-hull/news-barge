@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Blossom Street
+- Left Luggage
+- Lendal Bridge
+- Station Road
+- Stay Car Park
+- Tea Room Square
+- York Station
+people:
+- Kate Ravilious
+organisations:
+- Blue Badge
+- City of York Council
+- Station Portico
 ---
 
 Road users are being warned that more overnight closures near York Station are on their way.

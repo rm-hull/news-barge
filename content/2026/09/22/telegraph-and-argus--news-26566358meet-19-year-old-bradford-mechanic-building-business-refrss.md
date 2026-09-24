@@ -15,6 +15,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479044.jpg?type=og-image&xType=0&yType=193
+locations: []
+people:
+- Kamron Ali
+organisations:
+- Fairweather Green
+- Google
+- Kammy Diagnostics
+- Kamron
+- Mercedes
+- TikTok
 ---
 
 A 19-year-old mechanic from Fairweather Green has turned a lifelong passion for cars into a growing mobile vehicle repair business.

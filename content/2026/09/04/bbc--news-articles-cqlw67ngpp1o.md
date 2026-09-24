@@ -11,6 +11,29 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acf8/live/92573e
 categories:
 - UK
 - News & Politics
+locations:
+- A66
+- Cleveland
+- England and Wales
+- Middlesbrough
+- Teesside
+people:
+- Matthew Blades
+- Matty
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+- Victoria Fuller
+organisations:
+- BBC
+- Cleveland Police
+- Home Office
+- IOPC
+- Independent Office for Police Conduct
+- Labour
+- ONS
+- Office for National Statistics
+- Volkswagen
 ---
 
 PCs Matthew Blades and Tom Clough 'put the public before themselves', Cleveland Police chief says

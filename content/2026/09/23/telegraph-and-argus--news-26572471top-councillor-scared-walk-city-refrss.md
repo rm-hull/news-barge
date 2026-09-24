@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488057.jpg?type=og-image
+locations:
+- Alhambra
+- Bradford
+- West Yorkshire
+people:
+- Andrew Judson
+- Bradford
+- Cllr Birch
+- Humma Nizami
+- Ian Eglin
+- Lorraine O’ Donnell
+- Michael Churley
+- Richard Padwell
+- Sally Birch
+- Sohail Abbas
+- Supt Padwell
+organisations:
+- Bradford Community Safety Partnership
+- Bradford Council
+- Bradford Council’s Reform Executive
+- Bradford District and Craven Health and Care Partnership
+- Bradford Wellbeing Board
+- City of Culture
+- Population Health and Inequalities
+- Race Equality Network
+- Ref, Baildon
+- Regeneration and Economy
+- TOP Reform
+- West Yorkshire Combined Authority
+- Windhill
+- Wrose
 ---
 
 TOP Reform councillors have disputed claims that Bradford has turned a corner – with one claiming she is too afraid to walk through the city centre alone.

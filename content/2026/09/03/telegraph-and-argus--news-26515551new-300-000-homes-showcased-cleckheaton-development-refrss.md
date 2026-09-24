@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Home, Garden & DIY
+locations:
+- Bradford
+- Cleckheaton
+- Hunsworth Lane
+- Leeds
+- Merchant Fields
+- Spen Valley Leisure Centre
+- The Faversham
+- The Oakham
+- West Yorkshire
+people:
+- Lucinda Dickens
+- Mark Waugh
+organisations:
+- HUB26
+- Harron Homes
+- Harron Homes Yorkshire
+- Merchant Fields
+- Part Exchange
+- The Oakham
 ---
 
 *(Image: Mark Waugh)*

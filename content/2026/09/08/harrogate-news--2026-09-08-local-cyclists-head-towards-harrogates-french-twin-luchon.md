@@ -15,6 +15,40 @@ categories:
 - Sports
 - Travel
 - News & Politics
+locations:
+- Bagnères-de-Luchon
+- Barrie
+- Canada
+- Endless
+- France
+- Harrogate
+- Italy
+- Luchon
+- Montecatini Terme
+- New Zealand
+- Pyrenees
+- Superbagnères
+- Wellington
+people:
+- Aidan Robson
+- Beryl Burton
+- Chris Bentley
+- Cllr Poskitt
+- Cllr Viv Poskitt
+- Emma Dooley
+- James Beagley
+- Luchon
+- M.Denard
+- Magnus Denwood
+- Matthew Stamford
+- Michael Newby
+- Sebastien Denard
+organisations:
+- HIP
+- Harrogate International Partnerships
+- Hornbeam Park Developments
+- Nova Cycling Club
+- Verity Frearson
 ---
 
 A team of local cyclists is heading to Harrogate’s twin town of Luchon in southern France from 11 to 14 September 2026. They will not be alone as they will have VIP support from Harrogate’s cycling mayor Cllr Viv Poskitt.

@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- King’s Staith
+- New Walk
+- St George’s Field
+- Tower Gardens
+- York
+people:
+- Gage Spencer
+- Mark Mattinson
+organisations:
+- BunzI
+- GMI Construction
+- Grand Opera House
+- Kare
+- Little Vikings
+- SEA LIFE TRUST
+- SEA LIFE Trust
+- Visit York
+- Way Solicitors
+- York Dungeon
 ---
 
 The York Dungeon have organised their third riverside clean event so far this year.

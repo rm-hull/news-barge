@@ -13,6 +13,39 @@ description: The new MSI Claw and its Intel Arc G3 Extreme chipset unlocks glori
 image: https://cdn.mos.cms.futurecdn.net/AT8Dtyjmuec9LxwtGHtkwB-2520-80.jpg
 categories:
 - Technology & Software
+locations:
+- Fire Strike
+- Pharloom
+- Port Royal
+- Silicon Valley
+- Steam Deck
+people:
+- Baldur
+- Imma
+- Josh Russell
+organisations:
+- AAA Bethesda
+- AMD Radeon Graphics
+- Asus
+- EA
+- EX AI
+- Epic
+- GOG
+- Intel
+- Josh
+- Lenovo Legion Go S
+- MSI Center M
+- MSI Claw
+- PC
+- ROG
+- SoC
+- Steam Deck
+- SteamOS
+- T3
+- TMR
+- TechRadar
+- TechRadar’s Steam
+- Ubisoft Connect
 ---
 
 ### TechRadar Verdict

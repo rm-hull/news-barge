@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Afghanistan
+- Fort Worth
+- IS
+- Oklahoma
+- Texas
+- U.S.
+- United States
+people:
+- Abdullah Haji Zada
+- Haji Zada
+- Joan Ericksen
+- Markwayne Mullin
+- Matthew Farley
+- Nasir Ahmad Tawhedi
+- Nazira Haji Zada
+- Todd Blanche
+- Trump
+organisations:
+- Alien Terrorist Removal Court
+- FBI
+- Homeland Security
+- Islamic State
+- Justice Department
 ---
 
 An Afghan woman who was accused of supporting an Islamic State-inspired plot in the United States has been deported, ending a case brought before an obscure and long-dormant federal court.

@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Calderdale
+- Mixenden
+- North Halifax
+- Northowram and Shelf
+- Ovenden
+- Warley
+people: []
+organisations:
+- Cabinet
+- Calderdale
+- Halifax Town hall
+- Neighbourhood Team
+- North Halifax Partnership
 ---
 
 # North Halifax neighbourhood support, and cash, reconfiguration on cards

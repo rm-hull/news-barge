@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/2fcea1bd1f4dbfcba43ce148d6bd7ed065909342/423_0_4225_3380/master/4225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0840c32b5328038cf956f95eb930401c
+locations:
+- Gracie Mansion
+- Mexico City
+- New York
+- New York City
+- Queens
+- Sunnyside Yard
+- US
+- Uganda
+- White House
+people:
+- Clara Brugada
+- Donald Trump
+- Ed Koch
+- Elle Bisgaard-Church
+- Gracie Mansion
+- Ronald Reagan
+- Susie Wiles
+- Zohran Mamdani
+organisations:
+- CNN
+- DHS
+- Democratic Socialists of America
+- Department of Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- MS Now
+- Politico
+- State of New York
+- Trump
+- United Nations
 ---
 
 Donald Trump said on Monday that he hoped Zohran Mamdani would be a “great mayor” for New York, an unusually warm assessment of the democratic socialist leader whom the president and his Republican allies have spent months holding up as a symbol of the Democratic party’s alleged embrace of “communism” ahead of the November midterms.

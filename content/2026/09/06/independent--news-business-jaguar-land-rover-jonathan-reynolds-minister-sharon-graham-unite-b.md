@@ -13,6 +13,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Halewood
+- Merseyside
+- Norway
+- Solihull
+- UK
+- US
+- West Midlands
+people:
+- David Parry
+- Des Quinn
+- Jonathan Reynolds
+- Jonny Reynolds
+- Laura Kuenssberg
+- PB Balaji
+- Sharon Graham
+organisations:
+- BBC
+- Business Secretary
+- House of Brands
+- JLR
+- Jaguar Land Rover
+- Range Rover
+- Range Rover Sport
+- The Times
+- Unite
+- ZEV
+- ZEVs
 ---
 
 The Business Secretary has said there will be no bailout for Jaguar Land Rover amid reports that the UK’s largest car manufacturer is to cut 4,000 jobs.

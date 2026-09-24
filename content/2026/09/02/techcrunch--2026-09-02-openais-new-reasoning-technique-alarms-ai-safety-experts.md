@@ -11,6 +11,20 @@ description: OpenAI’s new Astra model will use “recurrent depth,” a techni
 image: https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024
 categories:
 - Technology & Software
+locations: []
+people:
+- Buck Shlegeris
+- Jakub Pachocki
+- Ryan Greenblatt
+- Zvi Mowshowitz
+organisations:
+- AI
+- Anthropic
+- Astra
+- Google DeepMind
+- OpenAI
+- Redwood Research
+- The Information
 ---
 
 OpenAI’s new Astra model will use a reasoning technique called “recurrent depth” that allows it to operate outside of the sequential thinking that characterizes most reasoning models, The Information reported on Tuesday. This technique, also called “opaque recurrence,” will likely make the model’s chain of thought more difficult to monitor — and that has AI safety experts rattled.

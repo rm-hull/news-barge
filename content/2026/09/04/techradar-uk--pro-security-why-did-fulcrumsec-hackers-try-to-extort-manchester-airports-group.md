@@ -13,6 +13,36 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- '**Muhammad Yahya Patel'
+- Benedict Collins
+- Brian Higgins
+- Danny Jenkins
+- Denis Calderone
+- Dray Agha
+- Seemant Sehgal
+organisations:
+- APT
+- BUCSIS
+- CTO
+- Civil Aviation Authority
+- EMEA
+- FulcrumSec
+- Google News
+- Huntress
+- Huntress:**
+- MAG
+- Manchester Airports Group
+- Manchester Evening News
+- NCA
+- NCSC
+- Suzu Labs
+- TechRadar Pro
+- The Register
+- ThreatLocker
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Airport](https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL.jpg) 

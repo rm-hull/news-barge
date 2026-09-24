@@ -12,6 +12,25 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh-320-80.png
+locations:
+- Argentina
+- China
+- Denver Water
+- El Reno
+- Iran
+- New York
+- Oklahoma
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+- Virginia
+people:
+- Trump
+organisations:
+- Amazon
+- Bitcoin
+- Get Tom's Hardware
 ---
 
 ![a protester holding up a sign against a data center](https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh-320-80.png)

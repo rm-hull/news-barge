@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/jVKFhGmWN2EMD2XR88248S-1320-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- TechRadar
+people:
+- James Pickard
+organisations:
+- Amazon Prime
+- Anker
+- Black Friday
+- Braun
+- Eurogamer
+- Fire TV
+- Lego
+- PS5
+- Shark
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![A row of brown Amazon packages with blue tape on them on a blue background](https://cdn.mos.cms.futurecdn.net/jVKFhGmWN2EMD2XR88248S.jpg) 

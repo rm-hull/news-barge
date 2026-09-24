@@ -13,6 +13,41 @@ image: https://images.euronews.com/articles/stories/09/89/83/87/1200x675_cmsv2_6
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgium
+- Berlin
+- Bonn
+- Brussels
+- Europe
+- France
+- Germany
+- Ireland
+- Kremlin
+- Leipzig
+- Moscow
+- Netherlands
+- Russia
+- Russian House
+- Ukraine
+- Wicklow
+people:
+- Alexander Dobrindt
+- Alexander Grushko
+- Friedrich Merz
+- Johann Wadephul
+- Kaja Kallas
+- Mark Rutte
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+- Von der Leyen
+- von der Leyen
+organisations:
+- Alliance
+- EU
+- European Commission
+- European Union
+- Kyiv
+- NATO
 ---
 
 ## European Commission President Ursula von der Leyen said Europe must prepare for a “new era of European security” after Russia was blamed for a drone sabotage incident last month. NATO Secretary General Mark Rutte said the Alliance must have the capabilities it needs to address such threats.

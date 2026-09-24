@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469957.jpg?type=og-image
+locations:
+- Albert Road
+- Bingley Road
+- CAROLINE Street
+- Caroline Street
+- Dallam Avenue
+- Google Street View
+- Hirst Lane
+- Saltaire Road
+- Victoria Road
+people: []
+organisations:
+- Bradford Council
 ---
 
 *(Image: Google Street View)*

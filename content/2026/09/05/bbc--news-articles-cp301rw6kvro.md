@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Akershus Fortress
+- Balmoral
+- Buckingham Palace
+- England
+- France
+- London
+- Norway
+- Oslo
+- Prince of Wales
+- Royal Palace
+- Scotland
+people:
+- Andy Burnham
+- Anne
+- Catherine Middleton
+- Charles
+- Haakon VIII
+- Harald V
+- Jeffrey Epstein
+- Kate
+- King Harald
+- Macron
+- Marius Borg Høiby
+- Mette-Marit
+- Prince William
+- Sonja
+organisations:
+- Harald
+- Oslo Cathedral
+- Royal Palace Chapel
+- Royal Watch
+- Westminster Abbey
 ---
 
 ![King Harald of Norway attends the Royal Wedding of Prince William to Catherine Middleton at Westminster Abbey on April 29, 2011 in London, England](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg)

@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/8c97bbdbed9ba2b1f11920c10fb1ae9a58333d62/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8baf03056866153c39b5ad23661f317a
+locations:
+- Europe
+- Iran
+- Latvia
+- Lithuania
+- Lublin
+- Moscow
+- New York City
+- Poland
+- Russia
+- Rzeszów-Jasionka
+- Soviet Union
+- US
+- Ukraine
+- United States
+- White House
+people:
+- Donald Trump
+- Donald Tusk
+- Edgars Rinkēvičs
+organisations:
+- Congressional Budget Office
+- Guardian
+- Nato
+- Patriots
+- Rinkēvičs
+- Trump
+- United Nations
+- Washington DC
 ---
 
 Latvia’s president has warned that Europe is not keeping up with developments of drone and aerial warfare in Ukraine and that most countries in Nato could not repulse an attack by Russian missiles if the conflict expands.

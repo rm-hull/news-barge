@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Studio City
+people:
+- Wendy
+organisations:
+- Simi Valley-based Wildlife Care of Southern California
+- WCSC
+- WENDY
 ---
 
 A coyote that charmed Studio City residents while enduring a large undiagnosed growth or abscess on her face for over a year is undergoing medical care after being secured by a wildlife rescue group.

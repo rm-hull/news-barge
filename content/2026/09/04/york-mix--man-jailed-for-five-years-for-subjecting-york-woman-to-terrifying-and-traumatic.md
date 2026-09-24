@@ -14,6 +14,18 @@ categories:
 - Society & Culture
 - Health & Fitness
 - Self-Improvement
+locations:
+- North Yorkshire
+- Wheldrake
+- York
+people:
+- Con Scott
+- Matthew Thomas Banks
+- Sarah Scott
+organisations:
+- Banks
+- City & Selby Criminal Investigation Department
+- York Crown Court
 ---
 
 A man has been sent to prison after subjecting a York woman to a “terrifying” sexual assault that left her feeling “less than human”.

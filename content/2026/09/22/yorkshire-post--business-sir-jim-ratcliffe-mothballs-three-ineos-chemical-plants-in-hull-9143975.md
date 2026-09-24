@@ -14,6 +14,36 @@ categories:
 - York
 - Science
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/27/23/v2-image-production-57275071a8e1429c4bf44b0d9939c85dY29udGVudHNlYXJjaGFwaSwxNzcwOTg1MjI1-2.79357880.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- China
+- Europe
+- Hull
+- Humber
+- Humberside
+- Immingham
+- Iran
+- Monaco
+- Old Trafford
+- PA
+- Prax Lindsey
+- Saltend
+- Strait of Hormuz
+- UK
+- US
+- US-Israel
+- USA
+- United States
+people:
+- Ineos’
+- Jim Ratcliffe
+- Lucy North
+organisations:
+- British Industrial Competitiveness Scheme
+- Ineos
+- Manchester United
+- Phillips 66
+- Saltend Chemicals Park
+- Vivergo Fuels
 ---
 
 # Sir Jim Ratcliffe mothballs three Ineos chemical plants in Hull over gas prices

@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Restore Britain
+- US
+people:
+- '## Anderson'
+- '## Farage'
+- '## Zia Yusuf'
+- Ann Widdecombe
+- Ann Widdecombe Nigel Farage
+- Dan Jukes
+- David Bull
+- James Orr
+- Kemi Badenoch
+- Lee Anderson
+- Luke Tryl
+- Margaret Thatcher
+- Michael Gove
+- Nigel Farage
+- Richard (Tice
+- Rupert Lowe
+- Zia Yusuf
+organisations:
+- '## Pollster'
+- 'Ann Widdecombe ## Reform'
+- Channel 4
+- Channel 4 News
+- Daily Mail
+- LBC
+- Labour
+- Reform UK
+- Restore
+- Verbatim
 ---
 
 Nigel Farage said Reform has done “nothing wrong” following allegations they breached political donation rules by having polling paid for by an overseas company.

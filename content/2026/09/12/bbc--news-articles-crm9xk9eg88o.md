@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Faroe Islands
+- Greenland
+- Iceland
+- Netherlands
+- Northeast Atlantic
+- Norway
+- Russia
+- Sweden
+- UK
+people:
+- Hannah Fennell
+- Jack
+- Scombridae
+- Sue Davies
+organisations:
+- Carangidae
+- Department for Environment, Food and Rural Affairs
+- EU
+- Ices
+- International Council for the Exploration of the Sea
+- Lidl GB
+- MSC
+- Marine Conservation Society
+- Marine Stewardship Council
+- Scottish Pelagic Fishermen's Association
+- Waitrose
 ---
 
 ![Fresh mackerel laid out on a wooden top](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg)

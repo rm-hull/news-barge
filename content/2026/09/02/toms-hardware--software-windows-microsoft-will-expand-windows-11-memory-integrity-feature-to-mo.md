@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Tom
+organisations:
+- Admin
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- HVCI
+- Hypervisor-Protected Code Integrity
+- Intel
+- Memory Integrity
+- Microsoft
+- Microsoft’s Device Guard
+- PC
+- SteamOS
+- Tom's Hardware
+- VBS
 ---
 
 ![Windows 11](https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ.jpg) 

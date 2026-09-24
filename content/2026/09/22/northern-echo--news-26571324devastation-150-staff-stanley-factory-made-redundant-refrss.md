@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21486329.jpg?type=og-image&xType=0&yType=0
+locations:
+- Bishop Auckland
+- Britain
+- Clayton Glass
+- County Durham
+- Lancashire
+- North Durham
+- North Sea
+- Scotland
+- Stanley
+people:
+- Clayton Glass
+- Darren Grimes
+- Ed Miliband
+- Jaissle
+- James Lumb
+- Luke Akehurst
+organisations:
+- Annfield Plain
+- Clayton Glass
+- County Durham Liberal Democrat
+- Durham County Council
+- Durham Works and Employability Durham
+- Interpath
+- Liberal Democrat Group
+- Newcastle United
+- Tanfield
 ---
 
 The loss of more than 150 jobs at a County Durham factory has been met with "devastation".

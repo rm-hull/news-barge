@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Selby
+- UK
+- Yorkshire
+people:
+- '**Selby'
+- '**__Craig Allen'
+- Craig Allen
+- Selby
+organisations:
+- '**__Selby'
+- GSN
+- Gold Standard Nutrition
+- Pic
+- Tesco
+- Yorkshire
 ---
 
 A Yorkshire-born food entrepreneur is celebrating national industry success.

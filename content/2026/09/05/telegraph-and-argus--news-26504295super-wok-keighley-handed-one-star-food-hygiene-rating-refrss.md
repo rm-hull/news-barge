@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Keighley
+- Rawling Street
+people:
+- Julie Anderson
+- Lee York
+organisations:
+- Google Maps
+- Street View
+- Super Wok
+- Telegraph & Argus
 ---
 
 *(Image: Google Maps / Street View)*

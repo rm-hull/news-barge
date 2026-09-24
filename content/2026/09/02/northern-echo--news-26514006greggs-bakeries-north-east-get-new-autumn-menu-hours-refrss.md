@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Darlington
+- North East
+- Teesside
+- UK
+people:
+- Greggs
+- Greggs’
+organisations:
+- Bonfire Toffee Muffin
+- Buffalo Chicken Baguette
+- Buffalo Pizza Slice
+- Chicken & Pepperoni Toastie
+- Greggs
+- Iced Caramel Chocolate
+- Iced Chocolate
+- Iced Mocha
+- Iced Pumpkin Spice Latte
+- KFC
+- Pumpkin Spice Doughnut
+- Pumpkin Spice Latte
+- Starbucks
 ---
 
 Greggs fans have less than 24 hours left to wait before the bakery chain's eagerly anticipated autumn menu lands in stores across the North East.

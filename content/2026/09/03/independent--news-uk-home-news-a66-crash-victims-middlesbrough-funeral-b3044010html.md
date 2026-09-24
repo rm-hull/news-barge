@@ -13,6 +13,29 @@ categories:
 - UK
 - Society & Culture
 - Education & Learning
+locations:
+- A66
+- County Durham
+- Haswell
+- Middlesbrough
+- Normanby Road
+- South Bank
+- St John’s
+people:
+- Cole Worthy
+- Jacob
+- Jakub Matusiak
+- Makai Saddington
+- Mark Robinson
+- Matthew Blades
+- Michael Cahill
+- Ms Cooper
+- Tammy Cooper
+- Theo Rae
+- Tom Clough
+organisations:
+- Outwood Academy
+- South Bank Primary School
 ---
 
 Several schools will close early on Friday due to “congestion and traffic disruption” expected during the first funeral for one of five young men killed in a head-on crash on the A66.

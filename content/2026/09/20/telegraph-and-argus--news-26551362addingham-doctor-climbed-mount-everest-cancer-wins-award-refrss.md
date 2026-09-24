@@ -14,6 +14,47 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21456775.jpg?type=og-image
+locations:
+- Dewsbury
+- Kirklees
+- Mera Peak
+- Mount Everest
+- Wakefield
+- West Yorkshire
+people:
+- Andrea Dixon-Boldy
+- Anita Rani
+- Balvinder Sopal
+- Ellie Kildunne
+- Ellie Kildunne MBE
+- Harry Evans
+- Jack Carroll
+- Jade Lee
+- Kate Wormald-Smith
+- Kimberley Walsh
+- Mike Tindall
+- Ms Kildunne
+- Richie Anderson
+- Shaunna Burke
+- Simon Grayson
+- Sue Shaw
+- Suffia Hussain
+- Tracy Gee
+organisations:
+- Addingham
+- BBC Morning Live
+- BBC Radio Leeds
+- Bradford’s Project on Guard
+- Community Group
+- EPIKS
+- Huddersfield and District Badger Group
+- Kirklees
+- Leeds Beckett University
+- Macmillan Cancer Support
+- Sen Parent Support Group
+- UGC
+- University of Leeds
+- West Yorkshire
 ---
 
 Addingham doctor Shaunna Burke has won an award after becoming the first woman with incurable cancer to climb Mount Everest.

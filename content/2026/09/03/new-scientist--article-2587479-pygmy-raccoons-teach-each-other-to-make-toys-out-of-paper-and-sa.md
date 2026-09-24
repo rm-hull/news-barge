@@ -12,6 +12,18 @@ categories:
 - Science
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Cozumel Island
+- Czech Republic
+- Ohio
+people:
+- Marek Špinka
+- Michelle Szydlowski
+- Nessie O’Neil
+organisations:
+- Institute of Animal Science
+- Miami University
+- O’Neil’s
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310252570.jpg?w=840)

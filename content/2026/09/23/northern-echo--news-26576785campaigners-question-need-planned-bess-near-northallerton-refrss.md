@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21494245.jpg?type=og-image
+locations:
+- Bloom
+- Britain
+- East Rounton
+- North East
+- North Sea
+- North Yorkshire
+- Northallerton
+- Northumbria
+- South Kilvington
+- Thirsk
+- YOUR
+- Yarm
+people:
+- Andrew Sheldon-Thomson
+organisations:
+- BESS
+- Government
+- Local Democracy Reporting Service
+- Mowbray
+- NatPower
+- National Energy System Operator
+- North Yorkshire Council
+- Ofgem
+- Protect Northallerton
+- Public Notice Portal
+- Tanfield Railway
+- Yarm & Our Villages
 ---
 
 *(Image: Google.)*

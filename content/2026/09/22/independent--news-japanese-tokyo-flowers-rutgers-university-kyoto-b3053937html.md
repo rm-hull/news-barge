@@ -13,6 +13,19 @@ categories:
 - Arts & Culture
 - History
 image: https://static.independent.co.uk/2026/09/22/02/Be_Well_Ikenobo_Ikebana_64762.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ikenobo
+people:
+- Hiroyuki Okada
+- Jeannette Haviland-Jones
+- Mayu Shimizu
+- Senko Ikenobo
+- Soe
+- Tai
+- Yuri Kageyama
+organisations:
+- Ikenobo
+- Rutgers University
 ---
 
 Ikebana, the Japanese art of arranging flowers, is a form of expression that dates back more than 500 years. It continues to blossom, quietly, not only with traditionalists but also with newcomers who find its blend of creativity and mindfulness to be restorative.

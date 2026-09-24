@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Abha
+- Abu Dhabi
+- AlUla
+- Australia
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Canberra
+- Gulf
+- Imola
+- Iran
+- Jazan
+- Jeddah
+- Kfar Rumman
+- Khamis Mushait
+- Lebanon
+- Middle East
+- Oman
+- Qatar
+- Red Sea
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- U.S.A.
+- US
+- Ukraine
+- United States-Iran
+- White House
+- Yanbu
+- Yemen
+- ex-White House
+people:
+- Abdulaziz bin Salman
+- Chris Bowen
+- Donald Trump
+- Khamis Mushait
+- Mohsen Rezaei
+- Mustafa Farhat
+- Sarah Matthews
+- Ursula von der Leyen
+- Von der Leyen
+organisations:
+- ABC News
+- EU
+- Formula One
+- Fox News
+- Hezbollah
+- Labor
+- Nation of Iran
+- Reuters
+- Saudi Arabian Civil Defence
+- Saudi Civil Defence
+- Supreme National Security Council
+- The New York Times
 ---
 
 US President Donald Trump has said he is “open” to negotiations with Iran, but stressed the final decision rests with him.

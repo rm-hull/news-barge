@@ -11,6 +11,18 @@ description: ChatGPT Images 2.5 is impressively detailed, but its smooth surface
 image: https://cdn.mos.cms.futurecdn.net/DoHy7583XmBKgGrtPbUUN8-1920-80.png
 categories:
 - Technology & Software
+locations:
+- New York City
+people:
+- Eric Hal Schwartz
+organisations:
+- AI
+- Google Gemini
+- Google News
+- OpenAI
+- Reddit
+- TechRadar
+- Voicebot.ai
 ---
 
 ![ChatGPT Image 2.5](https://cdn.mos.cms.futurecdn.net/DoHy7583XmBKgGrtPbUUN8.png) 

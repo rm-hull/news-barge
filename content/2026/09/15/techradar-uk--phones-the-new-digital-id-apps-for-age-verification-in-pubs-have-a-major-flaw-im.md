@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/Pa7BSKdLUbdasiZ2QbnpB3-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- England
+- Stockport
+- UK
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- Google News
+- Guardian
+- PC Explorer
+- Post Office
+- The Hardware Handbook
 ---
 
 ![Two pints on a table next to a hand holding a phone showing Yoti age verification](https://cdn.mos.cms.futurecdn.net/Pa7BSKdLUbdasiZ2QbnpB3.jpg) 

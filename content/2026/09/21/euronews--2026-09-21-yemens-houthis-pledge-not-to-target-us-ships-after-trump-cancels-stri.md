@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/12/26/1200x675_cmsv2_60688122-ab60-5480-88bb-edb1e1a6c8d9-9921226.jpg
+locations:
+- Bab el-Mandeb
+- Cairo
+- Camp David
+- Gaza
+- Iran
+- Iraq
+- Islamic Republic
+- Lebanon
+- Maryland
+- Middle East
+- New York
+- Pakistan
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- Tehran
+- Turkey
+- US
+- United States
+- Washington
+- White House
+- Yanbu
+- Yemen
+people:
+- Abbas Araghchi
+- Abdel Fattah al-Sisi
+- Andreas Krieg
+- Ansar Allah
+- Donald Trump
+- Hakan Fidan
+- John Ratcliffe
+- Mohamed al-Bukhaiti
+- Mohammed bin Salman
+- Washington Al-Bukhaiti
+- Yahya Saree
+- bin Salman
+organisations:
+- Aramco
+- Axis of Resistance
+- Defence Studies
+- Hamas
+- Hezbollah
+- Houthi
+- Houthis’
+- IRGC
+- International Crisis Group
+- King's College London
+- NTV
+- State Department
+- UN General Assembly
+- US Central Intelligence Agency
+- US State Department
 ---
 
 ## A senior Houthi official said Washington reached out after the group's advance to Bab el-Mandeb, as US media reported Trump cancelled planned strikes at the last minute after a call with Crown Prince Mohammed bin Salman.

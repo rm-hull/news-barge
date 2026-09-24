@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Ireland
+- Otley Courthouse
+- Perth
+- UK
+- Western Australia
+people:
+- Alan Fletcher
+- Jennifer Hansen
+- Karl Kennedy
+- Laura Cooney
+- Lyndon Bolton
+organisations:
+- Americana UK Magazine
+- Entertainment-Focus.com
+- Otley Courthouse
 ---
 
 *(Image: PA)*

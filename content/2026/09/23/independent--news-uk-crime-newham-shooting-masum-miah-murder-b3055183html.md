@@ -12,6 +12,29 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/08/20/15/35/Screenshot-2026-08-20-at-16-14-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Barking
+- Charlton Crescent
+- High Street
+- London
+- Newham
+- Old Bailey
+- Sittingbourne
+- St Bartholomew's Road
+- St Bartholomew’s Road
+people:
+- Dan Whitten
+- Leonel Friman Intasse
+- Ludins
+- Masum Miah
+- Mihai Stancu
+- Renars Ludins,aged
+- Sergiu Leahu
+organisations:
+- Crimestoppers
+- Major Incident Public Portal
+- Metropolitan Police
+- The Independent
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

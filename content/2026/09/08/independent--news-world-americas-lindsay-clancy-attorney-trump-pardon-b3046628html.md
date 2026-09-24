@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Dawson
+- Massachusetts
+people:
+- Callan
+- Cora
+- Dawson
+- Donald Trump
+- George Stephanopoulos
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+- Redding
+- Tim Cruz
+organisations:
+- Trump
 ---
 
 Lindsay Clancy’s defense attorney has appealed to President Donald Trump to pardon her for killing her three children after the high-profile case ended in a mistrial on the seventh day of deliberations last week.

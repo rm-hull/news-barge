@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Music
+locations:
+- North Yorkshire
+- Pateley Bridge
+- York
+people:
+- David Skaith
+organisations:
+- BMX
+- Developer
+- Millennium Green
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Sport
+- Pateley Bridge Town Council
+- Sport England’s Movement Fund
+- York
 ---
 
 Plans have been submitted to replace an existing BMX track in Pateley Bridge with a new purpose-built pump track designed to cater for everyone from beginners to experienced riders.

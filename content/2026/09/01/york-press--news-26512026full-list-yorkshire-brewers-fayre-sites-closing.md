@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Dalesway
+- Ireland
+- UK
+- US
+- Yorkshire
+people:
+- Dominic Paul
+- Whitbread
+organisations:
+- '## Brewers Fayre'
+- 20 Bar
+- 32 Table Table
+- Aire & Calder
+- Beefeater
+- Berni Inn
+- Block
+- Brewers Fayre
+- Cheswold Lodge
+- Cookhouse
+- Premier Inn
+- Pub
+- Rhubarb Triangle Whitbread
+- Table Table
+- Yorkshire Brewers Fayre
 ---
 
 *(Image: Getty)*

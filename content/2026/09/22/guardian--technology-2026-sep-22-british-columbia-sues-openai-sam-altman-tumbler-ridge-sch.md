@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b664c0ecb6d5e9ef3a6df20be4ba800a
+locations:
+- British Columbia
+- California
+- Florida
+- San Francisco
+- Tumbler Ridge
+- US
+people:
+- Drew Pusateri
+- Jesse Van ⁠Rootselaar
+- Sam Altman
+- Van Rootselaar
+organisations:
+- ChatGPT
+- Florida State University
+- OpenAI
+- Tumbler Ridge
+- Van Rootselaar
+- Wall Street Journal
 ---
 
 British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre.

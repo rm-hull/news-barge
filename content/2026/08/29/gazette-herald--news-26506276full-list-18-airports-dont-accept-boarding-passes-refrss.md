@@ -14,6 +14,44 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Agadir
+- Antalya
+- Aqaba
+- Belgrade-Beograd
+- Cairo
+- Djerba
+- Enfidha-Hammamet
+- Essaouira
+- Fez
+- Harstad
+- Hurghada
+- Izmir
+- Luxor
+- Marrakech
+- Marsa Alam
+- Morocco
+- Nador
+- Oujda
+- Rabat
+- Scandinavian Mountains
+- Sharm El Sheikh
+- Sitia
+- Tangier
+people:
+- Gareth Fuller
+organisations:
+- AGA
+- Apple
+- DBP
+- ESU
+- Google
+- NBE
+- PA Wire
+- RBA
+- RMF
+- Ryanair
+- easyJet
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

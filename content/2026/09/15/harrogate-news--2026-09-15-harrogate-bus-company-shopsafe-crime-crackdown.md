@@ -12,6 +12,25 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate Bus Station
+- North Yorkshire
+people:
+- Kel Pizzuti
+- Paul Evans
+organisations:
+- BCRP
+- Business Crime Reduction Partnership
+- CCTV
+- Harrogate BID Business Crime Officer
+- Harrogate Bus Company
+- Harrogate Bus Company**
+- Harrogate Business Improvement District
+- Harrogate Informer
+- North Yorkshire Council
+- Pub Watch
+- ShopSafe
+- Transdev Head of Operations
 ---
 
 **HARROGATE** — Regional transit chiefs have initiated a coordinated security expansion across the town center, linking municipal transport grids with local police networks to combat escalating anti-social behaviour and urban retail crime.

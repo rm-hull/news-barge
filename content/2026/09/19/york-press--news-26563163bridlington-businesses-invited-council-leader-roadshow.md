@@ -14,6 +14,14 @@ categories:
 - Careers & Productivity
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21474317.jpg?type=og-image
+locations:
+- Bridlington Spa
+- East Yorkshire
+people:
+- Anne Handley
+organisations:
+- East Riding of Yorkshire Council
+- Invest East Yorkshire’s Business Support Services
 ---
 
 *(Image: Supplied)*

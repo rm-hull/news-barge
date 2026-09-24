@@ -12,6 +12,131 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- America
+- China
+- EU
+- Europe
+- Las Vegas
+- Lisa Su
+- Stephen Warwick
+- Texas
+- U.S.
+- US
+- Ukraine
+- Washington
+people:
+- Andrew McCalip
+- Bill Gates
+- Bruno Ferreira
+- Christopher Harper
+- Claude AI
+- Donald Trump
+- Hassam Nasir
+- Jensen Huang
+- Lisa Su
+- Mark Tyson
+organisations:
+- '## Explore Tech Industry'
+- AI supercomputersBy Bruno Ferreira
+- Aaron Klotz
+- Andrew E. Freedman
+- Anton Shilov
+- Apple
+- Artificial IntelligenceBill Gates
+- Artificial IntelligenceClaude
+- Artificial IntelligenceJensen Huang
+- Artificial IntelligenceNvidia
+- Ayar Labs
+- Big TechOracle
+- Big TechSpaceXAI
+- Big TechSupermicro
+- Blackwell GPUsBy Anton Shilov
+- China AI
+- Cisco
+- CryptocurrencyCrypto
+- CryptocurrencyDigital
+- CryptocurrencyKorean
+- CybersecurityAliExpress
+- CybersecurityGeekom
+- CybersecuritySlovakia
+- CybersecurityUS Justice Department
+- CybersecurityWhite House
+- Data CentersIndiana
+- Department of Energy and AMD
+- DronesAmazon
+- DronesStartup
+- DronesUS Navy
+- DronesUkraine
+- Earth
+- El Capitan
+- Elon
+- EthereumBy Hassam Nasir Published
+- Etiido Uko Published
+- FCC
+- Federal Reserve
+- Francisco Pires
+- Grok
+- IRIS
+- Intel
+- Jake Roach Published
+- Jeffrey Kampman
+- Jon Martindale Published
+- Jowi Morales
+- Jowi Morales Published
+- LPX
+- Los Alamos National LaboratoryBy Anton Shilov
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- Micron
+- NASA
+- Nashville Zoo
+- Nikons
+- Nvidia
+- NvidiaBy Luke James
+- OpenAI
+- PACBy Anton Shilov
+- PhotonicsIndustry
+- PolicyNashville
+- PolicyPresident Trump
+- PolicyTrump
+- PolicyWhite House
+- PolicyX
+- PremiumChina
+- PremiumGlass
+- PremiumH200s
+- PremiumIBM
+- PremiumNvidia
+- PremiumThe
+- PsiQuantum
+- Quantum ComputingChina
+- Quantum ComputingMicrosoft
+- RR Auction
+- SK hynix
+- SemiconductorsEPA
+- Senate
+- Siemens
+- SoBy Francisco Pires
+- SpaceEurope
+- SpaceGoogle
+- SpaceIntel
+- SpaceNASA
+- SpaceSpace Force
+- SpaceSpaceX
+- SpaceX
+- Starlink
+- Steve Jobs
+- SupercomputersAMD
+- SupercomputersChina
+- SupercomputersElon Musk
+- SupercomputersNvidia
+- SuperconductorsMIT
+- Tech IndustryMan
+- Tesla Dojo
+- Vera Rubin
+- Xanadu
+- Zak Killian Published
 ---
 
 # Tech Industry

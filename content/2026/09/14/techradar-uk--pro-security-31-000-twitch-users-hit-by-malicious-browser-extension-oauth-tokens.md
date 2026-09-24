@@ -10,6 +10,20 @@ description: The extension has since been updated
 image: https://cdn.mos.cms.futurecdn.net/33ooyG4FCgVjDs8W6RpowC-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+- Socket
+organisations:
+- Al Jazeera Balkans
+- Google News
+- OAuth
+- Represent Communications
+- Socket
+- TechRadar Pro
+- URL
 ---
 
 ![Twitch logo under a magnifying glass in internet browser](https://cdn.mos.cms.futurecdn.net/33ooyG4FCgVjDs8W6RpowC.jpg) 

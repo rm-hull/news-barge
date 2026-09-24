@@ -13,6 +13,35 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/12/16/2026-09-12T105533Z_353365996_RC2MHNA9FDY7_RTRMADP_3_UKRAINE-CRISIS-ATTACK-CHORNOMORSK.JPG?trim=60,0,60,0&width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Iran
+- Israel
+- Minab
+- Sudan
+- Sussex
+- US
+- Ukraine
+- White House
+people:
+- '![Khaleel'
+- Anna Kelly
+- Claire Sanford
+- Harry
+- Khaleel
+- Mona
+organisations:
+- AI
+- Centre for Paediatric Blast Injury Studies
+- Hamas
+- I-HUB
+- Imperial College London
+- STC UK
+- Save the Children
+- The Independent
+- UN
+- Unicef
+- United Nations
 ---
 
 The growing use of drones and artificial intelligence in conflict is exposing children to new threats at a time when more than five a day are already being killed or injured by explosives around the world.

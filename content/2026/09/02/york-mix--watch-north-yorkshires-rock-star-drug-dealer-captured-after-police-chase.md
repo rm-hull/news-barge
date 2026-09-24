@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- King Street
+- North Yorkshire
+- Scarborough CID
+people:
+- Alfie Thomlinson
+- Nathan Stone
+organisations:
+- York Crown Court
 ---
 
 This is the moment when a North Yorkshire drug dealer who claimed to live “like a rock star” was taken down by police.

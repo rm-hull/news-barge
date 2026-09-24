@@ -11,6 +11,27 @@ description: Nvidia's DLSS 5 has come a long way since its first reveal, and the
 image: https://cdn.mos.cms.futurecdn.net/qZyvPQuw5KefxdfbZCRWVT-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- GameRant
+people:
+- Grace Ashcroft
+- Isaiah Williams
+- Leon S. Kennedy
+organisations:
+- Bethesda
+- Birmingham City University
+- Capcom
+- DLSS 5
+- GPU
+- GeForce Now
+- Google News
+- Isaiah
+- NBA 2K27
+- Nvidia
+- PC Guide
+- TechRadar
+- Ubisoft
+- Visual Concepts
 ---
 
 ![Nvidia logo at Gamescom alongside DLSS 5 image of NBA 2K27](https://cdn.mos.cms.futurecdn.net/qZyvPQuw5KefxdfbZCRWVT.jpg) 

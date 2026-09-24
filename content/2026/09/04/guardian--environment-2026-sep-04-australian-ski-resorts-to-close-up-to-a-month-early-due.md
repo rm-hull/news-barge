@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Ben Lomond
+- Cabramurra
+- Charlotte Pass
+- El Niño
+- Falls Creek
+- Kosciuszko
+- Mount Baw Baw
+- Mount Buller
+- Mount Hotham
+- NSW
+- New South Wales
+- Pacific Ocean
+- Perisher
+- Selwyn
+- Tasman Sea
+- Tasmania
+- Thredbo
+- Victoria
+people:
+- Andrew Watkins
+- Josh Elliott
+organisations:
+- Bureau of Meteorology
+- El Niño
+- Monash University
+- Protect our Winters
+- Snow Resorts Australia
 ---
 
 Major Australian alpine resorts are closing their ski operations up to a month early after a winter that broke multiple records for heat with limited snow falls being washed away by rain.

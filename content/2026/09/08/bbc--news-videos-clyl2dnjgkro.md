@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- Sydney
+people: []
+organisations:
+- BBC
 ---
 
 # 'Good to have choice': Australians on opting out of social media algorithms

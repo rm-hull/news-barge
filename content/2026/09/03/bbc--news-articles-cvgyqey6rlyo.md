@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Cyprus
+- Estonia
+- Falklands
+- Farnham
+- Salisbury Plain
+- Sennybridge
+- UK
+- Ukraine
+- Wales
+- Wiltshire
+people:
+- Andy Burnham
+- Helen Whately
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Tan Singh Dhesi
+organisations:
+- 1st Battalion London Guards
+- British Army
+- Commons Defence Select Committee
+- Defence Investment Plan
+- Dip
+- Hankley Common
+- Labour
+- Ministry of Defence
+- MoD
+- Royal Tank Regiment
+- Treasury
 ---
 
 ![Soldiers of 1st Battalion London Guards take part in a training exercise on Hankley Common in Farnham](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ce6/live/dda514b0-a7c7-11f1-8174-fd95759f3bfe.jpg)

@@ -14,6 +14,35 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Diocese of Las Cruces
+- Las Cruces
+- Mount Cristo Rey
+- New Mexico
+- U.S.
+- United States
+people:
+- Christopher Serkin
+- Donald Trump
+- God
+- Jesus Christ
+- Lourdes Costa
+- Peter Baldacchino
+- Ruben Escandon
+- Urbici Sole
+organisations:
+- Border Patrol
+- Congress
+- Customs and Border Protection
+- Department of Homeland Security
+- Department of Justice
+- Institute for Constitutional Advocacy & Protection at Georgetown Law —
+- Justice Department
+- Mount Cristo Rey Restoration Committee
+- The Independent
+- Trump
+- U.S. Constitution
+- Vanderbilt University
 ---
 
 In 1933, Father Lourdes Costa had a vision for a cross on a mountaintop in southern New Mexico. Nine years later, Costa’s idea became reality. A 29-foot-tall limestone statue of Jesus Christ created by the sculptor Urbici Sole was installed at the top of Mount Cristo Rey, becoming a beacon for thousands of pilgrims every year, some who make the journey on their knees in prayer.

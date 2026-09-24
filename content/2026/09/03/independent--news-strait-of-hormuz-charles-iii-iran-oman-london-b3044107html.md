@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Buckingham Palace
+- Iran
+- Middle East
+- Oman
+- Strait of Hormuz
+- U.S.
+- Windsor Castle
+people:
+- Camilla
+- Charles III
+- Donald Trump
+- Elizabeth II
+- Sultan Haitham
+- Sultan Haitham bin Tarik
+- Sultan Qaboos bin Said
+organisations: []
 ---
 
 The Sultan of Oman will visit Britain for a three-day state visit next month as the Arab nation that controls the southern shore of the Strait of Hormuz comes under pressure from both the U.S. and Iran.

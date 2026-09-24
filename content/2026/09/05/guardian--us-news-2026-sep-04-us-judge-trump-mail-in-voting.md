@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/419d930eeb3d308871cfdee82f6bddf81c772990/7
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- North Carolina
+- Plaintiff States
+- US
+- White House
+people:
+- Donald Trump
+- Indira Talwani
+- Rob Bonta
+organisations:
+- ACLU
+- American Civil Liberties Union
+- Congress
+- Constitution
+- Postal Service
+- Trump Administration
+- U.S. Postal Service
+- US Postal Service
+- USPS
 ---
 
 A federal judge on Friday again blocked Donald Trump’s executive order to impose sweeping restrictions on mail-in voting, the latest in a legal back-and-forth playing out less than two months before election day.

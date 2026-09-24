@@ -13,6 +13,37 @@ image: https://static.independent.co.uk/2026/09/04/9/27/Screenshot_20260818_1154
 categories:
 - News & Politics
 - UK
+locations:
+- Evin Prison
+- Iran
+- Israel
+- Tehran
+- US
+people:
+- Abolhassan Montazer
+- Akbar Daneshvarkar
+- Babak Alipour
+- Bahar Saba
+- Donald Trump
+- Hamed Baniamerian
+- Maryam Rajavi
+- Mehtab
+- Mohammad Taghavi Sangdehi
+- Pooya Ghobadi
+- Reza Pahlavi
+- Vahid Baniamerian
+- Volker Turk
+organisations:
+- HRW
+- Human Rights Watch
+- IHR
+- Iran Human Rights
+- National Council of Resistance of Iran
+- PMOI
+- People’s Mujahideen Organisation of Iran
+- The Independent
+- Trump
+- UN
 ---
 
 Awaiting execution in one of Iran’s most notorious jails, Mehtab makes a simple - and urgent - plea to the outside world: do not let those on death row be forgotten in the smokescreen of war.

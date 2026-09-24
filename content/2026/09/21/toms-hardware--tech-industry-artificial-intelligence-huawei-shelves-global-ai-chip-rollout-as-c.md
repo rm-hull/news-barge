@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Science
 image: https://cdn.mos.cms.futurecdn.net/ANu9aBzADbe49opeKu4gnP-1786-80.jpg
+locations:
+- China
+people:
+- Anton Shilov
+- Eric Xu
+- Tom
+organisations:
+- AMD
+- CANN
+- Get Tom's Hardware
+- Google News
+- Huawei Connect
+- NPO
+- NPUs
+- Nvidia AI
+- Reuters
+- SMIC
+- SuperClusters
+- Tom’s Hardware
 ---
 
 ![Huawei Ascend AI chip](https://cdn.mos.cms.futurecdn.net/ANu9aBzADbe49opeKu4gnP.jpg)

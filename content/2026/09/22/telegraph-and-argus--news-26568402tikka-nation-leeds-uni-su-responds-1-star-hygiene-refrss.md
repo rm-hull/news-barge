@@ -14,6 +14,19 @@ categories:
 - Food & Cooking
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482446.jpg?type=og-image
+locations:
+- India
+- Leeds University Union
+- Lifton Place
+- UK
+people:
+- Sumit Jain
+organisations:
+- '## Site'
+- Google Maps
+- Tikka Nation
+- University of Leeds
+- West Yorkshire University Student's Union
 ---
 
 *(Image: Google Maps)*

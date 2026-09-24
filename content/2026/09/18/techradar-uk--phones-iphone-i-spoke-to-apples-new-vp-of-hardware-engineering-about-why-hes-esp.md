@@ -13,6 +13,23 @@ description: Ahead of the iPhone 18 Pro's official launch, we sat down with Appl
 image: https://cdn.mos.cms.futurecdn.net/rCPbtPQovB3h5FFr5Rb5YZ-1024-80.jpg
 categories:
 - Technology & Software
+locations:
+- Apple Park
+- StandBy
+people:
+- Axel
+- John Ternus
+- Tom Marieb
+organisations:
+- Apple Marieb
+- Axel Metz
+- Esquire
+- Galaxy
+- Google News
+- Hardware Engineering
+- London HQ
+- TechRadar
+- University of Warwick
 ---
 
 ![An unfolded iPhone Duo on display](https://cdn.mos.cms.futurecdn.net/rCPbtPQovB3h5FFr5Rb5YZ.jpg) 

@@ -12,6 +12,31 @@ image: https://images.euronews.com/articles/stories/09/89/08/20/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- China
+- Kurultai Kazakhstan
+- Russia
+people:
+- Aibek Dadebai
+- Erlan Karin
+- Indira Aubakirova
+- Kassym-Jomart Tokayev
+- Nurgazy Anuarbekov
+- Olzhas Bektenov
+organisations:
+- Adilet
+- Aq Zhol
+- Auyl
+- Constitution
+- Head of Government
+- Kazakh Central Election Commission
+- Kazakhstan Institute of Public Development
+- Kazakhstan People’s Council
+- Kurultai
+- Maqsut Narikbayev University
+- Nationwide Social Democratic Party
+- Presidential Administration
+- Respublica
 ---
 
 ## Kazakhstan implemented a major parliamentary reform, replacing the former bicameral Parliament with a new unicameral legislature, the Kurultai. The new Parliament consists of 145 seats, with five parties securing representation.

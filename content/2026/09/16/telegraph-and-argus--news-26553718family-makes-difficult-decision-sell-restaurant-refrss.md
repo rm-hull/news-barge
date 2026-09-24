@@ -14,6 +14,33 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birkenshaw
+- Bradford Road
+- Britain
+- Crosshills
+- Emmerdale
+- Europe
+- Halifax
+- Iran
+- The Square
+- UK
+- Ukraine
+people:
+- Burnham
+- Kay Panesar
+- Matthew Wolfenden
+- Nana
+- Naranjan Kalsi
+- Northowram
+- Raj Panesar
+- Sunny Pointon
+organisations:
+- '## Family'
+- Government
+- Nana's
+- Nana’s Restaurant
+- Nana’s Social Dining
 ---
 
 A RESTAURANT on a major road connecting Bradford with Halifax has shut - with its owner citing ongoing challenges facing the hospitality industry as the reason behind the closure.

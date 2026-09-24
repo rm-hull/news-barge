@@ -10,6 +10,27 @@ description: Researchers find two flaws in highly popular cameras
 image: https://cdn.mos.cms.futurecdn.net/JoaAAvDK3PPAJUwTSBoEM7-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Dahvid Schloss
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Alexa
+- C200
+- CVE-2026-15315
+- Google Home
+- Google News
+- Google Play Store
+- NVD
+- OSCP
+- Opswat
+- Represent Communications
+- Suzu Labs
+- TP-Link Tapo
+- TechRadar Pro
 ---
 
 ![TP-Link C200](https://cdn.mos.cms.futurecdn.net/JoaAAvDK3PPAJUwTSBoEM7.jpg) 

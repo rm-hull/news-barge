@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- MGPU Bridge
+people:
+- Marcelo Guibout
+- Stephen Warwick
+- Tom
+organisations:
+- Apple
+- DLSS 5
+- GPU
+- Get Tom's Hardware
+- GitHub
+- Google News
+- Nvidia
+- PC
+- ReShade
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![Cyberpunk DLSS overlay](https://cdn.mos.cms.futurecdn.net/4ZFtovYiMpEBjjieRS5K5j.jpg) 

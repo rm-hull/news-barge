@@ -17,6 +17,29 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Doncaster
+- Harrogate
+- Hillsborough
+- Leeds
+- North Yorkshire
+- Orgreave
+- Policing York
+- Selby
+- South
+- UK
+- West Yorkshire
+- Whitby
+people:
+- Andy Burnham
+- Jo Coles
+- Sarah Everard
+organisations:
+- Home Office
+- James Hardisty
+- North Yorkshire Combined Authority
+- Policing, Fire and Crime at York
 ---
 
 # Policing York isn’t like policing Bedale, place should be at the heart of police reform - Jo Coles

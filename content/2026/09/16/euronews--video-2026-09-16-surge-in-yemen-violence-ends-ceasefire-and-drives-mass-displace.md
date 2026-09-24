@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Taiz
+- Yemen
+people: []
+organisations:
+- OCHA
+- UN Office for the Coordination of Humanitarian Affairs
+- World Health Organization
 ---
 
 Yemen has seen a new wave of displacement as fighting between Houthi rebels and Saudi‑backed forces intensifies, forcing families from their homes in Taiz province. On Tuesday, 15 September, displaced people arrived at makeshift camps with few belongings, while others built shelters from wooden branches and plastic sacks.

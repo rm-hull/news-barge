@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Germany
+- Goole
+- Middlesbrough
+- Netherlands
+- North Yorkshire
+- York Racecourse
+people:
+- David Walker
+- Dylan Connell
+- Harry Caute
+- Kees Batist
+- Sam Smith
+organisations:
+- Audi Quattro
+- York Historic Vehicle
+- York Historic Vehicle Group
 ---
 
 *(Image: Dylan Connell)*

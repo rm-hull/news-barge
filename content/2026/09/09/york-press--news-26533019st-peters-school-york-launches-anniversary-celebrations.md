@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - History
+locations:
+- St Paulinus
+- St Peter’s
+- UK
+- York
+people:
+- Jeremy Walker
+- Mellor
+- Old Peterites
+- Phil Hardy
+organisations:
+- Centre for Excellence in Teaching and Learning
+- Harecroft Construction
+- Junior School
+- Senior School
+- Sixth Form Centre
+- St Peter
+- St Peter’s
+- St Peter’s School
+- The Rise Nursery
+- York Minster
+- York St Peter’s School
+- Yorkshire
 ---
 
 ## One of UK's oldest schools marks 1,400 years with celebrations in York

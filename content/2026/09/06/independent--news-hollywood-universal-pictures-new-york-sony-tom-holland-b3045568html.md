@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Hollywood
+- U.S.
+people:
+- Adam Wingard
+- Adria Arjona
+- Buddy
+- Casper Kelly
+- Christopher Nolan
+- Coyote
+- Mark Wahlberg
+- Tom Holland
+- Yahya Abdul-Mateen II
+organisations:
+- A24
+- Acme
+- Army
+- CinemaScore
+- Dino Movie
+- Ketchup Entertainment
+- No. 1
+- Odyssey
+- Paramount
+- Rentrak
+- Sony
+- Spider-Man
+- The Dog Stars
+- Warner Bros.
 ---
 
 “Spider-Man: Brand New Day” remained the No. 1 movie in theaters over the weekend, becoming just the second film this decade to top the box office for six straight weeks.

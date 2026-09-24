@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- County Durham
+- Hawthorn Terrace
+- West Cornforth
+people:
+- Alan Richard Roberts
+- Dad
+- Driver
+- Mark McKone
+- Neil Jones
+- Ralf Xhepa
+organisations:
+- A1
+- Durham Constabulary
+- Durham Crown Court
+- The Recorder
 ---
 
 *(Image: Durham Constabulary)*

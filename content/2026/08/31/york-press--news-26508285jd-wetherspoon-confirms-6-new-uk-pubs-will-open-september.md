@@ -12,6 +12,51 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Alicante-Elche Miguel Hernández Airport
+- Bath
+- Beaulieu Road
+- Bedford
+- Blackpool
+- Chambers Street
+- Cornwall
+- Edinburgh
+- Ferndown
+- Fletton Brick
+- Kempston
+- London
+- Marsh Leys Cottages
+- Piccadilly
+- Ringwood Road
+- Shaftesbury Avenue
+- Southampton
+- UK
+- Wetherspoon
+- William Chambers
+people:
+- Benjamin Franklin
+- Tim Martin
+organisations:
+- '## Wetherspoon'
+- '### Wetherspoon'
+- Belle Vue
+- CW2 8SD
+- Charing Cross
+- Coppenhall Lane
+- Cranborne Hundred
+- Crewe
+- Dibden Purlieu
+- Getty
+- JD Wetherspoon
+- Manchester Airport
+- Marshfield Bank Farm House
+- Piccadilly Hall
+- Red Gown
+- St Andrews University
+- Students’ Association
+- The Heath Hotel
+- The Trocadero
+- Woolstanwood
 ---
 
 *(Image: Getty)*

@@ -13,6 +13,13 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310675902.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Future Circular Collider
+- LUX-ZEPLIN
+- South Dakota
+people: []
+organisations:
+- Large Hadron Collider
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310675902.jpg?w=840)

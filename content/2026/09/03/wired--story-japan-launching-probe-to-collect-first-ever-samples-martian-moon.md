@@ -12,6 +12,24 @@ image: https://media.wired.com/photos/6a970a6fa68d74f184f30efc/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Earth
+- Japan
+- Mars
+- Mars’
+- Phobos
+- Ryugu
+- US
+people: []
+organisations:
+- Earth
+- JAXA
+- Japan Aerospace Exploration Agency
+- MMX
+- Mitsubishi Electric
+- NASA
+- Red Planet
+- Tanegashima Space Center
 ---
 
 A Mars probe from the Japan Aerospace Exploration Agency (JAXA) may answer some longstanding questions about the Red Planet and its moons. The mission—dubbed MMX for “Martian Moons eXploration”—aims to collect at least 10 grams of samples from Phobos, one of two moons orbiting the planet, and if successful, these will be the first rocks from a Martian moon ever brought to Earth.

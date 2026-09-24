@@ -12,6 +12,17 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21479877.jpg?type=og-image
+locations:
+- England
+- Hunmanby
+- UK
+people:
+- David Thompson
+- Jenni Ashwood
+organisations:
+- GI
+- Spirit of Yorkshire
+- Spirit of Yorkshire Distillery
 ---
 
 *(Image: Supplied)*

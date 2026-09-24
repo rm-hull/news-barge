@@ -16,6 +16,31 @@ categories:
 - True Crime
 - Law & Justice
 image: https://www.thetelegraphandargus.co.uk/resources/images/12049942.jpg?type=og-image
+locations:
+- Bradford
+- Doncaster
+- Fairfax Avenue
+- Fairgrey Close
+- Harrogate
+- Manchester Road
+- Spain
+- Spring Mill Street
+- Wright Business Park
+people:
+- Ahmed Nadim
+- Equalityre
+- Joseph Millington
+- Ripon
+- Stuart Bedford
+- Vicky Bedford
+organisations:
+- '![]()Fire'
+- .)* Equalityre
+- Bradford Crown Court
+- Companies House
+- Environment Agency
+- Equalityre Limited
+- Licenced Tyre Disposals
 ---
 
 Lawyers pursuing legal action against two companies involved in an illegal tyre storage site in Bradford that caught fire and burned for almost three weeks say they have tried and failed to make contact with them.

@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- México
+- U.S.
+people:
+- Redditor
+- Tom
+organisations:
+- Eneba
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Reddit
+- Redditor
+- Tom’s Hardware
+- Ultimate
+- Xbox Game Pass
+- Zhiye Liu
 ---
 
 ![Xbox Game Pass](https://cdn.mos.cms.futurecdn.net/EaS6y6QBRNAjF38G5vBGV5.jpg) 

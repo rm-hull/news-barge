@@ -13,6 +13,13 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Amstor
+- Ukraine
+- Zaporizhzhia**
+people: []
+organisations:
+- State Emergency Service
 ---
 
 The **Amstor shopping mall**, on the city’s right bank, was struck by Russian drones late on Thursday, 17 September. Emergency service footage showed firefighters battling flames across the complex, which Ukraine's State Emergency Service later described as***“practically destroyed”***. Rescue operations were completed on Friday morning.

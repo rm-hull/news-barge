@@ -11,6 +11,28 @@ image: https://i.guim.co.uk/img/media/c0dd2ae7e5932bb0877575ffd8448d3b061d544f/9
 categories:
 - UK
 - News & Politics
+locations:
+- Algeria
+- Ceuta
+- Europe
+- Israel
+- Kremlin
+- Morocco
+- Rabat
+- Russia
+- Spain
+people:
+- Alberto Núñez Feijóo
+- Gideon Sa’ar
+- Pedro Sánchez
+- Santiago Abascal
+organisations:
+- Cadena Ser
+- EU
+- PP
+- People
+- RBC
+- Vox
 ---
 
 Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last month’s massive border crossing into Ceuta but accused Israel and Russia of spreading disinformation.

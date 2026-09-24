@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Belfast
+- England
+- Europe
+- Gatwick
+- Heathrow
+- Ireland
+- Prestwick
+- Scotland
+- Swanwick
+- UK
+people:
+- Easyjet
+- Heidi Alexander
+- Martin Rolfe
+- Steve Heapy
+organisations:
+- CAA
+- Cirium
+- Civil Aviation Authority
+- Jet2
+- Nats
+- Ryanair
 ---
 
 ![A man and a woman roll pink and blue suitcases past a large "Departures" sign at Belfast airport.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg)

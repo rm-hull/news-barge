@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Ripon
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # Body of man found in Ripon canal by member of public as police appeal to find next of kin

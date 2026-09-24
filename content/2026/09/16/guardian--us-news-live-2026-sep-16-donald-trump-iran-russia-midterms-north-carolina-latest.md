@@ -13,6 +13,75 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Capitol Hill
+- Detroit
+- District of Columbia
+- Florida
+- Gastonia
+- Gaza
+- Illinois
+- Iowa
+- Iran
+- Iraq
+- Israel
+- Miami
+- Michigan
+- Mississippi
+- New York
+- North Carolina
+- South Africa
+- Tar Heel
+- Texas
+- US House
+- United States
+- Washington
+- White House
+people:
+- Abdul El-Sayed
+- Biden
+- Brian Mast
+- Casey Means
+- Chris Klomp
+- Donald Trump
+- Janette Nesheiwat
+- Jerome Powell
+- Joyce Beatty
+- Kevin Warsh
+- Marco Rubio
+- Means’
+- Michael Whatley
+- Mike Rogers
+- Nicole Saphier
+- Rachel Savage
+- Robert F Kennedy Jr
+- Roy Cooper
+- Ryan Raybould
+- Scott Delaney
+- Seth Moulton
+- Todd Blanche
+organisations:
+- AP
+- Center for Medicare
+- Congress
+- Constitution
+- Department of Health and Human Services
+- Federal Reserve
+- G20
+- GOP
+- Grant Witness
+- Guardian
+- HHS
+- House Foreign Affairs Committee
+- Kennedy Center
+- Lost Funds
+- Mast
+- Northern District of Texas
+- Republican National Committee
+- States United Democracy Center
+- Trump
+- US Senate
 ---
 
 For a third time, the US House has voted to end the war in Iran, approving a war powers resolution that would halt president Donald Trump’s ability to continue military action without congressional approval.

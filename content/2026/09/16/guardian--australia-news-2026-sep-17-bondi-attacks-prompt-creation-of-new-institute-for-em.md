@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Bondi Beach
+- Bondi Junction
+- Manchester Arena
+- NSW
+- NSW,” Park
+- New South Wales
+- Randwick
+- Sydney
+- Westfield Bondi Junction
+people:
+- Burns
+- Guy Henry
+- Ryan Park
+organisations:
+- ACT
+- Agency for Clinical Innovation’s Institute of Trauma and Injury Management
+- NSW Institute for Paediatric Trauma
+- Newborn and Paediatric Emergency Transport Service –
+- State Emergency Service
+- Sydney Children’s
+- Sydney Children’s Hospitals Foundation
+- Sydney Children’s Hospitals Network
+- Westmead
 ---
 
 A new institute dedicated to improving emergency medical care for severely injured children will be established in New South Wales following recent high-profile trauma events in the state.

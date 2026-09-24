@@ -15,6 +15,23 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Buttertubs Pass
+- Fleet Moss Road
+- Keld
+- Kidstone Pass
+- Kirkby Stephen
+- North Yorkshire
+- Swaledale
+- The Stang
+- Yorkshire Dales
+people:
+- Annabel Wilkinson
+- Jo Foster
+- Peter Lacey
+organisations:
+- North Yorkshire Council
+- School Transport Action Group
 ---
 
 # Major changes proposed to North Yorkshire Council's controversial home-to-school transport policy

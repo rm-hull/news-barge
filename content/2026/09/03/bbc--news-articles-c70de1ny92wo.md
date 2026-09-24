@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- Britain
+- Cambridge University Hospital
+- Covid-19
+- Doncaster
+- NHS England
+- Sheffield
+- UK
+- US
+people:
+- '"** Ibbie'
+- Alice Aylett Roberts
+- Andrea
+- Catherine Falconer
+- Emma Barnett
+- Jamie Oliver
+- John Simpson
+- Julian Hamilton-Shield
+- Keith Godfrey
+- Ken Ong
+- Prof Hamilton-Shield
+- Prof Ong
+- Simon Kenny
+- Tessa Saunders
+organisations:
+- BBC
+- Bristol Royal Hospital for Children
+- NHS
+- National Institute for Health and Care Excellence
+- Sheffield CEW
+- TV
+- UK Health Security Agency
+- University of Leeds
+- University of Southampton
 ---
 
 ![Alice Aylett Roberts](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/51c9/live/4b073ae0-a6c1-11f1-b109-879e35c24276.png)

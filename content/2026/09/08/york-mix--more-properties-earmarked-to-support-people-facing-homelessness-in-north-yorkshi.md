@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- England
+- North Yorkshire
+people:
+- Simon Myers
+organisations:
+- Government
+- North Yorkshire Council
 ---
 
 More households facing homelessness are set to benefit from plans to expand the delivery of temporary accommodation across North Yorkshire by almost 25 per cent.

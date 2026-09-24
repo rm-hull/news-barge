@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Algeria
+- Burkina Faso
+- Dosso
+- Mali
+- Moscow
+- Niamey
+- Niger
+- Plateau
+- Russia
+- Sahel
+- Soufan Center
+- Turkey
+- West Africa
+people:
+- Abdourahamane Tchiani
+- Héni Nsaibia
+- Viktor Voropayev
+- Wassim Nasr
+organisations:
+- AES
+- Africa Corps
+- Alliance of Sahel States
+- Armed Conflict Location and Event Data
+- Defense Ministry
+- Diori Hamani International Airport
+- Junta
+- Soufan Center
 ---
 
 Niger’s capital of Niamey on Sunday appeared calm with normalcy restored after a day of unrest as young soldiers staged a mutiny that threatened the ruling military junta before being repelled by loyalist forces aided by Russian troops.

@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Earth
+- India
+- Kenya.
+- Moon
+- Narok County
+- New Delhi
+- Tokyo
+people:
+- Eugene Hoshiko
+- Martin Elvis
+- Xi Jinping
+organisations:
+- CfA
+- Frontiers in Space Technology
+- Harvard–Smithsonian Center for Astrophysics
+- ISS
+- International Space Station
+- Shimizu Corporation
+- Sun
 ---
 
 ## Despite recent breakthroughs mapping the lunar surface to analyse the feasibility of building lunar cities, a new study pours cold water on the prospect of permanent colonisation.

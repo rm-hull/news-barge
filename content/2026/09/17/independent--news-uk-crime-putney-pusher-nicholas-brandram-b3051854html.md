@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Afghanistan
+- Bosnia
+- Chiswick
+- Citywealth
+- Greeceand Denmark
+- Iraq
+- London
+- Putney Bridge
+- UK
+- USA
+people:
+- Katherine
+- Nicholas Brandram
+- Nick
+- Putney
+- Victoria
+organisations:
+- 988 Suicide and Crisis Lifeline
+- British Army
+- CCTV
+- Met Police
+- Samaritans
+- The Independent
 ---
 
 The family of Nicholas Brandram have insisted he was not the “Putney pusher” in a damning statement claiming “immense pressure” caused by the police contributed to his death.

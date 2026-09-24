@@ -11,6 +11,17 @@ image: https://static.independent.co.uk/2026/09/09/18/51/GettyImages-2294363356.
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Joint Base Andrews
+- Marine One
+- Qatar
+- White House
+people:
+- Donald Trump
+organisations:
+- Air Force One
+- Joint Base Andrews
 ---
 
 An emergency inflatable slide deployed from Air Force One on Wednesday afternoon as President Donald Trump waited to board the aircraft at Joint Base Andrews.

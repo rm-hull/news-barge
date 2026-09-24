@@ -15,6 +15,20 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0MDRlODBmLTU3YWEtNDBhNi04NGNlLTlmMzc2YTNjMTU5YTpkNmYzZTVlNS01YWM0LTRkNjUtYTk2MC02Y2IwM2ZlZWQ4NDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bradford Magistrates Court
+- Dalton Terrace
+- Keighley
+people:
+- Ibrar Hussain
+- Imran Hussain
+- Imran Khan
+- Khalid Bashir
+organisations:
+- Aireside Private Hire
+- Bradford Council
+- Bradford Magistrates Court
+- Keighley
 ---
 
 # Private hire driver carried out 205 jobs without valid licence or insurance

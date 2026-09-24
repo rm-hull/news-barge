@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '#### Bellfarm Avenue'
+- Bellfarm Avenue**
+- Huntington Road
+- York
+people: []
+organisations:
+- Email Nabiel Galab
+- North Yorkshire Police
+- Red Vauxhall Corsa
+- Via
 ---
 
 Police are investigating after a car was vandalised on a York street.

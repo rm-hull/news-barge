@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Belgrade
+- Bosnia and Herzegovina
+- Bosnia-Herzegovina
+- Butcher of Bosnia
+- Church of St. Luke
+- Europe
+- Netherlands
+- Republika Srpska
+- Sarajevo
+- Serbia
+- Srebrenica
+- St Luka
+- St Lukas
+- The Hague
+people:
+- Bratislav Gašić
+- Daniella Peled
+- Nenad Vujić
+- Patriarch Porfirije
+- Ratko Mladic
+- Ratko Mladić
+- Ratko Mladić.
+- Zdravka Gvozdjar
+organisations:
+- BBC
+- EU
+- Institute of War and Peace Reporting NGO
+- Justice
+- Partizan Belgrade
+- Red Star Belgrade
+- Reuters
+- Serbian Orthodox Church
+- UN
 ---
 
 ![An Orthodox priest blesses the coffin of late Bosnian Serb military leader Ratko Mladic during a public memorial on the day of his funeral ceremony at St Lukas church in Belgrade, on September 7, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1cbf/live/7beeaca0-aac3-11f1-9bcd-4de40c4158ea.jpg)

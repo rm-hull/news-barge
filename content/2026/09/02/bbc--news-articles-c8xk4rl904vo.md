@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BBC
+- US
+people:
+- Asha Daniels
+- Fernando L Aenlle-Rocha
+- Lizzo
+- Melissa Viviane Jefferson
+organisations:
+- BBC Newsbeat
+- Big Grrrl Big Touring
+- Big Grrrl Big Touring Inc
+- Daniels'
+- Instagram
+- Lizzo's
+- Supreme Court
 ---
 
 ![Lizzo sits on a white sofa against an orange curtain and faces out to a crowd with a smile. She wears a white shirt with a pinstrip corset style dress and black tie. Her black hair sits on her shoulders.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg)

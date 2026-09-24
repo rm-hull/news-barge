@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/f3047c0f2fb117dfbebef26c857045085c0b22e8/17_0_897_718/master/897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=486abae4f64c7418a060329cd6505cc2
+locations:
+- Brazil
+- Brooklyn
+- Caracas
+- Cuba
+- Dallas
+- Latin America
+- Lotte New York Palace
+- Manhattan
+- New York
+- Oslo
+- Panama
+- Trump Tower
+- US
+- Venezuela
+- Washington
+- White House
+people:
+- Barack Obama
+- Delcy Rodríguez
+- Donald Trump
+- Flávio Bolsonaro
+- Luiz Inácio Lula da Silva
+- Maga
+- Marco Rubio
+- María Corina Machado
+- Nicolás Maduro
+- Oliver Blanco
+- Orlando Pérez
+- Rodriguez
+- Stephen Miller
+- Trump*,”* Pérez
+- Washington
+organisations:
+- Instagram
+- Trump
+- UN
+- University of North Texas
 ---
 
 Venezuela’s interim president, Delcy Rodríguez, has celebrated a “historic” meeting with Donald Trump in New York, posing for a smiley photo with the US president less than nine months after he ordered the abduction of her boss, Nicolás Maduro.

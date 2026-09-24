@@ -14,6 +14,60 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Asia
+- England
+- Europe
+- France
+- Germany
+- Great Britain
+- UK
+- US
+people:
+- Emmanuel Moulin
+- Ian Futcher
+- Jon Greer
+- Julia Kollewe
+- Martin Lewis
+- Mike Bell
+- Neil Wilson
+- Roland Lescure
+- Stephen Evans
+- Steve Webb
+- Susannah Streeter
+- Torsten Bell
+organisations:
+- AI
+- Aldi
+- Asda
+- BMO
+- Bank of England
+- Bank of France
+- British Retail Consortium
+- Budget
+- CAC40
+- Co-op
+- Fed
+- Government
+- L&W
+- LCP
+- Learning and Work Institute
+- Lidl
+- Marks & Spencer
+- Morrisons
+- New State Pension
+- Numerator
+- Ocado
+- Quilter
+- RBC BlueBay
+- Sainsbury’s
+- SaxoUK
+- State Pension
+- Tesco
+- Treasuries
+- US Treasury
+- Waitrose
+- Worldpanel
 ---
 
 State pension set to rise by 3.9% after wage growth data

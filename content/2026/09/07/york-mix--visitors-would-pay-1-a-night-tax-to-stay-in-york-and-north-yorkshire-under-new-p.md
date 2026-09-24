@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- York
+people:
+- Brendan Paddison
+- David Skaith
+organisations:
+- '#### Report'
+- :** Powers
+- B&B
+- North Yorkshire
+- York St John University
+- York and North Yorkshire Policy Lab
 ---
 
 Visitors staying overnight in York and North Yorkshire could soon be charged a £1-a-night tourist tax under new proposals backed by the region’s Mayor.

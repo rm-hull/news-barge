@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Barkerend Road
+- Bradford Moor
+- Bradford Moor Park
+- Cupra Leon
+- Killinghall Road
+people:
+- Cllr Iqbal
+- Eugen Matta
+- Lib Dem
+- Riaz Ahmed
+- Zafar Iqbal
+organisations:
+- Bradford Moor
+- CCTV
+- Cupra Leon
+- Labour
+- LiveChat
+- Major Collision Enquiry Team
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

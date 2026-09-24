@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brighton
+- Cheshire
+- Culcheth
+- Downing Street
+- England
+- Greater Manchester
+people:
+- Andy Burnham
+- Ed Davey
+- Eileen
+- Kemi Badenoch
+- Roy
+- Zack Polanski
+organisations:
+- Burnham
+- Green
+- Labour
+- TUC Congress
+- Times
 ---
 
 ![Andy Burnham hugs his parents, Eileen and Roy, after he was selected as the Labour candidate to become the mayor of Greater Manchester in September 2026. They are standing in front of a red banner reading "Labour North West".](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a0ea/live/9157d400-b03a-11f1-9ae0-e316eeb4632d.jpg)

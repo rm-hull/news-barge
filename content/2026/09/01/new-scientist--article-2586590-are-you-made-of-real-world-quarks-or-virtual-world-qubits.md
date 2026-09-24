@@ -12,6 +12,26 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309447888.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Buckingham Palace
+- Earth
+- France-Switzerland
+- Galactic Empire
+- Scotland
+- UK
+people:
+- Albert Einstein
+- Astronomer Royal
+- Catherine Heymans
+- Darth Vader
+- David Chalmers
+- Elon Musk
+- Mum
+organisations:
+- AI
+- Bloomsbury
+- CERN
+- University of Edinburgh
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309447888.jpg?w=840)

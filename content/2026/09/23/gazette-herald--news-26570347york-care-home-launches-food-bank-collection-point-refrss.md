@@ -13,6 +13,15 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21485246.jpg?type=og-image
+locations:
+- Bishopthorpe Road
+- York
+people:
+- Ella Bond
+organisations:
+- Chocolate Works
+- York Food Bank
+- York Foodbank
 ---
 
 *(Image: Supplied)*

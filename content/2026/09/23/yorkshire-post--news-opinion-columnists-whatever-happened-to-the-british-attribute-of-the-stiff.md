@@ -14,6 +14,25 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQwZjI3ZGIxLTdiMzgtNDY4Mi1iZjUwLTNjOWUyMGUzNTZhYTo0NGQzNDliNC1hOWMzLTQzMjYtOTE3Yy0xMzFmNTY3ZmQwMjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- London
+- Princess of Wales
+- United States
+people:
+- Diana
+- Franklin D. Roosevelt
+- Husband
+- Jacob Rees-Mogg
+- Jonathan Brady
+- Sarah Todd
+- Sid James
+- Sidney Ruff-Diamond
+- Winston Churchill
+organisations:
+- BBC Broadcasting House
+- Disney
+- House of Commons
+- Leeds United
 ---
 
 # Whatever happened to the British attribute of the stiff upper lip? - Sarah Todd

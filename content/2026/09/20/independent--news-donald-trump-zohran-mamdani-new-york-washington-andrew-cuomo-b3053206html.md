@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/02/17/Education_AI_Ban_New_York_381_7.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gracie Mansion
+- New York City
+- White House
+people:
+- Andrew Cuomo
+- Anna Bahr
+- Donald Trump
+- Gerald Ford
+- Zohran Mamdani
+organisations:
+- General Assembly
+- New York Daily News
+- U.N.
 ---
 
 President Donald Trump will meet with New York City Mayor Zohran Mamdani when Trump travels to the city for the upcoming U.N. General Assembly.

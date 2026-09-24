@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21481265.jpg?type=og-image
+locations:
+- 1a Windsor Road
+- London
+- North East
+- North-east
+- Redcar
+- Saltburn
+- Skelton
+- Surf Shop
+- Teesside
+- Windsor Road
+people:
+- Katy Gettings
+- Laura McKeown
+- Snapp
+organisations:
+- Hours Social
+- Katy Does Media
+- Snapp'd Studio
+- Snapp’d Studio
 ---
 
 *(Image: Snapp'd Studio)*

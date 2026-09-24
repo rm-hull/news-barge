@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Sports
 - Society & Culture
+locations:
+- City of York AC
+- Middlesbrough
+- Teesside
+people:
+- Abby Codling
+- Adam Theaker
+- Finn Brodie
+- Fred Flinstone
+- Helen Carr
+- Jessica Robert-Dover
+- Jessica Robertson-Dover
+- Matthew Blades
+- Max Creasey
+- Paul Waugh
+- Ruth Cole
+- Stuart Boulton
+- Tom Clough
+organisations:
+- Cleveland Police
+- Mandale
+- Middlesbrough Athletic Club
+- Teessiders
 ---
 
 Thousands of runners helped show the "true spirit of Teesside" as they filled the streets of Middlesbrough on Sunday for the town’s annual 10K, the race winner said.

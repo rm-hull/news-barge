@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- England
+- Yorkshire
+people: []
+organisations:
+- Richmond Motor Club
+- Scott Trial
+- Yorkshire Dales National Park Authority
 ---
 
 **There are proposals to reduce the impact of an off-road motorcycling event, which attracts bikers from across the globe, in the Yorkshire Dales.**

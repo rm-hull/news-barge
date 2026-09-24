@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Law & Justice
+locations: []
+people:
+- Ana Faguy
+- Lindsay Clancy
+organisations:
+- BBC
 ---
 
 # Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror

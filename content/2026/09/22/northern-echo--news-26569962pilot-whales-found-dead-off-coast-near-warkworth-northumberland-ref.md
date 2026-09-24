@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21470976.jpg?type=og-image
+locations:
+- Coquet Island
+- North East
+- Northumberland
+- Ravenseat
+- River Thames
+- Warkworth
+people:
+- Amanda Owen
+- Miles
+- Reuben
+organisations:
+- BDMLR
+- British Divers Marine Life Rescue
+- Essex SkyShots
+- Honey Badger’
 ---
 
 *(Image: Essex SkyShots)*

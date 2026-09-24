@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Forest
+- North Yorkshire
+- Sandy Lane
+- Sutton
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- Yorkshire Water
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

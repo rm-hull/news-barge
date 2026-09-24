@@ -12,6 +12,14 @@ image: https://static.independent.co.uk/2026/08/29/17/Trump_88761.jpg?width=1200
 categories:
 - News & Politics
 - UK
+locations:
+- National Mall
+- Rio Run
+- White House
+people:
+- Donald Trump
+organisations:
+- Trump Savings Tycoon
 ---
 
 The White House website on Thursday unveiled Arcade, a collection of five low-resolution video games that promote different aspects of President Donald Trump's agenda.

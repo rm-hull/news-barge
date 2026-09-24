@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/05/firefighter-istock.webp
+locations:
+- '#### Haxby Road'
+- Haxby Road
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Five bins were set on fire on a York road early this morning (Wednesday).

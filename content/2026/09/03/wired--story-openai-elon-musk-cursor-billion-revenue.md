@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- Claude
+- Cursor
+- GitHub Copilot
+- Greg Brockman
+- Jared Kaplan
+- Michael Truell
+- Musk
+- Sam Altman
+- Thibault Sottiaux
+- Tom Brown
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- ChatGPT-maker
+- Codex
+- Cognition
+- Cursor
+- Elon Musk
+- Maxwell Zeff’sModel Behavior
+- Microsoft
+- Musk’s SpaceX
+- OpenAI
+- Truell
+- WIRED
+- Windsurf
+- xAI
 ---
 
 In a late-night blog post last Friday, OpenAI said it would wind down its partnership with Cursor, the startup behind one of the most popular AI coding tools on the market. The reason OpenAI gave for the decision is effectively that it can’t trust Elon Musk, whose company SpaceX recently acquired Cursor in a $60 billion deal.

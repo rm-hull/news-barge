@@ -13,6 +13,23 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311215204.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- AI
+- Alabama
+people:
+- AI
+- Eric Harshbarger
+- Fermat
+- Paul Meyer
+- Sébastien Bubeck
+organisations:
+- AI
+- Astra
+- Auburn University
+- ChatGPT
+- Google
+- New Scientist
+- OpenAI
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311215204.jpg?w=840)

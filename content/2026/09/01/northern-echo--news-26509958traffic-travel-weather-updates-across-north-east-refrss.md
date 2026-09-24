@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '####'
+- Bishop Auckland
+- County Durham
+- Darlington
+- North East
+- 'North East ###'
+- Northern Rail
+- Northumberland
+- Pennines
+- Teesside
+- Tyne and Wear Metro
+people:
+- STEVEN CURTIS
+organisations:
+- A1
+- A66
+- Cross Country
+- LNER
+- Met Office
+- Newcastle Airports
+- The Northern Echo
+- TransPennine
 ---
 
 *(Image: STEVEN CURTIS)*

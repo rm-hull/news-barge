@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Brookwood
+- Florida
+- Georgia
+- Gray Court
+- Jonesboro
+- Pawleys Island
+- Simpsonville
+- South Carolina
+- US
+people:
+- Brookwood
+- Bryan Jones
+- God
+- JC Thompson
+- Jerry Sidell
+- Matt Plunkett
+- Satan
+- Warren Spence Perry
+organisations:
+- Atlanta Journal-Constitution
+- Brookwood
+- Guardian
+- MinistryWatch
+- Rusty Bucket Music
+- SBC
+- Southern Baptist Convention
+- WCIV
 ---
 
 A registered sex offender who was sentenced to prison in the 1980s after he told authorities that he had molested several boys whom he met through his religious work with Christian youth in Georgia was later allowed to participate for decades in ministry at a South Carolina church.

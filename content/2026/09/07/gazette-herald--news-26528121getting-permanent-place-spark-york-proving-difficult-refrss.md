@@ -13,6 +13,34 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Covid
+- East Yorkshire
+- Huntington
+- North Yorkshire
+- Piccadilly
+- Spark
+- Ukraine
+- York
+people:
+- Gabriel Macarthur
+- Malkani Wijesinghe
+- Mike Brand
+- Ms Wijesinghe
+- Pablo
+- Sam Leach
+- Tom Kerrige
+organisations:
+- CIC
+- City of York Council
+- Clucking Oinks
+- Elephant Feast
+- Gabriel Macarthur
+- Michelin Guide
+- National Insurance
+- Piccadilly
+- Spark York
+- Tricolour
 ---
 
 *Journalist Gabriel Macarthur has taken a look at the challenges facing the business incubator Spark York in helping traders take the next step towards independent high street success.*

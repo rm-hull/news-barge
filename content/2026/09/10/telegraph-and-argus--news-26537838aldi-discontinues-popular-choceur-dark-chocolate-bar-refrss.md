@@ -14,6 +14,28 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- AldiUK
+- Choceur
+people:
+- Aldi
+- Patrick Glover
+organisations:
+- Aldi Stores UK
+- Aldi UK
+- Caramel
+- Choceur Dark Chocolate
+- Cookies & Cream
+- Dark Hazelnut
+- Facebook
+- McDonald's
+- Milk Almond One
+- Mini Tablet
+- Moser Roth Vegan Blonde
+- Nestle
+- Peanut Butter
+- Savour Bakes Water Biscuits
+- Twitter
 ---
 
 *(Image: Patrick Glover)*

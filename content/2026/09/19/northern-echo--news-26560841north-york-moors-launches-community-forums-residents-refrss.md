@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21471114.jpg?type=og-image
+locations:
+- Danby Lodge National Park Centre
+- Helmsley
+- National Park
+- North Yorkshire
+- Northern and Coastal
+- Old Vicarage
+- Southern Area
+people:
+- Tom Hind
+organisations:
+- National Park Authority
+- North York Moors
+- North York Moors National Park Authority
+- Northern and Coastal Area
+- Western Area
 ---
 
 *(Image: Ebor Images)*

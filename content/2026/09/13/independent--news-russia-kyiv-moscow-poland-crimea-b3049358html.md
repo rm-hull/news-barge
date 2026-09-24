@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Black Sea
+- Crimea
+- Krasnodar
+- Moscow
+- Nizhnekamsk
+- Odesa
+- Poland
+- Russia
+- Slavyansk-on-Kuban
+- Tatarstan
+- Ukraine
+- Yahodyn-Dorohusk
+people:
+- Kyiv
+- Oleh Kiper
+- Radmir Belyaev
+- Rustam Minnikhanov
+- Serhii Lysak
+organisations:
+- DIU
+- Defense Intelligence of Ukraine
+- Kyiv
 ---
 
 Civilians were killed and injured overnight as Russia and Ukraine continued to attack each other with waves of drones.

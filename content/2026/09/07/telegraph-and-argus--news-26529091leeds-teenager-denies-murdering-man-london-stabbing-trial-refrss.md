@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Abbey Orchard Street
+- Leeds
+- London King’s Cross
+- Old Bailey
+- Snapchat
+- Temperance Hall
+- Westminster
+people:
+- Farmanullah Sherzad
+- Lisa Wilding KC
+- Pixabay
+- Sulaiman Tajzai
+organisations:
+- CCTV
 ---
 
 *(Image: Pixabay)*

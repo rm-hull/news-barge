@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Craig Hale
+organisations:
+- AI
+- Craig’s
+- Google News
+- New York Fed
+- TechRadar Pro
 ---
 
 ![person using an AI PC to code](https://cdn.mos.cms.futurecdn.net/YAfTZpUerneYbaoSzWniHV.jpg) 

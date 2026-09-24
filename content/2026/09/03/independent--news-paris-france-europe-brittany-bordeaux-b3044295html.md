@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bordeaux
+- Brittany
+- Corsica
+- Europe
+- France
+- Italy
+- Spain
+- United Kingdom
+people:
+- Monique Barbut
+organisations:
+- AP
+- Copernicus Climate Change Service
+- European Union
+- Meteo France
 ---
 
 France recorded its hottest summer since measurements began more than a century ago, the environment minister said on Thursday.

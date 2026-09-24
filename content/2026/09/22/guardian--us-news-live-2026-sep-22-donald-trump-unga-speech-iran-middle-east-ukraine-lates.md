@@ -12,6 +12,96 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/a25b42e2be033e6f69d3a2acfe088ab740d153fb/1361_323_5481_4385/master/5481.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c098618cf3a8c186c77232090f55d289
+locations:
+- Austin
+- Bahrain
+- Belarus
+- Camp East Montana ICE
+- Canada
+- El Paso
+- Florida
+- Fort Bliss
+- Gracie Mansion
+- Greenland
+- Gulf
+- Iowa
+- Iran
+- Israel
+- Kentucky
+- Kuwait
+- Louisiana
+- Middle East
+- Minsk
+- New Hampshire
+- New York
+- Oman
+- Qatar
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Texas
+- US
+- US-Mexico
+- Ukraine
+- United Arab Emirates
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Andy Burnham
+- Ariana Baio
+- Delcy Rodriguez
+- Donald Trump
+- Ed Koch
+- Emmanuel Macron
+- Gracie Mansion
+- Hello
+- Jens-Frederik Nielsen
+- Jim Acosta
+- John Kennedy
+- José Olivares
+- José Olivares Donald Trump
+- Lauren Boebert
+- Mette Frederiksen
+- Rand Paul
+- Rick Scott
+- Robert Tait
+- Ronald Reagan
+- Ted Cruz
+- Thomas Massie
+- Trumpis
+- Veronica Escobar
+- Volodymyr Zelenskyy
+- Wilber Rafael Garcés Pérez
+- Zohran Mamdani
+organisations:
+- ABC
+- CBS
+- CNN
+- Congress
+- Defense Department
+- Fox News
+- Guardian
+- House
+- ICE
+- Immigration and Customs Enforcement
+- MS Now
+- NBC
+- New York Times
+- Politico
+- Potash
+- Secret Service
+- The Washington Post
+- Trump Administration
+- Trump TV
+- Truth Social
+- UN General Assembly
+- UNGA
+- US Geological Survey
+- US TV
+- United Nations
+- Washington Post
 ---
 
 Trump set to address UNGA with Middle East and Ukraine on agenda – US politics live

@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Coal Drops Square
+- Holgate
+- National Railway Museum
+- UK
+- Western Station
+- Wilton Rise
+- YOUR
+- York Central
+- York Minster
+- York Station
+people: []
+organisations:
+- Arlington Real Estate
+- Central Hall
+- City of York Council
+- Government Hub
+- McLaren Property
+- Network Rail and Homes England
+- Planning Committee
+- Public Notice Portal
+- York Central Ltd
 ---
 
 ### What is the Public Notice Portal?

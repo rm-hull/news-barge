@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- A1
+- Bedale
+- Masham
+- Middleham Bridge
+- North Yorkshire
+- Wensleydale
+- Yorkshire Dales Why Leyburn
+people:
+- Carl Les
+- Cllr Les
+organisations:
+- North Yorkshire Council
 ---
 
 A North Yorkshire bridge has been closed indefinitely after being struck by a heavy goods vehicle just hours before the Tour of Britain cycle race is due to visit the area.

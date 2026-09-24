@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cyprus
+- Girne
+- Kyrenia
+- Republic of Turkey
+- Tasucu
+people:
+- Filo Denizcilik
+- Unal Ustel
+organisations:
+- Filo Denizcilik
+- Filo Jet
+- Kibris
 ---
 
 The remains of two more people have been recovered from the wreck of a passenger ferry that sank off the coast of Cyprus, the leader of the island’s northern territory said Friday.

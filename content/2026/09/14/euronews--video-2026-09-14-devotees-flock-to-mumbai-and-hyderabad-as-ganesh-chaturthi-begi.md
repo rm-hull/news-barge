@@ -13,6 +13,20 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Anant Chaturdashi
+- Bhadrapada
+- Hyderabad
+- Khairatabad
+- Mumbai
+- Telangana
+people:
+- Andhericha Raja
+- Ganesha
+- Lalbaugcha Raja
+- Panchamukha Sankatahara Maha Ganapati
+organisations:
+- GSB Seva Mandal
 ---
 
 In Mumbai, markets filled with devotees buying Ganesha idols, flowers, sweets and other offerings for the festival dedicated to the elephant-headed god of wisdom and prosperity. Smaller idols were carried home, while larger ones were taken through the streets on decorated trucks, accompanied by drummers and chanting devotees.

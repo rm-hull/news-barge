@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Haxby
+- Landing Lane
+- The Wier
+- York
+people:
+- Vollans
+organisations:
+- City of York Council
+- Ms Vollans
+- York Council
 ---
 
 # Plans for new dog walking spot in York submitted

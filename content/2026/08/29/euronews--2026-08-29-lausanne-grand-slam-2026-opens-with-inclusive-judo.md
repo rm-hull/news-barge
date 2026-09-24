@@ -13,6 +13,38 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- France
+- Georgia
+- Japan
+- Lausanne
+- Russian Judo Federation
+- Switzerland
+- Vaudoise Arena
+people:
+- Aïcha GARAD ALI
+- Eteri LIPARTELIANI
+- Eteri Liparteliani
+- FUKUDA Yamato
+- Gefen PRIMO
+- Gefen Primo
+- Kairi KENTOKU
+- Kairi Kentoku
+- Klaus GLAHN
+- Marina VOROBEVA
+- Marina Vorobeva
+- Marius Vizer
+- Petra SÖRLING
+- Sarah Leonie CYSIQUE
+- Sergey SOLOVEYCHIK
+- Shinsei HATTORI
+- Thomas BACH
+- Thomas Bach
+- Yamato Fukuda
+organisations:
+- IOC
+- International Judo Federation
+- KENTOKU
 ---
 
 **Euronews with IJF**

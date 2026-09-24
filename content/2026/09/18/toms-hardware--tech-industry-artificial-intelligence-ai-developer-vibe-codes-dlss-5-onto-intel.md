@@ -13,6 +13,36 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Lunar Lake
+people:
+- Claude
+- Sergei Dragunov
+- Tom
+- Uzbekunknown
+- Zak Killian
+organisations:
+- AI
+- AMD
+- Anthropic
+- Get Tom's Hardware
+- Google News
+- HotHardware
+- Intel
+- KHR
+- NVIDIA
+- Nvidia
+- OpenAI
+- PC
+- RDNA
+- Reddit
+- The Tech Report
+- Tom's Hardware
+- VK
+- Vulkan
+- Xe
+- Xe2
+- Zak
 ---
 
 ![A before/after comparison of Tekken 7's Sergei Dragunov with DLSS 5 Neural Rendering.](https://cdn.mos.cms.futurecdn.net/jyBsQv3HMAD6GKyN3aksrV.jpg) 

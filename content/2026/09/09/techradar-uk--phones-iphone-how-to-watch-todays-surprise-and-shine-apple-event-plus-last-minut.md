@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Apple Park
+- Australia
+- California
+- Cupertino
+people:
+- James
+- John Ternus
+organisations:
+- AI
+- Apple TV
+- Clarity Media
+- Google News
+- HomePod
+- Steve Jobs Theater
+- TechRadar
 ---
 
 ![Apple Surprise and shine invite](https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8.jpg) 

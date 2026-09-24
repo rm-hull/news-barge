@@ -14,6 +14,51 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/09/2026-09-18T064208Z_577540486_RC2HLNALW8J9_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-ELECTION.JPG?width=1200&height=800&crop=1200:800
+locations:
+- Armenia
+- Australia
+- Berlin
+- Britain
+- Canada
+- Crimean Pensisula
+- Donetsk
+- Europe
+- Kherson
+- Kremlin
+- London
+- Luhansk
+- Moscow
+- Motherland
+- New Zealand
+- Norway
+- St Petersburg
+- UK
+- Ukraine
+- United Russia
+- Yerevan
+- Zaporizhzhia
+people:
+- Alexei Navalny
+- Amanda Paul
+- Ella Pamfilova
+- Leonid Volkov
+- Maria Telalian
+- Mark Podberezin
+- Pere Joan Pons
+- Vladimir Putin
+- Yabloko
+- Yulia Navalnaya
+- Zelensky
+organisations:
+- Central Election Commission
+- Communist Party
+- EPC
+- European Policy Centre
+- OSCE
+- Office for Democratic Institutions and Human Rights
+- Organisation for Security and Cooperation in Europe
+- SotaVision
+- Telegram
 ---
 
 Vladimir Putin’s party is set to win by a comfortable majority as voting closed in the country’s tightly-controlled parliamentary elections, widely branded a sham.

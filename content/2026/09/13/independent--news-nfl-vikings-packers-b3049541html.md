@@ -14,6 +14,18 @@ categories:
 - UK
 - Travel
 - Arts & Culture
+locations: []
+people: []
+organisations:
+- AP
+- Broncos
+- Chiefs
+- Cowboys
+- Eagles
+- Giants
+- NFL
+- Packers
+- Vikings
 ---
 
 Top photos from the first Sunday of the NFL season

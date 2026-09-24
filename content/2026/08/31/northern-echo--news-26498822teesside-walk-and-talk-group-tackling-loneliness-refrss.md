@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Darlington
+- Hartlepool
+- Hilton
+- North East
+- Riverside Car Park
+- Stockton
+- Talpore
+- Tees Barrage
+- Teesside
+- Thornaby
+- Waterfront Urban Park
+people:
+- Charlie Morrison
+- Dan Boorsma
+- Hama Frank
+- We Do
+organisations:
+- Alcoholics Anonymous
+- Sprouts Community Centre
+- Stockton Council
+- We Do
 ---
 
 What started with just 18 people on a Friday evening walk has grown into a community movement tackling loneliness for hundreds of people across Teesside.

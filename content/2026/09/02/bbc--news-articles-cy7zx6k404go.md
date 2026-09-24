@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Bayeux
+- Britain
+- British Museum
+- England
+- France
+- London
+- Middle East
+- Normandy
+- Sutton Hoo
+- UK
+- Ukraine
+- Windsor
+people:
+- Andy Burnham
+- Brigitte Macron
+- Camilla
+- Emmanuel Macron
+- Harold
+- King Charles
+- Lisa Nandy
+- Marie-France van Heel
+- Norman
+- William the Conqueror
+organisations:
+- Bayeux Tapestry
+- British Museum
+- British Museum.
+- European Union
+- Macron
+- Royal Watch
 ---
 
 ![Bayeux Tapestry showing an embroidered image of William, Duke of Normandy](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0af0/live/5f19e850-a6b9-11f1-ae1e-219da1d6451a.jpg)

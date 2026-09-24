@@ -14,6 +14,49 @@ categories:
 - Video Gaming
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/90/97/40/1200x675_cmsv2_1dff1c18-ee5a-5319-ac8a-3b82549d28cf-9909740.jpg
+locations:
+- Iria
+- Soria
+- Spain
+- United States
+people:
+- '## Gloria'
+- Cristian M. Amores
+- Hadja Lahbib
+- Iria
+- Richard Garfield
+organisations:
+- '**Amores'
+- AbleGamers
+- Access Controller
+- Apple
+- Cerebral Palsy Foundation
+- Craig Hospital.
+- ESA
+- EU
+- El Mundo
+- Electronic Arts
+- Entertainment Software Association
+- Fundación ONCE**
+- Gatherer
+- Google
+- Iria
+- MTG
+- Magic Accesible
+- Mattel
+- Microsoft
+- NFC
+- National Federation of the Blind
+- Nintendo
+- ONCE
+- Project Leonardo
+- Reddit
+- Shortcuts
+- Sony
+- Ubisoft
+- Wizards of the Coast
+- World Health Organization
+- WotC
 ---
 
 ## Players with visual or motor disabilities devise their own ways to keep playing, while Microsoft, Sony and ONCE develop adapted controllers and editions of video and board games.

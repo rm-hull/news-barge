@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - Film & TV
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY5OTRiNDE4LWRhYTMtNDEwYS05ZDVmLTU3NGIwNGU1YjE2OTo4ZDliODFlZS1lNDQxLTQyMGYtODc3MS1mYTFkNDE1YWU3MGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- A64
+- England
+- North Yorkshire
+- Richmond
+- Sherburn
+- The York
+- West Yorkshire
+people:
+- David Skaith
+- Les
+organisations:
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Road Safety Partnership
+- Road Safety Partnership
+- York
 ---
 
 # Continued absence of fixed speed cameras in North Yorkshire “shameful”, says mayor

@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Batley
+- Birstall
+- Cleckheaton
+- Dewsbury
+- Heckmondwike
+- Holmfirth
+- Huddersfield
+- Kirklees
+- Mirfield
+people:
+- Simon Brophy
+organisations:
+- CCTV
+- Kirklees Council
+- Local Government Efficiency
 ---
 
 *(Image: Pixabay)*

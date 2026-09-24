@@ -12,6 +12,34 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/15/2296751240..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- New York
+- PA
+- Princess of Wales
+- The Duke of Sussex
+- UK
+- US
+people:
+- AI
+- Aaron Chown
+- Archie
+- Bill Clinton
+- Charles Spencer
+- Chelsea Clinton
+- Diana
+- Earl Spencer
+- Harry
+- Hello
+- Hillary Clinton
+- King
+- Lilibet
+- William
+organisations:
+- AI
+- Archewell
+- Duchess of Sussex
+- Meta
+- Parents Network
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

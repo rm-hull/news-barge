@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/04/18/10/25/PA-73843598.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Europe
+- London
+- New York
+- UK
+people:
+- Andy Burnham
+- Anthony Seldon
+- David Maddox
+- Hamish Falconer
+- John Curtice
+- Keir Starmer
+- Millie Cooke
+organisations:
+- Brexit
+- EU
+- Greens
+- Labour
+- The Independent
 ---
 
 Ask any UK opposition party leader and they’ll tell you that they can see very few differences between Sir Keir Starmer and the man who replaced him.

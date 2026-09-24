@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Russia
+- Ukraine
+people:
+- Ms Svyrydenko
+- Mykhailo Fedorov
+- Ruslan Kravchenko
+- Sergii Koretskyi
+- Verkhovna Rada
+- Volodymyr Zelensky
+- Yulia Svyrydenko
+organisations:
+- Naftogaz
+- Telegram
 ---
 
 Ukraine's prosecutor general said on Monday he had offered his resignation citing political reasons, in the latest sign of disunity in the senior ranks of the Ukrainian ruling elite.

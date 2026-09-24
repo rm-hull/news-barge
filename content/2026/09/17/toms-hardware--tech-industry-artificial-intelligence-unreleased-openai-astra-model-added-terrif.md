@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Hardware
 - Society & Culture
+locations:
+- AI
+- Mount Pleasant
+- Wisconsin
+people:
+- Jensen Huang
+- Python
+- Sam Altman
+- Smith
+- Stephen Warwick
+- Tom
+organisations:
+- AI
+- Apple
+- ChatGPT
+- Get Tom's Hardware
+- Google News
+- Nvidia
+- OpenAI
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![Sam Altman](https://cdn.mos.cms.futurecdn.net/R3SJBJ54DiKoh94Tckk9Tf.jpg) 

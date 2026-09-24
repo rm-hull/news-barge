@@ -15,6 +15,24 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+people:
+- Colburn
+- Hipswell
+- Kevin Foster
+- Martin Grainger
+- Mike Schofield
+organisations:
+- '## Green'
+- Constitutional Working Group
+- Government
+- Harlow
+- North Yorkshire Council
+- North Yorkshire Green
+- Planning Committee
+- Scheme of Delegation
+- St Georges division
 ---
 
 # North Yorkshire Green councillors call for local members to have more say on planning applications

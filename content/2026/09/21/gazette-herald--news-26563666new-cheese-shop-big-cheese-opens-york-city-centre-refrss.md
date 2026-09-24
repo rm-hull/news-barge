@@ -13,6 +13,46 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21474736.jpg?type=og-image
+locations:
+- Alpine Tomme de Savoie
+- Hambleton Hills
+- Masham
+- Mount Grace Charcuterie
+- Rosebud
+- Skeldergate
+- The Big Cheese
+- The Knavesmire
+- Thirsk
+- Wensleydale
+- York
+- Yorkshire
+people:
+- Burts Blue
+- God
+- Graham Noakes
+- Gromit
+- Lemon
+- Maxine Gordon
+- Maxine Gordon Compact
+- Maxine Gordon Graham
+- Maxine Gordon Luckily
+- Shepherd
+- Skeldergate
+- Wallace
+organisations:
+- Bessie's
+- GRAHAM NOAKES
+- Garlic
+- Gloucester Old Spot Chorizo
+- Greggs
+- Mixed Peppercorn
+- Nidderdale
+- Pistachio Salami
+- Proud Yorkshire
+- Red Wine Salami
+- The Big Cheese
+- The Press
+- Yorkshire Dales End
 ---
 
 GRAHAM NOAKES really likes cheese.

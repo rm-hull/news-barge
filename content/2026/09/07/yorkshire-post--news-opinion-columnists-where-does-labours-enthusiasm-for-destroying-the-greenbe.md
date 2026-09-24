@@ -17,6 +17,18 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Aire Valley
+- London
+- Yorkshire
+people:
+- Andy Brown
+- Angela Rayner
+- Joe Giddens
+- Nigel Farage
+organisations:
+- Green Party
+- Labour
 ---
 
 # Where does Labour’s enthusiasm for destroying the greenbelt come from? - Andy Brown

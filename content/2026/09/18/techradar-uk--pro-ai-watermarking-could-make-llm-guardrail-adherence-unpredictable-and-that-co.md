@@ -10,6 +10,18 @@ description: Researchers have revealed how AI watermarking could actually change
 image: https://cdn.mos.cms.futurecdn.net/Hc6oTvWTHfb3ETNovTaDxG-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Claude
+- Craig Hale
+- Lasso
+organisations:
+- Anthropic
+- Craig’s
+- Google DeepMind
+- Google DeepMind's
+- Google News
+- TechRadar Pro
 ---
 
 ![AI writer](https://cdn.mos.cms.futurecdn.net/Hc6oTvWTHfb3ETNovTaDxG.jpg) 

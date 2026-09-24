@@ -13,6 +13,24 @@ categories:
 - York
 - Food & Cooking
 - Sports
+locations:
+- Headingley
+- Otley Road
+- Otley Run
+- YOUR
+people:
+- Donovan Ather
+- Emma Flint
+- Izaak Wilson
+- Julie Heselwood
+- Taylor
+organisations:
+- Grill
+- Labour Weetwood
+- Leeds City Council
+- Planning Inspectorate
+- Public Notice Portal
+- Taylor’s Sports Bar
 ---
 
 *(Image: Google)*

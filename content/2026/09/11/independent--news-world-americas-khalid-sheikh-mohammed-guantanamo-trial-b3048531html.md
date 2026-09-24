@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Cuba
+- Guantanamo Bay
+- Manhattan
+- New York
+- New York City
+- Pakistan
+- U.S.
+people:
+- Barack Obama
+- David Raskin
+- Eric Holder
+- Joshua Dratel
+- Khalid Sheikh Mohammed
+- Rudy Giuliani
+- Terry Strada
+- Tom
+organisations:
+- CIA
+- FBI
+- Families United
+- Senate
+- South Pool
+- The Washington Post
+- World Trade Center
 ---
 
 As America marks the 25th anniversary of the September 11 attacks, the man accused of masterminding the plot remains behind bars at Guantanamo Bay — without ever having faced trial.

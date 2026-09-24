@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Aegean Sea
+- Egypt
+- Jet2
+- La Rochelle
+- Palermo
+- Perpignan
+- Samos
+- Sicily
+- Strasbourg
+- Thassos
+- Tunisia
+- UK
+people:
+- Paul Southall
+organisations:
+- 2027 Jet2
+- Head of Sustainability at Jet2
 ---
 
 *(Image: Getty Images)*

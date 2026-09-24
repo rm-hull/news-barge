@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- City of London
+- England
+- Isles of Scilly
+- Northern Ireland
+- Rutland
+- Scotland
+- Wales
+people: []
+organisations:
+- Cornwall
+- DWP
+- Department for Work and Pensions
+- Government
+- HMRC
+- North Yorkshire
+- State Pension
+- Winter Fuel Payment
 ---
 
 *(Image: Getty Images)*

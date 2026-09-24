@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - True Crime
 - Film & TV
+locations:
+- Charing Cross
+- Metropolitan
+- Panorama
+- Waterloo
+people:
+- Amanda Rowe
+- Lloyd Hunter
+- Mark Rowley
+- Mason O’Connor
+- Simon Messinger
+organisations:
+- BBC
+- IOPC
+- Independent Office for Police Conduct
+- Met
+- Panorama
 ---
 
 A 13th serving Metropolitan police officer has been dismissed in relation to an undercover BBC investigation into misogyny and racism at Charing Cross police station.

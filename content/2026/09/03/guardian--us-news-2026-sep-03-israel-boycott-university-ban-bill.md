@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Gaza
+- Israel
+- New Jersey
+- US
+people:
+- Bobby Scott
+- Donald Trump
+- Josh Gottheimer
+- Tim Walberg
+- Virginia Foxx
+organisations:
+- BDS
+- Congress
+- Senate
+- US House of Representatives
 ---
 
 The US House of Representatives on Thursday passed a Republican-backed bill that would penalize universities that participate in boycotts of Israel, or attempt to prevent students from taking part in exchange programs with the country.

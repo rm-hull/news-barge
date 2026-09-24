@@ -13,6 +13,25 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/22/19/UN_General_Assembly_518_4.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Middle East
+- Myanmar
+- Sudan
+- Ukraine
+people:
+- Antonio Guterres
+- Jennifer Peltz
+- \_\_\_ Lederer
+organisations:
+- AI
+- General Assembly
+- Security Council
+- The Associated Press
+- U.N
+- U.N.
+- UN
+- United Nations
+- United Nations Charter
 ---
 
 In a no-nonsense farewell speech, U.N. Secretary-General Antonio Guterres urged global leaders Tuesday to respond to the defining challenge today: Will the world continue on its path to fragmentation or cooperate to tackle the existential threats from climate crisis, runaway artificial intelligence and intensifying inequalities?

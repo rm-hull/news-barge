@@ -12,6 +12,22 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- High Bentham
+- Low Bentham
+- Low Bentham Road
+- The Sidings
+- YOUR
+people: []
+organisations:
+- Bentham Town Council
+- Facebook
+- Low Bentham
+- Low Bentham Institute
+- North Yorkshire Council
+- Public Notice Portal
+- Public Notice Portal RESIDENTS
+- Victoria Institute
 ---
 
 ### What is the Public Notice Portal?

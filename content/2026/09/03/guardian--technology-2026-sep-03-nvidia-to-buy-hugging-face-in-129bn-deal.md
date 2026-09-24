@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Beijing
+- China
+- New York
+- US
+people:
+- Clément Delangue
+- Face
+- Jensen Huang
+- Julien Chaumond
+- Naveen Chhabra
+- Thomas Wolf
+- Trump
+organisations:
+- AI
+- Advanced Micro Devices
+- Amazon
+- DeepSeek
+- Forrester
+- Hugging Face
+- Intel
+- Meta
+- Microsoft
+- Moonshot
+- Nvidia
+- OpenAI
+- Z.ai
 ---
 
 Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for open AI models could offset a potential slowdown in demand for the semiconductor giant’s chips.

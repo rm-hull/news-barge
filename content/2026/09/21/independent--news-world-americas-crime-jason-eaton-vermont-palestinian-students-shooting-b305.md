@@ -12,6 +12,39 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/21/20/56/AP26257640794214.jpg?trim=0,432,611,490&width=1200&height=800&crop=1200:800
+locations:
+- Burlington
+- Connecticut
+- Palestine
+- Philadelphia
+- Ramallah
+- Rhode Island
+- U.S.
+- Vermont
+- West Bank
+people:
+- Elizabeth Price
+- God
+- Hisham Awartani
+- Jacob Pyne
+- Jason Eaton
+- John Pacht
+- Joshua O’Hara
+- Kinnan Abdalhamid
+- Margaret Jansch
+- MossadVictim
+- Sarah George
+- Tahseen Aliahmad
+- Tahseen Aliahmed
+organisations:
+- Brown University
+- CIA
+- FM
+- Haverford College
+- Mossad
+- NPR
+- Trinity College
+- University of Vermont
 ---
 
 A Vermont man has been convicted of attempted murder in the shootings of three Palestinian college students who were walking near his home.

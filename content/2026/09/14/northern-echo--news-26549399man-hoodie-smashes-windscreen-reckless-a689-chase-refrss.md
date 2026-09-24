@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A689
+- County Durham McDonald's Man
+- Hartlepool
+- North East
+- Stockton Man
+- Wolviston
+people: []
+organisations:
+- Cleveland Police
+- Mercedes
 ---
 
 *(Image: GOOGLE)*

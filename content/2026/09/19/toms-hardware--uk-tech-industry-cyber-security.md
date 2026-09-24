@@ -11,6 +11,28 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/CkDCueH65AEMZMenj8tnEF-320-80.jpg
+locations:
+- Louisiana
+- US
+people:
+- Claude
+organisations:
+- FBI
+- Flock
+- Get Tom's Hardware
+- Hackron AI
+- Hertz
+- Intel
+- Intigriti
+- NASA
+- OpenAI
+- Senate
+- Shenzhen Zhibotong Electronics
+- Target
+- U.S. Department of Justice
+- United States Coast Guard
+- Vulncheck
+- Web Audio
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/CkDCueH65AEMZMenj8tnEF-320-80.jpg)

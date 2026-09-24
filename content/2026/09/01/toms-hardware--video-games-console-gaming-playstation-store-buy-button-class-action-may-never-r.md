@@ -13,6 +13,46 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- California
+- San Francisco
+- San Mateo
+- U.S.
+people:
+- Andrew Garcia
+- Edward Heycock
+- Jason Mendoza
+- Josh Salinas
+- Luke James
+- Tom
+- Valve
+- Vince Chhabria
+- john
+organisations:
+- CLRA
+- Casell
+- Citibank
+- Concepcion
+- GOG
+- Get Tom's Hardware
+- Google News
+- Heycock
+- McGill
+- Northern District of California
+- PlayStation Store
+- PlayStation Terms of Service
+- SPLA
+- Sacramento County Superior Court
+- Sony Corporation of America
+- Sony Interactive Entertainment
+- Steam
+- Steam’s
+- Supreme Court
+- Terms of Service
+- The Crew
+- Ubisoft
+- WIPO
+- World Intellectual Property Organization
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU.png) 

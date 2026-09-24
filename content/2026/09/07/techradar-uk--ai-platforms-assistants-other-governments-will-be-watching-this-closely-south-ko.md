@@ -12,6 +12,44 @@ image: https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- ChatGPT South Korea
+- Daejangbong
+- France
+- Gangnam
+- Gogunsan Islands
+- Gunsan
+- KakaoTalk
+- New York City
+- Seoul City
+- Singapore
+- South Korea
+- U.S.
+- UK
+people:
+- Claude
+- Eric Hal Schwartz
+- John Park
+- Kakao
+- Nik Kairinos
+organisations:
+- AGI, Inc
+- ChatGPT
+- GOV.UK Chat
+- Google Gemini
+- Google News
+- ICT
+- KT
+- Kakao
+- Ministry of Science
+- OpenAI
+- Park
+- RAIDS AI
+- SK Telecom
+- TechRadar
+- VICA
+- Voicebot.ai
 ---
 
 ![AI brain coming out of laptop screen](https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9.jpg) 

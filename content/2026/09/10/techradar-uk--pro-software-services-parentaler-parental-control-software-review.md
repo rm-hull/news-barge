@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/cNnr6vPMwMxTYNpfCqBCCC-1887-80.jpg
 categories:
 - Technology & Software
 - Family & Parenting
+locations: []
+people:
+- Krishi
+- Parentaler
+organisations:
+- Bitdefender
+- Facebook
+- Instagram
+- Kik
+- Krishi
+- Parentaler
+- TechRadar Pro
+- Techopedia
+- Telegram
+- The Tech Report
+- TikTok
+- Tom's Guide
+- Viber
+- WhatsApp
 ---
 
 ### TechRadar Verdict

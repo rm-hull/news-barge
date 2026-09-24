@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bowling Back Lane
+- Bradford
+- Ford Hill
+- Golden Butts
+- Ilkley
+- Keighley
+- Queensbury
+- Sugden End
+people:
+- Catherine Smith
+- Coun Ahmed
+- Coun Falak Ahmed
+- Coun Ian Walker
+- Coun Susan Fricker
+- Stephen Place
+organisations:
+- Bradford Council
+- Bradford council
+- HWRS
+- Labour
+- Neighbourhoods and Communities
+- Shipley Area Committee
+- Street Cleansing
+- then-Labour
 ---
 
 # 'No evidence' tip closures leading to more fly-tipping, say council officers

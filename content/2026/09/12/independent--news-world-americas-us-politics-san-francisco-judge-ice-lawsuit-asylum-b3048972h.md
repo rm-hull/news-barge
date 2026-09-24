@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- San Francisco
+- White House
+people:
+- Chloe Dillon
+- Todd Blanche
+- Trump
+organisations:
+- Biden Administration
+- DOJ
+- Department of Justice
+- ICE
+- Immigration Court
+- Immigration Courts
+- Immigration and Customs Enforcement
+- Justice Department
+- SFGate
+- The Independent
+- Trump
 ---
 
 A San Francisco-based federal immigration judge was fired after she questioned Trump administration legal tactics and resisted a request from Immigration and Customs Enforcement to fast-track the deportation of a teen asylum seeker, a lawsuit claims.

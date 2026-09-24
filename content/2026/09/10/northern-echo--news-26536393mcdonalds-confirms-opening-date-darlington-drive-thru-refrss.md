@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Faverdale
+- Morton Park
+- North Road
+- YOUR
+people:
+- Taco Bell
+organisations:
+- Costa Coffee
+- Darlington Pictures
+- Faverdale Industrial Estate
+- KFC
+- McDonald's
+- McDonalds
+- North Road Industrial Estate
+- Public Notice Portal
+- Public Notice Portal McDonald’s
+- Taco Bell
 ---
 
 *(Image: THE NORTHERN ECHO)*

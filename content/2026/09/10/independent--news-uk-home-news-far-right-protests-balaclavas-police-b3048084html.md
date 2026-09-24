@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Port of Dover
+- Portsmouth
+- Staffordshire
+- Tamworth
+people:
+- Daniel Thomas
+- Danny Tommo
+- Ms Mahmood
+- Paul Golding
+- Shabana Mahmood
+- Tommy Robinson
+organisations:
+- Britain First
+- Home Office
+- Patriot Platform
+- Portsmouth
+- RNLI
 ---
 
 Home secretary Shabana Mahmood has told police chiefs to take stronger action against intimidating anti-migrant demonstrators in balaclavas ahead of more planned protests at the weekend.

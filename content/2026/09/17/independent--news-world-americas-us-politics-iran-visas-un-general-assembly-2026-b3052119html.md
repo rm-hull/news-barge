@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/17/19/18/GettyImages-2237118182.
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Iran
+- Israel
+- New York
+- New York City
+- Red Sea
+- Strait of Hormuz
+- US
+- United States
+- Washington
+- West Bank
+- Yemen
+people:
+- Abbas Araghchi
+- Mahmoud Abbas
+- Masoud Pezeshkian
+- Trump
+organisations:
+- Costco
+- General Assembly
+- International Court of Justice
+- International Criminal Court
+- Palestinian Authority
+- Sam's Club
+- State Department
+- UN General Assembly
+- UN General Assembly High Level
+- United Nations
 ---
 
 The Trump administration has granted entry visas to key Iranian figures, including the country's president and foreign minister, enabling them to attend next week’s UN General Assembly high-level sessions in New York despite an ongoing conflict between the two nations.

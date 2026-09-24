@@ -13,6 +13,46 @@ categories:
 - Technology & Software
 - Sports
 - Film & TV
+locations:
+- Australia
+- Canada
+- Fremantle
+- MCG
+- Optus Stadium
+- Perth
+- Sydney
+- UK
+- US
+- uk
+people:
+- Brandon Walker
+- Brennan Cox
+- Callum Mills
+- Isaiah Dudley
+- James Roberts
+- Justin McInerney
+organisations:
+- 7Plus
+- ACL
+- AFL
+- Brisbane
+- Channel 7
+- FS2
+- FourFourTwo
+- Fremantle Dockers
+- Future Publishing
+- Geelong Cats
+- Hawthorn
+- Lions
+- Oxford Mail
+- Oxford United
+- SCG
+- Swans
+- Sydney
+- TNT Sports
+- TSN
+- TechRadar
+- Virgin Media
 ---
 
 ![Isaiah Dudley of the Dockers celebrates a goal during the 2026 AFL First Semi Final between the Fremantle Dockers and the Geelong Cats at Optus Stadium on September 11, 2026 in Perth, Australia](https://cdn.mos.cms.futurecdn.net/hCz5Xr43Hamzfmva7gWMgP.jpg) 

@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- California
+- Israel
+- Massachusetts
+- Palestine
+- White House
+people:
+- Behave
+- Conor Fitzpatrick
+- Joe Biden
+- Noël Wise
+- Trump
+organisations:
+- FIRE
+- First and Fifth Amendment
+- First and Fifth Amendments
+- Foundation for Individual Rights and Expression
+- Stanford University
+- State Department
+- The Independent
+- Trump
+- Wise
 ---
 
 The Trump administration unconstitutionally threatened student journalists with deportation for speaking out about the Israel-Palestine conflict and other hot-button issues, a California federal court ruled on Friday in a lawsuit from Stanford University’s student newspaper.

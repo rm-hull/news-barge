@@ -13,6 +13,68 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b6b/live/4871c290-b51d-11f1-b01b-6bc45d07eb85.jpg
+locations:
+- Amex Stadium
+- Brighton
+- Britain
+- Europe
+- Man City Man City
+people:
+- '## Carrick'
+- '## Maresca'
+- Andoni Iraola
+- Andrews
+- Daniel Farke
+- Dominic Solanke
+- Emiliano Martinez
+- Enzo Maresca
+- Fabian Hurzeler
+- Gary Neville
+- Joe Cole
+- Keith Andrews' Brentford
+- Lisandro Martinez
+- Matheus Cunha
+- Michael Carrick
+- Mikel Arteta
+- Morgan Rogers
+- Ole Gunnar Solskjaer
+- Pascal Gross
+- Prem
+- Roberto de Zerbi
+- Thomas Frank
+- Xabi Alonso
+organisations:
+- Albion
+- Arsenal
+- Aston Villa
+- BBC Sport
+- Bayer Leverkusen
+- Bees
+- Brentford
+- Burnley
+- Chelsea Brighton
+- Community Shield
+- Cottagers
+- Coventry
+- Everton
+- Fulham
+- Gunners
+- Hull City
+- Ipswich
+- Leeds
+- Liverpool
+- Manchester City
+- Manchester United
+- Newcastle
+- Nottingham Forest
+- Premier League
+- Red Devils
+- Sky Sports
+- Spurs
+- Sunderland
+- TNT
+- Tottenham
+- ex-United
 ---
 
 ![Brighton celebrate goal against Arsenal](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9b6b/live/4871c290-b51d-11f1-b01b-6bc45d07eb85.jpg)

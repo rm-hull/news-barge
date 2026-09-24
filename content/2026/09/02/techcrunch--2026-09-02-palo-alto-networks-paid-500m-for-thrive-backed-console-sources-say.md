@@ -11,6 +11,35 @@ image: https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Andrei Serban
+- Nikesh Arora
+organisations:
+- AI
+- Abstract Ventures
+- Battery
+- Chronosphere
+- Console
+- DST Global
+- Flock Safety
+- Fuzzbuzz —
+- Greylock
+- Koi
+- Lux Capital-backed
+- Palo Alto Networks
+- Palo Alto Networks’
+- PitchBook
+- Ramp
+- Rippling
+- SV Angel
+- Sequoia
+- Series A
+- Serval
+- ServiceNow
+- Team8
+- TechCrunch
+- Thrive Capital
 ---
 
 Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks, according to two people with knowledge of the deal.

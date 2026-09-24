@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Born
+- India
+- London
+- New York
+- New York City
+- Ohio
+- Toledo
+- US
+people:
+- Barack Obama
+- Christian Bale
+- David Bale
+- Gloria Steinem
+- Instagram
+- Roe
+- Wade
+organisations:
+- BBC
+- Democratic National Convention.
+- Instagram
+- Ms. magazine
+- New York Magazine
+- Steinem
+- US Supreme Court
+- Women's Action Alliance
 ---
 
 Watch: Gloria Steinem talks about her legacy in 2023 BBC interview

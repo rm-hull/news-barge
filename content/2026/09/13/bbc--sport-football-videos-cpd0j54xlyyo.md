@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- UK
+people:
+- Erling Haaland
+- Foden
+organisations:
+- Man City
+- Manchester City
+- Manchester United
 ---
 
 # Haaland scores controversial winner as Man City win derby despite Foden red

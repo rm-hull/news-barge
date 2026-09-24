@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Brisbane River
+- Canberra
+- Gina Rinehart
+- Hawthorne
+- New South Wales
+- Perth
+- Rinehart’s
+- Sydney
+people:
+- Barnaby Joyce
+- Bianca Rinehart
+- Gina Rinehart
+- Hancock
+- James Ashby
+- Murray Watt
+- Pauline Hanson
+organisations:
+- Channel Seven
+- Guardian Australia
+- Gulfstream
+- Hancock Energy
+- Hancock Prospecting
+- Hanson
+- Labor
+- LinkedIn
+- One Nation
+- Rinehart
+- Senate
+- Sunrise
+- The Populist
 ---
 
 Pauline Hanson and Barnaby Joyce stayed overnight at Gina Rinehart’s $20m Brisbane mansion after fundraising events held for One Nation, Guardian Australia can reveal.

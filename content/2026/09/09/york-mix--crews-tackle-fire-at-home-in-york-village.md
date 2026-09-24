@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- '####'
+- Acomb
+- Knapton
+- Main Street
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Two crews tackled a fire at a home in a York village last night (Tuesday).

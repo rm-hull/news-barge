@@ -14,6 +14,20 @@ categories:
 - Self-Improvement
 - Health & Fitness
 - Society & Culture
+locations:
+- Canada
+- Germany
+- Hamburg
+- Italy
+- Netherlands
+people:
+- Claudia Picard-Deland
+- Kristoffer Appel
+- Tobi Matzek
+organisations:
+- Institute of Sleep and Dream Technologies
+- REM
+- University of Montreal
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310551185.jpg?w=840)

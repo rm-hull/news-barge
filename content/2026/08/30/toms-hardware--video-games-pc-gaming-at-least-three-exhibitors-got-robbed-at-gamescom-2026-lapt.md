@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Cologne
+- Germany
+- Hall
+- Indie Area
+- Koelnmesse
+- Laley
+people:
+- Gonna
+- Ryan Laley
+- Tom
+organisations:
+- Escape Academy 2
+- Gamescom
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- Laley
+- Mimic
+- Tessera Studios
+- VGC
+- Video Games Chronicle
 ---
 
 ![the crowd at Gamescom 2026](https://cdn.mos.cms.futurecdn.net/bBBmMspvuGawDbvGBpFnAi.png) 

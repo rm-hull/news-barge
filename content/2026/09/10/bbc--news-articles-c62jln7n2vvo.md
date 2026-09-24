@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Conflans-Sainte-Honorine
+- France
+- Le Fauga
+- Paris
+- Toulouse
+people:
+- Edouard Geffray
+- Jean-Marie Puig
+- Karim Benmiloud
+- Samuel Paty
+organisations:
+- BFMTV
+- Le Fauga
 ---
 
 ![File pic showing the courthouse in Toulouse](https://ichef.bbci.co.uk/ace/standard/906/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg)

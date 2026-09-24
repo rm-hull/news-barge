@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/466bda3a99769ffa210614b8d3133c36c7171da3/0_0_5646_4517/master/5646.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e261860000481868a1a8d1825917f0b3
+locations:
+- Alresford station
+- Birmingham
+- Bloom
+- Britain
+- Cardross
+- Chelsea
+- Essex
+- Keynsham station
+- Merseyside
+- Scotland
+- Somerset
+- UK
+- Wylde Green
+people:
+- Beth Chatto
+- Frank Belgrave
+- Jane Connolly
+organisations:
+- Belgrave
+- Cardross Community Organic Garden
+- Maghull
+- RHS Railway Stations
+- Royal Horticultural Society
 ---
 
 Every year since 1964, towns across the UK have bloomed with hanging baskets and brightly coloured flowerbeds planted by residents.

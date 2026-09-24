@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/2yHEj7RR9QpUSvzcPym7Vf-2121-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Calif
+- China
+- Sarajevo
+- WeChat
+people:
+- Sead
+- WeWorm
+organisations:
+- '## Tencent'
+- Al Jazeera Balkans
+- Calif
+- Google News
+- HarmonyOS
+- Represent Communications
+- TechRadar Pro
+- WeChat
 ---
 
 ![Angry man shouting at mobile phone while sitting at a desk](https://cdn.mos.cms.futurecdn.net/2yHEj7RR9QpUSvzcPym7Vf.jpg) 

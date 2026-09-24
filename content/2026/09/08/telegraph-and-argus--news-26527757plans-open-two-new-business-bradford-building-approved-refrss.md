@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Chapel Street
+- Eastbrook Hall
+- Leeds Road
+- Little Germany
+- Methodist Cathedral of the North
+- YOUR
+people:
+- Charles
+organisations:
+- Bradford Council
+- Eastbrook Hall
+- Listed Building Consent
+- Little Germany Conservation Area
+- M & N Builders Properties 3 Ltd
+- Public Notice Portal
+- The Prince's Regeneration Trust
 ---
 
 ### What is the Public Notice Portal?

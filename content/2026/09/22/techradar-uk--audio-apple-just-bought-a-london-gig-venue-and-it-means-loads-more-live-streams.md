@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/SraUU8kAUXAcMzUysuGd6e-1960-80.jpg
+locations:
+- Battersea Power Station
+- London Underground
+- Northern Line
+- Power Station
+people:
+- Tom Bedford
+organisations:
+- Android Police
+- Apple Music
+- Apple Music Hall
+- BGR
+- Battersea Power Station
+- Digital Trends
+- GamesRadar
+- Google News
+- Music Hall
+- Spotify
+- TechAdvisor
+- TechRadar
+- The Cinema
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![A glimpse at the Apple Music Hall, showing its chairs and boxes.](https://cdn.mos.cms.futurecdn.net/SraUU8kAUXAcMzUysuGd6e.jpg)

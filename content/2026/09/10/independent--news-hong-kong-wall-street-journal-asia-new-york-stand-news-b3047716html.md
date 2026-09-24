@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Asia
+- Beijing
+- Hong Kong
+- New York
+people:
+- David Cheung
+- Jimmy Lai
+- Selina Cheng
+organisations:
+- Apple Daily
+- Dow Jones
+- Dow Jones Publishing Co
+- Dow Jones’
+- Hong Kong Journalists Association
+- Inc
+- Inc.
+- Reporters Without Borders’
+- Stand News
+- The Wall Street Journal
+- WSJ
 ---
 
 A Hong Kong court on Thursday convicted the publisher of The Wall Street Journal of deterring its reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city. The court acquitted Dow Jones Publishing Co. (Asia) Inc. of the charge of dismissal over the union role.

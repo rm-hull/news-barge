@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Filey
+- Greenfields Avenue
+- Osgodby
+people:
+- Michaela Golding
+- PC Emma Harris
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 The former manager of a Filey care home has been jailed after she stole more than £50,000 from vulnerable residents and their families.

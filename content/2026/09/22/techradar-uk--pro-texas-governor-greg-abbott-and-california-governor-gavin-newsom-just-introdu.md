@@ -11,6 +11,30 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg
+locations:
+- '## States'
+- AI
+- California
+- Texas
+- US
+- White House
+people:
+- Benedict Collins
+- Gavin Newsom
+- Greg Abbott
+- Trump
+organisations:
+- AI
+- APT
+- Abbott
+- BUCSIS
+- Congress
+- ERCOT
+- Google News
+- House
+- TechRadar Pro
+- Texans
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Data centre.](https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk.jpg)

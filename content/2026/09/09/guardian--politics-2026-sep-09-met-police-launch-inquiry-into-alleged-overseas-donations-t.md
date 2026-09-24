@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/a0973f4b4b23cf06d21ed559211d5d1d3c35e6f0/2
 categories:
 - UK
 - News & Politics
+locations:
+- Clacton
+- Montenegro
+- US
+- Worcestershire
+people:
+- Charles
+- Dan Jukes
+- Fiona Cottrell
+- George Cottrell
+- James Orr
+- Lisa Smart
+- Nigel Farage
+- Verbatim
+organisations:
+- Centre for Climate Reporting
+- Channel 4 News
+- Crown Prosecution Service
+- Electoral Commission
+- Guardian
+- Labour
+- Liberal Democrat Cabinet Office
+- Met
+- Reform UK
+- Scotland Yard
+- Verbatim
 ---
 
 The financial scandal around Reform UK has deepened as police expanded their investigation into allegations of illegal foreign donations and the elections watchdog said it was considering regulatory steps.

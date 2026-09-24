@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Baltimore
+- Maryland
+- New Jersey
+- Texas
+- U.S.
+people:
+- '"[Lundeen'
+- Arthur Layne Lundeen
+- Arthur Lundeen
+- Juan Mejia
+- Kevin Kaplan
+- Richard Olenick
+organisations:
+- American Airlines
+- BWI
+- CBS News
+- District of Maryland
+- FBI
+- Long Realty
+- Lundeen
+- Maryland Transportation Authority
+- Newsweek
+- The Arizona Republic
+- The Independent
 ---
 
 A man who was allegedly so unruly on a commercial flight that he had to be duct-taped to his seat has been fired from his real estate company.

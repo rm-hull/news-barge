@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Amazon
+- America
+- Memorial Sloan Kettering Cancer Center
+- New Jersey
+- US
+- White House
+people:
+- Donald Trump
+- Kush Desai
+- Maha
+- Nicole Saphier
+- Peter Lurie
+- Robert F Kennedy Jr
+organisations:
+- British American Tobacco Industries
+- Center for Science in the Public Interest
+- Coca-Cola
+- Empower MD
+- FDA
+- Fox News
+- Guardian
+- Instagram
+- LLC
+- McDonald’s
+- Memorial Sloan-Kettering
+- PepsiCo
+- Philip Morris International
+- Saphier
+- Senate
+- US Food and Drug Administration
 ---
 
 Donald Trump’s nominee for US surgeon general reported more than $200,000 in business income from a company she owns that sells dietary supplements, a loosely regulated industry that health and consumer advocates say raises concerns about her record and which some critics allege are akin to “snake oil”.

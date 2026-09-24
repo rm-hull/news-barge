@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Iran
+- Penn
+- Shanksville
+- Tehran
+- U.S.
+people:
+- Capitol
+- Condoleezza Rice
+- Donald Trump
+- George W. Bush
+- Pete Hegseth
+organisations:
+- Air Force
+- American Airlines
+- Fox News
+- Pentagon
+- United Airlines
+- United Flight 93
+- World Trade Center
 ---
 
 On a day reserved for celebrating the heroes of one of America’s darkest chapters, the man charged with leading the nation’s defense apparatus did the only thing he seems capable of doing in public — praising his boss and bashing Iran.

@@ -13,6 +13,16 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- India
+- New Delhi
+- Satya Niketan
+people:
+- Prakash Chand
+- Rekha Gupta
+organisations:
+- Delhi University
+- Press Trust of India
 ---
 
 ## Building collapses are a recurring hazard in parts of India during the June-to-September monsoon season, when heavy or prolonged rain can weaken older structures.

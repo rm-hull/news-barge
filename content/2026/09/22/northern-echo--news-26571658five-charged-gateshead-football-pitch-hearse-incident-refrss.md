@@ -15,6 +15,34 @@ categories:
 - Sports
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/17029977.jpg?type=og-image
+locations:
+- Birtley
+- Bishop Auckland
+- Byker
+- Chester-Le-Street
+- Darlington
+- Dunston
+- Durham
+- Gateshead
+- Grange Villa
+- Newcastle
+- North East
+- South Tyneside Magistrates’ Court
+- Sunderland
+people:
+- Carl Barron
+- Darren Kay
+- Graeme Rutherford
+- Ian Boddy
+- John Wright
+- Tow Law
+organisations:
+- Crown Prosecution Service
+- Dunston Football
+- Dunston Football Club
+- Northumbria Police
+- Operation Sentinel
+- UTS Dunston
 ---
 
 *(Image: CONTRIBUTOR)*

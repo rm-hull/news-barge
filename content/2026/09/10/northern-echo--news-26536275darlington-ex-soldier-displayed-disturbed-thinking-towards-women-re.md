@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A19
+- County Durham
+- Darlington
+- Water Lily Drive
+people:
+- Albany Kidd
+- Carl Fitzgerald
+- Fitgerald
+- Jonathan Carroll
+- Miss Kidd
+- Nurse
+- Woman
+organisations:
+- Army
+- Durham Constabulary
+- Probation Service
+- Teesside Crown Court
 ---
 
 *(Image: Durham Constabulary)*

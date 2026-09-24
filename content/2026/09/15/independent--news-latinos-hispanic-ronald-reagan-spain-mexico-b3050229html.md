@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Caribbean
+- Central and
+- Costa Rica
+- El Salvador
+- Guatemala
+- Honduras
+- Latin America
+- Los Angeles
+- Mexico
+- Nicaragua
+- South America
+- Spain
+- U.S.
+people:
+- Alberto Lammers
+- Diego Javier Luis
+- Edward R. Roybal
+- Lyndon B. Johnson
+- Paul Ortiz
+- Ronald Reagan
+organisations:
+- Cornell University
+- El Salvador
+- Johns Hopkins University
+- Latina
+- UCLA Latino Policy and Politics Institute
+- United Faculty of Florida AFL-CIO
 ---
 
 Celebrations across the U.S. are expected in observance of National Hispanic Heritage Month, showcasing the vast diversity and culture of Latinos.

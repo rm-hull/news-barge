@@ -14,6 +14,22 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Marlborough
+- South West
+- Wiltshire
+people:
+- Amanda Sheppard
+- Chris
+- Martyn Roberts
+organisations:
+- British Business Bank
+- CNC
+- FSE Group
+- Formula 1
+- PrevTech
+- South West Investment Fund
+- The FSE Group
 ---
 
 *(Image: The FSE Group)*

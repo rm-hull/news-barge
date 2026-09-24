@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Alligator Alcatraz
+- Florida Everglades
+- South Florida Detention Facility
+people:
+- Alex Lanfranconi
+- Barack Obama
+- Joe Biden
+- Ron DeSantis
+organisations:
+- AP
+- Alligator Alcatraz
+- Amnesty International
+- DHS
+- Department of Homeland Security
+- Office of the Inspector General
+- South Florida Detention Facility
+- U.S. Immigration and Customs Enforcement
 ---
 
 Detainees at a now-closed immigrant detention center in the Florida Everglades — known as “Alligator Alcatraz” — were held for up to two hours in small metal enclosures used as “calming areas,” a practice that “does not meet standards for humane treatment,” according to a new report by the Department of Homeland Security’s Inspector General released on Monday.

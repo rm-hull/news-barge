@@ -13,6 +13,30 @@ image: https://static.independent.co.uk/2026/09/08/14/Russia_Shooting__1618.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Astrakhan
+- Engels
+- Moldova
+- Moscow
+- Probuzhdenie
+- Russia
+- Saratov
+- St. Petersburg
+- Ukraine
+- Yekaterinburg
+people:
+- Igor Kirillov
+- Kyiv
+- Svetlana Petrenko
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- FSB
+- Federal Security Service
+- Investigative Committee
+- Kyiv
+- Russian Defense Ministry
+- SBU
 ---
 
 Russian authorities said Tuesday they have detained a suspect in last week’s shooting that wounded a senior military officer, the latest in a series of attacks on personnel and figures linked to the war in Ukraine.

@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Contalmaison
+- Harrogate
+- Horseshoe Trench
+- Park Avenue
+- Yorkshire
+people:
+- Donald Simpson Bell VC
+- Iain McMullen
+organisations:
+- Bishop Auckland
+- Bradford
+- Newcastle United
+- Pen & Sword Military
+- Victoria Cross
+- Western Front Association
+- Westminster Training College
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Albert Road
+- Bar Fresco
+- Bloom
+- Corporation Road
+- Darlington
+- Exchange Walk
+- Eyesore’ North East
+- Honky Tonk
+- Middlesbrough
+- NORTHERN ECHO
+people: []
+organisations:
+- A66
+- Doctor Browns
+- Doctors Browns
+- JD Sports
+- Middlesbrough
+- Pitch!
+- Pneuma Group
+- STACK
+- Sports Bar
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

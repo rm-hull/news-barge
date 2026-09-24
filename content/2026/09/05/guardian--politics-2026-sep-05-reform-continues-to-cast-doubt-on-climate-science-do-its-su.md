@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/f70a411fe9ba9a7689c8f6d5b4c3970eccf06558/3
 categories:
 - UK
 - News & Politics
+locations:
+- Bexley
+- Birmingham
+- Britain
+- London
+- North Sea
+- UK
+people:
+- Beryl Kingsbury
+- Ed Rennie
+- Farage
+- James
+- Jeanette Bowden
+- Jim Langford
+- Katie White
+- Mark Henderson
+- Michael Jacobs
+- Nicholas
+- Richard Tice
+- Yvonne
+organisations:
+- Intergovernmental Panel on Climate Change
+- Labour
+- Norwich
+- Reform UK
+- University of Sheffield
 ---
 
 On the second day of the Reform UK conference, in the wake of an undercover investigation alleging party officials plotted to evade the law on foreign donations, the deputy leader, Richard Tice, addressed the audience. Within minutes, a banner appeared behind him reading: “Collect £5m, burn the planet.”

@@ -14,6 +14,16 @@ categories:
 - Germany
 - News & Politics
 - Family & Parenting
+locations:
+- Berlin
+- Germany
+- Germany4
+- Prenzlauer Berg
+people:
+- Doctolib
+organisations:
+- DM
+- Prague Parent-Child Programme
 ---
 
 Back in July, my daughter turned one, surrounded by family, some of her new baby friends and friends from my old life in Berlin. While she munched on her banana cake, the other parents were quick to congratulate us – and especially me – on making it through the first year.

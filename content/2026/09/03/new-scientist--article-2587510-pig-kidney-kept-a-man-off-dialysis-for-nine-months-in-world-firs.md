@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Family & Parenting
 - Health & Fitness
+locations:
+- Andrews
+- Boston
+- Mass General Brigham
+- US
+- Yucatan
+people:
+- Leonardo Riella
+- Michelle Willicombe
+- Richard Slayman
+- Tim Andrews
+organisations:
+- Imperial College London
 ---
 
 ![The pig kidney that was transplanted into Tim Andrews on 25 January 2025](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310534034.jpg?w=840)

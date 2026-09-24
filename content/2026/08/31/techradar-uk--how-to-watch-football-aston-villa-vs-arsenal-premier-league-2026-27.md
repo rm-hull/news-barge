@@ -13,6 +13,65 @@ categories:
 - Technology & Software
 - Sports
 - Film & TV
+locations:
+- AEST
+- Abu Dhabi
+- Australia
+- Birmingham
+- CA
+- Canada
+- Emirates
+- London
+- Newcastle
+- UK
+- US
+- USA
+- Villa Park
+- canada
+people:
+- Adrian Back
+- Brian Madjo
+- Bukayo Saka
+- Christos Tzolis
+- Emiliano Martinez
+- Ezri Konsa
+- João Gomes
+- Kai Havertz
+- Lucas Digne
+- Martin Odegaard
+- Mikel Arteta
+- Morgan Rogers
+- Ollie Watkins
+- Tammy Abraham
+- Unai Emery
+- Villa
+- Youri Tielemans
+organisations:
+- AU
+- Arsenal FC
+- Aston Villa
+- Brighton
+- Coventry City
+- Formula 1
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Gunners
+- Hulu
+- NBA
+- Newsweek
+- Premier League
+- Red Bull
+- Sky Sports
+- Sky TV
+- Sling**(
+- Stan Sport
+- TechRadar
+- USA Network
+- UseNordVPNto
+- World Soccer Magazine
+- Yahoo
+- YouTube TV
 ---
 
 ![Martin Odegaard of Arsenal celebrates scoring his team’s third goal during the Premier League 2026/27 match between Arsenal FC and Coventry City at Emirates Stadium.](https://cdn.mos.cms.futurecdn.net/aUfMHvuVhyCXXFtnHPNM6Q.jpg) 

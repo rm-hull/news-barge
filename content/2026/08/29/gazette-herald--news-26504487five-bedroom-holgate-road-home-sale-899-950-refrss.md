@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Holgate Road
+- Savills’
+- York
+- Yorkshire
+people:
+- Tanya Coffey
+organisations:
+- Savills
+- Savills’
 ---
 
 An “elegant” period townhouse has hit the market in York – for £899,950.

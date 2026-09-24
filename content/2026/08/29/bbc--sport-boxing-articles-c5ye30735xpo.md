@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Big Bear Lake
+- Britain
+- California
+- Itauma
+- London
+people:
+- Abel Sanchez
+- Adam Smith
+- Anthony Crolla
+- Barry Jones
+- Carl Frampton
+- Dave Coldwell
+- Filip Hrgovic
+- 'Itauma ## Jeamie TKV'
+- Mike Tyson
+- Moses Itauma
+- Naseem Hamed
+- Oleksandr Usyk
+- Paul Smith
+- Rico Verhoeven
+- Tony Bellew
+organisations:
+- BBC Radio
+- BBC Sounds
+- BBC Sport
+- Chatham
+- Hrgovic
+- IBF
+- Itauma
+- O2 Arena
 ---
 
 Prince Naseem Hamed praises Moses Itauma before his fight on Saturday

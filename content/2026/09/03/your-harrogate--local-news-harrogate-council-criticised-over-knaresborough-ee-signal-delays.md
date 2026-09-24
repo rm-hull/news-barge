@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Knaresborough
+people:
+- Cllr Walker
+- Matt Walker
+organisations:
+- EE
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99175a3b62a3e0504.jpg) 

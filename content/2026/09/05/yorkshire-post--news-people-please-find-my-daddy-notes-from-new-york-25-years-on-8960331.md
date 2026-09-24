@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- 1st Avenue
+- Belle Vue Hospital
+- Bellevue Hospital
+- First Avenue
+- Manhattan
+- New York
+- Statten Island
+- Times Square
+- United States
+people:
+- Alisha Levin
+- Andrew Vine
+- Bruce Rollinson
+- Deanna Micculli
+- Gregg Preziose
+- Just
+- Marian Victoria Hamilton
+- Monica Goldstein
+- Victoria Alvarez Brito
+organisations:
+- E29th
+- Wall of Prayers
+- World Trade Centre
 ---
 
 # “Please find my daddy”: Notes from New York 25 years on

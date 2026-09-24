@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- US
+- White House
+people:
+- Donald Trump
+- John Roberts
+organisations:
+- East Wing
 ---
 
 A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom amid legal challenges.

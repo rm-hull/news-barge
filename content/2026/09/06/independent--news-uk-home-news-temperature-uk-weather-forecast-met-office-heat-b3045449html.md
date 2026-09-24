@@ -11,6 +11,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Kew Gardens
+- Lincolnshire
+- North of England
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
+- Scotland
 ---
 
 Summer-like temperatures could make a brief return in the UK on Sunday, with parts of the country forecast to reach 28C.

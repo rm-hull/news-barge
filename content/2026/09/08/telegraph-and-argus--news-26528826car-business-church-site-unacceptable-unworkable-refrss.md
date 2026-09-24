@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Pawson Street
+- St Mary’s Church
+- YOUR
+people:
+- S Kiyani
+organisations:
+- Bradford Council
+- Highways Officers
+- Public Notice Portal
 ---
 
 *(Image: T&A)*

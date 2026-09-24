@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Guisborough
+- Teesside
+people:
+- Sean
+organisations:
+- Durham Cathedral
+- Priory Fish Shop
 ---
 
 *(Image: GOOGLE MAPS)*

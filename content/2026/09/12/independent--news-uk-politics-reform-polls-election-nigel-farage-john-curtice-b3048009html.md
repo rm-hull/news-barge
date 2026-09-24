@@ -12,6 +12,19 @@ image: https://static.independent.co.uk/2026/09/11/11/01/burnham-farage-split.jp
 categories:
 - News & Politics
 - UK
+locations:
+- UK
+people:
+- Andy Burnham
+- Ben Delo
+- John Curtice
+- Nigel Farage
+organisations:
+- Conservative Party
+- House of Commons
+- Labour Party
+- Reform UK
+- YouGov
 ---
 
 Andy Burnham would be unwise to call an early general election because Reform UK could still become the largest party in Parliament, the UK’s leading polling expert has said.

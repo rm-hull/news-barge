@@ -13,6 +13,18 @@ categories:
 - York
 - Music
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/20/12/55/blind-driver.png?trim=0,237,0,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Holderness Road
+- Hull
+- Jalland Street
+people:
+- Blind’
+- Matt Tuton
+- Uchenna Agunenye
+organisations:
+- CCTV
+- Hull Crown Court
+- Roads Policing Unit
 ---
 
 # Watch: ‘Blind’ driver smashes into cyclist after forgetting his glasses

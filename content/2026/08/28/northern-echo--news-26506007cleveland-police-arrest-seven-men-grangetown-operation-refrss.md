@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Atlee Road
+- CLEVELAND
+- County Durham
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- Owen Humphreys
+- PA
+- South Bank
+- Steele Crescent
+people:
+- Matthew Blades
+- Pc Tom Clough
+- Tom Clough
+organisations:
+- A66
 ---
 
 Seven more men have been arrested as part of an organised crime crackdown in the wake of the deadly *A66* head-on crash.

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- City
+- England
+- Iran
+- Middle East
+- Threadneedle Street
+- UK
+- Ukraine
+- Wales
+people:
+- Jake Finney
+- Liz McKeown
+- Pat McFadden
+- Suren Thiru
+organisations:
+- Bank of England
+- Institute of Chartered Accountants
+- Labour
+- ONS
+- Office for National Statistics
+- PwC UK
 ---
 
 Wage growth in the UK has slowed as workers come under pressure from a renewed cost of living squeeze fuelled by the Iran war, highlighting the challenge for the Bank of England as it prepares to set interest rates.

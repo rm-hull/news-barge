@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/cf4ce384e9c39f9a9e0ba72b49a3916086f9f5f8/491_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=104d234eb1b20708f3b0dac56fd0c5c1
+locations:
+- Australia
+- China
+- US
+- United States
+people:
+- Anthony Albanese
+- Donald Trump
+- Jim Chalmers
+organisations:
+- ABC’s Insiders
+- AI Force
+- Labor
+- News24
+- Treasury
 ---
 
 Australian households will shrink but more people can expect to live well into their 90s, according to the latest update to forecasts of the country’s long-term future.

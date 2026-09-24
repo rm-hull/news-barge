@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Doncaster Coroners Court
+- Doncaster Royal Infirmary
+- South Yorkshire
+people:
+- Aaron Maxwell
+- Danielle Duncan-Blakely
+- Isobel Abigail Maxwell
+- Izzie
+- Louise Slater
+- Ms Wallace
+- Tamara Wallace
+organisations:
+- CPR
 ---
 
 A toddler drowned in her garden pond on Christmas Day after going missing for just five minutes.

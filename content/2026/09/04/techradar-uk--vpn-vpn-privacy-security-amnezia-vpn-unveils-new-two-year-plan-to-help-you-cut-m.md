@@ -11,6 +11,23 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Monica J. White
+organisations:
+- 7ASecurity
+- Amnezia VPN
+- Demhack
+- Digital Trends
+- Google News
+- Monica
+- No Trace
+- Roskomsvoboda
+- SlashGear
+- Tom’s Hardware
+- WePC
+- WhatsApp
+- XRay VLESS
 ---
 
 ![Amnezia VPN logo on black background](https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn.jpg) 

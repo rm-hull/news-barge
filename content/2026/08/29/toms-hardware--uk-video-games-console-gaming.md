@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Stephen Warwick
+people: []
+organisations:
+- Andrew E. Freedman
+- Astro Playroom
+- Bruno Ferreira
+- GitHub
+- Hassam Nasir
+- Intel Arc
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- Microsoft
+- NintendoNintendo
+- PlayStationGroup
+- PlayStationPlayStation
+- Rockstar
+- Sony
+- Sony’s
+- Stephen Warwick
+- Take-Two
+- XboxMicrosoft
+- XboxXbox
 ---
 
 ## Latest about Console Gaming

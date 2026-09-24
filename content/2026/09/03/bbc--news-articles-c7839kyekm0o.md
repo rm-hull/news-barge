@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed22/live/c85d54
 categories:
 - UK
 - News & Politics
+locations:
+- East Wiltshire
+- UK
+- Walthamstow
+people:
+- Andy Burnham
+- Christopher Harborne
+- Danny Kruger
+- Ellie Chowns
+- Florence Eshalomi
+- Katie Lam
+- Lord Sainsbury
+- Minsters
+- Stella Creasy
+organisations:
+- Commons
+- Green Party
+- House of Lords
+- Houses of Parliament.
+- Labour Party
+- Reform UK
 ---
 
 ![Four banknotes are in a pile on a table. Each banknote is partially obscured. There is a £50 note in the background which has a £20 on top of it. A £10 is on top of the £20, and a £5 is on top of the £10.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ed22/live/c85d54a0-78a6-11f1-b976-0b9c15b0ccfc.jpg)

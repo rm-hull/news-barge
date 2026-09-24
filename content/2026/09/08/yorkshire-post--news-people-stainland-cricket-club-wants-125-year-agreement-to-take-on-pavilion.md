@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Calderdale
+- Halifax Town Hall
+- Stainland Memorial Park
+- Stainland Recreation Ground
+- Yorkshire
+people:
+- Coun Mike Payne
+organisations:
+- Calderdale Council
+- Stainland Cricket Club
 ---
 
 # Stainland: Cricket club wants 125-year agreement to take on pavilion in Yorkshire park

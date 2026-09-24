@@ -12,6 +12,28 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/20/14/01KKH8BQ37949HM4S9J4YNWJD4.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bomet
+- Britain
+- Chepchabas
+- Kabartegan
+- Kenya
+- Kericho Town
+- Kesebet
+- UK
+people:
+- Gladys Maiywa
+- Kerrina Thorogood
+- Lilian Mutai Levin Langot
+- Nelson Ngeno
+- Paul Kipsigei Koech
+- Philip Kitur
+organisations:
+- Fairtrade Foundation
+- Fintea
+- Lidl
+- PA
+- Press Association
 ---
 
 Kenyan growers who produce black tea for British supermarket shelves have warned that climate impacts are damaging crop harvests and further diminishing their already "scarce" household incomes.

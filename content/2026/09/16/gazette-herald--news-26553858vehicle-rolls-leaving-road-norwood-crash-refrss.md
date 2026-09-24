@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Harrogate
+- North Yorkshire
+- Norwood
+people: []
+organisations:
+- Ambulance and Police
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

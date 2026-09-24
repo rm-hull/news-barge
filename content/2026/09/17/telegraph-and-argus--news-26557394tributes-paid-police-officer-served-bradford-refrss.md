@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Carr Gate
+- GoFundMe
+- Leeds
+- Wakefield
+people:
+- '## Wife'
+- Dom
+- Dominic Clegg
+- Hannah Cooper
+- Ms Cooper
+- PC Clegg
+- Ruthie Clegg
+organisations:
+- Federation Reps
+- PC Cleggs Family
+- Silence Between Sirens
+- WYPF
+- West Yorkshire Police
+- West Yorkshire Police Federation
 ---
 
 *(Image: Hannah Cooper / GoFundMe)*

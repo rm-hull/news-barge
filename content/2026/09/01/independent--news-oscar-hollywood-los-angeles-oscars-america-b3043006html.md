@@ -14,6 +14,24 @@ categories:
 - Arts & Culture
 - Film & TV
 - History
+locations:
+- Academy
+- America
+- Hollywood
+- United States
+people:
+- Brokeback Mountain
+- Candice Bergen
+- Citizen Kane
+- David Lynch
+- Dennis Hopper
+- Lindsey Bahr
+- Louis B. Mayer
+- Margaret Herrick
+- Oscar
+organisations:
+- Academy
+- The Associated Press
 ---
 
 I’d like to thank the Academy for the Oscar.

@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Africa
+- County Durham
+- Teesside
+- Trenchers
+- Whitley Bay
+- Windermere
+people:
+- Boro
+- Brian Johnson
+- John Miles Alan Hull
+- Kyle Mackings
+- Lindisfarne
+- Mike Neville
+- Mike Waller
+- Ray Jackson
+- Trenchers
+organisations:
+- Darlington
+- GOFFY MEDIA
+- LGBT
+- Lindisfarne
+- Trenchers
 ---
 
 *(Image: GOFFY MEDIA)*

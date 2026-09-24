@@ -13,6 +13,14 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21482837.jpg?type=og-image
+locations:
+- Plainville Lane
+- Shipton
+- Wigginton
+- York
+- Yorkshire
+people: []
+organisations: []
 ---
 
 A “wonderful” family home has hit the market near York – for £750,000.

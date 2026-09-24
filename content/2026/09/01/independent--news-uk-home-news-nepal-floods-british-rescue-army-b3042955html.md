@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China
+- India
+- Narayani River
+- Nepal
+- Nuwakot
+- Trishuli
+- UK
+people:
+- Balendra Shah
+organisations:
+- APF
+- Armed Police Force
+- Facebook
+- Nepali Army
+- UNDP
+- United Nations Development Programme
 ---
 
 A British male has been rescued almost a week after devastating floods which killed more than 1,000 people hit Nepal.

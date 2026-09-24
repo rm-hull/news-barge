@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/24e3e7388851cf2ac03c9b08d5542eca8ea054fd/205_0_4399_3521/master/4399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1111fe2b69fa148a60653e664ac3d82d
+locations:
+- Asean
+- Australia
+- China
+- Finland
+- France
+- Middle East
+- New York
+- New York.
+- Pacific
+- Russia
+- UK
+- US
+- Ukraine
+- Western Europe
+people:
+- Anthony Albanese
+- Siobhan McKenna
+organisations:
+- AI
+- Australia Post
+- Malaysia Airlines
+- NBN
+- News Corp
+- UN
 ---
 
 Anthony Albanese launched a formal bid for Australia to serve a two-year term on the UN security council in 2029 and 2030.

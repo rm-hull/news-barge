@@ -10,6 +10,22 @@ description: This 981 g Japanese laptop squeezes Ryzen AI 7, Wi-Fi 7, and 32 GB 
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci-1920-80.jpg
+locations: []
+people: []
+organisations:
+- AMD
+- Amazon
+- Cosmo Blue
+- Efosa
+- Frost Gold
+- Google News
+- Intel
+- JEITA
+- Krackan Point
+- Mouse Computer
+- Pearl White
+- Ryzen AI
+- TechRadar Pro
 ---
 
 ![Mouse Computer X2](https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci.jpg)

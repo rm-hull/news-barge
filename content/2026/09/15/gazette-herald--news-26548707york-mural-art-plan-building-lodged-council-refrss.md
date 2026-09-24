@@ -14,6 +14,28 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Agar Street
+- Holgate
+- Lowther Street
+- Monkgate
+- Spar
+- The Groves
+- YOUR
+- York
+people:
+- Bile Beans
+- Duncan Marks
+- Tom Sledmore
+organisations:
+- BID
+- Business Improvement District
+- City of York Council
+- Grey Coat School
+- Monkgate & Jersey Diary Company
+- Public Notice Portal
+- York Civic Trust
+- York St John University
 ---
 
 ### What is the Public Notice Portal?

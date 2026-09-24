@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Fort Worth
+- Texas
+people:
+- Arka
+- Heather Harris
+- Michael Jackson
+- Richard Harris
+- Russell T. Button
+organisations:
+- ABC
+- Arka Montessori Academy of Risinger
+- The Independent
+- WFAA
 ---
 
 A family from Fort Worth, Texas, has filed a lawsuit against a local daycare facility following an incident in which surveillance footage allegedly captured an adult employee instigating a fight involving a 4-year-old boy.

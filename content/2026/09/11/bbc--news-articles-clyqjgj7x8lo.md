@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- America
+- Dover Priory Station
+- England
+- Essex
+- France
+- Kent
+- Leicester
+- London
+- Midlands
+- Normany
+- North West
+- Northern Ireland
+- Portsmouth
+- Preston-next-Wingham
+- St Lawrence
+- St Lawrence Church Morden
+- UK
+- United Kingdom
+- United States
+people:
+- Danny Thomas
+- Danny Tommo
+- Instagram
+- Jesus Christ
+- Nick Lowles
+- Nigel Farage
+- Paul Golding
+- Robin Burkhardt
+- Rupert Lowe
+- Ryan Bridge
+- Shabana Mahmood
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+- William Allchorn
+- Zia Yusuf
+organisations:
+- Anglia Ruskin University
+- BBC News
+- Britain First
+- Daily Mail
+- EDL
+- English Defence League
+- Hope Not Hate
+- Just Stop Oil
+- Patriot Platform
+- Raise the Colours
+- Reform UK
+- Restore Britain
+- Turning Point UK
+- YouTube
 ---
 
 ![Men in black and balaclavas getting out of the back of a lorry.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/0356/live/4058a380-adb6-11f1-a540-61c3f7fc4e6c.jpg)

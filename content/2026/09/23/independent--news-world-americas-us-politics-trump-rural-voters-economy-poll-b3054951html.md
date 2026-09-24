@@ -12,6 +12,29 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/12/2282804565..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Georgia
+- Iran
+- Maine
+- Michigan
+- Ohio
+- Texas
+people:
+- Donald Trump
+- Ed Westrick
+- Nate Lawrence
+- Nicholas Jacobs
+- Tim Slack
+- Wanda Rogers
+organisations:
+- Associated Press-KFF
+- Colby College
+- KFF-Washington Post
+- Louisiana State University
+- Republican Party
+- Senate
+- Trump
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Guiseley
+- UK
+people:
+- Serita Thomas
+organisations:
+- Anlaby Hull
+- Guiseley Retail Park
+- M&S Guiseley
 ---
 
 # M&S Guiseley set for reopening after major refurb

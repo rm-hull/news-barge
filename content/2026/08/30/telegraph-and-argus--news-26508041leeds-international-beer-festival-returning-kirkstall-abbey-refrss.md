@@ -12,6 +12,12 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Kirkstall Abbey
+- UK
+people: []
+organisations:
+- Instagram
 ---
 
 Beer lovers are set to raise a glass for the return of a popular festival.

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Bradshaw Lane
+- Halifax
+- Scarborough Magistrates’ Court
+people:
+- Richard Scott Mortimer
+organisations:
+- Four Seasons
+- West Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: West Yorkshire Police)*

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Appalachian Trail
+- Maine
+- Mount Katahdin
+people:
+- Dale “Grey Beard” Sanders
+organisations:
+- Appalachian Trail
 ---
 
 Photos show oldest hiker reclaiming Appalachian Trail record at 91

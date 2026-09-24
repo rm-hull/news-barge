@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - History
+locations: []
+people:
+- Andrew McConnell OBE
+- David Powell
+organisations:
+- Board
+- Heart of Yorkshire Education Group
 ---
 
 ## Long-serving education group chair steps down after nearly two decades

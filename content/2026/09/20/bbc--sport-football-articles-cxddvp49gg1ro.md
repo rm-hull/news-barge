@@ -13,6 +13,69 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f9d/live/e867c380-b50e-11f1-a430-4d16ee157c41.jpg
+locations:
+- Craven Cottage
+- Craven Cottage.
+- Rashford
+people:
+- '**6Kevin'
+- '**6Larsson'
+- 5Kobbie Mainoo
+- 5Luke Shaw
+- 6Andersen
+- 6Bruno Fernandes
+- 6Diogo Dalot
+- 6Dorgu
+- 6Harry Maguire
+- 6Josh King
+- 6Marcus Rashford
+- 6Muniz
+- 6Oscar Bobb
+- 7Antonee Robinson
+- 7Calvin Bassey
+- 7Gonzalo Garcia
+- 7Lisandro Martinez
+- 7Sander Berge
+- 7Timothy Castagne
+- 7Youri Tielemans
+- 8Alex Iwobi
+- Affengruber
+- Andersen
+- Andrey Santos
+- Baleba
+- Bernd Leno
+- Bryan Mbeumo
+- Carrick
+- Cunha:** Again
+- Darlow
+- Dorgu
+- Gonzalo Garcia
+- Josh King
+- Kevin
+- Key
+- Larsson
+- Lecomte
+- Lisandro Martinez
+- Manuel Angel
+- Marcus Rashford
+- Matheus Cunha
+- Mazraoui
+- Mount
+- Muniz
+- Palacios
+- Senne Lammens
+- Senne Lammens.
+- Sessegnon
+- Smith Rowe.
+- Timothy Castagne
+- Yoro
+- Zirkzee
+organisations:
+- 7Shea Charles:** Midfield
+- BBC Sport
+- Fulham
+- Man Utd
+- Manchester United
 ---
 
 ![Manchester United's Marcus Rashford tries to beat Fulham pairTimothy Castagne and Josh King](https://ichef.bbci.co.uk/ace/standard/934/cpsprodpb/7f9d/live/e867c380-b50e-11f1-a430-4d16ee157c41.jpg)

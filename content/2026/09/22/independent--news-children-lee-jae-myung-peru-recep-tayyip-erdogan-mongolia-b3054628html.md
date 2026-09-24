@@ -12,6 +12,39 @@ categories:
 - Self-Improvement
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/23/00/UN_General_Assembly_Dominica_91731.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Angola
+- Chile
+- Dominica
+- Gaza
+- Jordan
+- Lebanon
+- Madrid
+- Minnesota
+- Mongolia
+- Mumbai
+- Peru
+- Republic of Korea
+- Seychelles
+- South Korea
+- Sudan
+- Turkey
+- Yemen
+people:
+- José Antonio Kast
+- João Manuel Gonçalves Lourenço
+- Keiko Fujimori
+- Khurelsukh Ukhnaa
+- King Abdullah II
+- Lee Jae Myung
+- Mathew Herminie
+- Recep Tayyip Erdogan
+- Sylvanie Burton
+organisations:
+- General Assembly
+- The Associated Press
+- U.N.
+- United Nations
 ---
 
 Many leaders saying many things about many topics that matter to them, to their regions, to the world: That’s what the U.N. General Assembly invariably produces each year.

@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- London
+- Uzbekistan
+people:
+- Marius Dan
+organisations:
+- Central Asia
+- Euronews
+- Franklin Templeton
+- London Stock Exchange.
+- National Electric Grid of Uzbekistan
+- National Investment Fund of Uzbekistan
+- Regional Electric Networks
+- SQB
+- Sanoat Qurilish Bank
+- Tashkent Stock Exchange
+- Templeton Global Investments
+- UzNIF
+- Uzbekistan Airways
+- Uztelecom
 ---
 
 ## Uzbekistan’s investment fund (UzNIF) is preparing major companies in telecoms, aviation, banking and energy for potential listings. Uztelecom is currently the most advanced candidate as governance reforms advance and efforts to attract new capital gather pace.

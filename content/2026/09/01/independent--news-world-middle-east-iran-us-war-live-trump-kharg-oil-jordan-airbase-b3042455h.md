@@ -11,6 +11,58 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bishkek
+- Hong Kong
+- Iran
+- Islamic Republic
+- Jordan
+- Juaymah
+- Kharg Island
+- Khasab
+- Kyrgyzstan
+- Larak Island
+- Middle East
+- Moscow
+- Musandam
+- Oman
+- Pezeshkian
+- Russia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- US
+- United States
+- Washington
+- White House
+people:
+- '## Trump'
+- Abdolnaser Hemmati
+- Dan Driscoll
+- Donald Trump
+- Hamid Bovard
+- JD Vance
+- Joe Sommerlad
+- Marisks
+- Masoud Pezeshkian
+- Pete Hegseth
+- Scott Bessent
+- Vladimir Putin
+organisations:
+- CNN
+- Defense
+- Hegseth Army
+- Kpler
+- Marisks
+- National Iranian Oil Company
+- Reuters
+- Saudi Aramco
+- Shein
+- Trump
+- Truth Social
+- United Kingdom Maritime Trade Operations
+- VLCC Senegal Prosperity
 ---
 
 Iran has rubbished Donald Trump’s threats against one of its key islands after the US president threatened to hit the Islamic Republic “hard” following Iranian missile strikes on US military bases.

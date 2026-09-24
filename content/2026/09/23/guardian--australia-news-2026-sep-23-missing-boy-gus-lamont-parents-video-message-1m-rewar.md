@@ -14,6 +14,19 @@ categories:
 - Society & Culture
 - Travel
 image: https://i.guim.co.uk/img/media/965cfc3839db4d0c445fa08e704bfde7d3a58503/0_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=768cae510572a8bc86e93957f4dd3435
+locations:
+- Adelaide
+- Beaumont
+- Oak Park
+- South Australia
+people:
+- Darren Fielke
+- Gus Lamont
+- Jessica Murray
+- Joshua Lamont
+- Peter Malinauskas
+organisations:
+- Task Force Horizon
 ---
 
 The parents of missing four-year-old Gus Lamont have made an emotional plea for any information about their “unique little boy” as authorities offered a $1m reward over the disappearance.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Baja California
+- Ensenada
+- Mexico
+- Pacific
+- US
+- United States
+people:
+- Callum Robinson
+- Debra
+- Jack Carter Rhoad
+- Jake
+- Martin Robinson
+- Robinsons’
+organisations:
+- The Robinsons
 ---
 
 The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered.

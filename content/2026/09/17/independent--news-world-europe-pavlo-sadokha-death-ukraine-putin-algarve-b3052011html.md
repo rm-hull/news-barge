@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Algarve
+- Europe
+- Kremlin
+- Lisbon
+- Lviv
+- Portugal
+- Quarteira
+- Russia
+- Ukraine
+people:
+- Andrii Sybiha
+- Paul Grod
+- Pavlo Sadokha
+- Putin
+organisations:
+- CYM
+- Correio da Manha
+- Council of the Ukrainian Union
+- Facebook
+- Foreign Affairs of Ukraine
+- Jornal de Noticias
+- Order of Merit
+- Public Prosecution Service
+- UWC International Educational Coordinating Council
+- Ukrainian World Congress
+- Ukrainian Youth Association
+- Union of Ukrainians
 ---
 
 An inquiry has been launched after a Ukrainian activist and critic of Putin’s Russia was found dead in Portugal.

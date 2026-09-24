@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Amazon
+- Americas
+- Brazil
+- Caribbean
+- Colombia
+- El Salvador
+- Pacific
+- Rio de Janeiro
+people:
+- Abelardo De La Espriella
+- Christ
+- Daniel Monroy
+- De La Espriella
+- Donald Trump
+- Felipe Curi
+- Flávio Bolsonaro
+- God
+- Gustavo Petro
+- Iván Cepeda
+- Luiz Inácio Lula da Silva
+- Nayib Bukele
+- Renan Santos
+organisations: []
 ---
 
 Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas.

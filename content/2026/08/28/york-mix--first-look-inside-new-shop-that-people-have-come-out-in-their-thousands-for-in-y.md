@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- China
+- Coney Street
+- Ealing
+- Guangzhou
+- Leeds
+- London
+- Meadowhall
+- UK
+- York
+people:
+- Gen Z
+- Leighton Skinner
+organisations:
+- Miniso
+- Yorkshire
 ---
 
 A new shop opened in York today – with queues stretching down the street.

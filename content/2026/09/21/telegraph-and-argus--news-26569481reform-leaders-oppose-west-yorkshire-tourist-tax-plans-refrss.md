@@ -12,6 +12,27 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20915643.jpg?type=og-image
+locations:
+- Downing Street
+- UK
+- West Yorkshire
+people:
+- Coun Dan Sutherland
+- Coun Karl Johnson
+- Coun Ryan Taylor
+- Coun Sarah Wood
+- Coun Stephen Place
+- Tracy Brabin
+organisations:
+- Bradford Council
+- Calderdale Council
+- Government
+- Kirklees Council
+- Labour
+- Leeds Council’s Reform
+- Reform UK
+- Wakefield Council
+- West Yorkshire Combined Authority
 ---
 
 Reform UK’s leaders across West Yorkshire are clashing head on with the region’s Mayor over proposals to introduce a “tourist tax.”

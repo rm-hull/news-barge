@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Birmingham
+- Dulwich
+- Harborne
+- National Exhibition Centre
+people:
+- Anna Isaac
+- Christopher Harborne
+- Count Binface
+- Isabel Oakeshott
+- Laura Davison
+- Michael Crick
+- Nigel Farage
+- Peter Geoghegan
+organisations:
+- Democracy for Sale
+- Guardian
+- Guardian’s City
+- Labour
+- NUJ
+- National Crime Agency
+- New York Times
+- Reform UK
+- Substack
+- Telegraph
 ---
 
 Reform UK has banned at least three journalists from its annual conference who have reported critically on the party and Nigel Farage.

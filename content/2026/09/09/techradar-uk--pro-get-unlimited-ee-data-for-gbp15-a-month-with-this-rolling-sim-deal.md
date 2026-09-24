@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Amazon
+- Europe
+- Oxford
+people:
+- Steve Clark
+organisations:
+- Amazon
+- EE
+- Scancom
+- Steve
+- TechRadar Pro
 ---
 
 ![An EE SIM pack with the words 'Unlimited Rolling SIM' printed on it, on a purple background next to a white TechRadar badge in the upper left corner that reads 'Big Savings'](https://cdn.mos.cms.futurecdn.net/LVwvrotpj7wLWo2iahQrki.jpg) 

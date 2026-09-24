@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb9154ce7ad8f6761107a405a3bf09ad
+locations:
+- AI
+- America
+- California
+- China
+- Florida
+- New York
+- U.S.A.
+- US
+- Ukraine
+- Utah
+people:
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Gavin Newsom
+- James Uthmeier
+- John McCarthy
+- Ron DeSantis
+- Sam Altman
+- Spencer Cox
+- Xi Jinping
+organisations:
+- AI Force
+- Anthropic
+- Artificial Intelligence
+- Congress
+- EI
+- Extreme Intelligence
+- OpenAI
+- Radical Left Dumocrats
+- SI
+- Space Force
+- Superior Intelligence
+- Supreme Intelligence
+- Trump
+- UN
 ---
 
 Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an “AI Force” to help monitor the technology, though he gave almost no details about either plan.

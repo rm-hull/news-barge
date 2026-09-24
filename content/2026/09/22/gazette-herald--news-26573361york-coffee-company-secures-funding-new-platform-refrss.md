@@ -14,6 +14,31 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21489325.jpg?type=og-image
+locations:
+- Askham Bar Park
+- Glen Minikin
+- London
+- Raylor Centre
+- Ride
+- York
+- Yorkshire
+people:
+- Caitlin Walker
+- Laurence Beardmore
+- Ms Walker
+- Shaun Feakins
+organisations:
+- Everything Electric
+- First Bus’ Askham Bar Park
+- Great Ideas
+- Mayor of York
+- North Yorkshire
+- Upton Group
+- York & North Yorkshire Chamber of Commerce
+- York Angels
+- York Coffee Emporium
+- kWh Coffee
+- kWh Coffee Ltd
 ---
 
 A SUSTAINABLE York-based coffee company has secured new investment to help launch a fresh approach to roasting.

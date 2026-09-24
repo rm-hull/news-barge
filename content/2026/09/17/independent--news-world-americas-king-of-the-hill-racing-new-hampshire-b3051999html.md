@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- America
+- Hudson Speedway
+- Nashua
+- New Hampshire
+people:
+- Andy Staples
+- Dan Wetzel
+- David Aldridge
+- John McInnis
+organisations:
+- ESPN
+- Hudson Speedway
+- No. 609
+- The Independent
 ---
 
 A bonkers new twist on the demolition derby, dubbed the “King of the Hill” race, has taken the Internet by storm.

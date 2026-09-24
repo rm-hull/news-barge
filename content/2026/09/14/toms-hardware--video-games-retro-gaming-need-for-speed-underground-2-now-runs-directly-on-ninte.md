@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Horizon OS
+people:
+- Mark Tyson
+- Tom
+organisations:
+- Box64
+- CPU
+- GPU
+- Google News
+- Horizon
+- NRO
+- Nintendo Switch
+- Nintendo’s
+- Retro
+- Tom's Hardware
+- Wine-NX
 ---
 
 ![Need for Speed Underground 2 - Windows game on the Switch](https://cdn.mos.cms.futurecdn.net/fa5rCFArWpEn4fibYKdVyZ.jpg) 

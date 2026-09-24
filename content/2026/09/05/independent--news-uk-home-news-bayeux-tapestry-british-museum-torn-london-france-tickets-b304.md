@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bayeux
+- Britain
+- British Soil
+- France
+- London
+people:
+- Andy Burnham
+- Catherine Pégard
+- David Hockney
+- Emmanuel Macron
+- Queen
+organisations:
+- British Museum
+- RTL France
+- Tapestry
 ---
 
 Two broken threads have been discovered in the Bayeux Tapestry after its journey from France to Britain, the French culture minister has said, although it was not significantly damaged.

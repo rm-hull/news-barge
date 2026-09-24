@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Dalton Mills
+- Keighley
+- Yorkshire
+people:
+- Keighley
+- Robbie Moore
+organisations:
+- Downton Abbey
+- Grade II
+- Ilkley
+- Local Authority Emergency Planning
+- Peaky Blinders
+- WYFRS
+- West Yorkshire Fire and Rescue Service
 ---
 
 # 'Deeply infuriating’ - Latest major fire at Yorkshire landmark sparks frustration

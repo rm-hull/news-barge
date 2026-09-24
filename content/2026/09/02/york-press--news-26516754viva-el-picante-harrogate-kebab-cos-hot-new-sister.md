@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Harrogate
+- North Yorkshire
+- Station Parade
+people:
+- Holy Schnitzel
+- I Am Doner
+- Neil Mendoza
+- Paul Baron
+organisations:
+- Abu's
+- Harrogate Kebab Co
+- I Am Doner
+- The Harrogate Kebab Co
+- Tuk Tuk
+- Viva el Picante
 ---
 
 ## New take-away set to add spice to North Yorkshire town's food scene

@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lakes
+- Grimsby
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Lake of America
+- Michigan
+- New York
+- US
+- US-Canada
+- White House
+people:
+- Debbie Dingell
+- Donald Trump
+- Doug Berger
+- Doug Burgum
+- Doug Ford
+- Joe Morelle
+- Tim Kennedy
+organisations:
+- ABC News
+- Apple Maps
+- Apple’s App Store
+- Google Maps
+- Guardian
+- MapQuest
+- RadioShack
+- Reuters/Ipsos
+- TechCrunch
+- Trump
 ---
 
 A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US.

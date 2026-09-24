@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Newby Hall & Gardens
+- Ripon
+- Seaham
+people:
+- Chris Marriott
+- Graham Haswell
+- Paul Proud
+- Stephen Purvis
+organisations: []
 ---
 
 *(Image: Supplied)*

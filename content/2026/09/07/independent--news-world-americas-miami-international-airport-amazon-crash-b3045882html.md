@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Miami
+- Puerto Rico
+people:
+- Kelly Nantel
+- Ray Jadallah
+organisations:
+- 21 Air
+- Amazon Air
+- CBS News
+- Federal Aviation Administration
+- FlightRadar24
+- Luis Muñoz International Airport
+- Miami International Airport
+- Miami-Dade Fire Rescue
+- NTSB
+- National Transportation Safety Board
+- The Miami Herald
 ---
 
 The trapped pilot of a plane that crashed at Miami airport, leaving 5 people dead, had to be rescued alongside his co-pilot while the aircraft was on fire, emergency responders said.

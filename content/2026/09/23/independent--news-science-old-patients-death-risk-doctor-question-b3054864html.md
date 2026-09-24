@@ -12,6 +12,16 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/23/9/05/An-elderly-man-walks-with-a-cane-his-gaze-directed-toward-the-sand.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- England
+- Mexico
+- South Korea
+- United States
+- continental Europe
+people: []
+organisations:
+- BMC Medicine
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

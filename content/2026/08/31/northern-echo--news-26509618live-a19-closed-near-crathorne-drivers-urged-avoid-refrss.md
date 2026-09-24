@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Crathorne
+people: []
+organisations:
+- A19
+- The Northern Echo
 ---
 
 - Good afternoon, this is The Northern Echo's coverage of a crash on the A19.

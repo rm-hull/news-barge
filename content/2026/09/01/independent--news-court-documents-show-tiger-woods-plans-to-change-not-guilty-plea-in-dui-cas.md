@@ -12,6 +12,16 @@ image: https://static.independent.co.uk/2026/09/01/23/Tiger_Woods_Golf_19694.jpg
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- Jupiter Island
+- United States
+people:
+- Tiger Woods
+organisations:
+- DUI
+- Land Rover
+- Woods' Land Rover
 ---
 
 Court documents showed Tuesday that Tiger Woods plans to change his not guilty plea in a DUI case stemming from a rollover crash in Florida.

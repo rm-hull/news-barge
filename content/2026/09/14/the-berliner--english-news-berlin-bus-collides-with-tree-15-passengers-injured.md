@@ -14,6 +14,15 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Britz
+- Fulhamer Allee
+- M46
+- Neukölln
+people:
+- Stefan Zeitz
+organisations:
+- BVG
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0105896055h-scaled.jpg)

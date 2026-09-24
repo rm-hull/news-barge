@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- PA
+people:
+- Martin Lewis
+- Myrtle Lloyd
+- Steve Webb
+organisations:
+- Government
+- HM Revenue and Customs
+- HMRC
+- HRP
+- Home Responsibilities Protection
+- MoneySavingExpert.com
+- National Insurance
+- National Insurance Helpline
+- State Pension
 ---
 
 *(Image: PA)*

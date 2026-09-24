@@ -12,6 +12,24 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21482292.jpg?type=og-image
+locations:
+- '## York'
+- City Cruises York
+- River Ouse
+- River Palace
+- Smooth Sailing
+- York Minster
+people:
+- Christopher Pegg
+- Gary Lynch
+organisations:
+- City Cruises
+- City Cruises York
+- Kirkstall Brewery
+- River Palace
+- Smooth Sailing
+- Stella Artois
+- Yorkshire
 ---
 
 ## York cruise beer beats Stella Artois to become top seller (on the Ouse)

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- North Poole
+- Portsmouth Harbour
+people:
+- Neil
+- Nigel Farage
+- Peter Sparkes
+organisations:
+- BBC Verify
+- Commons
+- Liberal Democrat
+- Mid Dorset
+- RNLI
+- Reform UK
+- Sussex Police
 ---
 
 A RNLI volunteer who was wrongly accused of helping small boat migrants come to the shore in Portsmouth has issued a message for those attacking him online: “I’m not a traitor”.

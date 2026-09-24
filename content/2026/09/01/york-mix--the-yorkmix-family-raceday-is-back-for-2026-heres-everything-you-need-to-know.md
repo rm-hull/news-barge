@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '#### Shuttle'
+- Campleshon Road
+- Clocktower Enclosure
+- Paddock Enclosure
+- Railway Station
+- Stand RJ
+- York Racecourse
+- York Railway Station
+- York Station
+people: []
+organisations:
+- '***YorkMix***'
+- 197 Shuttle Bus
+- Hanson Springs Stakes
+- York Racecourse
+- York Racecourse Hospitality
 ---
 
 The YorkMix Family Raceday is back this Sunday! Here’s everything you need to know about all the family fun and racing entertainment.

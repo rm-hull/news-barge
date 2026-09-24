@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd10974ec14e63c08cf61bd9fff0f243
+locations:
+- Greater Manchester
+- Iran
+- Middle East
+- Monaco
+- New York
+- UK
+- US
+people:
+- Andy Burnham
+- Bridget Phillipson
+- Donald Trump
+- Jim Ratcliffe
+- John Healey
+- Kemi Badenoch
+- Nigel Farage
+organisations:
+- BBC
+- Labour
+- Sky News
+- UN
 ---
 
 Next month’s budget will be made more difficult by Donald Trump’s war with Iran, one of Andy Burnham’s cabinet ministers has said, while adding she did not expect the prime minister’s previous disparaging comments about the US president to be an issue.

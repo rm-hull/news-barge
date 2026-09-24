@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bolton Priory
+- Harpley
+- Norfolk
+- Priory Church
+- Yorkshire Dales
+people:
+- Camilla
+- Charles III
+- Jill Timms
+- Liz Clayton
+- Nicholas Merchant
+- Shane Connolly
+- Zanna Hoskins
+organisations:
+- Bolton Abbey Estate
+- Bolton Priory
+- Eventbrite
+- Priory Church
+- SCF Northern Conference Tickets
+- Spindle
+- Sustainable Church Flowers
+- Sustainable Flower Initiative
 ---
 
 A ROYAL florist will headline a special event in the Yorkshire Dales for a national movement in sustainable church flowers.

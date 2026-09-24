@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Berlin
+- Black Sea
+- Donbas
+- France
+- Germany
+- Kremlin
+- Kyiv
+- Moscow
+- Odesa
+- Poland
+- Russia
+- Ryazan
+- Saint Sophia Cathedral
+- Sophia Square
+- UK
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Andrii Sybiha
+- Jared Kushner
+- Sergei Lavrov
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yuri Ushakov
+organisations:
+- 9GW
+- Nato
+- SBU
 ---
 
 US special envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday for high-stakes negotiations with Ukrainian president Volodymyr Zelensky, capping a high-wire weekend of shuttle diplomacy aimed at breaking a long-standing stalemate in the war.

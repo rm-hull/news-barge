@@ -14,6 +14,32 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Emmerdale
+- Oldham
+- PA
+people:
+- Aaron Thiara
+- Cain Dingle
+- Dennis
+- Emmerdale
+- Errol
+- Gareth Pierce
+- Graham
+- Jeff Hordley
+- Natalie J Robb
+- Paul Bradley
+- Rhona Goskirk
+- Stanley
+- Sue Devaney
+- Violet
+- Zoe Henry
+organisations:
+- Coronation Street
+- EastEnders
+- Emmerdale
+- ITV
+- NTA
 ---
 
 *(Image: PA)*

@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Central America
+- Florida
+- Krome
+- Latin America
+- Lyft
+- Miami
+- Nicaragua
+- US
+- United States
+- Washington DC
+people:
+- Ana María Méndez Dardón
+- Daniel Ortega
+- Daykel Santamaría
+- Gioconda Belli
+- God
+- Javier Melendez
+- Luis Galeano
+- Lyft
+- Mario Díaz-Balart
+- María Elvira Salazar
+- Ortega Murillo
+- Rosa Murillo
+- Sergio Ramírez
+organisations:
+- Administration
+- Amnesty International
+- El Nuevo Diario
+- Expediente Abierto
+- Guardian
+- House Foreign Affairs Committee
+- ICE
+- Ice
+- Inter American Press Association
+- Noticias
+- Sandinista
+- The Committee to Protect Journalists
+- Trump
+- US Immigration and Customs Enforcement
+- Washington Office on Latin America
 ---
 
 Veteran journalist Luis Galeano, one of at least 94 Nicaraguans whom the Ortega Murillo regime has stripped of citizenship in recent years for opposing the government, has been detained by US Immigration and Customs Enforcement (ICE).

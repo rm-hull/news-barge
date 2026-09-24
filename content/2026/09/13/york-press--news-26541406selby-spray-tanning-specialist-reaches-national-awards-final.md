@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- India
+- North Yorkshire
+- Selby
+- UK
+people:
+- Alison Bell
+- Alison Platt
+- Jessica Crane
+- Katie Godfrey
+- Ms Bell
+- Selby
+organisations:
+- Lilly Rose Spray Tanning
+- Ms Bell
+- North Yorkshire
+- Northminster Business Park
+- Pic
 ---
 
 ## North Yorkshire spray tan specialist makes national finals again

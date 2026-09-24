@@ -13,6 +13,14 @@ categories:
 - Germany
 - News & Politics
 - History
+locations:
+- Austria
+- Switzerland
+people:
+- Geheimratsecken mit einer neuen Frisur zu kaschieren.
+- keine Sorgen
+organisations:
+- Ratsherrenecken
 ---
 
 Rather than symbolising loss, the German term for a receding hairline conjures ideas of wisdom, experience and the sort of sage advice once offered by trusted political counsellors.

@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- US
+people:
+- Andy Jassy
+- Bernie Sanders
+- Rachael Lighty
+- Rahim Amir
+organisations:
+- AWS
+- Amazon
+- GAO
+- Google News
+- Government Accountability Office
+- PC
+- PCs
+- RGB
+- SFF
+- SNAP
+- Senate Health, Education, Labor and Pensions Committee
+- TechRadar Pro
+- The Washington Post
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn.jpg) 

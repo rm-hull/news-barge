@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Bas-Uele
+- Bundibugyo
+- Congo
+- Dakar
+- Goma
+- Guinea
+- Haut-Uele
+- Ituri
+- Liberia
+- North Kivu
+- Senegal
+- Sierra Leone
+- Tshopo
+- West Africa Ebola
+- Zaire
+people:
+- Kingebeni
+- Yap Boum
+organisations:
+- Africa Centres for Disease Control and Prevention
+- CDC
+- M23
+- Placide Mbala Kingebeni
+- World Health Organization
+- ___ Banchereau
 ---
 
 The fastest-growing Ebola outbreak on record in eastern Congo is rapidly spreading beyond its epicenter, Africa’s top health body said Thursday.

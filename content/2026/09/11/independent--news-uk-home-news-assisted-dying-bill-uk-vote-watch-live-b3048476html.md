@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/09/11/07/019f18c13e827b5eb611032526
 categories:
 - News & Politics
 - UK
+locations:
+- UK
+people:
+- Andy Burnham
+- Bill
+- Esther Rantzen
+- Kim Leadbeater
+- Lauren Edwards
+- Liz Carr
+organisations:
+- Childline
+- Commons
+- End of Life
+- Lords
+- Terminally Ill Adults
 ---
 
 Watch live as MPs vote again on the UK’s assisted dying bill as it returns to parliament on Friday (11 September).

@@ -14,6 +14,100 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Chingford
+- Downing Street
+- England
+- Gorton
+- Greater Manchester
+- Hackney
+- Holborn
+- Iran
+- London
+- Lord Alli
+- Makerfield
+- Middle East
+- Russia
+- Scotland
+- Senedd
+- St Pancras
+- Strait of Hormuz
+- UK
+- UK-India
+- US
+- Ukraine
+- United States
+- Wales
+- Wembley Stadium
+- Westminster
+- Woodford Green
+people:
+- '## Burnham'
+- '## Mandelson'
+- Al Carns
+- Anas Sarwar
+- Andy Burnham
+- Angela Rayner
+- Anneliese Dodds
+- Brexit
+- Denton
+- Diane Abbott
+- Donald Trump
+- Faiza Shaheen
+- Frank Dobson
+- Gordon Brown
+- Jeffrey Epstein
+- Jeremy Corbyn
+- John Healey
+- Josh Simons
+- Keir Starmer
+- Ker
+- Lady Victoria
+- Lord Alli
+- Lord Mandelson
+- Lord Peter Mandelson
+- Morgan McSweeney
+- Nigel Farage
+- Olly Robbins
+- Peter Mandelson
+- Rachel Reeves
+- Robert Kenyon
+- Stephen Timms
+- Taylor Swift
+- Vicky Foxcroft
+- Waheed Alli
+- Wes Streeting
+- Winston Churchill
+- Zarah Sultana
+organisations:
+- '![Starmer'
+- Arsenal
+- Asos
+- Camden New Journal
+- Commons
+- Conservatives
+- Defence Investment Plan
+- Dip
+- EU
+- Epstein
+- Football Association
+- Foreign Office
+- Green Party
+- HMRC
+- King’s Speech
+- Labour Party
+- Ministry of Defence
+- NEC
+- National Executive Committee
+- Nato
+- PIP
+- Reform UK
+- SNP
+- Treasury
+- UK-US
+- US Department of Justice
+- YouGov
 ---
 
 Sir Keir Starmer has announced he will step down as the MP for Holborn and St Pancras, a move that will trigger a by-election in the London constituency.

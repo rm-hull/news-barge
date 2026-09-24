@@ -16,6 +16,15 @@ categories:
 - Arts & Culture
 - Family & Parenting
 - True Crime
+locations:
+- B6265
+people:
+- Bailey Chadwick
+- Dayle Knight
+- Joseph Henry Stott
+organisations:
+- Harrogate Magistrates' Court
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

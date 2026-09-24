@@ -11,6 +11,18 @@ categories:
 - UK
 - Film & TV
 image: https://static.the-independent.com/2026/09/20/16/2026-09-04T100209Z_615026601_RC26BNALVW0M_RTRMADP_3_FILM-BOXOFFICE-SUMMER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Burbank Jail
+- England
+- Los Angeles
+people:
+- Joe Rodriguez
+- Matthew Ware
+organisations:
+- CBS News
+- KTLA
+- Los Angeles Times
+- Rotten Tomatoes
 ---
 
 A moviegoer in Los Angeles was arrested after allegedly pepper-spraying a fellow movie attendee who was using their cellphone, police said.

@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/bta4HESk66Hkg8prPRW3AM-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+people:
+- Gary Chang
+organisations:
+- DRU
+- DSO
+- Dynamic Sub-band Operation
+- ELR
+- Google News
+- Hachette UK
+- IFA
+- Lead Industrial Designer
+- NPCA
+- Non-Primary Channel Access
+- StabilityEngine
+- TP-Link
 ---
 
 ![TP-Link Deco 8 Ultra mesh router unit placed on a wooden cabinet in a living room](https://cdn.mos.cms.futurecdn.net/bta4HESk66Hkg8prPRW3AM.png) 

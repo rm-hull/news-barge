@@ -11,6 +11,48 @@ image: https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Georgia
+- Ohio
+- United States
+people:
+- Bloomberg
+- Brent Mayo
+- Chris Malone
+- Greg Brockman
+- Rahim Amir
+- Sachin Katti
+- Sarah Friar
+- Uday Ruddarraju
+organisations:
+- AMD
+- Anthropic
+- Axios
+- Bloomberg
+- Business Insider
+- CNBC
+- CTO
+- Gemini
+- Google News
+- LinkedIn
+- MGX
+- Microsoft
+- Next Web
+- Nvidia
+- OpenAI
+- Oracle
+- PC
+- PCs
+- RGB
+- SEC
+- SFF
+- SoftBank
+- Spas Lazarov
+- Stargate
+- TechCrunch
+- TechRadar Pro
+- US AI
+- Wall Street Journal
 ---
 
 ![The OpenAI logo displayed on a screen with the flag of the United States in the background.](https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S.jpg) 

@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/5soNuC7Vqzv2k55E4F6Ek4-1920-80.png
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Barcelona
+- England
+- New Zealand
+- Pakistan
+- South Africa
+- Sri Lanka
+people:
+- Lewis Hamilton
+- Patrick Mahomes
+- Reece Walsh
+- Tadej Pogačar
+organisations:
+- Barcelona
+- El Clásico
+- NFL
+- New York Marathon
+- Real Madrid
+- Seattle Seahawks
+- UFC
+- WTA
 ---
 
 ![Lewis Hamilton, Patrick Mahomes and Reece Walsh](https://cdn.mos.cms.futurecdn.net/5soNuC7Vqzv2k55E4F6Ek4.png) 

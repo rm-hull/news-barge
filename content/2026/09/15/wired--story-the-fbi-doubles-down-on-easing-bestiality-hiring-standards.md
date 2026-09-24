@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Film & TV
 - Society & Culture
+locations:
+- Illinois
+- Louisiana
+people:
+- Dick Durbin
+- Donald Trump
+- John Kennedy
+- Kash Patel
+organisations:
+- CBS News
+- FBI
+- Federal Bureau of Investigation
+- Senate
+- US Government
+- WIRED
 ---
 
 Kash Patel, director of the Federal Bureau of Investigation, told confused members of the Senate judiciary committee on Thursday that new FBI hiring standards are aimed at protecting “victims of bestiality.”

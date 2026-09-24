@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Manchester Road
+- Royal Jewellers
+people:
+- Azeem Javed
+- Raja
+organisations:
+- Bradford Council
+- Newsquest
+- Pizza Bar
+- T&A
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

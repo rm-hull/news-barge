@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21488588.jpg?type=og-image
+locations:
+- Berlin
+- Central Hall
+- Darlington
+- Dolphin Centre
+- New York
+- Oslo
+- Seoul
+- Utrecht
+people:
+- Castelnuovo-Tedesco
+- Chopin
+- Greg Johnson
+- Liszt
+- Rachmaninov
+- Scriabin
+- Thomas Kelly
+organisations:
+- Central Hall
+- Darlington Hippodrome
+- Darlington Piano Society
+- Royal College of Music
 ---
 
 A prize-winning pianist whose career is taking him to some of the world’s leading concert venues will launch Darlington’s new Piano Society season.

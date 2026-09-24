@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Creator Economy & Marketing
+locations:
+- China
+- Dover
+- Portsmouth
+- UK
+people:
+- Adam Fleming
+- Anna Harris
+- Chris Gray
+- Daniel Sandford
+- Faisal Islam
+- Gabriel Purcell-Davis
+- Holly Smith
+- Jack Maclaren
+- John Healey
+- Lois Worrow
+- Philip Bull
+- Sam Bonham
+- Simon Jack
+organisations:
+- BBC Sounds
+- Jaguar Land Rover
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

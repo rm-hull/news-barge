@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Australia
+- Canberra
+people:
+- Chae Su-geun
+- Lee Jae Myung
+- Lee Jong-Sup
+- Park Jung-hun
+- Yoon Suk Yeol
+organisations:
+- Defense Ministry
+- Seoul Central District Court
 ---
 
 Former South Korean President Yoon Suk Yeol was acquitted Friday in a case related to a marine’s drowning death in a rare reprieve in one of the criminal cases brought against him following his ouster for imposing martial law.

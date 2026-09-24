@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/BaTjkWhJ2KFWZD3DyZG5gR-1920-80.jpg
+locations: []
+people:
+- Barry White
+- Godzilla
+- H.K.
+- Harry Padoan
+organisations:
+- Arc Ultra
+- Beam Ultra
+- Future Labs
+- HDMI
+- Medium
+- Samsung R95H TV
+- Sonos Arc Ultra
+- Sonos Beam Ultra
+- Spotify Connect
+- TV Audio Swap
+- TechRadar
+- Tidal Connect
+- USB-C
 ---
 
 ### TechRadar Verdict

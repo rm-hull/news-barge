@@ -15,6 +15,52 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations:
+- Cannes
+- Hollywood
+- North America
+- Telluride
+- Toronto
+- Venice
+people:
+- Always Lalisa
+- Amanda Seyfried
+- Anthony Ippolito
+- Chris Rock
+- Chrissie Hynde
+- Curry Barker
+- Cynthia Erivo
+- Disciple
+- Duncan Jones
+- Hamnet
+- Judy Heumann
+- Lisa Manobal
+- Mahershala Ali
+- Margaret Qualley
+- Misty Green
+- Neil Peart
+- Peter Farrelly
+- Prima Facie
+- Rachel Morrison
+- Rocky Balboa
+- Rosalind Eleazar
+- Rush
+- Ruth Madeley
+- Siân Heder
+- Susanne White
+- Sylvester Stallone
+- Tim Blake Nelson
+- Zack Snyder
+- “Moon
+organisations:
+- Blackpink
+- Bleeding Hearts
+- Chaparelle
+- Focus Features
+- Golden Lion
+- Green Book
+- KPop
+- TIFF
 ---
 
 The spotlight at the 51st edition of the Toronto International Film Festival will belong to Rocky Balboa, KPop superstar Lisa, late disability rights pioneer Judy Heumann and many more when North America’s largest film festival gets underway Thursday.

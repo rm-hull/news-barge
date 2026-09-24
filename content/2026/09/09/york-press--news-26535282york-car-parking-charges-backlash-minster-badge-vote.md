@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Bishopthorpe Road
+- Cleggs
+- East Parade
+- Goodramgate
+- Heworth
+- Micklegate
+- Rowntree Park
+- Some York
+- The Groves
+people:
+- Andrew Lowson
+- Kate Ravilious
+- Mark Jones
+organisations:
+- Arup
+- BID Board
+- City of York Council
+- Cleggs
+- Kevin Glenton
+- Labour
+- Minster Badge
+- Parking Strategy
+- York Business Improvement District
+- York's Park & Rides
 ---
 
 ## Customers and tourists put off by York parking charges, shop claims

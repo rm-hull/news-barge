@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Chidswell Lane
+- Gawthorpe Water Tower
+- Ossett
+- West Yorkshire
+people:
+- Chris Burley
+organisations:
+- Gawthorpe Water Tower
+- Historic England
+- The Yorkshire Post
+- Wakefield Council
+- Yorkshire Water
 ---
 
 # Gawthorpe Water Tower: The West Yorkshire community campaigning to save a beloved Grade II listed water tower

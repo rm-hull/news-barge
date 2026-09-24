@@ -14,6 +14,22 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- County Hall
+people:
+- Coun Healy
+- Denis Healy
+- Mike Ross
+organisations:
+- East Riding Council
+- East Riding Lib Dem Party
+- East Riding of Yorkshire Council Lib Dem Group
+- Lib Dem
+- Lib Dems
+- Liberal Democrats
+- Mayoral
+- The Hull Stack
+- Tories
 ---
 
 # Lib Dem group leader on Yorkshire council appeals against 'bullying' claims

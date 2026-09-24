@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Anzoategui
+- Caracas
+- La Guaira
+- Mexico City
+- Venezuela
+people:
+- Andrés Molina
+- Andrés'
+- Andrés’
+- Antonella Molina
+- Pedro Molina
+organisations:
+- McDonald's
+- McDonald’s
+- WhatsApp
+- ___ Brigida
 ---
 
 Antonella Molina, her nephew Pedro Molina and a group of friends set out at 8 a.m. on a recent Saturday, hands full of flyers, walking carefully through the rubble that remains throughout La Guaira after two catastrophic back-to-back earthquakes 10 weeks ago.

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Duckworth Lane
+people:
+- '## Woman'
+- Muhammad Ali
+- Muhammad Ilyas
+organisations:
+- CCTV
+- Newsquest
+- Pakistan Jewellers
+- T&A
 ---
 
 *(Image: Newsquest)*

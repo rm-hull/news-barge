@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Los Angeles
+- Melbourne
+- New York
+- Paris
+people:
+- Carlos Alcaraz
+- Felix Auger-Aliassime
+- Jannik Sinner
+- Ken Rosewall
+- Margaret Court
+- Navone
+- Novak Djokovic
+- Pat Cash
+- Rafael Nadal
+- Roger Federer
+organisations: []
 ---
 
 Djokovic overcome with emotion during US Open loss

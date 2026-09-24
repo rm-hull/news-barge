@@ -12,6 +12,86 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Hollywood
+- LA
+- Los Angeles
+- Los Angeles.
+- New York
+- The Pitt Los Angeles
+- UK
+- US
+- Widow's Bay
+people:
+- '![Zendaya'
+- Alan Cumming
+- Bad Bunny
+- Betty Gilpin
+- Carey Mulligan
+- Cloris Leachman
+- Colman Domingo
+- Connor Storrie
+- Dan Levy
+- David Harbour
+- Emmy
+- Ernest Harden Jr
+- Gary Oldman
+- Hacks Smart
+- Hannah Einbinder
+- Hudson Williams
+- Jack Lowden
+- Janelle James
+- Jayne Mansfield
+- Jean Smart
+- Jimmy Kimmel
+- John Oliver
+- Julia Louis-Dreyfus
+- Julie Andrews
+- Kate O’Flynn
+- Lewis Pullman
+- Linda Cardellini
+- Mariska Hargitay
+- Matthew Rhys
+- Noah Wyle
+- Olivia Benson
+- Oscar Isaac
+- Quinta Brunson
+- Rivalry
+- Riz Ahmed
+- Rob Reiner
+- Rufus Sewell
+- Sally Field
+- Sarah Snook
+- Scorsese
+- Shailene Woodley
+- Zendaya
+organisations:
+- Abbott Elementary
+- Academy
+- BBC News
+- Bait
+- Bridgerton
+- DTF St Louis
+- Emmys
+- HBO
+- Law and Order
+- Mariska Hargitay
+- NBC
+- Netflix
+- Paradise
+- Peacock Theater
+- SVU
+- Schitt's Creek
+- Slow Horses
+- South Park
+- Special Victims Unit
+- St Louis**
+- The Bear
+- The Diplomat
+- The Pitt
+- Widow's Bay
+- Widow’s Bay
+- Zendaya
 ---
 
 ![Zendaya attends the Los Angeles premiere of HBO's Euphoria season three - she is wearing a black halterneck dress and hoop earrings](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ee34/live/754b5420-8b33-11f1-b170-2de1c3aec73b.jpg)

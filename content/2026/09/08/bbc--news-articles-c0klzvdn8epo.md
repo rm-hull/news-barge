@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Glastonbury
+- Leeds
+- New York City
+- Reading
+- Times Square
+- UK
+people:
+- Covid
+- Emily Eavis
+- Harry Styles
+- Lewis Capaldi
+- Madonna
+- Neil Young
+- Olivia Rodrigo
+- Rod Stewart
+- Stevie Wonder
+- Taylor Swift
+organisations:
+- BBC News
+- BBC Radio 4
+- BBC Research.
+- Download
+- Fontaines DC
+- Glastonbury
+- Leeds
+- Madonna
+- Olivia Rodrigo
+- Parklife and Wireless
+- Reading
+- The 1975
 ---
 
 ![Olivia Rodrigo performs at Glastonbury](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/86ac/live/f6644600-abab-11f1-8e72-a346833ed029.jpg)

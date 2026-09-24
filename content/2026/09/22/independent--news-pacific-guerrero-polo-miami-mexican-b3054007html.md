@@ -12,6 +12,22 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/22/07/Tropical_Weather_132_2.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Colima
+- Guerrero
+- Jalisco
+- Manzanillo
+- Mexico
+- Miami
+- Michoacán
+- Oaxaca
+- Pacific
+- Polo
+- Saffir-Simpson
+- Tecpan de Galeana
+people: []
+organisations:
+- U.S. National Hurricane Center
 ---
 
 Hurricane Polo grew into a Category 4 storm in the eastern Pacific late on Monday and was forecast to bring heavy rain to southwestern Mexico but remain offshore.

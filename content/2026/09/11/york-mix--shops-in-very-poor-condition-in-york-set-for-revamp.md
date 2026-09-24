@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Church Lane
+- Spurriergate
+people: []
+organisations:
+- Bench Mark Designs
+- City of York Council
 ---
 
 Shops said to be in a very poor condition are set for a revamp.

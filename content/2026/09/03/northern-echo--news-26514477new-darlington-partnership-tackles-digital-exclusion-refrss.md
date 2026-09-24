@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Education & Learning
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+people:
+- Chris McEwan
+- David Thomas
+organisations:
+- Darlington Borough Council
+- Echo
+- Furbd
+- Skills Darlington
 ---
 
 *(Image: Darlington Borough Council)*

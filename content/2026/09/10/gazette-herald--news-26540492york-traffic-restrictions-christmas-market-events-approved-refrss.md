@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Duncombe Place
+- York Minster
+people:
+- Cllr Ayre
+- Cllr Claire Douglas
+- Cllr Douglas
+- Cllr Nigel Ayre
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- ATTRO
+- ATTROs
+- Anti-Terror Traffic Regulation Order
+- Anti-Terror Traffic Regulation Orders
+- Blue Badge
+- City of York Council
+- Deangate
+- Labour Council
+- Labour Transport
+- Liberal Democrat
+- North Yorkshire Police
+- The Christmas Market
+- York Christmas Market
+- York Council
 ---
 
 The use of powers banning traffic from York city centre during Christmas Markets and other events is sensitive and difficult, the council's leader has said.

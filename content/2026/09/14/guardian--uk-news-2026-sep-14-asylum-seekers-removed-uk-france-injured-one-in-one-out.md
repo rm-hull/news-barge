@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Afghanistan
+- England
+- Eritrea
+- France
+- Libya
+- Paris
+- Sudan
+- UK
+- United Kingdom
+- Île-de-France
+people:
+- Nihal Osman
+organisations:
+- French Assembly
+- Home Office
+- Le Touquet
+- Mitie
+- Médecins Sans Frontières
+- SSP
+- Samusocial de Paris
+- UK Home Office
 ---
 
 Multiple injuries including bruising and fractures have been documented by a health service supporting people returned to France under the controversial “one in, one out” scheme.

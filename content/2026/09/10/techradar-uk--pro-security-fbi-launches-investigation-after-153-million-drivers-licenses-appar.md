@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - True Crime
+locations:
+- Canada
+- US
+people:
+- Brian Krebs
+- Christian Cawley
+- Jillian Kossman
+- Pete Hegseth
+organisations:
+- Computer Weekly
+- ComputerActive
+- Exploit
+- FBI
+- FedEx
+- Google News
+- Hertz
+- IDScan
+- Krebs’
+- Linux Format
+- Matter Alpha
+- Nexus
+- TechRadar Pro
 ---
 
 ![Outline map of US states in glowing blue with exploding streams of binary data illustrating communication, internet and technology](https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf.jpg) 

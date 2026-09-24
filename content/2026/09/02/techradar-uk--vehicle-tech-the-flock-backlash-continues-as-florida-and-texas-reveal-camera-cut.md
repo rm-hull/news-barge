@@ -11,6 +11,26 @@ description: Two more states are scaling back their use of Flock cameras, over c
 image: https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Florida
+- Stockport
+- Texas
+- US
+people:
+- Dave
+- David Nield
+- Greg Abbott
+- Ron DeSantis
+organisations:
+- Flock
+- Florida Department of Transportation
+- Fox Business
+- Gizmodo
+- Google News
+- PC Explorer
+- Texas Tribune
+- The Hardware Handbook
 ---
 
 ![Flock Safety Camera](https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC.jpg) 

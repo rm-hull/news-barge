@@ -11,6 +11,20 @@ image: https://i.guim.co.uk/img/media/a48336fe3cdac35beed08fbd3979ae5f54623b23/2
 categories:
 - UK
 - News & Politics
+locations:
+- Bitterroot River
+- California
+- Montana
+people:
+- Gavin Newsom
+- God
+- Jake Tapper
+- Joe Biden
+- Kamala Harris
+- Trump
+organisations:
+- CNN
+- Trump
 ---
 
 Gavin Newsom, the California governor, will not run for president if former vice-president Kamala Harris does, he said in a forthcoming interview with CNN.

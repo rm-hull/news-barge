@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- Coast to Coast
+- Dale Head
+- Dale Head Farm
+- Dale Head Farm Tea Garden
+- Dale Head Farm Tea Garden Dale Head
+- North York Moors
+- North York Moors National Park
+- North Yorkshire
+- Pickering
+- Rosedale Abbey
+- Rosedale East
+- Yorkshire Dales Dale Head
+people:
+- Dale Head
+- Mason McQueen
+- Terry Wogan
+organisations:
+- Google
+- Tripadvisor
+- Yorkshire Life
 ---
 
 *(Image: TRIPADVISOR)*

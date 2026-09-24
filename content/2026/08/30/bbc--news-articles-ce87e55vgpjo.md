@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Earth
+- Florida
+- Goddard Space Center
+- James Webb
+- Nancy Grace Roman
+- Sun
+- US
+people:
+- Donald Trump
+- Jackie Townsend
+- Jenifer Millard
+- Nancy Grace Roman
+- Nicky Fox
+organisations:
+- BBC
+- Hubble Space Telescope
+- James Webb Space Telescope
+- Kennedy Space Center
+- Nancy Grace Roman Space Telescope
+- Nasa
+- SpaceX
+- US Congress
+- Universe
 ---
 
 Watch: Nasa launches Roman telescope from Kennedy Space Center

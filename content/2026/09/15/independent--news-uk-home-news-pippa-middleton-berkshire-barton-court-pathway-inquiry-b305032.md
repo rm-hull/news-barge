@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Barton Court
+- Berkshire
+- Hungerford
+- National Landscape
+- Princess of Wales
+- Station Road
+- Wessex Downs
+people:
+- James Matthews
+- Kate
+- Kenneth Taylor
+- Pippa Middleton
+- Terence Conran
+organisations:
+- Kintbury Coronation Hall
+- West Berkshire Council
+- West Berkshire District Council
+- West Berkshire Ramblers
 ---
 
 Pippa Middleton and her husband have the won the right to block a public footpath through her family’s country estate due to concerns over security.

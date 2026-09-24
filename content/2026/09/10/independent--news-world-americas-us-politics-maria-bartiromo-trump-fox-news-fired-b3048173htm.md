@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/10/17/33/GettyImages-2284176154.
 categories:
 - News & Politics
 - UK
+locations:
+- White House
+people:
+- Bryan Freedman
+- Donald Trump
+- Maria Bartiromo
+- Peter Navarro
+organisations:
+- CNBC
+- CNN
+- Dominion Voting Systems
+- Fox Business
+- Fox News
+- The Independent
+- The New York Times
+- Trump
 ---
 
 Maria Bartiromo broke her silence days after departing Fox News, where she was reportedly fired for sharing internal guidance with the Trump administration, a claim her attorney has denied.

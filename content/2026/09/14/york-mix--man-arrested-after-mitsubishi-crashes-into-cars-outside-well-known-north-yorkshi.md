@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Helmsley
+- North Yorkshire
+people: []
+organisations:
+- Mitsubishi
+- North Yorkshire Police
+- The Feversham Arms
+- Via
 ---
 
 A man has been arrested after a crash near a well-known North Yorkshire pub.

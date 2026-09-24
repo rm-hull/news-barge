@@ -14,6 +14,12 @@ categories:
 - Travel
 - Lifestyle & Fashion
 image: https://mmo.aiircdn.com/409/661e1dd4d547c.jpg
+locations:
+- Ripon
+people: []
+organisations:
+- Ripon Community House
+- Ripon Racecourse
 ---
 
 ![](https://mmo.aiircdn.com/409/661e1dd4d547c.jpg)

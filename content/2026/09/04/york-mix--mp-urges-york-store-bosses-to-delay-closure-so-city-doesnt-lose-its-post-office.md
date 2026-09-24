@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Colliergate
+- Coney Street
+- Micklegate
+- York
+people:
+- Rachael Maskell
+organisations:
+- '***YorkMix***'
+- House of Commons
+- Lendal HQ
+- Modella Capital
+- Ms Maskell
+- Post Office
+- TG Jones
+- WH Smith
+- York Central
 ---
 
 York Central MP Rachael Maskell has contacted the owners of retailer TG Jones to urge them to keep the store open until a new home is found for the Post Office.

@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Balatro
+- Black Deck
+people:
+- Balatro
+- Jacopo Attolini
+- Oliver Haslam
+- Redditor
+- Tom
+organisations:
+- AI
+- Astra
+- Atari Chess
+- BalatroBot
+- GPT-Astra
+- Gemini
+- Get Tom's Hardware
+- GitHub
+- Gold Stake
+- Google News
+- Oliver Haslam
+- OpenAI
+- Reddit
+- Valve
 ---
 
 ![Balatro logo showing multiple playing cards.](https://cdn.mos.cms.futurecdn.net/7EnQP6MrzTXoPhA5PurbcT.jpg) 

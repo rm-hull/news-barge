@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- London
+- Museum Gardens
+- York Museum Gardens
+people:
+- Andy Burns
+- John Phillips
+- Martin Watts
+- Sarah Woodward
+organisations:
+- Kirkbymoorside Town Brass Band
+- London Zoo
+- York Museums Trust
+- Yorkshire Museum
+- Yorkshire Philosophical Society
 ---
 
 A remarkable piece of York history is being brought back to life.

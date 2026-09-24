@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg
+locations:
+- A61
+- Dunlopillo
+- Harrogate
+- Pannal railway station
+- Smithy Close
+- Thirkhill Drive
+people: []
+organisations:
+- Forward Investments LLP
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg)

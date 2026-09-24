@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- El Niño
+- Indonesia
+- Pacific
+- Papua New Guinea
+- Tasmania
+- Victoria
+people:
+- Andrew King
+- António Guterres
+- Felicity Gamble
+organisations:
+- BoM
+- Bureau of Meteorology
+- El Niño
+- New South Wales
+- UN
+- University of Melbourne
 ---
 
 The growing El Niño weather phenomenon to Australia’s east is already breaking heat records, with forecasts showing it will likely easily surpass previous events, according to Australia’s Bureau of Meteorology, as seperate research suggested climate change had greatly shortened the odds of the event hitting record extremes.

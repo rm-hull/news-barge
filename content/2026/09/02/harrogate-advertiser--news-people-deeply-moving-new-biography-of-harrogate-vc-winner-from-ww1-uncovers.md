@@ -14,6 +14,27 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Contalmaison
+- Harrogate
+- Horseshoe Trench
+- Western Front
+people:
+- '![''Gripping'
+- Donald Simpson Bell
+- Iain McMullen
+organisations:
+- Bishop Auckland
+- Bradford Park Avenue
+- Donald Simpson Bell VC
+- Harrogate Grammar School
+- Newcastle United
+- Pen & Sword
+- St Peter’s Primary School
+- Starbeck Primary Academy
+- Victoria Cross
+- Wesley Chapel
+- Western Front Association
 ---
 
 # 'Deeply moving' new biography of Harrogate VC winner from WW1 uncovers rarely-seen private archives

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- UK
+- US
+- Uber London
+people:
+- Alex Kendall
+- Christina Calderator
+- David McMullen
+- Sarfraz Maredia
+- Siddartha Khastgir
+- Wayve
+- Zoe Kleinman
+organisations:
+- Baidu
+- Department for Transport
+- DfT
+- GMB
+- Google
+- TfL
+- Transport for London
+- Uber Comfort
+- Uber Electric
+- University of Warwick
+- Warwick Manufacturing Group
+- Waymo
+- Wayve
 ---
 
 ![Zoe Kleinman in blue jeans and cream blouse standing next to a dark Wayve self-driving robotaxi on a London pavement.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/83e4/live/e5ad9e60-a6dd-11f1-acae-21b536d72e0e.jpg)

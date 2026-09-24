@@ -12,6 +12,59 @@ image: https://static.independent.co.uk/2026/08/29/14/2026-08-29T124900Z_1703644
 categories:
 - News & Politics
 - UK
+locations:
+- Arkhangelsk
+- Bucha
+- English Channel
+- Europe
+- Flamingo
+- Iran
+- Izmail
+- Kamchatka
+- Kherson
+- Kiev
+- Kremlin
+- Kura
+- Kyiv
+- Moscow
+- Mykolaiv
+- Myla
+- North Sea
+- Russia
+- Sparta
+- Strait of Dover
+- Tehran
+- UK
+- US
+- Ukraine
+- Vyshneve
+people:
+- Donald Trump
+- Gwyn Jenkins
+- John Ratcliffe
+- Levchenko
+- Moment Putin
+- Oleksandr Prokudin
+- Oleksandr Vodolaz
+- Serhii Koretskyi
+- Skobelev
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Zhanna Kravchuk
+organisations:
+- '## Zelensky'
+- Associated Press
+- CIA
+- Defence Forces
+- HMS Duncan
+- HMS Severn
+- HMS St Albans
+- Merlin
+- Nato
+- The Washington Post
+- Vyshneve
+- 'West ## Navy'
 ---
 
 Russian strikes have killed at least 37 people in Kyiv, most of them from a care home for the elderly, according to local Ukrainian officials.

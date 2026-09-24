@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- David Singleton
+- Mark Zuckerberg
+- Muse
+organisations:
+- AI
+- Anthropic
+- Link
+- Meta Superintelligence Lab
+- Meta Superintelligence Labs
+- Moxie Marlinspike
+- Muse
+- Muse.ai
+- OpenAI
+- Sentinel
+- Stripe
+- VM
+- WIRED
+- iOS
 ---
 
 Meta announced Tuesday the release of Muse, a personal AI agent that people can message to automate digital tasks in a secure cloud environment, all while relying on security and privacy that the company says is “built into it” from the start.

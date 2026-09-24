@@ -15,6 +15,24 @@ categories:
 - Sports
 - Video Gaming
 - Technology & Software
+locations:
+- Anaheim
+- Canada
+- Columbus
+- Dallas
+people:
+- Charlie Neiman
+- David Proper
+organisations:
+- Amazon
+- Blue Jackets
+- Carolina
+- Hurricanes
+- Minnesota
+- NHL
+- Prime Video
+- St. Louis
+- Wild and Blues
 ---
 
 Amazon’s Prime Video will be the exclusive local streaming home of six NHL teams this season as part of a multiyear agreement announced by the league Wednesday.

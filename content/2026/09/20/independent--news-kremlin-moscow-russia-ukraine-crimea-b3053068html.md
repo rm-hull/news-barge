@@ -14,6 +14,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/20/09/Russia_Ukraine_War_14_89.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- Crimea
+- Kremlin
+- Moscow
+- Russia
+- Ukraine
+people:
+- Andrei Vorobyov
+- Kyiv
+- Sergei Sobyanin
+- Vladimir Putin
+organisations:
+- Ministry of Defense
+- Moscow Oil Refinery
 ---
 
 Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last day of its parliamentary elections.

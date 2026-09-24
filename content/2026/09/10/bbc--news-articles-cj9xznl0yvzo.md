@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- BBC
+- UK
+people:
+- Andy Burnham
+- Kemi Badenoch
+organisations:
+- BBC Breakfast
+- BBC Radio 4
+- Department for Work and Pensions
+- Houses of Parliament.
+- Labour
+- PMQs
+- Politics Essential
 ---
 
 ![A head and shoulders shot of Badenoch in a BBC studio. She is wearing a white jacket over a royal blue top and has her braided hair tied back in a low ponytail.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/94b0/live/2f79d1f0-acef-11f1-a8ae-35fb3e785e0c.jpg)

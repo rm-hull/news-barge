@@ -14,6 +14,15 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21437861.jpg?type=og-image
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Alstom
+- Helmsley Market
+- Malton Market
+- York Designer Outlet
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Alstom)*

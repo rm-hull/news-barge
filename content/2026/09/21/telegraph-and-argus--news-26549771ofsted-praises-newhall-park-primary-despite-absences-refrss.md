@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454614.jpg?type=og-image&xType=0&yType=120
+locations:
+- Bierley
+- Bradford
+- Newhall Park
+people:
+- Karren El Kheir
+organisations:
+- Leadership and Governance, and Personal Development and Wellbeing
+- Newhall Park Primary School
+- Newsquest
+- Ofsted
 ---
 
 *(Image: Newsquest)*

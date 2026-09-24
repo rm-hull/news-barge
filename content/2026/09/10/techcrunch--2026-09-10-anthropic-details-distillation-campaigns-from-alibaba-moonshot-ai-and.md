@@ -13,6 +13,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Claude
+organisations:
+- Alibaba
+- Anthropic
+- DeepSeek
+- Kimi
+- Moonshot AI
+- OpenAI
 ---
 
 A new report released Thursday by Anthropic alleged persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.

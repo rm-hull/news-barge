@@ -12,6 +12,13 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Google Street View
+- ST Margarets Road
+people: []
+organisations:
+- City of Bradford Metropolitan District Council
+- Legal and Governance
 ---
 
 *(Image: Google Street View)*

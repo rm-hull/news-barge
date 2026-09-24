@@ -11,6 +11,14 @@ description: The 'Cherry Bloom' gaming PC blends tech and nature in a way that I
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/MubWv8UujPVyxEbpevf33d-1080-80.jpg
+locations: []
+people:
+- VideoCardz
+organisations:
+- Darren
+- Google News
+- Hachette UK
+- Zotac
 ---
 
 ![Aftershock Cherry Bloom PC view of case at an angle](https://cdn.mos.cms.futurecdn.net/MubWv8UujPVyxEbpevf33d.jpg)

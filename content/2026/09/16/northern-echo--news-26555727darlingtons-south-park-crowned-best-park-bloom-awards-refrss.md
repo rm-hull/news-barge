@@ -14,6 +14,75 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Alnwick
+- Belmont Parish
+- Berwick Town Centre
+- Berwick-upon-Tweed
+- Best Bus
+- Best Park
+- Bishop Auckland
+- Bloom
+- Carrville
+- Chester-le-Street
+- City Centre
+- County Durham
+- Cramlington
+- Darlington South Park
+- Dinsdale Drive
+- East Ord
+- Fir Tree Village
+- Gateshead
+- Guest House
+- Metro
+- North East
+- North Tyneside
+- Northumbria
+- Railway Station
+- Ramside Hall Golf Course
+- South Park
+- Tanfield Railway
+- The Auckland Project
+- Towns and Small City
+- Valley Park
+- Washington Village
+people:
+- Bishop Auckland
+- Chris BOOTH
+- Michael Watson
+- Oliver Winthorpe
+- Robert Germany
+- Steve Harker
+organisations:
+- Annfield Plain
+- Auckland Hospital Community Garden
+- Belmont Scrambles
+- Best Care
+- Best Conservation Project
+- Best Hotel
+- Best Town Centre Retail Area
+- Bishop Auckland
+- Bishop Auckland Hospital Community Garden
+- Cobalt Business Park
+- Darlington Borough Council
+- Derwentside Funeral Directors
+- Durham Gilesgate Primary School
+- Grill
+- Grounds of Hospitals
+- Haughton le Skerne War Memorial
+- Hopetown Darlington
+- Manor House
+- National Trust Crook Hall Gardens
+- Ord House Lounge Bar
+- RC Church Grounds
+- Ramside Hall
+- Robert Adam Court
+- St Cuthbert
+- Sunderland City Council
+- Swansfield Primary School
+- The Fed
+- Washington Village
+- Whickham
 ---
 
 Floral displays, green spaces, and community effort have earned top honours for towns across the region in this year’s Northumbria in Bloom Awards.

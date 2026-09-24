@@ -15,6 +15,23 @@ categories:
 - York
 - Family & Parenting
 - Health & Fitness
+locations:
+- Lythe
+- Mulgrave Estate
+- Phipps Farm
+- Whitby
+people:
+- Alan
+- Alzheimer
+- Beth
+- Eric Dobson
+- Keith
+- Lewis
+- Martin
+- Sandsend
+- Vanessa Dobson
+organisations:
+- Ceri Oakes
 ---
 
 # 'I took over my family farm when my husband was diagnosed with Alzheimer's - I couldn't even milk a cow at the time'

@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Acme
+- Batgirl
+- Buddy
+- Dave Green
+- David A. Gross
+- Eric Bauza
+- Ian Frazier
+- Jacob Elordi
+- John Cena
+- Lana Condor
+- Mutiny
+- Scoob!
+- Tony
+- Warner
+- Wile E. Coyote
+- Will Forte
+organisations:
+- 20th Century Studios
+- Acme Corporation
+- Christopher Nolan
+- CinemaScore
+- Dino Movie
+- FranchiseRe
+- HBO Max
+- Ketchup Entertainment
+- Odyssey
+- Rentrak
+- Ridley Scott
+- The Dog Stars
+- Universal Pictures
+- Warner Bros
 ---
 
 Three years after Warner Bros. abruptly canned “Coyote vs. Acme,” the Looney Tunes feature film that was given a new lease on life by Ketchup Entertainment debuted with an estimated $15.5 million in ticket sales over the weekend.

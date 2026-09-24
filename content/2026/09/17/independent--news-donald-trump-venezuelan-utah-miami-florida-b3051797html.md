@@ -14,6 +14,81 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Albuquerque
+- Amazon
+- Arizona
+- Atlanta
+- Boston
+- Centro de Apoyo Familiar Church
+- Chicago
+- Colombia
+- Dallas
+- Darien Gap
+- Del Rio
+- Denver
+- Florida
+- Georgia
+- Houston
+- Kentucky
+- Louisville
+- Madison
+- Maracaibo
+- Miami
+- Midvale
+- New Jersey
+- New Mexico
+- Odessa
+- Panama
+- Paterson
+- Salt Lake City
+- San Diego
+- Sandy
+- Savannah
+- Texas
+- U.S.
+- United States
+- Utah
+- Venezuela
+- Wisconsin
+- Yuma
+- Zulia
+people:
+- Aaron Kessler
+- Adaya Amaya
+- Alberto Salcedo
+- Arempa
+- Ashly Estupinan
+- Carlos Moreno
+- Carlos Trujillo
+- Donald Trump
+- Enrique Vera
+- Fidel Arrieta
+- Gonzalo Rodriguez
+- Gregorio Rausseo
+- Hector Escalona
+- Joe Biden
+- Joiren Rangel
+- Julio Gonzalez
+- Loreana Pachano
+- Mona Lisa
+- Sandy Arrieta
+- Spencer Cox
+- Therese
+- Utah Juan Gonzalez
+organisations:
+- AP
+- Arempa's
+- Arempa’s
+- Associated Press
+- CBP One
+- Child Jesus Church
+- Church of Jesus Christ of Latter-day Saints
+- Fillerup Employment Services
+- Salt Lake County Council
+- Temporary Protected Status
+- Utah Compact
+- Walmart
 ---
 
 Snow-covered mountains ringing a valley of wide, free-flowing roads remind Venezuelan transplants that the growing suburbs south of Salt Lake City offer what Miami can’t.

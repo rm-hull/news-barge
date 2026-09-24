@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Bishopthorpe Road
+- East Parade
+- Heworth
+- Kevin Glenton
+- Micklegate
+- Rowntree Park
+- Some York
+- The Groves
+- York Permits
+people:
+- Ashley Mason
+- Cllr Mason
+- Cllr Nicholls
+- Cllr Ravilious
+- Kate Ravilious
+- Mike Nicholls
+- Ms Phillips
+- Ruth Phillips
+organisations:
+- Arup
+- Bishopthorpe Road Traders Association
+- City of York Council
+- Good Food Shop
+- Labour Transport
+- Liberal Democrat
+- Liberal Democrat economy
+- Minster Badge
+- Minster Badges
 ---
 
 *(Image: York BID)*

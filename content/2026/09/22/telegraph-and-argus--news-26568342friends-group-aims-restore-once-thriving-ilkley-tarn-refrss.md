@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/21481738.jpg?type=og-image
+locations:
+- Ilkley Moor
+- Ilkley Tarn
+- Natural England
+- UGC
+- Upper Tarn
+people:
+- FoIM
+- John Boyle
+- Owen Wells
+- Rick Battarbee
+organisations:
+- Bradford Pennine Gateway National Nature Reserve
+- FoIM
+- Friends of Ilkley Moor
+- Goldsmith Ecology
+- Liverpool University
+- Pennine Gateway National Nature Reserve
+- UGC
+- University College London
 ---
 
 AN Ilkley group is planning to restore a once-thriving wildlife pond which is now polluted and struggling to support life.

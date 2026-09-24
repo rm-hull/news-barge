@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Born
+- Fifth Republic
+- France
+- Marseille
+- Paris
+- Turkey
+people:
+- Edouard Balladur
+- Emmanuel Macron
+- Francois Mitterrand
+- Georges Pompidou
+- Jacques Chirac
+- Lionel Jospin
+- Marine Le Pen
+- Sebastien Lecornu
+organisations:
+- AFP
+- Ecole Nationale
+- Sciences Po
 ---
 
 ## French President Emmanuel Macron called Balladur a "demanding, level-headed, and devoted public servant" who he said had "dedicated his life to the Fifth Republic."

@@ -13,6 +13,15 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/14/15/Gargrave-Road-roundabout.png?trim=0,40,0,39&crop=&width=1200&auto=webp&quality=75
+locations:
+- A59
+- Broughton
+- Gargrave Road
+- Skipton
+people:
+- Caddy
+organisations:
+- North Yorkshire Police
 ---
 
 # Cyclist in his 60s dies after crash with van on A59 near Skipton

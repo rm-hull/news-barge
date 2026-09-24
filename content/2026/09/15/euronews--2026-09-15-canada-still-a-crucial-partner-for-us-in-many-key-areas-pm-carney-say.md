@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Canada
+- Ottawa
+- Toronto
+- US
+- Washington
+people:
+- '## Carney'
+- Mark Carney
+organisations: []
 ---
 
 ## Carney made the comments at a two-day Investment Summit in Toronto as Canada seeks to diversify and bring new investment into the country.

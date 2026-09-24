@@ -14,6 +14,49 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- East Road
+- Everyman Northallerton
+- North Yorkshire
+- Our Yorkshire Farm
+- Owen
+- Ravenseat Farm
+- Swaledale
+- Treadmills
+- Yorkshire Dales’
+people:
+- Amanda Owen
+- Annas
+- Anthony Clarkson
+- Anty John
+- Anty John’s
+- Clementine
+- Clive Owen
+- Edith
+- Mark Robinson
+- Miles
+- Nancy
+- Owens
+- Raven
+- Ravenseat
+- Reuben Owen
+- Sidney
+- Violet
+organisations:
+- Anty John's
+- Anty John’s
+- CHANNEL4
+- Channel 4
+- Lime Pictures
+- More4
+- Our Farm Next Door
+- Our Yorkshire Farm
+- Our Yorkshire Farm TV
+- Ravenseat
+- Royal Television Society
+- Wise Owl Films
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 Amanda Owen will give fans an exclusive preview of the new Our Farm Next Door series at a North Yorkshire event.

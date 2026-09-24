@@ -16,6 +16,18 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Page Hall
+- Robey Street
+- Sheffield
+people:
+- Anna Moran
+- Joshua Dunleavey
+- Lauren Smith
+- Matthew Burdon
+- Ms Smith
+organisations:
+- Sheffield Crown Court
 ---
 
 # Thug kicked one police officer down stairs and spat in face of another on alcohol-fuelled rampage

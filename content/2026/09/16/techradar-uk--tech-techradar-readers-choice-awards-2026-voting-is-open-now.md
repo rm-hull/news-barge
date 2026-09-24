@@ -11,6 +11,15 @@ description: Our 100% reader-voted awards will crown the top tech of the last ye
 image: https://cdn.mos.cms.futurecdn.net/J4bKCkKciuAH5vmxwYbvi5-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- CES
+- Google News
+- MWC
+- Marvel
+- Megazord
+- TechRadar
 ---
 
 ![The logo for the TechRadar Readers' Choice Awards 2026](https://cdn.mos.cms.futurecdn.net/J4bKCkKciuAH5vmxwYbvi5.jpg) 

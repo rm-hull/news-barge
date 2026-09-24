@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Berkeley Square
+- Bucharest
+- London
+- Mayfair
+- Morocco
+people:
+- Abdel El Habchi
+- Ali Eldahouzze
+- Arizuna Asante
+- Catalin Botezatu
+- El Habchi
+- God
+- Richard Mille
+- Younes Djoudi
+organisations:
+- Amazonico
+- El Habchi
+- Southwark Crown Court
 ---
 
 Two men have been found guilty of robbing a fashion designer of his £137,000 Richard Mille watch after it was cut from his wrist outside a Mayfair restaurant.

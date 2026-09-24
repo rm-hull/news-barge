@@ -10,6 +10,31 @@ image: https://static.independent.co.uk/2026/06/04/14/2197561087..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Myrtle Beach
+- Sen
+- South Carolina
+- White House
+people:
+- Catherine Lucey
+- Darline Graham
+- Donald Trump
+- Jeffrey Epstein
+- Joe Biden
+- Jon Stewart
+- Kaitlan Collins
+- Quiet
+- Shawn McCreesh
+organisations:
+- Air Force One
+- Bloomberg
+- Fake News CNN
+- New York Times
+- Republican National Committee
+- TV Ratings
+- Trump
+- Truth Social
 ---
 
 President Donald Trump has launched another personal attack on Kaitlan Collins, calling CNN’s chief White House correspondent “very dumb and unhappy.”

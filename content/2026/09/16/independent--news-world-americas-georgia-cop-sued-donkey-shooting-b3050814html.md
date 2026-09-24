@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Cedartown
+- Georgia
+- Israel
+- Rockmart
+people:
+- Hannah Israel
+- HeeHaw —
+- Trenton Garner
+organisations:
+- CBS News
+- Cedartown Police Department
+- Georgia Department of Agriculture
+- Law Enforcement Division
+- Northern District of Georgia
+- Rome Division
+- U.S. District Court
 ---
 
 A Georgia property owner is suing a Cedartown police officer who fatally shot her family’s donkey during a search operation late last month.

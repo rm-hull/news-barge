@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Bramley
+- Ganners Mount
+- Leeds
+- Newlay Lane
+- West Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- Leeds District
+- Vauxhall Insignia
+- West Yorkshire Police
 ---
 
 # Motorcyclist taken to hospital with serious injuries after late-night crash in Yorkshire

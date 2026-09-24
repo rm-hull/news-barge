@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- B6265
+- Dairy Lane
+- Darley
+- Glasshouses
+- Harrogate Magistrates' Court
+- Headingley
+- Leeds
+- North Yorkshire
+- Pateley Bridge
+- West Yorkshire
+people:
+- '## Man'
+- Bailey Chadwick
+- Curtis Dunkley
+- Joseph Henry Stott
+- Mark Daley
+- Phil Morris
+organisations:
+- Box Bar
+- CCTV
+- North Yorkshire Police
 ---
 
 ## Man who drove over teen and left him fatally injured was 'grossly irresponsible'

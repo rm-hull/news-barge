@@ -13,6 +13,22 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- California
+- Earth
+- Irvine
+- Italy
+people:
+- Albert Einstein
+- Herbert Ives
+- Johannes Stark
+- John Stewart Bell
+- Marco Giovanelli
+- Vladimir Varićak
+organisations:
+- CERN
+- Foundations of Physics
+- University of Turin
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309685329.jpg?w=840)

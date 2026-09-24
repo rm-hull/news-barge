@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - History
+locations:
+- Fulford
+- Stamford Bridge
+- York
+people: []
+organisations:
+- '## Yorkshire Museum'
+- Bayeux Tapestry
+- British Museum
+- Newsquest
+- York Museums Trust
+- Yorkshire Museum
 ---
 
 ## Yorkshire Museum to explore York's links to 1066 with Bayeux Tapestry events

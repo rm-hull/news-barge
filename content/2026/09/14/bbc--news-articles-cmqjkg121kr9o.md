@@ -12,6 +12,40 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db8/live/b910af
 categories:
 - UK
 - News & Politics
+locations:
+- Bahamas
+- China
+- Iran
+- Ireland
+- Middle East
+- Russia
+- Trump Tower
+- US
+people:
+- Bettina Anderson
+- Bettina Trump
+- Donald Trump Jr.
+- Forbes
+- Ivanka Trump
+- Jared Kushner
+- Jordan Libowitz
+- Mr. Trump Jr
+- Putin
+- Trump Jr
+- Trump Jr.
+- Umar Kremlev
+- Vladimir Putin.
+organisations:
+- Air Force One
+- BBC
+- CREW
+- Citizens for Responsibility and Ethics in Washington
+- Gazprom
+- IBA
+- Instagram
+- International Boxing Association
+- Order of Friendship
+- ProPublica
 ---
 
 ![Donald Trump Jr. and his wife Bettina Anderson are seen close up with a plane behind them. She is on the right in a blacktop, tan trench coat and black sunglasses. Her hair is pulled back. He is wearing a blue suit and red tie.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg)

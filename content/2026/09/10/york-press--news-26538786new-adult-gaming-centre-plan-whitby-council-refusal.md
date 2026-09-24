@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Baxtergate
+- Halifax
+- North Yorkshire
+- Whitby Town Centre
+people: []
+organisations:
+- AGC
+- Baxtergate
+- Luxury Leisure
+- NYC
+- North Yorkshire Council
+- The Institute of Lighting Professionals
 ---
 
 ## New adult gaming centre plan for town centre after council refusal

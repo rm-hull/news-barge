@@ -11,6 +11,13 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Kebs Road
+- Todmorden
+- West Yorkshire
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Amsterdam.
+- England
+- Netherlands
+- Northern Ireland
+- Sweden
+people:
+- Ben Robb
+- Chris Dobey
+- Danny Noppert
+- Daryl Gurney
+- Dirk van Duijvenbode
+- Gian van Veen
+- Jermaine Wattimena
+- Josh Rock
+- Karel Sedlacek
+- Kevin Doets
+- Lourence Ilagan
+- Luke Humphries
+- Luke Littler
+- Michael Van Gerwen
+- Michael van Gerwen
+- Rob Cross
+- Ross Smith
+- Ryan Searle
+- Stephen Bunting
+- Van Gerwen
+- Van Veen
+- Viktor Tingstrom
+organisations: []
 ---
 
 ![Michael Van Gerwen looking resigned](https://ichef.bbci.co.uk/ace/standard/905/cpsprodpb/8a43/live/bfa1b070-b2dc-11f1-b227-bbba053e356a.jpg)

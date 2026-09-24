@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Argentina
+- Mount Pleasant
+- Northern Patagonian Ice Field
+- Patagonia
+- Poland
+- Southern Patagonian Ice Field
+- U.S.
+- Vh4nY3pMCcmra2ymXah9S7.jpg
+- Wisconsin
+people:
+- Javier Milei
+- Mark Tyson
+- Tom
+organisations:
+- Amazon
+- Big Tech
+- FlexDomes
+- Get Tom's Hardware
+- Google News
+- Green Capital
+- Microsoft
+- OpenAI
+- Reuters
+- Tom's Hardware
 ---
 
 ![Patagonia](https://cdn.mos.cms.futurecdn.net/nUpyNwzPkHqN2qGA9RkcwR.jpg) 

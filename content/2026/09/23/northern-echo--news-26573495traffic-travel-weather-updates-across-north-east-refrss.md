@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21327486.jpg?type=og-image
+locations:
+- '####'
+- Bishop Auckland
+- County Durham
+- Darlington
+- Elton
+- North East
+- Northern Rail
+- Stockton
+- Teesside
+- Tyne and Wear Metro
+people:
+- STEVEN CURTIS
+organisations:
+- A1
+- A66
+- Cross Country
+- LNER
+- Newcastle Airport
+- Newcastle Airports
+- The Northern Echo
+- TransPennine
 ---
 
 *(Image: STEVEN CURTIS)*

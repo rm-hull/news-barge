@@ -14,6 +14,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Arizona
+- East Mesa
+- GoFundMe
+people:
+- Augustus Shaw IV
+- Sherri Patten
+- Sherri Patten.
+- Toby Newton
+organisations:
+- HOA
+- Home Owners' Association
+- Mesa Tribune
+- Newton
+- Superstition Springs Community Master Association
+- The Independent
 ---
 
 A couple in Arizona say they may lose their home due to a less than $1,000 debt they owed to a Home Owners' Association.

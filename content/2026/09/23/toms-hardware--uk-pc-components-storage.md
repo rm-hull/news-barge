@@ -11,6 +11,58 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh-450-80.jpg
+locations:
+- Japan
+people:
+- Ahmed Shihab
+- Ambrish Srivastava
+- Irving Tan
+- Kris Sennesael
+organisations:
+- 8TB
+- AMD Strix HaloBy Mark Tyson Published
+- Aaron Klotz Published
+- Anton Shilov
+- Anton Shilov Published
+- Bruno Ferreira Published
+- CXMT
+- DuoModo Thunderbolt
+- EnclosuresAkasa
+- EnclosuresSatechi
+- EnclosuresSilverstone
+- EnclosuresSonnet
+- HAMR'By Zak Killian
+- HDD
+- HDDsToshiba
+- Hassam Nasir
+- IFA
+- Jowi Morales
+- Jowi Morales Published
+- Kunal Khullar Published
+- Mark Tyson Published
+- Matt Safford
+- Matt Safford Published
+- Micron
+- Microsoft
+- Myles Goldman Published
+- NAS
+- NASMinisforum
+- NASQNAP
+- NASSynology
+- NASYou
+- NVMe
+- OpenClaw
+- PNY
+- Roshan Ashraf Shaikh
+- SATA
+- SSDsChina
+- SSDsFlea
+- Samsung
+- Silverstone Raven
+- Stewart Bendle
+- StorageChina
+- Toshiba
+- YMTC
 ---
 
 ## Latest about Storage

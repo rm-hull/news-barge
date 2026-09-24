@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Brazil
+- Britain
+- North Yorkshire
+- UK
+people:
+- John Prescott
+- Sarah Todd
+- Will Raw
+organisations:
+- National Farmers’ Union
 ---
 
 # What on earth are food manufacturers doing using foreign eggs? - Sarah Todd

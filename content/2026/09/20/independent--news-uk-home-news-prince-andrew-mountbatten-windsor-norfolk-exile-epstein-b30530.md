@@ -11,6 +11,27 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/06/05/11/2210495608..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Helmand Province
+- Norfolk
+- Royal Lodge
+- Sandringham
+- Southeast Asia
+- UK
+- US
+- Windsor Great Park
+people:
+- Andrew Mountbatten-Windsor
+- Jeffrey Epstein
+- Virginia Giuffre
+organisations:
+- Duke of York
+- MIPO
+- Royal Lodge
+- Thames Valley Police
+- The Telegraph
+- US Justice Department
 ---
 
 Friends of Andrew Mountbatten-Windsor have claimed he is “making the most” of his effective exile to Norfolk while a police investigation into his suspected misconduct rumbles on.

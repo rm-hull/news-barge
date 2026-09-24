@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- France
+- Middle East
+- Russia
+- Strasbourg
+- U.S.
+- Ukraine
+- United States
+people:
+- Eric Maurice
+- Trump
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- Big Tech
+- Congress
+- EU
+- European Commission
+- European Parliament
+- European Policy Centre
+- European Union
+- New World
+- State of the Union
 ---
 
 European Commission President Ursula von der Leyen will deliver a major state of the European Union speech on Wednesday setting out her priorities for the next year and her vision for tackling the challenges faced by the world’s biggest trading bloc.

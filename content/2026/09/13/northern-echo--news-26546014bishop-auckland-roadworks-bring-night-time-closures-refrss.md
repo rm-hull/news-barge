@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Bishop Auckland
+- Bob Hardisty Drive
+- Cockton Hill Road
+- County Durham
+- High Street
+- Kingsway
+- Newgate Street
+- Prince's Street
+people:
+- STUART BOULTON
+organisations:
+- Durham County Council
+- Kirkleatham Walled Garden
+- Phase One
+- Stockton Council
 ---
 
 *(Image: STUART BOULTON)*

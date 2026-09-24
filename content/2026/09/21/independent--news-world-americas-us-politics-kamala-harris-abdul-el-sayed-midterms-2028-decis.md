@@ -11,6 +11,47 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/14/36/GettyImages-2281851854.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- California
+- Gaza
+- Georgia
+- Iowa
+- Israel
+- Michigan
+- Nevada
+- San Francisco
+- South Carolina
+- U.S.
+- White House
+people:
+- Aaron Ford
+- Abdul El-Sayed
+- Al Gore
+- Antjuan Seawright
+- Barry Goodman
+- Biden-Harris
+- Bre Maxwell
+- Donald Trump
+- Donna Brazile
+- Eduardo Negrón
+- Gavin Newsom
+- Jaime Harrison
+- Joe Biden
+- Jon Ossoff
+- Kamala Harris
+- Megan Rapinoe
+- Mike Rogers
+- Pete Buttigieg
+- Rob Sand
+organisations:
+- Associated Press
+- CNN
+- Democratic National Committee
+- Harris'
+- Michigan Democratic National Committee
+- Politico
+- Senate
 ---
 
 As Kamala Harris considers whether to seek the presidency once again, she is immersing herself in the midterms by campaigning alongside fellow Democrats, beginning with a Tuesday trip to Michigan on behalf of Senate nominee Abdul El-Sayed.

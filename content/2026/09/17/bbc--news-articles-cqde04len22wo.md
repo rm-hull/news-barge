@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Arena Burgas
+- Austria
+- Basel
+- Bulgaria
+- Dublin
+- Gaza
+- Ireland
+- Israel
+- Netherlands
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+- Vienna
+- West Bank
+- Wiener Stadthalle
+people:
+- Bangaranga
+- Noam Bettan
+- Yuval Raphael
+organisations:
+- AVROTROS
+- DARA
+- ESC
+- European Broadcasting Union
+- KAN
+- Noam Bettan
+- RTE
+- RTÉ
+- UN
 ---
 
 ![People attend a pro-Palestine protest outside the RTE in Dublin, calling for a boycott of the Eurovision Song Contest.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/de0a/live/44542e60-b288-11f1-8096-b33a1297275a.jpg)

@@ -13,6 +13,9 @@ categories:
 - Technology & Software
 - Science
 - Self-Improvement
+locations: []
+people: []
+organisations: []
 ---
 
 In a quiet summer garden, a caterpillar perches on a branch, munching serenely on leaves. A moment later it freezes. It senses danger—and just in time. From behind, a wasp approaches, sizing up its prey.

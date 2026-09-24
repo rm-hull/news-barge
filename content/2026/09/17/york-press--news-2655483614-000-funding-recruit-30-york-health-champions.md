@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Clifton
+- Hull Road
+- North Yorkshire
+- Westfield
+- York
+people:
+- David Skaith
+- Lucy Steels-Walshaw
+organisations:
+- City of York Council
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Supplied)*

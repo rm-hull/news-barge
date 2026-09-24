@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Capitol
+people:
+- Aaron Sorkin
+- Alex Gibney
+- Ari Emanuel
+- David Fincher
+- Frances Haugen
+- Goodfellas
+- Henry Hill
+- Jaws
+- Jeff Horwitz
+- Jeff.’
+- Jeremy Allen White
+- Jeremy Strong
+- Jesse Eisenberg
+- Jesse Eisenberg Sorkin
+- Joe DiMaggio
+- Luca Guadagnino
+- Mark Zuckerberg
+- Mickey Mantle
+- Mikey Madison
+- Sam Altman
+- Scott Rudin
+- Tom Rothman
+organisations:
+- Associated Press
+- Congress
+- Facebook
+- Meta
+- OpenAI
+- Pew Research
+- Sony Pictures
+- The Associated Press
+- The New York Times
+- The Social Network
+- The Social Network’
+- The Social Reckoning
+- Wall Street Journal
 ---
 
 When Aaron Sorkin made 2010’s “The Social Network,” he had heard of Facebook, he said at the time, “the way I’ve heard of a carburetor.” Sixteen years later, he has a much deeper idea of what Mark Zuckerberg’s social media empire has become.

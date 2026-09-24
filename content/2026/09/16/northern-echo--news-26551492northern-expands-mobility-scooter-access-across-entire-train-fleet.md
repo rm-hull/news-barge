@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Manchester Airport
+- North East
+- North of England
+- Northern
+- Northern’s
+- UK
+people:
+- Alex Hornby
+- Janet Kidd
+- Sue Buckingham
+- Tony Jennings
+organisations:
+- Northern
+- Shopmobility Leeds
 ---
 
 *(Image: Northern)*

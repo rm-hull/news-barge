@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Edinburgh
+- England
+- Queen Elizabeth II
+- Scotland
+- UK
+- Wales
+people:
+- Lord Kitchener
+organisations:
+- Britannia Fifth Portrait
+- Coin Hunter
+- Commonwealth Games Northern Ireland
+- Facebook
+- Royal Mint
+- Royal Navy
 ---
 
 *(Image: Getty/duncan1890)*

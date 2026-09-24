@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thenorthernecho.co.uk/resources/images/21486492.jpg?type=og-image&xType=7&yType=0
+locations:
+- North East
+- UK
+people: []
+organisations:
+- Newcastle University
+- Northumbria University
+- TWFRS
+- Tyne and Wear Fire and Rescue Service
+- University of Sunderland
 ---
 
 *(Image: Tyne and Wear Fire and Rescue Service)*

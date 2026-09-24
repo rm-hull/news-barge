@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Pets & Animals
+locations:
+- Chesterfield RSPCA Rescue
+- Kila
+- Marion
+- North Derbyshire Branch
+people:
+- Cane Corso Kila
+- Cedric
+- Chloe Gee
+- Clark
+- Cornelius
+- Jones
+- Lorenzo
+- Lucille
+- Roderick
+- Sarah
+- Susie
+- Winnie
+organisations:
+- Guinness
+- RSPCA
 ---
 
 # Rescued dog gives birth to 'biggest litter of puppies RSPCA centre has ever seen'

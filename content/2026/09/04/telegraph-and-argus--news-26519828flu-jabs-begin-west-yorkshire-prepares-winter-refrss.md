@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- West Yorkshire
+people:
+- James Thomas
+organisations:
+- Bob Smith Grough Limited
+- National Booking Service
+- West Yorkshire Health and Care Partnership
 ---
 
 *(Image: Bob Smith Grough Limited)*

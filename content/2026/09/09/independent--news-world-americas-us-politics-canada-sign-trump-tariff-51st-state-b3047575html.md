@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/09/09/19/53/trump-comp.jpg?trim=0,1
 categories:
 - News & Politics
 - UK
+locations:
+- British Columbia
+- Canada
+- Canada-U.S.
+- Dakotas
+- Idaho
+- Lake America
+- Lake Ontario
+- Maine
+- Montana
+- North America
+- U.S.
+- US
+people:
+- David Eby
+- Dominic LeBlanc
+- Donald Ducks
+- Doug Ford
+- Mark Carney
+- Strong
+- Trump
+organisations:
+- Lake Ontario
+- Trump
 ---
 
 The Canadian province of British Columbia unveiled new border signs on Tuesday that took aim at the Trump administration in the midst of the ongoing U.S.-Canada trade war and President Trump’s threats that Canada could become the 51st state.

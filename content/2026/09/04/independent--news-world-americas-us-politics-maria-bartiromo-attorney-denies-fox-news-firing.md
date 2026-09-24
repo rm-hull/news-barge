@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Wall Street
+- White House
+people:
+- Bryan Freedman
+- Cheryl Casone
+- Chris Cuomo
+- Dan Crenshaw
+- Don Lemon
+- Donald Trump
+- Eric Trump
+- Jason Chaffetz
+- Karoline Leavitt
+- Maria Bartiromo
+- Megyn Kelly
+- Patrick Ignozzi
+- Tucker Carlson
+organisations:
+- Fox Business
+- Fox Business Network
+- Fox News Media
+- The Independent
+- Trump
+- Vanity Fair
 ---
 
 Lawyers for Maria Bartiromo have rejected reports that the anchor has been terminated or has left Fox News Media, calling the claims inaccurate and threatening potential legal action.

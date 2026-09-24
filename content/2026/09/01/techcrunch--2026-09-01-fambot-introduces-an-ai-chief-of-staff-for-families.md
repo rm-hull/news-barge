@@ -12,6 +12,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.p
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Fambot
+- Silicon Valley
+- U.S.
+people:
+- David Reich
+- Fambot
+- Greg Karlin
+- Jason Morrow
+organisations:
+- AI
+- Baukunst
+- Correlation Ventures
+- Founders Network Fambot
+- Google
+- Instagram
+- Karman Ventures
+- LinkedIn
+- Netflix
+- NextView Ventures
+- Uber Transit
+- UnitedMasters
+- ex-Uber
 ---
 
 AI agents that perform tasks on your behalf to help solve your daily problems are all the rage in Silicon Valley. But the startup Fambot sees a future for agents out in the real world, too, where they’re used by families who need help keeping up with the mental load of children’s activities, school events, newsletters, and other family logistics.

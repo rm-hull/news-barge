@@ -12,6 +12,32 @@ description: OpenAI’s latest agent swarm incident adds urgency to calls for in
 image: https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675
 categories:
 - Technology & Software
+locations:
+- California
+- Hugging Face
+- Illinois
+- New York
+- US
+people:
+- Greg Casar
+- Jacob Steinhardt
+- Josh Gottheimer
+- Mackenzie Arnold
+- Mike Lawler
+- Ryan Greenblatt
+organisations:
+- Anthropic — AI
+- Astra
+- D-NJ
+- D-TX
+- LawAI
+- METR
+- Meta
+- National Transportation Safety Board and Chemical Safety Board
+- OpenAI
+- R-NY
+- Redwood Research
+- Transluce
 ---
 
 OpenAI is at the center of another agent swarm incident. Researchers say the company’s internally deployed agents took over an obscure German-language wiki in May and June, using it to coordinate on evaluations and swap methods to evade OpenAI’s own controls (OpenAI has not yet confirmed the swarm came from the company).

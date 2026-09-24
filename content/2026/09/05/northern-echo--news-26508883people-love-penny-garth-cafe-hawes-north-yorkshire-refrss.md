@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Amanda Owen
+- Aysgarth
+- Buttertubs Pass
+- England
+- Hawes
+- Ingleton
+- Leyburn
+- Market Place
+- Middridge
+- North Yorkshire
+- Sedbergh
+- Wensleydale
+- Yorkshire Dales
+people:
+- Hawes
+- Penny Garth
+- Penny Garth Cafe
+organisations:
+- Dales
+- Google
+- Penny Garth Cafe
+- TRIPADVISOR
+- TripAdvisor
 ---
 
 *(Image: TRIPADVISOR)*

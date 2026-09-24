@@ -12,6 +12,84 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- America
+- Capitol Hill
+- Massachusetts
+- New Jersey
+- New York
+- North Carolina
+- US House
+- Virginia
+- Washington
+- White House
+people:
+- Bernie Sanders
+- Chris Stein
+- Chuck Edwards
+- Chuck Schumer
+- Daniel Driscoll
+- Donald Trump
+- Ed Markey
+- Elizabeth Frantz
+- Garcia
+- Hakeem Jeffries
+- Hung Cao
+- Jamie Ager
+- Jared Golden
+- Jennifer Balkcom
+- Joe Biden
+- John Deaton
+- Joseph Geevarghese
+- Josh Gottheimer
+- Kamala Harris
+- Katherine Clark
+- Kathy Hochul
+- Marie Gluesenkamp Perez
+- Pete Aguilar
+- Pete Hegseth
+- Pierre Damas Bel
+- Seth Moulton
+- Stanley Woodward
+- Zohran Mamdani
+organisations:
+- ASAP
+- Ahold Delhaize USA
+- Albertsons
+- Aldi
+- All
+- Amazon
+- Associated Press
+- Axios
+- CBS News Hochul “
+- Chip Somodevilla
+- Committee on Caucus Rules
+- Congress
+- Costco
+- Democratic Party
+- Department of Homeland Security
+- DoJ
+- House Democratic Caucus
+- ICE
+- Kroger
+- NBC News
+- Our Revolution
+- Oversight Committee
+- Postal Service
+- Publix
+- Reuters
+- The Associated Press
+- Trump
+- US Capitol
+- US Department of Homeland Security
+- US Department of Justice
+- US House of Representative
+- US Navy
+- US Postal Service
+- US Senate Armed Services Committee
+- US Supreme Court
+- USPS
+- Walmart
 ---
 
 “The Oversight Committee has received whistleblower reports that President Trump’s attack on vote-by-mail for the 2026 election is more serious than previously understood,” Garcia said in a statement. “This new secret tracking system at the US Postal Service is faulty, untested, and threatens to totally disrupt ballot delivery for millions of American citizens.”

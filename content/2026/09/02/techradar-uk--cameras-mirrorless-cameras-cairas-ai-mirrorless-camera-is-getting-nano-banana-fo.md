@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Graham Barlow
+people:
+- AI
+- Caira
+- Graham
+- Vishal Kumar
+organisations:
+- AI
+- Aleph
+- BBC One Breakfast
+- BBC TV
+- Caira Studio
+- Camera Intelligence
+- Computeractive
+- Gemini Omni
+- Google News
+- Google’s
+- Mac
+- MacFormat
+- PC Pro
+- Qualcomm
+- Radio 4
+- Runway
+- SynthID
+- TechRadar
+- iMore
 ---
 
 ![Caira Camera in use.](https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa.jpg) 

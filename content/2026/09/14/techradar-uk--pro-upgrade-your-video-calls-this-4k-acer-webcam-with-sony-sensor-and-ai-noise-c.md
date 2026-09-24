@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- Amazon
+- UK
+people:
+- Wayne Williams
+organisations:
+- A640
+- Amazon
+- PC
+- PDAF
+- Sony
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Acer A640 4K Webcam](https://cdn.mos.cms.futurecdn.net/3xrGNjfiRNMetAsaS7ucpC.jpg) 

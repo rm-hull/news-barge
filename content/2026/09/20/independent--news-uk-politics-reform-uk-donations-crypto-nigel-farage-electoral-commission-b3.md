@@ -12,6 +12,25 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/15/09/2026-09-05T162150Z_666616395_RC24DNAD86O0_RTRMADP_3_BRITAIN-POLITICS-REFORM-CONFERENCE.JPG?trim=0,66,0,91&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Hong Kong
+- Thailand
+- UK
+people:
+- Ben Delo
+- Christopher Harborne
+- Nigel Farage
+- Robert Jenrick
+- Vijay Rangarajan
+organisations:
+- Delo
+- Electoral Commission
+- HMRC
+- Independent
+- Labour Party
+- Reform UK
+- Sunday Times
 ---
 
 Reform UK’s ability to use its funds from crypto-billionaires could be hampered as Britain’s electoral watchdog reviews stricter spending limits for political parties.

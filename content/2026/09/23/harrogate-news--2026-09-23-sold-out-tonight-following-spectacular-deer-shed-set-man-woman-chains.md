@@ -14,6 +14,34 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/manwomanchainsaw.webp
+locations:
+- Baldersby Park
+- Deer Shed
+- Ireland
+- Leeds
+- London
+- Manchester
+- North Yorkshire
+- UK
+people:
+- Brudenell
+- Lola Cherry
+- Margo Broom
+- Seth Evans
+- Steve Lamacq
+organisations:
+- BBC Radio 6 Music
+- Black Midi
+- Brudenell Social Club
+- Fat White Family
+- Geordie Greep
+- Glasgow Art School
+- KEXP
+- New Century Hall
+- Newcastle’s King Street Social Club
+- O2 Forum Kentish Town
+- Project House
+- Woman/Chainsaw**
 ---
 
 London-born experimental indie outfit **Man/Woman/Chainsaw** have officially announced a major nine-date UK and Ireland headline tour for spring 2027, hot on the heels of their triumphant breakout summer performance at North Yorkshire’s own**Deer Shed Festival** in Baldersby Park.

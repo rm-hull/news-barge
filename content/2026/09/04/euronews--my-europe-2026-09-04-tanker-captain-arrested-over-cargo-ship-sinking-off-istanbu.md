@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Istanbul
+- Sea of Marmara
+- Silivri
+- Silvri
+people:
+- A.E.
+- M.E.
+organisations:
+- AFP
+- ALSU
 ---
 
 ## Search and resuce operations are ongoing with teams yet to reach the wreckage of the Tuğberk İmamoğlu or locate its voyage data recorder (VDR) or "black box."

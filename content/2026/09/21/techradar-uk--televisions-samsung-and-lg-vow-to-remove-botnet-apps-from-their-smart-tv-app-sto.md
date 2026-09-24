@@ -12,6 +12,31 @@ description: Millions of smart TVs, including Roku and Fire TV as well and LG an
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/ghkY9CqeiheUvFSMCkRtNK-2560-80.jpg
+locations:
+- China
+- Iran
+- North Korea
+- Russia
+- UK
+people:
+- Carrie Marshall
+- Harrison Sand
+- Spur
+organisations:
+- AI
+- Amazon
+- Bright Data
+- Fire TV
+- FlatpanelsHD
+- Google News
+- Google TV
+- IPIDEA
+- LG
+- Mnemonic
+- Roku
+- Samsung Tizen
+- Spur
+- Unquiet Mind
 ---
 
 ![The LG C6 OLED TV with its Game Hub menu on screen](https://cdn.mos.cms.futurecdn.net/ghkY9CqeiheUvFSMCkRtNK.jpg)

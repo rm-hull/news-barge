@@ -12,6 +12,9 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations: []
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_303479822.jpg?w=840)

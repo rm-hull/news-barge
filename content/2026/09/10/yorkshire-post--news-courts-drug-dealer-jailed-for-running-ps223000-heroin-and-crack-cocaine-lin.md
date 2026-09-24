@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bradford Crown Court
+- Keighley
+- Leeds Road
+- North Yorkshire
+- Sladen Street
+- West Yorkshire
+people:
+- Abubakr Ahmed
+- Helen Chapman
+organisations:
+- Operation Phoenix
+- West Yorkshire Police
 ---
 
 # Drug dealer jailed for running £223,000 heroin and crack cocaine line across Yorkshire

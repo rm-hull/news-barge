@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/09/05/14/01M1RRBDPPB475PB2PTSCFCJHH
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- Britain
+- Dover Priory
+- England
+- PA
+people:
+- Daniel Thomas
+- Danny Tommo
+- Jonathan Reynolds
+- Mike Tapp
+- Nigel Farage
+- Robert Jenrick
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Instagram
+- Oscar Rihill
+- Patriot Platform”
+- Sky
+- Treasury
 ---
 
 A cabinet minister has condemned scenes in Dover in which hundreds of “intimidating” masked demonstrators blocked roads and access to the port.

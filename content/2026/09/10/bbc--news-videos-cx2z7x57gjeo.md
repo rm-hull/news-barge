@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- New York City
+- Twin Towers
+people: []
+organisations: []
 ---
 
 # Drone display recreates the Twin Towers over New York City

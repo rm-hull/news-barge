@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Arthur Ashe Stadium
+- Australia
+- Flushing Meadows
+- New York
+people:
+- Margaret Court
+- Mariano Navone
+- Novak Djokovic
+- Thiago Tirante
+organisations: []
 ---
 
 ![Novak Djokovic cries during his US Open defeat by Mariano Navone](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/551d/live/27ca53f0-a4f5-11f1-8052-0dcbab979b10.jpg)

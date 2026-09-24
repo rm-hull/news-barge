@@ -14,6 +14,25 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Chausseestraße
+- Mitte
+- Rosenthaler Platz
+- Torstraße
+- Tortraße
+people:
+- Christopher Schriner
+- Petra Nelken
+organisations:
+- CDU
+- Die Grünen
+- Environmental and Nature Conservation Office
+- Funke Foto Services
+- Lebendige Torstraße
+- Senate
+- Senator for Transport Ute Bonde
+- Torstraße Alive
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865514802h-scaled.jpg)

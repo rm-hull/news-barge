@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Adessia Stream
+- Britain
+- Derby
+- Downing Street
+- Hull
+- Leeds
+- Litchurch Lane
+- Liverpool Lime Street
+- Manchester Airport
+- Manchester Piccadilly
+- North
+- Saltburn
+- Scarborough
+- UK
+- York
+people:
+- Andy Burnham
+- Heidi Alexander
+organisations:
+- Alstom
+- British Railways
+- Government
+- Rock Rail
+- TransPennine Express
+- Treasury
 ---
 
 A £1 billion scheme for 29 new battery-electric trains will "bring faster, more reliable journeys to the North", Andy Burnham has stated.

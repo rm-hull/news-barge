@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bishop Auckland
+- Crook Coroner's Court
+- Newcastle
+- Newcastle’s Royal Victoria Infirmary
+- Royal Victoria Infirmary
+- Woodhouses
+people:
+- Blairs'
+- Jaxon Robert Harker
+- Kumar
+- SARAH CALDECOTT
+organisations:
+- County Durham
+- Darlington Foundation Trust
+- Darlington Market
+- Durham Police
+- Health and Safety Executive
 ---
 
 *(Image: SARAH CALDECOTT)*

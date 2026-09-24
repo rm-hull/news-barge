@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Buckstone Avenue
+- Moortown
+- Scott Hall
+- Scott Hall Road
+people:
+- '![Riyat'
+- Adel
+- Grant Row
+- Hardeep Bhachu
+- Jasskamal Riyat
+- Justyna Hulboj
+- Justyne Hulboj
+- Lena Czepczor
+- Paul Conroy
+organisations:
+- Audi
+- Bhachu
+- CCTV
+- Jaguar
+- Major Collision Enquiry Team
+- Riyat
+- West Yorkshire Police
 ---
 
 # Watch moment speeding drivers laugh moments before crash kills mother and daughter

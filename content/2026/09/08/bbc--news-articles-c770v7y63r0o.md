@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Real Estate
+locations:
+- Iran
+- UK
+people:
+- Aaron Strutt
+- Andrew Bailey
+- David Hollingworth
+- Rachel Springall
+organisations:
+- Bank of England
+- L&C
+- Moneyfacts
+- Treasury Committee of MPs
+- Trinity Financial
 ---
 
 ![Two young women holding mugs sit on sofa surrounded by boxes and empty shelves.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f1d8/live/c8999ac0-ab71-11f1-9712-a14d469bace4.jpg)

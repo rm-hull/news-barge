@@ -12,6 +12,25 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- AI
+- Marseille
+- United Kingdom
+people:
+- :** Alex
+- Andreas Schleicher
+- Greg
+- Ivana
+organisations:
+- AI
+- Chicken Health
+- EU
+- Euronews
+- OECD
+- OECD)'s Programme for International Student Assessment
+- Organisation for Economic Cooperation and Development
+- PISA
+- Reading Agency
 ---
 
 ## This week, the OECD's PISA report has revealed a global decline in 15-year-old's maths and reading skills — but how much better can the grown-up's fare?

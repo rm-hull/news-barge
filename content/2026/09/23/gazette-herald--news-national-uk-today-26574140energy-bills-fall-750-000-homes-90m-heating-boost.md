@@ -14,6 +14,37 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/20483194.jpg?type=og-image
+locations:
+- Abergavenny
+- Amsterdam
+- Berlin
+- Bexley
+- Bradford
+- Brighton
+- Copenhagen
+- England
+- Greenwich
+- London
+- Manchester
+- Newport
+- Oxford Street
+- River Thames
+- UK
+- Vienna
+- Wales
+people:
+- Martin McCluskey
+- Meghan Newman
+organisations:
+- ADE
+- DWP
+- Government
+- Heat Network Efficiency Scheme
+- Heat Networks
+- Local Energy and Jobs
+- Solihull
+- State Pension
+- Vega Building
 ---
 
 *(Image: Getty Images)*

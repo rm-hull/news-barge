@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Aberystwyth
+- Norfolk
+- North Yorkshire
+- Suffolk
+- Whitby
+people:
+- Anthony
+organisations:
+- Machynlleth Police
+- Nissan
+- North Yorkshire Police
 ---
 
 *(Image: Aberystwyth and Machynlleth Police)*

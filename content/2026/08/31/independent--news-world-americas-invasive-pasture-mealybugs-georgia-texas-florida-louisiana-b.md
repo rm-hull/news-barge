@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Decatur County
+- Florida
+- Georgia
+- Louisiana
+- Southern US
+- Texas
+people:
+- Brant Wilbourn
+- Tyler J Harper
+organisations:
+- Commodity and Regulatory Activities
+- Mealybugs
+- Texas Farm Bureau
 ---
 
 A tiny invasive insect that officials say is a “serious threat” to local agriculture has been spotted in several Southern US states.

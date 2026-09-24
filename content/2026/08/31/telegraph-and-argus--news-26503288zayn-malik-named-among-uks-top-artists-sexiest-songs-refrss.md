@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- UK
+people:
+- ZAYN Malik
+- Zayn
+organisations:
+- AdultWork
+- Arctic Monkeys
+- One Direction
+- Sheffield
+- Spotify
+- Yorkshire
 ---
 
 ZAYN Malik has been named one of the UK's top artists for "sexiest" songs in a new playlist study.

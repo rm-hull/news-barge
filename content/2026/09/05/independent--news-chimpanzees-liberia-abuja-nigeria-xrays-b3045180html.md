@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Guinea
+- Liberia
+- West Africa
+people:
+- Belen Perez Hernando
+- Liliana Pacheco Ricote
+organisations:
+- AP
+- Humane World for Animals
+- The Associated Press
 ---
 
 A group of chimpanzees that were once used for hepatitis B vaccine experiments in laboratories have received health checks at their new home in Liberia, in hopes of giving them a second chance at a normal life.

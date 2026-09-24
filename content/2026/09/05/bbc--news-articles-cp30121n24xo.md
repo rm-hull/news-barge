@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Ireland
+- UK
+- Warwickshire
+people:
+- Dolly
+- Elle Black
+- Rob Brydon
+organisations:
+- Cardiff University
+- Elle Black
+- Sepsis Research
+- UHW
+- UK Sepsis Trust.
+- University Hospital of Wales
 ---
 
 ![A girl with curly dark hair, wearing a white dress and black graduation cap and gown. She is stood in front of a flowerbed of pink flowers, with trees and people in the background, and is smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/788/cpsprodpb/746d/live/f6018bc0-a96a-11f1-b850-096ea2f533db.jpg)

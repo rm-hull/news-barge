@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Forrester
+organisations:
+- AI
+- Amazon
+- Captify
+- ChatGPT
+- Claude and Perplexity
+- Ebay
+- Future plc
+- Gartner
+- Gemini
+- LLM
+- LLMs
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Someone typing at a keyboard, with an ecommerce shopping cart symbol floating in the air.](https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk.jpg) 

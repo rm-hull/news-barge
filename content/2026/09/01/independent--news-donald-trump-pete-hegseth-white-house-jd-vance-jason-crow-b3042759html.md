@@ -11,6 +11,61 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Africa
+- Arkansas
+- Colorado
+- Europe
+- Iran
+- Iraq
+- Michigan
+- North Carolina
+- Rhode Island
+- Russia
+- U.S.
+- Ukraine
+- Ukraine-Russia
+- Washington
+- West Point
+- White House
+people:
+- Aamer Madhani
+- Ben Finley
+- Christopher Donahue
+- Christopher LaNeve
+- Dan Driscoll
+- Donald Trump
+- JD Vance
+- Jack Reed
+- Jason Crow
+- John Roberts
+- Mike Johnson
+- Pete Hegseth
+- Randy George
+- Richard Blumenthal
+- Steve Womack
+organisations:
+- Army National Guard
+- Army Ranger
+- Congress
+- Defense
+- Democratic Party
+- Department of the Army
+- House Armed Services Committee
+- House Army Caucus
+- MAGA Inc
+- National Trust for Historic Preservation
+- Pentagon
+- Postal Service
+- Senate Armed Services Committee
+- Supreme Court
+- The Associated Press
+- The Wall Street Journal
+- Trump
+- U.S. Army
+- U.S. Postal Service
+- U.S. Supreme Court
+- Yale Law School
 ---
 
 Army Secretary Dan Driscoll is stepping down after just 18 months on the job. The White House announced his departure after Driscoll spoke with President Donald Trump about the current state of the Army, an Army official told The Associated Press on condition of anonymity. He's only the latest top military leader to leave during the Trump administration.

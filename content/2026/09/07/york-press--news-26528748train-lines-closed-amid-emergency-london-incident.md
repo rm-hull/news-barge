@@ -11,6 +11,20 @@ categories:
 - Local
 - York
 - History
+locations:
+- Edinburgh
+- London Kings Cross
+- London Paddington
+- Reading
+- Scarborough
+- York
+people: []
+organisations:
+- GWR
+- Great Western Railway
+- LNER
+- London Kings Cross
+- UGC
 ---
 
 *(Image: UGC)*

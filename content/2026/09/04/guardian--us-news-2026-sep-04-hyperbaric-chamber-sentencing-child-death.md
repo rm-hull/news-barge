@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Detroit
+- Michigan
+- Oakland
+- Oxford Center
+- Royal Oak
+- Troy
+people:
+- Aleta Moffitt
+- Gary Marken
+- Jeffrey Mosteller
+- Robert F Kennedy Jr
+- Tamela Peterson
+- Thomas Cooper
+organisations:
+- FDA
+- HBOT
+- Oxford Center
+- Trump
+- US Food and Drug Administration
 ---
 
 A former safety manager has been sentenced to one year and seven months in prison in connection with the death of a five-year-old Michigan boy who was killed in a fiery January 2025 explosion inside a hyperbaric oxygen chamber.

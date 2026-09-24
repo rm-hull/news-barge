@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## Yorkshire'
+- Alban Roe House
+- Ampleforth Abbey
+- North of England
+people:
+- Jacqueline Warrington
+- Joanne Gowan
+- Karen Ward
+- Ms Ward
+- Ms Warrington
+- Susan Rumfitt
+organisations:
+- Acquire
+- Ampleforth Abbey
+- BBC
+- Jacqueline Warrington
+- Yorkshire
 ---
 
 ## Yorkshire artisans to showcase traditional skills at upcoming exhibition

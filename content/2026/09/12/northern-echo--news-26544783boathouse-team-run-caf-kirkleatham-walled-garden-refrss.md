@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Kirkleatham Walled Garden
+- Plantation Road
+- Redcar
+people:
+- Alec Brown
+- Anna Turley
+- Dad
+- Jenny Archer
+- Kirkleatham
+- Matthew Blades
+- PC Clough
+- SARAH CALDECOTT
+- STUART BOULTON
+- Tom Clough
+organisations:
+- A66
+- Boathouse
+- British Transport Police
+- Civil Nuclear Constabulary
+- Cleveland Borough Council
+- Cleveland Police
+- Kirkleatham Walled Garden
+- Kirkleatham Walled Gardens
+- Redcar Labour
+- TS10 4AS
+- Walled Garden
 ---
 
 Residents can continue visiting Kirkleatham Walled Garden this winter under a temporary deal while the council seeks a permanent operator.

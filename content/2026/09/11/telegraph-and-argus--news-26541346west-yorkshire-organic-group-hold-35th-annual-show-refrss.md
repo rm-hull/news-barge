@@ -12,6 +12,13 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Saltaire
+people: []
+organisations:
+- Exhibition Hall
+- Google Maps
+- West Yorkshire Organic Group
 ---
 
 *(Image: Google Maps)*

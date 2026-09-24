@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/222257191a1e425d696fecca5408ccdcea2ad556/778_186_3727_2981/master/3727.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5e2b7ddef0771f8f74460f9d5770213
+locations:
+- Hebron
+- Israel
+- West Bank
+- Yom Kippur
+people:
+- Abdel Fattah al-Sharif
+- Benjamin Netanyahu
+- Elor Azaria
+- Eyal Zamir
+- Isaac Herzog
+- Israel Katz
+- Issa Karaka
+- Itamar Ben-Gvir
+- Moshe Ya’alon
+organisations: []
 ---
 
 Israel’s president has pardoned a combat medic who shot dead a badly wounded Palestinian attacker who had stabbed a soldier in the occupied West Bank, in a case that divided the country a decade ago.

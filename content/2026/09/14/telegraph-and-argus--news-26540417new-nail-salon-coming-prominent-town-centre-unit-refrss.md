@@ -13,6 +13,16 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Keighley Town Centre
+- Low Street
+- YOUR
+people: []
+organisations:
+- Bradford Council
+- Public Notice Portal
+- Star Nails
 ---
 
 *(Image: Star Nails)*

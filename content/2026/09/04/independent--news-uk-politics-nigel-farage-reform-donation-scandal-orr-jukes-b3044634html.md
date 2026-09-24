@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/04/09/2026-09-04T074434Z_7894166
 categories:
 - News & Politics
 - UK
+locations:
+- Clacton
+people:
+- Andy Burnham
+- Christopher Harborne
+- Dan Jukes
+- Donald Trump
+- James Orr
+- Nick Candy
+- Nigel Farage
+- Richard [Tice
+- Steve Bannon
+organisations:
+- Channel 4
+- Labour
+- Lib Dems
+- Reform UK
+- Verbatim
 ---
 
 The hubris of Nigel Farage and senior figures in Reform appears to have finally caught up with them – and this time it could be fatal for their chances of winning an election.

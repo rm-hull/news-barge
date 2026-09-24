@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Leicester
+- Malawi
+- Nissan Dualis
+- UK
+people:
+- Atupele Muluzi
+- Ms Osman
+- Nusrat Osman
+- Shoba Jiwa
+organisations:
+- BBC
+- Facebook
+- Malawi Police Service
+- Nyasa Times
+- The Sun
 ---
 
 A British mother-of-two missing in Malawi was abducted from her car following a school run, her family has said.

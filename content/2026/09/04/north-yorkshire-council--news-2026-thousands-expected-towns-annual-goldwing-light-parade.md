@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - Government
 - Travel
+locations:
+- Eastborough
+- Foreshore Road
+- Globe Street
+- Marine Drive
+- Peasholm Gap
+- Royal Albert Drive
+- Sandside
+- Scarborough Pier
+- South Bay
+- Spa Bridge
+people:
+- Cllr Simon Myers
+- Danielle Scott
+organisations:
+- Yorkshire Air Ambulance
+- Yorkshire Air Ambulance.
 ---
 
 ![Goldwing motorcycles will be on display on Scarborough Pier on September 12 prior to the annual parade of machines in the resort which raises money for the Yorkshire Air Ambulance.](https://www.northyorks.gov.uk/sites/default/files/2026-09/Gold1.jpg) 

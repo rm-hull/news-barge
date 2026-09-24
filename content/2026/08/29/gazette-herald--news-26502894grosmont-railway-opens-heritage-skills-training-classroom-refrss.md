@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Grosmont
+- North York Moors
+- North Yorkshire Moors Railway
+people:
+- Ian Matthews
+- Laura Strangeway
+organisations:
+- GB
+- MIC
+- Mutual Improvement Classroom
+- NYMR
+- Portakabin
 ---
 
 *(Image: Portakabin)*

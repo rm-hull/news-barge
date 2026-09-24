@@ -11,6 +11,26 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/gxujFH8viV2F2zv6UwK4Zk-320-80.jpg
+locations:
+- Iran
+- Middle East
+- Oman
+- Pacific
+- San Francisco
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UK
+- Ukraine
+- Washington
+people:
+- Shahed
+organisations:
+- Get Tom's Hardware
+- Mara
+- U.S. Navy
+- Waymo
+- White House
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/gxujFH8viV2F2zv6UwK4Zk-320-80.jpg)

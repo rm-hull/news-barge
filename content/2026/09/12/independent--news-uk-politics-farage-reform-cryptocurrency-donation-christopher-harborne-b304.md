@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Israel
+- UK
+people:
+- Ben Delo
+- Christopher Harborne
+- Dan Jukes
+- James Orr
+- Nigel Farage
+- Richard Tice
+organisations:
+- Channel 4
+- Metropolitan Police
+- Party
+- Reform UK
 ---
 
 Reform UK has received its second £36m donation in just two days as another cryptocurrency billionaire shows his support for Nigel Farage’s party.

@@ -10,6 +10,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
+locations: []
+people:
+- Kara Sprague
+organisations:
+- AI
+- CTEM
+- Continuous Threat Exposure Management
+- Future plc
+- HackerOne
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg)

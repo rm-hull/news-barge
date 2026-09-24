@@ -14,6 +14,19 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21473296.jpg?type=og-image
+locations:
+- Consett
+- County Durham
+- NHS
+people:
+- Denise Howarth
+organisations:
+- '![]()County Durham'
+- '![]()Darlington Memorial Hospital'
+- Darlington NHS Foundation Trust
+- NORTHERN ECHO
+- NORTHERN ECHO)* Board
+- TEWV
 ---
 
 Psychological services for women affected by failings in County Durham and Darlington NHS Foundation Trust’s breast service are now full.

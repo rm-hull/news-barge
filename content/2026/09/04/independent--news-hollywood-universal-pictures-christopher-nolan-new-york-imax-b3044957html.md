@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Hollywood
+people:
+- Christopher Nolan
+- Curry Barker
+- Dave Green
+- Gen Z
+- Kane Parsons
+- Obsession
+- Richard Gelfond
+- Riley
+- Spider-Man
+- Spielberg
+- Tom Holland
+- Zendaya
+organisations:
+- A24
+- Acme
+- Cinema United
+- Coyote
+- DC Studios'
+- Focus Features
+- Gen Z
+- Grogu
+- IMAX
+- Paramount
+- Rentrak
+- The Odyssey
+- Universal Pictures
+- Walt Disney Co.
+- Warner Bros
+- Warner Bros.
 ---
 
 Hollywood has just wrapped up its best summer in a decade and its biggest vibe shift since the pandemic.

@@ -13,6 +13,23 @@ categories:
 - Food & Cooking
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/18105198.jpg?type=og-image
+locations:
+- Brazil
+- Micklegate
+- UK
+- YORK
+- York
+- Yorkshire
+people:
+- '![]()Eduardo'
+- Eduardo
+organisations:
+- Casa Brazilian Rodizio
+- Casa Brazillian Rodizio
+- Casa Rodizio
+- No. 8
+- Tripadvisor
+- Vaquieors
 ---
 
 ## Family run York restaurant receives best in country accolade AGAIN

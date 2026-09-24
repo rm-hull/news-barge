@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Aden
+- Africa
+- Asia
+- Bab al-Mandab
+- Cairo
+- Europe
+- Hodeidah
+- Iran
+- Khokha
+- Middle East
+- Mocha
+- Red Sea
+- Saudi Arabia
+- Taiz
+- US
+- United Arab Emirates
+- Washington
+- Yemen
+people:
+- Hans Grundberg
+- Joe Lowry
+- Mohamed
+- Mohammed Khudairi
+- Mujahid Tahami
+organisations:
+- Agence France-Presse
+- IOM
+- UN International Organization for Migration
 ---
 
 Nearly 50,000 people have fled a sudden advance by Houthi forces in western Yemen, with entire villages emptied and families trapped near frontline fighting with depleting food supplies, according to aid workers.

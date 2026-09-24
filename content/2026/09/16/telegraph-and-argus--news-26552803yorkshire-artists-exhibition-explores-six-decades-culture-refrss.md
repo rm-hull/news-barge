@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Bygone Yorkshire
+- Castlegate
+- Harrogate
+- Knares
+- Knaresborough
+- Leeds
+- Luna Park
+- Majestyk
+- North Yorkshire
+- Saltaire
+- Scarborough
+- Whitby Abbey
+people:
+- Claire Baxter
+- Teddy Boys
+- Teddy Girls
+organisations:
+- Bygone Yorkshire
+- Claire Baxter
+- Claire Baxter Gallery
+- Harrogate
+- Leeds nightclub Majestyk
+- New Romantics
+- Old Market Hall
+- Saltaire Teddy Boys
+- Spice Girls
+- Teddy Boys
+- Whitby Abbey
+- Whitby Goths
 ---
 
 FROM Saltaire Teddy Boys to Whitby Goths, artist Claire Baxter has brought together six generations of fashion and music - and the Yorkshire places that shaped them - in a new exhibition.

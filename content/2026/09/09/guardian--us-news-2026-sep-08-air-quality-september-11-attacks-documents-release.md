@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Brooklyn
+- Ground Zero
+- Manhattan
+- New York City
+- Pennsylvania
+- Washington
+people:
+- Ben Chevat
+- Gale Brewer
+- Jerry Nadler
+- Rudy] Giuliani
+- Zohran Mamdani
+organisations:
+- 911 Health Watch
+- US Congress
+- World Trade Center
 ---
 
 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact of the September 11 attacks on air quality health, as well as the city’s response.

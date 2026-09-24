@@ -13,6 +13,14 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21483068.jpg?type=og-image
+locations:
+- North Yorkshire
+- West Yorkshire
+- York
+people: []
+organisations:
+- LFR
+- North Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

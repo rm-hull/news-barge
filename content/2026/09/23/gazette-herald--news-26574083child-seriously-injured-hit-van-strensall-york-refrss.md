@@ -13,6 +13,16 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/21490499.jpg?type=og-image&xType=0&yType=39
+locations:
+- North Yorkshire
+- Ox Carr Lane
+- Strensall
+- York
+people: []
+organisations:
+- Crimestoppers
+- Google Maps
+- North Yorkshire Police
 ---
 
 A CHILD has been seriously injured after being hit by a van in York.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21473210.jpg?type=og-image
+locations:
+- Great North Run
+- Middlesbrough-Redcar
+- Newcastle
+- North East
+- Scotland
+- UK
+people:
+- Amanda Spivack
+- Lindsay Gauntlett
+- Lumo
+organisations:
+- Alzheimer’s Society
+- Dementia Friends
+- Dementia Friends Sessions
+- Lumo
+- Manchester Airport
+- North News & Pictures
 ---
 
 *(Image: North News & Pictures)*

@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Northern England
+- Sandgate
+- Whitby
+- York Minster
+people:
+- Bates
+- Carmen Ejogo
+- Charles
+- Claire
+- Dominic West
+- Elizabeth II
+- Imelda Staunton
+- Naomi Scott
+- Nicola Coughlan
+- Penelope Featherington
+- Toby Jones
+organisations:
+- Derry Girls
+- Haydn Lewis
+- IMDb
+- NETFLIX
+- Netflix
+- Newsquest
+- Roald Dahl Story Company
+- The Post Office
+- The Press
 ---
 
 A NETFLIX series starring Dame Imelda Staunton, Nicola Coughlan and Toby Jones has begun filming in Whitby.

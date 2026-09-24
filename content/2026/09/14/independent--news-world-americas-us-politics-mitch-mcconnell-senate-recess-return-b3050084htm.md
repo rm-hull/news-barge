@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/07/10/09/2275272824..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- Kentucky
+- Washington
+people:
+- Andy Beshear
+- David Scott
+- Joe Biden
+- Lindsey Graham
+- Mitch McConnell
+organisations:
+- C-SPAN
+- Congress
+- House of Representatives
+- Senate
+- The Independent
 ---
 
 Mitch McConnell, the former leader of the Republican Senate caucus, was a no-show on Monday as the chamber returned from August recess.

@@ -14,6 +14,24 @@ categories:
 - York
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Filey’s Coble Landing
+- Scarborough Harbour
+- West Pier
+- Whitby Harbour
+people:
+- Barry Khan
+- Robin Gray
+organisations:
+- Blue Sky
+- Blue Sky Thinking
+- ICO
+- Information Commissioner’s Office
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough Harbour Advisory Board
+- Scarborough Harbour Users Group
 ---
 
 A COUNCIL has been reprimanded and told to carry out further searches for information about a major harbour project.

@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- A645
+- Glebelands
+- Harrogate Magistrates Court
+- Kellington
+- Knottingley
+- Nissan Navara
+- Selby
+- York Magistrates' Court
+people:
+- '## Man'
+- Cavalier
+- Lee Adlington
+- Melanie Ibbotson
+- Selby
+organisations:
+- Harrogate
+- Newsquest
 ---
 
 ## Man drove away from court immediately after being banned from driving
