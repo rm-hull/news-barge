@@ -14,3 +14,48 @@ dependencies = [
     "tqdm>=4.70.1",
     "trafilatura>=2.2.0",
 ]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.13.0",
+    "ruff>=0.9.0",
+    "types-PyYAML>=6.0.12",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py314"
+
+[tool.ruff.lint]
+# Conservative rule set: catch real bugs and enforce style without
+# being noisy.
+select = [
+    "B",   # flake8-bugbear
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "I",   # isort (import sorting)
+    "RUF", # ruff-specific rules
+    "UP",  # pyupgrade
+    "W",   # pycodestyle warnings
+]
+
+[tool.ruff.format]
+docstring-code-format = true
+
+[tool.mypy]
+python_version = "3.14"
+strict = true
+warn_unused_configs = true
+
+# feedparser, taxotag, lxml and tqdm ship no type annotations or have
+# dynamic APIs (XPath, regex-heavy) that are not meaningfully checkable
+# with static stubs. Treat them as Any so mypy focuses on our code.
+[[tool.mypy.overrides]]
+module = [
+    "feedparser",
+    "taxotag.*",
+    "lxml.*",
+    "tqdm.*",
+    "tqdm",
+]
+ignore_missing_imports = true

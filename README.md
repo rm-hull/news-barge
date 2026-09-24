@@ -84,6 +84,23 @@ cd ../site
 npm install
 npm start    # http://localhost:8080
 ```
+
+### Type checking and linting
+
+The scraper is fully typed and linted using
+[`mypy`](https://mypy.readthedocs.io/) and
+[`ruff`](https://docs.astral.sh/ruff/). Install dev dependencies and run:
+
+```bash
+uv sync --group dev
+uv run ruff check scrape.py backfill_categories.py  # lint
+uv run ruff format scrape.py backfill_categories.py  # format
+uv run mypy scrape.py backfill_categories.py         # type check
+```
+
+The CI workflow (`.github/workflows/build.yml`) runs all three checks on every
+push and pull request affecting files under `scraper/`.
+
 ```bash
 # Scrape
 cd scraper

@@ -6,28 +6,37 @@ extracts the main content with trafilatura, converts to Markdown,
 and writes dated .md files with YAML frontmatter.
 """
 
+from __future__ import annotations
+
 import argparse
 import asyncio
 import calendar
 import hashlib
 import os
+import random
 import re
 import sys
-import random
-from threading import Lock
-from tqdm.asyncio import tqdm
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urlparse, urljoin, urlunparse, urlencode, parse_qsl
+from threading import Lock
+from typing import Any, cast
+from urllib.parse import parse_qsl, urlencode, urljoin, urlparse
 
 import aiohttp
 import feedparser
-from markdownify import markdownify as to_markdown
-from taxotag import Gist
 import trafilatura
-from lxml import html as lxml_html
 import yaml
-from playwright.async_api import async_playwright
+from lxml import html as lxml_html
+from markdownify import markdownify as to_markdown
+from playwright.async_api import (
+    Browser,
+    BrowserContext,
+    Page,
+    Route,
+    async_playwright,
+)
+from taxotag import Gist
+from tqdm.asyncio import tqdm
 
 # ---------------------------------------------------------------------------
 # Config
@@ -41,7 +50,11 @@ TRAFILATURA_CONFIG = trafilatura.settings.use_config()
 TRAFILATURA_CONFIG.set("DEFAULT", "EXTRACTION_TIMEOUT", "30")
 
 FETCH_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/126.0.0.0 Safari/537.36"
+    ),
     "Accept-Language": "en-GB,en;q=0.9",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
@@ -49,8 +62,8 @@ FETCH_HEADERS = {
 DEFAULT_CONCURRENCY = 10
 DEFAULT_BROWSER_CONCURRENCY = 2
 TAXOTAG_TOP_K = 3
-taxotag = Gist()
-taxotag_lock = Lock()
+taxotag: Gist = Gist()
+taxotag_lock: Lock = Lock()
 
 
 # ---------------------------------------------------------------------------
@@ -67,15 +80,15 @@ def slugify(text: str) -> str:
 
 
 class SiteLogger:
-    def __init__(self, site_name: str, site_slug: str):
+    def __init__(self, site_name: str, site_slug: str) -> None:
         self.site_name = site_name
         self.site_slug = site_slug
-        self.logs = []
+        self.logs: list[str] = []
 
-    def log(self, message: str):
+    def log(self, message: str) -> None:
         self.logs.append(message)
 
-    def error(self, message: str):
+    def error(self, message: str) -> None:
         if os.environ.get("GITHUB_ACTIONS") == "true":
             self.logs.append(f"::error::{message}")
         else:
@@ -83,11 +96,11 @@ class SiteLogger:
             RESET = "\033[0m"
             self.logs.append(f"{RED_BOLD}ERROR:{RESET} {message}")
 
-    def info(self, message: str):
+    def info(self, message: str) -> None:
         self.log(message)
 
 
-def report_error(message: str, logger: SiteLogger = None) -> None:
+def report_error(message: str, logger: SiteLogger | None = None) -> None:
     """Prints an error message to stderr with colors and GitHub Actions support."""
     if logger:
         logger.error(message)
@@ -202,12 +215,14 @@ def normalize_inline_spacing(extracted_html: str) -> str:
             element.text = element.text[: -len(whitespace)]
             element.tail = whitespace + (element.tail or "")
 
-    return lxml_html.tostring(tree, encoding="unicode")
+    return cast(str, lxml_html.tostring(tree, encoding="unicode"))
 
 
 # A bare ``attr="value"`` selector, e.g. ``role="dialog"``. The first group is
 # the attribute name, the second its value (single- or double-quoted).
-_EXCLUSION_ATTR_PATTERN = re.compile(r'^\s*([\w:-]+)\s*=\s*["\']([^"\']+)["\']\s*$')
+_EXCLUSION_ATTR_PATTERN: re.Pattern[str] = re.compile(
+    r'^\s*([\w:-]+)\s*=\s*["\']([^"\']+)["\']\s*$'
+)
 
 
 def normalize_exclusion(expr: str) -> str:
@@ -274,11 +289,10 @@ def remove_excluded_elements(
 
     if logger and removed:
         logger.log(
-            f"  · excluded {removed} element(s) via "
-            f"{len(exclusions)} exclusion rule(s)"
+            f"  · excluded {removed} element(s) via {len(exclusions)} exclusion rule(s)"
         )
 
-    return lxml_html.tostring(tree, encoding="unicode")
+    return cast(str, lxml_html.tostring(tree, encoding="unicode"))
 
 
 def linkify_text(text: str) -> str:
@@ -296,10 +310,10 @@ def linkify_text(text: str) -> str:
     )
     excluded_imgs = ["placeholder image", "google preferred source"]
 
-    def replace(match):
+    def replace(match: re.Match[str]) -> str:
         img, link, url, email = match.groups()
         if img:
-            # Check if it's a placeholder image (case-insensitive check for 'placeholder')
+            # Check if it's a placeholder image (case-insensitive)
             for excluded in excluded_imgs:
                 if excluded.lower() in img.lower():
                     return ""
@@ -332,7 +346,7 @@ def months_ago(months: int = 1) -> datetime:
     Mirrors GNU ``date -d "N months ago"`` so the scraper and the archive
     workflow agree on what "older than N months" means.
     """
-    now = datetime.now(timezone.utc)
+    now = datetime.now(UTC)
     year, month = now.year, now.month - months
     while month <= 0:
         month += 12
@@ -341,7 +355,7 @@ def months_ago(months: int = 1) -> datetime:
         month -= 12
         year += 1
     day = min(now.day, calendar.monthrange(year, month)[1])
-    return datetime(year, month, day, tzinfo=timezone.utc)
+    return datetime(year, month, day, tzinfo=UTC)
 
 
 def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
@@ -351,7 +365,7 @@ def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
 
 
 def write_markdown(
-    path: Path, frontmatter: dict, body: str, logger: SiteLogger
+    path: Path, frontmatter: dict[str, Any], body: str, logger: SiteLogger
 ) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(
@@ -374,8 +388,8 @@ def write_markdown(
 async def fetch_html_aiohttp(
     url: str,
     session: aiohttp.ClientSession,
-    logger: SiteLogger = None,
-    headers: dict | None = None,
+    logger: SiteLogger | None = None,
+    headers: dict[str, str] | None = None,
     allow_redirects: bool = True,
     ssl: bool = True,
 ) -> str | None:
@@ -399,14 +413,14 @@ async def fetch_html_aiohttp(
 
 async def fetch_html_playwright(
     url: str,
-    browser,
+    browser: Browser,
     browser_semaphore: asyncio.Semaphore,
-    logger: SiteLogger = None,
+    logger: SiteLogger | None = None,
 ) -> str | None:
     """Full browser fetch for JS-heavy or anti-bot sites."""
     async with browser_semaphore:
-        ctx = None
-        page = None
+        ctx: BrowserContext | None = None
+        page: Page | None = None
         try:
             ctx = await browser.new_context(
                 user_agent=FETCH_HEADERS["User-Agent"],
@@ -417,7 +431,7 @@ async def fetch_html_playwright(
             )
             page = await ctx.new_page()
 
-            async def abort_route(route):
+            async def abort_route(route: Route) -> None:
                 await route.abort()
 
             await page.route(
@@ -463,13 +477,16 @@ async def urls_from_feed(
     feed_url: str,
     limit: int,
     session: aiohttp.ClientSession,
-    logger: SiteLogger = None,
-    site: dict = None,
+    logger: SiteLogger | None = None,
+    site: dict[str, Any] | None = None,
 ) -> list[str]:
     # Use neutral headers for feeds to avoid being served HTML instead of XML
-    feed_headers = {
+    feed_headers: dict[str, str] = {
         "User-Agent": "curl/7.81.0",
-        "Accept": "application/rss+xml,application/xml,text/xml,application/xhtml+xml,text/html;q=0.9,*/*;q=0.8",
+        "Accept": (
+            "application/rss+xml,application/xml,text/xml,"
+            "application/xhtml+xml,text/html;q=0.9,*/*;q=0.8"
+        ),
     }
     ssl = not site.get("trust_insecure_certs", False) if site else True
     body = await fetch_html_aiohttp(
@@ -485,7 +502,7 @@ async def urls_from_feed(
 
     parsed = feedparser.parse(body)
     entries = parsed.entries[:limit]
-    urls = []
+    urls: list[str] = []
     for entry in entries:
         link = entry.get("link") or entry.get("id")
         if link:
@@ -494,18 +511,18 @@ async def urls_from_feed(
 
 
 async def urls_from_listing(
-    listing_url,
-    pattern,
-    limit,
-    use_playwright,
+    listing_url: str,
+    pattern: str | None,
+    limit: int,
+    use_playwright: bool,
     session: aiohttp.ClientSession,
-    browser,
+    browser: Browser,
     browser_semaphore: asyncio.Semaphore,
-    listing_class=None,
-    resolve_relative_to_root=False,
-    logger: SiteLogger = None,
-    site: dict = None,
-):
+    listing_class: str | None = None,
+    resolve_relative_to_root: bool = False,
+    logger: SiteLogger | None = None,
+    site: dict[str, Any] | None = None,
+) -> list[str]:
     ssl = not site.get("trust_insecure_certs", False) if site else True
     html = (
         await fetch_html_playwright(
@@ -520,9 +537,10 @@ async def urls_from_listing(
     tree = lxml_html.fromstring(html)
 
     if listing_class:
-        # Find all elements with the specified class, then find all <a> tags within them
+        # Find all elements with the specified class, then find all <a> tags
         links = tree.xpath(
-            f"//*[contains(concat(' ', normalize-space(@class), ' '), ' {listing_class} ')]//a[@href]"
+            f"//*[contains(concat(' ', normalize-space(@class)"
+            f", ' '), ' {listing_class} ')]//a[@href]"
         )
     else:
         links = tree.xpath("//a[@href]")
@@ -530,11 +548,13 @@ async def urls_from_listing(
     parsed_base = urlparse(listing_url)
     root_url = f"{parsed_base.scheme}://{parsed_base.netloc}/"
 
-    urls = []
+    urls: list[str] = []
     for link in links:
         href = link.get("href")
+        if href is None:
+            continue
 
-        # If resolve_relative_to_root is True and the link is relative (no leading slash, no scheme)
+        # If resolve_relative_to_root is True and link is relative, resolve from root
         if (
             resolve_relative_to_root
             and href
@@ -553,8 +573,8 @@ async def urls_from_listing(
             urls.append(full_url)
 
     # Deduplicate while preserving order
-    seen = set()
-    unique_urls = []
+    seen: set[str] = set()
+    unique_urls: list[str] = []
     for u in urls:
         if u not in seen:
             unique_urls.append(u)
@@ -570,11 +590,11 @@ async def urls_from_listing(
 
 async def process_article(
     url: str,
-    site: dict,
+    site: dict[str, Any],
     dry_run: bool,
     force: bool,
     session: aiohttp.ClientSession,
-    browser,
+    browser: Browser,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
     logger: SiteLogger,
@@ -630,14 +650,14 @@ async def process_article(
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
 
     # Fallback to first image in markdown if metadata image is missing
-    image = None
+    image: str | None = None
     if meta and meta.image:
         image = meta.image
     else:
         image = extract_first_image_from_markdown(md_body)
 
-    now = datetime.now(timezone.utc)
-    pub_date = None
+    now = datetime.now(UTC)
+    pub_date: datetime | None = None
     if meta and meta.date:
         try:
             pub_date = datetime.fromisoformat(meta.date.replace("Z", "+00:00"))
@@ -658,7 +678,7 @@ async def process_article(
         dict.fromkeys((site.get("categories") or []) + generated_categories)
     )
 
-    frontmatter = {
+    frontmatter: dict[str, Any] = {
         "title": title,
         "source_url": url,
         "source_site": site["name"],
@@ -701,13 +721,13 @@ async def process_article(
 # ---------------------------------------------------------------------------
 
 
-def load_sites() -> list[dict]:
+def load_sites() -> list[dict[str, Any]]:
     with open(SITES_FILE, encoding="utf-8") as f:
         data = yaml.safe_load(f)
-    return data.get("sites", [])
+    return cast(list[dict[str, Any]], data.get("sites", []))
 
 
-async def main_async(args):
+async def main_async(args: argparse.Namespace) -> None:
     sites = load_sites()
     if args.site:
         sites = [s for s in sites if s["slug"] == args.site]
@@ -721,8 +741,8 @@ async def main_async(args):
     fetch_semaphore = asyncio.Semaphore(concurrency)
     browser_semaphore = asyncio.Semaphore(browser_concurrency)
 
-    site_loggers = {}
-    all_tasks = []
+    site_loggers: dict[str, SiteLogger] = {}
+    all_tasks: list[tuple[str, dict[str, Any], SiteLogger]] = []
 
     async with aiohttp.ClientSession() as session:
         async with async_playwright() as playwright:
@@ -737,7 +757,6 @@ async def main_async(args):
                 print(f"Discovery: {site['name']} ({site['slug']})", end="", flush=True)
 
                 urls = list(site.get("urls") or [])
-                initial_count = len(urls)
 
                 if "feed" in site:
                     limit = site.get("limit", site.get("feed_limit", 10))
@@ -773,7 +792,8 @@ async def main_async(args):
                         site=site,
                     )
                     print(
-                        f" | Listing {site['listing_url']} -> found {len(listing_urls)} URLs",
+                        f" | Listing {site['listing_url']} -> "
+                        f"found {len(listing_urls)} URLs",
                         end="",
                         flush=True,
                     )
@@ -787,8 +807,8 @@ async def main_async(args):
 
                 # Deduplicate URLs discovered across feed / listing / static
                 # sources for this site, preserving order.
-                seen_urls = set()
-                deduped_urls = []
+                seen_urls: set[str] = set()
+                deduped_urls: list[str] = []
                 for u in urls:
                     if u not in seen_urls:
                         deduped_urls.append(u)
@@ -796,7 +816,7 @@ async def main_async(args):
                 urls = deduped_urls
 
                 # Log discovery to the stashed logger for the final grouped report
-                logger.log(f"\n{'─'*50}")
+                logger.log(f"\n{'─' * 50}")
                 logger.log(f"Site: {site['name']} ({site['slug']})")
                 if "feed" in site:
                     logger.log(f"  Fetching feed: {site['feed']}")
@@ -828,15 +848,16 @@ async def main_async(args):
             ]
 
             is_gh = os.environ.get("GITHUB_ACTIONS") == "true"
-            tqdm_kwargs = {
+            tqdm_kwargs: dict[str, Any] = {
                 "total": len(article_tasks),
                 "desc": "Processing articles",
             }
             if is_gh:
-                # In GH Actions, update less frequently and use a simpler format without the bar
+                # In GH Actions, update less frequently (simpler format)
                 tqdm_kwargs["mininterval"] = 10  # Update every 10 seconds
                 tqdm_kwargs["bar_format"] = (
-                    "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, {n_fmt}/{total_fmt} [{elapsed}]"
+                    "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, "
+                    "{n_fmt}/{total_fmt} [{elapsed}]"
                 )
             else:
                 # Keep the nice default progress bar for the console
@@ -865,11 +886,11 @@ async def main_async(args):
             for line in logger.logs:
                 print(line)
 
-    print(f"\n{'─'*50}")
+    print(f"\n{'─' * 50}")
     print(f"Done. {total_new} new article(s) written.")
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape sites → Markdown")
     parser.add_argument("--dry-run", action="store_true", help="Don't write files")
     parser.add_argument("--site", help="Only process this slug")

@@ -3,6 +3,7 @@
 import argparse
 from pathlib import Path
 from threading import Lock
+from typing import Any
 
 import yaml
 from taxotag import Gist
@@ -30,7 +31,7 @@ def classify_article(title: str, description: str) -> list[str]:
     return [topic.name for topic in topics]
 
 
-def parse_article(path: Path) -> tuple[dict, str]:
+def parse_article(path: Path) -> tuple[dict[str, Any], str]:
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---\n"):
         raise ValueError("missing YAML frontmatter")
@@ -46,7 +47,7 @@ def parse_article(path: Path) -> tuple[dict, str]:
     return frontmatter, body
 
 
-def render_article(frontmatter: dict, body: str) -> str:
+def render_article(frontmatter: dict[str, Any], body: str) -> str:
     rendered = yaml.dump(
         frontmatter,
         allow_unicode=True,
