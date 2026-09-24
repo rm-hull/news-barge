@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- California
+- Glasgow
+- Ireland
+- London
+- Menlo Park
+- Portsmouth
+- UK
+- US
+people:
+- Ankit Brahmbhatt
+- Ben Wood
+- Emma Barnett
+- Evan Spiegel
+- Janusz Swierczynski
+- John Simpson
+- Kate Winick
+- Kim Kardashian
+- Kylie Jenner
+- Liz Hunter
+- Mark Zuckerberg
+- Meta
+- Thomas Dexmier
+- Zoe Kleinman
+organisations:
+- BBC
+- CCS Insight
+- EssilorLuxottica
+- Financial Times
+- Forrester
+- Google
+- HTC Vive
+- JD Wetherspoon
+- Meta AI
+- Meta Glasses'
+- Meta Platforms Inc.
+- Oxford University
+- Ray-Ban Meta Audio
+- Samsung
+- Saïd Business School
+- Snap
+- Snap's
+- Snapchat
+- Vive Eagle
+- Warby Parker
+- Wired
+- Zoe Kleinman
+- ZuckOff
 ---
 
 **When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the trendy sunglasses brand Ray-Ban, it unleashed a storm of controversy.**

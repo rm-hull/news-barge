@@ -13,6 +13,16 @@ categories:
 - Personal Finance & Investing
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/20817067.jpg?type=og-image
+locations:
+- '## York'
+- UK
+people:
+- Simon Thompson
+organisations:
+- Accommodation for Students
+- LDRS)* York
+- University of York
+- York St John University
 ---
 
 ## York students pay £1,584 more than national average for accommodation

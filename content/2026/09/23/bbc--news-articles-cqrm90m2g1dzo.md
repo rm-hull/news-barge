@@ -14,6 +14,26 @@ categories:
 - Law & Justice
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a429/live/49107af0-b78b-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Arizona
+- Birkenstock
+- Boston
+- Europe
+- Florida
+- Germany
+- Gizeh
+- Madrid
+- Netherlands
+people:
+- Birkenstock
+- Christian Louboutin
+- Margot Robbie
+- Martens
+organisations:
+- BBC
+- Birkenstock
+- Lidl
+- Scapino
 ---
 
 ![A person is seen wearing cream-white wide-leg jeans with subtle stripes and Boston clogs in soft suede with an open back and adjustable strap from Birkenstock. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a429/live/49107af0-b78b-11f1-bc1f-3f186ca4140c.jpg)

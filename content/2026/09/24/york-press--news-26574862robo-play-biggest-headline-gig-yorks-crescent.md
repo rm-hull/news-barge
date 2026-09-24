@@ -13,6 +13,23 @@ categories:
 - Music
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21491460.jpg?type=og-image&xType=0&yType=0
+locations:
+- Margate
+- The Crescent
+- UK
+- York
+people:
+- Chris Hawkins
+- Gary Powell
+organisations:
+- 25 Hour Convenience Store
+- BBC Radio 6
+- Ghostship
+- Robo
+- The Albion Rooms
+- The Crescent
+- The Libertines’
+- Vagabond
 ---
 
 *(Image: Supplied)*

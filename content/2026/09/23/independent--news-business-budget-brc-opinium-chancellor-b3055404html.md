@@ -13,6 +13,14 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/00/cd7a40fb19e9c8703708f6d3e8cda906Y29udGVudHNlYXJjaGFwaSwxNzkwMjQ1NjM5-2.84453017.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Helen Dickinson
+organisations:
+- BRC
+- British Retail Consortium
+- Budget
+- Opinium Consumer Sentiment Monitor
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

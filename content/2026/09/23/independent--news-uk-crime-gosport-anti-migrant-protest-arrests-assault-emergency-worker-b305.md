@@ -12,6 +12,28 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/22/2296072996..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dover
+- Folkestone
+- Forton Road
+- Gosport
+- Hampshire
+- Isle of Wight Constabulary
+- Kent
+- Portsmouth Magistrates’ Court
+- Salisbury
+- Samphire Hoe
+- Wiltshire
+people:
+- Sally Pearson
+- Shabana Mahmood
+- Shannon Dodds
+- Toby Matthews
+organisations:
+- Border Force
+- Border Security Command
+- Home Office
+- Royal Navy
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

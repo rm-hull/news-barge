@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc5f/live/7a5b14e0-b767-11f1-b1d1-571ed4d7ff2c.png
+locations:
+- Australia
+- Covid
+- England
+- Liverpool
+people:
+- '**Amanda:** "'
+- Amanda Thorpe
+- Amanda:**
+- Covid
+- Debbie Beard
+- Debbie:**
+- Emma
+- Graham Thorpe
+- Matt Beard
+- Simon Jack**
+- Simon:** "
+organisations:
+- BBC
+- Burnley Women
+- ECB
+- England and Wales Cricket Board
+- Liverpool Women
+- Prince of Wales
+- Royal Foundation
+- Surrey
+- Sydney Morning Herald
 ---
 
 Debbie Beard and Amanda Thorpe on the loss of their husbands

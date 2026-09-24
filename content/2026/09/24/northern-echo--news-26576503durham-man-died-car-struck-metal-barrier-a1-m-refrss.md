@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21380461.jpg?type=og-image&xType=0&yType=143
+locations:
+- Bowburn
+- Bradbury
+- County Durham
+- Crook Coroner's Court
+- DURHAM
+- M
+- Newcastle
+- Royal Victoria Infirmary Mortuary
+- Sherburn Village
+people:
+- Adam Tombling
+- Emma Yard
+- Ryan Edward Scarth
+- S McKenna Favier
+- Sue Rooney
+organisations:
+- A1
+- A1(M)
 ---
 
 *(Image: DURHAM CONSTABULARY)*

@@ -14,6 +14,21 @@ categories:
 - Technology & Software
 - Music
 image: https://static.independent.co.uk/2026/08/12/15/757fa0f69a27f1baae193ccf5fd0d2e6Y29udGVudHNlYXJjaGFwaSwxNzg2NjI4ODgw-2.20078466.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Andrew Matthews
+- Emma Pickering
+- Ms Pickering
+organisations:
+- EVAW
+- FOI
+- Freedom of Information
+- Ofcom
+- Refuge
+- Spotify
+- The Independent
+- VAWG
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

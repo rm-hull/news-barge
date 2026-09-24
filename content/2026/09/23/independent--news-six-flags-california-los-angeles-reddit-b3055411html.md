@@ -13,6 +13,20 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/00/Six_Flags_Lawsuits_12177.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+people:
+- Christopher Hawley
+- Gary Dordick
+- Michael Wilk
+- Naomi Greer-Wilkinson
+- Pamela Guillen
+organisations:
+- Magic Mountain
+- Reddit
+- S&S Worldwide
+- Six Flags
+- Six Flags Magic Mountain
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

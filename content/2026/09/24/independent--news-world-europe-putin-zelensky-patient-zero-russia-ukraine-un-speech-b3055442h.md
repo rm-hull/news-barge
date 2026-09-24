@@ -14,6 +14,36 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/20/2296782769..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Asia
+- Beijing
+- Canada
+- China
+- France
+- Germany
+- Kremlin
+- New York
+- North Korea
+- Poland
+- Pyongyang
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Donald Trump
+- Freya
+- Kim Jong-un
+- Vladimir Putin
+- Volodymyr Zelensky
+- Xi Jinping
+organisations:
+- European Union
+- Kyiv
+- Nato
+- UNGA
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

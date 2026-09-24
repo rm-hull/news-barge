@@ -14,6 +14,15 @@ categories:
 - Music
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/19347416.jpg?type=og-image
+locations:
+- Bradford
+- UK
+- US
+people:
+- Bill Shanley
+- Gilbert O’Sullivan
+organisations:
+- St George’s Hall
 ---
 
 *(Image: T&A)*

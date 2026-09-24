@@ -13,6 +13,40 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/22/3b16647c2c3cca3b88d50f0f04c97896Y29udGVudHNlYXJjaGFwaSwxNzkwMTk3NzQ3-2.85938839.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Makerfield
+- New York
+- UK
+people:
+- Andy Burnham
+- Boris Johnson
+- Brexit
+- John Major
+- Keir Starmer
+- Kemi Badenoch
+- Morgan McSweeney
+- Nigel Farage
+- Toby Melville
+- Tony Blair
+- Ursula von der Leyen
+organisations:
+- Brexit
+- ECHR
+- EU
+- European Commission
+- European Convention of Human Rights
+- European Union
+- IPPR
+- Institute of Public Policy Research
+- Labour
+- Logistics UK
+- PA
+- Reform
+- The Independent
+- Tony Blair Institute
+- Tories
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

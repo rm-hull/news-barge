@@ -13,6 +13,39 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/05/Turkey_Iran_Trade_7937_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Asia
+- Europe
+- Gürbulak
+- Iran
+- Israel
+- Kuhak
+- Overland
+- Pakistan
+- Pittsburgh
+- Strait of Hormuz
+- Tabriz
+- Tehran
+- Turkey
+- U.S.
+- Washington
+people:
+- Akbar Sadigi
+- Akbar Yahyai
+- Amir Roshanbakhsh Ghanbari
+- Ersin Şimşek
+- Eskandar Momeni
+- Masoud Pezeshkian
+- Mohammad Farzanegan
+- Muhammed Rıza Shiri
+- \_\_\_ Radjy
+organisations:
+- A Telegram
+- AP
+- Gürbulak
+- ILNA
+- International Transporters Association
+- The Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

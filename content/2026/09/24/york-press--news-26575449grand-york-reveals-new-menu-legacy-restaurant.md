@@ -12,6 +12,36 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21492310.jpg?type=og-image
+locations:
+- Legacy
+- London
+- Malta
+- The Grand
+- UK
+- York
+- Yorkshire
+people:
+- Adam Dyke
+- Ahmed Abdalla
+- Erin Frechon
+- Gordon Ramsay
+- Kevin Bonello
+- Legacy
+- Lily Roberts
+- Marco Pierre White
+- Ollie Abell
+- de Mondion
+organisations:
+- Fish & Harvest
+- Foraged & Roots
+- Game & Wild
+- Legacy
+- Michelin Guide
+- The Grand
+- The Grand, York He
+- The Press
+- Visit York
+- Yorkshire
 ---
 
 ## Michelin chef reveals bold new future for one of York's top restaurants

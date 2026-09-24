@@ -11,6 +11,27 @@ description: At Snapdragon Summit 2026, I got hands-on with the dual-screen Xiao
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/pNXqBrrwYSVMckeWogmsoi-1920-80.jpg
+locations:
+- Australia
+- China
+- Europe
+- Hawaii
+- UK
+- US
+people:
+- Axel
+- Xiaomi
+organisations:
+- 18 Pro
+- Apple
+- Axel Metz
+- Esquire
+- Fold
+- Google News
+- Samsung
+- TechRadar
+- University of Warwick
+- Xiaomi
 ---
 
 ![The Xiaomi 18 Pro being held in the hand](https://cdn.mos.cms.futurecdn.net/pNXqBrrwYSVMckeWogmsoi.jpg)

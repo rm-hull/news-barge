@@ -12,6 +12,26 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21383848.jpg?type=og-image
+locations:
+- England
+- Helmsley Market Place
+- Helmsley Town Hall
+- Market Place
+- North Yorkshire
+- York
+people:
+- David Skaith
+- George Jabbour
+- Helmsley
+- Mark Crane
+- Tony Bartholomew
+organisations:
+- City of York Council
+- Helmsley Library
+- Helmsley Town Investment Plan
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- Town Investment Plans
 ---
 
 ## Residents urged to shape future of thriving market town

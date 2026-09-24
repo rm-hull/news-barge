@@ -13,6 +13,22 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg
+locations:
+- France
+- Washington
+people:
+- William Wright
+organisations:
+- BBC
+- Canvas
+- Closed Door Security
+- FBI BEAST
+- FBI BICS
+- FBI MedLink
+- Oracle
+- Reuters
+- Shiny Hunters
+- ShinyHunters
 ---
 
 ![Two FBI agents in Washington DC](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg)

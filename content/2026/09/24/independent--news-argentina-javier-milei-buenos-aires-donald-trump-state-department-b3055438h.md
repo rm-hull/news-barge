@@ -14,6 +14,26 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/03/Argentina_US_7365_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- China
+- New York
+- U.S.
+- United States
+- Vaca Muerta
+- Washington
+people:
+- Christopher Landau
+- Donald Trump
+- Javier Milei
+- Pablo Quirno
+organisations:
+- International Monetary Fund
+- Milei
+- State Department
+- The Trump
+- U.N.
+- U.S. Export-Import Bank
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

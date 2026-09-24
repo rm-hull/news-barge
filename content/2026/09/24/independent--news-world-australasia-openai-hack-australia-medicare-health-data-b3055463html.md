@@ -13,6 +13,43 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/24/06/2295204273..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Beijing
+- Canada
+- China
+- Germany
+- New York
+- New York City
+- Spain
+- UK
+- US
+- White House
+people:
+- AI
+- Andy Burnham
+- Anthony Albanese
+- Donald Trump
+- Emmanuel Macron
+- Fu Cong
+- Michael Kratsios
+- Richard Marles
+- Sam Altman
+- Yoshua Bengio
+organisations:
+- 81st United Nations General Assembly
+- ABC
+- AI
+- Department of Justice
+- Independent International Scientific Panel
+- OpenAI
+- Security Council
+- Services Australia
+- UN General Assembly
+- UN Headquarters
+- UN Security Council
+- United Nations General Assembly
+- United Nations Security Council
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

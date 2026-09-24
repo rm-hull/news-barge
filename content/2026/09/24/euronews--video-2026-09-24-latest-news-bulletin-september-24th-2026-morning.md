@@ -12,6 +12,41 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/56/34/1200x675_cmsv2_5898e523-62c6-5c91-9f21-3ba9f86da4c8-9925634.jpg
+locations:
+- Alpabzug
+- Beijing
+- Brussels
+- Colosseum
+- Europe
+- France
+- Griesalp
+- Hungary
+- Italy
+- Japan
+- Kiental
+- Kyiv
+- Lima
+- Milagro
+- Mount Fuji
+- Navarra Province
+- Oyama
+- Peru
+- Rome
+- Spain
+- Switzerland
+- UAE
+people:
+- Peter Magyar
+- Pope Leo XIV
+- Ursula von der Leyen
+organisations:
+- Alibaba
+- Ariana Mallma
+- EU
+- Euronews
+- European Commission
+- Rubik
+- Ynn Coffee
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

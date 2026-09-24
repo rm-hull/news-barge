@@ -15,6 +15,23 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQxYzc0ZjBkLTc3ZTktNDEyYi1iMTgzLWU0N2RkMTViNjJiNzpjZDFkZTdhZC1jYzExLTRjYTMtOWYwNC1lZTgzN2FlYzlhZTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Grantley Hall
+- London
+- North Yorkshire
+people:
+- Caroline Asquith
+- Jo Goodall-Thorne
+- Lubna Khan-Salim
+- Nicola Glennon
+- Victoria Clapham
+organisations:
+- Aesthetics Technology
+- Grantley Hall
+- Lexus Leeds
+- Luna
+- Smart Works Yorkshire
+- Yorkshire Beauty
 ---
 
 # ‘Be strong, not small should be the goal as women get older’: Grantley Hall to host Yorkshire British Beauty Week event

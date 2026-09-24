@@ -16,6 +16,48 @@ categories:
 - History
 - Technology & Software
 image: https://i.guim.co.uk/img/media/885f0eb0cc1fd2e3eebada30ce9cb48e0fac0129/330_0_5626_4500/master/5626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02a9628a9fe5e9d61b08b7bc4383a6ba
+locations:
+- China
+- Donetsk
+- Holosiivskyi
+- Iran
+- Kyiv
+- Luhansk
+- Moscow
+- Myla
+- Ozon
+- Podolsk
+- Russia
+- Ukraine
+- Ukrnafta
+- Wildberries
+people:
+- Ananas
+- Serhii Beskrestnov
+- Shahed Geran-2s
+- Sidharth Kaushal
+- Skipper
+- Tatyana Makeyeva
+- Volodymyr Zelenskyy
+- Znakhar
+organisations:
+- 413 Raid
+- AFP
+- EyePress News
+- FP-2
+- IT
+- International Energy Agency
+- Libkos
+- Nova Poshta
+- Royal United Services Institute
+- SBU
+- Shahed
+- Shutterstock Mission
+- Special Operations Centre
+- Sych
+- UN
+- Unmanned System Forces
+- Wildberries’
 ---
 
 Finally, in the dead of night, the threat above has passed. The rain has eased and the Ukrainian drones are ready, prepared by a ground crew shrouded in hard-to-detect green and red lights. A small succession of Ukrainian Fire Point FP-2 craft, miniature monoplanes with a 6-metre wingspan and more than 100kg of explosive, line up for an attack mission into occupied Luhansk, over 200 miles away.

@@ -12,6 +12,15 @@ categories:
 - York
 - Science
 image: https://www.yorkpress.co.uk/resources/images/21490292.jpg?type=og-image
+locations:
+- Bradford
+- Yorkshire
+people:
+- Beth Elias
+- Stephanie Archer
+organisations:
+- University of Cambridge
+- Yorkshire Cancer Research PARCC
 ---
 
 ## More than 1,300 to take part in Yorkshire cancer prevention study

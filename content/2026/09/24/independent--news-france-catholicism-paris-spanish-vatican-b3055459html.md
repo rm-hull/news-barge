@@ -13,6 +13,41 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/22/07/France_Lourdes_Pope_8148_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Basilica of Our Lady of Aparecida
+- Basilica of Our Lady of Guadalupe
+- Basilica of Our Lady of the Rosary
+- Brazil
+- Central and Eastern Europe
+- Eastern Europe
+- Eastern and Central Europe
+- France
+- Mass
+- Massabielle
+- Mexico City
+- Nevers
+- Paris
+- Poland
+- Saint Pius X. Pilgrims
+- Sanctuary of Our Lady of Lourdes
+- Tarbes
+- Vatican
+people:
+- Bernadette Soubirous
+- Jean-Marc Micas
+- Lourdes Leo
+- Marko Ivan Rupnik
+- Our Lady of the Rosary
+- Pius XI
+- Pope Leo XIV
+organisations:
+- Accueil Notre-Dame
+- Bishops’ Conference of France
+- Catholic Church
+- Sanctuary of Our Lady of Lourdes
+- Sisters of Charity
+- Stations of the Cross
+- Virgin Mary
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

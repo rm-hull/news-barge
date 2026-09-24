@@ -13,6 +13,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/e8f34616a89eb687ef51aa6aa3542d0569d4d6f6/508_163_3615_2892/master/3615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a365347ff6616b9625f685e474c01c62
+locations:
+- Australia
+- Brussels
+- Canada
+- Japan
+- Russia
+- Singapore
+- UK
+- Westminster
+people:
+- Ed Davey
+- Joseph Sassoon
+organisations:
+- Brexit
+- EU
+- IPPR
+- Liberal Democrat
+- MRA
+- Starmer
 ---
 
 The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.

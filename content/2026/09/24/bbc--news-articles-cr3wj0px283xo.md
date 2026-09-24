@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ac2/live/94a8bed0-b7b0-11f1-90db-7b495a17b701.jpg
+locations:
+- Abraham Lincoln
+- California
+- Iran
+- Laem Chabang Port
+- Middle East
+- New York
+- Si Racha
+- South China Sea
+- Thailand
+- US
+people:
+- Abraham Lincoln
+- George Washington
+- Hegseth
+- Hung Cao
+- Kirsten Gillibrand
+- Trump
+organisations:
+- BBC
+- CVN-72
+- Marines
+- Senate
+- US Navy
+- US Suicide and Crisis Lifeline
+- USNI News
+- USS Abraham Lincoln
+- Veterans Administration
 ---
 
 ![The USS Abraham Lincoln (CVN-72) aircraft carrier departs Laem Chabang Port on September 06, 2026 in Si Racha, Thailand. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ac2/live/94a8bed0-b7b0-11f1-90db-7b495a17b701.jpg)

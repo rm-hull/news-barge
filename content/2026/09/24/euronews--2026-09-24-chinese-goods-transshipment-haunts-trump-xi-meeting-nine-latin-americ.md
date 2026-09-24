@@ -14,6 +14,88 @@ categories:
 - History
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/91/94/73/1200x675_cmsv2_0e0daf1a-cd2e-5a94-a470-5de3b42a6298-9919473.jpg
+locations:
+- Argentina
+- Atlantic
+- Balboa
+- Beijing
+- Beijing.
+- Brazil
+- Canada
+- Caribbean
+- Chancay
+- Chile
+- China
+- Colombia
+- Costa Rica
+- Cristóbal
+- Detective Border
+- Dominican Republic
+- Hong Kong
+- India
+- Indonesia
+- Iran
+- Israel
+- Japan
+- Latin America
+- Malaysia
+- Mexico
+- Panama
+- Peru
+- Russia
+- Santo Domingo
+- Singapore
+- South Korea
+- South Pacific
+- Strait of Hormuz
+- Switzerland
+- Taiwan
+- Thailand
+- Turkey
+- US
+- United Arab Emirates
+- United States
+- Vietnam
+- Washington
+- White House
+people:
+- Brookings
+- CK Hutchison
+- Claudia Sheinbaum
+- Donald Trump
+- Exiger
+- Jamieson Greer
+- José Raúl Mulino
+- Peter Navarro
+- Xi Jinping
+organisations:
+- AI
+- Altana
+- BlackRock
+- CK Hutchison
+- Customs**
+- Department of Commerce
+- Department of Commerce**
+- European Union
+- Exiger
+- Exiger's
+- Fortalecimiento de la fiscalización aduanera
+- Goldman Sachs
+- Ministry of Industry, Trade and MSMEs**
+- Office of the Comptroller General**
+- Panama Ports Company
+- Security Council
+- Space Force
+- Strengthening Customs Enforcement
+- Supreme Court
+- Trump
+- Trump–Xi
+- US Congress
+- US Customs
+- USMCA
+- United Nations
+- White House Council of Economic Advisers
+- White House Office of Trade and Manufacturing Policy
 ---
 
 ## The White House named nine Latin American nations among 40 flagged for transhipping Chinese goods, days before the Trump–Xi summit in Washington.

@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/4812fd28c2e25f8d4b8070823b4778b265f1aa39/695_0_6948_5559/master/6948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=148c8474950f9c3f9f5849c462634591
+locations:
+- America
+- Fiji
+- Greece
+- US
+- Washington DC
+people:
+- Bobby
+- Cheryl Hines
+- De Becker
+- Gavin de Becker
+- Kedric Payne
+- Kennedy Jr
+- Robert F Kennedy Jr
+- Tony Lyons
+- de Becker
+organisations:
+- Campaign Legal Center
+- Department of Health and Human Services
+- Guardian
+- HHS
+- Kennedy Jr
+- Kennedy Jr “
+- Kennedy Jr’s Super Pac
+- Lyons
+- Maha Action
+- Maha Center
+- Make America Healthy Again
+- New York Times
+- Politico
+- Skyhorse Publishing
+- The Real Anthony Fauci
+- Wall Street Journal
 ---
 
 Robert F Kennedy Jr, the US health secretary, received $4m over the last year in book advances from allies within the Make America Healthy Again movement, according to a new report.

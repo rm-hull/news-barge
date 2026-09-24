@@ -13,6 +13,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://static.independent.co.uk/2022/11/30/13/30123448-b34f4c2a-b300-4b1b-8fb6-8d73061fe518.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- London
+- UK
+- US
+people:
+- David Lindberg
+- Georges Elhedery
+organisations:
+- Gen Z
+- HSBC UK
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

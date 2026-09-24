@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/05/US_China_Trump_52943.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- Busan
+- China
+- Doral
+- East Asia
+- Fla
+- Gulf
+- Iran
+- New York City
+- Shenzhen
+- South Korea
+- South Lawn
+- Taiwan
+- Tehran
+- U.S.
+- US
+- Venezuela
+- Washington
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- Edgard Kagan
+- Jake Werner
+- Jeff Bezos
+- Jensen Huang
+- Joe Biden
+- Josh Boak
+- Mark Zuckerberg
+- Nicolás Maduro
+- Peng Liyuan
+- Ryan Hass
+- Scott Bessent
+- Xi Jinping
+organisations:
+- AI
+- Amazon
+- Asia-Pacific Economic Cooperation
+- Brookings Institution
+- Congress
+- East Asia Program
+- Fox News
+- Meta
+- Nvidia
+- Quincy Institute
+- Republican Party
+- State Department
+- Treasury
+- Trump
+- U.S. Supreme Court
+- \_\_\_ AP
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

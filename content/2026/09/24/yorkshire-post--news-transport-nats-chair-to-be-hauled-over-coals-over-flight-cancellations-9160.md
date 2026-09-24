@@ -15,6 +15,30 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdhNmMwMDZmLTM5ZDktNDcxNS1hYmI4LTMzOGE3NWIyM2ZiYzphNGE2NDFkNC1kZDgwLTQzZTAtYjc0ZS01MTNlMWM2ZTdiNjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Leeds Bradford Airport
+- London
+- New York
+- Prestwick
+- Scotland
+- UK
+people:
+- Andy Burnham
+- Heidi Alexander
+- Martin Rolfe
+- Michael O'Leary
+- Warren East
+organisations:
+- ATC
+- EU
+- LBA
+- National Air Traffic Services
+- Nats
+- Rolls-Royce
+- Ryanair
+- Times
+- Transport Secretary
+- United Nations General Assembly
 ---
 
 # 'Expressed my anger': Nats chair to be hauled over coals over flight cancellations

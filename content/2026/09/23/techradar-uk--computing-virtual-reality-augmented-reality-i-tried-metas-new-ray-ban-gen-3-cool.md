@@ -10,6 +10,40 @@ description: Three new looks, with smarter hardware
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/yuZai5PHovjfgyApFacCoc-2560-80.jpg
+locations:
+- Australia
+- Burbank
+- UK
+- US
+- United States
+people:
+- Bruce Springsteen
+- Jacob Krol
+- Meta AI
+- Zena
+organisations:
+- Apple
+- Aviators
+- CNBC
+- CNET
+- CNN Underscored
+- Clubmaster
+- Disney
+- Dolby Atmos
+- Google News
+- Jacob Krol
+- Kylie
+- Marvel
+- Mashable
+- Men’s Journal
+- Meta Glasses
+- News for TechRadar
+- Ray-Ban Meta
+- Ray-Ban Meta Aviator
+- Ray-Ban Meta Wayfarers
+- Ray-Ban Meta Zena
+- Samsung
+- TheStreet
 ---
 
 ![Meta Ray-Ban Gen 3](https://cdn.mos.cms.futurecdn.net/yuZai5PHovjfgyApFacCoc.jpg)

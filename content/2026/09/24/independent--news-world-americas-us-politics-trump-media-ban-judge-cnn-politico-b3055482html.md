@@ -12,6 +12,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/16/2295956849..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- US
+- Washington
+- White House
+people:
+- Akayla Gardner
+- Donald Trump
+- Tim Kelly
+organisations:
+- CNN
+- Congress
+- District of Columbia Circuit
+- Fox News
+- Justice Department
+- MS NOW
+- POLITICO
+- Politico
+- Reporters Committee for Freedom of the Press
+- Reuters
+- Supreme Court
+- Trump
+- US Constitution
+- US Court of Appeals
+- Washington Post
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

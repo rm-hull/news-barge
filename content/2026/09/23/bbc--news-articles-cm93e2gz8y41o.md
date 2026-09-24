@@ -12,6 +12,25 @@ categories:
 - Health & Fitness
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9929/live/60547480-b76a-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Europe
+- London
+- Manchester
+- Mounjaro
+- UK
+people:
+- Amarpreet Singh
+- Evie Lewis
+- Kieran Fisher
+- Max Longman
+organisations:
+- Expana
+- Kieran Fisher
+- Max Longman
+- University of Manchester
+- Warrior
+- Wegovy
+- eBay
 ---
 
 ![Amarpreet Singh sitting at an outdoor table smiling at the camera. He has a trim beard and moustache and is wearing a black and white patterned bandana on his head and a black and white striped shirt.](https://ichef.bbci.co.uk/ace/standard/922/cpsprodpb/20bf/live/9d59eef0-b6a2-11f1-ba3d-1d5c8a47f823.jpg)

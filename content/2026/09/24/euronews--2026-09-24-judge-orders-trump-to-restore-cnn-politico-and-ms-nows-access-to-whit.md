@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/56/60/1200x675_cmsv2_a9da1af9-cd06-5c89-bf73-40c4ac48a8b7-9925660.jpg
+locations:
+- East Wing
+- US
+- White House
+people:
+- '## Trump'
+- Timothy Kelly
+organisations:
+- ABC
+- CBS
+- CNN
+- East Wing
+- FAKE NEWS
+- Fox
+- Justice Department
+- MS NOW
+- NBC
+- Politico
 ---
 
 ## Trump justified the ban in a social media post on Friday, accusing the outlets of publishing "fake news" and warning that other news organizations could face similar treatment.

@@ -14,6 +14,38 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=435f58910e5a84c536fbcac0c3f4571f
+locations:
+- Australia
+- New South Wales
+- New York
+- Victoria
+people:
+- Anthony Albanese
+- Ben Carroll
+- Chris Minns
+- David Pocock
+- Drew Pusateri
+- Ed Santo
+- Lizzie O’Shea
+- OpenAI
+- Richard Marles
+- Sam Altman
+organisations:
+- ABC
+- AI Safety Institute
+- Australian Cyber Security Centre
+- Australian Institute of Health and Welfare
+- Australian Signals Directorate
+- Digital Rights Watch
+- Human Technology Institute
+- Labor
+- NSW
+- New South Wales Bureau of Crime Statistics and Research
+- OpenAI
+- O’Shea
+- Services Australia
+- UN
+- Victorian Department of Health
 ---
 
 Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June and the tech giant notified the government earlier this month using an email sent to a “public mailbox”.

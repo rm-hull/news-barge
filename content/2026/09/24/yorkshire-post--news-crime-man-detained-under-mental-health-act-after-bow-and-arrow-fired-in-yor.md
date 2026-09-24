@@ -14,6 +14,15 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlYTlkODE2LTZmNGYtNDJkZS1iODVmLTk1MjU2ZmZiYTY1Yjo4YjVhMDQ5OC00Yzk3LTRkNDAtYWVkOC1hZGI0ZTNlNWQ4NTU=.jpg?crop=3:2,smart&trim=&width=620&auto=webp&quality=75
+locations:
+- Huddersfield Road
+- Kirklees District
+- Skelmanthorpe
+- Yorkshire
+people:
+- Zaheer Abbas
+organisations:
+- Kirklees District CID
 ---
 
 # Man detained under Mental Health Act after bow and arrow fired in Yorkshire street

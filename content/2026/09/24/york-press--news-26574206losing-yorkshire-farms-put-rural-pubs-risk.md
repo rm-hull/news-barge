@@ -12,6 +12,25 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21490424.jpg?type=og-image
+locations:
+- Ampleforth
+- Britain
+- Malton
+- National Park
+- Natural England
+- North York Moors
+- Thirsk
+- White Swan
+- Yorkshire
+people:
+- Kevin Hollinrake
+- Sacha Lord
+organisations:
+- Labour
+- National Insurance
+- Providence Inn
+- Thirsk
+- Yedingham
 ---
 
 *Why losing Yorkshire farms could put rural pubs at risk - by Kevin Hollinrake, Conservative MP for Thirsk and Malton*

@@ -13,6 +13,43 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/50/82/1200x675_cmsv2_d4e8e7dd-2c7a-5547-b89d-4627b049847f-9925082.jpg
+locations:
+- Austria
+- Berlin
+- Brazil
+- Europe
+- Gulf
+- Iran
+- Italy
+- Norway
+- Paris
+- Poland
+- Puteaux
+- Romania
+- Russia
+- Scotland
+- Strait of Hormuz
+people:
+- Christine Lagarde
+- Donald Trump
+- Ursula von der Leyen
+organisations:
+- '%** Eni'
+- Bacalhau
+- BlueNord
+- ECB
+- Euronews
+- European Central Bank
+- European Commission
+- Galp
+- Neste
+- OMV
+- OPIS
+- Orlen
+- Repsol
+- Romgaz
+- TotalEnergies
+- Vår Energi
 ---
 
 ## Record diesel prices and refining margins have pushed Europe's oil majors up 40% to 87% this year. Here are the ten best performers.

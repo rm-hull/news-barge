@@ -16,6 +16,48 @@ categories:
 - Travel
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/QVNIMTI2NTM0ODQx.jpg?crop=3:2,smart&trim=&width=1047&auto=webp&quality=75
+locations:
+- Barnsley
+- Britain
+- Butt Hill Road
+- Butthole Lane
+- Cocks
+- Cornwall
+- Dorset
+- Europe
+- Fanny Avenue
+- Leicestershire
+- Letsby Avenue
+- Minge Lane
+- New Forest
+- Norfolk
+- Penistone
+- Rowley Regis
+- Sandy Balls
+- Severn
+- Shepshed
+- Shitterton
+- South Yorkshire
+- UK
+- Upton
+- West Midlands
+- West Yorkshire
+- Wetwang
+- Worcestershire
+- Yorkshire Wolds
+people:
+- Bell End
+- Jeremy Owenson
+- Peter Grainger
+- Richard Whiteley
+organisations:
+- Asda Car Insurance
+- Derbyshire
+- Malvern Hills District Council
+- Press Association
+- Sandwell Council
+- Sluts Hole Lane
+- South Yorkshire
 ---
 
 # Signs in rudely named street fixed with concrete to stop tourists stealing them

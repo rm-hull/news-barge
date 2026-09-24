@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21494236.jpg?type=og-image&xType=0&yType=71
+locations:
+- CLEVELAND
+- Danby
+- Middlesbrough
+- North Yorkshire
+- Union Street
+people:
+- Hunt
+- Steve Chatterton
+- Vicky Glass
+organisations:
+- Cleveland Police
 ---
 
 The family of murdered Vicky Glass have spoken of the pain as their loved one's 'cold-blooded' killer remains at large 26 years on.

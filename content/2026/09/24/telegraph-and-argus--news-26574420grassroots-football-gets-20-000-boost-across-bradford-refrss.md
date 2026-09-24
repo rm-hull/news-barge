@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21490833.jpg?type=og-image
+locations:
+- Bradford
+- Calderdale
+- Harrogate
+- Kirklees
+- Leeds
+- Selby
+- Wakefield
+people:
+- Gareth Pashley
+- Hannah Simpson
+organisations:
+- Bradford and Craven
+- Davies Sport
+- Davies Sports
+- Davies Sports West Riding FA
+- Shoshin
+- West Riding County FA
 ---
 
 *(Image: Supplied)*

@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg
+locations:
+- California
+- Menlo Park
+people:
+- Meta
+- Muse
+- Pritam Shah
+organisations:
+- Meta AI
+- Meta Connect
+- Meta’s AI
+- Muse AI
+- Ray-Ban Meta
+- WIRED
+- WhatsApp
 ---
 
 Meta knows you probably have some privacy concerns about its smart glasses.

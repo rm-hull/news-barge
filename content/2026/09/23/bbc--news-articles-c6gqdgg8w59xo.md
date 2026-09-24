@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg
+locations:
+- AI
+- Beijing
+- California.
+- China
+- San Francisco
+- US
+- Washington
+- Zhongnanhai Garden
+people:
+- AI
+- Donald Trump
+- He Lifeng
+- Jayant Dave
+- Jonathan Sim
+- Leia Wang
+- Lian Jye Su
+- Lizzi Lee
+- Rebecca Arcesati
+- Sam Altman
+- Scott Bessent
+- Xi Jinping
+- Yang Zhilin
+organisations:
+- AGI
+- Anthropic
+- Asia Society Policy Institute
+- BBC World Service
+- Carnegie Endowment for International Peace
+- Chatham House
+- Check Point Software Technologies
+- Chinese AI
+- DeepSeek
+- Google
+- International Federation of Robotics
+- Kimi K3
+- Mercator Institute for China Studies
+- Moonshot AI
+- National University of Singapore AI
+- Omdia
+- OpenAI
+- Stanford University
+- Tech Life
+- US Treasury
+- Yang Zhilin
 ---
 
 ![US President Donald Trump listens on as Chinese leader Xi Jinping takes him on a tour of China's Zhongnanhai Garden in Beijing on 15 May, 2026.  ](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg)

@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21493540.jpg?type=og-image
+locations:
+- Arla
+- North East
+- North Yorkshire
+- Northallerton station
+- Richmond
+- Romanby
+people:
+- Caroline Dickinson
+- Peter Wilkinson
+- Rishi Sunak
+organisations:
+- Arla
+- Combined Authority
+- Mayor of York
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- Rishi
+- Romanby Parish Council
+- TransPennine Express
 ---
 
 Rishi Sunak has brought transport leaders together to tackle long-running parking problems at Northallerton station.

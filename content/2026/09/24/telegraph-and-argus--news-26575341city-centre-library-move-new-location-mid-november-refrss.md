@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21494146.jpg?type=og-image
+locations:
+- BRADFORD
+- Bingley East
+- Britannia House
+- Broadway
+- City Hall
+- City Park
+- Hall Ings
+- Margaret McMillan
+- Norfolk Gardens
+- St George’s Hall
+people:
+- Cllr Fricker
+- Dionne Hood
+- Susan Fricker
+organisations:
+- Bradford Council
+- Bradford Council’s Regeneration and Environment Scrutiny Committee
+- City Library
+- Lab
+- Labour Executive
 ---
 
 BRADFORD city centre’s library will finally move to its “wonderful” new home in November – councillors have been told.

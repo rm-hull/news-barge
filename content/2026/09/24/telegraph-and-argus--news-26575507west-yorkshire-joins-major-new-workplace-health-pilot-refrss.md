@@ -14,6 +14,16 @@ categories:
 - Health & Fitness
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/19235413.jpg?type=og-image&xType=0&yType=66
+locations:
+- Britain
+- Canva
+- West Yorkshire
+people:
+- Charlie Mayfield
+- Tracy Brabin
+organisations:
+- NHS
+- WEST Yorkshire
 ---
 
 *(Image: Canva)*

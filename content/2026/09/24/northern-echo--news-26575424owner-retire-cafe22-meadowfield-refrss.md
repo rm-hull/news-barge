@@ -14,6 +14,22 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21492746.jpg?type=og-image&xType=0&yType=337
+locations:
+- Auckland
+- Berksha
+- Durham
+- Meadowfield
+- North Yorkshire
+- Unit 22
+people:
+- Claire
+- Keely Kay
+- Leanne
+organisations:
+- Cafe22
+- Chewy
+- City West Business Park
+- Metrocentre She
 ---
 
 *(Image: GOOGLE MAPS)*

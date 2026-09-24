@@ -11,6 +11,92 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/08edea32efd91546dcb0110620c7c6ad4fa08469/305_60_2320_1856/master/2320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9b5fb59baeb0f678078d1bdd4c174ac9
+locations:
+- America
+- Argentina
+- Beijing
+- Britain
+- Brooklyn
+- Busan
+- Caracas
+- China
+- Falkland Islands
+- Golan Heights
+- Hong Kong
+- Iran
+- Israel
+- Japan
+- Joint Base Andrews
+- Lotte New York Palace
+- Manhattan
+- Maryland
+- Miami
+- Middle East
+- Moscow
+- New York
+- New York City
+- Russia
+- Shanghai
+- South Korea
+- South Lawn
+- Syria
+- Taipei
+- Tehran
+- Tokyo
+- Trump Tower
+- US
+- Ukraine
+- Uzbekistan
+- Venezuela
+- Washington DC
+- White House
+- Xi
+- Zimbabwe
+people:
+- Ahmad al-Sharaa
+- Amy Hawkins
+- Barack Obama
+- Brendan Smialowski
+- Caracas
+- Daniel Boffey
+- Delcy Rodríguez
+- Donald Trump
+- Emmerson Mnangagwa
+- He Lifeng
+- Javier Milei
+- Marco Rubio
+- Masoud Pezeshkian
+- Melania Trump
+- Nicolas Maduro
+- Nicolás Maduro
+- Patrick Wintour
+- Peng Liyuan
+- PolishpresidentKarol Nawrocki
+- Ryan Murphy
+- Saidi Mirziyoyeva
+- Scott Bessent
+- Tom Phillips
+- Vincent Alban
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Xi Jinping
+- Xi Xi Jinping
+organisations:
+- AFP
+- AI
+- Agence France-Presse
+- Airbus
+- Associated Press
+- Boeing
+- Chip Somodevilla
+- Fox News
+- Getty Images
+- Joint Base Andrews
+- National Archives
+- Reuters
+- UN
+- XiJinping
+- Xinhua
 ---
 
 Venezuela’s acting president has told the UN her country is coming back strong after “setbacks” this year and thanked Donald Trump for being willing to resume diplomatic relations after the US military spirited her predecessor out of the country.

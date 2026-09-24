@@ -14,6 +14,19 @@ categories:
 - York
 - Automotive
 image: https://www.gazetteherald.co.uk/resources/images/21486500.jpg?type=og-image
+locations:
+- Doe Park
+- Howard Drive
+- READING
+- Rawcliffe
+- Shipton Road
+- York
+people:
+- Barry Lofthouse
+- Kathryn Walters
+organisations:
+- Ford
+- Yamaha
 ---
 
 *(Image: Contributed)*

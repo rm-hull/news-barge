@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Science
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487051.jpg?type=og-image
+locations:
+- Beth
+- Bradford
+- UK
+- Yorkshire
+people:
+- '''** Beth'
+- Beth Elias
+- Stephanie Archer
+organisations:
+- PARCC
+- PARP Inhibitors for Cancer Risk Reduction in Carriers
+- University of Cambridge
+- Yorkshire Cancer Research
 ---
 
 A Bradford mother who faces a 60% lifetime risk of developing cancer has spoken of the difficult decisions she must make to protect her future health, saying it is something she thinks about "every day".

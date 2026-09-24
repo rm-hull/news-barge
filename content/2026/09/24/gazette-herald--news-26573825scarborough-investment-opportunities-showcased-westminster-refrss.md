@@ -13,6 +13,24 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21489979.jpg?type=og-image
+locations:
+- Brunswick Shopping Centre
+- Eastfield
+- North Bay
+- North Yorkshire
+- Scarborough
+- Westminster
+- Whitby
+- York
+people:
+- Alison Hume
+- David Skaith
+organisations:
+- House of Commons
+- Mayoral Development Zone
+- Scarborough Business Park
+- Scarborough Sparks
+- UKREiiF
 ---
 
 *(Image: Supplied)*

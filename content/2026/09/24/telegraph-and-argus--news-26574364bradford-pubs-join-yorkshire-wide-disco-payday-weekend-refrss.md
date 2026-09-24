@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/20702528.jpg?type=og-image
+locations:
+- Bradford
+- England
+- Grimsby
+- Hull
+- Keighley
+- Leeds
+- Scotland
+- Sheffield
+- Wakefield
+- Wales
+people:
+- Gold Brew
+organisations:
+- 6-Shot Crown
+- ABBA
+- Admiral Taverns
+- Black Lion Hotel
+- Cavendish
+- Crown Hotel
+- Google Street View
+- Malt Kiln Inn
+- Proper Pubs
+- Solid Gold
+- Take Blanco Tequila
+- Tia Maria
+- Tofka
+- Yorkshire
 ---
 
 *(Image: Google Street View)*

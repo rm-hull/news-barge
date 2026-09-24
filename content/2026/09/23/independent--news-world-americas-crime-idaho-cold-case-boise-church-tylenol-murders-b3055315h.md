@@ -14,6 +14,37 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/23/21/59/Matthew-Francis-Betkouski.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Ada County
+- Boise
+- Chicago
+- Florida
+- Idaho
+- Illinois
+- Jacksonville
+- Los Angeles
+- New Mexico
+- Sacred Heart Catholic Church
+people:
+- Adam
+- James Lewis
+- L. Toomey
+- Mary Kellerman
+- Mary McFarland
+- Mary “Lynn” Reiner
+- Matthew Francis Betkouski
+- Paula Prince
+- Stanley
+- Terri Janus
+- Toni
+organisations:
+- Ada County Sheriff’s Office
+- Arlington Heights Police Department
+- Associated Press
+- Chicago Tribune
+- FBI
+- Johnson & Johnson
+- Lockheed Martin
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

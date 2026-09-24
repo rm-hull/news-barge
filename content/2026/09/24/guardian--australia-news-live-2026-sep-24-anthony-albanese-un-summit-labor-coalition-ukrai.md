@@ -12,6 +12,81 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/f2af7f8ba74518964abe1795336a09af6f466fb8/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=21b7e85d04ac308860c1cd2bc98071a7
+locations:
+- Brisbane
+- Eyre Peninsula
+- Gaza
+- NSW
+- New South Wales
+- New York
+- Port Lincoln
+- Questacon
+- South Australia
+- Sydney
+- US
+people:
+- Abigail Boyd
+- Amanda
+- Anika Wells
+- Chris Minns
+- Claude
+- Colin Radford
+- David Brat
+- David Pocock
+- James Chessell
+- Kate Millar
+- Katy Gallagher
+- KatyGallagher
+- Keith Urban
+- Kylie Minogue
+- Laing
+- Mark Lethlean
+- MattStanton
+- Mehreen Faruqi
+- Michele Bullock
+- Paul Kelly
+- Penny Wong
+- Questacon
+- Richard Marles
+- Stanton
+- Vika & Linda
+- Way Dynamic,Wilsn
+- Zomi Frankcom
+organisations:
+- Achol Arok NSW
+- Albanese
+- AmandaLaing
+- Australian Bureau of Statistics
+- Australian Financial Review
+- Australian Government
+- Australian Signals Directorate
+- BirdLife Australia
+- Bocsar
+- Bureau of Crime Statistics and Research
+- Comcare
+- DISR
+- Data.NSW
+- Department of Industry, Science and Resources
+- Foxtel
+- Greens NSW
+- HealthStatsNSW
+- IDF
+- Labor
+- Lukas Coch/AAP
+- Medicare Statistics Reporting Service Portal
+- NSW Greens
+- Native Vegetation Council
+- Open AI
+- OpenAI
+- Questacon
+- RBA
+- Rampart
+- Reserve Bank
+- SA
+- Services Australia
+- The NSW Greens
+- UN
+- Whalers Way
 ---
 
 Department fined $140,000 after child’s hands caught fire at Questacon

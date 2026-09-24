@@ -14,6 +14,15 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/19860626.jpg?type=og-image
+locations:
+- North Yorkshire
+people:
+- Andrew Murday
+- Chris Aldred
+- Marie Curie
+organisations:
+- Liberal Democrat
+- North Yorkshire Council
 ---
 
 *(Image: LDRS)*

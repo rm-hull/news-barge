@@ -10,6 +10,19 @@ description: The new best Meta smart glasses?
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-2560-80.jpg
+locations:
+- Connect
+- US
+people:
+- Mark Zuckerberg
+organisations:
+- Dolby Atmos
+- Google News
+- Hamish
+- Ray-Ban Meta
+- Ray-Ban Meta Optics’
+- TBC
+- TechRadar
 ---
 
 ![The Ray-Ban Meta Audio glasses](https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL.jpg)

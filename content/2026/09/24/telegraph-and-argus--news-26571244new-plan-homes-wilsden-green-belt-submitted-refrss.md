@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486141.jpg?type=og-image
+locations:
+- Bradford
+- District
+- Green Belt
+- Harden Lane
+- Shay Lane
+- Wilsden
+- YOUR
+people:
+- Fiza Din
+organisations:
+- Bradford Council
+- Bradford Council’s Regulatory and Appeals Committee
+- Public Notice Portal
+- Public Notice Portal PLANS
 ---
 
 *(Image: Peacock + Smith)*

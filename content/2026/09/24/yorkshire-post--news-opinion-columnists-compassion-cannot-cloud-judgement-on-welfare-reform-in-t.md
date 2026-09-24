@@ -15,6 +15,21 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI0NDU5ZjdjLTRlOWEtNDZlNy04NzY5LTdlYjcwMjQ3M2NkODpkOGViZDMwNi05MjM0LTRlNGYtYmEyNi00MWU4YjI5ZDI2NjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- England
+- Wales
+- Westminster
+people:
+- Kemi Badenoch
+organisations:
+- Conservative Party
+- Government
+- Jordan Pettitt
+- Millbank Studios
+- Opposition
+- TPA
+- TaxPayers Alliance
 ---
 
 # Compassion cannot cloud judgement on welfare reform in this country

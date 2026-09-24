@@ -11,6 +11,14 @@ categories:
 - York
 - Outdoors & Nature
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/firefighters-fire-appliance-dreamstime.webp
+locations:
+- Acomb
+- Kexby
+- York
+people:
+- '#### Kexby'
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Three fire crews tackled a blaze in woodland last night (Wednesday).

@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg
+locations:
+- Australia
+- New York
+people:
+- Anthony Albanese
+- Hugging Face
+- Sam Altman
+organisations:
+- AI
+- Australian Signals Directorate
+- Medicare Statistics Reporting Service
+- OpenAI
+- Services Australia
+- United Nations General Assembly
 ---
 
 ![Australia's Prime Minister Anthony Albanese speaks at a news conference in front of several flags. He is wearing a dark suit with a red spotted tie and dark glasses](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg)

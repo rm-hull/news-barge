@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21490082.jpg?type=og-image
+locations:
+- Beacon House
+- Beacon Road
+- Bradford
+- Manchester
+people:
+- Gareth Williams
+organisations:
+- Cygnet Social Care
 ---
 
 *(Image: Supplied)*

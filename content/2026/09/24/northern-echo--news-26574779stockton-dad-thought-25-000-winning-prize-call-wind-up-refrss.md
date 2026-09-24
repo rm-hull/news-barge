@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21491805.jpg?type=og-image&xType=0&yType=0
+locations:
+- California
+- Disneyland
+- North East
+- States
+- Stockton
+- Vegas
+people:
+- Christian Williams
+- Kevin Allison
+organisations:
+- BOTB
+- Universal Studios
 ---
 
 *(Image: BOTB)*

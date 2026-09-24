@@ -13,6 +13,28 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/23/21/47/108310667_1790105153446537_r.jpg?trim=169,0,488,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Illilouette Falls
+- San Francisco
+- Santa Rosa
+- Santa Rosa Junior College
+- Taji
+- Yosemite National Park
+people:
+- Ian Hesz
+- Jaida
+- Ryan George
+- Ryan Jr.
+organisations:
+- Mariposa County Sheriff’s Office
+- Montgomery High
+- Montgomery High School
+- National Park Service
+- Sacramento City College
+- Santa Rosa Junior College
+- The Press
+- The Press Democrat
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

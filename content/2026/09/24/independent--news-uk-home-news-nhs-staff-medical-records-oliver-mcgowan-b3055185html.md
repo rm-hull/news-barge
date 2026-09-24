@@ -13,6 +13,30 @@ categories:
 - True Crime
 - Science
 image: https://static.independent.co.uk/2026/09/23/15/23/35AA184D-12E2-4044-B2A9-8F4DD6D44D85.JPG?trim=167,0,169,0&width=1200&height=800&crop=1200:800
+locations:
+- Bristol
+- Cambridge
+- Princess of Wales
+- Southmead
+- Southport
+people:
+- Jim Mackey
+- McGowans
+- Mr
+- Ms McGowan
+- Oliver McGowan
+- Paula
+- Steven Hams
+- Tom
+organisations:
+- Bristol NHS Foundation Trust
+- General Medical Council
+- Information Commissioner's Office
+- NHS England
+- Nottingham Killings
+- Nursing and Midwifery Council
+- Oliver’s
+- The Independent
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

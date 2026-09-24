@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21492350.jpg?type=og-image&xType=0&yType=331
+locations:
+- District Branch
+- Greater Manchester Hospital
+- Ormskirk
+- West Yorkshire
+people:
+- Sophie Hubble
+organisations:
+- RSPCA Southport
 ---
 
 *(Image: Supplied)*

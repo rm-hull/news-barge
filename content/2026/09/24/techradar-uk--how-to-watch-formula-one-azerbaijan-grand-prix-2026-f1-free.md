@@ -11,6 +11,62 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/nUvPPWUtiuXvtpbPN5z4KR-2524-80.jpg
+locations:
+- Alpine
+- Australia
+- Austria
+- Azerbaijan
+- Baku
+- Belgium
+- Canada
+- Italy
+- Madrid
+- North America
+- UK
+- US
+- uk
+people:
+- '**Lando Norris'
+- Andrea Kimi Antonelli
+- Charles Leclerc
+- George Russell
+- Isack Hadjar
+- Kimi Antonelli
+- Krishi
+- Lando Norris
+- Larry
+- Lewis Hamilton
+- Liam Lawson
+- Max Verstappen
+- Mercedes
+- Oscar Piastri
+- Pierre Gasly
+- Racing Bulls
+- Red Bull
+organisations:
+- Apple TV
+- Aussie F1
+- F1 TV
+- Ferrari
+- Fox Sports
+- Future Publishing
+- Idman TV
+- Kayo
+- Krishi
+- McLaren
+- Mercedes
+- Now TV
+- RTBF Auvio
+- Red Bull
+- Scuderia
+- Servus
+- Silver Arrows
+- Sky Sports
+- TSN
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
 ---
 
 ![Race winner Andrea Kimi Antonelli of Italy and Mercedes AMG Petronas F1 Team celebrates on arrival in parc ferme during the F1 Grand Prix of Spain](https://cdn.mos.cms.futurecdn.net/nUvPPWUtiuXvtpbPN5z4KR.jpg)

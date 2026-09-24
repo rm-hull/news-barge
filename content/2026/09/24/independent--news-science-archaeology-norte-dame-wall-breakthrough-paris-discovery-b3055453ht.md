@@ -14,6 +14,27 @@ categories:
 - History
 - Science
 image: https://static.independent.co.uk/2026/09/24/4/49/Wall-of-the-oppidum-of-Lutce.webp?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- France
+- Lutèce
+- Nanterre
+- Notre-Dame
+- Paris
+- Île-de-France
+people:
+- Catherine Pégard
+- Dorothée Chaoui-Derieux
+- Edward de Lumley
+- Julius Caesar
+- Lutèce
+- Stéphane Deschamps
+organisations:
+- 52BC
+- DRAC Île-de-France
+- Gallic Lutèce
+- Hôtel-Dieu Hospital
+- Parisii
+- Regional Archaeology Service
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

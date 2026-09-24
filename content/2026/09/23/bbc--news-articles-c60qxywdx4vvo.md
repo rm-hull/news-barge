@@ -14,6 +14,35 @@ categories:
 - Food & Cooking
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Dnipro River
+- Hola Prystan
+- Kherson
+- Kremlin
+- New York
+- Nova Kakhovka Dam
+- Nova Khakova Dam
+- Oleshky
+- Radensk
+- Russia
+- Ukraine
+people:
+- Andriy Sybiha
+- Ester Vrataryova
+- Halia
+- Ksenia Arkhipova
+- Oleshky
+- Tetiana
+organisations:
+- BBC
+- Halia
+- Humanity
+- Kyiv
+- Nato
+- Oleshky
+- Telegram
+- UN General Assembly
+- UN Human Rights Monitoring Mission
 ---
 
 ![A cityscape showing ruined buildings in a war in Ukraine](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg)

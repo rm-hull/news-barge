@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/15/00/Minister_mcdoughal_British-Steel-_Council-9.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Scunthorpe
+- Sheffield
+- UK
+people:
+- Blair McDougall
+- Blair McDougall.
+- Rickhuss CBE
+- Roy Rickhuss
+organisations:
+- British Steel
+- Community Union
+- Government
+- Government’s Steel Council
+- Government’s Steel Strategy
+- Labour
+- Speciality Steel UK
+- Steel Council
 ---
 
 # Community union boss to stand down to lead Government's Steel Council

@@ -13,6 +13,15 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/24/05/Apple_iPhone_55147.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Safari
+people:
+- Siri AI
+organisations:
+- Apple Intelligence
+- European Union
+- Notify Me
+- Siri AI
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

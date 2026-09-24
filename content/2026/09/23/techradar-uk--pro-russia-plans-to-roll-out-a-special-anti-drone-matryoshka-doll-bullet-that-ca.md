@@ -10,6 +10,17 @@ description: Russia's new Matryoshka-style bullet packs several projectiles into
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/NHz7fFqyVQqXnG9pGrLac5-1920-80.png
+locations:
+- Russia
+- Ukraine
+people:
+- Yury Knutov
+organisations:
+- Efosa
+- Google News
+- Kalashnikov Concern
+- Pervy Tekhnichesky
+- TechRadar Pro
 ---
 
 ![Kalashnikov AK47 riffles](https://cdn.mos.cms.futurecdn.net/NHz7fFqyVQqXnG9pGrLac5.png)

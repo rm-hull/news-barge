@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21490391.jpg?type=og-image
+locations:
+- County Durham
+- NHS North East
+- Newcastle
+- North East
+- North East England
+- Sedgefield
+people:
+- Alex Knight
+- Christina Munn
+- Kirsty Donaldson
+- Kirsty Lindsay
+- Lisa Mullen
+- Marianne Whitfield
+organisations:
+- Aerospace Medicine and Rehabilitation Laboratory
+- DHS IT Solutions
+- Durham University’s Space Research Centre
+- Ms Whitfield
+- NETPark
+- North East England
+- Northumbria University’s Physiotherapy
+- Rapid Fluidics
+- Space North East England
+- Stemazing
 ---
 
 *(Image: Supplied)*

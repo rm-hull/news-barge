@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thetelegraphandargus.co.uk/resources/images/21493817.jpg?type=og-image
+locations:
+- Bradford Crown Court
+- Burley Road
+- Halifax
+- Warley
+people:
+- Gerald Hendron
+- Harry Crowson
+- Jacob Brown
+- Jonathan Carroll
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

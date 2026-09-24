@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/b8180643255d9b133fbba6fc376e213912a572fe/973_396_1289_1031/master/1289.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b50cede57a4d7a035ab3f9d7543d4a0
+locations:
+- Downing Centre
+- Sydney
+people:
+- Alan Jones
+- Claire O’Neill
+- David Allan
+- Georgina Wright
+- Glenn Walsh
+- Hello
+- M
+organisations:
+- AJ
 ---
 
 The man who was Alan Jones’s butler for almost two decades has told a Sydney court his boss would welcome a prominent athlete to his luxury harbourside apartment with “a hug and a slap on the bottom” and would call him “champion”.

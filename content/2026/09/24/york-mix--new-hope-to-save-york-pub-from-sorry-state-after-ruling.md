@@ -11,6 +11,30 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/10/victoria-vaults-nunnery-lane-york-4.webp
+locations:
+- Micklegate
+- Nunnery Lane
+- Victoria Vaults
+- York
+people:
+- Barry Crux
+- Clem Burke
+- Cllr Kilbane
+- Cllr Kilbane**
+- Katie Lomas
+- Nabeel Hanif
+- Nabeel Hanif**
+- Nick Love
+- Pete Kilbane
+organisations:
+- ACV
+- City of York Council
+- Labour
+- Planning Inspector
+- Planning Inspectorate
+- Victoria Vaults
+- York CAMRA
+- York Camra**
 ---
 
 A ruling has been issued on plans to convert an empty live music venue in York following calls to save it.

@@ -13,6 +13,14 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/5/53/imagevbh6j.webp?trim=0,22,0,22&crop=&width=1200&auto=webp&quality=75
+locations:
+- Middlesbrough
+- Union Street
+people:
+- Steve Chatterton
+- Vicky Glass
+organisations:
+- Cleveland Police
 ---
 
 # Vicky Glass murder: Family's lives 'plagued' as they renew appeal for justice 26 years on

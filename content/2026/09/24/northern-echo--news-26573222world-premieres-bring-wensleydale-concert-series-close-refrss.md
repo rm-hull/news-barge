@@ -15,6 +15,41 @@ categories:
 - Arts & Culture
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21489095.jpg?type=og-image
+locations:
+- Aysgarth Church
+- London
+people:
+- Alan George
+- Ayaka Shigeno
+- Bach
+- Boccherini
+- Carol Haynes
+- Cello Sonata
+- Cheryl Frances-Hoad
+- Daniel Grimwood
+- David Blake
+- Debussy
+- Elégie
+- Envoi
+- Ezra Pound
+- Frank Bridge
+- Inez Karlsson
+- Liz
+- Melissa Phelps
+- Moray Welsh
+- Ms Karlsson
+- Ms Shigeno
+- Nick Mohammed
+- Sowter
+- Ted Lasso
+- Thomas Guthrie
+- Tom Hicks
+organisations:
+- Fitzwilliam String Quartet
+- How Durham Uni
+- London Symphony Orchestra
+- Pip Pointon
+- Yorkshire Dales
 ---
 
 *(Image: Pip Pointon)*

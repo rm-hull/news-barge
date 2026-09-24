@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21485874.jpg?type=og-image
+locations:
+- Alcuin Avenue
+- Durham
+- Franklin
+- Glasgow
+- Newton Grange
+- Newton Hall
+- Peterlee
+- Scotland
+- The Newton Grange
+- York
+people:
+- Josh Peacock
+- Lee Franklin
+- Michael Embleton
+- Sian Allan-Gilbert
+organisations:
+- Franklin’s York
+- Glasgow Sheriff’s Court
+- MAN'S
+- Newton Grange
+- York Crown Court
 ---
 
 A MAN'S pub trip to watch World Cup football ended with a £785 court bill after he obstructed police.

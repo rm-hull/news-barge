@@ -15,6 +15,16 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21429641.jpg?type=og-image
+locations:
+- Beverley
+- Bridlington
+- Cottingham
+- East Riding
+- Goole
+people:
+- Mark Evans
+organisations:
+- East Riding of Yorkshire Council
 ---
 
 *(Image: Supplied)*

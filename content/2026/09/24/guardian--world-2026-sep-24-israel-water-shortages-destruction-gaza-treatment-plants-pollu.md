@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://i.guim.co.uk/img/media/6967079caa25fed26eddc59a77b0a56695226817/0_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7175b1fae87c0c8f9c55494b6fa3f72
+locations:
+- Ashdod
+- Beit Lahia
+- Bureij
+- EcoPeace Middle East
+- Gaza City
+- Gaza Strip
+- Israel
+- Mediterranean
+- Palestine
+- Sheikh Radwan
+- al-Mawasi
+people:
+- Cogat
+- Jack Gilron
+- Nada Majdalani
+- Nas al-Barawi
+- Omar Shatat
+- Shaimaa al-Katari
+- Zalul
+organisations:
+- Ben-Gurion University
+- Coastal Municipalities Water Utility
+- EcoPeace
+- International Committee of the Red Cross
+- Médecins Sans Frontières
+- NGO
+- Pat Griffiths
+- Zalul Environmental Association
+- Zuckerberg Institute for Water Research
 ---
 
 Israel is facing weeks of water shortages after an exceptional algae bloom crippled much of its desalination capacity, in a crisis scientists say was triggered when Israeli attacks destroyed much of Gaza’s wastewater infrastructure, causing a massive discharge of untreated sewage.

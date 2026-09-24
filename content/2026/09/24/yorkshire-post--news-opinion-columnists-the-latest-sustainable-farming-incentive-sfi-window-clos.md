@@ -16,6 +16,20 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVmZjFjZWM1LTMyN2QtNGIyOC04OWViLWMxNTIxMGE3MDZlNzowMDJlOWU0My1jNTNjLTQwZTUtOWUzMS01YWNkOWVjNmQwMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- England
+- London
+- Oxford Circus
+people:
+- Ben Whitley
+organisations:
+- Defra
+- Department for the Environment, Food and Rural Affairs
+- Labour
+- NFU
+- National Farmers’ Union
+- SFI
 ---
 
 # The latest Sustainable Farming Incentive (SFI) window closed in less than six hours, whatever happened to the idea of listening to farmers?

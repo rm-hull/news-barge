@@ -13,6 +13,14 @@ categories:
 - York
 - Science
 image: https://www.gazetteherald.co.uk/resources/images/21490292.jpg?type=og-image
+locations:
+- Bradford
+- Yorkshire
+people:
+- Beth Elias
+- Stephanie Archer
+organisations:
+- University of Cambridge
 ---
 
 A GROUND breaking cancer prevention study is being shaped by the voices of those most at risk.

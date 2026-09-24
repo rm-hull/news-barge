@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21283246.jpg?type=og-image
+locations:
+- County Durham
+- Durham City
+- North Durham
+- North East
+- Prospect House
+people:
+- Amelia Green
+- Amir Bhatti
+- Hayley Collinson
+- Nadeen Lister
+- Rachel Gray
+organisations:
+- '![]()County Durham'
+- '![]()University Hospital'
+- CDDFT
+- Care Quality Commission
+- Chris Booth
+- Darlington NHS Foundation Trust
+- Darlington NHS Trust
+- Durham Police
+- Hudgell Solicitors
+- NHS England
+- NHS Trust
+- NORTHERN ECHO
+- National Crime Agency
+- North Cumbria Integrated Care Board
+- North East NHS Trust
+- Northern Cancer Alliance
+- Pink Justice Network
+- Royal College of Surgeons
 ---
 
 Women caught up in the County Durham breast cancer scandal will attend an NHS meeting today (Thursday, September 24) as officials decide whether thousands more patients need treatment reviews.

@@ -13,6 +13,59 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/17/23-0c7068eb098542e3b2f21aced90bacb2.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- Gulf
+- India
+- Iran
+- Islamic Republic
+- Israel
+- Middle East
+- Mina Saqr
+- Minab
+- New York
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- Ukraine
+- United Arab Emirates
+- United States
+people:
+- Abbas Araghchi
+- Abbas Araqchi
+- Ali Ahmadnia
+- Andrii Sybiha
+- Antonio Costa
+- Benjamin Netanyahu
+- Donald Trump
+- Ebrahim Rezaei
+- Jared Kushner
+- Jasmine Fernández
+- Maira Butt
+- Masoud Pezeshkian
+- Narendra Modi
+- Pete Hegseth
+- Steve Witkoff
+- Suraj Yadav
+organisations:
+- Army
+- Defense
+- EU
+- IAEA European Council
+- International Atomic Energy Agency
+- MV Cape Dao
+- PM
+- Pentagon
+- Seamen’s Union
+- Task & Purpose
+- The Washington Post
+- UKMTO
+- UN
+- United Kingdom Maritime Trade Operations
+- United Nations
+- United Nations General Assembly
+- West Texas Intermediate
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

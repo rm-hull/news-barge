@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29a1/live/7d0fe1c0-b7c1-11f1-a430-4d16ee157c41.jpg
+locations:
+- AI
+- America
+- Beijing
+- China
+- Iran
+- Joint Base Andrews
+- Maryland
+- Taiwan
+- US
+- Washington
+- Washington.
+- White House
+people:
+- Brandon Drenon
+- Cai Qi
+- David Firestein
+- Donald Trump
+- Elon Musk
+- Harold Macmillan
+- He Lifeng
+- How Trump
+- Jensen Huang
+- John F Kennedy
+- Maga
+- Melania Trump
+- Peng Liyuan
+- Scott Bessent
+- Tim Cook
+- Wang Yi
+- Xi Jinping
+organisations:
+- Air China
+- Air China Boeing
+- Apple
+- Army Air Force Band
+- Bush China Foundation
+- Chicago Council on Global Affairs
+- Communist Party
+- Fox News
+- Joint Base Andrews
+- National Archives
+- Nvidia
+- Politburo Standing Committee
+- Smithsonian National Museum of Asian Art
+- Tesla
+- Trump
+- US AI
+- US Air Force
+- US Treasury
+- Xi
+- Xinhua
 ---
 
 A red carpet and military flyover - How Trump welcomed Xi

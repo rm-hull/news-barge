@@ -10,6 +10,19 @@ description: Scientists give tiny drones robotic whiskers that let them feel obs
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/g8M9aMzU3i8ourcUoPCqXD-1920-80.png
+locations:
+- Netherlands
+people:
+- Chaoxiang Ye
+- Salua Hamaza
+organisations:
+- Aerial Physical Interaction and Embodied Intelligence
+- Deft
+- Delft University of Technology
+- Efosa
+- Google News
+- TechRadar Pro
+- Via TomsHardware
 ---
 
 ![Bio-inspired whiskers enable tiny drones to navigate in darkness using touch](https://cdn.mos.cms.futurecdn.net/g8M9aMzU3i8ourcUoPCqXD.png)

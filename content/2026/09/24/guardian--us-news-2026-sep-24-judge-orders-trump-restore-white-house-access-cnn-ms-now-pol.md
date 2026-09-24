@@ -11,6 +11,24 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/36ddd457efca4547aedac1772d5d8dea18f7c503/454_0_4219_3376/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b507a210e1ac5e372f50afa06e6646c4
+locations:
+- US
+- Washington
+- White House
+people:
+- Tim Kelly
+- Trump
+organisations:
+- Associated Press
+- CNN
+- Fox News
+- Justice Department
+- MS Now
+- Politico
+- Reporters Committee for Freedom of the Press
+- Reuters
+- Trump
+- Washington Post
 ---
 
 A federal judge has ordered the Trump administration to temporarily restore ⁠White House ⁠access ​to journalists from CNN, MS Now and Politico, ⁠saying his ban on the three media outlets was ⁠likely unconstitutional.

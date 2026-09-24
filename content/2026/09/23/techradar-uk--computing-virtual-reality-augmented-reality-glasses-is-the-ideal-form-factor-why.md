@@ -10,6 +10,36 @@ description: They're set to launch in the US later in 2026
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/XrEjvknxTx2gDFN9ya9Sz-2560-80.jpg
+locations:
+- US
+people:
+- Bruce Springsteen
+- Jacob Krol
+- Lisa
+- Meta
+- Ravish Mehra
+organisations:
+- Apple
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- FDA
+- FSA
+- Google News
+- HSA
+- Jacob Krol
+- Marvel
+- Mashable
+- Men’s Journal
+- Meta Connect
+- Meta Glasses
+- News for TechRadar
+- Nuance
+- Research Science
+- Samsung
+- TheStreet
+- US Food and Drug Administration
 ---
 
 ![Meta Hearing Enhancement](https://cdn.mos.cms.futurecdn.net/XrEjvknxTx2gDFN9ya9Sz.jpg)

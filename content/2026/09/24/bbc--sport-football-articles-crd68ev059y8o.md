@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg
+locations:
+- Stoke
+people:
+- Chris Bevan
+- David Kemp
+- De Zerbi
+- Gerry Taggart
+- Mathys Tel
+- Michael Duberry
+- Roberto de Zerbi
+- Tony Pulis
+organisations:
+- 15th Crystal Palace
+- Aston Villa
+- BBC Sport
+- Bournemouth
+- Brentford
+- Brighton
+- Coventry City
+- De Zerbi
+- Fulham
+- Premier League
+- Spurs
+- Spurs'
+- Sunderland
+- Tottenham
+- West Brom
 ---
 
 ![Tony Pulis - Going Direct banner](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3d7c/live/8510ba20-b498-11f0-b2a1-6f537f66f9aa.jpg)

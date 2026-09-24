@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- California
+- Franklin County
+- Texas
+- Texas'
+- US
+- Uvalde
+people:
+- BF Hicks
+- David Truesdale
+- James Scott
+- Mark Stover
+- Ryan
+- Steve Cargil
+- Trump
+organisations:
+- Amazon
+- Apple
+- BF Hicks
+- Cargil
+- Energy Information Administration
+- Fabrizio Lee and Associates
+- OCI Energy
+- Texas Solar and Storage Association
+- US Energy Information Administration
 ---
 
 ![Steve Cargil](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4d9c/live/39721ea0-b682-11f1-bc1f-3f186ca4140c.png)

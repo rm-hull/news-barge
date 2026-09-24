@@ -12,6 +12,85 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/uFUaVXSktiYzHc7TrkKkZD-1853-80.jpg
+locations:
+- AEST
+- Australia
+- Durban
+- Harare
+- India
+- JB Marks Oval
+- Johannesburg
+- Kingsmead Stadium
+- New Zealand
+- Potchefstroom
+- South Africa
+- UK
+- US
+- USA
+- Wanderers Stadium
+- Zimbabwe
+people:
+- Adam Zampa We
+- Aiden Markram
+- Alex Carey
+- Bjorn Fortuin
+- Cameron Green
+- Cooper Connolly
+- Corbin Bosch
+- David Miller
+- Duan Jansen
+- Gerald Coetzee
+- Jack Edwards
+- Joel Davies
+- Josh Hazlewood
+- Josh Inglis
+- Kagiso Rabada
+- Keshav Maharaj
+- Krishi
+- Kwena Maphaka
+- Lungi Ngidi
+- Marco Jansen
+- Matthew Breetzke
+- Matthew Renshaw
+- Mitchell Marsh
+- Mitchell Starc
+- Nandre Burger
+- Nathan Ellis
+- Nathan Ellis'
+- Nqobani Mokoena
+- Oliver Peake
+- Pat Cummins
+- Quinton de Kock
+- Ryan Rickelton
+- Temba Bavuma
+- Tony de Zorzi
+- Travis Head
+- Tristan Stubbs
+- Xavier Bartlett
+organisations:
+- Australia ODI
+- Dakshin Flex
+- FanCode
+- Fox Cricket
+- Foxtel**
+- Future Publishing
+- Kayo Sports
+- Kayo Sports**
+- Krishi
+- Proteas
+- Sky Sport
+- Sky Sport NZ**
+- Sky Sports
+- Sky Sports Cricket
+- Sky Sports**
+- Sling TV
+- South Africa
+- Supersport
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- Willow TV
 ---
 
 ![Australia&#039;s Cooper Connolly](https://cdn.mos.cms.futurecdn.net/uFUaVXSktiYzHc7TrkKkZD.jpg)

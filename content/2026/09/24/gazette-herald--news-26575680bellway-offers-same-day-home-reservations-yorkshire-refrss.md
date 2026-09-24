@@ -13,6 +13,24 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21492697.jpg?type=og-image
+locations:
+- Beverley
+- Boroughbridge
+- Brigg
+- Brough
+- Buttercross Meadows
+- Harworth
+- Hoyland
+- Kirk Ella
+- Lancaster Fold
+- Snaith
+- Yorkshire
+people:
+- Melanie Smith
+organisations:
+- Bellway Yorkshire
+- New Homes Mortgage Helpline
+- Part Exchange
 ---
 
 *(Image: Supplied)*

@@ -11,6 +11,31 @@ description: The privacy-first VPN now covers every major desktop and mobile pla
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/hmxypjZckvhdcLV7mJLzgX-2560-80.png
+locations: []
+people:
+- Carl Dong
+- Monica J. White
+organisations:
+- Arch
+- Bitcoin Core
+- CachyOS
+- Cure53
+- Debian
+- Digital Trends
+- Google News
+- Linux Mint
+- Monica
+- Mullvad VPN
+- No Trace
+- Obscura VPN
+- Omarchy
+- RHEL
+- Silverblue
+- SlashGear
+- Tom’s Hardware
+- Ubuntu
+- WePC
+- WireGuard
 ---
 
 ![Obscura VPN on Linux, promo image](https://cdn.mos.cms.futurecdn.net/hmxypjZckvhdcLV7mJLzgX.png)

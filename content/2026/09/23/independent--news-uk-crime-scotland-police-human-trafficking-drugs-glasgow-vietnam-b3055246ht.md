@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://static.independent.co.uk/2026/09/23/17/01M36ZB1CT7X6SPX4FF1ZVNC50.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Dalmarnock
+- Dundee
+- Falkirk
+- Glasgow
+- Scotland
+- Springburn
+- UK
+- Vietnam
+people:
+- Kendrew
+- Stevie Bertram
+organisations:
+- 300 Police Scotland
+- HMRC
+- Home Office, Immigration Enforcement
+- National Crime Agency
+- Police Scotland
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

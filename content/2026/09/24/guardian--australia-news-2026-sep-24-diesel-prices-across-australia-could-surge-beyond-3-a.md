@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/0288a737793d090283d157aa9ae56827a3821b7e/959_147_2041_1633/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d97e891d505f7c15fa643236b406e94
+locations:
+- Australia
+- Bab al-Mandab
+- Canberra
+- Europe
+- Gulf
+- Hormuz
+- Iran
+- Middle East
+- South Korea
+- US
+people:
+- Chris Bowen
+- De Mello
+- Donald Trump
+- Lurion De Mello
+- Saul Kavonic
+organisations:
+- ABC
+- ANZ Bank
+- MST Financial
+- Macquarie University
+- Reserve Bank
+- Transforming Energy Markets
 ---
 
 Australian diesel prices could surge above $3 a litre if Donald Trump cuts off US diesel exports amid floundering negotiations with Iran.

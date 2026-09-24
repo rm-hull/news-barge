@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21494217.jpg?type=og-image
+locations:
+- Christmas Village
+- Ferris
+- Newcastle
+- Old Eldon Square
+- UK
+people:
+- Ben Whitfield
+- Jaissle
+- Nigel Holliday
+- Rob Austin
+organisations:
+- Bishop Auckland Christmas Town
+- EVNT Inspirations
+- Elf
+- Ferris
+- Mrs Claus’ Bakery
+- NE1
+- Newcastle City Council
+- Newcastle United
+- Santa Stories
+- The Grinch
 ---
 
 *(Image: Supplied)*

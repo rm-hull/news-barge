@@ -12,6 +12,18 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21490526.jpg?type=og-image
+locations:
+- Africa
+- Meadow Brown
+- UK
+- Yorkshire
+people:
+- Richard Fox
+organisations:
+- Butterfly Conservation
+- Large White
+- Red Admiral
+- Speckled Wood
 ---
 
 *(Image: Supplied)*

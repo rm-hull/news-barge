@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/56/68/1200x675_cmsv2_8c61a447-d5f0-513c-a8ed-9104474dbfe4-9925668.jpg
+locations:
+- Bern
+- Israel
+- Moscow
+- Russia
+- Switzerland
+- Ukraine
+people:
+- Bern
+- Ignazio Cassis
+- Jean-Daniel Ruch
+- Samuel Bendahan
+- Samuel Sommaruga
+- Vladimir Putin
+organisations:
+- AFP
+- EU
+- European Union
+- International Committee of the Red Cross
+- NATO
+- Pro Switzerland
+- SVP
+- Swiss People's Party
+- United Nations
 ---
 
 ## Switzerland's traditional position is one of well-armed military neutrality, but Russia's war in Ukraine reopened questions over its non-engagement in foreign conflicts.

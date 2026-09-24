@@ -12,6 +12,17 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21232662.jpg?type=og-image
+locations:
+- Heworth Road
+- SUBURBAN
+- The Nags Head
+- York
+people:
+- Ellie Hughes
+- Ryan Cooper
+organisations:
+- MND Association
+- Nags Head
 ---
 
 ## REVEALED: Which pub in York has been named best in the city for 2026?

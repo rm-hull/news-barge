@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21254212.jpg?type=og-image
+locations:
+- Bingley East
+- Bradford
+- Cross Roads
+- District
+- Keighley
+- Reform
+- Sugden End
+people:
+- Amjad Zaman
+- Anna Watson
+- Cllr Fricker
+- Cllr Walker
+- Cllr Zaman
+- Dave Shepherd
+- Dawn Thewlis
+- Green
+- Ian Walker
+- Ibrar Ali
+- Imran Khan
+- Lester Martin
+- Shipley
+- Stephen Mair
+- Susan Fricker
+organisations:
+- Allerton
+- Bradford Council
+- Bradford Independent Group
+- Bradford Moor
+- Bradford’s
+- City of Culture
+- Committee’s Reform and Conservative
+- Council’s Reform Led Executive
+- Council’s Regeneration and Environment Scrutiny Committee
+- Dowley Gap
+- Finance
+- Keighley Central
+- Keighley East
+- Lab
+- Labour run Council
+- Neighbourhood and Communities
+- Regeneration and Environment Scrutiny Committee
+- Scrutiny Committee
+- Sugden End Household Waste Recycling Centre
+- Thornton
+- Wyke
 ---
 
 SUGDEN End tip near Keighley will re-open by the end of the year, despite an impassioned debate over how it will be funded.

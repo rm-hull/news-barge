@@ -13,6 +13,68 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/04/2026-09-24T021245Z_961276177_RC2CPNA7KWBY_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- Dniprovskyi
+- Donetsk
+- Europe
+- Finland
+- India
+- Iran
+- Krasnodar
+- Kremlin
+- Kursk
+- Kyiv
+- Miami
+- Middle East
+- Middle Eastern
+- Moscow
+- New York
+- North Korea
+- Poland
+- Romania
+- Russia
+- Seoul
+- South Carolina
+- South Korea
+- Tehran
+- US
+- Ukraine
+- Valkove
+- Washington
+people:
+- '## Zelensky'
+- Abbas Araqchi
+- Alex (Stubb
+- Alexander Stubb
+- Andrii Sybiha
+- Jonas Gahr Støre
+- Kyiv
+- Lindsey Graham
+- Marco Rubio
+- S Jaishankar
+- Sergei ⁠Lavrov
+- Trump
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymyr Zelenskiy
+- Volodymyr Zelensky
+- Zelenskyy
+organisations:
+- AI
+- Armed Forces Operational Command
+- Foreign Ministry
+- G20
+- Kyiv
+- Nato
+- SRIA
+- State Department
+- Telegram
+- Trump US
+- UN General Assembly
+- UN General ⁠Assembly
+- US Congress
+- United Nations
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

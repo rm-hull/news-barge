@@ -11,6 +11,23 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/15/13/raf-crash-split-61839f15.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Anglesey
+- North Wales
+- Pencarnisiog
+- RAF Valley
+people:
+- Pete Bennett
+- Wes Streeting
+organisations:
+- FlightRadar24
+- Helimed
+- North Wales Fire and Rescue Services
+- North Wales Live
+- North Wales Police
+- RAF T2 Hawk
+- Royal Air Force
+- Welsh Ambulance Service University Health Trust
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

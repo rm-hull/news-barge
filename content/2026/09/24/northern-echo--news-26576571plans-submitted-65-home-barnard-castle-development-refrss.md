@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21494044.jpg?type=og-image
+locations:
+- Barnard Castle
+- Bishop Auckland
+- County Durham
+- Darlington Road
+- North
+- YOUR
+people:
+- Shaun Cuggy
+organisations:
+- Bellway Strategic Land
+- County Durham
+- Durham County Council
+- Public Notice Portal
 ---
 
 *(Image: Bellway)*

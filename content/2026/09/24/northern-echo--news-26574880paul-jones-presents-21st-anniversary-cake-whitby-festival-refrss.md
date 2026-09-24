@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21491546.jpg?type=og-image
+locations:
+- Darlington
+- North East
+- North Yorkshire
+- UK
+- Whitby Pavilion
+people:
+- Chris Wood
+- Christine
+- David Hamilton
+- Do Wah Diddy Diddy
+- Manfred Mann
+- Paul Jones
+- Pretty Flamingo
+- Ringo Starr
+- Sha La La
+- Simon Bates
+organisations:
+- Boom Radio
+- Goffy Media
+- The Manfreds
 ---
 
 *(Image: Supplied by Goffy Media)*

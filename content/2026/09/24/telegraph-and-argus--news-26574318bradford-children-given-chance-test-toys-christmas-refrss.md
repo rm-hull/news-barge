@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thetelegraphandargus.co.uk/resources/images/21490647.jpg?type=og-image
+locations:
+- Birmingham
+- Bradford
+people:
+- Paul Reader
+organisations:
+- DreamToys Selection Panel
+- Mini Toy Testers
+- Toy Retailers Association
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thetelegraphandargus.co.uk/resources/images/21492169.jpg?type=og-image&xType=0&yType=0
+locations:
+- Africa
+- Asia
+- Australia
+- China
+- Czech Republic
+- Egypt
+- Europe
+- Germany
+- Japan
+- Jordan
+- Kenya
+- Rwanda
+- South Korea
+- Tanzania
+- Turkey
+- UK
+- US
+- United States
+- Vietnam
+people:
+- Carlos Santos
+- Gabriel Bailey
+- Sousa
+organisations:
+- BEng Civil and Structural Engineering University of Bradford
+- Team
+- Turing Scheme
+- University of Bradford
 ---
 
 MORE than 2,000 overseas student placements have been delivered through an international study scheme.

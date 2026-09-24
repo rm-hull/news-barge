@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21493433.jpg?type=og-image
+locations:
+- County Durham
+- Normandy
+- North East
+- Seaham Harbour
+- Stockton
+- UK
+people:
+- Anthony Maras
+- James Stagg
+- Oliver Sherratt
+organisations:
+- Group
+- Pressure
+- Royal Meteorological Society
 ---
 
 *(Image: Oliver Sherratt)*

@@ -14,6 +14,26 @@ categories:
 - Travel
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21488505.jpg?type=og-image
+locations:
+- Isle of Wight
+- Melton’s
+- Orkney
+- Scarborough
+- Scarcroft Road
+- South Bank
+- UK
+- York
+- Yorkshire
+people:
+- Lucy Hjort
+- Melton
+- Michael
+organisations:
+- AA Rosettes
+- Condé Nast Traveller
+- Melton’s
+- Michelin Guide
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thenorthernecho.co.uk/resources/images/21493670.jpg?type=og-image
+locations:
+- America
+- Mockingbird
+- North Yorkshire
+- Scarborough
+- Selby
+- Thirsk
+people:
+- '![]()Jayne'
+- Janet Sanderson
+- Jayne
+- Tom Dockerty
+- Zain
+organisations:
+- Mockingbird Family Model
+- NYC
+- North Yorkshire
+- North Yorkshire Council
+- The Fostering Network
 ---
 
 A North Yorkshire couple who call fostering one of the most rewarding experiences of their lives are taking on a new role supporting other foster families.

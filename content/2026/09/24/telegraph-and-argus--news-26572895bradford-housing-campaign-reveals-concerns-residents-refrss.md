@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488572.jpg?type=og-image
+locations:
+- Allerton
+- Bradford
+- Clayton
+people:
+- Jo Gallagher
+- Nick Apetroaie
+organisations:
+- Accent Housing
 ---
 
 *(Image: Supplied)*

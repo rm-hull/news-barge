@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/03/17/ff2cdacb22c9be1675e781a2f640dd7eY29udGVudHNlYXJjaGFwaSwxNzg4NTM5Nzg1-2.76941848.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bloomsbury
+- Chelsea
+- London
+- Revolut Register
+- Soho
+people:
+- Alex Codina
+- Alex Damgaci
+- Smile
+organisations:
+- Kiss the Hippo Coffee
+- Revolut Business
+- Revolut Pay
+- Revolut Register
+- Smile
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

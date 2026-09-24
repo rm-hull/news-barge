@@ -12,6 +12,20 @@ categories:
 - True Crime
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/DTYDBbF7AKyFHCuQWLDPmj-612-80.jpg
+locations:
+- US
+people:
+- Christian Cawley
+organisations:
+- Computer Weekly
+- ComputerActive
+- FBI
+- Google News
+- IC3
+- Internet Crime Complaint Center
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![Phone scam- vishing](https://cdn.mos.cms.futurecdn.net/DTYDBbF7AKyFHCuQWLDPmj.jpg)

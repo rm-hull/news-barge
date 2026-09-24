@@ -14,6 +14,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/2c4108a8cbb779f0bc7ba2fd1843d8be8093c5cc/322_0_2595_2076/master/2595.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89ff2d0a5e743a0ca033dbbda18e0a58
+locations:
+- Iran
+people:
+- Brendan Rynne
+- Ryan Wells
+organisations:
+- ABS
+- Australian Bureau of Statistics
+- KPMG
+- RBA
+- Reserve Bank
+- Westpac
 ---
 
 Australians are “scrambling” to find more work to cover soaring living expenses and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to it’s highest rate since the pandemic.

@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0af7/live/645c3c20-b7a1-11f1-9a41-03eac78406c1.png
+locations:
+- Anglesey
+- England
+- UK
+- US
+people:
+- Andy Burnham
+- James Gillingham
+- Jeremy Clarkson
+- Kemi Badenoch
+- Sandro Gozi
+organisations:
+- Badenoch
+- Conservative
+- Conservatives'
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- EU
+- EU-UK Parliamentary Partnership Assembly
+- European Union
+- FSA
+- Financial Times
+- Football Supporters' Association
+- Guardian
+- Healey
+- Kemi
+- Labour Party
+- Metro
+- Number 10
+- RAF
+- The Times
+- Treasury
+- Universal Credit
 ---
 
 ![The headline on the front page of the Mirror reads: “Miracle no one was killed”.](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/388c/live/c67c6ca0-b791-11f1-bc1f-3f186ca4140c.jpg)

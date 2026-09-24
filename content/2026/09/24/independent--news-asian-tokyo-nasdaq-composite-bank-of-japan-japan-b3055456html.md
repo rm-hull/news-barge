@@ -14,6 +14,26 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/05/Financial_Markets_Wall_Street_28882.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Middle East
+- South Korea
+- U.S.
+- Wall Street
+people:
+- Michael Barr
+- Stan Choe
+- Yuri Kageyama
+organisations:
+- Bank of Japan
+- Fed
+- Federal Reserve
+- Shanghai Composite
+- Treasury
+- \_\_\_ AP Business
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -11,6 +11,24 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/56/35/1200x675_cmsv2_b8b55d30-b349-5fce-a903-93597f7a6093-9925635.jpg
+locations:
+- Australia
+- New York
+people:
+- Anthony Albanese
+- Katy Gallagher
+- Richard Marles
+- Sam Altman
+organisations:
+- '## OpenAI'
+- AI
+- Anthropic
+- ChatGPT
+- Gemini
+- Google
+- Government Services
+- Hugging Face
+- UN Security Council
 ---
 
 ## OpenAI did not raise the alarm with the Australian government until September, when it sent a message to a generic email inbox that is only checked once each day.

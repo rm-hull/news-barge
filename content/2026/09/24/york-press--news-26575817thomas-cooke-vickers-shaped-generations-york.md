@@ -12,6 +12,35 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/21492846.jpg?type=og-image
+locations:
+- Allerthorpe
+- Bishophill
+- Canada
+- Former York
+- Haxby Road
+- India
+- Museum Gardens
+- UK
+people:
+- Ivan Martin
+- John Cleather
+- Robert Scott
+- Thomas Cooke
+- Thomas Telford
+- Vickers
+organisations:
+- '![]()VIckers'
+- Buckingham Works
+- Cookie’s’
+- Stonegate
+- T. Cooke & Son Ltd
+- Troughton and Simms Ltd
+- VIckers
+- Vickers Instruments,York
+- YAYAS
+- York Philosophical Society
+- York's Observatory
+- Yorkshire Architectural and York Archaeological Society
 ---
 
 ## Hidden history of the York factory where generations learned a trade and prospered

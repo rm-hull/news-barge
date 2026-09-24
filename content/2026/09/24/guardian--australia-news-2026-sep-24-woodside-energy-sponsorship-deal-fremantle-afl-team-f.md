@@ -14,6 +14,32 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://i.guim.co.uk/img/media/706def155b74d8a17927e127d143b4f5df14df7a/0_87_1179_943/master/1179.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=578685871b1c15ea3cd427de16dd10e6
+locations:
+- Australia
+- Victoria
+people:
+- Emma Sherry
+- Fremantle
+- Jonathan Barrett
+- Josh Wilson.
+- Kevin Parker
+- Woodside
+organisations:
+- AFL
+- Adani
+- Alinta Energy
+- Bravus
+- Comms Declare
+- Cricket Australia
+- Fremantle Dockers
+- Guardian Australia
+- North Queensland Cowboys
+- RMIT University
+- Santos
+- Surf Life Saving Western Australia
+- Tame Impala
+- Wallabies
+- Woodside Energy
 ---
 
 When an oil and gas company buys logo space on an AFL jersey, it isn’t trying to convince fans to buy its products.

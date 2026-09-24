@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21491352.jpg?type=og-image
+locations:
+- America
+- County Durham
+- Langley Moor High Street
+- Newton Aycliffe
+- UK
+- US
+- Washington North East
+people:
+- Paul Frampton
+- SHARON COTTERELL
+- Sharon Cotterell
+organisations:
+- Durham
+- Europa League Fast
+- M The Galleries
+- MLB
+- NBA
+- NFL
+- NHL
+- Sunderland
+- Vintage World Order
+- WhatNot
+- eBay Live
 ---
 
 A new County Durham shop selling American professional sports merchandise will open next month, with fans expected to travel from across the UK for its launch.

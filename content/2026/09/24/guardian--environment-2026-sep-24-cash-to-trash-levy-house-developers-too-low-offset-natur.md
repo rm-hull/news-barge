@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/4a6626810103c1e9e1f4510cfe996cfe77e6191f/448_0_4483_3587/master/4483.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32d193e32917c526465fbfcab56725e6
+locations:
+- Bure
+- Natural England
+- Norfolk Broads
+- River Yare
+- The Yare
+- UK
+- Wensum
+people:
+- Alexa Culver
+- Bradley Tooze
+- Justin Neal
+- Sally Hayns
+organisations:
+- CIEEM
+- Chartered Institute of Ecology and Environmental Management
+- Culver
+- EDP
+- EDPs
+- Guardian
+- Hayns
+- Natural England
+- RSK Wilding
+- WildFish
 ---
 
 A new levy on developers to allow almost 16,000 homes to be built in the environmentally protected Norfolk Broads has been cut by tens of thousands of pounds per house, the Guardian can reveal.

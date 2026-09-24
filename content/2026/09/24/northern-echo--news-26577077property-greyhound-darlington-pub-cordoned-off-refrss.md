@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21494776.jpg?type=og-image
+locations:
+- Darlington Hippodrome
+- Peterlee
+- The Greyhound
+- The Greyhound Darlington
+people: []
+organisations:
+- CSI
+- Durham Constabulary
+- NORTHERN ECHO
+- North East Ambulance Service
+- Northern Echo
+- Theatregoers
 ---
 
 Police, CSI and ambulance crews were called to a property above a Darlington pub where a police cordon was put in place.

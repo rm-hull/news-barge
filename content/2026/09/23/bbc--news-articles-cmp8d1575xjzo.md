@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c39/live/652cede0-b786-11f1-b8b4-b5209cf6918a.jpg
+locations:
+- National Migraine Centre
+- Singleton Hospital
+- Swansea Bay
+- UK
+- Wales
+people:
+- Katy Munro
+- Lauren Evans
+organisations:
+- NHS
+- NICE
+- National Institute for Health and Care Excellence
 ---
 
 ![Photograph of Lauren Evans stood on a promenade. She has brown eyes and brown hair and smiles at the camera. She is wearing a red t-shirt and a body warmer and silver earrings. The sun shines on water behind her. ](https://ichef.bbci.co.uk/ace/standard/774/cpsprodpb/5ed2/live/63fd3970-b673-11f1-b711-df5e4d50c2fd.jpg)

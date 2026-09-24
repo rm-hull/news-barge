@@ -13,6 +13,15 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21492177.jpg?type=og-image
+locations:
+- '![]()York'
+- Station Hall
+- Wonderlab
+people:
+- Sarah Price
+organisations:
+- )* York’s National Railway Museum
+- National Railway Museum
 ---
 
 *(Image: Supplied)*

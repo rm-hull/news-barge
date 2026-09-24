@@ -12,6 +12,17 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21491409.jpg?type=og-image&xType=0&yType=0
+locations:
+- Hull
+- London
+- YORK
+people:
+- Ellis Newlove
+- Nelson Qin
+organisations:
+- London Art Collective
+- London’s Saatchi Gallery
+- Saatchi Gallery
 ---
 
 *(Image: Art)*

@@ -13,6 +13,30 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/09/Afghanistan_Pakistan_12763.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- China
+- Hangu
+- Islamabad
+- Kabul
+- Khost
+- Khyber Pakhtunkhwa
+- Kohat
+- New York
+- Qatar
+- Saudi Arabia
+- Tehrik-e-Taliban Pakistan
+- Torkham
+- Turkey
+people:
+- Attaullah Tarar
+- Ishaq Dar
+- Mustaghfir Gurbaz
+- Zabihullah Mujahid
+- \_\_\_ Ahmed
+organisations:
+- Information Ministry
+- U.N.
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

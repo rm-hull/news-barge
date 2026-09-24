@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491328.jpg?type=og-image&xType=0&yType=250
+locations:
+- Europe
+- France
+- King's Cross
+- London
+- Paris
+- St Pancras
+- UK
+people:
+- Keighley
+- Stephen Maltas
+- Stephen Maltas'
+- Tia
+organisations:
+- Amazon
+- Pegasus
 ---
 
 *(Image: Stephen Maltas)*

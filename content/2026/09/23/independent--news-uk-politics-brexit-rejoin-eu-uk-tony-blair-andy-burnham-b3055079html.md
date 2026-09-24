@@ -14,6 +14,57 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/16/2296132834..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- China
+- England
+- Europe
+- Great Britain
+- New York
+- North Sea
+- Scotland
+- UK
+- US
+- Wales
+people:
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Maddox
+- John Curtice
+- Jonathan Brady
+- Joseph Sassoon
+- Keir Starmer
+- Mario Draghi
+- Mike Galsworthy
+- Millie Cooke
+- Naomi Smith
+- Putin
+- Tom Brufatto
+- Tone Langengen
+- Tony Blair
+- Trump
+organisations:
+- Best for Britain
+- Brexit
+- Commonwealth
+- EU
+- European Energy Security Partnership
+- European Movement UK
+- European Political Community
+- European Union
+- IPPR
+- Institute for Public Policy
+- Institute for Public Policy Research
+- Labour
+- PA
+- Reform UK
+- TBI
+- The Independent
+- The Independent.
+- Tony Blair Institute
+- Victoria Jones
+- YouGov
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

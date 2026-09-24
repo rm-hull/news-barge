@@ -13,6 +13,29 @@ categories:
 - Business & Entrepreneurship
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77bf/live/26f24db0-b770-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Gaza City
+- Israel
+- New York
+- UK
+- US
+- United Kingdom
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Jared Kushner
+- Marco Rubio
+- Michael Eisenberg
+- Nickolay Mladenov
+- Steve Witkoff
+- Tony Blair
+organisations:
+- BBC
+- Board of Peace
+- Gaza Executive Board
+- Hamas
+- Newshour
+- UN General Assembly.
 ---
 
 ![Tony Blair, Steve Witkoff, and Jared Kushner watching a presentation during a Board of Peace briefing ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/77bf/live/26f24db0-b770-11f1-a7b2-f3bdba1cd194.jpg)

@@ -13,6 +13,14 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.gazetteherald.co.uk/resources/images/21490949.jpg?type=og-image
+locations:
+- Yorkshire
+people:
+- Sarah Mullan
+organisations:
+- Garden Detectives
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
 ---
 
 *(Image: Supplied)*

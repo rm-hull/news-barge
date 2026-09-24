@@ -15,6 +15,33 @@ categories:
 - History
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/06/34/1200x675_cmsv2_f3962eec-d13c-508f-a96f-ef257c2c85d8-9920634.jpg
+locations:
+- Brussels
+- Europe
+- Middle East
+- US
+- Washington
+people:
+- Andrius Kubilius.Donald Trump**
+- Chloé Ridel**
+- Donald Trump
+- Kamal Amakrane**
+- Osama Rizvi**
+- Palantir
+- Shona Murray
+- Stefan Grobe
+organisations:
+- Defence and Space
+- EU
+- Euronews
+- Euronews'
+- European Parliament
+- International Criminal Court
+- Justice Committee
+- Primary Vision
+- UN
+- UN’s Rising Nations Initiative
+- YouTube
 ---
 
 ## EU defence chief speaks to Euronews as US President Donald Trump calls on every country belonging to the International Criminal Court to quit. Meanwhile, as war in the Middle East disrupts global oil supplies and refining costs soar, European consumers are feeling the pinch more and more.

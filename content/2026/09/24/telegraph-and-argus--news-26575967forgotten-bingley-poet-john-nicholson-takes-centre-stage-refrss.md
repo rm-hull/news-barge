@@ -14,6 +14,24 @@ categories:
 - Arts & Culture
 - Books & Literature
 image: https://www.thetelegraphandargus.co.uk/resources/images/21493078.jpg?type=og-image
+locations:
+- Bingley
+- Bradford
+- Eldwick
+- River Aire
+- Saltaire
+- West Yorkshire
+people:
+- John Nicholson
+- RJ Wade
+- Victoria
+organisations:
+- Brotherton Gallery
+- Galleries’ Gloves Off podcast
+- Tony Harrison Archive
+- University of Leeds Cultural Collections
+- University of Leeds Library Galleries
+- University of Leeds’ Cultural Collections
 ---
 
 *(Image: University of Leeds Library Galleries)*

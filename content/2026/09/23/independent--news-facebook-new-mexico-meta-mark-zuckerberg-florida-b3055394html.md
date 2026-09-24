@@ -15,6 +15,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/23/Facebook_New_Mexico_Closings_23637.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Albuquerque
+- America
+- Cambridge
+- Florida
+- New Mexico
+people:
+- Dane Butswinkas
+- Donald Trump
+- Joe Rogan
+- Mark Zuckerberg
+- Randi McGinn
+- Susan Montoya Bryan
+- \_\_\_ Schuettler
+organisations:
+- Cambridge Analytica
+- Cambridge Analyticas
+- Facebook
+- Instagram
+- Meta
+- New Mexico
+- Report for America Statehouse News Initiative
+- The Associated Press
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

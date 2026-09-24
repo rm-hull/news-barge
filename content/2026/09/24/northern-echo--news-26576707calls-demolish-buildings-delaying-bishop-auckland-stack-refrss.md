@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21494233.jpg?type=og-image&xType=0&yType=72
+locations:
+- Bishop Auckland
+- Darlington
+- NORTHERN ECHO
+- Newgate Street
+- WHSmith
+- YOUR
+people:
+- Joe Quinn
+- John Kinvig
+- SARAH CALDECOTT
+- Sam Rushworth
+- Stack
+- Stuart Boulton
+organisations:
+- Durham County Council
+- Public Notice Portal
+- Stack
 ---
 
 ### What is the Public Notice Portal?

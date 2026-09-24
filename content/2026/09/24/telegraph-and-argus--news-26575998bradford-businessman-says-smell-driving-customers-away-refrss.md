@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21493655.jpg?type=og-image&xType=0&yType=1271
+locations:
+- Bradford
+- Leeds Road
+people:
+- Ian Walker
+- Imran Khan
+organisations:
+- Bradford Council
+- IK Collections
+- Neighbourhoods and Communities
+- Telegraph & Argus
 ---
 
 *(Image: Imran Khan)*

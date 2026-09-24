@@ -12,6 +12,15 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/19908458.jpg?type=og-image
+locations:
+- North Yorkshire
+people:
+- Ian Dawson
+organisations:
+- North Yorkshire Council
+- PIR
+- STAG
+- School Transport Action Group
 ---
 
 *(Image: STAG.)*

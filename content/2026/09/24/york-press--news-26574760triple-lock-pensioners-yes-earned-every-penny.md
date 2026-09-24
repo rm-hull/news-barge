@@ -13,6 +13,40 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 image: https://www.yorkpress.co.uk/resources/images/21491306.jpg?type=og-image
+locations:
+- Be’
+- Brighton
+- Hampshire
+- Israel
+- London
+- New York
+- Plymouth
+- UK
+- United States
+people:
+- Andy Burnham
+- Beauchamp Crescent
+- Brayton
+- David Skaith
+- Ed Miliband
+- Jessica Goetia Brooking
+- Lib Dem
+- MATTHEW Laverack
+- Martin Jones
+- Matthew Laverack
+- Peter Rickaby
+- Quentin McDonald
+- Shimon Cohen
+- York
+organisations:
+- American Journal of Veterinary Research
+- Frontiers in Veterinary Science
+- Lib Dems
+- Shechita UK
+- The Press
+- UN
+- UNESCO
+- United Nations
 ---
 
 **Triple lock for pensioners? Yes, they’ve earned every penny**

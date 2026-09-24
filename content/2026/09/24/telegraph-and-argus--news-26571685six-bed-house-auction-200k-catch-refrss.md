@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486720.jpg?type=og-image
+locations:
+- Green Head Road
+- Keighley
+- Utley
+- YOUR
+people:
+- J Hunter
+- M Riasat
+organisations:
+- BTG Eddisons
+- Bradford Council
+- Enforcement Notice
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

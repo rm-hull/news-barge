@@ -13,6 +13,38 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png
+locations:
+- D.C.
+- Greater Washington Region
+- Maryland
+- Trumbull
+- U.S.
+- Virginia
+people:
+- Amanda Nataro
+- DOGE
+- Danielle Yates
+- Nicoletta Barbera
+- Radha Muthiah
+- Sam Trumbull
+organisations:
+- CAFB
+- Capital Area Food Bank
+- DMV
+- DOGE
+- District of Columbia
+- Elon Musk-led Department of Government Efficiency
+- Gallup
+- Greater Washington Community Foundation
+- NORC
+- National Guard
+- Trump
+- U.S. Department of Agriculture
+- U.S. Institute of Peace
+- USAID
+- USDA
+- University of Chicago
+- VoicesDMV
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/ytSxpvJT2zeMKtmSfB8sZZ-2560-80.jpg
+locations:
+- Looki
+- US
+people:
+- Bruce Springsteen
+- Jacob Krol
+- Mark Zuckerberg
+- Muse
+organisations:
+- AI
+- Apple
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- Google News
+- Jacob Krol
+- Marvel
+- Mashable
+- Men’s Journal
+- Meta Connect
+- Meta Glasses
+- Meta Muse Charm
+- Meta Ray-Ban Audio
+- Meta VR Glasses
+- Muse Charm
+- News for TechRadar
+- Samsung
+- TheStreet
 ---
 
 ![Meta Muse Charm](https://cdn.mos.cms.futurecdn.net/ytSxpvJT2zeMKtmSfB8sZZ.jpg)

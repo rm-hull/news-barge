@@ -14,6 +14,20 @@ categories:
 - York
 - Family & Parenting
 image: https://www.gazetteherald.co.uk/resources/images/16792805.jpg?type=og-image
+locations:
+- Halifax
+- Hole of Horcum
+- Holey Green Road
+- North Yorkshire
+- York
+people:
+- Devastated’
+- Ghaz Iqbal
+- Kathryn Walters
+- Thomas Metcalfe
+organisations:
+- CPS
+- Cheshire Police
 ---
 
 *(Image: Cheshire Police)*

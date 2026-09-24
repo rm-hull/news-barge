@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/01/ICE_Shooting_Austin__1498.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Austin
+- Berkeley
+- Columbia
+- Iowa City
+- Los Angeles
+- Pflugerville
+- South Carolina
+- Texas
+- U.S.
+people:
+- Austin
+- Donald Trump
+- Garces Perez
+- Greg Casar
+- Jeffrey Collins
+- Joe Biden
+- Kate Lincoln-Goldfinch
+- Markwayne Mullin
+- Wilber Rafael Garces Perez
+- Wilder
+- \_\_\_ Foley
+organisations:
+- Congress
+- DHS
+- Department of Homeland Security
+- Deportation Data Project
+- Homeland Security
+- ICE
+- Report for America Statehouse News Initiative
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
+- University of California
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

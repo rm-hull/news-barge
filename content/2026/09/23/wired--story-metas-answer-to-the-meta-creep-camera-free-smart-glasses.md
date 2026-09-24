@@ -13,6 +13,27 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab46185974b275c73391603/191:100/w_1280,c_limit/Meta-Connect-Gear-2296202855.jpg
+locations:
+- Burbank
+- EssilorLuxottica
+- Menlo Park
+- Nova
+people:
+- Kylie Jenner
+- Lisa
+- Mark Zuckerberg
+- Muse
+organisations:
+- 3K Dolby Atmos
+- Meta AI
+- Meta Ray-Ban
+- Meta Ray-Ban Display Meta
+- Muse AI
+- Ray-Ban Meta
+- Ray-Ban Meta Audio Meta
+- Ray-Ban Meta Gen
+- VR Glasses
+- Viture
 ---
 
 After months of controversy about the privacy of its smart glasses, Meta has unveiled the next iteration of its product lineup. At its Meta Connect event in Menlo Park, CEO Mark Zuckerberg announced all the new glasses the company is putting out into the world.

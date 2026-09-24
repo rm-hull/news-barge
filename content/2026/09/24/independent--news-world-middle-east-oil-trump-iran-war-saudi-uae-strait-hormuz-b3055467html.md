@@ -15,6 +15,43 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/05/Iran_US_Oil__5491.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Asia
+- Bab el-Mandeb Strait
+- China
+- East-West
+- Egypt
+- Fujairah
+- Gulf of Oman
+- Iran
+- Iraq
+- Kuwait
+- Mediterranean
+- Persian Gulf
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- U.S.
+- UAE
+- US
+- United Arab Emirates
+- Yanbu
+- Yemen
+people:
+- Brad Cooper
+- Donald Trump
+- Rahul Choudhary
+organisations:
+- ADNOC
+- Bab el-Mandeb
+- Kpler
+- Rystad Energy
+- Saudi Aramco
+- U.S. Central Command
+- US Oil
+- Windward
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/00/UN_General_Assembly_Venezuela__1392.jpg?width=1200&height=800&crop=1200:800
+locations:
+- New York
+- U.S.
+- United States
+- Venezuela
+people:
+- Delcy Rodriguez
+- Donald Trump
+- Nicolás Maduro
+- Rodríguez
+organisations:
+- General Assembly
+- U.N
+- U.N.
 ---
 
 Addressing the U.N. General Assembly for the first time since coming to power, Venezuela's acting president said her country is coming back strong after “setbacks” suffered this year and thanked President Donald Trump for being willing to resume relations after the U.S. military spirited her predecessor out of the country.

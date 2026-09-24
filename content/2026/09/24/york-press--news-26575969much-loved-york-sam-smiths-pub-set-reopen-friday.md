@@ -11,6 +11,37 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21493079.jpg?type=og-image
+locations:
+- Angel & White Horse
+- Bishopthorpe
+- Boston Spa
+- Bramham
+- Fulford
+- Heckmondwike
+- North Yorkshire
+- Nunnery Lane
+- Paula Dawson
+- Rufforth
+- Stokesley
+- Tadcaster
+- Tankard Inn
+- Trafalgar Bay
+- Wetherby
+- York
+people:
+- Alison
+- Gary Clarkson
+- Phil Roper
+- Sam Smith
+- Sarah Walmsley
+- York Sam Smith
+organisations:
+- Angel & White Horse
+- Ebor Inn
+- Red Lion
+- SEND
+- Tankard Inn
+- Wellington Inn
 ---
 
 ## Much-loved Sam Smith's brewery-owned pub set to reopen in York next week

@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/18961569.jpg?type=og-image
+locations: []
+people:
+- Adam Day
+- Black Sheep Vets’ Kaz Strycharczyk
+- Cammy Wilson
+- Harry Morshead
+- Katie Andrews
+- Mr Morshead
+- Will Riddington
+organisations:
+- )* Farmers Voice
+- Farmers Voice
+- Hexham Auction Mart
+- The Farmer Network
+- The Sheep Game
+- youngsRPS
 ---
 
 *(Image: Supplied)*

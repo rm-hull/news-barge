@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Shopping & Deals
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg
+locations:
+- Dhar
+- India
+- Mumbai
+- Rajasthan
+- South Korea
+- Udaipur
+people:
+- Amitabh Bachchan
+- Anna Lembke
+- Kent Berridge
+- Purvansh Parmar
+- Ravi Dhar
+- Sharma
+organisations:
+- Amazon
+- Anshul Sharma
+- Dopamine Nation
+- FoodNeverComes
+- FoodNeverComes'
+- NeuroX AI
+- Stanford University
+- Swiggy Instamart
+- TripNeverLeaves
+- University of Michigan
+- Yale Center for Customer Insights
 ---
 
 ![The landing page of FoodNeverComes' website, asking people to order the food but "skip the bill"](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/7ec7/live/0f6c9760-b287-11f1-a430-4d16ee157c41.png)

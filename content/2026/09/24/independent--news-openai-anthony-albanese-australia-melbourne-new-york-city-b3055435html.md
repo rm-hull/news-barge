@@ -15,6 +15,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/03/Australia_OpenAI_Breach_42871.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- New York City
+people:
+- Anthony Albanese
+- Richard Marles
+- Sam Altman
+organisations:
+- AI
+- Australian Broadcasting Corp
+- OpenAI
+- United Nations
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

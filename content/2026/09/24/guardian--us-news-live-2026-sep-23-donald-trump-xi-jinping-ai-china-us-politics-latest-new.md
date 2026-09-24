@@ -14,6 +14,105 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/ef43f9933c93b8b7220d99289b7ba4c0dddf9c8a/380_0_4379_3505/master/4379.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7995b7609c1640802b209a58226403d3
+locations:
+- AI
+- Abraham Lincoln
+- Britain
+- California
+- China
+- Iran
+- Joint Base Andrews
+- Kremlin
+- Laem Chabang
+- Maine
+- Maryland
+- Miami
+- Middle East
+- New York
+- Russia
+- Silicon Valley
+- Thailand
+- U.S.
+- US
+- Ukraine
+- United States
+- Washington
+- White House
+- theWhite House
+people:
+- Adam Klasfeld
+- Donald Trump
+- Geoffrey Hinton
+- Hasan Piker
+- Hegsethdismissed
+- Hung Cao
+- JD Vance
+- Jake Traylor
+- Jonathan Ernst
+- Kahnna
+- Kevin Lamarque
+- Kirsten Gillibrand
+- Kyiv
+- Marco Rubio
+- Melania Trump
+- Mike Lindell
+- Peng Liyuan
+- Ro Khanna
+- Sergei Lavrov
+- Sudeep Reddy
+- Susan Collins
+- Ted Boutrous
+- Timothy J Kelly
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- AI Force
+- Alibaba
+- American AI
+- Anthropic
+- Asia Society
+- CBS
+- CNN
+- Chinese Communist Party
+- Congress
+- DeepSeek
+- Department
+- FBI
+- First Amendment
+- Fox
+- G20
+- Getty Images
+- Guardian
+- House
+- Joint Base Andrews
+- LINCOLN
+- Lindell TV
+- MS NOW
+- MS Now
+- MeidasTouch
+- Moonshot AI
+- NBC
+- NewsNation
+- Newsmax
+- One America News
+- OpenAI
+- POLITICO
+- PRC
+- Politico
+- ProPublica
+- RSBN
+- Reuters Reuters
+- Sailors
+- Senate
+- Sky News
+- Status
+- Thananuwat Srirasant
+- Trump
+- Truth Social
+- US Navy
+- US-China AI
+- USS Abraham Lincoln
+- United Nations
 ---
 
 Senator confirms ‘eight suicide attempts’ by US navy personnel assigned to USS Abraham Lincoln carrier group – as it happened

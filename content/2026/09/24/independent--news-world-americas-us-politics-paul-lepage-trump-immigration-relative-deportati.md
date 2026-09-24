@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/01/917457386..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Biddeford
+- Houston
+- Maine
+- Pool and Hill
+- U.S.
+- United States
+- Washington
+people:
+- Durán Guerrero
+- Johan Sebastián Durán Guerrero
+- Lorenzo Salgado Araujo
+- Paul LePage
+- Trump
+organisations:
+- Associated Press
+- Department of Homeland Security
+- House of Representatives
+- ICE
+- Immigration and Customs Enforcement
+- The New York Times
+- The Washington Post
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

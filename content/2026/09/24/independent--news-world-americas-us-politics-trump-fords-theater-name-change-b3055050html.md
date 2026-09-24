@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/13/39/11.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- DC.
+- Kennedy Center
+- New York
+- Penn Station
+- United States
+- Virginia
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Abraham Lincoln
+- Donald Trump
+- John Wilkes Booth
+- Richard Nixon
+organisations:
+- CNN
+- Congress
+- Department of the Interior
+- Dulles International Airport
+- Ford's Theatre
+- Ford’s Theatre
+- Institute of Peace
+- Interior Department
+- Kennedy Center
+- MS NOW
+- MS Now
+- National Park Service
+- Navy
+- The Independent
+- Trump
+- Truth Social
+- U.S. Institute of Peace
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

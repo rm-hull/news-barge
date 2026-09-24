@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21492232.jpg?type=og-image
+locations:
+- Fountains Walk
+- North Yorkshire
+- Ripon
+people:
+- Arthur
+- Claire Rowett
+- Nicki Hope
+- Taylor Wimpey
+organisations:
+- Arthur’s
+- Moorside Primary School
+- Taylor Wimpey
+- Taylor Wimpey North Yorkshire
+- Yarm
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21493652.jpg?type=og-image&xType=0&yType=36
+locations:
+- City of Durham
+- County Durham
+- Darlington Memorial Hospital
+- Durham City
+- North Durham
+- Stanley
+- University Hospital
+people:
+- Alison Deighton
+- Amelia Green
+- Amir Bhatti
+- Andy Burnham
+- Charles
+- Chris Booth
+- Jacques’
+- Mary Kelly Foy
+- Michaela
+- Ms Foy
+- Paget
+- Sue Jacques
+organisations:
+- '![]()City of Durham'
+- '![]()County Durham'
+- '![]()Darlington Memorial Hospital'
+- '![]()University Hospital'
+- CDDFT
+- Cabinet Office
+- City of Durham
+- County Durham
+- Darlington Foundation Trust
+- Darlington NHS Foundation Trust
+- Darlington NHS Trust
+- Durham Police
+- Forfeiture Committee
+- High Court
+- NHS Trust
+- NORTHERN ECHO
+- National Crime Agency
+- Northern Cancer Alliance
+- Northern Echo
+- OBE
+- UHND
 ---
 
 *(Image: SUBMIT/NORTHERN ECHO)*

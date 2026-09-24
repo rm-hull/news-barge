@@ -11,6 +11,19 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfde/live/435d7d70-b7da-11f1-9329-25fd53239d64.jpg
+locations:
+- US
+- White House
+people:
+- Donald Trump.
+- Timothy Kelly
+- Trump
+organisations:
+- CNN
+- Court
+- District of Columbia
+- MS NOW
+- Politico
 ---
 
 ![Lecturn in White House briefing room](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cfde/live/435d7d70-b7da-11f1-9329-25fd53239d64.jpg)

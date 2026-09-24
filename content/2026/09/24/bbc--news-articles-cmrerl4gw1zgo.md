@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1b6/live/3d4907a0-b77c-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- England
+- Pentonville
+- Wales
+people:
+- John Podmore
+organisations:
+- BBC
+- Ministry of Justice
+- PGA
+- PGD
+- Prison Governors' Association
+- Prison Group
+- Prison Rules and the Young Offender Institution Rules
 ---
 
 ![A prison officer in uniform walks past a series of cells](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e1b6/live/3d4907a0-b77c-11f1-bc1f-3f186ca4140c.jpg)

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/20640270.jpg?type=og-image&xType=0&yType=91
+locations:
+- Acre Rigg Filling Station
+- Alamy
+- Bishop Auckland
+- Chester-le-Street
+- County Durham
+- 'Durham ## County Durham'
+- Falcon Service Station
+- PA
+- Peterlee
+- Seaham
+- Shell Easington East
+- Shell Easington West
+people:
+- James Hitchman
+organisations:
+- Energy Price Cap
+- Falcon Service Station
+- Martin Lewis
+- PetrolPrices.com
+- Rigg Filling Station Ltd
+- Tow Law Service Station
 ---
 
 *(Image: Alamy/PA)*

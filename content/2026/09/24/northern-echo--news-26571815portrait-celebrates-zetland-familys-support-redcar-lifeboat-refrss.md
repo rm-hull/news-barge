@@ -14,6 +14,22 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21487752.jpg?type=og-image
+locations:
+- Esplanade
+- Philip Chisholm
+- Redcar
+- South Shields
+- Zetland Lifeboat Museum
+people:
+- Emma
+- Henry Greathead
+- Philip Chisholm
+- Zetland
+organisations:
+- '![]()Marquess of Zetland'
+- Philip Chisholm
+- RNLI
+- Redcar Heritage Centre
 ---
 
 *(Image: Philip Chisholm)*

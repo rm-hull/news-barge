@@ -14,6 +14,28 @@ categories:
 - Arts & Culture
 - History
 image: https://i.guim.co.uk/img/media/2ab41ef770f7eaa6fe24932a2b3206036248abda/848_0_6336_5070/master/6336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6206970fd28816920a0b3f6b78a65e8f
+locations:
+- Athens
+- Bayeux
+- Britain
+- Elgin
+- France
+- Greece
+- London
+- UK
+people:
+- Andy Burnham
+- George Osborne
+- Kyriakos Mitsotakis
+- Lord Elgin
+- Nicholas Cullinan
+- Parthenon
+- Phidias
+organisations:
+- British Museum
+- Financial Times
+- Guardian
+- Telegraph
 ---
 
 The Greek prime minister has said a deal can still be reached to return the Parthenon marbles with “political will” but his country will not accept a loan in the style of the Bayeux tapestry’s visit from France.

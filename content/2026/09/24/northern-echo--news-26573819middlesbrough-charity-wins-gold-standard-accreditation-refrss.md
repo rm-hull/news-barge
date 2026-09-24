@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21490211.jpg?type=og-image
+locations:
+- England
+- Middlesbrough
+- My Sisters Place
+- North East
+- UK
+- Yorkshire Dales
+people:
+- Claire Moore
+- Jennifer Standen
+- Leanne Smith
+- Lynsey Gibson
+- Mel Goodway
+- Rishi Sunak
+organisations:
+- Domestic Homicide Review
+- IRISi
+- Middlesbrough Council
+- Middlesbrough IRIS
+- Middlesbrough’s Preventing Domestic Abuse Strategy
+- My Sisters Place
+- NHS
+- Yorkshire Dales GP
 ---
 
 *(Image: Supplied)*

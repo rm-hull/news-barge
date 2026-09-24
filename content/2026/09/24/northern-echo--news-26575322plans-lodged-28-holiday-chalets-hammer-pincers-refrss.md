@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21492220.jpg?type=og-image
+locations:
+- Auckland
+- County Durham
+- Newton Aycliffe
+- Preston le Skerne
+- YOUR
+people:
+- Fahim Farooqui
+- Henry Harrop
+- Neil Skinner
+- Peter Walton
+- Rachel
+organisations:
+- Blacksmith Arms
+- CCTV
+- Christie & Co.
+- Echo
+- GOOGLE)* Bosses
+- Hammer and Pincers
+- Harrop Leisure Ltd
+- Public Notice Portal
+- Public Notice Portal Plans
+- Total Planning Solutions
+- Wickes
 ---
 
 *(Image: CHRISTIE AND CO / TOTAL PLANNING SOLUTIONS)*

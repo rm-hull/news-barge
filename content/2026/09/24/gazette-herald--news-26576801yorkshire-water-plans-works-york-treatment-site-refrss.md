@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/16996453.jpg?type=og-image
+locations:
+- Naburn Lane
+- River Ouse
+- YOUR
+- York
+- Yorkshire
+people:
+- Lucie Arger
+organisations:
+- City of York Council
+- Naburn Wastewater Treatment Works
+- Public Notice Portal
+- Yorkshire Water
+- Yorkshire Water Project
 ---
 
 ### What is the Public Notice Portal?

@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/07/Morocco_Election__4_49.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Morocco
+people: []
+organisations:
+- House of Representatives
+- Interior Ministry
+- Istiqlal Party
+- Justice and Development
+- Justice and Development Party
+- Modernity Party
+- National Assembly of Independents
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

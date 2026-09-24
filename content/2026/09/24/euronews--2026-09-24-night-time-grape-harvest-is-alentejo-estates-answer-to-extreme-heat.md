@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://images.euronews.com/articles/stories/09/90/87/64/1200x675_cmsv2_eab63ecf-5be2-58dc-a845-8fa98f395e6d-9908764.jpg
+locations:
+- Alentejo
+- Champagne
+- France
+- Gobillard
+- Hautvillers
+- Herdade das Servas
+- Portugal
+people:
+- Maria Jerónima Mendes
+- Renato Neves
+organisations:
+- AFP
 ---
 
 ## More frequent heatwaves are changing how winegrowers work. In Alentejo, one of Portugal's hottest regions, an estate now harvests at night to improve working conditions.

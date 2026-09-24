@@ -17,6 +17,33 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQyMjMwYWZkLTExMmQtNDhhMy1iNDQxLTg0MWY1ZGIyOTcyODoyNzU1NWZhNS1mOWVjLTQ5NTEtYjgxMS1mZDlhY2Y3ODIxNmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- County Hall
+- Darrowby
+- Grassington
+- Harrogate
+- Helmsley
+- Leyburn
+- North Yorkshire
+- Northallerton
+- Prospect Crescent
+- Selby
+- Yorkshire Dales
+people:
+- Alf White
+- Alle
+- Carl Les
+- Coun Carl Les
+- Jim
+- Rosie
+organisations:
+- All Creatures’
+- Area Committees
+- Executive Committee
+- North Yorkshire Council
+- Small
+- Thirsk
+- Tony Johnson
 ---
 
 # Return of All Creatures Great and Small will bring a welcome boost to the visitor economies of the Yorkshire Dales - Carl Les

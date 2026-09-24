@@ -16,6 +16,32 @@ categories:
 - Society & Culture
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhiMjUyYmE5LTgzNDYtNDZmMC04NGIyLTJkNWJmMGQ0YTBjYTowYjk4MDNiYS00MjY0LTQxMGMtYTYyZS1iNTk1MDliNmFlMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Ashton-in-Makerfield
+- Downing Street
+- England
+- Ilford North
+- Wales
+- Wolverhampton South East
+people:
+- Andy Burnham
+- Helen Whately
+- Jayne Dowle
+- Jonathan Brady
+- Keir Starmer
+- Pat McFadden
+- Stephen Timms
+- Wes Streeting
+organisations:
+- DWP
+- Department for Work and Pensions
+- Institute of Fiscal Studies
+- Labour
+- OBR
+- Office for Budget Responsibility
+- Pip
+- State for Work and Pensions
+- The Times
 ---
 
 # The electoral trap that awaits Labour if it doesn’t get welfare reform right - Jayne Dowle

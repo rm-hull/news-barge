@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21493523.jpg?type=og-image&xType=0&yType=98
+locations:
+- County Durham
+- Durham NHS
+- North East
+- Sunderland
+- The County Durham
+people:
+- Amir Bhatti
+- Hayley Collinson
+- Rachel Gray
+organisations:
+- CDDFT
+- Darlington NHS Foundation Trust
+- Hudgell Solicitors
+- NHS Trust
+- Pink Justice Network
 ---
 
 A North East woman said she felt "sick to the stomach" after being told she had an unnecessary mastectomy under a scandal-hit NHS trust.

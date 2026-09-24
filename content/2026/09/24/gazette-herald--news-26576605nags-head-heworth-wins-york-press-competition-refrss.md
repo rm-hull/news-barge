@@ -13,6 +13,17 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21232662.jpg?type=og-image
+locations:
+- Heworth Road
+- SUBURBAN
+- The Nags Head
+- York
+people:
+- Ellie Hughes
+- Ryan Cooper
+organisations:
+- MND Association
+- Nags Head
 ---
 
 A SUBURBAN pub has been named York’s best, just a year after new management took over.

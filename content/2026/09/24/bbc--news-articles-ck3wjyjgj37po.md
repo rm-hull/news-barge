@@ -13,6 +13,29 @@ categories:
 - Society & Culture
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b31/live/276fdbc0-b768-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Chester County
+- Lancaster County
+- Pennsylvania
+- US
+people:
+- '## Kennedy'
+- Braxton Mitchell
+- Dale Weiser
+- Jeanne Franklin
+- Josh Shapiro
+- Robert F Kennedy Jr
+- Stephen Diamantoni
+- Trump
+- William Moss
+organisations:
+- BBC
+- Chester County Health Department
+- Department of Health and Human Services
+- Johns Hopkins Bloomberg School of Public Health
+- MMR
+- University of Maryland School of Medicine
+- Weiser
 ---
 
 ![A horse and buggy carriage drives by](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3b31/live/276fdbc0-b768-11f1-a7b2-f3bdba1cd194.jpg)

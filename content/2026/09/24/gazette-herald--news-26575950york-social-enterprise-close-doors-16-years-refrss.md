@@ -13,6 +13,27 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21493086.jpg?type=og-image
+locations:
+- A York
+- England
+- James Street
+- Raylor Centre
+- Remploy York
+people:
+- Chris Howden
+- Christine Beecroft
+- Dylan Connell
+- Emma Blunden
+- Frank Dwyer
+- Jerry Nelson
+- Jonathan Bonner
+- Mark Riley
+- Phil Davies
+organisations:
+- Dylan Connell
+- Dylan Connell)* Stock
+- GMB
+- York Disabled Workers Cooperative
 ---
 
 *(Image: Dylan Connell)*

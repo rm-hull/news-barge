@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/039d527b112fbe29199eafc3352b9a598801dfe9/1365_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed8deed096d3120839f189a5e6b95caa
+locations:
+- Berlin
+- Eastern Anatolia
+- Germany
+- Istanbul
+- Kreuzberg
+- Munich
+- New York
+- Turkey
+- US
+people:
+- Bernie Sanders
+- Die Linke
+- Elif Eralp
+- Friedrich Merz
+- Hülya
+- Selçuk
+- Zohran] Mamdani
+organisations:
+- AfD
+- Bundestag
+- CDU
+- Christian Democratic Union
+- Die Linke
+- Eralp
+- Greens
+- Social Democrats
+- University of Hamburg
 ---
 
 Elif Eralp launched her election bid last autumn with the blunt statement: “People like me are actually not supposed to become mayor in this country.” So the fact that the 45-year-old lawyer and daughter of political migrants from Turkey is on the verge of becoming Berlin’s next mayor and the capital’s first leader of Turkish origin is quite the moment in German politics.

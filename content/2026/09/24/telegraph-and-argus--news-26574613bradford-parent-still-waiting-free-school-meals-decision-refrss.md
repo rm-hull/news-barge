@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20226646.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- '## Council'
+- Bradford Council
+- Government
+- Newsquest
 ---
 
 *(Image: Newsquest)*

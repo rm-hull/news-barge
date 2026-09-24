@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/20218494.jpg?type=og-image
+locations:
+- North East
+- Reform Durham
+- United Kingdom
+people:
+- Andrew Husband
+- Nigel
+organisations:
+- Durham County Council
+- Lib Dems
+- Milburngate
+- NORTHERN ECHO
+- Reform-led Durham County Council
+- Villa Real Send
 ---
 
 *(Image: NORTHERN ECHO)*

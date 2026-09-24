@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/04/UN_General_Assembly_Kenya_89546.jpg?width=1200&height=800&crop=1200:800
+locations:
+- New York
+people:
+- Madina Okot
+- Mark Tatum
+- Rachel
+- William Ruto
+organisations:
+- Atlanta Dream
+- NBA Africa
+- New York
+- New York Liberty
+- No. 13
+- The Associated Press
+- United Nations General Assembly
+- WNBA
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

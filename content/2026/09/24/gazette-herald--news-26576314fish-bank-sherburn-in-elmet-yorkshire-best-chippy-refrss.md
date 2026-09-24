@@ -13,6 +13,27 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/13567357.jpg?type=og-image
+locations:
+- Dunnington
+- London
+- NORTH Yorkshire
+- Park Plaza Westminster Bridge
+- Popular York
+- Scrap Box
+- Sherburn-in-Elmet
+- UK
+people:
+- '![]()Gavin'
+- Aman Dhesi
+- Andrew Crook
+organisations:
+- Dunnington
+- Fish Bank
+- NFFF
+- National Federation of Fish Friers
+- National Fish & Chip Awards
+- The Scrap Box
+- York
 ---
 
 A NORTH Yorkshire chippy has been named among the UK's top 40 in a national awards competition.

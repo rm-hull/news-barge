@@ -14,6 +14,20 @@ categories:
 - True Crime
 - Science
 image: https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef4c53a3f2d3e2e5ad8f7b82335da612
+locations:
+- England
+- UK
+people:
+- Bryan Williams
+- Iain Turnbull
+- Wenyu Liu
+organisations:
+- BMJ Public Health
+- British Heart Foundation
+- GP
+- Our Future Health
+- Oxford Population Health
+- Oxford University
 ---
 
 Only half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals.

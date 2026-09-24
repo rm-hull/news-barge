@@ -13,6 +13,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/02/2026-09-02T015711Z_99361852_RC2PANA99HE6_RTRMADP_3_IRAN-CRISIS-THAILAND-USA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Abraham Lincoln
+- D-N.Y.
+- Guam
+- Iran
+- Middle East
+- San Diego
+- Sen
+- Thailand
+- U.S.
+people:
+- Abraham Lincoln
+- Hegseth
+- Hung Cao
+- Kirsten Gillibrand
+- Trump
+organisations:
+- Acting Navy
+- CBS News
+- CNN
+- Pentagon
+- U.S. Navy
+- US Navy
+- USS Abraham Lincoln
+- USS George Washington
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

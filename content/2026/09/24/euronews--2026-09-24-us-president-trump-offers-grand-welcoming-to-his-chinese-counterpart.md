@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/55/03/1200x675_cmsv2_ac214796-3973-5500-813a-7eab27dbb9f3-9925503.jpg
+locations:
+- America
+- China
+- D.C
+- Florida
+- Iran
+- Oval Office
+- Taiwan
+- US
+- Washington
+- White House
+people:
+- '## Xi'
+- Bessent
+- Donald Trump
+- Marco Rubio
+- Peng Liyuan
+- Roger Wicker
+- Xi Jinping
+organisations:
+- Chinese Communist Party
+- Fox News Channel
+- Joint Base Andrews
+- National Archives
+- Senate Armed Services Committee
+- Treasury
+- US Declaration of Independance
 ---
 
 ## In comments released by Chinese state media Xi also said that he was looking "forward to in-depth exchanges with President Trump on major issues concerning our bilateral relations and the global situation,".

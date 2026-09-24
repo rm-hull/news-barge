@@ -11,6 +11,21 @@ description: Nikon's new Z5 II C is a viewfinder-less version of the entry-level
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/gLd8AGTmvcKTTA9aTa6UbR-2500-80.jpg
+locations:
+- Kenya
+- Nairobi
+- US
+people:
+- Ricci Chera
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Google News
+- Nikon UK
+- TechRadar
+- Z5 II C
 ---
 
 ![Red-haired woman with bright red coat holding the Nikon Z5 II C mirrorless camera, she&#039;s frame by a window and blue wall](https://cdn.mos.cms.futurecdn.net/gLd8AGTmvcKTTA9aTa6UbR.jpg)

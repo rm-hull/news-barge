@@ -12,6 +12,21 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/24/00/Idaho_Cold_Case_Tylenol_Killings_8295_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Boise
+- Chicago
+- Florida
+- Idaho
+- Illinois
+- Jacksonville
+people:
+- James Lewis
+- Mathew Francis Betkouski
+- Tim Cooper
+organisations:
+- Ada County Sheriff’s Office
+- Chicago Police Department
+- Johnson & Johnson
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

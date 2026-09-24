@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/16996453.jpg?type=og-image
+locations:
+- Naburn Lane
+- River Ouse
+- YOUR
+- York
+- Yorkshire
+people:
+- Lucie Arger
+organisations:
+- City of York Council
+- Naburn Wastewater Treatment Works
+- Public Notice Portal
+- Yorkshire Water
+- Yorkshire Water Project
 ---
 
 ## 'Critical' works planned for major York infrastructure in £35m scheme

@@ -13,6 +13,40 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/05/Black_Smithsonian_Anniversary__2198.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Capitol Hill
+- Emmett Till
+- Greensboro
+- Maryland
+- National Mall
+- Pennsylvania
+- Potomac River
+- Smithsonian
+- The Wharf
+- U.S.
+- Washington Channel
+- Williamsport
+people:
+- Barack Obama
+- Blacksonian
+- Donald Trump
+- Jaina Dotson
+- John Roberts
+- Lonnie G. Bunch III
+- Shallary Duncan
+- Shanita Brackett
+- Stevie Wonder
+organisations:
+- American History Museum
+- Civil Rights movement
+- Congress
+- Interior Department
+- Museum of African American History and Culture
+- National Museum of African American History and Culture
+- Smithsonian
+- Supreme Court
+- Tuskegee University
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

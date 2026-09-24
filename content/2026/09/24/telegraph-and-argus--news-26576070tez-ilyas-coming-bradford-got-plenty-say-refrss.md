@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://www.thetelegraphandargus.co.uk/resources/images/19347416.jpg?type=og-image
+locations:
+- Bradford
+- St George's Hall
+people:
+- Ilyas
+organisations:
+- Sunday Times
+- TEZ Ilyas
 ---
 
 *(Image: T&A)*

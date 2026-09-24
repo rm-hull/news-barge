@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/78cb7eee8e74de84b09b979e0be92c6e48255169/196_0_2935_2348/master/2935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bb429d90672140f893662622fa6a749
+locations:
+- China
+- South Lawn
+- US
+- White House
+people:
+- Donald Trump
+- Melania Trump
+- Xi Jinping
+organisations:
+- AI and Data Centers
+- Apple
+- Fox & Friends
+- Joint Base Andrews
+- Meta
+- Microsoft
+- National Archives
+- Nvidia
+- OpenAI
+- Truth Social
+- xAI
 ---
 
 Donald Trump welcomed Xi Jinping to the US on Wednesday evening at the tarmac at Joint Base Andrews, an unusually generous meeting to kick off the Chinese president’s state visit.

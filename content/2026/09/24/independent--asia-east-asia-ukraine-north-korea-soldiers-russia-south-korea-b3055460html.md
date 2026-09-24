@@ -13,6 +13,30 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/00/2296802071..?width=1200&height=800&crop=1200:800
+locations:
+- Ankara
+- Kursk
+- Moscow
+- North Korea
+- Pyongyang
+- Republic of Korea
+- Russia
+- South Korea
+- US
+- Ukraine
+people:
+- Kim Jong Un
+- Lee Jae Myung
+- Volodymyr Zelensky
+organisations:
+- KCNA
+- Kyiv Independent
+- NK News
+- National Intelligence Service
+- Nato
+- UN
+- United Nations General Assembly
+- Yonhap
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

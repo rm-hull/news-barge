@@ -13,6 +13,18 @@ categories:
 - Music
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/66480e08115c62710a5c25c4afda2a7ae72bde78/398_0_3976_3181/master/3976.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a612e3da40ce9baf4eba8183d2ff1e0
+locations:
+- Los Angeles
+- MacArthur Park
+- US
+- Yukon
+people:
+- Bill Essayli
+- Daisies
+- Justin Bieber
+- Karen Bass
+- Nathan Hochman
+organisations: []
 ---
 
 With no announcement and little fanfare, Justin Bieber performed a free acoustic set on Monday at a Los Angeles park often in local headlines for less cheery reasons.

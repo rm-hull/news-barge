@@ -13,6 +13,14 @@ categories:
 - Sports
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/801a/live/bba851a0-b790-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Britain
+- UK
+people:
+- Jonathon Beale
+organisations:
+- BBC
+- Royal Air Force
 ---
 
 # Watch: The arms race in space and how the UK is defending itself

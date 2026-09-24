@@ -13,6 +13,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/56/54/1200x675_cmsv2_e1cabd86-6974-55ff-9779-ffa29be0ae70-9925654.jpg
+locations:
+- Australia
+- Essence
+- Hong Kong
+- Iran
+- Italy
+- Japan
+- Middle East
+- Paris
+- South Korea
+- Turin
+- US
+- Wall Street
+people:
+- Michael Barr
+organisations:
+- Aviation Capital Group Livery
+- Bank of Japan
+- Fed
+- Federal Reserve
+- Shanghai Composite
+- Treasury
 ---
 
 ## Shares were trading mixed early on Thursday morning, as investors tried to digest the recent swings in oil prices and the US bond market.

@@ -12,6 +12,27 @@ categories:
 - Self-Improvement
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/24/03/UN_General_Assembly_Italy_3_79.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Andorra
+- Botswana
+- Burundi
+- East and Southeast Asia
+- Japan
+- Pacific
+- Palau
+- Paraguay
+- Taiwan
+people:
+- Duma Boko
+- Santiago Peña
+- Surangel Whipps Jr.
+- Xavier Espot Zamora
+- Évariste Ndayishimiye
+organisations:
+- General Assembly
+- The Associated Press
+- U.N.
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

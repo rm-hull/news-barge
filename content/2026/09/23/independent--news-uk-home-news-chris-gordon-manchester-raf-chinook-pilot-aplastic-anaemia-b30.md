@@ -13,6 +13,19 @@ categories:
 - Science
 - History
 image: https://static.independent.co.uk/2026/09/23/16/01M36EAYSB3DRBDN39W85TBDS6.jpg?trim=84,0,84,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Los Angeles
+- Manchester
+people:
+- Bronagh Hughes
+- Chris Gordon
+- Jonathan
+- Mr Gordon
+organisations:
+- DKMS
+- Distinguished Flying Cross
+- RAF
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

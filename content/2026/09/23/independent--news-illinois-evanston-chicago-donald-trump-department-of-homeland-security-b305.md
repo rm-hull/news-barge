@@ -13,6 +13,35 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/00/Immigration_Wrong_Target_Illinois_4_19_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Austin
+- Chicago
+- Evanston
+- Florida
+- Illinois
+- Maine
+- Minneapolis
+- St. Francis Hospital
+- Texas
+- U.S.
+people:
+- Alex Pretti
+- Daniel Biss
+- Donald Trump
+- Jan Schakowsky
+- Michael Lipson
+- Renee Good
+- Ryan Garton
+- \_\_\_ Mayes-Osterman
+organisations:
+- AP
+- Department of Homeland Security
+- Evanston Police Department
+- ICE
+- Report for America Statehouse News Initiative
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

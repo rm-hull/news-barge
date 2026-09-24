@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a4dc/live/9936a4d0-b783-11f1-b3b9-2dc27b32a5b3.jpg
+locations:
+- Argentina
+- Azteca Stadium
+- Barcelona
+- England
+- France
+- La Liga
+- Newcastle
+- Spain
+- St George's Park
+people:
+- '## Gordon'
+- Anthony Gordon
+- Enzo Fernandez
+- Jarell Quansah
+- Lautaro Martinez
+- Lionel Messi
+- Relive Gordon
+- Thomas Tuchel
+organisations:
+- Argentina
+- Barcelona
+- England
+- France
+- Mexico
+- Spain
+- Three Lions
+- Wembley
 ---
 
 ![A smiling Anthony Gordon, in a blue zip-up top, sits by a microphone at an England news conference](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a4dc/live/9936a4d0-b783-11f1-b3b9-2dc27b32a5b3.jpg)

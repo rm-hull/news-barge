@@ -10,6 +10,25 @@ description: Meta is coming for the Vision Pro's lunch
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-2560-80.jpg
+locations: []
+people:
+- Hamish Hector
+- Stormbreaker
+- Thor
+organisations:
+- Apple Vision Pro
+- Google News
+- Hamish
+- Meta Connect
+- Meta VR Glasses
+- PPD
+- RAM
+- Samsung Galaxy XR
+- Samsung’s Galaxy XR
+- TechRadar
+- VR Glasses
+- Vision Pro
+- Xreal
 ---
 
 ![The Meta VR Glasses](https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J.jpg)

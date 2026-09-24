@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489596.jpg?type=og-image
+locations:
+- Bradford
+- Keighley
+people:
+- Adam Riley
+- Lee Bloomfield
+organisations:
+- HouseProud North
+- LGBTQ
+- MHA
+- Manningham Housing Association
+- Stonewall Housing
 ---
 
 *(Image: Adam Riley)*

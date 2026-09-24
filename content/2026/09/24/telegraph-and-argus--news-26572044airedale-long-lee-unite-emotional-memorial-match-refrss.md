@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487191.jpg?type=og-image
+locations:
+- Airedale Oval
+- Manorlands
+people:
+- Adam Brookfield
+- Alec Pue
+- Aleem Khan
+- Archie Dobson
+- Asher Nutting
+- Bill Marshall
+- Calum Davies
+- Chloe Feather
+- Danny Wood
+- Frazer Atkinson
+- Has Haider
+- James Wilkinson
+- Jamie Robinson
+- Jan Haider
+- Long Lee
+- Matthew Stowell
+- Michael Clayton
+- Nad Khan
+- Nadeem Yousuf
+- Oliver Hird
+- Paul Stowell
+- Paul Wilkinson
+- Phillip Atkinson
+- Ralph Barraclough
+- Richard Ayrton
+- Stephen Bond
+- Tilaat Ahmed
+- Trevor Cox
+organisations:
+- AIREDALE Cricket Club
+- Airedale
+- Facebook
+- Long Lee
+- Oxenhope
+- Pancreatic Cancer UK
+- Sue Ryder Manorlands Hospice
 ---
 
 AIREDALE Cricket Club have said goodbye to one of their own in style, **writes Bill Marshall**.

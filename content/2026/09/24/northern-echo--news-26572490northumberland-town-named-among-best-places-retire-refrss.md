@@ -14,6 +14,33 @@ categories:
 - Arts & Culture
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21487894.jpg?type=og-image
+locations:
+- Alnwick Castle
+- Alnwick Garden
+- Bailiffgate Museum
+- County Durham
+- England
+- Grand Cascade
+- Mumbai
+- North Sea
+- Northumberland
+- Poison Garden
+- Rose Garden
+- The Alnwick Garden
+- UK Yorkshire
+people:
+- Barnard Castle
+- Percy
+- Robin Hood
+organisations:
+- Barter Books
+- Di Sopra
+- Downton Abbey
+- Grannies Tea Room
+- Harry Potter
+- Prince of Thieves
+- Rightmove
+- World Atlas
 ---
 
 A market town in Northumberland has been named one of the best places to retire to in England.

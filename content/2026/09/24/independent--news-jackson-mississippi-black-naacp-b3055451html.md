@@ -15,6 +15,19 @@ categories:
 - True Crime
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/24/05/Nolan_Wells_49225.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Deep South
+- Mississippi
+people:
+- Ben Crump
+- Christine Wonsley
+- Nolan Wells’
+- Wells
+- Wells'
+organisations:
+- NAACP
+- U.S. Justice Department
+- Wells’
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

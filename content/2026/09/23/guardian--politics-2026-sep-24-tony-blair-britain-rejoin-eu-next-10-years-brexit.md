@@ -11,6 +11,29 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/4dbc8fb2d4422331ec4389b62becb2d99cb02c84/899_239_4361_3488/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f5e824edce90a5beb432d6ffda86943
+locations:
+- Britain
+- Brussels
+- Europe
+- Saudi Arabia
+- UK
+people:
+- Andy Burnham
+- Larry Ellison
+- Lisa Nandy
+- Tony Blair
+- Wes Streeting
+organisations:
+- Best for Britain
+- Brexit
+- EU
+- European Union
+- Guardian
+- Labour
+- Reform UK
+- TBI
+- Tony Blair Institute
+- YouGov
 ---
 
 Britain should work towards rejoining the EU in the next decade, Tony Blair has said, adding to growing pressure on Andy Burnham to abandon Labour’s reluctance to revisit the 2016 referendum.

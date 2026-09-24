@@ -14,6 +14,21 @@ categories:
 - Health & Fitness
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21493639.jpg?type=og-image
+locations:
+- North Yorkshire
+- Whixley
+- York
+people:
+- Dan Leeder Limited
+- Daniel James Leeder
+organisations:
+- Capital on Tap
+- Companies House
+- HMRC
+- New Wave Capital
+- North Yorkshire Council
+- Parker Walsh Ltd
+- Statement of Affairs
 ---
 
 *(Image: Street View)*

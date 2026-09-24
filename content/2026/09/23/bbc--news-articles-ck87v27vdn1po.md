@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg
+locations:
+- China
+- Hugging Face
+- OpenAI
+- San Francisco
+- US
+people:
+- Clement Delangue
+- Dario Amodei
+- Donald Trump
+- Face
+- Michael Kratsios
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Hugging Face
+- Nvidia
+- OpenAI
+- UN
+- US Security Council
+- Uber
 ---
 
 ![Sam Altman of OpenAI sitting before the US Security Council wearing a suit and tie while listening to a translation of comments.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg)

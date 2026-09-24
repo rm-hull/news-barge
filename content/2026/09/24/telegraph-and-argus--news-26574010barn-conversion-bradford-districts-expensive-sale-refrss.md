@@ -14,6 +14,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21490210.jpg?type=og-image
+locations:
+- Ashdown Jones
+- Bradford
+- Highgate
+- Settle
+- Stackhouse Lane
+people: []
+organisations:
+- Accerhill Hall
+- Brickview.ai
+- Land Registry
+- Rightmove
 ---
 
 A BARN conversion has fetched more than £1 million, making it the most expensive property sold in the Bradford district this year.

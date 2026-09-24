@@ -16,6 +16,37 @@ categories:
 - Film & TV
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRlNTU2YTM2LWIzZGYtNGYzMy1iYzliLWNhNTMwNzg3MmNjZDplNjNlM2QzYS05MjIyLTRhNTMtOGIzMC00NDZiYjIwYjNkNmY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Manchester
+- UK
+- Wakefield
+people:
+- David Clayton
+- David Clayton.
+- Faith
+- Ian West
+- Laura Reid
+- Owen Cooper
+- Sarah Marshall
+- Wakefield
+organisations:
+- Ackley Bridge
+- EastEnders
+- Experience Wakefield and Production Park
+- Film Wakefield
+- James Bond
+- Leeds
+- Liverpool
+- Policelot
+- Skyfall
+- The Repair Shop
+- The Yorkshire Post
+- The Yorkshire Vet
+- Trigger Point
+- Vigil
+- WX
+- Wakefield Council
+- Yorkshire-filmed Adolescence
 ---
 
 # Film Wakefield: 'I've supplied police props and costumes for TV and film for 30 years, now I'm helping to put Wakefield on the map for screen production'

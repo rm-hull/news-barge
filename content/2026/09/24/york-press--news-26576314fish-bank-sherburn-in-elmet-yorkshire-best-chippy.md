@@ -12,6 +12,34 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/13567357.jpg?type=og-image
+locations:
+- '## North Yorkshire'
+- Dunnington
+- Elmet
+- London
+- Park Plaza Westminster Bridge
+- Popular York
+- Scrap Box
+- Sherburn
+- Sherburn-in-Elmet
+- UK
+people:
+- '![]()Gavin'
+- Aman Dhesi
+- Andrew Crook
+- Jonathan France
+- Karen Culkin
+- Melissa Meachen
+organisations:
+- Dunnington
+- Fish Bank
+- NFFF
+- NORTH Yorkshire
+- National Federation of Fish Friers
+- National Fish & Chip Awards
+- The Fish Bank
+- The Scrap Box
+- York
 ---
 
 ## North Yorkshire fish and chip shop named among in the top in the country

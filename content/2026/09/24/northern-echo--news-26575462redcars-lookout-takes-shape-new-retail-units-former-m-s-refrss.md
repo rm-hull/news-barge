@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21492485.jpg?type=og-image&xType=0&yType=58
+locations:
+- East Cleveland
+- North East
+- Redcar Central
+- Teesside
+- YOUR
+people:
+- Lynn Pallister
+organisations:
+- Cleveland Borough Council
+- Public Notice Portal
+- Redcar & Cleveland Borough Council
+- Tees Valley Combined Authority
+- The Lookout
 ---
 
 ### What is the Public Notice Portal?

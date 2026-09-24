@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/76423c46979c6d2e406dc6f1d6582af2acd86e2b/0_44_763_610/master/763.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc2043c3a0c1e8240463d2db74d1ed93
+locations:
+- Baird’s Paddington
+- Miranda Westfield
+- Sydney
+people:
+- Beau Lamarre-Condon
+- Brett Hatfield SC
+- Davies’
+- Jesse Baird
+- Luke Davies
+- Natalie Adams
+- Sasha Pinazza
+- Tesla
+organisations:
+- CCTV
+- NSW
 ---
 
 Beau Lamarre-Condon was seen sizing up a surfboard bag used to dispose of a victim days before the police officer murdered two men, prosectors have alleged in a Sydney court, with chilling CCTV footage shown to the jury.

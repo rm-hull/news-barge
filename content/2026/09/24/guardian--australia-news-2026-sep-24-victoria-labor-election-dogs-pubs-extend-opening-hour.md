@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://i.guim.co.uk/img/media/9bb353238195b29e588c0c55e482ce9ffa881164/2_0_6122_4900/master/6122.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=570a34d97485c89daf9a86fe1b915ffb
+locations:
+- Europe
+- Melbourne
+- Royal Botanic Gardens
+- Victoria
+people:
+- Anna
+- Carroll
+- Charles Cavaliers
+- Daisy
+- Gemma
+- Jess Wilson
+- Kimberley Malcolm
+- Mack
+- Mickey
+- Paul
+- Pebbles
+- Phillip
+- Rupert
+- Steph
+- Zeke
+organisations:
+- Australia Hotels Association
+- Coalition
+- Guardian Australia
+- Labor
 ---
 
 For Steph and her partner Paul, there’s something special about a pub in the British winter.

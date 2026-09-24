@@ -12,6 +12,37 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/01/F-35_Parts_China_6783_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Australia
+- Beijing
+- China
+- Hong Kong
+- Texas
+- U.S.
+- United States
+- Washington
+people:
+- Bradley Bowman
+- Didi Tang
+- Donald Trump
+- Richard Marles
+- Xi Jinping
+- Yeah
+organisations:
+- AP
+- Associated Press
+- Bloomberg
+- Center on Military and Political Power
+- Congressional Research Service
+- Defense Department
+- Defense Science Board
+- F-35 Joint Program Office
+- Foundation for Defense of Democracies
+- Lockheed Martin
+- Pentagon
+- Politico
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -13,6 +13,28 @@ categories:
 - Self-Improvement
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- Germany
+- Netherlands
+- Sweden
+- UK
+people:
+- Beth Malory
+- Brooke Vandermolen
+- Dikke van Dale
+- Dolle Mina
+- Ella Kipling
+- Esther Van der Valk
+- Gunda Windmüller
+- Mithu Sanyal
+- Nicola Denson-Elliott
+- Shari Klein
+- Sonja Ghaderi
+- Ton den Boon
+organisations:
+- Malory
+- RFSU
+- Royal College of Midwives
 ---
 
 ![A person with brown hair, holding a mic smiling. She wears red trousers and a blue shirt. She also has a merkin - or pubic hair wig - over her clothes. Behind her is a large blue and orange cloth sign used on a march to celebrate a new Dutch word for labia. ](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/ba78/live/04167420-ab80-11f1-8e51-e5fcf5842a15.jpg)

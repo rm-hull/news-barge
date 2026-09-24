@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b395/live/14c24a80-b79a-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Anglesey
+- BBC
+- Dolgellau
+- England
+- France
+- Gwynedd
+- Hawk
+- Machynlleth Loop
+- Pencarnisiog
+- Powys
+- RAF Valley
+- Scotland
+- US
+- Wales
+people:
+- Mikey Kay
+organisations:
+- BAe Systems
+- BBC Security
+- Caergeiliog
+- Hawks
+- Le Touquet Airshow
+- Ministry of Defence
+- North Wales Police
+- RAF
+- Red Arrows
 ---
 
 Moment pilots eject as RAF jet crashes in Anglesey

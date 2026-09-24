@@ -10,6 +10,26 @@ description: Tether built tiny translation models for phones, and one African ve
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/A5ZrYAQqb4wSUm4tLAHqdb-1920-80.png
+locations:
+- Luganda
+- Nyanja
+- Shona
+- Southern Sotho
+- Sub-Saharan Africa
+- Wolof
+people:
+- Paolo Ardoino
+- Tether
+organisations:
+- AfriSLM
+- Efosa
+- Google News
+- LLM
+- QVAC MedPsy
+- QVAC TranslatePsy-EuroNano
+- Qwen3.5-122B-A10B
+- TechRadar Pro
+- Tether AI Research
 ---
 
 ![Tether QVAC TranslatePsy-AfriSLM](https://cdn.mos.cms.futurecdn.net/A5ZrYAQqb4wSUm4tLAHqdb.png)

@@ -11,6 +11,24 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/last-leaf-furniture.webp
+locations:
+- Bootham
+- Flaxton
+- Trafalgar Square
+- York
+people:
+- Sam Parkin
+organisations:
+- Blue House Bookshop
+- Bootham
+- Christchurch College Oxford
+- Instagram
+- Last Leaf
+- Last Leaf Furniture
+- London College of Furniture
+- London Metropolitan University
+- Ripon Cathedral
+- St Martin
 ---
 
 A brand new furniture showroom is set to open in York.

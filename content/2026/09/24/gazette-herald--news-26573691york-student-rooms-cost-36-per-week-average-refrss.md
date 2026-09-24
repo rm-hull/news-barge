@@ -14,6 +14,15 @@ categories:
 - Personal Finance & Investing
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/20817067.jpg?type=og-image
+locations:
+- UK
+- York
+people:
+- Simon Thompson
+organisations:
+- Accommodation for Students
+- University of York
+- York St John University
 ---
 
 York students pay nearly £1,600 more than the national average for accommodation, according to new research released as thousands return for the new academic year.

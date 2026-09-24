@@ -15,6 +15,41 @@ categories:
 - Arts & Culture
 - Religion & Spirituality
 image: https://static.independent.co.uk/2026/09/24/02/China_Wudang_Sacred_Mountain__9975.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- China
+- Forbidden City
+- Golden Hall
+- Hebei
+- Inner Mongolia
+- Prince Slope
+- Taizipo
+- The Forbidden City
+- Tianzhu Peak
+- Wudang Wudang
+- Zixiao Palace
+people:
+- Cai Hongping
+- Dong Tian Fu Di
+- Heaven
+- Ji Jiaxin
+- Liu Haiyan
+- Ming
+- Qing
+- Shu Chenghai
+- Wang Xia
+- Wu Jia
+- Wudang
+- Yuan
+- Zhenwu
+- Zhu Di
+organisations:
+- Lilly Endowment Inc
+- The Conversation US
+- World Cultural Heritage
+- Wudang Museum
+- \_\_\_ AP
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

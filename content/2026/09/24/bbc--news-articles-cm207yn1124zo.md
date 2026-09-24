@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6532/live/62e4fab0-b77b-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Bristol
+- Buckingham Palace
+- Cambridgeshire
+- NHS
+- Nottingham
+- Southmead Hospital
+- Southport
+people:
+- Barnaby Webber
+- Grace O'Malley Kumar
+- Ian Coates
+- Jim Mackey
+- Oliver McGowan
+- Paula McGowan
+- Prof Steve Hams
+- Tom McGowan
+organisations:
+- BBC
+- Bristol Foundation NHS Trust
+- Bristol NHS Foundation Trust
+- GMC
+- General Medical Council
+- Health Services Journal
+- NHS England
 ---
 
 ![Oliver McGowan, wearing a purple t-shirt with a logo, is standing outside Buckingham Palace. He is starring at his mother Paula McGowan who is standing next to him and wearing a dark blue polka dot dress and sunglasses. She is playfully sticking her tongue out at her son and he is laughing.](https://ichef.bbci.co.uk/ace/standard/781/cpsprodpb/6532/live/62e4fab0-b77b-11f1-bc1f-3f186ca4140c.jpg)

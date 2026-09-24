@@ -13,6 +13,18 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21490184.jpg?type=og-image&xType=0&yType=81
+locations:
+- Fountains Walk
+- Ripon
+people:
+- Arthur
+- Claire Rowett
+- Nicki Hope
+- Taylor Wimpey
+organisations:
+- Moorside Primary School
+- Taylor Wimpey
+- Taylor Wimpey North Yorkshire
 ---
 
 *(Image: Supplied)*

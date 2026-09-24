@@ -13,6 +13,20 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21493888.jpg?type=og-image
+locations:
+- Acomb
+- The Carlton Tavern
+- York
+people:
+- Jeff Clark
+- Sharon McDonagh
+- Sola
+organisations:
+- Art of Protest
+- Board Meeting
+- RARE Collective
+- SASH
+- The Board Meeting
 ---
 
 *(Image: Supplied)*

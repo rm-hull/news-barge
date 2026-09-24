@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487352.jpg?type=og-image
+locations:
+- Burley-in-Wharfedale
+- Guiseley
+- Ilkley
+- Leeds
+- Otley
+- West Yorkshire
+people:
+- Anna Dixon
+- Colin Speakman
+- Elisabeth Jennings
+- Otley
+- Tracy Brabin
+organisations:
+- Action for Yorkshire Transport
+- Burley-in-Wharfedale
+- First Bus
+- UGC
+- WYCA
+- Weaver Network
+- West Yorkshire Combined Authority
 ---
 
 *(Image: UGC)*

@@ -12,6 +12,18 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21491406.jpg?type=og-image
+locations:
+- Beverley
+- East Riding
+- East Yorkshire
+- Old School House
+- The Old School House
+people:
+- Jonathan Owen
+organisations:
+- CQC
+- Care Quality Commission
+- East Riding of Yorkshire Council
 ---
 
 *(Image: Supplied)*

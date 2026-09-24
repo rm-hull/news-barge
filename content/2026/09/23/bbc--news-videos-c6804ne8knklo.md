@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92fa/live/b4540960-b7a1-11f1-ba14-197cc9acea52.jpg
+locations:
+- America
+- US
+people:
+- Bernd Debusmann
+- How Trump
+- Xi Donald Trump
+- Xi Jinping
+organisations:
+- BBC
+- Joint Base Andrews
 ---
 
 # A red carpet and military flyover - How Trump welcomed Xi

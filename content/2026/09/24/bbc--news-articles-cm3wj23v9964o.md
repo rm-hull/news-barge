@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce2d/live/5520d250-b5d2-11f1-8c16-65d8f060d73f.jpg
+locations:
+- Brentgovel Street
+- Bury St Edmunds
+- Cambridge
+- Cambridgeshire
+- Cenotaph
+- Dunfermline
+- Fife
+- Horseshoe
+- London
+- Milton
+- Scotland
+- Suffolk
+people:
+- '"[Corrie'
+- Airman Corrie
+- April Oliver
+- Biffa
+- CORRIE MCKEAGUE
+- Corrie Mckeague
+- Corrie Mckeague **"We
+- Darroch
+- Ellie While Nicola
+- Greggs
+- Nicola Urquhart
+organisations:
+- BBC
+- Biffa
+- CCTV
+- Cheers
+- Cleah Hetherington
+- Corrie
+- McDonald's
+- Police Scotland
+- RAF Honington
+- Suffolk Coroner's Court
+- Suffolk Police
 ---
 
 ![A head and shoulders image of a woman who is looking directly into the camera. She has glasses resting on the top of her head.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ce2d/live/5520d250-b5d2-11f1-8c16-65d8f060d73f.jpg)

@@ -12,6 +12,17 @@ categories:
 - York
 - Education & Learning
 image: https://www.yorkpress.co.uk/resources/images/21490471.jpg?type=og-image
+locations:
+- Catterick
+- Great North Children’s Hospital
+- Newcastle
+- North Yorkshire
+people:
+- George
+- Lucy
+- Rachel Davies
+- Tom Davies
+organisations: []
 ---
 
 *(Image: Supplied)*

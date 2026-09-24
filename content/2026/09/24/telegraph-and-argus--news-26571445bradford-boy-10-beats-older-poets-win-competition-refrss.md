@@ -13,6 +13,21 @@ categories:
 - Arts & Culture
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486410.jpg?type=og-image
+locations:
+- Bradford
+- Kirkgate Community Centre
+- Manningham
+- River Aire
+- Saltaire
+- Shipley
+people:
+- Abdullah Ouedraogo
+- Ajaib
+- Ayaan Irfan
+organisations:
+- Lilycroft Primary School
+- Margaret McMillan Primary School
+- The Priestley Academy Trust
 ---
 
 *(Image: Supplied)*

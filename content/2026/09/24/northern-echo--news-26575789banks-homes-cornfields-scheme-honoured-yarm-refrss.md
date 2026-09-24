@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21493636.jpg?type=og-image
+locations:
+- County Durham
+- North East
+- The Cornfields
+- UK
+- YOUR
+- Yarm
+people:
+- Dan Hodgson
+- Joe Cable
+organisations:
+- Banks Group
+- Banks Homes
+- Banks Homes team
+- Homes’ Cornfields
+- Premier Design
+- Premier Guarantee
+- Public Notice Portal
+- The Cornfields
 ---
 
 *(Image: Banks Homes)*
