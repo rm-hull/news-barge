@@ -31,12 +31,12 @@ jobs:
 
       - name: Lint (ruff check)
         working-directory: ./scraper
-        run: uv run ruff check scrape.py backfill_categories.py
+        run: uv run ruff check *.py
 
       - name: Format check (ruff format)
         working-directory: ./scraper
-        run: uv run ruff format --check scrape.py backfill_categories.py
+        run: uv run ruff format --check *.py
 
       - name: Type check (mypy)
         working-directory: ./scraper
-        run: uv run mypy scrape.py backfill_categories.py
+        run: uv run mypy *.py
