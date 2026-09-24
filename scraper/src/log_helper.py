@@ -6,6 +6,8 @@ from __future__ import annotations
 
 import os
 import sys
+from collections.abc import Generator
+from contextlib import contextmanager
 
 
 class SiteLogger:
@@ -44,13 +46,14 @@ def report_error(message: str, logger: SiteLogger | None = None) -> None:
         print(formatted_msg, file=sys.stderr)
 
 
-def report_group_start(name: str) -> None:
-    """Starts a GitHub Actions log group."""
-    if os.environ.get("GITHUB_ACTIONS") == "true":
+@contextmanager
+def report_group(name: str) -> Generator[None]:
+    """Context manager for GitHub Actions log groups."""
+    in_github_actions = os.environ.get("GITHUB_ACTIONS") == "true"
+    if in_github_actions:
         print(f"::group::{name}")
-
-
-def report_group_end() -> None:
-    """Ends a GitHub Actions log group."""
-    if os.environ.get("GITHUB_ACTIONS") == "true":
-        print("::endgroup::")
+    try:
+        yield
+    finally:
+        if in_github_actions:
+            print("::endgroup::")

@@ -46,8 +46,7 @@ from fetchers import (
 from log_helper import (
     SiteLogger,
     report_error,
-    report_group_end,
-    report_group_start,
+    report_group,
 )
 from pipeline import process_article
 
@@ -353,12 +352,7 @@ async def main_async(args: argparse.Namespace) -> None:
         if not logger.logs:
             continue
 
-        if os.environ.get("GITHUB_ACTIONS") == "true":
-            report_group_start(f"Site: {logger.site_name} ({logger.site_slug})")
-            for line in logger.logs:
-                print(line)
-            report_group_end()
-        else:
+        with report_group(f"Site: {logger.site_name} ({logger.site_slug})"):
             for line in logger.logs:
                 print(line)
 
