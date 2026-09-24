@@ -1,0 +1,47 @@
+---
+title: Rate rise ‘increasingly likely’ if energy prices remain high
+source_url: https://www.independent.co.uk/news/business/bank-of-england-interest-rates-energy-prices-b3055677.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-24T13:31:11Z'
+published: '2026-09-24T00:00:00Z'
+description: The Bank has predicted that inflation will increase to around 3.7 per
+  cent in the fourth quarter of this year
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+image: https://static.independent.co.uk/2026/09/24/12/2287613316..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+A rise in interest rates by the Bank of England is looking “increasingly likely” if energy prices remain high, a deputy governor at the central bank has said.
+
+Clare Lombardelli said during a speech in Warsaw that energy price pressure could drive rate-setters to tighten fiscal policy unless there is particular weakness in the economy.
+
+Ms Lombardelli, who has been a deputy governor at the Bank since 2024, was one of the six-to-three majority who voted to maintain UK interest rates at 3.75 per cent earlier this month.
+
+On Thursday, she said: “The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.
+
+“On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity.”
+
+![UK interest rates to September 2026](https://static.independent.co.uk/2026/09/24/10/c074d5a6cf617fb4b6b87de2c981c0abY29udGVudHNlYXJjaGFwaSwxNzkwMzI4ODY2-2.85883157.jpg)
+
+She added: “The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission.
+
+“That, ultimately, is what will determine whether the Bank rate needs to rise.”
+
+It comes after inflation lifted to a five-month high of 3.1 per cent last month, moving further away from the Bank’s 2 per cent target rate.
+
+Inflation is widely to predicted to keep rising over the coming months as higher energy costs continue to filter through, with households set to witness a roughly 4 per cent rise in the energy price cap from next week.
+
+The Bank has predicted that inflation will increase to around 3.7 per cent in the fourth quarter of this year and 4.2 per cent in the first quarter of 2027.
+
+![Clare Lombardelli said during a speech in Warsaw that energy price pressure could drive rate-setters to tighten fiscal policy unless there is particular weakness in the economy.](https://static.independent.co.uk/2026/09/24/10/0d48a1b57f2536c8129701a6e8a0444aY29udGVudHNlYXJjaGFwaSwxNzkwMzI3NDU2-2.85880964.jpg)
+
+Ms Lombardelli said: “There remains material uncertainty about the size and duration of the shock and how it will pass through the economy.
+
+“But the larger the energy shock becomes and the longer it persists, the more likely it is that we will eventually see significant pass-through of higher energy costs to other prices.”
+
+She also pointed towards a predicted rise in food price inflation as manufacturers pass higher energy costs on to consumers.
+
+Food inflation recently hit a two-year-low of 1.3 per cent but is predicted to move towards 4 per cent in the first quarter of next year, according to the Bank.

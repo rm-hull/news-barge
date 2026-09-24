@@ -1,0 +1,44 @@
+---
+title: Venus May Have Devoured Its Moon
+source_url: https://www.wired.com/story/venus-may-have-devoured-its-moon/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-09-24T13:32:14Z'
+published: '2026-09-24T00:00:00Z'
+description: 'One of the great mysteries in astronomy has been why Venus has no moon.
+  Now a new theory provides a simple answer: It might have been eaten.'
+categories:
+- Technology & Software
+- Science
+image: https://media.wired.com/photos/6ab40967bd39df2bc999c8fd/191:100/w_1280,c_limit/venus-from-parker-solar-probe.webp.jpeg
+---
+
+Venus has nearly the same mass, size, and structure as Earth, which has led astronomers to believe it should have a moon, but it doesn’t. It is technically possible that a moon never formed, but scientists have also come up with several scenarios to describe how Venus could have lost its satellite.
+
+One previously presented hypothesis is that Venus’ moon was destroyed by a collision with some massive celestial body. But a recent study by researchers at the University of California, Riverside, suggests a different course of events. It posits that instead of being obliterated by some catastrophic external force, the moon was slowly pulled in by Venus’ gravity and plodding rotation until it fragmented and was completely swallowed.
+
+“Venus didn’t require a catastrophe to arrive at what we can see today,” Steven Kane, an astrophysicist and the paper’s lead author, explained in a press release. “It turns out the gravity of the planet itself combined with the rate at which it spins naturally caused the moon to collapse on top of it.”
+
+A planet’s rotation can either push or pull on its satellites, depending on its speed. The rotation can cause variations in gravitational strength. This is why our moon isn’t in any danger of being eaten. In fact—because our 24-hour days are rather fast in a planetary sense—our moon is currently drifting away from Earth at a rate of about 1.5 inches per year.
+
+And when astronomers say Venus spins slowly, they really mean it. The time it takes for Venus to complete one rotation is 243 Earth days. That’s longer than Venus’ year and makes the bright planet the slowest spinner in our solar system. This protracted rotation, combined with the planet’s gravity, means that even if a moon existed, it would not be pushed outward but would instead be dragged inward.
+
+To verify this mechanism, Kane and his research team built a computer model simulating gravitational interactions between celestial bodies. After verifying the model’s accuracy by faithfully recreating the evolution of Earth’s moon, they ran simulations varying several factors including the time it takes Venus to complete one rotation and the mass of a hypothetical moon, ranging anywhere from 0.01 to 10 times that of Earth’s natural satellite.
+
+The outcomes showed that the moon’s fate depended on Venus’ rotation speed, the lunar mass, and the shape of its orbit. Under many conditions, the satellite spiraled inward, eventually breaking apart and succumbing to the planet’s gravity. “When I made this discovery, I was shocked,” Kane recalled. “I thought surely the broad range of scenarios I was exploring would lead to a variety of results. But it all went pretty much in the same direction.”
+
+In a few instances—such as when the researchers artificially sped up the planet’s rotation to once every 10 to 12 hours and the moon had a mass comparable to that of Earth’s—the simulations indicated a moon could survive for up to 4.5 billion years. But that’s little more than an interesting test of the model. It’s an extremely unlikely reality given our planetary neighbor’s current lethargic speed.
+
+This study does not, however, prove that Venus once had a moon, and finding physical evidence of its existence will not be easy. Venus’ surface is geologically young, the number of craters indicating that top layer of rock is just a few hundred million years old. The planet itself formed at the same time as the rest of our solar system, some 4.6 billion years ago, but extreme amounts of volcanic and tectonic activity have essentially remodeled the surface.
+
+If any evidence of a moon exists, it’s been paved over and may lie deep underground. Seismological surveys penetrating far into the Earth have provided evidence of our moon’s formation—anomalous structures pointing to a massive impact. If similar measurements could be conducted on Venus, it’s possible that traces of a moon that was once absorbed might be found.
+
+The moon’s fate could also provide clues to solving another long-standing mystery: whether Venus once had an environment capable of supporting life. Swallowing a moon would have imparted enormous energy and angular momentum to the planet, which could significantly shift its rotation, geology, and climate—altering the course of the planet’s evolution.
+
+This is not limited to Venus. Scientists seeking to identify habitable worlds among exoplanets have often considered the presence of a moon as a factor influencing habitability. However, it remains unclear whether a large moon is essential for the existence of life.
+
+“My feeling is there are benefits to having a moon, but it isn’t required for habitability,” Kane said. “The moon has definitely changed the way Earth has evolved through time, but we don’t fully know how important that role is.”
+
+This finding that planets with slower rotation speeds are less likely to retain a moon offers a new perspective in the search for Earth-like exoplanets. Even if very Earth-like planets are located, if their rotation speeds are not fast enough, they might come to devour their moons.
+
+*This story originally appeared on* WIRED Japan*and has been translated from Japanese.*
