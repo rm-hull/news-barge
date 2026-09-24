@@ -358,10 +358,15 @@ def months_ago(months: int = 1) -> datetime:
     return datetime(year, month, day, tzinfo=UTC)
 
 
-def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
+def output_path(
+    site_slug: str,
+    article_slug: str,
+    date: datetime,
+    output_dir: Path = CONTENT_DIR,
+) -> Path:
     date_path = date.strftime("%Y/%m/%d")
     filename = f"{site_slug}--{article_slug}.md"
-    return CONTENT_DIR / date_path / filename
+    return output_dir / date_path / filename
 
 
 def write_markdown(
@@ -377,7 +382,10 @@ def write_markdown(
     path.write_text(
         "---\n" + fm_yaml + "---\n\n" + body.strip() + "\n", encoding="utf-8"
     )
-    logger.log(f"  ✓ {path.relative_to(REPO_ROOT)}")
+    display_path = (
+        path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
+    )
+    logger.log(f"  ✓ {display_path}")
 
 
 # ---------------------------------------------------------------------------
@@ -599,6 +607,7 @@ async def process_article(
     fetch_semaphore: asyncio.Semaphore,
     logger: SiteLogger,
     retention_months: int = 1,
+    output_dir: Path = CONTENT_DIR,
 ) -> bool:
     slug = url_to_slug(url, site.get("exclude_query_params", False))
     site_slug = site["slug"]
@@ -690,7 +699,7 @@ async def process_article(
         "image": image,
     }
 
-    path = output_path(site_slug, slug, file_date)
+    path = output_path(site_slug, slug, file_date, output_dir=output_dir)
 
     # Don't create articles older than the retention window. The archive job
     # deletes them anyway, so writing them only creates churn — and an archive
@@ -709,7 +718,10 @@ async def process_article(
         return False
 
     if dry_run:
-        logger.log(f"  [dry-run] would write {path.relative_to(REPO_ROOT)}")
+        display_path = (
+            path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
+        )
+        logger.log(f"  [dry-run] would write {display_path}")
         return True
 
     await asyncio.to_thread(write_markdown, path, frontmatter, md_body, logger)
@@ -721,14 +733,14 @@ async def process_article(
 # ---------------------------------------------------------------------------
 
 
-def load_sites() -> list[dict[str, Any]]:
-    with open(SITES_FILE, encoding="utf-8") as f:
+def load_sites(path: Path = SITES_FILE) -> list[dict[str, Any]]:
+    with open(path, encoding="utf-8") as f:
         data = yaml.safe_load(f)
     return cast(list[dict[str, Any]], data.get("sites", []))
 
 
 async def main_async(args: argparse.Namespace) -> None:
-    sites = load_sites()
+    sites = load_sites(args.config)
     if args.site:
         sites = [s for s in sites if s["slug"] == args.site]
         if not sites:
@@ -843,6 +855,7 @@ async def main_async(args: argparse.Namespace) -> None:
                     fetch_semaphore=fetch_semaphore,
                     logger=logger,
                     retention_months=args.retention_months,
+                    output_dir=args.output_dir,
                 )
                 for url, site, logger in all_tasks
             ]
@@ -894,6 +907,18 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape sites → Markdown")
     parser.add_argument("--dry-run", action="store_true", help="Don't write files")
     parser.add_argument("--site", help="Only process this slug")
+    parser.add_argument(
+        "--config",
+        type=Path,
+        default=SITES_FILE,
+        help="Path to sites.yaml (default: repo root sites.yaml)",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=CONTENT_DIR,
+        help="Directory to write article Markdown files (default: repo root content/)",
+    )
     parser.add_argument(
         "--force", action="store_true", help="Force regeneration of existing files"
     )
