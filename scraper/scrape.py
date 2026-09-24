@@ -205,6 +205,82 @@ def normalize_inline_spacing(extracted_html: str) -> str:
     return lxml_html.tostring(tree, encoding="unicode")
 
 
+# A bare ``attr="value"`` selector, e.g. ``role="dialog"``. The first group is
+# the attribute name, the second its value (single- or double-quoted).
+_EXCLUSION_ATTR_PATTERN = re.compile(r'^\s*([\w:-]+)\s*=\s*["\']([^"\']+)["\']\s*$')
+
+
+def normalize_exclusion(expr: str) -> str:
+    """Translate an ``exclusions`` entry into an XPath expression.
+
+    Two forms are accepted:
+
+    * A full XPath expression, used verbatim — e.g.
+      ``//div[contains(@class, 'bookmark-experience')]`` or
+      ``//script | //style``.
+    * A bare attribute matcher — e.g. ``role="dialog"`` — which is expanded to
+      ``//*[@role='dialog']`` for convenience.
+
+    Anything that isn't a full XPath and doesn't look like an attribute
+    matcher is returned unchanged so lxml can surface a clear error.
+    """
+    expr = expr.strip()
+    # Already a full XPath expression (absolute path, relative path, or a
+    # node-set operation / function call).
+    if expr.startswith(("/", "//", "(", ".", "descendant")):
+        return expr
+    match = _EXCLUSION_ATTR_PATTERN.match(expr)
+    if match:
+        attr, value = match.group(1), match.group(2)
+        return f"//*[@{attr}='{value}']"
+    return expr
+
+
+def remove_excluded_elements(
+    html: str, exclusions: list[str], logger: SiteLogger | None = None
+) -> str:
+    """Detach every element matched by ``exclusions`` from ``html``.
+
+    Each entry is either an XPath expression or a bare ``attr="value"``
+    matcher (see :func:`normalize_exclusion`). Matching elements and their
+    subtrees are removed *before* the HTML reaches trafilatura, so site
+    chrome — paywall modals, bookmark prompts, subscribe overlays, etc. —
+    never contaminates the extracted article.
+
+    Returns the cleaned HTML string, or the original string untouched when
+    ``exclusions`` is empty.
+    """
+    if not exclusions:
+        return html
+
+    tree = lxml_html.fromstring(html)
+    # lxml_html.fromstring can return a list of elements when the input has
+    # multiple top-level nodes (e.g. a fragment). Wrap those in a single root
+    # so xpath + serialization stay consistent for the rest of the pipeline.
+    if isinstance(tree, list):
+        tree = lxml_html.fragment_fromstring(
+            lxml_html.tostring(tree, encoding="unicode"),
+            create_parent="div",
+        )
+
+    removed = 0
+    for expr in exclusions:
+        xpath = normalize_exclusion(expr)
+        for element in tree.xpath(xpath):
+            parent = element.getparent()
+            if parent is not None:
+                parent.remove(element)
+                removed += 1
+
+    if logger and removed:
+        logger.log(
+            f"  · excluded {removed} element(s) via "
+            f"{len(exclusions)} exclusion rule(s)"
+        )
+
+    return lxml_html.tostring(tree, encoding="unicode")
+
+
 def linkify_text(text: str) -> str:
     if not text:
         return ""
@@ -520,6 +596,15 @@ async def process_article(
 
     if not html:
         return False
+
+    # Strip site-level chrome (modals, bookmark prompts, paywall overlays,
+    # etc.) from the *raw page* before trafilatura sees it. Doing it here —
+    # rather than on trafilatura's output — means the unwanted elements are
+    # gone before content heuristics run, so their text never merges into the
+    # extracted article prose.
+    exclusions = site.get("exclusions") or []
+    if exclusions:
+        html = remove_excluded_elements(html, exclusions, logger=logger)
 
     extracted_html = await asyncio.to_thread(
         trafilatura.extract,

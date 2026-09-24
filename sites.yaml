@@ -9,7 +9,17 @@
 #   feed:       RSS/Atom feed URL — scraper will pull latest N items
 #   limit:      Max articles to pull from feed or listing (default: 10)
 #   force_playwright: Set true if the site needs a real browser (JS-heavy)
-#   exclude_query_params: Set true to omit query params from the slug name
+#.  exclude_query_params: Set true to omit query params from the slug name
+#.  exclusions:          List of XPath expressions (or bare attr="value"
+#                        matchers like role="dialog") for page elements to
+#                        strip BEFORE trafilatura extraction. Use this to
+#                        drop site chrome that otherwise leaks into the article
+#                        — e.g. bookmark/membership modals, subscribe overlays,
+#                        paywall prompts. Examples:
+#                          exclusions:
+#                            - role="dialog"                      # bare attr form
+#                            - //div[contains(@class, "modal")]   # full XPath
+#                            - //script | //style
 #   notes:      Freeform reminder
 
 sites:
@@ -89,6 +99,18 @@ sites:
     categories: [Technology & Software]
     feed: https://www.techradar.com/uk/feeds.xml
     limit: 100
+    # TechRadar injects several footer blocks into article pages that
+    # leak into the extracted prose: the author bio, a "Follow on Google
+    # News" inline call-to-action, and a viafoura comment-login overlay.
+    # Strip them out *before* trafilatura runs so their text never merges
+    # into the article body.
+    exclusions:
+      # Author byline / bio block at the end of the article ("Christian …").
+      - //div[contains(@class, 'slice-author-bio')]
+      # The "Follow TechRadar on Google News" inline CTA embedded in #article-body.
+      - //p[contains(., 'Follow TechRadar on Google News')]
+      # Viafoura "confirm your public display name" comment-login overlay.
+      - x-show="showConfirmDisplayNamePrompt"
 
   - name: Euronews
     slug: euronews
@@ -125,6 +147,11 @@ sites:
     feed: https://www.independent.co.uk/news/rss
     limit: 100
     categories: [News & Politics, UK]
+    # The Independent injects a membership / bookmark modal into article
+    # pages. Strip it out before extraction so the "Become a member"
+    # paywall copy never leaks into the rendered article.
+    exclusions:
+      - role="dialog"
 
   - name: North Yorkshire Council
     slug: north-yorkshire-council
