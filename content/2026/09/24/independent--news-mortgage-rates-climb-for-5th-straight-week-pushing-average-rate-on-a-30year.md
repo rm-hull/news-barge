@@ -15,6 +15,12 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/17/Mortgage_Rates_89552.jpg?width=1200&height=800&crop=1200:800
+locations:
+- U.S.
+people: []
+organisations:
+- Freddie Mac
+- The Associated Press
 ---
 
 Mortgage rates climb for 5th straight week, pushing average rate on a 30-year home loan above 7%

@@ -13,6 +13,26 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/14/01KGF5PWNKR45MWA3FTD8VEKR6.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alfreton
+- Appleton Farm
+- Brighton
+- Derbyshire
+- Foy
+- King’s Sandringham Estate
+- London
+- Norfolk
+- Norwich Crown Court
+- Windsor Castle
+people:
+- Anthony Bate
+- Ben
+- Charles
+- Dingle Clark
+- Rosa Sharkey
+- Rose Patterson
+- Sarah Foy
+organisations: []
 ---
 
 Three animal rights campaigners have been found guilty of stealing three lambs from the King’s Sandringham Estate.

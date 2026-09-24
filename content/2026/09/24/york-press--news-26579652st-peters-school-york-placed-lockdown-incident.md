@@ -12,6 +12,16 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21490499.jpg?type=og-image&xType=0&yType=39
+locations:
+- '## Top York'
+- Clifton
+people: []
+organisations:
+- '![]()St Peter''s School'
+- Newsquest
+- North Yorkshire Police
+- St Peter's School
+- St Peter’s School
 ---
 
 ## Top York school placed into lockdown after police incident

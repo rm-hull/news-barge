@@ -11,6 +11,25 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg
+locations:
+- Britain
+- England
+- London Underground
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Eddie Dempsey
+- Richard Hines
+organisations:
+- British Transport Police
+- London Underground
+- Network Rail
+- ORR
+- Office of Rail and Road
+- RMT
+- Transport Focus
+- Transport for London
 ---
 
 ![Four young people stand on a London underground platform facing the tracks as a train arrives.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg)

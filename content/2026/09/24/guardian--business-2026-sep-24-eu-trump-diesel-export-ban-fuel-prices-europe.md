@@ -11,6 +11,37 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/9dfd9736d4ff015f318c73f2352a7cb89cf3bf98/75_0_6428_5143/master/6428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb64cda2f2f3431330bf8cdebe251f8c
+locations:
+- Asia
+- Europe
+- Germany
+- Grangemouth
+- Gulf
+- India
+- Iran
+- Lindsey
+- Middle East
+- Netherlands
+- Russia
+- UK
+- US
+- White House
+people:
+- Benedict George
+- Chris Wright
+- Donald Trump
+- Josh Michalowski
+- Olof Gill
+- Thomas Pugh
+organisations:
+- Argus Media
+- BP
+- EU
+- European Commission
+- European Union
+- RAC
+- RSM UK
+- Trump
 ---
 
 The EU has warned Donald Trump against plans to ban US diesel exports to the global market, saying the move would negatively affect Europe and the US.

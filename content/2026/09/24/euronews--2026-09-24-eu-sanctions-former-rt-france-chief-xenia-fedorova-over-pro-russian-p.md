@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/67/37/1200x675_cmsv2_0b344efc-9b94-5c16-9a8a-54d951440c23-9926737.jpg
+locations:
+- Europe
+- France
+- Germany
+- New York
+- Russia
+- Ukraine
+people:
+- Jean-Noël Barrot
+- Laurent Nuñez
+- Vincent Bolloré
+- Xenia Fedorova
+organisations:
+- AFP
+- Arcom
+- Bolloré
+- CNews
+- Council of the European Union
+- EU
+- Euronews
+- Europe 1
+- European Union
+- Foreign Ministry
+- JDD
+- Le Journal du Dimanche
+- Le Monde
+- NATO
+- Official Journal
+- RT France
+- United Nations
 ---
 
 ## The Council of the European Union confirmed the Russian commentator had been added to its sanctions list on Thursday. In France, she had already faced an expulsion order and an asset freeze, both of which she challenged.

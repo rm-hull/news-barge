@@ -12,6 +12,30 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6ab5398029fb7d28480.jpg
+locations:
+- Bloom
+- Britain
+- City Centre
+- Cross James Street
+- Harrogate
+- Montpellier Hill
+- Nicholls Tyreman
+- Tadcaster
+- Victoria Shopping Centre
+- Yorkshire Rose Town
+people:
+- Bethany Allen
+- Gold
+- Helen James Flowers
+organisations:
+- Harrogate BID
+- Harrogate District Chamber of Commerce
+- Harrogate International Festivals
+- Harrogate International Festivals’
+- Helen James Flowers
+- Library Gardens
+- War Memorial
+- Yorkshire Hotel
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab5398029fb7d28480.jpg)

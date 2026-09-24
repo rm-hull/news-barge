@@ -11,6 +11,41 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7184881ec4e11d1f1b3f294603fc96cb
+locations:
+- Australia
+- Brussels
+- Canada
+- China
+- Europe
+- France
+- Germany
+- Japan
+- London
+- Poland
+- Republic of Ireland
+- Sweden
+- Switzerland
+- UK
+- United Kingdom
+people:
+- Andy Burnham
+- Benjamin Haddad
+- Ebba Busch
+- Katherina Reiche
+- Keir Starmer
+- Made
+- Michał Baranowski
+- Peter Burke
+- Sébastien Martin
+- Ursula von der Leyen
+organisations:
+- EU Council
+- EU27
+- European Commission
+- European Union
+- IAA
+- Made in Europe
+- UN
 ---
 
 France is leading a push to exclude the UK from the EU’s “Made in Europe” policy that could result in British companies losing out in the race to supply European countries with low-carbon technologies and electric cars.

@@ -11,6 +11,24 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/b2f3c0bd8f3e537b9f4febf9edbb5f7e6ae78083/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a56445466e976cf6985bb7b6803a8aa
+locations:
+- Black Texas
+- Tarrant
+- US
+people:
+- Alison Grinter
+- Appellant
+- Beto O’Rourke
+- Crystal Mason
+- Donald Trump
+- Gina Parker
+- God
+- Lee Finley
+- Phil Sorrells
+- Thomas Buser-Clancy
+organisations:
+- American Civil Liberties Union
+- State at Appellant
 ---
 
 The nearly decade-long case of a Black Texas woman who was sentenced to five years in prison in a controversial illegal voting case will end with an acquittal, the state’s highest criminal court said in a 5-4 decision on Thursday.

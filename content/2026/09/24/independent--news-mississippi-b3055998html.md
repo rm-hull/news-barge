@@ -12,6 +12,32 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/24/20/Mississippi_Colleges_Food_Pantries_44222.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Mississippi
+people:
+- Brandi Lovin
+- Hali Hollman
+- Jonathan Nutt
+- Sirena Cantrell
+organisations:
+- Bully’s Pantry
+- Delta State
+- Delta State University
+- Eagle’s Nest
+- Eagle’s Nest Food Pantry
+- Hope Center for Basic Needs
+- Jackson State University
+- MSU
+- Mississippi State University
+- Mississippi Today
+- Okra Suits
+- Okra Threads
+- Statesman’s Shelf
+- The Associated Press
+- UMMC
+- University of Mississippi
+- University of Mississippi Medical Center
+- University of Southern Mississippi
 ---
 
 When University of Mississippi Medical Center administrators heard that some students were struggling to afford food and other necessities, they stepped up to help.

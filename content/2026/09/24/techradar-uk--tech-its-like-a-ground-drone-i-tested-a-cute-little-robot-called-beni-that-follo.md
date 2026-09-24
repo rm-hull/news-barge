@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/gPhQwLmraGtPsf4F7LcxcF-1920-80.jpg
+locations:
+- Beni
+people:
+- Mondo Beni
+organisations:
+- Mondo Beni
+- Mondo Robotics
+- SMF
 ---
 
 ![Mondo Beni camera robot](https://cdn.mos.cms.futurecdn.net/gPhQwLmraGtPsf4F7LcxcF.jpg)

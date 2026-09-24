@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/23/Trump_Shooting_Wounded_Man_Dies_66545.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Allegheny County
+- Butler
+- Columbus
+- Ohio
+- Pennsylvania
+- Pittsburgh
+- Seattle
+- West Penn Hospital
+- White House
+people:
+- Corey Comperatore
+- David Dutch
+- Donald Trump
+- James Copenhaver
+- Johnson
+- Joseph Feldman
+- Marianne Copenhaver
+- Smyth
+organisations:
+- Allegheny Health Network
+- Department of Homeland Security
+- Secret Service
 ---
 
 James Copenhaver, one of three campaign rally attendees shot in 2024 during an assassination attempt on then-candidate Donald Trump, has died in Pittsburgh, his lawyer said Thursday. He was 76.

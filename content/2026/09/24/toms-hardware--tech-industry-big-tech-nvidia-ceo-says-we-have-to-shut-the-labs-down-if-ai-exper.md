@@ -15,6 +15,25 @@ categories:
 - Business & Entrepreneurship
 - Science
 image: https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-2560-80.jpg
+locations:
+- Mount Pleasant
+- Wisconsin
+people:
+- Ezra Klein
+- Jensen Huang
+- Tom
+organisations:
+- AI
+- Anthropic
+- Gemini
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Nvidia
+- OpenAI
+- SpaceXAI
+- The New York Times
+- Tom’s Hardware
 ---
 
 ![Nvidia CEO Jensen Huang](https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5.jpg)

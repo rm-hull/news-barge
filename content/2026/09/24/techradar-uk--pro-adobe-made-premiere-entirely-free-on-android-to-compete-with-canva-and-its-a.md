@@ -10,6 +10,16 @@ description: It's Adobe vs Canva on Android
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/rmafiALpKHkF6xdgkPhMr6-2100-80.png
+locations: []
+people: []
+organisations:
+- Adobe Express
+- Adobe Lightroom Mobile
+- Adobe Photoshop Express
+- Adobe Premiere
+- Canva
+- RAM
+- TechRadar Pro
 ---
 
 ![3D version of the Adobe logo](https://cdn.mos.cms.futurecdn.net/rmafiALpKHkF6xdgkPhMr6.png)

@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312814290.jpg
+locations:
+- Boston
+- Brigham and Women’s Hospital
+- Spain
+- US
+people:
+- El Khoudary
+- Samar El Khoudary
+- Tara Iyer
+organisations:
+- El Khoudary
+- HRT
+- Study of Women’s Health Across the Nation
+- Virginia Commonwealth University
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312814290.jpg?w=840)

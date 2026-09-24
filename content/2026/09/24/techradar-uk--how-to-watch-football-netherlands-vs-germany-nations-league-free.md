@@ -13,6 +13,37 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/nT4e3S8jaQdQZyuDwKwzo-819-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Germany
+- Ireland
+- Morocco
+- Netherlands
+- North America
+- Paraguay
+- UK
+- US
+- USA
+- canada
+people:
+- Brian Brobbey
+- Jamal Musiala
+- Jonathan Tah
+- Joshua Kimmich
+- Julian Nagelsmann
+- Jürgen Klopp
+- Kai Havertz
+- Xavi Hernandez
+organisations:
+- DAZN
+- Future Publishing
+- Liverpool
+- RTL
+- Sunderland
+- TechRadar
+- The Netherlands
 ---
 
 ![Jürgen Klopp, head coach of Germany, speaks to the media during the presentation of the German UEFA Nations League squad at DFB-Campus.](https://cdn.mos.cms.futurecdn.net/nT4e3S8jaQdQZyuDwKwzo.jpg)

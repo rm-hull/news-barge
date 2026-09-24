@@ -14,6 +14,17 @@ categories:
 - History
 - True Crime
 image: https://images.euronews.com/articles/stories/09/92/62/04/1200x675_cmsv2_374843bb-ca61-563d-b882-7c7a3f0f88fc-9926204.jpg
+locations:
+- Germany
+- Jarosław
+- Poland
+people:
+- Donald Tusk
+- Marcin Kierwiński
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- Gazeta Jarosławska
 ---
 
 ## A knife attack at a Catholic abbey in Poland left one person dead and four others injured. Ukrainian President Volodymyr Zelenskyy condemned the attack as a "horrific crime" and called for the perpetrator to be held accountable.

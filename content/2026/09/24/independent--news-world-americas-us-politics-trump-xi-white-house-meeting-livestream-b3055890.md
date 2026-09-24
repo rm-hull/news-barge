@@ -14,6 +14,21 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/7/58/6869717-library.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Beijing
+- China
+- Iran
+- Joint Base Andrews
+- Maryland
+- US
+- Washington
+- Xinhua
+people:
+- Donald Trump
+- Xi Jinping
+organisations:
+- AI
 ---
 
 Watch as Donald Trump welcomed Xi Jinping to Washington on Thursday (24 September) for the Chinese president’s first state visit to the US in more than a decade.

@@ -12,6 +12,23 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/17/16/39/BEARS.jpeg?trim=0,139,0,137&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Brooks Camp
+- Brooks Falls
+- Katmai National Park
+people:
+- Chunk
+- Grazer
+- Mark Sturm
+- Mike Fitz
+- Sarah Bruce
+organisations:
+- Chunk
+- Facebook
+- Fat Bear Week
+- KTUU
+- National Park Service
 ---
 
 Fat Bear Week is back at Alaska’s Katmai National Park for 2026 - and so is last year’s champion.Chunk 32, a1,200-pound male brown bear, was spotted on live cameras earlier in the month at the park’s southwestern Brooks Falls.

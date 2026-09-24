@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/14/28/philip-mawer-ra-international.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Afungi
+- Hampshire
+- Hants
+- Mozambique
+- Palma
+- Somerset
+- Winchester Coroner’s Court
+people:
+- Bill
+- Jason Pegg
+- Mark Mawer
+- Philip Mawer
+organisations:
+- Al-Shabaab
+- Amarula Hotel
+- Dyck Advisory Group
+- Metropolitan Police
+- RA International
+- TEPMA1
+- TotalEnergies
 ---
 
 A British man’s “gallantry” during an Isis-backed terror attack contributed to his death, a coroner has ruled.

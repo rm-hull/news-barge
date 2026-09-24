@@ -12,6 +12,23 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/08/13/16/01KZXXFF7NQTKWNAW87JKX095A.jpg?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+locations:
+- Southwark Crown Court
+- Telford
+people:
+- Andrew Evans
+- Jenna Lennon
+- Justice Baumgartner
+- Kate
+- Max Hill KC
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Channel 4 Dispatches
+- Companies House
+- HMRC
+- Hope & Pride Limited
+- Insolvency Service
 ---
 
 The former wife of Tommy Robinson has admitted to breaches of company accounting regulations, court officials have confirmed.

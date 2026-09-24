@@ -13,6 +13,13 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/24/18/Italy_Meloni__1811.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Italy
+people:
+- Giorgia Meloni
+- Roberto Vannacci
+organisations:
+- European Union
 ---
 
 Italy’s government passed a decree Thursday to place an upper limit on the number of students in each school classroom who have only limited Italian language skills and to ban face-covering Islamic veils in schools.

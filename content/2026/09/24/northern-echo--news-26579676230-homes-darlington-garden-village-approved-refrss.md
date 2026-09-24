@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21030078.jpg?type=og-image
+locations:
+- Bishop Auckland Stack
+- Burtree Garden Village
+- Darlington
+- High Faverdale Farm
+- Lovell
+- YOUR
+people:
+- Dale Morris
+- Esh
+organisations:
+- Burtree Cell CH
+- Darlington Borough Council
+- Esh
+- Historic Durham Miners' Hall
+- Public Notice Portal
+- Public Notice Portal Darlington
 ---
 
 ### What is the Public Notice Portal?

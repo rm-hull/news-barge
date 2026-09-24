@@ -12,6 +12,21 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/24/17/APTOPIX_Italy_Fashion_Fendi_S_S_27_16747.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Italy
+people:
+- Fendi
+- Jil Sander
+- Jovanotti
+- Maria Grazia Chiuri
+- Marni Rogge
+- Meryll Rogge
+- Monica Bellucci
+- Simone Bellotti
+- Valentino
+organisations:
+- Dior
+- Milan
 ---
 
 As fashion’s game of musical chairs slows down, Milan’s newest creative directors are loosening up the codes at some of Italy's most storied brands.

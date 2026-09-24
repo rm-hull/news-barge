@@ -12,6 +12,19 @@ categories:
 - Science
 - Film & TV
 image: https://media.wired.com/photos/6ab39bc8c5e291a8de9a8d12/191:100/w_1280,c_limit/GettyImages-2289664536.jpg
+locations:
+- AI
+- California
+- US
+people:
+- Me
+organisations:
+- AI
+- Gemini
+- Google Assistant
+- Pizza My Heart
+- Samsung
+- WIRED
 ---
 
 Google has been trying to have its AI assistant make phone calls on your behalf for almost 10 years. Remember Duplex? It enabled the now-defunct Google Assistant to call restaurants and book tables. That service was shuttered a few years ago, but now comes round two, powered by modern large language models.

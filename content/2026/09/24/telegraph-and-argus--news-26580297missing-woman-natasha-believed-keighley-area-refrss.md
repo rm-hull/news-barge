@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499389.jpg?type=og-image&xType=0&yType=0
+locations:
+- Glusburn
+- Keighley
+- North Yorkshire
+people:
+- Natasha
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -11,6 +11,21 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/2ca6801cc926046669d9c11b2380efdeed39caf6/168_0_3844_3075/master/3844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=405d904ffa495a0ba2878164885c5b90
+locations:
+- Beijing
+- China
+- US
+- United States
+- Washington
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- Peng Liyuan
+- Xi Jingping
+organisations:
+- AI
+- United Nations
 ---
 
 Xi Jingping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course.

@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21497575.jpg?type=og-image&xType=0&yType=36
+locations:
+- County Durham
+- Prospect House
+people:
+- Amelia Green
+- Amir Bhatti
+- Cartriona Dunbar
+- Catriona Dunbar
+- Gill Hunt
+- Jackie Holmes
+- Michaela Holmes
+- Nadeen Lister
+- Nadine
+- Nedeen Lister
+- Steve Russell
+- Stuart Boulton
+organisations:
+- County Durham
+- Darlington NHS Foundation Trust
+- Government
+- NHS Trust
+- North East NHS Trust
+- Pink Justice Network
+- Prospect House
+- Stuart Boulton
 ---
 
 Breast cancer patients have reacted with shock and anger at the scale of serious failings in care after hospital bosses revealed up to 4,500 women could have their treatment reviewed.

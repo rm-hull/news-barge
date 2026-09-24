@@ -11,6 +11,24 @@ description: OpenAI says usage of Apple Intelligence was minimal and its ChatGPT
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/fWkcgCpp29r3nD9Ube7TAJ-2560-80.jpg
+locations: []
+people:
+- Catherine Tucker
+- OpenAI
+- Sam Altman
+- Siri AI
+- Tim Cook
+organisations:
+- Apple Intelligence
+- ChatGPT
+- Elon Musk
+- Elon Musk’s xAI
+- Gemini
+- GenAI
+- Google
+- OpenAI
+- Siri AI
+- SpaceXAI
 ---
 
 ![Apple and OpenAI](https://cdn.mos.cms.futurecdn.net/fWkcgCpp29r3nD9Ube7TAJ.jpg)

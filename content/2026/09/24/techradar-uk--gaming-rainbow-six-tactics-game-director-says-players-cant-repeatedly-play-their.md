@@ -14,6 +14,16 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/yfykTu8qa66pgjXYCybzMo-1920-80.jpg
+locations: []
+people:
+- Ash
+- Martial Potron
+- Portron
+organisations:
+- Gamescom
+- PC
+- TechRadar Gaming
+- Ubisoft
 ---
 
 ![Rainbow Six Tactics](https://cdn.mos.cms.futurecdn.net/yfykTu8qa66pgjXYCybzMo.jpg)

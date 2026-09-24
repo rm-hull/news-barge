@@ -10,6 +10,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/3UFeyvpZK8EtvsLgj2G97M-1376-80.jpg
+locations:
+- Dune
+people:
+- Node
+- Shai-Hulud
+organisations:
+- AI
+- LTS
+- Node
+- NodeJS
+- PayPal
+- SMBs
+- TechRadar Pro
 ---
 
 ![someone sat in an office on a laptop ](https://cdn.mos.cms.futurecdn.net/3UFeyvpZK8EtvsLgj2G97M.jpg)

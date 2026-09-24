@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg
+locations:
+- Australia
+- Canada
+- China
+- US
+people:
+- Anthony Albanese
+- Hammond Pearce
+- Joe Tidy
+- Nick Clegg
+- Niusha Shafiabady
+- Raffaele Fabio Ciriello
+- Simon Liu
+- Tom Gerken
+organisations:
+- AI
+- Australian Catholic University
+- BBC Radio 4
+- Facebook
+- Hugging Face
+- OpenAI
+- TrustDecision
+- University of New South Wales Institute for Cyber Security
+- University of Sydney
 ---
 
 Watch: What you need to know about the OpenAI Australian government hack

@@ -12,6 +12,20 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21499606.jpg?type=og-image
+locations:
+- Dunnington
+- London
+- Piccadilly
+people:
+- Fiona
+- Miranda
+organisations:
+- '## York duo'
+- Ethelanna Bunnies
+- Fiona
+- Fortnum & Mason
+- Meeces
+- Miranda
 ---
 
 ## York duo's handmade figures go on sale in one of London's most iconic stores

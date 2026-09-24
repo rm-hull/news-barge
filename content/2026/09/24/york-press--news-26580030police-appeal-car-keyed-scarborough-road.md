@@ -13,6 +13,12 @@ categories:
 - True Crime
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21498981.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- Weaponness Valley Road
+people: []
+organisations: []
 ---
 
 *(Image: Submitted)*

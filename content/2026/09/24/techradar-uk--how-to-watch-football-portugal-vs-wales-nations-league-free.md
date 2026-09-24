@@ -12,6 +12,43 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/mjbf5Jh9avcpz2vjhWTaHQ-819-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Portugal
+- Spain.
+- U.K.
+- UK
+- US
+- USA
+- Wales
+- canada
+people:
+- Bernardo Silva
+- Brennan Johnson
+- Bruno Fernandes
+- Craig Bellamy
+- Cristiano Ronaldo
+- Dan James
+- Jorge Jesus
+- Nico Williams
+- Pedro Neto
+- Roberto Martínez
+organisations:
+- BBC Two
+- BBC Two.Radio
+- BBC iPlayer
+- DAZN
+- Dragons
+- Fox Soccer Plus
+- Future Publishing
+- League A
+- Nations League
+- Portugal
+- Seleção
+- TechRadar
+- Wales
 ---
 
 ![Portugal&#039;s forward Cristiano Ronaldo acknowledges the crowd ahead of the 2026 World Cup round of 16 football match between Portugal and Spain.](https://cdn.mos.cms.futurecdn.net/mjbf5Jh9avcpz2vjhWTaHQ.jpg)

@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg
+locations: []
+people:
+- Tom
+organisations:
+- Blue Microphones
+- Google News
+- Kunal Khullar
+- Logitech
+- Pro X3 Superstrike
+- Tom’s Hardware
 ---
 
 ![The Logitech Yeti 2 USB microphone in black](https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA.jpg)

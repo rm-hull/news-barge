@@ -12,6 +12,20 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/18/Immigrant_Fatal_Crash_46526.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Grand Rapids
+- Guatemala
+- Michigan
+- U.S.
+people:
+- Gema Lowe
+- Gretchen Whitmer
+- Mario Coronado Juarez
+organisations:
+- DHS
+- Department of Homeland Security
+- Homeland Security
+- ICE
 ---
 
 Federal immigration officers were a half-mile away when a man who was illegally in the U.S. crashed a car at high speed and died in Michigan last weekend, authorities said Thursday.

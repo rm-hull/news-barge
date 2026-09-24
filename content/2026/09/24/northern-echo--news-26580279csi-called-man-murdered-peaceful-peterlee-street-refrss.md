@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21499341.jpg?type=og-image&xType=0&yType=72
+locations:
+- County Durham
+- Darlington
+- Peterlee
+- Thames Road
+people: []
+organisations:
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- Northern Echo
 ---
 
 Residents have spoken of their shock after a murder probe was launched in County Durham.

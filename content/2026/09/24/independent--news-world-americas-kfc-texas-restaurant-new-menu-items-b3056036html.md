@@ -14,6 +14,50 @@ categories:
 - Lifestyle & Fashion
 - Travel
 image: https://static.independent.co.uk/2026/09/24/20/07/AP26265724437426.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Canada
+- China
+- Corbin
+- Dubai
+- Florida
+- Kentucky
+- London
+- Louisville
+- McKinney
+- Seoul
+- Texas
+- Turkey
+- U.S.
+- US
+- United Kingdom
+- Utah
+people:
+- Christophe Poirier
+- Dave
+- Dhiren Karnani
+- Harland Sanders
+- Long John Silver
+- Neil Saunders
+- Phil Kafarakis
+organisations:
+- Apple Store
+- Chick-fil-A
+- GlobalData
+- Hot Chicken
+- IFMA The Food Away from Home Association
+- KFC
+- McDonald's
+- Open House
+- Pizza Hut
+- Popeyes
+- Raising Cane
+- Sanders’
+- Saucy
+- Taco Bell
+- Technomic
+- Wingstop
+- Yum Brands
 ---
 
 Faced with mounting competition from rivals such as Raising Cane's, KFC is launching a strategy to reclaim its dominant position in the American fast-food market.

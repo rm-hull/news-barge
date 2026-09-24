@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d47d/live/689f2340-b820-11f1-bc1f-3f186ca4140c.png
+locations:
+- Albert Embankment
+- Inner London Crown Court
+- The Corniche
+- The Corniche.
+- Vauxhall
+- West Ham
+people:
+- Boyle
+- Clarkes
+- James Corden
+- James Goldfinch
+- Lindner Prater
+- Mick Ferris
+- Rachel Ferris
+organisations:
+- BBC London
+- BBC Radio London
+- Foster + Partners
+- HSE
+- Lindner Prater
+- Prashant Popat KC
+- St James
+- St James Group Ltd
+- The Corniche
+- Twitter
+- West Ham
+- Wintech Ltd
 ---
 
 ![A man in a grey wedding suit with purple tie ](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/d47d/live/689f2340-b820-11f1-bc1f-3f186ca4140c.png)

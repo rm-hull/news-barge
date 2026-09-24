@@ -11,6 +11,31 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+locations:
+- Aaron Chown
+- Enfield
+- Highbury Corner Magistrates Court
+- PA
+- Wood Green Crown Court
+people:
+- Brian Kelleher
+- Hyde
+- Jekyll
+- Joseph Carr
+- Mark Rowley
+- Natalie Scagliarini
+- Sarah Gabay
+- Zafer Dogan
+organisations:
+- AI
+- CPS
+- Crown Prosecution Service
+- Dogan
+- Met Police
+- Metropolitan Police
+- Press Association
+- The Independent
+- Wood Green Crown Court
 ---
 
 A paedophile who secretly photographed thousands of women and girls and used artificial intelligence to "nudify" some of them has been sentenced to more than two years in prison.

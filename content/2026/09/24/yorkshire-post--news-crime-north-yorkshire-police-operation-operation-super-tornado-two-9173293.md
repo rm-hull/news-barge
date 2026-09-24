@@ -15,6 +15,14 @@ categories:
 - History
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/15/46/custody_resized.webp?trim=263,0,419,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- North Yorkshire
+- Northallerton
+- York
+people:
+- Tim Forber
+organisations:
+- Operation Super Tornado Two’
 ---
 
 # North Yorkshire Police arrest more than 60 during 'biggest operation in force's history'

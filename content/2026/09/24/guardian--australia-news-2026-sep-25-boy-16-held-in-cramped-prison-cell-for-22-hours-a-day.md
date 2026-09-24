@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/9a461891c6d7b907c91e4c3b83fabcce13017c10/257_0_1467_1174/master/1467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ab0efda24476705b0dfc9b908378c38
+locations:
+- Melbourne Assessment Prison
+- Parkville Youth Justice Precinct
+- Victoria
+people:
+- Katherine Copsey
+- Lidia Thorpe
+- Marlo Baragwanath
+- Mindy Sotiri
+- Renee Heath
+- Tracy Beaton
+organisations:
+- Commission for Children and Young People
+- Department of Justice and Community Safety
+- Greens
+- Justice Reform Initiative
+- Labor
+- Liberal
 ---
 
 A 16-year-old boy was held in conditions akin to solitary confinement in adult prison for 22 hours a day, leading him to have suicidal thoughts, a Victorian ombudsman report has revealed.

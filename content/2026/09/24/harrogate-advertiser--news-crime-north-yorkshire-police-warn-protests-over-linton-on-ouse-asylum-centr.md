@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmYxYjhlYTdiLWZkYjctNGIzMC1iY2JiLTg4Njk2MDczMmI0NjozODU5ZTM2Mi0zZWRiLTRjZTgtODE1YS0yZTdlOTU4Mjk4Zjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Linton
+- North Yorkshire
+- RAF Linton-on-Ouse
+- York
+people:
+- Catherine Clarke
+- David Skaith
+- Jo Coles
+- Ms Coles
+- Shabana Mahmood
+organisations:
+- CCTV
+- Government
+- Home Office
+- Home Secretary
+- Local Resilience Forum
+- Ms Clarke
+- National Police Public Order Coordination Centre
+- North Yorkshire Police
+- RAF Linton-on-Ouse
 ---
 
 # North Yorkshire Police warn protests over Linton-on-Ouse asylum centre could strain local resources

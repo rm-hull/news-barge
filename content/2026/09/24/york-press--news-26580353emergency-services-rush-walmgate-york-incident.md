@@ -12,6 +12,11 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21499441.jpg?type=og-image
+locations:
+- North Yorkshire
+- Walmgate Sandwich Bar
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

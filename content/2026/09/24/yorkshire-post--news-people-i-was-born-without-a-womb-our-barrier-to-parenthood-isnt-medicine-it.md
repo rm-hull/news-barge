@@ -15,6 +15,20 @@ categories:
 - York
 - Family & Parenting
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRmNmIzZDZmLTllMWMtNDc3Zi04N2I0LWJhZDdiMGRkZGEzNzphMTVjYTk4Yi03YzAxLTRlMjYtYjgyOS0wOTRhZmFjODI1YzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Silsden
+- West Yorkshire
+people:
+- Betty Mukherjee
+- Georgia Sargent
+- James
+- Mayer-Rokitansky-Küster-Hauser
+organisations:
+- BBC
+- MRKH
+- Race Across the World
+- The Hope Trimester Trust
+- The Yorkshire Post
 ---
 
 # 'I was born without a womb - our barrier to parenthood isn't medicine, it's money' - Yorkshire Race Across the World star Betty Mukherjee launches charity for women with MRKH

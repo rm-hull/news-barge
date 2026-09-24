@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/17/Croatia_Germany_Nord_Stream__4938.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Baltic Sea
+- Bornholm
+- Germany
+- Kremlin
+- Moscow
+- Nord Stream
+- Nord Stream 1
+- Nord Stream 2
+- Poland
+- Pula
+- Rostock
+- Russia
+people:
+- Ljubo Pavaskovic
+- Serhii K.
+- Vladimir Z
+- Volodymyr Zhuravlov
+organisations:
+- HRT Television
+- Nord Stream 2
+- The Associated Press
 ---
 
 A Croatian court has approved the extradition of a Ukrainian man who is wanted in Germany in connection with the 2022 undersea explosions that damaged the Nord Stream gas pipelines, state media said Thursday.

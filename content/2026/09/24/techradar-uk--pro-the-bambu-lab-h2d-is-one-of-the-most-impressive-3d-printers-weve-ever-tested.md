@@ -10,6 +10,20 @@ description: The Bambu Lab H2D is our top-rated 3D printer - a stand-out flagshi
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/8FqJQmcaoJ2xitKaAYxTBA-1920-80.png
+locations:
+- UK
+people:
+- Alastair
+organisations:
+- ABS
+- ASA
+- Bambu Lab
+- H2D
+- PA
+- PETG
+- PLA
+- TPU
+- TechRadar Pro
 ---
 
 ![Testing out the Bambu Lab H2D in our workshop, with a vase printing inside, surrounded by other 3D printing accessories and materials](https://cdn.mos.cms.futurecdn.net/8FqJQmcaoJ2xitKaAYxTBA.png)

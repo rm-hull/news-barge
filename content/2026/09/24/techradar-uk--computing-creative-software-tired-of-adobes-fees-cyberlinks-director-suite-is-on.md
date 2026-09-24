@@ -12,6 +12,21 @@ categories:
 - Creator Economy & Marketing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/yTRPtdHQub8iAoGHNVUC49-2000-80.jpg
+locations:
+- UK
+- US
+people:
+- Angel
+- Steve
+organisations:
+- Adobe
+- AudioDirector
+- CyberLink
+- Getty Images
+- PowerDirector
+- Suite
+- TechRadar Pro
+- iStock
 ---
 
 ![CyberLink Director Suite](https://cdn.mos.cms.futurecdn.net/yTRPtdHQub8iAoGHNVUC49.jpg)

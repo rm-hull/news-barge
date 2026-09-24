@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/69/47/1200x675_cmsv2_690cc28a-3fb0-52d1-bf19-add7391d9ea4-9926947.jpg
+locations:
+- Donbas
+- Europe
+- France
+- Halle Airport
+- Italy
+- Leipzig
+- Moscow
+- Russia
+- Spain
+- Ukraine
+people:
+- Emmanuel Macron
+- Guido Crosetto
+organisations:
+- CIA
+- El Mundo
+- France 2
+- Macron
+- TF1
 ---
 
 ## French President Emmanuel Macron denied claims which emerged in an article published by El Mundo on Thursday.

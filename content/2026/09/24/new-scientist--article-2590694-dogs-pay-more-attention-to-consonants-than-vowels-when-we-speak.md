@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Pets & Animals
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313658415.jpg
+locations:
+- Australia
+- Hungary
+people:
+- Attila Andics
+- Nick Enfield
+organisations:
+- Boglárka Morvai.
+- Enfield
+- Eötvös Loránd University
+- University of Sydney
 ---
 
 ![Dog prepared for an EEG measurement by Boglárka Morvai.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313658415.jpg?w=840)

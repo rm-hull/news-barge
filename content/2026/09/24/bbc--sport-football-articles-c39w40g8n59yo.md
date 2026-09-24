@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecfe/live/925d3e30-b81e-11f1-b19f-05e2dfdadad2.jpg
+locations:
+- Bermuda Triangle
+- Bournemouth
+- Brighton
+people:
+- Alisson
+- David Raya
+- Fabian Hurzeler
+- Keith Andrews
+- Kenny Dalglish
+- Thomas Frank
+organisations:
+- Arsenal
+- Aston Villa
+- Bees
+- Bermuda Triangle
+- Blackburn
+- Bournemouth
+- Brentford
+- Brighton
+- Chelsea
+- Cherries
+- Liverpool
+- Man City
+- Manchester City
+- Manchester United
+- Newcastle
+- Nottingham Forest
+- Opta
+- Premier League
+- Premier League Bermuda Triangle
+- Spurs
+- Tottenham
 ---
 
 ![A graphic showing the positions of Bournemouth, Brentford and Brighton football teams on a map](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ecfe/live/925d3e30-b81e-11f1-b19f-05e2dfdadad2.jpg)

@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499133.jpg?type=og-image
+locations:
+- Bradford
+- Halifax Road
+- Kirklees
+- Leeds Crown Court
+- West Yorkshire
+people:
+- Amy Green
+- Duane Platt
+organisations:
+- Kirklees District Child Safeguarding Unit
+- Platt
+- SHPO
+- Sex Offenders Register
 ---
 
 *(Image: West Yorkshire Police)*

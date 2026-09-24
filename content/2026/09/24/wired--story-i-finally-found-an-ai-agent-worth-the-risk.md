@@ -13,6 +13,37 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab4547c6d288ac352d9673f/191:100/w_1280,c_limit/Model-Behavior-AI-Worth-the-Risk-Business.jpg
+locations:
+- Alaska
+- Bay Area
+- Hot Yoga São Paulo
+- Italy
+- Miami
+- New York
+- Resy
+- San Francisco
+- Venice
+people:
+- Bloomberg
+- Claude Cowork
+- Instinct
+- Jasmine Sun
+- Lindy
+- Muse
+organisations:
+- AGI
+- AI
+- App Store
+- Apple
+- Ars Technica
+- Google
+- Instinct
+- Instinct’s Terms of Service
+- Meta
+- Muse
+- The Information
+- WIRED
+- Zoom
 ---
 
 One of the first things I did when I left my full-time job at WIRED was give Claude Cowork access to my email and calendar. After reporting on artificial intelligence for years, I was curious about what the technology could do for me. I had imagined Cowork as a hyper-capable digital assistant, but was let down to discover that it was more like interacting with a regular chatbot, albeit one with extra tools. What did I want it to do? I had no idea.

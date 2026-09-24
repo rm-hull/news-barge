@@ -9,6 +9,18 @@ description: Mitigations and a patch are already available, so update now
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/7NLZKWEKmFLJVAH4nubeaX-970-80.jpg
+locations: []
+people:
+- Patchstack
+- Robert Ressl
+organisations:
+- CVE
+- Docker
+- National Vulnerability Database
+- Patchstack
+- RCE
+- TechRadar Pro
+- WordPress
 ---
 
 ![WordPress logo on mobile](https://cdn.mos.cms.futurecdn.net/7NLZKWEKmFLJVAH4nubeaX.jpg)

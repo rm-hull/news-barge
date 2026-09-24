@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21496030.jpg?type=og-image
+locations:
+- Aysgarth
+- Hawes
+- North Yorkshire
+- Northallerton
+- Reeth Medical Centre
+- Richmond
+- Wensleydale
+- Yorkshire Dales
+people:
+- Aysgarth
+- Hawes
+- Jonathan Pain
+- Lynn Irwin
+- Mike Brookes
+- Rishi Sunak
+organisations:
+- Central Dales Practice
+- GP
+- ICB
+- Local Democracy Reporting Service
+- NHS Humber
+- North Yorkshire Integrated Care Board
+- Ofgem
+- Primary Care Network
+- Reeth Medical Centre
+- South Tees Hospitals NHS Foundation Trust
 ---
 
 *(Image: LDRS)*

@@ -14,6 +14,26 @@ categories:
 - Health & Fitness
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/20595711.jpg?type=og-image
+locations:
+- A64
+- B1257 Broughton Road
+- Butcher Corner
+- England
+- Malton
+- Musley Bank
+- Norton
+- UK
+people:
+- Anna Hansell
+- Chris Whitty
+- Norton
+- Simon Thackray Malton
+organisations:
+- A64
+- Malton
+- North Yorkshire Council
+- Parliament’s Environmental Audit Committee
+- World Health Organisation
 ---
 
 *(Image: archive)*

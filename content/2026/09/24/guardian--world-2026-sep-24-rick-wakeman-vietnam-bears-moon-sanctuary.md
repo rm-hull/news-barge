@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Music
 image: https://i.guim.co.uk/img/media/1f3c5f005f17fb4e459d2e3c3ed2aa66d34e3601/760_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb0a0b3dae276cb4c2e881a781139d96
+locations:
+- Animals Asia
+- Bile
+- China
+- England
+- Suffolk
+- Tam Dao
+- Vietnam
+people:
+- Jill Robinson
+- Rick Wakeman
+organisations:
+- Animals Asia
+- Yamaha
 ---
 
 Rick Wakeman has played to all kinds of people around the globe, but he has now performed to an audience he had never encountered before – an enclosure of 150 bears.

@@ -12,6 +12,21 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/15/15/Untitled-design-(2).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- ABC7 San Francisco
+- San Francisco
+- Tenderloin
+- Zuckerberg San Francisco General Hospital
+people:
+- Amber King
+- Ashley
+- God
+organisations:
+- ABC7 San Francisco
+- GoFundMe
+- SFGate
+- San Francisco Police Department
+- The Independent
 ---
 
 A San Francisco woman who survived a brutal pit bull attack said she feared she would die as the dog repeatedly mauled her, leaving her with severe injuries to both arms.

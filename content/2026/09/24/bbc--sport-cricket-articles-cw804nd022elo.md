@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4636/live/c2faa030-b852-11f1-a2ec-c153af45023f.jpg
+locations:
+- Chester-le-Street
+- Durham
+- England
+- Headingley
+- HeadingleySri Lanka
+- Sri Lanka
+- The Oval.
+people:
+- ):** Banton
+- ):** Kusal
+- Adil Rashid
+- Ben Duckett
+- Brilliant Banton
+- Charith Asalanka
+- Dinuth Wellalage
+- Gus Atkinson
+- Harry Brook
+- Jamie Overton
+- Joe Root
+- Jos Buttler
+- Josh Tongue
+- Kamindu
+- Kusal Mendis
+- Rehan Ahmed
+- Tom Banton
+- Will Jacks
+organisations:
+- Metro Bank
+- ODI
 ---
 
 Highlights: Mendis hits century as Sri Lanka beat England at Headingley

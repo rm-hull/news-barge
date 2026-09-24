@@ -12,6 +12,24 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6921/live/5847dde0-b82d-11f1-bc1f-3f186ca4140c.png
+locations:
+- North Yorkshire
+- RAF
+people:
+- Catherine Clarke
+- David Skaith
+- David Spereall
+- Jo Coles
+- Shabana Mahmood
+organisations:
+- CCTV
+- DCC
+- Home Office
+- Linton-on-Ouse Action Group
+- Local Democracy Reporting Service
+- North Yorkshire Police
+- RAF Linton-on-Ouse
+- RAF Linton-on-Ouse **Police
 ---
 
 ![A road sign indicating the way to RAF Linton-on-Ouse. A 30mph speed limit sign sits below it.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/6921/live/5847dde0-b82d-11f1-bc1f-3f186ca4140c.png)

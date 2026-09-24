@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Science
 image: https://www.thenorthernecho.co.uk/resources/images/21494373.jpg?type=og-image&xType=0&yType=311
+locations:
+- Cumbria
+- Darlington
+- North East
+- Sellafield Nuclear Power Station
+- Sellafield’s Calder Hall
+- Teesside
+people:
+- Gordon
+- Grandad
+- Joanne Rogers
+- Sellafield
+- Simon Matthews
+- Slater
+- Stan
+- Stanley Rogers
+organisations:
+- ICI Wilton
 ---
 
 The widow of an engineer who died from asbestos-related cancer is appealing for his former colleagues to come forward.

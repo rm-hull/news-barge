@@ -11,6 +11,17 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66f1/live/5bcfd180-b840-11f1-aeab-cbd1b7662429.jpg
+locations: []
+people:
+- David Beckham
+- Katherine Ryan
+- Victoria Beckham
+organisations:
+- BBC Content
+- BBC Editorial Guidelines
+- BBC One
+- ECU
+- iPlayer
 ---
 
 ![ The Have I Got News For You studio set just before the lights go up for an episode of the show](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/66f1/live/5bcfd180-b840-11f1-aeab-cbd1b7662429.jpg)

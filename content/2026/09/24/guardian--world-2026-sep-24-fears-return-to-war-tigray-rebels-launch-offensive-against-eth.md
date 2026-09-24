@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/02fbbbb2097252c71e2c812c2af983be2d3c8e5e/39_0_1695_1356/master/1695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9115b2a43ae8e8f6ed40a3dad373ec5b
+locations:
+- Abala
+- Addis Ababa
+- Adigrat
+- Afar
+- Amhara
+- Eritrea
+- Ethiopia
+- Fano
+- Lalibela
+- Pretoria
+- Red Sea
+- Sudan
+- Tigray
+- Tigray-Afar
+- Weldiya
+- Yallo
+people:
+- Abiy Ahmed
+- Amanuel Assefa
+- Billene Seyoum
+- Mahmoud Ali Youssouf
+- Taye Atske-Selassie Amde
+organisations:
+- AFP
+- African Union
+- Agence France-Presse
+- EU
+- Ethiopian Airlines
+- Ethiopian Peoples’ Forces Alliance for Survival
+- Reuters
+- TPLF
+- Tigray People’s Liberation Front
+- Tigrayan
+- UN
 ---
 
 There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed.

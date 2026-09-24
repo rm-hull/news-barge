@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21122845.jpg?type=og-image
+locations:
+- North Yorkshire
+- RAF Linton
+- RAF Linton-on-Ouse
+people:
+- Olga Matthias
+organisations:
+- CCTV
+- Home Office
+- Linton-on-Ouse Community Action Group
+- Local Democracy Reporting Service
+- Local Resilience Forum
+- North Yorkshire Council
+- North Yorkshire Police
+- Northallerton BID
+- The Home Office
 ---
 
 A proposed 1,200-bed asylum centre at RAF Linton-on-Ouse would give a small rural community “city-sized problems overnight” without the resources to deal with them, campaigners have claimed.

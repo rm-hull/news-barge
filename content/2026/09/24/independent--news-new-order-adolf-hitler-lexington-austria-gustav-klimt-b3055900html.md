@@ -13,6 +13,20 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/17/Horse_Name_Change_Horse_Racing_72337.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Austria
+- Europe
+- Germany
+- Horseshoe Indianapolis Racecourse
+people:
+- Adolf Hitler
+- Gustav Klimt
+- Scott Herbertson
+organisations:
+- Jockey Club
+- Merrylegs
+- Nazi Party
+- New Order
 ---
 
 The Jockey Club has ruled that a racehorse known as Austrian Painter has been renamed Merrylegs after a review of a complaint that alleged it was a reference to Adolf Hitler.

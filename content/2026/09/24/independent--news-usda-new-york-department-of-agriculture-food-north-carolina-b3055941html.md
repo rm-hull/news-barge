@@ -13,6 +13,26 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/24/18/Meat_Recall_44617.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gainesville
+- Georgia
+- Lucama
+- New Jersey
+- North Carolina
+- U.S.
+people:
+- Keith Schneider
+- Sabrositos Hondurenos
+organisations:
+- A&D Foods
+- Department of Agriculture
+- Facebook
+- Star Meat
+- Star Meat Delivery
+- Star Meat Delivery Inc.
+- USDA
+- USDA’s Food Safety and Inspection Service
+- University of Florida
 ---
 
 More than 83 tons of meat are being recalled across the U.S. because the products were not properly inspected by federal authorities and were shipped out with falsified inspection stickers, the Department of Agriculture said.

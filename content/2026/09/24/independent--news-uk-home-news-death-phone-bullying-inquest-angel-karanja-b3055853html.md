@@ -12,6 +12,23 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/24/15/38/BNPS_AngelKaranja_02.jpeg?trim=298,0,591,0&width=1200&height=800&crop=1200:800
+locations:
+- Bournemouth
+- Dorset
+- Hamworthy
+- Poole
+- Snapchat
+- UK
+- USA
+people:
+- Angel Karanja
+- Brendan Allen
+- Eliud Matindi
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Cornerstone Academy
+- Minecraft
+- Samsung
 ---
 
 A 12-year-old girl took her own life after struggling to transition to a new school and becoming “almost nocturnal” due to her phone use, an inquest has heard.

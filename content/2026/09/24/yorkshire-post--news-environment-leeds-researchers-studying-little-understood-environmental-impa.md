@@ -14,6 +14,29 @@ categories:
 - York
 - Science
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRlYjVjY2JmLWM4ZWItNDVmNC1hNDJhLWM3MTE0YTgzM2FmMDo5MTdlYTBmOC00YmVjLTQ5YjQtYThhMi0zZjA1ZjBkNzNiNWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Irish Sea
+- Leeds
+- UK
+people:
+- Jan Geert Hiddink
+- Ruth Parker
+- Will Homoky
+organisations:
+- Bangor University
+- Cefas
+- Centre for Environment, Fisheries and Aquaculture Science
+- Heriot-Watt University
+- Imperial College London
+- Marine Geochemistry
+- National Marine Facilities
+- Natural Environment Research Council
+- Plymouth Marine Laboratory
+- Project Lead for SeaSTORE
+- RRS
+- School of Earth, Environment and Sustainability
+- University of Leeds
+- University of Leeds.
 ---
 
 # Leeds researchers studying little-understood environmental impact of bottom trawling

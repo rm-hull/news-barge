@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21499547.jpg?type=og-image
+locations:
+- B1198 Shincliffe Lane
+people:
+- Anna Barnes
+organisations:
+- Northern Echo
 ---
 
 * Good evening, welcome to this Northern Echo live breaking news blog.

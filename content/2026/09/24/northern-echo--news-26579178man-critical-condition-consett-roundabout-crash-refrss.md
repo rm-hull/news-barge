@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21497763.jpg?type=og-image
+locations:
+- Catchgate
+- Consett
+- County Durham
+- Leadgate Road
+- Newcastle
+- Royal Victoria Infirmary
+- Stanley
+people:
+- Person
+organisations:
+- AA
+- Esso
+- IOPC
+- Independent Office for Police Conduct
+- North East Ambulance Service
+- RVI
+- THE NORTHERN ECHO
+- Villa Real
 ---
 
 A man is fighting for his life in hospital after crashing into a County Durham roundabout after a a police chase.

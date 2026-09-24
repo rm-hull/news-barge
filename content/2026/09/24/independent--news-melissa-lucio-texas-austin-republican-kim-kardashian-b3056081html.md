@@ -16,6 +16,20 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/23/Texas_Execution_Lucio_96166.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Italy
+- Texas
+people:
+- Amanda Knox
+- Kim Kardashian
+- Mariah
+- Melissa Lucio
+- Texas’
+- Vanessa Potkin
+organisations:
+- Innocence Project
+- Latina
+- Texas Court of Criminal Appeals
 ---
 
 A Texas court on Thursday rejected a ruling that a woman on death row for 18 years is innocent of capital murder in the killing of her 2-year-old daughter in a case that attracted bipartisan calls from lawmakers and celebrities to release her from prison.

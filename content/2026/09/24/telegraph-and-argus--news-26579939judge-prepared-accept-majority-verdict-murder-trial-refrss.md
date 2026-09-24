@@ -15,6 +15,21 @@ categories:
 - True Crime
 - Law & Justice
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+locations:
+- Bradford Crown Court
+- Burley-in-Wharfedale
+- Derry Hill
+- Ilkley
+- Main Street
+- Menston
+people:
+- Annabel Ramsay
+- John Robinson
+- Jonathan Carroll
+- Katto
+- Mason Jones
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

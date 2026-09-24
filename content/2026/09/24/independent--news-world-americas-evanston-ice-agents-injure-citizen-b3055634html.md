@@ -12,6 +12,22 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/11/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Chicago
+- Evanston
+- Ill.
+- Illinois
+- St. Francis Hospital
+- U.S.
+people:
+- Daniel Biss
+- Jan Schakowsky
+- Michael Lipson
+- Ryan Garton
+organisations:
+- DHS
+- Department of Homeland Security
+- Evanston Police Department
 ---
 
 A U.S. citizen was left bloody and hospitalized after federal immigration enforcement agents mistook him for a fugitive, pinned him to the ground, and attempted to handcuff him in Evanston, Illinois, according to local police and eyewitnesses.

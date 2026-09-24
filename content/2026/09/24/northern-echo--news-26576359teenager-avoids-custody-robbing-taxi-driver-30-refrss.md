@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/6191866.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Evenwood
+- Holyrood Court
+- Middlesbrough
+- North East
+people:
+- Anthony Dunne
+- Brandon Moloney
+- Gary Wood
+organisations:
+- Middlesbrough
+- Teesside Crown Court
 ---
 
 *(Image: NEWSQUEST)*

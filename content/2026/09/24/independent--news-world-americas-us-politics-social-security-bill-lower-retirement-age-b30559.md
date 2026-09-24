@@ -13,6 +13,20 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/18/39/GettyImages-1346574942.jpg?trim=0,66,0,66&width=1200&height=800&crop=1200:800
+locations:
+- Michigan
+- US
+people:
+- Abdul El-Sayed
+- Haley Stevens
+- Stevens’
+organisations:
+- Congress
+- Senate
+- Social Security
+- Social Security Administration
+- Stevens’
+- U.S. Bureau of Labor Statistics
 ---
 
 A new Social Security bill would lower the retirement age to 60 for workers with physically demanding jobs.

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/19193770.jpg?type=og-image&xType=0&yType=0
+locations:
+- Britain
+- North East
+- PA
+- UK
+people:
+- Andy Dawson
+- Bob Mortimer
+- Ian West
+- Mark Lawrenson
+- Paul Whitehouse
+- Peter Beardsley
+- Steve McClaren
+- Sunderland-born Dawson
+- Ted
+- Vic Reeves
+organisations:
+- Athletico Mince
+- Club Parsnips
+- Middlesbrough
+- Mortimer & Whitehouse
 ---
 
 *(Image: Supplied)*

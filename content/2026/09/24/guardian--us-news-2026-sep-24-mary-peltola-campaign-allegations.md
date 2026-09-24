@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/64ea489e0484c1f3636c7f5ff480eb0a58831657/230_0_3496_2797/master/3496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1db6344de9b8e688ac4d66a8cc8a6188
+locations:
+- Alaska
+- Maine
+- North Carolina
+- Ohio
+people:
+- Dan Sullivan
+- Harry Child
+- Mary Peltola
+- Paul Horner
+- Tyson Fick
+organisations:
+- Congress
+- House of Representatives
+- New York Times
+- Senate
+- US Capitol
+- US House of Representatives
 ---
 
 Mary Peltola’s campaign on Thursday downplayed a report that the Democratic nominee in Alaska’s pivotal Senate race shoved a staffer and used slurs, saying the article exaggerated her behavior, but acknowledging she struggled following the deaths of her husband and mother.

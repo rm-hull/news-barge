@@ -12,6 +12,46 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/18/Sun_Finale_Basketball_21_14.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Boston
+- Connecticut
+- Mohegan
+- Uncasville
+people:
+- Beth Regan
+- Blaze
+- Brittany Griner
+- Cass Meehan
+- Charlisse Leger-Walker
+- Emersyn
+- Heather Landry
+- Jonquel Jones
+- Keesusk
+- Keesusk’
+- Mohegan
+- Nykesha Sales
+- Saniya Rivers
+- Tilman Fertitta
+- Wilton Rancheria
+organisations:
+- Connecticut Sun
+- Global Indigenous Reporting Network
+- Houston Rockets
+- LA Clippers' Intuit Dome
+- Major League Soccer
+- Mohegan Tribal Council
+- Mohegan Tribe
+- Mohegan Tribe’s Council of Elders
+- National Lacrosse League
+- Nike
+- Orlando Miracle
+- Pechanga Band of Indians'
+- Rochester Knighthawks
+- Sacramento Republic FC
+- Seneca Nation
+- The Associated Press
+- The Connecticut Sun
+- WNBA
 ---
 
 For Cass Meehan, childhood visits to their Mohegan homelands meant family time and basketball. At six, sporting a red jersey that hung past their knees, Meehan joined a roaring crowd at some of the Connecticut Sun’s first WNBA games.

@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/24/16/1233684767..?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Burke
+organisations:
+- ABC 13
+- ATM
+- CNBC
+- Mastercard
+- Visa Inc.
+- Yahoo Finance
 ---
 
 ATM users who have withdrawn cash using Visa or Mastercard may be entitled to compensation as part of a $167 million class action lawsuit.

@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg
+locations:
+- Corcelles-les-Monts
+- Dijon
+- Dublin
+- France
+- Free Palestine
+- Gaza
+- Israel
+- London
+- New Jersey
+- Paris
+- Philadelphia
+- US
+people:
+- '![Macklemore'
+- Benjamin Haggerty
+- Ed Sheeran
+- Macklemore
+- Robert Kraft
+organisations:
+- Charlotte Church
+- Columbia University
+- Ed Sheeran
+- Free Palestine
+- Messina Touring Group
+- Rapper Macklemore
+- Thrift Shop
 ---
 
 ![Macklemore performs at the Goldencoast Rap Festival in France](https://ichef.bbci.co.uk/ace/standard/722/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg)

@@ -14,6 +14,14 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/24/20/APTOPIX_Colombia_Protest_37644.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bolivia
+- Caribbean
+- Latin America
+- Mexico City
+people:
+- Anita Baca
+organisations: []
 ---
 
 Bolivia's new wild cat, arts protests and other top photos from Latin America and the Caribbean

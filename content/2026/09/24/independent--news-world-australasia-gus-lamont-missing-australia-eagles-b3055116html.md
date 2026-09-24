@@ -13,6 +13,21 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2025/10/17/7/22/Gus-Lamont.jpeg?trim=236,0,245,0&width=1200&height=800&crop=1200:800
+locations:
+- South Australia
+people:
+- Darren Fielke
+- Gus Lamont
+- Gus’
+- Jess Lamont
+- Josh Lamont
+- Josie Murray
+- Peter Malinauskas
+organisations:
+- 7News
+- BBC*
+- Gus
+- Major Crime Investigation Branch
 ---
 
 The parents of a four-year-old boy who went missing near his family home in South Australia a year ago have said they believe someone knows what happened to their son, in a tearful new appeal.

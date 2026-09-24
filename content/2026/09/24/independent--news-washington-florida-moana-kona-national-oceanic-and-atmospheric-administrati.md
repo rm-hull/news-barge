@@ -11,6 +11,50 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/22/Abandoned_Boats_Hawaii_67559.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ala Wai
+- Ala Wai Small Boat Harbor
+- Davy Jones’
+- Florida
+- Hawaiʻi
+- Kewalo Basin
+- Kona
+- Kīhei
+- Sugar Beach
+- Waikīkī
+- Waiʻanae
+- Washington
+- Wilson
+people:
+- Andrew Laurence
+- Bruce Swartz
+- Delano Wilson
+- Demetrius “DJ” Smith
+- Ed Underwood
+- Justin Moore
+- Meghan Statts
+- Toni Schwartz
+- Troy Wood
+organisations:
+- AG
+- Coast Guard
+- DLNR
+- Department of Land and Natural Resources
+- Department of Natural Resources
+- Department of the Attorney General
+- Derelict Vessel Removal Program
+- Division of Boating and Ocean Recreation
+- Environment Hawaiʻi
+- Henry Marine Services
+- Honolulu Civil Beat
+- National Oceanic and Atmospheric Administration
+- Northwest Marine Trade Association
+- Pacific Environmental Corporation
+- Pink Sails
+- Prince Waikīki Hotel
+- The Associated Press
+- Treasure Seeker
+- U.S. Coast Guard
 ---
 
 A 72-foot ship illegally moored in the Ala Wai boat harbor has met its fate not in Davy Jones’ locker, but crushed and dumped in the Waiʻanae landfill after it was impounded by the state last month at taxpayers’ expense.

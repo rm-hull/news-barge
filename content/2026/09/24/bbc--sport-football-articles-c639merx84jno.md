@@ -13,6 +13,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg
+locations:
+- Aston Villa
+- Strasbourg
+people:
+- Andrea Traverso
+- Morgan Rogers
+organisations:
+- Chelsea
+- Morgan Rogers
+- Uefa
 ---
 
 ![Morgan Rogers signs his contract after becoming a Chelsea player](https://ichef.bbci.co.uk/ace/standard/888/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg)

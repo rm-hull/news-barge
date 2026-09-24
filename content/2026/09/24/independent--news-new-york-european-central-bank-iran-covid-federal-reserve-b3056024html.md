@@ -12,6 +12,20 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/21/Bond_Market_Why_It_Matters_16456.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- Germany
+- Iran
+- U.S.
+- United States
+people: []
+organisations:
+- European Central Bank
+- Fed
+- Federal Reserve
+- IOUs
+- U.S. Treasury
+- U.S. Treasurys
 ---
 
 Nearly everyone will feel the impact of what's going on in the bond market, no matter how far away and abstract it may seem.

@@ -12,6 +12,44 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/44duLpUetZwdGTjWgSeWrH-1024-80.jpg
+locations:
+- Australia
+- Belgrade
+- CA
+- Canada
+- Fubo**
+- Germany
+- Greece
+- Netherlands
+- Serbia
+- UK
+- US
+- USA
+- canada
+people:
+- Charalampos Kostoulas
+- Christos Mouzakitis
+- Dusan Tadic
+- Dusan Vlahovic
+- Sergeij Milinkovic-Savic
+- Sergej Milinkovic-Savic
+- Veljko Paunovic
+organisations:
+- Alpha TV
+- AlphaTV**
+- Arsenal
+- Brighton
+- DAZN
+- FuboTV
+- Future Publishing
+- Hull
+- NordVPN**
+- Premier League
+- RTS Planeta
+- Scotland
+- Stadion Rajko Mitic
+- TechRadar
+- ViX
 ---
 
 ![Sergeij Milinkovic-Savic controls the ball](https://cdn.mos.cms.futurecdn.net/44duLpUetZwdGTjWgSeWrH.jpg)

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/23/Trump_Russia_Probe_9_542.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Fort Pierce
+- Mar-a-Lago
+- Russia
+- U.S.
+people:
+- Aileen Cannon
+- Donald Trump
+- Jack Smith
+- Joseph diGenova
+organisations:
+- Congress
+- DOJ
+- FBI
+- Justice Department
+- Mar-a-Lago
+- Trump
+- non-Justice Department
 ---
 
 Former FBI employees involved in the criminal investigation into President Donald Trump's retention of classified documents have been subpoenaed to appear before a grand jury in a broad Florida-based conspiracy probe, their lawyers revealed Thursday as they asked a judge to clarify whether they can testify without violating an order restricting the release of information.

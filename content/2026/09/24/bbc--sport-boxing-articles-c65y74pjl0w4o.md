@@ -14,6 +14,42 @@ categories:
 - Sports
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/60d8/live/f284d560-b842-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- America
+- Britain
+- Decemberat Cardiff
+- Fury
+- London
+- New York
+- Principality Stadium
+- UK
+- US
+people:
+- '## Ringwalk'
+- Anthony Joshua
+- Arslanbek Makhmudov
+- Dana White
+- Eddie Hearn
+- Frank Warren
+- Fury-Joshua
+- Joe Calzaghe
+- Mikkel Kessler
+- Queensberry
+- Sela
+- Turki Alalshikh
+- Tyson Fury
+organisations:
+- AJ
+- BBC Sport
+- BBC Sport Queensberry
+- Cardiff
+- Fury
+- Matchroom YouTube
+- Netflix
+- Principality Stadium.
+- UFC
+- WBA
+- Zuffa Boxing
 ---
 
 ![Tyson Fury points to Anthony Joshua after Fury's win against Arslanbek Makhmudov in April](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/60d8/live/f284d560-b842-11f1-bc1f-3f186ca4140c.jpg)

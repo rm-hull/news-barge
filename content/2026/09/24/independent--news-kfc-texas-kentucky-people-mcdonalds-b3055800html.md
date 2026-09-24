@@ -13,6 +13,51 @@ categories:
 - UK
 - Food & Cooking
 image: https://static.independent.co.uk/2026/09/24/15/KFC_Restaurant_Revival_66145.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Canada
+- China
+- Corbin
+- Dubai
+- Florida
+- Kentucky
+- London
+- Louisville
+- McKinney
+- Open House
+- Seoul
+- Texas
+- Turkey
+- U.S.
+- US
+- United Kingdom
+- Utah
+people:
+- Christophe Poirier
+- Dave
+- Dhiren Karnani
+- Harland Sanders
+- Long John Silver
+- Neil Saunders
+- Phil Kafarakis
+organisations:
+- Apple Store
+- Chick-fil-A
+- GlobalData
+- Hot Chicken
+- IFMA The Food Away from Home Association
+- KFC
+- McDonald's
+- Open House
+- Pizza Hut
+- Popeyes
+- Raising Cane's
+- Sanders’
+- Saucy
+- Taco Bell
+- Technomic
+- Wingstop
+- Yum Brands
 ---
 
 KFC has been taking a licking from fried chicken rivals like Raising Cane's, but the global fast-food chain has a plan to return to the top of the U.S. pecking order.

@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21494852.jpg?type=og-image
+locations:
+- Consett
+- Villa Real
+people:
+- Olivia Howlett
+organisations: []
 ---
 
 ## Our live feed has now finished.

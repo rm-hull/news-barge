@@ -13,6 +13,34 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/15/FDA_Commissioner_3935_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Louisiana
+- Maine
+- Minnesota
+- U.S.
+- Washington
+- White House
+people:
+- Alaska Sen
+- Bill Cassidy
+- Donald Trump
+- Heidi Overton
+- Joe Biden
+- Lisa Murkowski
+- Marty Makary
+- Robert F. Kennedy
+- Susan Collins
+organisations:
+- AP Fund for Journalism
+- America First Policy Institute
+- FDA
+- Food and Drug Administration
+- Johns Hopkins University
+- Oval Office
+- Overton
+- Senate
+- Trump
+- University of New Mexico
 ---
 
 President Donald Trump’s nominee to take over the Food and Drug Administration is set to answer questions Thursday, with Senate lawmakers likely to focus on her plans for vaccines, the abortion pill and other products that have come under new scrutiny at the regulatory agency.

@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21499471.jpg?type=og-image
+locations:
+- Hurworth
+people:
+- Anna Barnes
+organisations:
+- Northern Echo
 ---
 
 * Good afternoon, welcome to this Northern Echo live breaking news blog.

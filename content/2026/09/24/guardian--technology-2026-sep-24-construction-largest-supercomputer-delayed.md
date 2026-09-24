@@ -13,6 +13,25 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/9_0_686_549/master/686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e06b5eec62cafac4151b877a49c45ba5
+locations:
+- Essex
+- Loughton
+- National Grid
+- UK
+people:
+- Keir Starmer
+- Nscale
+organisations:
+- AI
+- Guardian
+- Morning Intelligence
+- NESO
+- National Energy System Operator
+- National Grid
+- Nscale
+- Ofgem
+- UK Power Networks
+- UKPN
 ---
 
 A huge datacentre project hailed by the UK government will miss its launch date next year and could be delayed into the mid-2030s.

@@ -13,6 +13,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Brighton
+- Old Trafford
+- United
+people:
+- Andrey Santos
+- Carlos Baleba
+- Jim Ratcliffe
+- Youri Tielemans
+organisations:
+- Aston Villa
+- Chelsea
+- Manchester United
+- New York Stock Exchange
 ---
 
 ![View of Manchester United's Old Trafford stadium from above](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg)

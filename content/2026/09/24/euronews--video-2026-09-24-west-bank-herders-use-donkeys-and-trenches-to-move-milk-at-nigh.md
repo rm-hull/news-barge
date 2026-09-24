@@ -11,6 +11,10 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/63/06/1200x675_cmsv2_77dc98f2-fd38-535a-b8fc-f6c8e19cc300-9926306.jpg
+locations:
+- West Bank
+people: []
+organisations: []
 ---
 
 Herders in the West Bank use donkeys to carry milk churns through an earthen trench before loading them onto a vehicle.

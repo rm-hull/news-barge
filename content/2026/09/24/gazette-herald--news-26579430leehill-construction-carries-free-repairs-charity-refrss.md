@@ -14,6 +14,14 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.gazetteherald.co.uk/resources/images/21498025.jpg?type=og-image&xType=0&yType=0
+locations:
+- Ripon
+people:
+- Anthony Allinson
+- Deb Sleep
+organisations:
+- Jennyruth Workshops
+- LEEHILL Construction
 ---
 
 *(Image: Supplied)*

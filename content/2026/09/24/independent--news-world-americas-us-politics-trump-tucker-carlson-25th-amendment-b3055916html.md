@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/06/08/19/22/GettyImages-2181497303.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+people:
+- Donald Trump
+- Steve Inskeep
+- Tucker Carlson
+organisations:
+- Cabinet
+- NPR
+- Trump
 ---
 
 Tucker Carlson has called for President Donald Trump to be removed from office under the 25th Amendment.

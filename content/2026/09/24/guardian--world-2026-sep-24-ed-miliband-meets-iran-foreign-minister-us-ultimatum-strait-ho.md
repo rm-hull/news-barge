@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/d19a32d6a77bb1262e0295d4661b6f15b2f2ca73/507_0_5056_4047/master/5056.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f48eb89c87152601a113be2386680d1
+locations:
+- Bab al-Mandab
+- Gulf
+- Hormuz
+- Iran
+- Lebanon
+- New York
+- Red Sea
+- Saudi Arabia
+- Tehran
+- UK
+- US
+- Washington
+- Yemen
+people:
+- Abbas Araghchi
+- Ahmad Vahidi
+- Ed Miliband
+- Maj Gen
+- Marco Rubio
+- Masoud Pezeshkian
+- Mohsen Rezaei
+- Rahim Safavi
+- Safadi
+- Steve Witkoff
+organisations:
+- IRGC
+- Islamic Revolutionary Guards Corps
+- UN
+- United Nations
 ---
 
 The UK foreign secretary, Ed Miliband, has met his Iranian counterpart, Abbas Araghchi, for the first time in New York amid warnings from senior Iranian security officials that the US has four to five days to respond to its conditions for reopening the strait of Hormuz.

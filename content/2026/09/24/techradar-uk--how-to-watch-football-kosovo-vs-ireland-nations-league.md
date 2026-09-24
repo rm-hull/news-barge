@@ -13,6 +13,32 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/H3CoWYZocci3gE2pMSNeyn-2500-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Ireland
+- Kosovo
+- Spain
+- UK
+- US
+- USA
+- canada
+people:
+- Heimir Hallgrímsson
+- Milot Rashica
+- Troy Parrott
+organisations:
+- Besiktas
+- DAZN
+- Future Publishing
+- Nations League
+- RTE Player**
+- Real Betis
+- Real Madrid
+- TechRadar
+- Tottenham
+- beIN Sports
 ---
 
 ![Troy Parrott playing for Ireland against Canada](https://cdn.mos.cms.futurecdn.net/H3CoWYZocci3gE2pMSNeyn.jpg)

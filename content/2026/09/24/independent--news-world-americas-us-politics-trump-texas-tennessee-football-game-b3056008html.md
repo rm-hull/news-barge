@@ -12,6 +12,31 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2025/09/26/16/01/GettyImages-2237559063.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Florida
+- Indiana
+- Knoxville
+- Miami
+- New York City
+- Neyland Stadium
+- Spain
+- Tennessee
+- Texas
+- Texas-Tennessee
+- U.S.
+people:
+- Donald Trump
+- Steve Sarkisian
+organisations:
+- NBA
+- New York Knicks
+- No. 14 Tennessee
+- San Antonio Spurs
+- Secret Service Police
+- Spain
+- Texas
+- WWE
 ---
 
 President Donald Trump’s planned attendance at Saturday’s showdown between No. 1 Texas and No. 14 Tennessee may cause chaos by disrupting on-field communication over headsets, according to a report.

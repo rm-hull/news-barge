@@ -14,6 +14,23 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd-1920-80.jpg
+locations:
+- Europe
+- Jimbocho
+- Okayama Prefecture
+- Tokyo
+- U.S.
+- Western Japan
+people:
+- Mark Tyson
+- Tom
+organisations:
+- AI
+- Anthropic
+- Get Tom's Hardware
+- Google News
+- NTV Japan
+- Tom's Hardware
 ---
 
 ![A bookstore in Jimbocho, Tokyo](https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd.jpg)

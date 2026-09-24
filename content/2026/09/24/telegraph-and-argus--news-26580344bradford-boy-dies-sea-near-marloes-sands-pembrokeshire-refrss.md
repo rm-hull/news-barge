@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429672.jpg?type=og-image
+locations:
+- Bradford
+- Marloes Sands
+- Pembrokeshire
+- Poland
+- Wales
+people:
+- Marcin Michal Komoszewski
+organisations:
+- RNLI
 ---
 
 *(Image: PA)*

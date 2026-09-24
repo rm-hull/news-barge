@@ -11,6 +11,15 @@ description: Tektronix's DPO718AX packs an EPYC CPU, Nvidia GPU, and 96GB of RAM
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/miy2VGeoqdiu7oMQ9AGvdR-1920-80.jpg
+locations: []
+people: []
+organisations:
+- AMD
+- CNX Software
+- DPO718AX
+- EPYC CPU
+- TechRadar Pro
+- Tektronix
 ---
 
 ![The Tektronix 7 series DPO digital phosphor oscilloscope](https://cdn.mos.cms.futurecdn.net/miy2VGeoqdiu7oMQ9AGvdR.jpg)

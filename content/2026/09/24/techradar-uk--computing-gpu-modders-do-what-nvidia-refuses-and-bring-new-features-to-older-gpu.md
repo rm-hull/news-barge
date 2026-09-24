@@ -12,6 +12,23 @@ description: Nvidia's driver-level Frame Generation now works on RTX 3000 series
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/WV5DuA3g6UyUMoqUhkVGA5-2000-80.jpg
+locations: []
+people: []
+organisations:
+- AMD Radeon
+- Ada Lovelace
+- Ampere GPU
+- DLSS
+- Frame Generation
+- GeForce
+- GitHub
+- Multi-Frame Generation
+- Nvidia Smooth Motion
+- PC
+- RAM
+- Smooth Motion
+- Team Green
+- Wccftech
 ---
 
 ![An Nvidia RTX 3090 on a wooden table](https://cdn.mos.cms.futurecdn.net/WV5DuA3g6UyUMoqUhkVGA5.jpg)

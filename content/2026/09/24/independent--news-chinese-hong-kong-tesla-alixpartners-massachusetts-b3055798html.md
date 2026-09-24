@@ -15,6 +15,28 @@ categories:
 - Automotive
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/14/China_EV_Batteries_73_21.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Amherst
+- China
+- Massachusetts
+- U.S.
+people:
+- Chris Liu
+- Lei Xing
+- Neal Ganguli
+- Stephen Chan
+organisations:
+- AlixPartners
+- BYD
+- CATL
+- Deutsche Bank
+- Geely Auto
+- Hyundai
+- Kia
+- Omdia
+- Porsche
+- S&P Global Ratings
+- Tesla
 ---
 
 Chinese electric vehicles’ ultrafast charging is only getting faster.

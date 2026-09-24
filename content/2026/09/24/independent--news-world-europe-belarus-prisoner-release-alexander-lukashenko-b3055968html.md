@@ -12,6 +12,19 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/19/2026-09-01T100434Z_839246668_RC29ANA0CTJD_RTRMADP_3_SCO-SUMMIT-KYRGYZSTAN.JPG?trim=36,0,36,0&width=1200&height=800&crop=1200:800
+locations:
+- Belarus
+- U.S.
+people:
+- Alexander Lukashenko
+- Donald Trump
+- John Coale
+- Vladimir Putin
+organisations:
+- Citi
+- Citibank
+- European Union
+- Viasna
 ---
 
 Belarusian President Alexander Lukashenko pardoned 15 prisoners by decree on Thursday, following discussions last week with an envoy for U.S. President Donald Trump.

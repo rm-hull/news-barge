@@ -15,6 +15,23 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/14/25/6654773-library.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Manhattan
+people:
+- Brian Larson
+- DEI
+- Jamie Dimon
+- Julia Elmaleh-Sachs
+- Samantha Wilhelm
+organisations:
+- Chase Associate Program
+- JPMorgan Chase
+- JPMorgan’s LGBTQ
+- Larson
+- PRIDE Tri-State
+- The Independent
+- Title VII
+- Uber
 ---
 
 An openly gay senior associate at JPMorgan Chase claims he was pushed out of his job by a homophobic boss who made his life so miserable, he began experiencing panic attacks, severe depression, and a resurgence of trichotillomania, a psychological disorder marked by an irresistible urge to pull out one’s own hair.

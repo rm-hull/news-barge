@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/541ccbc5478002d99bff5bf7321c5626fd35920c/531_227_3036_2429/master/3036.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a22014b79aa0a1258eaef54046be59d
+locations:
+- California
+- Georgia
+- Riverside
+people:
+- Chad Bianco
+- Donald Trump
+- Gavin Newsom
+- Rob Bonta
+organisations:
+- Los Angeles Voting Rights Project
+- University of California
 ---
 
 A Republican California sheriff must return more than a half-million ballots he seized for an investigation into unfounded voting improprieties in a special election last year, the state supreme court ruled Thursday.

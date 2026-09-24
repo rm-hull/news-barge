@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/2779e44ca5921dffb66b2bb584108ea775e013d4/571_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae54f6f1b453299917826e5c7aa1c34
+locations:
+- Argentina
+- Brazil
+- Colombia
+- Honduras
+- Latin America
+- US
+people:
+- Abelardo de la Espriella
+- Bernie Sanders
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Luiz Inácio Lula da Silva
+- Marco Rubio
+- Trump
+organisations:
+- House of Representatives
+- Trump
+- UN
+- US Congress
 ---
 
 A group of 31 Democratic members of the US Congress has sent a letter to the secretary of state, Marco Rubio, criticising the Trump administration over “an apparent effort to interfere with, and potentially undermine” Brazil’s elections.

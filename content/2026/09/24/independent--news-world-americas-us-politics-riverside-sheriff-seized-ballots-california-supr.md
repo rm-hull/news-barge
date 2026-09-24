@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/18/California_Sheriff_Ballot_Seizure_39_51.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Georgia
+- Riverside County
+people:
+- Bradley Hertz
+- Chad Bianco
+- Chad Dunn
+- Donald Trump
+- Gavin Newsom
+- Rob Bonta
+- Xavier Becerra
+organisations:
+- Attorney General
+- Bianco
+- Legislature
+- Los Angeles Voting Rights Project
+- Riverside County Registrar of Voters
+- Supreme Court
+- UCLA Voting Rights Project
+- University of California
 ---
 
 California's state Supreme Court ruled Thursday that a Republican sheriff must hand back more than half a million ballots he confiscated for an inquiry into unsubstantiated claims of voter fraud during a special election last year.

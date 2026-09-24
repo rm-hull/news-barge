@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://i.guim.co.uk/img/media/761c49fa09e77b629cf880e89cf7d683df3f2f2f/622_0_2835_2268/master/2835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e85432930b8cc82bec5cc742c502b955
+locations:
+- Australia
+- Baiada
+- Europe
+- France
+- Netherlands
+- Norway
+- Oakburn
+- Sydney
+- Tamworth
+people:
+- Charlie Baiada
+- Jed Goodfellow
+- Jeff Budd
+- Melina Tensen
+- Simon Camilleri
+- Stephen Walkden-Brown
+organisations:
+- Australian Alliance for Animals
+- Baiada
+- Lilydale Free Range
+- Poultry Hub Australia
+- RSPCA
+- Steggles
+- University of New England
 ---
 
 It is for birds? Is it for planes?

@@ -11,6 +11,17 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbc7/live/4d40df20-b844-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Gaza
+- Israel
+- Lebanon
+- New York
+people:
+- Benjamin Netanyahu
+organisations:
+- General Assembly
+- UN
+- United Nations
 ---
 
 # Watch: UN delegates walk out of Netanyahu speech

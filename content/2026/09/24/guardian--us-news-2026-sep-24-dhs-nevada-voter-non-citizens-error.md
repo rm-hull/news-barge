@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/9b538afb235ae598fd75349deb149418f972c3ed/648_0_6478_5185/master/6478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52038c2666097cd17cff052440fbba97
+locations:
+- California
+- Nevada
+- New Jersey
+- Pennsylvania
+- US
+- United States
+people:
+- Al Schmidt
+- Donald Trump
+- Greg Ott
+organisations:
+- DHS
+- Department of Homeland Security
+- Nevada Independent
+- New York Times
+- Votebeat
 ---
 
 The Department of Homeland Security (DHS) wrongly identified 185 people on Nevada’s voter rolls as non-citizens, state officials said this week, escalating concerns over the shoddy methodology the government is using to raise fear about non-citizen voting ahead of the midterm elections.

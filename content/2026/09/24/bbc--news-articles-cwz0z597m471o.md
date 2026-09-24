@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f193/live/2999b1a0-b80d-11f1-a430-4d16ee157c41.jpg
+locations:
+- Boulogne-sur-Mer
+- Folkestone
+- France
+- Normandy
+people:
+- Burnham
+- Chris Philp
+- Keir Starmer
+- Lucy Powell
+- Max Wilkinson
+- Nigel Farage
+- Shabana Mahmood
+organisations:
+- BBC Kent
+- BBC Radio Kent
+- Border Force
+- EU
+- English Channel
+- Home Office
+- Labour Party
+- PA Media
+- Reform UK
+- Royal Navy
 ---
 
 ![A vessel at a quayside with "border security command" written on the hull. Dozens of people wearing life jackets are filing off the boat and onto a pontoon.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f193/live/2999b1a0-b80d-11f1-a430-4d16ee157c41.jpg)

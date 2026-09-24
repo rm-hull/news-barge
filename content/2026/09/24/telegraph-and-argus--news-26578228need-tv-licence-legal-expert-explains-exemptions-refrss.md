@@ -15,6 +15,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20472573.jpg?type=og-image
+locations:
+- Europe
+- UK
+people: []
+organisations:
+- ARC
+- BBC iPlayer
+- TV Licensing
+- The University of Law
 ---
 
 *(Image: Getty)*

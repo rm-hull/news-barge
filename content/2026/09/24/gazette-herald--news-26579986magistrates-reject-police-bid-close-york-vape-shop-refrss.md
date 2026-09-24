@@ -13,6 +13,18 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21492366.jpg?type=og-image
+locations:
+- North Yorkshire
+- Tang Hall
+- York
+people:
+- Julie Dalzell
+- Kashif Khan
+- Mohammed Latif Ahmad
+- Ms Dalzell
+organisations:
+- 4th Avenue Shop
+- Newsquest
 ---
 
 THE vape shop at the centre of a major police raid earlier this week can reopen, York magistrates decided after hearing allegations about its stock and staff.

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/61/53/1200x675_cmsv2_930cab38-4b11-5b4b-9db7-8844e5040039-9926153.jpg
+locations:
+- Brooklyn Bridge
+- Embarcadero
+- Golden Gate Bridge
+- Honolulu
+- New York
+- San Diego
+- San Francisco
+- US West Coast
+people: []
+organisations:
+- Cuauhtémoc
+- Mexican Navy
 ---
 
 The Mexican Navy tall ship Cuauhtémoc sails beneath San Francisco's Golden Gate Bridge before docking along the Embarcadero.

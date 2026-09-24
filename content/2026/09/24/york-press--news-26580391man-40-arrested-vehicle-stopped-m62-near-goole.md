@@ -12,6 +12,13 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/15215204.jpg?type=og-image&xType=0&yType=36
+locations:
+- East Yorkshire
+- Goole
+- M62
+people: []
+organisations:
+- Humberside Police
 ---
 
 *(Image: Supplied)*

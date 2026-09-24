@@ -15,6 +15,27 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/22/Trump_Supreme_Court_Wins_and_Losses__76.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Equatorial Guinea
+- Guyana
+- Liberia
+- Mexico
+- Minneapolis
+- U.S.
+- United States
+people:
+- D. John Sauer
+- Donald Trump
+- James Percival
+- Taylor Swift
+- Tim Sullivan
+- Travis Kelce
+organisations:
+- AP
+- DHS
+- Department of Homeland Security
+- Supreme Court
+- U.S. Supreme Court
 ---
 
 President Donald Trump's administration asked the Supreme Court on Thursday to again clear the way for continued quick deportations of immigrants to third countries where they have no ties.

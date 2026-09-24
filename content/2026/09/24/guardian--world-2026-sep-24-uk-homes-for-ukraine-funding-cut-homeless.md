@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/f227352527de9594c5e926b3b687e846d21b8e8a/487_0_4846_3879/master/4846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b1fe334a783f87f4755ee3becdbbc45
+locations:
+- Cardiff
+- Greenwich
+- Kharkiv
+- Russia
+- UK
+- Ukraine
+people:
+- Nataliya Rumyanetseva
+- Tetiana
+organisations:
+- Home Office
+- Ministry of Housing, Communities and Local Government
 ---
 
 Ukrainian refugees in the UK fear they could be left homeless after the government quietly axed 70% of funding for hosts of the Homes for Ukraine scheme, reducing monthly “thank you” payments to them from £350 to £100.

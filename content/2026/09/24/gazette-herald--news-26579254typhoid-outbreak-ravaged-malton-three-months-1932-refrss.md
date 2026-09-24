@@ -13,6 +13,20 @@ categories:
 - History
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21497780.jpg?type=og-image
+locations:
+- Malton Urban District
+- Norton
+- Spring Hall
+people:
+- George Colley Parkin
+- Norton
+- W.V. Shaw
+organisations:
+- Institution
+- Malton Museum
+- Minister of Health
+- Spring Hall
+- Wellcome Collection
 ---
 
 On September 23, 1932, a typhoid outbreak commenced in Malton.

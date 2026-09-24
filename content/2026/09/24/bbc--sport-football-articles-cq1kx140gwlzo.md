@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg
+locations:
+- Banbury
+- Boxpark
+- Crystal Palace
+- Curacao
+- Downing Street
+- England
+- Europe
+- France
+- Germany
+- Greatrex
+- Hampden
+- Japan
+- Leicester
+- New York
+- Scotland
+- Slovenia
+- South
+- Twickenham
+- UK
+- Wales
+people:
+- Adrian
+- Andy Burnham
+- Dave
+- Mark Roberts
+- Nicky Campbell
+- Richard Masters
+- Ryan
+- Tom Greatrex
+organisations:
+- BBC Radio 5 Live
+- Celtic
+- Chelsea
+- English Football League
+- Everton
+- FSA
+- Football Supporters' Association
+- Motherwell
+- Premier League
+- Rangers
+- Switzerland
+- UK Football Policing Unit
+- United Nations
+- WSL Football
+- Wolves
+- Women's Super League
 ---
 
 ![An Everton fan drinks a beer before the Premier League match against Crystal Palace](https://ichef.bbci.co.uk/ace/standard/851/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg)

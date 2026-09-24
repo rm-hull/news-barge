@@ -13,6 +13,12 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/16932947.jpg?type=og-image
+locations:
+- TOP York
+people: []
+organisations:
+- North Yorkshire Police
+- St Peter’s School
 ---
 
 A TOP York school was placed in lockdown after reports that a threat was made to pupils, North Yorkshire Police has said.

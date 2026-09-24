@@ -11,6 +11,21 @@ description: The opt-in feature activates Opera's free built-in VPN when it dete
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/ujDpEsz2QzPTn27qVNm4c8-1920-80.png
+locations:
+- France
+- Opera
+- US
+people:
+- Arjan van Leeuwen
+organisations:
+- Chrome
+- Deloitte
+- ExpressVPN
+- No Trace
+- Opera One Engineering
+- Opera VPN Pro
+- Safari
+- VPNs
 ---
 
 ![Woman working on laptop on the right, Opera logo on the left, and Opera VPN free activated on public Wi-Fi&#039;s disclaimer at the center](https://cdn.mos.cms.futurecdn.net/ujDpEsz2QzPTn27qVNm4c8.png)

@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/68/29/1200x675_cmsv2_198f9351-d79a-5246-abdb-7262d75148d7-9926829.jpg
+locations:
+- Canada
+- Europe
+- France
+- Italy
+- New York
+- Russia
+- Spain
+- U.S.
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Mark Rutte
+- Pete Hegseth
+- Vladimir Putin
+organisations:
+- NATO
 ---
 
 ## NATO chief Mark Rutte said the alliance was prepared to respond to Russian hybrid attacks against European countries following fresh warnings from Danish intelligence. Meanwhile, US Defence Secretary Pete Hegseth urged European allies to take greater responsibility for their own defence.

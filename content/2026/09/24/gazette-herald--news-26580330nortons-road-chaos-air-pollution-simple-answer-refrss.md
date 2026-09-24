@@ -12,6 +12,25 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21426182.jpg?type=og-image&xType=0&yType=1079
+locations:
+- Butcher Corner
+- Castlegate
+- Church Street
+- County Bridge
+- Derwent
+- Langton Road
+- Lidl
+- Norton Road
+- Railway Street
+- St Nicholas Street
+- Welham Road
+people:
+- Di Keal Norton
+- Terry Greene
+organisations:
+- Gazette & Herald
+- Malton & Norton Infrastructure and Connectivity Plan
+- North Yorkshire Council
 ---
 
 *(Image: Freelancer)*

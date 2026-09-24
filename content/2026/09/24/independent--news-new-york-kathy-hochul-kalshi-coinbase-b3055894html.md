@@ -13,6 +13,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: null
+locations:
+- NYC
+- New York
+people:
+- Kathy Hochul
+- Neal Kumar
+organisations:
+- Coinbase
+- Commodity Futures Trading Commission
+- Gemini
+- Kalshi
+- Polymarket
+- U.S. Commodity Futures Trading Commission
 ---
 
 New York sued the prediction market Polymarket on Thursday, arguing the platform is an unlicensed gambling operation and calling for a judge to block the company from operating in the state.

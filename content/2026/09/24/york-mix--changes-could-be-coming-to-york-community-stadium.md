@@ -11,6 +11,21 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-community-stadium-april-2026.webp
+locations:
+- Bootham Crescent
+- Huntington’s Monks Cross Shopping Park
+- LNER Community Stadium
+- York City
+people: []
+organisations:
+- Box Bar’
+- City of York Council
+- Greenwich Leisure Ltd
+- York City’s
+- York Knights
+- York Knights’
+- York Valkyrie
+- York Valkyrie Women
 ---
 
 Changes could be coming to the home of York City, York Knights and York Valkyrie.

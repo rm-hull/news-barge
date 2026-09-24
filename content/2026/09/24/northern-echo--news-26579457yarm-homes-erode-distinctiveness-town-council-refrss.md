@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/19684819.jpg?type=og-image
+locations:
+- County Durham
+- Crossways Junction
+- Dunedin House
+- Gladman
+- Green Lane
+- Leven Road
+- Morley Carr Farm
+- Mount Leven
+- Thornaby
+- YOUR
+- Yarm
+people:
+- George Underwood
+- John Hunter
+- Philip Wooliscroft
+- Sasha White KC
+- Taylor Wimpey
+organisations:
+- Active Travel England
+- Public Notice Portal
+- Stockton Borough Council
+- TAYLOR WIMPEY
+- THE NORTHERN ECHO
+- Taylor Wimpey
 ---
 
 ### What is the Public Notice Portal?

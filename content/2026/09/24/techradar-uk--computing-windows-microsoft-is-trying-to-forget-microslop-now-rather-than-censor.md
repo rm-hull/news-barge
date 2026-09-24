@@ -15,6 +15,17 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-2000-80.jpg
+locations:
+- AI
+people:
+- Microslop
+- Redditor
+organisations:
+- AI
+- Copilot Discord
+- Microsoft
+- Reddit
+- Windows Latest
 ---
 
 ![Woman disgusted by her Windows laptop](https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U.jpg)

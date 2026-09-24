@@ -13,6 +13,27 @@ categories:
 - Society & Culture
 - True Crime
 image: https://static.independent.co.uk/2026/09/24/16/01M3A252QRNMW2PBP0Y1P85G5D.jpg?trim=263,0,263,0&width=1200&height=800&crop=1200:800
+locations:
+- Eastney
+- Ferry Road
+- France
+- Hampshire
+- Hayling Island
+- Paulsgrove
+- Portsmouth Magistrates’ Court
+people:
+- '![Somerville'
+- Daniel Sawyer
+- Del Somerville
+- Edward Warren
+- Helen Easterbrook
+- Ms Easterbook
+organisations:
+- Coastguard
+- Hampshire Constabulary
+- Portsmouth Crown Court
+- RNLI
+- Somerville
 ---
 
 A father-of-two has become the first protester jailed after throwing a plastic bottle at police and swearing at officers during an anti-migrant demonstration in Portsmouth.

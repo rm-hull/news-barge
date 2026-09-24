@@ -11,6 +11,20 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-yorkshire-police-operation-super-tornado-two-23-sept-2026-nyp-1.webp
+locations:
+- Davygate
+- Fourth Avenue
+- North Yorkshire
+- Northallerton
+- York
+people:
+- Tim Forber
+organisations:
+- '***YorkMix***'
+- Fourth Avenue Shop
+- Liberty
+- North Yorkshire Police
+- Proceeds of Crime
 ---
 
 Sixty-four people have been arrested in a North Yorkshire Police operation said to be one of the biggest in the force’s history.

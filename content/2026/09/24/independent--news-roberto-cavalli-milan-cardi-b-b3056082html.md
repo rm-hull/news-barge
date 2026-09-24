@@ -12,6 +12,15 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/24/23/APTOPIX_Italy_Fashion_Roberto_Cavalli_S_S_27_9875_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Roberto Cavalli
+people:
+- Cardi B
+- Cavalli
+- Fausto Puglisi
+- Kollin Carter
+organisations:
+- Milan Fashion Week
 ---
 
 Cardi B was thronged by photographers as she arrived at the Roberto Cavalli runway show Thursday, adding star power to Milan Fashion Week.

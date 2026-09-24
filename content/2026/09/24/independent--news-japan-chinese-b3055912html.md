@@ -14,6 +14,9 @@ categories:
 - Arts & Culture
 - Sports
 image: https://static.independent.co.uk/2026/09/24/17/Asian_Games_Wushu_11112.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations: []
 ---
 
 Photos of wushu athletes performing martial arts routines at the Asian Games

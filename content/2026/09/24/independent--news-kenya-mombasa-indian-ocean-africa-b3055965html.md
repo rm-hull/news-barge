@@ -13,6 +13,15 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/19/Kenya_Meth_Destruction_12137.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Indian Ocean
+- Kenya
+- Mombasa
+- africa
+people:
+- Kipchumba Murkomen
+organisations:
+- Kenyan Navy
 ---
 
 Kenyan authorities on Thursday destroyed a massive haul of methamphetamine worth an estimated $63 million, nearly a year after the drugs were intercepted in the Indian Ocean off the coast of Mombasa.

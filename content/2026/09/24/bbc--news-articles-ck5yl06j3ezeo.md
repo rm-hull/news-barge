@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bd3/live/65b408b0-b809-11f1-93f5-ff96839fb91e.jpg
+locations:
+- An Garda Síochána
+- Buncrana
+- Castlerea Prison
+- County Donegal
+- County Roscommon
+- Fahan Marina
+- Londonderry
+- Maghaberry Prison
+- Northern Ireland
+- Republic of Ireland
+people:
+- Emile Daly
+- Francesca
+- Garda Sgt
+- Gary Anderson
+- Jason Conroy
+- Jim Collins
+- Karol Kelly
+- Naomi Long
+organisations:
+- DPP
+- Garda
+- Jurisdiction
+- Justice
+- Letterkenny District Court
+- Public Prosecutions
 ---
 
 ![Gary Anderson pictured attending court on Thursday. He has short brown hair and a beard. He is wearing a black jumper and is seen walking in the rain.](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/5bd3/live/65b408b0-b809-11f1-93f5-ff96839fb91e.jpg)

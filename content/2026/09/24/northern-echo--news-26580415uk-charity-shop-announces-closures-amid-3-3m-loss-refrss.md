@@ -14,6 +14,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21243386.jpg?type=og-image&xType=0&yType=68
+locations:
+- Abingdon
+- Bury Street
+- County Durham Amanda
+people:
+- Charmaine Griffiths
+- Clive Owen
+organisations:
+- BHF
+- British Heart Foundation
+- Civil Society
+- Our Farm Next Door
 ---
 
 The British Heart Foundation made a net loss of £3.3m last year from its network of 651 charity shops, its accounts have shown.

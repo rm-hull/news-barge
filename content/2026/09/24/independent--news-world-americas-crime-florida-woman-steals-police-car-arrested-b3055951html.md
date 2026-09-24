@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.the-independent.com/2026/09/24/18/19/Untitled-design-(3).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Broward County
+- Coral Springs
+- Florida
+- Fort Lauderdale
+- Gatlin Boulevard
+- Interstate 95
+- Port St. Lucie
+- St. Lucie County
+- St. Lucie County Jail
+people:
+- '![Dillon'
+- Rod Skirvin
+- Shannon Marie Dillon
+organisations:
+- BSO
+- Broward County Police Benevolent Association
+- Broward Sheriff’s Office
+- Dillon
+- Internal Affairs
+- NBC6 South Florida
+- St. Lucie County Sheriff's Office
+- WPTV News
+- WSVN
+- Yahoo
 ---
 
 A Florida woman was arrested after allegedly stealing a Broward Sheriff’s Office cruiser in Fort Lauderdale and driving it nearly 100 miles north through four counties.

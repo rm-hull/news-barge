@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b7db/live/ed6258b0-b83c-11f1-aeab-cbd1b7662429.jpg
+locations:
+- Australia
+- England
+- Headingley
+- Hobart
+- Jo'burg
+- Johannesburg
+- Saint Lucia
+- South Africa
+- West Indies
+people:
+- Anrich Nortje
+- Chris Silverwood
+- Faf du Plessis
+- Jon Lewis
+- Justin Langer
+- Lucia
+- Mark Wood
+- Michael Holding
+- Rassie van der Dussen
+- Spoons
+- Usman Khawaja
+- Usman Khawaja.
+- Van der Dussen
+- Woody
+organisations:
+- BBC
+- England
+- Wanderers
+- Wood
 ---
 
 ![Mark Wood celebrates wicket](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b7db/live/ed6258b0-b83c-11f1-aeab-cbd1b7662429.jpg)

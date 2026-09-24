@@ -13,6 +13,51 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/19/Climate_Rainforest_Funding_67237.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Amazon Basin
+- Bolivia
+- Borneo
+- Brazil
+- Brunei
+- Chiquitano
+- Congo Basin
+- Gabon
+- Indonesia
+- Malaysia
+- Manaus
+- Pantanal
+- Philippines
+- Singapore
+- South America
+- Southeast Asia
+people:
+- Alex Dehgan
+- Bambang Hero Saharjo
+- Bhima Yudhistira
+- Kumar Garg
+- Lee White
+organisations:
+- AP
+- Associated Press’
+- CELIOS
+- Conservation X Labs
+- David and Lucile Packard Foundation
+- El Nino
+- General Assembly
+- Gordon and Betty Moore Foundation
+- IQAir
+- Jakarta-based Center of Economic and Law Studies
+- Regional Fire Management Resource Center
+- Renaissance Philanthropy
+- Renaissance Philanthropy and Conservation X Labs
+- South America
+- Sustainable Development Solutions Network
+- Tropical Forest Forever Facility
+- U.N
+- U.N.
+- United Nations
+- University of Maryland
 ---
 
 A United Nations report released Thursday shows that there is still a multibillion dollar funding gap for preserving tropical forests, which are key to fighting climate change.

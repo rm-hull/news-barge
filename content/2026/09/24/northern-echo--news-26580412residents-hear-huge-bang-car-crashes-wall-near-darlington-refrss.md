@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thenorthernecho.co.uk/resources/images/21499560.jpg?type=og-image&xType=0&yType=208
+locations:
+- A167
+- County Durham
+- Darlington Car
+- Hurworth
+- THE NORTHERN ECHO
+people: []
+organisations:
+- Durham Police
+- Northern Echo
+- THE NORTHERN ECHO
+- VW
+- Volkswagen
 ---
 
 Concerned residents rushed to the scene after a car crashed into the wall of a house near Darlington, leaving the vehicle badly damaged.

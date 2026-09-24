@@ -13,6 +13,20 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/19/South_Africa_Mass_Barbecue__1856.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Ishigaki City
+- Japan
+- Pretoria
+- South Africa
+- United States
+- africa
+people:
+- Alex Coetzee
+- Paulina Sapinska
+organisations:
+- Guinness World Records
+- \_\_\_ AP Africa
 ---
 
 Armed with their tongs and sausages, thousands of determined — and hungry — South Africans gathered on a national holiday Thursday to attempt to break the world record for the biggest cookout.

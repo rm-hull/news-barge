@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46ccdceb560b5be025e4c910307afd7b
+locations:
+- Bristol
+- London
+people:
+- Feathers McGraw
+- Gromit
+- Morph
+- Ngaio Harding-Hill
+- Nick Park
+- Peter Lord
+- Peter Lord.
+- Shaun the Sheep
+- Take Hart
+- Wallace
+organisations:
+- Aardman Academy
+- CI Mackintosh
+- Chicken Run
+- Propstore
+- Wallace & Gromit
+- Wrong Trousers
 ---
 
 Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and the enthusiasm of some of the bidding could have caused even the phlegmatic Gromit to show surprise.

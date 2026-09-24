@@ -13,6 +13,30 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/19/0b03552319f3b3b0fba829d21fc55b89Y29udGVudHNlYXJjaGFwaSwxNzkwMzYwMTE2-2.85960341.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Highbury
+- Magistrates’ Court
+- Notting Hill Carnival
+- Tube
+people:
+- AI
+- Brian Kelleher
+- Carmenza Valencia-Trujillo
+- Mark Rowley
+- Simon Levy
+- Zafer Dogan
+- Zafer Dogen
+organisations:
+- BTP
+- British Transport Police
+- CPS
+- Crown Prosecution Service
+- Dogan
+- Met
+- Metropolitan Police
+- Press Association
+- Wood Green Crown Court
+- YouTube
 ---
 
 The Metropolitan Police has again hit out at the courts after a paedophile who used AI to make nude images of children was released on bail to his flat near a playground.

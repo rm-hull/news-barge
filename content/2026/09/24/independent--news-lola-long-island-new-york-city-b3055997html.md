@@ -13,6 +13,15 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/24/20/Cat_Rescue_31335.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Franklin Square
+- Long Island
+- New York City
+people:
+- John DeBacker
+- Lola
+organisations:
+- Lola
 ---
 
 He doesn't wear a mask or cape, but John DeBacker is a hero to one Long Island family.

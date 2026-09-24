@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg
+locations:
+- White House
+people:
+- Betsy Klein
+- Donald Trump
+- Laura Barrón-López
+- MS Now
+- Timothy Kelly
+- Xi Jinping
+organisations:
+- ABC
+- CBS
+- CNN White House
+- Fox News
+- MS NOW
+- NBC
+- New York Times
+- Politico
+- Wall Street Journal
+- Washington Post
 ---
 
 ![CNN White House correspondent Betsy Klein works near the White House on 24 September 2026](https://ichef.bbci.co.uk/ace/standard/972/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg)

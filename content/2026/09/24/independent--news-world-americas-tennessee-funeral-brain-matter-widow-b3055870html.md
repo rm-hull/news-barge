@@ -13,6 +13,23 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/24/15/52/Screenshot-2026-09-24-at-16-18-27.png?trim=34,0,35,0&width=1200&height=800&crop=1200:800
+locations:
+- Blountville
+- Tennessee
+- UK
+- USA
+people:
+- Richard Pretzeus
+- Sheila McGilvrey
+organisations:
+- 988 Suicide and Crisis Lifeline
+- NAME
+- National Association of Medical Examiners
+- News Channel 11
+- Tennessee department of Commerce and Insurance
+- The Independent
+- WJHL News Channel
+- Weaver Funeral Home & Cremation Services
 ---
 
 A Tennessee widow is suing a funeral home for over $2 million after her partner’s clothes were allegedly returned to her covered in brain matter, according to a report.

@@ -11,6 +11,41 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e5a1cb1d33e857cfad32c7d379416faf6cfb7c8b/404_0_3575_2860/master/3575.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c2ab29d6098e83b0cdc6687637fd3b0
+locations:
+- East Jerusalem
+- Entebbe
+- Gaza
+- Greater Israel’
+- Iran
+- Israel
+- Manhattan
+- New York
+- New York City
+- Ramallah
+- Tehran
+- Turkey
+- US
+- Uganda
+- United States
+- Washington
+- West Bank
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Hasan Piker
+- Mahmoud Abbas
+- Recep Tayyip Erdoğan
+- Xi Jinping
+- Yonatan Netanyahu
+- Zohran Mamdani
+organisations:
+- General Assembly Hall
+- Hamas
+- PA
+- PLO
+- Palestinian Authority
+- UN
+- United Nations
 ---
 
 Benjamin Netanyahu delivered an inflammatory address to the United Nations on Thursday, decrying what he said was a global anti-Jewish conspiracy and swatting aside criticism of Israel’s war in Gaza, as he faces down international isolation and a fight for political survival in upcoming elections in Israel.

@@ -13,6 +13,22 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/bf33a201766489fa53306c615626b215b06039de/513_718_2674_2139/master/2674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=886f5e84b2fd931b9be4964499e924f4
+locations:
+- Iran
+- Israel
+- US
+people:
+- Anthony Smith
+- Scott Bessent
+organisations:
+- CNN
+- Congress
+- Fed
+- Freddie Mac
+- SSRS
+- Treasury
+- Trump
+- US Federal Reserve
 ---
 
 US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.

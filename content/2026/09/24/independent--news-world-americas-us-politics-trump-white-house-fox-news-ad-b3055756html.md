@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/12/58/Screenshot-2026-09-24-at-8-58-12-AM.png?trim=0,49,0,49&width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- U.S.
+- US
+- White House
+people:
+- Barack Obama
+- Dana White
+- Donald Trump
+- Fernand Amandi
+- JMSN
+- Jesse Watters
+- Jim DeFede
+- Joyce Alene
+- Nikki Fried
+- Xi Jinping
+organisations:
+- CBS Miami
+- CNN
+- Florida Democrats
+- Fox News
+- Justice Department
+- Lincoln Project
+- MS
+- The Independent
+- Trump TV
+- U.S. Government
+- UFC
+- US Government
+- University of Miami
+- YouTube
 ---
 
 Critics have blasted a commercial promoting President Donald Trump that was “paid for by the U.S. government.”

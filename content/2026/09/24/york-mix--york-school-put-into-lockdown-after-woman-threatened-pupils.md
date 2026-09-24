@@ -11,6 +11,14 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/st-peters-school-york-2025.webp
+locations:
+- Clifton
+- St Peter’s School
+- York
+people: []
+organisations:
+- '#### St Peter’s School'
+- North Yorkshire Police
 ---
 
 A York school was put into lockdown after a threat was made to pupils.

@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/a5657da847a79894e5c76c9a2cda3f95600176c0/66_0_5518_4416/master/5518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5439140e0b4a902af90d08d8b4bd3c27
+locations:
+- Baden-Württemberg
+- Berlin
+- Dortmund
+- Germany
+- Hemer
+- Ludwigsburg
+- Nazi Sobibór
+- North Rhine-Westphalia
+- Ohio
+- PoW
+- Poland
+- Sachsenhausen
+- Senne
+- Stalag
+- Stutthof
+people:
+- Hannah Arendt
+- Hitler
+- Irmgard Furchner
+- John Demjanjuk
+- John Demjanjuk.
+- Josef Schütz
+organisations:
+- Central Office for the Investigation of National Socialist Crimes
+- Dortmund
 ---
 
 A 105-year-old man is under investigation on suspicion of being an accessory to multiple murders at a Nazi prisoner of war camp, German prosecutors have said.

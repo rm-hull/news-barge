@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/20/2295416105..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- America
+- D-Ariz.
+- D-Conn.
+- D-N.J.
+- D-Wash.
+- Iran
+- Kansas
+- R-Maine
+- R-N.C.
+- Sen
+- Strait of Hormuz
+- U.S.A.
+people:
+- Black
+- Chris Murphy
+- Collins
+- Cory Booker
+- Dan Sullivan
+- Donald Trump
+- John Kennedy
+- John Thune
+- Lane Kiffin
+- Maria Cantwell
+- Ole Miss
+- Roger Marshall
+- Ruben Gallego
+- Ted Cruz
+- Thom Tillis
+organisations:
+- AI
+- Biola University
+- CNN
+- Congress
+- ESPN
+- House
+- LSU
+- Louisiana State University
+- NAACP
+- OpenAI
+- R-Texas
+- Senate
+- Sens
+- Stanford University
+- The Independent
+- Trump
+- University of Mississippi
+- University of Texas Longhorns
 ---
 
 The Senate has only one more week before it breaks so that incumbents can hit the campaign trail. Polling shows that Americans are worried about AI running amok and rising gas prices amid President Donald Trump’s unilaterally waged war in Iran.

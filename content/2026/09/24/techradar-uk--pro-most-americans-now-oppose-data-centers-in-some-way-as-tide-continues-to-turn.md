@@ -10,6 +10,18 @@ description: American sentiment toward data centers is becoming increasingly neg
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4-1920-80.png
+locations:
+- Alberta
+- Canada.
+- Texas
+- US
+people:
+- Trump
+organisations:
+- AI
+- OpenAI
+- Pew Research Center
+- TechRadar Pro
 ---
 
 ![An artistic depiction of Meta&#039;s new data center in Alberta, Canada.](https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4.png)

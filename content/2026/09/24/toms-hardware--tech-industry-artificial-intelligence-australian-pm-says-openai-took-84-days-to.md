@@ -13,6 +13,36 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn-1280-80.png
+locations:
+- Australia
+- British Columbia
+- New York
+- Tumbler Ridge
+people:
+- Anthony Albanese
+- Jensen Huang
+- Katy Gallagher
+- Sam Altman
+- Tom
+organisations:
+- ASD
+- Altman
+- Australian AI Safety Institute
+- Australian Cyber Security Centre
+- Australian Signals Directorate
+- Australia’s Medicare Statistics Reporting Service
+- BBC News
+- Department of the
+- Get Tom's Hardware
+- Google News
+- National Cybersecurity Coordinator
+- Nvidia
+- Office of AI
+- OpenAI
+- Services Australia
+- Shane Downing
+- Tom’s Hardware
+- UN General Assembly
 ---
 
 ![OpenAI logo](https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn.png)
