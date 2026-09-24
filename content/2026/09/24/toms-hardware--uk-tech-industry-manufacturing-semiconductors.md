@@ -1,0 +1,57 @@
+---
+title: Semiconductors
+source_url: https://www.tomshardware.com/uk/tech-industry/manufacturing/semiconductors
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-09-24T16:42:25Z'
+published: '2026-09-24T00:00:00Z'
+description: Discover more about Semiconductor with insights from the experts at Tom's
+  Hardware.
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+image: https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-320-80.jpg
+---
+
+![](https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-320-80.jpg)
+
+ASML calls EU authorities to help create demand for European chips as Europe's share in its revenue drops to 0% in 2026.
+
+![TeraFab](https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-320-80.png)
+
+Tera-Fab wants its name back.
+
+![TSMC Arizona Fab 21 entrance](https://cdn.mos.cms.futurecdn.net/ouCnDodNxZsDysigzb7rsd-320-80.png)
+
+The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians.
+
+![](https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-320-80.jpg)
+
+With progress that ASML makes with its LPP EUV light sources for its scanners, the company is barely interesting in adopting particle accelerator-based FEL sources.
+
+![](https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-320-80.jpg)
+
+Premium Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept. 16 on a bet that AI inference memory won’t be HBM.
+
+![](https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5-320-80.png)
+
+Nvidia CEO thinks that in light of his view of a three- to four-year timeline for Chinese development of advanced semi tooling, the country is "already there."
+
+![an SK hynix factory](https://cdn.mos.cms.futurecdn.net/MNAdzZLPoDR82bwxMK4iCk-320-80.png)
+
+This could potentially be the first HBM manufacturing plant in the U.S.
+
+![Micron Building](https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh-320-80.jpg)
+
+Micron is offering Taiwan employees a NT$1 million cash bonus, but unions have rejected the package and are demanding permanent profit sharing as strike talks continue.
+
+![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-320-80.jpg)
+
+Pacific Quartz gets its high-purity quartz qualified for semiconductor equipment and DRAM manufacturing.
+
+![Ajinomoto Signage outside of HQ in Tokyo](https://cdn.mos.cms.futurecdn.net/4CRYV9tXJBYsDCbJEAzKhR-320-80.jpg)
+
+Premium Anjinomoto's secret sauce.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
