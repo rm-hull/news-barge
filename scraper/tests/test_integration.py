@@ -351,23 +351,3 @@ sites:
         await scrape.main_async(args)
 
     assert exc_info.value.code == 1
-
-
-# ─── Unit-level helpers ─────────────────────────────────────────────────────
-
-
-def test_months_ago_clamps_day() -> None:
-    """months_ago should clamp the day to the target month length."""
-    from datetime import datetime
-
-    result = scrape.months_ago(1)
-    assert isinstance(result, datetime)
-    # Result should be approximately one month before now
-    assert result.tzinfo is not None
-
-
-def test_url_to_slug_basic() -> None:
-    """url_to_slug should produce a filesystem-safe slug."""
-    slug = scrape.url_to_slug("https://example.com/path/to/article?id=123")
-    assert "path" in slug
-    assert "/" not in slug

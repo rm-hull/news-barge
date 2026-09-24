@@ -45,7 +45,7 @@ jobs:
 
       - name: Type check (mypy)
         working-directory: ./scraper
-        run: uv run mypy src/*.py
+        run: uv run mypy src/ tests/
 
       - name: Tests (pytest)
         working-directory: ./scraper

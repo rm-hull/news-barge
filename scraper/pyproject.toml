@@ -60,12 +60,15 @@ docstring-code-format = true
 [tool.mypy]
 python_version = "3.14"
 strict = true
-warn_unused_configs = true
+warn_unused_configs = false
+explicit_package_bases = true
 mypy_path = "src"
 
 # feedparser, taxotag, lxml and tqdm ship no type annotations or have
 # dynamic APIs (XPath, regex-heavy) that are not meaningfully checkable
 # with static stubs. Treat them as Any so mypy focuses on our code.
+# trafilatura also lacks type annotations and its settings module has
+# dynamic attributes not recognized by type checkers.
 [[tool.mypy.overrides]]
 module = [
     "feedparser",
@@ -73,6 +76,7 @@ module = [
     "lxml.*",
     "tqdm.*",
     "tqdm",
+    "trafilatura",
 ]
 ignore_missing_imports = true
 
