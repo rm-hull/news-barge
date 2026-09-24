@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/vbKLJkFHbkpJ6BZtBkcqRZ-2000-80.jpg
+locations: []
+people: []
+organisations:
+- GPU
+- KeplerL2
+- Microsoft
+- PS5
+- PS6
+- RAM
+- Reddit
+- Sony
+- TFLOPS
+- TweakTown
+- VideoCardz
 ---
 
 ![Xbox and PlayStation controllers](https://cdn.mos.cms.futurecdn.net/vbKLJkFHbkpJ6BZtBkcqRZ.jpg)

@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/14/Ethiopia-Opposition-Alliance_3742_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Addis Ababa
+- Assab
+- Eritrea
+- Ethiopia
+- Horn of Africa
+- Kampala
+- Mekelle
+- Pretoria
+- Red Sea
+- Somalia
+- Somaliland
+- South Africa
+- Tigray
+- U.S.
+- Uganda
+people:
+- Abiy Ahmed
+- Amanuel Assefa
+- Debretsion Gebremichael
+- Ervin J. Massinga
+- Fano
+- Isaias Afwerki
+- Kjetil Tronvoll
+- Rodney Muhumuza
+- Tadesse Werede
+organisations:
+- Afar Revolutionary Democratic Unity Front
+- Amhara Fano National Movement
+- Benishangul Peoples’ Liberation Movement
+- Ethiopian Airlines
+- Ethiopian News Agency
+- Ethiopian Peoples’ Forces Alliance for Survival
+- Ghent University
+- Gumuz Peoples’ Democratic Movement
+- IGAD
+- Ogaden National Liberation Front
+- Oromo Liberation Army
+- Oslo New University College
+- Prosperity Party
+- TPLF
+- The African Union
+- Tigray People’s Liberation Front
 ---
 
 Renewed fighting in northern Ethiopia on Thursday effectively shattered a peace pact that ended a devastating two-year war in 2022, with rebel forces mobilizing for an armed struggle they hope will lead to the removal of the federal prime minister.

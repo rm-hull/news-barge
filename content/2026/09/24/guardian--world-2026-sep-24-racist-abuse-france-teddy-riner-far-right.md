@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://i.guim.co.uk/img/media/cdf22028f2dc61c37365d0b51d5d0b48cbbc6b90/353_0_3528_2823/master/3528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0a01c4f166bdb7e7caabd11e50cd2fd
+locations:
+- France
+- French Caribbean
+- Guadeloupe
+- Los Angeles
+- Paris
+people:
+- Julien Odoul
+- Kylian Mbappé
+- Marine Le Pen
+- Teddy Riner
+organisations:
+- France
+- Le Pen
+- Paris Saint-Germain
+- RN
+- RTL
+- Real Madrid
 ---
 
 Paris’s public prosecutor has opened an investigation into the racist abuse and online harassment of the French judo star Teddy Riner after he expressed concern about the rise of the far right.

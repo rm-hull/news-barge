@@ -15,6 +15,15 @@ categories:
 - Government
 - Society & Culture
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Bedale%20Ofsted%201.JPG
+locations:
+- North Yorkshire
+people:
+- Chris Stokes
+- Cllr Annabel Wilkinson
+organisations:
+- Bedale High School
+- Bedale High School.
+- Ofsted
 ---
 
 ![taff and pupils are celebrating after inspectors highlighted the significant progress in achievement, attendance, behaviour and wellbeing at Bedale High School.](https://www.northyorks.gov.uk/sites/default/files/2026-09/Bedale%20Ofsted%201.JPG)

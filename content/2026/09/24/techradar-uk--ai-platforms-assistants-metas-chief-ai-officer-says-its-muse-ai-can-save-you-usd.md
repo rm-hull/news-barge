@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Self-Improvement
 image: https://cdn.mos.cms.futurecdn.net/qpswbfk5wLQHmJYjRggcZ7-1920-80.jpg
+locations: []
+people:
+- Alexandr Wang
+- Muse AI
+organisations:
+- AI Muse
+- Meta
+- MuseMoneyChallenge
 ---
 
 ![Muse and man with a small dollar.](https://cdn.mos.cms.futurecdn.net/qpswbfk5wLQHmJYjRggcZ7.jpg)

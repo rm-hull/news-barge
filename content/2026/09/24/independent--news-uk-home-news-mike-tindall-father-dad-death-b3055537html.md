@@ -11,6 +11,25 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/24/09/2226767156..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- West Yorkshire
+people:
+- Anne
+- Charles
+- Lena
+- Linda
+- Lucas
+- Mia
+- Mike Tindall
+- Parkinson
+- Parkinson’s
+- Phil
+- Zara Tindall
+organisations:
+- Chester
+- Cure Parkinson’s
+- Otley Rugby Club
 ---
 
 Mike Tindall’s father Phil has died at the age of 79.

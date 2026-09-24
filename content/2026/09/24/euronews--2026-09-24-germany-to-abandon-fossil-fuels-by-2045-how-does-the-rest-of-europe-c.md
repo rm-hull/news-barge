@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Travel
 image: https://images.euronews.com/articles/stories/09/92/57/30/1200x675_cmsv2_4df115ba-d8af-5164-b2bc-0a7bed19e73f-9925730.jpg
+locations:
+- Barcelona
+- Belém
+- Europe
+- France
+- Germany
+- Iran
+- London
+- Netherlands
+- Spain
+- Strait of Hormuz
+people:
+- António Guterres
+- Castern Schneider
+- Jennifer Morgan
+- Laurie Van Der Burg
+- Linda Kalcher
+organisations:
+- European Union
+- National Energy System Plan
+- Oil Change International
+- UN
 ---
 
 ## Germany has become the third country in Europe to unveil a national roadmap away from fossil fuels. But experts say targets still 'fall short'.

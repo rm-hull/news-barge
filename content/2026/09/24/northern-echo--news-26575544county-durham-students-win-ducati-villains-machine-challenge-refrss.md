@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21492650.jpg?type=og-image
+locations:
+- County Durham
+- Dalton Old Pump House
+- Darlington
+- North East
+- Seaham
+- Silverstone
+- Spennymoor
+people:
+- Katie Lennox
+- Tania Cooper MBE
+- Will Hiftle
+organisations:
+- Darlington STEM
+- Ducati UK
+- Durham University
+- Echo
+- Freemasons’
+- Future Makers
+- NESF
+- North East STEM Foundation
+- Polam Hall School
+- Pupil Passport
+- RTC North
+- Sedgefield Community College
+- Silverstone Circuit
+- Vertu Ducati Sunderland
+- Whitworth Park Academy
 ---
 
 *(Image: Supplied)*

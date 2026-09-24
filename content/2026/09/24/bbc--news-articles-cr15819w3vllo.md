@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61f3/live/cf381900-b7c0-11f1-b20d-91a809c6d0f2.jpg
+locations:
+- Broadway
+- London
+- New York
+- New York City
+- West End
+people:
+- Albus Potter
+- Albus Severus
+- David Ricardo-Pearce
+- Draco Malfoy
+- Ginny Potter
+- Harry Potter
+- Hermione Granger
+- Jack Thorne
+- John Tiffany
+- Naana Agyei Ampadu
+- Ron Weasley
+- Rose Granger-Weasley
+- Scorpius Malfoy
+- Sonia Friedman
+- Thomas Aldridge
+organisations:
+- Harry Potter
+- Hogwarts School of Witchcraft
+- JK Rowling
+- Netflix
+- Palace Theatre London
+- The Stage
+- Times
 ---
 
 ![General views of the West End production of 'Harry Potter and the Cursed Child' at the Palace Theatre London on June 10, 2026.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/61f3/live/cf381900-b7c0-11f1-b20d-91a809c6d0f2.jpg)

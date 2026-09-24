@@ -11,6 +11,30 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa0f/live/be318890-b814-11f1-a430-4d16ee157c41.jpg
+locations:
+- BBC
+- Britain
+- Folkestone
+- Kent
+- Samphire Hoe
+- UK
+people:
+- Chris Philp
+- Lucy Powell
+- Max Wilkinson
+- Shabana Mahmood
+organisations:
+- BBC Kent
+- BBC Solent
+- Border Security Command
+- ECHR
+- EU
+- Home Office
+- Home Secretary
+- Labour
+- Liberal Democrat
+- RNLI
+- Radio 4
 ---
 
 ![Close-up of Lucy Powell as she looks off to the right. She is wearing a leopard print blouse and black suit jacket](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/fa0f/live/be318890-b814-11f1-a430-4d16ee157c41.jpg)

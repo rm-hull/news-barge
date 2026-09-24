@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21490808.jpg?type=og-image
+locations:
+- Bridlington
+- Greater Manchester
+- Hattie Hall
+- Limekiln Lane
+- Middlesbrough
+- North East
+- Pheasant Flush
+- Sewerby Cliffs
+- UK
+- Wilsthorpe Beach
+- Yorkshire
+people:
+- '![]()Hattie'
+- Andrew *(Image
+- Andrew Bacon
+- Doris
+- Hattie
+- Lisa Davis
+organisations:
+- GoFundMe
 ---
 
 A North East woman has launched an appeal to help raise thousands of pounds for treatment for a dog whose surfing exploits and social media following have won her admirers across the region.

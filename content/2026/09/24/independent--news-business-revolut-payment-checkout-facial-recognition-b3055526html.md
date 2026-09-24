@@ -13,6 +13,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/7/12/iStock-2245384421.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bloomsbury
+- Chelsea
+- London
+- Soho
+people:
+- Alex Codina
+- Revolut
+organisations:
+- ADVERTISEMENT Amazon Fresh
+- Hippo
+- Revolut Business
+- Tesco
 ---
 
 Consumers are set to come face to face – fairly literally – with the latest attempt to send them through checkouts faster.

@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://i.guim.co.uk/img/media/0526a3df6627d56653fc028803c5e2f4f27571e9/120_0_2166_1733/master/2166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26674129bcff857433c3fc8d93aec4fa
+locations:
+- Democratic Republic of the Congo
+- Gujarat
+- India
+- Japan
+- Mumbai
+- US
+- United Arab Emirates
+- Vantara
+people:
+- Anant Amabani
+- Anant Ambani
+- Lorne Stockman
+- Lyla Mehta
+- Matt Perry
+- Mukesh Ambani
+- Narendra Modi
+- Ramachandra Guha
+- Vantara
+organisations:
+- Anglia Ruskin University
+- BJP
+- Bharatiya Janata party
+- Bhuvan Mangalore
+- Cites
+- Newcastle University
+- Oil Change International
+- Reliance Group
+- Süddeutsche Zeitung
+- UN
+- University and College Union
+- University of Sussex’s Institute of Development Studies
+- Vantara University
 ---
 
 Newcastle University is facing a backlash from conservationists over the appointment of the heir to an Indian oil and gas fortune who runs a controversial mega-zoo as a professor of sustainability.

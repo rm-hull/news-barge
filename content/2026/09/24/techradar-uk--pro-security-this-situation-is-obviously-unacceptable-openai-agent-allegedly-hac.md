@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/6X3ZZcXUrcxus6MyJ3GM7M-2000-80.jpg
+locations:
+- AI
+- Australia
+people:
+- Anthony Albanese
+- Richard Marles
+- Sam Altman
+organisations:
+- '## OpenAI'
+- AI
+- Australian Institute of Health and Welfare
+- Australian Signals Directorate
+- Medicare Statistics Reporting Service
+- New South Wales Bureau of Crime Statistics and Research
+- Services Australia
+- TechRadar Pro
+- Victorian Department of Health
 ---
 
 ![OpenAI logo](https://cdn.mos.cms.futurecdn.net/6X3ZZcXUrcxus6MyJ3GM7M.jpg)

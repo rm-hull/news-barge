@@ -12,6 +12,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/11/39/1096468297-2e6b80d6.jpeg?trim=170,0,1545,0&width=1200&height=800&crop=1200:800
+locations:
+- Austria
+- Birmingham
+- Gitpod
+- Lofer
+- Silicon Valley
+- UK
+- US
+people:
+- Burns'
+- Gitpod
+- Johannes Landgraf
+- Ms Burns
+- Rachel Wedderspoon
+- Shannon Burns
+- Tara Grossman
+organisations:
+- AI
+- Birmingham Employment Tribunal
+- ChatGPT
+- Gitpod
+- Lyft
+- OpenAI
+- Slack
 ---
 
 A senior technology executive who suffered disability discrimination after sleeping in a sauna has won the right to pursue £76m in compensation, in what could prove to be the largest payout ever awarded by a British employment tribunal.

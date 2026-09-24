@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6ab3e567853a66fb927.jpg
+locations:
+- North Yorkshire
+people:
+- Andrew Murday
+- Chris Aldred
+- Marie Curie
+organisations:
+- Liberal Democrat
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab3e567853a66fb927.jpg)

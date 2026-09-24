@@ -14,6 +14,35 @@ categories:
 - Personal Finance & Investing
 - Automotive
 image: https://static.independent.co.uk/2026/09/24/12/17054ebd81e09c541f86b364805d3044Y29udGVudHNlYXJjaGFwaSwxNzkwMzMzMTYx-2.84513920.jpg?width=1200&height=800&crop=1200:800
+locations:
+- PA
+- UK
+people:
+- Ben Birchall
+- Mark McLaren
+organisations:
+- BMW
+- CAT
+- CSAV
+- Citroen
+- Competition Appeal Tribunal
+- EUKOR
+- European Commission
+- Ford
+- Honda
+- Hyundai
+- K Line
+- Kia
+- MOL
+- Mercedes
+- NYK
+- Nissan
+- Peugeot
+- Renault
+- Toyota
+- Vauxhall
+- Volkswagen
+- WWL
 ---
 
 A UK court has approved a plan to pay £56 million in compensation to millions of UK consumers who lost money from inflated car delivery charges.

@@ -12,6 +12,30 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/14/2026-09-24T131114Z_1595012375_RC2PPNA1C8KE_RTRMADP_3_USA-TRUMP-MEDIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- D.C.
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Betsy Klein
+- Donald Trump
+- Laura Barron-Lopez
+- Laura Barrón-López
+- Timothy Kelly
+- Xi Jinping
+organisations:
+- CNN
+- Department of Justice
+- MS NOW
+- Media Outlets
+- Politico
+- Secret Service
+- The Independent
+- Trump Administration
+- Truth Social
+- United States of America
 ---
 
 Donald Trump’s administration has blocked reporters and staff from three news outlets from the White House and stripped them of their credentials despite a federal judge’s court order overturning the president’s media ban.

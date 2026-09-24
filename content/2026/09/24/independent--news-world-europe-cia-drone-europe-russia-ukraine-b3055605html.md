@@ -12,6 +12,45 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/11/2247966205..?trim=0,112,0,112&width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- France
+- Germany
+- Halle Airport
+- Ireland
+- Italy
+- Kaliningrad
+- Kremlin
+- Leipzig
+- Lithuania
+- Moscow
+- New York
+- Poland
+- Russia
+- Spain
+- Starlink
+- Ukraine
+- Warsaw
+- West
+- Zaporizhzhia
+people:
+- John Ratcliffe
+- Kaja Kallas
+- Kestutis Budrys
+- Krzysztof Gawkowski
+- Margus Tsahkna
+- Radoslaw Sikorski
+- Volodymyr Zelensky
+organisations:
+- CIA
+- EU
+- El Mundo
+- NATO
+- Nato
+- Polish Army Operational Command
+- Reuters
+- Shannon Airport
+- UN
 ---
 
 The CIA has warned Russia is preparing to carry out drone strikes in Europe targeting France, Spain and Italy from the sea, according to a report.

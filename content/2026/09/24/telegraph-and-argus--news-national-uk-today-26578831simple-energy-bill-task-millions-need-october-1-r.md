@@ -14,6 +14,14 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497284.jpg?type=og-image
+locations: []
+people:
+- Ben Gallizzi
+organisations:
+- DWP
+- Fuse Energy
+- State Pension
+- Uswitch
 ---
 
 *(Image: Getty Images)*

@@ -12,6 +12,33 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/01/F-35_Parts_China_6783_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Australia
+- Beijing
+- China
+- Hong Kong
+- Texas
+- U.S.
+- United States
+- Washington
+people:
+- Bradley Bowman
+- Donald Trump
+- Richard Marles
+- Xi Jinping
+organisations:
+- AP
+- Bloomberg
+- Center on Military and Political Power
+- Congressional Research Service
+- Defense Department
+- Defense Science Board
+- F-35 Joint Program Office
+- Foundation for Defense of Democracies
+- Lockheed Martin
+- Pentagon
+- Politico
 ---
 
 American defense officials are investigating how components from the nation's most advanced stealth aircraft arrived in Hong Kong, after media reports said China obtained F-35 equipment.

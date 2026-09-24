@@ -13,6 +13,24 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg
+locations:
+- Amazon
+- Seattle
+- Washington
+people:
+- Tom
+organisations:
+- AIB
+- CyberPowerPC
+- FE PC
+- GPU
+- Google News
+- Jowi Morales
+- Nvidia
+- PAX West
+- RTX
+- VPA
+- Walmart
 ---
 
 ![GeForce RTX 5090 Founders Edition](https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom.jpg)

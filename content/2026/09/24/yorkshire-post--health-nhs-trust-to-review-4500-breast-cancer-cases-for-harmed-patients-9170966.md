@@ -15,6 +15,27 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2024/08/01/10/53/County-Durham-and-Darlington-NHS-Foundation-Trust.jpg?crop=3:2,smart&trim=&width=1006&auto=webp&quality=75
+locations:
+- Consett
+- County Durham
+- Darlington
+people:
+- Alison Marshall
+- Denise Howarth
+- Gill Hunt
+- Hudgell
+- Ms Howarth
+- Steve Russell
+- Switalskis
+organisations:
+- BBC
+- Care Quality Commission
+- Darlington NHS Foundation Trust
+- Department of Health and Social Care
+- Durham Constabulary
+- Hudgell Solicitors
+- NHS England
+- Northern Cancer Alliance
 ---
 
 # Mastectomy scandal: NHS trust to review 4,500 cases after serious breast cancer treatment failings

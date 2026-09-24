@@ -13,6 +13,10 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21450282.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- York St John University
 ---
 
 In association with

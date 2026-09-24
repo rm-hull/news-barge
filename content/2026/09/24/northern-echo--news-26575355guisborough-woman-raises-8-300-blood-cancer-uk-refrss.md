@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21492201.jpg?type=og-image&xType=0&yType=515
+locations:
+- County Durham
+- Everest
+- Guisborough
+people:
+- Becky Flint
+- David Howells
+- Hannah Hardy
+- Matt
+- Matthew Flint
+- Nichola Flint
+- Roseberry Topping
+organisations:
+- Blood Cancer UK
+- GNR
 ---
 
 A woman who lost her brother to blood cancer in August has raised an incredible £8,300 after completing the Great North Run.

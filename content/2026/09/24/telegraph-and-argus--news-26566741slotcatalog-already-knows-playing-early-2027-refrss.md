@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479527.jpg?type=og-image
+locations: []
+people:
+- Hold
+- Play'n Go
+- Win
+organisations:
+- Avalanche
+- Cluster Pays
+- Lightning Blitz
+- No. Max
+- RTP
+- ReelPlay
+- SlotCatalog
 ---
 
 *(Image: SlotCatalog)*

@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/49/35/1200x675_cmsv2_768ba189-6aee-5cfd-bbec-fb2897034a92-9924935.jpg
+locations:
+- US
+people:
+- Chloé Ridel
+- Donald Trump
+organisations:
+- European Commission
+- European Union
+- ICC
+- International Criminal Court
 ---
 
 Socialists and Democrats MEP Chloé Ridel said US President Donald Trump's attacks on the International Criminal Court (ICC) are "unacceptable", accusing him of seeking to "erase the court" because it is "out of his control".

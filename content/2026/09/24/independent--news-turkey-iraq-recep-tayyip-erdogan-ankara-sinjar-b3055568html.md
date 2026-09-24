@@ -12,6 +12,24 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/09/Trump_461_9.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bashiqa
+- Bashiqa-Zelikan
+- Iraq
+- New York
+- Sinjar
+- Turkey
+- U.S.
+people:
+- Ali al-Zaidi
+- Recep Tayyip Erdogan
+organisations:
+- General Assembly
+- Islamic State
+- Kurdistan Workers’ Party
+- PKK
+- Sinjar Resistance Units
+- U.N.
 ---
 
 Turkey has agreed to gradually withdraw forces from a strategic military base in northern Iraq and hand over its control to the Iraqi government, following a meeting between the two countries’ leaders on the sidelines of the U.N. General Assembly in New York.

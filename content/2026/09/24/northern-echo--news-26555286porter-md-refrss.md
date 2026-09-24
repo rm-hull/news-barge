@@ -14,6 +14,42 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21462680.jpg?type=og-image
+locations:
+- Canada
+- County Durham
+- Great Yarmouth
+- Hetton-le-Hole
+- Hexham
+- London Underground
+- Merrivale Stable
+- Newcastle
+- North East
+- Northumberland
+- Seaton Sluice
+- Southampton
+- Trafalgar
+- Tube
+- Waterloo
+- Westerhope
+people:
+- Alison Orgill
+- Anderson
+- David Bowie
+- Fred Wyrley-Birch
+- Garland
+- Julian
+- Kevin Donald
+- Nelson
+- Sarah Caldecott
+- Tate
+organisations:
+- Anderson & Garland
+- BusinessIQ
+- Christian-Leopold Heppe
+- National Gallery
+- Outsider Art
+- Sarah Caldecott
+- Victoria Cross
 ---
 
 *(Image: Sarah Caldecott)*

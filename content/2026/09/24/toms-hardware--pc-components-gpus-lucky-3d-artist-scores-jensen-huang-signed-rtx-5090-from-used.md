@@ -13,6 +13,26 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/XonrBqCQQXTArCRig2mLjA-1920-80.png
+locations:
+- Taipei
+- Taiwan
+people:
+- Jensanity
+- Jensen Huang
+- Jensen Huang-related
+- Jowi Morales
+- Tom Ford
+organisations:
+- Asus
+- Bonhams
+- Foxconn
+- GPU
+- Google News
+- Hon Hai
+- Jowi Morales
+- NVIDIA
+- Nvidia
+- Sotheby’s
 ---
 
 ![Jensen Huang holding an autographed 30th Anniversary Asus ROG Astra RTX 5090 White OC](https://cdn.mos.cms.futurecdn.net/XonrBqCQQXTArCRig2mLjA.png)

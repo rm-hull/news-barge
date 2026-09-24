@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21492142.jpg?type=og-image
+locations:
+- Darlington
+- Newcastle Civic Centre
+- North East
+- North Tyneside
+- Tyne
+people:
+- Mackenzie Thorpe
+- Peter Rabbit
+organisations:
+- Beatrix Potter
+- Newcastle City Council
+- North East pupils Tickets
+- North Standard
+- North Tyneside Council
+- Northumbrian Water
+- St Oswald’s Hospice
+- The World of Peter Rabbit
+- Wild in Art
 ---
 
 *(Image: Supplied)*

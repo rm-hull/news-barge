@@ -15,6 +15,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497459.jpg?type=og-image
+locations:
+- Fink Hill
+- Garforth
+- Golden Acre
+- Guiseley
+- Horsforth
+- Middleton
+- Otley Chevin
+- Rothwell
+- Roundhay
+- Temple Newsam
+- Wetherby
+people:
+- Aiden Goulden
+- Michael Broomhead
+- Simon Dowling
+organisations:
+- Horsforth Town Council
+- Leeds City Council
 ---
 
 *(Image: Michael Broomhead)*

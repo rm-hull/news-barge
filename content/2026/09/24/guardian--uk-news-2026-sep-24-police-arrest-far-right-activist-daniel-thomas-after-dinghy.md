@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/40ea61df9051882dbabec2760daa50c7c60df1aa/0_99_2360_1888/master/2360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e482f906b0de151d0422261a77f063d
+locations:
+- Dover
+- Folkestone
+- France
+- Hampshire
+- Isle of Wight
+- Portsmouth
+- Samphire Hoe
+- UK
+people:
+- AKA Tommy Robinson
+- Daniel Thomas
+- Danny Tommo
+- Lucy Powell
+- Shabana Mahmood
+- Stephen Yaxley-Lennon
+organisations:
+- BBC Radio 4
+- Border Force
+- Border Security Command
+- Home Office
+- Patriot Platform
 ---
 
 The far-right agitator and anti-migrant activist Daniel Thomas has been arrested on suspicion of “criminal damage with intent to endanger life”, after he filmed himself appearing to slash the side of a dinghy in the middle of the Channel, while a rescuer was onboard.

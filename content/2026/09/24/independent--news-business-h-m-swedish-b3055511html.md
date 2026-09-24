@@ -14,6 +14,14 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2023/03/30/09/30084009-af16af7a-ea01-4a16-9c59-4b8b9598e05d.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Daniel Erver
+organisations:
+- AI
+- Cos
+- H&M
+- Other Stories
 ---
 
 H&M has revealed its sales have edged higher in recent months after the retailer said efforts to react faster to fashion trends and focus on value were paying off.

@@ -11,6 +11,18 @@ categories:
 - York
 - True Crime
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/police-pocklington-waste-site-24-sept-2026-1.webp
+locations:
+- Driffield
+- Holme-Upon-Spalding-Moor
+- Market Weighton
+- Pocklington
+- The Balk
+people: []
+organisations:
+- Crimestoppers
+- East Riding of Yorkshire Council
+- Humberside Police
+- Pocklington Household Waste Recycling Site
 ---
 
 A body has been found in Pocklington.

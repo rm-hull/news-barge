@@ -11,6 +11,22 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/TwwYe9MvcPiiF6eEoGsVRc-2553-80.png
+locations: []
+people:
+- Bruno Ferreira
+- Tom
+- WiCi
+organisations:
+- GPU
+- Get Tom's Hardware
+- Google News
+- MoE
+- Newegg
+- PC
+- Tom's Hardware
+- Vulkan
+- WiCi One
+- eGPU
 ---
 
 ![WiCi One external GPU](https://cdn.mos.cms.futurecdn.net/TwwYe9MvcPiiF6eEoGsVRc.png)

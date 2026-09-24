@@ -13,6 +13,26 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/24/10/39/jason-landry-db5b409b.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Caldwell County
+- Missouri City
+- Texas
+people:
+- Jason Landry
+- Jason Landry.’
+- Jason Landry’
+- John
+- Ken Paxton
+- Lord
+organisations:
+- AG
+- Cold Case Unit
+- Facebook
+- My Cold Case Unit
+- Texas Attorney General
+- Texas State University
+- UNTCHI
+- University of North Texas Center for Human Identification
 ---
 
 The remains of a college student who disappeared in Texas while driving home have been found after a six-year-long search.

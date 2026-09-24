@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21488896.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Peterlee
+- St Helen Auckland
+- The Oval
+people:
+- Bench
+- Elizabeth Dunbar
+- Michael Embleton
+- Michael Leslie Dougall
+- Sian Allan-Gilbert
+organisations:
+- Alcoholics Anonymous
 ---
 
 *(Image: The Northern Echo)*

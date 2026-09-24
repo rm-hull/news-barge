@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-58985031511.jpg@webp
+locations:
+- Germany
+- Leipzig Airport
+- Russia
+- Ukraine
+people:
+- Clara Bünger
+- Donald Tusk
+- Friedrich Merz
+- Martin Jäger
+- Sonja Eichwede
+organisations:
+- AfD
+- BND
+- BfV
+- CDU
+- CDU/CSU
+- DHL
+- DPA
+- EU
+- Federal Office for the Protection of the Constitution
+- ICC
+- Independent Control Council
+- Left Party
+- Munich Security Conference
+- SPD
+- The Times
 ---
 
 Scarred by memories of state survellience during the Nazi and Cold War eras, Germany has generally kept its secret service under strict control.

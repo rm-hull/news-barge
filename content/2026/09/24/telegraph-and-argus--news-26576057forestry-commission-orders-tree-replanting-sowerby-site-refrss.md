@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21425235.jpg?type=og-image
+locations:
+- Britannia
+- Rest Gardens
+- Sowerby Bridge
+- West Yorkshire
+- Wood Nook Lane
+- YOUR
+people:
+- Coun Adam Wilkinson
+- Coun Mike Payne
+- Coun Wilkinson
+organisations:
+- Calderdale Council
+- Calderdale Council and Planning Inspectorate
+- Environment Agency
+- Forestry Commission
+- Lab
+- Planning Inspectorate
+- Private Community Gardeners Group
+- Public Notice Portal
+- Reform UK
+- Rest Gardens Ltd
+- TikTok
+- Union Jack
 ---
 
 ### What is the Public Notice Portal?

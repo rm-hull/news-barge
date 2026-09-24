@@ -12,6 +12,28 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/23/22/bd0307fc7eb852bae8f46401fe39e521Y29udGVudHNlYXJjaGFwaSwxNzkwMjYxMzE5-2.85611858.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+people:
+- Andy Burnham
+- Charles Clarke
+- Daniel Kebede
+- Lucy Powell
+- Pepe Di’Iasio
+organisations:
+- ASCL
+- Association of School and College Leaders
+- Building and Construction
+- Child Development
+- Department for Education
+- DfE
+- Digital Tech
+- Government
+- NEU
+- National Education Union
+- OCR
+- Ofqual
 ---
 
 Teenagers in England will be able to study new vocational GCSEs and access more work experience opportunities under Government reforms to put technical and academic education on an equal footing.

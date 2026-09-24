@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/CpH8i4GvGYCbjPUAGGoSzi-1920-80.jpg
+locations:
+- Australia
+- Europe
+- UK
+- US
+people:
+- Bloomberg
+- Doctor Doom
+organisations:
+- Bloomberg
+- Disney
+- Hulu Bundle
+- Hulu-Disney
+- Marvel TV
+- TechRadar
 ---
 
 ![The Disney Plus logo on a mobile phone surrounded by popcorn](https://cdn.mos.cms.futurecdn.net/CpH8i4GvGYCbjPUAGGoSzi.jpg)

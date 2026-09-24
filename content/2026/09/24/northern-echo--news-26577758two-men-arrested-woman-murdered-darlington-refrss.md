@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21496043.jpg?type=og-image&xType=0&yType=36
+locations:
+- DURHAM
+- Parkgate
+- The Greyhound
+- The Greyhound Darlington
+people: []
+organisations:
+- CSI
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- North East Ambulance Service
+- THE NORTHERN ECHO
 ---
 
 *(Image: DURHAM POLICE)*

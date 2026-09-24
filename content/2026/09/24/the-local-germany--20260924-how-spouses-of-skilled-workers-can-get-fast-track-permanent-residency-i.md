@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/10/watermarks-logo-400520551.jpg@webp
+locations:
+- Berlin
+- Frankfurt
+- Germany
+- Munich
+people: []
+organisations:
+- CDU
+- EU Blue Card
+- SPD
 ---
 
 Moving to Germany for your partner’s job can feel like a leap in the dark. You may have left your own career behind, spent your first months getting to grips with German bureaucracy, or struggled with learning the language.

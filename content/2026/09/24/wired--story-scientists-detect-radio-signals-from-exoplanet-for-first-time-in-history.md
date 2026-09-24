@@ -12,6 +12,19 @@ categories:
 - Science
 - History
 image: https://media.wired.com/photos/6ab40021ca9e238475678f17/191:100/w_1280,c_limit/STScI-01KX448CEBRHBBJW579AG64G0H.jpg
+locations:
+- Earth
+- MeerKAT
+- South Africa
+- YZ Ceti
+people:
+- Beta Pictoris
+organisations:
+- Beta Pictoris
+- Harvard
+- Jupiter
+- Saturn
+- University of Oregon
 ---
 
 Approximately 63 light-years from Earth lies a planetary system so young that its less than 1 percent as old as our solar system. It is called Beta Pictoris, and—as far as astronomers have confirmed—it consists of a star more massive than the sun, three giant planets, and a huge disk of dust and debris.

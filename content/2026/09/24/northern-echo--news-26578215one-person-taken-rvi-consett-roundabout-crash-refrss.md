@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21496510.jpg?type=og-image
+locations:
+- Consett
+- County Durham
+- Darlington
+- Leadgate Road
+- Newcastle
+- Villa Real
+people: []
+organisations:
+- AA
+- Durham Police
+- Esso
+- North East Ambulance Service
+- Northern Echo
+- RVI
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

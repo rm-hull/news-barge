@@ -12,6 +12,15 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab441190b53a499b5f12f74/191:100/w_1280,c_limit/Bose%E2%80%99s-Premium-Open-Earbuds-Are-$100-Off.jpg
+locations: []
+people:
+- Bose
+organisations:
+- Best Noise-Canceling Earbuds
+- Best Wireless Earbuds
+- Bose
+- Google
+- Shokz
 ---
 
 I would argue that Bose helped popularize clip-on open earbuds—the kind of bud that wraps around the outside of your ear like a statement earring. The Bose Ultra Open Earbuds launched in 2024 and were a big swing on the form factor, especially for a major brand. Other companies like Shokz had been making bone-conduction and open-ear headphones for years before, but this small, fashionable form factor really took off.

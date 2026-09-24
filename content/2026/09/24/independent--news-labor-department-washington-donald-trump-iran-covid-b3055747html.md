@@ -15,6 +15,14 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/13/Unemployment_Benefits_259_1.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- U.S.
+people:
+- Donald Trump
+organisations:
+- FactSet
+- Labor Department
 ---
 
 Fewer people applied for U.S. unemployment benefits last week, as U.S. jobless claims remain at historically low levels as most Americans enjoy job security.

@@ -13,6 +13,18 @@ categories:
 - Society & Culture
 - Travel
 image: https://static.independent.co.uk/2026/09/24/12/Uganda-World-Gorilla-Day_84629.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bwindi Impenetrable National Park
+- Bwindi’s forest
+people:
+- Christina Katushabe
+- Davis Musinguzi
+- Eunice Owembabazi
+- Joseph Muhindo
+organisations:
+- International Union for Conservation of Nature
+- Ruhijja Seed Secondary School
+- Uganda Wildlife Authority
 ---
 
 In the tangled greenery of a Ugandan national park, mountain gorillas sit among the leaves, calmly carrying on as tourists trek into their forest home.

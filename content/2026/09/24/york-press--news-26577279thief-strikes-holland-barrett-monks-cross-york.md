@@ -11,6 +11,16 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21495026.jpg?type=og-image
+locations:
+- Barrett
+- Holland
+- Monks Cross
+- York
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

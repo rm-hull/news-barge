@@ -12,6 +12,50 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/c9c73f588f4837881f12e2b6db078c8f3fa50730/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b89c55bbe311061aa4224ec349d4edc8
+locations:
+- Bryant Park
+- Canada
+- East Jerusalem
+- France
+- Gaza
+- Iran
+- Israel
+- John F Kennedy
+- Lebanon
+- Manhattan
+- New York
+- New York City
+- Turtle Bay
+- UK
+- US
+- United States
+- Washington DC
+- West Bank
+- White House
+people:
+- Aber Kawas
+- Benjamin Netanyahu
+- Beth Miller
+- Chris Coons
+- Danny Danon
+- Donald Trump
+- Ed Miliband
+- JD Vance
+- Maga
+- Nethanyahu
+- Pew
+- Sukkot
+- Xi Jinping
+- Zohran Mamdani
+organisations:
+- Democratic Socialists of America
+- Guardian
+- Hamas
+- Jewish Voice for Peace Action
+- Senate
+- Trump
+- Trump-backed Board of Peace
+- UN
 ---
 
 When he takes the stage at the UN on Thursday, Benjamin Netanyahu will deliver a familiar message of defiance even as protests and international condemnation leave the Israeli leader in growing isolation.

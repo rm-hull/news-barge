@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21490742.jpg?type=og-image&xType=0&yType=139
+locations:
+- Avonmouth
+- Belfast
+- Bristol
+- Darlington
+- North Yorkshire
+- South West
+- UK
+- West Midlands
+people:
+- Hovis
+- John Sweeney
+- Sharon Graham
+organisations:
+- Allied Bakeries
+- CSI
+- Hovis Bakeries
+- Newsquest
+- Unite Union
 ---
 
 Brits are being warned about a possible bread shortage as around 60 distribution drivers at Hovis are to go on strike this week.

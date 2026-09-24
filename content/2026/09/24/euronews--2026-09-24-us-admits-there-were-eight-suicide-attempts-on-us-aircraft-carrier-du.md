@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://images.euronews.com/articles/stories/09/92/59/50/1200x675_cmsv2_9f192b66-f16b-57fc-9d5b-509322844c8b-9925950.jpg
+locations:
+- California
+- Iran
+- Middle East
+- South China Sea
+- Thailand
+- US
+- United States
+people:
+- Abraham Lincoln
+- Donald Trump
+- Hung Cao
+- Kirsten Gillibrand
+- Pete Hegseth
+organisations:
+- AFP
+- Acting Navy
 ---
 
 ## In August, military families and lawmakers raised the alarm about reported suicide attempts and other serious mental health issues, food shortages and poor hygiene.

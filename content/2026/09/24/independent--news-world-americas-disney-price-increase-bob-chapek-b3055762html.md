@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2024/05/29/10/Bob%20Chapek.jpeg?width=1200&height=800&crop=1200:800
+locations:
+- Florida
+people:
+- Bob Chapek
+- Bob Iger
+- Josh D’Amaro
+organisations:
+- COVID
+- Disney
+- ESPN
+- Iger
+- Lightning Lane
+- The New York Times
 ---
 
 Bob Chapek, who was fired as Disney’s CEO in 2022, stands by his controversial decision to aggressively raise prices at the parks, he writes in his upcoming memoir.

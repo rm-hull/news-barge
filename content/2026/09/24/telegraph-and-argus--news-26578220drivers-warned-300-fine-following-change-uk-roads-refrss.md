@@ -14,6 +14,16 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339215.jpg?type=og-image
+locations:
+- UK
+people:
+- Heinz
+- Tom Warsop
+organisations:
+- Covertime
+- Covertime.com
+- SMMT
+- Society of Motor Manufacturers and Traders
 ---
 
 *(Image: Getty Images)*

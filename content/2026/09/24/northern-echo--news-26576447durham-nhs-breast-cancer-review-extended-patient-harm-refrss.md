@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21012282.jpg?type=og-image
+locations:
+- '![]()County Durham'
+- County Durham
+- Durham City
+- North Durham
+- Prospect House
+people:
+- Adam Crampsie
+- Alison Marshall
+- Amir Bhatti Amir Bhatti
+- Gill Hunt
+- Phil Kane
+- Steve Russell
+- Steve Russell However
+organisations:
+- '![]()Darlington Memorial Hospital'
+- '![]()University Hospital'
+- Care Quality Commission
+- County Durham
+- Darlington NHS Foundation Trust
+- Durham City Board
+- Durham Police
+- NHS England
+- National Crime Agency
+- Northern Cancer Alliance
+- Northern Echo
+- Royal College of Surgeons
 ---
 
 *(Image: SUBMIT)*

@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIyY2IwOTM3LTA4NzctNDVmMi1hODU2LWY3ZjBiZDE3ZmJjZDo5MDRjYzE4Ni1mZTlkLTQ4ZjctOGZiMy02MWE3ZjBmYjgwMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Fink Hill
+- Garforth
+- Golden Acre
+- Guiseley
+- Horsforth
+- Middleton
+- Otley Chevin
+- Rothwell
+- Roundhay
+- Temple Newsam
+- Wetherby
+people:
+- Aiden Goulden
+- Simon Dowling
+- Simon Dowling.
+organisations:
+- Horsforth Town Council
+- Leeds City Council
 ---
 
 # Calls for council to scrap Horsforth parking charges

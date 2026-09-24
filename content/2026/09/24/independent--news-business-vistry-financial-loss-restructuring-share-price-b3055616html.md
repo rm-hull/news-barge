@@ -12,6 +12,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/04/13/09/11161940-da5a231b-a178-4e93-b80d-7cf3ce273ee0.jpg?width=1200&height=800&crop=1200:800
+locations:
+- South East
+- South East.
+- UK
+people:
+- Adam Daniels
+- Dan Coatsworth
+- Vistry
+organisations:
+- AJ Bell
+- Grenfell Tower
+- Vistry
 ---
 
 Vistry has cautioned that further redundancies are on the horizon as the housebuilder targets an extra £50 million in cost savings, following a half-year loss exceeding £660 million and a downgraded profit outlook for the full year.

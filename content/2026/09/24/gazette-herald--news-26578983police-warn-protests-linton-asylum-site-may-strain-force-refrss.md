@@ -13,6 +13,26 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/20192053.jpg?type=og-image
+locations:
+- Linton
+- North Yorkshire
+- PA
+- RAF Linton-on-Ouse
+- York
+people:
+- Catherine Clarke
+- David Skaith
+- Jo Coles
+- Ms Coles
+- Shabana Mahmood
+organisations:
+- CCTV
+- Government
+- Home Office
+- Home Secretary
+- Local Resilience Forum
+- National Police Public Order Coordination Centre
+- North Yorkshire Police
 ---
 
 Police are preparing for the possibility of “regular, sustained and significant protest activity” if controversial plans to house asylum seekers at the former RAF Linton-on-Ouse go ahead.

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497026.jpg?type=og-image
+locations:
+- Bradford
+- Dudley Hill
+- Holme Wood
+- Knowles Lane
+- M606
+- Rooley Lane
+- Tong Street
+people: []
+organisations:
+- Google Maps
 ---
 
 *(Image: Google Maps)*

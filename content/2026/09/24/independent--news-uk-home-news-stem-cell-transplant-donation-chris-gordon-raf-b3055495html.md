@@ -13,6 +13,19 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/16/01M36EAYSB3DRBDN39W85TBDS6.jpg?trim=84,0,84,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Los Angeles
+- Manchester
+people:
+- Bronagh Hughes
+- Chris Gordon
+- Jonathan
+- Mr Gordon
+organisations:
+- DKMS
+- Distinguished Flying Cross
+- RAF
 ---
 
 A decorated British military veteran has described finding himself "needing help from other people" after being diagnosed with a critical, life-threatening blood condition that leaves him requiring a stem cell transplant.

@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/62/44/1200x675_cmsv2_b3ed2007-6622-58be-bf21-d4d49dbf15d8-9926244.jpg
+locations:
+- Alabuga
+- Belarus
+- Far East
+- Iran
+- Irkutsk
+- Japan
+- Khabarovsk
+- Kursk
+- Moscow
+- North Korea
+- Pyongyang
+- Russia
+- Saint Petersburg
+- Sakhalin
+- South Korea
+- Tatarstan
+- Ukraine
+- United States
+- Vladivostok
+people:
+- Ankar Kir
+- Kim Jong Un
+- Kim Jong-un
+- Serhiy Dubyna
+- Vladimir Putin
+organisations:
+- Current Time
+- DPRK
+- Deutsche Welle
+- MSMT
+- Multilateral Sanctions Monitoring Team
+- RFE
+- Radio Liberty
+- Shahed
+- UN Security Council
+- Ukrainska Pravda
 ---
 
 **Ankar Kir & Serhiy Dubyna**

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - History
 image: https://www.yorkpress.co.uk/resources/images/21497608.jpg?type=og-image
+locations:
+- 4th Avenue Store
+- Fourth Avenue
+- North Yorkshire
+- Northallerton
+- York
+people:
+- Forber
+organisations:
+- 4th Avenue Store
+- North Yorkshire Police
 ---
 
 ## Police confiscate £13k worth of illegal cigarettes from York shop

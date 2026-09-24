@@ -14,6 +14,38 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/07/17/2026-07-13T105944Z_1438015626_RC2SI5A37CW3_RTRMADP_3_USA-TRUMP-CRYPTO-INVEST.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Des Moines
+- Iowa
+- Iowa.
+- U.S.
+- White House
+people:
+- Ann Selzer
+- Brad Zaun
+- Donald Trump
+- Donald Trump Jr.
+- Eric Trump
+- J
+- Kamala Harris
+- Mariannette Miller-Meeks
+- Polly Grunfeld Sack
+- Scott J. Beattie
+organisations:
+- CNN
+- Constitution
+- Des Moines Register
+- FIRE
+- Foundation for Individual Rights and Expression
+- Gannett
+- Iowa Supreme Court
+- MS NOW
+- Politico
+- Selzer
+- The Des Moines Register
+- The Register
+- Trump
+- USA Today Co.
 ---
 
 A state judge on Wednesday dismissed a legal challenge Donald Trump brought against *The Des Moines Register* and its former pollster, rejecting claims that media coverage of a pre-election survey violated Iowa’s consumer fraud law and ruling that press reporting on political contests is fully protected under the Constitution.

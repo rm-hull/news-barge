@@ -14,6 +14,36 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/z7289645YDz6czwEgU7kk-1920-80.jpg
+locations:
+- China
+- Europe
+- U.S.
+people:
+- Anton Shilov
+- Dylan Patel
+- Tom
+organisations:
+- AMD
+- Avnet
+- BIS
+- CCL
+- DigiKey
+- Get Tom's Hardware
+- Google News
+- Group B
+- Patel
+- Puzhi Electric
+- Puzhi Electronic Technology
+- SemiAnalysis
+- Tom's Hardware
+- Tom’s Hardware
+- U.S. Commerce Control List
+- XC
+- XCZU47DR RFSoC
+- XCZU47DR RFSoCs
+- Xilinx
+- ZU48DR
+- Zynq UltraScale
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/z7289645YDz6czwEgU7kk.jpg)

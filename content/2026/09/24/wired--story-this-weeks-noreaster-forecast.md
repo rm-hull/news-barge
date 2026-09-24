@@ -13,6 +13,25 @@ categories:
 - Science
 - Travel
 image: https://media.wired.com/photos/6ab4660df55bbade6286281c/191:100/w_1280,c_limit/Noreaster-storm-Science-2240818588.jpg
+locations:
+- Atlantic
+- Boston
+- Eastern Seaboard
+- El Niño
+- New England
+- New York
+- North America
+- North Carolina
+- Northeast
+- Nova Scotia
+- Outer Banks
+- Pacific
+- US
+people: []
+organisations:
+- East Coast Nor’easters
+- El Niño
+- Winter Nor’easters
 ---
 
 A powerful nor’easter developing this week will bring wicked winds, rough surf, and heavy rains to coastal communities from North Carolina to Nova Scotia.

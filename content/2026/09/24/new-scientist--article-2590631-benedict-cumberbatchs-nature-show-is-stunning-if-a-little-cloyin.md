@@ -12,6 +12,21 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI313514826.jpg
+locations:
+- Amazon
+- Chad
+- China
+- London
+- UK
+- Wall Street
+people:
+- Benedict Cumberbatch
+- Boris Johnson
+- David Attenborough
+- David”
+- Jonnie Hughes
+organisations:
+- G7
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI313514826.jpg?w=840)

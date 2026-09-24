@@ -13,6 +13,25 @@ categories:
 - Pets & Animals
 - Comedy & Entertainment
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a53f/live/b4cae9a0-b7fa-11f1-8ef6-b9665ffdab6f.jpg
+locations:
+- China
+- Edinburgh Zoo
+- Highland Wildlife Park
+- Himalayas
+people:
+- Ginger
+- Priya
+- Red panda Bruce
+- Roxie
+organisations:
+- Bruce
+- Edinburgh Zoo
+- IUCN
+- International Union for Conservation of Nature
+- Red pandas
+- Royal Zoological Society of Scotland
+- WWF
+- World Wildlife Fund
 ---
 
 ![A red panda lying on its back on an operating table. It has orange and brown fur and a white head.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a53f/live/b4cae9a0-b7fa-11f1-8ef6-b9665ffdab6f.jpg)

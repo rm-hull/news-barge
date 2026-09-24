@@ -12,6 +12,41 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg
+locations:
+- Dresden
+- Europe
+- France
+- Germany
+- Grenoble
+- Ireland
+- Japan
+- Leixlip
+- Magdeburg
+- South Korea
+- Taiwan
+- U.S.
+people:
+- Anton Shilov
+- Frank Heemskerk
+- Tom
+- Ursula von der Leyen
+organisations:
+- ASML
+- Bosch
+- De Balie
+- ESMC
+- EU
+- EUV
+- European Union
+- Get Tom's Hardware
+- GlobalFoundries
+- Google News
+- Infineon
+- Intel
+- NXP —
+- STMicroelectronics
+- TSMC
+- Tom’s Hardware
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25.jpg)

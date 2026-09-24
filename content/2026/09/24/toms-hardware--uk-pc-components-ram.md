@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/tvpkVtGf3AWL5SBW6Lpjz7-320-80.jpg
+locations:
+- China
+people: []
+organisations:
+- AMD
+- CXMT
+- Get Tom's Hardware
+- Intel
+- Micron
+- Project Hefei
+- SLC NAND
+- Samsung
+- TSMC
 ---
 
 ![Micron GDDR7](https://cdn.mos.cms.futurecdn.net/tvpkVtGf3AWL5SBW6Lpjz7-320-80.jpg)

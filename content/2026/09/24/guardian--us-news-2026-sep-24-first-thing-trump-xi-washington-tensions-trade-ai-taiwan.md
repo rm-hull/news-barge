@@ -13,6 +13,73 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/7bf41ed8892e9a3c082b2e85898674cc3f5e84a8/846_0_6418_5137/master/6418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=067bfb256d54af0f2c27fac4035d323f
+locations:
+- Abraham Lincoln
+- Busan
+- California
+- China
+- Gaza
+- Iowa
+- Iran
+- Israel
+- Joint Base Andrews
+- Manhattan
+- Miami
+- Middle East
+- New York
+- San Francisco
+- South Lawn
+- Taiwan
+- Tehran
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Al Gore
+- Ali Khamenei
+- Amy Hawkins
+- Ana Diaz
+- Antonio Brown
+- Bessent
+- Donald Trump
+- Harvey Weinstein
+- Hung Cao
+- Justin Viezbicke
+- Kirsten Gillibrand
+- Marco Rubio
+- Masoud Pezeshkian
+- Miriam Haley
+- Robert F Kennedy
+- Robert F Kennedy Jr
+- Scott
+- Susan Collins
+- Tim Kelly
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- CNN
+- Department of Health and Human Services
+- Department of Justice
+- Des Moines Register
+- FBI
+- G20
+- Google
+- Kennedy Jr “
+- MS Now
+- Make America Healthy Again
+- Meta
+- NFL
+- National Archives
+- National Oceanic and Atmospheric Association
+- Noaa
+- Oliver Milman
+- Politico
+- ProPublica
+- RFK Jr
+- TV
+- UN
+- USS Abraham Lincoln
 ---
 
 Good morning. Donald Trump has welcomed Xi Jinping to the US, greeting the Chinese leader on the asphalt at Joint Base Andrews at the start of his state visit. Xi’s trip coincides with the UN general assembly in New York, but he is not attending the gathering.

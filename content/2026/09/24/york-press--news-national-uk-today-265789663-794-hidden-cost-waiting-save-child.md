@@ -13,6 +13,16 @@ categories:
 - Family & Parenting
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21083349.jpg?type=og-image
+locations: []
+people:
+- Alex Sitaras
+- Lauren Webber
+organisations:
+- DWP
+- Junior Cash ISA
+- Skipton Building Society
+- State Pension
+- The Mum Club
 ---
 
 *(Image: Getty Images)*

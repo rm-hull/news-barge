@@ -11,6 +11,23 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/2f8cb2ded3660b27926d78994de23ebac0a20f8b/408_0_1914_1532/master/1914.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2294175e8ae79bc9e3f13845cfe4d9f0
+locations:
+- UK
+people:
+- Andy Burnham
+- Keir Starmer
+- Kemi Badenoch
+- Nigel Farage
+organisations:
+- Greens
+- Labour
+- Lib Dems
+- MRP
+- Plaid Cymru
+- Reform UK
+- SNP
+- Tories
+- YouGov
 ---
 
 Good morning. Andy Burnham and Kemi Badenoch are both preparing for their party conferences (next week, and the following week, respectively), and this morning YouGov has released a new MRP poll with encouraging news for both of them. Polling is very good at revealing electoral trends, but a lot less good at predicting electoral outcomes, and wise politicians don’t treat them as gospel. But they also find polling impossible to ignore, not least because it shapes the landscape within which parties operate. A leader expecting to win the next election acts differently from one expecting to lose it.

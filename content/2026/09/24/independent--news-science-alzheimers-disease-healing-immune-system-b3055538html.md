@@ -13,6 +13,10 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/24/7/30/An-elderly-woman-is-photographed.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Alzheimer
+organisations: []
 ---
 
 Damage to the bone marrow triggered by Alzheimer’s disease may explain why the body’s immune system is unable to restore brain health in the neurodegenerative condition, a new study suggests.

@@ -13,6 +13,107 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+locations:
+- Bordeaux
+- Cambridge Crescent
+- Conyngham Hall
+- Fountains Walk
+- Harrogate’s Masonic Hall
+- Haunted House
+- King's Road
+- Knaresborough Road
+- North Yorkshire
+- Oliveta Harrogate
+- Provincial Grand Master of Yorkshire West Riding
+- RHS Harlow Carr Plant Centre
+- Ripon
+- Royal Hall
+- Station Square
+- Tees, Esk
+- The Earl of Harewood KC
+- UK
+- Viaduct Terrace
+people:
+- Amy Winehouse
+- Arthur
+- Chloë Hanslip
+- Danny
+- David Coulthard
+- David Rowley
+- Fiona Collinson
+- Hugh Bonneville
+- Janet Mills
+- John Harris
+- Kirsty Henshaw
+- Lindsay
+- Liz Charnley
+- Lucy
+- Mika Häkkinen
+- Miles
+- Miss Bramley
+- Paddy Kidd
+- Peter Lewis
+- Phil Webb
+- Rachel Tunnicliffe
+- Rob George
+- Roksana Matwijiszyn
+- Sharon Canavar
+- Simon Grafton
+- Sukhdev Singh
+- Tim North
+- Tom Gordon
+- William Dutton
+- Yvonne
+organisations:
+- Adam Isaacs
+- Belindas Boutique
+- Billie Coulson
+- Brain Tumour Charity
+- Cuore Chamber Orchestra
+- EU
+- Formula One
+- Good Growth Foundation
+- Harrogate Advertiser
+- Harrogate Bus Company
+- Harrogate Convention Centre
+- Harrogate International Festivals
+- Harrogate Stray
+- Harrogate and District NHS Foundation Trust
+- Jennyruth Workshops
+- Kirsty's
+- Knaresborough
+- LILYPAD
+- Leehill Construction
+- Les Parkes
+- Lewis Wilson
+- MDAV
+- Macular Society
+- Madison Hargreaves.
+- Moorside Primary School
+- Morrisons Daily
+- National Trust
+- Newton Solicitors
+- Pitcher & Piano
+- RHS Glow
+- RHS Harlow Carr
+- Raworths
+- Red Wall Theatre
+- Rethink Repayment
+- Right Honourable
+- Ripon
+- Sarah Andreson NUS
+- St Aidan's Church of England High School
+- St Cecilia Orchestra
+- Station Parade
+- Taylor Wimpey
+- Tessa Munt
+- The Pavilions of Harrogate
+- UNESCO-listed Fountains Abbey
+- Wear Valleys NHS Foundation Trust
+- Will Tennison
+- Yorkshire
+- Young Liberals
+- Zero Carbon Harrogate
 ---
 
 ![The police have issued a CCTV image of a couple they would like to speak to after a woman was bitten by dog inside Husk bar on Station Square in Harrogate](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjYzgzNmU3LWVmZjEtNDIzMC1hNjZkLTVkNGUyMDE5ZjgxYzplNzc5YWZjYS04OWExLTRlYmQtYmJmYy0wZmI1MzBlMWY3NGU=.jpg?crop=5:4,smart&trim=&quality=70&width=396)

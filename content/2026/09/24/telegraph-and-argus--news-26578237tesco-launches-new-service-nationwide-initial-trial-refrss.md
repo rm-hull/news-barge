@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20670549.jpg?type=og-image
+locations:
+- Belfast
+- Birmingham
+- Bournemouth
+- Bristol
+- Cardiff
+- Deliveroo
+- Edinburgh
+- Glasgow
+- Leeds
+- Leicester
+- London
+- Manchester
+- Royston
+- Sheffield
+- St Neots
+- UK
+people:
+- Hanshow
+- Ishna Berry
+- Kevin Tindall
+- Rob Harris
+organisations:
+- '![]()Tesco'
+- Clubcard Prices
+- Deliveroo
+- ESLs
+- Hanshow
+- Limbury Mead Express
+- PA
+- Tesco Express
 ---
 
 *(Image: Getty Images)*

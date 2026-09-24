@@ -14,6 +14,28 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/9/55/grayson-county-jail.webp?trim=0,83,0,82&width=1200&height=800&crop=1200:800
+locations:
+- Dakar
+- Grayson County Detention Center
+- Kentucky
+- Louisville
+- Louisville’s Muhammad Ali International Airport
+- New York
+- Senegal
+- U.S.
+- United States
+people:
+- Aminata Seck
+- Morgan McGarvey
+- Sadiqa Reynolds
+organisations:
+- ACL
+- ICE
+- Kentucky State University
+- LEX18
+- Lane College
+- Louisville Courier Journal
+- Southern Intercollegiate Athletic Conference All-Conference Third Team
 ---
 
 A Senegal-born Kentucky State University women's basketball player was arrested by federal immigration officials in Louisville while attempting to fly to New York for a tournament.

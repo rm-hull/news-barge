@@ -15,6 +15,14 @@ categories:
 - True Crime
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21493209.jpg?type=og-image
+locations:
+- Low Ousegate
+- York Magistrates’ Court
+people:
+- Matthew John Dodson
+organisations:
+- North Yorkshire Police
+- Tesco Express
 ---
 
 *(Image: Contributed)*

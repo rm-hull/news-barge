@@ -12,6 +12,26 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/20192053.jpg?type=og-image
+locations:
+- Linton
+- North Yorkshire
+- PA
+- RAF Linton-on-Ouse
+- York
+people:
+- Catherine Clarke
+- David Skaith
+- Jo Coles
+- Ms Coles
+- Shabana Mahmood
+organisations:
+- CCTV
+- Government
+- Home Office
+- Home Secretary
+- Local Resilience Forum
+- National Police Public Order Coordination Centre
+- North Yorkshire Police
 ---
 
 ## North Yorkshire Police warn protests at Linton asylum site may strain force

@@ -11,6 +11,17 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/24/13/01M39JX4V7GHMGNMB3M52XGT97.jpg?trim=364,0,364,0&width=1200&height=800&crop=1200:800
+locations:
+- Hillhouse
+- Lancashire
+- Thornton-Cleveleys
+people:
+- '![Hammond'
+- Ms Hammond
+- Sam Hammond
+organisations:
+- AGC Chemicals Europe
+- PFOA
 ---
 
 A mother-of-five living adjacent to a Lancashire chemical site fears she may have exposed her infants to toxic substances while breastfeeding, after medical testing confirmed the presence of "forever chemicals" in her blood.

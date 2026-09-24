@@ -12,6 +12,42 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/61/46/1200x675_cmsv2_0d08d596-638c-5431-8915-cfc50d2519e3-9926146.jpg
+locations:
+- Apuan
+- Boston
+- Carrara
+- China
+- Europe
+- Gandzasar Monastery
+- Joint Base Andrews
+- Laem Chabang
+- Lisbon
+- Md.
+- Mexico
+- Milagro
+- Navarra Province
+- Poza Rica
+- Spain
+- UK
+- Ukraine
+- Vangli
+- Veracruz
+people:
+- Abraham Lincoln
+- Donald Trump
+- Kamal Amakrane
+- Maricarmen
+- Osama Rizvi
+- Volodymyr Zelenskyy
+- Xi Jinping
+organisations:
+- Chloé Ridel
+- Euronews
+- Rising Nations Initiative
+- Trump
+- US Navy
+- United Nations
+- United Nations General Assembly
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

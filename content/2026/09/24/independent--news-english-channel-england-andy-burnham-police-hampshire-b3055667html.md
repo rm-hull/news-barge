@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/11/France_Britain_Migration_69244.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Belfast
+- Britain
+- Dover
+- England
+- France
+- Gosport
+- Hampshire
+- London
+- Northern Ireland
+- Portsmouth
+- U.K.
+people:
+- Andy Burnham
+- Daniel Thomas
+- Danny Tommo
+- Nigel Farage
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- English Channel
+- Isle of Wight Constabulary
+- Patriot Platform
+- RNLI
+- Reform UK
+- Royal National Lifeboat Institution
 ---
 
 A far-right activist who has led protests against migrants crossing the English Channel in small boats has been arrested for allegedly slashing a dinghy in the water, police said Thursday.

@@ -13,6 +13,51 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/23/05/Tropical_Weather_91692.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Atlanta
+- Atlantic Ocean
+- Azores
+- Baja California
+- Big Island
+- Fay
+- Guerrero
+- Hawaii County
+- Kauai
+- Lowell
+- Lázaro Cárdenas
+- Maui County
+- Mexico
+- Miami
+- Michoacán
+- Odalys
+- Pacific
+- Polo
+- San Diego
+- Seattle
+- South Point
+- U.S.
+- Zihuatanejo
+people:
+- Concepción López Villegas
+- Desiree Brooks
+- Hallie Golden
+- John Bravender
+- Josh Green
+- Kimo Alameda
+- Lala
+- López Villegas
+- Maj
+- Stephen Logan
+- \_\_\_ Aoun
+organisations:
+- Associated Press
+- Department of Defense
+- Hawaii National Guard
+- Hawaiian Electric
+- National Weather Service
+- Red Cross
+- Tropical Storm Nolo
+- U.S. National Hurricane Center
 ---
 
 Powerful Hurricane Polo sent bands of heavy rain across Mexico's Pacific coast early Thursday as a growing Tropical Storm Nolo approached Hawaii with the potential for catastrophic flooding.

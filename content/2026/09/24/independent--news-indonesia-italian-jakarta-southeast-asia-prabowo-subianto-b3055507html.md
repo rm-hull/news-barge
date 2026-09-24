@@ -12,6 +12,25 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/07/Indonesia_Italy_Aircraft_Carrier__9838.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Indian Ocean
+- Indonesia
+- Italy
+- North Jakarta
+- Red Sea
+- Southeast Asia
+- Spain
+- Suez Canal
+- Tanjung Priok
+- Thailand
+people:
+- Chakri Naruebet
+- Giuseppe Garibaldi
+- Prabowo Subianto
+- Tunggul
+organisations:
+- HTMS
+- Italian Navy
 ---
 
 Indonesia's navy commissioned its first aircraft carrier Thursday after acquiring the former Italian vessel to strengthen its maritime defenses and disaster response.

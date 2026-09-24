@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Video Gaming
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1074/live/981f41f0-b7f2-11f1-bdfd-557d035e924c.jpg
+locations:
+- Aichi
+- Hiroshima
+- Indonesia
+- Japan
+- Nagoya
+people:
+- Bunga Nyimas
+- Yuki Kurihara
+organisations:
+- Japan Times.
+- Sega
+- eSports
 ---
 
 ![Yuki Kurihara looks on during a send-off ceremony for the Japan team before 2026 Asian Games](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/1074/live/981f41f0-b7f2-11f1-bdfd-557d035e924c.jpg)

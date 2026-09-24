@@ -11,6 +11,16 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg
+locations: []
+people:
+- Haley Silva
+organisations:
+- AWS Agentic AI
+- Amazon
+- ML
+- RTO
+- Swami Sivasubramanian
+- TechRadar Pro
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn.jpg)

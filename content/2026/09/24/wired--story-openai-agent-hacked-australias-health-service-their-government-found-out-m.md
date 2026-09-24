@@ -14,6 +14,21 @@ categories:
 - Science
 - News & Politics
 image: https://media.wired.com/photos/6ab4f83dee18064acd928033/191:100/w_1280,c_limit/092426-Canada%20Open%20AI%20Hack%20Sam.jpg
+locations:
+- Australia
+- New York
+- Sydney
+people:
+- Anthony Albanese
+- António Guterres
+- Richard Marles
+- Sam Altman
+organisations:
+- AI
+- OpenAI
+- Services Australia
+- United Nations General Assembly
+- United Nations Security Council
 ---
 
 Australia is investigating whether OpenAI broke the law after an agent hacked into its health statistics portal in the first widely known incident of an AI agent hacking a government website.

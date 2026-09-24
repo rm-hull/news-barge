@@ -14,6 +14,32 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/fb6710bb52640d6c26b010acec77c121ad91526a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d498b1b38ccc38374ca27ce6ec9a739
+locations:
+- Florida
+- Mar-a-Lago
+- US
+- White House
+people:
+- Alex Glass
+- Bernie Sanders
+- Chuck Schumer
+- David Arkush
+- Donald Trump
+- Ilhan Omar
+- Joe Biden
+- Mahyar Sorour
+- Sheldon Whitehouse
+- Taylor Rogers
+organisations:
+- Climate Power
+- EPA
+- Environmental Protection Agency
+- Green New Scam
+- Guardian
+- Public Citizen
+- Senate
+- Sierra Club
+- Trump
 ---
 
 The fossil fuel industry secured an estimated $190bn in tax breaks and subsidies over the next decade after responding to Donald Trump’s pre-election call for major campaign donations, leaving American taxpayers to shoulder higher bills and public health costs associated with pollution, according to a new report.

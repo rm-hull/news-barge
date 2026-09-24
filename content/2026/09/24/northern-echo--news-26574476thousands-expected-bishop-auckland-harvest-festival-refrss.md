@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21491117.jpg?type=og-image
+locations:
+- Auckland Palace
+- Bishop Auckland
+- County Durham
+people:
+- Laura Roberts
+- Ms Roberts
+- Peter Rabbit
+organisations:
+- Bec Hughes
+- Hearth
+- Hook-a-Duck
+- Ran Tanners
+- SHED
+- The Auckland Project
 ---
 
 *(Image: Bec Hughes)*

@@ -13,6 +13,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/9fe01c4fd9605a0cecd09143bdc23a8b724c9932/1115_99_6317_5056/master/6317.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54f796460269ccf4a63fe94e1c4c879a
+locations:
+- Middle East
+- Poland
+- UK
+- US
+- Warsaw
+people:
+- Andrew Bailey
+- Andy Burnham
+- Clare Lombardelli
+- John Healey
+- Rachel Reeves
+organisations:
+- AI
+- Bank of England
+- Labour
+- Office for Budget Responsibility
+- US Treasury
 ---
 
 A global sell-off in government bonds has put fresh upward pressure on UK borrowing costs, before a tough budget for John Healey next month.

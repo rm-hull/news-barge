@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-605797913.jpg@webp
+locations:
+- Bulgaria
+- Duisburg
+- Düsseldorf
+- Germany
+- Jobcenter
+- North Rhine-Westphalia
+- Romania
+- Ruhr
+people:
+- Alexander Dobrindt
+- Bärbel Bas
+organisations:
+- CSU
+- EU
+- Federal Cabinet
+- Labour
+- Left Party
+- SPD
 ---
 
 Germany's federal government has approved a ten-point action plan designed to crack down on social welfare fraud, particularly schemes involving organised criminal networks that exploit vulnerable EU migrants and the welfare system.

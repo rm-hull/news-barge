@@ -13,6 +13,18 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://i.guim.co.uk/img/media/54ae2cf5a6e5712f68fb968ad6f65b0e6e7f0839/1245_0_6225_4980/master/6225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d21ca8955c57a54e74061f48bacdfa47
+locations:
+- Blacktown
+- Fairway Drive
+- Norwest
+- Sydney
+- The Hills
+- Westmead Children’s
+people:
+- Isaac Bechara
+- Naomi Moore
+organisations:
+- NSW Ambulance
 ---
 
 A young boy who was allegedly shot at a home in Sydney’s north-west earlier this week has died.

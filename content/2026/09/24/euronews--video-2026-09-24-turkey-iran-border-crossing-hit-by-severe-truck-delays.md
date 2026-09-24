@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/59/80/1200x675_cmsv2_8a62921a-24fe-5030-9d61-81f7dec97ee1-9925980.jpg
+locations:
+- Agri
+- Gurbulak
+- Iran
+- Turkey
+people: []
+organisations: []
 ---
 
 Hundreds of trucks wait at the Gurbulak border crossing in Turkey's eastern Agri province, with drivers standing beside their vehicles as they face long waits to enter Iran.

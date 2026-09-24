@@ -12,6 +12,14 @@ description: This Nintendo Switch 2 bundle at Argos is the best value option yet
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/Qs6ZU4LqTfAinbSKwpBKsV-1920-80.jpg
+locations: []
+people: []
+organisations:
+- Amazon
+- Argos
+- Black Friday
+- EU
+- Nintendo
 ---
 
 ![A screenshot from Pokémon Pokemon featuring Charmander with hearts above his head, looking at a Nintendo Switch 2 console box](https://cdn.mos.cms.futurecdn.net/Qs6ZU4LqTfAinbSKwpBKsV.jpg)

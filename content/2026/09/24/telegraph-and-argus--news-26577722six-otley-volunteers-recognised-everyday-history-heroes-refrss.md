@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21495449.jpg?type=og-image
+locations:
+- Otley Courthouse
+- Otley Museum
+people:
+- Dudley Nixon
+- Vickie Orton
+organisations:
+- Everyday History Heroes
+- Heritage Group
+- Otley Police Force
+- UGC
 ---
 
 *(Image: UGC)*

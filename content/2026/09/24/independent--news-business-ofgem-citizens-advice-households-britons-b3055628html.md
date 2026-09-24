@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/10/40571fa5f2e42b357587d9874b068ae0Y29udGVudHNlYXJjaGFwaSwxNzkwMzI4ODg5-2.42764640.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Scotland
+- Wales
+people:
+- Gillian Cooper
+- Utilita
+organisations:
+- BMG Research
+- Citizens Advice
+- Ofgem
+- Outfox Energy
+- TruEnergy
+- Utilita
 ---
 
 Energy firms have been warned they must “double down” on customer service ahead of a challenging winter for households.

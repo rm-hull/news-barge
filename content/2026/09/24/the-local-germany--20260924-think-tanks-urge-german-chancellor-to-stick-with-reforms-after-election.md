@@ -13,6 +13,26 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260921__C8WB64G__v1__HighRes__GermanyPoliticsVoteStateBerlinMecklenburgWester.jpg@webp
+locations:
+- Europe
+- Germany
+- Iran
+- US
+people:
+- Merz
+- Oliver Holtemoeller
+- Stefan Kooths
+organisations:
+- AfD
+- CDU
+- DIW
+- FactSet
+- IWH
+- IfW
+- Ifo
+- Kiel Institute for the World Economy
+- RWI
+- SPD
 ---
 
 The institutes raised their GDP growth forecast for Germany to 1.3 percent this year, offering a ray of hope after what has been a dismal few weeks for Merz.

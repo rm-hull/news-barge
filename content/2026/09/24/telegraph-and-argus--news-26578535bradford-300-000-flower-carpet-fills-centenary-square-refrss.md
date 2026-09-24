@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21496904.jpg?type=og-image
+locations:
+- Belgium
+- Bradford City Hall
+- Brussels
+- Centenary Square
+- UK
+- West Yorkshire
+people:
+- Bradford
+- Shiraaz Ali
+organisations:
+- Bradford
+- Flower Carpet
+- Flower Carpets
+- Tapis de Fleurs de Bruxelles
 ---
 
 VOLUNTEERS are hard at work creating a giant flower carpet in the heart of Bradford.

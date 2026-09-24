@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/17/2296754285..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Islamic Republic
+- Israel
+- Minab
+- New York
+- Tehran
+- US
+- United States
+- Washington
+people:
+- Abbas Araghchi
+- Benjamin Netanyahu
+- Donald Trump
+- Esmail Baghaei
+- Jared Kushner
+- Marco Rubio
+- Masoud Pezeshkian
+- Mohsen Rezaei
+- Steve Witkoff
+organisations:
+- 81st General Assembly
+- Reuters
+- Supreme National Security Council
+- UN
+- United Nations General Assembly
 ---
 
 Iran’s president Masoud Pezeshkian launched a defiant attack on the United States and Israel at the UN, the day after President Donald Trump threatened to “annihilate” the Islamic Republic.

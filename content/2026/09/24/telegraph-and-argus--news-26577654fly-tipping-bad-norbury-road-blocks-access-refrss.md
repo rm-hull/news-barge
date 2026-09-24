@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21495540.jpg?type=og-image
+locations:
+- Bradford
+- Eccleshill
+- Norbury Road
+people: []
+organisations:
+- Bradford Council
+- CCTV
+- Environmental Health
+- Incommunities
+- Ravenscliffe
+- T&A
 ---
 
 *(Image: T&A)*

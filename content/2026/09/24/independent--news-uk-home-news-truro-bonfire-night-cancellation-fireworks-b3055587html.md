@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2025/11/05/00/6ca0e21360676260f1e6b774518c8b80Y29udGVudHNlYXJjaGFwaSwxNzYyMzQ0OTEz-2.1826927.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Manchester Arena
+- Tremorvah Playing Field
+people:
+- Ariana Grande
+- David Rodda
+- Martyn Hett
+organisations:
+- Manchester Arena
+- Royal Assent
+- Truro City Council
 ---
 
 A popular Bonfire Night has been cancelled for the second year over health and safety concerns.

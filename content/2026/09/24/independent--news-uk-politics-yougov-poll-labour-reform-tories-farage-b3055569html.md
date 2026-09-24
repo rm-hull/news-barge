@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/08/22/15/22144457-5bfab528-ebda-4fe2-bb82-a82020391510.jpg?trim=113,0,113,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Middle East
+- Piddington
+- UK
+- Wales
+people:
+- Andy Burnham
+- Keir Starmer
+- Kemi Badenoch
+- Ms Badenoch
+- Nigel Farage
+- Rejoin
+organisations:
+- Conservative Party
+- Greens
+- LBC
+- Labour
+- Lib Dems
+- Plaid Cymru
+- Reform UK
+- SNP
+- Tories
+- Tory
+- YouGov MRP
 ---
 
 It feels rather ironic that the publication of the bombshell MRP poll by YouGov, which project the outcome of a general election if it were held today, was preceded by yet another spat between Reform UK leader Nigel Farage and Tory leader Kemi Badenoch.

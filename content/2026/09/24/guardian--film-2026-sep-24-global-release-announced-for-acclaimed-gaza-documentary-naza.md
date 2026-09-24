@@ -12,6 +12,56 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/126_119_2548_2038/master/2548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f47984c3c03a8d8f7b475a96a5c6703
+locations:
+- Australia
+- Bologna
+- Brazil
+- Canada
+- Central America
+- France
+- Gaza
+- Germany
+- Hong Kong
+- Israel
+- Japan
+- Los Angeles
+- Middle East
+- New York
+- New York City
+- New Zealand
+- San Sebastián
+- Spain
+- Tel Aviv
+- Thailand
+- Turkey
+- UK
+- US
+- Venice
+people:
+- Basel Adra
+- Benjamin Netanyahu
+- Hamdan Ballal
+- Hanif Kureishi
+- Harry Davies
+- James Wilson
+- Jonathan Glazer
+- Joshua Oppenheimer
+- Ken Loach
+- Laura Poitras
+- Nan Goldin
+- Paul Laverty
+- Rachel Szor
+- Richard Eyre
+- Yuval Abraham
+organisations:
+- 972 Magazine
+- Guardian
+- IFC Center
+- JW Films
+- MK2 Films
+- NAZA
+- Skin
+- The Zone of Interest
 ---
 
 NAZA, the award-winning documentary from Israeli film-makers Yuval Abraham and Rachel Szor, is set to be released in cinemas in more than 50 countries before a digital global release on theguardian.com.

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/62/18/1200x675_cmsv2_84563016-8c6d-5820-830c-ebd6569b263f-9926218.jpg
+locations:
+- Italy
+- Salvador Dalí
+people:
+- '**“* Dalí'
+- Azzedine Alaia
+- Daniel Roseberry
+- Elsa Schiaparelli
+- Fashion
+- Fashion*”
+- Jonathan Anderson
+- Judith Clark
+- Laura Bartolomé
+- Maria Grazia Chiuri
+- Palazzo Reale
+- Salvador Dali
+- Vecchio Sultano
+organisations:
+- Christian Dior
+- Milan
+- Palazzo Reale
+- Schiaparelli
 ---
 
 ## A new exhibition at Milan’s Palazzo Reale explores the Dalí’s love affair with fashion, from his collaborations with Elsa Schiaparelli in the 1930s to the designers still borrowing from his surreal visual world today.

@@ -14,6 +14,33 @@ categories:
 - Hardware
 - History
 image: https://cdn.mos.cms.futurecdn.net/zpdAXVXWdkepb3FRzMjx5T-1920-80.jpg
+locations:
+- Australia
+- Beijing
+- China
+- HK
+- Hong Kong
+- Lockheed Martin
+- South Korea
+- U.S.
+- UAE
+people:
+- Bloomberg
+- Donald Trump
+- Mark Tyson
+- Tom
+- Xi Jinping
+organisations:
+- Bloomberg
+- Fedex
+- Foreign Ministry
+- Get Tom's Hardware
+- Google News
+- Lockheed
+- Pentagon
+- Tom's Hardware
+- UPS
+- Whole Foods
 ---
 
 ![An Australian F-35](https://cdn.mos.cms.futurecdn.net/zpdAXVXWdkepb3FRzMjx5T.jpg)

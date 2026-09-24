@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn-1280-80.png
+locations:
+- B.C.
+- California
+- Florida
+- Mount Pleasant
+- Tumbler Ridge
+- U.S.
+- Wisconsin
+people:
+- OpenAI
+- Sam Altman
+- Tom
+organisations:
+- Ars Technica
+- B.C.
+- British Columbia
+- ChatGPT
+- EU
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Model Spec
+- OpenAI
+- Royal Canadian Mounted Police
+- Shane Downing
+- Tom’s Hardware US
+- Tumbler Ridge Secondary School
 ---
 
 ![OpenAI logo](https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn.png)

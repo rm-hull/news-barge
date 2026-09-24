@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6ab4f286a3fdbbcf6ed.jpg
+locations:
+- Activity Centre
+- Quarry Moor
+- Quarry Moor Activity Centre
+- Ripon
+people:
+- Andrew Williams
+- Duncan
+- Julieann Martin-Long
+organisations:
+- 21 Engineer Regiment
+- Alderman Tom F Spence Committee
+- Full Council
+- Lower Ure Conservation Trust
+- Quarry Moor
+- Ripon City Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab4f286a3fdbbcf6ed.jpg)

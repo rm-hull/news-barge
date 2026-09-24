@@ -13,6 +13,29 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/24/9/32/cleveleys.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Hillhouse
+- Lancashire
+- Thornton-Cleveleys
+people:
+- Dave Megson
+- Leigh Day
+- Sarah Moore
+organisations:
+- AGC Chemicals
+- AGC Chemicals Europe
+- AGC Chemicals Europe, Ltd.
+- Food Standards Agency
+- ICI
+- Leigh Day
+- Ltd
+- MMU
+- Manchester Metropolitan University
+- PFAS
+- PFOA
+- UK Government
+- Watershed Investigations
+- Wyre Council
 ---
 
 Blood tests have found high levels of cancer-causing “forever chemicals” in residents living near a large Lancashire chemical factory.

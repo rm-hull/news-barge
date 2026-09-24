@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/867a586d400b36dbc6285ba50286b3d8712bf78f/26_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03af2e5a80e7510aafd7db9ac33dd9d0
+locations:
+- Blue Mountains
+- New South Wales
+- Penrith
+- Sydney
+- Valley Heights
+- Westmead
+people: []
+organisations: []
 ---
 
 A baby has died in a Sydney hospital five days after a mother allegedly stabbed them and two other children in the Blue Mountains, police say.

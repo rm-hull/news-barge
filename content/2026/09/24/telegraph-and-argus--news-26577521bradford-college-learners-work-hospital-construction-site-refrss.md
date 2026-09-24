@@ -15,6 +15,17 @@ categories:
 - Technology & Software
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21495349.jpg?type=og-image&xType=0&yType=0
+locations:
+- Lynfield Mount Hospital
+people:
+- John Wells
+- Louise Rigg
+- McAvoy
+organisations:
+- Adult Construction Skills
+- Bradford College
+- Bradford District Care NHS Foundation Trust
+- Construction Academy
 ---
 
 *(Image: Supplied)*

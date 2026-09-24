@@ -13,6 +13,18 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/TZ7abzFFtLPRR5ADr8NmNo-1920-80.png
+locations:
+- South Korea
+people:
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Google News
+- Jowi Morales
+- LG
+- Samsung Members
+- Seoul Shinmun
 ---
 
 ![Samsung Bespoke AI appliances](https://cdn.mos.cms.futurecdn.net/TZ7abzFFtLPRR5ADr8NmNo.png)

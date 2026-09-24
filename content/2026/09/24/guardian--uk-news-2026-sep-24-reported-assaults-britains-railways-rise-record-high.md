@@ -11,6 +11,25 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/45d6d5570262b91b62bce7aad2e4df1828d9d2f3/187_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe00df13cba0e261a2579ba77d195755
+locations:
+- Glasgow Central Station.
+- Great Britain
+- London Underground
+people:
+- Eddie Dempsey
+- Mark Phillips
+- Richard Hines
+organisations:
+- British Retail Consortium
+- British Transport Police
+- Department for Transport
+- NHS
+- Network Rail
+- ORR
+- Office of Rail and Road
+- RMT
+- Rail Safety and Standards Board
+- Scotrail
 ---
 
 The number of reported assaults on Great Britain’s railways has risen to a record high of almost 25,000 incidents in a year.

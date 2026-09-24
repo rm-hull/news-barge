@@ -13,6 +13,43 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3f9/live/bf71f270-b801-11f1-97e1-83bf52ec4acd.jpg
+locations:
+- Australia
+- California
+- City Hall
+- Downing Street
+- London
+- OpenAI
+- San Francisco
+- Silicon Valley
+- UK
+- US
+- USA
+people:
+- Andrew Rogoyski
+- Andy Burnham
+- Cam Wilson
+- Camilla Chan
+- Dario Amodei
+- Donald Trump
+- Jacob Coxon
+- Joseph Coxon
+- Laura Kuenssberg
+- Nick Clegg
+- Sam Altman
+organisations:
+- ABC
+- Anthropic
+- BBC Radio 4
+- Institute for People-Centred AI
+- Meta
+- OpenAI
+- Truth Social
+- UN General Assembly
+- UN Security Council
+- US Security Council
+- University of Surrey
+- X-Phy
 ---
 
 Watch: What you need to know about the OpenAI Australian government hack

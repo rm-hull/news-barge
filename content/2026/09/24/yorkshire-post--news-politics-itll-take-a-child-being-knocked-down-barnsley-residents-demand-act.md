@@ -16,6 +16,23 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjliY2MxZDNhLTlkYTEtNDQwYy1iYThiLTM3YWFjM2Y4NzgzZToxYWExZWRhMy1kNGVkLTQzY2YtYjQyZC0zN2Q0NGVkZDVhNGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Barnsley
+- Blackburn Lane
+- Central and Old Town
+- Hope Street
+- Old Town
+- Summer Lane
+people:
+- Ann Bowler
+- Coun Jo Newing
+- Coun Lofts
+- Phillip Lofts
+- Richard Kemp
+organisations:
+- Barnsley Council
+- Coun Lofts’
+- Coun Phillip Lofts
 ---
 
 # ‘It’ll take a child being knocked down’: Barnsley residents demand action on parking

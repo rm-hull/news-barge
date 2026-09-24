@@ -12,6 +12,18 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/22/13/16/met-office-map-240926-4pm.png?trim=105,0,52,0&width=1200&height=800&crop=1200:800
+locations:
+- Continent
+- England
+- London
+- North Africa
+- UK
+- Wales
+- West
+people:
+- Dan Holley
+organisations:
+- Met Office
 ---
 
 Parts of the UK could see temperatures soar as high as 27C over the next week as a final hit of summer sun shines on the country.

@@ -15,6 +15,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/12/Austria_IAEA_87347.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Allentown
+- Pennsylvania
+- U.S.
+people:
+- Chris Wright
+- Donald Trump
+- Joe Biden
+organisations:
+- AI
+- Associated Press
+- Congress
+- Energy Department
+- Environmental Protection Agency
+- Trump
 ---
 
 The Energy Department is set to announce it will spend almost $2 billion to try to squeeze more electricity out of the nation's aging and stressed power grid, as President Donald Trump's administration steps up efforts to avoid blackouts amid skyrocketing energy demand spurred by artificial intelligence.

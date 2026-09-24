@@ -12,6 +12,13 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/21496561.jpg?type=og-image
+locations:
+- Chapel Street
+- North Yorkshire
+- Tadcaster
+people: []
+organisations:
+- Lexus
 ---
 
 *(Image: North Yorkshire Police)*

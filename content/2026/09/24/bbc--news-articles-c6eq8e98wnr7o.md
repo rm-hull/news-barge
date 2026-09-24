@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/525e/live/a067fd90-b737-11f1-a430-4d16ee157c41.png
+locations:
+- '** Hampshire'
+- Dover
+- English Channel
+- Isle of Wight Constabulary
+- Normandy
+- Portsmouth
+people:
+- Daniel Thomas
+- Danny Tommo
+- Tommy Robinson
+organisations:
+- Patriot Platform
+- RNLI
+- UK Border Force
 ---
 
 ![Anti-migrant campaigner leaning out of a boat appearing to hold a knife and to be shouting ](https://ichef.bbci.co.uk/ace/standard/541/cpsprodpb/525e/live/a067fd90-b737-11f1-a430-4d16ee157c41.png)

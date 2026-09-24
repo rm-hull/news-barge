@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - True Crime
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/bradley-hunter-selby.webp
+locations:
+- Goole
+- Howden
+- Tadcaster
+- Wakefield
+- York
+people:
+- Bradley Richard Hunter
+- Selby
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 This is Bradley Richard Hunter.

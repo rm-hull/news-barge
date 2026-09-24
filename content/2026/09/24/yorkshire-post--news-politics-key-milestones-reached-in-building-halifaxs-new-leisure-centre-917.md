@@ -13,6 +13,24 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRkNDY4YWQ1LTIxZDEtNGIwYS04NzQwLTQ3MzA2MDVlNzA3MDo1YTNjZTEzNS0wZTE5LTRjODAtYjhkZi1lOTBlZjRmODIxZTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Calderdale
+- Covid
+- Halifax Leisure Centre
+- Halifax Swimming Pool
+- Halifax Town
+- North Bridge
+- North Bridge Leisure Centre
+- Reform UK
+- Skircoat Road
+people:
+- Coun Ingle
+- Coun Keith Ingle
+organisations:
+- Cabinet
+- Economic Regeneration
+- Labour
+- Reform UK
 ---
 
 # ‘Key milestones’ reached in building Halifax’s new leisure centre

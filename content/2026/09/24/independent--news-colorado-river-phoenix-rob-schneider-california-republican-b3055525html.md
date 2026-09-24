@@ -11,6 +11,38 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/08/Drought_Scottsdale_Water_39161.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- California
+- Colorado River
+- D.C.
+- Lake Mead
+- Nevada
+- Phoenix
+- Scottsdale
+- Southwest
+- Tucson
+- Washington
+- West
+people:
+- Amelia Thomson-DeVeaux
+- Barry Graham
+- Ben Grumbles
+- Bryan Cassens
+- Cynthia Campbell
+- Michelle Ugenti-Rita
+- Randall Matas
+- Rob Schneider
+organisations:
+- AP VoteCast
+- Arizona Department of Environmental Quality
+- Environmental Council of the States
+- Lake Powell
+- Scottsdale Water
+- The Associated Press
+- U.S. Bureau of Reclamation
+- Water Quality Division
+- \_\_\_ Associated Press
 ---
 
 A Phoenix suburb ditched a plan to send recycled water from toilets and other sources directly to residents' taps, after political candidates made unproven claims that the water is contaminated “poop water.”

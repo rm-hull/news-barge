@@ -14,6 +14,27 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21492450.jpg?type=og-image
+locations:
+- Downing Street
+- London
+people:
+- Anna
+- Lucy Rigby
+- Matteo
+organisations:
+- Child Trust Fund
+- Child Trust Fund Taskforce
+- Child Trust Funds
+- DWP
+- GOV.UK
+- Government
+- HM Revenue & Customs
+- HMRC
+- Individual Savings Account
+- Maja Smiejkowska
+- National Insurance
+- State Pension
+- Treasury
 ---
 
 Almost 827,000 people could have an average £2,310 sitting in a Child Trust Fund they have yet to claim.

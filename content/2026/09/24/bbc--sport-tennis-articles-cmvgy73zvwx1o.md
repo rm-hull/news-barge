@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6da9/live/3b29b040-b75f-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Arthur Ashe
+- Britain
+- Europe
+- Flushing Meadows
+- Italy
+- London
+- New York
+- United States
+- Wimbledon
+people:
+- Alexander Zverev
+- Andre Agassi
+- Ben Shelton
+- Carlos Alcaraz
+- Jack Draper
+- Jannik Sinner
+- Venus Williams
+- Yannick Noah
+organisations:
+- BBC Sport
+- Team Europe
+- The O2
 ---
 
 ![Carlos Alcaraz hugs Andre Agassi at the Laver Cup](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6da9/live/3b29b040-b75f-11f1-b1d1-571ed4d7ff2c.jpg)

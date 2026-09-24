@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Comedy & Entertainment
 image: https://cdn.mos.cms.futurecdn.net/rqwLtQPM4AkHtcFjHrdbHZ-1920-80.jpg
+locations: []
+people:
+- Guy Ritchie
+- Pierce Brosnan
+- Theo James
+organisations:
+- Netflix
+- Ritchie
+- TechRadar
 ---
 
 ![Theo James and Pierce Brosnan with the TechRadar quiz logo overlapped](https://cdn.mos.cms.futurecdn.net/rqwLtQPM4AkHtcFjHrdbHZ.jpg)

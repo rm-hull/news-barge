@@ -13,6 +13,23 @@ categories:
 - Science
 - Travel
 image: https://media.wired.com/photos/6ab3f1e54d0f843735167f58/191:100/w_1280,c_limit/Seaworld-Culture-Just-One-More-Chapter-Vertical-Photo.JPG
+locations:
+- SeaWorld
+people:
+- Booktok
+- Jessie Kinsey
+- Sarah J. Maas’
+- SeaWorld
+- Xaden Riorson
+organisations:
+- ACOTAR
+- Blackthorns
+- Bloomberg
+- BookTok
+- Howl-O-Scream
+- MMC
+- Rebecca Yarros’
+- SeaWorld Orlando
 ---
 
 When you think of SeaWorld, you most likely think of orcas, school trips to the aquarium, or eating chicken fingers while contemplating the ethics of marine mammal captivity. But this Halloween, the theme park franchise wants to make SeaWorld synonymous with something else entirely: BookTok smut.

@@ -13,6 +13,28 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/8/14/locals-stunned-1606284.jpeg?trim=167,0,167,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- A162
+- Betteras Hill Road
+- Hillam
+- North Yorks
+- Selby
+- South Milford
+- Yorkshire
+people:
+- Coun Grogan
+- Monk Fryston
+- Nic Harne
+- Tim Grogan
+- Tim Grogan.
+organisations:
+- High Court
+- Hillam Parish Council
+- NYC
+- North Yorkshire Council
+- North Yorkshire Police
+- Reform
+- Travellers
 ---
 
 # Yorkshire villagers stunned as 22 caravans appear on unauthorised site in just 10 days

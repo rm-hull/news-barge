@@ -13,6 +13,17 @@ categories:
 - York
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21496469.jpg?type=og-image
+locations:
+- Humberside
+- Selby
+- West Yorkshire
+- York
+people:
+- Bradley Richard Hunter
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

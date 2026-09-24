@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd40/live/0ea1fb80-b805-11f1-a430-4d16ee157c41.jpg
+locations:
+- Anglesey
+- BBC
+- France
+- Lincolnshire
+- Pencarnisiog
+- RAF Valley
+- Wales
+people:
+- Captain Gez Currie
+- Danni Jones
+- Gez Currie
+- Lauren Evans
+- Tom Jones
+- Will.I.Am
+organisations:
+- Caergeiliog
+- Gp Cpt Gez Currie
+- Hawk T1
+- Hawk T2
+- Le Touquet Airshow
+- Ministry of Defence
+- Pencarnisiog A
+- RAF Valley
+- RAF Waddington
+- Red Arrows
 ---
 
 Moment pilots eject as RAF jet crashes in Anglesey

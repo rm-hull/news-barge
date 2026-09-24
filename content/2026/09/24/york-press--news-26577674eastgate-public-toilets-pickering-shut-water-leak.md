@@ -11,6 +11,13 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21495616.jpg?type=og-image
+locations:
+- Eastgate
+- North Yorkshire
+- Pickering
+people:
+- Joy Andrews
+organisations: []
 ---
 
 *(Image: Social media)*

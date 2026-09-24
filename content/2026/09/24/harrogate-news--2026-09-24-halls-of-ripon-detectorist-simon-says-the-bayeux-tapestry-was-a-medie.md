@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - History
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Simon-Richardson.webp
+locations:
+- East of York
+- Europe
+- HALLS of Ripon
+- Hastings
+- River Derwent
+- Stamford Bridge
+- Yorkshire
+people:
+- Charles III
+- Dan Snow
+- Emannuel Macron
+- Harold Godwinson
+- Harold Hardrada
+- John Benfield
+- Ripon
+- Simon Richardson
+- Tim Flanagan
+organisations:
+- British Museum
+- The Times
 ---
 
 The Bayeux Tapestry will be catching the eye of millions at the British Museum between now and next July, but it has one glaring omission that Ripon’s Simon Richardson is bidding to correct.

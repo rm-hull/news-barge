@@ -13,6 +13,27 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.yorkpress.co.uk/resources/images/21495459.jpg?type=og-image
+locations:
+- Britain
+- York
+- Yorkshire
+people:
+- Dave Callan
+- Richard Harpin
+organisations:
+- City of York Council
+- First Direct
+- HomeServe and Growth Partner
+- Make It York
+- Manchester United
+- Ministry of Works
+- ONTO Coaching
+- Team Sky
+- Travel Counsellors
+- York & North Yorkshire Growth Hub
+- York Business School
+- York Press
+- York St John University
 ---
 
 ## Former Manchester United marketing boss to keynote York festival

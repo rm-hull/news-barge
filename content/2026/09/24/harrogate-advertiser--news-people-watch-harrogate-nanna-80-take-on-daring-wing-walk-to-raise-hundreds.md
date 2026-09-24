@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAwNzJhZTBlLTc3NTktNGU0Yy1iZWZiLTVmYTNmZWNjNmI1ZjozOGYyOGQxMi01NTc2LTQ3MzctYmI1Zi1lNjI2MTdiYjA3YWY=.jpg?crop=3:2,smart&trim=&width=1022&auto=webp&quality=75
+locations:
+- Australia
+- China
+- Hampsthwaite
+- Harrogate
+- Leeds East Airport
+- South America
+- South-East Asia
+- United Kingdom
+people:
+- Harrogate nanna
+- Janet Mills
+organisations:
+- Janet's
+- Macular Society
+- NHS
 ---
 
 # Watch Harrogate nanna, 80, take on daring wing walk to raise hundreds of pounds for sight loss charity

@@ -16,6 +16,13 @@ categories:
 - True Crime
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM4NDk1YzkyLTdkZmQtNDk4ZS1iNTE5LTAwMmZiMTZlNWQwMzphYjI3MjYyNi0wYzRiLTQ0NmItYmQ2Ni1jZTg5ZDU2MGI5YTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Devon & Cornwall Police
+- Durham Police
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police issues warning to public after fraudsters impersonate officers by phone

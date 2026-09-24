@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497034.jpg?type=og-image
+locations:
+- Bradford Interchange
+- City Park
+- Holiday Inn Express Bradford City Centre
+- MAJOR
+- Saltaire Village
+people: []
+organisations:
+- Alhambra Theatre
+- Bradford Industrial Museum
+- Holiday Inn
+- Holiday Inn Express
+- Holiday Inn Express Bradford City Centre
+- IHG
+- InterContinental Hotels Group
+- Leeds Bradford Airport
+- Leisure Exchange Multi-Storey Car Park
+- Mirror Pool
+- NQ Staff
+- National Science and Media Museum
+- T&A
+- The Broadway Shopping Centre
+- Vicar Lane Leisure Exchange
+- Yorkshire
 ---
 
 *(Image: NQ Staff)*

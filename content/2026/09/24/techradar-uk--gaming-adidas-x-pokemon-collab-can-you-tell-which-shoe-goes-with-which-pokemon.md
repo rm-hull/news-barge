@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/n3ssHT6LDzwEUbBwqYTC7d-2560-80.jpg
+locations:
+- UK
+- US
+people: []
+organisations:
+- Adidas
+- Adidas'
+- Pokémon
 ---
 
 ![Adidas X Pokémon sneakers](https://cdn.mos.cms.futurecdn.net/n3ssHT6LDzwEUbBwqYTC7d.jpg)

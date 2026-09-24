@@ -11,6 +11,21 @@ categories:
 - Harrogate
 - Education & Learning
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/24/08/IMG_2732_1790196964_c0e9ea50-b1adc0b2798a6605.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Chapeltown
+- Harrogate
+- North Yorkshire
+- Roundhay Park
+people:
+- Catherine Feast
+- Julia Samways
+- Sarah Sackman KC
+organisations:
+- Genesis
+- Justice
+- Leeds United
+- Magistrates’ Association
+- Yorkshire
 ---
 
 # Long-serving magistrate urges Harrogate residents to step forward

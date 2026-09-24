@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/08/2196748709..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- D.C.
+- Europe
+- Lake America
+- Lake Ontario
+- Ottawa
+- U.S.
+- United Kingdom
+- United States
+- Washington
+people:
+- Mark Carney
+- Trump
+organisations:
+- E.U.’s
+- European Union
+- Public First
+- The Wall Street Journal
 ---
 
 Canadians and Americans alike hate the tariffs that President Trump slapped onto Canadian imports last month, a new poll shows.

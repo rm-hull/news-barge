@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/KozrpDM7R43qkE6EcZb97j-2560-80.jpg
+locations:
+- UK
+people:
+- BlackPink
+- Kylie Jenner
+- Lisa
+organisations:
+- Meta Glasses
+- TikTok
+- White Lotus
 ---
 
 ![The Meta Lisa Glasses, and its cat and dog charms](https://cdn.mos.cms.futurecdn.net/KozrpDM7R43qkE6EcZb97j.jpg)

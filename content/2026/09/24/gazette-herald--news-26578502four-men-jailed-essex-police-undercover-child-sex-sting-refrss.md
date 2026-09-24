@@ -13,6 +13,38 @@ categories:
 - York
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21492613.jpg?type=og-image&yType=140
+locations:
+- Chelmsford
+- Highbank Close
+- Micklegate
+- North Yorkshire
+- Selby
+- Southchurch Avenue
+- Southend
+- St Annes Road
+- UK
+- Viva Street
+- York City
+people:
+- Buinickis,46
+- Chris Martin
+- Fakhir Mahmood
+- Gavin Hawkins
+- Joshua Kern
+- Leigh
+- Molly Dyas
+- Nurettin Onay
+- Shane Collery KC
+- Stephen Rose KC
+- Tadislavs Buinickis
+organisations:
+- '![]()Avanos Kebab'
+- Avanos Kebab
+- Basildon Crown Court
+- Companies House
+- Essex Police
+- Google Street View
+- Pizza Shop
 ---
 
 A North Yorkshire restaurant owner is among four men jailed after undercover Essex Police officers “entrapped” them into booking sex with fictitious children.

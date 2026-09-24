@@ -12,6 +12,24 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21495944.jpg?type=og-image
+locations:
+- Arboretum
+- Cinnamon
+- Red Squirrel Enclosure
+- UK
+- Wales
+people:
+- Arborist
+- Ben Paterson
+- Cinnamon
+- David Attenborough
+organisations:
+- Castle Howard Arboretum Trust
+- Cinnamon
+- Marion Hayhurst Castle Howard Arboretum
+- Red Squirrel
+- Red Squirrel Officer
+- Red Squirrels
 ---
 
 ## Red Squirrel enclosures welcomes new arrival

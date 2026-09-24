@@ -15,6 +15,26 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJhMTQwMDZjLTY5MmUtNDczNy1iOTZmLWM0NzYxOWFhMmM2Nzo1YzY2ZDM3YS04OGU0LTQ2NjgtOTE0My03MWZlMzQ0NDU3YWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Sheffield Town Hall
+people:
+- Ben Miskell
+- Coun Andrew Sangar
+- Coun Belbin
+- Coun Maloney
+- Douglas Johnson
+- Fran Belbin
+- Ian Horner
+- Jack Byron
+- John Hesketh
+- Paul Turpinsaid
+- Sean Maloney
+organisations:
+- Green Party
+- Labour
+- Reform
+- Sheffield City Council
+- Tory
 ---
 
 # 'A dreadful legacy for our grandchildren': Sparks fly in town hall over building on green belt

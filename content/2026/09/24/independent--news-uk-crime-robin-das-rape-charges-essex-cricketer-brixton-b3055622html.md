@@ -12,6 +12,29 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/10/2228904784..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Brixton
+- Cardiff
+- Croydon Magistrates’ Court
+- Edgbaston
+- Inner London Crown Court
+- Waltham Forest
+people:
+- Robin Das
+organisations:
+- Cricket Regulator
+- ECB
+- England and Wales Cricket Board
+- Essex County Cricket Club
+- Glamorgan
+- Leciestershire
+- Leicestershire
+- Metropolitan Police
+- Nottinghamshire
+- PCA
+- Professional Cricketers’ Association
+- Somerset
+- Warwickshire
 ---
 
 Essex cricketer Robin Das, 24, has been charged with two counts of rape.

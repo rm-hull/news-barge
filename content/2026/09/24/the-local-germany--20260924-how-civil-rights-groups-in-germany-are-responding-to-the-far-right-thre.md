@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-617604112.jpg@webp
+locations:
+- Germany
+- Magdeburg
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+people:
+- Donald Trump
+organisations:
+- ACLU
+- AfD
+- American Civil Liberties Union
+- Equal Rights Beyond Borders
+- Left Party
+- Recht Solidarisch
+- Republican Lawyers’ Association
+- Rosa Luxemburg Foundation
 ---
 
 When thousands marched for “democracy” in Magdeburg ahead of Saxony-Anhalt’s regional election, the message was visible and emotional: “more love, less hate”, “a better life without Nazis”, and the very German joke that “potatoes also came from abroad”.

@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21494802.jpg?type=og-image
+locations:
+- Darlington
+- Parkgate
+people:
+- Olivia Howlett
+organisations: []
 ---
 
 * Welcome to The Northern Echo’s live breaking blog on the police cordon on Parkgate in Darlington.

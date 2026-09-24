@@ -13,6 +13,34 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/13/UN_General_Assembly_Kenya_3_875.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Botswana
+- China
+- Ethiopia
+- France
+- Iran
+- Namibia
+- Russia
+- U.S.
+- Ukraine
+- United Kingdom
+- United States
+people:
+- António Guterres
+- Duma Boko
+- Joe Biden
+- Netumbo Nandi-Ndaitwah
+- Taye Atske Selassie
+- William Ruto
+organisations:
+- AI
+- African Union
+- General Assembly
+- Security Council
+- U.N
+- U.N.
+- United Nations
 ---
 
 They want to help make the decisions — not just watch them unfold.

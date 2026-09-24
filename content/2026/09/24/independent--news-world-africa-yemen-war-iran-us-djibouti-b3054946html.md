@@ -13,6 +13,37 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/13/2026-09-16T095823Z_1965694593_RC2ZINAO2TWL_RTRMADP_3_IRAN-CRISIS-YEMEN-DJIBOUTI-DISPLACED.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bab al-Mandab Strait
+- Bab al-Mandeb Strait
+- Djibouti
+- Egypt
+- Eritrea
+- Iran
+- Israel
+- Markazi
+- Mediterranean
+- Mount Qarfan
+- Obock
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- US
+- White House
+- Yemen
+people:
+- Donald Trump
+- Ms Desamours
+- Sandrine Desamours
+organisations:
+- The Independent
+- UN
+- UNHCR
+- US Agency for International Development
+- USAID
+- United Nations
+- World Food Programme
 ---
 
 Thousands of Yemenis displaced by intensified fighting have fled across the Red Sea to Djibouti, with aid agencies “more than overwhelmed” by new arrivals amid the fallout from abrupt cuts to international aid.

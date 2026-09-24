@@ -13,6 +13,23 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago1082200893h-scaled.jpg
+locations:
+- Berlin
+- Germany
+- Munich
+- North Rhine-Westphalia
+people:
+- Die Linke
+- Elif Eralp
+- Kai Wegner
+organisations:
+- CDU
+- Cologne
+- Cologne-Rhine-Ruhr
+- DOSB
+- German Olympic Sports Confederation
+- House of Representatives
+- Munich
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago1082200893h-scaled.jpg)

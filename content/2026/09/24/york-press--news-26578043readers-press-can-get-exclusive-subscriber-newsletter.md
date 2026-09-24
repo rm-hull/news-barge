@@ -12,6 +12,14 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21496150.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- Whitby
+- York
+people: []
+organisations:
+- The Press
 ---
 
 *(Image: Copilot)*

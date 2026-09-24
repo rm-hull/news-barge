@@ -11,6 +11,14 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/24/13/Starbucks-Store_Closures_119_5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- North America
+- Starbucks'
+- U.S.
+people:
+- Mike Grams
+organisations:
+- U.S. Starbucks
 ---
 
 Starbucks plans to close 250 North American stores later this week.

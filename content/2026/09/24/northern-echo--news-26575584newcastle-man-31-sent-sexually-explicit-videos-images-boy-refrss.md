@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21492501.jpg?type=og-image
+locations:
+- Newcastle
+people:
+- David Richardson
+- Denton Burn
+- Jonathan Sandiford
+- Lee Robertson
+organisations:
+- NEROCU
+- Newcastle Crown Court
+- North East Regional Organised Crime Unit
 ---
 
 *(Image: NEROCU)*

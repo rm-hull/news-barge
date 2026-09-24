@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21487602.jpg?type=og-image&xType=0&yType=30
+locations:
+- Bedale Squash Courts
+- County Durham
+- DL8 1HA
+- North East
+- North Yorkshire
+- Teesside
+people:
+- Paul Bell
+organisations:
+- Bedale Squash Club
+- Pancreatic Cancer UK
 ---
 
 Friends of a long-standing North Yorkshire squash player battling pancreatic cancer will take to the court for a 24-hour charity challenge.

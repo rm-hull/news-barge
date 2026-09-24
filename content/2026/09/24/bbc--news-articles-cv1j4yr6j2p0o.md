@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a1a/live/57752de0-b667-11f1-b785-7d19738c6de2.jpg
+locations:
+- Africa
+- Asia
+- Hamburg
+- Japan
+- Kenya
+- Mount Elgon
+- US
+people:
+- Claudius Aelian
+- Elodie Freymann
+- Fabien Schultz
+- Michael Huffman
+- Prof Huffman
+organisations:
+- BBC News
+- Bernhard Nocht Institute for Tropical Medicine
+- Brown University
+- Mount Elgon Foundation
+- Nagasaki University
 ---
 
 ![The image shows two elephants - a mother on the left and a small calf next to her on the right of the image. They appear to be eating forest plants. There is dense, green forest around them and their mouths are open as if mid-meal. ](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3a1a/live/57752de0-b667-11f1-b785-7d19738c6de2.jpg)

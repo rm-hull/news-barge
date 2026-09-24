@@ -14,6 +14,24 @@ categories:
 - Science
 - Health & Fitness
 image: https://media.wired.com/photos/6ab2b368ca9e2384756787bb/191:100/w_1280,c_limit/092226-Menopause%20Ovary.jpg
+locations:
+- Chicago
+- Massachusetts General Hospital
+people:
+- Birgit Schilling
+- David Pépin
+- Francesca Duncan
+- Jennifer Garrison
+- Pauline Maki
+- Stephanie Faubion
+- Walter Rocca
+organisations:
+- Buck Institute for Research on Aging
+- Harvard Medical School
+- Mayo Clinic
+- Menopause Society
+- Northwestern University
+- University of Illinois
 ---
 
 When Francesca Duncan decided to take a look at what was going on in postmenopausal ovaries, she assumed she wouldn’t find much of interest. In a woman’s reproductive years, the ovary is exceptionally dynamic, shifting form and function from day to day throughout her cycle. But after menopause, when egg supply has dwindled and hormone production has waned, the ovaries are often thought of as little more than empty sacks.

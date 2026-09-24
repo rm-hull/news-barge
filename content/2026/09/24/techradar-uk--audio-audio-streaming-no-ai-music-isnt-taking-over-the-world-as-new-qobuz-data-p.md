@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/FSHiGhYXvEXe9r3zWU6Qb8-1920-80.jpg
+locations:
+- AI
+- Dallas
+- Tidal
+- US
+people:
+- Dan Mackta
+- Dre
+- Qobuz
+organisations:
+- AI
+- Breaking Rust
+- Deezer
+- Enlly Blue
+- Meta
+- Muse
+- Qobuz
+- Spotify
+- Tidal
+- Velvet Sundown
+- anti-AI
 ---
 
 ![Qobuz artwork showing an AI detection tag.](https://cdn.mos.cms.futurecdn.net/FSHiGhYXvEXe9r3zWU6Qb8.jpg)

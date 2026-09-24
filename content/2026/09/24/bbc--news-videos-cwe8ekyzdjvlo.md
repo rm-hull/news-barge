@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb5/live/f0712fb0-b7d6-11f1-a430-4d16ee157c41.jpg
+locations:
+- Australia
+people:
+- Anthony Albanese
+- Lily Jamali
+organisations:
+- BBC’s North America
+- OpenAI
 ---
 
 # What you need to know about the OpenAI Australian government hack

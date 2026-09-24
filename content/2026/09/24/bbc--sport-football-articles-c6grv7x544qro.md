@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/716e/live/6bc32f50-b80f-11f1-b205-219f899eccc7.jpg
+locations:
+- England
+people:
+- Andy Carroll
+- Lou Teasdale
+- Me
+organisations:
+- Amiens
+- Bordeaux
+- Dagenham & Redbridge
+- Liverpool
+- Newcastle
+- Premier League
+- Reading
+- West Brom
+- West Ham
 ---
 
 ![Andy Carroll playing for Dagenham & Redbridge in a pre-season friendly in July 2025](https://ichef.bbci.co.uk/ace/standard/685/cpsprodpb/716e/live/6bc32f50-b80f-11f1-b205-219f899eccc7.jpg)

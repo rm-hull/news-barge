@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21222504.jpg?type=og-image&xType=0&yType=112
+locations:
+- Cedar House
+- Foxwood Drive
+- Hartington Road
+- North East
+- Stockton
+- Teesside Crown Court
+people:
+- Francis Laird
+- Harry Heslop
+- Rebecca Hackett
+organisations:
+- Cleveland Police
+- NORTHERN ECHO
+- Recorder of Middlesbrough
 ---
 
 *(Image: NORTHERN ECHO)*

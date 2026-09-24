@@ -13,6 +13,17 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2021/07/14/10/4a267763c2b467ac9e641efeedea6387Y29udGVudHNlYXJjaGFwaSwxNjI2MzM4MjIy-2.58313564.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Caitlyn Eastell
+- Hanley
+organisations:
+- Cahoot
+- Co-op Bank
+- Moneyfacts
+- Santander
+- Skipton
 ---
 
 Savers are being urged to check their savings accounts and ensure the interest rate on them is giving them a fair deal, with new research suggesting they may be hundreds of pounds better off with building societies rather than banks.

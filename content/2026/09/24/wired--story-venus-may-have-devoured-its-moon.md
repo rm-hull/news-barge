@@ -11,6 +11,16 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab40967bd39df2bc999c8fd/191:100/w_1280,c_limit/venus-from-parker-solar-probe.webp.jpeg
+locations:
+- Earth
+- Riverside
+- Venus
+people:
+- Steven Kane
+- Venus
+organisations:
+- University of California
+- Venus
 ---
 
 Venus has nearly the same mass, size, and structure as Earth, which has led astronomers to believe it should have a moon, but it doesn’t. It is technically possible that a moon never formed, but scientists have also come up with several scenarios to describe how Venus could have lost its satellite.

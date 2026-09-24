@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/57/00/1200x675_cmsv2_b1eb4a42-e543-507f-9f2f-6edfdcbd867f-9925700.jpg
+locations:
+- Maryland
+- US
+- United States
+people:
+- Donald Trump
+- Melania Trump
+- Peng Liyuan
+- Xi Jinping
+organisations:
+- Joint Base Andrews
 ---
 
 Chinese President Xi Jinping arrived at Joint Base Andrews in Maryland on Wednesday for a state visit to the United States, where he was greeted by President Donald Trump and first lady Melania Trump.

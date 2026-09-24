@@ -12,6 +12,28 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2024/12/03/17/87761b3f29acceb47e29c273379ad5b8Y29udGVudHNlYXJjaGFwaSwxNzMzMzMxNjE3-2.1248676.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Athens
+- Bayeux
+- British Museum
+- Elgin
+- France
+- Greece
+- London
+- Parthenon
+- UK
+people:
+- Elgin
+- George Osborne
+- Kyriakos Mitsotakis
+- Nicholas Cullinan
+organisations:
+- British Museum
+- Elgin Marbles
+- Financial Times
+- Telegraph
+- The Independent
+- UNESCO
 ---
 
 Talks between Greece and the British Museum over the Elgin Marbles have collapsed, it has been reported.

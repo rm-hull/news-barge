@@ -14,6 +14,25 @@ categories:
 - Health & Fitness
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21490471.jpg?type=og-image
+locations:
+- Catterick
+- Coast to Coast Walk
+- Great North Children’s Hospital
+- James Cook University Hospital
+- Newcastle
+- North Yorkshire
+people:
+- Dad Robin
+- George
+- Lucy
+- Rachel
+- Samina O’Brien
+- Tom Davies
+organisations:
+- RGS
+- Richmond Dales
+- Richmond Dales Amateur Swimming Club
+- Ripon Grammar School
 ---
 
 *(Image: Supplied)*

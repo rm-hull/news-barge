@@ -13,6 +13,28 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2025/08/13/11/50/contraception-shortages-13-aug-3.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Burundi
+- Madagascar
+- Mozambique
+- New York
+- Sudan
+- UK
+- US
+- Yemen
+- Zimbabwe
+- sub-Saharan Africa
+people:
+- Diene Keita
+- Kirsty McNeill
+organisations:
+- FP2030
+- Gates Foundation
+- The Independent
+- UNFPA
+- United Nations General Assembly
+- United Nations Population Fund
 ---
 
 More than £540 million has been pledged for reproductive healthcare that could help prevent millions of unintended pregnancies and tens of thousands of maternal deaths, with almost half coming from the UK.

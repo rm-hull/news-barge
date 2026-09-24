@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/b6bc2811f207a47f1a64b2d966a52a4c91e0fb20/252_0_606_485/master/606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=789c7ded01eaf8dda2577d82224c9365
+locations:
+- Glenburn
+- Mansfield
+- Melba Highway
+- Melbourne
+- Victoria’s Yarra Ranges
+people: []
+organisations:
+- Mee’s Bus Lines
 ---
 
 A man has died and several other have been injured after a multi-vehicle collision in Victoria’s Yarra Ranges involving a bus carrying 18 people.

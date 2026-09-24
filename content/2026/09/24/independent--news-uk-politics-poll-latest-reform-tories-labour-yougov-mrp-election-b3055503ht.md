@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/11/01M31V9KWHMXYBNBA36J4PBQSE.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- PA
+- UK
+people:
+- Andy Burnham
+- Keir Starmer
+- Nigel Farage
+- Patrick English
+- Robert Jenrick
+- Suella Braverman
+- Toby Melville
+organisations:
+- Green Party
+- Labour
+- Liberal Democrats
+- MRP
+- Reform UK
+- The Times
+- Tories
+- YouGov
 ---
 
 Reform UK would fall behind both Labour and the Conservatives if a general election were held today, new polling suggests, in a major blow to Nigel Farage.

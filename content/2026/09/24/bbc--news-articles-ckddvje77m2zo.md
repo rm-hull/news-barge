@@ -11,6 +11,29 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3fb/live/3ac22ce0-b804-11f1-97e1-83bf52ec4acd.jpg
+locations:
+- Consett
+- County Durham
+- Darlington
+- Sunderland
+people:
+- Alison Marshall
+- Chloe Gibson
+- Denise Howarth
+- Gill Hunt
+- Pam
+- Rachel Gray
+- Sharon Barbour
+- Steve Russell
+organisations:
+- BBC iPlayer
+- Care Quality Commission
+- Darlington NHS Foundation Trust
+- Harm** BBC
+- NHS England
+- Northern Cancer Alliance
+- Rachel Gray
+- University of North Durham Hospital
 ---
 
 Watch: Denise (pictured), Pam and other women describe how they were failed

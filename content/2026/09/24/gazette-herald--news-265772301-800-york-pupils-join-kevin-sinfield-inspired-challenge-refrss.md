@@ -14,6 +14,19 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21495031.jpg?type=og-image
+locations:
+- York
+people:
+- Holgate
+- Joanna Kitney
+- Kevin Sinfield
+- Rob Burrow
+organisations:
+- AHS Unity Fund
+- Archbishop Holgate’s School
+- Holgate’s School
+- MND Association
+- Team Uganda
 ---
 
 Nearly 1,800 York pupils are set to take on a 12-hour running challenge in support of Sir Kevin Sinfield’s latest fundraising challenge.

@@ -13,6 +13,26 @@ categories:
 - Business & Entrepreneurship
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/24/11/e11ee2174ca863d8c65052ccad65963cY29udGVudHNlYXJjaGFwaSwxNzkwMzI4ODIx-2.85613770.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- PA
+- UK
+people:
+- Andy Burnham
+- Laura Trott
+- Lucy Powell
+- Munira Wilson
+- Toby Melville
+organisations:
+- BBC Breakfast
+- Department for Education
+- DfE
+- Labour Government
+- Liberal Democrats’
+- Ofqual
+- Ofsted
+- Pisa
+- Times Radio
 ---
 
 The Education Secretary has defended the Government’s plans for new vocational GCSEs, insisting they are not “dumbing down” the system.

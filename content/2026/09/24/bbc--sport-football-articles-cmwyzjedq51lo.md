@@ -15,6 +15,12 @@ categories:
 - Personal Finance & Investing
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9154/live/b1ab3510-b7e4-11f1-b86f-f9f95031dc8c.jpg
+locations:
+- Old Trafford
+people: []
+organisations:
+- Manchester United
+- Manchester Unitedare
 ---
 
 ![A general view inside Manchester United's Old Trafford stadium in May 2025](https://ichef.bbci.co.uk/ace/standard/766/cpsprodpb/9154/live/b1ab3510-b7e4-11f1-b86f-f9f95031dc8c.jpg)

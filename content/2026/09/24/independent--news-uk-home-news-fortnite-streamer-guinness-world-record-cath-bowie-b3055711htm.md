@@ -13,6 +13,16 @@ categories:
 - Video Gaming
 - History
 image: https://static.independent.co.uk/2026/09/24/00/23175327-37b37aee-c0bf-42e4-a345-969bfc9deec9.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Fortnite
+people:
+- Alice Bell
+- Cath Bowie
+- Fortnite
+- Fortniter
+- Ms Bowie
+organisations:
+- Guinness World Records
 ---
 
 A Scottish grandmother has been crowned the world’s oldest female Fortnite streamer by Guinness World Records.

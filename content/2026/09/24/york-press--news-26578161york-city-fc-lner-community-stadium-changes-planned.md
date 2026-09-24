@@ -11,6 +11,23 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.yorkpress.co.uk/resources/images/16233648.jpg?type=og-image
+locations:
+- '![]()York'
+- Bootham Crescent
+- Huntington
+- LNER Community Stadium
+- Monks Cross Shopping Park
+- York City
+people:
+- Scott Lindsey
+organisations:
+- City of York Council
+- Greenwich Leisure Ltd
+- Rotherham
+- York City FC
+- York Knights
+- York Knights'
+- York Valkryie Women
 ---
 
 ## Changes could be coming to York City's home ground

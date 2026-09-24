@@ -15,6 +15,34 @@ categories:
 - Sports
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21493000.jpg?type=og-image&xType=0&yType=12
+locations:
+- Dickens Inn
+- London’s Tower Bridge
+- Middlesbrough
+- North East
+- Southfield Road
+- Teesside
+people:
+- Aitor Karanka
+- Alberto
+- Ben Gibson
+- Glen Malpass
+- Jack Spensley
+- John Hendrie
+- MICHAEL LAZENBY
+organisations:
+- Boro
+- Dakota House of Design
+- Dickens Inn
+- Guinness
+- Middlesbrough FC
+- Middlesbrough Town Hall
+- Premier League
+- Roseberry Topping
+- Sky Sports
+- The Dickens
+- The Dickens Inn
+- Transporter Bridge
 ---
 
 A legendary Teesside bar that hosted Middlesbrough FC promotion parties and generations of big nights has had a dramatic makeover.

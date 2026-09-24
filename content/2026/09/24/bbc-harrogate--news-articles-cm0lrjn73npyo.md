@@ -13,6 +13,38 @@ categories:
 - True Crime
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2840/live/92fcd7a0-b770-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- A66
+- BBC
+- England
+- Hemlington
+- Middlesbrough
+- Peterlee
+- South Bank
+- UK
+people:
+- '![Dylan'
+- Alex
+- Cole Worthy
+- Dylan
+- Jakub Matusiak
+- James
+- Louis
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- BBC Newsbeat
+- Centre for Social Justice
+- Cleveland Police
+- Hemlington Boxing Club
+- Lucozade
+- Middlesbrough
+- TikTok
 ---
 
 ![Dylan, a 20-year-old boxer pictured in a black and grey training top. He has short brown hair and dark eyes. Beside him is another image of three men wearing hooded tops.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2840/live/92fcd7a0-b770-11f1-bc1f-3f186ca4140c.jpg)

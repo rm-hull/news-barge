@@ -14,6 +14,20 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://www.newscientist.com/wp-content/uploads/2026/09/Social-Image-Link.jpg
+locations:
+- Australia
+- New York
+people:
+- Anthony Albanese
+- Clément Canonne
+- David Tuffley
+- Sam Altman
+organisations:
+- AI
+- Griffith University
+- OpenAI
+- United Nations General Assembly
+- University of Sydney
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/GettyImages-2296186830.jpg?w=840)

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/16673008.jpg?type=og-image
+locations:
+- Bishop Auckland
+- County Durham
+- Crane Lane Row
+- Crane Row Lane
+- Hamsterley
+- Newcastle
+people:
+- CHRIS BOOTH
+organisations:
+- Durham Constabulary
+- Durham Police
+- GNAAS
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- North East Ambulance Service
+- RVI
+- Serious Collision Investigation Unit
 ---
 
 *(Image: CHRIS BOOTH)*

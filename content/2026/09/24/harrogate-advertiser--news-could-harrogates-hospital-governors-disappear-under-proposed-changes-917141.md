@@ -15,6 +15,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRkZTMwMTRmLTdlNTEtNDcyZC05YzI0LWUwZTIxNzgwZGQzYToxOTdkYzljOC0zM2IzLTQ5YmQtYjg3Yi0zNTY1ZmUyNTUyMTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+people:
+- Jackie Lincoln
+- Kate Southgate
+organisations:
+- '![Harrogate'
+- District NHS Foundation Trust
+- HDFT
+- Harrogate and District NHS Foundation Trust
 ---
 
 # Could Harrogate’s hospital governors disappear under proposed changes?

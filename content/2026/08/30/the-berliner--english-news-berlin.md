@@ -12,6 +12,15 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago1082200893h-scaled.jpg
+locations:
+- Berlin
+- Mitte
+people:
+- Kai Wegner
+- Remmo
+organisations:
+- '### Berlin'
+- Senate
 ---
 
 ## News

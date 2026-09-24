@@ -12,6 +12,26 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/21/15/2294331042..?trim=0,96,0,96&width=1200&height=800&crop=1200:800
+locations:
+- Dover
+- English Channel
+- Gosport
+- Hampshire
+- Kent
+- Portsmouth Magistrates Court
+- Salisbury
+people:
+- Daniel Thomas
+- Danny Tommo
+- Sally Pearson
+- Shannon Dodds
+- Toby Matthews
+- Tommy Robinson
+organisations:
+- Border Security Command
+- English Channel
+- Hampshire
+- Isle of Wight Constabulary
 ---
 
 Far-right activist Daniel Thomas has been arrested by police on suspicion of criminal damage with intent to endanger life after an incident in the English Channel.

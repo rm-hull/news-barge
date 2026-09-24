@@ -12,6 +12,18 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/24/13/01M39KPF0Y57DD6T2JB0NXK8Q4.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- Essex
+- Garon Park
+- London
+- Princess of Wales
+- Southend
+people:
+- Kate
+- Liam King
+organisations:
+- Forward Trust
+- The Forward Trust
 ---
 
 The Princess of Wales has met with people recovering from addiction during a solo public appearance north-east of London.

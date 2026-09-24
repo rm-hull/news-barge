@@ -15,6 +15,34 @@ categories:
 - Arts & Culture
 - Religion & Spirituality
 image: https://images.euronews.com/articles/stories/09/92/09/36/1200x675_cmsv2_813ce62e-6ec6-5288-94ba-ef5652c78b9a-9920936.jpg
+locations:
+- Aghdara
+- Amaras Monastery
+- Armenia
+- Azerbaijan
+- Ağoğlan Monastery
+- Gabala
+- Gandzasar
+- Kalbajar
+- Karabakh
+- Khojavend
+- Khudavang
+- Kish
+- Lachin
+- Nij
+- Sheki
+- Udi
+- Vangli
+people:
+- Danakari Rafiq Arami
+- Hasan-Jalal Dawla
+- Magdalena Grono
+organisations:
+- Alban-Udi Christian Community
+- EU
+- Euronews
+- Historic Centre of Sheki
+- UNESCO
 ---
 
 ## A religious service at the historic Gandzasar monastery has offered a rare insight into Karabakh’s Christian heritage, as historic religious disputes linger while Azerbaijan and Armenia work toward lasting peace.

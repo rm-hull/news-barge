@@ -12,6 +12,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-2560-80.jpg
+locations:
+- US
+people:
+- Gambit
+organisations:
+- Cairn
+- Fortune
+- Gambit
+- Hermes
+- Red Team Operator
+- TechRadar Pro
 ---
 
 ![Who will win the AI race?](https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB.jpg)

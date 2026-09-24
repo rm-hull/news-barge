@@ -12,6 +12,40 @@ categories:
 - UK
 - Law & Justice
 image: https://static.independent.co.uk/2025/10/30/16/1409f8f4a4bd927b16d9a07cc9ab81d1Y29udGVudHNlYXJjaGFwaSwxNzYxOTIyNjYw-2.16404844.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Isleworth Crown Court
+people:
+- Abdiwali Hassan
+- Andy Burnham
+- Ben Nye
+- Carl Lamb
+- Dame Vera Baird KC
+- Jason Ritchie
+- Jerome Barrett
+- Liam Osborne
+- Scott Prince
+- Shaun Lloyd
+- Shirley Debono
+- Victoria Hathaway
+organisations:
+- CCRC
+- Cardiff Crown Court
+- Court of Appeal
+- Criminal Cases Review Commission
+- DPP
+- DYPP
+- Dame Vera
+- Dame Vera Baird KC
+- Derby Crown Court
+- Detention for Public Protection
+- IPP
+- Imprisonment for Public Protection
+- Independent
+- Ipswich Crown Court
+- Leeds Crown Court
+- Teeside Crown Court
+- Wolverhampton Crown Court
+- York Crown Court
 ---
 
 Nine more prisoners trapped on indefinite jail terms have had their sentences referred to the Court of Appeal by the miscarriages of justice watchdog.

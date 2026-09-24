@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/16/08/GettyImages-2296584703.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Michael Drager
+- Xi Jinping
+organisations:
+- AI Force
+- Bureau of International Organization Affairs
+- GA
+- General Assembly
+- SI Force
+- Security Council
+- State Department
+- Trump
+- U.N
+- U.N.
 ---
 
 Diplomats within the State Department's international organizations bureau have been instructed to replace the term "artificial intelligence" with "super intelligence" across all official communications, following a rebranding push introduced by President Donald Trump during his address to the U.N. General Assembly this week.

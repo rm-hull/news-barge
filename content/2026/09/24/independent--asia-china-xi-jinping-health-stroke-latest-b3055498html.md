@@ -12,6 +12,38 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/24/10/2296833382..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- Bishkek
+- China
+- Delhi
+- India
+- Joint Base Andrews
+- Kyrgyzstan
+- Maryland
+- North Korea
+- Russia
+- US
+- Washington
+people:
+- Dennis Wilder
+- Donald Trump
+- Henry Gao
+- Hu Jintao
+- Jiang Zemin
+- Kim Jong Un
+- Peng Liyuan
+- Vladimir Putin
+- Xi Jinping
+- Xie Wanjun
+organisations:
+- 301 Hospital
+- CIA
+- China Democracy Party
+- Chinese Communist Party
+- Joint Base Andrews
+- Singapore Management University
+- The Wall Street Journal
 ---
 
 Chinese president Xi Jinping arrived in the US on Wednesday for his summit with Donald Trump after days of social media rumours about the Chinese leader's health.

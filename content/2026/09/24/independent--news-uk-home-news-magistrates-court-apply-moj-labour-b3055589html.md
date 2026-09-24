@@ -12,6 +12,19 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/08/05/14/2289181585..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+- Catherine Feast
+organisations:
+- Crown Court
+- Labour
+- Magistrates’ Association
+- Ministry of Justice
+- MoJ
 ---
 
 A new government recruitment campaign is underway to sign up thousands of additional magistrates in a bid to reduce court backlogs.

@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21496813.jpg?type=og-image
+locations:
+- England
+- Otley
+- Parkinson’s
+- Ripon
+- Wakefield
+people:
+- Andrew Matthews
+- Charles
+- Harry Melville
+- Linda
+- Mike Tindall
+- PA Wire
+- Parkinson
+- Phil Tindall
+- Zara Tindall
+organisations:
+- Barclays Bank
+- British Lions
+- Chester
+- Cure Parkinson’s
+- Halifax
+- Otley RUFC
+- Otley Rugby Club
+- Ripon
+- The Good
 ---
 
 *(Image: Andrew Matthews/PA Wire)*

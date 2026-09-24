@@ -13,6 +13,62 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a0ec/live/a3f20410-b7fa-11f1-8ef6-b9665ffdab6f.jpg
+locations:
+- Brighton
+- Cambiaso
+- Etihad
+- Europe
+- Lille
+- Nottingham Forest
+- River Plate
+- ofManchester City
+people:
+- '## Anderson'
+- Abdukodir Khusanov
+- Andrea Cambiaso
+- Ayyoub Bouaddi
+- Bernardo Silva
+- Carlos Baleba
+- City
+- Eduardo Camavinga
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Gianluigi Donnarumma
+- Hugo Viana
+- Ilkay Gundogan
+- Jack Grealish
+- Jeremy Doku
+- Julian Alvarez
+- Kevin de Bruyne
+- Kyle Walker
+- Leroy Sane
+- Marc Cucurella
+- Marc Guehi
+- Moises Caicedo
+- Nico Gonzalez
+- Pep Guardiola
+- River
+- Riyad Mahrez
+- Rodri
+- Tijjani Reijnders
+- Yan Diomande
+organisations:
+- Arsenal
+- Atletico Madrid
+- BBC Sport
+- Chelsea
+- City
+- Etihad
+- Forest
+- Juventus
+- Khusanov BBC Sport
+- Lens
+- Manchester United
+- Newcastle
+- Premier League
+- RB Leipzig
+- Real Madrid
 ---
 
 **Inside the confines ofManchester City's sophisticated data operation is a fundamental phrase its experts work towards: "What does it take to win?"**

@@ -10,6 +10,16 @@ description: Pay with a smile with Revolut
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/45neMcnxnGPtnwTxYKrikJ-1920-80.png
+locations:
+- London
+- UK
+people:
+- Smile
+organisations:
+- Hippo Coffee
+- Revolut Register
+- Smile
+- TechRadar Pro
 ---
 
 ![Revolut Register POS hardware](https://cdn.mos.cms.futurecdn.net/45neMcnxnGPtnwTxYKrikJ.png)

@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21494981.jpg?type=og-image
+locations:
+- Galloway Lane
+- Galloway Road
+- Pudsey
+people: []
+organisations:
+- Boots
+- T&A
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

@@ -12,6 +12,15 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/12/2287613316..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- UK
+- Warsaw
+people:
+- Clare Lombardelli
+- Ms Lombardelli
+organisations:
+- Bank of England
+- Ms Lombardelli
 ---
 
 A rise in interest rates by the Bank of England is looking “increasingly likely” if energy prices remain high, a deputy governor at the central bank has said.

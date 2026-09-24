@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313699628.jpg
+locations:
+- New York
+people:
+- Gillian Goddard
+- Wei Gao
+organisations:
+- California Institute of Technology
+- NYU Grossman School of Medicine
 ---
 
 ![The patch, which collects sweat to give wearers' insight into their fertility](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313699628.jpg?w=840)

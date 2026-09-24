@@ -13,6 +13,47 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-621050893.jpg@webp
+locations:
+- Berlin
+- Europe
+- France
+- Germany
+- Middle East
+- Munich
+- Netherlands
+- Nuremberg
+- Saxony-Anhalt
+- Strait of Hormuz
+people:
+- Adolf Hitler
+- Alexander Dobrindt
+- Angela Merkel
+- Angela Raubal
+- Bärbel Bas
+- Carsten Schneider
+- Die Linke
+- Fentje Jacobsen
+- Friedrich Merz
+- Geli Raubal
+- Harald Sandner
+- Katherina Reiche
+- Markus Söder
+organisations:
+- 2026Germany
+- AFP
+- AfD
+- CDU
+- CSU
+- Der Spiegel
+- Deutschlandfunk Kultur
+- Deutschlandradio
+- EU
+- European Union
+- Federal Cabinet
+- Labour
+- Left Party
+- UN General Assembly
+- WWF
 ---
 
 **Thursday's top story:Germany sets out plan to abandon fossil fuels by 2045**

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21495996.jpg?type=og-image&xType=0&yType=170
+locations:
+- County Durham
+- Parkgate
+- The Greyhound
+- The Greyhound Darlington
+people: []
+organisations:
+- CSI
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- NEAS
+- North East Ambulance Service
+- THE NORTHERN ECHO
 ---
 
 Residents have described a fleet of emergency service vehicles descending on Darlington after a woman was 'murdered'.

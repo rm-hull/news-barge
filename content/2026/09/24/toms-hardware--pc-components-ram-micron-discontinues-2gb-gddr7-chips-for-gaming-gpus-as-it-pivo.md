@@ -11,6 +11,20 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/tvpkVtGf3AWL5SBW6Lpjz7-1920-80.jpg
+locations: []
+people:
+- Etiido Uko
+- Tom
+organisations:
+- Etiido Uko
+- Google News
+- Micron
+- Nvidia
+- PC
+- SK Hynix
+- Samsung
+- Tom's Hardware
+- UNIKO’s Hardware
 ---
 
 ![Micron GDDR7](https://cdn.mos.cms.futurecdn.net/tvpkVtGf3AWL5SBW6Lpjz7.jpg)

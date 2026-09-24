@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497274.jpg?type=og-image
+locations:
+- Bradford
+- East Bowling
+- Middle East
+- UK
+- Wakefield Road
+people: []
+organisations:
+- Londis Esso
+- T&A
 ---
 
 A driver was shocked to see a Bradford petrol station’s diesel price on his way to work this morning.

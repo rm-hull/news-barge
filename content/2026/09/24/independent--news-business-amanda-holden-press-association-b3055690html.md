@@ -13,6 +13,15 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/12/9e063e45ab181c52269b9429c3265063Y29udGVudHNlYXJjaGFwaSwxNzkwMzMyMDU3-2.75092022.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+people:
+- Amanda Holden
+- Tim Stacey
+organisations:
+- DFS Group
+- Got Talent
+- Sofology
 ---
 
 Furniture retailer DFS has revealed a jump in profits for the past year as it hailed its partnership with Britain’s Got Talent judge Amanda Holden.

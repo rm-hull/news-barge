@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21494867.jpg?type=og-image
+locations:
+- UK
+people: []
+organisations:
+- FSA
+- Food Standards Agency
+- Hazy IPA
+- Heinz
+- Lucky Saint
+- POSN
+- Tesco
+- iStockphoto
 ---
 
 *(Image: Getty Images/iStockphoto)*

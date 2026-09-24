@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2429/live/68349b40-b818-11f1-b19f-05e2dfdadad2.jpg
+locations:
+- Austria
+people:
+- Arvid Lindblad
+- Bulls' Arvid Lindblad
+- Charles Leclerc
+- George Russell
+- Isack Hadjar
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Max Verstappen
+- Mercedes' George Russell
+- Oscar Piastri
+- Pierre Gasly
+organisations:
+- Alpine
+- Ferrari
+- McLaren
+- Mercedes
+- Red Bull
 ---
 
 ![Mercedes' George Russell crests a hill during Azerbaijan Grand Prix second practice. In the background can be seen the walls of a castle and a cycling road sign](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2429/live/68349b40-b818-11f1-b19f-05e2dfdadad2.jpg)

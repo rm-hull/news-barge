@@ -13,6 +13,26 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk5OGRjODIzLWM2MGItNDM3ZS04NDMzLWIxYmE3NTlkNzgwNjo5YzhiOGVhZi04NmMyLTQ3NDYtYmE4Ny1hYWE0Mjc3MmRiNTQ=.png?crop=3:2,smart&trim=&width=577&auto=webp&quality=75
+locations:
+- North York Moors
+- North Yorkshire
+- North Yorkshire RAF
+- RAF Station
+- UK
+- United Kingdom
+- Whitby
+people: []
+organisations:
+- Corps of Royal Electrical and Mechanical Engineers
+- Freedom of a Town
+- Freedom of the Town of Whitby
+- RAF Fylingdales
+- RAF Fylingdales’
+- REME
+- Royal Air Force
+- UK’s Space Command
+- US Governments
+- Whitby Town Council
 ---
 
 # North Yorkshire RAF base given Whitby’s highest honour

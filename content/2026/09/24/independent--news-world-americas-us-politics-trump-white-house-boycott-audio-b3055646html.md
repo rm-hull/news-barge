@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/07/2296819720..?trim=124,0,124,0&width=1200&height=800&crop=1200:800
+locations:
+- South Lawn
+- U.S.
+- White House
+people:
+- Donald Trump
+- Timothy Kelly
+- Voice
+- Xi Jinping
+organisations:
+- CNN
+- Court
+- MS NOW
+- POLITICO
+- POLITICO**,*
+- Real America
+- TV
+- The White House
+- Trump
 ---
 
 President Donald Trump struggled to be heard when he tried speaking to a news outlet not covered by the ongoing media boycott.

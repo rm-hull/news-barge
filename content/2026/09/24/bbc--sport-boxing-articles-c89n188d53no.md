@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4608/live/55100e70-89a9-11f1-b8ee-9b3c26ad07bb.png
+locations:
+- Britain
+- Cardiff
+- London
+- Madison Square Garden
+- New York
+- Principality Stadium
+- UK
+- United States
+- Wales
+- Wembley Stadium
+people:
+- Anthony Joshua
+- Dana White
+- Deontay Wilder
+- Eddie Hearn
+- Frank Warren
+- Fury-AJ
+- Fury-Joshua
+- Joe Calzaghe
+- Mikkel Kessler
+- Turki Alalshikh
+- Tyson Fury
+organisations:
+- BBC Sport
+- Cardiff Council
+- Fury
+- Instagram
+- Netflix
+- The Ring
+- UFC
+- Welsh Rugby Union
+- Zuffa Boxing
 ---
 
 ![Tyson Fury and Anthony Joshua (right), draped in a Union flag](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4608/live/55100e70-89a9-11f1-b8ee-9b3c26ad07bb.png)

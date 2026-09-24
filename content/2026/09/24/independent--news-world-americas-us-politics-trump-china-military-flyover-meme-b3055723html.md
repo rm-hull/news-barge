@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/08/2026-09-24T064540Z_44388856_RC2APNADFB67_RTRMADP_3_USA-CHINA.JPG?width=1200&height=800&crop=1200:800
+locations:
+- Joint Base Andrews
+- Maryland
+- U.S.
+- US
+people:
+- '## Rubio'
+- Donald Trump
+- George W. Bush
+- Jeffrey Epstein
+- Marco Rubio
+- Mogged’ Trump
+- Natalie Harp
+- Xi Jinping
+organisations:
+- Trump
 ---
 
 President Donald Trump displayed a surprising reaction during a military flyover alongside Chinese President Xi Jinping — and it became an instant meme.

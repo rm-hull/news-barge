@@ -11,6 +11,38 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/10/2292889087..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Carbondale
+- Illinois
+- Louisiana
+- Maine Sen
+- Minnesota
+- U.S.
+- Washington
+- White House
+people:
+- Alaska Sen
+- Bill Cassidy
+- Heidi Overton
+- Joe Biden
+- Lisa Murkowski
+- Marty Makary
+- Robert F. Kennedy
+- Susan Collins
+- Tim Walz
+- Trump
+organisations:
+- Alamo Women's Clinic
+- America First Policy Institute
+- FDA
+- Food and Drug Administration
+- Johns Hopkins University
+- Like Makary
+- Oval Office
+- Overton
+- Senate
+- Trump
+- University of New Mexico
 ---
 
 Senate lawmakers are set to question Dr. Heidi Overton on Thursday as she seeks confirmation to head the Food and Drug Administration, with her plans for vaccines, abortion medication, and other newly scrutinized products expected to take center stage.

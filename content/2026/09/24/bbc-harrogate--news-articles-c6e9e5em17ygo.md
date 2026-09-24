@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e45/live/8e7f25b0-9931-11f0-afaa-7fca54876f7d.jpg
+locations:
+- Danby
+- Middlesbrough
+- North Yorkshire
+people:
+- Steve Chatterton
+- Vicky Glass
+organisations:
+- Cleveland Police
 ---
 
 ![Vicky Glass smiling into the camera in a grainy photo. She has red hair tied up in a white scrunchie. She has small hooped earrings and is wearing a long sleeved black top.](https://ichef.bbci.co.uk/ace/standard/488/cpsprodpb/0e45/live/8e7f25b0-9931-11f0-afaa-7fca54876f7d.jpg)

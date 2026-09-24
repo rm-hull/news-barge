@@ -13,6 +13,44 @@ categories:
 - Technology & Software
 - Automotive
 image: https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f26a7381bbc6cf8a79f020124a3427b
+locations:
+- Brussels
+- China
+- Europe
+- France
+- Germany
+- Ireland
+- Slovenia
+- South Korea
+- Sweden
+- UK
+- US
+- Washington
+people:
+- Donald Trump
+- Maroš Šefčovič
+- Ursula von der Leyen
+- Wang Wentao
+- Xi Jinping
+organisations:
+- ACEA
+- Asia-Pacific Economic Cooperation
+- BYD
+- Chery
+- EU
+- Elon Musk
+- European Automobile Manufacturers’ Association
+- European Commission
+- Eurostat
+- Geely
+- German Association of the Automotive Industry
+- Leapmotor
+- Polestar
+- SAIC
+- Tesla
+- VDA
+- Volkswagen
+- Volvo
 ---
 
 Sales of Chinese hybrid cars have rocketed in the EU in the past four and a half years, data shows, underlining growing concerns in Brussels over the future of the European car industry.

@@ -14,6 +14,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21493798.jpg?type=og-image&xType=0&yType=61
+locations:
+- Skipton
+people:
+- Cllr Madeley
+- Kimberly Howard
+- Mark Howard
+- Mohammed Saghir
+- Peter Madeley
+organisations:
+- Craven College
+- Government
+- InterPlaces
+- IntoPlaces
+- Lesley Tate
+- National Association of British Market Authorities
+- Skipton Building Society
+- Skipton Market
+- York and North Yorkshire Combined Authority
 ---
 
 A FIRST step in the regeneration of Skipton's struggling market is being taken by town councillors.

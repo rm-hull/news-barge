@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/20772074.jpg?type=og-image
+locations:
+- BRADFORD ROAD
+- Bradford
+- CANTERBURY
+- HARROGATE ROAD
+- INGLEBY ROAD
+- LITTLE HORTON
+- MAYO AVENUE
+- Morrisons
+- RUSHTON AVENUE
+- WATERSIDE ROAD
+people:
+- Luke Bosdet
+organisations:
+- AA
+- Bradford
+- Newsquest
+- Sainsbury's
+- TESCO STORES LTD
+- Tesco
+- Treasury
 ---
 
 Diesel prices are nearing record highs, renewing calls for a further cut in fuel duty to relieve pressure on Bradford drivers.

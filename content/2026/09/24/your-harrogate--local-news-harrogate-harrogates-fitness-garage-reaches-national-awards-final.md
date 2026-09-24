@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://mmo.aiircdn.com/409/6ab4c4202026cc15c07.jpg
+locations:
+- Fitness Garage
+- Harrogate
+- Leicester
+- Yorkshire
+people:
+- Andy Gardner
+- Gail Emms
+- Steve Henwood
+organisations:
+- 117 East Parade
+- Fitness Garage
+- Harrogate
+- The Athena
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab4c4202026cc15c07.jpg)

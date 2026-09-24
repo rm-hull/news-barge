@@ -12,6 +12,24 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/58/13/1200x675_cmsv2_d8883c8a-e5a9-529d-a359-4e3b321f4253-9925813.jpg
+locations:
+- Bulgaria
+- Eastern Europe
+- Maritsa East 3
+- River Danube
+- Romania
+people:
+- '''** Nikola Gazdov'
+- Lennart Herrmann
+- Stavros Papathanassiou
+- Vassil Shtonov
+organisations:
+- AFP
+- Association for Production, Storage and Trading of Electricity
+- ContourGlobal
+- EU
+- FfE
+- National Technical University of Athens
 ---
 
 **Euronews**

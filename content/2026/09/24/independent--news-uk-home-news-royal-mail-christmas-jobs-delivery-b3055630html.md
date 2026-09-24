@@ -11,6 +11,16 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/24/10/629920434..?trim=0,83,0,83&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Jamie Stephenson
+organisations:
+- Ofcom
+- Royal Mail
 ---
 
 Royal Mail is taking on roughly 22,000 temporary staff to prepare for the peak Christmas period.

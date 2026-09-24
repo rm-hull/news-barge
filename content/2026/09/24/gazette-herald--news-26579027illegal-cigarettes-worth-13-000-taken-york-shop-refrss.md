@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21497608.jpg?type=og-image
+locations:
+- 4th Avenue Store
+- Fourth Avenue
+- North Yorkshire
+- Northallerton
+- York
+people:
+- Forber
+organisations:
+- 4th Avenue Store
+- North Yorkshire Police
 ---
 
 Thousands of illegal cigarettes have been confiscated after a shop in a York suburb was forced to close by North Yorkshire Police.

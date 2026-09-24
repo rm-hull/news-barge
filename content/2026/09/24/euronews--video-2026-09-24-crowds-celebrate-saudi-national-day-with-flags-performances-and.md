@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Film & TV
 image: https://images.euronews.com/articles/stories/09/92/59/47/1200x675_cmsv2_048c0e5f-5fd9-56fa-9db8-02c697fb9f44-9925947.jpg
+locations:
+- Ad Diriyah
+- Riyadh
+- Saudi Arabia
+- Yemen
+people: []
+organisations: []
 ---
 
 Crowds gather in Riyadh and Ad Diriyah to mark Saudi National Day, waving green flags, joining street festivities and watching a Saudi military parade.

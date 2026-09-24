@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad3a/live/936de650-b7db-11f1-9329-25fd53239d64.jpg
+locations:
+- Aberdeen
+- Ayrshire
+- Birmingham
+- Dundee
+- Edinburgh
+- England
+- Falkirk
+- Glasgow
+- Hanoi
+- Ireland
+- Lanarkshire
+- Midlothian
+- Scottish Borders
+- South Clerk Street
+- South Clerk Street Police Scotland
+- UK
+- Vietnam
+- Wales
+people:
+- Stevie Bertram
+organisations:
+- Home Office Immigration Enforcement and His Majesty
+- National Crime Agency
+- Police Scotland
+- Revenue and Customs
 ---
 
 ![A group of four police officers in all-black uniforms and with helmets and masks are standing in a warehouse section of a red brick building.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/ad3a/live/936de650-b7db-11f1-9329-25fd53239d64.jpg)

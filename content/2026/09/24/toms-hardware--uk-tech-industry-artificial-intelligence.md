@@ -12,6 +12,21 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
+locations:
+- China
+- Tumbler Ridge
+- U.S.
+people:
+- Tom
+- Trump
+organisations:
+- AI Force
+- Alibaba Group
+- B.C.
+- Get Tom's Hardware
+- Huawei
+- OpenAI
+- Robocurve
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png)

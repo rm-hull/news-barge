@@ -14,6 +14,11 @@ categories:
 - Pets & Animals
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/21496319.jpg?type=og-image
+locations: []
+people:
+- Johanna Buitelaar-Warden
+organisations:
+- Lords
 ---
 
 *(Image: Getty Images)*

@@ -12,6 +12,71 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/xb8AeAcYpvTMrfjaHq5pJ7-1024-80.jpg
+locations:
+- Australia
+- Canada
+- Colombia
+- Europe
+- Golf Channel
+- Illinois
+- Japan
+- Medinah
+- New Zealand
+- South Africa
+- South Korea
+- UK
+- US
+- USA
+people:
+- Adam Scott
+- Brandt Snedeker
+- Cameron Young
+- Chris Gotterup
+- Christiaan Bezuidenhout
+- Collin Morikawa
+- Corey Conners
+- Geoff Ogilvy
+- Hideki Matsuyama
+- Im Sung-jae
+- Jackson Koivun
+- Jackson Koivun.
+- Jacob Bridgeman
+- Justin Thomas
+- Kim Si-woo
+- Min Woo Lee
+- Nick Taylor
+- Nico Echavarria
+- Patrick Cantlay
+- Russell Hanley
+- Russell Henley
+- Ryan Fox
+- Ryo Hisatsune
+- Sam Burns
+- Scottie Scheffler
+- Tom Kim
+- Wyndham Clark
+- Xander Schauffele
+organisations:
+- Fox Sports
+- Fubo
+- Fubo**
+- Future Publishing
+- Golf Channel
+- Kayo Sports
+- Kayo Sports**
+- NBC Sports
+- NOW Sports
+- NordVPN**
+- Peacock
+- Sky Sport
+- Sky Sport NZ
+- Sky Sports
+- Sky Sports Golf
+- TSN
+- Team International
+- Team USA
+- TechRadar
+- YouTube TV
 ---
 
 ![Scottie Scheffler, wearing green, plays a shot during a golf tournament](https://cdn.mos.cms.futurecdn.net/xb8AeAcYpvTMrfjaHq5pJ7.jpg)

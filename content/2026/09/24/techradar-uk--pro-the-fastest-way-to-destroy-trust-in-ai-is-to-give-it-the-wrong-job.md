@@ -9,6 +9,19 @@ description: Where AI excels and where humans remain necessary
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
+locations:
+- AI
+people:
+- AI
+organisations:
+- '## Building trust Enterprises'
+- AI
+- Ford
+- Future plc
+- Gartner
+- OutSystems
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot&#039;s hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg)

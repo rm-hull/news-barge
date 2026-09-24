@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/6a30094c3dfd7358fff.jpg
+locations:
+- Afghanistan
+- North Yorkshire
+- UK
+people: []
+organisations:
+- Afghan Resettlement Programme
+- Corporate and Partnerships Overview and Scrutiny Committee
+- Home Office
+- Ministry of Defence
+- MoD
+- North Yorkshire Council
+- Refugee Council
+- UK Resettlement Scheme
+- UKRS
 ---
 
 ![](https://mmo.aiircdn.com/409/6a30094c3dfd7358fff.jpg)

@@ -12,6 +12,20 @@ categories:
 - Careers & Productivity
 - Technology & Software
 image: https://static.independent.co.uk/2026/05/17/15/01KRASWG20687SCB979YY7EJR5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Manchester
+- NHS England
+people:
+- Frankie Swords
+- Lillie Parker
+organisations:
+- Instagram
+- NHS England
+- TikTok
+- UK Health Security Agency
+- UKHSA
+- WHO
+- World Health Organisation
 ---
 
 Healthcare leaders should encourage more clinicians to produce social media content to help communicate public health advice and tackle false information, according to a social media medical influencer.

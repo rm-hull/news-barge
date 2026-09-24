@@ -13,6 +13,26 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/24/10/24093042-75094faf-e58d-4e74-af26-3a9c82b58bad.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Aberdeen
+- North East
+- PA
+- Scotland
+- UK
+people:
+- Charles
+- Dan McGrail
+- Douglas Lumsden
+- Juergen Maier
+- King
+- Lesley Martin
+organisations:
+- Aberdeen South
+- BBC Radio Scotland
+- British Energy
+- GB Energy
+- Labour
+- Tory
 ---
 
 The boss of Labour’s flagship energy firm said it is “recruiting at pace”, adding that Great British Energy is taking on “about two people a week”.

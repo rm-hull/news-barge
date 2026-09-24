@@ -13,6 +13,29 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/07/1513217994..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Abaza
+- Altai Republic
+- Artybash
+- Khakassia
+- Krasnoyarsk Krai
+- Lena River
+- Novosibirsk
+- Podtyosovo
+- Russia
+- Siberia
+people:
+- Dmitry Buchenik
+- Dmitry Taranenko
+- Tatyana Pevneva
+organisations:
+- Institute of Animal Systematics and Ecology of the Siberian Branch
+- Investigative Committee
+- Moscow Times
+- Russian Academy of Sciences
+- Shilo Novosibirsk Zoo
+- Tass
+- interior ministry
 ---
 
 At least six people have been killed in bear attacks in Russia’s Siberia over the past month, prompting prosecutors to investigate the reasons behind the attacks.

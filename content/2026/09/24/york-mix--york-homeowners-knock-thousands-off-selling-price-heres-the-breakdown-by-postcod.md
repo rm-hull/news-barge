@@ -13,6 +13,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/03/for-sale-sold-sign-york-houses-housing-property.webp
+locations:
+- Bridlington
+- Dunnington
+- Fulford
+- Helmsley
+- Scarborough
+- UK
+- York
+people: []
+organisations:
+- HM Land Registry
+- Postcode
+- Property Solvers
+- Ruban Selvanayagam
+- YO43
 ---
 
 People selling their homes in York are knocking thousands off the price, new research reveals.

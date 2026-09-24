@@ -14,6 +14,39 @@ categories:
 - Business & Entrepreneurship
 - Law & Justice
 image: https://static.independent.co.uk/2026/09/24/11/AI_Hacks_Legal_Accountability_38983.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Los Angeles
+- Missouri
+- Sen
+- Silicon Valley
+- U.S.
+- Washington
+- White House
+people:
+- Dario Amodei
+- Donald Trump
+- Jack Nelson
+- Josh Hawley
+- Kash Patel
+- Kiran Raj
+- Michael Zweiback
+- Scott Bessent
+- Sid Mody
+- Todd Blanche
+organisations:
+- AI
+- Anthropic
+- DOJ
+- Department of Justice
+- FBI
+- Google
+- Ivanti
+- Justice Department
+- Meta
+- Microsoft
+- OpenAI
+- Treasury
+- Wild West
 ---
 
 The Justice Department has a long history of investigating and prosecuting hackers who break into a private company's network.

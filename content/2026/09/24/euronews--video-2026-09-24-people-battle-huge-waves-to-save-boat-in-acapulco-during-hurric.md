@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/60/86/1200x675_cmsv2_379699ec-725f-5292-ba90-a828c69347b6-9926086.jpg
+locations:
+- Acapulco
+- Mexico
+- Pacific
+people: []
+organisations: []
 ---
 
 People in Acapulco work together to pull a boat out of the water as a heavy swell hits Mexico's Pacific coast.

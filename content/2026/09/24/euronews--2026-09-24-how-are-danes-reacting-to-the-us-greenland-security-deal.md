@@ -14,6 +14,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/59/49/1200x675_cmsv2_7f33c55b-cf11-55ae-8bb9-13bc5c460dc1-9925949.jpg
+locations:
+- Copenhagen
+- Denmark
+- Greenland
+- US
+people:
+- Danes
+- Donald Trump
+- Mads Johnson
+- Maj Mortensen
+organisations:
+- UN General Assembly
 ---
 
 People in Copenhagen have given mixed reactions to a new security deal signed by US President Donald Trump and the leaders of Denmark and Greenland on the sidelines of the UN General Assembly.

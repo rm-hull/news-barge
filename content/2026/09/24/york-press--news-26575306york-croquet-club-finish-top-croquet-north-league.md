@@ -11,6 +11,20 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21492105.jpg?type=og-image
+locations:
+- York
+people:
+- Chris Stuttard
+- Dennis Scarr
+- Helen Griffiths
+- Julian Gibson
+- Malcolm Tingle
+- Tom Oulton
+organisations:
+- )* YORK Croquet Club
+- Croquet North League
+- Middlesbrough
+- York
 ---
 
 *(Image: Supplied)*

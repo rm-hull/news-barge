@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/12/2180391163..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Washington, D.C.
+- White House
+people:
+- Donald Trump
+- Jen Psaki
+- Joe Biden
+- Obama
+- Peter Loge
+organisations:
+- Breitbart, Newsmax
+- CNN
+- Fox News
+- House of Representatives
+- MS NOW
+- One America News Network
+- Politico
+- Secret Service
+- Senate
+- Supreme Court
+- The George Washington University
+- TikTok
+- Trump
+- White House Correspondents’ Association
+- White House Press Office
 ---
 
 After President Donald Trump’s recent decision to ban journalists from CNN, MS NOW, and *Politico*, online claims have emerged alleging that then-President Joe Biden stripped hundreds of reporters of White House credentials in 2023. However, these internet posts distort the real impact that a revised White House Press Office policy had on media members maintaining long-term passes for the complex.

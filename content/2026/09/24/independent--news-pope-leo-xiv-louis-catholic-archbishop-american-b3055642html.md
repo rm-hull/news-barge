@@ -13,6 +13,46 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/02/12/Fulton_Sheen_Beatification_76814.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- America's Center
+- Chicago
+- Diocese of Peoria
+- El Paso
+- Illinois
+- New York
+- Peoria’s Cathedral
+- St. Louis
+- St. Mary of the Immaculate Conception
+- St. Patrick’s Cathedral
+- U.S.
+- Vatican
+- Washington
+people:
+- Francis
+- Frank Sinatra
+- Fulton Sheen
+- God
+- Gospel
+- James Fulton Engstrom
+- John
+- Leo XIV
+- Luke
+- Mark
+- Matthew
+- Milton Berle
+organisations:
+- AP
+- American TV
+- Diocese of Rochester
+- Dome
+- Fulton J. Sheen Foundation
+- Lilly Endowment Inc
+- Second Vatican Council
+- The Catholic University of America
+- The Conversation US
+- The Pontifical Mission Societies
+- \_\_\_ Associated Press
 ---
 
 Decades after he was a fixture on American TV screens, the late Archbishop Fulton Sheen is back in a familiar place: the media spotlight.

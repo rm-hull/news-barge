@@ -13,6 +13,21 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/12/17/MixCollage-24-Sep-2026-01-23-PM-6934.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Back Camberley Street
+- Knottingley
+- Leeds Crown Court
+- Pear Tree Grove
+people:
+- Abdullah Ebrahim
+- Colin Agyei
+- Salma Begum
+- Steve Suggitt
+organisations:
+- Leeds Crown Court
+- Major Collision Enquiry Team
+- Nissan Note
+- West Yorkshire Police
 ---
 
 # Driver jailed for six years after killing five-year-old boy in Leeds crash

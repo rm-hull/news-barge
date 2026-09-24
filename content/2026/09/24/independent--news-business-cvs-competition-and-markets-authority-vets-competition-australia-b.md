@@ -13,6 +13,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2023/09/07/00/06134319-81c05623-2b97-46a5-b070-9003cd6d34d0.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- UK
+people:
+- Paul Higgs
+- Richard Fairman
+organisations:
+- CMA
+- CVA
+- CVS Vets
+- Competition and Markets Authority
+- Press Association
 ---
 
 Bosses of vet group CVS said it has “reflected” on how prices could be made clearer to pet owners following a major investigation into the industry, as it spent £5 million on rebranding its practices to meet new rules.

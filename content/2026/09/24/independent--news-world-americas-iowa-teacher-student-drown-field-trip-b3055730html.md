@@ -13,6 +13,26 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/24/12/09/Untitled-design-(1).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Borlaug
+- Cedar Rapids
+- Coralville Reservoir
+- Iowa City
+- Lake Macbride
+- Lake Macbride State Park
+- Lake Macbride spillway
+- Macbride Nature Recreation Area
+people:
+- Ahmed Osman
+- Hannah Jorgensen
+organisations:
+- Borlaug Elementary
+- Borlaug Elementary School
+- Iowa City Community School District
+- Johnson County Sheriff's Office
+- Radio Iowa
+- School of the Wild
+- University of Iowa’s College of Education
 ---
 
 A fifth-grade teacher and a 10-year-old student are dead after drowning during a field trip at Lake Macbride in Iowa.

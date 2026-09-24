@@ -10,6 +10,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
+locations:
+- AI
+people: []
+organisations:
+- AI Deloitte
+- Deutsche Bank
+- Future plc
+- Lloyds Banking Group
+- Mastercard
+- McKinsey
+- Molit.ai and Social Discovery Ventures
+- TechRadar Pro
+- TechRadarPro
+- Visa Intelligent Commerce
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg)

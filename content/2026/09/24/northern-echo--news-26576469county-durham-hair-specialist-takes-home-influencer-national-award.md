@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21493761.jpg?type=og-image&xType=0&yType=0
+locations:
+- County Durham
+- Drumsheds
+- London
+- Murton
+- North East
+- UK
+people:
+- Murton
+- Novo Cabelo
+- Rob Wood
+organisations:
+- HABIA
+- Instagram
+- Little Lady Locks
+- Novo Cabelo
+- Rob’s
+- TikTok
 ---
 
 *(Image: Provided)*

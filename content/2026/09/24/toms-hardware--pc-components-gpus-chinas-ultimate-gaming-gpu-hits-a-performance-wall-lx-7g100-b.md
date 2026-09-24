@@ -13,6 +13,22 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/QfeRNc2cvLwXVzQpTKHfzb-1920-80.jpg
+locations:
+- China
+people:
+- Tom
+organisations:
+- AMD
+- Get Tom's Hardware
+- Google News
+- Intel
+- Lisuan Tech
+- Nvidia
+- PC Games Hardware
+- PCGH
+- TSMC
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![Lisuan Tech LX 7G100](https://cdn.mos.cms.futurecdn.net/QfeRNc2cvLwXVzQpTKHfzb.jpg)

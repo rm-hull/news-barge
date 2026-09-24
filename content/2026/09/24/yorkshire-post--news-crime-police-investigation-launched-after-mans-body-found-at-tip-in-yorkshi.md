@@ -13,6 +13,17 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQyNzM1OWViLTU3MjEtNDhlMC04YmUwLTgwYzAxNjQyYTM3NzpmNjYyZDJiMS0zOGRlLTQ5NzctYTkxNi1mMzUzOTdhY2ZmNTg=.jpg?crop=3:2,smart&trim=&width=1032&auto=webp&quality=75
+locations:
+- Burnby
+- East Yorkshire
+- Pocklington Lane
+- 'Yorkshire ##'
+people: []
+organisations:
+- Crimestoppers
+- East Riding Council
+- Humberside Police
+- Pocklington Household Waste Recycling
 ---
 
 # Police investigation launched after man's body found at tip in Yorkshire

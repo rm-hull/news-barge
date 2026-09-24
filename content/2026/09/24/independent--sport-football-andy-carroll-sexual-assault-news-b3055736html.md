@@ -12,6 +12,18 @@ categories:
 - UK
 - Music
 image: https://static.independent.co.uk/2026/09/24/13/2267690887..?trim=563,20,171,1023&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Andy Carroll
+- Billi Mucklow
+- Lou Teasdale
+- Scary
+organisations:
+- Dagenham
+- Liverpool
+- Newcastle United
+- Redbridge
+- Sex Offender Register
 ---
 
 Andy Carroll has revealed he was sexually assaulted by a man who was later jailed.

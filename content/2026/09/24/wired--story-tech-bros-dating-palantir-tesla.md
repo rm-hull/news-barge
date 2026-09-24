@@ -11,6 +11,46 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aac39f4a27fc713e217385b/191:100/w_1280,c_limit/tech-bro-dating.jpg
+locations:
+- AI
+- Bay Area
+- Ethiopia
+- Grammarly
+- Israel
+- Manhattan
+- Oakland
+- Palantir
+- San Francisco
+- Stanford
+- Tesla
+- Tigray
+- US
+people:
+- Alex Karp
+- Amy Laurent
+- Donald Trump
+- Elon Musk
+- Gary
+- God
+- Guinness
+- Helen
+- James
+- Jeff Bezos
+- Jessica Engle
+- Mira
+- Palantir
+- Peter Thiel
+- Raya
+- Sasha
+organisations:
+- AI
+- Amazon
+- Apple Watch
+- Big Tech
+- IRL
+- Meta
+- Palantir
+- Tesla
 ---
 
 Engaged in a flirtatious conversation at a bar in Manhattan, 23-year-old Gary stood with a Guinness in hand as he explained to a woman why he took an engineering job at Palantir, the data analytics company cofounded by Alex Karp and Peter Thiel. Raking in a $250,000 salary would allow him to help pay off his parents’ mounting medical bills, he explained.

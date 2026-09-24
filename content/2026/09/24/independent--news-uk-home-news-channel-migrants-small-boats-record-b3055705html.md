@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/16/2295846512..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dover
+- Folkestone
+- France
+- Kent
+- Samphire Hoe
+- UK
+people:
+- Lucy Powell
+- Shabana Mahmood
+organisations:
+- Border Force
+- English Channel
+- Home Office
+- The Independent
 ---
 
 A total of 781 migrants arrived in the UK on Wednesday after crossing the English Channel, marking the highest single-day figure recorded so far this year.

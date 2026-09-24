@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/e19d6f3d343c090c8b0397a3b1bcfd8cc0bd85fc/0_622_4047_3238/master/4047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7d468ade46e5fec3c824b30274277d0
+locations:
+- Austria
+- Bosnia
+- Charles de Gaulle
+- Croatia
+- Disneyland Paris
+- France
+- Italy
+- Paris Métro
+- Pula
+- Rome
+people:
+- Al Capone
+- Alessandra
+- Alice Guillet
+- Charles Dickens
+- Christian Flaesch
+- Emperatriz Aguirre
+- Fagin
+- Fehmi Hamidovic
+- Gony
+- Goran
+- Hamidovic Jr
+- Lejla
+- Roberto Hamidovic
+- Roberto Hamidovic Jr
+- Roberto Jr
+organisations:
+- Hamidovic
+- Le Monde
 ---
 
 A clan leader who sent gangs of child pickpockets to target tourists in the Paris Métro and popular attractions such as Disneyland Paris has been jailed for human trafficking.

@@ -12,6 +12,17 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/09/cd93fb25498e6d44aa1b24bbaccf4401Y29udGVudHNlYXJjaGFwaSwxNzkwMzIzNzc5-2.25178908.jpg?width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Jessops
+- John Roberts
+- Peter Jones
+organisations:
+- AO World
+- Dragons’ Den
+- Jessops
+- Music Magpie
 ---
 
 Electricals chain AO World has snapped up camera retailer Jessops from Dragons’ Den star Peter Jones.

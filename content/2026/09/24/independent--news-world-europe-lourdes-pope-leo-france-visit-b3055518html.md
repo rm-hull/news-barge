@@ -13,6 +13,44 @@ categories:
 - Travel
 - History
 image: https://static.independent.co.uk/2026/02/16/19/33/iStock-1943976731.jpeg?trim=0,0,10,0&width=1200&height=800&crop=1200:800
+locations:
+- Basilica of Our Lady of Aparecida
+- Basilica of Our Lady of Guadalupe
+- Basilica of Our Lady of the Rosary
+- Brazil
+- Central Europe
+- Central and Eastern Europe
+- Eastern Europe
+- France
+- Lourdes Leo
+- Mass
+- Massabielle
+- Mexico City
+- Nevers
+- Notre-Dame-du-Rosaire
+- Paris
+- Poland
+- Saint Pius X. Pilgrims
+- Sanctuary of Our Lady of Lourdes
+- Tarbes
+- Vatican
+people:
+- '### Leo'
+- Bernadette Soubirous
+- Jean-Marc Micas
+- Leo XIV
+- Marko Ivan Rupnik
+- Our Lady of Lourdes
+- Our Lady of the Rosary
+- Pius XI
+organisations:
+- Accueil Notre-Dame
+- Bishops’ Conference of France
+- Catholic Church
+- Sanctuary of Our Lady of Lourdes
+- Sisters of Charity
+- Stations of the Cross
+- Virgin Mary
 ---
 
 Pope Leo XIV will visit the Sanctuary of Our Lady of Lourdes this weekend as part of his four-day apostolic journey to France.

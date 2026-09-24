@@ -12,6 +12,24 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/24/11/32/image-(1).png?trim=26,0,27,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate District Hospital
+- Knaresborough
+- Ripon Cathedral
+- Saint Michael's Hospice
+- Sir Robert Ogden Macmillan Centre
+people:
+- Danny
+- Fiona Collinson
+- Lindsay
+- Lucy
+- Miles
+- Phil
+- Sarah Hargreaves
+- Yvonne
+organisations:
+- Madison Hargreaves.
+- Robert Ogden Unit
 ---
 
 # Family raises more than £13,000 in memory of much-loved hairdresser

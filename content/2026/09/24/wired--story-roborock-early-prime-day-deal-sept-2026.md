@@ -12,6 +12,14 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab44ca4c5e291a8de9a910c/191:100/w_1280,c_limit/Prime-Big-Deal-Days-Haven%E2%80%99t-Started,-but-These-Robot-Vacuums-Are-Already-on-Sale.jpg
+locations: []
+people:
+- Roborock
+organisations:
+- '## Roborock'
+- 2 Pro
+- On-Sale Robot Vacs Roborock
+- Qrevo
 ---
 
 With the changing weather brings many things: colder mornings; changing leaves; and, most important (particularly in this economy), a wave of sale events as the holiday season creeps around the corner.

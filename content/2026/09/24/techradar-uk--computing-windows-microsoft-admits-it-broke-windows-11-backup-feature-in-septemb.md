@@ -12,6 +12,14 @@ description: Microsoft has cured a bug that broke a backup feature, but it needs
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg
+locations: []
+people: []
+organisations:
+- File History
+- Microsoft
+- Reddit
+- Redditor
+- Windows Latest
 ---
 
 ![A man sitting at a table and looking at a laptop with a puzzled expression, holding his head up with his hand](https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX.jpg)

@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21494796.jpg?type=og-image&xType=0&yType=340
+locations:
+- Bath
+- Croatia
+- Hungary
+- India
+- UK
+- US
+people:
+- Evans
+- Jeremy Clarkson
+- Richard Cole
+- Stephen Kenny
+organisations:
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- Brewers Fayre
+- British Heart Foundation
+- Claire's
+- Cookhouse
+- Debenhams
+- EcoJet Airlines
+- European Cargo
+- Harpers
+- InPost
+- Joules
+- KBL Advisory Limited
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Nasty Gal
+- Newsquest
+- North East Post Office
+- Novel Wines
+- Pub TG Jones
+- Quiz
+- Superdrug
+- The Gazette
+- Wayfairer Travel Limited
+- Whitbread
+- Wynsors World of Shoes
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

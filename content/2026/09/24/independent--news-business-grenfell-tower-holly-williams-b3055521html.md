@@ -13,6 +13,14 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/08/1a60e7ae308df7422b3476324d7361fcY29udGVudHNlYXJjaGFwaSwxNzkwMzE5OTk4-2.85128362.jpg?width=1200&height=800&crop=1200:800
+locations:
+- South East
+people:
+- Adam Daniels
+- Vistry
+organisations:
+- Grenfell Tower
+- Vistry
 ---
 
 Housebuilder Vistry has warned over more job cuts as it looks to save another £50 million after slumping to a half-year loss of over £660 million and warning over full-year profits.

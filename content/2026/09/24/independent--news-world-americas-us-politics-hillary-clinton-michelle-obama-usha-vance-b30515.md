@@ -13,6 +13,54 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/16/21/06/FotoJet-(44).jpeg?trim=0,0,399,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Chicago
+- Connecticut
+- New Haven
+- United States
+- Wellesley
+- Yale
+people:
+- Barack Obama
+- Bill Clinton
+- Bush
+- Charles Ogletree
+- Dan Quayle
+- Donald Trump
+- George H.W
+- Hillary Clinton
+- Hillary Rodham
+- J.D. Vance
+- JD Vance
+- Joe
+- Kamala Harris
+- Kathleen Dolan
+- Marilyn Quayle
+- Marilyn Tucker
+- Michele Swers
+- Michelle Obama
+- Michelle Robinson
+- Richard Blumenthal
+- Robert Reich
+- Usha Vance
+organisations:
+- Congress
+- Georgetown University
+- Harvard Law School
+- Hoosier State
+- Indiana University School of Law
+- Labor
+- Pew Research Center
+- Senate
+- Sidley & Austin
+- TMZ
+- The Independent
+- The Washington Post
+- University of Indiana
+- University of Wisconsin-Milwaukee
+- Vanity Fair
+- Yale Law School
 ---
 
 Long before their husbands were elected president or vice president, several of America’s future first and second ladies had already eclipsed them in the law school classroom.

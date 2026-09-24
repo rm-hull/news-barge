@@ -13,6 +13,29 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/10/27/GettyImages-2161673849.jpeg?trim=0,33,0,32&crop=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Europe
+- Hill Dickinson
+- Hill Dickinson Stadium
+- Liverpool
+- PA
+- Wales
+people:
+- Andy Burnham
+- Nigel French
+- Steve Rotheram
+- Tom Greatrex
+organisations:
+- EFL
+- Everton
+- FSA
+- Football Supporters’ Association
+- Oasis
+- Taylor Report
+- UK Football Policing Unit
+- WSL
+- WSL2
 ---
 
 # Burnham wants to scrap alcohol ban in football stands

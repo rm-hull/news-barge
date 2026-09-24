@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/VmtvmCpUs9F9KVFXEWVHFS-1920-80.jpg
+locations:
+- Times Square
+people:
+- Boy
+- Brent Gibson
+organisations:
+- BlizzCon
+- Diablo
+- TechRadar Gaming
 ---
 
 ![Diablo 4 painting pastiche of the old masters in the style of Rembrandt](https://cdn.mos.cms.futurecdn.net/VmtvmCpUs9F9KVFXEWVHFS.jpg)

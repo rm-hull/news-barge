@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/1778a79c2309331804e16976c5e03316f942942a/478_0_2911_2329/master/2911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af880ab8826d6f9162e7c3bf06c37c53
+locations:
+- Sydney
+- US
+people:
+- Baker Boy
+- Ben
+- Budjerah
+- Ed Sheeran
+- Emma
+- G Flip
+- Kaiit
+- Macklemore
+- Miss Kaninna
+- Peter V’landys
+- Regan Lethbridge
+- Ruel
+- Shannon Noll
+- Tones
+- Toni Watson
+organisations:
+- ABC
+- Instagram
+- Kent Small
+- Lemon Tree Music
+- Macklemore
+- NRL
+- Nova Network
+- Sony
 ---
 
 **Emma, the NRL and Tones and I seem to be at war – but I can’t make sense of what’s going on.**

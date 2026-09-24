@@ -14,6 +14,20 @@ categories:
 - History
 - True Crime
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20150506__DV2018903__v3__HighRes__GermanyWwiiHistory.jpg@webp
+locations:
+- Berlin
+- Dortmund
+- Germany
+- Hemer
+- Sachsenhausen
+- Senne
+- Sobibor
+people:
+- John Demjanjuk
+- Josef Schuetz
+organisations:
+- AFP
+- Bild
 ---
 
 "The 105-year-old suspect is thought to have been a guard at the prisoner-of-war camp Stalag 326 VI K" in the Senne region of western Germany, prosecutors told AFP in a statement.

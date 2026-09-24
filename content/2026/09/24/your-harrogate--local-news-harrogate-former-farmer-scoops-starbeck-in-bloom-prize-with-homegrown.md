@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6ab4f406db3e97156ce.jpg
+locations:
+- Bloom
+- Starbeck
+- Victoria
+people:
+- Gordon Pepper
+- Gordon!
+organisations:
+- Harrogate Neighbours
+- Ron Robson Memorial Cup’
+- The Cuttings
+- The Ron Robson
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab4f406db3e97156ce.jpg)

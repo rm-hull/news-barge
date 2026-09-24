@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/57/61/1200x675_cmsv2_02e204c9-2a80-513f-ac67-58288ea7e325-9925761.jpg
+locations:
+- Lazaro Cardenas
+- Mexico
+- Pacific
+- Playa Azul
+people: []
+organisations: []
 ---
 
 Residents of Lazaro Cardenas, on Mexico's Pacific coast, fill sandbags and stack them along the seafront as waves threaten businesses. Military personnel are also seen on the beach, while the swell reaches the shoreline and nearby properties.

@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21479825.jpg?type=og-image
+locations:
+- County Durham
+- Darlington
+- Middlesbrough
+- Middleton Hall
+- Middleton Hall Retirement Village
+- Middleton St George
+- Stuart Boulton
+people:
+- Adam Wardale
+- Clare Robson
+- Dianne Howe
+- Leo Orjuela
+- Morris
+- Paul Skerritt
+organisations:
+- Aycliffe & District Bus Preservation Society
+- Grand Luncheon
+- Middleton Hall
+- Middleton Hall Grand Luncheon
+- Middleton Hall Hospitality
+- Middleton Hall Retirement Village
+- Middleton Hall Village Show
+- Teesside Yesteryear Motor Club
+- Village Show
+- Zoe’s Place Baby Hospice
 ---
 
 Brought to you by

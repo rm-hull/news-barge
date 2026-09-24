@@ -14,6 +14,32 @@ categories:
 - Travel
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21067494.jpg?type=og-image&xType=0&yType=0
+locations:
+- '![]()Old Town'
+- Barcelona
+- Berlin
+- Copenhagen
+- Cyprus
+- Fuerteventura
+- Hurghada
+- Krakow
+- Larnaca
+- Marrakech
+- Newcastle Airport
+- North East
+- Reykjavik
+- Rovaniemi
+- Salt Lake
+- UK
+people:
+- Kevin Doyle
+- Leon McQuaid
+- Read More
+organisations:
+- EasyJet
+- Newcastle Airport
+- PA
+- easyJet
 ---
 
 *(Image: PA)*

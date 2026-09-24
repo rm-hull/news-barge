@@ -14,6 +14,61 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21495389.jpg?type=og-image
+locations:
+- '### Nearest'
+- '### Parking'
+- Alicante
+- Amsterdam
+- Antalya
+- Bishop Auckland
+- Corfu
+- Darlington
+- East Coast Main Line
+- Edinburgh
+- Faro
+- Hartlepool
+- Jersey
+- Leeds
+- London
+- M
+- Malaga
+- Middlesbrough
+- Newcastle
+- North East
+- Palma de Mallorca
+- Redcar
+- Saltburn
+- Stockton
+- Swedish Lapland
+- Tees Valley
+- Teesside Airport
+- Teesside Airport Parking
+- UK
+- York
+people:
+- Father Christmas
+- Santa
+- Sarah Caldecott
+organisations:
+- '### Lapland'
+- A1
+- Aurigny
+- Best UK Airport for Leisure Travel
+- CAA
+- KLM
+- Landside Cafe
+- Linthorpe Pharmacy
+- MGA Airlines
+- Park Mark
+- Ryanair
+- SkyBar
+- Teesside Airport
+- Teesside Boutique
+- Teesside International Airport
+- The Goosepool Bar
+- The Ramside Lounge
+- The Transporter Bar & Kitchen
+- Transun
 ---
 
 *(Image: Sarah Caldecott)*

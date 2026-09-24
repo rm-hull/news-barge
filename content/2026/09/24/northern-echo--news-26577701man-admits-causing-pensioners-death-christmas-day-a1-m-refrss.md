@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/18917948.jpg?type=og-image
+locations:
+- Auckland
+- Catterick Garrison
+- Lys Crescent
+- North East
+- Teesside Crown Court
+people:
+- Cameron
+- Chris
+- Dunn
+- Francis Laird KC
+- Grandma
+- Jessica & Lucy
+- Joshua Jones
+- Judith
+- SARAH CALDECOTT
+organisations:
+- A1
+- Echo
+- Fiesta
+- Hallie & Elsie
+- North Yorkshire Coroners’ Court
+- Rachel & Michael
+- Recorder of Middlesbrough
 ---
 
 *(Image: SARAH CALDECOTT)*

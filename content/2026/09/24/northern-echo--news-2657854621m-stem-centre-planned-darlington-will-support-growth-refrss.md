@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21496974.jpg?type=og-image
+locations:
+- Birmingham
+- Central Park
+- Darlington
+- Merseyside
+- North East
+- STEM Centre
+- Tees Valley
+- UK
+people:
+- David Gartland
+- Mike Hughes
+- Philip Probert
+- Rose Rouse
+organisations:
+- Darlington Borough Council
+- Darlington College
+- Darlington Neighbourhood Board
+- Darlington STEM Centre of Excellence
+- STEM Centre
+- STEM Centre of Excellence
+- Science Park
+- Teesside University
 ---
 
 **BUSINESSiQ Editor Mike Hughes gives his own personal view of Darlington - his home for more than 16 years - and the challenge of building a future for the next generation**

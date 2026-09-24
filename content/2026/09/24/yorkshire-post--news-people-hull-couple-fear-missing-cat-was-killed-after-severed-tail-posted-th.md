@@ -13,6 +13,19 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/6/28/murder-mystery-1607343.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Appleton Road
+- Hull
+- Liverpool
+people:
+- Hull
+- Lisa
+- Louise
+- Maple
+- Max
+organisations:
+- CCTV
+- Humberside Police
 ---
 
 # Hull couple fear missing cat was killed after severed tail posted through letterbox

@@ -11,6 +11,17 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/24/12/46/jaroslaw-stabbing.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Benedictine Sisters
+- Jarosław
+- Poland
+people:
+- Barbara Dendor
+- Marek
+- Stanisław
+organisations:
+- PAP
+- TVP Info
 ---
 
 A stabbing at a Catholic convent in Poland on Thursday left one person dead and four others wounded, authorities said.

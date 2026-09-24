@@ -11,6 +11,13 @@ categories:
 - UK
 - Food & Cooking
 image: https://static.independent.co.uk/2025/09/26/11/56/pint-pouring-draught-beer-lager-pub-stock.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations:
+- FSA
+- Food Standards Agency
+- Hazy IPA
+- Lucky Saint
 ---
 
 Low-alcohol brewer Lucky Saint has withdrawn one of its beers over concerns that the cans could explode.

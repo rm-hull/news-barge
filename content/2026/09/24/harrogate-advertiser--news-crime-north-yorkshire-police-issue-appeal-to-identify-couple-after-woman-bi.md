@@ -14,6 +14,15 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjYzgzNmU3LWVmZjEtNDIzMC1hNjZkLTVkNGUyMDE5ZjgxYzplNzc5YWZjYS04OWExLTRlYmQtYmJmYy0wZmI1MzBlMWY3NGU=.jpg?crop=3:2,smart&trim=&width=396&auto=webp&quality=75
+locations:
+- Harrogate
+- Husk
+- North Yorkshire
+- Station Square
+people:
+- Peter Henderson
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police issue appeal to identify couple after woman bitten by dog in Harrogate bar

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21481167.jpg?type=og-image
+locations:
+- Durham City Centre
+- El Pincho
+- Lanchester
+- Metrocentre
+- Riverwalk
+- Spain
+- UK
+people:
+- Jesse Bloch
+- Jules
+- K-Klass
+organisations:
+- Durham
+- El Pincho
+- Flip & Fill
+- The Three Horseshoes Inn
 ---
 
 *(Image: El Pincho)*

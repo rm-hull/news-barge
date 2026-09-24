@@ -11,6 +11,34 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/14/07/2294301628..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Camden
+- Gaza
+- Holborn
+- London
+- Makerfield
+- St Pancras
+people:
+- Andy Burnham
+- Ed Davey
+- Green
+- John Curtice
+- Keir Starmer
+- Nigel Farage
+- Zack Polanski
+organisations:
+- Green Party
+- Greens
+- Holborn
+- Labour
+- Lib Dems
+- Liberal Democrats
+- Reform UK
+- St Pancras
+- The Guardian
+- The Independent
+- Tory
+- YouGov
 ---
 
 A sustained polling boost for the new government is fuelling speculation that Andy Burnham is considering an early general election, as a fall in popularity for Reform UK continues.

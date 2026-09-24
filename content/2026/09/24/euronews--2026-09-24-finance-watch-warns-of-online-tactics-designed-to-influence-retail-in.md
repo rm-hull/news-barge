@@ -15,6 +15,27 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/36/51/1200x675_cmsv2_cf64e331-a666-5987-824e-7b4879bd6ee6-9923651.jpg
+locations:
+- Czechia
+- Dublin
+- Europe
+- Germany
+- Hungary
+- Ireland
+- Spain
+- Strasbourg
+people:
+- Peter Norwood
+- Simon Harris
+- Tasos Chatzivasileiou
+- Tánaiste
+- Ursula von der Leyen
+organisations:
+- EU
+- Euronews
+- European Commission
+- European Union
+- Finance Watch
 ---
 
 ## Online design tactics can influence consumers and retail investors, including minors, to make decisions that may not be in their best interests, while making information about potential risks less prominent, Finance Watch has warned.

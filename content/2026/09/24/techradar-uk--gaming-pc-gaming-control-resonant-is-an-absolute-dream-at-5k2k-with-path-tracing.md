@@ -11,6 +11,18 @@ description: Control Resonant at 5K2K using path tracing on an RTX 4080 Super is
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/rPPrGzQ5YG9v5G8JDy3mVf-2560-80.jpg
+locations:
+- Hiss
+people:
+- Dylan
+organisations:
+- 4TB Lexar NM790
+- 5K2K
+- GPU
+- LG
+- Lian Li
+- Nvidia
+- Remedy Entertainment
 ---
 
 ![Control Resonant running on a 5K2K monitor](https://cdn.mos.cms.futurecdn.net/rPPrGzQ5YG9v5G8JDy3mVf.jpg)

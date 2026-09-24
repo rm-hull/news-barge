@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/2c942fb6aa14a0291c9085fedcdc90e253f60536/923_0_6675_5339/master/6675.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8f9084f32d6b02a224789cb90edd56c
+locations:
+- Milan
+people:
+- Amelia Earhart
+- Beryl Markham
+- Eva Dickson
+- Freya Stark
+- Ian Griffiths
+- Max Mara
+- Osa Johnson
+organisations: []
 ---
 
 The Max Mara catwalk at Milan fashion week had well-cut coats, sturdy block-heeled boots, crisp white shirts and capacious suede handbags. What it quite deliberately did not have was shock value. “I hope everyone watching this show can recognise something of themselves in what they see,” said Ian Griffiths, the British designer who has been at this Italian house since 1987. “I think that’s really important. Without being critical of other brands or designers, so much of fashion alienates people and makes them feel that they aren’t good enough or thin enough or young enough to wear what’s being represented.”

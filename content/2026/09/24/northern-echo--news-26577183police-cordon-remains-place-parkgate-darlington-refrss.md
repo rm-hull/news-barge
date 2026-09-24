@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21494946.jpg?type=og-image
+locations:
+- Darlington
+- Parkgate
+- The Greyhound
+people: []
+organisations:
+- CSI
+- Durham Police
+- North East Ambulance Service
+- Northern Echo
+- THE NORTHERN ECHO
 ---
 
 A police cordon remains in place outside a Darlington pub this morning as CSI officers continue enquiries at an upstairs flat.

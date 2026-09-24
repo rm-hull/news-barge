@@ -14,6 +14,38 @@ categories:
 - Technology & Software
 - Science
 image: https://static.independent.co.uk/2026/09/24/08/Education_AI_Job_Market_221_5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Kenya
+- Tulane
+- U.S.
+people:
+- Collins Kibet
+- Fisayo Omojokun
+- Jack Zemke
+- Nicholas Mattei
+- Samir Khuller
+- Tracy Camp
+organisations:
+- AI
+- AP
+- AT&T
+- Amazon
+- Associated Press
+- Bootcamp to Industry
+- College of Computing
+- Computing Research Association
+- Federal Reserve
+- Georgia Tech
+- Google
+- Meta
+- Microsoft
+- National Student Clearinghouse Research Center
+- Northwestern University
+- Southern New Hampshire University
+- Stanford Digital Economy Lab
+- Trump
+- Tulane University
+- U.S. Census Bureau
 ---
 
 Computer science student Jack Zemke was getting nowhere despite sending out hundreds of job applications that mostly disappeared into the void — ignored.

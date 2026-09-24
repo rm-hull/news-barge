@@ -13,6 +13,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6ab4f01195492b6105c.jpg
+locations:
+- Harrogate
+people:
+- Celia McKeon
+- David Littler
+organisations:
+- Aphasia Support
+- Boroughbridge Community Charity
+- Dancing for Wellbeing
+- Emerging Voices
+- Harrogate & District Community Action
+- Harrogate Borough Council
+- Harrogate Town AFC Community Foundation
+- Holding Space
+- LOCAL FUND
+- Lifeline Harrogate
+- North Yorkshire Council
+- Orb Community Arts
+- Orb’s Garden
+- Sporting Influence Foundation
+- St Mark’s Church
+- The Principle Trust
+- The Village Harrogate
+- Two Ridings Community Foundation
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab4f01195492b6105c.jpg)

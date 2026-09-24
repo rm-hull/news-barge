@@ -12,6 +12,15 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866193416h-scaled.jpg
+locations:
+- Berlin
+people: []
+organisations:
+- '### BER Airport Evacuated Due to Hazardous Materials Alert Terminal 1'
+- AfD
+- Brandenburg Health
+- Brandenburger Tor
+- CSD
 ---
 
 ## News

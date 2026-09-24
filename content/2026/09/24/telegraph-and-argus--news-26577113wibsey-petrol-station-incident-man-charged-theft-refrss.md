@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21494806.jpg?type=og-image
+locations:
+- Bradford
+- St Helena Road
+- West Yorkshire
+- Wibsey Park
+people: []
+organisations:
+- Bradford Magistrates' Court
+- West Yorkshire Police
 ---
 
 *(Image: Google Maps)*

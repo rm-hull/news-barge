@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg
+locations:
+- Bulgaria
+- Crimea
+- Denmark
+- Europe
+- France
+- Germany
+- Halle Airport
+- Kharkiv
+- Kremlin
+- Kyiv
+- Leipzig
+- Masovian Voivodeship
+- Moldova
+- Moscow
+- New York
+- Poland
+- Romania
+- Russia
+- Stara Hnylytsia
+- Starlink
+- US
+- Ukraine
+- Wola Krobowska
+people:
+- Donald Tusk
+- Jared Kushner
+- Kirill Dmitriev
+- Krzysztof Gawkowski
+- Sergei Lavrov
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Kyiv
+- Nato
+- Reuters
+- TVP Info
+- Trump
+- UN General Assembly
+- UN Security Council
 ---
 
 ![Police walk next to a silver police van near the telecommunications station in Wola Krobowska, Masovian Voivodeship province.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg)

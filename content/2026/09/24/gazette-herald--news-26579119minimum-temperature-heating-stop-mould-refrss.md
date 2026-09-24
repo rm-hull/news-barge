@@ -13,6 +13,13 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/21497388.jpg?type=og-image
+locations: []
+people:
+- Ben Gallizzi
+- Stephen Hankinson
+organisations:
+- Electric Radiators Direct
+- Uswitch.com
 ---
 
 *(Image: Getty Images)*

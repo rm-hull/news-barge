@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/b1e48acaf30bada772a7a1031ed3f2bb915da235/731_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=58326956d79cd09a2fc34e17fb6cf4d9
+locations:
+- China
+- Gaza
+- Israel
+- Netherlands
+- New York
+- New York City
+- US
+- Washington DC
+- White House
+people:
+- Abraham Lincoln
+- Benjamin Netanyahu
+- Betsy Klein
+- Donald Trump
+- Eisenkot
+- Gadi
+- Laura Barrón-López
+- Mahmoud Abbas
+- Mamdani Taz Ali
+- Michael Oren
+- Peng Liyuan
+- Tim Kelly
+- Xi Jinping
+- Zohran Mamdani
+organisations:
+- AI
+- Associated Press
+- CNN
+- DJT
+- FAKE NEWS
+- Ford Theatre
+- Ford’s Theater
+- Hamas
+- ICC
+- International Criminal Court
+- Justice Department
+- LGBTQ
+- MS NOW
+- MS Now
+- MSDNC
+- PLO
+- Palestine Liberation Organisation
+- Palestinian Authority
+- Politico
+- Reuters
+- SI
+- South Portico
+- State Department
+- Super Intelligence
+- The New York Times
+- Trump
+- Truth Social
+- UN General Assembly
+- United Nations
 ---
 
 Politico, CNN, MS Now reporters blocked from White House despite judge's ruling

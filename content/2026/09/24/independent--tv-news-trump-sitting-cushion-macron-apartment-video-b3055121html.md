@@ -17,6 +17,65 @@ categories:
 - News & Politics
 - UK
 image: https://cdn.jwplayer.com/v2/media/yXIWMaxn/poster.jpg?width=720
+locations:
+- Chelsea
+- Dublin
+- Europe
+- France
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- NYC
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+- Ukraine
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- David Miliband
+- Diana
+- Donald Trump
+- Earl Spencer
+- Ed Gamble
+- Elizabeth Davies
+- Emmanuel Macron
+- Enzo Fernandez
+- Farage
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Michael Carrick
+- Mikel Arteta
+- Nourah
+- Sam Ryder
+- Tom Grennan
+- Volodymyr Zelensky
+- Wes Streeting
+organisations:
+- Brighton
+- Burnham
+- Burnham’s Trump
+- Chelsea
+- ELITE
+- Labour
+- Lib Dems
+- MI6
+- Macron
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Trump Tower
+- UN General Assembly
 ---
 
 ## Showing now | News

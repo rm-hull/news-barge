@@ -14,6 +14,22 @@ categories:
 - True Crime
 - Society & Culture
 image: https://static.the-independent.com/2026/09/22/20/16/GettyImages-2286572622.jpg?trim=243,599,762,909&width=1200&height=800&crop=1200:800
+locations:
+- Ga.
+- Mississippi
+- Nolan
+- Stonecrest
+- Wells
+people:
+- Ben Crump
+- Christine Wonsley
+- Elmore
+- Nolan Wells
+- Nolan Wells’
+- Wells'
+organisations:
+- NAACP
+- U.S. Department of Justice
 ---
 
 Civil rights attorney Ben Crump is set to release a forensic analysis of Nolan Wells’ cellphone on Thursday, escalating calls for transparency just days after a Mississippi grand jury declined to bring charges in the 18-year-old’s death.

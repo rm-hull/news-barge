@@ -13,6 +13,15 @@ categories:
 - Sports
 - Film & TV
 image: https://images.euronews.com/articles/stories/09/92/64/32/1200x675_cmsv2_29e4e839-b6cf-5a62-9a9b-0339002daa83-9926432.jpg
+locations:
+- Anglesey
+- UK
+- Wales
+people:
+- Wes Streeting
+organisations:
+- Hawk
+- UGC
 ---
 
 Video footage shows a British air force Hawk fighter jet crashing during a training exercise in north Wales, with what appears to be two pilots ejecting moments before the aircraft hits the ground and bursts into flames.

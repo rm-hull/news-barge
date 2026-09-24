@@ -13,6 +13,19 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6ab4c67cbb504414a9a.jpg
+locations:
+- Bettys
+- Cambridge Crescent
+- Harrogate
+- Princes Square
+people: []
+organisations:
+- Cambridge Crescent
+- Grade II
+- Newtons Solicitors
+- Newtons**’ Harrogate team
+- RBS
+- Royal Bank of Scotland
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab4c67cbb504414a9a.jpg)

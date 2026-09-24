@@ -13,6 +13,40 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21359553.jpg?type=og-image
+locations:
+- Ashford
+- Australia
+- Cherry Tree Avenue
+- Dover
+- Glascote Road
+- Hines Road
+- Ipswich
+- Letchworth Garden City
+- Margate
+- NR5 0JS
+- Norwich
+- Strood
+- Tamworth
+- UK
+- United States
+- Victoria Road
+people:
+- Giles Hurley
+- Rob Harris
+organisations:
+- 1RP
+- 2BS
+- Aldi UK
+- Avenue One
+- Deliveroo
+- DoorDash
+- Friary Place
+- Lidl
+- ME2 4TP
+- Mikael Buck
+- SG6 2HU
+- William Frost Way
+- Zion Place
 ---
 
 Aldi is set to launch a trial of a new service in a select number of its UK stores, before a planned nationwide rollout in 2027.

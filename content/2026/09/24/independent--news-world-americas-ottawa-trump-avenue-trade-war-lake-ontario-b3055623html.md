@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/10/2026-09-02T131555Z_423029695_RC2G8NAWKJTC_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA-PATRIOTISM.JPG?trim=0,27,0,27&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Central Park
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York
+- Ottawa
+- Trump Avenue
+- U.S.
+- United States
+people:
+- Donald Trump
+- Francois-Philippe Champagne
+- Mark Sutcliffe
+- Riley Brockington
+organisations:
+- CTV News
+- European Union
+- POLITICO
+- River Ward Councillor
+- The 51st State
+- Trump Avenue’
 ---
 
 A street in the Canadian capital city of Ottawa is changing its name thanks to the ongoing trade war between Canada and the U.S.

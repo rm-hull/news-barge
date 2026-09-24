@@ -14,6 +14,19 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/06/04/13/46/GettyImages-2169486653.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Strait of Hormuz
+people:
+- Donald Trump
+- Todd Vasos
+organisations:
+- Bureau of Labor Statistics
+- Dollar General
+- Goldman Sachs Global Consumer and Retail Conference
+- Sun
+- The New York Times
+- Walmart
 ---
 
 The CEO of Dollar General has said the bar for what counts as a higher income shopper has changed, as even people on six-figure salaries are struggling to balance their bills.

@@ -11,6 +11,47 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/11/Russia_Ukraine_War_71212.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Kharkiv
+- Krasnodar
+- Kremlin
+- Kyiv
+- Leamington Spa
+- Lisbon
+- Moldova Romania
+- Moscow
+- Odesa
+- Portugal
+- Rostov
+- Russia
+- Ukraine
+- hub
+people:
+- Andrii Sybiha
+- Dmitry Peskov
+- Ihor Vyhivskyi
+- Liubov Paziuk
+- Putin
+- Srdjan Nedeljkovic
+- Stephen McGrath
+- Valentyna Kolosenko
+- Volodymr Yurchuk
+- Volodymyr Zelenskyy
+- Yuri Slyusar
+- \_\_\_ Hatton
+organisations:
+- Associated Press
+- Defense Ministry
+- General Assembly
+- Human Rights Monitoring Mission
+- Kyiv
+- Ministry of Defense
+- Ministry of National Defense
+- The Associated Press
+- U.N
+- U.N.
+- United Nations
 ---
 
 Russian drone and missile attacks on Ukraine overnight killed at least eight civilians, officials said Thursday, as Moscow’s 4½-year-long invasion of its neighbor grinds on despite renewed appeals for a settlement at this week’s U.N. General Assembly.

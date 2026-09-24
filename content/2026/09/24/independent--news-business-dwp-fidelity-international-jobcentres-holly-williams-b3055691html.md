@@ -13,6 +13,16 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/12/24113159-4f3d262b-0f94-4813-aafb-b9b21361e73e.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Andrew Western
+- Marianna Hunt
+- Ms Hunt
+organisations:
+- DWP
+- Department for Work and Pensions
+- Fidelity International
+- Jobcentres
 ---
 
 More than half a million people aged over 50 want to work but are unable to due largely to ill health or disability, according to official figures.

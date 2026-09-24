@@ -13,6 +13,24 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21495944.jpg?type=og-image
+locations:
+- Arboretum
+- Cinnamon
+- Red Squirrel Enclosure
+- UK
+- Wales
+people:
+- Arborist
+- Ben Paterson
+- Cinnamon
+- David Attenborough
+organisations:
+- Castle Howard Arboretum
+- Castle Howard Arboretum Trust
+- Cinnamon
+- Red Squirrel
+- Red Squirrel Officer
+- Red Squirrels
 ---
 
 Castle Howard Arboretum has welcomed a young female Red Squirrel just in time for autumn.

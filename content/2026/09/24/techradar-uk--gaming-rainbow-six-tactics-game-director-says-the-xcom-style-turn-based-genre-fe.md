@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/uSkjrKyr4qtznLUnqNw3cJ-1920-80.jpg
+locations:
+- Paris
+people:
+- Martial Potron
+organisations:
+- PC
+- Rainbow Six team
+- TechRadar Gaming
+- Ubisoft
 ---
 
 ![Rainbow Six Tactics](https://cdn.mos.cms.futurecdn.net/uSkjrKyr4qtznLUnqNw3cJ.jpg)

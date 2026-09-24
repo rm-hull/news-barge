@@ -14,6 +14,20 @@ categories:
 - Sports
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM5MDc2MGQ4LTc2ZjMtNGE2MS1iYzk4LWEwZWEzOTU4YmQ5MToxMGZjYzk0Yi1hN2E2LTQxZGQtYWJjYy1hNzIzYjk4MjJlNWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bottesford
+- Scunthorpe
+people:
+- Adam Davy
+- Darren England
+- Dominik Szoboszlai
+organisations:
+- Allan J MacDonald
+- FIH
+- Liverpool
+- The Hockey Rules Board
+- VAR
+- Yorkshire Post Letters
 ---
 
 # The football season has only just started and I’m already frustrated with offside debates - Yorkshire Post Letters

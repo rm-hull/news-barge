@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/ce72bfd109e3793dc187f3eab311d7996bee2a51/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56a356aafd04a4449db4f3ed6aae7fdf
+locations:
+- Dowlatabad
+- Iran
+- Isfahan
+- New York
+- US
+- Utah
+people:
+- God
+- Marzieh Nourmohammadi
+- Masoud Nourmohammadi
+- Masoud Pezeshkian
+- Romina Rahimi
+- Taraneh
+organisations:
+- Guardian
+- IT
+- Islamic Revolutionary Guards Corps
+- Taraneh
+- UN
+- United Nations
 ---
 
 The family of 21-year-old twins who have been sentenced to death and decades in jail for protesting against the Iranian regime have appealed to the United Nations for help for the young women.

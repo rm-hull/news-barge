@@ -13,6 +13,23 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21496453.jpg?type=og-image
+locations:
+- '![]()Church Street'
+- Church Street
+- Scarborough
+- St Nicholas Street
+- Whitby
+- YO11 2HG
+people:
+- Kristy Renshaw
+organisations:
+- Bar & Kitchen
+- Google Maps
+- G’s Bar & Kitchen
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
+- TripAdvisor
 ---
 
 A new family-run bar and kitchen in the heart of Whitby has applied for a new licence.

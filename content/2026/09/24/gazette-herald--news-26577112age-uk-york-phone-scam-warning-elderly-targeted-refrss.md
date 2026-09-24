@@ -14,6 +14,17 @@ categories:
 - Society & Culture
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21494800.jpg?type=og-image
+locations:
+- A York
+- Age UK York
+- – York
+people:
+- Sam Smith
+- Yui Mok
+organisations:
+- Age UK
+- Age UK York
+- PA Wire
 ---
 
 *(Image: Yui Mok/PA Wire)*

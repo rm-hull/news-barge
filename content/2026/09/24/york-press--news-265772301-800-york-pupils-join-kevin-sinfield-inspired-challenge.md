@@ -13,6 +13,22 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21495031.jpg?type=og-image
+locations:
+- PA
+- York
+people:
+- Danny Lawson
+- Holgate
+- Joanna Kitney
+- Kevin Sinfield
+- Rob Burrow
+organisations:
+- AHS Unity Fund
+- Archbishop Holgate’s School
+- Holgate’s School
+- MND Association
+- Team Uganda
+- York
 ---
 
 ## 1,800 York pupils to take on remarkable 12-hour challenge as Kevin Sinfield runs past

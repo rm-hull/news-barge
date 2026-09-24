@@ -13,6 +13,23 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc4ZmE4YmE3LWVjZmEtNDk3OC1hZTA1LTBmMDQ0MTBlMTAxOTozNGVlYzI4OS02MDhkLTQyZjYtODEwMi02N2VjNTM2NDc0MWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Brexit Britain
+- Eastney Beach
+- Europe
+- Leeds
+- Portsmouth
+- Roundhay
+people:
+- Ed Davey
+- Jamie Lashmar
+- Peter Packham
+organisations:
+- Brexit
+- EU
+- European Union
+- The Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # The reason why Britain has been left playing a game of ‘whack-a-mole’ on migration - Yorkshire Post Letters

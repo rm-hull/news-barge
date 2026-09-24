@@ -19,6 +19,59 @@ categories:
 - UK
 - True Crime
 image: https://cdn.jwplayer.com/v2/media/B3eG1gbv/poster.jpg?width=720
+locations:
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Burnham
+- Charles
+- David Miliband
+- Diana
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Farage
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Met
+- Michael Carrick
+- Mikel Arteta
+- Nourah
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Brighton
+- Burnham
+- Burnham’s Trump
+- Chelsea
+- ELITE
+- Labour
+- Lib Dems
+- MI6
+- Metropolitan Police
+- Premier League
+- See.Sense
+- Spice Kitchen
 ---
 
 ## Showing now | News

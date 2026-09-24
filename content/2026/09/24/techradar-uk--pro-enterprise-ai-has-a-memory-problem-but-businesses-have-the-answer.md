@@ -10,6 +10,14 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+locations: []
+people: []
+organisations:
+- AI
+- Future plc
+- Hyland
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg)

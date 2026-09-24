@@ -14,6 +14,26 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.gazetteherald.co.uk/resources/images/21495459.jpg?type=og-image
+locations:
+- Britain
+- York
+- Yorkshire
+people:
+- Dave Callan
+- Richard Harpin
+organisations:
+- City of York Council
+- First Direct
+- HomeServe and Growth Partner
+- Make It York
+- Manchester United
+- ONTO Coaching
+- Team Sky
+- Travel Counsellors
+- York & North Yorkshire Growth Hub
+- York Business School
+- York Press
+- York St John University
 ---
 
 Business leaders at every stage of growth could benefit from stepping back and focusing on their personal development.

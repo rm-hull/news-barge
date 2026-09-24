@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21180768.jpg?type=og-image&xType=0&yType=0
+locations:
+- Intune
+people:
+- Sephyr Patriq
+organisations:
+- AI
+- Copilot
+- File Explorer
+- IT
+- Mac
+- Microsoft
+- Monterey
+- Office on Apple
+- Uninstall
 ---
 
 *(Image: Getty Images)*

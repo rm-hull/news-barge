@@ -13,6 +13,18 @@ categories:
 - Society & Culture
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21496597.jpg?type=og-image
+locations:
+- Crag Road
+- Shipley
+- West Yorkshire
+people:
+- Somebody
+organisations:
+- '**“** Sad News'
+- Aldi/mcdonalds
+- Facebook
+- WYP
+- Yorkshire Ambulance Service
 ---
 
 *(Image: T&A)*
