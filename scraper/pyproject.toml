@@ -2,7 +2,6 @@
 name = "scraper"
 version = "0.1.0"
 description = "News barge site scraper"
-readme = "../README.md"
 requires-python = ">=3.14"
 dependencies = [
     "aiohttp>=3.14.3",
@@ -14,4 +13,86 @@ dependencies = [
     "taxotag[litert]>=0.1.0",
     "tqdm>=4.70.1",
     "trafilatura>=2.2.0",
+    "colorama>=0.4.6",
 ]
+
+[project.scripts]
+scrape = "src.scrape:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.uv]
+package = true
+
+[dependency-groups]
+dev = [
+    "mypy>=1.13.0",
+    "pytest>=8.3.0",
+    "pytest-asyncio>=0.23.0",
+    "pytest-cov>=4.1.0",
+    "ruff>=0.9.0",
+    "types-PyYAML>=6.0.12",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py314"
+
+[tool.ruff.lint]
+# Conservative rule set: catch real bugs and enforce style without
+# being noisy.
+select = [
+    "B",   # flake8-bugbear
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "I",   # isort (import sorting)
+    "RUF", # ruff-specific rules
+    "UP",  # pyupgrade
+    "W",   # pycodestyle warnings
+]
+
+[tool.ruff.format]
+docstring-code-format = true
+
+[tool.mypy]
+python_version = "3.14"
+strict = true
+warn_unused_configs = false
+mypy_path = "src"
+
+# feedparser, taxotag, lxml and tqdm ship no type annotations or have
+# dynamic APIs (XPath, regex-heavy) that are not meaningfully checkable
+# with static stubs. Treat them as Any so mypy focuses on our code.
+# trafilatura also lacks type annotations and its settings module has
+# dynamic attributes not recognized by type checkers.
+[[tool.mypy.overrides]]
+module = [
+    "colorama",
+    "feedparser",
+    "taxotag.*",
+    "lxml.*",
+    "tqdm.*",
+    "tqdm",
+    "trafilatura",
+]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "--cov=src --cov-report=term-missing --cov-report=xml --cov-report=html --cov-report=lcov -W ignore::DeprecationWarning"
+filterwarnings = [
+    "ignore::DeprecationWarning:tld.utils",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+extraPaths = ["src"]
+pythonVersion = "3.14"

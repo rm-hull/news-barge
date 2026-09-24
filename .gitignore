@@ -5,3 +5,11 @@ __pycache__/
 scraper/__pycache__/
 *.pyc
 .env
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+# Add htmlcov/ and coverage XML to gitignore
+htmlcov/
+.coverage
+coverage.xml
+coverage.lcov

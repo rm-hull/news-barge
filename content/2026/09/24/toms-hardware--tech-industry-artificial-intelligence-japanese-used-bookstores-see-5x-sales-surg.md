@@ -1,0 +1,58 @@
+---
+title: Japanese used bookstores see 5x sales surge as books are being bought by the
+  ton, one 50-ton order sent to the US for AI scanning and destruction — multitude
+  of suspicious bulk buys thought to end up in foreign AI scan and shred facilities
+source_url: https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-09-24T16:43:58Z'
+published: '2026-09-24T00:00:00Z'
+description: Short-term boom could lead to a longer-term drought and removal of important
+  works from circulation.
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+image: https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd-1920-80.jpg
+---
+
+![A bookstore in Jimbocho, Tokyo](https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd.jpg)
+
+Bookstores in Japan are enjoying a boom in sales right now. However, this welcome spurt in business, where used books are bought in the 100s or even by the ton, is causing mixed feelings among owners of these businesses, reports NTV Japan (machine translation). It is suspected that many of the well-read hardbacks and paperbacks, often directed to “a logistics center in Okayama Prefecture,” will be scanned and then pulped by one of the foreign AI tech giants.
+
+We’ve previously reported on AI companies scanning and then destroying millions of books in the U.S. and Europe. Now reports indicate that the AI vandals are running similar schemes in Japan.
+
+According to NTV, there has been a large swell of orders being placed with bookstores that sell via online marketplaces. In interviews, some stores have reported selling 100s of books per day via these channels, or even days when sales have multiplied fivefold.
+
+The Japanese news site notes there are records of a 50-ton consignment of Japanese books being shipped to the U.S. to be churned through Anthropic’s destructive scanning process. It has also heard that a used bookstore in Western Japan has received an email from a foreign company inquiring about an order of tens of thousands of books.
+
+There are several other AI-is-vacuuming-up-my-culture tells in the new NTV story. The Japanese news site says that while the multiple accounts are responsible for the surge in bulk orders, they all request shipment to a logistics center in Okayama Prefecture. Unfortunately, the logistics center operator wouldn’t comment or answer questions from NTV.
+
+The genre purchasing pattern of the bulk buyers also hints at an AI scan and shred operation. A Tokyo bookstore owner told NTV that it used to be novels and comics that sold the most. However, the increased orders have recently been in genres like philosophy, history, political history, medicine, law, and topics such as “life and culture in the Edo period.”
+
+There are mixed feelings among the used bookstore owners who were interviewed. There’s something of a boom to be enjoyed now, with sales rocketing. Clearly, though, if used books are fully removed from circulation, there will be impacts on the prospects of businesses – like stock availability and pricing.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+There’s also the question of the removal of important cultural works from circulation if this trend continues. Another moral question concerns the use of copyrighted works for AI learning. This is still legal in Japan, unless it can be demonstrated that the scanning unfairly harms the interests of the copyright holder. With underhand bulk operations like these, it isn’t likely anyone will be asked for permission about their book being scanned.
+
+
+
+*Follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+![Mark Tyson](https://cdn.mos.cms.futurecdn.net/56vqMYLDaKRHPhHZgbADFR.jpg)
+
+Mark Tyson is a news editor at Tom's Hardware. He enjoys covering the full breadth of PC tech; from business and semiconductor design to products approaching the edge of reason.
+
+* I never favor book destruction.Reply  
+    
+  However, being book stores the likelihood of old and rare one of a kind books being destroyed could probably be lower. What I mean is,  
+    
+  If book X by author Y is printed a million times and then 200,000 of those copies get destroyed by AI shredders, I mean this is not good. But there still is 800k of them left.  
+    
+  If rare book A by author B only has three copies left and two are destroyed by AI shredders, this is panic inducing.  
+    
+  A/B and X/Y are clearly different scenarios on practically entirely different planets. Most of the book store I see favor the new books. But it is true that older ones and especially rare ones will get caught up in the fray, which is sad.
+* * One day in the near future humanity, or whatever is left of it, will have no printed books.Reply  
+      
+    But hey, we will have AI to vibe code, create deadly weaponry, hack into anything they're not supposed to and create AI girlfriends for the vibe-coders.

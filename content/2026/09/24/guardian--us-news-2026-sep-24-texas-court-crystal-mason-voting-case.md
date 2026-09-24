@@ -1,0 +1,48 @@
+---
+title: Texas court ends case against woman sentenced to five years over voting error
+source_url: https://www.theguardian.com/us-news/2026/sep/24/texas-court-crystal-mason-voting-case
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-24T19:59:26Z'
+published: '2026-09-24T00:00:00Z'
+description: Crystal Mason has spent nearly a decade fighting conviction for casting
+  provisional ballot that ultimately wasn’t counted
+categories:
+- UK
+- News & Politics
+image: https://i.guim.co.uk/img/media/b2f3c0bd8f3e537b9f4febf9edbb5f7e6ae78083/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a56445466e976cf6985bb7b6803a8aa
+---
+
+The nearly decade-long case of a Black Texas woman who was sentenced to five years in prison in a controversial illegal voting case will end with an acquittal, the state’s highest criminal court said in a 5-4 decision on Thursday.
+
+The woman, Crystal Mason, has been appealing against the case ever since her 2018 conviction for casting a provisional ballot that ultimately wasn’t counted. In 2024, the Texas court of criminal appeals acquitted her in the case. The local prosecutor handling the case appealed that ruling to Texas’s highest criminal court, which initially agreed to hear it. But on Thursday, the court reversed itself, and said it would not hear an appeal, letting the acquittal stand. It did not offer any explanation for why.
+
+“After 10 long years of fighting, I am overwhelmed with joy and gratitude. It’s hard to put into words how excited I am right now. This journey has been long, exhausting, and emotional, but God has carried me through it all,” Mason, 51, said in a text message.
+
+A spokesperson for Phil Sorrells, the Tarrant county district attorney, did not return a request for comment.
+
+Mason was on supervised release – which is like probation – for a federal tax felony when she went to her polling place on election day in the 2016 presidential election. When she arrived, officials could not find her on the list of registered voters and offered her a provisional ballot, a safeguard required by federal law, to cast her vote. Mason decided to do so. Poll workers testified that they had Mason swear everything in the affidavit was true, though Mason has always disputed this occurred.
+
+Texas, like many US states, prohibits people with a felony conviction from voting if they are on probation. Even though Mason signed an affidavit saying she was eligible to vote, she maintained she did not actually read the language on it and was never told she could not cast a ballot. Federal probation officials testified at her 2018 trial they never told her she couldn’t vote.
+
+Prosecutors nonetheless argued Mason knew she was eligible because she signed the affidavit and had sworn to poll workers that the information in the ballot was true. Mason has always maintained that testimony poll workers gave at her trial was not true. A judge found her guilty and sentenced her to five years in prison.
+
+The case triggered outrage because Mason consistently maintained it was an innocent mistake and the severity of her sentence. As Donald Trump sought to escalate claims about voter fraud after the 2016 race, many also saw the case as a local effort to make an example of Mason.
+
+“Civic participation without fear of imprisonment is a cherished right that is critical to our system of democracy. The highest criminal court in Texas affirmed that right by letting the lower court’s acquittal stand,” said Thomas Buser-Clancy, an attorney with the Texas chapter of the American Civil Liberties Union, which helped to represent Mason. “Ms. Mason has spent nearly a decade defending her rights in Texas and today we see that her efforts have been successful not only in defending her own freedom, but also in protecting the ability of Texans across the state to participate in our democracy without fear.”
+
+Alison Grinter, another one of Mason’s attorneys, said the ruling was important given the upcoming midterm elections.
+
+“This really is a great day for Texas voters who can finally celebrate their right to go to the polls unafraid and undeterred by partisan intimidation and scare tactics,” she said.
+
+Because Mason was convicted of a criminal offense while on supervised release, she returned to federal prison for 10 months. During that period, she nearly lost her home to foreclosure and her teenage daughter was entrusted with running her household. Her college-age son left a football scholarship to return home and help with costs around the home. Mason has three children and also raised four of her brother’s children. She has 10 grandchildren.
+
+Four of the justices on the court wrote dissenting opinions, saying they believed there was sufficient evidence Mason knew she was ineligible when she cast a ballot.
+
+“The evidence presented by the State at Appellant’s trial for illegal voting was sufficient to show that Appellant ‘actually knew’ that she was ineligible to vote,” judge Lee Finley wrote in a dissent that was joined by judge Gina Parker. “The provisional voter affidavit, corroborated by the additional evidence presented by the State, leaves no doubt whatsoever that the trier of fact was presented with sufficient evidence to sustain Appellant’s conviction. This is not a close case.”
+
+Mason was not particularly political before 2016, but since her conviction, she has become much more politically engaged. In 2022, she opened a rally for Beto O’Rourke and worked to educate voters about their rights.
+
+Recently, she said, the wife of the current district attorney, Phil Sorrells, knocked on her door and asked her if she would consider voting for him this year.
+
+“The irony of that moment is something I will never forget,” she said.
