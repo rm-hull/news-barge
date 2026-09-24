@@ -84,7 +84,10 @@ ignore_missing_imports = true
 asyncio_mode = "auto"
 testpaths = ["tests"]
 pythonpath = ["src"]
-addopts = "--cov=scrape --cov-report=term-missing --cov-report=xml --cov-report=html --cov-report=lcov"
+addopts = "--cov=scrape --cov-report=term-missing --cov-report=xml --cov-report=html --cov-report=lcov -W ignore::DeprecationWarning"
+filterwarnings = [
+    "ignore::DeprecationWarning:tld.utils",
+]
 
 [tool.pyright]
 venvPath = "."
