@@ -14,7 +14,7 @@ from urllib.parse import parse_qsl, urlencode, urlparse
 from lxml import html as lxml_html
 from markdownify import markdownify as to_markdown
 
-from constants import REPO_ROOT
+from .constants import REPO_ROOT
 
 # ---------------------------------------------------------------------------
 # Slug helpers

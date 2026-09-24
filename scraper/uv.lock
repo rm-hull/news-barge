@@ -1560,6 +1560,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "aiohttp" },
+    { name = "colorama" },
     { name = "feedparser" },
     { name = "markdownify" },
     { name = "playwright" },
@@ -1582,6 +1583,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "aiohttp", specifier = ">=3.14.3" },
+    { name = "colorama", specifier = ">=0.4.6" },
     { name = "feedparser", specifier = ">=6.0.14" },
     { name = "markdownify", specifier = ">=1.2.0" },
     { name = "playwright", specifier = ">=1.63.0" },

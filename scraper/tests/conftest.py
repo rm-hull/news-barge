@@ -14,7 +14,7 @@ from unittest.mock import AsyncMock, MagicMock, patch
 import pytest
 from aiohttp import web
 
-import scrape
+import src.scrape as scrape
 
 # ─── Dummy content served by the test HTTP server ──────────────────────────
 

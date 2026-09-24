@@ -29,7 +29,7 @@ from lxml import html as lxml_html
 from playwright.async_api import Browser, async_playwright
 from tqdm.asyncio import tqdm
 
-from constants import (
+from .constants import (
     CONTENT_DIR,
     DEFAULT_BROWSER_CONCURRENCY,
     DEFAULT_CONCURRENCY,
@@ -39,16 +39,16 @@ from constants import (
     taxotag,
     taxotag_lock,
 )
-from fetchers import (
+from .fetchers import (
     fetch_html_aiohttp,
     fetch_html_playwright,
 )
-from log_helper import (
+from .log_helper import (
     SiteLogger,
     report_error,
     report_group,
 )
-from pipeline import process_article
+from .pipeline import process_article
 
 # ---------------------------------------------------------------------------
 # Feed handlers

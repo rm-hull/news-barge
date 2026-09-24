@@ -12,6 +12,7 @@ dependencies = [
     "taxotag[litert]>=0.1.0",
     "tqdm>=4.70.1",
     "trafilatura>=2.2.0",
+    "colorama>=0.4.6",
 ]
 
 [project.scripts]
@@ -61,7 +62,6 @@ docstring-code-format = true
 python_version = "3.14"
 strict = true
 warn_unused_configs = false
-explicit_package_bases = true
 mypy_path = "src"
 
 # feedparser, taxotag, lxml and tqdm ship no type annotations or have
@@ -71,6 +71,7 @@ mypy_path = "src"
 # dynamic attributes not recognized by type checkers.
 [[tool.mypy.overrides]]
 module = [
+    "colorama",
     "feedparser",
     "taxotag.*",
     "lxml.*",

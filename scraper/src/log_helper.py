@@ -9,6 +9,12 @@ import sys
 from collections.abc import Generator
 from contextlib import contextmanager
 
+from colorama import Fore, Style, init
+
+# Initialize colorama for cross-platform color support
+# strip=False forces colors even when not writing to a TTY
+init(strip=False)
+
 
 class SiteLogger:
     """Logger that collects messages for grouped GitHub Actions output."""
@@ -25,9 +31,9 @@ class SiteLogger:
         if os.environ.get("GITHUB_ACTIONS") == "true":
             self.logs.append(f"::error::{message}")
         else:
-            RED_BOLD = "\033[1;31m"
-            RESET = "\033[0m"
-            self.logs.append(f"{RED_BOLD}ERROR:{RESET} {message}")
+            self.logs.append(
+                f"{Style.BRIGHT + Fore.RED}ERROR:{Style.RESET_ALL} {message}"
+            )
 
     def info(self, message: str) -> None:
         self.log(message)
@@ -40,9 +46,7 @@ def report_error(message: str, logger: SiteLogger | None = None) -> None:
     elif os.environ.get("GITHUB_ACTIONS") == "true":
         print(f"::error::{message}", file=sys.stderr)
     else:
-        RED_BOLD = "\033[1;31m"
-        RESET = "\033[0m"
-        formatted_msg = f"{RED_BOLD}ERROR:{RESET} {message}"
+        formatted_msg = f"{Style.BRIGHT + Fore.RED}ERROR:{Style.RESET_ALL} {message}"
         print(formatted_msg, file=sys.stderr)
 
 

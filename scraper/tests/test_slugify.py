@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from helpers import url_to_slug
+from src.helpers import url_to_slug
 
 
 def test_url_to_slug_basic() -> None:

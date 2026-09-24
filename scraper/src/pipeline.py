@@ -14,7 +14,7 @@ from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
 from playwright.async_api import Browser
 
-from constants import (
+from .constants import (
     REPO_ROOT,
     TAXOTAG_TOP_K,
     TRAFILATURA_CONFIG,
@@ -22,15 +22,19 @@ from constants import (
     taxotag,
     taxotag_lock,
 )
-from extraction import clean_markdown_formatting, linkify_text, normalize_inline_spacing
-from fetchers import fetch_html_aiohttp, fetch_html_playwright
-from helpers import (
+from .extraction import (
+    clean_markdown_formatting,
+    linkify_text,
+    normalize_inline_spacing,
+)
+from .fetchers import fetch_html_aiohttp, fetch_html_playwright
+from .helpers import (
     extract_first_image_from_markdown,
     output_path,
     remove_excluded_elements,
     url_to_slug,
 )
-from log_helper import SiteLogger, report_error
+from .log_helper import SiteLogger, report_error
 
 # ---------------------------------------------------------------------------
 

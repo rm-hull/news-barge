@@ -15,8 +15,8 @@ from playwright.async_api import (
     Route,
 )
 
-from constants import FETCH_HEADERS
-from log_helper import report_error
+from .constants import FETCH_HEADERS
+from .log_helper import report_error
 
 # Type alias for fetch results
 FetchResult = str | None

@@ -21,7 +21,7 @@ from unittest.mock import AsyncMock
 import pytest
 import yaml
 
-import scrape
+import src.scrape as scrape
 
 # ─── Full feed-based scrape ─────────────────────────────────────────────────
 
