@@ -48,7 +48,6 @@ def render_article(frontmatter: dict, body: str) -> str:
 
 
 if __name__ == "__main__":
-
     # nlp = spacy.load("en_core_web_lg")
 
     nlp = spacy.load("en_core_web_trf")
@@ -82,7 +81,6 @@ if __name__ == "__main__":
                     people.append(ent.text)
                 elif ent.label_ == "ORG":
                     orgs.append(ent.text)
-
 
         except (OSError, ValueError, KeyError, TypeError) as error:
             skipped += 1

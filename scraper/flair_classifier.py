@@ -66,7 +66,6 @@ def filter_duplicate_names(names):
 
 
 if __name__ == "__main__":
-
     tagger = Classifier.load("ner-fast")
     splitter = SegtokSentenceSplitter()
 
@@ -87,7 +86,11 @@ if __name__ == "__main__":
     for path in tqdm(sorted(CONTENT_DIR.rglob("*.md"))):
         try:
             frontmatter, body = parse_article(path)
-            if "locations" in frontmatter or "people" in frontmatter or "orgs" in frontmatter:
+            if (
+                "locations" in frontmatter
+                or "people" in frontmatter
+                or "orgs" in frontmatter
+            ):
                 skipped += 1
                 # print(f"SKIP {path.relative_to(REPO_ROOT)}: already processed")
                 continue

@@ -11,6 +11,8 @@ import pytest
 
 from src.log_helper import SiteLogger
 from src.pipeline import process_article
+from src.output import output_path
+from src.slugs import url_to_slug
 
 
 def make_site(**overrides: object) -> dict[str, object]:
@@ -254,10 +256,6 @@ class TestProcessArticle:
         meta.description = "Test description"
         meta.image = None
         mock_meta.return_value = meta
-
-        # Pre-create the file
-        from src.output import output_path
-        from src.slugs import url_to_slug
 
         slug = url_to_slug("https://example.com/article", False)
         file_date = datetime.now(UTC)

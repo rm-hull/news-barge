@@ -2,9 +2,12 @@
 
 from __future__ import annotations
 
+from dataclasses import dataclass
 from threading import Lock
-from typing import cast
+from typing import List, cast
 
+from flair.nn import Classifier
+from flair.splitter import SegtokSentenceSplitter
 from taxotag import Gist
 
 from .constants import TAXOTAG_TOP_K
@@ -15,6 +18,16 @@ from .constants import TAXOTAG_TOP_K
 
 _gist: Gist = Gist()
 _lock: Lock = Lock()
+
+_tagger = Classifier.load("ner-fast")
+_splitter = SegtokSentenceSplitter()
+
+
+@dataclass
+class NamedEntities:
+    people: List[str]
+    locations: List[str]
+    organisations: List[str]
 
 
 def article_categories(title: str, description: str) -> list[str]:
@@ -29,3 +42,28 @@ def article_categories(title: str, description: str) -> list[str]:
     with _lock:
         topics = _gist.classify(text, top_k=TAXOTAG_TOP_K)
     return cast(list[str], [topic.name for topic in topics])
+
+
+def named_entities(text: str) -> NamedEntities:
+    cleaned_lines = [line.strip() for line in text.split("\n") if line.strip()]
+    cleaned_text = " ".join(cleaned_lines)
+
+    sentences = _splitter.split(cleaned_text)
+    # with _lock:
+    _tagger.predict(sentences)
+
+    entities = NamedEntities([], [], [])
+
+    for sentence in sentences:
+        for label in sentence.get_labels():
+            if label.value == "LOC" and label.data_point.text not in entities.locations:
+                entities.locations.append(label.data_point.text)
+            if label.value == "PER" and label.data_point.text not in entities.people:
+                entities.people.append(label.data_point.text)
+            if (
+                label.value == "ORG"
+                and label.data_point.text not in entities.organisations
+            ):
+                entities.organisations.append(label.data_point.text)
+
+    return entities

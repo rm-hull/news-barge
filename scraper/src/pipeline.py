@@ -13,8 +13,9 @@ import trafilatura
 from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
 from playwright.async_api import Browser
+import yaml
 
-from .classifiers import article_categories
+from .classifiers import article_categories, named_entities
 from .constants import (
     REPO_ROOT,
     TRAFILATURA_CONFIG,
@@ -145,6 +146,8 @@ async def process_article(
         dict.fromkeys((site.get("categories") or []) + generated_categories)
     )
 
+    entities = named_entities(description)
+
     frontmatter: dict[str, Any] = {
         "title": title,
         "source_url": url,
@@ -155,6 +158,9 @@ async def process_article(
         "description": description,
         "categories": categories,
         "image": image,
+        "people": entities.people,
+        "locations": entities.locations,
+        "organisations": entities.organisations,
     }
 
     path = output_path(site_slug, slug, file_date, output_dir=output_dir)
@@ -179,9 +185,6 @@ async def process_article(
         )
         logger.log(f"  [dry-run] would write {display_path}")
         return True
-
-    # Write the markdown file
-    import yaml
 
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(

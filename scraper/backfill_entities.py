@@ -13,7 +13,17 @@ SITES_FILE = REPO_ROOT / "sites.yaml"
 
 redactor = Redact()
 piitag_lock = Lock()
-options = Options(labels={Label.GIVEN_NAME, Label.SURNAME, Label.CITY, Label.STATE, Label.EMAIL, Label.PHONE, Label.ORG})
+options = Options(
+    labels={
+        Label.GIVEN_NAME,
+        Label.SURNAME,
+        Label.CITY,
+        Label.STATE,
+        Label.EMAIL,
+        Label.PHONE,
+        Label.ORG,
+    }
+)
 
 
 def classify_article(body: str) -> Redaction:

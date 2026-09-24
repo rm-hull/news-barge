@@ -56,7 +56,6 @@ def render_article(frontmatter: dict, body: str) -> str:
 
 
 if __name__ == "__main__":
-
     litert_lm.set_min_log_severity(litert_lm.LogSeverity.ERROR)  # Hide log for TUI app
 
     parser = argparse.ArgumentParser(
@@ -77,21 +76,23 @@ if __name__ == "__main__":
         model,
         backend=litert_lm.Backend.GPU(),
         enable_speculative_decoding=True,
-
     ) as engine:
-
         changed = 0
         skipped = 0
 
         messages = [litert_lm.Message.system(PROMPT)]
-        thinking_config = litert_lm.ThinkingConfig(enable_thinking=False, thinking_token_budget=0)
+        thinking_config = litert_lm.ThinkingConfig(
+            enable_thinking=False, thinking_token_budget=0
+        )
 
         result = ""
         for path in tqdm(sorted(CONTENT_DIR.rglob("*.md"))):
             try:
                 frontmatter, body = parse_article(path)
 
-                with engine.create_conversation(messages=messages, thinking_config=thinking_config) as conversation:
+                with engine.create_conversation(
+                    messages=messages, thinking_config=thinking_config
+                ) as conversation:
                     response = conversation.send_message(body)
                     result = response["content"][0]["text"]
                     categories = Categories.model_validate_json(result)

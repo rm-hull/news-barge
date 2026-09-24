@@ -24,7 +24,6 @@ class Categories(BaseModel):
 
 
 class Classifier:
-
     def __init__(self, api_key: str, model: str) -> None:
         self.api_key = api_key
         self.model = model
@@ -47,7 +46,6 @@ class Classifier:
 
 
 if __name__ == "__main__":
-
     with open(
         CONTENT_DIR
         / "2026/09/21/bbc--news-articles-cx4gqv239043o-at-mediumrssat-campaignrss.md"

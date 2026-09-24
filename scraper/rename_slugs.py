@@ -7,11 +7,11 @@ the ``source_url`` stored in the file's YAML frontmatter using the *new*
 ``url_to_slug`` logic (which omits query params entirely).  The file is then
 renamed so the permalink changes from, e.g.::
 
-    bbc--news-articles-crk3xd8j3k5o-at-mediumrssat-campaignrss.md
+    bbc - -news - articles - crk3xd8j3k5o - at - mediumrssat - campaignrss.md
 
 to::
 
-    bbc--news-articles-crk3xd8j3k5o.md
+    bbc - -news - articles - crk3xd8j3k5o.md
 
 Only the *filename* changes; the frontmatter ``source_url`` is already correct
 and is left untouched.
@@ -63,6 +63,7 @@ def url_to_slug(url: str, exclude_query_params: bool = False) -> str:
 
 
 # ---------------------------------------------------------------------------
+
 
 def load_sites() -> dict[str, dict]:
     """Return a dict mapping site slug -> site config dict."""
@@ -123,8 +124,10 @@ def main() -> None:
         # we need to be careful. We'll report it but not overwrite.
         if new_path.exists() and new_path != old_path:
             collisions += 1
-            print(f"  ⚠ COLLISION: {old_path.name} -> {new_filename} "
-                  f"(target already exists, skipping)")
+            print(
+                f"  ⚠ COLLISION: {old_path.name} -> {new_filename} "
+                f"(target already exists, skipping)"
+            )
             continue
 
         old_path.rename(new_path)
@@ -133,8 +136,10 @@ def main() -> None:
         print(f"  ✓ {rel_old.name}  →  {rel_new.name}")
         renamed += 1
 
-    print(f"\nDone. Renamed: {renamed}, Already correct: {skipped}, "
-          f"Collisions: {collisions}")
+    print(
+        f"\nDone. Renamed: {renamed}, Already correct: {skipped}, "
+        f"Collisions: {collisions}"
+    )
 
 
 if __name__ == "__main__":
